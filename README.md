@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [frontend :the part of design](https://dev.to/dipon_mitra_77cfadaa80a30/frontend-the-part-of-design-a86)
-- [Is Software Engineering Still Worth It in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
-- [Breaking Into Problem Solving: My LeetCode Journey](https://dev.to/aditya_ray/breaking-into-problem-solving-my-leetcode-journey-55n1)
-- [TaskCard – Privacy-focused, procrastination-friendly task manager](https://dev.to/cihat/taskcard-privacy-focused-procrastination-friendly-task-manager-3hkl)
+- [How to Develop the Right Mindset as a Programmer](https://dev.to/jenueldev/how-to-develop-the-right-mindset-as-a-programmer-37ef)
+- [Matanuska ADR 003 - Recursive Descent Parser](https://dev.to/jfhbrook/matanuska-adr-003-recursive-descent-parser-52o9)
+- [Building scalable ML workflows](https://dev.to/acoh3n/building-scalable-ml-workflows-4f0k)
+- [[Development Tips] How to Get the Number of Strokes in Chinese Characters?](https://dev.to/algieba/development-tips-how-to-get-the-number-of-strokes-in-chinese-characters-ekb)
 <!-- BLOG-POST-LIST:END -->
 
 
