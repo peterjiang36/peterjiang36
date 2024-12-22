@@ -69,7 +69,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Docker Containers and Immutable Infrastructure: Streamlining Deployments and Scaling](https://dev.to/abhay_yt_52a8e72b213be229/docker-containers-and-immutable-infrastructure-streamlining-deployments-and-scaling-2nep)
+- [Using Docker for Microservices: Streamlining Development, Deployment, and Scaling](https://dev.to/abhay_yt_52a8e72b213be229/using-docker-for-microservices-streamlining-development-deployment-and-scaling-53nk)
+- [New 34 GitHub Repositories - OpenSource of Dec 21, 2024](https://dev.to/gittech/new-34-github-repositories-opensource-of-dec-21-2024-14hi)
+- [Container Orchestration with Docker Swarm: A Simplified Approach to Managing Containers](https://dev.to/abhay_yt_52a8e72b213be229/container-orchestration-with-docker-swarm-a-simplified-approach-to-managing-containers-5874)
 <!-- BLOG-POST-LIST:END -->
 
 
