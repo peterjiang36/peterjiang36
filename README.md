@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web4: A New Hope for the Internet](https://dev.to/web4/web4-a-new-hope-for-the-internet-490b)
-- [No wonder they ask this in interviews. It&#39;s so basic yet so important.](https://dev.to/shreyasnandanwar/no-wonder-they-ask-this-in-interviews-its-so-basic-yet-so-important-1jeb)
-- [Exploring the Future of Frontend Technology: Trends and Innovations for 2025](https://dev.to/jetthoughts/exploring-the-future-of-frontend-technology-trends-and-innovations-for-2025-5hk6)
-- [Unlocking the Power of React’s componentDidMount: Mastering Its Lifecycle for Smarter Apps](https://dev.to/shreyasnandanwar/understanding-reacts-componentdidmount-lifecycle-method-1pn7)
+- [JavaScript Pollyfills](https://dev.to/nishantsinghchandel/javascript-pollyfills-37i8)
+- [Using Node&#39;s built-in test runner with Turborepo](https://dev.to/andreik/using-nodes-built-in-test-runner-with-turborepo-3509)
+- [I used [ Figma] to bring this concept to life and truly enjoyed every step of the process.](https://dev.to/mrugadnik/i-used-figma-to-bring-this-concept-to-life-and-truly-enjoyed-every-step-of-the-process-2gl5)
+- [Software Project Management for Website Development](https://dev.to/davidjonson/software-project-management-for-website-development-19f8)
 <!-- BLOG-POST-LIST:END -->
 
 
