@@ -6,11 +6,11 @@
   <a href="https://www.linkedin.com/in/peter-b-jiang/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/peter_b_jiang/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://peter-jiang.com//" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-5C2D91?style=for-the-badge&logo=blogger&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.instagram.com/peter_b_jiang/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=peterjiang36&style=flat-square&color=blue" alt="profile viewer"/>
   <h1>
