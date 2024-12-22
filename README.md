@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solution: &quot;Android Emulator Process has terminated&quot; - Windows 10](https://dev.to/pgomezec/solution-android-emulator-process-has-terminated-windows-10-219j)
-- [Dark Portfolio: A Fully Responsive Next.js 15 + TypeScript + Tailwind CSS Project](https://dev.to/seyma/dark-portfolio-a-fully-responsive-nextjs-15-typescript-tailwind-css-project-l3i)
-- [🎄CSS Art: December Challange - Christmas In Malaysia ✨](https://dev.to/juniourrau/css-art-december-challange-christmas-in-malaysia-1fjb)
-- [Redux Toolkit: Creating Thunk Functions](https://dev.to/hajarnasr/redux-toolkit-creating-thunk-functions-ic2)
+- [Managing and Securing Access to AWS Resources Using IAM](https://dev.to/bvs_karthik/managing-and-securing-access-to-aws-resources-using-iam-18pc)
+- [Concurrency Patterns: Active Object](https://dev.to/yasir323/concurrency-patterns-active-object-19l3)
+- [I&#39;m building my own kernel!](https://dev.to/kernux_/im-building-my-own-kernel-4lnc)
+- [Mastering Server-Side Rendering &lpar;SSR&rpar; in React 19 with Vite: The Ultimate Guide for Developers](https://dev.to/yugjadvani/mastering-server-side-rendering-ssr-in-react-19-with-vite-the-ultimate-guide-for-developers-4mgm)
 <!-- BLOG-POST-LIST:END -->
 
 
