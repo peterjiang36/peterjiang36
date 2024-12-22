@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Counting the number of Tokens sent to a LLM in Go &lpar;part 2&rpar;](https://dev.to/aairom/counting-the-number-of-tokens-sent-to-a-llm-in-go-part-2-19fi)
-- [what is variable ?](https://dev.to/hema_latha/what-is-variable--fme)
-- [📉 Cardano &lpar;ADA&rpar; Could Fall 15% – Here’s Why 🚨](https://dev.to/sergi_web3/cardano-ada-could-fall-15-heres-why-40h1)
-- [🚀 Render: Can Whales Push RNDR to $8.13 After a 40% Dip? 📊🐋](https://dev.to/joshthebtc/render-can-whales-push-rndr-to-813-after-a-40-dip-4d7b)
+- [Cracking the AWS SAA-C03: A Real-World Preparation Guide](https://dev.to/franciscojeg78/cracking-the-aws-saa-c03-a-real-world-preparation-guide-42jk)
+- [Snooping on your GPU: Using eBPF to Build Zero-instrumentation CUDA Monitoring](https://dev.to/ethgraham/snooping-on-your-gpu-using-ebpf-to-build-zero-instrumentation-cuda-monitoring-2hh1)
+- [State of JavaScript 2024 Results, GitHub Copilot Now Free, EPIC Developer Tools, and more](https://dev.to/thisweekinjavascript/state-of-javascript-2024-results-github-copilot-now-free-epic-developer-tools-and-more-3pbi)
+- [How to Integrate Tabby in React Native: A Step-by-Step Guide](https://dev.to/muhammad_harisbaig_1268d/how-to-integrate-tabby-in-react-native-a-step-by-step-guide-3ja)
 <!-- BLOG-POST-LIST:END -->
 
 
