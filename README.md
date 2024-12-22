@@ -27,7 +27,7 @@
 
 **`Software Engineer/Skier/Tennis & Badminton Player/Outdoorsy`**
 
-### :man_technologist: About Me :<br> 
+### :man_technologist: About Me:
 
 I'm currently pursuing a Computer Science Honours degree at the University of Saskatchewan. I have a passion for building things with code, whether it's debugging complex logic, perfecting the user experience of a web page, or bringing a new idea to life. My attention to detail means I can easily spend hours fine-tuning solutions until they’re just right.
 
@@ -39,7 +39,7 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ---
 
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Python" width="35px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
@@ -69,7 +69,7 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ---
 
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Docker Containers and Immutable Infrastructure: Streamlining Deployments and Scaling](https://dev.to/abhay_yt_52a8e72b213be229/docker-containers-and-immutable-infrastructure-streamlining-deployments-and-scaling-2nep)
