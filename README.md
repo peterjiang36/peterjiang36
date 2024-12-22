@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing and Securing Access to AWS Resources Using IAM](https://dev.to/bvs_karthik/managing-and-securing-access-to-aws-resources-using-iam-18pc)
-- [Concurrency Patterns: Active Object](https://dev.to/yasir323/concurrency-patterns-active-object-19l3)
-- [I&#39;m building my own kernel!](https://dev.to/kernux_/im-building-my-own-kernel-4lnc)
-- [Mastering Server-Side Rendering &lpar;SSR&rpar; in React 19 with Vite: The Ultimate Guide for Developers](https://dev.to/yugjadvani/mastering-server-side-rendering-ssr-in-react-19-with-vite-the-ultimate-guide-for-developers-4mgm)
+- [¿Cómo solucionar el error &#39;GPG key is already installed&#39; al instalar MySQL en Amazon Linux 2023?](https://dev.to/briansuarezsantiago/como-solucionar-el-error-gpg-key-is-already-installed-al-instalar-mysql-en-amazon-linux-2023-bd)
+- [Cartoon Network Logo with Web Component](https://dev.to/citronbrick/cartoon-network-logo-with-web-component-4d8p)
+- [👺Nasty People, How to deal with them without stooping to their level.](https://dev.to/devmercy/nasty-people-how-to-deal-with-them-without-stooping-to-their-level-2fng)
+- [FSCSS Example](https://dev.to/lmcss/fscss-example-1cpe)
 <!-- BLOG-POST-LIST:END -->
 
 
