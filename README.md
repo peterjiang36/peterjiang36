@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Driving AWS Fargate to the Edge: Matillion Hybrid Agents and Python Pandas](https://dev.to/zirkonium88/driving-aws-fargate-to-the-edge-matillion-hybrid-agents-and-python-pandas-1f1a)
-- [Web Scraping for Product Analysis and Price Comparison](https://dev.to/fahminlb33/web-scraping-for-product-analysis-and-price-comparison-1o9j)
-- [7 Essential Java Security Techniques: A Developer&#39;s Guide](https://dev.to/aaravjoshi/7-essential-java-security-techniques-a-developers-guide-3j4b)
-- [How to Make Cornell Notes with Notion: A Comprehensive Guide](https://dev.to/airabbit/how-to-make-cornell-notes-with-notion-a-comprehensive-guide-5hio)
+- [frontend :the part of design](https://dev.to/dipon_mitra_77cfadaa80a30/frontend-the-part-of-design-a86)
+- [Is Software Engineering Still Worth It in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
+- [Breaking Into Problem Solving: My LeetCode Journey](https://dev.to/aditya_ray/breaking-into-problem-solving-my-leetcode-journey-55n1)
+- [TaskCard – Privacy-focused, procrastination-friendly task manager](https://dev.to/cihat/taskcard-privacy-focused-procrastination-friendly-task-manager-3hkl)
 <!-- BLOG-POST-LIST:END -->
 
 
