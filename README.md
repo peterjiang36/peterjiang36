@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekend Coding: Turn PDF Payslips Into a Single CSV Report](https://dev.to/cupofcode/weekend-coding-turn-pdf-payslips-into-a-single-csv-report-4212)
-- [What is a Proxy Server? Understanding the Middleman of the Internet](https://dev.to/lovestaco/what-is-a-proxy-server-understanding-the-middleman-of-the-internet-nmo)
-- [Studying at the University in the Age of Self-Learning. My Experience as the Design Student](https://dev.to/jakub_bobkowski/studying-at-the-university-in-the-age-of-self-learning-my-experience-as-the-top-student-317m)
-- [It&#39;s Okay to Code on Nights and Weekends](https://dev.to/tejas_kumar_83c520d6bef27/its-okay-to-code-on-nights-and-weekends-2m5d)
+- [Cloud Security Challenges and Encryption, Identity Management, and Compliance](https://dev.to/atharvgyan/cloud-security-challenges-and-encryption-identity-management-and-compliance-2bm8)
+- [Como realizei o deploy do meu portfólio utilizando uma VPS](https://dev.to/fernandeess/como-realizei-o-deploy-do-meu-portfolio-utilizando-uma-vps-27je)
+- [&quot;Space-Ease: Rent Your Space, Park With Ease&quot;](https://dev.to/roy_amit/space-ease-rent-your-space-park-with-ease-21bg)
+- [Tea Loop - A/B testing with DevCycle](https://dev.to/schemetastic/tea-loop-ab-testing-with-devcycle-2hgb)
 <!-- BLOG-POST-LIST:END -->
 
 
