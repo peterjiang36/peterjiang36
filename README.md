@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the AWS SAA-C03: A Real-World Preparation Guide](https://dev.to/franciscojeg78/cracking-the-aws-saa-c03-a-real-world-preparation-guide-42jk)
-- [Snooping on your GPU: Using eBPF to Build Zero-instrumentation CUDA Monitoring](https://dev.to/ethgraham/snooping-on-your-gpu-using-ebpf-to-build-zero-instrumentation-cuda-monitoring-2hh1)
-- [State of JavaScript 2024 Results, GitHub Copilot Now Free, EPIC Developer Tools, and more](https://dev.to/thisweekinjavascript/state-of-javascript-2024-results-github-copilot-now-free-epic-developer-tools-and-more-3pbi)
-- [How to Integrate Tabby in React Native: A Step-by-Step Guide](https://dev.to/muhammad_harisbaig_1268d/how-to-integrate-tabby-in-react-native-a-step-by-step-guide-3ja)
+- [Solution: &quot;Android Emulator Process has terminated&quot; - Windows 10](https://dev.to/pgomezec/solution-android-emulator-process-has-terminated-windows-10-219j)
+- [Dark Portfolio: A Fully Responsive Next.js 15 + TypeScript + Tailwind CSS Project](https://dev.to/seyma/dark-portfolio-a-fully-responsive-nextjs-15-typescript-tailwind-css-project-l3i)
+- [🎄CSS Art: December Challange - Christmas In Malaysia ✨](https://dev.to/juniourrau/css-art-december-challange-christmas-in-malaysia-1fjb)
+- [Redux Toolkit: Creating Thunk Functions](https://dev.to/hajarnasr/redux-toolkit-creating-thunk-functions-ic2)
 <!-- BLOG-POST-LIST:END -->
 
 
