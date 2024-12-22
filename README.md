@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Security Challenges and Encryption, Identity Management, and Compliance](https://dev.to/atharvgyan/cloud-security-challenges-and-encryption-identity-management-and-compliance-2bm8)
-- [Como realizei o deploy do meu portfólio utilizando uma VPS](https://dev.to/fernandeess/como-realizei-o-deploy-do-meu-portfolio-utilizando-uma-vps-27je)
-- [&quot;Space-Ease: Rent Your Space, Park With Ease&quot;](https://dev.to/roy_amit/space-ease-rent-your-space-park-with-ease-21bg)
-- [Tea Loop - A/B testing with DevCycle](https://dev.to/schemetastic/tea-loop-ab-testing-with-devcycle-2hgb)
+- [Supercharge Your API Performance with Asynchronous Programming in FastAPI](https://dev.to/saint_vandora/supercharge-your-api-performance-with-asynchronous-programming-in-fastapi-9g7)
+- [CustomFormField - Custom Widgets Series](https://dev.to/arafaysaleem/customformfield-custom-widgets-series-8ep)
+- [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
+- [History of my ThinkPad X260](https://dev.to/nakidai/history-of-my-thinkpad-x260-439f)
 <!-- BLOG-POST-LIST:END -->
 
 
