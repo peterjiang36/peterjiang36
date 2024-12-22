@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Containers and Immutable Infrastructure: Streamlining Deployments and Scaling](https://dev.to/abhay_yt_52a8e72b213be229/docker-containers-and-immutable-infrastructure-streamlining-deployments-and-scaling-2nep)
-- [Using Docker for Microservices: Streamlining Development, Deployment, and Scaling](https://dev.to/abhay_yt_52a8e72b213be229/using-docker-for-microservices-streamlining-development-deployment-and-scaling-53nk)
-- [New 34 GitHub Repositories - OpenSource of Dec 21, 2024](https://dev.to/gittech/new-34-github-repositories-opensource-of-dec-21-2024-14hi)
-- [Container Orchestration with Docker Swarm: A Simplified Approach to Managing Containers](https://dev.to/abhay_yt_52a8e72b213be229/container-orchestration-with-docker-swarm-a-simplified-approach-to-managing-containers-5874)
+- [Web4: A New Hope for the Internet](https://dev.to/web4/web4-a-new-hope-for-the-internet-490b)
+- [No wonder they ask this in interviews. It&#39;s so basic yet so important.](https://dev.to/shreyasnandanwar/no-wonder-they-ask-this-in-interviews-its-so-basic-yet-so-important-1jeb)
+- [Exploring the Future of Frontend Technology: Trends and Innovations for 2025](https://dev.to/jetthoughts/exploring-the-future-of-frontend-technology-trends-and-innovations-for-2025-5hk6)
+- [Unlocking the Power of React’s componentDidMount: Mastering Its Lifecycle for Smarter Apps](https://dev.to/shreyasnandanwar/understanding-reacts-componentdidmount-lifecycle-method-1pn7)
 <!-- BLOG-POST-LIST:END -->
 
 
