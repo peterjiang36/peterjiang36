@@ -51,7 +51,7 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 <img align="left" alt="R" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 <img align="left" alt="Linux" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitLab" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" height="35px" style="padding-right:10px;" src="https://www.svgrepo.com/download/475654/github-color.svg" />
 <img align="left" alt="Vscode" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Intellij" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Pycharm" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />
