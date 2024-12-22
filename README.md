@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop the Right Mindset as a Programmer](https://dev.to/jenueldev/how-to-develop-the-right-mindset-as-a-programmer-37ef)
-- [Matanuska ADR 003 - Recursive Descent Parser](https://dev.to/jfhbrook/matanuska-adr-003-recursive-descent-parser-52o9)
-- [Building scalable ML workflows](https://dev.to/acoh3n/building-scalable-ml-workflows-4f0k)
-- [[Development Tips] How to Get the Number of Strokes in Chinese Characters?](https://dev.to/algieba/development-tips-how-to-get-the-number-of-strokes-in-chinese-characters-ekb)
+- [Counting the number of Tokens sent to a LLM in Go &lpar;part 2&rpar;](https://dev.to/aairom/counting-the-number-of-tokens-sent-to-a-llm-in-go-part-2-19fi)
+- [what is variable ?](https://dev.to/hema_latha/what-is-variable--fme)
+- [📉 Cardano &lpar;ADA&rpar; Could Fall 15% – Here’s Why 🚨](https://dev.to/sergi_web3/cardano-ada-could-fall-15-heres-why-40h1)
+- [🚀 Render: Can Whales Push RNDR to $8.13 After a 40% Dip? 📊🐋](https://dev.to/joshthebtc/render-can-whales-push-rndr-to-813-after-a-40-dip-4d7b)
 <!-- BLOG-POST-LIST:END -->
 
 
