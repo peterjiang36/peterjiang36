@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 14: Building Your Own AI - Current Trends in AI/ML](https://dev.to/trixsec/part-14-building-your-own-ai-current-trends-in-aiml-40oj)
-- [Explain Closure in detail ?](https://dev.to/imranshaik012/explain-closure-in-detail--3n3j)
-- [Tips for WordPress Developers](https://dev.to/tariq_rs/tips-for-wordpress-developers-1da6)
-- [Scaling Applications in Kubernetes with Horizontal Pod Autoscaling: A Deep Dive](https://dev.to/rubixkube/scaling-applications-in-kubernetes-with-horizontal-pod-autoscaling-a-deep-dive-3c57)
+- [OpenAI&#39;s O3 Models: A New Frontier in AI Reasoning](https://dev.to/jon_exume_99b374aa68a0028/openais-o3-models-a-new-frontier-in-ai-reasoning-266m)
+- [Unlock the Gen AI Revolution: Autonomous Multicloud Management with Cloudgov.ai](https://dev.to/vaish_98/unlock-the-gen-ai-revolution-autonomous-multicloud-management-with-cloudgovai-e3n)
+- [Secure and Reliable Over the Air OTA Update for Industrial 4.0 Environments](https://dev.to/romana_diana_/secure-and-reliable-over-the-air-ota-update-for-industrial-40-environments-1n7h)
+- [AI Innovations to Watch in 2024: Transforming Everyday Life](https://dev.to/namratahinduja/ai-innovations-to-watch-in-2024-transforming-everyday-life-le4)
 <!-- BLOG-POST-LIST:END -->
 
 
