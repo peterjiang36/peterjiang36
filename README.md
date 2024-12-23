@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New 41 GitHub Repositories - OpenSource of Dec 22, 2024](https://dev.to/gittech/new-41-github-repositories-opensource-of-dec-22-2024-502o)
-- [Does your GitHub profile actually help you land a job?](https://dev.to/devmercy/does-your-github-profile-actually-help-you-land-a-job-4eff)
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V52 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v52-showcase-52mk)
-- [LeetCode Meditations: Reverse Bits](https://dev.to/rivea0/leetcode-meditations-reverse-bits-4koc)
+- [IRRemote 程式庫搭配 Adafruit_NeoPoxel 程式庫的問題](https://dev.to/codemee/irremote-cheng-shi-ku-da-pei-adafruitneopoxel-cheng-shi-ku-de-wen-ti-1k7d)
+- [Here’s how next-runtime-env applies regex test in Array.prototype.filter&lpar;&rpar; Think Throo Think Throo](https://dev.to/thinkthroo/heres-how-next-runtime-env-applies-regex-test-in-arrayprototypefilterthink-throothink-throo-2fpj)
+- [Download Manager v0.1.0](https://dev.to/joeljaison394/download-manager-v010-5eh9)
+- [Unsubscribe Observable! why is it so important?](https://dev.to/asaf_eliasim/unsubscribe-observable-why-is-it-so-important-4p96)
 <!-- BLOG-POST-LIST:END -->
 
 
