@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Winter Solstice Interactive Page – Glam Up My Markup Submission](https://dev.to/tharushi1019/winter-solstice-interactive-page-glam-up-my-markup-submission-331j)
-- [When AI Learns to Feel: The Rise of Emotionally Aware Machines](https://dev.to/epicx/when-ai-learns-to-feel-the-rise-of-emotionally-aware-machines-51b8)
-- [Web scraping and analysing foreign languages data](https://dev.to/gabriel_rowan_1b96f237438/web-scraping-and-analysing-foreign-languages-data-24pm)
-- [Base64 strings concepts in different programming language](https://dev.to/atifwattoo/base64-strings-concepts-in-different-programming-language-6bf)
+- [Forward Proxy vs Reverse Proxy vs Load Balancers](https://dev.to/oyedeletemitope/forward-proxy-vs-reverse-proxy-vs-load-balancers-5aef)
+- [API Versioning Using Headers: A Clean and Flexible Approach](https://dev.to/abhivyaktii/api-versioning-using-headers-a-clean-and-flexible-approach-218p)
+- [Empowering Students with AI-Powered Mental Health Support: Meet C.A.L.M](https://dev.to/srinath_dilliraj_16069494/-empowering-students-with-ai-powered-mental-health-support-meet-calm-47e0)
+- [SQL Filtering and Sorting with Real-life Examples](https://dev.to/milliemolotov/sql-filtering-and-sorting-with-real-life-examples-58gb)
 <!-- BLOG-POST-LIST:END -->
 
 
