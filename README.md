@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an ECommerce Website with Add to Cart Using API and JavaScript](https://dev.to/sharathchandark/building-an-ecommerce-website-with-add-to-cart-using-api-and-javascript-3k0b)
-- [AI-Powered Collaboration: How Machine Learning Can Transform Team Dynamics](https://dev.to/mohammad-reza-mahdiani/ai-powered-collaboration-how-machine-learning-can-transform-team-dynamics-fha)
-- [Free Google&#39;s Generative AI API Key | Gemini API](https://dev.to/the_eworldwelcome_a585b/free-googles-generative-ai-api-key-gemini-api-h3a)
-- [Why Cloud Monitoring is Non-Negotiable for Today’s Tech Giants](https://dev.to/vaish_98/why-cloud-monitoring-is-non-negotiable-for-todays-tech-giants-4292)
+- [Part 14: Building Your Own AI - Current Trends in AI/ML](https://dev.to/trixsec/part-14-building-your-own-ai-current-trends-in-aiml-40oj)
+- [Explain Closure in detail ?](https://dev.to/imranshaik012/explain-closure-in-detail--3n3j)
+- [Tips for WordPress Developers](https://dev.to/tariq_rs/tips-for-wordpress-developers-1da6)
+- [Scaling Applications in Kubernetes with Horizontal Pod Autoscaling: A Deep Dive](https://dev.to/rubixkube/scaling-applications-in-kubernetes-with-horizontal-pod-autoscaling-a-deep-dive-3c57)
 <!-- BLOG-POST-LIST:END -->
 
 
