@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use My Own Product to Maintain Its Help Docs](https://dev.to/apidog/how-i-use-my-own-product-to-maintain-its-help-docs-1clf)
-- [Will MCP Transform Claude from a Chatbot to a Powerful Assistant?](https://dev.to/airabbit/will-mcp-transform-claude-from-a-chatbot-to-a-powerful-assistant-42p4)
-- [Roast my portfolio](https://dev.to/ehsanpo/roast-my-portfolio-1ibh)
-- [Learn How to Create Responsive Admin Dashboard Using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/learn-how-to-create-responsive-admin-dashboard-using-html-css-javascript-13b2)
+- [Kubernetes Secrets and ConfigMaps: Managing Configuration and Sensitive Data Securely](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-secrets-and-configmaps-managing-configuration-and-sensitive-data-securely-h0f)
+- [Deploying Azure Functions with Python: A Step-by-Step Guide](https://dev.to/edgaras/deploying-azure-functions-with-python-a-step-by-step-guide-5db6)
+- [Unlocking Opportunities: How Fractional Jobs Are Redefining the Future of Work](https://dev.to/jetthoughts/unlocking-opportunities-how-fractional-jobs-are-redefining-the-future-of-work-6fo)
+- [How QA Professionals Can Earn by Finding Bugs: A Tester’s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-qa-professionals-can-earn-by-finding-bugs-a-testers-perspective-2kf1)
 <!-- BLOG-POST-LIST:END -->
 
 
