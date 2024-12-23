@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Secrets and ConfigMaps: Managing Configuration and Sensitive Data Securely](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-secrets-and-configmaps-managing-configuration-and-sensitive-data-securely-h0f)
-- [Deploying Azure Functions with Python: A Step-by-Step Guide](https://dev.to/edgaras/deploying-azure-functions-with-python-a-step-by-step-guide-5db6)
-- [Unlocking Opportunities: How Fractional Jobs Are Redefining the Future of Work](https://dev.to/jetthoughts/unlocking-opportunities-how-fractional-jobs-are-redefining-the-future-of-work-6fo)
-- [How QA Professionals Can Earn by Finding Bugs: A Tester’s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-qa-professionals-can-earn-by-finding-bugs-a-testers-perspective-2kf1)
+- [New 41 GitHub Repositories - OpenSource of Dec 22, 2024](https://dev.to/gittech/new-41-github-repositories-opensource-of-dec-22-2024-502o)
+- [Does your GitHub profile actually help you land a job?](https://dev.to/devmercy/does-your-github-profile-actually-help-you-land-a-job-4eff)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V52 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v52-showcase-52mk)
+- [LeetCode Meditations: Reverse Bits](https://dev.to/rivea0/leetcode-meditations-reverse-bits-4koc)
 <!-- BLOG-POST-LIST:END -->
 
 
