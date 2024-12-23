@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Frontend Challenge Submission: Winter Solstice Celebrations Around the World 🌌](https://dev.to/pandya_shivang_3e05a76fc0/frontend-challenge-submission-winter-solstice-celebrations-around-the-world-1j10)
-- [The Tree Shaking Journey in Angular: A Deep Dive](https://dev.to/this-is-angular/the-tree-shaking-journey-in-angular-a-deep-dive-52ie)
-- [Free Online Image Sharing Tool For Web Developers](https://dev.to/harshitkumar/free-online-image-sharing-tool-for-web-developers-4do1)
-- [An Exploration of the Software Development Field](https://dev.to/rachelle_wilber_422febda6/an-exploration-of-the-software-development-field-39mf)
+- [My journey making a personal webpage with PURE JAVASCRIPT!](https://dev.to/dreamblader/my-journey-making-a-personal-webpage-with-pure-javascript-16ah)
+- [Mastering Managed IaC Self-Service: The Complete Guide](https://dev.to/env0/mastering-managed-iac-self-service-the-complete-guide-1nl1)
+- [Warp AI Terminal: A Beginner’s Guide to the Future of Command Line Interfaces](https://dev.to/arjun98k/warp-ai-terminal-a-beginners-guide-to-the-future-of-command-line-interfaces-43k1)
+- [Criando um Chatbot com JavaScript e Gemini AI: criando o backend](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-criando-o-backend-3lf7)
 <!-- BLOG-POST-LIST:END -->
 
 
