@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Highest Paying Engineering Jobs in 2024](https://dev.to/lodely/how-to-get-highest-paying-engineering-jobs-in-2024-pmj)
-- [Email Security and Data Protection for Startups: Affordable Solutions](https://dev.to/armen_baghdasaryan_da5798/email-security-and-data-protection-for-startups-affordable-solutions-1g7p)
-- [The Dawn of a New Era: AI in Software Development](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-a-new-era-ai-in-software-development-16jf)
-- [Advanced Playwright Features: Beyond the Basics](https://dev.to/aswani25/advanced-playwright-features-beyond-the-basics-43p7)
+- [Designing a Scalable Backend for Flash Sales](https://dev.to/budiwidhiyanto/designing-a-scalable-backend-for-flash-sales-4g9o)
+- [Unleashing the Power of Spring Boot Annotations: A Deep Dive for Software Architects](https://dev.to/virajlakshitha/unleashing-the-power-of-spring-boot-annotations-a-deep-dive-for-software-architects-p3p)
+- [Extending the 200-Character Limit for Post Names in WordPress: A Developer’s Guide](https://dev.to/litonarefin/extending-the-200-character-limit-for-post-names-in-wordpress-a-developers-guide-1fj1)
+- [🌟 🌐 TOP 90 Resources For The Front-end Development 🚀 🌟](https://dev.to/hanzla-baig/top-90-resources-for-the-front-end-development-3a6i)
 <!-- BLOG-POST-LIST:END -->
 
 
