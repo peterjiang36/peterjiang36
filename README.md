@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My journey making a personal webpage with PURE JAVASCRIPT!](https://dev.to/dreamblader/my-journey-making-a-personal-webpage-with-pure-javascript-16ah)
-- [Mastering Managed IaC Self-Service: The Complete Guide](https://dev.to/env0/mastering-managed-iac-self-service-the-complete-guide-1nl1)
-- [Warp AI Terminal: A Beginner’s Guide to the Future of Command Line Interfaces](https://dev.to/arjun98k/warp-ai-terminal-a-beginners-guide-to-the-future-of-command-line-interfaces-43k1)
-- [Criando um Chatbot com JavaScript e Gemini AI: criando o backend](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-criando-o-backend-3lf7)
+- [Backend Red Flags - What NOT to do](https://dev.to/fatihguzel/backend-red-flags-what-not-to-do-50g5)
+- [Dividing Tasks](https://dev.to/jasten/dividing-tasks-4bg0)
+- [How to Build Flexible Data Models in Django with JSONField and Pydantic](https://dev.to/dannyell77/how-to-build-flexible-data-models-in-django-with-jsonfield-and-pydantic-13hi)
+- [How AI Can Help You Manage Emails &lpar;Common Challenges and Solutions Explained&rpar;](https://dev.to/lucym/how-ai-can-help-you-manage-emails-common-challenges-and-solutions-explained-310b)
 <!-- BLOG-POST-LIST:END -->
 
 
