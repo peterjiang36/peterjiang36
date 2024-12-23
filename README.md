@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of LiveScript: The Precursor to JavaScript](https://dev.to/m0slah/the-evolution-of-livescript-the-precursor-to-javascript-245i)
-- [Counting Tokens: Sorting Through the Details](https://dev.to/es404020/counting-tokens-sorting-through-the-details-o58)
-- [Terraform: Steps to create complete AWS S3 module](https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj)
-- [Secure Password Generation: A Complete Guide to Creating Strong Passwords](https://dev.to/tooleroid/secure-password-generation-a-complete-guide-to-creating-strong-passwords-44fe)
+- [Day 23: Docker Resources](https://dev.to/code42cate/day-22-docker-resources-2h15)
+- [PostgreSQL Secrets You Wish You Knew Earlier](https://dev.to/karell_stemarie_ce42bf9c/postgresql-secrets-you-wish-you-knew-earlier-58di)
+- [My React Journey: Day 24](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-24-227e)
+- [La dualidad de tu profesión.](https://dev.to/ulisesserranop/la-dualidad-de-tu-profesion-4ahb)
 <!-- BLOG-POST-LIST:END -->
 
 
