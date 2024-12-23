@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forward Proxy vs Reverse Proxy vs Load Balancers](https://dev.to/oyedeletemitope/forward-proxy-vs-reverse-proxy-vs-load-balancers-5aef)
-- [API Versioning Using Headers: A Clean and Flexible Approach](https://dev.to/abhivyaktii/api-versioning-using-headers-a-clean-and-flexible-approach-218p)
-- [Empowering Students with AI-Powered Mental Health Support: Meet C.A.L.M](https://dev.to/srinath_dilliraj_16069494/-empowering-students-with-ai-powered-mental-health-support-meet-calm-47e0)
-- [SQL Filtering and Sorting with Real-life Examples](https://dev.to/milliemolotov/sql-filtering-and-sorting-with-real-life-examples-58gb)
+- [🎨 Frontend Challenge Submission: Winter Solstice Celebrations Around the World 🌌](https://dev.to/pandya_shivang_3e05a76fc0/frontend-challenge-submission-winter-solstice-celebrations-around-the-world-1j10)
+- [The Tree Shaking Journey in Angular: A Deep Dive](https://dev.to/this-is-angular/the-tree-shaking-journey-in-angular-a-deep-dive-52ie)
+- [Free Online Image Sharing Tool For Web Developers](https://dev.to/harshitkumar/free-online-image-sharing-tool-for-web-developers-4do1)
+- [An Exploration of the Software Development Field](https://dev.to/rachelle_wilber_422febda6/an-exploration-of-the-software-development-field-39mf)
 <!-- BLOG-POST-LIST:END -->
 
 
