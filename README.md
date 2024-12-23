@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IRRemote 程式庫搭配 Adafruit_NeoPoxel 程式庫的問題](https://dev.to/codemee/irremote-cheng-shi-ku-da-pei-adafruitneopoxel-cheng-shi-ku-de-wen-ti-1k7d)
-- [Here’s how next-runtime-env applies regex test in Array.prototype.filter&lpar;&rpar; Think Throo Think Throo](https://dev.to/thinkthroo/heres-how-next-runtime-env-applies-regex-test-in-arrayprototypefilterthink-throothink-throo-2fpj)
-- [Download Manager v0.1.0](https://dev.to/joeljaison394/download-manager-v010-5eh9)
-- [Unsubscribe Observable! why is it so important?](https://dev.to/asaf_eliasim/unsubscribe-observable-why-is-it-so-important-4p96)
+- [Machine Learning in Code Security: A Developer-Researcher&#39;s Journey Through Neural Code Analysis](https://dev.to/nolunchbreaks_22/machine-learning-in-code-security-a-developer-researchers-journey-through-neural-code-analysis-59h4)
+- [Meme Monday](https://dev.to/ben/meme-monday-1dld)
+- [Serverless self-service IoT certificate management - Part 2](https://dev.to/aws-heroes/serverless-self-service-iot-certificate-management-part-2-3ca7)
+- [Sharing A Nvidia GPU Between Pods In Kubernetes](https://dev.to/thenjdevopsguy/sharing-a-nvidia-gpu-between-pods-in-kubernetes-4hp9)
 <!-- BLOG-POST-LIST:END -->
 
 
