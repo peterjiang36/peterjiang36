@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD pipeline](https://dev.to/anjali_gurjar_dff81513867/cicd-46l3)
-- [FSCSS Example](https://dev.to/lmcss/fscss-example-2j9l)
-- [HTML Tables: The Hidden Stars of the Early Web &lpar;And 15 Mind-Blowing Examples You Won&#39;t Believe Exist&rpar;](https://dev.to/govindvyas/html-tables-the-hidden-stars-of-the-early-web-and-15-mind-blowing-examples-you-wont-believe-2bfm)
-- [Powerful Tools to Crawl Websites for Developers and Businesses](https://dev.to/swiftproxy_residential/powerful-tools-to-crawl-websites-for-developers-and-businesses-1dc1)
+- [Display Connectors: Overview](https://dev.to/madgan95/display-connectors-overview-5e2f)
+- [OpenAI o3 is AGI ?](https://dev.to/dev007777/openai-o3-is-agi--29f4)
+- [What Does API Stand For?](https://dev.to/keploy/what-does-api-stand-for-6bh)
+- [Implementing Logger and Server Analytics in Flutter](https://dev.to/arafaysaleem/implementing-logger-and-server-analytics-in-flutter-5389)
 <!-- BLOG-POST-LIST:END -->
 
 
