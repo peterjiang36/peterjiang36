@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Display Connectors: Overview](https://dev.to/madgan95/display-connectors-overview-5e2f)
-- [OpenAI o3 is AGI ?](https://dev.to/dev007777/openai-o3-is-agi--29f4)
-- [What Does API Stand For?](https://dev.to/keploy/what-does-api-stand-for-6bh)
-- [Implementing Logger and Server Analytics in Flutter](https://dev.to/arafaysaleem/implementing-logger-and-server-analytics-in-flutter-5389)
+- [How I Use My Own Product to Maintain Its Help Docs](https://dev.to/apidog/how-i-use-my-own-product-to-maintain-its-help-docs-1clf)
+- [Will MCP Transform Claude from a Chatbot to a Powerful Assistant?](https://dev.to/airabbit/will-mcp-transform-claude-from-a-chatbot-to-a-powerful-assistant-42p4)
+- [Roast my portfolio](https://dev.to/ehsanpo/roast-my-portfolio-1ibh)
+- [Learn How to Create Responsive Admin Dashboard Using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/learn-how-to-create-responsive-admin-dashboard-using-html-css-javascript-13b2)
 <!-- BLOG-POST-LIST:END -->
 
 
