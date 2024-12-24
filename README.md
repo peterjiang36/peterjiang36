@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS Cheatsheet](https://dev.to/aninooo/tailwind-css-cheatsheet-9da)
-- [RandomRotation in PyTorch](https://dev.to/hyperkai/randomrotation-in-pytorch-4bn2)
-- [Kubernetes Ingress Controllers and NGINX Ingress: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-ingress-controllers-and-nginx-ingress-a-complete-guide-4l9e)
-- [Mastering Kubernetes Services: External Access and Internal Networking](https://dev.to/abhay_yt_52a8e72b213be229/mastering-kubernetes-services-external-access-and-internal-networking-1ca2)
+- [Solution to fix the &quot;Missing Compliance&quot; Warning at App Store Connect](https://dev.to/surhidamatya/solution-to-fix-the-missing-compliance-warning-at-app-store-connect-1kb6)
+- [Data Engineering for Real-Time Fraud Detection in Financial Services](https://dev.to/justdigitallyemma/data-engineering-for-real-time-fraud-detection-in-financial-services-4lan)
+- [Test Cases: The Backbone of Software Testing](https://dev.to/keploy/test-cases-the-backbone-of-software-testing-34ek)
+- [Day 1: Setup Laravel](https://dev.to/ehtesham_ali_abc367f36a5b/day-1-setup-laravel-2j3l)
 <!-- BLOG-POST-LIST:END -->
 
 
