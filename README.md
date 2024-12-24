@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor vs Copilot: A Clear Comparison](https://dev.to/codeparrot/cursor-vs-copilot-a-clear-comparison-3673)
-- [HadiDB: A Lightweight, Horizontally Scalable Database in Python](https://dev.to/mominiqbal1234/hadidb-a-lightweight-horizontally-scalable-database-in-python-24gc)
-- [[Part 1] A Brief Introduction to SOLID Typescript](https://dev.to/tak089/a-brief-introduction-to-solid-typescript-4mal)
-- [Understanding React Hooks: A Beginner’s Guide](https://dev.to/manikanta_ketha_bf00556e9/understanding-react-hooks-a-beginners-guide-2g95)
+- [Understand AVL Tree Rotations Visually](https://dev.to/yo-shi/understand-avl-tree-rotations-visually-4139)
+- [Connecting one Ubuntu Server OS to another: Complete guide](https://dev.to/harshm03/connecting-one-ubuntu-server-os-to-another-complete-guide-207g)
+- [❄️Introducing the HMPL Template Language](https://dev.to/anthonymax/introducing-the-hmpl-template-language-32fm)
+- [Coding Myths Debunked: Things Beginners Should Stop Believing](https://dev.to/arjun98k/coding-myths-debunked-things-beginners-should-stop-believing-2nbo)
 <!-- BLOG-POST-LIST:END -->
 
 
