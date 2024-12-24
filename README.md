@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Hackathon Experience](https://dev.to/sheetal_bajaj_6a77bf1ef30/my-first-hackathon-experience-386g)
-- [I Found the Worst Coding Mistakes in History](https://dev.to/karell_stemarie_ce42bf9c/i-found-the-worst-coding-mistakes-in-history-pal)
-- [🔐🔴 Top 3 Authentication Strategies For 2025 📖🔑](https://dev.to/martygo/top-3-authentication-strategies-for-2025-4pib)
-- [Top 10 Design Patterns for Programming Interviews](https://dev.to/somadevtoo/top-10-design-patterns-for-programming-interviews-8j4)
+- [How we added Apple Silicon support to analyzer &lpar;arm64&rpar;](https://dev.to/pvsdev/how-we-added-apple-silicon-support-to-analyzer-arm64-5emp)
+- [Unlocking the Secrets of Ruby Debugging: From Basics to Advanced Tools](https://dev.to/jetthoughts/unlocking-the-secrets-of-ruby-debugging-from-basics-to-advanced-tools-5dd6)
+- [Understanding NVIDIA GPUs for AI and Deep Learning](https://dev.to/javaeeeee/understanding-nvidia-gpus-for-ai-and-deep-learning-4co7)
+- [Sequelize migrations](https://dev.to/thebridge2/sequelize-migrations-2611)
 <!-- BLOG-POST-LIST:END -->
 
 
