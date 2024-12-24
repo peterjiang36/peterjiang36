@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Chat Application with WebSockets in React](https://dev.to/ayusharpcoder/building-a-real-time-chat-application-with-websockets-in-react-5fg8)
-- [Creating a NextJS + AWS site for the Cloud Resume Challenge](https://dev.to/unfiled4897/creating-a-nextjs-aws-site-for-the-cloud-resume-challenge-5121)
-- [How to Create Rock Paper Scissors Game Using HTML CSS and JavaScript](https://dev.to/sharathchandark/how-to-create-rock-paper-scissors-game-using-html-css-and-javascript-1nol)
-- [Nên sử dụng Promise hay Async/await ?](https://dev.to/nddev_18/nen-su-dung-promise-hay-asyncawait--l0d)
+- [Tailwind CSS Cheatsheet](https://dev.to/aninooo/tailwind-css-cheatsheet-9da)
+- [RandomRotation in PyTorch](https://dev.to/hyperkai/randomrotation-in-pytorch-4bn2)
+- [Kubernetes Ingress Controllers and NGINX Ingress: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-ingress-controllers-and-nginx-ingress-a-complete-guide-4l9e)
+- [Mastering Kubernetes Services: External Access and Internal Networking](https://dev.to/abhay_yt_52a8e72b213be229/mastering-kubernetes-services-external-access-and-internal-networking-1ca2)
 <!-- BLOG-POST-LIST:END -->
 
 
