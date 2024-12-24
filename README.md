@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tôi sẽ không muốn tạo Table bằng bất cứ cách khác ?](https://dev.to/nddev_18/toi-se-khong-muon-tao-table-bang-bat-cu-cach-khac--12d4)
-- [My Journey with MERN Stack – Lessons Learned and Challenges Overcome](https://dev.to/rayan2228/my-journey-with-mern-stack-lessons-learned-and-challenges-overcome-o6b)
-- [tnfy.link - One more shortener?](https://dev.to/capcom6/tnfylink-one-more-shortener-3ck7)
-- [AZURE COMPUTE GALLERY AND VIRUAL MACHINE SCALE SET](https://dev.to/oludamilola/azure-compute-gallery-and-virual-machine-scale-set-20l8)
+- [Building a Real-Time Chat Application with WebSockets in React](https://dev.to/ayusharpcoder/building-a-real-time-chat-application-with-websockets-in-react-5fg8)
+- [Creating a NextJS + AWS site for the Cloud Resume Challenge](https://dev.to/unfiled4897/creating-a-nextjs-aws-site-for-the-cloud-resume-challenge-5121)
+- [How to Create Rock Paper Scissors Game Using HTML CSS and JavaScript](https://dev.to/sharathchandark/how-to-create-rock-paper-scissors-game-using-html-css-and-javascript-1nol)
+- [Nên sử dụng Promise hay Async/await ?](https://dev.to/nddev_18/nen-su-dung-promise-hay-asyncawait--l0d)
 <!-- BLOG-POST-LIST:END -->
 
 
