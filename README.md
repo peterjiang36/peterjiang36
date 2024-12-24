@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to continuously collect and store traffic data for multiple GitHub repositories using Google Apps Script in this article!🧑‍💻](https://dev.to/shige/learn-how-to-continuously-collect-and-store-traffic-data-for-multiple-github-repositories-using-37k3)
-- [Automating Kubernetes Deployments with CI/CD Pipelines &lpar;GitLab, Jenkins&rpar;](https://dev.to/abhay_yt_52a8e72b213be229/automating-kubernetes-deployments-with-cicd-pipelines-gitlab-jenkins-2jmd)
-- [10 Best Practices for Data Cleansing and Standardization in Master Data Management](https://dev.to/hana_sato/10-best-practices-for-data-cleansing-and-standardization-in-master-data-management-52dk)
-- [Detail Guide to Electronic Data Interchange &lpar;EDI&rpar; in Healthcare](https://dev.to/evelynwyatt/detail-guide-to-electronic-data-interchange-edi-in-healthcare-1jj9)
+- [AI Chatbots: Boon or Security Time Bomb?](https://dev.to/hr21don/ai-chatbots-boon-or-security-time-bomb-483g)
+- [🚀 Breaking into AI? Preparing for your next interview?](https://dev.to/gameon_gameover_8f18dbb85/breaking-into-ai-preparing-for-your-next-interview-16eg)
+- [✨ 5 Bad Ideas in TypeScript](https://dev.to/_ndeyefatoudiop/5-bad-ideas-in-typescript-4a4a)
+- [Free Forex Data API for Backtesting Strategies: A Game Changer for Traders](https://dev.to/bradi/free-forex-data-api-for-backtesting-strategies-a-game-changer-for-traders-h9o)
 <!-- BLOG-POST-LIST:END -->
 
 
