@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is AGI Here? A Deep Dive into OpenAI&#39;s o3 Model and ARC-AGI Benchmarks](https://dev.to/dansasser/is-agi-here-a-deep-dive-into-openais-o3-model-and-arc-agi-benchmarks-39po)
-- [Optimizing Serverless Lambda with GraalVM Native Image](https://dev.to/abrish/optimizing-serverless-lambda-with-graalvm-native-image-3g3g)
-- [Quick RabbitMQ Refresher](https://dev.to/tallesl/quick-rabbitmq-refresher-5b5o)
-- [My first day of learning DSA](https://dev.to/mehfila_parkkulthil_23/my-first-day-of-learning-dsa-838)
+- [Tôi sẽ không muốn tạo Table bằng bất cứ cách khác ?](https://dev.to/nddev_18/toi-se-khong-muon-tao-table-bang-bat-cu-cach-khac--12d4)
+- [My Journey with MERN Stack – Lessons Learned and Challenges Overcome](https://dev.to/rayan2228/my-journey-with-mern-stack-lessons-learned-and-challenges-overcome-o6b)
+- [tnfy.link - One more shortener?](https://dev.to/capcom6/tnfylink-one-more-shortener-3ck7)
+- [AZURE COMPUTE GALLERY AND VIRUAL MACHINE SCALE SET](https://dev.to/oludamilola/azure-compute-gallery-and-virual-machine-scale-set-20l8)
 <!-- BLOG-POST-LIST:END -->
 
 
