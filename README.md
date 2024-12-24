@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the React Slots pattern?](https://dev.to/neetigyachahar/what-is-the-react-slots-pattern-2ld9)
-- [Tailwind CSS: Tailwind Cost](https://dev.to/hannahanot/tailwind-css-tailwind-cost-20nl)
-- [สร้าง Dashboard ด้วย Grafana และ InfluxDB ด้วย Docker บน Ubuntu](https://dev.to/xnewz/sraang-dashboard-dwy-grafana-aela-influxdb-dwy-docker-bn-ubuntu-2do)
-- [Top 10 VS Code Extensions Every Developer Should Use 🔧](https://dev.to/info_generalhazedawn_a3d/top-10-vs-code-extensions-every-developer-should-use-kpi)
+- [Learn how to continuously collect and store traffic data for multiple GitHub repositories using Google Apps Script in this article!🧑‍💻](https://dev.to/shige/learn-how-to-continuously-collect-and-store-traffic-data-for-multiple-github-repositories-using-37k3)
+- [Automating Kubernetes Deployments with CI/CD Pipelines &lpar;GitLab, Jenkins&rpar;](https://dev.to/abhay_yt_52a8e72b213be229/automating-kubernetes-deployments-with-cicd-pipelines-gitlab-jenkins-2jmd)
+- [10 Best Practices for Data Cleansing and Standardization in Master Data Management](https://dev.to/hana_sato/10-best-practices-for-data-cleansing-and-standardization-in-master-data-management-52dk)
+- [Detail Guide to Electronic Data Interchange &lpar;EDI&rpar; in Healthcare](https://dev.to/evelynwyatt/detail-guide-to-electronic-data-interchange-edi-in-healthcare-1jj9)
 <!-- BLOG-POST-LIST:END -->
 
 
