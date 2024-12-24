@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Operators for Custom Applications &lpar;e.g., Databases&rpar;](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-operators-for-custom-applications-eg-databases-33lj)
-- [How do you finish your pet projects?](https://dev.to/echoladone/how-do-you-finish-your-pet-projects-1mpi)
-- [Top 10 Online Courses to Learn DevOps in 2025](https://dev.to/prishav/top-10-online-courses-to-learn-devops-in-2025-25fb)
-- [How to Secure Kubernetes Clusters with RBAC, Network Policies, and Encryption](https://dev.to/abhay_yt_52a8e72b213be229/how-to-secure-kubernetes-clusters-with-rbac-network-policies-and-encryption-2cjg)
+- [My First Hackathon Experience](https://dev.to/sheetal_bajaj_6a77bf1ef30/my-first-hackathon-experience-386g)
+- [I Found the Worst Coding Mistakes in History](https://dev.to/karell_stemarie_ce42bf9c/i-found-the-worst-coding-mistakes-in-history-pal)
+- [🔐🔴 Top 3 Authentication Strategies For 2025 📖🔑](https://dev.to/martygo/top-3-authentication-strategies-for-2025-4pib)
+- [Top 10 Design Patterns for Programming Interviews](https://dev.to/somadevtoo/top-10-design-patterns-for-programming-interviews-8j4)
 <!-- BLOG-POST-LIST:END -->
 
 
