@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your own Promise in JavaScript](https://dev.to/unclexo/create-your-own-promise-in-javascript-225n)
-- [Serverless Security Best Practices](https://dev.to/ikoh_sylva/serverless-security-best-practices-5g0j)
-- [My try on the Glam Up My Markup: Winter Solstice frontend challenge](https://dev.to/pranav_surya_bfad31be53f0/my-try-on-the-glam-up-my-markup-winter-solstice-frontend-challenge-1a73)
-- [Making the Web More Inclusive: Accessibility Testing with open source testing agents](https://dev.to/smilinrobin/making-the-web-more-inclusive-accessibility-testing-with-open-source-testing-agents-2l27)
+- [Cursor vs Copilot: A Clear Comparison](https://dev.to/codeparrot/cursor-vs-copilot-a-clear-comparison-3673)
+- [HadiDB: A Lightweight, Horizontally Scalable Database in Python](https://dev.to/mominiqbal1234/hadidb-a-lightweight-horizontally-scalable-database-in-python-24gc)
+- [[Part 1] A Brief Introduction to SOLID Typescript](https://dev.to/tak089/a-brief-introduction-to-solid-typescript-4mal)
+- [Understanding React Hooks: A Beginner’s Guide](https://dev.to/manikanta_ketha_bf00556e9/understanding-react-hooks-a-beginners-guide-2g95)
 <!-- BLOG-POST-LIST:END -->
 
 
