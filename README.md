@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How we added Apple Silicon support to analyzer &lpar;arm64&rpar;](https://dev.to/pvsdev/how-we-added-apple-silicon-support-to-analyzer-arm64-5emp)
-- [Unlocking the Secrets of Ruby Debugging: From Basics to Advanced Tools](https://dev.to/jetthoughts/unlocking-the-secrets-of-ruby-debugging-from-basics-to-advanced-tools-5dd6)
-- [Understanding NVIDIA GPUs for AI and Deep Learning](https://dev.to/javaeeeee/understanding-nvidia-gpus-for-ai-and-deep-learning-4co7)
-- [Sequelize migrations](https://dev.to/thebridge2/sequelize-migrations-2611)
+- [🚀 Your Daily Crypto Job Digest For 24 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-december-13f)
+- [Create Your Own Personalised AWS Learning Experience with Streamlit](https://dev.to/omarsteam/create-your-own-personalised-aws-learning-experience-with-streamlit-8hg)
+- [Kubernetes on Hybrid Cloud dream or reality?](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-dream-or-reality-59bg)
+- [Teste do Capítulo 13](https://dev.to/javaparainiciantes/teste-do-capitulo-13-4ja7)
 <!-- BLOG-POST-LIST:END -->
 
 
