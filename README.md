@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand AVL Tree Rotations Visually](https://dev.to/yo-shi/understand-avl-tree-rotations-visually-4139)
-- [Connecting one Ubuntu Server OS to another: Complete guide](https://dev.to/harshm03/connecting-one-ubuntu-server-os-to-another-complete-guide-207g)
-- [❄️Introducing the HMPL Template Language](https://dev.to/anthonymax/introducing-the-hmpl-template-language-32fm)
-- [Coding Myths Debunked: Things Beginners Should Stop Believing](https://dev.to/arjun98k/coding-myths-debunked-things-beginners-should-stop-believing-2nbo)
+- [How to migrate your Node.js app to Deno 2.0](https://dev.to/logrocket/how-to-migrate-your-nodejs-app-to-deno-20-cb5)
+- [What is &#39;useCallback&#39; in React?](https://dev.to/atifwattoo/what-is-usecallback-in-react-e28)
+- [Serverless Email Service with AWS Lambda, Node.js, and SQS 📧](https://dev.to/mohinsheikh/serverless-email-service-with-aws-lambda-nodejs-and-sqs-1d9g)
+- [Concurrency Patterns: Balking Pattern](https://dev.to/yasir323/concurrency-patterns-balking-pattern-3kb4)
 <!-- BLOG-POST-LIST:END -->
 
 
