@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 24 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-december-13f)
-- [Create Your Own Personalised AWS Learning Experience with Streamlit](https://dev.to/omarsteam/create-your-own-personalised-aws-learning-experience-with-streamlit-8hg)
-- [Kubernetes on Hybrid Cloud dream or reality?](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-dream-or-reality-59bg)
-- [Teste do Capítulo 13](https://dev.to/javaparainiciantes/teste-do-capitulo-13-4ja7)
+- [Next build error collecting page data; + Chakra UI](https://dev.to/habeebullahi01/next-build-error-collecting-page-data-chakra-ui-27e1)
+- [Understanding Variables and Data Types in JavaScript](https://dev.to/vjygour/-understanding-variables-and-data-types-in-javascript-2b2d)
+- [Open Source: The Easy Way, How not to break the Internet &lpar;Yet&rpar;😁](https://dev.to/harshit_rwt/open-source-the-easy-way-how-not-to-break-the-internet-yet-dma)
+- [Cómo instalar Jenkins en AWS: Guía paso a paso](https://dev.to/briansuarezsantiago/como-instalar-jenkins-en-aws-guia-paso-a-paso-530d)
 <!-- BLOG-POST-LIST:END -->
 
 
