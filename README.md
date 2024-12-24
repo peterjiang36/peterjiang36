@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 23: Docker Resources](https://dev.to/code42cate/day-22-docker-resources-2h15)
-- [PostgreSQL Secrets You Wish You Knew Earlier](https://dev.to/karell_stemarie_ce42bf9c/postgresql-secrets-you-wish-you-knew-earlier-58di)
-- [My React Journey: Day 24](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-24-227e)
-- [La dualidad de tu profesión.](https://dev.to/ulisesserranop/la-dualidad-de-tu-profesion-4ahb)
+- [What is infrastructure as code and how its transforming DevOps](https://dev.to/tennie/what-is-infrastructure-as-code-and-how-its-transforming-devops-12h2)
+- [Bitcoin Halving: Impact on Price and Crypto Market Dynamics](https://dev.to/cryptogem123/bitcoin-halving-impact-on-price-and-crypto-market-dynamics-4712)
+- [Review: The New NVIDIA Jetson Orin Nano](https://dev.to/jeremycmorgan/review-the-new-nvidia-jetson-orin-nano-4ci7)
+- [The Future of AI in Software Testing: Trends to Watch in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-future-of-ai-in-software-testing-trends-to-watch-in-2025-42ah)
 <!-- BLOG-POST-LIST:END -->
 
 
