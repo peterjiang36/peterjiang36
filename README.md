@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solution to fix the &quot;Missing Compliance&quot; Warning at App Store Connect](https://dev.to/surhidamatya/solution-to-fix-the-missing-compliance-warning-at-app-store-connect-1kb6)
-- [Data Engineering for Real-Time Fraud Detection in Financial Services](https://dev.to/justdigitallyemma/data-engineering-for-real-time-fraud-detection-in-financial-services-4lan)
-- [Test Cases: The Backbone of Software Testing](https://dev.to/keploy/test-cases-the-backbone-of-software-testing-34ek)
-- [Day 1: Setup Laravel](https://dev.to/ehtesham_ali_abc367f36a5b/day-1-setup-laravel-2j3l)
+- [What is the React Slots pattern?](https://dev.to/neetigyachahar/what-is-the-react-slots-pattern-2ld9)
+- [Tailwind CSS: Tailwind Cost](https://dev.to/hannahanot/tailwind-css-tailwind-cost-20nl)
+- [สร้าง Dashboard ด้วย Grafana และ InfluxDB ด้วย Docker บน Ubuntu](https://dev.to/xnewz/sraang-dashboard-dwy-grafana-aela-influxdb-dwy-docker-bn-ubuntu-2do)
+- [Top 10 VS Code Extensions Every Developer Should Use 🔧](https://dev.to/info_generalhazedawn_a3d/top-10-vs-code-extensions-every-developer-should-use-kpi)
 <!-- BLOG-POST-LIST:END -->
 
 
