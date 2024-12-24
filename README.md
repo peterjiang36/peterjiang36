@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to migrate your Node.js app to Deno 2.0](https://dev.to/logrocket/how-to-migrate-your-nodejs-app-to-deno-20-cb5)
-- [What is &#39;useCallback&#39; in React?](https://dev.to/atifwattoo/what-is-usecallback-in-react-e28)
-- [Serverless Email Service with AWS Lambda, Node.js, and SQS 📧](https://dev.to/mohinsheikh/serverless-email-service-with-aws-lambda-nodejs-and-sqs-1d9g)
-- [Concurrency Patterns: Balking Pattern](https://dev.to/yasir323/concurrency-patterns-balking-pattern-3kb4)
+- [HackerRank: Plus Minus JavaScript solution.](https://dev.to/tochi_/hackerrank-plus-minus-javascript-solution-5el3)
+- [React Clicks, Styles, &amp; Conditionals! 🎨💥](https://dev.to/mayowakalejaiye/react-clicks-styles-conditionals-16h8)
+- [Getting Started with Java: Problem-Solving for Beginners](https://dev.to/bharu_0fec38bd0fb51b76742/getting-started-with-java-problem-solving-for-beginners-3d36)
+- [AWS VPC with Public and Private Subnets &amp; NAT Gateway](https://dev.to/taha_sumeer/aws-vpc-with-public-and-private-subnets-nat-gateway-nmd)
 <!-- BLOG-POST-LIST:END -->
 
 
