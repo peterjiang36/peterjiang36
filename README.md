@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ew-responsive-store Making Session Storage Data Reactive](https://dev.to/eveningwater/ew-responsive-store-making-session-storage-data-reactive-1h3f)
-- [3 Things You Need To Take Control Of Your Database](https://dev.to/metis/3-things-you-need-to-take-control-of-your-database-10nh)
-- [Readundant states](https://dev.to/mkwiecien/readundant-states-3kea)
-- [Flutter vs React Native: Which Framework is Better for Mobile Apps?](https://dev.to/web_dev-usman/flutter-vs-react-native-which-framework-is-better-for-mobile-apps-4pk9)
+- [ServBay 1.7.0 Released: Now with NGINX Support!](https://dev.to/servbay/servbay-170-released-now-with-nginx-support-38gl)
+- [Bright data Challenge - Industry AI Watchdog](https://dev.to/tqbit/bright-data-challenge-industry-ai-watchdog-la5)
+- [Fast Track to Mock Data: A Developer&#39;s 2-Minute Guide](https://dev.to/theodoresummer/fast-track-to-mock-data-a-developers-2-minute-guide-52a7)
+- [Understanding Camel Case](https://dev.to/caseconverter/understanding-camel-case-1687)
 <!-- BLOG-POST-LIST:END -->
 
 
