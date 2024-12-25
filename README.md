@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Trends in Web Design to Keep an Eye on in 2025](https://dev.to/grape-marketing/10-trends-in-web-design-to-keep-an-eye-on-in-2025-11d2)
-- [Set up Anaconda on Ubuntu 22.04 in Minutes: Simplify Your AI Workflow](https://dev.to/nodeshiftcloud/set-up-anaconda-on-ubuntu-2204-in-minutes-simplify-your-ai-workflow-511d)
-- [Why You Should Learn Go in 2025](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
-- [SOLID: The Interface Segregation Principle&lpar;ISP&rpar; in C#](https://dev.to/extinctsion/solid-the-interface-segregation-principleisp-in-c-n84)
+- [Reactive Programming applied to Legacy Services — A WebFlux example](https://dev.to/jofisaes/reactive-programming-applied-to-legacy-services-a-webflux-example-5eke)
+- [I have more comments than likes, lol](https://dev.to/best_codes/i-have-more-comments-than-likes-lol-2n3)
+- [CQRS — Command Query Responsibility Segregation — A Java, Spring, SpringBoot, and Axon Example](https://dev.to/jofisaes/cqrs-command-query-responsibility-segregation-a-java-spring-springboot-and-axon-example-4i26)
+- [Hexagonal Architecture — A Favorite Lyrics Spring Boot — Java Example](https://dev.to/jofisaes/hexagonal-architecture-a-favorite-lyrics-spring-boot-java-example-1379)
 <!-- BLOG-POST-LIST:END -->
 
 
