@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the best practices for integrating Playwright with Jenkins](https://dev.to/hexa-home/what-are-the-best-practices-for-integrating-playwright-with-jenkins-1377)
-- [How can companies create a culture that encourages developers to ask for help?](https://dev.to/hexa-home/how-can-companies-create-a-culture-that-encourages-developers-to-ask-for-help-2h34)
-- [[Boost]](https://dev.to/maradwan/-54pg)
-- [What we do with the box-shadows](https://dev.to/anamartins/what-we-do-with-the-box-shadows-3d39)
+- [Wednesday Links - Edition 2024-12-25](https://dev.to/0xkkocel/wednesday-links-edition-2024-12-24-40kb)
+- [What does Supabase use for its Authentication?](https://dev.to/thinkthroo/what-does-supabase-use-for-its-authentication-j15)
+- [Building a Service Mesh Control Plane in Go: A Deep Dive](https://dev.to/indalyadav56/building-a-service-mesh-control-plane-in-go-a-deep-dive-2ma6)
+- [Advanced Go Programming: Building Scalable Systems](https://dev.to/indalyadav56/advanced-go-programming-building-scalable-systems-1ml7)
 <!-- BLOG-POST-LIST:END -->
 
 
