@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2024-12-25](https://dev.to/0xkkocel/wednesday-links-edition-2024-12-24-40kb)
-- [What does Supabase use for its Authentication?](https://dev.to/thinkthroo/what-does-supabase-use-for-its-authentication-j15)
-- [Building a Service Mesh Control Plane in Go: A Deep Dive](https://dev.to/indalyadav56/building-a-service-mesh-control-plane-in-go-a-deep-dive-2ma6)
-- [Advanced Go Programming: Building Scalable Systems](https://dev.to/indalyadav56/advanced-go-programming-building-scalable-systems-1ml7)
+- [Screener.in Search API: A Performance Checkup! 🔎](https://dev.to/shahstavan/screenerin-search-api-a-performance-checkup-518m)
+- [Make EditorJS work in Svelte&lpar;kit&rpar; SSR](https://dev.to/digitaldrreamer/make-editorjs-work-in-sveltekit-ssr-34ho)
+- [Chrome DevTools: Everything You Need to Know](https://dev.to/kevin-uehara/chrome-devtools-everything-you-need-to-know-51pk)
+- [Nomeação de variáveis baseada no clean code](https://dev.to/domgarotom/nomeacao-de-variaveis-baseada-no-clean-code-36g2)
 <!-- BLOG-POST-LIST:END -->
 
 
