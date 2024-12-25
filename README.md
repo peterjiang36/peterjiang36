@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Find Largest Value in Each Tree Row](https://dev.to/ashchk/leetcode-daily-challenge-find-largest-value-in-each-tree-row-15l1)
-- [Fewer Files, More Lines vs. More Files, Fewer Lines of Code](https://dev.to/anmolsaini16/fewer-files-more-lines-vs-more-files-fewer-lines-of-code-gi7)
-- [My 1 year old GPT: Web Component Creator - is free source now](https://dev.to/dannyengelman/my-1-year-old-gpt-web-component-creator-is-free-source-now-45pf)
-- [Trees in SQL &lpar;part 2&rpar;](https://dev.to/andreik/trees-in-sql-part-2-15pa)
+- [10 Trends in Web Design to Keep an Eye on in 2025](https://dev.to/grape-marketing/10-trends-in-web-design-to-keep-an-eye-on-in-2025-11d2)
+- [Set up Anaconda on Ubuntu 22.04 in Minutes: Simplify Your AI Workflow](https://dev.to/nodeshiftcloud/set-up-anaconda-on-ubuntu-2204-in-minutes-simplify-your-ai-workflow-511d)
+- [Why You Should Learn Go in 2025](https://dev.to/empiree/why-you-should-learn-go-in-2025-308l)
+- [SOLID: The Interface Segregation Principle&lpar;ISP&rpar; in C#](https://dev.to/extinctsion/solid-the-interface-segregation-principleisp-in-c-n84)
 <!-- BLOG-POST-LIST:END -->
 
 
