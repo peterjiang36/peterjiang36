@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next - OPUS Audio Encoding in Audio and Video in Practice](https://dev.to/qingkouwei/harmonyos-next-opus-audio-encoding-in-audio-and-video-in-practice-2kb6)
-- [State Isolation: Layout vs Workspace](https://dev.to/samuel_udeh/state-isolation-layout-vs-workspace-ji9)
-- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
-- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
+- [Bulk Update with Entity Framework Core &lpar;EF Core&rpar;](https://dev.to/iamcymentho/bulk-update-with-entity-framework-core-ef-core-40jd)
+- [Continuous UI Testing Pipeline: BrowserStack with GitHub Actions](https://dev.to/keploy/continuous-ui-testing-pipeline-browserstack-with-github-actions-3k37)
+- [Django Forms From Model Tutorial: Build a Complete CRUD Application](https://dev.to/ebereplenty/django-forms-from-model-tutorial-build-a-complete-crud-application-2hac)
+- [How I Solved the &#39;General Error: 1813&#39; in MySQL &lpar;XAMPP&rpar;](https://dev.to/tanvir8321/how-i-solved-the-general-error-1813-in-mysql-xampp-397n)
 <!-- BLOG-POST-LIST:END -->
 
 
