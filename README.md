@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
-- [Bit Manipulation In Problem Solving](https://dev.to/nadeemrashid__/bit-manipulation-in-problem-solving-4k2g)
-- [🚀 Mastering Concurrency in Go: A Deep Dive into sync.WaitGroup and sync.Cond](https://dev.to/architagr/mastering-concurrency-in-go-a-deep-dive-into-syncwaitgroup-and-synccond-4ode)
-- [Zero, One, Infinity Principle in Software Development](https://dev.to/kasir-barati/zero-one-infinity-principle-in-software-development-39p0)
+- [Understanding Generative AI: A Beginner&#39;s Guide](https://dev.to/bitontree/understanding-generative-ai-a-beginners-guide-59gd)
+- [Introducción a AWS: Un roadmap para empezar](https://dev.to/briansuarezsantiago/introduccion-a-aws-un-roadmap-para-empezar-43f9)
+- [[Boost]](https://dev.to/amitkumar13/-4hg6)
+- [Custom Website Design vs. Template Design: The Best Choice](https://dev.to/seo_esignature_8b18cc8801/custom-website-design-vs-template-design-the-best-choice-1pgi)
 <!-- BLOG-POST-LIST:END -->
 
 
