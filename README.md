@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk Update with Entity Framework Core &lpar;EF Core&rpar;](https://dev.to/iamcymentho/bulk-update-with-entity-framework-core-ef-core-40jd)
-- [Continuous UI Testing Pipeline: BrowserStack with GitHub Actions](https://dev.to/keploy/continuous-ui-testing-pipeline-browserstack-with-github-actions-3k37)
-- [Django Forms From Model Tutorial: Build a Complete CRUD Application](https://dev.to/ebereplenty/django-forms-from-model-tutorial-build-a-complete-crud-application-2hac)
-- [How I Solved the &#39;General Error: 1813&#39; in MySQL &lpar;XAMPP&rpar;](https://dev.to/tanvir8321/how-i-solved-the-general-error-1813-in-mysql-xampp-397n)
+- [ew-responsive-store Making Session Storage Data Reactive](https://dev.to/eveningwater/ew-responsive-store-making-session-storage-data-reactive-1h3f)
+- [3 Things You Need To Take Control Of Your Database](https://dev.to/metis/3-things-you-need-to-take-control-of-your-database-10nh)
+- [Readundant states](https://dev.to/mkwiecien/readundant-states-3kea)
+- [Flutter vs React Native: Which Framework is Better for Mobile Apps?](https://dev.to/web_dev-usman/flutter-vs-react-native-which-framework-is-better-for-mobile-apps-4pk9)
 <!-- BLOG-POST-LIST:END -->
 
 
