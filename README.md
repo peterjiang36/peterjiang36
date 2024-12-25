@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Generative AI: A Beginner&#39;s Guide](https://dev.to/bitontree/understanding-generative-ai-a-beginners-guide-59gd)
-- [Introducción a AWS: Un roadmap para empezar](https://dev.to/briansuarezsantiago/introduccion-a-aws-un-roadmap-para-empezar-43f9)
-- [[Boost]](https://dev.to/amitkumar13/-4hg6)
-- [Custom Website Design vs. Template Design: The Best Choice](https://dev.to/seo_esignature_8b18cc8801/custom-website-design-vs-template-design-the-best-choice-1pgi)
+- [What are the best practices for integrating Playwright with Jenkins](https://dev.to/hexa-home/what-are-the-best-practices-for-integrating-playwright-with-jenkins-1377)
+- [How can companies create a culture that encourages developers to ask for help?](https://dev.to/hexa-home/how-can-companies-create-a-culture-that-encourages-developers-to-ask-for-help-2h34)
+- [[Boost]](https://dev.to/maradwan/-54pg)
+- [What we do with the box-shadows](https://dev.to/anamartins/what-we-do-with-the-box-shadows-3d39)
 <!-- BLOG-POST-LIST:END -->
 
 
