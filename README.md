@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A failure can teach you more than a ton of courses](https://dev.to/cocodelacueva/a-failure-can-teach-you-more-than-a-ton-of-courses-27nm)
-- [How HTTPS Works and Why Its Important?](https://dev.to/sajibcse68/how-https-works-and-why-its-important-5e60)
-- [Task----26/12/2024](https://dev.to/neelakandan_r_6edfe29644d/task-26122024-33fm)
-- [Unlocking Advanced Git Features: Tags, Signed Commits, Hooks, and More](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-advanced-git-features-tags-signed-commits-hooks-and-more-mhj)
+- [Git Performance: Optimizing Your Workflow with Shallow Cloning, Sparse Checkout, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-performance-optimizing-your-workflow-with-shallow-cloning-sparse-checkout-and-more-48ek)
+- [Understanding Inheritance in Java Through a Practical Example](https://dev.to/rama13850/understanding-inheritance-in-java-through-a-practical-example-55l2)
+- [Git Troubleshooting: How to Debug Issues, Resolve Merge Conflicts, Handle Detached HEAD, and Recover Lost Commits](https://dev.to/abhay_yt_52a8e72b213be229/git-troubleshooting-how-to-debug-issues-resolve-merge-conflicts-handle-detached-head-and-3loa)
+- [Git Tools and Extensions: Boost Your Workflow with Git GUI Clients, Credential Managers, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-tools-and-extensions-boost-your-workflow-with-git-gui-clients-credential-managers-and-more-4268)
 <!-- BLOG-POST-LIST:END -->
 
 
