@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Annotating Functions in Python](https://dev.to/ezekiel_77/annotating-functions-in-python-1gln)
-- [Debugging Playwright Tests Like a Pro](https://dev.to/aswani25/debugging-playwright-tests-like-a-pro-5215)
-- [Solusi Comment Reply WordPress Error Karena Rocket Loader Cloudflare](https://dev.to/ngobrolinit/solusi-comment-reply-wordpress-error-karena-rocket-loader-cloudflare-290f)
-- [Best Practices for Developing Non-English APIs](https://dev.to/apidog/best-practices-for-developing-non-english-apis-3bee)
+- [10 Best Practices for Ensuring API Security](https://dev.to/fahadhossain24/10-best-practices-for-ensuring-api-security-2n6g)
+- [AI Tools and Tips for Marketing in 2025](https://dev.to/danyaleyman/ai-tools-and-tips-for-marketing-in-2025-2d5a)
+- [Happy New Year](https://dev.to/aditya_kumararya_973bb83/happy-new-year-539j)
+- [Why Linux and Not Windows?](https://dev.to/trixsec/why-linux-and-not-windows-4en5)
 <!-- BLOG-POST-LIST:END -->
 
 
