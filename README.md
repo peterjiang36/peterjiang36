@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Practices for Ensuring API Security](https://dev.to/fahadhossain24/10-best-practices-for-ensuring-api-security-2n6g)
-- [AI Tools and Tips for Marketing in 2025](https://dev.to/danyaleyman/ai-tools-and-tips-for-marketing-in-2025-2d5a)
-- [Happy New Year](https://dev.to/aditya_kumararya_973bb83/happy-new-year-539j)
-- [Why Linux and Not Windows?](https://dev.to/trixsec/why-linux-and-not-windows-4en5)
+- [Reduce App Churn Rate with These Strategies](https://dev.to/salladev/reduce-app-churn-rate-with-these-strategies-42a9)
+- [How to Prepare for a Frontend Developer Interview in 2025](https://dev.to/moibra/how-to-prepare-for-a-frontend-developer-interview-in-2025-2e6b)
+- [Amazon EKS Cluster Reliability with Node Auto Repair](https://dev.to/prithiviraj_rengarajan/amazon-eks-cluster-reliability-with-node-auto-repair-1151)
+- [Unveiling the Power of Java Oracle: A Comprehensive Guide](https://dev.to/james8976/unveiling-the-power-of-java-oracle-a-comprehensive-guide-46ci)
 <!-- BLOG-POST-LIST:END -->
 
 
