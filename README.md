@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Sleek Digital Clock with Free Source Code](https://dev.to/safdarali25/build-your-own-sleek-digital-clock-with-free-source-code-a90)
-- [Introducing RealtimeAgent Capabilities in AG2](https://dev.to/ag2ai/introducing-realtimeagent-capabilities-in-ag2-n8d)
-- [Winter Solstice Celebrations - DEV Frontend Challenge Submission](https://dev.to/parnab03/winter-solstice-celebrations-dev-frontend-challenge-submission-387a)
-- [Generating OpenAPI API clients for Angular](https://dev.to/logrocket/generating-openapi-api-clients-for-angular-4ie0)
+- [How Can You Effectively Handle Errors in QA Testing &amp; Automation?](https://dev.to/wiseguide/how-can-you-effectively-handle-errors-in-qa-testing-automation-fbc)
+- [How Can You Effectively Handle Errors in Java?](https://dev.to/wiseguide/how-can-you-effectively-handle-errors-in-java-2p8b)
+- [How Can You Effectively Handle Errors in Python?](https://dev.to/wiseguide/how-can-you-effectively-handle-errors-in-python-3lb1)
+- [Terminal Animations with Node.js](https://dev.to/vladimirvovk/terminal-animations-with-nodejs-2lld)
 <!-- BLOG-POST-LIST:END -->
 
 
