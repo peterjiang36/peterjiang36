@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduce App Churn Rate with These Strategies](https://dev.to/salladev/reduce-app-churn-rate-with-these-strategies-42a9)
-- [How to Prepare for a Frontend Developer Interview in 2025](https://dev.to/moibra/how-to-prepare-for-a-frontend-developer-interview-in-2025-2e6b)
-- [Amazon EKS Cluster Reliability with Node Auto Repair](https://dev.to/prithiviraj_rengarajan/amazon-eks-cluster-reliability-with-node-auto-repair-1151)
-- [Unveiling the Power of Java Oracle: A Comprehensive Guide](https://dev.to/james8976/unveiling-the-power-of-java-oracle-a-comprehensive-guide-46ci)
+- [🚀 Accelerate Your Career Path and Professional Development](https://dev.to/juniourrau/accelerate-your-career-path-and-professional-development-1k40)
+- [CSS Replacement Method](https://dev.to/fscss-ttr/css-replacement-method-2nom)
+- [Adjust the intensity/brightness of colors in SwiftUI views](https://dev.to/divyeshvekariya/adjust-the-intensity-of-colors-in-swiftui-views-2oia)
+- [Frontend Challenge: December Edition : Glam Up My Markup: Winter Solstice](https://dev.to/isla_sunnycat49/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-171)
 <!-- BLOG-POST-LIST:END -->
 
 
