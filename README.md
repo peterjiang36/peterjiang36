@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Mode and Night Mode with Tailwind CSS and CSS Variables](https://dev.to/anandu_dev_a75fe0162e268f/dark-mode-and-night-mode-with-tailwind-css-and-css-variables-3047)
-- [5 Instagantt Alternatives That Can Do Better](https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-2g3b)
-- [Why is Oracle Autonomous Database a Game-Changer for DBAs?](https://dev.to/wiseguide/why-is-oracle-autonomous-database-a-game-changer-for-dbas-36i0)
-- [SQL Injection &lpar;SQLi&rpar;](https://dev.to/golam_mostafa/sql-injection-sqli-58af)
+- [5 Handy Tools I Use as a Software Developer](https://dev.to/rijultp/5-handy-tools-i-use-as-a-software-developer-4hbg)
+- [JavaScript Quick Bits: Computed Methods](https://dev.to/oculus42/javascript-quick-bits-computed-methods-3a0i)
+- [Simplify Your Algorithms and Data Structures Revision with This Free Resource!](https://dev.to/risabhkedai/simplify-your-algorithms-and-data-structures-revision-with-this-free-resource-57gn)
+- [The Secret Behind FastAPI’s Speed](https://dev.to/leapcell/the-secret-behind-fastapis-speed-519n)
 <!-- BLOG-POST-LIST:END -->
 
 
