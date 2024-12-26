@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Accelerate Your Career Path and Professional Development](https://dev.to/juniourrau/accelerate-your-career-path-and-professional-development-1k40)
-- [CSS Replacement Method](https://dev.to/fscss-ttr/css-replacement-method-2nom)
-- [Adjust the intensity/brightness of colors in SwiftUI views](https://dev.to/divyeshvekariya/adjust-the-intensity-of-colors-in-swiftui-views-2oia)
-- [Frontend Challenge: December Edition : Glam Up My Markup: Winter Solstice](https://dev.to/isla_sunnycat49/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-171)
+- [Explore two ways to handle type conversion with code snippets](https://dev.to/thedevricha/explore-two-ways-to-handle-type-conversion-with-code-snippets-5h3p)
+- [Understanding JavaScript Type Conversion](https://dev.to/thedevricha/understanding-javascript-type-conversion-174n)
+- [Preventing Clickjacking in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-clickjacking-in-laravel-applications-2hfe)
+- [Understand cURL more in Just 10 Minutes！🔥🔥](https://dev.to/fallon_jimmy/understand-curl-more-in-just-10-minutes-32om)
 <!-- BLOG-POST-LIST:END -->
 
 
