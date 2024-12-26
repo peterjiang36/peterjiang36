@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Handy Tools I Use as a Software Developer](https://dev.to/rijultp/5-handy-tools-i-use-as-a-software-developer-4hbg)
-- [JavaScript Quick Bits: Computed Methods](https://dev.to/oculus42/javascript-quick-bits-computed-methods-3a0i)
-- [Simplify Your Algorithms and Data Structures Revision with This Free Resource!](https://dev.to/risabhkedai/simplify-your-algorithms-and-data-structures-revision-with-this-free-resource-57gn)
-- [The Secret Behind FastAPI’s Speed](https://dev.to/leapcell/the-secret-behind-fastapis-speed-519n)
+- [Introducing the Kaldorei &lpar;ELF&rpar; Name Generator: Create Unique Fantasy Names with Ease](https://dev.to/arshad_mehmood_a744fded67/introducing-the-kaldorei-elf-name-generator-create-unique-fantasy-names-with-ease-2plc)
+- [Multi-page Website](https://dev.to/tobidelly/multi-page-website-1mf6)
+- [Why We Can&#39;t Stop Trading &lpar;And Why That&#39;s A Good Thing!&rpar;](https://dev.to/shrsv/why-we-cant-stop-trading-and-why-thats-a-good-thing-2ae3)
+- [Tell Don&#39;t Ask principle explained](https://dev.to/thibaultchatelain/tell-dont-ask-principle-explained-1gbf)
 <!-- BLOG-POST-LIST:END -->
 
 
