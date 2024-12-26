@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Kaldorei &lpar;ELF&rpar; Name Generator: Create Unique Fantasy Names with Ease](https://dev.to/arshad_mehmood_a744fded67/introducing-the-kaldorei-elf-name-generator-create-unique-fantasy-names-with-ease-2plc)
-- [Multi-page Website](https://dev.to/tobidelly/multi-page-website-1mf6)
-- [Why We Can&#39;t Stop Trading &lpar;And Why That&#39;s A Good Thing!&rpar;](https://dev.to/shrsv/why-we-cant-stop-trading-and-why-thats-a-good-thing-2ae3)
-- [Tell Don&#39;t Ask principle explained](https://dev.to/thibaultchatelain/tell-dont-ask-principle-explained-1gbf)
+- [Mastering React Lazy Loading: A Complete Guide Introduction](https://dev.to/manikanta_ketha_bf00556e9/mastering-react-lazy-loading-a-complete-guideintroduction-4ii5)
+- [How to Implement a Free Geolocation API in Your Next Project](https://dev.to/devapis/how-to-implement-a-free-geolocation-api-in-your-next-project-3ded)
+- [Encryption: ciphers, digests, salt, IV](https://dev.to/gliimly/encryption-ciphers-digests-salt-iv-5j4)
+- [The Power of Closures in JavaScript](https://dev.to/tajammal_mabool/the-power-of-closures-in-javascript-49n2)
 <!-- BLOG-POST-LIST:END -->
 
 
