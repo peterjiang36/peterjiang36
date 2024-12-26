@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can You Effectively Handle Errors in QA Testing &amp; Automation?](https://dev.to/wiseguide/how-can-you-effectively-handle-errors-in-qa-testing-automation-fbc)
-- [How Can You Effectively Handle Errors in Java?](https://dev.to/wiseguide/how-can-you-effectively-handle-errors-in-java-2p8b)
-- [How Can You Effectively Handle Errors in Python?](https://dev.to/wiseguide/how-can-you-effectively-handle-errors-in-python-3lb1)
-- [Terminal Animations with Node.js](https://dev.to/vladimirvovk/terminal-animations-with-nodejs-2lld)
+- [Dark Mode and Night Mode with Tailwind CSS and CSS Variables](https://dev.to/anandu_dev_a75fe0162e268f/dark-mode-and-night-mode-with-tailwind-css-and-css-variables-3047)
+- [5 Instagantt Alternatives That Can Do Better](https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-2g3b)
+- [Why is Oracle Autonomous Database a Game-Changer for DBAs?](https://dev.to/wiseguide/why-is-oracle-autonomous-database-a-game-changer-for-dbas-36i0)
+- [SQL Injection &lpar;SQLi&rpar;](https://dev.to/golam_mostafa/sql-injection-sqli-58af)
 <!-- BLOG-POST-LIST:END -->
 
 
