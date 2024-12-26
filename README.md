@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Performance: Optimizing Your Workflow with Shallow Cloning, Sparse Checkout, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-performance-optimizing-your-workflow-with-shallow-cloning-sparse-checkout-and-more-48ek)
-- [Understanding Inheritance in Java Through a Practical Example](https://dev.to/rama13850/understanding-inheritance-in-java-through-a-practical-example-55l2)
-- [Git Troubleshooting: How to Debug Issues, Resolve Merge Conflicts, Handle Detached HEAD, and Recover Lost Commits](https://dev.to/abhay_yt_52a8e72b213be229/git-troubleshooting-how-to-debug-issues-resolve-merge-conflicts-handle-detached-head-and-3loa)
-- [Git Tools and Extensions: Boost Your Workflow with Git GUI Clients, Credential Managers, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-tools-and-extensions-boost-your-workflow-with-git-gui-clients-credential-managers-and-more-4268)
+- [From Svelte 4 to Svelte 5: Understanding Slots &lpar;default and named&rpar;](https://dev.to/digitaldrreamer/from-svelte-4-to-svelte-5-understanding-slots-default-and-named-259n)
+- [Flutter 3.27: Wrapping Up the Year with Innovation and Progress](https://dev.to/tech_tales_daa8a7eab515b3/flutter-327-wrapping-up-the-year-with-innovation-and-progress-5dhj)
+- [Getting Started with Grafana: Your Observability Superhero Awaits](https://dev.to/mettasurendhar/getting-started-with-grafana-your-observability-superhero-awaits-okl)
+- [DeltaSharing en Databricks](https://dev.to/andresguecha/deltasharing-en-databricks-2f78)
 <!-- BLOG-POST-LIST:END -->
 
 
