@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Glance Widget: Revolutionizing Android Lock Screens with Unparalleled Weather Insights](https://dev.to/prajakta_gawande_9485a4fd/glance-widget-revolutionizing-android-lock-screens-with-unparalleled-weather-insights-575a)
-- [Implement a Time-based Service in .NET 8 by using IHostedService Interface](https://dev.to/elpidaguy/implement-a-time-based-service-in-net-8-by-using-ihostedservice-interface-1328)
-- [The Best Programming Languages to Learn in 2025](https://dev.to/trixsec/the-best-programming-languages-to-learn-in-2025-3jhl)
-- [Building a Real-time Collaboration Platform with Go and WebSockets](https://dev.to/indalyadav56/building-a-real-time-collaboration-platform-with-go-and-websockets-3h4e)
+- [A failure can teach you more than a ton of courses](https://dev.to/cocodelacueva/a-failure-can-teach-you-more-than-a-ton-of-courses-27nm)
+- [How HTTPS Works and Why Its Important?](https://dev.to/sajibcse68/how-https-works-and-why-its-important-5e60)
+- [Task----26/12/2024](https://dev.to/neelakandan_r_6edfe29644d/task-26122024-33fm)
+- [Unlocking Advanced Git Features: Tags, Signed Commits, Hooks, and More](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-advanced-git-features-tags-signed-commits-hooks-and-more-mhj)
 <!-- BLOG-POST-LIST:END -->
 
 
