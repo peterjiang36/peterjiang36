@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quite the Delay; Passing Rate Computation[CD]](https://dev.to/jasten/quite-the-delay-passing-rate-computationcd-2k67)
-- [Conquering the Setup Loop with Daytona](https://dev.to/akashjana/conquering-the-setup-loop-with-daytona-5614)
-- [CSS Units](https://dev.to/abdielbytes/css-units-2fcj)
-- [Why You Should Attend Events Like Devcon?](https://dev.to/mahima_thacker/why-you-should-attend-events-like-devcon-1684)
+- [High-Performance Python: Asyncio](https://dev.to/leapcell/high-performance-python-asyncio-4jkj)
+- [Day 01: Learning JavaScript APIs: Console API](https://dev.to/spruceemma/day-01-learning-javascript-apis-console-api-ajc)
+- [How to use rerank models in Amazon Bedrock](https://dev.to/tim_schill/how-to-use-rerank-models-in-amazon-bedrock-5dm3)
+- [Fixing and Validating JSON with Ease: An In-Depth Guide](https://dev.to/onlinejsonformatter0/fixing-and-validating-json-with-ease-an-in-depth-guide-19jc)
 <!-- BLOG-POST-LIST:END -->
 
 
