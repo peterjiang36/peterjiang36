@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Habits: How to Build a Life You Love in 30 Days](https://dev.to/fashikun_mojoyinoluwa_20e/the-power-of-habits-how-to-build-a-life-you-love-in-30-days-3d37)
-- [15 Essential JavaScript Array Functions](https://dev.to/kafeel_ahmad/15-essential-javascript-array-functions-7fm)
-- [Your Ultimate Guide to Creating Profitable Notion Templates](https://dev.to/resource_bunk_1077cab07da/your-ultimate-guide-to-creating-profitable-notion-templates-1bef)
-- [Tutorial de Instalação: Express com MongoDB e Mongoose](https://dev.to/thaissacarvalho/tutorial-de-instalacao-express-com-mongodb-e-mongoose-7f3)
+- [AI Web Dev: Friend, Foe, or Force Multiplier?](https://dev.to/awaisz99/ai-web-dev-friend-foe-or-force-multiplier-hhj)
+- [CompTIA Certification Path in 2025 : Your Guide to a Successful IT Career](https://dev.to/skillboosttrainer/comptia-certification-path-in-2025-your-guide-to-a-successful-it-career-407c)
+- [🔐 Understanding Ethereum Off-Chain Signing, ECDSA, EIP-712 and Its Role in Permit Functionality 🧾](https://dev.to/truongpx396/understanding-ethereum-off-chain-signing-ecdsa-eip-712-and-its-role-in-permit-functionality-47i1)
+- [Type Casting vs Type Conversion](https://dev.to/nozibul_islam_113b1d5334f/type-casting-vs-type-conversion-ii7)
 <!-- BLOG-POST-LIST:END -->
 
 
