@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 Retrospective](https://dev.to/ryandotfurrer/2024-retrospective-5clc)
-- [ShadowDOM: The Underrated Gem Every Web Developer Should Know](https://dev.to/rijultp/shadowdom-the-underrated-gem-every-web-developer-should-know-3phe)
-- [Lsposed Module Creation](https://dev.to/lord_el/lsposed-module-creation-4ood)
-- [My 2024 Wrapped: you can just make things](https://dev.to/abdibrokhim/my-2024-wrapped-you-can-just-make-things-43dp)
+- [Transform zod error into readable error response](https://dev.to/abdulghofurme/transform-zod-error-into-readable-error-response-4d7p)
+- [Push Notification Systems: From Device Registration to Message Delivery—A Technical Deep Dive](https://dev.to/mr_harshkumar_jha/push-notification-systems-from-device-registration-to-message-delivery-a-technical-deep-dive-5348)
+- [Understanding Webhooks: A Humble Guide for Developers](https://dev.to/lovestaco/understanding-webhooks-a-humble-guide-for-developers-4li)
+- [Breaking Down Figma Prototyping: A No-Nonsense Guide for Beginners](https://dev.to/jayant_joshi_39bfa57d1e47/breaking-down-figma-prototyping-a-no-nonsense-guide-for-beginners-2co0)
 <!-- BLOG-POST-LIST:END -->
 
 
