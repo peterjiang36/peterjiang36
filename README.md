@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Performance Python: Asyncio](https://dev.to/leapcell/high-performance-python-asyncio-4jkj)
-- [Day 01: Learning JavaScript APIs: Console API](https://dev.to/spruceemma/day-01-learning-javascript-apis-console-api-ajc)
-- [How to use rerank models in Amazon Bedrock](https://dev.to/tim_schill/how-to-use-rerank-models-in-amazon-bedrock-5dm3)
-- [Fixing and Validating JSON with Ease: An In-Depth Guide](https://dev.to/onlinejsonformatter0/fixing-and-validating-json-with-ease-an-in-depth-guide-19jc)
+- [AI Achieves Human-Level Performance on General Intelligence Test: What Developers Can Expect Next](https://dev.to/epicx/ai-achieves-human-level-performance-on-general-intelligence-test-what-developers-can-expect-next-350d)
+- [How to Play 2 Player on Street Fighter 6 PS5](https://dev.to/shazaib_rafiq_496442e8642/how-to-play-2-player-on-street-fighter-6-ps5-4nni)
+- [Best Tech Learnings of 2024](https://dev.to/drjoshcsimmons/best-tech-learnings-of-2024-pci)
+- [Js in bits - 9.3&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-93comparisons-32fn)
 <!-- BLOG-POST-LIST:END -->
 
 
