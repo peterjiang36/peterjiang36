@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Web Dev: Friend, Foe, or Force Multiplier?](https://dev.to/awaisz99/ai-web-dev-friend-foe-or-force-multiplier-hhj)
-- [CompTIA Certification Path in 2025 : Your Guide to a Successful IT Career](https://dev.to/skillboosttrainer/comptia-certification-path-in-2025-your-guide-to-a-successful-it-career-407c)
-- [🔐 Understanding Ethereum Off-Chain Signing, ECDSA, EIP-712 and Its Role in Permit Functionality 🧾](https://dev.to/truongpx396/understanding-ethereum-off-chain-signing-ecdsa-eip-712-and-its-role-in-permit-functionality-47i1)
-- [Type Casting vs Type Conversion](https://dev.to/nozibul_islam_113b1d5334f/type-casting-vs-type-conversion-ii7)
+- [Advanced Go Techniques: A Deep Dive into Modern Golang Development](https://dev.to/indalyadav56/advanced-go-techniques-a-deep-dive-into-modern-golang-development-2k9n)
+- [Advanced Rust Programming: From Zero to Hero](https://dev.to/indalyadav56/advanced-rust-programming-from-zero-to-hero-1e81)
+- [Serverless Observability with AWS Lambda Powertools and AWS CDK](https://dev.to/hassanazhar/serverless-observability-with-aws-lambda-powertools-and-aws-cdk-ln0)
+- [Unleashing the Power of NGINX as an API Gateway](https://dev.to/indalyadav56/unleashing-the-power-of-nginx-as-an-api-gateway-4i63)
 <!-- BLOG-POST-LIST:END -->
 
 
