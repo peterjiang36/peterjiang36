@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Go Techniques: A Deep Dive into Modern Golang Development](https://dev.to/indalyadav56/advanced-go-techniques-a-deep-dive-into-modern-golang-development-2k9n)
-- [Advanced Rust Programming: From Zero to Hero](https://dev.to/indalyadav56/advanced-rust-programming-from-zero-to-hero-1e81)
-- [Serverless Observability with AWS Lambda Powertools and AWS CDK](https://dev.to/hassanazhar/serverless-observability-with-aws-lambda-powertools-and-aws-cdk-ln0)
-- [Unleashing the Power of NGINX as an API Gateway](https://dev.to/indalyadav56/unleashing-the-power-of-nginx-as-an-api-gateway-4i63)
+- [Quite the Delay; Passing Rate Computation[CD]](https://dev.to/jasten/quite-the-delay-passing-rate-computationcd-2k67)
+- [Conquering the Setup Loop with Daytona](https://dev.to/akashjana/conquering-the-setup-loop-with-daytona-5614)
+- [CSS Units](https://dev.to/abdielbytes/css-units-2fcj)
+- [Why You Should Attend Events Like Devcon?](https://dev.to/mahima_thacker/why-you-should-attend-events-like-devcon-1684)
 <!-- BLOG-POST-LIST:END -->
 
 
