@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping Summarization with Vite React TypeScript and Spring Boot](https://dev.to/dioarafi/web-scraping-summarization-with-vite-react-typescript-and-spring-boot-34bg)
-- [Setting Up a GitHub Repository Like a Pro](https://dev.to/danielmontes9/setting-up-a-github-repository-like-a-pro-52a)
-- [Engineering of Small Things #4 : WebSockets](https://dev.to/siren/engineering-of-small-things-4-websockets-4n6)
-- [The relationship between GAEA and DEPIN](https://dev.to/xiaorong_pu_6850cf163f9f2/the-relationship-between-gaea-and-depin-13h3)
+- [Najlepsi dostawcy mobilnego proxy](https://dev.to/toniaread/najlepsi-dostawcy-mobilnego-proxy-3j4k)
+- [Top IDEs for Java Development on Mac](https://dev.to/brilworks/top-ides-for-java-development-on-mac-1p6i)
+- [Nextjs adn tailwind CSS](https://dev.to/hannahanot/nextjs-adn-tailwind-css-16o4)
+- [Redefining Software Testing: How GenQE Leverages AI for Excellence](https://dev.to/vaibhavkuls/redefining-software-testing-how-genqe-leverages-ai-for-excellence-1j0e)
 <!-- BLOG-POST-LIST:END -->
 
 
