@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Configurable Kong API Gateway with Micronaut Services in Kotlin — A very odd Yucca tribute concert](https://dev.to/jofisaes/configurable-kong-api-gateway-with-micronaut-services-in-kotlin-a-very-odd-yucca-tribute-concert-8he)
-- [Microsoft выпустила обновленную малую языковую модель Phi-4](https://dev.to/arcanegaming/microsoft-vypustila-obnovliennuiu-maluiu-iazykovuiu-modiel-phi-4-4h0d)
-- [Top 5 Key Features of Effective Testimonial Software](https://dev.to/feedspace/top-5-key-features-of-effective-testimonial-software-lep)
-- [5 Essential Java Profiling Tools for Optimizing Application Performance](https://dev.to/aaravjoshi/5-essential-java-profiling-tools-for-optimizing-application-performance-1leb)
+- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
+- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
+- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
+- [2025](https://dev.to/mohsinkhan_747/2025-4749)
 <!-- BLOG-POST-LIST:END -->
 
 
