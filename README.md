@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Quality Assurance with Testing and Automation](https://dev.to/wiseguide/empowering-quality-assurance-with-testing-and-automation-456n)
-- [How to Configure GitHub Authentication Using SSH Certificates](https://dev.to/jajera/how-to-configure-github-authentication-using-ssh-certificates-3haj)
-- [Understanding the Essentials of Blockchain Technology](https://dev.to/napkingun7/understanding-the-essentials-of-blockchain-technology-4ii1)
-- [How AI is Transforming Web Development: From Automation to Personalization](https://dev.to/rayan2228/how-ai-is-transforming-web-development-from-automation-to-personalization-1fef)
+- [Tech stories: the wrong type of help that made me rage quit a meeting](https://dev.to/latobibor/tech-stories-the-wrong-type-of-help-that-made-me-rage-quit-a-meeting-2jl6)
+- [Top 10 React js interview questions.](https://dev.to/mukul_aggarwal/top-10-react-js-interview-questions-1adp)
+- [🌥️ Exploring Cloud Computing: A Simple Guide](https://dev.to/tharindumadubashna/exploring-cloud-computing-a-simple-guide-1fd4)
+- [React Dropzone: Image Drag n Drop using Dropzone](https://dev.to/mukul_aggarwal/react-dropzone-image-drag-n-drop-using-dropzone-f69)
 <!-- BLOG-POST-LIST:END -->
 
 
