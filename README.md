@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech stories: the wrong type of help that made me rage quit a meeting](https://dev.to/latobibor/tech-stories-the-wrong-type-of-help-that-made-me-rage-quit-a-meeting-2jl6)
-- [Top 10 React js interview questions.](https://dev.to/mukul_aggarwal/top-10-react-js-interview-questions-1adp)
-- [🌥️ Exploring Cloud Computing: A Simple Guide](https://dev.to/tharindumadubashna/exploring-cloud-computing-a-simple-guide-1fd4)
-- [React Dropzone: Image Drag n Drop using Dropzone](https://dev.to/mukul_aggarwal/react-dropzone-image-drag-n-drop-using-dropzone-f69)
+- [Web Scraping Summarization with Vite React TypeScript and Spring Boot](https://dev.to/dioarafi/web-scraping-summarization-with-vite-react-typescript-and-spring-boot-34bg)
+- [Setting Up a GitHub Repository Like a Pro](https://dev.to/danielmontes9/setting-up-a-github-repository-like-a-pro-52a)
+- [Engineering of Small Things #4 : WebSockets](https://dev.to/siren/engineering-of-small-things-4-websockets-4n6)
+- [The relationship between GAEA and DEPIN](https://dev.to/xiaorong_pu_6850cf163f9f2/the-relationship-between-gaea-and-depin-13h3)
 <!-- BLOG-POST-LIST:END -->
 
 
