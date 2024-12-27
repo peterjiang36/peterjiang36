@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Achieves Human-Level Performance on General Intelligence Test: What Developers Can Expect Next](https://dev.to/epicx/ai-achieves-human-level-performance-on-general-intelligence-test-what-developers-can-expect-next-350d)
-- [How to Play 2 Player on Street Fighter 6 PS5](https://dev.to/shazaib_rafiq_496442e8642/how-to-play-2-player-on-street-fighter-6-ps5-4nni)
-- [Best Tech Learnings of 2024](https://dev.to/drjoshcsimmons/best-tech-learnings-of-2024-pci)
-- [Js in bits - 9.3&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-93comparisons-32fn)
+- [2024 Retrospective](https://dev.to/ryandotfurrer/2024-retrospective-5clc)
+- [ShadowDOM: The Underrated Gem Every Web Developer Should Know](https://dev.to/rijultp/shadowdom-the-underrated-gem-every-web-developer-should-know-3phe)
+- [Lsposed Module Creation](https://dev.to/lord_el/lsposed-module-creation-4ood)
+- [My 2024 Wrapped: you can just make things](https://dev.to/abdibrokhim/my-2024-wrapped-you-can-just-make-things-43dp)
 <!-- BLOG-POST-LIST:END -->
 
 
