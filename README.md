@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML, CSS and JavaScript, Chatting website](https://dev.to/bdg_186/html-css-and-javascript-chatting-website-54d0)
-- [How to Setup Vim for Kotlin Development](https://dev.to/calamont/how-to-setup-vim-for-kotlin-development-4eoc)
-- [React Native Online Compiler: Compare the Top 5 Platforms for Your Development Needs](https://dev.to/codeparrot/react-native-online-compiler-compare-the-top-5-platforms-for-your-development-needs-2i2j)
-- [Etcd Backup and Restore &lpar;3&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-3-53kh)
+- [AI won&#39;t replace your job if you...](https://dev.to/wgcorrea/ai-wont-replace-your-job-if-you-4nd4)
+- [Send emails using Nodemailer &lpar;Typescript&rpar;](https://dev.to/victuk/send-emails-using-nodemailer-typescript-4763)
+- [Introducing CheckMailPro – Block Fake/Temp Emails and Secure Your User Signups!](https://dev.to/checkmailpro/introducing-checkmailpro-block-faketemp-emails-and-secure-your-user-signups-17c5)
+- [What&#39;s this time of year like for you?](https://dev.to/jess/whats-this-time-of-year-like-for-you-5ecm)
 <!-- BLOG-POST-LIST:END -->
 
 
