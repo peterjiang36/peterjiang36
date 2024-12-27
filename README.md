@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI won&#39;t replace your job if you...](https://dev.to/wgcorrea/ai-wont-replace-your-job-if-you-4nd4)
-- [Send emails using Nodemailer &lpar;Typescript&rpar;](https://dev.to/victuk/send-emails-using-nodemailer-typescript-4763)
-- [Introducing CheckMailPro – Block Fake/Temp Emails and Secure Your User Signups!](https://dev.to/checkmailpro/introducing-checkmailpro-block-faketemp-emails-and-secure-your-user-signups-17c5)
-- [What&#39;s this time of year like for you?](https://dev.to/jess/whats-this-time-of-year-like-for-you-5ecm)
+- [There will be much less room for improvement soon.](https://dev.to/xamidi/there-will-be-much-less-room-for-improvement-soon-5950)
+- [Fix &quot;Dummy Device&quot; for sound on Debian](https://dev.to/jeansen/fix-dummy-device-for-sound-on-debian-45e)
+- [How to Configure Gmail SMTP Server Settings](https://dev.to/msnmongare/how-to-configure-gmail-smtp-server-settings-7l6)
+- [Essential SEO Strategies for Web Developers](https://dev.to/brian_keary_16db3f9defbbe/essential-seo-strategies-for-web-developers-2ik8)
 <!-- BLOG-POST-LIST:END -->
 
 
