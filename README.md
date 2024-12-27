@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Renew LetsEncrypt SSL Certificate in WordPress by Bitnami](https://dev.to/solitrix02/renew-letsencrypt-ssl-certificate-in-wordpress-by-bitnami-4bfi)
-- [CI/CD Pipeline using GitHub Actions with React](https://dev.to/solitrix02/cicd-pipeline-using-github-actions-with-react-3f3i)
-- [Deploying a MERN App on Azure: The Smart Way](https://dev.to/solitrix02/deploying-a-mern-app-on-azure-the-smart-way-4mk9)
-- [Interactive Color Scheme Switcher with Free Source Code](https://dev.to/safdarali25/interactive-color-scheme-switcher-with-free-source-code-2kd3)
+- [The Power of Habits: How to Build a Life You Love in 30 Days](https://dev.to/fashikun_mojoyinoluwa_20e/the-power-of-habits-how-to-build-a-life-you-love-in-30-days-3d37)
+- [15 Essential JavaScript Array Functions](https://dev.to/kafeel_ahmad/15-essential-javascript-array-functions-7fm)
+- [Your Ultimate Guide to Creating Profitable Notion Templates](https://dev.to/resource_bunk_1077cab07da/your-ultimate-guide-to-creating-profitable-notion-templates-1bef)
+- [Tutorial de Instalação: Express com MongoDB e Mongoose](https://dev.to/thaissacarvalho/tutorial-de-instalacao-express-com-mongodb-e-mongoose-7f3)
 <!-- BLOG-POST-LIST:END -->
 
 
