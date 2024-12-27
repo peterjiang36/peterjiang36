@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform zod error into readable error response](https://dev.to/abdulghofurme/transform-zod-error-into-readable-error-response-4d7p)
-- [Push Notification Systems: From Device Registration to Message Delivery—A Technical Deep Dive](https://dev.to/mr_harshkumar_jha/push-notification-systems-from-device-registration-to-message-delivery-a-technical-deep-dive-5348)
-- [Understanding Webhooks: A Humble Guide for Developers](https://dev.to/lovestaco/understanding-webhooks-a-humble-guide-for-developers-4li)
-- [Breaking Down Figma Prototyping: A No-Nonsense Guide for Beginners](https://dev.to/jayant_joshi_39bfa57d1e47/breaking-down-figma-prototyping-a-no-nonsense-guide-for-beginners-2co0)
+- [HTML, CSS and JavaScript, Chatting website](https://dev.to/bdg_186/html-css-and-javascript-chatting-website-54d0)
+- [How to Setup Vim for Kotlin Development](https://dev.to/calamont/how-to-setup-vim-for-kotlin-development-4eoc)
+- [React Native Online Compiler: Compare the Top 5 Platforms for Your Development Needs](https://dev.to/codeparrot/react-native-online-compiler-compare-the-top-5-platforms-for-your-development-needs-2i2j)
+- [Etcd Backup and Restore &lpar;3&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-3-53kh)
 <!-- BLOG-POST-LIST:END -->
 
 
