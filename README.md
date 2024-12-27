@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
-- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
-- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
-- [2025](https://dev.to/mohsinkhan_747/2025-4749)
+- [Renew LetsEncrypt SSL Certificate in WordPress by Bitnami](https://dev.to/solitrix02/renew-letsencrypt-ssl-certificate-in-wordpress-by-bitnami-4bfi)
+- [CI/CD Pipeline using GitHub Actions with React](https://dev.to/solitrix02/cicd-pipeline-using-github-actions-with-react-3f3i)
+- [Deploying a MERN App on Azure: The Smart Way](https://dev.to/solitrix02/deploying-a-mern-app-on-azure-the-smart-way-4mk9)
+- [Interactive Color Scheme Switcher with Free Source Code](https://dev.to/safdarali25/interactive-color-scheme-switcher-with-free-source-code-2kd3)
 <!-- BLOG-POST-LIST:END -->
 
 
