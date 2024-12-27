@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My new Nix series!](https://dev.to/arnu515/my-new-nix-series-2cc3)
-- [⚡ 🚀 Top 10 Trending GitHub Repositories, December 2024 ⚡ 🚀 🚀](https://dev.to/leamsigc/top-10-trending-github-repositories-december-2024-c69)
-- [What’s been your biggest achievement this year??](https://dev.to/shafayeat/whats-been-your-biggest-achievement-this-year-ih2)
-- [Article 1](https://dev.to/mimoooooooo/article-1-29c5)
+- [Configurable Kong API Gateway with Micronaut Services in Kotlin — A very odd Yucca tribute concert](https://dev.to/jofisaes/configurable-kong-api-gateway-with-micronaut-services-in-kotlin-a-very-odd-yucca-tribute-concert-8he)
+- [Microsoft выпустила обновленную малую языковую модель Phi-4](https://dev.to/arcanegaming/microsoft-vypustila-obnovliennuiu-maluiu-iazykovuiu-modiel-phi-4-4h0d)
+- [Top 5 Key Features of Effective Testimonial Software](https://dev.to/feedspace/top-5-key-features-of-effective-testimonial-software-lep)
+- [5 Essential Java Profiling Tools for Optimizing Application Performance](https://dev.to/aaravjoshi/5-essential-java-profiling-tools-for-optimizing-application-performance-1leb)
 <!-- BLOG-POST-LIST:END -->
 
 
