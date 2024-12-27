@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Najlepsi dostawcy mobilnego proxy](https://dev.to/toniaread/najlepsi-dostawcy-mobilnego-proxy-3j4k)
-- [Top IDEs for Java Development on Mac](https://dev.to/brilworks/top-ides-for-java-development-on-mac-1p6i)
-- [Nextjs adn tailwind CSS](https://dev.to/hannahanot/nextjs-adn-tailwind-css-16o4)
-- [Redefining Software Testing: How GenQE Leverages AI for Excellence](https://dev.to/vaibhavkuls/redefining-software-testing-how-genqe-leverages-ai-for-excellence-1j0e)
+- [#123 — Convert One-Dimensional Array to Two-Dimensional Array](https://dev.to/judith677/123-convert-one-dimensional-array-to-two-dimensional-array-2mf1)
+- [Five GIS Toolboxes: Unlocking the Potential of Geographic Information Systems](https://dev.to/gisbox/five-gis-toolboxes-unlocking-the-potential-of-geographic-information-systems-1l28)
+- [Smart AI Memory System Boosts Language Models with Two-Pass Processing Method](https://dev.to/mikeyoung44/smart-ai-memory-system-boosts-language-models-with-two-pass-processing-method-4k95)
+- [Is CodeIgniter Still Relevant in 2025?](https://dev.to/3m1n3nc3/is-codeigniter-still-relevant-in-2025-3ppl)
 <!-- BLOG-POST-LIST:END -->
 
 
