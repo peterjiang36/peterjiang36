@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Design Patterns: Understanding the Adapter Pattern for Compatibility](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-adapter-pattern-for-compatibility-130p)
-- [What were your 2024 goals and resolutions?](https://dev.to/devmercy/what-were-your-2024-resolutions-539d)
-- [Load balancer vs Gateway vs reverse proxy vs forward proxy](https://dev.to/sallbro/load-balancer-vs-gateway-vs-reverse-proxy-vs-forward-proxy-49oe)
-- [Top Forex APIs for Live Market Data and Trading Automation](https://dev.to/bradi/top-forex-apis-for-live-market-data-and-trading-automation-lfo)
+- [Support Time to Take Action with Compose](https://dev.to/eevajonnapanula/support-time-to-take-action-with-compose-3dad)
+- [A Deep Dive into Gin: Golang&#39;s Leading Framework](https://dev.to/leapcell/a-deep-dive-into-gin-golangs-leading-framework-5e39)
+- [FrontEnd Dependency Injection with iocello](https://dev.to/anas-abdelhadi/mastering-dependency-injection-with-iocello-3j97)
+- [🧩 LeetCode Challenge: Remove Element | Top Interview Questions [Java Solution]](https://dev.to/rahulgithubweb/leetcode-challenge-remove-element-top-interview-questions-java-solution-3f6h)
 <!-- BLOG-POST-LIST:END -->
 
 
