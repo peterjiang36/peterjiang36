@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Variables](https://dev.to/sathish_balaji_2003/variables-n38)
-- [SOLID Principle In .NET Core](https://dev.to/abhishek_adhav_22ab0c2463/solid-principle-in-net-core-1am0)
-- [Three Steps to Build a More Cost-Effective Solution on AWS](https://dev.to/matheusdasmerces/three-steps-to-build-a-more-cost-effective-solution-on-aws-mlj)
-- [Domain Driven Design: making a domain modeling](https://dev.to/eronalves1996/domain-driven-design-making-a-domain-model-181p)
+- [JUST MAKE THINGS](https://dev.to/abdibrokhim/just-make-things-3b0h)
+- [Rate Limiting for Beginners: What It Is and How to Build One in Go](https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955)
+- [[React - Learn From Problem] Each child in a list should have a unique &#39;key&#39; prop](https://dev.to/tak089/each-child-in-a-list-should-have-a-unique-key-prop-3el2)
+- [[React - Learn From Problem]Common Errors Beginners Face When Practicing with Project](https://dev.to/tak089/react-clean-codecommon-errors-beginners-face-when-practicing-with-project-2gnf)
 <!-- BLOG-POST-LIST:END -->
 
 
