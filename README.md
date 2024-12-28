@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the World of Event-Driven Process Orchestration for Technical Leaders](https://dev.to/ernestohs/navigating-the-world-of-event-driven-process-orchestration-for-technical-leaders-pj9)
-- [🔮 Daytona + EchoBrain – AI Development Reimagined](https://dev.to/bigbang001/crafting-echobrain-with-daytona-ai-development-simplified-432n)
-- [Web development - Vercel AI](https://dev.to/dowenrei/web-development-vercel-ai-20il)
-- [How to Connect a Gaming PC to a Monitor](https://dev.to/shazaib_rafiq_496442e8642/how-to-connect-a-gaming-pc-to-a-monitor-2k8b)
+- [Learn Design Patterns: Understanding the Adapter Pattern for Compatibility](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-adapter-pattern-for-compatibility-130p)
+- [What were your 2024 goals and resolutions?](https://dev.to/devmercy/what-were-your-2024-resolutions-539d)
+- [Load balancer vs Gateway vs reverse proxy vs forward proxy](https://dev.to/sallbro/load-balancer-vs-gateway-vs-reverse-proxy-vs-forward-proxy-49oe)
+- [Top Forex APIs for Live Market Data and Trading Automation](https://dev.to/bradi/top-forex-apis-for-live-market-data-and-trading-automation-lfo)
 <!-- BLOG-POST-LIST:END -->
 
 
