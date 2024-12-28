@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Support Time to Take Action with Compose](https://dev.to/eevajonnapanula/support-time-to-take-action-with-compose-3dad)
-- [A Deep Dive into Gin: Golang&#39;s Leading Framework](https://dev.to/leapcell/a-deep-dive-into-gin-golangs-leading-framework-5e39)
-- [FrontEnd Dependency Injection with iocello](https://dev.to/anas-abdelhadi/mastering-dependency-injection-with-iocello-3j97)
-- [🧩 LeetCode Challenge: Remove Element | Top Interview Questions [Java Solution]](https://dev.to/rahulgithubweb/leetcode-challenge-remove-element-top-interview-questions-java-solution-3f6h)
+- [We no need write Java in Kotlin](https://dev.to/mikhailepatko/we-no-need-write-java-in-kotlin-5985)
+- [The Journey of ReqWeb: What’s Coming in Version 2.0](https://dev.to/taqsblaze/the-journey-of-reqweb-whats-coming-in-version-20-32d3)
+- [Configuring a custom domain for your Azure Static Web App](https://dev.to/chsami/configuring-a-custom-domain-for-your-azure-static-web-app-1igc)
+- [vogen - Value Object Generator in golang](https://dev.to/nchika/vogen-value-object-generator-in-golang-fkg)
 <!-- BLOG-POST-LIST:END -->
 
 
