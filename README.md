@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Profitable Business Selling Notion Templates](https://dev.to/resource_bunk_1077cab07da/how-to-build-a-profitable-business-selling-notion-templates-1eab)
-- [The Most Profitable Notion Templates to Sell in 2025](https://dev.to/resource_bunk_1077cab07da/the-most-profitable-notion-templates-to-sell-in-2025-4m4o)
-- [How to setup Supabase with Nextjs for authentication | Supabase Auth](https://dev.to/thatanjan/how-to-setup-supabase-with-nextjs-for-authentication-supabase-auth-3p76)
-- [Data Visualization: How to Create Styled Cryptocurrency Candlesticks with Highcharts](https://dev.to/chideraao/data-visualization-how-to-create-styled-cryptocurrency-candlesticks-with-highcharts-3hmo)
+- [🔥 Must-See: 25+ New Javascript Article You Can’t Miss! &lpar;Dec 28, 2024&rpar;](https://dev.to/dev-resources/must-see-25-new-javascript-article-you-cant-miss-dec-28-2024-4b3f)
+- [Handling Array Chunks In php](https://dev.to/ahmedraza_fyntune/handling-array-chunks-in-php-2e50)
+- [Yoda’s EU Grant Finder for Solopreneurs: Powered by Bright Data](https://dev.to/yodachallenge/yodas-eu-grant-finder-for-solopreneurs-powered-by-bright-data-398o)
+- [Architectuing Internationalization In React Apps: Comprehensive Guide to Scalable Localization](https://dev.to/araldhafeeri/architectuing-internationalization-in-react-apps-comprehensive-guide-to-scalable-localization-449m)
 <!-- BLOG-POST-LIST:END -->
 
 
