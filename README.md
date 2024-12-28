@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cut Your AWS Lambda Logging Costs: Filter Logs with AWS SAM](https://dev.to/faboulaye/cut-your-aws-lambda-logging-costs-filter-logs-with-aws-sam-1ap3)
-- [Free Full-Stack Web Service Development Guide From Scratch with Video Lessons, Source Code, and Support](https://dev.to/iserdmi/free-full-stack-web-service-development-guide-from-scratch-with-video-lessons-source-code-and-bm5)
-- [CSS CELEBRATION Art](https://dev.to/winslause/css-celebration-art-3p2p)
-- [Js in bits - 9.5&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-95comparisons-2eld)
+- [Understanding Equality in JavaScript](https://dev.to/thedevricha/understanding-equality-in-javascript-4pco)
+- [5 Situations Where You Need useState in Your Projects](https://dev.to/golsaesk/5-situations-where-you-need-usestate-in-your-projects-1ooh)
+- [Forget ChatGPT &amp; Claude: Here Are 6 &lpar;New &amp; Free&rpar; AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-claude-here-are-6-new-free-ai-tools-that-will-blow-your-mind-4oel)
+- [AI Insights: Sree Krishna Seelam&#39;s 5 Habits](https://dev.to/shipra_shekhar_bdb4c03f80/ai-insights-sree-krishna-seelams-5-habits-1mj8)
 <!-- BLOG-POST-LIST:END -->
 
 
