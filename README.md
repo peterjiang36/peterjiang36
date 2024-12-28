@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [600+ Node.js Resources for Developers: Guides, Libraries, and Tools You Need](https://dev.to/abubakersiddique761/600-nodejs-resources-for-developers-guides-libraries-and-tools-you-need-2jb4)
-- [My Experience at AWS Cloud Day Malaysia 2024: A Speaker and Community Advocate’s Perspective](https://dev.to/sanketsaxena/my-experience-at-aws-cloud-day-malaysia-2024-a-speaker-and-community-advocates-perspective-1oj5)
-- [Front-end Challenge](https://dev.to/winslause/front-end-challenge-3kle)
-- [Ensure Idempotency in concurrent POST request with different request id&#39;s](https://dev.to/satyajitnayak/ensure-idempotency-in-concurrent-post-request-with-different-request-ids-5hff)
+- [Cut Your AWS Lambda Logging Costs: Filter Logs with AWS SAM](https://dev.to/faboulaye/cut-your-aws-lambda-logging-costs-filter-logs-with-aws-sam-1ap3)
+- [Free Full-Stack Web Service Development Guide From Scratch with Video Lessons, Source Code, and Support](https://dev.to/iserdmi/free-full-stack-web-service-development-guide-from-scratch-with-video-lessons-source-code-and-bm5)
+- [CSS CELEBRATION Art](https://dev.to/winslause/css-celebration-art-3p2p)
+- [Js in bits - 9.5&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-95comparisons-2eld)
 <!-- BLOG-POST-LIST:END -->
 
 
