@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Must-See: 25+ New Javascript Article You Can’t Miss! &lpar;Dec 28, 2024&rpar;](https://dev.to/dev-resources/must-see-25-new-javascript-article-you-cant-miss-dec-28-2024-4b3f)
-- [Handling Array Chunks In php](https://dev.to/ahmedraza_fyntune/handling-array-chunks-in-php-2e50)
-- [Yoda’s EU Grant Finder for Solopreneurs: Powered by Bright Data](https://dev.to/yodachallenge/yodas-eu-grant-finder-for-solopreneurs-powered-by-bright-data-398o)
-- [Architectuing Internationalization In React Apps: Comprehensive Guide to Scalable Localization](https://dev.to/araldhafeeri/architectuing-internationalization-in-react-apps-comprehensive-guide-to-scalable-localization-449m)
+- [Variables](https://dev.to/sathish_balaji_2003/variables-n38)
+- [SOLID Principle In .NET Core](https://dev.to/abhishek_adhav_22ab0c2463/solid-principle-in-net-core-1am0)
+- [Three Steps to Build a More Cost-Effective Solution on AWS](https://dev.to/matheusdasmerces/three-steps-to-build-a-more-cost-effective-solution-on-aws-mlj)
+- [Domain Driven Design: making a domain modeling](https://dev.to/eronalves1996/domain-driven-design-making-a-domain-model-181p)
 <!-- BLOG-POST-LIST:END -->
 
 
