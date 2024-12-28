@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading UTF-8 char by char in C](https://dev.to/tallesl/reading-utf-8-char-by-char-in-c-4nkg)
-- [Day 5: State Management in React - Mastering useState and Beyond! 🚀](https://dev.to/mayowakalejaiye/day-5-state-management-in-react-mastering-usestate-and-beyond-58o0)
-- [💡 15 Genius Open-Source Projects That Deserve More Love!](https://dev.to/awaisz99/top-15-open-source-hidden-gems-you-never-knew-existed-553d)
-- [Tech Trend Tracker: AI-Powered News Analysis for Technology Insights](https://dev.to/yukaty/tech-trend-tracker-ai-powered-news-analysis-for-technology-insights-260g)
+- [What is Mutex and How to Use it in Golang?](https://dev.to/lincemathew/what-is-mutex-and-how-to-use-it-in-golang-1m1i)
+- [Exploring OSM changesets via DuckDB](https://dev.to/gis_nuke/exploring-osm-changesets-via-duckdb-5bf1)
+- [MyGithub scrap datas from Your Github account with a new format](https://dev.to/sjxsubham/mygithub-scrap-datas-from-your-github-account-with-a-new-format-30d5)
+- [Frontend-Challenge-December-Edition by Solanki Sarkar](https://dev.to/solankisarkar505/frontend-challenge-december-edition-by-solanki-sarkar-11g4)
 <!-- BLOG-POST-LIST:END -->
 
 
