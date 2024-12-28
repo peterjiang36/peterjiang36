@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JUST MAKE THINGS](https://dev.to/abdibrokhim/just-make-things-3b0h)
-- [Rate Limiting for Beginners: What It Is and How to Build One in Go](https://dev.to/vivekalhat/rate-limiting-for-beginners-what-it-is-and-how-to-build-one-in-go-955)
-- [[React - Learn From Problem] Each child in a list should have a unique &#39;key&#39; prop](https://dev.to/tak089/each-child-in-a-list-should-have-a-unique-key-prop-3el2)
-- [[React - Learn From Problem]Common Errors Beginners Face When Practicing with Project](https://dev.to/tak089/react-clean-codecommon-errors-beginners-face-when-practicing-with-project-2gnf)
+- [Reading UTF-8 char by char in C](https://dev.to/tallesl/reading-utf-8-char-by-char-in-c-4nkg)
+- [Day 5: State Management in React - Mastering useState and Beyond! 🚀](https://dev.to/mayowakalejaiye/day-5-state-management-in-react-mastering-usestate-and-beyond-58o0)
+- [💡 15 Genius Open-Source Projects That Deserve More Love!](https://dev.to/awaisz99/top-15-open-source-hidden-gems-you-never-knew-existed-553d)
+- [Tech Trend Tracker: AI-Powered News Analysis for Technology Insights](https://dev.to/yukaty/tech-trend-tracker-ai-powered-news-analysis-for-technology-insights-260g)
 <!-- BLOG-POST-LIST:END -->
 
 
