@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Equality in JavaScript](https://dev.to/thedevricha/understanding-equality-in-javascript-4pco)
-- [5 Situations Where You Need useState in Your Projects](https://dev.to/golsaesk/5-situations-where-you-need-usestate-in-your-projects-1ooh)
-- [Forget ChatGPT &amp; Claude: Here Are 6 &lpar;New &amp; Free&rpar; AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-claude-here-are-6-new-free-ai-tools-that-will-blow-your-mind-4oel)
-- [AI Insights: Sree Krishna Seelam&#39;s 5 Habits](https://dev.to/shipra_shekhar_bdb4c03f80/ai-insights-sree-krishna-seelams-5-habits-1mj8)
+- [Customize iTerm](https://dev.to/saoud/customize-iterm-1a01)
+- [The Dawn of AI Workforce: A 2025 Perspective](https://dev.to/aws-builders/the-dawn-of-ai-workforce-a-2025-perspective-19jc)
+- [Court is in session: Top 10 most notorious C and C++ errors in 2024](https://dev.to/pvsdev/court-is-in-session-top-10-most-notorious-c-and-c-errors-in-2024-21kd)
+- [Building the Fun : A Number Guessing Game in 2025](https://dev.to/safdarali25/building-the-fun-a-number-guessing-game-in-2025-10k3)
 <!-- BLOG-POST-LIST:END -->
 
 
