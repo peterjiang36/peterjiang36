@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Optimization Techniques Using .htaccess](https://dev.to/web_dev-usman/wordpress-optimization-techniques-using-htaccess-3lan)
-- [Introduction au langage Kotlin : pourquoi et comment commencer ?](https://dev.to/taak61/introduction-au-langage-kotlin-pourquoi-et-comment-commencer--3jjc)
-- [Setting Up a Node.js Backend for Your React Application](https://dev.to/ayusharpcoder/setting-up-a-nodejs-backend-for-your-react-application-3ibj)
-- [State of AI at the End of 2024](https://dev.to/vipulkumarsviit/state-of-ai-at-the-end-of-2024-4gp)
+- [600+ Node.js Resources for Developers: Guides, Libraries, and Tools You Need](https://dev.to/abubakersiddique761/600-nodejs-resources-for-developers-guides-libraries-and-tools-you-need-2jb4)
+- [My Experience at AWS Cloud Day Malaysia 2024: A Speaker and Community Advocate’s Perspective](https://dev.to/sanketsaxena/my-experience-at-aws-cloud-day-malaysia-2024-a-speaker-and-community-advocates-perspective-1oj5)
+- [Front-end Challenge](https://dev.to/winslause/front-end-challenge-3kle)
+- [Ensure Idempotency in concurrent POST request with different request id&#39;s](https://dev.to/satyajitnayak/ensure-idempotency-in-concurrent-post-request-with-different-request-ids-5hff)
 <!-- BLOG-POST-LIST:END -->
 
 
