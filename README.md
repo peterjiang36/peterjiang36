@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried cline 3.0.0 and here is what happend](https://dev.to/dasheck0/i-tried-cline-300-and-here-is-what-happend-3dm5)
-- [Javascript Arrays: A Cheat Sheet for Developer](https://dev.to/voscanoa/javascript-arrays-a-cheat-sheet-for-developer-2d2k)
-- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
-- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
+- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
+- [Happy Birthday code.](https://dev.to/dinesh45/happy-birthday-code-2agc)
+- [The Legacy of Code: Famous Old Programming Languages](https://dev.to/davidcharles/the-legacy-of-code-famous-old-programming-languages-1pm6)
+- [TypeScript: Excessive Pedantry or Necessary Order?](https://dev.to/iri_denis/typescript-excessive-pedantry-or-necessary-order-3297)
 <!-- BLOG-POST-LIST:END -->
 
 
