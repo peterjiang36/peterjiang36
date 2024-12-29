@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language Processing &lpar;NLP&rpar;](https://dev.to/rashid_/natural-language-processing-nlp-10bl)
-- [⭐️🌐 🎀 JavaScript Visualized: Promises &amp; Async/Await](https://dev.to/hanzla-baig/javascript-visualized-promises-asyncawait-3plm)
-- [[Boost]](https://dev.to/vishesh-tiwari/-2410)
-- [Making reactive applications with a Kitten Care Example](https://dev.to/jofisaes/making-reactive-applications-with-a-kitten-care-example-3bof)
+- [LeetCode Challenge: 392. Is Subsequence - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-392-is-subsequence-javascript-solution-2fbi)
+- [Unlimited Color Changer: A Fun and Interactive Way to Add Vibrance to Your Screen](https://dev.to/safdarali25/unlimited-color-changer-a-fun-and-interactive-way-to-add-vibrance-to-your-screen-3km1)
+- [Mastering Async/Await and DOM Manipulation](https://dev.to/muslimekaya/mastering-asyncawait-and-dom-manipulation-1mj1)
+- [Improving Collaborative Coding Skills](https://dev.to/muslimekaya/improving-collaborative-coding-skills-2981)
 <!-- BLOG-POST-LIST:END -->
 
 
