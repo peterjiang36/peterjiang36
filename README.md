@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
-- [Happy Birthday code.](https://dev.to/dinesh45/happy-birthday-code-2agc)
-- [The Legacy of Code: Famous Old Programming Languages](https://dev.to/davidcharles/the-legacy-of-code-famous-old-programming-languages-1pm6)
-- [TypeScript: Excessive Pedantry or Necessary Order?](https://dev.to/iri_denis/typescript-excessive-pedantry-or-necessary-order-3297)
+- [How to share folder by network via Samba protocol in Linux machine](https://dev.to/xinitd/how-to-share-folder-by-network-via-samba-protocol-in-linux-machine-2e6l)
+- [#100DAYSOFCODE: Day 3](https://dev.to/isaiahhtml/100daysofcode-day-3-37lo)
+- [MySQL Database Administrator: Managing Open-Source Powerhouses](https://dev.to/wiseguide/mysql-database-administrator-managing-open-source-powerhouses-1lof)
+- [Azure SQL Database Administrator: Driving Modern Data Solutions](https://dev.to/wiseguide/azure-sql-database-administrator-driving-modern-data-solutions-35c9)
 <!-- BLOG-POST-LIST:END -->
 
 
