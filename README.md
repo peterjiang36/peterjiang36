@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting HTTP/3 QUIC Reverse Proxy for Chunked Uploads to S3 Pre-Signed URLs](https://dev.to/vikram_parihar/troubleshooting-http3-quic-reverse-proxy-for-chunked-uploads-to-s3-pre-signed-urls-10ge)
-- [Resonant Collinearity](https://dev.to/rmion/resonant-collinearity-3m5m)
-- [Parsing command-line arguments in C](https://dev.to/tallesl/parsing-command-line-arguments-in-c-41ac)
-- [Choosing the Right Database: A Simplified Guide](https://dev.to/mohammad-reza-mahdiani/choosing-the-right-database-a-simplified-guide-30o0)
+- [A Comprehensive Guide to Web Vitals: Metrics That Matter for Performance](https://dev.to/debajit13/a-comprehensive-guide-to-web-vitals-metrics-that-matter-for-performance-2ff7)
+- [Js in bits - 11.2&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-112logical-operators-3apb)
+- [Creating Dynamic Charts in Canvas with HTML, CSS, and JavaScript - No External Libraries Needed](https://dev.to/sharathchandark/creating-dynamic-charts-in-canvas-with-html-css-and-javascript-no-external-libraries-needed-3amc)
+- [Day 4: Configuring Laravel: Environment Setup](https://dev.to/ehtesham_ali_abc367f36a5b/day-4-configuring-laravel-environment-setup-2p20)
 <!-- BLOG-POST-LIST:END -->
 
 
