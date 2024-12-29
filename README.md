@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/tennie/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-39i9)
-- [Building OpenCV 4.10.0 with GUI Support in WSL](https://dev.to/eddiegulay/building-opencv-4100-with-gui-support-in-wsl-5do0)
-- [How to start with test driven development &lpar;TDD&rpar;](https://dev.to/exanfabry/how-to-start-with-test-driven-development-tdd-41ma)
-- [👾 UX : From API to IoT LED Matrix show](https://dev.to/adriens/ux-from-api-to-iot-led-matrix-show-239g)
+- [Understanding Web Rendering: Performance Implications and Use Cases](https://dev.to/jajibhee/understanding-web-rendering-performance-implications-and-use-cases-45bi)
+- [40 CSS Tricks That Will Save You Time and Improve Your Workflow](https://dev.to/code_2/40-css-tricks-that-will-save-you-time-and-improve-your-workflow-2d84)
+- [⛏️🌐 Mining Pools in the Web3 Ecosystem: The Backbone of Decentralization and Financial Innovation 🚀](https://dev.to/joshthebtc/mining-pools-in-the-web3-ecosystem-the-backbone-of-decentralization-and-financial-innovation-39cl)
+- [Day 39: Deploying Stateful Applications with StatefulSets &lpar;MongoDB&rpar;](https://dev.to/arbythecoder/day-39-deploying-stateful-applications-with-statefulsets-mongodb-3mk8)
 <!-- BLOG-POST-LIST:END -->
 
 
