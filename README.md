@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Etcd Backup and Restore &lpar;4&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-4-ffn)
-- [A Quick Review of SQL Window Functions with Examples](https://dev.to/luca1iu/a-quick-review-of-sql-window-functions-with-examples-4cjp)
-- [Como contribuir com o Projeto Frontend Fusion para continuar impulsionando a presença digital em ONGs???](https://dev.to/alvesmariadefatima/como-contribuir-com-o-projeto-frontend-fusion-para-continuar-impulsionando-a-presenca-digital-em-4lj1)
-- [Idempotência, Potência e Métodos HTTP em REST](https://dev.to/klleriston/idempotencia-potencia-e-metodos-http-em-rest-khn)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and VS Code](https://dev.to/tennie/step-by-step-guide-to-setting-up-terraform-aws-cli-and-vs-code-39i9)
+- [Building OpenCV 4.10.0 with GUI Support in WSL](https://dev.to/eddiegulay/building-opencv-4100-with-gui-support-in-wsl-5do0)
+- [How to start with test driven development &lpar;TDD&rpar;](https://dev.to/exanfabry/how-to-start-with-test-driven-development-tdd-41ma)
+- [👾 UX : From API to IoT LED Matrix show](https://dev.to/adriens/ux-from-api-to-iot-led-matrix-show-239g)
 <!-- BLOG-POST-LIST:END -->
 
 
