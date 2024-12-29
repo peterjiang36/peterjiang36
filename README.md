@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Progressive Web Apps &lpar;PWAs&rpar; Are the Future of Web Development.](https://dev.to/awaisz99/why-progressive-web-apps-pwas-are-the-future-of-web-development-4m1g)
-- [How to retrieve values from all types of HTML Inputs in JavaScript](https://dev.to/milliemolotov/how-to-retrieve-values-from-all-types-of-html-inputs-in-javascript-3143)
-- [Embracing the Solstice: A Winter Wonderland of Science, Traditions, and Celebrations](https://dev.to/himanshu_joshi_d1e6144a7b/embracing-the-solstice-a-winter-wonderland-of-science-traditions-and-celebrations-2fbd)
-- [Complete React Setup with SSR, CSR, TailwindCSS, and Jest Using esbuild](https://dev.to/willyelm/a-complete-react-setup-ssr-csr-tailwindcss-jest-with-esbuild-fpp)
+- [Automating DNS in Azure Private DNS with External-DNS ☁️🔐](https://dev.to/hkhelil/automating-dns-in-azure-private-dns-with-external-dns-3knk)
+- [Implementing a Geo Location module using the Haversine formula](https://dev.to/jofisaes/implementing-a-geo-location-module-using-the-haversine-formula-4dd0)
+- [What is Temporal dead zone in javascript?](https://dev.to/saqibjamil7866/what-is-temporal-dead-zone-in-javascript-1pn9)
+- [Frontend-Challenge-December- by Jyothi M](https://dev.to/7892536388/frontend-challenge-december-by-jyothi-m-2kgd)
 <!-- BLOG-POST-LIST:END -->
 
 
