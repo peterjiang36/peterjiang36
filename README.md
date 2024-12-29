@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Symptoms of Bad Software?](https://dev.to/elliot_brenya/what-are-the-symptoms-of-bad-software-1oe6)
-- [The Importance of AI-Based Software Tools in Modern Development](https://dev.to/vaibhavkuls/the-importance-of-ai-based-software-tools-in-modern-development-1c9a)
-- [Named va Typed HttpClient haqida](https://dev.to/ben_randall_743e73c50d4b6/named-va-typed-httpclient-haqida-55b8)
-- [Unlocking the Power of Education Tools: Revolutionizing the Learning Experience](https://dev.to/rimaakter1/unlocking-the-power-of-education-tools-revolutionizing-the-learning-experience-16c2)
+- [How to optimize your website loading speed](https://dev.to/minh_huynguyenpham_7111/how-to-optimize-your-website-loading-speed-10p7)
+- [Exploring the Power of Full-Stack Development with Next.js and Prisma](https://dev.to/helwyzaf/exploring-the-power-of-full-stack-development-with-nextjs-and-prisma-4khh)
+- [Enhance Website Security: Prevent Session Fixation in Laravel](https://dev.to/pentest_testing_corp/enhance-website-security-prevent-session-fixation-in-laravel-fke)
+- [The Ultimate Guide to iOS Development: Enum &lpar;Part 8&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-enum-part-8-3k2b)
 <!-- BLOG-POST-LIST:END -->
 
 
