@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Web Vitals: Metrics That Matter for Performance](https://dev.to/debajit13/a-comprehensive-guide-to-web-vitals-metrics-that-matter-for-performance-2ff7)
-- [Js in bits - 11.2&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-112logical-operators-3apb)
-- [Creating Dynamic Charts in Canvas with HTML, CSS, and JavaScript - No External Libraries Needed](https://dev.to/sharathchandark/creating-dynamic-charts-in-canvas-with-html-css-and-javascript-no-external-libraries-needed-3amc)
-- [Day 4: Configuring Laravel: Environment Setup](https://dev.to/ehtesham_ali_abc367f36a5b/day-4-configuring-laravel-environment-setup-2p20)
+- [Build Your Developer Portfolio: Exciting Web Development Projects You Can Start Today](https://dev.to/codeparrot/build-your-developer-portfolio-exciting-web-development-projects-you-can-start-today-1mm)
+- [Cross-Browser Testing Made Easy with Playwright](https://dev.to/aswani25/cross-browser-testing-made-easy-with-playwright-l80)
+- [Day 03: Learning JavaScript APIs: Page Visibility API](https://dev.to/spruceemma/day-03-learning-javascript-apis-page-visibility-api-58m4)
+- [Js in bits - 11.5&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-115logical-operators-489m)
 <!-- BLOG-POST-LIST:END -->
 
 
