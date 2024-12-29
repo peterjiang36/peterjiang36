@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JobScout.ai: Smarter Job Search with AI and Bright Data](https://dev.to/abhinav_m22/jobscoutai-smarter-job-search-with-ai-and-bright-data-2j6p)
-- [The Fall of a Community](https://dev.to/mileswk/the-fall-of-a-community-4he3)
-- [Start Simple: A Beginner&#39;s Guide to Using Notion Templates](https://dev.to/resource_bunk_1077cab07da/start-simple-a-beginners-guide-to-using-notion-templates-118c)
-- [Keyword Arguments in C++/C](https://dev.to/prabhu-yu/keyword-arguments-in-cc-14f1)
+- [Top 4 NPM Libraries I used to Elevate My Project 🚀](https://dev.to/rijultp/top-4-npm-libraries-i-used-to-elevate-my-project-4g9k)
+- [Web4: A New Generation of Social Networks Transforming the Internet](https://dev.to/web4/web4-a-new-generation-of-social-networks-transforming-the-internet-7md)
+- [Setting Up Expo with Styled Components and TypeScript](https://dev.to/serifcolakel/setting-up-expo-with-styled-components-and-typescript-2h82)
+- [How to Start Solving Problems, Build Solutions, and Validate Your Idea Without Spending a Dollar](https://dev.to/rogueloop/how-to-start-solving-problems-build-solutions-and-validate-your-idea-without-spending-a-dollar-37hm)
 <!-- BLOG-POST-LIST:END -->
 
 
