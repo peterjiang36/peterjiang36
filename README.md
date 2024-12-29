@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 NPM Libraries I used to Elevate My Project 🚀](https://dev.to/rijultp/top-4-npm-libraries-i-used-to-elevate-my-project-4g9k)
-- [Web4: A New Generation of Social Networks Transforming the Internet](https://dev.to/web4/web4-a-new-generation-of-social-networks-transforming-the-internet-7md)
-- [Setting Up Expo with Styled Components and TypeScript](https://dev.to/serifcolakel/setting-up-expo-with-styled-components-and-typescript-2h82)
-- [How to Start Solving Problems, Build Solutions, and Validate Your Idea Without Spending a Dollar](https://dev.to/rogueloop/how-to-start-solving-problems-build-solutions-and-validate-your-idea-without-spending-a-dollar-37hm)
+- [Etcd Backup and Restore &lpar;4&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-4-ffn)
+- [A Quick Review of SQL Window Functions with Examples](https://dev.to/luca1iu/a-quick-review-of-sql-window-functions-with-examples-4cjp)
+- [Como contribuir com o Projeto Frontend Fusion para continuar impulsionando a presença digital em ONGs???](https://dev.to/alvesmariadefatima/como-contribuir-com-o-projeto-frontend-fusion-para-continuar-impulsionando-a-presenca-digital-em-4lj1)
+- [Idempotência, Potência e Métodos HTTP em REST](https://dev.to/klleriston/idempotencia-potencia-e-metodos-http-em-rest-khn)
 <!-- BLOG-POST-LIST:END -->
 
 
