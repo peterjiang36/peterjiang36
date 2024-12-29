@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Final Project Golang - Backend Development Sanbercode](https://dev.to/danawar/final-project-golang-backend-development-sanbercode-4891)
-- [Smart Home Security: Advanced Motion Detection with CCTV](https://dev.to/heavenaulianisa/smart-home-security-advanced-motion-detection-with-cctv-30bk)
-- [How to Protect Your FiveM Server from DDoS Attacks](https://dev.to/davidjonson/how-to-protect-your-fivem-server-from-ddos-attacks-33id)
-- [Trading Signal from Sentiment Analysis using Bright Data API](https://dev.to/fahminlb33/trading-signal-from-sentiment-analysis-using-bright-data-api-4nci)
+- [Natural Language Processing &lpar;NLP&rpar;](https://dev.to/rashid_/natural-language-processing-nlp-10bl)
+- [⭐️🌐 🎀 JavaScript Visualized: Promises &amp; Async/Await](https://dev.to/hanzla-baig/javascript-visualized-promises-asyncawait-3plm)
+- [[Boost]](https://dev.to/vishesh-tiwari/-2410)
+- [Making reactive applications with a Kitten Care Example](https://dev.to/jofisaes/making-reactive-applications-with-a-kitten-care-example-3bof)
 <!-- BLOG-POST-LIST:END -->
 
 
