@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Rendering: Performance Implications and Use Cases](https://dev.to/jajibhee/understanding-web-rendering-performance-implications-and-use-cases-45bi)
-- [40 CSS Tricks That Will Save You Time and Improve Your Workflow](https://dev.to/code_2/40-css-tricks-that-will-save-you-time-and-improve-your-workflow-2d84)
-- [⛏️🌐 Mining Pools in the Web3 Ecosystem: The Backbone of Decentralization and Financial Innovation 🚀](https://dev.to/joshthebtc/mining-pools-in-the-web3-ecosystem-the-backbone-of-decentralization-and-financial-innovation-39cl)
-- [Day 39: Deploying Stateful Applications with StatefulSets &lpar;MongoDB&rpar;](https://dev.to/arbythecoder/day-39-deploying-stateful-applications-with-statefulsets-mongodb-3mk8)
+- [Pytest Fish shell autocompletion](https://dev.to/pomidoroshev/pytest-fish-shell-autocompletion-58o6)
+- [AI in Remote Hiring: The Future of Global Talent Acquisition](https://dev.to/baraq/ai-in-remote-hiring-the-future-of-global-talent-acquisition-5aei)
+- [What is this “ARC Zonal shift” in EKS? Here’s what I found about it…](https://dev.to/vijaykodam/what-is-this-arc-zonal-shift-in-eks-heres-what-i-found-about-it-51hp)
+- [Closing Note: The End of a Transformative Journey](https://dev.to/arbythecoder/closing-note-the-end-of-a-transformative-journey-3abh)
 <!-- BLOG-POST-LIST:END -->
 
 
