@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-player Mode is Everywhere, Even in Dev Tools](https://dev.to/tomjohnson3/multi-player-mode-is-everywhere-even-in-dev-tools-2f56)
-- [🚀 Your Daily Crypto Job Digest For 30 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-30-december-4k8c)
-- [How I added support for nested functions in Python bytecode](https://dev.to/jonesbeach/how-i-added-support-for-nested-functions-in-python-bytecode-j1f)
-- [SQL Server: Get database port](https://dev.to/sertxudev/sql-server-get-database-port-271f)
+- [Azure Certification Path in 2025: A Complete Microsoft Azure Certification Guide](https://dev.to/skillboosttrainer/azure-certification-path-in-2025-a-complete-microsoft-azure-certification-guide-451k)
+- [Day 15 Task 2](https://dev.to/reegan/day-15-task-2-bm4)
+- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
+- [Day 15 Task 1](https://dev.to/reegan/day-15-task-1-5797)
 <!-- BLOG-POST-LIST:END -->
 
 
