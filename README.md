@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Certification Path in 2025: A Complete Microsoft Azure Certification Guide](https://dev.to/skillboosttrainer/azure-certification-path-in-2025-a-complete-microsoft-azure-certification-guide-451k)
-- [Day 15 Task 2](https://dev.to/reegan/day-15-task-2-bm4)
-- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
-- [Day 15 Task 1](https://dev.to/reegan/day-15-task-1-5797)
+- [You&#39;ve Got an App. Fargate or Kubernetes? 🙋‍♂️](https://dev.to/mike-vincent/youve-got-an-app-fargate-or-kubernetes-160o)
+- [Những Tip đơn giản giúp đoạn code trở nên CLEAR và MAIN dễ hơn](https://dev.to/b20dccn511_nguyn_on/nhung-tip-don-gian-giup-doan-code-tro-nen-clear-va-main-de-hon-1p6p)
+- [🌟 Automating Backups with Bash Scripting - Day 2! 🌟](https://dev.to/jamiu_cloud/automating-backups-with-bash-scripting-day-2-3ahm)
+- [Available Short Domains Finder: 2-4 letter](https://dev.to/falselight/available-short-domains-finder-2-4-letter-3pjd)
 <!-- BLOG-POST-LIST:END -->
 
 
