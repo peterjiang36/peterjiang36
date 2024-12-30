@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch Case](https://dev.to/coder_d295cd12743e7d146c7/switch-case-4l0i)
-- [What is Amazon Rekognition?](https://dev.to/sajjadrahman56/what-is-amazon-rekognition-144b)
-- [iOS implements basic operations for slow playback of videos](https://dev.to/tonyxiong/ios-implements-basic-operations-for-slow-playback-of-videos-194)
-- [The Remaining Issues With Path Of Exile 2’s Early Access Endgame - Forbes](https://dev.to/hk9099/the-remaining-issues-with-path-of-exile-2s-early-access-endgame-forbes-1876)
+- [AWS Tutorial for Beginners: Mastering AWS CloudFront and CDN with a Hands-On Lab](https://dev.to/s3cloudhub/aws-tutorial-for-beginners-mastering-aws-cloudfront-and-cdn-with-a-hands-on-lab-1c1l)
+- [Your Go-To Guide for Chatbot Development Success](https://dev.to/hitesh_umaletiya/your-go-to-guide-for-chatbot-development-success-2hc7)
+- [If You&#39;re Looking for Red Flags Once You&#39;re in a Job, It&#39;s Too Late](https://dev.to/canro91/if-youre-looking-for-red-flags-once-youre-in-a-job-its-too-late-5cbm)
+- [Unlocking the Power of GraphQL: The Future of API Development](https://dev.to/austinwdigital/unlocking-the-power-of-graphql-the-future-of-api-development-3p0f)
 <!-- BLOG-POST-LIST:END -->
 
 
