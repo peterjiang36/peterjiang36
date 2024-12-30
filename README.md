@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline Analytics: Unlocking the Power of Data to Enhance Software Development](https://dev.to/bcherlapally/pipeline-analytics-unlocking-the-power-of-data-to-enhance-software-development-5g8e)
-- [Join Virtual Coffee in New Year, New Goal: Setting One Big Goal and Achieving It!](https://dev.to/virtualcoffee/join-virtual-coffee-in-new-year-new-goal-setting-one-big-goal-and-achieving-it-30c5)
-- [What are the benefits of using EHR software for healthcare providers](https://dev.to/thealgorithm/what-are-the-benefits-of-using-ehr-software-for-healthcare-providers-4ki6)
-- [How to Create a React Blog: A Step-by-Step Guide](https://dev.to/oleksandra_dzyhal_6b91c82/how-to-create-a-react-blog-a-step-by-step-guide-1g8i)
+- [Getting Started With wasmCloud](https://dev.to/thenjdevopsguy/getting-started-with-wasmcloud-3kpe)
+- [How to view API request examples in a ReadMe documentation.](https://dev.to/emiloju/how-to-view-api-request-examples-in-a-readme-documentation-1p4l)
+- [10 Books That Changed My Career as a Software Engineer](https://dev.to/juniourrau/10-books-that-changed-my-career-as-a-software-engineer-3fcp)
+- [IAM - What’s the Big Deal?](https://dev.to/sharon_enam/iam-whats-the-big-deal-3jf0)
 <!-- BLOG-POST-LIST:END -->
 
 
