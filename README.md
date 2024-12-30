@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JeKa: The Simplest Way to Publish on Maven Central](https://dev.to/djeang/jeka-the-simplest-way-to-publish-on-maven-central-f14)
-- [Using Grammarly in Dev.to](https://dev.to/mjoycemilburn/using-grammarly-in-devto-4cd5)
-- [How to Remove the Noindex Tag in WordPress](https://dev.to/zyodigitals/how-to-remove-the-noindex-tag-in-wordpress-pc6)
-- [How to Fix a Hacked WordPress Site: A Beginner&#39;s Guide](https://dev.to/vega12/how-to-fix-a-hacked-wordpress-site-a-beginners-guide-484g)
+- [Multi-player Mode is Everywhere, Even in Dev Tools](https://dev.to/tomjohnson3/multi-player-mode-is-everywhere-even-in-dev-tools-2f56)
+- [🚀 Your Daily Crypto Job Digest For 30 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-30-december-4k8c)
+- [How I added support for nested functions in Python bytecode](https://dev.to/jonesbeach/how-i-added-support-for-nested-functions-in-python-bytecode-j1f)
+- [SQL Server: Get database port](https://dev.to/sertxudev/sql-server-get-database-port-271f)
 <!-- BLOG-POST-LIST:END -->
 
 
