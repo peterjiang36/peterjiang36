@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking back to move forward: lessons from life and code](https://dev.to/creowistech/looking-back-to-move-forward-lessons-from-life-and-code-2n4p)
-- [Compare prices across AliExpress, eBay, &amp; Amazon.](https://dev.to/sarahokolo/compare-prices-across-aliexpress-ebay-amazon-1alj)
-- [Introducing the Zod Schema Designer: A Visual Tool for Creating and Editing Zod Schemas](https://dev.to/bishoy_labib_31cd8d43e154/introducing-the-zod-schema-designer-a-visual-tool-for-creating-and-editing-zod-schemas-3fbe)
-- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
+- [Switch Case](https://dev.to/coder_d295cd12743e7d146c7/switch-case-4l0i)
+- [What is Amazon Rekognition?](https://dev.to/sajjadrahman56/what-is-amazon-rekognition-144b)
+- [iOS implements basic operations for slow playback of videos](https://dev.to/tonyxiong/ios-implements-basic-operations-for-slow-playback-of-videos-194)
+- [The Remaining Issues With Path Of Exile 2’s Early Access Endgame - Forbes](https://dev.to/hk9099/the-remaining-issues-with-path-of-exile-2s-early-access-endgame-forbes-1876)
 <!-- BLOG-POST-LIST:END -->
 
 
