@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;ve Got an App. Fargate or Kubernetes? 🙋‍♂️](https://dev.to/mike-vincent/youve-got-an-app-fargate-or-kubernetes-160o)
-- [Những Tip đơn giản giúp đoạn code trở nên CLEAR và MAIN dễ hơn](https://dev.to/b20dccn511_nguyn_on/nhung-tip-don-gian-giup-doan-code-tro-nen-clear-va-main-de-hon-1p6p)
-- [🌟 Automating Backups with Bash Scripting - Day 2! 🌟](https://dev.to/jamiu_cloud/automating-backups-with-bash-scripting-day-2-3ahm)
-- [Available Short Domains Finder: 2-4 letter](https://dev.to/falselight/available-short-domains-finder-2-4-letter-3pjd)
+- [Minimal portfolio built with Next.js and TailwindCSS](https://dev.to/saidmounaim/minimal-portfolio-built-with-nextjs-and-tailwindcss-ka8)
+- [Exploring Mina Foundation Grant Program and Current Projects](https://dev.to/hrmkingnuel/exploring-mina-foundation-grant-program-and-current-projects-562n)
+- [Simplify Email Testing with a Local Papercut SMTP Server Using Docker](https://dev.to/imzihad21/simplify-email-testing-with-a-local-papercut-smtp-server-using-docker-1o6b)
+- [Jason Meller Welcomes 1Password to the Rails Foundation](https://dev.to/jetthoughts/jason-meller-welcomes-1password-to-the-rails-foundation-29p8)
 <!-- BLOG-POST-LIST:END -->
 
 
