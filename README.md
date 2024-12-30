@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Application Hosting in AWS](https://dev.to/randiakm/full-stack-application-hosting-in-aws-2kc3)
-- [The Art of Prefetching and Preloading: Enhancing Web Performance](https://dev.to/bhargab/the-art-of-prefetching-and-preloading-enhancing-web-performance-2ef8)
-- [Taming the Beast: Harnessing `go.uber.org/ratelimit` in Go Applications](https://dev.to/rapidcodelab/taming-the-beast-harnessing-gouberorgratelimit-in-go-applications-2c05)
-- [🚀 Top Web3 news you could have missed](https://dev.to/endeo/top-web3-news-you-could-have-missed-2fo0)
+- [Securing Data Lakes and Analytics on AWS](https://dev.to/ikoh_sylva/securing-data-lakes-and-analytics-on-aws-4a54)
+- [Hey hey](https://dev.to/ben/hey-hey-3p82)
+- [🌱 Responsive Planto Ecommerce Website with React, Vite, TypeScript &amp; Tailwind CSS 🌱](https://dev.to/seyma/responsive-planto-ecommerce-website-with-react-vite-typescript-tailwind-css-3kld)
+- [kkTerminal —— A terminal for Web SSH connection](https://dev.to/zyyzyykk/kkterminal-a-terminal-for-web-ssh-connection-3c65)
 <!-- BLOG-POST-LIST:END -->
 
 
