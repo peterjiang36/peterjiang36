@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 How Intent-Driven Interfaces Will Transform the Way Users Interact with Software](https://dev.to/louis-dupont/how-intent-driven-interfaces-will-transform-the-way-users-interact-with-software-3fdo)
-- [Enhancing Side Effects in Angular with NgRx&#39;s signalMethod](https://dev.to/danielsogl/enhancing-side-effects-in-angular-with-ngrxs-signalmethod-ho9)
-- [linspace in PyTorch](https://dev.to/hyperkai/linspace-in-pytorch-bfo)
-- [arange in PyTorch](https://dev.to/hyperkai/arange-in-pytorch-20gj)
+- [Unit Test F.I.R.S.T Principle is ALL you NEED](https://dev.to/codewithshahan/unit-test-first-principle-is-all-you-need-4665)
+- [My React Journey: Day 27](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-27-49b8)
+- [fmod in PyTorch](https://dev.to/hyperkai/fmod-in-pytorch-5bcp)
+- [remainder in PyTorch](https://dev.to/hyperkai/remainder-in-pytorch-418l)
 <!-- BLOG-POST-LIST:END -->
 
 
