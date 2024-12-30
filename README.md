@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With wasmCloud](https://dev.to/thenjdevopsguy/getting-started-with-wasmcloud-3kpe)
-- [How to view API request examples in a ReadMe documentation.](https://dev.to/emiloju/how-to-view-api-request-examples-in-a-readme-documentation-1p4l)
-- [10 Books That Changed My Career as a Software Engineer](https://dev.to/juniourrau/10-books-that-changed-my-career-as-a-software-engineer-3fcp)
-- [IAM - What’s the Big Deal?](https://dev.to/sharon_enam/iam-whats-the-big-deal-3jf0)
+- [Let&#39;s talk metaframeworks](https://dev.to/fyodorio/lets-talk-metaframeworks-2mkb)
+- [Continuous Feedback? That’s right! And we’re not talking about people management!](https://dev.to/hugodeaguiar/continuous-feedback-thats-right-and-were-not-talking-about-people-management-28m0)
+- [How to run Python script or other job in Docker container with CRON](https://dev.to/xinitd/how-to-run-python-script-or-other-job-in-docker-container-with-cron-2fb2)
+- [Hal9: Create and Share Generative Apps](https://dev.to/javier_luraschi_7c6f7512b/hal9-create-and-share-generative-apps-81h)
 <!-- BLOG-POST-LIST:END -->
 
 
