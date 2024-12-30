@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Still Using MAMP in 2025?](https://dev.to/angelaswift/are-you-still-using-mamp-in-2025-1ddj)
-- [The Power of Real-Time Analytics: Transforming Modern Apps](https://dev.to/mukhilpadmanabhan/the-power-of-real-time-analytics-transforming-modern-apps-2gkp)
-- [When two videos are displayed on the phone screen their zoom and drag, they cannot exceed their respective size limits](https://dev.to/tonyxiong/when-two-videos-are-displayed-on-the-phone-screen-their-zoom-and-drag-they-cannot-exceed-their-1pk3)
-- [Gigs AI: A Conversational Chatbot Powered by Aggregated Data from Freelancer and Upwork](https://dev.to/cijesanchez/gigs-ai-a-conversational-chatbot-powered-by-aggregated-data-from-freelancer-and-upwork-1ilg)
+- [Stop Running to Next.js — Remix is the Future of React, and Here’s Why You’re Missing Out](https://dev.to/elvissautet/stop-running-to-nextjs-remix-is-the-future-of-react-and-heres-why-youre-missing-out-4ep2)
+- [Mastering CSS in 2025: The Definitive CSS Guide for Everyone | Part-1](https://dev.to/govindvyas/mastering-css-in-2025-the-definitive-css-guide-for-everyone-part-1-2jb7)
+- [Estile: AI-Driven Clothing Recommendations Enhanced by Bright Data Scraping](https://dev.to/ericc/estile-ai-driven-clothing-recommendations-enhanced-by-bright-data-scraping-43fc)
+- [Part 17: Building Your Own AI - AI for Edge Devices and IoT](https://dev.to/trixsec/part-17-building-your-own-ai-ai-for-edge-devices-and-iot-58fj)
 <!-- BLOG-POST-LIST:END -->
 
 
