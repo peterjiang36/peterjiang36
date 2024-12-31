@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Rasa? A Beginner’s Guide to Conversational AI](https://dev.to/bharath_madhu/what-is-rasa-a-beginners-guide-to-conversational-ai-15nm)
-- [Best programming Language this year](https://dev.to/rdx011o/best-programming-language-this-year-4dhe)
-- [Automating GCP Instance Updates with GitHub Actions](https://dev.to/vaibhav_pawar_3a8be338ee8/automating-gcp-instance-updates-with-github-actions-bll)
-- [Happy new year! To more coding, playing the guitar, biking and motorcycle rides next year!](https://dev.to/highcenburg/happy-new-year-to-more-coding-playing-the-guitar-biking-and-motorcycle-rides-next-year-497m)
+- [The future of frontend developer &lpar;2025&rpar;](https://dev.to/codewithshahan/the-future-of-frontend-developer-2025-54me)
+- [Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/mofshamim/interface-segregation-principle-isp-1c9p)
+- [Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/mofshamim/liskov-substitution-principle-lsp-4ejo)
+- [Understanding the Differences Between OAuth2 and OpenID Connect &lpar;OIDC&rpar;](https://dev.to/igventurelli/understanding-the-differences-between-oauth2-and-openid-connect-oidc-5bn2)
 <!-- BLOG-POST-LIST:END -->
 
 
