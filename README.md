@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production Stack: Docker, Meilisearch, NGINX &amp; NestJS](https://dev.to/biomousavi/building-a-production-stack-docker-meilisearch-nginx-nestjs-nli)
-- [How to use iPython in VS Code](https://dev.to/pkutaj/how-to-use-ipython-in-vs-code-2p5n)
-- [Why you should use both v-if and v-show to toggle heavy components in Vue ?](https://dev.to/biomousavi/why-you-should-use-both-v-if-and-v-show-to-toggle-heavy-components-in-vue--3383)
-- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
+- [OSI Model Layers and Protocols: Computer Networks](https://dev.to/harshm03/osi-model-layers-and-protocols-computer-networks-1i0e)
+- [Running Kibana, Elastic, and APM with Docker Compose](https://dev.to/sohail0992/running-kibana-elastic-and-apm-with-docker-compose-37ej)
+- [What is a Web Designer and what does he do](https://dev.to/sysmaya/what-is-a-web-designer-and-what-does-he-do-395g)
+- [Explaining Iterable vs Iterator in Python](https://dev.to/pkutaj/explaining-iterable-vs-iterator-in-python-4c3a)
 <!-- BLOG-POST-LIST:END -->
 
 
