@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deal with problems caused by frequent IP access when crawling?](https://dev.to/98ip/how-to-deal-with-problems-caused-by-frequent-ip-access-when-crawling-533n)
-- [I need help choosing a framework.](https://dev.to/koen_stewart_f2b51f676687/i-need-help-choosing-a-framework-1c0d)
-- [Tutorial para criação de projetos com Ruby on Rails &lpar;sem Ruby localmente&rpar;](https://dev.to/svitorz/tutorial-para-criacao-de-projetos-com-ruby-on-rails-sem-ruby-localmente-459o)
-- [Library Task](https://dev.to/hema_latha/library-task-l0l)
+- [CSS is Emotional: The Psychology of Specificity](https://dev.to/eioluseyi/css-is-emotional-the-psychology-of-specificity-3447)
+- [2 class link method](https://dev.to/hema_latha/2-class-link-method-35cl)
+- [Testcontainers for kafka](https://dev.to/said_olano/testcontainers-for-kafka-4c2o)
+- [Traefik using owned SSL certificate](https://dev.to/jhonoryza/traefik-using-owned-ssl-certificate-2b4n)
 <!-- BLOG-POST-LIST:END -->
 
 
