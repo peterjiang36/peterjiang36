@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Currency is What &lpar;Almost&rpar; Everyone Wants](https://dev.to/shrsv/currency-is-what-almost-everyone-wants-1o4a)
-- [Codewars - Descending Order](https://dev.to/dantedinopegassi/codewars-descending-order-53he)
-- [Stop Tool-Hopping](https://dev.to/hotfixhero/stop-tool-hopping-4n1l)
-- [Deno docker](https://dev.to/pdotdotdot/deno-docker-4p1p)
+- [Building a Production Stack: Docker, Meilisearch, NGINX &amp; NestJS](https://dev.to/biomousavi/building-a-production-stack-docker-meilisearch-nginx-nestjs-nli)
+- [How to use iPython in VS Code](https://dev.to/pkutaj/how-to-use-ipython-in-vs-code-2p5n)
+- [Why you should use both v-if and v-show to toggle heavy components in Vue ?](https://dev.to/biomousavi/why-you-should-use-both-v-if-and-v-show-to-toggle-heavy-components-in-vue--3383)
+- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
 <!-- BLOG-POST-LIST:END -->
 
 
