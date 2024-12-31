@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Video Review: Firestore Data Structure, Limitations, and IMHO](https://dev.to/imkven/dev-video-review-firestore-data-structure-limitations-and-imho-302c)
-- [How to read ip addr output on Linux](https://dev.to/pikotutorial/how-to-read-ip-addr-output-on-linux-fnj)
-- [Show or Hide a Div Based on Select Option in JavaScript](https://dev.to/askyt/show-or-hide-a-div-based-on-select-option-in-javascript-57el)
-- [Show an Element if a Checkbox is checked using JavaScript](https://dev.to/askyt/show-an-element-if-a-checkbox-is-checked-using-javascript-35pe)
+- [#124 — Take Adjacent Data as Grouping Criteria](https://dev.to/judith677/124-take-adjacent-data-as-grouping-criteria-4dnk)
+- [2024 Recap...](https://dev.to/ofonime1/2024-recap-4odi)
+- [A better way to listen to multiple change notifiers in Flutter](https://dev.to/harsh-joshi/a-better-way-to-listen-to-multiple-change-notifiers-in-flutter-3na0)
+- [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/le_hongphuc_eecc926242df/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-4e15)
 <!-- BLOG-POST-LIST:END -->
 
 
