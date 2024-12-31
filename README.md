@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS in 2025: The Definitive CSS Guide for Everyone | Part-2](https://dev.to/govindvyas/mastering-css-in-2025-the-definitive-css-guide-for-everyone-part-2-2aoo)
-- [How to Build a File Server Using ZimaBoard or Raspberry Pi](https://dev.to/jewelmahmud/how-to-build-a-file-server-using-zimaboard-or-raspberry-pi-fab)
-- [Observability in 2025: OpenTelemetry and AI to Fill In Gaps](https://dev.to/kubefeeds/observability-in-2025-opentelemetry-and-ai-to-fill-in-gaps-4bpm)
-- [Best Happy New Year animation using HTML and CSS](https://dev.to/jon_snow789/best-happy-new-year-animation-using-html-and-css-3aeh)
+- [Dev Video Review: Firestore Data Structure, Limitations, and IMHO](https://dev.to/imkven/dev-video-review-firestore-data-structure-limitations-and-imho-302c)
+- [How to read ip addr output on Linux](https://dev.to/pikotutorial/how-to-read-ip-addr-output-on-linux-fnj)
+- [Show or Hide a Div Based on Select Option in JavaScript](https://dev.to/askyt/show-or-hide-a-div-based-on-select-option-in-javascript-57el)
+- [Show an Element if a Checkbox is checked using JavaScript](https://dev.to/askyt/show-an-element-if-a-checkbox-is-checked-using-javascript-35pe)
 <!-- BLOG-POST-LIST:END -->
 
 
