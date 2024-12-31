@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🍃 30 Elm Picks to Fuel Your Functional Code](https://dev.to/0x3d_site/30-elm-picks-to-fuel-your-functional-code-kf8)
-- [From Setback to Success: My ACM Winter School Journey...](https://dev.to/phanisirisha-46/from-setback-to-success-my-acm-winter-school-journey-4h7p)
-- [Why Struggle with Software Challenges When Tanzu Can Do the Heavy Lifting?](https://dev.to/michelle_sebek_/why-struggle-with-software-challenges-when-tanzu-can-do-the-heavy-lifting-3oki)
-- [&quot;nvm use&quot; does not work with nvm-windows](https://dev.to/ku6ryo/nvm-use-does-not-work-with-nvm-windows-2fo9)
+- [Block direct access to CloudFront origins with custom headers and AWS WAF](https://dev.to/tanushree_aggarwal/block-direct-access-to-cloudfront-origins-with-custom-headers-and-aws-waf-1o25)
+- [Fixing a &quot;Show More / Show Less&quot; Button with JavaScript](https://dev.to/aziz999/fixing-a-show-more-show-less-button-with-javascript-he0)
+- [Common API Design Mistakes and How to Avoid Them](https://dev.to/lincemathew/common-api-design-mistakes-and-how-to-avoid-them-46e1)
+- [Contract-Testing in theory and paractice](https://dev.to/kamyar_parastesh_f3d6f483/contract-testing-in-theory-and-paractice-4h3a)
 <!-- BLOG-POST-LIST:END -->
 
 
