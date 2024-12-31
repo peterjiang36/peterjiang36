@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Books for Every Machine Learning Engineer in 2025](https://dev.to/ollem_socram/10-essential-books-for-every-machine-learning-engineer-in-2025-3pj)
-- [Deck the Halls &lpar;and Inboxes&rpar; with a DIY Digital Postcard App](https://dev.to/ideradevtools/deck-the-halls-and-inboxes-with-a-diy-digital-postcard-app-204o)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-p8l)
-- [Part 3: Orchestrating with Nginx and Docker](https://dev.to/devwithshreyash/part-3-orchestrating-with-nginx-and-docker-4p0k)
+- [Currency is What &lpar;Almost&rpar; Everyone Wants](https://dev.to/shrsv/currency-is-what-almost-everyone-wants-1o4a)
+- [Codewars - Descending Order](https://dev.to/dantedinopegassi/codewars-descending-order-53he)
+- [Stop Tool-Hopping](https://dev.to/hotfixhero/stop-tool-hopping-4n1l)
+- [Deno docker](https://dev.to/pdotdotdot/deno-docker-4p1p)
 <!-- BLOG-POST-LIST:END -->
 
 
