@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This list is an amazing asset.](https://dev.to/awray13/this-list-is-an-amazing-asset-2d25)
-- [What to do with a Surface Duo in 2025](https://dev.to/tkuenneth/what-to-do-with-a-surface-duo-in-2025-4hgj)
-- [🚀 React Best Practices for Scalable Frontends: Part 4 – Performance Optimization and Efficient Rendering](https://dev.to/el_mahfoudbouatim_b502a2/react-best-practices-for-scalable-frontends-part-4-performance-optimization-and-efficient-4dff)
-- [My conference year](https://dev.to/kiolk/my-conference-year-onk)
+- [Low-Level Design for an End-to-End Encrypted Messaging Application with Real-Time Communication](https://dev.to/gyanaa_vaibhav_8757257a61/low-level-design-for-an-end-to-end-encrypted-messaging-application-with-real-time-communication-19lj)
+- [How to Set Up CopilotKit in Your React App: A Step-by-Step Guide](https://dev.to/coding_farhan/how-to-set-up-copilotkit-in-your-react-app-a-step-by-step-guide-1cca)
+- [reactJs](https://dev.to/futuristicgeeks/reactjs-39h3)
+- [#100DAYSOFCODE: Day 4 &amp; Day 5](https://dev.to/isaiahhtml/100daysofcode-day-4-day-5-1io4)
 <!-- BLOG-POST-LIST:END -->
 
 
