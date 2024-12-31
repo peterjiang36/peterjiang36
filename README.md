@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Block direct access to CloudFront origins with custom headers and AWS WAF](https://dev.to/tanushree_aggarwal/block-direct-access-to-cloudfront-origins-with-custom-headers-and-aws-waf-1o25)
-- [Fixing a &quot;Show More / Show Less&quot; Button with JavaScript](https://dev.to/aziz999/fixing-a-show-more-show-less-button-with-javascript-he0)
-- [Common API Design Mistakes and How to Avoid Them](https://dev.to/lincemathew/common-api-design-mistakes-and-how-to-avoid-them-46e1)
-- [Contract-Testing in theory and paractice](https://dev.to/kamyar_parastesh_f3d6f483/contract-testing-in-theory-and-paractice-4h3a)
+- [10 Essential Books for Every Machine Learning Engineer in 2025](https://dev.to/ollem_socram/10-essential-books-for-every-machine-learning-engineer-in-2025-3pj)
+- [Deck the Halls &lpar;and Inboxes&rpar; with a DIY Digital Postcard App](https://dev.to/ideradevtools/deck-the-halls-and-inboxes-with-a-diy-digital-postcard-app-204o)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-p8l)
+- [Part 3: Orchestrating with Nginx and Docker](https://dev.to/devwithshreyash/part-3-orchestrating-with-nginx-and-docker-4p0k)
 <!-- BLOG-POST-LIST:END -->
 
 
