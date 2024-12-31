@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DORA Metrics and Implementation in CircleCI](https://dev.to/bcherlapally/dora-metrics-and-implementation-in-circleci-1367)
-- [Adopting Serverless Architecture: Real-Life Examples, Key Benefits, and Implementation](https://dev.to/bcherlapally/adopting-serverless-architecture-real-life-examples-key-benefits-and-implementation-2ii3)
-- [MongoDB Command Shortcuts: The Ultimate Guide](https://dev.to/milliemolotov/mongodb-command-shortcuts-the-ultimate-guide-41c5)
-- [Day-25 List functions, Tasks](https://dev.to/lakshmi_prithanadesan_32/day-25-list-functions-tasks-10nh)
+- [🍃 30 Elm Picks to Fuel Your Functional Code](https://dev.to/0x3d_site/30-elm-picks-to-fuel-your-functional-code-kf8)
+- [From Setback to Success: My ACM Winter School Journey...](https://dev.to/phanisirisha-46/from-setback-to-success-my-acm-winter-school-journey-4h7p)
+- [Why Struggle with Software Challenges When Tanzu Can Do the Heavy Lifting?](https://dev.to/michelle_sebek_/why-struggle-with-software-challenges-when-tanzu-can-do-the-heavy-lifting-3oki)
+- [&quot;nvm use&quot; does not work with nvm-windows](https://dev.to/ku6ryo/nvm-use-does-not-work-with-nvm-windows-2fo9)
 <!-- BLOG-POST-LIST:END -->
 
 
