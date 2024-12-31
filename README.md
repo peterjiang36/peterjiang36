@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cricket task](https://dev.to/hema_latha/cricket-task-4c6j)
-- [PlutoViz: More prep](https://dev.to/robinfivewords/plutoviz-more-prep-pp4)
-- [AWS Elastic Load Balancer &lpar;ELB&rpar; Tutorial: How to Configure ELB and Add Web Servers](https://dev.to/s3cloudhub/aws-elastic-load-balancer-elb-tutorial-how-to-configure-elb-and-add-web-servers-2456)
-- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-332)
+- [Mastering CSS in 2025: The Definitive CSS Guide for Everyone | Part-2](https://dev.to/govindvyas/mastering-css-in-2025-the-definitive-css-guide-for-everyone-part-2-2aoo)
+- [How to Build a File Server Using ZimaBoard or Raspberry Pi](https://dev.to/jewelmahmud/how-to-build-a-file-server-using-zimaboard-or-raspberry-pi-fab)
+- [Observability in 2025: OpenTelemetry and AI to Fill In Gaps](https://dev.to/kubefeeds/observability-in-2025-opentelemetry-and-ai-to-fill-in-gaps-4bpm)
+- [Best Happy New Year animation using HTML and CSS](https://dev.to/jon_snow789/best-happy-new-year-animation-using-html-and-css-3aeh)
 <!-- BLOG-POST-LIST:END -->
 
 
