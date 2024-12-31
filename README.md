@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
-- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
-- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
-- [Integrating SvelteKit with Storyblok &lpar;Using Svelte 5&rpar;](https://dev.to/robertobutti/integrating-sveltekit-with-storyblok-using-svelte-5-384p)
+- [This list is an amazing asset.](https://dev.to/awray13/this-list-is-an-amazing-asset-2d25)
+- [What to do with a Surface Duo in 2025](https://dev.to/tkuenneth/what-to-do-with-a-surface-duo-in-2025-4hgj)
+- [🚀 React Best Practices for Scalable Frontends: Part 4 – Performance Optimization and Efficient Rendering](https://dev.to/el_mahfoudbouatim_b502a2/react-best-practices-for-scalable-frontends-part-4-performance-optimization-and-efficient-4dff)
+- [My conference year](https://dev.to/kiolk/my-conference-year-onk)
 <!-- BLOG-POST-LIST:END -->
 
 
