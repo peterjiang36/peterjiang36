@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#124 — Take Adjacent Data as Grouping Criteria](https://dev.to/judith677/124-take-adjacent-data-as-grouping-criteria-4dnk)
-- [2024 Recap...](https://dev.to/ofonime1/2024-recap-4odi)
-- [A better way to listen to multiple change notifiers in Flutter](https://dev.to/harsh-joshi/a-better-way-to-listen-to-multiple-change-notifiers-in-flutter-3na0)
-- [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/le_hongphuc_eecc926242df/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-4e15)
+- [Tauri &lpar;Part 3&rpar; - Get the window configuration right first](https://dev.to/rain9/tauri-part-3-get-the-window-configuration-right-first-3gf7)
+- [Create a cross-account glue Job using AWS CDK](https://dev.to/harsh_vardhansingh_69340/create-a-cross-account-glue-job-using-aws-cdk-16ek)
+- [FLUX: Breakthrough 1.58-bit Neural Network Compression Maintains Full Accuracy While Slashing Memory Use by 20x](https://dev.to/mikeyoung44/flux-breakthrough-158-bit-neural-network-compression-maintains-full-accuracy-while-slashing-10ke)
+- [A Beginner’s Guide to Java: 10 Must-Know Development Tools🎉🎉](https://dev.to/noah_anderson_7632d059a07de/a-beginners-guide-to-java-10-must-know-development-tools-4k55)
 <!-- BLOG-POST-LIST:END -->
 
 
