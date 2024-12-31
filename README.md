@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of frontend developer &lpar;2025&rpar;](https://dev.to/codewithshahan/the-future-of-frontend-developer-2025-54me)
-- [Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/mofshamim/interface-segregation-principle-isp-1c9p)
-- [Liskov Substitution Principle &lpar;LSP&rpar;](https://dev.to/mofshamim/liskov-substitution-principle-lsp-4ejo)
-- [Understanding the Differences Between OAuth2 and OpenID Connect &lpar;OIDC&rpar;](https://dev.to/igventurelli/understanding-the-differences-between-oauth2-and-openid-connect-oidc-5bn2)
+- [DORA Metrics and Implementation in CircleCI](https://dev.to/bcherlapally/dora-metrics-and-implementation-in-circleci-1367)
+- [Adopting Serverless Architecture: Real-Life Examples, Key Benefits, and Implementation](https://dev.to/bcherlapally/adopting-serverless-architecture-real-life-examples-key-benefits-and-implementation-2ii3)
+- [MongoDB Command Shortcuts: The Ultimate Guide](https://dev.to/milliemolotov/mongodb-command-shortcuts-the-ultimate-guide-41c5)
+- [Day-25 List functions, Tasks](https://dev.to/lakshmi_prithanadesan_32/day-25-list-functions-tasks-10nh)
 <!-- BLOG-POST-LIST:END -->
 
 
