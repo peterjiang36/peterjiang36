@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tauri &lpar;Part 3&rpar; - Get the window configuration right first](https://dev.to/rain9/tauri-part-3-get-the-window-configuration-right-first-3gf7)
-- [Create a cross-account glue Job using AWS CDK](https://dev.to/harsh_vardhansingh_69340/create-a-cross-account-glue-job-using-aws-cdk-16ek)
-- [FLUX: Breakthrough 1.58-bit Neural Network Compression Maintains Full Accuracy While Slashing Memory Use by 20x](https://dev.to/mikeyoung44/flux-breakthrough-158-bit-neural-network-compression-maintains-full-accuracy-while-slashing-10ke)
-- [A Beginner’s Guide to Java: 10 Must-Know Development Tools🎉🎉](https://dev.to/noah_anderson_7632d059a07de/a-beginners-guide-to-java-10-must-know-development-tools-4k55)
+- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
+- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
+- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
+- [Integrating SvelteKit with Storyblok &lpar;Using Svelte 5&rpar;](https://dev.to/robertobutti/integrating-sveltekit-with-storyblok-using-svelte-5-384p)
 <!-- BLOG-POST-LIST:END -->
 
 
