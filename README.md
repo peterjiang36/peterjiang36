@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consistency Models and Replicache](https://dev.to/siisee11/consistency-models-and-replicache-1l42)
-- [The Case for Build-Time Micro Frontends](https://dev.to/msm8/the-case-for-build-time-micro-frontends-2a6f)
-- [Matanuska ADR 006 - Runtime Exit](https://dev.to/jfhbrook/matanuska-adr-006-runtime-exit-34jg)
-- [Navigating Challenges: Reflections on My Career Journey](https://dev.to/yetesfa/navigating-challenges-reflections-on-my-career-journey-34p0)
+- [You can get your financial freedom with open-source in 2025! 🤑](https://dev.to/nevodavid/you-can-get-your-financial-freedom-with-open-source-in-2025-41i8)
+- [Is a Cisco Certification Worth It in 2025?](https://dev.to/skillboosttrainer/is-a-cisco-certification-worth-it-in-2025-39le)
+- [Automated Reporting in Automation Testing](https://dev.to/testreport-io/automated-reporting-in-automation-testing-1db)
+- [🚀 Your Daily Crypto Job Digest For 01 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-01-january-2hh5)
 <!-- BLOG-POST-LIST:END -->
 
 
