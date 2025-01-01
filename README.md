@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Track, Plan, Succeed: A Guide to 2025 Goal-Setting](https://dev.to/mrzaizai2k/track-plan-succeed-a-guide-to-2025-goal-setting-148g)
-- [Understanding the Terraform Lifecycle: A Key Concept for HashiCorp Terraform Associate Exam](https://dev.to/s3cloudhub/understanding-the-terraform-lifecycle-a-key-concept-for-hashicorp-terraform-associate-exam-4ian)
-- [Day 1 : Introduction of DSA](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-of-dsa-2ddb)
-- [Technical Writing Guide: Introduction to Technical Writing and Its Tools](https://dev.to/olodocoder/technical-writing-guide-introduction-to-technical-writing-and-its-tools-1m39)
+- [Add Algolia Search to Your Netlify Blog in 10 Minutes](https://dev.to/airabbit/add-algolia-search-to-your-netlify-blog-in-10-minutes-1iek)
+- [Building a 2D Pong Game in JS](https://dev.to/riley320/building-a-2d-pong-game-in-js-450o)
+- [11 Quick and Easy Tips for Optimizing AngularJS Performance](https://dev.to/jigar_online/11-quick-and-easy-tips-for-optimizing-angularjs-performance-12e)
+- [I Finally Found the Perfect Alternative to MAMP](https://dev.to/proprzzzz/i-finally-found-the-perfect-alternative-to-mamp-5162)
 <!-- BLOG-POST-LIST:END -->
 
 
