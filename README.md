@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Neovim](https://dev.to/jhonoryza/setting-up-neovim-3dh)
-- [Software de Inventario para PYMES](https://dev.to/sysmaya/software-de-inventario-para-pymes-39d6)
-- [Using Multiple Versions of a Package in a Single Project: Why and How](https://dev.to/msm8/using-multiple-versions-of-a-package-in-a-single-project-why-and-how-2308)
-- [How Businesses Can Protect Their Applications from Evolving Cyber Threats](https://dev.to/marufhossain/how-businesses-can-protect-their-applications-from-evolving-cyber-threats-1nk)
+- [[Boost]](https://dev.to/rajeshkumaryadavdotcom/-2ppo)
+- [The Most Interesting Mostly Tech Reads of 2024](https://dev.to/pkutaj/the-most-interesting-mostly-tech-reads-of-2024-4pmf)
+- [Simplest markdown component for your AI apps](https://dev.to/divyamdotfoo/simplest-markdown-component-for-your-ai-apps-28f2)
+- [Importance of Cisco in IT Networking in 2025](https://dev.to/skillboosttrainer/importance-of-cisco-in-it-networking-in-2025-3mn3)
 <!-- BLOG-POST-LIST:END -->
 
 
