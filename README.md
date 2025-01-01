@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Defer View](https://dev.to/sarmitha/angular-defer-view-36g9)
-- [Mastering Go Packages: How to Discover Exported Functionalities](https://dev.to/abstractmusa/mastering-go-packages-how-to-discover-exported-functionalities-mn)
-- [AI Models Like ChatGPT Beat Traditional Search Systems at Ranking Results, Study Shows](https://dev.to/mikeyoung44/ai-models-like-chatgpt-beat-traditional-search-systems-at-ranking-results-study-shows-3djg)
-- [AI Model Learns to Negotiate Like a Pro: New System Achieves 15% Better Deal Outcomes](https://dev.to/mikeyoung44/ai-model-learns-to-negotiate-like-a-pro-new-system-achieves-15-better-deal-outcomes-h1p)
+- [Integrating Singular SDK with React Native: A Comprehensive Guide](https://dev.to/amitkumar13/integrating-singular-sdk-with-react-native-a-comprehensive-guide-2c86)
+- [🚀 Introducing React AI: Open Source React Components Builder](https://dev.to/akshaynceo/introducing-react-ai-open-source-react-components-builder-2fk1)
+- [Apple promised next-gen CarPlay in 2024, so where is it? - The Verge](https://dev.to/hk9099/apple-promised-next-gen-carplay-in-2024-so-where-is-it-the-verge-4omo)
+- [Apple TV+ Sets Free Streaming Weekend In January - Deadline](https://dev.to/hk9099/apple-tv-sets-free-streaming-weekend-in-january-deadline-475b)
 <!-- BLOG-POST-LIST:END -->
 
 
