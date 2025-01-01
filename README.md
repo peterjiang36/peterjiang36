@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Python GUI Development with Buildfy 🚀](https://dev.to/proxlight_8145239c139008d/simplify-python-gui-development-with-buildfy-4h4h)
-- [🎉 2025 New Year, New Look! Transform JSON to Diagrams in seconds](https://dev.to/bugblitz98/2025-new-year-new-look-transform-json-to-diagrams-with-jsonviewertools-1mpg)
-- [09 Essential Tools To Freelance Like A Pro In 2025](https://dev.to/souptikdn/09-essential-tools-to-freelance-like-a-pro-in-2025-1i3g)
-- [GenAI Developer Roadmap 🚀 | Week 1, Day 3](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-2-1gbm)
+- [Angular Defer View](https://dev.to/sarmitha/angular-defer-view-36g9)
+- [Mastering Go Packages: How to Discover Exported Functionalities](https://dev.to/abstractmusa/mastering-go-packages-how-to-discover-exported-functionalities-mn)
+- [AI Models Like ChatGPT Beat Traditional Search Systems at Ranking Results, Study Shows](https://dev.to/mikeyoung44/ai-models-like-chatgpt-beat-traditional-search-systems-at-ranking-results-study-shows-3djg)
+- [AI Model Learns to Negotiate Like a Pro: New System Achieves 15% Better Deal Outcomes](https://dev.to/mikeyoung44/ai-model-learns-to-negotiate-like-a-pro-new-system-achieves-15-better-deal-outcomes-h1p)
 <!-- BLOG-POST-LIST:END -->
 
 
