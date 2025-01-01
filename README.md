@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Talking to AI So Comfortable? I Think I Figured It Out.](https://dev.to/dragorww/why-is-talking-to-ai-so-comfortable-i-think-i-figured-it-out-o8o)
-- [Antivirus in C++](https://dev.to/catalingrigoriev/antivirus-in-c-1432)
-- [Decoding ORM: A Deep Dive into Object-Relational Mapping](https://dev.to/ibrahimhyazouri/decoding-orm-a-deep-dive-into-object-relational-mapping-16dl)
-- [How to Enhance Notion Templates with AI for Smarter Workflows](https://dev.to/resource_bunk_1077cab07da/how-to-enhance-notion-templates-with-ai-for-smarter-workflows-4d57)
+- [Building a webhook tester from scratch](https://dev.to/acoh3n/building-a-webhook-tester-from-scratch-34a8)
+- [Retro&#39;ing and Debugging 2024: A Year That Challenged and Changed Me](https://dev.to/respect17/retroing-and-debugging-2024-a-year-that-challenged-and-changed-me-2geo)
+- [Creating a To-Do app with Django and HTMX - Part 1: Creating the Django project with uv](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-1-583p)
+- [Why Do We Still Need Jackson or Gson in Java?](https://dev.to/joaomarques/why-do-we-still-need-jackson-or-gson-in-java-1994)
 <!-- BLOG-POST-LIST:END -->
 
 
