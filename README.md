@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Paper Review: ORPO - Monolithic Preference Optimization without Reference Model](https://dev.to/bullmouse/ai-paper-review-24l4)
-- [Build a Single Page Application &lpar;SPA&rpar; Using HTML, CSS &amp; JavaScript - No Frameworks Needed](https://dev.to/sharathchandark/build-a-single-page-application-spa-using-html-css-javascript-no-frameworks-needed-3bf9)
-- [Angular resource&lpar;&rpar; and rxResource&lpar;&rpar; APIs: what you need to know](https://dev.to/davidepassafaro/angular-resource-and-rxresource-apis-what-you-need-to-know-5ce2)
-- [🚀 Automating Process Monitoring &amp; Restarting with Bash Scripting Day4! 🔧](https://dev.to/jamiu_cloud/automating-process-monitoring-restarting-with-bash-scripting-day4-5e0i)
+- [Setting Up Neovim](https://dev.to/jhonoryza/setting-up-neovim-3dh)
+- [Software de Inventario para PYMES](https://dev.to/sysmaya/software-de-inventario-para-pymes-39d6)
+- [Using Multiple Versions of a Package in a Single Project: Why and How](https://dev.to/msm8/using-multiple-versions-of-a-package-in-a-single-project-why-and-how-2308)
+- [How Businesses Can Protect Their Applications from Evolving Cyber Threats](https://dev.to/marufhossain/how-businesses-can-protect-their-applications-from-evolving-cyber-threats-1nk)
 <!-- BLOG-POST-LIST:END -->
 
 
