@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rajeshkumaryadavdotcom/-2ppo)
-- [The Most Interesting Mostly Tech Reads of 2024](https://dev.to/pkutaj/the-most-interesting-mostly-tech-reads-of-2024-4pmf)
-- [Simplest markdown component for your AI apps](https://dev.to/divyamdotfoo/simplest-markdown-component-for-your-ai-apps-28f2)
-- [Importance of Cisco in IT Networking in 2025](https://dev.to/skillboosttrainer/importance-of-cisco-in-it-networking-in-2025-3mn3)
+- [🚀 Rust Coders, Don’t Miss These 25 Resource Picks](https://dev.to/0x3d_site/rust-coders-dont-miss-these-25-resource-picks-i7l)
+- [&quot;Revolutionizing Language Models: The Power of Learned Embedding Propagation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-the-power-of-learned-embedding-propagation-iba)
+- [&quot;Top 10 Future-Proof Careers in India and Why They&#39;re Thriving&quot;](https://dev.to/divakrrrr/top-10-future-proof-careers-in-india-and-why-theyre-thriving-2gb)
+- [Prometheus](https://dev.to/ibrahimsi/prometheus-2n0e)
 <!-- BLOG-POST-LIST:END -->
 
 
