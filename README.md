@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How can you secure microservices architecture using AWS services?](https://dev.to/vijaykodam/how-can-you-secure-microservices-architecture-using-aws-services-6ga)
-- [Dropdown or Radio button options in Azure Devops](https://dev.to/arindam0310018/dropdown-or-radio-button-options-in-azure-devops-2d1f)
-- [Fastest and Cheapest Ways to Delete Millions of Files from Amazon S3](https://dev.to/vijaykodam/fastest-and-cheapest-ways-to-delete-millions-of-files-from-amazon-s3-d3n)
-- [My First Steps with Playwright 🎭: A Tester’s Journey from Selenium](https://dev.to/utkarsh630/my-first-steps-with-playwright-a-testers-journey-from-selenium-4bj1)
+- [Debugging 2024: Lessons, Challenges, and Achievements – A Reflective Journey](https://dev.to/rafiatou_okere_16004811b3/debugging-2024-lessons-challenges-and-achievements-a-reflective-journey-3dp0)
+- [How And Why The Developer-First Approach Is Changing The Observability Landscape](https://dev.to/metis/how-and-why-the-developer-first-approach-is-changing-the-observability-landscape-25j0)
+- [The Return of the Blog](https://dev.to/ericbl3/the-return-of-the-blog-3i1n)
+- [My 2024 &lpar;and 3rd year&rpar; as an AWS Community Builder](https://dev.to/aws-builders/my-2024-and-3rd-year-as-an-aws-community-builder-acn)
 <!-- BLOG-POST-LIST:END -->
 
 
