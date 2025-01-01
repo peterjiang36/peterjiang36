@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Rust Coders, Don’t Miss These 25 Resource Picks](https://dev.to/0x3d_site/rust-coders-dont-miss-these-25-resource-picks-i7l)
-- [&quot;Revolutionizing Language Models: The Power of Learned Embedding Propagation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-the-power-of-learned-embedding-propagation-iba)
-- [&quot;Top 10 Future-Proof Careers in India and Why They&#39;re Thriving&quot;](https://dev.to/divakrrrr/top-10-future-proof-careers-in-india-and-why-theyre-thriving-2gb)
-- [Prometheus](https://dev.to/ibrahimsi/prometheus-2n0e)
+- [Why Is Talking to AI So Comfortable? I Think I Figured It Out.](https://dev.to/dragorww/why-is-talking-to-ai-so-comfortable-i-think-i-figured-it-out-o8o)
+- [Antivirus in C++](https://dev.to/catalingrigoriev/antivirus-in-c-1432)
+- [Decoding ORM: A Deep Dive into Object-Relational Mapping](https://dev.to/ibrahimhyazouri/decoding-orm-a-deep-dive-into-object-relational-mapping-16dl)
+- [How to Enhance Notion Templates with AI for Smarter Workflows](https://dev.to/resource_bunk_1077cab07da/how-to-enhance-notion-templates-with-ai-for-smarter-workflows-4d57)
 <!-- BLOG-POST-LIST:END -->
 
 
