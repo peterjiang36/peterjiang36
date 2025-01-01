@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Algolia Search to Your Netlify Blog in 10 Minutes](https://dev.to/airabbit/add-algolia-search-to-your-netlify-blog-in-10-minutes-1iek)
-- [Building a 2D Pong Game in JS](https://dev.to/riley320/building-a-2d-pong-game-in-js-450o)
-- [11 Quick and Easy Tips for Optimizing AngularJS Performance](https://dev.to/jigar_online/11-quick-and-easy-tips-for-optimizing-angularjs-performance-12e)
-- [I Finally Found the Perfect Alternative to MAMP](https://dev.to/proprzzzz/i-finally-found-the-perfect-alternative-to-mamp-5162)
+- [Consistency Models and Replicache](https://dev.to/siisee11/consistency-models-and-replicache-1l42)
+- [The Case for Build-Time Micro Frontends](https://dev.to/msm8/the-case-for-build-time-micro-frontends-2a6f)
+- [Matanuska ADR 006 - Runtime Exit](https://dev.to/jfhbrook/matanuska-adr-006-runtime-exit-34jg)
+- [Navigating Challenges: Reflections on My Career Journey](https://dev.to/yetesfa/navigating-challenges-reflections-on-my-career-journey-34p0)
 <!-- BLOG-POST-LIST:END -->
 
 
