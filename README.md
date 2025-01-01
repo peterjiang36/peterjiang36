@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy new year!](https://dev.to/ben/happy-new-year-403c)
-- [I Tried CodeRabbit — An AI Tool That Will Make Your Code Reviews 10X Faster &lpar;Seriously!&rpar;](https://dev.to/nitinfab/i-tried-coderabbit-an-ai-tool-that-will-make-your-code-reviews-10x-faster-seriously-10b)
-- [How to Use Styled Components for Scalable and Maintainable React Styling](https://dev.to/ayusharpcoder/how-to-use-styled-components-for-scalable-and-maintainable-react-styling-1nga)
-- [Untitled](https://dev.to/namita_debnath_b3e98db73f/untitled-51am)
+- [Simplify Python GUI Development with Buildfy 🚀](https://dev.to/proxlight_8145239c139008d/simplify-python-gui-development-with-buildfy-4h4h)
+- [🎉 2025 New Year, New Look! Transform JSON to Diagrams in seconds](https://dev.to/bugblitz98/2025-new-year-new-look-transform-json-to-diagrams-with-jsonviewertools-1mpg)
+- [09 Essential Tools To Freelance Like A Pro In 2025](https://dev.to/souptikdn/09-essential-tools-to-freelance-like-a-pro-in-2025-1i3g)
+- [GenAI Developer Roadmap 🚀 | Week 1, Day 3](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-2-1gbm)
 <!-- BLOG-POST-LIST:END -->
 
 
