@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Java Debugging Tools for Efficient Application Development](https://dev.to/adityabhuyan/top-java-debugging-tools-for-efficient-application-development-3b3)
-- [Build a Crypto Price Alert System with Telegram and AWS Lambda](https://dev.to/radzion/build-a-crypto-price-alert-system-with-telegram-and-aws-lambda-120m)
-- [Top 5 CSS Generators to Make Developer Life Easier!](https://dev.to/kafeel_ahmad/top-5-css-generators-to-make-developer-life-easier-8d4)
-- [AWS CloudWatch: Implementing Data Protection Policy for Sensitive Log Data!](https://dev.to/bhatiagirish/aws-cloudwatch-implementing-data-protection-policy-for-sensitive-log-data-5d4n)
+- [Common String Manipulation Errors in C++ and How to Avoid Them](https://dev.to/alex_ricciardi/common-string-manipulation-errors-in-c-and-how-to-avoid-them-51jo)
+- [Master Splunk: Fast-Track Your Cybersecurity Career](https://dev.to/henry_thompson_436e048ba2/master-splunk-fast-track-your-cybersecurity-career-hmm)
+- [AI in Space Exploration: Pioneering the Final Frontier](https://dev.to/arjun_jaggi/ai-in-space-exploration-pioneering-the-final-frontier-3dc4)
+- [STOP Building Search Bars Without Autocomplete Features!](https://dev.to/sharathchandark/stop-building-search-bars-without-autocomplete-features-2m0b)
 <!-- BLOG-POST-LIST:END -->
 
 
