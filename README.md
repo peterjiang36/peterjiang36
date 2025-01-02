@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Portfolio | NexT JS](https://dev.to/shubhamtiwari909/personal-portfolio-next-js-35gf)
-- [Learn how to create a basic Kanban board with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-basic-kanban-board-with-tailwind-css-and-javascript-2dj3)
-- [Telemetry and Tracing: A Comprehensive Overview](https://dev.to/pragyasapkota/telemetry-and-tracing-a-comprehensive-overview-4fj3)
-- [OSPF &lpar;Open Shortest Path First&rpar; - Backbone Area &lpar;Area 0&rpar; dan Fail Over](https://dev.to/heavenaulianisa/ospf-open-shortest-path-first-backbone-area-area-0-dan-fail-over-1j39)
+- [10 Must-Know Online Communities for Developers in 2025.](https://dev.to/balrajola/10-must-know-online-communities-for-developers-in-2025-5gki)
+- [New Year New Me: 17 Best Programming Books for Beginner Devs 2025](https://dev.to/abhisekgour/new-year-new-me-17-best-programming-books-for-beginner-devs-2025-5d00)
+- [⚡️The Best Postman Alternative for IntelliJ Every Developer Will Want to Know! 🔥](https://dev.to/roobia/the-best-postman-alternative-for-intellij-every-developer-will-want-to-know-465a)
+- [ONCSS](https://dev.to/devnax/oncss-3onn)
 <!-- BLOG-POST-LIST:END -->
 
 
