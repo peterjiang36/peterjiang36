@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you have any new year rituals? I like to generate new passwords across accounts and unsubscribe from marketing emails 😃](https://dev.to/jess/do-you-have-any-new-year-rituals-i-like-to-generate-new-passwords-across-accounts-and-unsubscribe-43ia)
-- [What I Wish I Knew as a Junior Developer: Advice from a Senior Engineer](https://dev.to/holasoymalva/what-i-wish-i-knew-as-a-junior-developer-advice-from-a-senior-engineer-58lj)
-- [Battle of the Local Development: ServBay vs. MAMP](https://dev.to/crawomg/battle-of-the-local-development-servbay-vs-mamp-2ac5)
-- [Getting Certified: GitHub Advanced Security](https://dev.to/hiranthapeiris/getting-certified-github-advanced-security-3c18)
+- [Love the enthusiasm for this one. I think we need to do more writing challenges.](https://dev.to/ben/love-the-enthusiasm-for-this-one-i-think-we-need-to-do-more-writing-challenges-2b1o)
+- [Ubuntu Linux Commands Categorized](https://dev.to/harshm03/ubuntu-linux-commands-categorized-45ei)
+- [One-Click Chrome Extension: Change Your Background with Style &lpar;or Chaos&rpar;](https://dev.to/priyankt3i/one-click-chrome-extension-change-your-background-with-style-or-chaos-186k)
+- [From Chaos to Clarity: My Developer Workflow to Stay Organized and Focused On Tasks 🎯🧠](https://dev.to/g3nt/from-chaos-to-clarity-my-developer-workflow-to-stay-organized-and-focused-on-tasks-3cg2)
 <!-- BLOG-POST-LIST:END -->
 
 
