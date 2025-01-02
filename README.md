@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 24/52: Observable Standardization, State of JavaScript &amp; more](https://dev.to/this-is-angular/ng-news-2452-observable-standardization-state-of-javascript-more-1935)
-- [Standard Schema arrived in Zod!](https://dev.to/urbanisierung/standard-schema-arrived-in-zod-3i0a)
-- [Generative AI Cost Optimization Strategies](https://dev.to/andigwandi/generative-ai-cost-optimization-strategies-2091)
-- [How to Test for Equal JSON Columns in Laravel Models](https://dev.to/tegos/how-to-test-for-equal-json-columns-in-laravel-models-24e)
+- [🚀 Your Daily Crypto Job Digest For 02 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-january-4f0b)
+- [The Future of Voting: Understanding Blockchain Technology in Electoral Systems](https://dev.to/hexadecimalsoftware/the-future-of-voting-understanding-blockchain-technology-in-electoral-systems-53a9)
+- [Should I learn Java or C++?Lets discuss!](https://dev.to/lindiwe09/should-i-learn-java-or-clets-discuss-100m)
+- [Best Practices for Writing Code in Tailwind CSS!](https://dev.to/hexa-home/best-practices-for-writing-code-in-tailwind-css-19lg)
 <!-- BLOG-POST-LIST:END -->
 
 
