@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Orbit: A Journey Through the Solar System](https://dev.to/seifzellaban/orbit-a-journey-through-the-solar-system-1kbk)
-- [Integrating free Deepseek v3 API in a React.js Application](https://dev.to/andrew-atef/integrating-free-deepseek-v3-api-in-a-reactjs-application-43b2)
-- [Micro-Commits: Why You Should Do &#39;Em](https://dev.to/rodriveiga01/micro-commits-why-you-should-do-em-imp)
-- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/codeswithroh/compiling-2025-my-roadmap-for-the-year-ahead-4bp8)
+- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaparainiciantes/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-28ge)
+- [Día 2/365. Cargo?](https://dev.to/rustarch/dia-2365-cargo-5ag)
+- [Private npm Repositories](https://dev.to/ernestohs/private-npm-repositories-5e48)
+- [Day 2 of My 2025 Coding Streak: Major Progress on Lyra](https://dev.to/winnerezy/day-2-of-my-2025-coding-streak-major-progress-on-lyra-5d2l)
 <!-- BLOG-POST-LIST:END -->
 
 
