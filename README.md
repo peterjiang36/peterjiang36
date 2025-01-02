@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ejemplo basico de aplicacion web para visualizacion de datos con Streamlit + Python](https://dev.to/andresguecha/ejemplo-basico-de-aplicacion-web-para-visualizacion-de-datos-con-streamlit-python-4oh7)
-- [Deploy NestJS and NextJS application in same server using pm2 and Nginx](https://dev.to/fahim_hasnainfahad_7e50d/deploy-nestjs-and-nextjs-application-in-same-server-using-pm2-and-nginx-1epg)
-- [Python o Spark, para el procesamiento de datos](https://dev.to/andresguecha/python-o-spark-para-el-procesamiento-de-datos-2mc6)
-- [Obfuscating “Hello world!” obfuscate on Python](https://dev.to/kevinmel2000/obfuscating-hello-world-obfuscate-on-python-16ll)
+- [Day 2: C++ language](https://dev.to/mehfila_parkkulthil_23/day-2-c-language-io6)
+- [[Unity] Two texture transition shader](https://dev.to/piler-tam/unity-two-texture-transition-shader-2f4g)
+- [PHP, Python, Node.js, which one is the most suitable for writing crawlers?](https://dev.to/98ip/php-python-nodejs-which-one-is-the-most-suitable-for-writing-crawlers-2j3p)
+- [Arquitectura Medallion para procesamiento de datos](https://dev.to/andresguecha/arquitectura-medallion-para-procesamiento-de-datos-736)
 <!-- BLOG-POST-LIST:END -->
 
 
