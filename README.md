@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Know Online Communities for Developers in 2025.](https://dev.to/balrajola/10-must-know-online-communities-for-developers-in-2025-5gki)
-- [New Year New Me: 17 Best Programming Books for Beginner Devs 2025](https://dev.to/abhisekgour/new-year-new-me-17-best-programming-books-for-beginner-devs-2025-5d00)
-- [⚡️The Best Postman Alternative for IntelliJ Every Developer Will Want to Know! 🔥](https://dev.to/roobia/the-best-postman-alternative-for-intellij-every-developer-will-want-to-know-465a)
-- [ONCSS](https://dev.to/devnax/oncss-3onn)
+- [Ng-News 24/52: Observable Standardization, State of JavaScript &amp; more](https://dev.to/this-is-angular/ng-news-2452-observable-standardization-state-of-javascript-more-1935)
+- [Standard Schema arrived in Zod!](https://dev.to/urbanisierung/standard-schema-arrived-in-zod-3i0a)
+- [Generative AI Cost Optimization Strategies](https://dev.to/andigwandi/generative-ai-cost-optimization-strategies-2091)
+- [How to Test for Equal JSON Columns in Laravel Models](https://dev.to/tegos/how-to-test-for-equal-json-columns-in-laravel-models-24e)
 <!-- BLOG-POST-LIST:END -->
 
 
