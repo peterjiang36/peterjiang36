@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git &amp; GitHub](https://dev.to/riyasharma028/git-github-44l0)
-- [A no-nonsense guide to frontend for backend developers](https://dev.to/hojimat/a-no-nonsense-guide-to-frontend-for-backend-developers-1hjj)
-- [How to Use Condoms Safely](https://dev.to/dr_venkateshkumar_/how-to-use-condoms-safely-ojj)
-- [Frugal Architecture: Embracing Cost-Effective Cloud-Native Design](https://dev.to/monojsaha/frugal-architecture-embracing-cost-effective-cloud-native-design-e6i)
+- [Personal Portfolio | NexT JS](https://dev.to/shubhamtiwari909/personal-portfolio-next-js-35gf)
+- [Learn how to create a basic Kanban board with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-basic-kanban-board-with-tailwind-css-and-javascript-2dj3)
+- [Telemetry and Tracing: A Comprehensive Overview](https://dev.to/pragyasapkota/telemetry-and-tracing-a-comprehensive-overview-4fj3)
+- [OSPF &lpar;Open Shortest Path First&rpar; - Backbone Area &lpar;Area 0&rpar; dan Fail Over](https://dev.to/heavenaulianisa/ospf-open-shortest-path-first-backbone-area-area-0-dan-fail-over-1j39)
 <!-- BLOG-POST-LIST:END -->
 
 
