@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comandos Essenciais do Linux &lpar;Nv-2&rpar;](https://dev.to/davionrails/comandos-essenciais-do-linux-nv-2-5g6i)
-- [☃️ Jan 2, 2025: Top 40+ GitHub Finds – Highlighting Tools and Innovations for Developers](https://dev.to/gittech/jan-2-2025-top-40-github-finds-highlighting-tools-and-innovations-for-developers-3cc0)
-- [The benefits of using CDNs for managing AWS bandwidth and storage requirements effectively](https://dev.to/marufhossain/the-benefits-of-using-cdns-for-managing-aws-bandwidth-and-storage-requirements-effectively-14b9)
-- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
+- [How to Automate the Encryption of an Amazon RDS Instance with Python](https://dev.to/dm8ry/how-to-automate-the-encryption-of-an-amazon-rds-instance-with-python-51an)
+- [Building an LSM-Tree Storage Engine from Scratch](https://dev.to/justlorain/building-an-lsm-tree-storage-engine-from-scratch-3eom)
+- [Let&#39;s create Data Table. Part 6: Column filtering](https://dev.to/morewings/lets-create-data-table-part-6-column-filtering-3j5b)
+- [Why Your Notion Templates Aren’t Selling &lpar;And How to Fix It&rpar;](https://dev.to/resource_bunk_1077cab07da/why-your-notion-templates-arent-selling-and-how-to-fix-it-56g8)
 <!-- BLOG-POST-LIST:END -->
 
 
