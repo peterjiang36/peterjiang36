@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common String Manipulation Errors in C++ and How to Avoid Them](https://dev.to/alex_ricciardi/common-string-manipulation-errors-in-c-and-how-to-avoid-them-51jo)
-- [Master Splunk: Fast-Track Your Cybersecurity Career](https://dev.to/henry_thompson_436e048ba2/master-splunk-fast-track-your-cybersecurity-career-hmm)
-- [AI in Space Exploration: Pioneering the Final Frontier](https://dev.to/arjun_jaggi/ai-in-space-exploration-pioneering-the-final-frontier-3dc4)
-- [STOP Building Search Bars Without Autocomplete Features!](https://dev.to/sharathchandark/stop-building-search-bars-without-autocomplete-features-2m0b)
+- [Part 18: Building Your Own AI - Advanced Topics: Quantum Machine Learning](https://dev.to/trixsec/part-18-building-your-own-ai-advanced-topics-quantum-machine-learning-13ep)
+- [🚀 Introducing Extendify: A Sleek Taskbar Enhancement Utility for Windows 🎉](https://dev.to/idris_jimoh/introducing-extendify-a-sleek-taskbar-enhancement-utility-for-windows-5h69)
+- [Rails Soft Delete &amp; Audit Logging Guide](https://dev.to/sulmanweb/rails-soft-delete-audit-logging-guide-4m2d)
+- [npm error &#39;node&#39; is not recognized as an internal or external command](https://dev.to/mibii/npm-error-node-is-not-recognized-as-an-internal-or-external-command-1g1k)
 <!-- BLOG-POST-LIST:END -->
 
 
