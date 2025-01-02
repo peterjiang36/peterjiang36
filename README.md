@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Meet TEEs: When Digital Minds Get Their Own Secret Bunkers](https://dev.to/therustfanatic/ai-agents-meet-tees-when-digital-minds-get-their-own-secret-bunkers-35hj)
-- [Creating Objects in JavaScript: Closures, Prototypes, and ES6 Classes](https://dev.to/francescoagati/creating-objects-in-javascript-closures-prototypes-and-es6-classes-4hmc)
-- [Python Tips to Make Your Code Shine! ✨](https://dev.to/iftakher_hossen/tips-for-writing-cleaner-python-code-4f9g)
-- [How to Set Up a Node.js API with TypeScript in 2025](https://dev.to/codeinitdev/how-to-set-up-a-nodejs-api-with-typescript-in-2025-208f)
+- [How to set up a Storyblok space with the Community Plan for local development](https://dev.to/robertobutti/how-to-set-up-a-storyblok-space-with-the-community-plan-for-local-development-1i37)
+- [Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
+- [Common Lisp HTML templates: using Djula in .lisp files](https://dev.to/vindarel/common-lisp-html-templates-using-djula-in-lisp-files-4e64)
+- [Kubernetes Network &lpar;5&rpar; -- Ingress and NodePort](https://dev.to/cheedge_lee/kubernetes-network-5-ingress-and-nodeport-329i)
 <!-- BLOG-POST-LIST:END -->
 
 
