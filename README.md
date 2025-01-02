@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up a Storyblok space with the Community Plan for local development](https://dev.to/robertobutti/how-to-set-up-a-storyblok-space-with-the-community-plan-for-local-development-1i37)
-- [Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
-- [Common Lisp HTML templates: using Djula in .lisp files](https://dev.to/vindarel/common-lisp-html-templates-using-djula-in-lisp-files-4e64)
-- [Kubernetes Network &lpar;5&rpar; -- Ingress and NodePort](https://dev.to/cheedge_lee/kubernetes-network-5-ingress-and-nodeport-329i)
+- [Orbit: A Journey Through the Solar System](https://dev.to/seifzellaban/orbit-a-journey-through-the-solar-system-1kbk)
+- [Integrating free Deepseek v3 API in a React.js Application](https://dev.to/andrew-atef/integrating-free-deepseek-v3-api-in-a-reactjs-application-43b2)
+- [Micro-Commits: Why You Should Do &#39;Em](https://dev.to/rodriveiga01/micro-commits-why-you-should-do-em-imp)
+- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/codeswithroh/compiling-2025-my-roadmap-for-the-year-ahead-4bp8)
 <!-- BLOG-POST-LIST:END -->
 
 
