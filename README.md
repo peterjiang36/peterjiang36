@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shaping the Future: Tech Trends and Predictions for 2025](https://dev.to/tjsyte/shaping-the-future-tech-trends-and-predictions-for-2025-3562)
-- [Stocks vs. ETFs: Key Differences and Investment Strategies](https://dev.to/cryptogem123/stocks-vs-etfs-key-differences-and-investment-strategies-4e0o)
-- [Reflecting on 2024 and Preparing for Growth in 2025](https://dev.to/tjsyte/reflecting-on-2024-and-preparing-for-growth-in-2025-44ce)
-- [Writting a GH extension with AI](https://dev.to/r0x0d/writting-a-gh-extension-with-ai-3if2)
+- [Ejemplo basico de aplicacion web para visualizacion de datos con Streamlit + Python](https://dev.to/andresguecha/ejemplo-basico-de-aplicacion-web-para-visualizacion-de-datos-con-streamlit-python-4oh7)
+- [Deploy NestJS and NextJS application in same server using pm2 and Nginx](https://dev.to/fahim_hasnainfahad_7e50d/deploy-nestjs-and-nextjs-application-in-same-server-using-pm2-and-nginx-1epg)
+- [Python o Spark, para el procesamiento de datos](https://dev.to/andresguecha/python-o-spark-para-el-procesamiento-de-datos-2mc6)
+- [Obfuscating “Hello world!” obfuscate on Python](https://dev.to/kevinmel2000/obfuscating-hello-world-obfuscate-on-python-16ll)
 <!-- BLOG-POST-LIST:END -->
 
 
