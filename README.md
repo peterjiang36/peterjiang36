@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Love the enthusiasm for this one. I think we need to do more writing challenges.](https://dev.to/ben/love-the-enthusiasm-for-this-one-i-think-we-need-to-do-more-writing-challenges-2b1o)
-- [Ubuntu Linux Commands Categorized](https://dev.to/harshm03/ubuntu-linux-commands-categorized-45ei)
-- [One-Click Chrome Extension: Change Your Background with Style &lpar;or Chaos&rpar;](https://dev.to/priyankt3i/one-click-chrome-extension-change-your-background-with-style-or-chaos-186k)
-- [From Chaos to Clarity: My Developer Workflow to Stay Organized and Focused On Tasks 🎯🧠](https://dev.to/g3nt/from-chaos-to-clarity-my-developer-workflow-to-stay-organized-and-focused-on-tasks-3cg2)
+- [Comandos Essenciais do Linux &lpar;Nv-2&rpar;](https://dev.to/davionrails/comandos-essenciais-do-linux-nv-2-5g6i)
+- [☃️ Jan 2, 2025: Top 40+ GitHub Finds – Highlighting Tools and Innovations for Developers](https://dev.to/gittech/jan-2-2025-top-40-github-finds-highlighting-tools-and-innovations-for-developers-3cc0)
+- [The benefits of using CDNs for managing AWS bandwidth and storage requirements effectively](https://dev.to/marufhossain/the-benefits-of-using-cdns-for-managing-aws-bandwidth-and-storage-requirements-effectively-14b9)
+- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
 <!-- BLOG-POST-LIST:END -->
 
 
