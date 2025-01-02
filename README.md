@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging 2024: Lessons, Challenges, and Achievements – A Reflective Journey](https://dev.to/rafiatou_okere_16004811b3/debugging-2024-lessons-challenges-and-achievements-a-reflective-journey-3dp0)
-- [How And Why The Developer-First Approach Is Changing The Observability Landscape](https://dev.to/metis/how-and-why-the-developer-first-approach-is-changing-the-observability-landscape-25j0)
-- [The Return of the Blog](https://dev.to/ericbl3/the-return-of-the-blog-3i1n)
-- [My 2024 &lpar;and 3rd year&rpar; as an AWS Community Builder](https://dev.to/aws-builders/my-2024-and-3rd-year-as-an-aws-community-builder-acn)
+- [Shaping the Future: Tech Trends and Predictions for 2025](https://dev.to/tjsyte/shaping-the-future-tech-trends-and-predictions-for-2025-3562)
+- [Stocks vs. ETFs: Key Differences and Investment Strategies](https://dev.to/cryptogem123/stocks-vs-etfs-key-differences-and-investment-strategies-4e0o)
+- [Reflecting on 2024 and Preparing for Growth in 2025](https://dev.to/tjsyte/reflecting-on-2024-and-preparing-for-growth-in-2025-44ce)
+- [Writting a GH extension with AI](https://dev.to/r0x0d/writting-a-gh-extension-with-ai-3if2)
 <!-- BLOG-POST-LIST:END -->
 
 
