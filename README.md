@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 18: Building Your Own AI - Advanced Topics: Quantum Machine Learning](https://dev.to/trixsec/part-18-building-your-own-ai-advanced-topics-quantum-machine-learning-13ep)
-- [🚀 Introducing Extendify: A Sleek Taskbar Enhancement Utility for Windows 🎉](https://dev.to/idris_jimoh/introducing-extendify-a-sleek-taskbar-enhancement-utility-for-windows-5h69)
-- [Rails Soft Delete &amp; Audit Logging Guide](https://dev.to/sulmanweb/rails-soft-delete-audit-logging-guide-4m2d)
-- [npm error &#39;node&#39; is not recognized as an internal or external command](https://dev.to/mibii/npm-error-node-is-not-recognized-as-an-internal-or-external-command-1g1k)
+- [Supercharge Your AI Applications: Building Custom Tools with Model Context Protocol](https://dev.to/adityak74/supercharge-your-ai-applications-building-custom-tools-with-model-context-protocol-241c)
+- [Cypress Debugging: How to Get Started](https://dev.to/ronika_kashyap/cypress-debugging-how-to-get-started-577k)
+- [Understanding `.m` and `.h` Files in iOS Development](https://dev.to/surhidamatya/understanding-m-and-h-files-in-ios-development-1h27)
+- [AI-Powered Scanner Makes Scientific Discovery 10x Faster by Intelligently Exploring Parameter Spaces](https://dev.to/mikeyoung44/ai-powered-scanner-makes-scientific-discovery-10x-faster-by-intelligently-exploring-parameter-spaces-3k15)
 <!-- BLOG-POST-LIST:END -->
 
 
