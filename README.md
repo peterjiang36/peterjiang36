@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 02 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-january-4f0b)
-- [The Future of Voting: Understanding Blockchain Technology in Electoral Systems](https://dev.to/hexadecimalsoftware/the-future-of-voting-understanding-blockchain-technology-in-electoral-systems-53a9)
-- [Should I learn Java or C++?Lets discuss!](https://dev.to/lindiwe09/should-i-learn-java-or-clets-discuss-100m)
-- [Best Practices for Writing Code in Tailwind CSS!](https://dev.to/hexa-home/best-practices-for-writing-code-in-tailwind-css-19lg)
+- [Top DevOps Tools for Infrastructure Automation in 2025](https://dev.to/env0/top-devops-tools-for-infrastructure-automation-in-2025-2o2o)
+- [How to Install DaVinci Resolve 19 &lpar;studio&rpar; on Linux Mint 22 with AMD Radeon Graphics Card with a Script fast 2025](https://dev.to/annietaylorchen/how-to-install-davinci-resolve-19-studio-on-linux-mint-22-with-amd-radeon-graphics-card-with-a-kd6)
+- [CSRF tokens in Nextjs](https://dev.to/andresdotsh/csrf-tokens-in-nextjs-3mlb)
+- [A monad is a monoid in the category of endofunctors...](https://dev.to/blackopsrepl/a-monad-is-a-monoid-in-the-category-of-endofunctors-47oi)
 <!-- BLOG-POST-LIST:END -->
 
 
