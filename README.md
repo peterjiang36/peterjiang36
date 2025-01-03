@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2270. Number of Ways to Split Array](https://dev.to/mdarifulhaque/2270-number-of-ways-to-split-array-4d5p)
-- [form](https://dev.to/eito/form-eoj)
-- [2025: When Computers Started Creating Things](https://dev.to/sachin_cloudhero/2025-when-computers-started-creating-things-1ndc)
-- [Understanding Java Iterators: A Deep Dive](https://dev.to/bharath_vasishtha/understanding-java-iterators-a-deep-dive-18kk)
+- [Follow fo rmore](https://dev.to/zartarcyber/follow-fo-rmore-l7g)
+- [Top Skills Every Robotics Engineer Needs in 2025](https://dev.to/thepeteleba/top-skills-every-robotics-engineer-needs-in-2025-5feo)
+- [10 Books That Will Transform Your Software Engineering in 2025](https://dev.to/proflead/10-books-that-will-transform-your-software-engineering-in-2025-3cjj)
+- [The Importance of Reading Documentation: A Lesson from Nvidia Drivers](https://dev.to/asheleyine/the-importance-of-reading-documentation-a-lesson-from-nvidia-drivers-41df)
 <!-- BLOG-POST-LIST:END -->
 
 
