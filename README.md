@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a Dustbin Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-dustbin-using-3d-cad-software-1acf)
-- [[Boost]](https://dev.to/venkatesh111/-4m0a)
-- [A Bite-Sized Journey into Kafka, Arrow, and Go](https://dev.to/copyleftdev/a-bite-sized-journey-into-kafka-arrow-and-go-35jd)
-- [Is AI failing? &lpar;Part 2&rpar;](https://dev.to/eddealmeidajr/is-ai-failing-part-2-234f)
+- [Between Coding And Changing Diapers 24 Hours Are Not Enough](https://dev.to/blarzhernandez/between-coding-and-changing-diapers-24-hours-are-not-enough-1p6n)
+- [New Fine Updates - Project Instructions &amp; More](https://dev.to/thisisfinedev/new-fine-updates-project-instructions-more-42f)
+- [Why LLMs Fall Short: Why Large Language Models Aren&#39;t Ideal for AI Agent Applications](https://dev.to/_aparna_pradhan_/why-llms-fall-short-why-large-language-models-arent-ideal-for-ai-agent-applications-3a55)
+- [Maintenance mode check in Next.js middleware.ts](https://dev.to/ramunarasinga-11/maintenance-mode-check-in-nextjs-middlewarets-5c7a)
 <!-- BLOG-POST-LIST:END -->
 
 
