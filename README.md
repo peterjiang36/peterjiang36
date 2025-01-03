@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Travel Experience with a Robust Air Ticket API Integration](https://dev.to/johnmiller/enhancing-travel-experience-with-a-robust-air-ticket-api-integration-2n7i)
-- [How React.js is Adapting to AI-Powered Frontend Development](https://dev.to/rigalpatel001/how-reactjs-is-adapting-to-ai-powered-frontend-development-4li)
-- [Building Scalable Event Processing with Fan-out Pattern using the Serverless Framework](https://dev.to/ideepaksharma/building-scalable-event-processing-with-fan-out-pattern-using-the-serverless-framework-1o9f)
-- [Top Open Source Projects to Watch in 2025](https://dev.to/jaysaadana/top-open-source-projects-to-watch-in-2025-4bem)
+- [Efficient Bulk Operations with UkrGuru.Sql](https://dev.to/ukrguru/efficient-bulk-operations-with-ukrgurusql-1gce)
+- [Integrating Google OAuth 2.0 with JWT in a Node.js + TypeScript App using Passport.js](https://dev.to/fatihguzel/integrating-google-oauth-20-with-jwt-in-a-nodejs-typescript-app-using-passportjs-3ij)
+- [The Rise of Generative AI: Transforming Content Creation in 2025](https://dev.to/digi_carotene_7542256a23b/the-rise-of-generative-ai-transforming-content-creation-in-2025-4kap)
+- [Best React Native IDEs and Editors in 2025](https://dev.to/nithya_iyer/best-react-native-ides-and-editors-in-2025-3p2j)
 <!-- BLOG-POST-LIST:END -->
 
 
