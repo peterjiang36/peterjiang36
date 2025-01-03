@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Subqueries](https://dev.to/ricardomtt/subqueries-kcm)
-- [Kafka vs rabbitmq](https://dev.to/lng_minhqun_66efb0ca2/kafka-vs-rabbitmq-11cj)
-- [使用自签证书在局域网部署 HTTPS 并让浏览器识别为『安全』](https://dev.to/axum/shi-yong-zi-qian-zheng-shu-zai-ju-yu-wang-bu-shu-https-bing-rang-liu-lan-qi-shi-bie-wei-an-quan--41j7)
-- [Exploring Mina Protocol zkApps with Auro Wallet](https://dev.to/ajtech0001/exploring-mina-protocol-zkapps-with-auro-wallet-517)
+- [Seamless SaaS Integration: Why Custom Development is Key](https://dev.to/duyhoabhsoft/seamless-saas-integration-why-custom-development-is-key-1e9k)
+- [What data can crawlers collect through HTTP proxy IP?](https://dev.to/98ip/what-data-can-crawlers-collect-through-http-proxy-ip-1boh)
+- [Understanding Bitcoin Halving: Impact on Price and Mining](https://dev.to/coinw/understanding-bitcoin-halving-impact-on-price-and-mining-12i4)
+- [Rust](https://dev.to/salilathalye/rust-22e8)
 <!-- BLOG-POST-LIST:END -->
 
 
