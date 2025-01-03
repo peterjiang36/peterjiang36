@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Windows PowerShell as Administrator With Elevated Rights!](https://dev.to/winsides/run-windows-powershell-as-administrator-with-elevated-rights-1bb1)
-- [Expanding Slider using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/expanding-slider-using-html-and-css-4aig)
-- [Giới thiệu về Class Diagram](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-class-diagram-c04)
-- [Tired of Overcomplicated React State Management? Try F-Box React!](https://dev.to/kentaromorishita/tired-of-overcomplicated-react-state-management-try-f-box-react-2bj5)
+- [K3D: Monitoring Your Service using Kubernetes Dashboard or Octant](https://dev.to/danielcristho/k3d-monitoring-your-service-using-kubernetes-dashboard-or-octant-23ef)
+- [Comprehensive Guide to Python Debugging Tools for Efficient Code Troubleshooting](https://dev.to/adityabhuyan/comprehensive-guide-to-python-debugging-tools-for-efficient-code-troubleshooting-47af)
+- [Revolutionizing Regression Testing with AI and Automation](https://dev.to/misterankit/revolutionizing-regression-testing-with-ai-and-automation-1586)
+- [Transform Your Workflow with AI Helper Bots for Maximum Productivity](https://dev.to/hitesh_umaletiya/transform-your-workflow-with-ai-helper-bots-for-maximum-productivity-jf7)
 <!-- BLOG-POST-LIST:END -->
 
 
