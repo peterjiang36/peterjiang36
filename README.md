@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel Stages with Declarative Pipeline in Jenkins CI/CD](https://dev.to/vandana_babshetti_91df8eb/parallel-stages-with-declarative-pipeline-in-jenkins-cicd-11fk)
-- [Memory Management: Operating System](https://dev.to/harshm03/memory-management-operating-system-37a8)
-- [Simplified Data Masking in AWS Lambda with Powertool](https://dev.to/aws-builders/simplified-data-masking-in-aws-lambda-with-powertool-468j)
-- [82/365 | ¥10M Job Challenge - Rest is for the sake of going further](https://dev.to/kameken100/82365-y10m-job-challenge-rest-is-for-the-sake-of-going-further-4559)
+- [js problem](https://dev.to/kishan45/js-problem-160)
+- [callback](https://dev.to/kishan45/callback-2g00)
+- [The Economics of Training Frontier Models](https://dev.to/shrsv/the-economics-of-training-frontier-models-31gk)
+- [WEDIDIT - an ngo that transforms lives and empower community](https://dev.to/susmita_bose/wedidit-an-ngo-that-transforms-lives-and-empower-community-27j3)
 <!-- BLOG-POST-LIST:END -->
 
 
