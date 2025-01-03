@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Houdini: The Browser&#39;s Secret Superpowers](https://dev.to/mukhilpadmanabhan/css-houdini-the-browsers-secret-superpowers-4b87)
-- [Tech Stack 2025](https://dev.to/khriztianmoreno/tech-stack-2025-3684)
-- [The Art of Iteration: Starting the Cycle](https://dev.to/arindam0310018/the-art-of-iteration-starting-the-cycle-1op)
-- [Entendendo os menus do Android Studio sobre limpeza e reconstrução de projeto](https://dev.to/douglasmartins7/entendendo-os-menus-do-android-studio-sobre-limpeza-e-reconstrucao-de-projeto-2nm3)
+- [Learning how to build AI agents in 2025](https://dev.to/victor_isaac_king/learning-how-to-build-ai-agents-in-2025-f4h)
+- [CKA Recap -- Ingress &amp; NetworkPolicy](https://dev.to/cheedge_lee/cka-recap-ingress-networkpolicy-2pc)
+- [About UriComponentsBuilder and UriComponents](https://dev.to/saladlam/about-uricomponentsbuilder-and-uricomponents-26f7)
+- [Monitor EBS Volume Health](https://dev.to/aws-builders/monitor-ebs-volume-health-45ib)
 <!-- BLOG-POST-LIST:END -->
 
 
