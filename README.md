@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your own Telegram bot on NodeJS with TypeScript, Telegraf and Fastify &lpar;Part 1&rpar;](https://dev.to/6akcuk/your-own-telegram-bot-on-nodejs-with-typescript-telegraf-and-fastify-part-1-4f3l)
-- [Struggling with Django&#39;s HTTPS development server issues? I have written a simple guide to expose your Django project securely using ngrok.](https://dev.to/davythedev/struggling-with-djangos-https-development-server-issues-i-have-written-a-simple-guide-to-397n)
-- [🔧 Why Most Notion Dashboards Fall Short &lpar;And How to Fix Yours&rpar;](https://dev.to/resource_bunk_1077cab07da/why-most-notion-dashboards-fall-short-and-how-to-fix-yours-55ko)
-- [Bot Evolution and the Future of AI: Opportunities and Challenges](https://dev.to/alex_ricciardi/bot-evolution-and-the-future-of-ai-opportunities-and-challenges-4g9g)
+- [Parallel Stages with Declarative Pipeline in Jenkins CI/CD](https://dev.to/vandana_babshetti_91df8eb/parallel-stages-with-declarative-pipeline-in-jenkins-cicd-11fk)
+- [Memory Management: Operating System](https://dev.to/harshm03/memory-management-operating-system-37a8)
+- [Simplified Data Masking in AWS Lambda with Powertool](https://dev.to/aws-builders/simplified-data-masking-in-aws-lambda-with-powertool-468j)
+- [82/365 | ¥10M Job Challenge - Rest is for the sake of going further](https://dev.to/kameken100/82365-y10m-job-challenge-rest-is-for-the-sake-of-going-further-4559)
 <!-- BLOG-POST-LIST:END -->
 
 
