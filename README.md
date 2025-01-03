@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Between Coding And Changing Diapers 24 Hours Are Not Enough](https://dev.to/blarzhernandez/between-coding-and-changing-diapers-24-hours-are-not-enough-1p6n)
-- [New Fine Updates - Project Instructions &amp; More](https://dev.to/thisisfinedev/new-fine-updates-project-instructions-more-42f)
-- [Why LLMs Fall Short: Why Large Language Models Aren&#39;t Ideal for AI Agent Applications](https://dev.to/_aparna_pradhan_/why-llms-fall-short-why-large-language-models-arent-ideal-for-ai-agent-applications-3a55)
-- [Maintenance mode check in Next.js middleware.ts](https://dev.to/ramunarasinga-11/maintenance-mode-check-in-nextjs-middlewarets-5c7a)
+- [Getting Cilium to work on Ubuntu Cloud Image](https://dev.to/hatr0/getting-cilium-to-work-on-ubuntu-cloud-image-3843)
+- [The Mina Ecosystem: Extensive Overview](https://dev.to/adam_opeyemi_9552ccf1eecd/the-mina-ecosystem-extensive-overview-e49)
+- [Transforming Retail Shelf Monitoring with AI-Powered Computer Vision](https://dev.to/chandrus/transforming-retail-shelf-monitoring-with-ai-powered-computer-vision-bhg)
+- [Why Regular Ruby Updates Are a Must for Your App](https://dev.to/railsup_sedin/why-regular-ruby-updates-are-a-must-for-your-app-g35)
 <!-- BLOG-POST-LIST:END -->
 
 
