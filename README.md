@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 03 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-january-23l4)
-- [The Power of Good Error Messages and Fixes in Development 🚀](https://dev.to/elvissautet/the-power-of-good-error-messages-and-fixes-in-development-4899)
-- [Docker 101: A Guide to Docker Commands, Terminologies &amp; Dockerfile](https://dev.to/yash_patil16/docker-101-a-guide-to-docker-commands-terminologies-dockerfile-3502)
-- [Getting started with Nix and Nix Flakes](https://dev.to/arnu515/getting-started-with-nix-and-nix-flakes-mml)
+- [Change a .Net Console application into an web application](https://dev.to/gaotter/change-a-net-console-application-into-an-web-application-2i2l)
+- [Top 5 Go Libraries Every Backend Developer Should Know](https://dev.to/siddheshk02/top-5-go-libraries-every-backend-developer-should-know-1nhn)
+- [Lección 1: Introducción a Python y su Instalación](https://dev.to/michidev/leccion-1-introduccion-a-python-y-su-instalacion-5c8f)
+- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
 <!-- BLOG-POST-LIST:END -->
 
 
