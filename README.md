@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Follow fo rmore](https://dev.to/zartarcyber/follow-fo-rmore-l7g)
-- [Top Skills Every Robotics Engineer Needs in 2025](https://dev.to/thepeteleba/top-skills-every-robotics-engineer-needs-in-2025-5feo)
-- [10 Books That Will Transform Your Software Engineering in 2025](https://dev.to/proflead/10-books-that-will-transform-your-software-engineering-in-2025-3cjj)
-- [The Importance of Reading Documentation: A Lesson from Nvidia Drivers](https://dev.to/asheleyine/the-importance-of-reading-documentation-a-lesson-from-nvidia-drivers-41df)
+- [Chatting with Websockets 101:](https://dev.to/alegendcodes/chatting-with-websockets-101-1767)
+- [How to Show Proof of Income: A Guide for the Self-Employed](https://dev.to/ignition_tax_5cd9ac658623/how-to-show-proof-of-income-a-guide-for-the-self-employed-44mo)
+- [&quot;Boost LLM Performance: Unleashing the Power of Distributed Mixture-of-Agents&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boost-llm-performance-unleashing-the-power-of-distributed-mixture-of-agents-d8m)
+- [Understanding Lossy and Lossless Image Compression Techniques](https://dev.to/anish21pgt/understanding-lossy-and-lossless-image-compression-techniques-4f19)
 <!-- BLOG-POST-LIST:END -->
 
 
