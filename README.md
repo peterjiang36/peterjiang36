@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [js problem](https://dev.to/kishan45/js-problem-160)
-- [callback](https://dev.to/kishan45/callback-2g00)
-- [The Economics of Training Frontier Models](https://dev.to/shrsv/the-economics-of-training-frontier-models-31gk)
-- [WEDIDIT - an ngo that transforms lives and empower community](https://dev.to/susmita_bose/wedidit-an-ngo-that-transforms-lives-and-empower-community-27j3)
+- [Self-hosting a Platform As A Service on a single EC2 instance with coolify](https://dev.to/sobowalebukola/self-hosting-a-platform-as-a-service-on-a-single-ec2-instance-with-coolify-17jn)
+- [2024 Reflection to Compiling My 2025 Roadmap](https://dev.to/mlloyd/2024-reflection-to-compiling-my-2025-roadmap-m7m)
+- [Understanding Vector Databases: A Beginner&#39;s Guide](https://dev.to/sebastiandevelops/understanding-vector-databases-a-beginners-guide-20nj)
+- [🔥 10 javaScript questions before you face rejection ❌](https://dev.to/jorjishasan/10-javascript-questions-before-you-face-rejection-1g3m)
 <!-- BLOG-POST-LIST:END -->
 
 
