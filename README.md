@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Change a .Net Console application into an web application](https://dev.to/gaotter/change-a-net-console-application-into-an-web-application-2i2l)
-- [Top 5 Go Libraries Every Backend Developer Should Know](https://dev.to/siddheshk02/top-5-go-libraries-every-backend-developer-should-know-1nhn)
-- [Lección 1: Introducción a Python y su Instalación](https://dev.to/michidev/leccion-1-introduccion-a-python-y-su-instalacion-5c8f)
-- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
+- [2270. Number of Ways to Split Array](https://dev.to/mdarifulhaque/2270-number-of-ways-to-split-array-4d5p)
+- [form](https://dev.to/eito/form-eoj)
+- [2025: When Computers Started Creating Things](https://dev.to/sachin_cloudhero/2025-when-computers-started-creating-things-1ndc)
+- [Understanding Java Iterators: A Deep Dive](https://dev.to/bharath_vasishtha/understanding-java-iterators-a-deep-dive-18kk)
 <!-- BLOG-POST-LIST:END -->
 
 
