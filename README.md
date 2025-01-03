@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatting with Websockets 101:](https://dev.to/alegendcodes/chatting-with-websockets-101-1767)
-- [How to Show Proof of Income: A Guide for the Self-Employed](https://dev.to/ignition_tax_5cd9ac658623/how-to-show-proof-of-income-a-guide-for-the-self-employed-44mo)
-- [&quot;Boost LLM Performance: Unleashing the Power of Distributed Mixture-of-Agents&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boost-llm-performance-unleashing-the-power-of-distributed-mixture-of-agents-d8m)
-- [Understanding Lossy and Lossless Image Compression Techniques](https://dev.to/anish21pgt/understanding-lossy-and-lossless-image-compression-techniques-4f19)
+- [Containerizing a Django Web Application: Serving Static Pages with Docker](https://dev.to/yash_patil16/containerizing-a-django-web-application-serving-static-pages-with-docker-3fbp)
+- [Networking: TCP Header explained](https://dev.to/annavi11arrea1/networking-tcp-header-explained-57k)
+- [Unlocking the Power of Hexagonal Architecture in Rails Development](https://dev.to/jetthoughts/unlocking-the-power-of-hexagonal-architecture-in-rails-development-1ehh)
+- [Infrastructure as Code with Terraform: A Beginner&#39;s Guide](https://dev.to/krisfernando6/infrastructure-as-code-with-terraform-a-beginners-guide-13af)
 <!-- BLOG-POST-LIST:END -->
 
 
