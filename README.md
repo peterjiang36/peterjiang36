@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Bulk Operations with UkrGuru.Sql](https://dev.to/ukrguru/efficient-bulk-operations-with-ukrgurusql-1gce)
-- [Integrating Google OAuth 2.0 with JWT in a Node.js + TypeScript App using Passport.js](https://dev.to/fatihguzel/integrating-google-oauth-20-with-jwt-in-a-nodejs-typescript-app-using-passportjs-3ij)
-- [The Rise of Generative AI: Transforming Content Creation in 2025](https://dev.to/digi_carotene_7542256a23b/the-rise-of-generative-ai-transforming-content-creation-in-2025-4kap)
-- [Best React Native IDEs and Editors in 2025](https://dev.to/nithya_iyer/best-react-native-ides-and-editors-in-2025-3p2j)
+- [🚀 Your Daily Crypto Job Digest For 03 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-january-23l4)
+- [The Power of Good Error Messages and Fixes in Development 🚀](https://dev.to/elvissautet/the-power-of-good-error-messages-and-fixes-in-development-4899)
+- [Docker 101: A Guide to Docker Commands, Terminologies &amp; Dockerfile](https://dev.to/yash_patil16/docker-101-a-guide-to-docker-commands-terminologies-dockerfile-3502)
+- [Getting started with Nix and Nix Flakes](https://dev.to/arnu515/getting-started-with-nix-and-nix-flakes-mml)
 <!-- BLOG-POST-LIST:END -->
 
 
