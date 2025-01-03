@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Out My New CV as a Full Stack .NET Developer!](https://dev.to/1hamzabek/check-out-my-new-cv-as-a-full-stack-net-developer-67o)
-- [The Annual Question: Bugs Caused by Week-Based Year Formatting in Java](https://dev.to/chen_debra_3060b21d12b1b0/the-annual-question-bugs-caused-by-week-based-year-formatting-in-java-845)
-- [The Role of Electronic Data Interchange &lpar;EDI&rpar; in Revolutionizing Healthcare Operations](https://dev.to/evelynwyatt/the-role-of-electronic-data-interchange-edi-in-revolutionizing-healthcare-operations-1926)
-- [Predicting 2025: A Comprehensive Vision for the Future of Tech](https://dev.to/trixsec/predicting-2025-a-comprehensive-vision-for-the-future-of-tech-1k1)
+- [Enhancing Travel Experience with a Robust Air Ticket API Integration](https://dev.to/johnmiller/enhancing-travel-experience-with-a-robust-air-ticket-api-integration-2n7i)
+- [How React.js is Adapting to AI-Powered Frontend Development](https://dev.to/rigalpatel001/how-reactjs-is-adapting-to-ai-powered-frontend-development-4li)
+- [Building Scalable Event Processing with Fan-out Pattern using the Serverless Framework](https://dev.to/ideepaksharma/building-scalable-event-processing-with-fan-out-pattern-using-the-serverless-framework-1o9f)
+- [Top Open Source Projects to Watch in 2025](https://dev.to/jaysaadana/top-open-source-projects-to-watch-in-2025-4bem)
 <!-- BLOG-POST-LIST:END -->
 
 
