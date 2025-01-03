@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerizing a Django Web Application: Serving Static Pages with Docker](https://dev.to/yash_patil16/containerizing-a-django-web-application-serving-static-pages-with-docker-3fbp)
-- [Networking: TCP Header explained](https://dev.to/annavi11arrea1/networking-tcp-header-explained-57k)
-- [Unlocking the Power of Hexagonal Architecture in Rails Development](https://dev.to/jetthoughts/unlocking-the-power-of-hexagonal-architecture-in-rails-development-1ehh)
-- [Infrastructure as Code with Terraform: A Beginner&#39;s Guide](https://dev.to/krisfernando6/infrastructure-as-code-with-terraform-a-beginners-guide-13af)
+- [Your own Telegram bot on NodeJS with TypeScript, Telegraf and Fastify &lpar;Part 1&rpar;](https://dev.to/6akcuk/your-own-telegram-bot-on-nodejs-with-typescript-telegraf-and-fastify-part-1-4f3l)
+- [Struggling with Django&#39;s HTTPS development server issues? I have written a simple guide to expose your Django project securely using ngrok.](https://dev.to/davythedev/struggling-with-djangos-https-development-server-issues-i-have-written-a-simple-guide-to-397n)
+- [🔧 Why Most Notion Dashboards Fall Short &lpar;And How to Fix Yours&rpar;](https://dev.to/resource_bunk_1077cab07da/why-most-notion-dashboards-fall-short-and-how-to-fix-yours-55ko)
+- [Bot Evolution and the Future of AI: Opportunities and Challenges](https://dev.to/alex_ricciardi/bot-evolution-and-the-future-of-ai-opportunities-and-challenges-4g9g)
 <!-- BLOG-POST-LIST:END -->
 
 
