@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Cilium to work on Ubuntu Cloud Image](https://dev.to/hatr0/getting-cilium-to-work-on-ubuntu-cloud-image-3843)
-- [The Mina Ecosystem: Extensive Overview](https://dev.to/adam_opeyemi_9552ccf1eecd/the-mina-ecosystem-extensive-overview-e49)
-- [Transforming Retail Shelf Monitoring with AI-Powered Computer Vision](https://dev.to/chandrus/transforming-retail-shelf-monitoring-with-ai-powered-computer-vision-bhg)
-- [Why Regular Ruby Updates Are a Must for Your App](https://dev.to/railsup_sedin/why-regular-ruby-updates-are-a-must-for-your-app-g35)
+- [Check Out My New CV as a Full Stack .NET Developer!](https://dev.to/1hamzabek/check-out-my-new-cv-as-a-full-stack-net-developer-67o)
+- [The Annual Question: Bugs Caused by Week-Based Year Formatting in Java](https://dev.to/chen_debra_3060b21d12b1b0/the-annual-question-bugs-caused-by-week-based-year-formatting-in-java-845)
+- [The Role of Electronic Data Interchange &lpar;EDI&rpar; in Revolutionizing Healthcare Operations](https://dev.to/evelynwyatt/the-role-of-electronic-data-interchange-edi-in-revolutionizing-healthcare-operations-1926)
+- [Predicting 2025: A Comprehensive Vision for the Future of Tech](https://dev.to/trixsec/predicting-2025-a-comprehensive-vision-for-the-future-of-tech-1k1)
 <!-- BLOG-POST-LIST:END -->
 
 
