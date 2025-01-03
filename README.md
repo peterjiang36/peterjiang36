@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaparainiciantes/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-28ge)
-- [Día 2/365. Cargo?](https://dev.to/rustarch/dia-2365-cargo-5ag)
-- [Private npm Repositories](https://dev.to/ernestohs/private-npm-repositories-5e48)
-- [Day 2 of My 2025 Coding Streak: Major Progress on Lyra](https://dev.to/winnerezy/day-2-of-my-2025-coding-streak-major-progress-on-lyra-5d2l)
+- [Subqueries](https://dev.to/ricardomtt/subqueries-kcm)
+- [Kafka vs rabbitmq](https://dev.to/lng_minhqun_66efb0ca2/kafka-vs-rabbitmq-11cj)
+- [使用自签证书在局域网部署 HTTPS 并让浏览器识别为『安全』](https://dev.to/axum/shi-yong-zi-qian-zheng-shu-zai-ju-yu-wang-bu-shu-https-bing-rang-liu-lan-qi-shi-bie-wei-an-quan--41j7)
+- [Exploring Mina Protocol zkApps with Auro Wallet](https://dev.to/ajtech0001/exploring-mina-protocol-zkapps-with-auro-wallet-517)
 <!-- BLOG-POST-LIST:END -->
 
 
