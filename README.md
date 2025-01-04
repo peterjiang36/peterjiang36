@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nguyên lý Low Coupling trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-low-coupling-trong-grasp-pattern-1732)
-- [The Most Reliable API for Forex Exchange Rate Data](https://dev.to/bradi/the-most-reliable-api-for-forex-exchange-rate-data-2510)
-- [Latest Newsletter: Blocked &lpar;Issue #197&rpar;](https://dev.to/mjgs/latest-newsletter-blocked-issue-197-2ck6)
-- [Building a Personalized Study Companion Using Amazon Bedrock](https://dev.to/omarsteam/building-a-personalized-study-companion-using-amazon-bedrock-2cpi)
+- [Building “Product Fetcher”: A Solopreneur’s Dive into Scraping, AI, and Automation](https://dev.to/nicolascdev/building-product-fetcher-a-solopreneurs-dive-into-scraping-ai-and-automation-2e6b)
+- [&quot;Revolutionizing Language Models: LEP and Its Impact on NLP Adaptation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-its-impact-on-nlp-adaptation-2k6n)
+- [How to write technical posts with Nebo](https://dev.to/alejandrogomezfrieiro/how-to-write-technical-posts-with-nebo-9a2)
+- [API Resource Management and Access Control](https://dev.to/aungkyawminn/api-resource-management-and-access-control-321a)
 <!-- BLOG-POST-LIST:END -->
 
 
