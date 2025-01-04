@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Destination Wedding Checklist: A Comprehensive Guide to Planning the Perfect Wedding Abroad](https://dev.to/briobella/destination-wedding-checklist-a-comprehensive-guide-to-planning-the-perfect-wedding-abroad-pmm)
-- [12 Essential AI Tools for Web Development to Boost Your Projects](https://dev.to/kafeel_ahmad/12-essential-ai-tools-for-web-development-to-boost-your-projects-hjg)
-- [5 Tips to Level Up Your Coding Skills](https://dev.to/shaik_mohammadfaarooq_bb/5-tips-to-level-up-your-coding-skills-1p78)
-- [Does front-end architecture exist?](https://dev.to/ourai/does-front-end-architecture-exist-2ndm)
+- [Nguyên lý Low Coupling trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-low-coupling-trong-grasp-pattern-1732)
+- [The Most Reliable API for Forex Exchange Rate Data](https://dev.to/bradi/the-most-reliable-api-for-forex-exchange-rate-data-2510)
+- [Latest Newsletter: Blocked &lpar;Issue #197&rpar;](https://dev.to/mjgs/latest-newsletter-blocked-issue-197-2ck6)
+- [Building a Personalized Study Companion Using Amazon Bedrock](https://dev.to/omarsteam/building-a-personalized-study-companion-using-amazon-bedrock-2cpi)
 <!-- BLOG-POST-LIST:END -->
 
 
