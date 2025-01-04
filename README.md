@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Retro 2024: Journey in review](https://dev.to/dhanushnehru/dev-retro-2024-journey-in-review-2i4d)
-- [Let&#39;s build website builder](https://dev.to/kiraaziz/lets-build-website-builder-2pl2)
-- [I Hate Website Builders – So I Built My Own](https://dev.to/kiraaziz/i-hate-website-builders-so-i-built-my-own-1728)
-- [TypeScript Channel like go](https://dev.to/bea91e/typescript-channel-like-go-12n3)
+- [🌱🐦](https://dev.to/codewithshahan/-k75)
+- [Breaking Barriers: How AI is Redefining Software Testing](https://dev.to/vaibhavkuls/breaking-barriers-how-ai-is-redefining-software-testing-2h6n)
+- [HTTP/2 Flow Control Deadlock](https://dev.to/samlighty/http2-flow-control-deadlock-jci)
+- [Using Cloudflare SSL with Elastic Beanstalk instances](https://dev.to/kkuj/using-cloudflare-ssl-with-elastic-beanstalk-instances-gf3)
 <!-- BLOG-POST-LIST:END -->
 
 
