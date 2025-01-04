@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 🌐 The Ultimate 20-Chapter Guide to Rust 🚀](https://dev.to/mega-tutorials-point/the-ultimate-20-chapter-guide-to-rust-4623)
-- [60 Advanced and Modern Ideas for an Impressive Portfolio Website🚀🌟](https://dev.to/hanzla-baig/60-advanced-and-modern-ideas-for-an-impressive-portfolio-website-56f8)
-- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/hanzla-baig/javascript-visualized-the-javascript-engine-36cc)
-- [The Future of AI: Building Next-Generation Chatbot Agents with Microsoft Copilot Studio](https://dev.to/emmanuel_adegor/the-future-of-ai-building-next-generation-chatbot-agents-with-microsoft-copilot-studio-c31)
+- [Effortless Multithreading in Flutter: Mastering Isolates Like a Pro](https://dev.to/michealgabriel/effortless-multithreading-in-flutter-mastering-isolates-like-a-pro-35b7)
+- [Simplifying JSON Validation with Ajv &lpar;Another JSON Validator&rpar;](https://dev.to/jajera/simplifying-json-validation-with-ajv-another-json-validator-53fh)
+- [Try Multimodal Search with ColQwen2!](https://dev.to/m_sea_bass/try-multimodal-search-with-colqwen2-4idj)
+- [API Resource Management &amp; Access Control Very Basic Concepts](https://dev.to/aungkyawminn/icrud-4e1d)
 <!-- BLOG-POST-LIST:END -->
 
 
