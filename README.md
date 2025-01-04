@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How does ChatGPT generate human-like text?](https://dev.to/ambrishgoswami80/how-does-chatgpt-generate-human-like-text-1dd)
-- [Your Journey to Web Development: A Beginner&#39;s Guide to Frontend Development](https://dev.to/prajwol_bakhati_968253020/your-journey-to-web-development-a-beginners-guide-to-frontend-development-1lop)
-- [Build an awesome developer portfolio website](https://dev.to/ambrishgoswami80/build-an-awesome-developer-portfolio-website-13d1)
-- [Data Transfer from S3 to Cloud Storage using GCP Storage Transfer Service](https://dev.to/ryankarlos/data-transfer-from-s3-to-cloud-storage-using-gcp-storage-transfer-service-25m)
+- [Context Caching vs RAG](https://dev.to/abhinowww/context-caching-vs-rag-3gag)
+- [OpenMP Data-Sharing Clauses: Differences Explained](https://dev.to/minwook/openmp-data-sharing-clauses-differences-explained-3fop)
+- [150+ FREE APIs Every Developer Needs to Know](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j)
+- [FREE: Password Generator ⚡ PRO &lpar;extension/add-on&rpar; + [source code]](https://dev.to/hanzla-baig/free-password-generator-pro-extensionadd-on-source-code-48gf)
 <!-- BLOG-POST-LIST:END -->
 
 
