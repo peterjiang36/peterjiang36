@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Workflows Across Jira, GitHub, and Slack](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automate-your-workflows-across-jira-github-and-slack-4iec)
-- [@blocz/react-responsive v4](https://dev.to/ayc0/bloczreact-responsive-v4-2j5i)
-- [What are the 5 best cloud encryption software options for Mac users in 2025?](https://dev.to/ariyan_shah_2ac3ba2bebb4b/what-are-the-5-best-cloud-encryption-software-options-for-mac-users-in-2025-76n)
-- [How to start with micro services ?](https://dev.to/fidsouza/how-to-start-with-micro-services--j22)
+- [&quot;Why I Don’t Have a Portfolio&quot;](https://dev.to/elvissautet/why-i-dont-have-a-portfolio-3h94)
+- [Find all anagrams in the string[Fixed Window pattern]](https://dev.to/prashantrmishra/find-all-anagrams-in-the-stringfixed-window-pattern-2cf0)
+- [Everything You Need to Know About AWS S3 for Cloud Storage](https://dev.to/souhailsegni/everything-you-need-to-know-about-aws-s3-for-cloud-storage-3032)
+- [Why is GRC Important in 2025?](https://dev.to/andreyana_michael/why-is-grc-important-in-2025-10gi)
 <!-- BLOG-POST-LIST:END -->
 
 
