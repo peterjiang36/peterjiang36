@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Multithreading in Flutter: Mastering Isolates Like a Pro](https://dev.to/michealgabriel/effortless-multithreading-in-flutter-mastering-isolates-like-a-pro-35b7)
-- [Simplifying JSON Validation with Ajv &lpar;Another JSON Validator&rpar;](https://dev.to/jajera/simplifying-json-validation-with-ajv-another-json-validator-53fh)
-- [Try Multimodal Search with ColQwen2!](https://dev.to/m_sea_bass/try-multimodal-search-with-colqwen2-4idj)
-- [API Resource Management &amp; Access Control Very Basic Concepts](https://dev.to/aungkyawminn/icrud-4e1d)
+- [How does ChatGPT generate human-like text?](https://dev.to/ambrishgoswami80/how-does-chatgpt-generate-human-like-text-1dd)
+- [Your Journey to Web Development: A Beginner&#39;s Guide to Frontend Development](https://dev.to/prajwol_bakhati_968253020/your-journey-to-web-development-a-beginners-guide-to-frontend-development-1lop)
+- [Build an awesome developer portfolio website](https://dev.to/ambrishgoswami80/build-an-awesome-developer-portfolio-website-13d1)
+- [Data Transfer from S3 to Cloud Storage using GCP Storage Transfer Service](https://dev.to/ryankarlos/data-transfer-from-s3-to-cloud-storage-using-gcp-storage-transfer-service-25m)
 <!-- BLOG-POST-LIST:END -->
 
 
