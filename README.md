@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning how to build AI agents in 2025](https://dev.to/victor_isaac_king/learning-how-to-build-ai-agents-in-2025-f4h)
-- [CKA Recap -- Ingress &amp; NetworkPolicy](https://dev.to/cheedge_lee/cka-recap-ingress-networkpolicy-2pc)
-- [About UriComponentsBuilder and UriComponents](https://dev.to/saladlam/about-uricomponentsbuilder-and-uricomponents-26f7)
-- [Monitor EBS Volume Health](https://dev.to/aws-builders/monitor-ebs-volume-health-45ib)
+- [The Future of AI: Building Next-Generation Chatbot Agents with Microsoft Copilot Studio](https://dev.to/emmanuel_adegor/the-future-of-ai-building-next-generation-chatbot-agents-with-microsoft-copilot-studio-c31)
+- [El origen de la historia](https://dev.to/juanmiguelar/el-origen-de-la-historia-1n4p)
+- [AI in Cybersecurity: When Robots Guard Your Wi-Fi ????️????](https://dev.to/aniruddhaadak/ai-in-cybersecurity-when-robots-guard-your-wi-fi--3dli)
+- [Depurando mi 2024: Una Retrospectiva de Desarrollador](https://dev.to/julio_andresmiguel_a499a/depurando-mi-2024-una-retrospectiva-de-desarrollador-56a1)
 <!-- BLOG-POST-LIST:END -->
 
 
