@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Kubernetes Operators: A Guide to Extending Your Cluster’s Capabilities](https://dev.to/hexadecimalsoftware/mastering-kubernetes-operators-a-guide-to-extending-your-clusters-capabilities-1f5i)
-- [Mô tả tổng quan](https://dev.to/hcmute_project_988df1c63c/mo-ta-tong-quan-2g8k)
-- [Security as the foundation of digital sovereignty](https://dev.to/aws-builders/security-as-the-foundation-of-digital-sovereignty-10cp)
-- [2024 through the eyes of a Student](https://dev.to/subinshk/2024-through-the-eyes-of-a-student-4j1e)
+- [Automate Your Workflows Across Jira, GitHub, and Slack](https://dev.to/pravesh_sudha_3c2b0c2b5e0/automate-your-workflows-across-jira-github-and-slack-4iec)
+- [@blocz/react-responsive v4](https://dev.to/ayc0/bloczreact-responsive-v4-2j5i)
+- [What are the 5 best cloud encryption software options for Mac users in 2025?](https://dev.to/ariyan_shah_2ac3ba2bebb4b/what-are-the-5-best-cloud-encryption-software-options-for-mac-users-in-2025-76n)
+- [How to start with micro services ?](https://dev.to/fidsouza/how-to-start-with-micro-services--j22)
 <!-- BLOG-POST-LIST:END -->
 
 
