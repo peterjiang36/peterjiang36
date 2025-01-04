@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize and Monitor Power Apps Like a Pro with Application Insights](https://dev.to/seenakhan/optimize-and-monitor-power-apps-like-a-pro-with-application-insights-20k3)
-- [My Journey Deploying an API: From Novice to Docker Enthusiast](https://dev.to/anadudev/my-journey-deploying-an-api-from-novice-to-docker-enthusiast-1037)
-- [🚀 10 JavaScript Tricks Every Developer Should Know](https://dev.to/fares_mohamed/10-javascript-tricks-every-developer-should-know-254p)
-- [11 Easy HTML, CSS, and JavaScript Projects for Beginners](https://dev.to/manasi_patil_/11-easy-html-css-and-javascript-projects-for-beginners-4889)
+- [Mastering Kubernetes Operators: A Guide to Extending Your Cluster’s Capabilities](https://dev.to/hexadecimalsoftware/mastering-kubernetes-operators-a-guide-to-extending-your-clusters-capabilities-1f5i)
+- [Mô tả tổng quan](https://dev.to/hcmute_project_988df1c63c/mo-ta-tong-quan-2g8k)
+- [Security as the foundation of digital sovereignty](https://dev.to/aws-builders/security-as-the-foundation-of-digital-sovereignty-10cp)
+- [2024 through the eyes of a Student](https://dev.to/subinshk/2024-through-the-eyes-of-a-student-4j1e)
 <!-- BLOG-POST-LIST:END -->
 
 
