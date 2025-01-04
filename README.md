@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱🐦](https://dev.to/codewithshahan/-k75)
-- [Breaking Barriers: How AI is Redefining Software Testing](https://dev.to/vaibhavkuls/breaking-barriers-how-ai-is-redefining-software-testing-2h6n)
-- [HTTP/2 Flow Control Deadlock](https://dev.to/samlighty/http2-flow-control-deadlock-jci)
-- [Using Cloudflare SSL with Elastic Beanstalk instances](https://dev.to/kkuj/using-cloudflare-ssl-with-elastic-beanstalk-instances-gf3)
+- [Building Smarter, Smaller and Efficient AI Models: NVIDIA’s Minitron Approach](https://dev.to/bakar31/building-smarter-smaller-ai-models-nvidias-minitron-approach-10i7)
+- [Simplifying CRUD Operations Using Primary Constructors for Dependency Injection with Generic Interfaces](https://dev.to/aravindhasamy/simplifying-crud-operations-using-primary-constructors-for-dependency-injection-with-generic-1hm8)
+- [SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud &amp; Kaggle — Generate 2048x2048 Images](https://dev.to/furkangozukara/sana-ultra-hd-fast-text-to-image-model-from-nvidia-step-by-step-tutorial-on-windows-cloud--1l2o)
+- [&quot;My First Week in DevOps with Python, Git, and Key Automation Tools&quot;](https://dev.to/prakash_baria_38a80ea60f1/my-first-week-in-devops-with-python-git-and-key-automation-tools-5b0f)
 <!-- BLOG-POST-LIST:END -->
 
 
