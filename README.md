@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with AI Agents: Revolutionizing WeDance Development 🚀](https://dev.to/razbakov/my-journey-with-ai-agents-revolutionizing-wedance-development-5a5)
-- [Introducing My UI Components &amp; Templates App: Feedback Wanted! 🚀](https://dev.to/akanji/introducing-my-ui-components-templates-app-feedback-wanted-216b)
-- [How To Use Javascript To Secure Your WordPress Website](https://dev.to/bkthemes/how-to-use-javascript-to-secure-your-wordpress-website-2h6m)
-- [Debugging C# Code Like a Pro](https://dev.to/vandana_babshetti_91df8eb/debugging-c-code-like-a-pro-275n)
+- [First Steps in C++: An Introductory Capstone Project](https://dev.to/josemariairiarte/first-steps-with-c-an-introductory-capstone-project-455k)
+- [Front end development in a AI era!](https://dev.to/youneshajizadeh/front-end-development-in-a-ai-era-m4h)
+- [Building a Login Component with SSR Support Using Solid.js](https://dev.to/lovestaco/building-a-login-component-with-ssr-support-using-solidjs-15oj)
+- [Teaching Africa through AI, one language at a time](https://dev.to/ndiaga/teaching-africa-through-ai-one-language-at-a-time-2dch)
 <!-- BLOG-POST-LIST:END -->
 
 
