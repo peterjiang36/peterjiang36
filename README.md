@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Advanced Techniques to Improve Automated Testing by 50%](https://dev.to/eunit/five-advanced-techniques-to-improve-automated-testing-by-50-ccf)
-- [Rust registry error &quot;candidate versions found which didn&#39;t match&quot;](https://dev.to/pahlavaubivca/rust-registry-error-candidate-versions-found-which-didnt-match-206p)
-- [2024, A year of resilience, learning, and growth.](https://dev.to/makechi02/2024-a-year-of-resilience-learning-and-growth-5h3d)
-- [Part 2: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-2-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-ch)
+- [Why Dashboards Fail](https://dev.to/amoakomensa/why-dashboards-fail-2n54)
+- [Color Highlighting for Tailwind CSS Variables in VS Code](https://dev.to/franciscomoretti/color-highlighting-for-tailwind-css-variables-in-vs-code-371n)
+- [Laravel route alternatives](https://dev.to/xwero/laravel-route-alternatives-53pl)
+- [Go&#39;s &#39;Must&#39; Pattern: Streamline Your Error Handling](https://dev.to/dubjay18/gos-must-pattern-streamline-your-error-handling-27ff)
 <!-- BLOG-POST-LIST:END -->
 
 
