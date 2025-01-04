@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Terraform on Ubuntu](https://dev.to/nodeshiftcloud/how-to-install-terraform-on-ubuntu-9ba)
-- [Building a Multi-LLM Profanity Detector in C# using StepWise](https://dev.to/littlelittlecloud/building-a-multi-llm-profanity-detector-in-c-using-stepwise-1p8m)
-- [🌱 Building [clean] reusable React components](https://dev.to/codewithshahan/building-clean-reusable-react-components-241l)
-- [The 3 Habits of Highly Effective Programmers](https://dev.to/fares_mohamed/the-3-habits-of-highly-effective-programmers-19bp)
+- [Dev Retro 2024: Journey in review](https://dev.to/dhanushnehru/dev-retro-2024-journey-in-review-2i4d)
+- [Let&#39;s build website builder](https://dev.to/kiraaziz/lets-build-website-builder-2pl2)
+- [I Hate Website Builders – So I Built My Own](https://dev.to/kiraaziz/i-hate-website-builders-so-i-built-my-own-1728)
+- [TypeScript Channel like go](https://dev.to/bea91e/typescript-channel-like-go-12n3)
 <!-- BLOG-POST-LIST:END -->
 
 
