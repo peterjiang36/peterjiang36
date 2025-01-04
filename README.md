@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [First Steps in C++: An Introductory Capstone Project](https://dev.to/josemariairiarte/first-steps-with-c-an-introductory-capstone-project-455k)
-- [Front end development in a AI era!](https://dev.to/youneshajizadeh/front-end-development-in-a-ai-era-m4h)
-- [Building a Login Component with SSR Support Using Solid.js](https://dev.to/lovestaco/building-a-login-component-with-ssr-support-using-solidjs-15oj)
-- [Teaching Africa through AI, one language at a time](https://dev.to/ndiaga/teaching-africa-through-ai-one-language-at-a-time-2dch)
+- [Five Advanced Techniques to Improve Automated Testing by 50%](https://dev.to/eunit/five-advanced-techniques-to-improve-automated-testing-by-50-ccf)
+- [Rust registry error &quot;candidate versions found which didn&#39;t match&quot;](https://dev.to/pahlavaubivca/rust-registry-error-candidate-versions-found-which-didnt-match-206p)
+- [2024, A year of resilience, learning, and growth.](https://dev.to/makechi02/2024-a-year-of-resilience-learning-and-growth-5h3d)
+- [Part 2: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-2-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-ch)
 <!-- BLOG-POST-LIST:END -->
 
 
