@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mystery of Missing Persons in the U.S.: Data, Context, and Speculation](https://dev.to/triple7/the-mystery-of-missing-persons-in-the-us-data-context-and-speculation-5ad9)
-- [Thought process on the way of creating an event loop in Go for a Redis Server](https://dev.to/nicksolante/thought-process-on-the-way-of-creating-an-event-loop-in-go-for-a-redis-server-29nf)
-- [Learn how to create a search input with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-search-input-with-tailwind-css-and-javascript-1gcd)
-- [&quot;Revolutionizing AR Collaboration: Explore the SARA Architecture Today!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-ar-collaboration-explore-the-sara-architecture-today-1181)
+- [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
+- [List.of&lpar;&rpar; vs Arrays.asList&lpar;&rpar; in java](https://dev.to/realnamehidden1_61/listof-vs-arraysaslist-in-java-2jlg)
+- [@PreConstruct and @PostConstruct annotation Spring Boot Example](https://dev.to/realnamehidden1_61/preconstruct-and-postconstruct-annotation-spring-boot-example-4a66)
+- [What are Sprunki Games?](https://dev.to/recondart/what-are-sprunki-games-55po)
 <!-- BLOG-POST-LIST:END -->
 
 
