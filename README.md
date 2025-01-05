@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Simplifying Sequelize Migrations: Meet sequelize-migration-builder](https://dev.to/shubhamy4ever/simplifying-sequelize-migrations-meet-sequelize-migration-builder-e3l)
-- [Unleash the Groove: How to Give GPT a Funky Personality!](https://dev.to/hdenizd/unleash-the-groove-how-to-give-gpt-a-funky-personality-4dk9)
-- [Lua as your favorite Programming Language](https://dev.to/if-els/lua-as-your-favorite-programming-language-2j92)
-- [The Web4 Revolution and the Future of Digital Identity with UI4](https://dev.to/web4/the-web4-revolution-and-the-future-of-digital-identity-with-ui4-4knl)
+- [OTP Authentication: The Passwordless Superhero of Your App! 🦸‍♂️✨](https://dev.to/akshitzatakia/otp-authentication-the-passwordless-superhero-of-your-app-1pih)
+- [Proposal-1](https://dev.to/napattnpp/proposal-1-3i14)
+- [Exploring the AWS Journey Understanding Amazon EBS &lpar;Elastic Block Store&rpar;](https://dev.to/aws-builders/exploring-the-aws-journey-understanding-amazon-ebs-elastic-block-store-42pl)
+- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://dev.to/tural_hasanov_11/permission-based-authentication-and-authorization-in-net-via-cookies-47fh)
 <!-- BLOG-POST-LIST:END -->
 
 
