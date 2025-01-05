@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Eloquent ORM in Bangla Part-2 &lpar;Eloquent Model Conventions&rpar;](https://dev.to/sontus/laravel-eloquent-orm-in-bangla-part-2-eloquent-model-conventions-1jle)
-- [Content Manipulation](https://dev.to/aninooo/content-manipulation-cheatsheet-153d)
-- [Path Manipulation in Laravel: Secure Your App from Vulnerabilities](https://dev.to/pentest_testing_corp/path-manipulation-in-laravel-secure-your-app-from-vulnerabilities-241a)
-- [Hello, World!](https://dev.to/manthan_khawse_0c937c4bf4/hello-world-2d7n)
+- [OpenTofu module for spoke VPC with TGW](https://dev.to/cyber_gavin_038a51f0d5c30/opentofu-module-for-spoke-vpc-with-tgw-4k6a)
+- [My Journey as a React Developer Intern at The Entrepreneurship Network](https://dev.to/utkarshk/my-journey-as-a-react-developer-intern-at-the-entrepreneurship-network-14bc)
+- [Case Study: How Automation Saved Membership Management at IronCore Fitness](https://dev.to/damilare_abogunrin/case-study-how-automation-saved-membership-management-at-ironcore-fitness-3kb3)
+- [Case Study: How Automation Revolutionized Class Scheduling for a Fitness Studio](https://dev.to/damilare_abogunrin/case-study-how-automation-revolutionized-class-scheduling-for-a-fitness-studio-ag8)
 <!-- BLOG-POST-LIST:END -->
 
 
