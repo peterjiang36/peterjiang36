@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OTP Authentication: The Passwordless Superhero of Your App! 🦸‍♂️✨](https://dev.to/akshitzatakia/otp-authentication-the-passwordless-superhero-of-your-app-1pih)
-- [Proposal-1](https://dev.to/napattnpp/proposal-1-3i14)
-- [Exploring the AWS Journey Understanding Amazon EBS &lpar;Elastic Block Store&rpar;](https://dev.to/aws-builders/exploring-the-aws-journey-understanding-amazon-ebs-elastic-block-store-42pl)
-- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://dev.to/tural_hasanov_11/permission-based-authentication-and-authorization-in-net-via-cookies-47fh)
+- [Tracing a method call in Ruby](https://dev.to/wetterkrank/tracing-a-method-call-1dgd)
+- [🚀 Understanding Event-Driven Architecture: A Guide for Backend Developers 🛠️](https://dev.to/hamzakhan/understanding-event-driven-architecture-a-guide-for-backend-developers-3bne)
+- [The Impact of Infrastructure Automation part 1](https://dev.to/574n13y/the-impact-of-infrastructure-automation-2n24)
+- [Dev Next a job platform built with Next.js, Tailwind CSS, Prisma, and NextAuth](https://dev.to/saidmounaim/dev-next-a-job-platform-built-with-nextjs-tailwind-css-prisma-and-nextauth-4ni7)
 <!-- BLOG-POST-LIST:END -->
 
 
