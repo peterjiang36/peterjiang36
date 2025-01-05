@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI-Powered Coding Assistants: How They&#39;re Changing Development in 2025](https://dev.to/rayan2228/the-rise-of-ai-powered-coding-assistants-how-theyre-changing-development-in-2025-5dhj)
-- [Día 4/365. Tipos de datos en Rust: Escalares y compuestos.](https://dev.to/rustarch/dia-4365-tipos-de-datos-en-rust-escalares-y-compuestos-3k11)
-- [Stop Coding Alone: A Wake-up Call.](https://dev.to/zipqt/stop-coding-alone-a-wake-up-call-16p5)
-- [Instalação do RKE2 em HA](https://dev.to/gutobrutus/instalacao-do-rke2-em-ha-1968)
+- [Laravel Eloquent ORM in Bangla Part-2 &lpar;Eloquent Model Conventions&rpar;](https://dev.to/sontus/laravel-eloquent-orm-in-bangla-part-2-eloquent-model-conventions-1jle)
+- [Content Manipulation](https://dev.to/aninooo/content-manipulation-cheatsheet-153d)
+- [Path Manipulation in Laravel: Secure Your App from Vulnerabilities](https://dev.to/pentest_testing_corp/path-manipulation-in-laravel-secure-your-app-from-vulnerabilities-241a)
+- [Hello, World!](https://dev.to/manthan_khawse_0c937c4bf4/hello-world-2d7n)
 <!-- BLOG-POST-LIST:END -->
 
 
