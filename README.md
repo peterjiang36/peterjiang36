@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy an Express.js API on Vercel 🚀](https://dev.to/hajith_m/deploy-an-expressjs-api-on-vercel-173m)
-- [Deploying Taipy app in Render](https://dev.to/david001/deploying-taipy-app-in-render-56pf)
-- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3afg)
-- [The GOAT Ruby on Rails 8 is here - What&#39;s new?](https://dev.to/railsfactory/the-goat-ruby-on-rails-8-is-here-whats-new-449h)
+- [Lessons Learned from Implementing OAuth and Preparing for a Feature Release](https://dev.to/lovestaco/lessons-learned-from-implementing-oauth-and-preparing-for-a-feature-release-1c42)
+- [https://dev.to/oz/application-architecture-for-angular-project-4m0](https://dev.to/asdaian/httpsdevtoozapplication-architecture-for-angular-project-4m0-6cp)
+- [Managing Relationships, Migrations, and Performance Optimization in ASP.NET Core MVC](https://dev.to/sardarmudassaralikhan/managing-relationships-migrations-and-performance-optimization-in-aspnet-core-mvc-1pg)
+- [Starting with semver `1.0.0`](https://dev.to/tsweb/always-start-with-semver-100-43i9)
 <!-- BLOG-POST-LIST:END -->
 
 
