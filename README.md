@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [https://dev.to/hanzla-baig/full-stack-developers-roadmap-dch](https://dev.to/hanzla-baig/httpsdevtohanzla-baigfull-stack-developers-roadmap-dch-40jg)
-- [Navigating Disaster Recovery in the Digital Age: Choosing the Right Approach – Part 1](https://dev.to/yaddah/navigating-disaster-recovery-in-the-digital-age-choosing-the-right-approach-part-1-4cn4)
-- [Understanding the XOR Operator: A Powerful Tool in Computing](https://dev.to/mspilari/understanding-the-xor-operator-a-powerful-tool-in-computing-1517)
-- [Stop Using Local State for Filters — Here is why](https://dev.to/stephengade/stop-using-local-state-for-filters-here-is-why-5hgd)
+- [Stop sharing your screen, start sharing your website](https://dev.to/afonsocrg/stop-sharing-your-screen-start-sharing-your-website-1780)
+- [Reasons Why Developers Hate Your Docs](https://dev.to/goodylili/reasons-why-developers-hate-your-docs-52ge)
+- [HTML Syntax](https://dev.to/mrowe178566/html-syntax-fo1)
+- [Understanding the Spring Framework: A Developer’s Journey to Clean Code 🚀](https://dev.to/kaweeshamr/understanding-the-spring-framework-a-developers-journey-to-clean-code-39de)
 <!-- BLOG-POST-LIST:END -->
 
 
