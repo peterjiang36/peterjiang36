@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [👺 30 Must-Read GitHub Articles and Tools for January 2025](https://dev.to/dev-resources/30-must-read-github-articles-and-tools-for-january-2025-28j0)
-- [JavaScript Frameworks - Heading into 2025](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2025-hkb)
-- [🚀 Your Go-To List of 25 Swift Tools and Libraries for Any Project](https://dev.to/0x3d_site/your-go-to-list-of-25-swift-tools-and-libraries-for-any-project-9i8)
-- [Building a Weather Dashboard with Docker and AWS S3](https://dev.to/mayhrem/building-a-weather-dashboard-with-docker-and-aws-s3-26km)
+- [Building an AI-Driven Penetration Testing Tool.](https://dev.to/profm0r1arty/building-an-ai-driven-penetration-testing-tool-1o2n)
+- [Learning some Fantomas AST](https://dev.to/jkone27/learning-some-fantomas-ast-2e5i)
+- [Java Can Be Serverless Too: Using GraalVM for Fast Cold Starts](https://dev.to/gruxer/java-can-be-serverless-too-using-graalvm-for-fast-cold-starts-2gd4)
+- [After my brother&#39;s death due to a sudden heart attack, Baba asked my sister-in-law to marry my elder brother, but my sister-in-law worried about me, because I was young, I immediately refused, but still the marriage was arranged. I hated my sister-in-law,](https://dev.to/quiz_niva_685bc49a3c06d75/after-my-brothers-death-due-to-a-sudden-heart-attack-baba-asked-my-sister-in-law-to-marry-my-2a1d)
 <!-- BLOG-POST-LIST:END -->
 
 
