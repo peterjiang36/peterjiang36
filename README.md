@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker : Release Notes for v1.9.0](https://dev.to/apimaker/api-maker-release-notes-for-v190-1dli)
-- [10/10. Would Route Again!](https://dev.to/mike-vincent/1010-would-route-again-4dpe)
-- [&quot;From Networks to Cloud Computing: My Tech Journey&quot;](https://dev.to/phenomena_ekuss_c2bd80894/from-networks-to-cloud-computing-my-tech-journey-2fhd)
-- [Building Robust Web Automation with Selenium and Python](https://dev.to/fastapplyai/building-robust-web-automation-with-selenium-and-python-4lhp)
+- [[Boost]](https://dev.to/leonardorafaeldev/-1l03)
+- [Install Redis Locally in Windows](https://dev.to/sachingeek/install-redis-locally-in-windows-50mk)
+- [🧩 Bit-Packing: The Secret to Optimizing Data Storage and Transmission](https://dev.to/madhav_baby_giraffe/bit-packing-the-secret-to-optimizing-data-storage-and-transmission-m70)
+- [The New Generation of Programming: Embracing the Future](https://dev.to/aditya_pande/the-new-generation-of-programming-embracing-the-future-5hnm)
 <!-- BLOG-POST-LIST:END -->
 
 
