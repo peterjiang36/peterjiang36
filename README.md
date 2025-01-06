@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/leonardorafaeldev/-1l03)
-- [Install Redis Locally in Windows](https://dev.to/sachingeek/install-redis-locally-in-windows-50mk)
-- [🧩 Bit-Packing: The Secret to Optimizing Data Storage and Transmission](https://dev.to/madhav_baby_giraffe/bit-packing-the-secret-to-optimizing-data-storage-and-transmission-m70)
-- [The New Generation of Programming: Embracing the Future](https://dev.to/aditya_pande/the-new-generation-of-programming-embracing-the-future-5hnm)
+- [Productivity and Organization Tips for Software Engineers](https://dev.to/thawkin3/productivity-and-organization-tips-for-software-engineers-31ij)
+- [Building a multi-lingual web app with Nuxt 3 and Nuxt i18n](https://dev.to/logrocket/building-a-multi-lingual-web-app-with-nuxt-3-and-nuxt-i18n-7f2)
+- [Importando certificado SSL no cacerts, via KeyStore Explorer](https://dev.to/geekcom/importando-certificado-ssl-no-cacerts-via-keystore-explorer-3a64)
+- [Introducing Supabase Client Playground: The Ultimate Tool for Streamlined Query Testing](https://dev.to/ismaeljtl/introducing-supabase-client-playground-the-ultimate-tool-for-streamlined-query-testing-5efd)
 <!-- BLOG-POST-LIST:END -->
 
 
