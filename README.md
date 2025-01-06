@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is The AWS Community Builders Program And How To Apply](https://dev.to/aws-builders/what-is-the-aws-community-builders-program-and-how-to-apply-10k2)
-- [The Unsung Hero of DevOps AWS X-Ray](https://dev.to/ajtomala/the-unsung-hero-of-devops-aws-x-ray-4bm0)
-- [How to order attributes on HTML elements](https://dev.to/railsdesigner/how-to-order-attributes-on-html-elements-4mo7)
-- [Introduction to Django Authentication: Understanding the Core Components and Benefits](https://dev.to/mohbohlahji/introduction-to-django-authentication-understanding-the-core-components-and-benefits-4ahl)
+- [Día 6/365. Control de flujo: if, else, y expresiones.](https://dev.to/rustarch/dia-6365-control-de-flujo-if-else-y-expresiones-37d4)
+- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-734)
+- [Running PostgreSQL, MongoDB, and NestJS concurrently with Docker Compose](https://dev.to/javascriptar/running-postgresql-mongodb-and-nestjs-concurrently-with-docker-compose-d6g)
+- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
 <!-- BLOG-POST-LIST:END -->
 
 
