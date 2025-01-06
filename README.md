@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned building vue3-search-select package](https://dev.to/adetolaaremu/what-i-learned-building-vue3-search-select-package-5pd)
-- [Unlock Laravel Code Generation &lpar;Part 3&rpar;: Automating Validation from Your Database Schema 🤯🚀](https://dev.to/adriancolom/unlock-laravel-code-generation-part-3-automating-validation-from-your-database-schema-2fk8)
-- [Enhance Your Keyboard Knowledge with the &quot;Keyboard Check&quot; App](https://dev.to/safdarali25/enhance-your-keyboard-knowledge-with-the-keyboard-check-app-1d6j)
-- [How to Create an Amazing Auto Text Typing Effect with HTML, CSS &amp; JavaScript](https://dev.to/sharathchandark/how-to-create-an-amazing-auto-text-typing-effect-with-html-css-javascript-2pd)
+- [LINQ First and FirstOrDefault Methods in C#](https://dev.to/dianaiminza/linq-first-and-firstordefault-methods-in-c-o4c)
+- [How to Connect a DSP with an Amplifier](https://dev.to/carolineee/how-to-connect-a-dsp-with-an-amplifier-11m7)
+- [2025, Please, Be Gentle](https://dev.to/eevajonnapanula/2025-please-be-gentle-289e)
+- [5 Must-Try Trending UI Component Libraries to Enhance Your Web Design in 2025](https://dev.to/web_dev-usman/5-must-try-trending-ui-component-libraries-to-enhance-your-web-design-in-2025-3k1c)
 <!-- BLOG-POST-LIST:END -->
 
 
