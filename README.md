@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Give your app a modern look with FxPopup](https://dev.to/victor_hugogasparquinn_/give-your-app-a-modern-look-with-fxpopup-3oab)
-- [What is GCHandle in C#? &lpar;Part 1&rpar;](https://dev.to/arminshoeibi/what-is-gchandle-in-c-part-1-243j)
-- [7 Essential CSS3 Tips and Tricks Every Developer Should Know](https://dev.to/bkthemes/7-essential-css3-tips-and-tricks-every-developer-should-know-gfl)
-- [MiniProject — Detect Faces by Using AWS Rekognition!](https://dev.to/kamalpreet_kaur_cb7c84299/miniproject-detect-faces-by-using-aws-rekognition-f3b)
+- [Getting Started with Python: Creating a Hello World Project Using Poetry](https://dev.to/jajera/getting-started-with-python-creating-a-hello-world-project-using-poetry-298h)
+- [Rust: Matchy Matchy](https://dev.to/crusty-rustacean/rust-matchy-matchy-3k07)
+- [Pointers in C++: Memory Management, Arrays, and Smart Pointers](https://dev.to/alex_ricciardi/pointers-in-c-memory-management-arrays-and-smart-pointers-50ia)
+- [Codewars - Delete occurrences of an element if it occurs more than n times](https://dev.to/dantedinopegassi/codewars-delete-occurrences-of-an-element-if-it-occurs-more-than-n-times-2g9g)
 <!-- BLOG-POST-LIST:END -->
 
 
