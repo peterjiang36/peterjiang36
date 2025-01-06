@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing API Endpoint Search at Scale &lpar;via LiveAPI&rpar;](https://dev.to/shrsv/introducing-api-endpoint-search-at-scale-via-liveapi-33d7)
-- [A dev&#39;s Groundhog Day](https://dev.to/hotfixhero/a-devs-groundhog-day-2ip2)
-- [Git avanzado: ¿Qué es cherry pick? 🍒](https://dev.to/duxtech/git-avanzado-que-es-cherry-pick-2m4g)
-- [My self and goal.](https://dev.to/yugo_matsuda/my-self-and-goal-1o4)
+- [What Is The AWS Community Builders Program And How To Apply](https://dev.to/aws-builders/what-is-the-aws-community-builders-program-and-how-to-apply-10k2)
+- [The Unsung Hero of DevOps AWS X-Ray](https://dev.to/ajtomala/the-unsung-hero-of-devops-aws-x-ray-4bm0)
+- [How to order attributes on HTML elements](https://dev.to/railsdesigner/how-to-order-attributes-on-html-elements-4mo7)
+- [Introduction to Django Authentication: Understanding the Core Components and Benefits](https://dev.to/mohbohlahji/introduction-to-django-authentication-understanding-the-core-components-and-benefits-4ahl)
 <!-- BLOG-POST-LIST:END -->
 
 
