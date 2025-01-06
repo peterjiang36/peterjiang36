@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My 52 Weeks of madness](https://dev.to/the_tea_drinker/my-52-weeks-of-madness-33d5)
-- [Learning API Requests with GUI client - The easy way🚀🚀](https://dev.to/fallon_jimmy/learning-api-requests-with-gui-client-the-easy-way-1l2j)
-- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
-- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
+- [Understanding Proof of Stake in Blockchain Technology](https://dev.to/blessedtechnologist/understanding-proof-of-stake-in-blockchain-technology-54ln)
+- [How to apply SRP &lpar;Single Responsibility Principle&rpar; in Kotlin + Spring Boot project](https://dev.to/mikhailepatko/how-to-apply-srp-single-responsibility-principle-in-kotlin-spring-boot-project-23c9)
+- [Mastering Rust&#39;s Concurrency: A Guide to Safe and Efficient Multithreading](https://dev.to/aaravjoshi/mastering-rusts-concurrency-a-guide-to-safe-and-efficient-multithreading-5cea)
+- [How to oAuth2 Code Flow in Tanstack Start](https://dev.to/moncapitaine/how-to-oauth2-code-flow-in-tanstack-start-4ne3)
 <!-- BLOG-POST-LIST:END -->
 
 
