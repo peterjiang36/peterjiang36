@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Python: Creating a Hello World Project Using Poetry](https://dev.to/jajera/getting-started-with-python-creating-a-hello-world-project-using-poetry-298h)
-- [Rust: Matchy Matchy](https://dev.to/crusty-rustacean/rust-matchy-matchy-3k07)
-- [Pointers in C++: Memory Management, Arrays, and Smart Pointers](https://dev.to/alex_ricciardi/pointers-in-c-memory-management-arrays-and-smart-pointers-50ia)
-- [Codewars - Delete occurrences of an element if it occurs more than n times](https://dev.to/dantedinopegassi/codewars-delete-occurrences-of-an-element-if-it-occurs-more-than-n-times-2g9g)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar;: A Comprehensive Guide](https://dev.to/itanand_/amazon-virtual-private-cloud-vpc-a-comprehensive-guide-1hh)
+- [[Boost]](https://dev.to/nghihua/-19k8)
+- [[PLS HELP] Terrain Issues Unity](https://dev.to/nucleardev/pls-help-terrain-issues-unity-4gfp)
+- [Amazon EC2: A Comprehensive Guide 🚀](https://dev.to/itanand_/amazon-ec2-a-comprehensive-guide-56el)
 <!-- BLOG-POST-LIST:END -->
 
 
