@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LINQ First and FirstOrDefault Methods in C#](https://dev.to/dianaiminza/linq-first-and-firstordefault-methods-in-c-o4c)
-- [How to Connect a DSP with an Amplifier](https://dev.to/carolineee/how-to-connect-a-dsp-with-an-amplifier-11m7)
-- [2025, Please, Be Gentle](https://dev.to/eevajonnapanula/2025-please-be-gentle-289e)
-- [5 Must-Try Trending UI Component Libraries to Enhance Your Web Design in 2025](https://dev.to/web_dev-usman/5-must-try-trending-ui-component-libraries-to-enhance-your-web-design-in-2025-3k1c)
+- [My 52 Weeks of madness](https://dev.to/the_tea_drinker/my-52-weeks-of-madness-33d5)
+- [Learning API Requests with GUI client - The easy way🚀🚀](https://dev.to/fallon_jimmy/learning-api-requests-with-gui-client-the-easy-way-1l2j)
+- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
+- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
 <!-- BLOG-POST-LIST:END -->
 
 
