@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The GitHub Copilot + VS Code Duo: A Developer&#39;s Guide](https://dev.to/vigneshiyergithub/the-github-copilot-vs-code-duo-a-developers-guide-4786)
-- [React UI Component Libraries in 2025](https://dev.to/builderio/react-ui-component-libraries-in-2025-d74)
-- [Normalização dos Bancos de Dados Relacionais &lpar;Handbook&rpar;](https://dev.to/manucoutinho/normalizacao-dos-bancos-de-dados-relacionais-handbook-3fg)
-- [Building a Friends-Themed Chatbot: Exploring Amazon Bedrock for Dialogue Refinement](https://dev.to/aws-builders/building-a-friends-themed-chatbot-exploring-amazon-bedrock-for-dialogue-refinement-49lk)
+- [Introducing API Endpoint Search at Scale &lpar;via LiveAPI&rpar;](https://dev.to/shrsv/introducing-api-endpoint-search-at-scale-via-liveapi-33d7)
+- [A dev&#39;s Groundhog Day](https://dev.to/hotfixhero/a-devs-groundhog-day-2ip2)
+- [Git avanzado: ¿Qué es cherry pick? 🍒](https://dev.to/duxtech/git-avanzado-que-es-cherry-pick-2m4g)
+- [My self and goal.](https://dev.to/yugo_matsuda/my-self-and-goal-1o4)
 <!-- BLOG-POST-LIST:END -->
 
 
