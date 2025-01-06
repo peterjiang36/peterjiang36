@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Driven Penetration Testing Tool.](https://dev.to/profm0r1arty/building-an-ai-driven-penetration-testing-tool-1o2n)
-- [Learning some Fantomas AST](https://dev.to/jkone27/learning-some-fantomas-ast-2e5i)
-- [Java Can Be Serverless Too: Using GraalVM for Fast Cold Starts](https://dev.to/gruxer/java-can-be-serverless-too-using-graalvm-for-fast-cold-starts-2gd4)
-- [After my brother&#39;s death due to a sudden heart attack, Baba asked my sister-in-law to marry my elder brother, but my sister-in-law worried about me, because I was young, I immediately refused, but still the marriage was arranged. I hated my sister-in-law,](https://dev.to/quiz_niva_685bc49a3c06d75/after-my-brothers-death-due-to-a-sudden-heart-attack-baba-asked-my-sister-in-law-to-marry-my-2a1d)
+- [The GitHub Copilot + VS Code Duo: A Developer&#39;s Guide](https://dev.to/vigneshiyergithub/the-github-copilot-vs-code-duo-a-developers-guide-4786)
+- [React UI Component Libraries in 2025](https://dev.to/builderio/react-ui-component-libraries-in-2025-d74)
+- [Normalização dos Bancos de Dados Relacionais &lpar;Handbook&rpar;](https://dev.to/manucoutinho/normalizacao-dos-bancos-de-dados-relacionais-handbook-3fg)
+- [Building a Friends-Themed Chatbot: Exploring Amazon Bedrock for Dialogue Refinement](https://dev.to/aws-builders/building-a-friends-themed-chatbot-exploring-amazon-bedrock-for-dialogue-refinement-49lk)
 <!-- BLOG-POST-LIST:END -->
 
 
