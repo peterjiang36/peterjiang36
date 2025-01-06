@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Technology Forecast 🔮](https://dev.to/async_dime/2025-technology-forecast-224f)
-- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
-- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
-- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
+- [AI-Powered Test Suite Optimization: Revolutionizing Software Testing](https://dev.to/arun_pal_3ce740a137cf15ad/ai-powered-test-suite-optimization-revolutionizing-software-testing-3621)
+- [Using GitHub Environment Files for Actions Workflow Outputs](https://dev.to/willvelida/using-github-environment-files-for-actions-workflow-outputs-3cnn)
+- [Automating Logic Apps Connections to Dynamics 365 Using Bicep](https://dev.to/umeshtharukaofficial/automating-logic-apps-connections-to-dynamics-365-using-bicep-4250)
+- [How to develop a Optical Design Software like zemax or codev](https://dev.to/zhu_co/how-to-develop-a-optical-design-software-like-zemax-or-codev-1pfn)
 <!-- BLOG-POST-LIST:END -->
 
 
