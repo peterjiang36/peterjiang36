@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Día 6/365. Control de flujo: if, else, y expresiones.](https://dev.to/rustarch/dia-6365-control-de-flujo-if-else-y-expresiones-37d4)
-- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-734)
-- [Running PostgreSQL, MongoDB, and NestJS concurrently with Docker Compose](https://dev.to/javascriptar/running-postgresql-mongodb-and-nestjs-concurrently-with-docker-compose-d6g)
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
+- [How Do You Organize the Frontend Architecture?](https://dev.to/m_midas/how-do-you-organize-the-frontend-architecture-3m0p)
+- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-54il)
+- [Front-End is Becoming Obsolete](https://dev.to/elanatframework/front-end-is-becoming-obsolete-f85)
+- [The Building Blocks of Python: Variables, I/O, and Operators](https://dev.to/iftakher_hossen/the-building-blocks-of-python-variables-io-and-operators-2fli)
 <!-- BLOG-POST-LIST:END -->
 
 
