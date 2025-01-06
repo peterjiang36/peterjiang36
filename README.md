@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to resolve - Cypress detected a cross origin error?](https://dev.to/hexa-home/how-to-resolve-cypress-detected-a-cross-origin-error-229d)
-- [10 Proven Strategies to Succeed as an AWS Solution Architect in 2025](https://dev.to/shaik_muskansultana_f054/10-proven-strategies-to-succeed-as-an-aws-solution-architect-in-2025-50a2)
-- [Quantum Scaling: The Next Frontier in Machine Learning](https://dev.to/dansasser/quantum-scaling-the-next-frontier-in-machine-learning-32bl)
-- [How I Moved From 50+ Rejections to Building FastApply](https://dev.to/codev206/how-i-moved-from-50-rejections-to-building-fastapply-mb6)
+- [🚀 API Maker : Release Notes for v1.9.0](https://dev.to/apimaker/api-maker-release-notes-for-v190-1dli)
+- [10/10. Would Route Again!](https://dev.to/mike-vincent/1010-would-route-again-4dpe)
+- [&quot;From Networks to Cloud Computing: My Tech Journey&quot;](https://dev.to/phenomena_ekuss_c2bd80894/from-networks-to-cloud-computing-my-tech-journey-2fhd)
+- [Building Robust Web Automation with Selenium and Python](https://dev.to/fastapplyai/building-robust-web-automation-with-selenium-and-python-4lhp)
 <!-- BLOG-POST-LIST:END -->
 
 
