@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Productivity and Organization Tips for Software Engineers](https://dev.to/thawkin3/productivity-and-organization-tips-for-software-engineers-31ij)
-- [Building a multi-lingual web app with Nuxt 3 and Nuxt i18n](https://dev.to/logrocket/building-a-multi-lingual-web-app-with-nuxt-3-and-nuxt-i18n-7f2)
-- [Importando certificado SSL no cacerts, via KeyStore Explorer](https://dev.to/geekcom/importando-certificado-ssl-no-cacerts-via-keystore-explorer-3a64)
-- [Introducing Supabase Client Playground: The Ultimate Tool for Streamlined Query Testing](https://dev.to/ismaeljtl/introducing-supabase-client-playground-the-ultimate-tool-for-streamlined-query-testing-5efd)
+- [👺 30 Must-Read GitHub Articles and Tools for January 2025](https://dev.to/dev-resources/30-must-read-github-articles-and-tools-for-january-2025-28j0)
+- [JavaScript Frameworks - Heading into 2025](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2025-hkb)
+- [🚀 Your Go-To List of 25 Swift Tools and Libraries for Any Project](https://dev.to/0x3d_site/your-go-to-list-of-25-swift-tools-and-libraries-for-any-project-9i8)
+- [Building a Weather Dashboard with Docker and AWS S3](https://dev.to/mayhrem/building-a-weather-dashboard-with-docker-and-aws-s3-26km)
 <!-- BLOG-POST-LIST:END -->
 
 
