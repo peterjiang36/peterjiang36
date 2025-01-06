@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Proof of Stake in Blockchain Technology](https://dev.to/blessedtechnologist/understanding-proof-of-stake-in-blockchain-technology-54ln)
-- [How to apply SRP &lpar;Single Responsibility Principle&rpar; in Kotlin + Spring Boot project](https://dev.to/mikhailepatko/how-to-apply-srp-single-responsibility-principle-in-kotlin-spring-boot-project-23c9)
-- [Mastering Rust&#39;s Concurrency: A Guide to Safe and Efficient Multithreading](https://dev.to/aaravjoshi/mastering-rusts-concurrency-a-guide-to-safe-and-efficient-multithreading-5cea)
-- [How to oAuth2 Code Flow in Tanstack Start](https://dev.to/moncapitaine/how-to-oauth2-code-flow-in-tanstack-start-4ne3)
+- [https://dev.to/hanzla-baig/full-stack-developers-roadmap-dch](https://dev.to/hanzla-baig/httpsdevtohanzla-baigfull-stack-developers-roadmap-dch-40jg)
+- [Navigating Disaster Recovery in the Digital Age: Choosing the Right Approach – Part 1](https://dev.to/yaddah/navigating-disaster-recovery-in-the-digital-age-choosing-the-right-approach-part-1-4cn4)
+- [Understanding the XOR Operator: A Powerful Tool in Computing](https://dev.to/mspilari/understanding-the-xor-operator-a-powerful-tool-in-computing-1517)
+- [Stop Using Local State for Filters — Here is why](https://dev.to/stephengade/stop-using-local-state-for-filters-here-is-why-5hgd)
 <!-- BLOG-POST-LIST:END -->
 
 
