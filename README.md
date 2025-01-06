@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Test Suite Optimization: Revolutionizing Software Testing](https://dev.to/arun_pal_3ce740a137cf15ad/ai-powered-test-suite-optimization-revolutionizing-software-testing-3621)
-- [Using GitHub Environment Files for Actions Workflow Outputs](https://dev.to/willvelida/using-github-environment-files-for-actions-workflow-outputs-3cnn)
-- [Automating Logic Apps Connections to Dynamics 365 Using Bicep](https://dev.to/umeshtharukaofficial/automating-logic-apps-connections-to-dynamics-365-using-bicep-4250)
-- [How to develop a Optical Design Software like zemax or codev](https://dev.to/zhu_co/how-to-develop-a-optical-design-software-like-zemax-or-codev-1pfn)
+- [Meta programming with Ruby Eval: A guide &lpar;Part 2&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-2-5256)
+- [My 2024 in Review—And My Most Read Posts](https://dev.to/canro91/my-2024-in-review-and-my-most-read-posts-gc)
+- [Meta programming with Ruby Eval: A guide &lpar;Part 1&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-1-3ndn)
+- [Crea diagramas de AWS de manera gratuita con Draw.io](https://dev.to/cpazro/crea-diagramas-de-aws-de-manera-gratuita-con-drawio-2987)
 <!-- BLOG-POST-LIST:END -->
 
 
