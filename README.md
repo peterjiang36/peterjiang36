@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [hi i am new here :&rpar; is there a cross platform posting available here?](https://dev.to/pravin_niceguy/hi-i-am-new-here-is-there-a-cross-platform-posting-available-here-43ce)
-- [Understanding React 19 New Hooks](https://dev.to/manojspace/understanding-react-19-new-hooks-4dkb)
-- [Um ano de Magalu Cloud, e aí?](https://dev.to/patos/um-ano-de-magalu-cloud-e-ai-48e7)
-- [Choosing the Right Time Series Database for Your Use Case](https://dev.to/karthika_murugesan_c51100/-choosing-the-right-time-series-database-for-your-use-case-54bn)
+- [Understanding React&#39;s Fiber Tree: A Deep Dive into React&#39;s Architecture and Rendering Process](https://dev.to/gervaisamoah/understanding-reacts-fiber-tree-a-deep-dive-into-reacts-architecture-and-rendering-process-2loo)
+- [Mastering XPath in Cypress: Best Practices for Effective Testing](https://dev.to/hexa-home/mastering-xpath-in-cypress-best-practices-for-effective-testing-1656)
+- [OpenSearch metrics challenge: can you spot the performance flaw?](https://dev.to/aws-builders/opensearch-metrics-challenge-can-you-spot-the-performance-flaw-3imd)
+- [2/100 day golang challenge](https://dev.to/nitrate/2100-day-golang-challenge-3mdc)
 <!-- BLOG-POST-LIST:END -->
 
 
