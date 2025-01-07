@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript + React Redux: Pro Tips for Type-Safe and Scalable Apps](https://dev.to/nvish007/typescript-react-redux-pro-tips-for-type-safe-and-scalable-apps-44en)
-- [Bringing Together Containers &amp; SQL](https://dev.to/aryan_zingade/bringing-together-containers-sql-24k)
-- [The Journey of India&#39;s Atmanirbhar Defence Sector with the Make in India Initiative](https://dev.to/dev_kumar_9a1db98e34077b6/the-journey-of-indias-atmanirbhar-defence-sector-with-the-make-in-india-initiative-1f85)
-- [Weak Password Policies in Laravel: A Security Guide](https://dev.to/pentest_testing_corp/weak-password-policies-in-laravel-a-security-guide-36i8)
+- [What is Hipa.ai](https://dev.to/hipa-ai/what-is-hipaai-10h3)
+- [Can Cloud Data Be Hacked](https://dev.to/anshul_kichara/can-cloud-data-be-hacked-op7)
+- [Introduction to Amazon Bedrock: Building Generative AI Applications](https://dev.to/gauri1504/introduction-to-amazon-bedrock-building-generative-ai-applications-g9k)
+- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
 <!-- BLOG-POST-LIST:END -->
 
 
