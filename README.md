@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust: Packages, Modules, Crates...Oh My!](https://dev.to/crusty-rustacean/rust-packages-modules-cratesoh-my-2k9m)
-- [Good day, Crew. This morning, I considered how to impact a million lives and created a simple strategy to guide us. In the coming weeks, we’ll begin our journey toward meaningful change. Farewell, comrades, as we prepare for the work ahead. Your captain.](https://dev.to/cjetronite/good-day-crew-this-morning-i-considered-how-to-impact-a-million-lives-and-created-a-simple-1j7l)
-- [[Boost]](https://dev.to/marcuskohlberg/-1kla)
-- [How to Build a Real-Time Dashboard with Encore.ts and React](https://dev.to/encore/how-to-build-a-real-time-dashboard-with-encorets-and-react-ii9)
+- [Common Data Loss Scenarios &amp; Solutions in Prisma Schema Changes](https://dev.to/vatul16/common-data-loss-scenarios-solutions-in-prisma-schema-changes-52id)
+- [Steps to Add Pagination to Your React TypeScript Project](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-pagination-to-your-react-typescript-project-jm4)
+- [Test Strategies for Software Development](https://dev.to/keploy/test-strategies-for-software-development-5ef1)
+- [12 CSS resources you may not know about ... 🔎 🧐](https://dev.to/gilles_vauvarin_861cefba1/12-css-resources-you-may-not-know-about--4ib7)
 <!-- BLOG-POST-LIST:END -->
 
 
