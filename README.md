@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 2 &lpar;CODING JOURNEY&rpar;](https://dev.to/arandomidiot72/day-2-coding-journey-204o)
-- [When to use Apache Xtable or Delta Lake Uniform for Data Lakehouse Interoperability](https://dev.to/alexmercedcoder/when-to-use-apache-xtable-or-delta-lake-uniform-for-data-lakehouse-interoperability-b42)
-- [Context vs. State: Why Context is King in Software Systems](https://dev.to/mrjjwright/context-vs-state-why-context-is-king-in-software-systems-1jh6)
-- [Mastering Jenkins: A Step-by-Step Guide to Setting Up and Supercharging Your CI/CD Workflow](https://dev.to/hashim_hb/mastering-jenkins-a-step-by-step-guide-to-setting-up-and-supercharging-your-cicd-workflow-2ln9)
+- [Understanding PostgreSQL Isolation Levels](https://dev.to/mohamed_hamdi_2590116d3ec/understanding-postgresql-isolation-levels-h7e)
+- [How I&#39;m Using Signals to Make My React App Simpler](https://dev.to/andyjessop/how-im-using-signals-to-make-my-react-app-simpler-h8j)
+- [🚀 Intrepid AI 0.10: Ready for Liftoff!](https://dev.to/fgadaleta/intrepid-ai-010-ready-for-liftoff-2ge9)
+- [How to Install Docker on Windows: A Beginner&#39;s Guide](https://dev.to/pmbanugo/how-to-install-docker-on-windows-a-beginners-guide-17c4)
 <!-- BLOG-POST-LIST:END -->
 
 
