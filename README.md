@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-1c1m)
-- [[Boost]](https://dev.to/narate/-22mp)
-- [&quot;Unlocking Visual Intelligence: The Power of Gaussian Masked Autoencoders&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-gaussian-masked-autoencoders-h99)
-- [Leveraging Social Media to Attract Top PHP Developers](https://dev.to/melaniesharma/leveraging-social-media-to-attract-top-php-developers-1fl7)
+- [How to Build a Centered Input Field for Amounts in React Native](https://dev.to/royged/how-to-build-a-centered-input-field-for-amounts-in-react-native-583d)
+- [Salesforce Niches &amp; Job Market in 2025](https://dev.to/sfdcnews/salesforce-niches-job-market-in-2025-2m9p)
+- [Mastering Cloud Operations: Unlocking Observability and Configuration with AWS Tools](https://dev.to/tharinirp/mastering-cloud-operations-unlocking-observability-and-configuration-with-aws-tools-35e9)
+- [Automated Penetration Testing: A Guide to Domain Collection](https://dev.to/tecno-security/automated-penetration-testing-a-guide-to-domain-collection-1g11)
 <!-- BLOG-POST-LIST:END -->
 
 
