@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Centered Input Field for Amounts in React Native](https://dev.to/royged/how-to-build-a-centered-input-field-for-amounts-in-react-native-583d)
-- [Salesforce Niches &amp; Job Market in 2025](https://dev.to/sfdcnews/salesforce-niches-job-market-in-2025-2m9p)
-- [Mastering Cloud Operations: Unlocking Observability and Configuration with AWS Tools](https://dev.to/tharinirp/mastering-cloud-operations-unlocking-observability-and-configuration-with-aws-tools-35e9)
-- [Automated Penetration Testing: A Guide to Domain Collection](https://dev.to/tecno-security/automated-penetration-testing-a-guide-to-domain-collection-1g11)
+- [Showcase of a Lightweight Hook for Async Data Fetching &amp; Caching in React](https://dev.to/aypineau/showcase-of-a-lightweight-hook-for-async-data-fetching-caching-in-react-50e7)
+- [Enhance Your Web Projects with Sphere Animations Using EldoraUI 🚀](https://dev.to/karthikmudunuri/enhance-your-web-projects-with-sphere-animations-using-eldoraui-3f1j)
+- [AI Language Models Find Hidden Ways to Shrink Code by 4% that Compilers Miss](https://dev.to/mikeyoung44/ai-language-models-find-hidden-ways-to-shrink-code-by-4-that-compilers-miss-1i0c)
+- [Building a Kubernetes Operator: A Practical Guide](https://dev.to/kubefeeds/building-a-kubernetes-operator-a-practical-guide-nc9)
 <!-- BLOG-POST-LIST:END -->
 
 
