@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #5: Azure Disk Encryption](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-5-azure-disk-5268)
-- [17 Tips from a Senior React Developer](https://dev.to/_ndeyefatoudiop/17-tips-from-a-senior-react-developer-2249)
-- [Building a Sober-Friendly Routine](https://dev.to/sobrietysisterhood/building-a-sober-friendly-routine-42gh)
-- [Beginner SEO Guide: A Step-by-Step Journey to SEO Success](https://dev.to/idgodcx/beginner-seo-guide-a-step-by-step-journey-to-seo-success-3f7k)
+- [hi i am new here :&rpar; is there a cross platform posting available here?](https://dev.to/pravin_niceguy/hi-i-am-new-here-is-there-a-cross-platform-posting-available-here-43ce)
+- [Understanding React 19 New Hooks](https://dev.to/manojspace/understanding-react-19-new-hooks-4dkb)
+- [Um ano de Magalu Cloud, e aí?](https://dev.to/patos/um-ano-de-magalu-cloud-e-ai-48e7)
+- [Choosing the Right Time Series Database for Your Use Case](https://dev.to/karthika_murugesan_c51100/-choosing-the-right-time-series-database-for-your-use-case-54bn)
 <!-- BLOG-POST-LIST:END -->
 
 
