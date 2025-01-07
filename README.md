@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TS1035: Only ambient modules can use quoted names](https://dev.to/ahmad_tibibi/ts1035-only-ambient-modules-can-use-quoted-names-lpi)
-- [TS1034: &#39;super&#39; must be followed by an argument list or member access](https://dev.to/ahmad_tibibi/ts1034-super-must-be-followed-by-an-argument-list-or-member-access-495o)
-- [TS1029: &#39;{0}&#39; modifier must precede &#39;{1}&#39; modifier](https://dev.to/turingvangisms/ts1029-0-modifier-must-precede-1-modifier-40fi)
-- [TS1028: Accessibility modifier already seen](https://dev.to/turingvangisms/ts1028-accessibility-modifier-already-seen-2ij9)
+- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
+- [Just used the Dev API to add a comment section to my blog at https://dansasser.me Now any post that matches one of mine here on Dev will display the same comments as here on Dev and has a link back to the comment section here.](https://dev.to/dansasser/just-used-the-dev-api-to-add-a-comment-section-to-my-blog-at-httpsdansasserme-now-any-post-44g)
+- [How to Deploy a React Application Using AWS S3 and CloudFront](https://dev.to/itanand_/how-to-deploy-a-react-application-using-aws-s3-and-cloudfront-58kj)
+- [Improving Productivity with Automated Unit Testing](https://dev.to/misterankit/improving-productivity-with-automated-unit-testing-160n)
 <!-- BLOG-POST-LIST:END -->
 
 
