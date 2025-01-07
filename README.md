@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Hipa.ai](https://dev.to/hipa-ai/what-is-hipaai-10h3)
-- [Can Cloud Data Be Hacked](https://dev.to/anshul_kichara/can-cloud-data-be-hacked-op7)
-- [Introduction to Amazon Bedrock: Building Generative AI Applications](https://dev.to/gauri1504/introduction-to-amazon-bedrock-building-generative-ai-applications-g9k)
-- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
+- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-1c1m)
+- [[Boost]](https://dev.to/narate/-22mp)
+- [&quot;Unlocking Visual Intelligence: The Power of Gaussian Masked Autoencoders&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-gaussian-masked-autoencoders-h99)
+- [Leveraging Social Media to Attract Top PHP Developers](https://dev.to/melaniesharma/leveraging-social-media-to-attract-top-php-developers-1fl7)
 <!-- BLOG-POST-LIST:END -->
 
 
