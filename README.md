@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Security Case Studies: Lessons from the Field](https://dev.to/ikoh_sylva/aws-security-case-studies-lessons-from-the-field-3mci)
-- [Steps to manipulating MongoDB with AI](https://dev.to/hackmamba/steps-to-manipulating-mongodb-with-ai-175i)
-- [Been thinking to create a Text-to-Video Ai](https://dev.to/almancidiqui/been-thinking-to-create-a-text-to-video-ai-3b6d)
-- [Swiftide 0.16 brings AI agents to Rust](https://dev.to/timonv/swiftide-016-brings-ai-agents-to-rust-3o17)
+- [7th January 2025 WebDev Digest: 30 Fresh Picked Articles for Developers](https://dev.to/dev-resources/7th-january-2025-webdev-digest-30-fresh-picked-articles-for-developers-a2n)
+- [🚀 Today&#39;s Top 20+ Github Repositories – Tiny Databases, Collaborative Engines, and More &lpar;Jan 7, 2025&rpar;](https://dev.to/gittech/todays-top-20-github-repositories-tiny-databases-collaborative-engines-and-more-jan-7-25ih)
+- [Waiting for async function before sending response](https://dev.to/steve_voltmer/waiting-for-async-function-before-sending-response-3aj2)
+- [How you used AI in 2024?](https://dev.to/sarthology/how-you-used-ai-in-2024-4mhd)
 <!-- BLOG-POST-LIST:END -->
 
 
