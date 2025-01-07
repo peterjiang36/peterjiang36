@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Auto Slippage: Making The OKX DEX API Smarter](https://dev.to/j_dev28/introducing-auto-slippage-making-the-okx-dex-api-smarter-3hh3)
-- [Day 6: C++ Language | Assignment operators](https://dev.to/mehfila_parkkulthil_23/day-6-c-language-assignment-operators-ejf)
-- [Hello everyone, are you stuck with deploying your Glue Jobs to production? Here’s how I did it using AWS CDK and GitHub](https://dev.to/escosiakyle/hello-everyone-are-you-stuck-with-deploying-your-glue-jobs-to-production-heres-how-i-did-it-1ok4)
-- [What is Node.js?](https://dev.to/erasmuskotoka/what-is-nodejs-1a98)
+- [TS1035: Only ambient modules can use quoted names](https://dev.to/ahmad_tibibi/ts1035-only-ambient-modules-can-use-quoted-names-lpi)
+- [TS1034: &#39;super&#39; must be followed by an argument list or member access](https://dev.to/ahmad_tibibi/ts1034-super-must-be-followed-by-an-argument-list-or-member-access-495o)
+- [TS1029: &#39;{0}&#39; modifier must precede &#39;{1}&#39; modifier](https://dev.to/turingvangisms/ts1029-0-modifier-must-precede-1-modifier-40fi)
+- [TS1028: Accessibility modifier already seen](https://dev.to/turingvangisms/ts1028-accessibility-modifier-already-seen-2ij9)
 <!-- BLOG-POST-LIST:END -->
 
 
