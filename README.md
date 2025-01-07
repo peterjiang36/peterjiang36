@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Showcase of a Lightweight Hook for Async Data Fetching &amp; Caching in React](https://dev.to/aypineau/showcase-of-a-lightweight-hook-for-async-data-fetching-caching-in-react-50e7)
-- [Enhance Your Web Projects with Sphere Animations Using EldoraUI 🚀](https://dev.to/karthikmudunuri/enhance-your-web-projects-with-sphere-animations-using-eldoraui-3f1j)
-- [AI Language Models Find Hidden Ways to Shrink Code by 4% that Compilers Miss](https://dev.to/mikeyoung44/ai-language-models-find-hidden-ways-to-shrink-code-by-4-that-compilers-miss-1i0c)
-- [Building a Kubernetes Operator: A Practical Guide](https://dev.to/kubefeeds/building-a-kubernetes-operator-a-practical-guide-nc9)
+- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #5: Azure Disk Encryption](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-5-azure-disk-5268)
+- [17 Tips from a Senior React Developer](https://dev.to/_ndeyefatoudiop/17-tips-from-a-senior-react-developer-2249)
+- [Building a Sober-Friendly Routine](https://dev.to/sobrietysisterhood/building-a-sober-friendly-routine-42gh)
+- [Beginner SEO Guide: A Step-by-Step Journey to SEO Success](https://dev.to/idgodcx/beginner-seo-guide-a-step-by-step-journey-to-seo-success-3f7k)
 <!-- BLOG-POST-LIST:END -->
 
 
