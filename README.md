@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hipa.ai Blog Writer Technology Stack](https://dev.to/hipa-ai/hipaai-blog-writer-technology-stack-oo9)
-- [Document Object Model simplified.](https://dev.to/jovickcoder/document-object-model-simplified-nnc)
-- [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
-- [ReasoningAgent Update - Beam Search, MCTS, and LATS for LLM Reasoning](https://dev.to/ag2ai/reasoningagent-update-beam-search-mcts-and-lats-for-llm-reasoning-3im1)
+- [DAY 2 &lpar;CODING JOURNEY&rpar;](https://dev.to/arandomidiot72/day-2-coding-journey-204o)
+- [When to use Apache Xtable or Delta Lake Uniform for Data Lakehouse Interoperability](https://dev.to/alexmercedcoder/when-to-use-apache-xtable-or-delta-lake-uniform-for-data-lakehouse-interoperability-b42)
+- [Context vs. State: Why Context is King in Software Systems](https://dev.to/mrjjwright/context-vs-state-why-context-is-king-in-software-systems-1jh6)
+- [Mastering Jenkins: A Step-by-Step Guide to Setting Up and Supercharging Your CI/CD Workflow](https://dev.to/hashim_hb/mastering-jenkins-a-step-by-step-guide-to-setting-up-and-supercharging-your-cicd-workflow-2ln9)
 <!-- BLOG-POST-LIST:END -->
 
 
