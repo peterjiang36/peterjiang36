@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React&#39;s Fiber Tree: A Deep Dive into React&#39;s Architecture and Rendering Process](https://dev.to/gervaisamoah/understanding-reacts-fiber-tree-a-deep-dive-into-reacts-architecture-and-rendering-process-2loo)
-- [Mastering XPath in Cypress: Best Practices for Effective Testing](https://dev.to/hexa-home/mastering-xpath-in-cypress-best-practices-for-effective-testing-1656)
-- [OpenSearch metrics challenge: can you spot the performance flaw?](https://dev.to/aws-builders/opensearch-metrics-challenge-can-you-spot-the-performance-flaw-3imd)
-- [2/100 day golang challenge](https://dev.to/nitrate/2100-day-golang-challenge-3mdc)
+- [Rust: Packages, Modules, Crates...Oh My!](https://dev.to/crusty-rustacean/rust-packages-modules-cratesoh-my-2k9m)
+- [Good day, Crew. This morning, I considered how to impact a million lives and created a simple strategy to guide us. In the coming weeks, we’ll begin our journey toward meaningful change. Farewell, comrades, as we prepare for the work ahead. Your captain.](https://dev.to/cjetronite/good-day-crew-this-morning-i-considered-how-to-impact-a-million-lives-and-created-a-simple-1j7l)
+- [[Boost]](https://dev.to/marcuskohlberg/-1kla)
+- [How to Build a Real-Time Dashboard with Encore.ts and React](https://dev.to/encore/how-to-build-a-real-time-dashboard-with-encorets-and-react-ii9)
 <!-- BLOG-POST-LIST:END -->
 
 
