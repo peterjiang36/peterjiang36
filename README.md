@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT: The Backbone of Modern Web Authentication and Authorization](https://dev.to/slogan_codes/understanding-jwt-the-backbone-of-modern-web-authentication-and-authorization-2dg5)
-- [A Quick Overview of Delivery Manager Role in the Modern Enterprise SDLC Process &lpar;Software Development Life Cycle&rpar;](https://dev.to/alexander_uspenskiy_the_great/a-quick-overview-of-deliver-manager-role-in-the-modern-enterprise-sdlc-process-software-kbl)
-- [AI Testing for Emotional Intelligence in Applications: Enhancing User Experiences with Tools Like GenQE.ai](https://dev.to/anil_csimplifyit_905c/ai-testing-for-emotional-intelligence-in-applications-enhancing-user-experiences-with-tools-like-10p4)
-- [Back-End Engineer with Expertise in Cryptocurrency, Blockchain, and Social Media](https://dev.to/metaengineer2025/back-end-engineer-with-expertise-in-cryptocurrency-blockchain-and-social-media-3j8d)
+- [Exploring the Capabilities of AI-Powered Code Assistants 🤖💻](https://dev.to/info_generalhazedawn_a3d/exploring-the-capabilities-of-ai-powered-code-assistants-2fj2)
+- [Gestionar múltiples configuraciones de servicios de control de versiones &lpar;Cualquier S.O&rpar; - Sin conflictos](https://dev.to/specimen4701/gestionar-multiples-configuraciones-de-servicios-de-control-de-versiones-cualquier-so-sin-23ea)
+- [I Created VanillaHTML &lpar;a CSS File&rpar;](https://dev.to/fandeytech/i-created-vanillahtml-2292)
+- [How to Deploy a Static Website with Hugo and GitHub Pages](https://dev.to/yaruyng/how-to-deploy-a-static-website-with-hugo-and-github-pages-3he4)
 <!-- BLOG-POST-LIST:END -->
 
 
