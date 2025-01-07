@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7th January 2025 WebDev Digest: 30 Fresh Picked Articles for Developers](https://dev.to/dev-resources/7th-january-2025-webdev-digest-30-fresh-picked-articles-for-developers-a2n)
-- [🚀 Today&#39;s Top 20+ Github Repositories – Tiny Databases, Collaborative Engines, and More &lpar;Jan 7, 2025&rpar;](https://dev.to/gittech/todays-top-20-github-repositories-tiny-databases-collaborative-engines-and-more-jan-7-25ih)
-- [Waiting for async function before sending response](https://dev.to/steve_voltmer/waiting-for-async-function-before-sending-response-3aj2)
-- [How you used AI in 2024?](https://dev.to/sarthology/how-you-used-ai-in-2024-4mhd)
+- [Hipa.ai Blog Writer Technology Stack](https://dev.to/hipa-ai/hipaai-blog-writer-technology-stack-oo9)
+- [Document Object Model simplified.](https://dev.to/jovickcoder/document-object-model-simplified-nnc)
+- [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
+- [ReasoningAgent Update - Beam Search, MCTS, and LATS for LLM Reasoning](https://dev.to/ag2ai/reasoningagent-update-beam-search-mcts-and-lats-for-llm-reasoning-3im1)
 <!-- BLOG-POST-LIST:END -->
 
 
