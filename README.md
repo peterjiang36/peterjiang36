@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Capabilities of AI-Powered Code Assistants 🤖💻](https://dev.to/info_generalhazedawn_a3d/exploring-the-capabilities-of-ai-powered-code-assistants-2fj2)
-- [Gestionar múltiples configuraciones de servicios de control de versiones &lpar;Cualquier S.O&rpar; - Sin conflictos](https://dev.to/specimen4701/gestionar-multiples-configuraciones-de-servicios-de-control-de-versiones-cualquier-so-sin-23ea)
-- [I Created VanillaHTML &lpar;a CSS File&rpar;](https://dev.to/fandeytech/i-created-vanillahtml-2292)
-- [How to Deploy a Static Website with Hugo and GitHub Pages](https://dev.to/yaruyng/how-to-deploy-a-static-website-with-hugo-and-github-pages-3he4)
+- [Introducing Auto Slippage: Making The OKX DEX API Smarter](https://dev.to/j_dev28/introducing-auto-slippage-making-the-okx-dex-api-smarter-3hh3)
+- [Day 6: C++ Language | Assignment operators](https://dev.to/mehfila_parkkulthil_23/day-6-c-language-assignment-operators-ejf)
+- [Hello everyone, are you stuck with deploying your Glue Jobs to production? Here’s how I did it using AWS CDK and GitHub](https://dev.to/escosiakyle/hello-everyone-are-you-stuck-with-deploying-your-glue-jobs-to-production-heres-how-i-did-it-1ok4)
+- [What is Node.js?](https://dev.to/erasmuskotoka/what-is-nodejs-1a98)
 <!-- BLOG-POST-LIST:END -->
 
 
