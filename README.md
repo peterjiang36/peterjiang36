@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Kickstart for Absolute Beginners](https://dev.to/sandesh-d-manocharya/ansible-kickstart-for-absolute-beginners-31ge)
-- [Format Your Code Using Prettier Like a Pro](https://dev.to/efrenmarin/format-your-code-using-prettier-like-a-pro-fj8)
-- [The Role of OpenStack in Enhancing Private Cloud Security](https://dev.to/radhika_singh_545ca79f831/the-role-of-openstack-in-enhancing-private-cloud-security-2fo2)
-- [Unit Test vs. Integration Test](https://dev.to/berthaw82414312/unit-test-vs-integration-test-1k76)
+- [Enhancing Form User Experience with CSS: Real-Time Feedback Techniques for Better User Interaction](https://dev.to/devyoma/enhancing-form-user-experience-with-css-real-time-feedback-techniques-for-better-user-interaction-fig)
+- [Design Pattern in Flutter MVVM](https://dev.to/sukmarizki04/design-pattern-in-flutter-mvvm-4mkm)
+- [Handling Concurrency in CosmosDB with ETags](https://dev.to/petersaktor/handling-concurrency-in-cosmosdb-with-etags-15bd)
+- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
 <!-- BLOG-POST-LIST:END -->
 
 
