@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 best PaaS Providers in Europe](https://dev.to/code42cate/the-5-best-paas-providers-in-europe-1mkc)
-- [How to Choose the Best Web Design and VFX Institute in Kolkata](https://dev.to/arena_animation/how-to-choose-the-best-web-design-and-vfx-institute-in-kolkata-2a6d)
-- [Windows Server Üzerinde ASP.NET Web Application &lpar;.NET Framework&rpar; 4.8 Projesinin Oluşturulması ve ISS Yapılandırması](https://dev.to/kadirerbas/windows-server-uzerinde-aspnet-web-application-net-framework-48-projesinin-olusturulmasi-ve-7dk)
-- [Effective Git Branch Merging for Teams 🚀](https://dev.to/theodor_coin_4/effective-git-branch-merging-for-teams-2mhe)
+- [Primeros pasos con AWS PartyRock](https://dev.to/aws-espanol/primeros-pasos-con-aws-partyrock-1fma)
+- [Using CSS variables to create dynamic themes in Puck](https://dev.to/puckeditor/using-css-variables-to-create-dynamic-themes-in-puck-26lm)
+- [Harnessing Machine Learning and Generative AI to Combat HMPV](https://dev.to/stephan_hawke_fd9cbb38db7/harnessing-machine-learning-and-generative-ai-to-combat-hmpv-3fjl)
+- [Retro’ing and Debugging 2024 - A year of learning and fun](https://dev.to/vignesh_j/retroing-and-debugging-2024-a-year-of-learning-and-fun-4nlg)
 <!-- BLOG-POST-LIST:END -->
 
 
