@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wow! This article really went viral. I can&#39;t believe how many people have red it already.](https://dev.to/dansasser/wow-this-article-really-went-viral-i-cant-believe-how-many-people-have-red-it-already-1pf5)
-- [Top 10 Chrome DevTools Features Every Developer Should Know in 2025](https://dev.to/arjun98k/top-10-chrome-devtools-features-every-developer-should-know-in-2025-40kp)
-- [AI Agent Tutorial for Beginners: A Comprehensive Guide](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agent-tutorial-for-beginners-a-comprehensive-guide-24op)
-- [The Basics of UI vs UX](https://dev.to/letsupdateskills/the-basics-of-ui-vs-ux-1gfn)
+- [Welcome Thread - v309](https://dev.to/devteam/welcome-thread-v309-1dej)
+- [How to Create a quick Authentication library for NestJS/MongoDB application](https://dev.to/dewmyth/how-to-create-a-quick-authentication-library-for-nestjsmongodb-application-45bh)
+- [First thoughts on Electron](https://dev.to/sarkispeha/first-thoughts-on-electron-2c6p)
+- [SP_HELPTEXT](https://dev.to/mirajhad/sphelptext-3773)
 <!-- BLOG-POST-LIST:END -->
 
 
