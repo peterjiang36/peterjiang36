@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 08 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-january-3gmd)
-- [Einstellen AI: The Ultimate AI Tool for Smarter Hiring](https://dev.to/einstellenai/einstellen-ai-the-ultimate-ai-tool-for-smarter-hiring-4e16)
-- [Day 4 :Everything You Need to Know About Functions in Python](https://dev.to/praneeth_647b9830399cd2b7/day-4-everything-you-need-to-know-about-functions-in-python-4hnl)
-- [Kafka Top 10 Interview Questions](https://dev.to/vivek1030/kafka-top-10-interview-questions-1876)
+- [The 5 best PaaS Providers in Europe](https://dev.to/code42cate/the-5-best-paas-providers-in-europe-1mkc)
+- [How to Choose the Best Web Design and VFX Institute in Kolkata](https://dev.to/arena_animation/how-to-choose-the-best-web-design-and-vfx-institute-in-kolkata-2a6d)
+- [Windows Server Üzerinde ASP.NET Web Application &lpar;.NET Framework&rpar; 4.8 Projesinin Oluşturulması ve ISS Yapılandırması](https://dev.to/kadirerbas/windows-server-uzerinde-aspnet-web-application-net-framework-48-projesinin-olusturulmasi-ve-7dk)
+- [Effective Git Branch Merging for Teams 🚀](https://dev.to/theodor_coin_4/effective-git-branch-merging-for-teams-2mhe)
 <!-- BLOG-POST-LIST:END -->
 
 
