@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Docker in Plain English](https://dev.to/anadudev/learn-docker-in-plain-english-7kl)
-- [JavaScript Email Validation Regex: Ensuring Accuracy in User Inputs](https://dev.to/mailfloss/javascript-email-validation-regex-ensuring-accuracy-in-user-inputs-453i)
-- [How to Build Personal Curicullum Locally in Python](https://dev.to/pkutaj/how-to-build-personal-curicullum-locally-in-python-kd)
-- [Debian and KDE 6 - WSL - How to install KDE 6 via Debian - Windows 11 - X410 - Linux - 2024 https://www.youtube.com/watch?v=yrtgmwsptVc](https://dev.to/mattias_vinberg_4e59bd133/debian-and-kde-6-wsl-how-to-install-kde-6-via-debian-windows-11-x410-linux-2024-4)
+- [kubernets related logs &amp; configurations](https://dev.to/cheedge_lee/kubernets-related-logs-configurations-1j5d)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-2d01)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4jmb)
+- [Connexion Agenda Externe dans Nemitis](https://dev.to/flo-nemitis/connexion-agenda-externe-dans-nemitis-1n3k)
 <!-- BLOG-POST-LIST:END -->
 
 
