@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Memory Leaks in JavaScript](https://dev.to/nhannguyendevjs/common-memory-leaks-in-javascript-1m6o)
-- [TS is bad at hover text](https://dev.to/thejaredwilcurt/ts-is-bad-at-hover-text-3n0j)
-- [POS sale Interface - POS application agnostic](https://dev.to/rk_srk_5de0760b0858bc67bf/pos-sale-interface-pos-application-agnostic-42h7)
-- [Beyond Buttons: The Complex Reality of Frontend Engineering](https://dev.to/dhrumitdk/beyond-buttons-the-complex-reality-of-frontend-engineering-2cf7)
+- [Ansible Kickstart for Absolute Beginners](https://dev.to/sandesh-d-manocharya/ansible-kickstart-for-absolute-beginners-31ge)
+- [Format Your Code Using Prettier Like a Pro](https://dev.to/efrenmarin/format-your-code-using-prettier-like-a-pro-fj8)
+- [The Role of OpenStack in Enhancing Private Cloud Security](https://dev.to/radhika_singh_545ca79f831/the-role-of-openstack-in-enhancing-private-cloud-security-2fo2)
+- [Unit Test vs. Integration Test](https://dev.to/berthaw82414312/unit-test-vs-integration-test-1k76)
 <!-- BLOG-POST-LIST:END -->
 
 
