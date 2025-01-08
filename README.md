@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Onvite to Rails 8 Authentication](https://dev.to/railsdesigner/add-onvite-to-rails-8-authentication-5671)
-- [Here’s why Julia is THE language in scientific programming](https://dev.to/ninacomputer/heres-why-julia-is-the-language-in-scientific-programming-5633)
-- [Cloud economics vs. Cloud FinOps](https://dev.to/barbara_gaspar/cloud-economics-vs-cloud-finops-44i5)
-- [🤔Retro’ing and Debugging 2024: a year of data, books, APIs, BOTs &amp; AI](https://dev.to/adriens/retroing-and-debugging-2024-a-year-of-data-books-apis-bots-ai-4436)
+- [Learn Docker in Plain English](https://dev.to/anadudev/learn-docker-in-plain-english-7kl)
+- [JavaScript Email Validation Regex: Ensuring Accuracy in User Inputs](https://dev.to/mailfloss/javascript-email-validation-regex-ensuring-accuracy-in-user-inputs-453i)
+- [How to Build Personal Curicullum Locally in Python](https://dev.to/pkutaj/how-to-build-personal-curicullum-locally-in-python-kd)
+- [Debian and KDE 6 - WSL - How to install KDE 6 via Debian - Windows 11 - X410 - Linux - 2024 https://www.youtube.com/watch?v=yrtgmwsptVc](https://dev.to/mattias_vinberg_4e59bd133/debian-and-kde-6-wsl-how-to-install-kde-6-via-debian-windows-11-x410-linux-2024-4)
 <!-- BLOG-POST-LIST:END -->
 
 
