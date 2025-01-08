@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Blog](https://dev.to/rishabh_raj_2b61a1c41b371/my-tech-blog-3onc)
-- [Why soft skills are important for a programmer?](https://dev.to/taqmuraz/why-soft-skills-are-important-for-a-programmer-1jkf)
-- [Laravel IQ - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-1-15fk)
-- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #6.2: Azure Files - File Sync](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-62-azure-files--4c3)
+- [Setting values in R6 classes, and testing with shiny::MockShinySession](https://dev.to/colinfay/setting-values-in-r6-classes-and-testing-with-shinymockshinysession-23l1)
+- [Exploring The Southeast&#39;s Last Vibrant Tech Scene: ATL Meetup Tour](https://dev.to/blkgrlcto/exploring-the-souths-last-vibrant-tech-scene-atl-meetup-tour-46e7)
+- [Sidecar container simplified examples](https://dev.to/cheedge_lee/sidecar-container-simplified-examples-1m4a)
+- [Taking Back Control in 2024](https://dev.to/pancy/taking-back-control-in-2024-10ah)
 <!-- BLOG-POST-LIST:END -->
 
 
