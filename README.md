@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeros pasos con AWS PartyRock](https://dev.to/aws-espanol/primeros-pasos-con-aws-partyrock-1fma)
-- [Using CSS variables to create dynamic themes in Puck](https://dev.to/puckeditor/using-css-variables-to-create-dynamic-themes-in-puck-26lm)
-- [Harnessing Machine Learning and Generative AI to Combat HMPV](https://dev.to/stephan_hawke_fd9cbb38db7/harnessing-machine-learning-and-generative-ai-to-combat-hmpv-3fjl)
-- [Retro’ing and Debugging 2024 - A year of learning and fun](https://dev.to/vignesh_j/retroing-and-debugging-2024-a-year-of-learning-and-fun-4nlg)
+- [Lattice Cryptography: A Post-Quantum Solution](https://dev.to/bytehide/lattice-cryptography-a-post-quantum-solution-49c4)
+- [How to Use Three.js for Interactive 3D Web Experiences](https://dev.to/smok/how-to-use-threejs-for-interactive-3d-web-experiences-4ame)
+- [How AI Audit Services Ensure Ethical AI Deployment](https://dev.to/globalnodes/how-ai-audit-services-ensure-ethical-ai-deployment-1cne)
+- [Relational Databases Holding You Back?](https://dev.to/falkordb/relational-databases-holding-you-back-4f92)
 <!-- BLOG-POST-LIST:END -->
 
 
