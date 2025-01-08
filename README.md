@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 JavaScript Frameworks for 2025](https://dev.to/1408keshu/top-10-javascript-frameworks-for-2025-4379)
-- [Secure Self-Hosting with Cloudflare Tunnels and Docker: Zero Trust Security](https://dev.to/mihailtd/secure-self-hosting-with-cloudflare-tunnels-and-docker-zero-trust-security-5bbn)
-- [Great resource for backend developers](https://dev.to/envitab/great-resource-for-backend-developers-3lea)
-- [Go Concurrency: Mutexes vs Channels with Examples](https://dev.to/mayallo/go-concurrency-mutexes-vs-channels-with-examples-47pe)
+- [🚀 Your Daily Crypto Job Digest For 08 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-january-3gmd)
+- [Einstellen AI: The Ultimate AI Tool for Smarter Hiring](https://dev.to/einstellenai/einstellen-ai-the-ultimate-ai-tool-for-smarter-hiring-4e16)
+- [Day 4 :Everything You Need to Know About Functions in Python](https://dev.to/praneeth_647b9830399cd2b7/day-4-everything-you-need-to-know-about-functions-in-python-4hnl)
+- [Kafka Top 10 Interview Questions](https://dev.to/vivek1030/kafka-top-10-interview-questions-1876)
 <!-- BLOG-POST-LIST:END -->
 
 
