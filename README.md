@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lattice Cryptography: A Post-Quantum Solution](https://dev.to/bytehide/lattice-cryptography-a-post-quantum-solution-49c4)
-- [How to Use Three.js for Interactive 3D Web Experiences](https://dev.to/smok/how-to-use-threejs-for-interactive-3d-web-experiences-4ame)
-- [How AI Audit Services Ensure Ethical AI Deployment](https://dev.to/globalnodes/how-ai-audit-services-ensure-ethical-ai-deployment-1cne)
-- [Relational Databases Holding You Back?](https://dev.to/falkordb/relational-databases-holding-you-back-4f92)
+- [My Tech Blog](https://dev.to/rishabh_raj_2b61a1c41b371/my-tech-blog-3onc)
+- [Why soft skills are important for a programmer?](https://dev.to/taqmuraz/why-soft-skills-are-important-for-a-programmer-1jkf)
+- [Laravel IQ - Level 1 - Part 1](https://dev.to/ruhul_aminsujon_f65b3678/laravel-iq-level-1-part-1-15fk)
+- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #6.2: Azure Files - File Sync](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-62-azure-files--4c3)
 <!-- BLOG-POST-LIST:END -->
 
 
