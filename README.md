@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting values in R6 classes, and testing with shiny::MockShinySession](https://dev.to/colinfay/setting-values-in-r6-classes-and-testing-with-shinymockshinysession-23l1)
-- [Exploring The Southeast&#39;s Last Vibrant Tech Scene: ATL Meetup Tour](https://dev.to/blkgrlcto/exploring-the-souths-last-vibrant-tech-scene-atl-meetup-tour-46e7)
-- [Sidecar container simplified examples](https://dev.to/cheedge_lee/sidecar-container-simplified-examples-1m4a)
-- [Taking Back Control in 2024](https://dev.to/pancy/taking-back-control-in-2024-10ah)
+- [Wow! This article really went viral. I can&#39;t believe how many people have red it already.](https://dev.to/dansasser/wow-this-article-really-went-viral-i-cant-believe-how-many-people-have-red-it-already-1pf5)
+- [Top 10 Chrome DevTools Features Every Developer Should Know in 2025](https://dev.to/arjun98k/top-10-chrome-devtools-features-every-developer-should-know-in-2025-40kp)
+- [AI Agent Tutorial for Beginners: A Comprehensive Guide](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agent-tutorial-for-beginners-a-comprehensive-guide-24op)
+- [The Basics of UI vs UX](https://dev.to/letsupdateskills/the-basics-of-ui-vs-ux-1gfn)
 <!-- BLOG-POST-LIST:END -->
 
 
