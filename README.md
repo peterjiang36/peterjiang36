@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gallery with varied image sizes using aspect-ratio and object-fit](https://dev.to/snippflow/gallery-with-varied-image-sizes-using-aspect-ratio-and-object-fit-4jh9)
-- [Transform Your Software Testing Game with the GenQE Chrome Extension 🚀](https://dev.to/vaibhavkuls/transform-your-software-testing-game-with-the-genqe-chrome-extension-581a)
-- [5 Free Resources to Learn Frontend Development](https://dev.to/majeedatwahab/5-free-resources-to-learn-frontend-development-2494)
-- [Looking for testers before launching my Saas !](https://dev.to/lotfijb/looking-for-testers-before-launching-my-saas--52pb)
+- [&quot;Revolutionizing ERP Customization: The Power of AI and Self-Adaptive Frameworks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-erp-customization-the-power-of-ai-and-self-adaptive-frameworks-4h89)
+- [Mastering Rust Lifetimes: Advanced Techniques for Safe and Efficient Code](https://dev.to/aaravjoshi/mastering-rust-lifetimes-advanced-techniques-for-safe-and-efficient-code-27pp)
+- [Observability 2.0 - The Best Thing Since Sliced Bread](https://dev.to/metis/observability-20-the-best-thing-since-sliced-bread-1aih)
+- [Monorepo + microfrontend with module-federation+vite](https://dev.to/hxnain619/-362h)
 <!-- BLOG-POST-LIST:END -->
 
 
