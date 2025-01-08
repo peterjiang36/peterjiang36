@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Form User Experience with CSS: Real-Time Feedback Techniques for Better User Interaction](https://dev.to/devyoma/enhancing-form-user-experience-with-css-real-time-feedback-techniques-for-better-user-interaction-fig)
-- [Design Pattern in Flutter MVVM](https://dev.to/sukmarizki04/design-pattern-in-flutter-mvvm-4mkm)
-- [Handling Concurrency in CosmosDB with ETags](https://dev.to/petersaktor/handling-concurrency-in-cosmosdb-with-etags-15bd)
-- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
+- [Gallery with varied image sizes using aspect-ratio and object-fit](https://dev.to/snippflow/gallery-with-varied-image-sizes-using-aspect-ratio-and-object-fit-4jh9)
+- [Transform Your Software Testing Game with the GenQE Chrome Extension 🚀](https://dev.to/vaibhavkuls/transform-your-software-testing-game-with-the-genqe-chrome-extension-581a)
+- [5 Free Resources to Learn Frontend Development](https://dev.to/majeedatwahab/5-free-resources-to-learn-frontend-development-2494)
+- [Looking for testers before launching my Saas !](https://dev.to/lotfijb/looking-for-testers-before-launching-my-saas--52pb)
 <!-- BLOG-POST-LIST:END -->
 
 
