@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quando usar ResponseEntity?](https://dev.to/oigorrudel/quando-usar-responseentity-36b6)
-- [Building and Deploying a New API &lpar;Part 2&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-2-5dm)
-- [What is IoT? A Comprehensive Guide to the Internet of Things](https://dev.to/scitech-insights/what-is-iot-a-comprehensive-guide-to-the-internet-of-things-28n8)
-- [10 Months of Elm to Angular](https://dev.to/jesterxl/10-months-of-elm-to-angular-enh)
+- [Testing Future](https://dev.to/ben/testing-future-11f3)
+- [My Zig with Ghostty](https://dev.to/abhishekamralkar/my-zig-with-ghostty-4kmk)
+- [How I write Go APIs in 2025 - my experience with Fuego](https://dev.to/tizzard/how-i-write-go-apis-in-2025-my-experience-with-fuego-1j5o)
+- [9 top open-source tools to fuel your SaaS journey in 2025🚀](https://dev.to/composiodev/9-top-open-source-tools-to-fuel-your-saas-journey-in-2025-1chb)
 <!-- BLOG-POST-LIST:END -->
 
 
