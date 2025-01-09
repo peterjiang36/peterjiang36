@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Docker Security Best Practices](https://dev.to/snyk/10-docker-security-best-practices-3pee)
-- [How to Enhance Real-Time Performance of Linux 6.1 Kernel on OK-MX9352-C by Applying Real-Time Patches](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-enhance-real-time-performance-of-linux-61-kernel-on-ok-mx9352-c-by-applying-real-time-4gnm)
-- [Unlocking Success: The Best Software Development Tools to Elevate Your Projects in 2025](https://dev.to/jetthoughts/unlocking-success-the-best-software-development-tools-to-elevate-your-projects-in-2025-4hab)
-- [Why AI-Driven Automated Testing is a Necessity for Enterprises in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/why-ai-driven-automated-testing-is-a-necessity-for-enterprises-in-2025-2c5l)
+- [AI and Automation in Data Analytics: Tools, Techniques, and Challenges](https://dev.to/ahanash46390872/ai-and-automation-in-data-analytics-tools-techniques-and-challenges-e6m)
+- [Understanding CPU Performance: A Detailed Guide to Comparing Processors for Optimal Computing](https://dev.to/adityabhuyan/understanding-cpu-performance-a-detailed-guide-to-comparing-processors-for-optimal-computing-3e0o)
+- [JavaScript Memory Optimization Techniques](https://dev.to/nhannguyendevjs/javascript-memory-optimization-techniques-4jkf)
+- [Why I Built commit-ai: A Story About Git Security and Team Safety](https://dev.to/luanphungba/why-i-built-commit-ai-a-story-about-git-security-and-team-safety-1ejn)
 <!-- BLOG-POST-LIST:END -->
 
 
