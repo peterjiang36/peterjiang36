@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Future](https://dev.to/ben/testing-future-11f3)
-- [My Zig with Ghostty](https://dev.to/abhishekamralkar/my-zig-with-ghostty-4kmk)
-- [How I write Go APIs in 2025 - my experience with Fuego](https://dev.to/tizzard/how-i-write-go-apis-in-2025-my-experience-with-fuego-1j5o)
-- [9 top open-source tools to fuel your SaaS journey in 2025🚀](https://dev.to/composiodev/9-top-open-source-tools-to-fuel-your-saas-journey-in-2025-1chb)
+- [AI Agents: The Future of Intelligent Automation](https://dev.to/abhinav11234/ai-agents-the-future-of-intelligent-automation-4ge1)
+- [Indicator to do better software design](https://dev.to/manoj_kumar_6703aa3643a64/indicator-to-do-better-software-design-4pad)
+- [Building with Twitter Data: A Developer&#39;s Guide to Cost-Effective Solutions](https://dev.to/kaito2046/building-with-twitter-data-a-developers-guide-to-cost-effective-solutions-4cmh)
+- [🚀 Supercharge Your PHP Projects with FileSizeHandler: A Flexible and Extensible File Size Utility](https://dev.to/nassiry/supercharge-your-php-projects-with-filesizehandler-a-flexible-and-extensible-file-size-utility-3nn9)
 <!-- BLOG-POST-LIST:END -->
 
 
