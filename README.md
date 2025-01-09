@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Automation in Data Analytics: Tools, Techniques, and Challenges](https://dev.to/ahanash46390872/ai-and-automation-in-data-analytics-tools-techniques-and-challenges-e6m)
-- [Understanding CPU Performance: A Detailed Guide to Comparing Processors for Optimal Computing](https://dev.to/adityabhuyan/understanding-cpu-performance-a-detailed-guide-to-comparing-processors-for-optimal-computing-3e0o)
-- [JavaScript Memory Optimization Techniques](https://dev.to/nhannguyendevjs/javascript-memory-optimization-techniques-4jkf)
-- [Why I Built commit-ai: A Story About Git Security and Team Safety](https://dev.to/luanphungba/why-i-built-commit-ai-a-story-about-git-security-and-team-safety-1ejn)
+- [Why Mobile App Crashes: Common Causes and Solutions in the BFSI Sector](https://dev.to/grjoeay/why-mobile-app-crashes-common-causes-and-solutions-in-the-bfsi-sector-4m8m)
+- [UXGamer Labs - Testers Needed!](https://dev.to/itayzuriel/uxgamer-labs-testers-needed-1lol)
+- [What I Learned from the &#39;Amazon DynamoDB for Serverless Architectures&#39; Course on AWS Skill Builder](https://dev.to/hoangquochung1110/what-i-learned-from-the-amazon-dynamodb-for-serverless-architectures-course-on-aws-skill-builder-58og)
+- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
 <!-- BLOG-POST-LIST:END -->
 
 
