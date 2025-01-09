@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Data JPA: Speed Up Development &amp; Business Focus](https://dev.to/devmercy/spring-data-jpa-speed-up-development-business-focus-1ob9)
-- [Migrando subscribe Callbacks para subscribe arguments no RxJS](https://dev.to/brunoredes/migrando-de-callbacks-para-argument-observable-no-rxjs-3f4n)
-- [Comparing Test Execution Speed of Modern Test Automation Frameworks: Cypress vs Playwright](https://dev.to/swikritit/comparing-test-execution-speed-of-modern-test-automation-frameworks-cypress-vs-playwright-3hg8)
-- [Distributed Monolith: Why Are You Destroying My Life?](https://dev.to/dminatto/distributed-monolith-why-are-you-destroying-my-life-5hj5)
+- [How to Become a Power BI Developer in 2025 ?](https://dev.to/vivekk101/how-to-become-a-power-bi-developer-in-2025--3gop)
+- [AI Agents Tutorial For Beginners: A Comprehensive Guide](https://dev.to/rishabh_raj_2b61a1c41b371/ai-agents-tutorial-for-beginners-a-comprehensive-guide-49b)
+- [Why I Chose Node.js Over Next.js for My Website&#39;s Back-End](https://dev.to/shotvpro/why-i-chose-nodejs-over-nextjs-for-my-websites-back-end-1e43)
+- [Real-Time Apps with Node.js and WebSockets](https://dev.to/shotvpro/real-time-apps-with-nodejs-and-websockets-4l42)
 <!-- BLOG-POST-LIST:END -->
 
 
