@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to customize Next.js metadata](https://dev.to/clerk/how-to-customize-nextjs-metadata-p4k)
-- [Optimize PostgreSQL Storage: What Developers Must Know](https://dev.to/timescale/optimize-postgresql-storage-what-developers-must-know-4pef)
-- [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
-- [Tyler Durden: The Alpha and Omega of Cinematic Nihilism](https://dev.to/triple7/tyler-durden-the-alpha-and-omega-of-cinematic-nihilism-1lgd)
+- [Understanding Selection Sort in Kotlin: A Beginner&#39;s Guide](https://dev.to/wolfof420street/understanding-selection-sort-in-kotlin-a-beginners-guide-3cid)
+- [How I’m Turning My Side Project Into a Source of Income](https://dev.to/devlawrence/how-im-turning-my-side-project-into-a-source-of-income-2dnb)
+- [CKA Quick Check Points -- Logs &amp; Configs](https://dev.to/cheedge_lee/cka-quick-check-points-logs-configs-14bi)
+- [The Complete Guide to Bash Commands](https://dev.to/nolunchbreaks_22/the-complete-guide-to-bash-commands-42je)
 <!-- BLOG-POST-LIST:END -->
 
 
