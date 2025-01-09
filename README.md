@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Your Hands: Nvidia’s $3,000 Supercomputer Changes Everything](https://dev.to/empiree/ai-in-your-hands-nvidias-3000-supercomputer-changes-everything-5dp9)
-- [BionicGPT Partners with Pump.fun: Empowering Enterprise AI](https://dev.to/gptbionic/bionicgpt-partners-with-pumpfun-empowering-enterprise-ai-412n)
-- [The latest version of Chrome browser enable SolidWorks 3D controls for ActiveX controls](https://dev.to/yunkaipx/the-latest-version-of-chrome-browser-enable-solidworks-3d-controls-for-activex-controls-l6e)
-- [How to Override Decorator Arguments in Python](https://dev.to/nomi3/how-to-override-decorator-arguments-in-python-120b)
+- [Quando usar ResponseEntity?](https://dev.to/oigorrudel/quando-usar-responseentity-36b6)
+- [Building and Deploying a New API &lpar;Part 2&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-2-5dm)
+- [What is IoT? A Comprehensive Guide to the Internet of Things](https://dev.to/scitech-insights/what-is-iot-a-comprehensive-guide-to-the-internet-of-things-28n8)
+- [10 Months of Elm to Angular](https://dev.to/jesterxl/10-months-of-elm-to-angular-enh)
 <!-- BLOG-POST-LIST:END -->
 
 
