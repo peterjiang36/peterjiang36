@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Gatsby to Next.js: Why We Migrated Our Blog and How You Can Too](https://dev.to/flotiq/from-gatsby-to-nextjs-why-we-migrated-our-blog-and-how-you-can-too-e96)
-- [Strategy Pattern](https://dev.to/stevsharp/strategy-pattern-h9l)
-- [How the World’s Slowest HELLO WORLD Program Was Born](https://dev.to/eigil_bjrgum_80e0a17784f/how-the-worlds-slowest-hello-world-program-was-born-o29)
-- [How to Implement Brand Indicators For Message Identification &lpar;BIMI&rpar; to Display The Brand Logo in an Email?](https://dev.to/certera_/how-to-implement-brand-indicators-for-message-identification-bimi-to-display-the-brand-logo-in-an-gbk)
+- [Spring Data JPA: Speed Up Development &amp; Business Focus](https://dev.to/devmercy/spring-data-jpa-speed-up-development-business-focus-1ob9)
+- [Migrando subscribe Callbacks para subscribe arguments no RxJS](https://dev.to/brunoredes/migrando-de-callbacks-para-argument-observable-no-rxjs-3f4n)
+- [Comparing Test Execution Speed of Modern Test Automation Frameworks: Cypress vs Playwright](https://dev.to/swikritit/comparing-test-execution-speed-of-modern-test-automation-frameworks-cypress-vs-playwright-3hg8)
+- [Distributed Monolith: Why Are You Destroying My Life?](https://dev.to/dminatto/distributed-monolith-why-are-you-destroying-my-life-5hj5)
 <!-- BLOG-POST-LIST:END -->
 
 
