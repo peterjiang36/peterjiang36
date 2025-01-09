@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Mobile App Crashes: Common Causes and Solutions in the BFSI Sector](https://dev.to/grjoeay/why-mobile-app-crashes-common-causes-and-solutions-in-the-bfsi-sector-4m8m)
-- [UXGamer Labs - Testers Needed!](https://dev.to/itayzuriel/uxgamer-labs-testers-needed-1lol)
-- [What I Learned from the &#39;Amazon DynamoDB for Serverless Architectures&#39; Course on AWS Skill Builder](https://dev.to/hoangquochung1110/what-i-learned-from-the-amazon-dynamodb-for-serverless-architectures-course-on-aws-skill-builder-58og)
-- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
+- [How to Develop an OTT App like Netflix?](https://dev.to/yudizsolutions/how-to-develop-an-ott-app-like-netflix-9mm)
+- [Smart and Modular Validation Toolkit](https://dev.to/jackfd120/smart-and-modular-validation-toolkit-3o6b)
+- [Item 82: Documente a thread safety](https://dev.to/javaefetivo/item-82-documente-a-thread-safety-3jc3)
+- [Deploy Vite React project with React router without 404 on Github pages](https://dev.to/avithe1/deploy-vite-react-project-with-react-router-without-404-on-github-pages-h6p)
 <!-- BLOG-POST-LIST:END -->
 
 
