@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop an OTT App like Netflix?](https://dev.to/yudizsolutions/how-to-develop-an-ott-app-like-netflix-9mm)
-- [Smart and Modular Validation Toolkit](https://dev.to/jackfd120/smart-and-modular-validation-toolkit-3o6b)
-- [Item 82: Documente a thread safety](https://dev.to/javaefetivo/item-82-documente-a-thread-safety-3jc3)
-- [Deploy Vite React project with React router without 404 on Github pages](https://dev.to/avithe1/deploy-vite-react-project-with-react-router-without-404-on-github-pages-h6p)
+- [Digital Signage Content Management Systems &lpar;CMS&rpar;: The Ultimate Guide](https://dev.to/evelynwyatt/digital-signage-content-management-systems-cms-the-ultimate-guide-28kh)
+- [Experience the magic of interactive web animations!](https://dev.to/prince_beec5ccde00b7c6c73/experience-the-magic-of-interactive-web-animations-1g9i)
+- [How Mobile Event Apps Revolutionize Check-Ins and Simplify Ticketing](https://dev.to/saanvipatel099/how-mobile-event-apps-revolutionize-check-ins-and-simplify-ticketing-38eb)
+- [QuoteAI Pro: Generate Project Estimates in Minutes with AI Precision](https://dev.to/material360/quoteai-pro-generate-project-estimates-in-minutes-with-ai-precision-4j74)
 <!-- BLOG-POST-LIST:END -->
 
 
