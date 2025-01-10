@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 10 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-january-5cgl)
-- [Explaining &lpar;the need for&rpar; SQL&#39;s Common Table Expressions &lpar;CTE&rpar;](https://dev.to/pkutaj/explaining-the-need-for-sqls-common-table-expressions-cte-2gag)
-- [Awesome tutorial using CopilotKit!](https://dev.to/uliyahoo/awesome-tutorial-using-copilotkit-5g74)
-- [Building a Smart Heater Controller with Python, Docker, and Bluetooth #4](https://dev.to/mecorre1/building-a-smart-heater-controller-with-python-docker-and-bluetooth-4-i73)
+- [&lpar;Trying to&rpar; take notes from the lock screen](https://dev.to/tkuenneth/trying-to-take-notes-from-the-lock-screen-4h95)
+- [Nguyên lý High Cohesion trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-high-cohesion-trong-grasp-pattern-2cko)
+- [Unexpected Transformations: A Year of Growth Through Adversity](https://dev.to/ksolomon/unexpected-transformations-a-year-of-growth-through-adversity-500d)
+- [Find logged Microsoft SQL Server Messages](https://dev.to/flnzba/find-logged-microsoft-sql-server-messages-1mj2)
 <!-- BLOG-POST-LIST:END -->
 
 
