@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Loco 0.14 on Cathyos: Getting started](https://dev.to/nabbisen/loco-014-on-cathyos-getting-started-2bid)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
-- [Streamline Your Business with a Photography Invoice Template &amp; Receipt Maker](https://dev.to/helen7788/streamline-your-business-with-a-photography-invoice-template-receipt-maker-3ghk)
-- [Components of AI](https://dev.to/shivamchamoli18/components-of-ai-3ggl)
+- [Revolutionize Your Database with These Laravel Migration Best Practices](https://dev.to/dhruvil_joshi14/revolutionize-your-database-with-these-laravel-migration-best-practices-1f77)
+- [Git Like a Pro: The Ultimate Cheat Sheet for Developers](https://dev.to/kafeel_ahmad/git-like-a-pro-the-ultimate-cheat-sheet-for-developers-3a87)
+- [AI assistance at autocomplete on coding](https://dev.to/pramananda_sarkar/ai-assistance-at-autocomplete-on-coding-41oi)
+- [Bag: A header-only, simplistic, C++20, zipping &amp; unzipping library.](https://dev.to/rechie_kho/bag-a-header-only-simplistic-c20-zipping-unzipping-library-1a6d)
 <!-- BLOG-POST-LIST:END -->
 
 
