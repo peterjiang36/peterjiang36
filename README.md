@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Makefile](https://dev.to/sehyeonkim/makefile-oob)
-- [Basics of the Cyber Threat Landscape](https://dev.to/godofgeeks/basics-of-the-cyber-threat-landscape-2odd)
-- [3d portfolio](https://dev.to/vargha_rahavi/3d-portfolio-12p)
-- [Detecting and Mitigating Threats with AWS Security Hub and GuardDuty.](https://dev.to/goodluck_ekeoma_2c98866d0/detecting-and-mitigating-threats-with-aws-security-hub-and-guardduty-187k)
+- [Beatbump: Exploring Svelte Best Practices for Dynamic Web Applications](https://dev.to/codeparrot/beatbump-exploring-svelte-best-practices-for-dynamic-web-applications-41jm)
+- [Learn how to a create a scroll progress bar with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-a-create-a-scroll-progress-bar-with-tailwind-css-and-javascript-33o5)
+- [Navigating the Content Maze: A Startup&#39;s Guide to Effective Multi-Channel Distribution](https://dev.to/tomhistories/navigating-the-content-maze-a-startups-guide-to-effective-multi-channel-distribution-57l7)
+- [A Top HR Service Company Replaces its System Seamlessly with BladePipe](https://dev.to/bladepipe/a-top-hr-service-company-replaces-its-system-seamlessly-with-bladepipe-2agn)
 <!-- BLOG-POST-LIST:END -->
 
 
