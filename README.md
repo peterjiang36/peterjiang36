@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you really need AI Agents?](https://dev.to/mkinf_io/do-you-really-need-ai-agents-3f4g)
-- [Glimpse of Google: Peer bonuses](https://dev.to/rockandnull/glimpse-of-google-peer-bonuses-288c)
-- [The Complete Guide to Web Scraping: What It Is and How It Can Help Businesses](https://dev.to/emmamiller/the-complete-guide-to-web-scraping-what-it-is-and-how-it-can-help-businesses-32hc)
-- [Limitations and Challenges of AI Agents](https://dev.to/mkinf_io/limitations-and-challenges-of-ai-agents-12g5)
+- [🚀 Your Daily Crypto Job Digest For 10 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-january-5cgl)
+- [Explaining &lpar;the need for&rpar; SQL&#39;s Common Table Expressions &lpar;CTE&rpar;](https://dev.to/pkutaj/explaining-the-need-for-sqls-common-table-expressions-cte-2gag)
+- [Awesome tutorial using CopilotKit!](https://dev.to/uliyahoo/awesome-tutorial-using-copilotkit-5g74)
+- [Building a Smart Heater Controller with Python, Docker, and Bluetooth #4](https://dev.to/mecorre1/building-a-smart-heater-controller-with-python-docker-and-bluetooth-4-i73)
 <!-- BLOG-POST-LIST:END -->
 
 
