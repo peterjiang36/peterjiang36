@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 1 Thing I Love About TailwindCSS v4 Beta and 1 Thing I Hate ✨](https://dev.to/meschacirung/1-thing-i-love-about-tailwindcss-v4-beta-and-1-thing-i-hate-3go)
-- [Top 5 Open Source Authenticator Apps](https://dev.to/ambujb/top-5-open-source-authenticator-apps-4ake)
-- [AWS Cost Optimization: Strategies to Maximize Efficiency and Reduce Cloud Costs](https://dev.to/tharinirp/aws-cost-optimization-strategies-to-maximize-efficiency-and-reduce-cloud-costs-3iin)
-- [Loco 0.14 on Cathyos: 始め方](https://dev.to/nabbisen/loco-014-on-cathyos-shi-mefang-nch)
+- [Why Developers Experience a Decline in Learning Ability Over The Period.](https://dev.to/ozakaran/why-developers-experience-a-decline-in-learning-ability-over-the-period-1j5c)
+- [Lessons from My 2 SaaS Exits 🔑 Fueling My Next Big Exits](https://dev.to/martin_the_m/lessons-from-my-2-saas-exits-fueling-my-next-big-exits-2a8o)
+- [2025: From &#39;Can Someone Help?&#39; to &#39;I’ve Got This!&#39;🤩](https://dev.to/harshit_rwt/2025-from-can-someone-help-to-ive-got-this-p7e)
+- [Revolutionizing Operations with Comprehensive Equipment Management Systems](https://dev.to/seleam/revolutionizing-operations-with-comprehensive-equipment-management-systems-586h)
 <!-- BLOG-POST-LIST:END -->
 
 
