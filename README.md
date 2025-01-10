@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
-- [Test](https://dev.to/ben/test-5cj6)
-- [Another test post](https://dev.to/ben/another-test-post-2o9)
-- [Test post](https://dev.to/ben/test-post-31k2)
+- [3 very simple React patterns to immediately improve your codebase 🪄](https://dev.to/tymzap/3-very-simple-react-patterns-to-immediately-improve-your-codebase-573)
+- [&quot;Revolutionizing Brain Cancer Diagnosis with DenseNet169 and Explainable AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-brain-cancer-diagnosis-with-densenet169-and-explainable-ai-2m81)
+- [How AI Will Impact Your High-Frequency Trading Clients](https://dev.to/stealc/how-ai-will-impact-your-high-frequency-trading-clients-17hl)
+- [The AI Evolution in Software Development: Crafting the Future of Innovation](https://dev.to/vaibhavkuls/the-ai-evolution-in-software-development-crafting-the-future-of-innovation-42lb)
 <!-- BLOG-POST-LIST:END -->
 
 
