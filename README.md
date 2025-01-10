@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Comparing Frameworks and Languages: It’s a Waste of Time](https://dev.to/hotfixhero/stop-comparing-frameworks-and-languages-its-a-waste-of-time-135f)
-- [Ruby on Rails - Calculating pricing based user&#39;s purchasing power parity](https://dev.to/waruna/ruby-on-rails-calculating-pricing-based-users-purchasing-power-parity-4bc8)
-- [Codewars - Pick peaks](https://dev.to/dantedinopegassi/codewars-pick-peaks-3nkn)
-- [How to Host a Project on Firebase Hosting](https://dev.to/roton2/how-to-host-a-project-on-firebase-hosting-37dg)
+- [🌟 Deploying a Live Project Without a Dockerfile Using Buildpacks 🌟](https://dev.to/reetesh_kumar/deploying-a-live-project-without-a-dockerfile-using-buildpacks-3f7c)
+- [Singleton ou Observable? A Escolha Errada Pode Custar Sua Promoção!](https://dev.to/sertaoseracloud/singleton-ou-observable-a-escolha-errada-pode-custar-sua-promocao-1if9)
+- [Self-Taught is Still Possible In 2025](https://dev.to/nmiller15/self-taught-is-still-possible-in-2025-546d)
+- [Explore, Scan, Secure: Nmap for Network Ninjas](https://dev.to/karanjain2527/explore-scan-secure-nmap-for-network-ninjas-4p0m)
 <!-- BLOG-POST-LIST:END -->
 
 
