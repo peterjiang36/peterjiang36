@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix the &quot;PHP Not Found&quot; Error on macOS After Installing XAMPP](https://dev.to/saint_vandora/how-to-fix-the-php-not-found-error-on-macos-after-installing-xampp-3k80)
-- [What are the types or formats of questions can I expect in the exam?? &lpar;OCA Java SE 8 Programmer I Certification&rpar;](https://dev.to/devmercy/what-are-the-types-or-formats-of-questions-can-i-expect-in-the-exam-oca-java-se-8-programmer-i-lmf)
-- [This Week In React #216 : Next.js, ViewTransition, RSC, Compiler, React Router, Recoil, Bippy, Docusaurus, A11y...](https://dev.to/sebastienlorber/this-week-in-react-216-nextjs-viewtransition-rsc-compiler-react-router-recoil-bippy-51b0)
-- [New to working on server side development... I designed a nodejs,express mongodb and ejs project when deployed on cpanel im getting error &quot;failed to load resource:the server responded with status 500&quot; when making API calls to third party api](https://dev.to/twain97/new-to-working-on-server-side-development-i-designed-a-nodejsexpress-mongodb-and-ejs-project-16fn)
+- [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
+- [Test](https://dev.to/ben/test-5cj6)
+- [Another test post](https://dev.to/ben/another-test-post-2o9)
+- [Test post](https://dev.to/ben/test-post-31k2)
 <!-- BLOG-POST-LIST:END -->
 
 
