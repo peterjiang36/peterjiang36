@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Serverless Architecture in Modern Website Development: Benefits and Impact](https://dev.to/adityabhuyan/the-role-of-serverless-architecture-in-modern-website-development-benefits-and-impact-427i)
-- [Designing Resilient Systems with Chaos Engineering in DevOps](https://dev.to/virajlakshitha/designing-resilient-systems-with-chaos-engineering-in-devops-h04)
-- [The System of Front-end UI Components](https://dev.to/ourai/the-system-of-front-end-ui-components-5hej)
-- [Understanding Microservices Architecture in Full-Stack Applications](https://dev.to/adityabhuyan/understanding-microservices-architecture-in-full-stack-applications-4n05)
+- [Overloading methods with types in PHP 8.0 and above. The way it should be.](https://dev.to/michalczerski/overloading-methods-with-types-in-php-80-and-above-the-way-it-should-be-3a27)
+- [Participating in a hackathon: My experience](https://dev.to/israelrotimi/participating-in-a-hackathon-my-experience-177g)
+- [Your Roadmap to Mastering k6 for Performance Testing](https://dev.to/jfreveb/your-roadmap-to-mastering-k6-for-performance-testing-5eae)
+- [Here&#39;s how to brew obfuscation in JavaScript without burning the lab: AST, Babel, plugins.](https://dev.to/karust/heres-how-to-brew-obfuscation-in-javascript-without-burning-the-lab-ast-babel-plugins-2k2d)
 <!-- BLOG-POST-LIST:END -->
 
 
