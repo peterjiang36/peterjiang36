@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Deploying a Live Project Without a Dockerfile Using Buildpacks 🌟](https://dev.to/reetesh_kumar/deploying-a-live-project-without-a-dockerfile-using-buildpacks-3f7c)
-- [Singleton ou Observable? A Escolha Errada Pode Custar Sua Promoção!](https://dev.to/sertaoseracloud/singleton-ou-observable-a-escolha-errada-pode-custar-sua-promocao-1if9)
-- [Self-Taught is Still Possible In 2025](https://dev.to/nmiller15/self-taught-is-still-possible-in-2025-546d)
-- [Explore, Scan, Secure: Nmap for Network Ninjas](https://dev.to/karanjain2527/explore-scan-secure-nmap-for-network-ninjas-4p0m)
+- [AI-First Organization](https://dev.to/razbakov/ai-first-organization-2cf7)
+- [Poor man&#39;s parallel in Bash](https://dev.to/stolzenhain/poor-mans-parallel-in-bash-46e2)
+- [9 Terms Every Frontend Developer Should Know!](https://dev.to/rijultp/9-terms-every-frontend-developer-should-know-58p3)
+- [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://dev.to/sagnew/asynchronous-http-requests-in-python-with-httpx-and-asyncio-2n19)
 <!-- BLOG-POST-LIST:END -->
 
 
