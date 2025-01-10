@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1078 : Proceed](https://dev.to/dwane/day-1078-proceed-2i)
-- [Excellent work, the DEV community is transforming the development landscape in a positive progressive way](https://dev.to/selaelo_makgato_8c4644f94/excellent-work-the-dev-community-is-transforming-the-development-landscape-in-a-positive-46p1)
-- [Aprendendo sobre Teste Estático e Dinâmico](https://dev.to/yuri-aprendendoqa/aprendendo-sobre-teste-estatico-e-dinamico-3d47)
-- [Retro’ing and Debugging 2024: A Developer&#39;s Journey to Independence](https://dev.to/block_experts_766a3a21915637/retroing-and-debugging-2024-empowering-freedom-a-developers-journey-to-independence-470m)
+- [The best web crawler tools in 2025](https://dev.to/98ip/the-best-web-crawler-tools-in-2025-331m)
+- [خا](https://dev.to/hamidreza_karbalivand_476/kh-2539)
+- [The Hidden Challenges of Cross-Border E-Commerce and How to Overcome Them](https://dev.to/hana_lee/the-hidden-challenges-of-cross-border-e-commerce-and-how-to-overcome-them-45el)
+- [CSS Gradient Generator 🚀 🌟](https://dev.to/hanzla-baig/css-gradient-generator-3occ)
 <!-- BLOG-POST-LIST:END -->
 
 
