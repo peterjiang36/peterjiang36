@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The best web crawler tools in 2025](https://dev.to/98ip/the-best-web-crawler-tools-in-2025-331m)
-- [خا](https://dev.to/hamidreza_karbalivand_476/kh-2539)
-- [The Hidden Challenges of Cross-Border E-Commerce and How to Overcome Them](https://dev.to/hana_lee/the-hidden-challenges-of-cross-border-e-commerce-and-how-to-overcome-them-45el)
-- [CSS Gradient Generator 🚀 🌟](https://dev.to/hanzla-baig/css-gradient-generator-3occ)
+- [The Role of Serverless Architecture in Modern Website Development: Benefits and Impact](https://dev.to/adityabhuyan/the-role-of-serverless-architecture-in-modern-website-development-benefits-and-impact-427i)
+- [Designing Resilient Systems with Chaos Engineering in DevOps](https://dev.to/virajlakshitha/designing-resilient-systems-with-chaos-engineering-in-devops-h04)
+- [The System of Front-end UI Components](https://dev.to/ourai/the-system-of-front-end-ui-components-5hej)
+- [Understanding Microservices Architecture in Full-Stack Applications](https://dev.to/adityabhuyan/understanding-microservices-architecture-in-full-stack-applications-4n05)
 <!-- BLOG-POST-LIST:END -->
 
 
