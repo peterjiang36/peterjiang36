@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Selection Sort in Kotlin: A Beginner&#39;s Guide](https://dev.to/wolfof420street/understanding-selection-sort-in-kotlin-a-beginners-guide-3cid)
-- [How I’m Turning My Side Project Into a Source of Income](https://dev.to/devlawrence/how-im-turning-my-side-project-into-a-source-of-income-2dnb)
-- [CKA Quick Check Points -- Logs &amp; Configs](https://dev.to/cheedge_lee/cka-quick-check-points-logs-configs-14bi)
-- [The Complete Guide to Bash Commands](https://dev.to/nolunchbreaks_22/the-complete-guide-to-bash-commands-42je)
+- [Day 1078 : Proceed](https://dev.to/dwane/day-1078-proceed-2i)
+- [Excellent work, the DEV community is transforming the development landscape in a positive progressive way](https://dev.to/selaelo_makgato_8c4644f94/excellent-work-the-dev-community-is-transforming-the-development-landscape-in-a-positive-46p1)
+- [Aprendendo sobre Teste Estático e Dinâmico](https://dev.to/yuri-aprendendoqa/aprendendo-sobre-teste-estatico-e-dinamico-3d47)
+- [Retro’ing and Debugging 2024: A Developer&#39;s Journey to Independence](https://dev.to/block_experts_766a3a21915637/retroing-and-debugging-2024-empowering-freedom-a-developers-journey-to-independence-470m)
 <!-- BLOG-POST-LIST:END -->
 
 
