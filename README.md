@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beatbump: Exploring Svelte Best Practices for Dynamic Web Applications](https://dev.to/codeparrot/beatbump-exploring-svelte-best-practices-for-dynamic-web-applications-41jm)
-- [Learn how to a create a scroll progress bar with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-a-create-a-scroll-progress-bar-with-tailwind-css-and-javascript-33o5)
-- [Navigating the Content Maze: A Startup&#39;s Guide to Effective Multi-Channel Distribution](https://dev.to/tomhistories/navigating-the-content-maze-a-startups-guide-to-effective-multi-channel-distribution-57l7)
-- [A Top HR Service Company Replaces its System Seamlessly with BladePipe](https://dev.to/bladepipe/a-top-hr-service-company-replaces-its-system-seamlessly-with-bladepipe-2agn)
+- [✨ 1 Thing I Love About TailwindCSS v4 Beta and 1 Thing I Hate ✨](https://dev.to/meschacirung/1-thing-i-love-about-tailwindcss-v4-beta-and-1-thing-i-hate-3go)
+- [Top 5 Open Source Authenticator Apps](https://dev.to/ambujb/top-5-open-source-authenticator-apps-4ake)
+- [AWS Cost Optimization: Strategies to Maximize Efficiency and Reduce Cloud Costs](https://dev.to/tharinirp/aws-cost-optimization-strategies-to-maximize-efficiency-and-reduce-cloud-costs-3iin)
+- [Loco 0.14 on Cathyos: 始め方](https://dev.to/nabbisen/loco-014-on-cathyos-shi-mefang-nch)
 <!-- BLOG-POST-LIST:END -->
 
 
