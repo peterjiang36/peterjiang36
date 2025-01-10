@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Database with These Laravel Migration Best Practices](https://dev.to/dhruvil_joshi14/revolutionize-your-database-with-these-laravel-migration-best-practices-1f77)
-- [Git Like a Pro: The Ultimate Cheat Sheet for Developers](https://dev.to/kafeel_ahmad/git-like-a-pro-the-ultimate-cheat-sheet-for-developers-3a87)
-- [AI assistance at autocomplete on coding](https://dev.to/pramananda_sarkar/ai-assistance-at-autocomplete-on-coding-41oi)
-- [Bag: A header-only, simplistic, C++20, zipping &amp; unzipping library.](https://dev.to/rechie_kho/bag-a-header-only-simplistic-c20-zipping-unzipping-library-1a6d)
+- [Makefile](https://dev.to/sehyeonkim/makefile-oob)
+- [Basics of the Cyber Threat Landscape](https://dev.to/godofgeeks/basics-of-the-cyber-threat-landscape-2odd)
+- [3d portfolio](https://dev.to/vargha_rahavi/3d-portfolio-12p)
+- [Detecting and Mitigating Threats with AWS Security Hub and GuardDuty.](https://dev.to/goodluck_ekeoma_2c98866d0/detecting-and-mitigating-threats-with-aws-security-hub-and-guardduty-187k)
 <!-- BLOG-POST-LIST:END -->
 
 
