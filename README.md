@@ -72,10 +72,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Overloading methods with types in PHP 8.0 and above. The way it should be.](https://dev.to/michalczerski/overloading-methods-with-types-in-php-80-and-above-the-way-it-should-be-3a27)
-- [Participating in a hackathon: My experience](https://dev.to/israelrotimi/participating-in-a-hackathon-my-experience-177g)
-- [Your Roadmap to Mastering k6 for Performance Testing](https://dev.to/jfreveb/your-roadmap-to-mastering-k6-for-performance-testing-5eae)
-- [Here&#39;s how to brew obfuscation in JavaScript without burning the lab: AST, Babel, plugins.](https://dev.to/karust/heres-how-to-brew-obfuscation-in-javascript-without-burning-the-lab-ast-babel-plugins-2k2d)
+- [Loco 0.14 on Cathyos: Getting started](https://dev.to/nabbisen/loco-014-on-cathyos-getting-started-2bid)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
+- [Streamline Your Business with a Photography Invoice Template &amp; Receipt Maker](https://dev.to/helen7788/streamline-your-business-with-a-photography-invoice-template-receipt-maker-3ghk)
+- [Components of AI](https://dev.to/shivamchamoli18/components-of-ai-3ggl)
 <!-- BLOG-POST-LIST:END -->
 
 
