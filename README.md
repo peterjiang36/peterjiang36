@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-3c0a)
-- [Leetcode 75. Sort Colors](https://dev.to/devn913/leetcode-75-sort-colors-3imp)
-- [Rust From &amp; Into Traits - A Full Beginner’s Guide 🦀](https://dev.to/ansonh/rust-from-into-traits-a-full-beginners-guide-1m9l)
-- [The Secret to Making Landing Pages Convert: A Step-by-Step Guide](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-secret-to-making-landing-pages-convert-a-step-by-step-guide-ejp)
+- [TS1062: Type is referenced directly or indirectly in the fulfillment callback of its own &#39;then&#39; method](https://dev.to/rivkaavraham/ts1062-type-is-referenced-directly-or-indirectly-in-the-fulfillment-callback-of-its-own-then-1lc4)
+- [TS1056: Accessors are only available when targeting ECMAScript 5 and higher](https://dev.to/ahmad_tibibi/ts1056-accessors-are-only-available-when-targeting-ecmascript-5-and-higher-3271)
+- [TS1060: The first parameter of the &#39;then&#39; method of a promise must be a callback](https://dev.to/turingvangisms/ts1060-the-first-parameter-of-the-then-method-of-a-promise-must-be-a-callback-43h6)
+- [TS1055: Type &#39;{0}&#39; is not a valid async function return type](https://dev.to/lior_amsalem_3879371237f6/ts1055-type-0-is-not-a-valid-async-function-return-type-1plc)
 <!-- BLOG-POST-LIST:END -->
 
 
