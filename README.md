@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining CI/CD: A Complete Guide to Installing Jenkins on AWS EC2](https://dev.to/khalifalmahmud0/streamlining-cicd-a-complete-guide-to-installing-jenkins-on-aws-ec2-1edl)
-- [How to Load More data using ajax pagination on scroll in laravel 11 Example](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-load-more-data-using-ajax-pagination-on-scroll-in-laravel-11-example-2e50)
-- [TDD: No, Not Test-Driven Development; Let’s Talk Technical Design Documents](https://dev.to/hasan_py/tdd-no-not-test-driven-development-lets-talk-technical-design-documents-594m)
-- [As a beginner I need to go deeper, coding with a team might help learn quicker](https://dev.to/bhuti_db4b189b6679e2d0793/as-a-beginner-i-need-to-go-deeper-coding-with-a-team-might-help-learn-quicker-13l1)
+- [Glue cross-account setup](https://dev.to/aws-builders/glue-cross-account-setup-466p)
+- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-167d)
+- [Zsh vs Bash: Key Differences, Features, and Which to Choose](https://dev.to/codeparrot/zsh-vs-bash-key-differences-features-and-which-to-choose-55j4)
+- [Python Sucks at For Loops – And That’s Exactly Why We Love It](https://dev.to/pranta/python-sucks-at-for-loops-and-thats-exactly-why-we-love-it-3o1)
 <!-- BLOG-POST-LIST:END -->
 
 
