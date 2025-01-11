@@ -31,7 +31,7 @@
 
 I'm currently pursuing a Computer Science Honours degree at the University of Saskatchewan. I have a passion for building things with code, whether it's debugging complex logic, perfecting the user experience of a web page, or bringing a new idea to life. My attention to detail means I can easily spend hours fine-tuning solutions until they’re just right.
 
-When I’m not coding, I love being outdoors! In the winter, you’ll find me skiing down slopes, and in the summer, I’m usually on the tennis court. One of my dreams is to visit as many ski resorts and tennis academies around the world as possible. I’m also an outdoor enthusiast who enjoys hiking and camping—especially road trips with RVs or camper vans.
+When I’m not coding, I love being outdoors! In the winter, you’ll find me skiing down slopes, and in the summer, I’m usually on the tennis court. One of my dreams is to visit as many ski resorts and tennis academies around the world as possible. I also enjoy hiking and camping especially road trips with RVs or camper vans.
 
 For a deeper dive into my personal projects and work experience, feel free to check out my <a href="https://peter-jiang.com/">Portfolio Website</a>.<br><br/>
 
