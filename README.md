@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration for format.JS/react-intl: Automated Translations with doloc](https://dev.to/danielsc/integration-for-formatjsreact-intl-automated-translations-with-doloc-4gpf)
-- [Integration for Angular: Automated Translations with doloc](https://dev.to/danielsc/integration-for-angular-automated-translations-with-doloc-45mn)
-- [Help Shape a Platform for Student Collaboration and Open-Source Contribution! 🌟](https://dev.to/sred_32d5411adef35f2cc234/help-shape-a-platform-for-student-collaboration-and-open-source-contribution-119p)
-- [Show query window at startup in SQL Server Management Studio](https://dev.to/mirajhad/show-query-window-at-startup-in-sql-server-management-studio-1b42)
+- [Ciberseguridad e Inteligencia Artificial: La Nueva Frontera de los Perfiles Tecnológicos](https://dev.to/j0rgear/ciberseguridad-e-inteligencia-artificial-la-nueva-frontera-de-los-perfiles-tecnologicos-2mij)
+- [Lettuce - A Java Redis Client](https://dev.to/said_olano/lettuce-a-java-redis-client-6dd)
+- [Implementing Image Upload in React Quill](https://dev.to/gitdeveloper/implementing-image-upload-in-react-quill-4n28)
+- [DBChat Part 3 - Configure , Connect &amp; Dump Databases](https://dev.to/shrsv/dbchat-part-3-configure-connect-dump-databases-4ogh)
 <!-- BLOG-POST-LIST:END -->
 
 
