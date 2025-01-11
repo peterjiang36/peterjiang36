@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌎 Seamless Multi-Language Support in React Native](https://dev.to/amitkumar13/seamless-multi-language-support-in-react-native-5flg)
-- [5 Useful Shopify Plugins for E-Commerce Stores](https://dev.to/bond007/5-useful-shopify-plugins-for-e-commerce-stores-5an1)
-- [Creating Face Recognition Systems with Python](https://dev.to/krishnatadi/creating-face-recognition-systems-with-python-3ena)
-- [Portfolio That’s Wowing Everyone – See for Yourself!](https://dev.to/elvissautet/portfolio-thats-wowing-everyone-see-for-yourself-3595)
+- [Create an Amazing Interactive Tour in React – A Complete Guide](https://dev.to/hayyaun/create-an-amazing-interactive-tour-in-react-a-complete-guide-2ni4)
+- [The Rise of AI Coding Assistants: How They’re Changing the Developer’s Workflow](https://dev.to/arjun98k/the-rise-of-ai-coding-assistants-how-theyre-changing-the-developers-workflow-19p5)
+- [Attended Re:invent Recap at aws user group surat](https://dev.to/fenil_patel_04/attended-reinvent-recap-at-aws-user-group-surat-43p9)
+- [90/365 | ¥10M Job Challenge - Resume review](https://dev.to/kameken100/90365-y10m-job-challenge-resume-review-jgp)
 <!-- BLOG-POST-LIST:END -->
 
 
