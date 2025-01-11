@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ciberseguridad e Inteligencia Artificial: La Nueva Frontera de los Perfiles Tecnológicos](https://dev.to/j0rgear/ciberseguridad-e-inteligencia-artificial-la-nueva-frontera-de-los-perfiles-tecnologicos-2mij)
-- [Lettuce - A Java Redis Client](https://dev.to/said_olano/lettuce-a-java-redis-client-6dd)
-- [Implementing Image Upload in React Quill](https://dev.to/gitdeveloper/implementing-image-upload-in-react-quill-4n28)
-- [DBChat Part 3 - Configure , Connect &amp; Dump Databases](https://dev.to/shrsv/dbchat-part-3-configure-connect-dump-databases-4ogh)
+- [AWS Serverless: How to Create and Use a Lambda Layer via the AWS SAM - Part 2](https://dev.to/bhatiagirish/aws-serverless-how-to-create-and-use-a-lambda-layer-via-the-aws-sam-part-2-18am)
+- [Trying to use the &#39;match&#39; statement.](https://dev.to/jack_schuster_2fe373f1f46/trying-to-use-the-match-statement-9kn)
+- [Top 12 Best Practices for REST APIs using C# .NET](https://dev.to/adrianbailador/top-12-best-practices-for-rest-apis-using-c-net-4kpp)
+- [Documentation is marketing](https://dev.to/loccolito/documentation-is-marketing-2d76)
 <!-- BLOG-POST-LIST:END -->
 
 
