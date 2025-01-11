@@ -47,6 +47,8 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 <img align="left" alt="HTML" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Nodejs" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="Docker" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Godot" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" />
 <img align="left" alt="R" width="30px" height="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 <img align="left" alt="Linux" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
