@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Glue cross-account setup](https://dev.to/aws-builders/glue-cross-account-setup-466p)
-- [&quot;Unveiling Bias in AI: The FairCode Benchmark for Code Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unveiling-bias-in-ai-the-faircode-benchmark-for-code-generation-167d)
-- [Zsh vs Bash: Key Differences, Features, and Which to Choose](https://dev.to/codeparrot/zsh-vs-bash-key-differences-features-and-which-to-choose-55j4)
-- [Python Sucks at For Loops – And That’s Exactly Why We Love It](https://dev.to/pranta/python-sucks-at-for-loops-and-thats-exactly-why-we-love-it-3o1)
+- [🌎 Seamless Multi-Language Support in React Native](https://dev.to/amitkumar13/seamless-multi-language-support-in-react-native-5flg)
+- [5 Useful Shopify Plugins for E-Commerce Stores](https://dev.to/bond007/5-useful-shopify-plugins-for-e-commerce-stores-5an1)
+- [Creating Face Recognition Systems with Python](https://dev.to/krishnatadi/creating-face-recognition-systems-with-python-3ena)
+- [Portfolio That’s Wowing Everyone – See for Yourself!](https://dev.to/elvissautet/portfolio-thats-wowing-everyone-see-for-yourself-3595)
 <!-- BLOG-POST-LIST:END -->
 
 
