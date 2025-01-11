@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TS1062: Type is referenced directly or indirectly in the fulfillment callback of its own &#39;then&#39; method](https://dev.to/rivkaavraham/ts1062-type-is-referenced-directly-or-indirectly-in-the-fulfillment-callback-of-its-own-then-1lc4)
-- [TS1056: Accessors are only available when targeting ECMAScript 5 and higher](https://dev.to/ahmad_tibibi/ts1056-accessors-are-only-available-when-targeting-ecmascript-5-and-higher-3271)
-- [TS1060: The first parameter of the &#39;then&#39; method of a promise must be a callback](https://dev.to/turingvangisms/ts1060-the-first-parameter-of-the-then-method-of-a-promise-must-be-a-callback-43h6)
-- [TS1055: Type &#39;{0}&#39; is not a valid async function return type](https://dev.to/lior_amsalem_3879371237f6/ts1055-type-0-is-not-a-valid-async-function-return-type-1plc)
+- [How to Integrate Stack, Bottom Tab, and Drawer Navigator in React Native](https://dev.to/amitkumar13/how-to-integrate-stack-bottom-tab-and-drawer-navigator-in-react-native-27e0)
+- [Resolving Peer Dependency Errors in React: A Comprehensive Guide ⚡](https://dev.to/aslanreza/resolving-peer-dependency-errors-in-react-a-comprehensive-guide-3all)
+- [Rendering Shopify Liquid Code Locally with VS Code](https://dev.to/flnzba/rendering-shopify-liquid-code-locally-with-vs-code-25hf)
+- [Next.js Boilerplates Are Expensive: Meet NextUpKit, a $20 Alternative](https://dev.to/geiger01/nextjs-boilerplates-are-expensive-meet-nextupkit-a-20-alternative-4e6)
 <!-- BLOG-POST-LIST:END -->
 
 
