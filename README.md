@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [checking azure bom](https://dev.to/karleeov/checking-azure-bom-4kmg)
-- [DSA ROADMAP FOR BASIC TO INTERMEDIATE IN 6 MONTHS](https://dev.to/aryantkumar/dsa-roadmap-for-basic-to-intermediate-in-6-months-383k)
-- [Brevo smtp emails to other gmail accounts silently failing , verified domain to the rescue](https://dev.to/tigawanna/brevo-smtp-emails-to-other-gmail-accounts-silently-failing-verified-domain-to-the-rescue-1d78)
-- [Implementing Kubernetes Security with Kyverno: A Journey Through Resource Management](https://dev.to/devopsbysetchuko/implementing-kubernetes-security-with-kyverno-a-journey-through-resource-management-16ea)
+- [My Journey Learning Next.js: Building Real Projects](https://dev.to/khanalsamir/my-journey-learning-nextjs-building-real-projects-7c8)
+- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-1ige)
+- [60 Days Habit Tracker - Productivity Tool](https://dev.to/dhanush9952/60-days-habit-tracker-productivity-tool-1o3c)
+- [Understanding JavaScript Data Types](https://dev.to/ridoy_hasan/understanding-javascript-data-types-2208)
 <!-- BLOG-POST-LIST:END -->
 
 
