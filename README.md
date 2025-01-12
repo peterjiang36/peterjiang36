@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [25 New Technology Trends for 2025](https://dev.to/aniruddhaadak/25-new-technology-trends-for-2025-1857)
-- [My 2025 Dev Plan](https://dev.to/gosucode/my-2025-dev-plan-5enh)
-- [How to be good programmer ?](https://dev.to/hasan_emam/how-to-be-good-programmer--aj6)
-- [We launched a search engine and got 270 subscribers in 5 days](https://dev.to/denis_cartin_bc7ae4b665da/we-launched-a-search-engine-and-got-270-subscribers-in-5-days-1lko)
+- [How TO Create MySQL and JavaScript API ?](https://dev.to/nahidhk/how-to-create-mysql-and-javascript-api--emf)
+- [&quot;Unlocking the Future: Autoregressive Video Models Transforming AI Vision Tasks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-autoregressive-video-models-transforming-ai-vision-tasks-244d)
+- [This Is Your Sign to Start Learning DSA 🖥️✨](https://dev.to/devvobiero/this-is-your-sign-to-start-learning-dsa-3f6j)
+- [Learning NextJS](https://dev.to/thanh_nguyenle_a0e7f5135/learning-nextjs-154l)
 <!-- BLOG-POST-LIST:END -->
 
 
