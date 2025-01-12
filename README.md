@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js now supports TypeScript, JavaScript Rising Stars report is out, NEW developer tools and more](https://dev.to/thisweekinjavascript/nodejs-now-supports-typescript-javascript-rising-stars-report-is-out-new-developer-tools-and-more-1opb)
-- [Securing Amazon Redshift - Best Practices for Access Control](https://dev.to/awscommunity-asean/securing-amazon-redshift-best-practices-for-access-control-15l6)
-- [What I Learned After Coding for 24 Hours Straight](https://dev.to/nassiry/what-i-learned-after-coding-for-24-hours-straight-3nhp)
-- [Support for App-Token based multiple verification approaches, including API calls to the authorization server, direct database validation, and local JWT decoding.](https://dev.to/andrewkangg/support-for-app-token-based-multiple-verification-approaches-including-api-calls-to-the-11bb)
+- [nestJS Modern Framework for Scalable Applications](https://dev.to/taytay836/nestjs-modern-framework-for-scalable-applications-4f2h)
+- [The Role of AI in Cybersecurity: Opportunities and Challenges](https://dev.to/arjun98k/the-role-of-ai-in-cybersecurity-opportunities-and-challenges-4gf)
+- [Building a Private Voting zkApp on Mina Protocol using o1js](https://dev.to/syedghufranhassan/implementing-a-private-voting-app-as-a-zkapp-2a1)
+- [Hoof It](https://dev.to/rmion/hoof-it-3gih)
 <!-- BLOG-POST-LIST:END -->
 
 
