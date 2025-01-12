@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Vision to Reality: How TestSenseAI&#39;s GitHub Actions Library Revolutionizes Test Framework Development](https://dev.to/cristiansarmiento/from-vision-to-reality-how-testsenseais-github-actions-library-revolutionizes-test-framework-15po)
-- [ZKTeco Distributor Abu Dhabi](https://dev.to/endlessmessages/zkteco-distributor-abu-dhabi-59no)
-- [he Importance of User Experience in Design](https://dev.to/minna_basim_5e4cc4e4a832e/he-importance-of-user-experience-in-design-2nce)
-- [Crossplane: esteróides para o Kubernetes](https://dev.to/danianepg/crossplane-esteroides-para-o-kubernetes-3k3l)
+- [Astro &amp; Strapi Website Tutorial: Part 2 - Intro to Strapi](https://dev.to/javascriptar/astro-strapi-website-tutorial-part-2-intro-to-strapi-43oj)
+- [How to structure your ML project code](https://dev.to/penscola/how-to-structure-your-ml-project-code-18ac)
+- [Flutter Development for Low end PCs](https://dev.to/chamal1120/flutter-development-for-low-end-pcs-5gcd)
+- [The evolutionary progression of IIFE](https://dev.to/golsaesk/the-evolutionary-progression-of-iife-n88)
 <!-- BLOG-POST-LIST:END -->
 
 
