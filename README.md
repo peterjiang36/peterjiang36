@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Learning Next.js: Building Real Projects](https://dev.to/khanalsamir/my-journey-learning-nextjs-building-real-projects-7c8)
-- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-1ige)
-- [60 Days Habit Tracker - Productivity Tool](https://dev.to/dhanush9952/60-days-habit-tracker-productivity-tool-1o3c)
-- [Understanding JavaScript Data Types](https://dev.to/ridoy_hasan/understanding-javascript-data-types-2208)
+- [From Vision to Reality: How TestSenseAI&#39;s GitHub Actions Library Revolutionizes Test Framework Development](https://dev.to/cristiansarmiento/from-vision-to-reality-how-testsenseais-github-actions-library-revolutionizes-test-framework-15po)
+- [ZKTeco Distributor Abu Dhabi](https://dev.to/endlessmessages/zkteco-distributor-abu-dhabi-59no)
+- [he Importance of User Experience in Design](https://dev.to/minna_basim_5e4cc4e4a832e/he-importance-of-user-experience-in-design-2nce)
+- [Crossplane: esteróides para o Kubernetes](https://dev.to/danianepg/crossplane-esteroides-para-o-kubernetes-3k3l)
 <!-- BLOG-POST-LIST:END -->
 
 
