@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CDNs in Distributed Systems: Beyond Caching for Better Performance](https://dev.to/ujjwall-r/cdns-in-distributed-systems-beyond-caching-for-better-performance-fo0)
-- [Google Authentication in MERN Stack](https://dev.to/rabeehco/google-authentication-in-mern-stack-27dc)
-- [READ_UNCOMMITTED in SQL Server](https://dev.to/naghme_vahabi_0f038741f9e/readuncommitted-in-sql-server-5ama)
-- [Mastering GoFrame Logging: From Zero to Hero](https://dev.to/jones_charles_ad50858dbc0/mastering-goframe-logging-from-zero-to-hero-4m26)
+- [checking azure bom](https://dev.to/karleeov/checking-azure-bom-4kmg)
+- [DSA ROADMAP FOR BASIC TO INTERMEDIATE IN 6 MONTHS](https://dev.to/aryantkumar/dsa-roadmap-for-basic-to-intermediate-in-6-months-383k)
+- [Brevo smtp emails to other gmail accounts silently failing , verified domain to the rescue](https://dev.to/tigawanna/brevo-smtp-emails-to-other-gmail-accounts-silently-failing-verified-domain-to-the-rescue-1d78)
+- [Implementing Kubernetes Security with Kyverno: A Journey Through Resource Management](https://dev.to/devopsbysetchuko/implementing-kubernetes-security-with-kyverno-a-journey-through-resource-management-16ea)
 <!-- BLOG-POST-LIST:END -->
 
 
