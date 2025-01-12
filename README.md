@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow DOM Perfected: Experience the Power of Monster 3.100!](https://dev.to/schukai/shadow-dom-perfected-experience-the-power-of-monster-3100-18ii)
-- [The Outsourcing Trap: Why Your Product Deserves Better](https://dev.to/jetthoughts/the-outsourcing-trap-why-your-product-deserves-better-46i8)
-- [Building a Stronger Security Posture with AWS Security Hub](https://dev.to/aws-builders/building-a-stronger-security-posture-with-aws-security-hub-2foi)
-- [5 Software Development Challenges That Can Be Solved With AI](https://dev.to/opman129/5-software-development-challenges-that-can-be-solved-with-ai-112f)
+- [Rust](https://dev.to/same7ammar/rust-34a6)
+- [What Makes a Good Cloud Architect?](https://dev.to/emiroberti/what-makes-a-good-cloud-architect-3oh)
+- [Terraform-CodeGen0: A Terraform Code Generator](https://dev.to/randiakm/terraform-codegen0-a-terraform-code-generator-55aa)
+- [Using Rsync on Oracle Linux 9 for Secure Data Synchronization](https://dev.to/sebos/using-rsync-on-oracle-linux-9-for-secure-data-synchronization-1c0e)
 <!-- BLOG-POST-LIST:END -->
 
 
