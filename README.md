@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How TO Create MySQL and JavaScript API ?](https://dev.to/nahidhk/how-to-create-mysql-and-javascript-api--emf)
-- [&quot;Unlocking the Future: Autoregressive Video Models Transforming AI Vision Tasks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-autoregressive-video-models-transforming-ai-vision-tasks-244d)
-- [This Is Your Sign to Start Learning DSA 🖥️✨](https://dev.to/devvobiero/this-is-your-sign-to-start-learning-dsa-3f6j)
-- [Learning NextJS](https://dev.to/thanh_nguyenle_a0e7f5135/learning-nextjs-154l)
+- [Node.js now supports TypeScript, JavaScript Rising Stars report is out, NEW developer tools and more](https://dev.to/thisweekinjavascript/nodejs-now-supports-typescript-javascript-rising-stars-report-is-out-new-developer-tools-and-more-1opb)
+- [Securing Amazon Redshift - Best Practices for Access Control](https://dev.to/awscommunity-asean/securing-amazon-redshift-best-practices-for-access-control-15l6)
+- [What I Learned After Coding for 24 Hours Straight](https://dev.to/nassiry/what-i-learned-after-coding-for-24-hours-straight-3nhp)
+- [Support for App-Token based multiple verification approaches, including API calls to the authorization server, direct database validation, and local JWT decoding.](https://dev.to/andrewkangg/support-for-app-token-based-multiple-verification-approaches-including-api-calls-to-the-11bb)
 <!-- BLOG-POST-LIST:END -->
 
 
