@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Vulnerabilities in Laravel: Identify &amp; Secure Your Endpoints](https://dev.to/pentest_testing_corp/api-vulnerabilities-in-laravel-identify-secure-your-endpoints-4f2p)
-- [What is Spring AI ? Example of a chat API with multiple LLMs](https://dev.to/rajeshsgr/what-is-spring-ai-example-of-a-chat-api-with-multiple-llms-lmi)
-- [Hello, World! 4](https://dev.to/rodiwa/hello-world-4-1pmj)
-- [Introducing Our Data Structure &amp; Algorithm Visualization Tool: Revolutionizing Code Understanding](https://dev.to/zhu_le_e92ce1e44bd25f0053/introducing-our-data-structure-algorithm-visualization-tool-revolutionizing-code-understanding-28c9)
+- [How I do: export/import?](https://dev.to/aadswebdesign/how-i-do-exportimport-4jk2)
+- [Introduction to Web Application Security](https://dev.to/godofgeeks/introduction-to-web-application-security-38hf)
+- [Next.js with React: Pros and Cons](https://dev.to/riyaz_farhin_233f3cffeac5/nextjs-with-react-pros-and-cons-2lg3)
+- [Building an AI-Powered Background Remover with React and Transformers.js](https://dev.to/emojiiii/building-an-ai-powered-background-remover-with-react-and-transformersjs-5hl5)
 <!-- BLOG-POST-LIST:END -->
 
 
