@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust](https://dev.to/same7ammar/rust-34a6)
-- [What Makes a Good Cloud Architect?](https://dev.to/emiroberti/what-makes-a-good-cloud-architect-3oh)
-- [Terraform-CodeGen0: A Terraform Code Generator](https://dev.to/randiakm/terraform-codegen0-a-terraform-code-generator-55aa)
-- [Using Rsync on Oracle Linux 9 for Secure Data Synchronization](https://dev.to/sebos/using-rsync-on-oracle-linux-9-for-secure-data-synchronization-1c0e)
+- [CREATING A ROCK, PAPER, &amp; SCISSORS GAME IN PYTHON](https://dev.to/seyilufadejucyberservices/creating-a-rock-paper-scissors-game-in-python-28op)
+- [How I automated Certificate expiration alerts with AWS](https://dev.to/aws-builders/how-i-automated-certificate-expiration-alerts-with-aws-1g10)
+- [Face Recognition with Python and FaceNet](https://dev.to/edgaras/face-recognition-with-facenet-ha8)
+- [Nextjs + Openlayers integration](https://dev.to/mrepoch/nextjs-openlayers-integration-5017)
 <!-- BLOG-POST-LIST:END -->
 
 
