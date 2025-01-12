@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [nestJS Modern Framework for Scalable Applications](https://dev.to/taytay836/nestjs-modern-framework-for-scalable-applications-4f2h)
-- [The Role of AI in Cybersecurity: Opportunities and Challenges](https://dev.to/arjun98k/the-role-of-ai-in-cybersecurity-opportunities-and-challenges-4gf)
-- [Building a Private Voting zkApp on Mina Protocol using o1js](https://dev.to/syedghufranhassan/implementing-a-private-voting-app-as-a-zkapp-2a1)
-- [Hoof It](https://dev.to/rmion/hoof-it-3gih)
+- [Just use this Next.js Eslint Configuration](https://dev.to/jordanahaines/just-use-this-nextjs-eslint-configuration-540)
+- [Unveiling the Depths of Deep Learning](https://dev.to/penscola/unveiling-the-depths-of-deep-learning-38mf)
+- [Diesel vs SQLx in Raw and ORM Modes](https://dev.to/shubham_lodhi/diesel-vs-sqlx-in-raw-and-orm-modes-4bgd)
+- [Monitor Your Static App memory usage EC2 Instances with Prometheus and Grafana](https://dev.to/aws-builders/monitor-your-static-app-memory-usage-ec2-instances-with-prometheus-and-grafana-21ln)
 <!-- BLOG-POST-LIST:END -->
 
 
