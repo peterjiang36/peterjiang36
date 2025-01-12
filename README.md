@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TS1064: The return type of an async function or method must be the global Promise](https://dev.to/rivkaavraham/ts1064-the-return-type-of-an-async-function-or-method-must-be-the-global-promise-1pjf)
-- [TS1069: Unexpected token. A type parameter name was expected without curly braces](https://dev.to/ahmad_tibibi/ts1069-unexpected-token-a-type-parameter-name-was-expected-without-curly-braces-280d)
-- [TS1059: A promise must have a &#39;then&#39; method](https://dev.to/turingvangisms/ts1059-a-promise-must-have-a-then-method-4l5b)
-- [TS1061: Enum member must have initializer](https://dev.to/lior_amsalem_3879371237f6/ts1061-enum-member-must-have-initializer-3bfh)
+- [API Vulnerabilities in Laravel: Identify &amp; Secure Your Endpoints](https://dev.to/pentest_testing_corp/api-vulnerabilities-in-laravel-identify-secure-your-endpoints-4f2p)
+- [What is Spring AI ? Example of a chat API with multiple LLMs](https://dev.to/rajeshsgr/what-is-spring-ai-example-of-a-chat-api-with-multiple-llms-lmi)
+- [Hello, World! 4](https://dev.to/rodiwa/hello-world-4-1pmj)
+- [Introducing Our Data Structure &amp; Algorithm Visualization Tool: Revolutionizing Code Understanding](https://dev.to/zhu_le_e92ce1e44bd25f0053/introducing-our-data-structure-algorithm-visualization-tool-revolutionizing-code-understanding-28c9)
 <!-- BLOG-POST-LIST:END -->
 
 
