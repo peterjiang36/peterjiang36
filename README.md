@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Fun Techniques to Master Prompt Engineering 🎯](https://dev.to/nikl/4-fun-techniques-to-master-prompt-engineering-23ol)
-- [What is the scope of multimedia and animation?](https://dev.to/red_applelearningpvtl/what-is-the-scope-of-multimedia-and-animation-338)
-- [Github Actions with Vercel in 2024](https://dev.to/toshiya_matsumoto_ac94abe/github-actions-with-vercel-in-2024-3222)
-- [Software Bill of Materials on Azure Devops](https://dev.to/atahanceylan/software-bill-of-materials-on-azure-devops-1on8)
+- [NET9: Swagger no compatible](https://dev.to/romnyd/net9-swagger-no-compatible-1c6e)
+- [Mobile Accessibility Advent Calendar Part 2](https://dev.to/steady5063/mobile-accessibility-advent-calendar-part-2-39c1)
+- [Laravel 11.30: A Leap Forward in Testing, Model IDs, and Authorization](https://dev.to/luigi_laezza_22b5ba44fdcd/laravel-1130-a-leap-forward-in-testing-model-ids-and-authorization-2e7j)
+- [Patching Scheduled Auto Scaling Groups with AWS](https://dev.to/aws-builders/patching-scheduled-auto-scaling-groups-with-aws-d7c)
 <!-- BLOG-POST-LIST:END -->
 
 
