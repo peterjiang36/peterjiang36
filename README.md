@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Critical Render Path and Its Role in Web Performance](https://dev.to/nik26_/understanding-the-critical-render-path-and-its-role-in-web-performance-24c5)
-- [What does it mean to be sentient, conscious, or self-aware?](https://dev.to/a-bentofreire/what-does-it-mean-to-be-sentient-conscious-or-self-aware-5fle)
-- [Service Workers: Revolutionizing Modern Web Apps](https://dev.to/mukhilpadmanabhan/service-workers-revolutionizing-modern-web-apps-24pk)
-- [Hello future](https://dev.to/ben/hello-future-3pg3)
+- [Introduction to HTML Elements](https://dev.to/thedevspace/introduction-to-html-elements-cek)
+- [What is Web Hosting and How Does It Work?](https://dev.to/isaactony/what-is-web-hosting-and-how-does-it-work-1ja9)
+- [Testing a GraphQL Application with Jest and SuperTest](https://dev.to/joaosc17/testing-a-graphql-application-with-jest-and-supertest-1353)
+- [API vs Middleware: Understanding the Difference](https://dev.to/lovestaco/api-vs-middleware-understanding-the-difference-3b26)
 <!-- BLOG-POST-LIST:END -->
 
 
