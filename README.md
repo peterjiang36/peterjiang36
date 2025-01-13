@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to think like an Engineer?](https://dev.to/teelock/how-to-think-like-an-engineer-1181)
-- [DeepSeek v3, Microsoft Phi 4, OpenAI o3, new tools and more](https://dev.to/thisweekinaiengineering/deepseek-v3-microsoft-phi-4-openai-o3-new-tools-and-more-274f)
-- [CREATING A ROCK, PAPER, &amp; SCISSORS GAME IN PYTHON](https://dev.to/seyilufadejucyberservices/creating-a-rock-paper-scissors-game-in-python-28op)
-- [How I automated Certificate expiration alerts with AWS](https://dev.to/aws-builders/how-i-automated-certificate-expiration-alerts-with-aws-1g10)
+- [Concurrency in C++: Mitigating Risks](https://dev.to/alex_ricciardi/concurrency-in-c-mitigating-risks-2029)
+- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
+- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
+- [What is Blockchain?](https://dev.to/jamesbright/what-is-blockchain-2bfh)
 <!-- BLOG-POST-LIST:END -->
 
 
