@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency in C++: Mitigating Risks](https://dev.to/alex_ricciardi/concurrency-in-c-mitigating-risks-2029)
-- [Cómo AWS Snow está transformando el edge computing: Historias de clientes](https://dev.to/briansuarezsantiago/como-aws-snow-esta-transformando-el-edge-computing-historias-de-clientes-5bif)
-- [6 Advanced Python Techniques for Efficient Text Processing and Analysis](https://dev.to/aaravjoshi/6-advanced-python-techniques-for-efficient-text-processing-and-analysis-1cg2)
-- [What is Blockchain?](https://dev.to/jamesbright/what-is-blockchain-2bfh)
+- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
+- [Docker vs Kubernetes](https://dev.to/code42cate/docker-vs-kubernetes-2f5o)
+- [And... We&#39;re Off!](https://dev.to/timothy_97/and-were-off-2gh7)
+- [2025 Tech Predictions: What Developers Should Expect](https://dev.to/mrp/2025-tech-predictions-what-developers-should-expect-34ji)
 <!-- BLOG-POST-LIST:END -->
 
 
