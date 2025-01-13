@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerization Basics](https://dev.to/godofgeeks/containerization-basics-3mcl)
-- [Simplifying Node.js App Deployment with AWS Elastic Beanstalk and CodePipeline](https://dev.to/prithiviraj_rengarajan/simplifying-nodejs-app-deployment-with-aws-elastic-beanstalk-and-codepipeline-1b6k)
-- [How to Publish a Power Platform Custom Connector](https://dev.to/wyattdave/how-to-publish-a-power-platform-custom-connector-2ihi)
-- [Easily handle dates and times operations in your application using Day.js](https://dev.to/sarahokolo/format-dates-and-times-easily-in-your-application-using-dayjs-fja)
+- [How to Determine Proxies Per Task Efficiently](https://dev.to/swiftproxy_residential/how-to-determine-proxies-per-task-efficiently-5acp)
+- [OpenCL performance on Nvidia Tesla T4 by Clpeak](https://dev.to/viveknanda/opencl-performance-on-nvidia-tesla-t4-by-clpeak-2h4j)
+- [Best way to learn a new Language/Framework: In My Opinion, Start with Small Projects and Scale It Large](https://dev.to/muhammadsaim/best-way-to-learn-a-new-languageframework-in-my-opinion-start-with-small-projects-and-scale-it-20a7)
+- [Why JSX/TSX Isn&#39;t Cool](https://dev.to/broflovski/why-jsxtsx-isnt-cool-3kee)
 <!-- BLOG-POST-LIST:END -->
 
 
