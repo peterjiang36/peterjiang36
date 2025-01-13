@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to HTML Elements](https://dev.to/thedevspace/introduction-to-html-elements-cek)
-- [What is Web Hosting and How Does It Work?](https://dev.to/isaactony/what-is-web-hosting-and-how-does-it-work-1ja9)
-- [Testing a GraphQL Application with Jest and SuperTest](https://dev.to/joaosc17/testing-a-graphql-application-with-jest-and-supertest-1353)
-- [API vs Middleware: Understanding the Difference](https://dev.to/lovestaco/api-vs-middleware-understanding-the-difference-3b26)
+- [O básico que você precisa saber sobre os diretórios Linux.](https://dev.to/gguife/o-basico-que-voce-precisa-saber-sobre-os-diretorios-linux-6kh)
+- [[Boost]](https://dev.to/closetgeekshow/-98j)
+- [MySQLTuner for Windows: Common Issues and Better Alternatives](https://dev.to/drupaladmin/mysqltuner-for-windows-common-issues-and-better-alternatives-ib4)
+- [ChatGPT&#39;s Global Conspiracy: Why Does It Act Differently in the UK vs Canada?](https://dev.to/fix2015/chatgpts-global-conspiracy-why-does-it-act-differently-in-the-uk-vs-canada-a5b)
 <!-- BLOG-POST-LIST:END -->
 
 
