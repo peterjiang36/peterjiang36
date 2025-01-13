@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Conquering Chaos: A Deep Dive into JavaScript Errors and How to Handle Them 💻😎](https://dev.to/uncommonnayana/conquering-chaos-a-deep-dive-into-javascript-errors-and-how-to-handle-them-12cl)
-- [Top 5 Reporting Tools For a Robust Selenium Automation Framework](https://dev.to/misterankit/top-5-reporting-tools-for-a-robust-selenium-automation-framework-26m9)
-- [I’m joining Pomerium!](https://dev.to/nickytonline/im-joining-pomerium-225j)
-- [I&#39;m Answering the Blog Questions Challenge — Dev.to Edition](https://dev.to/canro91/im-answering-the-blog-questions-challenge-devto-edition-2f3g)
+- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-15bf)
+- [Reduce Downtime During Cloud Migration: A Strategic Guide](https://dev.to/radhika_singh_545ca79f831/reduce-downtime-during-cloud-migration-a-strategic-guide-38ek)
+- [Stop Storing Sensitive Data in Local Storage: Do This Instead!](https://dev.to/elvissautet/stop-storing-sensitive-data-in-local-storage-do-this-instead-mf9)
+- [Not fitting clothes proper on upper body in lens studio...while making virtual try-on clothes](https://dev.to/mohan_mamidala_f2b2753a4d/not-fitting-clothes-proper-on-upper-body-in-lens-studiowhile-making-virtual-try-on-clothes-595e)
 <!-- BLOG-POST-LIST:END -->
 
 
