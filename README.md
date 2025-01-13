@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-15bf)
-- [Reduce Downtime During Cloud Migration: A Strategic Guide](https://dev.to/radhika_singh_545ca79f831/reduce-downtime-during-cloud-migration-a-strategic-guide-38ek)
-- [Stop Storing Sensitive Data in Local Storage: Do This Instead!](https://dev.to/elvissautet/stop-storing-sensitive-data-in-local-storage-do-this-instead-mf9)
-- [Not fitting clothes proper on upper body in lens studio...while making virtual try-on clothes](https://dev.to/mohan_mamidala_f2b2753a4d/not-fitting-clothes-proper-on-upper-body-in-lens-studiowhile-making-virtual-try-on-clothes-595e)
+- [Containerization Basics](https://dev.to/godofgeeks/containerization-basics-3mcl)
+- [Simplifying Node.js App Deployment with AWS Elastic Beanstalk and CodePipeline](https://dev.to/prithiviraj_rengarajan/simplifying-nodejs-app-deployment-with-aws-elastic-beanstalk-and-codepipeline-1b6k)
+- [How to Publish a Power Platform Custom Connector](https://dev.to/wyattdave/how-to-publish-a-power-platform-custom-connector-2ihi)
+- [Easily handle dates and times operations in your application using Day.js](https://dev.to/sarahokolo/format-dates-and-times-easily-in-your-application-using-dayjs-fja)
 <!-- BLOG-POST-LIST:END -->
 
 
