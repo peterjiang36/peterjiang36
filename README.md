@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NET9: Swagger no compatible](https://dev.to/romnyd/net9-swagger-no-compatible-1c6e)
-- [Mobile Accessibility Advent Calendar Part 2](https://dev.to/steady5063/mobile-accessibility-advent-calendar-part-2-39c1)
-- [Laravel 11.30: A Leap Forward in Testing, Model IDs, and Authorization](https://dev.to/luigi_laezza_22b5ba44fdcd/laravel-1130-a-leap-forward-in-testing-model-ids-and-authorization-2e7j)
-- [Patching Scheduled Auto Scaling Groups with AWS](https://dev.to/aws-builders/patching-scheduled-auto-scaling-groups-with-aws-d7c)
+- [Must-Know Python Open Source Projects for 2025](https://dev.to/abubakersiddique761/must-know-python-open-source-projects-for-2025-4g9p)
+- [[Boost]](https://dev.to/dpills/-18jl)
+- [Two-Tier Architecture with Terraform](https://dev.to/otumiky/two-tier-architecture-with-terraform-1epp)
+- [ServBay v1.7.2 Released: New Node.js Configuration Interface and UX Improvements](https://dev.to/servbay/servbay-v172-new-nodejs-configuration-interface-and-ux-improvements-510p)
 <!-- BLOG-POST-LIST:END -->
 
 
