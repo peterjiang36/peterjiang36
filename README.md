@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 13 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-january-28kj)
-- [Typed integers in Rust for safer Python bytecode compilation](https://dev.to/jonesbeach/typed-integers-in-rust-for-safer-python-bytecode-compilation-p1m)
-- [Wrap and Render Multiline Text on Images Using Python&#39;s Pillow Library](https://dev.to/emiloju/wrap-and-render-multiline-text-on-images-using-pythons-pillow-library-2ppp)
-- [AI in Web Development: Tools &amp; Opportunities](https://dev.to/cryptosandy/ai-in-web-development-tools-opportunities-5cfi)
+- [Print Tailwind-Styled React Components Without Rendering Visually](https://dev.to/shahriaras/print-tailwind-styled-react-components-without-rendering-visually-4ibl)
+- [Getting Started with Python: Installing Python and Writing Your First Program &lpar;Day 2 of 100 Days of Python&rpar;](https://dev.to/allaboutpython/getting-started-with-python-installing-python-and-writing-your-first-program-day-2-of-100-days-of-4d49)
+- [Why Your Startup Needs a Single Source of Truth &lpar;And How to Create It&rpar;](https://dev.to/jetthoughts/why-your-startup-needs-a-single-source-of-truth-and-how-to-create-it-2f7i)
+- [Абстракции vs. привязка к технологии](https://dev.to/dmkjfs/abstraktsii-vs-priviazka-k-tiekhnologhii-5794)
 <!-- BLOG-POST-LIST:END -->
 
 
