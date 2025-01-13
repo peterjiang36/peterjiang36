@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What did I get myself into?](https://dev.to/moth668/what-did-i-get-myself-into-2dp1)
-- [Personal Development Dashboard - A New Beginnings](https://dev.to/jayapriya_s_5d59c0186c35b/personal-development-dashboard-a-new-beginnings-3e15)
-- [Explainable AI: Humanizing Artificial Intelligence](https://dev.to/arun_pal_3ce740a137cf15ad/explainable-ai-humanizing-artificial-intelligence-1ip9)
-- [OpenCL performance on intel UHD Graphics 730 by Clpeak](https://dev.to/viveknanda/opencl-performance-on-intel-uhd-graphics-730-by-clpeak-3li9)
+- [Conquering Chaos: A Deep Dive into JavaScript Errors and How to Handle Them 💻😎](https://dev.to/uncommonnayana/conquering-chaos-a-deep-dive-into-javascript-errors-and-how-to-handle-them-12cl)
+- [Top 5 Reporting Tools For a Robust Selenium Automation Framework](https://dev.to/misterankit/top-5-reporting-tools-for-a-robust-selenium-automation-framework-26m9)
+- [I’m joining Pomerium!](https://dev.to/nickytonline/im-joining-pomerium-225j)
+- [I&#39;m Answering the Blog Questions Challenge — Dev.to Edition](https://dev.to/canro91/im-answering-the-blog-questions-challenge-devto-edition-2f3g)
 <!-- BLOG-POST-LIST:END -->
 
 
