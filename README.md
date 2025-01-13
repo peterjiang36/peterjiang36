@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Geospatial Server with BBOX Server](https://dev.to/mierune/building-a-geospatial-server-with-bbox-server-4e5b)
-- [👀](https://dev.to/zanaranjosa/-3g66)
-- [Top AI Video Generator Review: Unveiling Strengths, Weaknesses, and Best Picks](https://dev.to/cecilia_luo_23bae8578aa08/top-ai-video-generator-review-unveiling-strengths-weaknesses-and-best-picks-d1i)
-- [Rendering graph nodes as React components in d3.js+React graph.](https://dev.to/neznayer/force-graph-with-react-and-d3js-21h0)
+- [🚀 Your Daily Crypto Job Digest For 13 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-january-28kj)
+- [Typed integers in Rust for safer Python bytecode compilation](https://dev.to/jonesbeach/typed-integers-in-rust-for-safer-python-bytecode-compilation-p1m)
+- [Wrap and Render Multiline Text on Images Using Python&#39;s Pillow Library](https://dev.to/emiloju/wrap-and-render-multiline-text-on-images-using-pythons-pillow-library-2ppp)
+- [AI in Web Development: Tools &amp; Opportunities](https://dev.to/cryptosandy/ai-in-web-development-tools-opportunities-5cfi)
 <!-- BLOG-POST-LIST:END -->
 
 
