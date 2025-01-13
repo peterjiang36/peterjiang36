@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Web Scraping in Python using Scrapy: Beginner&#39;s Guide](https://dev.to/python_and_beyond/efficient-web-scraping-in-python-using-scrapy-beginners-guide-5bck)
-- [Simplifying Entry Animations with @starting-style](https://dev.to/salehmubashar/simplifying-entry-animations-with-starting-style-5c99)
-- [SSH Keys | Change the label of the public key](https://dev.to/nuwan_arambage/ssh-keys-change-the-label-of-the-public-key-2c1d)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-5eln)
+- [Transitions and Transformations](https://dev.to/subhabhatta/transitions-and-transformations-m10)
+- [Modify Angular Material 19 Theme with SCSS &amp; CSS](https://dev.to/ngmaterialdev/modify-angular-material-19-theme-with-scss-css-50gj)
+- [Angular form field types](https://dev.to/ayyash/angular-form-field-types-24fl)
+- [Building High-Performance React Native Apps[Tips for Developers]](https://dev.to/brilworks/building-high-performance-react-native-appstips-for-developers-3afh)
 <!-- BLOG-POST-LIST:END -->
 
 
