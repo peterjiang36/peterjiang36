@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O básico que você precisa saber sobre os diretórios Linux.](https://dev.to/gguife/o-basico-que-voce-precisa-saber-sobre-os-diretorios-linux-6kh)
-- [[Boost]](https://dev.to/closetgeekshow/-98j)
-- [MySQLTuner for Windows: Common Issues and Better Alternatives](https://dev.to/drupaladmin/mysqltuner-for-windows-common-issues-and-better-alternatives-ib4)
-- [ChatGPT&#39;s Global Conspiracy: Why Does It Act Differently in the UK vs Canada?](https://dev.to/fix2015/chatgpts-global-conspiracy-why-does-it-act-differently-in-the-uk-vs-canada-a5b)
+- [The art of creating an effective application security Program: Strategies, Methods, and Tooling for Optimal results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tooling-for-28ag)
+- [Making an Effective Application Security Program: Strategies, methods and tools for the best results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-results-2pca)
+- [Next-Generation Buttons: Implementing the Command Pattern through Web Components](https://dev.to/valkoivo/next-generation-buttons-implementing-the-command-pattern-through-web-components-3cne)
+- [NET9: Swagger no compatible [Alternativas]](https://dev.to/romnyd/net9-swagger-no-compatible-alternativas-1mil)
 <!-- BLOG-POST-LIST:END -->
 
 
