@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
-- [Encapulating the Server](https://dev.to/joaofilippe/encapulating-the-server-56p1)
-- [The Power of AWS API Gateway and AWS AppSync: Transforming API Development, Functionality, and Use Cases](https://dev.to/aws-builders/unlocking-the-power-of-aws-api-gateway-and-aws-appsync-transforming-api-development-5fo7)
-- [Building a BLE Real-Time macOS Menu Bar App](https://dev.to/bleuiot/building-a-ble-real-time-macos-menu-bar-app-29lm)
+- [something required](https://dev.to/melvinprince/informative-peice-30kh)
+- [Mastering Import Order in React: A Deep Dive Into Best Practices and Tools](https://dev.to/melvinprince/mastering-import-order-in-react-a-deep-dive-into-best-practices-and-tools-43ma)
+- [Ep. 2: Cybersecurity Essentials – Stolen Credentials: The Silent Threat](https://dev.to/gaurang_deshpande_89/ep-2-cybersecurity-essentials-stolen-credentials-the-silent-threat-1hi1)
+- [Pods in Kubernetes: Lifecycle, Networking, and the Role of Sidecars.](https://dev.to/favxlaw/pods-in-kubernetes-lifecycle-networking-and-the-role-of-sidecars-50cn)
 <!-- BLOG-POST-LIST:END -->
 
 
