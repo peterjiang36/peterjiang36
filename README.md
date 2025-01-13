@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a universal CRUD API with UkrGuru.Sql](https://dev.to/ukrguru/creating-a-universal-crud-api-with-ukrgurusql-4kkk)
-- [Demystifying AIContents in Microsoft.Extensions.AI](https://dev.to/mehrandvd/demystifying-aicontents-in-microsoftextensionsai-5hg8)
-- [SkillBytes - Gamified learning process using AI](https://dev.to/schemetastic/skillbytes-gamified-learning-process-using-ai-3ed5)
-- [has anyone find a fix for this issue on build of next and payload CMS version 2 &lpar;sharp issue&rpar; ./node_modules/sharp/build/Release/sharp-win32-x64.node Module parse failed: Unexpected character &#39; &#39; &lpar;1:2&rpar; You may need an appropriate loader to handle this](https://dev.to/kirubel_ast_88bd78e69df1c/has-anyone-find-a-fix-for-this-issue-on-build-of-next-and-payload-cms-version-2-sharp-issue-nc2)
+- [🚀🎉 Welcome to the Basic Guide: Converting HTML Files in PHP to React](https://dev.to/fonteeboa/welcome-to-the-basic-guide-converting-html-files-in-php-to-react-11e3)
+- [Encapulating the Server](https://dev.to/joaofilippe/encapulating-the-server-56p1)
+- [The Power of AWS API Gateway and AWS AppSync: Transforming API Development, Functionality, and Use Cases](https://dev.to/aws-builders/unlocking-the-power-of-aws-api-gateway-and-aws-appsync-transforming-api-development-5fo7)
+- [Building a BLE Real-Time macOS Menu Bar App](https://dev.to/bleuiot/building-a-ble-real-time-macos-menu-bar-app-29lm)
 <!-- BLOG-POST-LIST:END -->
 
 
