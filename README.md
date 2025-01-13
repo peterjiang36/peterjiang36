@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The art of creating an effective application security Program: Strategies, Methods, and Tooling for Optimal results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tooling-for-28ag)
-- [Making an Effective Application Security Program: Strategies, methods and tools for the best results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-for-the-best-results-2pca)
-- [Next-Generation Buttons: Implementing the Command Pattern through Web Components](https://dev.to/valkoivo/next-generation-buttons-implementing-the-command-pattern-through-web-components-3cne)
-- [NET9: Swagger no compatible [Alternativas]](https://dev.to/romnyd/net9-swagger-no-compatible-alternativas-1mil)
+- [Creating a universal CRUD API with UkrGuru.Sql](https://dev.to/ukrguru/creating-a-universal-crud-api-with-ukrgurusql-4kkk)
+- [Demystifying AIContents in Microsoft.Extensions.AI](https://dev.to/mehrandvd/demystifying-aicontents-in-microsoftextensionsai-5hg8)
+- [SkillBytes - Gamified learning process using AI](https://dev.to/schemetastic/skillbytes-gamified-learning-process-using-ai-3ed5)
+- [has anyone find a fix for this issue on build of next and payload CMS version 2 &lpar;sharp issue&rpar; ./node_modules/sharp/build/Release/sharp-win32-x64.node Module parse failed: Unexpected character &#39; &#39; &lpar;1:2&rpar; You may need an appropriate loader to handle this](https://dev.to/kirubel_ast_88bd78e69df1c/has-anyone-find-a-fix-for-this-issue-on-build-of-next-and-payload-cms-version-2-sharp-issue-nc2)
 <!-- BLOG-POST-LIST:END -->
 
 
