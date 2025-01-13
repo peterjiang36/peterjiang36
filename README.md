@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Image Upload with CKeditor in Laravel 11 Tutorial](https://dev.to/mshsayket/how-to-image-upload-with-ckeditor-in-laravel-11-tutorial-4ob7)
-- [Unlocking Success: How MVP Development Services Can Propel Your Startup Forward](https://dev.to/jetthoughts/unlocking-success-how-mvp-development-services-can-propel-your-startup-forward-39ak)
-- [UX Writing Challenge: Day 7](https://dev.to/jds64/ux-writing-challenge-day-7-j8o)
-- [Using uv instead of pip / venv?](https://dev.to/varund/using-uv-instead-of-pip-venv-433k)
+- [What did I get myself into?](https://dev.to/moth668/what-did-i-get-myself-into-2dp1)
+- [Personal Development Dashboard - A New Beginnings](https://dev.to/jayapriya_s_5d59c0186c35b/personal-development-dashboard-a-new-beginnings-3e15)
+- [Explainable AI: Humanizing Artificial Intelligence](https://dev.to/arun_pal_3ce740a137cf15ad/explainable-ai-humanizing-artificial-intelligence-1ip9)
+- [OpenCL performance on intel UHD Graphics 730 by Clpeak](https://dev.to/viveknanda/opencl-performance-on-intel-uhd-graphics-730-by-clpeak-3li9)
 <!-- BLOG-POST-LIST:END -->
 
 
