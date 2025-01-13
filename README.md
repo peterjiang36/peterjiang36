@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Secrets in an AWS Serverless Application](https://dev.to/aws-builders/managing-secrets-in-an-aws-serverless-application-2752)
-- [Docker vs Kubernetes](https://dev.to/code42cate/docker-vs-kubernetes-2f5o)
-- [And... We&#39;re Off!](https://dev.to/timothy_97/and-were-off-2gh7)
-- [2025 Tech Predictions: What Developers Should Expect](https://dev.to/mrp/2025-tech-predictions-what-developers-should-expect-34ji)
+- [How to Image Upload with CKeditor in Laravel 11 Tutorial](https://dev.to/mshsayket/how-to-image-upload-with-ckeditor-in-laravel-11-tutorial-4ob7)
+- [Unlocking Success: How MVP Development Services Can Propel Your Startup Forward](https://dev.to/jetthoughts/unlocking-success-how-mvp-development-services-can-propel-your-startup-forward-39ak)
+- [UX Writing Challenge: Day 7](https://dev.to/jds64/ux-writing-challenge-day-7-j8o)
+- [Using uv instead of pip / venv?](https://dev.to/varund/using-uv-instead-of-pip-venv-433k)
 <!-- BLOG-POST-LIST:END -->
 
 
