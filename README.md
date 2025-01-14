@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Proteins: Why They Matter in Your Diet](https://dev.to/ali007/the-power-of-proteins-why-they-matter-in-your-diet-2f6k)
-- [What is Kusto Query Language?](https://dev.to/techielass/what-is-kusto-query-language-2k2n)
-- [Kotlin Generics Simplified](https://dev.to/khushpanchal123/kotlin-generics-simplified-5nj)
-- [Understanding Blockchain: A Beginner&#39;s Guide for Novices](https://dev.to/phonelocket8/understanding-blockchain-a-beginners-guide-for-novices-427m)
+- [A Gentle Introduction to WebAssembly in Rust &lpar;2025 Edition&rpar;](https://dev.to/marktolmacs/a-gentle-introduction-to-webassembly-in-rust-2025-edition-1iac)
+- [Can a Website Be Hacked in Under 10 Minutes? Understanding Web Security](https://dev.to/adaf/can-a-website-be-hacked-in-under-10-minutes-understanding-web-security-574p)
+- [Understanding Node.js Cluster: The Core Concepts](https://dev.to/leapcell/understanding-nodejs-cluster-the-core-concepts-1c9e)
+- [AI and the Monkey’s Paw: Why SaaS Will Endure](https://dev.to/patrick_chan_0922a197d89d/ai-and-the-monkeys-paw-why-saas-will-endure-516p)
 <!-- BLOG-POST-LIST:END -->
 
 
