@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [White Label Chat Platform for 2025](https://dev.to/aprogrammer22/white-label-chat-platform-for-2025-3mb7)
-- [Mentorship: A Two-Way Street of Growth](https://dev.to/m_midas/mentorship-a-two-way-street-of-growth-5al6)
-- [Golang e DSA](https://dev.to/joaofilippe/golang-e-dsa-29p2)
-- [What Is Model Validation, and 12 Common Methods to Get it Right](https://dev.to/yayabobi/what-is-model-validation-and-12-common-methods-to-get-it-right-ho9)
+- [🔥 Top 30 Must-Read Productivity Articles for January 9, 2025](https://dev.to/dev-resources/top-30-must-read-productivity-articles-for-january-9-2025-4eal)
+- [OAuth2 Scopes and Claims: Fine-Grained Access Control](https://dev.to/igventurelli/oauth2-scopes-and-claims-fine-grained-access-control-121e)
+- [Why Do We Use Calendars? A Short Essay About Time](https://dev.to/zirkelc/why-do-we-use-calendars-a-short-essay-about-time-4g0g)
+- [Navigating Tomorrow: Embracing the Top 5 HR Trends for 2024](https://dev.to/vdaubry/navigating-tomorrow-embracing-the-top-5-hr-trends-for-2024-4eh8)
 <!-- BLOG-POST-LIST:END -->
 
 
