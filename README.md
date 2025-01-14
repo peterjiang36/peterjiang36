@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AI Process Data for Better Decision Making](https://dev.to/swiftproxy_residential/unlocking-the-power-of-ai-process-data-for-better-decision-making-jh3)
-- [Top 40 Interesting Entrepreneurship Project Ideas For Students](https://dev.to/tarunfulera/top-40-interesting-entrepreneurship-project-ideas-for-students-mda)
-- [Your API Doesn’t Always Need to Be a Product](https://dev.to/zenika/your-api-doesnt-always-need-to-be-a-product-20p3)
-- [Enhancing JavaScript Code: Using Objects Instead of Switch Statements](https://dev.to/nassbin/enhancing-javascript-code-using-objects-instead-of-switch-statements-118f)
+- [My Journey as a First-Year Software Engineering Student](https://dev.to/gitbuddhi/my-journey-as-a-first-year-software-engineering-student-1l55)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1j15)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-1dha)
+- [Processors: What are they and How do they impact computer performance?](https://dev.to/daniel_nwokocha/processors-what-are-they-and-how-do-they-impact-computer-performance-54i9)
 <!-- BLOG-POST-LIST:END -->
 
 
