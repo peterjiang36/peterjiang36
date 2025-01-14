@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Modern Dev Tools to 100X Your Productivity](https://dev.to/kafeel_ahmad/8-modern-dev-tools-to-100x-your-productivity-43ld)
-- [Black Box Testing and White Box Testing: Understanding the Differences](https://dev.to/keploy/black-box-testing-and-white-box-testing-understanding-the-differences-5f08)
-- [🤖 DevOps-GPT: Automating SRE Resolutions with AI-Powered Agents and Insights 🤖](https://dev.to/lakhera2015/devops-gpt-automating-sre-resolutions-with-ai-powered-agents-and-insights-4621)
-- [What is typescript?](https://dev.to/mosininamdar/what-is-typescript-1n3b)
+- [🛡️ Security Measures: Safeguarding Your Codebase 🔒](https://dev.to/aws-builders/security-measures-safeguarding-your-codebase-3n23)
+- [Top Benefits of Using Bulk Email Marketing Services for Your Business](https://dev.to/steffan_jones_16b32d5275a/top-benefits-of-using-bulk-email-marketing-services-for-your-business-4emo)
+- [Why I won&#39;t use querySelector again.](https://dev.to/codingnninja/why-i-wont-use-queryselector-again-3mod)
+- [Stable Memory In Internet Computer](https://dev.to/harshedabdulla/stable-memory-in-internet-computer-37pj)
 <!-- BLOG-POST-LIST:END -->
 
 
