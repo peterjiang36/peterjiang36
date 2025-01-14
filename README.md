@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS, Azure, and GCP: Which provider is best for your needs?](https://dev.to/briansuarezsantiago/aws-azure-and-gcp-which-provider-is-best-for-your-needs-5enl)
-- [Beyond the Random Class: Cryptographic Randomness in .NET 6+](https://dev.to/ivankahl/beyond-the-random-class-cryptographic-randomness-in-net-6-7ai)
-- [The World’s 1st Free and Open-Source Palm Recognition SDK from Faceplugin](https://dev.to/faceplugin/the-worlds-1st-free-and-open-source-palm-recognition-sdk-from-faceplugin-5d8h)
-- [Have you ever used `git submodules`?](https://dev.to/ramunarasinga-11/have-you-ever-used-git-submodules-28ko)
+- [Building an Intelligent SQL Query Assistant with Neon, .NET, Azure Functions, and Azure OpenAI service](https://dev.to/bobur/building-an-intelligent-sql-query-assistant-with-neon-net-azure-functions-and-azure-openai-1hii)
+- [🚀 Your Daily Crypto Job Digest For 14 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-january-3nnc)
+- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
+- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
 <!-- BLOG-POST-LIST:END -->
 
 
