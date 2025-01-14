@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Saved Time on Frontend Development Using shadcn Components &lpar;And Made It Look Better Too&rpar;](https://dev.to/rijultp/how-i-saved-time-on-frontend-development-using-shadcn-components-and-made-it-look-better-too-1af0)
-- [How to Build a Social Network in 1 Day: Part 1 — Introduction](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-1-introduction-1a3d)
-- [Naviguer vers le Bien-être des Employés : Stratégies RH pour la Santé Mentale en 2024](https://dev.to/vdaubry/naviguer-vers-le-bien-etre-des-employes-strategies-rh-pour-la-sante-mentale-en-2024-2007)
-- [Building Modern Desktop Applications with .NET 9: Features and Best Practices](https://dev.to/leandroveiga/building-modern-desktop-applications-with-net-9-features-and-best-practices-4707)
+- [The Power of Proteins: Why They Matter in Your Diet](https://dev.to/ali007/the-power-of-proteins-why-they-matter-in-your-diet-2f6k)
+- [What is Kusto Query Language?](https://dev.to/techielass/what-is-kusto-query-language-2k2n)
+- [Kotlin Generics Simplified](https://dev.to/khushpanchal123/kotlin-generics-simplified-5nj)
+- [Understanding Blockchain: A Beginner&#39;s Guide for Novices](https://dev.to/phonelocket8/understanding-blockchain-a-beginners-guide-for-novices-427m)
 <!-- BLOG-POST-LIST:END -->
 
 
