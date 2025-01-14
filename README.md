@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO AI: Your Secret Weapon for Boosting SEO Performance!](https://dev.to/juddiy/seo-ai-your-secret-weapon-for-boosting-seo-performance-h4h)
-- [Nextjs and ReactJS](https://dev.to/shelleyp95/nextjs-and-reactjs-3g48)
-- [NextJS And Contentful](https://dev.to/rivkaavraham/nextjs-and-contentful-1o7i)
-- [Figma to NextJS](https://dev.to/rivkaavraham/figma-to-nextjs-18kb)
+- [8 Modern Dev Tools to 100X Your Productivity](https://dev.to/kafeel_ahmad/8-modern-dev-tools-to-100x-your-productivity-43ld)
+- [Black Box Testing and White Box Testing: Understanding the Differences](https://dev.to/keploy/black-box-testing-and-white-box-testing-understanding-the-differences-5f08)
+- [🤖 DevOps-GPT: Automating SRE Resolutions with AI-Powered Agents and Insights 🤖](https://dev.to/lakhera2015/devops-gpt-automating-sre-resolutions-with-ai-powered-agents-and-insights-4621)
+- [What is typescript?](https://dev.to/mosininamdar/what-is-typescript-1n3b)
 <!-- BLOG-POST-LIST:END -->
 
 
