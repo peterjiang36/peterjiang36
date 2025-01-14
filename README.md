@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s create Data Table. Part 7: Dark theme and refactoring](https://dev.to/morewings/lets-create-data-table-part-7-dark-theme-and-refactoring-3ni9)
-- [Compiling 2025: Building a Year of Growth and Innovation](https://dev.to/prasanthj/compiling-2025-building-a-year-of-growth-and-innovation-3d3k)
-- [Understanding OAuth 1.0a Signature Generation: Postman vs. Node.js Library and Custom Implementation](https://dev.to/chatgptnexus/2025011422-50-58-article-2olf)
-- [React Korean Input Bug: First Character Not Displaying Properly](https://dev.to/gnoeykeat/react-korean-input-bug-first-character-not-displaying-properly-5epd)
+- [Simplifying Oracle Databases with a GUI Tool](https://dev.to/roxana_haidiner/simplifying-oracle-databases-with-a-gui-tool-cgc)
+- [The Surprising Truth About Local SEO for Attorneys in 2025: Why They Are Rethinking Their Strategy](https://dev.to/webmatrices/the-surprising-truth-about-local-seo-for-law-firms-in-2025-why-immigration-attorneys-are-18pe)
+- [CRM Development: Unlocking Growth with Custom Solutions](https://dev.to/spencermarx/crm-development-unlocking-growth-with-custom-solutions-fle)
+- [Understanding React&#39;s useEffect and Event Listeners: A Deep Dive](https://dev.to/mohammad_shamchi_2095a104/understanding-reacts-useeffect-and-event-listeners-a-deep-dive-oka)
 <!-- BLOG-POST-LIST:END -->
 
 
