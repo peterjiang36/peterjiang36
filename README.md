@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Oracle Databases with a GUI Tool](https://dev.to/roxana_haidiner/simplifying-oracle-databases-with-a-gui-tool-cgc)
-- [The Surprising Truth About Local SEO for Attorneys in 2025: Why They Are Rethinking Their Strategy](https://dev.to/webmatrices/the-surprising-truth-about-local-seo-for-law-firms-in-2025-why-immigration-attorneys-are-18pe)
-- [CRM Development: Unlocking Growth with Custom Solutions](https://dev.to/spencermarx/crm-development-unlocking-growth-with-custom-solutions-fle)
-- [Understanding React&#39;s useEffect and Event Listeners: A Deep Dive](https://dev.to/mohammad_shamchi_2095a104/understanding-reacts-useeffect-and-event-listeners-a-deep-dive-oka)
+- [White Label Chat Platform for 2025](https://dev.to/aprogrammer22/white-label-chat-platform-for-2025-3mb7)
+- [Mentorship: A Two-Way Street of Growth](https://dev.to/m_midas/mentorship-a-two-way-street-of-growth-5al6)
+- [Golang e DSA](https://dev.to/joaofilippe/golang-e-dsa-29p2)
+- [What Is Model Validation, and 12 Common Methods to Get it Right](https://dev.to/yayabobi/what-is-model-validation-and-12-common-methods-to-get-it-right-ho9)
 <!-- BLOG-POST-LIST:END -->
 
 
