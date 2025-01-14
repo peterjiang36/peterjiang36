@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Intelligent SQL Query Assistant with Neon, .NET, Azure Functions, and Azure OpenAI service](https://dev.to/bobur/building-an-intelligent-sql-query-assistant-with-neon-net-azure-functions-and-azure-openai-1hii)
-- [🚀 Your Daily Crypto Job Digest For 14 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-january-3nnc)
-- [Kubernetes on Hybrid Cloud: Talos network](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-talos-network-51lo)
-- [Expo reads text asset file](https://dev.to/somidad/expo-reads-text-asset-file-3f07)
+- [How to receive data in form from another component](https://dev.to/azongo_ismail_05187b791e0/how-to-receive-data-in-form-from-another-component-4i8h)
+- [Managing application state in Puck](https://dev.to/puckeditor/managing-application-state-in-puck-4nek)
+- [Code Challenge: Map](https://dev.to/missbreton/code-challenge-map-27fd)
+- [Scala Full-Stack templates](https://dev.to/hackus/scala-full-stack-templates-16ea)
 <!-- BLOG-POST-LIST:END -->
 
 
