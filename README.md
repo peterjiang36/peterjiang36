@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Animation Library You Can Use for your Web Apps](https://dev.to/jenueldev/animation-library-you-can-use-for-your-web-apps-35lb)
-- [What is Generative AI and Why Does Your Business Need It?](https://dev.to/robertadler/what-is-generative-ai-and-why-does-your-business-need-it-41na)
-- [Streamlining CI/CD with AWS CodePipeline and GitHub Actions: A DevOps Perspective](https://dev.to/mabubakarriaz/streamlining-cicd-with-aws-codepipeline-and-github-actions-a-devops-perspective-j18)
-- [DEV RETRO 2024 !](https://dev.to/pragadeeshnehru/dev-retro-2024--3ceb)
+- [AWS, Azure, and GCP: Which provider is best for your needs?](https://dev.to/briansuarezsantiago/aws-azure-and-gcp-which-provider-is-best-for-your-needs-5enl)
+- [Beyond the Random Class: Cryptographic Randomness in .NET 6+](https://dev.to/ivankahl/beyond-the-random-class-cryptographic-randomness-in-net-6-7ai)
+- [The World’s 1st Free and Open-Source Palm Recognition SDK from Faceplugin](https://dev.to/faceplugin/the-worlds-1st-free-and-open-source-palm-recognition-sdk-from-faceplugin-5d8h)
+- [Have you ever used `git submodules`?](https://dev.to/ramunarasinga-11/have-you-ever-used-git-submodules-28ko)
 <!-- BLOG-POST-LIST:END -->
 
 
