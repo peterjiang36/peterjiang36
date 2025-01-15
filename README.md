@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracing the Evolution of Intelligence: From Symbolic Systems to Generative AI](https://dev.to/oluwafemi_josephine_3f323/tracing-the-evolution-of-intelligence-from-symbolic-systems-to-generative-ai-e37)
-- [Why Checkmate can have a huge benefit for your business](https://dev.to/muhammad_khalilzadeh/why-checkmate-can-have-a-huge-benefit-for-your-business-3b2j)
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
-- [check it out](https://dev.to/shivam223/check-it-out-2nah)
+- [Is posible to manipulate the return value from useRefs?](https://dev.to/polartang/is-posible-to-manipulate-the-return-value-from-userefs-1h3j)
+- [Como criei um dashboard estratégico com Streamlit usando dados do Jira &lpar;sendo Product Owner&rpar;](https://dev.to/proesc/como-criei-um-dashboard-estrategico-com-streamlit-usando-dados-do-jira-sendo-product-owner-igj)
+- [Hello, this is my first time here. I hope you are all doing well.](https://dev.to/abobakrelgandy/hello-this-is-my-first-time-here-i-hope-you-are-all-doing-well-433i)
+- [My React Journey: Project](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-project-2b66)
 <!-- BLOG-POST-LIST:END -->
 
 
