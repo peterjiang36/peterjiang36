@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for developers means designing for LLMs too](https://dev.to/encore/designing-for-developers-means-designing-for-llms-too-ep8)
-- [Using SVGs on Canvas with Compose Multiplatform](https://dev.to/eevajonnapanula/using-svgs-on-canvas-with-compose-multiplatform-272p)
-- [Daily.dev&#39;s unethical software design](https://dev.to/kurealnum/dailydevs-unethical-software-design-15ib)
-- [Lessons from A Philosophy of Software Design](https://dev.to/thawkin3/lessons-from-a-philosophy-of-software-design-4cn7)
+- [&quot;Boosting Multilingual LLMs: Tackling Noise for Better Performance&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multilingual-llms-tackling-noise-for-better-performance-4c0a)
+- [7 Mistakes Developers Make When Learning a New Framework &lpar;and How to Avoid Them&rpar;](https://dev.to/tunde_brown_9aca573715fe5/7-mistakes-developers-make-when-learning-a-new-framework-and-how-to-avoid-them-1cg2)
+- [Planning for 2025](https://dev.to/k-charm/planning-for-2025-4ji9)
+- [Exploring the Pros and Uses of Quantum Computing](https://dev.to/scarfkorean3/exploring-the-pros-and-uses-of-quantum-computing-41h)
 <!-- BLOG-POST-LIST:END -->
 
 
