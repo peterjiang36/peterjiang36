@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unique Symbols: How to Use Symbols for Type Safety](https://dev.to/zirkelc/unique-symbols-how-to-use-symbols-for-type-safety-52gb)
-- [My Journey to 2025: Reflections, Plans, and Predictions](https://dev.to/scitech-insights/my-journey-to-2025-reflections-plans-and-predictions-47ik)
-- [➡️💡Guide, Innovate, Succeed: Becoming a Software Development Leader 🚀](https://dev.to/praveenrajamani/guide-innovate-succeed-becoming-a-software-development-leader-59f5)
-- [Vinny built CoverletterGPT to $500/month, a good read](https://dev.to/infomiho/vinny-built-coverlettergpt-to-500month-a-good-read-56gb)
+- [Designing for developers means designing for LLMs too](https://dev.to/encore/designing-for-developers-means-designing-for-llms-too-ep8)
+- [Using SVGs on Canvas with Compose Multiplatform](https://dev.to/eevajonnapanula/using-svgs-on-canvas-with-compose-multiplatform-272p)
+- [Daily.dev&#39;s unethical software design](https://dev.to/kurealnum/dailydevs-unethical-software-design-15ib)
+- [Lessons from A Philosophy of Software Design](https://dev.to/thawkin3/lessons-from-a-philosophy-of-software-design-4cn7)
 <!-- BLOG-POST-LIST:END -->
 
 
