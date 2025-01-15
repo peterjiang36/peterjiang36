@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Care About Commit Messages?](https://dev.to/mathiasfc/do-you-care-about-commit-messages-3ml8)
-- [Title: Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/krushna_sananse_1f1cf1845/title-understanding-javascript-promises-a-beginners-guide-2bl6)
-- [A Practical Guide to Deferred Props in Inertia 2](https://dev.to/akramghaleb/a-practical-guide-to-deferred-props-in-inertia-2-da5)
-- [GraphQL Transforming API Development](https://dev.to/ivansing/graphql-transforming-api-development-3mhi)
+- [Tracing the Evolution of Intelligence: From Symbolic Systems to Generative AI](https://dev.to/oluwafemi_josephine_3f323/tracing-the-evolution-of-intelligence-from-symbolic-systems-to-generative-ai-e37)
+- [Why Checkmate can have a huge benefit for your business](https://dev.to/muhammad_khalilzadeh/why-checkmate-can-have-a-huge-benefit-for-your-business-3b2j)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-53kj)
+- [check it out](https://dev.to/shivam223/check-it-out-2nah)
 <!-- BLOG-POST-LIST:END -->
 
 
