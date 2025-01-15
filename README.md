@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Online Postman-Like Tools for API Testing and Development](https://dev.to/apilover/top-10-online-postman-like-tools-for-api-testing-and-development-502o)
-- [10 Must-Know Software Testing Interview Questions](https://dev.to/mansi_patil_ba50a09f10264/10-must-know-software-testing-interview-questions-3fci)
-- [5 Reasons Why Homework Should Be Banned?](https://dev.to/tarunfulera/5-reasons-why-homework-should-be-banned-1ke0)
-- [Debugging Authorization: How Cerbos Makes Troubleshooting Access Issues a Breeze](https://dev.to/techondiapers/debugging-authorization-how-cerbos-makes-troubleshooting-access-issues-a-breeze-1955)
+- [Can I build &amp; market a SaaS app to $100 in 1 month?](https://dev.to/wasp/can-i-build-market-a-saas-app-to-100-in-1-month-36e7)
+- [Top 5 SaaS Trends for 2025](https://dev.to/uchechi_a569c3c4732f5987c/top-5-saas-trends-for-2025-o9d)
+- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
+- [How to upload Markdown files to Devto from GitHub v1](https://dev.to/alexantartico/how-to-upload-markdown-files-to-devto-from-github-v1-2ok6)
 <!-- BLOG-POST-LIST:END -->
 
 
