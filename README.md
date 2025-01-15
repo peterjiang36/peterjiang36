@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Semantic Search Engine with OpenAI, Go, and PostgreSQL &lpar;pgvector&rpar;](https://dev.to/dpuig/building-a-semantic-search-engine-with-openai-go-and-postgresql-pgvector-1el6)
-- [Is the SIP protocol making a comeback?](https://dev.to/naderjaber/is-the-sip-protocol-making-a-comeback-3l0b)
-- [Using LRU Cache in Node.js and TypeScript](https://dev.to/shayy/using-lru-cache-in-nodejs-and-typescript-7d9)
-- [Who Needs Roles Anymore? Introducing OpenFGA, the Future of SaaS](https://dev.to/blkgrlcto/who-needs-roles-anymore-introducing-openfga-the-future-of-saas-19j6)
+- [🌐 🚀 Top 260 Websites every developer should know 🌟](https://dev.to/hanzla-baig/top-230-websites-every-developer-should-know-2og9)
+- [Day 1080 : Tuff](https://dev.to/dwane/day-1080-tuff-1n29)
+- [🚀 DeepSeek: The Ultimate AI Tool Outshining ChatGPT, Claude, and Gemini 🌟](https://dev.to/musamakhizr/deepseek-the-ultimate-ai-tool-outshining-chatgpt-claude-and-gemini-483f)
+- [🚀 The Future of Technology: From Electronic to Quantronic Devices 🌌](https://dev.to/musamakhizr/the-future-of-technology-from-electronic-to-quantronic-devices-5875)
 <!-- BLOG-POST-LIST:END -->
 
 
