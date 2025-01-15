@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3..2..1… AWS aterriza en México 🚀 🇲🇽](https://dev.to/bgalicia/321-aws-aterriza-en-mexico-22hl)
-- [JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/thedevricha/javascript-closures-a-beginners-guide-lo6)
-- [DolphinScheduler Project Management Page Loads Slowly? Here&#39;s How to Optimize It](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-project-management-page-loads-slowly-heres-how-to-optimize-it-288p)
-- [Building Robust Applications with Real-Time Email Verification API: A Developer&#39;s Guide](https://dev.to/ychecker/building-robust-applications-with-real-time-email-verification-api-a-developers-guide-5g41)
+- [Welcome Thread - v310](https://dev.to/devteam/welcome-thread-v310-348i)
+- [Blockchain](https://dev.to/ranjithjupaka/blockchain-309n)
+- [HTML Elements](https://dev.to/kavya_655bd7b08c9f0e93601/html-elements-6lj)
+- [AngularFire Starter Template](https://dev.to/mbejda/angularfire-starter-template-4cgp)
 <!-- BLOG-POST-LIST:END -->
 
 
