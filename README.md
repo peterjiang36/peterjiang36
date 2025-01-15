@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React](https://dev.to/kushi_nama_0e0be6ad87f7fc/react-2kbh)
-- [What &lpar;&lpar;programming&rpar; language&rpar; should I learn this year, 2025 ?](https://dev.to/taikedz/what-programming-language-should-i-learn-this-year-2025--meo)
-- [Are millions of accounts vulnerable due to Google&#39;s OAuth Flaw?](https://dev.to/authress/are-millions-of-accounts-vulnerable-due-to-googles-oauth-flaw-33f)
-- [Best Tips to Prepare for the AWS Certification Exam in 2025](https://dev.to/skillboosttrainer/best-tips-to-prepare-for-the-aws-certification-exam-in-2025-166h)
+- [Do You Care About Commit Messages?](https://dev.to/mathiasfc/do-you-care-about-commit-messages-3ml8)
+- [Title: Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/krushna_sananse_1f1cf1845/title-understanding-javascript-promises-a-beginners-guide-2bl6)
+- [A Practical Guide to Deferred Props in Inertia 2](https://dev.to/akramghaleb/a-practical-guide-to-deferred-props-in-inertia-2-da5)
+- [GraphQL Transforming API Development](https://dev.to/ivansing/graphql-transforming-api-development-3mhi)
 <!-- BLOG-POST-LIST:END -->
 
 
