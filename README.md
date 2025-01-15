@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is posible to manipulate the return value from useRefs?](https://dev.to/polartang/is-posible-to-manipulate-the-return-value-from-userefs-1h3j)
-- [Como criei um dashboard estratégico com Streamlit usando dados do Jira &lpar;sendo Product Owner&rpar;](https://dev.to/proesc/como-criei-um-dashboard-estrategico-com-streamlit-usando-dados-do-jira-sendo-product-owner-igj)
-- [Hello, this is my first time here. I hope you are all doing well.](https://dev.to/abobakrelgandy/hello-this-is-my-first-time-here-i-hope-you-are-all-doing-well-433i)
-- [My React Journey: Project](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-project-2b66)
+- [Creating a live HTML, CSS and JS displayer](https://dev.to/kavya-sahai-god/creating-a-live-html-css-and-js-displayer-2e2b)
+- [Cloud Cryptography: A Beginner&#39;s Guide for Everyday Users](https://dev.to/eben/cloud-cryptography-a-beginners-guide-for-everyday-users-fc1)
+- [Flutter vs React Native in 2025: A Comprehensive Comparison](https://dev.to/codeparrot/flutter-vs-react-native-in-2025-a-comprehensive-comparison-4ad1)
+- [When AI Fails, Good Documentation Saves the Day 🤖📚](https://dev.to/joorch/when-ai-fails-good-documentation-saves-the-day-1g1h)
 <!-- BLOG-POST-LIST:END -->
 
 
