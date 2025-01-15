@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can I build &amp; market a SaaS app to $100 in 1 month?](https://dev.to/wasp/can-i-build-market-a-saas-app-to-100-in-1-month-36e7)
-- [Top 5 SaaS Trends for 2025](https://dev.to/uchechi_a569c3c4732f5987c/top-5-saas-trends-for-2025-o9d)
-- [🚨 The Dangers of Developers Relying Exclusively on AI Without Understanding Fundamental Concepts](https://dev.to/fonteeboa/the-dangers-of-developers-relying-exclusively-on-ai-without-understanding-fundamental-concepts-6m7)
-- [How to upload Markdown files to Devto from GitHub v1](https://dev.to/alexantartico/how-to-upload-markdown-files-to-devto-from-github-v1-2ok6)
+- [Use Chrome&#39;s Prompt API to generate a trip planner in Angular](https://dev.to/railsstudent/use-chromes-prompt-api-to-generate-a-trip-planner-in-angular-2kpo)
+- [340+ Websites every developer should know](https://dev.to/kafeel_ahmad/340-websites-every-developer-should-know-3cdb)
+- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
+- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
 <!-- BLOG-POST-LIST:END -->
 
 
