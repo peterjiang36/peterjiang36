@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Google Flights Data with Python](https://dev.to/datacollectionscraper/how-to-scrape-google-flights-data-with-python-3afm)
-- [🌟 A New Adventure Begins! 🛵🍕](https://dev.to/sahilkhatiwada_official/a-new-adventure-begins-1mgj)
-- [#131 — Use Association Table to Handle Interval Association](https://dev.to/judith677/131-use-association-table-to-handle-interval-association-2jg2)
-- [Using Direct Line botframework in a React Native Application to connect to Copilot Studio Agent](https://dev.to/vivekyadav200988/direct-line-usage-in-a-react-native-application-using-botframework-4lhh)
+- [3..2..1… AWS aterriza en México 🚀 🇲🇽](https://dev.to/bgalicia/321-aws-aterriza-en-mexico-22hl)
+- [JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/thedevricha/javascript-closures-a-beginners-guide-lo6)
+- [DolphinScheduler Project Management Page Loads Slowly? Here&#39;s How to Optimize It](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-project-management-page-loads-slowly-heres-how-to-optimize-it-288p)
+- [Building Robust Applications with Real-Time Email Verification API: A Developer&#39;s Guide](https://dev.to/ychecker/building-robust-applications-with-real-time-email-verification-api-a-developers-guide-5g41)
 <!-- BLOG-POST-LIST:END -->
 
 
