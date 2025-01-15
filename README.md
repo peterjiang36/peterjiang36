@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 🚀 Top 260 Websites every developer should know 🌟](https://dev.to/hanzla-baig/top-230-websites-every-developer-should-know-2og9)
-- [Day 1080 : Tuff](https://dev.to/dwane/day-1080-tuff-1n29)
-- [🚀 DeepSeek: The Ultimate AI Tool Outshining ChatGPT, Claude, and Gemini 🌟](https://dev.to/musamakhizr/deepseek-the-ultimate-ai-tool-outshining-chatgpt-claude-and-gemini-483f)
-- [🚀 The Future of Technology: From Electronic to Quantronic Devices 🌌](https://dev.to/musamakhizr/the-future-of-technology-from-electronic-to-quantronic-devices-5875)
+- [Direct Line Usage in a React Native Application using botframework](https://dev.to/vivekyadav200988/direct-line-usage-in-a-react-native-application-using-botframework-4lhh)
+- [uilding Thriving Communities: A Guide for Developers and Leaders](https://dev.to/shib_itsme/uilding-thriving-communities-a-guide-for-developers-and-leaders-e08)
+- [Video AI](https://dev.to/csakscreator/video-ai-dkc)
+- [The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1.* and SeaTunnel 2.3.*](https://dev.to/chen_debra_3060b21d12b1b0/the-king-combination-efficiently-completing-heterogeneous-data-integration-with-dolphinscheduler-2lp1)
 <!-- BLOG-POST-LIST:END -->
 
 
