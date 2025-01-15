@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a live HTML, CSS and JS displayer](https://dev.to/kavya-sahai-god/creating-a-live-html-css-and-js-displayer-2e2b)
-- [Cloud Cryptography: A Beginner&#39;s Guide for Everyday Users](https://dev.to/eben/cloud-cryptography-a-beginners-guide-for-everyday-users-fc1)
-- [Flutter vs React Native in 2025: A Comprehensive Comparison](https://dev.to/codeparrot/flutter-vs-react-native-in-2025-a-comprehensive-comparison-4ad1)
-- [When AI Fails, Good Documentation Saves the Day 🤖📚](https://dev.to/joorch/when-ai-fails-good-documentation-saves-the-day-1g1h)
+- [Difference Between &lt;b&gt; and &lt;strong&gt; Tags in HTML](https://dev.to/wisdomudo/difference-between-and-tags-in-html-1fp6)
+- [Data structures](https://dev.to/__8d1b4f7/data-structures-4gkl)
+- [Hello everyone!!! :&rpar; ...and, what am I doing wrong?](https://dev.to/techniqueen/hello-everyone-and-what-am-i-doing-wrong-4and)
+- [The Way I Use Apple Notes is... Different](https://dev.to/litd/the-way-i-use-apple-notes-is-different-4jf)
 <!-- BLOG-POST-LIST:END -->
 
 
