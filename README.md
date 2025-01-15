@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Chrome&#39;s Prompt API to generate a trip planner in Angular](https://dev.to/railsstudent/use-chromes-prompt-api-to-generate-a-trip-planner-in-angular-2kpo)
-- [340+ Websites every developer should know](https://dev.to/kafeel_ahmad/340-websites-every-developer-should-know-3cdb)
-- [Use Power Query SDK in Visual Studio Code for Power BI](https://dev.to/flnzba/use-power-query-sdk-in-visual-studio-code-for-power-bi-5hjc)
-- [The Transformative Power of Selfless Service: How Giving Back Shapes Us All](https://dev.to/nandhitha_0203040506/the-transformative-power-of-selfless-service-how-giving-back-shapes-us-all-27im)
+- [Unique Symbols: How to Use Symbols for Type Safety](https://dev.to/zirkelc/unique-symbols-how-to-use-symbols-for-type-safety-52gb)
+- [My Journey to 2025: Reflections, Plans, and Predictions](https://dev.to/scitech-insights/my-journey-to-2025-reflections-plans-and-predictions-47ik)
+- [➡️💡Guide, Innovate, Succeed: Becoming a Software Development Leader 🚀](https://dev.to/praveenrajamani/guide-innovate-succeed-becoming-a-software-development-leader-59f5)
+- [Vinny built CoverletterGPT to $500/month, a good read](https://dev.to/infomiho/vinny-built-coverlettergpt-to-500month-a-good-read-56gb)
 <!-- BLOG-POST-LIST:END -->
 
 
