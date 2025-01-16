@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Rate Limiting in Node.js: Strategies and Best Practices](https://dev.to/hamzakhan/api-rate-limiting-in-nodejs-strategies-and-best-practices-3gef)
-- [Ineffective Life Goals Advisor](https://dev.to/aniruddhaadak/ineffective-life-goals-advisor-30f3)
-- [Introduction to Elasticsearch Database and Key Terminologies](https://dev.to/web_dev-usman/introduction-to-elasticsearch-database-and-key-terminologies-36oe)
-- [Get More Done with LangChain’s AI Email Assistant &lpar;EAIA&rpar;](https://dev.to/visdom_04_88f1c6e8a47fe74/get-more-done-with-langchains-ai-email-assistant-eaia-1cii)
+- [Optimizing Mobile Performance and Media Loading for a Dynamic Website](https://dev.to/williamaurthur/optimizing-mobile-performance-and-media-loading-for-a-dynamic-website-12lg)
+- [Web3 Use Case: Decentralized Charity Fund Management](https://dev.to/web3devint/web3-use-case-decentralized-charity-fund-management-3n6p)
+- [Master CCNA with Comprehensive Tutorials, Labs, and Challenges](https://dev.to/p2p_certs_5787663da138fad/master-ccna-with-comprehensive-tutorials-labs-and-challenges-4ag6)
+- [From TikTok to Red Note: Connecting Cultures with Language Tools](https://dev.to/cecilia_luo_23bae8578aa08/from-tiktok-to-red-note-connecting-cultures-with-language-tools-19mp)
 <!-- BLOG-POST-LIST:END -->
 
 
