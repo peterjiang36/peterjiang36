@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025’s Best Practices for Managing CSS in Large-Scale Projects](https://dev.to/digitalminds/2025s-best-practices-for-managing-css-in-large-scale-projects-2cee)
-- [OAuth2 Resource Owner Password Credentials Grant Type: Use Cases and Security Risks](https://dev.to/igventurelli/oauth2-resource-owner-password-credentials-grant-type-use-cases-and-security-risks-3hh1)
-- [A deep dive into Angular’s FormArray container](https://dev.to/logrocket/a-deep-dive-into-angulars-formarray-container-23m3)
-- [How to Copy/Duplicate a File Duplicate in Vim &lpar;netrw+vinegar&rpar;](https://dev.to/pkutaj/how-to-copyduplicate-a-file-duplicate-in-vim-netrwvinegar-561c)
+- [Understanding and Using Table Hints in SQL Server](https://dev.to/stevsharp/understanding-and-using-table-hints-in-sql-server-4iia)
+- [How to Structure API Documentation for Maximum Usability](https://dev.to/opman129/how-to-structure-api-documentation-for-maximum-usability-7if)
+- [🚫 Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-1nmd)
+- [🚫Notion vs Obsidian](https://dev.to/oscareduardolp6/notion-vs-obsidian-2bd4)
 <!-- BLOG-POST-LIST:END -->
 
 
