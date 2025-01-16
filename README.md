@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Ctrl+Alt+Laugh: 2025 Tech Trends&quot;](https://dev.to/snehal_kothawade_sk/ctrlaltlaugh-2025-tech-trends-4h7h)
-- [🚀 Top React Libraries for Project Management Apps You Need to Know](https://dev.to/olga_tash/top-react-libraries-for-project-management-apps-you-need-to-know-5dg8)
-- [The Simplest Free Weather API Integration with Python](https://dev.to/b_thompson_2/the-simplest-free-weather-api-integration-with-python-3ceh)
-- [Top 50 Most Asked Java Questions in Technical Interviews.](https://dev.to/piyush_kumarsingh/top-50-most-asked-java-questions-in-technical-interviews-211e)
+- [Introducing Rails Stats: view LoC of Rails Products](https://dev.to/railsdesigner/introducing-rails-stats-3fdo)
+- [Implementing Cookie-Based JWT Authentication in a tRPC Backend](https://dev.to/itsrakesh/implementing-cookie-based-jwt-authentication-in-a-trpc-backend-478m)
+- [Making DBChat VSCode Extension - Ping Pong With LSP Backend &lpar;Part 6&rpar;](https://dev.to/shrsv/making-dbchat-vscode-extension-ping-pong-with-lsp-backend-part-6-42gd)
+- [What does NULL mean in an OUTER JOIN? &lpar;&quot;unknown&quot; vs. &quot;not exists&quot;&rpar;](https://dev.to/yugabyte/what-does-null-mean-in-an-outer-join-unknown-vs-not-exists-4kng)
 <!-- BLOG-POST-LIST:END -->
 
 
