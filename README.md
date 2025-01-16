@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Mobile Performance and Media Loading for a Dynamic Website](https://dev.to/williamaurthur/optimizing-mobile-performance-and-media-loading-for-a-dynamic-website-12lg)
-- [Web3 Use Case: Decentralized Charity Fund Management](https://dev.to/web3devint/web3-use-case-decentralized-charity-fund-management-3n6p)
-- [Master CCNA with Comprehensive Tutorials, Labs, and Challenges](https://dev.to/p2p_certs_5787663da138fad/master-ccna-with-comprehensive-tutorials-labs-and-challenges-4ag6)
-- [From TikTok to Red Note: Connecting Cultures with Language Tools](https://dev.to/cecilia_luo_23bae8578aa08/from-tiktok-to-red-note-connecting-cultures-with-language-tools-19mp)
+- [Sách Nói Song Ngữ](https://dev.to/besenai/sach-noi-song-ngu-71a)
+- [Handling Race Conditions in Real-Time Apps 🏃💨](https://dev.to/mattlewandowski93/handling-race-conditions-in-real-time-apps-49c8)
+- [Network Detection and Response &lpar;NDR&rpar;: Latest Updates and Solutions](https://dev.to/fidelissecurity/network-detection-and-response-ndr-latest-updates-and-solutions-1g72)
+- [Meet OpenMic – Your Go-To AI Voice Assistant Platform](https://dev.to/shwetasd19/meet-openmic-your-go-to-ai-voice-assistant-platform-1fhd)
 <!-- BLOG-POST-LIST:END -->
 
 
