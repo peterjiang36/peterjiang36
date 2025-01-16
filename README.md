@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Rails Stats: view LoC of Rails Products](https://dev.to/railsdesigner/introducing-rails-stats-3fdo)
-- [Implementing Cookie-Based JWT Authentication in a tRPC Backend](https://dev.to/itsrakesh/implementing-cookie-based-jwt-authentication-in-a-trpc-backend-478m)
-- [Making DBChat VSCode Extension - Ping Pong With LSP Backend &lpar;Part 6&rpar;](https://dev.to/shrsv/making-dbchat-vscode-extension-ping-pong-with-lsp-backend-part-6-42gd)
-- [What does NULL mean in an OUTER JOIN? &lpar;&quot;unknown&quot; vs. &quot;not exists&quot;&rpar;](https://dev.to/yugabyte/what-does-null-mean-in-an-outer-join-unknown-vs-not-exists-4kng)
+- [[Boost]](https://dev.to/brunociccarino/-47nb)
+- [How to Enhance the API Response with a Wrapper Class with Additional Information with .NET Minimal API](https://dev.to/this-is-learning/how-to-enhance-the-api-response-with-a-wrapper-class-with-additional-information-with-net-minimal-45ea)
+- [AWSsence: Exploring Event Monitoring](https://dev.to/badgerduke/awssence-exploring-event-monitoring-4gck)
+- [Routing in Next.js – How to Use App Router in Your Next Apps](https://dev.to/epicx/routing-in-nextjs-how-to-use-app-router-in-your-next-apps-2lj4)
 <!-- BLOG-POST-LIST:END -->
 
 
