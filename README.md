@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [【ChaoCode】 Swift 基礎篇 3：數字類型作業](https://dev.to/too_leng/chaocode-swift-ji-chu-pian-3shu-zi-lei-xing-zuo-ye-4len)
-- [.http Files: The Hidden Tool Every Developer Needs for API Testing](https://dev.to/apilover/http-files-the-hidden-tool-every-developer-needs-for-api-testing-5l8)
-- [5 Reasons Startups Should Consider Using Locker.io for Secrets Management](https://dev.to/meomeo_peo/5-reasons-startups-should-consider-using-lockerio-for-secrets-management-4lfo)
-- [A Practical Guide to NULL in SQL Databases](https://dev.to/dbvismarketing/a-practical-guide-to-null-in-sql-databases-n67)
+- [Resolving MySQL Port Conflicts: A Step-by-Step Guide](https://dev.to/saint_vandora/resolving-mysql-port-conflicts-a-step-by-step-guide-hgc)
+- [Navigating Ethical Challenges in AI Development](https://dev.to/alona_instandart/navigating-ethical-challenges-in-ai-development-48cb)
+- [Blockchain and Slots: Why They’re a Perfect Match](https://dev.to/ram_fb361bc2f8f94e06772e2/blockchain-and-slots-why-theyre-a-perfect-match-93a)
+- [The Home Assistant companion app](https://dev.to/nfrankel/the-home-assistant-companion-app-40hj)
 <!-- BLOG-POST-LIST:END -->
 
 
