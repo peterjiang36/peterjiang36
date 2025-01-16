@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 9-Step Process of AI Software Development](https://dev.to/gocodeo/the-9-step-process-of-ai-software-development-4f56)
-- [Why is the hybrid approach a good choice for mobile app development?](https://dev.to/techcronusbs/why-is-the-hybrid-approach-a-good-choice-for-mobile-app-development-6mo)
-- [Frontend Engineering for a Chat App](https://dev.to/hussain101/frontend-engineering-for-a-chat-app-3o4c)
-- [Understanding ASP.NET: Empowering Modern Web Development](https://dev.to/mayank_parmar_97dc5365da7/understanding-aspnet-empowering-modern-web-development-54e)
+- [Mastering Apache Kafka: Powering Modern Data Pipelines](https://dev.to/pragativerma18/mastering-apache-kafka-powering-modern-data-pipelines-5ebh)
+- [How to Get Back a Lost Git Branch](https://dev.to/documendous/how-to-get-back-a-lost-git-branch-18ml)
+- [Docker Scout: Your Container Security Companion - A Developer&#39;s Guide](https://dev.to/docker/docker-scout-your-container-security-companion-a-developers-guide-4777)
+- [Compiling 2025: Building a Roadmap for Career Growth in Blockchain Development](https://dev.to/block_experts_766a3a21915637/compiling-2025-building-a-roadmap-for-career-growth-in-blockchain-development-4dab)
 <!-- BLOG-POST-LIST:END -->
 
 
