@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sách Nói Song Ngữ](https://dev.to/besenai/sach-noi-song-ngu-71a)
-- [Handling Race Conditions in Real-Time Apps 🏃💨](https://dev.to/mattlewandowski93/handling-race-conditions-in-real-time-apps-49c8)
-- [Network Detection and Response &lpar;NDR&rpar;: Latest Updates and Solutions](https://dev.to/fidelissecurity/network-detection-and-response-ndr-latest-updates-and-solutions-1g72)
-- [Meet OpenMic – Your Go-To AI Voice Assistant Platform](https://dev.to/shwetasd19/meet-openmic-your-go-to-ai-voice-assistant-platform-1fhd)
+- [【ChaoCode】 Swift 基礎篇 3：數字類型作業](https://dev.to/too_leng/chaocode-swift-ji-chu-pian-3shu-zi-lei-xing-zuo-ye-4len)
+- [.http Files: The Hidden Tool Every Developer Needs for API Testing](https://dev.to/apilover/http-files-the-hidden-tool-every-developer-needs-for-api-testing-5l8)
+- [5 Reasons Startups Should Consider Using Locker.io for Secrets Management](https://dev.to/meomeo_peo/5-reasons-startups-should-consider-using-lockerio-for-secrets-management-4lfo)
+- [A Practical Guide to NULL in SQL Databases](https://dev.to/dbvismarketing/a-practical-guide-to-null-in-sql-databases-n67)
 <!-- BLOG-POST-LIST:END -->
 
 
