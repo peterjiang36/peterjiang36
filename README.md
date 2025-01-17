@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Developer Tools That Will Boost Your Web Development Workflow in 2025](https://dev.to/dct_technologyprivatelimited/7-developer-tools-that-will-boost-your-web-development-workflow-in-2025-3m7j)
-- [Why &#39;this&#39; in JavaScript Differs from Other OOP Languages](https://dev.to/ehsanahmadzadeh/why-this-in-javascript-differs-from-other-oop-languages-g5k)
-- [How to Design a Stylus Pen Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-stylus-pen-using-3d-cad-software-21n9)
-- [CSS3 Animations: The Complete Guide with Examples](https://dev.to/chardnoise3/css3-animations-the-complete-guide-with-examples-587f)
+- [Introduction to AWS Services](https://dev.to/godofgeeks/introduction-to-aws-services-20dm)
+- [🎙️I built &quot;GitPodcast&quot; to help devs understand 💡any GitHub repo easily](https://dev.to/mkagenius/i-built-gitpodcast-to-help-devs-understand-any-github-repo-easily-1pkn)
+- [JavaScript Interview Questions](https://dev.to/prajesh_kun/javascript-interview-questions-3epe)
+- [Generating Random User Agents in Rust: Introducing `rand_agents` Library](https://dev.to/trixsec/generating-random-user-agents-in-rust-introducing-randagents-library-4c82)
 <!-- BLOG-POST-LIST:END -->
 
 
