@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Process Synchronization and Scheduling in Operating Systems](https://dev.to/arjun98k/process-synchronization-and-scheduling-in-operating-systems-1hcp)
-- [Rails Designer v1.11: Rails Icons now a default](https://dev.to/railsdesigner/rails-designer-v111-rails-icons-now-a-default-3h21)
-- [Lift and Shift vs Replatforming](https://dev.to/enna/lift-and-shift-vs-replatforming-5d07)
-- [What the H*ck is Terraform: An Introduction](https://dev.to/brandondamue/what-the-hck-is-terraform-an-introduction-2058)
+- [Essential CSS3 Features Every Web Developer Should Master](https://dev.to/bkthemes/essential-css3-features-every-web-developer-should-master-17o)
+- [Context Wrapper en React](https://dev.to/zenx5/context-wrapper-en-react-l35)
+- [🚀 Top 25+ Must-Read AI Related Articles for Everyone.](https://dev.to/dev-resources/top-25-must-read-ai-related-articles-for-everyone-3bif)
+- [From Rookie to AWS Enthusiast: How I Tackled S3, IAM, and a ₹5000 Surprise](https://dev.to/falconxfied/from-rookie-to-aws-enthusiast-how-i-tackled-s3-iam-and-a-5000-surprise-44fm)
 <!-- BLOG-POST-LIST:END -->
 
 
