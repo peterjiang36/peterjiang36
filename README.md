@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Hilarious Coach](https://dev.to/auramuch/most-hilarious-coach-2b7l)
-- [Sql basic command](https://dev.to/sachin841/sql-basic-command-42jj)
-- [Top 10 Free Proxies for Web Scraping: 2025](https://dev.to/datacollectionscraper/top-10-free-proxies-for-web-scraping-2025-7og)
-- [The Role of Augmented Reality in Manufacturing: Applications and Advantages](https://dev.to/ram_fb361bc2f8f94e06772e2/the-role-of-augmented-reality-in-manufacturing-applications-and-advantages-3m5e)
+- [My Journey to Creating a Supportive Community for Freelancers &amp; Small Business Owners - #2: Validation, Feedback &amp; First Ideas](https://dev.to/per-starke-642/my-journey-to-creating-a-supportive-community-for-freelancers-small-business-owners-2-185m)
+- [Building Real-Time Data Pipelines with Kafka Streams](https://dev.to/thesimdak/building-real-time-data-pipelines-with-kafka-streams-4535)
+- [🔰Git e Github: Hacktoberfest e Conclusão](https://dev.to/neiesc/git-e-github-hacktoberfest-e-conclusao-hk9)
+- [C++ 3rd Code &lpar; using cin.get alternate system&lpar;&quot;pause&quot;&rpar;](https://dev.to/md-salah/c-3rd-code-using-cinget-alternate-systempause-1h17)
 <!-- BLOG-POST-LIST:END -->
 
 
