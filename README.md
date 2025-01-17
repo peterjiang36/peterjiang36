@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Eita! Não rolou a certificação AWS Cloud Practitioner de primeira? Calma, que a gente te ajuda!](https://dev.to/matheuscostadevops/eita-nao-rolou-a-certificacao-aws-cloud-practitioner-de-primeira-calma-que-a-gente-te-ajuda-5ap8)
-- [Why AI is the Future of Software Testing](https://dev.to/qa_expert/why-ai-is-the-future-of-software-testing-5ccd)
-- [Enhancing Security with App Signature Verification](https://dev.to/helloquash/enhancing-security-with-app-signature-verification-1hi4)
-- [Main Advantage Of Hoisting In JavaScript?](https://dev.to/prabal_sharma_55f155f14be/main-advantage-of-hoisting-in-javascript-413f)
+- [Mastering Multi-Account Management: Step-by-Step Guide to Setting Up AWS Organizations with SSO](https://dev.to/aws-builders/mastering-multi-account-management-step-by-step-guide-to-setting-up-aws-organizations-with-sso-4690)
+- [Python](https://dev.to/julienpalleau/python-1bpi)
+- [Leetcode — 3146. Permutation Difference between Two Strings](https://dev.to/bendlmp/leetcode-3146-permutation-difference-between-two-strings-3b28)
+- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
 <!-- BLOG-POST-LIST:END -->
 
 
