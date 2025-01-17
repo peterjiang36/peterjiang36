@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Your TikTok Videos Before They’re Gone: A Simple Tool to Backup Your Content](https://dev.to/pikadoramon/how-to-save-your-tiktok-videos-before-theyre-gone-a-simple-tool-to-backup-your-content-4d6g)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2eei)
-- [NVIDIA Introduces NIM Microservices to Enhance AI Application Safety and Accuracy](https://dev.to/aihrudu/nvidia-introduces-nim-microservices-to-enhance-ai-application-safety-and-accuracy-591a)
-- [Helyi felhatalmazás: Hogyan energizálja a tokenizált napenergia a közösségeket a SunMoney Solar iparági vezetői által](https://dev.to/sunmoney_solar_e3196a3bdd/helyi-felhatalmazas-hogyan-energizalja-a-tokenizalt-napenergia-a-kozossegeket-a-sunmoney-solar-2333)
+- [7 Developer Tools That Will Boost Your Web Development Workflow in 2025](https://dev.to/dct_technologyprivatelimited/7-developer-tools-that-will-boost-your-web-development-workflow-in-2025-3m7j)
+- [Why &#39;this&#39; in JavaScript Differs from Other OOP Languages](https://dev.to/ehsanahmadzadeh/why-this-in-javascript-differs-from-other-oop-languages-g5k)
+- [How to Design a Stylus Pen Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-stylus-pen-using-3d-cad-software-21n9)
+- [CSS3 Animations: The Complete Guide with Examples](https://dev.to/chardnoise3/css3-animations-the-complete-guide-with-examples-587f)
 <!-- BLOG-POST-LIST:END -->
 
 
