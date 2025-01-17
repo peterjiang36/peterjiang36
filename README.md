@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Creating a Supportive Community for Freelancers &amp; Small Business Owners - #2: Validation, Feedback &amp; First Ideas](https://dev.to/per-starke-642/my-journey-to-creating-a-supportive-community-for-freelancers-small-business-owners-2-185m)
-- [Building Real-Time Data Pipelines with Kafka Streams](https://dev.to/thesimdak/building-real-time-data-pipelines-with-kafka-streams-4535)
-- [🔰Git e Github: Hacktoberfest e Conclusão](https://dev.to/neiesc/git-e-github-hacktoberfest-e-conclusao-hk9)
-- [C++ 3rd Code &lpar; using cin.get alternate system&lpar;&quot;pause&quot;&rpar;](https://dev.to/md-salah/c-3rd-code-using-cinget-alternate-systempause-1h17)
+- [Eita! Não rolou a certificação AWS Cloud Practitioner de primeira? Calma, que a gente te ajuda!](https://dev.to/matheuscostadevops/eita-nao-rolou-a-certificacao-aws-cloud-practitioner-de-primeira-calma-que-a-gente-te-ajuda-5ap8)
+- [Why AI is the Future of Software Testing](https://dev.to/qa_expert/why-ai-is-the-future-of-software-testing-5ccd)
+- [Enhancing Security with App Signature Verification](https://dev.to/helloquash/enhancing-security-with-app-signature-verification-1hi4)
+- [Main Advantage Of Hoisting In JavaScript?](https://dev.to/prabal_sharma_55f155f14be/main-advantage-of-hoisting-in-javascript-413f)
 <!-- BLOG-POST-LIST:END -->
 
 
