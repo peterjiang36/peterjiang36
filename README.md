@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential CSS3 Features Every Web Developer Should Master](https://dev.to/bkthemes/essential-css3-features-every-web-developer-should-master-17o)
-- [Context Wrapper en React](https://dev.to/zenx5/context-wrapper-en-react-l35)
-- [🚀 Top 25+ Must-Read AI Related Articles for Everyone.](https://dev.to/dev-resources/top-25-must-read-ai-related-articles-for-everyone-3bif)
-- [From Rookie to AWS Enthusiast: How I Tackled S3, IAM, and a ₹5000 Surprise](https://dev.to/falconxfied/from-rookie-to-aws-enthusiast-how-i-tackled-s3-iam-and-a-5000-surprise-44fm)
+- [The Dev’s Guide to Surviving Standups](https://dev.to/hotfixhero/the-devs-guide-to-surviving-standups-11kk)
+- [Refactoring Horror: Turning Spaghetti Code into Gourmet Code](https://dev.to/hotfixhero/refactoring-horror-turning-spaghetti-code-into-gourmet-code-387k)
+- [Introducing an Open-Source MySQL Memory Calculator](https://dev.to/drupaladmin/introducing-an-open-source-mysql-memory-calculator-1ca5)
+- [My Code Chronicles #1: Optimizing Images in Next.js with a Custom Component](https://dev.to/nathlowe/my-code-chronicles-1-optimizing-images-in-nextjs-with-a-custom-component-3973)
 <!-- BLOG-POST-LIST:END -->
 
 
