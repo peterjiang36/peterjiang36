@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hook guide:useReducer&lpar;&rpar; in react](https://dev.to/sachin841/hook-guideusereducer-in-react-47f2)
-- [Revolutionary Remote DevOps: A C-Level Blueprint for Digital Transformation Excellence](https://dev.to/aws-builders/revolutionary-remote-devops-a-c-level-blueprint-for-digital-transformation-excellence-59n1)
-- [&quot;Unlocking Precision: Advances in Phenotype Recognition and Video Generation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-advances-in-phenotype-recognition-and-video-generation-15ol)
-- [The Ultimate Guide to Conducting SERP Analysis for SEO](https://dev.to/swiftproxy_residential/the-ultimate-guide-to-conducting-serp-analysis-for-seo-2kij)
+- [Building an AI Sales Agent: From Voice to Pitch.](https://dev.to/devesh0099/building-an-ai-sales-agent-from-voice-to-pitch-3p6c)
+- [5 Essential AI Tools Every Developer Should Know](https://dev.to/neurolov_ai_/5-essential-ai-tools-every-developer-should-know-42e7)
+- [Ditch the &#39;if else&#39;: Mastering Design Patterns for Cleaner, Scalable Code](https://dev.to/ahmedmohamedhussein/ditch-the-if-else-mastering-design-patterns-for-cleaner-scalable-code-1ihg)
+- [How Codevo Academy Helps Working Professionals Upskill for a Brighter Future](https://dev.to/sailesh_sahu_7d7151b6d251/how-codevo-academy-helps-working-professionals-upskill-for-a-brighter-future-b2h)
 <!-- BLOG-POST-LIST:END -->
 
 
