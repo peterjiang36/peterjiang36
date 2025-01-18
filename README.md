@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevChef: The Ultimate Monthly Coding Contest by DevKaft](https://dev.to/dev_kraft/devchef-the-ultimate-monthly-coding-contest-by-devkaft-3dla)
-- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-2fog)
-- [Walls and Gates](https://dev.to/prashantrmishra/walls-and-gates-40gb)
-- [Exploring the Utility of web_read in Odoo Development](https://dev.to/maisie_brooke_73b14a05485/exploring-the-utility-of-webread-in-odoo-development-1nh1)
+- [Effortlessly Manage Your Notes with my Bash Script Featuring FZF Integration!](https://dev.to/jianzcar/effortlessly-manage-your-notes-with-my-bash-script-featuring-fzf-integration-4if1)
+- [OWASP Top 10: What Every Developer Should Know About It](https://dev.to/andrzejdyjak/owasp-top-10-what-every-developer-should-know-about-it-36fm)
+- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-34eg)
+- [Untitled](https://dev.to/sanju_athwal_98a1c69cf578/untitled-8pf)
 <!-- BLOG-POST-LIST:END -->
 
 
