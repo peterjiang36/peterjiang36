@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortlessly Manage Your Notes with my Bash Script Featuring FZF Integration!](https://dev.to/jianzcar/effortlessly-manage-your-notes-with-my-bash-script-featuring-fzf-integration-4if1)
-- [OWASP Top 10: What Every Developer Should Know About It](https://dev.to/andrzejdyjak/owasp-top-10-what-every-developer-should-know-about-it-36fm)
-- [Blockchain Technology](https://dev.to/sakhiknowledge/blockchain-technology-34eg)
-- [Untitled](https://dev.to/sanju_athwal_98a1c69cf578/untitled-8pf)
+- [Ludo Multiplayer on Playhop: A Fun and Competitive Experience](https://dev.to/mittul_a089a9a0969dcd2d8c/ludo-multiplayer-on-playhop-a-fun-and-competitive-experience-4b2n)
+- [Building Better UIs: Why ShadCN and Radix Are Worth Your Attention](https://dev.to/lovestaco/building-better-uis-why-shadcn-and-radix-are-worth-your-attention-4fen)
+- [🌐 💻 Welcome to Future: Your Developer Community Hub 🚀 By Ben Halpern](https://dev.to/hanzla-baig/welcome-to-future-your-developer-community-hub-by-ben-halpern-2j04)
+- [Reviving Defense Technology: Silicon Valley&#39;s Next Chapter](https://dev.to/jetthoughts/reviving-defense-technology-silicon-valleys-next-chapter-gej)
 <!-- BLOG-POST-LIST:END -->
 
 
