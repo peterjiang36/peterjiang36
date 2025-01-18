@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic python](https://dev.to/rahul14322982/basic-python-185h)
-- [Why You Should Consider Moving from MongoDB to PostgreSQL](https://dev.to/nhannguyendevjs/why-you-should-consider-moving-from-mongodb-to-postgresql-1693)
-- [Implementing AI in Testing: Is It Worth It?](https://dev.to/arun_pal_3ce740a137cf15ad/implementing-ai-in-testing-is-it-worth-it-glh)
-- [7 Useful Git Commands You Absolutely Must Know](https://dev.to/kelen/7-useful-git-commands-you-absolutely-must-know-24ei)
+- [Bitcoin Rates Script in Go](https://dev.to/evertontenorio/bitcoin-rates-script-in-go-1fh5)
+- [JSON Viewer Tools– A Free Alternative to JSON Crack](https://dev.to/aidevtools/json-viewer-tools-a-free-alternative-to-json-crack-1ggm)
+- [What Everyone Needs to Learn About Effective Artistic Approaches](https://dev.to/beautyegg98/what-everyone-needs-to-learn-about-effective-artistic-approaches-145a)
+- [System Design: encurtador de URL parte 1](https://dev.to/jessilyneh/system-design-encurtador-de-url-parte-1-2p29)
 <!-- BLOG-POST-LIST:END -->
 
 
