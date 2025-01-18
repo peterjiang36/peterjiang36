@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the &quot;vueDemi2.effectScope is not a function&quot; Error in Nuxt 3 + Pinia &lpar;SSR, Vercel Deploy&rpar;](https://dev.to/jeanjavi/fixing-the-vuedemi2effectscope-is-not-a-function-error-in-nuxt-3-pinia-ssr-vercel-deploy-2jih)
-- [Python for Data Science: A Beginner&#39;s Introduction](https://dev.to/mei_zhu/python-for-data-science-a-beginners-introduction-39hg)
-- [How to Assign and Manage Resource Monitors in Snowflake](https://dev.to/rodolfom-data/how-to-assign-and-manage-resource-monitors-in-snowflake-58io)
-- [Exploring Python After Learning JavaScript](https://dev.to/mei_zhu/exploring-python-after-learning-javascript-48i5)
+- [Basic python](https://dev.to/rahul14322982/basic-python-185h)
+- [Why You Should Consider Moving from MongoDB to PostgreSQL](https://dev.to/nhannguyendevjs/why-you-should-consider-moving-from-mongodb-to-postgresql-1693)
+- [Implementing AI in Testing: Is It Worth It?](https://dev.to/arun_pal_3ce740a137cf15ad/implementing-ai-in-testing-is-it-worth-it-glh)
+- [7 Useful Git Commands You Absolutely Must Know](https://dev.to/kelen/7-useful-git-commands-you-absolutely-must-know-24ei)
 <!-- BLOG-POST-LIST:END -->
 
 
