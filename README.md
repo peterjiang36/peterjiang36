@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution from Microservice to Multi-Agent AI Systems](https://dev.to/sreeni5018/the-evolution-from-microservice-to-multi-agent-ai-systems-76o)
-- [Six News Aggregators for Tech Enthusiasts](https://dev.to/gokayburuc/six-news-aggregators-for-tech-enthusiasts-55ip)
-- [Sensitive Data Checker using agent.ai](https://dev.to/abdullah-k18/sensitive-data-checker-using-agentai-4ng0)
-- [Top 7 UI Component Libraries for 2025 — Copy, Paste, and Create!](https://dev.to/joodi/top-7-ui-component-libraries-for-2025-copy-paste-and-create-1i84)
+- [New Kid on the block](https://dev.to/essy/new-kid-on-the-block-12ji)
+- [Django Task Manager: Built in a Day with Django](https://dev.to/odera_markbash/django-task-manager-built-in-a-day-with-django-4ihp)
+- [How to Open Pull Requests from Jira Issues with GitAuto](https://dev.to/gitautoai/how-to-open-pull-requests-from-jira-issues-with-gitauto-21bk)
+- [Internacionalización en Aplicaciones React con i18next](https://dev.to/devjohanadrian/internacionalizacion-en-aplicaciones-react-con-i18next-286k)
 <!-- BLOG-POST-LIST:END -->
 
 
