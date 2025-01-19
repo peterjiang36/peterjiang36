@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O dev.to é realmente incrível. O alcance que eu tenho aqui é muito maior que em outras redes sociais, fora o fato de ser focado em dev. Pra quem quiser criar um blog, esse é o lugar... Só precisa ter um editor de post melhor hehehe](https://dev.to/angelobelchior/o-devto-e-realmente-incrivel-o-alcance-que-eu-tenho-aqui-e-muito-maior-que-em-outras-redes-30ea)
-- [Kontroler: &quot;DogFood&quot; Testing](https://dev.to/greedykomdodragon/kontroler-dogfood-testing-2m5a)
-- [Hero Sprint - Never Start From Zero](https://dev.to/anupulu/hero-spring-never-start-from-zero-17hn)
-- [Daily Quantum Learning #2 - Determinism, Probabilism, and Superposition](https://dev.to/quantumashx/daily-quantum-learning-2-determinism-probabilism-and-superposition-jkg)
+- [Building Telegram Bot with Copilot: Fear and Loathing](https://dev.to/vorniches/building-telegram-bot-with-copilot-fear-and-loathing-1dlm)
+- [Focus : My GitHub Copilot 1-Day Build submission](https://dev.to/bridget_amana/focus-my-github-copilot-1-day-build-submission-28e3)
+- [[HANDS ON] Instrument Python FastAPI with Prometheus Metrics](https://dev.to/agardnerit/hands-on-instrument-python-fastapi-with-prometheus-metrics-3m1f)
+- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
 <!-- BLOG-POST-LIST:END -->
 
 
