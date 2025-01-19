@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stuck on &#39;Reactivating terminal&#39; in VS Code. Can&#39;t run my Python project! Tried restarting, checking Python path, and disabling extensions, but no luck. Using Win 10. Any ideas on how to fix this? 🙏](https://dev.to/shafayeat/stuck-on-reactivating-terminal-in-vs-code-cant-run-my-python-project-tried-restarting-2epk)
-- [do not be racist to yourself](https://dev.to/aimes/do-not-be-racist-to-yourself-54pn)
-- [Top 10 Programming Languages for Beginners in 2025](https://dev.to/tarunfulera1/top-10-programming-languages-for-beginners-in-2025-3ain)
-- [🌱TinyHabits with Obsidian Sync and Rewards!🌿🚀🏆](https://dev.to/ximet/tinyhabits-with-obsidian-sync-and-rewards-h24)
+- [Designing a Schema for a Chat with Notification Application](https://dev.to/lovestaco/designing-a-schema-for-a-chat-with-notification-application-59mc)
+- [Using LocalTunnel with Upstash QStash: E-commerce Use Case](https://dev.to/mehmetakar/using-localtunnel-with-upstash-qstash-e-commerce-use-case-2n0j)
+- [𝐖𝐡𝐚𝐭 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐢𝐬𝐬𝐮𝐞𝐬 𝐬𝐡𝐨𝐮𝐥𝐝 𝐲𝐨𝐮 𝐝𝐞𝐥𝐞𝐠𝐚𝐭𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐀𝐈 𝐜𝐨𝐝𝐢𝐧𝐠 𝐚𝐠𝐞𝐧𝐭?](https://dev.to/dror_wayne_fine/-44lo)
+- [Marketing Team Shocked ❌ Agent.ai Rocket ✅ 😎](https://dev.to/jacksonkasi/marketing-team-shocked-agentai-rocket-revenue-boost-3kld)
 <!-- BLOG-POST-LIST:END -->
 
 
