@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MimirLLM Matters: Democratizing Access to AI with Decentralization](https://dev.to/sahil_pohare/why-mimirllm-matters-democratizing-access-to-ai-with-decentralization-j7)
-- [&quot;Revolutionizing Autonomous Driving: The Power of Language Models and Vision Tech&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-autonomous-driving-the-power-of-language-models-and-vision-tech-47oc)
-- [C++ 7th code &lpar;if--&gt;odd&amp;even&rpar;](https://dev.to/md-salah/c-7th-code-if-oddeven-40fo)
-- [Onboarding de devs: Como integrar novas pessoas ao time](https://dev.to/lorenalgm/onboarding-de-pessoas-desenvolvedoras-como-integrar-novos-membros-de-forma-remota-8em)
+- [NEW JavaScript Framework for real-time collaboration, Bun update fixes 40+ bugs, and more](https://dev.to/thisweekinjavascript/new-javascript-framework-for-real-time-collaboration-bun-update-fixes-40-bugs-and-more-3kk0)
+- [Join us at Hack the Future: AI &amp; Open Source Hackathon](https://dev.to/abdibrokhim/join-us-at-hack-the-future-ai-open-source-hackathon-2m57)
+- [Note Taking webApp](https://dev.to/finder8055/note-taking-webapp-158o)
+- [Hi, I am new here. I hope to be a technical writer and make friends too.](https://dev.to/jfunmi/hi-i-am-new-here-i-hope-to-be-a-technical-writer-and-make-friends-too-33pm)
 <!-- BLOG-POST-LIST:END -->
 
 
