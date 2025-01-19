@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake review site](https://dev.to/jamcha123/fake-review-site-5bgn)
-- [😎 Build Wealth, Start a Hustle, and Communicate Like a Pro](https://dev.to/0x5a_live/build-wealth-start-a-hustle-and-communicate-like-a-pro-89o)
-- [Is Your Age Really Holding You Back from Founding a Tech Startup? Think Again.](https://dev.to/0x2e_tech/is-your-age-really-holding-you-back-from-founding-a-tech-startup-think-again-2bfb)
-- [# Revolutionizing Web Performance: JBConcept.ro&#39;s Journey to Sub-Second Loading](https://dev.to/jbconcept_c4ad1ea567bc3c6/-revolutionizing-web-performance-jbconceptros-journey-to-sub-second-loading-3280)
+- [Foreach, Linkedisney, Clóvis de Barros Filho e código que não funciona...](https://dev.to/angelobelchior/foreach-linkedisney-clovis-de-barros-filho-e-codigo-que-nao-funciona-433m)
+- [Pixels in CSS should be avoided and I&#39;ll explain why](https://dev.to/techelopment/pixels-in-css-should-be-avoided-and-ill-explain-why-c8c)
+- [Go Framework Comparison for Web Development](https://dev.to/leapcell/go-framework-comparison-for-web-development-b55)
+- [Fresh Starts : GitHub Co-Pilot One Day Challenge](https://dev.to/isla_sunnycat49/fresh-starts-github-co-pilot-one-day-challenge-dlk)
 <!-- BLOG-POST-LIST:END -->
 
 
