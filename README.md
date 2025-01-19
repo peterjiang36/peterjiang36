@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Backup Posts Dev.to to SQLite](https://dev.to/chuongmep/backup-posts-devto-to-sqlite-3kop)
-- [Advocating the Adoption of a Custom Base-32 Encoding System for Enhanced Data Representation and Error Prevention](https://dev.to/megan_pyro/advocating-the-adoption-of-a-custom-base-32-encoding-system-for-enhanced-data-representation-and-5e60)
-- [Exploring Promises in JavaScript](https://dev.to/ryoichihomma/exploring-promises-in-javascript-2k8n)
-- [Data Sources | Terraform](https://dev.to/ibrahimsi/data-sources-terraform-2nn0)
+- [Distribution Calculator In Svelte - Hosted on Amazon S3](https://dev.to/agbagbarao/distribution-calculator-in-svelte-hosted-on-amazon-s3-3p65)
+- [Podium speech](https://dev.to/gautam_mer_48ae875f5683c8/podium-speech-al1)
+- [MY DATA ANALYTICS JORNAL](https://dev.to/awasume_marylin_8/my-data-analytics-jornal-1gl9)
+- [MY DATA ANALYTICS JORNAL](https://dev.to/awasume_marylin_8/my-data-analytics-jornal-5aaa)
 <!-- BLOG-POST-LIST:END -->
 
 
