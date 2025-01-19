@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Foreach, Linkedisney, Clóvis de Barros Filho e código que não funciona...](https://dev.to/angelobelchior/foreach-linkedisney-clovis-de-barros-filho-e-codigo-que-nao-funciona-433m)
-- [Pixels in CSS should be avoided and I&#39;ll explain why](https://dev.to/techelopment/pixels-in-css-should-be-avoided-and-ill-explain-why-c8c)
-- [Go Framework Comparison for Web Development](https://dev.to/leapcell/go-framework-comparison-for-web-development-b55)
-- [Fresh Starts : GitHub Co-Pilot One Day Challenge](https://dev.to/isla_sunnycat49/fresh-starts-github-co-pilot-one-day-challenge-dlk)
+- [Why MimirLLM Matters: Democratizing Access to AI with Decentralization](https://dev.to/sahil_pohare/why-mimirllm-matters-democratizing-access-to-ai-with-decentralization-j7)
+- [&quot;Revolutionizing Autonomous Driving: The Power of Language Models and Vision Tech&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-autonomous-driving-the-power-of-language-models-and-vision-tech-47oc)
+- [C++ 7th code &lpar;if--&gt;odd&amp;even&rpar;](https://dev.to/md-salah/c-7th-code-if-oddeven-40fo)
+- [Onboarding de devs: Como integrar novas pessoas ao time](https://dev.to/lorenalgm/onboarding-de-pessoas-desenvolvedoras-como-integrar-novos-membros-de-forma-remota-8em)
 <!-- BLOG-POST-LIST:END -->
 
 
