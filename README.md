@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ConquerortheCrown Organization - Resources Grants for Future Makers](https://dev.to/abhinavsharma_devto/conquerorthecrown-organization-resources-grants-for-future-makers-518)
-- [Spotify: The Most Expensive Skip Button](https://dev.to/alxizr/spotify-the-most-expensive-skip-button-pji)
-- [Stop organizing scavenger hunts in your cloud infrastructure](https://dev.to/aws-builders/stop-organizing-scavenger-hunts-in-your-cloud-infrastructure-1m9c)
-- [What is Webflow?](https://dev.to/webyansh/what-is-webflow-2k96)
+- [Stuck on &#39;Reactivating terminal&#39; in VS Code. Can&#39;t run my Python project! Tried restarting, checking Python path, and disabling extensions, but no luck. Using Win 10. Any ideas on how to fix this? 🙏](https://dev.to/shafayeat/stuck-on-reactivating-terminal-in-vs-code-cant-run-my-python-project-tried-restarting-2epk)
+- [do not be racist to yourself](https://dev.to/aimes/do-not-be-racist-to-yourself-54pn)
+- [Top 10 Programming Languages for Beginners in 2025](https://dev.to/tarunfulera1/top-10-programming-languages-for-beginners-in-2025-3ain)
+- [🌱TinyHabits with Obsidian Sync and Rewards!🌿🚀🏆](https://dev.to/ximet/tinyhabits-with-obsidian-sync-and-rewards-h24)
 <!-- BLOG-POST-LIST:END -->
 
 
