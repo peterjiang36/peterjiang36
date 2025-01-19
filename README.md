@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Powerful Techniques to Boost Database Performance in Python Applications](https://dev.to/aaravjoshi/7-powerful-techniques-to-boost-database-performance-in-python-applications-15mg)
-- [Securing Your Kubernetes Website with Let&#39;s Encrypt and cert-manager](https://dev.to/sahilghanwatdev/securing-your-kubernetes-website-with-lets-encrypt-and-cert-manager-2p33)
-- [Mastering Java Logging: Best Practices for Effective Application Monitoring](https://dev.to/aaravjoshi/mastering-java-logging-best-practices-for-effective-application-monitoring-20h7)
-- [Transformation Starts with Healthy Eating – NutriVision, Built with GitHub Copilot! 🚀](https://dev.to/kaonashi2486/transformation-starts-with-healthy-eating-nutrivision-built-with-github-copilot-2189)
+- [O dev.to é realmente incrível. O alcance que eu tenho aqui é muito maior que em outras redes sociais, fora o fato de ser focado em dev. Pra quem quiser criar um blog, esse é o lugar... Só precisa ter um editor de post melhor hehehe](https://dev.to/angelobelchior/o-devto-e-realmente-incrivel-o-alcance-que-eu-tenho-aqui-e-muito-maior-que-em-outras-redes-30ea)
+- [Kontroler: &quot;DogFood&quot; Testing](https://dev.to/greedykomdodragon/kontroler-dogfood-testing-2m5a)
+- [Hero Sprint - Never Start From Zero](https://dev.to/anupulu/hero-spring-never-start-from-zero-17hn)
+- [Daily Quantum Learning #2 - Determinism, Probabilism, and Superposition](https://dev.to/quantumashx/daily-quantum-learning-2-determinism-probabilism-and-superposition-jkg)
 <!-- BLOG-POST-LIST:END -->
 
 
