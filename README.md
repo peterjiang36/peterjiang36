@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Lasting Change](https://dev.to/cijesanchez/how-to-build-lasting-change-176)
-- [BuildYourPath: Why wait for tomorrow?](https://dev.to/panagiotis_thiv/buildyourpath-why-wait-for-tomorrow-1efi)
-- [Conquering the First Steps: Overcoming Challenges for Coding Beginners](https://dev.to/riteshkumarkarn/conquering-the-first-steps-overcoming-challenges-for-coding-beginners-m58)
-- [Транзакционные приключения плюшевой семьи медведей](https://dev.to/easycat/tranzaktsionnyie-prikliuchieniia-pliushievoi-siemi-miedviediei-198f)
+- [7 Powerful Techniques to Boost Database Performance in Python Applications](https://dev.to/aaravjoshi/7-powerful-techniques-to-boost-database-performance-in-python-applications-15mg)
+- [Securing Your Kubernetes Website with Let&#39;s Encrypt and cert-manager](https://dev.to/sahilghanwatdev/securing-your-kubernetes-website-with-lets-encrypt-and-cert-manager-2p33)
+- [Mastering Java Logging: Best Practices for Effective Application Monitoring](https://dev.to/aaravjoshi/mastering-java-logging-best-practices-for-effective-application-monitoring-20h7)
+- [Transformation Starts with Healthy Eating – NutriVision, Built with GitHub Copilot! 🚀](https://dev.to/kaonashi2486/transformation-starts-with-healthy-eating-nutrivision-built-with-github-copilot-2189)
 <!-- BLOG-POST-LIST:END -->
 
 
