@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transactions in Microservices: Part 1 - SAGA Patterns overview.](https://dev.to/federico_bevione/transactions-in-microservices-part-1-saga-patterns-with-choreography-and-orchestration-4an9)
-- [5 Signs Your Nonprofit Needs Case Management Software](https://dev.to/alex_ferguson/5-signs-your-nonprofit-needs-case-management-software-163i)
-- [2661. First Completely Painted Row or Column](https://dev.to/mdarifulhaque/2661-first-completely-painted-row-or-column-22gc)
-- [Script Correct AI Text Corrector](https://dev.to/tagada216/script-correct-ai-text-corrector-38l7)
+- [Master TypeScript with These Essential Concepts](https://dev.to/princekukreja/master-typescript-with-these-essential-concepts-41g1)
+- [Shift Left Meets Kafka: Testing Event-Driven Microservices](https://dev.to/signadot/shift-left-meets-kafka-testing-event-driven-microservices-20f1)
+- [AI Agents and Backend: A Match Made in Heaven](https://dev.to/andylarkin677/ai-agents-and-backend-a-match-made-in-heaven-4kp2)
+- [6 Powerful Python Libraries for High-Performance Async Web Development](https://dev.to/aaravjoshi/6-powerful-python-libraries-for-high-performance-async-web-development-jpf)
 <!-- BLOG-POST-LIST:END -->
 
 
