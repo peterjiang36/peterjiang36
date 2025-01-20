@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Strategies for Anonymous Website Visitor Identification and Tracking](https://dev.to/kapusto/identifying-and-understanding-anonymous-website-visitors-a-comprehensive-guide-3mm2)
-- [Automatically commit by AI in Visual Studio](https://dev.to/mirajhad/automatically-commit-by-ai-in-visual-studio-3hjg)
-- [Just updated the list of real open-source Angular projects I found](https://dev.to/ovidiu141/just-updated-the-list-of-real-open-source-angular-projects-i-found-313)
-- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-1o5d)
+- [.NET tarixi](https://dev.to/madina1575/net-tarixi-1g61)
+- [Automating Security and Compliance Validations for FinTech Applications](https://dev.to/ikoh_sylva/automating-security-and-compliance-validations-for-fintech-applications-2543)
+- [Increasing Global Developer Coverage for Open-Source Organizations: with Docker and PostgreSQL](https://dev.to/kycodes/increasing-global-developer-coverage-for-open-source-organizations-with-docker-and-postgresql-3pgd)
+- [Compliance Tools for Cloud Environments](https://dev.to/574n13y/compliance-tools-for-cloud-environments-51k4)
 <!-- BLOG-POST-LIST:END -->
 
 
