@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET tarixi](https://dev.to/madina1575/net-tarixi-1g61)
-- [Automating Security and Compliance Validations for FinTech Applications](https://dev.to/ikoh_sylva/automating-security-and-compliance-validations-for-fintech-applications-2543)
-- [Increasing Global Developer Coverage for Open-Source Organizations: with Docker and PostgreSQL](https://dev.to/kycodes/increasing-global-developer-coverage-for-open-source-organizations-with-docker-and-postgresql-3pgd)
-- [Compliance Tools for Cloud Environments](https://dev.to/574n13y/compliance-tools-for-cloud-environments-51k4)
+- [From Binge-Watching to Brain-Boosting: Optimizing YouTube for Learning](https://dev.to/mahyar_rezghi/from-binge-watching-to-brain-boosting-optimizing-youtube-for-learning-59nn)
+- [.NET versiyalari](https://dev.to/madina1575/net-versiyalari-4cch)
+- [Convergence of Blockchain and AI: A New Era of Innovation](https://dev.to/lightbeam888/convergence-of-blockchain-and-ai-a-new-era-of-innovation-50e6)
+- [Rethink Software](https://dev.to/ourai/rethink-software-5a5m)
 <!-- BLOG-POST-LIST:END -->
 
 
