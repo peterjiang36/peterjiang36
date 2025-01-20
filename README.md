@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master TypeScript with These Essential Concepts](https://dev.to/princekukreja/master-typescript-with-these-essential-concepts-41g1)
-- [Shift Left Meets Kafka: Testing Event-Driven Microservices](https://dev.to/signadot/shift-left-meets-kafka-testing-event-driven-microservices-20f1)
-- [AI Agents and Backend: A Match Made in Heaven](https://dev.to/andylarkin677/ai-agents-and-backend-a-match-made-in-heaven-4kp2)
-- [6 Powerful Python Libraries for High-Performance Async Web Development](https://dev.to/aaravjoshi/6-powerful-python-libraries-for-high-performance-async-web-development-jpf)
+- [Kubero vs Coolify](https://dev.to/shoksuno/kubero-vs-coolify-3po0)
+- [Explanation on Operator](https://dev.to/arikeade123/explanation-on-operator-402g)
+- [AI Coding isn&#39;t just replacing developers](https://dev.to/thisisfinedev/ai-coding-isnt-just-replacing-developers-3481)
+- [Memanfaatkan Promise.all&lpar;&rpar;](https://dev.to/hadihammurabi/memanfaatkan-promiseall-46ob)
 <!-- BLOG-POST-LIST:END -->
 
 
