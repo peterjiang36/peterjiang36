@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [StyleSpark: Analyzing and Matching Code to Iconic Programming Styles using GitHub Actions](https://dev.to/mrmemory/stylespark-analyzing-and-matching-code-to-iconic-programming-styles-using-github-actions-14mh)
-- [Supervisor Guide for PHP Developers](https://dev.to/edgaras/supervisor-guide-for-laravel-developers-configuration-and-use-cases-20i4)
-- [Essential Git Cheatsheet: Master Git Commands for Efficient Version Control](https://dev.to/adityabhuyan/essential-git-cheatsheet-master-git-commands-for-efficient-version-control-4cc2)
-- [XAMPP Alternative in Mac for Mysql](https://dev.to/shield8994/xampp-alternative-in-mac-for-mysql-55l1)
+- [[Boost]](https://dev.to/hemath923604/-6f9)
+- [[Boost]](https://dev.to/akshaybond30160/-3h9i)
+- [The Only 20 VS Code Extensions Web Developers Will Need in 2025](https://dev.to/web_dev-usman/the-only-20-vs-code-extensions-web-developers-will-need-in-2025-5a02)
+- [The Future of Design Systems: AI, Automation, and Beyond](https://dev.to/dhrumitdk/the-future-of-design-systems-ai-automation-and-beyond-fod)
 <!-- BLOG-POST-LIST:END -->
 
 
