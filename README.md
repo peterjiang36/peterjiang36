@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Updates](https://dev.to/atombrown/html-updates-3ab7)
-- [What is Ruby?](https://dev.to/wlegard/what-is-ruby-5287)
-- [How to Convert Audible AAX Files to MP3 for Free](https://dev.to/documendous/how-to-convert-audible-aax-files-to-mp3-for-free-p20)
-- [Building Mindful Journal: How AI and GitHub Copilot Empowered My One-Day Productivity App](https://dev.to/ifihan/building-mindful-journal-how-ai-and-github-copilot-empowered-my-one-day-productivity-app-3348)
+- [Use Selenium and proxy IP to easily crawl dynamic page information](https://dev.to/98ip/use-selenium-and-proxy-ip-to-easily-crawl-dynamic-page-information-1mk5)
+- [How to Make HTTP Requests in Node.js with Node-Fetch API?](https://dev.to/scraper0024/how-to-make-http-requests-in-nodejs-with-node-fetch-api-i19)
+- [A Comprehensive Introduction to Understanding the Core Elements of Solar Technology](https://dev.to/dogcloth5/a-comprehensive-introduction-to-understanding-the-core-elements-of-solar-technology-1j5)
+- [Encrypting EBS Volumes of Amazon EC2 Instances Using Python](https://dev.to/aws-builders/encrypting-ebs-volumes-of-amazon-ec2-instances-using-python-3mjh)
 <!-- BLOG-POST-LIST:END -->
 
 
