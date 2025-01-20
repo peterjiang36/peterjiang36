@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memecoins: fun or fad? Why anonymity isn’t always a plus for investors](https://dev.to/cryptosandy/memecoins-fun-or-fad-why-anonymity-isnt-always-a-plus-for-investors-1ma4)
-- [🚀 Your Daily Crypto Job Digest For 20 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-january-5cij)
-- [🚀 Terminal Tricks: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/terminal-tricks-essential-tips-and-tricks-for-developers-2h2i)
-- [Deploying Multiple Instances of a Storage Account using an ARM templates](https://dev.to/unique-tea/deploying-multiple-instances-of-a-storage-account-using-an-arm-templates-2lk7)
+- [Windows 11 Update Information: What&#39;s New and Improved](https://dev.to/pushpak_chaudhari_b4083aa/windows-11-update-information-whats-new-and-improved-31h8)
+- [How to Create a Launcher for Your AppImage on Linux](https://dev.to/lovestaco/how-to-create-a-launcher-for-your-appimage-on-linux-mc3)
+- [What is AWS Security Essentials? A Comprehensive Guide](https://dev.to/skillboosttrainer/what-is-aws-security-essentials-a-comprehensive-guide-47c3)
+- [Building with TypeScript: A Lego-Based Guide](https://dev.to/nerajno/building-with-typescript-a-lego-based-guide-194k)
 <!-- BLOG-POST-LIST:END -->
 
 
