@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Telegram Bot with Copilot: Fear and Loathing](https://dev.to/vorniches/building-telegram-bot-with-copilot-fear-and-loathing-1dlm)
-- [Focus : My GitHub Copilot 1-Day Build submission](https://dev.to/bridget_amana/focus-my-github-copilot-1-day-build-submission-28e3)
-- [[HANDS ON] Instrument Python FastAPI with Prometheus Metrics](https://dev.to/agardnerit/hands-on-instrument-python-fastapi-with-prometheus-metrics-3m1f)
-- [Pulumi WASM/Rust devlog #4](https://dev.to/andrzejressel/pulumi-wasmrust-devlog-4-3acd)
+- [HTML Updates](https://dev.to/atombrown/html-updates-3ab7)
+- [What is Ruby?](https://dev.to/wlegard/what-is-ruby-5287)
+- [How to Convert Audible AAX Files to MP3 for Free](https://dev.to/documendous/how-to-convert-audible-aax-files-to-mp3-for-free-p20)
+- [Building Mindful Journal: How AI and GitHub Copilot Empowered My One-Day Productivity App](https://dev.to/ifihan/building-mindful-journal-how-ai-and-github-copilot-empowered-my-one-day-productivity-app-3348)
 <!-- BLOG-POST-LIST:END -->
 
 
