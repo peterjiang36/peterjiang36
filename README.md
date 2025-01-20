@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Frontend Developer’s Guide to the Essentials](https://dev.to/golsaesk/a-frontend-developers-guide-to-the-essentials-11j7)
-- [[Boost]](https://dev.to/leamsigc/-49bm)
-- [After Effects: The Modulo Operator &lpar;%&rpar;](https://dev.to/kocreative/after-effects-using-the-modulo-operator-in-motion-graphics-expressions-to-make-digital-and-45lj)
-- [Integración de Salesforce, Node.js y React: Una Guía Paso a Paso](https://dev.to/javiernicolasadan/integracion-de-salesforce-nodejs-y-react-una-guia-paso-a-paso-nl7)
+- [Memecoins: fun or fad? Why anonymity isn’t always a plus for investors](https://dev.to/cryptosandy/memecoins-fun-or-fad-why-anonymity-isnt-always-a-plus-for-investors-1ma4)
+- [🚀 Your Daily Crypto Job Digest For 20 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-january-5cij)
+- [🚀 Terminal Tricks: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/terminal-tricks-essential-tips-and-tricks-for-developers-2h2i)
+- [Deploying Multiple Instances of a Storage Account using an ARM templates](https://dev.to/unique-tea/deploying-multiple-instances-of-a-storage-account-using-an-arm-templates-2lk7)
 <!-- BLOG-POST-LIST:END -->
 
 
