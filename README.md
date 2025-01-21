@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [P2P Knowledge Creation: A Decentralized Approach to Learning and Innovation](https://dev.to/d1d4c/p2p-knowledge-creation-a-decentralized-approach-to-learning-and-innovation-3700)
-- [How do software download sites identify the user’s operating system?](https://dev.to/lucian_alfred_7a9ce757cea/how-do-software-download-sites-identify-the-users-operating-system-4p4d)
-- [Introduction to data analysis with Python: Part 2 - Lists, Tuples and Dictionaries](https://dev.to/jeornee/introduction-to-data-analysis-with-python-part-2-lists-tuples-and-dictionaries-40ee)
-- [A Journey of a Million Small Steps](https://dev.to/devcecelia/a-journey-of-a-million-small-steps-1kd6)
+- [C language from 0](https://dev.to/sbre/c-language-from-0-1k37)
+- [Test Automation: Revolutionizing Software Quality Assurance](https://dev.to/radha_4c842d8e4362a7cdd9c/test-automation-revolutionizing-software-quality-assurance-8ik)
+- [📰 Planet WGS-804HPT Industrial Switch flaws could be chained to achieve remote code execution](https://dev.to/d_thiranjaya_6d3ec4552111/planet-wgs-804hpt-industrial-switch-flaws-could-be-chained-to-achieve-remote-code-execution-1f7m)
+- [Emergent Growth in Distributed Knowledge Networks](https://dev.to/d1d4c/emergent-growth-in-distributed-knowledge-networks-2f9f)
 <!-- BLOG-POST-LIST:END -->
 
 
