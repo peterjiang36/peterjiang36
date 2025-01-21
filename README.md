@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Kubernetes Tools that will end your Infrastructure nightmares](https://dev.to/harshalranjhani/7-kubernetes-tools-that-will-end-your-infrastructure-nightmares-3n62)
-- [Top 9 Free Resources to Learn Programming Online](https://dev.to/tarunfulera1/top-9-free-resources-to-learn-programming-online-1kl2)
-- [Form management](https://dev.to/pedroguilhermefariaduarte/form-management-3ni)
-- [Streamlining Your Git Commit Workflow: Commands and Handy Aliases ☕](https://dev.to/woovi/streamlining-your-git-commit-workflow-commands-and-handy-aliases-1jc8)
+- [Microsoft Entra Connect Sync: Bridging On-Premises and Cloud Identity Systems](https://dev.to/kapusto/microsoft-entra-connect-sync-bridging-on-premises-and-cloud-identity-systems-23o1)
+- [JavaScript Array Methods, Under the Hood &lpar;Part 1/2&rpar;](https://dev.to/egroene/javascript-array-methods-under-the-hood-part-12-257g)
+- [Clean Coder not only codes - it manages whole project by it own](https://dev.to/grigorij_dudnik/clean-coder-not-only-codes-it-manages-whole-project-by-it-own-g9j)
+- [“It Happened: My Immersive Journey at DevFest 2024 — A Blend of Innovation and Inspiration”](https://dev.to/saumya_pratapsingh_b79df/it-happened-my-immersive-journey-at-devfest-2024-a-blend-of-innovation-and-inspiration-1heg)
 <!-- BLOG-POST-LIST:END -->
 
 
