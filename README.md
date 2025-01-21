@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compilation of Libraries Supporting CLI Application Development for Node.js](https://dev.to/hoaitx/compilation-of-libraries-supporting-cli-application-development-for-nodejs-4h5c)
-- [Building an Automated Cryptocurrency Trading Bot with TypeScript and AWS](https://dev.to/radzion/building-an-automated-cryptocurrency-trading-bot-with-typescript-and-aws-11fg)
-- [Relearning JavaScript: An Introduction to In-Browser Capabilities](https://dev.to/ayako_yk/relearning-javascript-an-introduction-to-in-browser-capabilities-1gmi)
-- [Animated Footer w/ Float Icon using typescript and tailwind](https://dev.to/brokarim/animated-footer-w-float-icon-using-typescript-and-tailwind-1ioa)
+- [🔥Top 7 Tools To Become Ultimate Developer in 2025](https://dev.to/dev_kiran/top-7-tools-to-become-ultimate-developer-in-2025-5483)
+- [Getting Started with Neurolov&#39;s GPU Compute Platform](https://dev.to/neurolov_ai_/getting-started-with-neurolovs-gpu-compute-platform-2i7h)
+- [Tauri &lpar;6&rpar; — Invoke desktop application functionality through the browser](https://dev.to/rain9/tauri-6-invoke-desktop-application-functionality-through-the-browser-811)
+- [Understanding DataTypes in TypesScript](https://dev.to/nghiemledo/understanding-datatypes-in-typesscript-4i3g)
 <!-- BLOG-POST-LIST:END -->
 
 
