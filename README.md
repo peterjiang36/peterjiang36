@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Event App Best Practices: Tips for Maximizing Engagement and Efficiency](https://dev.to/saanvipatel099/event-app-best-practices-tips-for-maximizing-engagement-and-efficiency-1de2)
-- [TS1174: Classes can only extend a single class](https://dev.to/turingvangisms/ts1174-classes-can-only-extend-a-single-class-4og7)
-- [Den Weg zur Fertigungsrevolution ebnen: Microsoft Dynamics 365 im Fokus](https://dev.to/connamix/den-weg-zur-fertigungsrevolution-ebnen-microsoft-dynamics-365-im-fokus-129)
-- [Hellow World : Coder , freelancer](https://dev.to/saurabh_saha_bf5fd7abb989/hellow-world-coder-freelancer-3mjj)
+- [Run PySpark Local Python Windows Notebook](https://dev.to/chuongmep/run-pyspark-local-python-windows-notebook-ngg)
+- [Private API Gateway as EventBridge API Destination](https://dev.to/aws-builders/private-api-gateway-as-eventbridge-api-destination-1aok)
+- [API Gateway as Websocket](https://dev.to/amitkayal/api-gateway-as-websocket-5eee)
+- [Why Choosing the Right MVP Software Development Company is Crucial for Startup Success in 2025](https://dev.to/jetthoughts/why-choosing-the-right-mvp-software-development-company-is-crucial-for-startup-success-in-2025-52k0)
 <!-- BLOG-POST-LIST:END -->
 
 
