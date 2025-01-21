@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Benefits of Partnering with a Cloud Advisory Expert](https://dev.to/astutemarketing/top-benefits-of-partnering-with-a-cloud-advisory-expert-54a8)
-- [C# da input qilish](https://dev.to/munisa_kuranbekova_078e1e/c-da-input-qilish-4on4)
-- [The best Javascript library for structured logging](https://dev.to/theogravity/the-best-javascript-library-for-structured-logging-3m2f)
-- [The Daily UI 100-Day Design Challenge: A Journey to Enhance Your UI Skills](https://dev.to/jds64/the-daily-ui-100-day-design-challenge-a-journey-to-enhance-your-ui-skills-41e5)
+- [Event App Best Practices: Tips for Maximizing Engagement and Efficiency](https://dev.to/saanvipatel099/event-app-best-practices-tips-for-maximizing-engagement-and-efficiency-1de2)
+- [TS1174: Classes can only extend a single class](https://dev.to/turingvangisms/ts1174-classes-can-only-extend-a-single-class-4og7)
+- [Den Weg zur Fertigungsrevolution ebnen: Microsoft Dynamics 365 im Fokus](https://dev.to/connamix/den-weg-zur-fertigungsrevolution-ebnen-microsoft-dynamics-365-im-fokus-129)
+- [Hellow World : Coder , freelancer](https://dev.to/saurabh_saha_bf5fd7abb989/hellow-world-coder-freelancer-3mjj)
 <!-- BLOG-POST-LIST:END -->
 
 
