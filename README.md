@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A URL Shortener With Neon and Azure Serverless Functions](https://dev.to/bobur/building-a-url-shortener-with-neon-and-azure-serverless-functions-408e)
-- [Best Tech Stacks Every Developer Should Know: A Comprehensive Guide](https://dev.to/apilover/best-tech-stacks-every-developer-should-know-a-comprehensive-guide-1pf5)
-- [Selecting the Right ERP for Singapore SMEs: Why Odoo Deserves Attention](https://dev.to/deerapandey/selecting-the-right-erp-for-singapore-smes-why-odoo-deserves-attention-5a56)
-- [Elon Musks &quot;Gruß&quot; bei Trumps Vereidigung – Ein gefährliches Zeichen für die Zukunft der USA](https://dev.to/disane/elon-musks-gruss-bei-trumps-vereidigung-ein-gefahrliches-zeichen-fur-die-zukunft-der-usa-1k28)
+- [How to create a website on your own for free. A detailed guide for beginners](https://dev.to/ispmanager/how-to-create-a-website-on-your-own-for-free-a-detailed-guide-for-beginners-454n)
+- [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
+- [Mastering Multi-Screen Presentations: A Technical Guide for Modern Event Professionals](https://dev.to/anju_sainircon_1677aa2/mastering-multi-screen-presentations-a-technical-guide-for-modern-event-professionals-1ajo)
+- [Cultiver des amitiés au travail : La clé pour améliorer le bien-être et l&#39;engagement des employés](https://dev.to/vdaubry/cultiver-des-amities-au-travail-la-cle-pour-ameliorer-le-bien-etre-et-lengagement-des-employes-5c32)
 <!-- BLOG-POST-LIST:END -->
 
 
