@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Website and App through Python 2025](https://dev.to/kuku_29644c5b66/how-to-create-a-website-and-app-through-python-2025-22bo)
-- [Stop Guessing, Start Generating: How AI is Revolutionizing Project Management](https://dev.to/sayed_ali_alkamel/stop-guessing-start-generating-how-ai-is-revolutionizing-project-management-p6)
-- [[Boost]](https://dev.to/baotranvu/-2i80)
-- [Choosing the Right Programming Language for your backend](https://dev.to/ezekiel_77/choosing-the-right-programming-language-for-your-backend-5d2)
+- [Compilation of Libraries Supporting CLI Application Development for Node.js](https://dev.to/hoaitx/compilation-of-libraries-supporting-cli-application-development-for-nodejs-4h5c)
+- [Building an Automated Cryptocurrency Trading Bot with TypeScript and AWS](https://dev.to/radzion/building-an-automated-cryptocurrency-trading-bot-with-typescript-and-aws-11fg)
+- [Relearning JavaScript: An Introduction to In-Browser Capabilities](https://dev.to/ayako_yk/relearning-javascript-an-introduction-to-in-browser-capabilities-1gmi)
+- [Animated Footer w/ Float Icon using typescript and tailwind](https://dev.to/brokarim/animated-footer-w-float-icon-using-typescript-and-tailwind-1ioa)
 <!-- BLOG-POST-LIST:END -->
 
 
