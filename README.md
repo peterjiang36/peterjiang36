@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Overengineer a Website like a true professional?](https://dev.to/web_dev-usman/how-to-overengineer-a-website-like-a-true-professional-35ia)
-- [Anonymity in Blockchain Development: Pros and Cons for Developers](https://dev.to/klimd1389/anonymity-in-blockchain-development-pros-and-cons-for-developers-1k82)
-- [Open Source Software Weaknesses – And a Possible Solution](https://dev.to/sergey_ilyevsky_4fb6e3281/open-source-software-weaknesses-and-a-possible-solution-27p5)
-- [No Spikes](https://dev.to/markblandford/no-spikes-547m)
+- [Building A URL Shortener With Neon and Azure Serverless Functions](https://dev.to/bobur/building-a-url-shortener-with-neon-and-azure-serverless-functions-408e)
+- [Best Tech Stacks Every Developer Should Know: A Comprehensive Guide](https://dev.to/apilover/best-tech-stacks-every-developer-should-know-a-comprehensive-guide-1pf5)
+- [Selecting the Right ERP for Singapore SMEs: Why Odoo Deserves Attention](https://dev.to/deerapandey/selecting-the-right-erp-for-singapore-smes-why-odoo-deserves-attention-5a56)
+- [Elon Musks &quot;Gruß&quot; bei Trumps Vereidigung – Ein gefährliches Zeichen für die Zukunft der USA](https://dev.to/disane/elon-musks-gruss-bei-trumps-vereidigung-ein-gefahrliches-zeichen-fur-die-zukunft-der-usa-1k28)
 <!-- BLOG-POST-LIST:END -->
 
 
