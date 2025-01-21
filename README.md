@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[!] CocoaPods could not find compatible versions for pod](https://dev.to/matthewzruiz/-cocoapods-could-not-find-compatible-versions-for-pod-27g)
-- [&quot;35-Year-Old Retirement&quot; and &quot;fact-checking&quot;](https://dev.to/ryan_zhi/35-year-old-retirement-and-fact-checking-gg0)
-- [How to Troubleshoot a Failed Re-creation of Google Cloud Certificate Manager Resources with Terraform](https://dev.to/nomi3/how-to-troubleshoot-a-failed-re-creation-of-google-cloud-certificate-manager-resources-with-fok)
-- [Surprising side effect of running EKS Auto Mode](https://dev.to/vijaykodam/surprising-side-effect-of-running-eks-auto-mode-3oj8)
+- [7 Kubernetes Tools that will end your Infrastructure nightmares](https://dev.to/harshalranjhani/7-kubernetes-tools-that-will-end-your-infrastructure-nightmares-3n62)
+- [Top 9 Free Resources to Learn Programming Online](https://dev.to/tarunfulera1/top-9-free-resources-to-learn-programming-online-1kl2)
+- [Form management](https://dev.to/pedroguilhermefariaduarte/form-management-3ni)
+- [Streamlining Your Git Commit Workflow: Commands and Handy Aliases ☕](https://dev.to/woovi/streamlining-your-git-commit-workflow-commands-and-handy-aliases-1jc8)
 <!-- BLOG-POST-LIST:END -->
 
 
