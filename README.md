@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native 0.77: What&#39;s New and How to Use It](https://dev.to/amitkumar13/react-native-077-whats-new-and-how-to-use-it-201a)
-- [I build tug of war: demo project 😂](https://dev.to/puneetkumar2010/i-build-tug-of-war-demo-project-2c3a)
-- [The Role of AI Humanizers in Bridging the Gap Between Machines and Emotional Intelligence](https://dev.to/andreyana_michael/the-role-of-ai-humanizers-in-bridging-the-gap-between-machines-and-emotional-intelligence-15il)
-- [Postgresql Vector Database: Pgvector Tutorial](https://dev.to/mehmetakar/postgresql-vector-database-pgvector-tutorial-2dmd)
+- [Amazon Lex: Build AI-Powered Conversational Bots](https://dev.to/swathi_gunasekaran_de18b2/amazon-lex-build-ai-powered-conversational-bots-e14)
+- [15+ Articles to Find Your Perfect Side Hustle](https://dev.to/0x5a_live/15-articles-to-find-your-perfect-side-hustle-1joi)
+- [Contact Form Using EmailJS](https://dev.to/mahmud-r-farhan/contact-form-using-emailjs-1di1)
+- [The Blogs Every Developer Needs &lpar;Without the Overwhelm&rpar;](https://dev.to/auramuch/the-blogs-every-developer-needs-without-the-overwhelm-2bi1)
 <!-- BLOG-POST-LIST:END -->
 
 
