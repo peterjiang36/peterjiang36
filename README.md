@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading Ruby on Rails applications](https://dev.to/sinaptia_dev/upgrading-ruby-on-rails-applications-46nm)
+- [Container queries in css](https://dev.to/jsha/container-queries-in-css-1221)
+- [Security Testing: Safeguarding the Digital Frontier](https://dev.to/arun_pal_3ce740a137cf15ad/security-testing-safeguarding-the-digital-frontier-87c)
 - [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
-- [This New JavaScript Operator is an Absolute Game Changer](https://dev.to/sovannaro/this-new-javascript-operator-is-an-absolute-game-changer-2fp6)
-- [Zustand Makes React Too Easy](https://dev.to/sovannaro/zustand-makes-react-too-easy-1i6d)
-- [Next.js SEO Quick Checklist](https://dev.to/simplr_sh/nextjs-seo-quick-checklist-1o15)
 <!-- BLOG-POST-LIST:END -->
 
 
