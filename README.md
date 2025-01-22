@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Keyboard in React Native](https://dev.to/amitkumar13/handling-keyboard-avoiding-view-in-react-native-e03)
-- [Godot 4.3+ Hierachical State Machine](https://dev.to/ubr4x/godot-43-hierachical-state-machine-2pd)
-- [Survival in Software Team](https://dev.to/ourai/survival-in-software-team-55d8)
-- [Top 20 most asked Advanced Java Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-advanced-java-questions-in-interviews-1lbo)
+- [React Native 0.77: What&#39;s New and How to Use It](https://dev.to/amitkumar13/react-native-077-whats-new-and-how-to-use-it-201a)
+- [I build tug of war: demo project 😂](https://dev.to/puneetkumar2010/i-build-tug-of-war-demo-project-2c3a)
+- [The Role of AI Humanizers in Bridging the Gap Between Machines and Emotional Intelligence](https://dev.to/andreyana_michael/the-role-of-ai-humanizers-in-bridging-the-gap-between-machines-and-emotional-intelligence-15il)
+- [Postgresql Vector Database: Pgvector Tutorial](https://dev.to/mehmetakar/postgresql-vector-database-pgvector-tutorial-2dmd)
 <!-- BLOG-POST-LIST:END -->
 
 
