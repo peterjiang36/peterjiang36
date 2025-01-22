@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [$500 billion into Stargate](https://dev.to/peter/500-billion-into-stargate-1d1n)
-- [Blockchain Testing: Ensuring Trust and Reliability in Decentralized Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-testing-ensuring-trust-and-reliability-in-decentralized-systems-4pmb)
-- [Building an Interactive Resume AI Assistant: Showcasing Your Portfolio with a Twist](https://dev.to/mohamedrimsan/building-an-interactive-resume-ai-assistant-showcasing-your-portfolio-with-a-twist-13da)
-- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-4lni)
+- [Guys, you have got to know these tech stacks if you want to be a developer standing out!](https://dev.to/apilover/guys-you-have-got-to-know-these-tech-stacks-if-you-want-to-be-a-developer-standing-out-2pdn)
+- [This New JavaScript Operator is an Absolute Game Changer](https://dev.to/sovannaro/this-new-javascript-operator-is-an-absolute-game-changer-2fp6)
+- [Zustand Makes React Too Easy](https://dev.to/sovannaro/zustand-makes-react-too-easy-1i6d)
+- [Next.js SEO Quick Checklist](https://dev.to/simplr_sh/nextjs-seo-quick-checklist-1o15)
 <!-- BLOG-POST-LIST:END -->
 
 
