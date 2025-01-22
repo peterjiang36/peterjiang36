@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ServMon walktrough - hack the box ctf](https://dev.to/felix_tymchak_969/servmon-walktrough-hack-the-box-ctf-51ce)
-- [Maryrose Whittaker reviews the hottest topics related to VoIP and Business PBX at the start of 2025](https://dev.to/officeonc3/maryrose-whittaker-reviews-the-hottest-topics-related-to-voip-and-business-pbx-at-the-start-of-2025-5e33)
-- [Using Machine Learning to Detect Fraud](https://dev.to/rapyd/using-machine-learning-to-detect-fraud-4m91)
-- [I want to create images about the Ninja Turtles](https://dev.to/dhia_eddine_ae834bc6ba09c/i-want-to-create-images-about-the-ninja-turtles-2688)
+- [How to Fetch and Display Blog Articles from Contentful in a Next.js Application](https://dev.to/developers_today/how-to-fetch-and-display-blog-articles-from-contentful-in-a-nextjs-application-lo2)
+- [CDKTF for Terraform Engineers](https://dev.to/zloeber/cdktf-for-terraform-engineers-5hed)
+- [Nokogiri Cookbook?](https://dev.to/burdettelamar/nokogiri-cookbook-4p1d)
+- [Created a &#39;Best of Everything&#39; voting platform because I&#39;m tired of reading 47 blog posts just to find a password manager](https://dev.to/matteo_barberis_3a83e71c5/created-a-best-of-everything-voting-platform-because-im-tired-of-reading-47-blog-posts-just-to-10m4)
 <!-- BLOG-POST-LIST:END -->
 
 
