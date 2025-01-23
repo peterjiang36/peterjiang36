@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Motivation is the fuel that drives us towards our coding goals. Keep the fire burning!](https://dev.to/cultsoft/motivation-is-the-fuel-that-drives-us-towards-our-coding-goals-keep-the-fire-burning-3dgm)
-- [JavaScript](https://dev.to/iamadeveloper/javascript-4ffe)
-- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
-- [Modern Web Development: Essential Tools and Best Practices for Building Scalable Applications](https://dev.to/oleeeedev/modern-web-development-essential-tools-and-best-practices-for-building-scalable-applications-2a7j)
+- [[Boost]](https://dev.to/metal3d/-52mi)
+- [Simple backup service with rclone, restic and systemd on WebDAV &lpar;or another storage&rpar;](https://dev.to/metal3d/simple-backup-service-with-rclone-restic-and-systemd-on-webdav-or-another-storage-3dlb)
+- [Angular](https://dev.to/mohammad_makeen/angular-4i0o)
+- [I am following several tags, but nothing is showing in my feed](https://dev.to/andypk/i-am-following-several-tags-but-nothing-is-showing-in-my-feed-29f5)
 <!-- BLOG-POST-LIST:END -->
 
 
