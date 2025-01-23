@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the GitHub Copilot 1-Day Build Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-1-day-build-challenge-winners-4iok)
-- [Hosting a React App on AWS S3 with CloudFront](https://dev.to/vasanthbal5220/hosting-a-react-app-on-aws-s3-with-cloudfront-1280)
-- [Kubernetes Resource Management: Exploring AKS Karpenter and Node Auto-Provisioning](https://dev.to/pustotips/kubernetes-resource-management-exploring-aks-karpenter-and-node-auto-provisioning-29bm)
-- [Post-Quantum Cryptography](https://dev.to/muhammad_ishaque/post-quantum-cryptography-31ka)
+- [Motivation is the fuel that drives us towards our coding goals. Keep the fire burning!](https://dev.to/cultsoft/motivation-is-the-fuel-that-drives-us-towards-our-coding-goals-keep-the-fire-burning-3dgm)
+- [JavaScript](https://dev.to/iamadeveloper/javascript-4ffe)
+- [Two-Day Razorpay Integration for Seamless Payments 🚀](https://dev.to/lovestaco/two-day-razorpay-integration-for-seamless-payments-1893)
+- [Modern Web Development: Essential Tools and Best Practices for Building Scalable Applications](https://dev.to/oleeeedev/modern-web-development-essential-tools-and-best-practices-for-building-scalable-applications-2a7j)
 <!-- BLOG-POST-LIST:END -->
 
 
