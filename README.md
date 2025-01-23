@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Git Commands Every Developer Should Know](https://dev.to/sachinkg12/25-git-commands-every-developer-should-know-498f)
-- [PositionUs Controller](https://dev.to/akif_mammadov_340debb5f35/positionus-controller-3h55)
-- [How to Optimize and Scale Your Applications with Amazon ECS](https://dev.to/ranjan_2703/how-to-optimize-and-scale-your-applications-with-amazon-ecs-3k32)
-- [Amazon Elastic Inference](https://dev.to/sbshanjaiy/amazon-elastic-inference-2fo8)
+- [AMAZON APPFLOW](https://dev.to/kamali_s/amazon-appflow-g4c)
+- [Amazon Macie](https://dev.to/dharshinisri_g_04a9fda5b6/amazon-macie-4npd)
+- [AWS Glue DataBrew](https://dev.to/meenaumadevi_m_f028d366bf/aws-glue-databrew-18bm)
+- [Is PostgreSQL Better Than MySQL?](https://dev.to/angelaswift/is-postgresql-better-than-mysql-4okm)
 <!-- BLOG-POST-LIST:END -->
 
 
