@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Express 5.0.0: New Features and Updates](https://dev.to/leapcell/express-500-new-features-and-updates-48an)
-- [Top 5 Programming Languages to Learn in 2025.](https://dev.to/kryon_knowledgeworks_cd07/top-5-programming-languages-to-learn-in-2025-4dee)
-- [Reactive State Management Without Libraries](https://dev.to/adamgolan/reactive-state-management-without-libraries-51pj)
-- [Unifi: Change Inform URL](https://dev.to/sertxudev/unifi-change-inform-url-43hj)
+- [Optimizing MVPs with Modular Architecture: Insights from Full-Stack Experts](https://dev.to/ameliaswank/optimizing-mvps-with-modular-architecture-insights-from-full-stack-experts-34ad)
+- [React Application Hosting Using S3 and CloudFront](https://dev.to/sibi_s_/react-application-hosting-using-s3-and-cloudfront-2nk2)
+- [Essential Questions to Ask Recruiters During the Interview](https://dev.to/ebereplenty/essential-questions-to-ask-recruiters-during-the-interview-1j0e)
+- [Why Most Social Media Campaigns Fail—and How I Learned to Fix Them](https://dev.to/dizzy_strategy/why-most-social-media-campaigns-fail-and-how-i-learned-to-fix-them-20pk)
 <!-- BLOG-POST-LIST:END -->
 
 
