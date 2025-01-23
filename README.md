@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch and Display Blog Articles from Contentful in a Next.js Application](https://dev.to/developers_today/how-to-fetch-and-display-blog-articles-from-contentful-in-a-nextjs-application-lo2)
-- [CDKTF for Terraform Engineers](https://dev.to/zloeber/cdktf-for-terraform-engineers-5hed)
-- [Nokogiri Cookbook?](https://dev.to/burdettelamar/nokogiri-cookbook-4p1d)
-- [Created a &#39;Best of Everything&#39; voting platform because I&#39;m tired of reading 47 blog posts just to find a password manager](https://dev.to/matteo_barberis_3a83e71c5/created-a-best-of-everything-voting-platform-because-im-tired-of-reading-47-blog-posts-just-to-10m4)
+- [Data Flow: Aggregate Transformation](https://dev.to/erjun_chen_9674afdc95380d/data-flow-aggregate-transformation-1i8p)
+- [cool simple but helpful post!](https://dev.to/lightbeam888/cool-simple-but-helpful-post-48hc)
+- [State Management in React: A Developer&#39;s Guide](https://dev.to/webmaster09811/state-management-in-react-a-developers-guide-41pg)
+- [Database seeder](https://dev.to/mahir_xalilov_cd64c8cd8b1/database-seeder-58nb)
 <!-- BLOG-POST-LIST:END -->
 
 
