@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar; Attacks: How They Work and How to Prevent Them](https://dev.to/igventurelli/understanding-cross-site-request-forgery-csrf-attacks-how-they-work-and-how-to-prevent-them-4ej7)
-- [Building an AI agent for your frontend project](https://dev.to/logrocket/building-an-ai-agent-for-your-frontend-project-5c21)
-- [Securing Access with Microsoft Entra Roles: A Guide to Effective Role Management](https://dev.to/kapusto/securing-access-with-microsoft-entra-roles-a-guide-to-effective-role-management-48eh)
-- [Check out my first portfolio-website. I need reactions🙌](https://dev.to/ralph_rotich/check-out-my-first-portfolio-website-i-need-reactions-3mcg)
+- [&quot;Revolutionizing Radio Astronomy: The GLOT Tool for Data Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-radio-astronomy-the-glot-tool-for-data-analysis-1dof)
+- [Understanding Big O Notation for Frontend Developers](https://dev.to/roshankrsoni/understanding-big-o-notation-for-frontend-developers-2pdc)
+- [How I Turned My Habit Tracker Idea into Reality in 28 Days](https://dev.to/jithinjude/how-i-turned-my-habit-tracker-idea-into-reality-in-28-days-25gf)
+- [Top 10 most asked Java 8 Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-10-most-asked-java-8-questions-in-interviews-7p6)
 <!-- BLOG-POST-LIST:END -->
 
 
