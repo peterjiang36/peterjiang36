@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Flow: Aggregate Transformation](https://dev.to/erjun_chen_9674afdc95380d/data-flow-aggregate-transformation-1i8p)
-- [cool simple but helpful post!](https://dev.to/lightbeam888/cool-simple-but-helpful-post-48hc)
-- [State Management in React: A Developer&#39;s Guide](https://dev.to/webmaster09811/state-management-in-react-a-developers-guide-41pg)
-- [Database seeder](https://dev.to/mahir_xalilov_cd64c8cd8b1/database-seeder-58nb)
+- [25 Git Commands Every Developer Should Know](https://dev.to/sachinkg12/25-git-commands-every-developer-should-know-498f)
+- [PositionUs Controller](https://dev.to/akif_mammadov_340debb5f35/positionus-controller-3h55)
+- [How to Optimize and Scale Your Applications with Amazon ECS](https://dev.to/ranjan_2703/how-to-optimize-and-scale-your-applications-with-amazon-ecs-3k32)
+- [Amazon Elastic Inference](https://dev.to/sbshanjaiy/amazon-elastic-inference-2fo8)
 <!-- BLOG-POST-LIST:END -->
 
 
