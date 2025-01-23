@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to quickly index your blog post article or website on Google after publishing](https://dev.to/flotiq/how-to-quickly-index-your-blog-post-article-or-website-on-google-after-publishing-5001)
-- [Launching Jolt AI on Product Hunt! meooow.link/jolt](https://dev.to/fmerian/launching-jolt-ai-on-product-hunt-meooowlinkjolt-20ff)
-- [📰 Trump Announces $500B AI Infrastructure Plan That Could Help Cure Cancer](https://dev.to/d_thiranjaya_6d3ec4552111/trump-announces-500b-ai-infrastructure-plan-that-could-help-cure-cancer-4oj0)
-- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
+- [How to Integrate Multiple Payment Gateways in NestJS &lpar;With Stripe Example&rpar;](https://dev.to/henriqueweiand/how-to-integrate-multiple-payment-gateways-in-nestjs-with-stripe-example-54pi)
+- [How Can Payable AI Models Transform Businesses in the AI Era?](https://dev.to/joinwithken/how-can-payable-ai-models-transform-businesses-in-the-ai-era-324l)
+- [JSON Unescape: Understanding and Using It Effectively](https://dev.to/keploy/json-unescape-understanding-and-using-it-effectively-4j6d)
+- [10x0 = 0](https://dev.to/linkbenjamin/10x0-0-3igh)
 <!-- BLOG-POST-LIST:END -->
 
 
