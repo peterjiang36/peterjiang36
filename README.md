@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kantord/-5d36)
-- [Essential Security Tips for Users and Web3 Developers](https://dev.to/cryptosandy/essential-security-tips-for-users-and-web3-developers-1j2d)
-- [Customer Feedback Loops: How to Continuously Improve Your Products and Services](https://dev.to/feedbackmanagement/customer-feedback-loops-how-to-continuously-improve-your-products-and-services-2mk0)
-- [Top 10 No-Code Tools for Developers in 2025: Build Without Boundaries](https://dev.to/hadil/top-10-no-code-tools-for-developers-in-2025-build-without-boundaries-4b63)
+- [How to quickly index your blog post article or website on Google after publishing](https://dev.to/flotiq/how-to-quickly-index-your-blog-post-article-or-website-on-google-after-publishing-5001)
+- [Launching Jolt AI on Product Hunt! meooow.link/jolt](https://dev.to/fmerian/launching-jolt-ai-on-product-hunt-meooowlinkjolt-20ff)
+- [📰 Trump Announces $500B AI Infrastructure Plan That Could Help Cure Cancer](https://dev.to/d_thiranjaya_6d3ec4552111/trump-announces-500b-ai-infrastructure-plan-that-could-help-cure-cancer-4oj0)
+- [Why we’re betting on Kubernetes &lpar;and you should too&rpar;](https://dev.to/cyclops-ui/why-were-betting-on-kubernetes-and-you-should-too-365k)
 <!-- BLOG-POST-LIST:END -->
 
 
