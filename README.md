@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Cloud Shock: How to Set Up AWS Budgets for Predictable Expenses](https://dev.to/lindiwe09/avoiding-cloud-shock-how-to-set-up-aws-budgets-for-predictable-expenses-495h)
-- [AceHack 4.0: Where Ideas Meet Collaboration](https://dev.to/acehack/acehack-40-where-ideas-meet-collaboration-22p5)
-- [editing diagrams softwares](https://dev.to/thegreyhatguy/editing-diagrams-softwares-3ej7)
-- [How to integrate AWS lamda serverless with Node.js Nest.js](https://dev.to/shaikhalamin/how-to-integrate-aws-lamda-serverless-with-nodejs-nestjs-5060)
+- [Understanding Cross-Site Request Forgery &lpar;CSRF&rpar; Attacks: How They Work and How to Prevent Them](https://dev.to/igventurelli/understanding-cross-site-request-forgery-csrf-attacks-how-they-work-and-how-to-prevent-them-4ej7)
+- [Building an AI agent for your frontend project](https://dev.to/logrocket/building-an-ai-agent-for-your-frontend-project-5c21)
+- [Securing Access with Microsoft Entra Roles: A Guide to Effective Role Management](https://dev.to/kapusto/securing-access-with-microsoft-entra-roles-a-guide-to-effective-role-management-48eh)
+- [Check out my first portfolio-website. I need reactions🙌](https://dev.to/ralph_rotich/check-out-my-first-portfolio-website-i-need-reactions-3mcg)
 <!-- BLOG-POST-LIST:END -->
 
 
