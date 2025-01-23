@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing MVPs with Modular Architecture: Insights from Full-Stack Experts](https://dev.to/ameliaswank/optimizing-mvps-with-modular-architecture-insights-from-full-stack-experts-34ad)
-- [React Application Hosting Using S3 and CloudFront](https://dev.to/sibi_s_/react-application-hosting-using-s3-and-cloudfront-2nk2)
-- [Essential Questions to Ask Recruiters During the Interview](https://dev.to/ebereplenty/essential-questions-to-ask-recruiters-during-the-interview-1j0e)
-- [Why Most Social Media Campaigns Fail—and How I Learned to Fix Them](https://dev.to/dizzy_strategy/why-most-social-media-campaigns-fail-and-how-i-learned-to-fix-them-20pk)
+- [[Boost]](https://dev.to/kantord/-5d36)
+- [Essential Security Tips for Users and Web3 Developers](https://dev.to/cryptosandy/essential-security-tips-for-users-and-web3-developers-1j2d)
+- [Customer Feedback Loops: How to Continuously Improve Your Products and Services](https://dev.to/feedbackmanagement/customer-feedback-loops-how-to-continuously-improve-your-products-and-services-2mk0)
+- [Top 10 No-Code Tools for Developers in 2025: Build Without Boundaries](https://dev.to/hadil/top-10-no-code-tools-for-developers-in-2025-build-without-boundaries-4b63)
 <!-- BLOG-POST-LIST:END -->
 
 
