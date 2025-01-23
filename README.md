@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Composable Commerce Migration: Shaping the Future of Scalable Ecommerce Systems](https://dev.to/mikesays/composable-commerce-migration-shaping-the-future-of-scalable-ecommerce-systems-mkb)
-- [Popular DevOps Tools and Their Use Cases](https://dev.to/574n13y/popular-devops-tools-and-their-use-cases-3n3h)
-- [How to Start a React Project from Scratch with Git and GitHub](https://dev.to/tranmatt/how-to-start-a-react-project-from-scratch-with-git-and-github-2118)
-- [Secure Your AWS Pipeline: Step-by-Step Guide to VPC Integration](https://dev.to/aws-builders/secure-your-aws-pipeline-step-by-step-guide-to-vpc-integration-4n5i)
+- [Execution Over Excuses: How Developers Can Level Up](https://dev.to/0x2e_tech/execution-over-excuses-how-developers-can-level-up-3n27)
+- [Stop Overthinking and Start Taking Action: The No-Excuses Guide to Making Progress](https://dev.to/0x5a_live/stop-overthinking-and-start-taking-action-the-no-excuses-guide-to-making-progress-5ama)
+- [Newly LAUNCHED 30+ Github Repositories for Developers.](https://dev.to/gittech/newly-launched-30-github-repositories-for-developers-3o99)
+- [Is the Software Developer Job Market Dying? 2025 and Beyond](https://dev.to/bhuwan71/is-the-software-developer-job-market-dying-2025-and-beyond-1jbp)
 <!-- BLOG-POST-LIST:END -->
 
 
