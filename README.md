@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AMAZON APPFLOW](https://dev.to/kamali_s/amazon-appflow-g4c)
-- [Amazon Macie](https://dev.to/dharshinisri_g_04a9fda5b6/amazon-macie-4npd)
-- [AWS Glue DataBrew](https://dev.to/meenaumadevi_m_f028d366bf/aws-glue-databrew-18bm)
-- [Is PostgreSQL Better Than MySQL?](https://dev.to/angelaswift/is-postgresql-better-than-mysql-4okm)
+- [Summarizing The Effective Engineer Part 3](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-3-k9j)
+- [Ranking #1 Isn’t Enough: How to Drive Conversions 🚦](https://dev.to/genixbit/ranking-1-isnt-enough-how-to-drive-conversions-hdd)
+- [Summarizing The Effective Engineer Part 2](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-2-2fk)
+- [Summarizing The Effective Engineer Part 1](https://dev.to/rifkiandriyanto/summarizing-the-effective-engineer-part-1-g2k)
 <!-- BLOG-POST-LIST:END -->
 
 
