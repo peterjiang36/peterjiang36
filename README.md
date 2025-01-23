@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Execution Over Excuses: How Developers Can Level Up](https://dev.to/0x2e_tech/execution-over-excuses-how-developers-can-level-up-3n27)
-- [Stop Overthinking and Start Taking Action: The No-Excuses Guide to Making Progress](https://dev.to/0x5a_live/stop-overthinking-and-start-taking-action-the-no-excuses-guide-to-making-progress-5ama)
-- [Newly LAUNCHED 30+ Github Repositories for Developers.](https://dev.to/gittech/newly-launched-30-github-repositories-for-developers-3o99)
-- [Is the Software Developer Job Market Dying? 2025 and Beyond](https://dev.to/bhuwan71/is-the-software-developer-job-market-dying-2025-and-beyond-1jbp)
+- [Congrats to the GitHub Copilot 1-Day Build Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-1-day-build-challenge-winners-4iok)
+- [Hosting a React App on AWS S3 with CloudFront](https://dev.to/vasanthbal5220/hosting-a-react-app-on-aws-s3-with-cloudfront-1280)
+- [Kubernetes Resource Management: Exploring AKS Karpenter and Node Auto-Provisioning](https://dev.to/pustotips/kubernetes-resource-management-exploring-aks-karpenter-and-node-auto-provisioning-29bm)
+- [Post-Quantum Cryptography](https://dev.to/muhammad_ishaque/post-quantum-cryptography-31ka)
 <!-- BLOG-POST-LIST:END -->
 
 
