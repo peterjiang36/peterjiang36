@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-35nn)
-- [How Cloud-Based OTT Platforms Ensure Scalability and Reliability During High Traffic](https://dev.to/livestreaming/is-cloud-based-playout-software-the-future-of-broadcasting-31ki)
-- [🧪 GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY](https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-3fep)
-- [Yay! I created my first Portfolio! 🎉](https://dev.to/anmolbaranwal/yay-i-created-my-first-portfolio-375)
+- [R-Lock vs Lock in Python](https://dev.to/hiteshchawla/r-lock-vs-lock-in-python-3po9)
+- [🗽 Top 5 DevOps AI Tools for 2025](https://dev.to/cicube/top-5-devops-ai-tools-for-2025-146l)
+- [PRAGMA AUTONOMOUS_TRANSACTION in ORACLE PLSQL - Use case](https://dev.to/mrcaption49/pragma-autonomoustransaction-in-oracle-plsql-use-case-2ehd)
+- [Libraries You Should Know if You Build with React Native](https://dev.to/aneeqakhan/libraries-you-should-know-if-you-build-with-react-native-3c6d)
 <!-- BLOG-POST-LIST:END -->
 
 
