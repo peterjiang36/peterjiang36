@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Java APIs: Transforming Modern Software Engineering](https://dev.to/martingreenz/the-power-of-java-apis-transforming-modern-software-engineering-3d6a)
-- [Maximize Your Savings: How Much Can You Earn by Bulk Sending to 100 Addresses Instead of Sending One by One?](https://dev.to/block_experts_766a3a21915637/maximize-your-savings-how-much-can-you-earn-by-bulk-sending-to-100-addresses-instead-of-sending-aef)
-- [Asas Kubernetes - Hari 3. Komponen penting didalam Master Node atau dikenali sebagai Control-Plane](https://dev.to/kodakademik/asas-kubernetes-hari-3-komponen-penting-didalam-master-node-atau-dikenali-sebagai-control-plane-4bn3)
-- [📰 Elon Musk publicly trashes Trump-backed Stargate AI project, clashes with OpenAI CEO Sam Altman](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-publicly-trashes-trump-backed-stargate-ai-project-clashes-with-openai-ceo-sam-altman-2n68)
+- [[Boost]](https://dev.to/brunociccarino/-4mm)
+- [Tell me, what is your favorite theme? Of all the themes, which one do you like the most?](https://dev.to/brunociccarino/tell-me-what-is-your-favorite-theme-of-all-the-themes-which-one-do-you-like-the-most-4lo9)
+- [Unlock the Magic of Images: A Quick and Easy Guide to Using the Cutting-Edge SmolVLM-500M Model](https://dev.to/alexander_uspenskiy_the_great/unlock-the-magic-of-images-a-quick-and-easy-guide-to-using-the-cutting-edge-smolvlm-500m-model-366c)
+- [🚀 Your Daily Crypto Job Digest For 23 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-23-january-3524)
 <!-- BLOG-POST-LIST:END -->
 
 
