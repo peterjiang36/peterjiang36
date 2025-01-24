@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build, Deploy, Repeat: Python Web Development Without the Fluff](https://dev.to/resource_bunk_1077cab07da/build-deploy-repeat-python-web-development-without-the-fluff-4emd)
-- [Give aider a privacy and security boost with CodeGate](https://dev.to/stacklok/give-aider-a-privacy-and-security-boost-with-codegate-1n2h)
-- [Building Dynamic, Multi-Slide LinkedIn Carousels with Agent.ai](https://dev.to/sam_ben_786ddbe69e5992835/building-dynamic-multi-slide-linkedin-carousels-with-agentai-5hnb)
-- [Top 20 most asked Git Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-git-questions-in-interviews-47od)
+- [The Molecular Architecture](https://dev.to/almaju/the-molecular-architecture-28mc)
+- [ServBay 1.8.0 Released: Support for Apache](https://dev.to/servbay/servbay-180-released-support-for-apache-52bb)
+- [Top 30 most asked Linux Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-30-most-asked-linux-questions-in-interviews-1na3)
+- [Python Virtual Environments: Why You Need Them and How to Use Them](https://dev.to/lovestaco/python-virtual-environments-why-you-need-them-and-how-to-use-them-1o1e)
 <!-- BLOG-POST-LIST:END -->
 
 
