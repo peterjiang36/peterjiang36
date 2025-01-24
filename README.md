@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Gained 100+ Users Through Pre-Registrations for My Habit Tracker App](https://dev.to/jithinjude/how-i-gained-100-users-through-pre-registrations-for-my-habit-tracker-app-230e)
-- [Managing Processes and Services in Linux](https://dev.to/godofgeeks/managing-processes-and-services-in-linux-26pa)
-- [Intro to 3 tier architecture](https://dev.to/bharathka_ddfe712971e26/intro-to-3-tier-architecture-b7p)
-- [Backtracking Algorithms: N-Queens, Sudoku &amp; Subset Sum | Mbloging](https://dev.to/muhayminbinmehmood/backtracking-algorithms-n-queens-sudoku-subset-sum-mbloging-34ac)
+- [🐹 Golang Integration with Kafka and Uber ZapLog 📨](https://dev.to/truongpx396/golang-integration-with-kafka-and-uber-zaplog-35nn)
+- [How Cloud-Based OTT Platforms Ensure Scalability and Reliability During High Traffic](https://dev.to/livestreaming/is-cloud-based-playout-software-the-future-of-broadcasting-31ki)
+- [🧪 GOLANG TESTING WITH STRETCHR/TESTIFY AND MOCKERY](https://dev.to/truongpx396/golang-testing-with-stretchrtestify-and-mockery-3fep)
+- [Yay! I created my first Portfolio! 🎉](https://dev.to/anmolbaranwal/yay-i-created-my-first-portfolio-375)
 <!-- BLOG-POST-LIST:END -->
 
 
