@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - 80. Remove Duplicates from Sorted Array II](https://dev.to/rakeshreddy512/leetcode-80-remove-duplicates-from-sorted-array-ii-766)
-- [Three Tier Architecture Part-1 Introduction](https://dev.to/sbshanjaiy/three-tier-architecture-introduction-part-1-3b55)
-- [Understanding Java Stream APIs: A Guide for Developers](https://dev.to/bharath_vasishtha/understanding-java-stream-apis-a-guide-for-developers-2ok6)
-- [RepoCast](https://dev.to/mkagenius/repocast-3d0j)
+- [How I Gained 100+ Users Through Pre-Registrations for My Habit Tracker App](https://dev.to/jithinjude/how-i-gained-100-users-through-pre-registrations-for-my-habit-tracker-app-230e)
+- [Managing Processes and Services in Linux](https://dev.to/godofgeeks/managing-processes-and-services-in-linux-26pa)
+- [Intro to 3 tier architecture](https://dev.to/bharathka_ddfe712971e26/intro-to-3-tier-architecture-b7p)
+- [Backtracking Algorithms: N-Queens, Sudoku &amp; Subset Sum | Mbloging](https://dev.to/muhayminbinmehmood/backtracking-algorithms-n-queens-sudoku-subset-sum-mbloging-34ac)
 <!-- BLOG-POST-LIST:END -->
 
 
