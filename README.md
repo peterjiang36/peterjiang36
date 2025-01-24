@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [May Jolt AI be the future of production-ready AI developer tools?](https://dev.to/fmerian/may-jolt-ai-be-the-future-of-production-ready-ai-developer-tools-1k80)
-- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://dev.to/yev_yev_yev/introducing-jolt-ai-codegen-and-chat-for-100k-to-multi-million-line-codebases-1764)
-- [[Boost]](https://dev.to/mezmo/-453p)
-- [Setting up a VPC Infrastructure For Jenkins, Artifactory, Sonarqube on AWS using Terraform](https://dev.to/nonso_echendu_001/setting-up-a-vpc-infrastructure-for-jenkins-artifactory-sonarqube-on-aws-using-terraform-27ia)
+- [The Power of Java APIs: Transforming Modern Software Engineering](https://dev.to/martingreenz/the-power-of-java-apis-transforming-modern-software-engineering-3d6a)
+- [Maximize Your Savings: How Much Can You Earn by Bulk Sending to 100 Addresses Instead of Sending One by One?](https://dev.to/block_experts_766a3a21915637/maximize-your-savings-how-much-can-you-earn-by-bulk-sending-to-100-addresses-instead-of-sending-aef)
+- [Asas Kubernetes - Hari 3. Komponen penting didalam Master Node atau dikenali sebagai Control-Plane](https://dev.to/kodakademik/asas-kubernetes-hari-3-komponen-penting-didalam-master-node-atau-dikenali-sebagai-control-plane-4bn3)
+- [📰 Elon Musk publicly trashes Trump-backed Stargate AI project, clashes with OpenAI CEO Sam Altman](https://dev.to/d_thiranjaya_6d3ec4552111/elon-musk-publicly-trashes-trump-backed-stargate-ai-project-clashes-with-openai-ceo-sam-altman-2n68)
 <!-- BLOG-POST-LIST:END -->
 
 
