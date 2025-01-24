@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI vs Django/Flask](https://dev.to/hiteshchawla/fastapi-vs-django-core-difference-103a)
-- [Introducing Squidly: Simplify Your GitHub Workflow Management](https://dev.to/fralps/introducing-squidly-simplify-your-github-workflow-management-b5h)
-- [Building a Simple and Efficient Language Translator for Your Projects](https://dev.to/muhammadaqib86/building-a-simple-and-efficient-language-translator-for-your-projects-47jj)
-- [Angular Topics](https://dev.to/anjali_gurjar_dff81513867/angular-topics-1p51)
+- [My latest fatigue!](https://dev.to/cadienvan/my-latest-fatigue-3h4d)
+- [What Sits And What Fits.](https://dev.to/cadienvan/what-sits-and-what-fits-o58)
+- [Getting Started with Firebase and Angular in idx.dev](https://dev.to/this-is-angular/getting-started-with-firebase-and-angular-in-idxdev-49h6)
+- [X Profile Roaster 🌶️🔥❤️‍🔥](https://dev.to/divya4879/x-profile-roaster-1ca0)
 <!-- BLOG-POST-LIST:END -->
 
 
