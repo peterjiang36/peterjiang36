@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin Joins CNCF Sandbox: Strengthening Adoption and Benefits for Organizations and Developers](https://dev.to/fermyon/spin-joins-cncf-sandbox-strengthening-adoption-and-benefits-for-organizations-and-developers-4m8f)
-- [Explore AI for Free with LLMSys: A Beginner&#39;s Guide](https://dev.to/angel_rojas_6904bae237a0d/explore-ai-for-free-with-llmsys-a-beginners-guide-396h)
-- [Tech Founders &amp; Leaders: Join Temporal&#39;s Lunch &amp; Learn at Sequoia Capital NYC!](https://dev.to/brandon_moorer_9dcfeab52c/tech-founders-leaders-join-temporals-lunch-learn-at-sequoia-capital-nyc-2b66)
-- [I made lots efforts to write this blog !!](https://dev.to/tingwei628/i-made-lots-efforts-to-write-this-blog--317d)
+- [Build, Deploy, Repeat: Python Web Development Without the Fluff](https://dev.to/resource_bunk_1077cab07da/build-deploy-repeat-python-web-development-without-the-fluff-4emd)
+- [Give aider a privacy and security boost with CodeGate](https://dev.to/stacklok/give-aider-a-privacy-and-security-boost-with-codegate-1n2h)
+- [Building Dynamic, Multi-Slide LinkedIn Carousels with Agent.ai](https://dev.to/sam_ben_786ddbe69e5992835/building-dynamic-multi-slide-linkedin-carousels-with-agentai-5hnb)
+- [Top 20 most asked Git Questions in Interviews.](https://dev.to/piyush_kumarsingh/top-20-most-asked-git-questions-in-interviews-47od)
 <!-- BLOG-POST-LIST:END -->
 
 
