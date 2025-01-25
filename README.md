@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Stellar Secrets: Tidal Interactions and Cosmic Filaments Explored&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-stellar-secrets-tidal-interactions-and-cosmic-filaments-explored-1ghf)
-- [The real problems are not employers AFAIK but EU itself as they put constraints on employers who try to hire people without proper credentials or confirmed years of experience.](https://dev.to/framemuse/the-real-problems-are-not-employers-afaik-but-eu-itself-as-they-dont-put-constraints-on-employers-3ki5)
-- [From Automation Testing to Developer: A Fresh Grad&#39;s Journey](https://dev.to/hereeisha/from-automation-testing-to-developer-a-fresh-grads-journey-ch3)
-- [How to Integrate RazorPay in Next.js 14/15 with Easy Steps.](https://dev.to/hanuchaudhary/how-to-integrate-razorpay-in-nextjs-1415-with-easy-steps-fl7)
+- [Amazon S3 + Cloudflare Cloud Connector magic](https://dev.to/petekip/amazon-s3-cloudflare-cloud-connector-magic-392f)
+- [Top 10 React Carousels to Use in 2025: User-Friendly and Efficient](https://dev.to/swhabitation/top-10-react-carousels-to-use-in-2025-user-friendly-and-efficient-2a6f)
+- [From Ideation to Finals: My Journey as a Team Lead in Smart India Hackathon 2023](https://dev.to/raja_imaya_bharathi/smart-india-hackathon-journey-2023-2877)
+- [Deploying Java Applications on AWS ECS and ECR with a Jenkins CI/CD Pipeline](https://dev.to/bhaktraj/deploying-java-applications-on-aws-ecs-and-ecr-with-a-jenkins-cicd-pipeline-1ji5)
 <!-- BLOG-POST-LIST:END -->
 
 
