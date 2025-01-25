@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1088 : Solar Power](https://dev.to/dwane/day-1088-solar-power-f9d)
-- [Slashing S3 Costs: How Databend Reduced List API Expenses by 70%](https://dev.to/ksanaka/slashing-s3-costs-how-databend-reduced-list-api-expenses-by-70-1l6e)
-- [FSCSS animation example](https://dev.to/fscss-ttr/fscss-animation-example-j2j)
-- [Indexing for NOT EQUAL &lpar;&lt;&gt;,!=&rpar; in YugabyteDB, PostgreSQL, Oracle Database, SQL Server, and MongoDB](https://dev.to/aws-heroes/indexing-for-not-equal-in-yugabytedb-postgresql-oracle-database-and-mongodb-25mo)
+- [Top 5 Data Visualization Libraries You Should Know in 2025](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9)
+- [Busca semântica - a nova fronteira](https://dev.to/jean_nascimento_92cbab15c/busca-semantica-a-nova-fronteira-1mk5)
+- [Compiling C in Bun with TypeScript: Fast, Native, and Simple](https://dev.to/gentritbiba/compiling-c-in-bun-with-typescript-fast-native-and-simple-4lj1)
+- [Testing for Privacy in AI/ML: Safeguarding Data in the Age of Intelligent Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-for-privacy-in-aiml-safeguarding-data-in-the-age-of-intelligent-systems-2jb4)
 <!-- BLOG-POST-LIST:END -->
 
 
