@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EduVideo Mentor - Process Educational Videos / Tutorials](https://dev.to/tazeen_hashmat/eduvideo-mentor-process-educational-videos-tutorials-2mln)
-- [Building a Production-Grade MySQL HA Cluster for Under $25—Are You In?](https://dev.to/javaee/building-a-production-grade-mysql-ha-cluster-for-under-25-are-you-in-6og)
-- [Java methods and classes examples 2](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-2-4d5a)
-- [Java methods and classes examples 1](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-1-26db)
+- [Compiling 2025: My Developer Roadmap 🛠️🚀](https://dev.to/talha666tahir/compiling-2025-my-developer-roadmap-50nf)
+- [Django Models Simplified: A Quick 4-Minute Guide for Beginners](https://dev.to/ebereplenty/django-models-simplified-a-quick-4-minute-guide-for-beginners-3a88)
+- [Supervised vs. Unsupervised Learning](https://dev.to/prezaei/understanding-supervised-vs-unsupervised-learning-g2g)
+- [104/365 | ¥10M Job Challenge - Learning and Work Productivity](https://dev.to/kameken100/104365-y10m-job-challenge-learning-and-work-productivity-3bk8)
 <!-- BLOG-POST-LIST:END -->
 
 
