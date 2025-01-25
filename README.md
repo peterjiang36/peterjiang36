@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing for AI Bias: Ensuring Fairness and Equity in Intelligent Systems](https://dev.to/arun_pal_3ce740a137cf15ad/testing-for-ai-bias-ensuring-fairness-and-equity-in-intelligent-systems-1k01)
-- [Dynamic Document Titles in Nextjs 15](https://dev.to/simplr_sh/dynamic-document-titles-in-nextjs-15-128m)
-- [Learn ASP.NET from Scratch](https://dev.to/nmiller15/learn-aspnet-from-scratch-13nd)
-- [Scaling Microservices: Event-Driven Architectures with Kafka and Spring Boot](https://dev.to/virajlakshitha/scaling-microservices-event-driven-architectures-with-kafka-and-spring-boot-4jfd)
+- [Comprehensive Comparison: CISSP vs. CCSP in 2025](https://dev.to/p2p_certs_5787663da138fad/comprehensive-comparison-cissp-vs-ccsp-in-2025-85h)
+- [Understanding AJAX, XMLHttpRequest, and Fetch API in JavaScript](https://dev.to/krushna_sananse/understanding-ajax-xmlhttprequest-and-fetch-api-in-javascript-ijf)
+- [CheckMate - quick and easy-to-use fact-checking assistant that combats misinformation](https://dev.to/filipehb/checkmate-quick-and-easy-to-use-fact-checking-assistant-that-combats-misinformation-3n41)
+- [Managing Production Configurations in ASP.NET Core WebAPI Using Environment Variables](https://dev.to/imzihad21/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf)
 <!-- BLOG-POST-LIST:END -->
 
 
