@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Security and Compliance with On Premises Identity Verification—FacePlugin’s Advanced Solutions](https://dev.to/faceplugin/ensuring-security-and-compliance-with-on-premises-identity-verification-faceplugins-advanced-1jpf)
-- [Rapidly Deploy ECS Infrastructure on AWS with AWS CDK &lpar;TypeScript&rpar;](https://dev.to/muhammad_ahmad_khan/rapidly-deploy-ecs-infrastructure-on-aws-with-aws-cdk-typescript-1fpk)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-4be2)
-- [Build a Stunning 3D City Model with GISBox!](https://dev.to/gisbox/build-a-stunning-3d-city-model-with-gisbox-2aii)
+- [Testing for AI Bias: Ensuring Fairness and Equity in Intelligent Systems](https://dev.to/arun_pal_3ce740a137cf15ad/testing-for-ai-bias-ensuring-fairness-and-equity-in-intelligent-systems-1k01)
+- [Dynamic Document Titles in Nextjs 15](https://dev.to/simplr_sh/dynamic-document-titles-in-nextjs-15-128m)
+- [Learn ASP.NET from Scratch](https://dev.to/nmiller15/learn-aspnet-from-scratch-13nd)
+- [Scaling Microservices: Event-Driven Architectures with Kafka and Spring Boot](https://dev.to/virajlakshitha/scaling-microservices-event-driven-architectures-with-kafka-and-spring-boot-4jfd)
 <!-- BLOG-POST-LIST:END -->
 
 
