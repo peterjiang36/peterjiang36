@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Data Visualization Libraries You Should Know in 2025](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9)
-- [Busca semântica - a nova fronteira](https://dev.to/jean_nascimento_92cbab15c/busca-semantica-a-nova-fronteira-1mk5)
-- [Compiling C in Bun with TypeScript: Fast, Native, and Simple](https://dev.to/gentritbiba/compiling-c-in-bun-with-typescript-fast-native-and-simple-4lj1)
-- [Testing for Privacy in AI/ML: Safeguarding Data in the Age of Intelligent Systems](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-for-privacy-in-aiml-safeguarding-data-in-the-age-of-intelligent-systems-2jb4)
+- [Ensuring Security and Compliance with On Premises Identity Verification—FacePlugin’s Advanced Solutions](https://dev.to/faceplugin/ensuring-security-and-compliance-with-on-premises-identity-verification-faceplugins-advanced-1jpf)
+- [Rapidly Deploy ECS Infrastructure on AWS with AWS CDK &lpar;TypeScript&rpar;](https://dev.to/muhammad_ahmad_khan/rapidly-deploy-ecs-infrastructure-on-aws-with-aws-cdk-typescript-1fpk)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-4be2)
+- [Build a Stunning 3D City Model with GISBox!](https://dev.to/gisbox/build-a-stunning-3d-city-model-with-gisbox-2aii)
 <!-- BLOG-POST-LIST:END -->
 
 
