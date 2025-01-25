@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Responde como un experto: Gestión de incidentes y seguridad con AWS](https://dev.to/briansuarezsantiago/responde-como-un-experto-gestion-de-incidentes-y-seguridad-con-aws-43jc)
-- [2948. Make Lexicographically Smallest Array by Swapping Elements](https://dev.to/mdarifulhaque/2948-make-lexicographically-smallest-array-by-swapping-elements-2n9)
-- [Instalación y uso de TanStack Query &lpar;antes React Query&rpar;](https://dev.to/unpandadev/instalacion-y-uso-de-tanstack-query-antes-react-query-1g0i)
-- [Data Engineering Zoomcamp 2025 Cohort: Introduction - Self-Study Notes](https://dev.to/pizofreude/data-engineering-zoomcamp-2025-cohort-introduction-self-study-notes-44a4)
+- [EduVideo Mentor - Process Educational Videos / Tutorials](https://dev.to/tazeen_hashmat/eduvideo-mentor-process-educational-videos-tutorials-2mln)
+- [Building a Production-Grade MySQL HA Cluster for Under $25—Are You In?](https://dev.to/javaee/building-a-production-grade-mysql-ha-cluster-for-under-25-are-you-in-6og)
+- [Java methods and classes examples 2](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-2-4d5a)
+- [Java methods and classes examples 1](https://dev.to/vaniusca_23_e2be1f11528b9/java-methods-and-classes-examples-1-26db)
 <!-- BLOG-POST-LIST:END -->
 
 
