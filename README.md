@@ -76,8 +76,8 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Views in Databases: A Complete Guide 🧠💡](https://dev.to/abhivyaktii/understanding-views-in-databases-a-complete-guide-167f)
 - [How Web Workers Saved My JavaScript App from Performance Hell 🚀](https://dev.to/digitalminds/how-web-workers-saved-my-javascript-app-from-performance-hell-1kkg)
+- [Automating Cost Management: Creating AWS Budgets with Terraform ⚙️](https://dev.to/aws-heroes/automating-cost-management-creating-aws-budgets-with-terraform-40no)
 - [Big News: Web Accidents is LIVE! 🎉](https://dev.to/vigneshiyergithub/big-news-web-accidents-is-live-2639)
-- [General Overview Of Computer Architecture](https://dev.to/zzhihao/general-overview-of-computer-architecture-59ip)
 <!-- BLOG-POST-LIST:END -->
 
 
