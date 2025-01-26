@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I couldn&#39;t find a job, so I made a SaaS my accident](https://dev.to/ahmed_yasser/i-couldnt-find-a-job-so-i-made-a-saas-my-accident-2il7)
-- [Exploring the New Architecture of React Native: A Step Towards Modernization 🔥](https://dev.to/ersuman/exploring-the-new-architecture-of-react-native-a-step-towards-modernization-5174)
-- [Mindmap Generator: How to Draw SVG-Based Graphs with AI-Generated Text and Images Using the Agent Approach](https://dev.to/sosuisen/mindmap-generator-how-to-draw-svg-based-graphs-with-ai-generated-text-and-images-using-the-agent-2po2)
-- [🔥Announcing Auto-I8LN: Simplify Flutter Internationalization &amp; Localization](https://dev.to/michealgabriel/announcing-auto-i8ln-simplify-flutter-internationalization-localization-3hm3)
+- [Introducing Fitness Goal Sensei: Your AI Coach for Sculpting Your Best Physique](https://dev.to/faithful_alabi_076a11eedf/introducing-fitness-goal-sensei-your-ai-coach-for-sculpting-your-best-physique-eip)
+- [Terms of Service](https://dev.to/gbengaayelab/terms-of-service-3j8d)
+- [Creating Mini-Games in the Age of Generative AI - Generating Ideas, Code, Graphics, and Sound](https://dev.to/abagames/creating-mini-games-in-the-age-of-generative-ai-generating-ideas-code-graphics-and-sound-424k)
+- [Privacy Policy Chat Page](https://dev.to/gbengaayelab/privacy-policy-chat-page-1iai)
 <!-- BLOG-POST-LIST:END -->
 
 
