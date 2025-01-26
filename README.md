@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node&#39;s GoogleGenerativeAI: Incorporating AI Technology In javaScript](https://dev.to/evanloria4/nodes-googlegenerativeai-incorporating-ai-technology-in-javascript-5he9)
-- [Inventing Blockchain: The tale of a frustrated programmer](https://dev.to/acoh3n/inventing-blockchain-the-tale-of-a-frustrated-programmer-2o9f)
-- [🐳DeepSeek API Integration 🌟 🔥](https://dev.to/hanzla-baig/deepseek-api-integration-2cpe)
-- [Redis Pub/Sub vs Redis Streams: A Dev-Friendly Comparison](https://dev.to/lovestaco/redis-pubsub-vs-redis-streams-a-dev-friendly-comparison-39hm)
+- [2025 React vs. Vue Tech Stack Comparison for Your Startup](https://dev.to/abubakersiddique761/2025-react-vs-vue-tech-stack-comparison-for-your-startup-556n)
+- [A Brief History of Frontend Engineering](https://dev.to/leapcell/a-brief-history-of-frontend-engineering-b27)
+- [What Makes You Think You&#39;re Too Fat to Make Money?](https://dev.to/0x5a_live/what-makes-you-think-youre-too-fat-to-make-money-m1g)
+- [How might selfless acts build a profitable business?](https://dev.to/0x5a_live/how-might-selfless-acts-build-a-profitable-business-2gk6)
 <!-- BLOG-POST-LIST:END -->
 
 
