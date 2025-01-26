@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Get started with Vector Search in Azure Cosmos DB](https://dev.to/abhirockzz/get-started-with-vector-search-in-azure-cosmos-db-15dk)
-- [Rust and Go: The Future of High-Performance Computing](https://dev.to/adamgolan/rust-and-go-the-future-of-high-performance-computing-2gpc)
-- [10 Must Read Data Structures and Algorithms Books for Developers](https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1)
-- [InfluenceIQ: The Ultimate AI Tool for Smarter Influencer Marketing](https://dev.to/ronit_chawla_88d33416a2cd/influenceiq-the-ultimate-ai-tool-for-smarter-influencer-marketing-2i0e)
+- [How Web Workers Saved My JavaScript App from Performance Hell 🚀](https://dev.to/digitalminds/how-web-workers-saved-my-javascript-app-from-performance-hell-1kkg)
+- [Big News: Web Accidents is LIVE! 🎉](https://dev.to/vigneshiyergithub/big-news-web-accidents-is-live-2639)
+- [General Overview Of Computer Architecture](https://dev.to/zzhihao/general-overview-of-computer-architecture-59ip)
+- [Unlocking the Power of Data with Inferium](https://dev.to/faisal_the1st/unlocking-the-power-of-data-with-inferium-2m0k)
 <!-- BLOG-POST-LIST:END -->
 
 
