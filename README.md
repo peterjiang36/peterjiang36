@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu - Encrypted State + Git to Bootstrap Infrastructure](https://dev.to/zloeber/opentofu-encrypted-state-git-to-bootstrap-infrastructure-47lj)
-- [@Slf4j = Facade Pattern + Service Locator Pattern](https://dev.to/minisundev/slf4j-facade-pattern-service-locator-pattern-45pa)
-- [Como Gerenciar Processos no Windows Usando PowerShell](https://dev.to/higoranjos/como-gerenciar-processos-no-windows-usando-powershell-imb)
-- [5 Awesome Redis Alternatives you need to know in 2025](https://dev.to/code42cate/5-awesome-redis-alternatives-you-need-to-know-in-2025-2k0m)
+- [Referring styles of other vue file](https://dev.to/hadakadenkyu/referring-styles-of-other-vue-file-34ec)
+- [Top 5 Upvoty Alternatives in 2025](https://dev.to/shayy/top-5-upvoty-alternatives-in-2025-3h45)
+- [Email Sender Service](https://dev.to/yadab_sutradhar/email-sender-service-gg1)
+- [Host React with Blazor Server](https://dev.to/ruxozheng/host-react-with-blazor-server-6ff)
 <!-- BLOG-POST-LIST:END -->
 
 
