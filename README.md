@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Event-Driven Serverless Code to Build Scalable Applications](https://dev.to/chiragagg5k/writing-event-driven-serverless-code-to-build-scalable-applications-2mol)
-- [DeepThink R1 vs GPT: The AI Showdown That’s Changing Everything](https://dev.to/arpitstack/deepthink-r1-vs-gpt-the-ai-showdown-thats-changing-everything-30cp)
-- [Study Notes: DE Zoomcamp 1.2.1 - Introduction to Docker](https://dev.to/pizofreude/study-notes-de-zoomcamp-121-introduction-to-docker-bj4)
-- [Introducing SponsoShield | An AI powered agent to indetify sponsors on youtube](https://dev.to/hikolakita/introducing-sponsoshield-an-ai-powered-agent-to-indetify-sponsors-on-youtube-e1l)
+- [Node&#39;s GoogleGenerativeAI: Incorporating AI Technology In javaScript](https://dev.to/evanloria4/nodes-googlegenerativeai-incorporating-ai-technology-in-javascript-5he9)
+- [Inventing Blockchain: The tale of a frustrated programmer](https://dev.to/acoh3n/inventing-blockchain-the-tale-of-a-frustrated-programmer-2o9f)
+- [🐳DeepSeek API Integration 🌟 🔥](https://dev.to/hanzla-baig/deepseek-api-integration-2cpe)
+- [Redis Pub/Sub vs Redis Streams: A Dev-Friendly Comparison](https://dev.to/lovestaco/redis-pubsub-vs-redis-streams-a-dev-friendly-comparison-39hm)
 <!-- BLOG-POST-LIST:END -->
 
 
