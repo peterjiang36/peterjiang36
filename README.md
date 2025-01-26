@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn Message Composer: Effortlessly Craft Personalized Connection Requests](https://dev.to/adheesh_bhatia_80545b484c/linkedin-message-composer-effortlessly-craft-personalized-connection-requests-23e7)
-- [How to easily add 3D Models to your React apps.](https://dev.to/oia20/how-to-easily-add-3d-models-to-your-react-apps-474)
-- [Starting with Self-Hosting](https://dev.to/noriller/starting-with-self-hosting-fhm)
-- [Difference Between Clojure, Kotlin and Scala](https://dev.to/ivangavlik/difference-between-clojure-kotlin-and-scala-3f1m)
+- [AWS Secrets Manager: Mantén tus secretos seguros y fuera del código](https://dev.to/briansuarezsantiago/aws-secrets-manager-manten-tus-secretos-seguros-y-fuera-del-codigo-591h)
+- [NestJs Backend Overview](https://dev.to/tak089/nestjs-backend-overview-4no1)
+- [Creating and Managing Custom systemd Services on Ubuntu](https://dev.to/edgaras/creating-and-managing-custom-systemd-services-on-ubuntu-dkh)
+- [Unraveling the &quot;===&quot; of javascript](https://dev.to/mmvergara/unraveling-the-of-javascript-2h36)
 <!-- BLOG-POST-LIST:END -->
 
 
