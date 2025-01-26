@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Fitness Goal Sensei: Your AI Coach for Sculpting Your Best Physique](https://dev.to/faithful_alabi_076a11eedf/introducing-fitness-goal-sensei-your-ai-coach-for-sculpting-your-best-physique-eip)
-- [Terms of Service](https://dev.to/gbengaayelab/terms-of-service-3j8d)
-- [Creating Mini-Games in the Age of Generative AI - Generating Ideas, Code, Graphics, and Sound](https://dev.to/abagames/creating-mini-games-in-the-age-of-generative-ai-generating-ideas-code-graphics-and-sound-424k)
-- [Privacy Policy Chat Page](https://dev.to/gbengaayelab/privacy-policy-chat-page-1iai)
+- [OpenTofu - Encrypted State + Git to Bootstrap Infrastructure](https://dev.to/zloeber/opentofu-encrypted-state-git-to-bootstrap-infrastructure-47lj)
+- [@Slf4j = Facade Pattern + Service Locator Pattern](https://dev.to/minisundev/slf4j-facade-pattern-service-locator-pattern-45pa)
+- [Como Gerenciar Processos no Windows Usando PowerShell](https://dev.to/higoranjos/como-gerenciar-processos-no-windows-usando-powershell-imb)
+- [5 Awesome Redis Alternatives you need to know in 2025](https://dev.to/code42cate/5-awesome-redis-alternatives-you-need-to-know-in-2025-2k0m)
 <!-- BLOG-POST-LIST:END -->
 
 
