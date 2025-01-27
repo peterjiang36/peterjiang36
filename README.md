@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make $100 a Day Passively: Real-Life Examples and Resources](https://dev.to/abubakersiddique761/how-to-make-100-a-day-passively-real-life-examples-and-resources-2c6n)
-- [Power Automate - The Super Connector](https://dev.to/wyattdave/power-automate-the-super-connector-3gbe)
-- [How might truly experiencing live events boost your content creation business?](https://dev.to/0x5a_live/how-might-truly-experiencing-live-events-boost-your-content-creation-business-49nh)
-- [How can LEGO help boost my side hustle income?](https://dev.to/0x5a_live/how-can-lego-help-boost-my-side-hustle-income-24np)
+- [Agent: Content summariser](https://dev.to/saloni0512/agent-content-summariser-38f9)
+- [ResearchByte: Techy+bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techybite-sized-videos-in-minutes-3a1l)
+- [ResearchByte: Techy + bite-sized videos in minutes](https://dev.to/dhanushreddy29/researchbyte-techy-bite-sized-videos-in-minutes-2ef7)
+- [AI Meme Generator: Where Humor Meets Virality](https://dev.to/ifihan/ai-meme-generator-where-humor-meets-virality-1k00)
 <!-- BLOG-POST-LIST:END -->
 
 
