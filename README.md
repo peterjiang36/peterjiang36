@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your Series A Success Becomes a Code Review Crisis](https://dev.to/camshotter/when-your-series-a-success-becomes-a-code-review-crisis-40ad)
-- [Summarizing &quot;What Every Computer Scientist Should Know About Floating Point Arithmetic&quot;](https://dev.to/absterdabster/summarizing-what-every-computer-scientist-should-know-about-floating-point-arithmetic-h0b)
-- [SocialSelling Radar : Be Prepared for Every Lead](https://dev.to/moadhdev/socialselling-radar-be-prepared-for-every-lead-1062)
-- [🚀 API Analysis Github Repository 🔥 🌐](https://dev.to/hanzla-baig/api-analysis-github-repository-1e0i)
+- [freedomFund: Your Personal Financial Literacy Partner](https://dev.to/ritesh_hiremath_eb6abb681/freedomfund-your-personal-financial-literacy-partner-1omj)
+- [freedomFund: Your Personal Financial Literacy Partner](https://dev.to/ritesh_hiremath_eb6abb681/freedomfund-your-personal-financial-literacy-partner-4bik)
+- [#138 — Convert Certain Columns of the Same Row, as Group Members, to Multiple Rows](https://dev.to/judith677/138-convert-certain-columns-of-the-same-row-as-group-members-to-multiple-rows-1fcd)
+- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-505k)
 <!-- BLOG-POST-LIST:END -->
 
 
