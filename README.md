@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [This is going to be a major discussion.](https://dev.to/ben/this-is-going-to-be-a-major-discussion-265l)
+- [Sharing this to DEV &lpar;and to you, showing off a new experimental subforem for talking tech from another perspective&rpar;](https://dev.to/ben/sharing-this-to-dev-and-to-you-showing-off-a-new-experimental-subforem-for-talking-tech-from-892)
 - [DeepSeek vs. ChatGPT and Gemini: Privacy Standards Compared](https://dev.to/dansasser/deepseek-vs-chatgpt-and-gemini-privacy-standards-compared-m4d)
 - [Stop Overcomplicating CSS: Master Layouts, Variables, and Modern Best Practices](https://dev.to/mikehtmlallthethings/stop-overcomplicating-css-master-layouts-variables-and-modern-best-practices-11cb)
-- [🚀 ¿Aún usas Docker Desktop? 🐳](https://dev.to/fuenrob/aun-usas-docker-desktop-1m6)
-- [DeepSeek releases new image model family](https://dev.to/ben/deepseek-releases-new-image-model-family-2en0)
 <!-- BLOG-POST-LIST:END -->
 
 
