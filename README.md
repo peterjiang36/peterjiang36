@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Be a 10x AI Developer with these 5 tools in 2025 ✅ 🚀](https://dev.to/shricodev/be-a-10x-ai-developer-with-these-5-tools-in-2025-213a)
-- [EC2 Placement Groups: Fine-Tuning Your Cloud Infrastructure for Specific Workload Needs](https://dev.to/lindiwe09/ec2-placement-groups-fine-tuning-your-cloud-infrastructure-for-specific-workload-needs-3bm2)
-- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
-- [Meme Monday](https://dev.to/ben/meme-monday-419k)
+- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
+- [How to Build a Social Network in 1 Day: Part 6 - Adding a Feed](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-6-adding-a-feed-1k33)
+- [Power Pages: custom Content Snippets with a HACK part 1](https://dev.to/andrewelans/power-pages-custom-content-snippets-with-a-hack-part-1-2hf8)
+- [Quarkus extension](https://dev.to/saladlam/quarkus-extension-2kln)
 <!-- BLOG-POST-LIST:END -->
 
 
