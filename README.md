@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025: A Great Start for Linkspreed and Web4](https://dev.to/web4/2025-a-great-start-for-linkspreed-and-web4-576h)
-- [Top Chrome extensions for web design in 2025](https://dev.to/paul_freeman/top-chrome-extensions-for-web-design-in-2025-1gah)
-- [Sidekick Bot - Generate Editable Designs With The Help of AI &lpar;ON HOLD&rpar;](https://dev.to/schemetastic/sidekick-bot-generate-editable-designs-with-the-help-of-ai-on-hold-3fpl)
-- [Top Mass Email Services for Reliable Bulk Email Delivery](https://dev.to/sam_devid_65bbbe34ab06c1a/top-mass-email-services-for-reliable-bulk-email-delivery-2kf0)
+- [How to Make $100 a Day Passively: Real-Life Examples and Resources](https://dev.to/abubakersiddique761/how-to-make-100-a-day-passively-real-life-examples-and-resources-2c6n)
+- [Power Automate - The Super Connector](https://dev.to/wyattdave/power-automate-the-super-connector-3gbe)
+- [How might truly experiencing live events boost your content creation business?](https://dev.to/0x5a_live/how-might-truly-experiencing-live-events-boost-your-content-creation-business-49nh)
+- [How can LEGO help boost my side hustle income?](https://dev.to/0x5a_live/how-can-lego-help-boost-my-side-hustle-income-24np)
 <!-- BLOG-POST-LIST:END -->
 
 
