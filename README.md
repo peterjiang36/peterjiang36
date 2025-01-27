@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Terraform Books for Beginners](https://dev.to/bobbyiliev/7-best-terraform-books-for-beginners-32g7)
-- [How to Build a Social Network in 1 Day: Part 6 - Adding a Feed](https://dev.to/tsabary/how-to-build-a-social-network-in-1-day-part-6-adding-a-feed-1k33)
-- [Power Pages: custom Content Snippets with a HACK part 1](https://dev.to/andrewelans/power-pages-custom-content-snippets-with-a-hack-part-1-2hf8)
-- [Quarkus extension](https://dev.to/saladlam/quarkus-extension-2kln)
+- [How to Become a Self-Taught Web Developer in 2025](https://dev.to/tarunfulera1/how-to-become-a-self-taught-web-developer-in-2025-2j37)
+- [7 Best Event Chat Platforms for 2025](https://dev.to/aprogrammer22/7-best-event-chat-platforms-for-2025-2nb)
+- [Attending Tech Conferences With a Toddler: A DevRel Mom’s Story](https://dev.to/vonagedev/attending-tech-conferences-with-a-toddler-a-devrel-moms-story-41np)
+- [DeepSeek-R1: The Open-Source AI That&#39;s Making Waves &lpar;on a Budget!&rpar;](https://dev.to/sayed_ali_alkamel/deepseek-r1-the-open-source-ai-thats-making-waves-on-a-budget-13ik)
 <!-- BLOG-POST-LIST:END -->
 
 
