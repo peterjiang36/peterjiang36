@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Batch 5 : a simple use case with tests](https://dev.to/sbouhaddi/spring-batch-5-a-simple-use-case-with-tests-4fmi)
-- [Exploring Zeek: A Powerful Network Security Monitoring Tool](https://dev.to/aj_0/exploring-zeek-a-powerful-network-security-monitoring-tool-3iol)
-- [Starting a project](https://dev.to/lucas-moura-veloso/starting-a-project-35i9)
-- [Telco Churn Classification Project](https://dev.to/ndumbe0/telco-churn-classification-project-3pol)
+- [Internet Gateway en AWS Desde Cero](https://dev.to/camila_vinza/internet-gateway-en-aws-desde-cero-51b2)
+- [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
+- [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
+- [Deep Research in Few Minutes with Agent.ai](https://dev.to/ifihan/deep-research-in-few-minutes-with-agentai-163f)
 <!-- BLOG-POST-LIST:END -->
 
 
