@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [SocialSelling Radar : Be Prepared for Every Lead](https://dev.to/moadhdev/socialselling-radar-be-prepared-for-every-lead-1062)
 - [🚀 API Analysis Github Repository 🔥 🌐](https://dev.to/hanzla-baig/api-analysis-github-repository-1e0i)
 - [Internet Gateway en AWS Desde Cero](https://dev.to/camila_vinza/internet-gateway-en-aws-desde-cero-51b2)
 - [How to setup Nomba checkout on Woocommerce](https://dev.to/nomba-financial-service/how-to-setup-nomba-checkout-on-woocommerce-4o05)
-- [Building a Command Line Physics Calculations Application with an IIFE Module Pattern](https://dev.to/chukwuma1976/building-a-command-line-physics-calculations-application-with-an-iife-module-pattern-dbk)
 <!-- BLOG-POST-LIST:END -->
 
 
