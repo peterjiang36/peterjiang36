@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [freedomFund: Your Personal Financial Literacy Partner](https://dev.to/ritesh_hiremath_eb6abb681/freedomfund-your-personal-financial-literacy-partner-1omj)
-- [freedomFund: Your Personal Financial Literacy Partner](https://dev.to/ritesh_hiremath_eb6abb681/freedomfund-your-personal-financial-literacy-partner-4bik)
-- [#138 — Convert Certain Columns of the Same Row, as Group Members, to Multiple Rows](https://dev.to/judith677/138-convert-certain-columns-of-the-same-row-as-group-members-to-multiple-rows-1fcd)
-- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-505k)
+- [2025: A Great Start for Linkspreed and Web4](https://dev.to/web4/2025-a-great-start-for-linkspreed-and-web4-576h)
+- [Top Chrome extensions for web design in 2025](https://dev.to/paul_freeman/top-chrome-extensions-for-web-design-in-2025-1gah)
+- [Sidekick Bot - Generate Editable Designs With The Help of AI &lpar;ON HOLD&rpar;](https://dev.to/schemetastic/sidekick-bot-generate-editable-designs-with-the-help-of-ai-on-hold-3fpl)
+- [Top Mass Email Services for Reliable Bulk Email Delivery](https://dev.to/sam_devid_65bbbe34ab06c1a/top-mass-email-services-for-reliable-bulk-email-delivery-2kf0)
 <!-- BLOG-POST-LIST:END -->
 
 
