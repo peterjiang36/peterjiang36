@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zap: Unlock the Full Potential of Logging in Go](https://dev.to/leapcell/zap-unlock-the-full-potential-of-logging-in-go-3g3e)
-- [🛠️ Building Starts Here: How to Pick the Right Backend Framework for You](https://dev.to/abubakersiddique761/building-starts-here-how-to-pick-the-right-backend-framework-for-you-474d)
-- [Top 9 Features of the SharePoint Embedded VS Code Extension](https://dev.to/jaloplo/top-9-features-of-the-sharepoint-embedded-vs-code-extension-4mdk)
-- [Good practices for Vue Computed Properties](https://dev.to/jacobandrewsky/good-practices-for-vue-computed-properties-5gd7)
+- [🔥Awesome Git Chrome Extensions😎](https://dev.to/dev_kiran/awesome-git-chrome-extensions-3gla)
+- [Integrating APIs with frontend framework jQuery](https://dev.to/kelvincode1234/integrating-apis-with-frontend-framework-jquery-ccb)
+- [3 JavaScript Features That Make Your Life Easier As a Frontend Developer.](https://dev.to/majeedatwahab/3-javascript-features-that-make-your-life-easier-as-a-frontend-developer-o5d)
+- [Apt install specific version](https://dev.to/mehmetakar/apt-install-specific-version-4agf)
 <!-- BLOG-POST-LIST:END -->
 
 
