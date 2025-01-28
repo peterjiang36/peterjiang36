@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Could DeepSeek Be the Democratization of AI?](https://dev.to/brunociccarino/could-deepseek-be-the-democratization-of-ai-23ln)
-- [🤯 8 APIs to Make your Next Project 10x better ⚡️](https://dev.to/akshaycodes/8-apis-to-make-your-next-project-10x-better-3a9o)
-- [10 Hard-Earned Lessons &lpar;Plus One Bonus!&rpar; From Launching My First Startup](https://dev.to/digitaldrreamer/10-hard-earned-lessons-plus-one-bonus-from-launching-my-first-startup-71a)
-- [[Boost]](https://dev.to/akshaybond30160/-16ok)
+- [Run deepseek locally with webUI interface](https://dev.to/sahasrara62/run-deepseek-locally-with-webui-interface-4n65)
+- [Reflecting on 2024 in DevOps: Key Lessons, Challenges, and Looking Ahead to 2025](https://dev.to/therealadammusk/reflecting-on-2024-in-devops-key-lessons-challenges-and-looking-ahead-to-2025-3jom)
+- [Reflecting on 2024: Lessons Learned and Growth Achieved](https://dev.to/therealadammusk/reflecting-on-2024-lessons-learned-and-growth-achieved-521d)
+- [Why DevOps is a Game Changer for Modern Software Development](https://dev.to/therealadammusk/why-devops-is-a-game-changer-for-modern-software-development-1ab)
 <!-- BLOG-POST-LIST:END -->
 
 
