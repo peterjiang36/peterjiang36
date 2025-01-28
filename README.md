@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run deepseek locally with webUI interface](https://dev.to/sahasrara62/run-deepseek-locally-with-webui-interface-4n65)
-- [Reflecting on 2024 in DevOps: Key Lessons, Challenges, and Looking Ahead to 2025](https://dev.to/therealadammusk/reflecting-on-2024-in-devops-key-lessons-challenges-and-looking-ahead-to-2025-3jom)
-- [Reflecting on 2024: Lessons Learned and Growth Achieved](https://dev.to/therealadammusk/reflecting-on-2024-lessons-learned-and-growth-achieved-521d)
-- [Why DevOps is a Game Changer for Modern Software Development](https://dev.to/therealadammusk/why-devops-is-a-game-changer-for-modern-software-development-1ab)
+- [DeepSeek: How a $5.6 Million Breakthrough Could Reshape Global Tech and Markets](https://dev.to/wafa_bergaoui/deepseek-how-a-56-million-breakthrough-could-reshape-global-tech-and-markets-408a)
+- [Tiny with big numbers](https://dev.to/ykosinets/tiny-with-big-numbers-56ka)
+- [about me &lpar; Front-end Developer&rpar; Ehsan Yousefian](https://dev.to/ehsanyousefian/about-me-front-end-developer-ehsan-yousefian-1n2c)
+- [Principles of Web Accessibility](https://dev.to/alvaromontoro/principles-of-web-accessibility-1n78)
 <!-- BLOG-POST-LIST:END -->
 
 
