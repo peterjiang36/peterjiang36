@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is going to be a major discussion.](https://dev.to/ben/this-is-going-to-be-a-major-discussion-265l)
-- [Sharing this to DEV &lpar;and to you, showing off a new experimental subforem for talking tech from another perspective&rpar;](https://dev.to/ben/sharing-this-to-dev-and-to-you-showing-off-a-new-experimental-subforem-for-talking-tech-from-892)
-- [DeepSeek vs. ChatGPT and Gemini: Privacy Standards Compared](https://dev.to/dansasser/deepseek-vs-chatgpt-and-gemini-privacy-standards-compared-m4d)
-- [Stop Overcomplicating CSS: Master Layouts, Variables, and Modern Best Practices](https://dev.to/mikehtmlallthethings/stop-overcomplicating-css-master-layouts-variables-and-modern-best-practices-11cb)
+- [Running DeepSeek Janus-Pro-1B in the Browser: A Step-by-Step Guide](https://dev.to/emojiiii/running-deepseek-janus-pro-1b-in-the-browser-a-step-by-step-guide-kj2)
+- [¿Qué es ROSA y cómo simplifica Kubernetes en AWS?](https://dev.to/briansuarezsantiago/que-es-rosa-y-como-simplifica-kubernetes-en-aws-4bc5)
+- [Top 5 Canny Alternatives in 2025](https://dev.to/shayy/canny-alternative-1846)
+- [Untitled](https://dev.to/blodrayn46533/untitled-7h7)
 <!-- BLOG-POST-LIST:END -->
 
 
