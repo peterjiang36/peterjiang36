@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running DeepSeek Janus-Pro-1B in the Browser: A Step-by-Step Guide](https://dev.to/emojiiii/running-deepseek-janus-pro-1b-in-the-browser-a-step-by-step-guide-kj2)
+- [Running DeepSeek Janus-Pro-1B in the Browser: A Comprehensive Guide](https://dev.to/emojiiii/running-deepseek-janus-pro-1b-in-the-browser-a-step-by-step-guide-kj2)
+- [libuv e Lua](https://dev.to/joao_neto/libuv-e-lua-3d30)
+- [2025: Where I Am / Where I Want To Be](https://dev.to/bytehala/2025-digitally-nomadic-ke6)
 - [¿Qué es ROSA y cómo simplifica Kubernetes en AWS?](https://dev.to/briansuarezsantiago/que-es-rosa-y-como-simplifica-kubernetes-en-aws-4bc5)
-- [Top 5 Canny Alternatives in 2025](https://dev.to/shayy/canny-alternative-1846)
-- [Untitled](https://dev.to/blodrayn46533/untitled-7h7)
 <!-- BLOG-POST-LIST:END -->
 
 
