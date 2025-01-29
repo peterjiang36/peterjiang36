@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Networking: Key Interview Questions and Learning Points](https://dev.to/ryan_zhi/computer-networking-key-interview-questions-and-learning-points-4onf)
-- [Event Bubbling](https://dev.to/igor_grieder/event-bubbling-lea)
-- [Dica rápida: Rodando o DeepSeek &lpar;ou qualquer modelo&rpar; localmente](https://dev.to/angelobelchior/dica-rapida-rodando-o-deepseek-ou-qualquer-modelo-localmente-11ki)
-- [🚀 Docker Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/docker-tips-essential-tips-and-tricks-for-developers-4pl0)
+- [Understanding Kafka Keys: A Comprehensive Guide](https://dev.to/gyandeeps/understanding-kafka-keys-a-comprehensive-guide-2410)
+- [Automating 44 E2E Tests with AI-Powered Browser Control for Under $1](https://dev.to/pppp606/automating-44-e2e-tests-with-ai-powered-browser-control-for-under-1-3fbj)
+- [Help Validate a Vue.js Code Smell Catalog!](https://dev.to/joo_paulofreitasqueiro/help-validate-a-vuejs-code-smell-catalog-op8)
+- [Why Mobile-First Design is Crucial for Today’s Web](https://dev.to/orizon_7c665050ca98bfa866/why-mobile-first-design-is-crucial-for-todays-web-46ij)
 <!-- BLOG-POST-LIST:END -->
 
 
