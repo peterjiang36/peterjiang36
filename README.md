@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin for Java Developers &lpar;Part 3&rpar;](https://dev.to/florian_rser_58d39a640e2/kotlin-for-java-developers-part-3-22he)
-- [Animate Adding Items to Your Cart with cartflow, A Lightweight JavaScript Library](https://dev.to/nassiry/animate-adding-items-to-your-cart-with-cartflow-a-lightweight-javascript-library-3921)
-- [DeepSeek vs. ChatGPT: A Comprehensive Technical Comparison](https://dev.to/muhammad_mahdiramadhan/deepseek-vs-chatgpt-a-comprehensive-technical-comparison-4e3i)
-- [spring-010: spring-boot-bootstrapping-behind-the-scenes](https://dev.to/hunor85/spring-010-spring-boot-bootstrapping-behind-the-scenes-3hl1)
+- [Testing Is a Cross-Cutting Concern. So Are Databases](https://dev.to/metis/testing-is-a-cross-cutting-concern-so-are-databases-n0c)
+- [EngCode: The English-Like Programming Language for Everyone](https://dev.to/hope_igbinosa_4b6b14a4b0e/engcode-the-english-like-programming-language-for-everyone-34no)
+- [Untitled](https://dev.to/said_jeilani_bea409f2ddc7/untitled-3eia)
+- [Exploring CPU-Bound and I/O-Bound Tasks: Inside the libuv Library in Node.js](https://dev.to/leapcell/exploring-cpu-bound-and-io-bound-tasks-inside-the-libuv-library-in-nodejs-5581)
 <!-- BLOG-POST-LIST:END -->
 
 
