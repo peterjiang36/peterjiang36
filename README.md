@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Natural Language to Automated Tests: Simplifying UI Workflows with AI](https://dev.to/atreddy/from-natural-language-to-automated-tests-simplifying-ui-workflows-with-ai-568i)
-- [How to sell your non-profitable startup: I sold mine, and you can too](https://dev.to/alexdro/how-to-sell-your-non-profitable-startup-i-sold-mine-and-you-can-too-nai)
-- [Frontend Fundamentals 2/20](https://dev.to/c6z3h/frontend-fundamentals-220-15e7)
-- [The Ultimate Guide to Debugging Your Code](https://dev.to/kakacomputer-media/the-ultimate-guide-to-debugging-your-code-p8d)
+- [How to Set Up HashiCorp Vault on Kubernetes](https://dev.to/rajesh_kumar_36a2b4761e0d/how-to-set-up-hashicorp-vault-on-kubernetes-96d)
+- [GCP Workload Identity - Kubernetes Federation](https://dev.to/himaatluri/gcp-workload-identity-kubernetes-federation-1gh5)
+- [Understanding &quot;this&quot; in JavaScript and its behavior in various scenarios](https://dev.to/thedevricha/understanding-this-in-javascript-with-a-real-world-application-1l2i)
+- [How To Integrate TailwindCSS In React To Quickly Styling Our App?](https://dev.to/mroman7/how-to-integrate-tailwindcss-in-react-to-quickly-styling-our-app-30he)
 <!-- BLOG-POST-LIST:END -->
 
 
