@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to dockerize and deploy a Hono App](https://dev.to/code42cate/how-to-dockerize-and-deploy-a-hono-app-4mi9)
-- [Handling Layout Form Submission Inside a React Router Cookie Banner 🍪](https://dev.to/rgolawski/handling-layout-form-submission-inside-a-react-router-cookie-banner-55oj)
-- [Breaking into Tech](https://dev.to/emzydev/breaking-into-tech-4g9g)
-- [Running multiple MySQL versions on macOS: A Step-by-Step Guide](https://dev.to/musa11971/running-multiple-mysql-versions-on-macos-a-step-by-step-guide-4i24)
+- [Computer Networking: Key Interview Questions and Learning Points](https://dev.to/ryan_zhi/computer-networking-key-interview-questions-and-learning-points-4onf)
+- [Event Bubbling](https://dev.to/igor_grieder/event-bubbling-lea)
+- [Dica rápida: Rodando o DeepSeek &lpar;ou qualquer modelo&rpar; localmente](https://dev.to/angelobelchior/dica-rapida-rodando-o-deepseek-ou-qualquer-modelo-localmente-11ki)
+- [🚀 Docker Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/docker-tips-essential-tips-and-tricks-for-developers-4pl0)
 <!-- BLOG-POST-LIST:END -->
 
 
