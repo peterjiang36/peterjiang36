@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to access DeepSeek r1?](https://dev.to/punkpeye/how-to-access-deepseek-r1-44na)
-- [What is Snowflake’s Architecture? How is it Different from Traditional Databases?](https://dev.to/rodolfom-data/what-is-snowflakes-architecture-how-is-it-different-from-traditional-databases-29)
-- [Provide storage for the IT department testing and training.](https://dev.to/blessing_azeta_9a7b650577/provide-storage-for-the-it-department-testing-and-training-2fha)
-- [Hypermedia as the Engine of Application State &lpar;HATEOAS&rpar;](https://dev.to/lovestaco/hypermedia-as-the-engine-of-application-state-hateoas-245f)
+- [[pt-BR] Analisando Processos no Linux: Um Guia de Procedimentos Para o Dia a Dia](https://dev.to/marcos_vilela/pt-br-analisando-processos-no-linux-um-guia-de-procedimentos-para-o-dia-a-dia-226b)
+- [🚆 Building a Scalable Transport System with React &amp; Tailwind](https://dev.to/eze_ernest_62786560c8b5f3/building-a-scalable-transport-system-with-react-tailwind-198h)
+- [🚀 Introducing ByteAether.Ulid: A High-Performance .NET Library for ULIDs](https://dev.to/gigaherz/introducing-byteaetherulid-a-high-performance-net-library-for-ulids-3n0j)
+- [Hosting a Page with Nginx: A Newbie’s Journey](https://dev.to/mart_young_ce778e4c31eb33/hosting-a-page-with-nginx-a-newbies-journey-39i6)
 <!-- BLOG-POST-LIST:END -->
 
 
