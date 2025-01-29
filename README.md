@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running DeepSeek-R1 Model on Your Local Machine](https://dev.to/notarena/running-deepseek-r1-model-on-your-local-machine-5fcb)
-- [Code Smell 287 - Unused Local Assignment](https://dev.to/mcsee/code-smell-287-unused-local-assignment-490l)
-- [SEO 101: Navigating Robots.txt, Sitemaps, and Google Search Console](https://dev.to/rijultp/seo-101-navigating-robotstxt-sitemaps-and-google-search-console-4a0b)
-- [Exploring Beeptoolkit - IDE Soft Controller: Seeking Expert Opinions](https://dev.to/beeptec/exploring-beeptoolkit-ide-soft-controller-seeking-expert-opinions-3gc9)
+- [How to access DeepSeek r1?](https://dev.to/punkpeye/how-to-access-deepseek-r1-44na)
+- [What is Snowflake’s Architecture? How is it Different from Traditional Databases?](https://dev.to/rodolfom-data/what-is-snowflakes-architecture-how-is-it-different-from-traditional-databases-29)
+- [Provide storage for the IT department testing and training.](https://dev.to/blessing_azeta_9a7b650577/provide-storage-for-the-it-department-testing-and-training-2fha)
+- [Hypermedia as the Engine of Application State &lpar;HATEOAS&rpar;](https://dev.to/lovestaco/hypermedia-as-the-engine-of-application-state-hateoas-245f)
 <!-- BLOG-POST-LIST:END -->
 
 
