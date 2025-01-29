@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up HashiCorp Vault on Kubernetes](https://dev.to/rajesh_kumar_36a2b4761e0d/how-to-set-up-hashicorp-vault-on-kubernetes-96d)
-- [GCP Workload Identity - Kubernetes Federation](https://dev.to/himaatluri/gcp-workload-identity-kubernetes-federation-1gh5)
-- [Understanding &quot;this&quot; in JavaScript and its behavior in various scenarios](https://dev.to/thedevricha/understanding-this-in-javascript-with-a-real-world-application-1l2i)
-- [How To Integrate TailwindCSS In React To Quickly Styling Our App?](https://dev.to/mroman7/how-to-integrate-tailwindcss-in-react-to-quickly-styling-our-app-30he)
+- [Welcome Thread - v312](https://dev.to/devteam/welcome-thread-v312-3gmp)
+- [Cheating Lambda scalability](https://dev.to/aws-builders/cheating-lambda-scalability-1hgi)
+- [Using ARM-based GitHub Actions Runners for Workflows](https://dev.to/pradumnasaraf/using-arm-based-github-actions-runners-for-workflows-l6o)
+- [Detecting Browsers in JavaScript](https://dev.to/saiful7778/detecting-browsers-in-javascript-253m)
 <!-- BLOG-POST-LIST:END -->
 
 
