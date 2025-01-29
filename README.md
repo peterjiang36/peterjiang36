@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Is a Cross-Cutting Concern. So Are Databases](https://dev.to/metis/testing-is-a-cross-cutting-concern-so-are-databases-n0c)
-- [EngCode: The English-Like Programming Language for Everyone](https://dev.to/hope_igbinosa_4b6b14a4b0e/engcode-the-english-like-programming-language-for-everyone-34no)
-- [Untitled](https://dev.to/said_jeilani_bea409f2ddc7/untitled-3eia)
-- [Exploring CPU-Bound and I/O-Bound Tasks: Inside the libuv Library in Node.js](https://dev.to/leapcell/exploring-cpu-bound-and-io-bound-tasks-inside-the-libuv-library-in-nodejs-5581)
+- [Forward Proxy vs. Reverse Proxy: Understanding the Key Differences](https://dev.to/abhay_yt_52a8e72b213be229/forward-proxy-vs-reverse-proxy-understanding-the-key-differences-3ho0)
+- [IndexOf&lpar;&rpar;](https://dev.to/alisher0909/indexof-23bb)
+- [My NGINX Adventure: From Panic to Pride on a Fresh Ubuntu Server](https://dev.to/citatech232/my-nginx-adventure-from-panic-to-pride-on-a-fresh-ubuntu-server-24jb)
+- [Spring Boot r2dbc enum error - org.springframework.r2dbc.BadSqlGrammarException](https://dev.to/check__/spring-boot-r2dbc-enum-error-orgspringframeworkr2dbcbadsqlgrammarexception-2pl4)
 <!-- BLOG-POST-LIST:END -->
 
 
