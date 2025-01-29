@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflation is an important DEVIL](https://dev.to/yashvi_bhuva/inflation-is-an-important-devil-1di1)
-- [Authentication vs Authorization: Key Practices for Building Secure APIs](https://dev.to/getambassador2024/authentication-vs-authorization-key-practices-for-building-secure-apis-1nf)
-- [🚀 The Ultimate List of 27 Frontend Libraries for Creative Developers](https://dev.to/hadil/the-ultimate-list-of-27-frontend-libraries-for-creative-developers-15go)
-- [AI Data Agents - Why Your Business Needs Them in 2025](https://dev.to/flowtrail-admin/ai-data-agents-why-your-business-needs-them-in-2025-3hh9)
+- [Kotlin for Java Developers &lpar;Part 3&rpar;](https://dev.to/florian_rser_58d39a640e2/kotlin-for-java-developers-part-3-22he)
+- [Animate Adding Items to Your Cart with cartflow, A Lightweight JavaScript Library](https://dev.to/nassiry/animate-adding-items-to-your-cart-with-cartflow-a-lightweight-javascript-library-3921)
+- [DeepSeek vs. ChatGPT: A Comprehensive Technical Comparison](https://dev.to/muhammad_mahdiramadhan/deepseek-vs-chatgpt-a-comprehensive-technical-comparison-4e3i)
+- [spring-010: spring-boot-bootstrapping-behind-the-scenes](https://dev.to/hunor85/spring-010-spring-boot-bootstrapping-behind-the-scenes-3hl1)
 <!-- BLOG-POST-LIST:END -->
 
 
