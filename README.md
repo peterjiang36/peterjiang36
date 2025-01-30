@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [QuickSort - ordenando seus dados o mais rápido possível](https://dev.to/domgarotom/quicksort-ordenando-seus-dados-o-mais-rapido-possivel-13af)
-- [Before building product, connect the dots first](https://dev.to/rowsanali/before-building-product-connect-the-dots-first-5692)
-- [#100DAYSOFCODE: Day 2](https://dev.to/isaiahhtml/100daysofcode-day-2-1hm1)
-- [Migrating Azure Event Grid to Minimal API with FastEndpoints](https://dev.to/eelcolos/migrating-azure-event-grid-to-minimal-api-with-fastendpoints-515j)
+- [The Dead Letter Channel Enterprise Integration Pattern &lpar;EIP&rpar;: A Deep Dive](https://dev.to/igventurelli/the-dead-letter-channel-enterprise-integration-pattern-eip-a-deep-dive-2f2p)
+- [Using Firebase for ASP.NET authentication](https://dev.to/logrocket/using-firebase-for-aspnet-authentication-e27)
+- [UAT: A Quick Overview](https://dev.to/shipyard/uat-a-quick-overview-1go7)
+- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
 <!-- BLOG-POST-LIST:END -->
 
 
