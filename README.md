@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Key Concepts - Episode 1](https://dev.to/priya_sharma/react-key-concepts-episode-1-2k2b)
-- [HNG Stage 0: NGINX Web Server Task](https://dev.to/calebsgram/hng-stage-0-nginx-web-server-task-5f0j)
-- [Deploy DeepSeek R1 to AWS EC2](https://dev.to/fpmortal/deploy-deepseek-r1-to-aws-ec2-n78)
-- [Qwen 2.5 Max vs. DeepSeek V3 &lpar;R1&rpar; Benchmark](https://dev.to/mehmetakar/qwen-25-max-vs-deepseek-v3-r1-benchmark-49be)
+- [Multiple component variants with Tailwind](https://dev.to/railsdesigner/multiple-component-variants-with-tailwind-243c)
+- [Entenda GIT e GITHUB](https://dev.to/bughunterbr/entenda-git-e-github-1ikc)
+- [Passaporto Digitale del Prodotto: la guida per l’azienda?](https://dev.to/corradofacchini/passaporto-digitale-del-prodotto-la-guida-per-lazienda-33mb)
+- [Custom Multipart Request in Dart for Video Uploads](https://dev.to/saurabh_saha_bf5fd7abb989/custom-multipart-request-in-dart-for-video-uploads-38c7)
 <!-- BLOG-POST-LIST:END -->
 
 
