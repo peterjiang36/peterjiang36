@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerNoon beets Dev](https://dev.to/dansasser/hackernoon-beets-dev-3pig)
-- [This community is becoming a joke](https://dev.to/dansasser/this-community-is-becoming-a-joke-2dmh)
-- [I just had the discussion tagged removed from one of my post when it is clearly a very popular discussion. This platform is becoming a joke](https://dev.to/dansasser/i-just-had-the-discussion-tagged-removed-from-one-of-my-post-when-it-is-clearly-a-very-popular-4eoc)
-- [🚀 5 Open-Source Tools to Track PostgreSQL Performance Like a Pro!](https://dev.to/dct_technologyprivatelimited/5-open-source-tools-to-track-postgresql-performance-like-a-pro-5805)
+- [Meaningful Interactions in UI Design](https://dev.to/yujofficial/meaningful-interactions-in-ui-design-1med)
+- [🚀 Medical Admission System by Specialties](https://dev.to/jorge_medina_618dfeeedb4c/medical-admission-system-by-specialties-1ne3)
+- [That Beginner AWS Project You Can Practice With](https://dev.to/aws-builders/that-beginner-aws-project-you-can-practice-with-487f)
+- [Front-end Shovel 💩 Diary #1: Project Directory Structure Adjustment](https://dev.to/ourai/front-end-shovel-diary-1-project-directory-structure-adjustment-136g)
 <!-- BLOG-POST-LIST:END -->
 
 
