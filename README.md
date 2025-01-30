@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiple component variants with Tailwind](https://dev.to/railsdesigner/multiple-component-variants-with-tailwind-243c)
-- [Entenda GIT e GITHUB](https://dev.to/bughunterbr/entenda-git-e-github-1ikc)
-- [Passaporto Digitale del Prodotto: la guida per l’azienda?](https://dev.to/corradofacchini/passaporto-digitale-del-prodotto-la-guida-per-lazienda-33mb)
-- [Custom Multipart Request in Dart for Video Uploads](https://dev.to/saurabh_saha_bf5fd7abb989/custom-multipart-request-in-dart-for-video-uploads-38c7)
+- [The Rise of No-Code and Low-Code in Frontend Development: Opportunity or Threat?](https://dev.to/dainemawer/the-rise-of-no-code-and-low-code-in-frontend-development-opportunity-or-threat-ofa)
+- [Falsehoods Programmers Believe About Finance](https://dev.to/mdesenfants/falsehoods-programmers-believe-about-finance-53hm)
+- [Mastering Step-by-Step Reasoning in Prompts](https://dev.to/borba/mastering-step-by-step-reasoning-in-prompts-3mkb)
+- [The Magic of Theming](https://dev.to/nblackburn/the-magic-of-theming-4np9)
 <!-- BLOG-POST-LIST:END -->
 
 
