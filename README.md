@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dead Letter Channel Enterprise Integration Pattern &lpar;EIP&rpar;: A Deep Dive](https://dev.to/igventurelli/the-dead-letter-channel-enterprise-integration-pattern-eip-a-deep-dive-2f2p)
-- [Using Firebase for ASP.NET authentication](https://dev.to/logrocket/using-firebase-for-aspnet-authentication-e27)
-- [UAT: A Quick Overview](https://dev.to/shipyard/uat-a-quick-overview-1go7)
-- [React Scan - Best choise for FE dev](https://dev.to/nddev_18/react-scan-best-choise-for-fe-dev-1mnl)
+- [Building a strong employer brand in tech](https://dev.to/deborah_madu_03984faf7ae5/building-a-strong-employer-brand-in-tech-3dmc)
+- [Mastering TypeScript Utility and Advanced Types](https://dev.to/ahr_dev/mastering-typescript-utility-and-advanced-types-385c)
+- [&quot;Unlocking Quantum Potential: Innovations in Secure Multi-Party Computation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-innovations-in-secure-multi-party-computation-2g4h)
+- [Setting Up and Configuring NGINX on an Ubuntu Server.](https://dev.to/thelady_moh/setting-up-and-configuring-nginx-on-an-ubuntu-server-2hoi)
 <!-- BLOG-POST-LIST:END -->
 
 
