@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meaningful Interactions in UI Design](https://dev.to/yujofficial/meaningful-interactions-in-ui-design-1med)
-- [🚀 Medical Admission System by Specialties](https://dev.to/jorge_medina_618dfeeedb4c/medical-admission-system-by-specialties-1ne3)
-- [That Beginner AWS Project You Can Practice With](https://dev.to/aws-builders/that-beginner-aws-project-you-can-practice-with-487f)
-- [Front-end Shovel 💩 Diary #1: Project Directory Structure Adjustment](https://dev.to/ourai/front-end-shovel-diary-1-project-directory-structure-adjustment-136g)
+- [QuickSort - ordenando seus dados o mais rápido possível](https://dev.to/domgarotom/quicksort-ordenando-seus-dados-o-mais-rapido-possivel-13af)
+- [Before building product, connect the dots first](https://dev.to/rowsanali/before-building-product-connect-the-dots-first-5692)
+- [#100DAYSOFCODE: Day 2](https://dev.to/isaiahhtml/100daysofcode-day-2-1hm1)
+- [Migrating Azure Event Grid to Minimal API with FastEndpoints](https://dev.to/eelcolos/migrating-azure-event-grid-to-minimal-api-with-fastendpoints-515j)
 <!-- BLOG-POST-LIST:END -->
 
 
