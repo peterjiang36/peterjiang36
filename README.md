@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up NGINX on Ubuntu Server: My DevOps Stage Zero Task Experience](https://dev.to/lucy_76er/setting-up-nginx-on-ubuntu-server-my-devops-stage-zero-task-experience-59ob)
-- [Web Essentials](https://dev.to/____marcell/web-essentials-5cbk)
-- [10 GitHub Repositories Every Software Tester Should Explore](https://dev.to/anil_csimplifyit_905c/10-github-repositories-every-software-tester-should-explore-47ll)
-- [🚀 JavaScript Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/javascript-tips-essential-tips-and-tricks-for-developers-13ec)
+- [Day 1: Building a Tic-Tac-Toe Game with a Valentine’s Twist Using React](https://dev.to/damilola_oyeyipo_1348716f/building-a-tic-tac-toe-game-with-a-valentines-twist-using-react-292f)
+- [DevOps - NGINX Configuration](https://dev.to/mukumbuta/devops-nginx-configuration-b4n)
+- [Inserção de dados em massa em bancos relacionais](https://dev.to/viniciuslisboa07/insercao-de-dados-em-massa-em-bancos-relacionais-3ien)
+- [Configure Your Cloud Infrastructure using Terraform and AWS CLI: A Step-by-Step Tutorial](https://dev.to/ikelechia/configure-your-cloud-infrastructure-using-terraform-and-aws-cli-a-step-by-step-tutorial-9ag)
 <!-- BLOG-POST-LIST:END -->
 
 
