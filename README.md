@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent DNS Rebinding in Laravel: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-dns-rebinding-in-laravel-a-comprehensive-guide-4gmi)
-- [Microservices 101: Communication between services](https://dev.to/bulatgab/microservices-101-communication-between-services-4ea)
-- [“Indian Root Bridge” - Integration Approach to Connect Systems](https://dev.to/bhagvank/indian-root-bridge-integration-approach-to-connect-systems-77j)
-- [Embedding JSFiddle in dev.to Articles](https://dev.to/manoj_004d/embedding-jsfiddle-in-devto-articles-1in5)
+- [On inheritance and subtyping](https://dev.to/nfrankel/on-inheritance-and-subtyping-c4m)
+- [Validating configuration files with Raku and Sparrow Task::Check DSL](https://dev.to/melezhik/validating-config-files-with-raku-and-sparrow-taskcheck-dsl-1ekp)
+- [Advanced Web Development Insights: Lessons from Senior Developers](https://dev.to/smok/advanced-web-development-insights-lessons-from-senior-developers-4pjo)
+- [Integrating Kube-Prometheus with Your Operator Using Jsonnet Bundler &lpar;jb&rpar;](https://dev.to/aws-builders/integrating-kube-prometheus-with-your-operator-using-jsonnet-bundler-jb-5dop)
 <!-- BLOG-POST-LIST:END -->
 
 
