@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Power of Edge Computing and Distributed Systems! 🌐🚀](https://dev.to/lorebrada00/harnessing-the-power-of-edge-computing-and-distributed-systems-3c5i)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/iflames_1/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-dmd)
-- [Corporate Jargon Translation with Amazon Bedrock](https://dev.to/aws-builders/corporate-jargon-translation-with-amazon-bedrock-48ch)
-- [HTML and CSS crash course completed](https://dev.to/nosfuratoo1/html-and-css-crash-course-completed-4095)
+- [Setting Up NGINX on Ubuntu Server: My DevOps Stage Zero Task Experience](https://dev.to/lucy_76er/setting-up-nginx-on-ubuntu-server-my-devops-stage-zero-task-experience-59ob)
+- [Web Essentials](https://dev.to/____marcell/web-essentials-5cbk)
+- [10 GitHub Repositories Every Software Tester Should Explore](https://dev.to/anil_csimplifyit_905c/10-github-repositories-every-software-tester-should-explore-47ll)
+- [🚀 JavaScript Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/javascript-tips-essential-tips-and-tricks-for-developers-13ec)
 <!-- BLOG-POST-LIST:END -->
 
 
