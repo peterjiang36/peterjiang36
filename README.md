@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Browser Use Agent with DeepSeek: A Step-by-Step Guide](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59)
-- [maven-006: maven-classpath](https://dev.to/hunor85/maven-006-maven-classpath-3dn7)
-- [Starting up with Kubernetes](https://dev.to/pareekplatform/starting-up-with-kubernetes-1jae)
-- [Recursively Mapping Objects in JavaScript](https://dev.to/askyt/recursively-mapping-objects-in-javascript-5gne)
+- [You DO Need TanStack Query!](https://dev.to/simplr_sh/you-do-need-tanstack-query-293a)
+- [Unlocking the Power of React Component Libraries: Elevate Your Development Process](https://dev.to/sencha_reext/unlocking-the-power-of-react-component-libraries-elevate-your-development-process-2bjg)
+- [Authorization in Golang](https://dev.to/ortizdavid/authorization-in-golang-52oj)
+- [spring-014: mvn spring-boot:run-lifecycle-phases](https://dev.to/hunor85/spring-014-mvn-spring-bootrun-lifecycle-phases-18g9)
 <!-- BLOG-POST-LIST:END -->
 
 
