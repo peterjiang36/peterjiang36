@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EU AI Act Comming into Effect In February 2025](https://dev.to/eurlexa/eu-ai-act-comming-into-effect-and)
-- [Best Ci Tools To Streamline Your Testing Workflow](https://dev.to/keploy/best-ci-tools-to-streamline-your-testing-workflow-3dnh)
-- [Kybersanasto - XSS](https://dev.to/minjahakkeroi/kybersanasto-xss-1n05)
-- [Angular View Encapsulation - A Practical Guide to Component Styling](https://dev.to/manthanank/angular-view-encapsulation-a-practical-guide-to-component-styling-5df2)
+- [1 Billion Rows Challenge in PHP](https://dev.to/gfabrizi/1-billion-rows-challenge-in-php-5bpe)
+- [Emerging Tech Trends of 2025: What’s Shaping the Future?](https://dev.to/aneeqakhan/emerging-tech-trends-of-2025-whats-shaping-the-future-1kke)
+- [HNG DevOps Stage 0 - Setting Up Nginx on an Azure Virtual Machine](https://dev.to/ben-g/hng-devops-stage-0-setting-up-nginx-on-an-azure-virtual-machine-3oa2)
+- [Simple Yet Powerful: Building an In-Memory Async Event Bus in Python](https://dev.to/kuba_szw/simple-yet-powerful-building-an-in-memory-async-event-bus-in-python-3e8j)
 <!-- BLOG-POST-LIST:END -->
 
 
