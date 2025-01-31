@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis vs Memcached: Which In-Memory Data Store Should You Use?](https://dev.to/lovestaco/redis-vs-memcached-which-in-memory-data-store-should-you-use-1m38)
-- [🚀 Trello-Like Task Board with Video Uploads | React.js &amp; Firebase](https://dev.to/aqibbuttportfolio/trello-like-task-board-with-video-uploads-reactjs-firebase-2hoh)
-- [🚀 Understanding React Context and the Double Curly Braces in AuthContext.Provider 💡](https://dev.to/peeyush_tyagi_473a6b7f1e7/understanding-react-context-and-the-double-curly-braces-in-authcontextprovider-3mf3)
-- [A.I. Chat with your TypeScript Class &lpar;Every TypeScript Classes can be Super A.I. Chatbot&rpar;](https://dev.to/samchon/ai-chat-with-your-typescript-class-every-typescript-classes-can-be-super-ai-chatbot-51f)
+- [Newly Curated Must-Read Web Development Articles.](https://dev.to/dev-resources/newly-curated-must-read-web-development-articles-41ag)
+- [awesome](https://dev.to/brunociccarino/awesome-3p6e)
+- [Plan and main algorithms](https://dev.to/tmshbai/plan-and-main-algorithms-2c28)
+- [Llamas dancing](https://dev.to/arturampilogov/llamas-dancing-2688)
 <!-- BLOG-POST-LIST:END -->
 
 
