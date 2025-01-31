@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My First Python Calculator!](https://dev.to/thameemx/building-my-first-python-calculator-4jej)
-- [My IONIC Notes](https://dev.to/agussudarmanto/my-ionic-notes-2b84)
-- [Day 31 - Types of functions](https://dev.to/lakshmipritha/day-31-types-of-functions-28i2)
-- [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
+- [How to use Vercel Blob Storage with Python](https://dev.to/suryasekhar/how-to-use-vercel-blob-storage-with-python-3ko)
+- [6502 Math - Lab 2](https://dev.to/jurozaw/6502-math-lab-2-4adm)
+- [My first co-post!!](https://dev.to/robbenzo24/my-first-co-post-397l)
+- [PHP security](https://dev.to/ekopriyanto/php-security-40hj)
 <!-- BLOG-POST-LIST:END -->
 
 
