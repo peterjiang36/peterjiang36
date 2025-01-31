@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/oscar_morlet_28699383128a/-5a45)
-- [Analyzing the Dub.co analytics playbook](https://dev.to/tinybirdco/analyzing-the-dubco-analytics-playbook-30l9)
-- [Quick tip: Comparing OpenAI and Ollama using LangChain&#39;s SQLDatabaseToolkit](https://dev.to/singlestore/quick-tip-comparing-openai-and-ollama-using-langchains-sqldatabasetoolkit-46hm)
-- [HTTP METHOD AND STATUS CODE](https://dev.to/_sumayah/http-method-and-status-code-m1b)
+- [Flutter](https://dev.to/kameamea133/flutter-2co)
+- [Taking Control of Your Online Presence: Why Developers Need a Public Website](https://dev.to/qbqetell/taking-control-of-your-online-presence-why-developers-need-a-public-website-de3)
+- [Elevando seu Inglês com Ferramentas Tecnológicas](https://dev.to/ruanvictordev/elevando-seu-ingles-com-ferramentas-tecnologicas-5518)
+- [Unlocking Bit Manipulation Secrets!](https://dev.to/karell_stemarie_ce42bf9c/unlocking-bit-manipulation-secrets-1bh1)
 <!-- BLOG-POST-LIST:END -->
 
 
