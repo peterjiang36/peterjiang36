@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Here Are Some Productivity Tools That I Use Every Day](https://dev.to/devlawrence/here-are-some-productivity-tools-that-i-use-every-day-3p3b)
-- [Transcode video with open web services](https://dev.to/video/transcode-video-with-open-web-services-4p3e)
-- [CONFIGURING NGINX ON AN FRESH UBUNTU SERVER](https://dev.to/dheecloud/configuring-nginx-on-an-fresh-ubuntu-server-3pcp)
-- [[Boost]](https://dev.to/proxyos/-5j3)
+- [Automatizando Análises Financeiras com Python](https://dev.to/matheus_ronelle_96306406c/automatizando-analises-financeiras-com-python-1i4h)
+- [[Boost]](https://dev.to/joao1_antunes/-5dcj)
+- [JavaScript Object Literals: The Secret Weapon for Simpler Code](https://dev.to/joao1_antunes/javascript-object-literals-the-secret-weapon-for-simpler-code-c0n)
+- [Journey of Enhanced &amp; Mindful Architecture - Part 4](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-4-56ee)
 <!-- BLOG-POST-LIST:END -->
 
 
