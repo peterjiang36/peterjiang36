@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly Curated Must-Read Web Development Articles.](https://dev.to/dev-resources/newly-curated-must-read-web-development-articles-41ag)
-- [awesome](https://dev.to/brunociccarino/awesome-3p6e)
-- [Plan and main algorithms](https://dev.to/tmshbai/plan-and-main-algorithms-2c28)
-- [Llamas dancing](https://dev.to/arturampilogov/llamas-dancing-2688)
+- [JS not working](https://dev.to/the_html_dude/js-not-working-5aaf)
+- [How to Keep Avatar Size Fixed?](https://dev.to/joodi/how-to-keep-avatar-size-fixed-1a64)
+- [Transparency and trust discussion](https://dev.to/ben/transparency-and-trust-discussion-3d0e)
+- [Building a Next.js login page](https://dev.to/clerk/building-a-nextjs-login-page-2h87)
 <!-- BLOG-POST-LIST:END -->
 
 
