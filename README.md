@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JS not working](https://dev.to/the_html_dude/js-not-working-5aaf)
-- [How to Keep Avatar Size Fixed?](https://dev.to/joodi/how-to-keep-avatar-size-fixed-1a64)
-- [Transparency and trust discussion](https://dev.to/ben/transparency-and-trust-discussion-3d0e)
-- [Building a Next.js login page](https://dev.to/clerk/building-a-nextjs-login-page-2h87)
+- [I Tried Building a Component Library Using Tailwind CSS!](https://dev.to/lucky_6400/i-tried-building-a-component-library-using-tailwind-css-1o9d)
+- [Redux State Management - Dumps](https://dev.to/matthewzruiz/redux-state-management-dumps-4lk9)
+- [Découvrez Qwen-2.5-Max : Une Révolution dans le Domaine des Modèles Linguistiques](https://dev.to/taak61/decouvrez-qwen-25-max-une-revolution-dans-le-domaine-des-modeles-linguistiques-1641)
+- [Stop Hard-Coding API Keys: Why You Need Environment Variables Right Now](https://dev.to/jrud25/stop-hard-coding-api-keys-why-you-need-environment-variables-right-now-584n)
 <!-- BLOG-POST-LIST:END -->
 
 
