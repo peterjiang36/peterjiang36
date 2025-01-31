@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatizando Análises Financeiras com Python](https://dev.to/matheus_ronelle_96306406c/automatizando-analises-financeiras-com-python-1i4h)
-- [[Boost]](https://dev.to/joao1_antunes/-5dcj)
-- [JavaScript Object Literals: The Secret Weapon for Simpler Code](https://dev.to/joao1_antunes/javascript-object-literals-the-secret-weapon-for-simpler-code-c0n)
-- [Journey of Enhanced &amp; Mindful Architecture - Part 4](https://dev.to/aws-builders/journey-of-enhanced-mindful-architecture-part-4-56ee)
+- [Building My First Python Calculator!](https://dev.to/thameemx/building-my-first-python-calculator-4jej)
+- [My IONIC Notes](https://dev.to/agussudarmanto/my-ionic-notes-2b84)
+- [Day 31 - Types of functions](https://dev.to/lakshmipritha/day-31-types-of-functions-28i2)
+- [TailwindCSS v4.0: Upgrading from v3 with some plugins](https://dev.to/sirneij/tailwindcss-v40-upgrading-from-v3-with-some-plugins-572f)
 <!-- BLOG-POST-LIST:END -->
 
 
