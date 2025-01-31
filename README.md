@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Unlock the True Potential of Google&#39;s Gemini AI? This Guide Will Show You How!](https://dev.to/sayed_ali_alkamel/want-to-unlock-the-true-potential-of-googles-gemini-ai-this-guide-will-show-you-how-nmo)
-- [The Importance of Application Lifecycle Management &lpar;ALM&rpar;](https://dev.to/siva_velu_b39044a1dd3b732/the-importance-of-application-lifecycle-management-alm-2n1o)
-- [Laravel and Vue.js: A Powerful Combination for Modern Web Applications](https://dev.to/robin-ivi/laravel-and-vuejs-a-powerful-combination-for-modern-web-applications-5ajo)
-- [Avoiding State Inconsistencies: The Pitfall of Multiple React Context Providers](https://dev.to/rakshyak/avoiding-state-inconsistencies-the-pitfall-of-multiple-react-context-providers-4e29)
+- [🔥🌐 Web Development &amp; AI &lpar;ChatGPT VS Deepseek&rpar; 🚀](https://dev.to/hanzla-baig/web-development-ai-chatgpt-vs-deepseek-3fed)
+- [The Dynamics of Open Source Contributions: A Conversation From Both Ends of the Spectrum](https://dev.to/devmercy/the-dynamics-of-open-source-contributions-a-conversation-from-both-ends-of-the-spectrum-3nbb)
+- [How to Fix &quot;go.mod file not found&quot; Error in Go](https://dev.to/apondiart/-how-to-fix-gomod-file-not-found-error-in-go-4lg4)
+- [Usando Deepseek no Visual Studio Code de graça 💸](https://dev.to/razielrodrigues/usando-deepseek-no-visual-studio-code-de-graca-2764)
 <!-- BLOG-POST-LIST:END -->
 
 
