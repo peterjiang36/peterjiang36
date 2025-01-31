@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Building a Component Library Using Tailwind CSS!](https://dev.to/lucky_6400/i-tried-building-a-component-library-using-tailwind-css-1o9d)
-- [Redux State Management - Dumps](https://dev.to/matthewzruiz/redux-state-management-dumps-4lk9)
-- [Découvrez Qwen-2.5-Max : Une Révolution dans le Domaine des Modèles Linguistiques](https://dev.to/taak61/decouvrez-qwen-25-max-une-revolution-dans-le-domaine-des-modeles-linguistiques-1641)
-- [Stop Hard-Coding API Keys: Why You Need Environment Variables Right Now](https://dev.to/jrud25/stop-hard-coding-api-keys-why-you-need-environment-variables-right-now-584n)
+- [[Boost]](https://dev.to/oscar_morlet_28699383128a/-5a45)
+- [Analyzing the Dub.co analytics playbook](https://dev.to/tinybirdco/analyzing-the-dubco-analytics-playbook-30l9)
+- [Quick tip: Comparing OpenAI and Ollama using LangChain&#39;s SQLDatabaseToolkit](https://dev.to/singlestore/quick-tip-comparing-openai-and-ollama-using-langchains-sqldatabasetoolkit-46hm)
+- [HTTP METHOD AND STATUS CODE](https://dev.to/_sumayah/http-method-and-status-code-m1b)
 <!-- BLOG-POST-LIST:END -->
 
 
