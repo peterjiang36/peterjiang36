@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Data Mocking Explained: Advanced API Development Techniques](https://dev.to/getambassador2024/dynamic-data-mocking-explained-advanced-api-development-techniques-1457)
-- [Design Insights: Katie Dill Reviews Startup Websites](https://dev.to/jetthoughts/design-insights-katie-dill-reviews-startup-websites-492p)
-- [Deep Dive into Building AI Agents with LLMs](https://dev.to/subeshb1/deep-dive-into-building-ai-agents-with-llms-3d0p)
-- [🚀 Transform Your Chatbot Game with Multi-Agent Magic! 🤖](https://dev.to/techifysolutions/transform-your-chatbot-game-with-multi-agent-magic-1g60)
+- [EU AI Act Comming into Effect In February 2025](https://dev.to/eurlexa/eu-ai-act-comming-into-effect-and)
+- [Best Ci Tools To Streamline Your Testing Workflow](https://dev.to/keploy/best-ci-tools-to-streamline-your-testing-workflow-3dnh)
+- [Kybersanasto - XSS](https://dev.to/minjahakkeroi/kybersanasto-xss-1n05)
+- [Angular View Encapsulation - A Practical Guide to Component Styling](https://dev.to/manthanank/angular-view-encapsulation-a-practical-guide-to-component-styling-5df2)
 <!-- BLOG-POST-LIST:END -->
 
 
