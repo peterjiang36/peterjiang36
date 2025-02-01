@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter](https://dev.to/kameamea133/flutter-2co)
-- [Taking Control of Your Online Presence: Why Developers Need a Public Website](https://dev.to/qbqetell/taking-control-of-your-online-presence-why-developers-need-a-public-website-de3)
-- [Elevando seu Inglês com Ferramentas Tecnológicas](https://dev.to/ruanvictordev/elevando-seu-ingles-com-ferramentas-tecnologicas-5518)
-- [Unlocking Bit Manipulation Secrets!](https://dev.to/karell_stemarie_ce42bf9c/unlocking-bit-manipulation-secrets-1bh1)
+- [Deploying DeepSeek-R1-Distill-Qwen-1.5B on iPhone 16 Pro with Core ML and Microsoft AI Toolkit](https://dev.to/chatgptnexus/2025020110-24-43-article-4cjb)
+- [Datadog Agent Debugging Checklist](https://dev.to/jajera/datadog-agent-debugging-checklist-3ebo)
+- [🚀 React Patterns: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/react-patterns-essential-tips-and-tricks-for-developers-70l)
+- [The Cost of Quality in Software Testing: Understanding the Investment in Excellence](https://dev.to/radha_4c842d8e4362a7cdd9c/the-cost-of-quality-in-software-testing-understanding-the-investment-in-excellence-1ech)
 <!-- BLOG-POST-LIST:END -->
 
 
