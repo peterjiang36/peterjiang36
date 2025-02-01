@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CloudFormation Introducción. 1. VPC IPv4/IPv6. IaC. AWS Academy.](https://dev.to/aws-builders/aws-cloudformation-introduccion-1-vpc-ipv4ipv6-iac-aws-academy-5fg2)
-- [Implementando MongoDB no Symfony](https://dev.to/eunael/implementando-mongodb-no-symfony-2mob)
-- [The easiest way to set up and configure your AWS CLI](https://dev.to/aws-builders/the-easiest-way-to-set-up-and-configure-your-aws-cli-5g08)
-- [111/365 | ¥10M Job Challenge - OpenAI o3](https://dev.to/kameken100/111365-y10m-job-challenge-openai-o3-2c8j)
+- [Boa tarde, estou estudando react js. Ja criei um arquivo jsx menu, e ja importei esse arquivo no app.js. Como faço para deixar ele suspenso? Acho o menu dropdown um pouco dificil. Podem me ajudar por favor. Desde agradeço](https://dev.to/graziele_soares_e76d34e5f/boa-tarde-estou-estudando-react-js-ja-criei-um-arquivo-jsx-menu-e-ja-importei-esse-arquivo-no-3oh0)
+- [Building On Mina: A guide to writing smart contract implementing Merkle Trees using 01js](https://dev.to/babalasisi/building-on-mina-a-guide-to-writing-smart-contract-implementing-merkle-trees-using-01js-27fk)
+- [COMPILING 2025](https://dev.to/tito-string/compiling-2025-2kfn)
+- [PREDICTING 2025](https://dev.to/tito-string/predicting-2025-3a4i)
 <!-- BLOG-POST-LIST:END -->
 
 
