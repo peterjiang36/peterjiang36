@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Portfolio: Inspired by Apple, Powered by Web Technologies](https://dev.to/shahrushil09/building-my-portfolio-inspired-by-apple-powered-by-web-technologies-2a58)
-- [From AI Hype to Personal Growth: Lessons Learned in 2024](https://dev.to/tinymce/from-ai-hype-to-personal-growth-lessons-learned-in-2024-kb3)
-- [MapReduce Basics &lpar;Part 2&rpar;](https://dev.to/shrsv/mapreduce-basics-part-2-8ip)
-- [Witty Workflow - a TALL stack small business management tool](https://dev.to/kristi11/witty-workflow-a-tall-stack-small-business-management-tool-550e)
+- [AWS CloudFormation Introducción. 1. VPC IPv4/IPv6. IaC. AWS Academy.](https://dev.to/aws-builders/aws-cloudformation-introduccion-1-vpc-ipv4ipv6-iac-aws-academy-5fg2)
+- [Implementando MongoDB no Symfony](https://dev.to/eunael/implementando-mongodb-no-symfony-2mob)
+- [The easiest way to set up and configure your AWS CLI](https://dev.to/aws-builders/the-easiest-way-to-set-up-and-configure-your-aws-cli-5g08)
+- [111/365 | ¥10M Job Challenge - OpenAI o3](https://dev.to/kameken100/111365-y10m-job-challenge-openai-o3-2c8j)
 <!-- BLOG-POST-LIST:END -->
 
 
