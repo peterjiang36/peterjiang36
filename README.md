@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperbaric Chambers: Benefits, Risks, and the Alarming Safety Concerns](https://dev.to/samratd978/hyperbaric-chambers-benefits-risks-and-the-alarming-safety-concerns-3gbk)
-- [DeepSeek in VSCode, run locally](https://dev.to/evanmarie/deepseek-in-vscode-run-locally-4p2b)
-- [Understanding Incremental and Batch Updates in Android Apps: Leveraging App Bundles and CodePush](https://dev.to/devaaai/understanding-incremental-and-batch-updates-in-android-apps-leveraging-app-bundles-and-codepush-3pj1)
-- [Migrando sin estrés con AWS Application Migration Service](https://dev.to/briansuarezsantiago/migrando-sin-estres-con-aws-application-migration-service-1483)
+- [Mastering GitHub](https://dev.to/hema_22/mastering-github-3ep3)
+- [Elevando seu Inglês com Ferramentas Tecnológicas](https://dev.to/ruanvictordev/elevando-seu-ingles-com-ferramentas-tecnologicas-36ig)
+- [Java Stream API: 15 Interview Questions Every Developer Should Practice](https://dev.to/abhishek_tiwari_1df49b4f0/java-stream-api-15-interview-questions-every-developer-should-practice-54e0)
+- [# CodeTalks #4: Must-Watch Talks on the Vue &amp; Vite Ecosystem for Developers](https://dev.to/valpetaltechlabs/-codetalks-4-must-watch-talks-on-the-vue-vite-ecosystem-for-developers-4ihg)
 <!-- BLOG-POST-LIST:END -->
 
 
