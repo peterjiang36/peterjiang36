@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 HTTP Status Codes: A Comprehensive Guide to API Responses](https://dev.to/juniourrau/http-status-codes-a-comprehensive-guide-to-api-responses-13pm)
-- [WebForms.php Update to WebFormsJS 1.6](https://dev.to/elanatframework/webformsphp-update-to-webformsjs-16-pn6)
-- [First Steps with Git](https://dev.to/adrianogil/first-steps-with-git-5bfh)
-- [Configuring Nginx On Amazon EC2](https://dev.to/success_john_7a76d623a3b2/configuring-nginx-on-amazon-ec2-3dp0)
+- [Outsmarting the Clock: A Detective&#39;s Guide to Avoiding TLE in Programming](https://dev.to/sayed_ali_alkamel/outsmarting-the-clock-a-detectives-guide-to-avoiding-tle-in-programming-4845)
+- [How we slashed CI build time using Go’s cache](https://dev.to/siddhantkcode/how-we-slashed-ci-build-time-using-gos-cache-500f)
+- [Unraveling Image Classification: Understanding Classification Model Behavior in Different Approaches](https://dev.to/nikhil_reddy_/unraveling-image-classification-understanding-classification-model-behavior-in-different-approaches-lj0)
+- [Namespaces in Kubernetes Explained: 🔍 Understanding Isolation and Sharing](https://dev.to/favxlaw/namespaces-in-kubernetes-explained-understanding-isolation-and-sharing-5ki)
 <!-- BLOG-POST-LIST:END -->
 
 
