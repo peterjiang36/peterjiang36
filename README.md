@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up NGINX to Serve a Simple HTML Page](https://dev.to/anneusang/setting-up-nginx-to-serve-a-simple-html-page-2p4k)
-- [TE AMOOO 🫶🏻](https://dev.to/jorge_vera_0b0664a2c26b44/te-amooo-mdn)
-- [Integrating Cursor with Model Context Protocol &lpar;MCP&rpar;: A Developer&#39;s Guide](https://dev.to/chatgptnexus/2025020113-09-07-article-4onl)
-- [Quantum Computing and LLMs: Match Made in Heaven?](https://dev.to/aaronsteers/quantum-computing-and-llms-match-made-in-heaven-35fp)
+- [Is your React app struggling to rank on Google? 🤔](https://dev.to/dct_technologyprivatelimited/is-your-react-app-struggling-to-rank-on-google-3pai)
+- [Contains&lpar;&rpar;;](https://dev.to/_e7530225be583f1/contains-23ng)
+- [SQL vs. MongoDB](https://dev.to/anjali_gurjar_dff81513867/sql-vs-mongodb-1c74)
+- [Part 1: Creating an Azure storage account and configuring basic settings for security and networking: A step by step guide.](https://dev.to/essy/part-1-creating-an-azure-storage-account-and-configuring-basic-settings-for-security-and-4na2)
 <!-- BLOG-POST-LIST:END -->
 
 
