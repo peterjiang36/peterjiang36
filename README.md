@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from 2 Years of PR Reviews: 9 Coding Mistakes](https://dev.to/programmerraja/lessons-from-2-years-of-pr-reviews-9-coding-mistakes-5gdi)
-- [Trying to get my hands on the map object in DrawAttention Leaflet](https://dev.to/clifton_zama_80f95acf2967/trying-to-get-my-hands-on-the-map-object-in-drawattention-leaflet-3mf6)
-- [Growing as a Technical Leader: Lessons from the Book Staff Engineer](https://dev.to/omril321/growing-as-a-technical-leader-lessons-from-the-book-staff-engineer-4dod)
-- [Free Forex API for Trading Bots](https://dev.to/bradi/free-forex-api-for-trading-bots-4bde)
+- [3 вещи, которые я, как продуктовый фронтенд-разработчик, часто недооценивал](https://dev.to/sundaycoding/3-vieshchi-kotoryie-ia-kak-produktovyi-frontiend-razrabotchik-chasto-niedootsienival-nbf)
+- [Incident Response Essentials: Building a Resilient AWS Environment with Wazuh](https://dev.to/1percentnerd/incident-response-essentials-building-a-resilient-aws-environment-with-wazuh-13i3)
+- [Web Accessibility nima?](https://dev.to/diyordev/web-accessibility-nima-bib)
+- [From Doubt to Done: How I wrote my first blogpost](https://dev.to/bolaji_akinloye/how-i-wrote-my-first-blogpost-3ef3)
 <!-- BLOG-POST-LIST:END -->
 
 
