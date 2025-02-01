@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boa tarde, estou estudando react js. Ja criei um arquivo jsx menu, e ja importei esse arquivo no app.js. Como faço para deixar ele suspenso? Acho o menu dropdown um pouco dificil. Podem me ajudar por favor. Desde agradeço](https://dev.to/graziele_soares_e76d34e5f/boa-tarde-estou-estudando-react-js-ja-criei-um-arquivo-jsx-menu-e-ja-importei-esse-arquivo-no-3oh0)
-- [Building On Mina: A guide to writing smart contract implementing Merkle Trees using 01js](https://dev.to/babalasisi/building-on-mina-a-guide-to-writing-smart-contract-implementing-merkle-trees-using-01js-27fk)
-- [COMPILING 2025](https://dev.to/tito-string/compiling-2025-2kfn)
-- [PREDICTING 2025](https://dev.to/tito-string/predicting-2025-3a4i)
+- [🌐 HTTP Status Codes: A Comprehensive Guide to API Responses](https://dev.to/juniourrau/http-status-codes-a-comprehensive-guide-to-api-responses-13pm)
+- [WebForms.php Update to WebFormsJS 1.6](https://dev.to/elanatframework/webformsphp-update-to-webformsjs-16-pn6)
+- [First Steps with Git](https://dev.to/adrianogil/first-steps-with-git-5bfh)
+- [Configuring Nginx On Amazon EC2](https://dev.to/success_john_7a76d623a3b2/configuring-nginx-on-amazon-ec2-3dp0)
 <!-- BLOG-POST-LIST:END -->
 
 
