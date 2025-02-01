@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub](https://dev.to/hema_22/mastering-github-3ep3)
-- [Elevando seu Inglês com Ferramentas Tecnológicas](https://dev.to/ruanvictordev/elevando-seu-ingles-com-ferramentas-tecnologicas-36ig)
-- [Java Stream API: 15 Interview Questions Every Developer Should Practice](https://dev.to/abhishek_tiwari_1df49b4f0/java-stream-api-15-interview-questions-every-developer-should-practice-54e0)
-- [# CodeTalks #4: Must-Watch Talks on the Vue &amp; Vite Ecosystem for Developers](https://dev.to/valpetaltechlabs/-codetalks-4-must-watch-talks-on-the-vue-vite-ecosystem-for-developers-4ihg)
+- [&quot;Unlocking Efficiency: The Future of LLM Compression and 3D Model Integration&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-the-future-of-llm-compression-and-3d-model-integration-4674)
+- [Key Concepts in Operating Systems](https://dev.to/ryan_zhi/key-concepts-in-operating-systems-a7g)
+- [The State of Digital Payments in Gambia: A Look at Wave, Waychit, Gamswitch, and Modem Pay](https://dev.to/drantaz/the-state-of-digital-payments-in-gambia-a-look-at-wave-waychit-gamswitch-and-modem-pay-4k20)
+- [Installing Nvidia Datacenter GPU Manager on Amazon Linux 2023](https://dev.to/aws-builders/installing-nvidia-datacenter-gpu-manager-on-amazon-linux-2023-16hk)
 <!-- BLOG-POST-LIST:END -->
 
 
