@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which is the Best Way to Learn Ethical Hacking in 2025?](https://dev.to/ankit_cyber/which-is-the-best-way-to-learn-ethical-hacking-in-2025-2ko3)
-- [&quot;Mastering Dotfiles: Optimize Your Developer Workflow with Proven Strategies&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-dotfiles-optimize-your-developer-workflow-with-proven-strategies-jpm)
-- [AronVault: Guide to Safe and Best Data Storage](https://dev.to/imtiazmarwat/aronvault-guide-to-safe-and-best-data-storage-5g15)
-- [Understanding the Difference Between var, let, and const in JavaScript](https://dev.to/saji_janahiram_a4704bc095/understanding-the-difference-between-var-let-and-const-in-javascript-9nh)
+- [Lessons from 2 Years of PR Reviews: 9 Coding Mistakes](https://dev.to/programmerraja/lessons-from-2-years-of-pr-reviews-9-coding-mistakes-5gdi)
+- [Trying to get my hands on the map object in DrawAttention Leaflet](https://dev.to/clifton_zama_80f95acf2967/trying-to-get-my-hands-on-the-map-object-in-drawattention-leaflet-3mf6)
+- [Growing as a Technical Leader: Lessons from the Book Staff Engineer](https://dev.to/omril321/growing-as-a-technical-leader-lessons-from-the-book-staff-engineer-4dod)
+- [Free Forex API for Trading Bots](https://dev.to/bradi/free-forex-api-for-trading-bots-4bde)
 <!-- BLOG-POST-LIST:END -->
 
 
