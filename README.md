@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/drprime01/accessibility-in-frontend-development-building-inclusive-web-experiences-ek1)
-- [Building a Meme Battle Royale with SurrealDB and Gofr](https://dev.to/vaidehi_adhi_84b623a30da7/building-a-meme-battle-royale-with-surrealdb-and-gofr-9l6)
-- [General recommended VRAM Guidelines for LLMs](https://dev.to/simplr_sh/general-recommended-vram-guidelines-for-llms-4ef3)
-- [Weaponing Media as a Propaganda Tool: Analyzing the Role of Ethiopian Media in Shaping Narratives, Hate Speech, and Propaganda during the Tigray War](https://dev.to/tsigabuhaile/weaponing-media-as-a-propaganda-tool-analyzing-the-role-of-ethiopian-media-in-shaping-narratives-5f3d)
+- [How to measure Time Complexity and Space Complexity?](https://dev.to/jptlearn/how-to-measure-time-complexity-and-space-complexity-203p)
+- [What is Array.reduce in JavaScript?](https://dev.to/logannford/what-is-arrayreduce-in-javascript-3nbl)
+- [Hola mundo](https://dev.to/ggguille/hola-mundo-na4)
+- [Ransomware: A Wake-Up Call for the Digital Age](https://dev.to/victoruzoagba/ransomware-a-wake-up-call-for-the-digital-age-2687)
 <!-- BLOG-POST-LIST:END -->
 
 
