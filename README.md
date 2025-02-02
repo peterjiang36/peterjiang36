@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ Best Python Automation Project Ideas for Beginners](https://dev.to/tarunfulera1/20-best-python-automation-project-ideas-for-beginners-ci7)
-- [Amazon EC2 Setup &amp; Management](https://dev.to/godofgeeks/amazon-ec2-setup-management-12dj)
-- [JavaScript Functions Developers Should Know](https://dev.to/jenueldev/javascript-functions-developers-should-know-5f6f)
-- [Tanstack Router: The Future of Routing in React Applications](https://dev.to/asim786521/tanstack-router-the-future-of-routing-in-react-applications-3n5p)
+- [Let i =](https://dev.to/kelsey-d/let-i--3jc7)
+- [&quot;Unlocking 3D Vision: Innovations in Object Reconstruction and Generative Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-3d-vision-innovations-in-object-reconstruction-and-generative-models-nak)
+- [Command Injection in Laravel: How to Detect &amp; Prevent It](https://dev.to/pentest_testing_corp/command-injection-in-laravel-how-to-detect-prevent-it-3nnm)
+- [Exploring the Different Types of Manual Testing](https://dev.to/satheesh_madhavarapu_302a/exploring-the-different-types-of-manual-testing-1m8n)
 <!-- BLOG-POST-LIST:END -->
 
 
