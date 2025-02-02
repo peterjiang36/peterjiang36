@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Motion designer to Full Stack developer](https://dev.to/maxdlr/from-motion-designer-to-full-stack-developer-1329)
-- [AI DevOps Agent for Better CI](https://dev.to/cicubeteam/ai-devops-agent-for-better-ci-27ka)
-- [🚀 Kickstart Your Angular Projects with the Ultimate Starter Kit! 🚀](https://dev.to/wlucha/kickstart-your-angular-projects-with-the-ultimate-starter-kit-1cg7)
-- [Frontend Elegante y Eficiente con Patrones de Diseño](https://dev.to/iamadeveloper/frontend-elegante-y-eficiente-con-patrones-de-diseno-379e)
+- [I made SQL easy in Go](https://dev.to/mperkins808/i-made-sql-easy-in-go-4m4o)
+- [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://dev.to/jetthoughts/why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities-4mb3)
+- [Understanding Why Arrays Cannot Be Compared to `nil` but Slices Can in Go](https://dev.to/minuda_saswitha/understanding-why-arrays-cannot-be-compared-to-nil-but-slices-can-in-go-kjl)
+- [Why India’s AI Future Depends on You](https://dev.to/codedetech/why-indias-ai-future-depends-on-you-5gic)
 <!-- BLOG-POST-LIST:END -->
 
 
