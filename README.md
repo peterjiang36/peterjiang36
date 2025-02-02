@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Need Help Adding TI-84 Calculator to My Website](https://dev.to/abdulmuqeet663/need-help-adding-ti-84-calculator-to-my-website-42mj)
-- [How can I make the possible moves of the selected piece highlighted?](https://dev.to/zuiev/how-can-i-make-the-possible-moves-of-the-selected-piece-highlighted-3nn3)
-- [Exploring Terminal Growth Rates: Key Insights for Investors](https://dev.to/muhammad_umair_c7601885d6/exploring-terminal-growth-rates-key-insights-for-investors-392f)
-- [Configuring an NGINX web server on a fresh Ubuntu Server. HNG PROJECT-Devops Stage 0](https://dev.to/hussein_lawal_ffc2e2f5e72/configuring-an-nginx-web-server-on-a-fresh-ubuntu-server-hng-project-devops-stage-0-190b)
+- [Uma breve introdução à HashMap](https://dev.to/patriciaclares/uma-breve-introducao-a-hashmap-i62)
+- [*Terraform*](https://dev.to/fazly_fathhy/terraform-1pmj)
+- [Simple Demo for AWS CICD Pipeline](https://dev.to/cheedge_lee/simple-demo-for-aws-cicd-pipeline-2m0c)
+- [Conviértete en un experto en Solidity: Curso de cero a programador blockchain](https://dev.to/angel_rojas_6904bae237a0d/conviertete-en-un-experto-en-solidity-curso-de-cero-a-programador-blockchain-3fl9)
 <!-- BLOG-POST-LIST:END -->
 
 
