@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 JavaScript Tips for Beginners🚀](https://dev.to/mahmud-r-farhan/10-javascript-tips-for-beginners-51mk)
-- [From Engineering to Corporate :2024 Rewind](https://dev.to/rieesteves/from-engineering-to-corporate-2024-rewind-55dh)
-- [The Future of AI](https://dev.to/rishabh_raj_2b61a1c41b371/the-future-of-ai-3n2)
-- [Finetune: A One-Month Coding Challenge to Sharpen Your Skills! 🚀](https://dev.to/vulcanwm/finetune-a-one-month-coding-challenge-to-sharpen-your-skills-400l)
+- [Need Help Adding TI-84 Calculator to My Website](https://dev.to/abdulmuqeet663/need-help-adding-ti-84-calculator-to-my-website-42mj)
+- [How can I make the possible moves of the selected piece highlighted?](https://dev.to/zuiev/how-can-i-make-the-possible-moves-of-the-selected-piece-highlighted-3nn3)
+- [Exploring Terminal Growth Rates: Key Insights for Investors](https://dev.to/muhammad_umair_c7601885d6/exploring-terminal-growth-rates-key-insights-for-investors-392f)
+- [Configuring an NGINX web server on a fresh Ubuntu Server. HNG PROJECT-Devops Stage 0](https://dev.to/hussein_lawal_ffc2e2f5e72/configuring-an-nginx-web-server-on-a-fresh-ubuntu-server-hng-project-devops-stage-0-190b)
 <!-- BLOG-POST-LIST:END -->
 
 
