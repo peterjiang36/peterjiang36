@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LazyColumn with drag and drop elements. Part 2 Refactoring.](https://dev.to/mardsoul/lazycolumn-with-drag-and-drop-elements-part-2-refactoring-31fb)
-- [Untitled](https://dev.to/pshyam_pshyam_a87b3d9af49/untitled-5gdj)
-- [GenAI with LLMs in .NET using Microsoft.Extensions.AI](https://dev.to/lun_trng_e0afd1e1a1722/genai-with-llms-in-net-using-microsoftextensionsai-5fek)
-- [Digital garden - Revisitando meu processo de escrita](https://dev.to/figur8/digital-garden-revisitando-meu-processo-de-escrita-2nc6)
+- [Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/drprime01/accessibility-in-frontend-development-building-inclusive-web-experiences-ek1)
+- [Building a Meme Battle Royale with SurrealDB and Gofr](https://dev.to/vaidehi_adhi_84b623a30da7/building-a-meme-battle-royale-with-surrealdb-and-gofr-9l6)
+- [General recommended VRAM Guidelines for LLMs](https://dev.to/simplr_sh/general-recommended-vram-guidelines-for-llms-4ef3)
+- [Weaponing Media as a Propaganda Tool: Analyzing the Role of Ethiopian Media in Shaping Narratives, Hate Speech, and Propaganda during the Tigray War](https://dev.to/tsigabuhaile/weaponing-media-as-a-propaganda-tool-analyzing-the-role-of-ethiopian-media-in-shaping-narratives-5f3d)
 <!-- BLOG-POST-LIST:END -->
 
 
