@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy way to configure your kubeconfig and to debug your your EKS Cluster](https://dev.to/aws-builders/easy-way-to-configure-your-kubeconfig-and-to-debug-your-your-eks-cluster-3k5p)
-- [Tsonnet #2 - Cram tests to the rescue](https://dev.to/bitmaybewise/tsonnet-2-cram-tests-to-the-rescue-1jpd)
-- [Modern Invoice Generation with XSLT and React: A Seamless Integration Guide](https://dev.to/serifcolakel/modern-invoice-generation-with-xslt-and-react-a-seamless-integration-guide-25n8)
-- [Building a Scalable Web Application on AWS Using Core Services [Perfect for Beginners]](https://dev.to/aws-builders/building-a-scalable-web-application-on-aws-using-core-services-perfect-for-beginners-22h8)
+- [How to Build a Countdown Timer in C++ | Daily UI Challenge Day 14](https://dev.to/jds64/how-to-build-a-countdown-timer-in-c-daily-ui-challenge-day-14-2fmj)
+- [Feature Flags: Lessons From the Trenches - Part 1](https://dev.to/bdestrempes/feature-flags-lessons-from-the-trenches-part-1-1g31)
+- [How to use multiple JSX frameworks in Astro](https://dev.to/ryandotfurrer/how-to-use-multiple-jsx-frameworks-in-astro-3aef)
+- [The future of State Management in LWC: Understanding Signals](https://dev.to/leandrobrunner/the-future-of-state-management-in-lwc-understanding-signals-10p0)
 <!-- BLOG-POST-LIST:END -->
 
 
