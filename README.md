@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Unity] UI Animation - How does it work?](https://dev.to/tkkoi/unity-ui-animation-how-does-it-work-37el)
-- [Celebrating all contributions to the PostgreSQL project](https://dev.to/floord/celebrating-all-contributions-to-the-postgresql-project-31pf)
-- [How to Implement WebCam Recording on the Web Using JavaScript](https://dev.to/drprime01/how-to-implement-webcam-recording-on-the-web-using-javascript-1p4g)
-- [Wrapping Up C and Moving into C++](https://dev.to/adhyanjain2512/wrapping-up-c-and-moving-into-c-5e4d)
+- [Meme Monday](https://dev.to/ben/meme-monday-4efm)
+- [The Ultimate Showdown: Figma, Adobe XD, and Sketch for UI Design](https://dev.to/jetthoughts/the-ultimate-showdown-figma-adobe-xd-and-sketch-for-ui-design-50k7)
+- [Webpack: six things to know before you get started](https://dev.to/maryalice/webpack-six-things-to-know-before-you-get-started-247j)
+- [A must read! Very informative and eye opening.](https://dev.to/adesina_abdulraheem_f0ded/a-must-read-very-informative-and-eye-opening-11hb)
 <!-- BLOG-POST-LIST:END -->
 
 
