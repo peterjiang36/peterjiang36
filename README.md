@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Charge Customer Again After Order Using Stripe ?](https://dev.to/venvaukt_company/how-to-charge-customer-again-after-order-using-stripe--2ho4)
-- [CEH: Advanced Penetration Testing Guide](https://dev.to/borisgigovic/ceh-advanced-penetration-testing-guide-3ji0)
-- [JavaScript Memory Management: 10 Essential Techniques for Peak Performance](https://dev.to/aaravjoshi/javascript-memory-management-10-essential-techniques-for-peak-performance-2nfm)
-- [NGINX 102 Baby](https://dev.to/thekbbohara/nginx-102-baby-4im2)
+- [Why a Forex Rates API Is Essential for Your Financial Application](https://dev.to/bradi/why-a-forex-rates-api-is-essential-for-your-financial-application-53gn)
+- [Strategy Design Pattern in Java](https://dev.to/mspilari/strategy-design-pattern-in-java-a-practical-guide-4l7j)
+- [Building a Simple Powerful Chatbot Using ChromaDB and Sentence-Transformers](https://dev.to/msbala007/building-a-simple-powerful-chatbot-using-chromadb-and-sentence-transformers-4md)
+- [Frontend Fundamentals 5/20](https://dev.to/c6z3h/frontend-fundamentals-520-3nbp)
 <!-- BLOG-POST-LIST:END -->
 
 
