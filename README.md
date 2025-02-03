@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Layoffs Are Just Legacy Code Refactoring in Human Form](https://dev.to/hotfixhero/tech-layoffs-are-just-legacy-code-refactoring-in-human-form-5hc7)
-- [Building a Money–Making Blogging Website with DeepSeek AI](https://dev.to/resource_bunk_1077cab07da/building-a-money-making-blogging-website-with-deepseek-ai-3m63)
-- [Microservices Testing Cycles Are Too Slow](https://dev.to/signadot/microservices-testing-cycles-are-too-slow-1dbn)
-- [Doing a Job - Lessons from Adm. Rickover](https://dev.to/shrsv/a-re-reading-of-rickovers-doing-a-job-2pdk)
+- [AI Community Pulse &lpar;February 03, 2025&rpar;](https://dev.to/future_ai/ai-community-pulse-february-03-2025-16oa)
+- [How One Package Manager Library Inspired Me to Build My Own🚀](https://dev.to/serban_eusebiu/how-one-package-manager-library-inspired-me-to-build-my-own-5796)
+- [Benchmarking ChatGPT, Qwen, and DeepSeek on Real-World AI Tasks](https://dev.to/harsh317/benchmarking-chatgpt-qwen-and-deepseek-on-real-world-ai-tasks-3e3d)
+- [The Art of Splitting Stories: Breaking Down Features for Continuous Progress](https://dev.to/thomas_kowalski_b8aa0374b/the-art-of-splitting-stories-breaking-down-features-for-continuous-progress-2gbf)
 <!-- BLOG-POST-LIST:END -->
 
 
