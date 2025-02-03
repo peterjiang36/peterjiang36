@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [14 top developer tools to crack web3 development in 2025 🤑 💰](https://dev.to/composiodev/14-top-developer-tools-to-crack-web3-development-in-2025-5a5a)
-- [Building a Simple Rock, Paper, Scissors Game in Go](https://dev.to/m_muhd8/building-a-simple-rock-paper-scissors-game-in-go-gn3)
-- [Onlook: A React visual editor](https://dev.to/logrocket/onlook-a-react-visual-editor-1n23)
-- [Mastering Eloquent ORM: A Beginner&#39;s Guide to Laravel&#39;s Magic 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
+- [9 Next-Gen Developer Tools to Maximize Your Coding Efficiency 🧙‍♂️⚡](https://dev.to/madza/9-next-gen-developer-tools-to-maximize-your-coding-efficiency-2)
+- [Playwright Amazon Scraper: Products &amp; Reviews &lpar;Javascript&rpar;](https://dev.to/leapcell/playwright-amazon-scraper-products-reviews-5h9b)
+- [Desenvolvendo um Projeto do zero: Análise de Requisitos do Sistema — Parte 2](https://dev.to/andrelcnunes/desenvolvendo-um-projeto-do-zero-analise-de-requisitos-do-sistema-parte-2-39in)
+- [Exploitation d&#39;une base de données](https://dev.to/javascriptx/exploitation-dune-base-de-donnees-3ja2)
 <!-- BLOG-POST-LIST:END -->
 
 
