@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Next-Gen Developer Tools to Maximize Your Coding Efficiency 🧙‍♂️⚡](https://dev.to/madza/9-next-gen-developer-tools-to-maximize-your-coding-efficiency-2)
-- [Playwright Amazon Scraper: Products &amp; Reviews &lpar;Javascript&rpar;](https://dev.to/leapcell/playwright-amazon-scraper-products-reviews-5h9b)
-- [Desenvolvendo um Projeto do zero: Análise de Requisitos do Sistema — Parte 2](https://dev.to/andrelcnunes/desenvolvendo-um-projeto-do-zero-analise-de-requisitos-do-sistema-parte-2-39in)
-- [Exploitation d&#39;une base de données](https://dev.to/javascriptx/exploitation-dune-base-de-donnees-3ja2)
+- [AI and All Data #175 03 February 2025](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-175-03-february-2025-2hi3)
+- [Ng-News 25/05: Q&amp;A Angular Strategy, Outlook Angular 19.2 &amp; more](https://dev.to/this-is-angular/ng-news-2505-qa-angular-strategy-outlook-angular-192-more-1jb4)
+- [Ainda dá pra falar do DeepSeek?](https://dev.to/if_else/ainda-da-pra-falar-do-deepseek-2cjc)
+- [Data Pipeline Monitoring: Ensuring Reliable and Scalable Data Operations](https://dev.to/kapusto/data-pipeline-monitoring-ensuring-reliable-and-scalable-data-operations-990)
 <!-- BLOG-POST-LIST:END -->
 
 
