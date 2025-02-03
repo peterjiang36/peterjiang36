@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Newbie to Pro? Day 1 – How I Set Up My Java Dev Environment](https://dev.to/nabilbndev/java-newbie-to-pro-day-1-how-i-set-up-my-java-dev-environment-3859)
-- [Understanding the Event Loop](https://dev.to/godofgeeks/understanding-the-event-loop-159a)
-- [MVVM in Android: Best Practices for a Scalable Architecture](https://dev.to/kevinpetterson1993/mvvm-in-android-best-practices-for-a-scalable-architecture-2jf8)
-- [Why You Can’t Ignore Customer Lifetime Value: Insights for Growth](https://dev.to/soniya-dixit/why-you-cant-ignore-customer-lifetime-value-insights-for-growth-f3c)
+- [Building Ethical AI with Neurolov’s Decentralized GPU Platform](https://dev.to/neurolov_ai_/building-ethical-ai-with-neurolovs-decentralized-gpu-platform-1fhp)
+- [What is Deepseek AI used for?](https://dev.to/daksh_kataria_9c4197f3f7c/what-is-deepseek-ai-used-for-b6m)
+- [Better feedback in Code Reviews with Conventional Comments](https://dev.to/jacobandrewsky/better-feedback-in-code-reviews-with-conventional-comments-2c3k)
+- [&quot;Unlocking Precision Medicine: Overcoming Barriers to Polygenic Risk Scores&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-precision-medicine-overcoming-barriers-to-polygenic-risk-scores-5k)
 <!-- BLOG-POST-LIST:END -->
 
 
