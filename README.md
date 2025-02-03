@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and All Data #175 03 February 2025](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-175-03-february-2025-2hi3)
-- [Ng-News 25/05: Q&amp;A Angular Strategy, Outlook Angular 19.2 &amp; more](https://dev.to/this-is-angular/ng-news-2505-qa-angular-strategy-outlook-angular-192-more-1jb4)
-- [Ainda dá pra falar do DeepSeek?](https://dev.to/if_else/ainda-da-pra-falar-do-deepseek-2cjc)
-- [Data Pipeline Monitoring: Ensuring Reliable and Scalable Data Operations](https://dev.to/kapusto/data-pipeline-monitoring-ensuring-reliable-and-scalable-data-operations-990)
+- [Tech Layoffs Are Just Legacy Code Refactoring in Human Form](https://dev.to/hotfixhero/tech-layoffs-are-just-legacy-code-refactoring-in-human-form-5hc7)
+- [Building a Money–Making Blogging Website with DeepSeek AI](https://dev.to/resource_bunk_1077cab07da/building-a-money-making-blogging-website-with-deepseek-ai-3m63)
+- [Microservices Testing Cycles Are Too Slow](https://dev.to/signadot/microservices-testing-cycles-are-too-slow-1dbn)
+- [Doing a Job - Lessons from Adm. Rickover](https://dev.to/shrsv/a-re-reading-of-rickovers-doing-a-job-2pdk)
 <!-- BLOG-POST-LIST:END -->
 
 
