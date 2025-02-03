@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C++: The Invisible Engine of the Technological World](https://dev.to/marcosplusplus/c-the-invisible-engine-of-the-technological-world-492j)
-- [Learning Next.js? Want to up your career with Headless CMS? Start here.](https://dev.to/joelvarty/learning-nextjs-want-to-up-your-career-with-headless-cms-start-here-4jld)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/malkayne/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-3jl3)
-- [C++: O Motor Invisível do Mundo Tecnológico](https://dev.to/marcosplusplus/c-o-motor-invisivel-do-mundo-tecnologico-1f93)
+- [Time and Space Complexity: A Mind-Bending Adventure into the Realm of Efficient Algorithms!](https://dev.to/sayed_ali_alkamel/time-and-space-complexity-a-mind-bending-adventure-into-the-realm-of-efficient-algorithms-530g)
+- [Outgrowing Postgres: How to identify scale problems](https://dev.to/tbperegrine/outgrowing-postgres-how-to-identify-scale-problems-ggk)
+- [Unlocking the Power of Batch Processing with Spring Boot: A Deep Dive into Steps](https://dev.to/thiago_souza_1510/unlocking-the-power-of-batch-processing-with-spring-boot-a-deep-dive-into-steps-m70)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/somtoochukwu/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4k0l)
 <!-- BLOG-POST-LIST:END -->
 
 
