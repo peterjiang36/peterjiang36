@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Community Pulse &lpar;February 03, 2025&rpar;](https://dev.to/future_ai/ai-community-pulse-february-03-2025-16oa)
-- [How One Package Manager Library Inspired Me to Build My Own🚀](https://dev.to/serban_eusebiu/how-one-package-manager-library-inspired-me-to-build-my-own-5796)
-- [Benchmarking ChatGPT, Qwen, and DeepSeek on Real-World AI Tasks](https://dev.to/harsh317/benchmarking-chatgpt-qwen-and-deepseek-on-real-world-ai-tasks-3e3d)
-- [The Art of Splitting Stories: Breaking Down Features for Continuous Progress](https://dev.to/thomas_kowalski_b8aa0374b/the-art-of-splitting-stories-breaking-down-features-for-continuous-progress-2gbf)
+- [Mastering the Art of Search: Tips](https://dev.to/ismah/mastering-the-art-of-search-tips-4p26)
+- [Extremely enlightening](https://dev.to/nullandvoid/extremely-enlightening-19mg)
+- [TIL: Slowly Changing Dimensions &lpar;SCD&rpar; in Data Warehousing](https://dev.to/pauletart/understanding-slowly-changing-dimensions-scd-in-data-warehousing-25fa)
+- [Big Issues in Vue 3: What Developers Need to Know](https://dev.to/mostafa_samir_fe0bbfde587/big-issues-in-vue-3-what-developers-need-to-know-4ekj)
 <!-- BLOG-POST-LIST:END -->
 
 
