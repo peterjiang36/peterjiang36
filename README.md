@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a Forex Rates API Is Essential for Your Financial Application](https://dev.to/bradi/why-a-forex-rates-api-is-essential-for-your-financial-application-53gn)
-- [Strategy Design Pattern in Java](https://dev.to/mspilari/strategy-design-pattern-in-java-a-practical-guide-4l7j)
-- [Building a Simple Powerful Chatbot Using ChromaDB and Sentence-Transformers](https://dev.to/msbala007/building-a-simple-powerful-chatbot-using-chromadb-and-sentence-transformers-4md)
-- [Frontend Fundamentals 5/20](https://dev.to/c6z3h/frontend-fundamentals-520-3nbp)
+- [Building a Markdown blog with links optimized for Gatsby](https://dev.to/jonesbeach/building-a-markdown-blog-with-links-optimized-for-gatsby-3lce)
+- [📰 CAG building infra &amp; processes to harness AI&amp;ML: Sanjay Murthy](https://dev.to/d_thiranjaya_6d3ec4552111/cag-building-infra-processes-to-harness-aiml-sanjay-murthy-1pn6)
+- [closures in js](https://dev.to/asda/closures-in-js-3mi2)
+- [Scheduling in Effect: Understanding and Implementing](https://dev.to/khraks_mamtsov/scheduling-in-effect-understanding-and-implementing-1j70)
 <!-- BLOG-POST-LIST:END -->
 
 
