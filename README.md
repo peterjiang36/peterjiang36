@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4efm)
-- [The Ultimate Showdown: Figma, Adobe XD, and Sketch for UI Design](https://dev.to/jetthoughts/the-ultimate-showdown-figma-adobe-xd-and-sketch-for-ui-design-50k7)
-- [Webpack: six things to know before you get started](https://dev.to/maryalice/webpack-six-things-to-know-before-you-get-started-247j)
-- [A must read! Very informative and eye opening.](https://dev.to/adesina_abdulraheem_f0ded/a-must-read-very-informative-and-eye-opening-11hb)
+- [14 top developer tools to crack web3 development in 2025 🤑 💰](https://dev.to/composiodev/14-top-developer-tools-to-crack-web3-development-in-2025-5a5a)
+- [Building a Simple Rock, Paper, Scissors Game in Go](https://dev.to/m_muhd8/building-a-simple-rock-paper-scissors-game-in-go-gn3)
+- [Onlook: A React visual editor](https://dev.to/logrocket/onlook-a-react-visual-editor-1n23)
+- [Mastering Eloquent ORM: A Beginner&#39;s Guide to Laravel&#39;s Magic 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
 <!-- BLOG-POST-LIST:END -->
 
 
