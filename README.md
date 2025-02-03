@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Countdown Timer in C++ | Daily UI Challenge Day 14](https://dev.to/jds64/how-to-build-a-countdown-timer-in-c-daily-ui-challenge-day-14-2fmj)
-- [Feature Flags: Lessons From the Trenches - Part 1](https://dev.to/bdestrempes/feature-flags-lessons-from-the-trenches-part-1-1g31)
-- [How to use multiple JSX frameworks in Astro](https://dev.to/ryandotfurrer/how-to-use-multiple-jsx-frameworks-in-astro-3aef)
-- [The future of State Management in LWC: Understanding Signals](https://dev.to/leandrobrunner/the-future-of-state-management-in-lwc-understanding-signals-10p0)
+- [Javascript Prototypal Inheritance once and for all](https://dev.to/mmvergara/prototypal-inheritance-4c6k)
+- [While loop:](https://dev.to/kaviyak/while-loop-p2e)
+- [From Nurse to Software Engineer: My Journey](https://dev.to/rossrosales/from-nurse-to-software-engineer-my-journey-152e)
+- [What is Full-Stack Development? 🌍💻](https://dev.to/erasmuskotoka/what-is-full-stack-development-46c0)
 <!-- BLOG-POST-LIST:END -->
 
 
