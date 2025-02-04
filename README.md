@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Internationalization to a Tailwind CSS Admin Template](https://dev.to/hitesh_developer/how-to-add-internationalization-to-a-tailwind-css-admin-template-2lpc)
-- [Analisi del livello di granularità del Digital Product Passport. Modello, lotto o articolo: quale scegliere?](https://dev.to/corradofacchini/analisi-del-livello-di-granularita-del-digital-product-passport-modello-lotto-o-articolo-quale-2346)
-- [What is DeepSeek AI and how is it disrupting the AI sector?](https://dev.to/solutelabs/what-is-deepseek-ai-and-how-is-it-disrupting-the-ai-sector-5h55)
-- [Ask Gordon: Docker&#39;s AI-Powered Assistant for Developers 🚀](https://dev.to/krishnaaher/ask-gordon-dockers-ai-powered-assistant-for-developers-19kj)
+- [Backend Development with Node.js](https://dev.to/bitthal47/backend-development-with-nodejs-183n)
+- [[Qt] III. Hello, World!](https://dev.to/misinahaiya/qt-iii-hello-world-34o2)
+- [🚀 Master JavaScript in 2 Hours: Complete Beginner to Advanced Course](https://dev.to/ebereplenty/master-javascript-in-2-hours-complete-beginner-to-advanced-course-4d53)
+- [Crazy Biotech Innovations That Sound Like Sci-Fi!](https://dev.to/biopractify_team_69ab4279/crazy-biotech-innovations-that-sound-like-sci-fi-4l5d)
 <!-- BLOG-POST-LIST:END -->
 
 
