@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance/Sonic: A Lightning-Fast JSON Library for Go](https://dev.to/trungdlp/bytedancesonic-a-lightning-fast-json-library-for-go-1931)
-- [Simple Note app built with Clean Architecture and C4 Model](https://dev.to/vukhanhtruong/simple-note-app-built-with-clean-architecture-and-c4-model-dg1)
-- [The significance of Licensing and Insurance coverage in Your HVAC Selection Process](https://dev.to/lucianoandsons647/the-significance-of-licensing-and-insurance-coverage-in-your-hvac-selection-process-40cm)
-- [🚀 Revolutionizing DevOps Debugging with DevOps-GPT &amp; OpenAI!🚀](https://dev.to/lakhera2015/revolutionizing-devops-debugging-with-devops-gpt-openai-1f9c)
+- [The process of creating an effective Application Security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-4g63)
+- [Making an Effective Application Security Programm: Strategies, techniques and tools for the best outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-programm-strategies-techniques-and-tools-for-the-best-9jc)
+- [The process of creating an effective Application Security Program: Strategies, Practices, and Tools for Optimal outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-program-strategies-practices-and-tools-41a8)
+- [Designing a successful Application Security program: Strategies, Tips and the right tools to achieve optimal End-to-End Results](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-tips-and-the-right-tools-to-4132)
 <!-- BLOG-POST-LIST:END -->
 
 
