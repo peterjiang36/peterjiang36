@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Validador Customizado no Spring usando `Validator`](https://dev.to/uiratan/criando-um-validador-customizado-no-spring-usando-validator-46kd)
-- [Deploying an AWS EC2 Instance with Terraform and SSH Access](https://dev.to/bansikah/deploying-an-aws-ec2-instance-with-terraform-and-ssh-access-d09)
-- [Cloud-Native Monitoring Tools](https://dev.to/574n13y/cloud-native-monitoring-tools-58kg)
-- [Building a Domain Analysis Tool: Memoirs of a Frontend Engineer](https://dev.to/jinlo/building-a-domain-analysis-tool-memoirs-of-a-frontend-engineer-20j1)
+- [🚀 Kicking Off My Python Journey!](https://dev.to/numpyninja/kicking-off-my-python-journey-26fd)
+- [Two Pointer&lpar;java&rpar;;](https://dev.to/vasanthvnr_31/two-pointerjava-2b6c)
+- [[Boost]](https://dev.to/gkampitakis/-4c5)
+- [Batch Processing Large Datasets in Node.js Without Running Out of Memory](https://dev.to/rabindratamang/batch-processing-large-datasets-in-nodejs-without-running-out-of-memory-9a1)
 <!-- BLOG-POST-LIST:END -->
 
 
