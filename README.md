@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/oluwabukunmi14/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4a6p)
-- [TailWindCSS: The Backbone of Modern UI Development at Picco Talent Developers](https://dev.to/manavbhati25/tailwindcss-the-backbone-of-modern-ui-development-at-picco-talent-developers-2c2e)
-- [Build a containerized PDF to Markdown converter using Docling and Streamlit ☁️](https://dev.to/aairom/build-a-containerized-pdf-to-markdown-converter-using-docling-and-streamlit-547o)
-- [New: Detect Drift Within Minutes—Even Before Full Onboarding](https://dev.to/env0/new-detect-drift-within-minutes-even-before-full-onboarding-12f3)
+- [From pain to productivity: How I learned to code with my voice](https://dev.to/whitep4nth3r/from-pain-to-productivity-how-i-learned-to-code-with-my-voice-3099)
+- [Untapped Potential of Blockchain: A World beyond Cryptocurreny](https://dev.to/dfordp/untapped-potential-of-blockchain-a-world-beyond-cryptocurreny-3nm0)
+- [Implémentation d&#39;une Authentification JWT Complète en FastAPI](https://dev.to/pemochamdev/implementation-dune-authentification-jwt-complete-en-fastapi-5gjb)
+- [Développement d&#39;une application](https://dev.to/javascriptx/developpement-dune-application-465h)
 <!-- BLOG-POST-LIST:END -->
 
 
