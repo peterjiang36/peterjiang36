@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Radio](https://dev.to/preetha_vaishnavi_2b82358/radio-2gp7)
-- [Loader](https://dev.to/preetha_vaishnavi_2b82358/loader-3fmg)
-- [Button](https://dev.to/preetha_vaishnavi_2b82358/button-4h5p)
-- [🎙️ The future of Test Data Provisioning: Why automation is essential](https://dev.to/gigantics/the-future-of-test-data-provisioning-why-automation-is-essential-4fja)
+- [Daily Quantum Learning #6 - Quantum Communication and Quantum Key Distribution](https://dev.to/quantumashx/daily-quantum-learning-6-quantum-communication-and-quantum-key-distribution-4kdg)
+- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-272a)
+- [Actor Model Overview](https://dev.to/actor-swe/actor-model-overview-5fd3)
+- [🚀 Build Dashboard Using Google Sheets API 🚀](https://dev.to/saurabh_saha_bf5fd7abb989/build-dashboard-using-google-sheets-api-2fad)
 <!-- BLOG-POST-LIST:END -->
 
 
