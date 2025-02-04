@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Development with Node.js](https://dev.to/bitthal47/backend-development-with-nodejs-183n)
-- [[Qt] III. Hello, World!](https://dev.to/misinahaiya/qt-iii-hello-world-34o2)
-- [🚀 Master JavaScript in 2 Hours: Complete Beginner to Advanced Course](https://dev.to/ebereplenty/master-javascript-in-2-hours-complete-beginner-to-advanced-course-4d53)
-- [Crazy Biotech Innovations That Sound Like Sci-Fi!](https://dev.to/biopractify_team_69ab4279/crazy-biotech-innovations-that-sound-like-sci-fi-4l5d)
+- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
+- [Flutter vs. React Native: The Ultimate Developer’s Guide for 2025](https://dev.to/fabbuilder/flutter-vs-react-native-the-ultimate-developers-guide-for-2025-228m)
+- [Now Anyone Can Code: How AI Agents Can Build Your Whole App](https://dev.to/jetthoughts/now-anyone-can-code-how-ai-agents-can-build-your-whole-app-3146)
+- [Mastering AWS DevOps: A Complete Guide for Beginners](https://dev.to/shaik_muskansultana_f054/mastering-aws-devops-a-complete-guide-for-beginners-5eh9)
 <!-- BLOG-POST-LIST:END -->
 
 
