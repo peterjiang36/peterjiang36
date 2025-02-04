@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From pain to productivity: How I learned to code with my voice](https://dev.to/whitep4nth3r/from-pain-to-productivity-how-i-learned-to-code-with-my-voice-3099)
-- [Untapped Potential of Blockchain: A World beyond Cryptocurreny](https://dev.to/dfordp/untapped-potential-of-blockchain-a-world-beyond-cryptocurreny-3nm0)
-- [Implémentation d&#39;une Authentification JWT Complète en FastAPI](https://dev.to/pemochamdev/implementation-dune-authentification-jwt-complete-en-fastapi-5gjb)
-- [Développement d&#39;une application](https://dev.to/javascriptx/developpement-dune-application-465h)
+- [While loop task](https://dev.to/v_inoth_f0fad29baec4c/while-loop-task-4n3)
+- [Meteor 3.1.1 is here!](https://dev.to/meteor/meteor-311-is-here-1meo)
+- [Exploring TypeScript 5.8 Beta: Smarter Returns, Improved Module Support, and More](https://dev.to/martinrojas/exploring-typescript-58-beta-smarter-returns-improved-module-support-and-more-4obi)
+- [Amazon IQ](https://dev.to/komallm/amazon-iq-53m0)
 <!-- BLOG-POST-LIST:END -->
 
 
