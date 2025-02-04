@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Quantum Learning #6 - Quantum Communication and Quantum Key Distribution](https://dev.to/quantumashx/daily-quantum-learning-6-quantum-communication-and-quantum-key-distribution-4kdg)
-- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-272a)
-- [Actor Model Overview](https://dev.to/actor-swe/actor-model-overview-5fd3)
-- [🚀 Build Dashboard Using Google Sheets API 🚀](https://dev.to/saurabh_saha_bf5fd7abb989/build-dashboard-using-google-sheets-api-2fad)
+- [No, Wall Street, DeepSeek is not &quot;far superior&quot;](https://dev.to/alexjitbit/no-wall-street-deepseek-is-not-far-superior-51c7)
+- [How to Run DeepSeek R1 Locally on Your PC](https://dev.to/chemenggcalc/how-to-run-deepseek-r1-locally-on-your-pc-162i)
+- [Going Global with Serverless: Multi-Region Architectures on AWS](https://dev.to/aws-builders/going-global-with-serverless-multi-region-architectures-on-aws-2k8n)
+- [Building Robust Serverless Workflows with AWS Step Functions: Long-Running Order Fulfillment with Retries and Human Approvals](https://dev.to/sudoconsultants/building-robust-serverless-workflows-with-aws-step-functions-long-running-order-fulfillment-with-8ff)
 <!-- BLOG-POST-LIST:END -->
 
 
