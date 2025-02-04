@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀My Portfolio is Now Open Source!](https://dev.to/ahmed_tabib_ts/my-portfolio-is-now-open-source-4lpb)
-- [Flutter vs. React Native: The Ultimate Developer’s Guide for 2025](https://dev.to/fabbuilder/flutter-vs-react-native-the-ultimate-developers-guide-for-2025-228m)
-- [Now Anyone Can Code: How AI Agents Can Build Your Whole App](https://dev.to/jetthoughts/now-anyone-can-code-how-ai-agents-can-build-your-whole-app-3146)
-- [Mastering AWS DevOps: A Complete Guide for Beginners](https://dev.to/shaik_muskansultana_f054/mastering-aws-devops-a-complete-guide-for-beginners-5eh9)
+- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/oluwabukunmi14/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4a6p)
+- [TailWindCSS: The Backbone of Modern UI Development at Picco Talent Developers](https://dev.to/manavbhati25/tailwindcss-the-backbone-of-modern-ui-development-at-picco-talent-developers-2c2e)
+- [Build a containerized PDF to Markdown converter using Docling and Streamlit ☁️](https://dev.to/aairom/build-a-containerized-pdf-to-markdown-converter-using-docling-and-streamlit-547o)
+- [New: Detect Drift Within Minutes—Even Before Full Onboarding](https://dev.to/env0/new-detect-drift-within-minutes-even-before-full-onboarding-12f3)
 <!-- BLOG-POST-LIST:END -->
 
 
