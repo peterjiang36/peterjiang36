@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [While loop task](https://dev.to/v_inoth_f0fad29baec4c/while-loop-task-4n3)
-- [Meteor 3.1.1 is here!](https://dev.to/meteor/meteor-311-is-here-1meo)
-- [Exploring TypeScript 5.8 Beta: Smarter Returns, Improved Module Support, and More](https://dev.to/martinrojas/exploring-typescript-58-beta-smarter-returns-improved-module-support-and-more-4obi)
-- [Amazon IQ](https://dev.to/komallm/amazon-iq-53m0)
+- [Criando um Validador Customizado no Spring usando `Validator`](https://dev.to/uiratan/criando-um-validador-customizado-no-spring-usando-validator-46kd)
+- [Deploying an AWS EC2 Instance with Terraform and SSH Access](https://dev.to/bansikah/deploying-an-aws-ec2-instance-with-terraform-and-ssh-access-d09)
+- [Cloud-Native Monitoring Tools](https://dev.to/574n13y/cloud-native-monitoring-tools-58kg)
+- [Building a Domain Analysis Tool: Memoirs of a Frontend Engineer](https://dev.to/jinlo/building-a-domain-analysis-tool-memoirs-of-a-frontend-engineer-20j1)
 <!-- BLOG-POST-LIST:END -->
 
 
