@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The best free password generator i&#39;ve ever know](https://dev.to/adhiya/the-best-free-password-generatir-ive-ever-know-1c9o)
-- [Avoid Developer Tunnel Vision](https://dev.to/kgthedev/avoid-developer-tunnel-vision-548f)
-- [Start 2025 with this! 🚀🤓](https://dev.to/wahabshah23/start-2025-with-this-3hcg)
-- [Lua scripting in mpv video player](https://dev.to/sledov/lua-scripting-in-mpv-video-player-4fdh)
+- [ByteDance/Sonic: A Lightning-Fast JSON Library for Go](https://dev.to/trungdlp/bytedancesonic-a-lightning-fast-json-library-for-go-1931)
+- [Simple Note app built with Clean Architecture and C4 Model](https://dev.to/vukhanhtruong/simple-note-app-built-with-clean-architecture-and-c4-model-dg1)
+- [The significance of Licensing and Insurance coverage in Your HVAC Selection Process](https://dev.to/lucianoandsons647/the-significance-of-licensing-and-insurance-coverage-in-your-hvac-selection-process-40cm)
+- [🚀 Revolutionizing DevOps Debugging with DevOps-GPT &amp; OpenAI!🚀](https://dev.to/lakhera2015/revolutionizing-devops-debugging-with-devops-gpt-openai-1f9c)
 <!-- BLOG-POST-LIST:END -->
 
 
