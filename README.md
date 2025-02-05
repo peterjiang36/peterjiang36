@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate a Business Growth Plan with AI](https://dev.to/ishmam_jahan_4269b6f13ba5/how-to-generate-a-business-growth-plan-with-ai-58an)
-- [Account Email and Password Change using .NET Core Identity](https://dev.to/marian_s/account-email-and-password-change-using-net-core-identity-1kco)
-- [If a Language Learning Forum Were Like a Coding Forum:](https://dev.to/canro91/if-a-language-learning-forum-were-like-a-coding-forum-3cgp)
-- [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
+- [[Boost]](https://dev.to/ddebajyati/-2412)
+- [&quot;DevOps: What, Why, and How?&quot;](https://dev.to/mritunjay08/devops-what-why-and-how-12e5)
+- [#139 — Interconversion of Rows and Columns in Reverse Order](https://dev.to/judith677/139-interconversion-of-rows-and-columns-in-reverse-order-176b)
+- [Clojure Is Awesome!!! [PART 10]](https://dev.to/borba/clojure-is-awesome-part-10-222i)
 <!-- BLOG-POST-LIST:END -->
 
 
