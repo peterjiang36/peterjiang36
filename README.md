@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Ahrefs Web Analytics](https://dev.to/lejtzen/how-to-install-ahrefs-web-analytics-2fl2)
-- [FastAPI: The Ultimate Guide to Building High-Performance APIs with Python](https://dev.to/atifwattoo/fastapi-the-ultimate-guide-to-building-high-performance-apis-with-python-9hg)
-- [RAG on Azure OpenAI](https://dev.to/enriqueaguila/r-1d03)
-- [Why I Want to Be a Front-End Developer and How HNG Will Help Me Achieve My Goals](https://dev.to/prince_gee_95d1f956189cb8/why-i-want-to-be-a-front-end-developer-and-how-hng-will-help-me-achieve-my-goals-4075)
+- [CREATING A WINDOWS VITUAL MACHINE IN AZURE](https://dev.to/sheyitex/creating-a-windows-vitual-machine-in-azure-48m1)
+- [Zodiac – Seu Mapa Astral em Instantes ✨🔮](https://dev.to/w1redl4in/zodiac-seu-mapa-astral-em-instantes-1d9m)
+- [Next.js Portfolio Site Documentation](https://dev.to/ed_sels/nextjs-portfolio-site-documentation-193b)
+- [Introduction to Algorithms and Pseudocode](https://dev.to/mohbohlahji/introduction-to-algorithms-and-pseudocode-lnj)
 <!-- BLOG-POST-LIST:END -->
 
 
