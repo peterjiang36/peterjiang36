@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Windows 11 Virtual Machine on Azure &lpar;And Have Fun Doing It!&rpar;](https://dev.to/kelechiedeh/how-to-create-a-windows-11-virtual-machine-on-azure-and-have-fun-doing-it-16ib)
-- [[Algorithm] 151. Reverse Words in a String](https://dev.to/jihyunj/algorithm-151-reverse-words-in-a-string-5com)
-- [كيف اكتشفت اكثر من ٤٥٠ ثغرة](https://dev.to/ali_essam_40774f25f0f4182/kyf-ktshft-kthr-mn-450-thgr-24gm)
-- [Python’s Popularity in AI and Data Science](https://dev.to/alfred_ferrari_4359c13919/pythons-popularity-in-ai-and-data-science-o3i)
+- [𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗔𝗪𝗦 𝗦𝗰𝗮𝗹𝗶𝗻𝗴: 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 𝗳𝗼𝗿 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 𝗛𝗶𝗴𝗵 𝗧𝗿𝗮𝗳𝗳𝗶𝗰 𝗘𝘃𝗲𝗻𝘁𝘀 🚀](https://dev.to/gurudev_prasadteketi/-46he)
+- [Testing LEGO SPIKE Prime with C: Line Follower Speed &amp; Stability](https://dev.to/_ff41734170f7cc70ac79/testing-lego-spike-prime-with-c-line-follower-speed-stability-cp3)
+- [My Journey Learning CSS - Selectors and Box Model 🚀 &lpar;Day-8&rpar;](https://dev.to/angshu/my-journey-learning-css-selectors-and-box-model-day-8-3h9i)
+- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-5hm7)
 <!-- BLOG-POST-LIST:END -->
 
 
