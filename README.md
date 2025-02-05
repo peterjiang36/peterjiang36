@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-powered Financial Behavior Analyzer with NodeJS, Python, SvelteKit, and TailwindCSS - Part 2: GitHub OAuth](https://dev.to/sirneij/building-an-ai-powered-financial-behavior-analyzer-with-nodejs-python-sveltekit-and-tailwindcss-73g)
-- [A Cloud-based NBA Game Day Alert System using Python, AWS Lambda, SNS, and EventBridge.](https://dev.to/ljpeg/a-cloud-based-nba-game-day-alert-system-using-python-aws-lambda-sns-and-eventbridge-3g7o)
-- [What&#39;s arr[&#39;1&#39;] in JavaScript?](https://dev.to/bhumesh_15/whats-arr2-in-javascript-3ccl)
-- [Testing post](https://dev.to/joshua_leon_65b677a50c098/testing-post-4g54)
+- [Monolito vs. Microservicios vs. Serverless: ¿Cuál elegir en AWS?](https://dev.to/briansuarezsantiago/monolito-vs-microservicios-vs-serverless-cual-elegir-en-aws-47io)
+- [Metrics with Go and Prometheus](https://dev.to/mfbmina/metrics-with-go-and-prometheus-4o3e)
+- [9 Developer Fixes You Need Right Now &lpar;Seriously&rpar;](https://dev.to/0x2e_tech/9-developer-fixes-you-need-right-now-seriously-2mo)
+- [Métricas com Go e Prometheus](https://dev.to/mfbmina/metricas-com-go-e-prometheus-4dcl)
 <!-- BLOG-POST-LIST:END -->
 
 
