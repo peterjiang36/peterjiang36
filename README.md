@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗔𝗪𝗦 𝗦𝗰𝗮𝗹𝗶𝗻𝗴: 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 𝗳𝗼𝗿 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 𝗛𝗶𝗴𝗵 𝗧𝗿𝗮𝗳𝗳𝗶𝗰 𝗘𝘃𝗲𝗻𝘁𝘀 🚀](https://dev.to/gurudev_prasadteketi/-46he)
-- [Testing LEGO SPIKE Prime with C: Line Follower Speed &amp; Stability](https://dev.to/_ff41734170f7cc70ac79/testing-lego-spike-prime-with-c-line-follower-speed-stability-cp3)
-- [My Journey Learning CSS - Selectors and Box Model 🚀 &lpar;Day-8&rpar;](https://dev.to/angshu/my-journey-learning-css-selectors-and-box-model-day-8-3h9i)
-- [Best Icon Library for 2025 with 4k+ Free Icons](https://dev.to/icons/best-icon-library-5hm7)
+- [How to Generate a Business Growth Plan with AI](https://dev.to/ishmam_jahan_4269b6f13ba5/how-to-generate-a-business-growth-plan-with-ai-58an)
+- [Account Email and Password Change using .NET Core Identity](https://dev.to/marian_s/account-email-and-password-change-using-net-core-identity-1kco)
+- [If a Language Learning Forum Were Like a Coding Forum:](https://dev.to/canro91/if-a-language-learning-forum-were-like-a-coding-forum-3cgp)
+- [Welcome Thread - v313](https://dev.to/devteam/welcome-thread-v313-50bg)
 <!-- BLOG-POST-LIST:END -->
 
 
