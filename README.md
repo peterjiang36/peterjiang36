@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ddebajyati/-2412)
-- [&quot;DevOps: What, Why, and How?&quot;](https://dev.to/mritunjay08/devops-what-why-and-how-12e5)
-- [#139 — Interconversion of Rows and Columns in Reverse Order](https://dev.to/judith677/139-interconversion-of-rows-and-columns-in-reverse-order-176b)
-- [Clojure Is Awesome!!! [PART 10]](https://dev.to/borba/clojure-is-awesome-part-10-222i)
+- [Migrate from Postman to Hoppscotch Today](https://dev.to/hoppscotch/migrate-from-postman-to-hoppscotch-today-55ob)
+- [Functions &amp; Modules in Python](https://dev.to/godofgeeks/functions-modules-in-python-1e3b)
+- [virtualization inside almalinux 9](https://dev.to/dace/virtualization-inside-almalinux-9-o0c)
+- [Measuring ROI from AI Initiatives Using Azure AI Foundry Tools: A guide to CFO&#39;s and CIO&#39;s](https://dev.to/qservices_itsolutions_20/measuring-roi-from-ai-initiatives-using-azure-ai-foundry-tools-a-guide-to-cfos-and-cios-1fbn)
 <!-- BLOG-POST-LIST:END -->
 
 
