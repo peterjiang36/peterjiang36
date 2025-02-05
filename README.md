@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Monolito vs. Microservicios vs. Serverless: ¿Cuál elegir en AWS?](https://dev.to/briansuarezsantiago/monolito-vs-microservicios-vs-serverless-cual-elegir-en-aws-47io)
-- [Metrics with Go and Prometheus](https://dev.to/mfbmina/metrics-with-go-and-prometheus-4o3e)
-- [9 Developer Fixes You Need Right Now &lpar;Seriously&rpar;](https://dev.to/0x2e_tech/9-developer-fixes-you-need-right-now-seriously-2mo)
-- [Métricas com Go e Prometheus](https://dev.to/mfbmina/metricas-com-go-e-prometheus-4dcl)
+- [This engineer uses LLMs](https://dev.to/nmiller15/this-engineer-uses-llms-37i5)
+- [[Boost]](https://dev.to/gsampaiowz/-3k3b)
+- [Multi-Tenancy in Java-Based Microservice-Platform](https://dev.to/thesimdak/multi-tenancy-in-java-based-microservice-platform-5e20)
+- [Project Nairobi: Building a Distributed Analytics Platform on AWS](https://dev.to/zuba/project-nairobi-building-a-distributed-analytics-platform-on-aws-4abo)
 <!-- BLOG-POST-LIST:END -->
 
 
