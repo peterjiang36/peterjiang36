@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Pair Programming Is a Game Changer](https://dev.to/johnquintana1957/why-pair-programming-is-a-game-changer-1901)
-- [Building My First Full-Stack Application with React and Node.js](https://dev.to/johnquintana1957/building-my-first-full-stack-application-with-react-and-nodejs-16c5)
-- [Exploring Python’s Asynchronous Programming for Efficient Back-End Development](https://dev.to/janicehoover1989/exploring-pythons-asynchronous-programming-for-efficient-back-end-development-26lp)
-- [The Dual Impact of Agentic AI on Cybersecurity: A Benefit and a Threat](https://dev.to/camwhitmore0033/the-dual-impact-of-agentic-ai-on-cybersecurity-a-benefit-and-a-threat-cmk)
+- [I’m Understanding JavaScript Closures: A Beginner&#39;s Guide](https://dev.to/krushna_sananse/im-understanding-javascript-closures-a-beginners-guide-47hd)
+- [A Simple Script for Exporting Domain Accounts &lpar;Requires Regex&rpar;](https://dev.to/excalibra/a-simple-script-for-exporting-domain-accounts-requires-regex-2od3)
+- [Is the Presumptive Taxation Scheme Under Section 44AD Right for Your Business?](https://dev.to/susheel_kumar/is-the-presumptive-taxation-scheme-under-section-44ad-right-for-your-business-42l1)
+- [Understanding the Lock-In Period under Section 44AD and 44ADA](https://dev.to/susheel_kumar/understanding-the-lock-in-period-under-section-44ad-and-44ada-206d)
 <!-- BLOG-POST-LIST:END -->
 
 
