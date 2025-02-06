@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Information Spread in Growing Networks: New Study Reveals Critical Noise Threshold](https://dev.to/mikeyoung44/information-spread-in-growing-networks-new-study-reveals-critical-noise-threshold-257p)
-- [AI System Creates Better Prostate MRI Scans While Reducing Contrast Dye Exposure](https://dev.to/mikeyoung44/ai-system-creates-better-prostate-mri-scans-while-reducing-contrast-dye-exposure-26hj)
-- [New Privacy-Focused Method Lets AI Models Learn from Your Device Without Sharing Personal Data](https://dev.to/mikeyoung44/new-privacy-focused-method-lets-ai-models-learn-from-your-device-without-sharing-personal-data-4g3f)
-- [Study Debunks Benefits of Mixing AI Models: Single High-Quality Models Often Perform Better](https://dev.to/mikeyoung44/study-debunks-benefits-of-mixing-ai-models-single-high-quality-models-often-perform-better-2a5c)
+- [A Comprehensive Guide on How to Develop an Ecommerce Website](https://dev.to/isabella_harry_e56dfaa53c/a-comprehensive-guide-on-how-to-develop-an-ecommerce-website-14ke)
+- [Secure Your Computer Against Unattended Access&lpar;Windows&rpar;](https://dev.to/fola2royal/secure-your-computer-against-unattended-accesswindows-2epm)
+- [Software Testing in 2025 – Emerging Trends and Technologies](https://dev.to/nicholaswinst14/software-testing-in-2025-emerging-trends-and-technologies-2jp2)
+- [Comprendre l&#39;Authentification JWT : De la Théorie à la Pratique](https://dev.to/pemochamdev/comprendre-lauthentification-jwt-de-la-theorie-a-la-pratique-3e3p)
 <!-- BLOG-POST-LIST:END -->
 
 
