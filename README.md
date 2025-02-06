@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does Docker Do?](https://dev.to/sovannaro/what-does-docker-do-16jo)
-- [Vercel Fluid: Rendimiento de servidores tradicionales con la flexibilidad serverless](https://dev.to/jrobinsonc/vercel-fluid-rendimiento-de-servidores-tradicionales-con-la-flexibilidad-serverless-12ne)
-- [Best Practices for Optimizing Machine Learning Models on Multi-Cloud Platforms: Overcoming Infrastructure Challenges](https://dev.to/adityabhuyan/best-practices-for-optimizing-machine-learning-models-on-multi-cloud-platforms-overcoming-2j8c)
-- [Optimizing Python Back-End Performance: Best Practices](https://dev.to/janicehoover1989/optimizing-python-back-end-performance-best-practices-25ib)
+- [Why Pair Programming Is a Game Changer](https://dev.to/johnquintana1957/why-pair-programming-is-a-game-changer-1901)
+- [Building My First Full-Stack Application with React and Node.js](https://dev.to/johnquintana1957/building-my-first-full-stack-application-with-react-and-nodejs-16c5)
+- [Exploring Python’s Asynchronous Programming for Efficient Back-End Development](https://dev.to/janicehoover1989/exploring-pythons-asynchronous-programming-for-efficient-back-end-development-26lp)
+- [The Dual Impact of Agentic AI on Cybersecurity: A Benefit and a Threat](https://dev.to/camwhitmore0033/the-dual-impact-of-agentic-ai-on-cybersecurity-a-benefit-and-a-threat-cmk)
 <!-- BLOG-POST-LIST:END -->
 
 
