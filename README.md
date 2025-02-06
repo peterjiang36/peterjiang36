@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite Snapshots Unveiled: Why AI Fumbles and an Image Captcha Solver Saves the Day – A Wild Ride](https://dev.to/markus009/satellite-snapshots-unveiled-why-ai-fumbles-and-an-image-captcha-solver-saves-the-day-a-wild-ride-2k0j)
-- [⚙️ Building a better Ruby ORM for time series and analytics](https://dev.to/timescale/building-a-better-ruby-orm-for-time-series-and-analytics-1a78)
-- [Transitioning from Kubernetes to EC2 for Enhanced Kafka Performance](https://dev.to/hyperswitchio/transitioning-from-kubernetes-to-ec2-for-enhanced-kafka-performance-2nmi)
-- [Installing Kubernetes using kubeadm without installing docker in Ubuntu](https://dev.to/soram/installing-kubernetes-using-kubeadm-without-installing-docker-in-ubuntu-19bo)
+- [Kubernetes on Autopilot: Event-Driven Automation Across Clusters](https://dev.to/gianlucam76/kubernetes-on-autopilot-event-driven-automation-across-clusters-5co3)
+- [🚀 Performance Testing: Types and Implementation with k6](https://dev.to/juan_castillo/performance-testing-types-and-implementation-with-k6-b28)
+- [Conquering Flatpak Icons on LXDE &lpar;Pop!_OS Edition&rpar;](https://dev.to/ericsonwillians/conquering-flatpak-icons-on-lxde-popos-edition-5f7a)
+- [Deploy Your First Website on Azure in 5 Minutes! 🚀](https://dev.to/dharani0419/deploy-your-first-website-on-azure-in-5-minutes-3l3c)
 <!-- BLOG-POST-LIST:END -->
 
 
