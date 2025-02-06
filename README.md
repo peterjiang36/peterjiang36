@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Monolithic Architecture vs. Microservices: Which One to Choose?](https://dev.to/thenamerahulkr/monolithic-architecture-vs-microservices-which-one-to-choose-5d68)
-- [Create an Airport Reservation System in C++ with Full Code](https://dev.to/airfrance/create-an-airport-reservation-system-in-c-with-full-code-417a)
-- [Just published my first web service - Automated security scanning for webapps](https://dev.to/devman42/just-published-my-first-web-service-automated-security-scanning-for-webapps-1amd)
-- [Docker Exercises: Part 1](https://dev.to/docker/docker-exercises-part-1-26mc)
+- [Information Spread in Growing Networks: New Study Reveals Critical Noise Threshold](https://dev.to/mikeyoung44/information-spread-in-growing-networks-new-study-reveals-critical-noise-threshold-257p)
+- [AI System Creates Better Prostate MRI Scans While Reducing Contrast Dye Exposure](https://dev.to/mikeyoung44/ai-system-creates-better-prostate-mri-scans-while-reducing-contrast-dye-exposure-26hj)
+- [New Privacy-Focused Method Lets AI Models Learn from Your Device Without Sharing Personal Data](https://dev.to/mikeyoung44/new-privacy-focused-method-lets-ai-models-learn-from-your-device-without-sharing-personal-data-4g3f)
+- [Study Debunks Benefits of Mixing AI Models: Single High-Quality Models Often Perform Better](https://dev.to/mikeyoung44/study-debunks-benefits-of-mixing-ai-models-single-high-quality-models-often-perform-better-2a5c)
 <!-- BLOG-POST-LIST:END -->
 
 
