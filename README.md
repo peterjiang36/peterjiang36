@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes on Autopilot: Event-Driven Automation Across Clusters](https://dev.to/gianlucam76/kubernetes-on-autopilot-event-driven-automation-across-clusters-5co3)
-- [🚀 Performance Testing: Types and Implementation with k6](https://dev.to/juan_castillo/performance-testing-types-and-implementation-with-k6-b28)
-- [Conquering Flatpak Icons on LXDE &lpar;Pop!_OS Edition&rpar;](https://dev.to/ericsonwillians/conquering-flatpak-icons-on-lxde-popos-edition-5f7a)
-- [Deploy Your First Website on Azure in 5 Minutes! 🚀](https://dev.to/dharani0419/deploy-your-first-website-on-azure-in-5-minutes-3l3c)
+- [Never write repro steps again! Because AI 🙌](https://dev.to/ivanhapz/never-write-repro-steps-again-because-ai-4i33)
+- [Hidden Issue with whereFulltext and RefreshDatabase in Laravel](https://dev.to/tegos/hidden-issue-with-wherefulltext-and-refreshdatabase-in-laravel-2p4f)
+- [How to Add a Local Package in a React Native Project](https://dev.to/amitkumar13/how-to-add-a-local-package-in-a-react-native-project-6mc)
+- [👌Using 🔟Selenium Components to Scrap Location Data from Google Maps!](https://dev.to/sajjadrahman56/using-selenium-components-to-scrap-location-data-from-google-maps-54np)
 <!-- BLOG-POST-LIST:END -->
 
 
