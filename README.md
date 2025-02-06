@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ghoshbishakh/-12dp)
-- [AWS roadmap for beginners](https://dev.to/navya_80b0833279414f0acda/aws-roadmap-for-beginners-13jo)
-- [Event Emitters: The Superpower of Asynchronous User Registration](https://dev.to/fredabod/event-emitters-the-superpower-of-asynchronous-user-registration-513i)
-- [Falling Gracefully: The Art of Software Resilience](https://dev.to/itxshakil/falling-gracefully-the-art-of-software-resilience-1odg)
+- [Leitura Atual: Começando &#39;Data Science do Zero&#39;](https://dev.to/leticiaoliv/leitura-atual-comecando-data-science-do-zero-kd)
+- [Exploratory Testing Report for Cars.ng](https://dev.to/yeeshadev/exploratory-testing-report-for-carsng-bop)
+- [Exploring JavaScript: Higher Order Functions, Callbacks, Closures, the Event Loop and Classes](https://dev.to/mobolanleadebesin/exploring-javascript-higher-order-functions-callbacks-closures-the-event-loop-and-classes-6f5)
+- [Understanding Network Interfaces: Loopback, Local IPs, and Public IPs](https://dev.to/leapcell/understanding-network-interfaces-loopback-local-ips-and-public-ips-2p47)
 <!-- BLOG-POST-LIST:END -->
 
 
