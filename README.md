@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Never write repro steps again! Because AI 🙌](https://dev.to/ivanhapz/never-write-repro-steps-again-because-ai-4i33)
-- [Hidden Issue with whereFulltext and RefreshDatabase in Laravel](https://dev.to/tegos/hidden-issue-with-wherefulltext-and-refreshdatabase-in-laravel-2p4f)
-- [How to Add a Local Package in a React Native Project](https://dev.to/amitkumar13/how-to-add-a-local-package-in-a-react-native-project-6mc)
-- [👌Using 🔟Selenium Components to Scrap Location Data from Google Maps!](https://dev.to/sajjadrahman56/using-selenium-components-to-scrap-location-data-from-google-maps-54np)
+- [[Boost]](https://dev.to/ghoshbishakh/-12dp)
+- [AWS roadmap for beginners](https://dev.to/navya_80b0833279414f0acda/aws-roadmap-for-beginners-13jo)
+- [Event Emitters: The Superpower of Asynchronous User Registration](https://dev.to/fredabod/event-emitters-the-superpower-of-asynchronous-user-registration-513i)
+- [Falling Gracefully: The Art of Software Resilience](https://dev.to/itxshakil/falling-gracefully-the-art-of-software-resilience-1odg)
 <!-- BLOG-POST-LIST:END -->
 
 
