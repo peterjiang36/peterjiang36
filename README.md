@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [deepseek-r1 70b hardware requirements](https://dev.to/askyt/deepseek-r1-70b-hardware-requirements-1kd0)
-- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-em5)
-- [Testando chamadas para APIs da melhor forma](https://dev.to/mfbmina/testando-chamadas-para-apis-da-melhor-forma-cf)
-- [[Boost]](https://dev.to/timonwa/-4apj)
+- [Atlas v0.31: pgvector support for your LLM-based apps, custom schema rules, and more](https://dev.to/atlasgoio/atlas-v031-pgvector-support-for-your-llm-apps-custom-schema-rules-and-more-2aen)
+- [Regex!](https://dev.to/thomasbnt/regex-3nd)
+- [Effortlessly Share Ollama API and Open WebUI Online](https://dev.to/lightningdev123/effortlessly-share-ollama-api-and-open-webui-online-1li2)
+- [Which Cloud Managed Services Subscription Plan Should You Choose?](https://dev.to/mehul_budasana/which-cloud-managed-services-subscription-plan-should-you-choose-47p8)
 <!-- BLOG-POST-LIST:END -->
 
 
