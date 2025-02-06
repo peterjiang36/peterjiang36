@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [como criar leones](https://dev.to/ricardojavister/como-criar-leones-48bn)
-- [Host Resume on Amazon Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/ogooluwa/host-resume-on-amazon-elastic-kubernetes-service-eks-1i49)
-- [How to use QuaggaJS – a barcode scanner example for your website or web app](https://dev.to/astrodog-joshh/how-to-use-quaggajs-a-barcode-scanner-example-for-your-website-or-web-app-3omc)
-- [Understanding Security Assessment: Identifying Risks and Strengthening Protection](https://dev.to/annexustechnologies/understanding-security-assessment-identifying-risks-and-strengthening-protection-378k)
+- [deepseek-r1 70b hardware requirements](https://dev.to/askyt/deepseek-r1-70b-hardware-requirements-1kd0)
+- [🚀 CI/CD Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/cicd-tips-essential-tips-and-tricks-for-developers-em5)
+- [Testando chamadas para APIs da melhor forma](https://dev.to/mfbmina/testando-chamadas-para-apis-da-melhor-forma-cf)
+- [[Boost]](https://dev.to/timonwa/-4apj)
 <!-- BLOG-POST-LIST:END -->
 
 
