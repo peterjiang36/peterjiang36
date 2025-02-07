@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/alexus_lee_ea483f0d1c1898/-12a3)
-- [Predictive Metrics: Transforming Engineering Productivity and Software Quality](https://dev.to/saumen_biswas/predictive-metrics-transforming-engineeringproductivity-and-software-quality-4d2p)
-- [O que é um Storymaker](https://dev.to/pablostorymaker/o-que-e-um-storymaker-1klb)
-- [For, Four Ways: Mastering Loops in Go](https://dev.to/apondiart/for-four-ways-mastering-loops-in-go-5a6o)
+- [#140 — Generate Continuous Arrays](https://dev.to/judith677/140-generate-continuous-arrays-4amd)
+- [O que é a Ativei Digital?](https://dev.to/pablostorymaker/o-que-e-a-ativei-digital-21o0)
+- [Blasting Off With Astro](https://dev.to/mattwillis/blasting-off-with-astro-c2p)
+- [GBASE数据库 | GBase 8a Cluster Automated Installation and Deployment Using ansible](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8a-cluster-automated-installation-and-deployment-using-ansible-a98)
 <!-- BLOG-POST-LIST:END -->
 
 
