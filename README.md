@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Things to Consider to Hire Ecommerce App Developers for Your Startup](https://dev.to/yudizsolutions/things-to-consider-to-hire-ecommerce-app-developers-for-your-startup-4pl3)
-- [I developed an AI-Excel tool website](https://dev.to/alcor_zsm/i-developed-an-ai-excel-tool-website-146h)
-- [a simple solution to escape maze](https://dev.to/jeffliulab/a-simple-solution-to-escape-maze-onc)
-- [Implementation of Singleton Design Pattern in React](https://dev.to/nashirjamali/implementation-of-singleton-design-pattern-in-react-5dma)
+- [One simple trick to increase Stimulus.js legacy browser compatibility](https://dev.to/mtimofiiv/one-simple-trick-to-increase-stimulusjs-legacy-browser-compatibility-2oih)
+- [Top Cybersecurity Trends and Essential Tips to Stay Secure in 2025 – Insights by Najib Ziazi](https://dev.to/najibziazi/top-cybersecurity-trends-and-essential-tips-to-stay-secure-in-2025-insights-by-najib-ziazi-5bmn)
+- [Rails Designer v1.13: Updated to Tailwind CSS v4](https://dev.to/railsdesigner/rails-designer-v113-updated-to-tailwind-css-v4-5a96)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ean)
 <!-- BLOG-POST-LIST:END -->
 
 
