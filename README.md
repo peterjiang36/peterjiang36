@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [hibernate-003: @IdClass&lpar;PaymentId.class&rpar;](https://dev.to/hunor85/hibernate-003-idclasspaymentidclass-46bn)
-- [Unlock the Hidden Goldmine: How Integrating Public &amp; Private APIs Can Transform Your Data-Driven Content](https://dev.to/okoye_ndidiamaka_5e3b7d30/unlock-the-hidden-goldmine-how-integrating-public-private-apis-can-transform-your-data-driven-43dk)
-- [Executing Usability Tests For Mobile Apps](https://dev.to/abhayit2000/executing-usability-tests-for-mobile-apps-43mi)
-- [Using Technology to Bridge Learning Gaps with Bright Mind Enrichment](https://dev.to/rishabh_bansal_e6395b83e3/using-technology-to-bridge-learning-gaps-with-bright-mind-enrichment-1110)
+- [Agile Traceability: Connecting the Dots Without Slowing Down – Part 2](https://dev.to/ilampadmanabhan/agile-traceability-connecting-the-dots-without-slowing-down-part-2-532i)
+- [Take Your Software Development to the Next Level with Samu’s High-Speed Workflow Tools](https://dev.to/theaiguy786/take-your-software-development-to-the-next-level-with-samus-high-speed-workflow-tools-2m3g)
+- [The Open-source SPL Boosts MongoDB Computing Ability](https://dev.to/esproc_spl/the-open-source-spl-boosts-mongodb-computing-ability-4p3m)
+- [make npmi](https://dev.to/erkantaylan/make-npmi-534p)
 <!-- BLOG-POST-LIST:END -->
 
 
