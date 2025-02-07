@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reddit Roundup of Reactions to the DeepSeek Saga](https://dev.to/aigurux/a-reddit-roundup-of-reactions-to-the-deepseek-saga-27l)
-- [Mastering Array.at&lpar;&rpar;](https://dev.to/logannford/mastering-arrayat-3e7p)
-- [Tsonnet #4 - Refactoring numbers](https://dev.to/bitmaybewise/tsonnet-4-refactoring-numbers-4b65)
-- [The only working way to estimate story points](https://dev.to/panaetov/the-only-working-way-to-estimate-story-points-1apl)
+- [From Diploma to B.Tech &amp; Full-Time Job: How I Balanced Work &amp; Studies in Tech](https://dev.to/jaydeep_kr_sahu/from-diploma-to-btech-full-time-job-how-i-balanced-work-studies-in-tech-12ip)
+- [Tenant Based Filtering: Apache Superset](https://dev.to/datamonk_/tenant-based-filtering-apache-superset-5db7)
+- [Introducing Zerodayf, A dynamic, AI-driven code analysis vulnerability scanner](https://dev.to/0xhamy/introducing-zerodayf-a-dynamic-ai-driven-code-analysis-vulnerability-scanner-pca)
+- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
 <!-- BLOG-POST-LIST:END -->
 
 
