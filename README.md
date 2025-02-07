@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Email Hacks: The Bat! Security Best Practices](https://dev.to/yasir252_my/avoiding-email-hacks-the-bat-security-best-practices-4a77)
-- [Exploring Alternatives to Docusaurus for Building Documentation Websites](https://dev.to/sovannaro/exploring-alternatives-to-docusaurus-for-building-documentation-websites-4n56)
-- [Amazing Gradio Batch Processing APP For Newest SOTA Open Source Background Remover Model BiRefNet HR](https://dev.to/furkangozukara/amazing-gradio-batch-processing-app-for-newest-sota-open-source-background-remover-model-birefnet-hr-pda)
-- [Introducing MedoPace:YourPortal to the Future of Gaming and Metaverse by VirtuPace](https://dev.to/press_release384/introducing-medopaceyourportal-to-the-future-of-gaming-and-metaverse-by-virtupace-15gi)
+- [Practice Programs using Functions](https://dev.to/vasanthvnr_31/practice-programs-using-functions-3pe0)
+- [Mastering Terraform: A Comprehensive Guide to Infrastructure as Code &lpar;IaC&rpar; from Basics to Advanced Concepts](https://dev.to/samson_jebaraj/mastering-terraform-a-comprehensive-guide-to-infrastructure-as-code-iac-from-basics-to-advanced-59hn)
+- [DeepSeek R1 vs o3-mini for Developers: Which is the Best?](https://dev.to/dwtoledo/deepseek-r1-vs-o3-mini-for-developers-which-is-the-best-30k2)
+- [&quot;Unlocking Omni-Modal Understanding: The Rise of Ola and WorldSense&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-omni-modal-understanding-the-rise-of-ola-and-worldsense-4f8e)
 <!-- BLOG-POST-LIST:END -->
 
 
