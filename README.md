@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript scripts in the command line: Using Node.JS](https://dev.to/rerodrigues/typescript-scripts-in-the-command-line-using-nodejs-9ad)
-- [AWS WAF Intro Guide](https://dev.to/alexeybaltacov/aws-waf-intro-guide-25a3)
-- [Building Secure Web3 Ecosystems: Lessons from Centralized Crypto Exchanges](https://dev.to/sergi_web3/building-secure-web3-ecosystems-lessons-from-centralized-crypto-exchanges-jo3)
-- [Herramienta de Cumplimiento Regulatorio para Empresas Chilenas](https://dev.to/tyan99/herramienta-de-cumplimiento-regulatorio-para-empresas-chilenas-3mg2)
+- [[Boost]](https://dev.to/alexus_lee_ea483f0d1c1898/-12a3)
+- [Predictive Metrics: Transforming Engineering Productivity and Software Quality](https://dev.to/saumen_biswas/predictive-metrics-transforming-engineeringproductivity-and-software-quality-4d2p)
+- [O que é um Storymaker](https://dev.to/pablostorymaker/o-que-e-um-storymaker-1klb)
+- [For, Four Ways: Mastering Loops in Go](https://dev.to/apondiart/for-four-ways-mastering-loops-in-go-5a6o)
 <!-- BLOG-POST-LIST:END -->
 
 
