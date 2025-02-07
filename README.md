@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Practical DeepSeek R1 Prompts for Coding](https://dev.to/apilover/10-practical-deepseek-r1-prompts-for-coding-16c3)
-- [My Journey Learning CSS - Fonts, Text and Color Properties 🚀 &lpar;Day-9&rpar;](https://dev.to/angshu/my-journey-learning-css-fonts-text-and-color-properties-day-8-5d9c)
-- [JavaScript vs. Erlang: A Tale of Two Concurrency Models](https://dev.to/polina_vasiuk_0d686c77323/javascript-vs-erlang-a-tale-of-two-concurrency-models-aep)
-- [Top 7 Kubernetes Consulting Companies in 2025](https://dev.to/samlongbottom/top-7-kubernetes-consulting-companies-in-2025-f5h)
+- [AI-Driven Data Trends in Indian Governance 2025: Transforming Policy and Public Services](https://dev.to/priyankapandey/ai-driven-data-trends-in-indian-governance-2025-transforming-policy-and-public-services-51io)
+- [How to Use Caffeine with Kotlin Coroutines - Introduction to caffeine-coroutines](https://dev.to/behase/how-to-use-caffeine-with-kotlin-coroutines-introduction-to-caffeine-coroutines-2ia1)
+- [🚀 Terminal Tricks: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/terminal-tricks-essential-tips-and-tricks-for-developers-1fhi)
+- [Neha Jabbar — Penetration Tester &amp; Bug Bounty Hunter](https://dev.to/nehasec/neha-jabbar-penetration-tester-bug-bounty-hunter-226f)
 <!-- BLOG-POST-LIST:END -->
 
 
