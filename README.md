@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Flutterwave Payment Gateway into your Flutter App](https://dev.to/flutterwaveeng/how-to-integrate-flutterwave-payment-gateway-into-your-flutter-app-5e8)
-- [REST vs GraphQL](https://dev.to/godofgeeks/rest-vs-graphql-k3k)
-- [How to Set Up a Free RTMP Server with Open Source Red5](https://dev.to/penelopa/how-to-set-up-a-free-rtmp-server-with-open-source-red5-3h4p)
-- [Looking forward to Building in Public in this Community](https://dev.to/garyleech/looking-forward-to-building-in-public-in-this-community-3o18)
+- [Building a Serverless Number Classification API with AWS Lambda and API Gateway](https://dev.to/goodluck_ekeoma_2c98866d0/building-a-serverless-number-classification-api-with-aws-lambda-and-api-gateway-20fh)
+- [Market Trends in AI And CyberSecurity in 2025.](https://dev.to/devmercy/market-trends-in-ai-and-cybersecurity-in-2025-29ie)
+- [Optimizing Next.js Hosting Costs](https://dev.to/pagepro_agency/optimizing-nextjs-hosting-costs-2jna)
+- [How CAPTCHA Challenges Are Impacting Web Scraping](https://dev.to/swiftproxy_residential/how-captcha-challenges-are-impacting-web-scraping-1b3n)
 <!-- BLOG-POST-LIST:END -->
 
 
