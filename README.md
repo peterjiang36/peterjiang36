@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Diploma to B.Tech &amp; Full-Time Job: How I Balanced Work &amp; Studies in Tech](https://dev.to/jaydeep_kr_sahu/from-diploma-to-btech-full-time-job-how-i-balanced-work-studies-in-tech-12ip)
-- [Tenant Based Filtering: Apache Superset](https://dev.to/datamonk_/tenant-based-filtering-apache-superset-5db7)
-- [Introducing Zerodayf, A dynamic, AI-driven code analysis vulnerability scanner](https://dev.to/0xhamy/introducing-zerodayf-a-dynamic-ai-driven-code-analysis-vulnerability-scanner-pca)
-- [Friendly Guide to Functional Testing: Techniques, Steps, and Benefits](https://dev.to/lovestaco/friendly-guide-to-functional-testing-techniques-steps-and-benefits-515p)
+- [Adventure: Building with NATS Jetstream KV Store -Part 7](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-7-28n1)
+- [React vs Angular vs Vue: Which Framework Should You Learn First?](https://dev.to/raji_moshood_ee3a4c2638f6/react-vs-angular-vs-vue-which-framework-should-you-learn-first-27ji)
+- [i am getting a new error while creating my first react app ...](https://dev.to/asish_sahoo_1655b79436da0/i-am-getting-a-new-error-while-creating-my-first-react-app--34fj)
+- [What is Supervised Learning](https://dev.to/thenomadevel/supervised-learning-simplified-1m1d)
 <!-- BLOG-POST-LIST:END -->
 
 
