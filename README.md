@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Aurora DSQL for Django Developers: A Step-by-Step Guide](https://dev.to/aws-builders/aws-aurora-dsql-for-django-developers-a-step-by-step-guide-4pah)
-- [🚀 Low-Code &amp; No-Code Development: Revolutionizing How We Build Apps](https://dev.to/dct_technologyprivatelimited/low-code-no-code-development-revolutionizing-how-we-build-apps-3hib)
-- [It feels like you can&#39;t reach simplicity with REST nor graphql, when it comes to joins. With graphql, the resolvers get complicated. With REST, it&#39;s easier to join the data using sql/orm, but then there is more boilerplate serializing the joining data.](https://dev.to/codewander/it-feels-like-you-cant-reach-simplicity-with-rest-nor-graphql-when-it-comes-to-joins-with-67i)
-- [Practical Strategies to Boost Confidence in Your Coding Skills](https://dev.to/jps27cse/practical-strategies-to-boost-confidence-in-your-coding-skills-37nk)
+- [How to Integrate Flutterwave Payment Gateway into your Flutter App](https://dev.to/flutterwaveeng/how-to-integrate-flutterwave-payment-gateway-into-your-flutter-app-5e8)
+- [REST vs GraphQL](https://dev.to/godofgeeks/rest-vs-graphql-k3k)
+- [How to Set Up a Free RTMP Server with Open Source Red5](https://dev.to/penelopa/how-to-set-up-a-free-rtmp-server-with-open-source-red5-3h4p)
+- [Looking forward to Building in Public in this Community](https://dev.to/garyleech/looking-forward-to-building-in-public-in-this-community-3o18)
 <!-- BLOG-POST-LIST:END -->
 
 
