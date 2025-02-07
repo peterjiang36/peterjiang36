@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging LinkedIn for Career Changes: Rebranding Yourself on LinkedIn](https://dev.to/resumewriting_services/leveraging-linkedin-for-career-changes-rebranding-yourself-on-linkedin-3m9d)
-- [Deploying Qwen-2.5 Model on AWS Using Amazon SageMaker AI](https://dev.to/aws-builders/deploying-qwen-25-model-on-aws-using-amazon-sagemaker-ai-mn9)
-- [The Code Behind the Lens: Developing Web Applications for Automated Door Control Step by Step](https://dev.to/emily_johnson_dev/the-code-behind-the-lens-developing-web-applications-for-automated-door-control-step-by-step-2lfd)
-- [React na Prática: Lidando com requisições HTTP](https://dev.to/alvarogfn/react-na-pratica-lidando-com-requisicoes-http-524j)
+- [A Reddit Roundup of Reactions to the DeepSeek Saga](https://dev.to/aigurux/a-reddit-roundup-of-reactions-to-the-deepseek-saga-27l)
+- [Mastering Array.at&lpar;&rpar;](https://dev.to/logannford/mastering-arrayat-3e7p)
+- [Tsonnet #4 - Refactoring numbers](https://dev.to/bitmaybewise/tsonnet-4-refactoring-numbers-4b65)
+- [The only working way to estimate story points](https://dev.to/panaetov/the-only-working-way-to-estimate-story-points-1apl)
 <!-- BLOG-POST-LIST:END -->
 
 
