@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless Number Classification API with AWS Lambda and API Gateway](https://dev.to/goodluck_ekeoma_2c98866d0/building-a-serverless-number-classification-api-with-aws-lambda-and-api-gateway-20fh)
-- [Market Trends in AI And CyberSecurity in 2025.](https://dev.to/devmercy/market-trends-in-ai-and-cybersecurity-in-2025-29ie)
-- [Optimizing Next.js Hosting Costs](https://dev.to/pagepro_agency/optimizing-nextjs-hosting-costs-2jna)
-- [How CAPTCHA Challenges Are Impacting Web Scraping](https://dev.to/swiftproxy_residential/how-captcha-challenges-are-impacting-web-scraping-1b3n)
+- [hibernate-003: @IdClass&lpar;PaymentId.class&rpar;](https://dev.to/hunor85/hibernate-003-idclasspaymentidclass-46bn)
+- [Unlock the Hidden Goldmine: How Integrating Public &amp; Private APIs Can Transform Your Data-Driven Content](https://dev.to/okoye_ndidiamaka_5e3b7d30/unlock-the-hidden-goldmine-how-integrating-public-private-apis-can-transform-your-data-driven-43dk)
+- [Executing Usability Tests For Mobile Apps](https://dev.to/abhayit2000/executing-usability-tests-for-mobile-apps-43mi)
+- [Using Technology to Bridge Learning Gaps with Bright Mind Enrichment](https://dev.to/rishabh_bansal_e6395b83e3/using-technology-to-bridge-learning-gaps-with-bright-mind-enrichment-1110)
 <!-- BLOG-POST-LIST:END -->
 
 
