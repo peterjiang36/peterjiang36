@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile Traceability: Connecting the Dots Without Slowing Down – Part 2](https://dev.to/ilampadmanabhan/agile-traceability-connecting-the-dots-without-slowing-down-part-2-532i)
-- [Take Your Software Development to the Next Level with Samu’s High-Speed Workflow Tools](https://dev.to/theaiguy786/take-your-software-development-to-the-next-level-with-samus-high-speed-workflow-tools-2m3g)
-- [The Open-source SPL Boosts MongoDB Computing Ability](https://dev.to/esproc_spl/the-open-source-spl-boosts-mongodb-computing-ability-4p3m)
-- [make npmi](https://dev.to/erkantaylan/make-npmi-534p)
+- [10 Practical DeepSeek R1 Prompts for Coding](https://dev.to/apilover/10-practical-deepseek-r1-prompts-for-coding-16c3)
+- [My Journey Learning CSS - Fonts, Text and Color Properties 🚀 &lpar;Day-9&rpar;](https://dev.to/angshu/my-journey-learning-css-fonts-text-and-color-properties-day-8-5d9c)
+- [JavaScript vs. Erlang: A Tale of Two Concurrency Models](https://dev.to/polina_vasiuk_0d686c77323/javascript-vs-erlang-a-tale-of-two-concurrency-models-aep)
+- [Top 7 Kubernetes Consulting Companies in 2025](https://dev.to/samlongbottom/top-7-kubernetes-consulting-companies-in-2025-f5h)
 <!-- BLOG-POST-LIST:END -->
 
 
