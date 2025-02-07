@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adventure: Building with NATS Jetstream KV Store -Part 7](https://dev.to/rphumulock/adventure-building-with-nats-jetstream-kv-store-part-7-28n1)
-- [React vs Angular vs Vue: Which Framework Should You Learn First?](https://dev.to/raji_moshood_ee3a4c2638f6/react-vs-angular-vs-vue-which-framework-should-you-learn-first-27ji)
-- [i am getting a new error while creating my first react app ...](https://dev.to/asish_sahoo_1655b79436da0/i-am-getting-a-new-error-while-creating-my-first-react-app--34fj)
-- [What is Supervised Learning](https://dev.to/thenomadevel/supervised-learning-simplified-1m1d)
+- [Rust Key Concepts &lpar;I&rpar;: Ownership System](https://dev.to/jolisper/rust-key-concepts-i-ownership-system-1mnm)
+- [Im a beginner developer i studied php mysql any project ideas i can build on](https://dev.to/lawrence_mayo01/im-a-beginner-developer-i-studied-php-mysql-any-project-ideas-i-can-build-on-1dh6)
+- [Marketing Insight Report](https://dev.to/faith_muluu/marketing-insight-report-3fi2)
+- [A Step-by-Step Guide to Creating SEO-Friendly Websites with Next.js](https://dev.to/raji_moshood_ee3a4c2638f6/a-step-by-step-guide-to-creating-seo-friendly-websites-with-nextjs-3p88)
 <!-- BLOG-POST-LIST:END -->
 
 
