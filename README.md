@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Demand for MERN Stack Developers: How to Stand Out in the Job Market](https://dev.to/raji_moshood_ee3a4c2638f6/the-demand-for-mern-stack-developers-how-to-stand-out-in-the-job-market-4k0j)
-- [Debugging Node.js Applications Like a Pro: Tools and Techniques](https://dev.to/raji_moshood_ee3a4c2638f6/debugging-nodejs-applications-like-a-pro-tools-and-techniques-5fh1)
-- [Alibaba Cloud AI Search Solution Explained: Intelligent Search Driven by Large Language Models, Helping Enterprises in Digital](https://dev.to/a_lucas/alibaba-cloud-ai-search-solution-explained-intelligent-search-driven-by-large-language-models-h14)
-- [Rust for AI Engineers: Unleashing the Power of Performance and Safety](https://dev.to/mbayoun95/rust-for-ai-engineers-unleashing-the-power-of-performance-and-safety-5396)
+- [Big Boost for Flink &amp; Spark SQL: Both Tools Just Got Updated!](https://dev.to/dogeking/big-boost-for-flink-spark-sql-both-tools-just-got-updated-36nj)
+- [What is this?](https://dev.to/rm_sh/-5e89)
+- [9 Questions on Hoisting in JavaScript Answered](https://dev.to/codeguage/9-questions-on-hoisting-in-javascript-answered-6io)
+- [What is THIS ?](https://dev.to/rm_sh/what-is-this--1298)
 <!-- BLOG-POST-LIST:END -->
 
 
