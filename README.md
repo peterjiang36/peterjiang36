@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Before accessing for free, understand the fee!](https://dev.to/andy_goncalves/before-accessing-for-free-understand-the-fee-3j26)
-- [&quot;Unlocking the Future: The Power of Omni-Modal Language Models Like Ola&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-the-power-of-omni-modal-language-models-like-ola-126b)
-- [NestJS Vienna Meetup: Multi-Tenancy &amp; Module Management](https://dev.to/henriqueweiand/nestjs-vienna-meetup-multi-tenancy-module-management-14p9)
-- [The Power of GraphQL: A Beginner’s Guide to Modern Web Development](https://dev.to/anadudev/the-power-of-graphql-a-beginners-guide-to-modern-web-development-e04)
+- [Elasticsearch vs Solr: A Dev Friendly Comparison](https://dev.to/lovestaco/elasticsearch-vs-solr-a-dev-friendly-comparison-ion)
+- [Creating a todo app with JDBC](https://dev.to/caresle/creating-a-todo-app-with-jdbc-3i5o)
+- [ChatGPT has officially passed the line from &quot;cool&quot; to &quot;creepy&quot;](https://dev.to/mileswk/chatgpt-has-officially-passed-the-line-from-cool-to-creepy-3gl1)
+- [DeepSeek&#39;s new model, OpenAI o3-mini, Mistral&#39;s 24B parameter model, and more](https://dev.to/thisweekinaiengineering/deepseeks-new-model-openai-o3-mini-mistrals-24b-parameter-model-and-more-16fi)
 <!-- BLOG-POST-LIST:END -->
 
 
