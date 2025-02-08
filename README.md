@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek-R1: Pros and Cons, and How to Get Started with the DeepSeek-R1 API Quickly🚀🚀](https://dev.to/mayumi_okamoto_6ce103fea7/deepseek-r1-pros-and-cons-and-how-to-get-started-with-the-deepseek-r1-api-quickly-1hl2)
-- [AI Agents: The Good, The Bad, and Their Impact Across Industries](https://dev.to/jaydeep_kr_sahu/ai-agents-the-good-the-bad-and-their-impact-across-industries-4mgg)
-- [My Journey with SafeLine: A Practical Tool for Web Security](https://dev.to/carrie_luo1/my-journey-with-safeline-a-practical-tool-for-web-security-5e9a)
-- [How I followed anti to do list and increased my productivity](https://dev.to/asha_khati_3bc3e625222591/how-i-followed-anti-to-do-list-and-increased-my-productivity-b0l)
+- [AI-Powered Tools for Fake News Detection: A Comprehensive Guide](https://dev.to/asadullahmasood/ai-powered-tools-for-fake-news-detection-a-comprehensive-guide-36nb)
+- [🚀 React Patterns: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/react-patterns-essential-tips-and-tricks-for-developers-4b0l)
+- [Azure Data Factory](https://dev.to/indrasen_9d014cf224a46c4a/azure-data-factory-2oog)
+- [Federated Learning](https://dev.to/asadullahmasood/federated-learning-3ng6)
 <!-- BLOG-POST-LIST:END -->
 
 
