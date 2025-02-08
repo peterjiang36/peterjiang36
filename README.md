@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to AWS Academy](https://dev.to/harsh_mehta/a-beginners-guide-to-aws-academy-1p5i)
-- [Navigating the Challenges and Strategies of Open Source Monetization](https://dev.to/lisa_strato/navigating-the-challenges-and-strategies-of-open-source-monetization-4n0n)
-- [Migration Mistakes You should Avoid in Flutter](https://dev.to/arslanyousaf12/-9c0)
-- [Introducing Tensor++](https://dev.to/suvrayan_bandyopadhyay/introducing-tensor-3f61)
+- [JavaScript Arrays Explained: Key Concepts and Common Challenges](https://dev.to/ayako_yk/javascript-arrays-explained-key-concepts-and-common-challenges-j2h)
+- [118/365 | ¥10M Job Challenge - An increasingly competitive world](https://dev.to/kameken100/118365-y10m-job-challenge-an-increasingly-competitive-world-4f0c)
+- [Trending 30 Articles to Read by Every Python Developers.](https://dev.to/dev-resources/trending-30-articles-to-read-by-every-python-developers-1fn1)
+- [In the world of Complex AI Agents | Build 4 easy Steps - Interview Analyst AI Agent](https://dev.to/neurallead/in-the-world-of-complex-ai-agents-build-4-easy-steps-interview-analyst-ai-agent-35mc)
 <!-- BLOG-POST-LIST:END -->
 
 
