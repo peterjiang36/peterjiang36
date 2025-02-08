@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF: A Powerful and User-Friendly Web Application Firewall](https://dev.to/carrie_luo1/safeline-waf-a-powerful-and-user-friendly-web-application-firewall-4jf6)
-- [NTP Synchronization and Its Importance in Modern Systems](https://dev.to/anish-anantharaman/ntp-synchronization-and-its-importance-in-modern-systems-1o46)
-- [Backend vs Frontend: Understanding the Two Sides of Web Development](https://dev.to/raji_moshood_ee3a4c2638f6/backend-vs-frontend-understanding-the-two-sides-of-web-development-1n7)
-- [Unlocking Potential: The Benefits of Open Source Developer Patronage](https://dev.to/lisa_strato/unlocking-potential-the-benefits-of-open-source-developer-patronage-k1)
+- [The Use of Linked Lists in Embedded Systems](https://dev.to/yamil_garcia_ee1f89f1e245/the-use-of-linked-lists-in-embedded-systems-2i9n)
+- [Passwordless: A Password-Free Future, But What Are the Differences?](https://dev.to/techelopment/passwordless-a-password-free-future-but-what-are-the-differences-2kcg)
+- [[Boost]](https://dev.to/malkhan_mansoori_b94a858f/-3kmn)
+- [Auto-Delete Files in S3: A Beginner&#39;s Guide](https://dev.to/oatula/auto-delete-files-in-s3-a-beginners-guide-34b4)
 <!-- BLOG-POST-LIST:END -->
 
 
