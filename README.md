@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Use of Linked Lists in Embedded Systems](https://dev.to/yamil_garcia_ee1f89f1e245/the-use-of-linked-lists-in-embedded-systems-2i9n)
-- [Passwordless: A Password-Free Future, But What Are the Differences?](https://dev.to/techelopment/passwordless-a-password-free-future-but-what-are-the-differences-2kcg)
-- [[Boost]](https://dev.to/malkhan_mansoori_b94a858f/-3kmn)
-- [Auto-Delete Files in S3: A Beginner&#39;s Guide](https://dev.to/oatula/auto-delete-files-in-s3-a-beginners-guide-34b4)
+- [Before accessing for free, understand the fee!](https://dev.to/andy_goncalves/before-accessing-for-free-understand-the-fee-3j26)
+- [&quot;Unlocking the Future: The Power of Omni-Modal Language Models Like Ola&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-the-future-the-power-of-omni-modal-language-models-like-ola-126b)
+- [NestJS Vienna Meetup: Multi-Tenancy &amp; Module Management](https://dev.to/henriqueweiand/nestjs-vienna-meetup-multi-tenancy-module-management-14p9)
+- [The Power of GraphQL: A Beginner’s Guide to Modern Web Development](https://dev.to/anadudev/the-power-of-graphql-a-beginners-guide-to-modern-web-development-e04)
 <!-- BLOG-POST-LIST:END -->
 
 
