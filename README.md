@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [m files in GitHub](https://dev.to/luisaconsiglieri/m-files-in-github-5c0n)
-- [How is RFID Asset Tracking Different from Other Asset Tracking Solutions?](https://dev.to/seleam/how-is-rfid-asset-tracking-different-from-other-asset-tracking-solutions-5flm)
-- [How AI is Transforming Supply Chain Optimization: A Developer’s Perspective](https://dev.to/devopsmirc/how-ai-is-transforming-supply-chain-optimization-a-developers-perspective-2k9o)
-- [Bloom Filters Made Easy: Python Code &amp; Explanation 🐍](https://dev.to/leapcell/bloom-filters-made-easy-python-code-explanation-4ce9)
+- [DeepSeek-R1: Pros and Cons, and How to Get Started with the DeepSeek-R1 API Quickly🚀🚀](https://dev.to/mayumi_okamoto_6ce103fea7/deepseek-r1-pros-and-cons-and-how-to-get-started-with-the-deepseek-r1-api-quickly-1hl2)
+- [AI Agents: The Good, The Bad, and Their Impact Across Industries](https://dev.to/jaydeep_kr_sahu/ai-agents-the-good-the-bad-and-their-impact-across-industries-4mgg)
+- [My Journey with SafeLine: A Practical Tool for Web Security](https://dev.to/carrie_luo1/my-journey-with-safeline-a-practical-tool-for-web-security-5e9a)
+- [How I followed anti to do list and increased my productivity](https://dev.to/asha_khati_3bc3e625222591/how-i-followed-anti-to-do-list-and-increased-my-productivity-b0l)
 <!-- BLOG-POST-LIST:END -->
 
 
