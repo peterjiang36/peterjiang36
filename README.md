@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch vs Solr: A Dev Friendly Comparison](https://dev.to/lovestaco/elasticsearch-vs-solr-a-dev-friendly-comparison-ion)
-- [Creating a todo app with JDBC](https://dev.to/caresle/creating-a-todo-app-with-jdbc-3i5o)
-- [ChatGPT has officially passed the line from &quot;cool&quot; to &quot;creepy&quot;](https://dev.to/mileswk/chatgpt-has-officially-passed-the-line-from-cool-to-creepy-3gl1)
-- [DeepSeek&#39;s new model, OpenAI o3-mini, Mistral&#39;s 24B parameter model, and more](https://dev.to/thisweekinaiengineering/deepseeks-new-model-openai-o3-mini-mistrals-24b-parameter-model-and-more-16fi)
+- [A Beginner’s Guide to AWS Academy](https://dev.to/harsh_mehta/a-beginners-guide-to-aws-academy-1p5i)
+- [Navigating the Challenges and Strategies of Open Source Monetization](https://dev.to/lisa_strato/navigating-the-challenges-and-strategies-of-open-source-monetization-4n0n)
+- [Migration Mistakes You should Avoid in Flutter](https://dev.to/arslanyousaf12/-9c0)
+- [Introducing Tensor++](https://dev.to/suvrayan_bandyopadhyay/introducing-tensor-3f61)
 <!-- BLOG-POST-LIST:END -->
 
 
