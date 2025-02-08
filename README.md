@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Talent Acquisition Software](https://dev.to/albertocubeddu/ai-talent-acquisition-software-15lj)
-- [My Exploratory Testing Journey on Cars.ng](https://dev.to/owolabi_farouqmaku_7bc5a/my-exploratory-testing-journey-on-carsng-5ded)
-- [The Language of the Digital Soul: Creating Sensory Experiences with Code and Smart Data](https://dev.to/justina_ockoner_7661/the-language-of-the-digital-soul-creating-sensory-experiences-with-code-and-smart-data-342p)
-- [Day 1098 : Runnin&#39;](https://dev.to/dwane/day-1098-runnin-26ic)
+- [Переводчик с русского на английский – лучший инструмент для точного перевода](https://dev.to/fagac_gvwc_0ebeec7ffe710a/pierievodchik-s-russkogho-na-anghliiskii-luchshii-instrumient-dlia-tochnogho-pierievoda-1bkc)
+- [CenterCrop in PyTorch](https://dev.to/hyperkai/centercrop-in-pytorch-4fgp)
+- [🚀 Chat App using React and Firebase 🔥 🌐](https://dev.to/hanzla-baig/chat-app-using-react-and-firebase-5hmk)
+- [Integrating Payment Gateways &lpar;e.g., Paystack or Stripe&rpar; in Your Web Apps](https://dev.to/raji_moshood_ee3a4c2638f6/integrating-payment-gateways-eg-paystack-or-stripe-in-your-web-apps-o06)
 <!-- BLOG-POST-LIST:END -->
 
 
