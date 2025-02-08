@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancing Strategies](https://dev.to/godofgeeks/load-balancing-strategies-40hn)
-- [From Python to Zig: My Journey into Low-Level Programming](https://dev.to/uedev/from-python-to-zig-my-journey-into-low-level-programming-8a0)
-- [Transformer-Enhanced Decision Trees Show Better Results Across All Dataset Sizes](https://dev.to/mikeyoung44/transformer-enhanced-decision-trees-show-better-results-across-all-dataset-sizes-b6p)
-- [AI Influencer Battle Study Reveals How Competing AIs Reach Stable Power Balance](https://dev.to/mikeyoung44/ai-influencer-battle-study-reveals-how-competing-ais-reach-stable-power-balance-544f)
+- [The Vital Role of Developer Community Support in Open Source](https://dev.to/lisa_strato/the-vital-role-of-developer-community-support-in-open-source-327e)
+- [&quot;Revolutionizing Systems Engineering: The AI Advantage You Can&#39;t Ignore&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-ai-advantage-you-cant-ignore-26f)
+- [What on Earth is the PCCP Pattern?](https://dev.to/biswasprasana001/what-on-earth-is-the-pccp-pattern-4dd)
+- [How I Built PhotoG: A Generative AI Tool for Realistic Product Scenes, Hitting $10k MRR in 3 Months](https://dev.to/jasminechzi/how-i-built-photog-a-generative-ai-tool-for-realistic-product-scenes-hitting-10k-mrr-in-3-months-4fp9)
 <!-- BLOG-POST-LIST:END -->
 
 
