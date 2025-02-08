@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Переводчик с русского на английский – лучший инструмент для точного перевода](https://dev.to/fagac_gvwc_0ebeec7ffe710a/pierievodchik-s-russkogho-na-anghliiskii-luchshii-instrumient-dlia-tochnogho-pierievoda-1bkc)
-- [CenterCrop in PyTorch](https://dev.to/hyperkai/centercrop-in-pytorch-4fgp)
-- [🚀 Chat App using React and Firebase 🔥 🌐](https://dev.to/hanzla-baig/chat-app-using-react-and-firebase-5hmk)
-- [Integrating Payment Gateways &lpar;e.g., Paystack or Stripe&rpar; in Your Web Apps](https://dev.to/raji_moshood_ee3a4c2638f6/integrating-payment-gateways-eg-paystack-or-stripe-in-your-web-apps-o06)
+- [The Demand for MERN Stack Developers: How to Stand Out in the Job Market](https://dev.to/raji_moshood_ee3a4c2638f6/the-demand-for-mern-stack-developers-how-to-stand-out-in-the-job-market-4k0j)
+- [Debugging Node.js Applications Like a Pro: Tools and Techniques](https://dev.to/raji_moshood_ee3a4c2638f6/debugging-nodejs-applications-like-a-pro-tools-and-techniques-5fh1)
+- [Alibaba Cloud AI Search Solution Explained: Intelligent Search Driven by Large Language Models, Helping Enterprises in Digital](https://dev.to/a_lucas/alibaba-cloud-ai-search-solution-explained-intelligent-search-driven-by-large-language-models-h14)
+- [Rust for AI Engineers: Unleashing the Power of Performance and Safety](https://dev.to/mbayoun95/rust-for-ai-engineers-unleashing-the-power-of-performance-and-safety-5396)
 <!-- BLOG-POST-LIST:END -->
 
 
