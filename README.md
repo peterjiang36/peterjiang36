@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Arrays Explained: Key Concepts and Common Challenges](https://dev.to/ayako_yk/javascript-arrays-explained-key-concepts-and-common-challenges-j2h)
-- [118/365 | ¥10M Job Challenge - An increasingly competitive world](https://dev.to/kameken100/118365-y10m-job-challenge-an-increasingly-competitive-world-4f0c)
-- [Trending 30 Articles to Read by Every Python Developers.](https://dev.to/dev-resources/trending-30-articles-to-read-by-every-python-developers-1fn1)
-- [In the world of Complex AI Agents | Build 4 easy Steps - Interview Analyst AI Agent](https://dev.to/neurallead/in-the-world-of-complex-ai-agents-build-4-easy-steps-interview-analyst-ai-agent-35mc)
+- [No one seems happy with react and a backend API, but every other option &lpar;rails/django + low-js or remix/next or react + trpc&rpar; is either immature, fringe, or not appealing.](https://dev.to/codewander/no-one-seems-happy-with-react-and-a-backend-api-but-every-other-option-railsdjango-low-js-or-53c7)
+- [Formatting Strings in JavaScript: Sorting, Plurals &amp; Lists](https://dev.to/diorla/formatting-strings-in-javascript-sorting-plurals-lists-19ge)
+- [Devops project](https://dev.to/mohammed_aminelaafoudi_d/devops-project-14ho)
+- [Empowering Financial Education Through Open Source](https://dev.to/lisa_strato/empowering-financial-education-through-open-source-4pac)
 <!-- BLOG-POST-LIST:END -->
 
 
