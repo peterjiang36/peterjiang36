@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Probability in Decision-Making: A Blackjack Case Study](https://dev.to/alex_ricciardi/the-role-of-probability-in-decision-making-a-blackjack-case-study-2e5c)
-- [Weekly Challenge: Sorting and counting](https://dev.to/simongreennet/weekly-challenge-sorting-and-counting-2on)
-- [🌐 How To Make Markdown to HTML Converter 🔥🚀](https://dev.to/hanzla-baig/how-to-make-markdown-to-html-converter-220a)
-- [ICP: 10の分散型イノベーション](https://dev.to/izi_/icp-10nofen-san-xing-inobesiyon-6o8)
+- [Growing as an Engineer: Lessons Learned &lpar;the Hard Way&rpar;](https://dev.to/gabriel_perez_337aabb5cfd/growing-as-an-engineer-lessons-learned-the-hard-way-5enc)
+- [Diving into the World of AWS: My First Session and What&#39;s to Come](https://dev.to/kalpya_shah_/diving-into-the-world-of-aws-my-first-session-and-whats-to-come-4545)
+- [🚀 Automating Student Leave Warnings Using Python &lpar;CLI + SMTP&rpar;](https://dev.to/iam_flash/automating-student-leave-warnings-using-python-cli-smtp-1ch)
+- [From Theater to Tech: The Pros &lpar;&amp; Cons&rpar; of An Unusual Career Path.](https://dev.to/kaleene_robertson_5c3825d/from-theater-to-tech-the-pros-cons-of-an-unusual-career-path-g1)
 <!-- BLOG-POST-LIST:END -->
 
 
