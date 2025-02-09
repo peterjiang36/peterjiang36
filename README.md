@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Permissions in Linux](https://dev.to/godofgeeks/understanding-permissions-in-linux-52n8)
-- [View &amp; Download Excel File in React from a URL](https://dev.to/sarwarasik/view-download-excel-file-in-react-from-a-url-3lei)
-- [[Boost]](https://dev.to/djones/-2d4f)
-- [AI Breakthrough: Self-Learning Math Provers Generate and Solve Their Own Theorems](https://dev.to/mikeyoung44/ai-breakthrough-self-learning-math-provers-generate-and-solve-their-own-theorems-fkn)
+- [ReinforceUI-Studio: No More Memorizing Complex Commands in Reinforcement Learning](https://dev.to/dvalenciar/reinforceui-studio-no-more-memorizing-complex-commands-in-reinforcement-learning-1g53)
+- [Lexical 0.24 with Vanilla JS: Getting started](https://dev.to/nabbisen/lexical-024-with-vanilla-js-getting-started-4g5d)
+- [Getting Started with Next.js: A Simple Guide](https://dev.to/je_et15/getting-started-with-nextjs-a-simple-guide-2nk2)
+- [&quot;Revolutionizing Engineering: AI&#39;s Role in Requirements Analysis and Security&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-engineering-ais-role-in-requirements-analysis-and-security-jbj)
 <!-- BLOG-POST-LIST:END -->
 
 
