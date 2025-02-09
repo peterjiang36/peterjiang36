@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OS tool to debug LLM reasoning patterns with entropy analysis](https://dev.to/giovanna_8c3492d882250ac6/os-tool-to-debug-llm-reasoning-patterns-with-entropy-analysis-5hcf)
-- [[Boost]](https://dev.to/akshaybond30160/-4mkk)
-- [[Boost]](https://dev.to/devluc/-2d88)
-- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-18gn)
+- [The Quinfall - Redefining MMORPG in an Epic Fantasy World](https://dev.to/peng_li_61507f5f744c1b66e/the-quinfall-redefining-mmorpg-in-an-epic-fantasy-world-11b)
+- [Network Model &amp;&amp; Hierarchical Model](https://dev.to/mujahida_joynab_64c7407d8/network-model-1mn4)
+- [Sprunki Incredibox](https://dev.to/peng_li_61507f5f744c1b66e/sprunki-incredibox-59ik)
+- [JBay](https://dev.to/jacob_liato_1166814de4e42/jbay-135g)
 <!-- BLOG-POST-LIST:END -->
 
 
