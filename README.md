@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GMR earnings calculator](https://dev.to/jover_nuevaespana_6d510f0/gmr-earnings-calculator-h0f)
-- [✨It&#39;s 2025, But Jest🔧 is Still Rocking the Testing World 🚀](https://dev.to/jagroop2001/its-2025-but-jest-is-still-rocking-the-testing-world-48g2)
-- [Vite Breeze &lpar;Automating React Project Structure Development With TailwindCSS&rpar;](https://dev.to/basitjawad/vite-breeze-automating-react-project-structure-development-with-tailwindcss-2eoe)
-- [Can GitHub Copilot Follow a Structured Development Workflow? A Real-World Experiment](https://dev.to/vigneshiyergithub/can-github-copilot-follow-a-structured-development-workflow-a-real-world-experiment-3el7)
+- [OS tool to debug LLM reasoning patterns with entropy analysis](https://dev.to/giovanna_8c3492d882250ac6/os-tool-to-debug-llm-reasoning-patterns-with-entropy-analysis-5hcf)
+- [[Boost]](https://dev.to/akshaybond30160/-4mkk)
+- [[Boost]](https://dev.to/devluc/-2d88)
+- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-18gn)
 <!-- BLOG-POST-LIST:END -->
 
 
