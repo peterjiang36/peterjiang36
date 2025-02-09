@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Growing as an Engineer: Lessons Learned &lpar;the Hard Way&rpar;](https://dev.to/gabriel_perez_337aabb5cfd/growing-as-an-engineer-lessons-learned-the-hard-way-5enc)
-- [Diving into the World of AWS: My First Session and What&#39;s to Come](https://dev.to/kalpya_shah_/diving-into-the-world-of-aws-my-first-session-and-whats-to-come-4545)
-- [🚀 Automating Student Leave Warnings Using Python &lpar;CLI + SMTP&rpar;](https://dev.to/iam_flash/automating-student-leave-warnings-using-python-cli-smtp-1ch)
-- [From Theater to Tech: The Pros &lpar;&amp; Cons&rpar; of An Unusual Career Path.](https://dev.to/kaleene_robertson_5c3825d/from-theater-to-tech-the-pros-cons-of-an-unusual-career-path-g1)
+- [Introducing Awesome SaaS Directory List](https://dev.to/mahseema/introducing-awesome-saas-directory-list-p16)
+- [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://dev.to/esthernaisimoi/reinforcement-learning-from-human-feedback-rlhf-5dag)
+- [All about integrating offline OpenStreetMap on Android](https://dev.to/mubaraknative/all-about-integrating-offline-openstreetmap-on-android-180e)
+- [Negative Versioning: The Only Honest Way to Version Software](https://dev.to/emmg17/negative-versioning-the-only-honest-way-to-version-software-40le)
 <!-- BLOG-POST-LIST:END -->
 
 
