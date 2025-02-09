@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Becoming a Game-Changer in the Fight Against Climate Change](https://dev.to/morlevi23/how-ai-is-becoming-a-game-changer-in-the-fight-against-climate-change-36gm)
-- [# **🚀 How I Fixed &quot;Not Enough Free Space in /var&quot; While Upgrading Kali Linux**](https://dev.to/khurammurad/-how-i-fixed-not-enough-free-space-in-var-while-upgrading-kali-linux-25j5)
-- [Quantum Computing for Developers: What You Need to Know in 2025](https://dev.to/codetirtho97/quantum-computing-for-developers-what-you-need-to-know-in-2025-1khi)
-- [30 lines of Vue vs 150 lines of jQuery](https://dev.to/papa_house/30-lines-of-vue-vs-150-lines-of-jquery-1p4m)
+- [GMR earnings calculator](https://dev.to/jover_nuevaespana_6d510f0/gmr-earnings-calculator-h0f)
+- [✨It&#39;s 2025, But Jest🔧 is Still Rocking the Testing World 🚀](https://dev.to/jagroop2001/its-2025-but-jest-is-still-rocking-the-testing-world-48g2)
+- [Vite Breeze &lpar;Automating React Project Structure Development With TailwindCSS&rpar;](https://dev.to/basitjawad/vite-breeze-automating-react-project-structure-development-with-tailwindcss-2eoe)
+- [Can GitHub Copilot Follow a Structured Development Workflow? A Real-World Experiment](https://dev.to/vigneshiyergithub/can-github-copilot-follow-a-structured-development-workflow-a-real-world-experiment-3el7)
 <!-- BLOG-POST-LIST:END -->
 
 
