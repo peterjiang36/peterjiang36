@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-1a5c)
-- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-5715)
-- [Exploratory Testing of Cars.ng – Findings, Issues, and Recommendations](https://dev.to/beejhay/exploratory-testing-of-carsng-findings-issues-and-recommendations-48al)
-- [Best VS Code Extensions to Boost Your Productivity 🚀](https://dev.to/moibra/best-vs-code-extensions-to-boost-your-productivity-1n86)
+- [Implementing &quot;Linked Accounts&quot; in a Rails App with Devise and OmniAuth](https://dev.to/jessalejo/implementing-linked-accounts-in-a-rails-app-with-devise-and-omniauth-o71)
+- [How Games Maintain Consistent Speed Across Different Devices](https://dev.to/petrova_line/how-games-maintain-consistent-speed-across-different-devices-9in)
+- [Rust Channels Guide: Thread Communication Patterns and Best Practices for Safe Concurrency](https://dev.to/aaravjoshi/rust-channels-guide-thread-communication-patterns-and-best-practices-for-safe-concurrency-4c45)
+- [Kubernetes And Container Orchestration](https://dev.to/nepalabhay/kubernetes-and-container-orchestration-ho8)
 <!-- BLOG-POST-LIST:END -->
 
 
