@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Dev Day 6: JavaScript Guide](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)
-- [Famiq - Getting start](https://dev.to/kimhong_muong/famiq-getting-start-jdo)
-- [Building a Real-Time NBA Game Day Notification System with AWS and Terraform](https://dev.to/princemaxi/building-a-real-time-nba-game-day-notification-system-with-aws-and-terraform-kli)
-- [&quot;Revolutionizing Systems Engineering: The Role of AI in Requirements Analysis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-in-requirements-analysis-29ja)
+- [ICP: 10の分散型イノベーション](https://dev.to/izi_/icp-10nofen-san-xing-inobesiyon-6o8)
+- [Kubernetes 1.32: New Features, Enhancements and Upgrades](https://dev.to/mageshwaransekar/kubernetes-132-new-features-enhancements-and-upgrades-33ba)
+- [JavaScript Blackjack](https://dev.to/bmeinert8/javascript-blackjack-51d2)
+- [A really great tutorial !!!](https://dev.to/mince/a-really-great-tutorial--536o)
 <!-- BLOG-POST-LIST:END -->
 
 
