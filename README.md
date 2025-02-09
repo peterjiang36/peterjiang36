@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 14 of #100DaysOfCode – Pushing Through, Learning, and Building! 🚀](https://dev.to/toptech5419/week-14-of-100daysofcode-pushing-through-learning-and-building-321p)
-- [Handling Complex File Upload forms](https://dev.to/brinobruno/handling-complex-file-upload-forms-56bh)
-- [Migrating Plex from Windows to Linux &lpar;the missing pieces&rpar;](https://dev.to/spwoodcock/migrating-plex-from-windows-to-linux-the-missing-pieces-1do8)
-- [&quot;Revolutionizing Systems Engineering: The Role of AI and Gaussian Processes&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-systems-engineering-the-role-of-ai-and-gaussian-processes-1nob)
+- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-1a5c)
+- [Completely rewrote the article. Put in a lot of effort. I hope you like it](https://dev.to/alakkadshaw/completely-rewrote-the-article-put-in-a-lot-of-effort-i-hope-you-like-it-5715)
+- [Exploratory Testing of Cars.ng – Findings, Issues, and Recommendations](https://dev.to/beejhay/exploratory-testing-of-carsng-findings-issues-and-recommendations-48al)
+- [Best VS Code Extensions to Boost Your Productivity 🚀](https://dev.to/moibra/best-vs-code-extensions-to-boost-your-productivity-1n86)
 <!-- BLOG-POST-LIST:END -->
 
 
