@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Python Is Powering Growth in 5 Leading Industries](https://dev.to/vaishali2/how-python-is-powering-growth-in-5-leading-industries-4doe)
-- [a small yarn deployment error](https://dev.to/yizhen_liu_d869c2eb0f33b6/a-small-yarn-deployment-error-2445)
-- [Vamos falar sobre programação funcional? Uma abordagem diferente para resolver problemas.](https://dev.to/levxyca/vamos-falar-sobre-programacao-funcional-uma-abordagem-diferente-para-resolver-problemas-2f2a)
-- [Building a Thriving Open Source Community: Strategies for Engagement](https://dev.to/bobcars/building-a-thriving-open-source-community-strategies-for-engagement-5fkk)
+- [Trunk-Based Development or GitFlow?](https://dev.to/fmerian/trunk-based-development-or-gitflow-1jn1)
+- [#100DAYSOFCODE: Day 3](https://dev.to/isaiahhtml/100daysofcode-day-3-55pc)
+- [🚀Diving into AWS EC2 – My First Hands-On Experience](https://dev.to/harny_lawrence_9964a16d5c/diving-into-aws-ec2-my-first-hands-on-experience-3811)
+- [Are LLMs Really Doomed?](https://dev.to/nad_mc/are-llms-really-doomed-j77)
 <!-- BLOG-POST-LIST:END -->
 
 
