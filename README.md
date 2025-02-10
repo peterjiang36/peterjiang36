@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Role of AI in Modern Web Development: A Game-Changer or Just a Buzzword? 🤖](https://dev.to/dct_technologyprivatelimited/the-role-of-ai-in-modern-web-development-a-game-changer-or-just-a-buzzword-58bf)
-- [Everything About Python Colons](https://dev.to/mike-vincent/everything-about-python-colons-10bp)
-- [Frontend Fundamentals 11 &lpar;Wtf is `this`?&rpar;](https://dev.to/c6z3h/frontend-fundamentals-11-wtf-is-this-33a5)
-- [TIL: Configure Default Values for Nullable Columns With Default Constraints in EntityFramework Core](https://dev.to/canro91/til-configure-default-values-for-nullable-columns-with-default-constraints-in-entityframework-core-3b0g)
+- [Google Says Simple Websites Perform Best — Here’s Why](https://dev.to/web_dev-usman/google-says-simple-websites-perform-best-heres-why-89f)
+- [DeepSeek Translation, ElevenLabs AI Dubbing, Sorensen M&amp;A](https://dev.to/slator_languageindustry/deepseek-translation-elevenlabs-ai-dubbing-sorensen-ma-4j7n)
+- [Beyond Code: The Role of a Software Developer/Architect](https://dev.to/davidgarcia/beyond-code-the-role-of-a-software-developerarchitect-11cc)
+- [Testing Food Delivery Apps: Key Test Cases &amp; Best Practices](https://dev.to/shubham-theqa/testing-food-delivery-apps-key-test-cases-best-practices-48j)
 <!-- BLOG-POST-LIST:END -->
 
 
