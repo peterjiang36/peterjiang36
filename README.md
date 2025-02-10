@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BERT Models Can Now Classify Text Through Simple Instructions, Matching Traditional Methods](https://dev.to/mikeyoung44/bert-models-can-now-classify-text-through-simple-instructions-matching-traditional-methods-djg)
-- [Revisão do Artigo &quot;No Silver Bullet&quot; de Frederick Brooks: Um Conteúdo Atemporal](https://dev.to/asouza/revisao-do-artigo-no-silver-bullet-de-frederick-brooks-um-conteudo-atemporal-4gn3)
-- [Hello, I am honored to have made it to this forum. I set out looking for a way to crash course learn medical terminology so I could land a job at the chief Medical examiner&#39;s office; I got so involved 2 weeks disappeared an I can now find anything I want](https://dev.to/kimberly_nunley_d34b5907f/hello-i-am-honored-to-have-made-it-to-this-forum-i-set-out-looking-for-a-way-to-crash-course-354)
-- [New AI System Can Detect and Explain Deepfake Voices with 90% Accuracy](https://dev.to/mikeyoung44/new-ai-system-can-detect-and-explain-deepfake-voices-with-90-accuracy-4aa6)
+- [The Future of Customer Engagement: Why Your Business Needs a Chatbot App](https://dev.to/jirav_sharma/the-future-of-customer-engagement-why-your-business-needs-a-chatbot-app-33kj)
+- [Mastering State Management with NgRx Signal Store in Angular 🚀](https://dev.to/bndf1/mastering-state-management-with-ngrx-signal-store-in-angular-35n1)
+- [&lpar;Update: NgRx Signal Store Enhancements&rpar; Mastering State Management with NgRx Signal Store in Angular 🚀](https://dev.to/bndf1/update-ngrx-signal-store-enhancements-mastering-state-management-with-ngrx-signal-store-in-19dj)
+- [Unit Testing Without Tears: How CodeBeaver Turned Testing from &#39;pytest run pain&#39; to &#39;git push joy&#39; 🚀](https://dev.to/vittorio_banfi_6d141586d5/unit-testing-without-tears-how-codebeaver-turned-testing-from-pytest-run-pain-to-git-push-joy-3nd4)
 <!-- BLOG-POST-LIST:END -->
 
 
