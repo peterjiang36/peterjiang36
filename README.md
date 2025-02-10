@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica de site para montagem de currículo: novoresume.com](https://dev.to/vivianbr/dica-de-site-para-montagem-de-curriculo-novoresumecom-28d4)
-- [AI, LocalLLM and DeepSeek. What is it all about and how to dive into the world of LLM?](https://dev.to/budzynskimaciej/ai-localllm-and-deepseek-what-is-it-all-about-and-how-to-dive-into-the-world-of-llm-3mjl)
-- [How to Build a Simple AI Agent with Langflow and Composio](https://dev.to/datastax/how-to-build-a-simple-ai-agent-with-langflow-and-composio-13d4)
-- [Mastering Python Context Managers: Efficient Resource Management Made Easy](https://dev.to/keshavadk/mastering-python-context-managers-efficient-resource-management-made-easy-2npb)
+- [Introduction to Message Brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
+- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-3cgl)
+- [Using React Navigation instead of Expo Router](https://dev.to/matthewzruiz/using-react-navigation-instead-of-expo-router-49bl)
+- [Skeptics Shall Inherit the AI](https://dev.to/frontpills/skeptics-shall-inherit-the-ai-2bkb)
 <!-- BLOG-POST-LIST:END -->
 
 
