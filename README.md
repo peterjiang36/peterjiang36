@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Message Brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
-- [Set Is Just Built Different 😤💪](https://dev.to/mattlewandowski93/set-is-just-built-different-3cgl)
-- [Using React Navigation instead of Expo Router](https://dev.to/matthewzruiz/using-react-navigation-instead-of-expo-router-49bl)
-- [Skeptics Shall Inherit the AI](https://dev.to/frontpills/skeptics-shall-inherit-the-ai-2bkb)
+- [AWS S3: A Technical Exploration](https://dev.to/coltongraygg/aws-s3-a-technical-exploration-4mjk)
+- [Integrating Error Monitoring and Performance Analysis with Sentry in a React Application](https://dev.to/kreshby/integrating-error-monitoring-and-performance-analysis-with-sentry-in-a-react-application-51l0)
+- [Complete Guide: Enabling Secure Boot with Linux and Windows Dual-Boot Setup](https://dev.to/berk/complete-guide-enabling-secure-boot-with-linux-and-windows-dual-boot-setup-24o8)
+- [This Week in Docker: AI, AI, AI!](https://dev.to/code42cate/this-week-in-docker-ai-ai-ai-2khe)
 <!-- BLOG-POST-LIST:END -->
 
 
