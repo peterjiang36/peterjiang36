@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data science for marketing](https://dev.to/sohan_brolly_8bd78c59c6fc/data-science-for-marketing-3i9a)
-- [&lpar;Neo&rpar;Vim Makes You a 10x DEV, and I&#39;m not Kidding](https://dev.to/shricodev/neovim-makes-you-a-10x-dev-and-im-not-kidding-2ka1)
-- [AWS Foundations: Understanding Cloud Computing and Virtualization](https://dev.to/harny_lawrence_9964a16d5c/aws-foundations-understanding-cloud-computing-and-virtualization-5gnm)
-- [[Boost]](https://dev.to/lorebrada00/-en5)
+- [How Python Is Powering Growth in 5 Leading Industries](https://dev.to/vaishali2/how-python-is-powering-growth-in-5-leading-industries-4doe)
+- [a small yarn deployment error](https://dev.to/yizhen_liu_d869c2eb0f33b6/a-small-yarn-deployment-error-2445)
+- [Vamos falar sobre programação funcional? Uma abordagem diferente para resolver problemas.](https://dev.to/levxyca/vamos-falar-sobre-programacao-funcional-uma-abordagem-diferente-para-resolver-problemas-2f2a)
+- [Building a Thriving Open Source Community: Strategies for Engagement](https://dev.to/bobcars/building-a-thriving-open-source-community-strategies-for-engagement-5fkk)
 <!-- BLOG-POST-LIST:END -->
 
 
