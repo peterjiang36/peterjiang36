@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trunk-Based Development or GitFlow?](https://dev.to/fmerian/trunk-based-development-or-gitflow-1jn1)
-- [#100DAYSOFCODE: Day 3](https://dev.to/isaiahhtml/100daysofcode-day-3-55pc)
-- [🚀Diving into AWS EC2 – My First Hands-On Experience](https://dev.to/harny_lawrence_9964a16d5c/diving-into-aws-ec2-my-first-hands-on-experience-3811)
-- [Are LLMs Really Doomed?](https://dev.to/nad_mc/are-llms-really-doomed-j77)
+- [Pulumi vs. Terraform: Choosing the Best Infrastructure as Code Solution](https://dev.to/janlepsky/pulumi-vs-terraform-choosing-the-best-infrastructure-as-code-solution-gbp)
+- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-2p4h)
+- [How do you implement AI pathfinding in iOS games using GameplayKit?](https://dev.to/neville_adam/how-do-you-implement-ai-pathfinding-in-ios-games-using-gameplaykit-ncc)
+- [&quot;Revolutionizing Research: How AI and LLMs Transform Scientific Discovery&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-research-how-ai-and-llms-transform-scientific-discovery-3ddh)
 <!-- BLOG-POST-LIST:END -->
 
 
