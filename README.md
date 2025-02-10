@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real‑Time Binance OHLCV Streaming with Node.js Native WebSocket &amp; TypeScript](https://dev.to/simplr_sh/real-time-binance-ohlcv-streaming-with-nodejs-native-websocket-typescript-6bf)
-- [Vector Databases vs. PostgreSQL with pg_vector for RAG Setups](https://dev.to/simplr_sh/vector-databases-vs-postgresql-with-pgvector-for-rag-setups-1lg2)
-- [Day Spas in The Big Apple: Select with Assurance](https://dev.to/nycdayspa55/day-spas-in-the-big-apple-select-with-assurance-1g60)
-- [Understand data science before using LLM into your AI agents](https://dev.to/saad_ali_21c328f1cb588b4d/understand-data-science-before-using-llm-into-your-ai-agents-161e)
+- [Flow Like a River, Soar Like a Bird](https://dev.to/robin-ivi/flow-like-a-river-soar-like-a-bird-559j)
+- [Getting Started with AWS SageMaker: Train and Deploy a Model in the Cloud for Cybersecurity Threat Detection &lpar;Part 1&rpar;](https://dev.to/ogambakerubo/getting-started-with-aws-sagemaker-train-and-deploy-a-model-in-the-cloud-for-cybersecurity-threat-382d)
+- [Untitled](https://dev.to/hitendraedit/untitled-57c4)
+- [Revolutionizing Development with Internet Computer Protocol: 10 Groundbreaking Project Ideas](https://dev.to/caerlower/revolutionizing-development-with-internet-computer-protocol-10-groundbreaking-project-ideas-5ge4)
 <!-- BLOG-POST-LIST:END -->
 
 
