@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
-- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
-- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
-- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
+- [🏗️Accessibility in Frontend Development: Building Inclusive Web Experiences](https://dev.to/umair_arshad_64fe0df00380/accessibility-in-frontend-development-building-inclusive-web-experiences-2507)
+- [🚀My Next.js Learning Journey](https://dev.to/umair_arshad_64fe0df00380/my-nextjs-learning-journey-4d0l)
+- [Mastering Rollup.js: From Basics to Advanced](https://dev.to/leapcell/mastering-rollupjs-from-basics-to-advanced-2id3)
+- [Blockchain Integration for Metaverse Asset Ownership](https://dev.to/techsoftwareservices/blockchain-integration-for-metaverse-asset-ownership-4ja0)
 <!-- BLOG-POST-LIST:END -->
 
 
