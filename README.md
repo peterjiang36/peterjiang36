@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Customer Engagement: Why Your Business Needs a Chatbot App](https://dev.to/jirav_sharma/the-future-of-customer-engagement-why-your-business-needs-a-chatbot-app-33kj)
-- [Mastering State Management with NgRx Signal Store in Angular 🚀](https://dev.to/bndf1/mastering-state-management-with-ngrx-signal-store-in-angular-35n1)
-- [&lpar;Update: NgRx Signal Store Enhancements&rpar; Mastering State Management with NgRx Signal Store in Angular 🚀](https://dev.to/bndf1/update-ngrx-signal-store-enhancements-mastering-state-management-with-ngrx-signal-store-in-19dj)
-- [Unit Testing Without Tears: How CodeBeaver Turned Testing from &#39;pytest run pain&#39; to &#39;git push joy&#39; 🚀](https://dev.to/vittorio_banfi_6d141586d5/unit-testing-without-tears-how-codebeaver-turned-testing-from-pytest-run-pain-to-git-push-joy-3nd4)
+- [From Trading to Spending: How Crypto Cards Are Bringing Digital Assets Into Everyday Life](https://dev.to/leo_scott_357f10236fabe00/from-trading-to-spending-how-crypto-cards-are-bringing-digital-assets-into-everyday-life-1epk)
+- [Wish I Had Better Tools](https://dev.to/erykpiast/wish-i-had-better-tools-329c)
+- [Implementing Real-Time Data Processing Using Apache Flink](https://dev.to/flnzba/implementing-real-time-data-processing-using-apache-flink-i0e)
+- [Building for Scale: Introduction to the Cipher Horizon Journey](https://dev.to/dminatto/building-for-scale-introduction-to-the-cipher-horizon-journey-1idn)
 <!-- BLOG-POST-LIST:END -->
 
 
