@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi vs. Terraform: Choosing the Best Infrastructure as Code Solution](https://dev.to/janlepsky/pulumi-vs-terraform-choosing-the-best-infrastructure-as-code-solution-gbp)
-- [What are your goals for the week?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-2p4h)
-- [How do you implement AI pathfinding in iOS games using GameplayKit?](https://dev.to/neville_adam/how-do-you-implement-ai-pathfinding-in-ios-games-using-gameplaykit-ncc)
-- [&quot;Revolutionizing Research: How AI and LLMs Transform Scientific Discovery&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-research-how-ai-and-llms-transform-scientific-discovery-3ddh)
+- [🌷Creating an SSR Gallery App in JavaScript](https://dev.to/hmpljs/creating-an-ssr-gallery-app-in-javascript-16kp)
+- [BettorEdge Expands Reach with Official Apple App Store Launch](https://dev.to/gkajewski/bettoredge-expands-reach-with-official-apple-app-store-launch-2o0b)
+- [Run Deepseek locally using Docker!](https://dev.to/savvasstephnds/run-deepseek-locally-using-docker-2pdm)
+- [CI/CD Wars: GitHub Actions vs. GitLab CI vs. Jenkins vs. CircleCI](https://dev.to/raji_moshood_ee3a4c2638f6/cicd-wars-github-actions-vs-gitlab-ci-vs-jenkins-vs-circleci-3ahi)
 <!-- BLOG-POST-LIST:END -->
 
 
