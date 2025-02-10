@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 DeepSeek R1 Prompts for Coding That Actually Save You Time.](https://dev.to/balrajola/10-deepseek-r1-prompts-for-coding-that-actually-save-you-time-55jp)
-- [Organização de testes automatizados](https://dev.to/tcava/organizacao-de-testes-automatizados-2d7h)
-- [Can we add AI to that?](https://dev.to/nmiller15/can-we-add-ai-to-that-pa6)
-- [[Boost]](https://dev.to/cedric_bonjour/-2ia3)
+- [🚀Introducing AnonyPost: A Social Media App for Anonymous Sharing](https://dev.to/mahmud-r-farhan/introducing-anony-a-social-media-app-for-anonymous-sharing-36c5)
+- [A Deep Dive into Graceful Shutdown in Go](https://dev.to/yanev/a-deep-dive-into-graceful-shutdown-in-go-484a)
+- [What is Regression in Machine Learning?](https://dev.to/thenomadevel/what-is-regression-in-machine-learning-7m3)
+- [Practical Tips for Kubernetes Upgrades for Startups](https://dev.to/meteorops/practical-tips-for-kubernetes-upgrades-for-startups-22df)
 <!-- BLOG-POST-LIST:END -->
 
 
