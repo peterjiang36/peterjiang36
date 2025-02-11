@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#142 — Expand One Row into Multiple Rows Based on Value](https://dev.to/judith677/142-expand-one-row-into-multiple-rows-based-on-value-3bo0)
-- [Milvus: Your Vector Database Powerhouse – A Deep Dive](https://dev.to/simplr_sh/milvus-your-vector-database-powerhouse-a-deep-dive-2d6h)
-- [React State: useState Explained Simply](https://dev.to/marveeeen/react-state-usestate-explained-simply-24ic)
-- [Inorder Traversal](https://dev.to/mujahida_joynab_64c7407d8/inorder-traversal-4l8d)
+- [Hello, World!](https://dev.to/sonjetty/hello-world-3il6)
+- [How to Become a Data Analyst: A Step-by-Step Guide](https://dev.to/lekshmi_525/how-to-become-a-data-analyst-a-step-by-step-guide-48nf)
+- [My Attempt at the Cloud Resume Challenge &lpar;Azure Edition&rpar;](https://dev.to/skelingtonboi/my-attempt-at-the-cloud-resume-challenge-azure-edition-36h5)
+- [Detailed Steps of JVM Object Creation Using the new Keyword in Java](https://dev.to/ryan_zhi/detailed-steps-of-jvm-object-creation-using-the-new-keyword-in-java-3mgm)
 <!-- BLOG-POST-LIST:END -->
 
 
