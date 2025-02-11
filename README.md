@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Understanding V8 JIT: How JavaScript Gets Compiled and Optimized](https://dev.to/sajiram_a4704bc095/understanding-v8-jit-how-javascript-gets-compiled-and-optimized-3hi7)
+- [🚀 Deploying Your First Web App: A Beginner’s Guide](https://dev.to/fareedmunawar00/deploying-your-first-web-app-a-beginners-guide-276l)
 - [Flexible interval aggregation：From SQL to SPL](https://dev.to/esproc_spl/flexible-interval-aggregationfrom-sql-to-spl-598m)
-- [Semantic search on top of object detection](https://dev.to/mayank_laddha_21ef3e061ff/semantic-search-on-top-of-object-detection-1pf5)
-- [This was fun...](https://dev.to/mince/this-was-fun-77m)
-- [How I Solve Git Merge Conflicts Like a Pro](https://dev.to/rowsanali/how-i-solve-git-merge-conflicts-like-a-pro-b9o)
+- [Hosting a Nuxt App Without a Server Using Pinggy](https://dev.to/lightningdev123/hosting-a-nuxt-app-without-a-server-using-pinggy-474n)
 <!-- BLOG-POST-LIST:END -->
 
 
