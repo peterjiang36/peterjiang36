@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#142 — Expand One Row into Multiple Rows Based on Value](https://dev.to/judith677/142-expand-one-row-into-multiple-rows-based-on-value-3bo0)
 - [Milvus: Your Vector Database Powerhouse – A Deep Dive](https://dev.to/simplr_sh/milvus-your-vector-database-powerhouse-a-deep-dive-2d6h)
 - [React State: useState Explained Simply](https://dev.to/marveeeen/react-state-usestate-explained-simply-24ic)
 - [Inorder Traversal](https://dev.to/mujahida_joynab_64c7407d8/inorder-traversal-4l8d)
-- [WinUI i18n: how to create Resources.resw file](https://dev.to/shaunthegeek/winui-i18n-how-to-create-resourcesresw-file-4d25)
 <!-- BLOG-POST-LIST:END -->
 
 
