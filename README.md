@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Hashicorp Vault with Ansible](https://dev.to/kubenetic/install-hashicorp-vault-with-ansible-lb3)
-- [Self-signed PKI for the homelab](https://dev.to/kubenetic/self-signed-pki-for-the-homelab-58hh)
-- [Hi. &lpar;1st post.&rpar;](https://dev.to/outer/hi-1st-post-llg)
-- [Module 3 of DataTalks club Data Engg bootcamp.](https://dev.to/grokker_f9bf83d79cb9beb6f/module-3-of-datatalks-club-data-engg-bootcamp-3h23)
+- [Reflexões ao usar o GitHub Copilot](https://dev.to/edersontec/reflexoes-ao-usar-o-github-copilot-1cc1)
+- [Mastering API resources in Laravel: Transforming your data with power and flexibility](https://dev.to/aleson-franca/mastering-api-resources-in-laravel-transforming-your-data-with-power-and-flexibility-4f51)
+- [[Boost]](https://dev.to/vayolapradeep/-5fc9)
+- [Creating a RESTful API with Nolang](https://dev.to/nolang/creating-a-restful-api-with-nolang-8ne)
 <!-- BLOG-POST-LIST:END -->
 
 
