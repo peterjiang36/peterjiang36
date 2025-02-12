@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Elevate Your UI: Creating a Stunning Linear Gradient Border in React Native](https://dev.to/amitkumar13/elevate-your-ui-creating-a-stunning-linear-gradient-border-in-react-native-2ace)
-- [I made my DEV articles into a blog using the Forem API](https://dev.to/moopet/i-made-my-dev-articles-into-a-blog-using-the-forem-api-42d2)
-- [I Tested the Top AI Models to Build the Same App - Here are the Shocking Results!](https://dev.to/andrewbaisden/i-tested-the-top-ai-models-to-build-the-same-app-here-are-the-shocking-results-39l9)
-- [How to Use CSS Grid for Complex Web Layouts: A Step-by-Step Guide](https://dev.to/rowsanali/how-to-use-css-grid-for-complex-web-layouts-a-step-by-step-guide-3fk9)
+- [AI Community Pulse &lpar;February 12&rpar;](https://dev.to/future_ai/ai-community-pulse-february-12-32pn)
+- [JUnit Testing | Spring Boot | Java Spring](https://dev.to/debeshpg90/junit-testing-spring-boot-java-spring-1891)
+- [Stop asking users for their AI API keys](https://dev.to/miguelaeh/stop-asking-users-for-their-ai-api-keys-2583)
+- [Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
 <!-- BLOG-POST-LIST:END -->
 
 
