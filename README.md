@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you accept that we shouldn&#39;t care of followers in dev.to, They are all bots](https://dev.to/mince/do-you-accept-that-we-shouldnt-care-of-followers-in-devto-they-are-all-bots-2mc)
-- [How I’m Treating Myself &lpar;and Others&rpar; This Valentine’s Day as a Crypto Enthusiast](https://dev.to/leo_scott_357f10236fabe00/how-im-treating-myself-and-others-this-valentines-day-as-a-crypto-enthusiast-5akg)
-- [Don’t Rely on Social Media Alone! 9 Reasons Why Your Business Needs a Website?](https://dev.to/web_dev-usman/dont-rely-on-social-media-alone-9-reasons-why-your-business-needs-a-website-144l)
-- [Testing 3](https://dev.to/sarifht/testing-3-4c2k)
+- [How to Write Technical Documentation in 2025: A Step-by-Step Guide](https://dev.to/auden/how-to-write-technical-documentation-in-2025-a-step-by-step-guide-1hh1)
+- [A developers guide to v0.dev](https://dev.to/codeparrot/a-developers-guide-to-v0dev-4c4g)
+- [My DE Zoomcamp Journey :Week 3 – Data Warehousing &amp; BigQuery!](https://dev.to/ccinaza/my-de-zoomcamp-journey-week-3-data-warehousing-bigquery-4hih)
+- [Game Design Constraints as a Driver for Educational Games](https://dev.to/valentin_briukhanov/game-design-constraints-as-a-driver-for-educational-games-2hn1)
 <!-- BLOG-POST-LIST:END -->
 
 
