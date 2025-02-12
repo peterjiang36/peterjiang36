@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflexões ao usar o GitHub Copilot](https://dev.to/edersontec/reflexoes-ao-usar-o-github-copilot-1cc1)
-- [Mastering API resources in Laravel: Transforming your data with power and flexibility](https://dev.to/aleson-franca/mastering-api-resources-in-laravel-transforming-your-data-with-power-and-flexibility-4f51)
-- [[Boost]](https://dev.to/vayolapradeep/-5fc9)
-- [Creating a RESTful API with Nolang](https://dev.to/nolang/creating-a-restful-api-with-nolang-8ne)
+- [How to Validate XML Against DTD Locally and Securely](https://dev.to/chatgptnexus/2025021308-07-55-article-3dd2)
+- [A Step-by-Step Guide to LLM Function Calling in Python](https://dev.to/angu10/a-step-by-step-guide-to-llm-function-calling-in-python-4pg7)
+- [Welcome WebForms Core Technology to R: A New Era Begins](https://dev.to/elanatframework/welcome-webforms-core-technology-to-r-a-new-era-begins-24an)
+- [Day 1100 : Been A Long Time](https://dev.to/dwane/day-1100-been-a-long-time-445m)
 <!-- BLOG-POST-LIST:END -->
 
 
