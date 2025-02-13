@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking into Tech at Midlife: A Nigerian’s Career Transition Story](https://dev.to/trae_z/breaking-into-tech-at-midlife-a-nigerians-career-transition-story-4ghi)
-- [What is Contentbase?](https://dev.to/erikfiala/what-is-contentbase-42el)
-- [⚔️ Next.js vs. Django: ¿Cuándo usar cada tecnología en tus proyectos? 🚀](https://dev.to/alvaroapdev/nextjs-vs-django-cuando-usar-cada-tecnologia-en-tus-proyectos-3mc8)
-- [Difference Between Verified Mark Certificate &lpar;VMC&rpar; Vs Common Mark Certificate &lpar;CMC&rpar;](https://dev.to/certera_/difference-between-verified-mark-certificate-vmc-vs-common-mark-certificate-cmc-2am6)
+- [How to Use Tailwind CSS to Create a Modern Website Design](https://dev.to/rowsanali/how-to-use-tailwind-css-to-create-a-modern-website-design-4n2j)
+- [Learn server actions in Nextjs](https://dev.to/khalidkhankakar/learn-this-the-server-actions-in-nextjs-237h)
+- [We are on Product Hunt!](https://dev.to/dev-to-rater-org/we-are-on-product-hunt-2a7l)
+- [NextJs Server Actions](https://dev.to/khalidkhankakar/nextjs-server-actions-3oc9)
 <!-- BLOG-POST-LIST:END -->
 
 
