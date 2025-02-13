@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fiberplane: Your Hono-native API Playground, powered by OpenAPI](https://dev.to/fiberplane/fiberplane-your-hono-native-api-playground-powered-by-openapi-59j3)
-- [RAG with free LLM Model](https://dev.to/alexander_uspenskiy_the_great/rag-with-free-llm-model-44n4)
-- [DeepSeek on your laptop!](https://dev.to/alexander_uspenskiy_the_great/deepseek-on-your-laptop-347)
-- [Any alternative to DeepSeek?](https://dev.to/alexander_uspenskiy_the_great/any-alternative-to-deepseek-8kh)
+- [Google chrome inactive tabs extension](https://dev.to/thevie_mortiniera/google-chrome-inactive-tabs-extension-2ak)
+- [Thinking about Exceptions](https://dev.to/apontes77/thinking-about-exceptions-gf3)
+- [&quot;Mastering Cross-Lingual Semantic Search: Insights &amp; Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-cross-lingual-semantic-search-insights-innovations-44c0)
+- [Pull GitHub data into Databricks with dbutils](https://dev.to/encorepartners/pull-github-data-into-databricks-with-dbutils-3196)
 <!-- BLOG-POST-LIST:END -->
 
 
