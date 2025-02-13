@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Financial Challenges in Open Source Projects](https://dev.to/rachellovestowrite/navigating-financial-challenges-in-open-source-projects-5bl1)
-- [Spring Boot 3.4 application on AWS Lambda- Part 1 AWS Serverless Java Container](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-1-aws-serverless-java-container-g50)
-- [How to Design a Traffic Signal Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-traffic-signal-using-3d-cad-software-2n7d)
-- [🌟 Why Angular is Still Popular in 2025?](https://dev.to/artem_turlenko/why-angular-is-still-popular-in-2025-45j7)
+- [How to Become a Data Scientist Without a Degree?](https://dev.to/tarunfulera1/how-to-become-a-data-scientist-without-a-degree-542o)
+- [[Boost]](https://dev.to/sauain/-3n8)
+- [Building Resilient APIs: A Comprehensive Guide to Throttling and Circuit Breakers with WSO2, Redis, and Kafka](https://dev.to/devaaai/building-resilient-apis-a-comprehensive-guide-to-throttling-and-circuit-breakers-with-wso2-redis-mga)
+- [Mastering the Strategy Pattern with a Car Example 🚗⚙️](https://dev.to/dhanasai_tholeti/mastering-the-strategy-pattern-with-a-car-example-39ko)
 <!-- BLOG-POST-LIST:END -->
 
 
