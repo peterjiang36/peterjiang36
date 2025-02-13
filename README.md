@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue Developer Roadmap: A Comprehensive Guide to Mastering Vue.js](https://dev.to/robin-ivi/vue-developer-roadmap-a-comprehensive-guide-to-mastering-vuejs-a2)
-- [Mastering Redux-Saga: Advanced Concepts and Use Cases 🌪️](https://dev.to/tejastn10/mastering-redux-saga-advanced-concepts-and-use-cases-3kji)
-- [Zero Trust Architecture Practice](https://dev.to/windasunnie/zero-trust-architecture-practice-245m)
-- [Building Slack Platform Expert AI](https://dev.to/seratch/building-slack-platform-expert-ai-1555)
+- [Firestore CRUD 101: Building Apps with React](https://dev.to/debajit13/firestore-crud-101-building-apps-with-react-3913)
+- [Researchers Present DOLFIN, a New Test Set for AI Translation for Financial Content](https://dev.to/slator_languageindustry/researchers-present-dolfin-a-new-test-set-for-ai-translation-for-financial-content-406h)
+- [Multicast &amp; Chill: Getting Started with RxJS - III](https://dev.to/lovestaco/multicast-chill-getting-started-with-rxjs-iii-4n63)
+- [10 Super Underrated Open-Source Tools You Don’t Want to Miss in 2025 🚀](https://dev.to/dct_technologyprivatelimited/10-super-underrated-open-source-tools-you-dont-want-to-miss-in-2025-26k1)
 <!-- BLOG-POST-LIST:END -->
 
 
