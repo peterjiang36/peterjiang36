@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bow to the rectangle](https://dev.to/aaronblondeau/bow-to-the-rectangle-2dg5)
-- [Building a Multi-Source AI Agent: Bridging Databases, APIs, and AI Models](https://dev.to/burhanahmeed/building-a-multi-source-ai-agent-bridging-databases-apis-and-ai-models-3lna)
-- [RandomResizedCrop in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-4-2ken)
-- [Pentagon Programming Assignment 2 University of the People](https://dev.to/suraj_upadhyaya_e66fa7e68/pentagon-programming-assignment-2-university-of-the-people-2k7i)
+- [How to Fix the “No ‘Access-Control-Allow-Origin’ Header” Error](https://dev.to/reynaldichernando/how-to-fix-the-no-access-control-allow-origin-header-error-5c1j)
+- [Mastering JavaScript Metaprogramming: Reflection, Proxies, and Symbols](https://dev.to/leapcell/mastering-javascript-metaprogramming-reflection-proxies-and-symbols-33jo)
+- [Untitled](https://dev.to/ronald_alexis_54a33df4f71/untitled-4pni)
+- [Multi Tenant Architecture in Software: What Is It and Its Databases Patterns](https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28)
 <!-- BLOG-POST-LIST:END -->
 
 
