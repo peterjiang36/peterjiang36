@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Community Pulse &lpar;February 13&rpar;](https://dev.to/future_ai/ai-community-pulse-february-13-4h62)
-- [How GitHub Copilot’s ROBIN Takes Debugging to the Next Level](https://dev.to/johnschibelli/how-github-copilots-robin-takes-debugging-to-the-next-level-36nh)
-- [Preparing for PCEP™ – My Journey into Python Certification](https://dev.to/cipherpodliq/preparing-for-pcep-my-journey-into-python-certification-274n)
-- [Installing A Linux Distribution Using WSL](https://dev.to/gokhanergentech/installing-a-linux-distribution-using-wsl-28oc)
+- [Navigating Financial Challenges in Open Source Projects](https://dev.to/rachellovestowrite/navigating-financial-challenges-in-open-source-projects-5bl1)
+- [Spring Boot 3.4 application on AWS Lambda- Part 1 AWS Serverless Java Container](https://dev.to/aws-heroes/spring-boot-34-application-on-aws-lambda-part-1-aws-serverless-java-container-g50)
+- [How to Design a Traffic Signal Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-traffic-signal-using-3d-cad-software-2n7d)
+- [🌟 Why Angular is Still Popular in 2025?](https://dev.to/artem_turlenko/why-angular-is-still-popular-in-2025-45j7)
 <!-- BLOG-POST-LIST:END -->
 
 
