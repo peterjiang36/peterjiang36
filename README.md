@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Tailwind CSS to Create a Modern Website Design](https://dev.to/rowsanali/how-to-use-tailwind-css-to-create-a-modern-website-design-4n2j)
-- [Learn server actions in Nextjs](https://dev.to/khalidkhankakar/learn-this-the-server-actions-in-nextjs-237h)
-- [We are on Product Hunt!](https://dev.to/dev-to-rater-org/we-are-on-product-hunt-2a7l)
-- [NextJs Server Actions](https://dev.to/khalidkhankakar/nextjs-server-actions-3oc9)
+- [Pull request testing on Kubernetes: testing locally and on GitHub workflows](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-testing-locally-and-on-github-workflows-2pha)
+- [I wanted to prompt a discussion on how people should read documentation effectively. It&#39;s a skill in itself and something that took me a long time to really figure out how to do. https://www.ramijames.com/thoughts/reading-documentation-effectively](https://dev.to/ramijames/i-wanted-to-prompt-a-discussion-on-how-people-should-read-documentation-effectively-its-a-skill-43c8)
+- [Expo Router Tutorial: Protected Routes, Tabs, and App Structure 🚀](https://dev.to/kumarsaurav/expo-router-tutorial-protected-routes-tabs-and-app-structure-3e28)
+- [How Spring Boot Application Works Internally?](https://dev.to/jottyjohn/how-spring-boot-application-works-internally-4nf6)
 <!-- BLOG-POST-LIST:END -->
 
 
