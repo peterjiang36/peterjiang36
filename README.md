@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Security: Mitigating Vulnerabilities, Prompt Injection, and Training Data Risks in AI Systems](https://dev.to/aragorn_talks/llm-security-mitigating-vulnerabilities-prompt-injection-and-training-data-risks-in-ai-systems-6fd)
-- [Memory Management in JavaScript: A Beginner-Friendly Guide](https://dev.to/rarai365/memory-management-in-javascript-a-beginner-friendly-guide-14ja)
-- [explica brevemente que es c# ?](https://dev.to/ricardojavister/explica-brevemente-que-es-c--4cb5)
-- [Model Tuning: Optimizing Machine Learning Performance](https://dev.to/kapusto/model-tuning-optimizing-machine-learning-performance-1j3k)
+- [Fiberplane: Your Hono-native API Playground, powered by OpenAPI](https://dev.to/fiberplane/fiberplane-your-hono-native-api-playground-powered-by-openapi-59j3)
+- [RAG with free LLM Model](https://dev.to/alexander_uspenskiy_the_great/rag-with-free-llm-model-44n4)
+- [DeepSeek on your laptop!](https://dev.to/alexander_uspenskiy_the_great/deepseek-on-your-laptop-347)
+- [Any alternative to DeepSeek?](https://dev.to/alexander_uspenskiy_the_great/any-alternative-to-deepseek-8kh)
 <!-- BLOG-POST-LIST:END -->
 
 
