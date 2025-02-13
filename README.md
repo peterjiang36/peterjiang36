@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix the “No ‘Access-Control-Allow-Origin’ Header” Error](https://dev.to/reynaldichernando/how-to-fix-the-no-access-control-allow-origin-header-error-5c1j)
-- [Mastering JavaScript Metaprogramming: Reflection, Proxies, and Symbols](https://dev.to/leapcell/mastering-javascript-metaprogramming-reflection-proxies-and-symbols-33jo)
-- [Untitled](https://dev.to/ronald_alexis_54a33df4f71/untitled-4pni)
-- [Multi Tenant Architecture in Software: What Is It and Its Databases Patterns](https://dev.to/zeedu_dev/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns-2p28)
+- [Vue Developer Roadmap: A Comprehensive Guide to Mastering Vue.js](https://dev.to/robin-ivi/vue-developer-roadmap-a-comprehensive-guide-to-mastering-vuejs-a2)
+- [Mastering Redux-Saga: Advanced Concepts and Use Cases 🌪️](https://dev.to/tejastn10/mastering-redux-saga-advanced-concepts-and-use-cases-3kji)
+- [Zero Trust Architecture Practice](https://dev.to/windasunnie/zero-trust-architecture-practice-245m)
+- [Building Slack Platform Expert AI](https://dev.to/seratch/building-slack-platform-expert-ai-1555)
 <!-- BLOG-POST-LIST:END -->
 
 
