@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why isn&#39;t my website indexed in Google? Common problems and errors](https://dev.to/flotiq/why-isnt-my-website-indexed-in-google-common-problems-and-errors-57i9)
-- [New Study Reveals Optimal Resource Allocation for AI Model Distillation](https://dev.to/mikeyoung44/new-study-reveals-optimal-resource-allocation-for-ai-model-distillation-4o06)
-- [I am unemployed, so I built a project.](https://dev.to/scythrine05/i-am-unemployed-so-i-built-a-project-5a2k)
-- [Use DeepSeek-R1 for Free: Here&#39;s Your Ultimate Guide!](https://dev.to/apilover/use-deepseek-r1-for-free-heres-your-ultimate-guide-1phe)
+- [Error Analysis 🔧 Stop Guessing, Start Fixing AI Models](https://dev.to/louis-dupont/error-analysis-stop-guessing-start-fixing-ai-models-338n)
+- [Keep It Simple: Focus on Problems, Not Features 🚀](https://dev.to/elvissautet/keep-it-simple-focus-on-problems-not-features-5fo7)
+- [External FSCSS](https://dev.to/fscss-ttr/external-fscss-17l7)
+- [💳 Advantages of Using a Crypto Card vs. a Traditional Bank Card](https://dev.to/cryptosandy/advantages-of-using-a-crypto-card-vs-a-traditional-bank-card-4enc)
 <!-- BLOG-POST-LIST:END -->
 
 
