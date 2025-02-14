@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Set SELinux flags](https://dev.to/kubenetic/set-selinux-flags-4g17)
-- [How to Integrate Custom Authentication from Your Existing Website Using Flarum API, Flarum-SSO, and JS-Cookie](https://dev.to/joshydev/how-to-integrate-custom-authentication-from-your-existing-website-using-flarum-api-flarum-sso-and-3hbe)
-- [Inclusive Technology: Making Digital Spaces for Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/inclusive-technology-making-digital-spaces-for-everyone-2n6h)
-- [How to pass the OWASP MASVS verification by design](https://dev.to/owasp/how-to-pass-the-owasp-masvs-verification-by-design-2cf9)
+- [Why isn&#39;t my website indexed in Google? Common problems and errors](https://dev.to/flotiq/why-isnt-my-website-indexed-in-google-common-problems-and-errors-57i9)
+- [New Study Reveals Optimal Resource Allocation for AI Model Distillation](https://dev.to/mikeyoung44/new-study-reveals-optimal-resource-allocation-for-ai-model-distillation-4o06)
+- [I am unemployed, so I built a project.](https://dev.to/scythrine05/i-am-unemployed-so-i-built-a-project-5a2k)
+- [Use DeepSeek-R1 for Free: Here&#39;s Your Ultimate Guide!](https://dev.to/apilover/use-deepseek-r1-for-free-heres-your-ultimate-guide-1phe)
 <!-- BLOG-POST-LIST:END -->
 
 
