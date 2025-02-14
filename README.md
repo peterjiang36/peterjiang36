@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Valentine&#39;s Day! ❤️](https://dev.to/best_codes/happy-valentines-day-4mo)
-- [Integrating Case Management Software With Fundraising Tools](https://dev.to/alex_ferguson/integrating-case-management-software-with-fundraising-tools-3424)
-- [Deep Dive into net/netip AddrPort Methods 6/7](https://dev.to/rezmoss/deep-dive-into-netnetip-addrport-methods-67-3gn3)
-- [Production Level MERN Project: A Beginner&#39;s Guide](https://dev.to/mahmud-r-farhan/production-level-mern-project-a-beginners-guide-5hmb)
+- [My useful library for typed RPC calls in TypeScript](https://dev.to/sergeyshpadyrev/my-useful-library-for-typed-rpc-calls-in-typescript-181j)
+- [Why Bootstrap 5 Is the Best Way to Go](https://dev.to/bkthemes/why-bootstrap-5-is-the-best-way-to-go-25n8)
+- [Xcode SF Shortcut CMD+Shift+L](https://dev.to/carlosbbuild/xcode-sf-shortcut-cmd-shift-l-oh1)
+- [Grayscale in PyTorch](https://dev.to/hyperkai/grayscale-in-pytorch-347d)
 <!-- BLOG-POST-LIST:END -->
 
 
