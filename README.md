@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [is CSS the New Sass? Here’s What You Need to Know in 2025](https://dev.to/worldoftheweb/is-css-the-new-sass-heres-what-you-need-to-know-in-2025-4254)
-- [Create the Perfect Logo with Artificial Intelligence](https://dev.to/angel_rojas_6904bae237a0d/create-the-perfect-logo-with-artificial-intelligence-47ka)
-- [Deploying and Tagging ECR Container Images in AWS CodePipeline](https://dev.to/stevensmiley/deploying-and-tagging-ecr-container-images-in-aws-codepipeline-44dl)
-- [VPN &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/vpn-bite-size-article-44b0)
+- [Understanding AI, Machine Learning, and Deep Learning: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/understanding-ai-machine-learning-and-deep-learning-a-comprehensive-guide-1j0)
+- [Try out Debtfree.com...!!](https://dev.to/kelvincode1234/try-out-debtfreecom-30kf)
+- [Pipes and Filter Pattern](https://dev.to/said_olano/pipes-and-filter-pattern-5f57)
+- [How I Built a Simple Shell in C – A Beginner&#39;s Guide to System Programming &lpar;1/3&rpar;](https://dev.to/ertugrulmutlu/how-i-built-a-simple-shell-in-c-a-beginners-guide-to-system-programming-13-238e)
 <!-- BLOG-POST-LIST:END -->
 
 
