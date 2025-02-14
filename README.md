@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Confidence Testing with Mutation Analysis and Diverse Test Data](https://dev.to/copyleftdev/high-confidence-testing-with-mutation-analysis-and-diverse-test-data-27lm)
-- [E-Learning Management System API](https://dev.to/jibrin_masud_e989e2381636/e-learning-management-system-api-4lg0)
-- [AI-Powered Startups: How Small Companies are Beating Giants](https://dev.to/routeclouds/ai-powered-startups-how-small-companies-are-beating-giants-2641)
-- [Orthogonal and Orthonormal Vectors in Linear Algebra](https://dev.to/shlok2740/orthogonal-and-orthonormal-vectors-in-linear-algebra-50cn)
+- [Angular SOLID Design Patterns: A Foundation for Robust Applications](https://dev.to/nurrehman/angular-solid-design-patterns-a-foundation-for-robust-applications-3739)
+- [[Boost]](https://dev.to/chrisvxd/-3hg)
+- [The Benefits of ChatGPT 4.5](https://dev.to/maksim_tarasov_c60917a469/the-benefits-of-chatgpt-45-1j76)
+- [Angular in 2024: 7 High-Impact Features That Will Supercharge Your Architecture](https://dev.to/nurrehman/angular-in-2024-7-high-impact-features-that-will-supercharge-your-architecture-4cap)
 <!-- BLOG-POST-LIST:END -->
 
 
