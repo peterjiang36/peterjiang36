@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Analysis 🔧 Stop Guessing, Start Fixing AI Models](https://dev.to/louis-dupont/error-analysis-stop-guessing-start-fixing-ai-models-338n)
-- [Keep It Simple: Focus on Problems, Not Features 🚀](https://dev.to/elvissautet/keep-it-simple-focus-on-problems-not-features-5fo7)
-- [External FSCSS](https://dev.to/fscss-ttr/external-fscss-17l7)
-- [💳 Advantages of Using a Crypto Card vs. a Traditional Bank Card](https://dev.to/cryptosandy/advantages-of-using-a-crypto-card-vs-a-traditional-bank-card-4enc)
+- [🚀 Your Daily Crypto Job Digest For 14 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-february-4fb)
+- [The Versatility of Qwen AI](https://dev.to/maksim_tarasov_c60917a469/the-versatility-of-qwen-ai-577l)
+- [How to Create a Heartbeat Animation with CSS](https://dev.to/digitalminds/how-to-create-a-heartbeat-animation-with-css-jl8)
+- [What are serifs?](https://dev.to/monolisafont/what-are-serifs-3gkl)
 <!-- BLOG-POST-LIST:END -->
 
 
