@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 14 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-february-4fb)
-- [The Versatility of Qwen AI](https://dev.to/maksim_tarasov_c60917a469/the-versatility-of-qwen-ai-577l)
-- [How to Create a Heartbeat Animation with CSS](https://dev.to/digitalminds/how-to-create-a-heartbeat-animation-with-css-jl8)
-- [What are serifs?](https://dev.to/monolisafont/what-are-serifs-3gkl)
+- [Top Crypto-Inspired Ways to Celebrate Valentine’s Day](https://dev.to/endeo/top-crypto-inspired-ways-to-celebrate-valentines-day-15bo)
+- [Micro-Moments, Macro-Results: The Art of Time Gap Optimization](https://dev.to/wraith/micro-moments-macro-results-the-art-of-time-gap-optimization-17dc)
+- [OpenAI o1 Capabilities](https://dev.to/maksim_tarasov_c60917a469/openai-o1-capabilities-1pga)
+- [Hacking My Own Wi-Fi: A Beginner’s Guide to Wireless Security](https://dev.to/panicatthekernel/hacking-my-own-wi-fi-a-beginners-guide-to-wireless-security-3hpd)
 <!-- BLOG-POST-LIST:END -->
 
 
