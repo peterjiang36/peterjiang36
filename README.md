@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular SOLID Design Patterns: A Foundation for Robust Applications](https://dev.to/nurrehman/angular-solid-design-patterns-a-foundation-for-robust-applications-3739)
-- [[Boost]](https://dev.to/chrisvxd/-3hg)
-- [The Benefits of ChatGPT 4.5](https://dev.to/maksim_tarasov_c60917a469/the-benefits-of-chatgpt-45-1j76)
-- [Angular in 2024: 7 High-Impact Features That Will Supercharge Your Architecture](https://dev.to/nurrehman/angular-in-2024-7-high-impact-features-that-will-supercharge-your-architecture-4cap)
+- [Hot vs Cold Observables: Getting Started with RxJS - IV](https://dev.to/lovestaco/hot-vs-cold-observables-getting-started-with-rxjs-iv-kp)
+- [Mobile first design with Tailwind CSS](https://dev.to/slyskillet/mobile-first-design-with-tailwind-css-3phd)
+- [Automating AWS API Gateway Deployment with GitHub Actions and OpenAPI 3.0](https://dev.to/burgossrodrigo/automating-aws-api-gateway-deployment-with-github-actions-and-openapi-30-33gd)
+- [How to Deploy a Windows Server on a Virtual Machine and Install IIS Server](https://dev.to/kelechiedeh/how-to-deploy-a-windows-server-on-a-virtual-machine-and-install-iis-server-2j2i)
 <!-- BLOG-POST-LIST:END -->
 
 
