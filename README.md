@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Crypto-Inspired Ways to Celebrate Valentine’s Day](https://dev.to/endeo/top-crypto-inspired-ways-to-celebrate-valentines-day-15bo)
-- [Micro-Moments, Macro-Results: The Art of Time Gap Optimization](https://dev.to/wraith/micro-moments-macro-results-the-art-of-time-gap-optimization-17dc)
-- [OpenAI o1 Capabilities](https://dev.to/maksim_tarasov_c60917a469/openai-o1-capabilities-1pga)
-- [Hacking My Own Wi-Fi: A Beginner’s Guide to Wireless Security](https://dev.to/panicatthekernel/hacking-my-own-wi-fi-a-beginners-guide-to-wireless-security-3hpd)
+- [1352. Product of the Last K Numbers](https://dev.to/mdarifulhaque/1352-product-of-the-last-k-numbers-3hi2)
+- [Event Handling &amp; Conditional Rendering in React](https://dev.to/johnschibelli/event-handling-conditional-rendering-in-react-2aee)
+- [FastAPI Book Project. My Stage 2 Task](https://dev.to/ameh_mathias/fastapi-book-project-my-stage-2-task-32b4)
+- [AI Community Pulse &lpar;February 14&rpar;](https://dev.to/future_ai/ai-community-pulse-february-14-58jh)
 <!-- BLOG-POST-LIST:END -->
 
 
