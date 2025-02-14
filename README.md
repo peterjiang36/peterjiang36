@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hot vs Cold Observables: Getting Started with RxJS - IV](https://dev.to/lovestaco/hot-vs-cold-observables-getting-started-with-rxjs-iv-kp)
-- [Mobile first design with Tailwind CSS](https://dev.to/slyskillet/mobile-first-design-with-tailwind-css-3phd)
-- [Automating AWS API Gateway Deployment with GitHub Actions and OpenAPI 3.0](https://dev.to/burgossrodrigo/automating-aws-api-gateway-deployment-with-github-actions-and-openapi-30-33gd)
-- [How to Deploy a Windows Server on a Virtual Machine and Install IIS Server](https://dev.to/kelechiedeh/how-to-deploy-a-windows-server-on-a-virtual-machine-and-install-iis-server-2j2i)
+- [Why I’m Quitting Gaming to Focus on My Future in Tech](https://dev.to/rembursed/why-im-quitting-gaming-to-focus-on-my-future-in-computer-science-e2d)
+- [Creating an Azure Kubernetes Service lab environment with Bicep](https://dev.to/willvelida/creating-an-azure-kubernetes-service-lab-environment-with-bicep-46n)
+- [Local LLM Memo](https://dev.to/takeda1411123/local-llm-memo-2k98)
+- [Optimize It or Crash: The Big Key Problem in Redis](https://dev.to/leapcell/optimize-it-or-crash-the-big-key-problem-in-redis-36n2)
 <!-- BLOG-POST-LIST:END -->
 
 
