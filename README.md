@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Github](https://dev.to/blade_afc19585650ffbe0c68/github-2b)
-- [🎉 J’ai créé ma première extension Google Chrome en moins de 10 minutes &lpar;et sans connaissances&rpar; ! 🚀](https://dev.to/developpeuz/jai-cree-ma-premiere-extension-google-chrome-2p48)
-- [Beninger set up for Video game development&lpar;Unreal Engine or others&rpar;](https://dev.to/gagecantrelle/beninger-set-up-for-video-game-developmentunreal-engine-or-others-4o83)
-- [Proxy reverse vs API Gateway vs Load Balancer](https://dev.to/wzorroman/proxy-reverse-vs-api-gateway-vs-load-balancer-5g3h)
+- [Pexl Keys - How to install smtp server on windows server 2022 ?](https://dev.to/pexlkeys/pexl-keys-how-to-install-smtp-server-on-windows-server-2022-i0d)
+- [As diferentes técnicas de navegação e renderização na web](https://dev.to/guiopen/as-diferentes-tecnicas-de-navegacao-e-renderizacao-na-web-4haa)
+- [Introduction to Neural Networks](https://dev.to/prezaei/introduction-to-neural-networks-39lj)
+- [Medusa is a composable, open-source commerce for developers. Try it out..!!!!](https://dev.to/kelvincode1234/medusa-is-a-composable-open-source-commerce-for-developers-try-it-out-4lfc)
 <!-- BLOG-POST-LIST:END -->
 
 
