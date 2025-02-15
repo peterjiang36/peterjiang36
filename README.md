@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 101: Part 5 - Mastering VI Editor: A Beginner&#39;s Guide to Text Editing, Navigation, and Essential Commands](https://dev.to/himanshu_bhatt/linux-101-part-5-mastering-vi-editor-a-beginners-guide-to-text-editing-navigation-and-1g5g)
-- [Save Time and Money by Shifting HIPAA Compliance Checks Left with CDK-Nag](https://dev.to/aws-builders/save-time-and-money-by-shifting-hipaa-compliance-checks-left-with-cdk-nag-4ipf)
-- [Corrective Retrieval-Augmented Generation: Enhancing Robustness in AI Language Models](https://dev.to/exploredataaiml/corrective-retrieval-augmented-generation-enhancing-robustness-in-ai-language-models-5b2l)
-- [Understanding useEffect vs. Class Component Lifecycle Methods in React Native](https://dev.to/amitkumar13/understanding-useeffect-vs-class-component-lifecycle-methods-in-react-native-25o4)
+- [Understanding Big-O Notation.](https://dev.to/jfelipegarcia/understanding-big-o-notation-3b8o)
+- [Rust - Ownership Model](https://dev.to/dedsecrattle/rust-ownership-model-2bak)
+- [This is so good](https://dev.to/mince/this-is-so-good-1e9k)
+- [Practice Program &lpar;Java&rpar;](https://dev.to/vasanthvnr_31/practice-program-java-147c)
 <!-- BLOG-POST-LIST:END -->
 
 
