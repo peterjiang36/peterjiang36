@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Symfony - React SPA application. The Reload problem](https://dev.to/icolomina/a-symfony-react-spa-application-the-reload-problem-541b)
-- [Neurolov vs Traditional Cloud GPUs: A Cost and Performance Comparison](https://dev.to/neurolov_ai_/neurolov-vs-traditional-cloud-gpus-a-cost-and-performance-comparison-3en)
-- [Scraping NHK News Web Easy with Python: A Step-by-Step Guide](https://dev.to/van_mai/scraping-nhk-news-web-easy-with-python-a-step-by-step-guide-4e12)
-- [Announcing Kapper 1.2: Cleaner Transactions with Less Boilerplate](https://dev.to/driessamyn/announcing-kapper-12-cleaner-transactions-with-less-boilerplate-2dbi)
+- [Fixing ChatGPT’s Hidden Edit Button – A Reminder That Testing Matters!](https://dev.to/priya01/fixing-chatgpts-hidden-edit-button-a-reminder-that-testing-matters-1me4)
+- [AMAZON CLOUDWATCH](https://dev.to/tolu_cloudops/introduction-to-simple-storage-service-5929)
+- [[Boost]](https://dev.to/djones/-364k)
+- [Building a Spring Boot CRUD API with Swagger Documentation](https://dev.to/devcorner/building-a-spring-boot-crud-api-with-swagger-documentation-387g)
 <!-- BLOG-POST-LIST:END -->
 
 
