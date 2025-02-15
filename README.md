@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating PDF from HTML](https://dev.to/andris_skutans_e17745a444/creating-pdf-from-html-552g)
-- [What is Emotion CSS? A Beginner’s Guide](https://dev.to/swhabitation/what-is-emotion-css-a-beginners-guide-4c60)
-- [Docker: Layers, Caching, Multi-Stage Explained](https://dev.to/atharvaunde/docker-layers-caching-multi-stage-explained-10b5)
-- [From Code to Contracts: A Beginner’s Expedition into the World of Smart Contracts](https://dev.to/garima_97/from-code-to-contracts-a-beginners-expedition-into-the-world-of-smart-contracts-52k6)
+- [Linux 101: Part 5 - Mastering VI Editor: A Beginner&#39;s Guide to Text Editing, Navigation, and Essential Commands](https://dev.to/himanshu_bhatt/linux-101-part-5-mastering-vi-editor-a-beginners-guide-to-text-editing-navigation-and-1g5g)
+- [Save Time and Money by Shifting HIPAA Compliance Checks Left with CDK-Nag](https://dev.to/aws-builders/save-time-and-money-by-shifting-hipaa-compliance-checks-left-with-cdk-nag-4ipf)
+- [Corrective Retrieval-Augmented Generation: Enhancing Robustness in AI Language Models](https://dev.to/exploredataaiml/corrective-retrieval-augmented-generation-enhancing-robustness-in-ai-language-models-5b2l)
+- [Understanding useEffect vs. Class Component Lifecycle Methods in React Native](https://dev.to/amitkumar13/understanding-useeffect-vs-class-component-lifecycle-methods-in-react-native-25o4)
 <!-- BLOG-POST-LIST:END -->
 
 
