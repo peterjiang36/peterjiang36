@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI, Machine Learning, and Deep Learning: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/understanding-ai-machine-learning-and-deep-learning-a-comprehensive-guide-1j0)
-- [Try out Debtfree.com...!!](https://dev.to/kelvincode1234/try-out-debtfreecom-30kf)
-- [Pipes and Filter Pattern](https://dev.to/said_olano/pipes-and-filter-pattern-5f57)
-- [How I Built a Simple Shell in C – A Beginner&#39;s Guide to System Programming &lpar;1/3&rpar;](https://dev.to/ertugrulmutlu/how-i-built-a-simple-shell-in-c-a-beginners-guide-to-system-programming-13-238e)
+- [Building AI Agents with Reinforcement Learning](https://dev.to/kartikmehta8/building-ai-agents-with-reinforcement-learning-52l1)
+- [Most Expensive NFT: 4 Mistakes New Investors Avoid](https://dev.to/cryptobass/most-expensive-nft-4-mistakes-new-investors-avoid-2cmo)
+- [[Boost]](https://dev.to/karavanjo/-f61)
+- [Blockchain Security: Building Smart, Healthy Cities with a Secure Digital Twin Framework](https://dev.to/cryptobass/blockchain-security-building-smart-healthy-cities-with-a-secure-digital-twin-framework-23i1)
 <!-- BLOG-POST-LIST:END -->
 
 
