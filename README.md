@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Big-O Notation.](https://dev.to/jfelipegarcia/understanding-big-o-notation-3b8o)
-- [Rust - Ownership Model](https://dev.to/dedsecrattle/rust-ownership-model-2bak)
-- [This is so good](https://dev.to/mince/this-is-so-good-1e9k)
-- [Practice Program &lpar;Java&rpar;](https://dev.to/vasanthvnr_31/practice-program-java-147c)
+- [DO NOT use these LLM Metrics ⛔ And what to do instead!](https://dev.to/louis-dupont/do-not-use-these-llm-metrics-and-what-to-do-instead-4b95)
+- [JSON To Diagram](https://dev.to/aidevtools/json-to-diagram-299o)
+- [Create and Publish ASP.net Code on Azure App Service](https://dev.to/bestwatchprice/create-and-publish-aspnet-code-on-azure-app-service-3dlo)
+- [How I Optimized Database I/O from 100 Seconds to 3ms Using Multi-Level Indexing](https://dev.to/techsplot/how-i-optimized-database-io-from-100-seconds-to-3ms-using-multi-level-indexing-h29)
 <!-- BLOG-POST-LIST:END -->
 
 
