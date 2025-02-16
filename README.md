@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Relationships in MongoDB and Mongoose](https://dev.to/harshm03/understanding-relationships-in-mongodb-and-mongoose-hl0)
-- [Running Laravel Reverb in the Background Using systemd](https://dev.to/edgaras/running-laravel-reverb-in-the-background-using-systemd-3732)
-- [Mongoose with MongoDB](https://dev.to/harshm03/mongoose-with-mongodb-4h0)
-- [Create Realtime ChatApp Website Without Coding by Create.xyz 🔥 🚀](https://dev.to/hanzla-baig/create-realtime-chatapp-website-without-coding-by-createxyz-1ec2)
+- [[Boost]](https://dev.to/coolkid__96f5a08a6b113bf/-2p8i)
+- [Refactoring 023 - Replace Inheritance with Delegation](https://dev.to/mcsee/refactoring-023-replace-inheritance-with-delegation-1c00)
+- [12 Must-Have Next.js Libraries to Improve Your Workflow! 🚀](https://dev.to/joodi/12-must-have-nextjs-libraries-to-boost-your-development-workflow-4p3d)
+- [¿Mi aplicación en la nube es compliance?](https://dev.to/briansuarezsantiago/mi-aplicacion-en-la-nube-es-compliance-3e5f)
 <!-- BLOG-POST-LIST:END -->
 
 
