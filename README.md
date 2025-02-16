@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the MERN Stack Dying? What’s Next for Full-Stack Development?](https://dev.to/codetirtho97/is-the-mern-stack-dying-whats-next-for-full-stack-development-35pg)
-- [Unlocking the Future of Social Networks: The Power of the Linkspreed Agency Partnership](https://dev.to/web4/unlocking-the-future-of-social-networks-the-power-of-the-linkspreed-agency-partnership-3ag8)
-- [Fabric &amp; Databricks Interoperability &lpar;2&rpar;: Configuring Hub Storage](https://dev.to/_d2a1ea24c442526a9777/fabric-databricks-interoperability-2-configuring-hub-storage-4l85)
-- [5 bước cơ bản để phân tích và tối ưu câu lệnh SQL](https://dev.to/sangtrandev00/5-buoc-co-ban-de-phan-tich-va-toi-uu-cau-lenh-sql-m6d)
+- [Getting Started with AWS Bedrock](https://dev.to/alexypulivelil/getting-started-with-aws-bedrock-29n0)
+- [Why Go’s Functional Programming is the Ultimate Coding Style](https://dev.to/leapcell/why-gos-functional-programming-is-the-ultimate-coding-style-53ee)
+- [How to Use Any AI for Free, Online, and Without Registration](https://dev.to/angel_rojas_6904bae237a0d/how-to-use-any-ai-for-free-online-and-without-registration-p2g)
+- [Magnifying Glass Cursor](https://dev.to/preetha_vaishnavi_2b82358/magnifying-glass-cursor-1loo)
 <!-- BLOG-POST-LIST:END -->
 
 
