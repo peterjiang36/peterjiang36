@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Effective Unit Testing in .NET: From Beginner to Advanced](https://dev.to/leandroveiga/ultimate-guide-to-effective-unit-testing-in-net-from-beginner-to-advanced-289)
-- [🚀 Exploring Docker Ask Gordon: Your AI-Powered Dev Companion!](https://dev.to/raveendiran/exploring-docker-ask-gordon-your-ai-powered-dev-companion-2a3k)
-- [[Boost]](https://dev.to/0x1c3c01d/-2dc7)
-- [[Boost]](https://dev.to/dejanualex/-4f61)
+- [Avoiding Pitfalls in the Race to Build Super Apps.](https://dev.to/ivan_assenov_c6e899f61741/avoiding-pitfalls-in-the-race-to-build-super-apps-3pe0)
+- [I Built a Library to Visualize and Edit Audio Filters](https://dev.to/numberonebot/i-built-a-library-to-visualize-and-edit-audio-filters-2mke)
+- [Implementing Buttery-Smooth Infinite Scroll in Vue 3 with Composables](https://dev.to/deondazy/implementing-buttery-smooth-infinite-scroll-in-vue-3-with-composables-3ak2)
+- [RustyNum Follow-Up: Fresh Insights and Ongoing Development](https://dev.to/igorsusmelj/rustynum-follow-up-fresh-insights-and-ongoing-development-18f9)
 <!-- BLOG-POST-LIST:END -->
 
 
