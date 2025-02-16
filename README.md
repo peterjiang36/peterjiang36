@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright: A Guide to Browser Automation &amp; Testing](https://dev.to/austinwdigital/playwright-a-guide-to-browser-automation-testing-hnd)
-- [Automate MySQL Backups with CRON Jobs in cPanel](https://dev.to/tahsin000/automate-mysql-backups-with-cron-jobs-in-cpanel-464n)
-- [🚀 Steam MiniProfile: A Real-Time, Embeddable Steam Widget for Your Website](https://dev.to/gamer2810/steam-miniprofile-a-real-time-embeddable-steam-widget-for-your-website-2ob5)
-- [Object Oriented Programming for Interview:&rpar;](https://dev.to/madgan95/object-oriented-programming-for-interview-cb2)
+- [Why I Hate WordPress—But Why It’s Still Great and Necessary](https://dev.to/itamartati/why-i-hate-wordpress-but-why-its-still-great-and-necessary-1lbg)
+- [Ingesting documents using .NET to build a simple Retrieval Augmented Generation &lpar;RAG&rpar; system](https://dev.to/syamaner/a-simple-approach-for-ingesting-documents-using-net-for-a-simple-retrieval-augmented-generation-47e1)
+- [Trending Mobile App Development Frameworks on 2025](https://dev.to/resource_bunk_1077cab07da/trending-mobile-app-development-frameworks-on-2025-3i5g)
+- [Meet Checkmate.so — The Open-Source Tool to Keep Your Servers in Check!](https://dev.to/satwikloka/meet-checkmateso-the-open-source-tool-to-keep-your-servers-in-check-37cp)
 <!-- BLOG-POST-LIST:END -->
 
 
