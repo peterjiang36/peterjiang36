@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS Bedrock](https://dev.to/alexypulivelil/getting-started-with-aws-bedrock-29n0)
-- [Why Go’s Functional Programming is the Ultimate Coding Style](https://dev.to/leapcell/why-gos-functional-programming-is-the-ultimate-coding-style-53ee)
-- [How to Use Any AI for Free, Online, and Without Registration](https://dev.to/angel_rojas_6904bae237a0d/how-to-use-any-ai-for-free-online-and-without-registration-p2g)
-- [Magnifying Glass Cursor](https://dev.to/preetha_vaishnavi_2b82358/magnifying-glass-cursor-1loo)
+- [The DeepSeek Revolution: The AI Game Changer You Need to Know About](https://dev.to/nitdgplug/the-deepseek-revolution-the-ai-game-changer-you-need-to-know-about-1f57)
+- [Balaji Udayagiri](https://dev.to/balaji_udayagiri_aa6f571e/balaji-udayagiri-14o3)
+- [Appointment Form](https://dev.to/preetha_vaishnavi_2b82358/appointment-form-1kdl)
+- [Building a Slack Clone with Next.js and TailwindCSS - Part Three](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-three-4db6)
 <!-- BLOG-POST-LIST:END -->
 
 
