@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Quality Software: What Is It and Why Is It Worth It?](https://dev.to/joorch/high-quality-software-what-is-it-and-why-is-it-worth-it-3700)
-- [A Thought on Online Subscriptions and Payment Systems: Reimagining the Future](https://dev.to/bede_hampo/a-thought-on-online-subscriptions-and-payment-systems-reimagining-the-future-5dd2)
-- [🚀 JavaScript Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/javascript-tips-essential-tips-and-tricks-for-developers-4l9j)
-- [Solving software system problems](https://dev.to/daniel_oliveira_02af1acf2/solving-software-system-problems-3f44)
+- [Building Web Apps as a Non-Technical Founder: A No-Nonsense Guide](https://dev.to/masterp/building-web-apps-as-a-non-technical-founder-a-no-nonsense-guide-2pkp)
+- [Diferença entre SPA e SSR](https://dev.to/stefanyrepetcki/diferenca-entre-spa-e-ssr-1j65)
+- [What is DeepSeek-R1?: Simple guide in 5 minutes](https://dev.to/samrudhi09/what-is-deepseek-r1-simple-guide-in-5-minutes-1o0p)
+- [[Boost]](https://dev.to/kevinluo201/-48hn)
 <!-- BLOG-POST-LIST:END -->
 
 
