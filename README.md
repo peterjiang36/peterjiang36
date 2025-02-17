@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to LLM Training, Fine-Tuning, and RAG](https://dev.to/scrapfly_dev/guide-to-llm-training-fine-tuning-and-rag-2jpi)
-- [Share your success stories in Green Software](https://dev.to/gaelduez/share-your-success-stories-in-green-software-ep4)
-- [The Upcoming Scenario of India’s E-commerce Market: An Analysis for 2030](https://dev.to/silverclouding_ads_0fb803/the-upcoming-scenario-of-indias-e-commerce-market-an-analysis-for-2030-55ch)
-- [&quot;Unlocking Multilingual Speech: The Future of AI Translation Models&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-multilingual-speech-the-future-of-ai-translation-models-52ec)
+- [10 Git Commands You’ll Wish You Knew Earlier](https://dev.to/balrajola/10-git-commands-youll-wish-you-knew-earlier-2efg)
+- [Understanding MVC Architecture in Flutter](https://dev.to/thinnakrit/understanding-mvc-architecture-in-flutter-gk8)
+- [Why I Love Using Expo Over Custom React Native Architecture](https://dev.to/aneeqakhan/why-i-love-using-expo-over-custom-react-native-architecture-41fh)
+- [New AI Method Cuts Training Data Needs for Image Segmentation by 50%](https://dev.to/mikeyoung44/new-ai-method-cuts-training-data-needs-for-image-segmentation-by-50-jaa)
 <!-- BLOG-POST-LIST:END -->
 
 
