@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS Anywhere Alternative: Free vs. Premium CORS Proxy](https://dev.to/reynaldichernando/cors-anywhere-alternative-free-vs-premium-cors-proxy-2ebj)
-- [Will AI Replace Humans? The Future of Work in 2030 and Beyond](https://dev.to/futuristicgeeks/will-ai-replace-humans-the-future-of-work-in-2030-and-beyond-ge3)
-- [Best AIOps Tools and Platforms to Use in 2025](https://dev.to/quinnox_/best-aiops-tools-and-platforms-to-use-in-2025-4129)
-- [Deploying a Gemini-powered Mesop app to Cloud Run](https://dev.to/rsamborski/deploying-a-gemini-powered-mesop-app-to-cloud-run-17m5)
+- [New DEV++ Deal: a free .Tech domain for every member!](https://dev.to/devteam/new-dev-deal-a-free-tech-domain-for-every-member-ipo)
+- [Detecting Violent Content with AI: A Simple Image Analyzer Using APILayer &amp; React](https://dev.to/kelvincode1234/detecting-violent-content-with-ai-a-simple-image-analyzer-using-apilayer-react-34ip)
+- [Build a software career with meaning: a playbook](https://dev.to/jonesbeach/build-a-software-career-with-meaning-a-playbook-d3b)
+- [🚀 Git Workflow: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/git-workflow-essential-tips-and-tricks-for-developers-3iia)
 <!-- BLOG-POST-LIST:END -->
 
 
