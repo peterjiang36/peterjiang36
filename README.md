@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New DEV++ Deal: a free .Tech domain for every member!](https://dev.to/devteam/new-dev-deal-a-free-tech-domain-for-every-member-ipo)
-- [Detecting Violent Content with AI: A Simple Image Analyzer Using APILayer &amp; React](https://dev.to/kelvincode1234/detecting-violent-content-with-ai-a-simple-image-analyzer-using-apilayer-react-34ip)
-- [Build a software career with meaning: a playbook](https://dev.to/jonesbeach/build-a-software-career-with-meaning-a-playbook-d3b)
-- [🚀 Git Workflow: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/git-workflow-essential-tips-and-tricks-for-developers-3iia)
+- [🚀 Your Daily Crypto Job Digest For 17 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-february-3f08)
+- [notl.ink - open source blazingly fast url shortener ever. Live on ProductHunt.](https://dev.to/abdibrokhim/notlink-open-source-blazingly-fast-url-shortener-ever-live-on-producthunt-41mk)
+- [The React Folder Structure Exposé: From Newbie to Code Mastery Style](https://dev.to/toosriet/the-react-folder-structure-expose-from-newbie-to-code-mastery-style-3mlb)
+- [Funciones anónimas lambda en Java](https://dev.to/asjordi/funciones-anonimas-lambda-en-java-5f19)
 <!-- BLOG-POST-LIST:END -->
 
 
