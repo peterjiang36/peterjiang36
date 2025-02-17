@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/coolkid__96f5a08a6b113bf/-2p8i)
-- [Refactoring 023 - Replace Inheritance with Delegation](https://dev.to/mcsee/refactoring-023-replace-inheritance-with-delegation-1c00)
-- [12 Must-Have Next.js Libraries to Improve Your Workflow! 🚀](https://dev.to/joodi/12-must-have-nextjs-libraries-to-boost-your-development-workflow-4p3d)
-- [¿Mi aplicación en la nube es compliance?](https://dev.to/briansuarezsantiago/mi-aplicacion-en-la-nube-es-compliance-3e5f)
+- [learn Data Structure and Probleme-Solving](https://dev.to/ammardeche/learn-data-structure-and-probleme-solving-59e4)
+- [🚀 Testing Strategies: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/testing-strategies-essential-tips-and-tricks-for-developers-h2f)
+- [Share authentication cookies between ASP.NET 4.x and ASP.NET Core](https://dev.to/roicp/share-authentication-cookies-between-aspnet-4x-and-aspnet-core-47gj)
+- [Always keep this hacking technique in mind](https://dev.to/blue_byte/always-keep-this-hacking-technique-in-mind-4mi0)
 <!-- BLOG-POST-LIST:END -->
 
 
