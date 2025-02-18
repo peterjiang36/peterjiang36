@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Boot the RK3562J on the M-Core?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-boot-the-rk3562j-on-the-m-core-24c5)
-- [Solution to Realize the Normal Calling of the Third Party Conference Software UVC Camera on OK3568-C Development Board](https://dev.to/ronnie_r_152dc2151d9449c6/solution-to-realize-the-normal-calling-of-the-third-party-conference-software-uvc-camera-on-11mj)
-- [Do Ordered Grouping and Aggregation within Groups — From SQL to SPL #1](https://dev.to/judith677/do-ordered-grouping-and-aggregation-within-groups-from-sql-to-spl-1-4p94)
-- [How to Build a .NET MAUI Windows App to Read Barcodes from Scanned Documents](https://dev.to/yushulx/how-to-build-a-net-maui-windows-app-to-read-barcodes-from-scanned-documents-igg)
+- [✨ [4] - Build Beautiful Carousels in React Native Expo | Tôi tiếp tục code về React Native 💻 🚀](https://dev.to/skipperhoa/4-build-beautiful-carousels-in-react-native-expo-toi-tiep-tuc-code-ve-react-native-4036)
+- [How to Compile and Run NPU Test Programs Based on rknn_yolov5_demo on RK3568？](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-run-npu-test-programs-based-on-rknnyolov5demo-on-rk3568-3f09)
+- [RandomAutocontrast in PyTorch](https://dev.to/hyperkai/randomautocontrast-in-pytorch-506f)
+- [Create your own Censorship-Resistant Links for X and More!](https://dev.to/mrmemory/create-your-own-censorship-resistant-links-for-x-and-more-1bg9)
 <!-- BLOG-POST-LIST:END -->
 
 
