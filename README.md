@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [draw on map](https://dev.to/preetha_vaishnavi_2b82358/draw-on-map-4f1c)
-- [C4 Model real world example with Google Maps](https://dev.to/anwaar/c4-model-real-world-example-with-google-maps-3ano)
-- [Extracting code snippets from a call graph for LLM context](https://dev.to/vmotta8/extracting-code-snippets-from-a-call-graph-for-llm-context-6e9)
-- [🎙️We have updated the site and here is what I want to say🔥](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-lfh)
+- [How to Reduce Mobile App Size Without Sacrificing Performance](https://dev.to/vikrant_bhalodia/how-to-reduce-mobile-app-size-without-sacrificing-performance-1d65)
+- [Why is Automating Regression Testing So Important?](https://dev.to/radha_4c842d8e4362a7cdd9c/why-is-automating-regression-testing-so-important-29na)
+- [Image Box with Expandable Icon Hover Effect](https://dev.to/snippflow/image-box-with-expandable-icon-hover-effect-29d3)
+- [在 Linux 上安裝與使用 Notion Desktop](https://dev.to/nullity/zai-linux-shang-an-zhuang-yu-shi-yong-notion-desktop-5383)
 <!-- BLOG-POST-LIST:END -->
 
 
