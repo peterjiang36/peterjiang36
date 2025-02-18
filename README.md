@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL PATTERNS : Pivot and Unpivot in SQL - Transforming Data Effectively](https://dev.to/anwaar/sql-patterns-pivot-and-unpivot-in-sql-transforming-data-effectively-25k4)
-- [Problems in Crypto AI Agents: Security, Ethics, and Complexity](https://dev.to/foxgem/problems-in-crypto-ai-agents-security-ethics-and-complexity-5c6n)
-- [Thriving as a Personal Tech Consultant: Navigating the AI Revolution](https://dev.to/foxgem/thriving-as-a-personal-tech-consultant-navigating-the-ai-revolution-3pfp)
-- [A Step-by-Step Guide to Kube-green: Optimizing Kubernetes for Sustainability](https://dev.to/vimal-patel/a-step-by-step-guide-to-kube-green-optimizing-kubernetes-for-sustainability-5098)
+- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
+- [Leveraging LangGraph&#39;s Send API for Dynamic and Parallel Workflow Execution](https://dev.to/sreeni5018/leveraging-langgraphs-send-api-for-dynamic-and-parallel-workflow-execution-4pgd)
+- [The Role of Patch Management in Zero Trust Security Frameworks](https://dev.to/motadata123/the-role-of-patch-management-in-zero-trust-security-frameworks-15jf)
+- [Why is C Language Considered More Understandable and Reliable?](https://dev.to/wgg9696/why-is-c-language-considered-more-understandable-and-reliable-37gb)
 <!-- BLOG-POST-LIST:END -->
 
 
