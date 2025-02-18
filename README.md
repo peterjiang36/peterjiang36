@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Frontend Frameworks for Web Development in 2025](https://dev.to/sencha_reext/top-frontend-frameworks-for-web-development-in-2025-9e7)
-- [Deploying an EC2 Instance with a Dockerized App using Terraform](https://dev.to/yash_sonawane25/deploying-an-ec2-instance-with-a-dockerized-app-using-terraform-3dp3)
-- [Introduce MoonBit AI and Deploy DeepSeek-R1 Locally into it](https://dev.to/zachyee/introduce-moonbit-ai-and-deploy-deepseek-r1-locally-into-it-5epc)
-- [Dasar-Dasar Widget di Flutter](https://dev.to/yusuf_umbara_032d78512688/dasar-dasar-widget-di-flutter-57d6)
+- [Analyzing a Suspicious Flash Loan Arbitrage Smart Contract](https://dev.to/fobabs/analyzing-a-suspicious-flash-loan-arbitrage-smart-contract-k04)
+- [10 Tools and Resources to Master CORS](https://dev.to/reynaldi/10-tools-and-resources-to-master-cors-oji)
+- [ColorJitter in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/colorjitter-in-pytorch-2-167d)
+- [How to Create a Sample Resume and Deploy it on GitHub Pages](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-a-sample-resume-and-deploy-it-on-github-pages-3o7a)
 <!-- BLOG-POST-LIST:END -->
 
 
