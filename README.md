@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vital Role of Developer Community Support in Open Source](https://dev.to/jennythomas498/the-vital-role-of-developer-community-support-in-open-source-1lfc)
-- [How to Leverage API Marketing to Promote Your Developer API Effectively](https://dev.to/author_shivani_9c765c8db9/how-to-leverage-api-marketing-to-promote-your-developer-api-effectively-3a5b)
-- [CSS text effects](https://dev.to/talalemran/css-text-effects-5c24)
-- [SaaSify](https://dev.to/maheswaripinneti/saasify-52kf)
+- [Netplan: Configure Wi-Fi Adapter](https://dev.to/sertxudev/netplan-configure-wi-fi-adapter-5ed9)
+- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-5cio)
+- [Git Architecture &amp; Installation](https://dev.to/vasutamil19/git-architecture-installation-334f)
+- [Debugging Google Chrome Extensions Locally: A Quick &amp; Easy Guide](https://dev.to/leo_chen_4c3f7844ff7bda2b/debugging-google-chrome-extensions-locally-a-quick-easy-guide-13il)
 <!-- BLOG-POST-LIST:END -->
 
 
