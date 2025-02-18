@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 18 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-18-february-4n11)
-- [Java User Input &lpar;Scanner&rpar;](https://dev.to/neelakandan_ravi_2000/java-user-input-scanner-3l53)
-- [How to Actually Start &lpar;and Finish&rpar; Development Projects Without Losing Your Mind 😅](https://dev.to/0x2e73/how-to-actually-start-and-finish-development-projects-without-losing-your-mind-2eg0)
-- [🚀 Best VS Code Extensions for MERN Stack Developers in 2025](https://dev.to/masaudahmod/best-vs-code-extensions-for-mern-stack-developers-in-2025-4op6)
+- [draw on map](https://dev.to/preetha_vaishnavi_2b82358/draw-on-map-4f1c)
+- [C4 Model real world example with Google Maps](https://dev.to/anwaar/c4-model-real-world-example-with-google-maps-3ano)
+- [Extracting code snippets from a call graph for LLM context](https://dev.to/vmotta8/extracting-code-snippets-from-a-call-graph-for-llm-context-6e9)
+- [🎙️We have updated the site and here is what I want to say🔥](https://dev.to/hmpljs/we-have-updated-the-site-and-here-is-what-i-want-to-say-lfh)
 <!-- BLOG-POST-LIST:END -->
 
 
