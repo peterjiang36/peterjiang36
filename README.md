@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can AWS Amplify Improve Your Development Process?](https://dev.to/ijay/how-can-aws-amplify-improve-your-development-process-2gj5)
-- [Simplifying React Hooks: useEffect 💯](https://dev.to/alisamir/simplifying-react-hooks-useeffect-3ogb)
-- [Azure Data Factory vs. Databricks: A Comprehensive Comparison](https://dev.to/emily_smith_86b5b7960eebb/azure-data-factory-vs-databricks-a-comprehensive-comparison-559i)
-- [Finding Clients as a Freelancer — Web Developers &amp; Beyond!](https://dev.to/per-starke-642/finding-clients-as-a-freelancer-web-developers-beyond-5327)
+- [Top Frontend Frameworks for Web Development in 2025](https://dev.to/sencha_reext/top-frontend-frameworks-for-web-development-in-2025-9e7)
+- [Deploying an EC2 Instance with a Dockerized App using Terraform](https://dev.to/yash_sonawane25/deploying-an-ec2-instance-with-a-dockerized-app-using-terraform-3dp3)
+- [Introduce MoonBit AI and Deploy DeepSeek-R1 Locally into it](https://dev.to/zachyee/introduce-moonbit-ai-and-deploy-deepseek-r1-locally-into-it-5epc)
+- [Dasar-Dasar Widget di Flutter](https://dev.to/yusuf_umbara_032d78512688/dasar-dasar-widget-di-flutter-57d6)
 <!-- BLOG-POST-LIST:END -->
 
 
