@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Business Ideas in Just 5 Minutes](https://dev.to/arti_kondziela_16634e239e/how-to-validate-business-ideas-in-just-5-minutes-1bi7)
-- [Day -03 /100 - Configuring mail server using Postfix, Dovecot and Mutt](https://dev.to/sourav3366/day-03-100-configuring-mail-server-using-postfix-dovecot-and-mutt-2hln)
-- [structuredClone&lpar;&rpar; how to use it???](https://dev.to/viveksinh_rajput/structuredclone-how-to-use-it-3k97)
-- [How to Create Kubernetes&lpar;K8s&rpar; Cluster Home Lab using Ubuntu Server 24.04](https://dev.to/shalahur/how-to-create-kubernetesk8s-cluster-home-lab-using-ubuntu-server-2404-520i)
+- [Learning Pandas, A Powerful Library For Data Visualization, Data manipulation, and Analysis](https://dev.to/andii_zhu_441685bd1be8964/learning-pandas-a-powerful-library-for-data-visualization-data-manipulation-and-analysis-1elb)
+- [Leveraging Notion for Developers: A Quick Guide](https://dev.to/mrsupercraft/leveraging-notion-for-developers-a-quick-guide-5bb9)
+- [Explain the JDK, JRE, and JVM](https://dev.to/boorge/explain-the-jdk-jre-and-jvm-2f2g)
+- [Sending Emails with Gmail Using MailKit in .NET Web API: The Complete Guide](https://dev.to/mamun_akand/sending-emails-with-gmail-using-mailkit-in-net-web-api-4lj5)
 <!-- BLOG-POST-LIST:END -->
 
 
