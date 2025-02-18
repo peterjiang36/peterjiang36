@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Poisoning in Laravel: Preventing Common Vulnerabilities](https://dev.to/pentest_testing_corp/cache-poisoning-in-laravel-preventing-common-vulnerabilities-4khf)
-- [Leveraging LangGraph&#39;s Send API for Dynamic and Parallel Workflow Execution](https://dev.to/sreeni5018/leveraging-langgraphs-send-api-for-dynamic-and-parallel-workflow-execution-4pgd)
-- [The Role of Patch Management in Zero Trust Security Frameworks](https://dev.to/motadata123/the-role-of-patch-management-in-zero-trust-security-frameworks-15jf)
-- [Why is C Language Considered More Understandable and Reliable?](https://dev.to/wgg9696/why-is-c-language-considered-more-understandable-and-reliable-37gb)
+- [The Vital Role of Developer Community Support in Open Source](https://dev.to/jennythomas498/the-vital-role-of-developer-community-support-in-open-source-1lfc)
+- [How to Leverage API Marketing to Promote Your Developer API Effectively](https://dev.to/author_shivani_9c765c8db9/how-to-leverage-api-marketing-to-promote-your-developer-api-effectively-3a5b)
+- [CSS text effects](https://dev.to/talalemran/css-text-effects-5c24)
+- [SaaSify](https://dev.to/maheswaripinneti/saasify-52kf)
 <!-- BLOG-POST-LIST:END -->
 
 
