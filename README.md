@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Mobile App Size Without Sacrificing Performance](https://dev.to/vikrant_bhalodia/how-to-reduce-mobile-app-size-without-sacrificing-performance-1d65)
-- [Why is Automating Regression Testing So Important?](https://dev.to/radha_4c842d8e4362a7cdd9c/why-is-automating-regression-testing-so-important-29na)
-- [Image Box with Expandable Icon Hover Effect](https://dev.to/snippflow/image-box-with-expandable-icon-hover-effect-29d3)
-- [在 Linux 上安裝與使用 Notion Desktop](https://dev.to/nullity/zai-linux-shang-an-zhuang-yu-shi-yong-notion-desktop-5383)
+- [12 Must-Have GenAI Products for Faster LLM Development](https://dev.to/collhar/12-must-have-genai-products-for-faster-llm-development-3a60)
+- [Blackfire now supports Java: deeper insights, faster optimization 😎](https://dev.to/platformsh/blackfire-now-supports-javadeeper-insights-faster-optimization-4eg5)
+- [Building a Goroutine Pool in Go](https://dev.to/leapcell/building-a-goroutine-pool-in-go-38bk)
+- [How to Build a Vector Database with SQLite in Node.js.](https://dev.to/sfundomhlungu/how-to-build-a-vector-database-with-sqlite-in-nodejs-1epd)
 <!-- BLOG-POST-LIST:END -->
 
 
