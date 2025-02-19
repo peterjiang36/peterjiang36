@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Today deal with overflow on x axis](https://dev.to/saqib_tanveer_786/today-deal-with-overflow-on-x-axis-990)
-- [How to contact Amazon Web Services: Understanding AWS Support Phone Numbers](https://dev.to/muhammad_abdullah_0f40cb1/how-to-contact-amazon-web-services-understanding-aws-support-phone-numbers-p4a)
-- [Are you tired of APIs that crawl when they should fly?](https://dev.to/architagr/are-you-tired-of-apis-that-crawl-when-they-should-fly-4ned)
-- [🚀 Enhance Your JavaScript Code with the Spread Operator &lpar;...&rpar;!](https://dev.to/dzungnt98/enhance-your-javascript-code-with-the-spread-operator--3081)
+- [🚀 Your Daily Crypto Job Digest For 19 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-february-37dd)
+- [SQL Explain is your friend: PostgreSQL edition](https://dev.to/sweemeng/sql-explain-is-your-friend-postgresql-edition-3aka)
+- [Is Elon’s Grok 3 the New AI King? A Deep Dive into xAI’s Latest Contender | Smartest AI on earth?](https://dev.to/mehul_pratap_singh/is-elons-grok-3-the-new-ai-king-a-deep-dive-into-xais-latest-contender-smartest-ai-on-earth-1bn9)
+- [Top 10 Glove Liners for Winter That Work with Touchscreens](https://dev.to/smithdevboat/top-10-glove-liners-for-winter-that-work-with-touchscreens-449a)
 <!-- BLOG-POST-LIST:END -->
 
 
