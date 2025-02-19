@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 19 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-february-37dd)
-- [SQL Explain is your friend: PostgreSQL edition](https://dev.to/sweemeng/sql-explain-is-your-friend-postgresql-edition-3aka)
-- [Is Elon’s Grok 3 the New AI King? A Deep Dive into xAI’s Latest Contender | Smartest AI on earth?](https://dev.to/mehul_pratap_singh/is-elons-grok-3-the-new-ai-king-a-deep-dive-into-xais-latest-contender-smartest-ai-on-earth-1bn9)
-- [Top 10 Glove Liners for Winter That Work with Touchscreens](https://dev.to/smithdevboat/top-10-glove-liners-for-winter-that-work-with-touchscreens-449a)
+- [Gemini AI | Next JS 15 | Tailwind](https://dev.to/shubhamtiwari909/gemini-ai-next-js-15-tailwind-1247)
+- [Automated Regression Testing Tools: A Beginner’s Guide to Streamlining Software Quality](https://dev.to/calderbughunter/automated-regression-testing-tools-a-beginners-guide-to-streamlining-software-quality-44l7)
+- [⚡ QueryLink - Streamlining Frontend-Backend Data Integration in .NET Applications](https://dev.to/gigaherz/streamlining-frontend-backend-data-integration-in-net-applications-1be0)
+- [Why HTML Evolves Slowly &lpar;and Why That’s a Good Thing&rpar;](https://dev.to/martinrojas/why-html-evolves-slowly-and-why-thats-a-good-thing-3mkh)
 <!-- BLOG-POST-LIST:END -->
 
 
