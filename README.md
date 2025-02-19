@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini AI | Next JS 15 | Tailwind](https://dev.to/shubhamtiwari909/gemini-ai-next-js-15-tailwind-1247)
-- [Automated Regression Testing Tools: A Beginner’s Guide to Streamlining Software Quality](https://dev.to/calderbughunter/automated-regression-testing-tools-a-beginners-guide-to-streamlining-software-quality-44l7)
-- [⚡ QueryLink - Streamlining Frontend-Backend Data Integration in .NET Applications](https://dev.to/gigaherz/streamlining-frontend-backend-data-integration-in-net-applications-1be0)
-- [Why HTML Evolves Slowly &lpar;and Why That’s a Good Thing&rpar;](https://dev.to/martinrojas/why-html-evolves-slowly-and-why-thats-a-good-thing-3mkh)
+- [🚀 LCM in JavaScript: Compute Least Common Multiple Like a Pro! 💡](https://dev.to/md_amran_f61f217e7988d5c/lcm-in-javascript-compute-least-common-multiple-like-a-pro-50im)
+- [iPhone 17 design may be drastically different](https://dev.to/devmercy/iphone-17-design-may-be-drastically-different-7kd)
+- [Top CI/CD Tools to Streamline Your DevOps Pipeline: A Comprehensive Guide](https://dev.to/testwithtorin/top-cicd-tools-to-streamline-your-devops-pipeline-a-comprehensive-guide-p0a)
+- [GitHub Releases New GPT-4o Copilot Code Completion Model](https://dev.to/andreagriffiths11/github-releases-new-gpt-4o-copilot-code-completion-model-1ph8)
 <!-- BLOG-POST-LIST:END -->
 
 
