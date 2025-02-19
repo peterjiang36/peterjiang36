@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Responsive Navigation Bar with Dropdowns Using Tailwind](https://dev.to/rowsanali/how-to-build-a-responsive-navigation-bar-with-dropdowns-using-tailwind-563b)
-- [Git Commands](https://dev.to/vasutamil19/git-commands-gca)
-- [Test API for CORS Enablement &amp; Find Issues](https://dev.to/ankitjaininfo/test-api-for-cors-enablement-find-issues-10pf)
-- [Vercel’s Fluid Compute and what it means for AWS Lambda](https://dev.to/andycasen/vercels-fluid-compute-and-what-it-means-for-aws-lambda-38dl)
+- [Strategies for Optimizing MySQL Database Performance: A Case Study of Class54](https://dev.to/oluwajubelo1/strategies-for-optimizing-mysql-database-performance-a-case-study-of-class54-2mhh)
+- [Your Need to Review Your Data Changes](https://dev.to/metis/your-need-to-review-your-data-changes-5260)
+- [Personalized Customer Experiences: Increasing Sales by 20% with AI](https://dev.to/hana_sato/personalized-customer-experiences-increasing-sales-by-20-with-ai-43bm)
+- [Custom socket.io server.ts in nextjs baby.](https://dev.to/thekbbohara/custom-socketio-serverts-in-nextjs-baby-50fi)
 <!-- BLOG-POST-LIST:END -->
 
 
