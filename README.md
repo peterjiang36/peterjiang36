@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Optimizing MySQL Database Performance: A Case Study of Class54](https://dev.to/oluwajubelo1/strategies-for-optimizing-mysql-database-performance-a-case-study-of-class54-2mhh)
-- [Your Need to Review Your Data Changes](https://dev.to/metis/your-need-to-review-your-data-changes-5260)
-- [Personalized Customer Experiences: Increasing Sales by 20% with AI](https://dev.to/hana_sato/personalized-customer-experiences-increasing-sales-by-20-with-ai-43bm)
-- [Custom socket.io server.ts in nextjs baby.](https://dev.to/thekbbohara/custom-socketio-serverts-in-nextjs-baby-50fi)
+- [Advanced FastAPI Patterns: Building Production-Ready APIs with Python [2024 Guide]](https://dev.to/aaravjoshi/advanced-fastapi-patterns-building-production-ready-apis-with-python-2024-guide-2mf9)
+- [AI Models Struggle to Spot Impossible Scenarios in New Visual Test](https://dev.to/mikeyoung44/ai-models-struggle-to-spot-impossible-scenarios-in-new-visual-test-33c1)
+- [Fact-Checkers Demand Transparent AI: Study Shows Need for Explainable Automated Fact-Checking Systems](https://dev.to/mikeyoung44/fact-checkers-demand-transparent-ai-study-shows-need-for-explainable-automated-fact-checking-3b00)
+- [j-DataGrid — Total.js part 2](https://dev.to/palo/j-datagrid-totaljs-part-2-3fh2)
 <!-- BLOG-POST-LIST:END -->
 
 
