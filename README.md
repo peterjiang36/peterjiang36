@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced FastAPI Patterns: Building Production-Ready APIs with Python [2024 Guide]](https://dev.to/aaravjoshi/advanced-fastapi-patterns-building-production-ready-apis-with-python-2024-guide-2mf9)
-- [AI Models Struggle to Spot Impossible Scenarios in New Visual Test](https://dev.to/mikeyoung44/ai-models-struggle-to-spot-impossible-scenarios-in-new-visual-test-33c1)
-- [Fact-Checkers Demand Transparent AI: Study Shows Need for Explainable Automated Fact-Checking Systems](https://dev.to/mikeyoung44/fact-checkers-demand-transparent-ai-study-shows-need-for-explainable-automated-fact-checking-3b00)
-- [j-DataGrid — Total.js part 2](https://dev.to/palo/j-datagrid-totaljs-part-2-3fh2)
+- [Today deal with overflow on x axis](https://dev.to/saqib_tanveer_786/today-deal-with-overflow-on-x-axis-990)
+- [How to contact Amazon Web Services: Understanding AWS Support Phone Numbers](https://dev.to/muhammad_abdullah_0f40cb1/how-to-contact-amazon-web-services-understanding-aws-support-phone-numbers-p4a)
+- [Are you tired of APIs that crawl when they should fly?](https://dev.to/architagr/are-you-tired-of-apis-that-crawl-when-they-should-fly-4ned)
+- [🚀 Enhance Your JavaScript Code with the Spread Operator &lpar;...&rpar;!](https://dev.to/dzungnt98/enhance-your-javascript-code-with-the-spread-operator--3081)
 <!-- BLOG-POST-LIST:END -->
 
 
