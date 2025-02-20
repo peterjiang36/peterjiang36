@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with .NET: A Hands-On Guide for Student Developers](https://dev.to/powernest_solution_274b9c/getting-started-with-net-a-hands-on-guide-for-student-developers-2m77)
-- [How to Protect Laravel from WebSocket Vulnerabilities](https://dev.to/pentest_testing_corp/how-to-protect-laravel-from-websocket-vulnerabilities-52e)
-- [Pull Request testing on Kubernetes: working with GitHub Actions and GKE](https://dev.to/nfrankel/pull-request-testing-on-kubernetes-working-with-github-actions-and-gke-1d91)
-- [Part 1: Detecting Alzheimer’s with EEG and Deep Learning – Theory, Motivation, and Preprocessing](https://dev.to/vivekvohra/part-1-detecting-alzheimers-with-eeg-and-deep-learning-theory-motivation-and-preprocessing-1hd1)
+- [How to Test APIs for Beginners-API Testing Best Practices🔥](https://dev.to/fallon_jimmy/how-to-test-apis-for-beginners-api-testing-best-practices-50f0)
+- [Top 5 Phone Number Validation 📞 APIs for Developers: Features, Integration, and Pricing Guide ⚡](https://dev.to/stephaniedsouza/top-5-phone-number-validation-apis-for-developers-features-integration-and-pricing-guide-hbj)
+- [INTRODUCTION](https://dev.to/oyiks/introduction-51o9)
+- [Why Learning Salesforce Marketing Cloud is Essential for IT Industries and Big Tech Companies](https://dev.to/markwayne/why-learning-salesforce-marketing-cloud-is-essential-for-it-industries-and-big-tech-companies-2028)
 <!-- BLOG-POST-LIST:END -->
 
 
