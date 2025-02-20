@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey guys, i am a web developer and new with nuxtjs, could you provide me with how to call an API in Nuxt.js 3 in an efficient way, please?? Thanks in advance.](https://dev.to/rothablaze/hey-guys-could-you-provide-me-with-how-to-call-an-api-in-nuxtjs-3-in-an-efficient-way-please-1geb)
-- [DevOps Labs : Guide to Setup Node.js 23, React, NestJS, Next.js, and Nginx on EC2 Ubuntu 24.04](https://dev.to/aws-builders/guide-to-setup-nodejs-23-react-nestjs-nextjs-and-nginx-on-ec2-ubuntu-2404-4ei6)
-- [Interface Segregation Principle &lpar;ISP&rpar; in React Development](https://dev.to/creowistech/interface-segregation-principle-isp-in-react-development-1fkn)
-- [💻 Step-by-Step: Hosting a Static Website on AWS EC2 🌟](https://dev.to/aws-builders/step-by-step-hosting-a-static-website-on-aws-ec2-5a8j)
+- [remove trailing slash only on certain page in gatsby](https://dev.to/sudhasrs/remove-trailing-slash-only-on-certain-page-in-gatsby-4j3a)
+- [EC2 Instance Store: High-Performance Temporary Storage for Your Workloads](https://dev.to/shiv15/-3p5n)
+- [Getting Started with Flutter: Everything You Need to Know](https://dev.to/aravindh_ramu_a8b26e63c48/getting-started-with-flutter-everything-you-need-to-know-4kbg)
+- [Getting Started with Flutter: Everything You Need to Know](https://dev.to/aravindh_ramu_a8b26e63c48/getting-started-with-flutter-everything-you-need-to-know-7lf)
 <!-- BLOG-POST-LIST:END -->
 
 
