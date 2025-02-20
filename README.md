@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating ~450 images for $0.50](https://dev.to/peter/generating-450-images-for-050-1elj)
-- [Unofficial LeetCode API + Daily Updated Google Sheet](https://dev.to/noworneverev/unofficial-leetcode-api-daily-updated-google-sheet-179o)
-- [Java Program For Finding First And Second Highest Scores](https://dev.to/guna_sekaran_/java-program-for-finding-first-and-second-highest-scores-1glp)
-- [How to check for null, undefined, or empty values in JavaScript](https://dev.to/logrocket/how-to-check-for-null-undefined-or-empty-values-in-javascript-5d0p)
+- [Simplify Your Complex Code Migration Projects With AI](https://dev.to/hackmamba/simplify-your-complex-code-migration-projects-with-ai-3fn8)
+- [Reducing Insurance Product Development Time and Cost](https://dev.to/openkoda/reducing-insurance-product-development-time-and-cost-54mg)
+- [&quot;Unlocking Efficiency: Advanced Techniques in Distributed System Synthesis&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-efficiency-advanced-techniques-in-distributed-system-synthesis-4i21)
+- [Call Center Wondr by BNI 0821-4448-0002](https://dev.to/vanglevan/call-center-wondr-by-bni-0821-4448-0002-1pjn)
 <!-- BLOG-POST-LIST:END -->
 
 
