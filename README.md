@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📰 Navigating the Web Platform Cheatsheet](https://dev.to/d_thiranjaya_6d3ec4552111/navigating-the-web-platform-cheatsheet-28eh)
-- [GANs vs. VANs: A Deep Dive into AI-Powered Image Generation and Attention Mechanisms](https://dev.to/aditya_tripathi_17ffee7f5/gans-vs-vans-a-deep-dive-into-ai-powered-image-generation-and-attention-mechanisms-1k0m)
-- [Making basicMarquee-Modifier More Accessible](https://dev.to/eevajonnapanula/making-basicmarquee-modifier-more-accessible-1f5i)
-- [How to build a scalable web application from scratch?](https://dev.to/jaykrishna_dogne/how-to-build-a-scalable-web-application-from-scratch-120a)
+- [You Won’t Believe These 7 Project Listing Secrets Top Startups Are Hiding!](https://dev.to/resource_bunk_1077cab07da/you-wont-believe-these-7-project-listing-secrets-top-startups-are-hiding-297n)
+- [My Love-Hate Relationship with Helm](https://dev.to/cyclops-ui/my-love-hate-relationship-with-helm-4ghg)
+- [Web Components &amp; Declarative Shadow DOM: A New Era for Reusable UI](https://dev.to/martinrojas/web-components-declarative-shadow-dom-a-new-era-for-reusable-ui-28m6)
+- [Dominando a Autenticação Moderna: Cookies, Sessões, JWT e Passport.js](https://dev.to/millenialperson1995/dominando-a-autenticacao-moderna-cookies-sessoes-jwt-e-passportjs-3p1k)
 <!-- BLOG-POST-LIST:END -->
 
 
