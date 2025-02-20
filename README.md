@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Interoperability &amp; Standardization: Why Consistency Matters More Than Ever](https://dev.to/martinrojas/browser-interoperability-standardization-why-consistency-matters-more-than-ever-471o)
-- [Free Erasorio Alternative for Collaborative Design - Discover SketchFlow: The Ultimate](https://dev.to/sh20raj2/free-erasorio-alternative-for-collaborative-design-discover-sketchflow-the-ultimate-53k)
-- [Automating Software Testing: Everything You Need to Know](https://dev.to/asher_hartwell_f827d28b67/automating-software-testing-everything-you-need-to-know-5fl4)
-- [How To Build a Machine Learning Model For Heart Failure Prediction From Scratch](https://dev.to/luthfisauqi17/how-to-build-a-machine-learning-model-for-heart-failure-prediction-from-scratch-3n2h)
+- [Generating ~450 images for $0.50](https://dev.to/peter/generating-450-images-for-050-1elj)
+- [Unofficial LeetCode API + Daily Updated Google Sheet](https://dev.to/noworneverev/unofficial-leetcode-api-daily-updated-google-sheet-179o)
+- [Java Program For Finding First And Second Highest Scores](https://dev.to/guna_sekaran_/java-program-for-finding-first-and-second-highest-scores-1glp)
+- [How to check for null, undefined, or empty values in JavaScript](https://dev.to/logrocket/how-to-check-for-null-undefined-or-empty-values-in-javascript-5d0p)
 <!-- BLOG-POST-LIST:END -->
 
 
