@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Lambda Monitoring on AWS](https://dev.to/mtrentz/real-time-lambda-monitoring-on-aws-3p5j)
-- [Laravel API Docs: A Guide to L5 Swagger](https://dev.to/aleson-franca/laravel-api-docs-a-guide-to-l5-swagger-333)
-- [COBOL, Dates, May 20, 1875, and Disinformation](https://dev.to/mdchaney/cobol-dates-may-20-1875-and-disinformation-5ggh)
-- [Optimizing IoT Data Management for Business Success](https://dev.to/ostapzabolotnyy/optimizing-iot-data-management-for-business-success-5dji)
+- [Identifying the Ideal Fit: Project Management Software for Architectural Projects](https://dev.to/planman36/identifying-the-ideal-fit-project-management-software-for-architectural-projects-4339)
+- [NocoBase Weekly Updates: Support Global or Batch Records Triggering Custom Action Event](https://dev.to/nocobase/nocobase-weekly-updates-support-global-or-batch-records-triggering-custom-action-event-9fc)
+- [.NET Learning Notes: EFCore&lpar;Entity Framework&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-efcoreentity-framework-4210)
+- [Comparing JSON Libraries in .NET: Newtonsoft.Json vs. System.Text.Json](https://dev.to/chuongmep/comparing-json-libraries-in-net-newtonsoftjson-vs-systemtextjson-3gfo)
 <!-- BLOG-POST-LIST:END -->
 
 
