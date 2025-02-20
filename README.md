@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating a PDF with Express &amp; Node.js 📄🚀](https://dev.to/kelvincode1234/generating-a-pdf-with-express-nodejs-nn)
-- [Streamline Your Indexer Setup with Envio](https://dev.to/envio/streamline-your-indexer-setup-with-envio-465p)
-- [Best Web Development Tools for Beginners](https://dev.to/adminmart/best-web-development-tools-for-beginners-5f2h)
-- [How Crypto Exchanges Work: The Hidden Players Keeping the Market Moving](https://dev.to/endeo/how-crypto-exchanges-work-the-hidden-players-keeping-the-market-moving-lab)
+- [📰 Navigating the Web Platform Cheatsheet](https://dev.to/d_thiranjaya_6d3ec4552111/navigating-the-web-platform-cheatsheet-28eh)
+- [GANs vs. VANs: A Deep Dive into AI-Powered Image Generation and Attention Mechanisms](https://dev.to/aditya_tripathi_17ffee7f5/gans-vs-vans-a-deep-dive-into-ai-powered-image-generation-and-attention-mechanisms-1k0m)
+- [Making basicMarquee-Modifier More Accessible](https://dev.to/eevajonnapanula/making-basicmarquee-modifier-more-accessible-1f5i)
+- [How to build a scalable web application from scratch?](https://dev.to/jaykrishna_dogne/how-to-build-a-scalable-web-application-from-scratch-120a)
 <!-- BLOG-POST-LIST:END -->
 
 
