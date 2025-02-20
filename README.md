@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run DeepSeek R1 Locally &lpar;Using Ollama + ChatboxAI&rpar;](https://dev.to/kbhatnagar/how-to-run-deepseek-r1-locally-using-ollama-chatboxai-4po9)
-- [🤖 Open-CUAK: “OpenAI Operator” Now Goes Open Source! 👥](https://dev.to/key_lu_3fba4ab5cd50d0a933/open-cuak-openai-operator-now-goes-open-source-1cch)
-- [Migration of nextjs 14 to next 15](https://dev.to/caresle/migration-of-nextjs-14-to-next-15-ij2)
-- [DeepSeek AI: Innovation or a Double-Edged Sword?](https://dev.to/jason_canon_89c6901c0086c/deepseek-ai-innovation-or-a-double-edged-sword-18fm)
+- [Installing composer and configuring permissions for Laravel projects](https://dev.to/damara_lucena/installing-composer-and-configuring-permissions-for-laravel-projects-3k21)
+- [Value Driven Results](https://dev.to/in8ly/value-driven-results-gbl)
+- [🚀 API Maker : Release Notes for v1.12.0](https://dev.to/apimaker/api-maker-release-notes-for-v1120-aoe)
+- [Untitled](https://dev.to/vishu_sharma_9f72e1a985f2/untitled-l17)
 <!-- BLOG-POST-LIST:END -->
 
 
