@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Won’t Believe These 7 Project Listing Secrets Top Startups Are Hiding!](https://dev.to/resource_bunk_1077cab07da/you-wont-believe-these-7-project-listing-secrets-top-startups-are-hiding-297n)
-- [My Love-Hate Relationship with Helm](https://dev.to/cyclops-ui/my-love-hate-relationship-with-helm-4ghg)
-- [Web Components &amp; Declarative Shadow DOM: A New Era for Reusable UI](https://dev.to/martinrojas/web-components-declarative-shadow-dom-a-new-era-for-reusable-ui-28m6)
-- [Dominando a Autenticação Moderna: Cookies, Sessões, JWT e Passport.js](https://dev.to/millenialperson1995/dominando-a-autenticacao-moderna-cookies-sessoes-jwt-e-passportjs-3p1k)
+- [Browser Interoperability &amp; Standardization: Why Consistency Matters More Than Ever](https://dev.to/martinrojas/browser-interoperability-standardization-why-consistency-matters-more-than-ever-471o)
+- [Free Erasorio Alternative for Collaborative Design - Discover SketchFlow: The Ultimate](https://dev.to/sh20raj2/free-erasorio-alternative-for-collaborative-design-discover-sketchflow-the-ultimate-53k)
+- [Automating Software Testing: Everything You Need to Know](https://dev.to/asher_hartwell_f827d28b67/automating-software-testing-everything-you-need-to-know-5fl4)
+- [How To Build a Machine Learning Model For Heart Failure Prediction From Scratch](https://dev.to/luthfisauqi17/how-to-build-a-machine-learning-model-for-heart-failure-prediction-from-scratch-3n2h)
 <!-- BLOG-POST-LIST:END -->
 
 
