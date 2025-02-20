@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing composer and configuring permissions for Laravel projects](https://dev.to/damara_lucena/installing-composer-and-configuring-permissions-for-laravel-projects-3k21)
-- [Value Driven Results](https://dev.to/in8ly/value-driven-results-gbl)
-- [🚀 API Maker : Release Notes for v1.12.0](https://dev.to/apimaker/api-maker-release-notes-for-v1120-aoe)
-- [Untitled](https://dev.to/vishu_sharma_9f72e1a985f2/untitled-l17)
+- [Hey guys, i am a web developer and new with nuxtjs, could you provide me with how to call an API in Nuxt.js 3 in an efficient way, please?? Thanks in advance.](https://dev.to/rothablaze/hey-guys-could-you-provide-me-with-how-to-call-an-api-in-nuxtjs-3-in-an-efficient-way-please-1geb)
+- [DevOps Labs : Guide to Setup Node.js 23, React, NestJS, Next.js, and Nginx on EC2 Ubuntu 24.04](https://dev.to/aws-builders/guide-to-setup-nodejs-23-react-nestjs-nextjs-and-nginx-on-ec2-ubuntu-2404-4ei6)
+- [Interface Segregation Principle &lpar;ISP&rpar; in React Development](https://dev.to/creowistech/interface-segregation-principle-isp-in-react-development-1fkn)
+- [💻 Step-by-Step: Hosting a Static Website on AWS EC2 🌟](https://dev.to/aws-builders/step-by-step-hosting-a-static-website-on-aws-ec2-5a8j)
 <!-- BLOG-POST-LIST:END -->
 
 
