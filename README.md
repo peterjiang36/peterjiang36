@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Turnstile NextJS: Invalid Token Error on Repeated Submissions](https://dev.to/abdibrokhim/cloudflare-turnstile-nextjs-invalid-token-error-on-repeated-submissions-2dga)
-- [How can AI find my WEBSITE?](https://dev.to/theaideveloper/how-can-ai-find-my-website-1c08)
-- [Python input&lpar;&rpar; Function - Detailed Explanation](https://dev.to/vayolapradeep/python-input-function-detailed-explanation-5b8m)
-- [&quot;Okay great, now can you briefly summarize why the original problem is mitigated by this overall approach?&quot; — Important when working with AI to make sure you *learn* about what you&#39;re doing before finishing the project.](https://dev.to/ben/okay-great-now-can-you-briefly-summarize-why-the-original-problem-is-mitigated-by-this-overall-3ac5)
+- [Ultimate Project Listing Hack: Skyrocket Your Product Launch Overnight!](https://dev.to/resource_bunk_1077cab07da/ultimate-project-listing-hack-skyrocket-your-product-launch-overnight-3egm)
+- [🚀 Modular Terraform in 5 Minutes: The Key to Scalable Infrastructure](https://dev.to/infra_insider/modular-terraform-in-5-minutes-the-key-to-scalable-infrastructure-2nep)
+- [Improve React Native Android Startup Time by Disabling `.bundle` Compression](https://dev.to/ajmal_hasan/boosting-react-native-android-startup-time-by-disabling-bundle-compression-28ip)
+- [Learn Faster, Code Smarter! 25+ Programming Resources to Boost Your Skills!](https://dev.to/dev-resources/learn-faster-code-smarter-25-programming-resources-to-boost-your-skills-54k8)
 <!-- BLOG-POST-LIST:END -->
 
 
