@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test APIs for Beginners-API Testing Best Practices🔥](https://dev.to/fallon_jimmy/how-to-test-apis-for-beginners-api-testing-best-practices-50f0)
-- [Top 5 Phone Number Validation 📞 APIs for Developers: Features, Integration, and Pricing Guide ⚡](https://dev.to/stephaniedsouza/top-5-phone-number-validation-apis-for-developers-features-integration-and-pricing-guide-hbj)
-- [INTRODUCTION](https://dev.to/oyiks/introduction-51o9)
-- [Why Learning Salesforce Marketing Cloud is Essential for IT Industries and Big Tech Companies](https://dev.to/markwayne/why-learning-salesforce-marketing-cloud-is-essential-for-it-industries-and-big-tech-companies-2028)
+- [Generating a PDF with Express &amp; Node.js 📄🚀](https://dev.to/kelvincode1234/generating-a-pdf-with-express-nodejs-nn)
+- [Streamline Your Indexer Setup with Envio](https://dev.to/envio/streamline-your-indexer-setup-with-envio-465p)
+- [Best Web Development Tools for Beginners](https://dev.to/adminmart/best-web-development-tools-for-beginners-5f2h)
+- [How Crypto Exchanges Work: The Hidden Players Keeping the Market Moving](https://dev.to/endeo/how-crypto-exchanges-work-the-hidden-players-keeping-the-market-moving-lab)
 <!-- BLOG-POST-LIST:END -->
 
 
