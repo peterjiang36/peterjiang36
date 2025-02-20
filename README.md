@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The two versions of Parquet](https://dev.to/jerolba/the-two-versions-of-parquet-16il)
-- [Essential System Design Concepts for Beginners](https://dev.to/rajsingh11/essential-system-design-concepts-for-beginners-32fj)
-- [Practical Application of Speech Synthesis and Model Optimization in the Intelligent Voice Assistant of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-speech-synthesis-and-model-optimization-in-the-intelligent-voice-assistant-6ld)
-- [Unlocking Potential: The Benefits of Open Source Developer Patronage](https://dev.to/jennythomas498/unlocking-potential-the-benefits-of-open-source-developer-patronage-1h05)
+- [Asynchronous Server: Building and Rigorously Testing a WebSocket and HTTP Server](https://dev.to/sirneij/asynchronous-server-building-and-rigorously-testing-a-websocket-and-http-server-4kke)
+- [Analyzing Lotto with Data: Can Machine Learning Provide the Answer?](https://dev.to/freyasky/analyzing-lotto-with-data-can-machine-learning-provide-the-answer-c6k)
+- [You are familiar with npm/pnpm but have you heard of tnpm or cnpm?](https://dev.to/ramunarasinga-11/you-are-familiar-with-npmpnpm-but-have-you-heard-of-tnpm-or-cnpm-1376)
+- [Building a Data Ingestion Solution for Amazon Bedrock Knowledge Bases](https://dev.to/aws-builders/building-a-data-ingestion-solution-for-amazon-bedrock-knowledge-bases-4on4)
 <!-- BLOG-POST-LIST:END -->
 
 
