@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raghu&#39;s View on Software Development](https://dev.to/tofukali/raghus-view-on-software-development-31hp)
-- [20 Scary Programming Theories You Should Know](https://dev.to/hi1talib1world/20-scary-programming-theories-you-should-know-3nn3)
-- [What the Heck is HTMX?](https://dev.to/gervaisamoah/what-the-heck-is-htmx-580n)
-- [API Testing for DummyJSON Endpoints using Postman](https://dev.to/loveline/api-testing-for-dummyjson-endpoints-using-postman-41in)
+- [Magic Methods in PHP: Why Programmers Need Magic Too](https://dev.to/ianpatricck/magic-methods-in-php-why-programmers-need-magic-too-2f02)
+- [creating your own Docker like what a shiny title and hard work A year ago, I built a minimal container in Go. Now, it&#39;s time for a revisit! This time, I&#39;m tackling network isolation, resource limits, and deeper container architecture.](https://dev.to/micromax/creating-your-own-docker-like-what-a-shiny-title-and-hard-work-a-year-ago-i-built-a-minimal-53fc)
+- [A 34-liner shell script to save your productivity](https://dev.to/dariomannu/a-34-liner-shell-script-to-save-your-productivity-1o7i)
+- [Predicting Protein Secondary Structures with Machine Learning](https://dev.to/darkstalker/predicting-protein-secondary-structures-with-machine-learning-dnf)
 <!-- BLOG-POST-LIST:END -->
 
 
