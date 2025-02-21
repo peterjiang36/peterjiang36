@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build the perfect article about JavaScript in 2025](https://dev.to/dariomannu/how-to-build-the-perfect-article-about-javascript-in-2025-1gk4)
-- [Mastering CQRS: Command Query Responsibility Segregation in Modern Applications - Software Architecture Patterns](https://dev.to/ohanhaliuk/mastering-cqrs-command-query-responsibility-segregation-in-modern-applications-software-4iko)
-- [I Just Found Out You Can Switch Search Engines—Here’s How! 😁](https://dev.to/kihuni/i-just-found-out-you-can-switch-search-engines-heres-how-52g5)
-- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
+- [Building a Homegrown LLM with Python: Training on Hacker News Data](https://dev.to/daviducolo/building-a-homegrown-llm-with-python-training-on-hacker-news-data-10ai)
+- [AI Defense Strategies Against Adversarial Attacks: A Practical Comparison](https://dev.to/shoutzu_han_a327ff8a7342/ai-defense-strategies-against-adversarial-attacks-a-practical-comparison-325a)
+- [Build an AI Personality Analyzer with Groq and Node.js 🤩](https://dev.to/harshit_rwt/build-an-ai-personality-analyzer-with-groq-and-nodejs-28i1)
+- [The Power of Consistency in a Developer&#39;s Career](https://dev.to/igorfragadev/the-power-of-consistency-in-a-developers-career-11gg)
 <!-- BLOG-POST-LIST:END -->
 
 
