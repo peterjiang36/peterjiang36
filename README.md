@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking to Contribute to Open Source, Preferably New Ideas](https://dev.to/mihastele/looking-to-contribute-to-open-source-preferably-new-ideas-b6)
-- [Installing Golang on Windows WSL/WSL2](https://dev.to/sonishivam10/installing-golang-on-windows-wslwsl2-3pn5)
-- [Wrote a new blog after a while!](https://dev.to/adityaoberai/-2iej)
-- [I need help deciding how to build my idea.](https://dev.to/james_courtney_5881df299c/i-need-help-deciding-how-to-build-my-idea-a2k)
+- [AI in Web Development – Is It Replacing Developers or Making Us 10x Faster?](https://dev.to/bigya/ai-in-web-development-is-it-replacing-developers-or-making-us-10x-faster-4f3h)
+- [Why Should You Use a CDN to Boost Your Website Speed?](https://dev.to/seyedahmaddv/why-should-you-use-a-cdn-to-boost-your-website-speed-2543)
+- [Check Out My New Markdown Blog App!](https://dev.to/burakdev/check-out-my-new-markdown-blog-app-1e8c)
+- [Progzee: Simplifying Proxy Management for Developers](https://dev.to/progzee/progzee-simplifying-proxy-management-for-developers-5b22)
 <!-- BLOG-POST-LIST:END -->
 
 
