@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Muse: Microsoft’s AI Game Changer](https://dev.to/aniruddhaadak/unleashing-creativity-with-muse-microsofts-ai-game-changer-56j9)
-- [How One Project Listing Trick Turned a Zero-Budget Startup Into a Million-Dollar Empire!](https://dev.to/resource_bunk_1077cab07da/how-one-project-listing-trick-turned-a-zero-budget-startup-into-a-million-dollar-empire-20fj)
-- [🚀 Day 2 #100DaysOfCode](https://dev.to/xscoox_ca5e58c796032a1802/day-2-100daysofcode-5e6n)
-- [10 API Programming Tricks That Will Make You a 10x Dev. in 2025](https://dev.to/snappytuts/10-api-programming-tricks-that-will-make-you-a-10x-dev-in-2025-4hae)
+- [How to build the perfect article about JavaScript in 2025](https://dev.to/dariomannu/how-to-build-the-perfect-article-about-javascript-in-2025-1gk4)
+- [Mastering CQRS: Command Query Responsibility Segregation in Modern Applications - Software Architecture Patterns](https://dev.to/ohanhaliuk/mastering-cqrs-command-query-responsibility-segregation-in-modern-applications-software-4iko)
+- [I Just Found Out You Can Switch Search Engines—Here’s How! 😁](https://dev.to/kihuni/i-just-found-out-you-can-switch-search-engines-heres-how-52g5)
+- [Go Panic and Recover: A Deep Dive into Error Handling](https://dev.to/leapcell/go-panic-and-recover-a-deep-dive-into-error-handling-56be)
 <!-- BLOG-POST-LIST:END -->
 
 
