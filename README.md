@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Homegrown LLM with Python: Training on Hacker News Data](https://dev.to/daviducolo/building-a-homegrown-llm-with-python-training-on-hacker-news-data-10ai)
-- [AI Defense Strategies Against Adversarial Attacks: A Practical Comparison](https://dev.to/shoutzu_han_a327ff8a7342/ai-defense-strategies-against-adversarial-attacks-a-practical-comparison-325a)
-- [Build an AI Personality Analyzer with Groq and Node.js 🤩](https://dev.to/harshit_rwt/build-an-ai-personality-analyzer-with-groq-and-nodejs-28i1)
-- [The Power of Consistency in a Developer&#39;s Career](https://dev.to/igorfragadev/the-power-of-consistency-in-a-developers-career-11gg)
+- [Tailwind css](https://dev.to/binarysunrise/tailwind-css-3j1o)
+- [Web Page Not updating on back navigation? The bfcache Problem and Fix](https://dev.to/riyanegi/web-page-not-updating-on-back-navigation-the-bfcache-problem-and-fix-954)
+- [GitOps Adoption](https://dev.to/neeljyo/gitops-adoption-e4k)
+- [🚀 Open-Source Financial Dashboard – Track &amp; Manage Your Money! 💰](https://dev.to/reactjsguru/open-source-financial-dashboard-track-manage-your-money-1jg1)
 <!-- BLOG-POST-LIST:END -->
 
 
