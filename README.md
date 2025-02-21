@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: Managing User Input with Forms](https://dev.to/rishav_upadhaya/day-5-managing-user-input-with-forms-mjd)
-- [Create a personal website for Free](https://dev.to/sahil222/create-a-personal-website-for-free-3h31)
-- [How to Build a Fault-Tolerant Microservice for Payment Retries](https://dev.to/flutterwaveeng/how-to-build-a-fault-tolerant-microservice-for-payment-retries-5epg)
-- [Discover the Future of Tech: Trending GitHub Projects Revolutionizing AI and Development 🚀](https://dev.to/bruh_buh_f683772f171823db/discover-the-future-of-tech-trending-github-projects-revolutionizing-ai-and-development-57g8)
+- [🚀 Your Daily Crypto Job Digest For 21 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-february-477)
+- [Evaluating ChatGPT-4o&#39;s Performance in Creating Python Smart Contracts for Xian Blockchain](https://dev.to/crosschainer/evaluating-chatgpt-4os-performance-in-creating-python-smart-contracts-for-xian-blockchain-1eck)
+- [🚀 API Design: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/api-design-essential-tips-and-tricks-for-developers-1ikm)
+- [Fine-Tuning Resource Priorities: The Power of fetchpriority](https://dev.to/leapcell/fine-tuning-resource-priorities-the-power-of-fetchpriority-8ic)
 <!-- BLOG-POST-LIST:END -->
 
 
