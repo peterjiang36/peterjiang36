@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate OpenAI’s GPT-4 into Your Web or Mobile](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-integrate-openais-gpt-4-into-your-web-or-mobile-14l8)
-- [Blockchain: The Tech That&#39;s About to Rock Your World](https://dev.to/devotaku/blockchain-the-tech-thats-about-to-rock-your-world-j5i)
-- [Technical Analysis: TypeScript Utility Types Blog Post](https://dev.to/eze_ernest_62786560c8b5f3/technical-analysis-typescript-utility-types-blog-post-29gh)
-- [Grok-3: A Paradigm Shift in AI-Driven Software Development](https://dev.to/zeenox-stack/grok-3-a-paradigm-shift-in-ai-driven-software-development-6ol)
+- [Detect Unused Classes in Laravel](https://dev.to/tegos/detect-unused-classes-in-laravel-2jjm)
+- [How AI is Changing Software Development: Will Developers Be Replaced?](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-is-changing-software-development-will-developers-be-replaced-1i18)
+- [Laravel modular folder structure](https://dev.to/xwero/laravel-modular-folder-structure-4a94)
+- [Understanding Pass-Through Authentication &lpar;PTA&rpar; and Password Hash Synchronization &lpar;PHS&rpar;](https://dev.to/sachindra149/understanding-pass-through-authentication-pta-and-password-hash-synchronization-phs-412n)
 <!-- BLOG-POST-LIST:END -->
 
 
