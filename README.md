@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Living Words](https://dev.to/pitel_market_33dbf8abec22/living-words-18c7)
-- [Mastering Vim: A Step-by-Step Guide to Essential Commands](https://dev.to/devcorner/mastering-vim-a-step-by-step-guide-to-essential-commands-k1b)
-- [Implementing Formique in Vue.js: A Comprehensive Guide](https://dev.to/gugulethu_nyoni/implementing-formique-in-vuejs-a-comprehensive-guide-2m57)
-- [Understanding Version Control with ~ and ^ in package.json](https://dev.to/manthanank/understanding-version-control-with-and-in-packagejson-h7g)
+- [Why Do Developers Struggle with Project Management &lpar;and How to Fix It&rpar;?](https://dev.to/pratham_naik_project_manager/why-do-developers-struggle-with-project-management-and-how-to-fix-it-1bgp)
+- [¿Qué tiene de relevante la presentación del “State of FinOps 2024” de la FinOps Foundation?](https://dev.to/barbara_gaspar/que-tiene-de-relevante-la-presentacion-del-state-of-finops-2024-de-la-finops-foundation-53ni)
+- [Deploying a Spring Boot Microservice on Kubernetes: Step-by-Step Guide](https://dev.to/devcorner/deploying-a-spring-boot-microservice-on-kubernetes-step-by-step-guide-1id2)
+- [Breaking Down a Kubernetes Manifest File: Eureka Server Deployment &amp; Service](https://dev.to/devcorner/breaking-down-a-kubernetes-manifest-file-eureka-server-deployment-service-5g9k)
 <!-- BLOG-POST-LIST:END -->
 
 
