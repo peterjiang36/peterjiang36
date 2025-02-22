@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source Book Creator with Multi-Agent AI](https://dev.to/guerra2fernando/open-source-book-creator-with-multi-agent-ai-1bnl)
-- [Build RAG Chatbot with LangChain, Milvus, Anthropic Claude 3 Haiku, and voyage-3-large](https://dev.to/zilliz/build-rag-chatbot-with-langchain-milvus-anthropic-claude-3-haiku-and-voyage-3-large-25na)
-- [COBOL Fundamentals: Data Types &amp; Variables](https://dev.to/stephenkjohnston/cobol-fundamentals-data-types-variables-180d)
-- [🚀 Docker Tips: Essential Tips and Tricks for Developers](https://dev.to/d_thiranjaya_6d3ec4552111/docker-tips-essential-tips-and-tricks-for-developers-62l)
+- [Weather App With State Management for Long Running Conversations Using AI Agents](https://dev.to/exploredataaiml/weather-app-with-state-management-for-long-running-conversations-using-ai-agents-4cd5)
+- [Innovative PCB Designs for Smart Fire Detection Systems: The Integration of Multiple Sensors for Enhanced Safety](https://dev.to/yoy/innovative-pcb-designs-for-smart-fire-detection-systems-the-integration-of-multiple-sensors-for-105f)
+- [Seamlessly Compare Maps on QGIS with the QMapCompare Plugin](https://dev.to/mierune/seamlessly-compare-maps-on-qgis-with-the-qmapcompare-plugin-3186)
+- [API Integration with Tanstack Query: Transforming Product Data Management](https://dev.to/yugjadvani/api-integration-with-tanstack-query-transforming-product-data-management-jgc)
 <!-- BLOG-POST-LIST:END -->
 
 
