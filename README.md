@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Host LLMs from Your Laptop Using LM Studio and Pinggy](https://dev.to/lightningdev123/host-llms-from-your-laptop-using-lm-studio-and-pinggy-2c30)
-- [Unveiling the Magic: How Terraform Works Under the Hood to Manage Your Infrastructure as Code](https://dev.to/robert_coffie/unveiling-the-magic-how-terraform-works-under-the-hood-to-manage-your-infrastructure-as-code-3bd2)
-- [This One Library Will Save You 15 Hours – You Only Need to Copy and Paste.](https://dev.to/ibtihelbs/this-one-library-will-save-you-15-hours-you-only-need-to-copy-and-paste-2n2g)
-- [Nuxt Deployment Guide: How to Deploy Nuxt to Cloudflare](https://dev.to/tanay/nuxt-deployment-guide-how-to-deploy-nuxt-to-cloudflare-2a7j)
+- [How to Integrate OpenAI’s GPT-4 into Your Web or Mobile](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-integrate-openais-gpt-4-into-your-web-or-mobile-14l8)
+- [Blockchain: The Tech That&#39;s About to Rock Your World](https://dev.to/devotaku/blockchain-the-tech-thats-about-to-rock-your-world-j5i)
+- [Technical Analysis: TypeScript Utility Types Blog Post](https://dev.to/eze_ernest_62786560c8b5f3/technical-analysis-typescript-utility-types-blog-post-29gh)
+- [Grok-3: A Paradigm Shift in AI-Driven Software Development](https://dev.to/zeenox-stack/grok-3-a-paradigm-shift-in-ai-driven-software-development-6ol)
 <!-- BLOG-POST-LIST:END -->
 
 
