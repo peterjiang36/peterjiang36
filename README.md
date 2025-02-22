@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Your Technical Interview Prep with FaangPrepTracker](https://dev.to/tarunsinghofficial/master-your-technical-interview-prep-with-faangpreptracker-1n21)
-- [FSLogix v3: Microsoft’s Quiet Comeback for VDI Warriors](https://dev.to/amalkabraham001/fslogix-v3-microsofts-quiet-comeback-for-vdi-warriors-do6)
-- [Why Computers Fail At Chess](https://dev.to/fabianfrankwerner/why-computers-fail-at-chess-1hil)
-- [Architecture Guide: Building Scalable React &lpar;or React Native&rpar; Apps with Zustand &amp; React Query](https://dev.to/neetigyachahar/architecture-guide-building-scalable-react-or-react-native-apps-with-zustand-react-query-1nn4)
+- [Host LLMs from Your Laptop Using LM Studio and Pinggy](https://dev.to/lightningdev123/host-llms-from-your-laptop-using-lm-studio-and-pinggy-2c30)
+- [Unveiling the Magic: How Terraform Works Under the Hood to Manage Your Infrastructure as Code](https://dev.to/robert_coffie/unveiling-the-magic-how-terraform-works-under-the-hood-to-manage-your-infrastructure-as-code-3bd2)
+- [This One Library Will Save You 15 Hours – You Only Need to Copy and Paste.](https://dev.to/ibtihelbs/this-one-library-will-save-you-15-hours-you-only-need-to-copy-and-paste-2n2g)
+- [Nuxt Deployment Guide: How to Deploy Nuxt to Cloudflare](https://dev.to/tanay/nuxt-deployment-guide-how-to-deploy-nuxt-to-cloudflare-2a7j)
 <!-- BLOG-POST-LIST:END -->
 
 
