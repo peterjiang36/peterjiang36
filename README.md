@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TOPIC: Understanding the DOM &amp; Event Handling in JavaScript – A Practical Guide](https://dev.to/erasmuskotoka/topic-understanding-the-dom-event-handling-in-javascript-a-practical-guide-44oh)
-- [The Hidden Language of the Web: A Deep Dive into HTTP Status Codes](https://dev.to/kedark/the-hidden-language-of-the-web-a-deep-dive-into-http-status-codes-2og9)
-- [Reveision java](https://dev.to/yaswanth_krishna_81faee1e/reveision-java-p54)
-- [3rd-Color: Best App for Colors](https://dev.to/mfm347/3rd-color-best-app-for-colors-4f1p)
+- [Living Words](https://dev.to/pitel_market_33dbf8abec22/living-words-18c7)
+- [Mastering Vim: A Step-by-Step Guide to Essential Commands](https://dev.to/devcorner/mastering-vim-a-step-by-step-guide-to-essential-commands-k1b)
+- [Implementing Formique in Vue.js: A Comprehensive Guide](https://dev.to/gugulethu_nyoni/implementing-formique-in-vuejs-a-comprehensive-guide-2m57)
+- [Understanding Version Control with ~ and ^ in package.json](https://dev.to/manthanank/understanding-version-control-with-and-in-packagejson-h7g)
 <!-- BLOG-POST-LIST:END -->
 
 
