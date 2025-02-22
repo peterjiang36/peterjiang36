@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Developers Struggle with Project Management &lpar;and How to Fix It&rpar;?](https://dev.to/pratham_naik_project_manager/why-do-developers-struggle-with-project-management-and-how-to-fix-it-1bgp)
-- [¿Qué tiene de relevante la presentación del “State of FinOps 2024” de la FinOps Foundation?](https://dev.to/barbara_gaspar/que-tiene-de-relevante-la-presentacion-del-state-of-finops-2024-de-la-finops-foundation-53ni)
-- [Deploying a Spring Boot Microservice on Kubernetes: Step-by-Step Guide](https://dev.to/devcorner/deploying-a-spring-boot-microservice-on-kubernetes-step-by-step-guide-1id2)
-- [Breaking Down a Kubernetes Manifest File: Eureka Server Deployment &amp; Service](https://dev.to/devcorner/breaking-down-a-kubernetes-manifest-file-eureka-server-deployment-service-5g9k)
+- [Concurrency with Goroutines](https://dev.to/godofgeeks/concurrency-with-goroutines-1g9p)
+- [MLGym: New Testing Framework Reveals Current AI Systems Excel at Data Analysis but Struggle with Creative Research](https://dev.to/mikeyoung44/mlgym-new-testing-framework-reveals-current-ai-systems-excel-at-data-analysis-but-struggle-with-5b2h)
+- [AI Language Models Show Major Gaps in Understanding Cultural Cooking Instructions](https://dev.to/mikeyoung44/ai-language-models-show-major-gaps-in-understanding-cultural-cooking-instructions-2a06)
+- [Boosting Developer Productivity: How Blackbird Simplifies Workflows &amp; Reduces Hassle](https://dev.to/getambassador2024/boosting-developer-productivity-how-blackbird-simplifies-workflows-reduces-hassle-78n)
 <!-- BLOG-POST-LIST:END -->
 
 
