@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weather App With State Management for Long Running Conversations Using AI Agents](https://dev.to/exploredataaiml/weather-app-with-state-management-for-long-running-conversations-using-ai-agents-4cd5)
-- [Innovative PCB Designs for Smart Fire Detection Systems: The Integration of Multiple Sensors for Enhanced Safety](https://dev.to/yoy/innovative-pcb-designs-for-smart-fire-detection-systems-the-integration-of-multiple-sensors-for-105f)
-- [Seamlessly Compare Maps on QGIS with the QMapCompare Plugin](https://dev.to/mierune/seamlessly-compare-maps-on-qgis-with-the-qmapcompare-plugin-3186)
-- [API Integration with Tanstack Query: Transforming Product Data Management](https://dev.to/yugjadvani/api-integration-with-tanstack-query-transforming-product-data-management-jgc)
+- [Avoid Looping Iterations in Power Automate: Use Filter Array for Efficiency](https://dev.to/myasir/avoid-looping-iterations-in-power-automate-use-filter-array-for-efficiency-f32)
+- [Removability And Repairability Of WPC Door Frames](https://dev.to/monica6656/removability-and-repairability-of-wpc-door-frames-2ipc)
+- [Winter Festival Scratch Ticket 🎭](https://dev.to/boglarkasebestyen/winter-festival-scratch-ticket-4ae2)
+- [Framer Premium Templates: The Ultimate Guide to Stunning Website Designs](https://dev.to/pentaclay/framer-premium-templates-the-ultimate-guide-to-stunning-website-designs-4eag)
 <!-- BLOG-POST-LIST:END -->
 
 
