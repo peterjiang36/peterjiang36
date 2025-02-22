@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Dream Desktop](https://dev.to/cesilcarus/building-your-dream-desktop-dch)
-- [Estudos em Python - Objeto iterável](https://dev.to/douglasamarelo/estudos-em-python-objeto-iteravel-4a98)
-- [Building an AI-Powered Document Retrieval System with Docling and Granite 3.1](https://dev.to/aairom/building-an-ai-powered-document-retrieval-system-with-docling-and-granite-31-2dib)
-- [My React Base :&rpar;](https://dev.to/mattsu014/my-react-base--c0c)
+- [[Boost]](https://dev.to/alaa-samy/-1jbj)
+- [Macros vs. Functions in Rust: When to Use Which?](https://dev.to/leapcell/macros-vs-functions-in-rust-when-to-use-which-fh)
+- [Clean Code in JavaScript: A Comprehensive Guide 🚀](https://dev.to/alaa-samy/clean-code-in-javascript-a-comprehensive-guide-152j)
+- [How to add ShadCN to an electron-vite project.](https://dev.to/nedwize/how-to-add-shadcn-to-an-electron-vite-project-dn)
 <!-- BLOG-POST-LIST:END -->
 
 
