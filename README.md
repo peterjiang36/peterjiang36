@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid Looping Iterations in Power Automate: Use Filter Array for Efficiency](https://dev.to/myasir/avoid-looping-iterations-in-power-automate-use-filter-array-for-efficiency-f32)
-- [Removability And Repairability Of WPC Door Frames](https://dev.to/monica6656/removability-and-repairability-of-wpc-door-frames-2ipc)
-- [Winter Festival Scratch Ticket 🎭](https://dev.to/boglarkasebestyen/winter-festival-scratch-ticket-4ae2)
-- [Framer Premium Templates: The Ultimate Guide to Stunning Website Designs](https://dev.to/pentaclay/framer-premium-templates-the-ultimate-guide-to-stunning-website-designs-4eag)
+- [TOPIC: Understanding the DOM &amp; Event Handling in JavaScript – A Practical Guide](https://dev.to/erasmuskotoka/topic-understanding-the-dom-event-handling-in-javascript-a-practical-guide-44oh)
+- [The Hidden Language of the Web: A Deep Dive into HTTP Status Codes](https://dev.to/kedark/the-hidden-language-of-the-web-a-deep-dive-into-http-status-codes-2og9)
+- [Reveision java](https://dev.to/yaswanth_krishna_81faee1e/reveision-java-p54)
+- [3rd-Color: Best App for Colors](https://dev.to/mfm347/3rd-color-best-app-for-colors-4f1p)
 <!-- BLOG-POST-LIST:END -->
 
 
