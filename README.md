@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript New Array Methods for Better, Cleaner Code](https://dev.to/dev_honufa/javascript-new-array-methods-for-better-cleaner-code-2e36)
-- [Fixing Hugging Face Login Issue &lpar;504 Gateway Timeout &amp; Invalid Token Error&rpar;](https://dev.to/amankumarhappy/fixing-hugging-face-login-issue-504-gateway-timeout-invalid-token-error-34nn)
-- [Step-by-Step Guide to Getting Hired at Top Remote Companies](https://dev.to/devcorner/step-by-step-guide-to-getting-hired-at-top-remote-companies-14o)
-- [Release of MoonShine v3. History and Innovations](https://dev.to/cutcode/release-of-moonshine-v3-history-and-innovations-345i)
+- [How to properly structure an SEO-friendly blog in WordPress?](https://dev.to/jaykrishna_dogne/how-to-properly-structure-an-seo-friendly-blog-in-wordpress-21kd)
+- [Hello world from a WASM module in a static binary](https://dev.to/dcc/hello-world-from-a-wasm-module-in-a-static-binary-m5k)
+- [React](https://dev.to/pa4ozdravkov/react-20bf)
+- [Check out our latest post about RvSheet](https://dev.to/reevo_design/-4pgi)
 <!-- BLOG-POST-LIST:END -->
 
 
