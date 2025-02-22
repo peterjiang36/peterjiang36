@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fighting with Quick sort](https://dev.to/vasutamil19/fighting-with-quick-sort-412k)
-- [🛠️ Resolving GRUB Boot Issues After Reinstalling Windows 11 in a Dual-Boot Setup](https://dev.to/khurammurad/resolving-grub-boot-issues-after-reinstalling-windows-11-in-a-dual-boot-setup-5g12)
-- [Easiest way to implement Social Login Google and Email-Based Authentication using Better Auth, Next.js, and Tailwind CSS](https://dev.to/shahidkhans/easiest-way-to-implement-social-login-google-and-email-based-authentication-using-better-auth-1la3)
-- [Table-Valued Parameters in SQL Server](https://dev.to/shreyans_padmani/table-valued-parameters-in-sql-server-3pnk)
+- [JavaScript New Array Methods for Better, Cleaner Code](https://dev.to/dev_honufa/javascript-new-array-methods-for-better-cleaner-code-2e36)
+- [Fixing Hugging Face Login Issue &lpar;504 Gateway Timeout &amp; Invalid Token Error&rpar;](https://dev.to/amankumarhappy/fixing-hugging-face-login-issue-504-gateway-timeout-invalid-token-error-34nn)
+- [Step-by-Step Guide to Getting Hired at Top Remote Companies](https://dev.to/devcorner/step-by-step-guide-to-getting-hired-at-top-remote-companies-14o)
+- [Release of MoonShine v3. History and Innovations](https://dev.to/cutcode/release-of-moonshine-v3-history-and-innovations-345i)
 <!-- BLOG-POST-LIST:END -->
 
 
