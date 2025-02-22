@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to properly structure an SEO-friendly blog in WordPress?](https://dev.to/jaykrishna_dogne/how-to-properly-structure-an-seo-friendly-blog-in-wordpress-21kd)
-- [Hello world from a WASM module in a static binary](https://dev.to/dcc/hello-world-from-a-wasm-module-in-a-static-binary-m5k)
-- [React](https://dev.to/pa4ozdravkov/react-20bf)
-- [Check out our latest post about RvSheet](https://dev.to/reevo_design/-4pgi)
+- [AI won&#39;t take your job, those who use AI will.](https://dev.to/luk_rauf/ai-wont-take-your-job-those-who-use-ai-will-19c0)
+- [Untitled](https://dev.to/aylak_adamlar_9e87b58ae9b/untitled-eog)
+- [Replacing App Center with GitHub Actions](https://dev.to/vandebron/replacing-app-center-with-github-actions-emd)
+- [How to implement structured data for better SEO results?](https://dev.to/jaykrishna_dogne/how-to-implement-structured-data-for-better-seo-results-5bn4)
 <!-- BLOG-POST-LIST:END -->
 
 
