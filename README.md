@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
-- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
-- [How to create a RustDLL binding for NodeJs](https://dev.to/flameoftheforest/how-to-create-a-rustdll-binding-for-nodejs-2348)
-- [Best HTML Editors: What Editor to Choose?](https://dev.to/angel_rojas_6904bae237a0d/best-html-editors-what-editor-to-choose-55co)
+- [Writing Human Readable Code: To Name or Not To Name](https://dev.to/mobolanleadebesin/writing-human-readable-code-to-name-or-not-to-name-2jci)
+- [#28.1 Part 1/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/281-part-12-basics-of-software-architecture-and-design-patterns-475e)
+- [HOW TO CREATE AN APP SERVICE APPLICATION WITH AZURE](https://dev.to/sheyitex/how-to-create-an-app-service-application-with-azure-gfo)
+- [🚀 Supercharge Your File Storage: SeaweedFS + PostgreSQL in 15 Minutes](https://dev.to/benjeddou_monem_68600c6c8/supercharge-your-file-storage-seaweedfs-postgresql-in-15-minutes-407f)
 <!-- BLOG-POST-LIST:END -->
 
 
