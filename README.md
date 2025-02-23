@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing bizznessia.dev – My Curated Resource Hub for Digital Nomads](https://dev.to/bizznessia/introducing-bizznessiadev-my-curated-resource-hub-for-digital-nomads-1ada)
-- [The Rise of LLMs: Are We Dumbing Ourselves Down?](https://dev.to/jeandevbr/the-rise-of-llms-are-we-dumbing-ourselves-down-43b5)
-- [Don&#39;t Let Your LLM Hallucinate—Check Out These Prompting Rules and Methods!](https://dev.to/lincemathew/dont-let-your-llm-hallucinate-check-out-these-prompting-rules-and-methods-39jb)
-- [&quot;Boosting LLM Efficiency: Unveiling FR-Spec and LServe Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-llm-efficiency-unveiling-fr-spec-and-lserve-innovations-3afd)
+- [Error-Free Communication: How the Data Link Layer Ensures Reliable Data Transfer](https://dev.to/singhaayush/error-free-communication-how-the-data-link-layer-ensures-reliable-data-transfer-i4f)
+- [Need help with my python project.](https://dev.to/tashibash/need-help-with-my-python-project-5b29)
+- [Machine Learning: Transforming the Future of Technology](https://dev.to/arjack/machine-learning-transforming-the-future-of-technology-3bf0)
+- [Geolocation API જ⁀ 📍🏠︎](https://dev.to/himanayk/geolocation-api-j--3mp3)
 <!-- BLOG-POST-LIST:END -->
 
 
