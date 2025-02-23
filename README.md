@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Error-Free Communication: How the Data Link Layer Ensures Reliable Data Transfer](https://dev.to/singhaayush/error-free-communication-how-the-data-link-layer-ensures-reliable-data-transfer-i4f)
-- [Need help with my python project.](https://dev.to/tashibash/need-help-with-my-python-project-5b29)
-- [Machine Learning: Transforming the Future of Technology](https://dev.to/arjack/machine-learning-transforming-the-future-of-technology-3bf0)
-- [Geolocation API જ⁀ 📍🏠︎](https://dev.to/himanayk/geolocation-api-j--3mp3)
+- [BULB SEARCH ENGINE](https://dev.to/arsh_patel_74cf6a43525f5c/bulb-search-engine-3i43)
+- [Enable Recognize Non-Native Accents for this Language on Windows 11](https://dev.to/winsides/enable-recognize-non-native-accents-for-this-language-on-windows-11-4nnm)
+- [Running NestJS in a Lambda function with LocalStack and Serverless Framework](https://dev.to/nestjs-ninja/running-nestjs-in-a-lambda-function-with-localstack-and-serverless-framework-enk)
+- [Recipe Card](https://dev.to/preetha_vaishnavi_2b82358/recipe-card-4490)
 <!-- BLOG-POST-LIST:END -->
 
 
