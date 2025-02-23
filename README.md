@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Journey So Far](https://dev.to/athulmuralidhar/my-tech-journey-so-far-1emk)
-- [Designing Scalable APIs](https://dev.to/godofgeeks/designing-scalable-apis-45lp)
-- [A Complete Guide to JavaScript DOM Selector Methods](https://dev.to/oeharuki/a-complete-guide-to-javascript-dom-selector-methods-55bb)
-- [Spring Boot REST API - Returning Response in JSON Format](https://dev.to/ayshriv/spring-boot-rest-api-returning-response-in-json-format-4db0)
+- [Optimizing Rust Compilation: Smaller, Faster, or Both?](https://dev.to/leapcell/optimizing-rust-compilation-smaller-faster-or-both-16pe)
+- [Getting micrograd to Perfectly Predict Answers To A Sample Problem](https://dev.to/shrsv/getting-micrograd-to-perfectly-predict-answers-to-a-sample-problem-3cib)
+- [🚀 IT Infrastructure &amp; Cloud: Everything You Need to Know](https://dev.to/satyam-ahirrao/it-infrastructure-cloud-everything-you-need-to-know-4c1k)
+- [When Should You Consider Using Microservices?](https://dev.to/looph0le/when-should-you-consider-using-microservices-2hc9)
 <!-- BLOG-POST-LIST:END -->
 
 
