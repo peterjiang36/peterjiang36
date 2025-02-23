@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECS vs Sliplane](https://dev.to/wimadev/aws-ecs-vs-sliplane-3758)
-- [How do I use ChatGPT as a developer? Top 10 + 1 best usages.](https://dev.to/chrdek/how-do-i-use-chatgpt-as-a-developer-top-10-1-best-usages-m1o)
-- [Event Tracking and Parameters: Setting Up Custom Events and Parameters in Google Analytics 4 &lpar;2025 Update&rpar;](https://dev.to/gerryleonugroho/event-tracking-and-parameters-setting-up-custom-events-and-parameters-in-google-analytics-4-2025-10gd)
-- [Common Exceptions In Spring Core and SpringMVC](https://dev.to/shikha_verma_1896/common-exceptions-in-spring-core-and-springmvc-3l69)
+- [Introducing bizznessia.dev – My Curated Resource Hub for Digital Nomads](https://dev.to/bizznessia/introducing-bizznessiadev-my-curated-resource-hub-for-digital-nomads-1ada)
+- [The Rise of LLMs: Are We Dumbing Ourselves Down?](https://dev.to/jeandevbr/the-rise-of-llms-are-we-dumbing-ourselves-down-43b5)
+- [Don&#39;t Let Your LLM Hallucinate—Check Out These Prompting Rules and Methods!](https://dev.to/lincemathew/dont-let-your-llm-hallucinate-check-out-these-prompting-rules-and-methods-39jb)
+- [&quot;Boosting LLM Efficiency: Unveiling FR-Spec and LServe Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-llm-efficiency-unveiling-fr-spec-and-lserve-innovations-3afd)
 <!-- BLOG-POST-LIST:END -->
 
 
