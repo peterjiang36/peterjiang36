@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Maatwebsite Excel in Laravel for Importing &amp; Exporting Data](https://dev.to/snehalkadwe/how-to-use-maatwebsite-excel-in-laravel-for-importing-exporting-data-2gac)
-- [Celebrating 75,000+ Views: A Huge Milestone for Our Tech Community! 🚀🎉](https://dev.to/raajaryan/celebrating-75000-views-a-huge-milestone-for-our-tech-community-5gja)
-- [DeepSeek AI: The Rise of China’s Ambitious AI Startup](https://dev.to/kritrim_dhi/deepseek-ai-the-rise-of-chinas-ambitious-ai-startup-6eh)
-- [Why Wait for System Failure Before Taking Action? Use Watchdog Software!](https://dev.to/heshamkaka75/why-wait-for-system-failure-before-taking-action-use-watchdog-software-3jdd)
+- [FAQ: Product Hunt for DevTools](https://dev.to/fmerian/faq-product-hunt-for-devtools-2c09)
+- [TS1246: An interface property cannot have an initializer](https://dev.to/turingvangisms/ts1246-an-interface-property-cannot-have-an-initializer-3cca)
+- [TS1247: A type literal property cannot have an initializer](https://dev.to/turingvangisms/ts1247-a-type-literal-property-cannot-have-an-initializer-4kji)
+- [TS1243: &#39;{0}&#39; modifier cannot be used with &#39;{1}&#39; modifier](https://dev.to/turingvangisms/ts1243-0-modifier-cannot-be-used-with-1-modifier-44bb)
 <!-- BLOG-POST-LIST:END -->
 
 
