@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [php switch, if else alternative](https://dev.to/ekopriyanto/php-switch-if-else-alternative-560e)
-- [How to Integrate EC2 Server with VS Code using Remote SSH](https://dev.to/ryoichihomma/how-to-integrate-ec2-server-with-vs-code-using-remote-ssh-1cpk)
-- [[Boost]](https://dev.to/reyronald/-2590)
-- [Dealing with open database transactions in Prisma](https://dev.to/reyronald/dealing-with-open-database-transactions-in-prisma-3clk)
+- [How to allow pod from default namespace, read secret from other namespace?](https://dev.to/iamrj846/how-to-allow-pod-from-default-namespace-read-secret-from-other-namespace-2225)
+- [The Shift to Real-Time: Comparing RisingWave, BigQuery, Snowflake, and Databricks Features for Real-Time Analytics](https://dev.to/__354f265b41dafa0d901b/the-shift-to-real-time-comparing-risingwave-bigquery-snowflake-and-databricks-features-for-pei)
+- [Understanding Kubernetes Networking: Exposing Pods Inside and Outside the Cluster🚀](https://dev.to/devcorner/understanding-kubernetes-networking-exposing-pods-inside-and-outside-the-cluster-38nn)
+- [How can I update a secret on Kubernetes when it is generated from a file?](https://dev.to/iamrj846/how-can-i-update-a-secret-on-kubernetes-when-it-is-generated-from-a-file-5bp2)
 <!-- BLOG-POST-LIST:END -->
 
 
