@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Pressure of Delivery: A Software Developer&#39;s Perspective](https://dev.to/jwp/navigating-the-pressure-of-delivery-a-software-developers-perspective-22dg)
-- [Control your PlayStation 3 remotely](https://dev.to/mprog10/control-your-playstation-3-remotely-3lh9)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4l01)
-- [AWS X-Ray to break a monolith into microservice](https://dev.to/gurudev_prasadteketi/aws-x-ray-to-break-a-monolith-into-microservice-2da1)
+- [Introduction to UML for System and Process Design](https://dev.to/edgaras/introduction-to-uml-for-system-and-process-design-3l1m)
+- [Tríade CIA e Sua Importância na Cibersegurança.](https://dev.to/jaque_py/triade-cia-e-sua-importancia-na-ciberseguranca-565f)
+- [How to create a RustDLL binding for NodeJs](https://dev.to/flameoftheforest/how-to-create-a-rustdll-binding-for-nodejs-2348)
+- [Best HTML Editors: What Editor to Choose?](https://dev.to/angel_rojas_6904bae237a0d/best-html-editors-what-editor-to-choose-55co)
 <!-- BLOG-POST-LIST:END -->
 
 
