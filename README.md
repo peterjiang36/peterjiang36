@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jdgamble555/-2lg2)
-- [Insider Info About the New Results Class in Benchmark](https://dev.to/ukrguru/insider-info-about-the-new-results-class-in-benchmark-b51)
-- [Simplifier le développement de newsletters responsives avec MJML](https://dev.to/p0p0/simplifier-le-developpement-de-newsletters-responsives-avec-mjml-jpn)
-- [👋 Hello, World!](https://dev.to/auti/hello-world-38jp)
+- [Mastering Binary Search: Find First &amp; Last Position in a Sorted Array Efficiently](https://dev.to/shashi1910/mastering-binary-search-find-first-last-position-in-a-sorted-array-efficiently-na9)
+- [Outreachy Call for June 2025 Cohort mentoring.](https://dev.to/jacobisah/outreachy-call-for-june-2025-cohort-mentoring-40lh)
+- [IKO - Lessons Learned &lpar;Part 2 - The IrisCluster&rpar;](https://dev.to/intersystems/iko-lessons-learned-part-2-the-iriscluster-6nn)
+- [IKO - Lessons Learned &lpar;Part 1 - Helm&rpar;](https://dev.to/intersystems/iko-lessons-learned-part-1-helm-7do)
 <!-- BLOG-POST-LIST:END -->
 
 
