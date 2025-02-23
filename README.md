@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to allow pod from default namespace, read secret from other namespace?](https://dev.to/iamrj846/how-to-allow-pod-from-default-namespace-read-secret-from-other-namespace-2225)
-- [The Shift to Real-Time: Comparing RisingWave, BigQuery, Snowflake, and Databricks Features for Real-Time Analytics](https://dev.to/__354f265b41dafa0d901b/the-shift-to-real-time-comparing-risingwave-bigquery-snowflake-and-databricks-features-for-pei)
-- [Understanding Kubernetes Networking: Exposing Pods Inside and Outside the Cluster🚀](https://dev.to/devcorner/understanding-kubernetes-networking-exposing-pods-inside-and-outside-the-cluster-38nn)
-- [How can I update a secret on Kubernetes when it is generated from a file?](https://dev.to/iamrj846/how-can-i-update-a-secret-on-kubernetes-when-it-is-generated-from-a-file-5bp2)
+- [My Tech Journey So Far](https://dev.to/athulmuralidhar/my-tech-journey-so-far-1emk)
+- [Designing Scalable APIs](https://dev.to/godofgeeks/designing-scalable-apis-45lp)
+- [A Complete Guide to JavaScript DOM Selector Methods](https://dev.to/oeharuki/a-complete-guide-to-javascript-dom-selector-methods-55bb)
+- [Spring Boot REST API - Returning Response in JSON Format](https://dev.to/ayshriv/spring-boot-rest-api-returning-response-in-json-format-4db0)
 <!-- BLOG-POST-LIST:END -->
 
 
