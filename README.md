@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Rust Compilation: Smaller, Faster, or Both?](https://dev.to/leapcell/optimizing-rust-compilation-smaller-faster-or-both-16pe)
-- [Getting micrograd to Perfectly Predict Answers To A Sample Problem](https://dev.to/shrsv/getting-micrograd-to-perfectly-predict-answers-to-a-sample-problem-3cib)
-- [🚀 IT Infrastructure &amp; Cloud: Everything You Need to Know](https://dev.to/satyam-ahirrao/it-infrastructure-cloud-everything-you-need-to-know-4c1k)
-- [When Should You Consider Using Microservices?](https://dev.to/looph0le/when-should-you-consider-using-microservices-2hc9)
+- [📸 Building an Optimized Image Gallery with Thumbnails in React Native](https://dev.to/amitkumar13/building-an-optimized-image-gallery-with-thumbnails-in-react-native-4jbe)
+- [Gift box Animation](https://dev.to/preetha_vaishnavi_2b82358/gift-box-animation-51c7)
+- [Building Paikari : A Real-Time Grocery Price Comparison App](https://dev.to/jicoing/building-paikari-a-real-time-grocery-price-comparison-app-5088)
+- [SSR vs SSG vs ISR vs CSR – What’s the Difference?](https://dev.to/ahmedaldrabea/ssr-vs-ssg-vs-isr-vs-csr-whats-the-difference-1gj0)
 <!-- BLOG-POST-LIST:END -->
 
 
