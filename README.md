@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Supercharge Your Website Speed with Code Splitting &amp; CDN Optimization — A Complete Guide!](https://dev.to/dct_technologyprivatelimited/supercharge-your-website-speed-with-code-splitting-cdn-optimization-a-complete-guide-2fho)
-- [My HNG Internship Journey: A New Chapter in My Front-End Development Path](https://dev.to/toptech5419/my-hng-internship-journey-a-new-chapter-in-my-front-end-development-path-5boe)
-- [Microservices vs Monolithic vs Modular Architecture: Choosing the Right Approach](https://dev.to/amarachigoodness74/microservices-vs-monolithic-vs-modular-architecture-choosing-the-right-approach-1jn7)
-- [History of Laravel: How Laravel Started and Where It Stands Today](https://dev.to/ehtesham_ali_abc367f36a5b/history-of-laravel-how-laravel-started-and-where-it-stands-today-236n)
+- [🧠🤖Image generative AI on PC without GPU &lpar;free and fast &lpar;FastSD CPU&rpar;&rpar;](https://dev.to/webdeveloperhyper/image-generative-ai-on-pc-without-gpu-free-and-fast-fastsd-cpu-1jio)
+- [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
+- [Insert into a jsonb Column in Spring Boot 3 + JPA + PostgreSQL](https://dev.to/taharakanta/insert-into-a-jsonb-column-in-spring-boot-3-jpa-postgresql-1o5f)
+- [Practical Application of AI Image Recognition and Speech Recognition in the Smart Photo Album Application of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-ai-image-recognition-and-speech-recognition-in-the-smart-photo-album-3de6)
 <!-- BLOG-POST-LIST:END -->
 
 
