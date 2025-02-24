@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Improve Website Performance and Load Speed](https://dev.to/nividaweb_solutions_8eaed/how-to-improve-website-performance-and-load-speed-4l24)
-- [Australia Hits Telegram with A$1M Fine Over Delayed Child Safety and Extremism Response](https://dev.to/saad_hassan_8f937dc6fafc9/australia-hits-telegram-with-a1m-fine-over-delayed-child-safety-and-extremism-response-2p45)
-- [Mastering Responsive Web Design – 5 Essential Tips](https://dev.to/ltndat1/mastering-responsive-web-design-5-essential-tips-j3p)
-- [AI Robot Goes Rogue at Chinese Festival: A Glitch or a Glimpse of the Future?](https://dev.to/nettribe/ai-robot-goes-rogue-at-chinese-festival-a-glitch-or-a-glimpse-of-the-future-48e3)
+- [I am Lazy and Exam is here,So here is Easy way to kill It.](https://dev.to/ujjwal_nepal/i-am-lazy-and-exam-is-hereso-here-is-easy-way-to-kill-it-4nod)
+- [Why mode: &quot;no-cors&quot; won&#39;t fix your CORS errors](https://dev.to/reynaldi/why-mode-no-cors-wont-fix-your-cors-errors-250)
+- [Talos Linux: The Kubernetes OS That’s Changing the Game &lpar;and Why You Should Care&rpar;](https://dev.to/binyam/talos-linux-the-kubernetes-os-thats-changing-the-game-and-why-you-should-care-462k)
+- [API Versioning in .NET 8](https://dev.to/hilman_karyadi_39272fd379/api-versioning-in-net-8-3ao4)
 <!-- BLOG-POST-LIST:END -->
 
 
