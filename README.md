@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠🤖Image generative AI on PC without GPU &lpar;free and fast &lpar;FastSD CPU&rpar;&rpar;](https://dev.to/webdeveloperhyper/image-generative-ai-on-pc-without-gpu-free-and-fast-fastsd-cpu-1jio)
-- [Tackling Cold Starts in AWS Lambda: A Deep Dive with LLRT](https://dev.to/siddhantkcode/tackling-cold-starts-in-aws-lambda-a-deep-dive-with-llrt-17d7)
-- [Insert into a jsonb Column in Spring Boot 3 + JPA + PostgreSQL](https://dev.to/taharakanta/insert-into-a-jsonb-column-in-spring-boot-3-jpa-postgresql-1o5f)
-- [Practical Application of AI Image Recognition and Speech Recognition in the Smart Photo Album Application of HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/practical-application-of-ai-image-recognition-and-speech-recognition-in-the-smart-photo-album-3de6)
+- [The 4 API&#39;s of the Power Platform](https://dev.to/wyattdave/the-4-apis-of-the-power-platform-1mm8)
+- [How Python Powers Scalable and Cost-Effective Cloud Solutions](https://dev.to/chiragsinh_vaghela21/how-python-powers-scalable-and-cost-effective-cloud-solutions-230l)
+- [The Ever-Changing Tech Trends: How to Adapt Without Burning Out](https://dev.to/matemiller/the-ever-changing-tech-trends-how-to-adapt-without-burning-out-5e1a)
+- [I Launched My Portfolio Website! I Need Your Feedback](https://dev.to/sovannaro/i-launched-my-portfolio-website-i-need-your-feedback-3onp)
 <!-- BLOG-POST-LIST:END -->
 
 
