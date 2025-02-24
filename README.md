@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile and Kanban improve project management by enhancing flexibility, efficiency, and collaboration. Agile enables iterative development, while Kanban optimizes workflow and reduces delays. Boost your team&#39;s productivity with these powerful methodologies!](https://dev.to/pratham_naik_project_manager/agile-and-kanban-improve-project-management-by-enhancing-flexibility-efficiency-and-5466)
-- [Agile and Kanban enhance project management by improving flexibility, efficiency, and team collaboration. Agile ensures iterative progress, while Kanban optimizes workflow and reduces bottlenecks. Discover how they boost development success! #Agile #Kanban](https://dev.to/pratham_naik_project_manager/agile-and-kanban-enhance-project-management-by-improving-flexibility-efficiency-and-team-1h6c)
-- [Enhance team productivity in software development with clear goals, Agile practices, automation, and strong collaboration. Streamline workflows, reduce bottlenecks, and boost efficiency for successful project delivery. #Productivity #DevTeams #Agile](https://dev.to/pratham_naik_project_manager/enhance-team-productivity-in-software-development-with-clear-goals-agile-practices-automation-2nj5)
-- [Master project management for development teams with Agile strategies, clear communication, and efficient workflows. Learn how to optimize processes, manage resources, and drive success. Unlock your team&#39;s full potential with expert tips! #ProjectManagemen](https://dev.to/pratham_naik_project_manager/master-project-management-for-development-teams-with-agile-strategies-clear-communication-and-i0j)
+- [How to Improve Website Performance and Load Speed](https://dev.to/nividaweb_solutions_8eaed/how-to-improve-website-performance-and-load-speed-4l24)
+- [Australia Hits Telegram with A$1M Fine Over Delayed Child Safety and Extremism Response](https://dev.to/saad_hassan_8f937dc6fafc9/australia-hits-telegram-with-a1m-fine-over-delayed-child-safety-and-extremism-response-2p45)
+- [Mastering Responsive Web Design – 5 Essential Tips](https://dev.to/ltndat1/mastering-responsive-web-design-5-essential-tips-j3p)
+- [AI Robot Goes Rogue at Chinese Festival: A Glitch or a Glimpse of the Future?](https://dev.to/nettribe/ai-robot-goes-rogue-at-chinese-festival-a-glitch-or-a-glimpse-of-the-future-48e3)
 <!-- BLOG-POST-LIST:END -->
 
 
