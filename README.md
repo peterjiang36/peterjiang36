@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Commit to marriage with TLA+ pt.2](https://dev.to/0xgeorgii/commit-to-marriage-with-tla-pt2-2n08)
-- [CSS Art: February - Sunflower Month](https://dev.to/danilo_abramowicz/css-art-february-sunflower-month-4i89)
-- [🚀 Bootstrap vs. Tailwind CSS – Which One Should You Use? 🎨💻](https://dev.to/erasmuskotoka/bootstrap-vs-tailwind-css-which-one-should-you-use-24io)
-- [Withdrawing USDT from OKX to Kraken? Which network is the best deal?](https://dev.to/01kg/withdraw-usdt-from-okx-to-kraken-which-network-is-the-best-deal-2lal)
+- [Guardius and OWASP ZAP: Boosting Web Application Security with Comprehensive Scanning](https://dev.to/guardius/guardius-and-owasp-zap-boosting-web-application-security-with-comprehensive-scanning-44fi)
+- [Hypothesis Testing: Purpose, Importance, and Applications](https://dev.to/sum_byron/hypothesis-testing-purpose-importance-and-applications-1nim)
+- [Taking pretty printing of logs to the next level with LogLayer](https://dev.to/theogravity/taking-pretty-printing-of-logs-to-the-next-level-with-loglayer-1nnp)
+- [Jekyll Github Pages Website](https://dev.to/anusree6154s/jekyll-github-pages-website-4poh)
 <!-- BLOG-POST-LIST:END -->
 
 
