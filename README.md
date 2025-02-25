@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Languages you need to master to become a professional programmer.](https://dev.to/devmercy/languages-you-need-to-master-to-become-a-professional-programmer-jal)
-- [Must-Read for Beginners: Complete Guide to Registering on Shopee](https://dev.to/falldd/must-read-for-beginners-complete-guide-to-registering-on-shopee-429c)
-- [Microsoft Azure Training: A Beginner’s Guide to Cloud Computing](https://dev.to/aravindh_ramu_a8b26e63c48/microsoft-azure-training-a-beginners-guide-to-cloud-computing-5fmg)
-- [AI-Optimized FPGA Deployments: Challenges &amp; Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
+- [Top 10 Trending GitHub Repositories, February 2025](https://dev.to/leamsigc/top-10-trending-github-repositories-february-2025-1pi5)
+- [What is a Video Player SDK for Android? A Beginner’s Guide](https://dev.to/livestreaming/what-is-a-video-player-sdk-for-android-a-beginners-guide-1aie)
+- [&quot;Unlocking Long-Context Potential: Advances in Speculative Decoding for LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-long-context-potential-advances-in-speculative-decoding-for-llms-53l8)
+- [✨ [10] - Coding Products Screen in React Native Expo | Filter by Category](https://dev.to/skipperhoa/10-coding-products-screen-in-react-native-expo-filter-by-category-2c4i)
 <!-- BLOG-POST-LIST:END -->
 
 
