@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Time-Series Databases vs. Streaming Databases: Key Differences &amp; Use Cases](https://dev.to/__354f265b41dafa0d901b/time-series-databases-vs-streaming-databases-key-differences-use-cases-514e)
-- [Time-Series Databases vs. Streaming Databases: Key Differences &amp; Use Cases](https://dev.to/__354f265b41dafa0d901b/time-series-databases-vs-streaming-databases-key-differences-use-cases-4f4e)
-- [Building a Background Worker Service in .NET](https://dev.to/nick_proud/building-a-background-worker-service-in-net-97g)
-- [Just Launched My Side Project — Would Love Your Feedback! 🚀](https://dev.to/vladyusha/just-launched-my-side-project-would-love-your-feedback-4ilb)
+- [Automated Tests | How to mock classes with PHPUnit 🔧](https://dev.to/razielrodrigues/automated-tests-how-to-mock-classes-with-phpunit-14pp)
+- [Why Does PDF Use Floats and Word Use EMUs? The Surprising Answer](https://dev.to/zubinajmera/why-does-pdf-use-floats-and-word-use-emus-the-surprising-answer-4b6h)
+- [Scalability in Data-Intensive applications - Fan-Out, Throughput, Twitter problem, Percentile](https://dev.to/oleksandr_kashytskyi_a630/scalability-in-data-intensive-applications-fan-out-throughput-twitter-problem-percentile-1c8c)
+- [🐳 Setting Up SSH in an Ubuntu Docker Container Using Portainer](https://dev.to/aice09/setting-up-ssh-in-an-ubuntu-docker-container-using-portainer-528i)
 <!-- BLOG-POST-LIST:END -->
 
 
