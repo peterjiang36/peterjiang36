@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Prototyping an Insulin Calculator WebApp with AI Tools and Open Food Facts API](https://dev.to/aflussing/rapid-prototyping-an-insulin-calculator-webapp-with-ai-tools-and-open-food-facts-api-2emk)
-- [Study Notes 4.3.1 - Build the First dbt Models](https://dev.to/pizofreude/study-notes-431-build-the-first-dbt-models-2nl3)
-- [About the Dead Internet Theory and AI](https://dev.to/rogiia/about-the-dead-internet-theory-and-ai-35g)
-- [Answer: How to use the addr2line command in Linux?](https://dev.to/dobby33/answer-how-to-use-the-addr2line-command-in-linux-35of)
+- [How to Host React Webpages on Github Pages](https://dev.to/efeng2/how-to-host-react-webpages-on-github-pages-556p)
+- [Kwaak, a different take on AI coding tools](https://dev.to/timonv/kwaak-a-different-take-on-ai-coding-tools-7fi)
+- [JSON Hell to JSON Heaven in 30 Second: The Tool Every Developer Has Been Missing #JSeek](https://dev.to/eantelx/jseek-mastering-json-data-exploration-with-a-powerful-cli-tool-4j2n)
+- [We made QuickSnip even better &lpar;v1&rpar;](https://dev.to/technoph1le/we-made-quicksnip-even-better-v1-50lo)
 <!-- BLOG-POST-LIST:END -->
 
 
