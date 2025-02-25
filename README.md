@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Blog 1](https://dev.to/capricious_daksh/hello-blog-1-25fn)
-- [#28.2 Part 2/3 Basics of Software Architecture and Design Patterns](https://dev.to/flnzba/282-part-23-basics-of-software-architecture-and-design-patterns-haf)
-- [Claude 3.7 Sonnet by Antrophic: A Revolutionary Hybrid Reasoning AI Model](https://dev.to/mehmetakar/claude-37-sonnet-by-antrophic-a-revolutionary-hybrid-reasoning-ai-model-4dj0)
-- [Image Optimization in Astro: Boost Site Performance and SEO](https://dev.to/saida_lachgar/image-optimization-in-astro-boost-site-performance-and-seo-2k80)
+- [Jam.dev – An Effective Tool for Bug Reproduction](https://dev.to/namnguyenthanhwork/jamdev-an-effective-tool-for-bug-reproduction-1979)
+- [Sentiment Analysis on IMDB Movie Reviews Using BERT](https://dev.to/sreeni5018/sentiment-analysis-on-imdb-movie-reviews-using-bert-377m)
+- [Strapi: El CMS Headless que Revoluciona tu Desarrollo Web - Ventajas, Casos de Uso y Stacks Ideales 🚀](https://dev.to/lewiz17/strapi-el-cms-headless-que-revoluciona-tu-desarrollo-web-ventajas-casos-de-uso-y-stacks-ideales-35j9)
+- [How to Handle Date and Time Correctly to Avoid Timezone Bugs](https://dev.to/kcsujeet/how-to-handle-date-and-time-correctly-to-avoid-timezone-bugs-4o03)
 <!-- BLOG-POST-LIST:END -->
 
 
