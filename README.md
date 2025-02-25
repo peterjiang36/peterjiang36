@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Essentials for a Quick Reliable Infrastructure in AWS Cloud](https://dev.to/sakin_deborah_4a68b191ad4/essentials-for-a-quick-reliable-infrastructure-in-aws-cloud-j8h)
-- [05. REACT NATIVE – EXPORT/IMPORT](https://dev.to/sandatya_widhi_ce7cb1c809/05-react-native-exportimport-26fn)
-- [HTTP Proxy IP: Protect Privacy, Hide Real IP Address](https://dev.to/98ip/http-proxy-ip-protect-privacy-hide-real-ip-address-26n)
-- [Claude 3.7 Sonnet: Where AI Meets Human-Like Problem Solving](https://dev.to/aws-builders/claude-37-sonnet-where-ai-meets-human-like-problem-solving-3bom)
+- [Languages you need to master to become a professional programmer.](https://dev.to/devmercy/languages-you-need-to-master-to-become-a-professional-programmer-jal)
+- [Must-Read for Beginners: Complete Guide to Registering on Shopee](https://dev.to/falldd/must-read-for-beginners-complete-guide-to-registering-on-shopee-429c)
+- [Microsoft Azure Training: A Beginner’s Guide to Cloud Computing](https://dev.to/aravindh_ramu_a8b26e63c48/microsoft-azure-training-a-beginners-guide-to-cloud-computing-5fmg)
+- [AI-Optimized FPGA Deployments: Challenges &amp; Solutions](https://dev.to/charudatta10/ai-optimized-fpga-deployments-challenges-solutions-2mij)
 <!-- BLOG-POST-LIST:END -->
 
 
