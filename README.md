@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jam.dev – An Effective Tool for Bug Reproduction](https://dev.to/namnguyenthanhwork/jamdev-an-effective-tool-for-bug-reproduction-1979)
-- [Sentiment Analysis on IMDB Movie Reviews Using BERT](https://dev.to/sreeni5018/sentiment-analysis-on-imdb-movie-reviews-using-bert-377m)
-- [Strapi: El CMS Headless que Revoluciona tu Desarrollo Web - Ventajas, Casos de Uso y Stacks Ideales 🚀](https://dev.to/lewiz17/strapi-el-cms-headless-que-revoluciona-tu-desarrollo-web-ventajas-casos-de-uso-y-stacks-ideales-35j9)
-- [How to Handle Date and Time Correctly to Avoid Timezone Bugs](https://dev.to/kcsujeet/how-to-handle-date-and-time-correctly-to-avoid-timezone-bugs-4o03)
+- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3kkj)
+- [Vite: Modern Frontend İnkişafına Sürət Gətirən Alət 🚀 &lpar;CRA ilə Müqayisə&rpar;](https://dev.to/musalimurat/vite-modern-frontend-inkisafina-surt-gtirn-alt-cra-il-muqayis-1g2a)
+- [A Comprehensive Analysis of the Adaptive Layout Capabilities in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/a-comprehensive-analysis-of-the-adaptive-layout-capabilities-in-harmonyos-next-3a8f)
+- [Convert Cross Cell to Row Header, Row Header to Column — From SQL to SPL #4](https://dev.to/judith677/convert-cross-cell-to-row-header-row-header-to-column-from-sql-to-spl-4-jpa)
 <!-- BLOG-POST-LIST:END -->
 
 
