@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Tests | How to mock classes with PHPUnit 🔧](https://dev.to/razielrodrigues/automated-tests-how-to-mock-classes-with-phpunit-14pp)
-- [Why Does PDF Use Floats and Word Use EMUs? The Surprising Answer](https://dev.to/zubinajmera/why-does-pdf-use-floats-and-word-use-emus-the-surprising-answer-4b6h)
-- [Scalability in Data-Intensive applications - Fan-Out, Throughput, Twitter problem, Percentile](https://dev.to/oleksandr_kashytskyi_a630/scalability-in-data-intensive-applications-fan-out-throughput-twitter-problem-percentile-1c8c)
-- [🐳 Setting Up SSH in an Ubuntu Docker Container Using Portainer](https://dev.to/aice09/setting-up-ssh-in-an-ubuntu-docker-container-using-portainer-528i)
+- [Building a Reactive System in Typescript - Writing a Signal](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-writing-a-signal-120c)
+- [Building a Reactive System in Typescript - Introduction to Reactivity](https://dev.to/michaeljota/building-a-reactive-system-in-typescript-introduction-to-reactivity-34lh)
+- [One-click City Generation with GISBox](https://dev.to/gisbox/one-click-city-generation-with-gisbox-27h7)
+- [Using React-admin Dashboard for Application Management](https://dev.to/saurabh2k1/using-react-admin-dashboard-for-application-management-3eb2)
 <!-- BLOG-POST-LIST:END -->
 
 
