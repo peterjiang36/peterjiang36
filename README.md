@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello ruby](https://dev.to/hoangtamle/hello-ruby-4h3l)
-- [Hello Javascript](https://dev.to/hoangtamle/hello-javascript-4ga7)
-- [JavaScript Best Practices for Beginners](https://dev.to/million_formula_3be3d915d/javascript-best-practices-for-beginners-244k)
-- [🚀 The Future of AI Coding: From Text Generation to Full-Scale Engineering!](https://dev.to/herche_jane/the-future-of-ai-coding-from-text-generation-to-full-scale-engineering-421o)
+- [1749. Maximum Absolute Sum of Any Subarray](https://dev.to/mdarifulhaque/1749-maximum-absolute-sum-of-any-subarray-3ekh)
+- [How Ibandronic acid 3 mg solution helps in managing osteoporosis effectively](https://dev.to/centurion_heathcare_cf845/how-ibandronic-acid-3-mg-solution-helps-in-managing-osteoporosis-effectively-1fic)
+- [A Guide to Building a Map Application with Svelte](https://dev.to/mierune/a-guide-to-building-a-map-application-with-svelte-58je)
+- [wasting time on env vars](https://dev.to/travisirby/wasting-time-on-env-vars-4apb)
 <!-- BLOG-POST-LIST:END -->
 
 
