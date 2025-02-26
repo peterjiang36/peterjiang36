@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 26 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-february-3i55)
-- [Building a Multi-Connection Redis Server with Ruby&#39;s Async Library [Part 1]](https://dev.to/alexey2257/building-a-multi-connection-redis-server-with-rubys-async-library-part-1-4o74)
-- [Generative AI for Content Creation: Transforming the Future of Digital Writing](https://dev.to/trretatechnolabs/generative-ai-for-content-creation-transforming-the-future-of-digital-writing-58i1)
-- [From Infrastructure as Click to Infrastructure as Code: The AWS DevOps Journey](https://dev.to/natalia_toporkiewicz/from-infrastructure-as-click-to-infrastructure-as-code-the-aws-devops-journey-37ok)
+- [Execute Shell Commands with Boost.Process](https://dev.to/marcosplusplus/execute-shell-commands-with-boostprocess-4m8l)
+- [🚀 Coding Smarter, Not Harder – Insights on Developer Focus &amp; Workflow](https://dev.to/devek/coding-smarter-not-harder-insights-on-developer-focus-workflow-4pka)
+- [My Experience Learning C++ &lpar;so far&rpar;](https://dev.to/pxlmastrxd/my-experience-learning-c-so-far-25pk)
+- [Como Configurar Múltiplas Contas do GitHub em um Único Computador](https://dev.to/vitorrios1001/como-configurar-multiplas-contas-do-github-em-um-unico-computador-aop)
 <!-- BLOG-POST-LIST:END -->
 
 
