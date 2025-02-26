@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Node.js Will Dominate Web Development in 2025 ?](https://dev.to/trretatechnolabs/why-nodejs-will-dominate-web-development-in-2025--7c1)
-- [Why is Billing Access Important for AWS IAM Users?](https://dev.to/ramkumar-m-n/why-is-billing-access-important-for-aws-iam-users-3l5m)
-- [Telegram Bot Getting Blocked Under High Load – Solutions?](https://dev.to/bill_cool_b031acaa86eb43a/telegram-bot-getting-blocked-under-high-load-solutions-7f6)
-- [The Definitive Checklist for Reserving the Ideal Corporate Event Halls](https://dev.to/eastcoast/the-definitive-checklist-for-reserving-the-ideal-corporate-event-halls-k62)
+- [Rely less on Third-Party Services](https://dev.to/ingosteinke/rely-less-on-third-party-services-3gd)
+- [Two AI agents speaking their own language! We are cooked.](https://dev.to/perisicnikola37/two-ai-agents-speaking-their-own-language-we-are-cooked-2klc)
+- [Accelerating Software Delivery with CI/CD](https://dev.to/techstrategy/accelerating-software-delivery-with-cicd-5abg)
+- [The Role of AI and Automation in Modern Semiconductor Factories](https://dev.to/ptdcleantechsolution/the-role-of-ai-and-automation-in-modern-semiconductor-factories-54oh)
 <!-- BLOG-POST-LIST:END -->
 
 
