@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nathanhannon/-4cc4)
-- [How not to write Tailwind](https://dev.to/aryan015/how-not-to-write-tailwind-1dab)
-- [Testing End-to-End Salesforce Flows: Web and Mobile Applications](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-end-to-end-salesforce-flows-web-and-mobile-applications-dcj)
-- [Docker](https://dev.to/yuripeixinho/docker-4649)
+- [Hello ruby](https://dev.to/hoangtamle/hello-ruby-4h3l)
+- [Hello Javascript](https://dev.to/hoangtamle/hello-javascript-4ga7)
+- [JavaScript Best Practices for Beginners](https://dev.to/million_formula_3be3d915d/javascript-best-practices-for-beginners-244k)
+- [🚀 The Future of AI Coding: From Text Generation to Full-Scale Engineering!](https://dev.to/herche_jane/the-future-of-ai-coding-from-text-generation-to-full-scale-engineering-421o)
 <!-- BLOG-POST-LIST:END -->
 
 
