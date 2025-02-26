@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚒ The Hidden Complexity Of Routing: Why Your Requests Take Longer Than They Should](https://dev.to/aetherflux/the-hidden-complexity-of-routing-why-your-requests-take-longer-than-they-should-5bbf)
-- [An Example about Flyweight Pattern in Java](https://dev.to/john_green/an-example-about-flyweight-pattern-in-java-1i06)
-- [How to Create an Interactive Dropdown Menu with Tailwind CSS &amp; JavaScript](https://dev.to/rowsanali/how-to-create-an-interactive-dropdown-menu-with-tailwind-css-javascript-1cja)
-- [Thinking about becoming a Data Engineer?](https://dev.to/henryclapton/thinking-about-becoming-a-data-engineer-phb)
+- [Becoming an AI-augmented developer &lpar;and why you have to&rpar;](https://dev.to/igorfragadev/becoming-an-ai-augmented-developer-and-why-you-have-to-57h7)
+- [Earn Up to 1M XIAN: Xian Blockchain’s Bounty Program is Live!](https://dev.to/crosschainer/earn-up-to-1m-xian-xian-blockchains-bounty-program-is-live-390a)
+- [How to “Choose Where to Get Apps” on Windows 11?](https://dev.to/winsides/how-to-choose-where-to-get-apps-on-windows-11-2892)
+- [Google OIDC and Prompt Login](https://dev.to/googleworkspace/google-oidc-and-prompt-login-4d5o)
 <!-- BLOG-POST-LIST:END -->
 
 
