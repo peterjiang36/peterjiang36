@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis + GoFrame: Building High-Performance Go Applications Made Easy](https://dev.to/jones_charles_ad50858dbc0/redis-goframe-building-high-performance-go-applications-made-easy-1fp2)
-- [TabLayout with both image and calculation&lpar;Java &amp; XML&rpar;](https://dev.to/varun_vikyatb_bc5dce83c5/tablayout-with-both-image-and-calculationjava-xml-52k0)
-- [Being a Unique Developer vs. Following the Crowd](https://dev.to/matemiller/being-a-unique-developer-vs-following-the-crowd-4lad)
-- [Crafting an Effective Application Security Program: Strategies, Practices, and Tooling for Optimal Performance](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-practices-and-tooling-for-optimal-560h)
+- [CryptEnv: Secure Your Environment Variables 🔐](https://dev.to/imduchuyyy/cryptenv-secure-your-environment-variables-4o61)
+- [The Essential Guide to Choosing the Right Blockchain for Your Token](https://dev.to/createmytoken/the-essential-guide-to-choosing-the-right-blockchain-for-your-token-2594)
+- [🔓How to Choose between These Two API Testing Tools: Postman Flow or Apidog Tests✨](https://dev.to/apilover/how-to-choose-between-these-two-api-testing-tools-postman-flow-or-apidog-tests-9ae)
+- [AI-Powered Test Case Generation: The Future of Software Testing](https://dev.to/vaibhavkuls/ai-powered-test-case-generation-the-future-of-software-testing-136g)
 <!-- BLOG-POST-LIST:END -->
 
 
