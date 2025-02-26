@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Keisang HR Is Changing Tech Hiring: A Conversation on Speed and Innovation](https://dev.to/lucasbennett/how-keisang-hr-is-changing-tech-hiring-a-conversation-on-speed-and-innovation-1j74)
-- [Welcome Thread - v316](https://dev.to/devteam/welcome-thread-v316-4ief)
-- [7 Crucial Features to Look for in a JavaScript Framework for Modern Development](https://dev.to/sencha_reext/7-crucial-features-to-look-for-in-a-javascript-framework-for-modern-development-18h0)
-- [Why Fine-tune? Understanding Its Role in Medical AI Models](https://dev.to/matthewmcmullen/why-fine-tune-understanding-its-role-in-medical-ai-models-177p)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2b1c)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-3fj2)
+- [How AI is Improving Cloud Automation &amp; Orchestration](https://dev.to/anshul_kichara/how-ai-is-improving-cloud-automation-orchestration-c7m)
+- [Maximum Absolute Sum of Any Subarray LC - 1749](https://dev.to/devn913/maximum-absolute-sum-of-any-subarray-lc-1749-54o0)
 <!-- BLOG-POST-LIST:END -->
 
 
