@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-2b1c)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/friendgrass7/agentic-ai-revolutionizing-cybersecurity-application-security-3fj2)
-- [How AI is Improving Cloud Automation &amp; Orchestration](https://dev.to/anshul_kichara/how-ai-is-improving-cloud-automation-orchestration-c7m)
-- [Maximum Absolute Sum of Any Subarray LC - 1749](https://dev.to/devn913/maximum-absolute-sum-of-any-subarray-lc-1749-54o0)
+- [Redis + GoFrame: Building High-Performance Go Applications Made Easy](https://dev.to/jones_charles_ad50858dbc0/redis-goframe-building-high-performance-go-applications-made-easy-1fp2)
+- [TabLayout with both image and calculation&lpar;Java &amp; XML&rpar;](https://dev.to/varun_vikyatb_bc5dce83c5/tablayout-with-both-image-and-calculationjava-xml-52k0)
+- [Being a Unique Developer vs. Following the Crowd](https://dev.to/matemiller/being-a-unique-developer-vs-following-the-crowd-4lad)
+- [Crafting an Effective Application Security Program: Strategies, Practices, and Tooling for Optimal Performance](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-practices-and-tooling-for-optimal-560h)
 <!-- BLOG-POST-LIST:END -->
 
 
