@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Becoming an AI-augmented developer &lpar;and why you have to&rpar;](https://dev.to/igorfragadev/becoming-an-ai-augmented-developer-and-why-you-have-to-57h7)
-- [Earn Up to 1M XIAN: Xian Blockchain’s Bounty Program is Live!](https://dev.to/crosschainer/earn-up-to-1m-xian-xian-blockchains-bounty-program-is-live-390a)
-- [How to “Choose Where to Get Apps” on Windows 11?](https://dev.to/winsides/how-to-choose-where-to-get-apps-on-windows-11-2892)
-- [Google OIDC and Prompt Login](https://dev.to/googleworkspace/google-oidc-and-prompt-login-4d5o)
+- [Alternative to Ruby&#39;s Monkey Patching](https://dev.to/railsdesigner/alternative-to-rubys-monkey-patching-4i7k)
+- [How to Build a Full Stack Agentic Researcher in 5 Minutes ⚡️⚡️](https://dev.to/copilotkit/how-to-build-a-full-stack-agentic-researcher-in-5-minutes-19dp)
+- [Top 5 Best Looking Weather App in JavaScript with Source Code | HTML, CSS &amp; JavaScript Projects](https://dev.to/vishalkumar1111/top-5-best-looking-weather-app-in-javascript-with-source-code-html-css-javascript-projects-2oid)
+- [Windows Blue screen of death](https://dev.to/asterdev/windows-blue-screen-of-death-4i35)
 <!-- BLOG-POST-LIST:END -->
 
 
