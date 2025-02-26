@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rely less on Third-Party Services](https://dev.to/ingosteinke/rely-less-on-third-party-services-3gd)
-- [Two AI agents speaking their own language! We are cooked.](https://dev.to/perisicnikola37/two-ai-agents-speaking-their-own-language-we-are-cooked-2klc)
-- [Accelerating Software Delivery with CI/CD](https://dev.to/techstrategy/accelerating-software-delivery-with-cicd-5abg)
-- [The Role of AI and Automation in Modern Semiconductor Factories](https://dev.to/ptdcleantechsolution/the-role-of-ai-and-automation-in-modern-semiconductor-factories-54oh)
+- [🚀 Your Daily Crypto Job Digest For 26 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-february-3i55)
+- [Building a Multi-Connection Redis Server with Ruby&#39;s Async Library [Part 1]](https://dev.to/alexey2257/building-a-multi-connection-redis-server-with-rubys-async-library-part-1-4o74)
+- [Generative AI for Content Creation: Transforming the Future of Digital Writing](https://dev.to/trretatechnolabs/generative-ai-for-content-creation-transforming-the-future-of-digital-writing-58i1)
+- [From Infrastructure as Click to Infrastructure as Code: The AWS DevOps Journey](https://dev.to/natalia_toporkiewicz/from-infrastructure-as-click-to-infrastructure-as-code-the-aws-devops-journey-37ok)
 <!-- BLOG-POST-LIST:END -->
 
 
