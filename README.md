@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Better Coding: Lessons Learned](https://dev.to/anukeerth_ek/my-journey-to-better-coding-lessons-learned-d43)
-- [Claude&#39;s Model Context Protocol &lpar;MCP&rpar;: The Standard for AI Interaction](https://dev.to/foxgem/claudes-model-context-protocol-mcp-the-standard-for-ai-interaction-5gko)
-- [Sunburst Chart](https://dev.to/preetha_vaishnavi_2b82358/sunburst-chart-29j9)
-- [OnChain-NFT with Solidity](https://dev.to/vivcis/onchain-nft-with-solidity-158i)
+- [The Evolution of Databases: Relational vs. NoSQL](https://dev.to/satyamlucifer/the-evolution-of-databases-relational-vs-nosql-23nl)
+- [🚀 Mastering JavaScript Arrow Functions: When &amp; How to Use Them! 🧠](https://dev.to/dct_technologyprivatelimited/mastering-javascript-arrow-functions-when-how-to-use-them-cfb)
+- [Javascript | Mutating array methods | push, pop, sort, splice](https://dev.to/shubhamtiwari909/javascript-mutating-array-methods-push-pop-sort-splice-12pi)
+- [Getting Started with Cloud Services: AWS, Google Cloud, and Azure](https://dev.to/satyamlucifer/getting-started-with-cloud-services-aws-google-cloud-and-azure-39k9)
 <!-- BLOG-POST-LIST:END -->
 
 
