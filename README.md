@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Databases: Relational vs. NoSQL](https://dev.to/satyamlucifer/the-evolution-of-databases-relational-vs-nosql-23nl)
-- [🚀 Mastering JavaScript Arrow Functions: When &amp; How to Use Them! 🧠](https://dev.to/dct_technologyprivatelimited/mastering-javascript-arrow-functions-when-how-to-use-them-cfb)
-- [Javascript | Mutating array methods | push, pop, sort, splice](https://dev.to/shubhamtiwari909/javascript-mutating-array-methods-push-pop-sort-splice-12pi)
-- [Getting Started with Cloud Services: AWS, Google Cloud, and Azure](https://dev.to/satyamlucifer/getting-started-with-cloud-services-aws-google-cloud-and-azure-39k9)
+- [A Lean Decision-Making Approach for Choosing Java Frameworks with Architecture Decision Records](https://dev.to/myfear/a-lean-decision-making-approach-for-choosing-java-frameworks-with-architecture-decision-records-1mki)
+- [OS designed to handle Kubernetes](https://dev.to/binyam/os-designed-to-handle-kubernetes-3pbi)
+- [EDA in GCP](https://dev.to/binyam/eda-in-gcp-5h80)
+- [How to Export Outlook Contact Group to vCard?](https://dev.to/ellestephen/how-to-export-outlook-contact-group-to-vcard-4ch8)
 <!-- BLOG-POST-LIST:END -->
 
 
