@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Mobile Development Tech Stack for 2025](https://dev.to/abubakersiddique761/ultimate-mobile-development-tech-stack-for-2025-1mi8)
-- [AI-Driven Design Revolution: Transforming Creativity, IT, and Automation 🚀](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-design-revolution-transforming-creativity-it-and-automation-5ch4)
-- [What They Don’t Tell You About Project Listings Could Change Your Entire Business!](https://dev.to/resource_bunk_1077cab07da/what-they-dont-tell-you-about-project-listings-could-change-your-entire-business-3m96)
-- [From Fun to Frustration: A Lone Wolf in the Open Source World](https://dev.to/darkterminal/from-fun-to-frustration-a-lone-wolf-in-the-open-source-world-57p1)
+- [Updating my website&#39;s tech stack in 2025](https://dev.to/davidmorais/updating-my-websites-tech-stack-in-2025-35n3)
+- [🚀 Is $SUI Ready for a Breakout After a Strong Surge? 📈](https://dev.to/sergi_web3/is-sui-ready-for-a-breakout-after-a-strong-surge-1hok)
+- [Mining Tokenization: Future-Proofing Your Crypto Operation](https://dev.to/steveeys/mining-tokenization-future-proofing-your-crypto-operation-4h3n)
+- [📉 $BTC Faces Key Support as Price Drops 11% in One Week 🚀](https://dev.to/sergi_web3/btc-faces-key-support-as-price-drops-11-in-one-week-5178)
 <!-- BLOG-POST-LIST:END -->
 
 
