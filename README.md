@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Design Company Pricing and the Role of AI Tools in Modern Web Design](https://dev.to/anna-boiko/understanding-web-design-company-pricing-and-the-role-of-ai-tools-in-modern-web-design-127h)
-- [Seamless Authentication System: Integrating Keycloak with Spring Boot, Thymeleaf, and React Using OAuth2 and JWT](https://dev.to/olymahmud/seamless-authentication-system-integrating-keycloak-with-spring-boot-thymeleaf-and-react-using-49b6)
-- [Hack &amp; Test: Merging Mutation, Property, Hypothesis, and Chaos Testing in Penetration Testing](https://dev.to/copyleftdev/hack-test-merging-mutation-property-hypothesis-and-chaos-testing-in-penetration-testing-b29)
-- [How to Make Your Postgres Database 100x Faster and 50% Cheaper with Readyset Cloud🚀⚡💵](https://dev.to/astrodevil/how-to-make-your-postgres-database-100x-faster-and-50-cheaper-with-readyset-cloud-2n7j)
+- [Securing SPA React app with Duende BFF](https://dev.to/sangeetagarwal/securing-spa-react-app-with-duende-bff-3hb5)
+- [873. Length of Longest Fibonacci Subsequence](https://dev.to/mdarifulhaque/873-length-of-longest-fibonacci-subsequence-fmo)
+- [Introducing Metabase&#39;s new Embedded Analytics SDK for React](https://dev.to/metabase/introducing-metabases-new-embedded-analytics-sdk-for-react-528f)
+- [Evidence-Based Management: How Agile Forecasting and EBM Lead to Better Outcomes](https://dev.to/leading-edje/-evidence-based-management-how-agile-forecasting-and-ebm-lead-to-better-outcomes-5ih)
 <!-- BLOG-POST-LIST:END -->
 
 
