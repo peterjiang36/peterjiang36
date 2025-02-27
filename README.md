@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Inversion Principle &lpar;DIP&rpar; with Spring Framework](https://dev.to/gridou/dependency-inversion-principle-dip-with-spring-framework-26i8)
-- [Como criar um projeto com Vite, React, TypeScript e Tailwind v4 🚀](https://dev.to/geane_ramos/como-criar-um-projeto-com-vite-react-typescript-e-tailwind-v4-4ih1)
-- [Tree Shaking vs. Interface Segregation Principle](https://dev.to/gridou/tree-shaking-vs-interface-segregation-principle-399k)
-- [¿Qué es una Landing Zone en la nube? ¿Por qué es clave en AWS?](https://dev.to/briansuarezsantiago/que-es-una-landing-zone-en-la-nube-por-que-es-clave-en-aws-dk0)
+- [Provocações sobre um dia ordinário no desenvolvimento de software](https://dev.to/apontes77/provocacoes-sobre-um-dia-ordinario-no-desenvolvimento-de-software-4nop)
+- [How to Register for Cursor? Teach You How to Freely Use It with a More Reliable Email](https://dev.to/liamcarr/how-to-register-for-cursor-teach-you-how-to-freely-use-it-with-a-more-reliable-email-2jgf)
+- [Go Simple Example: Generate Audio Stories with Google Gemini, TTS, and Cloudflare R2](https://dev.to/lico/go-simple-example-generate-audio-stories-with-google-gemini-tts-and-cloudflare-r2-3hm7)
+- [Work with data files from your terminal - visidata](https://dev.to/akaak/work-with-data-files-from-your-terminal-visidata-550d)
 <!-- BLOG-POST-LIST:END -->
 
 
