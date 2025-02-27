@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Release 0.0.1](https://dev.to/gitfilter/release-001-2jh1)
-- [Engineering a Seamlessly Connected World: Spring into APIs with OpenAPI Automation &amp; WireMock Testing at GCash](https://dev.to/kakacomputer-media/engineering-a-seamlessly-connected-world-spring-into-apis-with-openapi-automation-wiremock-45mc)
-- [Three.js: The Pitfall of Modifying Objects During traverse&lpar;&rpar;](https://dev.to/handsometan/threejs-the-pitfall-of-modifying-objects-during-traverse-4fl6)
-- [[Boost]](https://dev.to/aleksandar_savov_280b339c/-74d)
+- [Understanding Web Design Company Pricing and the Role of AI Tools in Modern Web Design](https://dev.to/anna-boiko/understanding-web-design-company-pricing-and-the-role-of-ai-tools-in-modern-web-design-127h)
+- [Seamless Authentication System: Integrating Keycloak with Spring Boot, Thymeleaf, and React Using OAuth2 and JWT](https://dev.to/olymahmud/seamless-authentication-system-integrating-keycloak-with-spring-boot-thymeleaf-and-react-using-49b6)
+- [Hack &amp; Test: Merging Mutation, Property, Hypothesis, and Chaos Testing in Penetration Testing](https://dev.to/copyleftdev/hack-test-merging-mutation-property-hypothesis-and-chaos-testing-in-penetration-testing-b29)
+- [How to Make Your Postgres Database 100x Faster and 50% Cheaper with Readyset Cloud🚀⚡💵](https://dev.to/astrodevil/how-to-make-your-postgres-database-100x-faster-and-50-cheaper-with-readyset-cloud-2n7j)
 <!-- BLOG-POST-LIST:END -->
 
 
