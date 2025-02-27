@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BuilderBot - Crear chatbots es Un juego de niños !](https://dev.to/federincon/builderbot-crear-chatbots-es-un-juego-de-ninos--17e1)
-- [Hooked on React: The Complete Guide to React 19&#39;s Function Component Superpowers! 🪝⚛️✨](https://dev.to/philipjohnbasile/hooked-on-react-the-complete-guide-to-react-19s-function-component-superpowers-1hdj)
-- [Flexible Interval Aggregation — From SQL to SPL #5](https://dev.to/judith677/flexible-interval-aggregation-from-sql-to-spl-5-3l00)
-- [Seeking Guidance on Learning the Move Programming Language](https://dev.to/suhail_076/seeking-guidance-on-learning-the-move-programming-language-3ab4)
+- [My Journey to Better Coding: Lessons Learned](https://dev.to/anukeerth_ek/my-journey-to-better-coding-lessons-learned-d43)
+- [Claude&#39;s Model Context Protocol &lpar;MCP&rpar;: The Standard for AI Interaction](https://dev.to/foxgem/claudes-model-context-protocol-mcp-the-standard-for-ai-interaction-5gko)
+- [Sunburst Chart](https://dev.to/preetha_vaishnavi_2b82358/sunburst-chart-29j9)
+- [OnChain-NFT with Solidity](https://dev.to/vivcis/onchain-nft-with-solidity-158i)
 <!-- BLOG-POST-LIST:END -->
 
 
