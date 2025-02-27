@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Website Cloning](https://dev.to/vasutamil19/google-website-cloning-1gi1)
-- [🚀 Your Daily Crypto Job Digest For 27 February!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-27-february-c4m)
-- [Implementing Zero Trust Security in Cloud-Native Applications &lpar;AWS &amp; Kubernetes&rpar;](https://dev.to/devvemeka/implementing-zero-trust-security-in-cloud-native-applications-aws-kubernetes-51b6)
-- [It&#39;s Friday but also not Friday, I guess](https://dev.to/pxlmastrxd/its-friday-but-also-not-friday-i-guess-p96)
+- [Generating LaTeX Beamer Handouts without changing files](https://dev.to/bcardiff/generating-latex-beamer-handouts-without-changing-files-1hjp)
+- [Setting Up Ubuntu Server: Nginx, PHP, MySQL, SSL Certificates, Composer, and Adminer](https://dev.to/programmerhasan/setting-up-ubuntu-server-nginx-php-mysql-ssl-certificates-composer-and-adminer-4ci6)
+- [A Complete Guide to IBM i/AS400 Application GUI Modernization](https://dev.to/vijendra22/a-complete-guide-to-ibm-ias400-application-gui-modernization-42j3)
+- [How Indie Developers Are Using Blockchain Without Alienating Players](https://dev.to/raiden_studio/how-indie-developers-are-using-blockchain-without-alienating-players-4j62)
 <!-- BLOG-POST-LIST:END -->
 
 
