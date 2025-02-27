@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Postman Alternatives That Will Transform Your Dev Workflow✨](https://dev.to/jimmylin/10-postman-alternatives-that-will-transform-your-dev-workflow-56fn)
-- [How to create a vs code extension #1 &lpar;Template&rpar;](https://dev.to/selfish_dev/how-to-create-a-vs-code-extension-1-template-114l)
-- [Setting Up a Professional Python Development Environment in 2025](https://dev.to/onchana01/setting-up-a-professional-python-development-environment-in-2025-36j)
-- [Hard links in Linux](https://dev.to/pikotutorial/hard-links-in-linux-4f7l)
+- [Agents with Human in the Loop : Everything You Need to Know](https://dev.to/camelai/agents-with-human-in-the-loop-everything-you-need-to-know-3fo5)
+- [Math Boss Game](https://dev.to/spoopyblob/math-boss-game-h1n)
+- [AI: Your Coding Boost or Your Crutch? Here’s How to Balance It](https://dev.to/michaelcurrin/ai-your-coding-boost-or-your-crutch-heres-how-to-balance-it-kgf)
+- [Accelerating Growth: The Role of IT Staff Augmentation in Tech-Driven Success](https://dev.to/smartitstaff/accelerating-growth-the-role-of-it-staff-augmentation-in-tech-driven-success-52i0)
 <!-- BLOG-POST-LIST:END -->
 
 
