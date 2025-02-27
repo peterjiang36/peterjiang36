@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Microsoft Print to PDF using CMD &amp; PowerShell on Windows 11](https://dev.to/winsides/enable-microsoft-print-to-pdf-using-cmd-powershell-on-windows-11-knm)
-- [React Apps with Code Splitting](https://dev.to/tene/react-apps-with-code-splitting-3mfn)
-- [Small Model from Huggingface with Video understanding](https://dev.to/amrs-tech/small-model-from-huggingface-with-video-understanding-2chj)
-- [Localization Opportunities in SaaS](https://dev.to/johnai/localization-opportunities-in-saas-2gpf)
+- [Ultimate Mobile Development Tech Stack for 2025](https://dev.to/abubakersiddique761/ultimate-mobile-development-tech-stack-for-2025-1mi8)
+- [AI-Driven Design Revolution: Transforming Creativity, IT, and Automation 🚀](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-design-revolution-transforming-creativity-it-and-automation-5ch4)
+- [What They Don’t Tell You About Project Listings Could Change Your Entire Business!](https://dev.to/resource_bunk_1077cab07da/what-they-dont-tell-you-about-project-listings-could-change-your-entire-business-3m96)
+- [From Fun to Frustration: A Lone Wolf in the Open Source World](https://dev.to/darkterminal/from-fun-to-frustration-a-lone-wolf-in-the-open-source-world-57p1)
 <!-- BLOG-POST-LIST:END -->
 
 
