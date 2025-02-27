@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 11: Customizing CBVs with Mixins &amp; Efficient Form Handling](https://dev.to/rishav_upadhaya/day-11-customizing-cbvs-with-mixins-efficient-form-handling-4agh)
-- [Can AI Make You Rich? The Best AI Money-Making Tools Right Now 💰](https://dev.to/panicatthekernel/-can-ai-make-you-rich-the-best-ai-money-making-tools-right-now-32k6)
-- [What is Cloud FinOps Culture and How to Do It Right?](https://dev.to/lucyzeniffer/what-is-cloud-finops-culture-and-how-to-do-it-right-58km)
-- [Orchisky’s Smart Manufacturing Upgrade: Why They Chose NocoBase](https://dev.to/nocobase/orchiskys-smart-manufacturing-upgrade-why-they-chose-nocobase-26hn)
+- [10 Postman Alternatives That Will Transform Your Dev Workflow✨](https://dev.to/jimmylin/10-postman-alternatives-that-will-transform-your-dev-workflow-56fn)
+- [How to create a vs code extension #1 &lpar;Template&rpar;](https://dev.to/selfish_dev/how-to-create-a-vs-code-extension-1-template-114l)
+- [Setting Up a Professional Python Development Environment in 2025](https://dev.to/onchana01/setting-up-a-professional-python-development-environment-in-2025-36j)
+- [Hard links in Linux](https://dev.to/pikotutorial/hard-links-in-linux-4f7l)
 <!-- BLOG-POST-LIST:END -->
 
 
