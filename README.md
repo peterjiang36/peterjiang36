@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating LaTeX Beamer Handouts without changing files](https://dev.to/bcardiff/generating-latex-beamer-handouts-without-changing-files-1hjp)
-- [Setting Up Ubuntu Server: Nginx, PHP, MySQL, SSL Certificates, Composer, and Adminer](https://dev.to/programmerhasan/setting-up-ubuntu-server-nginx-php-mysql-ssl-certificates-composer-and-adminer-4ci6)
-- [A Complete Guide to IBM i/AS400 Application GUI Modernization](https://dev.to/vijendra22/a-complete-guide-to-ibm-ias400-application-gui-modernization-42j3)
-- [How Indie Developers Are Using Blockchain Without Alienating Players](https://dev.to/raiden_studio/how-indie-developers-are-using-blockchain-without-alienating-players-4j62)
+- [Release 0.0.1](https://dev.to/gitfilter/release-001-2jh1)
+- [Engineering a Seamlessly Connected World: Spring into APIs with OpenAPI Automation &amp; WireMock Testing at GCash](https://dev.to/kakacomputer-media/engineering-a-seamlessly-connected-world-spring-into-apis-with-openapi-automation-wiremock-45mc)
+- [Three.js: The Pitfall of Modifying Objects During traverse&lpar;&rpar;](https://dev.to/handsometan/threejs-the-pitfall-of-modifying-objects-during-traverse-4fl6)
+- [[Boost]](https://dev.to/aleksandar_savov_280b339c/-74d)
 <!-- BLOG-POST-LIST:END -->
 
 
