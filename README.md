@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents with Human in the Loop : Everything You Need to Know](https://dev.to/camelai/agents-with-human-in-the-loop-everything-you-need-to-know-3fo5)
-- [Math Boss Game](https://dev.to/spoopyblob/math-boss-game-h1n)
-- [AI: Your Coding Boost or Your Crutch? Here’s How to Balance It](https://dev.to/michaelcurrin/ai-your-coding-boost-or-your-crutch-heres-how-to-balance-it-kgf)
-- [Accelerating Growth: The Role of IT Staff Augmentation in Tech-Driven Success](https://dev.to/smartitstaff/accelerating-growth-the-role-of-it-staff-augmentation-in-tech-driven-success-52i0)
+- [Postman Tutorial: A Beginner&#39;s Step-by-Step Guide!](https://dev.to/jimmylin/postman-tutorial-a-beginners-step-by-step-guide-2jd8)
+- [The Event Loop in JavaScript: Explained Like You&#39;re Five](https://dev.to/dannypreye/the-event-loop-in-javascript-explained-like-youre-five-b7k)
+- [How to Integrate LangChain with LangDB](https://dev.to/langdb/how-to-integrate-langchain-with-langdb-55o4)
+- [Why your environment variables aren’t safe](https://dev.to/flutterwaveeng/why-your-environment-variables-arent-safe-4pjo)
 <!-- BLOG-POST-LIST:END -->
 
 
