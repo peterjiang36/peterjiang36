@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python’s GIL and Enhancing Concurrency with Multithreading, Multiprocessing, and Asyncio](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e)
-- [Best Practices for Storing and Securing Passwords: A Developer&#39;s Guide](https://dev.to/abstract-333/best-practices-for-storing-and-securing-passwords-a-developers-guide-ocm)
-- [Introduction to AWS CloudFormation: A Beginner&#39;s Guide to Infrastructure as Code](https://dev.to/prajwal_kp/introduction-to-aws-cloudformation-a-beginners-guide-to-infrastructure-as-code-1k6d)
-- [Create next ready next app using create-tn-app](https://dev.to/ikuzwe_shema_elie/create-next-ready-next-app-using-create-tn-app-2877)
+- [Introducing MCP Python Toolbox: Supercharge AI Assistants with Python Capabilities](https://dev.to/gianlucamazza/introducing-mcp-python-toolbox-supercharge-ai-assistants-with-python-capabilities-mdk)
+- [An Actually Productive Arch Linux Setup](https://dev.to/kurealnum/an-actually-productive-arch-linux-setup-2d62)
+- [138/365 | ¥10M Job Challenge - GPT4.5](https://dev.to/kameken100/138365-y10m-job-challenge-gpt45-62h)
+- [How ChatGPT Helped Me Create My Startup Idea 💡🚀](https://dev.to/zartarcyber/how-chatgpt-helped-me-create-my-startup-idea-4nng)
 <!-- BLOG-POST-LIST:END -->
 
 
