@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript with a beginner: Variables and Data Types](https://dev.to/theuzomavictor/understanding-javascript-with-a-beginner-variables-and-data-types-42ic)
-- [15 Critical MongoDB Queries for Advanced Backend Development](https://dev.to/raajaryan/15-critical-mongodb-queries-for-advanced-backend-development-54ld)
-- [Why Serverless Architecture Might Be the Future &lpar;But Not for Everyone&rpar; 🚀](https://dev.to/dct_technologyprivatelimited/why-serverless-architecture-might-be-the-future-but-not-for-everyone-42hf)
-- [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
+- [The Ultimate Guide to Local DeepSeek Deployment](https://dev.to/tomastomas/the-ultimate-guide-to-local-deepseek-deployment-4jp1)
+- [Exploitation Frameworks &lpar;Metasploit&rpar;](https://dev.to/godofgeeks/exploitation-frameworks-metasploit-1c8b)
+- [Farewell to Window Functions, Embrace esProc SPL](https://dev.to/esproc_spl/farewell-to-window-functions-embrace-esproc-spl-460c)
+- [Cloud-Based Applications: Enhancing Productivity and Collaboration](https://dev.to/astutemarketing/cloud-based-applications-enhancing-productivity-and-collaboration-4d26)
 <!-- BLOG-POST-LIST:END -->
 
 
