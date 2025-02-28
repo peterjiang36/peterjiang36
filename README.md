@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Multi-Stage Builds: Optimize Your Container Images](https://dev.to/hello_monir/docker-multi-stage-builds-optimize-your-container-images-2o8m)
-- [Advanced State Management in React: When to Use Context, Redux, or Zustand](https://dev.to/johnschibelli/advanced-state-management-in-react-when-to-use-context-redux-or-zustand-kgo)
-- [E2E testing challenges using Playwright](https://dev.to/surfing_devs/e2e-testing-challenges-using-playwright-4gpe)
-- [The Future of Software Deployment – Why Every Developer Should Learn It](https://dev.to/hello_monir/the-future-of-software-deployment-why-every-developer-should-learn-it-52m)
+- [$10 to Get a Powerful, Non-Signature-based WAF](https://dev.to/carrie_luo1/10-to-get-a-powerful-non-signature-based-waf-4l3o)
+- [A CORS Go-To-Bed Tale](https://dev.to/manuartero/a-cors-go-to-bed-tale-fhk)
+- [Managing PM2 Logs: Preventing Performance Issues in Node.js Applications](https://dev.to/manojspace/managing-pm2-logs-preventing-performance-issues-in-nodejs-applications-c6)
+- [Introduction to Amazon Redshift: A Data Warehouse Solution](https://dev.to/imsushant12/introduction-to-amazon-redshift-a-data-warehouse-solution-2o3g)
 <!-- BLOG-POST-LIST:END -->
 
 
