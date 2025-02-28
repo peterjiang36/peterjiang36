@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced VPC Design with Transit Gateway and SD-WAN Integration](https://dev.to/sudoconsultants/advanced-vpc-design-with-transit-gateway-and-sd-wan-integration-5bo2)
-- [How AI is Changing Software Development: Will Developers Be Replaced?](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-is-changing-software-development-will-developers-be-replaced-5bgi)
-- [Managing Multiple Git Profiles with Ease: Introducing `gguser`](https://dev.to/camelcaseguy/managing-multiple-git-profiles-with-ease-introducing-gguser-3lcg)
-- [How AI-Powered Code Review Can Save Your Development Team Hours](https://dev.to/raji_moshood_ee3a4c2638f6/how-ai-powered-code-review-can-save-your-development-team-hours-2n03)
+- [How To Process IoT Sensor Data with Windowed Aggregations and ML Inference](https://dev.to/sudoconsultants/how-to-process-iot-sensor-data-with-windowed-aggregations-and-ml-inference-45im)
+- [Bootstrap Your Web Server on AWS: A Deep Dive into EC2 User Data](https://dev.to/lindiwe09/bootstrap-your-web-server-on-aws-a-deep-dive-into-ec2-user-data-2mp3)
+- [[Boost]](https://dev.to/ifihan/-2b1c)
+- [Redshift Serverless: Cost Optimization with Workload Management &lpar;WLM&rpar;](https://dev.to/sudoconsultants/redshift-serverless-cost-optimization-with-workload-management-wlm-27)
 <!-- BLOG-POST-LIST:END -->
 
 
