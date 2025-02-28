@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Apps with Supabase: A Powerful Open-Source Backend](https://dev.to/lovestaco/building-scalable-apps-with-supabase-a-powerful-open-source-backend-3o6j)
-- [A Practical Guide to Translating &amp; Localizing Your Web App: Using i18n and Lingo.dev](https://dev.to/superherojt/a-practical-guide-to-translating-localizing-your-web-app-using-i18n-and-lingodev-3oll)
-- [unleashing the potential of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity as well as Application Security](https://dev.to/friendgrass7/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-as-40jk)
-- [Making A Simple Image With Tensors &lpar;Starting from Scratch&rpar;](https://dev.to/shrsv/making-a-simple-image-with-tensors-starting-from-scratch-1le2)
+- [Understanding Python’s GIL and Enhancing Concurrency with Multithreading, Multiprocessing, and Asyncio](https://dev.to/sreeni5018/understanding-pythons-gil-and-enhancing-concurrency-with-multithreading-multiprocessing-and-5g1e)
+- [Best Practices for Storing and Securing Passwords: A Developer&#39;s Guide](https://dev.to/abstract-333/best-practices-for-storing-and-securing-passwords-a-developers-guide-ocm)
+- [Introduction to AWS CloudFormation: A Beginner&#39;s Guide to Infrastructure as Code](https://dev.to/prajwal_kp/introduction-to-aws-cloudformation-a-beginners-guide-to-infrastructure-as-code-1k6d)
+- [Create next ready next app using create-tn-app](https://dev.to/ikuzwe_shema_elie/create-next-ready-next-app-using-create-tn-app-2877)
 <!-- BLOG-POST-LIST:END -->
 
 
