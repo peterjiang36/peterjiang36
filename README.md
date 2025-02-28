@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Caching Deep Dive: Performance Optimization Patterns Every Developer Should Know](https://dev.to/requestmetrics/http-caching-deep-dive-performance-optimization-patterns-every-developer-should-know-330e)
-- [Icarus and the npm Updates: How Version Control Rescued My npm Upgrade Nightmare](https://dev.to/pokumars/icarus-and-the-npm-updates-how-version-control-rescued-my-npm-upgrade-nightmare-4a5p)
-- [Build a Google Meet Clone with Strapi 5 and Next.js - Part 2](https://dev.to/strapi/build-a-google-meet-clone-with-strapi-5-and-nextjs-part-2-4p86)
-- [Como criar Imagens? &lpar;Dockerfile&rpar;](https://dev.to/yuripeixinho/como-criar-imagens-dockerfile-335b)
+- [Building Scalable Apps with Supabase: A Powerful Open-Source Backend](https://dev.to/lovestaco/building-scalable-apps-with-supabase-a-powerful-open-source-backend-3o6j)
+- [A Practical Guide to Translating &amp; Localizing Your Web App: Using i18n and Lingo.dev](https://dev.to/superherojt/a-practical-guide-to-translating-localizing-your-web-app-using-i18n-and-lingodev-3oll)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity as well as Application Security](https://dev.to/friendgrass7/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-as-40jk)
+- [Making A Simple Image With Tensors &lpar;Starting from Scratch&rpar;](https://dev.to/shrsv/making-a-simple-image-with-tensors-starting-from-scratch-1le2)
 <!-- BLOG-POST-LIST:END -->
 
 
