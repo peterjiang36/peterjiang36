@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redoed #2: Containerizing the Go Server and PostgreSQL with Docker](https://dev.to/mahesh143/redoed-2-containerizing-the-go-server-and-postgresql-with-docker-efl)
-- [What&#39;s New in React Native 0.78: Performance, Native Integration, and React 19 Support 🚀](https://dev.to/babar_bilal_2e14c231dfa8d/whats-new-in-react-native-078-performance-native-integration-and-react-19-support-131k)
-- [O Poder da Arquitetura Orientada a Eventos](https://dev.to/edu_betim/o-poder-da-arquitetura-orientada-a-eventos-fg0)
-- [MVC Architecture](https://dev.to/akshay_chauhan/mvc-architecture-5hf4)
+- [Docker Multi-Stage Builds: Optimize Your Container Images](https://dev.to/hello_monir/docker-multi-stage-builds-optimize-your-container-images-2o8m)
+- [Advanced State Management in React: When to Use Context, Redux, or Zustand](https://dev.to/johnschibelli/advanced-state-management-in-react-when-to-use-context-redux-or-zustand-kgo)
+- [E2E testing challenges using Playwright](https://dev.to/surfing_devs/e2e-testing-challenges-using-playwright-4gpe)
+- [The Future of Software Deployment – Why Every Developer Should Learn It](https://dev.to/hello_monir/the-future-of-software-deployment-why-every-developer-should-learn-it-52m)
 <!-- BLOG-POST-LIST:END -->
 
 
