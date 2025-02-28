@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Local DeepSeek Deployment](https://dev.to/tomastomas/the-ultimate-guide-to-local-deepseek-deployment-4jp1)
-- [Exploitation Frameworks &lpar;Metasploit&rpar;](https://dev.to/godofgeeks/exploitation-frameworks-metasploit-1c8b)
-- [Farewell to Window Functions, Embrace esProc SPL](https://dev.to/esproc_spl/farewell-to-window-functions-embrace-esproc-spl-460c)
-- [Cloud-Based Applications: Enhancing Productivity and Collaboration](https://dev.to/astutemarketing/cloud-based-applications-enhancing-productivity-and-collaboration-4d26)
+- [How to Implement a Search Functionality Using JavaScript](https://dev.to/rowsanali/how-to-implement-a-search-functionality-using-javascript-1n1b)
+- [Sorting an Array of Squared Values in JavaScript](https://dev.to/shaahzaibrehman/sorting-an-array-of-squared-values-in-javascript-dn9)
+- [Comparing Browser and Node.js: What&#39;s the Difference? 🤔](https://dev.to/sovannaro/comparing-browser-and-nodejs-whats-the-difference-e11)
+- [7 Common Mistakes to Avoid When Developing Software](https://dev.to/deepak_saini_b237bd71bc56/7-common-mistakes-to-avoid-when-developing-software-ga0)
 <!-- BLOG-POST-LIST:END -->
 
 
