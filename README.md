@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide on How to Create a Resource Group in Microsoft Azure Portal](https://dev.to/ibrahimbioabu/a-step-by-step-guide-on-how-to-create-a-resource-group-in-microsoft-azure-portal-447i)
-- [Understanding and Preventing XSS Attacks: A Frontend Developer’s Guide](https://dev.to/ashish_jha_178859fb4618e6/understanding-and-preventing-xss-attacks-a-frontend-developers-guide-1abm)
-- [🌟 The Future is Here: A Glimpse into How Technology Will Transform Our Lives](https://dev.to/hanzla-baig/the-future-is-here-a-glimpse-into-how-technology-will-transform-our-lives-2j3j)
-- [Koin vs Dagger 2 vs Hilt: Which one should we use? ☕](https://dev.to/mikkelofficial7/koin-vs-dagger-2-vs-hilt-which-one-should-we-use-1e0n)
+- [[Boost]](https://dev.to/akinmyde/-3k06)
+- [Using dangerouslySetInnerHTML Safely in React and Next.js Production Systems](https://dev.to/hijazi313/using-dangerouslysetinnerhtml-safely-in-react-and-nextjs-production-systems-115n)
+- [Unlocking Potential: Innovative Open Source Web Development Projects to Explore in 2025](https://dev.to/jetthoughts/unlocking-potential-innovative-open-source-web-development-projects-to-explore-in-2025-mm2)
+- [Array, ArrayList, &amp; LinkedList](https://dev.to/muhammadazis/array-arraylist-linkedlist-2k9)
 <!-- BLOG-POST-LIST:END -->
 
 
