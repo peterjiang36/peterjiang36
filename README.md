@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Redshift Cheat Sheet](https://dev.to/datatechbridge/aws-redshift-cheat-sheet-3m5o)
-- [Setting Up a Basic JavaScript Bundler with Esbuild](https://dev.to/lovestaco/setting-up-a-basic-javascript-bundler-with-esbuild-3jif)
-- [Best Practices for a .NET 10 Event Ticketing API](https://dev.to/diamond_debugger_e1ce5556/best-practices-for-a-net-10-event-ticketing-api-3480)
-- [Cấu trúc URL](https://dev.to/dvphuc_175/cau-truc-url-327o)
+- [🚀 Struggling with state management in React? 🤔 Whether it&#39;s Context, Redux, or Zustand, choosing the right tool can be tricky. In my latest article, I break down when to use each! Check it out and level up your React game! ⚛️👇](https://dev.to/johnschibelli/struggling-with-state-management-in-react-whether-its-context-redux-or-zustand-choosing-2e27)
+- [Boost Your Angular Forms with a Powerful Country Picker](https://dev.to/wlucha/boost-your-angular-forms-with-a-powerful-country-picker-5af9)
+- [Ollama Meets ServBay: A Match Made in Code Heaven](https://dev.to/neil-omg/ollama-meets-servbay-a-match-made-in-code-heaven-1lkn)
+- [Make AI Models Your Perfect Roommate! &lpar;ServBay+Ollama+ChatBox&rpar;](https://dev.to/neil27/make-ai-models-your-perfect-roommate-servbayollamachatbox-2ond)
 <!-- BLOG-POST-LIST:END -->
 
 
