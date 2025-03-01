@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React State: The Brain of Your Components! 🧠](https://dev.to/aman_kureshi_/react-state-the-brain-of-your-components-2hmn)
-- [Laravel vs. Flight: A Guide to Picking Your PHP Framework](https://dev.to/n0nag0n/laravel-vs-flight-a-guide-to-picking-your-php-framework-41g5)
-- [CALLING ALL CHROME OS JAILBREAKERS!!!](https://dev.to/pricklypear-who-codes/calling-all-chrome-os-jailbreakers-39l7)
-- [Chain of Draft: Thinking Faster by Writing Less](https://dev.to/foxgem/chain-of-draft-thinking-faster-by-writing-less-54j6)
+- [Recreating Ambient Mode from Youtube Videos](https://dev.to/bishalpahari/recreating-ambient-mode-from-youtube-videos-5f75)
+- [Create React App &lpar;CRA&rpar; is Dead – Here’s How to Start with React in 2025 🚀](https://dev.to/matin676/create-react-app-cra-is-dead-heres-how-to-start-with-react-in-2025-4e77)
+- [🚀 ২এফএ অথেন্টিকেশন অ্যাপ সম্পর্কে কিছু চমকপ্রদ তথ্য!](https://dev.to/csrafsan/2ephe-athenttikeshn-ayaap-smprke-kichu-cmkprd-tthy-ch9)
+- [From &quot;spaghetti code&quot; to &quot;spaghetti architecture&quot; 🍝](https://dev.to/pooyan/from-spaghetti-code-to-spaghetti-architecture-295i)
 <!-- BLOG-POST-LIST:END -->
 
 
