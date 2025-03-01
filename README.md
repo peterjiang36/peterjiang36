@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitter organisation landscape](https://dev.to/grzegorzgrzegorz/bitter-organisation-landscape-1f7h)
-- [ATM Card Using CSS](https://dev.to/preetha_vaishnavi_2b82358/atm-card-using-css-293j)
-- [Exploring the Ethereum Blockchain: A Deep Dive into Decentralized Innovation](https://dev.to/adi271001/exploring-the-ethereum-blockchain-a-deep-dive-into-decentralized-innovation-4g4h)
-- [Why Learning to Code Doesn’t Have to Take Years &lpar;And How to Start Today&rpar;](https://dev.to/bhavishya_aggarwal_2651e7/why-learning-to-code-doesnt-have-to-take-years-and-how-to-start-today-4fb6)
+- [CSS Top CheatSheets](https://dev.to/hanzla-baig/css-top-cheatsheets-461h)
+- [SEO Expert Mehboob Shar’s Journey: From Humble Start to Success](https://dev.to/workstaff360/seo-expert-mehboob-shars-journey-from-humble-start-to-success-1im0)
+- [A Friendly Step-by-Step Tutorial on the Vanishing Gradient Problem](https://dev.to/shrsv/a-friendly-step-by-step-tutorial-on-the-vanishing-gradient-problem-5aj0)
+- [Pagination vs. Infinite Scrolling: What&#39;s Best for Your Website?](https://dev.to/vedangit/pagination-vs-infinite-scrolling-whats-best-for-your-website-453d)
 <!-- BLOG-POST-LIST:END -->
 
 
