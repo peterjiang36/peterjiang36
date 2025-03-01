@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Struggling with state management in React? 🤔 Whether it&#39;s Context, Redux, or Zustand, choosing the right tool can be tricky. In my latest article, I break down when to use each! Check it out and level up your React game! ⚛️👇](https://dev.to/johnschibelli/struggling-with-state-management-in-react-whether-its-context-redux-or-zustand-choosing-2e27)
-- [Boost Your Angular Forms with a Powerful Country Picker](https://dev.to/wlucha/boost-your-angular-forms-with-a-powerful-country-picker-5af9)
-- [Ollama Meets ServBay: A Match Made in Code Heaven](https://dev.to/neil-omg/ollama-meets-servbay-a-match-made-in-code-heaven-1lkn)
-- [Make AI Models Your Perfect Roommate! &lpar;ServBay+Ollama+ChatBox&rpar;](https://dev.to/neil27/make-ai-models-your-perfect-roommate-servbayollamachatbox-2ond)
+- [Status Codes](https://dev.to/dvphuc_175/status-codes-h5c)
+- [Securing a Prankster Robot: Linux Security Strategies to Prevent Rogue AI](https://dev.to/sebos/securing-a-prankster-robot-linux-security-strategies-to-prevent-rogue-ai-279o)
+- [Consistent Hashing: A boon to distributed system](https://dev.to/cdx/consistent-hashing-a-boon-to-distributed-system-gi9)
+- [Quy chuẩn đặt tên trong thiết kế RESTful API](https://dev.to/dvphuc_175/quy-chuan-dat-ten-trong-thiet-ke-restful-api-52h)
 <!-- BLOG-POST-LIST:END -->
 
 
