@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Recreating Ambient Mode from Youtube Videos](https://dev.to/bishalpahari/recreating-ambient-mode-from-youtube-videos-5f75)
-- [Create React App &lpar;CRA&rpar; is Dead – Here’s How to Start with React in 2025 🚀](https://dev.to/matin676/create-react-app-cra-is-dead-heres-how-to-start-with-react-in-2025-4e77)
-- [🚀 ২এফএ অথেন্টিকেশন অ্যাপ সম্পর্কে কিছু চমকপ্রদ তথ্য!](https://dev.to/csrafsan/2ephe-athenttikeshn-ayaap-smprke-kichu-cmkprd-tthy-ch9)
-- [From &quot;spaghetti code&quot; to &quot;spaghetti architecture&quot; 🍝](https://dev.to/pooyan/from-spaghetti-code-to-spaghetti-architecture-295i)
+- [Building an Application as a Beta User of the Low-Code Solution &#39;AWS App Studio&#39;: Cons &lpar;Part 2 of 2&rpar;](https://dev.to/aws-heroes/building-an-application-as-a-beta-user-of-the-low-code-solution-aws-app-studio-cons-part-2-of-2-4ipb)
+- [How I Passed the AZ-900 Exam: My Study Plan, Resources &amp; Tips](https://dev.to/jeshlin_pv_1628a63168e90/how-i-passed-the-az-900-exam-my-study-plan-resources-tips-2cam)
+- [Running Private Adguard Server on Cloud &lpar;Linode&rpar;](https://dev.to/prajwol-ad/running-private-adguard-server-on-cloud-linode-18ef)
+- [How to Write SEO Meta Descriptions Without Losing Your Sanity](https://dev.to/cbid2/how-to-write-seo-meta-descriptions-without-losing-your-sanity-437c)
 <!-- BLOG-POST-LIST:END -->
 
 
