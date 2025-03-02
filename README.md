@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️We have implemented new features in HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-have-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-smaller-in-size-pef)
-- [AI-powered search with Python, MongoDB, and OpenAI](https://dev.to/guidugaich/ai-powered-search-with-python-mongodb-and-openai-3096)
-- [Building a Microfrontend Architecture with Vue 3, Vite, Single-SPA](https://dev.to/swrzalek/building-a-microfrontend-architecture-with-vue-3-vite-single-spa-b6d)
-- [scrape JDIHN menggunakan PHP DiDOM dan supabase](https://dev.to/ekopriyanto/scrape-jdihn-menggunakan-php-didom-dan-supabase-22l5)
+- [Google Cloud Run vs Sliplane - Comparison of two container hosting services](https://dev.to/wimadev/google-cloud-run-vs-sliplane-comparison-of-two-container-hosting-services-5a33)
+- [Dynamodb em aplicações node](https://dev.to/dotmendes/dynamodb-em-aplicacoes-node-5588)
+- [You Don’t Know JS Yet: My Weekly Journey Through JavaScript Mastery](https://dev.to/shaunak_38/you-dont-know-js-yet-my-weekly-journey-through-javascript-mastery-6lm)
+- [The AI Memory Revolution: How Long-Term AI Memory Systems Are Transforming the Creative Economy](https://dev.to/great_leveler/the-ai-memory-revolution-how-long-term-ai-memory-systems-are-transforming-the-creative-economy-1k27)
 <!-- BLOG-POST-LIST:END -->
 
 
