@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun just got 60% faster, Doom now runs on TypeScript, OpenAI launched GPT 4.5, and more](https://dev.to/thisweekinjavascript/bun-just-got-60-faster-doom-now-runs-on-typescript-openai-launched-gpt-45-and-more-3c8f)
-- [Rust&#39;s Result Type: Error Handling Made Easy](https://dev.to/leapcell/rusts-result-type-error-handling-made-easy-58i)
-- [Event Driven Architecture using GCP](https://dev.to/binyam/event-driven-architecture-using-gcp-g1g)
-- [Building a Scalable Newsletter System with Go: From Test to Production](https://dev.to/vaidehi_adhi_84b623a30da7/building-a-scalable-newsletter-system-with-go-from-test-to-production-3flk)
+- [pattern for loop](https://dev.to/hema_latha/pattern-for-loop-49kh)
+- [Book Review: Frontend Architecture for Design Systems - A Blueprint for Scalable Websites](https://dev.to/lazioleo/book-review-frontend-architecture-for-design-systems-a-blueprint-for-scalable-websites-2bpb)
+- [How to Turn Your Website into a Fully Functional Mobile App](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-turn-your-website-into-a-fully-functional-mobile-app-36of)
+- [pattern for loop program](https://dev.to/hema_latha/pattern-for-loop-program-b1i)
 <!-- BLOG-POST-LIST:END -->
 
 
