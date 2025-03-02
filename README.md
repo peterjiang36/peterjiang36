@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Redirect Vulnerability: Exploitation, Prevention &amp; Real-World Examples - @verylazytech](https://dev.to/verylazytech/open-redirect-vulnerability-exploitation-prevention-real-world-examples-verylazytech-37ci)
-- [DOM Question #7 - Circular Reference](https://dev.to/shweta/dom-question-7-circular-reference-3hgj)
-- [Why Are Your URL Designs So Bad?](https://dev.to/leapcell/why-are-your-url-designs-so-bad-2k8l)
-- [Building a Beautiful Carousel with Left-Right Partial Visibility in React Native](https://dev.to/amitkumar13/building-a-beautiful-carousel-with-left-right-partial-visibility-in-react-native-397l)
+- [🎙️We have implemented new features in HMPL to help developers make web apps smaller in size🔥](https://dev.to/hmpljs/we-have-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-smaller-in-size-pef)
+- [AI-powered search with Python, MongoDB, and OpenAI](https://dev.to/guidugaich/ai-powered-search-with-python-mongodb-and-openai-3096)
+- [Building a Microfrontend Architecture with Vue 3, Vite, Single-SPA](https://dev.to/swrzalek/building-a-microfrontend-architecture-with-vue-3-vite-single-spa-b6d)
+- [scrape JDIHN menggunakan PHP DiDOM dan supabase](https://dev.to/ekopriyanto/scrape-jdihn-menggunakan-php-didom-dan-supabase-22l5)
 <!-- BLOG-POST-LIST:END -->
 
 
