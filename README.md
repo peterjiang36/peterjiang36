@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ReferenceGenerator: A Lightweight C# Library for Generating Unique References](https://dev.to/mhizokuchi/referencegenerator-a-lightweight-c-library-for-generating-unique-references-4g89)
-- [Creating Essential Geometric Shapes Using CSS Only](https://dev.to/uiuxsatyam/creating-essential-geometric-shapes-using-css-only-5bba)
-- [Setup Laragon&#39;s Cmder in VSCode &lpar;VSCode Extension&rpar;](https://dev.to/abiruzzamanmolla/setup-laragons-cmder-in-vscode-vscode-extension-27p5)
-- [Comparing Popular Embedding Models: Choosing the Right One for Your Use Case](https://dev.to/simplr_sh/comparing-popular-embedding-models-choosing-the-right-one-for-your-use-case-43p1)
+- [Serverless User Authentication with AWS Cognito &amp; DynamoDB.](https://dev.to/0mchoudhary/serverless-user-authentication-with-aws-cognito-dynamodb-m19)
+- [Designing Databases for Multi-Tenant Systems: Shared vs. Isolated Databases](https://dev.to/vinaykumarbu/designing-databases-for-multi-tenant-systems-shared-vs-isolated-databases-4h9e)
+- [StackSync: The Open-Source Tech Stack Explorer](https://dev.to/hardikgohilhlr/stacksync-the-open-source-tech-stack-explorer-4j9f)
+- [Skyrocket Your Travel App with the Skypicker Locations API 🚀](https://dev.to/sourav_22cdd152890952704c/skyrocket-your-travel-app-with-the-skypicker-locations-api-4jn6)
 <!-- BLOG-POST-LIST:END -->
 
 
