@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Pattern](https://dev.to/asadullah_ehsan/strategy-pattern-60d)
+- [Warp Terminal Finally Launches on Windows: A Deep Dive Into the Technical Journey](https://dev.to/omriluz1/warp-terminal-finally-launches-on-windows-a-deep-dive-into-the-technical-journey-366e)
 - [Code to Connection: Why Empathy is Your Secret Weapon in Coding?](https://dev.to/arpitstack/code-to-connection-why-empathy-is-your-secret-weapon-in-coding-5gdp)
 - [Getting Started with Docker: How to Containerize Your First Application](https://dev.to/yash_sonawane25/getting-started-with-docker-how-to-containerize-your-first-application-1cb8)
-- [Building a Vector Database in Ruby: A Comprehensive Guide](https://dev.to/daviducolo/building-a-vector-database-in-ruby-a-comprehensive-guide-1ep)
-- [5 Common Mistakes Frontend Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/rowsanali/5-common-mistakes-frontend-developers-make-and-how-to-fix-them-2chb)
 <!-- BLOG-POST-LIST:END -->
 
 
