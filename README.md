@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [pattern for loop](https://dev.to/hema_latha/pattern-for-loop-49kh)
-- [Book Review: Frontend Architecture for Design Systems - A Blueprint for Scalable Websites](https://dev.to/lazioleo/book-review-frontend-architecture-for-design-systems-a-blueprint-for-scalable-websites-2bpb)
-- [How to Turn Your Website into a Fully Functional Mobile App](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-turn-your-website-into-a-fully-functional-mobile-app-36of)
-- [pattern for loop program](https://dev.to/hema_latha/pattern-for-loop-program-b1i)
+- [Seeking Remote Salesforce Developer Position.](https://dev.to/dtp_hook_a5d67a7dfd9dd02a/seeking-remote-salesforce-developer-position-47bd)
+- [Invoice Reader App with GenAI in 10 minutes — Tutorial](https://dev.to/amrs-tech/invoice-reader-app-with-genai-in-10-minutes-tutorial-mhd)
+- [The Future of AI: How Retrieval-Augmented Generation &lpar;RAG&rpar; is Changing the Game](https://dev.to/mahrukh_adeel/the-future-of-ai-how-retrieval-augmented-generation-rag-is-changing-the-game-42me)
+- [140/365 | ¥10M Job Challenge - Weekends always seem to fly by](https://dev.to/kameken100/140365-y10m-job-challenge-weekends-always-seem-to-fly-by-4efb)
 <!-- BLOG-POST-LIST:END -->
 
 
