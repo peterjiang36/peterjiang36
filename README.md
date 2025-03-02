@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless User Authentication with AWS Cognito &amp; DynamoDB.](https://dev.to/0mchoudhary/serverless-user-authentication-with-aws-cognito-dynamodb-m19)
-- [Designing Databases for Multi-Tenant Systems: Shared vs. Isolated Databases](https://dev.to/vinaykumarbu/designing-databases-for-multi-tenant-systems-shared-vs-isolated-databases-4h9e)
-- [StackSync: The Open-Source Tech Stack Explorer](https://dev.to/hardikgohilhlr/stacksync-the-open-source-tech-stack-explorer-4j9f)
-- [Skyrocket Your Travel App with the Skypicker Locations API 🚀](https://dev.to/sourav_22cdd152890952704c/skyrocket-your-travel-app-with-the-skypicker-locations-api-4jn6)
+- [Leetcode - 11. Container With Most Water](https://dev.to/rakeshreddy512/leetcode-11-container-with-most-water-2ndo)
+- [AI Debate Method Boosts Logical Reasoning by 15% Using Multi-Expert Town Hall Format](https://dev.to/mikeyoung44/ai-debate-method-boosts-logical-reasoning-by-15-using-multi-expert-town-hall-format-3c58)
+- [[Boost]](https://dev.to/sumit_mochahary/-5ahl)
+- [Enable Mobile hotspot Windows 11 Registry Method](https://dev.to/winsides/enable-mobile-hotspot-windows-11-registry-method-3eh0)
 <!-- BLOG-POST-LIST:END -->
 
 
