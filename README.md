@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Pattern](https://dev.to/asadullah_ehsan/strategy-pattern-60d)
-- [Warp Terminal Finally Launches on Windows: A Deep Dive Into the Technical Journey](https://dev.to/omriluz1/warp-terminal-finally-launches-on-windows-a-deep-dive-into-the-technical-journey-366e)
-- [Code to Connection: Why Empathy is Your Secret Weapon in Coding?](https://dev.to/arpitstack/code-to-connection-why-empathy-is-your-secret-weapon-in-coding-5gdp)
-- [Getting Started with Docker: How to Containerize Your First Application](https://dev.to/yash_sonawane25/getting-started-with-docker-how-to-containerize-your-first-application-1cb8)
+- [Open Redirect Vulnerability: Exploitation, Prevention &amp; Real-World Examples - @verylazytech](https://dev.to/verylazytech/open-redirect-vulnerability-exploitation-prevention-real-world-examples-verylazytech-37ci)
+- [DOM Question #7 - Circular Reference](https://dev.to/shweta/dom-question-7-circular-reference-3hgj)
+- [Why Are Your URL Designs So Bad?](https://dev.to/leapcell/why-are-your-url-designs-so-bad-2k8l)
+- [Building a Beautiful Carousel with Left-Right Partial Visibility in React Native](https://dev.to/amitkumar13/building-a-beautiful-carousel-with-left-right-partial-visibility-in-react-native-397l)
 <!-- BLOG-POST-LIST:END -->
 
 
