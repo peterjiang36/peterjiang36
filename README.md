@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Run vs Sliplane - Comparison of two container hosting services](https://dev.to/wimadev/google-cloud-run-vs-sliplane-comparison-of-two-container-hosting-services-5a33)
-- [Dynamodb em aplicações node](https://dev.to/dotmendes/dynamodb-em-aplicacoes-node-5588)
-- [You Don’t Know JS Yet: My Weekly Journey Through JavaScript Mastery](https://dev.to/shaunak_38/you-dont-know-js-yet-my-weekly-journey-through-javascript-mastery-6lm)
-- [The AI Memory Revolution: How Long-Term AI Memory Systems Are Transforming the Creative Economy](https://dev.to/great_leveler/the-ai-memory-revolution-how-long-term-ai-memory-systems-are-transforming-the-creative-economy-1k27)
+- [Bun just got 60% faster, Doom now runs on TypeScript, OpenAI launched GPT 4.5, and more](https://dev.to/thisweekinjavascript/bun-just-got-60-faster-doom-now-runs-on-typescript-openai-launched-gpt-45-and-more-3c8f)
+- [Rust&#39;s Result Type: Error Handling Made Easy](https://dev.to/leapcell/rusts-result-type-error-handling-made-easy-58i)
+- [Event Driven Architecture using GCP](https://dev.to/binyam/event-driven-architecture-using-gcp-g1g)
+- [Building a Scalable Newsletter System with Go: From Test to Production](https://dev.to/vaidehi_adhi_84b623a30da7/building-a-scalable-newsletter-system-with-go-from-test-to-production-3flk)
 <!-- BLOG-POST-LIST:END -->
 
 
