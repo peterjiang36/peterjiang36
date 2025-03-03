@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide: Deploying SafeLine WAF on Synology NAS Using Docker](https://dev.to/carrie_luo1/step-by-step-guide-deploying-safeline-waf-on-synology-nas-using-docker-51in)
+- [Microservices: The Future of Scalable Architecture 🌐](https://dev.to/abhay_yt_52a8e72b213be229/microservices-the-future-of-scalable-architecture-2pc)
 - [🚀 10 Best Full-Stack &lpar;MERN&rpar; Techniques to Skyrocket Your Productivity 🚀](https://dev.to/er-raj-aryan/10-best-full-stack-mern-techniques-to-skyrocket-your-productivity-594a)
-- [What is NAS? Does NAS Need a WAF?](https://dev.to/carrie_luo1/what-is-nas-does-nas-need-a-waf-5jh)
-- [Power Platform - Moving All Flows to Dataverse](https://dev.to/wyattdave/power-platform-moving-all-flows-to-dataverse-321)
-- [Embracing the Agentic AI Age: Transforming Productivity with Microsoft Ecosystem](https://dev.to/balagmadhu/embracing-the-agentic-ai-age-transforming-productivity-with-microsoft-ecosystem-540i)
+- [Inside Out, Outside In: Our Topsy-Turvy Tech World](https://dev.to/gambhirsamarth/inside-out-outside-in-our-topsy-turvy-tech-world-3aj0)
 <!-- BLOG-POST-LIST:END -->
 
 
