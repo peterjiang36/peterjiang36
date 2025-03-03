@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Deploying SafeLine WAF on Synology NAS Using Docker](https://dev.to/carrie_luo1/step-by-step-guide-deploying-safeline-waf-on-synology-nas-using-docker-51in)
-- [Microservices: The Future of Scalable Architecture 🌐](https://dev.to/abhay_yt_52a8e72b213be229/microservices-the-future-of-scalable-architecture-2pc)
-- [🚀 10 Best Full-Stack &lpar;MERN&rpar; Techniques to Skyrocket Your Productivity 🚀](https://dev.to/er-raj-aryan/10-best-full-stack-mern-techniques-to-skyrocket-your-productivity-594a)
-- [Inside Out, Outside In: Our Topsy-Turvy Tech World](https://dev.to/gambhirsamarth/inside-out-outside-in-our-topsy-turvy-tech-world-3aj0)
+- [Time Travel Diaries: A Letter Across Time – A Deeper Dive as the Saga of AI Unfolds 🤖✨](https://dev.to/divya4879/time-travel-diaries-a-letter-across-time-a-deeper-dive-as-the-saga-of-ai-unfolds-5e3i)
+- [Callbacks vs Promises vs Async/Await: The Ultimate Guide to Asynchronous Javascript](https://dev.to/shubhamtiwari909/callbacks-vs-promises-vs-asyncawait-the-ultimate-guide-to-asynchronous-javascript-1j5n)
+- [Migrating from Express.js to Encore.ts for 9x Performance using Cursor](https://dev.to/encore/migrating-from-expressjs-to-encorets-for-9x-performance-using-cursor-ai-23h8)
+- [How to Easily Add Internationalization &lpar;i18n&rpar; to Your New Software Project](https://dev.to/adrai/how-to-easily-add-internationalization-i18n-to-your-new-software-project-4da)
 <!-- BLOG-POST-LIST:END -->
 
 
