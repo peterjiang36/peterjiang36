@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap: How Project Management Can Solve Developers’ Biggest Challenges](https://dev.to/pratham_naik_project_manager/bridging-the-gap-how-project-management-can-solve-developers-biggest-challenges-51ln)
-- [Introducing shadcn-sveltekit-landing-page: A Modern Landing Page Template with SvelteKit &amp; Shadcn](https://dev.to/zxce3/introducing-shadcn-sveltekit-landing-page-a-modern-landing-page-template-with-sveltekit-shadcn-1g71)
-- [Petition for Public Interest Litigation &lpar;PIL&rpar;](https://dev.to/dhruv_patel_93c1d77ad419e/petition-for-public-interest-litigation-pil-3pom)
-- [How Small Teams Can Achieve More with Strong Organizational Support](https://dev.to/futuristicgeeks/how-small-teams-can-achieve-more-with-strong-organizational-support-4ffb)
+- [Supercharging Web Apps with WebAssembly: A Hands-on Guide 🚀](https://dev.to/vibhuvibes/supercharging-web-apps-with-webassembly-a-hands-on-guide-162d)
+- [🤖 Set Up Your Own AI Agent in Minutes! Clone, Run, &amp; Deploy 🚀🛠️⚡](https://dev.to/ramkumar-m-n/set-up-your-own-ai-agent-in-minutes-clone-run-deploy-2n92)
+- [Small JavaScript Tricks That Feel Like Magic 🪄](https://dev.to/preeti_yadav/small-javascript-tricks-that-feel-like-magic-3a6g)
+- [🚀 Unlock Blazing Fast Performance with HybridCache in ASP.NET Core 9](https://dev.to/dct_technologyprivatelimited/unlock-blazing-fast-performance-with-hybridcache-in-aspnet-core-9-5hnc)
 <!-- BLOG-POST-LIST:END -->
 
 
