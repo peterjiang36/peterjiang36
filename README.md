@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Manticore vs Elastic with Kibana](https://dev.to/sanikolaev/manticore-vs-elastic-with-kibana-3946)
-- [Fixing Path of Exile 2 Loading Screen Freezes on Windows 11 24H2](https://dev.to/yawatasensei/fixing-path-of-exile-2-loading-screen-freezes-on-windows-11-24h2-24ep)
-- [AI](https://dev.to/sundongzi/ai-7b3)
-- [Search Space: Interview Problem Survey](https://dev.to/mehran_ghamaty/search-space-interview-problem-survey-1ibl)
+- [Mastering Flavors in Flutter: A Step-by-Step Approach](https://dev.to/hunnguydev101/mastering-flavors-in-flutter-a-step-by-step-approach-1en3)
+- [JS Question 1](https://dev.to/anjali_gurjar_dff81513867/js-question-1-4870)
+- [SQL](https://dev.to/anjali_gurjar_dff81513867/sql-39p0)
+- [MASTERING VIM – A DEVOPS ESSENTIAL!](https://dev.to/aws-builders/mastering-vim-a-devops-essential-5409)
 <!-- BLOG-POST-LIST:END -->
 
 
