@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming: Decluttering Your Code and Making the Flow Crystal Clear](https://dev.to/rijultp/functional-programming-decluttering-your-code-and-making-the-flow-crystal-clear-14ie)
-- [What Are the Common Challenges Faced During Application Deployment?](https://dev.to/jordankeurope/what-are-the-common-challenges-faced-during-application-deployment-and-how-can-they-be-mitigated-2270)
-- [Building a translation CI/CD pipeline with Lingo.dev](https://dev.to/knocklabs/building-a-translation-cicd-pipeline-with-lingodev-4926)
-- [How Much Does the CompTIA Network+ Certification Cost?](https://dev.to/skillboosttrainer/how-much-does-the-comptia-network-certification-cost-5a2m)
+- [Key React Hooks Every Developer Needs to Understand](https://dev.to/sundaram_pro/key-react-hooks-every-developer-needs-to-understand-25kk)
+- [Don’t Skip the Junior Dev Phase — A Lesson from Supplements](https://dev.to/aibuedefe/dont-skip-the-junior-dev-phase-a-lesson-from-supplements-466j)
+- [Databases: Indexes. Part 1](https://dev.to/nikita_kutsokon/databases-indexes-part-1-3579)
+- [How to Spot a Fake Senior Developer in 5 Minutes](https://dev.to/hotfixhero/how-to-spot-a-fake-senior-developer-in-5-minutes-19hd)
 <!-- BLOG-POST-LIST:END -->
 
 
