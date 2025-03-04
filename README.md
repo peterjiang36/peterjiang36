@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Forms in React: My Personal Journey with a Custom useForm Hook](https://dev.to/siddharthray/scaling-forms-in-react-my-personal-journey-with-a-custom-useform-hook-2ia)
-- [Top 10 Cloud Asset Management Software for Modern Businesses [2025 Updated]](https://dev.to/emily_assetloom/top-10-cloud-asset-management-software-for-modern-businesses-2025-updated-18lf)
-- [Why Learning MERN Stack is Essential for Aspiring Full-Stack Developers](https://dev.to/lekshmi_525/why-learning-mern-stack-is-essential-for-aspiring-full-stack-developers-29p2)
-- [Why the Most Valuable Skill in the Modern World Is Data Science](https://dev.to/ashwin_ash_14d1017720a11e/why-the-most-valuable-skill-in-the-modern-world-is-data-science-2m05)
+- [Deployable On-Premises RAG](https://dev.to/dmayboroda/deployable-on-premises-rag-29oc)
+- [Why I Choose to Use a Chinese WAF?](https://dev.to/carrie_luo1/why-i-choose-to-use-a-chinese-waf-3e1m)
+- [Cypress - Automating SSO Login with Multi-Factor Authentication using Mobile Authenticator App OTPs in Azure AD](https://dev.to/rohitshinde/cypress-automating-sso-login-with-multi-factor-authentication-using-mobile-authenticator-app-otps-9gm)
+- [FAQs about Agentic Artificial Intelligence](https://dev.to/rollbrace0/faqs-about-agentic-artificial-intelligence-27ld)
 <!-- BLOG-POST-LIST:END -->
 
 
