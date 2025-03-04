@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to clean up hard drive from duplicates](https://dev.to/johngray/how-to-clean-up-hard-drive-from-duplicates-em6)
-- [🚀 Your Daily Crypto Job Digest For 04 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-march-p2g)
-- [The Standout Features of Python for ML That Are Changing Development](https://dev.to/dhruvil_joshi14/the-standout-features-of-python-for-ml-that-are-changing-development-53d3)
-- [Introducing LTM-2: A Leap Forward in Workflow Management](https://dev.to/grenishrai/introducing-ltm-2-a-leap-forward-in-workflow-management-44aa)
+- [New post on Stef&#39;s Dev Notes: https://stefsdevnotes.substack.com/p/reactjs-understanding-usecallback?r=aehwm](https://dev.to/stefania_barabas/new-post-on-stefs-dev-notes-1616)
+- [Open Source Alternatives to GitHub Codespaces](https://dev.to/bascodes/open-source-alternatives-to-github-codespaces-54e5)
+- [The Art of UI Component Design: Creating Engaging and Intuitive User Interfaces](https://dev.to/sencha_reext/the-art-of-ui-component-design-creating-engaging-and-intuitive-user-interfaces-3pj3)
+- [Blockchain and Open Source: A New Dawn of Innovation](https://dev.to/bobcars/blockchain-and-open-source-a-new-dawn-of-innovation-4acg)
 <!-- BLOG-POST-LIST:END -->
 
 
