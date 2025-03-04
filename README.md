@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [30+ Brand-New GitHub Repositories from Hacker News!](https://dev.to/gittech/30-brand-new-github-repos-from-hacker-news-467d)
-- [30 Dev.to Python Articles That Will Level Up Your Skills Instantly!](https://dev.to/dev-resources/30-devto-python-articles-that-will-level-up-your-skills-instantly-2ajb)
-- [AWS Technical Essentials Quiz: Questions and Answers](https://dev.to/skillboosttrainer/aws-technical-essentials-quiz-questions-and-answers-2fen)
-- [5 Lesser-Known Asynchronous Patterns in Node.js &lpar;With Examples&rpar;](https://dev.to/araldhafeeri/5-lesser-known-asynchronous-patterns-in-nodejs-with-examples-1k6j)
+- [Functional Programming: Decluttering Your Code and Making the Flow Crystal Clear](https://dev.to/rijultp/functional-programming-decluttering-your-code-and-making-the-flow-crystal-clear-14ie)
+- [What Are the Common Challenges Faced During Application Deployment?](https://dev.to/jordankeurope/what-are-the-common-challenges-faced-during-application-deployment-and-how-can-they-be-mitigated-2270)
+- [Building a translation CI/CD pipeline with Lingo.dev](https://dev.to/knocklabs/building-a-translation-cicd-pipeline-with-lingodev-4926)
+- [How Much Does the CompTIA Network+ Certification Cost?](https://dev.to/skillboosttrainer/how-much-does-the-comptia-network-certification-cost-5a2m)
 <!-- BLOG-POST-LIST:END -->
 
 
