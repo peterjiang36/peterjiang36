@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate AI Art for Your Next Project – Free &amp; Fast!](https://dev.to/neurolov_ai_/generate-ai-art-for-your-next-project-free-fast-1dp2)
-- [How to Build Real-Time Analytics Systems with Go: A Complete Guide](https://dev.to/stellaacharoiro/how-to-build-real-time-analytics-systems-with-go-a-complete-guide-4hd0)
-- [7 Ways to Perfect Your Filament Table Filters](https://dev.to/dosenngoding/7-ways-to-perfect-your-filament-table-filters-46aa)
-- [3-Getting derivated values reactively - Building a Reactive System in TypeScript](https://dev.to/michaeljota/getting-derivated-values-reactively-building-a-reactive-system-in-typescript-4pg4)
+- [How to clean up hard drive from duplicates](https://dev.to/johngray/how-to-clean-up-hard-drive-from-duplicates-em6)
+- [🚀 Your Daily Crypto Job Digest For 04 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-march-p2g)
+- [The Standout Features of Python for ML That Are Changing Development](https://dev.to/dhruvil_joshi14/the-standout-features-of-python-for-ml-that-are-changing-development-53d3)
+- [Introducing LTM-2: A Leap Forward in Workflow Management](https://dev.to/grenishrai/introducing-ltm-2-a-leap-forward-in-workflow-management-44aa)
 <!-- BLOG-POST-LIST:END -->
 
 
