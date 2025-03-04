@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Using JSX Wrong in Next.js? Let’s Fix That Today! 🚀](https://dev.to/dct_technologyprivatelimited/are-you-using-jsx-wrong-in-nextjs-lets-fix-that-today-54i)
-- [Terraform for Beginners: Writing Your First Infrastructure Code](https://dev.to/yash_sonawane25/terraform-for-beginners-writing-your-first-infrastructure-code-2mp4)
-- [10 Best Chrome Extensions for Web Developers You Need to Try](https://dev.to/web_dev-usman/10-best-chrome-extensions-for-web-developers-you-need-to-try-343e)
-- [Struggling to keep up with new technologies? 🚀 Developers face info overload, time constraints &amp; imposter syndrome. Learn how to stay ahead without feeling overwhelmed! Read our latest blog &amp; boost your learning journey! #DevCommunity #LearningTech](https://dev.to/pratham_naik_project_manager/struggling-to-keep-up-with-new-technologies-developers-face-info-overload-time-constraints--13fd)
+- [Scaling Forms in React: My Personal Journey with a Custom useForm Hook](https://dev.to/siddharthray/scaling-forms-in-react-my-personal-journey-with-a-custom-useform-hook-2ia)
+- [Top 10 Cloud Asset Management Software for Modern Businesses [2025 Updated]](https://dev.to/emily_assetloom/top-10-cloud-asset-management-software-for-modern-businesses-2025-updated-18lf)
+- [Why Learning MERN Stack is Essential for Aspiring Full-Stack Developers](https://dev.to/lekshmi_525/why-learning-mern-stack-is-essential-for-aspiring-full-stack-developers-29p2)
+- [Why the Most Valuable Skill in the Modern World Is Data Science](https://dev.to/ashwin_ash_14d1017720a11e/why-the-most-valuable-skill-in-the-modern-world-is-data-science-2m05)
 <!-- BLOG-POST-LIST:END -->
 
 
