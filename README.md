@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Aging: Natural Habits for Youthful Life](https://dev.to/usmanseo/reverse-aging-natural-habits-for-youthful-life-3fmh)
-- [Do You Really Need to Suffer with No-SQL and Big Data? 🤔Be happy 😊 and just use PostgreSQL! 🚀](https://dev.to/rodrigo_estrada_79e6022e9/do-you-really-need-to-suffer-with-no-sql-and-big-data-be-happy-and-just-use-postgresql-kpj)
-- [React useCallback: When and how to use it for better performance](https://dev.to/logrocket/react-usecallback-2o8i)
-- [Unit Testing vs. End-to-End Testing: Understanding the Differences](https://dev.to/keploy/unit-testing-vs-end-to-end-testing-understanding-the-differences-5002)
+- [🧪 Validando Mensagens no Kafka com Kotlin e Awaitility](https://dev.to/rafaelbercam/validando-mensagens-no-kafka-com-kotlin-e-awaitility-22hg)
+- [IOT based Parking app](https://dev.to/sidatgithubcode/iot-based-parking-app-5h62)
+- [Study Notes 5.1.1-2 Introduction to Batch Processing &amp; spark](https://dev.to/pizofreude/study-notes-511-2-introduction-to-batch-processing-spark-glb)
+- [Mastering React Hooks in 2025: A Step-by-Step Guide for Beginners](https://dev.to/codebucks/mastering-react-hooks-in-2025-a-step-by-step-guide-for-beginners-387h)
 <!-- BLOG-POST-LIST:END -->
 
 
