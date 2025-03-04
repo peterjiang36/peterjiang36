@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployable On-Premises RAG](https://dev.to/dmayboroda/deployable-on-premises-rag-29oc)
-- [Why I Choose to Use a Chinese WAF?](https://dev.to/carrie_luo1/why-i-choose-to-use-a-chinese-waf-3e1m)
-- [Cypress - Automating SSO Login with Multi-Factor Authentication using Mobile Authenticator App OTPs in Azure AD](https://dev.to/rohitshinde/cypress-automating-sso-login-with-multi-factor-authentication-using-mobile-authenticator-app-otps-9gm)
-- [FAQs about Agentic Artificial Intelligence](https://dev.to/rollbrace0/faqs-about-agentic-artificial-intelligence-27ld)
+- [Test Case Template: Free Examples &amp; Formats for QA Teams](https://dev.to/ronika_kashyap/test-case-template-free-examples-formats-for-qa-teams-5b88)
+- [Rahasia Website Anti-Downtime](https://dev.to/diorizqi/rahasia-website-anti-downtime-4ejb)
+- [matrix multipilication,matrix addision](https://dev.to/neelakandan_ravi_2000/matrix-multipilicationmatrix-addision-4p96)
+- [📚 Understanding Angular Dependency Injection: How It Works &amp; Best Practice](https://dev.to/artem_turlenko/understanding-angular-dependency-injection-how-it-works-best-practice-2j68)
 <!-- BLOG-POST-LIST:END -->
 
 
