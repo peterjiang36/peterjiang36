@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auracast and multiple subgroups](https://dev.to/denladeside/auracast-and-multiple-subgroups-4im3)
-- [Explorando Técnicas de Prompting para Modelos de IA](https://dev.to/zorasantos/explorando-tecnicas-de-prompting-para-modelos-de-ia-5bfb)
-- [AI-Powered Code Generation: Opportunities and Risks](https://dev.to/kartikmehta8/ai-powered-code-generation-opportunities-and-risks-190f)
-- [We got computer Models for Physics... Devs](https://dev.to/pen2iotchaote/we-got-computer-models-for-physics-devs-29ak)
+- [Manticore vs Elastic with Kibana](https://dev.to/sanikolaev/manticore-vs-elastic-with-kibana-3946)
+- [Fixing Path of Exile 2 Loading Screen Freezes on Windows 11 24H2](https://dev.to/yawatasensei/fixing-path-of-exile-2-loading-screen-freezes-on-windows-11-24h2-24ep)
+- [AI](https://dev.to/sundongzi/ai-7b3)
+- [Search Space: Interview Problem Survey](https://dev.to/mehran_ghamaty/search-space-interview-problem-survey-1ibl)
 <!-- BLOG-POST-LIST:END -->
 
 
