@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive Into Apache Flink Timers](https://dev.to/ipolyzos/a-deep-dive-into-apache-flink-timers-6m4)
-- [My First Internship Experience](https://dev.to/khushihiagrawal/my-first-internship-experience-3boc)
-- [The Decline of Stack Overflow: How AI is Changing Developer Help-Seeking Behavior](https://dev.to/surya_krishnan_2bd96d385c/the-decline-of-stack-overflow-how-ai-is-changing-developer-help-seeking-behavior-4c13)
-- [Radical Simplicity in Cloud Architecture](https://dev.to/aws-builders/radical-simplicity-in-cloud-architecture-5b40)
+- [Certified Full Stack Data Scientist Specializing in AI and Machine Learning](https://dev.to/maria_mathur/certified-full-stack-data-scientist-specializing-in-ai-and-machine-learning-18i0)
+- [How to Build a CRUD API with Laravel for Beginners](https://dev.to/programmerhasan/how-to-build-a-crud-api-with-laravel-for-beginners-365a)
+- [How To Choose A Niche In Technical Writing](https://dev.to/khadijah_mak/how-to-choose-a-niche-in-technical-writing-5djk)
+- [The Ultimate Guide to Sandbox Environments: Safe &amp; Efficient Software Testing](https://dev.to/testwithtorin/the-ultimate-guide-to-sandbox-environments-safe-efficient-software-testing-lb5)
 <!-- BLOG-POST-LIST:END -->
 
 
