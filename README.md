@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI](https://dev.to/ai_customersupport_f54b9/ai-59nn)
-- [Writing Human-Readable Code: Best Practices for Clean &amp; Maintainable Code](https://dev.to/abhay_yt_52a8e72b213be229/writing-human-readable-code-best-practices-for-clean-maintainable-code-mmf)
-- [Motion Capture | Akira](https://dev.to/goh23/motion-capture-akira-kl1)
-- [Network Security Vs Application Security](https://dev.to/clouddefenseai/network-security-vs-application-security-gd)
+- [Ngrok Alternative for UDP Tunneling: Exploring Better Options](https://dev.to/lightningdev123/ngrok-alternative-for-udp-tunneling-exploring-better-options-2556)
+- [Maximizing Network Performance: Zero-Copy I/O Techniques in Go](https://dev.to/aaravjoshi/maximizing-network-performance-zero-copy-io-techniques-in-go-384d)
+- [Shadcn/UI Marketing Blocks](https://dev.to/shahidkhans/shadcnui-marketing-blocks-1f7l)
+- [Breaking down bugs in TDengine to master refactoring, part 1: sausage code](https://dev.to/pvsdev/breaking-down-bugs-in-tdengine-to-master-refactoring-part-1-sausage-code-1l0d)
 <!-- BLOG-POST-LIST:END -->
 
 
