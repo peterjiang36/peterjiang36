@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Down the Nuclear Licensing Process: A Roadmap for Success](https://dev.to/leilajune/breaking-down-the-nuclear-licensing-process-a-roadmap-for-success-5d4p)
-- [Gemika’s Enchanted Guide to Iris Dataset with Magic and Machine Learning 🌟🧙‍♂️ &lpar;Part #7&rpar;](https://dev.to/gerryleonugroho/gemikas-enchanted-guide-to-iris-dataset-with-magic-and-machine-learning-part-7-3fce)
-- [Install Docker using command line and pull code from github](https://dev.to/dhaval_upadhyay_30f8292a8/install-docker-using-command-line-and-pull-code-from-github-2l6c)
-- [How Playout Systems Handle Live Events and Breaking News](https://dev.to/livestreaming/how-playout-systems-handle-live-events-and-breaking-news-41m0)
+- [7 Ways to Master Laravel File Storage 🚀](https://dev.to/dosenngoding/7-ways-to-master-laravel-file-storage-301k)
+- [Amazon AWS Launches New Division Focused on Agentic AI](https://dev.to/wearetechi/amazon-aws-launches-new-division-focused-on-agentic-ai-41fj)
+- [How To Use XMLHttpRequest In Javascript](https://dev.to/theudemezue/how-to-use-xmlhttprequest-in-javascript-gca)
+- [AI in Personalizing Customer Experiences in 2025: The Future of Customer-Centric AI](https://dev.to/priyankapandey/ai-in-personalizing-customer-experiences-in-2025-the-future-of-customer-centric-ai-4oh)
 <!-- BLOG-POST-LIST:END -->
 
 
