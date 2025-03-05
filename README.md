@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start as a UX/UI Designer: A Step-by-Step Guide to Breaking Into the Industry](https://dev.to/epicx/how-to-start-as-a-uxui-designer-a-step-by-step-guide-to-breaking-into-the-industry-2kd5)
-- [Why Your Code Works &lpar;But You Have No Idea Why&rpar;](https://dev.to/mrshelby0/why-your-code-works-but-you-have-no-idea-why-21om)
-- [The Rise of Generative AI: More Than Just Words &amp; Images](https://dev.to/rage/the-rise-of-generative-ai-more-than-just-words-images-35af)
-- [Functional Programming Face-Off: Python vs JavaScript vs Go!](https://dev.to/mihailtd/functional-programming-face-off-python-vs-javascript-vs-go-3bmj)
+- [Revolutionizing Open Source Licensing with Smart Contracts](https://dev.to/kallileiser/revolutionizing-open-source-licensing-with-smart-contracts-5hfg)
+- [Criei um site que mostra quem eu sou &lpar;Literalmente&rpar;](https://dev.to/razielrodrigues/criei-um-site-que-mostra-quem-eu-sou-literalmente-2j1i)
+- [Mockai  - Gerador de Dados Mockados para Desenvolvedores](https://dev.to/constpereiradev/mockai-gerador-de-dados-mockados-para-desenvolvedores-5goo)
+- [Jira Kanban Board 101: Workflow Management and Beyond](https://dev.to/viktoriiagolovtseva/jira-kanban-board-101-workflow-management-and-beyond-g7p)
 <!-- BLOG-POST-LIST:END -->
 
 
