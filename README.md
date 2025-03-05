@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate PHP Learning Guide: Essential Resources for Developers](https://dev.to/manan_raj_6289f257cd05087/the-ultimate-php-learning-guide-essential-resources-for-developers-448i)
-- [How to Check PC Specs without Logging into Windows 11?](https://dev.to/winsides/how-to-check-pc-specs-without-logging-into-windows-11-21cm)
-- [scale transition](https://dev.to/efo_perry_6bb399014d8915d/scale-transition-1i7m)
-- [How to Build a RAG Chatbot with LangChain, Milvus, Together AI Mixtral 8x7B Instruct v0.1, and OpenAI text-embedding-3-large](https://dev.to/zilliz/how-to-build-a-rag-chatbot-with-langchain-milvus-together-ai-mixtral-8x7b-instruct-v01-and-324l)
+- [Static vs Dynamic Caching in Next.js: What Every Developer Should Know](https://dev.to/melvinprince/static-vs-dynamic-caching-in-nextjs-what-every-developer-should-know-1do0)
+- [Static vs Dynamic Caching in Next.js: What Every Developer Should Know](https://dev.to/melvinprince/static-vs-dynamic-caching-in-nextjs-what-every-developer-should-know-2ie2)
+- [SPO600: Lab 02](https://dev.to/amullagaliev/spo600-lab-02-38e8)
+- [Building a Secure User Activation System in Django](https://dev.to/ndourc/building-a-secure-user-activation-system-in-django-3nil)
 <!-- BLOG-POST-LIST:END -->
 
 
