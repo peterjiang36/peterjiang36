@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways to Master Laravel File Storage 🚀](https://dev.to/dosenngoding/7-ways-to-master-laravel-file-storage-301k)
-- [Amazon AWS Launches New Division Focused on Agentic AI](https://dev.to/wearetechi/amazon-aws-launches-new-division-focused-on-agentic-ai-41fj)
-- [How To Use XMLHttpRequest In Javascript](https://dev.to/theudemezue/how-to-use-xmlhttprequest-in-javascript-gca)
-- [AI in Personalizing Customer Experiences in 2025: The Future of Customer-Centric AI](https://dev.to/priyankapandey/ai-in-personalizing-customer-experiences-in-2025-the-future-of-customer-centric-ai-4oh)
+- [🚀 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵𝗤𝗟 𝗶𝗻 𝗖# – 𝗙𝗲𝘁𝗰𝗵𝗶𝗻𝗴 𝗨𝘀𝗲𝗿 𝗗𝗮𝘁𝗮 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆! 🔥](https://dev.to/supraja_tangella_b7f0738e/--20h5)
+- [Building a Real-Time Serverless Chat App with AWS: A Scalable Approach](https://dev.to/devlinkstudios/building-a-real-time-serverless-chat-app-with-aws-a-scalable-approach-2fm6)
+- [Seeking for freelance fullstack project](https://dev.to/subham1901/seeking-for-freelance-fullstack-project-1dpc)
+- [Choosing between open-source frameworks and a unified platform](https://dev.to/devassure/choosing-between-open-source-frameworks-and-a-unified-platform-38ab)
 <!-- BLOG-POST-LIST:END -->
 
 
