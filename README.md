@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stretchy &amp; Sticky Header in SwiftUI on iOS 18 [Video]](https://dev.to/yossabourne/stretchy-sticky-header-in-swiftui-on-ios-18-video-46g7)
-- [[Boost]](https://dev.to/ippatev/-16bb)
-- [How to build an online store with Momen: No transaction fees, full customization](https://dev.to/momen_hq/how-to-build-an-online-store-with-momen-no-transaction-fees-full-customization-528g)
-- [Elon Musk and the Open Source Revolution: Pioneering a New Era of Innovation](https://dev.to/ashucommits/elon-musk-and-the-open-source-revolution-pioneering-a-new-era-of-innovation-497p)
+- [SVG essentials. Introduction](https://dev.to/jsha/svg-essentials-introduction-54ch)
+- [Hands-On: How Companies Will Build Collaborative Agentic AI Workflows](https://dev.to/exploredataaiml/hands-on-how-companies-will-build-collaborative-agentic-ai-workflows-10dd)
+- [10 Best SEO Tools to Improve Your Website Ranking](https://dev.to/jagonya_website_e23ba8593/10-best-seo-tools-to-improve-your-website-ranking-d4a)
+- [UNDERSTANDING CLOUD SECURITY:Best Practices For Protecting Your Cloud.](https://dev.to/kayode_david_0f763081697c/understanding-cloud-securitybest-practices-for-protecting-your-cloud-1k4j)
 <!-- BLOG-POST-LIST:END -->
 
 
