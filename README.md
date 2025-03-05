@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Open Source Visibility with License-Token](https://dev.to/jennythomas498/enhancing-open-source-visibility-with-license-token-2f32)
-- [Year of the Snake 🐍](https://dev.to/richolive/year-of-the-snake-4nhp)
-- [What Are the Steps to Install Golang on Macos in 2025?](https://dev.to/cristianalex_17/what-are-the-steps-to-install-golang-on-macos-in-2025-1fjg)
-- [Overview：&quot;Agentic Retrieval-Augmented Generation: A Comprehensive Survey&quot;](https://dev.to/foxgem/overviewagentic-retrieval-augmented-generation-a-comprehensive-survey-34i6)
+- [Can Individuals Sell on Lazada? Registration Rules Explained](https://dev.to/clarkeer/can-individuals-sell-on-lazada-registration-rules-explained-2eop)
+- [The Ultimate 2025 Guide to Choosing a No-Code Tool &lpar;23 Best Picks&rpar;](https://dev.to/nocobase/the-ultimate-2025-guide-to-choosing-a-no-code-tool-23-best-picks-g24)
+- [Microsoft&#39;s Journey into Open Source: A Transformational Tale](https://dev.to/vitalisorenko/microsofts-journey-into-open-source-a-transformational-tale-2jpj)
+- [The Pain and Agony of Parsing Nightmares](https://dev.to/asadk/the-pain-and-agony-of-parsing-nightmares-4p64)
 <!-- BLOG-POST-LIST:END -->
 
 
