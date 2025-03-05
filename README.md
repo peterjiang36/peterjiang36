@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Visibility and Display Properties: A Developer&#39;s Guide](https://dev.to/arsalanmeee/mastering-css-visibility-and-display-properties-a-developers-guide-16cm)
-- [The Psychology of UX: Understanding BJ Fogg’s Behavior Model](https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf)
-- [My names Vjames, I&#39;m new here. I need a friend to learn from and work with about building website and app online](https://dev.to/james_victor_5c4574653650/my-names-vjames-im-new-here-i-need-a-friend-to-learn-from-and-work-with-about-building-website-4492)
-- [📄 Función para Paginación con Firestore y Angular 🔥🔥🔥](https://dev.to/cristian_arieta_7df932e5f/funcion-para-paginacion-con-firestore-y-angular-397c)
+- [Understanding JSX in React: History, Features, and Examples](https://dev.to/marie_berezhna/understanding-jsx-in-react-history-features-and-examples-1e7i)
+- [Navigating the World of Open Source Funding Strategies](https://dev.to/jennythomas498/navigating-the-world-of-open-source-funding-strategies-1be7)
+- [TECH](https://dev.to/tsotsi1/tech-1fll)
+- [CQRS &lpar;Command Query Responsibility Segregation&rpar; και MediatR Pattern στη C#](https://dev.to/__b63657/cqrs-command-query-responsibility-segregation-kai-mediatr-pattern-ste-c-8ca)
 <!-- BLOG-POST-LIST:END -->
 
 
