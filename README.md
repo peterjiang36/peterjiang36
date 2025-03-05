@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Storage Solutions](https://dev.to/godofgeeks/azure-storage-solutions-ih6)
-- [The Unexpected Rise of SyncDrawGuess: A Skribbl Clone I Barely Finished](https://dev.to/divyanshulohani/the-unexpected-rise-of-syncdrawguess-a-skribbl-clone-i-barely-finished-489l)
-- [The Unrealistic Expectations of Clients and Project Managers](https://dev.to/matemiller/the-unrealistic-expectations-of-clients-and-project-managers-59en)
-- [Como Fazer Migrations com MySQL no .NET Usando o Visual Studio](https://dev.to/tiagomabango/como-fazer-migrations-com-mysql-no-net-usando-o-visual-studio-5978)
+- [AI](https://dev.to/ai_customersupport_f54b9/ai-59nn)
+- [Writing Human-Readable Code: Best Practices for Clean &amp; Maintainable Code](https://dev.to/abhay_yt_52a8e72b213be229/writing-human-readable-code-best-practices-for-clean-maintainable-code-mmf)
+- [Motion Capture | Akira](https://dev.to/goh23/motion-capture-akira-kl1)
+- [Network Security Vs Application Security](https://dev.to/clouddefenseai/network-security-vs-application-security-gd)
 <!-- BLOG-POST-LIST:END -->
 
 
