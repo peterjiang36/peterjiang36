@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Open Source Licensing with Smart Contracts](https://dev.to/kallileiser/revolutionizing-open-source-licensing-with-smart-contracts-5hfg)
-- [Criei um site que mostra quem eu sou &lpar;Literalmente&rpar;](https://dev.to/razielrodrigues/criei-um-site-que-mostra-quem-eu-sou-literalmente-2j1i)
-- [Mockai  - Gerador de Dados Mockados para Desenvolvedores](https://dev.to/constpereiradev/mockai-gerador-de-dados-mockados-para-desenvolvedores-5goo)
-- [Jira Kanban Board 101: Workflow Management and Beyond](https://dev.to/viktoriiagolovtseva/jira-kanban-board-101-workflow-management-and-beyond-g7p)
+- [Create A Weather Data Collection System Using Python In 7 Steps](https://dev.to/franklyn/create-a-weather-data-collection-system-using-python-in-7-steps-1lh8)
+- [A comprehensive guide on how to deploy laravel application to vps, using github action, ssh key, server permissions and more.](https://dev.to/abdulsalamamtech/a-comprehensive-guide-on-how-to-deploy-laravel-application-to-vps-using-github-action-ssh-key-15g3)
+- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
+- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
 <!-- BLOG-POST-LIST:END -->
 
 
