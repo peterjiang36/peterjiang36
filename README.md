@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Individuals Sell on Lazada? Registration Rules Explained](https://dev.to/clarkeer/can-individuals-sell-on-lazada-registration-rules-explained-2eop)
-- [The Ultimate 2025 Guide to Choosing a No-Code Tool &lpar;23 Best Picks&rpar;](https://dev.to/nocobase/the-ultimate-2025-guide-to-choosing-a-no-code-tool-23-best-picks-g24)
-- [Microsoft&#39;s Journey into Open Source: A Transformational Tale](https://dev.to/vitalisorenko/microsofts-journey-into-open-source-a-transformational-tale-2jpj)
-- [The Pain and Agony of Parsing Nightmares](https://dev.to/asadk/the-pain-and-agony-of-parsing-nightmares-4p64)
+- [Stretchy &amp; Sticky Header in SwiftUI on iOS 18 [Video]](https://dev.to/yossabourne/stretchy-sticky-header-in-swiftui-on-ios-18-video-46g7)
+- [[Boost]](https://dev.to/ippatev/-16bb)
+- [How to build an online store with Momen: No transaction fees, full customization](https://dev.to/momen_hq/how-to-build-an-online-store-with-momen-no-transaction-fees-full-customization-528g)
+- [Elon Musk and the Open Source Revolution: Pioneering a New Era of Innovation](https://dev.to/ashucommits/elon-musk-and-the-open-source-revolution-pioneering-a-new-era-of-innovation-497p)
 <!-- BLOG-POST-LIST:END -->
 
 
