@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Letter: Navigating the Tsunami of Technological Transformation](https://dev.to/hanzla-baig/letter-to-friends-and-family-navigating-the-tsunami-of-technological-transformation-5ck3)
-- [🚀 Vibe Coding is here—are we ready? 🤖 AI-powered coding tools like GitHub Copilot &amp; Claude Code are changing how we write software—faster builds, cleaner code, less hassle. But is this the future or a risky shortcut? Let&#39;s discuss! 👇](https://dev.to/johnschibelli/vibe-coding-is-here-are-we-ready-ai-powered-coding-tools-like-github-copilot-claude-code-are-1nc1)
-- [How to Create an Azure Compute Gallery and Capture the Image of a Virtual Machine Using the Azure Portal](https://dev.to/ibrahimbioabu/how-to-create-an-azure-compute-gallery-and-capture-the-image-of-a-virtual-machine-using-the-azure-1mgl)
-- [Writing and Reading NFC in Flutter | Comprehensive Guide](https://dev.to/anshikaila/writing-and-reading-nfc-in-flutter-comprehensive-guide-5570)
+- [WeCoded is back!](https://dev.to/thomasbnt/-2jh6)
+- [NFTs for Business: How to Monetize Digital Assets in Web3](https://dev.to/raji_moshood_ee3a4c2638f6/nfts-for-business-how-to-monetize-digital-assets-in-web3-2l05)
+- [[Boost]](https://dev.to/lucylu/-k2o)
+- [Virtual DOM vs Direct DOM](https://dev.to/madnanrizqu/virtual-dom-vs-direct-dom-474f)
 <!-- BLOG-POST-LIST:END -->
 
 
