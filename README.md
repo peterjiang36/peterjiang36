@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Static vs Dynamic Caching in Next.js: What Every Developer Should Know](https://dev.to/melvinprince/static-vs-dynamic-caching-in-nextjs-what-every-developer-should-know-1do0)
-- [Static vs Dynamic Caching in Next.js: What Every Developer Should Know](https://dev.to/melvinprince/static-vs-dynamic-caching-in-nextjs-what-every-developer-should-know-2ie2)
-- [SPO600: Lab 02](https://dev.to/amullagaliev/spo600-lab-02-38e8)
-- [Building a Secure User Activation System in Django](https://dev.to/ndourc/building-a-secure-user-activation-system-in-django-3nil)
+- [Mastering CSS Visibility and Display Properties: A Developer&#39;s Guide](https://dev.to/arsalanmeee/mastering-css-visibility-and-display-properties-a-developers-guide-16cm)
+- [The Psychology of UX: Understanding BJ Fogg’s Behavior Model](https://dev.to/rijultp/the-psychology-of-ux-understanding-bj-foggs-behavior-model-12bf)
+- [My names Vjames, I&#39;m new here. I need a friend to learn from and work with about building website and app online](https://dev.to/james_victor_5c4574653650/my-names-vjames-im-new-here-i-need-a-friend-to-learn-from-and-work-with-about-building-website-4492)
+- [📄 Función para Paginación con Firestore y Angular 🔥🔥🔥](https://dev.to/cristian_arieta_7df932e5f/funcion-para-paginacion-con-firestore-y-angular-397c)
 <!-- BLOG-POST-LIST:END -->
 
 
