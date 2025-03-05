@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JSX in React: History, Features, and Examples](https://dev.to/marie_berezhna/understanding-jsx-in-react-history-features-and-examples-1e7i)
-- [Navigating the World of Open Source Funding Strategies](https://dev.to/jennythomas498/navigating-the-world-of-open-source-funding-strategies-1be7)
-- [TECH](https://dev.to/tsotsi1/tech-1fll)
-- [CQRS &lpar;Command Query Responsibility Segregation&rpar; και MediatR Pattern στη C#](https://dev.to/__b63657/cqrs-command-query-responsibility-segregation-kai-mediatr-pattern-ste-c-8ca)
+- [How to Start as a UX/UI Designer: A Step-by-Step Guide to Breaking Into the Industry](https://dev.to/epicx/how-to-start-as-a-uxui-designer-a-step-by-step-guide-to-breaking-into-the-industry-2kd5)
+- [Why Your Code Works &lpar;But You Have No Idea Why&rpar;](https://dev.to/mrshelby0/why-your-code-works-but-you-have-no-idea-why-21om)
+- [The Rise of Generative AI: More Than Just Words &amp; Images](https://dev.to/rage/the-rise-of-generative-ai-more-than-just-words-images-35af)
+- [Functional Programming Face-Off: Python vs JavaScript vs Go!](https://dev.to/mihailtd/functional-programming-face-off-python-vs-javascript-vs-go-3bmj)
 <!-- BLOG-POST-LIST:END -->
 
 
