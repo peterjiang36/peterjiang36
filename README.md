@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗚𝗿𝗮𝗽𝗵𝗤𝗟 𝗶𝗻 𝗖# – 𝗙𝗲𝘁𝗰𝗵𝗶𝗻𝗴 𝗨𝘀𝗲𝗿 𝗗𝗮𝘁𝗮 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗹𝘆! 🔥](https://dev.to/supraja_tangella_b7f0738e/--20h5)
-- [Building a Real-Time Serverless Chat App with AWS: A Scalable Approach](https://dev.to/devlinkstudios/building-a-real-time-serverless-chat-app-with-aws-a-scalable-approach-2fm6)
-- [Seeking for freelance fullstack project](https://dev.to/subham1901/seeking-for-freelance-fullstack-project-1dpc)
-- [Choosing between open-source frameworks and a unified platform](https://dev.to/devassure/choosing-between-open-source-frameworks-and-a-unified-platform-38ab)
+- [From Idea to Impact: How the ReExt Contest Can Transform Your Developer Journey](https://dev.to/sencha_reext/from-idea-to-impact-how-the-reext-contest-can-transform-your-developer-journey-45c1)
+- [Hybrid Compact Block Spacing: A Practical Coding Format for Readability and Refactoring](https://dev.to/documendous/hybrid-compact-block-spacing-a-practical-coding-format-for-readability-and-refactoring-51kp)
+- [Bring Oracle Data to Elasticsearch for Real-Time Search](https://dev.to/bladepipe/bring-oracle-data-to-elasticsearch-for-real-time-search-4i73)
+- [AI locators for Playwright 🚀](https://dev.to/surfing_devs/ai-locators-for-playwright-5gmd)
 <!-- BLOG-POST-LIST:END -->
 
 
