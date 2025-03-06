@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create A Weather Data Collection System Using Python In 7 Steps](https://dev.to/franklyn/create-a-weather-data-collection-system-using-python-in-7-steps-1lh8)
-- [A comprehensive guide on how to deploy laravel application to vps, using github action, ssh key, server permissions and more.](https://dev.to/abdulsalamamtech/a-comprehensive-guide-on-how-to-deploy-laravel-application-to-vps-using-github-action-ssh-key-15g3)
-- [用 Ollama？其實你在跑 llama.cpp！學會直接使用它，發揮更強性能！](https://dev.to/jambochen/yong-ollamaqi-shi-ni-zai-pao-llamacppxue-hui-zhi-jie-shi-yong-ta-fa-hui-geng-qiang-xing-neng--1m38)
-- [The future of dev, I&#39;m confused...](https://dev.to/echotedev/the-future-of-dev-im-confused-5433)
+- [Why Can&#39;t I Receive the Verification Code When Registering for Cursor?](https://dev.to/scde/why-cant-i-receive-the-verification-code-when-registering-for-cursor-501o)
+- [What is Programming? Understanding How Computers Think](https://dev.to/testamplify/what-is-programming-understanding-how-computers-think-2b63)
+- [flowchart TD A[Inicio] --&gt; B[Recolección y Clasificación de Residuos] B --&gt; C[Pretratamiento &lpar;Trituración y Homogeneización&rpar;] C --&gt; D[Digestión Anaerobia en Biodigestores] D --&gt; E1[Producción de Biogás] D --&gt; E2[Producción de Digestato]](https://dev.to/juliana_hernandez_471cc7c/flowchart-td-ainicio-brecoleccion-y-clasificacion-de-residuos-b--2f4m)
+- [Thinking Like a Programmer...](https://dev.to/testamplify/thinking-like-a-programmer-3b2d)
 <!-- BLOG-POST-LIST:END -->
 
 
