@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙NEXT开发案例：记忆翻牌](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-ji-yi-fan-pai-2ko5)
-- [AI-Powered Debugging: Can GPT Fix Your Bugs Better Than You?](https://dev.to/devresurrect_f18e7d7b7bc6/ai-powered-debugging-can-gpt-fix-your-bugs-better-than-you-2m4e)
-- [鸿蒙NEXT开发案例：井字棋](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-jing-zi-qi-18p6)
-- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
+- [Unlock Your Potential at HACKHAZARDS – India’s Premier Digital Hackathon](https://dev.to/utsavs26/unlock-your-potential-at-hackhazards-indias-premier-digital-hackathon-976)
+- [Why Event Check-In Apps Are Essential for Efficient Attendee Management](https://dev.to/saanvipatel099/why-event-check-in-apps-are-essential-for-efficient-attendee-management-1ip)
+- [What is hCaptcha?](https://dev.to/sham435/what-is-hcaptcha-29b8)
+- [Godot Audio Handler](https://dev.to/selfish_dev/godot-audio-handler-1576)
 <!-- BLOG-POST-LIST:END -->
 
 
