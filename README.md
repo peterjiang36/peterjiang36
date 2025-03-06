@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Machine Learning Algorithms Using Friedman Test and Critical Difference Diagrams in Python](https://dev.to/milenamonteiro/comparing-machine-learning-algorithms-using-friedman-test-and-critical-difference-diagrams-in-python-10a9)
-- [Dashboard Interativo de CVE&#39;s - AWS Inspector + Lambda + S3](https://dev.to/aws-builders/dashboard-interativo-de-cves-aws-inspector-lambda-s3-13k2)
-- [Meteor.js: FlowRouter packages update](https://dev.to/smart_egg/meteorjs-flowrouter-packages-update-4d1d)
-- [Discovering Project Lombok: Simplifying Java Development Through Open Source Innovation](https://dev.to/ashucommits/discovering-project-lombok-simplifying-java-development-through-open-source-innovation-36h5)
+- [Amazon DocumentDB - Cheat Sheet](https://dev.to/datatechbridge/amazon-documentdb-cheat-sheet-4okh)
+- [Amazon Neptune - Cheat Sheet](https://dev.to/datatechbridge/amazon-neptune-cheat-sheet-11mj)
+- [From Monolith to Microservices: A Developer&#39;s Tale 🚀](https://dev.to/arjunhg/from-monolith-to-microservices-a-developers-tale-ma6)
+- [Amazon RDS - Cheat Sheet](https://dev.to/datatechbridge/amazon-rds-cheat-sheet-3n5c)
 <!-- BLOG-POST-LIST:END -->
 
 
