@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Can&#39;t I Receive the Verification Code When Registering for Cursor?](https://dev.to/scde/why-cant-i-receive-the-verification-code-when-registering-for-cursor-501o)
-- [What is Programming? Understanding How Computers Think](https://dev.to/testamplify/what-is-programming-understanding-how-computers-think-2b63)
-- [flowchart TD A[Inicio] --&gt; B[Recolección y Clasificación de Residuos] B --&gt; C[Pretratamiento &lpar;Trituración y Homogeneización&rpar;] C --&gt; D[Digestión Anaerobia en Biodigestores] D --&gt; E1[Producción de Biogás] D --&gt; E2[Producción de Digestato]](https://dev.to/juliana_hernandez_471cc7c/flowchart-td-ainicio-brecoleccion-y-clasificacion-de-residuos-b--2f4m)
-- [Thinking Like a Programmer...](https://dev.to/testamplify/thinking-like-a-programmer-3b2d)
+- [Introduction to Agile Framework](https://dev.to/madgan95/introduction-to-agile-framework-4p71)
+- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-e9e)
+- [Is PHP Front-End or Back-End?](https://dev.to/angelaswift/is-php-front-end-or-back-end-2hk4)
+- [[HELP] Looking for best practice in v-model binding a object](https://dev.to/xuyimingwork/help-looking-for-best-practice-in-v-model-binding-a-object-44l0)
 <!-- BLOG-POST-LIST:END -->
 
 
