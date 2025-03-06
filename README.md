@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Freelance Clients Without Any Experience 🚀✈️](https://dev.to/lokesh_singh/how-to-get-freelance-clients-without-any-experience-1glg)
-- [Back to Work](https://dev.to/uday-rana/back-to-work-2m3i)
-- [Inside the Mind of Mohammad Alothman: Leadership, Innovation, and the Future of AI](https://dev.to/mohammed-alothman/inside-the-mind-of-mohammad-alothman-leadership-innovation-and-the-future-of-ai-2a0d)
-- [Embracing a New Era: Open Source Meets Blockchain](https://dev.to/vanessamcdurban/embracing-a-new-era-open-source-meets-blockchain-478a)
+- [鸿蒙NEXT开发案例：记忆翻牌](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-ji-yi-fan-pai-2ko5)
+- [AI-Powered Debugging: Can GPT Fix Your Bugs Better Than You?](https://dev.to/devresurrect_f18e7d7b7bc6/ai-powered-debugging-can-gpt-fix-your-bugs-better-than-you-2m4e)
+- [鸿蒙NEXT开发案例：井字棋](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-jing-zi-qi-18p6)
+- [The Friendly Future: How AI Makes Life Easier and Safer for Everyone](https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8)
 <!-- BLOG-POST-LIST:END -->
 
 
