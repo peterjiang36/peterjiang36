@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cliente Jira mediante Cookie](https://dev.to/e240683/cliente-jira-mediante-cookie-5f3n)
-- [Implementing Data Protection in Azure: AZ-104 Lab 10 Review](https://dev.to/1suleyman/implementing-data-protection-in-azure-az-104-lab-10-review-c9e)
-- [Design Patterns: Facade](https://dev.to/nv3212/design-patterns-facade-24p7)
-- [DDL vs DML in SQL](https://dev.to/lioneg/ddl-vs-dml-in-sql-2ooa)
+- [Python Scripts That Do Your Job](https://dev.to/resource_bunk_1077cab07da/python-scripts-that-do-your-job-4ocg)
+- [AI in Python APIs: Future Is Here](https://dev.to/snappytuts/ai-in-python-apis-future-is-here-3d37)
+- [Azul Intelligence Cloud Wins InfoWorld&#39;s 2024 DevOps Analytics Technology of the Year Award](https://dev.to/max_services/azul-intelligence-cloud-wins-infoworlds-2024-devops-analytics-technology-of-the-year-award-3nm4)
+- [Flutter congelando? Aprenda como resolver!](https://dev.to/rodrigorahman/flutter-congelando-aprenda-como-resolver-213o)
 <!-- BLOG-POST-LIST:END -->
 
 
