@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Free Browser Games: A Look at Technology and Trends](https://dev.to/aigame/the-evolution-of-free-browser-games-a-look-at-technology-and-trends-3011)
-- [Git and Github](https://dev.to/tariqul420/git-and-github-2bph)
-- [Data Synchronization from Google BigQuery to ClickHouse in an AWS Air-Gapped Environment](https://dev.to/abhinav_singh_04da9e27ca7/data-synchronization-from-google-bigquery-to-clickhouse-in-an-aws-air-gapped-environment-4iki)
-- [How to use API Keys in NocoBase to retrieve data](https://dev.to/nocobase/how-to-use-api-keys-in-nocobase-to-retrieve-data-28ha)
+- [How to Get Freelance Clients Without Any Experience 🚀✈️](https://dev.to/lokesh_singh/how-to-get-freelance-clients-without-any-experience-1glg)
+- [Back to Work](https://dev.to/uday-rana/back-to-work-2m3i)
+- [Inside the Mind of Mohammad Alothman: Leadership, Innovation, and the Future of AI](https://dev.to/mohammed-alothman/inside-the-mind-of-mohammad-alothman-leadership-innovation-and-the-future-of-ai-2a0d)
+- [Embracing a New Era: Open Source Meets Blockchain](https://dev.to/vanessamcdurban/embracing-a-new-era-open-source-meets-blockchain-478a)
 <!-- BLOG-POST-LIST:END -->
 
 
