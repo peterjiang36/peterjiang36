@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exploring Software Development, Web Dev &amp; AI/ML! 🤖💻](https://dev.to/varun_sahil/exploring-software-development-web-dev-aiml-4o7o)
-- [The Future of Unity Game Development: Trends and Innovations](https://dev.to/jude_maxwell_fe6a32b5a286/the-future-of-unity-game-development-trends-and-innovations-2kfi)
-- [Python is Slow? Not Anymore! How I Made My Code 100x Faster with Cython &lpar;And Why You Should Too&rpar;](https://dev.to/sureshchandras3kar/python-is-slow-not-anymore-how-i-made-my-code-100x-faster-with-cython-and-why-you-should-too-2b5j)
-- [inline imports FTW!](https://dev.to/paulbrowne/inline-imports-ftw-1o3e)
+- [Cliente Jira mediante Cookie](https://dev.to/e240683/cliente-jira-mediante-cookie-5f3n)
+- [Implementing Data Protection in Azure: AZ-104 Lab 10 Review](https://dev.to/1suleyman/implementing-data-protection-in-azure-az-104-lab-10-review-c9e)
+- [Design Patterns: Facade](https://dev.to/nv3212/design-patterns-facade-24p7)
+- [DDL vs DML in SQL](https://dev.to/lioneg/ddl-vs-dml-in-sql-2ooa)
 <!-- BLOG-POST-LIST:END -->
 
 
