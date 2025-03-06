@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 just dropped a major caching update, changing how data is handled compared to version 14. Instead of auto-caching everything, developers now have full control over what gets stored and](https://dev.to/hassan_rezaali_b64d94d40a/heres-a-short-explanation-in-english-for-your-repost-nextjs-15-just-dropped-a-major-2g3i)
-- [A little trick for &#39;Agentic Software Dev&#39;](https://dev.to/sebs/a-little-trick-for-agentic-software-dev-2clc)
-- [Unlocking Local AI Magic: DeepSeek and CodeGPT Empower Developers to Evolve Efficiently](https://dev.to/dheeraj-lee27/unlocking-local-ai-magic-deepseek-and-codegpt-empower-developers-to-evolve-efficiently-2bmn)
-- [LambdaTest vs. TestGrid: Which Cross-Browser Testing Platform Suits Your Needs?](https://dev.to/calderbughunter/lambdatest-vs-testgrid-which-cross-browser-testing-platform-suits-your-needs-bff)
+- [🤖 Comparing OpenAI GPT 4.5 and Claude 3.7 Sonnet on Coding 🚀](https://dev.to/shricodev/comparing-openai-gpt-45-and-claude-37-sonnet-on-coding-dj5)
+- [How to Set Up Nginx &amp; SSL for Your JavaScript App on Azure VM : A Beginner’s Guide](https://dev.to/kristarking/how-to-set-up-nginx-ssl-for-your-javascript-app-on-azure-vm-a-beginners-guide-19o4)
+- [Why you should build your next React website using Astro](https://dev.to/andrewbaisden/why-you-should-build-your-next-react-website-using-astro-152f)
+- [Are practical assessments more effective than coding tests in developer recruitment? Seeking your insights.](https://dev.to/smartnewbie/are-practical-assessments-more-effective-than-coding-tests-in-developer-recruitment-seeking-your-1m48)
 <!-- BLOG-POST-LIST:END -->
 
 
