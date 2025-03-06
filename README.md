@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Trump&#39;s NFT Collection and Open-Source Platforms: A New Frontier in Digital Innovation](https://dev.to/jennythomas498/navigating-trumps-nft-collection-and-open-source-platforms-a-new-frontier-in-digital-innovation-k4h)
+- [鸿蒙NEXT开发案例：舒尔特方格](https://dev.to/zhongcx/hong-meng-nextkai-fa-an-li-shu-er-te-fang-ge-4a1i)
 - [Introduction to Agile Framework](https://dev.to/madgan95/introduction-to-agile-framework-4p71)
-- [Fintech 2.0: The New Era of Financial Startups](https://dev.to/jetthoughts/fintech-20-the-new-era-of-financial-startups-e9e)
-- [Is PHP Front-End or Back-End?](https://dev.to/angelaswift/is-php-front-end-or-back-end-2hk4)
-- [[HELP] Looking for best practice in v-model binding a object](https://dev.to/xuyimingwork/help-looking-for-best-practice-in-v-model-binding-a-object-44l0)
+- [CSRF Issue in Postman with JWT Authentication](https://dev.to/khaled_abdelbar_43f8c0b1d/csrf-issue-in-postman-with-jwt-authentication-1117)
 <!-- BLOG-POST-LIST:END -->
 
 
