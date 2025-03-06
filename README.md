@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Scripts That Do Your Job](https://dev.to/resource_bunk_1077cab07da/python-scripts-that-do-your-job-4ocg)
-- [AI in Python APIs: Future Is Here](https://dev.to/snappytuts/ai-in-python-apis-future-is-here-3d37)
-- [Azul Intelligence Cloud Wins InfoWorld&#39;s 2024 DevOps Analytics Technology of the Year Award](https://dev.to/max_services/azul-intelligence-cloud-wins-infoworlds-2024-devops-analytics-technology-of-the-year-award-3nm4)
-- [Flutter congelando? Aprenda como resolver!](https://dev.to/rodrigorahman/flutter-congelando-aprenda-como-resolver-213o)
+- [[Boost]](https://dev.to/caprivu/-46cg)
+- [Domina la comunicación entre componentes en Angular: Guía completa](https://dev.to/cristian_arieta_7df932e5f/domina-la-comunicacion-entre-componentes-en-angular-guia-completa-13hd)
+- [Exploring AI Frameworks: A Deep Dive into Semantic Kernel and My Open Source Contributions](https://dev.to/shethaadit/exploring-ai-frameworks-a-deep-dive-into-semantic-kernel-and-my-open-source-contributions-1pdd)
+- [Dear Mom, Your Kid Has a Lot to Say- Again-](https://dev.to/himanshit/dear-mom-your-kid-has-a-lot-to-say-again--36pp)
 <!-- BLOG-POST-LIST:END -->
 
 
