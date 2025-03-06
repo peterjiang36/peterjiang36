@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon DocumentDB - Cheat Sheet](https://dev.to/datatechbridge/amazon-documentdb-cheat-sheet-4okh)
-- [Amazon Neptune - Cheat Sheet](https://dev.to/datatechbridge/amazon-neptune-cheat-sheet-11mj)
-- [From Monolith to Microservices: A Developer&#39;s Tale 🚀](https://dev.to/arjunhg/from-monolith-to-microservices-a-developers-tale-ma6)
-- [Amazon RDS - Cheat Sheet](https://dev.to/datatechbridge/amazon-rds-cheat-sheet-3n5c)
+- [5 GenAI Things You Didn&#39;t Know About Astra DB](https://dev.to/datastax/5-genai-things-you-didnt-know-about-astra-db-3am9)
+- [Outage Notification Templates: Building Trust Even During Downtime](https://dev.to/leotulii/outage-notification-templates-57jg)
+- [Understanding Stacking Ensemble Method: A Comprehensive Guide -PART IV](https://dev.to/sreeni5018/understanding-stacking-ensemble-method-a-comprehensive-guide-part-iv-1c29)
+- [1minDocker #14 - Deploy an AI app with Docker on cloud](https://dev.to/astrabert/1mindocker-14-deploy-an-ai-app-with-docker-on-cloud-h27)
 <!-- BLOG-POST-LIST:END -->
 
 
