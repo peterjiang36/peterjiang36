@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The art of creating an effective application security program: Strategies, Tips and Tools for the Best Results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-tools-for-the-3akm)
-- [Elevating Your IT Expertise With Software Testing Certification](https://dev.to/kara_masterson/elevating-your-it-expertise-with-software-testing-certification-3i9b)
-- [Making an effective Application Security program: Strategies, Tips, and Tooling for Optimal End-to-End Results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tooling-for-optimal-3ghg)
-- [Optimizing AWS EventBridge - Default vs. Custom Event Buses and Best Practices](https://dev.to/jajera/optimizing-aws-eventbridge-default-vs-custom-event-buses-and-best-practices-h2a)
+- [Design with Patterns: Elegant Data Mapping](https://dev.to/roman-vidayko/design-with-patterns-elegant-data-mapping-4b02)
+- [[#0] LifeMission - Introduction](https://dev.to/duzik/0-lifemission-introduction-2jk8)
+- [How to Create a Load Balancer in Azure](https://dev.to/ibrahimbioabu/how-to-create-a-load-balancer-in-azure-4hpc)
+- [The time I Realized I was No Longer an Impostor In the workplace](https://dev.to/andrew_moody_41/the-time-i-realized-i-was-no-longer-an-impostor-in-the-workplace-3lg0)
 <!-- BLOG-POST-LIST:END -->
 
 
