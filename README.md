@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The N+1 Query Problem: The Silent Performance Killer](https://dev.to/lovestaco/the-n1-query-problem-the-silent-performance-killer-2b1c)
-- [How Creators &amp; Small Businesses Can Automate Their YouTube Videos Using AI &amp; More](https://dev.to/nitinfab/how-creators-small-businesses-can-automate-their-youtube-videos-using-ai-more-13a8)
-- [How Containerization and Kubernetes Revolutionize Software Deployment Efficiency](https://dev.to/adityabhuyan/how-containerization-and-kubernetes-revolutionize-software-deployment-efficiency-45bd)
-- [How RBAC and ABAC Enhance Security and Compliance](https://dev.to/adityabhuyan/how-rbac-and-abac-enhance-security-and-compliance-4b66)
+- [Finding the Right Path as a Developer: Roadmaps vs. Reality](https://dev.to/matemiller/finding-the-right-path-as-a-developer-roadmaps-vs-reality-5c6b)
+- [⚙️ Mastering Lazy Loading in Angular: Boosting Performance and Efficiency](https://dev.to/artem_turlenko/mastering-lazy-loading-in-angular-boosting-performance-and-efficiency-1ghj)
+- [Making Your Express.js API Secure: Authentication Middleware &amp; Token Management](https://dev.to/m_disha_shetty/making-your-expressjs-api-secure-authentication-middleware-token-management-126o)
+- [I Tried This Tool for a Week and My Testing Productivity Exploded 🚀](https://dev.to/walse/i-tried-this-tool-for-a-week-and-my-testing-productivity-exploded-73a)
 <!-- BLOG-POST-LIST:END -->
 
 
