@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Nuxflare 0.2: UX improvements, better NuxtHub compatibility, custom domains, GitHub Actions support](https://dev.to/tanay/announcing-nuxflare-02-ux-improvements-better-nuxthub-compatibility-custom-domains-github-fi7)
-- [Handling Asynchronous Operations in Node.js](https://dev.to/yavuztuncil/handling-asynchronous-operations-in-nodejs-440j)
-- [Money and Time &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/money-and-time-bite-size-article-aan)
-- [Building Intelligent Agentic Applications with Amazon Bedrock and Nova](https://dev.to/aws-builders/building-intelligent-agentic-applications-with-amazon-bedrock-and-nova-3oif)
+- [The art of creating an effective application security program: Strategies, Tips and Tools for the Best Results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-tools-for-the-3akm)
+- [Elevating Your IT Expertise With Software Testing Certification](https://dev.to/kara_masterson/elevating-your-it-expertise-with-software-testing-certification-3i9b)
+- [Making an effective Application Security program: Strategies, Tips, and Tooling for Optimal End-to-End Results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-tips-and-tooling-for-optimal-3ghg)
+- [Optimizing AWS EventBridge - Default vs. Custom Event Buses and Best Practices](https://dev.to/jajera/optimizing-aws-eventbridge-default-vs-custom-event-buses-and-best-practices-h2a)
 <!-- BLOG-POST-LIST:END -->
 
 
