@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Right Path as a Developer: Roadmaps vs. Reality](https://dev.to/matemiller/finding-the-right-path-as-a-developer-roadmaps-vs-reality-5c6b)
-- [⚙️ Mastering Lazy Loading in Angular: Boosting Performance and Efficiency](https://dev.to/artem_turlenko/mastering-lazy-loading-in-angular-boosting-performance-and-efficiency-1ghj)
-- [Making Your Express.js API Secure: Authentication Middleware &amp; Token Management](https://dev.to/m_disha_shetty/making-your-expressjs-api-secure-authentication-middleware-token-management-126o)
-- [I Tried This Tool for a Week and My Testing Productivity Exploded 🚀](https://dev.to/walse/i-tried-this-tool-for-a-week-and-my-testing-productivity-exploded-73a)
+- [Explaining virtual reality to a five year old](https://dev.to/odejayi_estheraduraponmi/explaining-virtual-reality-to-a-five-year-old-2dao)
+- [Is AWS or OVHCloud the Best Cost-Effective Choice?](https://dev.to/linhgumiho/is-aws-or-ovhcloud-the-best-cost-effective-choice-3hbl)
+- [Try out the free features of GISBox! A beginner&#39;s guide to using it](https://dev.to/gisbox/try-out-the-free-features-of-gisbox-a-beginners-guide-to-using-it-2oah)
+- [Introducing Stunk — A Minimalist, Reactive State Management Library.](https://dev.to/iamabdulazeez/introducing-stunk-a-minimalist-reactive-state-management-library-23f8)
 <!-- BLOG-POST-LIST:END -->
 
 
