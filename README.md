@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining virtual reality to a five year old](https://dev.to/odejayi_estheraduraponmi/explaining-virtual-reality-to-a-five-year-old-2dao)
-- [Is AWS or OVHCloud the Best Cost-Effective Choice?](https://dev.to/linhgumiho/is-aws-or-ovhcloud-the-best-cost-effective-choice-3hbl)
-- [Try out the free features of GISBox! A beginner&#39;s guide to using it](https://dev.to/gisbox/try-out-the-free-features-of-gisbox-a-beginners-guide-to-using-it-2oah)
-- [Introducing Stunk — A Minimalist, Reactive State Management Library.](https://dev.to/iamabdulazeez/introducing-stunk-a-minimalist-reactive-state-management-library-23f8)
+- [Moving Target Detection Based on FPGA](https://dev.to/carolineee/moving-target-detection-based-on-fpga-c6h)
+- [TDengine Achieves 10x Compression vs. Elasticsearch for Smart Vehicle Solution Provider](https://dev.to/rebecca_tao_651f5198fd9ea/tdengine-achieves-10x-compression-vs-elasticsearch-for-smart-vehicle-solution-provider-1lkd)
+- [Building a REST API with Express and MongoDB](https://dev.to/kathir_b_7a1a5642d3c42779/building-a-rest-api-with-express-and-mongodb-2lp)
+- [Getting Started with Docker: A Beginner&#39;s Guide](https://dev.to/kathir_b_7a1a5642d3c42779/getting-started-with-docker-a-beginners-guide-1136)
 <!-- BLOG-POST-LIST:END -->
 
 
