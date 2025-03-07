@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 07 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-07-march-30lk)
-- [Best Practices For Using Accessibility Testing Tools](https://dev.to/keploy/best-practices-for-using-accessibility-testing-tools-10lk)
-- [GooglePlacesLib](https://dev.to/shivam_tailor/googleplaceslib-2md1)
-- [Get a list of endpoints in your NestJS app](https://dev.to/kasir-barati/get-a-list-of-endpoints-in-your-nestjs-app-2gfd)
+- [How to Integrate anyIPSDK in Your Swift App in Just 15 Minutes](https://dev.to/richiemuller/how-to-integrate-anyipsdk-in-your-swift-app-in-just-15-minutes-3jha)
+- [🚀 Aprimoramentos no Modificador params no C# 13](https://dev.to/develop4us/aprimoramentos-no-modificador-params-no-c-13-13eb)
+- [7 Key CORS Terms Every Developer Should Know](https://dev.to/reynaldi/7-key-cors-terms-every-developer-should-know-elf)
+- [This Week In React #224: Next.js, TanStack Form, Astro, RTK, State Machine, Remix, StyleX | Lynx, Nitro, BetterAuth](https://dev.to/sebastienlorber/this-week-in-react-224-nextjs-tanstack-form-astro-rtk-state-machine-remix-stylex-lynx-12p0)
 <!-- BLOG-POST-LIST:END -->
 
 
