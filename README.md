@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Feedback Loops Matter in API Development](https://dev.to/zuplo/why-feedback-loops-matter-in-api-development-1ljc)
-- [5 Must-Have Features for API Documentation Tools](https://dev.to/zuplo/5-must-have-features-for-api-documentation-tools-1fpb)
-- [Mastering API Throughput: 8 Key Strategies for Optimal Performance](https://dev.to/zuplo/mastering-api-throughput-8-key-strategies-for-optimal-performance-3f6o)
-- [5 Key Tips for Enhancing API Security Against DDoS Attacks](https://dev.to/zuplo/5-key-tips-for-enhancing-api-security-against-ddos-attacks-5e7o)
+- [🚀 Celebrating the WeCoded Challenge with Code! 🎉](https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi)
+- [Warehouse Woes](https://dev.to/rmion/warehouse-woes-41i0)
+- [Synchronizing Java Collections for Thread Safety: A Complete Guide](https://dev.to/devcorner/synchronizing-java-collections-for-thread-safety-a-complete-guide-4f8p)
+- [# 🌗 How to Add Theme Switching with MobX in React](https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h)
 <!-- BLOG-POST-LIST:END -->
 
 
