@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 HTML Tricks Every Developer Should Know](https://dev.to/vishnusatheesh/top-5-html-tricks-every-developer-should-know-19lh)
-- [How to Create an HTTPS Proxy Like Burp Suite](https://dev.to/abdelfetah/how-to-create-an-https-proxy-like-burp-suite-1khm)
-- [What Are the Top Seo Tools for Keyword Research in 2025?](https://dev.to/cristianalex_17/what-are-the-top-seo-tools-for-keyword-research-in-2025-23i3)
-- [Common Pitfalls That Can Make Your AWS Cloud Bill Balloon](https://dev.to/aws-builders/common-pitfalls-that-can-make-your-aws-cloud-bill-balloon-o61)
+- [Mastering Advanced Routing and Load Balancing with YARP: Strategies, Code, and Best Practices](https://dev.to/leandroveiga/mastering-advanced-routing-and-load-balancing-with-yarp-strategies-code-and-best-practices-5ddh)
+- [Creating a solution from the CLI](https://dev.to/tallesl/creating-a-solution-from-the-cli-57o3)
+- [How to Deploy Your Resume using an Azure Web App via the Azure Portal](https://dev.to/ibrahimbioabu/how-to-deploy-your-resume-using-an-azure-web-app-via-azure-portal-352o)
+- [How Legal Betrayal Erased My Startup Legacy and Why Co-Founders Must Beware &lpar;Jikku Jose Storybrain-The Scammer&rpar;@jikkujose](https://dev.to/dunkirk_33ae8fd47f9d23fa1/how-legal-betrayal-erased-my-startup-legacy-and-why-co-founders-must-beware-4ni6)
 <!-- BLOG-POST-LIST:END -->
 
 
