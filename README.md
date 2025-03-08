@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching an Amazon EC2 Instance: A Strategic Deep Dive for Decision-Makers](https://dev.to/yugjadvani/launching-an-amazon-ec2-instance-a-strategic-deep-dive-for-decision-makers-15fh)
-- [What Is Split For Heat In Amazon DynamoDB?](https://dev.to/urielbitton/what-is-split-for-heat-in-amazon-dynamodb-bm8)
-- [Automating Version Updates in Node.js with Git Hooks](https://dev.to/lebed2045/automating-version-updates-in-nodejs-with-git-hooks-5dfa)
-- [Daily JavaScript Challenge #JS-120: Calculate the Fibonacci Sequence Up to N Terms](https://dev.to/dpc/daily-javascript-challenge-js-120-calculate-the-fibonacci-sequence-up-to-n-terms-2ni2)
+- [Why Feedback Loops Matter in API Development](https://dev.to/zuplo/why-feedback-loops-matter-in-api-development-1ljc)
+- [5 Must-Have Features for API Documentation Tools](https://dev.to/zuplo/5-must-have-features-for-api-documentation-tools-1fpb)
+- [Mastering API Throughput: 8 Key Strategies for Optimal Performance](https://dev.to/zuplo/mastering-api-throughput-8-key-strategies-for-optimal-performance-3f6o)
+- [5 Key Tips for Enhancing API Security Against DDoS Attacks](https://dev.to/zuplo/5-key-tips-for-enhancing-api-security-against-ddos-attacks-5e7o)
 <!-- BLOG-POST-LIST:END -->
 
 
