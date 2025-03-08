@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Install olmOCR: The Best Open-Source OCR Toolkit for Document Parsing](https://dev.to/nodeshiftcloud/install-olmocr-the-best-open-source-ocr-toolkit-for-document-parsing-npn)
-- [7 Must-Have Features in a POS System for Retail Shops](https://dev.to/bhavesh_gangani_/7-must-have-features-in-a-pos-system-for-retail-shops-3i4e)
-- [Installing Jekins](https://dev.to/mallikarjuna/installing-jekins-493j)
-- [What I Wish I Knew Before Learning Frontend Development](https://dev.to/rowsanali/what-i-wish-i-knew-before-learning-frontend-development-kl5)
+- [Funding a new tech project / find a company investor](https://dev.to/jackie-d/funding-a-new-tech-project-find-a-company-investor-5bmf)
+- [Are you really treating redis as cache storage ?](https://dev.to/mdnurahmed/are-you-really-treating-redis-as-cache-storage--43e3)
+- [100 Essential Nmap Commands for Network Scanning](https://dev.to/kumar_kusumitsharma_b190/100-essential-nmap-commands-for-network-scanning-3fcp)
+- [Secure Web Authentication in 2023: Balancing Security and User Experience](https://dev.to/aaravjoshi/secure-web-authentication-in-2023-balancing-security-and-user-experience-3mn6)
 <!-- BLOG-POST-LIST:END -->
 
 
