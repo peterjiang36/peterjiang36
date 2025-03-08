@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Introduction and Basics of WebGPU](https://dev.to/dev-dhanushkumar/part-1-introduction-and-basics-of-webgpu-46i0)
-- [Small and Little Things: Removing Substrings from Arrays in Ruby](https://dev.to/gsgermanok/small-and-little-things-removing-substrings-from-arrays-in-ruby-4j6l)
-- [Git Commands](https://dev.to/gadeprarthana/git-commands-46j1)
-- [Women&#39;s Day](https://dev.to/maheswaripinneti/womens-day-1lml)
+- [Diet plan to reduce body fat](https://dev.to/rakeshreddy512/diet-plan-to-reduce-body-fat-403j)
+- [How To Do HTTP Request In JavaScript](https://dev.to/theudemezue/how-to-do-http-request-in-javascript-3mni)
+- [How To Generate Random Numbers In JavaScript](https://dev.to/theudemezue/how-to-generate-random-numbers-in-javascript-6ae)
+- [How To Use Local Storage In JavaScript](https://dev.to/theudemezue/how-to-use-local-storage-in-javascript-1c0m)
 <!-- BLOG-POST-LIST:END -->
 
 
