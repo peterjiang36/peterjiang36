@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A utility for automatically generating files that follow the Next.js App Router structure based on folder name patterns.](https://dev.to/myjeong19/do-you-konw-notionpresso-29hc)
-- [Unlocking the Secret to 90% Smaller Logs: How Flowgger Transforms Your Logging Strategy](https://dev.to/solothought/unlocking-the-secret-to-90-smaller-logs-how-flowgger-transforms-your-logging-strategy-3kfi)
-- [Step-by-Step Guide: Setting Up MCP Locally with LLMs Using TypeScript](https://dev.to/balajikandavel/step-by-step-guide-setting-up-mcp-locally-with-llms-using-typescript-64e)
-- [My New Journey Starts Today](https://dev.to/tomomomomomomomo/my-new-journey-starts-today-3jdp)
+- [Introduction to Jotai: Simple and Powerful State Management in React](https://dev.to/ali_reza_sadeghi_/introduction-to-jotai-simple-and-powerful-state-management-in-react-39d4)
+- [Shortcut Keys of Computer Keyboard for Faster Work](https://dev.to/ibrahim_azhar_45e1330850c/shortcut-keys-of-computer-keyboard-for-faster-work-3bhh)
+- [Master These 7 JavaScript Array Functions and Instantly Level Up — PART 1](https://dev.to/ganesh_gurav/master-these-7-javascript-array-functions-and-instantly-level-up-part-1-44eo)
+- [Aggressive Inline in .NET: Boosting Performance or Over-Optimization?](https://dev.to/ahmedmohamedhussein/aggressive-inline-in-net-boosting-performance-or-over-optimization-6lh)
 <!-- BLOG-POST-LIST:END -->
 
 
