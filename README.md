@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Breakthrough: New Self-Teaching Model Masters PhD Science and Math Using Simple Tools](https://dev.to/mikeyoung44/ai-breakthrough-new-self-teaching-model-masters-phd-science-and-math-using-simple-tools-3doo)
-- [Advanced Linux Commands Every DevOps Engineer Must Know](https://dev.to/kristarking/advanced-linux-commands-every-devops-engineer-must-know-50f5)
-- [Cracker](https://dev.to/codewizard123/cracker-16nh)
-- [K3N4NPROEDİTOR](https://dev.to/kenan_canyreq_6da3350f12/k3n4nproeditor-4d0h)
+- [A utility for automatically generating files that follow the Next.js App Router structure based on folder name patterns.](https://dev.to/myjeong19/do-you-konw-notionpresso-29hc)
+- [Unlocking the Secret to 90% Smaller Logs: How Flowgger Transforms Your Logging Strategy](https://dev.to/solothought/unlocking-the-secret-to-90-smaller-logs-how-flowgger-transforms-your-logging-strategy-3kfi)
+- [Step-by-Step Guide: Setting Up MCP Locally with LLMs Using TypeScript](https://dev.to/balajikandavel/step-by-step-guide-setting-up-mcp-locally-with-llms-using-typescript-64e)
+- [My New Journey Starts Today](https://dev.to/tomomomomomomomo/my-new-journey-starts-today-3jdp)
 <!-- BLOG-POST-LIST:END -->
 
 
