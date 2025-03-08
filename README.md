@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HANDS ON GUIDE TO AWS ROLE AND PERMISSIONS &lpar;STS ASSUME ROLE&rpar;](https://dev.to/josephhonpah/hands-on-guide-to-aws-role-and-permissions-sts-assume-role-3k0g)
-- [AWS SECURITY MEASURES TO PUT IN PLACE.](https://dev.to/josephhonpah/aws-security-measures-to-put-in-place-5lf)
-- [I Built a Smart Bookmark Extension](https://dev.to/i_am_ziike/i-built-a-smart-bookmark-extension-1208)
-- [AWK Basics Tutorial](https://dev.to/leapcell/awk-basics-tutorial-4fe3)
+- [External Versioning in GCC: Defining Project Versions Without Modifying Source Code](https://dev.to/pcmagas/quicktip-how-to-define-version-your-project-written-in-c-4o8c)
+- [Dynamic routes in Next](https://dev.to/udit_saurabh_86a790171b67/dynamic-routes-in-next-5e84)
+- [What is Financial Spreading? How SimplAI’s Agentic AI Makes It Seamless](https://dev.to/simplai/what-is-financial-spreading-how-simplais-agentic-ai-makes-it-seamless-2h9c)
+- [[Boost]](https://dev.to/dt_yo0x9/-1f2h)
 <!-- BLOG-POST-LIST:END -->
 
 
