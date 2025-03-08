@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried 20+ No-Code Web Scraping Tools to Make Money - These 3 Are the Absolute Best](https://dev.to/nitinfab/i-tried-20-no-code-web-scraping-tools-to-make-money-these-3-are-the-absolute-best-4op4)
-- [#wecode Landing Page - WeCoded Challenge March 2025](https://dev.to/deathcrafter/wecode-landing-page-wecoded-challenge-march-2025-nci)
-- [Debugging taking forever? From unclear bug reports to hidden dependencies, find out why debugging slows you down &amp; how to fix it faster! 🚀 Read the full blog for expert tips &amp; smarter debugging strategies. #debugging #developersproblems](https://dev.to/pratham_naik_project_manager/debugging-taking-forever-from-unclear-bug-reports-to-hidden-dependencies-find-out-why-debugging-1b4b)
-- [When you do custom option on the form, you need set &quot;status: :see_other&quot; on controller response](https://dev.to/madaarya/when-you-do-custom-option-on-the-form-you-need-set-status-seeother-on-controller-response-mo)
+- [Top Front-End Development Interview Questions Commonly Asked by Mid-Sized Companies and FAANG](https://dev.to/er-raj-aryan/top-front-end-development-interview-questions-commonly-asked-by-mid-sized-companies-and-faang-dn7)
+- [Understanding Runlevels in Linux: A Complete Guide](https://dev.to/vachhanirishi/understanding-runlevels-in-linux-a-complete-guide-2pbp)
+- [The Future of Coding: How AI-Powered IDEs Are Revolutionizing Development 🚀](https://dev.to/asim786521/the-future-of-coding-how-ai-powered-ides-are-revolutionizing-development-1k0p)
+- [Running a Full Bitgesell Node on Raspberry Pi &lpar;5/ 4 Model B&rpar;](https://dev.to/naftalimurgor/running-a-full-bitgesell-node-on-raspberry-pi-5-4-model-b-4536)
 <!-- BLOG-POST-LIST:END -->
 
 
