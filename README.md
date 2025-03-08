@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Advanced Routing and Load Balancing with YARP: Strategies, Code, and Best Practices](https://dev.to/leandroveiga/mastering-advanced-routing-and-load-balancing-with-yarp-strategies-code-and-best-practices-5ddh)
-- [Creating a solution from the CLI](https://dev.to/tallesl/creating-a-solution-from-the-cli-57o3)
-- [How to Deploy Your Resume using an Azure Web App via the Azure Portal](https://dev.to/ibrahimbioabu/how-to-deploy-your-resume-using-an-azure-web-app-via-azure-portal-352o)
-- [How Legal Betrayal Erased My Startup Legacy and Why Co-Founders Must Beware &lpar;Jikku Jose Storybrain-The Scammer&rpar;@jikkujose](https://dev.to/dunkirk_33ae8fd47f9d23fa1/how-legal-betrayal-erased-my-startup-legacy-and-why-co-founders-must-beware-4ni6)
+- [[Boost]](https://dev.to/bierdok/-1dg3)
+- [Simplify your environment variable management](https://dev.to/baptiste_parmantier/simplify-your-environment-variable-management-49k7)
+- [RAG Toolkit: A Powerful Text Chunking and Retrieval-Augmented Generation System](https://dev.to/mtalhazulf/rag-toolkit-a-powerful-text-chunking-and-retrieval-augmented-generation-system-51mj)
+- [How to free up space on your Mac&#39;s ssd &lpar;256GB&rpar;](https://dev.to/oler/how-to-free-up-space-on-your-macs-ssd-256gb-1d1d)
 <!-- BLOG-POST-LIST:END -->
 
 
