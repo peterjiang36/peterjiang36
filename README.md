@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diet plan to reduce body fat](https://dev.to/rakeshreddy512/diet-plan-to-reduce-body-fat-403j)
-- [How To Do HTTP Request In JavaScript](https://dev.to/theudemezue/how-to-do-http-request-in-javascript-3mni)
-- [How To Generate Random Numbers In JavaScript](https://dev.to/theudemezue/how-to-generate-random-numbers-in-javascript-6ae)
-- [How To Use Local Storage In JavaScript](https://dev.to/theudemezue/how-to-use-local-storage-in-javascript-1c0m)
+- [Python Decorators: How They Work and How to Write One](https://dev.to/ariabramowitz/python-decorators-how-they-work-and-how-to-write-one-1dig)
+- [The Enigma of LIQU3D: Decoding Kenya’s Cybersecurity Prodigy &lpar;2025&rpar;](https://dev.to/4n0nus3r/the-enigma-of-liqu3d-decoding-kenyas-cybersecurity-prodigy-2025-36oi)
+- [Ada Lovelace: The Visionary Mathematician](https://dev.to/balagmadhu/ada-lovelace-the-visionary-mathematician-4nd5)
+- [Designing Your Go-To Friend Hangout Organizer 👥 - Starting ‘WhereNow’ 📍](https://dev.to/rtambunt/designing-your-go-to-friend-hangout-organizer-starting-wherenow-4bao)
 <!-- BLOG-POST-LIST:END -->
 
 
