@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Push-based CLI Workflow on MacOS](https://dev.to/zhu424/push-based-cli-workflow-on-macos-1g76)
-- [How Does Database Management Improve Data Security?](https://dev.to/cristianalex_17/how-does-database-management-improve-data-security-5aoj)
-- [Flowers](https://dev.to/abhishek_singh_764613a66e/flowers-4cn6)
-- [What Are the Key Differences Between Postgresql and Mysql?](https://dev.to/nigelsilonero/what-are-the-key-differences-between-postgresql-and-mysql-41od)
+- [I Tried 20+ No-Code Web Scraping Tools to Make Money - These 3 Are the Absolute Best](https://dev.to/nitinfab/i-tried-20-no-code-web-scraping-tools-to-make-money-these-3-are-the-absolute-best-4op4)
+- [#wecode Landing Page - WeCoded Challenge March 2025](https://dev.to/deathcrafter/wecode-landing-page-wecoded-challenge-march-2025-nci)
+- [Debugging taking forever? From unclear bug reports to hidden dependencies, find out why debugging slows you down &amp; how to fix it faster! 🚀 Read the full blog for expert tips &amp; smarter debugging strategies. #debugging #developersproblems](https://dev.to/pratham_naik_project_manager/debugging-taking-forever-from-unclear-bug-reports-to-hidden-dependencies-find-out-why-debugging-1b4b)
+- [When you do custom option on the form, you need set &quot;status: :see_other&quot; on controller response](https://dev.to/madaarya/when-you-do-custom-option-on-the-form-you-need-set-status-seeother-on-controller-response-mo)
 <!-- BLOG-POST-LIST:END -->
 
 
