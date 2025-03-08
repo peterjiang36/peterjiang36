@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#32 PHP Server Tools for your file management needs on the server](https://dev.to/flnzba/32-php-server-tools-for-your-file-management-needs-on-the-server-55fp)
-- [Route Declaration Order: Laravel&#39;s Hidden Routing Rule](https://dev.to/dosenngoding/route-declaration-order-laravels-hidden-routing-rule-o4a)
-- [10 DevOps Hacks Every Freelancer Needs to Deliver Client Projects Faster](https://dev.to/kuberns_cloud/10-devops-hacks-every-freelancer-needs-to-deliver-client-projects-faster-35g9)
-- [My Cloud Journey](https://dev.to/ntombizakhona/my-cloud-journey-go2)
+- [Install olmOCR: The Best Open-Source OCR Toolkit for Document Parsing](https://dev.to/nodeshiftcloud/install-olmocr-the-best-open-source-ocr-toolkit-for-document-parsing-npn)
+- [7 Must-Have Features in a POS System for Retail Shops](https://dev.to/bhavesh_gangani_/7-must-have-features-in-a-pos-system-for-retail-shops-3i4e)
+- [Installing Jekins](https://dev.to/mallikarjuna/installing-jekins-493j)
+- [What I Wish I Knew Before Learning Frontend Development](https://dev.to/rowsanali/what-i-wish-i-knew-before-learning-frontend-development-kl5)
 <!-- BLOG-POST-LIST:END -->
 
 
