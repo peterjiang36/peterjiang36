@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design with Patterns: Elegant Data Mapping](https://dev.to/roman-vidayko/design-with-patterns-elegant-data-mapping-4b02)
-- [[#0] LifeMission - Introduction](https://dev.to/duzik/0-lifemission-introduction-2jk8)
-- [How to Create a Load Balancer in Azure](https://dev.to/ibrahimbioabu/how-to-create-a-load-balancer-in-azure-4hpc)
-- [The time I Realized I was No Longer an Impostor In the workplace](https://dev.to/andrew_moody_41/the-time-i-realized-i-was-no-longer-an-impostor-in-the-workplace-3lg0)
+- [Launching an Amazon EC2 Instance: A Strategic Deep Dive for Decision-Makers](https://dev.to/yugjadvani/launching-an-amazon-ec2-instance-a-strategic-deep-dive-for-decision-makers-15fh)
+- [What Is Split For Heat In Amazon DynamoDB?](https://dev.to/urielbitton/what-is-split-for-heat-in-amazon-dynamodb-bm8)
+- [Automating Version Updates in Node.js with Git Hooks](https://dev.to/lebed2045/automating-version-updates-in-nodejs-with-git-hooks-5dfa)
+- [Daily JavaScript Challenge #JS-120: Calculate the Fibonacci Sequence Up to N Terms](https://dev.to/dpc/daily-javascript-challenge-js-120-calculate-the-fibonacci-sequence-up-to-n-terms-2ni2)
 <!-- BLOG-POST-LIST:END -->
 
 
