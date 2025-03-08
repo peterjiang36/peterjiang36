@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Celebrating the WeCoded Challenge with Code! 🎉](https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi)
-- [Warehouse Woes](https://dev.to/rmion/warehouse-woes-41i0)
-- [Synchronizing Java Collections for Thread Safety: A Complete Guide](https://dev.to/devcorner/synchronizing-java-collections-for-thread-safety-a-complete-guide-4f8p)
-- [# 🌗 How to Add Theme Switching with MobX in React](https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h)
+- [Push-based CLI Workflow on MacOS](https://dev.to/zhu424/push-based-cli-workflow-on-macos-1g76)
+- [How Does Database Management Improve Data Security?](https://dev.to/cristianalex_17/how-does-database-management-improve-data-security-5aoj)
+- [Flowers](https://dev.to/abhishek_singh_764613a66e/flowers-4cn6)
+- [What Are the Key Differences Between Postgresql and Mysql?](https://dev.to/nigelsilonero/what-are-the-key-differences-between-postgresql-and-mysql-41od)
 <!-- BLOG-POST-LIST:END -->
 
 
