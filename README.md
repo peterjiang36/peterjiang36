@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Funding a new tech project / find a company investor](https://dev.to/jackie-d/funding-a-new-tech-project-find-a-company-investor-5bmf)
-- [Are you really treating redis as cache storage ?](https://dev.to/mdnurahmed/are-you-really-treating-redis-as-cache-storage--43e3)
-- [100 Essential Nmap Commands for Network Scanning](https://dev.to/kumar_kusumitsharma_b190/100-essential-nmap-commands-for-network-scanning-3fcp)
-- [Secure Web Authentication in 2023: Balancing Security and User Experience](https://dev.to/aaravjoshi/secure-web-authentication-in-2023-balancing-security-and-user-experience-3mn6)
+- [🐰 Kafka и Spring: Почтовый голубь против почтовой службы 🌸](https://dev.to/easycat/kafka-i-spring-pochtovyi-gholub-protiv-pochtovoi-sluzhby-5e4e)
+- [Kali Linux](https://dev.to/blade_afc19585650ffbe0c68/kali-linux-42i3)
+- [Kubectl Demystified: Mastering the `kubectl create` Command](https://dev.to/naveens16/kubectl-demystified-mastering-the-kubectl-create-command-2nma)
+- [What is in silico cloning of disease genes?](https://dev.to/lisw05/what-is-in-silico-cloning-of-disease-genes-592k)
 <!-- BLOG-POST-LIST:END -->
 
 
