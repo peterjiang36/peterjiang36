@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Example of @Async in Spring Boot for Beginners](https://dev.to/realnamehidden1_61/example-of-async-in-spring-boot-for-beginners-38kc)
-- [If You&#39;re Not Using These 7 AI Tools, You&#39;re Coding &quot;10X Slower&quot; for No Reason](https://dev.to/coderabbitai/if-youre-not-using-these-7-ai-tools-youre-coding-10x-slower-for-no-reason-3005)
-- [System Design resources for Interview Preparation](https://dev.to/rakeshreddy512/system-design-resources-for-interview-preparation-1ah0)
-- [My Journey Learning Object-Oriented Programming Through Java](https://dev.to/dahami_fabbio/my-journey-learning-object-oriented-programming-through-java-4fik)
+- [My First Steps in Go as a JavaScript Dev Moving to DevOps](https://dev.to/w3cdpass/my-first-steps-in-go-as-a-javascript-dev-moving-to-devops-281o)
+- [How To Write Unit Test Cases In React JS](https://dev.to/theudemezue/how-to-write-unit-test-cases-in-react-js-3idi)
+- [How To Work With API In React JS](https://dev.to/theudemezue/how-to-work-with-api-in-react-js-41ia)
+- [Tired of Switching Between Your Editor and Browser? This Changed My React Workflow](https://dev.to/wegin/tired-of-switching-between-your-editor-and-browser-this-changed-my-react-workflow-4ogb)
 <!-- BLOG-POST-LIST:END -->
 
 
