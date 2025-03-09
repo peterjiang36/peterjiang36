@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Vibe-Coded an App to Explore GitHub Topics and Trending Repositories](https://dev.to/justalternate/how-i-vibe-coded-an-app-to-explore-github-topics-and-trending-repositories-57hk)
-- [Tsonnet #12 - To negate or not to negate: adding unary operations](https://dev.to/bitmaybewise/tsonnet-12-to-negate-or-not-to-negate-adding-unary-operations-4931)
-- [Dockerfile:Python Env Setu](https://dev.to/seosiri/dockerfilepython-env-setu-494c)
-- [Understanding Altcoins in Blockchain: Litecoin &lpar;LTC&rpar; and Cardano &lpar;ADA&rpar;](https://dev.to/blessedtechnologist/understanding-altcoins-in-blockchain-litecoin-ltc-and-cardano-ada-2eo4)
+- [DevSecOps: Integrating Security into Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devsecops-integrating-security-into-your-cicd-pipeline-hj)
+- [Big O Notation Explained, why is it important?](https://dev.to/sidge/big-o-notation-explained-why-is-it-important-588p)
+- [Meniality The Best AI Productive Apps Finding Website](https://dev.to/flora_eve_cca287c4bb0173c/meniality-the-best-ai-productive-apps-finding-website-4oe6)
+- [My Journey with Deepseek R1 on NVIDIA Jetson Orin Nano Super using Docker and Ollama](https://dev.to/ajeetraina/my-journey-with-deepseek-r1-on-nvidia-jetson-orin-nano-super-using-docker-and-ollama-1k2m)
 <!-- BLOG-POST-LIST:END -->
 
 
