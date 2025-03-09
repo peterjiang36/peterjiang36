@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast vs. Slow Thinking: Designing UX for Both Brains](https://dev.to/rijultp/fast-vs-slow-thinking-designing-ux-for-both-brains-31gg)
-- [New Release: Free Email Signature Generator](https://dev.to/gbti/new-release-free-email-signature-generator-3e80)
-- [Maximizing Efficiency: The Ultimate Guide to In-House Software Development in 2025](https://dev.to/jetthoughts/maximizing-efficiency-the-ultimate-guide-to-in-house-software-development-in-2025-4an6)
-- [Rust Beginnings: Coding a Perceptron with Struggles and Hope](https://dev.to/tomomomomomomomo/rust-beginnings-coding-a-perceptron-with-struggles-and-hope-3mkn)
+- [Cybersecurity for Beginners: How to Secure Your Website from Hackers](https://dev.to/abibtechid/cybersecurity-for-beginners-how-to-secure-your-website-from-hackers-31nm)
+- [Why I&#39;m Building My Brand Before Launching My App 🚀🔥](https://dev.to/zartarcyber/why-im-building-my-brand-before-launching-my-app-4fa0)
+- [KEY CONCEPTS IN CLOUD COMPUTING](https://dev.to/chiamaka_nwoke/key-concepts-in-cloud-computing-5dj0)
+- [Run DeepSeek locally on BareMetal via K8s](https://dev.to/anas_alloush/run-deepseek-locally-on-baremetal-via-k8s-3ng9)
 <!-- BLOG-POST-LIST:END -->
 
 
