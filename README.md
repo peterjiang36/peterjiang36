@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a gene sequence from entrez using biopython?](https://dev.to/lisw05/how-to-get-a-gene-sequence-from-entrez-using-biopython-1c56)
-- [What Are the Most Common Sql Interview Questions for Beginners and How to Prepare for Them?](https://dev.to/anna_golubkova/what-are-the-most-common-sql-interview-questions-for-beginners-and-how-to-prepare-for-them-1hj9)
-- [Why You Need SOLID as a Developer](https://dev.to/peixotons/why-you-need-solid-as-a-developer-1fp5)
-- [🚀 How to Apply Think and Grow Rich Principles for Success in Development &amp; Tech 🚀](https://dev.to/wealthbuilder/how-to-apply-think-and-grow-rich-principles-for-success-in-development-tech-3nc4)
+- [Update &lpar;2025/03/09&rpar;: Added &quot;Other good points of Cline than Cursor&quot; section](https://dev.to/webdeveloperhyper/update-20250309-added-other-good-points-of-cline-than-cursor-section-5db0)
+- [Part 1 - Manage AWS infrastructure Easily with PromptOps: No IaC Needed](https://dev.to/mechcloud/part-1-manage-aws-infrastructure-easily-with-promptops-no-iac-needed-27g8)
+- [Bandwidth and Throughput: A Clear Comparison You Need to Know](https://dev.to/faizanfirdousi/bandwidth-vs-throughput-never-forget-the-difference-4li0)
+- [How to Join Multiple Tables Efficiently in an Oracle Query?](https://dev.to/nigelsilonero/how-to-join-multiple-tables-efficiently-in-an-oracle-query-35dj)
 <!-- BLOG-POST-LIST:END -->
 
 
