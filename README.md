@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Go as a JavaScript Dev Moving to DevOps](https://dev.to/w3cdpass/my-first-steps-in-go-as-a-javascript-dev-moving-to-devops-281o)
-- [How To Write Unit Test Cases In React JS](https://dev.to/theudemezue/how-to-write-unit-test-cases-in-react-js-3idi)
-- [How To Work With API In React JS](https://dev.to/theudemezue/how-to-work-with-api-in-react-js-41ia)
-- [Tired of Switching Between Your Editor and Browser? This Changed My React Workflow](https://dev.to/wegin/tired-of-switching-between-your-editor-and-browser-this-changed-my-react-workflow-4ogb)
+- [OAuth vs JWT: Which One Secures Your APIs Better?](https://dev.to/raajaryan/oauth-vs-jwt-which-one-secures-your-apis-better-3c35)
+- [Mastering Recursion: Think Like a Recursive Ninja! 🥷](https://dev.to/theyashsawarkar/mastering-recursion-think-like-a-recursive-ninja-2pm)
+- [First post](https://dev.to/lagiles07/first-post-586i)
+- [Top 10 Programming Languages that will Dominate Tech in 2025](https://dev.to/sharvin26/top-10-programming-languages-that-will-dominate-tech-in-2025-3ieo)
 <!-- BLOG-POST-LIST:END -->
 
 
