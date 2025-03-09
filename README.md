@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Member,Field,Property,Method,Constructor,Readonly](https://dev.to/mushtariy/memberfieldpropertymethodconstructorreadonly-18m1)
-- [IntelliJ의 댜양한 검색기능 - Find 부터 커스텀 inspection rule 까지](https://dev.to/kingori/intellijyi-dyayanghan-geomsaeggineung-find-buteo-keoseuteom-inspection-rule-ggaji-43o5)
-- [Members](https://dev.to/fazliddin7777/members-4oip)
-- [Built DRY components with signal and Directive Composition API in Angular](https://dev.to/railsstudent/built-dry-components-with-signal-and-directive-composition-api-in-angular-4j8l)
+- [The Tech Stack Behind My Side Projects &lpar;And Why I Stick to It&rpar;](https://dev.to/geiger01/the-tech-stack-behind-my-side-projects-and-why-i-stick-to-it-2bh9)
+- [[Boost]](https://dev.to/manojlingala/-3a0g)
+- [Orchestrating Financial Transactions with AWS Step Functions](https://dev.to/aws-builders/orchestrating-financial-transactions-with-aws-step-functions-3ilk)
+- [Members](https://dev.to/firdavs_mukhsimov_9f62550/members-4nng)
 <!-- BLOG-POST-LIST:END -->
 
 
