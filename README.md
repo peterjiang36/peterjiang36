@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Building AI-Powered Recommendation Engines at Scale](https://dev.to/kartikmehta8/building-ai-powered-recommendation-engines-at-scale-3ghl)
+- [Product-Based vs. Service-Based Companies: Key Differences and Examples](https://dev.to/tene/product-based-vs-service-based-companies-key-differences-and-examples-3hg0)
 - [[Boost]](https://dev.to/dream_life_f3f4a537a11874/-2m73)
 - [How to use pgpainless-core](https://dev.to/wennan_xu/how-to-use-pgpainless-core-2amn)
-- [HarmonyOS Next开发教程之地图定位](https://dev.to/youlanjihua/harmonyos-nextkai-fa-jiao-cheng-zhi-di-tu-ding-wei-47l9)
-- [Daily JavaScript Challenge #JS-121: Detect Consecutive Duplicates in a String](https://dev.to/dpc/daily-javascript-challenge-js-121-detect-consecutive-duplicates-in-a-string-d47)
 <!-- BLOG-POST-LIST:END -->
 
 
