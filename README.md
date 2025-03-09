@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth vs JWT: Which One Secures Your APIs Better?](https://dev.to/raajaryan/oauth-vs-jwt-which-one-secures-your-apis-better-3c35)
-- [Mastering Recursion: Think Like a Recursive Ninja! 🥷](https://dev.to/theyashsawarkar/mastering-recursion-think-like-a-recursive-ninja-2pm)
-- [First post](https://dev.to/lagiles07/first-post-586i)
-- [Top 10 Programming Languages that will Dominate Tech in 2025](https://dev.to/sharvin26/top-10-programming-languages-that-will-dominate-tech-in-2025-3ieo)
+- [How to Prevent Web Cache Deception Attacks in Laravel: A Complete Guide](https://dev.to/pentest_testing_corp/how-to-prevent-web-cache-deception-attacks-in-laravel-a-complete-guide-3c3n)
+- [The Future of ERP: Transforming Enterprise Software for the Digital Age](https://dev.to/truesuggest/the-future-of-erp-transforming-enterprise-software-for-the-digital-age-2m90)
+- [How to be Test Driven with Spark: Chapter 4 - Leaning into Property Based Testing](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-4-leaning-into-property-based-testing-2hln)
+- [Exploring Cursor: The AI Code Editor](https://dev.to/uiuxsatyam/exploring-cursor-the-ai-code-editor-5bbm)
 <!-- BLOG-POST-LIST:END -->
 
 
