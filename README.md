@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Easiest Way To Use Https In Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-3mgh)
-- [Understanding Spring Boot MVC](https://dev.to/ruturajj/understanding-spring-boot-mvc-2l99)
-- [Understanding While Loops in Python](https://dev.to/div1904/understanding-while-loops-in-python-2d3o)
-- [How to Implement Preferences DataStore for Compose Multiplatform Mobile &lpar;Android and iOS&rpar;](https://dev.to/rendyadidarma/how-to-implement-preferences-datastore-for-compose-multiplatform-mobile-android-and-ios-f8)
+- [Key Use Cases of RAG: From Chatbots to Research Assistants](https://dev.to/shaheryaryousaf/key-use-cases-of-rag-from-chatbots-to-research-assistants-356f)
+- [A Range of Choices](https://dev.to/preetha_vaishnavi_2b82358/a-range-of-choices-3k0n)
+- [Week 5: Decoding Market Structure—My Ultralearning Stock Market Journey](https://dev.to/premkumarv/week-5-decoding-market-structure-my-ultralearning-stock-market-journey-18cc)
+- [Building a Job Listing App with Remotive API: A Learning Experience](https://dev.to/himagaur2708/building-a-job-listing-app-with-remotive-api-a-learning-experience-357o)
 <!-- BLOG-POST-LIST:END -->
 
 
