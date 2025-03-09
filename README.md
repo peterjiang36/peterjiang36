@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Update &lpar;2025/03/09&rpar;: Added &quot;Other good points of Cline than Cursor&quot; section](https://dev.to/webdeveloperhyper/update-20250309-added-other-good-points-of-cline-than-cursor-section-5db0)
-- [Part 1 - Manage AWS infrastructure Easily with PromptOps: No IaC Needed](https://dev.to/mechcloud/part-1-manage-aws-infrastructure-easily-with-promptops-no-iac-needed-27g8)
-- [Bandwidth and Throughput: A Clear Comparison You Need to Know](https://dev.to/faizanfirdousi/bandwidth-vs-throughput-never-forget-the-difference-4li0)
-- [How to Join Multiple Tables Efficiently in an Oracle Query?](https://dev.to/nigelsilonero/how-to-join-multiple-tables-efficiently-in-an-oracle-query-35dj)
+- [Frontend interview question — Parallel task limit](https://dev.to/moniv9/frontend-interview-question-parallel-task-limit-118o)
+- [I made MCP &lpar;Model Context Protocol&rpar; alternative solution, for OpenAI and all other LLMs, that is cheaper than Anthropic Claude](https://dev.to/samchon/i-made-mcp-model-context-protocol-alternative-solution-for-openai-and-all-other-llms-that-is-i7f)
+- [5 commonly asked frontend interview questions in product-based companies](https://dev.to/moniv9/5-commonly-asked-frontend-interview-questions-in-product-based-companies-l2b)
+- [Professional Cloud Security Engineer Certification exam preparation 2025](https://dev.to/huydanggdg/professional-cloud-security-engineer-certification-exam-preparation-2025-4m9p)
 <!-- BLOG-POST-LIST:END -->
 
 
