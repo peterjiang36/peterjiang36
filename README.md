@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Linux Commands Every Beginner Should Know: Your Path to Linux Mastery](https://dev.to/faelperetta/10-essential-linux-commands-every-beginner-should-know-your-path-to-linux-mastery-35ol)
-- [Deepfake Video: A Developer’s Guide to Innovation and Detection](https://dev.to/neural_defend/deepfake-video-a-developers-guide-to-innovation-and-detection-30fe)
-- [The Brains Behind the Wheel: A Deep Dive into the Types of Computers Powering Modern Cars](https://dev.to/kumar_kusumitsharma_b190/title-the-brains-behind-the-wheel-a-deep-dive-into-the-types-of-computers-powering-modern-cars-jik)
-- [NestJS + AWS S3 + Multipart file upload + gRPC + e2e testing](https://dev.to/kasir-barati/nestjs-aws-s3-multipart-file-upload-grpc-e2e-testing-550e)
+- [The Easiest Way To Use Https In Localhost](https://dev.to/zeedu_dev/the-easiest-way-to-use-https-in-localhost-3mgh)
+- [Understanding Spring Boot MVC](https://dev.to/ruturajj/understanding-spring-boot-mvc-2l99)
+- [Understanding While Loops in Python](https://dev.to/div1904/understanding-while-loops-in-python-2d3o)
+- [How to Implement Preferences DataStore for Compose Multiplatform Mobile &lpar;Android and iOS&rpar;](https://dev.to/rendyadidarma/how-to-implement-preferences-datastore-for-compose-multiplatform-mobile-android-and-ios-f8)
 <!-- BLOG-POST-LIST:END -->
 
 
