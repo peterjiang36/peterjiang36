@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating things that really matter](https://dev.to/0x2e73/creating-things-that-really-matter-4i7g)
-- [SQL Normalization: Cleaning Up Your Data Like a Pro!](https://dev.to/lovestaco/sql-normalization-cleaning-up-your-data-like-a-pro-4ik3)
-- [[Boost]](https://dev.to/gq23401/-163f)
-- [Software OR Hardware Raid: What&#39;s Better In 2024?](https://dev.to/pltnvs/software-or-hardware-raid-whats-better-in-2024-2k36)
+- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
+- [Laravel API ডকুমেন্টেশন উইথ Swagger](https://dev.to/programmerhasan/laravel-api-ddkumentteshn-uith-swagger-iol)
+- [All Data and AI Weekly #180 - 10-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9)
+- [Building a Web Scraper for Link Validation: Part 2](https://dev.to/thelogicwarlock/building-a-web-scraper-for-link-validation-part-2-4i69)
 <!-- BLOG-POST-LIST:END -->
 
 
