@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Java Developers Should Choose Jakarta EE / Microprofile Framework](https://dev.to/theelitegentleman/why-java-developers-should-choose-jakarta-ee-microprofile-framework-2l2d)
-- [How to Build a Successful TikTok Matrix Account Strategy &lpar;Without Losing Your Mind&rpar;](https://dev.to/avaed/how-to-build-a-successful-tiktok-matrix-account-strategy-without-losing-your-mind-23in)
-- [Cronsmith - The Ultimate Cron Expression Generator &amp; Parser](https://dev.to/paganini2008/cronsmith-the-ultimate-cron-expression-generator-parser-5950)
-- [How to Set Up Drupal for My Website in 2025?](https://dev.to/nigelsilonero/how-to-set-up-drupal-for-my-website-in-2025-579m)
+- [How to Check if Email is Spam Online: Tools and Best Practices](https://dev.to/foxinfotech/how-to-check-if-email-is-spam-online-tools-and-best-practices-2n85)
+- [Calculate based on the records within the group and fill the result into the first record — From SQL to SPL #8](https://dev.to/judith677/calculate-based-on-the-records-within-the-group-and-fill-the-result-into-the-first-record-from-22p2)
+- [JSON: El Estándar Ligero para el Intercambio de Datos](https://dev.to/imatools/json-el-estandar-ligero-para-el-intercambio-de-datos-2231)
+- [The Best Browserling Alternative for Game Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-best-browserling-alternative-for-game-testing-2iba)
 <!-- BLOG-POST-LIST:END -->
 
 
