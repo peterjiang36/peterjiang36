@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Key Features of CoTester That Every QA Engineer Should Know](https://dev.to/ronika_kashyap/10-key-features-of-cotester-that-every-qa-engineer-should-know-1h98)
-- [How Much Does It Cost to Build an App Like YAZIO?](https://dev.to/declonelabs/how-much-does-it-cost-to-build-an-app-like-yazio-183k)
-- [How to Debug Socket.IO in A Minute?🚀](https://dev.to/apilover/how-to-debug-socketio-in-a-minute-48d2)
-- [PHAR Deserialization in Monolog 2.7](https://dev.to/blue_byte/phar-deserialization-in-monolog-27-3bpk)
+- [🚀 Quando uma struct pode ser armazenada no heap?](https://dev.to/develop4us/quando-uma-struct-pode-ser-armazenada-no-heap-21kb)
+- [Composant Checkbox avec RiotJS](https://dev.to/steeve/composant-checkbox-avec-riotjs-39m3)
+- [Building a Tax Calculator App: Costs, Key Features and Monetization Strategies](https://dev.to/bestech/building-a-tax-calculator-app-costs-key-features-and-monetization-strategies-3g10)
+- [Network Security Testing: The Ultimate Guide to Fortifying Your Digital Infrastructure](https://dev.to/anupriya/network-security-testing-the-ultimate-guide-to-fortifying-your-digital-infrastructure-2i38)
 <!-- BLOG-POST-LIST:END -->
 
 
