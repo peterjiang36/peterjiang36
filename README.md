@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
-- [Coinverter: A Simple Yet Powerful Currency Converter](https://dev.to/robsonmuniz16/coinverter-a-simple-yet-powerful-currency-converter-4gcg)
-- [The Python Underscore _](https://dev.to/mike-vincent/the-python-underscore--16ko)
-- [Understanding Tree Shaking in JavaScript: A Comprehensive Guide](https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86)
+- [Ledgers Open Source: Transformando Conceitos em Vantagem Competitiva](https://dev.to/lerian/ledgers-open-source-transformando-conceitos-em-vantagem-competitiva-3g8k)
+- [What are your Goals for the week? #117](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-117-3npb)
+- [Understanding HTTP/2 Parallel Requests: Streams vs Connections](https://dev.to/sibiraj/understanding-http2-parallel-requests-streams-vs-connections-3anf)
+- [🔐 𝗙𝗶𝘅𝗶𝗻𝗴 𝗟𝗼𝗴𝗶𝗻 𝗙𝗮𝗶𝗹𝘂𝗿𝗲 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗜𝗱𝗲𝗻𝘁𝗶𝘁𝘆: 𝗔 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲](https://dev.to/supraja_tangella_b7f0738e/--1ko1)
 <!-- BLOG-POST-LIST:END -->
 
 
