@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ledgers Open Source: Transformando Conceitos em Vantagem Competitiva](https://dev.to/lerian/ledgers-open-source-transformando-conceitos-em-vantagem-competitiva-3g8k)
-- [What are your Goals for the week? #117](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-117-3npb)
-- [Understanding HTTP/2 Parallel Requests: Streams vs Connections](https://dev.to/sibiraj/understanding-http2-parallel-requests-streams-vs-connections-3anf)
-- [🔐 𝗙𝗶𝘅𝗶𝗻𝗴 𝗟𝗼𝗴𝗶𝗻 𝗙𝗮𝗶𝗹𝘂𝗿𝗲 𝗶𝗻 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗜𝗱𝗲𝗻𝘁𝗶𝘁𝘆: 𝗔 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲](https://dev.to/supraja_tangella_b7f0738e/--1ko1)
+- [Amazon Bedrock Session Management APIs: Persistencia de Estado en Conversaciones de IA Generativa 🧠](https://dev.to/aws-builders/amazon-bedrock-session-management-apis-persistencia-de-estado-en-conversaciones-de-ia-generativa-ac4)
+- [Becoming a Frontend from Zero: A Step-by-Step Guide [PT-BR]](https://dev.to/odevbr/becoming-a-frontend-from-zero-a-step-by-step-guide-pt-br-2dj1)
+- [Meme Monday](https://dev.to/ben/meme-monday-3p2n)
+- [Setup Nginx reverse proxy and force redirect HTTP to HTTPS](https://dev.to/xinitd/setup-nginx-reverse-proxy-and-force-redirect-http-to-https-5bfg)
 <!-- BLOG-POST-LIST:END -->
 
 
