@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript is Slowing You Down](https://dev.to/0x3d_site/javascript-is-slowing-you-down-2oba)
-- [Laravel API ডকুমেন্টেশন উইথ Swagger](https://dev.to/programmerhasan/laravel-api-ddkumentteshn-uith-swagger-iol)
-- [All Data and AI Weekly #180 - 10-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9)
-- [Building a Web Scraper for Link Validation: Part 2](https://dev.to/thelogicwarlock/building-a-web-scraper-for-link-validation-part-2-4i69)
+- [Ng-News 25/10: Advanced Content Projection, Outlook 2025+](https://dev.to/this-is-angular/ng-news-2510-advanced-content-projection-outlook-2025-j49)
+- [Programming in C++ &lpar;SQLite Databases&rpar;](https://dev.to/markm208/sqlite-databases-6jn)
+- [Easing the start at a new company with glab or gh](https://dev.to/mikhailnefedov/easing-the-start-at-a-new-company-with-glab-or-gh-5b7m)
+- [⚠️ 9 frontend mistakes beginners often make](https://dev.to/codewithshahan/9-frontend-mistakes-beginners-often-make-5am6)
 <!-- BLOG-POST-LIST:END -->
 
 
