@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check if Email is Spam Online: Tools and Best Practices](https://dev.to/foxinfotech/how-to-check-if-email-is-spam-online-tools-and-best-practices-2n85)
-- [Calculate based on the records within the group and fill the result into the first record — From SQL to SPL #8](https://dev.to/judith677/calculate-based-on-the-records-within-the-group-and-fill-the-result-into-the-first-record-from-22p2)
-- [JSON: El Estándar Ligero para el Intercambio de Datos](https://dev.to/imatools/json-el-estandar-ligero-para-el-intercambio-de-datos-2231)
-- [The Best Browserling Alternative for Game Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/the-best-browserling-alternative-for-game-testing-2iba)
+- [Advent of Code #9 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-9-in-gleam-46l6)
+- [Clean code](https://dev.to/jojobinay/clean-code-3li4)
+- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 3](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-3-1b3)
+- [Lynx: Uma Nova Ferramenta para o Desenvolvimento de Aplicativos](https://dev.to/tadeumx1/lynx-uma-nova-ferramenta-para-o-desenvolvimento-de-aplicativos-1gm3)
 <!-- BLOG-POST-LIST:END -->
 
 
