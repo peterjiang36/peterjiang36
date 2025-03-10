@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comunidades de AWS: Aprende, conecta y crece con expertos](https://dev.to/briansuarezsantiago/comunidades-de-aws-aprende-conecta-y-crece-con-expertos-2o44)
-- [Quick Diff ME 1.1: MS Excel files comparison tool](https://dev.to/nabbisen/quick-diff-me-11-ms-excel-files-comparison-tool-37p9)
-- [OpenManus: An Autonomous Agent Platform](https://dev.to/foxgem/openmanus-an-autonomous-agent-platform-8nl)
-- [Untitled](https://dev.to/sscrow88/untitled-255h)
+- [How to Create and Manage Computed Observables in Knockout.js?](https://dev.to/jordankeurope/how-to-create-and-manage-computed-observables-in-knockoutjs-1jj7)
+- [AWS EventBridge Transforms: Making Alerts Readable](https://dev.to/aws-builders/aws-eventbridge-transforms-making-alerts-readable-1pb5)
+- [Empowering Developers to Achieve Microservices Observability on Kubernetes with Tracestore, OPA, Flagger &amp; Custom Metrics](https://dev.to/prabhu_chinnasamy_086fba6/empowering-developers-to-achieve-microservices-observability-on-kubernetes-with-tracestore-opa-4mba)
+- [Automating GitHub Code Check-Ins: A Bash Script Approach](https://dev.to/sebos/automating-github-code-check-ins-a-bash-script-approach-26if)
 <!-- BLOG-POST-LIST:END -->
 
 
