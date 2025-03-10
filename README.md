@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SPO600 - Project Stage 1: Gimple and Passes](https://dev.to/jpjpjp/spo600-project-stage-1-gimple-and-passes-5b2)
-- [🚀 Why I Built JourneySkill: Level Up Your Dev Skills with Challenges.](https://dev.to/ashraful__malik/why-i-built-journeyskill-level-up-your-dev-skills-with-challenges-11n5)
-- [Advent of Code #14 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-gleam-gm3)
-- [How to Properly Host a Vue.js App in a Subdirectory of public_html](https://dev.to/colebidex2483/how-to-properly-host-a-vuejs-app-in-a-subdirectory-of-publichtml-gm0)
+- [Neurolov.ai: Redefining AI Innovation with Decentralized Power](https://dev.to/neurolov_ai_/neurolovai-redefining-ai-innovation-with-decentralized-power-232p)
+- [ChatGPT vs. DeepSeek : Which is best?](https://dev.to/scarlettevans09/chatgpt-vs-deepseek-which-is-best-3475)
+- [Dario Schiraldi&#39;s Insights: How AI is Impacting the Travel Industry](https://dev.to/dario_schiraldi_99/dario-schiraldis-insights-how-ai-is-impacting-the-travel-industry-2l2l)
+- [DOGE’s GSAi AI Chatbot – Automating Government Workflows with Controversy](https://dev.to/wearetechi/doges-gsai-ai-chatbot-automating-government-workflows-with-controversy-4apg)
 <!-- BLOG-POST-LIST:END -->
 
 
