@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace Your SQL Interview with These Query Tips](https://dev.to/dbvismarketing/ace-your-sql-interview-with-these-query-tips-c50)
-- [SEO AI Technology Analysis: How Innovation Optimizes Google Rankings](https://dev.to/juddiy/seo-ai-technology-analysis-how-innovation-optimizes-google-rankings-ijp)
-- [Boosting Digital Freedom and Protection with IP Proxy](https://dev.to/swiftproxy_residential/boosting-digital-freedom-and-protection-with-ip-proxy-4h74)
-- [How Managed WordPress Hosting Can Simplify the Development Workflow and Boost Productivity](https://dev.to/rapyd_cloud/how-managed-wordpress-hosting-can-simplify-the-development-workflow-and-boost-productivity-2p7f)
+- [Lost in Transition: How to Downgrade to Tailwind CSS v3 in Next.js And React](https://dev.to/myogeshchavan97/lost-in-transition-how-to-downgrade-to-tailwind-css-v3-in-nextjs-and-react-9kl)
+- [Get the records after and before the searched one：SQL VS SPL #12](https://dev.to/esproc_spl/get-the-records-after-and-before-the-searched-onesql-vs-spl-12-3ij1)
+- [Can Human Vitamin B Harm Dogs? A Dangerous Misconception Explained](https://dev.to/topopet/can-human-vitamin-b-harm-dogs-a-dangerous-misconception-explained-fpo)
+- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-more-secure-3bpi)
 <!-- BLOG-POST-LIST:END -->
 
 
