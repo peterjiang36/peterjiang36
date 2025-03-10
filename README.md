@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lost in Transition: How to Downgrade to Tailwind CSS v3 in Next.js And React](https://dev.to/myogeshchavan97/lost-in-transition-how-to-downgrade-to-tailwind-css-v3-in-nextjs-and-react-9kl)
-- [Get the records after and before the searched one：SQL VS SPL #12](https://dev.to/esproc_spl/get-the-records-after-and-before-the-searched-onesql-vs-spl-12-3ij1)
-- [Can Human Vitamin B Harm Dogs? A Dangerous Misconception Explained](https://dev.to/topopet/can-human-vitamin-b-harm-dogs-a-dangerous-misconception-explained-fpo)
-- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-more-secure-3bpi)
+- [Pulumi Gestalt 0.0.1 released](https://dev.to/andrzejressel/pulumi-gestalt-001-released-4i8m)
+- [Flutter Offline Data Storage: Exploring Differents Solutions](https://dev.to/7oby/flutter-offline-data-storage-exploring-differents-solutions-25ma)
+- [While not officially one, I would definitely consider this a really great #frontendchallenge.](https://dev.to/jess/while-not-officially-one-i-would-definitely-consider-this-a-really-great-frontendchallenge-1448)
+- [Setting Up a Windows VM for Log Collection Using the ELK Stack - A Step-by-Step Guide](https://dev.to/suprimdevkota/setting-up-a-windows-vm-for-log-collection-using-the-elk-stack-a-step-by-step-guide-4hod)
 <!-- BLOG-POST-LIST:END -->
 
 
