@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Prompt Engineering](https://dev.to/thatsoftwaredude/a-beginners-guide-to-prompt-engineering-4hih)
-- [How I prepared for the ISTQB Advanced Test Automation Engineer Exam: Tips and Tricks](https://dev.to/iryna_k_d5aabe217736fefe7/how-i-prepared-for-the-istqb-advanced-test-automation-engineer-exam-tips-and-tricks-3emm)
-- [First time I saw Twitter broken](https://dev.to/seosiri/first-time-i-saw-twitter-broken-3g3d)
-- [Getting started with Google APIs: Service Accounts &lpar;Part 1&rpar;](https://dev.to/wescpy/getting-started-with-google-apis-service-accounts-part-1-2fi0)
+- [Creating things that really matter](https://dev.to/0x2e73/creating-things-that-really-matter-4i7g)
+- [SQL Normalization: Cleaning Up Your Data Like a Pro!](https://dev.to/lovestaco/sql-normalization-cleaning-up-your-data-like-a-pro-4ik3)
+- [[Boost]](https://dev.to/gq23401/-163f)
+- [Software OR Hardware Raid: What&#39;s Better In 2024?](https://dev.to/pltnvs/software-or-hardware-raid-whats-better-in-2024-2k36)
 <!-- BLOG-POST-LIST:END -->
 
 
