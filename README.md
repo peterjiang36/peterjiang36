@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft Game Server Hosting](https://dev.to/dare81/minecraft-game-server-hosting-16pl)
-- [could please you help me with c?](https://dev.to/far_han_23e5b3f6693104fcf/could-you-help-me-with-c-4com)
-- [Why I’m Learning C# and .NET After Two Decades of Programming](https://dev.to/kerricklong/why-im-learning-c-and-net-after-two-decades-of-programming-32nk)
-- [Spring Framework Ecosystem](https://dev.to/amdose/spring-framework-ecosystem-pbo)
+- [Comunidades de AWS: Aprende, conecta y crece con expertos](https://dev.to/briansuarezsantiago/comunidades-de-aws-aprende-conecta-y-crece-con-expertos-2o44)
+- [Quick Diff ME 1.1: MS Excel files comparison tool](https://dev.to/nabbisen/quick-diff-me-11-ms-excel-files-comparison-tool-37p9)
+- [OpenManus: An Autonomous Agent Platform](https://dev.to/foxgem/openmanus-an-autonomous-agent-platform-8nl)
+- [Untitled](https://dev.to/sscrow88/untitled-255h)
 <!-- BLOG-POST-LIST:END -->
 
 
