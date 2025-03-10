@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Quando uma struct pode ser armazenada no heap?](https://dev.to/develop4us/quando-uma-struct-pode-ser-armazenada-no-heap-21kb)
-- [Composant Checkbox avec RiotJS](https://dev.to/steeve/composant-checkbox-avec-riotjs-39m3)
-- [Building a Tax Calculator App: Costs, Key Features and Monetization Strategies](https://dev.to/bestech/building-a-tax-calculator-app-costs-key-features-and-monetization-strategies-3g10)
-- [Network Security Testing: The Ultimate Guide to Fortifying Your Digital Infrastructure](https://dev.to/anupriya/network-security-testing-the-ultimate-guide-to-fortifying-your-digital-infrastructure-2i38)
+- [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
+- [Coinverter: A Simple Yet Powerful Currency Converter](https://dev.to/robsonmuniz16/coinverter-a-simple-yet-powerful-currency-converter-4gcg)
+- [The Python Underscore _](https://dev.to/mike-vincent/the-python-underscore--16ko)
+- [Understanding Tree Shaking in JavaScript: A Comprehensive Guide](https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86)
 <!-- BLOG-POST-LIST:END -->
 
 
