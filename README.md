@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your custom npm template package](https://dev.to/donnierich/create-your-custom-npm-template-package-1ai5)
-- [Interface Segregation Principle &lpar;ISP&rpar; in SOLID &lpar;Simple C# Examples&rpar;](https://dev.to/mamun_akand/interface-segregation-principle-isp-in-solid-simple-c-examples-4kgk)
-- [The Merits of Creating a Waifubot Without Small Talk](https://dev.to/owly/the-merits-of-creating-a-waifubot-without-small-talk-5emp)
-- [What Are the Common Pitfalls to Avoid When Transitioning to Haskell From Other Programming Languages?](https://dev.to/nigelsilonero/what-are-the-common-pitfalls-to-avoid-when-transitioning-to-haskell-from-other-programming-3bbl)
+- [ProgrammerHumor.io - Wordpress to Elixir &lpar;Phoenix Liveview&rpar;](https://dev.to/prgrmmrhumor_io/programmerhumorio-wordpress-to-elixir-phoenix-liveview-344d)
+- [The Psychology Behind AI Conversations: Why We Connect with Virtual Beings](https://dev.to/william_cooksey/the-psychology-behind-ai-conversations-why-we-connect-with-virtual-beings-3j)
+- [Future of CSS: Select styling without the hacks](https://dev.to/link2twenty/future-of-css-select-styling-without-the-hacks-38c2)
+- [Business Process Modeling using No Code Tools](https://dev.to/vaseem_anjum_b1050bcfaffe/business-process-modeling-using-no-code-tools-2ig0)
 <!-- BLOG-POST-LIST:END -->
 
 
