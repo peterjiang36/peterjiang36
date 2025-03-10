@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code #9 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-9-in-gleam-46l6)
-- [Clean code](https://dev.to/jojobinay/clean-code-3li4)
-- [The Ultimate Guide to Programming Languages: Choosing the Right Tool for the Job - Part 3](https://dev.to/mohammad-reza-mahdiani/the-ultimate-guide-to-programming-languages-choosing-the-right-tool-for-the-job-part-3-1b3)
-- [Lynx: Uma Nova Ferramenta para o Desenvolvimento de Aplicativos](https://dev.to/tadeumx1/lynx-uma-nova-ferramenta-para-o-desenvolvimento-de-aplicativos-1gm3)
+- [SPO600 - Project Stage 1: Gimple and Passes](https://dev.to/jpjpjp/spo600-project-stage-1-gimple-and-passes-5b2)
+- [🚀 Why I Built JourneySkill: Level Up Your Dev Skills with Challenges.](https://dev.to/ashraful__malik/why-i-built-journeyskill-level-up-your-dev-skills-with-challenges-11n5)
+- [Advent of Code #14 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-14-in-gleam-gm3)
+- [How to Properly Host a Vue.js App in a Subdirectory of public_html](https://dev.to/colebidex2483/how-to-properly-host-a-vuejs-app-in-a-subdirectory-of-publichtml-gm0)
 <!-- BLOG-POST-LIST:END -->
 
 
