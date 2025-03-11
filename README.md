@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Replication: Benefits, Types, Schemes, and Risks](https://dev.to/lovestaco/understanding-data-replication-benefits-types-schemes-and-risks-f79)
-- [Python Tutorial: Code Your First Program](https://dev.to/pythontutorial/python-tutorial-code-your-first-program-25kk)
-- [Practicing Terraform Locally Without a Cloud Provider](https://dev.to/markbosire/practicing-terraform-locally-without-a-cloud-provider-39fb)
-- [Exploring TronJava: The Future of Open Source Blockchain Innovation](https://dev.to/zhangwei42/exploring-tronjava-the-future-of-open-source-blockchain-innovation-39dc)
+- [How to Inspect Elements on Discord](https://dev.to/ronika_kashyap/how-to-inspect-elements-on-discord-hp7)
+- [How to build your Solana sniper bot &lpar;3&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-3-543a)
+- [What is Corda Java SDK? A New Era of Enterprise Blockchain Innovation](https://dev.to/kallileiser/what-is-corda-java-sdk-a-new-era-of-enterprise-blockchain-innovation-6ij)
+- [Build Content Management System with React and Node: Beginning Project Setup](https://dev.to/webcraft-notes/build-content-management-system-with-react-and-node-beginning-project-setup-1ilb)
 <!-- BLOG-POST-LIST:END -->
 
 
