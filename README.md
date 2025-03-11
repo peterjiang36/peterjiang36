@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using OpenAPI to Automate API Integration With Rapyd&#39;s Payment Gateway](https://dev.to/rapyd/using-openapi-to-automate-api-integration-with-rapyds-payment-gateway-cng)
-- [Exploring ZZZCode.ai: An AI Coding Assistant for Developers](https://dev.to/codeparrot/exploring-zzzcodeai-an-ai-coding-assistant-for-developers-4phk)
-- [Something is better than Nothing! he he he!](https://dev.to/aafthab_ali/something-is-better-than-nothing-he-he-he-2142)
-- [How Back-to-Base Security Systems Are Keeping Airports Safe](https://dev.to/shaz_seo_c7cd99f6fdb2c695/how-back-to-base-security-systems-are-keeping-airports-safe-3p1p)
+- [Unlocking AI’s potential: How to quickly set up a Cursor MCP Server](https://dev.to/apideck/unlocking-ais-potential-how-to-quickly-set-up-a-cursor-mcp-server-4bk1)
+- [Build Once ! Deploy Many :Ensuring Consistency Across Environments with Angular Docker](https://dev.to/arpan_gautam/build-once-deploy-many-ensuring-consistency-across-environments-with-angular-docker-1iep)
+- [HerGaurdian](https://dev.to/sidatgithubcode/hergaurdian-3kgp)
+- [Cloud Mining Software Development: Key Features &amp; Strategies](https://dev.to/steveeys/cloud-mining-software-development-key-features-strategies-3h5e)
 <!-- BLOG-POST-LIST:END -->
 
 
