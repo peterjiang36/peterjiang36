@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KelpsGet: Um Clone Moderno do Wget em Rust 🦀](https://dev.to/davimf7221/kelpsget-um-clone-moderno-do-wget-em-rust-38hg)
-- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
-- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
-- [How Improv Helped an Amazonian Overcome Stage Fear](https://dev.to/mastermentee/how-improv-helped-an-amazonian-overcome-stage-fear-4kli)
+- [Parameter Type Safety in JavaScript](https://dev.to/besworks/parameter-type-safety-in-javascript-4je2)
+- [Ethical Hacking vs Black Hat Hacking – What’s the Difference?](https://dev.to/serverzone/ethical-hacking-vs-black-hat-hacking-whats-the-difference-cgk)
+- [𝗢𝗻-𝗗𝗲𝘃𝗶𝗰𝗲 𝗔𝗜: 𝗬𝗼𝘂𝗿 𝗣𝗵𝗼𝗻𝗲 𝗝𝘂𝘀𝘁 𝗚𝗼𝘁 𝗮 𝗕𝗿𝗮𝗶𝗻 𝗨𝗽𝗴𝗿𝗮𝗱𝗲](https://dev.to/lifeofdekisugi/--3466)
+- [Introduction to Redux](https://dev.to/madgan95/introduction-to-redux-43g9)
 <!-- BLOG-POST-LIST:END -->
 
 
