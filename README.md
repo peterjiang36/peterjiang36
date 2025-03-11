@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Before Learning React, You Must Know These Array Methods](https://dev.to/myogeshchavan97/before-learning-react-you-must-know-these-array-methods-36da)
-- [Hello!](https://dev.to/programmeverything/hello-1l5k)
-- [The Role of SaaS in Driving Digital Transformation for US Enterprises](https://dev.to/nzminds_11e07312d4586e329/the-role-of-saas-in-driving-digital-transformation-for-us-enterprises-5bai)
-- [Top 10 Common Website Maintenance Mistakes &lpar;and How to Avoid Them&rpar;](https://dev.to/kamal_deeppareek_f5bb5d8/top-10-common-website-maintenance-mistakes-and-how-to-avoid-them-506c)
+- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
+- [First pseudocode lines!](https://dev.to/matthijs_pouwels_9996aa3f/first-pseudocode-lines-1mij)
+- [How Bun can help to revive a Gridsome project](https://dev.to/fyodorio/how-bun-can-help-to-revive-a-gridsome-project-2hi7)
+- [How to Fix Remote Desktop Freezing on Windows Server 2019? Step-by-Step Guide](https://dev.to/davidjonson/how-to-fix-remote-desktop-freezing-on-windows-server-2019-step-by-step-guide-4ge2)
 <!-- BLOG-POST-LIST:END -->
 
 
