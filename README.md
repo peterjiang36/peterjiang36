@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily JavaScript Challenge #JS-122: Find Maximum Difference Between Consecutive Elements](https://dev.to/dpc/daily-javascript-challenge-js-122-find-maximum-difference-between-consecutive-elements-ei6)
-- [GitHub Actions: How to Deploy Your React Application with Vite to GitHub Pages](https://dev.to/whoisclebs/github-actions-how-to-deploy-your-react-application-with-vite-to-github-pages-2cb8)
-- [Developer Diary #28. Wonder AI](https://dev.to/kiolk/developer-diary-28-wonder-ai-2i95)
-- [How to Configure Solr for High Availability and Scalability?](https://dev.to/jordankeurope/how-to-configure-solr-for-high-availability-and-scalability-3bkm)
+- [KelpsGet: Um Clone Moderno do Wget em Rust 🦀](https://dev.to/davimf7221/kelpsget-um-clone-moderno-do-wget-em-rust-38hg)
+- [Developing Energy-Efficient AI Models for Sustainability](https://dev.to/kartikmehta8/developing-energy-efficient-ai-models-for-sustainability-1n75)
+- [What is Spring PetClinic?](https://dev.to/amdose/what-is-spring-petclinic-2n1n)
+- [How Improv Helped an Amazonian Overcome Stage Fear](https://dev.to/mastermentee/how-improv-helped-an-amazonian-overcome-stage-fear-4kli)
 <!-- BLOG-POST-LIST:END -->
 
 
