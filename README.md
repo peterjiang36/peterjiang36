@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Bad JavaScript — Do This Instead](https://dev.to/0x3d_site/stop-writing-bad-javascript-do-this-instead-2p76)
-- [Python Botnets: Are They Still a Threat in 2025?](https://dev.to/snappytuts/python-botnets-are-they-still-a-threat-in-2025-3jd8)
-- [I Built a Python App with No If-Statements!](https://dev.to/resource_bunk_1077cab07da/i-built-a-python-app-with-no-if-statements-b93)
-- [Relevant mutants](https://dev.to/trikitrok/relevant-mutants-3d67)
+- [Exploring the Sawtooth Python SDK: Open Source, Funding, and Community Impact](https://dev.to/vitalisorenko/exploring-the-sawtooth-python-sdk-open-source-funding-and-community-impact-5hba)
+- [Gradle 101: How This Tool Builds Your Android App Behind the Scenes](https://dev.to/rijultp/gradle-101-how-this-tool-builds-your-android-app-behind-the-scenes-134p)
+- [Calico Network Policy](https://dev.to/alakkadshaw/calico-network-policy-88)
+- [Setting Up a Production-Ready CI/CD Pipeline with Jenkins &amp; Docker](https://dev.to/yash_sonawane25/setting-up-a-production-ready-cicd-pipeline-with-jenkins-docker-49i5)
 <!-- BLOG-POST-LIST:END -->
 
 
