@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Inspect Elements on Discord](https://dev.to/ronika_kashyap/how-to-inspect-elements-on-discord-hp7)
-- [How to build your Solana sniper bot &lpar;3&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-3-543a)
-- [What is Corda Java SDK? A New Era of Enterprise Blockchain Innovation](https://dev.to/kallileiser/what-is-corda-java-sdk-a-new-era-of-enterprise-blockchain-innovation-6ij)
-- [Build Content Management System with React and Node: Beginning Project Setup](https://dev.to/webcraft-notes/build-content-management-system-with-react-and-node-beginning-project-setup-1ilb)
+- [The Next Evolution of AI - Merging Biology and Machine](https://dev.to/dansasser/the-next-evolution-of-ai-merging-biology-and-machine-44c6)
+- [ANDROID GRADLE PART -1](https://dev.to/jimthecaptaion/android-gradle-part-1-6o5)
+- [Manus AI: A Technical Deep Dive into China&#39;s First Autonomous AI Agent](https://dev.to/sayed_ali_alkamel/manus-ai-a-technical-deep-dive-into-chinas-first-autonomous-ai-agent-30d3)
+- [Master Audio and Video Processing in 3 Minutes: Integrating FFmpeg Elegantly in Rust](https://dev.to/yeauty/master-audio-and-video-processing-in-3-minutes-integrating-ffmpeg-elegantly-in-rust-53k5)
 <!-- BLOG-POST-LIST:END -->
 
 
