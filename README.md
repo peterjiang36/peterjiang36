@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 7: HTML part two](https://dev.to/rossangus/chapter-7-html-part-two-15k)
-- [First pseudocode lines!](https://dev.to/matthijs_pouwels_9996aa3f/first-pseudocode-lines-1mij)
-- [How Bun can help to revive a Gridsome project](https://dev.to/fyodorio/how-bun-can-help-to-revive-a-gridsome-project-2hi7)
-- [How to Fix Remote Desktop Freezing on Windows Server 2019? Step-by-Step Guide](https://dev.to/davidjonson/how-to-fix-remote-desktop-freezing-on-windows-server-2019-step-by-step-guide-4ge2)
+- [Understanding Data Replication: Benefits, Types, Schemes, and Risks](https://dev.to/lovestaco/understanding-data-replication-benefits-types-schemes-and-risks-f79)
+- [Python Tutorial: Code Your First Program](https://dev.to/pythontutorial/python-tutorial-code-your-first-program-25kk)
+- [Practicing Terraform Locally Without a Cloud Provider](https://dev.to/markbosire/practicing-terraform-locally-without-a-cloud-provider-39fb)
+- [Exploring TronJava: The Future of Open Source Blockchain Innovation](https://dev.to/zhangwei42/exploring-tronjava-the-future-of-open-source-blockchain-innovation-39dc)
 <!-- BLOG-POST-LIST:END -->
 
 
