@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe: Web Application Pentesting Review](https://dev.to/seanleeys/tryhackme-web-application-pentesting-review-3h14)
-- [App Video: react-native-video VS expo-video](https://dev.to/zuludev/app-video-react-native-video-vs-expo-video-2jo)
-- [OOP project idea](https://dev.to/thin_phu/oop-project-idea-k08)
-- [TryHackMe: Summit](https://dev.to/seanleeys/tryhackme-summit-1mei)
+- [Using OpenAPI to Automate API Integration With Rapyd&#39;s Payment Gateway](https://dev.to/rapyd/using-openapi-to-automate-api-integration-with-rapyds-payment-gateway-cng)
+- [Exploring ZZZCode.ai: An AI Coding Assistant for Developers](https://dev.to/codeparrot/exploring-zzzcodeai-an-ai-coding-assistant-for-developers-4phk)
+- [Something is better than Nothing! he he he!](https://dev.to/aafthab_ali/something-is-better-than-nothing-he-he-he-2142)
+- [How Back-to-Base Security Systems Are Keeping Airports Safe](https://dev.to/shaz_seo_c7cd99f6fdb2c695/how-back-to-base-security-systems-are-keeping-airports-safe-3p1p)
 <!-- BLOG-POST-LIST:END -->
 
 
