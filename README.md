@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Singleton Pattern: The Lonely Chapter of Design Patterns](https://dev.to/zand/singleton-pattern-the-lonely-chapter-of-design-patterns-14kn)
-- [NodeJS vs GoLang #1](https://dev.to/rajanlagah/nodejs-vs-golang-1-3f69)
-- [How to Use a Swift Online Compiler for Faster Development](https://dev.to/s_compiler/how-to-use-a-swift-online-compiler-for-faster-development-3oep)
-- [The Role of C++ Tutorials in Building Strong Coding Foundations](https://dev.to/cpptutorial/the-role-of-c-tutorials-in-building-strong-coding-foundations-4og2)
+- [Why Databases Matter: Real-World Applications and Use Cases](https://dev.to/be11amer/why-databases-matter-real-world-applications-and-use-cases-53an)
+- [Shaping Your Personal Brand for the Tech Revolution: A Roadmap to Relevancy](https://dev.to/okoye_ndidiamaka_5e3b7d30/shaping-your-personal-brand-for-the-tech-revolution-a-roadmap-to-relevancy-10bk)
+- [Coding in Pajamas: The Remote Programmer’s Life 🌟](https://dev.to/mahdijazini/coding-in-pajamas-the-remote-programmers-life-41ac)
+- [Enabling SOAP Request and Response Logging in JBoss EAP 7](https://dev.to/dhanushaperera07/enabling-soap-request-and-response-logging-in-jboss-eap-7-3nip)
 <!-- BLOG-POST-LIST:END -->
 
 
