@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple example of reverse .apk &lpar;removing Ads&rpar;](https://dev.to/mardsoul/simple-example-of-reverse-apk-removing-ads-24dl)
-- [Challenge Lab: Creating a Static Website for the Café](https://dev.to/ameh_mathias/challenge-lab-creating-a-static-website-for-the-cafe-447i)
-- [Cultivating Excellence: The Defining Habit of Top Data Professionals](https://dev.to/daviewisdm/cultivating-excellence-the-defining-habit-of-top-data-professionals-475f)
-- [PGBackRest Configuration from Standby Database](https://dev.to/hujan/pgbackrest-configuration-from-standby-database-iho)
+- [Daily JavaScript Challenge #JS-122: Find Maximum Difference Between Consecutive Elements](https://dev.to/dpc/daily-javascript-challenge-js-122-find-maximum-difference-between-consecutive-elements-ei6)
+- [GitHub Actions: How to Deploy Your React Application with Vite to GitHub Pages](https://dev.to/whoisclebs/github-actions-how-to-deploy-your-react-application-with-vite-to-github-pages-2cb8)
+- [Developer Diary #28. Wonder AI](https://dev.to/kiolk/developer-diary-28-wonder-ai-2i95)
+- [How to Configure Solr for High Availability and Scalability?](https://dev.to/jordankeurope/how-to-configure-solr-for-high-availability-and-scalability-3bkm)
 <!-- BLOG-POST-LIST:END -->
 
 
