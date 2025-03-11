@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &amp; When to use GitOps: Use-Cases &amp; Principles](https://dev.to/meteorops/why-when-to-use-gitops-use-cases-principles-4e64)
-- [What is Offshore Hosting and Why it need](https://dev.to/developers_today/what-is-offshore-hosting-and-why-it-need-410c)
-- [🚀 Portfolio as a Software Developer using React &amp; Vite](https://dev.to/maximdudai/portfolio-as-a-software-developer-using-react-vite-2iak)
-- [The Best AI Solutions for Marketing in 2025](https://dev.to/anna-boiko/the-best-ai-solutions-for-marketing-in-2025-2jgk)
+- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
+- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
+- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
+- [Dify + AgentQL: Build AI Apps with Live Web Data, No Code Needed](https://dev.to/nearestnabors/dify-agentql-build-ai-apps-with-live-web-data-no-code-needed-5b4e)
 <!-- BLOG-POST-LIST:END -->
 
 
