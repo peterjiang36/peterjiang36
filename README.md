@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Sawtooth Python SDK: Open Source, Funding, and Community Impact](https://dev.to/vitalisorenko/exploring-the-sawtooth-python-sdk-open-source-funding-and-community-impact-5hba)
-- [Gradle 101: How This Tool Builds Your Android App Behind the Scenes](https://dev.to/rijultp/gradle-101-how-this-tool-builds-your-android-app-behind-the-scenes-134p)
-- [Calico Network Policy](https://dev.to/alakkadshaw/calico-network-policy-88)
-- [Setting Up a Production-Ready CI/CD Pipeline with Jenkins &amp; Docker](https://dev.to/yash_sonawane25/setting-up-a-production-ready-cicd-pipeline-with-jenkins-docker-49i5)
+- [Git Documentation - Config, Reflog, and Tags](https://dev.to/moustafaabedi/git-documentation-config-reflog-and-tags-38hm)
+- [I&#39;m totally new to this space](https://dev.to/ninjaplays69/im-totally-new-to-this-space-3m0a)
+- [Backporting New ColdFusion 2025 Function listGetDuplicates&lpar;&rpar;](https://dev.to/gamesover/backporting-new-coldfusion-2025-function-listgetduplicates-i9n)
+- [Untitled](https://dev.to/jlazycom_60ee6b1075da9bb9/untitled-1nn5)
 <!-- BLOG-POST-LIST:END -->
 
 
