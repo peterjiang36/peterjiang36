@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI’s potential: How to quickly set up a Cursor MCP Server](https://dev.to/apideck/unlocking-ais-potential-how-to-quickly-set-up-a-cursor-mcp-server-4bk1)
-- [Build Once ! Deploy Many :Ensuring Consistency Across Environments with Angular Docker](https://dev.to/arpan_gautam/build-once-deploy-many-ensuring-consistency-across-environments-with-angular-docker-1iep)
-- [HerGaurdian](https://dev.to/sidatgithubcode/hergaurdian-3kgp)
-- [Cloud Mining Software Development: Key Features &amp; Strategies](https://dev.to/steveeys/cloud-mining-software-development-key-features-strategies-3h5e)
+- [Stop Writing Bad JavaScript — Do This Instead](https://dev.to/0x3d_site/stop-writing-bad-javascript-do-this-instead-2p76)
+- [Python Botnets: Are They Still a Threat in 2025?](https://dev.to/snappytuts/python-botnets-are-they-still-a-threat-in-2025-3jd8)
+- [I Built a Python App with No If-Statements!](https://dev.to/resource_bunk_1077cab07da/i-built-a-python-app-with-no-if-statements-b93)
+- [Relevant mutants](https://dev.to/trikitrok/relevant-mutants-3d67)
 <!-- BLOG-POST-LIST:END -->
 
 
