@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Databases Matter: Real-World Applications and Use Cases](https://dev.to/be11amer/why-databases-matter-real-world-applications-and-use-cases-53an)
-- [Shaping Your Personal Brand for the Tech Revolution: A Roadmap to Relevancy](https://dev.to/okoye_ndidiamaka_5e3b7d30/shaping-your-personal-brand-for-the-tech-revolution-a-roadmap-to-relevancy-10bk)
-- [Coding in Pajamas: The Remote Programmer’s Life 🌟](https://dev.to/mahdijazini/coding-in-pajamas-the-remote-programmers-life-41ac)
-- [Enabling SOAP Request and Response Logging in JBoss EAP 7](https://dev.to/dhanushaperera07/enabling-soap-request-and-response-logging-in-jboss-eap-7-3nip)
+- [Good one. I can create my golang/rust wrapper to use it](https://dev.to/vikasavnish/good-one-i-can-create-my-golangrust-wrapper-to-use-it-453a)
+- [Best 11 React UI Component Libraries in 2025](https://dev.to/ikoichi/best-11-react-ui-component-libraries-in-2025-ffe)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17ik)
+- [Best User Agents for Web Scraping &amp; How to Use Them](https://dev.to/luisgustvo/best-user-agents-for-web-scraping-how-to-use-them-1o6j)
 <!-- BLOG-POST-LIST:END -->
 
 
