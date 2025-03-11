@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Good one. I can create my golang/rust wrapper to use it](https://dev.to/vikasavnish/good-one-i-can-create-my-golangrust-wrapper-to-use-it-453a)
-- [Best 11 React UI Component Libraries in 2025](https://dev.to/ikoichi/best-11-react-ui-component-libraries-in-2025-ffe)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17ik)
-- [Best User Agents for Web Scraping &amp; How to Use Them](https://dev.to/luisgustvo/best-user-agents-for-web-scraping-how-to-use-them-1o6j)
+- [Unconventional Yet Common Aggregation Operations](https://dev.to/esproc_spl/unconventional-yet-common-aggregation-operations-55do)
+- [Lynx vs. React Native: Is TikTok’s New Framework a Game Changer?](https://dev.to/gbengacode/lynx-vs-react-native-is-tiktoks-new-framework-a-game-changer-3ej2)
+- [The Ultimate Machine Learning Cheat Sheet: Key Concepts &amp; Quick Reference for 2025](https://dev.to/bikashdaga/the-ultimate-machine-learning-cheat-sheet-key-concepts-quick-reference-for-2025-1if6)
+- [Clean Architecture in Frontend Applications. Overview](https://dev.to/dzmitry_harunou/clean-architecture-in-frontend-applications-overview-4o89)
 <!-- BLOG-POST-LIST:END -->
 
 
