@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Devs Are Sleeping on These 10 Libraries](https://dev.to/resource_bunk_1077cab07da/python-devs-are-sleeping-on-these-10-libraries-nc9)
-- [10 JavaScript Mistakes That Make You Look Like a Beginner](https://dev.to/0x3d_site/10-javascript-mistakes-that-make-you-look-like-a-beginner-ee0)
-- [[Boost]](https://dev.to/dhanush___b/-52ho)
-- [The Future of SaaS-Based Software Development](https://dev.to/max_services/the-future-of-saas-based-software-development-4d62)
+- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
+- [Linux awareness, Distrohopping, Ricing, and Growing up](https://dev.to/abanoubha/linux-awareness-distrohopping-ricing-and-growing-up-2ikl)
+- [Phase 2: Connecting a GitHub Repo with AWS](https://dev.to/kenechukwu_okeke_cf4ed456/phase-2-connecting-a-github-repo-with-aws-468n)
+- [⚠️ STOP using these Solidity functions if you want secure smart contracts🔒](https://dev.to/fluffyfi3/stop-using-these-solidity-functions-if-you-want-secure-smart-contracts-3ib9)
 <!-- BLOG-POST-LIST:END -->
 
 
