@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Transforming HTTP API Design with the HyperAction API Approach](https://dev.to/gigaherz/transforming-http-api-design-with-the-hyperaction-api-approach-3pa2)
-- [Kubernetes Myth #02: All Pods Are Created Using the API Server and Scheduler](https://dev.to/rajeshdeshpande02/kubernetes-myth-02-all-pods-are-created-using-the-api-server-and-scheduler-799)
-- [Comprehensive Guide to Deep Learning Intrinsic Metrics](https://dev.to/alex-nguyen-duy-anh/comprehensive-guide-to-deep-learning-intrinsic-metrics-3dco)
-- [The Enduring Power of Data Visualization Science](https://dev.to/sanjeetsingh/the-enduring-power-of-data-visualization-science-eam)
+- [Migrating to Valkey from Redis](https://dev.to/logrocket/migrating-to-valkey-from-redis-3jib)
+- [Building for Users: The Real Purpose of Software Development](https://dev.to/wraith/building-for-users-the-real-purpose-of-software-development-a3a)
+- [Luhn algorithm- credit card](https://dev.to/neelakandan_ravi_2000/luhn-algorithm-6id)
+- [Structuring Invoices](https://dev.to/formance/structuring-invoices-420a)
 <!-- BLOG-POST-LIST:END -->
 
 
