@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why is Redis So Fast?](https://dev.to/devcorner/why-is-redis-so-fast-431k)
-- [Understanding Memory Hierarchy: Why Redis Uses RAM, Not Disk](https://dev.to/devcorner/understanding-memory-hierarchy-why-redis-uses-ram-not-disk-41d2)
-- [Understanding the Event Loop in Node.js: A Step-by-Step Guide](https://dev.to/devcorner/understanding-the-event-loop-in-nodejs-a-step-by-step-guide-3l0i)
-- [Unveiling Python License 3.0: A New Era for Open Source Fairness](https://dev.to/kallileiser/unveiling-python-license-30-a-new-era-for-open-source-fairness-4n5l)
+- [Importance of performance testing in BFSI](https://dev.to/grjoeay/importance-of-performance-testing-in-bfsi-67)
+- [[Boost]](https://dev.to/foxinfotech/-48l5)
+- [Unveiling GNU All-Permissive License: A Deep Dive into the Freedom of Software](https://dev.to/bobcars/unveiling-gnu-all-permissive-license-a-deep-dive-into-the-freedom-of-software-2i0b)
+- [Genesis AGI](https://dev.to/umut_bayindir_/genesis-agi-3gi)
 <!-- BLOG-POST-LIST:END -->
 
 
