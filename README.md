@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1118 : Drop](https://dev.to/dwane/day-1118-drop-4e6a)
-- [4 lessons from learning webdev as a beginner](https://dev.to/jleung230/4-lessons-from-learning-webdev-as-a-beginner-2nm1)
-- [Implementación de &quot;EleganFlow&quot;: Arquitectura Modular y Sostenible](https://dev.to/juan_carlosvalderrbano/implementacion-de-eleganflow-arquitectura-modular-y-sostenible-odn)
-- [Dify + AgentQL: Build AI Apps with Live Web Data, No Code Needed](https://dev.to/nearestnabors/dify-agentql-build-ai-apps-with-live-web-data-no-code-needed-5b4e)
+- [Simplify Your PHP Code with KISS, YAGNI, and DRY](https://dev.to/peixotons/simplify-your-php-code-with-kiss-yagni-and-dry-p5g)
+- [Understanding AI APIs with APIpie.ai](https://dev.to/apipie-ai/understanding-ai-apis-with-apipieai-16b9)
+- [&quot;Revolutionizing Industrial Automation: The Power of Wasm-IO Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-industrial-automation-the-power-of-wasm-io-framework-5ek8)
+- [Boost Your Serverless Development with Ready-to-Use AWS Land Patterns in VS Code!](https://dev.to/debojyotimahapatra/boost-your-serverless-development-with-ready-to-use-aws-land-patterns-in-vs-code-17fo)
 <!-- BLOG-POST-LIST:END -->
 
 
