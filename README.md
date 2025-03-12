@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Nextcloud on Kubernetes](https://dev.to/mrgitops/deploy-nextcloud-on-kubernetes-31n5)
-- [Online Diagnostic Tools: Supplement, Not Replacement](https://dev.to/rustemsoft_llc_4b38a13294/online-diagnostic-tools-supplement-not-replacement-3gip)
-- [Using AWS Secret Manager to store credentials](https://dev.to/ramparamhansa/using-aws-secret-manager-to-store-credentials-and-retrieve-it-in-terraform-module-4ofk)
-- [React for Embedded Development](https://dev.to/fefa4ka/react-for-embedded-development-mho)
+- [Step-by-Step Guide: Creating a SharePoint Site with Custom Permissions](https://dev.to/seyilufadejucyberservices/step-by-step-guide-creating-a-sharepoint-site-with-custom-permissions-630)
+- [Understanding Data Structures &amp; Algorithms for Beginners](https://dev.to/abdulwahidkahar/understanding-data-structures-algorithms-for-beginners-c54)
+- [• Personal Finance Tracker &lpar;Track income/expenses with charts &amp; tables&rpar;](https://dev.to/pk_shahood_76c6e86d745494/personal-finance-tracker-track-incomeexpenses-with-charts-tables-5eki)
+- [Securing Your Kubernetes Fortress](https://dev.to/arbythecoder/securing-your-kubernetes-fortress-5308)
 <!-- BLOG-POST-LIST:END -->
 
 
