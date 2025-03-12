@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling the Lynx project](https://dev.to/iarchitsharma/styling-the-lynx-project-26d5)
-- [Первый в мире программист, её непростая жизнь, и при чём тут Лермонтов?](https://dev.to/sundaycoding/piervyi-v-mirie-proghrammist-ieio-nieprostaia-zhizn-i-pri-chiom-tut-liermontov-4n79)
-- [Terraform vs Pulumi vs SST: A tradeoffs analysis](https://dev.to/gautierblandin/terraform-vs-pulumi-vs-sst-a-tradeoffs-analysis-9jb)
-- [How to make a spacing component for Gutenberg Blocks](https://dev.to/aboesig/how-to-make-a-spacing-component-for-gutenberg-blocks-na6)
+- [How IT Professionals Can Manage Their Money &lpar;Not Official Financial Advice&rpar;](https://dev.to/kakacomputer-media/how-it-professionals-can-manage-their-money-not-official-financial-advice-1pfg)
+- [How to pivot to Switching Specializations Expertise](https://dev.to/kakacomputer-media/how-to-pivot-to-switching-specializations-expertise-5933)
+- [Freelancing vs. Traditional Employment: The TRUTH Revealed](https://dev.to/kakacomputer-media/freelancing-vs-traditional-employment-the-truth-revealed-5359)
+- [How I Found Today’s Wordle Answer &lpar;Mango&rpar; Using https://wordletoday.cc/](https://dev.to/wordlehintanswer/how-i-found-todays-wordle-answer-mango-using-httpswordletodaycc-5fii)
 <!-- BLOG-POST-LIST:END -->
 
 
