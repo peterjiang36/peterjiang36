@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Importance of performance testing in BFSI](https://dev.to/grjoeay/importance-of-performance-testing-in-bfsi-67)
-- [[Boost]](https://dev.to/foxinfotech/-48l5)
-- [Unveiling GNU All-Permissive License: A Deep Dive into the Freedom of Software](https://dev.to/bobcars/unveiling-gnu-all-permissive-license-a-deep-dive-into-the-freedom-of-software-2i0b)
-- [Genesis AGI](https://dev.to/umut_bayindir_/genesis-agi-3gi)
+- [Apple&#39;s Wearable AI Evolution Begins, as AirPods with Camera Soon See the World!](https://dev.to/abdul_rehmankhan01/apples-wearable-ai-evolution-begins-as-airpods-with-camera-soon-see-the-world-1odp)
+- [Spring Core Fundamentals: A Beginner Guide](https://dev.to/rahul_talatala/spring-core-fundamentals-a-beginner-guide-3daa)
+- [Background Jobs in Rails: A Look at SolidQueue](https://dev.to/travelingwilbur/background-jobs-in-rails-a-look-at-solidqueue-21nh)
+- [Spring Commerce: Building a Resilient E-commerce System with Spring Boot Microservices](https://dev.to/rahul_talatala/spring-commerce-building-a-resilient-e-commerce-system-with-spring-boot-microservices-43ek)
 <!-- BLOG-POST-LIST:END -->
 
 
