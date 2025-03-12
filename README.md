@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your PHP Code with KISS, YAGNI, and DRY](https://dev.to/peixotons/simplify-your-php-code-with-kiss-yagni-and-dry-p5g)
-- [Understanding AI APIs with APIpie.ai](https://dev.to/apipie-ai/understanding-ai-apis-with-apipieai-16b9)
-- [&quot;Revolutionizing Industrial Automation: The Power of Wasm-IO Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-industrial-automation-the-power-of-wasm-io-framework-5ek8)
-- [Boost Your Serverless Development with Ready-to-Use AWS Land Patterns in VS Code!](https://dev.to/debojyotimahapatra/boost-your-serverless-development-with-ready-to-use-aws-land-patterns-in-vs-code-17fo)
+- [Tree-sitter: Simplificando a Análise de Código para Desenvolvedores](https://dev.to/scovl/tree-sitter-simplificando-a-analise-de-codigo-para-desenvolvedores-4hko)
+- [Understanding RAG &lpar;Retrieval Augmented Generation&rpar; with APIpie.ai](https://dev.to/apipie-ai/understanding-rag-retrieval-augmented-generation-with-apipieai-n6k)
+- [Understanding Vector Databases with APIpie.ai](https://dev.to/apipie-ai/understanding-vector-databases-with-apipieai-3324)
+- [Automating Software Development Pipelines with AI](https://dev.to/kartikmehta8/automating-software-development-pipelines-with-ai-120k)
 <!-- BLOG-POST-LIST:END -->
 
 
