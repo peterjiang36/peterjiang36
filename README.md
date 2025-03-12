@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consume la api de GitHub](https://dev.to/fainnerramirez/consume-la-api-de-github-37jc)
-- [🚀 Introducing the Useful Websites Section on Preploom! 🔥](https://dev.to/vivekananda_pottabathini/introducing-the-useful-websites-section-on-preploom-3mhi)
-- [Building an AI Assistant with Langflow and AstraDB: From Architecture to Integration with NocoBase](https://dev.to/nocobase/building-an-ai-assistant-with-langflow-and-astradb-from-architecture-to-integration-with-nocobase-30cc)
-- [Unveiling Eclipse Public License 2.0: A Deep Dive](https://dev.to/vitalisorenko/unveiling-eclipse-public-license-20-a-deep-dive-42h)
+- [🚀 Why is Redis So Fast?](https://dev.to/devcorner/why-is-redis-so-fast-431k)
+- [Understanding Memory Hierarchy: Why Redis Uses RAM, Not Disk](https://dev.to/devcorner/understanding-memory-hierarchy-why-redis-uses-ram-not-disk-41d2)
+- [Understanding the Event Loop in Node.js: A Step-by-Step Guide](https://dev.to/devcorner/understanding-the-event-loop-in-nodejs-a-step-by-step-guide-3l0i)
+- [Unveiling Python License 3.0: A New Era for Open Source Fairness](https://dev.to/kallileiser/unveiling-python-license-30-a-new-era-for-open-source-fairness-4n5l)
 <!-- BLOG-POST-LIST:END -->
 
 
