@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Workspace and the Model Context Protocol](https://dev.to/googleworkspace/google-workspace-and-the-model-context-protocol-5amf)
-- [Unveiling the OpenSSL License: A Deep Dive into Open Source Security](https://dev.to/jennythomas498/unveiling-the-openssl-license-a-deep-dive-into-open-source-security-k86)
-- [How we migrated our open source Next.js project website to new domain in 3 hours?](https://dev.to/shnai0/how-we-migrated-our-open-source-nextjs-project-website-to-new-domain-in-3-hours-2ofj)
-- [TryHackMe: Session Management](https://dev.to/seanleeys/tryhackme-session-management-285f)
+- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
+- [2529. Maximum Count of Positive Integer and Negative Integer](https://dev.to/mdarifulhaque/2529-maximum-count-of-positive-integer-and-negative-integer-2la3)
+- [Unveiling PHP License 3.0: Balancing Fairness and Innovation in Software Licensing](https://dev.to/vitalisorenko/unveiling-php-license-30-balancing-fairness-and-innovation-in-software-licensing-4lh8)
+- [CCNA Certification Guide: Your Complete Roadmap for 2025](https://dev.to/rohan_jee_085655230/ccna-certification-guide-your-complete-roadmap-for-2025-589g)
 <!-- BLOG-POST-LIST:END -->
 
 
