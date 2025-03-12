@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [startup job description red flags/amateur/elitist indicators](https://dev.to/codewander/startup-job-description-red-flagsamateurelitist-indicators-mdc)
-- [Unveiling the GNU Lesser General Public License v3: A Deep Dive](https://dev.to/ashucommits/unveiling-the-gnu-lesser-general-public-license-v3-a-deep-dive-25c6)
-- [Fixing AWS CLI Version Conflicts on Windows](https://dev.to/vindianadoan/fixing-aws-cli-version-conflicts-on-windows-5fl8)
-- [Color Gradients vs. Flat Colors: What Works Best for Modern Websites?](https://dev.to/desinoir/color-gradients-vs-flat-colors-what-works-best-for-modern-websites-3jhn)
+- [Consume la api de GitHub](https://dev.to/fainnerramirez/consume-la-api-de-github-37jc)
+- [🚀 Introducing the Useful Websites Section on Preploom! 🔥](https://dev.to/vivekananda_pottabathini/introducing-the-useful-websites-section-on-preploom-3mhi)
+- [Building an AI Assistant with Langflow and AstraDB: From Architecture to Integration with NocoBase](https://dev.to/nocobase/building-an-ai-assistant-with-langflow-and-astradb-from-architecture-to-integration-with-nocobase-30cc)
+- [Unveiling Eclipse Public License 2.0: A Deep Dive](https://dev.to/vitalisorenko/unveiling-eclipse-public-license-20-a-deep-dive-42h)
 <!-- BLOG-POST-LIST:END -->
 
 
