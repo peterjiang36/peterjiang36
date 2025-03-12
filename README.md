@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tree-sitter: Simplificando a Análise de Código para Desenvolvedores](https://dev.to/scovl/tree-sitter-simplificando-a-analise-de-codigo-para-desenvolvedores-4hko)
-- [Understanding RAG &lpar;Retrieval Augmented Generation&rpar; with APIpie.ai](https://dev.to/apipie-ai/understanding-rag-retrieval-augmented-generation-with-apipieai-n6k)
-- [Understanding Vector Databases with APIpie.ai](https://dev.to/apipie-ai/understanding-vector-databases-with-apipieai-3324)
-- [Automating Software Development Pipelines with AI](https://dev.to/kartikmehta8/automating-software-development-pipelines-with-ai-120k)
+- [startup job description red flags/amateur/elitist indicators](https://dev.to/codewander/startup-job-description-red-flagsamateurelitist-indicators-mdc)
+- [Unveiling the GNU Lesser General Public License v3: A Deep Dive](https://dev.to/ashucommits/unveiling-the-gnu-lesser-general-public-license-v3-a-deep-dive-25c6)
+- [Fixing AWS CLI Version Conflicts on Windows](https://dev.to/vindianadoan/fixing-aws-cli-version-conflicts-on-windows-5fl8)
+- [Color Gradients vs. Flat Colors: What Works Best for Modern Websites?](https://dev.to/desinoir/color-gradients-vs-flat-colors-what-works-best-for-modern-websites-3jhn)
 <!-- BLOG-POST-LIST:END -->
 
 
