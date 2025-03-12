@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start a Mobile Recharge Portal and Business in India: A Complete Guide with Noble Web Studio](https://dev.to/vicky_vijaywargiya_4c7fbd/how-to-start-a-mobile-recharge-portal-and-business-in-india-a-complete-guide-with-noble-web-studio-18fd)
-- [MintPool: Fully Participate in Staking &amp; Restaking to Earn Generous Rewards.](https://dev.to/mint_/mintpool-fully-participate-in-staking-restaking-to-earn-generous-rewards-3c7m)
-- [DBSeeker - MySQL Search Script &lpar;Alpha&rpar; : Search Across All Databases!](https://dev.to/debba/dbseeker-mysql-search-script-alpha-search-across-all-databases-3na8)
-- [Model Context Protocol &lpar;MCP&rpar;: The Secret Weapon for Startups and SMEs to Supercharge AI](https://dev.to/bitontree/model-context-protocol-mcp-the-secret-weapon-for-startups-and-smes-to-supercharge-ai-145h)
+- [Styling the Lynx project](https://dev.to/iarchitsharma/styling-the-lynx-project-26d5)
+- [Первый в мире программист, её непростая жизнь, и при чём тут Лермонтов?](https://dev.to/sundaycoding/piervyi-v-mirie-proghrammist-ieio-nieprostaia-zhizn-i-pri-chiom-tut-liermontov-4n79)
+- [Terraform vs Pulumi vs SST: A tradeoffs analysis](https://dev.to/gautierblandin/terraform-vs-pulumi-vs-sst-a-tradeoffs-analysis-9jb)
+- [How to make a spacing component for Gutenberg Blocks](https://dev.to/aboesig/how-to-make-a-spacing-component-for-gutenberg-blocks-na6)
 <!-- BLOG-POST-LIST:END -->
 
 
