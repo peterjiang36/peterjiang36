@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 7: 10x Speedup and the Go Language 🚨](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
-- [Linux awareness, Distrohopping, Ricing, and Growing up](https://dev.to/abanoubha/linux-awareness-distrohopping-ricing-and-growing-up-2ikl)
-- [Phase 2: Connecting a GitHub Repo with AWS](https://dev.to/kenechukwu_okeke_cf4ed456/phase-2-connecting-a-github-repo-with-aws-468n)
-- [⚠️ STOP using these Solidity functions if you want secure smart contracts🔒](https://dev.to/fluffyfi3/stop-using-these-solidity-functions-if-you-want-secure-smart-contracts-3ib9)
+- [Why Static Typing is Essential for Efficient Ruby and Rails Development](https://dev.to/aeremin/why-static-typing-is-essential-for-efficient-ruby-and-rails-development-3n0d)
+- [AI compute revolution is Here!!! Please check out this article](https://dev.to/lorebrada00/ai-compute-revolution-is-here-please-check-out-this-article-bkc)
+- [Democratizing AI Compute, Part 1: The Impact of DeepSeek on AI](https://dev.to/cortexflow/democratizing-ai-compute-part-1-the-impact-of-deepseek-on-ai-3kf2)
+- [&quot;Vibe Coding&quot; 101: What It Is, How It Works, and Why It Matters](https://dev.to/austinwdigital/vibe-coding-101-what-it-is-how-it-works-and-why-it-matters-1e4a)
 <!-- BLOG-POST-LIST:END -->
 
 
