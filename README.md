@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Python GUI Builder just crossed 300 stars on GitHub 🤯](https://dev.to/paul_freeman/my-python-gui-builder-just-crossed-300-stars-on-github-545h)
-- [🚀 O que é o Span&lt;T&gt; no C# e como ele melhora a performance?](https://dev.to/develop4us/o-que-e-o-span-no-c-e-como-ele-melhora-a-performance-17f6)
-- [Essential Linux Commands Every Developer Should Know](https://dev.to/chirikamau/essential-linux-commands-every-developer-should-know-4ai1)
-- [AdGuard Home Configuration for LAN-Only Access](https://dev.to/yawatasensei/adguard-home-configuration-for-lan-only-access-3lae)
+- [📝 Transforming HTTP API Design with the HyperAction API Approach](https://dev.to/gigaherz/transforming-http-api-design-with-the-hyperaction-api-approach-3pa2)
+- [Kubernetes Myth #02: All Pods Are Created Using the API Server and Scheduler](https://dev.to/rajeshdeshpande02/kubernetes-myth-02-all-pods-are-created-using-the-api-server-and-scheduler-799)
+- [Comprehensive Guide to Deep Learning Intrinsic Metrics](https://dev.to/alex-nguyen-duy-anh/comprehensive-guide-to-deep-learning-intrinsic-metrics-3dco)
+- [The Enduring Power of Data Visualization Science](https://dev.to/sanjeetsingh/the-enduring-power-of-data-visualization-science-eam)
 <!-- BLOG-POST-LIST:END -->
 
 
