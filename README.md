@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Types of AI Workloads, Challenges and Critical Best Practices](https://dev.to/e77/6-types-of-ai-workloads-challenges-and-critical-best-practices-3de3)
-- [Cron Job Monitoring: A Basic Overview](https://dev.to/firoz_khan_f6999b179f50a2/cron-job-monitoring-a-basic-overview-2jhp)
-- [WebAssembly and JavaScript Integration: 5 Techniques for High-Performance Web Applications](https://dev.to/aaravjoshi/webassembly-and-javascript-integration-5-techniques-for-high-performance-web-applications-e5e)
-- [Jenkins vs. GitLab vs. CircleCI – Which CI/CD Tool Is Right for You?](https://dev.to/msystech/jenkins-vs-gitlab-vs-circleci-which-cicd-tool-is-right-for-you-577d)
+- [My Python GUI Builder just crossed 300 stars on GitHub 🤯](https://dev.to/paul_freeman/my-python-gui-builder-just-crossed-300-stars-on-github-545h)
+- [🚀 O que é o Span&lt;T&gt; no C# e como ele melhora a performance?](https://dev.to/develop4us/o-que-e-o-span-no-c-e-como-ele-melhora-a-performance-17f6)
+- [Essential Linux Commands Every Developer Should Know](https://dev.to/chirikamau/essential-linux-commands-every-developer-should-know-4ai1)
+- [AdGuard Home Configuration for LAN-Only Access](https://dev.to/yawatasensei/adguard-home-configuration-for-lan-only-access-3lae)
 <!-- BLOG-POST-LIST:END -->
 
 
