@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Infrastructure for AWS Professionals: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/google-cloud-infrastructure-for-aws-professionals-a-complete-guide-for-2025-8p3)
-- [2529. Maximum Count of Positive Integer and Negative Integer](https://dev.to/mdarifulhaque/2529-maximum-count-of-positive-integer-and-negative-integer-2la3)
-- [Unveiling PHP License 3.0: Balancing Fairness and Innovation in Software Licensing](https://dev.to/vitalisorenko/unveiling-php-license-30-balancing-fairness-and-innovation-in-software-licensing-4lh8)
-- [CCNA Certification Guide: Your Complete Roadmap for 2025](https://dev.to/rohan_jee_085655230/ccna-certification-guide-your-complete-roadmap-for-2025-589g)
+- [Python Devs Are Sleeping on These 10 Libraries](https://dev.to/resource_bunk_1077cab07da/python-devs-are-sleeping-on-these-10-libraries-nc9)
+- [10 JavaScript Mistakes That Make You Look Like a Beginner](https://dev.to/0x3d_site/10-javascript-mistakes-that-make-you-look-like-a-beginner-ee0)
+- [[Boost]](https://dev.to/dhanush___b/-52ho)
+- [The Future of SaaS-Based Software Development](https://dev.to/max_services/the-future-of-saas-based-software-development-4d62)
 <!-- BLOG-POST-LIST:END -->
 
 
