@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Selenium Commands List: The Ultimate Reference Guide](https://dev.to/shubham-theqa/selenium-commands-list-the-ultimate-reference-guide-5fn0)
-- [Why Startups Prefer PHP for Cost-Effective Web Solutions](https://dev.to/icontechsoft/why-startups-prefer-php-for-cost-effective-web-solutions-57k8)
-- [[Boost]](https://dev.to/thesimdak/-3704)
-- [From Chaos to Clarity: How I Document My Work Effectively](https://dev.to/tshenolo/from-chaos-to-clarity-how-i-document-my-work-effectively-38nc)
+- [Unveiling Freedom in Open Licensing: A Deep Dive into the PDDL](https://dev.to/zhangwei42/unveiling-freedom-in-open-licensing-a-deep-dive-into-the-pddl-g2o)
+- [Security and Safety While Working Remotely: Tips and Tricks To Keep You Secure](https://dev.to/aditya-saasy/security-and-safety-while-working-remotely-tips-and-tricks-to-keep-you-secure-cep)
+- [Ethereum’s Pectra Upgrade on Sepolia Testnet, Candide Labs’ InstaGas, Echooo’s Abstracted Competition, and Etherspot’s X Space](https://dev.to/etherspot/ethereums-pectra-upgrade-on-sepolia-testnet-candide-labs-instagas-echooos-abstracted-230i)
+- [test blog hehehe](https://dev.to/shivaraj_eb0e4729bc350a50/test-blog-hehehe-3hef)
 <!-- BLOG-POST-LIST:END -->
 
 
