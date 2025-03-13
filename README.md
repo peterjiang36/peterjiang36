@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s Building Blocks: Syntax, Variables &amp; Types Demystified 🧩](https://dev.to/tavernetech/gos-building-blocks-syntax-variables-types-demystified-46hh)
-- [API Sandbox Explained: How It Works, Benefits &amp; Best Practices](https://dev.to/getambassador2024/api-sandbox-explained-how-it-works-benefits-best-practices-2266)
-- [Unveiling CeCILL 2.1: A Deep Dive into an Evolving Open Source License](https://dev.to/jennythomas498/unveiling-cecill-21-a-deep-dive-into-an-evolving-open-source-license-50l6)
-- [5 Must-Have VS Code Extensions for React development](https://dev.to/wegin/5-must-have-vs-code-extensions-for-react-development-jhd)
+- [Next.js vs Nest.js: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-nestjs-what-to-choose-in-2025-4m9k)
+- [Key Concepts in Databases: Tables, Rows, Columns, and Keys](https://dev.to/be11amer/key-concepts-in-databases-tables-rows-columns-and-keys-16c0)
+- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps smaller and more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-smaller-and-more-secure-2p1p)
+- [Unveiling the FreeType License – A Deep Dive Into Fairness and Innovation](https://dev.to/vitalisorenko/unveiling-the-freetype-license-a-deep-dive-into-fairness-and-innovation-c58)
 <!-- BLOG-POST-LIST:END -->
 
 
