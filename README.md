@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A detailed comparison of Amazon Web Services cost models for compute storage and data transfer](https://dev.to/marufhossain/a-detailed-comparison-of-amazon-web-services-cost-models-for-compute-storage-and-data-transfer-3l4e)
-- [Mieux tester en optimisant la génération de données de test : Panorama des patterns](https://dev.to/singebob/mieux-tester-en-optimisant-la-generation-de-donnees-de-test-panorama-des-patterns-1cde)
-- [Overcoming Four Hours of Terraform Troubleshooting: Automating Nginx Deployment on AWS](https://dev.to/jamiu_cloud/overcoming-four-hours-of-terraform-troubleshooting-automating-nginx-deployment-on-aws-5205)
-- [AI-Powered Resume &amp; Portfolio Builder](https://dev.to/adonaitechnologies/ai-powered-resume-portfolio-builder-315c)
+- [3356. Zero Array Transformation II](https://dev.to/mdarifulhaque/3356-zero-array-transformation-ii-14g)
+- [Daily React Learning -11](https://dev.to/utsabnepal55/daily-react-learning-11-42h9)
+- [Vite react axios frontend](https://dev.to/levi64856/vite-react-axios-frontend-4if2)
+- [Which Model Does it Better in a Knowledge-Based Evaluation?](https://dev.to/tephani/which-model-does-it-better-in-a-knowledge-based-evaluation-3lga)
 <!-- BLOG-POST-LIST:END -->
 
 
