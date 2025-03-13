@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Maven&#39;s dependency:analyze... or not](https://dev.to/nfrankel/improving-mavens-dependencyanalyze-or-not-2k16)
-- [Unveiling the Libpng License: A Deep Dive into Open Source Fairness](https://dev.to/rachellovestowrite/unveiling-the-libpng-license-a-deep-dive-into-open-source-fairness-3kl7)
-- [Minimal APIs and Middleware in ASP.NET Core](https://dev.to/stevsharp/minimal-apis-and-middleware-in-aspnet-core-c18)
-- [Unit Testing with Coroutines in Kotlin: Tools and Best Practices](https://dev.to/comunidadedevspace/unit-testing-with-coroutines-in-kotlin-tools-and-best-practices-3dod)
+- [80% of Software Engineers Fail to Become Senior Developers — And Here’s Why](https://dev.to/web_dev-usman/80-of-software-engineers-fail-to-become-senior-developers-and-heres-why-5di4)
+- [Deploying a Web App with Nginx, MySQL, and AWS: A Step-by-Step Guide](https://dev.to/yash_sonawane25/deploying-a-web-app-with-nginx-mysql-and-aws-a-step-by-step-guide-1lbk)
+- [How to use FPGA to complete balance detection?](https://dev.to/carolineee/how-to-use-fpga-to-complete-balance-detection-2a3p)
+- [Understanding gRPC: A Modern Approach to API Design](https://dev.to/codewithved/understanding-grpc-a-modern-approach-to-api-design-cgm)
 <!-- BLOG-POST-LIST:END -->
 
 
