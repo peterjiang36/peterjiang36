@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S3e2: Gitting, Started](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e2-gitting-started-5bfe)
-- [[Boost]](https://dev.to/vitalets/-5gg9)
-- [[Boost]](https://dev.to/foxinfotech/-2j0o)
-- [Social link share | Portfolio website | Personal link share website](https://dev.to/mahmud-r-farhan/social-link-share-portfolio-website-personal-link-share-website-586j)
+- [🚀O que é a palavra-chave field no C# 13?](https://dev.to/develop4us/o-que-e-a-palavra-chave-field-no-c-13-1an6)
+- [Laravel: Do you need facades?](https://dev.to/spo0q/laravel-facades-5hmd)
+- [Pricing Card](https://dev.to/thek2j/pricing-card-2bo8)
+- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-18d7)
 <!-- BLOG-POST-LIST:END -->
 
 
