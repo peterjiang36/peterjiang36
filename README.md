@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs Nest.js: What to Choose in 2025?](https://dev.to/sharvin26/nextjs-vs-nestjs-what-to-choose-in-2025-4m9k)
-- [Key Concepts in Databases: Tables, Rows, Columns, and Keys](https://dev.to/be11amer/key-concepts-in-databases-tables-rows-columns-and-keys-16c0)
-- [🎙️We&#39;ve implemented new features in HMPL to help developers make web apps smaller and more secure🔥](https://dev.to/hmpljs/weve-implemented-new-features-in-hmpl-to-help-developers-make-web-apps-smaller-and-more-secure-2p1p)
-- [Unveiling the FreeType License – A Deep Dive Into Fairness and Innovation](https://dev.to/vitalisorenko/unveiling-the-freetype-license-a-deep-dive-into-fairness-and-innovation-c58)
+- [Getting Started with SQL DISTINCT](https://dev.to/dbvismarketing/getting-started-with-sql-distinct-3799)
+- [Testes Unitários com Corrotinas no Kotlin: Ferramentas e Boas Práticas](https://dev.to/comunidadedevspace/testes-unitarios-com-corrotinas-no-kotlin-ferramentas-e-boas-praticas-4100)
+- [Что такое JavaScript-библиотека jQuery, почему её все ненавидят, и почему она так популярна среди начинающих программистов?](https://dev.to/sundaycoding/chto-takoie-javascript-bibliotieka-jquery-pochiemu-ieio-vsie-nienavidiat-i-pochiemu-ona-tak-populiarna-sriedi-59od)
+- [How to Fix CORS Error in Vue.js](https://dev.to/reynaldi/how-to-fix-cors-error-in-vuejs-29k4)
 <!-- BLOG-POST-LIST:END -->
 
 
