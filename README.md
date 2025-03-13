@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Magic Wormhole Source Code Analysis](https://dev.to/huakun/magic-wormhole-source-code-analysis-529)
-- [Svelte Command List Filtering with Virtual List and fuse.js](https://dev.to/huakun/svelte-command-list-filtering-with-virtual-list-and-fusejs-1oo4)
-- [RandomResizedCrop in PyTorch &lpar;6&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-6-42c9)
-- [Programming: Between industry and craft](https://dev.to/zelenya/programming-between-industry-and-craft-5go0)
+- [10 Project Management Mistakes That Drive Developers Crazy](https://dev.to/pratham_naik_project_manager/10-project-management-mistakes-that-drive-developers-crazy-57pk)
+- [n3xt w33k 1s l4unch w33k](https://dev.to/fmerian/n3xt-w33k-1s-l4unch-w33k-2pkf)
+- [I heard this was the community that could help me out with my project!? 😁](https://dev.to/devrabb/i-heard-this-was-the-community-that-could-help-me-out-with-my-project-eni)
+- [Dependencies and Layering with C#](https://dev.to/tak089/dependencies-and-layering-with-c-51l9)
 <!-- BLOG-POST-LIST:END -->
 
 
