@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Keyboard with Stimulus](https://dev.to/railsdesigner/using-the-keyboard-with-stimulus-4p08)
-- [Data Redaction and View Enhancements – Oracle 23ai&lpar;23.6&rpar;](https://dev.to/vahidusefzadeh/data-redaction-and-view-enhancements-oracle-23ai236-462a)
-- [5 Easy Methods to Implement Dark Mode in React Native](https://dev.to/buttercms/5-easy-methods-to-implement-dark-mode-in-react-native-3n08)
-- [My Journey at IWS &lpar;Innovate With SEED&rpar; as a Backend Engineer and The Concept of JWT and Its Importance in Authentication](https://dev.to/mfonfu_wesley_a593b0e3997/my-journey-at-iws-innovate-with-seed-as-a-backend-engineer-and-the-concept-of-jwt-and-its-3nh1)
+- [TanStack for Beginners: A Complete Guide &amp; Tutorial](https://dev.to/codeparrot/tanstack-for-beginners-a-complete-guide-tutorial-2ch3)
+- [The process of creating an effective Application Security Programme: Strategies, practices and tools for the best outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-11l7)
+- [🚀 Can Dogecoin Price Surge with Bitwise ETF Approval in 2025?](https://dev.to/sergi_web3/can-dogecoin-price-surge-with-bitwise-etf-approval-in-2025-4fek)
+- [Introducing highlight-plus: Supercharged Syntax Highlighting for React](https://dev.to/pranav-rustagi/introducing-highlight-plus-supercharged-syntax-highlighting-for-react-1gb6)
 <!-- BLOG-POST-LIST:END -->
 
 
