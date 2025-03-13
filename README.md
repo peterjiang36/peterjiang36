@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [from fpdf import FPDF # Membuat objek PDF pdf = FPDF&lpar;&rpar; pdf.set_auto_page_break&lpar;auto=True, margin=15&rpar; pdf.add_page&lpar;&rpar; pdf.set_font&lpar;&quot;Arial&quot;, style=&#39;&#39;, size=12&rpar; # Cover pdf.set_font&lpar;&quot;Arial&quot;, style=&#39;B&#39;, size=16&rpar; pdf.cell&lpar;200, 10, &quot;KAJIAN TEORI: TEORI DAN PRAK](https://dev.to/lula_moon_62d5dba26e056e0/from-fpdf-import-fpdf-membuat-objek-pdf-pdf-fpdf-pdfsetautopagebreakautotrue-k2p)
-- [🚀 Mastering React Hooks: The Ultimate Guide &lpar;With Examples!&rpar;](https://dev.to/ersuman/mastering-react-hooks-the-ultimate-guide-with-examples-ao9)
-- [Tired of Confusing Commits? Here’s How to Fix Them with Commitlint!🚀](https://dev.to/amankrsahu/tired-of-confusing-commits-heres-how-to-fix-them-with-commitlint-3lfj)
-- [React Native Project | Build Full Stack React Native App with Expo, &amp; Strapi | AI Recipe Generator](https://dev.to/rrs301/react-native-project-build-full-stack-react-native-app-with-expo-strapi-ai-recipe-generator-24f)
+- [Why Ruby on Rails is the Best First Framework for New Developers](https://dev.to/reinteractive/why-ruby-on-rails-is-the-best-first-framework-for-new-developers-2o7h)
+- [The Biggest Mistake Developers Make in React Unit Testing &lpar;And How to Fix It&rpar;](https://dev.to/j_s_0f6deca9762856e859326/the-biggest-mistake-developers-make-in-react-unit-testing-and-how-to-fix-it-4llo)
+- [A Beginner&#39;s Guide to C# Programming](https://dev.to/million_formula_3be3d915d/a-beginners-guide-to-c-programming-b0a)
+- [Docker: O Que Aprendi na Semana 1 de estudo](https://dev.to/layssadev/docker-o-que-aprendi-na-semana-1-de-estudo-136m)
 <!-- BLOG-POST-LIST:END -->
 
 
