@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Ruby on Rails is the Best First Framework for New Developers](https://dev.to/reinteractive/why-ruby-on-rails-is-the-best-first-framework-for-new-developers-2o7h)
-- [The Biggest Mistake Developers Make in React Unit Testing &lpar;And How to Fix It&rpar;](https://dev.to/j_s_0f6deca9762856e859326/the-biggest-mistake-developers-make-in-react-unit-testing-and-how-to-fix-it-4llo)
-- [A Beginner&#39;s Guide to C# Programming](https://dev.to/million_formula_3be3d915d/a-beginners-guide-to-c-programming-b0a)
-- [Docker: O Que Aprendi na Semana 1 de estudo](https://dev.to/layssadev/docker-o-que-aprendi-na-semana-1-de-estudo-136m)
+- [😴 Go Code You Can Trust: Sleep Well After You Commit](https://dev.to/trungdlp/go-code-you-can-trust-sleep-well-after-you-commit-440n)
+- [Multipass Unlocked: Effortlessly Spin Up Ubuntu VMs in Seconds!](https://dev.to/robert_coffie/multipass-unlocked-effortlessly-spin-up-ubuntu-vms-in-seconds-46e5)
+- [Best AI prompt generators and AI Prompt Manager](https://dev.to/foxinfotech/best-ai-prompt-generators-and-ai-prompt-manager-1i1b)
+- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-b9h)
 <!-- BLOG-POST-LIST:END -->
 
 
