@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀O que é a palavra-chave field no C# 13?](https://dev.to/develop4us/o-que-e-a-palavra-chave-field-no-c-13-1an6)
-- [Laravel: Do you need facades?](https://dev.to/spo0q/laravel-facades-5hmd)
-- [Pricing Card](https://dev.to/thek2j/pricing-card-2bo8)
-- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-18d7)
+- [Selenium Commands List: The Ultimate Reference Guide](https://dev.to/shubham-theqa/selenium-commands-list-the-ultimate-reference-guide-5fn0)
+- [Why Startups Prefer PHP for Cost-Effective Web Solutions](https://dev.to/icontechsoft/why-startups-prefer-php-for-cost-effective-web-solutions-57k8)
+- [[Boost]](https://dev.to/thesimdak/-3704)
+- [From Chaos to Clarity: How I Document My Work Effectively](https://dev.to/tshenolo/from-chaos-to-clarity-how-i-document-my-work-effectively-38nc)
 <!-- BLOG-POST-LIST:END -->
 
 
