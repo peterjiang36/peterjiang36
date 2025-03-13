@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [😴 Go Code You Can Trust: Sleep Well After You Commit](https://dev.to/trungdlp/go-code-you-can-trust-sleep-well-after-you-commit-440n)
-- [Multipass Unlocked: Effortlessly Spin Up Ubuntu VMs in Seconds!](https://dev.to/robert_coffie/multipass-unlocked-effortlessly-spin-up-ubuntu-vms-in-seconds-46e5)
-- [Best AI prompt generators and AI Prompt Manager](https://dev.to/foxinfotech/best-ai-prompt-generators-and-ai-prompt-manager-1i1b)
-- [FiveCrop in PyTorch](https://dev.to/hyperkai/fivecrop-in-pytorch-b9h)
+- [Magic Wormhole Source Code Analysis](https://dev.to/huakun/magic-wormhole-source-code-analysis-529)
+- [Svelte Command List Filtering with Virtual List and fuse.js](https://dev.to/huakun/svelte-command-list-filtering-with-virtual-list-and-fusejs-1oo4)
+- [RandomResizedCrop in PyTorch &lpar;6&rpar;](https://dev.to/hyperkai/randomresizedcrop-in-pytorch-6-42c9)
+- [Programming: Between industry and craft](https://dev.to/zelenya/programming-between-industry-and-craft-5go0)
 <!-- BLOG-POST-LIST:END -->
 
 
