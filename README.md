@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Error Handling in Rust: Beyond Result and Option](https://dev.to/leapcell/mastering-error-handling-in-rust-beyond-result-and-option-468f)
-- [The Django Iceberg](https://dev.to/yokwejuste/the-django-iceberg-24d9)
-- [CloudFormation Drift Detection and Notification with AWS Config Remediation Action](https://dev.to/andrii-shykhov/cloudformation-drift-detection-and-notification-with-aws-config-remediation-action-2nn3)
-- [OpenTelemetry Tracing for File Downloads from an S3 Bucket via API Gateway and Lambda Functions](https://dev.to/andrii-shykhov/opentelemetry-tracing-for-file-downloads-from-an-s3-bucket-via-api-gateway-and-lambda-functions-mp3)
+- [AWS Fargate Deep Dive: Key Takeaways from Melbourne User Group](https://dev.to/aws-builders/aws-fargate-deep-dive-key-takeaways-from-melbourne-user-group-kl5)
+- [Game-Changing Guide to SQL for SEO Optimization](https://dev.to/anastasia-kotsiubynska/game-changing-guide-to-sql-for-seo-optimization-i78)
+- [Y&#39;all. What the heck is Vibe Coding?](https://dev.to/patchnotes_/yall-what-the-heck-is-vibe-coding-55dl)
+- [Building a community-led product roadmap](https://dev.to/quadraticai/building-a-community-led-product-roadmap-4lgb)
 <!-- BLOG-POST-LIST:END -->
 
 
