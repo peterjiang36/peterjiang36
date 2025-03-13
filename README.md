@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3356. Zero Array Transformation II](https://dev.to/mdarifulhaque/3356-zero-array-transformation-ii-14g)
-- [Daily React Learning -11](https://dev.to/utsabnepal55/daily-react-learning-11-42h9)
-- [Vite react axios frontend](https://dev.to/levi64856/vite-react-axios-frontend-4if2)
-- [Which Model Does it Better in a Knowledge-Based Evaluation?](https://dev.to/tephani/which-model-does-it-better-in-a-knowledge-based-evaluation-3lga)
+- [Using the Keyboard with Stimulus](https://dev.to/railsdesigner/using-the-keyboard-with-stimulus-4p08)
+- [Data Redaction and View Enhancements – Oracle 23ai&lpar;23.6&rpar;](https://dev.to/vahidusefzadeh/data-redaction-and-view-enhancements-oracle-23ai236-462a)
+- [5 Easy Methods to Implement Dark Mode in React Native](https://dev.to/buttercms/5-easy-methods-to-implement-dark-mode-in-react-native-3n08)
+- [My Journey at IWS &lpar;Innovate With SEED&rpar; as a Backend Engineer and The Concept of JWT and Its Importance in Authentication](https://dev.to/mfonfu_wesley_a593b0e3997/my-journey-at-iws-innovate-with-seed-as-a-backend-engineer-and-the-concept-of-jwt-and-its-3nh1)
 <!-- BLOG-POST-LIST:END -->
 
 
