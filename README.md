@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧟‍♂️ The Zombie Server That Wouldn’t Die 💀](https://dev.to/francotel/the-zombie-server-that-wouldnt-die-45di)
-- [Singleton - Anti Pattern?](https://dev.to/darlangui/singleton-anti-pattern-1d02)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2m1k)
-- [Understanding Objects, Identity, Mutability, and Memory Management in Python](https://dev.to/macfe1/understanding-objects-identity-mutability-and-memory-management-in-python-2007)
+- [🌟 Top 30 Websites for Stunning Front-End Development Resources 🚀](https://dev.to/hanzla-baig/top-30-websites-for-stunning-front-end-development-resources-1na8)
+- [MongoDB Queryable Encryption: Secure Your Data While Querying!](https://dev.to/saint_vandora/mongodb-queryable-encryption-secure-your-data-while-querying-485g)
+- [Unveiling the Nokia Open Source License: A New Era in Fair Code Licensing](https://dev.to/ahmmrizv9/unveiling-the-nokia-open-source-license-a-new-era-in-fair-code-licensing-2ko5)
+- [Don&#39;t Let Incidents Drown Your Support Team: How to Minimize Support Requests](https://dev.to/leotulii/incidents-drown-your-team-22o5)
 <!-- BLOG-POST-LIST:END -->
 
 
