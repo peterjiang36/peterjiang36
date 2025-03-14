@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Issue with AirPods Pro 2 &lpar;Lightning Edition&rpar; Case: Need Advice](https://dev.to/sachu_alex_d9bc5b6adc3bb3/issue-with-airpods-pro-2-lightning-edition-case-need-advice-176n)
-- [Electromagnetic Shielding: Picking the Perfect Faraday Box](https://dev.to/rfcage761/electromagnetic-shielding-picking-the-perfect-faraday-box-5abl)
-- [Days 101-102: Back to Frontend Learning &amp; Building a Personal Dashboard Chrome Extension](https://dev.to/toptech5419/days-101-102-back-to-frontend-learning-building-a-personal-dashboard-chrome-extension-5emk)
-- [[Boost]](https://dev.to/devarkarr/-5dm1)
+- [WeakMap in react-scan vs next-mdx source code.](https://dev.to/ramunarasinga-11/weakmap-in-react-scan-vs-next-mdx-source-code-12id)
+- [How to define an interface for objects with dynamic keys?](https://dev.to/mahbubur001/how-to-define-an-interface-for-objects-with-dynamic-keys-1dgj)
+- [MiniScript&#39;s Parent-Class Variable Pitfall](https://dev.to/bibleclinger/miniscripts-parent-class-variable-pitfall-4koi)
+- [Top Website Design Trends in 2025](https://dev.to/dm_intern10_400dc5a6d994/top-website-design-trends-in-2025-5dj8)
 <!-- BLOG-POST-LIST:END -->
 
 
