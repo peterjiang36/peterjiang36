@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Базовые программы и IDE для новичков в программировании. Как создать IT-стартап, сидя на кухне.](https://dev.to/sundaycoding/bazovyie-proghrammy-i-ide-dlia-novichkov-v-proghrammirovanii-kak-sozdat-it-startap-sidia-na-kukhnie-204k)
-- [Checkout FeedX : A seamless modern feedback collection platform Modern UI](https://dev.to/sjxsubham/checkout-feedx-a-seamless-modern-feedback-collection-platform-modern-ui-4fmm)
-- [Best Open Source LLM](https://dev.to/mehmetakar/best-open-source-llm-3ig8)
-- [Quickly Prepare Your Tooling with Nixery.dev: No Dockerfile Needed](https://dev.to/bnovickovs/quickly-prepare-your-tooling-with-nixerydev-no-dockerfile-needed-596b)
+- [How to execute SQL on CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-execute-sql-on-csv-files-with-esproc-spl-59l9)
+- [Prototype design thinking](https://dev.to/wangfei/prototype-design-thinking-1e1m)
+- [The N+1 query problem in Laravel and how to solve it](https://dev.to/viktorle1294/the-n1-query-problem-in-laravel-and-how-to-solve-it-4312)
+- [Physio for Office Workers: Fixing Posture and Preventing Pain](https://dev.to/jhon_hobbs_9ad9d5785b3603/physio-for-office-workers-fixing-posture-and-preventing-pain-17gn)
 <!-- BLOG-POST-LIST:END -->
 
 
