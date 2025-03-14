@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to execute SQL on CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-execute-sql-on-csv-files-with-esproc-spl-59l9)
-- [Prototype design thinking](https://dev.to/wangfei/prototype-design-thinking-1e1m)
-- [The N+1 query problem in Laravel and how to solve it](https://dev.to/viktorle1294/the-n1-query-problem-in-laravel-and-how-to-solve-it-4312)
-- [Physio for Office Workers: Fixing Posture and Preventing Pain](https://dev.to/jhon_hobbs_9ad9d5785b3603/physio-for-office-workers-fixing-posture-and-preventing-pain-17gn)
+- [Improving the documentation user experience](https://dev.to/surrealdb/improving-the-documentation-user-experience-3fh9)
+- [Adeus CodeCommit? Sem Problema! Como o AWS S3 Pode Ser um Substituto Capaz](https://dev.to/edgar_jose_412cdf41fb30a0/adeus-codecommit-sem-problema-como-o-aws-s3-pode-ser-um-substituto-capaz-3bde)
+- [The Surprising Benefits of a Morning Routine](https://dev.to/druvafan001/the-surprising-benefits-of-a-morning-routine-25fb)
+- [A Developer’s Guide to Matter Protocol: Building Smart Home Applications With Matter SDK](https://dev.to/mobisoftinfotech/a-developers-guide-to-matter-protocol-building-smart-home-applications-with-matter-sdk-3g08)
 <!-- BLOG-POST-LIST:END -->
 
 
