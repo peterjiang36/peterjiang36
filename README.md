@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WeakMap in react-scan vs next-mdx source code.](https://dev.to/ramunarasinga-11/weakmap-in-react-scan-vs-next-mdx-source-code-12id)
-- [How to define an interface for objects with dynamic keys?](https://dev.to/mahbubur001/how-to-define-an-interface-for-objects-with-dynamic-keys-1dgj)
-- [MiniScript&#39;s Parent-Class Variable Pitfall](https://dev.to/bibleclinger/miniscripts-parent-class-variable-pitfall-4koi)
-- [Top Website Design Trends in 2025](https://dev.to/dm_intern10_400dc5a6d994/top-website-design-trends-in-2025-5dj8)
+- [Building High-Performance E-commerce Websites Based on WordPress CMS](https://dev.to/mpoiiii/building-high-performance-e-commerce-websites-based-on-wordpress-cms-4bkf)
+- [JavaScript Arrow Functions &amp; Ternary Operator Explained](https://dev.to/sudhanshudevelopers/javascript-arrow-functions-ternary-operator-explained-27ob)
+- [The Overlooked Power of Frontend Performance Optimization](https://dev.to/nasirmovlamov/the-overlooked-power-of-frontend-performance-optimization-1b78)
+- [Secure Authentication with JWTs &amp; Rotating Refresh Tokens &lpar;TypeScript + Express + Vanilla JS&rpar;](https://dev.to/wiljeder/secure-authentication-with-jwts-rotating-refresh-tokens-typescript-express-vanilla-js-4f41)
 <!-- BLOG-POST-LIST:END -->
 
 
