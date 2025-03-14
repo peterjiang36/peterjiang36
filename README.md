@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning GO: A new beginning](https://dev.to/link2twenty/learning-go-a-new-beginning-2c15)
-- [What Role Does Ai Play in E-commerce in 2025?](https://dev.to/puratabla/what-role-does-ai-play-in-e-commerce-in-2025-4p0c)
-- [Let&#39;s Start](https://dev.to/sanwal_sulehria/lets-start-3910)
-- [🚀 Implementing Pull-to-Refresh in React Native with Reanimated and Lottie 🎉](https://dev.to/amitkumar13/implementing-pull-to-refresh-in-react-native-with-reanimated-and-lottie-15h5)
+- [Understanding CAG &lpar;Cache Augmented Generation&rpar;: AI&#39;s Conversation Memory With APIpie.ai](https://dev.to/apipie-ai/understanding-cag-cache-augmented-generation-ais-conversation-memory-26gp)
+- [Rust Smart Pointers Explained: Ownership, Memory, and Safety](https://dev.to/leapcell/rust-smart-pointers-explained-ownership-memory-and-safety-1ek3)
+- [How Do Microcontrollers Run Python?](https://dev.to/coursedia/how-do-microcontrollers-run-python-42dc)
+- [Setting Up an Automated Java Build and Deployment Pipeline with AWS CodeArtifact](https://dev.to/richard_atodo/setting-up-an-automated-java-build-and-deployment-pipeline-with-aws-codeartifact-2kko)
 <!-- BLOG-POST-LIST:END -->
 
 
