@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-d7f)
-- [Understanding Asynchronous Programming in JavaScript](https://dev.to/million_formula_3be3d915d/understanding-asynchronous-programming-in-javascript-bk9)
-- [Manage Netscaler in go](https://dev.to/hemantb26/manage-netscaler-in-go-jo3)
-- [The Why and How of Spicy AI Chat](https://dev.to/rizzoc/the-why-and-how-of-spicy-ai-chat-a4m)
+- [Issue with AirPods Pro 2 &lpar;Lightning Edition&rpar; Case: Need Advice](https://dev.to/sachu_alex_d9bc5b6adc3bb3/issue-with-airpods-pro-2-lightning-edition-case-need-advice-176n)
+- [Electromagnetic Shielding: Picking the Perfect Faraday Box](https://dev.to/rfcage761/electromagnetic-shielding-picking-the-perfect-faraday-box-5abl)
+- [Days 101-102: Back to Frontend Learning &amp; Building a Personal Dashboard Chrome Extension](https://dev.to/toptech5419/days-101-102-back-to-frontend-learning-building-a-personal-dashboard-chrome-extension-5emk)
+- [[Boost]](https://dev.to/devarkarr/-5dm1)
 <!-- BLOG-POST-LIST:END -->
 
 
