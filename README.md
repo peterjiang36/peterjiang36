@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fargate Deep Dive: Key Takeaways from Melbourne User Group](https://dev.to/aws-builders/aws-fargate-deep-dive-key-takeaways-from-melbourne-user-group-kl5)
-- [Game-Changing Guide to SQL for SEO Optimization](https://dev.to/anastasia-kotsiubynska/game-changing-guide-to-sql-for-seo-optimization-i78)
-- [Y&#39;all. What the heck is Vibe Coding?](https://dev.to/patchnotes_/yall-what-the-heck-is-vibe-coding-55dl)
-- [Building a community-led product roadmap](https://dev.to/quadraticai/building-a-community-led-product-roadmap-4lgb)
+- [Upcycling Ideas: Turning Trash Into Treasures for the Planet with Climate Change Experts like Rasha Anayah](https://dev.to/rashaanayah2/upcycling-ideas-turning-trash-into-treasures-for-the-planet-with-climate-change-experts-like-rasha-1k6)
+- [Ultra-Intuitive Kanban Task Manager with Built-In Pickers](https://dev.to/rumman157/ultra-intuitive-kanban-task-manager-with-built-in-pickers-31j8)
+- [&quot;Mastering Misinformation: Enhancing LLMs with Innovative Techniques&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-misinformation-enhancing-llms-with-innovative-techniques-18e8)
+- [KEDA On AKS: Deep Dive](https://dev.to/thenjdevopsguy/keda-on-aks-deep-dive-54na)
 <!-- BLOG-POST-LIST:END -->
 
 
