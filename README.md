@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Cooperation: Teaming Up with Different Creators](https://dev.to/womansalmon96/the-power-of-cooperation-teaming-up-with-different-creators-4im3)
-- [Making API requests from your spreadsheets](https://dev.to/quadraticai/making-api-requests-from-your-spreadsheets-1m3e)
-- [Git e seu funcionamento interno](https://dev.to/lucasr-luz/git-e-seu-funcionamento-interno-4ale)
-- [&quot;Buggy&quot; bfcache Behavior](https://dev.to/besworks/buggy-bfcache-behavior-1a6e)
+- [Night Climbing: Tips for Safe and Thrilling After-Dark Adventures by Mountaineering Enthusiasts such as Cesar Alcantara](https://dev.to/cesar12/night-climbing-tips-for-safe-and-thrilling-after-dark-adventures-by-mountaineering-enthusiasts-1l3f)
+- [How to &lpar;NOT&rpar; be a boring Tech speaker](https://dev.to/igorfragadev/how-to-not-be-a-boring-tech-speaker-15nh)
+- [Key Concepts of Cloud Computing](https://dev.to/mijanscript/key-concepts-of-cloud-computing-5a6p)
+- [Happy FriYAY!](https://dev.to/andreagriffiths11/happy-friyay-5fa7)
 <!-- BLOG-POST-LIST:END -->
 
 
