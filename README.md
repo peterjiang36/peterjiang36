@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Who is Nishant Rana? An Introductory Blog](https://dev.to/nishantelite/who-is-nishant-rana-an-introductory-blog-o0d)
-- [My Experience with OpenStack Ironic](https://dev.to/wdp/my-experience-with-openstack-ironic-24hi)
-- [How Gaming Led Me to Programming: My Journey as a Solo Developer](https://dev.to/sureshchandras3kar/how-gaming-led-me-to-programming-my-journey-as-a-solo-developer-3ii2)
-- [JavaScript: Linked Objects](https://dev.to/mobolanleadebesin/javascript-linked-objects-41di)
+- [Learning GO: A new beginning](https://dev.to/link2twenty/learning-go-a-new-beginning-2c15)
+- [What Role Does Ai Play in E-commerce in 2025?](https://dev.to/puratabla/what-role-does-ai-play-in-e-commerce-in-2025-4p0c)
+- [Let&#39;s Start](https://dev.to/sanwal_sulehria/lets-start-3910)
+- [🚀 Implementing Pull-to-Refresh in React Native with Reanimated and Lottie 🎉](https://dev.to/amitkumar13/implementing-pull-to-refresh-in-react-native-with-reanimated-and-lottie-15h5)
 <!-- BLOG-POST-LIST:END -->
 
 
