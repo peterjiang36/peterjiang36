@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📣 &lpar;03.19.25&rpar; Upcoming Live Mentoring Webinar &lpar;Free Admission&rpar;](https://dev.to/h_metacode_74e90df0ee5da6/031925-upcoming-live-mentoring-webinar-free-admission-404)
-- [Why do carpets have to be tested for 16CFR1630 surface flammability?](https://dev.to/rebecca_zhang_53170276935/why-do-carpets-have-to-be-tested-for-16cfr1630-surface-flammability-15o2)
-- [Are 16 CFR 1632 and 16 CFR 1633 the same?](https://dev.to/rebecca_zhang_53170276935/are-16-cfr-1632-and-16-cfr-1633-the-same-5akj)
-- [How to Export Sqlite Data to a Csv File in 2025?](https://dev.to/jordankeurope/how-to-export-sqlite-data-to-a-csv-file-in-2025-3j2p)
+- [Build a BMI Calculator Using JavaScript – Try It Now!](https://dev.to/babynamenestlings_efe5ba9/build-a-bmi-calculator-using-javascript-try-it-now-4hk7)
+- [What to Say to an AI Chatbot? Starters and Prompts for Fun](https://dev.to/jajaji/what-to-say-to-an-ai-chatbot-starters-and-prompts-for-fun-17f6)
+- [🍺 Drinking Culture and How I Survive?](https://dev.to/mrzaizai2k/drinking-culture-and-how-i-survive-2c6k)
+- [Bouncing Back: My Journey Through My First Tech Layoff](https://dev.to/clarizalooktech/bouncing-back-my-journey-through-my-first-tech-layoff-5187)
 <!-- BLOG-POST-LIST:END -->
 
 
