@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance E-commerce Websites Based on WordPress CMS](https://dev.to/mpoiiii/building-high-performance-e-commerce-websites-based-on-wordpress-cms-4bkf)
-- [JavaScript Arrow Functions &amp; Ternary Operator Explained](https://dev.to/sudhanshudevelopers/javascript-arrow-functions-ternary-operator-explained-27ob)
-- [The Overlooked Power of Frontend Performance Optimization](https://dev.to/nasirmovlamov/the-overlooked-power-of-frontend-performance-optimization-1b78)
-- [Secure Authentication with JWTs &amp; Rotating Refresh Tokens &lpar;TypeScript + Express + Vanilla JS&rpar;](https://dev.to/wiljeder/secure-authentication-with-jwts-rotating-refresh-tokens-typescript-express-vanilla-js-4f41)
+- [Базовые программы и IDE для новичков в программировании. Как создать IT-стартап, сидя на кухне.](https://dev.to/sundaycoding/bazovyie-proghrammy-i-ide-dlia-novichkov-v-proghrammirovanii-kak-sozdat-it-startap-sidia-na-kukhnie-204k)
+- [Checkout FeedX : A seamless modern feedback collection platform Modern UI](https://dev.to/sjxsubham/checkout-feedx-a-seamless-modern-feedback-collection-platform-modern-ui-4fmm)
+- [Best Open Source LLM](https://dev.to/mehmetakar/best-open-source-llm-3ig8)
+- [Quickly Prepare Your Tooling with Nixery.dev: No Dockerfile Needed](https://dev.to/bnovickovs/quickly-prepare-your-tooling-with-nixerydev-no-dockerfile-needed-596b)
 <!-- BLOG-POST-LIST:END -->
 
 
