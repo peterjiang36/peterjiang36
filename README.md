@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Upcycling Ideas: Turning Trash Into Treasures for the Planet with Climate Change Experts like Rasha Anayah](https://dev.to/rashaanayah2/upcycling-ideas-turning-trash-into-treasures-for-the-planet-with-climate-change-experts-like-rasha-1k6)
-- [Ultra-Intuitive Kanban Task Manager with Built-In Pickers](https://dev.to/rumman157/ultra-intuitive-kanban-task-manager-with-built-in-pickers-31j8)
-- [&quot;Mastering Misinformation: Enhancing LLMs with Innovative Techniques&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-misinformation-enhancing-llms-with-innovative-techniques-18e8)
-- [KEDA On AKS: Deep Dive](https://dev.to/thenjdevopsguy/keda-on-aks-deep-dive-54na)
+- [📣 &lpar;03.19.25&rpar; Upcoming Live Mentoring Webinar &lpar;Free Admission&rpar;](https://dev.to/h_metacode_74e90df0ee5da6/031925-upcoming-live-mentoring-webinar-free-admission-404)
+- [Why do carpets have to be tested for 16CFR1630 surface flammability?](https://dev.to/rebecca_zhang_53170276935/why-do-carpets-have-to-be-tested-for-16cfr1630-surface-flammability-15o2)
+- [Are 16 CFR 1632 and 16 CFR 1633 the same?](https://dev.to/rebecca_zhang_53170276935/are-16-cfr-1632-and-16-cfr-1633-the-same-5akj)
+- [How to Export Sqlite Data to a Csv File in 2025?](https://dev.to/jordankeurope/how-to-export-sqlite-data-to-a-csv-file-in-2025-3j2p)
 <!-- BLOG-POST-LIST:END -->
 
 
