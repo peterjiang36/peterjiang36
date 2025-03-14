@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Fetch &lpar;Get&rpar; HTML From Server 🛤️](https://dev.to/hmpljs/how-to-fetch-get-html-from-server-4mdg)
-- [When AI isn&#39;t there, but it feels as though it is.](https://dev.to/deven_trafny_39709b220b1d/when-ai-isnt-there-but-it-feels-as-though-it-is-143i)
-- [How AI Makes Our Leisure Smarter: From Travel Planning to Playlist Creation](https://dev.to/klimd1389/how-ai-makes-our-leisure-smarter-from-travel-planning-to-playlist-creation-4lnj)
-- [**Mastering MongoDB with Mongoose: How CampusX Optimizes Data Queries**](https://dev.to/prathvihan108/mastering-mongodb-with-mongoose-how-campusx-optimizes-data-queries-1jdi)
+- [A Step-by-Step Guide to Install Gemma-3 Locally with Ollama or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-gemma-3-locally-with-ollama-or-transformers-12g6)
+- [Using GitOps to Manage a KWOK Deployment](https://dev.to/charlesuneze/using-gitops-to-manage-a-kwok-deployment-35c1)
+- [AI and Relationship Consent: The History of AI Chats](https://dev.to/marin_georgiev_ea4012a246/ai-and-relationship-consent-the-history-of-ai-chats-2m6p)
+- [SLO Metrics: A Practical Guide to Measuring and Improving Service Reliability](https://dev.to/kapusto/slo-metrics-a-practical-guide-to-measuring-and-improving-service-reliability-2e3h)
 <!-- BLOG-POST-LIST:END -->
 
 
