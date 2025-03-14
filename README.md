@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Install Gemma-3 Locally with Ollama or Transformers](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-gemma-3-locally-with-ollama-or-transformers-12g6)
-- [Using GitOps to Manage a KWOK Deployment](https://dev.to/charlesuneze/using-gitops-to-manage-a-kwok-deployment-35c1)
-- [AI and Relationship Consent: The History of AI Chats](https://dev.to/marin_georgiev_ea4012a246/ai-and-relationship-consent-the-history-of-ai-chats-2m6p)
-- [SLO Metrics: A Practical Guide to Measuring and Improving Service Reliability](https://dev.to/kapusto/slo-metrics-a-practical-guide-to-measuring-and-improving-service-reliability-2e3h)
+- [Adobe Commerce&#39;s Big Announcement: A Technical Deep Dive](https://dev.to/rafaelcg/adobe-commerces-big-announcement-a-technical-deep-dive-2jjc)
+- [Advanced string typing in TypeScript](https://dev.to/56_kode/advanced-string-typing-in-typescript-81c)
+- [Currently active Wi-Fi network URL scheme for iOS and macOS](https://dev.to/no_op_co/currently-active-wi-fi-network-url-scheme-for-ios-and-macos-577j)
+- [What to Prioritize in a Code Review](https://dev.to/kodustech/what-to-prioritize-in-a-code-review-mog)
 <!-- BLOG-POST-LIST:END -->
 
 
