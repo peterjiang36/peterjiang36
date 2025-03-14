@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Commerce&#39;s Big Announcement: A Technical Deep Dive](https://dev.to/rafaelcg/adobe-commerces-big-announcement-a-technical-deep-dive-2jjc)
-- [Advanced string typing in TypeScript](https://dev.to/56_kode/advanced-string-typing-in-typescript-81c)
-- [Currently active Wi-Fi network URL scheme for iOS and macOS](https://dev.to/no_op_co/currently-active-wi-fi-network-url-scheme-for-ios-and-macos-577j)
-- [What to Prioritize in a Code Review](https://dev.to/kodustech/what-to-prioritize-in-a-code-review-mog)
+- [Who is Nishant Rana? An Introductory Blog](https://dev.to/nishantelite/who-is-nishant-rana-an-introductory-blog-o0d)
+- [My Experience with OpenStack Ironic](https://dev.to/wdp/my-experience-with-openstack-ironic-24hi)
+- [How Gaming Led Me to Programming: My Journey as a Solo Developer](https://dev.to/sureshchandras3kar/how-gaming-led-me-to-programming-my-journey-as-a-solo-developer-3ii2)
+- [JavaScript: Linked Objects](https://dev.to/mobolanleadebesin/javascript-linked-objects-41di)
 <!-- BLOG-POST-LIST:END -->
 
 
