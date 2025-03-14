@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Umbrella AI Method Cuts Learning Time by 50% While Boosting Performance in Complex Systems](https://dev.to/mikeyoung44/new-umbrella-ai-method-cuts-learning-time-by-50-while-boosting-performance-in-complex-systems-3ed4)
-- [Breakthrough: Cut AI Memory Usage in Half Without Losing Performance Using K-Cache Attention](https://dev.to/mikeyoung44/breakthrough-cut-ai-memory-usage-in-half-without-losing-performance-using-k-cache-attention-4hpe)
-- [Estudos e Aprendizados](https://dev.to/thedigitalbricklayer/estudos-e-aprendizados-30nl)
-- [Latest Post-Training Methods for Large Language Models: A Complete Guide to Enhancing AI Performance](https://dev.to/mikeyoung44/latest-post-training-methods-for-large-language-models-a-complete-guide-to-enhancing-ai-performance-2pe1)
+- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
+- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
+- [🤖 Cursor MCP vs. Windsurf MCP using Composio MCP Server 🚀](https://dev.to/shricodev/cursor-mcp-vs-windsurf-mcp-using-composio-mcp-server-1748)
+- [hi, learning python beginner here...](https://dev.to/hyapadi/hi-learning-python-beginner-here-o19)
 <!-- BLOG-POST-LIST:END -->
 
 
