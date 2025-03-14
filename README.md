@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemma 3 Unlocked: The 128K-Token Multimodal AI Breakthrough Every Developer Must Explore](https://dev.to/sayed_ali_alkamel/google-gemma-3-unlocked-the-128k-token-multimodal-ai-breakthrough-every-developer-must-explore-n5k)
-- [𝗛𝗼𝘄 𝘁𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗨𝗽𝗱𝗮𝘁𝗲 𝗦𝗽𝗲𝗻𝘁 𝗔𝗺𝗼𝘂𝗻𝘁 𝗶𝗻 𝗕𝘂𝗱𝗴𝗲𝘁 𝗨𝘀𝗶𝗻𝗴 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿](https://dev.to/supraja_tangella_b7f0738e/-5da2)
-- [🤖 Cursor MCP vs. Windsurf MCP using Composio MCP Server 🚀](https://dev.to/shricodev/cursor-mcp-vs-windsurf-mcp-using-composio-mcp-server-1748)
-- [hi, learning python beginner here...](https://dev.to/hyapadi/hi-learning-python-beginner-here-o19)
+- [Design Patterns in Swift: Singleton](https://dev.to/raphacmartin/design-patterns-in-swift-singleton-54p5)
+- [Building a Dynamic Filter Builder for React with KendoReact and Filterweave](https://dev.to/souravfrank/building-a-dynamic-filter-builder-for-react-with-kendoreact-and-filterweave-308o)
+- [Why your network requests may timeout intermittently in your iOS simulator](https://dev.to/marionauta/why-your-network-requests-may-timeout-intermittently-in-your-ios-simulator-16ak)
+- [Announcing the Raspberry Pi 50000: The Future of Computing is Just a Mouse](https://dev.to/rdlauer/announcing-the-raspberry-pi-50000-the-future-of-computing-is-just-a-mouse-jep)
 <!-- BLOG-POST-LIST:END -->
 
 
