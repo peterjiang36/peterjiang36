@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns in Swift: Singleton](https://dev.to/raphacmartin/design-patterns-in-swift-singleton-54p5)
-- [Building a Dynamic Filter Builder for React with KendoReact and Filterweave](https://dev.to/souravfrank/building-a-dynamic-filter-builder-for-react-with-kendoreact-and-filterweave-308o)
-- [Why your network requests may timeout intermittently in your iOS simulator](https://dev.to/marionauta/why-your-network-requests-may-timeout-intermittently-in-your-ios-simulator-16ak)
-- [Announcing the Raspberry Pi 50000: The Future of Computing is Just a Mouse](https://dev.to/rdlauer/announcing-the-raspberry-pi-50000-the-future-of-computing-is-just-a-mouse-jep)
+- [How To Fetch &lpar;Get&rpar; HTML From Server 🛤️](https://dev.to/hmpljs/how-to-fetch-get-html-from-server-4mdg)
+- [When AI isn&#39;t there, but it feels as though it is.](https://dev.to/deven_trafny_39709b220b1d/when-ai-isnt-there-but-it-feels-as-though-it-is-143i)
+- [How AI Makes Our Leisure Smarter: From Travel Planning to Playlist Creation](https://dev.to/klimd1389/how-ai-makes-our-leisure-smarter-from-travel-planning-to-playlist-creation-4lnj)
+- [**Mastering MongoDB with Mongoose: How CampusX Optimizes Data Queries**](https://dev.to/prathvihan108/mastering-mongodb-with-mongoose-how-campusx-optimizes-data-queries-1jdi)
 <!-- BLOG-POST-LIST:END -->
 
 
