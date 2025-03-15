@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Creating Contacts in Dynamics 365: A Deep Dive into the Personal Setting](https://dev.to/nikhildynamicsce/auto-creating-contacts-in-dynamics-365-a-deep-dive-into-the-personal-setting-1fgb)
-- [Building High-Performance Message Queues in Go: A Developer&#39;s Guide](https://dev.to/aaravjoshi/building-high-performance-message-queues-in-go-a-developers-guide-1ic7)
-- [Dead Letter Queue &lpar;DLQ&rpar; - In-Depth Explanation](https://dev.to/devcorner/dead-letter-queue-dlq-in-depth-explanation-32o)
-- [What Developers Often Get Wrong When Interacting with AI](https://dev.to/iredox10/what-developers-often-get-wrong-when-interacting-with-ai-3c2d)
+- [Black Box vs. White Box Testing: Understanding the Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/black-box-vs-white-box-testing-understanding-the-differences-2c25)
+- [What is LLM in AI?](https://dev.to/mehmetakar/what-is-llm-in-ai-2d8d)
+- [Read my new blog!!](https://dev.to/rohan_sharma/read-my-new-blog-3bl0)
+- [Docker from 0 to Hero](https://dev.to/flaviuscdinu/-docker-from-0-to-hero-bpk)
 <!-- BLOG-POST-LIST:END -->
 
 
