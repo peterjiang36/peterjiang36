@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Box vs. White Box Testing: Understanding the Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/black-box-vs-white-box-testing-understanding-the-differences-2c25)
-- [What is LLM in AI?](https://dev.to/mehmetakar/what-is-llm-in-ai-2d8d)
-- [Read my new blog!!](https://dev.to/rohan_sharma/read-my-new-blog-3bl0)
-- [Docker from 0 to Hero](https://dev.to/flaviuscdinu/-docker-from-0-to-hero-bpk)
+- [Instalando o PostgreSQL no WSL &lpar;Windows Subsystem Linux&rpar;](https://dev.to/videosdeti/instalando-o-postgresql-no-wsl-windows-subsystem-linux-56a9)
+- [How to Create an Azure Compute Gallery and Capturing a VM Image](https://dev.to/busa_wilmer/how-to-create-an-azure-compute-gallery-and-capturing-a-vm-image-20g6)
+- [Instalando o VSCode, Rails e testando a instalação &lpar;Windows&rpar;](https://dev.to/videosdeti/instalando-o-vscode-rails-e-testando-a-instalacao-windows-5fmf)
+- [Instalando o RVM no WSL](https://dev.to/videosdeti/instalando-o-rvm-no-wsl-32lf)
 <!-- BLOG-POST-LIST:END -->
 
 
