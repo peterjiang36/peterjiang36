@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Instalando o PostgreSQL no WSL &lpar;Windows Subsystem Linux&rpar;](https://dev.to/videosdeti/instalando-o-postgresql-no-wsl-windows-subsystem-linux-56a9)
-- [How to Create an Azure Compute Gallery and Capturing a VM Image](https://dev.to/busa_wilmer/how-to-create-an-azure-compute-gallery-and-capturing-a-vm-image-20g6)
-- [Instalando o VSCode, Rails e testando a instalação &lpar;Windows&rpar;](https://dev.to/videosdeti/instalando-o-vscode-rails-e-testando-a-instalacao-windows-5fmf)
-- [Instalando o RVM no WSL](https://dev.to/videosdeti/instalando-o-rvm-no-wsl-32lf)
+- [🚀 Introducing Supreme Bot: A Python-Based Web Automation Tool 🛒](https://dev.to/francio/introducing-supreme-bot-a-python-based-web-automation-tool-4i43)
+- [Curve V1 notes](https://dev.to/zt_myo/curve-v1-notes-17c2)
+- [I have a quite bit of knowledge in python and now currently i like to study and learn about it more and more so any of you guys recommend projects that&#39;s helps to improve more about python?](https://dev.to/arun04hack/i-have-a-quite-bit-of-knowledge-in-python-and-now-currently-i-like-to-study-and-learn-about-it-more-kl3)
+- [10 Tips for Junior Developers from a Senior Programmer](https://dev.to/coderabbitai/10-tips-for-junior-developers-from-a-senior-programmer-j4o)
 <!-- BLOG-POST-LIST:END -->
 
 
