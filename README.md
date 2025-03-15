@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From PHP to Python - porting a Reddit clone with the help of Amazon Q Developer](https://dev.to/aws/from-php-to-python-porting-a-reddit-clone-with-the-help-of-amazon-q-developer-23g)
-- [Mastering Algorithms with Python: A Beginner&#39;s Guide](https://dev.to/abibtechid/mastering-algorithms-with-python-a-beginners-guide-4l0m)
-- [بده ۲@](https://dev.to/aein_bagheri_10ffa69696b9/bdh-2-2pho)
-- [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
+- [Multi-Factor Authentication &lpar;MFA&rpar; on AWS: A Critical Security Measure](https://dev.to/aws-builders/multi-factor-authentication-mfa-on-aws-a-critical-security-measure-4po6)
+- [What is HTML?](https://dev.to/merndev_enamul/what-is-html-54l2)
+- [Understanding Islamic Law: Key Principles, Sources, and Applications](https://dev.to/guidelinesislamiclaw/understanding-islamic-law-key-principles-sources-and-applications-42d2)
+- [Quick overview of Model Context Protocol &lpar;MCP&rpar;](https://dev.to/jldec/quick-overview-of-model-context-protocol-mcp-123c)
 <!-- BLOG-POST-LIST:END -->
 
 
