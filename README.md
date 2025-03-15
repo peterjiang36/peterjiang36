@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Basics of Relational Databases: Primary Keys and Foreign Keys Explained](https://dev.to/be11amer/the-basics-of-relational-databases-primary-keys-and-foreign-keys-explained-g7d)
-- [10 Must-Know Free Websites for Web Developers](https://dev.to/amarjit_yadav/10-must-know-free-websites-for-web-developers-4gp)
-- [➡️ 5 Essential JavaScript Concepts Every Developer Should Master](https://dev.to/artem_turlenko/5-essential-javascript-concepts-every-developer-should-master-2edc)
-- [Code or No Code? The AI Revolution in Web](https://dev.to/amarjit_yadav/-2825)
+- [From Gaming Dreams to Web Development—My Unexpected Journey](https://dev.to/uzondu9/from-gaming-dreams-to-web-development-my-unexpected-journey-56m9)
+- [🚀 Understanding Package Name, Categories &amp; Tags in Google Play Console: A Complete Guide](https://dev.to/kamleshj/understanding-package-name-categories-tags-in-google-play-console-a-complete-guide-46j1)
+- [How to be Test Driven with Spark: Chapter 5: Leverage spark in a container](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-5-leverage-spark-in-a-container-1p74)
+- [@Bean annotation example in spring boot](https://dev.to/realnamehidden1_61/bean-annotation-example-in-spring-boot-26ba)
 <!-- BLOG-POST-LIST:END -->
 
 
