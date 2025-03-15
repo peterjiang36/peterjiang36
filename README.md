@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Your Developers Costing You Money? Here’s How to Tell](https://dev.to/developerpartners/are-your-developers-costing-you-money-heres-how-to-tell-3e4h)
-- [6.4 Referenciando métodos de instância](https://dev.to/fundamentosjava/64-referenciando-metodos-de-instancia-2b29)
-- [Unlocking the Power of Global Variables in Python](https://dev.to/alexrivers/unlocking-the-power-of-global-variables-in-python-2pim)
-- [🌟 Unlocking Kubernetes Ingress: The Gateway to Simplified Traffic Management 🌟](https://dev.to/anil_kumar_ff4f6ad3549983/unlocking-kubernetes-ingress-the-gateway-to-simplified-traffic-management-582b)
+- [Performance in Javascript/ReactJS: Part 1](https://dev.to/shelly_agarwal_19/performance-in-javascriptreactjs-part-1-2gah)
+- [AI AVATAR CUSTOMIZATION: What You Need to Know](https://dev.to/eljoooy/ai-avatar-customization-what-you-need-to-know-5eec)
+- [Most Common Docker Use Cases in 2025](https://dev.to/babita/most-common-docker-use-cases-in-2025-2c7o)
+- [Master Video Editing in Rust with FFmpeg in Just 3 Minutes](https://dev.to/yeauty/master-video-editing-in-rust-with-ffmpeg-in-just-3-minutes-27dm)
 <!-- BLOG-POST-LIST:END -->
 
 
