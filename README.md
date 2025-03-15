@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Supreme Bot: A Python-Based Web Automation Tool 🛒](https://dev.to/francio/introducing-supreme-bot-a-python-based-web-automation-tool-4i43)
-- [Curve V1 notes](https://dev.to/zt_myo/curve-v1-notes-17c2)
-- [I have a quite bit of knowledge in python and now currently i like to study and learn about it more and more so any of you guys recommend projects that&#39;s helps to improve more about python?](https://dev.to/arun04hack/i-have-a-quite-bit-of-knowledge-in-python-and-now-currently-i-like-to-study-and-learn-about-it-more-kl3)
-- [10 Tips for Junior Developers from a Senior Programmer](https://dev.to/coderabbitai/10-tips-for-junior-developers-from-a-senior-programmer-j4o)
+- [View Badger](https://dev.to/stevo_49b8ac0aa869/view-badger-h5a)
+- [Breaking Stereotypes - Lessons Learned from Unconscious Bias in Tech](https://dev.to/makendrang/breaking-stereotypes-lessons-learned-from-unconscious-bias-in-tech-57kg)
+- [Maximize Your Remote Dev Day](https://dev.to/mehedihsiamt/maximize-your-remote-dev-day-25gl)
+- [Vaporwave studio](https://dev.to/stevo_49b8ac0aa869/vaporwave-studio-5g3f)
 <!-- BLOG-POST-LIST:END -->
 
 
