@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Samir Salih is Transforming the Mental Health Industry with Technology](https://dev.to/jessicase0/how-samir-salih-is-transforming-the-mental-health-industry-with-technology-3fph)
-- [What is LLM in AI](https://dev.to/mehmetakar/what-is-llm-in-ai-487d)
-- [Week 2 Done! 🚀 My DevOps Learning Journey 🎯](https://dev.to/princemalikk/week-2-done-my-devops-learning-journey-3aod)
-- [#job #aws# #devsecops #cloud #kubernetes](https://dev.to/anu_raj_64b3fb7b7f1ed80b6/job-aws-devsecops-cloud-kubernetes-486j)
+- [Why None?](https://dev.to/arun04hack/why-none-dh4)
+- [Hello everyone! 👋 I’m Jen, a Software Engineer from the PH. I’m new here and excited to connect with like-minded professionals! 🚀 Feel free to check out my profile @ https://jenelynababan.com Looking forward to networking, learning, and growing together.](https://dev.to/jenelyn/hello-everyone-im-jen-a-software-engineer-from-the-ph-im-new-here-and-excited-to-connect-3250)
+- [Фронтенд для Web3 dApp: хорошие практики](https://dev.to/niko_doing_dev/frontiend-dlia-web3-dapp-khoroshiie-praktiki-4pap)
+- [Qué tecnologías usar en mi aplicación?](https://dev.to/es-devej/que-tecnologias-usar-en-mi-aplicacion-ahl)
 <!-- BLOG-POST-LIST:END -->
 
 
