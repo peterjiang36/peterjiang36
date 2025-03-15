@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Container Pipeline: Using AWS Inspector with GitHub Actions](https://dev.to/aws-builders/securing-your-container-pipeline-using-aws-inspector-with-github-actions-4fma)
-- [Tamilnadu Tourism Website Mockup](https://dev.to/swotkarthik/tamilnadu-tourism-website-mockup-2mk4)
-- [Admin Panel Design Tailwind](https://dev.to/swotkarthik/admin-panel-design-tailwind-3con)
-- [鸿蒙开发：走进stateStyles多态样式](https://dev.to/abnerming888/hong-meng-kai-fa-zou-jin-statestylesduo-tai-yang-shi-od0)
+- [Are Your Developers Costing You Money? Here’s How to Tell](https://dev.to/developerpartners/are-your-developers-costing-you-money-heres-how-to-tell-3e4h)
+- [6.4 Referenciando métodos de instância](https://dev.to/fundamentosjava/64-referenciando-metodos-de-instancia-2b29)
+- [Unlocking the Power of Global Variables in Python](https://dev.to/alexrivers/unlocking-the-power-of-global-variables-in-python-2pim)
+- [🌟 Unlocking Kubernetes Ingress: The Gateway to Simplified Traffic Management 🌟](https://dev.to/anil_kumar_ff4f6ad3549983/unlocking-kubernetes-ingress-the-gateway-to-simplified-traffic-management-582b)
 <!-- BLOG-POST-LIST:END -->
 
 
