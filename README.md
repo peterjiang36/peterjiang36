@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native vs Flutter: Which Framework is Better in 2025?](https://dev.to/dct_technologyprivatelimited/react-native-vs-flutter-which-framework-is-better-in-2025-4in3)
-- [Laravel Starter Kit](https://dev.to/uhrzel/laravel-starter-kit-9pa)
-- [Why Alignment Is Impotant In UI / UX Design](https://dev.to/abubakr_313/why-alignment-is-impotant-in-ui-ux-design-1g8m)
-- [Why AI Chat is the Future of Entertainment](https://dev.to/ryder_andrew/why-ai-chat-is-the-future-of-entertainment-3bmk)
+- [The Basics of Relational Databases: Primary Keys and Foreign Keys Explained](https://dev.to/be11amer/the-basics-of-relational-databases-primary-keys-and-foreign-keys-explained-g7d)
+- [10 Must-Know Free Websites for Web Developers](https://dev.to/amarjit_yadav/10-must-know-free-websites-for-web-developers-4gp)
+- [➡️ 5 Essential JavaScript Concepts Every Developer Should Master](https://dev.to/artem_turlenko/5-essential-javascript-concepts-every-developer-should-master-2edc)
+- [Code or No Code? The AI Revolution in Web](https://dev.to/amarjit_yadav/-2825)
 <!-- BLOG-POST-LIST:END -->
 
 
