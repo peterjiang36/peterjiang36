@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Gaming Dreams to Web Development—My Unexpected Journey](https://dev.to/uzondu9/from-gaming-dreams-to-web-development-my-unexpected-journey-56m9)
-- [🚀 Understanding Package Name, Categories &amp; Tags in Google Play Console: A Complete Guide](https://dev.to/kamleshj/understanding-package-name-categories-tags-in-google-play-console-a-complete-guide-46j1)
-- [How to be Test Driven with Spark: Chapter 5: Leverage spark in a container](https://dev.to/nda_27/how-to-be-test-driven-with-spark-chapter-5-leverage-spark-in-a-container-1p74)
-- [@Bean annotation example in spring boot](https://dev.to/realnamehidden1_61/bean-annotation-example-in-spring-boot-26ba)
+- [Essential JavaScript Methods Every Developer Should Know](https://dev.to/santoshpremi/essential-javascript-methods-every-developer-should-know-37ha)
+- [### 🚀 How to Install Git Bash on Windows and Configure Your Identity Like a Pro 🔹 *By Samuel Peter*](https://dev.to/peter_samuel_052b9056e236/-how-to-install-git-bash-on-windows-and-configure-your-identity-like-a-pro-by-samuel-4do)
+- [Leveraging Cloud Analytics to Combat Banking Fraud](https://dev.to/piya__c204c9e90/leveraging-cloud-analytics-to-combat-banking-fraud-10ma)
+- [Understanding HTTP client using node:http module](https://dev.to/iamsujit/understanding-http-client-using-nodehttp-module-49nf)
 <!-- BLOG-POST-LIST:END -->
 
 
