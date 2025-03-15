@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [new dev](https://dev.to/dalney/new-dev-4o2n)
-- [new dev](https://dev.to/dalney/new-dev-4f5b)
-- [Cara Mudah Reverse Proxy di cPanel dengan Nginx](https://dev.to/ferryops/cara-mudah-reverse-proxy-di-cpanel-dengan-nginx-4opi)
-- [[Boost]](https://dev.to/foxinfotech/-1epn)
+- [Securing Your Container Pipeline: Using AWS Inspector with GitHub Actions](https://dev.to/aws-builders/securing-your-container-pipeline-using-aws-inspector-with-github-actions-4fma)
+- [Tamilnadu Tourism Website Mockup](https://dev.to/swotkarthik/tamilnadu-tourism-website-mockup-2mk4)
+- [Admin Panel Design Tailwind](https://dev.to/swotkarthik/admin-panel-design-tailwind-3con)
+- [鸿蒙开发：走进stateStyles多态样式](https://dev.to/abnerming888/hong-meng-kai-fa-zou-jin-statestylesduo-tai-yang-shi-od0)
 <!-- BLOG-POST-LIST:END -->
 
 
