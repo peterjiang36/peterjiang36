@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [supabase_vector_project container is not ready: unhealthy](https://dev.to/davidshq/supabasevectorproject-container-is-not-ready-unhealthy-518i)
-- [Unlocking the Secrets of Remote Development: Insights from Craig Cannon](https://dev.to/jetthoughts/unlocking-the-secrets-of-remote-development-insights-from-craig-cannon-2ad8)
-- [[Kotlin] Using Mappie to Reassign Data Class Properties](https://dev.to/be-hase/kotlin-using-mappie-to-reassign-data-class-properties-ec7)
-- [How to create a private storage for internal company documents.](https://dev.to/onyemuche/how-to-create-a-private-storage-for-internal-company-documents-1flh)
+- [new dev](https://dev.to/dalney/new-dev-4o2n)
+- [new dev](https://dev.to/dalney/new-dev-4f5b)
+- [Cara Mudah Reverse Proxy di cPanel dengan Nginx](https://dev.to/ferryops/cara-mudah-reverse-proxy-di-cpanel-dengan-nginx-4opi)
+- [[Boost]](https://dev.to/foxinfotech/-1epn)
 <!-- BLOG-POST-LIST:END -->
 
 
