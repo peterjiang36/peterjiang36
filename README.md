@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Quantum Insights: The Power of Discrete Variable Representations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-insights-the-power-of-discrete-variable-representations-2n13)
-- [Como Desacoplar um Serviço Externo do Seu Código &lpar;Sem Sofrer no Futuro&rpar;](https://dev.to/h1bertobarbosa/como-desacoplar-um-servico-externo-do-seu-codigo-sem-sofrer-no-futuro-2boc)
-- [Daily JavaScript Challenge #JS-126: Rotate Matrix 90 Degrees Clockwise](https://dev.to/dpc/daily-javascript-challenge-js-126-rotate-matrix-90-degrees-clockwise-488k)
-- [ElasticTransform in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-4-4cae)
+- [supabase_vector_project container is not ready: unhealthy](https://dev.to/davidshq/supabasevectorproject-container-is-not-ready-unhealthy-518i)
+- [Unlocking the Secrets of Remote Development: Insights from Craig Cannon](https://dev.to/jetthoughts/unlocking-the-secrets-of-remote-development-insights-from-craig-cannon-2ad8)
+- [[Kotlin] Using Mappie to Reassign Data Class Properties](https://dev.to/be-hase/kotlin-using-mappie-to-reassign-data-class-properties-ec7)
+- [How to create a private storage for internal company documents.](https://dev.to/onyemuche/how-to-create-a-private-storage-for-internal-company-documents-1flh)
 <!-- BLOG-POST-LIST:END -->
 
 
