@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gas Fees Are Holding Web3 Back—Here’s How to Fix It](https://dev.to/omniradhanexus/gas-fees-are-holding-web3-back-heres-how-to-fix-it-2ef6)
-- [Embedded Systems Development: A Journey Between Euphoria and Survival](https://dev.to/rodrigo_ladeira_c9ae57da9/embedded-systems-development-a-journey-between-euphoria-and-survival-1899)
-- [How to create a multi column layout Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-multi-column-layout-tailwind-css-347l)
-- [عنوان: چاپ لیبل: راه‌حلی کارآمد برای شناسایی و تبلیغات محصولات](https://dev.to/chapansar2025/nwn-chp-lybl-rhhly-khramd-bry-shnsyy-w-tblygt-mhswlt-56h6)
+- [Disruptive, Viral, Productive AI Agents 🚀](https://dev.to/vijayr00/disruptive-viral-productive-ai-agents-1g97)
+- [🚀 Introducing FlowBlog: A Minimalist, Developer-First Blogging Platform](https://dev.to/mrsupercraft/introducing-flowblog-a-minimalist-developer-first-blogging-platform-bcd)
+- [🚀 Managing Merge Conflicts in Git: Strategies and Best Practices](https://dev.to/imevanc/managing-merge-conflicts-in-git-strategies-and-best-practices-21g2)
+- [Annoying shouldn&#39;t be ugly, or cute animated validation.](https://dev.to/ykosinets/annoying-shouldnt-be-ugly-or-cute-animated-validation-3bkm)
 <!-- BLOG-POST-LIST:END -->
 
 
