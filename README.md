@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential JavaScript Methods Every Developer Should Know](https://dev.to/santoshpremi/essential-javascript-methods-every-developer-should-know-37ha)
-- [### 🚀 How to Install Git Bash on Windows and Configure Your Identity Like a Pro 🔹 *By Samuel Peter*](https://dev.to/peter_samuel_052b9056e236/-how-to-install-git-bash-on-windows-and-configure-your-identity-like-a-pro-by-samuel-4do)
-- [Leveraging Cloud Analytics to Combat Banking Fraud](https://dev.to/piya__c204c9e90/leveraging-cloud-analytics-to-combat-banking-fraud-10ma)
-- [Understanding HTTP client using node:http module](https://dev.to/iamsujit/understanding-http-client-using-nodehttp-module-49nf)
+- [Gas Fees Are Holding Web3 Back—Here’s How to Fix It](https://dev.to/omniradhanexus/gas-fees-are-holding-web3-back-heres-how-to-fix-it-2ef6)
+- [Embedded Systems Development: A Journey Between Euphoria and Survival](https://dev.to/rodrigo_ladeira_c9ae57da9/embedded-systems-development-a-journey-between-euphoria-and-survival-1899)
+- [How to create a multi column layout Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-multi-column-layout-tailwind-css-347l)
+- [عنوان: چاپ لیبل: راه‌حلی کارآمد برای شناسایی و تبلیغات محصولات](https://dev.to/chapansar2025/nwn-chp-lybl-rhhly-khramd-bry-shnsyy-w-tblygt-mhswlt-56h6)
 <!-- BLOG-POST-LIST:END -->
 
 
