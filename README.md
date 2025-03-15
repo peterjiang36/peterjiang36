@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Big Tech Companies Can Teach Us About Incident Management](https://dev.to/leotulii/what-big-tech-companies-can-teach-us-about-incident-management-1dof)
-- [How to Build a Custom Django Authentication System: A Comprehensive Guide.](https://dev.to/eslintpurity/how-to-build-a-custom-django-authentication-system-a-comprehensive-guide-33de)
-- [10 Powerful CSS Tips and Tricks That Will Elevate Your Web Design](https://dev.to/italogermando/10-powerful-css-tips-and-tricks-that-will-elevate-your-web-design-4i3l)
-- [How AI is Revolutionizing Web Scraping: Techniques and Code Examples](https://dev.to/alex_aslam/how-ai-is-revolutionizing-web-scraping-techniques-and-code-examples-6k1)
+- [&quot;Unlocking Quantum Insights: The Power of Discrete Variable Representations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-insights-the-power-of-discrete-variable-representations-2n13)
+- [Como Desacoplar um Serviço Externo do Seu Código &lpar;Sem Sofrer no Futuro&rpar;](https://dev.to/h1bertobarbosa/como-desacoplar-um-servico-externo-do-seu-codigo-sem-sofrer-no-futuro-2boc)
+- [Daily JavaScript Challenge #JS-126: Rotate Matrix 90 Degrees Clockwise](https://dev.to/dpc/daily-javascript-challenge-js-126-rotate-matrix-90-degrees-clockwise-488k)
+- [ElasticTransform in PyTorch &lpar;4&rpar;](https://dev.to/hyperkai/elastictransform-in-pytorch-4-4cae)
 <!-- BLOG-POST-LIST:END -->
 
 
