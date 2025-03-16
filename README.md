@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pokemon3D API v0.2.1](https://dev.to/sudhanshuambastha/pokemon3d-api-v021-38ok)
 - [Mobile Agents Powered by LLMs: Revolutionizing On-Device Intelligence](https://dev.to/vihuvac/mobile-agents-powered-by-llms-revolutionizing-on-device-intelligence-5gdi)
 - [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
 - [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
-- [Amran Munir UK Software and IT Solutions Provider Company](https://dev.to/techno_insights_d8b5bd951/amran-munir-uk-software-and-it-solutions-provider-company-5cmk)
 <!-- BLOG-POST-LIST:END -->
 
 
