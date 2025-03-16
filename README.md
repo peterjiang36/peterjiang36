@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Cypress with Jenkins API for Automated Test Preparation](https://dev.to/martin_chudomel/integrating-cypress-with-jenkins-api-for-automated-test-preparation-h9f)
-- [Which Go Web Backend Framework Is Right for Your Next Project? A Detailed Analysis of Features and Performance](https://dev.to/ganesh-kumar/which-go-web-backend-framework-is-right-for-your-next-project-a-detailed-analysis-of-features-and-fpc)
-- [C# to Typescript Cheatsheet](https://dev.to/this-is-learning/c-to-typescript-cheatsheet-gp6)
-- [How to Perform Transfer Learning with Tensorflow for Custom Datasets?](https://dev.to/anna_golubkova/how-to-perform-transfer-learning-with-tensorflow-for-custom-datasets-2j60)
+- [Why Python is Taking Over Electronics Programming](https://dev.to/coursedia/why-python-is-taking-over-electronics-programming-3mn)
+- [Range Headers: Pagination the HTTP way](https://dev.to/justcatdev/range-headers-pagination-the-http-way-31mf)
+- [I master the c# language with .net. Is c# an excellent language for the future or do I have to learn python and what is the difference between them and who is stronger?](https://dev.to/mahdi_moussa_526377e45e30/i-master-the-c-language-with-net-is-c-an-excellent-language-for-the-future-or-do-i-have-to-1ii)
+- [super engajamento e momentos de satisfação](https://dev.to/m1rr4/super-engajamento-e-momentos-de-satisfacao-2fd9)
 <!-- BLOG-POST-LIST:END -->
 
 
