@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [REAL TIME PROJECT -3&lpar;Mini Project Completed: Grafana for SCM Monitoring&rpar;](https://dev.to/devops_methodology_d2b67f/real-time-project-3mini-project-completed-grafana-for-scm-monitoring-8de)
-- [Detecting Forbidden Functions in Laravel with PHPUnit](https://dev.to/tegos/detecting-forbidden-functions-in-laravel-with-phpunit-4n6f)
-- [[Boost]](https://dev.to/golthi_rithvik_26/-i3k)
-- [Go Lang Part - 01](https://dev.to/mallikarjuna/go-lang-part-01-2abc)
+- [Getting Your Project Discovered: Why Directories Are Your Secret Weapon](https://dev.to/dariubs/getting-your-project-discovered-why-directories-are-your-secret-weapon-23ei)
+- [[Boost]](https://dev.to/nivafy/-4o73)
+- [With the deprecation of create-react-app, this guide now uses Vite for React projects. Additionally, testing push notifications requires deploying the app, as Firebase needs HTTPS for message delivery. Follow the revised steps for seamless FCM integration.](https://dev.to/iamsujit/with-the-deprecation-of-create-react-app-this-guide-now-uses-vite-for-react-projects-45b5)
+- [Mastering Linux for DevOps: A Beginner&#39;s Guide Using Git Bash &amp; Linux Terminal](https://dev.to/robinrai2612/mastering-linux-for-devops-a-beginners-guide-using-git-bash-linux-terminal-21ko)
 <!-- BLOG-POST-LIST:END -->
 
 
