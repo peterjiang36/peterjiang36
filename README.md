@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Quartz.NET Job Scheduling in ASP.NET Core](https://dev.to/satyakarki/a-complete-guide-to-quartznet-job-scheduling-in-aspnet-core-al0)
-- [How do I find my connection string in Atlas?](https://dev.to/kishan45/how-do-i-find-my-connection-string-in-atlas-48e7)
-- [The Essence of Project Management: Building Ideas into Reality](https://dev.to/bodhika_disanayaka_/the-essence-of-project-management-building-ideas-into-reality-4mkp)
-- [The Fear of Red: Why Not Reading Error Messages is an Error](https://dev.to/luk_rauf/the-fear-of-red-why-not-reading-error-messages-is-an-error-2d2)
+- [Why Learning to Code is So Damn Hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
+- [AWS refuerza su compromiso con el agua: más de 7 mil millones de litros al año para comunidades locales](https://dev.to/briansuarezsantiago/aws-refuerza-su-compromiso-con-el-agua-mas-de-7-mil-millones-de-litros-al-ano-para-comunidades-31hk)
+- [Manual Testing Techniques, Boundary Value Analysis, Decision Table Testing and The future of manual testing in the age of &lpar;AI&rpar;](https://dev.to/thillai_devikanthan_205a/manual-testing-techniques-boundary-value-analysis-decision-table-testing-and-the-future-of-manual-35og)
+- [Vibe coding a nifty Umbraco tool](https://dev.to/skttl/vibe-coding-a-nifty-umbraco-tool-3jic)
 <!-- BLOG-POST-LIST:END -->
 
 
