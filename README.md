@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Factor Authentication &lpar;MFA&rpar; on AWS: A Critical Security Measure](https://dev.to/aws-builders/multi-factor-authentication-mfa-on-aws-a-critical-security-measure-4po6)
-- [What is HTML?](https://dev.to/merndev_enamul/what-is-html-54l2)
-- [Understanding Islamic Law: Key Principles, Sources, and Applications](https://dev.to/guidelinesislamiclaw/understanding-islamic-law-key-principles-sources-and-applications-42d2)
-- [Quick overview of Model Context Protocol &lpar;MCP&rpar;](https://dev.to/jldec/quick-overview-of-model-context-protocol-mcp-123c)
+- [Hi. It&#39;s Joanne here.](https://dev.to/chiuyen/hi-its-joanne-here-28fd)
+- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and GoT Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-got-framework-5amd)
+- [The Rise of Foldable Displays: Revolutionizing Mobile Technology](https://dev.to/vihuvac/the-rise-of-foldable-displays-revolutionizing-mobile-technology-2j35)
+- [A Nova Onda do &quot;Vibe Coding&quot;](https://dev.to/teknolista/a-nova-onda-do-vibe-coding-2c9l)
 <!-- BLOG-POST-LIST:END -->
 
 
