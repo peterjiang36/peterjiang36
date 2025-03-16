@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity: The High-Demand, Low-Competition Career Alternative to Software Engineering](https://dev.to/dehemi_fabio/cybersecurity-the-high-demand-low-competition-career-alternative-to-software-engineering-5gml)
-- [Top Engineering Principles: The Foundations of Innovation &amp; Efficiency](https://dev.to/devcorner/top-engineering-principles-the-foundations-of-innovation-efficiency-2298)
-- [[Boost]](https://dev.to/vijayr00/-1kg7)
-- [Complete Guide on Introduction to Python Programming Language](https://dev.to/ankit_cyber/complete-guide-on-introduction-to-python-programming-language-57g3)
+- [Create React App is Deprecated – What’s Next ?](https://dev.to/techcrafted/create-react-app-is-deprecated-whats-next--1d20)
+- [A mathematical model of the objective value of &quot;Safety&quot;. Let&#39;s talk about sustainability by predictability.](https://dev.to/bladerunner_ai/a-mathematical-model-of-the-objective-value-of-safety-lets-talk-about-sustainability-by-2p3f)
+- [Primeiro mês usando Linux](https://dev.to/gguife/primeiro-mes-usando-linux-4cc3)
+- [What is Pokémon Unbound, and what unique features does it offer to players?](https://dev.to/sam_john_446ae3e12023274e/what-is-pokemon-unbound-and-what-unique-features-does-it-offer-to-players-2f79)
 <!-- BLOG-POST-LIST:END -->
 
 
