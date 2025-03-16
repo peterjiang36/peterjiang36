@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle 23ai — Track Table and Partition Scan Access](https://dev.to/vahidusefzadeh/oracle-23ai-track-table-and-partition-scan-access-l9a)
-- [A Backend-to-Full Stack Savior: AI Revamps the App Interface](https://dev.to/mjiee/a-backend-to-full-stack-savior-ai-revamps-the-app-interface-13hh)
-- [“The Hidden Shortcut to Open GitHub Repositories in VS Code”](https://dev.to/ramyasree_manthena_76c598/the-hidden-shortcut-to-open-github-repositories-in-vs-code-j9k)
-- [Server-Side vs. Client-Side Rendering: Which One Should You Choose?](https://dev.to/aryan015/server-side-vs-client-side-rendering-which-one-should-you-choose-1m2e)
+- [🚀TypeScript 10x Lebih Ngebut: Inovasi Gede Buat Developer JavaScript](https://dev.to/ferryops/typescript-10x-lebih-ngebut-inovasi-gede-buat-developer-javascript-4gm1)
+- [React architecture](https://dev.to/victormarques92/react-architecture-4gfh)
+- [Static Site Generation &lpar;SSG&rpar; vs. Incremental Static Regeneration &lpar;ISR&rpar; in Modern Web Development](https://dev.to/aryan015/static-site-generation-ssg-vs-incremental-static-regeneration-isr-in-modern-web-development-4h50)
+- [Creating a Pixel Art Generator with Export Option: A Step-by-Step Guide](https://dev.to/learncomputer/creating-a-pixel-art-generator-with-export-option-a-step-by-step-guide-1397)
 <!-- BLOG-POST-LIST:END -->
 
 
