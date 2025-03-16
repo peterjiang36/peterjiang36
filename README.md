@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Breaking News: Your Resume Just Got a Glow-Up! 🎉](https://dev.to/just0_0kidding/breaking-news-your-resume-just-got-a-glow-up-46ih)
-- [Understanding MCP and How AI Engineers Can Leverage It](https://dev.to/luxdevhq/understanding-mcp-and-how-ai-engineers-can-leverage-it-3e2i)
-- [10 fun Chrome Extensions to mess around with!](https://dev.to/ishanrai9/10-fun-chrome-extensions-to-mess-around-with-42j4)
-- [How to Land High-Paying Software Engineering Jobs: A Step-by-Step Guide](https://dev.to/saroojbkhari/how-to-land-high-paying-software-engineering-jobs-a-step-by-step-guide-mnh)
+- [Choosing the Right Tech Stack for App Development: Cost vs. Performance](https://dev.to/deepak_kumar_01114ce97046/choosing-the-right-tech-stack-for-app-development-cost-vs-performance-4e6d)
+- [Top 5 Effective Methods to Enhance API Performance](https://dev.to/mohamed_el_laithy/top-5-effective-methods-to-enhance-api-performance-51hi)
+- [How to create and print an invoice with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-and-print-an-invoice-with-tailwind-css-5hc6)
+- [Understanding Ripple &lpar;XRP&rpar; in Blockchain](https://dev.to/blessedtechnologist/understanding-ripple-xrp-in-blockchain-30c9)
 <!-- BLOG-POST-LIST:END -->
 
 
