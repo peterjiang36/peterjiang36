@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tools that Make Me Productive as a Software Engineer](https://dev.to/ruppysuppy/7-tools-that-make-me-productive-as-a-software-engineer-4p3l)
-- [🚀 Built an 💰 Expense Tracker That Tracks Your Spending—Without Manual Entry! 🏦📊](https://dev.to/emilp/built-an-expense-tracker-that-tracks-your-spending-without-manual-entry-5h2k)
-- [Simple SIEM Home Lab Using Elastic Cloud](https://dev.to/rajkumarpaneru18/simple-siem-home-lab-using-elastic-cloud-581h)
-- [Why Every Developer Should Use Git Daily 🚀](https://dev.to/matin676/why-every-developer-should-use-git-daily-1112)
+- [Cybersecurity: The High-Demand, Low-Competition Career Alternative to Software Engineering](https://dev.to/dehemi_fabio/cybersecurity-the-high-demand-low-competition-career-alternative-to-software-engineering-5gml)
+- [Top Engineering Principles: The Foundations of Innovation &amp; Efficiency](https://dev.to/devcorner/top-engineering-principles-the-foundations-of-innovation-efficiency-2298)
+- [[Boost]](https://dev.to/vijayr00/-1kg7)
+- [Complete Guide on Introduction to Python Programming Language](https://dev.to/ankit_cyber/complete-guide-on-introduction-to-python-programming-language-57g3)
 <!-- BLOG-POST-LIST:END -->
 
 
