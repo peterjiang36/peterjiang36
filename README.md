@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Tech Stack for App Development: Cost vs. Performance](https://dev.to/deepak_kumar_01114ce97046/choosing-the-right-tech-stack-for-app-development-cost-vs-performance-4e6d)
-- [Top 5 Effective Methods to Enhance API Performance](https://dev.to/mohamed_el_laithy/top-5-effective-methods-to-enhance-api-performance-51hi)
-- [How to create and print an invoice with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-and-print-an-invoice-with-tailwind-css-5hc6)
-- [Understanding Ripple &lpar;XRP&rpar; in Blockchain](https://dev.to/blessedtechnologist/understanding-ripple-xrp-in-blockchain-30c9)
+- [A Complete Guide to Quartz.NET Job Scheduling in ASP.NET Core](https://dev.to/satyakarki/a-complete-guide-to-quartznet-job-scheduling-in-aspnet-core-al0)
+- [How do I find my connection string in Atlas?](https://dev.to/kishan45/how-do-i-find-my-connection-string-in-atlas-48e7)
+- [The Essence of Project Management: Building Ideas into Reality](https://dev.to/bodhika_disanayaka_/the-essence-of-project-management-building-ideas-into-reality-4mkp)
+- [The Fear of Red: Why Not Reading Error Messages is an Error](https://dev.to/luk_rauf/the-fear-of-red-why-not-reading-error-messages-is-an-error-2d2)
 <!-- BLOG-POST-LIST:END -->
 
 
