@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como publicar mensagens no Broker MQTT usando a BananaPi e Python](https://dev.to/henriqueotogami/como-publicar-mensagens-no-broker-mqtt-usando-a-bananapi-e-python-3816)
-- [The Real Story Behind Building is-cod.in Universe: From $52 Bills to Free Hosting 😅](https://dev.to/araan/the-real-story-behind-building-is-codin-universe-from-52-bills-to-free-hosting-4hkc)
-- [Building an Image to Text Converter with Next.js and Tesseract.js 🚀](https://dev.to/moibra/building-an-image-to-text-converter-with-nextjs-and-tesseractjs-45c3)
-- [1. HTML Document Structure.](https://dev.to/code_2/1-html-document-structure-44c4)
+- [Delivery Management App](https://dev.to/adonaitechnologies/delivery-management-app-4465)
+- [Partial Pre-Rendering in Next.js 14](https://dev.to/aun1414/partial-pre-rendering-in-nextjs-14-1725)
+- [A Comprehensive Guide to AES Encryption in Python](https://dev.to/jithendrasai_kilaru_1a67a/a-comprehensive-guide-to-aes-encryption-in-python-3i5l)
+- [A guide to debugging a Kubernetes deployment](https://dev.to/ashiqursuperfly/a-guide-to-debugging-a-kubernetes-deployment-4663)
 <!-- BLOG-POST-LIST:END -->
 
 
