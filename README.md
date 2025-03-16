@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python is Taking Over Electronics Programming](https://dev.to/coursedia/why-python-is-taking-over-electronics-programming-3mn)
-- [Range Headers: Pagination the HTTP way](https://dev.to/justcatdev/range-headers-pagination-the-http-way-31mf)
-- [I master the c# language with .net. Is c# an excellent language for the future or do I have to learn python and what is the difference between them and who is stronger?](https://dev.to/mahdi_moussa_526377e45e30/i-master-the-c-language-with-net-is-c-an-excellent-language-for-the-future-or-do-i-have-to-1ii)
-- [super engajamento e momentos de satisfação](https://dev.to/m1rr4/super-engajamento-e-momentos-de-satisfacao-2fd9)
+- [Como publicar mensagens no Broker MQTT usando a BananaPi e Python](https://dev.to/henriqueotogami/como-publicar-mensagens-no-broker-mqtt-usando-a-bananapi-e-python-3816)
+- [The Real Story Behind Building is-cod.in Universe: From $52 Bills to Free Hosting 😅](https://dev.to/araan/the-real-story-behind-building-is-codin-universe-from-52-bills-to-free-hosting-4hkc)
+- [Building an Image to Text Converter with Next.js and Tesseract.js 🚀](https://dev.to/moibra/building-an-image-to-text-converter-with-nextjs-and-tesseractjs-45c3)
+- [1. HTML Document Structure.](https://dev.to/code_2/1-html-document-structure-44c4)
 <!-- BLOG-POST-LIST:END -->
 
 
