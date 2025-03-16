@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Ready Code Editor? This is Zed Editor for Beginners](https://dev.to/codeparrot/ai-ready-code-editor-this-is-zed-editor-for-beginners-3h00)
-- [🚀 Mastering File Handling &amp; Web Sockets in Node.js: A Deep Dive into Advanced Concepts 🌟](https://dev.to/hanzla-baig/mastering-file-handling-web-sockets-in-nodejs-a-deep-dive-into-advanced-concepts-41mf)
-- [My 30-Day Social Media Detox: A Software Engineer&#39;s Mindfulness Experiment](https://dev.to/arslanyousaf12/my-30-day-social-media-detox-a-software-engineers-mindfulness-experiment-29ik)
-- [Components of Commercial Security Systems](https://dev.to/isla_brown_662ed08f2867f1/components-of-commercial-security-systems-9kl)
+- [🎉 Breaking News: Your Resume Just Got a Glow-Up! 🎉](https://dev.to/just0_0kidding/breaking-news-your-resume-just-got-a-glow-up-46ih)
+- [Understanding MCP and How AI Engineers Can Leverage It](https://dev.to/luxdevhq/understanding-mcp-and-how-ai-engineers-can-leverage-it-3e2i)
+- [10 fun Chrome Extensions to mess around with!](https://dev.to/ishanrai9/10-fun-chrome-extensions-to-mess-around-with-42j4)
+- [How to Land High-Paying Software Engineering Jobs: A Step-by-Step Guide](https://dev.to/saroojbkhari/how-to-land-high-paying-software-engineering-jobs-a-step-by-step-guide-mnh)
 <!-- BLOG-POST-LIST:END -->
 
 
