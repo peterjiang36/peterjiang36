@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Delivery Management App](https://dev.to/adonaitechnologies/delivery-management-app-4465)
-- [Partial Pre-Rendering in Next.js 14](https://dev.to/aun1414/partial-pre-rendering-in-nextjs-14-1725)
-- [A Comprehensive Guide to AES Encryption in Python](https://dev.to/jithendrasai_kilaru_1a67a/a-comprehensive-guide-to-aes-encryption-in-python-3i5l)
-- [A guide to debugging a Kubernetes deployment](https://dev.to/ashiqursuperfly/a-guide-to-debugging-a-kubernetes-deployment-4663)
+- [Can any give best tips when learning springboot ?](https://dev.to/freedom27lukhele/can-any-give-best-tips-when-learning-springboot--4fjc)
+- [Star Schema: The Data Warehouse Hack So Simple, Experts Hate It](https://dev.to/spkibe/star-schema-the-data-warehouse-hack-so-simple-experts-hate-it-4eef)
+- [🤯 Me in Gemini DeepSearch](https://dev.to/aniruddhaadak/me-in-gemini-deepsearch-40ia)
+- [Optimistically updating the UI with the useOptimistic hook](https://dev.to/melikdev/optimistically-updating-the-ui-with-the-useoptimistic-hook-1nh2)
 <!-- BLOG-POST-LIST:END -->
 
 
