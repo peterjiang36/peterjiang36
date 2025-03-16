@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi. It&#39;s Joanne here.](https://dev.to/chiuyen/hi-its-joanne-here-28fd)
-- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and GoT Framework&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-got-framework-5amd)
-- [The Rise of Foldable Displays: Revolutionizing Mobile Technology](https://dev.to/vihuvac/the-rise-of-foldable-displays-revolutionizing-mobile-technology-2j35)
-- [A Nova Onda do &quot;Vibe Coding&quot;](https://dev.to/teknolista/a-nova-onda-do-vibe-coding-2c9l)
+- [Mobile Agents Powered by LLMs: Revolutionizing On-Device Intelligence](https://dev.to/vihuvac/mobile-agents-powered-by-llms-revolutionizing-on-device-intelligence-5gdi)
+- [Developing Explainable AI Models for Compliance](https://dev.to/kartikmehta8/developing-explainable-ai-models-for-compliance-pg)
+- [How to Capture Screenshots of Any Website Automatically? Discover ZonySnap API](https://dev.to/mga_dev/how-to-capture-screenshots-of-any-website-automatically-discover-zonysnap-api-47mh)
+- [Amran Munir UK Software and IT Solutions Provider Company](https://dev.to/techno_insights_d8b5bd951/amran-munir-uk-software-and-it-solutions-provider-company-5cmk)
 <!-- BLOG-POST-LIST:END -->
 
 
