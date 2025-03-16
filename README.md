@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create React App is Deprecated – What’s Next ?](https://dev.to/techcrafted/create-react-app-is-deprecated-whats-next--1d20)
-- [A mathematical model of the objective value of &quot;Safety&quot;. Let&#39;s talk about sustainability by predictability.](https://dev.to/bladerunner_ai/a-mathematical-model-of-the-objective-value-of-safety-lets-talk-about-sustainability-by-2p3f)
-- [Primeiro mês usando Linux](https://dev.to/gguife/primeiro-mes-usando-linux-4cc3)
-- [What is Pokémon Unbound, and what unique features does it offer to players?](https://dev.to/sam_john_446ae3e12023274e/what-is-pokemon-unbound-and-what-unique-features-does-it-offer-to-players-2f79)
+- [AI Ready Code Editor? This is Zed Editor for Beginners](https://dev.to/codeparrot/ai-ready-code-editor-this-is-zed-editor-for-beginners-3h00)
+- [🚀 Mastering File Handling &amp; Web Sockets in Node.js: A Deep Dive into Advanced Concepts 🌟](https://dev.to/hanzla-baig/mastering-file-handling-web-sockets-in-nodejs-a-deep-dive-into-advanced-concepts-41mf)
+- [My 30-Day Social Media Detox: A Software Engineer&#39;s Mindfulness Experiment](https://dev.to/arslanyousaf12/my-30-day-social-media-detox-a-software-engineers-mindfulness-experiment-29ik)
+- [Components of Commercial Security Systems](https://dev.to/isla_brown_662ed08f2867f1/components-of-commercial-security-systems-9kl)
 <!-- BLOG-POST-LIST:END -->
 
 
