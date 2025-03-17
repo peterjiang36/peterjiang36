@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Cheats for Bypassing CAPTCHAs in 2025](https://dev.to/snappytuts/python-cheats-for-bypassing-captchas-in-2025-47og)
-- [How To Deploy a React + Vite Application with cPanel Shared Hosting](https://dev.to/programmerhasan/how-to-deploy-a-react-vite-application-with-cpanel-shared-hosting-421g)
-- [Can anyone else relate? What’s the funniest &lpar;or most painful&rpar; misconception you&#39;ve faced in your role? Let me know in the comments!](https://dev.to/hhussein/can-anyone-else-relate-whats-the-funniest-or-most-painful-misconception-youve-faced-in-your-1c6)
-- [Canal Slack sobre AppDTE](https://dev.to/esteban_guenul_a8b43f3f31/canal-slack-sobre-appdte-2hhp)
+- [How to build your Solana sniper bot &lpar;4&rpar;💰🚀](https://dev.to/vietthanhsai/how-to-build-your-solana-sniper-bot-4-55c3)
+- [Unlocking AI Potential with Gemma 3: A Comprehensive Guide for Developers, Businesses, and Innovators](https://dev.to/jayptl_rq/unlocking-ai-potential-with-gemma-3-a-comprehensive-guide-for-developers-businesses-and-3o8)
+- [Common Task Management Mistakes and How to Avoid Them](https://dev.to/taskframe_team/common-task-management-mistakes-and-how-to-avoid-them-113k)
+- [Celebrate WeCode: celebrate innovation and diversity in technology 🎉](https://dev.to/sayantichy/celebrate-wecode-celebrate-innovation-and-diversity-in-technology-2h5j)
 <!-- BLOG-POST-LIST:END -->
 
 
