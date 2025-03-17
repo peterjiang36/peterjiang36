@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Struct](https://dev.to/alisher0909/c-struct-297f)
-- [A Beginner’s Guide to Pandas for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-pandas-for-data-analysis-2pdm)
-- [Effective Logging in Go: Best Practices and Implementation Guide](https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp)
-- [TryHackMe: Race Conditions](https://dev.to/seanleeys/tryhackme-race-conditions-5am7)
+- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-1ok4)
+- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-3n6l)
+- [Tkinter GUI guide](https://dev.to/blackmare01/tkinter-gui-guide-366e)
+- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-afp)
 <!-- BLOG-POST-LIST:END -->
 
 
