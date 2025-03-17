@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# da struct](https://dev.to/sanjar777/c-da-struct-1hf2)
-- [Setting Up an S3 Bucket with Terraform](https://dev.to/jamiu_cloud/setting-up-an-s3-bucket-with-terraform-436o)
-- [Free and Open Source image blending tool that lets you create stunning image effects, generate Tailwind CSS code, and more!](https://dev.to/muhammadhafijur/free-and-open-source-image-blending-tool-that-lets-you-create-stunning-image-effects-generate-42h4)
-- [Deep Dive into HTTP/3: The Future of the Web](https://dev.to/devcorner/deep-dive-into-http3-the-future-of-the-web-kjg)
+- [Python Cheats for Bypassing CAPTCHAs in 2025](https://dev.to/snappytuts/python-cheats-for-bypassing-captchas-in-2025-47og)
+- [How To Deploy a React + Vite Application with cPanel Shared Hosting](https://dev.to/programmerhasan/how-to-deploy-a-react-vite-application-with-cpanel-shared-hosting-421g)
+- [Can anyone else relate? What’s the funniest &lpar;or most painful&rpar; misconception you&#39;ve faced in your role? Let me know in the comments!](https://dev.to/hhussein/can-anyone-else-relate-whats-the-funniest-or-most-painful-misconception-youve-faced-in-your-1c6)
+- [Canal Slack sobre AppDTE](https://dev.to/esteban_guenul_a8b43f3f31/canal-slack-sobre-appdte-2hhp)
 <!-- BLOG-POST-LIST:END -->
 
 
