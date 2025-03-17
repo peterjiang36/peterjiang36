@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling a New Perspective on Software Licensing](https://dev.to/rachellovestowrite/unveiling-a-new-perspective-on-software-licensing-4o32)
-- [# TaskMaster AI: Modern Project Management with KendoReact](https://dev.to/aman_bhagat/-taskmaster-ai-modern-project-management-with-kendoreact-1d8n)
-- [NPM Shield](https://dev.to/expressots/npm-shield-31ep)
-- [Peer Coding](https://dev.to/srini85/peer-coding-34f9)
+- [Programming Doesn’t Happen at the Keyboard — But It Also Does](https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154)
+- [What exactly is Active Directory?](https://dev.to/timo_reusch/what-exactly-is-active-directory-389d)
+- [RootMe CTF](https://dev.to/khelil_cherfimohamedfar/rootme-ctf-12e9)
+- [What is DevRel and why are they important?](https://dev.to/macmartins/what-is-devrel-and-why-are-they-important-2727)
 <!-- BLOG-POST-LIST:END -->
 
 
