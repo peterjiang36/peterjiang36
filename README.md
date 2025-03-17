@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Single Executable Applications with Node.js](https://dev.to/this-is-learning/building-single-executable-applications-with-nodejs-16k3)
-- [Top 100 PHP Functions Every Developer Should Know](https://dev.to/robin-ivi/top-100-php-functions-every-developer-should-know-1ecg)
-- [Your framework sucks when it comes to cloud integration &lpar;and I believe AWS should do more about it&rpar;](https://dev.to/aws-builders/your-framework-sucks-when-it-comes-to-cloud-integration-and-i-believe-aws-should-do-more-about-it-oj7)
-- [Deploying rapidly an enterprise grade Generative AI platform](https://dev.to/aairom/deploying-rapidly-an-enterprise-grade-generative-ai-platform-2p98)
+- [Composant Icône avec RiotJS](https://dev.to/steeve/composant-icon-avec-riotjs-4j2p)
+- [How to Create AWS EC2 Instance Using Terraform](https://dev.to/spacelift/how-to-create-aws-ec2-instance-using-terraform-d1p)
+- [Playwright for React Devs: A Complete Guide with API Testing](https://dev.to/debajit13/playwright-for-react-devs-a-complete-guide-with-api-testing-l8a)
+- [Low-Code: Geleceğin Yazılım Geliştirme Yaklaşımı](https://dev.to/rumeysaoz/low-code-gelecegin-yazilim-gelistirme-yaklasimi-g3i)
 <!-- BLOG-POST-LIST:END -->
 
 
