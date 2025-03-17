@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Project Management App](https://dev.to/aniruddhaadak/kendoreact-project-management-app-agf)
-- [Minha Jornada com Python: Aprendendo a Programar e Sonhando com Developer Advocacy](https://dev.to/mvcruzs/minha-jornada-com-python-aprendendo-a-programar-e-sonhando-com-developer-advocacy-mo3)
-- [Swine Transformers](https://dev.to/sanjidh090/swine-transformers-25k2)
-- [Balanceamento de Carga &lpar;Loading Balacing&rpar;](https://dev.to/yuripeixinho/balanceamento-de-carga-loading-balacing-4ap4)
+- [A little progress on world building](https://dev.to/magipunk/a-little-progress-on-world-building-18ok)
+- [Revolutionizing Mobile Apps: The Impact of Augmented Reality](https://dev.to/jetthoughts/revolutionizing-mobile-apps-the-impact-of-augmented-reality-jf1)
+- [S1E1 - Hands-on With GitHub Models!](https://dev.to/azure/s1e1-hands-on-with-github-models-1gb4)
+- [Follow these 6 Easy Steps to Learn a Programming Language 🚀](https://dev.to/nirajkaushal/do-you-want-to-learn-a-programming-language-4o)
 <!-- BLOG-POST-LIST:END -->
 
 
