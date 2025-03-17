@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Users Say About Their Experience with Intel Evo Laptops](https://dev.to/charliekatherine/what-users-say-about-their-experience-with-intel-evo-laptops-4la9)
-- [Deploying Our Distributed System on Kubernetes with Kind - Part 7](https://dev.to/lakhansamani/deploying-our-distributed-system-on-kubernetes-with-kind-part-7-36d3)
-- [How to Stay Motivated While Learning to Code 🚀](https://dev.to/nirajkaushal/how-to-stay-motivated-while-learning-to-code-3i4h)
-- [Top 20 Usability Testing Tools for Every Budget in 2025](https://dev.to/lollypopdesign/top-20-usability-testing-tools-for-every-budget-in-2025-3gfd)
+- [Building Single Executable Applications with Node.js](https://dev.to/this-is-learning/building-single-executable-applications-with-nodejs-16k3)
+- [Top 100 PHP Functions Every Developer Should Know](https://dev.to/robin-ivi/top-100-php-functions-every-developer-should-know-1ecg)
+- [Your framework sucks when it comes to cloud integration &lpar;and I believe AWS should do more about it&rpar;](https://dev.to/aws-builders/your-framework-sucks-when-it-comes-to-cloud-integration-and-i-believe-aws-should-do-more-about-it-oj7)
+- [Deploying rapidly an enterprise grade Generative AI platform](https://dev.to/aairom/deploying-rapidly-an-enterprise-grade-generative-ai-platform-2p98)
 <!-- BLOG-POST-LIST:END -->
 
 
