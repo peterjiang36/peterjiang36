@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you didn&#39;t know you needed to know about Power Automate Errors](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-automate-errors-429f)
-- [Copy-paste on big screen. Analyzing errors and oddities in Radarr code](https://dev.to/pvsdev/copy-paste-on-big-screen-analyzing-errors-and-oddities-in-radarr-code-13m)
-- [Why Free AI Training Consultation is the Key to Unlocking AI Success](https://dev.to/skillboosttrainer/why-free-ai-training-consultation-is-the-key-to-unlocking-ai-success-dh6)
-- [Einstein AI in Salesforce: 2025 Updates](https://dev.to/itechcloud_solution_01/einstein-ai-in-salesforce-2025-updates-441c)
+- [SUBSTRING_INDEX in MySQL: A Simple Guide to String Extraction](https://dev.to/dbvismarketing/substringindex-in-mysql-a-simple-guide-to-string-extraction-14ag)
+- [Master the Art of Scraping Jobs Efficiently and Ethically](https://dev.to/swiftproxy_residential/master-the-art-of-scraping-jobs-efficiently-and-ethically-5f61)
+- [How to Supercharge Your React Native App Performance with Amazon CloudFront &amp; S3 Transfer Acceleration](https://dev.to/aws-builders/how-to-supercharge-your-react-native-app-performance-with-amazon-cloudfront-s3-transfer-4p2e)
+- [API in Next.js vs. Separate Backend &lpar;Bangla&rpar;🚀](https://dev.to/joy5k/api-in-nextjs-vs-separate-backend-bangla-5gna)
 <!-- BLOG-POST-LIST:END -->
 
 
