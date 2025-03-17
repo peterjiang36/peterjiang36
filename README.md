@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Join Lists in Kafka Streams Applications](https://dev.to/ipt/how-to-join-lists-in-kafka-streams-applications-1h28)
-- [AI Code Generator: Cutting Repetitive Coding in Half for Faster Development](https://dev.to/getambassador2024/ai-code-generator-cutting-repetitive-coding-in-half-for-faster-development-347k)
-- [Perl 🐪 Weekly #712 - RIP Zefram](https://dev.to/szabgab/perl-weekly-712-rip-zefram-3kcb)
-- [Gemma 3: DeepMind&#39;s Leap in Multimodal AI](https://dev.to/sathish/gemma-3-deepminds-leap-in-multimodal-ai-jgb)
+- [Everything you didn&#39;t know you needed to know about Power Automate Errors](https://dev.to/wyattdave/everything-you-didnt-know-you-needed-to-know-about-power-automate-errors-429f)
+- [Copy-paste on big screen. Analyzing errors and oddities in Radarr code](https://dev.to/pvsdev/copy-paste-on-big-screen-analyzing-errors-and-oddities-in-radarr-code-13m)
+- [Why Free AI Training Consultation is the Key to Unlocking AI Success](https://dev.to/skillboosttrainer/why-free-ai-training-consultation-is-the-key-to-unlocking-ai-success-dh6)
+- [Einstein AI in Salesforce: 2025 Updates](https://dev.to/itechcloud_solution_01/einstein-ai-in-salesforce-2025-updates-441c)
 <!-- BLOG-POST-LIST:END -->
 
 
