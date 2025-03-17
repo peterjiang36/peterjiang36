@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing LEGO SPIKE Prime Programming : Which Is Best for Robotics Competitions? - 2](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-2-3pb1)
-- [Cache mutex locks using Spring boot](https://dev.to/prav_myls_3b497e599d01fde/cache-mutex-locks-using-spring-boot-3fk9)
-- [&quot;Unlocking Image Generation: The Power of Conditional Optimal Transport and Reasoning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-generation-the-power-of-conditional-optimal-transport-and-reasoning-45kn)
-- [Проблема фреймворков](https://dev.to/ryzhpolsos/probliema-frieimvorkov-kd0)
+- [KendoReact Project Management App](https://dev.to/aniruddhaadak/kendoreact-project-management-app-agf)
+- [Minha Jornada com Python: Aprendendo a Programar e Sonhando com Developer Advocacy](https://dev.to/mvcruzs/minha-jornada-com-python-aprendendo-a-programar-e-sonhando-com-developer-advocacy-mo3)
+- [Swine Transformers](https://dev.to/sanjidh090/swine-transformers-25k2)
+- [Balanceamento de Carga &lpar;Loading Balacing&rpar;](https://dev.to/yuripeixinho/balanceamento-de-carga-loading-balacing-4ap4)
 <!-- BLOG-POST-LIST:END -->
 
 
