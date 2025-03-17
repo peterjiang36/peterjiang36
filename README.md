@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: The Nim game](https://dev.to/jdxlabs/python-the-nim-game-m43)
-- [Mastering HTML Forms: A Comprehensive Guide](https://dev.to/thedevspace/mastering-html-forms-a-comprehensive-guide-2f9d)
-- [10 Best Essential Health Hacks for Developers Stuck at Their Desks](https://dev.to/futuristicgeeks/10-best-essential-health-hacks-for-developers-stuck-at-their-desks-i7p)
-- [🚀 Introducing Pblog – A Dockerized TUI Blogging App](https://dev.to/kawasthi2889/introducing-pblog-a-dockerized-tui-blogging-app-357b)
+- [C# Struct](https://dev.to/alisher0909/c-struct-297f)
+- [A Beginner’s Guide to Pandas for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-pandas-for-data-analysis-2pdm)
+- [Effective Logging in Go: Best Practices and Implementation Guide](https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp)
+- [TryHackMe: Race Conditions](https://dev.to/seanleeys/tryhackme-race-conditions-5am7)
 <!-- BLOG-POST-LIST:END -->
 
 
