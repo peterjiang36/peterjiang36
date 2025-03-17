@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advantages of Performance Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/advantages-of-performance-testing-21il)
-- [🚀 Building a Ruby HTTP Server from Scratch – No Frameworks, Just Raw Sockets!](https://dev.to/connerj70/building-a-ruby-http-server-from-scratch-no-frameworks-just-raw-sockets-2pfl)
-- [Diving into Banking Infrastructure on AWS Cloud – Thoughts on this Series?](https://dev.to/devopsvn/diving-into-banking-infrastructure-on-aws-cloud-thoughts-on-this-series-5456)
-- [25+ Best Open Source Icon Library Options &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/25-best-open-source-icon-library-options-2025-edition-ne7)
+- [Who the Hell is Going to Pay For This?](https://dev.to/adatole/who-the-hell-is-going-to-pay-for-this-428l)
+- [Step-by-Step Guide to the Website Development Process](https://dev.to/savvybrains/step-by-step-guide-to-the-website-development-process-4o12)
+- [Step-by-Step Guide to Create a Virtual Machine&lpar;VM&rpar; IN Microsoft Azure Portal.](https://dev.to/nelson_akpa01/step-by-step-guide-to-create-a-virtual-machinevm-in-microsoft-azure-portal-4fdb)
+- [Tamagui: Building Cross-Platform Apps Made Simple](https://dev.to/codeparrot/tamagui-building-cross-platform-apps-made-simple-7a0)
 <!-- BLOG-POST-LIST:END -->
 
 
