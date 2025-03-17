@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-colons-1g9h)
-- [Build a Currency Converter GUI App With Python](https://dev.to/dev_neil_a/build-a-currency-converter-gui-app-with-python-38fm)
-- [Referencias de métodos en Java](https://dev.to/asjordi/referencias-de-metodos-en-java-2gof)
-- [Caching in Spring Boot with Redis](https://dev.to/mspilari/caching-in-spring-boot-with-redis-5c1h)
+- [Python: The Nim game](https://dev.to/jdxlabs/python-the-nim-game-m43)
+- [Mastering HTML Forms: A Comprehensive Guide](https://dev.to/thedevspace/mastering-html-forms-a-comprehensive-guide-2f9d)
+- [10 Best Essential Health Hacks for Developers Stuck at Their Desks](https://dev.to/futuristicgeeks/10-best-essential-health-hacks-for-developers-stuck-at-their-desks-i7p)
+- [🚀 Introducing Pblog – A Dockerized TUI Blogging App](https://dev.to/kawasthi2889/introducing-pblog-a-dockerized-tui-blogging-app-357b)
 <!-- BLOG-POST-LIST:END -->
 
 
