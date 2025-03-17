@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Composant Icône avec RiotJS](https://dev.to/steeve/composant-icon-avec-riotjs-4j2p)
-- [How to Create AWS EC2 Instance Using Terraform](https://dev.to/spacelift/how-to-create-aws-ec2-instance-using-terraform-d1p)
-- [Playwright for React Devs: A Complete Guide with API Testing](https://dev.to/debajit13/playwright-for-react-devs-a-complete-guide-with-api-testing-l8a)
-- [Low-Code: Geleceğin Yazılım Geliştirme Yaklaşımı](https://dev.to/rumeysaoz/low-code-gelecegin-yazilim-gelistirme-yaklasimi-g3i)
+- [Quark&#39;s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-colons-1g9h)
+- [Build a Currency Converter GUI App With Python](https://dev.to/dev_neil_a/build-a-currency-converter-gui-app-with-python-38fm)
+- [Referencias de métodos en Java](https://dev.to/asjordi/referencias-de-metodos-en-java-2gof)
+- [Caching in Spring Boot with Redis](https://dev.to/mspilari/caching-in-spring-boot-with-redis-5c1h)
 <!-- BLOG-POST-LIST:END -->
 
 
