@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 iOS vs Android Development: Which One Should You Learn First? &lpar;The Truth No One Tells You!&rpar;](https://dev.to/dct_technologyprivatelimited/ios-vs-android-development-which-one-should-you-learn-first-the-truth-no-one-tells-you-2g90)
-- [How to Get Started with Rust Programming](https://dev.to/stellaacharoiro/how-to-get-started-with-rust-programming-1b28)
-- [File Input/Output &lpar;I/O&rpar;: Working with External Data](https://dev.to/testamplify/file-inputoutput-io-working-with-external-data-33gb)
-- [Developers, are endless meetings and Slack pings crushing your focus? Discover how to balance deep work and collaboration without sacrificing productivity. Master time blocking, async communication, and smart workflows to code better &amp; work smarter!](https://dev.to/pratham_naik_project_manager/developers-are-endless-meetings-and-slack-pings-crushing-your-focus-discover-how-to-balance-deep-36da)
+- [How to Join Lists in Kafka Streams Applications](https://dev.to/ipt/how-to-join-lists-in-kafka-streams-applications-1h28)
+- [AI Code Generator: Cutting Repetitive Coding in Half for Faster Development](https://dev.to/getambassador2024/ai-code-generator-cutting-repetitive-coding-in-half-for-faster-development-347k)
+- [Perl 🐪 Weekly #712 - RIP Zefram](https://dev.to/szabgab/perl-weekly-712-rip-zefram-3kcb)
+- [Gemma 3: DeepMind&#39;s Leap in Multimodal AI](https://dev.to/sathish/gemma-3-deepminds-leap-in-multimodal-ai-jgb)
 <!-- BLOG-POST-LIST:END -->
 
 
