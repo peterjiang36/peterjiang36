@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A little progress on world building](https://dev.to/magipunk/a-little-progress-on-world-building-18ok)
-- [Revolutionizing Mobile Apps: The Impact of Augmented Reality](https://dev.to/jetthoughts/revolutionizing-mobile-apps-the-impact-of-augmented-reality-jf1)
-- [S1E1 - Hands-on With GitHub Models!](https://dev.to/azure/s1e1-hands-on-with-github-models-1gb4)
-- [Follow these 6 Easy Steps to Learn a Programming Language 🚀](https://dev.to/nirajkaushal/do-you-want-to-learn-a-programming-language-4o)
+- [Advantages of Performance Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/advantages-of-performance-testing-21il)
+- [🚀 Building a Ruby HTTP Server from Scratch – No Frameworks, Just Raw Sockets!](https://dev.to/connerj70/building-a-ruby-http-server-from-scratch-no-frameworks-just-raw-sockets-2pfl)
+- [Diving into Banking Infrastructure on AWS Cloud – Thoughts on this Series?](https://dev.to/devopsvn/diving-into-banking-infrastructure-on-aws-cloud-thoughts-on-this-series-5456)
+- [25+ Best Open Source Icon Library Options &lpar;2025 Edition&rpar;](https://dev.to/masumparvej/25-best-open-source-icon-library-options-2025-edition-ne7)
 <!-- BLOG-POST-LIST:END -->
 
 
