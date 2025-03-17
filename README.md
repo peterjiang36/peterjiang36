@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I developed a python script automatically place my Upakarma Shilajit order on 5th of every month.](https://dev.to/mahesh_saxena_india/i-developed-a-python-script-automatically-place-my-upakarma-shilajit-order-on-5th-of-every-month-4j8h)
-- [Multi-tenant in Airflow is almost there](https://dev.to/zenika/multi-tenant-in-airflow-is-almost-there-1fdp)
-- [Building a High-Performance Web Scraper with Python](https://dev.to/kahuna04/building-a-high-performance-web-scraper-with-python-2fbo)
-- [Polish Large Language Model &lpar;PLLuM&rpar; on Google Cloud](https://dev.to/rsamborski/pllum-na-google-cloud-5c6)
+- [What Users Say About Their Experience with Intel Evo Laptops](https://dev.to/charliekatherine/what-users-say-about-their-experience-with-intel-evo-laptops-4la9)
+- [Deploying Our Distributed System on Kubernetes with Kind - Part 7](https://dev.to/lakhansamani/deploying-our-distributed-system-on-kubernetes-with-kind-part-7-36d3)
+- [How to Stay Motivated While Learning to Code 🚀](https://dev.to/nirajkaushal/how-to-stay-motivated-while-learning-to-code-3i4h)
+- [Top 20 Usability Testing Tools for Every Budget in 2025](https://dev.to/lollypopdesign/top-20-usability-testing-tools-for-every-budget-in-2025-3gfd)
 <!-- BLOG-POST-LIST:END -->
 
 
