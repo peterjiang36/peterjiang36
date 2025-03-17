@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build High-Performance NFS Storage with xiRAID Backend and RDMA Access](https://dev.to/pltnvs/how-to-build-high-performance-nfs-storage-with-xiraid-backend-and-rdma-access-1ok4)
-- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-3n6l)
-- [Tkinter GUI guide](https://dev.to/blackmare01/tkinter-gui-guide-366e)
-- [🚀 Looking for Developers to Join a Startup Like Yandex Eats &amp; Wolt!](https://dev.to/annurbek_gaybullayv_eee9d/looking-for-developers-to-join-a-startup-like-yandex-eats-wolt-afp)
+- [C# da struct](https://dev.to/sanjar777/c-da-struct-1hf2)
+- [Setting Up an S3 Bucket with Terraform](https://dev.to/jamiu_cloud/setting-up-an-s3-bucket-with-terraform-436o)
+- [Free and Open Source image blending tool that lets you create stunning image effects, generate Tailwind CSS code, and more!](https://dev.to/muhammadhafijur/free-and-open-source-image-blending-tool-that-lets-you-create-stunning-image-effects-generate-42h4)
+- [Deep Dive into HTTP/3: The Future of the Web](https://dev.to/devcorner/deep-dive-into-http3-the-future-of-the-web-kjg)
 <!-- BLOG-POST-LIST:END -->
 
 
