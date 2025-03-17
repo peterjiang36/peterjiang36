@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A new GSAP Nuxt Module](https://dev.to/lucaargentieri/a-new-gsap-nuxt-module-4fj4)
-- [Schema Validation vs. Contract Testing: Understanding the Differences](https://dev.to/marciorc_/schema-validation-vs-contract-testing-understanding-the-differences-58ji)
-- [Artificial Intelligence: A Breakdown of Must-Know Buzzwords](https://dev.to/sabahshariq/artificial-intelligence-a-breakdown-of-must-know-buzzwords-2l10)
-- [Day 0 - Learning Cybersecurity and Python](https://dev.to/rudth/day-0-learning-cybersecurity-and-python-396o)
+- [Unveiling a New Perspective on Software Licensing](https://dev.to/rachellovestowrite/unveiling-a-new-perspective-on-software-licensing-4o32)
+- [# TaskMaster AI: Modern Project Management with KendoReact](https://dev.to/aman_bhagat/-taskmaster-ai-modern-project-management-with-kendoreact-1d8n)
+- [NPM Shield](https://dev.to/expressots/npm-shield-31ep)
+- [Peer Coding](https://dev.to/srini85/peer-coding-34f9)
 <!-- BLOG-POST-LIST:END -->
 
 
