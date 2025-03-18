@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Azure AI Agent Translator in Containers](https://dev.to/medival/deploying-azure-ai-agent-translator-in-containers-1dgm)
-- [Creating Models in Django](https://dev.to/atifwattoo/creating-models-in-django-n51)
-- [Integre Gateway de Pagamento ao seu SAAS - Como funciona? Quais os melhores e seus benefícios?](https://dev.to/rayantx/integre-gateway-de-pagamento-ao-seu-saas-como-funciona-quais-os-melhores-e-seus-beneficios-2k54)
-- [PSQL DAY 2](https://dev.to/elayaraj_c_04396748f52a1c/psql-day-2-17ma)
+- [Developer Education w/ Maximilian Schwarzmüller](https://dev.to/mikehtmlallthethings/developer-education-w-maximilian-schwarzmuller-165b)
+- [A Remarkable Story from 100 Years Ago You Should Know](https://dev.to/getjv/a-remarkable-story-from-100-years-ago-you-should-know-1g5d)
+- [How Ashkan Rajaee Creates Sales Teams That Outperform and Scale Fast](https://dev.to/matteotech/how-ashkan-rajaee-creates-sales-teams-that-outperform-and-scale-fast-2ife)
+- [Making Your Go Console Apps Pop with go-pretty](https://dev.to/shrsv/making-your-go-console-apps-pop-with-go-pretty-h16)
 <!-- BLOG-POST-LIST:END -->
 
 
