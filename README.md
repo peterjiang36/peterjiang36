@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Insight Hub: Visualizing the Digital Ledger Universe](https://dev.to/binarygarage/blockchain-insight-hub-visualizing-the-digital-ledger-universe-f3)
-- [Coming Soon: JavaScript for Rails Developers](https://dev.to/railsdesigner/coming-soon-javascript-for-rails-developers-p44)
-- [How to make Tool Tips on JavaFx?](https://dev.to/victor_hugogasparquinn_/how-to-make-tool-tips-on-javafx-fl6)
-- [Introducing Fluxor: A New Rust Web Framework for Data Science](https://dev.to/montasir/introducing-fluxor-a-new-rust-web-framework-for-data-science-3lmh)
+- [Arduino Robot Controlled by Claude AI MCP](https://dev.to/vishalmysore/arduino-robot-controlled-by-claude-ai-mcp-2fja)
+- [Boost Your Coding Efficiency with the Ultimate Modern JavaScript Cheat Sheet!](https://dev.to/teki_solves_fb72717580279/boost-your-coding-efficiency-with-the-ultimate-modern-javascript-cheat-sheet-5e87)
+- [Building a Simple Counter App with Elixir and Phoenix LiveView](https://dev.to/msnmongare/building-a-simple-counter-app-with-elixir-and-phoenix-liveview-gdf)
+- [Do Caos à Simplicidade: Começando com Spring Boot](https://dev.to/gutocabral/do-caos-a-simplicidade-comecando-com-spring-boot-2a6b)
 <!-- BLOG-POST-LIST:END -->
 
 
