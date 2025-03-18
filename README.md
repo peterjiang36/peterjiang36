@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, devs! 👋](https://dev.to/nikhilgoesfullstack/hello-devs-4f27)
+- [Como testes mudaram minha forma de trabalhar](https://dev.to/h1bertobarbosa/como-testes-mudaram-minha-forma-de-trabalhar-1g0e)
+- [&quot;Unlocking Quantum Error Correction: The Power of Chiral Cat Qubits&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-error-correction-the-power-of-chiral-cat-qubits-5hd2)
 - [Python Tips for Beginners: A Guide to Writing Clean Code](https://dev.to/adetola_jesulayomi_e3bd55/python-tips-for-beginners-a-guide-to-writing-clean-code-26id)
-- [Mastering Timers in React: A Comprehensive Developer&#39;s Guide](https://dev.to/jsdevspace/mastering-timers-in-react-a-comprehensive-developers-guide-462p)
-- [🚀 Micro Frontend Turborepo Starter: A Scalable Approach to Frontend Development](https://dev.to/imevanc/micro-frontend-turborepo-starter-a-scalable-approach-to-frontend-development-6jo)
-- [🔥Transform Your Ideas into Stunning 4K Images with AI - No Design Skills Required!](https://dev.to/gabriel_carvalho007/transform-your-ideas-into-stunning-4k-images-with-ai-no-design-skills-required-32j7)
 <!-- BLOG-POST-LIST:END -->
 
 
