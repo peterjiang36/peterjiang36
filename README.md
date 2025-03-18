@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Prompts That Get AI to See Your Vision](https://dev.to/foxinfotech/create-prompts-that-get-ai-to-see-your-vision-4mhd)
+- [open source notification Inbox](https://dev.to/novu/open-source-notification-inbox-2fji)
 - [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
 - [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
-- [SPL assists MongoDB: Grouping adjacent documents](https://dev.to/esproc_spl/spl-assists-mongodb-grouping-adjacent-documents-fjg)
-- [Build a Production-Ready SaaS Application](https://dev.to/encore/build-a-production-ready-saas-application-44nb)
 <!-- BLOG-POST-LIST:END -->
 
 
