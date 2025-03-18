@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Azure Databricks](https://dev.to/madgan95/introduction-to-azure-databricks-5gle)
-- [Enhancing Your Stream Chat with Elasticsearch for Advanced Full-Text Search](https://dev.to/dumebii/enhancing-your-stream-chat-with-elasticsearch-for-advanced-full-text-search-471c)
-- [Day 10 of Python : The Magic 8-Ball](https://dev.to/grimkillingbeck/day-10-of-python-the-magic-8-ball-579a)
-- [Melhorando a observabilidade da sua aplicação - parte 1: Logs](https://dev.to/marcosbelorio/melhorando-a-observabilidade-da-sua-aplicacao-parte-1-logs-jm2)
+- [First Ubuntu Journey](https://dev.to/annavi11arrea1/first-ubuntu-journey-20cd)
+- [Hunt for Secrets in Git Repos](https://dev.to/constantineukah/hunt-for-secrets-in-git-repos-2dcd)
+- [Guys, I created the most useful AI Agent: the Egg Price-o-matic!](https://dev.to/jenlooper/guys-i-created-the-most-useful-ai-agent-the-egg-price-o-matic-2pl4)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-4i55)
 <!-- BLOG-POST-LIST:END -->
 
 
