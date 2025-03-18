@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Going from an Idea to MVP in Weeks: PromptPanda&#39;s Launch&lpar;es&rpar;](https://dev.to/wasp/going-from-an-idea-to-mvp-in-weeks-promptpandas-launches-287n)
-- [How to Prevent Cross-Site Script Inclusion &lpar;XSSI&rpar; in Laravel](https://dev.to/pentest_testing_corp/how-to-prevent-cross-site-script-inclusion-xssi-in-laravel-5cea)
-- [Chemistry Meets Code](https://dev.to/aniruddhaadak/chemistry-meets-code-4l7j)
-- [🚀 10 Best Free API Testing Tools You Should Use in 2025](https://dev.to/dct_technologyprivatelimited/10-best-free-api-testing-tools-you-should-use-in-2025-ohj)
+- [No Hassle: Serverless Social Login Powered by AWS Cognito](https://dev.to/ooye_sanket/no-hassle-serverless-social-login-powered-by-aws-cognito-f3i)
+- [🎨 Figma vs. Adobe XD: Which Web Design Tool Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/figma-vs-adobe-xd-which-web-design-tool-should-you-use-in-2025-59fi)
+- [SPL assists MongoDB: Grouping adjacent documents](https://dev.to/esproc_spl/spl-assists-mongodb-grouping-adjacent-documents-fjg)
+- [Build a Production-Ready SaaS Application](https://dev.to/encore/build-a-production-ready-saas-application-44nb)
 <!-- BLOG-POST-LIST:END -->
 
 
