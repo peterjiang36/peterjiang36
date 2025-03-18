@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Education w/ Maximilian Schwarzmüller](https://dev.to/mikehtmlallthethings/developer-education-w-maximilian-schwarzmuller-165b)
-- [A Remarkable Story from 100 Years Ago You Should Know](https://dev.to/getjv/a-remarkable-story-from-100-years-ago-you-should-know-1g5d)
-- [How Ashkan Rajaee Creates Sales Teams That Outperform and Scale Fast](https://dev.to/matteotech/how-ashkan-rajaee-creates-sales-teams-that-outperform-and-scale-fast-2ife)
-- [Making Your Go Console Apps Pop with go-pretty](https://dev.to/shrsv/making-your-go-console-apps-pop-with-go-pretty-h16)
+- [Mastering React Debugging: 15 Essential Steps Every Developer Should Know](https://dev.to/engrsakib/mastering-react-debugging-15-essential-steps-every-developer-should-know-3748)
+- [CAMEL-AI vs. Other AI Frameworks: What Sets It Apart?](https://dev.to/0x113/camel-ai-vs-other-ai-frameworks-what-sets-it-apart-4bao)
+- [Automating QA: A Manual Tester&#39;s Journey](https://dev.to/cypress/automating-qa-a-manual-testers-journey-33nb)
+- [Unveiling Cooperative Patent License 1.0: Innovation &amp; Fairness in the Open Source World](https://dev.to/bobcars/unveiling-cooperative-patent-license-10-innovation-fairness-in-the-open-source-world-35bk)
 <!-- BLOG-POST-LIST:END -->
 
 
