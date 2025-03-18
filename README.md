@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Need a mentor for the KendoReact Free Components Challenge?!](https://dev.to/jess/need-a-mentor-for-the-kendoreact-free-components-challenge-3jei)
-- [O que é um ArrayList?](https://dev.to/williamkoller/o-que-e-um-arraylist-k88)
-- [The Ultimate React Performance Guide Every Developer Needs](https://dev.to/amaresh_adak/the-ultimate-react-performance-guide-every-developer-needs-e0m)
-- [🏆 Ultimate System Design &amp; Cloud Interview Cheat Sheet 🚀](https://dev.to/criscmd/ultimate-system-design-cloud-interview-cheat-sheet-4lgp)
+- [Deploying Azure AI Agent Translator in Containers](https://dev.to/medival/deploying-azure-ai-agent-translator-in-containers-1dgm)
+- [Creating Models in Django](https://dev.to/atifwattoo/creating-models-in-django-n51)
+- [Integre Gateway de Pagamento ao seu SAAS - Como funciona? Quais os melhores e seus benefícios?](https://dev.to/rayantx/integre-gateway-de-pagamento-ao-seu-saas-como-funciona-quais-os-melhores-e-seus-beneficios-2k54)
+- [PSQL DAY 2](https://dev.to/elayaraj_c_04396748f52a1c/psql-day-2-17ma)
 <!-- BLOG-POST-LIST:END -->
 
 
