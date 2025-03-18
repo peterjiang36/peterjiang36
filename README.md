@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Debugging: 15 Essential Steps Every Developer Should Know](https://dev.to/engrsakib/mastering-react-debugging-15-essential-steps-every-developer-should-know-3748)
-- [CAMEL-AI vs. Other AI Frameworks: What Sets It Apart?](https://dev.to/0x113/camel-ai-vs-other-ai-frameworks-what-sets-it-apart-4bao)
-- [Automating QA: A Manual Tester&#39;s Journey](https://dev.to/cypress/automating-qa-a-manual-testers-journey-33nb)
-- [Unveiling Cooperative Patent License 1.0: Innovation &amp; Fairness in the Open Source World](https://dev.to/bobcars/unveiling-cooperative-patent-license-10-innovation-fairness-in-the-open-source-world-35bk)
+- [Blockchain Insight Hub: Visualizing the Digital Ledger Universe](https://dev.to/binarygarage/blockchain-insight-hub-visualizing-the-digital-ledger-universe-f3)
+- [Coming Soon: JavaScript for Rails Developers](https://dev.to/railsdesigner/coming-soon-javascript-for-rails-developers-p44)
+- [How to make Tool Tips on JavaFx?](https://dev.to/victor_hugogasparquinn_/how-to-make-tool-tips-on-javafx-fl6)
+- [Introducing Fluxor: A New Rust Web Framework for Data Science](https://dev.to/montasir/introducing-fluxor-a-new-rust-web-framework-for-data-science-3lmh)
 <!-- BLOG-POST-LIST:END -->
 
 
