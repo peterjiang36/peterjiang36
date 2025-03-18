@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [First Ubuntu Journey](https://dev.to/annavi11arrea1/first-ubuntu-journey-20cd)
-- [Hunt for Secrets in Git Repos](https://dev.to/constantineukah/hunt-for-secrets-in-git-repos-2dcd)
-- [Guys, I created the most useful AI Agent: the Egg Price-o-matic!](https://dev.to/jenlooper/guys-i-created-the-most-useful-ai-agent-the-egg-price-o-matic-2pl4)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-4i55)
+- [Need a mentor for the KendoReact Free Components Challenge?!](https://dev.to/jess/need-a-mentor-for-the-kendoreact-free-components-challenge-3jei)
+- [O que é um ArrayList?](https://dev.to/williamkoller/o-que-e-um-arraylist-k88)
+- [The Ultimate React Performance Guide Every Developer Needs](https://dev.to/amaresh_adak/the-ultimate-react-performance-guide-every-developer-needs-e0m)
+- [🏆 Ultimate System Design &amp; Cloud Interview Cheat Sheet 🚀](https://dev.to/criscmd/ultimate-system-design-cloud-interview-cheat-sheet-4lgp)
 <!-- BLOG-POST-LIST:END -->
 
 
