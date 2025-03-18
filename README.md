@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Doesn’t Happen at the Keyboard — But It Also Does](https://dev.to/skilleddevs/programming-doesnt-happen-at-the-keyboard-but-it-also-does-154)
-- [What exactly is Active Directory?](https://dev.to/timo_reusch/what-exactly-is-active-directory-389d)
-- [RootMe CTF](https://dev.to/khelil_cherfimohamedfar/rootme-ctf-12e9)
-- [What is DevRel and why are they important?](https://dev.to/macmartins/what-is-devrel-and-why-are-they-important-2727)
+- [Python Tips for Beginners: A Guide to Writing Clean Code](https://dev.to/adetola_jesulayomi_e3bd55/python-tips-for-beginners-a-guide-to-writing-clean-code-26id)
+- [Mastering Timers in React: A Comprehensive Developer&#39;s Guide](https://dev.to/jsdevspace/mastering-timers-in-react-a-comprehensive-developers-guide-462p)
+- [🚀 Micro Frontend Turborepo Starter: A Scalable Approach to Frontend Development](https://dev.to/imevanc/micro-frontend-turborepo-starter-a-scalable-approach-to-frontend-development-6jo)
+- [🔥Transform Your Ideas into Stunning 4K Images with AI - No Design Skills Required!](https://dev.to/gabriel_carvalho007/transform-your-ideas-into-stunning-4k-images-with-ai-no-design-skills-required-32j7)
 <!-- BLOG-POST-LIST:END -->
 
 
