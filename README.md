@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KendoReact Playground](https://dev.to/aniruddhaadak/kendoreact-playground-51j1)
-- [How to check out a remote branch in Git: A step-by-step guide](https://dev.to/logrocket/how-to-check-out-a-remote-branch-in-git-a-step-by-step-guide-glo)
-- [Unveiling a New Frontier in Open Source Licensing: The Ricoh Source Code Public License](https://dev.to/bobcars/unveiling-a-new-frontier-in-open-source-licensing-the-ricoh-source-code-public-license-354i)
-- [Understanding Method Chaining in Javascript 🚀](https://dev.to/gowrishankar_saravanamuthu/understanding-method-chaining-in-javascript-21jc)
+- [Best Online AI Code Compilers in 2025: Which One to Choose?](https://dev.to/mohammed_saif05/best-online-ai-code-compilers-in-2025-which-one-to-choose-4163)
+- [WhoWeB Scanner - Simple Website Scanner Tool](https://dev.to/medjahdi/whoweb-scanner-simple-website-scanner-tool-570l)
+- [Understanding GitHub Copilot Extensions: How They Work and What’s Involved](https://dev.to/shrsv/understanding-github-copilot-extensions-how-they-work-and-whats-involved-ebd)
+- [What I&#39;ve Learned About Deploying ML &amp; LLM Projects from DAGsHub&#39;s CEO](https://dev.to/oba2311/what-ive-learned-about-deploying-ml-llm-projects-from-dagshubs-ceo-24ac)
 <!-- BLOG-POST-LIST:END -->
 
 
