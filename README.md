@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Proper Logging in ASP.NET Core](https://dev.to/ipazooki/proper-logging-in-aspnet-core-4l61)
-- [hi guys its my last post for a year or 2](https://dev.to/wilf0248/hi-guys-its-my-last-post-for-a-year-or-2-3f52)
-- [How to Build a Task Manager API with Django REST Framework: Part 7 - API Documentation with OpenAPI and Swagger](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-7-api-documentation-with-openapi-2fp9)
-- [7+ Free Font Awesome Alternatives in 2025](https://dev.to/masumparvej/7-free-font-awesome-alternatives-in-2025-138e)
+- [Neurolov Launches Freedom AI — The World’s First Uncensored AI Chat App](https://dev.to/neurolov_ai_/neurolov-launches-freedom-ai-the-worlds-first-uncensored-ai-chat-app-52ag)
+- [Gamification Strategies in B2B](https://dev.to/freshtech/gamification-strategies-in-b2b-5263)
+- [Git stashing: save and restore your code](https://dev.to/this-is-learning/git-stashing-save-and-restore-your-code-5eh6)
+- [Python - Theory Questions and Answers](https://dev.to/guru_prasanna_01/python-theory-questions-and-answers-3an)
 <!-- BLOG-POST-LIST:END -->
 
 
