@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Power and Complexity of GPL 2.0](https://dev.to/rachellovestowrite/unveiling-the-power-and-complexity-of-gpl-20-4468)
-- [How to Value a Tech Startup in Belgium](https://dev.to/gratiswaardering/how-to-value-a-tech-startup-in-belgium-23b6)
-- [Calculate the Hierarchy of Recursive References — From SQL to SPL #11](https://dev.to/judith677/calculate-the-hierarchy-of-recursive-references-from-sql-to-spl-11-4kmp)
-- [How to Use Cursor Email Like a Pro &lpar;Without the Headaches&rpar;](https://dev.to/syntaxbloom/how-to-use-cursor-email-like-a-pro-without-the-headaches-5078)
+- [Welcome Thread - v319](https://dev.to/devteam/welcome-thread-v319-3i21)
+- [I Built This GitHub README to Land My Dream Software Internship!](https://dev.to/sumonta056/i-built-this-github-readme-to-land-my-dream-software-internship-bn3)
+- [[Boost]](https://dev.to/promi_mojumder/-4no)
+- [Set Up ShadCN UI with Tailwind CSS v3 &amp; React 19: Fix Import Errors Like a Pro!](https://dev.to/sumonta056/set-up-shadcn-ui-with-tailwind-css-v3-react-19-fix-import-errors-like-a-pro-24d1)
 <!-- BLOG-POST-LIST:END -->
 
 
