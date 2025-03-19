@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go vs. TypeScript: Choosing the Right Backend](https://dev.to/jayptl_rq/go-vs-typescript-choosing-the-right-backend-24jn)
-- [How to use dynatrace for anomalies detection to increase performance of application?](https://dev.to/rogupta/how-to-use-dynatrace-for-anomalies-detection-which-can-increase-performance-of-application-3gef)
-- [Unveiling Cube License: An In-Depth Exploration of Fair Code and Open Source Innovation](https://dev.to/ahmmrizv9/unveiling-cube-license-an-in-depth-exploration-of-fair-code-and-open-source-innovation-1732)
-- [Introduction to set theory with Python. Part II.](https://dev.to/eaarroyo/introduction-to-set-theory-with-python-part-ii-3m54)
+- [Unveiling GNU FDL 1.1: A Deep Dive into Free Documentation Licensing](https://dev.to/laetitiaperraut/unveiling-gnu-fdl-11-a-deep-dive-into-free-documentation-licensing-5e3a)
+- [Unveiling the FSF All Permissive License: Freedom, Flexibility, and Fair Code](https://dev.to/ashucommits/unveiling-the-fsf-all-permissive-license-freedom-flexibility-and-fair-code-1hi9)
+- [Demystifying Authentication in Spring Security](https://dev.to/esteban389/demystifying-authentication-in-spring-security-57oj)
+- [Common Website Mistakes You Might Be Overlooking - These Are Costing You Visitors and Hurt Your SEO!](https://dev.to/per-starke-642/common-website-mistakes-you-might-be-overlooking-these-are-costing-you-visitors-and-hurt-your-seo-45fe)
 <!-- BLOG-POST-LIST:END -->
 
 
