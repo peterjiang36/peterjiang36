@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma to React instantly: Introduction Anima app](https://dev.to/shreyvijayvargiya/figma-to-react-instantly-introduction-anima-app-1kii)
-- [Using AI for API Development](https://dev.to/getambassador2024/using-ai-for-api-development-4a49)
-- [Wednesday Links - Edition 2025-03-19](https://dev.to/_mat3e_/wednesday-links-edition-2025-03-19-2dln)
-- [SQLite vs LiteDB performance comparison for .NET MAUI apps](https://dev.to/naderelshehabi/sqlite-vs-litedb-performance-comparison-for-net-maui-apps-ek9)
+- [Proper Logging in ASP.NET Core](https://dev.to/ipazooki/proper-logging-in-aspnet-core-4l61)
+- [hi guys its my last post for a year or 2](https://dev.to/wilf0248/hi-guys-its-my-last-post-for-a-year-or-2-3f52)
+- [How to Build a Task Manager API with Django REST Framework: Part 7 - API Documentation with OpenAPI and Swagger](https://dev.to/kihuni/how-to-build-a-task-manager-api-with-django-rest-framework-part-7-api-documentation-with-openapi-2fp9)
+- [7+ Free Font Awesome Alternatives in 2025](https://dev.to/masumparvej/7-free-font-awesome-alternatives-in-2025-138e)
 <!-- BLOG-POST-LIST:END -->
 
 
