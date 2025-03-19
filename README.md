@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lo Mejor De NestJS](https://dev.to/dragosb/lo-mejor-de-nestjs-5160)
-- [Master Video Resolution Adjustment in Rust with FFmpeg in 3 Minutes](https://dev.to/yeauty/master-video-resolution-adjustment-in-rust-with-ffmpeg-in-3-minutes-3hfd)
-- [Mencegah SQL Injection di Prisma dengan Middleware dan withAccelerare](https://dev.to/wadahkode/mencegah-sql-injection-di-prisma-dengan-middleware-dan-withaccelerare-5foa)
-- [1. Arrays &amp; Hashing: Contains Duplicate](https://dev.to/phaniallamsetty/1-contains-duplicate-51kb)
+- [DevOps Tools Cheatsheet Collection – Your Ultimate Guide🚀](https://dev.to/prodevopsguytech/devops-tools-cheatsheet-collection-your-ultimate-guide-id6)
+- [Developer, Where Do You Actually Launch your Product After building?&quot; 🚀](https://dev.to/vicckylove/developer-where-do-you-actually-launch-your-product-after-building-3b63)
+- [How To Create Custom Hooks In React JS](https://dev.to/theudemezue/how-to-create-custom-hooks-in-react-js-1fcg)
+- [How To Create an Env File In Your React JS Project](https://dev.to/theudemezue/how-to-create-an-env-file-in-your-react-js-project-1aod)
 <!-- BLOG-POST-LIST:END -->
 
 
