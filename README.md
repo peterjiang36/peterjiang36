@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Guerrilla Usability Testing: What It Is &amp; How to Use It?](https://dev.to/lollypopdesign/unlocking-guerrilla-usability-testing-what-it-is-how-to-use-it-3l7l)
-- [Unveiling the Power of MPL 1.0](https://dev.to/kallileiser/unveiling-the-power-of-mpl-10-51a9)
-- [How to Spot a Deepfake: Tools and Techniques for Detection?](https://dev.to/lokeshjoshi/how-to-spot-a-deepfake-tools-and-techniques-for-detection-4l0l)
-- [HarmonyOS NEXT 实战系列01-ArkTS基础](https://dev.to/zhousg/harmonyos-next-shi-zhan-xi-lie-01-arktsji-chu-12in)
+- [Ultimate @angular/material update guide - All versions!](https://dev.to/shhdharmen/ultimate-angularmaterial-update-guide-all-versions-453l)
+- [I&#39;m learning React from a &quot;First Principles&quot; approach. I am concerned that a undefined variable can be rendered in root.render; error prone. Would anyone know why is this allowed? root.render&lpar;&rpar;.](https://dev.to/siddhartha_gupta_dc55b628/im-learning-react-from-a-first-principles-approach-i-am-concerned-that-a-undefined-variable-can-5df2)
+- [How Ai workflow Process?](https://dev.to/e77/how-ai-workflow-process-44jd)
+- [How Blockchain Technology is Transforming Web Development](https://dev.to/metablock_seo_b927d38fdbe/how-blockchain-technology-is-transforming-web-development-3hgl)
 <!-- BLOG-POST-LIST:END -->
 
 
