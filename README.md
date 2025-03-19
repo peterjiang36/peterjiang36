@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Build UX Credibility + 20 New CSS Features You’ll Love](https://dev.to/adam/build-ux-credibility-20-new-css-features-youll-love-48k5)
-- [How to Build a Career in Data Science: A Step-by-Step Guide](https://dev.to/publish/how-to-build-a-career-in-data-science-a-step-by-step-guide-7bn)
-- [🚀 Master Technical Topics with This Game-Changing Prompt](https://dev.to/dorinandreidragan/master-technical-topics-with-this-game-changing-prompt-3dkc)
-- [AI Agents Team Up to Create Realistic Movie Soundtracks Like Professional Sound Designers](https://dev.to/mikeyoung44/ai-agents-team-up-to-create-realistic-movie-soundtracks-like-professional-sound-designers-2el)
+- [🚀 Announcing ByteAether.WeakEvent v1.0.0 – A Smarter Approach to Event Management in .NET](https://dev.to/gigaherz/announcing-byteaetherweakevent-v100-a-smarter-approach-to-event-management-in-net-1bd4)
+- [Client-Side Hashing with JavaScript and js-crypto: A Deep Dive](https://dev.to/babynamenestlings_efe5ba9/client-side-hashing-with-javascript-and-js-crypto-a-deep-dive-3afe)
+- [The Role of Wireframes in Agile Software Development](https://dev.to/taskframe_team/the-role-of-wireframes-in-agile-software-development-4d98)
+- [Advanced LLM Security Best Practices You Must Know](https://dev.to/kitops/advanced-llm-security-best-practices-you-must-know-3em9)
 <!-- BLOG-POST-LIST:END -->
 
 
