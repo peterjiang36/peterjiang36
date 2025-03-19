@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Announcing ByteAether.WeakEvent v1.0.0 – A Smarter Approach to Event Management in .NET](https://dev.to/gigaherz/announcing-byteaetherweakevent-v100-a-smarter-approach-to-event-management-in-net-1bd4)
-- [Client-Side Hashing with JavaScript and js-crypto: A Deep Dive](https://dev.to/babynamenestlings_efe5ba9/client-side-hashing-with-javascript-and-js-crypto-a-deep-dive-3afe)
-- [The Role of Wireframes in Agile Software Development](https://dev.to/taskframe_team/the-role-of-wireframes-in-agile-software-development-4d98)
-- [Advanced LLM Security Best Practices You Must Know](https://dev.to/kitops/advanced-llm-security-best-practices-you-must-know-3em9)
+- [Beyond chat: Rethinking how we use LLMs](https://dev.to/logrocket/beyond-chat-rethinking-how-we-use-llms-2hf)
+- [𝗥𝗲𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 &quot;𝗗𝗯𝗨𝗽𝗱𝗮𝘁𝗲𝗘𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻&quot; 𝗶𝗻 𝗘𝗙 𝗖𝗼𝗿𝗲: 𝗔 𝗤𝘂𝗶𝗰𝗸 𝗙𝗶𝘅!](https://dev.to/supraja_tangella_b7f0738e/--1f05)
+- [Hello Dev.to](https://dev.to/magicodix/hello-devto-46c6)
+- [Week 6 – OOP Practice in C++ &lpar;Day 69–75&rpar;](https://dev.to/adhyanjain2512/week-6-oop-practice-in-c-day-69-75-229c)
 <!-- BLOG-POST-LIST:END -->
 
 
