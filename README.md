@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Tools Cheatsheet Collection – Your Ultimate Guide🚀](https://dev.to/prodevopsguytech/devops-tools-cheatsheet-collection-your-ultimate-guide-id6)
-- [Developer, Where Do You Actually Launch your Product After building?&quot; 🚀](https://dev.to/vicckylove/developer-where-do-you-actually-launch-your-product-after-building-3b63)
-- [How To Create Custom Hooks In React JS](https://dev.to/theudemezue/how-to-create-custom-hooks-in-react-js-1fcg)
-- [How To Create an Env File In Your React JS Project](https://dev.to/theudemezue/how-to-create-an-env-file-in-your-react-js-project-1aod)
+- [KendoReact Playground](https://dev.to/aniruddhaadak/kendoreact-playground-51j1)
+- [How to check out a remote branch in Git: A step-by-step guide](https://dev.to/logrocket/how-to-check-out-a-remote-branch-in-git-a-step-by-step-guide-glo)
+- [Unveiling a New Frontier in Open Source Licensing: The Ricoh Source Code Public License](https://dev.to/bobcars/unveiling-a-new-frontier-in-open-source-licensing-the-ricoh-source-code-public-license-354i)
+- [Understanding Method Chaining in Javascript 🚀](https://dev.to/gowrishankar_saravanamuthu/understanding-method-chaining-in-javascript-21jc)
 <!-- BLOG-POST-LIST:END -->
 
 
