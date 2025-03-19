@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Model Faithfulness: The Key to Better AI Interpretability&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-model-faithfulness-the-key-to-better-ai-interpretability-c31)
-- [Call for Contributors](https://dev.to/cjpoulsen/call-for-contributors-3f7e)
-- [Daily JavaScript Challenge #JS-129: Calculate Median of a Number Array](https://dev.to/dpc/daily-javascript-challenge-js-129-calculate-median-of-a-number-array-321g)
-- [Top 5 AI Coding Models of March 2025](https://dev.to/apipie-ai/top-5-ai-coding-models-of-march-2025-5f04)
+- [Go vs. TypeScript: Choosing the Right Backend](https://dev.to/jayptl_rq/go-vs-typescript-choosing-the-right-backend-24jn)
+- [How to use dynatrace for anomalies detection to increase performance of application?](https://dev.to/rogupta/how-to-use-dynatrace-for-anomalies-detection-which-can-increase-performance-of-application-3gef)
+- [Unveiling Cube License: An In-Depth Exploration of Fair Code and Open Source Innovation](https://dev.to/ahmmrizv9/unveiling-cube-license-an-in-depth-exploration-of-fair-code-and-open-source-innovation-1732)
+- [Introduction to set theory with Python. Part II.](https://dev.to/eaarroyo/introduction-to-set-theory-with-python-part-ii-3m54)
 <!-- BLOG-POST-LIST:END -->
 
 
