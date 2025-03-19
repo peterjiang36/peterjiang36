@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Deploying a Custom Site Using GitHub Actions and GitHub Pages.](https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf)
-- [Reversed Strings](https://dev.to/maddiepst/reversed-strings-1861)
-- [The Problem: PowerShell’s Hashing Illusion](https://dev.to/dmidlo/the-problem-powershells-hashing-illusion-74p)
-- [How to Migrate From Sql to Mongodb in 2025?](https://dev.to/anna_golubkova/how-to-migrate-from-sql-to-mongodb-in-2025-4kbi)
+- [SQL Unleashed: Optimize Your Queries and Recalibrate Your Coding Journey&quot; to a level two heading by using](https://dev.to/teki_solves_fb72717580279/sql-unleashed-optimize-your-queries-and-recalibrate-your-coding-journey-to-a-level-two-heading-by-4hf5)
+- [Ebook: Desenvolvimento Seguro de Apis](https://dev.to/r9n/ebook-desenvolvimento-seguro-de-apis-472d)
+- [Step-by-Step Guide to Shooting a Basketball for Beginners](https://dev.to/matthew12/step-by-step-guide-to-shooting-a-basketball-for-beginners-2569)
+- [K6 - Modern load testing](https://dev.to/darlangui/k6-modern-load-testing-m6o)
 <!-- BLOG-POST-LIST:END -->
 
 
