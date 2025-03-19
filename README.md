@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI-Powered Online Code Compilers in 2025: Top Tools for Faster and Smarter Coding](https://dev.to/mohamed_aakif/best-ai-powered-online-code-compilers-in-2025-top-tools-for-faster-and-smarter-coding-36kh)
-- [When to Split React Reducers: A Practical Guide](https://dev.to/chunkysl1nk/when-to-split-react-reducers-a-practical-guide-347f)
-- [Golf Etiquette Explained: Building Respect and Enjoyment on the Course](https://dev.to/josephmigliorini/golf-etiquette-explained-building-respect-and-enjoyment-on-the-course-ne8)
-- [ApostropheCMS 4.14.0: Smarter Content Management, Better Performance, and CSV Table Imports](https://dev.to/stuartromanek/apostrophecms-4140-smarter-content-management-better-performance-and-csv-table-imports-4o3p)
+- [How to send email with php?](https://dev.to/pedroantdevv/how-to-send-email-with-php-5750)
+- [Day 5: BackendChallenges.com - Building Rate Limiting for Scalable APIs 🚀](https://dev.to/learnwithparam/day-5-backendchallengescom-building-rate-limiting-for-scalable-apis-2dj3)
+- [157/365 | ¥10M Job Challenge - Security](https://dev.to/kameken100/156365-y10m-job-challenge-security-gpd)
+- [Scaling APIs without breaking them using Rate Limiting](https://dev.to/learnwithparam/episode-2-api-rate-limiting-5bib)
 <!-- BLOG-POST-LIST:END -->
 
 
