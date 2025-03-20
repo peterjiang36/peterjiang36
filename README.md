@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S3e3: Branching into the Git Multiverse](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e3-branching-into-the-git-multiverse-1mgc)
-- [Anticipating User Errors in Web](https://dev.to/thanksboss/anticipating-user-errors-in-web-3nbc)
-- [[Boost]](https://dev.to/chrisvxd/-1bi7)
-- [The Rise of Vibe Coding: How AI is Changing the Way We Write Code](https://dev.to/mentorsol/the-rise-of-vibe-coding-how-ai-is-changing-the-way-we-write-code-198k)
+- [Similar Components with Different Styles in Chakra UI](https://dev.to/ashphy/similar-components-with-different-styles-in-chakra-ui-kj1)
+- [A Beginner’s Guide to Java’s compareTo&lpar;&rpar; Method](https://dev.to/tpointtechadu/a-beginners-guide-to-javas-compareto-method-c2p)
+- [Essential Tips to Secure Your WordPress Website](https://dev.to/yogsec/essential-tips-to-secure-your-wordpress-website-1mc)
+- [🚀 Tired of SGD/Adam bottlenecks? K-FAC’s second-order magic slashes training steps &lpar;14.7x fewer updates!&rpar; and boosts NLP/finance models. Code-friendly for PyTorch/TF. Dive into the future of optimization 👇](https://dev.to/alex-nguyen-duy-anh/tired-of-sgdadam-bottlenecks-k-facs-second-order-magic-slashes-training-steps-147x-fewer-2hic)
 <!-- BLOG-POST-LIST:END -->
 
 
