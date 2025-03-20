@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Understanding Billboards on DEV Community](https://dev.to/hanzla-baig/understanding-billboards-on-dev-community-3mf0)
-- [Nice One!](https://dev.to/sumonta056/-1jml)
-- [Unlocking the Full Potential of Forem Pro Tools: A Deep Dive into Its Features and Benefits 🔥](https://dev.to/hanzla-baig/unlocking-the-full-potential-of-forem-pro-tools-a-deep-dive-into-its-features-and-benefits-l1l)
-- [Working independently as a Website Designer: Advantages and Disadvantages](https://dev.to/webdesign697/working-independently-as-a-website-designer-advantages-and-disadvantages-28ed)
+- [AI-Assisted Coding: The Hype vs. The Hidden Risks](https://dev.to/ash_grover/ai-assisted-coding-the-hype-vs-the-hidden-risks-1560)
+- [Understand HarmonyOS NEXT&#39;s IDE - DevEco Studio](https://dev.to/victordeng/understand-harmonyos-nexts-ide-deveco-studio-jh5)
+- [Why Python is the Best Programming Language for Beginners](https://dev.to/md_saidul_1210/why-python-is-the-best-programming-language-for-beginners-34eg)
+- [HelloWorld](https://dev.to/meghshamkapure/helloworld-3fjc)
 <!-- BLOG-POST-LIST:END -->
 
 
