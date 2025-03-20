@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React Apps for Production with Vite](https://dev.to/programmerhasan/optimizing-react-apps-for-production-with-vite-15gi)
-- [How to build a web app core concept](https://dev.to/ishwar_2/how-to-build-a-web-app-core-concept-3jm4)
-- [What are the potential threats of using an Outdated OS](https://dev.to/nightmare-lynx/what-are-the-potential-threats-of-using-an-outdated-os-35nk)
-- [Open-Source Meeting Assistant - Call for collaboration!](https://dev.to/dmitrygrankin/open-source-meeting-assistant-call-for-collaboration-4359)
+- [Following the Rules is cool, but being a Rebel is Exhilarating!](https://dev.to/samay_mehta_069fbe68d38a3/following-the-rules-is-cool-but-being-a-rebel-is-exhilarating-1mhj)
+- [From idea to gift: 🎁 Wish list application with KendoReact 🤺, KI 🤖 &amp; Firebase 💾](https://dev.to/york/from-idea-to-gift-wish-list-application-with-kendoreact-ki-firebase-35ge)
+- [Learn These HTML Shortcuts and Save Hours of Coding Time](https://dev.to/learncodewithalex/learn-these-html-shortcuts-and-save-hours-of-coding-time-466h)
+- [Learn These HTML Shortcuts That Will Make You Code 5x Faster!](https://dev.to/learncodewithalex/learn-these-html-shortcuts-that-will-make-you-code-5x-faster-3di0)
 <!-- BLOG-POST-LIST:END -->
 
 
