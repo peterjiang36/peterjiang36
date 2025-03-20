@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Web API and REST API](https://dev.to/renukapatil/difference-between-web-api-and-rest-api-1fe0)
-- [Role of AI in Accountancy: How AI is Revolutionizing Automation in the Accounting Field ?](https://dev.to/ca_officeautomationconn/role-of-ai-in-accountancy-how-ai-is-revolutionizing-automation-in-the-accounting-field-1o00)
-- [[Boost]](https://dev.to/avi-kapoor/-1mfl)
-- [Twitter Stuck Signing Up? No Email, Phone Field Broken?](https://dev.to/sullivannet/twitter-stuck-signing-up-no-email-phone-field-broken-13f5)
+- [MERN - Html &lpar;Day 4&rpar;](https://dev.to/ranjithsrt1/mern-html-day-4-50nk)
+- [The Dangers of Oversharing: How Social Media Can Expose You to Cyber Threats](https://dev.to/wizdomtek/the-dangers-of-oversharing-how-social-media-can-expose-you-to-cyber-threats-5cnj)
+- [Future of Tech Jobs: Key Insights from the 2025 WEF Report](https://dev.to/jaber-said/future-of-tech-jobs-key-insights-from-the-2025-wef-report-1fhi)
+- [🔐 Why is Cybersecurity? &lpar;No, Seriously. Why?&rpar;](https://dev.to/panicatthekernel/why-is-cybersecurity-no-seriously-why-211)
 <!-- BLOG-POST-LIST:END -->
 
 
