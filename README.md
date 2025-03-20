@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Video Alert: How to Provision a Web Server in AWS | Step-by-Step Guide](https://dev.to/saint_vandora/new-video-alert-how-to-provision-a-web-server-in-aws-step-by-step-guide-1fhb)
-- [The Benefits of Event-Driven Architecture for Large-Scale Applications](https://dev.to/adityabhuyan/the-benefits-of-event-driven-architecture-for-large-scale-applications-243p)
-- [Unit Testing: Beyond Code Coverage](https://dev.to/harrytmthy/unit-testing-beyond-code-coverage-ai8)
-- [Accessibility as a core principle](https://dev.to/nick_fe_nick/accessibility-as-a-core-principle-2f90)
+- [Golang 1.24: Breaking Down the Latest Features and Enhancements &lpar;#1&rpar;](https://dev.to/mx_tech/-golang-124-breaking-down-the-latest-features-and-enhancements-1-1l5p)
+- [How to Measure IT Service Quality: Key Metrics &amp; Best Practices for 2025](https://dev.to/adityabhuyan/how-to-measure-it-service-quality-key-metrics-best-practices-for-2025-4pi9)
+- [Software Testing vs Firmware Testing: Understanding the Key Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-vs-firmware-testing-understanding-the-key-differences-1mfe)
+- [How to Build Secure JWT Authentication in Golang + React.js &lpar;Step-by-Step&rpar;](https://dev.to/devkitbase/how-to-build-secure-jwt-authentication-in-golang-reactjs-step-by-step-i8f)
 <!-- BLOG-POST-LIST:END -->
 
 
