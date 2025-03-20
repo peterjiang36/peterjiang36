@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Find The Admin Panel](https://dev.to/mr_gamer_c986b59cdb7a24a/find-the-admin-panel-521j)
-- [News on update 23.04.2022](https://dev.to/labrob2013/news-on-update-23042022-4poj)
-- [Group Dynamics: Climbing as a Team for Greater Success](https://dev.to/cesar12/group-dynamics-climbing-as-a-team-for-greater-success-43nj)
-- [News on update 27.07.2021](https://dev.to/labrob2013/news-on-update-27072021-2ipc)
+- [How to make a 3D Rotating Cube on Scroll with Trig.js](https://dev.to/idevgames/how-to-make-a-3d-rotating-cube-on-scroll-with-trigjs-5g6m)
+- [News on update 07.03.2025](https://dev.to/labrob2013/news-on-update-07032025-3113)
+- [News on update 11.02.2025](https://dev.to/labrob2013/news-on-update-11022025-nf)
+- [Série Go: Uma abordagem sobre a Linguagem de Programação Golang](https://dev.to/marcosplusplus/serie-go-uma-abordagem-sobre-a-linguagem-de-programacao-golang-3eee)
 <!-- BLOG-POST-LIST:END -->
 
 
