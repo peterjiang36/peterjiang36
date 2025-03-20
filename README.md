@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skillfully Using Output Variables to Enhance DolphinScheduler Workflow Flexibility and Maintainability](https://dev.to/chen_debra_3060b21d12b1b0/skillfully-using-output-variables-to-enhance-dolphinscheduler-workflow-flexibility-and-na1)
-- [Making Notion Data “AI Ready” by Transferring it to Pinecone with Trigger.dev](https://dev.to/morph-data/making-notion-data-ai-ready-by-transferring-it-to-pinecone-with-triggerdev-36kd)
-- [NocoBase Weekly Updates: Optimize the columns and operations of table block](https://dev.to/nocobase/nocobase-weekly-updates-optimize-the-columns-and-operations-of-table-block-4d6j)
-- [How To Fix the import.meta.env Error in a Vite + Jest Setup](https://dev.to/zubair_hossain_23250966ec/how-to-fix-the-importmetaenv-error-in-a-vite-jest-setup-12o1)
+- [New Video Alert: How to Provision a Web Server in AWS | Step-by-Step Guide](https://dev.to/saint_vandora/new-video-alert-how-to-provision-a-web-server-in-aws-step-by-step-guide-1fhb)
+- [The Benefits of Event-Driven Architecture for Large-Scale Applications](https://dev.to/adityabhuyan/the-benefits-of-event-driven-architecture-for-large-scale-applications-243p)
+- [Unit Testing: Beyond Code Coverage](https://dev.to/harrytmthy/unit-testing-beyond-code-coverage-ai8)
+- [Accessibility as a core principle](https://dev.to/nick_fe_nick/accessibility-as-a-core-principle-2f90)
 <!-- BLOG-POST-LIST:END -->
 
 
