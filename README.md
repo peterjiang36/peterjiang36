@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a Software Developer to Join an AI-Powered Project!](https://dev.to/jtaiq97/looking-for-a-software-developer-to-join-an-ai-powered-project-3haf)
-- [Layer by Layer: The OSI Model: Layer 2](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-2-3kbn)
-- [&quot;Unlocking 4D Generation: Transformative AI Techniques You Need to Know!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-4d-generation-transformative-ai-techniques-you-need-to-know-3jgm)
-- [How can I network in IT? I used to work in the financial sector and have lots of friends there. Now, I’ve been working exclusively in IT for the past 2y, and I miss talking to people who ‘suffer’ the same way 😅😅😅 I work with Java Spring Boot and React](https://dev.to/tecnologiaefinancas/how-can-i-network-in-it-i-used-to-work-in-the-financial-sector-and-have-lots-of-friends-there-1c36)
+- [My Gemini DeepResearch Report](https://dev.to/aniruddhaadak/my-gemini-deepresearch-report-4f7o)
+- [Why I Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/why-i-stopped-using-typescript-for-small-projects-3ej7)
+- [Why can deleted files be recovered?](https://dev.to/valdeirpsr/why-can-deleted-files-be-recovered-3gln)
+- [🚀 Next.js Auth Starter – Auth.js, Prisma &amp; Tailwind](https://dev.to/abdelmajid_bendada_0ed2ab/nextjs-auth-starter-authjs-prisma-tailwind-1h1b)
 <!-- BLOG-POST-LIST:END -->
 
 
