@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Programação Assíncrona na Prática com Kotlin: Exemplos Reais e Otimização](https://dev.to/comunidadedevspace/programacao-assincrona-na-pratica-com-kotlin-exemplos-reais-e-otimizacao-5d30)
-- [Mastering SQL Server CONTAINS for Advanced Text Search](https://dev.to/dbvismarketing/mastering-sql-server-contains-for-advanced-text-search-2g6d)
-- [What Nobody Tells You About Building a Web App From Scratch](https://dev.to/mr_nova/what-nobody-tells-you-about-building-a-web-app-from-scratch-3heb)
-- [We Built a Low Code Platform for Complex Automation — Here’s Why It Works](https://dev.to/lonti-davidb/we-built-a-low-code-platform-for-complex-automation-heres-why-it-works-5di)
+- [One giant Kubernetes cluster for everything](https://dev.to/loft/one-giant-kubernetes-cluster-for-everything-1bm6)
+- [What is SD-WAN? Benefits, How It Works, and Why It’s Essential for Cloud Networking](https://dev.to/sifytechnologies_1_4ed166/what-is-sd-wan-benefits-how-it-works-and-why-its-essential-for-cloud-networking-1oc5)
+- [Exploring Switch Case in C#: Traditional vs. Modern Patterns](https://dev.to/pythontutorial/exploring-switch-case-in-c-traditional-vs-modern-patterns-4j6n)
+- [What is Developer Relations and Why is it Important?](https://dev.to/tripleade/what-is-developer-relations-and-why-is-it-important-4ddh)
 <!-- BLOG-POST-LIST:END -->
 
 
