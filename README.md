@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing OpenStack Networking with Calico: Step by step Guide](https://dev.to/alakkadshaw/optimizing-openstack-networking-with-calico-step-by-step-guide-2h2f)
-- [Translations in Stimulus Controllers](https://dev.to/railsdesigner/translations-in-stimulus-controllers-jm9)
-- [[Boost]](https://dev.to/renanvidal/-204e)
-- [What I Learned After Being Laid Off From My Dream Tech Job](https://dev.to/samanthajeet/what-i-learned-after-being-laid-off-from-my-dream-tech-job-4mhc)
+- [Find The Admin Panel](https://dev.to/mr_gamer_c986b59cdb7a24a/find-the-admin-panel-521j)
+- [News on update 23.04.2022](https://dev.to/labrob2013/news-on-update-23042022-4poj)
+- [Group Dynamics: Climbing as a Team for Greater Success](https://dev.to/cesar12/group-dynamics-climbing-as-a-team-for-greater-success-43nj)
+- [News on update 27.07.2021](https://dev.to/labrob2013/news-on-update-27072021-2ipc)
 <!-- BLOG-POST-LIST:END -->
 
 
