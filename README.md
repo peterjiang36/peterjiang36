@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Gemini DeepResearch Report](https://dev.to/aniruddhaadak/my-gemini-deepresearch-report-4f7o)
-- [Why I Stopped Using TypeScript for Small Projects](https://dev.to/holasoymalva/why-i-stopped-using-typescript-for-small-projects-3ej7)
-- [Why can deleted files be recovered?](https://dev.to/valdeirpsr/why-can-deleted-files-be-recovered-3gln)
-- [🚀 Next.js Auth Starter – Auth.js, Prisma &amp; Tailwind](https://dev.to/abdelmajid_bendada_0ed2ab/nextjs-auth-starter-authjs-prisma-tailwind-1h1b)
+- [Skillfully Using Output Variables to Enhance DolphinScheduler Workflow Flexibility and Maintainability](https://dev.to/chen_debra_3060b21d12b1b0/skillfully-using-output-variables-to-enhance-dolphinscheduler-workflow-flexibility-and-na1)
+- [Making Notion Data “AI Ready” by Transferring it to Pinecone with Trigger.dev](https://dev.to/morph-data/making-notion-data-ai-ready-by-transferring-it-to-pinecone-with-triggerdev-36kd)
+- [NocoBase Weekly Updates: Optimize the columns and operations of table block](https://dev.to/nocobase/nocobase-weekly-updates-optimize-the-columns-and-operations-of-table-block-4d6j)
+- [How To Fix the import.meta.env Error in a Vite + Jest Setup](https://dev.to/zubair_hossain_23250966ec/how-to-fix-the-importmetaenv-error-in-a-vite-jest-setup-12o1)
 <!-- BLOG-POST-LIST:END -->
 
 
