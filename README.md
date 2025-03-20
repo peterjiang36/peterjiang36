@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN - Html &lpar;Day 4&rpar;](https://dev.to/ranjithsrt1/mern-html-day-4-50nk)
-- [The Dangers of Oversharing: How Social Media Can Expose You to Cyber Threats](https://dev.to/wizdomtek/the-dangers-of-oversharing-how-social-media-can-expose-you-to-cyber-threats-5cnj)
-- [Future of Tech Jobs: Key Insights from the 2025 WEF Report](https://dev.to/jaber-said/future-of-tech-jobs-key-insights-from-the-2025-wef-report-1fhi)
-- [🔐 Why is Cybersecurity? &lpar;No, Seriously. Why?&rpar;](https://dev.to/panicatthekernel/why-is-cybersecurity-no-seriously-why-211)
+- [Programação Assíncrona na Prática com Kotlin: Exemplos Reais e Otimização](https://dev.to/comunidadedevspace/programacao-assincrona-na-pratica-com-kotlin-exemplos-reais-e-otimizacao-5d30)
+- [Mastering SQL Server CONTAINS for Advanced Text Search](https://dev.to/dbvismarketing/mastering-sql-server-contains-for-advanced-text-search-2g6d)
+- [What Nobody Tells You About Building a Web App From Scratch](https://dev.to/mr_nova/what-nobody-tells-you-about-building-a-web-app-from-scratch-3heb)
+- [We Built a Low Code Platform for Complex Automation — Here’s Why It Works](https://dev.to/lonti-davidb/we-built-a-low-code-platform-for-complex-automation-heres-why-it-works-5di)
 <!-- BLOG-POST-LIST:END -->
 
 
