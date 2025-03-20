@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I was struggling with project management—too many meetings, unclear workflows, and constant distractions. Then I found this blog, and it completely changed my approach! If you&#39;re a developer facing the same challenges, I highly recommend reading this.](https://dev.to/rajesh_patel/i-was-struggling-with-project-management-too-many-meetings-unclear-workflows-and-constant-20le)
-- [Factors Affecting Salary](https://dev.to/cgn28/factors-affecting-salary-12b5)
-- [Tired of project management tools that slow you down? Developers need workflows that enhance productivity—not endless meetings and rigid structures. Discover how Teamcamp simplifies project tracking with Git integrations and customisable workflows. #dev](https://dev.to/pratham_naik_project_manager/tired-of-project-management-tools-that-slow-you-down-developers-need-workflows-that-enhance-1gc4)
-- [Send from your business email address](https://dev.to/martinratinaud/send-from-your-business-email-address-3me9)
+- [Difference Between Web API and REST API](https://dev.to/renukapatil/difference-between-web-api-and-rest-api-1fe0)
+- [Role of AI in Accountancy: How AI is Revolutionizing Automation in the Accounting Field ?](https://dev.to/ca_officeautomationconn/role-of-ai-in-accountancy-how-ai-is-revolutionizing-automation-in-the-accounting-field-1o00)
+- [[Boost]](https://dev.to/avi-kapoor/-1mfl)
+- [Twitter Stuck Signing Up? No Email, Phone Field Broken?](https://dev.to/sullivannet/twitter-stuck-signing-up-no-email-phone-field-broken-13f5)
 <!-- BLOG-POST-LIST:END -->
 
 
