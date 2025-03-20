@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Modern JavaScript Tips for Beginners in 2025 🚀🔥](https://dev.to/ananiket/9-modern-javascript-tips-for-beginners-in-2025-3bkm)
-- [A Beginner’s Guide to NumPy for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-numpy-for-data-analysis-2gg8)
-- [Today&#39;s GitHub Repo&#39;s](https://dev.to/devsk001/todays-github-repos-2h7a)
-- [🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅](https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90)
+- [PWC 312 Time to be random](https://dev.to/boblied/pwc-312-time-to-be-random-o0f)
+- [How to hide browsing history from Internet Provider?](https://dev.to/asya_karapetyan_7dd3a62f8/how-to-hide-browsing-history-from-internet-provider-306o)
+- [Efficient Management of SQL Server Functions: Automating Routine Tasks](https://dev.to/samantha_brauer/efficient-management-of-sql-server-functions-automating-routine-tasks-3n6o)
+- [Sprint 4 - I&#39;m Finally Making Sense of Hurl](https://dev.to/theoforger/sprint-4-im-finally-making-sense-of-hurl-18kh)
 <!-- BLOG-POST-LIST:END -->
 
 
