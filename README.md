@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [please star it](https://dev.to/rudransh61/please-star-it-4c32)
-- [Finally ... I did it!!!](https://dev.to/rudransh61/finally-i-did-it-1apb)
-- [Streamlining Microservices Communication with Istio: A Comprehensive Guide to Service Mesh Mastery](https://dev.to/naveens16/streamlining-microservices-communication-with-istio-a-comprehensive-guide-to-service-mesh-mastery-303m)
-- [From Code to Cloud: A Deep Dive into Mendix Deployments - Part 2: On-Premise](https://dev.to/ragutislt/from-code-to-cloud-a-deep-dive-into-mendix-deployments-part-2-on-premise-3h80)
+- [The Adventures of Blink S3e3: Branching into the Git Multiverse](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e3-branching-into-the-git-multiverse-1mgc)
+- [Anticipating User Errors in Web](https://dev.to/thanksboss/anticipating-user-errors-in-web-3nbc)
+- [[Boost]](https://dev.to/chrisvxd/-1bi7)
+- [The Rise of Vibe Coding: How AI is Changing the Way We Write Code](https://dev.to/mentorsol/the-rise-of-vibe-coding-how-ai-is-changing-the-way-we-write-code-198k)
 <!-- BLOG-POST-LIST:END -->
 
 
