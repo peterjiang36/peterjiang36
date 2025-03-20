@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling SGE-Intelligence—A Scholarly Study of AI-Driven Content Optimization in the Search Generative Experience](https://dev.to/arash_mansourpour/unveiling-sge-intelligence-a-scholarly-study-of-ai-driven-content-optimization-in-the-search-158m)
-- [How to containerize an Application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-containerize-an-application-159)
-- [web dev](https://dev.to/james_arias_7248f4e27bbb4/web-dev-3k08)
-- [Developer Diary #29. Time for Change](https://dev.to/kiolk/developer-diary-29-time-for-change-21ck)
+- [Looking for a Software Developer to Join an AI-Powered Project!](https://dev.to/jtaiq97/looking-for-a-software-developer-to-join-an-ai-powered-project-3haf)
+- [Layer by Layer: The OSI Model: Layer 2](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-2-3kbn)
+- [&quot;Unlocking 4D Generation: Transformative AI Techniques You Need to Know!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-4d-generation-transformative-ai-techniques-you-need-to-know-3jgm)
+- [How can I network in IT? I used to work in the financial sector and have lots of friends there. Now, I’ve been working exclusively in IT for the past 2y, and I miss talking to people who ‘suffer’ the same way 😅😅😅 I work with Java Spring Boot and React](https://dev.to/tecnologiaefinancas/how-can-i-network-in-it-i-used-to-work-in-the-financial-sector-and-have-lots-of-friends-there-1c36)
 <!-- BLOG-POST-LIST:END -->
 
 
