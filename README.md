@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang 1.24: Breaking Down the Latest Features and Enhancements &lpar;#1&rpar;](https://dev.to/mx_tech/-golang-124-breaking-down-the-latest-features-and-enhancements-1-1l5p)
-- [How to Measure IT Service Quality: Key Metrics &amp; Best Practices for 2025](https://dev.to/adityabhuyan/how-to-measure-it-service-quality-key-metrics-best-practices-for-2025-4pi9)
-- [Software Testing vs Firmware Testing: Understanding the Key Differences](https://dev.to/radha_4c842d8e4362a7cdd9c/software-testing-vs-firmware-testing-understanding-the-key-differences-1mfe)
-- [How to Build Secure JWT Authentication in Golang + React.js &lpar;Step-by-Step&rpar;](https://dev.to/devkitbase/how-to-build-secure-jwt-authentication-in-golang-reactjs-step-by-step-i8f)
+- [I was struggling with project management—too many meetings, unclear workflows, and constant distractions. Then I found this blog, and it completely changed my approach! If you&#39;re a developer facing the same challenges, I highly recommend reading this.](https://dev.to/rajesh_patel/i-was-struggling-with-project-management-too-many-meetings-unclear-workflows-and-constant-20le)
+- [Factors Affecting Salary](https://dev.to/cgn28/factors-affecting-salary-12b5)
+- [Tired of project management tools that slow you down? Developers need workflows that enhance productivity—not endless meetings and rigid structures. Discover how Teamcamp simplifies project tracking with Git integrations and customisable workflows. #dev](https://dev.to/pratham_naik_project_manager/tired-of-project-management-tools-that-slow-you-down-developers-need-workflows-that-enhance-1gc4)
+- [Send from your business email address](https://dev.to/martinratinaud/send-from-your-business-email-address-3me9)
 <!-- BLOG-POST-LIST:END -->
 
 
