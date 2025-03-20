@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Similar Components with Different Styles in Chakra UI](https://dev.to/ashphy/similar-components-with-different-styles-in-chakra-ui-kj1)
-- [A Beginner’s Guide to Java’s compareTo&lpar;&rpar; Method](https://dev.to/tpointtechadu/a-beginners-guide-to-javas-compareto-method-c2p)
-- [Essential Tips to Secure Your WordPress Website](https://dev.to/yogsec/essential-tips-to-secure-your-wordpress-website-1mc)
-- [🚀 Tired of SGD/Adam bottlenecks? K-FAC’s second-order magic slashes training steps &lpar;14.7x fewer updates!&rpar; and boosts NLP/finance models. Code-friendly for PyTorch/TF. Dive into the future of optimization 👇](https://dev.to/alex-nguyen-duy-anh/tired-of-sgdadam-bottlenecks-k-facs-second-order-magic-slashes-training-steps-147x-fewer-2hic)
+- [🚀 Your Daily Crypto Job Digest For 20 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-march-39fb)
+- [Overview of Software Testing&#39;s Functions and Advantages](https://dev.to/teeny_tiny_a22be8595760a6/overview-of-software-testings-functions-and-advantages-50mn)
+- [Theme Toggle in Astro 5 + Tailwind 4](https://dev.to/gdpp/theme-toggle-in-astro-5-tailwind-4-dme)
+- [Chill Coding: how AI Changed my Workflow &lpar;and what i learned&rpar;](https://dev.to/lbo/chill-coding-how-ai-changed-my-workflow-and-what-i-learned-4paa)
 <!-- BLOG-POST-LIST:END -->
 
 
