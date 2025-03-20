@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 20 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-20-march-39fb)
-- [Overview of Software Testing&#39;s Functions and Advantages](https://dev.to/teeny_tiny_a22be8595760a6/overview-of-software-testings-functions-and-advantages-50mn)
-- [Theme Toggle in Astro 5 + Tailwind 4](https://dev.to/gdpp/theme-toggle-in-astro-5-tailwind-4-dme)
-- [Chill Coding: how AI Changed my Workflow &lpar;and what i learned&rpar;](https://dev.to/lbo/chill-coding-how-ai-changed-my-workflow-and-what-i-learned-4paa)
+- [9 Modern JavaScript Tips for Beginners in 2025 🚀🔥](https://dev.to/ananiket/9-modern-javascript-tips-for-beginners-in-2025-3bkm)
+- [A Beginner’s Guide to NumPy for Data Analysis](https://dev.to/meftamila/a-beginners-guide-to-numpy-for-data-analysis-2gg8)
+- [Today&#39;s GitHub Repo&#39;s](https://dev.to/devsk001/todays-github-repos-2h7a)
+- [🔥 Gemma 3 27B vs. QwQ 32B vs. Deepseek R1 comparison ✅](https://dev.to/composiodev/gemma-3-27b-vs-qwq-32b-vs-deepseek-r1-comparison-4o90)
 <!-- BLOG-POST-LIST:END -->
 
 
