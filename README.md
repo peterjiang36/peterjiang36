@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One giant Kubernetes cluster for everything](https://dev.to/loft/one-giant-kubernetes-cluster-for-everything-1bm6)
-- [What is SD-WAN? Benefits, How It Works, and Why It’s Essential for Cloud Networking](https://dev.to/sifytechnologies_1_4ed166/what-is-sd-wan-benefits-how-it-works-and-why-its-essential-for-cloud-networking-1oc5)
-- [Exploring Switch Case in C#: Traditional vs. Modern Patterns](https://dev.to/pythontutorial/exploring-switch-case-in-c-traditional-vs-modern-patterns-4j6n)
-- [What is Developer Relations and Why is it Important?](https://dev.to/tripleade/what-is-developer-relations-and-why-is-it-important-4ddh)
+- [please star it](https://dev.to/rudransh61/please-star-it-4c32)
+- [Finally ... I did it!!!](https://dev.to/rudransh61/finally-i-did-it-1apb)
+- [Streamlining Microservices Communication with Istio: A Comprehensive Guide to Service Mesh Mastery](https://dev.to/naveens16/streamlining-microservices-communication-with-istio-a-comprehensive-guide-to-service-mesh-mastery-303m)
+- [From Code to Cloud: A Deep Dive into Mendix Deployments - Part 2: On-Premise](https://dev.to/ragutislt/from-code-to-cloud-a-deep-dive-into-mendix-deployments-part-2-on-premise-3h80)
 <!-- BLOG-POST-LIST:END -->
 
 
