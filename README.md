@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a 3D Rotating Cube on Scroll with Trig.js](https://dev.to/idevgames/how-to-make-a-3d-rotating-cube-on-scroll-with-trigjs-5g6m)
-- [News on update 07.03.2025](https://dev.to/labrob2013/news-on-update-07032025-3113)
-- [News on update 11.02.2025](https://dev.to/labrob2013/news-on-update-11022025-nf)
-- [Série Go: Uma abordagem sobre a Linguagem de Programação Golang](https://dev.to/marcosplusplus/serie-go-uma-abordagem-sobre-a-linguagem-de-programacao-golang-3eee)
+- [Data Modeling for Java Developers: Structuring With PostgreSQL and MongoDB](https://dev.to/mongodb/data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb-456l)
+- [A Comprehensive Guide to TikTok API](https://dev.to/scrapfly_dev/a-comprehensive-guide-to-tiktok-api-49f6)
+- [Best Cloud Hosting Providers Website: Your Ultimate Guide 🚀](https://dev.to/berkan_baerbuilder_85/best-cloud-hosting-providers-website-your-ultimate-guide-4a8n)
+- [Docker Applied Skills: Containerize a Node.js application](https://dev.to/johnogbonna/docker-applied-skills-containerize-a-nodejs-application-2goi)
 <!-- BLOG-POST-LIST:END -->
 
 
