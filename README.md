@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Modeling for Java Developers: Structuring With PostgreSQL and MongoDB](https://dev.to/mongodb/data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb-456l)
-- [A Comprehensive Guide to TikTok API](https://dev.to/scrapfly_dev/a-comprehensive-guide-to-tiktok-api-49f6)
-- [Best Cloud Hosting Providers Website: Your Ultimate Guide 🚀](https://dev.to/berkan_baerbuilder_85/best-cloud-hosting-providers-website-your-ultimate-guide-4a8n)
-- [Docker Applied Skills: Containerize a Node.js application](https://dev.to/johnogbonna/docker-applied-skills-containerize-a-nodejs-application-2goi)
+- [&quot;Unlocking Visual Intelligence: The Power of the TULIP Model in AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-the-tulip-model-in-ai-4aka)
+- [Implementing Access Control System for Microservices Using OPA](https://dev.to/bmf_san/implementing-access-control-system-for-microservices-using-opa-1c2i)
+- [Daily JavaScript Challenge #JS-131: String Compression](https://dev.to/dpc/daily-javascript-challenge-js-131-string-compression-151i)
+- [Content Strategy for Startups: Storytelling as a Growth Driver](https://dev.to/bekahhw/content-strategy-for-startups-storytelling-as-a-growth-driver-9a9)
 <!-- BLOG-POST-LIST:END -->
 
 
