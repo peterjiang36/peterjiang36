@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/habibullahrahat/-2a1i)
-- [Dev vs AI](https://dev.to/tru3bliss/dev-vs-ai-3m02)
-- [Rabit Icons Pack 🐰 | For Applications 🔥](https://dev.to/hanzla-baig/rabit-icons-pack-for-applications-2h55)
-- [Best Practices for Server Monitoring: Ensuring Uptime through Port Monitoring](https://dev.to/tomcao2012/best-practices-for-server-monitoring-ensuring-uptime-through-port-monitoring-bga)
+- [Where to Start in Web Development: Ignoring learning HTTP&lpar;S&rpar;, URLs, DNS, IP, SSL will have consequences...](https://dev.to/dev-charodeyka/where-to-start-in-web-development-ignoring-learning-https-urls-dns-ip-ssl-will-have-57le)
+- [Web Scraping with Python: Learn It Fast! 🚀](https://dev.to/0x3d_site/web-scraping-with-python-learn-it-fast-4c6b)
+- [Workout and Diet based on Inbody Report](https://dev.to/rakeshreddy512/my-inbody-report-1kk4)
+- [Simplifying Multi-line Strings with Text Blocks in Java](https://dev.to/igorfragadev/simplifying-multi-line-strings-with-text-blocks-in-java-159a)
 <!-- BLOG-POST-LIST:END -->
 
 
