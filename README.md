@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Uninstall SafeLine WAF](https://dev.to/carrie_luo1/how-to-uninstall-safeline-waf-5b5g)
-- [Choosing the Right Frontend Framework: React vs Vue vs Angular](https://dev.to/theodor_coin_4/choosing-the-right-frontend-framework-react-vs-vue-vs-angular-3igl)
-- [Breaking Barriers: Closing the Gender Gap in Tech for a More Inclusive Future](https://dev.to/wearetechi/breaking-barriers-closing-the-gender-gap-in-tech-for-a-more-inclusive-future-3127)
-- [Building User-Centric Products: You are Not Your Customer](https://dev.to/audaciatechnology/building-user-centric-products-you-are-not-your-customer-4fgh)
+- [Go + Gorilla/Mux: Everything You Need for Web App](https://dev.to/leapcell/go-gorillamux-everything-you-need-for-web-app-3ka0)
+- [Revolutionizing Educational Data Management with Blockchain: A New Era of Security and Transparency](https://dev.to/slyvestang/revolutionizing-educational-data-management-with-blockchain-a-new-era-of-security-and-transparency-o5k)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-2dp1)
+- [Leetcode - 150. Evaluate Reverse Polish Notation](https://dev.to/rakeshreddy512/leetcode-150-evaluate-reverse-polish-notation-18pg)
 <!-- BLOG-POST-LIST:END -->
 
 
