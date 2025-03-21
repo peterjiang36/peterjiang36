@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Shopee Email Verification Issues: A Quick Guide for Sellers](https://dev.to/mindlily/how-to-fix-shopee-email-verification-issues-a-quick-guide-for-sellers-2mfd)
-- [Understanding Assignment Operators in JavaScript: From Basics to Advanced Concepts](https://dev.to/coder_studios/understanding-assignment-operators-in-javascript-from-basics-to-advanced-concepts-34e0)
-- [Testing Basics: How Do You Prioritize Manual vs Automated Testing?](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-basics-how-do-you-prioritize-manual-vs-automated-testing-eaa)
-- [Difference between null, undefined and not defined in javascript](https://dev.to/coder_studios/difference-between-null-undefined-and-not-defined-in-javascript-2ke)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
+- [Remove String Spaces](https://dev.to/maddiepst/remove-string-spaces-16m7)
+- [鸿蒙开发：文本合成语音](https://dev.to/abnerming888/hong-meng-kai-fa-wen-ben-he-cheng-yu-yin-56d4)
+- [Getting LLMs to Create, Play, Evaluate, and Improve Games](https://dev.to/abagames/getting-llms-to-create-play-evaluate-and-improve-games-4j81)
 <!-- BLOG-POST-LIST:END -->
 
 
