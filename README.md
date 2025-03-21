@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-1k07)
-- [Remove String Spaces](https://dev.to/maddiepst/remove-string-spaces-16m7)
-- [鸿蒙开发：文本合成语音](https://dev.to/abnerming888/hong-meng-kai-fa-wen-ben-he-cheng-yu-yin-56d4)
-- [Getting LLMs to Create, Play, Evaluate, and Improve Games](https://dev.to/abagames/getting-llms-to-create-play-evaluate-and-improve-games-4j81)
+- [পাইথন এরর হ্যান্ডলিং এবং ডিবাগিং: সমস্যা মোকাবিলা করা](https://dev.to/shafiemoji/paaithn-err-hyaanddlin-ebn-ddibaagin-smsyaa-mokaabilaa-kraa-35kp)
+- [The Power of TypeScript Utility Types 🚀](https://dev.to/hasunnilupul/the-power-of-typescript-utility-types-50nn)
+- [Kanban or Scrum—which project management approach works best for developers? This blog dives deep into their differences, helping you choose the right fit for your team. Don&#39;t miss out! #developers # kanaban #scrum #scrumvskanaban](https://dev.to/rajesh_patel/kanban-or-scrum-which-project-management-approach-works-best-for-developers-this-blog-dives-deep-45p5)
+- [warnOnce package in Refine source code.](https://dev.to/ramunarasinga-11/warnonce-package-in-refine-source-code-1h13)
 <!-- BLOG-POST-LIST:END -->
 
 
