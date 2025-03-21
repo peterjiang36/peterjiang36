@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Gopher: Best Practices for Structured Go Code 🐹](https://dev.to/tavernetech/taming-the-gopher-best-practices-for-structured-go-code-2idf)
-- [Stop Wasting Time on These Outdated Tech Skills in 2025](https://dev.to/mr_nova/stop-wasting-time-on-these-outdated-tech-skills-in-2025-1dp)
-- [Ubuntu Server: Easy Fastest Repository Mirror Script](https://dev.to/ijash/ubuntu-server-easy-fastest-repository-mirror-script-319i)
-- [How Web Crawlers Help Shape the Web’s Structure](https://dev.to/swiftproxy_residential/how-web-crawlers-help-shape-the-webs-structure-2d02)
+- [What’s Inside the Best Open-Source General AI Agent?](https://dev.to/camelai/whats-inside-the-best-open-source-general-ai-agent-433f)
+- [How to use Raspberry Pi as a 1080P IP camera](https://dev.to/carolineee/how-to-use-raspberry-pi-as-a-1080p-ip-camera-437f)
+- [Concurrency in Java: A Guide for Beginners!](https://dev.to/amehpls/concurrency-in-java-a-guide-for-beginners-561e)
+- [AI is changing web development! 🚀 Can cloud-based AI website builders replace traditional platforms like WordPress &amp; Wix? Read my post &amp; share your thoughts!&quot;](https://dev.to/sam_tech/ai-is-changing-web-development-can-cloud-based-ai-website-builders-replace-traditional-platforms-1o28)
 <!-- BLOG-POST-LIST:END -->
 
 
