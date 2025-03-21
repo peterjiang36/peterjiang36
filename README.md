@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗘𝗙 𝗖𝗼𝗿𝗲 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝘄𝗶𝘁𝗵 𝗧𝗿𝗶𝗴𝗴𝗲𝗿𝘀 𝗶𝗻 𝗘𝘅𝗽𝗲𝗻𝘀𝗲𝘀 𝗧𝗮𝗯𝗹𝗲 &amp; 𝗛𝗼𝘄 𝗜 𝗙𝗶𝘅𝗲𝗱 𝗧𝗵𝗲𝗺 🚀](https://dev.to/supraja_tangella_b7f0738e/-2nmj)
-- [ROLE OF AI IN CODE GENERATION](https://dev.to/kritrim_dhi/role-of-ai-in-code-generation-25a8)
-- [Diferença entre Dependency Injection e Service Locator em C#](https://dev.to/fullstackwizard/diferenca-entre-dependency-injection-e-service-locator-em-c-ii6)
-- [🚀 Your Daily Crypto Job Digest For 21 March!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-21-march-4jk)
+- [Understanding Complexity in Data Structures](https://dev.to/priya_naik_513dae9128e2a9/understanding-complexity-in-data-structures-1me6)
+- [CCIE Certification Cost: A Complete Guide for 2025](https://dev.to/rohan_jee_085655230/ccie-certification-cost-a-complete-guide-for-2025-237p)
+- [[Boost]](https://dev.to/sauain/-4gno)
+- [Game Dev Digest — Issue #274 - A Look Ahead](https://dev.to/gamedevdigest/game-dev-digest-issue-274-a-look-ahead-5fn3)
 <!-- BLOG-POST-LIST:END -->
 
 
