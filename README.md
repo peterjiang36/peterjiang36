@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Trigonometry to create a circle with C++ and OpenGL | Android Game dev](https://dev.to/theplebdev/using-trigonometry-to-create-a-circle-with-c-and-opengl-android-game-dev-3di2)
-- [Developing Autonomous Agents with Multi-Agent Systems](https://dev.to/kartikmehta8/developing-autonomous-agents-with-multi-agent-systems-3cd7)
-- [&quot;Unlocking Visual Intelligence: The Power of the TULIP Model in AI&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-visual-intelligence-the-power-of-the-tulip-model-in-ai-4aka)
-- [Implementing Access Control System for Microservices Using OPA](https://dev.to/bmf_san/implementing-access-control-system-for-microservices-using-opa-1c2i)
+- [Published an OSS Repository That Continuously Stores GitHub Repository Metrics Using GAS](https://dev.to/route06/published-an-oss-repository-that-continuously-stores-github-repository-metrics-using-gas-4f0g)
+- [Config Swappines on Linux](https://dev.to/seno21/config-swappines-on-linux-42e5)
+- [Top 4 Open Source Products to Help You Avoid Hidden Costs in Low-Code Platforms](https://dev.to/nocobase/top-4-open-source-products-to-help-you-avoid-hidden-costs-in-low-code-platforms-158j)
+- [FluxCD Helm Repository - chart pull error: 401](https://dev.to/rajesh_n_6a3ae85da2f1b2f3/fluxcd-helm-repository-chart-pull-error-401-5eoe)
 <!-- BLOG-POST-LIST:END -->
 
 
