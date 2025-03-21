@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [পাইথন এরর হ্যান্ডলিং এবং ডিবাগিং: সমস্যা মোকাবিলা করা](https://dev.to/shafiemoji/paaithn-err-hyaanddlin-ebn-ddibaagin-smsyaa-mokaabilaa-kraa-35kp)
-- [The Power of TypeScript Utility Types 🚀](https://dev.to/hasunnilupul/the-power-of-typescript-utility-types-50nn)
-- [Kanban or Scrum—which project management approach works best for developers? This blog dives deep into their differences, helping you choose the right fit for your team. Don&#39;t miss out! #developers # kanaban #scrum #scrumvskanaban](https://dev.to/rajesh_patel/kanban-or-scrum-which-project-management-approach-works-best-for-developers-this-blog-dives-deep-45p5)
-- [warnOnce package in Refine source code.](https://dev.to/ramunarasinga-11/warnonce-package-in-refine-source-code-1h13)
+- [Building a Retrieval-Augmented Generation &lpar;RAG&rpar; API and Frontend with FastAPI and React Native](https://dev.to/vivekyadav200988/building-a-retrieval-augmented-generation-rag-api-and-frontend-with-fastapi-and-react-native-2n7k)
+- [🚀 JavaScript Rising Stars 2024 is here!](https://dev.to/ml318097/javascript-rising-stars-2024-is-here-16im)
+- [My First Message](https://dev.to/saravanan_chinnadurai_3fa/my-first-message-n35)
+- [It&#39;s totally clear to me: not using TS instead of vanilla JS in &#39;25 is a failure.](https://dev.to/urbanisierung/its-totally-clear-to-me-not-using-ts-instead-of-vanilla-js-in-25-is-a-failure-2dci)
 <!-- BLOG-POST-LIST:END -->
 
 
