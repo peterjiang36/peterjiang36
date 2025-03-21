@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Caching in Cakephp in 2025?](https://dev.to/anna_golubkova/how-to-implement-caching-in-cakephp-in-2025-1i23)
-- [The 3 Best Python Frameworks To Build UIs for AI Apps](https://dev.to/getstreamhq/the-3-best-python-frameworks-to-build-uis-for-ai-apps-3k2e)
-- [Decentralized Interfaces: Revolutionizing Front end Development with Blockchain Technology](https://dev.to/drivesailor9/decentralized-interfaces-revolutionizing-front-end-development-with-blockchain-technology-55kf)
-- [React Clean Architecture](https://dev.to/shpend_rrustemi_ae3bd4934/react-clean-architecture-59ok)
+- [The Secret Chamber Every Developer Should Have: Unleashing the Power of Side Repositories](https://dev.to/francescobianco/the-secret-chamber-every-developer-should-have-unleashing-the-power-of-side-repositories-1j3)
+- [The Importance of Coding in the Digital Age](https://dev.to/hacker_mughal_80761b30ef2/the-importance-of-coding-in-the-digital-age-2fll)
+- [JavaScript Guess the Output: মজার কিছু ধাঁধা! 🚀](https://dev.to/joydippaul/javascript-guess-the-output-mjaar-kichu-dhaandhaa-41ma)
+- [2115. Find All Possible Recipes from Given Supplies](https://dev.to/mdarifulhaque/2115-find-all-possible-recipes-from-given-supplies-1ma)
 <!-- BLOG-POST-LIST:END -->
 
 
