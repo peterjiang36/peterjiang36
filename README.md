@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go + Gorilla/Mux: Everything You Need for Web App](https://dev.to/leapcell/go-gorillamux-everything-you-need-for-web-app-3ka0)
-- [Revolutionizing Educational Data Management with Blockchain: A New Era of Security and Transparency](https://dev.to/slyvestang/revolutionizing-educational-data-management-with-blockchain-a-new-era-of-security-and-transparency-o5k)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-2dp1)
-- [Leetcode - 150. Evaluate Reverse Polish Notation](https://dev.to/rakeshreddy512/leetcode-150-evaluate-reverse-polish-notation-18pg)
+- [Will AI Replace Web Developers? The Future of AI in Web Development](https://dev.to/cloudestersoftware/will-ai-replace-web-developers-the-future-of-ai-in-web-development-4k81)
+- [Smart AI System Boosts Fact-Checking Accuracy by 10% Using Dynamic Claim Analysis](https://dev.to/mikeyoung44/smart-ai-system-boosts-fact-checking-accuracy-by-10-using-dynamic-claim-analysis-bj0)
+- [Edge AI Breakthrough: Multi-Device Neural Networks Boost Performance by 87% on Single Board Computer](https://dev.to/mikeyoung44/edge-ai-breakthrough-multi-device-neural-networks-boost-performance-by-87-on-single-board-computer-552j)
+- [AI Robot Control System Learns to Navigate Dynamic Environments More Safely Than Current Methods](https://dev.to/mikeyoung44/ai-robot-control-system-learns-to-navigate-dynamic-environments-more-safely-than-current-methods-2dnp)
 <!-- BLOG-POST-LIST:END -->
 
 
