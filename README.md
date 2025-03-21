@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s Inside the Best Open-Source General AI Agent?](https://dev.to/camelai/whats-inside-the-best-open-source-general-ai-agent-433f)
-- [How to use Raspberry Pi as a 1080P IP camera](https://dev.to/carolineee/how-to-use-raspberry-pi-as-a-1080p-ip-camera-437f)
-- [Concurrency in Java: A Guide for Beginners!](https://dev.to/amehpls/concurrency-in-java-a-guide-for-beginners-561e)
-- [AI is changing web development! 🚀 Can cloud-based AI website builders replace traditional platforms like WordPress &amp; Wix? Read my post &amp; share your thoughts!&quot;](https://dev.to/sam_tech/ai-is-changing-web-development-can-cloud-based-ai-website-builders-replace-traditional-platforms-1o28)
+- [How To Uninstall SafeLine WAF](https://dev.to/carrie_luo1/how-to-uninstall-safeline-waf-5b5g)
+- [Choosing the Right Frontend Framework: React vs Vue vs Angular](https://dev.to/theodor_coin_4/choosing-the-right-frontend-framework-react-vs-vue-vs-angular-3igl)
+- [Breaking Barriers: Closing the Gender Gap in Tech for a More Inclusive Future](https://dev.to/wearetechi/breaking-barriers-closing-the-gender-gap-in-tech-for-a-more-inclusive-future-3127)
+- [Building User-Centric Products: You are Not Your Customer](https://dev.to/audaciatechnology/building-user-centric-products-you-are-not-your-customer-4fgh)
 <!-- BLOG-POST-LIST:END -->
 
 
