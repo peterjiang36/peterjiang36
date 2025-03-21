@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget C and Rust – Python Is the Future of IoT!](https://dev.to/coursedia/forget-c-and-rust-python-is-the-future-of-iot-234c)
-- [[Boost]](https://dev.to/efraim9/-2d7m)
-- [How to install android studio in linux/ubantu](https://dev.to/mayank_tamrkar/how-to-install-android-studio-in-linuxubantu-55dl)
-- [The CueMeet Mission](https://dev.to/cuemeet/the-cuemeet-mission-4np3)
+- [Testing Strapi Integration with Dev.to](https://dev.to/arshiash80/testing-strapi-integration-with-devto-45ff)
+- [Adobe Commerce as a Cloud Service is NOT like Shopify](https://dev.to/rafaelcg/adobe-commerce-as-a-cloud-service-is-not-like-shopify-1dp1)
+- [KendoReact Challenge Submission: A Waku Project](https://dev.to/roggc/kendoreact-challenge-submission-a-waku-project-1do6)
+- [Building a little whisper thingy](https://dev.to/charlescrowley/esl-meets-ai-53b6)
 <!-- BLOG-POST-LIST:END -->
 
 
