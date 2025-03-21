@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Strapi Integration with Dev.to](https://dev.to/arshiash80/testing-strapi-integration-with-devto-45ff)
-- [Adobe Commerce as a Cloud Service is NOT like Shopify](https://dev.to/rafaelcg/adobe-commerce-as-a-cloud-service-is-not-like-shopify-1dp1)
-- [KendoReact Challenge Submission: A Waku Project](https://dev.to/roggc/kendoreact-challenge-submission-a-waku-project-1do6)
-- [Building a little whisper thingy](https://dev.to/charlescrowley/esl-meets-ai-53b6)
+- [This is a fantastic, concise guide to essential JavaScript debugging techniques](https://dev.to/kevin_asutton_/this-is-a-fantastic-concise-guide-to-essential-javascript-debugging-techniques-1lgn)
+- [This sounds like a goldmine for DevOps enthusiasts! Practical insights and real-world examples, especially covering Kubernetes, Terraform, and Vault, are highly valuable. I&#39;m definitely checking out the article for those hands-on tips and VSCode setups.](https://dev.to/kevin_asutton_/this-sounds-like-a-goldmine-for-devops-enthusiasts-practical-insights-and-real-world-examples-4oc4)
+- [React Deep Dive: Mastering useRef for Enhanced Control and Performance](https://dev.to/theaydev/react-deep-dive-mastering-useref-for-enhanced-control-and-performance-24g)
+- [[Boost]](https://dev.to/kevin_asutton_/-15bo)
 <!-- BLOG-POST-LIST:END -->
 
 
