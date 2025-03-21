@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DumbQL: A Simplified Query Language for Go Applications](https://dev.to/tomakado/dumbql-a-simplified-query-language-for-go-applications-4bef)
-- [game ideas do it if you can haha](https://dev.to/hur1el/game-ideas-do-it-if-you-can-haha-3po3)
-- [Blockchain Security: How AI Helps Prevent Hacks](https://dev.to/joinwithken/blockchain-security-how-ai-helps-prevent-hacks-1i3h)
-- [A, AAAA, CNAME, NS — Use Cases of Basic DNS Record Types](https://dev.to/kradasa4/a-aaaa-cname-ns-use-cases-of-basic-dns-record-types-1oe6)
+- [How to Implement Caching in Cakephp in 2025?](https://dev.to/anna_golubkova/how-to-implement-caching-in-cakephp-in-2025-1i23)
+- [The 3 Best Python Frameworks To Build UIs for AI Apps](https://dev.to/getstreamhq/the-3-best-python-frameworks-to-build-uis-for-ai-apps-3k2e)
+- [Decentralized Interfaces: Revolutionizing Front end Development with Blockchain Technology](https://dev.to/drivesailor9/decentralized-interfaces-revolutionizing-front-end-development-with-blockchain-technology-55kf)
+- [React Clean Architecture](https://dev.to/shpend_rrustemi_ae3bd4934/react-clean-architecture-59ok)
 <!-- BLOG-POST-LIST:END -->
 
 
