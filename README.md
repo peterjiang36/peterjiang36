@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Chamber Every Developer Should Have: Unleashing the Power of Side Repositories](https://dev.to/francescobianco/the-secret-chamber-every-developer-should-have-unleashing-the-power-of-side-repositories-1j3)
-- [The Importance of Coding in the Digital Age](https://dev.to/hacker_mughal_80761b30ef2/the-importance-of-coding-in-the-digital-age-2fll)
-- [JavaScript Guess the Output: মজার কিছু ধাঁধা! 🚀](https://dev.to/joydippaul/javascript-guess-the-output-mjaar-kichu-dhaandhaa-41ma)
-- [2115. Find All Possible Recipes from Given Supplies](https://dev.to/mdarifulhaque/2115-find-all-possible-recipes-from-given-supplies-1ma)
+- [[Boost]](https://dev.to/habibullahrahat/-2a1i)
+- [Dev vs AI](https://dev.to/tru3bliss/dev-vs-ai-3m02)
+- [Rabit Icons Pack 🐰 | For Applications 🔥](https://dev.to/hanzla-baig/rabit-icons-pack-for-applications-2h55)
+- [Best Practices for Server Monitoring: Ensuring Uptime through Port Monitoring](https://dev.to/tomcao2012/best-practices-for-server-monitoring-ensuring-uptime-through-port-monitoring-bga)
 <!-- BLOG-POST-LIST:END -->
 
 
