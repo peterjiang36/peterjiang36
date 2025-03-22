@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [পাইথন অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং &lpar;OOP&rpar;: ক্লাস এবং অবজেক্ট](https://dev.to/shafiemoji/paaithn-abjektt-oriyenttedd-prograamin-oop-klaas-ebn-abjektt-1ik5)
-- [graph](https://dev.to/johnsone_emett_c5c2b56a4a/graph-3goo)
-- [🔐 Understanding JWT Authentication: A Complete Guide](https://dev.to/matin676/understanding-jwt-authentication-a-complete-guide-4j8b)
-- [The Revenue Cost of Downtime: Proactive Monitoring for Critical Systems](https://dev.to/tomcao2012/the-revenue-cost-of-downtime-proactive-monitoring-for-critical-systems-jic)
+- [Queen Bee Syndrome &amp; Me: Navigating internalised misogyny](https://dev.to/sophiekaelin/what-is-queen-bee-syndrome-14gh)
+- [A Hidden Character Mystery](https://dev.to/abbazs/a-hidden-character-mystery-43d9)
+- [Monolithic vs Microservices Architecture: Which One Should You Choose?](https://dev.to/tejmul_movin_707c8bc5690a/monolithic-vs-microservices-architecture-which-one-should-you-choose-11je)
+- [How to Reduce Friction in Learning New Technologies as a Software Engineer](https://dev.to/jps27cse/how-to-reduce-friction-in-learning-new-technologies-as-a-software-engineer-2ph3)
 <!-- BLOG-POST-LIST:END -->
 
 
