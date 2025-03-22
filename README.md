@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HackTheBox Writeup: Cypher](https://dev.to/tilalis/hackthebox-writeup-cypher-2fip)
-- [💻 Lista de Exercícios Básicos em Java 🚀 - Part 8](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm)
-- [AI Runner v3.3 is now under Apache 2.0](https://dev.to/w4ffl35/ai-runner-v33-is-now-under-apache-20-138n)
-- [Desentrañando un pergamino de 2000 años con Inteligencia Artificial](https://dev.to/briansuarezsantiago/desentranando-un-pergamino-de-2000-anos-con-inteligencia-artificial-4dp8)
+- [🚀 Type Safety, Tool Management &amp; HTTP Enhancements in Go 1.24](https://dev.to/mx_tech/golang-3m6i)
+- [Revolutionizing Data Access with QueryJinn 🚀](https://dev.to/ajdamiao/revolutionizing-data-access-with-queryjinn-4e61)
+- [Embracing the API Economy – How Integrations Drive Startup Growth](https://dev.to/ai-expert/embracing-the-api-economy-how-integrations-drive-startup-growth-1cok)
+- [Google Vertex RAG Engine with C# .Net](https://dev.to/gunpal5/google-vertex-rag-engine-with-c-net-4e6b)
 <!-- BLOG-POST-LIST:END -->
 
 
