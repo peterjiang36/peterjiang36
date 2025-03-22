@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Our Developer Community on Discord!](https://dev.to/ramkumar2003/join-our-developer-community-on-discord-55bb)
-- [Supercharge Your Django App: High-Performance Optimization Strategies](https://dev.to/dct_technologyprivatelimited/supercharge-your-django-app-high-performance-optimization-strategies-m7c)
-- [7 Lessons That Would’ve Saved Me Years as a Frontend Engineer](https://dev.to/smilegupta/7-lessons-that-wouldve-saved-me-years-as-a-frontend-engineer-fje)
-- [Joining the KendoReact Free Components Challenge](https://dev.to/dhobalenamrata/joining-the-kendoreact-free-components-challenge-5d69)
+- [Containerizing a Node.js Application with Docker](https://dev.to/busa/containerizing-a-nodejs-application-with-docker-3oce)
+- [Any designers here who are looking to start a bit of coding?](https://dev.to/sujans/any-designers-here-who-are-looking-to-start-a-bit-of-coding-4fa1)
+- [Today&#39;s AI Updates](https://dev.to/devsk001/todays-ai-updates-mn9)
+- [You might be overusing Vim visual mode 🤯](https://dev.to/m4xshen/you-might-be-overusing-vim-visual-mode-434h)
 <!-- BLOG-POST-LIST:END -->
 
 
