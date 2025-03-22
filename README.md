@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Cursor Editor Helped Me Revive a Laravel Package After 7 Years](https://dev.to/alihesari/how-cursor-editor-helped-me-revive-a-laravel-package-after-7-years-kl0)
-- [🚀 Docker vs Kubernetes: Which One Do You Really Need in 2025?](https://dev.to/dct_technologyprivatelimited/docker-vs-kubernetes-which-one-do-you-really-need-in-2025-50mb)
-- [Building Developer-Friendly APIs: Best Practices for Modern Architecture](https://dev.to/aaravjoshi/building-developer-friendly-apis-best-practices-for-modern-architecture-mbh)
-- [FastOpenAPI: Generate OpenAPI Schemas for Any Python Framework](https://dev.to/mr_fatalyst/fastopenapi-generate-openapi-schemas-for-any-python-framework-4n9i)
+- [Join Our Developer Community on Discord!](https://dev.to/ramkumar2003/join-our-developer-community-on-discord-55bb)
+- [Supercharge Your Django App: High-Performance Optimization Strategies](https://dev.to/dct_technologyprivatelimited/supercharge-your-django-app-high-performance-optimization-strategies-m7c)
+- [7 Lessons That Would’ve Saved Me Years as a Frontend Engineer](https://dev.to/smilegupta/7-lessons-that-wouldve-saved-me-years-as-a-frontend-engineer-fje)
+- [Joining the KendoReact Free Components Challenge](https://dev.to/dhobalenamrata/joining-the-kendoreact-free-components-challenge-5d69)
 <!-- BLOG-POST-LIST:END -->
 
 
