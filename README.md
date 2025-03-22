@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Cache vs Semantic Cache en AI Agentics: ¿Cuál usar y cuándo?](https://dev.to/exiadev/memory-cache-vs-semantic-cache-en-ai-agentics-cual-usar-y-cuando-3e4n)
-- [Daily JavaScript Challenge #JS-132: Find Majority Element in an Array](https://dev.to/dpc/daily-javascript-challenge-js-132-find-majority-element-in-an-array-2fj)
-- [Signals in Python: How reaktiv brings Feline Reflexes to Your Backend Code](https://dev.to/buiapp/signals-in-python-how-reaktiv-brings-feline-reflexes-to-your-backend-code-1m8b)
-- [Cómo hacer un buen Makefile](https://dev.to/djsurgeon/como-hacer-un-buen-makefile-2pol)
+- [Supercharge Your Flutter Apps: Seamlessly Integrate C++ with Dart using DLLs](https://dev.to/ayon_ssp/supercharge-your-flutter-apps-seamlessly-integrate-c-with-dart-using-dlls-2nc2)
+- [AugMix in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-2-14o5)
+- [Exploring Rust on Rails: The Future of Web Development for Solo Developers](https://dev.to/jetthoughts/exploring-rust-on-rails-the-future-of-web-development-for-solo-developers-1318)
+- [Applicant Registration Form](https://dev.to/daudmabena/applicant-registration-form-4d1g)
 <!-- BLOG-POST-LIST:END -->
 
 
