@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Psycopg2 ‘ModuleNotFoundError’:Using AWS Lambda-Layer](https://dev.to/ollycare/how-to-fix-psycopg2-modulenotfounderrorusing-aws-lambda-layer-57jo)
-- [Mastering TypeScript Data Types: A Complete Guide](https://dev.to/engrsakib/mastering-typescript-data-types-a-complete-guide-275p)
-- [كيف تعمل متجر متكامل في MERN STACK](https://dev.to/muhammed_murad_7f6b3df615/kyf-tml-mtjr-mtkml-fy-mern-stack-4i7o)
-- [Breaking the LeetCode Loop: How Goodhart’s Law Exposes the Pitfalls of Mindless Coding Grinds](https://dev.to/dbc2201/breaking-the-leetcode-loop-how-goodharts-law-exposes-the-pitfalls-of-mindless-coding-grinds-26hg)
+- [The Bot Assistant??](https://dev.to/phay_vo/the-bot-assistant-3g6o)
+- [Form - Next15/React19/ReactHookForm + Zod + useActionState](https://dev.to/ccslu/forms-en-next15react19-4gmo)
+- [Why Virtual DOM Is No Longer Needed](https://dev.to/broflovski/why-virtual-dom-is-no-longer-needed-107h)
+- [How to Embed a Free Instagram Widget on Your Website](https://dev.to/haynajjar/how-to-embed-a-free-instagram-widget-on-your-website-3oi6)
 <!-- BLOG-POST-LIST:END -->
 
 
