@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Responsibility Principle in C#: Writing Classes That Do One Thing Well](https://dev.to/sathish/single-responsibility-principle-in-c-writing-classes-that-do-one-thing-well-3coj)
-- [Navigating Tech as First Generation Engineering Student...](https://dev.to/vignesh_naik_720/navigating-tech-as-first-generation-engineering-student-45lf)
-- [CancellationToken in .NET: What Are They and Why Should You Use Them?](https://dev.to/adrianbailador/cancellationtoken-in-net-what-are-they-and-why-should-you-use-them-1hn9)
-- [Exploring My OpenAI Agents Examples Repository](https://dev.to/gabrielvanderlei/exploring-my-openai-agents-examples-repository-4hhb)
+- [AI-Driven DevOps, Cloud Transformation, and Cybersecurity in Project Management](https://dev.to/md_anwer_8f8bcb4292aa6095/ai-driven-devops-cloud-transformation-and-cybersecurity-in-project-management-1g0h)
+- [O que eu gostaria de ter aprendido sobre rotas no Rails lá no início](https://dev.to/dnovais/o-que-eu-gostaria-de-ter-aprendido-sobre-rotas-no-rails-la-no-inicio-9f8)
+- [🌐 RadhaSphere Wallet — A Futuristic Multi-Chain AI Web3 Wallet](https://dev.to/omniradhanexus/radhasphere-wallet-a-futuristic-multi-chain-ai-web3-wallet-h5i)
+- [JokeGene: A Playful AI-Powered Joke App Built with KendoReact](https://dev.to/emre_tuutlu_08ce2d50db0b/jokegene-a-playful-ai-powered-joke-app-built-with-kendoreact-5e2c)
 <!-- BLOG-POST-LIST:END -->
 
 
