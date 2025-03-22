@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bot Assistant??](https://dev.to/phay_vo/the-bot-assistant-3g6o)
-- [Form - Next15/React19/ReactHookForm + Zod + useActionState](https://dev.to/ccslu/forms-en-next15react19-4gmo)
-- [Why Virtual DOM Is No Longer Needed](https://dev.to/broflovski/why-virtual-dom-is-no-longer-needed-107h)
-- [How to Embed a Free Instagram Widget on Your Website](https://dev.to/haynajjar/how-to-embed-a-free-instagram-widget-on-your-website-3oi6)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1l6m)
+- [🚀 Mastering Frontend Performance: Speed Up Your React Apps #frontend #react #performance #webdev #umairarshaddev](https://dev.to/umairarshad-dev/mastering-frontend-performance-speed-up-your-react-apps-frontend-react-performance-webdev-18ng)
+- [Jakarta Servlets: Behind the Scene of Deployment and container Lifecycle](https://dev.to/vimukthi_jayasanka_816593/jakarta-servlets-behind-the-scene-of-deployment-and-container-lifecycle-5a4k)
+- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3aae)
 <!-- BLOG-POST-LIST:END -->
 
 
