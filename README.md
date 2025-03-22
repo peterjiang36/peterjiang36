@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-1l6m)
-- [🚀 Mastering Frontend Performance: Speed Up Your React Apps #frontend #react #performance #webdev #umairarshaddev](https://dev.to/umairarshad-dev/mastering-frontend-performance-speed-up-your-react-apps-frontend-react-performance-webdev-18ng)
-- [Jakarta Servlets: Behind the Scene of Deployment and container Lifecycle](https://dev.to/vimukthi_jayasanka_816593/jakarta-servlets-behind-the-scene-of-deployment-and-container-lifecycle-5a4k)
-- [unleashing the potential of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-potential-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3aae)
+- [Single Responsibility Principle in C#: Writing Classes That Do One Thing Well](https://dev.to/sathish/single-responsibility-principle-in-c-writing-classes-that-do-one-thing-well-3coj)
+- [Navigating Tech as First Generation Engineering Student...](https://dev.to/vignesh_naik_720/navigating-tech-as-first-generation-engineering-student-45lf)
+- [CancellationToken in .NET: What Are They and Why Should You Use Them?](https://dev.to/adrianbailador/cancellationtoken-in-net-what-are-they-and-why-should-you-use-them-1hn9)
+- [Exploring My OpenAI Agents Examples Repository](https://dev.to/gabrielvanderlei/exploring-my-openai-agents-examples-repository-4hhb)
 <!-- BLOG-POST-LIST:END -->
 
 
