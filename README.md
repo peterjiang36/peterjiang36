@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Series #3 Sum of Numbers](https://dev.to/maddiepst/beginner-series-3-sum-of-numbers-2ie)
-- [Re-Evaluating My JourneySkill Idea: New Features for a Better Experience](https://dev.to/ashraful__malik/re-evaluating-my-journeyskill-idea-new-features-for-a-better-experience-2ml7)
-- [Ethical AI Testing: Ensuring Fairness and Bias-Free Models](https://dev.to/anil_csimplifyit_905c/ethical-ai-testing-ensuring-fairness-and-bias-free-models-1ooi)
-- [Periodic table of DevSecOps](https://dev.to/iamsahithya/periodic-table-of-devsecops-cak)
+- [পাইথন অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং &lpar;OOP&rpar;: ক্লাস এবং অবজেক্ট](https://dev.to/shafiemoji/paaithn-abjektt-oriyenttedd-prograamin-oop-klaas-ebn-abjektt-1ik5)
+- [graph](https://dev.to/johnsone_emett_c5c2b56a4a/graph-3goo)
+- [🔐 Understanding JWT Authentication: A Complete Guide](https://dev.to/matin676/understanding-jwt-authentication-a-complete-guide-4j8b)
+- [The Revenue Cost of Downtime: Proactive Monitoring for Critical Systems](https://dev.to/tomcao2012/the-revenue-cost-of-downtime-proactive-monitoring-for-critical-systems-jic)
 <!-- BLOG-POST-LIST:END -->
 
 
