@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Libraryware: Revolutionizing Library Management](https://dev.to/sofia-tech/libraryware-revolutionizing-library-management-3gmk)
-- [AWS Service Reference Information MCP Server: how up-to-date, scoped, reference data helps deliver better answers.](https://dev.to/psantus/aws-service-reference-information-mcp-server-how-up-to-date-scoped-reference-data-helps-deliver-gkk)
-- [[Boost]](https://dev.to/nivafy/-52cc)
-- [Boost React Performance and User Experience with Keyboard Shortcuts](https://dev.to/xenral/boost-react-performance-and-user-experience-with-keyboard-shortcuts-5242)
+- [Buenas prácticas para escribir commits en Git con Conventional Commits](https://dev.to/johnserranodev/buenas-practicas-para-escribir-commits-en-git-con-conventional-commits-44jm)
+- [Understanding Type Declarations, Package Initialization, Basic Data Types, Complex Numbers, UTF-8, and iota in Go](https://dev.to/l_walid/understanding-type-declarations-package-initialization-basic-data-types-complex-numbers-utf-8-4eaa)
+- [I made full-stack templates with 4 backend frameworks](https://dev.to/justinjoco/i-made-full-stack-templates-with-4-backend-frameworks-fd7)
+- [Lab 5 &lpar;AArch64&rpar; - 64-Bit Assembly Language Lab](https://dev.to/jurozaw/lab-5-aarch64-64-bit-assembly-language-lab-40am)
 <!-- BLOG-POST-LIST:END -->
 
 
