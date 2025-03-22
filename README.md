@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing AWS Service Reference Information MCP Server](https://dev.to/aws-builders/introducing-aws-service-reference-information-mcp-server-15g5)
-- [Blogging Tools](https://dev.to/vakin_mosa_009/blogging-tools-3l2j)
-- [Digital Clocks in CSS](https://dev.to/madsstoumann/digital-clocks-in-css-3dkg)
-- [Top 5 Wireframing Tools for Designers and Developers](https://dev.to/taskframe_team/top-5-wireframing-tools-for-designers-and-developers-3k43)
+- [How to Fix Psycopg2 ‘ModuleNotFoundError’:Using AWS Lambda-Layer](https://dev.to/ollycare/how-to-fix-psycopg2-modulenotfounderrorusing-aws-lambda-layer-57jo)
+- [Mastering TypeScript Data Types: A Complete Guide](https://dev.to/engrsakib/mastering-typescript-data-types-a-complete-guide-275p)
+- [كيف تعمل متجر متكامل في MERN STACK](https://dev.to/muhammed_murad_7f6b3df615/kyf-tml-mtjr-mtkml-fy-mern-stack-4i7o)
+- [Breaking the LeetCode Loop: How Goodhart’s Law Exposes the Pitfalls of Mindless Coding Grinds](https://dev.to/dbc2201/breaking-the-leetcode-loop-how-goodharts-law-exposes-the-pitfalls-of-mindless-coding-grinds-26hg)
 <!-- BLOG-POST-LIST:END -->
 
 
