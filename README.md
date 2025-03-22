@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [yaps[dot]chat is better than telegram, whatsapp, messengers. &quot;just refresh to delete&quot;.](https://dev.to/abdibrokhim/yapsdotchat-is-better-than-telegram-whatsapp-messengers-just-refresh-to-delete-1l4o)
-- [DevOps Made Simple: A Beginner’s Guide to DevSecOps in Action - Securing Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-devsecops-in-action-securing-your-cicd-pipeline-39i1)
-- [115 Awesome MCP Servers You Cannot Miss Out in 2025](https://dev.to/lynn_mikami_e94e5b9ad7daf/115-awesome-mcp-servers-you-cannot-miss-out-in-2025-5m3)
-- [🤖 Automating .NET Development: AI-Generated Projects Inside Visual Studio](https://dev.to/anup_kumar_51d4c4360384d4/automating-net-development-ai-generated-projects-inside-visual-studio-48j3)
+- [What You Need to Know About HTTP Cookies](https://dev.to/swiftproxy_residential/what-you-need-to-know-about-http-cookies-4jce)
+- [Supervised Learning for Image Recognition: How It Works](https://dev.to/aditya_tripathi_17ffee7f5/supervised-learning-for-image-recognition-how-it-works-5h33)
+- [Custom User AUTH/Z for Strimzi Kafka: Integrating Your Corporate CERTIFICATE AUTHORITY Certs with Strimzi KAFKA](https://dev.to/sreejesh/custom-user-authz-for-strimzi-kafka-integrating-your-corporate-certificate-authority-certs-with-1amk)
+- [How to Use Proxies in Process Mining](https://dev.to/swiftproxy_residential/how-to-use-proxies-in-process-mining-437h)
 <!-- BLOG-POST-LIST:END -->
 
 
