@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Flutter Apps: Seamlessly Integrate C++ with Dart using DLLs](https://dev.to/ayon_ssp/supercharge-your-flutter-apps-seamlessly-integrate-c-with-dart-using-dlls-2nc2)
-- [AugMix in PyTorch &lpar;2&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-2-14o5)
-- [Exploring Rust on Rails: The Future of Web Development for Solo Developers](https://dev.to/jetthoughts/exploring-rust-on-rails-the-future-of-web-development-for-solo-developers-1318)
-- [Applicant Registration Form](https://dev.to/daudmabena/applicant-registration-form-4d1g)
+- [My Favorite MCP Directories](https://dev.to/techgirl1908/my-favorite-mcp-directories-573n)
+- [7.6 Liste apenas os pontos de todos os usuários com o map](https://dev.to/fundamentosjava/76-liste-apenas-os-pontos-de-todos-os-usuarios-com-o-map-3hf5)
+- [Vibe Coding a Web Pong Game with poorcoder and Grok](https://dev.to/vgrichina/vibe-coding-a-web-pong-game-with-poorcoder-and-grok-o17)
+- [鸿蒙开发：了解分割线](https://dev.to/abnerming888/hong-meng-kai-fa-liao-jie-fen-ge-xian-5h08)
 <!-- BLOG-POST-LIST:END -->
 
 
