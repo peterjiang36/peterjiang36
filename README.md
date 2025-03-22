@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Queen Bee Syndrome &amp; Me: Navigating internalised misogyny](https://dev.to/sophiekaelin/what-is-queen-bee-syndrome-14gh)
-- [A Hidden Character Mystery](https://dev.to/abbazs/a-hidden-character-mystery-43d9)
-- [Monolithic vs Microservices Architecture: Which One Should You Choose?](https://dev.to/tejmul_movin_707c8bc5690a/monolithic-vs-microservices-architecture-which-one-should-you-choose-11je)
-- [How to Reduce Friction in Learning New Technologies as a Software Engineer](https://dev.to/jps27cse/how-to-reduce-friction-in-learning-new-technologies-as-a-software-engineer-2ph3)
+- [yaps[dot]chat is better than telegram, whatsapp, messengers. &quot;just refresh to delete&quot;.](https://dev.to/abdibrokhim/yapsdotchat-is-better-than-telegram-whatsapp-messengers-just-refresh-to-delete-1l4o)
+- [DevOps Made Simple: A Beginner’s Guide to DevSecOps in Action - Securing Your CI/CD Pipeline](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-devsecops-in-action-securing-your-cicd-pipeline-39i1)
+- [115 Awesome MCP Servers You Cannot Miss Out in 2025](https://dev.to/lynn_mikami_e94e5b9ad7daf/115-awesome-mcp-servers-you-cannot-miss-out-in-2025-5m3)
+- [🤖 Automating .NET Development: AI-Generated Projects Inside Visual Studio](https://dev.to/anup_kumar_51d4c4360384d4/automating-net-development-ai-generated-projects-inside-visual-studio-48j3)
 <!-- BLOG-POST-LIST:END -->
 
 
