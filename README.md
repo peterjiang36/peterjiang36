@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forums-X: Building an Inclusive Community Platform for WeCoded 2025](https://dev.to/jacksonkasi/forums-x-building-an-inclusive-community-platform-for-wecoded-2025-54k0)
-- [Why I Haven’t Blogged in Years &lpar;and How I’m Overcoming the Fear&rpar;](https://dev.to/lewiskori/why-i-havent-blogged-in-years-and-how-im-overcoming-the-fear-31fa)
-- [Boomi Launches AI Studio to Orchestrate the Future of Enterprise AI Agents](https://dev.to/kakacomputer-media/boomi-launches-ai-studio-to-orchestrate-the-future-of-enterprise-ai-agents-29ne)
-- [鸿蒙NEXT开发教程：浅谈@ComponentV2装饰器](https://dev.to/youlanjihua/hong-meng-nextkai-fa-jiao-cheng-qian-tan-componentv2zhuang-shi-qi-489e)
+- [HarmonyOS NEXT开发实战教程：聊天交友App](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-liao-tian-jiao-you-app-1362)
+- [鸿蒙Next开发实战教程--银行App](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-jiao-cheng-yin-xing-app-c0e)
+- [DIY — Building a Cost-Effective Questionnaire Automation with Bedrock](https://dev.to/aws-builders/diy-building-a-cost-effective-questionnaire-automation-with-bedrock-2fb9)
+- [Making an Effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-outcomes-3gfi)
 <!-- BLOG-POST-LIST:END -->
 
 
