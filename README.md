@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT开发实战教程：聊天交友App](https://dev.to/youlanjihua/harmonyos-nextkai-fa-shi-zhan-jiao-cheng-liao-tian-jiao-you-app-1362)
-- [鸿蒙Next开发实战教程--银行App](https://dev.to/youlanjihua/hong-meng-nextkai-fa-shi-zhan-jiao-cheng-yin-xing-app-c0e)
-- [DIY — Building a Cost-Effective Questionnaire Automation with Bedrock](https://dev.to/aws-builders/diy-building-a-cost-effective-questionnaire-automation-with-bedrock-2fb9)
-- [Making an Effective Application Security Program: Strategies, methods and tools to maximize outcomes](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-outcomes-3gfi)
+- [KendoReact Form Builder – Build Smarter Forms](https://dev.to/anandu_dev_a75fe0162e268f/kendoreact-form-builder-build-smarter-forms-4klc)
+- [The art of creating an effective application security program: Strategies, Tips and the right tools to achieve optimal results](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-tips-and-the-right-tools-51km)
+- [Building a Stunning Portfolio Using KendoReact: Developer&#39;s Journey](https://dev.to/chintanonweb/building-a-stunning-portfolio-using-kendoreact-developers-journey-2f7c)
+- [⚡ Boost Your HTML Game With These 2 Beginner Tricks! 🚀](https://dev.to/learncodewithalex/boost-your-html-game-with-these-2-beginner-tricks-50ob)
 <!-- BLOG-POST-LIST:END -->
 
 
