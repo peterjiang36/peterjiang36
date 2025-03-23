@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The MCP Trap: Is the &quot;Open Source&quot; MCP Exploiting AI Developers?](https://dev.to/internationale/the-mcp-trap-is-the-open-source-mcp-exploiting-ai-developers-53bn)
-- [Standard ML idiosyncrasies](https://dev.to/bitmaybewise/standard-ml-idiosyncrasies-5ehj)
-- [Fun with Words: How an Incorrect Quotes Generator Can Boost Your Creativity](https://dev.to/codifyformatter/fun-with-words-how-an-incorrect-quotes-generator-can-boost-your-creativity-4j7i)
-- [Just Made a Tic-Tac-Toe Game in Python &lpar;How You Can Too&rpar;](https://dev.to/stuxint/just-made-a-tic-tac-toe-game-in-python-how-you-can-too-1nkj)
+- [Forums-X: Building an Inclusive Community Platform for WeCoded 2025](https://dev.to/jacksonkasi/forums-x-building-an-inclusive-community-platform-for-wecoded-2025-54k0)
+- [Why I Haven’t Blogged in Years &lpar;and How I’m Overcoming the Fear&rpar;](https://dev.to/lewiskori/why-i-havent-blogged-in-years-and-how-im-overcoming-the-fear-31fa)
+- [Boomi Launches AI Studio to Orchestrate the Future of Enterprise AI Agents](https://dev.to/kakacomputer-media/boomi-launches-ai-studio-to-orchestrate-the-future-of-enterprise-ai-agents-29ne)
+- [鸿蒙NEXT开发教程：浅谈@ComponentV2装饰器](https://dev.to/youlanjihua/hong-meng-nextkai-fa-jiao-cheng-qian-tan-componentv2zhuang-shi-qi-489e)
 <!-- BLOG-POST-LIST:END -->
 
 
