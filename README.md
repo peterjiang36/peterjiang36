@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Laying the Foundation for My DSA Visualizer](https://dev.to/shravan250/day-1-laying-the-foundation-for-my-dsa-visualizer-1en7)
-- [Why kubectl run command is often misunderstood?](https://dev.to/naveens16/why-kubectl-run-command-is-often-misunderstood-45h)
-- [The browser feature that 95% of developers are completely overlooking 👨‍💻](https://dev.to/vinnie/the-browser-feature-that-95-of-developers-are-completely-overlooking-4c49)
-- [Enhancing Cognitive Performance Through Strategic Auditory Stimulation](https://dev.to/marcosfromrio/enhancing-cognitive-performance-through-strategic-auditory-stimulation-3o8i)
+- [🐍 I Love Python, But It’s a Pain at Scale](https://dev.to/criscmd/i-love-python-but-its-a-pain-at-scale-1ng7)
+- [How Symfony Flex Works](https://dev.to/andrew_markhai_27ffd3a6b8/how-symfony-flex-works-4d62)
+- [How to Create a Multilingual Website Using Automad 2](https://dev.to/marcantondahmen/how-to-create-a-multilingual-website-using-automad-2-hhl)
+- [Comunicaciones seguras](https://dev.to/elferrer/comunicaciones-seguras-1g1m)
 <!-- BLOG-POST-LIST:END -->
 
 
