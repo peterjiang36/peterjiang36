@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 I Love Python, But It’s a Pain at Scale](https://dev.to/criscmd/i-love-python-but-its-a-pain-at-scale-1ng7)
-- [How Symfony Flex Works](https://dev.to/andrew_markhai_27ffd3a6b8/how-symfony-flex-works-4d62)
-- [How to Create a Multilingual Website Using Automad 2](https://dev.to/marcantondahmen/how-to-create-a-multilingual-website-using-automad-2-hhl)
-- [Comunicaciones seguras](https://dev.to/elferrer/comunicaciones-seguras-1g1m)
+- [What is HarmonyOS NEXT - Page Router?](https://dev.to/victordeng/what-is-harmonyos-next-page-router-40io)
+- [What are MCP Servers](https://dev.to/krish_desai_117/what-are-mcp-servers-4m4a)
+- [🚀 Master Flutter DevTools Like a Pro &amp; Make Your App Fly!](https://dev.to/pranta/master-flutter-devtools-like-a-pro-make-your-app-fly-1e6g)
+- [Semaphores in Crystal](https://dev.to/mamantoha/semaphores-in-crystal-5eha)
 <!-- BLOG-POST-LIST:END -->
 
 
