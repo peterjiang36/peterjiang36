@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meteor.js is great and easy to use web apps bundler, builder, and developer-environment. Whatever your front-end library of choice — it integrates seamlessly with live-data, exact-code-splitting, and web-sockets](https://dev.to/smart_egg/meteorjs-is-great-and-easy-to-use-web-apps-bundler-builder-and-developer-environment-whatever-3ja5)
-- [Optimizing Bandwidth and Code for a Chat-app Backend: Best Practices](https://dev.to/keshav___dev/optimizing-bandwidth-and-code-for-a-chat-app-backend-best-practices-2hah)
-- [Resolving Docker Socket and Daemon Conflicts: Unifying CLI and Docker Desktop on kali Linux](https://dev.to/sivolko/resolving-docker-socket-and-daemon-conflicts-unifying-cli-and-docker-desktop-on-kali-linux-5bol)
-- [Nvidia GTC 2025 Updates, Ernie 4.5: 100x cheaper than GPT 4.5, Google AI meets robots, and more](https://dev.to/thisweekinaiengineering/nvidia-gtc-2025-updates-ernie-45-100x-cheaper-than-gpt-45-google-ai-meets-robots-and-more-5gno)
+- [Stop Copy-Pasting Your Code to LLMs — I Built a Tool That Does It Automatically](https://dev.to/sikamikanikobg/stop-copy-pasting-your-code-to-llms-i-built-a-tool-that-does-it-automatically-383c)
+- [Tech Heroes #9: Terry Davis - A Tortured Genius](https://dev.to/tkouleris/tech-heroes-9-terry-davis-a-tortured-genius-4p82)
+- [🌟 Free Habit &amp; Mood Tracker — Track your 2025 like a pro with Google Sheets](https://dev.to/aleksei_aleinikov/free-habit-mood-tracker-track-your-2025-like-a-pro-with-google-sheets-1ij6)
+- [🚀 LaunchLoop – A Minimalist App &amp; Folder Launcher for Windows](https://dev.to/wenzdev339/launchloop-a-minimalist-app-folder-launcher-for-windows-154d)
 <!-- BLOG-POST-LIST:END -->
 
 
