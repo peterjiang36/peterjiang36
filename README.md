@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting Your Code to LLMs — I Built a Tool That Does It Automatically](https://dev.to/sikamikanikobg/stop-copy-pasting-your-code-to-llms-i-built-a-tool-that-does-it-automatically-383c)
-- [Tech Heroes #9: Terry Davis - A Tortured Genius](https://dev.to/tkouleris/tech-heroes-9-terry-davis-a-tortured-genius-4p82)
-- [🌟 Free Habit &amp; Mood Tracker — Track your 2025 like a pro with Google Sheets](https://dev.to/aleksei_aleinikov/free-habit-mood-tracker-track-your-2025-like-a-pro-with-google-sheets-1ij6)
-- [🚀 LaunchLoop – A Minimalist App &amp; Folder Launcher for Windows](https://dev.to/wenzdev339/launchloop-a-minimalist-app-folder-launcher-for-windows-154d)
+- [Solve problem for dynamic Elixir cluster - ClusterHelper](https://dev.to/manhvanvu/solve-problem-for-dynamic-elixir-cluster-clusterhelper-5dh4)
+- [JavaScript Module Systems Explained](https://dev.to/omriluz1/javascript-module-systems-explained-2ihm)
+- [Learn by Code 1.1 Temp_Converter](https://dev.to/selfish_dev/learn-by-code-11-tempconverter-fc1)
+- [Leetcode 1976 : Number of Ways to Arrive at Destination](https://dev.to/rohithv07/number-of-ways-to-arrive-at-destination-52im)
 <!-- BLOG-POST-LIST:END -->
 
 
