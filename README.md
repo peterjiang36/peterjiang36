@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Heroku to Kubernetes Lessons Learned in Our Migration Journey](https://dev.to/programmerraja/from-heroku-to-kubernetes-lessons-learned-in-our-migration-journey-1b8j)
-- [Does Ollama Need a GPU?](https://dev.to/ajeetraina/does-ollama-need-a-gpu-f31)
-- [Introducing lazypkg – A Cross-Package Manager Tool for Effortless Updates](https://dev.to/ymtdzzz/introducing-lazypkg-a-cross-package-manager-tool-for-effortless-updates-38b2)
-- [Whatever you do, do it well.](https://dev.to/rejeer/whatever-you-do-do-it-well-21p)
+- [Build UChart with KendoReact](https://dev.to/tangweikun/build-uchart-with-kendoreact-4ldd)
+- [AugMix in PyTorch &lpar;7&rpar;](https://dev.to/hyperkai/augmix-in-pytorch-7-52i4)
+- [Column Level Audit in Oracle 23ai](https://dev.to/vahidusefzadeh/column-level-audit-in-oracle-23ai-2kge)
+- [How Do You Play Around with Terraform CLI Versions?](https://dev.to/aws-builders/how-do-you-play-around-with-terraform-cli-versions-2ab9)
 <!-- BLOG-POST-LIST:END -->
 
 
