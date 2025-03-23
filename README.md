@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vite এবং React অ্যাপ প্রোডাকশনে ডিপ্লয় করা](https://dev.to/programmerhasan/vite-ebn-react-ayaap-proddaakshne-ddiply-kraa-1ao6)
-- [Day 1: Getting Started with PSQL: The Powerful SQL DataBase.](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-getting-started-with-psql-the-powerful-sql-database-m0l)
-- [Personal Portfolio Builder: A Developer’s Dream Tool Powered by Kendo-React](https://dev.to/shivam_soni_244deacdd4b3e/personal-portfolio-builder-a-developers-dream-tool-powered-by-kendo-react-40mh)
-- [HealthAI-Assistant](https://dev.to/sumitraikwar/healthai-assistant-4ake)
+- [How docs AI search works: Mintlify-Style with OpenAI Agents SDK](https://dev.to/siddhantkcode/how-docs-ai-search-works-mintlify-style-with-openai-agents-sdk-121j)
+- [Allergy Identifier - Kendo React GenAI Challange](https://dev.to/dinesh_somaraju/allergy-identifier-kendo-react-genai-challange-4e99)
+- [161/365 | ¥10M Job Challenge - Freedom of time](https://dev.to/kameken100/161365-y10m-job-challenge-freedom-of-time-4dn)
+- [🔒 Secure Your Sign-Ups: Email Validation in Node.js with Fastify, Prisma, and Nodemailer 📧](https://dev.to/micaelmi/secure-your-sign-ups-email-validation-in-nodejs-with-fastify-prisma-and-nodemailer-39pn)
 <!-- BLOG-POST-LIST:END -->
 
 
