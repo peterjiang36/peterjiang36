@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solve problem for dynamic Elixir cluster - ClusterHelper](https://dev.to/manhvanvu/solve-problem-for-dynamic-elixir-cluster-clusterhelper-5dh4)
-- [JavaScript Module Systems Explained](https://dev.to/omriluz1/javascript-module-systems-explained-2ihm)
-- [Learn by Code 1.1 Temp_Converter](https://dev.to/selfish_dev/learn-by-code-11-tempconverter-fc1)
-- [Leetcode 1976 : Number of Ways to Arrive at Destination](https://dev.to/rohithv07/number-of-ways-to-arrive-at-destination-52im)
+- [YOU DON&#39;T KNOW GIT](https://dev.to/mirajhad/you-dont-know-git-1b6m)
+- [&quot;Choosing the Right .NET Desktop Application: WinForms vs. WPF vs. Console&quot;](https://dev.to/sapanapal6/choosing-the-right-net-desktop-application-winforms-vs-wpf-vs-console-13i7)
+- [Smart and IoT Devices Powered By TikTik](https://dev.to/tiktik_global_2af50512887/smart-and-iot-devices-powered-by-tiktik-o73)
+- [Deep Dive into NestJS Decorators: Internals, Usage, and Custom Implementations 🛠️](https://dev.to/tejastn10/deep-dive-into-nestjs-decorators-internals-usage-and-custom-implementations-4eha)
 <!-- BLOG-POST-LIST:END -->
 
 
