@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nike Airforce](https://dev.to/abdullah_ba6ed63b8aa61d6e/nike-airforce-7oa)
-- [Notes from course: Generative AI with Large Language Models - Week 3](https://dev.to/valyouw/notes-from-course-generative-ai-with-large-language-models-week-3-4ao)
-- [How to Deploy ASP.NET Applications on IIS: Complete Guide](https://dev.to/samirabawad/how-to-deploy-aspnet-applications-on-iis-complete-guide-502h)
-- [Notes from course: Generative AI with Large Language Models - Week 2](https://dev.to/valyouw/notes-from-course-generative-ai-with-large-language-models-week-2-1om3)
+- [Beyond Autocomplete: How Cursor AI is Helping Standardize and Write Ruby on Rails Code](https://dev.to/cirdes/beyond-autocomplete-how-cursor-ai-is-helping-standardize-and-write-ruby-on-rails-code-1ie6)
+- [Além do autocomplete: como o Cursor AI está ajudando na padronização e escrita do código Ruby on Rails](https://dev.to/cirdes/alem-do-autocomplete-como-o-cursor-ai-esta-ajudando-na-padronizacao-e-escrita-do-codigo-ruby-on-52e0)
+- [Cómo comunicarte mejor con tu IA de cabecera](https://dev.to/chema/como-comunicarte-mejor-con-tu-ia-de-cabecera-1n8j)
+- [Practice working with Clojure vectors](https://dev.to/ivangavlik/practice-working-with-clojure-vectors-29d2)
 <!-- BLOG-POST-LIST:END -->
 
 
