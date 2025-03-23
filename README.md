@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI and the Need for SVG to PNG Conversion](https://dev.to/cz_f0e935d1943be/the-rise-of-ai-and-the-need-for-svg-to-png-conversion-mli)
-- [Opensource Pose Detection Demo](https://dev.to/cz_f0e935d1943be/opensource-pose-detection-demo-3od2)
-- [Layer by Layer: The OSI Model: Layer 3](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-2-hf0)
-- [Mind Tracker: Your Personal Mental Health Journal](https://dev.to/aniruddhaadak/mind-tracker-your-personal-mental-health-journal-22go)
+- [From Heroku to Kubernetes Lessons Learned in Our Migration Journey](https://dev.to/programmerraja/from-heroku-to-kubernetes-lessons-learned-in-our-migration-journey-1b8j)
+- [Does Ollama Need a GPU?](https://dev.to/ajeetraina/does-ollama-need-a-gpu-f31)
+- [Introducing lazypkg – A Cross-Package Manager Tool for Effortless Updates](https://dev.to/ymtdzzz/introducing-lazypkg-a-cross-package-manager-tool-for-effortless-updates-38b2)
+- [Whatever you do, do it well.](https://dev.to/rejeer/whatever-you-do-do-it-well-21p)
 <!-- BLOG-POST-LIST:END -->
 
 
