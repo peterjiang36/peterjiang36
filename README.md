@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn NEOVIM into an IDE-like code editor in NIXOS?](https://dev.to/mirrr/how-to-turn-neovim-into-an-ide-like-code-editor-in-nixos-4npb)
-- [What are HarmonyOS NEXT - General Properties?](https://dev.to/victordeng/what-are-harmonyos-next-general-properties-58lo)
-- [Updating some metadata and found this post - still relevant! 🏆](https://dev.to/terabytetiger/updating-some-metadata-and-found-this-post-still-relevant-18bm)
-- [MongoDB TTL and Disk Storage](https://dev.to/franckpachot/mongodb-ttl-and-disk-storage-2d35)
+- [Building a JS pytorch clone: Performance investigation](https://dev.to/ndesmic/building-a-js-pytorch-clone-performance-investigation-3cjf)
+- [Advanced Recursion Problems with Function Calls Inside a Loop &lpar;Part 2&rpar;](https://dev.to/devcorner/advanced-recursion-problems-with-function-calls-inside-a-loop-part-2-201h)
+- [test2](https://dev.to/dnyaneshwarshekade/test2-1j07)
+- [[Boost]](https://dev.to/foxinfotech/-4mgj)
 <!-- BLOG-POST-LIST:END -->
 
 
