@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Just use AI&quot;](https://dev.to/amjadmh73/just-use-ai-57m0)
-- [Double Your Output - The Secrets of Action Stacking](https://dev.to/wraith/double-your-output-the-secrets-of-action-stacking-12p3)
-- [Composant Switch avec RiotJS](https://dev.to/steeve/composant-switch-avec-riotjs-3102)
-- [The perfect Git strategy for continuous improvement / deployment](https://dev.to/onticdani/the-perfect-git-strategy-for-continuous-improvement-deployment-2cf6)
+- [# Building Scalable ML Architectures with Java: Beyond the Basics#](https://dev.to/engnelson/-building-scalable-ml-architectures-with-java-beyond-the-basics-23al)
+- [Amazon Bedrock: A Practical Guide for Developers and DevOps Engineers](https://dev.to/microtica/amazon-bedrock-a-practical-guide-for-developers-and-devops-engineers-kag)
+- [The Developer Guide to Working in the Netherlands](https://dev.to/stetsenko_me/the-developer-guide-to-working-in-the-netherlands-9ne)
+- [Mix: A Beginner’s Guide to Elixir’s Build Tool and Dependency Manage](https://dev.to/actor-dev/mix-101-a-beginners-guide-to-elixirs-build-tool-and-dependency-manage-1b2m)
 <!-- BLOG-POST-LIST:END -->
 
 
