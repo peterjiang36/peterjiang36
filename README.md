@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure CI/CD for your Node.js application](https://dev.to/olalekan_oladiran_d74b7a6/how-to-configure-cicd-for-your-nodejs-application-1fhg)
-- [AI Agents in PHP with MCP &lpar;Model Context Protocol&rpar;](https://dev.to/inspector/ai-agents-in-php-with-mcp-model-context-protocol-55)
-- [Day-04: Java Work Flow](https://dev.to/e00049/day-04-java-work-flow-38h7)
-- [All Data and AI Weekly #182 - 24-March-2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-182-24-march-2025-hgj)
+- [How to turn NEOVIM into an IDE-like code editor in NIXOS?](https://dev.to/mirrr/how-to-turn-neovim-into-an-ide-like-code-editor-in-nixos-4npb)
+- [What are HarmonyOS NEXT - General Properties?](https://dev.to/victordeng/what-are-harmonyos-next-general-properties-58lo)
+- [Updating some metadata and found this post - still relevant! 🏆](https://dev.to/terabytetiger/updating-some-metadata-and-found-this-post-still-relevant-18bm)
+- [MongoDB TTL and Disk Storage](https://dev.to/franckpachot/mongodb-ttl-and-disk-storage-2d35)
 <!-- BLOG-POST-LIST:END -->
 
 
