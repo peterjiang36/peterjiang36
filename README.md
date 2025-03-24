@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
-- [s](https://dev.to/abdulazizkxon/s-74h)
-- [sa](https://dev.to/abdulazizkxon/sa-l4o)
-- [The Rise of AI: Transforming the World as We Know It](https://dev.to/syed_mudasseranayat_e251/the-rise-of-ai-transforming-the-world-as-we-know-it-14f7)
+- [&quot;Just use AI&quot;](https://dev.to/amjadmh73/just-use-ai-57m0)
+- [Double Your Output - The Secrets of Action Stacking](https://dev.to/wraith/double-your-output-the-secrets-of-action-stacking-12p3)
+- [Composant Switch avec RiotJS](https://dev.to/steeve/composant-switch-avec-riotjs-3102)
+- [The perfect Git strategy for continuous improvement / deployment](https://dev.to/onticdani/the-perfect-git-strategy-for-continuous-improvement-deployment-2cf6)
 <!-- BLOG-POST-LIST:END -->
 
 
