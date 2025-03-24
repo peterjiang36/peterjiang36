@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo instalar Haskell?](https://dev.to/bcardiff/como-instalar-haskell-40ml)
-- [Introduction to Data Structures](https://dev.to/coder_studios/introduction-to-data-structures-54e8)
-- [Dolt as a backing database for blockchains](https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4)
-- [Create your own MCP Server](https://dev.to/kiu/create-your-own-mcp-server-4a85)
+- [Concurrency gotchas in go](https://dev.to/l_walid/concurrency-gotchas-in-go-25lc)
+- [🔐 Login Seguro com Robot Framework: Protegendo Credenciais e Reutilizando Código](https://dev.to/anacvera/login-seguro-com-robot-framework-protegendo-credenciais-e-reutilizando-codigo-2d6i)
+- [An overview of rules based ingestion in DataBridge](https://dev.to/adityav369/an-overview-of-rules-based-ingestion-in-databridge-nm6)
+- [Movie Recommendation in Terminal &lpar;With Python&rpar;](https://dev.to/dgilson74/movie-recommendation-in-terminal-with-python-28fp)
 <!-- BLOG-POST-LIST:END -->
 
 
