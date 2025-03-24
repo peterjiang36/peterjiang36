@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [UNIX - Files and directory - 1](https://dev.to/_a_m_a_n_pandey/unix-files-and-directory-1-2j0c)
-- [3169. Count Days Without Meetings](https://dev.to/mdarifulhaque/3169-count-days-without-meetings-5ej0)
-- [Apps Script vs. HTTP endpoints: Which should you choose? 🤔](https://dev.to/googleworkspace/apps-script-vs-http-endpoints-which-should-you-choose-2m7b)
-- [How to Install Twig in Php in 2025?](https://dev.to/anna_golubkova/how-to-install-twig-in-php-in-2025-3n0l)
+- [A Socio-Technical Maturity Model for Large-Scale Event-Driven Architectural Systems](https://dev.to/lalitkale/a-socio-technical-maturity-model-for-large-scale-event-driven-architectural-systems-4gg8)
+- [💥 DaggerX V2 is Here — Ultra-Secure Hashing &amp; Encryption PHP Library](https://dev.to/dagger_x_2752263ef90f5488/daggerx-v2-is-here-ultra-secure-hashing-encryption-php-library-18j4)
+- [Linux Support Manager Project](https://dev.to/dnyaneshwarshekade/linux-support-manager-project-1fa)
+- [How to Offer Advanced Discounts in Shopify Without Losing Profits &lpar;Proven Strategies&rpar;](https://dev.to/jameskujawa/how-to-offer-advanced-discounts-in-shopify-without-losing-profits-proven-strategies-20pp)
 <!-- BLOG-POST-LIST:END -->
 
 
