@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why not strings in C](https://dev.to/selfish_dev/why-not-strings-in-c-4m3n)
-- [🌿 Cartoon Characters &amp; Mental Health 🧸](https://dev.to/madhurima_rawat/cartoon-characters-mental-health-3pa4)
-- [Thinking about my future career](https://dev.to/didy-kpn/thinking-about-my-future-career-2g3f)
-- [Dispatching jobs via commands in Laravel](https://dev.to/ankitvermaonline/dispatching-jobs-via-commands-in-laravel-il3)
+- [CodingCam](https://dev.to/haseebarshad/codingcam-33k7)
+- [From Idea to MVP: Building a Shot Tracker with KendoReact](https://dev.to/theslladev/from-idea-to-mvp-building-a-shot-tracker-with-kendoreact-2k31)
+- [Dynamic Healthcare AI chat widget&#39;s with Kendo React Components](https://dev.to/shaikmohdhuzaifa/dynamic-healthcare-ai-chat-widgets-with-kendo-react-components-3hda)
+- [✨ Mindful Metrics: Unleashing Habit Mastery with KendoReact Magic 🚀](https://dev.to/divya4879/mindful-metrics-unleashing-habit-mastery-with-kendoreact-magic-nk7)
 <!-- BLOG-POST-LIST:END -->
 
 
