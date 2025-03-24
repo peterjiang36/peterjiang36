@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Socio-Technical Maturity Model for Large-Scale Event-Driven Architectural Systems](https://dev.to/lalitkale/a-socio-technical-maturity-model-for-large-scale-event-driven-architectural-systems-4gg8)
-- [💥 DaggerX V2 is Here — Ultra-Secure Hashing &amp; Encryption PHP Library](https://dev.to/dagger_x_2752263ef90f5488/daggerx-v2-is-here-ultra-secure-hashing-encryption-php-library-18j4)
-- [Linux Support Manager Project](https://dev.to/dnyaneshwarshekade/linux-support-manager-project-1fa)
-- [How to Offer Advanced Discounts in Shopify Without Losing Profits &lpar;Proven Strategies&rpar;](https://dev.to/jameskujawa/how-to-offer-advanced-discounts-in-shopify-without-losing-profits-proven-strategies-20pp)
+- [¿Cómo instalar Haskell?](https://dev.to/bcardiff/como-instalar-haskell-40ml)
+- [Introduction to Data Structures](https://dev.to/coder_studios/introduction-to-data-structures-54e8)
+- [Dolt as a backing database for blockchains](https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4)
+- [Create your own MCP Server](https://dev.to/kiu/create-your-own-mcp-server-4a85)
 <!-- BLOG-POST-LIST:END -->
 
 
