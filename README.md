@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Biomechanics of pitching &lpar;1&rpar;: an overview of ball dynamics during throwing](https://dev.to/ken_ohta_8690712348aeef88/biomechanics-of-pitching-1-an-overview-of-ball-dynamics-during-throwing-4n96)
-- [Como Aplicar o Princípio da Responsabilidade Única com Mais Precisão](https://dev.to/asouza/como-aplicar-o-principio-da-responsabilidade-unica-com-mais-precisao-pbi)
-- [Halfway Reflection](https://dev.to/timothy_97/halfway-reflection-3ij6)
-- [Kendo React Component Playground: A simple app to test React Components, including Kendo Components](https://dev.to/websilvercraft/kendo-react-component-playground-a-simple-app-to-test-react-components-including-kendo-components-3ppk)
+- [Calculate a Pair of Minimum Values that Meet the Criteria within the Group — From SQL to SPL #12](https://dev.to/judith677/calculate-a-pair-of-minimum-values-that-meet-the-criteria-within-the-group-from-sql-to-spl-12-309m)
+- [Biometric Solutions for Fintech – 8 Reasons to Implement Them Today](https://dev.to/faceplugin/biometric-solutions-for-fintech-8-reasons-to-implement-them-today-4no4)
+- [The Future of Tech: Where Cloud Native Meets Artificial Intelligence](https://dev.to/wycliffealphus/the-future-of-tech-where-cloud-native-meets-artificial-intelligence-17jd)
+- [Mastering JavaScript Functions: Declarations, Expressions, and Arrow Functions](https://dev.to/pavanvarma/mastering-javascript-functions-declarations-expressions-and-arrow-functions-4h4i)
 <!-- BLOG-POST-LIST:END -->
 
 
