@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [how actually react works behind the scenes](https://dev.to/3o2kmpcodes/how-actually-react-works-behind-the-scenes-50hj)
-- [Tired of losing your cursor when switching tabs in VSCode? Meet Cursorghost 👻](https://dev.to/kupumaru21/tired-of-losing-your-cursor-when-switching-tabs-in-vscode-meet-cursorghost-23ni)
-- [Flash Learning- a platform for users learn and thereafter take a Quiz](https://dev.to/aliyualbako/flash-learning-a-platform-for-users-learn-and-thereafter-take-a-quiz-1f1j)
-- [Building Robust React Apps with Zustand and Immer](https://dev.to/gicrisf/building-robust-react-apps-with-zustand-and-immer-482m)
+- [&quot;Revolutionizing Quantum SVM: A Probabilistic Approach for Enhanced Accuracy&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-svm-a-probabilistic-approach-for-enhanced-accuracy-1f2)
+- [KendoReact Challenge: Bark Board](https://dev.to/its_tudes/kendoreact-challenge-bark-board-2i67)
+- [Comparing LEGO SPIKE Prime Programming: Which Is Best for Robotics Competitions? - 3](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-3-20h1)
+- [How to Edit the Sudoers File in NixOS - with Examples](https://dev.to/patimapoochai/how-to-edit-the-sudoers-file-in-nixos-with-examples-4k34)
 <!-- BLOG-POST-LIST:END -->
 
 
