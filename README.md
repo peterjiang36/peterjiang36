@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Locking Down Your Servers: A Developer&#39;s Guide to Server Security &amp; Hardening](https://dev.to/lovestaco/locking-down-your-servers-a-developers-guide-to-server-security-hardening-5hd1)
-- [What is Backend? How to Learn It](https://dev.to/royadma/what-is-backend-how-to-learn-it-3a18)
-- [What is Cloud Cost Optimization? Tools, Strategies, Best Practices](https://dev.to/stackgenie/what-is-cloud-cost-optimization-tools-strategies-best-practices-eg5)
-- [Obsidian can&#39;t view pdf](https://dev.to/nullity/obsidian-cant-view-pdf-2l83)
+- [Why not strings in C](https://dev.to/selfish_dev/why-not-strings-in-c-4m3n)
+- [🌿 Cartoon Characters &amp; Mental Health 🧸](https://dev.to/madhurima_rawat/cartoon-characters-mental-health-3pa4)
+- [Thinking about my future career](https://dev.to/didy-kpn/thinking-about-my-future-career-2g3f)
+- [Dispatching jobs via commands in Laravel](https://dev.to/ankitvermaonline/dispatching-jobs-via-commands-in-laravel-il3)
 <!-- BLOG-POST-LIST:END -->
 
 
