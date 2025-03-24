@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CodingCam](https://dev.to/haseebarshad/codingcam-33k7)
-- [From Idea to MVP: Building a Shot Tracker with KendoReact](https://dev.to/theslladev/from-idea-to-mvp-building-a-shot-tracker-with-kendoreact-2k31)
-- [Dynamic Healthcare AI chat widget&#39;s with Kendo React Components](https://dev.to/shaikmohdhuzaifa/dynamic-healthcare-ai-chat-widgets-with-kendo-react-components-3hda)
-- [✨ Mindful Metrics: Unleashing Habit Mastery with KendoReact Magic 🚀](https://dev.to/divya4879/mindful-metrics-unleashing-habit-mastery-with-kendoreact-magic-nk7)
+- [How to Build a Successful DApp: Step-by-Step Guide and Best Practices](https://dev.to/luxenlabs/how-to-build-a-successful-dapp-step-by-step-guide-and-best-practices-4a0)
+- [What is Decision Table Testing? A Beginner’s Guide](https://dev.to/ronika_kashyap/what-is-decision-table-testing-a-beginners-guide-4mme)
+- [10 Signs Your Business Needs an ERP System Today](https://dev.to/bhavesh_gangani_/10-signs-your-business-needs-an-erp-system-today-5eo6)
+- [Supercharge Your Coding Mojo: Connecting This FREE MCP Server to Cursor](https://dev.to/apilover/supercharge-your-coding-mojo-connecting-this-free-mcp-server-to-cursor-1noo)
 <!-- BLOG-POST-LIST:END -->
 
 
