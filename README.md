@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My App is Live Now!!!](https://dev.to/shaikhkamran/my-app-is-live-now-1alg)
-- [To `Gather` or not to `Gather`? That is the question.](https://dev.to/onepoint/to-gather-or-not-to-gather-that-is-the-question-36oo)
-- [Bubble Sort Got Bible](https://dev.to/hashiramasenjuhari/bubble-sort-got-bible-5fjb)
-- [Black Box Testing: A Developer-Friendly Guide to Methods, Types, and Best Practices](https://dev.to/testscenario/black-box-testing-a-developer-friendly-guide-to-methods-types-and-best-practices-25bm)
+- [Best DevSecOps Automation Tools in 2025](https://dev.to/camillejo/best-devsecops-automation-tools-in-2025-186d)
+- [Implementing Push Notifications in Flutter with Firebase](https://dev.to/sylvaintaio/implementing-push-notifications-in-flutter-with-firebase-66o)
+- [8 Common Hiring Mistakes to Avoid When Searching for an AI Agent Developer](https://dev.to/anand_subramanian/8-common-hiring-mistakes-to-avoid-when-searching-for-an-ai-agent-developer-3l4a)
+- [What is Node.js and npm? A Beginner’s Guide](https://dev.to/asirsamr/what-is-nodejs-and-npm-a-beginners-guide-cl5)
 <!-- BLOG-POST-LIST:END -->
 
 
