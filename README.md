@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best DevSecOps Automation Tools in 2025](https://dev.to/camillejo/best-devsecops-automation-tools-in-2025-186d)
-- [Implementing Push Notifications in Flutter with Firebase](https://dev.to/sylvaintaio/implementing-push-notifications-in-flutter-with-firebase-66o)
-- [8 Common Hiring Mistakes to Avoid When Searching for an AI Agent Developer](https://dev.to/anand_subramanian/8-common-hiring-mistakes-to-avoid-when-searching-for-an-ai-agent-developer-3l4a)
-- [What is Node.js and npm? A Beginner’s Guide](https://dev.to/asirsamr/what-is-nodejs-and-npm-a-beginners-guide-cl5)
+- [10 common backend tasks and how to automate them](https://dev.to/anmolbaranwal/10-common-backend-tasks-and-how-to-automate-them-4c79)
+- [s](https://dev.to/abdulazizkxon/s-74h)
+- [sa](https://dev.to/abdulazizkxon/sa-l4o)
+- [The Rise of AI: Transforming the World as We Know It](https://dev.to/syed_mudasseranayat_e251/the-rise-of-ai-transforming-the-world-as-we-know-it-14f7)
 <!-- BLOG-POST-LIST:END -->
 
 
