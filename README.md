@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks!](https://dev.to/burdettelamar/thanks-p8a)
-- [Stellify - Project Overview and Discussion](https://dev.to/matthew_anderson/-stellify-project-overview-and-discussion-1l9g)
-- [There are 2 hours left until the end of the results👽. Our release is a little short of 1st place. It would be cool if you supported with an upvote, thanks❤️! https://devhunt.org/tool/hmpljs](https://dev.to/anthonymax/there-are-2-hours-left-until-the-end-of-the-results-our-release-is-a-little-short-of-1st-place-it-hei)
-- [Comprehensive Comparison of PDF Form Filling Applications in 2025](https://dev.to/instafill/comprehensive-comparison-of-pdf-form-filling-applications-in-2025-5612)
+- [Streaming de datos Serverless con Aurora DSQL](https://dev.to/londoso/streaming-de-datos-serverless-con-aurora-dsql-2hmd)
+- [EasyJPA – Your Best Partner for JPA Development!](https://dev.to/paganini2008/easyjpa-your-best-partner-for-jpa-development-adj)
+- [Layer by Layer: The OSI Model Layer 4](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layer-4-21fo)
+- [Kendi Blog Siteni DEV.to Üzerinden Nasıl Kurabilirsin?](https://dev.to/eagledofc/kendi-blog-siteni-devto-uzerinden-nasil-kurabilirsin-5h62)
 <!-- BLOG-POST-LIST:END -->
 
 
