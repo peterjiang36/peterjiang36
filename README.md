@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Successful DApp: Step-by-Step Guide and Best Practices](https://dev.to/luxenlabs/how-to-build-a-successful-dapp-step-by-step-guide-and-best-practices-4a0)
-- [What is Decision Table Testing? A Beginner’s Guide](https://dev.to/ronika_kashyap/what-is-decision-table-testing-a-beginners-guide-4mme)
-- [10 Signs Your Business Needs an ERP System Today](https://dev.to/bhavesh_gangani_/10-signs-your-business-needs-an-erp-system-today-5eo6)
-- [Supercharge Your Coding Mojo: Connecting This FREE MCP Server to Cursor](https://dev.to/apilover/supercharge-your-coding-mojo-connecting-this-free-mcp-server-to-cursor-1noo)
+- [My App is Live Now!!!](https://dev.to/shaikhkamran/my-app-is-live-now-1alg)
+- [To `Gather` or not to `Gather`? That is the question.](https://dev.to/onepoint/to-gather-or-not-to-gather-that-is-the-question-36oo)
+- [Bubble Sort Got Bible](https://dev.to/hashiramasenjuhari/bubble-sort-got-bible-5fjb)
+- [Black Box Testing: A Developer-Friendly Guide to Methods, Types, and Best Practices](https://dev.to/testscenario/black-box-testing-a-developer-friendly-guide-to-methods-types-and-best-practices-25bm)
 <!-- BLOG-POST-LIST:END -->
 
 
