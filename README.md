@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing Quantum SVM: A Probabilistic Approach for Enhanced Accuracy&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-quantum-svm-a-probabilistic-approach-for-enhanced-accuracy-1f2)
-- [KendoReact Challenge: Bark Board](https://dev.to/its_tudes/kendoreact-challenge-bark-board-2i67)
-- [Comparing LEGO SPIKE Prime Programming: Which Is Best for Robotics Competitions? - 3](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-3-20h1)
-- [How to Edit the Sudoers File in NixOS - with Examples](https://dev.to/patimapoochai/how-to-edit-the-sudoers-file-in-nixos-with-examples-4k34)
+- [Biomechanics of pitching &lpar;1&rpar;: an overview of ball dynamics during throwing](https://dev.to/ken_ohta_8690712348aeef88/biomechanics-of-pitching-1-an-overview-of-ball-dynamics-during-throwing-4n96)
+- [Como Aplicar o Princípio da Responsabilidade Única com Mais Precisão](https://dev.to/asouza/como-aplicar-o-principio-da-responsabilidade-unica-com-mais-precisao-pbi)
+- [Halfway Reflection](https://dev.to/timothy_97/halfway-reflection-3ij6)
+- [Kendo React Component Playground: A simple app to test React Components, including Kendo Components](https://dev.to/websilvercraft/kendo-react-component-playground-a-simple-app-to-test-react-components-including-kendo-components-3ppk)
 <!-- BLOG-POST-LIST:END -->
 
 
