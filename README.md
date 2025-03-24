@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a JS pytorch clone: Performance investigation](https://dev.to/ndesmic/building-a-js-pytorch-clone-performance-investigation-3cjf)
-- [Advanced Recursion Problems with Function Calls Inside a Loop &lpar;Part 2&rpar;](https://dev.to/devcorner/advanced-recursion-problems-with-function-calls-inside-a-loop-part-2-201h)
-- [test2](https://dev.to/dnyaneshwarshekade/test2-1j07)
-- [[Boost]](https://dev.to/foxinfotech/-4mgj)
+- [UNIX - Files and directory - 1](https://dev.to/_a_m_a_n_pandey/unix-files-and-directory-1-2j0c)
+- [3169. Count Days Without Meetings](https://dev.to/mdarifulhaque/3169-count-days-without-meetings-5ej0)
+- [Apps Script vs. HTTP endpoints: Which should you choose? 🤔](https://dev.to/googleworkspace/apps-script-vs-http-endpoints-which-should-you-choose-2m7b)
+- [How to Install Twig in Php in 2025?](https://dev.to/anna_golubkova/how-to-install-twig-in-php-in-2025-3n0l)
 <!-- BLOG-POST-LIST:END -->
 
 
