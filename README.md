@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid These 5 Worst Interview Mistakes to Secure Your Tech Job](https://dev.to/web_dev-usman/avoid-these-5-worst-interview-mistakes-to-secure-your-tech-job-5dee)
-- [A Guide to SOLID Principles in Software Development](https://dev.to/ebenezer_tosan/a-guide-to-solid-principles-in-software-development-35ok)
-- [KYC API &amp; KYC Onboarding: Automate Compliance &amp; Security](https://dev.to/clear_dil/kyc-api-kyc-onboarding-automate-compliance-security-40jm)
-- [What is an EPG Schedule and How Does It Improve Viewer Experience?](https://dev.to/livestreaming/what-is-an-epg-schedule-and-how-does-it-improve-viewer-experience-3cmk)
+- [How to launch week: Bucket](https://dev.to/launchweekdev/how-to-launch-week-bucket-4d52)
+- [Stop Building Solutions to the Wrong Problems: A Wake-Up Call for Overeager Teams](https://dev.to/wraith/stop-building-solutions-to-the-wrong-problems-a-wake-up-call-for-overeager-teams-42im)
+- [The Dos and Don&#39;ts of Utilizing a Portable Ultrasonic Level Sensor](https://dev.to/pinnaclewell/the-dos-and-donts-of-utilizing-a-portable-ultrasonic-level-sensor-2hgd)
+- [Common POS System Problems and How to Fix Them](https://dev.to/bhavesh_gangani_/common-pos-system-problems-and-how-to-fix-them-536o)
 <!-- BLOG-POST-LIST:END -->
 
 
