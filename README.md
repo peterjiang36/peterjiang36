@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI-Powered Open-Source Financial Manager – Here’s How You Can Too](https://dev.to/envitab/i-built-an-ai-powered-open-source-financial-manager-heres-how-you-can-too-5cji)
-- [AI Image Extender: Expand and Enhance Your Images with AI](https://dev.to/sunfin_lee_9b94e802c2d2e0/ai-image-extender-expand-and-enhance-your-images-with-ai-3jjl)
-- [Getting Started with Cline—The Best VS Code AI Plugin](https://dev.to/zazencodes/getting-started-with-cline-the-best-vs-code-ai-plugin-3p1n)
-- [CI/CD Pipeline: Everything You Need To Know](https://dev.to/theme_selection/cicd-pipeline-everything-you-need-to-know-2pp6)
+- [React Elementor](https://dev.to/cfarhad/react-elementor-115m)
+- [Structuring the Server: Node.js, MongoDB, and User Models for Our CMS](https://dev.to/webcraft-notes/structuring-the-server-nodejs-mongodb-and-user-models-for-our-cms-549l)
+- [Devnexus: Bringing Java Into The Age Of AI](https://dev.to/gitguardian/devnexus-bringing-java-into-the-age-of-ai-4kal)
+- [¿Donde Estudiar la Carrera de Desarrollo de Software y Transforma tu Futuro?](https://dev.to/itsqmet/donde-estudiar-la-carrera-de-desarrollo-de-software-y-transforma-tu-futuro-4jdi)
 <!-- BLOG-POST-LIST:END -->
 
 
