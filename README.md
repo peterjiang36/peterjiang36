@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [dbForge Edge 5.0: The Ultimate Toolkit for Oracle Database Professionals](https://dev.to/samantha_brauer/dbforge-edge-50-the-ultimate-toolkit-for-oracle-database-professionals-3cad)
-- [Resumo Kubernetes](https://dev.to/adzubla/resumo-kubernetes-48hn)
-- [What is HarmonyOS NEXT - RelationalStore?](https://dev.to/victordeng/what-is-harmonyos-next-relationalstore-4i9l)
-- [📌 Need advice from experienced people](https://dev.to/nurlan/need-advice-from-experienced-people-3pi3)
+- [I Built an AI-Powered Open-Source Financial Manager – Here’s How You Can Too](https://dev.to/envitab/i-built-an-ai-powered-open-source-financial-manager-heres-how-you-can-too-5cji)
+- [AI Image Extender: Expand and Enhance Your Images with AI](https://dev.to/sunfin_lee_9b94e802c2d2e0/ai-image-extender-expand-and-enhance-your-images-with-ai-3jjl)
+- [Getting Started with Cline—The Best VS Code AI Plugin](https://dev.to/zazencodes/getting-started-with-cline-the-best-vs-code-ai-plugin-3p1n)
+- [CI/CD Pipeline: Everything You Need To Know](https://dev.to/theme_selection/cicd-pipeline-everything-you-need-to-know-2pp6)
 <!-- BLOG-POST-LIST:END -->
 
 
