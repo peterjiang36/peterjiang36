@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kazakhstan Temu Coupon Code 40% off ||*acr819178*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/kazakhstan-temu-coupon-code-40-off-acr819178-new-existing-user-1h9)
-- [Italy Temu Coupon Code 40% off ||*acu566278*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/italy-temu-coupon-code-40-off-acu566278-new-existing-user-4229)
-- [Code That&#39;s Easy to Read &lpar;and Write!&rpar;](https://dev.to/naggayidaphnepearl/code-thats-easy-to-read-and-write-cbg)
-- [Deploy MySQL instance to RailwayApp in One Minute.](https://dev.to/realtalks/deploy-mysql-instance-to-railwayapp-in-one-minute-1kc1)
+- [Mastering and Learning HTML &amp; CSS in 2025](https://dev.to/devibbi/mastering-and-learning-html-css-in-2025-3c43)
+- [Is Your Code a Swiss Army Knife or a Master Blueprint? Unraveling the Mystery of Interfaces vs. Abstract Classes](https://dev.to/tyrell_wellicq_767cb57340/is-your-code-a-swiss-army-knife-or-a-master-blueprint-unraveling-the-mystery-of-interfaces-vs-54ma)
+- [How to get your pet projects done](https://dev.to/just_kolesnikov/how-to-get-your-pet-projects-done-1fgj)
+- [How AI Turned Me Into a 10x Engineer &lpar;But Only Because I Took Coding Seriously First&rpar;](https://dev.to/brightiodev/how-ai-turned-me-into-a-10x-engineer-but-only-because-i-took-coding-seriously-first-2f3m)
 <!-- BLOG-POST-LIST:END -->
 
 
