@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Relations: What, Why, and How](https://dev.to/envitab/developer-relations-what-why-and-how-ne9)
-- [AWS CloudWatch: Why I stopped paying for external Monitoring tools](https://dev.to/aws-builders/aws-cloudwatch-why-i-stopped-paying-for-external-monitoring-tools-13d5)
-- [5 Awesome Railway Alternatives](https://dev.to/code42cate/5-awesome-railway-alternatives-3702)
-- [Why DevOps is the Future of IT!](https://dev.to/kevin_asutton_/why-devops-is-the-future-of-it-2mo4)
+- [Hungary Temu Coupon Code 40% off ||*acs711461*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/hungary-temu-coupon-code-40-off-acs711461-new-existing-user-49m)
+- [Tech Tip: 5 ways to speed up your Next.js App](https://dev.to/shamima_alina_e9f0f1a996a/tech-tip-5-ways-to-speed-up-your-nextjs-app-4c1h)
+- [Tech Tip Wednesday: 5 Ways to Speed Up Your Next.js App](https://dev.to/shamima_alina_e9f0f1a996a/tech-tip-tuesday-5-ways-to-speed-up-your-nextjs-app-4je)
+- [How to create a Web App and Console App in C#](https://dev.to/onyemuche/how-to-create-a-web-app-and-console-app-in-c-2cp7)
 <!-- BLOG-POST-LIST:END -->
 
 
