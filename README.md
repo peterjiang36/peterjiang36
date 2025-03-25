@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [typia &lpar;20,000x faster validator&rpar; challenges to Agentic AI framework, with its compiler skill](https://dev.to/samchon/typia-20000x-faster-validator-challenges-to-agentic-ai-framework-with-its-compiler-skill-3h9i)
-- [How Ashkan Rajaee Changed the Way I Write Emails](https://dev.to/techbyfelix/how-ashkan-rajaee-changed-the-way-i-write-emails-1nk9)
-- [lopdesa](https://dev.to/rahul_d_69c56a981e11c6728/lopdesa-leh)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-34bm)
+- [Announcing: Azure API Center Hands-on Workshop 🚀](https://dev.to/azure/announcing-azure-api-center-hands-on-workshop-g7f)
+- [Protecting Custom Skillset API](https://dev.to/vimaltwit/protecting-custom-skillset-api-4oj1)
+- [How to fully uninstall a CLI package entirely from your Mac](https://dev.to/joshuanwankwo/how-to-fully-uninstall-a-cli-package-entirely-from-your-mac-429h)
+- [Pearson Correlation Test](https://dev.to/shlok2740/pearson-correlation-test-1cd1)
 <!-- BLOG-POST-LIST:END -->
 
 
