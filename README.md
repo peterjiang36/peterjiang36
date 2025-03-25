@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Real-World SEO Checklist for New Websites](https://dev.to/mikehtmlallthethings/my-real-world-seo-checklist-for-new-websites-2f9i)
-- [Plugins and Platforms: v0’s Marketplace Integrations in AI Native Development](https://dev.to/fernandezbaptiste/plugins-and-platforms-v0s-marketplace-integrations-in-ai-native-development-4o48)
-- [Hidden Requirements in Dev Hiring](https://dev.to/manuartero/hidden-requirements-in-dev-hiring-5gp9)
-- [The Best Discount Strategies for Shopify Stores to Boost Sales &amp; AOV](https://dev.to/jameskujawa/the-best-discount-strategies-for-shopify-stores-to-boost-sales-aov-21oj)
+- [Developer Relations: What, Why, and How](https://dev.to/envitab/developer-relations-what-why-and-how-ne9)
+- [AWS CloudWatch: Why I stopped paying for external Monitoring tools](https://dev.to/aws-builders/aws-cloudwatch-why-i-stopped-paying-for-external-monitoring-tools-13d5)
+- [5 Awesome Railway Alternatives](https://dev.to/code42cate/5-awesome-railway-alternatives-3702)
+- [Why DevOps is the Future of IT!](https://dev.to/kevin_asutton_/why-devops-is-the-future-of-it-2mo4)
 <!-- BLOG-POST-LIST:END -->
 
 
