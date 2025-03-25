@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Mind, Beginners Mind](https://dev.to/shiftyp/code-mind-beginners-mind-5d3d)
-- [Spring Architecture Series-4.Building Spring Framework from Scratch: A Learning Path Guide](https://dev.to/yaruyng/spring-architecture-series-4building-spring-framework-from-scratch-a-learning-path-guide-1nl6)
-- [Spring Architecture Series-3.Understanding Spring MVC Implementation](https://dev.to/yaruyng/spring-architecture-series-3understanding-spring-mvc-implementation-421c)
-- [How to plan your engineering team&#39;s capacity](https://dev.to/kodus/how-to-plan-your-engineering-teams-capacity-e9b)
+- [THREE Things You Can Do Today to Become the Highest Paying Front-end Dev](https://dev.to/d2d_weizhi/three-things-you-can-do-today-to-become-the-highest-paying-front-end-dev-19m5)
+- [DevOps Made Simple: A Beginner’s Guide to Zero Trust Security Model for Cloud &amp; DevOps Teams](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-zero-trust-security-model-for-cloud-devops-teams-1h73)
+- [Easy and simple AI development for web developers!](https://dev.to/kakasoo/easy-and-simple-ai-development-for-web-developers-k73)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-54j7)
 <!-- BLOG-POST-LIST:END -->
 
 
