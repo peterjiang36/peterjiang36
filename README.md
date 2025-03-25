@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing: Azure API Center Hands-on Workshop 🚀](https://dev.to/azure/announcing-azure-api-center-hands-on-workshop-g7f)
-- [Protecting Custom Skillset API](https://dev.to/vimaltwit/protecting-custom-skillset-api-4oj1)
-- [How to fully uninstall a CLI package entirely from your Mac](https://dev.to/joshuanwankwo/how-to-fully-uninstall-a-cli-package-entirely-from-your-mac-429h)
-- [Pearson Correlation Test](https://dev.to/shlok2740/pearson-correlation-test-1cd1)
+- [My Real-World SEO Checklist for New Websites](https://dev.to/mikehtmlallthethings/my-real-world-seo-checklist-for-new-websites-2f9i)
+- [Plugins and Platforms: v0’s Marketplace Integrations in AI Native Development](https://dev.to/fernandezbaptiste/plugins-and-platforms-v0s-marketplace-integrations-in-ai-native-development-4o48)
+- [Hidden Requirements in Dev Hiring](https://dev.to/manuartero/hidden-requirements-in-dev-hiring-5gp9)
+- [The Best Discount Strategies for Shopify Stores to Boost Sales &amp; AOV](https://dev.to/jameskujawa/the-best-discount-strategies-for-shopify-stores-to-boost-sales-aov-21oj)
 <!-- BLOG-POST-LIST:END -->
 
 
