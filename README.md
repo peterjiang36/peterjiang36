@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2024: The Year the GPT Wrapper Myth Proved Wrong](https://dev.to/jetthoughts/2024-the-year-the-gpt-wrapper-myth-proved-wrong-2057)
-- [What is HarmonyOS NEXT - Tab Layout?](https://dev.to/victordeng/what-is-harmonyos-next-tab-layout-1k8p)
-- [What is Acceptance Testing? A Complete Guide](https://dev.to/keploy/what-is-acceptance-testing-a-complete-guide-5hif)
-- [Why Servers Are the Core of Every Digital Ecosystem](https://dev.to/leoarthur01/why-servers-are-the-core-of-every-digital-ecosystem-4l4i)
+- [🚀 Exploring react-native-calendars–Calendar Component! 📅](https://dev.to/laxmann/exploring-react-native-calendars-calendar-component-13ma)
+- [Enhance Photo Resolution for Stunning Results: Easy Tips and Tricks](https://dev.to/emma-bb888/enhance-photo-resolution-for-stunning-results-easy-tips-and-tricks-5hge)
+- [Enhance Professional Development with Advanced Agile Testing Certifications](https://dev.to/tom_cruise_47f47443bff64e/enhance-professional-development-with-advanced-agile-testing-certifications-4j2c)
+- [Solidity Developer &amp; Blockchain Architect](https://dev.to/openxai_network/solidity-developer-blockchain-architect-4cgj)
 <!-- BLOG-POST-LIST:END -->
 
 
