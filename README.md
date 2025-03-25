@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF Running Out of Disk Space? A Step-by-Step Guide to Easy Cleanup](https://dev.to/carrie_luo1/safeline-waf-running-out-of-disk-space-a-step-by-step-guide-to-easy-cleanup-5el5)
-- [Framework-Level DI Even for student Node.js Developers](https://dev.to/sunrabbit123/framework-level-di-even-for-student-nodejs-developers-59jb)
-- [How to Optimize SEO in Next.js Using Metadata and getServerSideProps](https://dev.to/syed_mudasseranayat_e251/how-to-optimize-seo-in-nextjs-using-metadata-and-getserversideprops-5af1)
-- [[Boost]](https://dev.to/karanverma/-34p1)
+- [Build a Twitter ReplyGuy using AI/ML API and Twitter API V2.](https://dev.to/abdibrokhim/build-a-twitter-replyguy-using-aiml-api-and-twitter-api-v2-3c3j)
+- [Introduction to Linux](https://dev.to/prasanth_fcf045e10b53562c/introduction-to-linux-4c7g)
+- [Flutter RenderTree : How Rendering Works](https://dev.to/vayuz_insights/flutter-rendertree-how-rendering-works-j48)
+- [Day 7: BackendChallenges.com – The Frontend Security Checklist Devs Ignore](https://dev.to/learnwithparam/day-7-backendchallengescom-the-frontend-security-checklist-devs-ignore-56fp)
 <!-- BLOG-POST-LIST:END -->
 
 
