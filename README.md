@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Croatia Temu Coupon Code 40% off ||*acq905537*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/croatia-temu-coupon-code-40-off-acq905537-new-existing-user-11pk)
-- [Spain Temu Coupon Code 40% off ||*acr819178*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/spain-temu-coupon-code-40-off-acr819178-new-existing-user-4e8)
-- [Slovenia Temu Coupon Code 40% off ||*acs711461*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/slovenia-temu-coupon-code-40-off-acs711461-new-existing-user-4gk5)
-- [Slovakia Temu Coupon Code 40% off ||*acq898629*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/slovakia-temu-coupon-code-40-off-acq898629-new-existing-user-aip)
+- [Kazakhstan Temu Coupon Code 40% off ||*acr819178*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/kazakhstan-temu-coupon-code-40-off-acr819178-new-existing-user-1h9)
+- [Italy Temu Coupon Code 40% off ||*acu566278*|| New &amp; Existing user](https://dev.to/m_basiseo_92fd54e0e333553/italy-temu-coupon-code-40-off-acu566278-new-existing-user-4229)
+- [Code That&#39;s Easy to Read &lpar;and Write!&rpar;](https://dev.to/naggayidaphnepearl/code-thats-easy-to-read-and-write-cbg)
+- [Deploy MySQL instance to RailwayApp in One Minute.](https://dev.to/realtalks/deploy-mysql-instance-to-railwayapp-in-one-minute-1kc1)
 <!-- BLOG-POST-LIST:END -->
 
 
