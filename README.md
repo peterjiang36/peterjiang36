@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to launch week: Bucket](https://dev.to/launchweekdev/how-to-launch-week-bucket-4d52)
-- [Stop Building Solutions to the Wrong Problems: A Wake-Up Call for Overeager Teams](https://dev.to/wraith/stop-building-solutions-to-the-wrong-problems-a-wake-up-call-for-overeager-teams-42im)
-- [The Dos and Don&#39;ts of Utilizing a Portable Ultrasonic Level Sensor](https://dev.to/pinnaclewell/the-dos-and-donts-of-utilizing-a-portable-ultrasonic-level-sensor-2hgd)
-- [Common POS System Problems and How to Fix Them](https://dev.to/bhavesh_gangani_/common-pos-system-problems-and-how-to-fix-them-536o)
+- [dbForge Edge 5.0: The Ultimate Toolkit for Oracle Database Professionals](https://dev.to/samantha_brauer/dbforge-edge-50-the-ultimate-toolkit-for-oracle-database-professionals-3cad)
+- [Resumo Kubernetes](https://dev.to/adzubla/resumo-kubernetes-48hn)
+- [What is HarmonyOS NEXT - RelationalStore?](https://dev.to/victordeng/what-is-harmonyos-next-relationalstore-4i9l)
+- [📌 Need advice from experienced people](https://dev.to/nurlan/need-advice-from-experienced-people-3pi3)
 <!-- BLOG-POST-LIST:END -->
 
 
