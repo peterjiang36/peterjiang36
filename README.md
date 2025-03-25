@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Exploring react-native-calendars–Calendar Component! 📅](https://dev.to/laxmann/exploring-react-native-calendars-calendar-component-13ma)
-- [Enhance Photo Resolution for Stunning Results: Easy Tips and Tricks](https://dev.to/emma-bb888/enhance-photo-resolution-for-stunning-results-easy-tips-and-tricks-5hge)
-- [Enhance Professional Development with Advanced Agile Testing Certifications](https://dev.to/tom_cruise_47f47443bff64e/enhance-professional-development-with-advanced-agile-testing-certifications-4j2c)
-- [Solidity Developer &amp; Blockchain Architect](https://dev.to/openxai_network/solidity-developer-blockchain-architect-4cgj)
+- [SafeLine WAF Running Out of Disk Space? A Step-by-Step Guide to Easy Cleanup](https://dev.to/carrie_luo1/safeline-waf-running-out-of-disk-space-a-step-by-step-guide-to-easy-cleanup-5el5)
+- [Framework-Level DI Even for student Node.js Developers](https://dev.to/sunrabbit123/framework-level-di-even-for-student-nodejs-developers-59jb)
+- [How to Optimize SEO in Next.js Using Metadata and getServerSideProps](https://dev.to/syed_mudasseranayat_e251/how-to-optimize-seo-in-nextjs-using-metadata-and-getserversideprops-5af1)
+- [[Boost]](https://dev.to/karanverma/-34p1)
 <!-- BLOG-POST-LIST:END -->
 
 
