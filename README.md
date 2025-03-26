@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Build a Full-Stack App Using the MERN Stack! Part 3: React NextJS UI](https://dev.to/jaywatson2pt0/lets-build-a-full-stack-app-using-the-mern-stack-part-3-react-nextjs-ui-5fcd)
-- [AWS Proton: Microservices Infrastructure Automation](https://dev.to/neo_rival67/aws-proton-microservices-infrastructure-automation-103p)
-- [THREE MAIN SERVICE MODELS PROVIDED BY AZURE](https://dev.to/iniobong_ema_92e60ed18028/three-main-service-models-provided-by-azure-4c1j)
-- [Sets are the Data Type Your Code Needs](https://dev.to/muydanny/sets-are-the-data-type-your-code-needs-2c64)
+- [Secure Startup and Minimum Permission Configuration of the ohpm-repo Private Repository in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/secure-startup-and-minimum-permission-configuration-of-the-ohpm-repo-private-repository-in-lkk)
+- [鸿蒙开发：openCustomDialog关闭指定Dialog](https://dev.to/abnerming888/hong-meng-kai-fa-opencustomdialogguan-bi-zhi-ding-dialog-25fc)
+- [鸿蒙开发：父组件如何调用子组件中的方法？](https://dev.to/abnerming888/hong-meng-kai-fa-fu-zu-jian-ru-he-diao-yong-zi-zu-jian-zhong-de-fang-fa--5gm3)
+- [Understanding Memory Synchronization in Go: Why Even Read Operations Require Mutexes](https://dev.to/l_walid/understanding-memory-synchronization-in-go-why-even-read-operations-require-mutexes-49f2)
 <!-- BLOG-POST-LIST:END -->
 
 
