@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Temporal Dead Zone in JavaScript: WTF Is It &amp; Why Should You Care?](https://dev.to/jaimaldullat/temporal-dead-zone-in-javascript-wtf-is-it-why-should-you-care-3gf5)
-- [From Local Development to Live Server: A Complete Guide to Deploying Your React JS Project on Ubuntu](https://dev.to/aniket_ap/from-local-development-to-live-server-a-complete-guide-to-deploying-your-react-js-project-on-ubuntu-1idd)
-- [A Deep Dive into JavaScript Classes: Class Inheritance](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-class-inheritance-40ge)
-- [Linux Introduction-II](https://dev.to/prasanth362k/linux-introduction-ii-4o0j)
+- [alt mnemonic: LLM = LikeLihood Machine ?](https://dev.to/clozach/alt-mnemonic-llm-likelihood-machine--n1a)
+- [Building a Low-Level Game Engine from Scratch](https://dev.to/lrdev/building-a-low-level-game-engine-from-scratch-1ome)
+- [Clustered vs. Non-Clustered Index in Databases](https://dev.to/devcorner/clustered-vs-non-clustered-index-in-databases-5gfj)
+- [Worklets and Threading in Reanimated for Smooth Animations in React Native](https://dev.to/ajmal_hasan/worklets-and-threading-in-reanimated-for-smooth-animations-in-react-native-98)
 <!-- BLOG-POST-LIST:END -->
 
 
