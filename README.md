@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Convert HTML CSS JS To React JS](https://dev.to/theudemezue/how-to-convert-html-css-js-to-react-js-fbl)
-- [Bucket 2025-03 Update — CLI, Toolbar, GitHub app &amp; Launch Week](https://dev.to/bucketdotco/bucket-2025-03-update-cli-toolbar-github-app-launch-week-2fji)
-- [The Power of Words: How Great Content Shapes the Digital World](https://dev.to/tany_ti/the-power-of-words-how-great-content-shapes-the-digital-world-2gcp)
-- [How to Keep Your Python Package Metadata in Sync with GitHub Release Tags](https://dev.to/tosin2013/how-to-keep-your-python-package-metadata-in-sync-with-github-release-tags-fkb)
+- [Embedding Models You Can Use in Your Next Project For Free 🚀](https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h)
+- [Canceling HTTP Requests in React &lpar;TypeScript&rpar; – Why It Matters &amp; How to Do It](https://dev.to/xenral/canceling-http-requests-in-react-typescript-why-it-matters-how-to-do-it-3hah)
+- [🚀 AI Native Dev Landscape Just Dropped &lpar;and it&#39;s open source&rpar;](https://dev.to/fernandezbaptiste/ai-native-dev-landscape-just-dropped-and-its-open-source-3h3i)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-14n)
 <!-- BLOG-POST-LIST:END -->
 
 
