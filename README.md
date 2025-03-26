@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We build an AI mental health assistant with 7 AI agents! &lpar;no-code needed&rpar;](https://dev.to/momen_hq/we-build-an-ai-mental-health-assistant-with-7-ai-agents-no-code-needed-45aj)
-- [8 Golden Rules of Interface Design &amp; Best Practices](https://dev.to/lollypopdesign/8-golden-rules-of-interface-design-best-practices-48h9)
-- [Martian Kilts: Designing Ceremonial Dress for Future Colonists](https://dev.to/davidtaylor852/martian-kilts-designing-ceremonial-dress-for-future-colonists-1no6)
-- [Accelerating Business Insights with AI-Powered Analytics: A Game-Changer for Decision-Making and Operational Efficiency](https://dev.to/hana_sato/accelerating-business-insights-with-ai-powered-analytics-a-game-changer-for-decision-making-and-58pa)
+- [ABEND dump #17](https://dev.to/bitmaybewise/abend-dump-17-4e13)
+- [Trap Handlers in JavaScript Proxies](https://dev.to/omriluz1/trap-handlers-in-javascript-proxies-49mp)
+- [How AI Enhances Employee Learning &amp; Development](https://dev.to/corporateone/how-ai-enhances-employee-learning-development-7d1)
+- [How To Start A Dev Tools Company: Insights From YC](https://dev.to/jetthoughts/how-to-start-a-dev-tools-company-insights-from-yc-3ome)
 <!-- BLOG-POST-LIST:END -->
 
 
