@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Reflect for Safe Object Manipulation](https://dev.to/omriluz1/using-reflect-for-safe-object-manipulation-1ej5)
-- [Test Post 69740](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-69740-2113)
-- [Test Post 29559](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-29559-mal)
-- [164/365 | ¥10M Job Challenge - 4o image generation](https://dev.to/kameken100/164365-y10m-job-challenge-4o-image-generation-2hoc)
+- [My local AI Ollama for POCs](https://dev.to/getjv/my-local-ai-ollama-for-pocs-i25)
+- [github-rpg-contributors](https://dev.to/btopro/hax-sip-github-rpg-contributors-24ka)
+- [Intelligent Prompt Routing en Amazon Bedrock - Optimizando la elección del modelo fundacional ideal](https://dev.to/exiadev/intelligent-prompt-routing-en-amazon-bedrock-optimizando-la-eleccion-del-modelo-fundacional-ideal-5pn)
+- [new post](https://dev.to/aymanepraxe/new-post-m8c)
 <!-- BLOG-POST-LIST:END -->
 
 
