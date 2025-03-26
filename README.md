@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover how to build a trust-based culture for your dev team! This blog offers strategies for balancing autonomy and productivity with tools like Teamcamp](https://dev.to/rajesh_patel/discover-how-to-build-a-trust-based-culture-for-your-dev-team-this-blog-offers-strategies-for-3597)
-- [CSS Performance Tips: Writing Faster, More Efficient Styles](https://dev.to/hasunnilupul/css-performance-tips-writing-faster-more-efficient-styles-46f0)
-- [Want to track developer productivity without disrupting their flow? This insightful blog covers all aspects, including how Teamcamp can help you manage projects smarter!](https://dev.to/nikhil_sachapara/want-to-track-developer-productivity-without-disrupting-their-flow-this-insightful-blog-covers-all-4jj3)
-- [GitHub Pull Request Review Study](https://dev.to/argha_dhar_35d39e068327dc/asu-research-survey-on-github-pr-security-practices-5-mins-2lhf)
+- [The Power of Consistency in Coding](https://dev.to/nandini_pahuja/the-power-of-consistency-in-coding-cao)
+- [7 ways to optimize Infrastructure for AI workloads](https://dev.to/e77/7-ways-to-optimize-infrastructure-for-ai-workloads-1jn2)
+- [Understanding Digital Signage Content Management Systems &lpar;CMS&rpar;: A Complete Guide](https://dev.to/stevejacob45678/understanding-digital-signage-content-management-systems-cms-a-complete-guide-1idd)
+- [Mocking HTTPX Requests with RESPX: A Comprehensive Guide](https://dev.to/keploy/mocking-httpx-requests-with-respx-a-comprehensive-guide-4o7i)
 <!-- BLOG-POST-LIST:END -->
 
 
