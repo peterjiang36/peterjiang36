@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI take developers’ jobs?](https://dev.to/logrocket/will-ai-take-developers-jobs-26od)
-- [State Management for Large Internal Tools: Redux, Context API, or Alternatives?](https://dev.to/shib_itsme/state-management-for-large-internal-tools-redux-context-api-or-alternatives-51op)
-- [Best Cloud Platforms for Data Engineering in 2025](https://dev.to/anshul_kichara/best-cloud-platforms-for-data-engineering-in-2025-1hlm)
-- [Every TypeScript Developer is an AI Developer](https://dev.to/samchon/every-typescript-developer-is-an-ai-developer-2kan)
+- [How To Convert HTML CSS JS To React JS](https://dev.to/theudemezue/how-to-convert-html-css-js-to-react-js-fbl)
+- [Bucket 2025-03 Update — CLI, Toolbar, GitHub app &amp; Launch Week](https://dev.to/bucketdotco/bucket-2025-03-update-cli-toolbar-github-app-launch-week-2fji)
+- [The Power of Words: How Great Content Shapes the Digital World](https://dev.to/tany_ti/the-power-of-words-how-great-content-shapes-the-digital-world-2gcp)
+- [How to Keep Your Python Package Metadata in Sync with GitHub Release Tags](https://dev.to/tosin2013/how-to-keep-your-python-package-metadata-in-sync-with-github-release-tags-fkb)
 <!-- BLOG-POST-LIST:END -->
 
 
