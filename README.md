@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Startup and Minimum Permission Configuration of the ohpm-repo Private Repository in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/secure-startup-and-minimum-permission-configuration-of-the-ohpm-repo-private-repository-in-lkk)
-- [鸿蒙开发：openCustomDialog关闭指定Dialog](https://dev.to/abnerming888/hong-meng-kai-fa-opencustomdialogguan-bi-zhi-ding-dialog-25fc)
-- [鸿蒙开发：父组件如何调用子组件中的方法？](https://dev.to/abnerming888/hong-meng-kai-fa-fu-zu-jian-ru-he-diao-yong-zi-zu-jian-zhong-de-fang-fa--5gm3)
-- [Understanding Memory Synchronization in Go: Why Even Read Operations Require Mutexes](https://dev.to/l_walid/understanding-memory-synchronization-in-go-why-even-read-operations-require-mutexes-49f2)
+- [The Dawn of Intelligent Testing: How AI is Reshaping Software Quality in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-intelligent-testing-how-ai-is-reshaping-software-quality-in-2025-23cn)
+- [Scaling Daytona: A Developer Relations Strategy](https://dev.to/ayoola/scaling-daytona-a-developer-relations-strategy-5emc)
+- [‘Use it or lose it’ — a grim mantra for the AI age](https://dev.to/techyoreki/use-it-or-lose-it-a-grim-mantra-for-the-ai-age-19ho)
+- [Level Up Your Code with… Word Games](https://dev.to/aigame/level-up-your-code-with-word-games-40od)
 <!-- BLOG-POST-LIST:END -->
 
 
