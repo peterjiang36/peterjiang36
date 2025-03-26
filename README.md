@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an animated input field with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-input-field-with-tailwind-css-18k1)
-- [Healthcare Cybersecurity: Strategies to Avoid Data Breaches and Implement Patient Privacy Protection](https://dev.to/mobisoftinfotech/healthcare-cybersecurity-strategies-to-avoid-data-breaches-and-implement-patient-privacy-protection-2ea8)
-- [Generative AI in Supply Chain: Turning Complexity Into Competitive Advantage](https://dev.to/riya_marketing_2025/generative-ai-in-supply-chain-turning-complexity-into-competitive-advantage-1jb5)
-- [Top API Technologies and How to Write Docs for Them](https://dev.to/apidog/top-api-technologies-and-how-to-write-docs-for-them-5818)
+- [Troubleshoot Your Last Boot Crash on Linux](https://dev.to/jakariya3/troubleshoot-your-last-boot-crash-on-linux-11hl)
+- [The API Documentation Game-Changer You Didn&#39;t Know You Needed](https://dev.to/apilover/the-api-documentation-game-changer-you-didnt-know-you-needed-101l)
+- [Collections in Java](https://dev.to/neelakandan_ravi_2000/collections-in-java-35mm)
+- [JavaScript Conditional Flow](https://dev.to/vikrant_shitole_182356d46/javascript-conditional-flow-17jg)
 <!-- BLOG-POST-LIST:END -->
 
 
