@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I launched a game you can only play during missile attacks in Israel Hi, I’m an entrepreneur from Israel, and I just launched a weird little project called Iron Battles – a browser game that only becomes available when real-time missile alerts are happeni](https://dev.to/ai224/i-launched-a-game-you-can-only-play-during-missile-attacks-in-israel-hi-im-an-entrepreneur-2lio)
-- [Aipedia: The Ultimate AI Tools Directory for Developers &amp; Innovators](https://dev.to/kuramafox/aipedia-the-ultimate-ai-tools-directory-for-developers-innovators-o59)
-- [Context Without Complexity: LangChain’s In-Memory Superpower](https://dev.to/sathish/context-without-complexity-langchains-in-memory-superpower-56ah)
-- [A BLOG THAT SHOWS DETAILED STEPS ON CREATING AND CONNECTING TO A LINUX VM USING A PUBLIC KEY](https://dev.to/ochei_odiase_cc98d677ef03/a-blog-that-shows-detailed-steps-on-creating-and-connecting-to-a-linux-vm-using-a-public-key-15a7)
+- [Using Reflect for Safe Object Manipulation](https://dev.to/omriluz1/using-reflect-for-safe-object-manipulation-1ej5)
+- [Test Post 69740](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-69740-2113)
+- [Test Post 29559](https://dev.to/vn_tnhnguyn_7a0a11189/test-post-29559-mal)
+- [164/365 | ¥10M Job Challenge - 4o image generation](https://dev.to/kameken100/164365-y10m-job-challenge-4o-image-generation-2hoc)
 <!-- BLOG-POST-LIST:END -->
 
 
