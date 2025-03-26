@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My local AI Ollama for POCs](https://dev.to/getjv/my-local-ai-ollama-for-pocs-i25)
-- [github-rpg-contributors](https://dev.to/btopro/hax-sip-github-rpg-contributors-24ka)
-- [Intelligent Prompt Routing en Amazon Bedrock - Optimizando la elección del modelo fundacional ideal](https://dev.to/exiadev/intelligent-prompt-routing-en-amazon-bedrock-optimizando-la-eleccion-del-modelo-fundacional-ideal-5pn)
-- [new post](https://dev.to/aymanepraxe/new-post-m8c)
+- [The Next Big Thing in AI &lpar;Here’s Why It Matters&rpar;](https://dev.to/itshayder/the-next-big-thing-in-ai-heres-why-it-matters-3e9h)
+- [Recommended Session Calculator Based on Age and Skin Type](https://dev.to/emily_johnson_dev/recommended-session-calculator-based-on-age-and-skin-type-57oi)
+- [Rust Concurrency: Fearless Concurrency](https://dev.to/leapcell/rust-concurrency-fearless-concurrency-24h)
+- [Unlocking Hidden Performance Bottlenecks in Golang using GoFr: The Underrated Power of pprof](https://dev.to/aryanmehrotra/unlocking-hidden-performance-bottlenecks-in-golang-using-gofr-the-underrated-power-of-pprof-2dc7)
 <!-- BLOG-POST-LIST:END -->
 
 
