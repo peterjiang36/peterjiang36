@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Consistency in Coding](https://dev.to/nandini_pahuja/the-power-of-consistency-in-coding-cao)
-- [7 ways to optimize Infrastructure for AI workloads](https://dev.to/e77/7-ways-to-optimize-infrastructure-for-ai-workloads-1jn2)
-- [Understanding Digital Signage Content Management Systems &lpar;CMS&rpar;: A Complete Guide](https://dev.to/stevejacob45678/understanding-digital-signage-content-management-systems-cms-a-complete-guide-1idd)
-- [Mocking HTTPX Requests with RESPX: A Comprehensive Guide](https://dev.to/keploy/mocking-httpx-requests-with-respx-a-comprehensive-guide-4o7i)
+- [We build an AI mental health assistant with 7 AI agents! &lpar;no-code needed&rpar;](https://dev.to/momen_hq/we-build-an-ai-mental-health-assistant-with-7-ai-agents-no-code-needed-45aj)
+- [8 Golden Rules of Interface Design &amp; Best Practices](https://dev.to/lollypopdesign/8-golden-rules-of-interface-design-best-practices-48h9)
+- [Martian Kilts: Designing Ceremonial Dress for Future Colonists](https://dev.to/davidtaylor852/martian-kilts-designing-ceremonial-dress-for-future-colonists-1no6)
+- [Accelerating Business Insights with AI-Powered Analytics: A Game-Changer for Decision-Making and Operational Efficiency](https://dev.to/hana_sato/accelerating-business-insights-with-ai-powered-analytics-a-game-changer-for-decision-making-and-58pa)
 <!-- BLOG-POST-LIST:END -->
 
 
