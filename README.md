@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedding Models You Can Use in Your Next Project For Free 🚀](https://dev.to/dev_kiran/embedding-models-you-can-use-in-your-next-project-for-free-i0h)
-- [Canceling HTTP Requests in React &lpar;TypeScript&rpar; – Why It Matters &amp; How to Do It](https://dev.to/xenral/canceling-http-requests-in-react-typescript-why-it-matters-how-to-do-it-3hah)
-- [🚀 AI Native Dev Landscape Just Dropped &lpar;and it&#39;s open source&rpar;](https://dev.to/fernandezbaptiste/ai-native-dev-landscape-just-dropped-and-its-open-source-3h3i)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-14n)
+- [Temporal Dead Zone in JavaScript: WTF Is It &amp; Why Should You Care?](https://dev.to/jaimaldullat/temporal-dead-zone-in-javascript-wtf-is-it-why-should-you-care-3gf5)
+- [From Local Development to Live Server: A Complete Guide to Deploying Your React JS Project on Ubuntu](https://dev.to/aniket_ap/from-local-development-to-live-server-a-complete-guide-to-deploying-your-react-js-project-on-ubuntu-1idd)
+- [A Deep Dive into JavaScript Classes: Class Inheritance](https://dev.to/ayako_yk/a-deep-dive-into-javascript-classes-class-inheritance-40ge)
+- [Linux Introduction-II](https://dev.to/prasanth362k/linux-introduction-ii-4o0j)
 <!-- BLOG-POST-LIST:END -->
 
 
