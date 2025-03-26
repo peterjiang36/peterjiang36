@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-06: Hello-world from JAVA](https://dev.to/e00049/day-06-hello-world-from-java-4o58)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-3nmi)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-4dik)
-- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best Performance](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-4hh4)
+- [Discover how to build a trust-based culture for your dev team! This blog offers strategies for balancing autonomy and productivity with tools like Teamcamp](https://dev.to/rajesh_patel/discover-how-to-build-a-trust-based-culture-for-your-dev-team-this-blog-offers-strategies-for-3597)
+- [CSS Performance Tips: Writing Faster, More Efficient Styles](https://dev.to/hasunnilupul/css-performance-tips-writing-faster-more-efficient-styles-46f0)
+- [Want to track developer productivity without disrupting their flow? This insightful blog covers all aspects, including how Teamcamp can help you manage projects smarter!](https://dev.to/nikhil_sachapara/want-to-track-developer-productivity-without-disrupting-their-flow-this-insightful-blog-covers-all-4jj3)
+- [GitHub Pull Request Review Study](https://dev.to/argha_dhar_35d39e068327dc/asu-research-survey-on-github-pr-security-practices-5-mins-2lhf)
 <!-- BLOG-POST-LIST:END -->
 
 
