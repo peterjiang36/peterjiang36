@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dawn of Intelligent Testing: How AI is Reshaping Software Quality in 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-intelligent-testing-how-ai-is-reshaping-software-quality-in-2025-23cn)
-- [Scaling Daytona: A Developer Relations Strategy](https://dev.to/ayoola/scaling-daytona-a-developer-relations-strategy-5emc)
-- [‘Use it or lose it’ — a grim mantra for the AI age](https://dev.to/techyoreki/use-it-or-lose-it-a-grim-mantra-for-the-ai-age-19ho)
-- [Level Up Your Code with… Word Games](https://dev.to/aigame/level-up-your-code-with-word-games-40od)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-optimal-136b)
+- [AI-Powered Testing Trends in 2025: Automated, Smart, and Efficient](https://dev.to/anil_csimplifyit_905c/ai-powered-testing-trends-in-2025-automated-smart-and-efficient-51j7)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-fnj)
+- [Key Features No Longer Supported in Oracle 23ai](https://dev.to/vahidusefzadeh/key-features-no-longer-supported-in-oracle-23ai-41o6)
 <!-- BLOG-POST-LIST:END -->
 
 
