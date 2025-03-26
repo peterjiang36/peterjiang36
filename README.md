@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A minimum of books that should be read by a novice or experienced programmer](https://dev.to/tertiumnon/a-minimum-of-books-that-should-be-read-by-a-novice-or-experienced-programmer-4hpb)
-- [Mastering JavaScript Canvas API for Interactive Data Visualization: Techniques &amp; Performance Tips](https://dev.to/aaravjoshi/mastering-javascript-canvas-api-for-interactive-data-visualization-techniques-performance-tips-3ohe)
-- [Mastering Data Conversion in Rust: How Serde Powers Efficient Serialization](https://dev.to/aaravjoshi/mastering-data-conversion-in-rust-how-serde-powers-efficient-serialization-6b3)
-- [M3: Insecure Authentication and Authorization in Flutter](https://dev.to/yurii_denchyk_bb561af8d2d/m3-insecure-authentication-and-authorization-in-flutter-57hn)
+- [Will AI take developers’ jobs?](https://dev.to/logrocket/will-ai-take-developers-jobs-26od)
+- [State Management for Large Internal Tools: Redux, Context API, or Alternatives?](https://dev.to/shib_itsme/state-management-for-large-internal-tools-redux-context-api-or-alternatives-51op)
+- [Best Cloud Platforms for Data Engineering in 2025](https://dev.to/anshul_kichara/best-cloud-platforms-for-data-engineering-in-2025-1hlm)
+- [Every TypeScript Developer is an AI Developer](https://dev.to/samchon/every-typescript-developer-is-an-ai-developer-2kan)
 <!-- BLOG-POST-LIST:END -->
 
 
