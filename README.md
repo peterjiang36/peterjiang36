@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of HTTP 1.0 vs 1.1 vs 2.0: A Clear Comparison](https://dev.to/leapcell/the-evolution-of-http-10-vs-11-vs-20-a-clear-comparison-4p61)
-- [😶‍🌫️ Blurry UX Wins? + CSS’s Border Magic](https://dev.to/adam/blurry-ux-wins-csss-border-magic-2j21)
-- [What are top companies really asking in React interviews?](https://dev.to/kristiyanvelkov/what-are-top-companies-really-asking-in-react-interviews-mg4)
-- [Integrating New Relic Alerts with Discord: A Journey from Frustration to Success](https://dev.to/sutrisnaanjoy19/integrating-new-relic-alerts-with-discord-a-journey-from-frustration-to-success-5hko)
+- [A minimum of books that should be read by a novice or experienced programmer](https://dev.to/tertiumnon/a-minimum-of-books-that-should-be-read-by-a-novice-or-experienced-programmer-4hpb)
+- [Mastering JavaScript Canvas API for Interactive Data Visualization: Techniques &amp; Performance Tips](https://dev.to/aaravjoshi/mastering-javascript-canvas-api-for-interactive-data-visualization-techniques-performance-tips-3ohe)
+- [Mastering Data Conversion in Rust: How Serde Powers Efficient Serialization](https://dev.to/aaravjoshi/mastering-data-conversion-in-rust-how-serde-powers-efficient-serialization-6b3)
+- [M3: Insecure Authentication and Authorization in Flutter](https://dev.to/yurii_denchyk_bb561af8d2d/m3-insecure-authentication-and-authorization-in-flutter-57hn)
 <!-- BLOG-POST-LIST:END -->
 
 
