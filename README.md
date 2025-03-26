@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [regex](https://dev.to/johnsone_emett_c5c2b56a4a/regex-3i8i)
-- [Critical Ingress NGINX Vulnerabilities Allow Remote Code Execution](https://dev.to/ssojet/critical-ingress-nginx-vulnerabilities-allow-remote-code-execution-19lj)
-- [Check out the Jupyter Notebook connecting Workspace APIs](https://dev.to/googleworkspace/check-out-the-jupyter-notebook-connecting-workspace-apis-10oj)
-- [Never Miss an Update: Master the Observer Pattern in Go with Real-World Examples](https://dev.to/architagr/never-miss-an-update-master-the-observer-pattern-in-go-with-real-world-examples-2dlh)
+- [The Evolution of HTTP 1.0 vs 1.1 vs 2.0: A Clear Comparison](https://dev.to/leapcell/the-evolution-of-http-10-vs-11-vs-20-a-clear-comparison-4p61)
+- [😶‍🌫️ Blurry UX Wins? + CSS’s Border Magic](https://dev.to/adam/blurry-ux-wins-csss-border-magic-2j21)
+- [What are top companies really asking in React interviews?](https://dev.to/kristiyanvelkov/what-are-top-companies-really-asking-in-react-interviews-mg4)
+- [Integrating New Relic Alerts with Discord: A Journey from Frustration to Success](https://dev.to/sutrisnaanjoy19/integrating-new-relic-alerts-with-discord-a-journey-from-frustration-to-success-5hko)
 <!-- BLOG-POST-LIST:END -->
 
 
