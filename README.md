@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshoot Your Last Boot Crash on Linux](https://dev.to/jakariya3/troubleshoot-your-last-boot-crash-on-linux-11hl)
-- [The API Documentation Game-Changer You Didn&#39;t Know You Needed](https://dev.to/apilover/the-api-documentation-game-changer-you-didnt-know-you-needed-101l)
-- [Collections in Java](https://dev.to/neelakandan_ravi_2000/collections-in-java-35mm)
-- [JavaScript Conditional Flow](https://dev.to/vikrant_shitole_182356d46/javascript-conditional-flow-17jg)
+- [regex](https://dev.to/johnsone_emett_c5c2b56a4a/regex-3i8i)
+- [Critical Ingress NGINX Vulnerabilities Allow Remote Code Execution](https://dev.to/ssojet/critical-ingress-nginx-vulnerabilities-allow-remote-code-execution-19lj)
+- [Check out the Jupyter Notebook connecting Workspace APIs](https://dev.to/googleworkspace/check-out-the-jupyter-notebook-connecting-workspace-apis-10oj)
+- [Never Miss an Update: Master the Observer Pattern in Go with Real-World Examples](https://dev.to/architagr/never-miss-an-update-master-the-observer-pattern-in-go-with-real-world-examples-2dlh)
 <!-- BLOG-POST-LIST:END -->
 
 
