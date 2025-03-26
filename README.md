@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting an Effective Application Security Program: Strategies, Techniques and tools for optimal Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-optimal-136b)
-- [AI-Powered Testing Trends in 2025: Automated, Smart, and Efficient](https://dev.to/anil_csimplifyit_905c/ai-powered-testing-trends-in-2025-automated-smart-and-efficient-51j7)
-- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-fnj)
-- [Key Features No Longer Supported in Oracle 23ai](https://dev.to/vahidusefzadeh/key-features-no-longer-supported-in-oracle-23ai-41o6)
+- [Day-06: Hello-world from JAVA](https://dev.to/e00049/day-06-hello-world-from-java-4o58)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-3nmi)
+- [models](https://dev.to/rahul_d_69c56a981e11c6728/models-4dik)
+- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best Performance](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-4hh4)
 <!-- BLOG-POST-LIST:END -->
 
 
