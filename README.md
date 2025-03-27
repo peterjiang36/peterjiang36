@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Concurrency: Atomic Explained](https://dev.to/leapcell/rust-concurrency-atomic-explained-58cl)
-- [Master the Usequery Method](https://dev.to/pcharles/master-the-usequery-method-4h0f)
-- [🔥 Introducing Docker Model Runner – Bring AI Inference to Your Local Dev Environment](https://dev.to/narmidm/introducing-docker-model-runner-bring-ai-inference-to-your-local-dev-environment-316a)
-- [JS Object.assign&lpar;&rpar;, Object.create&lpar;&rpar;. Object.defineProperties&lpar;&rpar; Methods.](https://dev.to/mdfahim18/js-objectassign-objectcreate-objectdefineproperties-methods-50n0)
+- [Why Rust is the Future of System Programming](https://dev.to/umairamir/why-rust-is-the-future-of-system-programming-1105)
+- [A Comprehensive Guide to Creating Custom Permissions for Files on SharePoint Sites](https://dev.to/seyilufadejucyberservices/a-comprehensive-guide-to-creating-custom-permissions-for-files-on-sharepoint-sites-27jb)
+- [&quot;An alternative spiral matrix traversal using list.size&lpar;&rpar; for dynamic termination, eliminating boundary variables:Innovative&quot;](https://dev.to/shreyas_r/an-alternative-spiral-matrix-traversal-using-listsize-for-dynamic-termination-eliminating-29if)
+- [Think Before You Code: The Art of Understanding Problems](https://dev.to/wraith/think-before-you-code-the-art-of-understanding-problems-1hpa)
 <!-- BLOG-POST-LIST:END -->
 
 
