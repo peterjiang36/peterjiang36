@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY4 JAVA DATA TYPES &amp; VARIABLES](https://dev.to/elayaraj_c_04396748f52a1c/day4-java-data-types-1g7)
-- [Fast Static Website Deployment with Pulumi](https://dev.to/latzo/fast-static-website-deployment-with-pulumi-1aim)
-- [New DEV++ Deal: 20% Off Mock Interviews with Interview Kickstart](https://dev.to/devteam/new-dev-deal-20-off-mock-interviews-with-interview-kickstart-215b)
-- [Exploiting CLRF in PHP cURL to retrieve Azure Access Tokens](https://dev.to/blue_byte/exploiting-clrf-in-php-curl-to-retrieve-azure-temporary-credentials-4nj7)
+- [Touch Events &lpar;swipe&rpar; using Stimulus](https://dev.to/railsdesigner/touch-events-swipe-using-stimulus-1kml)
+- [Top Product Feedback Tools in 2025](https://dev.to/shayy/top-product-feedback-tools-in-2025-4cj8)
+- [AI in the Enterprise](https://dev.to/shawnroller/ai-in-the-enterprise-5140)
+- [Disemvowel Trolls](https://dev.to/maddiepst/disemvowel-trolls-45cg)
 <!-- BLOG-POST-LIST:END -->
 
 
