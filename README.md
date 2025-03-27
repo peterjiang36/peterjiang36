@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤬 Somebody Stole My Website!](https://dev.to/evergrowingdev/somebody-stole-my-website-5aj5)
-- [Login to D365 from Devops pipeline step by step](https://dev.to/rattlemaster/login-to-d365-from-devops-pipeline-step-by-step-ni1)
-- [[Boost]](https://dev.to/fredabod/-3cg0)
-- [The Future of AI in eCommerce](https://dev.to/piyushsingh_22/the-future-of-ai-in-ecommerce-1f9)
+- [🗞 Rapyd Developer Newsletter: March 2025 💥 Boost Your Dev Workflow: Automate APIs, Track Payouts &amp; Master Fintech KPIs](https://dev.to/rapyd/rapyd-developer-newsletter-march-2025-boost-your-dev-workflow-automate-apis-track-payouts--3po0)
+- [I Built an AI Name Generator for Literally Anything](https://dev.to/jiajunyan/i-built-an-ai-name-generator-for-literally-anything-3dkb)
+- [10+ Best Open-Source Alternatives to Your Favorite SaaS](https://dev.to/theme_selection/10-best-open-source-alternatives-to-your-favorite-saas-10f4)
+- [Automating Supabase Database Backups in Laravel with PDO](https://dev.to/tahsin000/automating-supabase-database-backups-in-laravel-with-pdo-59ac)
 <!-- BLOG-POST-LIST:END -->
 
 
