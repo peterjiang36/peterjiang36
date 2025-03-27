@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Symbol.iterator and Custom Iteration Protocols](https://dev.to/omriluz1/symboliterator-and-custom-iteration-protocols-1h5o)
-- [Open Source: AWS Lambda + Puppeteer Starter Repo](https://dev.to/geiger01/open-source-aws-lambda-puppeteer-starter-repo-5f4g)
-- [Advanced Jetpack Compose Previews](https://dev.to/markkazakov/advanced-jetpack-compose-previews-1f49)
-- [Autenticación Social en Aplicaciones Web Usando AWS Cognito y OAuth](https://dev.to/geramireze/autenticacion-social-en-aplicaciones-web-usando-aws-cognito-y-oauth-1jj9)
+- [Rust Concurrency: Atomic Explained](https://dev.to/leapcell/rust-concurrency-atomic-explained-58cl)
+- [Master the Usequery Method](https://dev.to/pcharles/master-the-usequery-method-4h0f)
+- [🔥 Introducing Docker Model Runner – Bring AI Inference to Your Local Dev Environment](https://dev.to/narmidm/introducing-docker-model-runner-bring-ai-inference-to-your-local-dev-environment-316a)
+- [JS Object.assign&lpar;&rpar;, Object.create&lpar;&rpar;. Object.defineProperties&lpar;&rpar; Methods.](https://dev.to/mdfahim18/js-objectassign-objectcreate-objectdefineproperties-methods-50n0)
 <!-- BLOG-POST-LIST:END -->
 
 
