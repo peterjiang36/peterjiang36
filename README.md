@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Touch Events &lpar;swipe&rpar; using Stimulus](https://dev.to/railsdesigner/touch-events-swipe-using-stimulus-1kml)
-- [Top Product Feedback Tools in 2025](https://dev.to/shayy/top-product-feedback-tools-in-2025-4cj8)
-- [AI in the Enterprise](https://dev.to/shawnroller/ai-in-the-enterprise-5140)
-- [Disemvowel Trolls](https://dev.to/maddiepst/disemvowel-trolls-45cg)
+- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
+- [OpenAI Agents SDK + Multiple MCP Servers](https://dev.to/seratch/openai-agents-sdk-multiple-mcp-servers-8d2)
+- [How to use Gyroscope in Presentations or Why Take a JoyCon to DPG2025](https://dev.to/jerryi/how-to-use-gyroscope-in-presentations-or-why-take-a-joycon-to-dpg2025-7k)
+- [Exploring ChatGPT’s New Image Generation Feature: Studio Ghibli-Inspired Artwork](https://dev.to/gajanan0707/exploring-chatgpts-new-image-generation-feature-studio-ghibli-inspired-artwork-3866)
 <!-- BLOG-POST-LIST:END -->
 
 
