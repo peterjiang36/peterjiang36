@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Otimizando Programação Assíncrona com Fluxos no Kotlin: Introdução ao `Flow`](https://dev.to/comunidadedevspace/otimizando-programacao-assincrona-com-fluxos-no-kotlin-introducao-ao-flow-28m9)
-- [Go Interfaces Explained: Why, How, and Wow! 🤯](https://dev.to/tavernetech/go-interfaces-explained-why-how-and-wow-4al1)
-- [SQL DATEDIFF Explained: Syntax and Database Differences](https://dev.to/dbvismarketing/sql-datediff-explained-syntax-and-database-differences-5gf0)
-- [Optimizing Asynchronous Programming with Flows in Kotlin: Introduction to Flow](https://dev.to/comunidadedevspace/optimizing-asynchronous-programming-with-flows-in-kotlin-introduction-to-flow-7ji)
+- [FAKE NEWS DETECTION ML MODEL](https://dev.to/sanjeevdeori/fake-news-detection-ml-model-ggb)
+- [Dummy Data For Backstage](https://dev.to/parsifal-m/dummy-data-for-backstage-1da5)
+- [How I Built an AI-Powered Text Processor Using Chrome AI API.](https://dev.to/duubemmm/how-i-built-an-ai-powered-text-processor-using-chrome-ai-api-1j0f)
+- [What Is a Managed Security Service Provider &lpar;MSSP&rpar;?](https://dev.to/sifytechnologies_1_4ed166/what-is-a-managed-security-service-provider-mssp-1mfp)
 <!-- BLOG-POST-LIST:END -->
 
 
