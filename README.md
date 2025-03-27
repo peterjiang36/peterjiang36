@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a website to save your side project](https://dev.to/juanemilio31323/i-created-a-website-to-save-your-side-project-9eg)
-- [Arman](https://dev.to/a_uoti_273c2787363649318a/arman-23cd)
-- [5 Key Elements for Shopee Account Registration: Tips for Email Address Selection](https://dev.to/infinit/5-key-elements-for-shopee-account-registration-tips-for-email-address-selection-1jcl)
-- [【电机控制器】以STM32F103C8T6举例——持续更新](https://dev.to/kisorge/dian-ji-kong-zhi-qi-yi-stm32f103c8t6ju-li-chi-xu-geng-xin-1i26)
+- [Learning the Basics of Bash Scripting](https://dev.to/million_formula_3be3d915d/learning-the-basics-of-bash-scripting-13mk)
+- [DevOps Made Simple: A Beginner’s Guide to Deploying a Scalable Web App on AWS with Terraform &amp; Docker](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-deploying-a-scalable-web-app-on-aws-with-terraform--1f7)
+- [How to Cosplay 2: Costume and Props Production Guide](https://dev.to/gregg001/how-to-cosplay-2-costume-and-props-production-guide-2cc0)
+- [Как записать данные в файл Excel на языке C#](https://dev.to/jelizaveta/kak-zapisat-dannyie-v-fail-excel-na-iazykie-c-1h9i)
 <!-- BLOG-POST-LIST:END -->
 
 
