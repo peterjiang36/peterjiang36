@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Certified Network Defender &lpar;CND&rpar; v3](https://dev.to/skillboosttrainer/certified-network-defender-cnd-v3-eff)
-- [On the Precarious Nature of Coding Jobs in 2025](https://dev.to/dotmavriq/on-the-precarious-nature-of-coding-jobs-in-2025-47hn)
-- [Things I Wish I Knew Before Building My First Shopware Plugin #shopware #symfony #php](https://dev.to/stefan-freelancer/things-i-wish-i-knew-before-building-my-first-shopware-plugin-shopware-symfony-php-195a)
-- [API as a Project vs. API as a Product](https://dev.to/devxme/api-as-a-project-vs-api-as-a-product-4gbe)
+- [Recursion Power Sum](https://dev.to/ethanhaseaten/recursion-power-sum-56h9)
+- [How to build MCP server in python using FastAPI](https://dev.to/makhlevich/how-to-build-mcp-server-in-python-using-fastapi-kh1)
+- [Lubyc: The All-in-One Productivity Platform That’s Changing How Companies Work in 2025](https://dev.to/shafiqul_islam_f98bf366fe/lubyc-the-all-in-one-productivity-platform-thats-changing-how-companies-work-in-2025-235j)
+- [MY FAST-FOOD WEBSITE BLOG](https://dev.to/elvis24tech/my-fast-food-website-blog-2ipe)
 <!-- BLOG-POST-LIST:END -->
 
 
