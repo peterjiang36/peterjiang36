@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?](https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5)
-- [ArkTS语法之条件语句](https://dev.to/jinghz98os/arktsyu-fa-zhi-tiao-jian-yu-ju-2p49)
-- [How a POS Retail Solution Can Boost Your Sales and Customer Satisfaction](https://dev.to/bhavesh_gangani_/how-a-pos-retail-solution-can-boost-your-sales-and-customer-satisfaction-936)
-- [Memahami Fundamental TypeScript: Panduan Lengkap untuk Pemula](https://dev.to/uigerhana/memahami-fundamental-typescript-panduan-lengkap-untuk-pemula-3n2b)
+- [🤬 Somebody Stole My Website!](https://dev.to/evergrowingdev/somebody-stole-my-website-5aj5)
+- [Login to D365 from Devops pipeline step by step](https://dev.to/rattlemaster/login-to-d365-from-devops-pipeline-step-by-step-ni1)
+- [[Boost]](https://dev.to/fredabod/-3cg0)
+- [The Future of AI in eCommerce](https://dev.to/piyushsingh_22/the-future-of-ai-in-ecommerce-1f9)
 <!-- BLOG-POST-LIST:END -->
 
 
