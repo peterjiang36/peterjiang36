@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Framer vs. Adobe XD: Which One Should You Use in 2025?](https://dev.to/dct_technologyprivatelimited/framer-vs-adobe-xd-which-one-should-you-use-in-2025-47ac)
-- [A Guide to Using Singleton Design Pattern in Android](https://dev.to/shalenmathew/a-guide-to-using-singleton-design-pattern-in-android-41bd)
-- [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
-- [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
+- [DevOps Training in Bangalore: A Complete Guide to Version Control with Git](https://dev.to/itz_amaze/devops-training-in-bangalore-a-complete-guide-to-version-control-with-git-a9n)
+- [Servicios de Gestión de Riesgos Empresariales: Protegiendo su negocio para el futuro](https://dev.to/linnoit/servicios-de-gestion-de-riesgos-empresariales-protegiendo-su-negocio-para-el-futuro-15al)
+- [A 2-Approximation Algorithm for Dominating Sets](https://dev.to/frank_vega_987689489099bf/a-2-approximation-algorithm-for-dominating-sets-1aga)
+- [The Future of Algorithmic Trading Driven by Data Mining](https://dev.to/freyasky/the-future-of-algorithmic-trading-driven-by-data-mining-22hj)
 <!-- BLOG-POST-LIST:END -->
 
 
