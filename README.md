@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FAKE NEWS DETECTION ML MODEL](https://dev.to/sanjeevdeori/fake-news-detection-ml-model-ggb)
-- [Dummy Data For Backstage](https://dev.to/parsifal-m/dummy-data-for-backstage-1da5)
-- [How I Built an AI-Powered Text Processor Using Chrome AI API.](https://dev.to/duubemmm/how-i-built-an-ai-powered-text-processor-using-chrome-ai-api-1j0f)
-- [What Is a Managed Security Service Provider &lpar;MSSP&rpar;?](https://dev.to/sifytechnologies_1_4ed166/what-is-a-managed-security-service-provider-mssp-1mfp)
+- [How Can AI Fix Bugs Automatically?](https://dev.to/webshipco/how-can-ai-fix-bugs-automatically-2b9f)
+- [Burndown charts don’t tell the whole story. The right project metrics can drive real progress, improve team efficiency, and reduce bottlenecks. Explore the key metrics that matter most to developers.](https://dev.to/naik_sejal/burndown-charts-dont-tell-the-whole-story-the-right-project-metrics-can-drive-real-progress-11ic)
+- [Burndown charts are just the tip of the iceberg! Discover the project metrics that truly impact developers—think cycle time, DORA metrics, and developer satisfaction.](https://dev.to/pranesh_patel/burndown-charts-are-just-the-tip-of-the-iceberg-discover-the-project-metrics-that-truly-impact-4klg)
+- [Create Tkinter GUI’s using Tkinter GUI Builder — PyUiBuilder](https://dev.to/paul_freeman/create-tkinter-guis-using-tkinter-gui-builder-pyuibuilder-14cp)
 <!-- BLOG-POST-LIST:END -->
 
 
