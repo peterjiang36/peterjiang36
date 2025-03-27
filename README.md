@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Platform Engineering Helps You Move Like a Startup Again](https://dev.to/cyclops-ui/how-platform-engineering-helps-you-move-like-a-startup-again-1ja2)
-- [Next.js Middleware Broken Access Controls](https://dev.to/blue_byte/nextjs-middleware-broken-access-controls-i8m)
-- [Roadmap to Certified Scrum Master &lpar;CSM&rpar; Certification?](https://dev.to/arianaa/roadmap-to-certified-scrum-master-csm-certification-2264)
-- [How to Prevent Data Loss in Cloud Storage: A Developer’s Checklist](https://dev.to/bytehide/how-to-prevent-data-loss-in-cloud-storage-a-developers-checklist-3540)
+- [Ghibli Style Taking Over The World or Does OpenAI GPT-4o Hyped Again?](https://dev.to/abdibrokhim/ghibli-style-taking-over-the-world-or-does-openai-gpt-4o-hyped-again-1lj5)
+- [ArkTS语法之条件语句](https://dev.to/jinghz98os/arktsyu-fa-zhi-tiao-jian-yu-ju-2p49)
+- [How a POS Retail Solution Can Boost Your Sales and Customer Satisfaction](https://dev.to/bhavesh_gangani_/how-a-pos-retail-solution-can-boost-your-sales-and-customer-satisfaction-936)
+- [Memahami Fundamental TypeScript: Panduan Lengkap untuk Pemula](https://dev.to/uigerhana/memahami-fundamental-typescript-panduan-lengkap-untuk-pemula-3n2b)
 <!-- BLOG-POST-LIST:END -->
 
 
