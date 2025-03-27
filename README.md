@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning the Basics of Bash Scripting](https://dev.to/million_formula_3be3d915d/learning-the-basics-of-bash-scripting-13mk)
-- [DevOps Made Simple: A Beginner’s Guide to Deploying a Scalable Web App on AWS with Terraform &amp; Docker](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-deploying-a-scalable-web-app-on-aws-with-terraform--1f7)
-- [How to Cosplay 2: Costume and Props Production Guide](https://dev.to/gregg001/how-to-cosplay-2-costume-and-props-production-guide-2cc0)
-- [Как записать данные в файл Excel на языке C#](https://dev.to/jelizaveta/kak-zapisat-dannyie-v-fail-excel-na-iazykie-c-1h9i)
+- [[Boost]](https://dev.to/sudhanshu_dasgupta/-868)
+- [NocoBase Weekly Updates: Support user role union](https://dev.to/nocobase/nocobase-weekly-updates-support-user-role-union-5fk)
+- [SolidJS](https://dev.to/taytay836/solidjs-4doa)
+- [What is a Database? An Introduction](https://dev.to/e00049/what-is-a-database-an-introduction-2jla)
 <!-- BLOG-POST-LIST:END -->
 
 
