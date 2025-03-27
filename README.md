@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Training in Bangalore: A Complete Guide to Version Control with Git](https://dev.to/itz_amaze/devops-training-in-bangalore-a-complete-guide-to-version-control-with-git-a9n)
-- [Servicios de Gestión de Riesgos Empresariales: Protegiendo su negocio para el futuro](https://dev.to/linnoit/servicios-de-gestion-de-riesgos-empresariales-protegiendo-su-negocio-para-el-futuro-15al)
-- [A 2-Approximation Algorithm for Dominating Sets](https://dev.to/frank_vega_987689489099bf/a-2-approximation-algorithm-for-dominating-sets-1aga)
-- [The Future of Algorithmic Trading Driven by Data Mining](https://dev.to/freyasky/the-future-of-algorithmic-trading-driven-by-data-mining-22hj)
+- [Display Followers on Linkedin](https://dev.to/anzilone/display-followers-on-linkedin-483o)
+- [Modelswegan](https://dev.to/rahul_d_69c56a981e11c6728/modelswegan-396n)
+- [Business Development Manager](https://dev.to/openxai_network/business-development-manager-24fo)
+- [Java Program to Identify the Minimal Nucleotide in a DNA Sequence Range](https://dev.to/pythontutorial/java-program-to-identify-the-minimal-nucleotide-in-a-dna-sequence-range-22p0)
 <!-- BLOG-POST-LIST:END -->
 
 
