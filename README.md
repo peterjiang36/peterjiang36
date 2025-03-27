@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/sudhanshu_dasgupta/-868)
-- [NocoBase Weekly Updates: Support user role union](https://dev.to/nocobase/nocobase-weekly-updates-support-user-role-union-5fk)
-- [SolidJS](https://dev.to/taytay836/solidjs-4doa)
-- [What is a Database? An Introduction](https://dev.to/e00049/what-is-a-database-an-introduction-2jla)
+- [Measuring your program speed correctly](https://dev.to/absterdabster/measuring-your-program-speed-correctly-4a52)
+- [🐰 Coloriage Lapin – Un’attività creativa e divertente per grandi e piccoli! 🎨✨](https://dev.to/laurencefocke/coloriage-lapin-unattivita-creativa-e-divertente-per-grandi-e-piccoli-101c)
+- [The Future of Workplace Efficiency: Balancing Productivity and Privacy](https://dev.to/remotly/the-future-of-workplace-efficiency-balancing-productivity-and-privacy-4fhc)
+- [Setup a Redis Cluster using Redis Stack](https://dev.to/hedgehog/setup-a-redis-cluster-using-redis-stack-4jdl)
 <!-- BLOG-POST-LIST:END -->
 
 
