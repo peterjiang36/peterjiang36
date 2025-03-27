@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Jenkins Host on a Remote Server for Ansible Job Execution](https://dev.to/titans_sarim_42380409554b/how-to-set-up-a-jenkins-host-on-a-remote-server-for-ansible-job-execution-3dl0)
-- [Day 1127 : Traffic Jam](https://dev.to/dwane/day-1127-traffic-jam-k3c)
-- [Monorepo Issue: Multiple Angular Projects Using a Shared Firebase Auth Service](https://dev.to/jure_raji_39c45a4a8219b/monorepo-issue-multiple-angular-projects-using-a-shared-firebase-auth-service-2dfb)
-- [Sun Header With Rising Logo Bouncing Letters Using Trig.js ☀️](https://dev.to/idevgames/sun-header-with-rising-logo-bouncing-letters-using-trigjs-kj)
+- [Help Needed: Sidebar Not Working Properly in My Project](https://dev.to/wkazisan/help-needed-sidebar-not-working-properly-in-my-project-5i3)
+- [Say Goodbye to Color Guessing: Enable HSL Previews in Tailwind + VSCode](https://dev.to/flavioespinoza/say-goodbye-to-color-guessing-enable-hsl-previews-in-tailwind-vscode-3394)
+- [&quot;Unlocking High-Resolution Vision: The Power of PS3 and CausalRAG Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-high-resolution-vision-the-power-of-ps3-and-causalrag-innovations-492n)
+- [Cuidado Com Os Mentores](https://dev.to/any97cris/cuidado-com-os-mentores-j85)
 <!-- BLOG-POST-LIST:END -->
 
 
