@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can AI Fix Bugs Automatically?](https://dev.to/webshipco/how-can-ai-fix-bugs-automatically-2b9f)
-- [Burndown charts don’t tell the whole story. The right project metrics can drive real progress, improve team efficiency, and reduce bottlenecks. Explore the key metrics that matter most to developers.](https://dev.to/naik_sejal/burndown-charts-dont-tell-the-whole-story-the-right-project-metrics-can-drive-real-progress-11ic)
-- [Burndown charts are just the tip of the iceberg! Discover the project metrics that truly impact developers—think cycle time, DORA metrics, and developer satisfaction.](https://dev.to/pranesh_patel/burndown-charts-are-just-the-tip-of-the-iceberg-discover-the-project-metrics-that-truly-impact-4klg)
-- [Create Tkinter GUI’s using Tkinter GUI Builder — PyUiBuilder](https://dev.to/paul_freeman/create-tkinter-guis-using-tkinter-gui-builder-pyuibuilder-14cp)
+- [How Platform Engineering Helps You Move Like a Startup Again](https://dev.to/cyclops-ui/how-platform-engineering-helps-you-move-like-a-startup-again-1ja2)
+- [Next.js Middleware Broken Access Controls](https://dev.to/blue_byte/nextjs-middleware-broken-access-controls-i8m)
+- [Roadmap to Certified Scrum Master &lpar;CSM&rpar; Certification?](https://dev.to/arianaa/roadmap-to-certified-scrum-master-csm-certification-2264)
+- [How to Prevent Data Loss in Cloud Storage: A Developer’s Checklist](https://dev.to/bytehide/how-to-prevent-data-loss-in-cloud-storage-a-developers-checklist-3540)
 <!-- BLOG-POST-LIST:END -->
 
 
