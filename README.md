@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Needed: Sidebar Not Working Properly in My Project](https://dev.to/wkazisan/help-needed-sidebar-not-working-properly-in-my-project-5i3)
-- [Say Goodbye to Color Guessing: Enable HSL Previews in Tailwind + VSCode](https://dev.to/flavioespinoza/say-goodbye-to-color-guessing-enable-hsl-previews-in-tailwind-vscode-3394)
-- [&quot;Unlocking High-Resolution Vision: The Power of PS3 and CausalRAG Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-high-resolution-vision-the-power-of-ps3-and-causalrag-innovations-492n)
-- [Cuidado Com Os Mentores](https://dev.to/any97cris/cuidado-com-os-mentores-j85)
+- [I created a website to save your side project](https://dev.to/juanemilio31323/i-created-a-website-to-save-your-side-project-9eg)
+- [Arman](https://dev.to/a_uoti_273c2787363649318a/arman-23cd)
+- [5 Key Elements for Shopee Account Registration: Tips for Email Address Selection](https://dev.to/infinit/5-key-elements-for-shopee-account-registration-tips-for-email-address-selection-1jcl)
+- [【电机控制器】以STM32F103C8T6举例——持续更新](https://dev.to/kisorge/dian-ji-kong-zhi-qi-yi-stm32f103c8t6ju-li-chi-xu-geng-xin-1i26)
 <!-- BLOG-POST-LIST:END -->
 
 
