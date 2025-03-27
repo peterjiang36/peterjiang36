@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run LLMs Locally: Build Your Own AI Chat Assistant](https://dev.to/khokon/run-llms-locally-build-your-own-ai-chat-assistant-ipc)
-- [OpenAI Agents SDK + Multiple MCP Servers](https://dev.to/seratch/openai-agents-sdk-multiple-mcp-servers-8d2)
-- [How to use Gyroscope in Presentations or Why Take a JoyCon to DPG2025](https://dev.to/jerryi/how-to-use-gyroscope-in-presentations-or-why-take-a-joycon-to-dpg2025-7k)
-- [Exploring ChatGPT’s New Image Generation Feature: Studio Ghibli-Inspired Artwork](https://dev.to/gajanan0707/exploring-chatgpts-new-image-generation-feature-studio-ghibli-inspired-artwork-3866)
+- [Symbol.iterator and Custom Iteration Protocols](https://dev.to/omriluz1/symboliterator-and-custom-iteration-protocols-1h5o)
+- [Open Source: AWS Lambda + Puppeteer Starter Repo](https://dev.to/geiger01/open-source-aws-lambda-puppeteer-starter-repo-5f4g)
+- [Advanced Jetpack Compose Previews](https://dev.to/markkazakov/advanced-jetpack-compose-previews-1f49)
+- [Autenticación Social en Aplicaciones Web Usando AWS Cognito y OAuth](https://dev.to/geramireze/autenticacion-social-en-aplicaciones-web-usando-aws-cognito-y-oauth-1jj9)
 <!-- BLOG-POST-LIST:END -->
 
 
