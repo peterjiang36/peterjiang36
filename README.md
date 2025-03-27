@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion Power Sum](https://dev.to/ethanhaseaten/recursion-power-sum-56h9)
-- [How to build MCP server in python using FastAPI](https://dev.to/makhlevich/how-to-build-mcp-server-in-python-using-fastapi-kh1)
-- [Lubyc: The All-in-One Productivity Platform That’s Changing How Companies Work in 2025](https://dev.to/shafiqul_islam_f98bf366fe/lubyc-the-all-in-one-productivity-platform-thats-changing-how-companies-work-in-2025-235j)
-- [MY FAST-FOOD WEBSITE BLOG](https://dev.to/elvis24tech/my-fast-food-website-blog-2ipe)
+- [DAY4 JAVA DATA TYPES &amp; VARIABLES](https://dev.to/elayaraj_c_04396748f52a1c/day4-java-data-types-1g7)
+- [Fast Static Website Deployment with Pulumi](https://dev.to/latzo/fast-static-website-deployment-with-pulumi-1aim)
+- [New DEV++ Deal: 20% Off Mock Interviews with Interview Kickstart](https://dev.to/devteam/new-dev-deal-20-off-mock-interviews-with-interview-kickstart-215b)
+- [Exploiting CLRF in PHP cURL to retrieve Azure Access Tokens](https://dev.to/blue_byte/exploiting-clrf-in-php-curl-to-retrieve-azure-temporary-credentials-4nj7)
 <!-- BLOG-POST-LIST:END -->
 
 
