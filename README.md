@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco Marketplace Package Sync Bookmarklet](https://dev.to/skttl/umbraco-marketplace-package-sync-bookmarklet-3oe3)
-- [JavaScript Function](https://dev.to/vikrant_shitole_182356d46/javascript-function-16jg)
-- [How a SERP Tracking API Can Take the Pain Out of Rank Monitoring](https://dev.to/kervi_11_/how-a-serp-tracking-api-can-take-the-pain-out-of-rank-monitoring-47j7)
-- [10 Opensource Projects Using Raspberry Pi and Python](https://dev.to/vishnu_kumar_02bb4aa2ab2e/10-opensource-projects-using-raspberry-pi-and-python-3hk3)
+- [Introducing Nile Auth for B2B apps](https://dev.to/sriramsub/introducing-nile-auth-for-b2b-apps-5jm)
+- [CamemBERT: RoBERTa’s French cousin. Trained on OSCAR/CCNet &lpar;32B+ tokens&rpar;. Perfect for NER, sentiment analysis, and custom NLP tasks. Try it! Code tutorial 👇👇](https://dev.to/alex-nguyen-duy-anh/camembert-robertas-french-cousin-trained-on-oscarccnet-32b-tokens-perfect-for-ner-5506)
+- [Building Software That Lasts: A Practical Guide to Clean Architecture](https://dev.to/mostafa_fatayri44/building-software-that-lasts-a-practical-guide-to-clean-architecture-1b9c)
+- [Alpha vs Beta Testing: Key Differences &amp; Best Practices](https://dev.to/keploy/alpha-vs-beta-testing-key-differences-best-practices-da0)
 <!-- BLOG-POST-LIST:END -->
 
 
