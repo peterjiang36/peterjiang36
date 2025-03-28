@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
-- [JavaScript Callback Functions - What are they and how to use them.](https://dev.to/logannford/javascript-callback-functions-what-are-they-and-how-to-use-them-30n4)
-- [鸿蒙开发：单一手势实现多次点击事件](https://dev.to/abnerming888/hong-meng-kai-fa-dan-shou-shi-shi-xian-duo-ci-dian-ji-shi-jian-4bgh)
-- [Why JSON Feels Like an Interpreter Between Services — And Why That’s Not Far Off](https://dev.to/harishankarr7/why-json-feels-like-an-interpreter-between-services-and-why-thats-not-far-off-5o3)
+- [Next.js vs Nest.js: Understanding the Difference](https://dev.to/codeparrot/nextjs-vs-nestjs-understanding-the-difference-ifi)
+- [🚀 Boost Your Workflow with CI/CD: A Step-by-Step Guide to Supercharge Development!](https://dev.to/dct_technology/boost-your-workflow-with-cicd-a-step-by-step-guide-to-supercharge-development-482i)
+- [downloadInBrowser function in Refine source code.](https://dev.to/ramunarasinga-11/downloadinbrowser-function-in-refine-source-code-327h)
+- [Designing a successful Application Security program: Strategies, Tips and Tools for the Best Performance](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-tips-and-tools-for-the-best-onc)
 <!-- BLOG-POST-LIST:END -->
 
 
