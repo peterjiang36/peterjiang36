@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parte 1: Criando um Sistema de Login com Google e JWT no Spring Boot](https://dev.to/uiratan/criando-um-sistema-de-login-com-google-e-jwt-no-spring-boot-23dc)
-- [165/365 | ¥10M Job Challenge - A Fast-Moving World](https://dev.to/kameken100/165365-y10m-job-challenge-a-fast-moving-world-e27)
-- [🌟Understandig the power of ConfigMaps and Secrets🌟](https://dev.to/anil_kumar_ff4f6ad3549983/understandig-the-power-of-configmaps-and-secrets-36l6)
-- [【结构设计】SolidWorks打开立创EDA的STEP文件、OBJ文件](https://dev.to/kisorge/jie-gou-she-ji-solidworksda-kai-li-chuang-edade-stepwen-jian-objwen-jian-3i45)
+- [Parte 2: Adicionando Usuários ao Sistema de Login com Google](https://dev.to/uiratan/parte-2-adicionando-usuarios-ao-sistema-de-login-com-google-1kc8)
+- [Hello, World!](https://dev.to/louay24/hello-world-3fon)
+- [Is Twitter Down Right Now? Here’s How I Figured It Out](https://dev.to/byteisper/is-twitter-down-right-now-heres-how-i-figured-it-out-567l)
+- [Operation Golden Arches: A Playful Hacker&#39;s Deep Dive into McDonald&#39;s Deal Exploits](https://dev.to/copyleftdev/operation-golden-arches-a-playful-hackers-deep-dive-into-mcdonalds-deal-exploits-363a)
 <!-- BLOG-POST-LIST:END -->
 
 
