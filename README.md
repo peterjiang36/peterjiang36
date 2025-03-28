@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parte 2: Adicionando Usuários ao Sistema de Login com Google](https://dev.to/uiratan/parte-2-adicionando-usuarios-ao-sistema-de-login-com-google-1kc8)
-- [Hello, World!](https://dev.to/louay24/hello-world-3fon)
-- [Is Twitter Down Right Now? Here’s How I Figured It Out](https://dev.to/byteisper/is-twitter-down-right-now-heres-how-i-figured-it-out-567l)
-- [Operation Golden Arches: A Playful Hacker&#39;s Deep Dive into McDonald&#39;s Deal Exploits](https://dev.to/copyleftdev/operation-golden-arches-a-playful-hackers-deep-dive-into-mcdonalds-deal-exploits-363a)
+- [Demystifying CSS Grid: A Comprehensive Guide for Modern Layouts](https://dev.to/louay24/demystifying-css-grid-a-comprehensive-guide-for-modern-layouts-2k5i)
+- [modelview](https://dev.to/rahul_d_69c56a981e11c6728/modelview-2fm1)
+- [【电机控制器】ESP32-C3语言模型——通义千问](https://dev.to/kisorge/dian-ji-kong-zhi-qi-esp32-c3yu-yan-mo-xing-tong-yi-qian-wen-4ab4)
+- [【电机控制器】PY32F00BF15U6TR-从KEIL5中计算资源消耗资源](https://dev.to/kisorge/dian-ji-kong-zhi-qi-py32f00bf15u6tr-cong-keil5zhong-ji-suan-zi-yuan-xiao-hao-zi-yuan-4a8e)
 <!-- BLOG-POST-LIST:END -->
 
 
