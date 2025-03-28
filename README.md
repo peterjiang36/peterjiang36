@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Automad No Longer Uses Any Frontend or Backend Framework](https://dev.to/marcantondahmen/why-automad-no-longer-uses-any-frontend-or-backend-framework-3pod)
-- [New AI Training Method Cuts Vision Model Development Time by 83% While Boosting Performance](https://dev.to/mikeyoung44/new-ai-training-method-cuts-vision-model-development-time-by-83-while-boosting-performance-m85)
-- [AI Search Method Boosts Answer Accuracy While Using Fewer Documents, Study Shows](https://dev.to/mikeyoung44/ai-search-method-boosts-answer-accuracy-while-using-fewer-documents-study-shows-fjn)
-- [Safe array handling? Never heard of it](https://dev.to/pvsdev/safe-array-handling-never-heard-of-it-22i7)
+- [Building AI-Powered Applications in Laravel with Neuron AI](https://dev.to/robin-ivi/building-ai-powered-applications-in-laravel-with-neuron-ai-3mc9)
+- [Which Should You Pick? Cloud vs DevOps](https://dev.to/oluwanifemi_loveth_1/which-should-you-pick-cloud-vs-devops-844)
+- [## 🦀 **Rust Series 1: From 0 to 1**](https://dev.to/daddy_chirag_eb27ab02abe0/-rust-series-1-from-0-to-1-hjb)
+- [How to Ensure SaaS App Security with DevOps](https://dev.to/madvit/how-to-ensure-saas-app-security-with-devops-4h59)
 <!-- BLOG-POST-LIST:END -->
 
 
