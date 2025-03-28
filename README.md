@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying CSS Grid: A Comprehensive Guide for Modern Layouts](https://dev.to/louay24/demystifying-css-grid-a-comprehensive-guide-for-modern-layouts-2k5i)
-- [modelview](https://dev.to/rahul_d_69c56a981e11c6728/modelview-2fm1)
-- [【电机控制器】ESP32-C3语言模型——通义千问](https://dev.to/kisorge/dian-ji-kong-zhi-qi-esp32-c3yu-yan-mo-xing-tong-yi-qian-wen-4ab4)
-- [【电机控制器】PY32F00BF15U6TR-从KEIL5中计算资源消耗资源](https://dev.to/kisorge/dian-ji-kong-zhi-qi-py32f00bf15u6tr-cong-keil5zhong-ji-suan-zi-yuan-xiao-hao-zi-yuan-4a8e)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2h4f)
+- [JavaScript Callback Functions - What are they and how to use them.](https://dev.to/logannford/javascript-callback-functions-what-are-they-and-how-to-use-them-30n4)
+- [鸿蒙开发：单一手势实现多次点击事件](https://dev.to/abnerming888/hong-meng-kai-fa-dan-shou-shi-shi-xian-duo-ci-dian-ji-shi-jian-4bgh)
+- [Why JSON Feels Like an Interpreter Between Services — And Why That’s Not Far Off](https://dev.to/harishankarr7/why-json-feels-like-an-interpreter-between-services-and-why-thats-not-far-off-5o3)
 <!-- BLOG-POST-LIST:END -->
 
 
