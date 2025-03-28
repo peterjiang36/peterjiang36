@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Symbol.species for Custom Object Creation](https://dev.to/omriluz1/symbolspecies-for-custom-object-creation-18ko)
-- [Retrieval-Augmented Generation in 2025: Solving LLM&#39;s Biggest Challenges](https://dev.to/genezio/retrieval-augmented-generation-in-2025-solving-llms-biggest-challenges-4d4i)
-- [HarmonyOS NEXT Practical: Counter](https://dev.to/victordeng/harmonyos-next-practical-counter-21ol)
-- [【C语言】程序性能优化——代码优化](https://dev.to/kisorge/cyu-yan-cheng-xu-xing-neng-you-hua-dai-ma-you-hua-jdl)
+- [Does AI really make you more productive?](https://dev.to/whitep4nth3r/does-ai-really-make-you-more-productive-pn1)
+- [How to use FastAPI for microservices in Python](https://dev.to/lukzmu/how-to-use-fastapi-for-microservices-in-python-20bp)
+- [timered-counter – An animated value change web component](https://dev.to/siaikin/timered-counter-an-animated-value-change-web-component-34lj)
+- [How to Design the Spine Using 3D CAD Software](https://dev.to/julia970/how-to-design-the-spine-using-3d-cad-software-2gm5)
 <!-- BLOG-POST-LIST:END -->
 
 
