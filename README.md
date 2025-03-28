@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs Nest.js: Understanding the Difference](https://dev.to/codeparrot/nextjs-vs-nestjs-understanding-the-difference-ifi)
-- [🚀 Boost Your Workflow with CI/CD: A Step-by-Step Guide to Supercharge Development!](https://dev.to/dct_technology/boost-your-workflow-with-cicd-a-step-by-step-guide-to-supercharge-development-482i)
-- [downloadInBrowser function in Refine source code.](https://dev.to/ramunarasinga-11/downloadinbrowser-function-in-refine-source-code-327h)
-- [Designing a successful Application Security program: Strategies, Tips and Tools for the Best Performance](https://dev.to/lynxfelony1/designing-a-successful-application-security-program-strategies-tips-and-tools-for-the-best-onc)
+- [🚀 React Devs, Level Up Your Skills! 💡](https://dev.to/mrkapi1/react-devs-level-up-your-skills-2fd0)
+- [【电机控制器】STC8H1K-从KEIL4中计算资源消耗资源](https://dev.to/kisorge/dian-ji-kong-zhi-qi-stc8h1k-cong-keil4zhong-ji-suan-zi-yuan-xiao-hao-zi-yuan-48na)
+- [【电机控制器】ESP32-C3芯片——PWM、ADC](https://dev.to/kisorge/dian-ji-kong-zhi-qi-esp32-c3xin-pian-pwm-adc-2bp)
+- [Boost Your Golang Development Efficiency with These Tools](https://dev.to/mattyedwards/boost-your-golang-development-efficiency-with-these-tools-3iai)
 <!-- BLOG-POST-LIST:END -->
 
 
