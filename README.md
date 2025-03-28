@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Nile Auth for B2B apps](https://dev.to/sriramsub/introducing-nile-auth-for-b2b-apps-5jm)
-- [CamemBERT: RoBERTa’s French cousin. Trained on OSCAR/CCNet &lpar;32B+ tokens&rpar;. Perfect for NER, sentiment analysis, and custom NLP tasks. Try it! Code tutorial 👇👇](https://dev.to/alex-nguyen-duy-anh/camembert-robertas-french-cousin-trained-on-oscarccnet-32b-tokens-perfect-for-ner-5506)
-- [Building Software That Lasts: A Practical Guide to Clean Architecture](https://dev.to/mostafa_fatayri44/building-software-that-lasts-a-practical-guide-to-clean-architecture-1b9c)
-- [Alpha vs Beta Testing: Key Differences &amp; Best Practices](https://dev.to/keploy/alpha-vs-beta-testing-key-differences-best-practices-da0)
+- [How to start using gRPC with PHP - Part 4/4](https://dev.to/getjv/how-to-start-using-grpc-with-php-part-44-42ki)
+- [Video streaming tutorial. Javascript webrtc streaming example 🌐LibreRemotePlay](https://dev.to/piterweb/video-streaming-tutorial-javascript-webrtc-streaming-example-libreremoteplay-l90)
+- [I Made a TUI in C... and regretted it](https://dev.to/kurealnum/i-made-a-tui-in-c-and-regretted-it-2gh5)
+- [Why Everyone* Should Learn About Cloud Computing and AI](https://dev.to/aws-builders/why-everyone-should-learn-about-cloud-computing-and-ai-37ch)
 <!-- BLOG-POST-LIST:END -->
 
 
