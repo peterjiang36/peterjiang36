@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PACELC Theorem in Distributed Databases](https://dev.to/devcorner/pacelc-theorem-in-distributed-databases-pfe)
-- [Java Class](https://dev.to/sudhakar_v_c404997aeec839/java-class-5coa)
-- [Why AI Agents in Web3 Desperately Need a Privacy Layer &lpar;and How Oasis Sapphire Solves It&rpar;](https://dev.to/caerlower/why-ai-agents-in-web3-desperately-need-a-privacy-layer-and-how-oasis-sapphire-solves-it-2e5g)
-- [TangoMan vscode-command-cycle: Simplify Your Workflow with Command Cycling in VSCode](https://dev.to/tangoman75/tangoman-vscode-command-cycle-simplify-your-workflow-with-command-cycling-in-vscode-4830)
+- [Struggling with Your Productivity Stack? Here’s My $0 Solution!](https://dev.to/randykip/struggling-with-your-productivity-stack-heres-my-0-solution-2pc5)
+- [Who is Richa Vaid](https://dev.to/richaavaid/who-is-richa-vaid-5gid)
+- [Google Chrome Won’t Open After a Hostname Change? Fix It With This One Line Command!](https://dev.to/shikarisohan/google-chrome-wont-open-after-a-hostname-change-fix-it-with-this-one-line-command-1k4d)
+- [Automate structured data extraction from PDF / Word by OpenAI and CocoIndex](https://dev.to/badmonster0/automate-structured-data-extraction-from-pdf-word-by-openai-and-cocoindex-d45)
 <!-- BLOG-POST-LIST:END -->
 
 
