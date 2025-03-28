@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is How Senior developers name their functions and variables](https://dev.to/coderosion/this-is-how-senior-developers-name-their-functions-and-variables-33jn)
-- [&quot;Unlocking 4D Scene Generation: The Future of Realistic Video Creation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-4d-scene-generation-the-future-of-realistic-video-creation-47pl)
-- [Daily JavaScript Challenge #JS-137: Flatten a Nested Object](https://dev.to/dpc/daily-javascript-challenge-js-137-flatten-a-nested-object-5b9k)
-- [Olá, Estou começando a aprender Desenvolvimento Web e Programação](https://dev.to/sofia_rebeca/ola-estou-comecando-a-aprender-desenvolvimento-web-e-programacao-3pci)
+- [Parte 1: Criando um Sistema de Login com Google e JWT no Spring Boot](https://dev.to/uiratan/criando-um-sistema-de-login-com-google-e-jwt-no-spring-boot-23dc)
+- [165/365 | ¥10M Job Challenge - A Fast-Moving World](https://dev.to/kameken100/165365-y10m-job-challenge-a-fast-moving-world-e27)
+- [🌟Understandig the power of ConfigMaps and Secrets🌟](https://dev.to/anil_kumar_ff4f6ad3549983/understandig-the-power-of-configmaps-and-secrets-36l6)
+- [【结构设计】SolidWorks打开立创EDA的STEP文件、OBJ文件](https://dev.to/kisorge/jie-gou-she-ji-solidworksda-kai-li-chuang-edade-stepwen-jian-objwen-jian-3i45)
 <!-- BLOG-POST-LIST:END -->
 
 
