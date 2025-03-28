@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Leaps and Grandma&#39;s Hugs, A Letter to My Beloved Grandma](https://dev.to/aniruddhaadak/quantum-leaps-and-grandmas-hugs-a-letter-to-my-beloved-grandma-jie)
-- [Creating Your First Isolated Linux Container with SSH Access: A Step-by-Step Guide](https://dev.to/mart_young_ce778e4c31eb33/creating-your-first-isolated-linux-container-with-ssh-access-a-step-by-step-guide-3j6h)
-- [Feeling overwhelmed setting up you first flutter project?](https://dev.to/techifydev/feeling-overwhelmed-setting-up-you-first-flutter-project-1poi)
-- [How I Found a Proxy List That Actually Works in 2025](https://dev.to/mjensen/how-i-found-a-proxy-list-that-actually-works-in-2025-5378)
+- [This is How Senior developers name their functions and variables](https://dev.to/coderosion/this-is-how-senior-developers-name-their-functions-and-variables-33jn)
+- [&quot;Unlocking 4D Scene Generation: The Future of Realistic Video Creation&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-4d-scene-generation-the-future-of-realistic-video-creation-47pl)
+- [Daily JavaScript Challenge #JS-137: Flatten a Nested Object](https://dev.to/dpc/daily-javascript-challenge-js-137-flatten-a-nested-object-5b9k)
+- [Olá, Estou começando a aprender Desenvolvimento Web e Programação](https://dev.to/sofia_rebeca/ola-estou-comecando-a-aprender-desenvolvimento-web-e-programacao-3pci)
 <!-- BLOG-POST-LIST:END -->
 
 
