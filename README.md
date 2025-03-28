@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwrite - Basics](https://dev.to/kiranuknow/playwrite-basics-2j58)
-- [Creating a Super-Agent to Manage Milk, Routes, Health &amp; Humans](https://dev.to/sriharikatta/creating-a-super-agent-to-manage-milk-routes-health-humans-20p8)
-- [Breaking Free from Webflow&#39;s Hosting Chains: Exporting Your Entire Site &lpar;Including CMS&rpar;](https://dev.to/ybouane/breaking-free-from-webflows-hosting-chains-exporting-your-entire-site-including-cms-19gf)
-- [Skyren DAO: Advanced Yield Tokenization and Dynamic Airdrop Farming](https://dev.to/skyrenfoundation/skyren-dao-advanced-yield-tokenization-and-dynamic-airdrop-farming-38bk)
+- [Add Authentication to your React App with Frontegg](https://dev.to/akdombrowski/add-authentication-to-your-react-app-with-frontegg-c6c)
+- [3D Animation: The Ultimate Game-Changer for your Website](https://dev.to/oyegoke/3d-animation-the-ultimate-game-changer-for-your-website-1570)
+- [How FlowForge™ Works: AI-Powered Time &amp; Energy Planning](https://dev.to/neurosync/how-flowforge-works-ai-powered-time-energy-planning-1eel)
+- [Agentic Coding &lpar;Vibe Coding&rpar; Best Practices](https://dev.to/timesurgelabs/agentic-coding-vibe-coding-best-practices-b4b)
 <!-- BLOG-POST-LIST:END -->
 
 
