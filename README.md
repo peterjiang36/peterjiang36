@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Idea Code App: My Build Story](https://dev.to/rafay99epic/idea-code-app-my-build-story-2075)
-- [How Can I migrate from Drupal 7 to Backdrop CMS?](https://dev.to/jaswinder_singh_06c383d52/how-can-i-migrate-from-drupal-7-to-backdrop-cms-37dj)
-- [✨ [21] - 🚀 Testing API Between React Native and Laravel Using Redux Saga](https://dev.to/skipperhoa/21-testing-api-between-react-native-and-laravel-using-redux-saga-15pm)
-- [✨ [20] - 🚀 Master Redux Saga for Efficient State Management in React Native 📱](https://dev.to/skipperhoa/20-master-redux-saga-for-efficient-state-management-in-react-native-39he)
+- [Why Automad No Longer Uses Any Frontend or Backend Framework](https://dev.to/marcantondahmen/why-automad-no-longer-uses-any-frontend-or-backend-framework-3pod)
+- [New AI Training Method Cuts Vision Model Development Time by 83% While Boosting Performance](https://dev.to/mikeyoung44/new-ai-training-method-cuts-vision-model-development-time-by-83-while-boosting-performance-m85)
+- [AI Search Method Boosts Answer Accuracy While Using Fewer Documents, Study Shows](https://dev.to/mikeyoung44/ai-search-method-boosts-answer-accuracy-while-using-fewer-documents-study-shows-fjn)
+- [Safe array handling? Never heard of it](https://dev.to/pvsdev/safe-array-handling-never-heard-of-it-22i7)
 <!-- BLOG-POST-LIST:END -->
 
 
