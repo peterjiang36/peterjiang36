@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling with Your Productivity Stack? Here’s My $0 Solution!](https://dev.to/randykip/struggling-with-your-productivity-stack-heres-my-0-solution-2pc5)
-- [Who is Richa Vaid](https://dev.to/richaavaid/who-is-richa-vaid-5gid)
-- [Google Chrome Won’t Open After a Hostname Change? Fix It With This One Line Command!](https://dev.to/shikarisohan/google-chrome-wont-open-after-a-hostname-change-fix-it-with-this-one-line-command-1k4d)
-- [Automate structured data extraction from PDF / Word by OpenAI and CocoIndex](https://dev.to/badmonster0/automate-structured-data-extraction-from-pdf-word-by-openai-and-cocoindex-d45)
+- [How to Use Wireframes for Better Team Collaboration](https://dev.to/taskframe/how-to-use-wireframes-for-better-team-collaboration-27mc)
+- [Key Strategies for Effective Records Management](https://dev.to/kara_masterson/key-strategies-for-effective-records-management-340h)
+- [10+ Best News APIs for Devs](https://dev.to/mattthehobbydev/10-best-news-apis-for-devs-1fdi)
+- [Mastering CSS Float Property for Modern Layouts](https://dev.to/thedevspace/mastering-css-float-property-for-modern-layouts-5bh7)
 <!-- BLOG-POST-LIST:END -->
 
 
