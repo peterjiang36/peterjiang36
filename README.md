@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Insights on GitHub Copilot for Developers](https://dev.to/vivekanandhanelavarasan/essential-insights-on-github-copilot-for-developers-4m0i)
-- [Understanding the Role of AI in Logistics](https://dev.to/adanaiden/understanding-the-role-of-ai-in-logistics-44i6)
-- [How to Scrape Walmart How to Scrape Walmart Product Page Details with Python?](https://dev.to/scraper0024/how-to-scrape-walmart-how-to-scrape-walmart-product-page-details-with-python-30gf)
-- [AI in Corporate Governance 2025: Transforming Decision-Making and Compliance](https://dev.to/priyankapandey/ai-in-corporate-governance-2025-transforming-decision-making-and-compliance-1lfe)
+- [Symbol.species for Custom Object Creation](https://dev.to/omriluz1/symbolspecies-for-custom-object-creation-18ko)
+- [Retrieval-Augmented Generation in 2025: Solving LLM&#39;s Biggest Challenges](https://dev.to/genezio/retrieval-augmented-generation-in-2025-solving-llms-biggest-challenges-4d4i)
+- [HarmonyOS NEXT Practical: Counter](https://dev.to/victordeng/harmonyos-next-practical-counter-21ol)
+- [【C语言】程序性能优化——代码优化](https://dev.to/kisorge/cyu-yan-cheng-xu-xing-neng-you-hua-dai-ma-you-hua-jdl)
 <!-- BLOG-POST-LIST:END -->
 
 
