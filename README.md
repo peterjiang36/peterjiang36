@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8.9 FlatMap](https://dev.to/fundamentosjava/89-flatmap-4pnk)
-- [8.8 Praticando o que aprendemos com java.nio.file.Files](https://dev.to/fundamentosjava/88-praticando-o-que-aprendemos-com-javaniofilefiles-5c0l)
-- [The Principle Analysis of Frontend Monitoring SDK](https://dev.to/woai3c/the-principle-analysis-of-frontend-monitoring-sdk-bpf)
-- [8.7 Streams primitivos e infinitos](https://dev.to/fundamentosjava/87-streams-primitivos-e-infinitos-10df)
+- [🚀 SEO Trends in 2025: What You Need to Know to Stay Ahead!](https://dev.to/dct_technology/seo-trends-in-2025-what-you-need-to-know-to-stay-ahead-23ij)
+- [Top 15 React useState Mistakes Every Developer Should Know](https://dev.to/myogeshchavan97/top-15-react-usestate-mistakes-every-developer-should-know-njg)
+- [🚀 Angular Signals: The Game-Changer for State Management!](https://dev.to/matin676/angular-signals-the-game-changer-for-state-management-4cdf)
+- [Navigating the Rails: A Developer&#39;s Deep Dive into Bangladesh Railway Timetables](https://dev.to/babynamenestlings_efe5ba9/navigating-the-rails-a-developers-deep-dive-into-bangladesh-railway-timetables-3jga)
 <!-- BLOG-POST-LIST:END -->
 
 
