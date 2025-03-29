@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust&#39;s Generic Associated Types: What is It?](https://dev.to/leapcell/rusts-generic-associated-types-what-is-it-1he2)
-- [The Future of AI-Assisted Software Development: Vibe Coding.](https://dev.to/williamdk/the-future-of-ai-assisted-software-development-vibe-coding-4blg)
-- [Building an Intelligent AI System for Dairy Farm Management: The FarmersMilk Story](https://dev.to/sriharikatta/building-an-intelligent-ai-system-for-dairy-farm-management-the-farmersmilk-story-php)
-- [Warp: O Terminal com IA que Todo Desenvolvedor Precisa Conhecer](https://dev.to/kc1t/warp-o-terminal-com-ia-que-todo-desenvolvedor-precisa-conhecer-5aac)
+- [Mejores prácticas para Amazon Inspector](https://dev.to/briansuarezsantiago/mejores-practicas-para-amazon-inspector-c05)
+- [How AI makes Linux fun!](https://dev.to/jeansen/how-ai-makes-linux-fun-30bf)
+- [WordPress MU Plugin that will automatically strip image metadata from uploaded images](https://dev.to/gbti-network/wordpress-mu-plugin-that-will-automatically-strip-image-metadata-from-uploaded-images-4994)
+- [React/Next.js vs CMS-based Platforms like WordPress and Magento: Which One is Right for Your Web Development Needs?*](https://dev.to/sameer007007/reactnextjs-vs-cms-based-platforms-like-wordpress-and-magento-which-one-is-right-for-your-web-1dag)
 <!-- BLOG-POST-LIST:END -->
 
 
