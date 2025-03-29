@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Events: Understanding, Debugging, and Optimizing Event Handling 🚀](https://dev.to/tejastn10/mastering-react-events-understanding-debugging-and-optimizing-event-handling-4kn0)
-- [Lynx Prototype Website Released...🐾](https://dev.to/signor_p/lynx-prototype-website-released-5ej3)
-- [modelsdevfg](https://dev.to/rahul_d_69c56a981e11c6728/modelsdevfg-23cp)
-- [Solving Image Path Issues in Subdirectory Deployments with Next.js + App Router + TypeScript](https://dev.to/_bc65c0ea08af6add2230/solving-image-path-issues-in-subdirectory-deployments-with-nextjs-app-router-typescript-1ld3)
+- [How to apply SSR in Vue.js project without Nuxt?🔥](https://dev.to/anthonymax/how-to-apply-ssr-in-vuejs-project-without-nuxt-587c)
+- [10 Useful Tools and Libraries for Python Developers](https://dev.to/paul_freeman/10-useful-tools-and-libraries-for-python-developers-2pi5)
+- [Introducing Cypress.stop&lpar;&rpar;](https://dev.to/s_chathuranga_j/introducing-cypressstop-15pb)
+- [What role does latent space play in Generative AI?](https://dev.to/shriyansh_iot_98734929139/what-role-does-latent-space-play-in-generative-ai-1p40)
 <!-- BLOG-POST-LIST:END -->
 
 
