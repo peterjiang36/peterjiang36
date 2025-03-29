@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚗 CSS Car Scroll Animation Using Trig.js](https://dev.to/idevgames/css-car-scroll-animation-using-trigjs-28ab)
-- [Wireframing for Beginners - 10 Tips to Get Started](https://dev.to/taskframe/wireframing-for-beginners-10-tips-to-get-started-1fk2)
-- [The AI Revolution in Software Engineering: What Stays, What Changes?](https://dev.to/vishal563/the-ai-revolution-in-software-engineering-what-stays-what-changes-3lc4)
-- [Building my first AI agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
+- [React Native Reanimated 3: The Ultimate Guide to High-Performance Animations in 2025 🚀](https://dev.to/erenelagz/react-native-reanimated-3-the-ultimate-guide-to-high-performance-animations-in-2025-4ae4)
+- [OAuth Authentication: Google, Facebook, GitHub Login via NODE JS &lpar;Backend&rpar;](https://dev.to/uniyalmanas/oauth-authentication-google-facebook-github-login-via-node-js-backend-22fg)
+- [Concurrency Showdown: Goroutines and Channels vs. C#&#39;s async/await and TPL](https://dev.to/syawqy/concurrency-showdown-goroutines-and-channels-vs-cs-asyncawait-and-tpl-32pb)
+- [Chart an Extensible Course with Helm](https://dev.to/aws-builders/chart-an-extensible-course-with-helm-2b9g)
 <!-- BLOG-POST-LIST:END -->
 
 
