@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Reanimated 3: The Ultimate Guide to High-Performance Animations in 2025 🚀](https://dev.to/erenelagz/react-native-reanimated-3-the-ultimate-guide-to-high-performance-animations-in-2025-4ae4)
-- [OAuth Authentication: Google, Facebook, GitHub Login via NODE JS &lpar;Backend&rpar;](https://dev.to/uniyalmanas/oauth-authentication-google-facebook-github-login-via-node-js-backend-22fg)
-- [Concurrency Showdown: Goroutines and Channels vs. C#&#39;s async/await and TPL](https://dev.to/syawqy/concurrency-showdown-goroutines-and-channels-vs-cs-asyncawait-and-tpl-32pb)
-- [Chart an Extensible Course with Helm](https://dev.to/aws-builders/chart-an-extensible-course-with-helm-2b9g)
+- [2818. Apply Operations to Maximize Score](https://dev.to/mdarifulhaque/2818-apply-operations-to-maximize-score-48dm)
+- [Convert into the studio Ghibli](https://dev.to/saniya_praveen_3732c6a9f6/convert-into-the-studio-ghibli-g9a)
+- [Security Comparison Of Best Web3 Wallets To Develop On](https://dev.to/thirdwebdeveloper/security-comparison-of-best-web3-wallets-to-develop-on-dof)
+- [High-Performance Secure Networking with RIOC](https://dev.to/mehrant/high-performance-secure-networking-with-rioc-3kco)
 <!-- BLOG-POST-LIST:END -->
 
 
