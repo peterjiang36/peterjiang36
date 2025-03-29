@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cost Categories with OU Structure](https://dev.to/shu85t/aws-cost-categories-with-ou-structure-61n)
-- [Building LiteLLM Plugins with `async_pre_call_hook` for Proxy Mode](https://dev.to/yigit-konur/building-litellm-plugins-with-asyncprecallhook-for-proxy-mode-3lp6)
-- [Understanding this in JavaScript: Common Pitfalls and Fixes](https://dev.to/alex_aslam/understanding-this-in-javascript-common-pitfalls-and-fixes-1nk0)
-- [Sorting Algorithms Made Visual – Feedback Needed!](https://dev.to/bokul_ahmed_ae041b6bc8cb8/sorting-algorithm-visualizer-interactive-learning-with-react-2jmo)
+- [Rust&#39;s Generic Associated Types: What is It?](https://dev.to/leapcell/rusts-generic-associated-types-what-is-it-1he2)
+- [The Future of AI-Assisted Software Development: Vibe Coding.](https://dev.to/williamdk/the-future-of-ai-assisted-software-development-vibe-coding-4blg)
+- [Building an Intelligent AI System for Dairy Farm Management: The FarmersMilk Story](https://dev.to/sriharikatta/building-an-intelligent-ai-system-for-dairy-farm-management-the-farmersmilk-story-php)
+- [Warp: O Terminal com IA que Todo Desenvolvedor Precisa Conhecer](https://dev.to/kc1t/warp-o-terminal-com-ia-que-todo-desenvolvedor-precisa-conhecer-5aac)
 <!-- BLOG-POST-LIST:END -->
 
 
