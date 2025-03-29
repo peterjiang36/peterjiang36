@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Performance Boost: Building Efficient Caching Systems From Scratch](https://dev.to/aaravjoshi/rust-performance-boost-building-efficient-caching-systems-from-scratch-7nb)
-- [Mastering JavaScript GraphQL Clients: 7 Advanced Techniques for Scalable Apps](https://dev.to/aaravjoshi/mastering-javascript-graphql-clients-7-advanced-techniques-for-scalable-apps-aom)
-- [Day 1: My Cloud Computing &amp; DevOps Journey Begins!](https://dev.to/gyaneshwer_jha_5cfc8e3f8f/day-1-my-cloud-computing-devops-journey-begins-8ie)
-- [ez-api – API development toolkit powered by TypeSpec](https://dev.to/rstanziale/ez-api-api-development-toolkit-powered-by-typespec-474)
+- [🚗 CSS Car Scroll Animation Using Trig.js](https://dev.to/idevgames/css-car-scroll-animation-using-trigjs-28ab)
+- [Wireframing for Beginners - 10 Tips to Get Started](https://dev.to/taskframe/wireframing-for-beginners-10-tips-to-get-started-1fk2)
+- [The AI Revolution in Software Engineering: What Stays, What Changes?](https://dev.to/vishal563/the-ai-revolution-in-software-engineering-what-stays-what-changes-3lc4)
+- [Building my first AI agent with NeuronAI and Ollama](https://dev.to/robertobutti/building-my-first-ai-agent-with-neuronai-and-ollama-2kdg)
 <!-- BLOG-POST-LIST:END -->
 
 
