@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to disable ember/no-empty-glimmer-component-classes](https://dev.to/michalbryxi/how-to-disable-emberno-empty-glimmer-component-classes-5fnc)
-- [How to Turn Your Nigerian Website into a Mobile App Without Breaking the Bank](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-turn-your-nigerian-website-into-a-mobile-app-without-breaking-the-bank-4m7)
-- [How Does Salesforce Make Money?](https://dev.to/niks_kirdak_47c783a80cbc7/how-does-salesforce-make-money-2gj2)
-- [Learning JavaScript Just Got Easier &lpar;Thanks to AI&rpar;](https://dev.to/d-libro-digital-skills/learning-javascript-just-got-easier-thanks-to-ai-1ial)
+- [Rust Performance Boost: Building Efficient Caching Systems From Scratch](https://dev.to/aaravjoshi/rust-performance-boost-building-efficient-caching-systems-from-scratch-7nb)
+- [Mastering JavaScript GraphQL Clients: 7 Advanced Techniques for Scalable Apps](https://dev.to/aaravjoshi/mastering-javascript-graphql-clients-7-advanced-techniques-for-scalable-apps-aom)
+- [Day 1: My Cloud Computing &amp; DevOps Journey Begins!](https://dev.to/gyaneshwer_jha_5cfc8e3f8f/day-1-my-cloud-computing-devops-journey-begins-8ie)
+- [ez-api – API development toolkit powered by TypeSpec](https://dev.to/rstanziale/ez-api-api-development-toolkit-powered-by-typespec-474)
 <!-- BLOG-POST-LIST:END -->
 
 
