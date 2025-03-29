@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Master JavaScript Operators &amp; Math Methods](https://dev.to/ebereplenty/master-javascript-operators-math-methods-5879)
-- [JavaFX Notepad Tutorial](https://dev.to/mklestil/javafx-notepad-tutorial-52hk)
-- [Tokenizing Nigerian Real Estate: How Blockchain is Changing Property Investment](https://dev.to/raji_moshood_ee3a4c2638f6/tokenizing-nigerian-real-estate-how-blockchain-is-changing-property-investment-2ojf)
-- [Models46](https://dev.to/rahul_d_69c56a981e11c6728/models46-n5n)
+- [Decade of Growth as a Software Engineer](https://dev.to/manideep_ami/decade-of-growth-as-a-software-engineer-3998)
+- [How to Change Name on Robinhood? [Complete Step-by-Step Guide]](https://dev.to/harry_potter_718d33cee12f/how-to-change-name-on-robinhood-complete-step-by-step-guide-ep0)
+- [Native vs. Cross-Platform App Development: The Best Choice for Nigerian Startups](https://dev.to/raji_moshood_ee3a4c2638f6/native-vs-cross-platform-app-development-the-best-choice-for-nigerian-startups-2k63)
+- [GITHUB !!!!!!!](https://dev.to/vipulsc1/github--agf)
 <!-- BLOG-POST-LIST:END -->
 
 
