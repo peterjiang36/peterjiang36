@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decade of Growth as a Software Engineer](https://dev.to/manideep_ami/decade-of-growth-as-a-software-engineer-3998)
-- [How to Change Name on Robinhood? [Complete Step-by-Step Guide]](https://dev.to/harry_potter_718d33cee12f/how-to-change-name-on-robinhood-complete-step-by-step-guide-ep0)
-- [Native vs. Cross-Platform App Development: The Best Choice for Nigerian Startups](https://dev.to/raji_moshood_ee3a4c2638f6/native-vs-cross-platform-app-development-the-best-choice-for-nigerian-startups-2k63)
-- [GITHUB !!!!!!!](https://dev.to/vipulsc1/github--agf)
+- [How to disable ember/no-empty-glimmer-component-classes](https://dev.to/michalbryxi/how-to-disable-emberno-empty-glimmer-component-classes-5fnc)
+- [How to Turn Your Nigerian Website into a Mobile App Without Breaking the Bank](https://dev.to/raji_moshood_ee3a4c2638f6/how-to-turn-your-nigerian-website-into-a-mobile-app-without-breaking-the-bank-4m7)
+- [How Does Salesforce Make Money?](https://dev.to/niks_kirdak_47c783a80cbc7/how-does-salesforce-make-money-2gj2)
+- [Learning JavaScript Just Got Easier &lpar;Thanks to AI&rpar;](https://dev.to/d-libro-digital-skills/learning-javascript-just-got-easier-thanks-to-ai-1ial)
 <!-- BLOG-POST-LIST:END -->
 
 
