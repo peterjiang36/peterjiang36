@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Container System from Scratch: Understanding the Magic Behind Docker](https://dev.to/nonso_echendu_001/building-a-container-system-from-scratch-understanding-the-magic-behind-docker-5fjn)
-- [The Single Post You Need to Learn the Basics of Flyte](https://dev.to/mohsenkamrani/the-single-post-you-need-to-learn-the-basics-of-flyte-48bo)
-- [Software Design Principles: Practical Implementation with User Roles](https://dev.to/jhonticonachambi/software-design-principles-practical-implementation-with-user-roles-45c5)
-- [Implementing an effective Application Security Programm: Strategies, techniques, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-programm-strategies-techniques-and-tools-for-2d39)
+- [Vibe Coding: The pretext to system failure](https://dev.to/tavershima/vibe-coding-the-pretext-to-system-failure-4i72)
+- [How to Reset AUTO_INCREMENT in MySQL After Deleting Rows](https://dev.to/tahsin000/how-to-reset-autoincrement-in-mysql-after-deleting-rows-n2k)
+- [Iframes and Back Navigation - How to Fix the Browser History Bug](https://dev.to/finalgirl321/iframes-and-back-navigation-how-to-fix-the-browser-history-bug-871)
+- [&quot;Unlocking Video Magic: Dive into Mobile-VideoGPT and VideoMage Innovations!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-video-magic-dive-into-mobile-videogpt-and-videomage-innovations-1fpo)
 <!-- BLOG-POST-LIST:END -->
 
 
