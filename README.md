@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2818. Apply Operations to Maximize Score](https://dev.to/mdarifulhaque/2818-apply-operations-to-maximize-score-48dm)
-- [Convert into the studio Ghibli](https://dev.to/saniya_praveen_3732c6a9f6/convert-into-the-studio-ghibli-g9a)
-- [Security Comparison Of Best Web3 Wallets To Develop On](https://dev.to/thirdwebdeveloper/security-comparison-of-best-web3-wallets-to-develop-on-dof)
-- [High-Performance Secure Networking with RIOC](https://dev.to/mehrant/high-performance-secure-networking-with-rioc-3kco)
+- [[FR] MapData App &lpar;un terrain de jeu full-stack&rpar;](https://dev.to/joaofelipefaria/fr-mapdata-app-un-terrain-de-jeu-full-stack-5a7j)
+- [What are Filter Keys on Windows 11?](https://dev.to/winsides/what-are-filter-keys-on-windows-11-32l4)
+- [Unpacking Go Channels: A Peek Under the Hood](https://dev.to/shrsv/unpacking-go-channels-a-peek-under-the-hood-2c42)
+- [MapData App &lpar;a full-stack playground&rpar;](https://dev.to/joaofelipefaria/mapdata-app-a-full-stack-playground-4kjk)
 <!-- BLOG-POST-LIST:END -->
 
 
