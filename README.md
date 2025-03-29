@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Users on Track: The Importance of Visible Progress in UX](https://dev.to/rijultp/keep-users-on-track-the-importance-of-visible-progress-in-ux-748)
-- [How to Deploy a LLM Locally and Make It Accessible from the Internet](https://dev.to/kimi_ene/how-to-deploy-a-llm-locally-and-make-it-accessible-from-the-internet-5a9e)
-- [🚀 Debouncing in JavaScript &amp; React — Make Your App Smoother!](https://dev.to/masterrj/debouncing-in-javascript-react-make-your-app-smoother-1j00)
-- [Leetcode 79 : Word Search](https://dev.to/rohithv07/leetcode-79-word-search-4b66)
+- [Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/david_oyewole/windows-subsystem-for-linux-wsl-2ef2)
+- [🔐 Linux, Locked and Loaded: A DevOps Primer Before I Git Going](https://dev.to/sandesh_4554e90f93cfe9641/linux-locked-and-loaded-a-devops-primer-before-i-git-going-4pjj)
+- [FastAPI: A Comprehensive Guide](https://dev.to/exson_joseph/fastapi-a-comprehensive-guide-22io)
+- [An API manager should be a catalyst](https://dev.to/flmailla/an-api-manager-should-be-a-catalyst-2d6m)
 <!-- BLOG-POST-LIST:END -->
 
 
