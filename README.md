@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Constructing Compliant and Resilient Cloud Infrastructure with Multi-Data Center Deployment](https://dev.to/devlinkstudios/constructing-compliant-and-resilient-cloud-infrastructure-with-multi-data-center-deployment-48np)
-- [Top 10 Full Stack Development Companies in India 2025](https://dev.to/achal_shanbhag_f3faffc0a6/top-10-full-stack-development-companies-in-india-2025-1l4l)
-- [What Modern Cloud Buyers Want in 2025: Rethinking Vendor Choice for SMBs and Startups:](https://dev.to/devlinkstudios/what-modern-cloud-buyers-want-in-2025-rethinking-vendor-choice-for-smbs-and-startups-1jai)
-- [Generative AI - A Beginner’s Guide with AWS](https://dev.to/vrajesh_jayswal_bb93052b6/generative-ai-a-beginners-guide-with-aws-47ei)
+- [How to Use Different SSH Keys for GitHub and Bitbucket on the Same Machine](https://dev.to/koushikweb/how-to-use-different-ssh-keys-for-github-and-bitbucket-on-the-same-machine-hf)
+- [Unpacking React Router v7.4: A Source Code Guided Tour](https://dev.to/kenn/unpacking-react-router-v74-a-source-code-guided-tour-47d4)
+- [What should you expect when collaborating with a professional Ludo game development company?](https://dev.to/jamie_sugar_952598da38817/what-should-you-expect-when-collaborating-with-a-professional-ludo-game-development-company-3d3e)
+- [Web3 is Too Fragmented. Here’s How We’re Fixing It.](https://dev.to/omniradhanexus/web3-is-too-fragmented-heres-how-were-fixing-it-4k0j)
 <!-- BLOG-POST-LIST:END -->
 
 
