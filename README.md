@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 SEO Trends in 2025: What You Need to Know to Stay Ahead!](https://dev.to/dct_technology/seo-trends-in-2025-what-you-need-to-know-to-stay-ahead-23ij)
-- [Top 15 React useState Mistakes Every Developer Should Know](https://dev.to/myogeshchavan97/top-15-react-usestate-mistakes-every-developer-should-know-njg)
-- [🚀 Angular Signals: The Game-Changer for State Management!](https://dev.to/matin676/angular-signals-the-game-changer-for-state-management-4cdf)
-- [Navigating the Rails: A Developer&#39;s Deep Dive into Bangladesh Railway Timetables](https://dev.to/babynamenestlings_efe5ba9/navigating-the-rails-a-developers-deep-dive-into-bangladesh-railway-timetables-3jga)
+- [Constructing Compliant and Resilient Cloud Infrastructure with Multi-Data Center Deployment](https://dev.to/devlinkstudios/constructing-compliant-and-resilient-cloud-infrastructure-with-multi-data-center-deployment-48np)
+- [Top 10 Full Stack Development Companies in India 2025](https://dev.to/achal_shanbhag_f3faffc0a6/top-10-full-stack-development-companies-in-india-2025-1l4l)
+- [What Modern Cloud Buyers Want in 2025: Rethinking Vendor Choice for SMBs and Startups:](https://dev.to/devlinkstudios/what-modern-cloud-buyers-want-in-2025-rethinking-vendor-choice-for-smbs-and-startups-1jai)
+- [Generative AI - A Beginner’s Guide with AWS](https://dev.to/vrajesh_jayswal_bb93052b6/generative-ai-a-beginners-guide-with-aws-47ei)
 <!-- BLOG-POST-LIST:END -->
 
 
