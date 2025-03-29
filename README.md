@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to apply SSR in Vue.js project without Nuxt?🔥](https://dev.to/anthonymax/how-to-apply-ssr-in-vuejs-project-without-nuxt-587c)
-- [10 Useful Tools and Libraries for Python Developers](https://dev.to/paul_freeman/10-useful-tools-and-libraries-for-python-developers-2pi5)
-- [Introducing Cypress.stop&lpar;&rpar;](https://dev.to/s_chathuranga_j/introducing-cypressstop-15pb)
-- [What role does latent space play in Generative AI?](https://dev.to/shriyansh_iot_98734929139/what-role-does-latent-space-play-in-generative-ai-1p40)
+- [🚀 Master JavaScript Operators &amp; Math Methods](https://dev.to/ebereplenty/master-javascript-operators-math-methods-5879)
+- [JavaFX Notepad Tutorial](https://dev.to/mklestil/javafx-notepad-tutorial-52hk)
+- [Tokenizing Nigerian Real Estate: How Blockchain is Changing Property Investment](https://dev.to/raji_moshood_ee3a4c2638f6/tokenizing-nigerian-real-estate-how-blockchain-is-changing-property-investment-2ojf)
+- [Models46](https://dev.to/rahul_d_69c56a981e11c6728/models46-n5n)
 <!-- BLOG-POST-LIST:END -->
 
 
