@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code For Viewing Driving License: A Simple Definition](https://dev.to/honeyhemp36/code-for-viewing-driving-license-a-simple-definition-597d)
-- [Code Comfort: Why Ergonomics is a Developer&#39;s Best Long-Term Investment](https://dev.to/simplr_sh/code-comfort-why-ergonomics-is-a-developers-best-long-term-investment-3ej3)
-- [This Is A Once-In-A-Lifetime Opportunity You Don’t Want To Miss](https://dev.to/myogeshchavan97/this-is-a-once-in-a-lifetime-opportunity-you-dont-want-to-miss-1ep4)
-- [On Usable Documentation](https://dev.to/tmarice/on-usable-documentation-ea1)
+- [Java Multithreading Explained: Concepts, Examples, and Best Practices](https://dev.to/tpointtechadu/java-multithreading-explained-concepts-examples-and-best-practices-491e)
+- [Unlocking the Power of Ruby on Rails Microservices for Scalable Applications](https://dev.to/jetthoughts/unlocking-the-power-of-ruby-on-rails-microservices-for-scalable-applications-4bcp)
+- [Exploring the Future of Innovation with Software Co: A Leader in Software Development](https://dev.to/jetthoughts/exploring-the-future-of-innovation-with-software-co-a-leader-in-software-development-2l4)
+- [Treasure Hunt: Digging Up Files in SharePoint](https://dev.to/otjake/treasure-hunt-digging-up-files-in-sharepoint-i4f)
 <!-- BLOG-POST-LIST:END -->
 
 
