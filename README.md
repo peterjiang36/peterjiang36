@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Your Git Workspace on a PC](https://dev.to/theoriginalbpc/how-to-set-up-your-git-workspace-on-a-pc-414e)
-- [Designing for Flexibility: Reducing Cloud Lock-In in Legacy Systems](https://dev.to/sergiorf/designing-for-flexibility-reducing-cloud-lock-in-in-legacy-systems-3obj)
-- [12 เครื่องมือ Debug Kubernetes เจ๋งๆ ที่ควรต้องมีติดมือไว้](https://dev.to/mongkol_tho/12-ekhruuengmuue-debug-kubernetes-ecchng-thiikhwrtngmiitidmuueaiw-1pla)
-- [smart Habit Tracker](https://dev.to/hussein_osman_5c4bbe33c6d/building-better-habits-with-habit-tracker-2fcl)
+- [Your Next.js website might be hacked, ChatGPT-4o Image Generation, State of Vue.js 2025, and more](https://dev.to/thisweekinjavascript/your-nextjs-website-might-be-hacked-chatgpt-4o-image-generation-state-of-vuejs-2025-and-more-15ep)
+- [log_001 — Junior, or just a label?](https://dev.to/rhno_obs/log001-junior-or-just-a-label-19j7)
+- [The Detailed Execution Pipeline of .NET](https://dev.to/shreyans_padmani/the-detailed-execution-pipeline-of-net-1k5b)
+- [Balancing Work and Learning: How to Keep Up With New Tech Without Overloading Yourself](https://dev.to/byte-sized-news/balancing-work-and-learning-how-to-keep-up-with-new-tech-without-overloading-yourself-pjc)
 <!-- BLOG-POST-LIST:END -->
 
 
