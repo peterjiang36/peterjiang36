@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for a Technical Interview as an SDET](https://dev.to/marcos_galeano/how-to-prepare-for-a-technical-interview-as-an-sdet-1b60)
-- [Terraform for DevOps: Managing State &amp; Remote Backends &lpar;Part 3&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-state-remote-backends-part-3-12g6)
-- [Carousels, form validation, asyncronicity and APIs...](https://dev.to/codecara/carousels-form-validation-asyncronicity-and-apis-41p0)
-- [Symfony Station Communiqué — 28 March 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-28-march-2025-a-look-at-symfony-drupal-php-and-other-programming-2d4j)
+- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
+- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
+- [We struggled at $1k MRR for a year… then hit $1k MRR in 2 weeks &lpar;and here&#39;s why&rpar;](https://dev.to/hugo_theindiesaas/we-struggled-at-1k-mrr-for-a-year-then-hit-1k-mrr-in-2-weeks-and-heres-why-2a0p)
+- [Deploy A Simple Cat Website to Azure 🐱](https://dev.to/saisha_goel/deploy-a-simple-cat-website-to-azure-8d)
 <!-- BLOG-POST-LIST:END -->
 
 
