@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [hmm](https://dev.to/bxl/hmm-dc7)
-- [Improving Eloquent for real: test setup](https://dev.to/xwero/improving-eloquent-for-real-test-setup-1p0c)
-- [Dockerizing a Candy Crush Clone: Three Approaches for Efficiency and Security](https://dev.to/surendergupta/dockerizing-a-candy-crush-clone-three-approaches-for-efficiency-and-security-129n)
-- [Tutorial 6: Model-View-Controller &lpar;MVC&rpar; in iOS - Building the Dad Joke Machine App](https://dev.to/cl0udleadanis/tutorial-6-model-view-controller-mvc-in-ios-building-the-dad-joke-machine-app-g1e)
+- [AWS Solution Architect- Associate: Important Topics](https://dev.to/afshan/aws-solution-architect-associate-important-topics-28gn)
+- [Tutorial 11: Introduction to SwiftUI: Building Modern Apps](https://dev.to/cl0udleadanis/tutorial-11-introduction-to-swiftui-building-modern-apps-3f5h)
+- [Peran Guru dalam Meningkatkan Kemampuan Bahasa dan Literasi di Sekolah](https://dev.to/eduzone_network/peran-guru-dalam-meningkatkan-kemampuan-bahasa-dan-literasi-di-sekolah-3g58)
+- [Mobile App Usability Testing: A Step-by-Step Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/mobile-app-usability-testing-a-step-by-step-guide-56hp)
 <!-- BLOG-POST-LIST:END -->
 
 
