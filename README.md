@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #13-2025: AI, React, PHPxTKY meetup and More](https://dev.to/weekly/weekly-13-2025-ai-react-phpxtky-meetup-and-more-23n9)
-- [Going beyond the docs: Story of fixing the third-party code](https://dev.to/aloisseckar/going-beyond-the-docs-2lff)
-- [Construyendo un BFF en Go con OpenAPI: Casos de Uso y Buenas Prácticas](https://dev.to/devjaime/construyendo-un-bff-en-go-con-openapi-casos-de-uso-y-buenas-practicas-39ag)
-- [Navigating Brownfield Environments in AWS: Steps for Successful Cloud Use](https://dev.to/aws-builders/navigating-brownfield-environments-in-aws-steps-for-successful-cloud-use-4l9n)
+- [🌟 When Your Code Works but You Have No Idea Why 🤔](https://dev.to/hanzla-baig/when-your-code-works-but-you-have-no-idea-why-47i)
+- [My WeCoded Landing Page](https://dev.to/imamdev_/my-wecoded-landing-page-d5i)
+- [🌟 Stop Using Bootstrap: Here’s Why Tailwind CSS Is Better 🚀](https://dev.to/hanzla-baig/stop-using-bootstrap-heres-why-tailwind-css-is-better-2jih)
+- [168/365 - IPA Exam](https://dev.to/kameken100/168365-ipa-exam-587e)
 <!-- BLOG-POST-LIST:END -->
 
 
