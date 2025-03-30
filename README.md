@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I differentiate between padding and margin](https://dev.to/sampath_kumar_04fa9e262b9/how-i-differentiate-between-padding-and-margin-2cla)
-- [Junior Dev Mistakes: What I Wish I Knew Sooner](https://dev.to/sihantawsik/junior-dev-mistakes-what-i-wish-i-knew-sooner-amd)
-- [The Power of calc&lpar;&rpar; – Your CSS Playbook to Victory](https://dev.to/gerryleonugroho/the-power-of-calc-your-css-playbook-to-victory-ign)
-- [How to Create Excalidraw Animations with Excalidraw Smart Presentation](https://dev.to/justin3go/how-to-create-excalidraw-animations-with-excalidraw-smart-presentation-3n16)
+- [hmm](https://dev.to/bxl/hmm-dc7)
+- [Improving Eloquent for real: test setup](https://dev.to/xwero/improving-eloquent-for-real-test-setup-1p0c)
+- [Dockerizing a Candy Crush Clone: Three Approaches for Efficiency and Security](https://dev.to/surendergupta/dockerizing-a-candy-crush-clone-three-approaches-for-efficiency-and-security-129n)
+- [Tutorial 6: Model-View-Controller &lpar;MVC&rpar; in iOS - Building the Dad Joke Machine App](https://dev.to/cl0udleadanis/tutorial-6-model-view-controller-mvc-in-ios-building-the-dad-joke-machine-app-g1e)
 <!-- BLOG-POST-LIST:END -->
 
 
