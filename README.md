@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Software Engineer’s 2-Day Learning Project.Next.js, Zustand, and WebSockets: My Open-Source Instagram Clone Built in 48 Hours](https://dev.to/caleb82/a-software-engineers-2-day-learning-projectnextjs-zustand-and-websockets-my-open-source-2aih)
-- [Why Regression Testing is Crucial for Enterprise Software Development](https://dev.to/anil_csimplifyit_905c/why-regression-testing-is-crucial-for-enterprise-software-development-4abl)
-- [Machine learning](https://dev.to/ronaldofelp/machine-learning-1kj9)
-- [Public mdBooks](https://dev.to/szabgab/public-mdbooks-cp7)
+- [Mentoring, Growth, and the Power of Humility in Tech](https://dev.to/mmabiaa/mentoring-growth-and-the-power-of-humility-in-tech-32am)
+- [Reducing Cloud Waste in SaaS Companies](https://dev.to/piya__c204c9e90/reducing-cloud-waste-in-saas-companies-4m69)
+- [Java Comparable](https://dev.to/neelakandan_ravi_2000/java-comparable-2bmc)
+- [Building a Live RBAC Explorer for GraphQL: Visualize Access by Role in Real-Time](https://dev.to/crud5th-273-/building-a-live-rbac-explorer-for-graphql-visualize-access-by-role-in-real-time-4hk6)
 <!-- BLOG-POST-LIST:END -->
 
 
