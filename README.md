@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mentoring, Growth, and the Power of Humility in Tech](https://dev.to/mmabiaa/mentoring-growth-and-the-power-of-humility-in-tech-32am)
-- [Reducing Cloud Waste in SaaS Companies](https://dev.to/piya__c204c9e90/reducing-cloud-waste-in-saas-companies-4m69)
-- [Java Comparable](https://dev.to/neelakandan_ravi_2000/java-comparable-2bmc)
-- [Building a Live RBAC Explorer for GraphQL: Visualize Access by Role in Real-Time](https://dev.to/crud5th-273-/building-a-live-rbac-explorer-for-graphql-visualize-access-by-role-in-real-time-4hk6)
+- [5 Awesome Nextcloud Alternatives](https://dev.to/code42cate/5-awesome-nextcloud-alternatives-79d)
+- [Steps to Deploy Angular Application on EC2](https://dev.to/josephngabo/steps-to-deploy-angular-application-on-ec2-18mh)
+- [Why ProblemSolving Skills Matter More Than Programming Languages](https://dev.to/kritrim_dhi/why-problemsolving-skills-matter-more-than-programming-languages-3lb1)
+- [Migrating to Node.js Web Streams? Benchmark First!](https://dev.to/ghassenrjab/migrating-to-nodejs-web-streams-benchmark-first-2cp1)
 <!-- BLOG-POST-LIST:END -->
 
 
