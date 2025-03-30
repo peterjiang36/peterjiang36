@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Awesome Nextcloud Alternatives](https://dev.to/code42cate/5-awesome-nextcloud-alternatives-79d)
-- [Steps to Deploy Angular Application on EC2](https://dev.to/josephngabo/steps-to-deploy-angular-application-on-ec2-18mh)
-- [Why ProblemSolving Skills Matter More Than Programming Languages](https://dev.to/kritrim_dhi/why-problemsolving-skills-matter-more-than-programming-languages-3lb1)
-- [Migrating to Node.js Web Streams? Benchmark First!](https://dev.to/ghassenrjab/migrating-to-nodejs-web-streams-benchmark-first-2cp1)
+- [Weekly #13-2025: AI, React, PHPxTKY meetup and More](https://dev.to/weekly/weekly-13-2025-ai-react-phpxtky-meetup-and-more-23n9)
+- [Going beyond the docs: Story of fixing the third-party code](https://dev.to/aloisseckar/going-beyond-the-docs-2lff)
+- [Construyendo un BFF en Go con OpenAPI: Casos de Uso y Buenas Prácticas](https://dev.to/devjaime/construyendo-un-bff-en-go-con-openapi-casos-de-uso-y-buenas-practicas-39ag)
+- [Navigating Brownfield Environments in AWS: Steps for Successful Cloud Use](https://dev.to/aws-builders/navigating-brownfield-environments-in-aws-steps-for-successful-cloud-use-4l9n)
 <!-- BLOG-POST-LIST:END -->
 
 
