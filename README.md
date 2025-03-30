@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 When Your Code Works but You Have No Idea Why 🤔](https://dev.to/hanzla-baig/when-your-code-works-but-you-have-no-idea-why-47i)
-- [My WeCoded Landing Page](https://dev.to/imamdev_/my-wecoded-landing-page-d5i)
-- [🌟 Stop Using Bootstrap: Here’s Why Tailwind CSS Is Better 🚀](https://dev.to/hanzla-baig/stop-using-bootstrap-heres-why-tailwind-css-is-better-2jih)
-- [168/365 - IPA Exam](https://dev.to/kameken100/168365-ipa-exam-587e)
+- [F*ck distraction. Just jot down the things.](https://dev.to/abdibrokhim/fck-distraction-just-jot-down-the-things-3ob)
+- [AWS: Powering the Future of Data Science](https://dev.to/aws-builders/aws-powering-the-future-of-data-science-2e1b)
+- [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
+- [🔥 The ULTIMATE Guide to Writing VIRAL Posts on Dev.to 🌟](https://dev.to/hanzla-baig/the-ultimate-guide-to-writing-viral-posts-on-devto-59h3)
 <!-- BLOG-POST-LIST:END -->
 
 
