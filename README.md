@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solution Architect- Associate: Important Topics](https://dev.to/afshan/aws-solution-architect-associate-important-topics-28gn)
-- [Tutorial 11: Introduction to SwiftUI: Building Modern Apps](https://dev.to/cl0udleadanis/tutorial-11-introduction-to-swiftui-building-modern-apps-3f5h)
-- [Peran Guru dalam Meningkatkan Kemampuan Bahasa dan Literasi di Sekolah](https://dev.to/eduzone_network/peran-guru-dalam-meningkatkan-kemampuan-bahasa-dan-literasi-di-sekolah-3g58)
-- [Mobile App Usability Testing: A Step-by-Step Guide](https://dev.to/radha_4c842d8e4362a7cdd9c/mobile-app-usability-testing-a-step-by-step-guide-56hp)
+- [A Software Engineer’s 2-Day Learning Project.Next.js, Zustand, and WebSockets: My Open-Source Instagram Clone Built in 48 Hours](https://dev.to/caleb82/a-software-engineers-2-day-learning-projectnextjs-zustand-and-websockets-my-open-source-2aih)
+- [Why Regression Testing is Crucial for Enterprise Software Development](https://dev.to/anil_csimplifyit_905c/why-regression-testing-is-crucial-for-enterprise-software-development-4abl)
+- [Machine learning](https://dev.to/ronaldofelp/machine-learning-1kj9)
+- [Public mdBooks](https://dev.to/szabgab/public-mdbooks-cp7)
 <!-- BLOG-POST-LIST:END -->
 
 
