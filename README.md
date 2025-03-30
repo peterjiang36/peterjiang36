@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing Satellite Missions: The Future of Gravity Field Recovery&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-satellite-missions-the-future-of-gravity-field-recovery-4bkc)
-- [Fixing a regression with git bisect](https://dev.to/uday-rana/taking-git-bisect-for-a-spin-c05)
-- [The Lie of Free Data: My Experience with Common Crawl](https://dev.to/chippytech/the-lie-of-free-data-my-experience-with-common-crawl-5b6)
-- [The future is coming: how technology is making the world cooler!](https://dev.to/wesleybertipaglia/the-future-is-going-to-be-amazing-35d)
+- [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
+- [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
+- [Superintelligence: Choosing Life](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligence-choosing-life-9ni)
+- [Understanding Cyclomatic Complexity in Go: A Comprehensive Guide](https://dev.to/l_walid/understanding-cyclomatic-complexity-in-go-a-comprehensive-guide-2lpl)
 <!-- BLOG-POST-LIST:END -->
 
 
