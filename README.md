@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Word Counter – Analyze Your Text Instantly](https://dev.to/kobusbredell/word-counter-analyze-your-text-instantly-164k)
-- [The Evolution of Web Component Modules in Raku: A Journey of Diverse Approaches](https://dev.to/fco/the-evolution-of-web-component-modules-in-raku-a-journey-of-diverse-approaches-1i7g)
-- [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
-- [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
+- [0. Dear Everyone](https://dev.to/lukeshim/0-dear-everyone-4ggg)
+- [AWS Three-Tier Architecture](https://dev.to/harshad_dpt/aws-three-tier-architecture-3kki)
+- [CSS Grid vs. Flexbox: How to Choose the Right Tool for Your Layout](https://dev.to/code_2/css-grid-vs-flexbox-how-to-choose-the-right-tool-for-your-layout-3nl0)
+- [Edge Security Showdown: Vercel Firewall vs. Cloudflare - Protecting Your Modern Web App](https://dev.to/simplr_sh/edge-security-showdown-vercel-firewall-vs-cloudflare-protecting-your-modern-web-app-29m0)
 <!-- BLOG-POST-LIST:END -->
 
 
