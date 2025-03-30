@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Next.js website might be hacked, ChatGPT-4o Image Generation, State of Vue.js 2025, and more](https://dev.to/thisweekinjavascript/your-nextjs-website-might-be-hacked-chatgpt-4o-image-generation-state-of-vuejs-2025-and-more-15ep)
-- [log_001 — Junior, or just a label?](https://dev.to/rhno_obs/log001-junior-or-just-a-label-19j7)
-- [The Detailed Execution Pipeline of .NET](https://dev.to/shreyans_padmani/the-detailed-execution-pipeline-of-net-1k5b)
-- [Balancing Work and Learning: How to Keep Up With New Tech Without Overloading Yourself](https://dev.to/byte-sized-news/balancing-work-and-learning-how-to-keep-up-with-new-tech-without-overloading-yourself-pjc)
+- [How to Prepare for a Technical Interview as an SDET](https://dev.to/marcos_galeano/how-to-prepare-for-a-technical-interview-as-an-sdet-1b60)
+- [Terraform for DevOps: Managing State &amp; Remote Backends &lpar;Part 3&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-state-remote-backends-part-3-12g6)
+- [Carousels, form validation, asyncronicity and APIs...](https://dev.to/codecara/carousels-form-validation-asyncronicity-and-apis-41p0)
+- [Symfony Station Communiqué — 28 March 2025 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-28-march-2025-a-look-at-symfony-drupal-php-and-other-programming-2d4j)
 <!-- BLOG-POST-LIST:END -->
 
 
