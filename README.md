@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ember Essence](https://dev.to/wlegard/ember-essence-16mf)
-- [Understanding Operating System concepts](https://dev.to/leadpresence/understanding-operating-system-concepts-41e9)
-- [We struggled at $1k MRR for a year… then hit $1k MRR in 2 weeks &lpar;and here&#39;s why&rpar;](https://dev.to/hugo_theindiesaas/we-struggled-at-1k-mrr-for-a-year-then-hit-1k-mrr-in-2-weeks-and-heres-why-2a0p)
-- [Deploy A Simple Cat Website to Azure 🐱](https://dev.to/saisha_goel/deploy-a-simple-cat-website-to-azure-8d)
+- [Comprehensive Guide for Understanding the Self-Taught Web Developer Path in 2025](https://dev.to/shadbalti/comprehensive-guide-for-understanding-the-self-taught-web-developer-path-in-2025-32ng)
+- [How to Escape Callback Hell in JavaScript: A Developer’s Guide](https://dev.to/alex_aslam/how-to-escape-callback-hell-in-javascript-a-developers-guide-2hpm)
+- [Unleash Your Inner Inventor: Discover Endless Arduino Uno Project Ideas! 🚀](https://dev.to/wildshark/unleash-your-inner-inventor-discover-endless-arduino-uno-project-ideas-1k06)
+- [Install psql in WSL](https://dev.to/drsimplegraffiti/install-psql-in-wsl-1hll)
 <!-- BLOG-POST-LIST:END -->
 
 
