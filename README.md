@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Multithreading Explained: Concepts, Examples, and Best Practices](https://dev.to/tpointtechadu/java-multithreading-explained-concepts-examples-and-best-practices-491e)
-- [Unlocking the Power of Ruby on Rails Microservices for Scalable Applications](https://dev.to/jetthoughts/unlocking-the-power-of-ruby-on-rails-microservices-for-scalable-applications-4bcp)
-- [Exploring the Future of Innovation with Software Co: A Leader in Software Development](https://dev.to/jetthoughts/exploring-the-future-of-innovation-with-software-co-a-leader-in-software-development-2l4)
-- [Treasure Hunt: Digging Up Files in SharePoint](https://dev.to/otjake/treasure-hunt-digging-up-files-in-sharepoint-i4f)
+- [V8 Engine Optimization Techniques](https://dev.to/omriluz1/v8-engine-optimization-techniques-1bcd)
+- [Auto-Scaling Web Application with CI/CD Pipeline on AWS](https://dev.to/akuphe-devops/auto-scaling-web-application-with-cicd-pipeline-on-aws-4gm4)
+- [5 Awesome ownCloud Alternatives to consider in 2025](https://dev.to/code42cate/5-awesome-owncloud-alternatives-to-consider-in-2025-1oa)
+- [🔐 Secure Password Manager: A Modern Tkinter-Based Solution for Safeguarding Your Credentials](https://dev.to/srijan-xi/secure-password-manager-a-modern-tkinter-based-solution-for-safeguarding-your-credentials-1blc)
 <!-- BLOG-POST-LIST:END -->
 
 
