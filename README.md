@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [0. Dear Everyone](https://dev.to/lukeshim/0-dear-everyone-4ggg)
-- [AWS Three-Tier Architecture](https://dev.to/harshad_dpt/aws-three-tier-architecture-3kki)
-- [CSS Grid vs. Flexbox: How to Choose the Right Tool for Your Layout](https://dev.to/code_2/css-grid-vs-flexbox-how-to-choose-the-right-tool-for-your-layout-3nl0)
-- [Edge Security Showdown: Vercel Firewall vs. Cloudflare - Protecting Your Modern Web App](https://dev.to/simplr_sh/edge-security-showdown-vercel-firewall-vs-cloudflare-protecting-your-modern-web-app-29m0)
+- [Automating Server Deployments with GitHub Actions: Saving Time with SSH &amp; rsync 🚀](https://dev.to/mdrobin45r/automating-server-deployments-with-github-actions-saving-time-with-ssh-rsync-95e)
+- [🚀 Understanding Next.js Hydration Errors: Causes &amp; Fixes](https://dev.to/mdrobin45r/understanding-nextjs-hydration-errors-causes-fixes-463k)
+- [dotenvx, almost perfect replacement for dotenv](https://dev.to/kenn/dotenvx-almost-perfect-replacement-for-dotenv-13jl)
+- [From Beginner to Builder: My Journey Learning JavaScript with The Odin Project](https://dev.to/munene254_/from-beginner-to-builder-my-journey-learning-javascript-with-the-odin-project-1cod)
 <!-- BLOG-POST-LIST:END -->
 
 
