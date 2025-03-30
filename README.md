@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Word Counter – Analyze Your Text Instantly](https://dev.to/kobusbredell/word-counter-analyze-your-text-instantly-164k)
+- [The Evolution of Web Component Modules in Raku: A Journey of Diverse Approaches](https://dev.to/fco/the-evolution-of-web-component-modules-in-raku-a-journey-of-diverse-approaches-1i7g)
 - [Introducing Inboto: Your AI Copilot for Effortless Email Support](https://dev.to/jianping_liu/introducing-inboto-your-ai-copilot-for-effortless-email-support-4987)
 - [DevOps Made Simple: A Beginner’s Guide to Landing a DevOps Internship](https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-landing-a-devops-internship-4ch6)
-- [Superintelligence: Choosing Life](https://dev.to/i_g_f7eb0420f3daf5a22bee1/superintelligence-choosing-life-9ni)
-- [Understanding Cyclomatic Complexity in Go: A Comprehensive Guide](https://dev.to/l_walid/understanding-cyclomatic-complexity-in-go-a-comprehensive-guide-2lpl)
 <!-- BLOG-POST-LIST:END -->
 
 
