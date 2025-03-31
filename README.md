@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Aviation News Hub: A Tech Enthusiast&#39;s Journey](https://dev.to/drarondare045/building-an-aviation-news-hub-a-tech-enthusiasts-journey-4p7h)
-- [Daily JavaScript Challenge #JS-139: Determine Leap Year](https://dev.to/dpc/daily-javascript-challenge-js-139-determine-leap-year-131a)
-- [Creating In PatchWorld XR](https://dev.to/dcs-ink/creating-in-patchworld-xr-1c91)
-- [Comparing LEGO SPIKE Prime Programming: Which Is Best for Robotics Competitions? - 4 : Color Detection Accuracy](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-4-color-48pe)
+- [Playing with The DOM](https://dev.to/jasec7/playing-with-the-dom-4lg)
+- [2551. Put Marbles in Bags](https://dev.to/mdarifulhaque/2551-put-marbles-in-bags-4mla)
+- [Building AI-Driven Augmented Reality Experiences](https://dev.to/kartikmehta8/building-ai-driven-augmented-reality-experiences-40k1)
+- [Terraform for DevOps: Variables, Outputs, and Dynamic Workflows &lpar;Part 4&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-variables-outputs-and-dynamic-workflows-part-4-dpc)
 <!-- BLOG-POST-LIST:END -->
 
 
