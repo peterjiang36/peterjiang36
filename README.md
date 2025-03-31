@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Comprehensions in Python – The Pythonic Way to Build Data Structures](https://dev.to/nkpydev/mastering-comprehensions-in-python-the-pythonic-way-to-build-data-structures-3mfd)
-- [Will AI Replace Programmers or Empower Them](https://dev.to/gocodeo/will-ai-replace-programmers-or-empower-them-5gi3)
-- [log_002 — Junior in the Header, Senior in the Soul](https://dev.to/rhno_obs/log002-junior-in-the-header-senior-in-the-soul-c67)
-- [Guide to Choosing the Right Stainless Steel Lunch Box for Your Needs](https://dev.to/speedexind/guide-to-choosing-the-right-stainless-steel-lunch-box-for-your-needs-ib3)
+- [Does Gemini Generate Accessible App Code?](https://dev.to/eevajonnapanula/does-gemini-generate-accessible-app-code-3im7)
+- [GitHub Metrics Dashboard &lpar;Pulumi &amp; Grafana&rpar;](https://dev.to/adonaitechnologies/github-metrics-dashboard-pulumi-grafana-3j0e)
+- [The Rising Threat of DDoS Attacks: What You Need to Know](https://dev.to/khamal22/the-rising-threat-of-ddos-attacks-what-you-need-to-know-223i)
+- [AWS security](https://dev.to/chandu_ariketi/aws-security-hg0)
 <!-- BLOG-POST-LIST:END -->
 
 
