@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What happened isn&#39;t the point. How you respond is.](https://dev.to/adatole/what-happened-isnt-the-point-how-you-respond-is-29ip)
-- [Wasting Space! Master the Art of SEO-Optimized Content Snippets &lpar;Your Quick-Win Guide!&rpar;](https://dev.to/seosiri/wasting-space-master-the-art-of-seo-optimized-content-snippets-your-quick-win-guide-3nna)
-- [Ghibliart.ai: A Game-Changer for AI Art Lovers](https://dev.to/fredai/ghibliartai-a-game-changer-for-ai-art-lovers-l11)
-- [3-Tier Architecture &lpar;Part-1&rpar;](https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9)
+- [Missed the Last 10 Years of C#? Read This Quick Catch-up Guide](https://dev.to/canro91/missed-the-last-10-years-of-c-read-this-quick-catch-up-guide-38ih)
+- [Realtime shape detection using Opencv and Python🐍](https://dev.to/sripadh_sujith_1487e8db18/realtime-shape-detection-using-opencv-and-python-3bd2)
+- [My Introduction](https://dev.to/bhanu_tejakonduru_2f8252/my-introduction-2bgg)
+- [🦀 Rust Series 2: Control Flow, Functions, and Ownership](https://dev.to/imchiragkumar/-rust-series-2-control-flow-functions-and-ownership-3gg4)
 <!-- BLOG-POST-LIST:END -->
 
 
