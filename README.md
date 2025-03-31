@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Gemini Generate Accessible App Code?](https://dev.to/eevajonnapanula/does-gemini-generate-accessible-app-code-3im7)
-- [GitHub Metrics Dashboard &lpar;Pulumi &amp; Grafana&rpar;](https://dev.to/adonaitechnologies/github-metrics-dashboard-pulumi-grafana-3j0e)
-- [The Rising Threat of DDoS Attacks: What You Need to Know](https://dev.to/khamal22/the-rising-threat-of-ddos-attacks-what-you-need-to-know-223i)
-- [AWS security](https://dev.to/chandu_ariketi/aws-security-hg0)
+- [Updated Test Article - Member 1](https://dev.to/nht_huy_f471b1a36e97347a/test-article-via-api-member-1-1b93)
+- [Digitale Transformation in Bau und Projektmanagement mit Power Apps, Business Central und CX Time](https://dev.to/connamix/digitale-transformation-in-bau-und-projektmanagement-mit-power-apps-business-central-und-cx-time-1cbo)
+- [MCP unmasked: Why it matters, who should care, and where to be cautious](https://dev.to/subeshb1/mcp-unmasked-why-it-matters-who-should-care-and-where-to-be-cautious-1i7p)
+- [Why Doesn&#39;t Anyone Want to Write Code comments Anymore?](https://dev.to/brights/why-doesnt-anyone-want-to-write-code-comments-anymore-40jf)
 <!-- BLOG-POST-LIST:END -->
 
 
