@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The time to market vs. quality dilemma](https://dev.to/ed_dfreitas/the-time-to-market-vs-quality-dilemma-1ce3)
-- [Partnership between Fermyon &amp; Akamai unveiled!](https://dev.to/flynnduism/partnership-between-fermyon-akamai-unveiled-2ckd)
-- [Learn how to deploy a Nuxt3 App with SSR on Laravel Forge](https://dev.to/bhaidar/learn-how-to-deploy-a-nuxt3-app-with-ssr-on-laravel-forge-29a5)
-- [What Are the Essential Skills for DevRel Professionals? 🚀📚🌐](https://dev.to/awdren/what-are-the-essential-skills-for-devrel-professionals-1mej)
+- [Setting Up React with Webpack and babel from Scratch](https://dev.to/frontendbytes/setting-up-react-with-webpack-and-babel-from-scratch-1elo)
+- [Everything you need to know about new EKS community add-ons](https://dev.to/vijaykodam/everything-you-need-to-know-about-new-eks-community-add-ons-4n0l)
+- [How to Use Various Marketing Techniques to Grow Your Company](https://dev.to/lucas_bergman/how-to-use-various-marketing-techniques-to-grow-your-company-nh9)
+- [Tutorial 15: Fetching and Displaying JSON Data from a REST API in Swift](https://dev.to/cl0udleadanis/tutorial-15-fetching-and-displaying-json-data-from-a-rest-api-in-swift-1iip)
 <!-- BLOG-POST-LIST:END -->
 
 
