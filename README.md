@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Missed the Last 10 Years of C#? Read This Quick Catch-up Guide](https://dev.to/canro91/missed-the-last-10-years-of-c-read-this-quick-catch-up-guide-38ih)
-- [Realtime shape detection using Opencv and Python🐍](https://dev.to/sripadh_sujith_1487e8db18/realtime-shape-detection-using-opencv-and-python-3bd2)
-- [My Introduction](https://dev.to/bhanu_tejakonduru_2f8252/my-introduction-2bgg)
-- [🦀 Rust Series 2: Control Flow, Functions, and Ownership](https://dev.to/imchiragkumar/-rust-series-2-control-flow-functions-and-ownership-3gg4)
+- [Perl 🐪 Weekly #714 - Munging Data?](https://dev.to/szabgab/perl-weekly-714-munging-data-35fh)
+- [Convert this image studio ghibliy](https://dev.to/akash_karale_77a7b0cf71c0/convert-this-image-studio-ghibliy-302j)
+- [TryHackMe UltraTech Room Walkthrough](https://dev.to/hax/tryhackme-ultratech-room-walkthrough-1d2)
+- [Construyendo Mi Nube Personal: Lecciones Aprendidas en Next cloud y Apache](https://dev.to/inusui/construyendo-mi-nube-personal-lecciones-aprendidas-en-next-cloud-y-apache-4a9m)
 <!-- BLOG-POST-LIST:END -->
 
 
