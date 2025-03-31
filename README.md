@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up React with Webpack and babel from Scratch](https://dev.to/frontendbytes/setting-up-react-with-webpack-and-babel-from-scratch-1elo)
-- [Everything you need to know about new EKS community add-ons](https://dev.to/vijaykodam/everything-you-need-to-know-about-new-eks-community-add-ons-4n0l)
-- [How to Use Various Marketing Techniques to Grow Your Company](https://dev.to/lucas_bergman/how-to-use-various-marketing-techniques-to-grow-your-company-nh9)
-- [Tutorial 15: Fetching and Displaying JSON Data from a REST API in Swift](https://dev.to/cl0udleadanis/tutorial-15-fetching-and-displaying-json-data-from-a-rest-api-in-swift-1iip)
+- [Traits in Rust Explained: From Usage to Internal Mechanics](https://dev.to/leapcell/traits-in-rust-explained-from-usage-to-internal-mechanics-3139)
+- [Minimalistic MCP Server in bash script](https://dev.to/antonum/minimalistic-mcp-server-in-bash-script-10k5)
+- [We should still do optimistic UI](https://dev.to/loukitzanna/we-should-still-do-optimistic-ui-3knm)
+- [OWL JS 01 — Why Odoo Created OWL: A Framework Built for Modularity](https://dev.to/trishan_fernando/owl-js-01-why-odoo-created-owl-a-framework-built-for-modularity-3n99)
 <!-- BLOG-POST-LIST:END -->
 
 
