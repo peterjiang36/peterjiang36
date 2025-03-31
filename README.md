@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Article from SmartScrapAI](https://dev.to/gaurav4288/test-article-from-smartscrapai-2kl1)
-- [Shopping cart](https://dev.to/rifat_hasan_497b839e408d3/shopping-cart-bdk)
-- [Beyond HTML &amp; CSS: 15+ Frontend Niches to Level Up Your Career](https://dev.to/solat-ali/beyond-html-css-15-frontend-niches-to-level-up-your-career-1eoh)
-- [From Curiosity to Code: My Journey as a Self-Taught Developer](https://dev.to/kelvincode1234/from-curiosity-to-code-my-journey-as-a-self-taught-developer-51gj)
+- [Building an Aviation News Hub: A Tech Enthusiast&#39;s Journey](https://dev.to/drarondare045/building-an-aviation-news-hub-a-tech-enthusiasts-journey-4p7h)
+- [Daily JavaScript Challenge #JS-139: Determine Leap Year](https://dev.to/dpc/daily-javascript-challenge-js-139-determine-leap-year-131a)
+- [Creating In PatchWorld XR](https://dev.to/dcs-ink/creating-in-patchworld-xr-1c91)
+- [Comparing LEGO SPIKE Prime Programming: Which Is Best for Robotics Competitions? - 4 : Color Detection Accuracy](https://dev.to/_ff41734170f7cc70ac79/comparing-lego-spike-prime-programming-which-is-best-for-robotics-competitions-4-color-48pe)
 <!-- BLOG-POST-LIST:END -->
 
 
