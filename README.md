@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are WMS/ERP/CRM Integrations?](https://dev.to/tarunfulera1/what-are-wmserpcrm-integrations-4cd1)
-- [AWS 101 Workshop](https://dev.to/netra_rajendran_b98ea00f6/aws-101-workshop-39m7)
-- [Technical Interview Manners](https://dev.to/nancy_kataria/technical-interview-manners-678)
-- [HarmonyOS NEXT Practical: Proportion Chart](https://dev.to/victordeng/harmonyos-next-practical-proportion-chart-clc)
+- [PRPL Pattern: A Smarter Way to Speed Up Your Web App](https://dev.to/lovestaco/prpl-pattern-a-smarter-way-to-speed-up-your-web-app-2kjc)
+- [Started My Dev Journey – Built a Progress Bar Effect 🚀](https://dev.to/ashish_madhukar17/started-my-dev-journey-built-a-progress-bar-effect-4jkd)
+- [News Roundup: Apple - March 31, 2025](https://dev.to/gaurav4288/news-roundup-apple-march-31-2025-2ohg)
+- [Introducing Fermyon Wasm Functions on Akamai](https://dev.to/fermyon/introducing-fermyon-wasm-functions-on-akamai-3n3)
 <!-- BLOG-POST-LIST:END -->
 
 
