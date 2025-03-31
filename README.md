@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Expression? Statement? What&#39;s the difference?](https://dev.to/janetthedev/expression-statement-whats-the-difference-392m)
-- [Trees and loc](https://dev.to/magipunk/trees-and-loc-2lln)
-- [Managing Multiple Payment Integrations in C#: Strategies for Unified Interfaces and Scalable Code](https://dev.to/syawqy/managing-multiple-payment-integrations-in-c-strategies-for-unified-interfaces-and-scalable-code-432d)
-- [Complete Guide For Hamster Kombat Daily Cipher &amp; Code](https://dev.to/bhindhuhari/complete-guide-for-hamster-kombat-daily-cipher-code-1278)
+- [What happened isn&#39;t the point. How you respond is.](https://dev.to/adatole/what-happened-isnt-the-point-how-you-respond-is-29ip)
+- [Wasting Space! Master the Art of SEO-Optimized Content Snippets &lpar;Your Quick-Win Guide!&rpar;](https://dev.to/seosiri/wasting-space-master-the-art-of-seo-optimized-content-snippets-your-quick-win-guide-3nna)
+- [Ghibliart.ai: A Game-Changer for AI Art Lovers](https://dev.to/fredai/ghibliartai-a-game-changer-for-ai-art-lovers-l11)
+- [3-Tier Architecture &lpar;Part-1&rpar;](https://dev.to/dharshinisri_g_04a9fda5b6/3-tier-architecture-part-1-2fi9)
 <!-- BLOG-POST-LIST:END -->
 
 
