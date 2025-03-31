@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated Test Article - Member 1](https://dev.to/nht_huy_f471b1a36e97347a/test-article-via-api-member-1-1b93)
-- [Digitale Transformation in Bau und Projektmanagement mit Power Apps, Business Central und CX Time](https://dev.to/connamix/digitale-transformation-in-bau-und-projektmanagement-mit-power-apps-business-central-und-cx-time-1cbo)
-- [MCP unmasked: Why it matters, who should care, and where to be cautious](https://dev.to/subeshb1/mcp-unmasked-why-it-matters-who-should-care-and-where-to-be-cautious-1i7p)
-- [Why Doesn&#39;t Anyone Want to Write Code comments Anymore?](https://dev.to/brights/why-doesnt-anyone-want-to-write-code-comments-anymore-40jf)
+- [How to set up TypeScript with Node.js and Express](https://dev.to/logrocket/how-to-set-up-typescript-with-nodejs-and-express-3ab4)
+- [A Tool I Built for Synthetic Datasets](https://dev.to/voxdroid/a-tool-i-built-for-synthetic-datasets-301j)
+- [WeCoded Landing Page Celebrate in Code](https://dev.to/yashvikothari/wecoded-landing-page-celebrate-in-code-1f9o)
+- [Photo Metadata Standards: IPTC, EXIF, and XMP](https://dev.to/maryalice/photo-metadata-standards-iptc-exif-and-xmp-4n5d)
 <!-- BLOG-POST-LIST:END -->
 
 
