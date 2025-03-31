@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PRPL Pattern: A Smarter Way to Speed Up Your Web App](https://dev.to/lovestaco/prpl-pattern-a-smarter-way-to-speed-up-your-web-app-2kjc)
-- [Started My Dev Journey – Built a Progress Bar Effect 🚀](https://dev.to/ashish_madhukar17/started-my-dev-journey-built-a-progress-bar-effect-4jkd)
-- [News Roundup: Apple - March 31, 2025](https://dev.to/gaurav4288/news-roundup-apple-march-31-2025-2ohg)
-- [Introducing Fermyon Wasm Functions on Akamai](https://dev.to/fermyon/introducing-fermyon-wasm-functions-on-akamai-3n3)
+- [The time to market vs. quality dilemma](https://dev.to/ed_dfreitas/the-time-to-market-vs-quality-dilemma-1ce3)
+- [Partnership between Fermyon &amp; Akamai unveiled!](https://dev.to/flynnduism/partnership-between-fermyon-akamai-unveiled-2ckd)
+- [Learn how to deploy a Nuxt3 App with SSR on Laravel Forge](https://dev.to/bhaidar/learn-how-to-deploy-a-nuxt3-app-with-ssr-on-laravel-forge-29a5)
+- [What Are the Essential Skills for DevRel Professionals? 🚀📚🌐](https://dev.to/awdren/what-are-the-essential-skills-for-devrel-professionals-1mej)
 <!-- BLOG-POST-LIST:END -->
 
 
