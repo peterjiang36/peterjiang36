@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Scored an 82 in E-E-A-T and Built an SEO Strategy That Thinks Like an AI](https://dev.to/dansasser/how-i-scored-an-82-in-e-e-a-t-and-built-an-seo-strategy-that-thinks-like-an-ai-2b07)
-- [AULA 1 Currency Converter](https://dev.to/sottioli/aula-1-currency-converter-3l75)
-- [3 TIER ARCHITECTURE PART-6](https://dev.to/kamali_s/3-tier-architecture-part-6-577i)
-- [3 TIER ARCHITECTURE PART-5](https://dev.to/kamali_s/3-tier-architecture-part-5-41do)
+- [AWS 101 Workshop](https://dev.to/harinivas_m_00360dd83f42/aws-101-workshop-44m6)
+- [Why HA Replication Matters: Scaling, Failover &amp; Disaster Recovery](https://dev.to/timescale/why-ha-replication-matters-scaling-failover-disaster-recovery-2kg6)
+- [How to set up an IRIS Sharding cluster in less than a minute](https://dev.to/intersystems/how-to-set-up-an-iris-sharding-cluster-in-less-than-a-minute-27fg)
+- [7 Claude Code Secrets You Can&#39;t Afford to Miss](https://dev.to/tlr/7-claude-code-secrets-you-cant-afford-to-miss-2mln)
 <!-- BLOG-POST-LIST:END -->
 
 
