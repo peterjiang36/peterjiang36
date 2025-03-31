@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Apache Doris Indexes](https://dev.to/darren_xu/a-deep-dive-into-apache-doris-indexes-3fi8)
-- [What is Google Apps Script?](https://dev.to/googleworkspace/what-is-google-apps-script-58d)
-- [A Must-Read Guide to Project Planning &amp; Scheduling Software for IT Companies](https://dev.to/vaishnavi_lokhande_af0b66/a-must-read-guide-to-project-planning-scheduling-software-for-it-companies-110f)
-- [Set in Java](https://dev.to/neelakandan_ravi_2000/set-in-java-fb7)
+- [Mastering Comprehensions in Python – The Pythonic Way to Build Data Structures](https://dev.to/nkpydev/mastering-comprehensions-in-python-the-pythonic-way-to-build-data-structures-3mfd)
+- [Will AI Replace Programmers or Empower Them](https://dev.to/gocodeo/will-ai-replace-programmers-or-empower-them-5gi3)
+- [log_002 — Junior in the Header, Senior in the Soul](https://dev.to/rhno_obs/log002-junior-in-the-header-senior-in-the-soul-c67)
+- [Guide to Choosing the Right Stainless Steel Lunch Box for Your Needs](https://dev.to/speedexind/guide-to-choosing-the-right-stainless-steel-lunch-box-for-your-needs-ib3)
 <!-- BLOG-POST-LIST:END -->
 
 
