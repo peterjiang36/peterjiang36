@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #714 - Munging Data?](https://dev.to/szabgab/perl-weekly-714-munging-data-35fh)
-- [Convert this image studio ghibliy](https://dev.to/akash_karale_77a7b0cf71c0/convert-this-image-studio-ghibliy-302j)
-- [TryHackMe UltraTech Room Walkthrough](https://dev.to/hax/tryhackme-ultratech-room-walkthrough-1d2)
-- [Construyendo Mi Nube Personal: Lecciones Aprendidas en Next cloud y Apache](https://dev.to/inusui/construyendo-mi-nube-personal-lecciones-aprendidas-en-next-cloud-y-apache-4a9m)
+- [pg_dump PostgreSQL Backups: A Quick and Practical Guide](https://dev.to/dbvismarketing/pgdump-postgresql-backups-a-quick-and-practical-guide-o3l)
+- [Java Streams: The Gatherers API](https://dev.to/zenika/java-streams-the-gatherers-api-4b0d)
+- [Rise of Serverless Computing: End of Traditional Infrastructure?](https://dev.to/shashank_kumar_19ef36c198/rise-of-serverless-computing-end-of-traditional-infrastructure-2lbg)
+- [Embarking on Cloud Computing: My Journey Through the AWS 101 Workshop](https://dev.to/harshad_dpt/embarking-on-cloud-computing-my-journey-through-the-aws-101-workshop-4bbf)
 <!-- BLOG-POST-LIST:END -->
 
 
