@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Identify and Fix Performance Bottlenecks in Your Mobile App](https://dev.to/aneeqakhan/how-to-identify-and-fix-performance-bottlenecks-in-your-mobile-app-4kmk)
-- [Event Loop Monitoring and Performance Analysis](https://dev.to/omriluz1/event-loop-monitoring-and-performance-analysis-mh0)
-- [Open/Closed Principle &lpar;OCP&rpar; and Dependency Inversion Principle &lpar;DIP&rpar;](https://dev.to/imajenasyon/openclosed-principle-ocp-and-dependency-inversion-principle-dip-54kb)
-- [Building a Solid Future: Exploring the Work of My Concrete Company TX](https://dev.to/anash_kom_e7cbffde/building-a-solid-future-exploring-the-work-of-my-concrete-company-tx-2c3m)
+- [k8sprojects.com The Kuberentes Review Platform](https://dev.to/kikiodazie/k8sprojectscom-the-kuberentes-review-platform-4i8l)
+- [Integrating Fractal ArUco Markers into OpenCV: A Game-Changer for Fiducial Marker Detection](https://dev.to/suhasramesha/integrating-fractal-aruco-markers-into-opencv-a-game-changer-for-fiducial-marker-detection-4j57)
+- [Mastering pull requests. How to prepare and review.](https://dev.to/rigo/mastering-pull-requests-how-to-prepare-and-review-1lff)
+- [Why Knowing CMS Can Make You a More Valuable Developer](https://dev.to/arseniydev/why-knowing-cms-can-make-you-a-more-valuable-developer-3e2n)
 <!-- BLOG-POST-LIST:END -->
 
 
