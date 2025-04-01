@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Desacoplando Leituras e Escritas: Uma Introdução à Separação de Responsabilidade entre Comandos e Consultas &lpar;CQRS&rpar;](https://dev.to/actor-dev/decoupling-reads-and-writes-an-introduction-to-command-query-responsibility-segregation-cqrs-1opn)
-- [Day 1130 : Doing Okay](https://dev.to/dwane/day-1130-doing-okay-57kj)
-- [Layer by Layer: The OSI Model Layers 5-7](https://dev.to/andrew_despres/layer-by-layer-the-osi-model-layers-5-7-1gnn)
-- [Python Type Hints](https://dev.to/lgerthal/python-type-hints-214m)
+- [Introducing HTML++ – The Future of Web Development](https://dev.to/ronynn/introducing-html-the-future-of-web-development-2abj)
+- [&quot;Unlocking AI&#39;s Potential: Enhancing Diagnostic Accuracy with MedAgentSim&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-potential-enhancing-diagnostic-accuracy-with-medagentsim-3884)
+- [Daily JavaScript Challenge #JS-140: Binary Gap Length](https://dev.to/dpc/daily-javascript-challenge-js-140-binary-gap-length-2boc)
+- [Hello Dev.to](https://dev.to/testdevto/hello-devto-29f4)
 <!-- BLOG-POST-LIST:END -->
 
 
