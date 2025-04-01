@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to System Design](https://dev.to/parulchaddha/introduction-to-system-design-489f)
-- [Elevando a validação em Rails com dry-validation: Uma abordagem elegante para regras de negócio complexas](https://dev.to/videosdeti/elevando-a-validacao-em-rails-com-dry-validation-uma-abordagem-elegante-para-regras-de-negocio-36e5)
-- [Designing Scalable RESTful APIs for Dairy Farm Intelligence: FarmersMilk API Architecture](https://dev.to/sriharikatta/designing-scalable-restful-apis-for-dairy-farm-intelligence-farmersmilk-api-architecture-32hj)
-- [Tutorial 25: 📱 Building Adaptive UI for iPhone, iPad &amp; Mac with SwiftUI](https://dev.to/cl0udleadanis/tutorial-25-building-adaptive-ui-for-iphone-ipad-mac-with-swiftui-3j0g)
+- [Custom Linux Image for Raspberry Pi 5: A Guide with Buildroot](https://dev.to/pfs/custom-linux-image-for-raspberry-pi-5-a-guide-with-buildroot-bp3)
+- [I Got Carried Away Coding a Simple Lander Game... Now I Can&#39;t Even Beat Level 1](https://dev.to/shubhankar_madgulkar_a4f1/i-got-carried-away-coding-a-simple-lander-game-now-i-cant-even-beat-level-1-35mh)
+- [AULA1 _Arquivo 0](https://dev.to/juan_krupechacke_f0c6537e/aula1-arquivo-0-17dp)
+- [Android/iOS Testing Perfected: 20 Appium Tricks You Need](https://dev.to/bugnificent/androidios-testing-perfected-20-appium-tricks-you-need-2n52)
 <!-- BLOG-POST-LIST:END -->
 
 
