@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Premium or Budget? A Gamer’s Guide to Keycap Brands &lpar;with Hands-On Reviews&rpar;](https://dev.to/mysticcoder/premium-or-budget-a-gamers-guide-to-keycap-brands-with-hands-on-reviews-1hhp)
-- [Supercharge Power BI with AI: Unlock Hidden Insights Effortlessly!](https://dev.to/guru_prasad_a18c810449892/supercharge-power-bi-with-ai-unlock-hidden-insights-effortlessly-4fg8)
-- [Captcha &amp; reCaptcha For Django](https://dev.to/yokwejuste/captcha-recaptcha-for-django-1ndp)
-- [Snowflake Data Quality Alerts: Monitoring and Notifying on New Data Issues](https://dev.to/sagara/snowflake-data-quality-alerts-monitoring-and-notifying-on-new-data-issues-44h0)
+- [April 1st: The Nuclear Pranks Only Real Developers Will Respect &lpar;and Regret&rpar;](https://dev.to/hotfixhero/april-1st-the-nuclear-pranks-only-real-developers-will-respect-and-regret-2iom)
+- [From Idea to Web App: Building ExamGenius with Vibe Coding and Claude](https://dev.to/vibecodecr-en/from-idea-to-web-app-building-examgenius-with-vibe-coding-and-claude-m2b)
+- [parameter 與 argument](https://dev.to/codemee/parameter-yu-argument-162n)
+- [Mago digital](https://dev.to/david_bermenvliz/mago-digital-2gpj)
 <!-- BLOG-POST-LIST:END -->
 
 
