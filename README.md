@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
-- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
-- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
-- [Where it all happens](https://dev.to/ben/where-it-all-happens-2dk4)
+- [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
+- [Clojure Is Awesome!!! [PART 17]](https://dev.to/borba/clojure-is-awesome-part-17-3eml)
+- [Starknet on its own with Reserve](https://dev.to/gitkit13/starknet-on-its-own-with-reserve-15dk)
+- [Advantages of Hiring Professional Cleaning Services in Homes with Children and Babies](https://dev.to/eliana_coleman_332/advantages-of-hiring-professional-cleaning-services-in-homes-with-children-and-babies-4p2b)
 <!-- BLOG-POST-LIST:END -->
 
 
