@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [안드로이드 앱의 API 응답 캐싱](https://dev.to/kingori/andeuroideu-aebyi-api-eungdab-kaesing-2l6l)
-- [Creative Work: ChatGPT-4 and the Future of Design](https://dev.to/algolok/creative-work-chatgpt-4-and-the-future-of-design-jfm)
-- [DBMS](https://dev.to/ishwar_2/dbms-4ago)
-- [Dev to Founder](https://dev.to/ishwar_2/dev-to-founder-50n7)
+- [Premium or Budget? A Gamer’s Guide to Keycap Brands &lpar;with Hands-On Reviews&rpar;](https://dev.to/mysticcoder/premium-or-budget-a-gamers-guide-to-keycap-brands-with-hands-on-reviews-1hhp)
+- [Supercharge Power BI with AI: Unlock Hidden Insights Effortlessly!](https://dev.to/guru_prasad_a18c810449892/supercharge-power-bi-with-ai-unlock-hidden-insights-effortlessly-4fg8)
+- [Captcha &amp; reCaptcha For Django](https://dev.to/yokwejuste/captcha-recaptcha-for-django-1ndp)
+- [Snowflake Data Quality Alerts: Monitoring and Notifying on New Data Issues](https://dev.to/sagara/snowflake-data-quality-alerts-monitoring-and-notifying-on-new-data-issues-44h0)
 <!-- BLOG-POST-LIST:END -->
 
 
