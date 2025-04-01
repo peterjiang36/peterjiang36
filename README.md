@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Blockchain 101: Building a Smart Contract with Solidity](https://dev.to/info_generalhazedawn_a3d/-blockchain-101-building-a-smart-contract-with-solidity-4g5c)
-- [Here’s why I opt for Laravel — A Personal Perspective on its Evolution and its Role in Modern Web Development](https://dev.to/hamzasehouli/heres-why-i-opt-for-laravel-a-personal-perspective-on-its-evolution-and-its-role-in-modern-web-32pl)
-- [Comparing ChatGPT, Grok, Gemini on Studio Ghibli style transformation](https://dev.to/andylawrence/comparing-chatgpt-grok-gemini-on-studio-ghibli-style-transformation-3c64)
-- [Building an NSFW Image Generator with Next.js, React, and Sentry: A Technical Journey](https://dev.to/ficav/building-an-nsfw-image-generator-with-nextjs-react-and-sentry-a-technical-journey-2o00)
+- [Needs experts advise about cls](https://dev.to/haseebdfx_dfx_3a944395fd6/needs-experts-advise-about-cls-5ma)
+- [Get Started with Easiest WAF, SafeLine](https://dev.to/carrie_luo1/get-started-with-easiest-waf-safeline-2ma0)
+- [Updated Title](https://dev.to/testdevto/my-new-article-12p1)
+- [Redux Toolkit Fundamentals: Simplifying State Management](https://dev.to/dionarodrigues/redux-toolkit-fundamentals-simplifying-state-management-41m4)
 <!-- BLOG-POST-LIST:END -->
 
 
