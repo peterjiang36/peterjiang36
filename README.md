@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Django REST Framework: Build a Student Management System API with Function-Based Views](https://dev.to/ebereplenty/master-django-rest-framework-build-a-student-management-system-api-with-function-based-views-1plc)
-- [News Roundup: Cricket - April 01, 2025](https://dev.to/gaurav4288/news-roundup-cricket-april-01-2025-57k8)
-- [AULA1 _Arquivo 0](https://dev.to/daniel_santiago_40df2d62a/aula1-arquivo-0-n3e)
-- [Fast Static Website Deployment with Pulumi](https://dev.to/joshlite/fast-static-website-deployment-with-pulumi-8pe)
+- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar;](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
+- [Just in! Supabase UI library](https://dev.to/iammtander/just-in-supabase-ui-library-4hfe)
+- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
+- [Where it all happens](https://dev.to/ben/where-it-all-happens-2dk4)
 <!-- BLOG-POST-LIST:END -->
 
 
