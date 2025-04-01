@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Needs experts advise about cls](https://dev.to/haseebdfx_dfx_3a944395fd6/needs-experts-advise-about-cls-5ma)
-- [Get Started with Easiest WAF, SafeLine](https://dev.to/carrie_luo1/get-started-with-easiest-waf-safeline-2ma0)
-- [Updated Title](https://dev.to/testdevto/my-new-article-12p1)
-- [Redux Toolkit Fundamentals: Simplifying State Management](https://dev.to/dionarodrigues/redux-toolkit-fundamentals-simplifying-state-management-41m4)
+- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
+- [Is AI Agents Really Driving the Crypto Boom or It’s Just a Fad?](https://dev.to/lync/is-ai-agents-really-driving-the-crypto-boom-or-its-just-a-fad-42k9)
+- [Intermediate Go Tutorial - Building Your Own Redis: Like In-Memory Cache](https://dev.to/vishaaxl/intermediate-go-tutorial-building-your-own-redis-like-in-memory-cache-5aa2)
+- [Flutter Feature Pattern Tutorial: Building Scalable &amp; Maintainable Features](https://dev.to/javeedishaq/flutter-feature-pattern-tutorial-building-scalable-maintainable-features-4p4l)
 <!-- BLOG-POST-LIST:END -->
 
 
