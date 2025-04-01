@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Aula02 - Desafie o Sheldon e sua equipe!](https://dev.to/iurycn_/aula02-desafie-o-sheldon-e-sua-equipe-5gmp)
-- [[Boost]](https://dev.to/djones/-5d0g)
-- [New profile, new mission: I’m StackShiftX, embarking on a 6-month quest to become a full-stack developer!](https://dev.to/stackshiftx/new-profile-new-mission-im-stackshiftx-embarking-on-a-6-month-quest-to-become-a-full-stack-2222)
-- [Aula02 - ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula02-imersaodev-2mo1)
+- [Introduction to System Design](https://dev.to/parulchaddha/introduction-to-system-design-489f)
+- [Elevando a validação em Rails com dry-validation: Uma abordagem elegante para regras de negócio complexas](https://dev.to/videosdeti/elevando-a-validacao-em-rails-com-dry-validation-uma-abordagem-elegante-para-regras-de-negocio-36e5)
+- [Designing Scalable RESTful APIs for Dairy Farm Intelligence: FarmersMilk API Architecture](https://dev.to/sriharikatta/designing-scalable-restful-apis-for-dairy-farm-intelligence-farmersmilk-api-architecture-32hj)
+- [Tutorial 25: 📱 Building Adaptive UI for iPhone, iPad &amp; Mac with SwiftUI](https://dev.to/cl0udleadanis/tutorial-25-building-adaptive-ui-for-iphone-ipad-mac-with-swiftui-3j0g)
 <!-- BLOG-POST-LIST:END -->
 
 
