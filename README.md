@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Pyspark](https://dev.to/madgan95/apache-pyspark-272g)
-- [Understanding Digital Twin Technology for Industrial IoT](https://dev.to/kartikmehta8/understanding-digital-twin-technology-for-industrial-iot-4nb2)
-- [Introduction to React](https://dev.to/tene/introduction-to-react-394m)
-- [Heap Sort Algorithm | Heapify | GeeksforGeeks Beginner&#39;s DSA Sheet | Heap Tree](https://dev.to/debeshpg90/heap-sort-algorithm-heapify-geeksforgeeks-beginners-dsa-sheet-heap-tree-4md8)
+- [안드로이드 앱의 API 응답 캐싱](https://dev.to/kingori/andeuroideu-aebyi-api-eungdab-kaesing-2l6l)
+- [Creative Work: ChatGPT-4 and the Future of Design](https://dev.to/algolok/creative-work-chatgpt-4-and-the-future-of-design-jfm)
+- [DBMS](https://dev.to/ishwar_2/dbms-4ago)
+- [Dev to Founder](https://dev.to/ishwar_2/dev-to-founder-50n7)
 <!-- BLOG-POST-LIST:END -->
 
 
