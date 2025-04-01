@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Best R.E.P.O. MODs and Installation Guide](https://dev.to/alcor_zsm/8-best-repo-mods-and-installation-guide-4eca)
-- [I Tried Kuberns.com + Plane.so Instead of Jira Because of This](https://dev.to/jevin925/i-tried-kubernscom-planeso-instead-of-jira-because-of-this-185o)
-- [Detect and fix vulnerabilities &lpar;CVE&rpar; &amp; misconfigurations &lpar;IaC&rpar; for your web application](https://dev.to/jenchen/detect-and-fix-vulnerabilities-cve-misconfigurations-iac-for-your-web-application-3oma)
-- [UPDATE V.0.1.7 OUT NOW : NEW LEVEL](https://dev.to/khaisimon_devgame/update-v017-out-now-new-level-1klo)
+- [Decoupling Reads and Writes: An Introduction to Command Query Responsibility Segregation &lpar;CQRS&rpar;](https://dev.to/actor-dev/cqrs-explained-1mf1)
+- [Decorator Pattern: Advanced Usage and Examples](https://dev.to/omriluz1/decorator-pattern-advanced-usage-and-examples-1k00)
+- [Sales Process: A Step-by-Step Guide to Closing More Deals](https://dev.to/piyushsingh_22/sales-process-a-step-by-step-guide-to-closing-more-deals-1lh7)
+- [AI in Automotive Manufacturing 2025: Driving the Future of Smart Production](https://dev.to/priyankapandey/ai-in-automotive-manufacturing-2025-driving-the-future-of-smart-production-jf7)
 <!-- BLOG-POST-LIST:END -->
 
 
