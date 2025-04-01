@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MCP &lpar;Model Context Protocol&rpar; with Examples](https://dev.to/shadow_b/understanding-mcp-model-context-protocol-with-examples-k75)
-- [🚀 Getting Started with Flutter: A Developer’s Guide](https://dev.to/mrkapi1/getting-started-with-flutter-a-developers-guide-3o6f)
-- [🖥️ HOW TO LOGIN INTO A REMOTE SERVER USING SSH WITH USER LOGIN &lpar;USERNAME AND PASSWORD&rpar;](https://dev.to/gautamdroid_49/how-to-login-into-a-remote-server-using-ssh-with-user-login-username-and-password-4pga)
-- [Hướng dẫn sử dụng Forem API bằng Postmann](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmann-1f44)
+- [8 Best R.E.P.O. MODs and Installation Guide](https://dev.to/alcor_zsm/8-best-repo-mods-and-installation-guide-4eca)
+- [I Tried Kuberns.com + Plane.so Instead of Jira Because of This](https://dev.to/jevin925/i-tried-kubernscom-planeso-instead-of-jira-because-of-this-185o)
+- [Detect and fix vulnerabilities &lpar;CVE&rpar; &amp; misconfigurations &lpar;IaC&rpar; for your web application](https://dev.to/jenchen/detect-and-fix-vulnerabilities-cve-misconfigurations-iac-for-your-web-application-3oma)
+- [UPDATE V.0.1.7 OUT NOW : NEW LEVEL](https://dev.to/khaisimon_devgame/update-v017-out-now-new-level-1klo)
 <!-- BLOG-POST-LIST:END -->
 
 
