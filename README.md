@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling Reads and Writes: An Introduction to Command Query Responsibility Segregation &lpar;CQRS&rpar;](https://dev.to/actor-dev/cqrs-explained-1mf1)
-- [Decorator Pattern: Advanced Usage and Examples](https://dev.to/omriluz1/decorator-pattern-advanced-usage-and-examples-1k00)
-- [Sales Process: A Step-by-Step Guide to Closing More Deals](https://dev.to/piyushsingh_22/sales-process-a-step-by-step-guide-to-closing-more-deals-1lh7)
-- [AI in Automotive Manufacturing 2025: Driving the Future of Smart Production](https://dev.to/priyankapandey/ai-in-automotive-manufacturing-2025-driving-the-future-of-smart-production-jf7)
+- [# Blockchain 101: Building a Smart Contract with Solidity](https://dev.to/info_generalhazedawn_a3d/-blockchain-101-building-a-smart-contract-with-solidity-4g5c)
+- [Here’s why I opt for Laravel — A Personal Perspective on its Evolution and its Role in Modern Web Development](https://dev.to/hamzasehouli/heres-why-i-opt-for-laravel-a-personal-perspective-on-its-evolution-and-its-role-in-modern-web-32pl)
+- [Comparing ChatGPT, Grok, Gemini on Studio Ghibli style transformation](https://dev.to/andylawrence/comparing-chatgpt-grok-gemini-on-studio-ghibli-style-transformation-3c64)
+- [Building an NSFW Image Generator with Next.js, React, and Sentry: A Technical Journey](https://dev.to/ficav/building-an-nsfw-image-generator-with-nextjs-react-and-sentry-a-technical-journey-2o00)
 <!-- BLOG-POST-LIST:END -->
 
 
