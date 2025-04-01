@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dumb DEV Is the Best Thing to Happen to Developers—And You Don&#39;t Even Get It](https://dev.to/best_codes/dumb-dev-is-the-best-thing-to-happen-to-developers-and-you-dont-even-get-it-16cn)
-- [Static and Non Static Members](https://dev.to/haryniramesh_90cfe77bda94/static-and-non-static-members-209b)
-- [10 Best Video Hosting Platforms – A Complete Guide for 2025](https://dev.to/livestreaming/10-best-video-hosting-platforms-a-complete-guide-for-2025-12mm)
-- [AULA1 _ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula1-imersaodev-24h8)
+- [Conheça o Phrest Finder.](https://dev.to/notmadebyahuman/conheca-o-phrest-finder-3eh7)
+- [🎉 My WeCoded Landing Page](https://dev.to/kelvincode1234/my-wecoded-landing-page-3g5c)
+- [Tutorial 20: Dependency Injection Tutorial](https://dev.to/cl0udleadanis/tutorial-20-dependency-injection-tutorial-231m)
+- [Implementing Shift-Left Testing: Best Practices for Agile and DevOps Teams](https://dev.to/testwithtorin/implementing-shift-left-testing-best-practices-for-agile-and-devops-teams-f16)
 <!-- BLOG-POST-LIST:END -->
 
 
