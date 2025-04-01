@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing HTML++ – The Future of Web Development](https://dev.to/ronynn/introducing-html-the-future-of-web-development-2abj)
-- [&quot;Unlocking AI&#39;s Potential: Enhancing Diagnostic Accuracy with MedAgentSim&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ais-potential-enhancing-diagnostic-accuracy-with-medagentsim-3884)
-- [Daily JavaScript Challenge #JS-140: Binary Gap Length](https://dev.to/dpc/daily-javascript-challenge-js-140-binary-gap-length-2boc)
-- [Hello Dev.to](https://dev.to/testdevto/hello-devto-29f4)
+- [Apache Pyspark](https://dev.to/madgan95/apache-pyspark-272g)
+- [Understanding Digital Twin Technology for Industrial IoT](https://dev.to/kartikmehta8/understanding-digital-twin-technology-for-industrial-iot-4nb2)
+- [Introduction to React](https://dev.to/tene/introduction-to-react-394m)
+- [Heap Sort Algorithm | Heapify | GeeksforGeeks Beginner&#39;s DSA Sheet | Heap Tree](https://dev.to/debeshpg90/heap-sort-algorithm-heapify-geeksforgeeks-beginners-dsa-sheet-heap-tree-4md8)
 <!-- BLOG-POST-LIST:END -->
 
 
