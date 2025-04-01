@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI in Your Daily Workflow](https://dev.to/schusterbraun/agentic-ai-in-your-daily-workflow-3jja)
-- [Difference Between Transform and Add Column in Power Query](https://dev.to/guru_prasad_a18c810449892/difference-between-transform-and-add-column-in-power-query-7k5)
-- [Mastering Facebook APIs: A Guide to Media Handling, Encryption, and Messaging](https://dev.to/baliachbryan/mastering-facebook-apis-a-guide-to-media-handling-encryption-and-messaging-3jc)
-- [Static and non static methods in java...](https://dev.to/vimal_krush_349f0675b4ef9/static-and-non-static-methods-in-java-5eb7)
+- [Dumb DEV Is the Best Thing to Happen to Developers—And You Don&#39;t Even Get It](https://dev.to/best_codes/dumb-dev-is-the-best-thing-to-happen-to-developers-and-you-dont-even-get-it-16cn)
+- [Static and Non Static Members](https://dev.to/haryniramesh_90cfe77bda94/static-and-non-static-members-209b)
+- [10 Best Video Hosting Platforms – A Complete Guide for 2025](https://dev.to/livestreaming/10-best-video-hosting-platforms-a-complete-guide-for-2025-12mm)
+- [AULA1 _ImersãoDev](https://dev.to/wedne_morais_7862f80bd27e/aula1-imersaodev-24h8)
 <!-- BLOG-POST-LIST:END -->
 
 
