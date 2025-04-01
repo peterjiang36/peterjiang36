@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
-- [Clojure Is Awesome!!! [PART 17]](https://dev.to/borba/clojure-is-awesome-part-17-3eml)
-- [Starknet on its own with Reserve](https://dev.to/gitkit13/starknet-on-its-own-with-reserve-15dk)
-- [Advantages of Hiring Professional Cleaning Services in Homes with Children and Babies](https://dev.to/eliana_coleman_332/advantages-of-hiring-professional-cleaning-services-in-homes-with-children-and-babies-4p2b)
+- [Agentic AI in Your Daily Workflow](https://dev.to/schusterbraun/agentic-ai-in-your-daily-workflow-3jja)
+- [Difference Between Transform and Add Column in Power Query](https://dev.to/guru_prasad_a18c810449892/difference-between-transform-and-add-column-in-power-query-7k5)
+- [Mastering Facebook APIs: A Guide to Media Handling, Encryption, and Messaging](https://dev.to/baliachbryan/mastering-facebook-apis-a-guide-to-media-handling-encryption-and-messaging-3jc)
+- [Static and non static methods in java...](https://dev.to/vimal_krush_349f0675b4ef9/static-and-non-static-methods-in-java-5eb7)
 <!-- BLOG-POST-LIST:END -->
 
 
