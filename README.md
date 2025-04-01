@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Professional Programmer Proves Prolog Prolongs Productivity](https://dev.to/auroratide/professional-programmer-proves-prolog-prolongs-productivity-3oc9)
-- [Is AI Agents Really Driving the Crypto Boom or It’s Just a Fad?](https://dev.to/lync/is-ai-agents-really-driving-the-crypto-boom-or-its-just-a-fad-42k9)
-- [Intermediate Go Tutorial - Building Your Own Redis: Like In-Memory Cache](https://dev.to/vishaaxl/intermediate-go-tutorial-building-your-own-redis-like-in-memory-cache-5aa2)
-- [Flutter Feature Pattern Tutorial: Building Scalable &amp; Maintainable Features](https://dev.to/javeedishaq/flutter-feature-pattern-tutorial-building-scalable-maintainable-features-4p4l)
+- [Send Emails from Next.js with Resend and React Email](https://dev.to/thatanjan/send-emails-from-nextjs-with-resend-and-react-email-39fb)
+- [SAP BTP SAP Conversational AI — Session 2](https://dev.to/niks_kirdak_47c783a80cbc7/sap-btp-sap-conversational-ai-session-2-2800)
+- [Nosana Builders&#39; Challenge - $3,000 USDC in prizes](https://dev.to/nosana/nosana-builder-challenge-create-a-nosana-template-2nca)
+- [The Importance of Cybersecurity in Today&#39;s Digital Landscape 🔒](https://dev.to/srijan-xi/the-importance-of-cybersecurity-in-todays-digital-landscape-5c6c)
 <!-- BLOG-POST-LIST:END -->
 
 
