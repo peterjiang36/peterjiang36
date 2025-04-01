@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Autenticação e Autorização](https://dev.to/reishenrique/autenticacao-e-autorizacao-1nkl)
-- [Building a Self-Optimizing Data Pipeline](https://dev.to/shreyash333/building-a-self-optimizing-data-pipeline-59da)
-- [🎨 Build a Full Stack Canva Clone 2.0 with Next.js, React &amp; Convex, ImageKit](https://dev.to/rrs301/build-a-full-stack-canva-clone-20-with-nextjs-react-convex-imagekit-nkj)
-- [Optimizing Angular Change Detection with OnPush: Skipping Subtrees for Performance](https://dev.to/atheodosiou/optimizing-angular-change-detection-with-onpush-skipping-subtrees-for-performance-45md)
+- [Beyond the Hype: A Practical Guide to Cloud and Datacenter Decisions](https://dev.to/ravishan16/beyond-the-hype-a-practical-guide-to-cloud-and-datacenter-decisions-39da)
+- [My Software Development Process](https://dev.to/ikemcodedit/my-software-development-process-2i64)
+- [With an AI Interview Assistant, you can tackle tough technical and behavioral questions, identify weak points, and receive AI-powered coaching to enhance your performance. Have you tried an AI Interview Assistant before? What was your experience like?](https://dev.to/lockedinai1/with-an-ai-interview-assistant-you-can-tackle-tough-technical-and-behavioral-questions-identify-44e6)
+- [AI and Pizza: Can Language Models Take Your Order Without Messing It Up?](https://dev.to/owly/ai-and-pizza-can-language-models-take-your-order-without-messing-it-up-4n8i)
 <!-- BLOG-POST-LIST:END -->
 
 
