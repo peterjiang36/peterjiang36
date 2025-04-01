@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireframes vs Mockups vs Prototypes: Are You Using the Right One?](https://dev.to/dct_technology/wireframes-vs-mockups-vs-prototypes-are-you-using-the-right-one-eil)
-- [React Native vs Flutter: Which One is Better for Your App in 2025?](https://dev.to/brilworks/react-native-vs-flutter-which-one-is-better-for-your-app-in-2025-4j23)
-- [Liam ERD: Reinventing Database Visualization](https://dev.to/route06/liam-erd-reinventing-database-visualization-kff)
-- [If you’re looking for a powerful, easy-to-use alternative, meet Teamcamp! It’s built for seamless project management, real-time collaboration, and effortless migration from Height.](https://dev.to/rajesh_patel/if-youre-looking-for-a-powerful-easy-to-use-alternative-meet-teamcamp-its-built-for-seamless-3293)
+- [Understanding MCP &lpar;Model Context Protocol&rpar; with Examples](https://dev.to/shadow_b/understanding-mcp-model-context-protocol-with-examples-k75)
+- [🚀 Getting Started with Flutter: A Developer’s Guide](https://dev.to/mrkapi1/getting-started-with-flutter-a-developers-guide-3o6f)
+- [🖥️ HOW TO LOGIN INTO A REMOTE SERVER USING SSH WITH USER LOGIN &lpar;USERNAME AND PASSWORD&rpar;](https://dev.to/gautamdroid_49/how-to-login-into-a-remote-server-using-ssh-with-user-login-username-and-password-4pga)
+- [Hướng dẫn sử dụng Forem API bằng Postmann](https://dev.to/trungg_nghia/huong-dan-su-dung-forem-api-bang-postmann-1f44)
 <!-- BLOG-POST-LIST:END -->
 
 
