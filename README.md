@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Test Automation: Comparing the Best Tools for Smarter Testing](https://dev.to/asher_hartwell_f827d28b67/ai-powered-test-automation-comparing-the-best-tools-for-smarter-testing-48l5)
+- [Create Ghibli-Style Images With Flux-ChatGPT Ghibli LoRA: A Step-by-Step Guide](https://dev.to/nodeshiftcloud/create-ghibli-style-images-with-flux-chatgpt-ghibli-lora-a-step-by-step-guide-33eb)
 - [🚀 Your Daily Crypto Job Digest For 02 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-april-317m)
 - [10M IoT Data Points Daily at 50% Lower Storage Costs Using PostgreSQL](https://dev.to/timescale/10m-iot-data-points-daily-at-50-lower-storage-costs-using-postgresql-m9d)
-- [Why Testers&#39; Needs Are Critical for Software Success](https://dev.to/grjoeay/why-testers-needs-are-critical-for-software-success-1ijn)
-- [Understanding concepts in Event Driven Architectures &lpar;EDA&rpar;](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj)
 <!-- BLOG-POST-LIST:END -->
 
 
