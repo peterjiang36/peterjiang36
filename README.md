@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Easiest AI param changes in Realtime](https://dev.to/kiponos/easiest-ai-param-changes-in-realtime-509k)
-- [Los 10 mejores Servicios de Hosting en Colombia](https://dev.to/sysmaya/los-10-mejores-servicios-de-hosting-en-colombia-287j)
-- [From JavaScript to Scala: Rediscovering the Urge to Build Again](https://dev.to/matsilva/from-javascript-to-scala-rediscovering-the-urge-to-build-again-h45)
-- [How Arrays are actually reversed in Javascript](https://dev.to/thecurlyhairdev/how-arrays-are-actually-reversed-in-javascript-3eci)
+- [AULA1 _Arquivo 0](https://dev.to/naiara_santos_c09fdf6b932/aula1-arquivo-0-3c8p)
+- [Terraform for DevOps: Managing Infrastructure Across Multiple Environments &lpar;Part 6&rpar;](https://dev.to/rahimbtc1994/terraform-for-devops-managing-infrastructure-across-multiple-environments-part-6-5g6o)
+- [Calculate all the year/months included in the year/month interval — From SQL to SPL #15](https://dev.to/judith677/calculate-all-the-yearmonths-included-in-the-yearmonth-interval-from-sql-to-spl-15-54lg)
+- [DUMB DEV: Where &quot;Good Enough&quot; is the Enemy of &quot;Wow That&#39;s a Hot Mess](https://dev.to/aniruddhaadak/dumb-dev-where-good-enough-is-the-enemy-of-wow-thats-a-hot-mess-j7i)
 <!-- BLOG-POST-LIST:END -->
 
 
