@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an Email Drip Campaign Using Rails Vault](https://dev.to/railsdesigner/create-an-email-drip-campaign-using-rails-vault-2i7k)
-- [Join us for the Alibaba Cloud Web Game Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-alibaba-cloud-web-game-challenge-3000-in-prizes-1n5d)
-- [Au](https://dev.to/ara_robert_lima/aula1--163d)
-- [Use async await with Array.map](https://dev.to/palchandu_dev/use-async-await-with-arraymap-4ia7)
+- [Gérer le CRUD sur une liste de données avec Angular ? Voici l’outil que me manquait[FR]](https://dev.to/romain_geffrault_10d88369/gerer-le-crud-sur-une-liste-de-donnees-avec-angular-voici-loutil-que-me-manquaitfr-24ea)
+- [[Boost]](https://dev.to/javier_bertolino_87c99bc8/-484o)
+- [You Probably Don&#39;t Know How to Write APIs Like This Using Express](https://dev.to/lovestaco/you-probably-dont-know-how-to-write-apis-like-this-using-express-f7h)
+- [Define and serve an HTML page using a single Dockerfile](https://dev.to/ndrbrt/define-and-serve-an-html-page-using-a-single-dockerfile-2pa7)
 <!-- BLOG-POST-LIST:END -->
 
 
