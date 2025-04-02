@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Field Attributes to multiple fields at once in Odoo](https://dev.to/trishan_fernando/adding-field-attributes-to-multiple-fields-at-once-in-odoo-h0l)
-- [How to Write Maintainable Code: A Developer’s Guide to Future-Proofing Your Work](https://dev.to/imparaag/how-to-write-maintainable-code-a-developers-guide-to-future-proofing-your-work-2jc8)
-- [Probando Model Context Protocol &lpar;MCP&rpar; con Claude y una API real](https://dev.to/ronniemh/probando-model-context-protocol-mcp-con-claude-y-una-api-real-3a0d)
-- [Day 1: Linux Basics – The Power of Commands 🐧💻](https://dev.to/abdulrub/day-1-linux-basics-the-power-of-commands-3hl8)
+- [Multichannel vs. Omnichannel Strategies: A Comprehensive Guide](https://dev.to/ruvimbochibada1/multichannel-vs-omnichannel-strategies-a-comprehensive-guide-19hd)
+- [Structured Clone Algorithm in JavaScript](https://dev.to/omriluz1/structured-clone-algorithm-in-javascript-1lk1)
+- [The Impact of Generative AI Images on the Art World](https://dev.to/srihawi/the-impact-of-generative-ai-images-on-the-art-world-2gp6)
+- [Filtering vs. Locating Elements by Text in Playwright: What’s the Difference?](https://dev.to/araujosnathan/filtering-vs-locating-elements-by-text-in-playwright-whats-the-difference-7km)
 <!-- BLOG-POST-LIST:END -->
 
 
