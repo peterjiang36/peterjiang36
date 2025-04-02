@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Teachers Through AI-Enhanced Education](https://dev.to/evanmarie/empowering-teachers-through-ai-enhanced-education-2n0a)
-- [I Promise.js for dummies](https://dev.to/mmvergara/i-promisejs-for-dummies-5gpk)
-- [Testing Apps for Foldable Phones: New Challenges](https://dev.to/radha_4c842d8e4362a7cdd9c/testing-apps-for-foldable-phones-new-challenges-1n81)
-- [No More Manual API Management: How We Used APIOps and GitHub Cloud to Automate Azure API Deployments](https://dev.to/bsudabathula/no-more-manual-api-management-how-we-used-apiops-and-github-cloud-to-automate-azure-api-deployments-595g)
+- [Easiest AI param changes in Realtime](https://dev.to/kiponos/easiest-ai-param-changes-in-realtime-509k)
+- [Los 10 mejores Servicios de Hosting en Colombia](https://dev.to/sysmaya/los-10-mejores-servicios-de-hosting-en-colombia-287j)
+- [From JavaScript to Scala: Rediscovering the Urge to Build Again](https://dev.to/matsilva/from-javascript-to-scala-rediscovering-the-urge-to-build-again-h45)
+- [How Arrays are actually reversed in Javascript](https://dev.to/thecurlyhairdev/how-arrays-are-actually-reversed-in-javascript-3eci)
 <!-- BLOG-POST-LIST:END -->
 
 
