@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Companies Are Looking for PMO-Certified Professionals in 2025](https://dev.to/mansi_patil_ba50a09f10264/why-companies-are-looking-for-pmo-certified-professionals-in-2025-2c5e)
-- [The Best Open-Source Alternatives to AppSheet in 2025](https://dev.to/nocobase/the-best-open-source-alternatives-to-appsheet-in-2025-4nlh)
-- [Transpose of Matrix | GeeksforGeeks‬ Beginner&#39;s DSA Sheet | Full Solution Explained | With Source Code](https://dev.to/debeshpg90/transpose-of-matrix-geeksforgeeks-beginners-dsa-sheet-full-solution-explained-with-source-1n7a)
-- [The Role of Structural Drafting Services in Modern Construction: Q&amp;A Format](https://dev.to/synnoptech_cad_b9410c35d7/the-role-of-structural-drafting-services-in-modern-construction-qa-format-2fj9)
+- [HandCount: Real-Time Finger Counting with MediaPipe and OpenCV](https://dev.to/sripadh_sujith_1487e8db18/handcount-real-time-finger-counting-with-mediapipe-and-opencv-5c0h)
+- [How to Write Test Scenarios That Ensure App Success](https://dev.to/gerry_criner/how-to-write-test-scenarios-that-ensure-app-success-8nk)
+- [Automating GitHub Code Reviews with AI agent](https://dev.to/arkad23/automating-github-code-reviews-with-ai-agent-114p)
+- [A Beginner’s Trial of MCP Server: SafeLine MCP](https://dev.to/carrie_luo1/a-beginners-trial-of-mcp-server-safeline-mcp-38bb)
 <!-- BLOG-POST-LIST:END -->
 
 
