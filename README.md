@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking to boost your productivity as a developer in 2025? Here’s a concise guide to the top tools that are transforming workflows and making coding faster, smarter, and more efficient](https://dev.to/pratham_naik_project_manager/looking-to-boost-your-productivity-as-a-developer-in-2025-heres-a-concise-guide-to-the-top-tools-1pj7)
-- [10 Developer Productivity Tools That Will Transform Your Workflow in 2025](https://dev.to/teamcamp/10-developer-productivity-tools-that-will-transform-your-workflow-in-2025-1g39)
-- [I Will Teach You SQL in 3 Minutes](https://dev.to/dehemi_fabio/i-will-teach-you-sql-in-3-minutes-3d1d)
-- [Postgres 🐘 vs. SQL Server: a Complete Comparison ⚖️ in 2025](https://dev.to/bytebase/postgres-vs-sql-server-a-complete-comparison-in-2025-3emf)
+- [Microsoft Is the Best &lpar;But Slow&rpar;, IBM Beats Most of OpenAI: What I Found Testing 50+ LLMs](https://dev.to/nikl/microsoft-is-the-best-but-slow-ibm-beats-most-of-openai-what-i-found-testing-50-llms-l3h)
+- [Why Do Devs Spend a Sprint on 20% of the features?](https://dev.to/flyee/why-do-devs-spend-a-sprint-on-20-of-the-features-2dai)
+- [Constant Folding in JVM: How the Compiler Makes Your Code Faster!](https://dev.to/mammadyahyayev/constant-folding-in-jvm-how-the-compiler-makes-your-code-faster-3ejn)
+- [🚀 How to Optimize Your React App for Better Performance](https://dev.to/dct_technology/how-to-optimize-your-react-app-for-better-performance-5p8)
 <!-- BLOG-POST-LIST:END -->
 
 
