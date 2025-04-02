@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges in the UK Life Sciences Sector and the Role of Closeup CRM](https://dev.to/pharmacrm/challenges-in-the-uk-life-sciences-sector-and-the-role-of-closeup-crm-52k)
-- [gRPC for microservices in Kubernetes](https://dev.to/letsdotech/grpc-for-microservices-in-kubernetes-oel)
-- [Tutorial 31: 📱 UserDefaults and Keychain - Storing Small Amounts of Data Securely](https://dev.to/cl0udleadanis/tutorial-31-userdefaults-and-keychain-storing-small-amounts-of-data-securely-5a05)
-- [🔥 Want to build a high-performing dev team and an infrastructure that scales? Ashkan Rajaee shares the key strategies behind CRM systems that just work. #Startups #CRM #TechSuccess #AshkanRajaee](https://dev.to/pierr3smith/want-to-build-a-high-performing-dev-team-and-an-infrastructure-that-scales-ashkan-rajaee-shares-4b8m)
+- [FlashTokenizer: The World’s Fastest CPU Tokenizer](https://dev.to/springkim/flashtokenizer-the-worlds-fastest-cpu-tokenizer-3fd2)
+- [The Internet’s Roadmap: Discovering Network Routes with Traceroute](https://dev.to/rijultp/the-internets-roadmap-discovering-network-routes-with-traceroute-3nhk)
+- [Implementing an effective Application Security Program: Strategies, methods, and Tools for Optimal results](https://dev.to/lynxfelony1/implementing-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-299l)
+- [Week 1](https://dev.to/donnellycarroll/week-1-3c4g)
 <!-- BLOG-POST-LIST:END -->
 
 
