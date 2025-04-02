@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multichannel vs. Omnichannel Strategies: A Comprehensive Guide](https://dev.to/ruvimbochibada1/multichannel-vs-omnichannel-strategies-a-comprehensive-guide-19hd)
-- [Structured Clone Algorithm in JavaScript](https://dev.to/omriluz1/structured-clone-algorithm-in-javascript-1lk1)
-- [The Impact of Generative AI Images on the Art World](https://dev.to/srihawi/the-impact-of-generative-ai-images-on-the-art-world-2gp6)
-- [Filtering vs. Locating Elements by Text in Playwright: What’s the Difference?](https://dev.to/araujosnathan/filtering-vs-locating-elements-by-text-in-playwright-whats-the-difference-7km)
+- [Challenges in the UK Life Sciences Sector and the Role of Closeup CRM](https://dev.to/pharmacrm/challenges-in-the-uk-life-sciences-sector-and-the-role-of-closeup-crm-52k)
+- [gRPC for microservices in Kubernetes](https://dev.to/letsdotech/grpc-for-microservices-in-kubernetes-oel)
+- [Tutorial 31: 📱 UserDefaults and Keychain - Storing Small Amounts of Data Securely](https://dev.to/cl0udleadanis/tutorial-31-userdefaults-and-keychain-storing-small-amounts-of-data-securely-5a05)
+- [🔥 Want to build a high-performing dev team and an infrastructure that scales? Ashkan Rajaee shares the key strategies behind CRM systems that just work. #Startups #CRM #TechSuccess #AshkanRajaee](https://dev.to/pierr3smith/want-to-build-a-high-performing-dev-team-and-an-infrastructure-that-scales-ashkan-rajaee-shares-4b8m)
 <!-- BLOG-POST-LIST:END -->
 
 
