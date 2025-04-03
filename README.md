@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
-- [Desire for Structure &lpar;read “SQL”&rpar;](https://dev.to/benedetto_proietti/desire-for-structure-read-sql-ofh)
-- [Data Engineering: The Hero Behind Smart Data Decisions](https://dev.to/tart_labs/data-engineering-the-hero-behind-smart-data-decisions-2280)
-- [Three Ways to Fight AI Crawlers](https://dev.to/this-is-learning/three-ways-to-fight-ai-crawlers-1c2f)
+- [Announcing: Native Support for LangChain](https://dev.to/gentoro/announcing-native-support-for-langchain-2am7)
+- [Great Post](https://dev.to/kevin_asutton_/great-post-2moc)
+- [Hyper-Converged Infrastructure – The Future of IT Operations](https://dev.to/kevin_asutton_/hyper-converged-infrastructure-the-future-of-it-operations-2g2p)
+- [Implementing a Reliable Event-Driven System with Dead Letter Queues in Golang and Redis](https://dev.to/faranmustafa/implementing-a-reliable-event-driven-system-with-dead-letter-queues-in-golang-and-redis-43pb)
 <!-- BLOG-POST-LIST:END -->
 
 
