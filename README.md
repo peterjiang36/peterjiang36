@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Revolutionizing 4D Reconstruction: Discover Easi3R&#39;s Game-Changing Techniques!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-4d-reconstruction-discover-easi3rs-game-changing-techniques-gmh)
-- [Oracle 23ai - Hybrid Read-Only Mode for Pluggable Databases](https://dev.to/vahidusefzadeh/oracle-23ai-hybrid-read-only-mode-for-pluggable-databases-3io6)
-- [Daily JavaScript Challenge #JS-141: Add Numbers in a Matrix Diagonal](https://dev.to/dpc/daily-javascript-challenge-js-141-add-numbers-in-a-matrix-diagonal-2ke5)
-- [Serpentine Plotter: A Free Web-Based SVG Generator for Beautiful Generative Art](https://dev.to/jawharkodadi/serpentine-plotter-a-free-web-based-svg-generator-for-beautiful-generative-art-3imf)
+- [反反爬浏览器自动化patchright](https://dev.to/dragon72463399/fan-fan-pa-liu-lan-qi-zi-dong-hua-patchright-4mla)
+- [2874. Maximum Value of an Ordered Triplet II](https://dev.to/mdarifulhaque/2874-maximum-value-of-an-ordered-triplet-ii-g3g)
+- [&#39;WallMod&#39; - my FOSS static wallpaper browser and manipulator &lpar;inspired by WallpaperEngine&rpar;](https://dev.to/defrimbinakaj/wallmod-my-foss-static-wallpaper-browser-and-manipulator-inspired-by-wallpaperengine-26b8)
+- [Aula02 - Alura Imersão dev](https://dev.to/macielamandac/aula02-alura-imersao-dev-1h0g)
 <!-- BLOG-POST-LIST:END -->
 
 
