@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [反反爬浏览器自动化patchright](https://dev.to/dragon72463399/fan-fan-pa-liu-lan-qi-zi-dong-hua-patchright-4mla)
-- [2874. Maximum Value of an Ordered Triplet II](https://dev.to/mdarifulhaque/2874-maximum-value-of-an-ordered-triplet-ii-g3g)
-- [&#39;WallMod&#39; - my FOSS static wallpaper browser and manipulator &lpar;inspired by WallpaperEngine&rpar;](https://dev.to/defrimbinakaj/wallmod-my-foss-static-wallpaper-browser-and-manipulator-inspired-by-wallpaperengine-26b8)
-- [Aula02 - Alura Imersão dev](https://dev.to/macielamandac/aula02-alura-imersao-dev-1h0g)
+- [Shhh, It&#39;s a Secret! Using Pulumi ESC &amp; AWS Lambda for Secure Secrets Management](https://dev.to/techondiapers/shhh-its-a-secret-using-pulumi-esc-aws-lambda-for-secure-secrets-management-1kbn)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2mog)
+- [GitHub Copilot &amp; AI for DevOps Engineers: How to Boost Productivity](https://dev.to/yash_sonawane25/github-copilot-ai-for-devops-engineers-how-to-boost-productivity-34m8)
+- [What is llms.txt? How it works and examples](https://dev.to/tiffany-mintlify/what-is-llmstxt-how-it-works-and-examples-p0p)
 <!-- BLOG-POST-LIST:END -->
 
 
