@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing: Native Support for LangChain](https://dev.to/gentoro/announcing-native-support-for-langchain-2am7)
-- [Great Post](https://dev.to/kevin_asutton_/great-post-2moc)
-- [Hyper-Converged Infrastructure – The Future of IT Operations](https://dev.to/kevin_asutton_/hyper-converged-infrastructure-the-future-of-it-operations-2g2p)
-- [Implementing a Reliable Event-Driven System with Dead Letter Queues in Golang and Redis](https://dev.to/faranmustafa/implementing-a-reliable-event-driven-system-with-dead-letter-queues-in-golang-and-redis-43pb)
+- [How to use the array filter&lpar;&rpar; method in JavaScript](https://dev.to/logrocket/how-to-use-the-array-filter-method-in-javascript-43e6)
+- [Beyond translations in Stimulus: formatting dates, time and currency](https://dev.to/railsdesigner/beyond-translations-in-stimulus-formatting-dates-time-and-currency-52o5)
+- [Google Cloud Pub/Sub: A Deep Dive](https://dev.to/swayam_sampad_e68f2950997/google-cloud-pubsub-a-deep-dive-13pe)
+- [React Best Practices: Maintaining Large Scale Projects](https://dev.to/buttercms/react-best-practices-maintaining-large-scale-projects-3kbo)
 <!-- BLOG-POST-LIST:END -->
 
 
