@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Learns Like Humans: Easier Tasks First Leads to Better Math and Logic Performance](https://dev.to/mikeyoung44/ai-learns-like-humans-easier-tasks-first-leads-to-better-math-and-logic-performance-1n8n)
-- [Small AI Model Matches GPT-4&#39;s Performance Using High-Quality Training Data](https://dev.to/mikeyoung44/small-ai-model-matches-gpt-4s-performance-using-high-quality-training-data-9mj)
-- [How to Design a Sofa Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-sofa-using-3d-cad-software-35pd)
-- [AI Breakthrough: Training Vision Models Without Images Cuts Computing Costs by 37x](https://dev.to/mikeyoung44/ai-breakthrough-training-vision-models-without-images-cuts-computing-costs-by-37x-93f)
+- [Much Simpler Alternative to Spring Profile](https://dev.to/kiponos/much-simpler-alternative-to-spring-profile-1blc)
+- [Never Miss a Booking Again! The Salon Appointment Software That Changes Everything](https://dev.to/john_winter_3710/never-miss-a-booking-again-the-salon-appointment-software-that-changes-everything-18ab)
+- [Creating custom command in your terminal](https://dev.to/bcncodeschool/creating-custom-command-in-your-terminal-5d44)
+- [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
 <!-- BLOG-POST-LIST:END -->
 
 
