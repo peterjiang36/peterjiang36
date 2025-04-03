@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The process of creating an effective Application Security Programme: Strategies, practices and tools for optimal outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-bop)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1e1l)
-- [Top 7 Resources &amp; Websites to learn Coding](https://dev.to/ameema/top-7-resources-websites-to-learn-coding-2gip)
-- [5 Ways to Center a Div in CSS](https://dev.to/code_2/5-ways-to-center-a-div-in-css-37il)
+- [You don&#39;t need Figma](https://dev.to/levi_v/you-dont-need-figma-3djb)
+- [Backend Software Engineers are Designers and Artists Too](https://dev.to/tomjohnson3/backend-software-engineers-are-designers-and-artists-too-4b05)
+- [9 Best Practices for Code Reviews](https://dev.to/ed_dfreitas/9-best-practices-for-code-reviews-c1o)
+- [How to use docker exec to interact with running containers](https://dev.to/logrocket/how-to-use-docker-exec-to-interact-with-running-containers-3mnk)
 <!-- BLOG-POST-LIST:END -->
 
 
