@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Charts with React and ChartJS](https://dev.to/emmanueloloke/building-charts-with-react-and-chartjs-4mlo)
-- [Kotlin or the island?](https://dev.to/wollaceeastmant/kotlin-or-the-island-82m)
-- [What Is Eager Execution in Tensorflow in 2025?](https://dev.to/anna_golubkova/what-is-eager-execution-in-tensorflow-in-2025-1ipo)
-- [How to Create Vector Embeddings in Node.js](https://dev.to/datastax/how-to-create-vector-embeddings-in-nodejs-2khl)
+- [GSP321: Develop your Google Cloud Network - Challenge Lab Solution.](https://dev.to/emmanueloloke/gsp321-develop-your-google-cloud-network-challenge-lab-solution-1nl0)
+- [Strengthening XRPL EVM Sidechain: Key Takeaways from Informal Systems Security Audit](https://dev.to/ripplexdev/strengthening-xrpl-evm-sidechain-key-takeaways-from-informal-systems-security-audit-4dme)
+- [Mastering GSP313: Step-by-Step Guide to Implementing Load Balancing on Google Cloud Compute Engine.](https://dev.to/emmanueloloke/mastering-gsp313-step-by-step-guide-to-implementing-load-balancing-on-google-cloud-compute-engine-4h27)
+- [useDebounce Hook in React](https://dev.to/joodi/usedebounce-hook-in-react-48gi)
 <!-- BLOG-POST-LIST:END -->
 
 
