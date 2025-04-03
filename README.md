@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use the array filter&lpar;&rpar; method in JavaScript](https://dev.to/logrocket/how-to-use-the-array-filter-method-in-javascript-43e6)
-- [Beyond translations in Stimulus: formatting dates, time and currency](https://dev.to/railsdesigner/beyond-translations-in-stimulus-formatting-dates-time-and-currency-52o5)
-- [Google Cloud Pub/Sub: A Deep Dive](https://dev.to/swayam_sampad_e68f2950997/google-cloud-pubsub-a-deep-dive-13pe)
-- [React Best Practices: Maintaining Large Scale Projects](https://dev.to/buttercms/react-best-practices-maintaining-large-scale-projects-3kbo)
+- [Keeping Your Services Up and Running: A Friendly Guide to High Availability](https://dev.to/lovestaco/keeping-your-services-up-and-running-a-friendly-guide-to-high-availability-1ja7)
+- [🔥 XAMPP is Dead？ Docker is Overkill？Try The Lightning-Fast Dev Tool 🔥](https://dev.to/mattyedwards/xampp-is-dead-docker-is-overkilltry-the-lightning-fast-dev-tool-1c82)
+- [🔥 Go’s Zero-Value: The Hidden Superpower You Didn’t Know You Needed](https://dev.to/mx_tech/gos-zero-value-structs-the-hidden-superpower-you-didnt-know-you-needed-3fnk)
+- [Stock Management System- Backend Setup](https://dev.to/shaikr786/stock-management-system-backend-setup-1i1g)
 <!-- BLOG-POST-LIST:END -->
 
 
