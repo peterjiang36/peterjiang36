@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Much Simpler Alternative to Spring Profile](https://dev.to/kiponos/much-simpler-alternative-to-spring-profile-1blc)
-- [Never Miss a Booking Again! The Salon Appointment Software That Changes Everything](https://dev.to/john_winter_3710/never-miss-a-booking-again-the-salon-appointment-software-that-changes-everything-18ab)
-- [Creating custom command in your terminal](https://dev.to/bcncodeschool/creating-custom-command-in-your-terminal-5d44)
-- [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
+- [The process of creating an effective Application Security Programme: Strategies, practices and tools for optimal outcomes](https://dev.to/lynxfelony1/the-process-of-creating-an-effective-application-security-programme-strategies-practices-and-bop)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-1e1l)
+- [Top 7 Resources &amp; Websites to learn Coding](https://dev.to/ameema/top-7-resources-websites-to-learn-coding-2gip)
+- [5 Ways to Center a Div in CSS](https://dev.to/code_2/5-ways-to-center-a-div-in-css-37il)
 <!-- BLOG-POST-LIST:END -->
 
 
