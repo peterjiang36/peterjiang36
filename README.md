@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabeth8012/-4bb7)
-- [Fine-Tuning e RAG: Entendendo as Estratégias para Personalizar um Chatbot com IA](https://dev.to/igorspestana/fine-tuning-e-rag-entendendo-as-estrategias-para-personalizar-um-chatbot-com-ia-3leg)
-- [My First Solo Full Development Site](https://dev.to/runnndmc/my-first-solo-full-development-site-2g59)
-- [Guardrails en AWS Bedrock: Controlando la generación de contenido con IA](https://dev.to/briansuarezsantiago/guardrails-en-aws-bedrock-controlando-la-generacion-de-contenido-con-ia-9e8)
+- [Building Charts with React and ChartJS](https://dev.to/emmanueloloke/building-charts-with-react-and-chartjs-4mlo)
+- [Kotlin or the island?](https://dev.to/wollaceeastmant/kotlin-or-the-island-82m)
+- [What Is Eager Execution in Tensorflow in 2025?](https://dev.to/anna_golubkova/what-is-eager-execution-in-tensorflow-in-2025-1ipo)
+- [How to Create Vector Embeddings in Node.js](https://dev.to/datastax/how-to-create-vector-embeddings-in-nodejs-2khl)
 <!-- BLOG-POST-LIST:END -->
 
 
