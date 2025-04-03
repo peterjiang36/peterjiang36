@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JOKENPO ImersaoDEV Alura](https://dev.to/thimarques88/jokenpo-imersaodev-alura-27c)
-- [Why Every Developer Should Care About AI in Business](https://dev.to/bizriseadvisors/why-every-developer-should-care-about-ai-in-business-37ln)
-- [OCaml/Dune Tutorial](https://dev.to/david2am/ocamldune-tutorial-5688)
-- [Basic OCaml](https://dev.to/david2am/basic-ocaml-2j0g)
+- [&quot;Revolutionizing 4D Reconstruction: Discover Easi3R&#39;s Game-Changing Techniques!&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-4d-reconstruction-discover-easi3rs-game-changing-techniques-gmh)
+- [Oracle 23ai - Hybrid Read-Only Mode for Pluggable Databases](https://dev.to/vahidusefzadeh/oracle-23ai-hybrid-read-only-mode-for-pluggable-databases-3io6)
+- [Daily JavaScript Challenge #JS-141: Add Numbers in a Matrix Diagonal](https://dev.to/dpc/daily-javascript-challenge-js-141-add-numbers-in-a-matrix-diagonal-2ke5)
+- [Serpentine Plotter: A Free Web-Based SVG Generator for Beautiful Generative Art](https://dev.to/jawharkodadi/serpentine-plotter-a-free-web-based-svg-generator-for-beautiful-generative-art-3imf)
 <!-- BLOG-POST-LIST:END -->
 
 
