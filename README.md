@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Your Services Up and Running: A Friendly Guide to High Availability](https://dev.to/lovestaco/keeping-your-services-up-and-running-a-friendly-guide-to-high-availability-1ja7)
-- [🔥 XAMPP is Dead？ Docker is Overkill？Try The Lightning-Fast Dev Tool 🔥](https://dev.to/mattyedwards/xampp-is-dead-docker-is-overkilltry-the-lightning-fast-dev-tool-1c82)
-- [🔥 Go’s Zero-Value: The Hidden Superpower You Didn’t Know You Needed](https://dev.to/mx_tech/gos-zero-value-structs-the-hidden-superpower-you-didnt-know-you-needed-3fnk)
-- [Stock Management System- Backend Setup](https://dev.to/shaikr786/stock-management-system-backend-setup-1i1g)
+- [Congrats to the KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-kendoreact-free-components-challenge-winners-f8f)
+- [HandBrake ile Video Dönüştürme ve Sıkıştırma Rehberi](https://dev.to/eagledofficial/handbrake-ile-video-donusturme-ve-sikistirma-rehberi-4g7o)
+- [Monorepo Tutorial With Lerna, Storybook &amp; Next.js](https://dev.to/buttercms/monorepo-tutorial-with-lerna-storybook-nextjs-5l3)
+- [From Tutorial Hell to Hands-On Mastery: How to Actually Learn Backend Development 🚀🔥](https://dev.to/piyush_sati_0409/from-tutorial-hell-to-hands-on-mastery-how-to-actually-learn-backend-development-2po9)
 <!-- BLOG-POST-LIST:END -->
 
 
