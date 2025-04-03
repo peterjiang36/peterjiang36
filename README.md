@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an NSFW AI Image Generator with Next.js, React, and Tailwind CSS](https://dev.to/ficav/building-an-nsfw-ai-image-generator-with-nextjs-react-and-tailwind-css-5gj1)
-- [Built a Free AI Coding Interview Prep Tool – Looking for Feedback](https://dev.to/franthe3rd/built-a-free-ai-coding-interview-prep-tool-looking-for-feedback-444g)
-- [JavaScript Memory Model: Understanding Data Types, References, and Garbage Collection](https://dev.to/moizali/javascript-memory-model-understanding-data-types-references-and-garbage-collection-mgc)
-- [How to Achieve Precise Motor Measurement on the TI AM6254 Platform Using eQEP](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-achieve-precise-motor-measurement-on-the-ti-am6254-platform-using-eqep-15l5)
+- [How Do I Fix Performance Bottlenecks in Node.js?](https://dev.to/arunangshu_das/how-do-i-fix-performance-bottlenecks-in-nodejs-5e76)
+- [[Tutorial] Validação de formulário HTML5](https://dev.to/luysla/tutorial-validacao-de-formulario-html5-2a66)
+- [AWS CloudFront CNAME Conflict – “One or more of the CNAMEs you provided are already associated with a different resource”](https://dev.to/siddddd17/aws-cloudfront-cname-conflict-one-or-more-of-the-cnames-you-provided-are-already-associated-with-1mp7)
+- [The Importance of Enterprise Asset Management &lpar;EAM&rpar; for Modern Businesses](https://dev.to/seleam/the-importance-of-enterprise-asset-management-eam-for-modern-businesses-203n)
 <!-- BLOG-POST-LIST:END -->
 
 
