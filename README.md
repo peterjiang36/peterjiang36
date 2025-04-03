@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Top Social Trading Apps of 2025](https://dev.to/nvstly/the-top-social-trading-apps-of-2025-118)
-- [🌟 Minecraft 1.30: The Galilean Update - A Cosmic Gaming Revolution! 🚀](https://dev.to/berkan_baerbuilder_85/minecraft-130-the-galilean-update-a-cosmic-gaming-revolution-5e44)
-- [Top Global AI Companies in 2025: Who’s Leading the Innovation Race?](https://dev.to/priyankapandey/top-global-ai-companies-in-2025-whos-leading-the-innovation-race-13gp)
-- [Leetcode - 206. Reverse Linked List](https://dev.to/rakeshreddy512/leetcode-206-reverse-linked-list-56a3)
+- [AI Learns Like Humans: Easier Tasks First Leads to Better Math and Logic Performance](https://dev.to/mikeyoung44/ai-learns-like-humans-easier-tasks-first-leads-to-better-math-and-logic-performance-1n8n)
+- [Small AI Model Matches GPT-4&#39;s Performance Using High-Quality Training Data](https://dev.to/mikeyoung44/small-ai-model-matches-gpt-4s-performance-using-high-quality-training-data-9mj)
+- [How to Design a Sofa Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-sofa-using-3d-cad-software-35pd)
+- [AI Breakthrough: Training Vision Models Without Images Cuts Computing Costs by 37x](https://dev.to/mikeyoung44/ai-breakthrough-training-vision-models-without-images-cuts-computing-costs-by-37x-93f)
 <!-- BLOG-POST-LIST:END -->
 
 
