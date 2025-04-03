@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need Figma](https://dev.to/levi_v/you-dont-need-figma-3djb)
-- [Backend Software Engineers are Designers and Artists Too](https://dev.to/tomjohnson3/backend-software-engineers-are-designers-and-artists-too-4b05)
-- [9 Best Practices for Code Reviews](https://dev.to/ed_dfreitas/9-best-practices-for-code-reviews-c1o)
-- [How to use docker exec to interact with running containers](https://dev.to/logrocket/how-to-use-docker-exec-to-interact-with-running-containers-3mnk)
+- [Clojure Is Awesome!!! [PART 19]](https://dev.to/borba/clojure-is-awesome-part-19-4133)
+- [Desire for Structure &lpar;read “SQL”&rpar;](https://dev.to/benedetto_proietti/desire-for-structure-read-sql-ofh)
+- [Data Engineering: The Hero Behind Smart Data Decisions](https://dev.to/tart_labs/data-engineering-the-hero-behind-smart-data-decisions-2280)
+- [Three Ways to Fight AI Crawlers](https://dev.to/this-is-learning/three-ways-to-fight-ai-crawlers-1c2f)
 <!-- BLOG-POST-LIST:END -->
 
 
