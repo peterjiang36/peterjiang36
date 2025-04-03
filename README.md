@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose a Crypto Loan Platform](https://dev.to/kaankaya/how-to-choose-a-crypto-loan-platform-5h8n)
-- [Enhancing Speed and Security with Transparent Proxies](https://dev.to/swiftproxy_residential/enhancing-speed-and-security-with-transparent-proxies-361)
-- [Setting Up Telemetry in Golang](https://dev.to/akarshan/setting-up-telemetry-in-golang-37lo)
-- [How APIs Are Shaping the Future of Software Development](https://dev.to/swiftproxy_residential/how-apis-are-shaping-the-future-of-software-development-4ln9)
+- [Taming the Concurrency Beast: A Guide to Go&#39;s Goroutines and Channels 🐹💪](https://dev.to/tavernetech/taming-the-concurrency-beast-a-guide-to-gos-goroutines-and-channels-1cj6)
+- [Mutation Testing in Rust](https://dev.to/nfrankel/mutation-testing-in-rust-3hpl)
+- [Top 10 Free AI Tools for VS Code to Boost Your Coding Productivity &lpar;2025&rpar; 🚀🚀](https://dev.to/manas_tole_039/top-10-free-ai-tools-for-vs-code-to-boost-your-coding-productivity-2025-1me5)
+- [Navigating Regulatory Compliance in API Development](https://dev.to/rapyd/navigating-regulatory-compliance-in-api-development-3nab)
 <!-- BLOG-POST-LIST:END -->
 
 
