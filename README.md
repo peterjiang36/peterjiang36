@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shhh, It&#39;s a Secret! Using Pulumi ESC &amp; AWS Lambda for Secure Secrets Management](https://dev.to/techondiapers/shhh-its-a-secret-using-pulumi-esc-aws-lambda-for-secure-secrets-management-1kbn)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2mog)
-- [GitHub Copilot &amp; AI for DevOps Engineers: How to Boost Productivity](https://dev.to/yash_sonawane25/github-copilot-ai-for-devops-engineers-how-to-boost-productivity-34m8)
-- [What is llms.txt? How it works and examples](https://dev.to/tiffany-mintlify/what-is-llmstxt-how-it-works-and-examples-p0p)
+- [Building an NSFW AI Image Generator with Next.js, React, and Tailwind CSS](https://dev.to/ficav/building-an-nsfw-ai-image-generator-with-nextjs-react-and-tailwind-css-5gj1)
+- [Built a Free AI Coding Interview Prep Tool – Looking for Feedback](https://dev.to/franthe3rd/built-a-free-ai-coding-interview-prep-tool-looking-for-feedback-444g)
+- [JavaScript Memory Model: Understanding Data Types, References, and Garbage Collection](https://dev.to/moizali/javascript-memory-model-understanding-data-types-references-and-garbage-collection-mgc)
+- [How to Achieve Precise Motor Measurement on the TI AM6254 Platform Using eQEP](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-achieve-precise-motor-measurement-on-the-ti-am6254-platform-using-eqep-15l5)
 <!-- BLOG-POST-LIST:END -->
 
 
