@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 25+ AI Logo Generators — Here&#39;s the Best One for Professional Logos](https://dev.to/nitinfab/i-tested-25-ai-logo-generators-heres-the-best-one-for-professional-logos-23dl)
-- [Factorial of a number using iteration](https://dev.to/reshma_17/factorial-of-a-number-using-iteration-4gli)
-- [Common Mistakes in Web Development and How to Avoid Them](https://dev.to/haroldfreeman/common-mistakes-in-web-development-and-how-to-avoid-them-53b2)
-- [Convert Your Images to Ghibli Style in a Fully Private and Local Environment](https://dev.to/nodeshiftcloud/convert-your-images-to-ghibli-style-in-a-fully-private-and-local-environment-lfl)
+- [Computer Network](https://dev.to/yashi_srivastava_9166487c/computer-network-p88)
+- [Love Horoscope Daily: Crafting a Magical User Experience](https://dev.to/romulusjustinianus/love-horoscope-daily-crafting-a-magical-user-experience-3hnh)
+- [Building the Future: How Web3 is Changing the Digital Economy in Nigeria](https://dev.to/raji_moshood_ee3a4c2638f6/building-the-future-how-web3-is-changing-the-digital-economy-in-nigeria-256c)
+- [The Role of APIs in Modern Software Development](https://dev.to/ellenmurphy/the-role-of-apis-in-modern-software-development-1336)
 <!-- BLOG-POST-LIST:END -->
 
 
