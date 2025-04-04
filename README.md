@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
-- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
-- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
-- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/nikhil_sachapara/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-1f0i)
+- [What is MCP Server? Clearly Explained!](https://dev.to/lynn_mikami_e94e5b9ad7daf/what-is-mcp-server-clearly-explained-210l)
+- [Docker Model Runner: The Missing Piece for Your GenAI Development Workflow](https://dev.to/ajeetraina/docker-model-runner-the-missing-piece-for-your-genai-development-workflow-2f6n)
+- [Mastering Ruby&#39;s String Concatenation with the Backslash &lpar;`\`&rpar;](https://dev.to/jessalejo/mastering-rubys-string-concatenation-with-the-backslash--5bd6)
+- [AI In Fraud Detection: How Banks Use Machine Learning](https://dev.to/seo_glaxit_8e9af3e01a9970/ai-in-fraud-detection-how-banks-use-machine-learning-2h44)
 <!-- BLOG-POST-LIST:END -->
 
 
