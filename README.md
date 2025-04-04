@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB 🦆 : Libérez le puissant moteur de Requêtes](https://dev.to/mikekenneth77/duckdb-liberez-le-puissant-moteur-de-requetes-1977)
-- [The Drip Network Team: Innovators in DeFi](https://dev.to/laetitiaperraut/the-drip-network-team-innovators-in-defi-1kda)
-- [SOHO Networking](https://dev.to/andrew_despres/soho-networking-afl)
-- [Conversor de Wons](https://dev.to/danielcezar/conversor-de-wons-25kd)
+- [Discovering the Potential of Drip Network](https://dev.to/jennythomas498/discovering-the-potential-of-drip-network-59i5)
+- [Teaching Code in the AI Era: Why Fundamentals Still Matter](https://dev.to/aspittel/teaching-code-in-the-ai-era-why-fundamentals-still-matter-1k1g)
+- [My experience as technical content](https://dev.to/rahul_d_69c56a981e11c6728/my-experience-as-technical-content-21a6)
+- [What Can You Actually Make With Electronics?](https://dev.to/buono/what-can-you-actually-make-with-electronics-1p3g)
 <!-- BLOG-POST-LIST:END -->
 
 
