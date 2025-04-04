@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Second Step into the World of RxJS: RxJS Operators — How to Learn and Why They Are Needed](https://dev.to/artstesh/the-second-step-into-the-world-of-rxjs-rxjs-operators-how-to-learn-and-why-they-are-needed-1f22)
-- [Recursion in JavaScript](https://dev.to/darenporretto/recursion-in-javascript-di0)
-- [[Boost]](https://dev.to/stakosh/-2ccm)
-- [Preparing COBOL Error Data for Machine Learning in SageMaker](https://dev.to/semperfitodd/preparing-cobol-error-data-for-machine-learning-in-sagemaker-2b54)
+- [Clojure Is Awesome!!! [PART 20]](https://dev.to/borba/clojure-is-awesome-part-20-56bk)
+- [Introducing Greening: Ship Beautiful Software, Fast](https://dev.to/chrisgreening/introducing-greening-ship-beautiful-software-fast-55do)
+- [Network Virtualization – The Future of Scalable IT Infrastructure](https://dev.to/kevin_asutton_/network-virtualization-the-future-of-scalable-it-infrastructure-1lop)
+- [Rangkuman Rust: Variables and Mutability](https://dev.to/driannaird/rangkuman-rust-variables-and-mutability-4nbn)
 <!-- BLOG-POST-LIST:END -->
 
 
