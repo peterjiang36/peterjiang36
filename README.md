@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering the Potential of Drip Network](https://dev.to/jennythomas498/discovering-the-potential-of-drip-network-59i5)
-- [Teaching Code in the AI Era: Why Fundamentals Still Matter](https://dev.to/aspittel/teaching-code-in-the-ai-era-why-fundamentals-still-matter-1k1g)
-- [My experience as technical content](https://dev.to/rahul_d_69c56a981e11c6728/my-experience-as-technical-content-21a6)
-- [What Can You Actually Make With Electronics?](https://dev.to/buono/what-can-you-actually-make-with-electronics-1p3g)
+- [The Role of AI in Contemporary Software Testing](https://dev.to/nathamuni_nk_af1dd728d76b/the-role-of-ai-in-contemporary-software-testing-1n45)
+- [🚀 Say Goodbye to XAMPP and Docker: Discover the Future of Development Tools! 🚀](https://dev.to/taedmonds_100/say-goodbye-to-xampp-and-docker-discover-the-future-of-development-tools-3o07)
+- [E2E Testing: Ensuring Seamless Application Performance](https://dev.to/keploy/e2e-testing-ensuring-seamless-application-performance-4kjb)
+- [On-Device Neural Networks for Predicting To-Dos in Karui](https://dev.to/ronynn/on-device-neural-networks-for-predicting-to-dos-in-karui-1lfc)
 <!-- BLOG-POST-LIST:END -->
 
 
