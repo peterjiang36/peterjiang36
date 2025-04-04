@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is MCP Server? Clearly Explained!](https://dev.to/lynn_mikami_e94e5b9ad7daf/what-is-mcp-server-clearly-explained-210l)
-- [Docker Model Runner: The Missing Piece for Your GenAI Development Workflow](https://dev.to/ajeetraina/docker-model-runner-the-missing-piece-for-your-genai-development-workflow-2f6n)
-- [Mastering Ruby&#39;s String Concatenation with the Backslash &lpar;`\`&rpar;](https://dev.to/jessalejo/mastering-rubys-string-concatenation-with-the-backslash--5bd6)
-- [AI In Fraud Detection: How Banks Use Machine Learning](https://dev.to/seo_glaxit_8e9af3e01a9970/ai-in-fraud-detection-how-banks-use-machine-learning-2h44)
+- [I Tested 25+ AI Logo Generators — Here&#39;s the Best One for Professional Logos](https://dev.to/nitinfab/i-tested-25-ai-logo-generators-heres-the-best-one-for-professional-logos-23dl)
+- [Factorial of a number using iteration](https://dev.to/reshma_17/factorial-of-a-number-using-iteration-4gli)
+- [Common Mistakes in Web Development and How to Avoid Them](https://dev.to/haroldfreeman/common-mistakes-in-web-development-and-how-to-avoid-them-53b2)
+- [Convert Your Images to Ghibli Style in a Fully Private and Local Environment](https://dev.to/nodeshiftcloud/convert-your-images-to-ghibli-style-in-a-fully-private-and-local-environment-lfl)
 <!-- BLOG-POST-LIST:END -->
 
 
