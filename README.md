@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Cheap Heroku Alternatives](https://dev.to/code42cate/5-cheap-heroku-alternatives-2j1l)
-- [&quot;Law Made Simple: A Common Man’s Guide to Understanding Indian Legal Rights in Just 3 Hours&quot;](https://dev.to/lokesh_medishetty_5/law-made-simple-a-common-mans-guide-to-understanding-indian-legal-rights-in-just-3-hours-1504)
-- [173/365 | ¥10M Job Challenge](https://dev.to/kameken100/173365-y10m-job-challenge-4383)
-- [Understanding the Dynamic World of Fragment Telegram Usernames: A Deep Dive into Digital Identity and Market Trends](https://dev.to/laetitiaperraut/understanding-the-dynamic-world-of-fragment-telegram-usernames-a-deep-dive-into-digital-identity-1mm4)
+- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
+- [Mocking API Requests in Unit Tests](https://dev.to/jszutkowski/mocking-api-requests-in-unit-tests-4j6o)
+- [How to Build a Number Guessing Game in Rust: A Step-by-Step Guide](https://dev.to/stellaacharoiro/how-to-build-a-number-guessing-game-in-rust-a-step-by-step-guide-2ca6)
+- [Building a Basic MCP Server with Python](https://dev.to/alexmercedcoder/building-a-basic-mcp-server-with-python-5ci7)
 <!-- BLOG-POST-LIST:END -->
 
 
