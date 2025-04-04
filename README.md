@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Model Processes Hour-Long Videos Using Smart Frame Selection and Mixed Precision Technology](https://dev.to/mikeyoung44/ai-model-processes-hour-long-videos-using-smart-frame-selection-and-mixed-precision-technology-5fek)
-- [AI Models Learn Speech and Text 4x Faster Using Combined Training Method](https://dev.to/mikeyoung44/ai-models-learn-speech-and-text-4x-faster-using-combined-training-method-1lhk)
-- [New AI Reward System Outperforms Larger Models Using Smart Inference Scaling](https://dev.to/mikeyoung44/new-ai-reward-system-outperforms-larger-models-using-smart-inference-scaling-583e)
-- [New AI Benchmark Reveals Major Flaws in Virtual World Generation Models](https://dev.to/mikeyoung44/new-ai-benchmark-reveals-major-flaws-in-virtual-world-generation-models-1ob)
+- [Ambiente de desenvolvimento rails e postgres com dev containers](https://dev.to/videosdeti/ambiente-de-desenvolvimento-rails-e-postgres-com-dev-containers-4k3e)
+- [Quick Integration of Bitcoin Payments with Apirone SDK for PHP — in 5 Steps](https://dev.to/apirone_com/quick-integration-of-bitcoin-payments-with-apirone-sdk-for-php-in-5-steps-473n)
+- [Day - 5 at payilagam &quot;Types of arguments&quot;](https://dev.to/kuhanraja_ar_1df623b8e2e/day-5-at-payilagam-types-of-arguments-3o14)
+- [Publish a small app every three months &lpar;2025&rpar; - Part 1](https://dev.to/lifi1/publish-a-small-app-every-three-months-2025-part-1-4ggl)
 <!-- BLOG-POST-LIST:END -->
 
 
