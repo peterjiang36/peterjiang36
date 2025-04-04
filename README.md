@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop Fantasy Sports Apps: A Step-by-Step Guide](https://dev.to/stevejacob45678/how-to-develop-fantasy-sports-apps-a-step-by-step-guide-24if)
-- [Why Should Businesses Invest in Custom AI Agent Development?](https://dev.to/smart_data_/why-should-businesses-invest-in-custom-ai-agent-development-47p1)
-- [🚀 Built a full e-commerce backend in Go using gRPC microservices, GraphQL, Kafka, and Docker — open source on GitHub](https://dev.to/asdxrfx/built-a-full-e-commerce-backend-in-go-using-grpc-microservices-graphql-kafka-and-docker-open-20d2)
-- [🐍 Mastering the Basics of Python: Type Casting, Exceptions, Functions, and Built-in Functions](https://dev.to/devbyleandro/mastering-the-basics-of-python-type-casting-exceptions-functions-and-built-in-functions-17of)
+- [AI Model Processes Hour-Long Videos Using Smart Frame Selection and Mixed Precision Technology](https://dev.to/mikeyoung44/ai-model-processes-hour-long-videos-using-smart-frame-selection-and-mixed-precision-technology-5fek)
+- [AI Models Learn Speech and Text 4x Faster Using Combined Training Method](https://dev.to/mikeyoung44/ai-models-learn-speech-and-text-4x-faster-using-combined-training-method-1lhk)
+- [New AI Reward System Outperforms Larger Models Using Smart Inference Scaling](https://dev.to/mikeyoung44/new-ai-reward-system-outperforms-larger-models-using-smart-inference-scaling-583e)
+- [New AI Benchmark Reveals Major Flaws in Virtual World Generation Models](https://dev.to/mikeyoung44/new-ai-benchmark-reveals-major-flaws-in-virtual-world-generation-models-1ob)
 <!-- BLOG-POST-LIST:END -->
 
 
