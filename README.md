@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in Contemporary Software Testing](https://dev.to/nathamuni_nk_af1dd728d76b/the-role-of-ai-in-contemporary-software-testing-1n45)
-- [🚀 Say Goodbye to XAMPP and Docker: Discover the Future of Development Tools! 🚀](https://dev.to/taedmonds_100/say-goodbye-to-xampp-and-docker-discover-the-future-of-development-tools-3o07)
-- [E2E Testing: Ensuring Seamless Application Performance](https://dev.to/keploy/e2e-testing-ensuring-seamless-application-performance-4kjb)
-- [On-Device Neural Networks for Predicting To-Dos in Karui](https://dev.to/ronynn/on-device-neural-networks-for-predicting-to-dos-in-karui-1lfc)
+- [Deep Dive - How Chunked Transfer Encoding Works](https://dev.to/sahan/deep-dive-how-chunked-transfer-encoding-works-4o9n)
+- [🚀Introducing the DevOps &amp; Cloud Docs Portal – Your Ultimate Learning Hub! 📚](https://dev.to/prodevopsguytech/introducing-the-devops-cloud-docs-portal-your-ultimate-learning-hub-38j2)
+- [The Best Postman Alternatives to Streamline API testing](https://dev.to/ronika_kashyap/the-best-postman-alternatives-to-streamline-api-testing-4dpo)
+- [Discover how sustainability is reshaping tech project management in 2025! Learn practical strategies, emerging technologies, and how tools like Teamcamp drive efficiency and innovation. 🌱](https://dev.to/nikhil_sachapara/discover-how-sustainability-is-reshaping-tech-project-management-in-2025-learn-practical-1f0i)
 <!-- BLOG-POST-LIST:END -->
 
 
