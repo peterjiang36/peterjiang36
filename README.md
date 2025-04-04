@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Monomorphization The Rust Way](https://dev.to/martcpp/monomorphization-the-rust-way-26e8)
-- [Here&#39;s what I like to do during my off-peak seasons as a #technicalwriter, I enjoy using this time to do some proofreading, often also to enhance my existing content so that it becomes more value-adding to whomever reads it. #offpeak #reposts](https://dev.to/d2d_weizhi/heres-what-i-like-to-do-during-my-off-peak-seasons-as-a-technicalwriter-i-enjoy-using-this-time-38j4)
-- [&quot;Revolutionizing Search and Rescue: The Future of Robotics and 6G Tech&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-search-and-rescue-the-future-of-robotics-and-6g-tech-308n)
-- [Open Cart Setup in docker using Postgres as database](https://dev.to/tunerlabs_dev/open-cart-setup-in-docker-using-postgres-as-database-1id5)
+- [I Built a Parking App MVP That Uses Real-Time Data -- Meet LotFinder](https://dev.to/thofficialcoder/i-built-a-parking-app-mvp-that-uses-real-time-data-meet-lotfinder-1i61)
+- [When to Use type vs interface in TypeScript?](https://dev.to/joodi/when-to-use-type-vs-interface-in-typescript-2dld)
+- [ATTACHING A DATA DISK TO AN AZURE VM](https://dev.to/iniobong_ema_92e60ed18028/attaching-a-data-disk-to-an-azure-vm-5e55)
+- [ArticleGenerator.site – Free SEO Article Generator Powered by AI](https://dev.to/articlegenerator/articlegeneratorsite-free-seo-article-generator-powered-by-ai-dkb)
 <!-- BLOG-POST-LIST:END -->
 
 
