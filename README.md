@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ambiente de desenvolvimento rails e postgres com dev containers](https://dev.to/videosdeti/ambiente-de-desenvolvimento-rails-e-postgres-com-dev-containers-4k3e)
-- [Quick Integration of Bitcoin Payments with Apirone SDK for PHP — in 5 Steps](https://dev.to/apirone_com/quick-integration-of-bitcoin-payments-with-apirone-sdk-for-php-in-5-steps-473n)
-- [Day - 5 at payilagam &quot;Types of arguments&quot;](https://dev.to/kuhanraja_ar_1df623b8e2e/day-5-at-payilagam-types-of-arguments-3o14)
-- [Publish a small app every three months &lpar;2025&rpar; - Part 1](https://dev.to/lifi1/publish-a-small-app-every-three-months-2025-part-1-4ggl)
+- [what is tRPC ? how to use it in react project?](https://dev.to/santoshpremi/what-is-trpc-how-to-use-it-in-react-project-38o5)
+- [🚀 How Amazon Shapes the Future of Dev &amp; Cloud ☁️](https://dev.to/cecile_agrios_8f41df14128/how-amazon-shapes-the-future-of-dev-cloud-14h5)
+- [🌐 Day 15/250 - CSS Position, Variables &amp; Media Queries](https://dev.to/munin-1/day-15250-css-position-variables-media-queries-31ia)
+- [🚀 Your Daily Crypto Job Digest For 04 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-april-2m5f)
 <!-- BLOG-POST-LIST:END -->
 
 
