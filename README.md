@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add Google OAuth to Next.js App Router with Supabase Auth](https://dev.to/mohamed3on/how-to-add-google-oauth-to-nextjs-app-router-with-supabase-auth-f0e)
-- [Stay in the problem space.](https://dev.to/cadienvan/stay-in-the-problem-space-2p3h)
-- [A Journey from AI to LLMs and MCP - 1 - What Is AI and How It Evolved Into LLMs](https://dev.to/alexmercedcoder/a-journey-from-ai-to-llms-and-mcp-1-what-is-ai-and-how-it-evolved-into-llms-58lk)
-- [When &quot;Sideways Movement&quot; Leads to Innovation &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-sideways-movement-leads-to-innovation-bite-size-article-1hj5)
+- [Fast-Track Your Static Site: Deploying Hugo with Pulumi on AWS S3](https://dev.to/sojinsamuel/fast-track-your-static-site-deploying-hugo-with-pulumi-on-aws-s3-56l6)
+- [What is a TLS Certificate? With an example](https://dev.to/bogkonstantin/what-is-a-tls-certificate-with-an-example-i1j)
+- [What Everyone’s Missing About React’s useDeferredValue Hook](https://dev.to/ivan_kaminskyi/what-everyones-missing-about-reacts-usedeferredvalue-hook-11p5)
+- [game4_Cristiane oliveira Cabo de guerra animal](https://dev.to/cristianeoliveira/game4cristiane-oliveira-cabo-de-guerra-animal-31ej)
 <!-- BLOG-POST-LIST:END -->
 
 
