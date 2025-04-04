@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀](https://dev.to/akhilesh_verma_4dd53b7054/-1edj)
-- [Mocking API Requests in Unit Tests](https://dev.to/jszutkowski/mocking-api-requests-in-unit-tests-4j6o)
-- [How to Build a Number Guessing Game in Rust: A Step-by-Step Guide](https://dev.to/stellaacharoiro/how-to-build-a-number-guessing-game-in-rust-a-step-by-step-guide-2ca6)
-- [Building a Basic MCP Server with Python](https://dev.to/alexmercedcoder/building-a-basic-mcp-server-with-python-5ci7)
+- [BigInt: Handling Large Integers in JavaScript](https://dev.to/omriluz1/bigint-handling-large-integers-in-javascript-35bb)
+- [Aigency](https://dev.to/nuri_kaplan_3990fed3f6725/aigency-20e5)
+- [Building a Webhook Systems with NestJS: Handling Retry, Security, Dead-letter Queues, and Rate Limiting ✨](https://dev.to/juan_castillo/building-a-webhook-systems-with-nestjs-handling-retry-security-dead-letter-queues-and-rate-4nm7)
+- [Tech and Africa -Northen Nigeria](https://dev.to/aliyualbako/tech-and-africa-northen-nigeria-1l07)
 <!-- BLOG-POST-LIST:END -->
 
 
