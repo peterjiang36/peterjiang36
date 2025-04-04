@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BigInt: Handling Large Integers in JavaScript](https://dev.to/omriluz1/bigint-handling-large-integers-in-javascript-35bb)
-- [Aigency](https://dev.to/nuri_kaplan_3990fed3f6725/aigency-20e5)
-- [Building a Webhook Systems with NestJS: Handling Retry, Security, Dead-letter Queues, and Rate Limiting ✨](https://dev.to/juan_castillo/building-a-webhook-systems-with-nestjs-handling-retry-security-dead-letter-queues-and-rate-4nm7)
-- [Tech and Africa -Northen Nigeria](https://dev.to/aliyualbako/tech-and-africa-northen-nigeria-1l07)
+- [How to add Google OAuth to Next.js App Router with Supabase Auth](https://dev.to/mohamed3on/how-to-add-google-oauth-to-nextjs-app-router-with-supabase-auth-f0e)
+- [Stay in the problem space.](https://dev.to/cadienvan/stay-in-the-problem-space-2p3h)
+- [A Journey from AI to LLMs and MCP - 1 - What Is AI and How It Evolved Into LLMs](https://dev.to/alexmercedcoder/a-journey-from-ai-to-llms-and-mcp-1-what-is-ai-and-how-it-evolved-into-llms-58lk)
+- [When &quot;Sideways Movement&quot; Leads to Innovation &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-sideways-movement-leads-to-innovation-bite-size-article-1hj5)
 <!-- BLOG-POST-LIST:END -->
 
 
