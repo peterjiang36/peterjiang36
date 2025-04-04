@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 20]](https://dev.to/borba/clojure-is-awesome-part-20-56bk)
-- [Introducing Greening: Ship Beautiful Software, Fast](https://dev.to/chrisgreening/introducing-greening-ship-beautiful-software-fast-55do)
-- [Network Virtualization – The Future of Scalable IT Infrastructure](https://dev.to/kevin_asutton_/network-virtualization-the-future-of-scalable-it-infrastructure-1lop)
-- [Rangkuman Rust: Variables and Mutability](https://dev.to/driannaird/rangkuman-rust-variables-and-mutability-4nbn)
+- [Optimizing Docker Image Builds for Speed &amp; Efficiency](https://dev.to/docker/optimizing-docker-image-builds-for-speed-efficiency-17b)
+- [🔥 Most marketing fails, but not for the reasons you think! This article breaks down Ashkan Rajaee’s take on why and how to fix it. A must-read for #sales, #copywriting, and #data-driven marketing! 🚀 #ashkanrajaee](https://dev.to/marcusquinn05/most-marketing-fails-but-not-for-the-reasons-you-think-this-article-breaks-down-ashkan-rajaees-26kd)
+- [How to Build Your Own Bluetooth Scriptable Sniffer for Under $30](https://dev.to/bleuiot/how-to-build-your-own-bluetooth-scriptable-sniffer-for-under-30-4g1i)
+- [LUA parser for Apple Homekit using BleuIO](https://dev.to/bleuiot/lua-parser-for-apple-homekit-using-bleuio-4leb)
 <!-- BLOG-POST-LIST:END -->
 
 
