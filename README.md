@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Breaking the Monolith: Why Microservices with Node.js &amp; Nest.js Are Game-Changers in 2025!](https://dev.to/dct_technology/breaking-the-monolith-why-microservices-with-nodejs-nestjs-are-game-changers-in-2025-54hk)
-- [A story about creating a forum service in the age of AI](https://dev.to/goofmint/a-story-about-creating-a-forum-service-in-the-age-of-ai-543c)
-- [kubernetes detect &amp; response](https://dev.to/mariocandela/-1gki)
-- [Securing Kubernetes Using Honeypots to Detect and Prevent Lateral Movement Attacks](https://dev.to/mariocandela/securing-kubernetes-using-honeypots-to-detect-and-prevent-lateral-movement-attacks-gnh)
+- [Need Urgent Tech Help? Get It Fixed Fast with Same Day Geek](https://dev.to/stella_rose/need-urgent-tech-help-get-it-fixed-fast-with-same-day-geek-54dk)
+- [Exploring Gitcoin Governance: Decentralized Community Management](https://dev.to/ashucommits/exploring-gitcoin-governance-decentralized-community-management-2m80)
+- [Salesforce Testing: Everything you should know in 2025](https://dev.to/niks_kirdak_47c783a80cbc7/salesforce-testing-everything-you-should-know-in-2025-3cfh)
+- [The Right Way to Reset State in React](https://dev.to/alok38/the-right-way-to-reset-state-in-react-3aj)
 <!-- BLOG-POST-LIST:END -->
 
 
