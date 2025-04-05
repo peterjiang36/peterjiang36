@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right CMS: WordPress Isn’t Always the Answer](https://dev.to/mr_nova/choosing-the-right-cms-wordpress-isnt-always-the-answer-5l8)
-- [Typed Arrays and ArrayBuffer Deep Dive](https://dev.to/omriluz1/typed-arrays-and-arraybuffer-deep-dive-1g45)
-- [A Brief Guide to AWS SageMaker Services](https://dev.to/aws-builders/a-brief-guide-to-aws-sagemaker-services-3lkm)
-- [Unleashing the Power of Gitcoin and Quadratic Funding: A New Frontier in Decentralized Innovation](https://dev.to/vitalisorenko/unleashing-the-power-of-gitcoin-and-quadratic-funding-a-new-frontier-in-decentralized-innovation-1odm)
+- [MongoDB vs. PostgreSQL: Which One is Right for You?](https://dev.to/niks_kirdak_47c783a80cbc7/mongodb-vs-postgresql-which-one-is-right-for-you-46nh)
+- [Latest Remote jobs - 05/04/2025](https://dev.to/remoteworldwide/latest-remote-jobs-05042025-2hjn)
+- [Beyond the Basics: 10 TypeScript Features That Will Supercharge Your Code](https://dev.to/raju_dandigam/beyond-the-basics-10-typescript-features-that-will-supercharge-your-code-3180)
+- [How To Build A Dynamic Modal In Next js](https://dev.to/ewenikeemmanue4/how-to-build-a-dynamic-modal-in-next-js-gnf)
 <!-- BLOG-POST-LIST:END -->
 
 
