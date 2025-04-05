@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into Data Validation with Vaadin – final part](https://dev.to/pbalves/deep-dive-into-data-validation-with-vaadin-final-part-3i27)
-- [Cool &amp; Creative Hardware from Japan&#39;s Maker Contests](https://dev.to/buono/cool-creative-hardware-from-japans-maker-contests-1ph4)
-- [SQL Composite Indexes: When to Use?](https://dev.to/leapcell/sql-composite-indexes-when-to-use-15k0)
-- [From Disability to Development.](https://dev.to/frontenddesignforeveryone/from-disability-to-development-906)
+- [Fast Static Website Deployment with Pulumi: Modern Web Dev Made Simple 🚀](https://dev.to/aniruddhaadak/fast-static-website-deployment-with-pulumi-modern-web-dev-made-simple-2p67)
+- [Zapfolio : Linkedin To Portfolio Website In Two Clicks](https://dev.to/iam_hemanth_sr/zapfolio-linkedin-to-portfolio-website-in-two-clicks-288g)
+- [Secure Image Processing with Pulumi ESC, Clarifai, and pCloud](https://dev.to/kihuni/secure-image-processing-with-pulumi-esc-clarifai-and-pcloud-40ni)
+- [🚀 Mastering the Fetch API in JavaScript — GET, POST, PUT, PATCH, DELETE &lpar;With Examples&rpar;](https://dev.to/devcorner/mastering-the-fetch-api-in-javascript-get-post-put-patch-delete-with-examples-4m7h)
 <!-- BLOG-POST-LIST:END -->
 
 
