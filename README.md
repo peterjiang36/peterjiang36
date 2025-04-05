@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unlocking Image Editing: The Power of CoLan and AI Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-image-editing-the-power-of-colan-and-ai-innovations-1cne)
-- [Bolstering Open Source with GitHub Sponsors: The Impact of Matching Funds](https://dev.to/rachellovestowrite/bolstering-open-source-with-github-sponsors-the-impact-of-matching-funds-1cfm)
-- [Today marks 50 years since Paul Allen and I officially started Microsoft by Bill Gates](https://dev.to/agunechemba/today-marks-50-years-since-paul-allen-and-i-officially-started-microsoft-by-bill-gates-mh4)
-- [Embracing the unknown, navigating tech as a women of color.](https://dev.to/laura_rbisou/embracing-the-unknown-navigating-tech-as-a-women-of-color-1okk)
+- [DAY-14 -Static method and Non static method..](https://dev.to/sangamithra_k_78d83d6fb9d/day-14-static-method-and-non-static-method-3h25)
+- [How to group large data into classes](https://dev.to/maxwizard01/how-to-group-large-data-into-classes-42mc)
+- [Ms. Strange, also known as Madame Strange &lpar; &amp; etc.&rpar;.](https://dev.to/creatur3245/ms-strange-also-known-as-madame-strange-etc-2d97)
+- [AULA1 _Arquivo 0](https://dev.to/nanasales/aula1-arquivo-0-18b4)
 <!-- BLOG-POST-LIST:END -->
 
 
