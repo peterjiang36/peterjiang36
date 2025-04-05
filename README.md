@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY-14 -Static method and Non static method..](https://dev.to/sangamithra_k_78d83d6fb9d/day-14-static-method-and-non-static-method-3h25)
-- [How to group large data into classes](https://dev.to/maxwizard01/how-to-group-large-data-into-classes-42mc)
-- [Ms. Strange, also known as Madame Strange &lpar; &amp; etc.&rpar;.](https://dev.to/creatur3245/ms-strange-also-known-as-madame-strange-etc-2d97)
-- [AULA1 _Arquivo 0](https://dev.to/nanasales/aula1-arquivo-0-18b4)
+- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
+- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
+- [How to Enable Google Analytics Tracking in Your Greening-Deployed Site](https://dev.to/chrisgreening/how-to-enable-google-analytics-tracking-in-your-greening-deployed-site-4830)
+- [Using ChatGPT &amp; AI Agents for Infrastructure Automation in DevOps](https://dev.to/yash_sonawane25/using-chatgpt-ai-agents-for-infrastructure-automation-in-devops-2ped)
 <!-- BLOG-POST-LIST:END -->
 
 
