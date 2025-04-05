@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Static Website Deployment using Pulumi for C#](https://dev.to/levu74/fast-static-website-deployment-using-pulumi-for-c-3i77)
-- [Sneak peek of RovioCon, a premium invite-only event 🤩](https://dev.to/googleworkspace/sneak-peek-of-roviocon-a-premium-invite-only-event-fcg)
-- [Update to Calendar API, Google Workspace Add ons that extend Google Chat, and more!](https://dev.to/googleworkspace/update-to-calendar-api-google-workspace-add-ons-that-extend-google-chat-and-more-4ho6)
-- [Developer Spotlight with Zack Akil - Senior ML Engineer &amp; Developer Advocate](https://dev.to/googleworkspace/developer-spotlight-with-zack-akil-senior-ml-engineer-developer-advocate-2gjh)
+- [🚀 Breaking the Monolith: Why Microservices with Node.js &amp; Nest.js Are Game-Changers in 2025!](https://dev.to/dct_technology/breaking-the-monolith-why-microservices-with-nodejs-nestjs-are-game-changers-in-2025-54hk)
+- [A story about creating a forum service in the age of AI](https://dev.to/goofmint/a-story-about-creating-a-forum-service-in-the-age-of-ai-543c)
+- [kubernetes detect &amp; response](https://dev.to/mariocandela/-1gki)
+- [Securing Kubernetes Using Honeypots to Detect and Prevent Lateral Movement Attacks](https://dev.to/mariocandela/securing-kubernetes-using-honeypots-to-detect-and-prevent-lateral-movement-attacks-gnh)
 <!-- BLOG-POST-LIST:END -->
 
 
