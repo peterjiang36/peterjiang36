@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
-- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
-- [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
-- [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
+- [The Next Big Event In The Generate Code For Dvla Industry](https://dev.to/pinray50/the-next-big-event-in-the-generate-code-for-dvla-industry-1252)
+- [Did you know that TOML means Tom&#39;s Obvious Minimal Language?](https://dev.to/stellaacharoiro/did-you-know-that-toml-means-toms-obvious-minimal-language-114d)
+- [Everything Starts with Phantom: My First Step into Solana&#39;s World](https://dev.to/bigdexter/everything-starts-with-phantom-my-first-step-into-solanas-world-1gk3)
+- [How to Build a Developer Portfolio Website Using Next.js From Scratch](https://dev.to/hexshift/how-to-build-a-developer-portfolio-website-using-nextjs-from-scratch-4lo9)
 <!-- BLOG-POST-LIST:END -->
 
 
