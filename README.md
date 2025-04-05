@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [AULA1-LOV](https://dev.to/gabriela_bueno_aafd93378e/aula1-lov-1d54)
+- [Aula02 - fuyuki](https://dev.to/gabriela_bueno_aafd93378e/aula02-fuyuki-1hon)
 - [OOP for Unity Beginners: Build Better Games from the Start](https://dev.to/alok_krishali/oop-for-unity-beginners-build-better-games-from-the-start-34pj)
 - [Aula03-Arquivo0](https://dev.to/mylenelima/aula03-arquivo0-2833)
-- [How to Enable Google Analytics Tracking in Your Greening-Deployed Site](https://dev.to/chrisgreening/how-to-enable-google-analytics-tracking-in-your-greening-deployed-site-4830)
-- [Using ChatGPT &amp; AI Agents for Infrastructure Automation in DevOps](https://dev.to/yash_sonawane25/using-chatgpt-ai-agents-for-infrastructure-automation-in-devops-2ped)
 <!-- BLOG-POST-LIST:END -->
 
 
