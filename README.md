@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB vs. PostgreSQL: Which One is Right for You?](https://dev.to/niks_kirdak_47c783a80cbc7/mongodb-vs-postgresql-which-one-is-right-for-you-46nh)
-- [Latest Remote jobs - 05/04/2025](https://dev.to/remoteworldwide/latest-remote-jobs-05042025-2hjn)
-- [Beyond the Basics: 10 TypeScript Features That Will Supercharge Your Code](https://dev.to/raju_dandigam/beyond-the-basics-10-typescript-features-that-will-supercharge-your-code-3180)
-- [How To Build A Dynamic Modal In Next js](https://dev.to/ewenikeemmanue4/how-to-build-a-dynamic-modal-in-next-js-gnf)
+- [connected components](https://dev.to/dushyant_singhrao_08/connected-components-5cla)
+- [How to Hire a Ruby on Rails Developer: Tips for Finding the Perfect Fit](https://dev.to/jetthoughts/how-to-hire-a-ruby-on-rails-developer-tips-for-finding-the-perfect-fit-51o6)
+- [How to Stress Test Your .NET Application: A C# Developer’s Guide](https://dev.to/syawqy/how-to-stress-test-your-net-application-a-c-developers-guide-1b71)
+- [subprocess.run 的眉眉角角](https://dev.to/codemee/subprocessrun-de-mei-mei-jiao-jiao-5cmg)
 <!-- BLOG-POST-LIST:END -->
 
 
