@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Selling Usernames on Fragment: Strategies, Trends, and Best Practices](https://dev.to/jennythomas498/a-comprehensive-guide-to-selling-usernames-on-fragment-strategies-trends-and-best-practices-4a9c)
-- [Perfect Elixir: Test Automating Shell Scripts](https://dev.to/jonlauridsen/perfect-elixir-test-automating-shell-scripts-18ii)
-- [Turn the Wi-Fi on...](https://dev.to/leg_end/turn-the-wi-fi-on-2gie)
-- [MockQL: Mock missing REST/GraphQL APIs without leaving your real backend](https://dev.to/taco-man/mockql-mock-missing-restgraphql-apis-without-leaving-your-real-backend-2bd7)
+- [Deep Dive into Data Validation with Vaadin – final part](https://dev.to/pbalves/deep-dive-into-data-validation-with-vaadin-final-part-3i27)
+- [Cool &amp; Creative Hardware from Japan&#39;s Maker Contests](https://dev.to/buono/cool-creative-hardware-from-japans-maker-contests-1ph4)
+- [SQL Composite Indexes: When to Use?](https://dev.to/leapcell/sql-composite-indexes-when-to-use-15k0)
+- [From Disability to Development.](https://dev.to/frontenddesignforeveryone/from-disability-to-development-906)
 <!-- BLOG-POST-LIST:END -->
 
 
