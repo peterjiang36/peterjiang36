@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 22]](https://dev.to/borba/clojure-is-awesome-part-22-412i)
-- [[Boost]](https://dev.to/djhuertasg/-32de)
-- [Promoting Your GitHub Sponsors Profile: A Comprehensive Guide](https://dev.to/vitalisorenko/promoting-your-github-sponsors-profile-a-comprehensive-guide-4ijl)
-- [How to Donate on Gitcoin: A Technical Dive into Open Source Funding and Its Future](https://dev.to/bobcars/how-to-donate-on-gitcoin-a-technical-dive-into-open-source-funding-and-its-future-1466)
+- [A Comprehensive Guide to Selling Usernames on Fragment: Strategies, Trends, and Best Practices](https://dev.to/jennythomas498/a-comprehensive-guide-to-selling-usernames-on-fragment-strategies-trends-and-best-practices-4a9c)
+- [Perfect Elixir: Test Automating Shell Scripts](https://dev.to/jonlauridsen/perfect-elixir-test-automating-shell-scripts-18ii)
+- [Turn the Wi-Fi on...](https://dev.to/leg_end/turn-the-wi-fi-on-2gie)
+- [MockQL: Mock missing REST/GraphQL APIs without leaving your real backend](https://dev.to/taco-man/mockql-mock-missing-restgraphql-apis-without-leaving-your-real-backend-2bd7)
 <!-- BLOG-POST-LIST:END -->
 
 
