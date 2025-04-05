@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Decentralization with XPATRON: Unleashing Indie Hacker Innovation on Infinex Patrons](https://dev.to/bobcars/embracing-decentralization-with-xpatron-unleashing-indie-hacker-innovation-on-infinex-patrons-28gc)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-kb)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-4635)
-- [Mastering Vim: The Underrated Power Tool for IT and Business Professionals](https://dev.to/alexenson/mastering-vim-the-underrated-power-tool-for-it-and-business-professionals-43fi)
+- [[Boost]](https://dev.to/lildeon9/-3n9k)
+- [[AWS] IaC generator to migrate from ManagementConsole operation to CDK operation [IaC]](https://dev.to/nao_san_9736c3c2d72e2589f/aws-iac-generator-to-migrate-from-managementconsole-operation-to-cdk-operation-iac-43p3)
+- [SPO600 Project Stage 2, Part 1: “To Prune, or not to Prune”](https://dev.to/jpjpjp/spo600-project-stage-2-part-1-to-prune-or-not-to-prune-3hdd)
+- [onModelCreating](https://dev.to/yuripeixinho/onmodelcreating-27hk)
 <!-- BLOG-POST-LIST:END -->
 
 
