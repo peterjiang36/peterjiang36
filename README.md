@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Big Event In The Generate Code For Dvla Industry](https://dev.to/pinray50/the-next-big-event-in-the-generate-code-for-dvla-industry-1252)
-- [Did you know that TOML means Tom&#39;s Obvious Minimal Language?](https://dev.to/stellaacharoiro/did-you-know-that-toml-means-toms-obvious-minimal-language-114d)
-- [Everything Starts with Phantom: My First Step into Solana&#39;s World](https://dev.to/bigdexter/everything-starts-with-phantom-my-first-step-into-solanas-world-1gk3)
-- [How to Build a Developer Portfolio Website Using Next.js From Scratch](https://dev.to/hexshift/how-to-build-a-developer-portfolio-website-using-nextjs-from-scratch-4lo9)
+- [Fast Static Website Deployment using Pulumi for C#](https://dev.to/levu74/fast-static-website-deployment-using-pulumi-for-c-3i77)
+- [Sneak peek of RovioCon, a premium invite-only event 🤩](https://dev.to/googleworkspace/sneak-peek-of-roviocon-a-premium-invite-only-event-fcg)
+- [Update to Calendar API, Google Workspace Add ons that extend Google Chat, and more!](https://dev.to/googleworkspace/update-to-calendar-api-google-workspace-add-ons-that-extend-google-chat-and-more-4ho6)
+- [Developer Spotlight with Zack Akil - Senior ML Engineer &amp; Developer Advocate](https://dev.to/googleworkspace/developer-spotlight-with-zack-akil-senior-ml-engineer-developer-advocate-2gjh)
 <!-- BLOG-POST-LIST:END -->
 
 
