@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed ERR_TOO_MANY_REDIRECTS with Cloudflare + Vercel](https://dev.to/samitkapoor/how-i-fixed-errtoomanyredirects-with-cloudflare-vercel-1dbd)
-- [Learning Elixir: Advanced Control Structures](https://dev.to/abreujp/learning-elixir-advanced-control-structures-132n)
-- [🧩 Questions about general web development. &lpar;Share your knowledge&rpar;](https://dev.to/geanny_deraben_75b1f0f21/questions-about-general-web-development-share-your-knowledge-54nn)
-- [Identifying Spam Emails through ML Classification with AWS ☁️](https://dev.to/aws-builders/identifying-spam-emails-through-ml-classification-with-aws-3f0g)
+- [Svelte vs React: Core Feature Comparison](https://dev.to/leapcell/svelte-vs-react-core-feature-comparison-4hdj)
+- [Building a High-Performance Event-Driven App with .NET and a Database](https://dev.to/syawqy/building-a-high-performance-event-driven-app-with-net-and-a-database-17ii)
+- [How I use n8n and AI agents to scale my startup](https://dev.to/code42cate/how-i-use-n8n-and-ai-agents-to-scale-my-startup-4om4)
+- [🚀 Cloud That Makes Sense. Finally.](https://dev.to/denish3436/cloud-that-makes-sense-finally-539l)
 <!-- BLOG-POST-LIST:END -->
 
 
