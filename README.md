@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [dotme: Instantly Apply Dotfiles from Any Git Repository with One CLI Command](https://dev.to/rsvinicius/dotme-instantly-apply-dotfiles-from-any-git-repository-with-one-cli-command-3mh6)
-- [Forging the Future of Developer Experience](https://dev.to/leo_____9a8ebeafbd6de28c3/forging-the-future-of-developer-experience-oh)
-- [Kubernetes Dashboard: Headlamp on Kind](https://dev.to/deebi9/kubernetes-dashboard-headlamp-on-kind-3c2d)
-- [Building Automated Data Reports from Supabase with GitHub Actions and R Markdown](https://dev.to/afrologicinsect/building-automated-data-reports-from-supabase-with-github-actions-and-r-markdown-2gh1)
+- [How to Submit a Bounty on Gitcoin: A Comprehensive Guide to Accelerating Open Source Development](https://dev.to/kallileiser/how-to-submit-a-bounty-on-gitcoin-a-comprehensive-guide-to-accelerating-open-source-development-4lg3)
+- [Deploying a Static E-commerce Site to AWS Using Pulumi](https://dev.to/iamsherif/deploying-a-static-e-commerce-site-to-aws-using-pulumi-1nlf)
+- [Day-15: Static vs Non-Static Methods, Global vs Local Variables in Java](https://dev.to/e00049/day-15-static-vs-non-static-methods-global-vs-local-variables-in-java-4mji)
+- [Role-Based Route Permissions in Remix / React Router v7](https://dev.to/princetomarappdev/role-based-route-permissions-in-remix-react-router-v7-1d3j)
 <!-- BLOG-POST-LIST:END -->
 
 
