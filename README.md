@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lildeon9/-3n9k)
-- [[AWS] IaC generator to migrate from ManagementConsole operation to CDK operation [IaC]](https://dev.to/nao_san_9736c3c2d72e2589f/aws-iac-generator-to-migrate-from-managementconsole-operation-to-cdk-operation-iac-43p3)
-- [SPO600 Project Stage 2, Part 1: “To Prune, or not to Prune”](https://dev.to/jpjpjp/spo600-project-stage-2-part-1-to-prune-or-not-to-prune-3hdd)
-- [onModelCreating](https://dev.to/yuripeixinho/onmodelcreating-27hk)
+- [TicketCraft: Dynamic Ticket Generator](https://dev.to/musliu2kul/ticketcraft-dynamic-ticket-generator-3kge)
+- [Bipartite-Based 2-Approximation for Dominating Sets in General Graphs](https://dev.to/frank_vega_987689489099bf/bipartite-based-2-approximation-for-dominating-sets-in-general-graphs-l5g)
+- [Daily JavaScript Challenge #JS-144: Determine the Longest Sequence of Consecutive Ones in a Binary Array](https://dev.to/dpc/daily-javascript-challenge-js-144-determine-the-longest-sequence-of-consecutive-ones-in-a-binary-4dho)
+- [Cloud Resume Challenge](https://dev.to/harley_hinkle_77657600570/cloud-resume-challenge-mgj)
 <!-- BLOG-POST-LIST:END -->
 
 
