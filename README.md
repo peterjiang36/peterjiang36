@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Greatest Debug: Learning to Believe I Belong in Tech](https://dev.to/preethi-g/my-greatest-debug-learning-to-believe-i-belong-in-tech-4e54)
-- [No one talks about GraphQL anymore!](https://dev.to/wootcot/no-one-talks-about-graphql-anymore-2bbp)
-- [Creating an API style guide](https://dev.to/aowendev/creating-an-api-style-guide-5m8)
-- [Getting started with GraphQL](https://dev.to/aowendev/getting-started-with-graphql-44g)
+- [The art of creating an effective application security Program: Strategies, Methods and Tools for the Best Performance](https://dev.to/lynxfelony1/the-art-of-creating-an-effective-application-security-program-strategies-methods-and-tools-for-ke7)
+- [How to create an effective application security Program: Strategies, Practices and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-practices-and-tools-for-2e1k)
+- [Meta Unveils Llama 4 Scout and Maverick](https://dev.to/justin_downes/meta-unveils-llama-4-scout-and-maverick-4g87)
+- [Federated Learning at Scale: Training AI While Preserving Privacy](https://dev.to/codetirtho97/federated-learning-at-scale-training-ai-while-preserving-privacy-20kh)
 <!-- BLOG-POST-LIST:END -->
 
 
