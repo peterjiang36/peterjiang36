@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A case where SQL joins struggle but MongoDB documents shine](https://dev.to/franckpachot/a-case-where-sql-joins-struggle-but-mongodb-documents-shine-11kj)
-- [Aula02 - Arquivo0](https://dev.to/lainasantos/aula02-arquivo0-2dcd)
-- [Unlock Pro-Level Debugging Skills in 2025](https://dev.to/withishtiaq/unlock-pro-level-debugging-skills-in-2025-325p)
-- [Deploying a Developer Conferences Nuxt Static Website on Azure with Pulumi](https://dev.to/techwatching/deploying-a-developer-conferences-nuxt-static-website-on-azure-with-pulumi-9go)
+- [IaC in Action: Deploying a Static Site with Pulumi, AWS &amp; Cloudflare](https://dev.to/onlyfave/iac-in-action-deploying-a-static-site-with-pulumi-aws-cloudflare-29cj)
+- [My WeCoded Landing Page](https://dev.to/prubianes/my-wecoded-landing-page-3i6i)
+- [Linux Filesystem: Understanding the Core Structure &lpar;Day 1 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/linux-filesystem-understanding-the-core-structure-day-1-of-30-2m0j)
+- [Top 5 Usersnap Alternatives in 2025](https://dev.to/shayy/top-5-usersnap-alternatives-in-2025-2fkn)
 <!-- BLOG-POST-LIST:END -->
 
 
