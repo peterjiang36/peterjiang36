@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Backend trainee](https://dev.to/masatefou/python-backend-trainee-ke3)
-- [Making UX That Clicks: Motivation, Mind Games, and Mental Models](https://dev.to/rijultp/making-ux-that-clicks-motivation-mind-games-and-mental-models-5gkh)
-- [I built a small Windows app to extract links from PDFs and websites – looking for feedback!](https://dev.to/tarik_dev_c4860a0b4619b3d/i-built-a-small-windows-app-to-extract-links-from-pdfs-and-websites-looking-for-feedback-n71)
-- [ค้นหาเส้นทางอย่างโปร ด้วย BFS และ DFS ใน Python!!!](https://dev.to/mint_z/khnhaaesnthaangyaangopr-dwy-bfs-aela-dfs-ain-python-1gk)
+- [The Compiler – A Grumpy and Irresponsible Translator](https://dev.to/phuc_nguyen_7df3996e6e893/the-compiler-a-grumpy-and-irresponsible-translator-1bnd)
+- [🧠 MCP &lpar;Module Communication Protocol&rpar;: El lenguaje común entre módulos y agentes](https://dev.to/juan_carlosvalderrbano/mcp-module-communication-protocol-el-lenguaje-comun-entre-modulos-y-agentes-2cjm)
+- [Java Collections: Usage Precautions, Best Practices, and Pitfalls](https://dev.to/thellu/java-collections-usage-precautions-best-practices-and-pitfalls-4oo6)
+- [Join Fiverr’s Ultimate Easter Egg Challenge &amp; Win $70K+ in Bitcoin!](https://dev.to/lymah/join-fiverrs-ultimate-easter-egg-challenge-win-70k-in-bitcoin-4dam)
 <!-- BLOG-POST-LIST:END -->
 
 
