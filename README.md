@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Programming: Building my first Full-Stack Application](https://dev.to/desiii_notfound/my-journey-to-programming-building-my-first-full-stack-application-51k4)
-- [Why JSONsilo is Perfect for Prototyping and Small Projects](https://dev.to/jaironlanda/why-jsonsilo-is-perfect-for-prototyping-and-small-projects-1h8b)
-- [🚗 Help Wanted: Admin CMS for Car Listing Platform](https://dev.to/andreas_2630/help-wanted-admin-cms-for-car-listing-platform-2633)
-- [📱 RadhaSphere Wallet – The Wallet UX We Deserve](https://dev.to/omniradhanexus/radhasphere-wallet-the-wallet-ux-we-deserve-3f6n)
+- [Why did you choose JavaScript?](https://dev.to/shafiqbd/why-did-you-choose-javascript-2bmd)
+- [EC2 User Data for Beginners](https://dev.to/rajathkumarks/ec2-user-data-for-beginners-2fn3)
+- [Common Errors in Frontened Setup🛠 - Stock Management System](https://dev.to/shaikr786/common-errors-in-frontened-setup-stock-management-system-2f1e)
+- [Bloom Filters: A Comprehensive Guide for Web Developers](https://dev.to/softheartengineer/bloom-filters-a-comprehensive-guide-for-web-developers-19eh)
 <!-- BLOG-POST-LIST:END -->
 
 
