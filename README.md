@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TicketCraft: Dynamic Ticket Generator](https://dev.to/musliu2kul/ticketcraft-dynamic-ticket-generator-3kge)
-- [Bipartite-Based 2-Approximation for Dominating Sets in General Graphs](https://dev.to/frank_vega_987689489099bf/bipartite-based-2-approximation-for-dominating-sets-in-general-graphs-l5g)
-- [Daily JavaScript Challenge #JS-144: Determine the Longest Sequence of Consecutive Ones in a Binary Array](https://dev.to/dpc/daily-javascript-challenge-js-144-determine-the-longest-sequence-of-consecutive-ones-in-a-binary-4dho)
-- [Cloud Resume Challenge](https://dev.to/harley_hinkle_77657600570/cloud-resume-challenge-mgj)
+- [One SQL Query That Could Destroy Your Entire Database &lpar;And How Hackers Use It&rpar;](https://dev.to/yuvasec/one-sql-query-that-could-destroy-your-entire-database-and-how-hackers-use-it-2ld7)
+- [AltSchool Of Engineering Tinyuka’24 Month 2 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-2-week-2-329d)
+- [Integrating Supabase with Next.js: A Step-by-Step Guide](https://dev.to/brayancodes/integrating-supabase-with-nextjs-a-step-by-step-guide-1d85)
+- [Learning Compiler and Parallel Programming in 2025](https://dev.to/aabhinavg/learning-compiler-and-parallel-programming-in-2025-1mfg)
 <!-- BLOG-POST-LIST:END -->
 
 
