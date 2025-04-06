@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing &amp; Fixes - Project Stage 02](https://dev.to/jurozaw/testing-fixes-project-stage-02-2i2a)
-- [Must to know JS Concepts](https://dev.to/jay818/must-to-know-js-concepts-1i82)
-- [Using WakaTime to Boost Productivity](https://dev.to/gmitch215/using-wakatime-to-boost-productivity-21e0)
-- [Dive into the core concepts of JavaScript in this beginner-friendly deep dive!](https://dev.to/jay818/dive-into-the-core-concepts-of-javascript-in-this-beginner-friendly-deep-dive-p79)
+- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
+- [🚀 My DevOps Learning Journey – Key Linux Commands 🚀](https://dev.to/dechen_tshering_3577/my-devops-learning-journey-key-linux-commands-19le)
+- [I made a real-time Mafia game you can play with strangers – no signups](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signups-4ga2)
+- [Unlocking the Future: Open Source and Blockchain Funding Revolution](https://dev.to/zhangwei42/unlocking-the-future-open-source-and-blockchain-funding-revolution-amg)
 <!-- BLOG-POST-LIST:END -->
 
 
