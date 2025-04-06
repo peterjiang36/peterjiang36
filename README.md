@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Contact Form in React with Node.js Backend and Store Messages in MongoDB &lpar;With Email Alerts!&rpar;](https://dev.to/the-idealist/build-a-contact-form-in-react-with-nodejs-backend-and-store-messages-in-mongodb-with-email-1bhe)
-- [Voice Search and Zero-Click Content: The Conversational Search Revolution](https://dev.to/kapusto/voice-search-and-zero-click-content-the-conversational-search-revolution-2c92)
-- [Behind the Cloud: Red Hat&#39;s Role in Modern DevOps and Enterprise Infrastructure.](https://dev.to/dtemi/behind-the-cloud-red-hats-role-in-modern-devops-and-enterprise-infrastructure-mig)
-- [Less than a minute to convert MCP transport from SSE to stdio! 💻](https://dev.to/makhlevich/less-than-a-minute-to-convert-mcp-transport-from-sse-to-stdio-195p)
+- [My Greatest Debug: Learning to Believe I Belong in Tech](https://dev.to/preethi-g/my-greatest-debug-learning-to-believe-i-belong-in-tech-4e54)
+- [No one talks about GraphQL anymore!](https://dev.to/wootcot/no-one-talks-about-graphql-anymore-2bbp)
+- [Creating an API style guide](https://dev.to/aowendev/creating-an-api-style-guide-5m8)
+- [Getting started with GraphQL](https://dev.to/aowendev/getting-started-with-graphql-44g)
 <!-- BLOG-POST-LIST:END -->
 
 
