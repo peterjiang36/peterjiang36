@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: AI Agent Truly Intelligent?](https://dev.to/ajanthan_hr_c019bb2b72c79/part-2-ai-agent-truly-intelligent-4653)
-- [Weekly #14-2025: Next.js Middleware Bypass, TikTok&#39;s Final Proposal, OpenAI, Software Engineers &amp; More](https://dev.to/weekly/weekly-14-2025-nextjs-middleware-bypass-tiktoks-final-proposal-openai-software-engineers--682)
-- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-46kd)
-- [Edge Computing: The Future of Cloud &amp; DevOps](https://dev.to/yash_sonawane25/edge-computing-the-future-of-cloud-devops-3h1g)
+- [Llama 4: Breaking Down Meta&#39;s Latest Powerhouse Model](https://dev.to/maxprilutskiy/llama-4-breaking-down-metas-latest-powerhouse-model-3k0p)
+- [Top 5 Nolt.io Alternatives for Feedback Management in 2025](https://dev.to/shayy/top-5-noltio-alternatives-for-feedback-management-in-2025-4jkg)
+- [Understanding the OSI Model and How It Aligns with the TCP/IP Model](https://dev.to/mohammad1105/understanding-the-osi-model-and-how-it-aligns-with-the-tcpip-model-31nd)
+- [Comparing AI SDKs for React: Vercel, LangChain, Hugging Face](https://dev.to/brayancodes/comparing-ai-sdks-for-react-vercel-langchain-hugging-face-5g66)
 <!-- BLOG-POST-LIST:END -->
 
 
