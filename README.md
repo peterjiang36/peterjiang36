@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals vs Observables: A Deep Dive into Modern Reactivity](https://dev.to/raju_dandigam/angular-signals-vs-observables-a-deep-dive-into-modern-reactivity-l03)
-- [Introducing #razenlang — A Clean, Fast &amp; Beginner-Friendly Programming Language](https://dev.to/prathmesh_pro/introducing-razenlang-a-clean-fast-beginner-friendly-programming-language-3b3a)
-- [.NET Learning Notes: How to Add a JWTVersion Filter](https://dev.to/alexleeeeeeeeee/net-learning-notes-how-to-add-a-jwtversion-filter-72h)
-- [🚀 Introducing Razen Lang — A Simple, Fast &amp; Friendly Programming Language for Developers](https://dev.to/prathmesh_pro/introducing-razen-lang-a-simple-fast-friendly-programming-language-for-developers-4n2f)
+- [New Method Reveals How AI Models Actually Think by Mapping Their Reasoning Process](https://dev.to/mikeyoung44/new-method-reveals-how-ai-models-actually-think-by-mapping-their-reasoning-process-32ml)
+- [AI System Achieves 71% of Human Performance in Image Segmentation Without Training Labels](https://dev.to/mikeyoung44/ai-system-achieves-71-of-human-performance-in-image-segmentation-without-training-labels-1j7l)
+- [NVIDIA AI Turns Text-Generated Videos into Physically Accurate 3D Character Animations](https://dev.to/mikeyoung44/nvidia-ai-turns-text-generated-videos-into-physically-accurate-3d-character-animations-7am)
+- [Brain-Like AI Model Learns More Efficiently by Mimicking Neural Spike Patterns](https://dev.to/mikeyoung44/brain-like-ai-model-learns-more-efficiently-by-mimicking-neural-spike-patterns-50fa)
 <!-- BLOG-POST-LIST:END -->
 
 
