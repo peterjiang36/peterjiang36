@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 4: Breaking Down Meta&#39;s Latest Powerhouse Model](https://dev.to/maxprilutskiy/llama-4-breaking-down-metas-latest-powerhouse-model-3k0p)
-- [Top 5 Nolt.io Alternatives for Feedback Management in 2025](https://dev.to/shayy/top-5-noltio-alternatives-for-feedback-management-in-2025-4jkg)
-- [Understanding the OSI Model and How It Aligns with the TCP/IP Model](https://dev.to/mohammad1105/understanding-the-osi-model-and-how-it-aligns-with-the-tcpip-model-31nd)
-- [Comparing AI SDKs for React: Vercel, LangChain, Hugging Face](https://dev.to/brayancodes/comparing-ai-sdks-for-react-vercel-langchain-hugging-face-5g66)
+- [DSA in Web Development](https://dev.to/raushan_sinha_8efb05c7b1c/dsa-in-web-development-7om)
+- [Hello Devs! Transitioning from Mechanical to Tech - Need some HTML/CSS tips!!](https://dev.to/shifil/hello-devs-transitioning-from-mechanical-to-tech-need-some-htmlcss-tips-2apd)
+- [What is Immutability in JavaScript?](https://dev.to/devmatsu/what-is-immutability-in-javascript-fnm)
+- [7 Common Garbage Collection Issues in Node.js](https://dev.to/arunangshu_das/7-common-garbage-collection-issues-in-nodejs-jm1)
 <!-- BLOG-POST-LIST:END -->
 
 
