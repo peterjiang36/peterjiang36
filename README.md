@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern To-Do List App with Dark Mode—Complete Guide](https://dev.to/mohamud_dahirabdi_1ed193/building-a-modern-to-do-list-app-with-dark-mode-complete-guide-fio)
-- [MuleSoft Artificial Intelligence: Revolutionizing Integration Workflows](https://dev.to/kapusto/mulesoft-artificial-intelligence-revolutionizing-integration-workflows-ek1)
-- [Standard built-in objects in Java Script](https://dev.to/the-matrixneo/standard-built-in-objects-in-java-script-350n)
-- [Largest Divisible subset](https://dev.to/prashantrmishra/largest-divisible-subset-4gcl)
+- [Build a Contact Form in React with Node.js Backend and Store Messages in MongoDB &lpar;With Email Alerts!&rpar;](https://dev.to/the-idealist/build-a-contact-form-in-react-with-nodejs-backend-and-store-messages-in-mongodb-with-email-1bhe)
+- [Voice Search and Zero-Click Content: The Conversational Search Revolution](https://dev.to/kapusto/voice-search-and-zero-click-content-the-conversational-search-revolution-2c92)
+- [Behind the Cloud: Red Hat&#39;s Role in Modern DevOps and Enterprise Infrastructure.](https://dev.to/dtemi/behind-the-cloud-red-hats-role-in-modern-devops-and-enterprise-infrastructure-mig)
+- [Less than a minute to convert MCP transport from SSE to stdio! 💻](https://dev.to/makhlevich/less-than-a-minute-to-convert-mcp-transport-from-sse-to-stdio-195p)
 <!-- BLOG-POST-LIST:END -->
 
 
