@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One SQL Query That Could Destroy Your Entire Database &lpar;And How Hackers Use It&rpar;](https://dev.to/yuvasec/one-sql-query-that-could-destroy-your-entire-database-and-how-hackers-use-it-2ld7)
-- [AltSchool Of Engineering Tinyuka’24 Month 2 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-2-week-2-329d)
-- [Integrating Supabase with Next.js: A Step-by-Step Guide](https://dev.to/brayancodes/integrating-supabase-with-nextjs-a-step-by-step-guide-1d85)
-- [Learning Compiler and Parallel Programming in 2025](https://dev.to/aabhinavg/learning-compiler-and-parallel-programming-in-2025-1mfg)
+- [Part 2: AI Agent Truly Intelligent?](https://dev.to/ajanthan_hr_c019bb2b72c79/part-2-ai-agent-truly-intelligent-4653)
+- [Weekly #14-2025: Next.js Middleware Bypass, TikTok&#39;s Final Proposal, OpenAI, Software Engineers &amp; More](https://dev.to/weekly/weekly-14-2025-nextjs-middleware-bypass-tiktoks-final-proposal-openai-software-engineers--682)
+- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-46kd)
+- [Edge Computing: The Future of Cloud &amp; DevOps](https://dev.to/yash_sonawane25/edge-computing-the-future-of-cloud-devops-3h1g)
 <!-- BLOG-POST-LIST:END -->
 
 
