@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/rachellovestowrite/moonbirds-and-indie-hacking-in-the-nft-ecosystem-4n9m)
-- [Day 2: &quot;Where Everything Lives: A Deep Dive into Linux Directories&quot;](https://dev.to/rajpreet_gill_6272051bd31/day-2-where-everything-lives-a-deep-dive-into-linux-directories-3kp6)
-- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-51ba)
-- [The Rising Tide of Tokenized Assets: Transforming Marketplaces for the Digital Age](https://dev.to/zhangwei42/the-rising-tide-of-tokenized-assets-transforming-marketplaces-for-the-digital-age-563h)
+- [Angular Signals vs Observables: A Deep Dive into Modern Reactivity](https://dev.to/raju_dandigam/angular-signals-vs-observables-a-deep-dive-into-modern-reactivity-l03)
+- [Introducing #razenlang — A Clean, Fast &amp; Beginner-Friendly Programming Language](https://dev.to/prathmesh_pro/introducing-razenlang-a-clean-fast-beginner-friendly-programming-language-3b3a)
+- [.NET Learning Notes: How to Add a JWTVersion Filter](https://dev.to/alexleeeeeeeeee/net-learning-notes-how-to-add-a-jwtversion-filter-72h)
+- [🚀 Introducing Razen Lang — A Simple, Fast &amp; Friendly Programming Language for Developers](https://dev.to/prathmesh_pro/introducing-razen-lang-a-simple-fast-friendly-programming-language-for-developers-4n2f)
 <!-- BLOG-POST-LIST:END -->
 
 
