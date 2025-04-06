@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi ESC Config: Simplify Your Local Configuration Management](https://dev.to/ion_finisher/pulumi-esc-config-simplify-your-local-configuration-management-40jk)
-- [🚀 My DevOps Learning Journey – Key Linux Commands 🚀](https://dev.to/dechen_tshering_3577/my-devops-learning-journey-key-linux-commands-19le)
-- [I made a real-time Mafia game you can play with strangers – no signups](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signups-4ga2)
-- [Unlocking the Future: Open Source and Blockchain Funding Revolution](https://dev.to/zhangwei42/unlocking-the-future-open-source-and-blockchain-funding-revolution-amg)
+- [Intl API for Internationalization](https://dev.to/omriluz1/intl-api-for-internationalization-3j20)
+- [How I Built &amp; Deployed &#39;DevMood&#39; Developer App in 24 Hours with Pulumi 🔥](https://dev.to/alizgheib/how-i-built-deployed-devmood-developer-app-in-24-hours-with-pulumi-29a8)
+- [Announcing: Angular Material Blocks](https://dev.to/ngmaterialdev/announcing-angular-material-blocks-2e2a)
+- [Understanding UTM Parameters: A Comprehensive Guide for Marketers](https://dev.to/nelsonforge/understanding-utm-parameters-a-comprehensive-guide-for-marketers-183n)
 <!-- BLOG-POST-LIST:END -->
 
 
