@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did you choose JavaScript?](https://dev.to/shafiqbd/why-did-you-choose-javascript-2bmd)
-- [EC2 User Data for Beginners](https://dev.to/rajathkumarks/ec2-user-data-for-beginners-2fn3)
-- [Common Errors in Frontened Setup🛠 - Stock Management System](https://dev.to/shaikr786/common-errors-in-frontened-setup-stock-management-system-2f1e)
-- [Bloom Filters: A Comprehensive Guide for Web Developers](https://dev.to/softheartengineer/bloom-filters-a-comprehensive-guide-for-web-developers-19eh)
+- [Building a Modern To-Do List App with Dark Mode—Complete Guide](https://dev.to/mohamud_dahirabdi_1ed193/building-a-modern-to-do-list-app-with-dark-mode-complete-guide-fio)
+- [MuleSoft Artificial Intelligence: Revolutionizing Integration Workflows](https://dev.to/kapusto/mulesoft-artificial-intelligence-revolutionizing-integration-workflows-ek1)
+- [Standard built-in objects in Java Script](https://dev.to/the-matrixneo/standard-built-in-objects-in-java-script-350n)
+- [Largest Divisible subset](https://dev.to/prashantrmishra/largest-divisible-subset-4gcl)
 <!-- BLOG-POST-LIST:END -->
 
 
