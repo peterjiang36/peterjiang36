@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19.1 is out, new JavaScript runtime better than Node.js, Safari 18.4 brings new WebKit features, and more](https://dev.to/thisweekinjavascript/react-191-is-out-new-javascript-runtime-better-than-nodejs-safari-184-brings-new-webkit-3hlh)
-- [TryHackMe: Yara](https://dev.to/seanleeys/tryhackme-yara-235m)
-- [Investigating PostgreSQL&#39;s `ANALYZE` Runtime Behavior: Sampling, Table Size, and Cache Effects](https://dev.to/msdousti/investigating-postgresqls-analyze-runtime-behavior-sampling-table-size-and-cache-effects-1eln)
-- [Integrating AdMob in React Native Expo: A Comprehensive Developer&#39;s Guide](https://dev.to/oghenetega_adiri/integrating-admob-in-react-native-expo-a-comprehensive-developers-guide-35ij)
+- [Testing &amp; Fixes - Project Stage 02](https://dev.to/jurozaw/testing-fixes-project-stage-02-2i2a)
+- [Must to know JS Concepts](https://dev.to/jay818/must-to-know-js-concepts-1i82)
+- [Using WakaTime to Boost Productivity](https://dev.to/gmitch215/using-wakatime-to-boost-productivity-21e0)
+- [Dive into the core concepts of JavaScript in this beginner-friendly deep dive!](https://dev.to/jay818/dive-into-the-core-concepts-of-javascript-in-this-beginner-friendly-deep-dive-p79)
 <!-- BLOG-POST-LIST:END -->
 
 
