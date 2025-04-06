@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Intl API for Internationalization](https://dev.to/omriluz1/intl-api-for-internationalization-3j20)
-- [How I Built &amp; Deployed &#39;DevMood&#39; Developer App in 24 Hours with Pulumi 🔥](https://dev.to/alizgheib/how-i-built-deployed-devmood-developer-app-in-24-hours-with-pulumi-29a8)
-- [Announcing: Angular Material Blocks](https://dev.to/ngmaterialdev/announcing-angular-material-blocks-2e2a)
-- [Understanding UTM Parameters: A Comprehensive Guide for Marketers](https://dev.to/nelsonforge/understanding-utm-parameters-a-comprehensive-guide-for-marketers-183n)
+- [A case where SQL joins struggle but MongoDB documents shine](https://dev.to/franckpachot/a-case-where-sql-joins-struggle-but-mongodb-documents-shine-11kj)
+- [Aula02 - Arquivo0](https://dev.to/lainasantos/aula02-arquivo0-2dcd)
+- [Unlock Pro-Level Debugging Skills in 2025](https://dev.to/withishtiaq/unlock-pro-level-debugging-skills-in-2025-325p)
+- [Deploying a Developer Conferences Nuxt Static Website on Azure with Pulumi](https://dev.to/techwatching/deploying-a-developer-conferences-nuxt-static-website-on-azure-with-pulumi-9go)
 <!-- BLOG-POST-LIST:END -->
 
 
