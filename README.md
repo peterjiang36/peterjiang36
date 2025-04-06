@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IaC in Action: Deploying a Static Site with Pulumi, AWS &amp; Cloudflare](https://dev.to/onlyfave/iac-in-action-deploying-a-static-site-with-pulumi-aws-cloudflare-29cj)
-- [My WeCoded Landing Page](https://dev.to/prubianes/my-wecoded-landing-page-3i6i)
-- [Linux Filesystem: Understanding the Core Structure &lpar;Day 1 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/linux-filesystem-understanding-the-core-structure-day-1-of-30-2m0j)
-- [Top 5 Usersnap Alternatives in 2025](https://dev.to/shayy/top-5-usersnap-alternatives-in-2025-2fkn)
+- [Building AI-Powered Apps with Vercel AI SDK and React Server Components](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-server-components-1a6e)
+- [Navigating Apple’s Human Interface Guidelines &lpar;HIG&rpar;: A Practical Guide](https://dev.to/matheussricardoo/navigating-apples-human-interface-guidelines-hig-a-practical-guide-26ka)
+- [Tilt: Improving Local Development with Production-Like Environments](https://dev.to/gurghet/improving-local-development-with-production-like-environments-hhh)
+- [Vibe Tech #1: Welcome and initial thoughts](https://dev.to/surfing_devs/vibe-tech-1-welcome-and-initial-thoughts-jkh)
 <!-- BLOG-POST-LIST:END -->
 
 
