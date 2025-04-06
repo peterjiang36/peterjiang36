@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA in Web Development](https://dev.to/raushan_sinha_8efb05c7b1c/dsa-in-web-development-7om)
-- [Hello Devs! Transitioning from Mechanical to Tech - Need some HTML/CSS tips!!](https://dev.to/shifil/hello-devs-transitioning-from-mechanical-to-tech-need-some-htmlcss-tips-2apd)
-- [What is Immutability in JavaScript?](https://dev.to/devmatsu/what-is-immutability-in-javascript-fnm)
-- [7 Common Garbage Collection Issues in Node.js](https://dev.to/arunangshu_das/7-common-garbage-collection-issues-in-nodejs-jm1)
+- [Moonbirds and Indie Hacking in the NFT Ecosystem](https://dev.to/rachellovestowrite/moonbirds-and-indie-hacking-in-the-nft-ecosystem-4n9m)
+- [Day 2: &quot;Where Everything Lives: A Deep Dive into Linux Directories&quot;](https://dev.to/rajpreet_gill_6272051bd31/day-2-where-everything-lives-a-deep-dive-into-linux-directories-3kp6)
+- [Building AI-Powered Apps with Vercel AI SDK and React](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-51ba)
+- [The Rising Tide of Tokenized Assets: Transforming Marketplaces for the Digital Age](https://dev.to/zhangwei42/the-rising-tide-of-tokenized-assets-transforming-marketplaces-for-the-digital-age-563h)
 <!-- BLOG-POST-LIST:END -->
 
 
