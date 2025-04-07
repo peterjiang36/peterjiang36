@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
-- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
-- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
-- [array of arrays js.. thoughts?](https://dev.to/lanor_rigby_7fe9c90f68151/array-of-arrays-js-thoughts-ndp)
+- [Firefox&#39;s Data Sharing: What It Means for Your Privacy](https://dev.to/kallileiser/firefoxs-data-sharing-what-it-means-for-your-privacy-1dki)
+- [Day 1135 : Old Man](https://dev.to/dwane/day-1135-old-man-43l6)
+- [10.1 A java.time vem do Joda Time](https://dev.to/fundamentosjava/101-a-javatime-vem-do-joda-time-1meg)
+- [Elevate Your Debugging: Transitioning from Print Statements to Advanced Tools](https://dev.to/josepico/elevate-your-debugging-transitioning-from-print-statements-to-advanced-tools-3kpb)
 <!-- BLOG-POST-LIST:END -->
 
 
