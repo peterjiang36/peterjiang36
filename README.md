@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I feel like I can conquer almost anything right now. What will you be conquering this week? #conquering #whatareyouconquering](https://dev.to/d2d_weizhi/i-feel-like-i-can-conquer-almost-anything-right-now-what-will-you-be-conquering-this-week-43lk)
-- [14 Rules for Designing MySQL Tables](https://dev.to/leapcell/14-rules-for-designing-mysql-tables-3813)
-- [MCP Protocol: uma abordagem produtiva](https://dev.to/cassiogiehl/mcp-protocol-uma-abordagem-produtiva-5023)
-- [How to Back Up an Oracle Database in 2025](https://dev.to/rociogarciavf/how-to-back-up-an-oracle-database-in-2025-31ba)
+- [How to Cosplay 4: Newbies at Comic-Con](https://dev.to/gregg001/how-to-cosplay-4-newbies-at-comic-con-ffm)
+- [servidor web de node.js](https://dev.to/anthonybanion/servidor-web-de-nodejs-29gi)
+- [Automating AWS with Lambda: CRR &amp; EC2 Control + SNS Email Notifications](https://dev.to/leonardkachi/automating-aws-with-lambda-crr-ec2-control-sns-email-notifications-4dgd)
+- [CSS com Super Poderes: Uma Introdução ao SASS](https://dev.to/joaobatistajr/css-com-super-poderes-uma-introducao-ao-sass-4lfd)
 <!-- BLOG-POST-LIST:END -->
 
 
