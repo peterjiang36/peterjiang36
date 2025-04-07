@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGMP Snooping: A Comprehensive Networking Multicast Guide](https://dev.to/lightningdev123/igmp-snooping-a-comprehensive-networking-multicast-guide-4p0k)
-- [Leadership Lessons from Disney&#39;s CEO](https://dev.to/getjv/leadership-lessons-from-disneys-ceo-51e5)
-- [Data First: A Practical Guide to Understanding Systems and Codebases](https://dev.to/morningstarz/data-first-a-practical-guide-to-understanding-systems-and-codebases-454e)
-- [How Coding Has Changed Over the Last 2 Years](https://dev.to/alexroor4/how-coding-has-changed-over-the-last-2-years-1bbg)
+- [Depth Over Trend](https://dev.to/olanetsoft/depth-over-trend-3ccd)
+- [SPO600: Project Stage 2 - Function Clone Detection and Analysis &lpar;Part 1&rpar;](https://dev.to/amullagaliev/spo600-project-stage-2-function-clone-detection-and-analysis-part-1-2ob7)
+- [Full Stack Starter: build a image gallery from scratch without frameworks](https://dev.to/sean_shirazi/full-stack-starter-build-a-image-gallery-from-scratch-without-frameworks-5h64)
+- [AI เกมงู การค้นหาเส้นทางด้วยDijkstra Algorithm](https://dev.to/team_th_089909a56ce4d0593/ai-ekmnguu-kaarkhnhaaesnthaangdwydijkstra-algorithm-10pd)
 <!-- BLOG-POST-LIST:END -->
 
 
