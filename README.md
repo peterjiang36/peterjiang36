@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Quantum Computing Basics: Writing Your First Quantum Program](https://dev.to/info_generalhazedawn_a3d/quantum-computing-basics-writing-your-first-quantum-program-39o4)
-- [Learn more about bots, agents, data engineering, AI, ML, and automating tasks?](https://dev.to/sunny7899/learn-more-about-bots-agents-data-engineering-ai-ml-and-automating-tasks-4o1i)
-- [Best Practices for Git and Version Control](https://dev.to/aneeqakhan/best-practices-for-git-and-version-control-588m)
-- [Temporal API for Precise Date Management](https://dev.to/omriluz1/temporal-api-for-precise-date-management-kjn)
+- [Zed Run: Indie Hacking and NFT Innovation on the Digital Racetrack](https://dev.to/ashucommits/zed-run-indie-hacking-and-nft-innovation-on-the-digital-racetrack-3del)
+- [[Boost]](https://dev.to/karanverma/-4983)
+- [Understanding Anxiety: Causes and Symptoms](https://dev.to/isla_brown_662ed08f2867f1/understanding-anxiety-causes-and-symptoms-226g)
+- [To hone your skills as a Cloud Engineer, knowledge of networking is a must-have. Read up in this article the basics of networking. This will equip you to handle your tasks more effciently and also give you a basis to further deepen your understanding.](https://dev.to/oluwanifemi_loveth_1/to-hone-your-skills-as-a-cloud-engineer-knowledge-of-networking-is-a-must-have-read-up-in-this-428a)
 <!-- BLOG-POST-LIST:END -->
 
 
