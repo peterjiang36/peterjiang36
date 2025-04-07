@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cách cài đặt và tối ưu hóa Obsidian trên Linux](https://dev.to/tranngocminhhieu/cach-cai-dat-va-toi-uu-hoa-obsidian-tren-linux-3p7c)
-- [YOLOv12: The Next Evolution in Document Layout Analysis](https://dev.to/ppaanngggg/yolov12-the-next-evolution-in-document-layout-analysis-2o2a)
-- [test blog hehehe](https://dev.to/shivaraj_eb0e4729bc350a50/test-blog-hehehe-4c7a)
-- [The Seven Sins of Code Review: Confessions from the Front Lines](https://dev.to/protsenko/the-seven-sins-of-code-review-confessions-from-the-front-lines-1no0)
+- [Open Source is Soil: The Greening Philosophy](https://dev.to/chrisgreening/open-source-is-soil-the-greening-philosophy-3beh)
+- [How to Generate a GitHub Token for Pushing Repos with Greening](https://dev.to/chrisgreening/how-to-generate-a-github-token-for-pushing-repos-with-greening-ne6)
+- [Solving the ENOSPC File Watcher Error in Linux Development Environments](https://dev.to/morgankar/solving-the-enospc-file-watcher-error-in-linux-development-environments-544j)
+- [Exploring GitHub Sponsors: Global Impact and Future Innovations in Open-Source Funding](https://dev.to/ashucommits/exploring-github-sponsors-global-impact-and-future-innovations-in-open-source-funding-46h5)
 <!-- BLOG-POST-LIST:END -->
 
 
