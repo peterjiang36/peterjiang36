@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Cosplay 4: Newbies at Comic-Con](https://dev.to/gregg001/how-to-cosplay-4-newbies-at-comic-con-ffm)
-- [servidor web de node.js](https://dev.to/anthonybanion/servidor-web-de-nodejs-29gi)
-- [Automating AWS with Lambda: CRR &amp; EC2 Control + SNS Email Notifications](https://dev.to/leonardkachi/automating-aws-with-lambda-crr-ec2-control-sns-email-notifications-4dgd)
-- [CSS com Super Poderes: Uma Introdução ao SASS](https://dev.to/joaobatistajr/css-com-super-poderes-uma-introducao-ao-sass-4lfd)
+- [Quiz DEV](https://dev.to/paulo_roberto_91f7f091c42/quiz-dev-1mlj)
+- [用 Go 监控 PumpSwap 流动性：三步搞定](https://dev.to/xiaodao/yong-go-jian-kong-pumpswap-liu-dong-xing-san-bu-gao-ding-16oc)
+- [Google’s Next-Level AI: Meet the Powerful Gemini 2.5 Pro](https://dev.to/steven_yang_267/googles-next-level-ai-meet-the-powerful-gemini-25-pro-3d44)
+- [Open Source Revenue Generation: Balancing Community and Commerce](https://dev.to/rachellovestowrite/open-source-revenue-generation-balancing-community-and-commerce-kee)
 <!-- BLOG-POST-LIST:END -->
 
 
