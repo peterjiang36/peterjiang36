@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazy Loading en HTML: cómo cargar imágenes de forma eficiente sin usar JavaScript](https://dev.to/johnserranodev/lazy-loading-en-html-como-cargar-imagenes-de-forma-eficiente-sin-usar-javascript-48e7)
-- [Unveiling Common Public Attribution License 1.0: A Comprehensive Overview and Future Trends](https://dev.to/vitalisorenko/unveiling-common-public-attribution-license-10-a-comprehensive-overview-and-future-trends-3hge)
-- [Mintlify vs. Gitbook: A 2025 Comparison](https://dev.to/tiffany-mintlify/mintlify-vs-gitbook-a-2025-comparison-2be7)
-- [Snowflake Algorithm: UUID Generation for Distributed Systems](https://dev.to/leapcell/snowflake-algorithm-uuid-generation-for-distributed-systems-4l56)
+- [Experimenting with Cursor](https://dev.to/bucketdotco/experimenting-with-cursor-52m3)
+- [💻 You Should Try These Tools In Your Next Project](https://dev.to/withishtiaq/you-should-try-these-tools-in-your-next-project-45i7)
+- [Challenge: Deploy AWS Infrastructure with Pulumi &lpar;Python&rpar;](https://dev.to/yesra_sajid_90cc25b86dcda/challenge-deploy-aws-infrastructure-with-pulumi-python-2bi1)
+- [gprofng on Oracle ARM Linux](https://dev.to/abhilash8/gprofng-on-oracle-arm-linux-1en)
 <!-- BLOG-POST-LIST:END -->
 
 
