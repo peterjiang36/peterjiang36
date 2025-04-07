@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Apps with Vercel AI SDK and React Server Components](https://dev.to/brayancodes/building-ai-powered-apps-with-vercel-ai-sdk-and-react-server-components-1a6e)
-- [Navigating Apple’s Human Interface Guidelines &lpar;HIG&rpar;: A Practical Guide](https://dev.to/matheussricardoo/navigating-apples-human-interface-guidelines-hig-a-practical-guide-26ka)
-- [Tilt: Improving Local Development with Production-Like Environments](https://dev.to/gurghet/improving-local-development-with-production-like-environments-hhh)
-- [Vibe Tech #1: Welcome and initial thoughts](https://dev.to/surfing_devs/vibe-tech-1-welcome-and-initial-thoughts-jkh)
+- [I feel like I can conquer almost anything right now. What will you be conquering this week? #conquering #whatareyouconquering](https://dev.to/d2d_weizhi/i-feel-like-i-can-conquer-almost-anything-right-now-what-will-you-be-conquering-this-week-43lk)
+- [14 Rules for Designing MySQL Tables](https://dev.to/leapcell/14-rules-for-designing-mysql-tables-3813)
+- [MCP Protocol: uma abordagem produtiva](https://dev.to/cassiogiehl/mcp-protocol-uma-abordagem-produtiva-5023)
+- [How to Back Up an Oracle Database in 2025](https://dev.to/rociogarciavf/how-to-back-up-an-oracle-database-in-2025-31ba)
 <!-- BLOG-POST-LIST:END -->
 
 
