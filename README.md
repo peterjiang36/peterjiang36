@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Middleware: A Critical Examination for Strategic Leaders](https://dev.to/yugjadvani/nextjs-middleware-a-critical-examination-for-strategic-leaders-bno)
-- [Crafting Go Testing Module: Step 1 - Requirements](https://dev.to/rzajac/crafting-go-testing-module-step-1-requirements-4l37)
-- [Python’s Best Feature You’re Not Using](https://dev.to/resource_bunk_1077cab07da/pythons-best-feature-youre-not-using-5ed8)
-- [Micronaut dependency injection](https://dev.to/saladlam/micronaut-dependency-injection-572o)
+- [The Mechanics of SELECT FOR UPDATE in SQL](https://dev.to/leapcell/the-mechanics-of-select-for-update-in-sql-3of5)
+- [🤖 5 AI Apps You Can Start Building Using MCP Agents](https://dev.to/hani__8725b7a/5-real-world-apps-you-can-start-building-using-mcp-agents-3ecb)
+- [Comparative Analysis of Flutter and React Native for Application Development](https://dev.to/annmaryjohn/comparative-analysis-of-flutter-and-react-native-for-application-development-4m96)
+- [Exception Handling](https://dev.to/leah_massey/exception-handling-4hcf)
 <!-- BLOG-POST-LIST:END -->
 
 
