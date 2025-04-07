@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮📚 Level Up Your HTML Skills with This Arcade-Style Learning Platform! 🎯✨](https://dev.to/onyxwizard/level-up-your-html-skills-with-this-arcade-style-learning-platform-i7n)
-- [The New Power Platform Admin Center](https://dev.to/wyattdave/the-new-power-platform-admin-center-385e)
-- [Useful Tips](https://dev.to/youssef_turkey_f179d6b999/useful-tips-228p)
-- [&quot;Explore All Course Batches at Fusion Institute – Flexible Learning Options for a Successful IT Career Journey Today!&quot;](https://dev.to/sagarheddurshetty_vionsys/explore-all-course-batches-at-fusion-institute-flexible-learning-options-for-a-successful-it-77m)
+- [Github Milestone Motivator: An innovative idea from Pulumi intriguing challenge 🏆](https://dev.to/minhlong2605/github-milestone-motivator-an-innovative-idea-from-pulumi-intriguing-challenge-ej2)
+- [Quick Online Invoice Generator: A Free Professional Tool for Freelancers](https://dev.to/invoicegenerator/quick-online-invoice-generator-a-free-professional-tool-for-freelancers-3afj)
+- [When to use composables vs provide/inject in Vue 3](https://dev.to/dankasperczyk/when-to-use-composables-vs-provideinject-in-vue-3-4mcm)
+- [Cloud-Native CI/CD Pipelines: Ensuring Quality at Scale](https://dev.to/jyothsna_devi_a41eee1ca3f/cloud-native-cicd-pipelines-ensuring-quality-at-scale-5h2a)
 <!-- BLOG-POST-LIST:END -->
 
 
