@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Static site in Minutes using Pulumi and Hugo](https://dev.to/ashish_kumar_4dc2a7ee7693/static-site-in-minutes-using-pulumi-and-hugo-2300)
-- [Trump’s 2025 Reciprocal Tariff Policy | Vibe Weekly Vol.002](https://dev.to/vibeweekly/trumps-2025-reciprocal-tariff-policy-vibe-weekly-vol002-2h0d)
-- [How KIGLAND Scaled Custom Anime Mask Production with Open-Source Tools](https://dev.to/nocobase/how-kigland-scaled-custom-anime-mask-production-with-open-source-tools-3p5l)
-- [Redux vs. React Context en Vite: ¿Pizza o Tacos para tu estado global?](https://dev.to/adrii_ana/redux-vs-react-context-en-vite-pizza-o-tacos-para-tu-estado-global-2m9k)
+- [OTel Me Why](https://dev.to/adatole/otel-me-why-15ma)
+- [How to Change Font Color in Excel?](https://dev.to/excel24x7/how-to-change-font-color-in-excel-59h4)
+- [Exploring Siemens’ Decentralized Licensing: Transforming Software Management](https://dev.to/ahmmrizv9/exploring-siemens-decentralized-licensing-transforming-software-management-2npl)
+- [Cookies vs. Sessions: The Stateful Dance of the Web](https://dev.to/dehemi_fabio/cookies-vs-sessions-the-stateful-dance-of-the-web-31jb)
 <!-- BLOG-POST-LIST:END -->
 
 
