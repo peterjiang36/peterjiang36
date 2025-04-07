@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OTel Me Why](https://dev.to/adatole/otel-me-why-15ma)
-- [How to Change Font Color in Excel?](https://dev.to/excel24x7/how-to-change-font-color-in-excel-59h4)
-- [Exploring Siemens’ Decentralized Licensing: Transforming Software Management](https://dev.to/ahmmrizv9/exploring-siemens-decentralized-licensing-transforming-software-management-2npl)
-- [Cookies vs. Sessions: The Stateful Dance of the Web](https://dev.to/dehemi_fabio/cookies-vs-sessions-the-stateful-dance-of-the-web-31jb)
+- [Stop Overpaying for the Cloud: Secrets to Cutting Down Your AWS/Azure Bill Before It’s Too Late!](https://dev.to/dct_technology/stop-overpaying-for-the-cloud-secrets-to-cutting-down-your-awsazure-bill-before-its-too-late-5d2)
+- [🚨 7 Hidden JavaScript Features You&#39;re Probably Ignoring &lpar;And Why That&#39;s Slowing You Down&rpar;](https://dev.to/dct_technology/7-hidden-javascript-features-youre-probably-ignoring-and-why-thats-slowing-you-down-4phf)
+- [Argo CD vs Flux: Ultimate 2025 Showdown](https://dev.to/giladmaayan/argo-cd-vs-flux-ultimate-2025-showdown-2gdc)
+- [Key Principles of Microservice Architecture: A Detailed Guide](https://dev.to/adityabhuyan/key-principles-of-microservice-architecture-a-detailed-guide-128g)
 <!-- BLOG-POST-LIST:END -->
 
 
