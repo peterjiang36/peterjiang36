@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Experimenting with Cursor](https://dev.to/bucketdotco/experimenting-with-cursor-52m3)
-- [💻 You Should Try These Tools In Your Next Project](https://dev.to/withishtiaq/you-should-try-these-tools-in-your-next-project-45i7)
-- [Challenge: Deploy AWS Infrastructure with Pulumi &lpar;Python&rpar;](https://dev.to/yesra_sajid_90cc25b86dcda/challenge-deploy-aws-infrastructure-with-pulumi-python-2bi1)
-- [gprofng on Oracle ARM Linux](https://dev.to/abhilash8/gprofng-on-oracle-arm-linux-1en)
+- [How to Automate Newsletters for House Cleaning Companies: A Step-by-Step Guide](https://dev.to/jesus_hall_bropro/how-to-automate-newsletters-for-house-cleaning-companies-a-step-by-step-guide-3pgl)
+- [O Que Acontece Quando Você Faz um Commit: Um Mergulho Profundo no Git](https://dev.to/gusvasconcelos/o-que-acontece-quando-voce-faz-um-commit-um-mergulho-profundo-no-git-3da8)
+- [Solving the OLTP-OLAP Divide: PostgreSQL B-tree and Hash Indexes for Columnar Data](https://dev.to/timescale/solving-the-oltp-olap-divide-postgresql-b-tree-and-hash-indexes-for-columnar-data-4p7b)
+- [Is this code the standard for form validation/Regex](https://dev.to/lanor_rigby_7fe9c90f68151/is-this-code-the-standard-for-form-validationregex-3ii2)
 <!-- BLOG-POST-LIST:END -->
 
 
