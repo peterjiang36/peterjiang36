@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Canary Release: A Smart Approach to Software Deployment](https://dev.to/mspilari/canary-release-a-smart-approach-to-software-deployment-1bdf)
-- [Pattern Matching en Java](https://dev.to/asjordi/pattern-matching-en-java-3fb2)
-- [Quark&#39;s Outlines: Python Line Structure](https://dev.to/mike-vincent/quarks-outlines-python-line-structure-1ac1)
-- [The Art of Context: A Game-Changing Approach to Task Management](https://dev.to/wraith/the-art-of-context-a-game-changing-approach-to-task-management-3664)
+- [The 8 best Go web frameworks for 2025: Updated list](https://dev.to/logrocket/the-8-best-go-web-frameworks-for-2025-updated-list-5180)
+- [Axios vs. Fetch &lpar;2025 update&rpar;: Which should you use for HTTP requests?](https://dev.to/logrocket/axios-vs-fetch-2025-update-which-should-you-use-for-http-requests-5d73)
+- [What are your goals for the week? #121](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-121-3bm4)
+- [How I Reduced My React Bundle Size by 30% &lpar;With Real Examples&rpar;](https://dev.to/_ndeyefatoudiop/how-i-reduced-my-react-bundle-size-by-30-with-real-examples-12ff)
 <!-- BLOG-POST-LIST:END -->
 
 
