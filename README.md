@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zed Run: Indie Hacking and NFT Innovation on the Digital Racetrack](https://dev.to/ashucommits/zed-run-indie-hacking-and-nft-innovation-on-the-digital-racetrack-3del)
-- [[Boost]](https://dev.to/karanverma/-4983)
-- [Understanding Anxiety: Causes and Symptoms](https://dev.to/isla_brown_662ed08f2867f1/understanding-anxiety-causes-and-symptoms-226g)
-- [To hone your skills as a Cloud Engineer, knowledge of networking is a must-have. Read up in this article the basics of networking. This will equip you to handle your tasks more effciently and also give you a basis to further deepen your understanding.](https://dev.to/oluwanifemi_loveth_1/to-hone-your-skills-as-a-cloud-engineer-knowledge-of-networking-is-a-must-have-read-up-in-this-428a)
+- [IGMP Snooping: A Comprehensive Networking Multicast Guide](https://dev.to/lightningdev123/igmp-snooping-a-comprehensive-networking-multicast-guide-4p0k)
+- [Leadership Lessons from Disney&#39;s CEO](https://dev.to/getjv/leadership-lessons-from-disneys-ceo-51e5)
+- [Data First: A Practical Guide to Understanding Systems and Codebases](https://dev.to/morningstarz/data-first-a-practical-guide-to-understanding-systems-and-codebases-454e)
+- [How Coding Has Changed Over the Last 2 Years](https://dev.to/alexroor4/how-coding-has-changed-over-the-last-2-years-1bbg)
 <!-- BLOG-POST-LIST:END -->
 
 
