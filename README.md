@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mechanics of SELECT FOR UPDATE in SQL](https://dev.to/leapcell/the-mechanics-of-select-for-update-in-sql-3of5)
-- [🤖 5 AI Apps You Can Start Building Using MCP Agents](https://dev.to/hani__8725b7a/5-real-world-apps-you-can-start-building-using-mcp-agents-3ecb)
-- [Comparative Analysis of Flutter and React Native for Application Development](https://dev.to/annmaryjohn/comparative-analysis-of-flutter-and-react-native-for-application-development-4m96)
-- [Exception Handling](https://dev.to/leah_massey/exception-handling-4hcf)
+- [This is really fun](https://dev.to/neusacodes/this-is-really-fun-250p)
+- [Hacking Ético, Kali Linux y Metasploitable 3: Conceptos Claves](https://dev.to/ezavalar/hacking-etico-kali-linux-y-metasploitable-3-conceptos-claves-4mi3)
+- [Into the Spider-verse: Maybe the best movie soundtrack of all time?](https://dev.to/ben/into-the-spider-verse-maybe-the-best-movie-soundtrack-of-all-time-393f)
+- [array of arrays js.. thoughts?](https://dev.to/lanor_rigby_7fe9c90f68151/array-of-arrays-js-thoughts-ndp)
 <!-- BLOG-POST-LIST:END -->
 
 
