@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Newsletters for House Cleaning Companies: A Step-by-Step Guide](https://dev.to/jesus_hall_bropro/how-to-automate-newsletters-for-house-cleaning-companies-a-step-by-step-guide-3pgl)
-- [O Que Acontece Quando Você Faz um Commit: Um Mergulho Profundo no Git](https://dev.to/gusvasconcelos/o-que-acontece-quando-voce-faz-um-commit-um-mergulho-profundo-no-git-3da8)
-- [Solving the OLTP-OLAP Divide: PostgreSQL B-tree and Hash Indexes for Columnar Data](https://dev.to/timescale/solving-the-oltp-olap-divide-postgresql-b-tree-and-hash-indexes-for-columnar-data-4p7b)
-- [Is this code the standard for form validation/Regex](https://dev.to/lanor_rigby_7fe9c90f68151/is-this-code-the-standard-for-form-validationregex-3ii2)
+- [Next.js Middleware: A Critical Examination for Strategic Leaders](https://dev.to/yugjadvani/nextjs-middleware-a-critical-examination-for-strategic-leaders-bno)
+- [Crafting Go Testing Module: Step 1 - Requirements](https://dev.to/rzajac/crafting-go-testing-module-step-1-requirements-4l37)
+- [Python’s Best Feature You’re Not Using](https://dev.to/resource_bunk_1077cab07da/pythons-best-feature-youre-not-using-5ed8)
+- [Micronaut dependency injection](https://dev.to/saladlam/micronaut-dependency-injection-572o)
 <!-- BLOG-POST-LIST:END -->
 
 
