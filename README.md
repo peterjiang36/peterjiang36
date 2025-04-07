@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-By-Step Guide to Install Llama-4 Maverick 17B 128E Instruct](https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-llama-4-maverick-17b-128e-instruct-4e5l)
-- [Why Manufacturing Companies in the USA Need ERP Software in 2025](https://dev.to/bhavesh_gangani_/why-manufacturing-companies-in-the-usa-need-erp-software-in-2025-184p)
-- [Understanding and Addressing Large Black Spots and Light Dark Patches on the Face](https://dev.to/beckham_leo_6ef1324f09fbb/understanding-and-addressing-large-black-spots-and-light-dark-patches-on-the-face-3e14)
-- [AI in Software Testing: Why CoTester Stands Out Among Competitors](https://dev.to/testifytech/ai-in-software-testing-why-cotester-stands-out-among-competitors-80c)
+- [Canary Release: A Smart Approach to Software Deployment](https://dev.to/mspilari/canary-release-a-smart-approach-to-software-deployment-1bdf)
+- [Pattern Matching en Java](https://dev.to/asjordi/pattern-matching-en-java-3fb2)
+- [Quark&#39;s Outlines: Python Line Structure](https://dev.to/mike-vincent/quarks-outlines-python-line-structure-1ac1)
+- [The Art of Context: A Game-Changing Approach to Task Management](https://dev.to/wraith/the-art-of-context-a-game-changing-approach-to-task-management-3664)
 <!-- BLOG-POST-LIST:END -->
 
 
