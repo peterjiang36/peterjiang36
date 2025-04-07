@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quiz DEV](https://dev.to/paulo_roberto_91f7f091c42/quiz-dev-1mlj)
-- [用 Go 监控 PumpSwap 流动性：三步搞定](https://dev.to/xiaodao/yong-go-jian-kong-pumpswap-liu-dong-xing-san-bu-gao-ding-16oc)
-- [Google’s Next-Level AI: Meet the Powerful Gemini 2.5 Pro](https://dev.to/steven_yang_267/googles-next-level-ai-meet-the-powerful-gemini-25-pro-3d44)
-- [Open Source Revenue Generation: Balancing Community and Commerce](https://dev.to/rachellovestowrite/open-source-revenue-generation-balancing-community-and-commerce-kee)
+- [Static site in Minutes using Pulumi and Hugo](https://dev.to/ashish_kumar_4dc2a7ee7693/static-site-in-minutes-using-pulumi-and-hugo-2300)
+- [Trump’s 2025 Reciprocal Tariff Policy | Vibe Weekly Vol.002](https://dev.to/vibeweekly/trumps-2025-reciprocal-tariff-policy-vibe-weekly-vol002-2h0d)
+- [How KIGLAND Scaled Custom Anime Mask Production with Open-Source Tools](https://dev.to/nocobase/how-kigland-scaled-custom-anime-mask-production-with-open-source-tools-3p5l)
+- [Redux vs. React Context en Vite: ¿Pizza o Tacos para tu estado global?](https://dev.to/adrii_ana/redux-vs-react-context-en-vite-pizza-o-tacos-para-tu-estado-global-2m9k)
 <!-- BLOG-POST-LIST:END -->
 
 
