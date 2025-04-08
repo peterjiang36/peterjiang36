@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Log Levels: A Guide to Effective Logging.](https://dev.to/vaidehi_adhi_84b623a30da7/understanding-log-levels-a-guide-to-effective-logging-5753)
-- [Dev](https://dev.to/gchar/dev-208d)
-- [Cross-Platform Mobile Testing in 2025: AI Tools for Unified Experiences](https://dev.to/anil_csimplifyit_905c/cross-platform-mobile-testing-in-2025-ai-tools-for-unified-experiences-443d)
-- [Why the Swagger Pet Store Doesn’t Cut It for Prototyping Enterprise Applications](https://dev.to/lonti-davidb/why-the-swagger-pet-store-doesnt-cut-it-for-prototyping-enterprise-applications-5g37)
+- [The Future of Web Animations: CSS vs. JavaScript](https://dev.to/hasunnilupul/the-future-of-web-animations-css-vs-javascript-3b8d)
+- [SQL vs NoSQL for Large Tables: Choosing the Right Database for Big Data Applications](https://dev.to/adityabhuyan/sql-vs-nosql-for-large-tables-choosing-the-right-database-for-big-data-applications-1h36)
+- [JWT decode](https://dev.to/savitri_singh_900d4128b42/jwt-decode-1o8g)
+- [TPUs vs GPUs in TensorFlow: Key Differences and Use Cases for Machine Learning](https://dev.to/adityabhuyan/tpus-vs-gpus-in-tensorflow-key-differences-and-use-cases-for-machine-learning-1919)
 <!-- BLOG-POST-LIST:END -->
 
 
