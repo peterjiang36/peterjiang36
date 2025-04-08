@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-step guide on Providing shared file storage for the company offices on Azure Portal.](https://dev.to/nelson_akpa01/step-by-step-guide-on-providing-shared-file-storage-for-the-company-offices-on-azure-portal-2bed)
-- [cadastro e análise de peso](https://dev.to/paulo_roberto_91f7f091c42/cadastro-e-analise-de-peso-189b)
-- [Essential Hardware for Your First Electronics Project &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/buonoatsushi/essential-hardware-for-your-first-electronics-project-beginners-guide-256c)
-- [Engineering in Quicksand](https://dev.to/rosesecurity/engineering-in-quicksand-31p7)
+- [Understanding Log Levels: A Guide to Effective Logging.](https://dev.to/vaidehi_adhi_84b623a30da7/understanding-log-levels-a-guide-to-effective-logging-5753)
+- [Dev](https://dev.to/gchar/dev-208d)
+- [Cross-Platform Mobile Testing in 2025: AI Tools for Unified Experiences](https://dev.to/anil_csimplifyit_905c/cross-platform-mobile-testing-in-2025-ai-tools-for-unified-experiences-443d)
+- [Why the Swagger Pet Store Doesn’t Cut It for Prototyping Enterprise Applications](https://dev.to/lonti-davidb/why-the-swagger-pet-store-doesnt-cut-it-for-prototyping-enterprise-applications-5g37)
 <!-- BLOG-POST-LIST:END -->
 
 
