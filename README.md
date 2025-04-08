@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma + Neon DB Error P1001 Explained &lpar;with Pizza 🍕&rpar;](https://dev.to/nahom_kasa_a3859f822d2b4c/prisma-neon-db-error-p1001-explained-with-pizza--5hho)
-- [พื้นฐาน Clustering ใน Machine Learning](https://dev.to/juthamanee_saetang_ecaa39/phuuenthaan-clustering-ain-machine-learning-2jka)
-- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗖𝗼𝗽𝘆𝗢𝗻𝗪𝗿𝗶𝘁𝗲𝗔𝗿𝗿𝗮𝘆𝗟𝗶𝘀𝘁 𝗶𝗻 𝗝𝗮𝘃𝗮: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗖𝗼𝗻𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴](https://dev.to/thiago_souza_1510/--2dm2)
-- [Augmented &amp; Virtual Reality &lpar;AR/VR&rpar; App Development](https://dev.to/souhaillaghchimdev/augmented-virtual-reality-arvr-app-development-4k6l)
+- [Loop Task while loop for Day 3](https://dev.to/vigneshwaralingam/loop-task-while-loop-for-day-3-2dhn)
+- [Misbah Ashraf: The Visionary from Bihar](https://dev.to/justin_downes/misbah-ashraf-the-visionary-from-bihar-39lo)
+- [🌀 Programming Session Day 3 :](https://dev.to/vigneshwaralingam/programming-session-day-3--49n5)
+- [Developer-Focused Resume Builder: An MVP in Progress](https://dev.to/menard_codes/developer-focused-resume-builder-an-mvp-in-progress-41f9)
 <!-- BLOG-POST-LIST:END -->
 
 
