@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Sentiment Analysis API with Nitric and Python](https://dev.to/rsiv/deploying-a-sentiment-analysis-api-with-nitric-and-python-o1h)
-- [Comprehending the Life Cycle of Common Pests](https://dev.to/pestcontrolservice752/comprehending-the-life-cycle-of-common-pests-53a1)
-- [From Vibe Coding to Vibe Engineering with V0 and Firebase. [Part 0].](https://dev.to/turingsoracle/from-vibe-coding-to-vibe-engineering-with-v0-and-firebase-part-0-2m8m)
-- [How to Build an Effective Cyber Security Testing Strategy](https://dev.to/ray_parker01/how-to-build-an-effective-cyber-security-testing-strategy-2m88)
+- [[Boost]](https://dev.to/meer/-1cm5)
+- [3 Major Metrics to Measure your Site&#39;s Performance](https://dev.to/paulllllo/3-major-metrics-to-measure-your-sites-performance-15h6)
+- [A simple todo app with htmx/go/templ/tailwind](https://dev.to/antonisgkamitsios/a-simple-todo-app-with-htmxgotempltailwind-1li4)
+- [Exploring The Evolving Landscape of Live Streaming and Content Creation &lpar;Updated&rpar;](https://dev.to/supreme_c94d2e21f71444c89/exploring-the-evolving-landscape-of-live-streaming-and-content-creation-updated-48ah)
 <!-- BLOG-POST-LIST:END -->
 
 
