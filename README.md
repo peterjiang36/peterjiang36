@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AI Training Data Monetization: Strategies, Platforms, and Future Trends](https://dev.to/ahmmrizv9/unlocking-the-power-of-ai-training-data-monetization-strategies-platforms-and-future-trends-4bc5)
-- [Read the Book Domain Modelling Made Functional](https://dev.to/jesterxl/read-the-book-domain-modelling-made-functional-3afb)
-- [AI and Time Series Data: Harnessing Temporal Insights in a Digital Age](https://dev.to/jennythomas498/ai-and-time-series-data-harnessing-temporal-insights-in-a-digital-age-4ea3)
-- [No final tudo é typescript/javascript ?](https://dev.to/ramondiniz27/no-final-tudo-e-typescriptjavascript--487c)
+- [Step-by-step guide on Providing shared file storage for the company offices on Azure Portal.](https://dev.to/nelson_akpa01/step-by-step-guide-on-providing-shared-file-storage-for-the-company-offices-on-azure-portal-2bed)
+- [cadastro e análise de peso](https://dev.to/paulo_roberto_91f7f091c42/cadastro-e-analise-de-peso-189b)
+- [Essential Hardware for Your First Electronics Project &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/buonoatsushi/essential-hardware-for-your-first-electronics-project-beginners-guide-256c)
+- [Engineering in Quicksand](https://dev.to/rosesecurity/engineering-in-quicksand-31p7)
 <!-- BLOG-POST-LIST:END -->
 
 
