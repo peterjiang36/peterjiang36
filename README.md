@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your first AI Agent for Postgres on Azure](https://dev.to/bobur/build-your-first-ai-agent-for-postgres-on-azure-ano)
-- [The Headless CMS Mindset: Rethinking Content Architecture in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/the-headless-cms-mindset-rethinking-content-architecture-in-2025-470)
-- [Mastering React Hooks as a beginner - useMemo&lpar;&rpar;](https://dev.to/shubha_k/mastering-react-hooks-as-a-beginner-usememo-12j9)
-- [AI กับการจำแนกข้อมูล &lpar;Classification&rpar; ด้วย Decision Tree](https://dev.to/im_proxy/ai-kabkaarcchamaenkkhmuul-classification-dwy-decision-tree-clh)
+- [Building Runtime-agnostic Apps/Packages with JavaScript](https://dev.to/pmbanugo/building-runtime-agnostic-appspackages-with-javascript-41b)
+- [Two Efficient Methods for Converting PDF to PPT - AI Tools Included](https://dev.to/derek-compdf/two-efficient-methods-for-converting-pdf-to-ppt-ai-tools-included-132d)
+- [Kalıtım mı, Kompozisyon mu? Nesne Yönelimli Tasarımda Doğru Yolu Seçme Kılavuzu &lpar;Inheritance vs Composition&rpar;](https://dev.to/abdulkadir_gungor/kalitim-mi-kompozisyon-mu-nesne-yonelimli-tasarimda-dogru-yolu-secme-kilavuzu-inheritance-vs-3l5e)
+- [Fixing Figma Plugin Unable to Hit API Due to CORS Error](https://dev.to/reynaldi/fixing-figma-plugin-unable-to-hit-api-due-to-cors-error-1co6)
 <!-- BLOG-POST-LIST:END -->
 
 
