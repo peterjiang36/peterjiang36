@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reimagining WordPress Category Management with Advanced Taxonomy Manager](https://dev.to/gbti-network/reimagining-wordpress-category-management-with-advanced-taxonomy-manager-29cb)
-- [Jozu Hub–Your private, on-prem Hugging Face registry](https://dev.to/kitops/jozu-hub-your-private-on-prem-hugging-face-registry-2p61)
-- [Steps Involved in Tokenizing Real-World Assets](https://dev.to/albert_beckles_f69890e654/steps-involved-in-tokenizing-real-world-assets-3j7a)
-- [The Strategic Edge: How AI Business Analysts are Empowering CEOs and Executives](https://dev.to/interdevsocial/the-strategic-edge-how-ai-business-analysts-are-empowering-ceos-and-executives-4m8m)
+- [Axios in JavaScript: How to make GET, POST, PUT and DELETE requests](https://dev.to/logrocket/axios-in-javascript-how-to-make-get-post-put-and-delete-requests-2po5)
+- [How to Vibe Code Responsibly &lpar;with Goose&rpar;](https://dev.to/blockopensource/how-to-vibe-code-responsibly-with-goose-42kb)
+- [Dealing with Pushback to Product Engineering](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o)
+- [177/365 | ¥10M Job Challenge - Pay to play](https://dev.to/kameken100/177365-y10m-job-challenge-pay-to-play-3p5e)
 <!-- BLOG-POST-LIST:END -->
 
 
