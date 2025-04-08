@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Powerful CSS Selectors Tips Every Developer Should Know](https://dev.to/code_2/20-powerful-css-selectors-tips-every-developer-should-know-264e)
-- [New Post For Erlang](https://dev.to/local-js/new-post-for-erlang-31hj)
-- [Bulkification in Flows, Top 10 PMD Issues for Apex, Salesforce Lightning Performance Gains](https://dev.to/sfdcnews/bulkification-in-flows-top-10-pmd-issues-for-apex-salesforce-lightning-performance-gains-4ogk)
-- [Why ISP Proxies May Be the Better Choice for Some Tasks](https://dev.to/swiftproxy_residential/why-isp-proxies-may-be-the-better-choice-for-some-tasks-1f50)
+- [Build your first AI Agent for Postgres on Azure](https://dev.to/bobur/build-your-first-ai-agent-for-postgres-on-azure-ano)
+- [The Headless CMS Mindset: Rethinking Content Architecture in 2025](https://dev.to/caisy_b3dab8bba6a26f388ca/the-headless-cms-mindset-rethinking-content-architecture-in-2025-470)
+- [Mastering React Hooks as a beginner - useMemo&lpar;&rpar;](https://dev.to/shubha_k/mastering-react-hooks-as-a-beginner-usememo-12j9)
+- [AI กับการจำแนกข้อมูล &lpar;Classification&rpar; ด้วย Decision Tree](https://dev.to/im_proxy/ai-kabkaarcchamaenkkhmuul-classification-dwy-decision-tree-clh)
 <!-- BLOG-POST-LIST:END -->
 
 
