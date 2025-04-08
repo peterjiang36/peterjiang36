@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox&#39;s Data Sharing: What It Means for Your Privacy](https://dev.to/kallileiser/firefoxs-data-sharing-what-it-means-for-your-privacy-1dki)
-- [Day 1135 : Old Man](https://dev.to/dwane/day-1135-old-man-43l6)
-- [10.1 A java.time vem do Joda Time](https://dev.to/fundamentosjava/101-a-javatime-vem-do-joda-time-1meg)
-- [Elevate Your Debugging: Transitioning from Print Statements to Advanced Tools](https://dev.to/josepico/elevate-your-debugging-transitioning-from-print-statements-to-advanced-tools-3kpb)
+- [New PLAYWRIGHT-AJV-SCHEMA-VALIDATOR for API Testing!](https://dev.to/sebastianclavijo/new-playwright-ajv-schema-validator-for-api-testing-191e)
+- [&quot;Unlocking AI Reasoning: Optimizing Large Language Models for Real-World Tasks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-reasoning-optimizing-large-language-models-for-real-world-tasks-48oe)
+- [CSS is Emotional: Technical Debt - The Emotional Baggage of CSS](https://dev.to/eioluseyi/css-is-emotional-technical-debt-the-emotional-baggage-of-css-29dl)
+- [AI Training Data News Q1 2025: Navigating the Dynamic Landscape of AI Training Datasets](https://dev.to/vitalisorenko/ai-training-data-news-q1-2025-navigating-the-dynamic-landscape-of-ai-training-datasets-4g6n)
 <!-- BLOG-POST-LIST:END -->
 
 
