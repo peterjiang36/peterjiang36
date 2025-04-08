@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/meer/-1cm5)
-- [3 Major Metrics to Measure your Site&#39;s Performance](https://dev.to/paulllllo/3-major-metrics-to-measure-your-sites-performance-15h6)
-- [A simple todo app with htmx/go/templ/tailwind](https://dev.to/antonisgkamitsios/a-simple-todo-app-with-htmxgotempltailwind-1li4)
-- [Exploring The Evolving Landscape of Live Streaming and Content Creation &lpar;Updated&rpar;](https://dev.to/supreme_c94d2e21f71444c89/exploring-the-evolving-landscape-of-live-streaming-and-content-creation-updated-48ah)
+- [Securing the Model Context Protocol](https://dev.to/blockopensource/securing-the-model-context-protocol-1jfm)
+- [Context API + TypeScript: How to avoid prop drilling in React](https://dev.to/gunnarhalen/context-api-typescript-how-to-avoid-prop-drilling-in-react-3862)
+- [The Ultimate CV Format Guide for Freshers in 2025](https://dev.to/hey_rishabh/the-ultimate-cv-format-guide-for-freshers-in-2025-206a)
+- [Understanding Users in Linux: Who’s Using the System?](https://dev.to/sheikhhassaanbinnadeem/understanding-users-in-linux-whos-using-the-system-2d2a)
 <!-- BLOG-POST-LIST:END -->
 
 
