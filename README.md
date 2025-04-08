@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Runtime-agnostic Apps/Packages with JavaScript](https://dev.to/pmbanugo/building-runtime-agnostic-appspackages-with-javascript-41b)
-- [Two Efficient Methods for Converting PDF to PPT - AI Tools Included](https://dev.to/derek-compdf/two-efficient-methods-for-converting-pdf-to-ppt-ai-tools-included-132d)
-- [Kalıtım mı, Kompozisyon mu? Nesne Yönelimli Tasarımda Doğru Yolu Seçme Kılavuzu &lpar;Inheritance vs Composition&rpar;](https://dev.to/abdulkadir_gungor/kalitim-mi-kompozisyon-mu-nesne-yonelimli-tasarimda-dogru-yolu-secme-kilavuzu-inheritance-vs-3l5e)
-- [Fixing Figma Plugin Unable to Hit API Due to CORS Error](https://dev.to/reynaldi/fixing-figma-plugin-unable-to-hit-api-due-to-cors-error-1co6)
+- [So you would like to digitise your CD collection? &lpar;&amp; Part 4&rpar;](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem)
+- [ความแตกต่างระหว่าง Decision Tree และ Random Forrest พร้อมข้อดีและข้อเสีย](https://dev.to/3061__2/khwaamaetktaangrahwaang-decision-tree-aela-random-forrest-phrmkhdiiaelakhesiiy-32cl)
+- [𝗧𝗵𝗲 𝗖𝗿𝘂𝗰𝗶𝗮𝗹 𝗥𝗼𝗹𝗲 𝗼𝗳 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀](https://dev.to/mazzaracm/-3ld5)
+- [Step by Step: Build Your Business from the Ground Up](https://dev.to/olivia_jacqueline/step-by-step-build-your-business-from-the-ground-up-5gl2)
 <!-- BLOG-POST-LIST:END -->
 
 
