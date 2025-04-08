@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Format JSON Effortlessly with Online Tools](https://dev.to/onlinejsonformatter0/how-to-format-json-effortlessly-with-online-tools-48h)
-- [Learning Rust for Programmers](https://dev.to/souhaillaghchimdev/learning-rust-for-programmers-374f)
-- [How Remote Software Teams Stay Productive and Aligned](https://dev.to/taskframe/how-remote-software-teams-stay-productive-and-aligned-3bd3)
-- [Big Data Analysis Application Programming](https://dev.to/souhaillaghchimdev/big-data-analysis-application-programming-11pm)
+- [Deploying a Sentiment Analysis API with Nitric and Python](https://dev.to/rsiv/deploying-a-sentiment-analysis-api-with-nitric-and-python-o1h)
+- [Comprehending the Life Cycle of Common Pests](https://dev.to/pestcontrolservice752/comprehending-the-life-cycle-of-common-pests-53a1)
+- [From Vibe Coding to Vibe Engineering with V0 and Firebase. [Part 0].](https://dev.to/turingsoracle/from-vibe-coding-to-vibe-engineering-with-v0-and-firebase-part-0-2m8m)
+- [How to Build an Effective Cyber Security Testing Strategy](https://dev.to/ray_parker01/how-to-build-an-effective-cyber-security-testing-strategy-2m88)
 <!-- BLOG-POST-LIST:END -->
 
 
