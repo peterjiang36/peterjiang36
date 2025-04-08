@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New PLAYWRIGHT-AJV-SCHEMA-VALIDATOR for API Testing!](https://dev.to/sebastianclavijo/new-playwright-ajv-schema-validator-for-api-testing-191e)
-- [&quot;Unlocking AI Reasoning: Optimizing Large Language Models for Real-World Tasks&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-ai-reasoning-optimizing-large-language-models-for-real-world-tasks-48oe)
-- [CSS is Emotional: Technical Debt - The Emotional Baggage of CSS](https://dev.to/eioluseyi/css-is-emotional-technical-debt-the-emotional-baggage-of-css-29dl)
-- [AI Training Data News Q1 2025: Navigating the Dynamic Landscape of AI Training Datasets](https://dev.to/vitalisorenko/ai-training-data-news-q1-2025-navigating-the-dynamic-landscape-of-ai-training-datasets-4g6n)
+- [Unlocking the Power of AI Training Data Monetization: Strategies, Platforms, and Future Trends](https://dev.to/ahmmrizv9/unlocking-the-power-of-ai-training-data-monetization-strategies-platforms-and-future-trends-4bc5)
+- [Read the Book Domain Modelling Made Functional](https://dev.to/jesterxl/read-the-book-domain-modelling-made-functional-3afb)
+- [AI and Time Series Data: Harnessing Temporal Insights in a Digital Age](https://dev.to/jennythomas498/ai-and-time-series-data-harnessing-temporal-insights-in-a-digital-age-4ea3)
+- [No final tudo é typescript/javascript ?](https://dev.to/ramondiniz27/no-final-tudo-e-typescriptjavascript--487c)
 <!-- BLOG-POST-LIST:END -->
 
 
