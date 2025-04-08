@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Loop Task while loop for Day 3](https://dev.to/vigneshwaralingam/loop-task-while-loop-for-day-3-2dhn)
-- [Misbah Ashraf: The Visionary from Bihar](https://dev.to/justin_downes/misbah-ashraf-the-visionary-from-bihar-39lo)
-- [🌀 Programming Session Day 3 :](https://dev.to/vigneshwaralingam/programming-session-day-3--49n5)
-- [Developer-Focused Resume Builder: An MVP in Progress](https://dev.to/menard_codes/developer-focused-resume-builder-an-mvp-in-progress-41f9)
+- [How to Format JSON Effortlessly with Online Tools](https://dev.to/onlinejsonformatter0/how-to-format-json-effortlessly-with-online-tools-48h)
+- [Learning Rust for Programmers](https://dev.to/souhaillaghchimdev/learning-rust-for-programmers-374f)
+- [How Remote Software Teams Stay Productive and Aligned](https://dev.to/taskframe/how-remote-software-teams-stay-productive-and-aligned-3bd3)
+- [Big Data Analysis Application Programming](https://dev.to/souhaillaghchimdev/big-data-analysis-application-programming-11pm)
 <!-- BLOG-POST-LIST:END -->
 
 
