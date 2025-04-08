@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spam Mail Detection ด้วย TF-IDF และ Logistic Regression](https://dev.to/3048_fbd/spam-mail-detection-dwy-tf-idf-aela-logistic-regression-80e)
-- [Understanding Object-Oriented Programming &lpar;OOP&rpar; Concepts](https://dev.to/souhaillaghchimdev/understanding-object-oriented-programming-oop-concepts-3n6o)
-- [Web Application Development Using JavaScript](https://dev.to/souhaillaghchimdev/web-application-development-using-javascript-2mb4)
-- [How It All Started: A Boy, a Computer, and a Whole Lot of Curiosity](https://dev.to/richaadgigi/how-it-all-started-a-boy-a-computer-and-a-whole-lot-of-curiosity-2kh5)
+- [Prisma + Neon DB Error P1001 Explained &lpar;with Pizza 🍕&rpar;](https://dev.to/nahom_kasa_a3859f822d2b4c/prisma-neon-db-error-p1001-explained-with-pizza--5hho)
+- [พื้นฐาน Clustering ใน Machine Learning](https://dev.to/juthamanee_saetang_ecaa39/phuuenthaan-clustering-ain-machine-learning-2jka)
+- [𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗣𝗼𝘄𝗲𝗿 𝗼𝗳 𝗖𝗼𝗽𝘆𝗢𝗻𝗪𝗿𝗶𝘁𝗲𝗔𝗿𝗿𝗮𝘆𝗟𝗶𝘀𝘁 𝗶𝗻 𝗝𝗮𝘃𝗮: 𝗔 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗲𝗿 𝗳𝗼𝗿 𝗖𝗼𝗻𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴](https://dev.to/thiago_souza_1510/--2dm2)
+- [Augmented &amp; Virtual Reality &lpar;AR/VR&rpar; App Development](https://dev.to/souhaillaghchimdev/augmented-virtual-reality-arvr-app-development-4k6l)
 <!-- BLOG-POST-LIST:END -->
 
 
