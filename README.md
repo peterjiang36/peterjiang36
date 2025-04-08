@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Your Contacts: How to Convert VCF Files to CSV on Any Platform](https://dev.to/loganwalker/unlock-your-contacts-how-to-convert-vcf-files-to-csv-on-any-platform-3n31)
-- [How to build a tree-shakable library with Vite and Rollup](https://dev.to/morewings/how-to-build-a-tree-shakable-library-with-vite-and-rollup-16cb)
-- [Understanding Kubernetes Probes By Deploying A Go App](https://dev.to/olymahmud/understanding-kubernetes-probes-by-deploying-a-go-app-716)
-- [Git Tags: The Unsung Hero of Version Control](https://dev.to/sajjadali/git-tags-the-unsung-hero-of-version-control-4mkl)
+- [Reimagining WordPress Category Management with Advanced Taxonomy Manager](https://dev.to/gbti-network/reimagining-wordpress-category-management-with-advanced-taxonomy-manager-29cb)
+- [Jozu Hub–Your private, on-prem Hugging Face registry](https://dev.to/kitops/jozu-hub-your-private-on-prem-hugging-face-registry-2p61)
+- [Steps Involved in Tokenizing Real-World Assets](https://dev.to/albert_beckles_f69890e654/steps-involved-in-tokenizing-real-world-assets-3j7a)
+- [The Strategic Edge: How AI Business Analysts are Empowering CEOs and Executives](https://dev.to/interdevsocial/the-strategic-edge-how-ai-business-analysts-are-empowering-ceos-and-executives-4m8m)
 <!-- BLOG-POST-LIST:END -->
 
 
