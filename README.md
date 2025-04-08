@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Axios in JavaScript: How to make GET, POST, PUT and DELETE requests](https://dev.to/logrocket/axios-in-javascript-how-to-make-get-post-put-and-delete-requests-2po5)
-- [How to Vibe Code Responsibly &lpar;with Goose&rpar;](https://dev.to/blockopensource/how-to-vibe-code-responsibly-with-goose-42kb)
-- [Dealing with Pushback to Product Engineering](https://dev.to/epilot/dealing-with-pushback-to-product-engineering-431o)
-- [177/365 | ¥10M Job Challenge - Pay to play](https://dev.to/kameken100/177365-y10m-job-challenge-pay-to-play-3p5e)
+- [Spam Mail Detection ด้วย TF-IDF และ Logistic Regression](https://dev.to/3048_fbd/spam-mail-detection-dwy-tf-idf-aela-logistic-regression-80e)
+- [Understanding Object-Oriented Programming &lpar;OOP&rpar; Concepts](https://dev.to/souhaillaghchimdev/understanding-object-oriented-programming-oop-concepts-3n6o)
+- [Web Application Development Using JavaScript](https://dev.to/souhaillaghchimdev/web-application-development-using-javascript-2mb4)
+- [How It All Started: A Boy, a Computer, and a Whole Lot of Curiosity](https://dev.to/richaadgigi/how-it-all-started-a-boy-a-computer-and-a-whole-lot-of-curiosity-2kh5)
 <!-- BLOG-POST-LIST:END -->
 
 
