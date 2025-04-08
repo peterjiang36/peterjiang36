@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster Shell, Calmer Brain: Three Terminal Tweaks I Can’t Live Without](https://dev.to/alexopengrid/faster-shell-calmer-brain-three-terminal-tweaks-i-cant-live-without-4hpg)
-- [Writing Clean Code in Front-end: KISS, DRY, YAGNI, and Beyond](https://dev.to/miasalazar/writing-clean-code-in-front-end-kiss-dry-yaign-and-beyond-54ok)
-- [Oracle Cloud Services vs. AWS &amp; Azure: Which One is Right for Your Business?](https://dev.to/astutemarketing/oracle-cloud-services-vs-aws-azure-which-one-is-right-for-your-business-9kp)
-- [What Makes a Winning Hackathon Project? A Judge’s Perspective](https://dev.to/urmajesty516/what-makes-a-winning-hackathon-project-a-judges-perspective-31c9)
+- [20 Powerful CSS Selectors Tips Every Developer Should Know](https://dev.to/code_2/20-powerful-css-selectors-tips-every-developer-should-know-264e)
+- [New Post For Erlang](https://dev.to/local-js/new-post-for-erlang-31hj)
+- [Bulkification in Flows, Top 10 PMD Issues for Apex, Salesforce Lightning Performance Gains](https://dev.to/sfdcnews/bulkification-in-flows-top-10-pmd-issues-for-apex-salesforce-lightning-performance-gains-4ogk)
+- [Why ISP Proxies May Be the Better Choice for Some Tasks](https://dev.to/swiftproxy_residential/why-isp-proxies-may-be-the-better-choice-for-some-tasks-1f50)
 <!-- BLOG-POST-LIST:END -->
 
 
