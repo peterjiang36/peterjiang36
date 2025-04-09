@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Launches Llama 4 AI Models: Meet Scout, Maverick, and the Beast Called Behemoth](https://dev.to/james_lin_e0b4cf88eff0124/meta-launches-llama-4-ai-models-meet-scout-maverick-and-the-beast-called-behemoth-5bde)
-- [Why Isn&#39;t Your CSS Working? Understanding Specificity](https://dev.to/umarsiddique010/why-isnt-your-css-working-understanding-specificity-3lf3)
-- [&quot;How we automated ServiceNow change approvals using GPT-4 and AWS APIs.&quot;](https://dev.to/sohail_adnan/how-we-automated-servicenow-change-approvals-using-gpt-4-and-aws-apis-51if)
-- [PLSQL- SV01](https://dev.to/sachin_varghese_zele/plsql-sv01-dj7)
+- [Manus AI: The Revolutionary Multi-Agent System Reshaping the Future of AI Assistants](https://dev.to/aniruddhaadak/manus-ai-the-revolutionary-multi-agent-system-reshaping-the-future-of-ai-assistants-2i35)
+- [Dancing with Goroutines: Mastering Concurrency Patterns in Go 🧵🚀](https://dev.to/tavernetech/dancing-with-goroutines-mastering-concurrency-patterns-in-go-2n33)
+- [Broadcast Channel API for Cross-Tab Communication](https://dev.to/omriluz1/broadcast-channel-api-for-cross-tab-communication-1bhd)
+- [Debug Smarter, Build Better: AI-Powered Laravel Error Handling](https://dev.to/getjv/debug-smarter-build-better-ai-powered-laravel-error-handling-3ed4)
 <!-- BLOG-POST-LIST:END -->
 
 
