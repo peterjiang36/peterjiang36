@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Manus AI: The Revolutionary Multi-Agent System Reshaping the Future of AI Assistants](https://dev.to/aniruddhaadak/manus-ai-the-revolutionary-multi-agent-system-reshaping-the-future-of-ai-assistants-2i35)
-- [Dancing with Goroutines: Mastering Concurrency Patterns in Go 🧵🚀](https://dev.to/tavernetech/dancing-with-goroutines-mastering-concurrency-patterns-in-go-2n33)
-- [Broadcast Channel API for Cross-Tab Communication](https://dev.to/omriluz1/broadcast-channel-api-for-cross-tab-communication-1bhd)
-- [Debug Smarter, Build Better: AI-Powered Laravel Error Handling](https://dev.to/getjv/debug-smarter-build-better-ai-powered-laravel-error-handling-3ed4)
+- [SOFTWARE TESTING](https://dev.to/kani_3b5e7fe44183ce7bbb5f/software-testing-1i2n)
+- [Best AI to Use to Supercharge Your Learning &amp; Creativity in 2025](https://dev.to/dev_kumar_9a1db98e34077b6/best-ai-to-use-to-supercharge-your-learning-creativity-in-2025-168e)
+- [Create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/create-an-expandable-image-gallery-with-tailwind-css-43m1)
+- [What is JSX and Why Do We Use It in React?](https://dev.to/shubha_k/what-is-jsx-and-why-do-we-use-it-in-react-3f4o)
 <!-- BLOG-POST-LIST:END -->
 
 
