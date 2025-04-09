@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/luis_manuel/untitled-106b)
-- [Building a Modern EPG System for Roku with BrightScript](https://dev.to/tvboy109/building-a-modern-epg-system-for-roku-with-brightscript-ak3)
-- [Untitled](https://dev.to/luis_manuel/untitled-1k4b)
-- [CI/CD Pipeline for a Node.js App with Automated Testing and Deployment to Render](https://dev.to/arbythecoder/cicd-pipeline-for-a-nodejs-app-with-automated-testing-and-deployment-to-render-3a16)
+- [&quot;Mastering Uncertainty in AI: Transforming Healthcare and Education with LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-uncertainty-in-ai-transforming-healthcare-and-education-with-llms-177e)
+- [What are common techniques for data preprocessing?](https://dev.to/the_medicaltreasure_cf3a/what-are-common-techniques-for-data-preprocessing-2ddj)
+- [Stop giving hackers the easy button](https://dev.to/bcornils/stop-giving-hackers-the-easy-button-3a93)
+- [Daily JavaScript Challenge #JS-147: Balance the Parentheses Count](https://dev.to/dpc/daily-javascript-challenge-js-147-balance-the-parentheses-count-1kmb)
 <!-- BLOG-POST-LIST:END -->
 
 
