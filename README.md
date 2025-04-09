@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Linux &lpar;rm&rpar; Command: Simple, Powerful, and Dangerous](https://dev.to/youngtech/the-linux-rm-command-simple-powerful-and-dangerous-9h4)
-- [React JS Classes in Pune — Build Your Future in Web Development](https://dev.to/vishal_more_02990955c9358/react-js-classes-in-pune-build-your-future-in-web-development-1cib)
-- [The Power of the Cloud: A 2025 Perspective](https://dev.to/teleglobalintermational/the-power-of-the-cloud-a-2025-perspective-3h01)
-- [ColorBrew Is Growing: New Features, New Adventures!](https://dev.to/priyankdeep78/colorbrew-is-growing-new-features-new-adventures-3l45)
+- [Meta Launches Llama 4 AI Models: Meet Scout, Maverick, and the Beast Called Behemoth](https://dev.to/james_lin_e0b4cf88eff0124/meta-launches-llama-4-ai-models-meet-scout-maverick-and-the-beast-called-behemoth-5bde)
+- [Why Isn&#39;t Your CSS Working? Understanding Specificity](https://dev.to/umarsiddique010/why-isnt-your-css-working-understanding-specificity-3lf3)
+- [&quot;How we automated ServiceNow change approvals using GPT-4 and AWS APIs.&quot;](https://dev.to/sohail_adnan/how-we-automated-servicenow-change-approvals-using-gpt-4-and-aws-apis-51if)
+- [PLSQL- SV01](https://dev.to/sachin_varghese_zele/plsql-sv01-dj7)
 <!-- BLOG-POST-LIST:END -->
 
 
