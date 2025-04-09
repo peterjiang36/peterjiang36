@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SOFTWARE TESTING](https://dev.to/kani_3b5e7fe44183ce7bbb5f/software-testing-1i2n)
-- [Best AI to Use to Supercharge Your Learning &amp; Creativity in 2025](https://dev.to/dev_kumar_9a1db98e34077b6/best-ai-to-use-to-supercharge-your-learning-creativity-in-2025-168e)
-- [Create an expandable image gallery with Tailwind CSS](https://dev.to/mike_andreuzza/create-an-expandable-image-gallery-with-tailwind-css-43m1)
-- [What is JSX and Why Do We Use It in React?](https://dev.to/shubha_k/what-is-jsx-and-why-do-we-use-it-in-react-3f4o)
+- [NPM package - find-circular](https://dev.to/johnretsas/npm-package-find-circular-23jn)
+- [Boosting Math Problem-Solving Skills for Young Minds by Agastya Learning](https://dev.to/avnika_sharma_80ddb617253/boosting-math-problem-solving-skills-for-young-minds-by-agastya-learning-1a0g)
+- [The Smart Solution Powering Modern Businesses](https://dev.to/alex101112/the-smart-solution-powering-modern-businesses-1o0n)
+- [Speed Up Your C++ Workflow with Online Tools](https://dev.to/tpointech/speed-up-your-c-workflow-with-online-tools-4e0j)
 <!-- BLOG-POST-LIST:END -->
 
 
