@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Code Review on Development Workflow: Balancing Quality and Speed](https://dev.to/ed_dfreitas/the-impact-of-code-review-on-development-workflow-balancing-quality-and-speed-16g2)
-- [Command Line .gitignore](https://dev.to/justinhhorner/command-line-gitignore-akf)
-- [From Idea to Launch: The Complete Guide to Centralized Exchange Development](https://dev.to/tomhardy/from-idea-to-launch-the-complete-guide-to-centralized-exchange-development-346p)
-- [Jinja2 for Go? Meet Quicktemplate — and Ditch html/template for Good](https://dev.to/leapcell/jinja2-for-go-meet-quicktemplate-and-ditch-htmltemplate-for-good-1019)
+- [การจำแนกเสียง Audio Classification ด้วย Python](https://dev.to/snow_chuthita/kaarcchamaenkesiiyng-audio-classification-dwy-python-562d)
+- [🚀 Your Daily Crypto Job Digest For 09 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-09-april-23bo)
+- [Letting the power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/letting-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-3mfc)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-je6)
 <!-- BLOG-POST-LIST:END -->
 
 
