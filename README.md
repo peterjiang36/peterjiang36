@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧨 The Hotel California of Managed Services: How DigitalOcean Trapped My 800GB Database](https://dev.to/philsmy/the-hotel-california-of-managed-services-how-digitalocean-trapped-my-800gb-database-3ae5)
-- [💡 Exercise 04 – Reusing Stuff with ARM Template Variables &lpar;Your Azure Subscription&rpar;](https://dev.to/1suleyman/exercise-04-reusing-stuff-with-arm-template-variables-your-azure-subscription-2i4m)
-- [Building a Multi-Agent Blog Publishing System with CrewAI](https://dev.to/aileenvl/building-a-multi-agent-blog-publishing-system-with-crewai-efn)
-- [Trigger Lambda from SQS in Minutes: No-Fluff Guide](https://dev.to/megha_shivhare_5038dc1047/trigger-lambda-from-sqs-in-minutes-no-fluff-guide-102i)
+- [How has Apple evolved?](https://dev.to/getjv/apple-next-level-2p0n)
+- [Thank you, this post was very helpful](https://dev.to/kevin_asutton_/thank-you-this-post-was-very-helpful-2ckf)
+- [Storage Virtualization – Simplify and Scale Your Storage](https://dev.to/kevin_asutton_/storage-virtualization-simplify-and-scale-your-storage-5dg5)
+- [การใช้ KMeans Clustering ในการแบ่งกลุ่มลูกค้า เพื่อการตลาดที่มีประสิทธิภาพ โดยใช้ Python](https://dev.to/yaowaman_chulrat_032bad7c/kaaraich-kmeans-clustering-ainkaaraebngklumluukkhaa-ephuuekaartlaadthiimiiprasiththiphaaph-odyaich-python-29la)
 <!-- BLOG-POST-LIST:END -->
 
 
