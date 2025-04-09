@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐉 Loong: Synthesize Long CoTs at Scale through Verifiers](https://dev.to/camelai/loong-synthesize-long-cots-at-scale-through-verifiers-27b4)
-- [Optimizing the Top K Elements Problem Using a Max-Heap](https://dev.to/evanloria4/optimizing-the-top-k-elements-problem-using-a-max-heap-387b)
-- [Model Context Protocol: The Secret Sauce Behind Smart AI Tools](https://dev.to/lovestaco/model-context-protocol-the-secret-sauce-behind-smart-ai-tools-5mc)
-- [Phases of the Moon in CSS](https://dev.to/madsstoumann/phases-of-the-moon-in-css-2lbo)
+- [Stitching Giant JSONs Together with JSON Patch](https://dev.to/shrsv/stitching-giant-jsons-together-with-json-patch-5gmc)
+- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Freelancers and E-commerce Entrepreneurs](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-freelancers-and-1d85)
+- [macOS AI Agent](https://dev.to/techtech/macos-ai-agent-3k5g)
+- [Hands-On Selenium with Python: From Basics to Framework Building](https://dev.to/testwithtorin/hands-on-selenium-with-python-from-basics-to-framework-building-6kd)
 <!-- BLOG-POST-LIST:END -->
 
 
