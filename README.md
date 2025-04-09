@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How has Apple evolved?](https://dev.to/getjv/apple-next-level-2p0n)
-- [Thank you, this post was very helpful](https://dev.to/kevin_asutton_/thank-you-this-post-was-very-helpful-2ckf)
-- [Storage Virtualization – Simplify and Scale Your Storage](https://dev.to/kevin_asutton_/storage-virtualization-simplify-and-scale-your-storage-5dg5)
-- [การใช้ KMeans Clustering ในการแบ่งกลุ่มลูกค้า เพื่อการตลาดที่มีประสิทธิภาพ โดยใช้ Python](https://dev.to/yaowaman_chulrat_032bad7c/kaaraich-kmeans-clustering-ainkaaraebngklumluukkhaa-ephuuekaartlaadthiimiiprasiththiphaaph-odyaich-python-29la)
+- [Utilizing Neon Serverless PostgresDB using .NET8 via Entity FrameworkCore + NpgSQL](https://dev.to/jplazaro/utilizing-neon-serverless-postgresdb-using-net8via-entity-frameworkcore-npgsql-2dak)
+- [Headless CMS vs Traditional CMS: What Works Best in 2025?](https://dev.to/caisy_b3dab8bba6a26f388ca/headless-cms-vs-traditional-cms-what-works-best-in-2025-4pk8)
+- [Terraform built-in functions interview questions](https://dev.to/jeyakanth_thangam/terraform-built-in-functions-interview-questions-2npf)
+- [Comment déployer un projet Symfony sur un serveur mutualisé Hostinger](https://dev.to/didier_guinwogbegno_06fbc/comment-deployer-un-projet-symfony-sur-un-serveur-mutualise-hostinger-14a)
 <!-- BLOG-POST-LIST:END -->
 
 
