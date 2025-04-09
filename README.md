@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an AWS S3 bucket with smart Budget Alerts💰🔔!](https://dev.to/shubham_gharage/create-an-aws-s3-bucket-with-smart-budget-alerts-278k)
-- [Readable and Writable Streams: Advanced Concepts](https://dev.to/omriluz1/readable-and-writable-streams-advanced-concepts-4e8j)
-- [Silent Intruders](https://dev.to/yuvasec/silent-intruders-400e)
-- [การวิเคราะห์ข้อมูลด้วย Decision Tree และ Random Forest](https://dev.to/kazumii/kaarwiekhraaahkhmuuldwy-decision-tree-aela-random-forest-31b6)
+- [Protocol Agnostic Framework](https://dev.to/m__mdy__m/protocol-agnostic-framework-9p2)
+- [Schema Changes in MySQL: Will Your Table Be Locked?](https://dev.to/leapcell/schema-changes-in-mysql-will-your-table-be-locked-3k8)
+- [Crafting Go Testing Module: Step 2 - Core](https://dev.to/rzajac/crafting-go-testing-module-step-2-core-1a33)
+- [Vintom in Angular 19](https://dev.to/gydunhn/vintom-in-angular-19-32fm)
 <!-- BLOG-POST-LIST:END -->
 
 
