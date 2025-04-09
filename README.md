@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing Neon Serverless PostgresDB using .NET8 via Entity FrameworkCore + NpgSQL](https://dev.to/jplazaro/utilizing-neon-serverless-postgresdb-using-net8via-entity-frameworkcore-npgsql-2dak)
-- [Headless CMS vs Traditional CMS: What Works Best in 2025?](https://dev.to/caisy_b3dab8bba6a26f388ca/headless-cms-vs-traditional-cms-what-works-best-in-2025-4pk8)
-- [Terraform built-in functions interview questions](https://dev.to/jeyakanth_thangam/terraform-built-in-functions-interview-questions-2npf)
-- [Comment déployer un projet Symfony sur un serveur mutualisé Hostinger](https://dev.to/didier_guinwogbegno_06fbc/comment-deployer-un-projet-symfony-sur-un-serveur-mutualise-hostinger-14a)
+- [AWS 3-Tier Architecture Part-1](https://dev.to/vasanthbal5220/aws-3-tier-architecture-part-1-ado)
+- [Are you ready for Google Cloud Next?](https://dev.to/googleworkspace/are-you-ready-for-google-cloud-next-21n1)
+- [Automatize Projetos SFML com Pro++](https://dev.to/marcosplusplus/automatize-projetos-sfml-com-pro-3dcb)
+- [Dicas de como viver e trabalhar em Portugal como dev Brasileiro](https://dev.to/razielrodrigues/dicas-de-como-viver-e-trabalhar-em-portugal-como-dev-brasileiro-3gem)
 <!-- BLOG-POST-LIST:END -->
 
 
