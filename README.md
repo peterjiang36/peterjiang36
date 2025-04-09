@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM package - find-circular](https://dev.to/johnretsas/npm-package-find-circular-23jn)
-- [Boosting Math Problem-Solving Skills for Young Minds by Agastya Learning](https://dev.to/avnika_sharma_80ddb617253/boosting-math-problem-solving-skills-for-young-minds-by-agastya-learning-1a0g)
-- [The Smart Solution Powering Modern Businesses](https://dev.to/alex101112/the-smart-solution-powering-modern-businesses-1o0n)
-- [Speed Up Your C++ Workflow with Online Tools](https://dev.to/tpointech/speed-up-your-c-workflow-with-online-tools-4e0j)
+- [Using Redis with Next.js for Lightning-Fast API Responses](https://dev.to/melvinprince/using-redis-with-nextjs-for-lightning-fast-api-responses-khp)
+- [3 hacks to easily create and manage Argo CD applications](https://dev.to/cloud-sky-ops/3-hacks-to-easily-create-and-manage-argo-cd-applications-55o8)
+- [Data Acquisition Methods](https://dev.to/shivamchamoli18/data-acquisition-methods-2k25)
+- [Python [5] : Python Modülleri ve Paketleri; Kod Organizasyonu ve Yeniden Kullanım](https://dev.to/abdulkadir_gungor/python-5-python-modulleri-ve-paketleri-kod-organizasyonu-ve-yeniden-kullanim-4725)
 <!-- BLOG-POST-LIST:END -->
 
 
