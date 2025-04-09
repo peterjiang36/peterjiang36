@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to my 5️⃣3️⃣ p5.js Sketches Collection!](https://dev.to/aniruddhaadak/welcome-to-my-p5js-sketches-collection-1k94)
-- [The Power of the README: The First Impression That Defines Your Projects and Profile](https://dev.to/matheussricardoo/the-power-of-the-readme-the-first-impression-that-defines-your-projects-and-profile-49d1)
-- [Automating EC2 Shutdown with Lambda, EventBridge &amp; SNS –](https://dev.to/glory_ugochukwu_57b6cf663/automating-ec2-shutdown-with-lambda-eventbridge-sns--5g)
-- [The Impact of AI on Low-Code and No-Code Development](https://dev.to/kartikmehta8/the-impact-of-ai-on-low-code-and-no-code-development-2b1j)
+- [A Portfolio website using Hugo and deployed to AWS using Pulumi](https://dev.to/aniruddhaadak/a-portfolio-website-using-hugo-and-deployed-to-aws-using-pulumi-1la3)
+- [How to make multilingual videos in 3 minutes](https://dev.to/abuskorea/how-to-make-multilingual-videos-in-3-minutes-5dh1)
+- [Getting Values from Multiple Format Strings to Multiple Records — From SQL to SPL #16](https://dev.to/judith677/getting-values-from-multiple-format-strings-to-multiple-records-from-sql-to-spl-16-119o)
+- [The Rise of Multi-Cloud Strategies: Best Practices for 2025](https://dev.to/yash_sonawane25/the-rise-of-multi-cloud-strategies-best-practices-for-2025-4goe)
 <!-- BLOG-POST-LIST:END -->
 
 
