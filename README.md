@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Redis with Next.js for Lightning-Fast API Responses](https://dev.to/melvinprince/using-redis-with-nextjs-for-lightning-fast-api-responses-khp)
-- [3 hacks to easily create and manage Argo CD applications](https://dev.to/cloud-sky-ops/3-hacks-to-easily-create-and-manage-argo-cd-applications-55o8)
-- [Data Acquisition Methods](https://dev.to/shivamchamoli18/data-acquisition-methods-2k25)
-- [Python [5] : Python Modülleri ve Paketleri; Kod Organizasyonu ve Yeniden Kullanım](https://dev.to/abdulkadir_gungor/python-5-python-modulleri-ve-paketleri-kod-organizasyonu-ve-yeniden-kullanim-4725)
+- [The Impact of Code Review on Development Workflow: Balancing Quality and Speed](https://dev.to/ed_dfreitas/the-impact-of-code-review-on-development-workflow-balancing-quality-and-speed-16g2)
+- [Command Line .gitignore](https://dev.to/justinhhorner/command-line-gitignore-akf)
+- [From Idea to Launch: The Complete Guide to Centralized Exchange Development](https://dev.to/tomhardy/from-idea-to-launch-the-complete-guide-to-centralized-exchange-development-346p)
+- [Jinja2 for Go? Meet Quicktemplate — and Ditch html/template for Good](https://dev.to/leapcell/jinja2-for-go-meet-quicktemplate-and-ditch-htmltemplate-for-good-1019)
 <!-- BLOG-POST-LIST:END -->
 
 
