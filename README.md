@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Portfolio website using Hugo and deployed to AWS using Pulumi](https://dev.to/aniruddhaadak/a-portfolio-website-using-hugo-and-deployed-to-aws-using-pulumi-1la3)
-- [How to make multilingual videos in 3 minutes](https://dev.to/abuskorea/how-to-make-multilingual-videos-in-3-minutes-5dh1)
-- [Getting Values from Multiple Format Strings to Multiple Records — From SQL to SPL #16](https://dev.to/judith677/getting-values-from-multiple-format-strings-to-multiple-records-from-sql-to-spl-16-119o)
-- [The Rise of Multi-Cloud Strategies: Best Practices for 2025](https://dev.to/yash_sonawane25/the-rise-of-multi-cloud-strategies-best-practices-for-2025-4goe)
+- [Chapter 8: Knowledge Base - Tree Collection](https://dev.to/nocobase/chapter-8-knowledge-base-tree-collection-1ao9)
+- [MediatR Simple Alternative](https://dev.to/criscoelho/-dl6)
+- [[Tutorial] Building a Complete Project Management Platform](https://dev.to/nocobase/tutorial-building-a-complete-project-management-platform-40aa)
+- [Blockchain App Testing with AI: Ensuring Trust and Transparency](https://dev.to/radha_4c842d8e4362a7cdd9c/blockchain-app-testing-with-ai-ensuring-trust-and-transparency-3k58)
 <!-- BLOG-POST-LIST:END -->
 
 
