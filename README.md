@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Mastering Uncertainty in AI: Transforming Healthcare and Education with LLMs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/mastering-uncertainty-in-ai-transforming-healthcare-and-education-with-llms-177e)
-- [What are common techniques for data preprocessing?](https://dev.to/the_medicaltreasure_cf3a/what-are-common-techniques-for-data-preprocessing-2ddj)
-- [Stop giving hackers the easy button](https://dev.to/bcornils/stop-giving-hackers-the-easy-button-3a93)
-- [Daily JavaScript Challenge #JS-147: Balance the Parentheses Count](https://dev.to/dpc/daily-javascript-challenge-js-147-balance-the-parentheses-count-1kmb)
+- [Welcome to my 5️⃣3️⃣ p5.js Sketches Collection!](https://dev.to/aniruddhaadak/welcome-to-my-p5js-sketches-collection-1k94)
+- [The Power of the README: The First Impression That Defines Your Projects and Profile](https://dev.to/matheussricardoo/the-power-of-the-readme-the-first-impression-that-defines-your-projects-and-profile-49d1)
+- [Automating EC2 Shutdown with Lambda, EventBridge &amp; SNS –](https://dev.to/glory_ugochukwu_57b6cf663/automating-ec2-shutdown-with-lambda-eventbridge-sns--5g)
+- [The Impact of AI on Low-Code and No-Code Development](https://dev.to/kartikmehta8/the-impact-of-ai-on-low-code-and-no-code-development-2b1j)
 <!-- BLOG-POST-LIST:END -->
 
 
