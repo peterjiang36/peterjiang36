@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Infra: Building Scalable Systems with Kubernetes, Terraform &amp; Cloud &lpar;Detailed&rpar;](https://dev.to/suryadeepsinh_gohil/from-idea-to-infra-building-scalable-systems-with-kubernetes-terraform-cloud-detailed-1dl0)
-- [Kafka 2 crdb](https://dev.to/fabiog1901/kafka-2-crdb-3pdf)
-- [The interplay of authentication and authorization in ASP.NET Core](https://dev.to/voroninp/the-interplay-of-authentication-and-authorization-in-aspnet-core-4ojg)
-- [Check this if you plan to take SCAA-C03 soon](https://dev.to/jekobokidou/check-this-if-you-plan-to-take-scaa-c03-soon-take-a-look-at-this-article-5f7o)
+- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
+- [Untitled](https://dev.to/jogri_anggara_f1af3050261/untitled-h4c)
+- [Game AI Programming](https://dev.to/souhaillaghchimdev/game-ai-programming-cgn)
+- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-10gk)
 <!-- BLOG-POST-LIST:END -->
 
 
