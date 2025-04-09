@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS 3-Tier Architecture Part-1](https://dev.to/vasanthbal5220/aws-3-tier-architecture-part-1-ado)
-- [Are you ready for Google Cloud Next?](https://dev.to/googleworkspace/are-you-ready-for-google-cloud-next-21n1)
-- [Automatize Projetos SFML com Pro++](https://dev.to/marcosplusplus/automatize-projetos-sfml-com-pro-3dcb)
-- [Dicas de como viver e trabalhar em Portugal como dev Brasileiro](https://dev.to/razielrodrigues/dicas-de-como-viver-e-trabalhar-em-portugal-como-dev-brasileiro-3gem)
+- [🐉 Loong: Synthesize Long CoTs at Scale through Verifiers](https://dev.to/camelai/loong-synthesize-long-cots-at-scale-through-verifiers-27b4)
+- [Optimizing the Top K Elements Problem Using a Max-Heap](https://dev.to/evanloria4/optimizing-the-top-k-elements-problem-using-a-max-heap-387b)
+- [Model Context Protocol: The Secret Sauce Behind Smart AI Tools](https://dev.to/lovestaco/model-context-protocol-the-secret-sauce-behind-smart-ai-tools-5mc)
+- [Phases of the Moon in CSS](https://dev.to/madsstoumann/phases-of-the-moon-in-css-2lbo)
 <!-- BLOG-POST-LIST:END -->
 
 
