@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stitching Giant JSONs Together with JSON Patch](https://dev.to/shrsv/stitching-giant-jsons-together-with-json-patch-5gmc)
-- [Unlocking Success: The Essential Guide to Choosing the Right Web Hosting for Freelancers and E-commerce Entrepreneurs](https://dev.to/florentv11/unlocking-success-the-essential-guide-to-choosing-the-right-web-hosting-for-freelancers-and-1d85)
-- [macOS AI Agent](https://dev.to/techtech/macos-ai-agent-3k5g)
-- [Hands-On Selenium with Python: From Basics to Framework Building](https://dev.to/testwithtorin/hands-on-selenium-with-python-from-basics-to-framework-building-6kd)
+- [Create an AWS S3 bucket with smart Budget Alerts💰🔔!](https://dev.to/shubham_gharage/create-an-aws-s3-bucket-with-smart-budget-alerts-278k)
+- [Readable and Writable Streams: Advanced Concepts](https://dev.to/omriluz1/readable-and-writable-streams-advanced-concepts-4e8j)
+- [Silent Intruders](https://dev.to/yuvasec/silent-intruders-400e)
+- [การวิเคราะห์ข้อมูลด้วย Decision Tree และ Random Forest](https://dev.to/kazumii/kaarwiekhraaahkhmuuldwy-decision-tree-aela-random-forest-31b6)
 <!-- BLOG-POST-LIST:END -->
 
 
