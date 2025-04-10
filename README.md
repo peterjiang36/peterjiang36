@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [In-depth Research Report on Google Agent2Agent &lpar;A2A&rpar; Protocol](https://dev.to/justin3go/in-depth-research-report-on-google-agent2agent-a2a-protocol-2m2a)
-- [SafeLine WAF 8.3.0: Rule Migration Instructions of Bot Verification](https://dev.to/carrie_luo1/safeline-waf-830-rule-migration-instructions-of-bot-verification-177j)
-- [React Native&#39;s Latest](https://dev.to/varnitj178/react-natives-latest-2k4n)
-- [Visual Studio Code vs Atom: Which Code Editor Should You Choose?](https://dev.to/rajesh_verma_69c86ea90ea4/visual-studio-code-vs-atom-which-code-editor-should-you-choose-2jf5)
+- [What Makes Hyvä a Smarter Frontend Choice for Adobe Commerce](https://dev.to/aakanksha/what-makes-hyva-a-smarter-frontend-choice-for-adobe-commerce-3pmm)
+- [What is Mob Programming? - Part 1](https://dev.to/mapineda/what-is-mob-programming-part-1-4bl6)
+- [CerbiStream – Bringing Governance to the Wild West of Logging](https://dev.to/zeroshi/cerbistream-bringing-governance-to-the-wild-west-of-logging-4ok6)
+- [Creating and Using Lambda Layers with AWS SAM and Node.js](https://dev.to/marciojc/creating-and-using-lambda-layers-with-aws-sam-and-nodejs-4m78)
 <!-- BLOG-POST-LIST:END -->
 
 
