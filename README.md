@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Wixnets.com](https://dev.to/shubham_sharma_90f59f0be5/unlocking-the-power-of-wixnetscom-aj6)
-- [How to Install `pairtools` Properly in Python 3.12](https://dev.to/shigrafs/how-to-install-pairtools-properly-in-python-312-4e7c)
-- [Untitled](https://dev.to/ahmed_alrayih_e6f33de3ed3/untitled-1079)
-- [Google Cloud Training in Bangalore: A Guide to Using GCP](https://dev.to/itz_amaze/google-cloud-training-in-bangalore-a-guide-to-using-gcp-9n)
+- [How to Get Google AdSense Approval for Your Free Blogger Site](https://dev.to/blogzeros/how-to-get-google-adsense-approval-for-your-free-blogger-site-36g3)
+- [Getting Started with Wepbound: Features, Benefits, and How It Works](https://dev.to/technosmedia/getting-started-with-wepbound-features-benefits-and-how-it-works-37e4)
+- [My way to a beautifully minimal shared state setup in React](https://dev.to/axtk/my-way-to-a-beautifully-minimal-shared-state-setup-in-react-52ld)
+- [Navigating Hidden Costs: How to Choose Affordable Web Hosting Without Surprises](https://dev.to/florentv11/navigating-hidden-costs-how-to-choose-affordable-web-hosting-without-surprises-3dp3)
 <!-- BLOG-POST-LIST:END -->
 
 
