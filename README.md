@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Speed Challenge: How Fast Can You Build &amp; Deploy? 🚀](https://dev.to/u4systems/api-speed-challenge-how-fast-can-you-build-deploy-k8h)
-- [Fixing the Agent Handoff Problem in LlamaIndex&#39;s AgentWorkflow System](https://dev.to/qtalen/fixing-the-agent-handoff-problem-in-llamaindexs-agentworkflow-system-2pog)
-- [Building multi-agent systems with LangGraph or CrewAI](https://dev.to/josmel/building-multi-agent-systems-with-langgraph-or-crewai-366b)
-- [Want to upload a project on GitHub?](https://dev.to/shivansh_mishra_62356dfec/want-to-upload-a-project-on-github-4c8c)
+- [Why Junior Developers Must Seize Control of Their Growth Journey Today](https://dev.to/_ndeyefatoudiop/why-junior-developers-must-seize-control-of-their-growth-journey-today-5ac2)
+- [Essential PostgreSQL Data Types Explained](https://dev.to/dbvismarketing/essential-postgresql-data-types-explained-27pl)
+- [Integrating AI Agents with n8n: Enhance Your Workflow Automation](https://dev.to/truelime/integrating-ai-agents-with-n8n-enhance-your-workflow-automation-52pc)
+- [Cost Comparison: Databricks Cluster Jobs vs. SQL Warehouse for Batch Processing](https://dev.to/asaphtinoco/cost-comparison-databricks-cluster-jobs-vs-sql-warehouse-for-batch-processing-gjg)
 <!-- BLOG-POST-LIST:END -->
 
 
