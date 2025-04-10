@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The Role of WebAssembly in Modern Frontend Development](https://dev.to/hasunnilupul/the-role-of-webassembly-in-modern-frontend-development-3ji6)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. Must read](https://dev.to/rajesh_patel/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-4kid)
-- [Codium vs Copilot: Which AI Coding Assistant Should You Choose?](https://dev.to/keploy/codium-vs-copilot-which-ai-coding-assistant-should-you-choose-4dgj)
-- [This article does a fantastic job of capturing the transformative impact of AI-powered code assistants on developer productivity. The blend of real-world examples, challenges, and actionable insights makes it highly relatable for the dev community.](https://dev.to/naik_sejal/this-article-does-a-fantastic-job-of-capturing-the-transformative-impact-of-ai-powered-code-2ddn)
+- [🚀 API Speed Challenge: How Fast Can You Build &amp; Deploy? 🚀](https://dev.to/u4systems/api-speed-challenge-how-fast-can-you-build-deploy-k8h)
+- [Fixing the Agent Handoff Problem in LlamaIndex&#39;s AgentWorkflow System](https://dev.to/qtalen/fixing-the-agent-handoff-problem-in-llamaindexs-agentworkflow-system-2pog)
+- [Building multi-agent systems with LangGraph or CrewAI](https://dev.to/josmel/building-multi-agent-systems-with-langgraph-or-crewai-366b)
+- [Want to upload a project on GitHub?](https://dev.to/shivansh_mishra_62356dfec/want-to-upload-a-project-on-github-4c8c)
 <!-- BLOG-POST-LIST:END -->
 
 
