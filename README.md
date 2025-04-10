@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guia completo de UX/UI Design do Zero ao Avançado](https://dev.to/lincolixavier/guia-completo-de-uxui-design-do-zero-ao-avancado-5d63)
-- [WaFi – A Desktop Ethereum Wallet Toolkit for Developers &amp; Power Users](https://dev.to/tony_spontana_d78d688b0a4/wafi-a-desktop-ethereum-wallet-toolkit-for-developers-power-users-47bg)
-- [How I Hacked Uber’s Hidden API to Download 4379 Rides](https://dev.to/nrrb/how-i-hacked-ubers-hidden-api-to-download-4379-rides-35ai)
-- [Time Zones and Working with Locations in Go 4/10](https://dev.to/rezmoss/time-zones-and-working-with-locations-in-go-410-1llh)
+- [What are prompt engineering techniques?](https://dev.to/shriyansh_iot_98734929139/what-are-prompt-engineering-techniques-3dn0)
+- [GitOps: A Beginner’s Guide to Managing Infrastructure with Git](https://dev.to/yash_sonawane25/gitops-a-beginners-guide-to-managing-infrastructure-with-git-4o0p)
+- [Simplifying Design Patterns : Builder](https://dev.to/bccaxias/simplifying-design-patterns-builder-2c0h)
+- [The Testing Paradox: Why We Neglect Testing in Personal Projects &lpar;And How to Change That&rpar;](https://dev.to/matheussricardoo/the-testing-paradox-why-we-neglect-testing-in-personal-projects-and-how-to-change-that-4gjb)
 <!-- BLOG-POST-LIST:END -->
 
 
