@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing React State with Context and useReducer: A Practical Guide](https://dev.to/bastiani/managing-react-state-with-context-and-usereducer-a-practical-guide-401i)
-- [Day 1138 : Parts Unknown](https://dev.to/dwane/day-1138-parts-unknown-2982)
-- [Want to Join a Remote AI Company in 2025? Here’s What Actually Matters 🌍 🤖](https://dev.to/clickit_devops/want-to-join-a-remote-ai-company-in-2025-heres-what-actually-matters-52fg)
-- [SSIS tips: How to import JSON files to MongoDB](https://dev.to/jorge316/ssis-tips-how-to-import-json-files-to-mongodb-dj0)
+- [Getting Started with Virtual Actors &lpar;Grains&rpar; in .NET Using Proto.Actor](https://dev.to/actor-dev/getting-started-with-virtual-actors-grains-in-net-using-protoactor-2ij0)
+- [Introdução aos Atores Virtuais &lpar;Grains&rpar; em .NET com Proto.Actor](https://dev.to/actor-dev/introducao-aos-atores-virtuais-grains-em-net-com-protoactor-2b41)
+- [Navigating Web Hosting Pitfalls: Essential Tips for Freelancers and Agencies](https://dev.to/florentv11/navigating-web-hosting-pitfalls-essential-tips-for-freelancers-and-agencies-4n4o)
+- [Systemctl Basics: Managing Your Linux Services](https://dev.to/youngtech/systemctl-basics-managing-your-linux-services-2akh)
 <!-- BLOG-POST-LIST:END -->
 
 
