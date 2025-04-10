@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Overpowered Python Scripts Ever Written](https://dev.to/snappytuts/the-most-overpowered-python-scripts-ever-written-159f)
-- [9 Sneaky Web Dev Fixes That Save Hours](https://dev.to/0x3d_site/9-sneaky-web-dev-fixes-that-save-hours-4gk3)
-- [Using Jenkins to build a C++ app](https://dev.to/olalekan_oladiran_d74b7a6/using-jenkins-to-build-a-c-app-ab9)
-- [Ashkan Rajaee Is Not Just Outsourcing—He’s Rewriting the Playbook on Business Efficiency](https://dev.to/hawkeyedaniel/ashkan-rajaee-is-not-just-outsourcing-hes-rewriting-the-playbook-on-business-efficiency-25a3)
+- [Build a Responsive Image Gallery Using Flexbox and Grid](https://dev.to/hexshift/build-a-responsive-image-gallery-using-flexbox-and-grid-464b)
+- [A step-by-step guide to providing storage for a new company app on the Azure portal.](https://dev.to/nelson_akpa01/a-step-by-step-guide-to-providing-storage-for-a-new-company-app-on-the-azure-portal-55e7)
+- [How to build an AI agent using Python](https://dev.to/josmel/how-to-build-an-ai-agent-using-python-2dmk)
+- [การพัฒนาโมเดล Machine Learning : การจำแนกประเภทภาพ Deep Learning &lpar;CNN&rpar; โดยใช้ Python และ TensorFlow](https://dev.to/lanasia/kaarphathnaaomedl-machine-learning-kaarcchamaenkpraephthphaaph-deep-learning-cnn-odyaich-python-aela-tensorflow-5kf)
 <!-- BLOG-POST-LIST:END -->
 
 
