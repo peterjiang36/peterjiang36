@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Even more OpenTelemetry - Kubernetes special](https://dev.to/nfrankel/even-more-opentelemetry-kubernetes-special-3j0g)
-- [Faster MoE Inference: Hybrid CPU-GPU Scheduling &amp; Caching Boosts Performance](https://dev.to/aimodels-fyi/faster-moe-inference-hybrid-cpu-gpu-scheduling-caching-boosts-performance-2lgb)
-- [Skywork R1V: AI Sees &amp; Thinks! Beats GPT-4V in Visual Reasoning](https://dev.to/aimodels-fyi/skywork-r1v-ai-sees-thinks-beats-gpt-4v-in-visual-reasoning-2ibh)
-- [Introducing GPT Image – AI Image Generation with ChatGPT 4o](https://dev.to/barryzheng/introducing-gpt-image-ai-image-generation-with-chatgpt-4o-366j)
+- [AZ-204: Developing Solutions for Microsoft Azure](https://dev.to/jeyecaexclussi/az-204-developing-solutions-for-microsoft-azure-18fd)
+- [Build Language-Agnostic Plugins and Extensions Effortlessly with Javonet](https://dev.to/javonet/build-language-agnostic-plugins-and-extensions-effortlessly-with-javonet-2079)
+- [Emulating the Cloud: why you should use Firebase Emulator Suite](https://dev.to/this-is-learning/emulating-the-cloud-why-you-should-use-firebase-emulator-suite-1o42)
+- [Navigating Common Hosting Pitfalls: Empower Your Digital Business Today](https://dev.to/florentv11/navigating-common-hosting-pitfalls-empower-your-digital-business-today-5c4b)
 <!-- BLOG-POST-LIST:END -->
 
 
