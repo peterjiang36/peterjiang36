@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping in C# .NET](https://dev.to/hasanmonsur/web-scraping-in-c-net-1n9)
-- [You Can’t Have It All!](https://dev.to/andrious/you-cant-have-it-all-1o04)
-- [Social Media Platform Development](https://dev.to/souhaillaghchimdev/social-media-platform-development-35g0)
-- [Natural Language Processing &lpar;NLP&rpar; Programming](https://dev.to/souhaillaghchimdev/natural-language-processing-nlp-programming-1ffi)
+- [In-depth Research Report on Google Agent2Agent &lpar;A2A&rpar; Protocol](https://dev.to/justin3go/in-depth-research-report-on-google-agent2agent-a2a-protocol-2m2a)
+- [SafeLine WAF 8.3.0: Rule Migration Instructions of Bot Verification](https://dev.to/carrie_luo1/safeline-waf-830-rule-migration-instructions-of-bot-verification-177j)
+- [React Native&#39;s Latest](https://dev.to/varnitj178/react-natives-latest-2k4n)
+- [Visual Studio Code vs Atom: Which Code Editor Should You Choose?](https://dev.to/rajesh_verma_69c86ea90ea4/visual-studio-code-vs-atom-which-code-editor-should-you-choose-2jf5)
 <!-- BLOG-POST-LIST:END -->
 
 
