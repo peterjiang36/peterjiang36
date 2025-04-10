@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Responsive Image Gallery Using Flexbox and Grid](https://dev.to/hexshift/build-a-responsive-image-gallery-using-flexbox-and-grid-464b)
-- [A step-by-step guide to providing storage for a new company app on the Azure portal.](https://dev.to/nelson_akpa01/a-step-by-step-guide-to-providing-storage-for-a-new-company-app-on-the-azure-portal-55e7)
-- [How to build an AI agent using Python](https://dev.to/josmel/how-to-build-an-ai-agent-using-python-2dmk)
-- [การพัฒนาโมเดล Machine Learning : การจำแนกประเภทภาพ Deep Learning &lpar;CNN&rpar; โดยใช้ Python และ TensorFlow](https://dev.to/lanasia/kaarphathnaaomedl-machine-learning-kaarcchamaenkpraephthphaaph-deep-learning-cnn-odyaich-python-aela-tensorflow-5kf)
+- [Automating Botox Appointment Scheduling with PHP: Step-by-Step Guide](https://dev.to/karen_londres/automating-botox-appointment-scheduling-with-php-step-by-step-guide-5bal)
+- [Bad Data Is Breaking AI: The Cost, the Risks, and How to Fix It](https://dev.to/joacod/bad-data-is-breaking-ai-the-cost-the-risks-and-how-to-fix-it-56nh)
+- [สร้าง Simple Random Forest Model โดยใช้ Python](https://dev.to/kawin951/sraang-simple-random-forest-model-odyaich-python-3i5c)
+- [Setting Up a Dev Environment on Google Cloud: A Challenge Lab Walkthrough](https://dev.to/kelechiedeh/setting-up-a-dev-environment-on-google-cloud-a-challenge-lab-walkthrough-2jci)
 <!-- BLOG-POST-LIST:END -->
 
 
