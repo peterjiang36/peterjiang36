@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Staying Hydrated with React and Next.js](https://dev.to/rohan_kumarsingh/staying-hydrated-with-react-and-nextjs-35nn)
-- [Comparative Analysis of Angular and React in Modern Web Development](https://dev.to/avlin_joy_8eeba4f1d9490bd/comparative-analysis-of-angular-and-react-in-modern-web-development-3hb)
-- [Business Intelligence vs. Sales Intelligence: What B2B Companies Need to Know](https://dev.to/piyushsingh_22/business-intelligence-vs-sales-intelligence-what-b2b-companies-need-to-know-gip)
-- [Personal Guide to Becoming a Good Developer](https://dev.to/protsenko/personal-guide-to-becoming-a-good-developer-kdf)
+- [Web Scraping in C# .NET](https://dev.to/hasanmonsur/web-scraping-in-c-net-1n9)
+- [You Can’t Have It All!](https://dev.to/andrious/you-cant-have-it-all-1o04)
+- [Social Media Platform Development](https://dev.to/souhaillaghchimdev/social-media-platform-development-35g0)
+- [Natural Language Processing &lpar;NLP&rpar; Programming](https://dev.to/souhaillaghchimdev/natural-language-processing-nlp-programming-1ffi)
 <!-- BLOG-POST-LIST:END -->
 
 
