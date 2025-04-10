@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Junior Developers Must Seize Control of Their Growth Journey Today](https://dev.to/_ndeyefatoudiop/why-junior-developers-must-seize-control-of-their-growth-journey-today-5ac2)
-- [Essential PostgreSQL Data Types Explained](https://dev.to/dbvismarketing/essential-postgresql-data-types-explained-27pl)
-- [Integrating AI Agents with n8n: Enhance Your Workflow Automation](https://dev.to/truelime/integrating-ai-agents-with-n8n-enhance-your-workflow-automation-52pc)
-- [Cost Comparison: Databricks Cluster Jobs vs. SQL Warehouse for Batch Processing](https://dev.to/asaphtinoco/cost-comparison-databricks-cluster-jobs-vs-sql-warehouse-for-batch-processing-gjg)
+- [Using ChatGPT and Claude for Full-Stack App Development](https://dev.to/mr_nova/using-chatgpt-and-claude-for-full-stack-app-development-cgm)
+- [AbortController and Signal Handling](https://dev.to/omriluz1/abortcontroller-and-signal-handling-3j7a)
+- [Why Proxies in Data Privacy Matter More Than Ever](https://dev.to/swiftproxy_residential/why-proxies-in-data-privacy-matter-more-than-ever-19kp)
+- [2999. Count the Number of Powerful Integers](https://dev.to/mdarifulhaque/2999-count-the-number-of-powerful-integers-2d20)
 <!-- BLOG-POST-LIST:END -->
 
 
