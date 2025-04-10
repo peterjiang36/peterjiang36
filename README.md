@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Official Linux Terminal on Android?!!! 🎉](https://dev.to/besworks/official-linux-terminal-on-android-hkf)
-- [𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗦𝘁𝘂𝗱𝗶𝗼: 𝗔 𝗚𝗲𝗺𝗶𝗻𝗶-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝘁𝗼 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗲 𝗔𝗜 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁](https://dev.to/shaheryaryousaf/--241g)
-- [PDF Generation, Bloat and Optimization](https://dev.to/gamesover/pdf-generation-bloat-and-optimization-2118)
-- [Daily JavaScript Challenge #JS-148: Calculate Sum of Even Numbers in an Array](https://dev.to/dpc/daily-javascript-challenge-js-148-calculate-sum-of-even-numbers-in-an-array-bbf)
+- [Guia completo de UX/UI Design do Zero ao Avançado](https://dev.to/lincolixavier/guia-completo-de-uxui-design-do-zero-ao-avancado-5d63)
+- [WaFi – A Desktop Ethereum Wallet Toolkit for Developers &amp; Power Users](https://dev.to/tony_spontana_d78d688b0a4/wafi-a-desktop-ethereum-wallet-toolkit-for-developers-power-users-47bg)
+- [How I Hacked Uber’s Hidden API to Download 4379 Rides](https://dev.to/nrrb/how-i-hacked-ubers-hidden-api-to-download-4379-rides-35ai)
+- [Time Zones and Working with Locations in Go 4/10](https://dev.to/rezmoss/time-zones-and-working-with-locations-in-go-410-1llh)
 <!-- BLOG-POST-LIST:END -->
 
 
