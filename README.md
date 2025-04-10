@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [spring boot java project_Calc](https://dev.to/v_inoth_f0fad29baec4c/spring-boot-java-projectcalc-4efc)
-- [Postgres Is All You Need](https://dev.to/shayy/postgres-is-all-you-need-3pgb)
-- [How to Integrate AI into Your Web App in 2025 &lpar;Without Losing Your Mind&rpar;](https://dev.to/aakasha063/how-to-integrate-ai-into-your-web-app-in-2025-without-losing-your-mind-48a4)
-- [Beyond Spaghetti Code: Mastering Game Design Patterns](https://dev.to/niraj_gaming/beyond-spaghetti-code-mastering-game-design-patterns-4b06)
+- [The Most Overpowered Python Scripts Ever Written](https://dev.to/snappytuts/the-most-overpowered-python-scripts-ever-written-159f)
+- [9 Sneaky Web Dev Fixes That Save Hours](https://dev.to/0x3d_site/9-sneaky-web-dev-fixes-that-save-hours-4gk3)
+- [Using Jenkins to build a C++ app](https://dev.to/olalekan_oladiran_d74b7a6/using-jenkins-to-build-a-c-app-ab9)
+- [Ashkan Rajaee Is Not Just Outsourcing—He’s Rewriting the Playbook on Business Efficiency](https://dev.to/hawkeyedaniel/ashkan-rajaee-is-not-just-outsourcing-hes-rewriting-the-playbook-on-business-efficiency-25a3)
 <!-- BLOG-POST-LIST:END -->
 
 
