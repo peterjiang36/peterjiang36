@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using ChatGPT and Claude for Full-Stack App Development](https://dev.to/mr_nova/using-chatgpt-and-claude-for-full-stack-app-development-cgm)
-- [AbortController and Signal Handling](https://dev.to/omriluz1/abortcontroller-and-signal-handling-3j7a)
-- [Why Proxies in Data Privacy Matter More Than Ever](https://dev.to/swiftproxy_residential/why-proxies-in-data-privacy-matter-more-than-ever-19kp)
-- [2999. Count the Number of Powerful Integers](https://dev.to/mdarifulhaque/2999-count-the-number-of-powerful-integers-2d20)
+- [Even more OpenTelemetry - Kubernetes special](https://dev.to/nfrankel/even-more-opentelemetry-kubernetes-special-3j0g)
+- [Faster MoE Inference: Hybrid CPU-GPU Scheduling &amp; Caching Boosts Performance](https://dev.to/aimodels-fyi/faster-moe-inference-hybrid-cpu-gpu-scheduling-caching-boosts-performance-2lgb)
+- [Skywork R1V: AI Sees &amp; Thinks! Beats GPT-4V in Visual Reasoning](https://dev.to/aimodels-fyi/skywork-r1v-ai-sees-thinks-beats-gpt-4v-in-visual-reasoning-2ibh)
+- [Introducing GPT Image – AI Image Generation with ChatGPT 4o](https://dev.to/barryzheng/introducing-gpt-image-ai-image-generation-with-chatgpt-4o-366j)
 <!-- BLOG-POST-LIST:END -->
 
 
