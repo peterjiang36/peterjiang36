@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Google Agentspace: The Future of Enterprise AI Integration is Here &lpar;2025 Edition&rpar;](https://dev.to/aniruddhaadak/google-agentspace-the-future-of-enterprise-ai-integration-is-here-2025-edition-3nhl)
-- [Untitled](https://dev.to/jogri_anggara_f1af3050261/untitled-h4c)
-- [Game AI Programming](https://dev.to/souhaillaghchimdev/game-ai-programming-cgn)
-- [Audio and Music Application Development](https://dev.to/souhaillaghchimdev/audio-and-music-application-development-10gk)
+- [Official Linux Terminal on Android?!!! 🎉](https://dev.to/besworks/official-linux-terminal-on-android-hkf)
+- [𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗦𝘁𝘂𝗱𝗶𝗼: 𝗔 𝗚𝗲𝗺𝗶𝗻𝗶-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝘁𝗼 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗲 𝗔𝗜 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁](https://dev.to/shaheryaryousaf/--241g)
+- [PDF Generation, Bloat and Optimization](https://dev.to/gamesover/pdf-generation-bloat-and-optimization-2118)
+- [Daily JavaScript Challenge #JS-148: Calculate Sum of Even Numbers in an Array](https://dev.to/dpc/daily-javascript-challenge-js-148-calculate-sum-of-even-numbers-in-an-array-bbf)
 <!-- BLOG-POST-LIST:END -->
 
 
