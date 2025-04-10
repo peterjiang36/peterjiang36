@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes Hyvä a Smarter Frontend Choice for Adobe Commerce](https://dev.to/aakanksha/what-makes-hyva-a-smarter-frontend-choice-for-adobe-commerce-3pmm)
-- [What is Mob Programming? - Part 1](https://dev.to/mapineda/what-is-mob-programming-part-1-4bl6)
-- [CerbiStream – Bringing Governance to the Wild West of Logging](https://dev.to/zeroshi/cerbistream-bringing-governance-to-the-wild-west-of-logging-4ok6)
-- [Creating and Using Lambda Layers with AWS SAM and Node.js](https://dev.to/marciojc/creating-and-using-lambda-layers-with-aws-sam-and-nodejs-4m78)
+- [spring boot java project_Calc](https://dev.to/v_inoth_f0fad29baec4c/spring-boot-java-projectcalc-4efc)
+- [Postgres Is All You Need](https://dev.to/shayy/postgres-is-all-you-need-3pgb)
+- [How to Integrate AI into Your Web App in 2025 &lpar;Without Losing Your Mind&rpar;](https://dev.to/aakasha063/how-to-integrate-ai-into-your-web-app-in-2025-without-losing-your-mind-48a4)
+- [Beyond Spaghetti Code: Mastering Game Design Patterns](https://dev.to/niraj_gaming/beyond-spaghetti-code-mastering-game-design-patterns-4b06)
 <!-- BLOG-POST-LIST:END -->
 
 
