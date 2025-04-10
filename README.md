@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AZ-204: Developing Solutions for Microsoft Azure](https://dev.to/jeyecaexclussi/az-204-developing-solutions-for-microsoft-azure-18fd)
-- [Build Language-Agnostic Plugins and Extensions Effortlessly with Javonet](https://dev.to/javonet/build-language-agnostic-plugins-and-extensions-effortlessly-with-javonet-2079)
-- [Emulating the Cloud: why you should use Firebase Emulator Suite](https://dev.to/this-is-learning/emulating-the-cloud-why-you-should-use-firebase-emulator-suite-1o42)
-- [Navigating Common Hosting Pitfalls: Empower Your Digital Business Today](https://dev.to/florentv11/navigating-common-hosting-pitfalls-empower-your-digital-business-today-5c4b)
+- [Navigating Downtime: Solutions for Freelancers Facing Hosting Hurdles](https://dev.to/florentv11/navigating-downtime-solutions-for-freelancers-facing-hosting-hurdles-2pe0)
+- [🎙️ Building ResonanceX – A Podcast Analytics Tool for Creators Left Behind by Chartable](https://dev.to/resonancex/building-resonancex-a-podcast-analytics-tool-for-creators-left-behind-by-chartable-o2n)
+- [From Manual to Magical: Transforming Accounts Payable with Automation](https://dev.to/astutemarketing/from-manual-to-magical-transforming-accounts-payable-with-automation-1681)
+- [The Ultimate Guide to Connecting ERP Systems with Shopify for Seamless Operations](https://dev.to/markloops/the-ultimate-guide-to-connecting-erp-systems-with-shopify-for-seamless-operations-1pek)
 <!-- BLOG-POST-LIST:END -->
 
 
