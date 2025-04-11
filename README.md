@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best POS Retail Solutions for Small &amp; Large Businesses](https://dev.to/bhavesh_gangani_/7-best-pos-retail-solutions-for-small-large-businesses-lkb)
-- [Why Every Enterprise Will Need an AI Agent Partner by 2026](https://dev.to/albert_ed/why-every-enterprise-will-need-an-ai-agent-partner-by-2026-nmc)
-- [Liquidity Mining vs. Market Making: What’s Right for Your Project?](https://dev.to/vishal_singh_8666966f9bcc/liquidity-mining-vs-market-making-whats-right-for-your-project-lko)
-- [# 🎓 Laravel 11 LMS - Complete Project Demo | Free Source Code + Live Hosting](https://dev.to/shuvo_bhowmik_3e05bdec6f8/-laravel-11-lms-complete-project-demo-free-source-code-live-hosting-5gle)
+- [Build the Right Clinical Trial Management System in Australia – 2025 Guide](https://dev.to/emma_jenkins_5ebc66ac329d/build-the-right-clinical-trial-management-system-in-australia-2025-guide-1dco)
+- [🐳 Deploying a Highly Available Docker Swarm Cluster with 3 Services](https://dev.to/krisha_arya_55/deploying-a-highly-available-docker-swarm-cluster-with-3-services-566h)
+- [Ng build with npx-build-plus](https://dev.to/akashakg18/ng-build-with-npx-build-plus-4d74)
+- [How to Centralize Routes in React Like a Pro &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/divam_jain_64fbf2c056539b/how-to-centralize-routes-in-react-like-a-pro-beginner-friendly-guide-4fm6)
 <!-- BLOG-POST-LIST:END -->
 
 
