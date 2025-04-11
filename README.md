@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Realms API: Isolated Execution Contexts](https://dev.to/omriluz1/realms-api-isolated-execution-contexts-53og)
-- [Navigating Hidden Costs: Web Hosting Pitfalls Every Freelancer Should Avoid](https://dev.to/florentv11/navigating-hidden-costs-web-hosting-pitfalls-every-freelancer-should-avoid-ogj)
-- [Implementing the Royal Game of Ur with Mistral&#39;s Le Chat](https://dev.to/duplys/implementing-the-royal-game-of-ur-with-mistrals-le-chat-4mil)
-- [💬❤️ Analyse de Sentiments de Tweets grâce au Deep Learning : Une Approche MLOps](https://dev.to/davidscanu/analyse-de-sentiments-de-tweets-grace-au-deep-learning-une-approche-mlops-3ib7)
+- [Important Interview Questions](https://dev.to/jay818/important-interview-questions-24ok)
+- [Simplifying Design Patterns : Prototype](https://dev.to/bccaxias/simplifying-design-patterns-prototype-15f8)
+- [AIGeT – Auto Issue Generator from TODOs in Code](https://dev.to/jagritis/aiget-auto-issue-generator-from-todos-in-code-5dia)
+- [Managing Linux Services with `systemctl` and `systemd`](https://dev.to/shamain_anjum/managing-linux-services-with-systemctl-and-systemd-3fgo)
 <!-- BLOG-POST-LIST:END -->
 
 
