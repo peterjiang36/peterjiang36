@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build the Right Clinical Trial Management System in Australia – 2025 Guide](https://dev.to/emma_jenkins_5ebc66ac329d/build-the-right-clinical-trial-management-system-in-australia-2025-guide-1dco)
-- [🐳 Deploying a Highly Available Docker Swarm Cluster with 3 Services](https://dev.to/krisha_arya_55/deploying-a-highly-available-docker-swarm-cluster-with-3-services-566h)
-- [Ng build with npx-build-plus](https://dev.to/akashakg18/ng-build-with-npx-build-plus-4d74)
-- [How to Centralize Routes in React Like a Pro &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/divam_jain_64fbf2c056539b/how-to-centralize-routes-in-react-like-a-pro-beginner-friendly-guide-4fm6)
+- [What is Rate Limiting and How to Add It in Django](https://dev.to/aakasha063/what-is-rate-limiting-and-how-to-add-it-in-django-4nkd)
+- [7 Best Ways to Live Stream 3rd-Party Feeds Seamlessly in 2025](https://dev.to/livestreaming/7-best-ways-to-live-stream-3rd-party-feeds-seamlessly-in-2025-55ho)
+- [Major Trends to Follow in the Automation Testing Outlook](https://dev.to/grjoeay/major-trends-to-follow-in-the-automation-testing-outlook-nog)
+- [Boost Manufacturing Efficiency with Advanced Digital Twin Mapping](https://dev.to/tylermorganaqe/boost-manufacturing-efficiency-with-advanced-digital-twin-mapping-1930)
 <!-- BLOG-POST-LIST:END -->
 
 
