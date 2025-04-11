@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
-- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
-- [Why Some Tech Companies Are Moving Away from Next.js](https://dev.to/araf_injazat_1bd03c5907fa/why-some-tech-companies-are-moving-away-from-nextjs-53om)
-- [Hashing in Presto/Athena](https://dev.to/dendihandian/hashing-in-athenaprestosql-ged)
+- [AI is here to stay](https://dev.to/urbanisierung/ai-is-here-to-stay-gm9)
+- [Navigating Common Web Hosting Pitfalls for Freelancers and E-Commerce Success](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-for-freelancers-and-e-commerce-success-339c)
+- [How MCP Cuts AI Dev Time and Powers Smarter Apps](https://dev.to/abs_050c1/how-mcp-cuts-ai-dev-time-and-powers-smarter-apps-1caf)
+- [Using Digital Twins for Better Wastewater Treatment](https://dev.to/hightopo/using-digital-twins-for-better-wastewater-treatment-2ima)
 <!-- BLOG-POST-LIST:END -->
 
 
