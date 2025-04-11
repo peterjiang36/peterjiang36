@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reinventando a Roda: Criando seu próprio MediatR - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-1-3f1o)
-- [How to Create a Resource Group in Azure](https://dev.to/timilehin_olatunde_i/how-to-create-a-resource-group-in-azure-4p4j)
-- [Connect Excel to Google BigQuery — The Easy No-Code Way with ZappySys ODBC Driver](https://dev.to/daniel_zs/connect-excel-to-google-bigquery-the-easy-no-code-way-with-zappysys-odbc-driver-cd8)
-- [Headless vs. Traditional UI Libraries: When and Why to Choose Each 🧩](https://dev.to/mohammad_kh4441/headless-vs-traditional-ui-libraries-when-and-why-to-choose-each-1c5b)
+- [Building a Simple Image Slider in JavaScript Without Any Libraries](https://dev.to/hexshift/building-a-simple-image-slider-in-javascript-without-any-libraries-2cfe)
+- [Navigating Downtime: How to Protect Your Freelance Business from Hosting Failures](https://dev.to/florentv11/navigating-downtime-how-to-protect-your-freelance-business-from-hosting-failures-ngo)
+- [[Boost]](https://dev.to/cfzgsj/-2jhn)
+- [SSIS expressions: introduction and examples](https://dev.to/daniel_zs/ssis-expressions-introduction-and-examples-5ak1)
 <!-- BLOG-POST-LIST:END -->
 
 
