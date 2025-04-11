@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Basic Practice: Creating the JobSage AI Interview Simulator with Gemini &amp; Embeddings](https://dev.to/david_angaya_e7156aa5266d/beyond-basic-practice-creating-the-jobsage-ai-interview-simulator-with-gemini-embeddings-2c93)
-- [Firebase Authentication in Android using Kotlin &lpar;Login &amp; Register&rpar;](https://dev.to/luv_dumka_73b5c3e11dcea61/firebase-authentication-in-android-using-kotlin-login-register-4njp)
-- [Introducing the AI Action Figure Creator by CrayonAI](https://dev.to/jsam/introducing-the-ai-action-figure-creator-by-crayonai-2a33)
-- [🧠 Programming Session Day 7: Mastering Loops, Conditions &amp; Database Logic in Java](https://dev.to/vigneshwaralingam/programming-session-day-7-mastering-loops-conditions-database-logic-in-java-2kmb)
+- [GITHUB ReadME Builder!](https://dev.to/dijariii/github-readme-builder-1mpo)
+- [I made a project in Golang with no packages or libraries &lpar;also not ORM&#39;s&rpar;](https://dev.to/sazardev/i-made-a-project-in-golang-with-no-packages-or-libraries-also-not-orms-15fa)
+- [Your Feedback Form is Lying to You](https://dev.to/shayy/your-feedback-form-is-lying-to-you-19o8)
+- [How Retrieval-Augmented Generation Is Changing the AI Game](https://dev.to/priyanshraj30/how-retrieval-augmented-generation-is-changing-the-ai-game-2hoe)
 <!-- BLOG-POST-LIST:END -->
 
 
