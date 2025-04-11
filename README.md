@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Image Slider in JavaScript Without Any Libraries](https://dev.to/hexshift/building-a-simple-image-slider-in-javascript-without-any-libraries-2cfe)
-- [Navigating Downtime: How to Protect Your Freelance Business from Hosting Failures](https://dev.to/florentv11/navigating-downtime-how-to-protect-your-freelance-business-from-hosting-failures-ngo)
-- [[Boost]](https://dev.to/cfzgsj/-2jhn)
-- [SSIS expressions: introduction and examples](https://dev.to/daniel_zs/ssis-expressions-introduction-and-examples-5ak1)
+- [Navigating Common Web Hosting Pitfalls for Freelancers and E-Commerce Success](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-for-freelancers-and-e-commerce-success-1097)
+- [Letting the power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/letting-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-53m3)
+- [🛠 How I Reduced Product Page Load Time by Nearly 85%](https://dev.to/emanuelfacundo/how-i-reduced-product-page-load-time-by-nearly-85-40kl)
+- [How to Build a Self-Service DevOps Platform &lpar;Platform Engineering Explained&rpar;](https://dev.to/yash_sonawane25/how-to-build-a-self-service-devops-platform-platform-engineering-explained-4fe0)
 <!-- BLOG-POST-LIST:END -->
 
 
