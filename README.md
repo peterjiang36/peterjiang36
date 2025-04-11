@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍Let’s Find It – Linear Search! 🎯](https://dev.to/khushi2488/lets-find-it-linear-search-2o42)
-- [Markdown to website in one command, without any configuration - Free &amp; open source: discover Compiiile](https://dev.to/albancrepel/markdown-to-website-in-one-command-without-any-configuration-free-open-source-discover-4524)
-- [Skeleton loaders with styled-components: How to improve UX on loading](https://dev.to/gunnarhalen/skeleton-loaders-with-styled-components-how-to-improve-ux-on-loading-1b4e)
-- [Notes on Llama 4: The Hits, the Misses, and the Disasters](https://dev.to/composiodev/notes-on-llama-4-the-hits-the-misses-and-the-disasters-18np)
+- [The Rise of AI: A Turning Point for All of Us](https://dev.to/jenueldev/the-rise-of-ai-a-turning-point-for-all-of-us-2ddc)
+- [AI ตรวจจับคำหยาบในข้อความภาษาไทยด้วย Machine Learning](https://dev.to/nnamenatchx/ai-trwcchcchabkhamhyaabainkhkhwaamphaasaaaithydwy-machine-learning-cbf)
+- [Tuples in Python: A Simple Yet Powerful Data Structure](https://dev.to/priya_naik_513dae9128e2a9/tuples-in-python-a-simple-yet-powerful-data-structure-loc)
+- [Building and Automating the Deployment of a Flask Application with Docker, GitHub, and CI/CD](https://dev.to/sir-j/building-and-automating-the-deployment-of-a-flask-application-with-docker-github-and-cicd-2dc4)
 <!-- BLOG-POST-LIST:END -->
 
 
