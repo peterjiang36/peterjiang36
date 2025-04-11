@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AZ INSTANT PAYDAY Review: Is It Worth It? My Honest Thoughts &lpar;2025&rpar;](https://dev.to/liliya10/az-instant-payday-review-is-it-worth-it-my-honest-thoughts-2025-3b3f)
-- [How to make A game](https://dev.to/zako_mako_9a4826822204c78/how-to-make-a-game-4p0n)
-- [PRFAQ brings clarity to software projects](https://dev.to/marcelo_calbucci_5b6be8de/prfaq-brings-clarity-to-software-projects-5emc)
-- [Getting Started with Linux Commands: Mastering File and Directory Operations](https://dev.to/ibrahim_morakinyo_8f47965/getting-started-with-linux-commands-mastering-file-and-directory-operations-2em4)
+- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
+- [Flask and ReactJS Web App Deployment](https://dev.to/codewithmycah/flask-and-reactjs-web-app-deployment-2h86)
+- [Untitled](https://dev.to/mohammad_ghlibalrazzaq_9/untitled-514j)
+- [17 open roles for product engineers, developer advocates, and technical writers](https://dev.to/fmerian/17-open-roles-for-product-engineers-developer-advocates-and-technical-writers-329d)
 <!-- BLOG-POST-LIST:END -->
 
 
