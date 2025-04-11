@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Based Knowledge Management Systems Are Transforming EdTech](https://dev.to/altumind/how-ai-based-knowledge-management-systems-are-transforming-edtech-5ad7)
-- [Leetcode - 82. Remove Duplicates from Sorted List II](https://dev.to/rakeshreddy512/leetcode-82-remove-duplicates-from-sorted-list-ii-2nek)
-- [File System vs DBMS](https://dev.to/rishabhtpt/file-system-vs-dbms-66k)
-- [The Rise of the Hybrid Developer: Why the World Doesn’t Need Hardcore Coders Anymore](https://dev.to/doozieakshay/the-rise-of-the-hybrid-developer-why-the-world-doesnt-need-hardcore-coders-anymore-2782)
+- [7 Best POS Retail Solutions for Small &amp; Large Businesses](https://dev.to/bhavesh_gangani_/7-best-pos-retail-solutions-for-small-large-businesses-lkb)
+- [Why Every Enterprise Will Need an AI Agent Partner by 2026](https://dev.to/albert_ed/why-every-enterprise-will-need-an-ai-agent-partner-by-2026-nmc)
+- [Liquidity Mining vs. Market Making: What’s Right for Your Project?](https://dev.to/vishal_singh_8666966f9bcc/liquidity-mining-vs-market-making-whats-right-for-your-project-lko)
+- [# 🎓 Laravel 11 LMS - Complete Project Demo | Free Source Code + Live Hosting](https://dev.to/shuvo_bhowmik_3e05bdec6f8/-laravel-11-lms-complete-project-demo-free-source-code-live-hosting-5gle)
 <!-- BLOG-POST-LIST:END -->
 
 
