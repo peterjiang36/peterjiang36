@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Web Hosting Pitfalls: Key Insights for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-web-hosting-pitfalls-key-insights-for-us-digital-entrepreneurs-4i7i)
-- [How to Clean Up Git Branches: Scripts to Delete Old, Inactive, and Unused Branches](https://dev.to/manojspace/how-to-clean-up-git-branches-a-complete-guide-for-local-remote-repositories-f3d)
-- [DAY 20 &amp; 21: Explanation of IDEs in Eclipse and Inheritance](https://dev.to/sangamithra_k_78d83d6fb9d/day-20-21-explanation-of-ides-in-eclipse-and-inheritance-3pd5)
-- [🚀 AI Agents in Testing: The Future of Quality Assurance? 🤖✅](https://dev.to/sureshayyanna/ai-agents-in-testing-the-future-of-quality-assurance-3cdd)
+- [Java Constructor.](https://dev.to/vasutamil19/java-constructor-3aka)
+- [DAY 10 in python](https://dev.to/maddy_mathan/day-10-in-python-3ln)
+- [Why Some Tech Companies Are Moving Away from Next.js](https://dev.to/araf_injazat_1bd03c5907fa/why-some-tech-companies-are-moving-away-from-nextjs-53om)
+- [Hashing in Presto/Athena](https://dev.to/dendihandian/hashing-in-athenaprestosql-ged)
 <!-- BLOG-POST-LIST:END -->
 
 
