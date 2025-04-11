@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NgRx Basics - tutorial01](https://dev.to/sachin_varghese_zele/ngrx-basics-tutorial01-4kg1)
-- [The Ultimate SQL Tutorial for Beginners and Intermediate Learners](https://dev.to/pythontutorial/the-ultimate-sql-tutorial-for-beginners-and-intermediate-learners-1mmn)
-- [Cisco and Google Cloud Unveil Advanced SD-WAN Connectivity Solution](https://dev.to/abdul_rehmankhan01/cisco-and-google-cloud-unveil-advanced-sd-wan-connectivity-solution-59en)
-- [How to Use an Online Python Compiler for Learning and Experimentation](https://dev.to/tpointtech/how-to-use-an-online-python-compiler-for-learning-and-experimentation-455j)
+- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
+- [Navigating Common Web Hosting Pitfalls for E-Commerce Success in 2024](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-for-e-commerce-success-in-2024-514h)
+- [GPT-4o Image Generation Guide](https://dev.to/justin3go/gpt-4o-image-generation-guide-4p27)
+- [How I Built a Fast, SEO-Optimized Website That Ranks on Google – Without a Huge Budget](https://dev.to/neil_brown_4c355cb16f17f2/how-i-built-a-fast-seo-optimized-website-that-ranks-on-google-without-a-huge-budget-34kp)
 <!-- BLOG-POST-LIST:END -->
 
 
