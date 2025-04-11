@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache in Python !](https://dev.to/coderatul/cache-in-python--18g)
-- [Navigating Common Web Hosting Pitfalls for E-Commerce Success in 2024](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-for-e-commerce-success-in-2024-514h)
-- [GPT-4o Image Generation Guide](https://dev.to/justin3go/gpt-4o-image-generation-guide-4p27)
-- [How I Built a Fast, SEO-Optimized Website That Ranks on Google – Without a Huge Budget](https://dev.to/neil_brown_4c355cb16f17f2/how-i-built-a-fast-seo-optimized-website-that-ranks-on-google-without-a-huge-budget-34kp)
+- [How AI Based Knowledge Management Systems Are Transforming EdTech](https://dev.to/altumind/how-ai-based-knowledge-management-systems-are-transforming-edtech-5ad7)
+- [Leetcode - 82. Remove Duplicates from Sorted List II](https://dev.to/rakeshreddy512/leetcode-82-remove-duplicates-from-sorted-list-ii-2nek)
+- [File System vs DBMS](https://dev.to/rishabhtpt/file-system-vs-dbms-66k)
+- [The Rise of the Hybrid Developer: Why the World Doesn’t Need Hardcore Coders Anymore](https://dev.to/doozieakshay/the-rise-of-the-hybrid-developer-why-the-world-doesnt-need-hardcore-coders-anymore-2782)
 <!-- BLOG-POST-LIST:END -->
 
 
