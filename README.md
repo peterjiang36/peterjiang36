@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Common Web Hosting Pitfalls for Freelancers and E-Commerce Success](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-for-freelancers-and-e-commerce-success-1097)
-- [Letting the power of Agentic AI: How Autonomous Agents are revolutionizing cybersecurity and Application Security](https://dev.to/rollbrace0/letting-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-53m3)
-- [🛠 How I Reduced Product Page Load Time by Nearly 85%](https://dev.to/emanuelfacundo/how-i-reduced-product-page-load-time-by-nearly-85-40kl)
-- [How to Build a Self-Service DevOps Platform &lpar;Platform Engineering Explained&rpar;](https://dev.to/yash_sonawane25/how-to-build-a-self-service-devops-platform-platform-engineering-explained-4fe0)
+- [Navigating Web Hosting Pitfalls: Key Insights for U.S. Digital Entrepreneurs](https://dev.to/florentv11/navigating-web-hosting-pitfalls-key-insights-for-us-digital-entrepreneurs-4i7i)
+- [How to Clean Up Git Branches: Scripts to Delete Old, Inactive, and Unused Branches](https://dev.to/manojspace/how-to-clean-up-git-branches-a-complete-guide-for-local-remote-repositories-f3d)
+- [DAY 20 &amp; 21: Explanation of IDEs in Eclipse and Inheritance](https://dev.to/sangamithra_k_78d83d6fb9d/day-20-21-explanation-of-ides-in-eclipse-and-inheritance-3pd5)
+- [🚀 AI Agents in Testing: The Future of Quality Assurance? 🤖✅](https://dev.to/sureshayyanna/ai-agents-in-testing-the-future-of-quality-assurance-3cdd)
 <!-- BLOG-POST-LIST:END -->
 
 
