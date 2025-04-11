@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 JavaScript Anti-Patterns That Are Hurting Your Code &lpar;And What to Do Instead&rpar;](https://dev.to/dct_technology/7-javascript-anti-patterns-that-are-hurting-your-code-and-what-to-do-instead-3d26)
-- [🧠 How to Prevent Out-Of-Memory Crashes in Node.js &lpar;Even with 50MB RAM&rpar;](https://dev.to/aleksei_aleinikov/how-to-prevent-out-of-memory-crashes-in-nodejs-even-with-50mb-ram-4ibe)
-- [How I found a Smarter Way to Automate my Workflows with Webhooks](https://dev.to/buildwithsaas/how-i-found-a-smarter-way-to-automate-my-workflows-with-webhooks-4dna)
-- [🕰️ A Return to the Digital Middle Ages?](https://dev.to/aleksei_aleinikov/a-return-to-the-digital-middle-ages-3ebo)
+- [NgRx Basics - tutorial01](https://dev.to/sachin_varghese_zele/ngrx-basics-tutorial01-4kg1)
+- [The Ultimate SQL Tutorial for Beginners and Intermediate Learners](https://dev.to/pythontutorial/the-ultimate-sql-tutorial-for-beginners-and-intermediate-learners-1mmn)
+- [Cisco and Google Cloud Unveil Advanced SD-WAN Connectivity Solution](https://dev.to/abdul_rehmankhan01/cisco-and-google-cloud-unveil-advanced-sd-wan-connectivity-solution-59en)
+- [How to Use an Online Python Compiler for Learning and Experimentation](https://dev.to/tpointtech/how-to-use-an-online-python-compiler-for-learning-and-experimentation-455j)
 <!-- BLOG-POST-LIST:END -->
 
 
