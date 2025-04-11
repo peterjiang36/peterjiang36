@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Important Interview Questions](https://dev.to/jay818/important-interview-questions-24ok)
-- [Simplifying Design Patterns : Prototype](https://dev.to/bccaxias/simplifying-design-patterns-prototype-15f8)
-- [AIGeT – Auto Issue Generator from TODOs in Code](https://dev.to/jagritis/aiget-auto-issue-generator-from-todos-in-code-5dia)
-- [Managing Linux Services with `systemctl` and `systemd`](https://dev.to/shamain_anjum/managing-linux-services-with-systemctl-and-systemd-3fgo)
+- [AZ INSTANT PAYDAY Review: Is It Worth It? My Honest Thoughts &lpar;2025&rpar;](https://dev.to/liliya10/az-instant-payday-review-is-it-worth-it-my-honest-thoughts-2025-3b3f)
+- [How to make A game](https://dev.to/zako_mako_9a4826822204c78/how-to-make-a-game-4p0n)
+- [PRFAQ brings clarity to software projects](https://dev.to/marcelo_calbucci_5b6be8de/prfaq-brings-clarity-to-software-projects-5emc)
+- [Getting Started with Linux Commands: Mastering File and Directory Operations](https://dev.to/ibrahim_morakinyo_8f47965/getting-started-with-linux-commands-mastering-file-and-directory-operations-2em4)
 <!-- BLOG-POST-LIST:END -->
 
 
