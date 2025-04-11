@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is here to stay](https://dev.to/urbanisierung/ai-is-here-to-stay-gm9)
-- [Navigating Common Web Hosting Pitfalls for Freelancers and E-Commerce Success](https://dev.to/florentv11/navigating-common-web-hosting-pitfalls-for-freelancers-and-e-commerce-success-339c)
-- [How MCP Cuts AI Dev Time and Powers Smarter Apps](https://dev.to/abs_050c1/how-mcp-cuts-ai-dev-time-and-powers-smarter-apps-1caf)
-- [Using Digital Twins for Better Wastewater Treatment](https://dev.to/hightopo/using-digital-twins-for-better-wastewater-treatment-2ima)
+- [7 JavaScript Anti-Patterns That Are Hurting Your Code &lpar;And What to Do Instead&rpar;](https://dev.to/dct_technology/7-javascript-anti-patterns-that-are-hurting-your-code-and-what-to-do-instead-3d26)
+- [🧠 How to Prevent Out-Of-Memory Crashes in Node.js &lpar;Even with 50MB RAM&rpar;](https://dev.to/aleksei_aleinikov/how-to-prevent-out-of-memory-crashes-in-nodejs-even-with-50mb-ram-4ibe)
+- [How I found a Smarter Way to Automate my Workflows with Webhooks](https://dev.to/buildwithsaas/how-i-found-a-smarter-way-to-automate-my-workflows-with-webhooks-4dna)
+- [🕰️ A Return to the Digital Middle Ages?](https://dev.to/aleksei_aleinikov/a-return-to-the-digital-middle-ages-3ebo)
 <!-- BLOG-POST-LIST:END -->
 
 
