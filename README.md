@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Virtual Actors &lpar;Grains&rpar; in .NET Using Proto.Actor](https://dev.to/actor-dev/getting-started-with-virtual-actors-grains-in-net-using-protoactor-2ij0)
-- [Introdução aos Atores Virtuais &lpar;Grains&rpar; em .NET com Proto.Actor](https://dev.to/actor-dev/introducao-aos-atores-virtuais-grains-em-net-com-protoactor-2b41)
-- [Navigating Web Hosting Pitfalls: Essential Tips for Freelancers and Agencies](https://dev.to/florentv11/navigating-web-hosting-pitfalls-essential-tips-for-freelancers-and-agencies-4n4o)
-- [Systemctl Basics: Managing Your Linux Services](https://dev.to/youngtech/systemctl-basics-managing-your-linux-services-2akh)
+- [Reinventando a Roda: Criando seu próprio MediatR - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-1-3f1o)
+- [How to Create a Resource Group in Azure](https://dev.to/timilehin_olatunde_i/how-to-create-a-resource-group-in-azure-4p4j)
+- [Connect Excel to Google BigQuery — The Easy No-Code Way with ZappySys ODBC Driver](https://dev.to/daniel_zs/connect-excel-to-google-bigquery-the-easy-no-code-way-with-zappysys-odbc-driver-cd8)
+- [Headless vs. Traditional UI Libraries: When and Why to Choose Each 🧩](https://dev.to/mohammad_kh4441/headless-vs-traditional-ui-libraries-when-and-why-to-choose-each-1c5b)
 <!-- BLOG-POST-LIST:END -->
 
 
