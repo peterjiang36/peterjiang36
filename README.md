@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/abhi_jadhav_d307ff1108e56/untitled-37a4)
-- [Securing React Applications with ReCAPTZ: A Complete Guide](https://dev.to/shejanmahamud/securing-react-applications-with-recaptz-a-complete-guide-3bpf)
-- [JavaScript DOM Manipulation](https://dev.to/ashikrnhq04/javascript-dom-manipulation-2998)
-- [Drag a window by clicking everywhere in the window. Improving usability. Which programs are better to choose. My experience](https://dev.to/tvlao/drag-a-window-by-clicking-everywhere-in-the-window-improving-usability-which-programs-are-better-35j9)
+- [Website Builder vs Custom Website: Choosing the Right Option for Your Needs](https://dev.to/minima_desk_cd9b151c4e2fb/website-builder-vs-custom-website-choosing-the-right-option-for-your-needs-2aag)
+- [21 Best Affiliate Marketing Tools for WordPress Users](https://dev.to/minima_desk_cd9b151c4e2fb/21-best-affiliate-marketing-tools-for-wordpress-users-4nna)
+- [How to Fix the ERR_CONNECTION_TIMED_OUT Error on WordPress](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-fix-the-errconnectiontimedout-error-on-wordpress-4ik5)
+- [Building Real-Time Web Applications With WebSockets in Node.js and React](https://dev.to/hexshift/building-real-time-web-applications-with-websockets-in-nodejs-and-react-3bep)
 <!-- BLOG-POST-LIST:END -->
 
 
