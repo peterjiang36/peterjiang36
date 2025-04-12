@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Convert MKV to WEBM for Faster Web Videos](https://dev.to/smartdev72/easily-convert-mkv-to-webm-for-faster-web-videos-162a)
-- [Securing Vibe Coded Applications using Cloudflare Access](https://dev.to/flashblaze/securing-vibe-coded-applications-using-cloudflare-access-mn)
-- [Gulp in 2025: A Practical Guide to Automating Your Vanilla Web Projects Without the Framework Fuss](https://dev.to/gerryleonugroho/gulp-in-2025-a-practical-guide-to-automating-your-vanilla-web-projects-without-the-framework-fuss-62n)
-- [Porting a PHP Based Web Game to Mobile Part 3](https://dev.to/jigsawpsycho/porting-a-php-based-web-game-to-mobile-part-3-2nn8)
+- [HeadSpin Alternatives with Better ROI: Top Tools Compared](https://dev.to/shubham-theqa/headspin-alternatives-with-better-roi-top-tools-compared-4j7o)
+- [No More Screenshots — Share SonarQube Code Reports as PDFs](https://dev.to/konnichiwa_anubhav/-48pb)
+- [How to Convert MP4 to MKV in Minutes &lpar;Full Guide&rpar;](https://dev.to/smartdev72/how-to-convert-mp4-to-mkv-in-minutes-full-guide-47ce)
+- [Site Editor rough Design](https://dev.to/shelner/site-editor-rough-design-344j)
 <!-- BLOG-POST-LIST:END -->
 
 
