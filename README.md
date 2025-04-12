@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
-- [Obter informações de índices e seu uso em diversos Bancos de Dados em MongoDB](https://dev.to/magno_rodolfodossantos_/obter-informacoes-de-indices-e-seu-uso-em-diversos-bancos-de-dados-em-mongodb-1a6p)
-- [Daily JavaScript Challenge #JS-152: Evaluate Sudoku Board Validity](https://dev.to/dpc/daily-javascript-challenge-js-152-evaluate-sudoku-board-validity-2387)
-- [Daily JavaScript Challenge #JS-151: Determine if a String is a Zig-Zag Pattern](https://dev.to/dpc/daily-javascript-challenge-js-151-determine-if-a-string-is-a-zig-zag-pattern-3b82)
+- [1.1 - 100 Days of Code](https://dev.to/aiglelevant/11-100-days-of-code-394l)
+- [The Rise of &#39;Vibe Packages&#39; in Open Source Development](https://dev.to/seuros/the-rise-of-vibe-packages-in-open-source-development-40kg)
+- [Beyond Basic RAG: Measuring Embedding and Generation Performance with RAGAS](https://dev.to/syamaner/beyond-basic-rag-measuring-embedding-and-generation-performance-with-ragas-ddk)
+- [How I Deployed a Vite React App to Azure Static Web App &lpar;SWA&rpar; Using Azure DevOps CI/CD](https://dev.to/shivampawar/how-i-deployed-a-vite-react-app-to-azure-static-web-app-swa-using-azure-devops-cicd-1gna)
 <!-- BLOG-POST-LIST:END -->
 
 
