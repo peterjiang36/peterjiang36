@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
-- [Pathology AI Breakthrough: Train SOTA Models With 1000x Less Data](https://dev.to/aimodels-fyi/pathology-ai-breakthrough-train-sota-models-with-1000x-less-data-4i7k)
-- [Legal Text AI Breakthrough: 98% Accuracy in Sentence Boundary Detection](https://dev.to/aimodels-fyi/legal-text-ai-breakthrough-98-accuracy-in-sentence-boundary-detection-13e8)
-- [M-Prometheus: Open LLM Judges Excel in 20+ Languages &amp; Boost Text Quality](https://dev.to/aimodels-fyi/m-prometheus-open-llm-judges-excel-in-20-languages-boost-text-quality-4b97)
+- [Easily Convert MKV to WEBM for Faster Web Videos](https://dev.to/smartdev72/easily-convert-mkv-to-webm-for-faster-web-videos-162a)
+- [Securing Vibe Coded Applications using Cloudflare Access](https://dev.to/flashblaze/securing-vibe-coded-applications-using-cloudflare-access-mn)
+- [Gulp in 2025: A Practical Guide to Automating Your Vanilla Web Projects Without the Framework Fuss](https://dev.to/gerryleonugroho/gulp-in-2025-a-practical-guide-to-automating-your-vanilla-web-projects-without-the-framework-fuss-62n)
+- [Porting a PHP Based Web Game to Mobile Part 3](https://dev.to/jigsawpsycho/porting-a-php-based-web-game-to-mobile-part-3-2nn8)
 <!-- BLOG-POST-LIST:END -->
 
 
