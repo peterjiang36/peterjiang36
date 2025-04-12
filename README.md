@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Odoo-Based Project Management Tool for Businesses in 2025](https://dev.to/bhavesh_gangani_/best-odoo-based-project-management-tool-for-businesses-in-2025-4gaa)
-- [🎉 8,215+ downloads in just 30 days!](https://dev.to/sajijohn/8215-downloads-in-just-30-days-lh4)
-- [Anime JS , a JavaScript animation library](https://dev.to/gari000/anime-js-a-javascript-animation-library-5ha9)
-- [Day-18:Return datatype](https://dev.to/pavithra_c_butterfly/day-18return-datatype-hbf)
+- [Podman on debian How to fix podman no services after restart](https://dev.to/finloop/podman-on-debian-how-to-fix-podman-no-services-after-restart-2f4k)
+- [Project Alibaba Cloud](https://dev.to/manueldg/project-alibaba-cloud-5ail)
+- [🧠 Mastering Linux Processes: Viewing, Managing, and Killing Like a Pro 🧨](https://dev.to/vishnutejas/mastering-linux-processes-viewing-managing-and-killing-like-a-pro-32db)
+- [Cloudflare Dev Week 2025: Revolutionary Serverless](https://dev.to/bascodes/cloudflare-dev-week-2025-revolutionary-serverless-28c2)
 <!-- BLOG-POST-LIST:END -->
 
 
