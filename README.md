@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Crack Coding Interviews with These Must-Know Patterns](https://dev.to/devcorner/crack-coding-interviews-with-these-must-know-patterns-1jh5)
-- [Understanding the DOM: The Foundation of Dynamic Web Pages](https://dev.to/ayako_yk/understanding-the-dom-the-foundation-of-dynamic-web-pages-bnl)
-- [Week 3 Hw notes](https://dev.to/donnellycarroll/week-3-hw-notes-4a4k)
-- [Attacks via a New OAuth flow, Authorization Code Injection, and Whether HttpOnly, PKCE, and BFF Can Help](https://dev.to/anador/attacks-via-a-new-oauth-flow-authorization-code-injection-and-whether-httponly-pkce-and-bff-can-1i2c)
+- [Pixelated Photos? Here’s How to Upscale Them Like a Pro](https://dev.to/smartdev72/pixelated-photos-heres-how-to-upscale-them-like-a-pro-5fd2)
+- [🧠 JS Pop Quiz: ⚡️Faster iterations](https://dev.to/tusharshahi/js-pop-quiz-faster-iterations-3n39)
+- [Python: From Darkness to Dawn](https://dev.to/souhaillaghchimdev/python-from-darkness-to-dawn-3ibn)
+- [Optimizing the Knapsack Problem Using Stochastic Hill Climbing Algorithm](https://dev.to/gokhanergentech/optimizing-the-knapsack-problem-using-stochastic-hill-climbing-algorithm-3d1k)
 <!-- BLOG-POST-LIST:END -->
 
 
