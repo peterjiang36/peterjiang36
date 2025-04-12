@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Free and Lightning-Fast IP Geolocation From a CDN Provider](https://dev.to/mkdev/free-and-lightning-fast-ip-geolocation-from-a-cdn-provider-3amj)
-- [Embracing Rust-Style Error Handling in JavaScript with try.rs](https://dev.to/devshogun/embracing-rust-style-error-handling-in-javascript-with-tryrs-22m8)
-- [MP4 Converter Tools: What to Use and Why It Matters](https://dev.to/smartdev72/mp4-converter-tools-what-to-use-and-why-it-matters-2ec8)
-- [Nextjs with tailwind and typescript](https://dev.to/rivkaavraham/nextjs-with-tailwind-and-typescript-14cf)
+- [Best Odoo-Based Project Management Tool for Businesses in 2025](https://dev.to/bhavesh_gangani_/best-odoo-based-project-management-tool-for-businesses-in-2025-4gaa)
+- [🎉 8,215+ downloads in just 30 days!](https://dev.to/sajijohn/8215-downloads-in-just-30-days-lh4)
+- [Anime JS , a JavaScript animation library](https://dev.to/gari000/anime-js-a-javascript-animation-library-5ha9)
+- [Day-18:Return datatype](https://dev.to/pavithra_c_butterfly/day-18return-datatype-hbf)
 <!-- BLOG-POST-LIST:END -->
 
 
