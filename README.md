@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixelated Photos? Here’s How to Upscale Them Like a Pro](https://dev.to/smartdev72/pixelated-photos-heres-how-to-upscale-them-like-a-pro-5fd2)
-- [🧠 JS Pop Quiz: ⚡️Faster iterations](https://dev.to/tusharshahi/js-pop-quiz-faster-iterations-3n39)
-- [Python: From Darkness to Dawn](https://dev.to/souhaillaghchimdev/python-from-darkness-to-dawn-3ibn)
-- [Optimizing the Knapsack Problem Using Stochastic Hill Climbing Algorithm](https://dev.to/gokhanergentech/optimizing-the-knapsack-problem-using-stochastic-hill-climbing-algorithm-3d1k)
+- [CORS and Same-Origin Policy Deep Dive](https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g)
+- [Cartoonify Your Image: Add a Fun Twist to Any Picture](https://dev.to/smartdev72/cartoonify-your-image-add-a-fun-twist-to-any-picture-25ak)
+- [Building an E-commerce Website: A Step-by-Step Tutorial on Mastering .some&lpar;&rpar; and .every&lpar;&rpar; in JavaScript](https://dev.to/agunechemba/building-an-e-commerce-website-a-step-by-step-tutorial-on-mastering-some-and-every-in-3dej)
+- [**Title: Improving Distributed Systems Reliability Using the Fibonacci Backoff Mechanism** Retrying failed operations on temporary failures is one of the prevalent strategies in contemporary distributed systems. But when done inadequately, these retries l](https://dev.to/nourelhodabarkat/title-improving-distributed-systems-reliability-using-the-fibonacci-backoff-mechanism-3p46)
 <!-- BLOG-POST-LIST:END -->
 
 
