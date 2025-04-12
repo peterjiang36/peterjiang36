@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Function-Calling Agents in Node.js with Agentic](https://dev.to/obaydmerz/build-function-calling-agents-in-nodejs-with-agentic-315c)
-- [Flask and ReactJS Web App Deployment](https://dev.to/codewithmycah/flask-and-reactjs-web-app-deployment-2h86)
-- [Untitled](https://dev.to/mohammad_ghlibalrazzaq_9/untitled-514j)
-- [17 open roles for product engineers, developer advocates, and technical writers](https://dev.to/fmerian/17-open-roles-for-product-engineers-developer-advocates-and-technical-writers-329d)
+- [💡 Build Along with Me: A Beginner’s Guide to Creating a Student API Using Flask](https://dev.to/techondiapers/build-along-with-me-a-beginners-guide-to-creating-a-student-api-using-flask-5kn)
+- [How to Enable Keep-Alive to Optimize Your WordPress Website](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-enable-keep-alive-to-optimize-your-wordpress-website-1n67)
+- [The Manufacturing Skills Gap: Current State and Future Outlook](https://dev.to/jimmyshoe85/the-manufacturing-skills-gap-current-state-and-future-outlook-2hmg)
+- [Linux -top command](https://dev.to/prasanth362k/linux-top-command-3ch2)
 <!-- BLOG-POST-LIST:END -->
 
 
