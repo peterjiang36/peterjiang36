@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Mistakes to Avoid When Building a WordPress Website for Your Business](https://dev.to/ded149c4a594bbd6/top-7-mistakes-to-avoid-when-building-a-wordpress-website-for-your-business-1jf3)
-- [Vue.js: The Documentary](https://dev.to/mehdi1/vuejs-the-documentary-3nm5)
-- [My Second mega project how did i build it?](https://dev.to/dipesh-dev/my-second-mega-project-how-did-i-build-it-5ecb)
-- [GitHub Copilot + Figma MCP Server 實戰：用 AI 快速切版教學](https://dev.to/letswrite/github-copilot-figma-mcp-server-shi-zhan-yong-ai-kuai-su-qie-ban-jiao-xue-286f)
+- [Meta&#39;s Llama 4 Scandal](https://dev.to/dumboprogrammer/metas-llama-4-scandal-fak)
+- [Obter informações de índices e seu uso em diversos Bancos de Dados em MongoDB](https://dev.to/magno_rodolfodossantos_/obter-informacoes-de-indices-e-seu-uso-em-diversos-bancos-de-dados-em-mongodb-1a6p)
+- [Daily JavaScript Challenge #JS-152: Evaluate Sudoku Board Validity](https://dev.to/dpc/daily-javascript-challenge-js-152-evaluate-sudoku-board-validity-2387)
+- [Daily JavaScript Challenge #JS-151: Determine if a String is a Zig-Zag Pattern](https://dev.to/dpc/daily-javascript-challenge-js-151-determine-if-a-string-is-a-zig-zag-pattern-3b82)
 <!-- BLOG-POST-LIST:END -->
 
 
