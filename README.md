@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you are looking to learn oops concept in fun way do check this out!](https://dev.to/akashjana/if-you-are-looking-to-learn-oops-concept-in-fun-way-do-check-this-out-obm)
-- [INSANE one-click MCP AI agent, Meta Llama 4 Herd, an AI Model 8X larger than OpenAI, and more](https://dev.to/thisweekinaiengineering/insane-one-click-mcp-ai-agent-meta-llama-4-herd-an-ai-model-8x-larger-than-openai-and-more-45b0)
-- [XPORT by Wanchain: A Free and Simple Cross-Chain Data Protocol](https://dev.to/insanechemical_/xport-by-wanchain-a-free-and-simple-cross-chain-data-protocol-2lop)
-- [TCP/IP vs OSI: Understanding the Backbone of Networking](https://dev.to/axisinfo_0a61830e06c3c950/tcpip-vs-osi-understanding-the-backbone-of-networking-b31)
+- [🚀 Crack Coding Interviews with These Must-Know Patterns](https://dev.to/devcorner/crack-coding-interviews-with-these-must-know-patterns-1jh5)
+- [Understanding the DOM: The Foundation of Dynamic Web Pages](https://dev.to/ayako_yk/understanding-the-dom-the-foundation-of-dynamic-web-pages-bnl)
+- [Week 3 Hw notes](https://dev.to/donnellycarroll/week-3-hw-notes-4a4k)
+- [Attacks via a New OAuth flow, Authorization Code Injection, and Whether HttpOnly, PKCE, and BFF Can Help](https://dev.to/anador/attacks-via-a-new-oauth-flow-authorization-code-injection-and-whether-httponly-pkce-and-bff-can-1i2c)
 <!-- BLOG-POST-LIST:END -->
 
 
