@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Podman on debian How to fix podman no services after restart](https://dev.to/finloop/podman-on-debian-how-to-fix-podman-no-services-after-restart-2f4k)
-- [Project Alibaba Cloud](https://dev.to/manueldg/project-alibaba-cloud-5ail)
-- [🧠 Mastering Linux Processes: Viewing, Managing, and Killing Like a Pro 🧨](https://dev.to/vishnutejas/mastering-linux-processes-viewing-managing-and-killing-like-a-pro-32db)
-- [Cloudflare Dev Week 2025: Revolutionary Serverless](https://dev.to/bascodes/cloudflare-dev-week-2025-revolutionary-serverless-28c2)
+- [Top 7 Mistakes to Avoid When Building a WordPress Website for Your Business](https://dev.to/ded149c4a594bbd6/top-7-mistakes-to-avoid-when-building-a-wordpress-website-for-your-business-1jf3)
+- [Vue.js: The Documentary](https://dev.to/mehdi1/vuejs-the-documentary-3nm5)
+- [My Second mega project how did i build it?](https://dev.to/dipesh-dev/my-second-mega-project-how-did-i-build-it-5ecb)
+- [GitHub Copilot + Figma MCP Server 實戰：用 AI 快速切版教學](https://dev.to/letswrite/github-copilot-figma-mcp-server-shi-zhan-yong-ai-kuai-su-qie-ban-jiao-xue-286f)
 <!-- BLOG-POST-LIST:END -->
 
 
