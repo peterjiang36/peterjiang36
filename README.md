@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Build Along with Me: A Beginner’s Guide to Creating a Student API Using Flask](https://dev.to/techondiapers/build-along-with-me-a-beginners-guide-to-creating-a-student-api-using-flask-5kn)
-- [How to Enable Keep-Alive to Optimize Your WordPress Website](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-enable-keep-alive-to-optimize-your-wordpress-website-1n67)
-- [The Manufacturing Skills Gap: Current State and Future Outlook](https://dev.to/jimmyshoe85/the-manufacturing-skills-gap-current-state-and-future-outlook-2hmg)
-- [Linux -top command](https://dev.to/prasanth362k/linux-top-command-3ch2)
+- [Inbox Zero Workflow: Filters, Labels, and Shortcuts That Actually Work](https://dev.to/ravishan16/inbox-zero-workflow-filters-labels-and-shortcuts-that-actually-work-4ib5)
+- [Looking for a Real Front-End Dev Friend — Not Just a Collab Partner ✨](https://dev.to/kelvincode1234/looking-for-a-real-front-end-dev-friend-not-just-a-collab-partner-3ap9)
+- [hello everyone, i am a new techguy in this community](https://dev.to/ezra_iorkyaa_f775e9e64768/hello-everyone-i-am-a-new-techguy-in-this-community-18ah)
+- [How to Build a WordPress Online Store with Blocks: A Step-by-Step Guide](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-build-a-wordpress-online-store-with-blocks-a-step-by-step-guide-3jdh)
 <!-- BLOG-POST-LIST:END -->
 
 
