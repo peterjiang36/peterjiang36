@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Letting Agents Write and Review Code — A 0dev Milestone&lpar;Demo&rpar;](https://dev.to/mohsenkamrani/letting-agents-write-and-review-code-a-0dev-milestonedemo-578g)
-- [Build Better UIs: A Framework-Agnostic Tree View with Drag &amp; Drop for Vue &lpar;and Beyond&rpar;](https://dev.to/jmkcoder/build-better-uis-a-framework-agnostic-tree-view-with-drag-drop-for-vue-and-beyond-29ga)
-- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-25l7)
-- [Phrest Finder - v20](https://dev.to/notmadebyahuman/phrest-finder-v20-1lkl)
+- [📌 10.7 – Diferenças para o Joda-Time](https://dev.to/fundamentosjava/107-diferencas-para-o-joda-time-4gj6)
+- [Ajay Hinduja Techie One: Embracing the Future of AI Technology](https://dev.to/ajayhinduja/ajay-hinduja-techie-one-embracing-the-future-of-ai-technology-23gl)
+- [Python Compiler Online – Code, Compile &amp; Execute in Seconds](https://dev.to/tpointtechblog/python-compiler-online-code-compile-execute-in-seconds-363j)
+- [10.6 Duração e Período](https://dev.to/fundamentosjava/106-duracao-e-periodo-4gm6)
 <!-- BLOG-POST-LIST:END -->
 
 
