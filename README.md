@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React Performance With Memoization and Code Splitting](https://dev.to/hexshift/optimizing-react-performance-with-memoization-and-code-splitting-18gi)
-- [☠️ Never Run These! 10 Linux Commands That Can Destroy Your System](https://dev.to/rajpreet_gill_6272051bd31/never-run-these-10-linux-commands-that-can-destroy-your-system-4k28)
-- [Docker Model Runner: Running AI Models Locally](https://dev.to/idsulik/docker-model-runner-running-ai-models-locally-1a3n)
-- [🧠🥷How to make AI controled Avatar 1 &lpar;VRoid&rpar;](https://dev.to/webdeveloperhyper/how-to-make-ai-controled-avatar-1-vroid-2jde)
+- [🚀 Don’t Just Build It—Containerize It! Master ASP.NET Core with Docker Before It’s Too Late](https://dev.to/dct_technology/dont-just-build-it-containerize-it-master-aspnet-core-with-docker-before-its-too-late-14n2)
+- [Pathology AI Breakthrough: Train SOTA Models With 1000x Less Data](https://dev.to/aimodels-fyi/pathology-ai-breakthrough-train-sota-models-with-1000x-less-data-4i7k)
+- [Legal Text AI Breakthrough: 98% Accuracy in Sentence Boundary Detection](https://dev.to/aimodels-fyi/legal-text-ai-breakthrough-98-accuracy-in-sentence-boundary-detection-13e8)
+- [M-Prometheus: Open LLM Judges Excel in 20+ Languages &amp; Boost Text Quality](https://dev.to/aimodels-fyi/m-prometheus-open-llm-judges-excel-in-20-languages-boost-text-quality-4b97)
 <!-- BLOG-POST-LIST:END -->
 
 
