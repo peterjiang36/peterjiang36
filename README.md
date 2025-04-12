@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1.1 - 100 Days of Code](https://dev.to/aiglelevant/11-100-days-of-code-394l)
-- [The Rise of &#39;Vibe Packages&#39; in Open Source Development](https://dev.to/seuros/the-rise-of-vibe-packages-in-open-source-development-40kg)
-- [Beyond Basic RAG: Measuring Embedding and Generation Performance with RAGAS](https://dev.to/syamaner/beyond-basic-rag-measuring-embedding-and-generation-performance-with-ragas-ddk)
-- [How I Deployed a Vite React App to Azure Static Web App &lpar;SWA&rpar; Using Azure DevOps CI/CD](https://dev.to/shivampawar/how-i-deployed-a-vite-react-app-to-azure-static-web-app-swa-using-azure-devops-cicd-1gna)
+- [Mastering Linux Networking Commands: A Handy Guide for Professionals](https://dev.to/axisinfo_0a61830e06c3c950/mastering-linux-networking-commands-a-handy-guide-for-professionals-39gg)
+- [Filament Vertical Tabs](https://dev.to/afs19/filament-vertical-tabs-1k60)
+- [How to create an effective application security Program: Strategies, methods and tools for optimal results](https://dev.to/lynxfelony1/how-to-create-an-effective-application-security-program-strategies-methods-and-tools-for-optimal-4872)
+- [Godfingering vs. Dogfooding: A Tale of Two Dev Cultures](https://dev.to/copyleftdev/godfingering-vs-dogfooding-a-tale-of-two-dev-cultures-132m)
 <!-- BLOG-POST-LIST:END -->
 
 
