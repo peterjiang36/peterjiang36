@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Scalable Monorepo With Turborepo and PNPM](https://dev.to/hexshift/setting-up-a-scalable-monorepo-with-turborepo-and-pnpm-4doh)
-- [Weekly Challenge: Sub circular](https://dev.to/simongreennet/weekly-challenge-sub-circular-hno)
-- [My Experience with Next.js Why It&#39;s Bad &lpar;And Getting Worse&rpar;](https://dev.to/bharathvaj_ganesan/my-experience-with-nextjs-why-its-bad-and-getting-worse-36e3)
-- [Unity Learning Blog #1](https://dev.to/foo_mingsheng_0c9d82f0ec/unity-learning-blog-1-12ol)
+- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
+- [SOTA Models for Web Devs: Practical Use Cases](https://dev.to/plavookac/sota-models-for-web-devs-practical-use-cases-3ijk)
+- [INTRODUCTION TO SQL FOR DATA ANALYTICS](https://dev.to/john_analytics/sql-101-introduction-to-sql-for-data-analytics-153o)
+- [VS Code Extension for every Coder](https://dev.to/tak089/vs-code-extension-for-every-coder-55ac)
 <!-- BLOG-POST-LIST:END -->
 
 
