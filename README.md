@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LASRS Login app offers secure, mobile access for Louisiana providers to manage data, reports, and compliance on the go.](https://dev.to/ghulam_murtaza_25dd49e5a9/lasrs-login-app-offers-secure-mobile-access-for-louisiana-providers-to-manage-data-reports-and-kja)
-- [🚀 Set Up Node.js Logging with Winston and OpenSearch Dashboard &lpar;Step-by-Step Guide&rpar;](https://dev.to/subham1901/set-up-nodejs-logging-with-winston-and-opensearch-dashboard-step-by-step-guide-nge)
-- [Step-by-Step Guide: Deploying a Windows 11 Virtual Machine on Azure](https://dev.to/theodora_e6f61d02577a5f06/step-by-step-guide-deploying-a-windows-11-virtual-machine-on-azure-5caa)
-- [Comprehensive Breakdown of a Serverless Resume Uploader Project on AWS](https://dev.to/faruq2991/comprehensive-breakdown-of-a-serverless-resume-uploader-project-on-aws-4bf)
+- [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://dev.to/nickytonline/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2)
+- [The Evolution of Documentation in the AI Era: A CPTO&#39;s Perspective](https://dev.to/jlcases/the-evolution-of-documentation-in-the-ai-era-a-cptos-perspective-41d0)
+- [🏭 #Fabrika-Metodu &lpar;Factory Method&rpar;](https://dev.to/mustafasamedyeyin/fabrika-metodu-factory-method-3c9j)
+- [Journey to GNOME Circle: Community, App Ideas, and Getting Started](https://dev.to/revisto/journey-to-gnome-circle-community-app-ideas-and-getting-started-4k2)
 <!-- BLOG-POST-LIST:END -->
 
 
