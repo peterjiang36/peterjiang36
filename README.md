@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Firework Simulator v2](https://dev.to/tran_minhbinh_9681e9d6e1/firework-simulator-v2-16jj)
-- [A beginner&#39;s guide to the Grounding-Dino model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grounding-dino-model-by-adirik-on-replicate-1hgg)
-- [AI Fact-Checks Itself: Detects Hallucinated Concepts in Chatbots](https://dev.to/aimodels-fyi/ai-fact-checks-itself-detects-hallucinated-concepts-in-chatbots-1n13)
-- [RL Beats Randomness: Dual-Critic PPO for Unpredictable Worlds](https://dev.to/aimodels-fyi/rl-beats-randomness-dual-critic-ppo-for-unpredictable-worlds-d2h)
+- [&quot;MMAP&quot; System Call for DBMS](https://dev.to/mrayushbajpai/mmap-system-call-for-dbms-2c5k)
+- [Export Microsoft 365 Mailbox Size Reports: The Must-Have Script for Smarter IT Management](https://dev.to/mrmicrosoft/export-microsoft-365-mailbox-size-reports-the-must-have-script-for-smarter-it-management-14io)
+- [The JavaScript Course That Made Me Curious Again](https://dev.to/sauravdhakal12/the-javascript-course-that-made-me-curious-again-5158)
+- [Understanding Prompt Engineering and Its Different Types](https://dev.to/piyushpk/what-is-prompt-enginnering-and-types-of-it--5blm)
 <!-- BLOG-POST-LIST:END -->
 
 
