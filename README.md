@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Feeling the Code: Understanding &quot;Vibe Coding&quot; and the AI Revolution in Software Development](https://dev.to/simplr_sh/feeling-the-code-understanding-vibe-coding-and-the-ai-revolution-in-software-development-5flg)
-- [Building Your Own Scalable Video Streaming Server: Part 3 - Data, Deployment &amp; Durability](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-3-data-deployment-durability-172h)
-- [Building Your Own Scalable Video Streaming Server: Part 2 - Setup &amp; Core Implementation](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-2-setup-core-implementation-32gf)
-- [Normal WordPress vs. Headless WordPress: What’s the Difference and Which Should You Choose?](https://dev.to/yehia_samir123/normal-wordpress-vs-headless-wordpress-whats-the-difference-and-which-should-you-choose-98g)
+- [Setting Up a Scalable Monorepo With Turborepo and PNPM](https://dev.to/hexshift/setting-up-a-scalable-monorepo-with-turborepo-and-pnpm-4doh)
+- [Weekly Challenge: Sub circular](https://dev.to/simongreennet/weekly-challenge-sub-circular-hno)
+- [My Experience with Next.js Why It&#39;s Bad &lpar;And Getting Worse&rpar;](https://dev.to/bharathvaj_ganesan/my-experience-with-nextjs-why-its-bad-and-getting-worse-36e3)
+- [Unity Learning Blog #1](https://dev.to/foo_mingsheng_0c9d82f0ec/unity-learning-blog-1-12ol)
 <!-- BLOG-POST-LIST:END -->
 
 
