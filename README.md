@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;MMAP&quot; System Call for DBMS](https://dev.to/mrayushbajpai/mmap-system-call-for-dbms-2c5k)
-- [Export Microsoft 365 Mailbox Size Reports: The Must-Have Script for Smarter IT Management](https://dev.to/mrmicrosoft/export-microsoft-365-mailbox-size-reports-the-must-have-script-for-smarter-it-management-14io)
-- [The JavaScript Course That Made Me Curious Again](https://dev.to/sauravdhakal12/the-javascript-course-that-made-me-curious-again-5158)
-- [Understanding Prompt Engineering and Its Different Types](https://dev.to/piyushpk/what-is-prompt-enginnering-and-types-of-it--5blm)
+- [The 333-Day Build Journey](https://dev.to/omniradhanexus/the-333-day-build-journey-9m7)
+- [Just launched hypemeup.ai - helps devs &amp; creators build their personal brand with AI](https://dev.to/themogulhimself/just-launched-hypemeupai-helps-devs-creators-buildtheir-personal-brand-with-ai-1ip8)
+- [Why We Started: The Web3 UX Problem](https://dev.to/omniradhanexus/why-we-started-the-web3-ux-problem-1gi5)
+- [Revolutionizing Education: The Rise and Role of Virtual Classrooms in Today&#39;s Learning Environment](https://dev.to/ghummantech/revolutionizing-education-the-rise-and-role-of-virtual-classrooms-in-todays-learning-environment-3ikp)
 <!-- BLOG-POST-LIST:END -->
 
 
