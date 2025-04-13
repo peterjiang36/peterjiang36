@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Sharing API Keys! Announcing AgentVault v0.1.0 - Open Source Toolkit for Secure AI Agent Comms &lpar;A2A/MCP&rpar;](https://dev.to/agentvault/stop-sharing-api-keys-announcing-agentvault-v010-open-source-toolkit-for-secure-ai-agent-comms-1p39)
-- [How I Built Full-Stack TypeScript Apps Faster with tRPC and Next.js 15](https://dev.to/code_2/how-i-built-full-stack-typescript-apps-faster-with-trpc-and-nextjs-15-2oib)
-- [Selenium vs Puppeteer vs Playwright: Choosing the Right Tool for Web Automation](https://dev.to/mechcloud_academy/selenium-vs-puppeteer-vs-playwright-choosing-the-right-tool-for-web-automation-5el)
-- [Exploring the Security Implications of AI-Powered Deepfakes](https://dev.to/kartikmehta8/exploring-the-security-implications-of-ai-powered-deepfakes-28mg)
+- [From Timezone Chaos to Clarity: Crafting an Interactive Time Zone Converter](https://dev.to/learncomputer/from-timezone-chaos-to-clarity-crafting-an-interactive-time-zone-converter-54h)
+- [[Boost]](https://dev.to/rs0579_73/-3175)
+- [A Practical Guide to Data Architecture: Real-World Use Cases from Lakes to Warehouses](https://dev.to/harsh9410/a-practical-guide-to-data-architecture-real-world-use-cases-from-lakes-to-warehouses-497j)
+- [The Importance of Clean Code](https://dev.to/xsoto/the-importance-of-clean-code-2ke1)
 <!-- BLOG-POST-LIST:END -->
 
 
