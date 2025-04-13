@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AI Security &amp; Hacking? Understanding the Role of Artificial Intelligence in Cyber Security](https://dev.to/mrgh0st/what-is-ai-security-hacking-understanding-the-role-of-artificial-intelligence-in-cyber-security-2ib2)
-- [How a job interview led me to create Obscura - A password generator with real entropy](https://dev.to/denisakp/how-a-job-interview-led-me-to-create-obscura-a-password-generator-with-real-entropy-3poh)
-- [MongoDB with Search Indexes Queried as Kimball&#39;s Star Schema with Facts and Dimensions](https://dev.to/franckpachot/mongodb-with-search-indexes-queried-as-kimballs-star-schema-with-facts-and-dimensions-k1)
-- [5 Awesome Koyeb Alternatives](https://dev.to/code42cate/5-awesome-koyeb-alternatives-1jja)
+- [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
+- [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
+- [Dockerizing a React Project with Nginx](https://dev.to/krisha_arya_55/dockerizing-a-react-project-with-nginx-3mpo)
+- [XSS URL Analysis and SQL Injection Workflow](https://dev.to/mrgh0st/xss-url-analysis-and-sql-injection-workflow-245k)
 <!-- BLOG-POST-LIST:END -->
 
 
