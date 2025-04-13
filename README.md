@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Resiliency Engineering?](https://dev.to/smiah/what-is-resiliency-engineering-3bjc)
-- [Code Smell 296 - Unhappy to the Right](https://dev.to/mcsee/code-smell-296-unhappy-to-the-right-19n1)
-- [Want to Know Where Popular Web Technologies Serve Websites on Red Hat Linux? Let’s Break It Down!](https://dev.to/anthony_williams_23129c47/want-to-know-where-popular-web-technologies-serve-websites-on-red-hat-linux-lets-break-it-down-48a6)
-- [Database Optimization: Partitioning vs Indexing](https://dev.to/smiah/partitioning-vs-indexing-ddd)
+- [Google just released A2A protocol. AI agents will soon work as teams instead of solo performers? I break down 3 key differences to MCP at: https://dev.to/zachary62/a2a-protocol-simply-explained-here-are-3-key-differences-to-mcp-3b7l](https://dev.to/zachary62/google-just-released-a2a-protocol-ai-agents-will-soon-work-as-teams-instead-of-solo-performers-i-3c5g)
+- [Downstream Resiliency of Distributed System](https://dev.to/smiah/downstream-resiliency-of-distributed-system-12ml)
+- [A2A Protocol Simply Explained: Here are 3 key differences to MCP!](https://dev.to/zachary62/a2a-protocol-simply-explained-here-are-3-key-differences-to-mcp-3b7l)
+- [unhrc](https://dev.to/sidatgithubcode/unhrc-3lic)
 <!-- BLOG-POST-LIST:END -->
 
 
