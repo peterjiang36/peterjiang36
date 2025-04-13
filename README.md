@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Website Builder vs Custom Website: Choosing the Right Option for Your Needs](https://dev.to/minima_desk_cd9b151c4e2fb/website-builder-vs-custom-website-choosing-the-right-option-for-your-needs-2aag)
-- [21 Best Affiliate Marketing Tools for WordPress Users](https://dev.to/minima_desk_cd9b151c4e2fb/21-best-affiliate-marketing-tools-for-wordpress-users-4nna)
-- [How to Fix the ERR_CONNECTION_TIMED_OUT Error on WordPress](https://dev.to/minima_desk_cd9b151c4e2fb/how-to-fix-the-errconnectiontimedout-error-on-wordpress-4ik5)
-- [Building Real-Time Web Applications With WebSockets in Node.js and React](https://dev.to/hexshift/building-real-time-web-applications-with-websockets-in-nodejs-and-react-3bep)
+- [What is Resiliency Engineering?](https://dev.to/smiah/what-is-resiliency-engineering-3bjc)
+- [Code Smell 296 - Unhappy to the Right](https://dev.to/mcsee/code-smell-296-unhappy-to-the-right-19n1)
+- [Want to Know Where Popular Web Technologies Serve Websites on Red Hat Linux? Let’s Break It Down!](https://dev.to/anthony_williams_23129c47/want-to-know-where-popular-web-technologies-serve-websites-on-red-hat-linux-lets-break-it-down-48a6)
+- [Database Optimization: Partitioning vs Indexing](https://dev.to/smiah/partitioning-vs-indexing-ddd)
 <!-- BLOG-POST-LIST:END -->
 
 
