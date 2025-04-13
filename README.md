@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A very beginner... Some HTML questions on text. Font etc.](https://dev.to/eric_groen_17205fd4409957/a-very-beginner-some-html-questions-on-text-font-etc-mlf)
-- [Starting my Data Analyst Journey](https://dev.to/kelly_10/starting-my-data-analyst-journey-1100)
-- [🚀 Designing Idempotent APIs in Spring Boot](https://dev.to/devcorner/designing-idempotent-apis-in-spring-boot-2fhi)
-- [From TheCampusCoders to the 9-5 Grind: My Journey and How I’m Looking for New Opportunities](https://dev.to/raajaryan/from-thecampuscoders-to-the-9-5-grind-my-journey-and-how-im-looking-for-new-opportunities-2h2g)
+- [Belajar Flyway Episode 1: Pengenalan dan Migrasi Pertama](https://dev.to/pashaibrhm/belajar-flyway-episode-1-pengenalan-dan-migrasi-pertama-45hd)
+- [Why we couldn&#39;t resist raising from eBay - our Series A announcement](https://dev.to/slickstef11/why-we-couldnt-resist-raising-from-ebay-our-series-a-announcement-5dhl)
+- [Hands-On Guide: Assigning a Team Policy, Deleting, and Restoring a User in Microsoft Teams](https://dev.to/seyilufadejucyberservices/hands-on-guide-assigning-a-team-policy-deleting-and-restoring-a-user-in-microsoft-teams-4m5e)
+- [How to Automate Blog Publishing to Multiple Platforms 🚀](https://dev.to/prachijamdade/how-to-automate-blog-publishing-to-multiple-platforms-52po)
 <!-- BLOG-POST-LIST:END -->
 
 
