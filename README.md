@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Cheatsheet: Everything You Need in One Place](https://dev.to/raajaryan/javascript-cheatsheet-everything-you-need-in-one-place-4ef8)
-- [From Timezone Chaos to Clarity: Crafting an Interactive Time Zone Converter](https://dev.to/learncomputer/from-timezone-chaos-to-clarity-crafting-an-interactive-time-zone-converter-54h)
-- [[Boost]](https://dev.to/rs0579_73/-3175)
-- [A Practical Guide to Data Architecture: Real-World Use Cases from Lakes to Warehouses](https://dev.to/harsh9410/a-practical-guide-to-data-architecture-real-world-use-cases-from-lakes-to-warehouses-497j)
+- [Configurando internet usando ubuntu server no Lenovo IdeaPad 3](https://dev.to/hoyci/configurando-internet-usando-ubuntu-server-no-lenovo-ideapad-3-8c4)
+- [VueJS - JavaScript Framework](https://dev.to/willson_tran/javascript-framework-day-1-1n)
+- [[Boost]](https://dev.to/dhanush___b/-4cnh)
+- [Bangla Pdf to Word converter&lpar;Without OCR&rpar;](https://dev.to/shadman_murshed266/bangla-pdf-to-word-converterwithout-ocr-4f66)
 <!-- BLOG-POST-LIST:END -->
 
 
