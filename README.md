@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Belajar Flyway Episode 1: Pengenalan dan Migrasi Pertama](https://dev.to/pashaibrhm/belajar-flyway-episode-1-pengenalan-dan-migrasi-pertama-45hd)
-- [Why we couldn&#39;t resist raising from eBay - our Series A announcement](https://dev.to/slickstef11/why-we-couldnt-resist-raising-from-ebay-our-series-a-announcement-5dhl)
-- [Hands-On Guide: Assigning a Team Policy, Deleting, and Restoring a User in Microsoft Teams](https://dev.to/seyilufadejucyberservices/hands-on-guide-assigning-a-team-policy-deleting-and-restoring-a-user-in-microsoft-teams-4m5e)
-- [How to Automate Blog Publishing to Multiple Platforms 🚀](https://dev.to/prachijamdade/how-to-automate-blog-publishing-to-multiple-platforms-52po)
+- [A Significant Step Towards the A.I. Era](https://dev.to/arshan_rahman_/a-significant-step-towards-the-ai-era-392p)
+- [jBPM as AI Orchestration Platform](https://dev.to/c-nltx/jbpm-as-ai-orchestration-platform-2f1m)
+- [Gamedev.js Jam 2025 start and theme announcement!](https://dev.to/end3r/gamedevjs-jam-2025-start-and-theme-announcement-1ib4)
+- [Recent Security Alerts: GitHub Actions Hijack and Kubernetes Ingress-NGINX Vulnerability](https://dev.to/phani_rudra9/recent-security-alerts-github-actions-hijack-and-kubernetes-ingress-nginx-vulnerability-2ap8)
 <!-- BLOG-POST-LIST:END -->
 
 
