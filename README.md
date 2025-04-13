@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [web3](https://dev.to/poland_silvia/web3-1002)
+- [Building a Nodejs API using the Twelve-Factor App Principles](https://dev.to/dipe_/building-a-nodejs-api-using-the-twelve-factor-app-principles-1jd7)
 - [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
 - [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
-- [Dockerizing a React Project with Nginx](https://dev.to/krisha_arya_55/dockerizing-a-react-project-with-nginx-3mpo)
-- [XSS URL Analysis and SQL Injection Workflow](https://dev.to/mrgh0st/xss-url-analysis-and-sql-injection-workflow-245k)
 <!-- BLOG-POST-LIST:END -->
 
 
