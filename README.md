@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Significant Step Towards the A.I. Era](https://dev.to/arshan_rahman_/a-significant-step-towards-the-ai-era-392p)
-- [jBPM as AI Orchestration Platform](https://dev.to/c-nltx/jbpm-as-ai-orchestration-platform-2f1m)
-- [Gamedev.js Jam 2025 start and theme announcement!](https://dev.to/end3r/gamedevjs-jam-2025-start-and-theme-announcement-1ib4)
-- [Recent Security Alerts: GitHub Actions Hijack and Kubernetes Ingress-NGINX Vulnerability](https://dev.to/phani_rudra9/recent-security-alerts-github-actions-hijack-and-kubernetes-ingress-nginx-vulnerability-2ap8)
+- [LASRS Login app offers secure, mobile access for Louisiana providers to manage data, reports, and compliance on the go.](https://dev.to/ghulam_murtaza_25dd49e5a9/lasrs-login-app-offers-secure-mobile-access-for-louisiana-providers-to-manage-data-reports-and-kja)
+- [🚀 Set Up Node.js Logging with Winston and OpenSearch Dashboard &lpar;Step-by-Step Guide&rpar;](https://dev.to/subham1901/set-up-nodejs-logging-with-winston-and-opensearch-dashboard-step-by-step-guide-nge)
+- [Step-by-Step Guide: Deploying a Windows 11 Virtual Machine on Azure](https://dev.to/theodora_e6f61d02577a5f06/step-by-step-guide-deploying-a-windows-11-virtual-machine-on-azure-5caa)
+- [Comprehensive Breakdown of a Serverless Resume Uploader Project on AWS](https://dev.to/faruq2991/comprehensive-breakdown-of-a-serverless-resume-uploader-project-on-aws-4bf)
 <!-- BLOG-POST-LIST:END -->
 
 
