@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How `Localhost` Works ?](https://dev.to/bharathvajganesan/what-happens-when-you-type-localhost-in-the-browser-2g81)
-- [Why not use GraphQL?](https://dev.to/slickstef11/why-not-use-graphql-3o1n)
-- [Use Cogito-32B in Microsoft Word Locally](https://dev.to/gptlocalhost/use-cogito-32b-in-microsoft-word-locally-35al)
-- [Introduction To Reflection | Part 1](https://dev.to/milad-sadeghi/introduction-to-reflection-part-1-1ch0)
+- [Feeling the Code: Understanding &quot;Vibe Coding&quot; and the AI Revolution in Software Development](https://dev.to/simplr_sh/feeling-the-code-understanding-vibe-coding-and-the-ai-revolution-in-software-development-5flg)
+- [Building Your Own Scalable Video Streaming Server: Part 3 - Data, Deployment &amp; Durability](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-3-data-deployment-durability-172h)
+- [Building Your Own Scalable Video Streaming Server: Part 2 - Setup &amp; Core Implementation](https://dev.to/awalhossain/building-your-own-scalable-video-streaming-server-part-2-setup-core-implementation-32gf)
+- [Normal WordPress vs. Headless WordPress: What’s the Difference and Which Should You Choose?](https://dev.to/yehia_samir123/normal-wordpress-vs-headless-wordpress-whats-the-difference-and-which-should-you-choose-98g)
 <!-- BLOG-POST-LIST:END -->
 
 
