@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Contexts and Origin Isolation](https://dev.to/omriluz1/secure-contexts-and-origin-isolation-55ma)
-- [[Boost]](https://dev.to/yapapulla/-3835)
-- [Monitoring AWS Data Lakes with Datadog and Alerting to Microsoft Teams](https://dev.to/rkapoor19/monitoring-aws-data-lakes-with-datadog-and-alerting-to-microsoft-teams-3fe7)
-- [Got 5 Minutes? Let&#39;s Talk HTML &lpar;Part 2&rpar;](https://dev.to/type_z_code/got-5-minutes-lets-talk-html-part-2-384o)
+- [What is AI Security &amp; Hacking? Understanding the Role of Artificial Intelligence in Cyber Security](https://dev.to/mrgh0st/what-is-ai-security-hacking-understanding-the-role-of-artificial-intelligence-in-cyber-security-2ib2)
+- [How a job interview led me to create Obscura - A password generator with real entropy](https://dev.to/denisakp/how-a-job-interview-led-me-to-create-obscura-a-password-generator-with-real-entropy-3poh)
+- [MongoDB with Search Indexes Queried as Kimball&#39;s Star Schema with Facts and Dimensions](https://dev.to/franckpachot/mongodb-with-search-indexes-queried-as-kimballs-star-schema-with-facts-and-dimensions-k1)
+- [5 Awesome Koyeb Alternatives](https://dev.to/code42cate/5-awesome-koyeb-alternatives-1jja)
 <!-- BLOG-POST-LIST:END -->
 
 
