@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs PHP: Real Code Comparison for Web Applications](https://dev.to/leapcell/nextjs-vs-php-real-code-comparison-for-web-applications-3he9)
-- [SOTA Models for Web Devs: Practical Use Cases](https://dev.to/plavookac/sota-models-for-web-devs-practical-use-cases-3ijk)
-- [INTRODUCTION TO SQL FOR DATA ANALYTICS](https://dev.to/john_analytics/sql-101-introduction-to-sql-for-data-analytics-153o)
-- [VS Code Extension for every Coder](https://dev.to/tak089/vs-code-extension-for-every-coder-55ac)
+- [A very beginner... Some HTML questions on text. Font etc.](https://dev.to/eric_groen_17205fd4409957/a-very-beginner-some-html-questions-on-text-font-etc-mlf)
+- [Starting my Data Analyst Journey](https://dev.to/kelly_10/starting-my-data-analyst-journey-1100)
+- [🚀 Designing Idempotent APIs in Spring Boot](https://dev.to/devcorner/designing-idempotent-apis-in-spring-boot-2fhi)
+- [From TheCampusCoders to the 9-5 Grind: My Journey and How I’m Looking for New Opportunities](https://dev.to/raajaryan/from-thecampuscoders-to-the-9-5-grind-my-journey-and-how-im-looking-for-new-opportunities-2h2g)
 <!-- BLOG-POST-LIST:END -->
 
 
