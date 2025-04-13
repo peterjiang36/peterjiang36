@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 333-Day Build Journey](https://dev.to/omniradhanexus/the-333-day-build-journey-9m7)
-- [Just launched hypemeup.ai - helps devs &amp; creators build their personal brand with AI](https://dev.to/themogulhimself/just-launched-hypemeupai-helps-devs-creators-buildtheir-personal-brand-with-ai-1ip8)
-- [Why We Started: The Web3 UX Problem](https://dev.to/omniradhanexus/why-we-started-the-web3-ux-problem-1gi5)
-- [Revolutionizing Education: The Rise and Role of Virtual Classrooms in Today&#39;s Learning Environment](https://dev.to/ghummantech/revolutionizing-education-the-rise-and-role-of-virtual-classrooms-in-todays-learning-environment-3ikp)
+- [How `Localhost` Works ?](https://dev.to/bharathvajganesan/what-happens-when-you-type-localhost-in-the-browser-2g81)
+- [Why not use GraphQL?](https://dev.to/slickstef11/why-not-use-graphql-3o1n)
+- [Use Cogito-32B in Microsoft Word Locally](https://dev.to/gptlocalhost/use-cogito-32b-in-microsoft-word-locally-35al)
+- [Introduction To Reflection | Part 1](https://dev.to/milad-sadeghi/introduction-to-reflection-part-1-1ch0)
 <!-- BLOG-POST-LIST:END -->
 
 
