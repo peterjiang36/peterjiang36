@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Configurando internet usando ubuntu server no Lenovo IdeaPad 3](https://dev.to/hoyci/configurando-internet-usando-ubuntu-server-no-lenovo-ideapad-3-8c4)
-- [VueJS - JavaScript Framework](https://dev.to/willson_tran/javascript-framework-day-1-1n)
-- [[Boost]](https://dev.to/dhanush___b/-4cnh)
-- [Bangla Pdf to Word converter&lpar;Without OCR&rpar;](https://dev.to/shadman_murshed266/bangla-pdf-to-word-converterwithout-ocr-4f66)
+- [Firework Simulator v2](https://dev.to/tran_minhbinh_9681e9d6e1/firework-simulator-v2-16jj)
+- [A beginner&#39;s guide to the Grounding-Dino model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-grounding-dino-model-by-adirik-on-replicate-1hgg)
+- [AI Fact-Checks Itself: Detects Hallucinated Concepts in Chatbots](https://dev.to/aimodels-fyi/ai-fact-checks-itself-detects-hallucinated-concepts-in-chatbots-1n13)
+- [RL Beats Randomness: Dual-Critic PPO for Unpredictable Worlds](https://dev.to/aimodels-fyi/rl-beats-randomness-dual-critic-ppo-for-unpredictable-worlds-d2h)
 <!-- BLOG-POST-LIST:END -->
 
 
