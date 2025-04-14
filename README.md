@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the AI Landscape: Key Trends and Monetization Strategies for 2025](https://dev.to/supreme_c94d2e21f71444c89/navigating-the-ai-landscape-key-trends-and-monetization-strategies-for-2025-e0)
-- [Synthesized Analysis: Synthesized Topic](https://dev.to/supreme_c94d2e21f71444c89/synthesized-analysis-synthesized-topic-310c)
-- [How to Install Applications Using Snap](https://dev.to/xandecodes/how-to-install-applications-using-snap-e3n)
-- [Whitelisting vs Greylisting: Let’s Break It Down](https://dev.to/lovestaco/whitelisting-vs-greylisting-lets-break-it-down-k8k)
+- [Best Authentication Libraries for Next.js in 2025 🔐](https://dev.to/joodi/best-authentication-libraries-for-nextjs-in-2025-5eca)
+- [Cross-Site Scripting &lpar;XSS&rpar; Mitigation Strategies](https://dev.to/omriluz1/cross-site-scripting-xss-mitigation-strategies-3gk5)
+- [Creating Your First OpenSearch Dashboard: A Step-by-Step Tutorial](https://dev.to/mangesh28/creating-your-first-opensearch-dashboard-a-step-by-step-tutorial-45j8)
+- [There are two web game competitions happening now and you should participate in both!](https://dev.to/jess/there-are-two-web-game-competitions-happening-now-and-you-should-participate-in-both-5bhi)
 <!-- BLOG-POST-LIST:END -->
 
 
