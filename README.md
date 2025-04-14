@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Check: Securing AI-Generated Code Using MCP](https://dev.to/semgrep/vibe-check-securing-ai-generated-code-using-mcp-4d9n)
-- [Simplifying Design Patterns : Singleton](https://dev.to/bccaxias/simplifying-design-patterns-singleton-13ji)
-- [How to Use AI to Quickly Analyze CSV Data &amp; Get Insights](https://dev.to/astrodevil/how-to-use-ai-to-quickly-analyze-csv-data-get-insights-2npm)
-- [AI Will Take My Job, But Not Today](https://dev.to/protsenko/ai-will-take-my-job-but-not-today-3nae)
+- [React Checklist: 9 Tips to Avoid Bugs 🐞](https://dev.to/joodi/react-checklist-9-tips-to-avoid-bugs-5979)
+- [Adieus Amigo – This is Skype, Signing Off!](https://dev.to/winsides/adieus-amigo-this-is-skype-signing-off-1187)
+- [Chuck Norris glanced at a computer screen and this API was made.](https://dev.to/senken18/chuck-norris-glanced-at-a-computer-screen-and-this-api-was-made-2agl)
+- [What are the Benefits of Combining Microservices and DevOps?](https://dev.to/harman_diaz/what-are-the-benefits-of-combining-microservices-and-devops-3m9f)
 <!-- BLOG-POST-LIST:END -->
 
 
