@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Better Organize Your Program.cs File in ASP.NET Core Apps](https://dev.to/canro91/how-to-better-organize-your-programcs-file-in-aspnet-core-apps-54n7)
-- [&lpar;Mis&rpar;Understanding React Context](https://dev.to/bunmioye/misunderstanding-react-context-2ei2)
-- [🐾 Class trong JavaScript – Tập 2: Khi mèo có siêu năng lực đặc biệt](https://dev.to/duythenight/class-trong-javascript-tap-2-khi-meo-co-sieu-nang-luc-dac-biet-1o)
-- [How I Use AI Agents Without Compromising Code Quality &amp; Security](https://dev.to/uigerhana/how-i-use-ai-agents-without-compromising-code-quality-security-55c0)
+- [Conquer the 33% WordPress Freeze on AWS Lightsail: A Plugin Troubleshooting Guide](https://dev.to/prathish_deivendiran_86b5/conquer-the-33-wordpress-freeze-on-aws-lightsail-a-plugin-troubleshooting-guide-cnj)
+- [How Event Planning Apps Make Organizing Your Next Big Event Easier Than Ever](https://dev.to/saanvipatel099/how-event-planning-apps-make-organizing-your-next-big-event-easier-than-ever-n2j)
+- [Beginner&#39;s Guide to JavaScript with an Online Compiler](https://dev.to/tpointtechedu/beginners-guide-to-javascript-with-an-online-compiler-lil)
+- [Best Online PHP Compiler to Test Code Without Installation](https://dev.to/tpointtechblog/best-online-php-compiler-to-test-code-without-installation-3kh9)
 <!-- BLOG-POST-LIST:END -->
 
 
