@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Cross-Region Replication in AWS S3 Using Lambda Triggers](https://dev.to/glory_ugochukwu_57b6cf663/automating-cross-region-replication-in-aws-s3-using-lambda-triggers-18hk)
-- [Weekly #15-2025: An early look at PHP 9.0&#39;s, Javascript debug ids, A2A and more](https://dev.to/weekly/weekly-15-2025-an-early-look-at-php-90s-javascript-debug-ids-a2a-and-more-5cif)
-- [Daily JavaScript Challenge #JS-152: Find the Second Largest Number in an Array](https://dev.to/dpc/daily-javascript-challenge-js-152-find-the-second-largest-number-in-an-array-naa)
-- [Stop writing XPath. I built a tool to locate web elements using natural language.](https://dev.to/feng_jian_f8d0a9834be/stop-writing-xpath-i-built-a-tool-to-locate-web-elements-using-natural-language-163o)
+- [Building a Scalable Sales Process: Strategies for Growth in Cybersecurity by Industry Leaders including John Almond &lpar;TX&rpar;](https://dev.to/johnalmond02/building-a-scalable-sales-process-strategies-for-growth-in-cybersecurity-by-industry-leaders-20l1)
+- [Mastering GoFrame&#39;s glist: A Practical Guide for Go Developers 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-glist-a-practical-guide-for-go-developers-4hi1)
+- [Automate Your EC2 Setup Using AWS CLI and User Data](https://dev.to/youngtech/automate-your-ec2-setup-using-aws-cli-and-user-data-3n84)
+- [Exploring Babywearing Safety: Guidelines for Using Carriers and Slings with Your Newborn](https://dev.to/marlenejunker01/exploring-babywearing-safety-guidelines-for-using-carriers-and-slings-with-your-newborn-3kmg)
 <!-- BLOG-POST-LIST:END -->
 
 
