@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Sales Process: Strategies for Growth in Cybersecurity by Industry Leaders including John Almond &lpar;TX&rpar;](https://dev.to/johnalmond02/building-a-scalable-sales-process-strategies-for-growth-in-cybersecurity-by-industry-leaders-20l1)
-- [Mastering GoFrame&#39;s glist: A Practical Guide for Go Developers 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-glist-a-practical-guide-for-go-developers-4hi1)
-- [Automate Your EC2 Setup Using AWS CLI and User Data](https://dev.to/youngtech/automate-your-ec2-setup-using-aws-cli-and-user-data-3n84)
-- [Exploring Babywearing Safety: Guidelines for Using Carriers and Slings with Your Newborn](https://dev.to/marlenejunker01/exploring-babywearing-safety-guidelines-for-using-carriers-and-slings-with-your-newborn-3kmg)
+- [Redis Delayed Queue: Explained Once and for All](https://dev.to/leapcell/redis-delayed-queue-explained-once-and-for-all-51o8)
+- [Cloud-Native Security: How to Secure Kubernetes &amp; Serverless Apps](https://dev.to/yash_sonawane25/cloud-native-security-how-to-secure-kubernetes-serverless-apps-4fp6)
+- [From Confused to Confident: How Vim Made Me Better in Cloud &amp; DevOps](https://dev.to/dtemi/from-confused-to-confident-how-vim-made-me-better-in-cloud-devops-17jk)
+- [10 Best Wiki Plugins for WordPress &lpar;2025 Guide&rpar;](https://dev.to/minima_desk_cd9b151c4e2fb/10-best-wiki-plugins-for-wordpress-2025-guide-3241)
 <!-- BLOG-POST-LIST:END -->
 
 
