@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ggriffin/-3m6l)
-- [Simplifying Pagination in Angular with a Reusable Base Component](https://dev.to/kedar7/simplifying-pagination-in-angular-with-a-reusable-base-component-12jc)
-- [The New Era of Automation: How OWL, CRAB, and MCP Are Bridging the Last Mile](https://dev.to/camelai/the-new-era-of-automation-how-owl-crab-and-mcp-are-bridging-the-last-mile-231a)
-- [The Symphony of the AI System](https://dev.to/trustgraph/the-symphony-of-the-ai-system-4abh)
+- [🥳 We built the cli of our dreams to send sms ❣️](https://dev.to/optnc/we-built-the-cli-of-our-dreams-to-send-sms-3c7m)
+- [উন্নত কোডিং ও দীর্ঘ কনটেক্সট বোঝার সক্ষমতাসহ ওপেনএআই নতুন জিপিটি-৪.১ মডেল উন্মোচন করেছে](https://dev.to/rironib/openeaai-ntun-jipitti-41-mddel-unmocn-kreche-unnt-koddin-o-diirgh-prsngg-bojhaar-kssmtaa-niye-374f)
+- [PayPal Releases Agentic Toolkit to Accelerate Commerce](https://dev.to/paypaldeveloper/paypal-releases-agentic-toolkit-to-accelerate-commerce-2286)
+- [Web Vitals and SPAs: How to Meet Google&#39;s Standards Step-by-Step](https://dev.to/karen_londres/web-vitals-and-spas-how-to-meet-googles-standards-step-by-step-3j97)
 <!-- BLOG-POST-LIST:END -->
 
 
