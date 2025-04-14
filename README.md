@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Skills Every Software Developer Must Have in 2025](https://dev.to/infomaginesoftwares/top-skills-every-software-developer-must-have-in-2025-4p6a)
-- [WebSockets : Real-Time Magic Beyond REST](https://dev.to/kalpesh_desai_5017/websockets-real-time-magic-beyond-rest-2a7d)
-- [Augmented Reality: Blurring Lines Between Digital and Physical](https://dev.to/avalily/augmented-reality-blurring-lines-between-digital-and-physical-3bn1)
-- [Jumpstart Your Career with a Data Science Course](https://dev.to/aditya_c90047909cf234c949/jumpstart-your-career-with-a-data-science-course-6pi)
+- [Optimizing Web Performance With HTTP/2 Server Push and Caching Strategies](https://dev.to/hexshift/optimizing-web-performance-with-http2-server-push-and-caching-strategies-542b)
+- [Dica Rápida: Ganhando desempenho com o modificador Sealed](https://dev.to/wsantosdev/dica-rapida-ganhando-desempenho-com-o-modificador-sealed-2n4l)
+- [Composant Table avec RiotJS](https://dev.to/steeve/composant-table-avec-riotjs-3807)
+- [Automating VMware Tools Upgrades with PowerShell and N-Central](https://dev.to/aroshw/automating-vmware-tools-upgrades-with-powershell-and-n-central-5e7l)
 <!-- BLOG-POST-LIST:END -->
 
 
