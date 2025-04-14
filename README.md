@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Game development for frontend: Building with Excalibur.js](https://dev.to/logrocket/game-development-for-frontend-building-with-excaliburjs-1hl3)
-- [We love to see it: A look at AR](https://dev.to/steviepee/we-love-to-see-it-a-look-at-ar-29o4)
-- [Exploring Large Language Models: Transforming the Future of AI](https://dev.to/thi_le_26e54b136ffaa84ad1/exploring-large-language-models-transforming-the-future-of-ai-4be5)
-- [Unlocking the Potential of Large Language Models](https://dev.to/thi_le_26e54b136ffaa84ad1/unlocking-the-potential-of-large-language-models-112e)
+- [Tailwind CSS with Air and GO: No Node, No Problem.](https://dev.to/getjv/tailwind-css-with-air-and-go-no-node-no-problem-3j92)
+- [Why This Matters: Streamlined Deployment for ASP.NET Core on IIS](https://dev.to/destinyobs/why-this-matters-streamlined-deployment-for-aspnet-core-on-iis-1jie)
+- [service mesh explained is out now ! Check it out](https://dev.to/lorebrada00/service-mesh-explained-is-out-now-check-it-out-3ln7)
+- [Failed to load shared library &#39;llama.dll&#39;: Could not find &lpar;llama-cpp-python&rpar;](https://dev.to/jirenmaa/failed-to-load-shared-library-llamadll-could-not-find-llama-cpp-python-5e4l)
 <!-- BLOG-POST-LIST:END -->
 
 
