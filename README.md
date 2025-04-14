@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python is the Perfect Programming Language for Beginners in 2025](https://dev.to/mariecolvinn/why-python-is-the-perfect-programming-language-for-beginners-in-2025-1p0n)
-- [Cloud Managed Services: Empowering Your Digital Transformation Journey](https://dev.to/astutemarketing/cloud-managed-services-empowering-your-digital-transformation-journey-25bo)
-- [How do you communicate between two Arduino boards?](https://dev.to/carolineee/how-do-you-communicate-between-two-arduino-boards-3i75)
-- [Improving Virtual and Verbal Communication at Work](https://dev.to/krideo/improving-virtual-and-verbal-communication-at-work-539c)
+- [Top Skills Every Software Developer Must Have in 2025](https://dev.to/infomaginesoftwares/top-skills-every-software-developer-must-have-in-2025-4p6a)
+- [WebSockets : Real-Time Magic Beyond REST](https://dev.to/kalpesh_desai_5017/websockets-real-time-magic-beyond-rest-2a7d)
+- [Augmented Reality: Blurring Lines Between Digital and Physical](https://dev.to/avalily/augmented-reality-blurring-lines-between-digital-and-physical-3bn1)
+- [Jumpstart Your Career with a Data Science Course](https://dev.to/aditya_c90047909cf234c949/jumpstart-your-career-with-a-data-science-course-6pi)
 <!-- BLOG-POST-LIST:END -->
 
 
