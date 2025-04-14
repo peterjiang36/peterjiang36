@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Conquer the 33% WordPress Freeze on AWS Lightsail: A Plugin Troubleshooting Guide](https://dev.to/prathish_deivendiran_86b5/conquer-the-33-wordpress-freeze-on-aws-lightsail-a-plugin-troubleshooting-guide-cnj)
-- [How Event Planning Apps Make Organizing Your Next Big Event Easier Than Ever](https://dev.to/saanvipatel099/how-event-planning-apps-make-organizing-your-next-big-event-easier-than-ever-n2j)
-- [Beginner&#39;s Guide to JavaScript with an Online Compiler](https://dev.to/tpointtechedu/beginners-guide-to-javascript-with-an-online-compiler-lil)
-- [Best Online PHP Compiler to Test Code Without Installation](https://dev.to/tpointtechblog/best-online-php-compiler-to-test-code-without-installation-3kh9)
+- [Three practical ways to create a database in MySQL](https://dev.to/dbvismarketing/three-practical-ways-to-create-a-database-in-mysql-26hh)
+- [Apple M1+ web developers are cheating. You should do that, too](https://dev.to/dariomannu/apple-m1-web-developers-are-cheating-you-should-do-that-too-cof)
+- [Using the Options pattern with .NET Aspire](https://dev.to/samvanhoutte/using-the-options-pattern-with-net-aspire-hjl)
+- [🐾 Class trong JavaScript – Tập 3: Gọi cha, test dòng dõi và trị `this` phản chủ](https://dev.to/duythenight/class-trong-js-tap-3-goi-cha-test-dong-doi-va-tri-this-phan-chu-g8m)
 <!-- BLOG-POST-LIST:END -->
 
 
