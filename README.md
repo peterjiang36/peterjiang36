@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Breadth-First Search &lpar;BFS&rpar; Algorithm](https://dev.to/khushi2488/breadth-first-search-bfs-algorithm-3lmh)
-- [🐱 Class trong JavaScript – Tập 1: Khi lập trình cũng cần &quot;thần thái&quot;](https://dev.to/duythenight/class-trong-javascript-tap-1-khi-lap-trinh-cung-can-than-thai-3blm)
-- [I&#39;m developing a new note app. It&#39;s in testing now. Come try it!🚀](https://dev.to/nextjser/im-developing-a-new-note-app-its-in-testing-now-come-try-it-16ia)
-- [Exploring Monetization Strategies for Video Content in AI, Machine Learning, and Data Science](https://dev.to/supreme_c94d2e21f71444c89/exploring-monetization-strategies-for-video-content-in-ai-machine-learning-and-data-science-fha)
+- [How to Better Organize Your Program.cs File in ASP.NET Core Apps](https://dev.to/canro91/how-to-better-organize-your-programcs-file-in-aspnet-core-apps-54n7)
+- [&lpar;Mis&rpar;Understanding React Context](https://dev.to/bunmioye/misunderstanding-react-context-2ei2)
+- [🐾 Class trong JavaScript – Tập 2: Khi mèo có siêu năng lực đặc biệt](https://dev.to/duythenight/class-trong-javascript-tap-2-khi-meo-co-sieu-nang-luc-dac-biet-1o)
+- [How I Use AI Agents Without Compromising Code Quality &amp; Security](https://dev.to/uigerhana/how-i-use-ai-agents-without-compromising-code-quality-security-55c0)
 <!-- BLOG-POST-LIST:END -->
 
 
