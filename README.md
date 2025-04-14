@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [web3](https://dev.to/poland_silvia/web3-1002)
-- [Building a Nodejs API using the Twelve-Factor App Principles](https://dev.to/dipe_/building-a-nodejs-api-using-the-twelve-factor-app-principles-1jd7)
-- [Launched a public beta test of next-generation virtual fitting rooms based on artificial intelligence](https://dev.to/devsdaddy/launched-a-public-beta-test-of-next-generation-virtual-fitting-rooms-based-on-artificial-1h7l)
-- [Building a Developer Community from Scratch](https://dev.to/aws-builders/building-a-developer-community-from-scratch-2aem)
+- [Automating Cross-Region Replication in AWS S3 Using Lambda Triggers](https://dev.to/glory_ugochukwu_57b6cf663/automating-cross-region-replication-in-aws-s3-using-lambda-triggers-18hk)
+- [Weekly #15-2025: An early look at PHP 9.0&#39;s, Javascript debug ids, A2A and more](https://dev.to/weekly/weekly-15-2025-an-early-look-at-php-90s-javascript-debug-ids-a2a-and-more-5cif)
+- [Daily JavaScript Challenge #JS-152: Find the Second Largest Number in an Array](https://dev.to/dpc/daily-javascript-challenge-js-152-find-the-second-largest-number-in-an-array-naa)
+- [Stop writing XPath. I built a tool to locate web elements using natural language.](https://dev.to/feng_jian_f8d0a9834be/stop-writing-xpath-i-built-a-tool-to-locate-web-elements-using-natural-language-163o)
 <!-- BLOG-POST-LIST:END -->
 
 
