@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Autodetection Comes to Greening](https://dev.to/chrisgreening/github-autodetection-comes-to-greening-1l3p)
-- [20 React One-Liners to Save You Hours ⏳](https://dev.to/joodi/20-react-one-liners-to-save-you-hours-4lf1)
-- [🔍 From Data to Decisions: Understanding Binary Search Trees in JavaScript](https://dev.to/rakeshreddy512/from-data-to-decisions-understanding-binary-search-trees-in-javascript-530e)
-- [New Job, Who Dis?](https://dev.to/blkgrlcto/new-job-who-dis-56oo)
+- [Vibe Check: Securing AI-Generated Code Using MCP](https://dev.to/semgrep/vibe-check-securing-ai-generated-code-using-mcp-4d9n)
+- [Simplifying Design Patterns : Singleton](https://dev.to/bccaxias/simplifying-design-patterns-singleton-13ji)
+- [How to Use AI to Quickly Analyze CSV Data &amp; Get Insights](https://dev.to/astrodevil/how-to-use-ai-to-quickly-analyze-csv-data-get-insights-2npm)
+- [AI Will Take My Job, But Not Today](https://dev.to/protsenko/ai-will-take-my-job-but-not-today-3nae)
 <!-- BLOG-POST-LIST:END -->
 
 
