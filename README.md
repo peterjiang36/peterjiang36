@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Unit Tests for Bash Scripts &lpar;The Simple Way&rpar;](https://dev.to/bobbyiliev/how-to-write-unit-tests-for-bash-scripts-the-simple-way-51di)
-- [Database Migrations with Flyway in Spring Boot](https://dev.to/mspilari/database-migrations-with-flyway-in-spring-boot-5g0a)
-- [JavaScript’s Event Loop — Explained Like You&#39;re Five &lpar;But With More Sarcasm&rpar;](https://dev.to/gauravdalvi/javascripts-event-loop-explained-like-youre-five-but-with-more-sarcasm-3bie)
-- [Pattern Matching con Records en Java](https://dev.to/asjordi/pattern-matching-con-records-en-java-5385)
+- [Game development for frontend: Building with Excalibur.js](https://dev.to/logrocket/game-development-for-frontend-building-with-excaliburjs-1hl3)
+- [We love to see it: A look at AR](https://dev.to/steviepee/we-love-to-see-it-a-look-at-ar-29o4)
+- [Exploring Large Language Models: Transforming the Future of AI](https://dev.to/thi_le_26e54b136ffaa84ad1/exploring-large-language-models-transforming-the-future-of-ai-4be5)
+- [Unlocking the Potential of Large Language Models](https://dev.to/thi_le_26e54b136ffaa84ad1/unlocking-the-potential-of-large-language-models-112e)
 <!-- BLOG-POST-LIST:END -->
 
 
