@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Web Performance With HTTP/2 Server Push and Caching Strategies](https://dev.to/hexshift/optimizing-web-performance-with-http2-server-push-and-caching-strategies-542b)
-- [Dica Rápida: Ganhando desempenho com o modificador Sealed](https://dev.to/wsantosdev/dica-rapida-ganhando-desempenho-com-o-modificador-sealed-2n4l)
-- [Composant Table avec RiotJS](https://dev.to/steeve/composant-table-avec-riotjs-3807)
-- [Automating VMware Tools Upgrades with PowerShell and N-Central](https://dev.to/aroshw/automating-vmware-tools-upgrades-with-powershell-and-n-central-5e7l)
+- [How to Write Unit Tests for Bash Scripts &lpar;The Simple Way&rpar;](https://dev.to/bobbyiliev/how-to-write-unit-tests-for-bash-scripts-the-simple-way-51di)
+- [Database Migrations with Flyway in Spring Boot](https://dev.to/mspilari/database-migrations-with-flyway-in-spring-boot-5g0a)
+- [JavaScript’s Event Loop — Explained Like You&#39;re Five &lpar;But With More Sarcasm&rpar;](https://dev.to/gauravdalvi/javascripts-event-loop-explained-like-youre-five-but-with-more-sarcasm-3bie)
+- [Pattern Matching con Records en Java](https://dev.to/asjordi/pattern-matching-con-records-en-java-5385)
 <!-- BLOG-POST-LIST:END -->
 
 
