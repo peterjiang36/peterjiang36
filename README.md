@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS with Air and GO: No Node, No Problem.](https://dev.to/getjv/tailwind-css-with-air-and-go-no-node-no-problem-3j92)
-- [Why This Matters: Streamlined Deployment for ASP.NET Core on IIS](https://dev.to/destinyobs/why-this-matters-streamlined-deployment-for-aspnet-core-on-iis-1jie)
-- [service mesh explained is out now ! Check it out](https://dev.to/lorebrada00/service-mesh-explained-is-out-now-check-it-out-3ln7)
-- [Failed to load shared library &#39;llama.dll&#39;: Could not find &lpar;llama-cpp-python&rpar;](https://dev.to/jirenmaa/failed-to-load-shared-library-llamadll-could-not-find-llama-cpp-python-5e4l)
+- [GitHub Autodetection Comes to Greening](https://dev.to/chrisgreening/github-autodetection-comes-to-greening-1l3p)
+- [20 React One-Liners to Save You Hours ⏳](https://dev.to/joodi/20-react-one-liners-to-save-you-hours-4lf1)
+- [🔍 From Data to Decisions: Understanding Binary Search Trees in JavaScript](https://dev.to/rakeshreddy512/from-data-to-decisions-understanding-binary-search-trees-in-javascript-530e)
+- [New Job, Who Dis?](https://dev.to/blkgrlcto/new-job-who-dis-56oo)
 <!-- BLOG-POST-LIST:END -->
 
 
