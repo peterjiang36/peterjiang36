@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Authentication Libraries for Next.js in 2025 🔐](https://dev.to/joodi/best-authentication-libraries-for-nextjs-in-2025-5eca)
-- [Cross-Site Scripting &lpar;XSS&rpar; Mitigation Strategies](https://dev.to/omriluz1/cross-site-scripting-xss-mitigation-strategies-3gk5)
-- [Creating Your First OpenSearch Dashboard: A Step-by-Step Tutorial](https://dev.to/mangesh28/creating-your-first-opensearch-dashboard-a-step-by-step-tutorial-45j8)
-- [There are two web game competitions happening now and you should participate in both!](https://dev.to/jess/there-are-two-web-game-competitions-happening-now-and-you-should-participate-in-both-5bhi)
+- [[Boost]](https://dev.to/ggriffin/-3m6l)
+- [Simplifying Pagination in Angular with a Reusable Base Component](https://dev.to/kedar7/simplifying-pagination-in-angular-with-a-reusable-base-component-12jc)
+- [The New Era of Automation: How OWL, CRAB, and MCP Are Bridging the Last Mile](https://dev.to/camelai/the-new-era-of-automation-how-owl-crab-and-mcp-are-bridging-the-last-mile-231a)
+- [The Symphony of the AI System](https://dev.to/trustgraph/the-symphony-of-the-ai-system-4abh)
 <!-- BLOG-POST-LIST:END -->
 
 
