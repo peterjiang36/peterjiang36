@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Ways Palm Vein Recognition Enhances Public Safety and Security](https://dev.to/faceplugin/9-ways-palm-vein-recognition-enhances-public-safety-and-security-3jfj)
-- [MCP+Database: A New Approach with Better Retrieval Effects Than RAG!](https://dev.to/platypus98/mcpdatabase-a-new-approach-with-better-retrieval-effects-than-rag-14gk)
-- [Scaling WebSocket Applications with Redis Pub/Sub for Horizontal Deployment](https://dev.to/hexshift/scaling-websocket-applications-with-redis-pubsub-for-horizontal-deployment-2mb2)
-- [Power Automate: Automate your life pt.2](https://dev.to/coderanger08/power-automate-automate-your-life-pt2-4hmg)
+- [why remix.ide create arcifacts](https://dev.to/himero/why-remixide-create-arcifacts-2ead)
+- [tool in vercel/ai package source code.](https://dev.to/ramunarasinga-11/tool-in-vercelai-package-source-code-46ek)
+- [Why 2025 Is Still a Great Year to Start Learning App Development &lpar;Even If It Feels Tough Right Now&rpar;](https://dev.to/aryanneupane/why-2025-is-still-a-great-year-to-start-learning-app-development-even-if-it-feels-tough-right-now-1emg)
+- [My first blog series Math behind ML](https://dev.to/god_of_geeks/my-first-blog-series-math-behind-ml-hpc)
 <!-- BLOG-POST-LIST:END -->
 
 
