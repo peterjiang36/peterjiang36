@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/uliyahoo/-19kb)
-- [DevOps – Where Speed Meets Stability](https://dev.to/kevin_asutton_/devops-where-speed-meets-stability-348l)
-- [parallelStream&lpar;&rpar; Aninhado: Mais Concorrência, Menos Performance](https://dev.to/hugaomarques/parallelstream-aninhado-mais-concorrencia-menos-performance-1en5)
-- [Building a fully testable Lovable clone agent in Python with Scenario](https://dev.to/rogeriochaves/building-a-fully-testable-lovable-clone-agent-in-python-with-scenario-3h2g)
+- [Ollama + Apple Shortcuts + Voice Control &lpar;Hey Mac! 🚀&rpar;](https://dev.to/ijayasurya/ollama-apple-shortcuts-voice-control-hey-mac--2glk)
+- [Mobile Application](https://dev.to/fiza_345470543db9071e4cc2/mobile-application-ddk)
+- [Mastering Azure API Management Policies with 3 Practical Cases](https://dev.to/martn_belda_4995b3150f89/mastering-azure-api-management-policies-with-3-practical-cases-4g1n)
+- [Polar.sh + BetterAuth for Organizations](https://dev.to/phumudzosly/polarsh-betterauth-for-organizations-1j1b)
 <!-- BLOG-POST-LIST:END -->
 
 
