@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
-- [QuickLook ile Dosyaları Açmadan Önizle](https://dev.to/eagledfc/quicklook-ile-dosyalari-acmadan-onizle-2aab)
-- [LockHunter ile Silinmeyen Dosyaları Kökten Temizle](https://dev.to/eagledfc/lockhunter-ile-silinmeyen-dosyalari-kokten-temizle-53mm)
-- [Internal State: Not Evil, Just Misplaced](https://dev.to/myungsunrex/internal-state-not-evil-just-misplaced-20dh)
+- [ECMAScript Proposals and the TC39 Process](https://dev.to/omriluz1/ecmascript-proposals-and-the-tc39-process-1p4k)
+- [Dynamic Runtime Configuration with Kiponos &amp; Log4j2: A Game-Changer for Developers and DevOps](https://dev.to/kiponos/dynamic-runtime-configuration-with-kiponos-log4j2-a-game-changer-for-developers-and-devops-1g6m)
+- [25 Web Design Trends to Watch in 2025](https://dev.to/watzon/25-web-design-trends-to-watch-in-2025-e83)
+- [🔐 Spring Boot + Vault Configuration with Environment-Aware Setup](https://dev.to/gridou/spring-boot-vault-configuration-with-environment-aware-setup-3aad)
 <!-- BLOG-POST-LIST:END -->
 
 
