@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 best AI coding tools for 2025](https://dev.to/logrocket/the-10-best-ai-coding-tools-for-2025-3pbe)
-- [Yazılım Ustalığının Özü: SOLID ve Temiz Kod ile Kalıcı ve Anlaşılır Sistemler Yaratmak](https://dev.to/abdulkadir_gungor_86/yazilim-ustaliginin-ozu-solid-ve-temiz-kod-ile-kalici-ve-anlasilir-sistemler-yaratmak-15fb)
-- [Build a multi-agent RAG system with Granite locally](https://dev.to/ibmdeveloper/build-a-multi-agent-rag-system-with-granite-locally-oke)
-- [ITSM Knowledge Management: Why It&#39;s Crucial](https://dev.to/kapusto/itsm-knowledge-management-why-its-crucial-3b5e)
+- [[Boost]](https://dev.to/uliyahoo/-19kb)
+- [DevOps – Where Speed Meets Stability](https://dev.to/kevin_asutton_/devops-where-speed-meets-stability-348l)
+- [parallelStream&lpar;&rpar; Aninhado: Mais Concorrência, Menos Performance](https://dev.to/hugaomarques/parallelstream-aninhado-mais-concorrencia-menos-performance-1en5)
+- [Building a fully testable Lovable clone agent in Python with Scenario](https://dev.to/rogeriochaves/building-a-fully-testable-lovable-clone-agent-in-python-with-scenario-3h2g)
 <!-- BLOG-POST-LIST:END -->
 
 
