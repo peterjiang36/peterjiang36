@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing Fugitive Emissions with Stainless Steel Valves](https://dev.to/dee_galleno_fe0dfdce11410/reducing-fugitive-emissions-with-stainless-steel-valves-49cc)
-- [🚧 My Bitcoin Wallet Development in Rust &lpar;Testnet&rpar;](https://dev.to/_56d7718cea8fe00ec1610/my-bitcoin-wallet-development-in-rust-testnet-1lhg)
-- [I Use This Golden Cursorrule to Improve Everything with Cursor](https://dev.to/lynn_mikami_e94e5b9ad7daf/i-use-this-golden-cursorrule-to-improve-everything-with-cursor-4e09)
-- [Understanding `async`, `.await`, and `block_on&lpar;&rpar;` in Rust &lpar;with Real Examples&rpar;](https://dev.to/_56d7718cea8fe00ec1610/understanding-async-await-and-blockon-in-rust-with-real-examples-3clh)
+- [How Guardius Supercharges Google Lighthouse for Seamless Web Performance Audits](https://dev.to/guardius/how-guardius-supercharges-google-lighthouse-for-seamless-web-performance-audits-38h2)
+- [Infraestructura como Código: Automatizando el Futuro de la Nube](https://dev.to/juanca_sleiman/infraestructura-como-codigo-automatizando-el-futuro-de-la-nube-3epj)
+- [Menggunakan spesial karakter password di WSO2 APIM](https://dev.to/agusmerdeko/menggunakan-spesial-karakter-password-di-wso2-apim-4ap2)
+- [Your Own Notion in a Weekend: Next.js Meets Ember Link](https://dev.to/elijah_johnson/your-own-notion-in-a-weekend-nextjs-meets-ember-link-43mc)
 <!-- BLOG-POST-LIST:END -->
 
 
