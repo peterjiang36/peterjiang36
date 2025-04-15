@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Customize Widgets in Django Forms](https://dev.to/guzmanojero/how-to-customize-widgets-in-django-forms-51n9)
-- [Exploring elixir processes using merge sort](https://dev.to/w3ndo/exploring-elixir-processes-using-merge-sort-27m2)
-- [Unlocking the Power of Vim: A Beginner’s Journey to Efficient, Mindful Editing](https://dev.to/ibrahim_morakinyo_8f47965/unlocking-the-power-of-vim-a-beginners-journey-to-efficient-mindful-editing-14gh)
-- [Can AI Be the Perfect Companion? How AI Chatbots Are Redefining Relationships](https://dev.to/carl_tyson/can-ai-be-the-perfect-companion-how-ai-chatbots-are-redefining-relationships-4c1k)
+- [Rust Tutorial: Mastering Strings with Real Examples](https://dev.to/ouma_ouma/rust-tutorial-mastering-strings-with-real-examples-pb1)
+- [Programming Fundamentals](https://dev.to/mr_wairimu/programming-fundamentals-j2k)
+- [Enterprise Networks Unveiled: A Software Engineer&#39;s Guide to the Basics &lpar;Part 7&rpar;](https://dev.to/prince_of_pasta/enterprise-networks-unveiled-a-software-engineers-guide-to-the-basics-part-7-5d9)
+- [🚀 Introducing Appaveli CLI: Instantly Generate Java DAO and Domain Classes from Your Terminal](https://dev.to/dominque_terry_852760387b/introducing-appaveli-cli-instantly-generate-java-dao-and-domain-classes-from-your-terminal-26me)
 <!-- BLOG-POST-LIST:END -->
 
 
