@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Should a Flask Developer Use MongoDB?](https://dev.to/mongodb/why-should-a-flask-developer-use-mongodb-3c02)
-- [Blog Draft Top Ai Trends Transforming Software Development In 2025 20250415 162901](https://dev.to/supreme_c94d2e21f71444c89/blog-draft-top-ai-trends-transforming-software-development-in-2025-20250415-162901-1o0a)
-- [Save hours on your next project — React &amp; Node.js Secure Login Boilerplate &lpar;AuthKit&rpar;](https://dev.to/demama7/save-hours-on-your-next-project-react-nodejs-secure-login-boilerplate-authkit-2a9n)
-- [Building a Screensaver Website 🖥️ Using Bing Photo of the Day API 📷☀️](https://dev.to/reynaldi/building-a-screensaver-website-using-bing-photo-of-the-day-api-4205)
+- [Improve App Speed &amp; Reliability with a Cross Platform Development Solution](https://dev.to/tylermorganaqe/improve-app-speed-reliability-with-a-cross-platform-development-solution-5nh)
+- [Difference between Database and DBMS](https://dev.to/khushii_34ceada974a6bfcc2/difference-between-database-and-dbms-2heo)
+- [Implementing Distributed Locks in .NET Core with Redis or ZooKeeper](https://dev.to/hamed_salameh/implementing-distributed-locks-in-net-core-with-redis-or-zookeeper-17p5)
+- [Closuer love story](https://dev.to/naweli_verma/clouser-love-story-11lf)
 <!-- BLOG-POST-LIST:END -->
 
 
