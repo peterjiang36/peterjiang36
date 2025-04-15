@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Estuve a punto de crear una especie de Health Tech SAAS...](https://dev.to/paulmarclay/estuve-a-punto-de-crear-una-especie-de-health-tech-saas-4e1n)
-- [PostgreSQL JSONB Indexing Limitations with B-Tree and GIN](https://dev.to/franckpachot/postgresql-jsonb-indexing-limitations-with-b-tree-and-gin-3851)
-- [Noobies](https://dev.to/contractorx/noobies-2ign)
-- [Using GitHub Models with Semantic Kernel](https://dev.to/willvelida/using-github-models-with-semantic-kernel-2kmp)
+- [Cypress — How to Create a Merge Report in your Pipeline](https://dev.to/cydavid/cypress-how-to-create-a-merge-report-in-your-pipeline-3c0j)
+- [Cypress — How to Create a Merge Report in your Pipeline](https://dev.to/cydavid/cypress-how-to-create-a-merge-report-in-your-pipeline-pa8)
+- [Day 1141 : Live from Florida](https://dev.to/dwane/day-1141-live-from-florida-3f6)
+- [Mintlify vs. Readme: Comparing in 2025](https://dev.to/tiffany-mintlify/mintlify-vs-readme-comparing-in-2025-5343)
 <!-- BLOG-POST-LIST:END -->
 
 
