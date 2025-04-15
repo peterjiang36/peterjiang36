@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evita la trampa del Scheduling en Kubernetes: Por qué todos tus Pods pueden caer juntos &lpar;y cómo evitarlo&rpar;](https://dev.to/aws-espanol/evita-la-trampa-del-scheduling-en-kubernetes-por-que-todos-tus-pods-pueden-caer-juntos-y-como-2hl3)
-- [The different cloud deployment models &lpar;Public, Private, Hybrid&rpar; and their use cases with azure cloud services.](https://dev.to/oghenesuvwe/the-different-cloud-deployment-models-public-private-hybrid-and-their-use-cases-with-azure-1hjp)
-- [Contact Form | Frontend Project #1](https://dev.to/nimusoes/contact-form-frontend-project-1-148k)
-- [Developing a Web MRZ and VIN Scanner with JavaScript and HTML5](https://dev.to/yushulx/developing-a-web-mrz-and-vin-scanner-with-javascript-and-html5-5go5)
+- [[Boost]](https://dev.to/dhanush___b/-2mhl)
+- [The Art of Serialization: JSON Sips Tea, Protobuf Chugs Espresso](https://dev.to/dhanush___b/the-art-of-serialization-json-sips-tea-protobuf-chugs-espresso-10pg)
+- [Progressive Web App Vs. Native App Development: What Should You Pick and Why?](https://dev.to/stevejacob45678/progressive-web-app-vs-native-app-development-what-should-you-pick-and-why-5ph)
+- [Developers should have been replaced a long time ago. 🤔](https://dev.to/ragutislt/developers-should-have-been-replaced-a-long-time-ago-49pj)
 <!-- BLOG-POST-LIST:END -->
 
 
