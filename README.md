@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama + Apple Shortcuts + Voice Control &lpar;Hey Mac! 🚀&rpar;](https://dev.to/ijayasurya/ollama-apple-shortcuts-voice-control-hey-mac--2glk)
-- [Mobile Application](https://dev.to/fiza_345470543db9071e4cc2/mobile-application-ddk)
-- [Mastering Azure API Management Policies with 3 Practical Cases](https://dev.to/martn_belda_4995b3150f89/mastering-azure-api-management-policies-with-3-practical-cases-4g1n)
-- [Polar.sh + BetterAuth for Organizations](https://dev.to/phumudzosly/polarsh-betterauth-for-organizations-1j1b)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3al2)
+- [Who is Nemer Adel?](https://dev.to/techexplorer/who-is-nemer-adel-546l)
+- [I made my own open-source BAAS for small apps](https://dev.to/kiraaziz/i-made-my-own-open-source-baas-for-small-apps-261c)
+- [The Future of Workplace Productivity - AI and Automation Trends](https://dev.to/taskframe/the-future-of-workplace-productivity-ai-and-automation-trends-mgh)
 <!-- BLOG-POST-LIST:END -->
 
 
