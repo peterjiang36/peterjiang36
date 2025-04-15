@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve App Speed &amp; Reliability with a Cross Platform Development Solution](https://dev.to/tylermorganaqe/improve-app-speed-reliability-with-a-cross-platform-development-solution-5nh)
-- [Difference between Database and DBMS](https://dev.to/khushii_34ceada974a6bfcc2/difference-between-database-and-dbms-2heo)
-- [Implementing Distributed Locks in .NET Core with Redis or ZooKeeper](https://dev.to/hamed_salameh/implementing-distributed-locks-in-net-core-with-redis-or-zookeeper-17p5)
-- [Closuer love story](https://dev.to/naweli_verma/clouser-love-story-11lf)
+- [Microservices: Because Monoliths Are So 2009](https://dev.to/gauravdalvi/microservices-because-monoliths-are-so-2009-5le)
+- [Creating Fluid Animations with Framer Motion](https://dev.to/techieeliot/creating-fluid-animations-with-framer-motion-30e6)
+- [The Uncomfortable Truth: You&#39;ll Always Feel Behind in Software Development](https://dev.to/wraith/the-uncomfortable-truth-youll-always-feel-behind-in-software-development-ho)
+- [Using the Momento Topics HTTP API to Update Nixie Tubes](https://dev.to/recursivecodes/using-the-momento-topics-http-api-to-update-nixie-tubes-3d18)
 <!-- BLOG-POST-LIST:END -->
 
 
