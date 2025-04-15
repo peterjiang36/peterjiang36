@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My first game](https://dev.to/marco_polo/my-first-game-1n9f)
-- [Top Benefits of Cloud Services for Small and Large Companies](https://dev.to/astutemarketing/top-benefits-of-cloud-services-for-small-and-large-companies-2e10)
-- [Why Not Overengineer? Tic-Tac-Toe’s AI Chaos](https://dev.to/altug_gokoglu/why-not-overengineer-tic-tac-toes-ai-chaos-1icm)
-- [[Boost]](https://dev.to/dorcas_bwire/-3b1m)
+- [Why Should a Flask Developer Use MongoDB?](https://dev.to/mongodb/why-should-a-flask-developer-use-mongodb-3c02)
+- [Blog Draft Top Ai Trends Transforming Software Development In 2025 20250415 162901](https://dev.to/supreme_c94d2e21f71444c89/blog-draft-top-ai-trends-transforming-software-development-in-2025-20250415-162901-1o0a)
+- [Save hours on your next project — React &amp; Node.js Secure Login Boilerplate &lpar;AuthKit&rpar;](https://dev.to/demama7/save-hours-on-your-next-project-react-nodejs-secure-login-boilerplate-authkit-2a9n)
+- [Building a Screensaver Website 🖥️ Using Bing Photo of the Day API 📷☀️](https://dev.to/reynaldi/building-a-screensaver-website-using-bing-photo-of-the-day-api-4205)
 <!-- BLOG-POST-LIST:END -->
 
 
