@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter and AWS: How to setup and use Brighter with AWS SNS/SQS](https://dev.to/actor-dev/integrating-brighter-with-aws-snssqs-building-scalable-message-driven-systems-in-net-33ib)
-- [Exploring Warp Terminal: A Modern Approach to Command Line Productivity](https://dev.to/omriluz1/exploring-warp-terminal-a-modern-approach-to-command-line-productivity-hpc)
-- [[Boost]](https://dev.to/tasmiarahmantanjin/-1n55)
-- [Exploring the Future of Web Automation with Headless Browser](https://dev.to/swiftproxy_residential/exploring-the-future-of-web-automation-with-headless-browser-1n18)
+- [CloudTest Pro – Enterprise-Grade Performance and Functional Testing](https://dev.to/berthaw82414312/cloudtest-pro-enterprise-grade-performance-and-functional-testing-1bop)
+- [I made the world first shopping AI chatbot, by MCP like approach, and avoided pink slip](https://dev.to/samchon/i-made-the-world-first-shopping-ai-chatbot-by-mcp-like-approach-and-avoided-pink-slip-5f5m)
+- [Are LLMs Just ETL Pipelines on Steroids? Rethinking AI Training](https://dev.to/ayazmirza54/are-llms-just-etl-pipelines-on-steroids-rethinking-ai-training-1i0c)
+- [Mastering Linux File Permissions: The Ultimate Guide.](https://dev.to/vishnutejas/mastering-linux-file-permissions-the-ultimate-guide-4223)
 <!-- BLOG-POST-LIST:END -->
 
 
