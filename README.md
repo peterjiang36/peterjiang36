@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [why remix.ide create arcifacts](https://dev.to/himero/why-remixide-create-arcifacts-2ead)
-- [tool in vercel/ai package source code.](https://dev.to/ramunarasinga-11/tool-in-vercelai-package-source-code-46ek)
-- [Why 2025 Is Still a Great Year to Start Learning App Development &lpar;Even If It Feels Tough Right Now&rpar;](https://dev.to/aryanneupane/why-2025-is-still-a-great-year-to-start-learning-app-development-even-if-it-feels-tough-right-now-1emg)
-- [My first blog series Math behind ML](https://dev.to/god_of_geeks/my-first-blog-series-math-behind-ml-hpc)
+- [How to build SER model?](https://dev.to/joepaulvilsan_7/how-to-build-ser-model-23da)
+- [Top 9 React JS Frameworks Developers Are Using in 2025](https://dev.to/brilworks/top-9-react-js-frameworks-developers-are-using-in-2025-4ff)
+- [Top 10 Icon Libraries for Next.js - 2025](https://dev.to/icons/icon-libraries-for-nextjs-1915)
+- [Boost your developer productivity and streamline your workflow with Kanban boards—discover step-by-step setup tips, real-world examples](https://dev.to/nikhil_sachapara/boost-your-developer-productivity-and-streamline-your-workflow-with-kanban-boards-discover-de6)
 <!-- BLOG-POST-LIST:END -->
 
 
