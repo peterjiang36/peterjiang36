@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Draft Ai Technologies And Monetization Strategies 20250415 232449](https://dev.to/pponali/blog-draft-ai-technologies-and-monetization-strategies-20250415-232449-4l35)
-- [Docker compose - MariaDB -- EN](https://dev.to/xandecodes/docker-compose-mariadb-en-19pl)
-- [Mastering Go&#39;s Empty Interface: Powerful Uses and Hidden Traps](https://dev.to/shrsv/mastering-gos-empty-interface-powerful-uses-and-hidden-traps-3kb2)
-- [Nested parallelStream&lpar;&rpar;: More Concurrency, Less Performance](https://dev.to/hugaomarques/nested-parallelstream-more-concurrency-less-performance-40i4)
+- [Liman Çekirdek 2.2 Duyuruldu](https://dev.to/liman/liman-cekirdek-22-duyuruldu-1e1k)
+- [QuickLook ile Dosyaları Açmadan Önizle](https://dev.to/eagledfc/quicklook-ile-dosyalari-acmadan-onizle-2aab)
+- [LockHunter ile Silinmeyen Dosyaları Kökten Temizle](https://dev.to/eagledfc/lockhunter-ile-silinmeyen-dosyalari-kokten-temizle-53mm)
+- [Internal State: Not Evil, Just Misplaced](https://dev.to/myungsunrex/internal-state-not-evil-just-misplaced-20dh)
 <!-- BLOG-POST-LIST:END -->
 
 
