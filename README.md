@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dhanush___b/-2mhl)
-- [The Art of Serialization: JSON Sips Tea, Protobuf Chugs Espresso](https://dev.to/dhanush___b/the-art-of-serialization-json-sips-tea-protobuf-chugs-espresso-10pg)
-- [Progressive Web App Vs. Native App Development: What Should You Pick and Why?](https://dev.to/stevejacob45678/progressive-web-app-vs-native-app-development-what-should-you-pick-and-why-5ph)
-- [Developers should have been replaced a long time ago. 🤔](https://dev.to/ragutislt/developers-should-have-been-replaced-a-long-time-ago-49pj)
+- [Brighter and AWS: How to setup and use Brighter with AWS SNS/SQS](https://dev.to/actor-dev/integrating-brighter-with-aws-snssqs-building-scalable-message-driven-systems-in-net-33ib)
+- [Exploring Warp Terminal: A Modern Approach to Command Line Productivity](https://dev.to/omriluz1/exploring-warp-terminal-a-modern-approach-to-command-line-productivity-hpc)
+- [[Boost]](https://dev.to/tasmiarahmantanjin/-1n55)
+- [Exploring the Future of Web Automation with Headless Browser](https://dev.to/swiftproxy_residential/exploring-the-future-of-web-automation-with-headless-browser-1n18)
 <!-- BLOG-POST-LIST:END -->
 
 
