@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Guardius Supercharges Google Lighthouse for Seamless Web Performance Audits](https://dev.to/guardius/how-guardius-supercharges-google-lighthouse-for-seamless-web-performance-audits-38h2)
-- [Infraestructura como Código: Automatizando el Futuro de la Nube](https://dev.to/juanca_sleiman/infraestructura-como-codigo-automatizando-el-futuro-de-la-nube-3epj)
-- [Menggunakan spesial karakter password di WSO2 APIM](https://dev.to/agusmerdeko/menggunakan-spesial-karakter-password-di-wso2-apim-4ap2)
-- [Your Own Notion in a Weekend: Next.js Meets Ember Link](https://dev.to/elijah_johnson/your-own-notion-in-a-weekend-nextjs-meets-ember-link-43mc)
+- [9 Ways Palm Vein Recognition Enhances Public Safety and Security](https://dev.to/faceplugin/9-ways-palm-vein-recognition-enhances-public-safety-and-security-3jfj)
+- [MCP+Database: A New Approach with Better Retrieval Effects Than RAG!](https://dev.to/platypus98/mcpdatabase-a-new-approach-with-better-retrieval-effects-than-rag-14gk)
+- [Scaling WebSocket Applications with Redis Pub/Sub for Horizontal Deployment](https://dev.to/hexshift/scaling-websocket-applications-with-redis-pubsub-for-horizontal-deployment-2mb2)
+- [Power Automate: Automate your life pt.2](https://dev.to/coderanger08/power-automate-automate-your-life-pt2-4hmg)
 <!-- BLOG-POST-LIST:END -->
 
 
