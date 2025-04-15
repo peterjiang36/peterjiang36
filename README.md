@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices: Because Monoliths Are So 2009](https://dev.to/gauravdalvi/microservices-because-monoliths-are-so-2009-5le)
-- [Creating Fluid Animations with Framer Motion](https://dev.to/techieeliot/creating-fluid-animations-with-framer-motion-30e6)
-- [The Uncomfortable Truth: You&#39;ll Always Feel Behind in Software Development](https://dev.to/wraith/the-uncomfortable-truth-youll-always-feel-behind-in-software-development-ho)
-- [Using the Momento Topics HTTP API to Update Nixie Tubes](https://dev.to/recursivecodes/using-the-momento-topics-http-api-to-update-nixie-tubes-3d18)
+- [The 10 best AI coding tools for 2025](https://dev.to/logrocket/the-10-best-ai-coding-tools-for-2025-3pbe)
+- [Yazılım Ustalığının Özü: SOLID ve Temiz Kod ile Kalıcı ve Anlaşılır Sistemler Yaratmak](https://dev.to/abdulkadir_gungor_86/yazilim-ustaliginin-ozu-solid-ve-temiz-kod-ile-kalici-ve-anlasilir-sistemler-yaratmak-15fb)
+- [Build a multi-agent RAG system with Granite locally](https://dev.to/ibmdeveloper/build-a-multi-agent-rag-system-with-granite-locally-oke)
+- [ITSM Knowledge Management: Why It&#39;s Crucial](https://dev.to/kapusto/itsm-knowledge-management-why-its-crucial-3b5e)
 <!-- BLOG-POST-LIST:END -->
 
 
