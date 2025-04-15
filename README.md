@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Tutorial: Mastering Strings with Real Examples](https://dev.to/ouma_ouma/rust-tutorial-mastering-strings-with-real-examples-pb1)
-- [Programming Fundamentals](https://dev.to/mr_wairimu/programming-fundamentals-j2k)
-- [Enterprise Networks Unveiled: A Software Engineer&#39;s Guide to the Basics &lpar;Part 7&rpar;](https://dev.to/prince_of_pasta/enterprise-networks-unveiled-a-software-engineers-guide-to-the-basics-part-7-5d9)
-- [🚀 Introducing Appaveli CLI: Instantly Generate Java DAO and Domain Classes from Your Terminal](https://dev.to/dominque_terry_852760387b/introducing-appaveli-cli-instantly-generate-java-dao-and-domain-classes-from-your-terminal-26me)
+- [Reducing Fugitive Emissions with Stainless Steel Valves](https://dev.to/dee_galleno_fe0dfdce11410/reducing-fugitive-emissions-with-stainless-steel-valves-49cc)
+- [🚧 My Bitcoin Wallet Development in Rust &lpar;Testnet&rpar;](https://dev.to/_56d7718cea8fe00ec1610/my-bitcoin-wallet-development-in-rust-testnet-1lhg)
+- [I Use This Golden Cursorrule to Improve Everything with Cursor](https://dev.to/lynn_mikami_e94e5b9ad7daf/i-use-this-golden-cursorrule-to-improve-everything-with-cursor-4e09)
+- [Understanding `async`, `.await`, and `block_on&lpar;&rpar;` in Rust &lpar;with Real Examples&rpar;](https://dev.to/_56d7718cea8fe00ec1610/understanding-async-await-and-blockon-in-rust-with-real-examples-3clh)
 <!-- BLOG-POST-LIST:END -->
 
 
