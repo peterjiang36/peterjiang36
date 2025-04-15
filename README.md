@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudTest Pro – Enterprise-Grade Performance and Functional Testing](https://dev.to/berthaw82414312/cloudtest-pro-enterprise-grade-performance-and-functional-testing-1bop)
-- [I made the world first shopping AI chatbot, by MCP like approach, and avoided pink slip](https://dev.to/samchon/i-made-the-world-first-shopping-ai-chatbot-by-mcp-like-approach-and-avoided-pink-slip-5f5m)
-- [Are LLMs Just ETL Pipelines on Steroids? Rethinking AI Training](https://dev.to/ayazmirza54/are-llms-just-etl-pipelines-on-steroids-rethinking-ai-training-1i0c)
-- [Mastering Linux File Permissions: The Ultimate Guide.](https://dev.to/vishnutejas/mastering-linux-file-permissions-the-ultimate-guide-4223)
+- [My first game](https://dev.to/marco_polo/my-first-game-1n9f)
+- [Top Benefits of Cloud Services for Small and Large Companies](https://dev.to/astutemarketing/top-benefits-of-cloud-services-for-small-and-large-companies-2e10)
+- [Why Not Overengineer? Tic-Tac-Toe’s AI Chaos](https://dev.to/altug_gokoglu/why-not-overengineer-tic-tac-toes-ai-chaos-1icm)
+- [[Boost]](https://dev.to/dorcas_bwire/-3b1m)
 <!-- BLOG-POST-LIST:END -->
 
 
