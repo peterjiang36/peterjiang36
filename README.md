@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ECMAScript Proposals and the TC39 Process](https://dev.to/omriluz1/ecmascript-proposals-and-the-tc39-process-1p4k)
-- [Dynamic Runtime Configuration with Kiponos &amp; Log4j2: A Game-Changer for Developers and DevOps](https://dev.to/kiponos/dynamic-runtime-configuration-with-kiponos-log4j2-a-game-changer-for-developers-and-devops-1g6m)
-- [25 Web Design Trends to Watch in 2025](https://dev.to/watzon/25-web-design-trends-to-watch-in-2025-e83)
-- [🔐 Spring Boot + Vault Configuration with Environment-Aware Setup](https://dev.to/gridou/spring-boot-vault-configuration-with-environment-aware-setup-3aad)
+- [Estuve a punto de crear una especie de Health Tech SAAS...](https://dev.to/paulmarclay/estuve-a-punto-de-crear-una-especie-de-health-tech-saas-4e1n)
+- [PostgreSQL JSONB Indexing Limitations with B-Tree and GIN](https://dev.to/franckpachot/postgresql-jsonb-indexing-limitations-with-b-tree-and-gin-3851)
+- [Noobies](https://dev.to/contractorx/noobies-2ign)
+- [Using GitHub Models with Semantic Kernel](https://dev.to/willvelida/using-github-models-with-semantic-kernel-2kmp)
 <!-- BLOG-POST-LIST:END -->
 
 
