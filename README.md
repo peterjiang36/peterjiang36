@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Is Here — But Is It Safe?](https://dev.to/trixsec/agentic-ai-is-here-but-is-it-safe-27f8)
-- [Introduction to SQL for data science](https://dev.to/mungaime25/introduction-to-sql-for-data-science-mom)
-- [✨ Deploying MongoDB Atlas on AWS EKS Using Terraform Like a Pro💡with automated secrets and dynamic environments](https://dev.to/sagark4578/deploying-mongodb-atlas-on-aws-eks-using-terraform-like-a-prowith-automated-secrets-and-dynamic-1dho)
-- [What is `ssh` in Web Development?](https://dev.to/pravinjadhav/what-is-ssh-in-web-development-5c5a)
+- [⏰ Time-Travelling JavaScript, Smart CSS Cursors &amp; Product Team Tips](https://dev.to/adam/time-travelling-javascript-smart-css-cursors-product-team-tips-4no2)
+- [Typescript to Know for React](https://dev.to/_ndeyefatoudiop/typescript-to-know-for-react-2p02)
+- [Digitlo – Exploring Digital Assets, Blockchain, and Tech Trends](https://dev.to/mantasha_faheemuddin_8a32/digitlo-exploring-digital-assets-blockchain-and-tech-trends-56n7)
+- [Mastering AWS Cost Optimization: Practical Tips to Save Big!](https://dev.to/aws-builders/mastering-aws-cost-optimization-practical-tips-to-save-big-3cao)
 <!-- BLOG-POST-LIST:END -->
 
 
