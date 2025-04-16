@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortcode](https://dev.to/david_bermenvliz/shortcode-1mm0)
-- [Blog Draft Trends Ethics And Monetization Strategies In Ai Technologies 20250416 063637](https://dev.to/pponali/blog-draft-trends-ethics-and-monetization-strategies-in-ai-technologies-20250416-063637-3dl3)
-- [Implementando Arquitetura VIP em um App iOS com Swift](https://dev.to/lys/implementando-arquitetura-vip-em-um-app-ios-com-swift-59fl)
-- [Day-25: Constructor](https://dev.to/pavithra_c_butterfly/day-25-constructor-573n)
+- [Find the Superset from the Relationship Table — From SQL to SPL #19](https://dev.to/judith677/find-the-superset-from-the-relationship-table-from-sql-to-spl-19-1p4o)
+- [WebAssembly &lpar;Wasm&rpar; in DevOps: Why It’s the Next Big Thing](https://dev.to/yash_sonawane25/webassembly-wasm-in-devops-why-its-the-next-big-thing-4m76)
+- [Databricks Asset Bundle: A Template to Make Life Easier](https://dev.to/sacode/databricks-asset-bundle-a-template-to-make-life-easier-13f2)
+- [What’s Pythonic way to handle exceptions?](https://dev.to/the_medicaltreasure_cf3a/whats-pythonic-way-to-handle-exceptions-115e)
 <!-- BLOG-POST-LIST:END -->
 
 
