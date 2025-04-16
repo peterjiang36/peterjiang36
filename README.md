@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adaptive Compression for Cache Systems with Hexagonal Architecture](https://dev.to/aws-builders/adaptive-compression-for-cache-systems-with-hexagonal-architecture-560e)
-- [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
-- [Programing session Armstrang Number](https://dev.to/sugumar_r_a5f301adf1fb49a/programing-session-armstrang-number-55gn)
-- [Top 10+ Tailwind Plus &lpar;Tailwind UI&rpar; Alternatives - 2025](https://dev.to/tailwindcss/tailwind-plus-alternatives-g0l)
+- [5. Responsive Sliding Carousel &lpar;CSS Animation Journey Collection&rpar;](https://dev.to/preetha_vaishnavi_2b82358/5-responsive-sliding-carousel-css-animation-journey-collection-41kk)
+- [AI and Decision Pulse: How Technology Enhances Decision-Making](https://dev.to/tableautopowerbimigration/ai-and-decision-pulse-how-technology-enhances-decision-making-3od2)
+- [React Latest Version: Exploring New Features &amp; Updates](https://dev.to/brilworks/react-latest-version-exploring-new-features-updates-23m1)
+- [Blog Draft Ai Technologies And Monetization Strategies 20250416 102148](https://dev.to/pponali/blog-draft-ai-technologies-and-monetization-strategies-20250416-102148-clg)
 <!-- BLOG-POST-LIST:END -->
 
 
