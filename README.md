@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Custom Playground to your LLM application](https://dev.to/agenta/create-a-custom-playground-to-your-llm-application-21j0)
-- [Exploring how student innovators benefit from attending global artificial intelligence summits](https://dev.to/marufhossain/exploring-how-student-innovators-benefit-from-attending-global-artificial-intelligence-summits-4dek)
-- [Let&#39;s go!](https://dev.to/ben/lets-go-4kp5)
-- [My understanding Access modifier 🔐](https://dev.to/elayaraj_c_04396748f52a1c/my-understanding-access-modifier-555f)
+- [The Coming Collapse of White Collar Illusions](https://dev.to/noah_street_d0755cbf9a58d/the-coming-collapse-of-white-collar-illusions-56ge)
+- [Looking for a Passionate React Dev &lpar;Student-Friendly Collab Opportunity!&rpar;](https://dev.to/swapnilcs775/looking-for-a-passionate-react-dev-student-friendly-collab-opportunity-19pn)
+- [🚀 Stop Learning and Start Building: The Developer’s Path to Mastery](https://dev.to/ernest_litsa_6cbeed4e5669/stop-learning-and-start-building-the-developers-path-to-mastery-3ig3)
+- [Build a React File Sharing App with Granular Access Controls &lpar;ReBAC&rpar;](https://dev.to/astrodevil/build-a-react-file-sharing-app-with-granular-access-controls-rebac-ka4)
 <!-- BLOG-POST-LIST:END -->
 
 
