@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development using Off-Stack Languages&lpar;Python,Rust,..&rpar;](https://dev.to/jyo561/web-development-using-off-stack-languagespythonrust-1bd6)
-- [Business Logic vs. Application Logic in Systems Design](https://dev.to/msnmongare/business-logic-vs-application-logic-in-systems-design-17ip)
-- [Mastering PostgreSQL CTEs: Recursive Queries for Hierarchical Data](https://dev.to/hexshift/mastering-postgresql-ctes-recursive-queries-for-hierarchical-data-4ool)
-- [Advanced Full-Text Search in PostgreSQL: Beyond the Basics](https://dev.to/hexshift/advanced-full-text-search-in-postgresql-beyond-the-basics-442b)
+- [Optimizing PostgreSQL Queries With Indexes: A Practical Deep Dive](https://dev.to/hexshift/optimizing-postgresql-queries-with-indexes-a-practical-deep-dive-2lco)
+- [A UML Use-Case Analysis of an Online Shopping System: Actors, Use Cases, and Relationships](https://dev.to/alex_ricciardi/a-uml-use-case-analysis-of-an-online-shopping-system-actors-use-cases-and-relationships-4ioh)
+- [Depende](https://dev.to/david_bermenvliz/depende-1dkp)
+- [Daily JavaScript Challenge #JS-154: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-154-convert-snake-case-to-camel-case-48ce)
 <!-- BLOG-POST-LIST:END -->
 
 
