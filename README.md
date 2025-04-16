@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging a 500 Error in Amplify Gen 2 SSR with DynamoDB &lpar;Solved&rpar;](https://dev.to/soulsbossdev/debugging-a-500-error-in-amplify-gen-2-ssr-with-dynamodb-solved-m50)
-- [From Designer to Developer: Build Pixel-Perfect Components from Figma Using AI](https://dev.to/yahav10/from-designer-to-developer-build-pixel-perfect-components-from-figma-using-ai-13i0)
-- [Access modifier](https://dev.to/sugumar_r_a5f301adf1fb49a/access-modifier-5c53)
-- [Criando um microserviço de organização de decks Yu-Gi-Oh com Spring Boot — Parte 02](https://dev.to/odevpedro/criando-um-microservico-de-organizacao-de-decks-yu-gi-oh-com-spring-boot-parte-2-2o5d)
+- [Overcoming AI Resource Constraints: Strategies for Building the Right Team](https://dev.to/mindsdb/overcoming-ai-resource-constraints-strategies-for-building-the-right-team-3jfd)
+- [Sr PHP Engineer role - REMOTE - EMEA region](https://dev.to/mailerlite/sr-php-engineer-role-open-remote-emea-region-1g9p)
+- [Patrón](https://dev.to/david_bermenvliz/patron-1i6a)
+- [Aleatorio y patrón](https://dev.to/david_bermenvliz/aleatorio-y-patron-5fk4)
 <!-- BLOG-POST-LIST:END -->
 
 
