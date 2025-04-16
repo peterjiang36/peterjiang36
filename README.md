@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for ESG Reporting Using Real-Time RAG and Live Data Streams](https://dev.to/mansi711/ai-for-esg-reporting-using-real-time-rag-and-live-data-streams-7nh)
-- [Building My AI SaaS App](https://dev.to/sushilmagare10/building-my-ai-saas-app-4mif)
-- [Monitoring Logged-In Users in Linux &lpar;Day 7 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/monitoring-logged-in-users-in-linux-day-7-of-30-2clj)
-- [React Frontend L2 Round Interview Question &amp; Answer](https://dev.to/mushfiqbh/react-frontend-l2-round-interview-question-answer-n9b)
+- [Apostrophe 4.15.0: In-Context Live Preview, Enhanced Tables, and Translation Tools](https://dev.to/stuartromanek/apostrophe-4150-in-context-live-preview-enhanced-tables-and-translation-tools-46e1)
+- [Build Smarter Web Automation with ActionChain](https://dev.to/feng_jian_f8d0a9834be/build-smarter-web-automation-with-actionchain-1168)
+- [What the Heck Is Linux, and Why You Should Bother Learning It &lpar;Especially Red Hat&rpar; in 2025](https://dev.to/higgs182092/what-the-heck-is-linux-and-why-you-should-bother-learning-it-especially-red-hat-in-2025-45jn)
+- [Are you a programmer? Ever use Python? Have you seen the list of reserved keywords that are off-limits? Read Quark&#39;s Outlines: Python Names and Keywords. Find out now.](https://dev.to/mike-vincent/are-you-a-programmer-ever-use-python-have-you-seen-the-list-of-reserved-keywords-that-are-501e)
 <!-- BLOG-POST-LIST:END -->
 
 
