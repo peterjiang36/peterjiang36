@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Code Like A Pro: Mastering The SOLID Principles](https://dev.to/gauravdalvi/write-code-like-a-pro-mastering-the-solid-principles-e8)
-- [what is use of ESLint ?](https://dev.to/tahir_rafique/what-is-use-of-eslint--412c)
-- [Building a Self-Healing CI/CD Pipeline on GitLab](https://dev.to/thiru_g/building-a-self-healing-cicd-pipeline-on-gitlab-1fn3)
-- [2537. Count the Number of Good Subarrays](https://dev.to/mdarifulhaque/2537-count-the-number-of-good-subarrays-b27)
+- [Access modifiers in Java](https://dev.to/vasutamil19/access-modifiers-in-java-1b0p)
+- [[Boost]](https://dev.to/nevodavid/-p4a)
+- [E se eu fisse meu próprio sistema de documentação?](https://dev.to/paulopilotti/e-se-eu-fisse-meu-proprio-sistema-de-documentacao-551h)
+- [How to Avoid Repeating Types and Arrays in TypeScript](https://dev.to/nurulislamrimon/how-to-avoid-repeating-types-and-arrays-in-typescript-21km)
 <!-- BLOG-POST-LIST:END -->
 
 
