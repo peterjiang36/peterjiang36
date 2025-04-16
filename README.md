@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Webull? Features, Pros &amp; Cons + NVSTly Integration](https://dev.to/socialinvesting/what-is-webull-features-pros-cons-nvstly-integration-59o9)
-- [Launching Your Own Decentralized Exchange: From Scratch to Deployment](https://dev.to/tomhardy/launching-your-own-decentralized-exchange-from-scratch-to-deployment-2i91)
-- [Catch Missing `await` Calls in Playwright Tests with ESLint](https://dev.to/playwright/catch-missing-await-calls-in-playwright-tests-with-eslint-5fid)
-- [Introduction to Golang: A Comprehensive Guide for Beginners](https://dev.to/bharatmk256/introduction-to-golang-a-comprehensive-guide-for-beginners-ijj)
+- [Write Code Like A Pro: Mastering The SOLID Principles](https://dev.to/gauravdalvi/write-code-like-a-pro-mastering-the-solid-principles-e8)
+- [what is use of ESLint ?](https://dev.to/tahir_rafique/what-is-use-of-eslint--412c)
+- [Building a Self-Healing CI/CD Pipeline on GitLab](https://dev.to/thiru_g/building-a-self-healing-cicd-pipeline-on-gitlab-1fn3)
+- [2537. Count the Number of Good Subarrays](https://dev.to/mdarifulhaque/2537-count-the-number-of-good-subarrays-b27)
 <!-- BLOG-POST-LIST:END -->
 
 
