@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Queries With Indexes: A Practical Deep Dive](https://dev.to/hexshift/optimizing-postgresql-queries-with-indexes-a-practical-deep-dive-2lco)
-- [A UML Use-Case Analysis of an Online Shopping System: Actors, Use Cases, and Relationships](https://dev.to/alex_ricciardi/a-uml-use-case-analysis-of-an-online-shopping-system-actors-use-cases-and-relationships-4ioh)
-- [Depende](https://dev.to/david_bermenvliz/depende-1dkp)
-- [Daily JavaScript Challenge #JS-154: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-154-convert-snake-case-to-camel-case-48ce)
+- [Shortcode](https://dev.to/david_bermenvliz/shortcode-1mm0)
+- [Blog Draft Trends Ethics And Monetization Strategies In Ai Technologies 20250416 063637](https://dev.to/pponali/blog-draft-trends-ethics-and-monetization-strategies-in-ai-technologies-20250416-063637-3dl3)
+- [Implementando Arquitetura VIP em um App iOS com Swift](https://dev.to/lys/implementando-arquitetura-vip-em-um-app-ios-com-swift-59fl)
+- [Day-25: Constructor](https://dev.to/pavithra_c_butterfly/day-25-constructor-573n)
 <!-- BLOG-POST-LIST:END -->
 
 
