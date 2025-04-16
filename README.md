@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⏰ Time-Travelling JavaScript, Smart CSS Cursors &amp; Product Team Tips](https://dev.to/adam/time-travelling-javascript-smart-css-cursors-product-team-tips-4no2)
-- [Typescript to Know for React](https://dev.to/_ndeyefatoudiop/typescript-to-know-for-react-2p02)
-- [Digitlo – Exploring Digital Assets, Blockchain, and Tech Trends](https://dev.to/mantasha_faheemuddin_8a32/digitlo-exploring-digital-assets-blockchain-and-tech-trends-56n7)
-- [Mastering AWS Cost Optimization: Practical Tips to Save Big!](https://dev.to/aws-builders/mastering-aws-cost-optimization-practical-tips-to-save-big-3cao)
+- [What is Webull? Features, Pros &amp; Cons + NVSTly Integration](https://dev.to/socialinvesting/what-is-webull-features-pros-cons-nvstly-integration-59o9)
+- [Launching Your Own Decentralized Exchange: From Scratch to Deployment](https://dev.to/tomhardy/launching-your-own-decentralized-exchange-from-scratch-to-deployment-2i91)
+- [Catch Missing `await` Calls in Playwright Tests with ESLint](https://dev.to/playwright/catch-missing-await-calls-in-playwright-tests-with-eslint-5fid)
+- [Introduction to Golang: A Comprehensive Guide for Beginners](https://dev.to/bharatmk256/introduction-to-golang-a-comprehensive-guide-for-beginners-ijj)
 <!-- BLOG-POST-LIST:END -->
 
 
