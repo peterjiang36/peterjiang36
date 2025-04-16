@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Coming Collapse of White Collar Illusions](https://dev.to/noah_street_d0755cbf9a58d/the-coming-collapse-of-white-collar-illusions-56ge)
-- [Looking for a Passionate React Dev &lpar;Student-Friendly Collab Opportunity!&rpar;](https://dev.to/swapnilcs775/looking-for-a-passionate-react-dev-student-friendly-collab-opportunity-19pn)
-- [🚀 Stop Learning and Start Building: The Developer’s Path to Mastery](https://dev.to/ernest_litsa_6cbeed4e5669/stop-learning-and-start-building-the-developers-path-to-mastery-3ig3)
-- [Build a React File Sharing App with Granular Access Controls &lpar;ReBAC&rpar;](https://dev.to/astrodevil/build-a-react-file-sharing-app-with-granular-access-controls-rebac-ka4)
+- [AI for ESG Reporting Using Real-Time RAG and Live Data Streams](https://dev.to/mansi711/ai-for-esg-reporting-using-real-time-rag-and-live-data-streams-7nh)
+- [Building My AI SaaS App](https://dev.to/sushilmagare10/building-my-ai-saas-app-4mif)
+- [Monitoring Logged-In Users in Linux &lpar;Day 7 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/monitoring-logged-in-users-in-linux-day-7-of-30-2clj)
+- [React Frontend L2 Round Interview Question &amp; Answer](https://dev.to/mushfiqbh/react-frontend-l2-round-interview-question-answer-n9b)
 <!-- BLOG-POST-LIST:END -->
 
 
