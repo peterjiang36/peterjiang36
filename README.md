@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Find the Superset from the Relationship Table — From SQL to SPL #19](https://dev.to/judith677/find-the-superset-from-the-relationship-table-from-sql-to-spl-19-1p4o)
-- [WebAssembly &lpar;Wasm&rpar; in DevOps: Why It’s the Next Big Thing](https://dev.to/yash_sonawane25/webassembly-wasm-in-devops-why-its-the-next-big-thing-4m76)
-- [Databricks Asset Bundle: A Template to Make Life Easier](https://dev.to/sacode/databricks-asset-bundle-a-template-to-make-life-easier-13f2)
-- [What’s Pythonic way to handle exceptions?](https://dev.to/the_medicaltreasure_cf3a/whats-pythonic-way-to-handle-exceptions-115e)
+- [PanguSync: A High-Performance Database Synchronization Tool](https://dev.to/pangucore/pangusync-a-high-performance-database-synchronization-tool-285e)
+- [Newbie](https://dev.to/lindsey_ekallal_995d187d/newbie-20m0)
+- [Feature Engineering: A Practical Guide to Doing It Right](https://dev.to/echo9k/feature-engineering-a-practical-guide-to-doing-it-right-1f1j)
+- [[Boost]](https://dev.to/ahjayhara/-73f)
 <!-- BLOG-POST-LIST:END -->
 
 
