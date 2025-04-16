@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Access modifiers in Java](https://dev.to/vasutamil19/access-modifiers-in-java-1b0p)
-- [[Boost]](https://dev.to/nevodavid/-p4a)
-- [E se eu fisse meu próprio sistema de documentação?](https://dev.to/paulopilotti/e-se-eu-fisse-meu-proprio-sistema-de-documentacao-551h)
-- [How to Avoid Repeating Types and Arrays in TypeScript](https://dev.to/nurulislamrimon/how-to-avoid-repeating-types-and-arrays-in-typescript-21km)
+- [How to write a java program?](https://dev.to/shrinidhi_s/how-to-write-a-java-program-52hm)
+- [Blog Draft Ai Technologies Analysis And Monetization Strategies 20250416 201752](https://dev.to/pponali/blog-draft-ai-technologies-analysis-and-monetization-strategies-20250416-201752-1ld8)
+- [Create AI-Powered Store Assistant Bot for Natural Language Inventory queries using BigQuery, Firestore, GFCs, and Vertex AI](https://dev.to/aqibnawazdev/create-ai-powered-store-assistant-bot-for-natural-language-inventory-queries-using-bigquery-2nnd)
+- [Hello dear community, I am looking for someone who can create a bot or a script in Java, Selenium, etc, to make a click instantly on a button that appears when a new request pop up. I am open to hear any option or alternatives. Best, Guirion.](https://dev.to/guido_millo_30e7b9df9a47f/hello-dear-community-i-am-looking-for-someone-who-can-create-a-bot-or-a-script-in-java-selenium-j10)
 <!-- BLOG-POST-LIST:END -->
 
 
