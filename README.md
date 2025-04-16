@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Submission Deadline: April 21! Countdown to CommunityOverCode Asia 2025 CFP](https://dev.to/chen_debra_3060b21d12b1b0/submission-deadline-april-21-countdown-to-communityovercode-asia-2025-cfp-5c70)
-- [From Idea to Execution: Building Your First AI Agent](https://dev.to/albert_ed/from-idea-to-execution-building-your-first-ai-agent-58li)
-- [Custom Chatbot UI with HTML and CSS](https://dev.to/preetha_vaishnavi_2b82358/custom-chatbot-ui-with-html-and-css-1m9e)
-- [Understanding Python Statements: An Essential Guide for CBSE Class 12 Computer Science Exam Preparation](https://dev.to/kwickprep/understanding-python-statements-an-essential-guide-for-cbse-class-12-computer-science-exam-2d6n)
+- [VibeScript - GenZ programming language](https://dev.to/grahamthedev/vibescript-genz-programming-language-2l0b)
+- [JavaScript Bytecode and Abstract Syntax Trees](https://dev.to/omriluz1/javascript-bytecode-and-abstract-syntax-trees-281i)
+- [FPGAs vs. Tesla’s Custom ASICs for Automotive Perception: A Technical Comparison](https://dev.to/carolineee/fpgas-vs-teslas-custom-asics-for-automotive-perception-a-technical-comparison-42j2)
+- [My Experience Successfully Integrating ZKTeco Attendance Device with Laravel](https://dev.to/mohamed_kamel_3e7f158103e/my-experience-successfully-integrating-zkteco-attendance-device-with-laravel-5550)
 <!-- BLOG-POST-LIST:END -->
 
 
