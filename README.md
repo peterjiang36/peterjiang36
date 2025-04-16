@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apostrophe 4.15.0: In-Context Live Preview, Enhanced Tables, and Translation Tools](https://dev.to/stuartromanek/apostrophe-4150-in-context-live-preview-enhanced-tables-and-translation-tools-46e1)
-- [Build Smarter Web Automation with ActionChain](https://dev.to/feng_jian_f8d0a9834be/build-smarter-web-automation-with-actionchain-1168)
-- [What the Heck Is Linux, and Why You Should Bother Learning It &lpar;Especially Red Hat&rpar; in 2025](https://dev.to/higgs182092/what-the-heck-is-linux-and-why-you-should-bother-learning-it-especially-red-hat-in-2025-45jn)
-- [Are you a programmer? Ever use Python? Have you seen the list of reserved keywords that are off-limits? Read Quark&#39;s Outlines: Python Names and Keywords. Find out now.](https://dev.to/mike-vincent/are-you-a-programmer-ever-use-python-have-you-seen-the-list-of-reserved-keywords-that-are-501e)
+- [Debugging a 500 Error in Amplify Gen 2 SSR with DynamoDB &lpar;Solved&rpar;](https://dev.to/soulsbossdev/debugging-a-500-error-in-amplify-gen-2-ssr-with-dynamodb-solved-m50)
+- [From Designer to Developer: Build Pixel-Perfect Components from Figma Using AI](https://dev.to/yahav10/from-designer-to-developer-build-pixel-perfect-components-from-figma-using-ai-13i0)
+- [Access modifier](https://dev.to/sugumar_r_a5f301adf1fb49a/access-modifier-5c53)
+- [Criando um microserviço de organização de decks Yu-Gi-Oh com Spring Boot — Parte 02](https://dev.to/odevpedro/criando-um-microservico-de-organizacao-de-decks-yu-gi-oh-com-spring-boot-parte-2-2o5d)
 <!-- BLOG-POST-LIST:END -->
 
 
