@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VibeScript - GenZ programming language](https://dev.to/grahamthedev/vibescript-genz-programming-language-2l0b)
-- [JavaScript Bytecode and Abstract Syntax Trees](https://dev.to/omriluz1/javascript-bytecode-and-abstract-syntax-trees-281i)
-- [FPGAs vs. Tesla’s Custom ASICs for Automotive Perception: A Technical Comparison](https://dev.to/carolineee/fpgas-vs-teslas-custom-asics-for-automotive-perception-a-technical-comparison-42j2)
-- [My Experience Successfully Integrating ZKTeco Attendance Device with Laravel](https://dev.to/mohamed_kamel_3e7f158103e/my-experience-successfully-integrating-zkteco-attendance-device-with-laravel-5550)
+- [The Role of Automated Testing in Building the Right Product](https://dev.to/sonin/the-role-of-automated-testing-in-building-the-right-product-183h)
+- [For vibe coders out there:](https://dev.to/isaiahhtml/for-vibe-coders-out-there-16oe)
+- [Looking for something new in React UI Free environment?](https://dev.to/pa4ozdravkov/looking-for-something-new-in-react-ui-free-environment-3l1l)
+- [A Structured Workflow for &quot;Vibe Coding&quot; Full-Stack Apps](https://dev.to/wasp/a-structured-workflow-for-vibe-coding-full-stack-apps-352l)
 <!-- BLOG-POST-LIST:END -->
 
 
