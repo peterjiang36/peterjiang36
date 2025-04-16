@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5. Responsive Sliding Carousel &lpar;CSS Animation Journey Collection&rpar;](https://dev.to/preetha_vaishnavi_2b82358/5-responsive-sliding-carousel-css-animation-journey-collection-41kk)
-- [AI and Decision Pulse: How Technology Enhances Decision-Making](https://dev.to/tableautopowerbimigration/ai-and-decision-pulse-how-technology-enhances-decision-making-3od2)
-- [React Latest Version: Exploring New Features &amp; Updates](https://dev.to/brilworks/react-latest-version-exploring-new-features-updates-23m1)
-- [Blog Draft Ai Technologies And Monetization Strategies 20250416 102148](https://dev.to/pponali/blog-draft-ai-technologies-and-monetization-strategies-20250416-102148-clg)
+- [What Great Engineering Teams Measure—and What They Don’t](https://dev.to/getambassador2024/what-great-engineering-teams-measure-and-what-they-dont-4b6k)
+- [Placement agents in the EU: Role, Advantages and Regulatory Requirements](https://dev.to/harrisonailent/placement-agents-in-the-eu-role-advantages-and-regulatory-requirements-1ic)
+- [Making an Effective Application Security Program: Strategies, methods and tools to maximize results](https://dev.to/lynxfelony1/making-an-effective-application-security-program-strategies-methods-and-tools-to-maximize-results-2epo)
+- [Regularization Techniques in ML: L1, L2, and Beyond](https://dev.to/sai_rishika_0e321c17cfc13/regularization-techniques-in-ml-l1-l2-and-beyond-231l)
 <!-- BLOG-POST-LIST:END -->
 
 
