@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming AI Resource Constraints: Strategies for Building the Right Team](https://dev.to/mindsdb/overcoming-ai-resource-constraints-strategies-for-building-the-right-team-3jfd)
-- [Sr PHP Engineer role - REMOTE - EMEA region](https://dev.to/mailerlite/sr-php-engineer-role-open-remote-emea-region-1g9p)
-- [Patrón](https://dev.to/david_bermenvliz/patron-1i6a)
-- [Aleatorio y patrón](https://dev.to/david_bermenvliz/aleatorio-y-patron-5fk4)
+- [Serverless is a Scam.](https://dev.to/code42cate/serverless-is-a-scam-5fc0)
+- [The Hive Is Recruiting: Join Me in Building the First AI-Native Operating System](https://dev.to/matrixswarm/the-hive-is-recruiting-join-me-in-building-the-first-ai-native-operating-system-31eb)
+- [Understanding AI: The Future of Programming and Its Impact on Developers](https://dev.to/algo_sync/understanding-ai-the-future-of-programming-and-its-impact-on-developers-3gdl)
+- [Very usefull tip to improve our coding workflow](https://dev.to/gabrielfelipe/-3lol)
 <!-- BLOG-POST-LIST:END -->
 
 
