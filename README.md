@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PanguSync: A High-Performance Database Synchronization Tool](https://dev.to/pangucore/pangusync-a-high-performance-database-synchronization-tool-285e)
-- [Newbie](https://dev.to/lindsey_ekallal_995d187d/newbie-20m0)
-- [Feature Engineering: A Practical Guide to Doing It Right](https://dev.to/echo9k/feature-engineering-a-practical-guide-to-doing-it-right-1f1j)
-- [[Boost]](https://dev.to/ahjayhara/-73f)
+- [Adaptive Compression for Cache Systems with Hexagonal Architecture](https://dev.to/aws-builders/adaptive-compression-for-cache-systems-with-hexagonal-architecture-560e)
+- [Welcome Thread - v322](https://dev.to/devteam/welcome-thread-v322-g8h)
+- [Programing session Armstrang Number](https://dev.to/sugumar_r_a5f301adf1fb49a/programing-session-armstrang-number-55gn)
+- [Top 10+ Tailwind Plus &lpar;Tailwind UI&rpar; Alternatives - 2025](https://dev.to/tailwindcss/tailwind-plus-alternatives-g0l)
 <!-- BLOG-POST-LIST:END -->
 
 
