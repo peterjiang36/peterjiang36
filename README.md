@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifiable Digital Credential Ecosystem: All You Need to Know](https://dev.to/everycred/verifiable-digital-credential-ecosystem-all-you-need-to-know-3inh)
-- [When Vue&#39;s watch Made Me Think of React&#39;s useEffect](https://dev.to/pravinjadhav/when-vues-watch-made-me-think-of-reacts-useeffect-2fge)
-- [🔥 Kadane&#39;s Algorithm — The Power of Maximum Subarrays](https://dev.to/br-lovanshi/kadanes-algorithm-the-power-of-maximum-subarrays-22kg)
-- [Creating an OCR API with FaaS on Azure - Part 2: Persisting Data in Azure Postgres SQL with Best Practices](https://dev.to/sertaoseracloud/creating-an-ocr-api-with-faas-on-azure-part-2-persisting-data-in-azure-sql-with-best-practices-4h23)
+- [[Boost]](https://dev.to/uliyahoo/-gh1)
+- [From Zero to Hero: How I Tricked AI into Building My Startup MVP in 24 Hours](https://dev.to/sakethkowtha/from-zero-to-hero-how-i-tricked-ai-into-building-my-startup-mvp-in-24-hours-3np1)
+- [Teste md legal](https://dev.to/piluvitu/teste-md-legal-iim)
+- [Chapter 4: Installing Bloc Plugin in VS Code &amp; Android Studio](https://dev.to/alaminkarno/chapter-4-installing-bloc-plugin-in-vs-code-android-studio-4mlc)
 <!-- BLOG-POST-LIST:END -->
 
 
