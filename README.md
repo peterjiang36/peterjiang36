@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Snokido &amp; The Pizza Edition GitHub: Accessible Online Gaming &amp; Open-Source Innovation](https://dev.to/vaultmagazine/exploring-snokido-the-pizza-edition-github-accessible-online-gaming-open-source-innovation-3e5b)
-- [Vibe Analytics is born. Simple, Reliable and GDPR complaint.](https://dev.to/litlyx/vibe-analytics-is-born-simple-reliable-and-gdpr-complaint-1bje)
-- [UC Pocket Ubuntu OS: From 303MB to 80MB with Docker Optimization](https://dev.to/uchemira/uc-pocket-ubuntu-os-from-303mb-to-80mb-with-docker-optimization-4d0g)
-- [🗃️ Structured Query Language &lpar;SQL&rpar;: The Backbone of Modern Databases](https://dev.to/srijan-xi/structured-query-language-sql-the-backbone-of-modern-databases-eje)
+- [Cybersecurity Beginner&#39;s Guide: Build Your Own Vulnerable Lab in 5 Minutes &lpar;DVWA + More&rpar;](https://dev.to/mattyedwards/cybersecurity-beginners-guide-build-your-own-vulnerable-lab-in-5-minutes-dvwa-more-56pb)
+- [RoboTap — Robot Reflex Challenge Submission: Alibaba Cloud Web Game](https://dev.to/chintanonweb/robotap-robot-reflex-challenge-submission-alibaba-cloud-web-game-25d0)
+- [The Adventures of Blink S3e7: Automation with GitHub Actions](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e7-automation-with-github-actions-4b2a)
+- [WCAG: Empty Links](https://dev.to/patrick_clancey/wcag-empty-links-4e86)
 <!-- BLOG-POST-LIST:END -->
 
 
