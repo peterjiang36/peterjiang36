@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RoboRescue Puzzle . A logic-based grid navigation game](https://dev.to/adonaitechnologies/roborescue-puzzle-a-logic-based-grid-navigation-game-mgi)
-- [Rogue Domain Controller Detection in Cloud Identity Infrastructure](https://dev.to/kapusto/rogue-domain-controller-detection-in-cloud-identity-infrastructure-58k5)
-- [Calling all engineers we&#39;re hosting a Tech Meetup! Join us for an evening of code, conversation, and - good food! discussion on How to Build Systems That Don’t Need a Prompt, led by speaker and CTO Scott Ryder: RSVP: https://forms.gle/1DziWb1zaMVqXcee6](https://dev.to/sydney_rousso_18e87ce962b/calling-all-engineers-were-hosting-a-tech-meetup-join-us-for-an-evening-of-code-conversation-25j0)
-- [Building an Artificial Neural Network to make Predictions with Machine Learning.](https://dev.to/thekalderon/building-an-artificial-neural-network-to-make-predictions-with-machine-learning-5bpf)
+- [Kaltrinkeda — Home Screen V2](https://dev.to/notmadebyahuman/kaltrinkeda-home-screen-v2-56fd)
+- [🎯Fermat’s Little Theorem: The Tiny Theorem with Huge Impact](https://dev.to/mysteryminusplus/fermats-little-theorem-the-tiny-theorem-with-huge-impact-hbd)
+- [Top 10 YouTube Channels for Learning Data Analytics: Boost Your Skills in 2025](https://dev.to/vladam/top-10-youtube-channels-for-learning-data-analytics-boost-your-skills-in-2025-2mdl)
+- [The Impact of 5G on Web Development: How Faster Networks Will Change User Experiences](https://dev.to/rushilbhuptani/the-impact-of-5g-on-web-development-how-faster-networks-will-change-user-experiences-3g4)
 <!-- BLOG-POST-LIST:END -->
 
 
