@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaltrinkeda — Home Screen V2](https://dev.to/notmadebyahuman/kaltrinkeda-home-screen-v2-56fd)
-- [🎯Fermat’s Little Theorem: The Tiny Theorem with Huge Impact](https://dev.to/mysteryminusplus/fermats-little-theorem-the-tiny-theorem-with-huge-impact-hbd)
-- [Top 10 YouTube Channels for Learning Data Analytics: Boost Your Skills in 2025](https://dev.to/vladam/top-10-youtube-channels-for-learning-data-analytics-boost-your-skills-in-2025-2mdl)
-- [The Impact of 5G on Web Development: How Faster Networks Will Change User Experiences](https://dev.to/rushilbhuptani/the-impact-of-5g-on-web-development-how-faster-networks-will-change-user-experiences-3g4)
+- [Vibe coding tools](https://dev.to/yazansneneh/vibe-coding-tools-m9f)
+- [Using While Loop](https://dev.to/haryniramesh_90cfe77bda94/using-while-loop-3g2p)
+- [AWS Compute Services: The Complete Guide to EC2 and Beyond](https://dev.to/eunice-js/aws-compute-services-the-complete-guide-to-ec2-and-beyond-1fmb)
+- [How to Build a Move-Out Cleaning Booking App Step by Step](https://dev.to/karen_londres/how-to-build-a-move-out-cleaning-booking-app-step-by-step-5gll)
 <!-- BLOG-POST-LIST:END -->
 
 
