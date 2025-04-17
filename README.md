@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Print &quot;Hello, World!&quot; in Python](https://dev.to/vishakha_chaudhry_cf0857f/how-to-print-hello-world-in-python-2edm)
-- [Grasp Python Online with Kwickprep’s Vacation Batch – Master Coding in Just 15 Sessions](https://dev.to/kwickprep/grasp-python-online-with-kwickpreps-vacation-batch-master-coding-in-just-15-sessions-1f6e)
-- [The Power of Ancient Wisdom in Ayurveda for Natural Glowing Radiant Skin with Secrethues](https://dev.to/adam_techy764/the-power-of-ancient-wisdom-in-ayurveda-for-natural-glowing-radiant-skin-with-secrethues-9el)
-- [[Boost]](https://dev.to/nelsongei/-557)
+- [I Tried Elixir With Zero Knowledge — Here’s What Surprised Me](https://dev.to/mr_nova/i-tried-elixir-with-zero-knowledge-heres-what-surprised-me-45dn)
+- [Interpreter vs JIT Compilation in JavaScript Engines](https://dev.to/omriluz1/interpreter-vs-jit-compilation-in-javascript-engines-b3g)
+- [Why Rotate Proxy Servers are Crucial](https://dev.to/swiftproxy_residential/why-rotate-proxy-servers-are-crucial-acl)
+- [Demystifying CNN Training Using ResNet50 for Agricultural Automation](https://dev.to/priyanshu_jha_17502da984f/demystifying-cnn-training-using-resnet50-for-agricultural-automation-1k73)
 <!-- BLOG-POST-LIST:END -->
 
 
