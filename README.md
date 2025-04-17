@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is DAX? Amazon DynamoDB Accelerator Explained](https://dev.to/leonardkachi/what-is-dax-amazon-dynamodb-accelerator-explained-10al)
-- [POS Terminals: Fintech Reinvented](https://dev.to/rapyd/pos-terminals-fintech-reinvented-2ipf)
-- [Kaltrinkeda e o BS Studio+](https://dev.to/notmadebyahuman/kaltrinkeda-e-o-bs-studio-2d70)
-- [Building a Student REST API with Flask and Docker](https://dev.to/techondiapers/building-a-student-rest-api-with-flask-and-docker-42en)
+- [How to Use Python’s `selectors` Module for Efficient I/O Multiplexing](https://dev.to/hexshift/how-to-use-pythons-selectors-module-for-efficient-io-multiplexing-1dgf)
+- [Wannabe README/about](https://dev.to/natasha0824inkf/wannabe-readmeabout-3fnn)
+- [Optimizing TCP for High-Performance Applications: An HFT Developer&#39;s Guide](https://dev.to/sid_hattangadi/optimizing-tcp-for-high-performance-applications-an-hft-developers-guide-1212)
+- [WordPress 6.8 – Meta Boxes No Longer Auto-Scroll?](https://dev.to/daniel_lacatus/wordpress-68-meta-boxes-no-longer-auto-scroll-4kn6)
 <!-- BLOG-POST-LIST:END -->
 
 
