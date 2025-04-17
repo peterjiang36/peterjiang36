@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From C to Rust to Go: What Native Really Offers Today](https://dev.to/matemiller/from-c-to-rust-to-go-what-native-really-offers-today-1c79)
-- [2025 Global Millimeter-Wave Radar Market Analysis: Top 10 Brands &amp; Competitive Advantages](https://dev.to/jamesliu/2025-global-millimeter-wave-radar-market-analysis-top-10-brands-competitive-advantages-mjb)
-- [Need help getting a feature request into the backlog to enhace the code workspace file browsing](https://dev.to/nod0xdeadbeef/need-help-getting-a-feature-request-into-the-backlog-to-enhace-the-code-workspace-file-browsing-55oo)
-- [Secure Key-Value Store for Raspberry Pi Pico](https://dev.to/oyama/secure-key-value-store-for-raspberry-pi-pico-5jd)
+- [AI-powered Movie Recommendations With Django &amp; MongoDB Atlas](https://dev.to/mongodb/ai-powered-movie-recommendations-with-django-mongodb-atlas-5gi6)
+- [Simulation to Success: How SI/PI Analysis Prevents Costly Redesigns](https://dev.to/fidus_systems/simulation-to-success-how-sipi-analysis-prevents-costly-redesigns-34lm)
+- [Beginner’s Guide to Solana Meme Coins](https://dev.to/abijohn/beginners-guide-to-solana-meme-coins-53j2)
+- [Transforming Contract Approvals with Smarter Workflows](https://dev.to/andrew_ethan_5e351ab1aeab/transforming-contract-approvals-with-smarter-workflows-de6)
 <!-- BLOG-POST-LIST:END -->
 
 
