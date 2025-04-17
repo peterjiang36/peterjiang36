@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Beginner&#39;s Guide: Build Your Own Vulnerable Lab in 5 Minutes &lpar;DVWA + More&rpar;](https://dev.to/mattyedwards/cybersecurity-beginners-guide-build-your-own-vulnerable-lab-in-5-minutes-dvwa-more-56pb)
-- [RoboTap — Robot Reflex Challenge Submission: Alibaba Cloud Web Game](https://dev.to/chintanonweb/robotap-robot-reflex-challenge-submission-alibaba-cloud-web-game-25d0)
-- [The Adventures of Blink S3e7: Automation with GitHub Actions](https://dev.to/linkbenjamin/the-adventures-of-blink-s3e7-automation-with-github-actions-4b2a)
-- [WCAG: Empty Links](https://dev.to/patrick_clancey/wcag-empty-links-4e86)
+- [Verifiable Digital Credential Ecosystem: All You Need to Know](https://dev.to/everycred/verifiable-digital-credential-ecosystem-all-you-need-to-know-3inh)
+- [When Vue&#39;s watch Made Me Think of React&#39;s useEffect](https://dev.to/pravinjadhav/when-vues-watch-made-me-think-of-reacts-useeffect-2fge)
+- [🔥 Kadane&#39;s Algorithm — The Power of Maximum Subarrays](https://dev.to/br-lovanshi/kadanes-algorithm-the-power-of-maximum-subarrays-22kg)
+- [Creating an OCR API with FaaS on Azure - Part 2: Persisting Data in Azure Postgres SQL with Best Practices](https://dev.to/sertaoseracloud/creating-an-ocr-api-with-faas-on-azure-part-2-persisting-data-in-azure-sql-with-best-practices-4h23)
 <!-- BLOG-POST-LIST:END -->
 
 
