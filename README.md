@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Python’s `selectors` Module for Efficient I/O Multiplexing](https://dev.to/hexshift/how-to-use-pythons-selectors-module-for-efficient-io-multiplexing-1dgf)
-- [Wannabe README/about](https://dev.to/natasha0824inkf/wannabe-readmeabout-3fnn)
-- [Optimizing TCP for High-Performance Applications: An HFT Developer&#39;s Guide](https://dev.to/sid_hattangadi/optimizing-tcp-for-high-performance-applications-an-hft-developers-guide-1212)
-- [WordPress 6.8 – Meta Boxes No Longer Auto-Scroll?](https://dev.to/daniel_lacatus/wordpress-68-meta-boxes-no-longer-auto-scroll-4kn6)
+- [Comparing the Top 10 Managed Kubernetes Providers &lpar;2025 Edition&rpar;](https://dev.to/devlinkstudios/comparing-the-top-10-managed-kubernetes-providers-2025-edition-12h8)
+- [Variáveis de Ambiente em Docker](https://dev.to/yuripeixinho/variaveis-de-ambiente-em-docker-508h)
+- [Beyond the Buzzwords: The Relevance of DORA Metrics in Contemporary Cloud Hosting for Developers](https://dev.to/devlinkstudios/beyond-the-buzzwords-the-relevance-of-dora-metrics-in-contemporary-cloud-hosting-for-developers-1hb1)
+- [Parsing and Formatting Time Strings 5/10](https://dev.to/rezmoss/parsing-and-formatting-time-strings-510-2cj1)
 <!-- BLOG-POST-LIST:END -->
 
 
