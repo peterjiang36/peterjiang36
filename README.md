@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Guide to Kubernetes Secrets and ConfigMaps](https://dev.to/getambassador2024/advanced-guide-to-kubernetes-secrets-and-configmaps-4h4f)
-- [30Day- SOC challenge Day 4 &amp; 5](https://dev.to/https_aneesah/30day-soc-challenge-day-4-5-2mk9)
-- [Intelligent Support Ticket Routing with Natural Language Processing &lpar;NLP&rpar;](https://dev.to/fortune-ndlovu/intelligent-support-ticket-routing-with-natural-language-processing-nlp-57g1)
-- [Explore the React JS course with Fusion Software Institute.](https://dev.to/sagarheddurshetty_vionsys/explore-the-react-js-course-with-fusion-software-institute-2cam)
+- [How to Print &quot;Hello, World!&quot; in Python](https://dev.to/vishakha_chaudhry_cf0857f/how-to-print-hello-world-in-python-2edm)
+- [Grasp Python Online with Kwickprep’s Vacation Batch – Master Coding in Just 15 Sessions](https://dev.to/kwickprep/grasp-python-online-with-kwickpreps-vacation-batch-master-coding-in-just-15-sessions-1f6e)
+- [The Power of Ancient Wisdom in Ayurveda for Natural Glowing Radiant Skin with Secrethues](https://dev.to/adam_techy764/the-power-of-ancient-wisdom-in-ayurveda-for-natural-glowing-radiant-skin-with-secrethues-9el)
+- [[Boost]](https://dev.to/nelsongei/-557)
 <!-- BLOG-POST-LIST:END -->
 
 
