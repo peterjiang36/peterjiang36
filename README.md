@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-powered Movie Recommendations With Django &amp; MongoDB Atlas](https://dev.to/mongodb/ai-powered-movie-recommendations-with-django-mongodb-atlas-5gi6)
-- [Simulation to Success: How SI/PI Analysis Prevents Costly Redesigns](https://dev.to/fidus_systems/simulation-to-success-how-sipi-analysis-prevents-costly-redesigns-34lm)
-- [Beginner’s Guide to Solana Meme Coins](https://dev.to/abijohn/beginners-guide-to-solana-meme-coins-53j2)
-- [Transforming Contract Approvals with Smarter Workflows](https://dev.to/andrew_ethan_5e351ab1aeab/transforming-contract-approvals-with-smarter-workflows-de6)
+- [Exploring Snokido &amp; The Pizza Edition GitHub: Accessible Online Gaming &amp; Open-Source Innovation](https://dev.to/vaultmagazine/exploring-snokido-the-pizza-edition-github-accessible-online-gaming-open-source-innovation-3e5b)
+- [Vibe Analytics is born. Simple, Reliable and GDPR complaint.](https://dev.to/litlyx/vibe-analytics-is-born-simple-reliable-and-gdpr-complaint-1bje)
+- [UC Pocket Ubuntu OS: From 303MB to 80MB with Docker Optimization](https://dev.to/uchemira/uc-pocket-ubuntu-os-from-303mb-to-80mb-with-docker-optimization-4d0g)
+- [🗃️ Structured Query Language &lpar;SQL&rpar;: The Backbone of Modern Databases](https://dev.to/srijan-xi/structured-query-language-sql-the-backbone-of-modern-databases-eje)
 <!-- BLOG-POST-LIST:END -->
 
 
