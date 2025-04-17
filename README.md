@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding tools](https://dev.to/yazansneneh/vibe-coding-tools-m9f)
-- [Using While Loop](https://dev.to/haryniramesh_90cfe77bda94/using-while-loop-3g2p)
-- [AWS Compute Services: The Complete Guide to EC2 and Beyond](https://dev.to/eunice-js/aws-compute-services-the-complete-guide-to-ec2-and-beyond-1fmb)
-- [How to Build a Move-Out Cleaning Booking App Step by Step](https://dev.to/karen_londres/how-to-build-a-move-out-cleaning-booking-app-step-by-step-5gll)
+- [Google Cloud Next 2025: Day 2](https://dev.to/googleworkspace/google-cloud-next-2025-day-2-2e0e)
+- [SPO600 Project Stage 3: Wrapping it Up](https://dev.to/jpjpjp/spo600-project-stage-3-wrapping-it-up-2422)
+- [Linux Commands You Should Avoid Like the Plague &lpar;Especially in Red Hat RHEL9&rpar;](https://dev.to/higgs182092/linux-commands-you-should-avoid-like-the-plague-especially-in-red-hat-rhel9-4goj)
+- [My Backend Stack Is Just TypeScript + Postgres. Here’s Why That’s Enough](https://dev.to/shayy/my-backend-stack-is-just-typescript-postgres-heres-why-thats-enough-1pni)
 <!-- BLOG-POST-LIST:END -->
 
 
