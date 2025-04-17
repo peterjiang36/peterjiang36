@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing the Top 10 Managed Kubernetes Providers &lpar;2025 Edition&rpar;](https://dev.to/devlinkstudios/comparing-the-top-10-managed-kubernetes-providers-2025-edition-12h8)
-- [Variáveis de Ambiente em Docker](https://dev.to/yuripeixinho/variaveis-de-ambiente-em-docker-508h)
-- [Beyond the Buzzwords: The Relevance of DORA Metrics in Contemporary Cloud Hosting for Developers](https://dev.to/devlinkstudios/beyond-the-buzzwords-the-relevance-of-dora-metrics-in-contemporary-cloud-hosting-for-developers-1hb1)
-- [Parsing and Formatting Time Strings 5/10](https://dev.to/rezmoss/parsing-and-formatting-time-strings-510-2cj1)
+- [Optimizing My Dev Workflow in 2025](https://dev.to/bobysf12/optimizing-my-dev-workflow-in-2025-g4g)
+- [Choosing the right, real-time, Postgres CDC platform](https://dev.to/thisisgoldman/choosing-the-right-real-time-postgres-cdc-platform-4m5g)
+- [Blog Draft Monetization Strategies For Ai Technologies 20250417 074609](https://dev.to/pponali/blog-draft-monetization-strategies-for-ai-technologies-20250417-074609-5cfg)
+- [Building a Scalable WebSocket Server in Python With AsyncIO and Custom Routing](https://dev.to/hexshift/building-a-scalable-websocket-server-in-python-with-asyncio-and-custom-routing-11hi)
 <!-- BLOG-POST-LIST:END -->
 
 
