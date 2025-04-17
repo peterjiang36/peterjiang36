@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Unleashes Codex CLI: Your Local AI Coding Agent Has Arrived &lpar;And There&#39;s $1M to Back It!&rpar;](https://dev.to/simplr_sh/openai-unleashes-codex-cli-your-local-ai-coding-agent-has-arrived-and-theres-1m-to-back-it-4b6b)
-- [DAY : 27 Abstract and Interface in Java – Simplified](https://dev.to/sangamithra_k_78d83d6fb9d/day-27-1gbc)
-- [OpenAI Unleashes Next-Gen Models: GPT-4.1 and o-Series Explained](https://dev.to/simplr_sh/openai-unleashes-next-gen-models-gpt-41-and-o-series-explained-20in)
-- [Building MLOps Infrastructure for Modern AI Applications](https://dev.to/hiteshsaai/building-mlops-infrastructure-for-modern-ai-applications-bc0)
+- [The Role of Forks in Bitcoin’s Evolution](https://dev.to/coinw/the-role-of-forks-in-bitcoins-evolution-2mbp)
+- [Styling Text with Gradients Using Only CSS](https://dev.to/elainesajets/styling-text-with-gradients-using-only-css-7pd)
+- [Understanding the CAP Theorem in System Design](https://dev.to/msnmongare/understanding-the-cap-theorem-in-system-design-of9)
+- [How to exclude classes from jacoco in Gradle](https://dev.to/sineaggi/how-to-exclude-classes-from-jacoco-in-gradle-2go9)
 <!-- BLOG-POST-LIST:END -->
 
 
