@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pizza Radar🍕: Finding Pizzerias in Panama City with LinkedLists](https://dev.to/thecoder507/pizza-radar-finding-pizzerias-in-panama-city-with-linkedlists-3ogh)
-- [Build a Simple ToDo App with React and GraphQL](https://dev.to/ayas_tech_2b0560ee159e661/build-a-simple-todo-app-with-react-and-graphql-27f2)
-- [Simbora de teste](https://dev.to/piluvitu/simbora-de-teste-54c5)
-- [Pub-sub pattern - components communication in React](https://dev.to/mohsen_khademhoseini_c0d/pub-sub-pattern-components-communication-in-react-1gl9)
+- [🧠 JavaScript Conditional Statements Explained for Beginners](https://dev.to/ebereplenty/javascript-conditional-statements-explained-for-beginners-3k5g)
+- [Mastering the Basics: Key Elements of a Good Basketball Shot for Beginners by Basketball Enthusiasts including Matthew Skorny](https://dev.to/matthew12/mastering-the-basics-key-elements-of-a-good-basketball-shot-for-beginners-by-basketball-245e)
+- [FortiOS 7.6.3 Update: SSL VPN Tunnel Mode No Longer Supported](https://dev.to/madhushan/fortios-763-update-ssl-vpn-tunnel-mode-no-longer-supported-27hg)
+- [🚀 Commitizen: Making Git Commits the Right Way](https://dev.to/oskhar/commitizen-making-git-commits-the-right-way-g70)
 <!-- BLOG-POST-LIST:END -->
 
 
