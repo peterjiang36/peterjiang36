@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Overengineer’s Manifesto: Saying Hello the Hard Way](https://dev.to/copyleftdev/the-overengineers-manifesto-saying-hello-the-hard-way-8pb)
-- [Building Accessible Angular Applications &lpar;WCAG, ARIA&rpar;](https://dev.to/artem_turlenko/building-accessible-angular-applications-wcag-aria-13bo)
-- [Launch and Configure an EC2 Instance&lpar; Step-by-Step EC2 Setup + SSH Connection &lpar;Windows&rpar;](https://dev.to/durga_v/launch-and-configure-an-ec2-instance-step-by-step-ec2-setup-ssh-connection-windows-23oi)
-- [How to Apply Blur, Shadow, and Color Effects to Images Using SVG Filters](https://dev.to/hexshift/how-to-apply-blur-shadow-and-color-effects-to-images-using-svg-filters-59kg)
+- [What Does a Salesforce Admin Do? A Beginner’s Guide to Unlocking Business Success](https://dev.to/niks_kirdak_47c783a80cbc7/what-does-a-salesforce-admin-do-a-beginners-guide-to-unlocking-business-success-4l0j)
+- [Cha bot](https://dev.to/hunain_haider_ff238eb3b6c/cha-bot-1j50)
+- [The Latest, Most Affordable, and Stable GPT-4o Image Generation API — 4oimageapi.io](https://dev.to/fredai/the-latest-most-affordable-and-stable-gpt-4o-image-generation-api-4oimageapiio-2bk0)
+- [How to Install Apache Cassandra on Ubuntu: A Step-by-Step Guide](https://dev.to/minimadesk_gpl/how-to-install-apache-cassandra-on-ubuntu-a-step-by-step-guide-3c24)
 <!-- BLOG-POST-LIST:END -->
 
 
