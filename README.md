@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creation d&#39;une page web simple avec html et css](https://dev.to/josu_olamba_990b7a055e48/creation-dune-page-web-simple-avec-html-et-css-9ij)
-- [Introduction Post](https://dev.to/princewill_monday_32b7eff/introduction-post-8g0)
-- [Square Every Digit](https://dev.to/maddiepst/square-every-digit-52kl)
-- [Build Once, Filter Forever: Automating Process Street Data Set Queries in Power Automate](https://dev.to/improvizations/build-once-filter-forever-automating-process-street-data-set-queries-in-power-automate-424g)
+- [Hands-on with DAX: Supercharge Your DynamoDB Reads &lpar;Python + Terraform&rpar;](https://dev.to/leonardkachi/hands-on-with-dax-supercharge-your-dynamodb-reads-python-terraform-2m29)
+- [Manus có gì mà nổi đình đám3](https://dev.to/thi_le_26e54b136ffaa84ad1/manus-co-gi-ma-noi-dinh-dam3-19g0)
+- [Ứng Dụng của Manus AI trong Nhiều Lĩnh Vực3](https://dev.to/thi_le_26e54b136ffaa84ad1/ung-dung-cua-manus-ai-trong-nhieu-linh-vuc3-49jb)
+- [Tìm Hiểu Về MCP Server: Thành Phần Quan Trọng Trong Model Context Protocol3](https://dev.to/thi_le_26e54b136ffaa84ad1/tim-hieu-ve-mcp-server-thanh-phan-quan-trong-trong-model-context-protocol3-4ha4)
 <!-- BLOG-POST-LIST:END -->
 
 
