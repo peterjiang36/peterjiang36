@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Attribute Mixins: a declarative-functional alternative to Directives](https://dev.to/dariomannu/attribute-mixins-a-declarative-functional-alternative-to-directives-4gf6)
-- [Everything You Need to Know About JavaScript Compilers](https://dev.to/tpointtechedu/everything-you-need-to-know-about-javascript-compilers-3jl5)
-- [Building an AI-Powered Personal Blog With GitHub Copilot Agent](https://dev.to/foxgem/building-an-ai-powered-personal-blog-with-github-copilot-agent-1g1p)
-- [Best Opensource Coding Ai](https://dev.to/keploy/best-opensource-coding-ai-3i54)
+- [The Overengineer’s Manifesto: Saying Hello the Hard Way](https://dev.to/copyleftdev/the-overengineers-manifesto-saying-hello-the-hard-way-8pb)
+- [Building Accessible Angular Applications &lpar;WCAG, ARIA&rpar;](https://dev.to/artem_turlenko/building-accessible-angular-applications-wcag-aria-13bo)
+- [Launch and Configure an EC2 Instance&lpar; Step-by-Step EC2 Setup + SSH Connection &lpar;Windows&rpar;](https://dev.to/durga_v/launch-and-configure-an-ec2-instance-step-by-step-ec2-setup-ssh-connection-windows-23oi)
+- [How to Apply Blur, Shadow, and Color Effects to Images Using SVG Filters](https://dev.to/hexshift/how-to-apply-blur-shadow-and-color-effects-to-images-using-svg-filters-59kg)
 <!-- BLOG-POST-LIST:END -->
 
 
