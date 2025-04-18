@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux: Finding Files](https://dev.to/ms_74/linux-finding-files-2f32)
-- [Java Signals and Effects](https://dev.to/m41na/java-signals-and-effects-1863)
-- [187/365 | ¥10M Job Challenge - Taking risks](https://dev.to/kameken100/187365-y10m-job-challenge-taking-risks-4673)
-- [What are the Primary Advantages of Using Kotlin Over Java?](https://dev.to/nigelsilonero/what-are-the-primary-advantages-of-using-kotlin-over-java-ea)
+- [Rust Concurrency: When to Use &lpar;and Avoid&rpar; Async Runtimes](https://dev.to/leapcell/rust-concurrency-when-to-use-and-avoid-async-runtimes-1dl9)
+- [A critical look at the modern programming landscape](https://dev.to/lostghost/a-critical-look-at-the-modern-programming-landscape-1l7o)
+- [The Future of CPE for CPAs: Trends, Technology &amp; Changes](https://dev.to/adan_shoukat_9351fc997191/the-future-of-cpe-for-cpas-trends-technology-changes-n78)
+- [What I learned from Vibe Coding](https://dev.to/cdinuwan/what-i-learned-from-vibe-coding-cbb)
 <!-- BLOG-POST-LIST:END -->
 
 
