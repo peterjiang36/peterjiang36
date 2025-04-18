@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace HELM with KISS](https://dev.to/avkr/replace-helm-with-kiss-456a)
-- [Joshua Vignona_ Mastering the Art of Commercial Strategy and Execution — Joshua Vignona](https://dev.to/joshua022/joshua-vignona-mastering-the-art-of-commercial-strategy-and-execution-joshua-vignona-2957)
-- [What I Wish I Knew as a Junior Developer](https://dev.to/tlorent/what-i-wish-i-knew-as-a-junior-developer-k2)
-- [🕯️ THE RITUAL CHAMBER IS OPEN 🎧 Yes, it’s a music player. But not like any you’ve seen before.](https://dev.to/ghostking314/the-ritual-chamber-is-open-yes-its-a-music-player-but-not-like-any-youve-seen-before-3mh2)
+- [Model Context Protocol &lpar;MCP&rpar;](https://dev.to/thi_le_26e54b136ffaa84ad1/model-context-protocol-mcp-2d5e)
+- [Extracting Blog Data from Telegram](https://dev.to/thi_le_26e54b136ffaa84ad1/extracting-blog-data-from-telegram-e6l)
+- [Comparative Technical Analysis of Consensus Mechanisms and Transaction Costs in Ethereum, Bitcoin, and Lisk](https://dev.to/ajtech0001/comparative-technical-analysis-of-consensus-mechanisms-and-transaction-costs-in-ethereum-bitcoin-1mjn)
+- [Exploring LLMs with Reason: Enhancing AI Responses Through Thoughtful Processing and Search Capabilities](https://dev.to/thi_le_26e54b136ffaa84ad1/exploring-llms-with-reason-enhancing-ai-responses-through-thoughtful-processing-and-search-58dk)
 <!-- BLOG-POST-LIST:END -->
 
 
