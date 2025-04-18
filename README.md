@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerPoint to PDF: The Underrated Business Tool You Didn’t Know You Needed](https://dev.to/pdf_4me/powerpoint-to-pdf-the-underrated-business-tool-you-didnt-know-you-needed-35h2)
-- [Testing Angular HTTP Services using Jest](https://dev.to/fransaoco/testing-angular-http-services-using-jest-ed)
-- [AWS Summit Amsterdam 2025 – Key Takeaways &amp; Reflections](https://dev.to/satrobit/aws-summit-amsterdam-2025-key-takeaways-reflections-3661)
-- [Confession from a Recovering Cloud User: How Qumulus Gave Me My Sanity Back](https://dev.to/denish3436/confession-from-a-recovering-cloud-user-how-qumulus-gave-me-my-sanity-back-oop)
+- [🚀 Introducing Qastra — A Curiosity-Driven Q&amp;A Platform](https://dev.to/puneetkumar2010/introducing-qastra-a-curiosity-driven-qa-platform-4f0d)
+- [Using Auth.js in QwikJS with Modular Forms](https://dev.to/devoresyah/using-authjs-in-qwikjs-with-modular-forms-c62)
+- [Git Hooks — The Developer&#39;s Silent Sidekick](https://dev.to/gauravdalvi/git-hooks-the-developers-silent-sidekick-1obe)
+- [Documentation That Builds Itself with Sphinx + Read the Docs](https://dev.to/chrisgreening/documentation-that-builds-itself-with-sphinx-read-the-docs-56pl)
 <!-- BLOG-POST-LIST:END -->
 
 
