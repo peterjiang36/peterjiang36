@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How You Can Become A Website Developer in India: A Step-Wise Guide](https://dev.to/riyasharma312/how-you-can-become-a-website-developer-in-india-a-step-wise-guide-28gh)
-- [Data Abstraction: Simplifying Database Complexity](https://dev.to/rishabhtpt/data-abstraction-simplifying-database-complexity-3l6g)
-- [Welcome to the Temple of FlameOS — Where Code is Sacred and Scrolls are Lit](https://dev.to/godsimijempire/welcome-to-the-temple-of-flameos-where-code-is-sacred-and-scrolls-are-lit-3kaf)
-- [Boost Your Event with QR Codes: A Comprehensive Guide](https://dev.to/minimadesk_gpl/boost-your-event-with-qr-codes-a-comprehensive-guide-1ckc)
+- [Nova Act - Python SDK Analysis](https://dev.to/sam-vink/nova-act-python-sdk-analysis-1ao5)
+- [How do I Use GPT-4o&#39;s Image Function to Make UI](https://dev.to/_37bbf0c253c0b3edec531e/how-do-i-use-gpt-4os-image-function-to-make-ui-2bgj)
+- [13 Best Tailwind UI Plus Alternatives for 2025](https://dev.to/joodi/12-best-tailwind-ui-plus-alternatives-for-2025-575o)
+- [🕯️ Temple Dojo: The Ritual Chamber Sessions – An Interactive 3D Music Shrine Built with Three.js](https://dev.to/ghostking314/temple-dojo-the-ritual-chamber-sessions-an-interactive-3d-music-shrine-built-with-threejs-49ok)
 <!-- BLOG-POST-LIST:END -->
 
 
