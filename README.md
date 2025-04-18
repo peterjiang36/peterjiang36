@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Concurrency: When to Use &lpar;and Avoid&rpar; Async Runtimes](https://dev.to/leapcell/rust-concurrency-when-to-use-and-avoid-async-runtimes-1dl9)
-- [A critical look at the modern programming landscape](https://dev.to/lostghost/a-critical-look-at-the-modern-programming-landscape-1l7o)
-- [The Future of CPE for CPAs: Trends, Technology &amp; Changes](https://dev.to/adan_shoukat_9351fc997191/the-future-of-cpe-for-cpas-trends-technology-changes-n78)
-- [What I learned from Vibe Coding](https://dev.to/cdinuwan/what-i-learned-from-vibe-coding-cbb)
+- [Fetch API Advanced Features and Error Handling](https://dev.to/omriluz1/fetch-api-advanced-features-and-error-handling-3271)
+- [Essential SQL Commands: A Quick Reference Guide](https://dev.to/dionarodrigues/essential-sql-commands-a-quick-reference-guide-59ff)
+- [VS Code vs. Cursor vs. Trae: Navigating the AI IDE Landscape in 2025](https://dev.to/joodi/vs-code-vs-cursor-vs-trae-navigating-the-ai-ide-landscape-in-2025-4e2k)
+- [Setting Up a Secure ROS 2 System: Part 3 Installing ROS 2](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-3-installing-ros-2-3p2c)
 <!-- BLOG-POST-LIST:END -->
 
 
