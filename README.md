@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nova Act - Python SDK Analysis](https://dev.to/sam-vink/nova-act-python-sdk-analysis-1ao5)
-- [How do I Use GPT-4o&#39;s Image Function to Make UI](https://dev.to/_37bbf0c253c0b3edec531e/how-do-i-use-gpt-4os-image-function-to-make-ui-2bgj)
-- [13 Best Tailwind UI Plus Alternatives for 2025](https://dev.to/joodi/12-best-tailwind-ui-plus-alternatives-for-2025-575o)
-- [🕯️ Temple Dojo: The Ritual Chamber Sessions – An Interactive 3D Music Shrine Built with Three.js](https://dev.to/ghostking314/temple-dojo-the-ritual-chamber-sessions-an-interactive-3d-music-shrine-built-with-threejs-49ok)
+- [File Permissions and Ownership in Linux](https://dev.to/chielo_chiamaka/file-permissions-and-ownership-in-linux-oj4)
+- [KitOps: Bringing DevOps Discipline to Machine Learning Artifacts](https://dev.to/kitops/kitops-bringing-devops-discipline-to-machine-learning-artifacts-n9h)
+- [Will AI Really Replace Testers in 2025?](https://dev.to/esha_suchana_3514f571649c/will-ai-really-replace-testers-in-2025-5c6k)
+- [Mastering Salesforce: Tips &amp; Resources for Effective Learning](https://dev.to/niks_kirdak_47c783a80cbc7/mastering-salesforce-tips-resources-for-effective-learning-2067)
 <!-- BLOG-POST-LIST:END -->
 
 
