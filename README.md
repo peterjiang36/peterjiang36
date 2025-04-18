@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetch API Advanced Features and Error Handling](https://dev.to/omriluz1/fetch-api-advanced-features-and-error-handling-3271)
-- [Essential SQL Commands: A Quick Reference Guide](https://dev.to/dionarodrigues/essential-sql-commands-a-quick-reference-guide-59ff)
-- [VS Code vs. Cursor vs. Trae: Navigating the AI IDE Landscape in 2025](https://dev.to/joodi/vs-code-vs-cursor-vs-trae-navigating-the-ai-ide-landscape-in-2025-4e2k)
-- [Setting Up a Secure ROS 2 System: Part 3 Installing ROS 2](https://dev.to/sebos/setting-up-a-secure-ros-2-system-part-3-installing-ros-2-3p2c)
+- [How to Work With HAR Files: A Step-by-Step Guide [With Examples]](https://dev.to/webviziodotcom/how-to-work-with-har-files-a-step-by-step-guide-with-examples-5g8e)
+- [How to Create Strong Passwords, Privacy and Security for Dummies](https://dev.to/beckmateo/how-to-create-strong-passwords-privacy-and-security-for-dummies-3cd)
+- [Monitoring Server Health in Private Cloud Data Centers: A Scalable Approach](https://dev.to/jindal0309/monitoring-server-health-in-private-cloud-data-centersa-scalable-approach-3gdg)
+- [⚠️ If You See an App Created with &quot;Vibe Coding&quot;, RUN! ⚠️](https://dev.to/fjrg2007/if-you-see-an-app-created-with-vibe-coding-run-267n)
 <!-- BLOG-POST-LIST:END -->
 
 
