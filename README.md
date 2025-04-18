@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Community](https://dev.to/ph0enix46/hello-community-l96)
-- [Function Calling vs. MCP &lpar;Model Context Protocol&rpar; + A2A: A Clean Architecture Analogy](https://dev.to/sreeni5018/function-calling-vs-mcp-model-context-protocol-a2a-a-clean-architecture-analogy-j4g)
-- [Hi, I am Kisra!](https://dev.to/kisra_fistya/hi-i-am-kisra-2ja9)
-- [RootMe | TryHackMe | Spanish](https://dev.to/c4s/rootme-tryhackme-spanish-34ej)
+- [Attribute Mixins: a declarative-functional alternative to Directives](https://dev.to/dariomannu/attribute-mixins-a-declarative-functional-alternative-to-directives-4gf6)
+- [Everything You Need to Know About JavaScript Compilers](https://dev.to/tpointtechedu/everything-you-need-to-know-about-javascript-compilers-3jl5)
+- [Building an AI-Powered Personal Blog With GitHub Copilot Agent](https://dev.to/foxgem/building-an-ai-powered-personal-blog-with-github-copilot-agent-1g1p)
+- [Best Opensource Coding Ai](https://dev.to/keploy/best-opensource-coding-ai-3i54)
 <!-- BLOG-POST-LIST:END -->
 
 
