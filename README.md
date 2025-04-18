@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add custom fonts in React Native](https://dev.to/logrocket/how-to-add-custom-fonts-in-react-native-14a)
-- [Backstage for the win!](https://dev.to/fortune-ndlovu/backstage-for-the-win-5eba)
-- [Inside Easylab AI: The Company That No Longer Writes Its Own Code](https://dev.to/alex_deg/inside-easylab-ai-the-company-that-no-longer-writes-its-own-code-36b8)
-- [AutoHotkey ve Texpand ile Hayatınızı Otomatikleştirin](https://dev.to/eagledfc/autohotkey-ve-texpand-ile-hayatinizi-otomatiklestirin-5eon)
+- [Linux: Finding Files](https://dev.to/ms_74/linux-finding-files-2f32)
+- [Java Signals and Effects](https://dev.to/m41na/java-signals-and-effects-1863)
+- [187/365 | ¥10M Job Challenge - Taking risks](https://dev.to/kameken100/187365-y10m-job-challenge-taking-risks-4673)
+- [What are the Primary Advantages of Using Kotlin Over Java?](https://dev.to/nigelsilonero/what-are-the-primary-advantages-of-using-kotlin-over-java-ea)
 <!-- BLOG-POST-LIST:END -->
 
 
