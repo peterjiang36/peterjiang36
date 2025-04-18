@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar;](https://dev.to/thi_le_26e54b136ffaa84ad1/model-context-protocol-mcp-2d5e)
-- [Extracting Blog Data from Telegram](https://dev.to/thi_le_26e54b136ffaa84ad1/extracting-blog-data-from-telegram-e6l)
-- [Comparative Technical Analysis of Consensus Mechanisms and Transaction Costs in Ethereum, Bitcoin, and Lisk](https://dev.to/ajtech0001/comparative-technical-analysis-of-consensus-mechanisms-and-transaction-costs-in-ethereum-bitcoin-1mjn)
-- [Exploring LLMs with Reason: Enhancing AI Responses Through Thoughtful Processing and Search Capabilities](https://dev.to/thi_le_26e54b136ffaa84ad1/exploring-llms-with-reason-enhancing-ai-responses-through-thoughtful-processing-and-search-58dk)
+- [How to add custom fonts in React Native](https://dev.to/logrocket/how-to-add-custom-fonts-in-react-native-14a)
+- [Backstage for the win!](https://dev.to/fortune-ndlovu/backstage-for-the-win-5eba)
+- [Inside Easylab AI: The Company That No Longer Writes Its Own Code](https://dev.to/alex_deg/inside-easylab-ai-the-company-that-no-longer-writes-its-own-code-36b8)
+- [AutoHotkey ve Texpand ile Hayatınızı Otomatikleştirin](https://dev.to/eagledfc/autohotkey-ve-texpand-ile-hayatinizi-otomatiklestirin-5eon)
 <!-- BLOG-POST-LIST:END -->
 
 
