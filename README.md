@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Design Patterns: Recursive, Partial, and Composition for Scalable Code 🚀](https://dev.to/0xtanzim/exploring-react-design-patterns-recursive-partial-and-composition-2mef)
-- [SPO600 - Lab 3: Building a Number Guessing Game in 6502 Assembly](https://dev.to/amullagaliev/spo600-lab-3-building-a-number-guessing-game-in-6502-assembly-3ca2)
-- [[Boost]](https://dev.to/pa1_explorer/-1p9g)
-- [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
+- [&#39;useIsMobile&#39; hook in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/useismobile-hook-in-vercelai-chatbot-source-code-5894)
+- [Kubernetes 1.30 Features – More Enhancements You Shouldn’t Miss](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-more-enhancements-you-shouldnt-miss-3mhh)
+- [How I Would Learn to Code in 2026 - For Newbie](https://dev.to/yukeshdhakal42/how-i-would-learn-to-code-in-2026-for-newbie-5cl)
+- [How to Animate Complex SVG Paths with GSAP for Stunning UI Effects](https://dev.to/hexshift/how-to-animate-complex-svg-paths-with-gsap-for-stunning-ui-effects-3oei)
 <!-- BLOG-POST-LIST:END -->
 
 
