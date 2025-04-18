@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work With HAR Files: A Step-by-Step Guide [With Examples]](https://dev.to/webviziodotcom/how-to-work-with-har-files-a-step-by-step-guide-with-examples-5g8e)
-- [How to Create Strong Passwords, Privacy and Security for Dummies](https://dev.to/beckmateo/how-to-create-strong-passwords-privacy-and-security-for-dummies-3cd)
-- [Monitoring Server Health in Private Cloud Data Centers: A Scalable Approach](https://dev.to/jindal0309/monitoring-server-health-in-private-cloud-data-centersa-scalable-approach-3gdg)
-- [⚠️ If You See an App Created with &quot;Vibe Coding&quot;, RUN! ⚠️](https://dev.to/fjrg2007/if-you-see-an-app-created-with-vibe-coding-run-267n)
+- [Creation d&#39;une page web simple avec html et css](https://dev.to/josu_olamba_990b7a055e48/creation-dune-page-web-simple-avec-html-et-css-9ij)
+- [Introduction Post](https://dev.to/princewill_monday_32b7eff/introduction-post-8g0)
+- [Square Every Digit](https://dev.to/maddiepst/square-every-digit-52kl)
+- [Build Once, Filter Forever: Automating Process Street Data Set Queries in Power Automate](https://dev.to/improvizations/build-once-filter-forever-automating-process-street-data-set-queries-in-power-automate-424g)
 <!-- BLOG-POST-LIST:END -->
 
 
