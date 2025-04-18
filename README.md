@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;useIsMobile&#39; hook in vercel/ai-chatbot source code.](https://dev.to/ramunarasinga-11/useismobile-hook-in-vercelai-chatbot-source-code-5894)
-- [Kubernetes 1.30 Features – More Enhancements You Shouldn’t Miss](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-130-features-more-enhancements-you-shouldnt-miss-3mhh)
-- [How I Would Learn to Code in 2026 - For Newbie](https://dev.to/yukeshdhakal42/how-i-would-learn-to-code-in-2026-for-newbie-5cl)
-- [How to Animate Complex SVG Paths with GSAP for Stunning UI Effects](https://dev.to/hexshift/how-to-animate-complex-svg-paths-with-gsap-for-stunning-ui-effects-3oei)
+- [Hello Community](https://dev.to/ph0enix46/hello-community-l96)
+- [Function Calling vs. MCP &lpar;Model Context Protocol&rpar; + A2A: A Clean Architecture Analogy](https://dev.to/sreeni5018/function-calling-vs-mcp-model-context-protocol-a2a-a-clean-architecture-analogy-j4g)
+- [Hi, I am Kisra!](https://dev.to/kisra_fistya/hi-i-am-kisra-2ja9)
+- [RootMe | TryHackMe | Spanish](https://dev.to/c4s/rootme-tryhackme-spanish-34ej)
 <!-- BLOG-POST-LIST:END -->
 
 
