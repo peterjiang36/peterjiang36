@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Transforming Industries with Agentic AI: Real-World Wins](https://dev.to/dms/transforming-industries-with-agentic-ai-real-world-wins-pbg)
-- [[Boost]](https://dev.to/ippatev/-499)
-- [Angular 19: Mastering `input.required&lpar;&rpar;` and Functional Inputs with Signals](https://dev.to/cristiansifuentes/angular-19-mastering-inputrequired-and-functional-inputs-with-signals-101p)
-- [NDPR, GDPR, and CCPA — What Every Nigerian Techie Should Know About Data Compliance](https://dev.to/mantle_bearer/ndpr-gdpr-and-ccpa-what-every-nigerian-techie-should-know-about-data-compliance-26j6)
+- [Integrating MCP Servers](https://dev.to/heetvekariya/integrating-mcp-servers-1fp2)
+- [40 days of K8s - CKA chalange &lpar;01/40&rpar;](https://dev.to/idubi/40-days-of-k8s-cka-chalange-0140-36k1)
+- [How To Dress Up Like The Fastest Man Alive: A Flash Cosplay Guide](https://dev.to/gregg001/how-to-dress-up-like-the-fastest-man-alive-a-flash-cosplay-guide-1c6h)
+- [[Boost]](https://dev.to/valariebd94/-2bm8)
 <!-- BLOG-POST-LIST:END -->
 
 
