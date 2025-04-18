@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does a Salesforce Admin Do? A Beginner’s Guide to Unlocking Business Success](https://dev.to/niks_kirdak_47c783a80cbc7/what-does-a-salesforce-admin-do-a-beginners-guide-to-unlocking-business-success-4l0j)
-- [Cha bot](https://dev.to/hunain_haider_ff238eb3b6c/cha-bot-1j50)
-- [The Latest, Most Affordable, and Stable GPT-4o Image Generation API — 4oimageapi.io](https://dev.to/fredai/the-latest-most-affordable-and-stable-gpt-4o-image-generation-api-4oimageapiio-2bk0)
-- [How to Install Apache Cassandra on Ubuntu: A Step-by-Step Guide](https://dev.to/minimadesk_gpl/how-to-install-apache-cassandra-on-ubuntu-a-step-by-step-guide-3c24)
+- [How You Can Become A Website Developer in India: A Step-Wise Guide](https://dev.to/riyasharma312/how-you-can-become-a-website-developer-in-india-a-step-wise-guide-28gh)
+- [Data Abstraction: Simplifying Database Complexity](https://dev.to/rishabhtpt/data-abstraction-simplifying-database-complexity-3l6g)
+- [Welcome to the Temple of FlameOS — Where Code is Sacred and Scrolls are Lit](https://dev.to/godsimijempire/welcome-to-the-temple-of-flameos-where-code-is-sacred-and-scrolls-are-lit-3kaf)
+- [Boost Your Event with QR Codes: A Comprehensive Guide](https://dev.to/minimadesk_gpl/boost-your-event-with-qr-codes-a-comprehensive-guide-1ckc)
 <!-- BLOG-POST-LIST:END -->
 
 
