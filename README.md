@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [File Permissions and Ownership in Linux](https://dev.to/chielo_chiamaka/file-permissions-and-ownership-in-linux-oj4)
-- [KitOps: Bringing DevOps Discipline to Machine Learning Artifacts](https://dev.to/kitops/kitops-bringing-devops-discipline-to-machine-learning-artifacts-n9h)
-- [Will AI Really Replace Testers in 2025?](https://dev.to/esha_suchana_3514f571649c/will-ai-really-replace-testers-in-2025-5c6k)
-- [Mastering Salesforce: Tips &amp; Resources for Effective Learning](https://dev.to/niks_kirdak_47c783a80cbc7/mastering-salesforce-tips-resources-for-effective-learning-2067)
+- [PowerPoint to PDF: The Underrated Business Tool You Didn’t Know You Needed](https://dev.to/pdf_4me/powerpoint-to-pdf-the-underrated-business-tool-you-didnt-know-you-needed-35h2)
+- [Testing Angular HTTP Services using Jest](https://dev.to/fransaoco/testing-angular-http-services-using-jest-ed)
+- [AWS Summit Amsterdam 2025 – Key Takeaways &amp; Reflections](https://dev.to/satrobit/aws-summit-amsterdam-2025-key-takeaways-reflections-3661)
+- [Confession from a Recovering Cloud User: How Qumulus Gave Me My Sanity Back](https://dev.to/denish3436/confession-from-a-recovering-cloud-user-how-qumulus-gave-me-my-sanity-back-oop)
 <!-- BLOG-POST-LIST:END -->
 
 
