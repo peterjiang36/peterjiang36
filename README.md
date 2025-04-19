@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bilgisayara Gizli Mesajlar Gömmek: Steganografi ile Dijital Casusluk](https://dev.to/eagledfc/bilgisayara-gizli-mesajlar-gommek-steganografi-ile-dijital-casusluk-1p21)
-- [Using Streams with Fetch for Efficient Data Processing](https://dev.to/omriluz1/using-streams-with-fetch-for-efficient-data-processing-335l)
-- [Gemini AI – A Complete AI Tutor That Watches Your Screen and Guides You in Real Time!](https://dev.to/vpjigin/gemini-ai-a-complete-ai-tutor-that-watches-your-screen-and-guides-you-in-real-time-2n5d)
-- [Built a Python-based YouTube video downloader and converter – looking for feedback &amp; contributors](https://dev.to/kaifcodec/built-a-python-based-youtube-video-downloader-and-converter-looking-for-feedback-contributors-2kld)
+- [How to Optimize SQLite Performance With Indexed Views and Write-Ahead Logging](https://dev.to/hexshift/how-to-optimize-sqlite-performance-with-indexed-views-and-write-ahead-logging-2llb)
+- [Scaling Kubernetes Applications: HPA, VPA, KEDA, and Beyond](https://dev.to/vinujakhatode/scaling-kubernetes-applications-hpa-vpa-keda-and-beyond-29aa)
+- [Literal](https://dev.to/emmakang123/literal-3e22)
+- [Just released my first mobile game](https://dev.to/onur_erayblk_7ff013993/just-released-my-first-mobile-game-57ke)
 <!-- BLOG-POST-LIST:END -->
 
 
