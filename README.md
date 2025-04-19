@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Developer Productivity at Scale: Metrics, Tools, and Systemic Fixes](https://dev.to/getambassador2024/improving-developer-productivity-at-scale-metrics-tools-and-systemic-fixes-3hm0)
-- [Facing Large Projects? Then try `INVEST`ing](https://dev.to/coderboi01/facing-large-projects-then-try-investing-2500)
-- [Hey Guys, In your work place project manager give you every task in urgent so i think this blog solve your problem check it out!](https://dev.to/rajesh_patel/hey-guys-in-your-work-place-project-manager-give-you-every-task-in-urgent-so-i-think-this-blog-343h)
-- [File Compression and Archiving in Red Hat Linux](https://dev.to/shamain_anjum/file-compression-and-archiving-in-red-hat-linux-2ef3)
+- [The fastest way to learn coding with AI](https://dev.to/homayunmmdy/the-fastest-way-to-learn-coding-with-ai-191d)
+- [Omni-channel Supply Chains: Meeting Customer Demand in Real Time](https://dev.to/jameshaddin23/omni-channel-supply-chains-meeting-customer-demand-in-real-time-2d0n)
+- [Navigating LLM-Powered Software Development: The Child, Adolescent, and Adult Phases](https://dev.to/vanitascaesar1/navigating-llm-powered-software-development-the-child-adolescent-and-adult-phases-m1)
+- [Những đột phá của mô hình ngôn ngữ lớn &lpar;LLM&rpar; trong vài tháng qua](https://dev.to/thi_le_26e54b136ffaa84ad1/nhung-dot-pha-cua-mo-hinh-ngon-ngu-lon-llm-trong-vai-thang-qua-1h9l)
 <!-- BLOG-POST-LIST:END -->
 
 
