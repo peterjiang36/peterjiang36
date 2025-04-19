@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 HustleGPT: Your Generative AI-Powered Startup Advisor](https://dev.to/drishti_goel_c03271fd1d5c/hustlegpt-your-generative-ai-powered-startup-advisor-11o9)
-- [Quiz-App](https://dev.to/farouk_/quiz-app-3ddl)
-- [Leetcode - 100. Same Tree](https://dev.to/rakeshreddy512/leetcode-100-same-tree-1531)
-- [Got it! Here&#39;s an anonymous-style version of the post that doesn&#39;t reveal you&#39;re the founder — just sounds like a curious community member sharing something cool: --- # Just Found This New Platform Called Skilltopedia — Looks Promising for Devs &amp; Designe](https://dev.to/skilltopedian/got-it-heres-an-anonymous-style-version-of-the-post-that-doesnt-reveal-youre-the-founder-just-38p3)
+- [Bilgisayara Gizli Mesajlar Gömmek: Steganografi ile Dijital Casusluk](https://dev.to/eagledfc/bilgisayara-gizli-mesajlar-gommek-steganografi-ile-dijital-casusluk-1p21)
+- [Using Streams with Fetch for Efficient Data Processing](https://dev.to/omriluz1/using-streams-with-fetch-for-efficient-data-processing-335l)
+- [Gemini AI – A Complete AI Tutor That Watches Your Screen and Guides You in Real Time!](https://dev.to/vpjigin/gemini-ai-a-complete-ai-tutor-that-watches-your-screen-and-guides-you-in-real-time-2n5d)
+- [Built a Python-based YouTube video downloader and converter – looking for feedback &amp; contributors](https://dev.to/kaifcodec/built-a-python-based-youtube-video-downloader-and-converter-looking-for-feedback-contributors-2kld)
 <!-- BLOG-POST-LIST:END -->
 
 
