@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Soplang — A Programming Language Inspired by Somali &lpar;And Why You Don’t Start From Scratch&rpar;](https://dev.to/sharafdin/how-i-built-soplang-a-programming-language-inspired-by-somali-and-why-you-dont-start-from-5fh5)
-- [Split Fiction Effect in Browser](https://dev.to/louis7/split-fiction-in-browser-jo7)
-- [🚀🔥 COMING SOON: The Rise of OmniRadhaNexus 🔥🚀 &lpar;The Parent Company Website That Will Change Everything&rpar;](https://dev.to/omniradhanexus/coming-soon-the-rise-of-omniradhanexus-the-parent-company-website-that-will-change-395c)
-- [My Remote Dev Journey Begins 🚀](https://dev.to/vinayakgote2730/my-remote-dev-journey-begins-3lbf)
+- [use strict in JavaScript](https://dev.to/betelgeuseas/use-strict-in-javascript-57mk)
+- [10 Daily Linux Questions and Answers Series &lpar;part 8&rpar;](https://dev.to/alexenson/10-daily-linux-questions-and-answers-series-part-8-1171)
+- [How to Set Up a Local WordPress Environment Like a Pro with Valet, WP-CLI, and MySQL](https://dev.to/domegang/how-to-set-up-a-local-wordpress-environment-like-a-pro-with-valet-wp-cli-and-mysql-53p6)
+- [Creating a Countdown Timer with Tkinter in Python](https://dev.to/blackmare01wolf/creating-a-countdown-timer-with-tkinter-in-python-4i3j)
 <!-- BLOG-POST-LIST:END -->
 
 
