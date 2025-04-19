@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Neuromorphic Computing: Brain-Inspired Processing That’s Reshaping the Future](https://dev.to/srijan-xi/neuromorphic-computing-brain-inspired-processing-thats-reshaping-the-future-55kb)
-- [Online Python Compiler: Your Go-To Tool for Quick Scripting](https://dev.to/tpointtechblog/online-python-compiler-your-go-to-tool-for-quick-scripting-5eaa)
-- [Beware the Global Const](https://dev.to/somedood/beware-the-global-const-3cf7)
-- [Frontend Development in 2025: A Comprehensive Learning Journey for the Modern Web](https://dev.to/code_2/frontend-development-in-2025-a-comprehensive-learning-journey-for-the-modern-web-358l)
+- [Angular Material Blocks MCP server - Demo](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-demo-2je)
+- [Angular Material Blocks MCP server](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-cj)
+- [How to Embed Binary Data into a Win32 Executable File in 4 Methods](https://dev.to/sorecchione07435/how-to-embed-binary-data-into-a-win32-executable-file-in-4-methods-43kp)
+- [Updated Tik](https://dev.to/samantha_samuels_e4b03731/updated-tik-56ak)
 <!-- BLOG-POST-LIST:END -->
 
 
