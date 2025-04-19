@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [AquaScript 🌊✨ | Free JSON APIs 📡](https://dev.to/aquascript/aquascript-free-json-apis-1eoa)
+- [🚀 Dockerfile Best Practices – Make Your Builds 10x Faster](https://dev.to/yash_sonawane25/dockerfile-best-practices-make-your-builds-10x-faster-9db)
 - [Do Humans Really Need AI?](https://dev.to/doozieakshay/do-humans-really-need-ai-405p)
 - [The Secret History of the Illuminati: Myth, Power &amp; Hidden Truths](https://dev.to/scriptedbytruth/the-secret-history-of-the-illuminati-myth-power-hidden-truths-3pga)
-- [Angular 16–19: Understanding `input.required&lt;T&gt;&lpar;&rpar;` vs `input.required&lt;T&gt;&lpar;&rpar;.signal`](https://dev.to/cristiansifuentes/angular-16-19-understanding-inputrequired-vs-inputrequiredsignal-f3l)
-- [AI Reasoning: Thinking May Not Be Required for Top Performance](https://dev.to/aimodels-fyi/ai-reasoning-thinking-may-not-be-required-for-top-performance-4gmk)
 <!-- BLOG-POST-LIST:END -->
 
 
