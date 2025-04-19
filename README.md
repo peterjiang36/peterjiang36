@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Docker like its 2015](https://dev.to/code42cate/stop-using-docker-like-its-2015-1o5l)
-- [Telegram Name Scam - Be Vigilant](https://dev.to/scofieldidehen/telegram-name-scam-be-vigilant-41lg)
-- [Machine Learning](https://dev.to/congngheaivn/machine-learning-3k9i)
-- [My Journey Creating a Hate Speech Detection App with Machine Learning](https://dev.to/foxinfotech/my-journey-creating-a-hate-speech-detection-app-with-machine-learning-2p5l)
+- [Understanding RSA - The math behind modern encryption](https://dev.to/gokul369/understanding-rsa-the-math-behind-modern-encryption-23mo)
+- [11.9 Sistema de assinaturas](https://dev.to/fundamentosjava/119-sistema-de-assinaturas-3fi7)
+- [Introducing FramePack AI: Generate High-Quality Videos with Minimal Hardware](https://dev.to/cj_z_a708d57a934800ff57be/introducing-framepack-ai-generate-high-quality-videos-with-minimal-hardware-1nac)
+- [11.8 Relatórios com datas](https://dev.to/fundamentosjava/118-relatorios-com-datas-4jmh)
 <!-- BLOG-POST-LIST:END -->
 
 
