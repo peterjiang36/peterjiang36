@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Material Blocks MCP server - Demo](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-demo-2je)
-- [Angular Material Blocks MCP server](https://dev.to/ngmaterialdev/angular-material-blocks-mcp-server-cj)
-- [How to Embed Binary Data into a Win32 Executable File in 4 Methods](https://dev.to/sorecchione07435/how-to-embed-binary-data-into-a-win32-executable-file-in-4-methods-43kp)
-- [Updated Tik](https://dev.to/samantha_samuels_e4b03731/updated-tik-56ak)
+- [Introduction to HTML: What, Why, and How?](https://dev.to/raajaryan/introduction-to-html-what-why-and-how-5d9l)
+- [Blog Draft Ai Monetization Strategies 20250419 161846](https://dev.to/pponali/blog-draft-ai-monetization-strategies-20250419-161846-43b9)
+- [The Role of Educational Consultancy in Supporting Students with Special Needs](https://dev.to/absolute_edu_62eff0d653b7/the-role-of-educational-consultancy-in-supporting-students-with-special-needs-1ao7)
+- [Transforming Software Quality at Bynry: Our Test-Driven Development Journey &lpar;Part 1&rpar;](https://dev.to/mr_harshkumar_jha/transforming-software-quality-at-bynry-our-test-driven-development-journey-part-1-2ho)
 <!-- BLOG-POST-LIST:END -->
 
 
