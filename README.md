@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
-- [AI Rush Madness: The Accelerating Race for AI Dominance](https://dev.to/grenishrai/ai-rush-madness-the-accelerating-race-for-ai-dominance-51hm)
-- [Understanding Leetcode #15 3Sum](https://dev.to/pineapples/understanding-leetcode-15-3sum-4cj8)
-- [Navigating the Challenges of Stacked Pull Requests](https://dev.to/c_6b7a8e65d067ddc62/navigating-the-challenges-of-stacked-pull-requests-7j0)
+- [Hosting a Static Website on AWS S3 Using AWS CLI – No ClickOps, Just DevOps 💻](https://dev.to/pravesh_sudha_3c2b0c2b5e0/hosting-a-static-website-on-aws-s3-using-aws-cli-no-clickops-just-devops-1ohl)
+- [Tencent InstantCharacter 1-Click Installers for Windows, RunPod and Massed Compute, Supports RTX 5000 series as well](https://dev.to/furkangozukara/tencent-instantcharacter-1-click-installers-for-windows-runpod-and-massed-compute-supports-rtx-34e4)
+- [Learning Kubernetes with Spring Boot &amp; Kafka – Sharing My Journey](https://dev.to/devtec_56a3db5c3472fa9ba3/learning-kubernetes-with-spring-boot-kafka-sharing-my-journey-58d7)
+- [Serverless is NOT a Scam.](https://dev.to/best_codes/serverless-is-not-a-scam-356)
 <!-- BLOG-POST-LIST:END -->
 
 
