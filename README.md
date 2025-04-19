@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Network Communication: OSI Model vs. TCP/IP Model vs. UDP](https://dev.to/emmyspace/understanding-network-communication-osi-model-vs-tcpip-model-vs-udp-5c97)
-- [🧪 Software Testers: The Unsung Heart Surgeons of Tech](https://dev.to/gadekar_sachin/software-testers-the-unsung-heart-surgeons-of-tech-4k9p)
-- [🚀 Unlock Cloudflare Warp’s Full Potential with Our PySide6 App! 🌍](https://dev.to/ericluckson1999/unlock-cloudflare-warps-full-potential-with-our-pyside6-app-48nn)
-- [HACK FRONTEND: Win $2,000 in our Monthly Frontend Hackathon! 💰](https://dev.to/imrankh13332994/hack-frontend-win-2000-in-our-monthly-frontend-hackathon-2d72)
+- [How I Built Soplang — A Programming Language Inspired by Somali &lpar;And Why You Don’t Start From Scratch&rpar;](https://dev.to/sharafdin/how-i-built-soplang-a-programming-language-inspired-by-somali-and-why-you-dont-start-from-5fh5)
+- [Split Fiction Effect in Browser](https://dev.to/louis7/split-fiction-in-browser-jo7)
+- [🚀🔥 COMING SOON: The Rise of OmniRadhaNexus 🔥🚀 &lpar;The Parent Company Website That Will Change Everything&rpar;](https://dev.to/omniradhanexus/coming-soon-the-rise-of-omniradhanexus-the-parent-company-website-that-will-change-395c)
+- [My Remote Dev Journey Begins 🚀](https://dev.to/vinayakgote2730/my-remote-dev-journey-begins-3lbf)
 <!-- BLOG-POST-LIST:END -->
 
 
