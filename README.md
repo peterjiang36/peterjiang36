@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-on with DAX: Supercharge Your DynamoDB Reads &lpar;Python + Terraform&rpar;](https://dev.to/leonardkachi/hands-on-with-dax-supercharge-your-dynamodb-reads-python-terraform-2m29)
-- [Manus có gì mà nổi đình đám3](https://dev.to/thi_le_26e54b136ffaa84ad1/manus-co-gi-ma-noi-dinh-dam3-19g0)
-- [Ứng Dụng của Manus AI trong Nhiều Lĩnh Vực3](https://dev.to/thi_le_26e54b136ffaa84ad1/ung-dung-cua-manus-ai-trong-nhieu-linh-vuc3-49jb)
-- [Tìm Hiểu Về MCP Server: Thành Phần Quan Trọng Trong Model Context Protocol3](https://dev.to/thi_le_26e54b136ffaa84ad1/tim-hieu-ve-mcp-server-thanh-phan-quan-trong-trong-model-context-protocol3-4ha4)
+- [AI Reasoning: Thinking May Not Be Required for Top Performance](https://dev.to/aimodels-fyi/ai-reasoning-thinking-may-not-be-required-for-top-performance-4gmk)
+- [xVerify: Accurate, Efficient LLM Answer Verifier for Reasoning Model Evaluation](https://dev.to/aimodels-fyi/xverify-accurate-efficient-llm-answer-verifier-for-reasoning-model-evaluation-nhl)
+- [Faster Satellite Change Detection: New AI Beats Transformers](https://dev.to/aimodels-fyi/faster-satellite-change-detection-new-ai-beats-transformers-2cc1)
+- [AI Updates: Semantic Commit for Resolving Intent Conflicts at Scale](https://dev.to/aimodels-fyi/ai-updates-semantic-commit-for-resolving-intent-conflicts-at-scale-55k4)
 <!-- BLOG-POST-LIST:END -->
 
 
