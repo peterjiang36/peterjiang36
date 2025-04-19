@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding RSA - The math behind modern encryption](https://dev.to/gokul369/understanding-rsa-the-math-behind-modern-encryption-23mo)
-- [11.9 Sistema de assinaturas](https://dev.to/fundamentosjava/119-sistema-de-assinaturas-3fi7)
-- [Introducing FramePack AI: Generate High-Quality Videos with Minimal Hardware](https://dev.to/cj_z_a708d57a934800ff57be/introducing-framepack-ai-generate-high-quality-videos-with-minimal-hardware-1nac)
-- [11.8 Relatórios com datas](https://dev.to/fundamentosjava/118-relatorios-com-datas-4jmh)
+- [Improving Developer Productivity at Scale: Metrics, Tools, and Systemic Fixes](https://dev.to/getambassador2024/improving-developer-productivity-at-scale-metrics-tools-and-systemic-fixes-3hm0)
+- [Facing Large Projects? Then try `INVEST`ing](https://dev.to/coderboi01/facing-large-projects-then-try-investing-2500)
+- [Hey Guys, In your work place project manager give you every task in urgent so i think this blog solve your problem check it out!](https://dev.to/rajesh_patel/hey-guys-in-your-work-place-project-manager-give-you-every-task-in-urgent-so-i-think-this-blog-343h)
+- [File Compression and Archiving in Red Hat Linux](https://dev.to/shamain_anjum/file-compression-and-archiving-in-red-hat-linux-2ef3)
 <!-- BLOG-POST-LIST:END -->
 
 
