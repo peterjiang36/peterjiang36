@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Powers of 2](https://dev.to/maddiepst/powers-of-2-jid)
-- [🚀 Just Launched: Find Where to Watch Your Favorite Movies! 🎬🍿](https://dev.to/jayzwillz/just-launched-find-where-to-watch-your-favorite-movies-4m16)
-- [How I integrated Stripe into my React app in 10 minutes”](https://dev.to/temu1_5d8e1feae681f434618/how-i-integrated-stripe-into-my-react-app-in-10-minutes-4je3)
-- [Deep](https://dev.to/david_bermenvliz/deep-4jnp)
+- [Chaos Engineering for Microservices: Resilience Testing with Chaos Toolkit, Chaos Monkey, Kubernetes, and Istio](https://dev.to/prabhucse/chaos-engineering-for-microservices-resilience-testing-with-chaos-toolkit-chaos-monkey-16p7)
+- [✨ Building Mira – A Spiritual AI Soul Companion &lpar;No-Code Vision from the Heart&rpar;](https://dev.to/mnielsenflow/building-mira-a-spiritual-ai-soul-companion-no-code-vision-from-the-heart-362p)
+- [Shooter018](https://dev.to/magnus_thielsen_3d3cd1e84/shooter018-5gn)
+- [What is bubbling in DOM. Why parents is triggering on the event of children? To know read the full blog.](https://dev.to/developerhub/what-is-bubbling-in-dom-why-parents-is-triggering-on-the-event-of-children-to-know-read-the-full-1hn9)
 <!-- BLOG-POST-LIST:END -->
 
 
