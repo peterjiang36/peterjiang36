@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/analani/-21jb)
-- [How to Add TypeScript Support to Your Node.js Project](https://dev.to/frontendbytes/how-to-add-typescript-support-to-your-nodejs-project-7g2)
-- [Modern Threat Modeling for Cloud Infrastructure Security: Strategies for Security Architects in a Multi-Cloud World](https://dev.to/network_intelligence_25e4/modern-threat-modeling-for-cloud-infrastructure-security-strategies-for-security-architects-in-a-2a3e)
-- [My Journey into Web Development: Leveraging AI to Build a Strong Foundation](https://dev.to/maxyartstech/my-journey-into-web-development-leveraging-ai-to-build-a-strong-foundation-feb)
+- [Understanding Network Communication: OSI Model vs. TCP/IP Model vs. UDP](https://dev.to/emmyspace/understanding-network-communication-osi-model-vs-tcpip-model-vs-udp-5c97)
+- [🧪 Software Testers: The Unsung Heart Surgeons of Tech](https://dev.to/gadekar_sachin/software-testers-the-unsung-heart-surgeons-of-tech-4k9p)
+- [🚀 Unlock Cloudflare Warp’s Full Potential with Our PySide6 App! 🌍](https://dev.to/ericluckson1999/unlock-cloudflare-warps-full-potential-with-our-pyside6-app-48nn)
+- [HACK FRONTEND: Win $2,000 in our Monthly Frontend Hackathon! 💰](https://dev.to/imrankh13332994/hack-frontend-win-2000-in-our-monthly-frontend-hackathon-2d72)
 <!-- BLOG-POST-LIST:END -->
 
 
