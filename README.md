@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize SQLite Performance With Indexed Views and Write-Ahead Logging](https://dev.to/hexshift/how-to-optimize-sqlite-performance-with-indexed-views-and-write-ahead-logging-2llb)
-- [Scaling Kubernetes Applications: HPA, VPA, KEDA, and Beyond](https://dev.to/vinujakhatode/scaling-kubernetes-applications-hpa-vpa-keda-and-beyond-29aa)
-- [Literal](https://dev.to/emmakang123/literal-3e22)
-- [Just released my first mobile game](https://dev.to/onur_erayblk_7ff013993/just-released-my-first-mobile-game-57ke)
+- [Powers of 2](https://dev.to/maddiepst/powers-of-2-jid)
+- [🚀 Just Launched: Find Where to Watch Your Favorite Movies! 🎬🍿](https://dev.to/jayzwillz/just-launched-find-where-to-watch-your-favorite-movies-4m16)
+- [How I integrated Stripe into my React app in 10 minutes”](https://dev.to/temu1_5d8e1feae681f434618/how-i-integrated-stripe-into-my-react-app-in-10-minutes-4je3)
+- [Deep](https://dev.to/david_bermenvliz/deep-4jnp)
 <!-- BLOG-POST-LIST:END -->
 
 
