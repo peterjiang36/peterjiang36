@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple chat server in rust, Shat!](https://dev.to/paradoxy/a-simple-chat-server-in-rust-shat-4fkh)
-- [Effective Design Patterns in Go](https://dev.to/leapcell/effective-design-patterns-in-go-20d7)
-- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/theodora_e6f61d02577a5f06/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-34k0)
-- [🚀 Step-by-Step Guide to Building a Node.js Server with Express](https://dev.to/swapnil_ahmmedshishir_2d/step-by-step-guide-to-building-a-nodejs-server-with-express-4m06)
+- [JavaScript vs Python: What to Choose?](https://dev.to/dhanushnehru/javascript-vs-python-what-to-choose-31la)
+- [AI Rush Madness: The Accelerating Race for AI Dominance](https://dev.to/grenishrai/ai-rush-madness-the-accelerating-race-for-ai-dominance-51hm)
+- [Understanding Leetcode #15 3Sum](https://dev.to/pineapples/understanding-leetcode-15-3sum-4cj8)
+- [Navigating the Challenges of Stacked Pull Requests](https://dev.to/c_6b7a8e65d067ddc62/navigating-the-challenges-of-stacked-pull-requests-7j0)
 <!-- BLOG-POST-LIST:END -->
 
 
