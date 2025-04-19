@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, Dev Community! Let’s Connect &amp; Grow Together](https://dev.to/raza_haider_dev/hello-dev-community-lets-connect-grow-together-3lef)
-- [How Microsoft Excel Powers Data Science and Analytics: Benefits, Tools, and Real-World Use Cases.](https://dev.to/ngare_dancan/how-microsoft-excel-powers-data-science-and-analytics-benefits-tools-and-real-world-use-cases-h98)
-- [I Don’t Know Where I’m Going Yet—But I’ve Come So Far Already](https://dev.to/koobibinii/i-dont-know-where-im-going-yet-but-ive-come-so-far-already-4imm)
-- [Python Selenium Architecture](https://dev.to/satheesh_madhavarapu_302a/python-selenium-architecture-8c5)
+- [🧠 Neuromorphic Computing: Brain-Inspired Processing That’s Reshaping the Future](https://dev.to/srijan-xi/neuromorphic-computing-brain-inspired-processing-thats-reshaping-the-future-55kb)
+- [Online Python Compiler: Your Go-To Tool for Quick Scripting](https://dev.to/tpointtechblog/online-python-compiler-your-go-to-tool-for-quick-scripting-5eaa)
+- [Beware the Global Const](https://dev.to/somedood/beware-the-global-const-3cf7)
+- [Frontend Development in 2025: A Comprehensive Learning Journey for the Modern Web](https://dev.to/code_2/frontend-development-in-2025-a-comprehensive-learning-journey-for-the-modern-web-358l)
 <!-- BLOG-POST-LIST:END -->
 
 
