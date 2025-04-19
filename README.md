@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to HTML: What, Why, and How?](https://dev.to/raajaryan/introduction-to-html-what-why-and-how-5d9l)
-- [Blog Draft Ai Monetization Strategies 20250419 161846](https://dev.to/pponali/blog-draft-ai-monetization-strategies-20250419-161846-43b9)
-- [The Role of Educational Consultancy in Supporting Students with Special Needs](https://dev.to/absolute_edu_62eff0d653b7/the-role-of-educational-consultancy-in-supporting-students-with-special-needs-1ao7)
-- [Transforming Software Quality at Bynry: Our Test-Driven Development Journey &lpar;Part 1&rpar;](https://dev.to/mr_harshkumar_jha/transforming-software-quality-at-bynry-our-test-driven-development-journey-part-1-2ho)
+- [[Boost]](https://dev.to/analani/-21jb)
+- [How to Add TypeScript Support to Your Node.js Project](https://dev.to/frontendbytes/how-to-add-typescript-support-to-your-nodejs-project-7g2)
+- [Modern Threat Modeling for Cloud Infrastructure Security: Strategies for Security Architects in a Multi-Cloud World](https://dev.to/network_intelligence_25e4/modern-threat-modeling-for-cloud-infrastructure-security-strategies-for-security-architects-in-a-2a3e)
+- [My Journey into Web Development: Leveraging AI to Build a Strong Foundation](https://dev.to/maxyartstech/my-journey-into-web-development-leveraging-ai-to-build-a-strong-foundation-feb)
 <!-- BLOG-POST-LIST:END -->
 
 
