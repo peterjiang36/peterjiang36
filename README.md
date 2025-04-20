@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Docker to Podman: A Step-by-Step Guide](https://dev.to/linaida/migrating-from-docker-to-podman-a-step-by-step-guide-1433)
-- [Docker Images and Containers: The Core Building Block](https://dev.to/mayankcse/docker-images-and-containers-the-core-building-block-5hk8)
-- [Rethinking Exception Handling in APIs: Design for Clarity, Not Convenience](https://dev.to/iselind/rethinking-exception-handling-in-apis-design-for-clarity-not-convenience-1hjb)
-- [Slicing &amp; Indexing Tasks](https://dev.to/pradeepmtm/slicing-indexing-tasks-2o6g)
+- [Understanding Docker Image Layers: Optimizing Build Performance](https://dev.to/mayankcse/understanding-docker-image-layers-optimizing-build-performance-1obb)
+- [2025 Tech Hiring Shift: AI, Layoffs &amp; Where the Jobs Are](https://dev.to/resumeadapter/2025-tech-hiring-shift-ai-layoffs-where-the-jobs-are-3ohj)
+- [Add an .editorconfig file to your solution right from the start! 🛠️](https://dev.to/ahmedshahjr/add-an-editorconfig-file-to-your-solution-right-from-the-start-5lf)
+- [Supercharging My VS Code AI Agent with Local RAG](https://dev.to/lord_magus/supercharging-my-vs-code-ai-agent-with-local-rag-25n8)
 <!-- BLOG-POST-LIST:END -->
 
 
