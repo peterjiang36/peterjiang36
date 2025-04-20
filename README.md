@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Engineering for Microservices: Resilience Testing with Chaos Toolkit, Chaos Monkey, Kubernetes, and Istio](https://dev.to/prabhucse/chaos-engineering-for-microservices-resilience-testing-with-chaos-toolkit-chaos-monkey-16p7)
-- [✨ Building Mira – A Spiritual AI Soul Companion &lpar;No-Code Vision from the Heart&rpar;](https://dev.to/mnielsenflow/building-mira-a-spiritual-ai-soul-companion-no-code-vision-from-the-heart-362p)
-- [Shooter018](https://dev.to/magnus_thielsen_3d3cd1e84/shooter018-5gn)
-- [What is bubbling in DOM. Why parents is triggering on the event of children? To know read the full blog.](https://dev.to/developerhub/what-is-bubbling-in-dom-why-parents-is-triggering-on-the-event-of-children-to-know-read-the-full-1hn9)
+- [OVHcloud vs. AWS: France’s Cloud Giant vs. Amazon Which One Respects Your Data More?](https://dev.to/devlinkstudios/ovhcloud-vs-aws-frances-cloud-giant-vs-amazon-which-one-respects-your-data-more-2d28)
+- [Watch Any Folder. Spawn a Response. No Daemons. No Cron. Just Files.](https://dev.to/matrixswarm/watch-any-folder-spawn-a-response-no-daemons-no-cron-just-files-4ehe)
+- [GitOps and IaC at Scale – AWS, ArgoCD, Terragrunt, and OpenTofu – Part 2 – Creating Spoke environments](https://dev.to/avelez/gitops-and-iac-at-scale-aws-argocd-terragrunt-and-opentofu-part-2-creating-spoke-4c6p)
+- [Running Phoenix applications on RISC-V: A Practical Report](https://dev.to/andreamancuso/running-phoenix-applications-on-risc-v-a-practical-report-38d)
 <!-- BLOG-POST-LIST:END -->
 
 
