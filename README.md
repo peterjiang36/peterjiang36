@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI-Powered Chrome Extensions for Web Developers 🚀](https://dev.to/moibra/top-ai-powered-chrome-extensions-for-web-developers-343e)
-- [The AWS Step Functions WorkshopをCDKデプロイで試してみる](https://dev.to/aws-builders/the-aws-step-functions-workshopwocdkdepuroideshi-sitemiru-emg)
-- [openapi-fetch-gen – Generate TypeScript API client from OpenAPI TypeScript interface definitions created by openapi-typescript](https://dev.to/moznion/openapi-fetch-gen-generate-typescript-api-client-from-openapi-typescript-interface-definitions-kjd)
-- [[Boost]](https://dev.to/lorebrada00/-4p0o)
+- [Migrating from Docker to Podman: A Step-by-Step Guide](https://dev.to/linaida/migrating-from-docker-to-podman-a-step-by-step-guide-1433)
+- [Docker Images and Containers: The Core Building Block](https://dev.to/mayankcse/docker-images-and-containers-the-core-building-block-5hk8)
+- [Rethinking Exception Handling in APIs: Design for Clarity, Not Convenience](https://dev.to/iselind/rethinking-exception-handling-in-apis-design-for-clarity-not-convenience-1hjb)
+- [Slicing &amp; Indexing Tasks](https://dev.to/pradeepmtm/slicing-indexing-tasks-2o6g)
 <!-- BLOG-POST-LIST:END -->
 
 
