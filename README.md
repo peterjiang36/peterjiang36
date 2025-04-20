@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OVHcloud vs. AWS: France’s Cloud Giant vs. Amazon Which One Respects Your Data More?](https://dev.to/devlinkstudios/ovhcloud-vs-aws-frances-cloud-giant-vs-amazon-which-one-respects-your-data-more-2d28)
-- [Watch Any Folder. Spawn a Response. No Daemons. No Cron. Just Files.](https://dev.to/matrixswarm/watch-any-folder-spawn-a-response-no-daemons-no-cron-just-files-4ehe)
-- [GitOps and IaC at Scale – AWS, ArgoCD, Terragrunt, and OpenTofu – Part 2 – Creating Spoke environments](https://dev.to/avelez/gitops-and-iac-at-scale-aws-argocd-terragrunt-and-opentofu-part-2-creating-spoke-4c6p)
-- [Running Phoenix applications on RISC-V: A Practical Report](https://dev.to/andreamancuso/running-phoenix-applications-on-risc-v-a-practical-report-38d)
+- [GEN-AI 5 : WGAN and WGAN-GP](https://dev.to/mitanshgor/gen-ai-2-generative-ai-and-auto-encoders-do8)
+- [GEN-AI 4 : GAN](https://dev.to/mitanshgor/gen-ai-4-gan-how-ai-learns-to-generate-realistic-images-17bn)
+- [No Daemons. No Cron. No Containers. Just Files.](https://dev.to/matrixswarm/no-daemons-no-cron-no-containers-just-files-26j4)
+- [How AI is Shaping Our Watching Habits](https://dev.to/erik_lindstrom_101/how-ai-is-shaping-our-watching-habits-46oa)
 <!-- BLOG-POST-LIST:END -->
 
 
