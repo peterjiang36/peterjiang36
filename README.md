@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding useState and Props in React: A Beginner-Friendly Guide](https://dev.to/davinceleecode/understanding-usestate-and-props-in-react-a-beginner-friendly-guide-298l)
-- [Blog Draft Ai Technologies Monetization Strategy 20250420 073107](https://dev.to/pponali/blog-draft-ai-technologies-monetization-strategy-20250420-073107-2n09)
-- [Blog Draft Ai Monetization Strategies 20250420 072930](https://dev.to/pponali/blog-draft-ai-monetization-strategies-20250420-072930-3b19)
-- [Exploiting HTB’s ‘Redeemer’ Box with Redis Misconfiguration](https://dev.to/keyfive5/exploiting-htbs-redeemer-box-with-redis-misconfiguration-20dh)
+- [How to Implement Secure Random Number Generation in JavaScript](https://dev.to/hexshift/how-to-implement-secure-random-number-generation-in-javascript-5ejf)
+- [🔥 The Kumite of Code — The Most Mysterious Developer Tournament You&#39;ve Never Heard Of](https://dev.to/ghostking314/the-kumite-of-code-the-most-mysterious-developer-tournament-youve-never-heard-of-22n9)
+- [Why Does Event Bubbling Happen by Default? &lpar;And Why It Makes Sense&rpar;](https://dev.to/developerhub/why-does-event-bubbling-happen-by-default-and-why-it-makes-sense-1321)
+- [Turn Your Old Devices 💻 into an AI Supercomputer: Run Powerful Models Locally with Exo](https://dev.to/shahdeep/turn-your-old-devices-into-an-ai-supercomputer-run-powerful-models-locally-with-exo-55ak)
 <!-- BLOG-POST-LIST:END -->
 
 
