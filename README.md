@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS-only Slide-up Caption Hover Effect](https://dev.to/preetha_vaishnavi_2b82358/css-only-slide-up-caption-hover-effect-1pi6)
-- [200 Inspiring JavaScript Project Ideas &lpar;With Source Code eBook Included!&rpar;](https://dev.to/code_2/200-inspiring-javascript-project-ideas-with-source-code-ebook-included-3gnf)
-- [Capaz](https://dev.to/david_bermenvliz/capaz-1gkk)
-- [Creative Black Hole](https://dev.to/preetha_vaishnavi_2b82358/creative-black-hole-53dc)
+- [Exploiting HTB’s ‘Appointment’ Box with SQL Injection](https://dev.to/keyfive5/exploiting-htbs-appointment-box-with-sql-injection-430d)
+- [Computer store landing page](https://dev.to/preetha_vaishnavi_2b82358/computer-store-landing-page-4f6h)
+- [🌐 Host a Static Website on AWS S3: Step-by-Step Guide for Beginners](https://dev.to/aws-builders/host-a-static-website-on-aws-s3-step-by-step-guide-for-beginners-4ifg)
+- [From Transit Gateways to Cloud WAN: Navigating the Shift in AWS Networking](https://dev.to/aws-builders/from-transit-gateways-to-cloud-wan-navigating-the-shift-in-aws-networking-2122)
 <!-- BLOG-POST-LIST:END -->
 
 
