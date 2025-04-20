@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
-- [Mastering GoFrame&#39;s gqueue: A Practical Guide to In-Memory Queues in Go 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-gqueue-a-practical-guide-to-in-memory-queues-in-go-501o)
-- [🚀 Just Built My First Two Web Projects Using HTML &amp; CSS!](https://dev.to/shifil/just-built-my-first-two-web-projects-using-html-css-42k2)
-- [🐞 Debugging JavaScript: Tips and Tools](https://dev.to/hasunnilupul/debugging-javascript-tips-and-tools-2hp0)
+- [Understanding Fetch and Axios : Never to look back again](https://dev.to/saurabh_raj_afaabe1844a4c/understanding-fetch-and-axios-never-to-look-back-again-2b53)
+- [Leveraging AWS &amp; GCP for Backend Development: A Practical Guide](https://dev.to/savithag/leveraging-aws-gcp-for-backend-development-a-practical-guide-4ebl)
+- [LangGraph Meets Vector Databases: A Love Story &lpar;With Code&rpar;](https://dev.to/sakethkowtha/langgraph-meets-vector-databases-a-love-story-with-code-3ja8)
+- [🚀Reusable React Input Component for Tags &amp; Colors – Built with TypeScript](https://dev.to/jackfd120/reusable-react-input-component-for-tags-colors-built-with-typescript-5078)
 <!-- BLOG-POST-LIST:END -->
 
 
