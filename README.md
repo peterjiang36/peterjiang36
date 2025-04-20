@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Off the Pedestal: What We Leave Behind](https://dev.to/mtorun/off-the-pedestal-what-we-leave-behind-4cjm)
-- [🔥 10 Common JavaScript Pitfalls That Even Experienced Developers Fall Into](https://dev.to/muhammadaqib86/10-common-javascript-pitfalls-that-even-experienced-developers-fall-into-4bb3)
-- [A Glimpse into Essential Linux Commands for DevOps &amp; Cloud Computing](https://dev.to/muhammad_hanzala/a-glimpse-into-essential-linux-commands-for-devops-cloud-computing-4e34)
-- [📸 GenAI Malmö Photo Concierge: Personalized Travel Photography with Gemini AI](https://dev.to/sensefield/genai-malmo-photo-concierge-personalized-travel-photography-with-gemini-ai-602)
+- [CSS-only Slide-up Caption Hover Effect](https://dev.to/preetha_vaishnavi_2b82358/css-only-slide-up-caption-hover-effect-1pi6)
+- [200 Inspiring JavaScript Project Ideas &lpar;With Source Code eBook Included!&rpar;](https://dev.to/code_2/200-inspiring-javascript-project-ideas-with-source-code-ebook-included-3gnf)
+- [Capaz](https://dev.to/david_bermenvliz/capaz-1gkk)
+- [Creative Black Hole](https://dev.to/preetha_vaishnavi_2b82358/creative-black-hole-53dc)
 <!-- BLOG-POST-LIST:END -->
 
 
