@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi + Azure Series: A Developer’s Perspective](https://dev.to/nedimhozic/pulumi-azure-series-a-developers-perspective-4h5f)
-- [The Singoff-agen — Learning Through Dumb Projects](https://dev.to/sc00p/the-singoff-agen-learning-through-dumb-projects-3bfg)
-- [🛡️ Scan and Protect Any App in 5 Minutes with Bearer CLI &lpar;SAST for Everyone&rpar;](https://dev.to/wsalas651/scan-and-protect-any-app-in-5-minutes-with-bearer-cli-sast-for-everyone-3n7)
-- [🚀 State Management Smackdown: Riverpod vs Provider vs BLoC 🥊](https://dev.to/yashashm/state-management-smackdown-riverpod-vs-provider-vs-bloc-27a1)
+- [Handling Binary Data with DataView and Buffer](https://dev.to/omriluz1/handling-binary-data-with-dataview-and-buffer-4fd7)
+- [Generative AI](https://dev.to/tahrim_bilal/-af9)
+- [Convert and scale a PIL Image to an Image in PyTorch](https://dev.to/hyperkai/convert-and-scale-a-pil-image-to-an-image-in-pytorch-3e8e)
+- [How I Built a Personalized Email Generator in Python &lpar;as a Beginner&rpar;](https://dev.to/jgraspopovich/how-i-built-a-personalized-email-generator-in-python-as-a-beginner-2hfc)
 <!-- BLOG-POST-LIST:END -->
 
 
