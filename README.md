@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Three Normal Forms in Database and Why You Might Ignore Them](https://dev.to/leapcell/the-three-normal-forms-in-database-and-why-you-might-ignore-them-1fm0)
-- [Snowflake Use Cases](https://dev.to/v_vidya_7ac69a221b5923817/snowflake-use-cases-4o1h)
-- [Title: Looking for Help: Building a Cricket Shot Detection Model with YOLOv &lpar;Using IPL Footage&rpar;](https://dev.to/krithick_faa6a0765e4cbf85/title-looking-for-help-building-a-cricket-shot-detection-model-with-yolov-using-ipl-footage-51pd)
-- [🚀 AWS Compute Services: Which One Should You Use?](https://dev.to/btanisha11/aws-compute-services-which-one-should-you-use-3p2n)
+- [Top AI-Powered Chrome Extensions for Web Developers 🚀](https://dev.to/moibra/top-ai-powered-chrome-extensions-for-web-developers-343e)
+- [The AWS Step Functions WorkshopをCDKデプロイで試してみる](https://dev.to/aws-builders/the-aws-step-functions-workshopwocdkdepuroideshi-sitemiru-emg)
+- [openapi-fetch-gen – Generate TypeScript API client from OpenAPI TypeScript interface definitions created by openapi-typescript](https://dev.to/moznion/openapi-fetch-gen-generate-typescript-api-client-from-openapi-typescript-interface-definitions-kjd)
+- [[Boost]](https://dev.to/lorebrada00/-4p0o)
 <!-- BLOG-POST-LIST:END -->
 
 
