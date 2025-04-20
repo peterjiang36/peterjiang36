@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Secure Random Number Generation in JavaScript](https://dev.to/hexshift/how-to-implement-secure-random-number-generation-in-javascript-5ejf)
-- [🔥 The Kumite of Code — The Most Mysterious Developer Tournament You&#39;ve Never Heard Of](https://dev.to/ghostking314/the-kumite-of-code-the-most-mysterious-developer-tournament-youve-never-heard-of-22n9)
-- [Why Does Event Bubbling Happen by Default? &lpar;And Why It Makes Sense&rpar;](https://dev.to/developerhub/why-does-event-bubbling-happen-by-default-and-why-it-makes-sense-1321)
-- [Turn Your Old Devices 💻 into an AI Supercomputer: Run Powerful Models Locally with Exo](https://dev.to/shahdeep/turn-your-old-devices-into-an-ai-supercomputer-run-powerful-models-locally-with-exo-55ak)
+- [Android vs iPhone&lpar;iOS&rpar;: Perbandingan, Kelebihan, dan Kekurangan &lpar;2025&rpar;](https://dev.to/ryfazrin/android-vs-iphoneios-perbandingan-kelebihan-dan-kekurangan-2025-2j9l)
+- [Axios and Fetch template for CRUD](https://dev.to/devcorner/axios-and-fetch-template-for-crud-2ig1)
+- [Simple Guide to Setting Up EC2 with Auto Scaling Groups &lpar;ASG&rpar; on AWS](https://dev.to/durga_v/simple-guide-to-setting-up-ec2-with-auto-scaling-groups-asg-on-aws-4j0m)
+- [Open Source MCP Playground - TRMX.Ai](https://dev.to/_4b254f4408ef55656a22e4/open-source-mcp-playground-trmxai-2d7p)
 <!-- BLOG-POST-LIST:END -->
 
 
