@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Attending Manus’s First Event in Japan](https://dev.to/atsushiambo/attending-manuss-first-event-in-japan-2e7h)
-- [How to Run Scheduled Cron Jobs in GitHub Workflows for Free](https://dev.to/britzdm/how-to-run-scheduled-cron-jobs-in-github-workflows-for-free-4pgn)
-- [OpenAI&#39;s Agent building guide - summary](https://dev.to/ivor/openais-agent-building-guide-summary-56jg)
-- [Kubernetes Workloads &amp; Services — Explained with an Amusement Park Analogy](https://dev.to/mmk4mmk/kubernetes-workloads-services-explained-with-an-amusement-park-analogy-235m)
+- [The Role of Java in Today&#39;s Tech Industry.](https://dev.to/technokryon12385/the-role-of-java-in-todays-tech-industry-3g2i)
+- [Docker for Absolute Beginners: A Clean Guide for 2025](https://dev.to/uzair_khan_a88dc86d5117ce/docker-for-absolute-beginners-a-clean-guide-for-2025-54b4)
+- [Snyk and Sonar : committed credentials security test](https://dev.to/hexfloor/snyk-and-sonar-committed-credentials-security-test-5719)
+- [Simple FSCSS example](https://dev.to/fscss-ttr/simple-fscss-example-45nl)
 <!-- BLOG-POST-LIST:END -->
 
 
