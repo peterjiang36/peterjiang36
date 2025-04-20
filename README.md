@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting an Effective Application Security Program: Strategies, Techniques and Tools for the Best End-to-End Results](https://dev.to/lynxfelony1/crafting-an-effective-application-security-program-strategies-techniques-and-tools-for-the-best-416h)
-- [Weekly Challenge: Short and friendly](https://dev.to/simongreennet/weekly-challenge-short-and-friendly-jf)
-- [Day 10: My first GitHub action](https://dev.to/s_j_9c4bdb31f6630da7/day-10-my-first-github-action-20hm)
-- [Network Troubleshooting Tools in Red Hat Linux](https://dev.to/shamain_anjum/network-troubleshooting-tools-in-red-hat-linux-2084)
+- [The Three Normal Forms in Database and Why You Might Ignore Them](https://dev.to/leapcell/the-three-normal-forms-in-database-and-why-you-might-ignore-them-1fm0)
+- [Snowflake Use Cases](https://dev.to/v_vidya_7ac69a221b5923817/snowflake-use-cases-4o1h)
+- [Title: Looking for Help: Building a Cricket Shot Detection Model with YOLOv &lpar;Using IPL Footage&rpar;](https://dev.to/krithick_faa6a0765e4cbf85/title-looking-for-help-building-a-cricket-shot-detection-model-with-yolov-using-ipl-footage-51pd)
+- [🚀 AWS Compute Services: Which One Should You Use?](https://dev.to/btanisha11/aws-compute-services-which-one-should-you-use-3p2n)
 <!-- BLOG-POST-LIST:END -->
 
 
