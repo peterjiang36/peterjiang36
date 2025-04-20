@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Binary Data with DataView and Buffer](https://dev.to/omriluz1/handling-binary-data-with-dataview-and-buffer-4fd7)
-- [Generative AI](https://dev.to/tahrim_bilal/-af9)
-- [Convert and scale a PIL Image to an Image in PyTorch](https://dev.to/hyperkai/convert-and-scale-a-pil-image-to-an-image-in-pytorch-3e8e)
-- [How I Built a Personalized Email Generator in Python &lpar;as a Beginner&rpar;](https://dev.to/jgraspopovich/how-i-built-a-personalized-email-generator-in-python-as-a-beginner-2hfc)
+- [Rendering Lists – React Docs](https://dev.to/buildlogmmd/rendering-lists-react-docs-b0d)
+- [Conditional rendering – React Docs](https://dev.to/buildlogmmd/conditional-rendering-react-docs-5h2k)
+- [Mastering the cp Command in Linux](https://dev.to/sanasadiq/mastering-the-cp-command-in-linux-5bef)
+- [Introducing MCP Server Boilerplate: Build Extensible Python MCP Servers for LLMS and Agents](https://dev.to/josharsh/introducing-mcp-server-boilerplate-build-extensible-python-mcp-servers-for-llms-and-agents-5hj)
 <!-- BLOG-POST-LIST:END -->
 
 
