@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting HTB’s ‘Appointment’ Box with SQL Injection](https://dev.to/keyfive5/exploiting-htbs-appointment-box-with-sql-injection-430d)
-- [Computer store landing page](https://dev.to/preetha_vaishnavi_2b82358/computer-store-landing-page-4f6h)
-- [🌐 Host a Static Website on AWS S3: Step-by-Step Guide for Beginners](https://dev.to/aws-builders/host-a-static-website-on-aws-s3-step-by-step-guide-for-beginners-4ifg)
-- [From Transit Gateways to Cloud WAN: Navigating the Shift in AWS Networking](https://dev.to/aws-builders/from-transit-gateways-to-cloud-wan-navigating-the-shift-in-aws-networking-2122)
+- [Pulumi + Azure Series: A Developer’s Perspective](https://dev.to/nedimhozic/pulumi-azure-series-a-developers-perspective-4h5f)
+- [The Singoff-agen — Learning Through Dumb Projects](https://dev.to/sc00p/the-singoff-agen-learning-through-dumb-projects-3bfg)
+- [🛡️ Scan and Protect Any App in 5 Minutes with Bearer CLI &lpar;SAST for Everyone&rpar;](https://dev.to/wsalas651/scan-and-protect-any-app-in-5-minutes-with-bearer-cli-sast-for-everyone-3n7)
+- [🚀 State Management Smackdown: Riverpod vs Provider vs BLoC 🥊](https://dev.to/yashashm/state-management-smackdown-riverpod-vs-provider-vs-bloc-27a1)
 <!-- BLOG-POST-LIST:END -->
 
 
