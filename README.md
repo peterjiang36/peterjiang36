@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Java in Today&#39;s Tech Industry.](https://dev.to/technokryon12385/the-role-of-java-in-todays-tech-industry-3g2i)
-- [Docker for Absolute Beginners: A Clean Guide for 2025](https://dev.to/uzair_khan_a88dc86d5117ce/docker-for-absolute-beginners-a-clean-guide-for-2025-54b4)
-- [Snyk and Sonar : committed credentials security test](https://dev.to/hexfloor/snyk-and-sonar-committed-credentials-security-test-5719)
-- [Simple FSCSS example](https://dev.to/fscss-ttr/simple-fscss-example-45nl)
+- [781. Rabbits in Forest](https://dev.to/mdarifulhaque/781-rabbits-in-forest-4fnh)
+- [Mastering GoFrame&#39;s gqueue: A Practical Guide to In-Memory Queues in Go 🚀](https://dev.to/jones_charles_ad50858dbc0/mastering-goframes-gqueue-a-practical-guide-to-in-memory-queues-in-go-501o)
+- [🚀 Just Built My First Two Web Projects Using HTML &amp; CSS!](https://dev.to/shifil/just-built-my-first-two-web-projects-using-html-css-42k2)
+- [🐞 Debugging JavaScript: Tips and Tools](https://dev.to/hasunnilupul/debugging-javascript-tips-and-tools-2hp0)
 <!-- BLOG-POST-LIST:END -->
 
 
