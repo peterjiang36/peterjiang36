@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Rotation Login/Signup Box](https://dev.to/preetha_vaishnavi_2b82358/3d-rotation-loginsignup-box-24i3)
-- [Testing A FastAPI App With Pytest](https://dev.to/jod35/testing-a-fastapi-app-with-pytest-31f5)
-- [Level Up Your Java: A Developer&#39;s Guide to Agentic AI](https://dev.to/myfear/level-up-your-java-a-developers-guide-to-agentic-ai-4b3l)
-- [Difference Between Block-level and Inline Elements](https://dev.to/raajaryan/difference-between-block-level-and-inline-elements-53g3)
+- [Off the Pedestal: What We Leave Behind](https://dev.to/mtorun/off-the-pedestal-what-we-leave-behind-4cjm)
+- [🔥 10 Common JavaScript Pitfalls That Even Experienced Developers Fall Into](https://dev.to/muhammadaqib86/10-common-javascript-pitfalls-that-even-experienced-developers-fall-into-4bb3)
+- [A Glimpse into Essential Linux Commands for DevOps &amp; Cloud Computing](https://dev.to/muhammad_hanzala/a-glimpse-into-essential-linux-commands-for-devops-cloud-computing-4e34)
+- [📸 GenAI Malmö Photo Concierge: Personalized Travel Photography with Gemini AI](https://dev.to/sensefield/genai-malmo-photo-concierge-personalized-travel-photography-with-gemini-ai-602)
 <!-- BLOG-POST-LIST:END -->
 
 
