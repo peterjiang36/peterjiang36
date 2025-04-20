@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GEN-AI 5 : WGAN and WGAN-GP](https://dev.to/mitanshgor/gen-ai-2-generative-ai-and-auto-encoders-do8)
-- [GEN-AI 4 : GAN](https://dev.to/mitanshgor/gen-ai-4-gan-how-ai-learns-to-generate-realistic-images-17bn)
-- [No Daemons. No Cron. No Containers. Just Files.](https://dev.to/matrixswarm/no-daemons-no-cron-no-containers-just-files-26j4)
-- [How AI is Shaping Our Watching Habits](https://dev.to/erik_lindstrom_101/how-ai-is-shaping-our-watching-habits-46oa)
+- [Understanding useState and Props in React: A Beginner-Friendly Guide](https://dev.to/davinceleecode/understanding-usestate-and-props-in-react-a-beginner-friendly-guide-298l)
+- [Blog Draft Ai Technologies Monetization Strategy 20250420 073107](https://dev.to/pponali/blog-draft-ai-technologies-monetization-strategy-20250420-073107-2n09)
+- [Blog Draft Ai Monetization Strategies 20250420 072930](https://dev.to/pponali/blog-draft-ai-monetization-strategies-20250420-072930-3b19)
+- [Exploiting HTB’s ‘Redeemer’ Box with Redis Misconfiguration](https://dev.to/keyfive5/exploiting-htbs-redeemer-box-with-redis-misconfiguration-20dh)
 <!-- BLOG-POST-LIST:END -->
 
 
