@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Annotation in SpringBoot](https://dev.to/neelakandan_ravi/annotation-in-springboot-1jf3)
-- [The Day I Realized I Needed to Raise My Rates as a Coder](https://dev.to/canro91/the-day-i-realized-i-needed-to-raise-my-rates-as-a-coder-hog)
-- [The one place for &#39;IMAGE TOOLS&#39; - Image Forge](https://dev.to/phantom_dev/the-one-place-for-image-tools-image-forge-36ak)
-- [Does React Work for iOS, and How Does it Perform?](https://dev.to/brilworks/does-react-work-for-ios-and-how-does-it-perform-2phe)
+- [Building a Kubernetes Cluster on Bare Metal: Insights, Challenges, and a Complete Setup Guide](https://dev.to/arkrak4568/building-a-kubernetes-cluster-on-bare-metal-insights-challenges-and-a-complete-setup-guide-5273)
+- [Applying Checkov: Static Application Security Testing &lpar;SAST&rpar; to Infrastructure as Code with Terraform](https://dev.to/ahmed_hasanakhtaroviedo/applying-checkov-static-application-security-testing-sast-to-infrastructure-as-code-with-203d)
+- [Is Node.js the Right Fit for Your Business Website or App?](https://dev.to/alex_3c165a96b43112b35d9e/is-nodejs-the-right-fit-for-your-business-website-or-app-4kn0)
+- [Managing Complex Forms with Angular Reactive Forms](https://dev.to/artem_turlenko/managing-complex-forms-with-angular-reactive-forms-1l4n)
 <!-- BLOG-POST-LIST:END -->
 
 
