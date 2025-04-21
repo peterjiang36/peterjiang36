@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [100DaysOfCode — Day 4](https://dev.to/jobkroongit/100daysofcode-day-4-3ec6)
-- [Best AI PDF Translator for Enterprises](https://dev.to/jennamitchell/best-ai-pdf-translator-for-enterprises-49de)
-- [Linear Search vs. Binary Search: A Practical Guide in Go](https://dev.to/alikawp/linear-search-vs-binary-search-a-practical-guide-in-go-12ch)
-- [EveryAI](https://dev.to/itstanayhere/everyai-4a6j)
+- [How to Build an AI-Powered crypto Token from Scratch](https://dev.to/abijohn/how-to-build-an-ai-powered-crypto-token-from-scratch-5fie)
+- [Create a flyout menu with submenu using only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-flyout-menu-with-submenu-using-only-tailwind-css-5872)
+- [📅 5 Reasons I Built My Own Online Clock Instead of Using an App](https://dev.to/e-clock/5-reasons-i-built-my-own-online-clock-instead-of-using-an-app-3gp7)
+- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-1jbd)
 <!-- BLOG-POST-LIST:END -->
 
 
