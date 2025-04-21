@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize React Apps with Memoization and Custom Comparison Functions](https://dev.to/hexshift/how-to-optimize-react-apps-with-memoization-and-custom-comparison-functions-32h1)
-- [Building Real-Time Apps with React and Socket.IO](https://dev.to/debajit13/building-real-time-apps-with-react-and-socketio-2nci)
-- [GPT for Word. Use Reka Flash 3 for Creative Writing in Microsoft Word Locally &lpar;100% Private&rpar;.](https://dev.to/gptlocalhost/test-1h6b)
-- [5 Essential Java Libraries for Real-Time Application Monitoring](https://dev.to/aaravjoshi/5-essential-java-libraries-for-real-time-application-monitoring-ame)
+- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 1&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-1-4330)
+- [🚀 600 Minds in the Swarm — What Comes Next?](https://dev.to/matrixswarm/600-minds-in-the-swarm-what-comes-next-4e31)
+- [How Kubernetes Automates and Manages Your Docker Containers](https://dev.to/upcloud/how-kubernetes-automates-and-manages-your-docker-containers-278n)
+- [On wasted effort and ‘vibe coding’](https://dev.to/lpnts/on-wasted-effort-and-vibe-coding-356e)
 <!-- BLOG-POST-LIST:END -->
 
 
