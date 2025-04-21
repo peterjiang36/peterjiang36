@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Literals](https://dev.to/mike-vincent/quarks-outlines-python-literals-30d8)
-- [My SaaS Emails Look Boring: That&#39;s Why They Work](https://dev.to/shayy/my-saas-emails-look-boring-thats-why-they-work-7hm)
-- [Create a PDF to Slide AI Generator with Python, Celery, and python-pptx 🔥🚀](https://dev.to/kgoedecke/create-a-pdf-to-slide-ai-generator-with-python-celery-and-python-pptx-41d2)
-- [🧭 UpdateSentinel: Build an Agent That Finds Stale Files and Asks AI What to Do With Them](https://dev.to/matrixswarm/updatesentinel-build-an-agent-that-finds-stale-files-and-asks-ai-what-to-do-with-them-2cj2)
+- [Types of Human Resource Information Systems &lpar;HRIS System&rpar;](https://dev.to/tarunfulera1/types-of-human-resource-information-systems-hris-system-1il8)
+- [The Review Etiquette: Reviewing Code Without Being a Jerk](https://dev.to/tlorent/the-review-etiquette-reviewing-code-without-being-a-jerk-36cb)
+- [Top Ergonomic Laptop Stands for Productiviaty](https://dev.to/snoopish/top-ergonomic-laptop-stands-for-productiviaty-2c4l)
+- [O primeiro teste da IDE Kaltrinkeda.](https://dev.to/notmadebyahuman/o-primeiro-teste-da-ide-kaltrinkeda-1a71)
 <!-- BLOG-POST-LIST:END -->
 
 
