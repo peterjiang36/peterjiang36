@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting web app on your old Android phone](https://dev.to/quave/hosting-web-app-on-your-old-android-phone-54bg)
-- [mRNA and saRNA Vaccine Persistence: A Hidden Dialogue with Estrogen Signaling?](https://dev.to/yuji_marutani/mrna-and-sarna-vaccine-persistence-a-hidden-dialogue-with-estrogen-signaling-2had)
-- [How AI is Changing the Way We Create Product Images](https://dev.to/sammy_seoexpert_ab60ac0ce/how-ai-is-changing-the-way-we-create-product-images-29hc)
-- [¿Cómo ejecutar Node.js, PostgreSQL y Express.js en contenedores dentro de un entorno de desarrollo?](https://dev.to/jose-c0/como-ejecutar-nodejs-postgresql-y-expressjs-en-contenedores-dentro-de-un-entorno-de-desarrollo-4c54)
+- [Cut CI/CD Costs by 77% &amp; 2x Deployment Speed with GitHub Actions on EKS Auto](https://dev.to/aws-builders/cut-cicd-costs-by-77-2x-deployment-speed-with-github-actions-on-eks-auto-2ob2)
+- [LEMP Stack &lpar;WEB STACK&rpar; Implementation in AWS](https://dev.to/uwadon1/lemp-stack-web-stack-implementation-in-aws-jmo)
+- [EXPOSED! Why Hackers Are Silently Targeting Your Security Misconfigurations](https://dev.to/yuvasec/exposed-why-hackers-are-silently-targeting-your-security-misconfigurations-1ja4)
+- [Angular 16+ Signals vs Decorators: Understanding input&lpar;&rpar;, output&lpar;&rpar;, and signal&lpar;&rpar;](https://dev.to/cristiansifuentes/angular-16-signals-vs-decorators-understanding-input-output-and-signal-2486)
 <!-- BLOG-POST-LIST:END -->
 
 
