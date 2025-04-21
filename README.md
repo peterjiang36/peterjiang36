@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
-- [💻 40 Web Developer Questions Recruiters Actually Ask in 2025 🔥](https://dev.to/finalroundai/40-web-developer-questions-recruiters-actually-ask-in-2025-aaf)
-- [[Vulnerability Campaign] Protect TECNO devices](https://dev.to/tecno-security/vulnerability-campaign-protect-tecno-devices-888)
-- [MCP client - Step by Step Guide to Building from Scratch](https://dev.to/composiodev/mcp-client-step-by-step-guide-to-building-from-scratch-4gpj)
+- [Vector embeddings made easy with Go, Azure Cosmos DB, and OpenAI](https://dev.to/abhirockzz/vector-embeddings-made-easy-with-go-azure-cosmos-db-and-openai-35co)
+- [Top 10 Animation Libraries for React Native Apps](https://dev.to/aneeqakhan/top-10-animation-libraries-for-react-native-apps-5b60)
+- [Stay Ahead with Google Ads Competitor Insights](https://dev.to/swiftproxy_residential/stay-ahead-with-google-ads-competitor-insights-3egj)
+- [Warp Terminal Unveiled: Enhancing Developer Experience with Intelligent Features](https://dev.to/omriluz1/warp-terminal-unveiled-enhancing-developer-experience-with-intelligent-features-36a6)
 <!-- BLOG-POST-LIST:END -->
 
 
