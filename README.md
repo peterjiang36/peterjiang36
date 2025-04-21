@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host a Game on Alibaba Cloud Using OSS and OSSUtil](https://dev.to/jamesrmoro/how-to-host-a-game-on-alibaba-cloud-using-oss-and-ossutil-5el6)
-- [FlowLite — a lightweight way to manage state in .NET without the pain](https://dev.to/hawkn113/flowlite-a-lightweight-way-to-manage-state-in-net-without-the-pain-13e7)
-- [Nobody Cares About Your Tech Stack &lpar;and That&#39;s a Good Thing&rpar;](https://dev.to/shayy/nobody-cares-about-your-tech-stack-and-thats-a-good-thing-4032)
-- [AliRobo: The Go-Powered Game with Wasm](https://dev.to/attila_olbrich_ce45a12c58/alirobo-the-go-powered-game-with-wasm-3bac)
+- [Why your crypto seed deserves more than paper &lpar;and what we built to fix it&rpar;](https://dev.to/hercules_crypto/why-your-crypto-seed-deserves-more-than-paper-and-what-we-built-to-fix-it-3h3o)
+- [From C# to TypeScript: Your Cozy Guide to Microsoft’s Dynamic Duo](https://dev.to/syawqy/from-c-to-typescript-your-cozy-guide-to-microsofts-dynamic-duo-34df)
+- [AWS Certified AI Practitioner](https://dev.to/lea_abraham_7a0232a6cd616/aws-certified-ai-practitioner-44i)
+- [Calculate Average Scores By Category using Google Sheets Pivot Table](https://dev.to/nightwolfdev/calculate-average-scores-by-category-using-google-sheets-pivot-table-4kel)
 <!-- BLOG-POST-LIST:END -->
 
 
