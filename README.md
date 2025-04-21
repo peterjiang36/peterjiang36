@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [XRPL Stability and Scalability Efforts](https://dev.to/ripplexdev/xrpl-stability-and-scalability-efforts-45h4)
-- [The ROI of daily monitoring: calculating the cost of a missed web change](https://dev.to/monitlog/the-roi-of-daily-monitoring-calculating-the-cost-of-a-missed-web-change-71m)
-- [Own Custom Calculator Build &lpar;Yes, You Can!&rpar;](https://dev.to/olivia_innovation/own-custom-calculator-build-yes-you-can-14gm)
-- [Leetcode - 101. Symmetric Tree](https://dev.to/rakeshreddy512/leetcode-101-symmetric-tree-202c)
+- [Diffusing Images on a Laptop with no GPU](https://dev.to/besworks/diffusing-images-on-a-laptop-with-no-gpu-31dn)
+- [Unlocking Business Growth with Custom Website Design and PHP Development Services](https://dev.to/davidwills1/unlocking-business-growth-with-custom-website-design-and-php-development-services-4egk)
+- [Help Build Doguino – A Dutch Online Dog Game](https://dev.to/vinboy/help-build-doguino-a-dutch-online-dog-game-359f)
+- [I&#39;m a Bicester South &quot;paper candidate&quot; for the Green Party!](https://dev.to/nottrobin/im-a-bicester-south-paper-candidate-for-the-green-party-53e5)
 <!-- BLOG-POST-LIST:END -->
 
 
