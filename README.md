@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Managing Customer Data in a CRM](https://dev.to/bhavesh_gangani_/best-practices-for-managing-customer-data-in-a-crm-553g)
-- [Building an Agentic Workflow: Orchestrating a Multi-Step Software Engineering Interview](https://dev.to/orkes/building-an-agentic-workflow-orchestrating-a-multi-step-software-engineering-interview-57h2)
-- [Data-Driven Training Strategies: Leveraging Software for Workforce Growth](https://dev.to/lukasjeremy/data-driven-training-strategies-leveraging-software-for-workforce-growth-144p)
-- [Solving Kamal&#39;s &quot;Target Failed to Become Healthy&quot; Error: A Practical Debugging Guide](https://dev.to/jetthoughts/solving-kamals-target-failed-to-become-healthy-error-a-practical-debugging-guide-25a6)
+- [How to Optimize React Apps with Memoization and Custom Comparison Functions](https://dev.to/hexshift/how-to-optimize-react-apps-with-memoization-and-custom-comparison-functions-32h1)
+- [Building Real-Time Apps with React and Socket.IO](https://dev.to/debajit13/building-real-time-apps-with-react-and-socketio-2nci)
+- [GPT for Word. Use Reka Flash 3 for Creative Writing in Microsoft Word Locally &lpar;100% Private&rpar;.](https://dev.to/gptlocalhost/test-1h6b)
+- [5 Essential Java Libraries for Real-Time Application Monitoring](https://dev.to/aaravjoshi/5-essential-java-libraries-for-real-time-application-monitoring-ame)
 <!-- BLOG-POST-LIST:END -->
 
 
