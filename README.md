@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Things to Do After Installing Termux: A Comprehensive Guide for Beginners](https://dev.to/terminaltools/things-to-do-after-installing-termux-a-comprehensive-guide-for-beginners-3f9c)
-- [Corazón de melón](https://dev.to/david_bermenvliz/corazon-de-melon-5dii)
-- [Build an MVP: Strategy &amp; Design](https://dev.to/mobisoftinfotech/build-an-mvp-strategy-design-4057)
-- [Commit to Code: Branching, Merging, Squashing &amp; Rebasing](https://dev.to/shanedsouza4/commit-to-code-branching-merging-squashing-rebasing-3b64)
+- [🔍 Data Cleaning Techniques Using SQL](https://dev.to/mohammed_jobairhossain_c/data-cleaning-techniques-using-sql-68d)
+- [Building a Local AI Agent with Ollama + MCP + Docker&quot;](https://dev.to/rajeev_3ce9f280cbae73b234/building-a-local-ai-agent-with-ollama-mcp-docker-37a)
+- [How to Install Termux on Android Phone](https://dev.to/terminaltools/how-to-install-termux-on-android-phone-27a9)
+- [From Zero to EKS and Hybrid-Nodes —Part 3: Setting up the NLB, Ingress, and Services on a Hybrid EKS Infrastructure](https://dev.to/csepulvedab/from-zero-to-eks-and-hybrid-nodes-part-3-setting-up-the-nlb-ingress-and-services-on-a-hybrid-2opl)
 <!-- BLOG-POST-LIST:END -->
 
 
