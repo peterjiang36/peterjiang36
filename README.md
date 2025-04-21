@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Data Cleaning Techniques Using SQL](https://dev.to/mohammed_jobairhossain_c/data-cleaning-techniques-using-sql-68d)
-- [Building a Local AI Agent with Ollama + MCP + Docker&quot;](https://dev.to/rajeev_3ce9f280cbae73b234/building-a-local-ai-agent-with-ollama-mcp-docker-37a)
-- [How to Install Termux on Android Phone](https://dev.to/terminaltools/how-to-install-termux-on-android-phone-27a9)
-- [From Zero to EKS and Hybrid-Nodes —Part 3: Setting up the NLB, Ingress, and Services on a Hybrid EKS Infrastructure](https://dev.to/csepulvedab/from-zero-to-eks-and-hybrid-nodes-part-3-setting-up-the-nlb-ingress-and-services-on-a-hybrid-2opl)
+- [Annotation in SpringBoot](https://dev.to/neelakandan_ravi/annotation-in-springboot-1jf3)
+- [The Day I Realized I Needed to Raise My Rates as a Coder](https://dev.to/canro91/the-day-i-realized-i-needed-to-raise-my-rates-as-a-coder-hog)
+- [The one place for &#39;IMAGE TOOLS&#39; - Image Forge](https://dev.to/phantom_dev/the-one-place-for-image-tools-image-forge-36ak)
+- [Does React Work for iOS, and How Does it Perform?](https://dev.to/brilworks/does-react-work-for-ios-and-how-does-it-perform-2phe)
 <!-- BLOG-POST-LIST:END -->
 
 
