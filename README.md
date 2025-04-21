@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector embeddings made easy with Go, Azure Cosmos DB, and OpenAI](https://dev.to/abhirockzz/vector-embeddings-made-easy-with-go-azure-cosmos-db-and-openai-35co)
-- [Top 10 Animation Libraries for React Native Apps](https://dev.to/aneeqakhan/top-10-animation-libraries-for-react-native-apps-5b60)
-- [Stay Ahead with Google Ads Competitor Insights](https://dev.to/swiftproxy_residential/stay-ahead-with-google-ads-competitor-insights-3egj)
-- [Warp Terminal Unveiled: Enhancing Developer Experience with Intelligent Features](https://dev.to/omriluz1/warp-terminal-unveiled-enhancing-developer-experience-with-intelligent-features-36a6)
+- [100DaysOfCode — Day 4](https://dev.to/jobkroongit/100daysofcode-day-4-3ec6)
+- [Best AI PDF Translator for Enterprises](https://dev.to/jennamitchell/best-ai-pdf-translator-for-enterprises-49de)
+- [Linear Search vs. Binary Search: A Practical Guide in Go](https://dev.to/alikawp/linear-search-vs-binary-search-a-practical-guide-in-go-12ch)
+- [EveryAI](https://dev.to/itstanayhere/everyai-4a6j)
 <!-- BLOG-POST-LIST:END -->
 
 
