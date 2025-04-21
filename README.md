@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can&#39;t Control Access, You Can&#39;t Control the Cloud &lpar;Part 1&rpar;](https://dev.to/dtemi/if-you-cant-control-access-you-cant-control-the-cloud-part-1-4330)
-- [🚀 600 Minds in the Swarm — What Comes Next?](https://dev.to/matrixswarm/600-minds-in-the-swarm-what-comes-next-4e31)
-- [How Kubernetes Automates and Manages Your Docker Containers](https://dev.to/upcloud/how-kubernetes-automates-and-manages-your-docker-containers-278n)
-- [On wasted effort and ‘vibe coding’](https://dev.to/lpnts/on-wasted-effort-and-vibe-coding-356e)
+- [Como configurar diferentes ambientes em apps React Native](https://dev.to/ambegossi/como-configurar-diferentes-ambientes-para-apps-react-native-2o5k)
+- [Google Workspace Flows with Natural Language](https://dev.to/googleworkspace/google-workspace-flows-with-natural-language-13e5)
+- [How to Stay Ahead of Industry Trends as a Cybersecurity Sales Expert by Industry Leaders such as John Almond &lpar;Austin&rpar;](https://dev.to/johnalmond02/how-to-stay-ahead-of-industry-trends-as-a-cybersecurity-sales-expert-by-industry-leaders-such-as-234j)
+- [AWS-Cloud Networking &lpar;Peering VPCs&rpar;](https://dev.to/muhammad_shaheer_munir/aws-cloud-networking-peering-vpcs-53fd)
 <!-- BLOG-POST-LIST:END -->
 
 
