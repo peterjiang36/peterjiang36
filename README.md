@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Human Resource Information Systems &lpar;HRIS System&rpar;](https://dev.to/tarunfulera1/types-of-human-resource-information-systems-hris-system-1il8)
-- [The Review Etiquette: Reviewing Code Without Being a Jerk](https://dev.to/tlorent/the-review-etiquette-reviewing-code-without-being-a-jerk-36cb)
-- [Top Ergonomic Laptop Stands for Productiviaty](https://dev.to/snoopish/top-ergonomic-laptop-stands-for-productiviaty-2c4l)
-- [O primeiro teste da IDE Kaltrinkeda.](https://dev.to/notmadebyahuman/o-primeiro-teste-da-ide-kaltrinkeda-1a71)
+- [XRPL Stability and Scalability Efforts](https://dev.to/ripplexdev/xrpl-stability-and-scalability-efforts-45h4)
+- [The ROI of daily monitoring: calculating the cost of a missed web change](https://dev.to/monitlog/the-roi-of-daily-monitoring-calculating-the-cost-of-a-missed-web-change-71m)
+- [Own Custom Calculator Build &lpar;Yes, You Can!&rpar;](https://dev.to/olivia_innovation/own-custom-calculator-build-yes-you-can-14gm)
+- [Leetcode - 101. Symmetric Tree](https://dev.to/rakeshreddy512/leetcode-101-symmetric-tree-202c)
 <!-- BLOG-POST-LIST:END -->
 
 
