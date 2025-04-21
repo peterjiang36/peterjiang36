@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Kubernetes Cluster on Bare Metal: Insights, Challenges, and a Complete Setup Guide](https://dev.to/arkrak4568/building-a-kubernetes-cluster-on-bare-metal-insights-challenges-and-a-complete-setup-guide-5273)
-- [Applying Checkov: Static Application Security Testing &lpar;SAST&rpar; to Infrastructure as Code with Terraform](https://dev.to/ahmed_hasanakhtaroviedo/applying-checkov-static-application-security-testing-sast-to-infrastructure-as-code-with-203d)
-- [Is Node.js the Right Fit for Your Business Website or App?](https://dev.to/alex_3c165a96b43112b35d9e/is-nodejs-the-right-fit-for-your-business-website-or-app-4kn0)
-- [Managing Complex Forms with Angular Reactive Forms](https://dev.to/artem_turlenko/managing-complex-forms-with-angular-reactive-forms-1l4n)
+- [SQL DDL Commands Explained: Structuring Your Database](https://dev.to/dbvismarketing/sql-ddl-commands-explained-structuring-your-database-4i92)
+- [💻 40 Web Developer Questions Recruiters Actually Ask in 2025 🔥](https://dev.to/finalroundai/40-web-developer-questions-recruiters-actually-ask-in-2025-aaf)
+- [[Vulnerability Campaign] Protect TECNO devices](https://dev.to/tecno-security/vulnerability-campaign-protect-tecno-devices-888)
+- [MCP client - Step by Step Guide to Building from Scratch](https://dev.to/composiodev/mcp-client-step-by-step-guide-to-building-from-scratch-4gpj)
 <!-- BLOG-POST-LIST:END -->
 
 
