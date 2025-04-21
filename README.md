@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🍅 The Power of the Pomodoro Timer: Why It Works and How to Use It](https://dev.to/e-clock/the-power-of-the-pomodoro-timer-why-it-works-and-how-to-use-it-cem)
-- [Design Patterns #5: Null Object Pattern – Writing Safer, Cleaner Code.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-5-null-object-pattern-writing-safer-cleaner-code-ebl)
-- [DevOops, We&#39;ve Done It Again: The Continued Silos Between AppDev and Ops](https://dev.to/dbhagen/devoops-weve-done-it-again-the-continued-silos-between-appdev-and-ops-55hb)
-- [What are your goals for the week? #123](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-123-1b9f)
+- [Quark&#39;s Outlines: Python Literals](https://dev.to/mike-vincent/quarks-outlines-python-literals-30d8)
+- [My SaaS Emails Look Boring: That&#39;s Why They Work](https://dev.to/shayy/my-saas-emails-look-boring-thats-why-they-work-7hm)
+- [Create a PDF to Slide AI Generator with Python, Celery, and python-pptx 🔥🚀](https://dev.to/kgoedecke/create-a-pdf-to-slide-ai-generator-with-python-celery-and-python-pptx-41d2)
+- [🧭 UpdateSentinel: Build an Agent That Finds Stale Files and Asks AI What to Do With Them](https://dev.to/matrixswarm/updatesentinel-build-an-agent-that-finds-stale-files-and-asks-ai-what-to-do-with-them-2cj2)
 <!-- BLOG-POST-LIST:END -->
 
 
