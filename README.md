@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como configurar diferentes ambientes em apps React Native](https://dev.to/ambegossi/como-configurar-diferentes-ambientes-para-apps-react-native-2o5k)
-- [Google Workspace Flows with Natural Language](https://dev.to/googleworkspace/google-workspace-flows-with-natural-language-13e5)
-- [How to Stay Ahead of Industry Trends as a Cybersecurity Sales Expert by Industry Leaders such as John Almond &lpar;Austin&rpar;](https://dev.to/johnalmond02/how-to-stay-ahead-of-industry-trends-as-a-cybersecurity-sales-expert-by-industry-leaders-such-as-234j)
-- [AWS-Cloud Networking &lpar;Peering VPCs&rpar;](https://dev.to/muhammad_shaheer_munir/aws-cloud-networking-peering-vpcs-53fd)
+- [🍅 The Power of the Pomodoro Timer: Why It Works and How to Use It](https://dev.to/e-clock/the-power-of-the-pomodoro-timer-why-it-works-and-how-to-use-it-cem)
+- [Design Patterns #5: Null Object Pattern – Writing Safer, Cleaner Code.](https://dev.to/serhii_korol_ab7776c50dba/design-patterns-5-null-object-pattern-writing-safer-cleaner-code-ebl)
+- [DevOops, We&#39;ve Done It Again: The Continued Silos Between AppDev and Ops](https://dev.to/dbhagen/devoops-weve-done-it-again-the-continued-silos-between-appdev-and-ops-55hb)
+- [What are your goals for the week? #123](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-123-1b9f)
 <!-- BLOG-POST-LIST:END -->
 
 
