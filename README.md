@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your crypto seed deserves more than paper &lpar;and what we built to fix it&rpar;](https://dev.to/hercules_crypto/why-your-crypto-seed-deserves-more-than-paper-and-what-we-built-to-fix-it-3h3o)
-- [From C# to TypeScript: Your Cozy Guide to Microsoft’s Dynamic Duo](https://dev.to/syawqy/from-c-to-typescript-your-cozy-guide-to-microsofts-dynamic-duo-34df)
-- [AWS Certified AI Practitioner](https://dev.to/lea_abraham_7a0232a6cd616/aws-certified-ai-practitioner-44i)
-- [Calculate Average Scores By Category using Google Sheets Pivot Table](https://dev.to/nightwolfdev/calculate-average-scores-by-category-using-google-sheets-pivot-table-4kel)
+- [Getting Started with Boto3: The AWS SDK for Python](https://dev.to/leonardkachi/getting-started-with-boto3-the-aws-sdk-for-python-nha)
+- [jenv - managing multiple JDK environments](https://dev.to/m07sk/jenv-managing-multiple-jdk-environments-5d7)
+- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-2dfc)
+- [Exploring a Jupyter Notebook Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-jupyter-notebook-project-on-github-445i)
 <!-- BLOG-POST-LIST:END -->
 
 
