@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI-Powered crypto Token from Scratch](https://dev.to/abijohn/how-to-build-an-ai-powered-crypto-token-from-scratch-5fie)
-- [Create a flyout menu with submenu using only Tailwind CSS](https://dev.to/mike_andreuzza/create-a-flyout-menu-with-submenu-using-only-tailwind-css-5872)
-- [📅 5 Reasons I Built My Own Online Clock Instead of Using an App](https://dev.to/e-clock/5-reasons-i-built-my-own-online-clock-instead-of-using-an-app-3gp7)
-- [[Boost]](https://dev.to/hassan_rezaali_b64d94d40a/-1jbd)
+- [Best Practices for Managing Customer Data in a CRM](https://dev.to/bhavesh_gangani_/best-practices-for-managing-customer-data-in-a-crm-553g)
+- [Building an Agentic Workflow: Orchestrating a Multi-Step Software Engineering Interview](https://dev.to/orkes/building-an-agentic-workflow-orchestrating-a-multi-step-software-engineering-interview-57h2)
+- [Data-Driven Training Strategies: Leveraging Software for Workforce Growth](https://dev.to/lukasjeremy/data-driven-training-strategies-leveraging-software-for-workforce-growth-144p)
+- [Solving Kamal&#39;s &quot;Target Failed to Become Healthy&quot; Error: A Practical Debugging Guide](https://dev.to/jetthoughts/solving-kamals-target-failed-to-become-healthy-error-a-practical-debugging-guide-25a6)
 <!-- BLOG-POST-LIST:END -->
 
 
