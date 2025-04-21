@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Ticker NASDAQ Update: Price Trends, Predictions, and Analysis](https://dev.to/ray_parker01/tesla-ticker-nasdaq-update-price-trends-predictions-and-analysis-1ei6)
-- [2145. Count the Hidden Sequences](https://dev.to/mdarifulhaque/2145-count-the-hidden-sequences-3fkd)
-- [Ne plus confondre Taints &amp; Tolerations : le contrôle d&#39;accès dans Kubernetes](https://dev.to/bentaniamin1/ne-plus-confondre-taints-tolerations-le-controle-dacces-dans-kubernetes-14d3)
-- [As someone who&#39;s spent years in B2B sales, I can&#39;t tell you how accurate this is. Objections and contract risks are often where the real relationship starts. Loved how it reframed these as strategic tools, not friction. #SalesIntelligence #AshkanRajaee #A](https://dev.to/edwardvinke/as-someone-whos-spent-years-in-b2b-sales-i-cant-tell-you-how-accurate-this-is-objections-and-3eoe)
+- [How to Host a Game on Alibaba Cloud Using OSS and OSSUtil](https://dev.to/jamesrmoro/how-to-host-a-game-on-alibaba-cloud-using-oss-and-ossutil-5el6)
+- [FlowLite — a lightweight way to manage state in .NET without the pain](https://dev.to/hawkn113/flowlite-a-lightweight-way-to-manage-state-in-net-without-the-pain-13e7)
+- [Nobody Cares About Your Tech Stack &lpar;and That&#39;s a Good Thing&rpar;](https://dev.to/shayy/nobody-cares-about-your-tech-stack-and-thats-a-good-thing-4032)
+- [AliRobo: The Go-Powered Game with Wasm](https://dev.to/attila_olbrich_ce45a12c58/alirobo-the-go-powered-game-with-wasm-3bac)
 <!-- BLOG-POST-LIST:END -->
 
 
