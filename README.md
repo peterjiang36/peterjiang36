@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diffusing Images on a Laptop with no GPU](https://dev.to/besworks/diffusing-images-on-a-laptop-with-no-gpu-31dn)
-- [Unlocking Business Growth with Custom Website Design and PHP Development Services](https://dev.to/davidwills1/unlocking-business-growth-with-custom-website-design-and-php-development-services-4egk)
-- [Help Build Doguino – A Dutch Online Dog Game](https://dev.to/vinboy/help-build-doguino-a-dutch-online-dog-game-359f)
-- [I&#39;m a Bicester South &quot;paper candidate&quot; for the Green Party!](https://dev.to/nottrobin/im-a-bicester-south-paper-candidate-for-the-green-party-53e5)
+- [Tesla Ticker NASDAQ Update: Price Trends, Predictions, and Analysis](https://dev.to/ray_parker01/tesla-ticker-nasdaq-update-price-trends-predictions-and-analysis-1ei6)
+- [2145. Count the Hidden Sequences](https://dev.to/mdarifulhaque/2145-count-the-hidden-sequences-3fkd)
+- [Ne plus confondre Taints &amp; Tolerations : le contrôle d&#39;accès dans Kubernetes](https://dev.to/bentaniamin1/ne-plus-confondre-taints-tolerations-le-controle-dacces-dans-kubernetes-14d3)
+- [As someone who&#39;s spent years in B2B sales, I can&#39;t tell you how accurate this is. Objections and contract risks are often where the real relationship starts. Loved how it reframed these as strategic tools, not friction. #SalesIntelligence #AshkanRajaee #A](https://dev.to/edwardvinke/as-someone-whos-spent-years-in-b2b-sales-i-cant-tell-you-how-accurate-this-is-objections-and-3eoe)
 <!-- BLOG-POST-LIST:END -->
 
 
