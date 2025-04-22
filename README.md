@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
-- [Unlocking the Future of Video Creation: How Wan AI is Revolutionizing Content](https://dev.to/guang_gavin_36c5be55cebe7/unlocking-the-future-of-video-creation-how-wan-ai-is-revolutionizing-content-1c72)
-- [[Boost]](https://dev.to/praveen_maila_52267a1848f/-14jl)
-- [📈 Spring Boot Actuator and Micrometer: Monitoring Made Easy!](https://dev.to/devcorner/spring-boot-actuator-and-micrometer-monitoring-made-easy-430h)
+- [5 Ways AI Agents are Transforming Code Reviews: A Deep Dive into the New Developer Experience](https://dev.to/pullflow/5-ways-ai-agents-are-transforming-code-reviews-a-deep-dive-into-the-new-developer-experience-4gmm)
+- [🧠 MetricsAgent + Oracle — Self-Analyzing System Logs from the Swarm](https://dev.to/matrixswarm/metricsagent-oracle-self-analyzing-system-logs-from-the-swarm-49f7)
+- [🤖 OpenAI o3 vs. Gemini 2.5 vs. OpenAI o4-Mini 🤔](https://dev.to/composiodev/openai-o3-vs-gemini-25-vs-openai-o4-mini-5ej4)
+- [Hybrid IT – Flexibility Meets Control](https://dev.to/kevin_asutton_/hybrid-it-flexibility-meets-control-4i5m)
 <!-- BLOG-POST-LIST:END -->
 
 
