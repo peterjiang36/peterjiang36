@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey folks 👋 I&#39;ve recently been updating my GitHub profile with some of the work I’ve done in machine learning, cloud, and full-stack engineering. Feel free to check it out — feedback always welcome! 🔗 github.com/Ankita-Gupta2024](https://dev.to/ankita_gupta_028cea9759db/hey-folks-ive-recently-been-updating-my-github-profile-with-some-of-the-work-ive-done-in-npg)
-- [Use CLI on any OS to read-write your iPhone folders &lpar;without cloud or cable&rpar;](https://dev.to/ducbao414/use-cli-on-any-os-to-read-write-your-iphone-folders-without-cloud-or-cable-32hb)
-- [20-Point Developer Checklist Before Starting Any Coding Project](https://dev.to/hexshift/20-point-developer-checklist-before-starting-any-coding-project-2nmc)
-- [Exploring a C++ Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-c-project-on-github-3k85)
+- [Factory Pattern Without any `if`](https://dev.to/kiponos/factory-pattern-without-any-if-4807)
+- [C++ Tips and Tricks for Advanced Developers](https://dev.to/million_formula_3be3d915d/c-tips-and-tricks-for-advanced-developers-3mla)
+- [Bias trong machine learning là gì](https://dev.to/congngheaivn/bias-trong-machine-learning-la-gi-2pa1)
+- [My new blog on Docker and Kubernetes deployment in UpCloud](https://dev.to/chefgs/-c91)
 <!-- BLOG-POST-LIST:END -->
 
 
