@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Factory Pattern Without any `if`](https://dev.to/kiponos/factory-pattern-without-any-if-4807)
-- [C++ Tips and Tricks for Advanced Developers](https://dev.to/million_formula_3be3d915d/c-tips-and-tricks-for-advanced-developers-3mla)
-- [Bias trong machine learning là gì](https://dev.to/congngheaivn/bias-trong-machine-learning-la-gi-2pa1)
-- [My new blog on Docker and Kubernetes deployment in UpCloud](https://dev.to/chefgs/-c91)
+- [chatEVT + Azure App Service &lpar;Web Apps&rpar;](https://dev.to/evertontenorio/chatevt-azure-app-service-web-apps-56ae)
+- [The Magic of Time: How Clocks Keep Our Lives Ticking](https://dev.to/e-clock/the-magic-of-time-how-clocks-keep-our-lives-ticking-30fh)
+- [Linux User Management Made Simple: Learn the Essentials in Minutes](https://dev.to/nanakwameops/linux-user-management-made-simple-learn-the-essentials-in-minutes-2b9f)
+- [Everyone: &#39;Adopt AI or Get Left Behind!&#39; Me: &#39;Yeah... That&#39;s Not Actually True](https://dev.to/jimmyshoe85/everyone-adopt-ai-or-get-left-behind-me-yeah-thats-not-actually-true-48ok)
 <!-- BLOG-POST-LIST:END -->
 
 
