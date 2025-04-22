@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you talk about/utilize AI with your team at work?](https://dev.to/jess/how-do-you-talk-aboututilize-ai-with-your-team-at-work-2g35)
-- [Been in sales for 10+ years and this feels spot on. The part about contract risk being a reflection of past experience really resonated. We need more conversations like this.](https://dev.to/amirbouchard/been-in-sales-for-10-years-and-this-feels-spot-on-the-part-about-contract-risk-being-a-reflection-358b)
-- [Learning Reflection Pig Latin Translator](https://dev.to/codingtides/learning-reflection-pig-latin-translator-3jdf)
-- [Building a Web Alarm Clock with JavaScript](https://dev.to/e-clock/building-a-web-alarm-clock-with-javascript-108n)
+- [How do I get started using a raspberry pi5? I don&#39;t have anything yet.](https://dev.to/james_cann_9960/how-do-i-get-started-using-a-raspberry-pi5-i-dont-have-anything-yet-4a00)
+- [An L-MM for LLM Agents](https://dev.to/salman_paracha_ea278514b4/an-l-mm-for-llm-agents-254b)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8)
+- [100DaysOfCode — Day 5](https://dev.to/jobkroongit/100daysofcode-day-5-1g7c)
 <!-- BLOG-POST-LIST:END -->
 
 
