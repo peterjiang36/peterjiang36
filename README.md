@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [chatEVT + Azure App Service &lpar;Web Apps&rpar;](https://dev.to/evertontenorio/chatevt-azure-app-service-web-apps-56ae)
-- [The Magic of Time: How Clocks Keep Our Lives Ticking](https://dev.to/e-clock/the-magic-of-time-how-clocks-keep-our-lives-ticking-30fh)
-- [Linux User Management Made Simple: Learn the Essentials in Minutes](https://dev.to/nanakwameops/linux-user-management-made-simple-learn-the-essentials-in-minutes-2b9f)
-- [Everyone: &#39;Adopt AI or Get Left Behind!&#39; Me: &#39;Yeah... That&#39;s Not Actually True](https://dev.to/jimmyshoe85/everyone-adopt-ai-or-get-left-behind-me-yeah-thats-not-actually-true-48ok)
+- [Fort Knox in the Cloud: A Practical Guide to AWS Security &amp; IAM](https://dev.to/pkkolla/fort-knox-in-the-cloud-a-practical-guide-to-aws-security-iam-48gk)
+- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-oek)
+- [How to Get Started with Building Apps Using React Native](https://dev.to/simpl-olivia/how-to-get-started-with-building-apps-using-react-native-563e)
+- [[Boost]](https://dev.to/naik_sejal/-5cp0)
 <!-- BLOG-POST-LIST:END -->
 
 
