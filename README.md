@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Android Box ?](https://dev.to/said_ghazal_a7cd8596d076c/what-is-android-box--4321)
-- [Mental model and intuition](https://dev.to/yulei-chen/mental-model-and-intuition-28a2)
-- [Spring &amp; Http Caching](https://dev.to/dejvis_beqiraj/spring-http-caching-5320)
-- [Python txt to Excel - 01](https://dev.to/sachin_varghese_zele/python-txt-to-excel-01-330)
+- [How do you talk about/utilize AI with your team at work?](https://dev.to/jess/how-do-you-talk-aboututilize-ai-with-your-team-at-work-2g35)
+- [Been in sales for 10+ years and this feels spot on. The part about contract risk being a reflection of past experience really resonated. We need more conversations like this.](https://dev.to/amirbouchard/been-in-sales-for-10-years-and-this-feels-spot-on-the-part-about-contract-risk-being-a-reflection-358b)
+- [Learning Reflection Pig Latin Translator](https://dev.to/codingtides/learning-reflection-pig-latin-translator-3jdf)
+- [Building a Web Alarm Clock with JavaScript](https://dev.to/e-clock/building-a-web-alarm-clock-with-javascript-108n)
 <!-- BLOG-POST-LIST:END -->
 
 
