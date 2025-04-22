@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fort Knox in the Cloud: A Practical Guide to AWS Security &amp; IAM](https://dev.to/pkkolla/fort-knox-in-the-cloud-a-practical-guide-to-aws-security-iam-48gk)
-- [[Boost]](https://dev.to/satchel_hamilton_09ed373a/-oek)
-- [How to Get Started with Building Apps Using React Native](https://dev.to/simpl-olivia/how-to-get-started-with-building-apps-using-react-native-563e)
-- [[Boost]](https://dev.to/naik_sejal/-5cp0)
+- [🚀 Automating Social Media Posting with AI &amp; n8n Workflows](https://dev.to/anshikaila/automating-social-media-posting-with-ai-n8n-workflows-53nd)
+- [ToTensor in PyTorch](https://dev.to/hyperkai/totensor-in-pytorch-3n72)
+- [The Future of Remote Work — How AI is Replacing Meetings and Enhancing Productivity](https://dev.to/pooja_sharma_ee3f9fc10788/the-future-of-remote-work-how-ai-is-replacing-meetings-and-enhancing-productivity-22cj)
+- [How to Modify User Accounts and Properties on Linux Using usermod](https://dev.to/nanakwameops/how-to-modify-user-accounts-and-properties-on-linux-using-usermod-581n)
 <!-- BLOG-POST-LIST:END -->
 
 
