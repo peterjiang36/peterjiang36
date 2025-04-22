@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Boto3: The AWS SDK for Python](https://dev.to/leonardkachi/getting-started-with-boto3-the-aws-sdk-for-python-nha)
-- [jenv - managing multiple JDK environments](https://dev.to/m07sk/jenv-managing-multiple-jdk-environments-5d7)
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-2dfc)
-- [Exploring a Jupyter Notebook Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-jupyter-notebook-project-on-github-445i)
+- [LivinGrimoire: The Design Pattern That Makes Others Look Like Scrap Metal](https://dev.to/owly/livingrimoire-the-design-pattern-that-makes-others-look-like-scrap-metal-1ih9)
+- [Why Are Buttons Losing the Pointer Cursor? The ShadCN and Tailwind Debate](https://dev.to/mmvergara/why-are-buttons-losing-the-pointer-cursor-the-shadcn-and-tailwind-debate-2j93)
+- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-3n9n)
+- [Azure Applied Skills: Create and configure virtual networks](https://dev.to/johnogbonna/azure-applied-skills-create-and-configure-virtual-networks-45gi)
 <!-- BLOG-POST-LIST:END -->
 
 
