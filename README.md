@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Automating Social Media Posting with AI &amp; n8n Workflows](https://dev.to/anshikaila/automating-social-media-posting-with-ai-n8n-workflows-53nd)
-- [ToTensor in PyTorch](https://dev.to/hyperkai/totensor-in-pytorch-3n72)
-- [The Future of Remote Work — How AI is Replacing Meetings and Enhancing Productivity](https://dev.to/pooja_sharma_ee3f9fc10788/the-future-of-remote-work-how-ai-is-replacing-meetings-and-enhancing-productivity-22cj)
-- [How to Modify User Accounts and Properties on Linux Using usermod](https://dev.to/nanakwameops/how-to-modify-user-accounts-and-properties-on-linux-using-usermod-581n)
+- [Second Me Now Supports MCP Protocol —— Your AI Identity Can Now Be Called Anywhere](https://dev.to/secondme/second-me-now-supports-mcp-protocol-your-ai-identity-can-now-be-called-anywhere-5348)
+- [9 Patterns and Practices for Securing Apps in Angular](https://dev.to/artem_turlenko/securing-angular-applications-best-practices-patterns-5ca9)
+- [Why Web Accessibility Matters for Your Business?](https://dev.to/aeldata/why-web-accessibility-matters-for-your-business-3gm7)
+- [How to Understand a Project Codebase Like a Pro](https://dev.to/kristiyanvelkov/how-to-understand-a-project-codebase-like-a-pro-45kl)
 <!-- BLOG-POST-LIST:END -->
 
 
