@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This algorithm&#39;s O&lpar;n log n + m&rpar; runtime for a 2-approximate Dominating Set presents tangible, efficient evidence that P = NP may be practically realizable via near-optimal polynomial-time solutions. Deployed and Ready to use https://pypi.org/project/baldor](https://dev.to/frank_vega_987689489099bf/this-algorithms-on-log-n-m-runtime-for-a-2-approximate-dominating-set-presents-tangible-2jdm)
-- [Mastering Tmux: The Terminal Multiplexer Every Developer Should Know](https://dev.to/govindup63/mastering-tmux-the-terminal-multiplexer-every-developer-should-know-3ko2)
-- [Getting Started with Slugs in React: My Experience](https://dev.to/ramcpucoder/getting-started-with-slugs-in-react-my-experience-8o8)
-- [First post](https://dev.to/saurabh_doke_dev/first-post-1o4m)
+- [My AWS Journey Just Leveled Up!](https://dev.to/mahmoudai/my-aws-journey-just-leveled-up-552k)
+- [Help Me Improve My Python Compound Interest Calculator - New Dev Building Portfolio](https://dev.to/danone_14/help-me-improve-my-python-compound-interest-calculator-new-dev-building-portfolio-5e3f)
+- [🚀PushForge: Modern Web Push Notifications Made Simple🚀](https://dev.to/draphy/pushforge-modern-web-push-notifications-made-simple-599p)
+- [What No One Tells You About Being a Mid-Level Developer](https://dev.to/namanvashistha/what-no-one-tells-you-about-being-a-mid-level-developer-28ji)
 <!-- BLOG-POST-LIST:END -->
 
 
