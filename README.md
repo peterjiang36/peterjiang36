@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Your AI: 20+ Advanced Cursor / Windsurf Tricks for Vibe Coding in A way Harder, Better, Faster and Stronger](https://dev.to/yigit-konur/stop-fighting-your-ai-20-advanced-cursor-windsurf-tricks-for-vibe-coding-in-a-way-harder-4a28)
-- [[Boost]](https://dev.to/dathyyy/-11i)
-- [JSON-RPC Uncovered](https://dev.to/bharathvaj_ganesan/json-rpc-uncovered-1f8n)
-- [How I Built an AI-Generated News Site - and What I Learned](https://dev.to/agentictribune/how-i-built-an-ai-generated-news-site-and-what-surprised-me-29c4)
+- [🌐 Introduction to Networking: Connecting Our Digital World](https://dev.to/sakir_malek_1959c345947de/introduction-to-networking-connecting-our-digital-world-3bgi)
+- [Understanding NACLs with AWS EC2 instances 🚀](https://dev.to/aws-builders/understanding-nacls-with-aws-ec2-instances-29me)
+- [20 Questions an IT Worker Needs to Ask Themselves to Know If AI Will Replace Them](https://dev.to/hexshift/20-questions-an-it-worker-needs-to-ask-themselves-to-know-if-ai-will-replace-them-48a5)
+- [Good read 👍](https://dev.to/ben/good-read-6hb)
 <!-- BLOG-POST-LIST:END -->
 
 
