@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AWS Journey Just Leveled Up!](https://dev.to/mahmoudai/my-aws-journey-just-leveled-up-552k)
-- [Help Me Improve My Python Compound Interest Calculator - New Dev Building Portfolio](https://dev.to/danone_14/help-me-improve-my-python-compound-interest-calculator-new-dev-building-portfolio-5e3f)
-- [🚀PushForge: Modern Web Push Notifications Made Simple🚀](https://dev.to/draphy/pushforge-modern-web-push-notifications-made-simple-599p)
-- [What No One Tells You About Being a Mid-Level Developer](https://dev.to/namanvashistha/what-no-one-tells-you-about-being-a-mid-level-developer-28ji)
+- [What is Amazon API Gateway? The Ultimate Guide](https://dev.to/leonardkachi/what-is-amazon-api-gateway-the-ultimate-guide-37j)
+- [Vue - Usando watchEffect e reactive para maior controle](https://dev.to/stefanyrepetcki/vue-usando-watcheffect-e-reactive-para-maior-controle-2hkf)
+- [Meet PKI: The Quiet Hero Behind Secure Browsing](https://dev.to/rijultp/meet-pki-the-quiet-hero-behind-secure-browsing-5fkc)
+- [Vue com composition API - Computed e Watch](https://dev.to/stefanyrepetcki/vue-com-composition-api-computed-e-watch-574g)
 <!-- BLOG-POST-LIST:END -->
 
 
