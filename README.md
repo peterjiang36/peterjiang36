@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I get started using a raspberry pi5? I don&#39;t have anything yet.](https://dev.to/james_cann_9960/how-do-i-get-started-using-a-raspberry-pi5-i-dont-have-anything-yet-4a00)
-- [An L-MM for LLM Agents](https://dev.to/salman_paracha_ea278514b4/an-l-mm-for-llm-agents-254b)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hc8)
-- [100DaysOfCode — Day 5](https://dev.to/jobkroongit/100daysofcode-day-5-1g7c)
+- [Which LLMs Are &lpar;and Aren&#39;t&rpar; Ready for Secure Code?](https://dev.to/stacklok/which-llms-are-and-arent-ready-for-secure-code-38ac)
+- [🕷️ ScraperAgent v1.0 — MatrixSwarm’s Headless Recon Agent](https://dev.to/matrixswarm/scraperagent-v10-matrixswarms-headless-recon-agent-5egf)
+- [OpenAI in Advanced Talks to Acquire Windsurf for $3 Billion](https://dev.to/justin_downes/openai-in-advanced-talks-to-acquire-windsurf-for-3-billion-445b)
+- [How to use Terraform resource to manage Infrastructure](https://dev.to/olalekan_oladiran_d74b7a6/how-to-use-terraform-resource-to-manage-infrastructure-2lmm)
 <!-- BLOG-POST-LIST:END -->
 
 
