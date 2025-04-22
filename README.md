@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Concept to Creation in Minutes: How I Built My Portfolio Using Super Engineer AI🚀](https://dev.to/ifrahur/from-concept-to-creation-in-minutes-how-i-built-my-portfolio-using-super-engineer-ai-46gh)
-- [Why Dev Teams Wish UX Writers Knew Markdown](https://dev.to/rishumehra/why-dev-teams-wish-ux-writers-knew-markdown-43af)
-- [Building a Powerful EVM Token Analysis Telegram Bot](https://dev.to/stevendev0822/building-a-powerful-evm-token-analysis-telegram-bot-39og)
-- [Maximize API Revenue with Strategic Partner Integrations](https://dev.to/zuplo/maximize-api-revenue-with-strategic-partner-integrations-5f22)
+- [The GitHub Chronicles: Your Contribution Graph Tells a Story &lpar;But Not the One You Think&rpar;](https://dev.to/devnenyasha/the-github-chronicles-your-contribution-graph-tells-a-story-but-not-the-one-you-think-1cio)
+- [Building an HR Team-Matching Agent With MongoDB Vector Search, Voyage AI, &amp; Vercel AI SDK](https://dev.to/mongodb/building-an-hr-team-matching-agent-with-mongodb-vector-search-voyage-ai-vercel-ai-sdk-jgl)
+- [[Boost]](https://dev.to/ayeshamunawar/-3lba)
+- [Create a Websocket client in Javascript using a web worker](https://dev.to/jerdox/create-a-websocket-client-in-javascript-using-a-web-worker-19cb)
 <!-- BLOG-POST-LIST:END -->
 
 
