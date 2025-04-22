@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LivinGrimoire: The Design Pattern That Makes Others Look Like Scrap Metal](https://dev.to/owly/livingrimoire-the-design-pattern-that-makes-others-look-like-scrap-metal-1ih9)
-- [Why Are Buttons Losing the Pointer Cursor? The ShadCN and Tailwind Debate](https://dev.to/mmvergara/why-are-buttons-losing-the-pointer-cursor-the-shadcn-and-tailwind-debate-2j93)
-- [Exploring a Python Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-python-project-on-github-3n9n)
-- [Azure Applied Skills: Create and configure virtual networks](https://dev.to/johnogbonna/azure-applied-skills-create-and-configure-virtual-networks-45gi)
+- [What Is Drupal&#39;s Views Module in 2025?](https://dev.to/nigelsilonero/what-is-drupals-views-module-in-2025-3mgp)
+- [[Boost]](https://dev.to/rajay_f208c22d6e8e/-2da4)
+- [TikTok Virtual Machine Reverse Engineering](https://dev.to/lukas_ogunfeitimi_299f97d/tiktok-virtual-machine-reverse-engineering-4eb1)
+- [I built a tool to check and analyze Next.js website routes](https://dev.to/rodrigopv/i-built-a-tool-to-check-and-analyze-nextjs-website-routes-c3)
 <!-- BLOG-POST-LIST:END -->
 
 
