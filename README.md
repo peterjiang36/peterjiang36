@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Drupal&#39;s Views Module in 2025?](https://dev.to/nigelsilonero/what-is-drupals-views-module-in-2025-3mgp)
-- [[Boost]](https://dev.to/rajay_f208c22d6e8e/-2da4)
-- [TikTok Virtual Machine Reverse Engineering](https://dev.to/lukas_ogunfeitimi_299f97d/tiktok-virtual-machine-reverse-engineering-4eb1)
-- [I built a tool to check and analyze Next.js website routes](https://dev.to/rodrigopv/i-built-a-tool-to-check-and-analyze-nextjs-website-routes-c3)
+- [Hey folks 👋 I&#39;ve recently been updating my GitHub profile with some of the work I’ve done in machine learning, cloud, and full-stack engineering. Feel free to check it out — feedback always welcome! 🔗 github.com/Ankita-Gupta2024](https://dev.to/ankita_gupta_028cea9759db/hey-folks-ive-recently-been-updating-my-github-profile-with-some-of-the-work-ive-done-in-npg)
+- [Use CLI on any OS to read-write your iPhone folders &lpar;without cloud or cable&rpar;](https://dev.to/ducbao414/use-cli-on-any-os-to-read-write-your-iphone-folders-without-cloud-or-cable-32hb)
+- [20-Point Developer Checklist Before Starting Any Coding Project](https://dev.to/hexshift/20-point-developer-checklist-before-starting-any-coding-project-2nmc)
+- [Exploring a C++ Project on GitHub](https://dev.to/vivek_chaurasia_5e4b55e7f/exploring-a-c-project-on-github-3k85)
 <!-- BLOG-POST-LIST:END -->
 
 
