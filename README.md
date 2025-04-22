@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which LLMs Are &lpar;and Aren&#39;t&rpar; Ready for Secure Code?](https://dev.to/stacklok/which-llms-are-and-arent-ready-for-secure-code-38ac)
-- [🕷️ ScraperAgent v1.0 — MatrixSwarm’s Headless Recon Agent](https://dev.to/matrixswarm/scraperagent-v10-matrixswarms-headless-recon-agent-5egf)
-- [OpenAI in Advanced Talks to Acquire Windsurf for $3 Billion](https://dev.to/justin_downes/openai-in-advanced-talks-to-acquire-windsurf-for-3-billion-445b)
-- [How to use Terraform resource to manage Infrastructure](https://dev.to/olalekan_oladiran_d74b7a6/how-to-use-terraform-resource-to-manage-infrastructure-2lmm)
+- [The EventTarget Interface and Custom Events](https://dev.to/omriluz1/the-eventtarget-interface-and-custom-events-29jh)
+- [How to Generate IaC Templates from Your Docker Files](https://dev.to/piotr_hajdas/how-to-generate-iac-templates-from-your-docker-files-3gn)
+- [🧠✍️ How AI Is Revolutionizing Novel Writing: Tools, Tech &amp; Human Touch](https://dev.to/jeremy_libeskind_4bfdc99f/how-ai-is-revolutionizing-novel-writing-tools-tech-human-touch-19f8)
+- [Building a Cron Job System in Rust with Tokio and Cronexpr](https://dev.to/hexshift/building-a-cron-job-system-in-rust-with-tokio-and-cronexpr-18j1)
 <!-- BLOG-POST-LIST:END -->
 
 
