@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Second Me Now Supports MCP Protocol —— Your AI Identity Can Now Be Called Anywhere](https://dev.to/secondme/second-me-now-supports-mcp-protocol-your-ai-identity-can-now-be-called-anywhere-5348)
-- [9 Patterns and Practices for Securing Apps in Angular](https://dev.to/artem_turlenko/securing-angular-applications-best-practices-patterns-5ca9)
-- [Why Web Accessibility Matters for Your Business?](https://dev.to/aeldata/why-web-accessibility-matters-for-your-business-3gm7)
-- [How to Understand a Project Codebase Like a Pro](https://dev.to/kristiyanvelkov/how-to-understand-a-project-codebase-like-a-pro-45kl)
+- [From Concept to Creation in Minutes: How I Built My Portfolio Using Super Engineer AI🚀](https://dev.to/ifrahur/from-concept-to-creation-in-minutes-how-i-built-my-portfolio-using-super-engineer-ai-46gh)
+- [Why Dev Teams Wish UX Writers Knew Markdown](https://dev.to/rishumehra/why-dev-teams-wish-ux-writers-knew-markdown-43af)
+- [Building a Powerful EVM Token Analysis Telegram Bot](https://dev.to/stevendev0822/building-a-powerful-evm-token-analysis-telegram-bot-39og)
+- [Maximize API Revenue with Strategic Partner Integrations](https://dev.to/zuplo/maximize-api-revenue-with-strategic-partner-integrations-5f22)
 <!-- BLOG-POST-LIST:END -->
 
 
