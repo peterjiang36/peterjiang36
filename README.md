@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s All About Complexity](https://dev.to/mohammadyasin_parsi_57fc3/its-all-about-complexity-5hb6)
-- [🧠 Double Header Drop: FileWatchAgent + MailmanAgent](https://dev.to/matrixswarm/double-header-drop-filewatchagent-mailmanagent-2753)
-- [Why choose Next.js over Rect.js ?](https://dev.to/tahir_rafique/why-choose-nextjs-over-rectjs--2j1g)
-- [Understanding Justify and Align in CSS](https://dev.to/thedevspace/understanding-justify-and-align-in-css-2em1)
+- [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
+- [Unlocking the Future of Video Creation: How Wan AI is Revolutionizing Content](https://dev.to/guang_gavin_36c5be55cebe7/unlocking-the-future-of-video-creation-how-wan-ai-is-revolutionizing-content-1c72)
+- [[Boost]](https://dev.to/praveen_maila_52267a1848f/-14jl)
+- [📈 Spring Boot Actuator and Micrometer: Monitoring Made Easy!](https://dev.to/devcorner/spring-boot-actuator-and-micrometer-monitoring-made-easy-430h)
 <!-- BLOG-POST-LIST:END -->
 
 
