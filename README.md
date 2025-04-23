@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS introduction](https://dev.to/fscss-ttr/css-introduction-bm5)
-- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
-- [Modules in Node.js](https://dev.to/samandarhodiev/modules-in-nodejs-1b2f)
-- [The Art and Science of Problem Solving in Business Process Management](https://dev.to/michael-gokey/the-art-and-science-of-problem-solving-in-business-process-management-562o)
+- [Service Mesh Explained: Building a Proxy Injector in Rust &lpar;with code&rpar;](https://dev.to/cortexflow/service-mesh-explained-building-a-proxy-injector-in-rust-with-code-5c48)
+- [Python vs JavaScript : Qual Linguagem é Melhor para Iniciantes em 2025? - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/python-vs-javascript-qual-linguagem-e-melhor-para-iniciantes-em-2025-by-vladimir-oliveira-lima-2gkn)
+- [Testing NextAuth.js Logins in Cypress: Optimizing Speed &amp; Reliability](https://dev.to/artur_alekseev/testing-nextauthjs-logins-in-cypress-optimizing-speed-reliability-58jj)
+- [Writers Deserve Better: What’s Really Going On at HackerNoon?](https://dev.to/ivolowkey/writers-deserve-better-whats-really-going-on-at-hackernoon-5hg1)
 <!-- BLOG-POST-LIST:END -->
 
 
