@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Energy Does ChatGPT Use Per Prompt? A Look at Its Hidden Environmental Costs](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-a-look-at-its-hidden-environmental-costs-2j3a)
-- [🤨 4 Frustrations in AI Native Development [GPT 4.1]](https://dev.to/fernandezbaptiste/4-frustrations-in-ai-native-development-gpt-41-bb0)
-- [Build &amp; Launch Apps Faster &lpar;Resources &amp; Tools&rpar;](https://dev.to/technomadcode/build-launch-apps-faster-resources-tools-1jen)
-- [Why Your Flutter App Needs `event_handeler`: A Fun, Powerful Alternative &lpar;and Companion&rpar; to State Management](https://dev.to/webnima_somen_99190530e67/why-your-flutter-app-needs-eventhandeler-a-fun-powerful-alternative-and-companion-to-state-5ab9)
+- [Installing and Uninstalling Vendure: A Headless Commerce Guide](https://dev.to/wpplumber/installing-and-uninstalling-vendure-a-headless-commerce-guide-2m9h)
+- [[Boost]](https://dev.to/cpazro/-1ncp)
+- [Cybersecurity – Protect What Matters Most](https://dev.to/kevin_asutton_/cybersecurity-protect-what-matters-most-3ipl)
+- [Types of Quantitative Trading on Solana](https://dev.to/btcmiles/types-of-quantitative-trading-on-solana-iah)
 <!-- BLOG-POST-LIST:END -->
 
 
