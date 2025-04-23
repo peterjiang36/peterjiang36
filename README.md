@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Search Engine Optimization Tools for Large Businesses](https://dev.to/sherika_broyles_b9bed29a9/enterprise-search-engine-optimization-tools-for-large-businesses-3e4e)
-- [ML WORK SHOP](https://dev.to/harish_r_6e377c4fc214e03/ml-work-shop-1lle)
-- [Cloud Computing: Revolutionizing Business Operations by Emerging from On-Premises to the Cloud](https://dev.to/tr010910/cloud-computing-revolutionizing-business-operations-by-emerging-from-on-premises-to-the-cloud-2dba)
-- [ML GitHub Workshop](https://dev.to/santhosh07/ml-github-workshop-2lid)
+- [Everyone Loves Open Source… Until It&#39;s Time to Contribute](https://dev.to/francescobianco/everyone-loves-open-source-until-its-time-to-contribute-2hng)
+- [The Psychology of Programming: Why Naming, Readability &amp; Simplicity Matter](https://dev.to/algo_sync/the-psychology-of-programming-why-naming-readability-simplicity-matter-37li)
+- [Text-to-SQL from Scratch — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/text-to-sql-from-scratch-tutorial-for-dummies-using-pocketflow-1obd)
+- [From Uni to Dev Life: What They Don’t Teach You](https://dev.to/nightwalker28/from-uni-to-dev-life-what-they-dont-teach-you-2plf)
 <!-- BLOG-POST-LIST:END -->
 
 
