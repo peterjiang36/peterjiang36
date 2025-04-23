@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone Loves Open Source… Until It&#39;s Time to Contribute](https://dev.to/francescobianco/everyone-loves-open-source-until-its-time-to-contribute-2hng)
-- [The Psychology of Programming: Why Naming, Readability &amp; Simplicity Matter](https://dev.to/algo_sync/the-psychology-of-programming-why-naming-readability-simplicity-matter-37li)
-- [Text-to-SQL from Scratch — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/text-to-sql-from-scratch-tutorial-for-dummies-using-pocketflow-1obd)
-- [From Uni to Dev Life: What They Don’t Teach You](https://dev.to/nightwalker28/from-uni-to-dev-life-what-they-dont-teach-you-2plf)
+- [CSS introduction](https://dev.to/fscss-ttr/css-introduction-bm5)
+- [Kubernetes Agent Blind to New Mounts? Demystifying Mount Propagation](https://dev.to/azalio/kubernetes-agent-blind-to-new-mounts-demystifying-mount-propagation-38ic)
+- [Modules in Node.js](https://dev.to/samandarhodiev/modules-in-nodejs-1b2f)
+- [The Art and Science of Problem Solving in Business Process Management](https://dev.to/michael-gokey/the-art-and-science-of-problem-solving-in-business-process-management-562o)
 <!-- BLOG-POST-LIST:END -->
 
 
