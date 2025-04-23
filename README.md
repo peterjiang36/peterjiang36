@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulls Are Back? BTC Surges to $71K – What This Means for QA in Crypto](https://dev.to/philip_crypto92/bulls-are-back-btc-surges-to-71k-what-this-means-for-qa-in-crypto-1p30)
-- [🧠 Python Math Functions Cheat Sheet &amp; Guide](https://dev.to/hichem-mg/python-math-functions-cheat-sheet-guide-2832)
-- [Matrix-roulette - Physics + Server game regime](https://dev.to/zlatnaspirala/matrix-roulette-physics-server-game-regime-2leh)
-- [🐝 Wasp: a full-stack, &quot;Laravel for JS&quot; framework. Vibe-coding approved 🕹️](https://dev.to/wasp/wasp-a-full-stack-laravel-for-js-framework-vibe-coding-approved-473g)
+- [I tried every open source database and found only one is useful](https://dev.to/pratikpathak/i-tried-every-open-source-database-and-found-only-one-is-useful-2ehl)
+- [X0,000s Ops/sec with Multigraph Topology](https://dev.to/falkordb/x0000s-opssec-with-multigraph-topology-4nea)
+- [Building Robust File Upload Systems with GoFrame: A Complete Guide](https://dev.to/jones_charles_ad50858dbc0/building-robust-file-upload-systems-with-goframe-a-complete-guide-10d2)
+- [Building a React Todo App: Learn to setup a complete UI structure😎](https://dev.to/fonyuygita/building-a-react-todo-app-learn-to-setup-a-complete-ui-structure-bfm)
 <!-- BLOG-POST-LIST:END -->
 
 
