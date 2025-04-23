@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Building New Blockchains Still Makes Sense in 2025](https://dev.to/iri_denis/why-building-new-blockchains-still-makes-sense-in-2025-3cf2)
-- [Biblically Accurate Rust 😇](https://dev.to/wiseai/biblically-accurate-rust-1p9h)
-- [10 Advanced Ruby on Rails Features](https://dev.to/colinsoleim/10-advanced-ruby-on-rails-features-2h04)
-- [How to Sync Users Logged in by Google and GitHub to Your Database With Neon Auth for Free](https://dev.to/antonmartyniuk/how-to-sync-users-logged-in-by-google-and-github-to-your-database-with-neon-auth-for-free-5ei9)
+- [Python Tidbit 1: f-strings](https://dev.to/izharahmad/python-tidbit-1-f-strings-128i)
+- [Why P2P Crypto Exchanges Are the Future of Digital Asset Trading?](https://dev.to/tomhardy/why-p2p-crypto-exchanges-are-the-future-of-digital-asset-trading-4kmi)
+- [How to build a job app with real-time chat &amp; video using Stream, Next.js &amp; Firebase. Perfect for devs building SaaS or interview platforms. Great tutorial by @DavidAsaolu 👏 #Nextjs #Stream #Firebase #webdev](https://dev.to/tyaga001/how-to-build-a-job-app-with-real-time-chat-video-using-stream-nextjs-firebase-perfect-for-44of)
+- [Instagram System Design: How It Actually Works](https://dev.to/marriemorris/instagram-system-design-how-it-actually-works-h2m)
 <!-- BLOG-POST-LIST:END -->
 
 
