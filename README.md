@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert SQL Queries to API Requests &lpar;3 Methods&rpar;](https://dev.to/jeffdev03/how-to-convert-sql-queries-to-api-requests-3-methods-4135)
-- [Top 16 TypeScript Mistakes Developers Make &lpar;And How to Fix Them&rpar;](https://dev.to/leapcell/top-16-typescript-mistakes-developers-make-and-how-to-fix-them-4p9a)
-- [[Boost]](https://dev.to/grexe/-4lgk)
-- [JavaScript Debugging: Tricks for Faster Fixes](https://dev.to/ramkumar-m-n/javascript-debugging-tricks-for-faster-fixes-adp)
+- [Upgrading Django with &quot;python -WA manage.py test&quot;](https://dev.to/azayshrestha/upgrading-django-with-python-wa-managepy-test-2l69)
+- [Docker Model Runner: Simplifying Local LLM Model Execution](https://dev.to/ssojet/docker-model-runner-simplifying-local-llm-model-execution-3h03)
+- [If your CSS styles are not being applied by the browser, it&#39;s most likely an issue with CSS specificity.](https://dev.to/sejutaimpian/if-your-css-styles-are-not-being-applied-by-the-browser-its-most-likely-an-issue-with-css-296k)
+- [Luxury Landscaping Inspiration for Omaha&#39;s Residences](https://dev.to/rafttile07/luxury-landscaping-inspiration-for-omahas-residences-16ao)
 <!-- BLOG-POST-LIST:END -->
 
 
