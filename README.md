@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing and Uninstalling Vendure: A Headless Commerce Guide](https://dev.to/wpplumber/installing-and-uninstalling-vendure-a-headless-commerce-guide-2m9h)
-- [[Boost]](https://dev.to/cpazro/-1ncp)
-- [Cybersecurity – Protect What Matters Most](https://dev.to/kevin_asutton_/cybersecurity-protect-what-matters-most-3ipl)
-- [Types of Quantitative Trading on Solana](https://dev.to/btcmiles/types-of-quantitative-trading-on-solana-iah)
+- [Key Benefits of Custom Software Development Service](https://dev.to/tarunfulera1/key-benefits-of-custom-software-development-service-eol)
+- [GITHUB commands](https://dev.to/selva_j/github-commands-d2o)
+- [🔧 Git-ing Things Done: Your First Journey into Version Control](https://dev.to/nisanth_gurusamy_620db52b/git-ing-things-done-your-first-journey-into-version-control-50lc)
+- [Mastering Git Basics: A Beginner&#39;s Guide with Practical Commands](https://dev.to/vashantha_kumarks_f50a2/mastering-git-basics-a-beginners-guide-with-practical-commands-3c84)
 <!-- BLOG-POST-LIST:END -->
 
 
