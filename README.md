@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Amazon API Gateway? The Ultimate Guide](https://dev.to/leonardkachi/what-is-amazon-api-gateway-the-ultimate-guide-37j)
-- [Vue - Usando watchEffect e reactive para maior controle](https://dev.to/stefanyrepetcki/vue-usando-watcheffect-e-reactive-para-maior-controle-2hkf)
-- [Meet PKI: The Quiet Hero Behind Secure Browsing](https://dev.to/rijultp/meet-pki-the-quiet-hero-behind-secure-browsing-5fkc)
-- [Vue com composition API - Computed e Watch](https://dev.to/stefanyrepetcki/vue-com-composition-api-computed-e-watch-574g)
+- [Meet, Learn, Share: A Deep Dive into AWS Application Composer and the Lakehouse Architecture at AWS User Group Toronto](https://dev.to/bansi2000/meet-learn-share-a-deep-dive-into-aws-application-composer-and-the-lakehouse-architecture-at-aws-3oo)
+- [Mocking HTTP Clients in Go Without Lying to Yourself](https://dev.to/ogundiyantobiloba/mocking-http-clients-in-go-without-lying-to-yourself-16m2)
+- [Daily JavaScript Challenge #JS-161: Count the Number of Duplicate Elements in an Array](https://dev.to/dpc/daily-javascript-challenge-js-161-count-the-number-of-duplicate-elements-in-an-array-1f3j)
+- [Intro of a new member](https://dev.to/shinygold29/intro-of-a-new-member-3gjl)
 <!-- BLOG-POST-LIST:END -->
 
 
