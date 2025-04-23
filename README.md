@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a ChatGPT-Powered Phone Assistant with Twilio in Under 2 Hours](https://dev.to/professormanhattan/build-a-chatgpt-powered-phone-assistant-with-twilio-in-under-2-hours-4a47)
-- [How to Implement CRM Sales Pipeline Visualization in NocoBase?](https://dev.to/nocobase/how-to-implement-crm-sales-pipeline-visualization-in-nocobase-ghe)
-- [How to Prepare for Salesforce Admin Certification in One Month: A Beginner’s Guide](https://dev.to/niks_kirdak_47c783a80cbc7/how-to-prepare-for-salesforce-admin-certification-in-one-month-a-beginners-guide-23fl)
-- [How to Close the IT Skills Gap Quickly in 2025](https://dev.to/smartitstaff/how-to-close-the-it-skills-gap-quickly-in-2025-4606)
+- [How to Build Real-Time News Apps with a Live News API and JavaScript](https://dev.to/rameshchauhan/how-to-build-real-time-news-apps-with-a-live-news-api-and-javascript-52hd)
+- [Google Cloud, new APIs in your existing BigQuery projects | Quick Update](https://dev.to/seosiri/google-cloud-new-apis-in-your-existing-bigquery-projects-quick-update-1c2n)
+- [Are Web Components Making a Comeback?](https://dev.to/marie_berezhna/are-web-components-making-a-comeback-1e75)
+- [Reusable Form Validation Architecture for RESTful Systems](https://dev.to/vkrepkiy/reusable-form-validation-architecture-for-restful-systems-4103)
 <!-- BLOG-POST-LIST:END -->
 
 
