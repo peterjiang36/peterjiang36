@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiteboarding in Turks and Caicos: Everything You Need to Know](https://dev.to/flytci/kiteboarding-in-turks-and-caicos-everything-you-need-to-know-5f7o)
-- [Secrets Management &amp; Zero-Trust Architecture for Web3-Grade Security](https://dev.to/klimd1389/secrets-management-zero-trust-architecture-for-web3-grade-security-40ai)
-- [What Are the Technical Prerequisites to Get a Verified Mark Certificate?](https://dev.to/judypage/what-are-the-technical-prerequisites-to-get-a-verified-mark-certificate-2m93)
-- [Astro Minimal international: add i18n feature 🌎](https://dev.to/this-is-learning/astro-minimal-international-add-i18n-features-5gc5)
+- [Why Building New Blockchains Still Makes Sense in 2025](https://dev.to/iri_denis/why-building-new-blockchains-still-makes-sense-in-2025-3cf2)
+- [Biblically Accurate Rust 😇](https://dev.to/wiseai/biblically-accurate-rust-1p9h)
+- [10 Advanced Ruby on Rails Features](https://dev.to/colinsoleim/10-advanced-ruby-on-rails-features-2h04)
+- [How to Sync Users Logged in by Google and GitHub to Your Database With Neon Auth for Free](https://dev.to/antonmartyniuk/how-to-sync-users-logged-in-by-google-and-github-to-your-database-with-neon-auth-for-free-5ei9)
 <!-- BLOG-POST-LIST:END -->
 
 
