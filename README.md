@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My first play through was an awesome experience](https://dev.to/no_momo_f91fc40d15fd8f213/my-first-play-through-was-an-awesome-experience-5ejf)
-- [📁 Understanding HTML File Paths](https://dev.to/himanayk/understanding-html-file-paths-4cba)
-- [Create a dynamic multiple step form with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/create-a-dynamic-multiple-step-form-with-tailwind-css-and-alpine-js-3kdc)
-- [High-Performance Go Middleware: Building Efficient HTTP Request Chains](https://dev.to/aaravjoshi/high-performance-go-middleware-building-efficient-http-request-chains-3ib0)
+- [Kiteboarding in Turks and Caicos: Everything You Need to Know](https://dev.to/flytci/kiteboarding-in-turks-and-caicos-everything-you-need-to-know-5f7o)
+- [Secrets Management &amp; Zero-Trust Architecture for Web3-Grade Security](https://dev.to/klimd1389/secrets-management-zero-trust-architecture-for-web3-grade-security-40ai)
+- [What Are the Technical Prerequisites to Get a Verified Mark Certificate?](https://dev.to/judypage/what-are-the-technical-prerequisites-to-get-a-verified-mark-certificate-2m93)
+- [Astro Minimal international: add i18n feature 🌎](https://dev.to/this-is-learning/astro-minimal-international-add-i18n-features-5gc5)
 <!-- BLOG-POST-LIST:END -->
 
 
