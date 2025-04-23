@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [git comment](https://dev.to/mathubala/git-comment-10i2)
-- [Git/GitHub Commands](https://dev.to/mohanapriya_k24mcr068_69/gitgithub-commands-926)
-- [Go&#39;s Garbage Collector: How It Keeps Your Code Clean](https://dev.to/shrsv/gos-garbage-collector-how-it-keeps-your-code-clean-48nn)
-- [Building an Efficient Virtualized Table with TanStack Virtual and React Query with ShadCN](https://dev.to/ainayeem/building-an-efficient-virtualized-table-with-tanstack-virtual-and-react-query-with-shadcn-2hhl)
+- [Enterprise Search Engine Optimization Tools for Large Businesses](https://dev.to/sherika_broyles_b9bed29a9/enterprise-search-engine-optimization-tools-for-large-businesses-3e4e)
+- [ML WORK SHOP](https://dev.to/harish_r_6e377c4fc214e03/ml-work-shop-1lle)
+- [Cloud Computing: Revolutionizing Business Operations by Emerging from On-Premises to the Cloud](https://dev.to/tr010910/cloud-computing-revolutionizing-business-operations-by-emerging-from-on-premises-to-the-cloud-2dba)
+- [ML GitHub Workshop](https://dev.to/santhosh07/ml-github-workshop-2lid)
 <!-- BLOG-POST-LIST:END -->
 
 
