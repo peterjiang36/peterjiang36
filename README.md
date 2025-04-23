@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Benefits of Custom Software Development Service](https://dev.to/tarunfulera1/key-benefits-of-custom-software-development-service-eol)
-- [GITHUB commands](https://dev.to/selva_j/github-commands-d2o)
-- [🔧 Git-ing Things Done: Your First Journey into Version Control](https://dev.to/nisanth_gurusamy_620db52b/git-ing-things-done-your-first-journey-into-version-control-50lc)
-- [Mastering Git Basics: A Beginner&#39;s Guide with Practical Commands](https://dev.to/vashantha_kumarks_f50a2/mastering-git-basics-a-beginners-guide-with-practical-commands-3c84)
+- [git comment](https://dev.to/mathubala/git-comment-10i2)
+- [Git/GitHub Commands](https://dev.to/mohanapriya_k24mcr068_69/gitgithub-commands-926)
+- [Go&#39;s Garbage Collector: How It Keeps Your Code Clean](https://dev.to/shrsv/gos-garbage-collector-how-it-keeps-your-code-clean-48nn)
+- [Building an Efficient Virtualized Table with TanStack Virtual and React Query with ShadCN](https://dev.to/ainayeem/building-an-efficient-virtualized-table-with-tanstack-virtual-and-react-query-with-shadcn-2hhl)
 <!-- BLOG-POST-LIST:END -->
 
 
