@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet, Learn, Share: A Deep Dive into AWS Application Composer and the Lakehouse Architecture at AWS User Group Toronto](https://dev.to/bansi2000/meet-learn-share-a-deep-dive-into-aws-application-composer-and-the-lakehouse-architecture-at-aws-3oo)
-- [Mocking HTTP Clients in Go Without Lying to Yourself](https://dev.to/ogundiyantobiloba/mocking-http-clients-in-go-without-lying-to-yourself-16m2)
-- [Daily JavaScript Challenge #JS-161: Count the Number of Duplicate Elements in an Array](https://dev.to/dpc/daily-javascript-challenge-js-161-count-the-number-of-duplicate-elements-in-an-array-1f3j)
-- [Intro of a new member](https://dev.to/shinygold29/intro-of-a-new-member-3gjl)
+- [Operational Security &quot;OPSEC&quot;: Steps, Mistakes, and Tips for Better Security](https://dev.to/terminaltools/operational-security-opsec-steps-mistakes-and-tips-for-better-security-4564)
+- [My Exclusive &quot;Manus AI&quot; Beta Experience: The Future of AI Agents](https://dev.to/sohamehta/my-exclusive-manus-ai-beta-experience-the-future-of-ai-agents-46am)
+- [DAY :31 This , Super class in JAVA.](https://dev.to/sangamithra_k_78d83d6fb9d/day-31-this-super-class-in-java-ng9)
+- [How to Build a Zero-Dependency Audio Synth in the Browser Using Web Audio API](https://dev.to/hexshift/how-to-build-a-zero-dependency-audio-synth-in-the-browser-using-web-audio-api-1bp5)
 <!-- BLOG-POST-LIST:END -->
 
 
