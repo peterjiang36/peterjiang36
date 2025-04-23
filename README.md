@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading Django with &quot;python -WA manage.py test&quot;](https://dev.to/azayshrestha/upgrading-django-with-python-wa-managepy-test-2l69)
-- [Docker Model Runner: Simplifying Local LLM Model Execution](https://dev.to/ssojet/docker-model-runner-simplifying-local-llm-model-execution-3h03)
-- [If your CSS styles are not being applied by the browser, it&#39;s most likely an issue with CSS specificity.](https://dev.to/sejutaimpian/if-your-css-styles-are-not-being-applied-by-the-browser-its-most-likely-an-issue-with-css-296k)
-- [Luxury Landscaping Inspiration for Omaha&#39;s Residences](https://dev.to/rafttile07/luxury-landscaping-inspiration-for-omahas-residences-16ao)
+- [⚡Boost Your Dev Workflow with These 5 Tools](https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-5-tools-3k1k)
+- [🚀 I Wrote a Docker Interview Handbook - And You Can Download It for FREE!](https://dev.to/mammadyahyayev/i-wrote-a-docker-interview-handbook-and-you-can-download-it-for-free-27io)
+- [Good one](https://dev.to/gowtham_nvs/good-one-1hn)
+- [🔍 What Is Payment Reconciliation — And Why It’s So Important](https://dev.to/pandeyaditya0002/what-is-payment-reconciliation-and-why-its-so-important-5608)
 <!-- BLOG-POST-LIST:END -->
 
 
