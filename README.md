@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried every open source database and found only one is useful](https://dev.to/pratikpathak/i-tried-every-open-source-database-and-found-only-one-is-useful-2ehl)
-- [X0,000s Ops/sec with Multigraph Topology](https://dev.to/falkordb/x0000s-opssec-with-multigraph-topology-4nea)
-- [Building Robust File Upload Systems with GoFrame: A Complete Guide](https://dev.to/jones_charles_ad50858dbc0/building-robust-file-upload-systems-with-goframe-a-complete-guide-10d2)
-- [Building a React Todo App: Learn to setup a complete UI structure😎](https://dev.to/fonyuygita/building-a-react-todo-app-learn-to-setup-a-complete-ui-structure-bfm)
+- [How Much Energy Does ChatGPT Use Per Prompt? A Look at Its Hidden Environmental Costs](https://dev.to/nilanth/how-much-energy-does-chatgpt-use-per-prompt-a-look-at-its-hidden-environmental-costs-2j3a)
+- [🤨 4 Frustrations in AI Native Development [GPT 4.1]](https://dev.to/fernandezbaptiste/4-frustrations-in-ai-native-development-gpt-41-bb0)
+- [Build &amp; Launch Apps Faster &lpar;Resources &amp; Tools&rpar;](https://dev.to/technomadcode/build-launch-apps-faster-resources-tools-1jen)
+- [Why Your Flutter App Needs `event_handeler`: A Fun, Powerful Alternative &lpar;and Companion&rpar; to State Management](https://dev.to/webnima_somen_99190530e67/why-your-flutter-app-needs-eventhandeler-a-fun-powerful-alternative-and-companion-to-state-5ab9)
 <!-- BLOG-POST-LIST:END -->
 
 
