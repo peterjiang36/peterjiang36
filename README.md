@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Operational Security &quot;OPSEC&quot;: Steps, Mistakes, and Tips for Better Security](https://dev.to/terminaltools/operational-security-opsec-steps-mistakes-and-tips-for-better-security-4564)
-- [My Exclusive &quot;Manus AI&quot; Beta Experience: The Future of AI Agents](https://dev.to/sohamehta/my-exclusive-manus-ai-beta-experience-the-future-of-ai-agents-46am)
-- [DAY :31 This , Super class in JAVA.](https://dev.to/sangamithra_k_78d83d6fb9d/day-31-this-super-class-in-java-ng9)
-- [How to Build a Zero-Dependency Audio Synth in the Browser Using Web Audio API](https://dev.to/hexshift/how-to-build-a-zero-dependency-audio-synth-in-the-browser-using-web-audio-api-1bp5)
+- [DolphinScheduler Developer Must-Read! IDEA Local Debugging Practical Guide](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-developer-must-read-idea-local-debugging-practical-guide-hd4)
+- [Why stop using TypeScript in small projects](https://dev.to/_1276edf89188473f6daef2/why-stop-using-typescript-in-small-projects-32go)
+- [Processing Large-Scale Data with Parquet Files: Pros and Cons](https://dev.to/saif_uddin/processing-large-scale-data-with-parquet-files-pros-and-cons-2d05)
+- [Running Native Bash Scripts from a Web Interface Using WebAssembly and WASI](https://dev.to/hexshift/running-native-bash-scripts-from-a-web-interface-using-webassembly-and-wasi-nnl)
 <!-- BLOG-POST-LIST:END -->
 
 
