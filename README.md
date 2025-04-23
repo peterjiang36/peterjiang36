@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Real-Time News Apps with a Live News API and JavaScript](https://dev.to/rameshchauhan/how-to-build-real-time-news-apps-with-a-live-news-api-and-javascript-52hd)
-- [Google Cloud, new APIs in your existing BigQuery projects | Quick Update](https://dev.to/seosiri/google-cloud-new-apis-in-your-existing-bigquery-projects-quick-update-1c2n)
-- [Are Web Components Making a Comeback?](https://dev.to/marie_berezhna/are-web-components-making-a-comeback-1e75)
-- [Reusable Form Validation Architecture for RESTful Systems](https://dev.to/vkrepkiy/reusable-form-validation-architecture-for-restful-systems-4103)
+- [My first play through was an awesome experience](https://dev.to/no_momo_f91fc40d15fd8f213/my-first-play-through-was-an-awesome-experience-5ejf)
+- [📁 Understanding HTML File Paths](https://dev.to/himanayk/understanding-html-file-paths-4cba)
+- [Create a dynamic multiple step form with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/create-a-dynamic-multiple-step-form-with-tailwind-css-and-alpine-js-3kdc)
+- [High-Performance Go Middleware: Building Efficient HTTP Request Chains](https://dev.to/aaravjoshi/high-performance-go-middleware-building-efficient-http-request-chains-3ib0)
 <!-- BLOG-POST-LIST:END -->
 
 
