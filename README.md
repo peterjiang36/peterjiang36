@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DolphinScheduler Developer Must-Read! IDEA Local Debugging Practical Guide](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-developer-must-read-idea-local-debugging-practical-guide-hd4)
-- [Why stop using TypeScript in small projects](https://dev.to/_1276edf89188473f6daef2/why-stop-using-typescript-in-small-projects-32go)
-- [Processing Large-Scale Data with Parquet Files: Pros and Cons](https://dev.to/saif_uddin/processing-large-scale-data-with-parquet-files-pros-and-cons-2d05)
-- [Running Native Bash Scripts from a Web Interface Using WebAssembly and WASI](https://dev.to/hexshift/running-native-bash-scripts-from-a-web-interface-using-webassembly-and-wasi-nnl)
+- [.NET Learning Notes: Using xUnit + moq to unit test](https://dev.to/alexleeeeeeeeee/net-learning-notes-using-xunit-moq-to-unit-test-1nc5)
+- [Como Aprender Uma Nova Linguagem de Programação: Um roteiro para devs :&rpar;](https://dev.to/mayulabs/como-aprender-uma-nova-linguagem-de-programacao-um-roteiro-para-devs--4bha)
+- [day-32: Getter and Setter Methods in Java - Simple Example](https://dev.to/e00049/day-32-getter-and-setter-methods-in-java-simple-example-dbo)
+- [Using tech, AI to make construction jobs appeal to women](https://dev.to/sadiksajid/using-tech-ai-to-make-construction-jobs-appeal-to-women-n3k)
 <!-- BLOG-POST-LIST:END -->
 
 
