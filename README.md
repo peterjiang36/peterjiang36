@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Tidbit 1: f-strings](https://dev.to/izharahmad/python-tidbit-1-f-strings-128i)
-- [Why P2P Crypto Exchanges Are the Future of Digital Asset Trading?](https://dev.to/tomhardy/why-p2p-crypto-exchanges-are-the-future-of-digital-asset-trading-4kmi)
-- [How to build a job app with real-time chat &amp; video using Stream, Next.js &amp; Firebase. Perfect for devs building SaaS or interview platforms. Great tutorial by @DavidAsaolu 👏 #Nextjs #Stream #Firebase #webdev](https://dev.to/tyaga001/how-to-build-a-job-app-with-real-time-chat-video-using-stream-nextjs-firebase-perfect-for-44of)
-- [Instagram System Design: How It Actually Works](https://dev.to/marriemorris/instagram-system-design-how-it-actually-works-h2m)
+- [Bulls Are Back? BTC Surges to $71K – What This Means for QA in Crypto](https://dev.to/philip_crypto92/bulls-are-back-btc-surges-to-71k-what-this-means-for-qa-in-crypto-1p30)
+- [🧠 Python Math Functions Cheat Sheet &amp; Guide](https://dev.to/hichem-mg/python-math-functions-cheat-sheet-guide-2832)
+- [Matrix-roulette - Physics + Server game regime](https://dev.to/zlatnaspirala/matrix-roulette-physics-server-game-regime-2leh)
+- [🐝 Wasp: a full-stack, &quot;Laravel for JS&quot; framework. Vibe-coding approved 🕹️](https://dev.to/wasp/wasp-a-full-stack-laravel-for-js-framework-vibe-coding-approved-473g)
 <!-- BLOG-POST-LIST:END -->
 
 
