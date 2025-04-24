@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Broken Access Control in Symfony: Real-World Examples and Fixes](https://dev.to/pentest_testing_corp/broken-access-control-in-symfony-real-world-examples-and-fixes-d3g)
-- [The Generic Advantage: Making Your Go Code Flexible, Reusable, and Awesome 🔥](https://dev.to/tavernetech/the-generic-advantage-making-your-go-code-flexible-reusable-and-awesome-304n)
-- [WebGPU and WebGL for Graphics Rendering](https://dev.to/omriluz1/webgpu-and-webgl-for-graphics-rendering-1pag)
-- [Master Data-Driven Marketing with OpenAI Agents SDK](https://dev.to/swiftproxy_residential/master-data-driven-marketing-with-openai-agents-sdk-1b21)
+- [Vibe Coding with 15+ Best Shadcn Alternatives](https://dev.to/tailwindcss/best-shadcn-alternatives-1jh0)
+- [C# &lpar;C Sharp&rpar; Tutorial: Learn LINQ Basics with Real Examples](https://dev.to/pythontutorial/c-c-sharp-tutorial-learn-linq-basics-with-real-examples-35cj)
+- [Why We Build Themes for Builders, Not Just Buyers](https://dev.to/gm-kamrussama/why-we-build-themes-for-builders-not-just-buyers-nle)
+- [[Boost]](https://dev.to/gusrybear/-9d1)
 <!-- BLOG-POST-LIST:END -->
 
 
