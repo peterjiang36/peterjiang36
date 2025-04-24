@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing the Digital Future: Ensuring 21 CFR Part 11 Compliance in Regulated Industries](https://dev.to/aakash_parikh_651254ef060/embracing-the-digital-future-ensuring-21-cfr-part-11-compliance-in-regulated-industries-233i)
-- [Cypress Automation - Verify if your SSL Certificates are Valid](https://dev.to/cypress/cypress-automation-verify-if-your-ssl-certificates-are-valid-2kij)
-- [The precariousness of artistic work in the age of artificial intelligence](https://dev.to/dev_zamudio/the-precariousness-of-artistic-work-in-the-age-of-artificial-intelligence-14f1)
-- [🧵 [Project Showcase] MinimalMart – Motion-first E-Commerce UI with GSAP + Next.js 15](https://dev.to/worapon_code404/project-showcase-minimalmart-motion-first-e-commerce-ui-with-gsap-nextjs-15-1h03)
+- [Outer Joins in SQL: The Key to Keeping Unmatched Rows](https://dev.to/dbvismarketing/outer-joins-in-sql-the-key-to-keeping-unmatched-rows-4c5d)
+- [How I Built a Laravel Virtual Wallet &lpar;And Why You Might Need One Too&rpar;](https://dev.to/hax-neeraj/how-i-built-a-laravel-virtual-wallet-and-why-you-might-need-one-too-4go0)
+- [Why do software projects fail despite having excellent code?](https://dev.to/ragutislt/why-do-software-projects-fail-despite-having-excellent-code-104h)
+- [GITHUB COMMANDS](https://dev.to/gobinath_m_2026/github-commands-4ij9)
 <!-- BLOG-POST-LIST:END -->
 
 
