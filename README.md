@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Fly High with Flutter Rocket: The Ultimate Package for Flutter Developers](https://dev.to/m97chahboun/fly-high-with-flutter-rocket-the-ultimate-package-for-flutter-developers-3o0c)
-- [Refactor, Recharge, Repeat](https://dev.to/duplessisvanaswegen/refactor-recharge-repeat-53eh)
-- [3 Types of Chaos Experiments and How To Run Them](https://dev.to/steadybit/3-types-of-chaos-experiments-and-how-to-run-them-1p59)
-- [30 Most Useful Linux Commands: A Practical Guide](https://dev.to/marzena_pugo_b8978575380f/30-most-useful-linux-commands-a-practical-guide-4ja4)
+- [🚀 Unlock GenAI Power: Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/unlock-genai-power-build-your-own-genai-image-generation-website-with-amazon-nova-1i64)
+- [From the Market Stalls of Morocco to Building Tech Solutions for Europe](https://dev.to/techlabma/from-the-market-stalls-of-morocco-to-building-tech-solutions-for-europe-3lp9)
+- [Open Source Developer Patronage: Support and Sustain Open Source](https://dev.to/zhangwei42/open-source-developer-patronage-support-and-sustain-open-source-1ci8)
+- [A Decade of SolidJS](https://dev.to/this-is-learning/a-decade-of-solidjs-32f4)
 <!-- BLOG-POST-LIST:END -->
 
 
