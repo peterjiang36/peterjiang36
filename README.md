@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs MySQL vs Redis: Choose Your Fighter](https://dev.to/devlinkstudios/postgresql-vs-mysql-vs-redis-choose-your-fighter-2ea0)
-- [Flight 3613 announced](https://dev.to/zako_mako_9a4826822204c78/flight-3613-announced-3dd4)
-- [NODX : my new coding compiler](https://dev.to/zako_mako_9a4826822204c78/nodx-my-new-coding-compiler-1pl6)
-- [The Graveyard of AI Startups: Startups That Forgot to Build Real Value](https://dev.to/devlinkstudios/the-graveyard-of-ai-startups-startups-that-forgot-to-build-real-value-5ad9)
+- [How to Build a Flutter MRZ and VIN Scanner for Android, iOS, Web, Windows, and Linux](https://dev.to/yushulx/how-to-build-a-flutter-mrz-and-vin-scanner-for-android-ios-web-windows-and-linux-4len)
+- [Frameworks Aren’t the Problem — Our Dependency on Them Is](https://dev.to/appavelidev/frameworks-arent-the-problem-our-dependency-on-them-is-5g12)
+- [Daily JavaScript Challenge #JS-162: Determine Unique Elements in a Series](https://dev.to/dpc/daily-javascript-challenge-js-162-determine-unique-elements-in-a-series-3498)
+- [🎓 Andrew Ng on the Future of AI: What Engineers Should Really Focus On](https://dev.to/decisive1/andrew-ng-on-the-future-of-ai-what-engineers-should-really-focus-on-3kch)
 <!-- BLOG-POST-LIST:END -->
 
 
