@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesdfghjkl;&#39;](https://dev.to/wnjsjen/tesdfghjkl-56po)
-- [Git Basic Commands TO Push into Github](https://dev.to/sachin_s24mcr084/git-workflow-for-developers-from-initialization-to-pushing-to-github-1a6d)
-- [2nd,Create Tables In Supabase](https://dev.to/bruce_doctor_515422886dae/2ndcreate-tables-in-supabase-2ngb)
-- [🔒 Bandit: Python Static Application Security Testing Guide](https://dev.to/angelvargasgutierrez/bandit-python-static-application-security-testing-guide-47l0)
+- [Embracing the Digital Future: Ensuring 21 CFR Part 11 Compliance in Regulated Industries](https://dev.to/aakash_parikh_651254ef060/embracing-the-digital-future-ensuring-21-cfr-part-11-compliance-in-regulated-industries-233i)
+- [Cypress Automation - Verify if your SSL Certificates are Valid](https://dev.to/cypress/cypress-automation-verify-if-your-ssl-certificates-are-valid-2kij)
+- [The precariousness of artistic work in the age of artificial intelligence](https://dev.to/dev_zamudio/the-precariousness-of-artistic-work-in-the-age-of-artificial-intelligence-14f1)
+- [🧵 [Project Showcase] MinimalMart – Motion-first E-Commerce UI with GSAP + Next.js 15](https://dev.to/worapon_code404/project-showcase-minimalmart-motion-first-e-commerce-ui-with-gsap-nextjs-15-1h03)
 <!-- BLOG-POST-LIST:END -->
 
 
