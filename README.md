@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Summarize Row Counts by Dynamic Columns into JSON — From SQL to SPL #22](https://dev.to/judith677/summarize-row-counts-by-dynamic-columns-into-json-from-sql-to-spl-22-58hj)
-- [🛡️ The Junior Dev Journey: Like an RPG, But With Code](https://dev.to/santoslucas11/the-junior-dev-journey-like-an-rpg-but-with-code-4ao9)
-- [How to Install Metasploit on Android &lpar;Termux&rpar; &amp; Ethical Remote Access Testing](https://dev.to/terminaltools/how-to-install-metasploit-on-android-termux-ethical-remote-access-testing-4n2m)
-- [Understanding Walkthrough.sol: Solidity Contract Explained in Detail](https://dev.to/rwu_security_researcher/understanding-walkthroughsol-solidity-contract-explained-in-detail-5ccn)
+- [How to Use .env Securely in DevOps Projects](https://dev.to/yash_sonawane25/how-to-use-env-securely-in-devops-projects-jfe)
+- [GITHUB REPOSITORY SETUP](https://dev.to/thanusri7012/github-repository-setup-9d3)
+- [Express Authentication + RBAC](https://dev.to/ttibbs/express-authentication-rbac-5dfo)
+- [Big Data Processing - Case Study 2 &lpar;Spark&rpar;](https://dev.to/mmafrar/big-data-processing-case-study-2-spark-4j1c)
 <!-- BLOG-POST-LIST:END -->
 
 
