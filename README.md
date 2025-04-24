@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #01 — Aloy: Introdução ao projeto Aloy](https://dev.to/luismarchio03/devlog-01-aloy-introducao-ao-projeto-aloy-5406)
-- [DEVELOPING ML MODEL](https://dev.to/jeyamirthula_pon24mcr046/developing-ml-model-26k)
-- [🐧 Linux Basics Part 2: File Operations, Viewing Content &amp; Permissions](https://dev.to/alkesh009/linux-basics-part-2-file-operations-viewing-content-permissions-4gha)
-- [10 Best Document Translation Software Features [2025]](https://dev.to/ronikakashyap/10-best-document-translation-software-features-2025-1e46)
+- [🚀 Your Daily Crypto Job Digest For 24 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-april-hen)
+- [Self-Hosting Node.js/Express Web App Behind CGNAT &lpar;No Port Forwarding&rpar; via Dynamic DNS &amp; Tunneling](https://dev.to/up_min_sparcs/self-hosting-nodejsexpress-web-app-behind-cgnat-no-port-forwarding-via-dynamic-dns-tunneling-3mod)
+- [Power Apps Custom Page Dialogs in Model-Driven Apps: Passing &amp; Receiving Data](https://dev.to/meecool/power-apps-custom-page-dialogs-in-model-driven-apps-passing-receiving-data-4cpe)
+- [How xBlog AI Helped a Marketing Agency Deliver 10x Content Output to Clients](https://dev.to/eluney/how-xblog-ai-helped-a-marketing-agency-deliver-10x-content-output-to-clients-2c2f)
 <!-- BLOG-POST-LIST:END -->
 
 
