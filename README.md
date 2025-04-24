@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 awesome MCP servers that can make your life easier 🪄✨](https://dev.to/composiodev/top-10-awesome-mcp-servers-that-can-make-your-life-easier-3n4o)
-- [Cat or Dog? — Building a Binary Image Classifier with TensorFlow](https://dev.to/up_min_sparcs/cat-or-dog-building-a-binary-image-classifier-with-tensorflow-54da)
-- [Función](https://dev.to/david_bermenvliz/funcion-2k40)
-- [Find more similar to a custom image from a list of image](https://dev.to/farhadh57/find-more-similar-to-a-custom-image-from-a-list-of-image-450c)
+- [tfw when your mouse batteries are dying but you&#39;re too lazy to replace them and clicks only work every other click 😭](https://dev.to/jess/tfw-when-your-mouse-batteries-are-dying-but-youre-too-lazy-to-replace-them-and-clicks-only-work-45oo)
+- [Ne pas automatiser, c’est accepter de perdre face à ses concurrents](https://dev.to/softyflow/ne-pas-automatiser-cest-accepter-de-perdre-face-a-ses-concurrents-2eb4)
+- [Understanding the Event Loop](https://dev.to/geampiere/understanding-the-event-loop-j50)
+- [Going Serverless 🤖⚡: How to Launch a Website in less than 15 minutes with AWS Lambda &amp; API Gateway &lpar;Beginner-Friendly!&rpar;](https://dev.to/up_min_sparcs/going-serverless-how-to-launch-a-website-in-less-than-15-minutes-with-aws-lambda-api-gateway-4543)
 <!-- BLOG-POST-LIST:END -->
 
 
