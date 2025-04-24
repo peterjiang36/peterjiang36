@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use .env Securely in DevOps Projects](https://dev.to/yash_sonawane25/how-to-use-env-securely-in-devops-projects-jfe)
-- [GITHUB REPOSITORY SETUP](https://dev.to/thanusri7012/github-repository-setup-9d3)
-- [Express Authentication + RBAC](https://dev.to/ttibbs/express-authentication-rbac-5dfo)
-- [Big Data Processing - Case Study 2 &lpar;Spark&rpar;](https://dev.to/mmafrar/big-data-processing-case-study-2-spark-4j1c)
+- [jQuery Add to Cart](https://dev.to/preetha_vaishnavi_2b82358/jquery-add-to-cart-bhn)
+- [Machine Learning Day 1](https://dev.to/aravindhasamy_r/machine-learning-day-1-c6n)
+- [CompareList.org: A Developer&#39;s Guide to Efficient Data Comparison](https://dev.to/yip_chipen_dec986ea391232/comparelistorg-a-developers-guide-to-efficient-data-comparison-21al)
+- [ML day 1](https://dev.to/sam_anderson_5ceb59b3f4b1/ml-day-1-1aoc)
 <!-- BLOG-POST-LIST:END -->
 
 
