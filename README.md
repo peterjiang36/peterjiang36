@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [jQuery Add to Cart](https://dev.to/preetha_vaishnavi_2b82358/jquery-add-to-cart-bhn)
-- [Machine Learning Day 1](https://dev.to/aravindhasamy_r/machine-learning-day-1-c6n)
-- [CompareList.org: A Developer&#39;s Guide to Efficient Data Comparison](https://dev.to/yip_chipen_dec986ea391232/comparelistorg-a-developers-guide-to-efficient-data-comparison-21al)
-- [ML day 1](https://dev.to/sam_anderson_5ceb59b3f4b1/ml-day-1-1aoc)
+- [Tesdfghjkl;&#39;](https://dev.to/wnjsjen/tesdfghjkl-56po)
+- [Git Basic Commands TO Push into Github](https://dev.to/sachin_s24mcr084/git-workflow-for-developers-from-initialization-to-pushing-to-github-1a6d)
+- [2nd,Create Tables In Supabase](https://dev.to/bruce_doctor_515422886dae/2ndcreate-tables-in-supabase-2ngb)
+- [🔒 Bandit: Python Static Application Security Testing Guide](https://dev.to/angelvargasgutierrez/bandit-python-static-application-security-testing-guide-47l0)
 <!-- BLOG-POST-LIST:END -->
 
 
