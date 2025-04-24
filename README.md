@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Flutter MRZ and VIN Scanner for Android, iOS, Web, Windows, and Linux](https://dev.to/yushulx/how-to-build-a-flutter-mrz-and-vin-scanner-for-android-ios-web-windows-and-linux-4len)
-- [Frameworks Aren’t the Problem — Our Dependency on Them Is](https://dev.to/appavelidev/frameworks-arent-the-problem-our-dependency-on-them-is-5g12)
-- [Daily JavaScript Challenge #JS-162: Determine Unique Elements in a Series](https://dev.to/dpc/daily-javascript-challenge-js-162-determine-unique-elements-in-a-series-3498)
-- [🎓 Andrew Ng on the Future of AI: What Engineers Should Really Focus On](https://dev.to/decisive1/andrew-ng-on-the-future-of-ai-what-engineers-should-really-focus-on-3kch)
+- [10 Boas Práticas com Selenium para Evitar Bloqueios e Melhorar Sua Automação Web](https://dev.to/wesleymiranda/10-boas-praticas-com-selenium-para-evitar-bloqueios-e-melhorar-sua-automacao-web-7mh)
+- [Timers and Tickers: Delays and Repeating Tasks 6/10](https://dev.to/rezmoss/timers-and-tickers-delays-and-repeating-tasks-610-fh)
+- [Real-Time Audio Spectrograms in the Browser Using Web Audio API and Canvas](https://dev.to/hexshift/real-time-audio-spectrograms-in-the-browser-using-web-audio-api-and-canvas-4b2d)
+- [I Compared Four API Docs. Some Made Me Smile, Some Made Me Sigh](https://dev.to/1stonwe/i-compared-four-api-docs-some-made-me-smile-some-made-me-sigh-1h5i)
 <!-- BLOG-POST-LIST:END -->
 
 
