@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Boas Práticas com Selenium para Evitar Bloqueios e Melhorar Sua Automação Web](https://dev.to/wesleymiranda/10-boas-praticas-com-selenium-para-evitar-bloqueios-e-melhorar-sua-automacao-web-7mh)
-- [Timers and Tickers: Delays and Repeating Tasks 6/10](https://dev.to/rezmoss/timers-and-tickers-delays-and-repeating-tasks-610-fh)
-- [Real-Time Audio Spectrograms in the Browser Using Web Audio API and Canvas](https://dev.to/hexshift/real-time-audio-spectrograms-in-the-browser-using-web-audio-api-and-canvas-4b2d)
-- [I Compared Four API Docs. Some Made Me Smile, Some Made Me Sigh](https://dev.to/1stonwe/i-compared-four-api-docs-some-made-me-smile-some-made-me-sigh-1h5i)
+- [Summarize Row Counts by Dynamic Columns into JSON — From SQL to SPL #22](https://dev.to/judith677/summarize-row-counts-by-dynamic-columns-into-json-from-sql-to-spl-22-58hj)
+- [🛡️ The Junior Dev Journey: Like an RPG, But With Code](https://dev.to/santoslucas11/the-junior-dev-journey-like-an-rpg-but-with-code-4ao9)
+- [How to Install Metasploit on Android &lpar;Termux&rpar; &amp; Ethical Remote Access Testing](https://dev.to/terminaltools/how-to-install-metasploit-on-android-termux-ethical-remote-access-testing-4n2m)
+- [Understanding Walkthrough.sol: Solidity Contract Explained in Detail](https://dev.to/rwu_security_researcher/understanding-walkthroughsol-solidity-contract-explained-in-detail-5ccn)
 <!-- BLOG-POST-LIST:END -->
 
 
