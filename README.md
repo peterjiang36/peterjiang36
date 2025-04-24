@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check my new post where i discuss a content-aware image moderation using Kafka , ClarifAI and Spring boot Microservices](https://dev.to/yassine_ramzi_2b843dc54b9/check-my-new-post-where-i-discuss-a-content-aware-image-moderation-using-kafka-clarifai-and-3935)
-- [Love how this doesn’t rely on drama or clichés. It’s modern, clean, and deeply human — a great visual for the topic. #AshkanRajaee #SmartSelling #DealFlow #SalesProcess #BusinessEnergy](https://dev.to/reynaldo_dayola_e5b762264/love-how-this-doesnt-rely-on-drama-or-cliches-its-modern-clean-and-deeply-human-a-great-2epj)
-- [MACHINE LEARNING CODE FOR IRIS VALUE PREDICTION](https://dev.to/kowsalya_s/machine-learning-code-for-iris-value-prediction-541o)
-- [193/365 | ¥10M Job Challenge - Lowering the Barrier to Taking Action](https://dev.to/kameken100/193365-y10m-job-challenge-lowering-the-barrier-to-taking-action-28h8)
+- [🚀 Fly High with Flutter Rocket: The Ultimate Package for Flutter Developers](https://dev.to/m97chahboun/fly-high-with-flutter-rocket-the-ultimate-package-for-flutter-developers-3o0c)
+- [Refactor, Recharge, Repeat](https://dev.to/duplessisvanaswegen/refactor-recharge-repeat-53eh)
+- [3 Types of Chaos Experiments and How To Run Them](https://dev.to/steadybit/3-types-of-chaos-experiments-and-how-to-run-them-1p59)
+- [30 Most Useful Linux Commands: A Practical Guide](https://dev.to/marzena_pugo_b8978575380f/30-most-useful-linux-commands-a-practical-guide-4ja4)
 <!-- BLOG-POST-LIST:END -->
 
 
