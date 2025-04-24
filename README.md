@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Learns Vocal Effects: Differentiable Model Matches Pro Mixing Techniques](https://dev.to/aimodels-fyi/ai-learns-vocal-effects-differentiable-model-matches-pro-mixing-techniques-4h5k)
-- [AI&#39;s Creative Block: Why Next-Token Prediction Fails &quot;Leap-of-Thought&quot; Tasks](https://dev.to/aimodels-fyi/ais-creative-block-why-next-token-prediction-fails-leap-of-thought-tasks-3d7b)
-- [Novels Come Alive: AI Creates Interactive Agent Societies for Storytelling](https://dev.to/aimodels-fyi/novels-come-alive-ai-creates-interactive-agent-societies-for-storytelling-5462)
-- [AI Overthinking? New Tool Cuts Wasteful Token Use in Reasoning Models](https://dev.to/aimodels-fyi/ai-overthinking-new-tool-cuts-wasteful-token-use-in-reasoning-models-ic4)
+- [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
+- [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
+- [Tailwind CSS v4 Crash Course – Build from Scratch!](https://dev.to/redgroup/tailwind-css-v4-crash-course-build-from-scratch-ald)
+- [🧵 “I thought I had done everything right, but still... no calls.”](https://dev.to/tomasagustinduro/i-thought-i-had-done-everything-right-but-still-no-calls-4ahf)
 <!-- BLOG-POST-LIST:END -->
 
 
