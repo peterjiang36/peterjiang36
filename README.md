@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Still struggling to stay productive despite downloading multiple productivity tools? What you need is an app that offers all your productivity tools in one. Brite is your all-in-one productivity companion, check out this guide to using the Brite App.](https://dev.to/ollie20/still-struggling-to-stay-productive-even-after-downloading-multiple-productivity-tools-what-you-212n)
-- [Special Permissions in Linux &lpar;SUID, SGID &amp; Sticky Bit&rpar;](https://dev.to/chielo_chiamaka/special-permissions-in-linux-suid-sgid-sticky-bit-3nel)
-- [📧 How Does Gmail &lpar;and Email in General&rpar; Really Work?](https://dev.to/pandeyaditya0002/how-does-gmail-and-email-in-general-really-work-1d8h)
-- [Using Nim to Generate JavaScript Code for Frontend Development](https://dev.to/hamza_atmaca_8da0bc22ad25/using-nim-to-generate-javascript-code-for-frontend-development-466b)
+- [DevLog #01 — Aloy: Introdução ao projeto Aloy](https://dev.to/luismarchio03/devlog-01-aloy-introducao-ao-projeto-aloy-5406)
+- [DEVELOPING ML MODEL](https://dev.to/jeyamirthula_pon24mcr046/developing-ml-model-26k)
+- [🐧 Linux Basics Part 2: File Operations, Viewing Content &amp; Permissions](https://dev.to/alkesh009/linux-basics-part-2-file-operations-viewing-content-permissions-4gha)
+- [10 Best Document Translation Software Features [2025]](https://dev.to/ronikakashyap/10-best-document-translation-software-features-2025-1e46)
 <!-- BLOG-POST-LIST:END -->
 
 
