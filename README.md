@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [USEFUL GIT COMMANDS](https://dev.to/jayalakshmi_s_bf86a8c8d64/useful-git-commands-4jjp)
-- [JavaScript is single-threaded but with async features? 🤔](https://dev.to/naijadeveloper/javascript-is-single-threaded-but-with-async-features-521d)
-- [Leetcode - 117. Populating Next Right Pointers in Each Node II](https://dev.to/rakeshreddy512/leetcode-117-populating-next-right-pointers-in-each-node-ii-3eli)
-- [How AI Content Is Flooding Social Media &amp; How to Spot It](https://dev.to/justin_downes/how-ai-content-is-flooding-social-media-how-to-spot-it-4ogg)
+- [What is host=&quot;0.0.0.0&quot;?](https://dev.to/engrmark/what-is-host0000-goa)
+- [[Boost]](https://dev.to/jtravisp/-1ell)
+- [Site do meu casamento &lpar;Alguém me ajuda?&rpar;](https://dev.to/ryangwalchmei/site-do-meu-casamento-alguem-me-ajuda-55gk)
+- [Essential Guide to Recognizing Emergency Alarm Circuit Performance and Layout](https://dev.to/studyvise8/essential-guide-to-recognizing-emergency-alarm-circuit-performance-and-layout-42bh)
 <!-- BLOG-POST-LIST:END -->
 
 
