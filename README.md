@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock GenAI Power: Build Your Own GenAI Image Generation Website with Amazon Nova🖌️](https://dev.to/aws-builders/unlock-genai-power-build-your-own-genai-image-generation-website-with-amazon-nova-1i64)
-- [From the Market Stalls of Morocco to Building Tech Solutions for Europe](https://dev.to/techlabma/from-the-market-stalls-of-morocco-to-building-tech-solutions-for-europe-3lp9)
-- [Open Source Developer Patronage: Support and Sustain Open Source](https://dev.to/zhangwei42/open-source-developer-patronage-support-and-sustain-open-source-1ci8)
-- [A Decade of SolidJS](https://dev.to/this-is-learning/a-decade-of-solidjs-32f4)
+- [USEFUL GIT COMMANDS](https://dev.to/jayalakshmi_s_bf86a8c8d64/useful-git-commands-4jjp)
+- [JavaScript is single-threaded but with async features? 🤔](https://dev.to/naijadeveloper/javascript-is-single-threaded-but-with-async-features-521d)
+- [Leetcode - 117. Populating Next Right Pointers in Each Node II](https://dev.to/rakeshreddy512/leetcode-117-populating-next-right-pointers-in-each-node-ii-3eli)
+- [How AI Content Is Flooding Social Media &amp; How to Spot It](https://dev.to/justin_downes/how-ai-content-is-flooding-social-media-how-to-spot-it-4ogg)
 <!-- BLOG-POST-LIST:END -->
 
 
