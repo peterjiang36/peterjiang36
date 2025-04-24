@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [tfw when your mouse batteries are dying but you&#39;re too lazy to replace them and clicks only work every other click 😭](https://dev.to/jess/tfw-when-your-mouse-batteries-are-dying-but-youre-too-lazy-to-replace-them-and-clicks-only-work-45oo)
-- [Ne pas automatiser, c’est accepter de perdre face à ses concurrents](https://dev.to/softyflow/ne-pas-automatiser-cest-accepter-de-perdre-face-a-ses-concurrents-2eb4)
-- [Understanding the Event Loop](https://dev.to/geampiere/understanding-the-event-loop-j50)
-- [Going Serverless 🤖⚡: How to Launch a Website in less than 15 minutes with AWS Lambda &amp; API Gateway &lpar;Beginner-Friendly!&rpar;](https://dev.to/up_min_sparcs/going-serverless-how-to-launch-a-website-in-less-than-15-minutes-with-aws-lambda-api-gateway-4543)
+- [Retro Revival: How to Build the Classic Snake Game in JavaScript](https://dev.to/up_min_sparcs/retro-revival-how-to-build-the-classic-snake-game-in-javascript-4em7)
+- [Optimizing Tailwind CSS for React Applications: Our Journey](https://dev.to/westernal/optimizing-tailwind-css-for-react-applications-our-journey-2lck)
+- [🔐From Zero to SAST Hero: Applying Codacy to a Clean ASP.NET Core Project](https://dev.to/gregobhm/from-zero-to-sast-hero-applying-codacy-to-a-clean-aspnet-core-project-3c9d)
+- [EU fines Apple and Meta €700 million in breach of the Digital Markets Act](https://dev.to/kvetoslavnovak/eu-fines-apple-and-meta-eu700-million-in-breach-of-the-digital-markets-act-12p4)
 <!-- BLOG-POST-LIST:END -->
 
 
