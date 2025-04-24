@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 24 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-24-april-hen)
-- [Self-Hosting Node.js/Express Web App Behind CGNAT &lpar;No Port Forwarding&rpar; via Dynamic DNS &amp; Tunneling](https://dev.to/up_min_sparcs/self-hosting-nodejsexpress-web-app-behind-cgnat-no-port-forwarding-via-dynamic-dns-tunneling-3mod)
-- [Power Apps Custom Page Dialogs in Model-Driven Apps: Passing &amp; Receiving Data](https://dev.to/meecool/power-apps-custom-page-dialogs-in-model-driven-apps-passing-receiving-data-4cpe)
-- [How xBlog AI Helped a Marketing Agency Deliver 10x Content Output to Clients](https://dev.to/eluney/how-xblog-ai-helped-a-marketing-agency-deliver-10x-content-output-to-clients-2c2f)
+- [Top 10 awesome MCP servers that can make your life easier 🪄✨](https://dev.to/composiodev/top-10-awesome-mcp-servers-that-can-make-your-life-easier-3n4o)
+- [Cat or Dog? — Building a Binary Image Classifier with TensorFlow](https://dev.to/up_min_sparcs/cat-or-dog-building-a-binary-image-classifier-with-tensorflow-54da)
+- [Función](https://dev.to/david_bermenvliz/funcion-2k40)
+- [Find more similar to a custom image from a list of image](https://dev.to/farhadh57/find-more-similar-to-a-custom-image-from-a-list-of-image-450c)
 <!-- BLOG-POST-LIST:END -->
 
 
