@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Outer Joins in SQL: The Key to Keeping Unmatched Rows](https://dev.to/dbvismarketing/outer-joins-in-sql-the-key-to-keeping-unmatched-rows-4c5d)
-- [How I Built a Laravel Virtual Wallet &lpar;And Why You Might Need One Too&rpar;](https://dev.to/hax-neeraj/how-i-built-a-laravel-virtual-wallet-and-why-you-might-need-one-too-4go0)
-- [Why do software projects fail despite having excellent code?](https://dev.to/ragutislt/why-do-software-projects-fail-despite-having-excellent-code-104h)
-- [GITHUB COMMANDS](https://dev.to/gobinath_m_2026/github-commands-4ij9)
+- [Broken Access Control in Symfony: Real-World Examples and Fixes](https://dev.to/pentest_testing_corp/broken-access-control-in-symfony-real-world-examples-and-fixes-d3g)
+- [The Generic Advantage: Making Your Go Code Flexible, Reusable, and Awesome 🔥](https://dev.to/tavernetech/the-generic-advantage-making-your-go-code-flexible-reusable-and-awesome-304n)
+- [WebGPU and WebGL for Graphics Rendering](https://dev.to/omriluz1/webgpu-and-webgl-for-graphics-rendering-1pag)
+- [Master Data-Driven Marketing with OpenAI Agents SDK](https://dev.to/swiftproxy_residential/master-data-driven-marketing-with-openai-agents-sdk-1b21)
 <!-- BLOG-POST-LIST:END -->
 
 
