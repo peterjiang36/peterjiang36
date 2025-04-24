@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding with 15+ Best Shadcn Alternatives](https://dev.to/tailwindcss/best-shadcn-alternatives-1jh0)
-- [C# &lpar;C Sharp&rpar; Tutorial: Learn LINQ Basics with Real Examples](https://dev.to/pythontutorial/c-c-sharp-tutorial-learn-linq-basics-with-real-examples-35cj)
-- [Why We Build Themes for Builders, Not Just Buyers](https://dev.to/gm-kamrussama/why-we-build-themes-for-builders-not-just-buyers-nle)
-- [[Boost]](https://dev.to/gusrybear/-9d1)
+- [How Web3 Trading Tournaments Turn Bear Markets into Builder Moments](https://dev.to/iri_denis/how-web3-trading-tournaments-turn-bear-markets-into-builder-moments-1308)
+- [Install Red Hat Developer Hub with AI Software Templates on OpenShift](https://dev.to/fortune-ndlovu/install-red-hat-developer-hub-with-ai-software-templates-on-openshift-162i)
+- [Introducing noir-llm: Free Access to Premium AI Models for Everyone 🚀](https://dev.to/deviprasad_shetty_7bfe083/introducing-noir-llm-free-access-to-premium-ai-models-for-everyone-36jn)
+- [Stop Letting Images Slow Down Your Website](https://dev.to/andreialba/stop-letting-images-slow-down-your-website-119j)
 <!-- BLOG-POST-LIST:END -->
 
 
