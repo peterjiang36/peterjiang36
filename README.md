@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Web3 Trading Tournaments Turn Bear Markets into Builder Moments](https://dev.to/iri_denis/how-web3-trading-tournaments-turn-bear-markets-into-builder-moments-1308)
-- [Install Red Hat Developer Hub with AI Software Templates on OpenShift](https://dev.to/fortune-ndlovu/install-red-hat-developer-hub-with-ai-software-templates-on-openshift-162i)
-- [Introducing noir-llm: Free Access to Premium AI Models for Everyone 🚀](https://dev.to/deviprasad_shetty_7bfe083/introducing-noir-llm-free-access-to-premium-ai-models-for-everyone-36jn)
-- [Stop Letting Images Slow Down Your Website](https://dev.to/andreialba/stop-letting-images-slow-down-your-website-119j)
+- [Still struggling to stay productive despite downloading multiple productivity tools? What you need is an app that offers all your productivity tools in one. Brite is your all-in-one productivity companion, check out this guide to using the Brite App.](https://dev.to/ollie20/still-struggling-to-stay-productive-even-after-downloading-multiple-productivity-tools-what-you-212n)
+- [Special Permissions in Linux &lpar;SUID, SGID &amp; Sticky Bit&rpar;](https://dev.to/chielo_chiamaka/special-permissions-in-linux-suid-sgid-sticky-bit-3nel)
+- [📧 How Does Gmail &lpar;and Email in General&rpar; Really Work?](https://dev.to/pandeyaditya0002/how-does-gmail-and-email-in-general-really-work-1d8h)
+- [Using Nim to Generate JavaScript Code for Frontend Development](https://dev.to/hamza_atmaca_8da0bc22ad25/using-nim-to-generate-javascript-code-for-frontend-development-466b)
 <!-- BLOG-POST-LIST:END -->
 
 
