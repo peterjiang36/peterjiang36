@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Startup Challenges and Success in 2025](https://dev.to/grenishrai/startup-challenges-and-success-in-2025-3i0g)
-- [AI and the Tech Frontier: A Practical Path for Local Economic Growth](https://dev.to/chee_chiongteng/ai-and-the-tech-frontier-a-practical-path-for-local-economic-growth-b77)
-- [# Day 3 of My 30-Day Linux Challenge: Mastering Files and Directories](https://dev.to/liquiditee/-day-3-of-my-30-day-linux-challenge-mastering-files-and-directories-4alg)
-- [Mastering Git : Advanced Commands Every Developer Should Know](https://dev.to/viratpk18/mastering-git-advanced-commands-every-developer-should-know-3f8j)
+- [Git Advanced Commands](https://dev.to/nafila_nasrink_c47bf43d7/git-advanced-commands-4846)
+- [Remote access with RustDesk](https://dev.to/kubenetic/remote-access-with-rustdesk-km4)
+- [PREDICTION OF IRIS](https://dev.to/gokila0/prediction-of-iris-4b58)
+- [git advance commands](https://dev.to/m_uma/git-advance-commands-1bah)
 <!-- BLOG-POST-LIST:END -->
 
 
