@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Advanced Commands](https://dev.to/nafila_nasrink_c47bf43d7/git-advanced-commands-4846)
-- [Remote access with RustDesk](https://dev.to/kubenetic/remote-access-with-rustdesk-km4)
-- [PREDICTION OF IRIS](https://dev.to/gokila0/prediction-of-iris-4b58)
-- [git advance commands](https://dev.to/m_uma/git-advance-commands-1bah)
+- [Advanced git comments](https://dev.to/janisha_flavy_43180fae7e6/advanced-git-comments-c7j)
+- [How to Enable Variable Refresh Rate on Windows 11?](https://dev.to/winsides/how-to-enable-variable-refresh-rate-on-windows-11-4cma)
+- [Angular 19: Reactividad Simple](https://dev.to/miguelbc7/angular-19-reactividad-simple-27ga)
+- [📂 Build a Local ChatGPT-like App with Blazor and MAIN.NET – Part 3: Chatting with Your PDF Files.](https://dev.to/paweljanda/build-a-local-chatgpt-like-app-with-blazor-and-mainnet-part-3-chatting-with-your-pdf-files-3m98)
 <!-- BLOG-POST-LIST:END -->
 
 
