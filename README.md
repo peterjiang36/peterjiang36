@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Machine: A Feeling About AI Building AI](https://dev.to/meet_desai_6fbd24be7a17e6/the-ghost-in-the-machine-a-feeling-about-ai-building-ai-1j97)
-- [How I Optimized a Spring Boot Application to Handle 1M Requests/Second 🚀](https://dev.to/mohit_bajaj_a3e3241d02fda/how-i-optimized-a-spring-boot-application-to-handle-1m-requestssecond-2i78)
-- [Import Cross Account AWS DynamoDB data from S3 bucket to DynamoDB using Python Boto3](https://dev.to/aws-builders/import-cross-account-aws-dynamodb-data-from-s3-bucket-to-dynamodb-using-python-boto3-451m)
-- [Learn Python Lists With Definition &amp; Code](https://dev.to/kola_harshitashree_0363b/learn-python-lists-with-definition-code-53kb)
+- [Building a RAG Chatbot with VoltAgent](https://dev.to/voltagent/building-a-rag-chatbot-with-voltagent-oo6)
+- [How to Build Comprehensive Dashboards for Your SaaS and Cloud Apps](https://dev.to/mechcloud/how-to-build-comprehensive-dashboards-for-your-saas-and-cloud-apps-5bol)
+- [Exploring the Key Differences between Object Localization and Object Detection](https://dev.to/ideradevtools/exploring-the-key-differences-between-object-localization-and-object-detection-1n4b)
+- [The Role of Algorithmic Market Making in Volatile Markets](https://dev.to/vishal_singh_8666966f9bcc/the-role-of-algorithmic-market-making-in-volatile-markets-4l9h)
 <!-- BLOG-POST-LIST:END -->
 
 
