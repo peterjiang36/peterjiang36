@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write the Perfect Pull Request &lpar;based on thousands of PRs analyzed&rpar;](https://dev.to/sergioblar/how-to-write-the-perfect-pull-request-based-on-thousands-of-prs-analyzed-1gdf)
-- [AI Code Reviews vs. Traditional Code Reviews](https://dev.to/kodus/ai-code-reviews-vs-traditional-code-reviews-4b1i)
-- [194/365 | ¥10M Job Challenge - An Ordinary Day](https://dev.to/kameken100/194365-y10m-job-challenge-an-ordinary-day-2b02)
-- [How to Translate Entire Excel Files &lpar;All Cells&rpar;](https://dev.to/colinreed/how-to-translate-entire-excel-files-all-cells-4g18)
+- [Every Developer Needs to Self-Host](https://dev.to/code42cate/every-developer-needs-to-self-host-43mm)
+- [Explore How Your Restaurant or Café Will Look on votely.me &lpar;ڤوتلي.مي&rpar; with the Demo](https://dev.to/votely_me/explore-how-your-restaurant-or-cafe-will-look-on-votelyme-vwtlymy-with-the-demo-341i)
+- [Neuromorphic Chips in 2025: A Developer&#39;s Guide to Brain-Inspired AI Hardware](https://dev.to/arkhan/neuromorphic-chips-in-2025-a-developers-guide-to-brain-inspired-ai-hardware-24p7)
+- [How to Create an Account on votely.me &lpar;ڤوتلي.مي&rpar; in 2025](https://dev.to/votely_me/how-to-create-an-account-on-votelyme-vwtlymy-in-2025-679)
 <!-- BLOG-POST-LIST:END -->
 
 
