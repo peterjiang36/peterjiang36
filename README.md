@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 146/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-146365-learning-full-stack-10ai)
-- [Stop Overengineering: Clean Architecture for Real-World APIs](https://dev.to/sung_jinwoo_ae9a810f8c46a/stop-overengineering-clean-architecture-for-real-world-apis-2n9m)
-- [7 Common DevOps Interview Questions – With Real-World Answers](https://dev.to/yash_sonawane25/7-common-devops-interview-questions-with-real-world-answers-chc)
-- [Silver for web3 at Middle East and North Africa](https://dev.to/hebishp/silver-for-web3-at-middle-east-and-north-africa-4afa)
+- [Exploring the Intersection of Cyberwarfare and Open Source License Compliance](https://dev.to/jennythomas498/exploring-the-intersection-of-cyberwarfare-and-open-source-license-compliance-4iab)
+- [Keep It Tight: Using Locally Scoped Helper Functions in Kotlin Use Cases](https://dev.to/paulfranco/keep-it-tight-using-locally-scoped-helper-functions-in-kotlin-use-cases-5004)
+- [Applying Any SAST Tools to Any Application: A Practical Guide&quot; published](https://dev.to/draigo15/applying-any-sast-tools-to-any-application-a-practical-guidepublished-3063)
+- [Forex Data Interface: Deep Dive into Alltick&#39;s Quantitative Trading Data Engine](https://dev.to/liliiii/forex-data-interface-deep-dive-into-allticks-quantitative-trading-data-engine-fi)
 <!-- BLOG-POST-LIST:END -->
 
 
