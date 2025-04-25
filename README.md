@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Read this and your Web Design and Development Skills will take off](https://dev.to/web_dev-usman/read-this-and-your-web-design-and-development-skills-will-take-off-4hd6)
-- [Exploring Love &amp; Fame: Emily Compagno&#39;s Marital Journey &amp; Ed Sheeran&#39;s Romantic Melodies](https://dev.to/vaultmagazine/exploring-love-fame-emily-compagnos-marital-journey-ed-sheerans-romantic-melodies-52a3)
-- [Understanding React Server Components &lpar;RSC&rpar;](https://dev.to/vishw-patel/understanding-react-server-components-rsc-3nlo)
-- [Ruby - use Redis-lock to avoid duplicate jobs](https://dev.to/hungle00/ruby-use-redis-lock-to-avoid-duplicate-jobs-51e)
+- [Patio Pavilions: Affordable Options for Every Budget](https://dev.to/tuff_digitalmarketing_e7/patio-pavilions-affordable-options-for-every-budget-cd1)
+- [The Real CI/CD Pipeline Is Held Together by Slack Messages and Panic](https://dev.to/hotfixhero/the-real-cicd-pipeline-is-held-together-by-slack-messages-and-panic-5em3)
+- [How AWS Generative AI Can Reduce Development Costs for Enterprises](https://dev.to/mathu_seelan_a19e13f9b7fb/how-aws-generative-ai-can-reduce-development-costs-for-enterprises-5aoj)
+- [Bridging the Gap: Time-Bound Access in Event-Driven Architectures &lpar;Part 1 of 3&rpar;](https://dev.to/gvensan/bridging-the-gap-time-bound-access-in-event-driven-architectures-part-1-of-3-3g5m)
 <!-- BLOG-POST-LIST:END -->
 
 
