@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟](https://dev.to/hanzla-baig/-5dmd)
-- [If You Run Your CI Locally, You’ve Already Failed](https://dev.to/francescobianco/if-you-run-your-ci-locally-youve-already-failed-28fn)
-- [Looking for Web3 Developer – NFT Minting &amp; Blockchain Integration](https://dev.to/jcorbera/looking-for-web3-developer-nft-minting-blockchain-integration-2894)
-- [NoSQL Fighters Arena: The Battle of Data Titans](https://dev.to/wallaceespindola/nosql-fighters-arena-the-battle-of-data-titans-22o7)
+- [Day 146/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-146365-learning-full-stack-10ai)
+- [Stop Overengineering: Clean Architecture for Real-World APIs](https://dev.to/sung_jinwoo_ae9a810f8c46a/stop-overengineering-clean-architecture-for-real-world-apis-2n9m)
+- [7 Common DevOps Interview Questions – With Real-World Answers](https://dev.to/yash_sonawane25/7-common-devops-interview-questions-with-real-world-answers-chc)
+- [Silver for web3 at Middle East and North Africa](https://dev.to/hebishp/silver-for-web3-at-middle-east-and-north-africa-4afa)
 <!-- BLOG-POST-LIST:END -->
 
 
