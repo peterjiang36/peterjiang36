@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Intersection of Cyberwarfare and Open Source License Compliance](https://dev.to/jennythomas498/exploring-the-intersection-of-cyberwarfare-and-open-source-license-compliance-4iab)
-- [Keep It Tight: Using Locally Scoped Helper Functions in Kotlin Use Cases](https://dev.to/paulfranco/keep-it-tight-using-locally-scoped-helper-functions-in-kotlin-use-cases-5004)
-- [Applying Any SAST Tools to Any Application: A Practical Guide&quot; published](https://dev.to/draigo15/applying-any-sast-tools-to-any-application-a-practical-guidepublished-3063)
-- [Forex Data Interface: Deep Dive into Alltick&#39;s Quantitative Trading Data Engine](https://dev.to/liliiii/forex-data-interface-deep-dive-into-allticks-quantitative-trading-data-engine-fi)
+- [If you can&#39;t sleep, just count sheep!!](https://dev.to/maddiepst/if-you-cant-sleep-just-count-sheep-2dil)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2keg)
+- [The Future of Storage: How Intelligent Systems Boost Efficiency and Accuracy](https://dev.to/mcdowell/the-future-of-storage-how-intelligent-systems-boost-efficiency-and-accuracy-54j9)
+- [Decentralized Governance in Open Source: Bridging Innovation and Community](https://dev.to/bobcars/decentralized-governance-in-open-source-bridging-innovation-and-community-181f)
 <!-- BLOG-POST-LIST:END -->
 
 
