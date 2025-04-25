@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Developer Needs to Self-Host](https://dev.to/code42cate/every-developer-needs-to-self-host-43mm)
-- [Explore How Your Restaurant or Café Will Look on votely.me &lpar;ڤوتلي.مي&rpar; with the Demo](https://dev.to/votely_me/explore-how-your-restaurant-or-cafe-will-look-on-votelyme-vwtlymy-with-the-demo-341i)
-- [Neuromorphic Chips in 2025: A Developer&#39;s Guide to Brain-Inspired AI Hardware](https://dev.to/arkhan/neuromorphic-chips-in-2025-a-developers-guide-to-brain-inspired-ai-hardware-24p7)
-- [How to Create an Account on votely.me &lpar;ڤوتلي.مي&rpar; in 2025](https://dev.to/votely_me/how-to-create-an-account-on-votelyme-vwtlymy-in-2025-679)
+- [Part 1: The Memento Problem with AI Memory](https://dev.to/trustgraph/part-1-the-memento-problem-with-ai-memory-4ge7)
+- [From Source to Blockchain: How Smart Contracts Go Live with Remix and MetaMask](https://dev.to/rwu_security_researcher/from-source-to-blockchain-how-smart-contracts-go-live-with-remix-and-metamask-25h8)
+- [The Convergence of IV Therapy and Artificial Intelligence: Revolutionizing Patient Care](https://dev.to/josef_doctorovitz_ww/the-convergence-of-iv-therapy-and-artificial-intelligence-revolutionizing-patient-care-2md9)
+- [A Fase de Modeling &lpar;Modelagem&rpar;](https://dev.to/_richardson_/a-fase-de-modeling-modelagem-4p38)
 <!-- BLOG-POST-LIST:END -->
 
 
