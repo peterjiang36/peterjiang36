@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Patio Pavilions: Affordable Options for Every Budget](https://dev.to/tuff_digitalmarketing_e7/patio-pavilions-affordable-options-for-every-budget-cd1)
-- [The Real CI/CD Pipeline Is Held Together by Slack Messages and Panic](https://dev.to/hotfixhero/the-real-cicd-pipeline-is-held-together-by-slack-messages-and-panic-5em3)
-- [How AWS Generative AI Can Reduce Development Costs for Enterprises](https://dev.to/mathu_seelan_a19e13f9b7fb/how-aws-generative-ai-can-reduce-development-costs-for-enterprises-5aoj)
-- [Bridging the Gap: Time-Bound Access in Event-Driven Architectures &lpar;Part 1 of 3&rpar;](https://dev.to/gvensan/bridging-the-gap-time-bound-access-in-event-driven-architectures-part-1-of-3-3g5m)
+- [The Ghost in the Machine: A Feeling About AI Building AI](https://dev.to/meet_desai_6fbd24be7a17e6/the-ghost-in-the-machine-a-feeling-about-ai-building-ai-1j97)
+- [How I Optimized a Spring Boot Application to Handle 1M Requests/Second 🚀](https://dev.to/mohit_bajaj_a3e3241d02fda/how-i-optimized-a-spring-boot-application-to-handle-1m-requestssecond-2i78)
+- [Import Cross Account AWS DynamoDB data from S3 bucket to DynamoDB using Python Boto3](https://dev.to/aws-builders/import-cross-account-aws-dynamodb-data-from-s3-bucket-to-dynamodb-using-python-boto3-451m)
+- [Learn Python Lists With Definition &amp; Code](https://dev.to/kola_harshitashree_0363b/learn-python-lists-with-definition-code-53kb)
 <!-- BLOG-POST-LIST:END -->
 
 
