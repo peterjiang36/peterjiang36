@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EF Core - Migrações](https://dev.to/yuripeixinho/ef-core-migracoes-406j)
-- [Straightforward No-code Meeting Notetaker Agent 📝](https://dev.to/emmakodes_/straightforward-no-code-meeting-notetaker-agent-k9i)
-- [Web App Development vs Mobile App Development: What’s the Difference?](https://dev.to/vengatesan_rajendiran_ece/web-app-development-vs-mobile-app-development-whats-the-difference-27d4)
-- [EF Core - Garantir Integridade Estrutural](https://dev.to/yuripeixinho/ef-core-garantir-integridade-estrutural-2kp7)
+- [The 5 Kinds Of Tech People Who Will Survive AI](https://dev.to/clark_teeple/the-5-kinds-of-tech-people-who-will-survive-ai-6ln)
+- [Daily Dose 25 April 2025](https://dev.to/td_inc/daily-dose-25-april-2025-b8a)
+- [What is AIOps?](https://dev.to/ta2ozg/what-is-aiops-h66)
+- [How To Run Better Async Meetings](https://dev.to/rally_for_jira/how-to-run-better-async-meetings-1n83)
 <!-- BLOG-POST-LIST:END -->
 
 
