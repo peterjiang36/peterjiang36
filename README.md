@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Game Programmer Learns Blender](https://dev.to/justinhhorner/a-game-programmer-learns-blender-2m7f)
-- [CSS is Emotional: A Conversation with Eric Meyer](https://dev.to/eioluseyi/css-is-emotional-a-conversation-with-eric-meyer-507o)
-- [How to exit TELNET connection on Linux Terminal](https://dev.to/eliasanjr/how-to-exit-telnet-connection-on-linux-terminal-4ll)
-- [50 Shades of Java Executors: A deep dive into the Java multi-threading world](https://dev.to/nicolasduminil/50-shades-of-java-executors-a-deep-dive-into-the-java-multi-threading-world-48j7)
+- [Introducing: Project of the Week!](https://dev.to/pullflow/introducing-project-of-the-week-148g)
+- [[Boost]](https://dev.to/lijayfara/-4mp3)
+- [Git Submodule Update](https://dev.to/aerabi/git-submodule-update-5hb)
+- [A coordinated dance to identify the editor](https://dev.to/finanalyst/a-coordinated-dance-to-identify-the-editor-2h4b)
 <!-- BLOG-POST-LIST:END -->
 
 
