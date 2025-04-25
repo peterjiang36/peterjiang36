@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement NextAuth with Next.js and TypeScript](https://dev.to/harshitdugar/implement-nextauth-with-nextjs-and-typescript-32lo)
-- [Como potenciar tu VS Code con Continue.dev Cline](https://dev.to/devjohanadrian/como-potenciar-tu-vs-code-con-continuedev-cline-lic)
-- [Streamline Your EKS Deployments with NGINX Ingress: A Comprehensive Guide](https://dev.to/nifelabs/streamline-your-eks-deployments-with-nginx-ingress-a-comprehensive-guide-3j7j)
-- [Understanding File Permissions in Linux: A Beginner&#39;s Guide](https://dev.to/austinozor/understanding-file-permissions-in-linux-a-beginners-guide-jn1)
+- [Git, AI &amp; Docker: Day 2 of My ML Journey Was a Wild Ride 🧠🐳](https://dev.to/surya_cca7c59900971f19c9b/git-ai-docker-day-2-of-my-ml-journey-was-a-wild-ride-kli)
+- [Swagger? What’s that?](https://dev.to/shreyashsri/swagger-whats-that-1c5m)
+- [Top 10 AI &amp; Machine Learning Projects for Download](https://dev.to/projectrabbit/top-10-ai-machine-learning-projects-for-download-1dko)
+- [Deep Dive into JavaScript Event Loop](https://dev.to/imranmind/deep-dive-into-javascript-event-loop-20je)
 <!-- BLOG-POST-LIST:END -->
 
 
