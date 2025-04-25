@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you can&#39;t sleep, just count sheep!!](https://dev.to/maddiepst/if-you-cant-sleep-just-count-sheep-2dil)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2keg)
-- [The Future of Storage: How Intelligent Systems Boost Efficiency and Accuracy](https://dev.to/mcdowell/the-future-of-storage-how-intelligent-systems-boost-efficiency-and-accuracy-54j9)
-- [Decentralized Governance in Open Source: Bridging Innovation and Community](https://dev.to/bobcars/decentralized-governance-in-open-source-bridging-innovation-and-community-181f)
+- [Node.js vs Golang: Which One Should You Choose](https://dev.to/brilworks/nodejs-vs-golang-which-one-should-you-choose-469l)
+- [Mobile banking app development: what developers need to know](https://dev.to/ava_anna_343ca43641d8ea67/mobile-banking-app-development-what-developers-need-to-know-3e90)
+- [🐧 Linux Basics – Part 4: Creating, Moving, and Deleting Files and Folders](https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip)
+- [🐧 Linux Basics – Part 3: Navigating the Filesystem Like a Pro](https://dev.to/alkesh009/linux-basics-part-3-navigating-the-filesystem-like-a-pro-5d2p)
 <!-- BLOG-POST-LIST:END -->
 
 
