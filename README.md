@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG Chatbot with VoltAgent](https://dev.to/voltagent/building-a-rag-chatbot-with-voltagent-oo6)
-- [How to Build Comprehensive Dashboards for Your SaaS and Cloud Apps](https://dev.to/mechcloud/how-to-build-comprehensive-dashboards-for-your-saas-and-cloud-apps-5bol)
-- [Exploring the Key Differences between Object Localization and Object Detection](https://dev.to/ideradevtools/exploring-the-key-differences-between-object-localization-and-object-detection-1n4b)
-- [The Role of Algorithmic Market Making in Volatile Markets](https://dev.to/vishal_singh_8666966f9bcc/the-role-of-algorithmic-market-making-in-volatile-markets-4l9h)
+- [EF Core - Migrações](https://dev.to/yuripeixinho/ef-core-migracoes-406j)
+- [Straightforward No-code Meeting Notetaker Agent 📝](https://dev.to/emmakodes_/straightforward-no-code-meeting-notetaker-agent-k9i)
+- [Web App Development vs Mobile App Development: What’s the Difference?](https://dev.to/vengatesan_rajendiran_ece/web-app-development-vs-mobile-app-development-whats-the-difference-27d4)
+- [EF Core - Garantir Integridade Estrutural](https://dev.to/yuripeixinho/ef-core-garantir-integridade-estrutural-2kp7)
 <!-- BLOG-POST-LIST:END -->
 
 
