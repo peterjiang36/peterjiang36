@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced git comments](https://dev.to/janisha_flavy_43180fae7e6/advanced-git-comments-c7j)
-- [How to Enable Variable Refresh Rate on Windows 11?](https://dev.to/winsides/how-to-enable-variable-refresh-rate-on-windows-11-4cma)
-- [Angular 19: Reactividad Simple](https://dev.to/miguelbc7/angular-19-reactividad-simple-27ga)
-- [📂 Build a Local ChatGPT-like App with Blazor and MAIN.NET – Part 3: Chatting with Your PDF Files.](https://dev.to/paweljanda/build-a-local-chatgpt-like-app-with-blazor-and-mainnet-part-3-chatting-with-your-pdf-files-3m98)
+- [How to Write the Perfect Pull Request &lpar;based on thousands of PRs analyzed&rpar;](https://dev.to/sergioblar/how-to-write-the-perfect-pull-request-based-on-thousands-of-prs-analyzed-1gdf)
+- [AI Code Reviews vs. Traditional Code Reviews](https://dev.to/kodus/ai-code-reviews-vs-traditional-code-reviews-4b1i)
+- [194/365 | ¥10M Job Challenge - An Ordinary Day](https://dev.to/kameken100/194365-y10m-job-challenge-an-ordinary-day-2b02)
+- [How to Translate Entire Excel Files &lpar;All Cells&rpar;](https://dev.to/colinreed/how-to-translate-entire-excel-files-all-cells-4g18)
 <!-- BLOG-POST-LIST:END -->
 
 
