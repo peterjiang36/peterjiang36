@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: Project of the Week!](https://dev.to/pullflow/introducing-project-of-the-week-148g)
-- [[Boost]](https://dev.to/lijayfara/-4mp3)
-- [Git Submodule Update](https://dev.to/aerabi/git-submodule-update-5hb)
-- [A coordinated dance to identify the editor](https://dev.to/finanalyst/a-coordinated-dance-to-identify-the-editor-2h4b)
+- [GITHUB COMMANDS!](https://dev.to/jegadeep_pandiarajan_253d/github-commands-4ci4)
+- [Git Good: A Beginner’s Journey Into Advanced Git &lpar;With Real Examples&rpar;](https://dev.to/bhuvaneshwari_g_9ff3f2d08/git-good-a-beginners-journey-into-advanced-git-with-real-examples-2640)
+- [What are DevOps Tools | Must-Know Tools for Faster &amp; Smarter Software Development! | A Complete Guide to Learn DevOps Tools](https://dev.to/utcli-solutions/what-are-devops-tools-must-know-tools-for-faster-smarter-software-development-a-complete-27h1)
+- [Celebrating Docker’s 12th Birthday: How Far We’ve Come &amp; What’s Next! 🎉🐳](https://dev.to/karanverma/celebrating-dockers-12th-birthday-how-far-weve-come-whats-next-47kc)
 <!-- BLOG-POST-LIST:END -->
 
 
