@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs Golang: Which One Should You Choose](https://dev.to/brilworks/nodejs-vs-golang-which-one-should-you-choose-469l)
-- [Mobile banking app development: what developers need to know](https://dev.to/ava_anna_343ca43641d8ea67/mobile-banking-app-development-what-developers-need-to-know-3e90)
-- [🐧 Linux Basics – Part 4: Creating, Moving, and Deleting Files and Folders](https://dev.to/alkesh009/linux-basics-part-4-creating-moving-and-deleting-files-and-folders-5hip)
-- [🐧 Linux Basics – Part 3: Navigating the Filesystem Like a Pro](https://dev.to/alkesh009/linux-basics-part-3-navigating-the-filesystem-like-a-pro-5d2p)
+- [Implement NextAuth with Next.js and TypeScript](https://dev.to/harshitdugar/implement-nextauth-with-nextjs-and-typescript-32lo)
+- [Como potenciar tu VS Code con Continue.dev Cline](https://dev.to/devjohanadrian/como-potenciar-tu-vs-code-con-continuedev-cline-lic)
+- [Streamline Your EKS Deployments with NGINX Ingress: A Comprehensive Guide](https://dev.to/nifelabs/streamline-your-eks-deployments-with-nginx-ingress-a-comprehensive-guide-3j7j)
+- [Understanding File Permissions in Linux: A Beginner&#39;s Guide](https://dev.to/austinozor/understanding-file-permissions-in-linux-a-beginners-guide-jn1)
 <!-- BLOG-POST-LIST:END -->
 
 
