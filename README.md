@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New phones](https://dev.to/zako_mako_9a4826822204c78/new-phones-l4c)
-- [GPT-image-1 Enhances Image Generation in Azure AI Foundry](https://dev.to/sadiksajid/gpt-image-1-enhances-image-generation-in-azure-ai-foundry-2jpe)
-- [Daily JavaScript Challenge #JS-164: Generate All Possible IP Addresses](https://dev.to/dpc/daily-javascript-challenge-js-164-generate-all-possible-ip-addresses-49a)
-- [ButtonDropDown vuejs and Primevue](https://dev.to/ahmadasroni38/buttondropdown-vuejs-and-primevue-1mc8)
+- [Why not pprint anymore?Introducing SetPrint — Structural Debugging for Real Data](https://dev.to/mtur2007/why-not-pprint-anymoreintroducing-setprint-structural-debugging-for-real-data-1co8)
+- [How to Write Better Commits and Pull Requests for Clean and Scalable Projects](https://dev.to/ndekocode/how-to-write-better-commits-and-pull-requests-for-clean-and-scalable-projects-3b1n)
+- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-1b2f)
+- [JavaScript Mastery Showdown: Precision, Power, and Performance](https://dev.to/anupam_kumar/javascript-mastery-showdown-precision-power-and-performance-285i)
 <!-- BLOG-POST-LIST:END -->
 
 
