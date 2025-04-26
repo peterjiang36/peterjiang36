@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Functions](https://dev.to/nuriddin_aliy_69d80bb2700/javascript-functions-196i)
-- [Building a Custom React Context with Optimized Selectors &lpar;Without Re-Renders&rpar;](https://dev.to/hexshift/building-a-custom-react-context-with-optimized-selectors-without-re-renders-38jn)
-- [AWS vs. Traditional Machine Learning: Why Cloud-Based AI is the Future](https://dev.to/mathu_seelan_a19e13f9b7fb/aws-vs-traditional-machine-learning-why-cloud-based-ai-is-the-future-377o)
-- [TryHackMe: Snort Challenge - Live Attacks](https://dev.to/seanleeys/tryhackme-snort-challenge-live-attacks-64d)
+- [What Is a Container? Open Container Initiative Explained](https://dev.to/mkdev/what-is-a-container-open-container-initiative-explained-1h6n)
+- [🚀 ChatGPT Clone – Your Own AI Chat Assistant](https://dev.to/abdullah_web_dev/chatgpt-clone-your-own-ai-chat-assistant-knj)
+- [🤖 New Chatbot — Lightweight and Interactive](https://dev.to/abdullah_web_dev/new-chatbot-lightweight-and-interactive-2bla)
+- [Day 7: Animated Landing Page — Interactive Product Showcase 🚀](https://dev.to/anticoder03/day-7-animated-landing-page-interactive-product-showcase-1pf6)
 <!-- BLOG-POST-LIST:END -->
 
 
