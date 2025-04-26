@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complexity Conundrum: How Overengineering Slows Your Startup’s Pivot 🚀](https://dev.to/copyleftdev/the-complexity-conundrum-how-overengineering-slows-your-startups-pivot-2ko2)
-- [📞 How to Prevent Fraud with Phone Number Validation](https://dev.to/tpeoficial/how-to-prevent-fraud-with-phone-number-validation-4j9i)
-- [Top 10 Essential Interview Questions On Web Development in 2025](https://dev.to/deepch/top-10-essential-interview-questions-on-web-development-in-2025-k9g)
-- [Robot Invaders Game](https://dev.to/adonaitechnologies/robot-invaders-game-5f22)
+- [Introduction to SQL Using PostreSQL](https://dev.to/lucy_joan_b56ae069a2a9f17/introduction-to-sql-using-postresql-3l7p)
+- [Maintain Code Quality Like a Big Tech Team — Without Paying for Expensive Automation](https://dev.to/jayasooriyas/maintain-code-quality-like-a-big-tech-team-without-paying-for-expensive-automation-520c)
+- [How to Play Spelling Bee Game Online: A Comprehensive Guide](https://dev.to/foxinfotech/how-to-play-spelling-bee-game-online-a-comprehensive-guide-f33)
+- [Regression Testing is a First Class Citizen](https://dev.to/vaseem_anjum_b1050bcfaffe/regression-testing-is-a-first-class-citizen-oj1)
 <!-- BLOG-POST-LIST:END -->
 
 
