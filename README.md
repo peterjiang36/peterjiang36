@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Schema Markup is a Game-Changer for MSPs Targeting Local Markets](https://dev.to/daily_karak/why-schema-markup-is-a-game-changer-for-msps-targeting-local-markets-1ko8)
-- [In-Depth Guide to Docker Images](https://dev.to/leapcell/in-depth-guide-to-docker-images-3p32)
-- [AI Built My Landing Page — I Didn’t Write a Single Line of Code](https://dev.to/shenoudafawzy/ai-built-my-landing-page-i-didnt-write-a-single-line-of-code-1lf1)
-- [Playwright Tutorial With Examples](https://dev.to/sss24234234rrrrrrrrrrr/playwright-tutorial-with-examples-57fh)
+- [Step-by-Step Advanced Git Commands Execution:](https://dev.to/yasiga_3/step-by-step-advanced-git-commands-execution-28b1)
+- [How to Deploy a FastAPI App to Azure with Docker, ACR, and GitHub Actions](https://dev.to/dhayv/how-to-deploy-a-fastapi-app-to-azure-with-docker-acr-and-github-actions-30bk)
+- [Dockerize Your Python App and Push It to DockerHub](https://dev.to/poojzz_/dockerize-your-python-app-and-push-it-to-dockerhub-5f5l)
+- [Task 5: Python Function](https://dev.to/pradeepmtm/task-4-python-function-50o4)
 <!-- BLOG-POST-LIST:END -->
 
 
