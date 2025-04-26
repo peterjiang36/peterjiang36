@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript&#39;s Execution Contexts](https://dev.to/omriluz1/understanding-javascripts-execution-contexts-3l34)
-- [Perspective carousel](https://dev.to/preetha_vaishnavi_2b82358/perspective-carousel-gd2)
-- [witness](https://dev.to/preetha_vaishnavi_2b82358/witness-2f66)
-- [Building AI Model](https://dev.to/theaniketrajdev/building-ai-model-2h75)
+- [Tutorial 37: 📂 Handling File Storage with FileManager in iOS](https://dev.to/cl0udleadanis/tutorial-37-handling-file-storage-with-filemanager-in-ios-2893)
+- [Make coding Fun again](https://dev.to/dmitryame/make-coding-fun-again-1p2a)
+- [Tutorial 36: Integrating Firebase Firestore for Realtime Data Sync 🚀](https://dev.to/cl0udleadanis/tutorial-36-integrating-firebase-firestore-for-realtime-data-sync-1agc)
+- [King of the Hill: Jello Edition - A Fun, Physics-Based Multiplayer Game](https://dev.to/frosty_fucker_7d06058f3d8/king-of-the-hill-jello-edition-a-fun-physics-based-multiplayer-game-1cpd)
 <!-- BLOG-POST-LIST:END -->
 
 
