@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Up Your React Native Imports: A Guide to Absolute Paths](https://dev.to/amitkumar13/clean-up-your-react-native-imports-a-guide-to-absolute-paths-d62)
-- [Securing Your API with a Lambda Authorizer &lpar;JWT Validation&rpar; in AWS SAM](https://dev.to/marciojc/securing-your-api-with-a-lambda-authorizer-jwt-validation-in-aws-sam-4onf)
-- [AHHHTIM](https://dev.to/nicolaskruger/ahhhtim-fbm)
-- [Android Studio Build Failing](https://dev.to/bytehala/android-studio-build-failing-6i9)
+- [A2A Protocol : Deep Dive](https://dev.to/vishalmysore/a2a-protocol-deep-dive-3707)
+- [Slanted Text](https://dev.to/preetha_vaishnavi_2b82358/slanted-text-33o3)
+- [ironskydive-solution](https://dev.to/preetha_vaishnavi_2b82358/ironskydive-solution-29ke)
+- [MARVEL POSTER [CSS GRID]](https://dev.to/preetha_vaishnavi_2b82358/marvel-poster-css-grid-nmd)
 <!-- BLOG-POST-LIST:END -->
 
 
