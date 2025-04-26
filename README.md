@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why not pprint anymore?Introducing SetPrint — Structural Debugging for Real Data](https://dev.to/mtur2007/why-not-pprint-anymoreintroducing-setprint-structural-debugging-for-real-data-1co8)
-- [How to Write Better Commits and Pull Requests for Clean and Scalable Projects](https://dev.to/ndekocode/how-to-write-better-commits-and-pull-requests-for-clean-and-scalable-projects-3b1n)
-- [ToImage in PyTorch](https://dev.to/hyperkai/toimage-in-pytorch-1b2f)
-- [JavaScript Mastery Showdown: Precision, Power, and Performance](https://dev.to/anupam_kumar/javascript-mastery-showdown-precision-power-and-performance-285i)
+- [Introduction to Logical Volume Management &lpar;LVM&rpar; in Red Hat Linux](https://dev.to/shamain_anjum/introduction-to-logical-volume-management-lvm-in-red-hat-linux-4ka1)
+- [Day 147/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-147365-learning-full-stack-m81)
+- [✨ Supercharging Your FastAPI Documentation with Scalar](https://dev.to/aldorax/supercharging-your-fastapi-documentation-with-scalar-3g5o)
+- [Secret Management in DevOps: Vault vs AWS Secrets Manager](https://dev.to/yash_sonawane25/secret-management-in-devops-vault-vs-aws-secrets-manager-5dlp)
 <!-- BLOG-POST-LIST:END -->
 
 
