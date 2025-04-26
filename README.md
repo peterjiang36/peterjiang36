@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI Newsletters That Help You Stay Up-to-Date on AI in 2025](https://dev.to/dariubs/top-5-ai-newsletters-that-help-you-stay-up-to-date-on-ai-in-2025-1j3h)
-- [AWS Certified AI Practitioner Resources](https://dev.to/lea_abraham_7a0232a6cd616/aws-certified-ai-practitionerresources-3d4c)
-- [Writing Clean, Flexible Query Filters in Laravel: Why I Built the QueryFilter Package](https://dev.to/samushi/writing-clean-flexible-query-filters-in-laravel-why-i-built-the-queryfilter-package-3p9a)
-- [How to Secure a Website with a Free SSL Certificate &lpar;Let&#39;s Encrypt&rpar;](https://dev.to/georgeraphael/how-to-secure-a-website-with-a-free-ssl-certificate-lets-encrypt-21do)
+- [The Complexity Conundrum: How Overengineering Slows Your Startup’s Pivot 🚀](https://dev.to/copyleftdev/the-complexity-conundrum-how-overengineering-slows-your-startups-pivot-2ko2)
+- [📞 How to Prevent Fraud with Phone Number Validation](https://dev.to/tpeoficial/how-to-prevent-fraud-with-phone-number-validation-4j9i)
+- [Top 10 Essential Interview Questions On Web Development in 2025](https://dev.to/deepch/top-10-essential-interview-questions-on-web-development-in-2025-k9g)
+- [Robot Invaders Game](https://dev.to/adonaitechnologies/robot-invaders-game-5f22)
 <!-- BLOG-POST-LIST:END -->
 
 
