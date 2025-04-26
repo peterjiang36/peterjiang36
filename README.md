@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O caminho do React - Primeiros Passos: Conceitos, Componentes, Vite e Exports](https://dev.to/mathsena/o-caminho-do-react-primeiros-passos-conceitos-componentes-vite-e-exports-7kh)
-- [Scaling Ethereum with Arbitrum: Transforming Blockchain Scalability for a Decentralized Future](https://dev.to/rachellovestowrite/scaling-ethereum-with-arbitrum-transforming-blockchain-scalability-for-a-decentralized-future-36f2)
-- [The Rise of Agentic AI in Software Development](https://dev.to/gocodeo/the-rise-of-agentic-ai-in-software-development-13fp)
-- [Still Shipping 1GB Docker Images? Here’s How to Crush Them in Half an Hour](https://dev.to/devlinkstudios/still-shipping-1gb-docker-images-heres-how-to-crush-them-in-half-an-hour-5bn2)
+- [New phones](https://dev.to/zako_mako_9a4826822204c78/new-phones-l4c)
+- [GPT-image-1 Enhances Image Generation in Azure AI Foundry](https://dev.to/sadiksajid/gpt-image-1-enhances-image-generation-in-azure-ai-foundry-2jpe)
+- [Daily JavaScript Challenge #JS-164: Generate All Possible IP Addresses](https://dev.to/dpc/daily-javascript-challenge-js-164-generate-all-possible-ip-addresses-49a)
+- [ButtonDropDown vuejs and Primevue](https://dev.to/ahmadasroni38/buttondropdown-vuejs-and-primevue-1mc8)
 <!-- BLOG-POST-LIST:END -->
 
 
