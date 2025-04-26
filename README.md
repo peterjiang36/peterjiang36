@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Logical Volume Management &lpar;LVM&rpar; in Red Hat Linux](https://dev.to/shamain_anjum/introduction-to-logical-volume-management-lvm-in-red-hat-linux-4ka1)
-- [Day 147/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-147365-learning-full-stack-m81)
-- [✨ Supercharging Your FastAPI Documentation with Scalar](https://dev.to/aldorax/supercharging-your-fastapi-documentation-with-scalar-3g5o)
-- [Secret Management in DevOps: Vault vs AWS Secrets Manager](https://dev.to/yash_sonawane25/secret-management-in-devops-vault-vs-aws-secrets-manager-5dlp)
+- [Simulating Chaos: My Latest Foray into Failure Testing](https://dev.to/blkgrlcto/simulating-chaos-my-latest-foray-into-failure-testing-2ecj)
+- [Why Argument &amp; Evidence Summaries Help Improve Essays](https://dev.to/researchwize/why-argument-evidence-summaries-help-improve-essays-38oj)
+- [🤖 Z3-R0 – A Not-So-Smart Robot With a Lot of Personality](https://dev.to/wesleybertipaglia/z3-r0-a-not-so-smart-robot-with-a-lot-of-personality-3j11)
+- [🚀 Day 6 — Project Days Begin: Crafting Real-World UI with Anime.js](https://dev.to/anticoder03/day-6-project-days-begin-crafting-real-world-ui-with-animejs-2o8)
 <!-- BLOG-POST-LIST:END -->
 
 
