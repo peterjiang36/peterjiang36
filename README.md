@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial 37: 📂 Handling File Storage with FileManager in iOS](https://dev.to/cl0udleadanis/tutorial-37-handling-file-storage-with-filemanager-in-ios-2893)
-- [Make coding Fun again](https://dev.to/dmitryame/make-coding-fun-again-1p2a)
-- [Tutorial 36: Integrating Firebase Firestore for Realtime Data Sync 🚀](https://dev.to/cl0udleadanis/tutorial-36-integrating-firebase-firestore-for-realtime-data-sync-1agc)
-- [King of the Hill: Jello Edition - A Fun, Physics-Based Multiplayer Game](https://dev.to/frosty_fucker_7d06058f3d8/king-of-the-hill-jello-edition-a-fun-physics-based-multiplayer-game-1cpd)
+- [Mangas no Kindle](https://dev.to/duardodev/mangas-no-kindle-1p10)
+- [Just Make it EXIST, You Can Make it Good Later: A Journey to Building a GitHub Profile README.](https://dev.to/dumisanimukuchura/just-make-it-exist-you-can-make-it-good-later-a-journey-to-building-a-github-profile-readme-45bj)
+- [AI-Shell: Your Fast Lane to AI Power in the Command Line](https://dev.to/john_c_c08d537b9b5cae6081/ai-shell-your-fast-lane-to-ai-power-in-the-command-line-1592)
+- [Scalable Enterprise LMS for Employee Development](https://dev.to/adan_shoukat_9351fc997191/scalable-enterprise-lms-for-employee-development-33c5)
 <!-- BLOG-POST-LIST:END -->
 
 
