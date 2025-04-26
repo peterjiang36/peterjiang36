@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to SQL Using PostreSQL](https://dev.to/lucy_joan_b56ae069a2a9f17/introduction-to-sql-using-postresql-3l7p)
-- [Maintain Code Quality Like a Big Tech Team — Without Paying for Expensive Automation](https://dev.to/jayasooriyas/maintain-code-quality-like-a-big-tech-team-without-paying-for-expensive-automation-520c)
-- [How to Play Spelling Bee Game Online: A Comprehensive Guide](https://dev.to/foxinfotech/how-to-play-spelling-bee-game-online-a-comprehensive-guide-f33)
-- [Regression Testing is a First Class Citizen](https://dev.to/vaseem_anjum_b1050bcfaffe/regression-testing-is-a-first-class-citizen-oj1)
+- [Working on a new SaaS product? Don&#39;t reinvent the wheel. 🛞 Here&#39;s a curated list of 7 powerful APIs that can supercharge your development and save you months of work. 👇](https://dev.to/srbhr/working-on-a-new-saas-product-dont-reinvent-the-wheel-heres-a-curated-list-of-7-1heo)
+- [I tried a new programming language besides python. and now I know the reason behind popularity of python these days. Go check out my websites below!! 👇 https://medium.com/@adzkiaalmaghania/why-python-is-the-best-programming-language-to-learn-for-beginner](https://dev.to/akichan0201/i-tried-a-new-programming-language-besides-python-and-now-i-know-the-reason-behind-popularity-of-2cmd)
+- [𝗪𝗮𝗻𝘁 𝘁𝗼 𝘀𝘁𝗼𝗽 𝗮 𝗰𝗹𝗮𝘀𝘀 𝗳𝗿𝗼𝗺 𝗯𝗲𝗶𝗻𝗴 𝗶𝗻𝗵𝗲𝗿𝗶𝘁𝗲𝗱 𝗶𝗻 𝗖#? 𝗨𝘀𝗲 𝗮 𝘀𝗲𝗮𝗹𝗲𝗱 𝗰𝗹𝗮𝘀𝘀!](https://dev.to/shreyans_padmani/--4o32)
+- [J&#39;ai failli abandonner l&#39;intégration Django + S3 &lpar;et toi aussi si tu rates ça&rpar;](https://dev.to/jmegnidro/jai-failli-abandonner-lintegration-django-s3-et-toi-aussi-si-tu-rates-ca-2pib)
 <!-- BLOG-POST-LIST:END -->
 
 
