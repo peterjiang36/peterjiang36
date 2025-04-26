@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# 🚀 Python Intermediate Course Completed!](https://dev.to/sankworks/-python-intermediate-course-completed-h86)
-- [Lint Smarter: Hadolint + CI para Dockerfiles sem dor de cabeça 🚀](https://dev.to/taperedata/lint-smarter-hadolint-ci-para-dockerfiles-sem-dor-de-cabeca-4pih)
-- [Mikä on CSS ja miten se toimii? Täydellinen opas aloittelijoille](https://dev.to/sofiamayer_dev/mika-on-css-ja-miten-se-toimii-taydellinen-opas-aloittelijoille-487c)
-- [📝Beginner&#39;s Guide to the JavaScript Package Trinity: NPM, NPX and Yarn](https://dev.to/up_min_sparcs/beginners-guide-to-the-javascript-package-trinity-npm-npx-and-yarn-3hof)
+- [Legacy Modernization Day Nigeria](https://dev.to/saint_vandora/legacy-modernization-day-nigeria-doo)
+- [The Best Laravel Disposable Email Detection Package for Your Projects](https://dev.to/eramitgupta/the-best-laravel-disposable-email-detection-package-for-your-projects-df6)
+- [Multi-Arch Docker Builds at €14/Month - Just 2 VPSs](https://dev.to/andreamancuso/multi-arch-docker-builds-at-eu14month-just-2-vpss-1eig)
+- [Observer pattern | components communication in React - part two](https://dev.to/mohsen_khademhoseini_c0d/observer-pattern-components-communication-in-react-part-two-dh2)
 <!-- BLOG-POST-LIST:END -->
 
 
