@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Working on a new SaaS product? Don&#39;t reinvent the wheel. 🛞 Here&#39;s a curated list of 7 powerful APIs that can supercharge your development and save you months of work. 👇](https://dev.to/srbhr/working-on-a-new-saas-product-dont-reinvent-the-wheel-heres-a-curated-list-of-7-1heo)
-- [I tried a new programming language besides python. and now I know the reason behind popularity of python these days. Go check out my websites below!! 👇 https://medium.com/@adzkiaalmaghania/why-python-is-the-best-programming-language-to-learn-for-beginner](https://dev.to/akichan0201/i-tried-a-new-programming-language-besides-python-and-now-i-know-the-reason-behind-popularity-of-2cmd)
-- [𝗪𝗮𝗻𝘁 𝘁𝗼 𝘀𝘁𝗼𝗽 𝗮 𝗰𝗹𝗮𝘀𝘀 𝗳𝗿𝗼𝗺 𝗯𝗲𝗶𝗻𝗴 𝗶𝗻𝗵𝗲𝗿𝗶𝘁𝗲𝗱 𝗶𝗻 𝗖#? 𝗨𝘀𝗲 𝗮 𝘀𝗲𝗮𝗹𝗲𝗱 𝗰𝗹𝗮𝘀𝘀!](https://dev.to/shreyans_padmani/--4o32)
-- [J&#39;ai failli abandonner l&#39;intégration Django + S3 &lpar;et toi aussi si tu rates ça&rpar;](https://dev.to/jmegnidro/jai-failli-abandonner-lintegration-django-s3-et-toi-aussi-si-tu-rates-ca-2pib)
+- [# 🚀 Python Intermediate Course Completed!](https://dev.to/sankworks/-python-intermediate-course-completed-h86)
+- [Lint Smarter: Hadolint + CI para Dockerfiles sem dor de cabeça 🚀](https://dev.to/taperedata/lint-smarter-hadolint-ci-para-dockerfiles-sem-dor-de-cabeca-4pih)
+- [Mikä on CSS ja miten se toimii? Täydellinen opas aloittelijoille](https://dev.to/sofiamayer_dev/mika-on-css-ja-miten-se-toimii-taydellinen-opas-aloittelijoille-487c)
+- [📝Beginner&#39;s Guide to the JavaScript Package Trinity: NPM, NPX and Yarn](https://dev.to/up_min_sparcs/beginners-guide-to-the-javascript-package-trinity-npm-npx-and-yarn-3hof)
 <!-- BLOG-POST-LIST:END -->
 
 
