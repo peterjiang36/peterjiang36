@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing: Theory and Practice &lpar;Part 7&rpar; - Fundamentals and Strategies for Integration &amp; E2E Testing](https://dev.to/kuniwak/software-testing-theory-and-practice-part-7-fundamentals-and-strategies-for-integration-e2e-24ef)
-- [How are you managing tool integration for your LLM agents?](https://dev.to/mcphubs/how-are-you-managing-tool-integration-for-your-llm-agents-6k3)
-- [Software Testing: Theory and Practice &lpar;Part 6&rpar; - Fundamentals of Design for Testability](https://dev.to/kuniwak/software-testing-theory-and-practice-part-6-fundamentals-of-design-for-testability-34h1)
-- [Exploring Arbitrum, Validator Rewards, and PoS Innovations: A Comprehensive Overview](https://dev.to/zhangwei42/exploring-arbitrum-validator-rewards-and-pos-innovations-a-comprehensive-overview-obj)
+- [Arbitrum Tokenomics: A Comprehensive Overview](https://dev.to/vitalisorenko/arbitrum-tokenomics-a-comprehensive-overview-326p)
+- [Playing Minecraft APK Offline: Tips for Survival Mode Success](https://dev.to/whitney_wright_3bf1fb24a8/playing-minecraft-apk-offline-tips-for-survival-mode-success-52ge)
+- [Testing Raku Applications with Cro, Red, and RedFactory](https://dev.to/fco/testing-raku-applications-with-cro-red-and-redfactory-g3e)
+- [🌞 Sundays Are for Reflection — Even in Software Testing](https://dev.to/vaibhavkuls/sundays-are-for-reflection-even-in-software-testing-2i1p)
 <!-- BLOG-POST-LIST:END -->
 
 
