@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Why Your AI is Stuck in a Memento Loop](https://dev.to/trustgraph/part-2-why-your-ai-is-stuck-in-a-memento-loop-ilf)
-- [The Power of Going Back to the Basics: Why I Learned Algebra as an Adult](https://dev.to/arcibyte/the-power-of-going-back-to-the-basics-why-i-learned-algebra-as-an-adult-18ld)
-- [A Beginner&#39;s Journey into Rust](https://dev.to/leapcell/a-beginners-journey-into-rust-5al8)
-- [Understand Spanning Tree Protocol &lpar;STP&rpar;](https://dev.to/h0ag/understand-spanning-tree-protocol-stp-23b8)
+- [💥 Sentry.io: আপনার অ্যাপ্লিকেশনের ত্রুটি খুঁজে বের করার এক বিশ্বস্ত সমাধান](https://dev.to/programmerhasan/sentryio-aapnaar-ayaaplikeshner-trutti-khunje-ber-kraar-ek-bishbst-smaadhaan-2ah4)
+- [[Boost]](https://dev.to/li_wang_0207eb49311b22e5f/-5b1k)
+- [Avoid Burnout with Smart, Managed Study Workflows](https://dev.to/researchwize/avoid-burnout-with-smart-managed-study-workflows-5e5g)
+- [How AI workloads are reshaping datacentre design](https://dev.to/sadiksajid/how-ai-workloads-are-reshaping-datacentre-design-2ce1)
 <!-- BLOG-POST-LIST:END -->
 
 
