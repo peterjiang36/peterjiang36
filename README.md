@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personal Diary App with React and Firebase: A Complete Journey.](https://dev.to/elvis24tech/building-a-personal-diary-app-with-react-and-firebase-a-complete-journey-2950)
-- [Mastering Dependency Injection in Spring Boot: Real-World Examples and Best Practices](https://dev.to/dhanush___b/mastering-dependency-injection-in-spring-boot-real-world-examples-and-best-practices-1dof)
-- [A Guide to Snapshot Testing React Native Components Using Jest](https://dev.to/biswasprasana001/a-guide-to-snapshot-testing-react-native-components-using-jest-3ci7)
-- [Implementing Facial Recognition Login on Websites with FACEIO: A Step-by-Step Guide for Developers](https://dev.to/0ruko002/implementing-facial-recognition-login-on-websites-with-faceio-a-step-by-step-guide-for-developers-1b7e)
+- [Intl.RelativeTimeFormat for Custom Time Representations](https://dev.to/omriluz1/intlrelativetimeformat-for-custom-time-representations-hgg)
+- [Unlocking Excel’s Power: Master Data Analysis with Real-World Examples](https://dev.to/kelvin_ndirangu_6c99081b3/unlocking-excels-power-master-data-analysis-with-real-world-examples-4k9f)
+- [What&#39;s Beyond the Vibe Code Era?](https://dev.to/adam_cyclones/whats-beyond-the-vibe-code-era-1jp0)
+- [# PostgreSQL Tutorial: 📚 What Really Happens When You Add and Drop Columns 2000 Times in PostgreSQL](https://dev.to/mangesh28/-postgresql-tutorial-what-really-happens-when-you-add-and-drop-columns-2000-times-in-postgresql-3m5p)
 <!-- BLOG-POST-LIST:END -->
 
 
