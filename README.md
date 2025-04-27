@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain&#39;s Transformative Potential Across Industries](https://dev.to/rachellovestowrite/blockchains-transformative-potential-across-industries-5eec)
-- [5 Linux Hardening Techniques I Apply Before Hosting Any Website | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-linux-hardening-techniques-i-apply-before-hosting-any-website-by-faruk-ahmed-apr-2025-1hmg)
-- [10 Security Commands Every Linux Admin Should Know &lpar;But Probably Doesn’t&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/10-security-commands-every-linux-admin-should-know-but-probably-doesnt-by-faruk-ahmed-apr-4igh)
-- [Deep Research for Everyone: OpenAI’s Lightweight Tool Democratizes Knowledge](https://dev.to/djleamen/deep-research-for-everyone-openais-lightweight-tool-democratizes-knowledge-3907)
+- [OpenBSD Upgrade 7.6 to 7.7](https://dev.to/nabbisen/openbsd-upgrade-76-to-77-1cco)
+- [Linux File Creation Tools: Touch, Echo, Cat, Nano, Vim — What’s the Difference? &lpar;Explained Like You’re Five&rpar;](https://dev.to/higgs182092/linux-file-creation-tools-touch-echo-cat-nano-vim-whats-the-difference-explained-like-3g3h)
+- [Mindfck Devlog 2: Memory Handling, Variables, and Flow Control in Brainfuck](https://dev.to/angrykoala/mindfck-devlog-2-memory-handling-variables-and-flow-control-in-brainfuck-5fml)
+- [Blockchain and Digital Rights Management: A Revolutionary Synergy in a Digital Era](https://dev.to/bobcars/blockchain-and-digital-rights-management-a-revolutionary-synergy-in-a-digital-era-3con)
 <!-- BLOG-POST-LIST:END -->
 
 
