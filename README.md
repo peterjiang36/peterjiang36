@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Can’t a WAF Protect Against Layer 4 Attacks?](https://dev.to/carrie_luo1/why-cant-a-waf-protect-against-layer-4-attacks-2agp)
-- [Hack the Editor: Craft Your Custom VS Code Extension Like a Pro 🚀](https://dev.to/anupam_kumar/hack-the-editor-craft-your-custom-vs-code-extension-like-a-pro-4dp5)
-- [How to Prevent Remote Code Execution &lpar;RCE&rpar; Vulnerabilities in Symfony](https://dev.to/pentest_testing_corp/how-to-prevent-remote-code-execution-rce-vulnerabilities-in-symfony-g2o)
-- [PermiForce: Permit.io X azureDevops](https://dev.to/shivamkapasia/permiforce-permitio-x-azuredevops-33e)
+- [How to Set Up a CI/CD Pipeline with GitHub Actions in 15 Minutes 🚀](https://dev.to/yash_sonawane25/how-to-set-up-a-cicd-pipeline-with-github-actions-in-15-minutes-3d29)
+- [First Experience with an Open-Source Web Application Firewall – SafeLine](https://dev.to/carrie_luo1/first-experience-with-an-open-source-web-application-firewall-safeline-l8g)
+- [Linkspreed Web4 API: Unify Your Digital Ecosystem with Community OAuth](https://dev.to/web4/linkspreed-web4-api-unify-your-digital-ecosystem-with-community-oauth-4cgk)
+- [[Boost]](https://dev.to/anthonymax/-1gfc)
 <!-- BLOG-POST-LIST:END -->
 
 
