@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a CI/CD Pipeline with GitHub Actions in 15 Minutes 🚀](https://dev.to/yash_sonawane25/how-to-set-up-a-cicd-pipeline-with-github-actions-in-15-minutes-3d29)
-- [First Experience with an Open-Source Web Application Firewall – SafeLine](https://dev.to/carrie_luo1/first-experience-with-an-open-source-web-application-firewall-safeline-l8g)
-- [Linkspreed Web4 API: Unify Your Digital Ecosystem with Community OAuth](https://dev.to/web4/linkspreed-web4-api-unify-your-digital-ecosystem-with-community-oauth-4cgk)
-- [[Boost]](https://dev.to/anthonymax/-1gfc)
+- [Key Industry Trends and Innovative Technologies in 2025](https://dev.to/jedaqsaul/key-industry-trends-and-innovative-technologies-in-2025-4oe3)
+- [Understanding Two-Factor Authentication: What Every Software Engineer Should Know](https://dev.to/akum_acha_2519d3ec8cd1514/understanding-two-factor-authentication-what-every-software-engineer-should-know-3me8)
+- [Why I Started My Developer Blog](https://dev.to/jedaqsaul/why-i-started-my-developer-blog-69g)
+- [Exploring the Impact of Azuki Elementals and Elon Musk on NFTs and Cryptocurrencies](https://dev.to/kallileiser/exploring-the-impact-of-azuki-elementals-and-elon-musk-on-nfts-and-cryptocurrencies-3pdj)
 <!-- BLOG-POST-LIST:END -->
 
 
