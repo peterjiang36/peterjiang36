@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Backend Development: Build Scalable and Secure Applications](https://dev.to/code_2/mastering-backend-development-build-scalable-and-secure-applications-4k93)
-- [DeepWiki: An AI Guide to GitHub Codebase Mastery🚀](https://dev.to/fallon_jimmy/deepwiki-an-ai-guide-to-github-codebase-mastery-3p5m)
-- [Go - &lpar;9&rpar; Pointers](https://dev.to/chathurashmini/go-9-pointers-20d2)
-- [The AI-Powered Development Revolution: Transforming Teamwork with Copilot Agent Mode and MCP Server](https://dev.to/kb1234/the-ai-powered-development-revolution-transforming-teamwork-with-copilot-agent-mode-and-mcp-server-53nm)
+- [Frontend letter to frontend lovers](https://dev.to/shreyvijayvargiya/frontend-letter-to-frontend-lovers-jnj)
+- [Day 148/365 &lpar;Learning full stack&rpar;](https://dev.to/munin-1/day-148365-learning-full-stack-5794)
+- [Using &quot;Function as Children&quot; in React](https://dev.to/hasunnilupul/using-function-as-children-in-react-2hk7)
+- [How to Secure Your Node.js APIS](https://dev.to/gariglow/how-to-secure-your-nodejs-apis-3gn6)
 <!-- BLOG-POST-LIST:END -->
 
 
