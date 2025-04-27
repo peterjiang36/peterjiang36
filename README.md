@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Dev Velocity: Modern Tooling &amp; DX in the Node.js Ecosystem](https://dev.to/codanyks/turbocharge-dev-velocity-modern-tooling-dx-in-the-nodejs-ecosystem-30fl)
-- [The Future of Terminals: How Warp is Redefining Command Line Interactions](https://dev.to/omriluz1/the-future-of-terminals-how-warp-is-redefining-command-line-interactions-199a)
-- [Web Scraping CloudFront Responsibly and Efficiently](https://dev.to/swiftproxy_residential/web-scraping-cloudfront-responsibly-and-efficiently-169)
-- [Building a Recipe-Sharing Application](https://dev.to/gakuruuri/building-a-recipe-sharing-application-3gc5)
+- [Why Can’t a WAF Protect Against Layer 4 Attacks?](https://dev.to/carrie_luo1/why-cant-a-waf-protect-against-layer-4-attacks-2agp)
+- [Hack the Editor: Craft Your Custom VS Code Extension Like a Pro 🚀](https://dev.to/anupam_kumar/hack-the-editor-craft-your-custom-vs-code-extension-like-a-pro-4dp5)
+- [How to Prevent Remote Code Execution &lpar;RCE&rpar; Vulnerabilities in Symfony](https://dev.to/pentest_testing_corp/how-to-prevent-remote-code-execution-rce-vulnerabilities-in-symfony-g2o)
+- [PermiForce: Permit.io X azureDevops](https://dev.to/shivamkapasia/permiforce-permitio-x-azuredevops-33e)
 <!-- BLOG-POST-LIST:END -->
 
 
