@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Acerca de](https://dev.to/david_bermenvliz/acerca-de-1ca9)
-- [DashBot: 1v1 Space Robot Sprint Battle](https://dev.to/jianong/dashbot-1v1-space-robot-sprint-battle-1h1)
-- [DALL-E vs. Midjourney vs. Stable Diffusion vs. GPT-4 vs. Grok: A Detailed Comparison of Text-to-Image AI Models](https://dev.to/kimberegon/dall-e-vs-midjourney-vs-stable-diffusion-vs-gpt-4-vs-grok-a-detailed-comparison-of-1dig)
-- [Deploying a Go Echo Application with Lambda Web Adapter, SAM, and Lambda Function URLs](https://dev.to/ryichk/deploying-a-go-echo-application-with-lambda-web-adapter-sam-and-lambda-function-urls-1j42)
+- [Untitled](https://dev.to/preetha_vaishnavi_2b82358/untitled-1bm0)
+- [Web Server Scanning with Nikto in Termux: A Comprehensive Guide](https://dev.to/terminaltools/web-server-scanning-with-nikto-in-termux-a-comprehensive-guide-514)
+- [Portfolio Page](https://dev.to/preetha_vaishnavi_2b82358/portfolio-page-3ogd)
+- [I Built CodeNudge: An AI Reviewer for Your GitHub Pull Requests](https://dev.to/floranpagliai/i-built-codenudge-an-ai-reviewer-for-your-github-pull-requests-1hbm)
 <!-- BLOG-POST-LIST:END -->
 
 
