@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Intl.RelativeTimeFormat for Custom Time Representations](https://dev.to/omriluz1/intlrelativetimeformat-for-custom-time-representations-hgg)
-- [Unlocking Excel’s Power: Master Data Analysis with Real-World Examples](https://dev.to/kelvin_ndirangu_6c99081b3/unlocking-excels-power-master-data-analysis-with-real-world-examples-4k9f)
-- [What&#39;s Beyond the Vibe Code Era?](https://dev.to/adam_cyclones/whats-beyond-the-vibe-code-era-1jp0)
-- [# PostgreSQL Tutorial: 📚 What Really Happens When You Add and Drop Columns 2000 Times in PostgreSQL](https://dev.to/mangesh28/-postgresql-tutorial-what-really-happens-when-you-add-and-drop-columns-2000-times-in-postgresql-3m5p)
+- [Blockchain&#39;s Transformative Potential Across Industries](https://dev.to/rachellovestowrite/blockchains-transformative-potential-across-industries-5eec)
+- [5 Linux Hardening Techniques I Apply Before Hosting Any Website | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-linux-hardening-techniques-i-apply-before-hosting-any-website-by-faruk-ahmed-apr-2025-1hmg)
+- [10 Security Commands Every Linux Admin Should Know &lpar;But Probably Doesn’t&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/10-security-commands-every-linux-admin-should-know-but-probably-doesnt-by-faruk-ahmed-apr-4igh)
+- [Deep Research for Everyone: OpenAI’s Lightweight Tool Democratizes Knowledge](https://dev.to/djleamen/deep-research-for-everyone-openais-lightweight-tool-democratizes-knowledge-3907)
 <!-- BLOG-POST-LIST:END -->
 
 
