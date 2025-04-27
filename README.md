@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Sentry.io: আপনার অ্যাপ্লিকেশনের ত্রুটি খুঁজে বের করার এক বিশ্বস্ত সমাধান](https://dev.to/programmerhasan/sentryio-aapnaar-ayaaplikeshner-trutti-khunje-ber-kraar-ek-bishbst-smaadhaan-2ah4)
-- [[Boost]](https://dev.to/li_wang_0207eb49311b22e5f/-5b1k)
-- [Avoid Burnout with Smart, Managed Study Workflows](https://dev.to/researchwize/avoid-burnout-with-smart-managed-study-workflows-5e5g)
-- [How AI workloads are reshaping datacentre design](https://dev.to/sadiksajid/how-ai-workloads-are-reshaping-datacentre-design-2ce1)
+- [Level Up Your Class Notes with AI Analysis](https://dev.to/researchwize/level-up-your-class-notes-with-ai-analysis-20ml)
+- [Arbitrum: Pioneering Open Source in Blockchain – A Deep Dive into Innovation and Community Impact](https://dev.to/jennythomas498/arbitrum-pioneering-open-source-in-blockchain-a-deep-dive-into-innovation-and-community-impact-24g1)
+- [Understanding .well-known URIs](https://dev.to/bharathvaj_ganesan/understanding-well-known-uris-45bh)
+- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
 <!-- BLOG-POST-LIST:END -->
 
 
