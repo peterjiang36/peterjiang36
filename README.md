@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yemi_adeoye_e660cd663a281/-58b8)
-- [Check Out These 5 GitHub Repositories Now 🤯](https://dev.to/dev_kiran/check-out-these-5-github-repositories-now-3bpb)
-- [Богдан Новотарский 8](https://dev.to/bogdannovotarskij/boghdan-novotarskii-8-45bi)
-- [Create an API in .NET with MongoDB and Pagination](https://dev.to/adrianbailador/create-an-api-in-net-with-mongodb-and-pagination-3dhb)
+- [🤖 AI Agents: Your Future Coworkers &lpar;Explained Simply&rpar;](https://dev.to/learn_with_santosh/ai-agents-your-future-coworkers-explained-simply-16dd)
+- [How To Add Simple Download Verification for Your Users](https://dev.to/bharathvaj_ganesan/how-to-add-simple-download-verification-for-your-users-47gk)
+- [How to Turn Any Article into an AI-Powered Classroom](https://dev.to/researchwize/how-to-turn-any-article-into-an-ai-powered-classroom-keo)
+- [Terraform Test introduction](https://dev.to/ryo_ariyama_b521d7133c493/terraform-test-introduction-2mjj)
 <!-- BLOG-POST-LIST:END -->
 
 
