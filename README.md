@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Industry Trends and Innovative Technologies in 2025](https://dev.to/jedaqsaul/key-industry-trends-and-innovative-technologies-in-2025-4oe3)
-- [Understanding Two-Factor Authentication: What Every Software Engineer Should Know](https://dev.to/akum_acha_2519d3ec8cd1514/understanding-two-factor-authentication-what-every-software-engineer-should-know-3me8)
-- [Why I Started My Developer Blog](https://dev.to/jedaqsaul/why-i-started-my-developer-blog-69g)
-- [Exploring the Impact of Azuki Elementals and Elon Musk on NFTs and Cryptocurrencies](https://dev.to/kallileiser/exploring-the-impact-of-azuki-elementals-and-elon-musk-on-nfts-and-cryptocurrencies-3pdj)
+- [Acerca de](https://dev.to/david_bermenvliz/acerca-de-1ca9)
+- [DashBot: 1v1 Space Robot Sprint Battle](https://dev.to/jianong/dashbot-1v1-space-robot-sprint-battle-1h1)
+- [DALL-E vs. Midjourney vs. Stable Diffusion vs. GPT-4 vs. Grok: A Detailed Comparison of Text-to-Image AI Models](https://dev.to/kimberegon/dall-e-vs-midjourney-vs-stable-diffusion-vs-gpt-4-vs-grok-a-detailed-comparison-of-1dig)
+- [Deploying a Go Echo Application with Lambda Web Adapter, SAM, and Lambda Function URLs](https://dev.to/ryichk/deploying-a-go-echo-application-with-lambda-web-adapter-sam-and-lambda-function-urls-1j42)
 <!-- BLOG-POST-LIST:END -->
 
 
