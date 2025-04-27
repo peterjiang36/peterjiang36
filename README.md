@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-22cl)
-- [Terraform](https://dev.to/ryo_ariyama_b521d7133c493/terraform-29ng)
-- [&quot;Stop Wasting Time on Manual Elasticsearch Backups — Automate It with Python &amp; S3&quot;](https://dev.to/minh_trivo_vmt/stop-wasting-time-on-manual-elasticsearch-backups-automate-it-with-python-s3-4dak)
-- [What do version numbers mean?](https://dev.to/devsk001/what-do-version-numbers-mean-34a7)
+- [Installing and Using OpenVAS on Kali Linux – A Complete Guide](https://dev.to/terminaltools/installing-and-using-openvas-on-kali-linux-a-complete-guide-10d3)
+- [Automação de Processos: BPMN, BPMS e RPA - by Vladimir Oliveira Lima](https://dev.to/vladimiroliveiralima/automacao-de-processos-bpmn-bpms-e-rpa-by-vladimir-oliveira-lima-120g)
+- [Quick introduction to isomorphic-validation javascript library.](https://dev.to/itihon/quick-introduction-to-isomorphic-validation-javascript-library-48p6)
+- [How to Install John The Ripper on Termux](https://dev.to/terminaltools/how-to-install-john-the-ripper-on-termux-58je)
 <!-- BLOG-POST-LIST:END -->
 
 
