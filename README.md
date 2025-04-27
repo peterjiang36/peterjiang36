@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Class Notes with AI Analysis](https://dev.to/researchwize/level-up-your-class-notes-with-ai-analysis-20ml)
-- [Arbitrum: Pioneering Open Source in Blockchain – A Deep Dive into Innovation and Community Impact](https://dev.to/jennythomas498/arbitrum-pioneering-open-source-in-blockchain-a-deep-dive-into-innovation-and-community-impact-24g1)
-- [Understanding .well-known URIs](https://dev.to/bharathvaj_ganesan/understanding-well-known-uris-45bh)
-- [How do you serve media files correctly in Docker with Next.js and Nginx!?🛠️🖼️](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
+- [Software Testing: Theory and Practice &lpar;Part 7&rpar; - Fundamentals and Strategies for Integration &amp; E2E Testing](https://dev.to/kuniwak/software-testing-theory-and-practice-part-7-fundamentals-and-strategies-for-integration-e2e-24ef)
+- [How are you managing tool integration for your LLM agents?](https://dev.to/mcphubs/how-are-you-managing-tool-integration-for-your-llm-agents-6k3)
+- [Software Testing: Theory and Practice &lpar;Part 6&rpar; - Fundamentals of Design for Testability](https://dev.to/kuniwak/software-testing-theory-and-practice-part-6-fundamentals-of-design-for-testability-34h1)
+- [Exploring Arbitrum, Validator Rewards, and PoS Innovations: A Comprehensive Overview](https://dev.to/zhangwei42/exploring-arbitrum-validator-rewards-and-pos-innovations-a-comprehensive-overview-obj)
 <!-- BLOG-POST-LIST:END -->
 
 
