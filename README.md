@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI Agents: Your Future Coworkers &lpar;Explained Simply&rpar;](https://dev.to/learn_with_santosh/ai-agents-your-future-coworkers-explained-simply-16dd)
-- [How To Add Simple Download Verification for Your Users](https://dev.to/bharathvaj_ganesan/how-to-add-simple-download-verification-for-your-users-47gk)
-- [How to Turn Any Article into an AI-Powered Classroom](https://dev.to/researchwize/how-to-turn-any-article-into-an-ai-powered-classroom-keo)
-- [Terraform Test introduction](https://dev.to/ryo_ariyama_b521d7133c493/terraform-test-introduction-2mjj)
+- [Prevent viewport scroll bounce effect](https://dev.to/devy/prevent-viewport-scroll-bounce-effect-22cl)
+- [Terraform](https://dev.to/ryo_ariyama_b521d7133c493/terraform-29ng)
+- [&quot;Stop Wasting Time on Manual Elasticsearch Backups — Automate It with Python &amp; S3&quot;](https://dev.to/minh_trivo_vmt/stop-wasting-time-on-manual-elasticsearch-backups-automate-it-with-python-s3-4dak)
+- [What do version numbers mean?](https://dev.to/devsk001/what-do-version-numbers-mean-34a7)
 <!-- BLOG-POST-LIST:END -->
 
 
