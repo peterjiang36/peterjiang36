@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Right Way to SEO | Enhance your visibility with these key points](https://dev.to/harsh_bhardwaj_809a89d3a7/right-way-to-seo-enhance-your-visibility-with-these-key-points-44do)
-- [Understanding Baiting in Cybersecurity: How It Works and How to Protect Yourself](https://dev.to/terminaltools/understanding-baiting-in-cybersecurity-how-it-works-and-how-to-protect-yourself-2f24)
-- [Do you know how it works? - Factory Functions vs Constructor Functions](https://dev.to/matheusjulidori/do-you-know-how-it-works-factory-functions-vs-constructor-functions-47kh)
-- [Day 9 of Learning Python](https://dev.to/harshvdev/day-9-of-learning-python-b3i)
+- [The Search Engine That Feels Like Magic](https://dev.to/lovestaco/the-search-engine-that-feels-like-magic-e93)
+- [Strong Typing is a Security Blanket for Weak Developers](https://dev.to/hotfixhero/strong-typing-is-a-security-blanket-for-weak-developers-d9g)
+- [Exploratory Data Analysis](https://dev.to/yesra_sajid_90cc25b86dcda/exploratory-data-analysis-1gg7)
+- [Understanding Network Attacks: Types, Impact, and Prevention Strategies](https://dev.to/terminaltools/understanding-network-attacks-types-impact-and-prevention-strategies-5fn7)
 <!-- BLOG-POST-LIST:END -->
 
 
