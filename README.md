@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-1l21)
-- [The first open-source AI Agent for OLX.](https://dev.to/abdibrokhim/the-first-open-source-ai-agent-for-olx-35ia)
-- [Telegram Mini Apps: Key Trends and Business Opportunities for 2025](https://dev.to/alex_deg/telegram-mini-apps-key-trends-and-business-opportunities-for-2025-53am)
-- [Introducing Awesome AI Agents Directories](https://dev.to/dariubs/introducing-awesome-ai-agents-directories-2b2h)
+- [Hi EVERYONE](https://dev.to/axonscript/hi-everyone-4m83)
+- [DeepSeek R2: Is This the Most Efficient AI Model Yet?](https://dev.to/_37bbf0c253c0b3edec531e/deepseek-r2-is-this-the-most-efficient-ai-model-yet-4fk0)
+- [🚀 Your Daily Crypto Job Digest For 28 April!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-28-april-1fc1)
+- [Building a RESTful To-Do API with Clean Architecture in Python](https://dev.to/sung_jinwoo_ae9a810f8c46a/building-a-restful-to-do-api-with-clean-architecture-in-python-48am)
 <!-- BLOG-POST-LIST:END -->
 
 
