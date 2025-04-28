@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a rich text editor with Angular + NgxTraak](https://dev.to/mouhamadalmounayar/build-a-rich-text-editor-with-angular-ngxtraak-1agk)
-- [Welcome Sury - The fastest schema with next-gen DX 🚀](https://dev.to/dzakh/welcome-sury-the-fastest-schema-with-next-gen-dx-5gl4)
-- [Linux: Search, Filter and Output](https://dev.to/ms_74/linux-search-filter-and-output-305d)
-- [5 hábitos que mudaram minha vida como dev &lpar;e podem mudar a sua também&rpar;](https://dev.to/alissonfcosta/5-habitos-que-mudaram-minha-vida-como-dev-e-podem-mudar-a-sua-tambem-2kki)
+- [7 Bash Mistakes I Made That Cost Me Time &lpar;And How to Avoid Them&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/7-bash-mistakes-i-made-that-cost-me-time-and-how-to-avoid-them-by-faruk-ahmed-apr-2025-2obg)
+- [6 Linux Misconfigurations I Regret Not Catching Sooner | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/6-linux-misconfigurations-i-regret-not-catching-sooner-by-faruk-ahmed-apr-2025-6om)
+- [Planejamento de Mudanças em Épocas de Chuva: Dicas para Sorocaba](https://dev.to/operacaotransportes572/planejamento-de-mudancas-em-epocas-de-chuva-dicas-para-sorocaba-3fm)
+- [5 Simple Bash Scripts That Can Save You Hours &lpar;and Maybe Make You Money&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-simple-bash-scripts-that-can-save-you-hours-and-maybe-make-you-money-by-faruk-ahmed-apr-32a2)
 <!-- BLOG-POST-LIST:END -->
 
 
