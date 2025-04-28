@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Group Management in Linux: My Journey to Organized Systems](https://dev.to/ibrahim_morakinyo_8f47965/group-management-in-linux-my-journey-to-organized-systems-eo1)
-- [OpenBSD 7.6 を 7.7 へ アップグレード](https://dev.to/nabbisen/openbsd-76-wo-77-he-atupuguredo-1eh7)
-- [OpenBSD Upgrade 7.6 to 7.7](https://dev.to/nabbisen/openbsd-upgrade-76-to-77-1cco)
-- [Mindfck Devlog 2: Memory Handling, Variables, and Flow Control in Brainfuck](https://dev.to/angrykoala/mindfck-devlog-2-memory-handling-variables-and-flow-control-in-brainfuck-5fml)
+- [After hosting a static site the traditional way with EC2, I&#39;m moving serverless! Join me as I show you how to host a website easily on Amazon S3 - no servers, no stress. Let&#39;s go! #AWS #DevOps](https://dev.to/bluezeus/after-hosting-a-static-site-the-traditional-way-with-ec2-im-moving-serverless-join-me-as-i-show-4k99)
+- [🚀 Hosting a Static Website on AWS S3&lpar;After EC2&rpar;](https://dev.to/bluezeus/hosting-a-static-website-on-aws-s3after-ec2-2pok)
+- [Local Kubernetes Development Made Easy with Telepresence Replace Mode](https://dev.to/bynelson/local-kubernetes-development-made-easy-with-telepresence-replace-mode-2o72)
+- [How You Can Build a Dynamic Star Rating Component in React.js &lpar;Full, Half, and Empty Stars Included&rpar;](https://dev.to/ramcpucoder/how-you-can-build-a-dynamic-star-rating-component-in-reactjs-full-half-and-empty-stars-included-j0b)
 <!-- BLOG-POST-LIST:END -->
 
 
