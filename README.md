@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Composant Onglets avec Riot](https://dev.to/steeve/composant-onglets-avec-riot-39g6)
-- [Veri Analitiği: İşinizi Nasıl Büyütür?](https://dev.to/fatih_alparslan_527760d23/veri-analitigi-isinizi-nasil-buyutur-4l1d)
-- [Optimizing Themes for Performance: A Developer’s Guide](https://dev.to/gm-kamrussama/optimizing-themes-for-performance-a-developers-guide-2mn2)
-- [Conditional UI for Passkeys: Simplifying WebAuthn Authentication with Passkey Autofill](https://dev.to/corbado/conditional-ui-for-passkeys-simplifying-webauthn-authentication-with-passkey-autofill-2nd8)
+- [Meme Monday](https://dev.to/ben/meme-monday-1l21)
+- [The first open-source AI Agent for OLX.](https://dev.to/abdibrokhim/the-first-open-source-ai-agent-for-olx-35ia)
+- [Telegram Mini Apps: Key Trends and Business Opportunities for 2025](https://dev.to/alex_deg/telegram-mini-apps-key-trends-and-business-opportunities-for-2025-53am)
+- [Introducing Awesome AI Agents Directories](https://dev.to/dariubs/introducing-awesome-ai-agents-directories-2b2h)
 <!-- BLOG-POST-LIST:END -->
 
 
