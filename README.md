@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Your Node.js App with PM2: Cluster Mode vs Fork Mode](https://dev.to/smit-vaghasiya/scaling-your-nodejs-app-with-pm2-cluster-mode-vs-fork-mode-3bo9)
-- [Demystifying Generative AI: Essential Concepts for Understanding the Technology](https://dev.to/aditya_tripathi_17ffee7f5/demystifying-generative-ai-essential-concepts-for-understanding-the-technology-47cc)
-- [Make JavaScript Art with p5.js 2.0, new React 19 Features, Solid.js just turned 10, and more](https://dev.to/thisweekinjavascript/make-javascript-art-with-p5js-20-new-react-19-features-solidjs-just-turned-10-and-more-309p)
-- [Tin tức AI](https://dev.to/congngheaivn/tin-tuc-ai-228)
+- [Why React Components Must Return a Single Root Element](https://dev.to/itspedram/why-react-components-must-return-a-single-root-element-354b)
+- [Docker: The Developer’s Secret Weapon for Conquering Chaos](https://dev.to/anupam_kumar/-docker-the-developers-secret-weapon-for-conquering-chaos-llm)
+- [Boost Angular Performance: Real-World Optimization Case Study](https://dev.to/vbourdeix/boost-angular-performance-real-world-optimization-case-study-58c7)
+- [Kafka Producers Explained: Partitioning, Batching, and Reliability](https://dev.to/konstantinas_mamonas/kafka-producers-explained-partitioning-batching-and-reliability-4bm8)
 <!-- BLOG-POST-LIST:END -->
 
 
