@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you Really Handle Webhooks Securely?](https://dev.to/flutterwaveeng/do-you-really-handle-webhooks-securely-1hah)
-- [Pipelink](https://dev.to/burrock/pipelink-29p0)
-- [The Future of Ark Crossplay: What Players Can Expect Next](https://dev.to/ray_parker01/the-future-of-ark-crossplay-what-players-can-expect-next-57p0)
-- [How to Secure Your PHP Website from Hackers](https://dev.to/ariba_doha_459b284146b9e7/how-to-secure-your-php-website-from-hackers-2jmo)
+- [Scaling Your Node.js App with PM2: Cluster Mode vs Fork Mode](https://dev.to/smit-vaghasiya/scaling-your-nodejs-app-with-pm2-cluster-mode-vs-fork-mode-3bo9)
+- [Demystifying Generative AI: Essential Concepts for Understanding the Technology](https://dev.to/aditya_tripathi_17ffee7f5/demystifying-generative-ai-essential-concepts-for-understanding-the-technology-47cc)
+- [Make JavaScript Art with p5.js 2.0, new React 19 Features, Solid.js just turned 10, and more](https://dev.to/thisweekinjavascript/make-javascript-art-with-p5js-20-new-react-19-features-solidjs-just-turned-10-and-more-309p)
+- [Tin tức AI](https://dev.to/congngheaivn/tin-tuc-ai-228)
 <!-- BLOG-POST-LIST:END -->
 
 
