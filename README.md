@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Search Engine That Feels Like Magic](https://dev.to/lovestaco/the-search-engine-that-feels-like-magic-e93)
-- [Strong Typing is a Security Blanket for Weak Developers](https://dev.to/hotfixhero/strong-typing-is-a-security-blanket-for-weak-developers-d9g)
-- [Exploratory Data Analysis](https://dev.to/yesra_sajid_90cc25b86dcda/exploratory-data-analysis-1gg7)
-- [Understanding Network Attacks: Types, Impact, and Prevention Strategies](https://dev.to/terminaltools/understanding-network-attacks-types-impact-and-prevention-strategies-5fn7)
+- [Build a rich text editor with Angular + NgxTraak](https://dev.to/mouhamadalmounayar/build-a-rich-text-editor-with-angular-ngxtraak-1agk)
+- [Welcome Sury - The fastest schema with next-gen DX 🚀](https://dev.to/dzakh/welcome-sury-the-fastest-schema-with-next-gen-dx-5gl4)
+- [Linux: Search, Filter and Output](https://dev.to/ms_74/linux-search-filter-and-output-305d)
+- [5 hábitos que mudaram minha vida como dev &lpar;e podem mudar a sua também&rpar;](https://dev.to/alissonfcosta/5-habitos-que-mudaram-minha-vida-como-dev-e-podem-mudar-a-sua-tambem-2kki)
 <!-- BLOG-POST-LIST:END -->
 
 
