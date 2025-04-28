@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Bash Mistakes I Made That Cost Me Time &lpar;And How to Avoid Them&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/7-bash-mistakes-i-made-that-cost-me-time-and-how-to-avoid-them-by-faruk-ahmed-apr-2025-2obg)
-- [6 Linux Misconfigurations I Regret Not Catching Sooner | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/6-linux-misconfigurations-i-regret-not-catching-sooner-by-faruk-ahmed-apr-2025-6om)
-- [Planejamento de Mudanças em Épocas de Chuva: Dicas para Sorocaba](https://dev.to/operacaotransportes572/planejamento-de-mudancas-em-epocas-de-chuva-dicas-para-sorocaba-3fm)
-- [5 Simple Bash Scripts That Can Save You Hours &lpar;and Maybe Make You Money&rpar; | by Faruk Ahmed | Apr, 2025](https://dev.to/cyberwebpen/5-simple-bash-scripts-that-can-save-you-hours-and-maybe-make-you-money-by-faruk-ahmed-apr-32a2)
+- [Medidas Preventivas Essenciais para Escritórios Compartilhados](https://dev.to/segurancaspecialist800/medidas-preventivas-essenciais-para-escritorios-compartilhados-hn0)
+- [Sistemas de Alarme: A Nova Era de Integração com Resgate Eficiente](https://dev.to/orangeliquor59/sistemas-de-alarme-a-nova-era-de-integracao-com-resgate-eficiente-2b55)
+- [Comparing Copilot Edits and Cursor](https://dev.to/ankk98/comparing-copilot-edits-and-cursor-5f1a)
+- [Brigada de incêndio em centros comerciais: Segurança em primeiro lugar](https://dev.to/orangeliquor59/brigada-de-incendio-em-centros-comerciais-seguranca-em-primeiro-lugar-3a80)
 <!-- BLOG-POST-LIST:END -->
 
 
