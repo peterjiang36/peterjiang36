@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pushing shapes](https://dev.to/magipunk/pushing-shapes-18gj)
-- [🚀 The Polyglot Journey: Building Real Apps in Go, Rust, and Elixir](https://dev.to/annrapid/the-polyglot-journey-building-real-apps-in-go-rust-and-elixir-2dkn)
-- [Software Testing: Theory and Practice &lpar;Part 8&rpar; - One Step Beyond](https://dev.to/kuniwak/software-testing-theory-and-practice-part-8-one-step-beyond-55k6)
-- [ToPILImage in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/topilimage-in-pytorch-1-kb6)
+- [What are Tables in Snowflake Really?](https://dev.to/armaankhan8270/what-are-tables-in-snowflake-really-1k53)
+- [🚀 Deploy Your Project to GitHub Pages Using gh-pages](https://dev.to/rohantgeorge/deploy-your-project-to-github-pages-using-gh-pages-1dlh)
+- [What Are the Best Practices for Writing Dockerfiles?](https://dev.to/puratabla/what-are-the-best-practices-for-writing-dockerfiles-17ec)
+- [MidJourney Mastery: Create Beautiful AI Art – A Deep Technical and Coding Approach](https://dev.to/kimberegon/midjourney-mastery-create-beautiful-ai-art-a-deep-technical-and-coding-approach-470e)
 <!-- BLOG-POST-LIST:END -->
 
 
