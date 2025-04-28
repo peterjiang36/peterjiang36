@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neuromorphic Computing: Brain-Inspired Tech You Should Know About](https://dev.to/ayush_rai_3a4bf2876ad190f/neuromorphic-computing-brain-inspired-tech-you-should-know-about-1a11)
-- [Unleashing Blockchain in Gaming: Revolutionizing Digital Ownership and Play-to-Earn Economies](https://dev.to/zhangwei42/unleashing-blockchain-in-gaming-revolutionizing-digital-ownership-and-play-to-earn-economies-m5c)
-- [[Boost]](https://dev.to/osiris8/-30jc)
-- [Api Dragon Ball Super](https://dev.to/12abelcabreramiranda/api-dragon-ball-super-30ib)
+- [PostgreSQL Rollback on Error](https://dev.to/aws-heroes/postgresql-rollback-on-error-515a)
+- [Understanding the JavaScript Event Loop &lpar;In Simple Terms&rpar;](https://dev.to/joseat/understanding-the-javascript-event-loop-in-simple-terms-22hb)
+- [Top Cryptos to Invest in 2025: Trends and Investment Tips](https://dev.to/coinw/top-cryptos-to-invest-in-2025-trends-and-investment-tips-2j3o)
+- [Your App Is Genius — But Can It Communicate with Humans? How NLP Integration Can Transform Your Web Application](https://dev.to/okoye_ndidiamaka_5e3b7d30/your-app-is-genius-but-can-it-communicate-with-humans-how-nlp-integration-can-transform-your-web-46lm)
 <!-- BLOG-POST-LIST:END -->
 
 
