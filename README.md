@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React Components Must Return a Single Root Element](https://dev.to/itspedram/why-react-components-must-return-a-single-root-element-354b)
-- [Docker: The Developer’s Secret Weapon for Conquering Chaos](https://dev.to/anupam_kumar/-docker-the-developers-secret-weapon-for-conquering-chaos-llm)
-- [Boost Angular Performance: Real-World Optimization Case Study](https://dev.to/vbourdeix/boost-angular-performance-real-world-optimization-case-study-58c7)
-- [Kafka Producers Explained: Partitioning, Batching, and Reliability](https://dev.to/konstantinas_mamonas/kafka-producers-explained-partitioning-batching-and-reliability-4bm8)
+- [Composant Onglets avec Riot](https://dev.to/steeve/composant-onglets-avec-riot-39g6)
+- [Veri Analitiği: İşinizi Nasıl Büyütür?](https://dev.to/fatih_alparslan_527760d23/veri-analitigi-isinizi-nasil-buyutur-4l1d)
+- [Optimizing Themes for Performance: A Developer’s Guide](https://dev.to/gm-kamrussama/optimizing-themes-for-performance-a-developers-guide-2mn2)
+- [Conditional UI for Passkeys: Simplifying WebAuthn Authentication with Passkey Autofill](https://dev.to/corbado/conditional-ui-for-passkeys-simplifying-webauthn-authentication-with-passkey-autofill-2nd8)
 <!-- BLOG-POST-LIST:END -->
 
 
