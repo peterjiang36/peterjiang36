@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Tables in Snowflake Really?](https://dev.to/armaankhan8270/what-are-tables-in-snowflake-really-1k53)
-- [🚀 Deploy Your Project to GitHub Pages Using gh-pages](https://dev.to/rohantgeorge/deploy-your-project-to-github-pages-using-gh-pages-1dlh)
-- [What Are the Best Practices for Writing Dockerfiles?](https://dev.to/puratabla/what-are-the-best-practices-for-writing-dockerfiles-17ec)
-- [MidJourney Mastery: Create Beautiful AI Art – A Deep Technical and Coding Approach](https://dev.to/kimberegon/midjourney-mastery-create-beautiful-ai-art-a-deep-technical-and-coding-approach-470e)
+- [Bot Blitz: Host Your HTML5 Game on Alibaba Cloud OSS](https://dev.to/ion_finisher/bot-blitz-host-your-html5-game-on-alibaba-cloud-oss-245g)
+- [Solving the Navier-Stokes Equation with Physics-Informed Neural Networks: A New Frontier in CFD](https://dev.to/darkstalker/solving-the-navier-stokes-equation-with-physics-informed-neural-networks-a-new-frontier-in-cfd-4hia)
+- [Refinement: The Correct Way To Monkey-Patch in Ruby](https://dev.to/reinteractive/refinement-the-correct-way-to-monkey-patch-in-ruby-1icl)
+- [SQL JOINs Explained: Connecting Data Across Tables](https://dev.to/mohammad1105/sql-joins-explained-connecting-data-across-tables-1l0h)
 <!-- BLOG-POST-LIST:END -->
 
 
