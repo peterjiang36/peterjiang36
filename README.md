@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning keretrendszerek összehasonlítása fejlesztői szemszögből](https://dev.to/balazsrefi/deep-learning-keretrendszerek-osszehasonlitasa-fejlesztoi-szemszogbol-gnk)
-- [OperationalError - no such table &lpar;Django 101&rpar;](https://dev.to/hastycodea/operationalerror-no-such-table-django-101-mo2)
-- [Go Concurrency: The Full Guide to Goroutines and Beyond](https://dev.to/pixperk/go-concurrency-the-full-guide-to-goroutines-and-beyond-2ajh)
-- [Zero-Day Exploits: What They Are, How They Work, and How to Defend Against Them](https://dev.to/terminaltools/zero-day-exploits-what-they-are-how-they-work-and-how-to-defend-against-them-1mgo)
+- [Do you Really Handle Webhooks Securely?](https://dev.to/flutterwaveeng/do-you-really-handle-webhooks-securely-1hah)
+- [Pipelink](https://dev.to/burrock/pipelink-29p0)
+- [The Future of Ark Crossplay: What Players Can Expect Next](https://dev.to/ray_parker01/the-future-of-ark-crossplay-what-players-can-expect-next-57p0)
+- [How to Secure Your PHP Website from Hackers](https://dev.to/ariba_doha_459b284146b9e7/how-to-secure-your-php-website-from-hackers-2jmo)
 <!-- BLOG-POST-LIST:END -->
 
 
