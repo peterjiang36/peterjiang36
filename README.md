@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 149/365 &lpar;Learning Full Stack&rpar;](https://dev.to/munin-1/day-149365-learning-full-stack-37db)
-- [Summarize Any Webpage Instantly While You Browse](https://dev.to/researchwize/summarize-any-webpage-instantly-while-you-browse-1bl0)
-- [Top Cybersecurity Companies: How They Keep You Safe Online](https://dev.to/terminaltools/top-cybersecurity-companies-how-they-keep-you-safe-online-3fek)
-- [From Chaos to Clarity: Organize Research with Project Folders](https://dev.to/researchwize/from-chaos-to-clarity-organize-research-with-project-folders-2k4l)
+- [Pushing shapes](https://dev.to/magipunk/pushing-shapes-18gj)
+- [🚀 The Polyglot Journey: Building Real Apps in Go, Rust, and Elixir](https://dev.to/annrapid/the-polyglot-journey-building-real-apps-in-go-rust-and-elixir-2dkn)
+- [Software Testing: Theory and Practice &lpar;Part 8&rpar; - One Step Beyond](https://dev.to/kuniwak/software-testing-theory-and-practice-part-8-one-step-beyond-55k6)
+- [ToPILImage in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/topilimage-in-pytorch-1-kb6)
 <!-- BLOG-POST-LIST:END -->
 
 
