@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bot Blitz: Host Your HTML5 Game on Alibaba Cloud OSS](https://dev.to/ion_finisher/bot-blitz-host-your-html5-game-on-alibaba-cloud-oss-245g)
-- [Solving the Navier-Stokes Equation with Physics-Informed Neural Networks: A New Frontier in CFD](https://dev.to/darkstalker/solving-the-navier-stokes-equation-with-physics-informed-neural-networks-a-new-frontier-in-cfd-4hia)
-- [Refinement: The Correct Way To Monkey-Patch in Ruby](https://dev.to/reinteractive/refinement-the-correct-way-to-monkey-patch-in-ruby-1icl)
-- [SQL JOINs Explained: Connecting Data Across Tables](https://dev.to/mohammad1105/sql-joins-explained-connecting-data-across-tables-1l0h)
+- [Measuring Developer Productivity: Metrics That Matter &lpar;and Those That Don&#39;t&rpar;](https://dev.to/teamcamp/measuring-developer-productivity-metrics-that-matter-and-those-that-dont-58n4)
+- [CSS Positioning Explained: Static, Relative, Absolute, and Fixed](https://dev.to/pythontutorial/css-positioning-explained-static-relative-absolute-and-fixed-488l)
+- [CaMeL: A Robust Defense Against LLM Prompt Injection Attacks](https://dev.to/ssojet/camel-a-robust-defense-against-llm-prompt-injection-attacks-3ed8)
+- [Setting Up Dual Boot with Windows and Arch Linux Using systemd-boot](https://dev.to/je12emy/setting-up-dual-boot-with-windows-and-arch-linux-using-systemd-boot-2c24)
 <!-- BLOG-POST-LIST:END -->
 
 
