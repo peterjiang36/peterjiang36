@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [After hosting a static site the traditional way with EC2, I&#39;m moving serverless! Join me as I show you how to host a website easily on Amazon S3 - no servers, no stress. Let&#39;s go! #AWS #DevOps](https://dev.to/bluezeus/after-hosting-a-static-site-the-traditional-way-with-ec2-im-moving-serverless-join-me-as-i-show-4k99)
-- [🚀 Hosting a Static Website on AWS S3&lpar;After EC2&rpar;](https://dev.to/bluezeus/hosting-a-static-website-on-aws-s3after-ec2-2pok)
-- [Local Kubernetes Development Made Easy with Telepresence Replace Mode](https://dev.to/bynelson/local-kubernetes-development-made-easy-with-telepresence-replace-mode-2o72)
-- [How You Can Build a Dynamic Star Rating Component in React.js &lpar;Full, Half, and Empty Stars Included&rpar;](https://dev.to/ramcpucoder/how-you-can-build-a-dynamic-star-rating-component-in-reactjs-full-half-and-empty-stars-included-j0b)
+- [Day 149/365 &lpar;Learning Full Stack&rpar;](https://dev.to/munin-1/day-149365-learning-full-stack-37db)
+- [Summarize Any Webpage Instantly While You Browse](https://dev.to/researchwize/summarize-any-webpage-instantly-while-you-browse-1bl0)
+- [Top Cybersecurity Companies: How They Keep You Safe Online](https://dev.to/terminaltools/top-cybersecurity-companies-how-they-keep-you-safe-online-3fek)
+- [From Chaos to Clarity: Organize Research with Project Folders](https://dev.to/researchwize/from-chaos-to-clarity-organize-research-with-project-folders-2k4l)
 <!-- BLOG-POST-LIST:END -->
 
 
