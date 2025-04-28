@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL Rollback on Error](https://dev.to/aws-heroes/postgresql-rollback-on-error-515a)
-- [Understanding the JavaScript Event Loop &lpar;In Simple Terms&rpar;](https://dev.to/joseat/understanding-the-javascript-event-loop-in-simple-terms-22hb)
-- [Top Cryptos to Invest in 2025: Trends and Investment Tips](https://dev.to/coinw/top-cryptos-to-invest-in-2025-trends-and-investment-tips-2j3o)
-- [Your App Is Genius — But Can It Communicate with Humans? How NLP Integration Can Transform Your Web Application](https://dev.to/okoye_ndidiamaka_5e3b7d30/your-app-is-genius-but-can-it-communicate-with-humans-how-nlp-integration-can-transform-your-web-46lm)
+- [Deep Learning keretrendszerek összehasonlítása fejlesztői szemszögből](https://dev.to/balazsrefi/deep-learning-keretrendszerek-osszehasonlitasa-fejlesztoi-szemszogbol-gnk)
+- [OperationalError - no such table &lpar;Django 101&rpar;](https://dev.to/hastycodea/operationalerror-no-such-table-django-101-mo2)
+- [Go Concurrency: The Full Guide to Goroutines and Beyond](https://dev.to/pixperk/go-concurrency-the-full-guide-to-goroutines-and-beyond-2ajh)
+- [Zero-Day Exploits: What They Are, How They Work, and How to Defend Against Them](https://dev.to/terminaltools/zero-day-exploits-what-they-are-how-they-work-and-how-to-defend-against-them-1mgo)
 <!-- BLOG-POST-LIST:END -->
 
 
