@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Serializable Snapshot Isolation for Transactions](https://dev.to/justlorain/how-to-implement-serializable-snapshot-isolation-for-transactions-4j38)
-- [Configuring your own deep research tool &lpar;Using Nix Flakes&rpar;](https://dev.to/alexander_shagov/configuring-your-own-deep-research-tool-using-nix-flakes-56ah)
-- [Essential Steps for Syncing Webflow Sites With Git Repositories](https://dev.to/ybouane/essential-steps-for-syncing-webflow-sites-with-git-repositories-2en9)
-- [10 Fun CSS Flourishes to Add Some Personality](https://dev.to/thelogicwarlock/10-fun-css-flourishes-to-add-some-personality-58ee)
+- [Right Way to SEO | Enhance your visibility with these key points](https://dev.to/harsh_bhardwaj_809a89d3a7/right-way-to-seo-enhance-your-visibility-with-these-key-points-44do)
+- [Understanding Baiting in Cybersecurity: How It Works and How to Protect Yourself](https://dev.to/terminaltools/understanding-baiting-in-cybersecurity-how-it-works-and-how-to-protect-yourself-2f24)
+- [Do you know how it works? - Factory Functions vs Constructor Functions](https://dev.to/matheusjulidori/do-you-know-how-it-works-factory-functions-vs-constructor-functions-47kh)
+- [Day 9 of Learning Python](https://dev.to/harshvdev/day-9-of-learning-python-b3i)
 <!-- BLOG-POST-LIST:END -->
 
 
