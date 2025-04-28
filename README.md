@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up the Pinecone MCP server in your IDE](https://dev.to/jennapederson/setting-up-the-pinecone-mcp-server-in-your-ide-8mi)
-- [[Software] Choice Architect, have you heart about it?](https://dev.to/getjv/software-choice-architect-have-you-heart-about-it-5cof)
-- [5 Productivity Hacks to Supercharge Your Workflow](https://dev.to/nishant_rathore_a4555652e/5-productivity-hacks-to-supercharge-your-workflow-f43)
-- [The Beginner’s Guide to Learning JavaScript](https://dev.to/nishant_rathore_a4555652e/the-beginners-guide-to-learning-javascript-5fgb)
+- [How to Implement Serializable Snapshot Isolation for Transactions](https://dev.to/justlorain/how-to-implement-serializable-snapshot-isolation-for-transactions-4j38)
+- [Configuring your own deep research tool &lpar;Using Nix Flakes&rpar;](https://dev.to/alexander_shagov/configuring-your-own-deep-research-tool-using-nix-flakes-56ah)
+- [Essential Steps for Syncing Webflow Sites With Git Repositories](https://dev.to/ybouane/essential-steps-for-syncing-webflow-sites-with-git-repositories-2en9)
+- [10 Fun CSS Flourishes to Add Some Personality](https://dev.to/thelogicwarlock/10-fun-css-flourishes-to-add-some-personality-58ee)
 <!-- BLOG-POST-LIST:END -->
 
 
