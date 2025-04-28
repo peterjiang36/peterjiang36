@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Linux File Permissions - The Smarter Way &lpar;Day 9 of 30&rpar;](https://dev.to/sheikhhassaanbinnadeem/understanding-linux-file-permissions-the-smarter-way-day-9-of-30-1p82)
-- [AI-Driven Mapping Data Insights from Gemini](https://dev.to/c_yatteau/ai-driven-mapping-data-insights-from-gemini-1db1)
-- [Building the Escape Hatch: My New Beginning in Technical Writing](https://dev.to/jgraspopovich/building-the-escape-hatch-my-new-beginning-in-technical-writing-aan)
-- [Meu gato está apático: como a lipase pode indicar o que há de errado](https://dev.to/formant02/meu-gato-esta-apatico-como-a-lipase-pode-indicar-o-que-ha-de-errado-3l2f)
+- [Debugging Humanity: How Systems Thinking Led Me to Radical Wokeness](https://dev.to/samuraiseoul/debugging-humanity-how-systems-thinking-led-me-to-radical-wokeness-3n63)
+- [Blockchain and Voting Security: Pioneering the Future of Democratic Processes](https://dev.to/jennythomas498/blockchain-and-voting-security-pioneering-the-future-of-democratic-processes-2ml9)
+- [How I Tamed a Wild AI to Answer Banking Questions Without Making Things Up: A Spring Boot + OpenAI Story](https://dev.to/mehulimukherjee/how-i-tamed-a-wild-ai-to-answer-banking-questions-without-making-things-up-a-spring-boot-openai-1h2h)
+- [The Power Of Git Log: You don&#39;t know how to use it.](https://dev.to/andersonbosa/the-power-of-git-log-you-dont-know-how-to-use-it-18jj)
 <!-- BLOG-POST-LIST:END -->
 
 
