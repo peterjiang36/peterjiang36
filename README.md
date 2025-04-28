@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Developer Productivity: Metrics That Matter &lpar;and Those That Don&#39;t&rpar;](https://dev.to/teamcamp/measuring-developer-productivity-metrics-that-matter-and-those-that-dont-58n4)
-- [CSS Positioning Explained: Static, Relative, Absolute, and Fixed](https://dev.to/pythontutorial/css-positioning-explained-static-relative-absolute-and-fixed-488l)
-- [CaMeL: A Robust Defense Against LLM Prompt Injection Attacks](https://dev.to/ssojet/camel-a-robust-defense-against-llm-prompt-injection-attacks-3ed8)
-- [Setting Up Dual Boot with Windows and Arch Linux Using systemd-boot](https://dev.to/je12emy/setting-up-dual-boot-with-windows-and-arch-linux-using-systemd-boot-2c24)
+- [Neuromorphic Computing: Brain-Inspired Tech You Should Know About](https://dev.to/ayush_rai_3a4bf2876ad190f/neuromorphic-computing-brain-inspired-tech-you-should-know-about-1a11)
+- [Unleashing Blockchain in Gaming: Revolutionizing Digital Ownership and Play-to-Earn Economies](https://dev.to/zhangwei42/unleashing-blockchain-in-gaming-revolutionizing-digital-ownership-and-play-to-earn-economies-m5c)
+- [[Boost]](https://dev.to/osiris8/-30jc)
+- [Api Dragon Ball Super](https://dev.to/12abelcabreramiranda/api-dragon-ball-super-30ib)
 <!-- BLOG-POST-LIST:END -->
 
 
