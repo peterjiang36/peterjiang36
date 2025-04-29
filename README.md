@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mikä on JavaScript ja miksi se on tärkeä verkkosivuilla?](https://dev.to/sofiamayer_dev/mika-on-javascript-ja-miksi-se-on-tarkea-verkkosivuilla-1pfo)
-- [Why Test Automation Fails &lpar;And How to Make It Work for You&rpar;](https://dev.to/vaibhavkuls/why-test-automation-fails-and-how-to-make-it-work-for-you-3ebd)
-- [Change Data Capture &lpar;CDC&rpar; with Debezium Server &lpar;No Kafka&rpar; — Django + Postgres + MongoDB Example](https://dev.to/maqboolthoufeeq/change-data-capture-cdc-with-debezium-server-no-kafka-django-postgres-mongodb-example-m0h)
-- [Changing Ownership in Linux: Mastering the chown Command](https://dev.to/sanasadiq/changing-ownership-in-linux-mastering-the-chown-command-37jd)
+- [Future Trends and the Role of .NET 9 in the Evolution of Software Development](https://dev.to/leandroveiga/future-trends-and-the-role-of-net-9-in-the-evolution-of-software-development-i8k)
+- [Dev Diary #1 — Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-332g)
+- [The `final` Keyword in Java](https://dev.to/sudhakar_v_c404997aeec839/the-final-keyword-in-java-2505)
+- [Object literals with satisfies operator for UI field mapping](https://dev.to/angelapy/object-literals-with-satisfies-operator-for-ui-field-mapping-2ggp)
 <!-- BLOG-POST-LIST:END -->
 
 
