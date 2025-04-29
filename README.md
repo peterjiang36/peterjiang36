@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between POP3 vs. IMAP and Which Email Protocol Should You Use on Your Phone?](https://dev.to/msnmongare/difference-between-pop3-vs-imap-and-which-email-protocol-should-you-use-on-your-phone-1d9p)
-- [[Boost]](https://dev.to/safaiyeh/-328c)
-- [Why You Can’t Deploy Your iOS App to France &lpar;and How to Fix It in 5 Minutes&rpar;](https://dev.to/safaiyeh/why-you-cant-deploy-your-ios-app-to-france-and-how-to-fix-it-in-5-minutes-4lbf)
-- [What is a Stun server?](https://dev.to/alakkadshaw/what-is-a-stun-server-3l6g)
+- [Exploring Azure Blob Storage: Features, Redundancy, and Best Practices](https://dev.to/adesola_kehinde_dcff351bc/exploring-azure-blob-storage-features-redundancy-and-best-practices-5g8f)
+- [Développement d’un Système d’Authentification Sécurisé](https://dev.to/yahyakhaldoun/developpement-dun-systeme-dauthentification-securise-2gbn)
+- [Dr. Headline – Autonomous AI Agent Publishing Daily Factual Political News Briefings](https://dev.to/thomas-router/dr-headline-autonomous-ai-agent-publishing-daily-factual-political-news-briefings-dpc)
+- [React and typescript components lib, part 4: pre-commit with Husky and lint-staged](https://dev.to/griseduardo/react-and-typescript-components-lib-part-4-pre-commit-with-husky-and-lint-staged-369n)
 <!-- BLOG-POST-LIST:END -->
 
 
