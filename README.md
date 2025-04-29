@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Embracing Change: The Real Skill Every Software Engineer Needs](https://dev.to/wraith/embracing-change-the-real-skill-every-software-engineer-needs-2690)
-- [Maximizing CPMs: Ad Strategies for FAST Channel Success-fast channel providers](https://dev.to/malhotraaa/maximizing-cpms-ad-strategies-for-fast-channel-success-fast-channel-providers-56ok)
-- [Creating 10&quot; homelab rack](https://dev.to/v0id_lab/creating-10-homelab-rack-4eno)
-- [Still Java. Still Standing. Still Learning.](https://dev.to/roddevlascio/still-java-still-standing-still-learning-348g)
+- [6 hidden gems in the JavaScript API you should be using](https://dev.to/logrocket/6-hidden-gems-in-the-javascript-api-you-should-be-using-4id6)
+- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
+- [What is the Difference Between a Software Programmer and a Software Engineer?](https://dev.to/anitaolsen/what-is-the-difference-between-a-software-programmer-and-a-software-engineer-2bfj)
+- [flash-install v1.8.0 - New Organization Release](https://dev.to/flashinstall/flash-install-v180-new-organization-release-1mij)
 <!-- BLOG-POST-LIST:END -->
 
 
