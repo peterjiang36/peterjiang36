@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Accessible Navigation Menu](https://dev.to/accessibly_speaking/building-an-accessible-navigation-menu-ea)
-- [The Rise of Blockchain in the Financial Sector: A Deep Dive into Transformational Finance](https://dev.to/vitalisorenko/the-rise-of-blockchain-in-the-financial-sector-a-deep-dive-into-transformational-finance-34ng)
-- [Unlocking Innovation with Blockchain Grants: The Future of Non-Dilutive Funding](https://dev.to/bobcars/unlocking-innovation-with-blockchain-grants-the-future-of-non-dilutive-funding-3n5p)
-- [Modern CSS: Tasarımcılar ve Geliştiriciler İçin](https://dev.to/yunus_emremert_1756b71d3/modern-css-tasarimcilar-ve-gelistiriciler-icin-1mi0)
+- [&quot;Save Zone&quot; site web pour les urgences – Une solution rapide aux crises.](https://dev.to/elou/save-zone-site-web-pour-les-urgences-une-solution-rapide-aux-crises-39nj)
+- [Understanding Phishing Attacks: How to Recognize, Avoid, and Respond to Phishing Scams](https://dev.to/terminaltools/understanding-phishing-attacks-how-to-recognize-avoid-and-respond-to-phishing-scams-1dkp)
+- [Understanding Brute Force Attacks: A Simple Guide to Protecting Your Digital Security](https://dev.to/terminaltools/understanding-brute-force-attacks-a-simple-guide-to-protecting-your-digital-security-13dp)
+- [Man-in-the-Middle &lpar;MitM&rpar; Attacks: Types, Detection, and Prevention Tips](https://dev.to/terminaltools/man-in-the-middle-mitm-attacks-types-detection-and-prevention-tips-oaa)
 <!-- BLOG-POST-LIST:END -->
 
 
