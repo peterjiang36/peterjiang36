@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FET-MA35-S2 SoM: A Multi-core Secure Industrial-grade Solution for EV Charging Pile TCU](https://dev.to/ronnie_r_152dc2151d9449c6/fet-ma35-s2-som-a-multi-core-secure-industrial-grade-solution-for-ev-charging-pile-tcu-1jn2)
-- [Cost Optimization Tips for Cloud Infrastructure](https://dev.to/bridgegroupsolutions/cost-optimization-tips-for-cloud-infrastructure-20f9)
-- [sliding puzzle](https://dev.to/fahadisgeo/sliding-puzzle-10ad)
-- [AI in Web Development: Build Smarter Web Applications &lpar;2025&rpar;](https://dev.to/mobisoftinfotech/ai-in-web-development-build-smarter-web-applications-2025-48bl)
+- [Integração do Brighter com Microsoft SQL Server](https://dev.to/actor-dev/integracao-do-brighter-com-microsoft-sql-server-4pj9)
+- [How to Overcome Barriers and Scrape Google Maps Like a Pro](https://dev.to/swiftproxy_residential/how-to-overcome-barriers-and-scrape-google-maps-like-a-pro-3m87)
+- [More observations on Cursor AI? Share please in the comments.](https://dev.to/rkhaslarov/more-observations-on-cursor-ai-share-please-in-the-comments-39a)
+- [Hey, community and leaders! Jump in to discussion, I&#39;d love to hear your opinion here.](https://dev.to/rkhaslarov/hey-community-and-leaders-jump-in-to-discussion-id-love-to-hear-your-opinion-here-5elk)
 <!-- BLOG-POST-LIST:END -->
 
 
