@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Save Zone&quot; site web pour les urgences – Une solution rapide aux crises.](https://dev.to/elou/save-zone-site-web-pour-les-urgences-une-solution-rapide-aux-crises-39nj)
-- [Understanding Phishing Attacks: How to Recognize, Avoid, and Respond to Phishing Scams](https://dev.to/terminaltools/understanding-phishing-attacks-how-to-recognize-avoid-and-respond-to-phishing-scams-1dkp)
-- [Understanding Brute Force Attacks: A Simple Guide to Protecting Your Digital Security](https://dev.to/terminaltools/understanding-brute-force-attacks-a-simple-guide-to-protecting-your-digital-security-13dp)
-- [Man-in-the-Middle &lpar;MitM&rpar; Attacks: Types, Detection, and Prevention Tips](https://dev.to/terminaltools/man-in-the-middle-mitm-attacks-types-detection-and-prevention-tips-oaa)
+- [[Boost]](https://dev.to/dcastrocordero22/-5f2b)
+- [Fetch Values from Previous Non-Null Value Rows — From SQL to SPL #24](https://dev.to/judith677/fetch-values-from-previous-non-null-value-rows-from-sql-to-spl-24-2ddp)
+- [How to Fully Empty a Wallet via Chrome Console Without Leaving Dust](https://dev.to/rwu_security_researcher/how-to-fully-empty-a-wallet-via-chrome-console-without-leaving-dust-32nh)
+- [InsightFlow Part 6: Implementing ETL Processes with AWS Glue for InsightFlow](https://dev.to/pizofreude/insightflow-part-6-implementing-etl-processes-with-aws-glue-for-insightflow-1gaj)
 <!-- BLOG-POST-LIST:END -->
 
 
