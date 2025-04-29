@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [6 hidden gems in the JavaScript API you should be using](https://dev.to/logrocket/6-hidden-gems-in-the-javascript-api-you-should-be-using-4id6)
-- [Building Multimodal AI Applications With MongoDB, Voyage AI, and Gemini](https://dev.to/mongodb/building-multimodal-ai-applications-with-mongodb-voyage-ai-and-gemini-49g3)
-- [What is the Difference Between a Software Programmer and a Software Engineer?](https://dev.to/anitaolsen/what-is-the-difference-between-a-software-programmer-and-a-software-engineer-2bfj)
-- [flash-install v1.8.0 - New Organization Release](https://dev.to/flashinstall/flash-install-v180-new-organization-release-1mij)
+- [🤖 AI Agents in Open Source: Evolving the Contribution Model](https://dev.to/pullflow/ai-agents-in-open-source-evolving-the-contribution-model-40e7)
+- [2025 Webby Award Nominee 🎉](https://dev.to/preetha_vaishnavi_2b82358/2025-webby-award-nominee-46h9)
+- [Would you wear an AI pendant?](https://dev.to/jess/would-you-wear-an-ai-pendant-5ei2)
+- [SpiderJS 🕷 | JS Runtime Revealed: The Three Pillars of JavaScript Execution](https://dev.to/omar_mayallo/spiderjs-js-runtime-revealed-the-three-pillars-of-javascript-execution-19g2)
 <!-- BLOG-POST-LIST:END -->
 
 
