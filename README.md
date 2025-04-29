@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/ashucommits/blockchain-for-open-source-funding-a-new-paradigm-4f9)
-- [Daily JavaScript Challenge #JS-165: Calculate Product Excluding Self](https://dev.to/dpc/daily-javascript-challenge-js-165-calculate-product-excluding-self-2igg)
-- [Mastering Spanish: Best Practices for Speaking Like a Native](https://dev.to/marta_prieto_d1a1a0f77075/mastering-spanish-best-practices-for-speaking-like-a-native-3iij)
-- [Message Brokers Made Simple: Exploring Redis for Service Communication](https://dev.to/rijultp/message-brokers-made-simple-exploring-redis-for-service-communication-13b7)
+- [Building an Accessible Navigation Menu](https://dev.to/accessibly_speaking/building-an-accessible-navigation-menu-ea)
+- [The Rise of Blockchain in the Financial Sector: A Deep Dive into Transformational Finance](https://dev.to/vitalisorenko/the-rise-of-blockchain-in-the-financial-sector-a-deep-dive-into-transformational-finance-34ng)
+- [Unlocking Innovation with Blockchain Grants: The Future of Non-Dilutive Funding](https://dev.to/bobcars/unlocking-innovation-with-blockchain-grants-the-future-of-non-dilutive-funding-3n5p)
+- [Modern CSS: Tasarımcılar ve Geliştiriciler İçin](https://dev.to/yunus_emremert_1756b71d3/modern-css-tasarimcilar-ve-gelistiriciler-icin-1mi0)
 <!-- BLOG-POST-LIST:END -->
 
 
