@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Structure a Full Stack App &lpar;Without Making a Complete Mess&rpar;](https://dev.to/ernest_litsa_6cbeed4e5669/how-to-structure-a-full-stack-app-without-making-a-complete-mess-3apf)
-- [Real-Time Lambda Log Streaming to Your Web UI - Without CloudWatch Logs](https://dev.to/hexshift/real-time-lambda-log-streaming-to-your-web-ui-without-cloudwatch-logs-3d1h)
-- [How to contribute to the Flutter engine [Windows]](https://dev.to/nrbnlulu/how-to-contribute-to-the-flutter-engine-windows-11fg)
-- [৫০টি সেরা AI টুলস যা আপনার কাজের গতি ও দক্ষতা বাড়াবে](https://dev.to/rironib/50tti-seraa-ai-ttuls-yaa-aapnaar-kaajer-gti-o-dksstaa-baarraabe-5616)
+- [FET-MA35-S2 SoM: A Multi-core Secure Industrial-grade Solution for EV Charging Pile TCU](https://dev.to/ronnie_r_152dc2151d9449c6/fet-ma35-s2-som-a-multi-core-secure-industrial-grade-solution-for-ev-charging-pile-tcu-1jn2)
+- [Cost Optimization Tips for Cloud Infrastructure](https://dev.to/bridgegroupsolutions/cost-optimization-tips-for-cloud-infrastructure-20f9)
+- [sliding puzzle](https://dev.to/fahadisgeo/sliding-puzzle-10ad)
+- [AI in Web Development: Build Smarter Web Applications &lpar;2025&rpar;](https://dev.to/mobisoftinfotech/ai-in-web-development-build-smarter-web-applications-2025-48bl)
 <!-- BLOG-POST-LIST:END -->
 
 
