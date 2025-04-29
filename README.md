@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript basics for future me](https://dev.to/ritumka/javascript-basics-for-future-me-3dm4)
-- [My first library for C language](https://dev.to/leonardopinezi/my-first-library-for-c-language-13jm)
-- [5 Best Private Status Pages Providers](https://dev.to/alibby/5-best-private-status-pages-providers-4k58)
-- [Optimizing AI LLM Test Prompts: Methods, Tools, and Best Practices](https://dev.to/kapusto/optimizing-ai-llm-test-prompts-methods-tools-and-best-practices-a1e)
+- [Pymupdf: A Python Library That Reduces the Size of PDF files](https://dev.to/maigaridavid/pymupdf-a-python-library-that-reduces-the-size-of-pdf-files-1anp)
+- [Cooperatives on Socio-data Pools as per &quot;Closures&quot;](https://dev.to/cyrus_zargaani_6a19e0c497/cooperatives-on-socio-data-pools-as-per-closures-4a7m)
+- [𝟳 𝗣𝗿𝗼𝘃𝗲𝗻 𝗜𝗧 𝗝𝗼𝗯 𝗦𝗲𝗮𝗿𝗰𝗵 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗧𝗵𝗮𝘁 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗼𝗿𝗸](https://dev.to/supraja_tangella_b7f0738e/-56mo)
+- [How Do You Integrate Security into the SDLC? &lpar;Researching Developer &amp; DevOps Workflows&rpar;](https://dev.to/jethalalchampaklal/how-do-you-integrate-security-into-the-sdlc-researching-developer-devops-workflows-1f99)
 <!-- BLOG-POST-LIST:END -->
 
 
