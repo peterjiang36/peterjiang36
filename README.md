@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando Salários na NBA com Machine Learning e Visualização de Dados](https://dev.to/dimas7dev/explorando-salarios-na-nba-com-machine-learning-e-visualizacao-de-dados-1d1c)
-- [DMARC Explained and Why Your Business Needs It](https://dev.to/daniel_williams_4cf14d76f/dmarc-explained-and-why-your-business-needs-it-142j)
-- [JavaScript Date object is finally being replaced 😱](https://dev.to/random_ti/javascript-date-object-is-finally-being-replaced-d10)
-- [What this the difference between reopen and Extends in Typescript ?](https://dev.to/mhmdbella/what-this-the-difference-between-reopen-and-extend-in-typescript--hoa)
+- [Traditional Testing Labs vs. HeadSpin CloudTest: Build or Buy](https://dev.to/berthaw82414312/traditional-testing-labs-vs-headspin-cloudtest-build-or-buy-34l)
+- [Why Developers Should Use AI-Powered Region Detection for Privacy Compliance in 2025](https://dev.to/mehwish_malik_4f29ff7fb04/why-developers-should-use-ai-powered-region-detection-for-privacy-compliance-in-2025-5hk4)
+- [منصة &quot;الحاسبات&quot; – دليلك العربي لتعلم أساسيات الحاسوب والتقنية](https://dev.to/beboo_rani_99b0cb9d2d098f/mns-lhsbt-dlylk-lrby-ltlm-ssyt-lhswb-wltqny-4jf3)
+- [From 0 to 10K ⭐: How Open SaaS became the Free Boilerplate Devs Love](https://dev.to/wasp/from-0-to-10k-how-open-saas-became-the-free-boilerplate-devs-love-45hb)
 <!-- BLOG-POST-LIST:END -->
 
 
