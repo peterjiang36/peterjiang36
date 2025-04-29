@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Humanity: How Systems Thinking Led Me to Radical Wokeness](https://dev.to/samuraiseoul/debugging-humanity-how-systems-thinking-led-me-to-radical-wokeness-3n63)
-- [Blockchain and Voting Security: Pioneering the Future of Democratic Processes](https://dev.to/jennythomas498/blockchain-and-voting-security-pioneering-the-future-of-democratic-processes-2ml9)
-- [How I Tamed a Wild AI to Answer Banking Questions Without Making Things Up: A Spring Boot + OpenAI Story](https://dev.to/mehulimukherjee/how-i-tamed-a-wild-ai-to-answer-banking-questions-without-making-things-up-a-spring-boot-openai-1h2h)
-- [The Power Of Git Log: You don&#39;t know how to use it.](https://dev.to/andersonbosa/the-power-of-git-log-you-dont-know-how-to-use-it-18jj)
+- [Blockchain for Open Source Funding: A New Paradigm](https://dev.to/ashucommits/blockchain-for-open-source-funding-a-new-paradigm-4f9)
+- [Daily JavaScript Challenge #JS-165: Calculate Product Excluding Self](https://dev.to/dpc/daily-javascript-challenge-js-165-calculate-product-excluding-self-2igg)
+- [Mastering Spanish: Best Practices for Speaking Like a Native](https://dev.to/marta_prieto_d1a1a0f77075/mastering-spanish-best-practices-for-speaking-like-a-native-3iij)
+- [Message Brokers Made Simple: Exploring Redis for Service Communication](https://dev.to/rijultp/message-brokers-made-simple-exploring-redis-for-service-communication-13b7)
 <!-- BLOG-POST-LIST:END -->
 
 
