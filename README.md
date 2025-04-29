@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pymupdf: A Python Library That Reduces the Size of PDF files](https://dev.to/maigaridavid/pymupdf-a-python-library-that-reduces-the-size-of-pdf-files-1anp)
-- [Cooperatives on Socio-data Pools as per &quot;Closures&quot;](https://dev.to/cyrus_zargaani_6a19e0c497/cooperatives-on-socio-data-pools-as-per-closures-4a7m)
-- [𝟳 𝗣𝗿𝗼𝘃𝗲𝗻 𝗜𝗧 𝗝𝗼𝗯 𝗦𝗲𝗮𝗿𝗰𝗵 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗧𝗵𝗮𝘁 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗪𝗼𝗿𝗸](https://dev.to/supraja_tangella_b7f0738e/-56mo)
-- [How Do You Integrate Security into the SDLC? &lpar;Researching Developer &amp; DevOps Workflows&rpar;](https://dev.to/jethalalchampaklal/how-do-you-integrate-security-into-the-sdlc-researching-developer-devops-workflows-1f99)
+- [Difference between POP3 vs. IMAP and Which Email Protocol Should You Use on Your Phone?](https://dev.to/msnmongare/difference-between-pop3-vs-imap-and-which-email-protocol-should-you-use-on-your-phone-1d9p)
+- [[Boost]](https://dev.to/safaiyeh/-328c)
+- [Why You Can’t Deploy Your iOS App to France &lpar;and How to Fix It in 5 Minutes&rpar;](https://dev.to/safaiyeh/why-you-cant-deploy-your-ios-app-to-france-and-how-to-fix-it-in-5-minutes-4lbf)
+- [What is a Stun server?](https://dev.to/alakkadshaw/what-is-a-stun-server-3l6g)
 <!-- BLOG-POST-LIST:END -->
 
 
