@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Think You’re Safe Online? Hackers Think You’re a Joke.](https://dev.to/abdelaziz_moustakim_45a4c/you-think-youre-safe-online-hackers-think-youre-a-joke-1lil)
-- [Master Basic List Operations in Python Without Using Built-in Methods in Python &lpar;Part 2&rpar;](https://dev.to/ciamuthama/master-basic-list-operations-in-python-without-using-built-in-methods-in-python-part-2-46fo)
-- [AI-Driven Malware: The Silent Revolution Reshaping Cyber Threats](https://dev.to/emanuelbrownebm/ai-driven-malware-the-silent-revolution-reshaping-cyber-threats-2d7c)
-- [History of C#: versions, .NET, Unity, Blazor, and MAUI](https://dev.to/pvsdev/history-of-c-versions-net-unity-blazor-and-maui-470m)
+- [Docker Desktop 4.40 Enhances AI Development with Model Runner](https://dev.to/ssojet/docker-desktop-440-enhances-ai-development-with-model-runner-5d4k)
+- [What&#39;s New in MySQL 9 - a DBA&#39;s Perspective](https://dev.to/bytebase/whats-new-in-mysql-9-a-dbas-perspective-750)
+- [Build a Secure Login System with PHP and MySQL: Step-by-Step Guide&quot;](https://dev.to/gyoussef03/build-a-secure-login-system-with-php-and-mysql-step-by-step-guide-17ba)
+- [Master Key React Concepts Easily Through One Simple Game](https://dev.to/thamizh_arasan_6f93e2f9b5/master-key-react-concepts-easily-through-one-simple-game-356p)
 <!-- BLOG-POST-LIST:END -->
 
 
