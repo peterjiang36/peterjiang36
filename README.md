@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Desktop 4.40 Enhances AI Development with Model Runner](https://dev.to/ssojet/docker-desktop-440-enhances-ai-development-with-model-runner-5d4k)
-- [What&#39;s New in MySQL 9 - a DBA&#39;s Perspective](https://dev.to/bytebase/whats-new-in-mysql-9-a-dbas-perspective-750)
-- [Build a Secure Login System with PHP and MySQL: Step-by-Step Guide&quot;](https://dev.to/gyoussef03/build-a-secure-login-system-with-php-and-mysql-step-by-step-guide-17ba)
-- [Master Key React Concepts Easily Through One Simple Game](https://dev.to/thamizh_arasan_6f93e2f9b5/master-key-react-concepts-easily-through-one-simple-game-356p)
+- [Explorando Salários na NBA com Machine Learning e Visualização de Dados](https://dev.to/dimas7dev/explorando-salarios-na-nba-com-machine-learning-e-visualizacao-de-dados-1d1c)
+- [DMARC Explained and Why Your Business Needs It](https://dev.to/daniel_williams_4cf14d76f/dmarc-explained-and-why-your-business-needs-it-142j)
+- [JavaScript Date object is finally being replaced 😱](https://dev.to/random_ti/javascript-date-object-is-finally-being-replaced-d10)
+- [What this the difference between reopen and Extends in Typescript ?](https://dev.to/mhmdbella/what-this-the-difference-between-reopen-and-extend-in-typescript--hoa)
 <!-- BLOG-POST-LIST:END -->
 
 
