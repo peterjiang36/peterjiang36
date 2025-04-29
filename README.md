@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integração do Brighter com Microsoft SQL Server](https://dev.to/actor-dev/integracao-do-brighter-com-microsoft-sql-server-4pj9)
-- [How to Overcome Barriers and Scrape Google Maps Like a Pro](https://dev.to/swiftproxy_residential/how-to-overcome-barriers-and-scrape-google-maps-like-a-pro-3m87)
-- [More observations on Cursor AI? Share please in the comments.](https://dev.to/rkhaslarov/more-observations-on-cursor-ai-share-please-in-the-comments-39a)
-- [Hey, community and leaders! Jump in to discussion, I&#39;d love to hear your opinion here.](https://dev.to/rkhaslarov/hey-community-and-leaders-jump-in-to-discussion-id-love-to-hear-your-opinion-here-5elk)
+- [You Think You’re Safe Online? Hackers Think You’re a Joke.](https://dev.to/abdelaziz_moustakim_45a4c/you-think-youre-safe-online-hackers-think-youre-a-joke-1lil)
+- [Master Basic List Operations in Python Without Using Built-in Methods in Python &lpar;Part 2&rpar;](https://dev.to/ciamuthama/master-basic-list-operations-in-python-without-using-built-in-methods-in-python-part-2-46fo)
+- [AI-Driven Malware: The Silent Revolution Reshaping Cyber Threats](https://dev.to/emanuelbrownebm/ai-driven-malware-the-silent-revolution-reshaping-cyber-threats-2d7c)
+- [History of C#: versions, .NET, Unity, Blazor, and MAUI](https://dev.to/pvsdev/history-of-c-versions-net-unity-blazor-and-maui-470m)
 <!-- BLOG-POST-LIST:END -->
 
 
