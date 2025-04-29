@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dcastrocordero22/-5f2b)
-- [Fetch Values from Previous Non-Null Value Rows — From SQL to SPL #24](https://dev.to/judith677/fetch-values-from-previous-non-null-value-rows-from-sql-to-spl-24-2ddp)
-- [How to Fully Empty a Wallet via Chrome Console Without Leaving Dust](https://dev.to/rwu_security_researcher/how-to-fully-empty-a-wallet-via-chrome-console-without-leaving-dust-32nh)
-- [InsightFlow Part 6: Implementing ETL Processes with AWS Glue for InsightFlow](https://dev.to/pizofreude/insightflow-part-6-implementing-etl-processes-with-aws-glue-for-insightflow-1gaj)
+- [safeJsonParse utility in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/safejsonparse-utility-in-suna-an-open-source-generalist-ai-agent-hf2)
+- [How to Create a Search Menu to Filter List Items, using CSS and JavaScript](https://dev.to/chrys/how-to-create-a-search-menu-to-filter-list-items-using-css-and-javascript-55lj)
+- [Unit Testing Practice &lpar;forked&rpar;](https://dev.to/toprogramkhushijain/unit-testing-practice-forked-33bc)
+- [Day : 32 &quot;Byte by Byte: The Programmer’s Journey&quot;](https://dev.to/sangamithra_k_78d83d6fb9d/day-32-byte-by-byte-the-programmers-journey-224m)
 <!-- BLOG-POST-LIST:END -->
 
 
