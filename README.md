@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech debt - When should developers refactor?](https://dev.to/nicorask/tech-debt-when-should-developers-refactor-47m5)
-- [How to Set Up a Full DNS Server in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/how-to-set-up-a-full-dns-server-in-red-hat-linux-3oa7)
-- [Surva.ai - Grow faster with AI surveys, testimonials, and cancel flows](https://dev.to/surva-ai/survaai-grow-faster-with-ai-surveys-testimonials-and-cancel-flows-3j27)
-- [Deep Research UIs - Perplexity vs. Manus vs. ChatGPT vs. Gemini](https://dev.to/franciscomoretti/deep-research-uis-perplexity-vs-manus-vs-chatgpt-vs-gemini-5cc2)
+- [JavaScript basics for future me](https://dev.to/ritumka/javascript-basics-for-future-me-3dm4)
+- [My first library for C language](https://dev.to/leonardopinezi/my-first-library-for-c-language-13jm)
+- [5 Best Private Status Pages Providers](https://dev.to/alibby/5-best-private-status-pages-providers-4k58)
+- [Optimizing AI LLM Test Prompts: Methods, Tools, and Best Practices](https://dev.to/kapusto/optimizing-ai-llm-test-prompts-methods-tools-and-best-practices-a1e)
 <!-- BLOG-POST-LIST:END -->
 
 
