@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Trends and the Role of .NET 9 in the Evolution of Software Development](https://dev.to/leandroveiga/future-trends-and-the-role-of-net-9-in-the-evolution-of-software-development-i8k)
-- [Dev Diary #1 — Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-332g)
-- [The `final` Keyword in Java](https://dev.to/sudhakar_v_c404997aeec839/the-final-keyword-in-java-2505)
-- [Object literals with satisfies operator for UI field mapping](https://dev.to/angelapy/object-literals-with-satisfies-operator-for-ui-field-mapping-2ggp)
+- [Tech debt - When should developers refactor?](https://dev.to/nicorask/tech-debt-when-should-developers-refactor-47m5)
+- [How to Set Up a Full DNS Server in Red Hat Linux](https://dev.to/axisinfo_0a61830e06c3c950/how-to-set-up-a-full-dns-server-in-red-hat-linux-3oa7)
+- [Surva.ai - Grow faster with AI surveys, testimonials, and cancel flows](https://dev.to/surva-ai/survaai-grow-faster-with-ai-surveys-testimonials-and-cancel-flows-3j27)
+- [Deep Research UIs - Perplexity vs. Manus vs. ChatGPT vs. Gemini](https://dev.to/franciscomoretti/deep-research-uis-perplexity-vs-manus-vs-chatgpt-vs-gemini-5cc2)
 <!-- BLOG-POST-LIST:END -->
 
 
