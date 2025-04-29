@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gedons/-4hk1)
-- [Spring Essentials: How to Use the @Bean Annotation for Custom Services](https://dev.to/tiuwill/spring-essentials-how-to-use-the-bean-annotation-for-custom-services-20mk)
-- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-1106)
-- [How to Edit Images Using OpenAI GPT-Image-1 API](https://dev.to/_37bbf0c253c0b3edec531e/how-to-edit-images-using-openai-gpt-image-1-api-3na4)
+- [Mikä on JavaScript ja miksi se on tärkeä verkkosivuilla?](https://dev.to/sofiamayer_dev/mika-on-javascript-ja-miksi-se-on-tarkea-verkkosivuilla-1pfo)
+- [Why Test Automation Fails &lpar;And How to Make It Work for You&rpar;](https://dev.to/vaibhavkuls/why-test-automation-fails-and-how-to-make-it-work-for-you-3ebd)
+- [Change Data Capture &lpar;CDC&rpar; with Debezium Server &lpar;No Kafka&rpar; — Django + Postgres + MongoDB Example](https://dev.to/maqboolthoufeeq/change-data-capture-cdc-with-debezium-server-no-kafka-django-postgres-mongodb-example-m0h)
+- [Changing Ownership in Linux: Mastering the chown Command](https://dev.to/sanasadiq/changing-ownership-in-linux-mastering-the-chown-command-37jd)
 <!-- BLOG-POST-LIST:END -->
 
 
