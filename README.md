@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Scope in Software Design from Architecture to Idioms](https://dev.to/dimasbagussusilo/understanding-scope-in-software-design-from-architecture-to-idioms-497h)
-- [Driving Innovation: Blockchain Funding and Token Incentives](https://dev.to/kallileiser/driving-innovation-blockchain-funding-and-token-incentives-2k4g)
-- [hey Everyone!](https://dev.to/vishal_choudhary_836/hey-everyone-3ino)
-- [The Technology Behind YouTube’s Auto-Captioning System](https://dev.to/activejack/the-technology-behind-youtubes-auto-captioning-system-1o45)
+- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
+- [Navigating Blockchain Project Funding Challenges](https://dev.to/ashucommits/navigating-blockchain-project-funding-challenges-390k)
+- [Desarrollo Web](https://dev.to/librada_altagraciaarias_/desarrollo-web-4451)
+- [Badges, Blogs &amp; Belonging: My 12-Month Sprint to AWS Community Builder 2025](https://dev.to/sachithmayantha/badges-blogs-belonging-my-12-month-sprint-to-aws-community-builder-2025-524l)
 <!-- BLOG-POST-LIST:END -->
 
 
