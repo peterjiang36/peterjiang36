@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reinventando a Roda: Criando seu próprio MediatR - Parte 3](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-3-3gp1)
-- [Slop is the new normal](https://dev.to/noriller/slop-is-the-new-normal-248l)
-- [How to create Azure Blob Storage Account: A beginner&#39;s step by step guide](https://dev.to/adesola_kehinde/how-to-create-azure-blob-storage-account-a-beginners-step-by-step-guide-ed7)
-- [Daily JavaScript Challenge #JS-166: Find the Sum of All Prime Numbers Up to N](https://dev.to/dpc/daily-javascript-challenge-js-166-find-the-sum-of-all-prime-numbers-up-to-n-4036)
+- [Real-Time Cross-Tab Sync with SharedArrayBuffer and Atomics &lpar;No Server, No BroadcastChannel&rpar;](https://dev.to/hexshift/real-time-cross-tab-sync-with-sharedarraybuffer-and-atomics-no-server-no-broadcastchannel-2emj)
+- [CI/CD pipeline using GitHub Actions to deploy to Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/ivanchiou/cicd-pipeline-using-github-actions-to-deploy-to-google-cloud-platform-gcp-3105)
+- [Stop Wasting Time on API Setup - Here’s How to Automate It](https://dev.to/u4systems/stop-wasting-time-on-api-setup-heres-how-to-automate-it-i2o)
+- [Mastering Date and Time in C#: A Practical Developer’s Guide](https://dev.to/rajesh_verma_69c86ea90ea4/mastering-date-and-time-in-c-a-practical-developers-guide-4knp)
 <!-- BLOG-POST-LIST:END -->
 
 
