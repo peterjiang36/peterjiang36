@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Cross-Tab Sync with SharedArrayBuffer and Atomics &lpar;No Server, No BroadcastChannel&rpar;](https://dev.to/hexshift/real-time-cross-tab-sync-with-sharedarraybuffer-and-atomics-no-server-no-broadcastchannel-2emj)
-- [CI/CD pipeline using GitHub Actions to deploy to Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/ivanchiou/cicd-pipeline-using-github-actions-to-deploy-to-google-cloud-platform-gcp-3105)
-- [Stop Wasting Time on API Setup - Here’s How to Automate It](https://dev.to/u4systems/stop-wasting-time-on-api-setup-heres-how-to-automate-it-i2o)
-- [Mastering Date and Time in C#: A Practical Developer’s Guide](https://dev.to/rajesh_verma_69c86ea90ea4/mastering-date-and-time-in-c-a-practical-developers-guide-4knp)
+- [Navigating Blockchain Project Funding and Token Distribution](https://dev.to/jennythomas498/navigating-blockchain-project-funding-and-token-distribution-3oih)
+- [5 recommended GIS tiling software that supports SHP files!](https://dev.to/gisbox/5-recommended-gis-tiling-software-that-supports-shp-files-3pi0)
+- [Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit](https://dev.to/pawanjswal/top-10-cybersecurity-blog-posts-that-made-april-2025-a-breakthrough-month-for-openexploit-2om8)
+- [How I Cut Docker Build Time in Half Using Savepoints — And Built a CLI Tool in Go](https://dev.to/zeflq/how-i-cut-docker-build-time-in-half-using-savepoints-and-built-a-cli-tool-in-go-5g9a)
 <!-- BLOG-POST-LIST:END -->
 
 
