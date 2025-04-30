@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Rust Error Handling with anyhow](https://dev.to/leapcell/simplifying-rust-error-handling-with-anyhow-34be)
-- [Building Smarter AI Workflows with LangChain](https://dev.to/iamfaham/building-smarter-ai-workflows-with-langchain-26o)
-- [Querying embedded arrays in JSON &lpar;PostgreSQL JSONB and MongoDB documents&rpar;](https://dev.to/franckpachot/query-and-index-json-array-fields-in-postgresql-and-mongodb-3md)
-- [Dica de TI: O que é linguagem de programação?](https://dev.to/vivianbr/dica-de-ti-o-que-e-linguagem-de-programacao-35el)
+- [Why Meeting-Centric Tools Fail at Async Work](https://dev.to/rally_for_jira/why-meeting-centric-tools-fail-at-async-work-mic)
+- [A Arte da Simplicidade no Desenvolvimento de Software: DRY, KISS, YAGNI e TDA](https://dev.to/diegobrandao/a-arte-da-simplicidade-no-desenvolvimento-de-software-dry-kiss-yagni-e-tda-aak)
+- [Blockchain&#39;s Role in Enhancing Open Source Transparency](https://dev.to/zhangwei42/blockchains-role-in-enhancing-open-source-transparency-2m3b)
+- [Building a Simple TCP Client in C: A Ground-Up Networking Exercise](https://dev.to/akashnanistar/building-a-simple-tcp-client-in-c-a-ground-up-networking-exercise-111a)
 <!-- BLOG-POST-LIST:END -->
 
 
