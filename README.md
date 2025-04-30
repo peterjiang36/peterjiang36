@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-4g73)
-- [What is memory when we talk about computers?](https://dev.to/greghamilton/what-is-memory-when-we-talk-about-computers-3d84)
-- [Why WordPress Developers Are Key to Solving Site Speed Problems](https://dev.to/riyasharma312/why-wordpress-developers-are-key-to-solving-site-speed-problems-jgg)
-- [Building AI Model](https://dev.to/theaniketraj/building-ai-model-1h3d)
+- [⚡ VeltoPHP: The Lightweight Framework Challenging Laravel’s Heavyweight Status](https://dev.to/veltophp/veltophp-the-lightweight-framework-challenging-laravels-heavyweight-status-3kkc)
+- [Tools used in CVCS and DVCS](https://dev.to/chithra_priya/tools-used-in-cvcs-and-dvcs-2766)
+- [Analyzing YOLO Architecture: Part 2 - The Neck Component](https://dev.to/_hm/analyzing-yolo-architecture-part-2-the-neck-component-34m5)
+- [🔍 Deep Dive into Go Memory Leak Debugging: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/deep-dive-into-go-memory-leak-debugging-a-practical-guide-1ojm)
 <!-- BLOG-POST-LIST:END -->
 
 
