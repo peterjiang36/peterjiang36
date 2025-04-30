@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resize Observer API for UI Adaptability](https://dev.to/omriluz1/resize-observer-api-for-ui-adaptability-h3d)
-- [How to keep toxicity out of agile teams for project success](https://dev.to/rootstack/how-to-keep-toxicity-out-of-agile-teams-for-project-success-b82)
-- [The RHEL9 Roommates: A Sitcom Guide to Cloud Career Glory](https://dev.to/higgs182092/the-rhel9-roommates-a-sitcom-guide-to-cloud-career-glory-26oj)
-- [Why &quot;Just Google It!&quot; Doesn’t Work for Every Developer](https://dev.to/kelvincode1234/why-just-google-it-doesnt-work-for-every-developer-15n4)
+- [Understanding Your Identity in Linux Using id, whoami, and groups](https://dev.to/sanasadiq/understanding-your-identity-in-linux-using-id-whoami-and-groups-m4l)
+- [Why My Code Works Better at Night &lpar;And Other Lies I Tell Myself&rpar;](https://dev.to/dayologic/why-my-code-works-better-at-night-and-other-lies-i-tell-myself-31p3)
+- [Understanding Blockchain Scalability: Challenges and Solutions](https://dev.to/jennythomas498/understanding-blockchain-scalability-challenges-and-solutions-1khf)
+- [Clerk + Shopify: Elevating Customer Authentication for E-Commerce](https://dev.to/arapp_clerkian/clerk-shopify-elevating-customer-authentication-for-e-commerce-59b6)
 <!-- BLOG-POST-LIST:END -->
 
 
