@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We can finally move elements in the browser with the moveBefore&lpar;&rpar; API](https://dev.to/logrocket/we-can-finally-move-elements-in-the-browser-with-the-movebefore-api-37dc)
-- [Zero-Trust Networking Meets Confidential Smart Contracts: Diode x Oasis Sapphire](https://dev.to/caerlower/zero-trust-networking-meets-confidential-smart-contracts-diode-x-oasis-sapphire-3dl6)
-- [Neotoc v1.0.0 is Released 🥳](https://dev.to/ashutoshbw/neotoc-v100-is-released-lom)
-- [Миры за пределами воображения](https://dev.to/bogdannovotarskij/miry-za-priedielami-voobrazhieniia-597d)
+- [Mudando o Jogo com StackSpot AI &amp; Testes Automatizados](https://dev.to/rafaelbercam/mudando-o-jogo-com-stackspot-ai-testes-automatizados-155a)
+- [🤖 What Are Smart Contracts? A Beginner-Friendly Guide to the Future of Digital Agreements](https://dev.to/mysteryminusplus/what-are-smart-contracts-a-beginner-friendly-guide-to-the-future-of-digital-agreements-k22)
+- [Vector: A lightweight tool for collecting EKS application logs with long-term storage capabilities](https://dev.to/aws-builders/vector-a-lightweight-tool-for-collecting-eks-application-logs-with-long-term-storage-capabilities-44j4)
+- [Action-Domain-Responder VS. MVC: Laravel Implementation Example](https://dev.to/initstack/action-domain-responder-vs-mvc-laravel-implementation-example-3ojo)
 <!-- BLOG-POST-LIST:END -->
 
 
