@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
-- [A Handy Way to Handle API Validation in Laravel](https://dev.to/initstack/a-handy-way-to-handle-api-validation-in-laravel-43c0)
-- [The Evolution of Architecture: Monolithic vs. Microservices](https://dev.to/leapcell/the-evolution-of-architecture-monolithic-vs-microservices-431j)
-- [Database Sharding 101](https://dev.to/thelennzer/database-sharding-101-112l)
+- [Top 10 AI Models Every Developer Should Know in 2025](https://dev.to/nikl/top-10-ai-models-every-developer-should-know-in-2025-30f8)
+- [Turbocharge Your Go Apps with Custom Memory Caching 🚀](https://dev.to/tavernetech/turbocharge-your-go-apps-with-custom-memory-caching-hop)
+- [Google Lighthouse - Measure Web page performance](https://dev.to/lea_abraham_7a0232a6cd616/google-lighthouse-measure-web-page-performance-4jij)
+- [How to Disable NSFW Filter in FaceFusion 3.2.0](https://dev.to/ijash/how-to-disable-nsfw-filter-in-facefusion-320-2d2g)
 <!-- BLOG-POST-LIST:END -->
 
 
