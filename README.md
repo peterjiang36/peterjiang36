@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Ruin Society?](https://dev.to/besworks/will-ai-ruin-society-2e02)
-- [Introducing DevUtils: a free &amp; open-source toolbox for developers](https://dev.to/devutils_tools/introducing-devutils-a-free-open-source-toolbox-for-developers-3ig0)
-- [Creating Unit Tests in ObjectScript for HL7 pipelines using %UnitTest class](https://dev.to/intersystems/creating-unit-tests-in-objectscript-for-hl7-pipelines-using-unittest-class-4mkg)
-- [Digging Through Linux: Must-Know Tools for File and Content Searches](https://dev.to/shrsv/digging-through-linux-must-know-tools-for-file-and-content-searches-4oon)
+- [Resize Observer API for UI Adaptability](https://dev.to/omriluz1/resize-observer-api-for-ui-adaptability-h3d)
+- [How to keep toxicity out of agile teams for project success](https://dev.to/rootstack/how-to-keep-toxicity-out-of-agile-teams-for-project-success-b82)
+- [The RHEL9 Roommates: A Sitcom Guide to Cloud Career Glory](https://dev.to/higgs182092/the-rhel9-roommates-a-sitcom-guide-to-cloud-career-glory-26oj)
+- [Why &quot;Just Google It!&quot; Doesn’t Work for Every Developer](https://dev.to/kelvincode1234/why-just-google-it-doesnt-work-for-every-developer-15n4)
 <!-- BLOG-POST-LIST:END -->
 
 
