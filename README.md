@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Unified Blog Aggregator with HTML, CSS, and JavaScript](https://dev.to/jliter/how-i-built-a-unified-blog-aggregator-with-html-css-and-javascript-4gna)
-- [Intune Win32 App: Run huge app updates with Powershell](https://dev.to/devicemanager/intune-win32-app-run-huge-app-updates-with-powershell-5283)
-- [8 Practical Courses That Can Launch Your Tech Career &lpar;Even Without Experience&rpar;](https://dev.to/soliven_soliven_886f0cdea/8-practical-courses-that-can-launch-your-tech-career-even-without-experience-1mon)
-- [Transforming Venture Capital: The Role of Blockchain in the Future of Investment](https://dev.to/bobcars/transforming-venture-capital-the-role-of-blockchain-in-the-future-of-investment-54hf)
+- [Clair Obscur: Expedition 33 may be Metacritic&#39;s highest user-rated game in history](https://dev.to/gg_news/clair-obscur-expedition-33-may-be-metacritics-highest-user-rated-game-in-history-4lme)
+- [Alex from Digital Foundry: &lpar;Oblivion Remastered&rpar; is perhaps one of the worst-running games I&#39;ve ever tested for Digital Foundry.](https://dev.to/gg_news/alex-from-digital-foundry-oblivion-remastered-is-perhaps-one-of-the-worst-running-games-ive-2ahk)
+- [How to Deploy Your App on Kubernetes — The Easy Way](https://dev.to/hostman_com/how-to-deploy-your-app-on-kubernetes-the-easy-way-3fd7)
+- [Top 8 Cybersecurity Companies in Dallas](https://dev.to/network_intelligence_25e4/top-8-cybersecurity-companies-in-dallas-4adj)
 <!-- BLOG-POST-LIST:END -->
 
 
