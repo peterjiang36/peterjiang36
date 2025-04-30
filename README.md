@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure Blob Storage: Features, Redundancy, and Best Practices](https://dev.to/adesola_kehinde_dcff351bc/exploring-azure-blob-storage-features-redundancy-and-best-practices-5g8f)
-- [Développement d’un Système d’Authentification Sécurisé](https://dev.to/yahyakhaldoun/developpement-dun-systeme-dauthentification-securise-2gbn)
-- [Dr. Headline – Autonomous AI Agent Publishing Daily Factual Political News Briefings](https://dev.to/thomas-router/dr-headline-autonomous-ai-agent-publishing-daily-factual-political-news-briefings-dpc)
-- [React and typescript components lib, part 4: pre-commit with Husky and lint-staged](https://dev.to/griseduardo/react-and-typescript-components-lib-part-4-pre-commit-with-husky-and-lint-staged-369n)
+- [Reinventando a Roda: Criando seu próprio MediatR - Parte 3](https://dev.to/angelobelchior/reinventando-a-roda-criando-seu-proprio-mediatr-parte-3-3gp1)
+- [Slop is the new normal](https://dev.to/noriller/slop-is-the-new-normal-248l)
+- [How to create Azure Blob Storage Account: A beginner&#39;s step by step guide](https://dev.to/adesola_kehinde/how-to-create-azure-blob-storage-account-a-beginners-step-by-step-guide-ed7)
+- [Daily JavaScript Challenge #JS-166: Find the Sum of All Prime Numbers Up to N](https://dev.to/dpc/daily-javascript-challenge-js-166-find-the-sum-of-all-prime-numbers-up-to-n-4036)
 <!-- BLOG-POST-LIST:END -->
 
 
