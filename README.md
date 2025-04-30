@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Blockchain Project Funding and Token Distribution](https://dev.to/jennythomas498/navigating-blockchain-project-funding-and-token-distribution-3oih)
-- [5 recommended GIS tiling software that supports SHP files!](https://dev.to/gisbox/5-recommended-gis-tiling-software-that-supports-shp-files-3pi0)
-- [Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit](https://dev.to/pawanjswal/top-10-cybersecurity-blog-posts-that-made-april-2025-a-breakthrough-month-for-openexploit-2om8)
-- [How I Cut Docker Build Time in Half Using Savepoints — And Built a CLI Tool in Go](https://dev.to/zeflq/how-i-cut-docker-build-time-in-half-using-savepoints-and-built-a-cli-tool-in-go-5g9a)
+- [Understanding Scope in Software Design from Architecture to Idioms](https://dev.to/dimasbagussusilo/understanding-scope-in-software-design-from-architecture-to-idioms-497h)
+- [Driving Innovation: Blockchain Funding and Token Incentives](https://dev.to/kallileiser/driving-innovation-blockchain-funding-and-token-incentives-2k4g)
+- [hey Everyone!](https://dev.to/vishal_choudhary_836/hey-everyone-3ino)
+- [The Technology Behind YouTube’s Auto-Captioning System](https://dev.to/activejack/the-technology-behind-youtubes-auto-captioning-system-1o45)
 <!-- BLOG-POST-LIST:END -->
 
 
