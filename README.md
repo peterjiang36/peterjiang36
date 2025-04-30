@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Communication is All You Need: What is A2A protocol ?](https://dev.to/heetvekariya/communication-is-all-you-need-what-is-a2a-protocol--p78)
-- [Best Lightweight Jira Alternatives for Startups and Small Teams](https://dev.to/tanmay-m-chaudhari/best-lightweight-jira-alternatives-for-startups-and-small-teams-jeg)
-- [Try this out Guys](https://dev.to/abhinowww/try-this-out-guys-1oek)
-- [How to Build an ATS-Friendly Resume for Free – Mectora.com](https://dev.to/abhinowww/how-to-build-an-ats-friendly-resume-for-free-mectoracom-43mi)
+- [We can finally move elements in the browser with the moveBefore&lpar;&rpar; API](https://dev.to/logrocket/we-can-finally-move-elements-in-the-browser-with-the-movebefore-api-37dc)
+- [Zero-Trust Networking Meets Confidential Smart Contracts: Diode x Oasis Sapphire](https://dev.to/caerlower/zero-trust-networking-meets-confidential-smart-contracts-diode-x-oasis-sapphire-3dl6)
+- [Neotoc v1.0.0 is Released 🥳](https://dev.to/ashutoshbw/neotoc-v100-is-released-lom)
+- [Миры за пределами воображения](https://dev.to/bogdannovotarskij/miry-za-priedielami-voobrazhieniia-597d)
 <!-- BLOG-POST-LIST:END -->
 
 
