@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clair Obscur: Expedition 33 may be Metacritic&#39;s highest user-rated game in history](https://dev.to/gg_news/clair-obscur-expedition-33-may-be-metacritics-highest-user-rated-game-in-history-4lme)
-- [Alex from Digital Foundry: &lpar;Oblivion Remastered&rpar; is perhaps one of the worst-running games I&#39;ve ever tested for Digital Foundry.](https://dev.to/gg_news/alex-from-digital-foundry-oblivion-remastered-is-perhaps-one-of-the-worst-running-games-ive-2ahk)
-- [How to Deploy Your App on Kubernetes — The Easy Way](https://dev.to/hostman_com/how-to-deploy-your-app-on-kubernetes-the-easy-way-3fd7)
-- [Top 8 Cybersecurity Companies in Dallas](https://dev.to/network_intelligence_25e4/top-8-cybersecurity-companies-in-dallas-4adj)
+- [Communication is All You Need: What is A2A protocol ?](https://dev.to/heetvekariya/communication-is-all-you-need-what-is-a2a-protocol--p78)
+- [Best Lightweight Jira Alternatives for Startups and Small Teams](https://dev.to/tanmay-m-chaudhari/best-lightweight-jira-alternatives-for-startups-and-small-teams-jeg)
+- [Try this out Guys](https://dev.to/abhinowww/try-this-out-guys-1oek)
+- [How to Build an ATS-Friendly Resume for Free – Mectora.com](https://dev.to/abhinowww/how-to-build-an-ats-friendly-resume-for-free-mectoracom-43mi)
 <!-- BLOG-POST-LIST:END -->
 
 
