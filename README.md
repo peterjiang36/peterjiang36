@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tainted Canvas: why the browser blocks your canvas &lpar;and how to unblock it&rpar;](https://dev.to/reynaldi/tainted-canvas-why-the-browser-blocks-your-canvas-and-how-to-unblock-it-57e7)
-- [Scaling Search at finlight.me: From Postgres Full-Text to Real-Time OpenSearch](https://dev.to/jubeiargh/scaling-search-at-finlightme-from-postgres-full-text-to-real-time-opensearch-33op)
-- [ERP: A Small Word with Big Services Behind It](https://dev.to/bhavesh_gangani_/erp-a-small-word-with-big-services-behind-it-4g66)
-- [Data Consistency in Distributed Systems: From Quorums to Merkle Trees.](https://dev.to/chinthala_tejeswarreddy_/data-consistency-in-distributed-systems-from-quorums-to-merkle-trees-1m70)
+- [Accelerating Insurance Digital Transformation: 2025 Outlook](https://dev.to/openkoda/accelerating-insurance-digital-transformation-2025-outlook-38ec)
+- [A Handy Way to Handle API Validation in Laravel](https://dev.to/initstack/a-handy-way-to-handle-api-validation-in-laravel-43c0)
+- [The Evolution of Architecture: Monolithic vs. Microservices](https://dev.to/leapcell/the-evolution-of-architecture-monolithic-vs-microservices-431j)
+- [Database Sharding 101](https://dev.to/thelennzer/database-sharding-101-112l)
 <!-- BLOG-POST-LIST:END -->
 
 
