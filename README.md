@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v324](https://dev.to/devteam/welcome-thread-v324-1fgg)
-- [Navigating Blockchain Project Funding Challenges](https://dev.to/ashucommits/navigating-blockchain-project-funding-challenges-390k)
-- [Desarrollo Web](https://dev.to/librada_altagraciaarias_/desarrollo-web-4451)
-- [Badges, Blogs &amp; Belonging: My 12-Month Sprint to AWS Community Builder 2025](https://dev.to/sachithmayantha/badges-blogs-belonging-my-12-month-sprint-to-aws-community-builder-2025-524l)
+- [Vibe Coding: The Calm Revolution in Developer Workflows](https://dev.to/sung_jinwoo_ae9a810f8c46a/vibe-coding-the-calm-revolution-in-developer-workflows-d04)
+- [Re: Will AI Take My Job? A Coder&#39;s Reality Check](https://dev.to/canro91/re-will-ai-take-my-job-a-coders-reality-check-4gmg)
+- [How Generative AI Is Redefining ITSM Workflows in 2025](https://dev.to/sip_mjb/how-generative-ai-is-redefining-itsm-workflows-in-2025-1ia2)
+- [Beyond Automation: How Generative AI Is Redefining ITSM Workflows in 2025](https://dev.to/sip_mjb/beyond-automation-how-generative-ai-is-redefining-itsm-workflows-in-2025-4aaj)
 <!-- BLOG-POST-LIST:END -->
 
 
