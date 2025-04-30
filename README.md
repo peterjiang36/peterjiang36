@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey of Building a Next - Gen Freelancing Hub](https://dev.to/pennedassured/the-journey-of-building-a-next-gen-freelancing-hub-3o5e)
-- [How Reinforcement Learning Powers Decision-Making in AI](https://dev.to/sai_rishika_0e321c17cfc13/how-reinforcement-learning-powers-decision-making-in-ai-1gk7)
-- [day-34: looping statements in java](https://dev.to/e00049/day-34-looping-statements-in-java-ccg)
-- [TypeScript vs JavaScript: What&#39;s the Difference and Which Should You Choose?](https://dev.to/johnidogun/typescript-vs-javascript-whats-the-difference-and-which-should-you-choose-1cok)
+- [NVSTly Wins Gold Stevie® Award for Tech Startup of the Year in 2025 American Business Awards®](https://dev.to/socialinvesting/nvstly-wins-gold-stevier-award-for-tech-startup-of-the-year-in-2025-american-business-awardsr-4n6m)
+- [Inside the Rise: How Gurgaon Became the Hub for AI Companies in 2025](https://dev.to/priyankapandey/inside-the-rise-how-gurgaon-became-the-hub-for-ai-companies-in-2025-1el3)
+- [Deploy a Static Website on EC2 Using AWS CI/CD Services &lpar;CodeBuild, CodeDeploy, GitHub, and Nginx&rpar;](https://dev.to/aws-builders/deploy-a-static-website-on-ec2-using-aws-cicd-services-codebuild-codedeploy-github-and-nginx-5bkl)
+- [Membuat API dengan AI di WSO2 APIM](https://dev.to/agusmerdeko/membuat-api-dengan-ai-di-wso2-apim-2f01)
 <!-- BLOG-POST-LIST:END -->
 
 
