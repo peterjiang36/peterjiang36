@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ VeltoPHP: The Lightweight Framework Challenging Laravel’s Heavyweight Status](https://dev.to/veltophp/veltophp-the-lightweight-framework-challenging-laravels-heavyweight-status-3kkc)
-- [Tools used in CVCS and DVCS](https://dev.to/chithra_priya/tools-used-in-cvcs-and-dvcs-2766)
-- [Analyzing YOLO Architecture: Part 2 - The Neck Component](https://dev.to/_hm/analyzing-yolo-architecture-part-2-the-neck-component-34m5)
-- [🔍 Deep Dive into Go Memory Leak Debugging: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/deep-dive-into-go-memory-leak-debugging-a-practical-guide-1ojm)
+- [Tainted Canvas: why the browser blocks your canvas &lpar;and how to unblock it&rpar;](https://dev.to/reynaldi/tainted-canvas-why-the-browser-blocks-your-canvas-and-how-to-unblock-it-57e7)
+- [Scaling Search at finlight.me: From Postgres Full-Text to Real-Time OpenSearch](https://dev.to/jubeiargh/scaling-search-at-finlightme-from-postgres-full-text-to-real-time-opensearch-33op)
+- [ERP: A Small Word with Big Services Behind It](https://dev.to/bhavesh_gangani_/erp-a-small-word-with-big-services-behind-it-4g66)
+- [Data Consistency in Distributed Systems: From Quorums to Merkle Trees.](https://dev.to/chinthala_tejeswarreddy_/data-consistency-in-distributed-systems-from-quorums-to-merkle-trees-1m70)
 <!-- BLOG-POST-LIST:END -->
 
 
