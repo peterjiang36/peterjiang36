@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AI Models Every Developer Should Know in 2025](https://dev.to/nikl/top-10-ai-models-every-developer-should-know-in-2025-30f8)
-- [Turbocharge Your Go Apps with Custom Memory Caching 🚀](https://dev.to/tavernetech/turbocharge-your-go-apps-with-custom-memory-caching-hop)
-- [Google Lighthouse - Measure Web page performance](https://dev.to/lea_abraham_7a0232a6cd616/google-lighthouse-measure-web-page-performance-4jij)
-- [How to Disable NSFW Filter in FaceFusion 3.2.0](https://dev.to/ijash/how-to-disable-nsfw-filter-in-facefusion-320-2d2g)
+- [You Should Break Prod](https://dev.to/code42cate/you-should-break-prod-24lb)
+- [Untitled](https://dev.to/michael_02910bc84e622d090/untitled-kg4)
+- [Quick Tutorial: Implementing Google OAuth2 in FastAPI &lpar;Callback Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-implementing-google-oauth2-in-fastapi-callback-method-ba4)
+- [Quick Tutorial: Adding Google Auth to FastAPI &lpar;Token Method&rpar;](https://dev.to/ayoub3bidi/quick-tutorial-adding-google-auth-to-fastapi-token-method-1ggg)
 <!-- BLOG-POST-LIST:END -->
 
 
