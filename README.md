@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL!](https://dev.to/fmerian/til-2212)
-- [Synchronous vs. Asynchronous Communication in Programming](https://dev.to/msnmongare/synchronous-vs-asynchronous-communication-in-programming-38lm)
-- [proud to commit to the ALX pledge! I’ll grow daily, support my peers, and uphold excellence in tech. Ready to build, learn, and lead with integrity! 🚀 #ALXSE #ALXPD #ALXFE #ALXBE @alx_africa](https://dev.to/eyob_belayneh_418faf506a5/proud-to-commit-to-the-alx-pledge-ill-grow-daily-support-my-peers-and-uphold-excellence-in-4no9)
-- [Embracing Open Standards in Cloud-Native Development](https://dev.to/austinozor/embracing-open-standards-in-cloud-native-development-3dbe)
+- [How to make your Tauri dev faster](https://dev.to/ahonn/how-to-make-your-tauri-dev-faster-2en1)
+- [How to Build Your First REST API with Node.js and Express &lpar;From Someone Who Was Scared at First&rpar;](https://dev.to/arbythecoder/how-to-build-your-first-rest-api-with-nodejs-and-express-from-someone-who-was-scared-at-first-59d7)
+- [Homomorphic Encryption &lpar;HE&rpar; Explained: A Beginner’s Guide to Secure AI on Encrypted Data](https://dev.to/shamspias/homomorphic-encryption-he-explained-a-beginners-guide-to-secure-ai-on-encrypted-data-2en1)
+- [Harnessing AI: A Guide for Startups](https://dev.to/jetthoughts/harnessing-ai-a-guide-for-startups-2chn)
 <!-- BLOG-POST-LIST:END -->
 
 
