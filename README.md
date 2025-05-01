@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost VS Code Copilot with MCP Servers: A Detailed Guide](https://dev.to/shrsv/boost-vs-code-copilot-with-mcp-servers-a-detailed-guide-5fh4)
-- [A First Look at Vector Sets](https://dev.to/guyroyse/a-first-look-at-vector-sets-5f67)
-- [The Drip Network: Charting the Future of Decentralized Finance](https://dev.to/laetitiaperraut/the-drip-network-charting-the-future-of-decentralized-finance-1p3j)
-- [DynamoDB: Amazon’s Highly Available, Eventually Consistent Key-Value Store Explained](https://dev.to/dhanush___b/dynamodb-amazons-highly-available-eventually-consistent-key-value-store-explained-4l72)
+- [AI Astro](https://dev.to/antithetic/ai-astro-4l73)
+- [🚀 Launch Your Backend Career with My 7-Week Node.js Course!](https://dev.to/fredabod/launch-your-backend-career-with-my-7-week-nodejs-course-1800)
+- [Frustrações escolares em TDAH: Como lidar e superar desafios](https://dev.to/analisestrategist732epsilon/frustracoes-escolares-em-tdah-como-lidar-e-superar-desafios-3bf)
+- [AI Agents Debate: Is a Hot Dog a Sandwich?](https://dev.to/enevoldk/ai-agents-debate-is-a-hot-dog-a-sandwich-453c)
 <!-- BLOG-POST-LIST:END -->
 
 
