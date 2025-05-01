@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 4: Writing Better Product Specs](https://dev.to/taskframe/chapter-4-writing-better-product-specs-bm1)
-- [Bridging the MVP-to-Production Gap with ChatOps](https://dev.to/alexthh/bridging-the-mvp-to-production-gap-with-chatops-5ac3)
-- [Realistic DOT AMBER LIGHTBAR](https://dev.to/alex_9665d25784cbffcce7e9/realistic-dot-amber-lightbar-53fh)
-- [Show Additional Calendars in the Taskbar on Windows 11](https://dev.to/winsides/show-additional-calendars-in-the-taskbar-on-windows-11-32im)
+- [TIL!](https://dev.to/fmerian/til-2212)
+- [Synchronous vs. Asynchronous Communication in Programming](https://dev.to/msnmongare/synchronous-vs-asynchronous-communication-in-programming-38lm)
+- [proud to commit to the ALX pledge! I’ll grow daily, support my peers, and uphold excellence in tech. Ready to build, learn, and lead with integrity! 🚀 #ALXSE #ALXPD #ALXFE #ALXBE @alx_africa](https://dev.to/eyob_belayneh_418faf506a5/proud-to-commit-to-the-alx-pledge-ill-grow-daily-support-my-peers-and-uphold-excellence-in-4no9)
+- [Embracing Open Standards in Cloud-Native Development](https://dev.to/austinozor/embracing-open-standards-in-cloud-native-development-3dbe)
 <!-- BLOG-POST-LIST:END -->
 
 
