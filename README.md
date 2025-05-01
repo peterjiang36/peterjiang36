@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [USA-Based Developers for Hire: What You Need to Prepare First](https://dev.to/yashsmith/usa-based-developers-for-hire-what-you-need-to-prepare-first-3841)
-- [Understanding the Key Differences between AI vs. Automation](https://dev.to/msnmongare/understanding-the-key-differences-between-ai-vs-automation-295g)
-- [SpiderJS 🕷 | V8 Engine and JIT Compilation](https://dev.to/omar_mayallo/spiderjs-v8-engine-and-jit-compilation-1bk5)
-- [DevLog #2: Signals Part I](https://dev.to/dungeoncrawlsoft/devlog-2-signals-part-i-53do)
+- [Git | Basic](https://dev.to/ibrahimsi/git-basic-3ndd)
+- [Bad Data Is Breaking Your Campaigns: How TDZ Pro Fixes It](https://dev.to/dayologic/bad-data-is-breaking-your-campaigns-how-tdz-pro-fixes-it-2ne)
+- [Learning Elixir: Anonymous Functions](https://dev.to/abreujp/learning-elixir-anonymous-functions-ag4)
+- [🚨 Are we truly celebrating Labour Day — or just pretending to? 💭 This Labour Day, I decided to reflect not just on the history — but on the harsh realities that many tech professionals, especially in Pakistan 🇵🇰, still face.](https://dev.to/hbg_dev/are-we-truly-celebrating-labour-day-or-just-pretending-to-this-labour-day-i-decided-to-422d)
 <!-- BLOG-POST-LIST:END -->
 
 
