@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool!](https://dev.to/razbakov/cool-310e)
-- [Have Gemini create a Google Workspace Add-on](https://dev.to/googleworkspace/have-gemini-create-a-google-workspace-add-on-37cg)
-- [React Design Patterns That’ll Make You a Better Dev](https://dev.to/elizabethsobiya/react-design-patterns-thatll-make-you-a-better-dev-1l52)
-- [Building Your Own Web Server: Part 2 — Plan and Implementation of HTTP and Configuration parser](https://dev.to/dmytro_huz/building-your-own-web-server-part-2-plan-and-implementation-of-http-and-configuration-parser-3lk1)
+- [USA-Based Developers for Hire: What You Need to Prepare First](https://dev.to/yashsmith/usa-based-developers-for-hire-what-you-need-to-prepare-first-3841)
+- [Understanding the Key Differences between AI vs. Automation](https://dev.to/msnmongare/understanding-the-key-differences-between-ai-vs-automation-295g)
+- [SpiderJS 🕷 | V8 Engine and JIT Compilation](https://dev.to/omar_mayallo/spiderjs-v8-engine-and-jit-compilation-1bk5)
+- [DevLog #2: Signals Part I](https://dev.to/dungeoncrawlsoft/devlog-2-signals-part-i-53do)
 <!-- BLOG-POST-LIST:END -->
 
 
