@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling ReactJS Applications Effortlessly: A Practical Guide](https://dev.to/brilworks/scaling-reactjs-applications-effortlessly-a-practical-guide-52f0)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-pmc)
-- [🧠 8 Response Types That Instantly Level Up UX! #design #dev #developer #it](https://dev.to/swetty_sultania_834f90237/8-response-types-that-instantly-level-up-ux-design-dev-developer-it-1g39)
-- [java-8 Features,Functional Interface,Lambda Expressions](https://dev.to/neelakandan_ravi/java-8-featuresfunctional-interfacelambda-expressions-42c9)
+- [Increasing landing page conversions](https://dev.to/colinedw/increasing-landing-page-conversions-36e9)
+- [The Future of Crowdfunding Open Source Projects with Blockchain](https://dev.to/jennythomas498/the-future-of-crowdfunding-open-source-projects-with-blockchain-4j00)
+- [5 Unconventional Ways I’m Using AI Website Tools &lpar;That They Weren’t Designed For&rpar;](https://dev.to/maximillian_mosegaard_f69/5-unconventional-ways-im-using-ai-website-tools-that-they-werent-designed-for-4266)
+- [Big Data Processing - Case Study 4 &lpar;Spark&rpar;](https://dev.to/mmafrar/big-data-processing-case-study-4-spark-kll)
 <!-- BLOG-POST-LIST:END -->
 
 
