@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Track Chaos Engineering Progress with Steadybit&#39;s New Reporting Feature](https://dev.to/hisummer/track-chaos-engineering-progress-with-steadybits-new-reporting-feature-36me)
-- [The Developer&#39;s Dilemma: Accountability in an AI-Assisted World](https://dev.to/pullflow/the-developers-dilemma-accountability-in-an-ai-assisted-world-5gf4)
-- [Pokedex - 3D Pokémon Viewer: Gotta View &#39;Em All in 3D! ✨](https://dev.to/sudhanshuambastha/pokedex-3d-pokemon-viewer-gotta-view-em-all-in-3d-1fe4)
-- [CSS image stack cycle](https://dev.to/preetha_vaishnavi_2b82358/css-image-stack-cycle-20lj)
+- [Live Streaming From the Amazon Q Developer CLI](https://dev.to/aws/live-streaming-from-the-amazon-q-developer-cli-4phb)
+- [Background gradient moves with mouse](https://dev.to/preetha_vaishnavi_2b82358/background-gradient-moves-with-mouse-4hde)
+- [More Math Algorithms in Python Without Libraries](https://dev.to/ciamuthama/more-math-algorithms-in-python-without-libraries-251i)
+- [Concave rounding: subgrid + SVG filter magic](https://dev.to/preetha_vaishnavi_2b82358/concave-rounding-subgrid-svg-filter-magic-5bl0)
 <!-- BLOG-POST-LIST:END -->
 
 
