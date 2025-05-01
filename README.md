@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From ‘Wrappers’ to world changers: how AI apps outsmarted the model builders](https://dev.to/devlinktips/from-wrappers-to-world-changers-how-ai-apps-outsmarted-the-model-builders-179j)
-- [Why I switched from obsidian: A real developer’s story and what I’m using now](https://dev.to/devlinktips/why-i-switched-from-obsidian-a-real-developers-story-and-what-im-using-now-ndn)
-- [I discovered some docker hacks and it has become part of my life](https://dev.to/pratikpathak/i-discovered-some-docker-hacks-and-it-has-become-part-of-my-life-3e60)
-- [My Journey with WordPress and Webflow](https://dev.to/moeezikram/my-journey-with-wordpress-and-webflow-2afi)
+- [Accelerating Python with Rust: A Practical Guide](https://dev.to/leapcell/accelerating-python-with-rust-a-practical-guide-38gm)
+- [How AI Understands Your Documents: The Secret Sauce of RAG](https://dev.to/mario_s/how-ai-understands-your-documents-the-secret-sauce-of-rag-5cnb)
+- [200 JavaScript Project Ideas to Sharpen Your Skills &lpar;With Source Code Inside!&rpar;](https://dev.to/code_2/200-javascript-project-ideas-to-sharpen-your-skills-with-source-code-inside-518h)
+- [handleExportPdf&lpar;&rpar; in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/handleexportpdf-in-suna-an-open-source-generalist-ai-agent-46e2)
 <!-- BLOG-POST-LIST:END -->
 
 
