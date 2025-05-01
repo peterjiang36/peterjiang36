@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
-- [stimulus](https://dev.to/donnellycarroll/stimulus-249d)
-- [Cracking MySQL Performance: What is Indexing and Why It Matters](https://dev.to/tyagi_data_wizard/cracking-mysql-performance-what-is-indexing-and-why-it-matters-4dlo)
-- [My Reading Journey: Mar-Apr 2025](https://dev.to/ericbl3/my-reading-journey-mar-apr-2025-56d0)
+- [Unix Timestamps and Epoch Time 7/10](https://dev.to/rezmoss/unix-timestamps-and-epoch-time-710-2jd5)
+- [Dia-1.6B One-Click Startup Package, Easily Generate Authentic Dialogue Audio](https://dev.to/localfaceswap/dia-16b-one-click-startup-package-easily-generate-authentic-dialogue-audio-hj4)
+- [Understanding Speech Patterns Across YouTube Content: A Creator&#39;s Guide](https://dev.to/activejack/understanding-speech-patterns-across-youtube-content-a-creators-guide-4nbe)
+- [Here&#39;s Why I&#39;m &lpar;Re&rpar;Building a New Portfolio as a UX Engineer](https://dev.to/d2d_weizhi/heres-why-im-rebuilding-a-new-portfolio-as-a-ux-engineer-f11)
 <!-- BLOG-POST-LIST:END -->
 
 
