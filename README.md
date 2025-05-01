@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Astro](https://dev.to/antithetic/ai-astro-4l73)
-- [🚀 Launch Your Backend Career with My 7-Week Node.js Course!](https://dev.to/fredabod/launch-your-backend-career-with-my-7-week-nodejs-course-1800)
-- [Frustrações escolares em TDAH: Como lidar e superar desafios](https://dev.to/analisestrategist732epsilon/frustracoes-escolares-em-tdah-como-lidar-e-superar-desafios-3bf)
-- [AI Agents Debate: Is a Hot Dog a Sandwich?](https://dev.to/enevoldk/ai-agents-debate-is-a-hot-dog-a-sandwich-453c)
+- [What Keeps Red Hat So Damn Solid? Spoiler: It’s Not Luck, It’s Ruthless Kernel Engineering!](https://dev.to/dtemi/what-keeps-red-hat-so-damn-solid-spoiler-its-not-luck-its-ruthless-kernel-engineering-42h6)
+- [What Makes a Good Developer and What Company Communication Has to Do With It](https://dev.to/kein1945/what-makes-a-good-developer-and-what-company-communication-has-to-do-with-it-3913)
+- [This is hilarious and disturbingly relatable.](https://dev.to/tobylokii/this-is-hilarious-and-disturbingly-relatable-2h0)
+- [Process Management in Red Hat Linux](https://dev.to/shamain_anjum/process-management-in-red-hat-linux-okn)
 <!-- BLOG-POST-LIST:END -->
 
 
