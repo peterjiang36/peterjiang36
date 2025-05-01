@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [File System Access API for Local File Management](https://dev.to/omriluz1/file-system-access-api-for-local-file-management-533o)
-- [HRMS+AI Bot](https://dev.to/etop_software_088f26bea05/hrmsai-bot-4l78)
-- [The Effortless 10-Step Routine for Glowing Skin=](https://dev.to/fitandhealty_world_47bdd1/the-effortless-10-step-routine-for-glowing-skin-42h6)
-- [Discover how PixelCascade leverages AWS fanout architecture for scalable, serverless image processing. Automate tasks like resizing, formatting &amp; metadata extraction! 🚀 Check out the full guide and architecture insights now!](https://dev.to/dandipangestu/discover-how-pixelcascade-leverages-aws-fanout-architecture-for-scalable-serverless-image-4d4l)
+- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
+- [DevLog #1: Cat O&#39;Nine Tales](https://dev.to/dungeoncrawlsoft/devlog-1-cat-onine-tales-50h7)
+- [6 Ways Data Analytics Powers Smarter Manufacturing](https://dev.to/priyansh_shah_786ec03624e/6-ways-data-analytics-powers-smarter-manufacturing-2e6m)
+- [Integrating AI with Flutter: Creating AI Services with LlmServer and mcp_server](https://dev.to/mcp_devstudio/integrating-ai-with-flutter-creating-ai-services-with-llmserver-and-mcpserver-5084)
 <!-- BLOG-POST-LIST:END -->
 
 
