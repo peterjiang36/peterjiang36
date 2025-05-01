@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Python with Rust: A Practical Guide](https://dev.to/leapcell/accelerating-python-with-rust-a-practical-guide-38gm)
-- [How AI Understands Your Documents: The Secret Sauce of RAG](https://dev.to/mario_s/how-ai-understands-your-documents-the-secret-sauce-of-rag-5cnb)
-- [200 JavaScript Project Ideas to Sharpen Your Skills &lpar;With Source Code Inside!&rpar;](https://dev.to/code_2/200-javascript-project-ideas-to-sharpen-your-skills-with-source-code-inside-518h)
-- [handleExportPdf&lpar;&rpar; in Suna, an open source generalist AI agent.](https://dev.to/ramunarasinga-11/handleexportpdf-in-suna-an-open-source-generalist-ai-agent-46e2)
+- [Scaling ReactJS Applications Effortlessly: A Practical Guide](https://dev.to/brilworks/scaling-reactjs-applications-effortlessly-a-practical-guide-52f0)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-pmc)
+- [🧠 8 Response Types That Instantly Level Up UX! #design #dev #developer #it](https://dev.to/swetty_sultania_834f90237/8-response-types-that-instantly-level-up-ux-design-dev-developer-it-1g39)
+- [java-8 Features,Functional Interface,Lambda Expressions](https://dev.to/neelakandan_ravi/java-8-featuresfunctional-interfacelambda-expressions-42c9)
 <!-- BLOG-POST-LIST:END -->
 
 
