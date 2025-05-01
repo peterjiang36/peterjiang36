@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unix Timestamps and Epoch Time 7/10](https://dev.to/rezmoss/unix-timestamps-and-epoch-time-710-2jd5)
-- [Dia-1.6B One-Click Startup Package, Easily Generate Authentic Dialogue Audio](https://dev.to/localfaceswap/dia-16b-one-click-startup-package-easily-generate-authentic-dialogue-audio-hj4)
-- [Understanding Speech Patterns Across YouTube Content: A Creator&#39;s Guide](https://dev.to/activejack/understanding-speech-patterns-across-youtube-content-a-creators-guide-4nbe)
-- [Here&#39;s Why I&#39;m &lpar;Re&rpar;Building a New Portfolio as a UX Engineer](https://dev.to/d2d_weizhi/heres-why-im-rebuilding-a-new-portfolio-as-a-ux-engineer-f11)
+- [Serverless Event Sourcing with AWS Lambda and DynamoDB: Implementing CQRS for Scalable, Fault-Tolerant APIs](https://dev.to/hexshift/serverless-event-sourcing-with-aws-lambda-and-dynamodb-implementing-cqrs-for-scalable-2f2l)
+- [Using SQLite in the Browser with WebAssembly and React &lpar;Local-First Apps with No Backend&rpar;](https://dev.to/hexshift/using-sqlite-in-the-browser-with-webassembly-and-react-local-first-apps-with-no-backend-5183)
+- [40 Free HTML landing page templates](https://dev.to/maria_quijano_9b36cd3003c/40-free-html-landing-page-templates-8me)
+- [Bundle MCP Server into VS Code extension](https://dev.to/formulahendry/bundle-mcp-server-into-vs-code-extension-3lii)
 <!-- BLOG-POST-LIST:END -->
 
 
