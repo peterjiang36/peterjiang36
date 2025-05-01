@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Increasing landing page conversions](https://dev.to/colinedw/increasing-landing-page-conversions-36e9)
-- [The Future of Crowdfunding Open Source Projects with Blockchain](https://dev.to/jennythomas498/the-future-of-crowdfunding-open-source-projects-with-blockchain-4j00)
-- [5 Unconventional Ways I’m Using AI Website Tools &lpar;That They Weren’t Designed For&rpar;](https://dev.to/maximillian_mosegaard_f69/5-unconventional-ways-im-using-ai-website-tools-that-they-werent-designed-for-4266)
-- [Big Data Processing - Case Study 4 &lpar;Spark&rpar;](https://dev.to/mmafrar/big-data-processing-case-study-4-spark-kll)
+- [PostgreSQL CASE: Conditional Logic for Powerful SQL Queries](https://dev.to/dbvismarketing/postgresql-case-conditional-logic-for-powerful-sql-queries-4nci)
+- [How to Compile C++ Code Online Without Installing Anything](https://dev.to/tpointech/how-to-compile-c-code-online-without-installing-anything-2497)
+- [IoT Security Risks and How to Protect Your Devices](https://dev.to/renaissance_9daeacf8a183c/iot-security-risks-and-how-to-protect-your-devices-2c74)
+- [¿Cómo llamar a Iberia Chile teléfono y obtener ayuda rápida?](https://dev.to/eytueiyr/como-llamar-a-iberia-chile-telefono-y-obtener-ayuda-rapida-2lil)
 <!-- BLOG-POST-LIST:END -->
 
 
