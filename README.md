@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Live Streaming From the Amazon Q Developer CLI](https://dev.to/aws/live-streaming-from-the-amazon-q-developer-cli-4phb)
-- [Background gradient moves with mouse](https://dev.to/preetha_vaishnavi_2b82358/background-gradient-moves-with-mouse-4hde)
-- [More Math Algorithms in Python Without Libraries](https://dev.to/ciamuthama/more-math-algorithms-in-python-without-libraries-251i)
-- [Concave rounding: subgrid + SVG filter magic](https://dev.to/preetha_vaishnavi_2b82358/concave-rounding-subgrid-svg-filter-magic-5bl0)
+- [How to deploy React apps to GitHub Pages](https://dev.to/logrocket/how-to-deploy-react-apps-to-github-pages-2db8)
+- [How to Customize Termux with Tstyle: Change Fonts &amp; Themes Easily](https://dev.to/terminaltools/how-to-customize-termux-with-tstyle-change-fonts-themes-easily-1gep)
+- [How to Implement a D3.js Force-directed Graph in 2025?](https://dev.to/nigelsilonero/how-to-implement-a-d3js-force-directed-graph-in-2025-5cl1)
+- [Master WiFi Penetration Testing with Termux: A Comprehensive Guide](https://dev.to/terminaltools/master-wifi-penetration-testing-with-termux-a-comprehensive-guide-4858)
 <!-- BLOG-POST-LIST:END -->
 
 
