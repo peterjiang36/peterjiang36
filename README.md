@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🍔 Navbar: A Deliciously Simple Wasmy Navbar](https://dev.to/wiseai/navbar-a-deliciously-simple-wasmy-navbar-component-5gmk)
-- [Prevent XXE Injection in Symfony Framework](https://dev.to/pentest_testing_corp/prevent-xxe-injection-in-symfony-framework-415g)
-- [What happens when you type gcc main.c](https://dev.to/aboahmd/what-happens-when-you-type-gcc-mainc-h17)
-- [[Boost]](https://dev.to/mahdijazini/-2686)
+- [Multiplayer VR Development using Unity XR Interaction Toolkit and Photon Fusion 2](https://dev.to/niraj_gaming/multiplayer-vr-development-using-unity-xr-interaction-toolkit-and-photon-fusion-2-dnb)
+- [Scripting Series – Part 3 of 7](https://dev.to/alexenson/scripting-series-part-3-of-7-4jjf)
+- [RAG - Retrieval-Augmented Generation, Making AI Smarter](https://dev.to/pawarjay19/rag-retrieval-augmented-generation-making-ai-smarter-mb1)
+- [Building Strong Connections: A Beginner&#39;s Guide to Setting Up Virtual Networks and Peering in Azure](https://dev.to/chinonso_ukadike/building-strong-connections-a-beginners-guide-to-setting-up-virtual-networks-and-peering-in-azure-2boi)
 <!-- BLOG-POST-LIST:END -->
 
 
