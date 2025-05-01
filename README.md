@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Meeting-Centric Tools Fail at Async Work](https://dev.to/rally_for_jira/why-meeting-centric-tools-fail-at-async-work-mic)
-- [A Arte da Simplicidade no Desenvolvimento de Software: DRY, KISS, YAGNI e TDA](https://dev.to/diegobrandao/a-arte-da-simplicidade-no-desenvolvimento-de-software-dry-kiss-yagni-e-tda-aak)
-- [Blockchain&#39;s Role in Enhancing Open Source Transparency](https://dev.to/zhangwei42/blockchains-role-in-enhancing-open-source-transparency-2m3b)
-- [Building a Simple TCP Client in C: A Ground-Up Networking Exercise](https://dev.to/akashnanistar/building-a-simple-tcp-client-in-c-a-ground-up-networking-exercise-111a)
+- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
+- [stimulus](https://dev.to/donnellycarroll/stimulus-249d)
+- [Cracking MySQL Performance: What is Indexing and Why It Matters](https://dev.to/tyagi_data_wizard/cracking-mysql-performance-what-is-indexing-and-why-it-matters-4dlo)
+- [My Reading Journey: Mar-Apr 2025](https://dev.to/ericbl3/my-reading-journey-mar-apr-2025-56d0)
 <!-- BLOG-POST-LIST:END -->
 
 
