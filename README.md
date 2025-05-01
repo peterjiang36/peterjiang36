@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain4J musings, six months after](https://dev.to/nfrankel/langchain4j-musings-six-months-after-3017)
-- [DevLog #1: Cat O&#39;Nine Tales](https://dev.to/dungeoncrawlsoft/devlog-1-cat-onine-tales-50h7)
-- [6 Ways Data Analytics Powers Smarter Manufacturing](https://dev.to/priyansh_shah_786ec03624e/6-ways-data-analytics-powers-smarter-manufacturing-2e6m)
-- [Integrating AI with Flutter: Creating AI Services with LlmServer and mcp_server](https://dev.to/mcp_devstudio/integrating-ai-with-flutter-creating-ai-services-with-llmserver-and-mcpserver-5084)
+- [🍔 Navbar: A Deliciously Simple Wasmy Navbar](https://dev.to/wiseai/navbar-a-deliciously-simple-wasmy-navbar-component-5gmk)
+- [Prevent XXE Injection in Symfony Framework](https://dev.to/pentest_testing_corp/prevent-xxe-injection-in-symfony-framework-415g)
+- [What happens when you type gcc main.c](https://dev.to/aboahmd/what-happens-when-you-type-gcc-mainc-h17)
+- [[Boost]](https://dev.to/mahdijazini/-2686)
 <!-- BLOG-POST-LIST:END -->
 
 
