@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Event Sourcing with AWS Lambda and DynamoDB: Implementing CQRS for Scalable, Fault-Tolerant APIs](https://dev.to/hexshift/serverless-event-sourcing-with-aws-lambda-and-dynamodb-implementing-cqrs-for-scalable-2f2l)
-- [Using SQLite in the Browser with WebAssembly and React &lpar;Local-First Apps with No Backend&rpar;](https://dev.to/hexshift/using-sqlite-in-the-browser-with-webassembly-and-react-local-first-apps-with-no-backend-5183)
-- [40 Free HTML landing page templates](https://dev.to/maria_quijano_9b36cd3003c/40-free-html-landing-page-templates-8me)
-- [Bundle MCP Server into VS Code extension](https://dev.to/formulahendry/bundle-mcp-server-into-vs-code-extension-3lii)
+- [From ‘Wrappers’ to world changers: how AI apps outsmarted the model builders](https://dev.to/devlinktips/from-wrappers-to-world-changers-how-ai-apps-outsmarted-the-model-builders-179j)
+- [Why I switched from obsidian: A real developer’s story and what I’m using now](https://dev.to/devlinktips/why-i-switched-from-obsidian-a-real-developers-story-and-what-im-using-now-ndn)
+- [I discovered some docker hacks and it has become part of my life](https://dev.to/pratikpathak/i-discovered-some-docker-hacks-and-it-has-become-part-of-my-life-3e60)
+- [My Journey with WordPress and Webflow](https://dev.to/moeezikram/my-journey-with-wordpress-and-webflow-2afi)
 <!-- BLOG-POST-LIST:END -->
 
 
