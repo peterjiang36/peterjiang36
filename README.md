@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Keeps Red Hat So Damn Solid? Spoiler: It’s Not Luck, It’s Ruthless Kernel Engineering!](https://dev.to/dtemi/what-keeps-red-hat-so-damn-solid-spoiler-its-not-luck-its-ruthless-kernel-engineering-42h6)
-- [What Makes a Good Developer and What Company Communication Has to Do With It](https://dev.to/kein1945/what-makes-a-good-developer-and-what-company-communication-has-to-do-with-it-3913)
-- [This is hilarious and disturbingly relatable.](https://dev.to/tobylokii/this-is-hilarious-and-disturbingly-relatable-2h0)
-- [Process Management in Red Hat Linux](https://dev.to/shamain_anjum/process-management-in-red-hat-linux-okn)
+- [Chapter 4: Writing Better Product Specs](https://dev.to/taskframe/chapter-4-writing-better-product-specs-bm1)
+- [Bridging the MVP-to-Production Gap with ChatOps](https://dev.to/alexthh/bridging-the-mvp-to-production-gap-with-chatops-5ac3)
+- [Realistic DOT AMBER LIGHTBAR](https://dev.to/alex_9665d25784cbffcce7e9/realistic-dot-amber-lightbar-53fh)
+- [Show Additional Calendars in the Taskbar on Windows 11](https://dev.to/winsides/show-additional-calendars-in-the-taskbar-on-windows-11-32im)
 <!-- BLOG-POST-LIST:END -->
 
 
