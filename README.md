@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Motiono - A React Animation Library Powered by GSAP](https://dev.to/codervai/motiono-a-react-animation-library-powered-by-gsap-488a)
-- [&quot;Unleashing Creativity: How AI Sparks Innovation in Bootstrapped Startups&quot;](https://dev.to/dibborah100/unleashing-creativity-how-ai-sparks-innovation-in-bootstrapped-startups-3bg7)
-- [A Guide to Setting Up Local HTTPS Portals with Docker](https://dev.to/medrix/a-guide-to-setting-up-local-https-portals-with-docker-1aj9)
-- [Day 153/365 [Learning Full Stack]](https://dev.to/munin-1/day-153365-learning-full-stack-1ehn)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
+- [🚀 Python Async Basics: Write Faster Code with Less Stress](https://dev.to/aleksei_aleinikov/python-async-basics-write-faster-code-with-less-stress-260b)
+- [🚀 When and How to Use React.memo Effectively](https://dev.to/aleksei_aleinikov/when-and-how-to-use-reactmemo-effectively-3ki5)
+- [🚀 Switching from Node + Express to Hono + Bun and I’m not looking back.](https://dev.to/thisisarkajitroy/switching-from-node-express-to-hono-bun-and-im-not-looking-back-2ofb)
 <!-- BLOG-POST-LIST:END -->
 
 
