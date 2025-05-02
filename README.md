@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ralphsebastian/-3c2h)
-- [Asynchronous Handlers in Brighter](https://dev.to/actor-dev/asynchronous-handlers-in-brighter-16j4)
-- [Brighter: Handler Assíncronos](https://dev.to/actor-dev/brighter-async-2cch)
-- [The Yoga of Image Generation – Part 2](https://dev.to/worldlinetech/the-yoga-of-image-generation-part-2-42c)
+- [How to start your journey in Open Source using the example of a small Go project](https://dev.to/pashkov256/how-to-start-your-journey-in-open-source-using-the-example-of-a-small-go-project-1e5j)
+- [Angular](https://dev.to/gaurangdhorda/angular-3mj7)
+- [Integrating authorization in a Spring Boot API](https://dev.to/authaction/integrating-authorization-in-a-spring-boot-api-3151)
+- [Implementing a Modular Kargo Promotion Workflow: Extracting PromotionTask from Stage for Maintainability](https://dev.to/josephcc/implementing-a-modular-kargo-promotion-workflow-extracting-promotiontask-from-stage-for-4npi)
 <!-- BLOG-POST-LIST:END -->
 
 
