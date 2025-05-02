@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save Time &amp; Money on Translation &lpar;for Organizations&rpar;](https://dev.to/elenahartmann/how-to-save-time-money-on-translation-for-organizations-44h7)
-- [💣 C++ for Beginners: Smart Choice or a Ticking Time Bomb?](https://dev.to/cryptosandy/c-for-beginners-smart-choice-or-a-ticking-time-bomb-18fa)
-- [What is the Lexical Editor?](https://dev.to/kouta222/what-is-the-lexical-editor-1o6k)
-- [Docker Notes](https://dev.to/atharvsingh/docker-notes-f1o)
+- [Kubernetes 1.32: Real-World Use Cases &amp; Examples](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-132-real-world-use-cases-examples-4227)
+- [Peer Review 3: France Data Engineering Job Market Transformations, Visualization, and Feedback &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-3-france-data-engineering-job-market-transformations-visualization-and-feedback-3ahl)
+- [A2A Python Tutorial - Comprehensive Guide](https://dev.to/czmilo/a2a-python-tutorial-comprehensive-guide-5c9k)
+- [🚀 upup – a drop-in React uploader for AWS S3, DigitalOcean, Backblaze, GCP &amp; Azure w/ GDrive and OneDrive user integration!](https://dev.to/amindhou/upup-a-drop-in-react-uploader-for-aws-s3-digitalocean-backblaze-gcp-azure-w-gdrive-and-3a4l)
 <!-- BLOG-POST-LIST:END -->
 
 
