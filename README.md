@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 1.32: Real-World Use Cases &amp; Examples](https://dev.to/rajeev_3ce9f280cbae73b234/kubernetes-132-real-world-use-cases-examples-4227)
-- [Peer Review 3: France Data Engineering Job Market Transformations, Visualization, and Feedback &lpar;Part 2&rpar;](https://dev.to/pizofreude/peer-review-3-france-data-engineering-job-market-transformations-visualization-and-feedback-3ahl)
-- [A2A Python Tutorial - Comprehensive Guide](https://dev.to/czmilo/a2a-python-tutorial-comprehensive-guide-5c9k)
-- [🚀 upup – a drop-in React uploader for AWS S3, DigitalOcean, Backblaze, GCP &amp; Azure w/ GDrive and OneDrive user integration!](https://dev.to/amindhou/upup-a-drop-in-react-uploader-for-aws-s3-digitalocean-backblaze-gcp-azure-w-gdrive-and-3a4l)
+- [Project of the Week: Prisma](https://dev.to/riyanapatel/project-of-the-week-prisma-272m)
+- [Welcome to the Vibeconomy](https://dev.to/clubbrb/welcome-to-the-vibeconomy-3ik6)
+- [Demystifying Entity Transaction &amp; Flush in Spring Boot: Are You Using It Right?](https://dev.to/thiago_souza_1510/demystifying-entity-transaction-flush-in-spring-boot-are-you-using-it-right-4bc8)
+- [I Thought I Had It All Figured Out... Until I Didn&#39;t](https://dev.to/rodrigoeloyc/i-thought-i-had-it-all-figured-out-until-i-didnt-476k)
 <!-- BLOG-POST-LIST:END -->
 
 
