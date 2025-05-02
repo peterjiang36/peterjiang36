@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Makes Realistic Videos With Physics: ReVision Cuts Processing 70%](https://dev.to/aimodels-fyi/ai-makes-realistic-videos-with-physics-revision-cuts-processing-70-5h1n)
-- [WebThinker AI: Deep Research Powers Reasoning Models](https://dev.to/aimodels-fyi/webthinker-ai-deep-research-powers-reasoning-models-1adh)
-- [LLMs Forge Training Data: Boost Retrieval Without Real Datasets!](https://dev.to/aimodels-fyi/llms-forge-training-data-boost-retrieval-without-real-datasets-313i)
-- [DeepCritic: LLMs Deliver Better AI Feedback Via Multi-Step Critique](https://dev.to/aimodels-fyi/deepcritic-llms-deliver-better-ai-feedback-via-multi-step-critique-5bej)
+- [3.4 Stronger Security Notions &lpar;Introduction to Modern Cryptography Jonathan Katz and Yehuda Lindell&rpar;](https://dev.to/dima853/34-stronger-security-notions-introduction-to-modern-cryptography-jonathan-katz-and-yehuda-lindell-35d5)
+- [Introduction to Data Engineering Concepts |3| ETL vs ELT – Understanding Data Pipelines](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-3-etl-vs-elt-understanding-data-pipelines-1g6d)
+- [AI Runner: OpenSource desktop app for AI models](https://dev.to/w4ffl35/ai-runner-opensource-desktop-app-for-ai-models-4lj7)
+- [Scope of React](https://dev.to/gariglow/scope-of-react-10ko)
 <!-- BLOG-POST-LIST:END -->
 
 
