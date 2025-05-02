@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cognito Authentication with Golang](https://dev.to/arcadebuilds/aws-cognito-authentication-with-golang-me5)
-- [Exploring Elon Musk’s Fascination with NFTs and Influence on Open Source Software: A Technological Odyssey](https://dev.to/bobcars/exploring-elon-musks-fascination-with-nfts-and-influence-on-open-source-software-a-technological-5f1o)
-- [How does Java ensure enterprise application scalability?](https://dev.to/shriyansh_iot_98734929139/how-does-java-ensure-enterprise-application-scalability-5d0e)
-- [Fail-Safe Feature Flags: Offline-First Evaluation with Fallbacks in JavaScript](https://dev.to/hexshift/feature-flag-engineering-like-a-pro-from-js-expressions-to-global-rollouts-pmc)
+- [Motiono - A React Animation Library Powered by GSAP](https://dev.to/codervai/motiono-a-react-animation-library-powered-by-gsap-488a)
+- [&quot;Unleashing Creativity: How AI Sparks Innovation in Bootstrapped Startups&quot;](https://dev.to/dibborah100/unleashing-creativity-how-ai-sparks-innovation-in-bootstrapped-startups-3bg7)
+- [A Guide to Setting Up Local HTTPS Portals with Docker](https://dev.to/medrix/a-guide-to-setting-up-local-https-portals-with-docker-1aj9)
+- [Day 153/365 [Learning Full Stack]](https://dev.to/munin-1/day-153365-learning-full-stack-1ehn)
 <!-- BLOG-POST-LIST:END -->
 
 
