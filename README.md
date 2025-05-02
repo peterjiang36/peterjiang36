@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-5h5i)
-- [🚀 Python Async Basics: Write Faster Code with Less Stress](https://dev.to/aleksei_aleinikov/python-async-basics-write-faster-code-with-less-stress-260b)
-- [🚀 When and How to Use React.memo Effectively](https://dev.to/aleksei_aleinikov/when-and-how-to-use-reactmemo-effectively-3ki5)
-- [🚀 Switching from Node + Express to Hono + Bun and I’m not looking back.](https://dev.to/thisisarkajitroy/switching-from-node-express-to-hono-bun-and-im-not-looking-back-2ofb)
+- [Why Web Dev Is the Easiest Way Into Tech &lpar;2025&rpar;](https://dev.to/aleksei_aleinikov/why-web-dev-is-the-easiest-way-into-tech-2025-51fa)
+- [complete beginner-friendly step-by-step guide to installing and running a React Native](https://dev.to/swapnil_ahmmedshishir_2d/complete-beginner-friendly-step-by-step-guide-to-installing-and-running-a-react-native-37nk)
+- [Cloud Deployment Checklist: Tools, Automation, and Best Practices](https://dev.to/kuberns_cloud/cloud-deployment-checklist-tools-automation-and-best-practices-3doc)
+- [When Simple Widgets Go Wild: Keeping Front-End Code Clean &lpar;2025&rpar;](https://dev.to/aleksei_aleinikov/when-simple-widgets-go-wild-keeping-front-end-code-clean-2025-1ili)
 <!-- BLOG-POST-LIST:END -->
 
 
