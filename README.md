@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-33dc)
-- [How to Block Requests with Puppeteer](https://dev.to/geiger01/how-to-block-requests-with-puppeteer-8de)
-- [Understanding and Navigating the Risks of Forking Open-Source Projects: Strategies for Sustainable Development](https://dev.to/bobcars/understanding-and-navigating-the-risks-of-forking-open-source-projects-strategies-for-sustainable-4hnp)
-- [Create a typography component with variants with Astro JS and Tailwind CSS](https://dev.to/mike_andreuzza/create-a-typography-component-with-variants-with-astro-js-and-tailwind-css-9ll)
+- [How to Save Time &amp; Money on Translation &lpar;for Organizations&rpar;](https://dev.to/elenahartmann/how-to-save-time-money-on-translation-for-organizations-44h7)
+- [💣 C++ for Beginners: Smart Choice or a Ticking Time Bomb?](https://dev.to/cryptosandy/c-for-beginners-smart-choice-or-a-ticking-time-bomb-18fa)
+- [What is the Lexical Editor?](https://dev.to/kouta222/what-is-the-lexical-editor-1o6k)
+- [Docker Notes](https://dev.to/atharvsingh/docker-notes-f1o)
 <!-- BLOG-POST-LIST:END -->
 
 
