@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3.4 Stronger Security Notions &lpar;Introduction to Modern Cryptography Jonathan Katz and Yehuda Lindell&rpar;](https://dev.to/dima853/34-stronger-security-notions-introduction-to-modern-cryptography-jonathan-katz-and-yehuda-lindell-35d5)
-- [Introduction to Data Engineering Concepts |3| ETL vs ELT – Understanding Data Pipelines](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-3-etl-vs-elt-understanding-data-pipelines-1g6d)
-- [AI Runner: OpenSource desktop app for AI models](https://dev.to/w4ffl35/ai-runner-opensource-desktop-app-for-ai-models-4lj7)
-- [Scope of React](https://dev.to/gariglow/scope-of-react-10ko)
+- [AI Killed Your Competitive Edge. Here&#39;s What Will Save It.](https://dev.to/shayy/ai-killed-your-competitive-edge-heres-what-will-save-it-2gje)
+- [Haber Gezgini İncelemesi: Abdulkadir Güngör&#39;ün Dijital İmzası – Bir Web Tasarım ve Geliştirme Uzmanının Kapsamlı Portalı](https://dev.to/abdulkadir_gungor/haber-gezgini-incelemesi-abdulkadir-gungorun-dijital-imzasi-bir-web-tasarim-ve-gelistirme-2ff3)
+- [Derive TypeScript Types from Mongoose Schemas 🌿](https://dev.to/silentwatcher_95/derive-typescript-types-from-mongoose-schemas-4323)
+- [Introduction to Data Engineering Concepts |5| Streaming Data Fundamentals](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-5-streaming-data-fundamentals-1i0f)
 <!-- BLOG-POST-LIST:END -->
 
 
