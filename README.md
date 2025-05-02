@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Killed Your Competitive Edge. Here&#39;s What Will Save It.](https://dev.to/shayy/ai-killed-your-competitive-edge-heres-what-will-save-it-2gje)
-- [Haber Gezgini İncelemesi: Abdulkadir Güngör&#39;ün Dijital İmzası – Bir Web Tasarım ve Geliştirme Uzmanının Kapsamlı Portalı](https://dev.to/abdulkadir_gungor/haber-gezgini-incelemesi-abdulkadir-gungorun-dijital-imzasi-bir-web-tasarim-ve-gelistirme-2ff3)
-- [Derive TypeScript Types from Mongoose Schemas 🌿](https://dev.to/silentwatcher_95/derive-typescript-types-from-mongoose-schemas-4323)
-- [Introduction to Data Engineering Concepts |5| Streaming Data Fundamentals](https://dev.to/alexmercedcoder/introduction-to-data-engineering-concepts-5-streaming-data-fundamentals-1i0f)
+- [Play Arcade Games and Learn How to Code Them](https://dev.to/seralto/play-arcade-games-and-learn-how-to-code-them-58la)
+- [The Complete Guide to Kubernetes Add-ons: Categories, Use Cases, and Emerging Trends](https://dev.to/simone_morellato/the-complete-guide-to-kubernetes-add-ons-categories-use-cases-and-emerging-trends-2n6)
+- [Test It Like You Mean It: Generate Charts &amp; PDFs from Your Test Reports](https://dev.to/lovestaco/test-it-like-you-mean-it-generate-charts-pdfs-from-your-test-reports-1pbj)
+- [Step-by-Step Guide to Building a Video Conference App with ZEGOCLOUD Video Conference Kit](https://dev.to/roozer_grom_b659e0c7acc0c/step-by-step-guide-to-building-a-video-conference-app-with-zegocloud-video-conference-kit-28hf)
 <!-- BLOG-POST-LIST:END -->
 
 
