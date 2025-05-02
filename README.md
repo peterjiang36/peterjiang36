@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Interview Guide tailored for backend developers, ranging from beginner to advanced levels](https://dev.to/devcorner/nodejs-interview-guide-tailored-for-backend-developers-ranging-from-beginner-to-advanced-levels-4m0h)
-- [NEW post trying](https://dev.to/sudharshan/new-post-trying-4nbo)
-- [Scripting Series – Part 4 of 8](https://dev.to/alexenson/scripting-series-part-4-of-7-4727)
-- [Mulai dari mana?](https://dev.to/panditosp/mulai-dari-mana-40ma)
+- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-33dc)
+- [How to Block Requests with Puppeteer](https://dev.to/geiger01/how-to-block-requests-with-puppeteer-8de)
+- [Understanding and Navigating the Risks of Forking Open-Source Projects: Strategies for Sustainable Development](https://dev.to/bobcars/understanding-and-navigating-the-risks-of-forking-open-source-projects-strategies-for-sustainable-4hnp)
+- [Create a typography component with variants with Astro JS and Tailwind CSS](https://dev.to/mike_andreuzza/create-a-typography-component-with-variants-with-astro-js-and-tailwind-css-9ll)
 <!-- BLOG-POST-LIST:END -->
 
 
