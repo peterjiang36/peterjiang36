@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Nutrition Tracker App Using the Foodie API](https://dev.to/martintonev/how-to-build-a-nutrition-tracker-app-using-the-foodie-api-10hh)
-- [Daily JavaScript Challenge #JS-167: Calculate the Maximum Depth of Nested Parentheses in a String](https://dev.to/dpc/daily-javascript-challenge-js-167-calculate-the-maximum-depth-of-nested-parentheses-in-a-string-3lfe)
-- [Reactive Statistics in Angular 19: Signals, Effects, and Smart Control Flow](https://dev.to/cristiansifuentes/reactive-statistics-in-angular-19-signals-effects-and-smart-control-flow-4gdm)
-- [Web Performansını İyileştirme: Temel Stratejiler](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestirme-temel-stratejiler-2dk8)
+- [Can someone help or guide me on how to implement a chatbot on my website?](https://dev.to/pedro_a6f4059a2df3c6d57ba/can-someone-help-or-guide-me-on-how-to-implement-a-chatbot-on-my-website-4je8)
+- [How to Use GPU Acceleration in PyTorch in 2025?](https://dev.to/rociogarciavf/how-to-use-gpu-acceleration-in-pytorch-in-2025-3i7k)
+- [Web Sayfanız Uçsun: Performans Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/web-sayfaniz-ucsun-performans-optimizasyonu-cjm)
+- [How to Create a Linux Virtual Machine in Azure Portal and Install Nginx](https://dev.to/habeeb_hameed_0753445424a/how-to-create-a-linux-virtual-machine-in-azure-portal-and-install-nginx-1cmd)
 <!-- BLOG-POST-LIST:END -->
 
 
