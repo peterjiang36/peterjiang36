@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My slides from Manchester DM - How eCommerce Faceted Navigation can either Supercharge or Sabotage SEO](https://dev.to/chrisleverseo/my-slides-from-manchester-dm-how-ecommerce-faceted-navigation-can-either-supercharge-or-sabotage-30ji)
-- [Ethical Funding Methods: Navigating the Path to Responsible Financing](https://dev.to/ahmmrizv9/ethical-funding-methods-navigating-the-path-to-responsible-financing-1pc0)
-- [Doing TDD improved my DevExp](https://dev.to/lucasbrogni1/doing-tdd-improved-my-devexp-3lhi)
-- [✂️ From 2500+ to 10+ Lines: Automated Modular Code Refactor 🤖](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)
+- [Node.js Interview Guide tailored for backend developers, ranging from beginner to advanced levels](https://dev.to/devcorner/nodejs-interview-guide-tailored-for-backend-developers-ranging-from-beginner-to-advanced-levels-4m0h)
+- [NEW post trying](https://dev.to/sudharshan/new-post-trying-4nbo)
+- [Scripting Series – Part 4 of 8](https://dev.to/alexenson/scripting-series-part-4-of-7-4727)
+- [Mulai dari mana?](https://dev.to/panditosp/mulai-dari-mana-40ma)
 <!-- BLOG-POST-LIST:END -->
 
 
