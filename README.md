@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Prisma](https://dev.to/riyanapatel/project-of-the-week-prisma-272m)
-- [Welcome to the Vibeconomy](https://dev.to/clubbrb/welcome-to-the-vibeconomy-3ik6)
-- [Demystifying Entity Transaction &amp; Flush in Spring Boot: Are You Using It Right?](https://dev.to/thiago_souza_1510/demystifying-entity-transaction-flush-in-spring-boot-are-you-using-it-right-4bc8)
-- [I Thought I Had It All Figured Out... Until I Didn&#39;t](https://dev.to/rodrigoeloyc/i-thought-i-had-it-all-figured-out-until-i-didnt-476k)
+- [AI Makes Realistic Videos With Physics: ReVision Cuts Processing 70%](https://dev.to/aimodels-fyi/ai-makes-realistic-videos-with-physics-revision-cuts-processing-70-5h1n)
+- [WebThinker AI: Deep Research Powers Reasoning Models](https://dev.to/aimodels-fyi/webthinker-ai-deep-research-powers-reasoning-models-1adh)
+- [LLMs Forge Training Data: Boost Retrieval Without Real Datasets!](https://dev.to/aimodels-fyi/llms-forge-training-data-boost-retrieval-without-real-datasets-313i)
+- [DeepCritic: LLMs Deliver Better AI Feedback Via Multi-Step Critique](https://dev.to/aimodels-fyi/deepcritic-llms-deliver-better-ai-feedback-via-multi-step-critique-5bej)
 <!-- BLOG-POST-LIST:END -->
 
 
