@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Leadership Playbook](https://dev.to/adityasatrio/my-leadership-playbook-imn)
-- [Top 7 Golden Rules for UX Design Success! Design isn&#39;t just decoration—it&#39;s communication. #UXDesign #UIDesign](https://dev.to/swetty_sultania_834f90237/top-7-golden-rules-for-ux-design-success-design-isnt-just-decoration-its-communication-26c1)
-- [Top 10 SSL/TLS Setup Mistakes and How to Correct Them](https://dev.to/edenallen/top-10-ssltls-setup-mistakes-and-how-to-correct-them-4808)
-- [Thick Skin, Open Mind: How to Take Hits Without Shutting Down](https://dev.to/duplessisvanaswegen/thick-skin-open-mind-how-to-take-hits-without-shutting-down-4kg3)
+- [ES Modules and CommonJS Modules Explained](https://dev.to/artem_turlenko/es-modules-and-commonjs-modules-explained-4gm)
+- [The 10 Things to Consider Before Creating Your Own Cryptocurrency](https://dev.to/hexshift/the-10-things-to-consider-before-creating-your-own-cryptocurrency-2f5h)
+- [My Favorite 10 JavaScript One-Liners That Save Time Daily](https://dev.to/shaahzaibrehman/my-favorite-10-javascript-one-liners-that-save-time-daily-2ll2)
+- [Leetcode - 129. Sum Root to Leaf Numbers](https://dev.to/rakeshreddy512/leetcode-129-sum-root-to-leaf-numbers-mne)
 <!-- BLOG-POST-LIST:END -->
 
 
