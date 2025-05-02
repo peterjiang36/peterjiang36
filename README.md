@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ES Modules and CommonJS Modules Explained](https://dev.to/artem_turlenko/es-modules-and-commonjs-modules-explained-4gm)
-- [The 10 Things to Consider Before Creating Your Own Cryptocurrency](https://dev.to/hexshift/the-10-things-to-consider-before-creating-your-own-cryptocurrency-2f5h)
-- [My Favorite 10 JavaScript One-Liners That Save Time Daily](https://dev.to/shaahzaibrehman/my-favorite-10-javascript-one-liners-that-save-time-daily-2ll2)
-- [Leetcode - 129. Sum Root to Leaf Numbers](https://dev.to/rakeshreddy512/leetcode-129-sum-root-to-leaf-numbers-mne)
+- [[Boost]](https://dev.to/ralphsebastian/-3c2h)
+- [Asynchronous Handlers in Brighter](https://dev.to/actor-dev/asynchronous-handlers-in-brighter-16j4)
+- [Brighter: Handler Assíncronos](https://dev.to/actor-dev/brighter-async-2cch)
+- [The Yoga of Image Generation – Part 2](https://dev.to/worldlinetech/the-yoga-of-image-generation-part-2-42c)
 <!-- BLOG-POST-LIST:END -->
 
 
