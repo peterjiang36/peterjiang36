@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start your journey in Open Source using the example of a small Go project](https://dev.to/pashkov256/how-to-start-your-journey-in-open-source-using-the-example-of-a-small-go-project-1e5j)
-- [Angular](https://dev.to/gaurangdhorda/angular-3mj7)
-- [Integrating authorization in a Spring Boot API](https://dev.to/authaction/integrating-authorization-in-a-spring-boot-api-3151)
-- [Implementing a Modular Kargo Promotion Workflow: Extracting PromotionTask from Stage for Maintainability](https://dev.to/josephcc/implementing-a-modular-kargo-promotion-workflow-extracting-promotiontask-from-stage-for-4npi)
+- [My slides from Manchester DM - How eCommerce Faceted Navigation can either Supercharge or Sabotage SEO](https://dev.to/chrisleverseo/my-slides-from-manchester-dm-how-ecommerce-faceted-navigation-can-either-supercharge-or-sabotage-30ji)
+- [Ethical Funding Methods: Navigating the Path to Responsible Financing](https://dev.to/ahmmrizv9/ethical-funding-methods-navigating-the-path-to-responsible-financing-1pc0)
+- [Doing TDD improved my DevExp](https://dev.to/lucasbrogni1/doing-tdd-improved-my-devexp-3lhi)
+- [✂️ From 2500+ to 10+ Lines: Automated Modular Code Refactor 🤖](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)
 <!-- BLOG-POST-LIST:END -->
 
 
