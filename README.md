@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can someone help or guide me on how to implement a chatbot on my website?](https://dev.to/pedro_a6f4059a2df3c6d57ba/can-someone-help-or-guide-me-on-how-to-implement-a-chatbot-on-my-website-4je8)
-- [How to Use GPU Acceleration in PyTorch in 2025?](https://dev.to/rociogarciavf/how-to-use-gpu-acceleration-in-pytorch-in-2025-3i7k)
-- [Web Sayfanız Uçsun: Performans Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/web-sayfaniz-ucsun-performans-optimizasyonu-cjm)
-- [How to Create a Linux Virtual Machine in Azure Portal and Install Nginx](https://dev.to/habeeb_hameed_0753445424a/how-to-create-a-linux-virtual-machine-in-azure-portal-and-install-nginx-1cmd)
+- [AWS Cognito Authentication with Golang](https://dev.to/arcadebuilds/aws-cognito-authentication-with-golang-me5)
+- [Exploring Elon Musk’s Fascination with NFTs and Influence on Open Source Software: A Technological Odyssey](https://dev.to/bobcars/exploring-elon-musks-fascination-with-nfts-and-influence-on-open-source-software-a-technological-5f1o)
+- [How does Java ensure enterprise application scalability?](https://dev.to/shriyansh_iot_98734929139/how-does-java-ensure-enterprise-application-scalability-5d0e)
+- [Fail-Safe Feature Flags: Offline-First Evaluation with Fallbacks in JavaScript](https://dev.to/hexshift/feature-flag-engineering-like-a-pro-from-js-expressions-to-global-rollouts-pmc)
 <!-- BLOG-POST-LIST:END -->
 
 
