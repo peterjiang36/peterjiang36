@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Next.js Starter for Music/Video SaaS --Would You Use It?](https://dev.to/minyorange/a-nextjs-starter-for-musicvideo-saas-would-you-use-it-52b9)
-- [Ready for challenge.](https://dev.to/mahir_dasare_333/ready-for-challenge-48io)
-- [How to Install Fastlane on macOS for iOS Development](https://dev.to/muhammadaqib86/how-to-install-fastlane-on-macos-for-ios-development-5g3f)
-- [machine learning for precision agriculture](https://dev.to/nigel_sibanda_35686237ddc/machine-learning-for-precision-agriculture-4b3p)
+- [VibeCoding Flow 0.1.0: From Idea to Code — In One Command](https://dev.to/ionlinti/vibecoding-flow-010-from-idea-to-code-in-one-command-28ko)
+- [Embracing Rich Domain Objects: A Practical Guide](https://dev.to/horse_patterns/embracing-rich-domain-objects-a-practical-guide-13ia)
+- [Submit to this tech challenge](https://dev.to/godfroy_tech/submit-to-this-tech-challenge-3cnb)
+- [Proposal: A Custom Widget Editor for Elementor &lpar;HTML/CSS/JS, Built-In&rpar;](https://dev.to/minyorange/proposal-a-custom-widget-editor-for-elementor-htmlcssjs-built-in-pld)
 <!-- BLOG-POST-LIST:END -->
 
 
