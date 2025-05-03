@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚗 Introducing RideCircle: A Step Towards a Sustainable Future 🌍](https://dev.to/vivek_dudhatra/introducing-ridecircle-a-step-towards-a-sustainable-future-2kc0)
-- [&quot;From Silicon Valley to Surgery: How AI Powerhouses Like Google and Meta are Revolutionizing Healthcare&quot;](https://dev.to/dibborah100/from-silicon-valley-to-surgery-how-ai-powerhouses-like-google-and-meta-are-revolutionizing-1nic)
-- [System Performance Monitoring](https://dev.to/chielo_chiamaka/system-performance-monitoring-36no)
-- [Cut the Crap: Ship Better-Looking Websites &lpar;Fast&rpar;](https://dev.to/vinayak00017/cut-the-crap-ship-better-looking-websites-fast-282)
+- [#5 DP: Adapter](https://dev.to/stv4s/5-dp-adapter-49el)
+- [Why Every Child Should Learn Coding and AI](https://dev.to/jliter/why-every-child-should-learn-coding-and-ai-2enb)
+- [Ep.2 🔥 Verifiable ML Property Cards using Hardware-assisted Attestations feat. waterloo university](https://dev.to/kamolchanoksaengtong/ep2-verifiable-ml-property-cards-using-hardware-assisted-attestations-feat-waterloo-university-efp)
+- [How to install Virtual Box and install Windows 11 in Ubuntu.](https://dev.to/arunpragash/how-to-install-virtual-box-and-install-windows-11-in-ubuntu-12k5)
 <!-- BLOG-POST-LIST:END -->
 
 
