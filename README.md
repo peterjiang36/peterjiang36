@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveling Up in .NET, Exploring Classes &amp; Methods!](https://dev.to/khulyso/leveling-up-in-net-exploring-classes-methods-3e27)
-- [The AI agent stack that’s quietly taking over enterprise workflows](https://dev.to/sidswirl/the-ai-agent-stack-thats-quietly-taking-over-enterprise-workflows-2h8o)
-- [How to Manage Authentication in a GraphQL API in 2025?](https://dev.to/nigelsilonero/how-to-manage-authentication-in-a-graphql-api-in-2025-4p3h)
-- [Go Development Has Never Been So Fast: Discover How Tilt Changes Everything!](https://dev.to/rafaelgfirmino/go-development-has-never-been-so-fast-discover-how-tilt-changes-everything-2ap2)
+- [Collection List](https://dev.to/preetha_vaishnavi_2b82358/collection-list-76)
+- [Shopify webpage](https://dev.to/preetha_vaishnavi_2b82358/shopify-webpage-459f)
+- [The difference between `@RestController` and `@Controller`](https://dev.to/devcorner/the-difference-between-restcontroller-and-controller-4083)
+- [Subdomain Hunters! Meet SubFors – The Most Advanced &amp; Fastest Tool You Haven’t Tried Yet &lpar;Beats Subfinder 🔥&rpar;](https://dev.to/said_7f44036b94612ff063c1/subdomain-hunters-meet-subfors-the-most-advanced-fastest-tool-you-havent-tried-yet-beats-4a13)
 <!-- BLOG-POST-LIST:END -->
 
 
