@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
-- [1007. Minimum Domino Rotations For Equal Row](https://dev.to/mdarifulhaque/1007-minimum-domino-rotations-for-equal-row-47i2)
-- [How to use curl](https://dev.to/chamal1120/how-to-use-curl-5gha)
-- [Test Independence Done Right: How to write truly isolated tests!](https://dev.to/mmonfared/test-independence-done-right-how-to-write-truly-isolated-tests-363m)
+- [AI Agents: how they work and how to build them](https://dev.to/aws-heroes/ai-agents-how-they-work-and-how-to-build-them-17if)
+- [[Boost]](https://dev.to/anthonymax/-27gh)
+- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-2-49pd)
+- [Creating an MCP Server Using Go](https://dev.to/eminetto/creating-an-mcp-server-using-go-3foe)
 <!-- BLOG-POST-LIST:END -->
 
 
