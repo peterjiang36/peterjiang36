@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [nil in Go: Is More Complicated Than You Think](https://dev.to/leapcell/nil-in-go-is-more-complicated-than-you-think-29gp)
-- [Roly, my first CSS animation &lpar;check hover&rpar;](https://dev.to/preetha_vaishnavi_2b82358/roly-my-first-css-animation-check-hover-2525)
-- [Image Carousel](https://dev.to/preetha_vaishnavi_2b82358/image-carousel-2d9)
-- [Senior Frontend Developer](https://dev.to/preetha_vaishnavi_2b82358/senior-frontend-developer-20ci)
+- [AWS security tips for large scale java angular application](https://dev.to/amogh_deshpande_1176/aws-security-tips-for-large-scale-java-angular-application-eoh)
+- [Mocky.io vs. Mock-API.net: Which Mock API Tool Fits Your Workflow?](https://dev.to/samirfcis/mockyio-vs-mock-apinet-which-mock-api-tool-fits-your-workflow-lob)
+- [TryHackMe: Zeek Exercises](https://dev.to/seanleeys/tryhackme-zeek-exercises-35c3)
+- [[Boost]](https://dev.to/rajesh_patel/-ep5)
 <!-- BLOG-POST-LIST:END -->
 
 
