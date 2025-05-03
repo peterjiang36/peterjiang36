@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How MCP Leverages OAuth 2.1 and RFC 9728 for Authorization](https://dev.to/patrick_chan_0922a197d89d/how-mcp-leverages-oauth-21-and-rfc-9728-for-authorization-58dn)
-- [Maybe Your Business Doesn&#39;t Need an App.](https://dev.to/bill_vivino_481bc473fa0d9/maybe-your-business-doesnt-need-an-app-3jae)
-- [Code Smell 298 - Microsoft Windows Time Waste](https://dev.to/mcsee/code-smell-298-microsoft-windows-time-waste-30k1)
-- [🚀 How to Install and Use Amazon Q for Developers in Your IDE](https://dev.to/aws-builders/how-to-install-and-use-amazon-q-for-developers-in-your-ide-4e3h)
+- [Leveling Up in .NET, Exploring Classes &amp; Methods!](https://dev.to/khulyso/leveling-up-in-net-exploring-classes-methods-3e27)
+- [The AI agent stack that’s quietly taking over enterprise workflows](https://dev.to/sidswirl/the-ai-agent-stack-thats-quietly-taking-over-enterprise-workflows-2h8o)
+- [How to Manage Authentication in a GraphQL API in 2025?](https://dev.to/nigelsilonero/how-to-manage-authentication-in-a-graphql-api-in-2025-4p3h)
+- [Go Development Has Never Been So Fast: Discover How Tilt Changes Everything!](https://dev.to/rafaelgfirmino/go-development-has-never-been-so-fast-discover-how-tilt-changes-everything-2ap2)
 <!-- BLOG-POST-LIST:END -->
 
 
