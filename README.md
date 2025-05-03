@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why JetBrains Junie is the Best AI Agent I’ve Ever Used So Far](https://dev.to/s_chathuranga_j/why-jetbrains-junie-is-the-best-ai-agent-ive-ever-used-so-far-4nlg)
-- [Getting Started with wxPython: A Beginner&#39;s Guide](https://dev.to/blackmare01wolf/getting-started-with-wxpython-a-beginners-guide-6e5)
-- [Stop Letting JavaScript Numbers Fool You – Master Them in Minutes!](https://dev.to/shifa_2/stop-letting-javascript-numbers-fool-you-master-them-in-minutes-269k)
-- [Hugo: don&#39;t miss the best part](https://dev.to/spo0q/hugo-dont-miss-the-best-part-3f6)
+- [Best Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
+- [1007. Minimum Domino Rotations For Equal Row](https://dev.to/mdarifulhaque/1007-minimum-domino-rotations-for-equal-row-47i2)
+- [How to use curl](https://dev.to/chamal1120/how-to-use-curl-5gha)
+- [Test Independence Done Right: How to write truly isolated tests!](https://dev.to/mmonfared/test-independence-done-right-how-to-write-truly-isolated-tests-363m)
 <!-- BLOG-POST-LIST:END -->
 
 
