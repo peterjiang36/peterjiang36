@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Beginner to Pro: Docker + Terraform for Scalable AI Agents](https://dev.to/docker/from-beginner-to-pro-deploying-scalable-ai-workloads-with-docker-terraform-41f2)
-- [2025 Update: CompTIA A+ Core 1 &lpar;220-1201&rpar; Certification Guide – Syllabus, Cost &amp; Tips](https://dev.to/cert_study_4c9a871b492407/2025-update-comptia-a-core-1-220-1201-certification-guide-syllabus-cost-tips-1efg)
-- [AI-Powered Code Assistance: HOW Developers Are Writing Smarter, Not Harder](https://dev.to/okoye_ndidiamaka_5e3b7d30/ai-powered-code-assistance-how-developers-are-writing-smarter-not-harder-3ae9)
-- [AI-Powered Deployment Automation for Agencies: Save Time and Scale Client Projects](https://dev.to/jevin/ai-powered-deployment-automation-for-agencies-save-time-and-scale-client-projects-332e)
+- [🚗 Introducing RideCircle: A Step Towards a Sustainable Future 🌍](https://dev.to/vivek_dudhatra/introducing-ridecircle-a-step-towards-a-sustainable-future-2kc0)
+- [&quot;From Silicon Valley to Surgery: How AI Powerhouses Like Google and Meta are Revolutionizing Healthcare&quot;](https://dev.to/dibborah100/from-silicon-valley-to-surgery-how-ai-powerhouses-like-google-and-meta-are-revolutionizing-1nic)
+- [System Performance Monitoring](https://dev.to/chielo_chiamaka/system-performance-monitoring-36no)
+- [Cut the Crap: Ship Better-Looking Websites &lpar;Fast&rpar;](https://dev.to/vinayak00017/cut-the-crap-ship-better-looking-websites-fast-282)
 <!-- BLOG-POST-LIST:END -->
 
 
