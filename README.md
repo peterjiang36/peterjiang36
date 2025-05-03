@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio Worklets for Low-Latency Audio Processing](https://dev.to/omriluz1/audio-worklets-for-low-latency-audio-processing-3b9p)
-- [How To Ace Tech Interview Questions.](https://dev.to/rankush_vishwakarma_18215/how-to-ace-tech-interview-questions-n04)
-- [Stop shipping insecure Dockerfiles: real devs don’t run as root](https://dev.to/devlinktips/stop-shipping-insecure-dockerfiles-real-devs-dont-run-as-root-4d8)
-- [Repository for e-commerce website for beginners](https://dev.to/ssekabirarobertsims/repository-for-e-commerce-website-for-beginners-4no8)
+- [Building a Rock-Solid Testing Framework at Bynry &lpar;Part 2&rpar;:](https://dev.to/mr_harshkumar_jha/building-a-rock-solid-testing-framework-at-bynry-4l8o)
+- [🌍 The smallest and simplest global state manager for React](https://dev.to/9zemian5/the-smallest-and-simplest-global-state-manager-for-react-4h2h)
+- [XQL Group Playbook: High‑Performance B2B Marketing Channels for Early‑Stage Software Development Companies](https://dev.to/danylo_fedirko_e38be56528/xql-group-playbook-high-performance-b2b-marketing-channels-for-early-stage-software-development-51nd)
+- [Quick Multi List Diff for Developers: Meet List Compare](https://dev.to/jammy_lee_88c9258df43557f/quick-multi-list-diff-for-developers-meet-list-compare-36c4)
 <!-- BLOG-POST-LIST:END -->
 
 
