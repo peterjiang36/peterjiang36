@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VibeCoding Flow 0.1.0: From Idea to Code — In One Command](https://dev.to/ionlinti/vibecoding-flow-010-from-idea-to-code-in-one-command-28ko)
-- [Embracing Rich Domain Objects: A Practical Guide](https://dev.to/horse_patterns/embracing-rich-domain-objects-a-practical-guide-13ia)
-- [Submit to this tech challenge](https://dev.to/godfroy_tech/submit-to-this-tech-challenge-3cnb)
-- [Proposal: A Custom Widget Editor for Elementor &lpar;HTML/CSS/JS, Built-In&rpar;](https://dev.to/minyorange/proposal-a-custom-widget-editor-for-elementor-htmlcssjs-built-in-pld)
+- [How to Set a Static IP for Your Fedora VM: A Step-by-Step Guide](https://dev.to/codelemonade/how-to-set-a-static-ip-for-your-fedora-vm-a-step-by-step-guide-36c)
+- [Understanding RabbitMQ: The Basics of Message Queuing](https://dev.to/xavki/understanding-rabbitmq-the-basics-of-message-queuing-524j)
+- [useRef](https://dev.to/mustafacam/useref-2b8k)
+- [Simulating Wildlife Populations in Unity: A C# System for Dynamic Ecosystem Management](https://dev.to/paulcuffe/simulating-wildlife-populations-in-unity-a-c-system-for-dynamic-ecosystem-management-3mop)
 <!-- BLOG-POST-LIST:END -->
 
 
