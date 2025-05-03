@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using AWS.](https://dev.to/code42cate/stop-using-aws-4eg)
-- [C# vs Angular: Universal Principles of Dependency Injection](https://dev.to/artstesh/c-vs-angular-universal-principles-of-dependency-injection-36j9)
-- [10 Tiny Developer Tools I Built to Save Time – Free &amp; Browser-Based](https://dev.to/commzero/10-tiny-developer-tools-i-built-to-save-time-free-browser-based-221m)
-- [Google OA for Summer 2025 Internship](https://dev.to/net_programhelp_e160eef28/google-oa-for-summer-2025-internship-ofb)
+- [Why JetBrains Junie is the Best AI Agent I’ve Ever Used So Far](https://dev.to/s_chathuranga_j/why-jetbrains-junie-is-the-best-ai-agent-ive-ever-used-so-far-4nlg)
+- [Getting Started with wxPython: A Beginner&#39;s Guide](https://dev.to/blackmare01wolf/getting-started-with-wxpython-a-beginners-guide-6e5)
+- [Stop Letting JavaScript Numbers Fool You – Master Them in Minutes!](https://dev.to/shifa_2/stop-letting-javascript-numbers-fool-you-master-them-in-minutes-269k)
+- [Hugo: don&#39;t miss the best part](https://dev.to/spo0q/hugo-dont-miss-the-best-part-3f6)
 <!-- BLOG-POST-LIST:END -->
 
 
