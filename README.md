@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#5 DP: Adapter](https://dev.to/stv4s/5-dp-adapter-49el)
-- [Why Every Child Should Learn Coding and AI](https://dev.to/jliter/why-every-child-should-learn-coding-and-ai-2enb)
-- [Ep.2 🔥 Verifiable ML Property Cards using Hardware-assisted Attestations feat. waterloo university](https://dev.to/kamolchanoksaengtong/ep2-verifiable-ml-property-cards-using-hardware-assisted-attestations-feat-waterloo-university-efp)
-- [How to install Virtual Box and install Windows 11 in Ubuntu.](https://dev.to/arunpragash/how-to-install-virtual-box-and-install-windows-11-in-ubuntu-12k5)
+- [Stop Using AWS.](https://dev.to/code42cate/stop-using-aws-4eg)
+- [C# vs Angular: Universal Principles of Dependency Injection](https://dev.to/artstesh/c-vs-angular-universal-principles-of-dependency-injection-36j9)
+- [10 Tiny Developer Tools I Built to Save Time – Free &amp; Browser-Based](https://dev.to/commzero/10-tiny-developer-tools-i-built-to-save-time-free-browser-based-221m)
+- [Google OA for Summer 2025 Internship](https://dev.to/net_programhelp_e160eef28/google-oa-for-summer-2025-internship-ofb)
 <!-- BLOG-POST-LIST:END -->
 
 
