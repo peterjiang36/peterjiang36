@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Free RBT Mock Exam PDFs 📄: Your Guide to Smart Test Prep](https://dev.to/rbtpracticeexamus/finding-free-rbt-mock-exam-pdfs-your-guide-to-smart-test-prep-4827)
-- [💻 GitHub Education: Um Tesouro para Estudantes de TI](https://dev.to/carloseduardolemos/github-education-um-tesouro-para-estudantes-de-ti-466a)
-- [The AI Settings Dictionary](https://dev.to/armiedema/the-ai-settings-dictionary-nah)
-- [A responsive footer menu with social media icons](https://dev.to/qms85/a-responsive-footer-menu-with-social-media-icons-415o)
+- [How to Implement Google AdSense into ReactJS - 2025](https://dev.to/deuos/how-to-implement-google-adsense-into-reactjs-2025-5g3h)
+- [Battlefronts in Browser: Mercury Defenders &amp; Nova Invaders Unleashed](https://dev.to/uzondu9/battlefronts-in-browser-mercury-defenders-nova-invaders-unleashed-3204)
+- [HTMX Best Practices: Building Responsive Web Apps Without JavaScript Frameworks](https://dev.to/hexshift/htmx-best-practices-building-responsive-web-apps-without-javascript-frameworks-25dm)
+- [How to generate AWS Architecture diagram using AWS MCP server and Amazon Q CLI](https://dev.to/aws-builders/how-to-generate-aws-architecture-diagram-using-aws-mcp-server-and-amazon-q-cli-3aoo)
 <!-- BLOG-POST-LIST:END -->
 
 
