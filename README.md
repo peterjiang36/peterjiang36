@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Rock-Solid Testing Framework at Bynry &lpar;Part 2&rpar;:](https://dev.to/mr_harshkumar_jha/building-a-rock-solid-testing-framework-at-bynry-4l8o)
-- [🌍 The smallest and simplest global state manager for React](https://dev.to/9zemian5/the-smallest-and-simplest-global-state-manager-for-react-4h2h)
-- [XQL Group Playbook: High‑Performance B2B Marketing Channels for Early‑Stage Software Development Companies](https://dev.to/danylo_fedirko_e38be56528/xql-group-playbook-high-performance-b2b-marketing-channels-for-early-stage-software-development-51nd)
-- [Quick Multi List Diff for Developers: Meet List Compare](https://dev.to/jammy_lee_88c9258df43557f/quick-multi-list-diff-for-developers-meet-list-compare-36c4)
+- [Получение донатов DonationAlerts в реальном времени: Руководство по WebSocket и OAuth 2.0 на Python &lpar;FastAPI&rpar;](https://dev.to/fedor-pasynkov-ru/poluchieniie-donatov-donationalerts-v-riealnom-vriemieni-rukovodstvo-po-websocket-i-oauth-20-na-python-2pgm)
+- [Crushing the Command Line with Amazon Q Developer 🚀](https://dev.to/aws_1_27d6cbc9e944aa228ef/crushing-the-command-line-with-amazon-q-developer-1l61)
+- [💰 Cost Optimization with AWS Compute Optimizer:](https://dev.to/balahariharang/cost-optimization-with-aws-compute-optimizer-nna)
+- [Revolutionize Your Audio Experience: Natural Text-to-Speech with Kokoro TTS](https://dev.to/nazdridoy/revolutionize-your-audio-experience-natural-text-to-speech-with-kokoro-tts-3enh)
 <!-- BLOG-POST-LIST:END -->
 
 
