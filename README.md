@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigate Linux Like a Pro: Understanding Absolute vs Relative Paths](https://dev.to/sanasadiq/navigate-linux-like-a-pro-understanding-absolute-vs-relative-paths-37c3)
-- [Adapters in Go](https://dev.to/igor_grieder/adapters-in-go-1l3d)
-- [Hello I am new and want to learn coding](https://dev.to/billychristian65/hello-i-am-new-and-want-to-learn-coding-3090)
-- [Content about build_influence](https://dev.to/drorivry/content-about-buildinfluence-4jjk)
+- [A Next.js Starter for Music/Video SaaS --Would You Use It?](https://dev.to/minyorange/a-nextjs-starter-for-musicvideo-saas-would-you-use-it-52b9)
+- [Ready for challenge.](https://dev.to/mahir_dasare_333/ready-for-challenge-48io)
+- [How to Install Fastlane on macOS for iOS Development](https://dev.to/muhammadaqib86/how-to-install-fastlane-on-macos-for-ios-development-5g3f)
+- [machine learning for precision agriculture](https://dev.to/nigel_sibanda_35686237ddc/machine-learning-for-precision-agriculture-4b3p)
 <!-- BLOG-POST-LIST:END -->
 
 
