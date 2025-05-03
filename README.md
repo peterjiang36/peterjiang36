@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: how they work and how to build them](https://dev.to/aws-heroes/ai-agents-how-they-work-and-how-to-build-them-17if)
-- [[Boost]](https://dev.to/anthonymax/-27gh)
-- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-2-49pd)
-- [Creating an MCP Server Using Go](https://dev.to/eminetto/creating-an-mcp-server-using-go-3foe)
+- [Navigate Linux Like a Pro: Understanding Absolute vs Relative Paths](https://dev.to/sanasadiq/navigate-linux-like-a-pro-understanding-absolute-vs-relative-paths-37c3)
+- [Adapters in Go](https://dev.to/igor_grieder/adapters-in-go-1l3d)
+- [Hello I am new and want to learn coding](https://dev.to/billychristian65/hello-i-am-new-and-want-to-learn-coding-3090)
+- [Content about build_influence](https://dev.to/drorivry/content-about-buildinfluence-4jjk)
 <!-- BLOG-POST-LIST:END -->
 
 
