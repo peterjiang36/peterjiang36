@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Full stack development 2025](https://dev.to/abdu_karim_5f2f2c6b3a82de/full-stack-development-2025-1j30)
-- [Refactoring a Messy Codebase: Lessons I Learned](https://dev.to/visavadiyavrushik/refactoring-a-messy-codebase-lessons-i-learned-3n0m)
-- [Hello DEV! From Graphic Design to Data Analytics &lpar;with coffee &amp; chaos&rpar;](https://dev.to/sachin_kumar_978b87100f2d/hello-dev-from-graphic-design-to-data-analytics-with-coffee-chaos-1hd8)
-- [🚀 Update: create-node-spark CLI Gets Major Boost!](https://dev.to/talhabilaldev/update-create-node-spark-cli-gets-major-boost-35a5)
+- [Why 100 lines of code is sometimes better than 2 lines of code](https://dev.to/neoxdebjit/why-100-lines-of-code-is-sometimes-better-than-2-lines-of-code-589d)
+- [10 Unique Elixir Language Features Not Present in JavaScript](https://dev.to/darwinphi/unique-elixir-language-features-not-present-in-javascript-1dnp)
+- [Archaeology Meets Artificial Intelligence: A New Era of Exploration](https://dev.to/ray_parker01/archaeology-meets-artificial-intelligence-a-new-era-of-exploration-125k)
+- [Hackathon Diaries: Building Lets-Collab with Django, React, and Permit.io](https://dev.to/kihuni/hackathon-diaries-building-lets-collab-with-django-react-and-permitio-2m21)
 <!-- BLOG-POST-LIST:END -->
 
 
