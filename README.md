@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack Web3 Development Roadmap: Learn Full Stack Web3 in 90 Days](https://dev.to/code_2/full-stack-web3-development-roadmap-learn-full-stack-web3-in-90-days-2jdk)
-- [ApocalypseGPT 🧟](https://dev.to/sebastiandevelops/apocalypsegpt-2n9i)
-- [Web Development Week 2](https://dev.to/upinar/web-development-week-2-o1d)
-- [Guia Prático Spring Boot WebFlux](https://dev.to/ikauedev/guia-pratico-spring-boot-webflux-22co)
+- [☁️ Keep Using AWS as Usual](https://dev.to/wiseai/keep-using-aws-as-usual-3dk6)
+- [A Proposal for a New State Management Method to Drastically Simplify Frontend Framework State Management](https://dev.to/mogera551/a-proposal-for-a-new-state-management-method-to-drastically-simplify-frontend-framework-state-179l)
+- [Foundational Project Structure for .NET Projects](https://dev.to/georgekobaidze/foundational-project-structure-for-net-projects-3dn3)
+- [Understanding IaaS/PaaS/SaaS](https://dev.to/tak089/understanding-iaaspaassaas-4m5g)
 <!-- BLOG-POST-LIST:END -->
 
 
