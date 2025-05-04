@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why 100 lines of code is sometimes better than 2 lines of code](https://dev.to/neoxdebjit/why-100-lines-of-code-is-sometimes-better-than-2-lines-of-code-589d)
-- [10 Unique Elixir Language Features Not Present in JavaScript](https://dev.to/darwinphi/unique-elixir-language-features-not-present-in-javascript-1dnp)
-- [Archaeology Meets Artificial Intelligence: A New Era of Exploration](https://dev.to/ray_parker01/archaeology-meets-artificial-intelligence-a-new-era-of-exploration-125k)
-- [Hackathon Diaries: Building Lets-Collab with Django, React, and Permit.io](https://dev.to/kihuni/hackathon-diaries-building-lets-collab-with-django-react-and-permitio-2m21)
+- [I plan on making things right for people that are being abused by other human beings if that&#39;s what you want to call them anyway](https://dev.to/shane_mellwig_785c486e2d4/i-plan-on-making-things-right-for-people-that-are-being-abused-by-other-human-beings-if-thats-what-4f8b)
+- [Handling asynchronous validators and mutually dependent fields using Isomorphic-validation library.](https://dev.to/itihon/handling-asynchronous-validators-and-mutually-dependent-fields-using-isomorphic-validation-library-n96)
+- [🔄 Real-Time Text Sharing Between LWC Components Using Lightning Message Service &lpar;LMS&rpar;](https://dev.to/sabir_sheikh_cd49d4c419e3/real-time-text-sharing-between-lwc-components-using-lightning-message-service-lms-31mk)
+- [How to Buy Drip Tokens: A Comprehensive Guide to DeFi Innovation](https://dev.to/ashucommits/how-to-buy-drip-tokens-a-comprehensive-guide-to-defi-innovation-2ci3)
 <!-- BLOG-POST-LIST:END -->
 
 
