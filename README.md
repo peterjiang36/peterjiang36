@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Kotlin Coroutines in Android: A Practical Guide](https://dev.to/mohitrajput987/mastering-kotlin-coroutines-in-android-a-practical-guide-4dn)
-- [Best Embroidery Cotton Baby Pajamas for Family Matching](https://dev.to/affihub/best-embroidery-cotton-baby-pajamas-for-family-matching-23j3)
-- [Scared of System Design? Try This Tradeoff Quadrant](https://dev.to/smilegupta/scared-of-system-design-try-this-tradeoff-quadrant-1b4a)
-- [What Font Style Can I Use to Replicate the Google Logo?](https://dev.to/generatecodedev/what-font-style-can-i-use-to-replicate-the-google-logo-3ofo)
+- [Why is my C code not printing output in Go?](https://dev.to/generatecodedev/why-is-my-c-code-not-printing-output-in-go-4ha5)
+- [How I Became the Gatekeeper of a Web Directory on RHEL 9](https://dev.to/higgs182092/how-i-became-the-gatekeeper-of-a-web-directory-on-rhel-9-5gn9)
+- [Comprehensive Guide to Monitoring in MCP](https://dev.to/matt_lenhard_650f4412cb21/comprehensive-guide-to-monitoring-in-mcp-3k74)
+- [How to Deploy a Full-Stack React &amp; Node.js App on Google Cloud Run.](https://dev.to/raghad60/how-to-deploy-a-full-stack-react-nodejs-app-on-google-cloud-run-52m9)
 <!-- BLOG-POST-LIST:END -->
 
 
