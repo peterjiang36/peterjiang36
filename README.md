@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn any photo into a color palette – made a tool for designers &amp; artists](https://dev.to/robert_kotcher_6861a5b360/turn-any-photo-into-a-color-palette-made-a-tool-for-designers-artists-2l3m)
-- [Building Dcup: An Open-Source RAG Pipeline with a Twist](https://dev.to/aliamerj/building-dcup-an-open-source-rag-pipeline-with-a-twist-2ebn)
-- [Moderation Boundaries with OpenAI API](https://dev.to/thatechmaestro/moderation-boundaries-with-openai-api-333g)
-- [9 OOP Design Patterns You Must Know](https://dev.to/devsk001/9-oop-design-patterns-you-must-know-5hh6)
+- [Parameters &amp; Arguments in Python](https://dev.to/hyperkai/parameters-arguments-in-python-45nm)
+- [Who Controls Your Files in Linux? Discover the Power of Permissions 🔐](https://dev.to/omkarsharma2821/who-controls-your-files-in-linux-discover-the-power-of-permissions-5g6d)
+- [&quot;From AI to Z: How Trailblazing Startups Are Redefining Healthcare in the Era of Tech Titans&quot;](https://dev.to/dibborah100/from-ai-to-z-how-trailblazing-startups-are-redefining-healthcare-in-the-era-of-tech-titans-3pme)
+- [Dev](https://dev.to/immilengo_7e6e5148135/dev-fml)
 <!-- BLOG-POST-LIST:END -->
 
 
