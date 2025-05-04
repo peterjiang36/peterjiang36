@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://dev.to/nickytonline/gos-singleflight-package-and-why-itd-awesome-for-concurrent-requests-4di7)
-- [Implementing Vue Modal Route](https://dev.to/shunnnet/implementing-vue-modal-route-58ff)
-- [Alibaba Qwen 3 is the fastest LLM ever, Microsoft&#39;s byte-sized open source model, DeepSeek Prover is GREAT at maths, and more](https://dev.to/thisweekinaiengineering/alibaba-qwen-3-is-the-fastest-llm-ever-microsofts-byte-sized-open-source-model-deepseek-prover-416f)
-- [Learn Linux Navigation: Absolute vs Relative Paths Simplified](https://dev.to/abhishekshakya/learn-linux-navigation-absolute-vs-relative-paths-simplified-4d9m)
+- [What&#39;s changed in Webdev in the past few years](https://dev.to/thejaredwilcurt/whats-changed-in-webdev-in-the-past-few-years-p7e)
+- [🧠 Monitor Your Full LAMP Stack with ELK + Metricbeat &lpar;No Guesswork, Just Data&rpar;](https://dev.to/minh_trivo_vmt/monitor-your-full-lamp-stack-with-elk-metricbeat-no-guesswork-just-data-34dd)
+- [&quot;I Want to Learn Programming, But Doubts Are Holding Me Back&quot;](https://dev.to/sir_monkey_06/i-want-to-learn-programming-but-doubts-are-holding-me-back-270b)
+- [🛡️ Blog – Multi-Factor Authentication &lpar;MFA&rpar;: Your Critical Second Layer of Defense](https://dev.to/amit_ambekar_c022e6732f8d/blog-multi-factor-authentication-mfa-your-critical-second-layer-of-defense-nb8)
 <!-- BLOG-POST-LIST:END -->
 
 
