@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Google AdSense into ReactJS - 2025](https://dev.to/deuos/how-to-implement-google-adsense-into-reactjs-2025-5g3h)
-- [Battlefronts in Browser: Mercury Defenders &amp; Nova Invaders Unleashed](https://dev.to/uzondu9/battlefronts-in-browser-mercury-defenders-nova-invaders-unleashed-3204)
-- [HTMX Best Practices: Building Responsive Web Apps Without JavaScript Frameworks](https://dev.to/hexshift/htmx-best-practices-building-responsive-web-apps-without-javascript-frameworks-25dm)
-- [How to generate AWS Architecture diagram using AWS MCP server and Amazon Q CLI](https://dev.to/aws-builders/how-to-generate-aws-architecture-diagram-using-aws-mcp-server-and-amazon-q-cli-3aoo)
+- [The Emergence and Impact of Gitcoin Token &lpar;GTC&rpar; in the Web3 Ecosystem](https://dev.to/bobcars/the-emergence-and-impact-of-gitcoin-token-gtc-in-the-web3-ecosystem-4df1)
+- [Unleashing the Power of Gitcoin and Quadratic Funding: A New Frontier in Decentralized Innovation](https://dev.to/rachellovestowrite/unleashing-the-power-of-gitcoin-and-quadratic-funding-a-new-frontier-in-decentralized-innovation-417f)
+- [The AI Skill Overlord: A Self-Mutating Monolith in the Making](https://dev.to/owly/the-ai-skill-overlord-a-self-mutating-monolith-in-the-making-ebp)
+- [AI Repo of the Week: GitHub Copilot Adventures](https://dev.to/danwahlin/ai-repo-of-the-week-github-copilot-adventures-4b6h)
 <!-- BLOG-POST-LIST:END -->
 
 
