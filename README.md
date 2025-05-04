@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Complexities of Government Funding: A Technical &amp; Holistic Perspective](https://dev.to/laetitiaperraut/navigating-the-complexities-of-government-funding-a-technical-holistic-perspective-1k)
-- [Presale Managers: Increasing Margins and Driving IT Companies Toward Success](https://dev.to/pro-project-mngr/presale-managers-increasing-margins-and-driving-it-companies-toward-success-261o)
-- [Is AI really something anyone can use?](https://dev.to/uka_aidev/is-ai-really-something-anyone-can-use-4e3j)
-- [How to Calculate and Actually Reduce Your Churn Rate](https://dev.to/shayy/how-to-calculate-and-actually-reduce-your-churn-rate-14e0)
+- [AI Terms](https://dev.to/lea_abraham_7a0232a6cd616/ai-terms-31eb)
+- [How I Automated OBS Streaming with JavaScript &lpar;And Saved Our Office Hours of Setup Time&rpar;](https://dev.to/kurtchan/how-i-automated-obs-streaming-with-javascript-and-saved-our-office-hours-of-setup-time-12ja)
+- [Rusty Cascading Style Sheets - The next big CSS preprocessor?](https://dev.to/vedpatel226/rusty-cascading-style-sheets-the-next-big-css-preprocessor-32hm)
+- [The Future of AI: Are We Hitting the Limits of Scaling Laws?](https://dev.to/jetthoughts/the-future-of-ai-are-we-hitting-the-limits-of-scaling-laws-3f7k)
 <!-- BLOG-POST-LIST:END -->
 
 
