@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use SAM in Scala for Discriminator Criteria Types](https://dev.to/generatecodedev/how-to-use-sam-in-scala-for-discriminator-criteria-types-4b94)
-- [The Most Subtle Bug approved in a PR](https://dev.to/gags88/the-most-subtle-bug-approved-in-a-pr-4ake)
-- [Timeline: My Career Shift from Mechanical Engineer to Cybersecurity](https://dev.to/davebellen/timeline-my-career-shift-from-mechanical-engineer-to-cybersecurity-p25)
-- [How to Disable Lightbox Behavior for Images in HTML?](https://dev.to/generatecodedev/how-to-disable-lightbox-behavior-for-images-in-html-p02)
+- [Intelligent Retail](https://dev.to/rawveg/intelligent-retail-3ie3)
+- [Agendas lead to more productive meetings](https://dev.to/rally_for_jira/agendas-lead-to-more-productive-meetings-3p9o)
+- [How I Built a Simple AI Side Project for Extra Income &lpar;With Code You Can Copy&rpar;](https://dev.to/limacodes/how-i-built-a-simple-ai-side-project-for-extra-income-with-code-you-can-copy-585e)
+- [Building AI Pipelines Like Lego Blocks: LCEL with RAG](https://dev.to/mario_s/building-ai-pipelines-like-lego-blocks-lcel-with-rag-1lpc)
 <!-- BLOG-POST-LIST:END -->
 
 
