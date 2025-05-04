@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Phi 4 Reasoning Benchmarks, Model Specs, and Comparisons](https://dev.to/best_codes/phi-4-reasoning-benchmarks-model-specs-and-comparisons-4hk)
-- [Vibe Coding — My Simple Way to Enjoy Coding More 🌿💻](https://dev.to/rohansh08/vibe-coding-my-simple-way-to-enjoy-coding-more-26i)
-- [Using nanostores in Astro + Vue setup](https://dev.to/nabeel_karnasym/using-nanostores-in-astro-vue-setup-1n55)
-- [Understanding Python Concurrency: Multithreading VS AsyncIO](https://dev.to/leapcell/understanding-python-concurrency-multithreading-vs-asyncio-3png)
+- [Full Stack Web3 Development Roadmap: Learn Full Stack Web3 in 90 Days](https://dev.to/code_2/full-stack-web3-development-roadmap-learn-full-stack-web3-in-90-days-2jdk)
+- [ApocalypseGPT 🧟](https://dev.to/sebastiandevelops/apocalypsegpt-2n9i)
+- [Web Development Week 2](https://dev.to/upinar/web-development-week-2-o1d)
+- [Guia Prático Spring Boot WebFlux](https://dev.to/ikauedev/guia-pratico-spring-boot-webflux-22co)
 <!-- BLOG-POST-LIST:END -->
 
 
