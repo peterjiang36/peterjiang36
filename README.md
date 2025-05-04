@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Terms](https://dev.to/lea_abraham_7a0232a6cd616/ai-terms-31eb)
-- [How I Automated OBS Streaming with JavaScript &lpar;And Saved Our Office Hours of Setup Time&rpar;](https://dev.to/kurtchan/how-i-automated-obs-streaming-with-javascript-and-saved-our-office-hours-of-setup-time-12ja)
-- [Rusty Cascading Style Sheets - The next big CSS preprocessor?](https://dev.to/vedpatel226/rusty-cascading-style-sheets-the-next-big-css-preprocessor-32hm)
-- [The Future of AI: Are We Hitting the Limits of Scaling Laws?](https://dev.to/jetthoughts/the-future-of-ai-are-we-hitting-the-limits-of-scaling-laws-3f7k)
+- [How to Use Pointers in Golang in 2025?](https://dev.to/nigelsilonero/how-to-use-pointers-in-golang-in-2025-1482)
+- [Kotlin vs Java: Which is Better for Android Development?](https://dev.to/media_geneous_bb80d6b5563/kotlin-vs-java-which-is-better-for-android-development-ke7)
+- [Mastering AWS Cost Management: Take Control of Your Cloud Spend](https://dev.to/muhtoyyib/mastering-aws-cost-management-take-control-of-your-cloud-spend-3308)
+- [How to install PostgreSQL on macOS: Step-by-Step Instructions](https://dev.to/saif_uddin/install-postgresql-on-macos-4a4d)
 <!-- BLOG-POST-LIST:END -->
 
 
