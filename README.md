@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I plan on making things right for people that are being abused by other human beings if that&#39;s what you want to call them anyway](https://dev.to/shane_mellwig_785c486e2d4/i-plan-on-making-things-right-for-people-that-are-being-abused-by-other-human-beings-if-thats-what-4f8b)
-- [Handling asynchronous validators and mutually dependent fields using Isomorphic-validation library.](https://dev.to/itihon/handling-asynchronous-validators-and-mutually-dependent-fields-using-isomorphic-validation-library-n96)
-- [🔄 Real-Time Text Sharing Between LWC Components Using Lightning Message Service &lpar;LMS&rpar;](https://dev.to/sabir_sheikh_cd49d4c419e3/real-time-text-sharing-between-lwc-components-using-lightning-message-service-lms-31mk)
-- [How to Buy Drip Tokens: A Comprehensive Guide to DeFi Innovation](https://dev.to/ashucommits/how-to-buy-drip-tokens-a-comprehensive-guide-to-defi-innovation-2ci3)
+- [The Key to Control: Navigating Users, Groups, and Permissions](https://dev.to/liquiditee/the-key-to-control-navigating-users-groups-and-permissions-2nf0)
+- [How to Supercharge Your Open Source Projects in Bangalore with Blockchain-based Sponsorship Models](https://dev.to/laetitiaperraut/how-to-supercharge-your-open-source-projects-in-bangalore-with-blockchain-based-sponsorship-models-3065)
+- [Build RAG by go-doudou And langchaingo](https://dev.to/wubin1989/build-rag-by-go-doudou-and-langchaingo-ndk)
+- [Mastering PHP&#39;s Type Hints: A Comprehensive Guide to Writing Robust Code](https://dev.to/the_realteckyguy/mastering-phps-type-hints-a-comprehensive-guide-to-writing-robust-code-46hp)
 <!-- BLOG-POST-LIST:END -->
 
 
