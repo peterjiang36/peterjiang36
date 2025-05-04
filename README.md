@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parameters &amp; Arguments in Python](https://dev.to/hyperkai/parameters-arguments-in-python-45nm)
-- [Who Controls Your Files in Linux? Discover the Power of Permissions 🔐](https://dev.to/omkarsharma2821/who-controls-your-files-in-linux-discover-the-power-of-permissions-5g6d)
-- [&quot;From AI to Z: How Trailblazing Startups Are Redefining Healthcare in the Era of Tech Titans&quot;](https://dev.to/dibborah100/from-ai-to-z-how-trailblazing-startups-are-redefining-healthcare-in-the-era-of-tech-titans-3pme)
-- [Dev](https://dev.to/immilengo_7e6e5148135/dev-fml)
+- [Phi 4 Reasoning Benchmarks, Model Specs, and Comparisons](https://dev.to/best_codes/phi-4-reasoning-benchmarks-model-specs-and-comparisons-4hk)
+- [Vibe Coding — My Simple Way to Enjoy Coding More 🌿💻](https://dev.to/rohansh08/vibe-coding-my-simple-way-to-enjoy-coding-more-26i)
+- [Using nanostores in Astro + Vue setup](https://dev.to/nabeel_karnasym/using-nanostores-in-astro-vue-setup-1n55)
+- [Understanding Python Concurrency: Multithreading VS AsyncIO](https://dev.to/leapcell/understanding-python-concurrency-multithreading-vs-asyncio-3png)
 <!-- BLOG-POST-LIST:END -->
 
 
