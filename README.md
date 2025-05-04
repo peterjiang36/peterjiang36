@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Big Tech Is Slowly Ghosting Golang](https://dev.to/alikolahdoozan/why-big-tech-is-slowly-ghosting-golang-30bk)
-- [202/365 | ¥10M Job Challenge - Another day](https://dev.to/kameken100/202365-y10m-job-challenge-another-day-gci)
-- [Gestión de paquetes privados con Verdaccio: una solución eficiente para proyectos personales y colaborativos](https://dev.to/hackroot23/gestion-de-paquetes-privados-con-verdaccio-una-solucion-eficiente-para-proyectos-personales-y-3l3a)
-- [Funtion in Python](https://dev.to/blackmare01wolf/funtion-in-python-434e)
+- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://dev.to/nickytonline/gos-singleflight-package-and-why-itd-awesome-for-concurrent-requests-4di7)
+- [Implementing Vue Modal Route](https://dev.to/shunnnet/implementing-vue-modal-route-58ff)
+- [Alibaba Qwen 3 is the fastest LLM ever, Microsoft&#39;s byte-sized open source model, DeepSeek Prover is GREAT at maths, and more](https://dev.to/thisweekinaiengineering/alibaba-qwen-3-is-the-fastest-llm-ever-microsofts-byte-sized-open-source-model-deepseek-prover-416f)
+- [Learn Linux Navigation: Absolute vs Relative Paths Simplified](https://dev.to/abhishekshakya/learn-linux-navigation-absolute-vs-relative-paths-simplified-4d9m)
 <!-- BLOG-POST-LIST:END -->
 
 
