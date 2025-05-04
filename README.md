@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Emergence and Impact of Gitcoin Token &lpar;GTC&rpar; in the Web3 Ecosystem](https://dev.to/bobcars/the-emergence-and-impact-of-gitcoin-token-gtc-in-the-web3-ecosystem-4df1)
-- [Unleashing the Power of Gitcoin and Quadratic Funding: A New Frontier in Decentralized Innovation](https://dev.to/rachellovestowrite/unleashing-the-power-of-gitcoin-and-quadratic-funding-a-new-frontier-in-decentralized-innovation-417f)
-- [The AI Skill Overlord: A Self-Mutating Monolith in the Making](https://dev.to/owly/the-ai-skill-overlord-a-self-mutating-monolith-in-the-making-ebp)
-- [AI Repo of the Week: GitHub Copilot Adventures](https://dev.to/danwahlin/ai-repo-of-the-week-github-copilot-adventures-4b6h)
+- [Navigating the Complexities of Government Funding: A Technical &amp; Holistic Perspective](https://dev.to/laetitiaperraut/navigating-the-complexities-of-government-funding-a-technical-holistic-perspective-1k)
+- [Presale Managers: Increasing Margins and Driving IT Companies Toward Success](https://dev.to/pro-project-mngr/presale-managers-increasing-margins-and-driving-it-companies-toward-success-261o)
+- [Is AI really something anyone can use?](https://dev.to/uka_aidev/is-ai-really-something-anyone-can-use-4e3j)
+- [How to Calculate and Actually Reduce Your Churn Rate](https://dev.to/shayy/how-to-calculate-and-actually-reduce-your-churn-rate-14e0)
 <!-- BLOG-POST-LIST:END -->
 
 
