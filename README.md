@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Pointers in Golang in 2025?](https://dev.to/nigelsilonero/how-to-use-pointers-in-golang-in-2025-1482)
-- [Kotlin vs Java: Which is Better for Android Development?](https://dev.to/media_geneous_bb80d6b5563/kotlin-vs-java-which-is-better-for-android-development-ke7)
-- [Mastering AWS Cost Management: Take Control of Your Cloud Spend](https://dev.to/muhtoyyib/mastering-aws-cost-management-take-control-of-your-cloud-spend-3308)
-- [How to install PostgreSQL on macOS: Step-by-Step Instructions](https://dev.to/saif_uddin/install-postgresql-on-macos-4a4d)
+- [Why Big Tech Is Slowly Ghosting Golang](https://dev.to/alikolahdoozan/why-big-tech-is-slowly-ghosting-golang-30bk)
+- [202/365 | ¥10M Job Challenge - Another day](https://dev.to/kameken100/202365-y10m-job-challenge-another-day-gci)
+- [Gestión de paquetes privados con Verdaccio: una solución eficiente para proyectos personales y colaborativos](https://dev.to/hackroot23/gestion-de-paquetes-privados-con-verdaccio-una-solucion-eficiente-para-proyectos-personales-y-3l3a)
+- [Funtion in Python](https://dev.to/blackmare01wolf/funtion-in-python-434e)
 <!-- BLOG-POST-LIST:END -->
 
 
