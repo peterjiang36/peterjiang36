@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Organizar Suas Conversas com Inteligências Artificiais para Aumentar a Produtividade.](https://dev.to/robsonamendonca/como-organizar-suas-conversas-com-inteligencias-artificiais-para-aumentar-a-produtividade-enh)
-- [🧠 MedAi Pro – AI-Powered Medical Report Analyzer Using Camel AI, LLaMA 4, Groq API, and Streamlit_](https://dev.to/_tusharrathore/medai-pro-ai-powered-medical-report-analyzer-using-camel-ai-llama-4-groq-api-and-streamlit-p6a)
-- [Tell me about best object detection github repo written by pyton](https://dev.to/afshin_jian_4794d14082b7b/tell-me-about-best-object-detection-github-repo-written-by-pyton-5ffp)
-- [MedRecord – Secure Medical Records with Fine-Grained Access Control](https://dev.to/walidadebayo/medrecord-secure-medical-records-with-fine-grained-access-control-3b6)
+- [How to Use SAM in Scala for Discriminator Criteria Types](https://dev.to/generatecodedev/how-to-use-sam-in-scala-for-discriminator-criteria-types-4b94)
+- [The Most Subtle Bug approved in a PR](https://dev.to/gags88/the-most-subtle-bug-approved-in-a-pr-4ake)
+- [Timeline: My Career Shift from Mechanical Engineer to Cybersecurity](https://dev.to/davebellen/timeline-my-career-shift-from-mechanical-engineer-to-cybersecurity-p25)
+- [How to Disable Lightbox Behavior for Images in HTML?](https://dev.to/generatecodedev/how-to-disable-lightbox-behavior-for-images-in-html-p02)
 <!-- BLOG-POST-LIST:END -->
 
 
