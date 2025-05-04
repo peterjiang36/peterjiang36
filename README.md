@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ Keep Using AWS as Usual](https://dev.to/wiseai/keep-using-aws-as-usual-3dk6)
-- [A Proposal for a New State Management Method to Drastically Simplify Frontend Framework State Management](https://dev.to/mogera551/a-proposal-for-a-new-state-management-method-to-drastically-simplify-frontend-framework-state-179l)
-- [Foundational Project Structure for .NET Projects](https://dev.to/georgekobaidze/foundational-project-structure-for-net-projects-3dn3)
-- [Understanding IaaS/PaaS/SaaS](https://dev.to/tak089/understanding-iaaspaassaas-4m5g)
+- [May the Fourth CSS Art](https://dev.to/alvaromontoro/may-the-fourth-css-art-2205)
+- [Google Chrome feature makes JavaScript 10X faster, GSAP is now free, UNKNOWN JavaScript hack, and more](https://dev.to/thisweekinjavascript/google-chrome-feature-makes-javascript-10x-faster-gsap-is-now-free-unknown-javascript-hack-and-c8e)
+- [Clean Code Is a Habit, Not a Talent](https://dev.to/muhammad_chandrabintang/clean-code-is-a-habit-not-a-talent-2l01)
+- [From Java to Go: Why Composition is Preferred Over Inheritance](https://dev.to/leapcell/from-java-to-go-why-composition-is-preferred-over-inheritance-17h4)
 <!-- BLOG-POST-LIST:END -->
 
 
