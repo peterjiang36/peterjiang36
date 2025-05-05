@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Composant Dialogue avec RiotJS](https://dev.to/steeve/composant-dialogue-avec-riotjs-dne)
-- [💡 TinyLlama Meets LoRA: A Lightweight Approach to Emotion Classification](https://dev.to/mrzaizai2k/finetune-tiny-llama-on-lora-opg)
-- [CISA: Real-world Information Systems Auditing](https://dev.to/borisgigovic/cisa-real-world-information-systems-auditing-45mk)
-- [Linking Google Sheet to my HTML form](https://dev.to/augustine_ejoh/linking-google-sheet-to-my-html-form-1cik)
+- [Why Flip Phones Still Matter in 2025 | w/ Tom Barrasso](https://dev.to/mikehtmlallthethings/why-flip-phones-still-matter-in-2025-w-tom-barrasso-p9m)
+- [Logging in Spring Boot with SL4J](https://dev.to/mspilari/logging-in-spring-boot-with-sl4j-12ig)
+- [Convertir un forEach con if a un Stream con filter en Java](https://dev.to/asjordi/convertir-un-foreach-con-if-a-un-stream-con-filter-en-java-3okl)
+- [So, Don&#39;t Overreact But... I&#39;m So Over React](https://dev.to/besworks/so-dont-overreact-but-im-so-over-react-i52)
 <!-- BLOG-POST-LIST:END -->
 
 
