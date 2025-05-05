@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient String Splitting in PostgreSQL: 5 Essential Functions](https://dev.to/dbvismarketing/efficient-string-splitting-in-postgresql-5-essential-functions-5bkj)
-- [Quark’s Outlines: Python Delimiters](https://dev.to/mike-vincent/quarks-outlines-python-delimiters-5511)
-- [🚀 GitGuard – Secure Just-In-Time Repository Access with Biometrics &amp; Permit.io](https://dev.to/nikhilsahni7/gitguard-secure-just-in-time-repository-access-with-biometrics-permitio-ejp)
-- [How to Use Pinia for State Management in Vue](https://dev.to/jacobandrewsky/how-to-use-pinia-for-state-management-in-vue-535)
+- [Brighter and Azure: How to setup and use Brighter with Azure Service Bus](https://dev.to/actor-dev/brighter-and-azure-how-to-setup-and-use-brighter-with-azure-service-bus-1lj)
+- [RBAC vs. LBAC: Which Scales for Multi-Tenant Dashboards?](https://dev.to/giam/rbac-vs-lbac-which-scales-for-multi-tenant-dashboards-589l)
+- [Top 5 AI-Based Code Editors for Coding in 2025](https://dev.to/aneeqakhan/top-5-ai-based-code-editors-for-coding-in-2025-obm)
+- [How to Send Byte Arrays from Frida JS to Python Script](https://dev.to/generatecodedev/how-to-send-byte-arrays-from-frida-js-to-python-script-37m7)
 <!-- BLOG-POST-LIST:END -->
 
 
