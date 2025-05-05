@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [🧪 5 Surprisingly Useful Ways to Use Free APIs for Real Projects &lpar;Not Just Toy Demos&rpar;](https://dev.to/lonti-davidb/5-surprisingly-useful-ways-to-use-free-apis-for-real-projects-not-just-toy-demos-23o1)
+- [🐕 shortio — Secure Links for the Right People, Every Time](https://dev.to/wesleybertipaglia/shortio-my-submission-for-the-permitio-hackathon-5b1)
 - [How to Create a Generic Structure with a Default Type in Rust?](https://dev.to/generatecodedev/how-to-create-a-generic-structure-with-a-default-type-in-rust-58a4)
 - [🔁 1128. Number of Equivalent Domino Pairs – Explained with Code in C++, JavaScript, and Python](https://dev.to/om_shree_0709/1128-number-of-equivalent-domino-pairs-explained-with-code-in-c-javascript-and-python-1b97)
-- [# OpenSearch : 🚀 How to Improve Index and Shard Performance in OpenSearch](https://dev.to/mangesh28/-opensearch-how-to-improve-index-and-shard-performance-in-opensearch-1pe6)
-- [Milestone Two: Build 8 Is Here, and It’s a Big One](https://dev.to/tavrn/milestone-two-build-8-is-here-and-its-a-big-one-53hn)
 <!-- BLOG-POST-LIST:END -->
 
 
