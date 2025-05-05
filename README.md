@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Innovative Funding Through Tokenized Licenses for Open Source Projects](https://dev.to/ashucommits/innovative-funding-through-tokenized-licenses-for-open-source-projects-21kg)
-- [How to Add Unique ID to Each Row in CSV with C#](https://dev.to/generatecodedev/how-to-add-unique-id-to-each-row-in-csv-with-c-2hi6)
-- [PermiShout: Recreating Twitter with Access Control using Permit.io](https://dev.to/ansellmaximilian/permishout-recreating-twitter-with-access-control-using-permitio-16j0)
-- [Behind the Cloud - The TRUTH About TeraBox.](https://dev.to/yuvasec/behind-the-cloud-the-truth-about-terabox-3j49)
+- [Comparing Optimization Algorithms: Lessons from the Himmelblau Function](https://dev.to/darkstalker/comparing-optimization-algorithms-lessons-from-the-himmelblau-function-17nh)
+- [Hover Bug: A Prankware Simulator. Based on the &quot;Butterfly on Desktop&quot; &lpar;text only&rpar; that will probably never touch the corner.](https://dev.to/saahen_sriyan_mishra/hover-bug-a-prankware-simulator-based-on-the-butterfly-on-desktop-text-only-that-will-2dj6)
+- [Setup new project slot](https://dev.to/t_bi_a6d385ba2e05d3d128/setup-new-project-slot-b0p)
+- [Fragment Telegram: Security, Use Cases, and the Blockchain Connection](https://dev.to/bobcars/fragment-telegram-security-use-cases-and-the-blockchain-connection-1bdl)
 <!-- BLOG-POST-LIST:END -->
 
 
