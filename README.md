@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter and Azure: How to setup and use Brighter with Azure Service Bus](https://dev.to/actor-dev/brighter-and-azure-how-to-setup-and-use-brighter-with-azure-service-bus-1lj)
-- [RBAC vs. LBAC: Which Scales for Multi-Tenant Dashboards?](https://dev.to/giam/rbac-vs-lbac-which-scales-for-multi-tenant-dashboards-589l)
-- [Top 5 AI-Based Code Editors for Coding in 2025](https://dev.to/aneeqakhan/top-5-ai-based-code-editors-for-coding-in-2025-obm)
-- [How to Send Byte Arrays from Frida JS to Python Script](https://dev.to/generatecodedev/how-to-send-byte-arrays-from-frida-js-to-python-script-37m7)
+- [🚀 Why C++ Still Dominates Blockchain Development](https://dev.to/cryptosandy/why-c-still-dominates-blockchain-development-1b8k)
+- [Solana Developers Patch Critical Vulnerability: A Technical Breakdown](https://dev.to/philip_crypto92/solana-developers-patch-critical-vulnerability-a-technical-breakdown-2p67)
+- [where go wrong](https://dev.to/lingxiang_he_589358ba6243/where-go-wrong-4g3m)
+- [Custom ValidaCtion Rules in Laravel 12](https://dev.to/ayekpleclemence/custom-validaction-rules-in-laravel-12-4m8i)
 <!-- BLOG-POST-LIST:END -->
 
 
