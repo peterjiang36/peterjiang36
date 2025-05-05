@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖📚 Build Your Own AI-Powered Book Chatbot using Python, Flask, Lang Chain, and Pinecone!](https://dev.to/ujjwal_nepal/build-your-own-ai-powered-book-chatbot-using-python-flask-lang-chain-and-pinecone-loi)
-- [Setting up my home lab](https://dev.to/hanswillem/setting-up-my-home-lab-2fk5)
-- [A beginner&#39;s guide to the Qwen3-32b model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-32b-model-by-prunaai-on-replicate-flg)
-- [Dhvagna-DOM: A Lightweight TypeScript DOM Ready Utility by Gnanesh Balusa](https://dev.to/gnox79/dhvagna-dom-a-lightweight-typescript-dom-ready-utility-by-gnanesh-balusa-3hp)
+- [We Listened: Pgai Vectorizer Now Works With Any Postgres Database](https://dev.to/timescale/we-listened-pgai-vectorizer-now-works-with-any-postgres-database-1e57)
+- [🚀 OpenAI Agents SDK: A Step-by-Step Guide to Building Real-World MCP Agents with Composio](https://dev.to/composiodev/openai-agents-sdk-a-step-by-step-guide-to-building-real-world-mcp-agents-with-composio-4f92)
+- [The Ultimate Guide to Software Development Metrics: What to Measure &amp; What Matters](https://dev.to/genesis_technologies/the-ultimate-guide-to-software-development-metrics-what-to-measure-what-matters-1c8f)
+- [Whitelist Power Automate IP addresses for Azure Firewall](https://dev.to/andrewelans/whitelist-power-automate-ip-addresses-for-azure-firewall-2jkp)
 <!-- BLOG-POST-LIST:END -->
 
 
