@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Expedition 33 publisher: &quot;Elder Scrolls: Oblivion didn’t seem to harm us at all&quot;](https://dev.to/gg_news/expedition-33-publisher-elder-scrolls-oblivion-didnt-seem-to-harm-us-at-all-4in)
-- [$50 masterpiece in an $80 industry. Cost Quality](https://dev.to/gg_news/50-masterpiece-in-an-80-industry-cost-quality-23mi)
-- [How to Add a Login Page with SQL for Username and Password?](https://dev.to/generatecodedev/how-to-add-a-login-page-with-sql-for-username-and-password-562h)
-- [AI Music &lpar;Suno 4.5&rpar; Is Insane - Jpop DnB Producer Freya Fox Partners with SUNO for a Masterclass](https://dev.to/future_ai/ai-music-suno-45-is-insane-jpop-dnb-producer-freya-fox-partners-with-suno-for-a-masterclass-1pnd)
+- [Permissions API to Manage User Consent](https://dev.to/omriluz1/permissions-api-to-manage-user-consent-2eij)
+- [Hello world!](https://dev.to/joaquin_gerez/hello-world-46i1)
+- [SVG Halftone Filter Demo: Live Image Preview &amp; Toggle](https://dev.to/rodzyk/svg-halftone-filter-demo-live-image-preview-toggle-3pe0)
+- [How to Create a PHP Registration Form as a Single Page Application?](https://dev.to/generatecodedev/how-to-create-a-php-registration-form-as-a-single-page-application-56p)
 <!-- BLOG-POST-LIST:END -->
 
 
