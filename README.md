@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HireFlow: For candidates, recruiters, and companies](https://dev.to/sarahokolo/hireflow-for-candidates-recruiters-and-companies-52ng)
-- [Positional &amp; Keyword-Only Parameters in Python](https://dev.to/hyperkai/positional-keyword-only-parameters-in-python-1al4)
-- [Top AI Innovations Transforming Indian Businesses in 2025](https://dev.to/priyankapandey/top-ai-innovations-transforming-indian-businesses-in-2025-4amn)
-- [Image Processing Projects for Final Year Students](https://dev.to/william_george_1999/image-processing-projects-for-final-year-students-61m)
+- [Efficient String Splitting in PostgreSQL: 5 Essential Functions](https://dev.to/dbvismarketing/efficient-string-splitting-in-postgresql-5-essential-functions-5bkj)
+- [Quark’s Outlines: Python Delimiters](https://dev.to/mike-vincent/quarks-outlines-python-delimiters-5511)
+- [🚀 GitGuard – Secure Just-In-Time Repository Access with Biometrics &amp; Permit.io](https://dev.to/nikhilsahni7/gitguard-secure-just-in-time-repository-access-with-biometrics-permitio-ejp)
+- [How to Use Pinia for State Management in Vue](https://dev.to/jacobandrewsky/how-to-use-pinia-for-state-management-in-vue-535)
 <!-- BLOG-POST-LIST:END -->
 
 
