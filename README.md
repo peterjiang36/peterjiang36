@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Flip Phones Still Matter in 2025 | w/ Tom Barrasso](https://dev.to/mikehtmlallthethings/why-flip-phones-still-matter-in-2025-w-tom-barrasso-p9m)
-- [Logging in Spring Boot with SL4J](https://dev.to/mspilari/logging-in-spring-boot-with-sl4j-12ig)
-- [Convertir un forEach con if a un Stream con filter en Java](https://dev.to/asjordi/convertir-un-foreach-con-if-a-un-stream-con-filter-en-java-3okl)
-- [So, Don&#39;t Overreact But... I&#39;m So Over React](https://dev.to/besworks/so-dont-overreact-but-im-so-over-react-i52)
+- [🤖📚 Build Your Own AI-Powered Book Chatbot using Python, Flask, Lang Chain, and Pinecone!](https://dev.to/ujjwal_nepal/build-your-own-ai-powered-book-chatbot-using-python-flask-lang-chain-and-pinecone-loi)
+- [Setting up my home lab](https://dev.to/hanswillem/setting-up-my-home-lab-2fk5)
+- [A beginner&#39;s guide to the Qwen3-32b model by Prunaai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen3-32b-model-by-prunaai-on-replicate-flg)
+- [Dhvagna-DOM: A Lightweight TypeScript DOM Ready Utility by Gnanesh Balusa](https://dev.to/gnox79/dhvagna-dom-a-lightweight-typescript-dom-ready-utility-by-gnanesh-balusa-3hp)
 <!-- BLOG-POST-LIST:END -->
 
 
