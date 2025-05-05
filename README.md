@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Insights: AI, Cloud, and Quantum Advances &lpar;Apr 27 - May 3, 2025&rpar;](https://dev.to/djleamen/weekly-insights-ai-cloud-and-quantum-advances-apr-27-may-3-2025-4ppf)
-- [Evite requisições desnecessárias com debounce em JavaScript](https://dev.to/alissonfcosta/evite-requisicoes-desnecessarias-com-debounce-em-javascript-1dgi)
-- [How to Remove Cast in Hibernate Queries for DB2 z/OS?](https://dev.to/generatecodedev/how-to-remove-cast-in-hibernate-queries-for-db2-zos-1bnl)
-- [Understanding Laravel&#39;s Arr::dot&lpar;&rpar; Method](https://dev.to/therahul_gupta/understanding-laravels-arrdot-method-cn6)
+- [Optimizing Cleaning Resource Management with IoT](https://dev.to/jesus_hall_bropro/optimizing-cleaning-resource-management-with-iot-51lm)
+- [Microsoft&#39;s Journey into Open Source: From Proprietary Past to Collaborative Future](https://dev.to/zhangwei42/microsofts-journey-into-open-source-from-proprietary-past-to-collaborative-future-5efb)
+- [#1 on SWE-bench lite, achieved fully autonomously by open-source Refact.ai Agent](https://dev.to/refact/1-on-swe-bench-lite-achieved-fully-autonomously-by-open-source-refactai-agent-4mcj)
+- [How to Specify a Different Linker in GCC and Clang?](https://dev.to/generatecodedev/how-to-specify-a-different-linker-in-gcc-and-clang-397k)
 <!-- BLOG-POST-LIST:END -->
 
 
