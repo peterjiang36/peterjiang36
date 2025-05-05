@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Listened: Pgai Vectorizer Now Works With Any Postgres Database](https://dev.to/timescale/we-listened-pgai-vectorizer-now-works-with-any-postgres-database-1e57)
-- [🚀 OpenAI Agents SDK: A Step-by-Step Guide to Building Real-World MCP Agents with Composio](https://dev.to/composiodev/openai-agents-sdk-a-step-by-step-guide-to-building-real-world-mcp-agents-with-composio-4f92)
-- [The Ultimate Guide to Software Development Metrics: What to Measure &amp; What Matters](https://dev.to/genesis_technologies/the-ultimate-guide-to-software-development-metrics-what-to-measure-what-matters-1c8f)
-- [Whitelist Power Automate IP addresses for Azure Firewall](https://dev.to/andrewelans/whitelist-power-automate-ip-addresses-for-azure-firewall-2jkp)
+- [Vector Databases: The Secret Sauce for AI-Powered Search &lpar;That Won&#39;t Make Your Brain Explode&rpar;](https://dev.to/sakethkowtha/vector-databases-the-secret-sauce-for-ai-powered-search-that-wont-make-your-brain-explode-4147)
+- [Dev Diary #1 – Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-16mi)
+- [API Testing Essentials: What Every QA Engineer Should Know](https://dev.to/shubham-theqa/api-testing-essentials-what-every-qa-engineer-should-know-ei8)
+- [Drawing the Line: What Makes Support Vector Machines So Effective?](https://dev.to/leonhard_kwahle_7d09cf417/drawing-the-line-what-makes-support-vector-machines-so-effective-48e8)
 <!-- BLOG-POST-LIST:END -->
 
 
