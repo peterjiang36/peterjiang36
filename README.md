@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why C++ Still Dominates Blockchain Development](https://dev.to/cryptosandy/why-c-still-dominates-blockchain-development-1b8k)
-- [Solana Developers Patch Critical Vulnerability: A Technical Breakdown](https://dev.to/philip_crypto92/solana-developers-patch-critical-vulnerability-a-technical-breakdown-2p67)
-- [where go wrong](https://dev.to/lingxiang_he_589358ba6243/where-go-wrong-4g3m)
-- [Custom ValidaCtion Rules in Laravel 12](https://dev.to/ayekpleclemence/custom-validaction-rules-in-laravel-12-4m8i)
+- [Understanding gRPC: The Power of Single Long-Lived Connection](https://dev.to/nozibul_islam_113b1d5334f/understanding-grpc-the-power-of-single-long-lived-connection-3np4)
+- [Recurrent Neural Networks &lpar;RNNs&rpar;: A Comprehensive Guide](https://dev.to/wininlife_academy_14d5cee/recurrent-neural-networks-rnns-a-comprehensive-guide-2ja3)
+- [No-Code Machine Learning with Azure: Tools and Techniques](https://dev.to/sandrabrown/no-code-machine-learning-with-azure-tools-and-techniques-6lk)
+- [Synesthetic Data Interfaces: Turning Code into Color, Sound, and Touch](https://dev.to/olivia_turne_1df55df1198b/synesthetic-data-interfaces-turning-code-into-color-sound-and-touch-2lal)
 <!-- BLOG-POST-LIST:END -->
 
 
