@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Entgo.io - Many to Many](https://dev.to/mossnana/lng-entgoio-tham-many-to-many-41pd)
-- [How to Fix PowerPoint Errors When Creating PPT with Apache POI?](https://dev.to/generatecodedev/how-to-fix-powerpoint-errors-when-creating-ppt-with-apache-poi-1aah)
-- [AI Agents Behavior Versioning and Evaluation in Practice](https://dev.to/bobur/ai-agents-behavior-versioning-and-evaluation-in-practice-5b6g)
-- [Top 15 New Tech Jobs in Nigeria](https://dev.to/toptrendingjobs/top-15-new-tech-jobs-in-nigeria-4oin)
+- [Composant Dialogue avec RiotJS](https://dev.to/steeve/composant-dialogue-avec-riotjs-dne)
+- [💡 TinyLlama Meets LoRA: A Lightweight Approach to Emotion Classification](https://dev.to/mrzaizai2k/finetune-tiny-llama-on-lora-opg)
+- [CISA: Real-world Information Systems Auditing](https://dev.to/borisgigovic/cisa-real-world-information-systems-auditing-45mk)
+- [Linking Google Sheet to my HTML form](https://dev.to/augustine_ejoh/linking-google-sheet-to-my-html-form-1cik)
 <!-- BLOG-POST-LIST:END -->
 
 
