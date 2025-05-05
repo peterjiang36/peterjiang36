@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Intelligent Retail](https://dev.to/rawveg/intelligent-retail-3ie3)
-- [Agendas lead to more productive meetings](https://dev.to/rally_for_jira/agendas-lead-to-more-productive-meetings-3p9o)
-- [How I Built a Simple AI Side Project for Extra Income &lpar;With Code You Can Copy&rpar;](https://dev.to/limacodes/how-i-built-a-simple-ai-side-project-for-extra-income-with-code-you-can-copy-585e)
-- [Building AI Pipelines Like Lego Blocks: LCEL with RAG](https://dev.to/mario_s/building-ai-pipelines-like-lego-blocks-lcel-with-rag-1lpc)
+- [How to Create a Generic Structure with a Default Type in Rust?](https://dev.to/generatecodedev/how-to-create-a-generic-structure-with-a-default-type-in-rust-58a4)
+- [🔁 1128. Number of Equivalent Domino Pairs – Explained with Code in C++, JavaScript, and Python](https://dev.to/om_shree_0709/1128-number-of-equivalent-domino-pairs-explained-with-code-in-c-javascript-and-python-1b97)
+- [# OpenSearch : 🚀 How to Improve Index and Shard Performance in OpenSearch](https://dev.to/mangesh28/-opensearch-how-to-improve-index-and-shard-performance-in-opensearch-1pe6)
+- [Milestone Two: Build 8 Is Here, and It’s a Big One](https://dev.to/tavrn/milestone-two-build-8-is-here-and-its-a-big-one-53hn)
 <!-- BLOG-POST-LIST:END -->
 
 
