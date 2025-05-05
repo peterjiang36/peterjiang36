@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Optimization Algorithms: Lessons from the Himmelblau Function](https://dev.to/darkstalker/comparing-optimization-algorithms-lessons-from-the-himmelblau-function-17nh)
-- [Hover Bug: A Prankware Simulator. Based on the &quot;Butterfly on Desktop&quot; &lpar;text only&rpar; that will probably never touch the corner.](https://dev.to/saahen_sriyan_mishra/hover-bug-a-prankware-simulator-based-on-the-butterfly-on-desktop-text-only-that-will-2dj6)
-- [Setup new project slot](https://dev.to/t_bi_a6d385ba2e05d3d128/setup-new-project-slot-b0p)
-- [Fragment Telegram: Security, Use Cases, and the Blockchain Connection](https://dev.to/bobcars/fragment-telegram-security-use-cases-and-the-blockchain-connection-1bdl)
+- [There&#39;s Nothing Wrong With Coding Just to Pay the Bills](https://dev.to/canro91/theres-nothing-wrong-with-coding-just-to-pay-the-bills-4081)
+- [Modern Authentication Methods OAuth, JWT, and Beyond](https://dev.to/hasunnilupul/modern-authentication-methods-oauth-jwt-and-beyond-29fo)
+- [🚀 How to Deploy Any WordPress Web App Using Docker](https://dev.to/shashank_sm_eeb714f39c824/how-to-deploy-any-wordpress-web-app-using-docker-1h5c)
+- [Modern ANIMATED Drink Ui](https://dev.to/preetha_vaishnavi_2b82358/modern-animated-drink-ui-fko)
 <!-- BLOG-POST-LIST:END -->
 
 
