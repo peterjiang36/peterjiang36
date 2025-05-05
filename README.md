@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Databases: The Secret Sauce for AI-Powered Search &lpar;That Won&#39;t Make Your Brain Explode&rpar;](https://dev.to/sakethkowtha/vector-databases-the-secret-sauce-for-ai-powered-search-that-wont-make-your-brain-explode-4147)
-- [Dev Diary #1 – Google Agent Development Kit: Lessons I Learned](https://dev.to/protsenko/dev-diary-1-google-agent-development-kit-lessons-i-learned-16mi)
-- [API Testing Essentials: What Every QA Engineer Should Know](https://dev.to/shubham-theqa/api-testing-essentials-what-every-qa-engineer-should-know-ei8)
-- [Drawing the Line: What Makes Support Vector Machines So Effective?](https://dev.to/leonhard_kwahle_7d09cf417/drawing-the-line-what-makes-support-vector-machines-so-effective-48e8)
+- [Streaming LLM Responses — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/streaming-llm-responses-tutorial-for-dummies-using-pocketflow-3g9p)
+- [Marketplace de Drupal](https://dev.to/oskar_calvo_1615a9b3b293f/marketplace-de-drupal-22ac)
+- [Validasi di Frontend dan Backend: Kenapa Harus Dua-duanya?](https://dev.to/thecrudify/validasi-di-frontend-dan-backend-kenapa-harus-dua-duanya-2f05)
+- [Bring third-party incidents into Better Stack](https://dev.to/isdown/bring-third-party-incidents-into-better-stack-54oa)
 <!-- BLOG-POST-LIST:END -->
 
 
