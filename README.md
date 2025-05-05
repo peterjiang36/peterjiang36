@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming LLM Responses — Tutorial For Dummies &lpar;Using PocketFlow!&rpar;](https://dev.to/zachary62/streaming-llm-responses-tutorial-for-dummies-using-pocketflow-3g9p)
-- [Marketplace de Drupal](https://dev.to/oskar_calvo_1615a9b3b293f/marketplace-de-drupal-22ac)
-- [Validasi di Frontend dan Backend: Kenapa Harus Dua-duanya?](https://dev.to/thecrudify/validasi-di-frontend-dan-backend-kenapa-harus-dua-duanya-2f05)
-- [Bring third-party incidents into Better Stack](https://dev.to/isdown/bring-third-party-incidents-into-better-stack-54oa)
+- [How to Detect Offline/Online Status in ReactJS](https://dev.to/balwant_chaudhary/how-to-detect-offlineonline-status-in-reactjs-47ed)
+- [Use Apps Script for custom Workspace Flows triggers](https://dev.to/googleworkspace/use-apps-script-for-custom-workspace-flows-triggers-i45)
+- [How to Dynamically Configure REST API URLs in Angular](https://dev.to/generatecodedev/how-to-dynamically-configure-rest-api-urls-in-angular-2gdc)
+- [Go #008 – Closures: Escape Analysis in Action](https://dev.to/imzihad21/go-008-closures-escape-analysis-in-action-3gjb)
 <!-- BLOG-POST-LIST:END -->
 
 
