@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AuthClinic: A Unified Access Control Demo for Healthcare Applications](https://dev.to/cynexium/authclinic-a-unified-access-control-demo-for-healthcare-applications-klf)
-- [Import a large CSV more than 1G into a database quickly](https://dev.to/ryjfgjl/import-a-large-csv-more-than-1g-into-a-database-quickly-244e)
-- [Realistic Snake twists using just 2 images? Possible!](https://dev.to/spekcezstolicku/realistic-snake-twists-using-just-2-images-possible-49oc)
-- [How to Simplify Operand Size Handling in C for Emulators?](https://dev.to/generatecodedev/how-to-simplify-operand-size-handling-in-c-for-emulators-2k6a)
+- [Innovative Funding Through Tokenized Licenses for Open Source Projects](https://dev.to/ashucommits/innovative-funding-through-tokenized-licenses-for-open-source-projects-21kg)
+- [How to Add Unique ID to Each Row in CSV with C#](https://dev.to/generatecodedev/how-to-add-unique-id-to-each-row-in-csv-with-c-2hi6)
+- [PermiShout: Recreating Twitter with Access Control using Permit.io](https://dev.to/ansellmaximilian/permishout-recreating-twitter-with-access-control-using-permitio-16j0)
+- [Behind the Cloud - The TRUTH About TeraBox.](https://dev.to/yuvasec/behind-the-cloud-the-truth-about-terabox-3j49)
 <!-- BLOG-POST-LIST:END -->
 
 
