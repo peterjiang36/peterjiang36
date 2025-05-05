@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding gRPC: The Power of Single Long-Lived Connection](https://dev.to/nozibul_islam_113b1d5334f/understanding-grpc-the-power-of-single-long-lived-connection-3np4)
-- [Recurrent Neural Networks &lpar;RNNs&rpar;: A Comprehensive Guide](https://dev.to/wininlife_academy_14d5cee/recurrent-neural-networks-rnns-a-comprehensive-guide-2ja3)
-- [No-Code Machine Learning with Azure: Tools and Techniques](https://dev.to/sandrabrown/no-code-machine-learning-with-azure-tools-and-techniques-6lk)
-- [Synesthetic Data Interfaces: Turning Code into Color, Sound, and Touch](https://dev.to/olivia_turne_1df55df1198b/synesthetic-data-interfaces-turning-code-into-color-sound-and-touch-2lal)
+- [Entgo.io - Many to Many](https://dev.to/mossnana/lng-entgoio-tham-many-to-many-41pd)
+- [How to Fix PowerPoint Errors When Creating PPT with Apache POI?](https://dev.to/generatecodedev/how-to-fix-powerpoint-errors-when-creating-ppt-with-apache-poi-1aah)
+- [AI Agents Behavior Versioning and Evaluation in Practice](https://dev.to/bobur/ai-agents-behavior-versioning-and-evaluation-in-practice-5b6g)
+- [Top 15 New Tech Jobs in Nigeria](https://dev.to/toptrendingjobs/top-15-new-tech-jobs-in-nigeria-4oin)
 <!-- BLOG-POST-LIST:END -->
 
 
