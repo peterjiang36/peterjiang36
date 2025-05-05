@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Permissions API to Manage User Consent](https://dev.to/omriluz1/permissions-api-to-manage-user-consent-2eij)
-- [Hello world!](https://dev.to/joaquin_gerez/hello-world-46i1)
-- [SVG Halftone Filter Demo: Live Image Preview &amp; Toggle](https://dev.to/rodzyk/svg-halftone-filter-demo-live-image-preview-toggle-3pe0)
-- [How to Create a PHP Registration Form as a Single Page Application?](https://dev.to/generatecodedev/how-to-create-a-php-registration-form-as-a-single-page-application-56p)
+- [Weekly Insights: AI, Cloud, and Quantum Advances &lpar;Apr 27 - May 3, 2025&rpar;](https://dev.to/djleamen/weekly-insights-ai-cloud-and-quantum-advances-apr-27-may-3-2025-4ppf)
+- [Evite requisições desnecessárias com debounce em JavaScript](https://dev.to/alissonfcosta/evite-requisicoes-desnecessarias-com-debounce-em-javascript-1dgi)
+- [How to Remove Cast in Hibernate Queries for DB2 z/OS?](https://dev.to/generatecodedev/how-to-remove-cast-in-hibernate-queries-for-db2-zos-1bnl)
+- [Understanding Laravel&#39;s Arr::dot&lpar;&rpar; Method](https://dev.to/therahul_gupta/understanding-laravels-arrdot-method-cn6)
 <!-- BLOG-POST-LIST:END -->
 
 
