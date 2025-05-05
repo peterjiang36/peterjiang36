@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s Nothing Wrong With Coding Just to Pay the Bills](https://dev.to/canro91/theres-nothing-wrong-with-coding-just-to-pay-the-bills-4081)
-- [Modern Authentication Methods OAuth, JWT, and Beyond](https://dev.to/hasunnilupul/modern-authentication-methods-oauth-jwt-and-beyond-29fo)
-- [🚀 How to Deploy Any WordPress Web App Using Docker](https://dev.to/shashank_sm_eeb714f39c824/how-to-deploy-any-wordpress-web-app-using-docker-1h5c)
-- [Modern ANIMATED Drink Ui](https://dev.to/preetha_vaishnavi_2b82358/modern-animated-drink-ui-fko)
+- [HireFlow: For candidates, recruiters, and companies](https://dev.to/sarahokolo/hireflow-for-candidates-recruiters-and-companies-52ng)
+- [Positional &amp; Keyword-Only Parameters in Python](https://dev.to/hyperkai/positional-keyword-only-parameters-in-python-1al4)
+- [Top AI Innovations Transforming Indian Businesses in 2025](https://dev.to/priyankapandey/top-ai-innovations-transforming-indian-businesses-in-2025-4amn)
+- [Image Processing Projects for Final Year Students](https://dev.to/william_george_1999/image-processing-projects-for-final-year-students-61m)
 <!-- BLOG-POST-LIST:END -->
 
 
