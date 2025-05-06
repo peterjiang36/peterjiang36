@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling with AI job interviews? Share tips, experiences, and questions here! Whether it&#39;s technical questions, AI tools like interview copilots, or company-specific rounds—let’s help each other crack the next big opportunity. 💼🤖 #AIJobs #InterviewTips](https://dev.to/lockedinai1/struggling-with-ai-job-interviews-share-tips-experiences-and-questions-here-whether-its-3c0a)
-- [Why Aren&#39;t My CSS Changes Reflecting on My Django App?](https://dev.to/generatecodedev/why-arent-my-css-changes-reflecting-on-my-django-app-91j)
-- [LinkedIn Account](https://dev.to/m__mdy__m/linkedin-account-45e6)
-- [What’s Wrong with My TypeScript SPL Token Transfer Code?](https://dev.to/generatecodedev/whats-wrong-with-my-typescript-spl-token-transfer-code-146)
+- [Beyond Heroes and Villains](https://dev.to/rawveg/beyond-heroes-and-villains-578o)
+- [The Documentation Paradox](https://dev.to/rally_for_jira/the-documentation-paradox-o2b)
+- [Coding Challenge Practice - Question 3](https://dev.to/tomivan/coding-challenge-practice-question-3-25mo)
+- [How to Humanize Strings in C# Like Ruby&#39;s Humanize?](https://dev.to/generatecodedev/how-to-humanize-strings-in-c-like-rubys-humanize-4jke)
 <!-- BLOG-POST-LIST:END -->
 
 
