@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can I Combine CSS and JavaScript Files in WordPress?](https://dev.to/generatecodedev/can-i-combine-css-and-javascript-files-in-wordpress-3kdd)
-- [AI Coding Agents: The Building Blocks of Tomorrow&#39;s Software Development Lifecycle](https://dev.to/ch_wood/ai-coding-agents-the-building-blocks-of-tomorrows-software-development-lifecycle-1jd5)
-- [[Boost]](https://dev.to/uliyahoo/-5flb)
-- [Proxmox Üzerinde NVIDIA GPU Passthrough Yapılandırması [Homelab]](https://dev.to/berke_eretin_3d5d6945cc1/proxmox-uzerinde-nvidia-gpu-passthrough-yapilandirmasi-homelab-1gk7)
+- [IoT Solutions for Automated Public Restroom Cleaning](https://dev.to/jesus_hall_bropro/iot-solutions-for-automated-public-restroom-cleaning-488i)
+- [&quot;Trash to Treasure: Boost Your Income with Unconventional Revenue Hacks!&quot;](https://dev.to/dibborah100/trash-to-treasure-boost-your-income-with-unconventional-revenue-hacks-48ia)
+- [Can I Use GNU Parallel with Spamassassin&#39;s sa-learn Safely?](https://dev.to/generatecodedev/can-i-use-gnu-parallel-with-spamassassins-sa-learn-safely-207k)
+- [Getting Started with Angular: What I Wish I Knew as a Beginner](https://dev.to/indhu_meena_31827c04b1748/getting-started-with-angular-what-i-wish-i-knew-as-a-beginner-38ae)
 <!-- BLOG-POST-LIST:END -->
 
 
