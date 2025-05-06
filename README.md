@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Discovered enumerate&lpar;&rpar;](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-enumerate-523f)
-- [How to Access Fields with Spaces in Lumerical FDTD Farfield Data?](https://dev.to/generatecodedev/how-to-access-fields-with-spaces-in-lumerical-fdtd-farfield-data-4n9k)
-- [be careful with return values in go](https://dev.to/csm18/be-careful-with-return-values-in-go-ik4)
-- [Sharpen Your Strategy: Blending Budget Models with Smart Analysis](https://dev.to/modelreef/sharpen-your-strategy-blending-budget-models-with-smart-analysis-2eag)
+- [Code Review Exercises That Actually Work: Java Edition &lpar;Junior to Senior&rpar;](https://dev.to/iamibi/code-review-exercises-that-actually-work-java-edition-junior-to-senior-2lp1)
+- [Beyond DORA: Redefining DevOps Metrics in the Age of AI](https://dev.to/pullflow/beyond-dora-redefining-devops-metrics-in-the-age-of-ai-4n90)
+- [I just published a tutorial on parallel LLM calls: https://dev.to/zachary62/parallel-llm-calls-from-scratch-tutorial-for-dummies-using-pocketflow-1972](https://dev.to/zachary62/i-just-published-a-tutorial-on-parallel-llm-calls-10ki)
+- [DataWeave Functions in MuleSoft: A Complete Guide](https://dev.to/kapusto/dataweave-functions-in-mulesoft-a-complete-guide-8ip)
 <!-- BLOG-POST-LIST:END -->
 
 
