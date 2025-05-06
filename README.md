@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Catalysis Today: Progress, Purpose, and the Future of Shared Security](https://dev.to/dhis_is_jj/catalysis-today-progress-purpose-and-the-future-of-shared-security-353b)
-- [The Scraping Story: The Car Repair Team](https://dev.to/nedajahanfar/the-scraping-story-the-car-repair-team-37jh)
-- [&quot;Cash in on Creativity: Unleash and Monetize Your Talents in the Digital Era&quot;](https://dev.to/dibborah100/cash-in-on-creativity-unleash-and-monetize-your-talents-in-the-digital-era-51i3)
-- [IaCConf 2025: Why Infrastructure as Code deserves its own conference](https://dev.to/flaviuscdinu/iacconf-2025-why-infrastructure-as-code-deserves-its-own-conference-400f)
+- [Common Issues Identified In DMARC Reports And How To Resolve Them](https://dev.to/joywinter90/common-issues-identified-in-dmarc-reports-and-how-to-resolve-them-4jia)
+- [Solving TryHackMe&#39;s &quot;Brains&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-brains-room-a-complete-walktrough-6cp)
+- [The Rise of Web3: A Tech Leader&#39;s Perspective](https://dev.to/klimd1389/the-rise-of-web3-a-tech-leaders-perspective-3cc7)
+- [How to Fix Firebase App Not Initialized Error in Flutter](https://dev.to/generatecodedev/how-to-fix-firebase-app-not-initialized-error-in-flutter-69c)
 <!-- BLOG-POST-LIST:END -->
 
 
