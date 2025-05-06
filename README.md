@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Learning to Decode Animal Languages through Urban Noise](https://dev.to/rubyjane/how-ai-is-learning-to-decode-animal-languages-through-urban-noise-2lci)
-- [How to Handle Surrogate Characters in UTF-8 Conversion in C?](https://dev.to/generatecodedev/how-to-handle-surrogate-characters-in-utf-8-conversion-in-c-2nei)
-- [OpenSea and Open Source Licensing: Navigating the Digital Marketplace](https://dev.to/ashucommits/opensea-and-open-source-licensing-navigating-the-digital-marketplace-32l3)
-- [Understanding MySQL Composite Indexes: Structure, Search Behavior, and Optimization Principles](https://dev.to/jing_li/understanding-mysql-composite-indexes-structure-search-behavior-and-optimization-principles-4d5l)
+- [Background Sync API for Offline Synchronization](https://dev.to/omriluz1/background-sync-api-for-offline-synchronization-44ko)
+- [How to Fetch Files From a GitHub Release &lpar;Without CORS Errors&rpar;](https://dev.to/reynaldi/how-to-fetch-files-from-a-github-release-without-cors-errors-2oc7)
+- [Feeling a bit lost- Seeking guidance](https://dev.to/vanshika_razoriya_88d3cb7/feeling-a-bit-lost-seeking-guidance-3b60)
+- [Open Source Developer Compensation Plans: Navigating Rewards in Collaborative Code](https://dev.to/vitalisorenko/open-source-developer-compensation-plans-navigating-rewards-in-collaborative-code-33dg)
 <!-- BLOG-POST-LIST:END -->
 
 
