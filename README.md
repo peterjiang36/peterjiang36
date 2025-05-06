@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Issues Identified In DMARC Reports And How To Resolve Them](https://dev.to/joywinter90/common-issues-identified-in-dmarc-reports-and-how-to-resolve-them-4jia)
-- [Solving TryHackMe&#39;s &quot;Brains&quot; Room: A complete Walktrough](https://dev.to/shadownet0110/solving-tryhackmes-brains-room-a-complete-walktrough-6cp)
-- [The Rise of Web3: A Tech Leader&#39;s Perspective](https://dev.to/klimd1389/the-rise-of-web3-a-tech-leaders-perspective-3cc7)
-- [How to Fix Firebase App Not Initialized Error in Flutter](https://dev.to/generatecodedev/how-to-fix-firebase-app-not-initialized-error-in-flutter-69c)
+- [🚀 Launch a PDF Viewer in Nuxt Using @vue-pdf-viewer [Guide for 2025] 🔥](https://dev.to/9haroon/launch-a-pdf-viewer-in-nuxt-using-vue-pdf-viewer-guide-for-2025-2o85)
+- [Learn to Track Bitcoin Prices Every Minute with MongoDB Charts!](https://dev.to/saint_vandora/learn-to-track-bitcoin-prices-every-minute-with-mongodb-charts-4af3)
+- [HashCode&lpar;&rpar; in Java](https://dev.to/sudhakar_v_c404997aeec839/hashcode-in-java-59f1)
+- [Token Velocity and Slippage: How TDMM Optimizes for User and Project Gains](https://dev.to/vishal_singh_8666966f9bcc/token-velocity-and-slippage-how-tdmm-optimizes-for-user-and-project-gains-4b8p)
 <!-- BLOG-POST-LIST:END -->
 
 
