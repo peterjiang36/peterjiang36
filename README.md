@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT Solutions for Automated Public Restroom Cleaning](https://dev.to/jesus_hall_bropro/iot-solutions-for-automated-public-restroom-cleaning-488i)
-- [&quot;Trash to Treasure: Boost Your Income with Unconventional Revenue Hacks!&quot;](https://dev.to/dibborah100/trash-to-treasure-boost-your-income-with-unconventional-revenue-hacks-48ia)
-- [Can I Use GNU Parallel with Spamassassin&#39;s sa-learn Safely?](https://dev.to/generatecodedev/can-i-use-gnu-parallel-with-spamassassins-sa-learn-safely-207k)
-- [Getting Started with Angular: What I Wish I Knew as a Beginner](https://dev.to/indhu_meena_31827c04b1748/getting-started-with-angular-what-i-wish-i-knew-as-a-beginner-38ae)
+- [Struggling with AI job interviews? Share tips, experiences, and questions here! Whether it&#39;s technical questions, AI tools like interview copilots, or company-specific rounds—let’s help each other crack the next big opportunity. 💼🤖 #AIJobs #InterviewTips](https://dev.to/lockedinai1/struggling-with-ai-job-interviews-share-tips-experiences-and-questions-here-whether-its-3c0a)
+- [Why Aren&#39;t My CSS Changes Reflecting on My Django App?](https://dev.to/generatecodedev/why-arent-my-css-changes-reflecting-on-my-django-app-91j)
+- [LinkedIn Account](https://dev.to/m__mdy__m/linkedin-account-45e6)
+- [What’s Wrong with My TypeScript SPL Token Transfer Code?](https://dev.to/generatecodedev/whats-wrong-with-my-typescript-spl-token-transfer-code-146)
 <!-- BLOG-POST-LIST:END -->
 
 
