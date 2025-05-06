@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The code review chaos we faced with GitLab &lpar;and what we tried to fix it&rpar;](https://dev.to/thetwentyfive/the-code-review-chaos-we-faced-with-gitlab-and-what-we-tried-to-fix-it-3gl7)
-- [How to Replace Empty Anchor Tags with IDs in HTML Files?](https://dev.to/generatecodedev/how-to-replace-empty-anchor-tags-with-ids-in-html-files-fhg)
-- [Highly recommended, brilliant writings.](https://dev.to/manwar/highly-recommended-brilliant-writings-51j)
-- [Let&#39;s Encrypt DNS Challenge with Traefik and AWS Route 53](https://dev.to/kasundsilva/lets-encrypt-dns-challenge-with-traefik-and-aws-route-53-1l1f)
+- [Building a Responsive Product Filter and Sort UI with Tailwind CSS](https://dev.to/hexshift/building-a-responsive-product-filter-and-sort-ui-with-tailwind-css-5e3e)
+- [What is the &#39;this&#39; Keyword in JavaScript and How to Use It?](https://dev.to/generatecodedev/what-is-the-this-keyword-in-javascript-and-how-to-use-it-33hd)
+- [LangChain Agent with Bright Data Provider](https://dev.to/ranjancse/langchain-agent-with-bright-data-provider-4nbp)
+- [Creating Responsive Product Grids with Tailwind CSS](https://dev.to/hexshift/creating-responsive-product-grids-with-tailwind-css-3dae)
 <!-- BLOG-POST-LIST:END -->
 
 
