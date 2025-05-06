@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud-Native: Are You Paying for What You Use… or for What You Provision?](https://dev.to/mr_stone/cloud-native-are-you-paying-for-what-you-use-or-for-what-you-provision-4k95)
-- [Smarter RAG Systems with Graphs](https://dev.to/seuros/smarter-rag-systems-with-graphs-4bg)
-- [Solution-Level Architecture: The Blueprint Between Strategy and Code](https://dev.to/lovestaco/solution-level-architecture-the-blueprint-between-strategy-and-code-lm2)
-- [The Rise of AI Agents: How Autonomous Tools Are Changing the Way We Work](https://dev.to/nhc_siam/the-rise-of-ai-agents-how-autonomous-tools-are-changing-the-way-we-work-hb)
+- [Can I Combine CSS and JavaScript Files in WordPress?](https://dev.to/generatecodedev/can-i-combine-css-and-javascript-files-in-wordpress-3kdd)
+- [AI Coding Agents: The Building Blocks of Tomorrow&#39;s Software Development Lifecycle](https://dev.to/ch_wood/ai-coding-agents-the-building-blocks-of-tomorrows-software-development-lifecycle-1jd5)
+- [[Boost]](https://dev.to/uliyahoo/-5flb)
+- [Proxmox Üzerinde NVIDIA GPU Passthrough Yapılandırması [Homelab]](https://dev.to/berke_eretin_3d5d6945cc1/proxmox-uzerinde-nvidia-gpu-passthrough-yapilandirmasi-homelab-1gk7)
 <!-- BLOG-POST-LIST:END -->
 
 
