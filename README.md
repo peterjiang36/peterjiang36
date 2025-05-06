@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Chatbots Are Your WordPress Superpower in 2025](https://dev.to/abu_noimmdtoha_036541e/why-chatbots-are-your-wordpress-superpower-in-2025-1k3a)
-- [How to Fix User Agent Access Issues in Flutter Web?](https://dev.to/generatecodedev/how-to-fix-user-agent-access-issues-in-flutter-web-4b87)
-- [Top 8 Open-Source Tools for Web Application Development](https://dev.to/nocobase/top-8-open-source-tools-for-web-application-development-5fi9)
-- [Nice to know!](https://dev.to/robertghenciu/nice-to-know-1mhm)
+- [Catalysis Today: Progress, Purpose, and the Future of Shared Security](https://dev.to/dhis_is_jj/catalysis-today-progress-purpose-and-the-future-of-shared-security-353b)
+- [The Scraping Story: The Car Repair Team](https://dev.to/nedajahanfar/the-scraping-story-the-car-repair-team-37jh)
+- [&quot;Cash in on Creativity: Unleash and Monetize Your Talents in the Digital Era&quot;](https://dev.to/dibborah100/cash-in-on-creativity-unleash-and-monetize-your-talents-in-the-digital-era-51i3)
+- [IaCConf 2025: Why Infrastructure as Code deserves its own conference](https://dev.to/flaviuscdinu/iacconf-2025-why-infrastructure-as-code-deserves-its-own-conference-400f)
 <!-- BLOG-POST-LIST:END -->
 
 
