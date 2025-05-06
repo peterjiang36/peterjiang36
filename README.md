@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Plan a Corporate Data Migration to the Cloud with Security and High Availability](https://dev.to/fred_rodrigues_996451110b/how-to-plan-a-corporate-data-migration-to-the-cloud-with-security-and-high-availability-413c)
-- [Understanding Recursion in Python: A Beginner-Friendly Guide Part 2](https://dev.to/ciamuthama/understanding-recursion-in-python-a-beginner-friendly-guide-part-2-4iph)
-- [How to Download SSRS Reports in CSV with PHP cURL and Fix Encoding Issues?](https://dev.to/generatecodedev/how-to-download-ssrs-reports-in-csv-with-php-curl-and-fix-encoding-issues-4mp2)
-- [AI Meets Safety: Real-Time Face Mask Detection with Python](https://dev.to/ardhansu/ai-meets-safety-real-time-face-mask-detection-with-python-3ol7)
+- [Cloud-Native: Are You Paying for What You Use… or for What You Provision?](https://dev.to/mr_stone/cloud-native-are-you-paying-for-what-you-use-or-for-what-you-provision-4k95)
+- [Smarter RAG Systems with Graphs](https://dev.to/seuros/smarter-rag-systems-with-graphs-4bg)
+- [Solution-Level Architecture: The Blueprint Between Strategy and Code](https://dev.to/lovestaco/solution-level-architecture-the-blueprint-between-strategy-and-code-lm2)
+- [The Rise of AI Agents: How Autonomous Tools Are Changing the Way We Work](https://dev.to/nhc_siam/the-rise-of-ai-agents-how-autonomous-tools-are-changing-the-way-we-work-hb)
 <!-- BLOG-POST-LIST:END -->
 
 
