@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
-- [Adding Search to Your Markdown Knowledge Base Without a Backend](https://dev.to/hexshift/adding-search-to-your-markdown-knowledge-base-without-a-backend-35pc)
-- [Generative AI Interview for Senior Data Scientists: 50 Key Questions and Answers](https://dev.to/bits-bytes-nn/generative-ai-interview-for-senior-data-scientists-50-key-questions-and-answers-4g8l)
-- [Day:37-While loop practice 3](https://dev.to/pavithra_c_butterfly/day37-while-loop-practice-3-3a29)
+- [The Day I Discovered enumerate&lpar;&rpar;](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-enumerate-523f)
+- [How to Access Fields with Spaces in Lumerical FDTD Farfield Data?](https://dev.to/generatecodedev/how-to-access-fields-with-spaces-in-lumerical-fdtd-farfield-data-4n9k)
+- [be careful with return values in go](https://dev.to/csm18/be-careful-with-return-values-in-go-ik4)
+- [Sharpen Your Strategy: Blending Budget Models with Smart Analysis](https://dev.to/modelreef/sharpen-your-strategy-blending-budget-models-with-smart-analysis-2eag)
 <!-- BLOG-POST-LIST:END -->
 
 
