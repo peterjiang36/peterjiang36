@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13/ 30 Days of Linux Mastery: Task Automation with Cron](https://dev.to/amandaigwe/day-13-30-days-of-linux-mastery-task-automation-with-cron-np8)
-- [How I Built an AI-Powered Medical Diagnostic Tool](https://dev.to/ratan_3511/how-i-built-an-ai-powered-medical-diagnostic-tool-11pi)
-- [Getting Started with minikube for Kubernetes](https://dev.to/hridyeshbisht/getting-started-with-minikube-for-kubernetes-40a6)
-- [Open Source Developer Fundraising: Importance and Methods – A Deep Dive](https://dev.to/ashucommits/open-source-developer-fundraising-importance-and-methods-a-deep-dive-1n67)
+- [Documenting AWS Projects on Github..](https://dev.to/amandeol063/documenting-aws-projects-on-github-3ee)
+- [How to Convert Handwritten Images to Text in Swift](https://dev.to/generatecodedev/how-to-convert-handwritten-images-to-text-in-swift-2471)
+- [What is ClickOps?](https://dev.to/terraformmonkey/what-is-clickops-27f9)
+- [Open Source Developer Earnings and Financial Assistance: A Holistic Overview](https://dev.to/bobcars/open-source-developer-earnings-and-financial-assistance-a-holistic-overview-4oa8)
 <!-- BLOG-POST-LIST:END -->
 
 
