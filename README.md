@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Documenting AWS Projects on Github..](https://dev.to/amandeol063/documenting-aws-projects-on-github-3ee)
-- [How to Convert Handwritten Images to Text in Swift](https://dev.to/generatecodedev/how-to-convert-handwritten-images-to-text-in-swift-2471)
-- [What is ClickOps?](https://dev.to/terraformmonkey/what-is-clickops-27f9)
-- [Open Source Developer Earnings and Financial Assistance: A Holistic Overview](https://dev.to/bobcars/open-source-developer-earnings-and-financial-assistance-a-holistic-overview-4oa8)
+- [How to Plan a Corporate Data Migration to the Cloud with Security and High Availability](https://dev.to/fred_rodrigues_996451110b/how-to-plan-a-corporate-data-migration-to-the-cloud-with-security-and-high-availability-413c)
+- [Understanding Recursion in Python: A Beginner-Friendly Guide Part 2](https://dev.to/ciamuthama/understanding-recursion-in-python-a-beginner-friendly-guide-part-2-4iph)
+- [How to Download SSRS Reports in CSV with PHP cURL and Fix Encoding Issues?](https://dev.to/generatecodedev/how-to-download-ssrs-reports-in-csv-with-php-curl-and-fix-encoding-issues-4mp2)
+- [AI Meets Safety: Real-Time Face Mask Detection with Python](https://dev.to/ardhansu/ai-meets-safety-real-time-face-mask-detection-with-python-3ol7)
 <!-- BLOG-POST-LIST:END -->
 
 
