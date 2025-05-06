@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Launch a PDF Viewer in Nuxt Using @vue-pdf-viewer [Guide for 2025] 🔥](https://dev.to/9haroon/launch-a-pdf-viewer-in-nuxt-using-vue-pdf-viewer-guide-for-2025-2o85)
-- [Learn to Track Bitcoin Prices Every Minute with MongoDB Charts!](https://dev.to/saint_vandora/learn-to-track-bitcoin-prices-every-minute-with-mongodb-charts-4af3)
-- [HashCode&lpar;&rpar; in Java](https://dev.to/sudhakar_v_c404997aeec839/hashcode-in-java-59f1)
-- [Token Velocity and Slippage: How TDMM Optimizes for User and Project Gains](https://dev.to/vishal_singh_8666966f9bcc/token-velocity-and-slippage-how-tdmm-optimizes-for-user-and-project-gains-4b8p)
+- [The Hallmark of Great Developers: Writing Simple Code](https://dev.to/wraith/the-hallmark-of-great-developers-writing-simple-code-32od)
+- [Adding Search to Your Markdown Knowledge Base Without a Backend](https://dev.to/hexshift/adding-search-to-your-markdown-knowledge-base-without-a-backend-35pc)
+- [Generative AI Interview for Senior Data Scientists: 50 Key Questions and Answers](https://dev.to/bits-bytes-nn/generative-ai-interview-for-senior-data-scientists-50-key-questions-and-answers-4g8l)
+- [Day:37-While loop practice 3](https://dev.to/pavithra_c_butterfly/day37-while-loop-practice-3-3a29)
 <!-- BLOG-POST-LIST:END -->
 
 
