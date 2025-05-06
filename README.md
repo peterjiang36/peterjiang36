@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Responsive Product Filter and Sort UI with Tailwind CSS](https://dev.to/hexshift/building-a-responsive-product-filter-and-sort-ui-with-tailwind-css-5e3e)
-- [What is the &#39;this&#39; Keyword in JavaScript and How to Use It?](https://dev.to/generatecodedev/what-is-the-this-keyword-in-javascript-and-how-to-use-it-33hd)
-- [LangChain Agent with Bright Data Provider](https://dev.to/ranjancse/langchain-agent-with-bright-data-provider-4nbp)
-- [Creating Responsive Product Grids with Tailwind CSS](https://dev.to/hexshift/creating-responsive-product-grids-with-tailwind-css-3dae)
+- [How to Fix MATLAB Simulation Data Discrepancies](https://dev.to/generatecodedev/how-to-fix-matlab-simulation-data-discrepancies-2ani)
+- [Vyomtracker API is now open-source!](https://dev.to/kartikshukla17/vyomtracker-api-is-now-open-source-17h8)
+- [[Snowflake&#39;s New Feature] Introducing Generation 2 Standard Warehouses: A Performance Comparison](https://dev.to/sagara/snowflakes-new-feature-introducing-generation-2-standard-warehouses-a-performance-comparison-4o5a)
+- [Amazon Q Developer &quot;Quack The Code&quot; Challenge: NL TaskLogger with Ollama](https://dev.to/irtazaali/amazon-q-developer-quack-the-code-challenge-nl-tasklogger-with-ollama-186l)
 <!-- BLOG-POST-LIST:END -->
 
 
