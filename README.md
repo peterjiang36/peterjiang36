@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Hidden GitHub Gems That&#39;ll Make You Go &quot;Holy Forking Repositories!&quot;](https://dev.to/sakethkowtha/10-hidden-github-gems-thatll-make-you-go-holy-forking-repositories-17ep)
-- [Understanding AWS Global Accelerator: How It Routes Traffic Through a Private Network for Faster Performance](https://dev.to/harshil_thummar/understanding-aws-global-accelerator-how-it-routes-traffic-through-a-private-network-for-faster-5ej)
-- [Riding the New Wave: How Arbitrum is Revolutionizing the Crypto Space](https://dev.to/ahmmrizv9/riding-the-new-wave-how-arbitrum-is-revolutionizing-the-crypto-space-152d)
-- [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://dev.to/nikolay_chirkov/interviewing-software-developers-from-junior-to-architect-in-a-single-programming-task-1gdd)
+- [How AI is Learning to Decode Animal Languages through Urban Noise](https://dev.to/rubyjane/how-ai-is-learning-to-decode-animal-languages-through-urban-noise-2lci)
+- [How to Handle Surrogate Characters in UTF-8 Conversion in C?](https://dev.to/generatecodedev/how-to-handle-surrogate-characters-in-utf-8-conversion-in-c-2nei)
+- [OpenSea and Open Source Licensing: Navigating the Digital Marketplace](https://dev.to/ashucommits/opensea-and-open-source-licensing-navigating-the-digital-marketplace-32l3)
+- [Understanding MySQL Composite Indexes: Structure, Search Behavior, and Optimization Principles](https://dev.to/jing_li/understanding-mysql-composite-indexes-structure-search-behavior-and-optimization-principles-4d5l)
 <!-- BLOG-POST-LIST:END -->
 
 
