@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Backend Development](https://dev.to/inam003/a-comprehensive-guide-to-backend-development-5ac9)
-- [Building Better Software: Lessons from Industry for Scalable Systems 🏗️💻](https://dev.to/alikolahdoozan/building-better-software-lessons-from-industry-for-scalable-systems-4e3g)
-- [How to Create an Accessible UI with Bootstrap](https://dev.to/dct_technology/how-to-create-an-accessible-ui-withbootstrap-3olp)
-- [Seamless Jenkins Migration Across Platforms Using Docker Compose](https://dev.to/rohil_mogal/seamless-jenkins-migration-across-platforms-using-docker-compose-14a0)
+- [10 Hidden GitHub Gems That&#39;ll Make You Go &quot;Holy Forking Repositories!&quot;](https://dev.to/sakethkowtha/10-hidden-github-gems-thatll-make-you-go-holy-forking-repositories-17ep)
+- [Understanding AWS Global Accelerator: How It Routes Traffic Through a Private Network for Faster Performance](https://dev.to/harshil_thummar/understanding-aws-global-accelerator-how-it-routes-traffic-through-a-private-network-for-faster-5ej)
+- [Riding the New Wave: How Arbitrum is Revolutionizing the Crypto Space](https://dev.to/ahmmrizv9/riding-the-new-wave-how-arbitrum-is-revolutionizing-the-crypto-space-152d)
+- [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://dev.to/nikolay_chirkov/interviewing-software-developers-from-junior-to-architect-in-a-single-programming-task-1gdd)
 <!-- BLOG-POST-LIST:END -->
 
 
