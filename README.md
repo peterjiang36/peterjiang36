@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unbound Generic Types in `nameof` — C# 14 Makes Reflection Cleaner](https://dev.to/cristiansifuentes/unbound-generic-types-in-nameof-c-14-makes-reflection-cleaner-11em)
-- [Open Source: A Goldmine for Indie Hackers](https://dev.to/ahmmrizv9/open-source-a-goldmine-for-indie-hackers-2pfa)
-- [Linux in Space: How NASA Harnesses Open-Source to Explore the Cosmos](https://dev.to/rajpreet_gill_6272051bd31/linux-in-space-how-nasa-harnesses-open-source-to-explore-the-cosmos-4nbp)
-- [Why Does My Discord Bot Command Return &#39;The application did not respond&#39;?](https://dev.to/generatecodedev/why-does-my-discord-bot-command-return-the-application-did-not-respond-4idb)
+- [MacBook M3: Apakah Perlu di Shutdown Setiap Hari?](https://dev.to/ryfazrin/macbook-m3-apakah-perlu-di-shutdown-setiap-hari-4kh2)
+- [https://codepen.io/eowgphon-the-typescripter/pen/qEEKjMy](https://dev.to/imran_ahmed_0b1003b231e2a/httpscodepenioeowgphon-the-typescripterpenqeekjmy-4549)
+- [How to Fix Foreground Service Permission Issues in Kotlin Apps](https://dev.to/generatecodedev/how-to-fix-foreground-service-permission-issues-in-kotlin-apps-2o0k)
+- [Enterprise Grade AI/ML Deployment on AWS 2025](https://dev.to/deploy/enterprise-grade-aiml-deployment-on-aws-2025-i23)
 <!-- BLOG-POST-LIST:END -->
 
 
