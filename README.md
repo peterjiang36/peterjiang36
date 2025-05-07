@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Elder Scrolls IV: Oblivion Remastered Is Now The 3rd Best-Selling Game Of 2025 In The US](https://dev.to/gg_news/the-elder-scrolls-iv-oblivion-remastered-is-now-the-3rd-best-selling-game-of-2025-in-the-us-2h9i)
-- [Introducing Vue DnD Kit: A New Library for Creating Drag and Drop Interfaces in Vue 3](https://dev.to/zizigy/introducing-vue-dnd-kit-a-new-library-for-creating-drag-and-drop-interfaces-in-vue-3-3i8c)
-- [How to Keep Inline Elements on One Line with CSS?](https://dev.to/generatecodedev/how-to-keep-inline-elements-on-one-line-with-css-28ig)
-- [Exploring JavaScript Maps and Sets](https://dev.to/artem_turlenko/exploring-javascript-maps-and-sets-5h30)
+- [The $75 Photoshop Plugin That Cost Me... Nothing &lpar;I Built It Instead&rpar;](https://dev.to/pcktm/the-75-photoshop-plugin-that-cost-me-nothing-i-built-it-instead-3ieb)
+- [The Evolution of Crypto Trading Tournaments: From Forum Posts to Institutional Spectacles](https://dev.to/philip_crypto92/the-evolution-of-crypto-trading-tournaments-from-forum-posts-to-institutional-spectacles-1dj0)
+- [Menyegarkan Mental dengan Fundamental](https://dev.to/sejutaimpian/menyegarkan-mental-dengan-fundamental-4i3g)
+- [Ethereum Staking Explained: A Beginner’s Guide to Earning Passive Income with ETH](https://dev.to/favebs/ethereum-staking-explained-a-beginners-guide-to-earning-passive-income-with-eth-1e59)
 <!-- BLOG-POST-LIST:END -->
 
 
