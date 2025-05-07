@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Need Markdown to Blog—But It Makes It Easier](https://dev.to/canro91/you-dont-need-markdown-to-blog-but-it-makes-it-easier-5255)
-- [Power Up Your Playtime: Jollibee Just Launched GameJoy Combos and They&#39;re a Gamer’s Dream Come True! 🎮🍔](https://dev.to/kakacomputer-media/power-up-your-playtime-jollibee-just-launched-gamejoy-combos-and-theyre-a-gamers-dream-come-10jf)
-- [How to configure and customize the Go SDK for Azure Cosmos DB](https://dev.to/abhirockzz/how-to-configure-and-customize-the-go-sdk-for-azure-cosmos-db-97a)
-- [A Recipe for Success: Cooking Up Repeatable Agentic Workflows](https://dev.to/blockopensource/a-recipe-for-success-cooking-up-repeatable-agentic-workflows-48m2)
+- [Watch &quot;Exterritorial &lpar;2025&rpar;&quot; Free on Myflixer: A Must-See Thriller](https://dev.to/myflixer/watch-exterritorial-2025-free-on-myflixer-a-must-see-thriller-2jj5)
+- [Comparison of esProc SPL and DuckDB in Multi-Data Source Capabilities](https://dev.to/serina_8340/comparison-of-esproc-spl-and-duckdb-in-multi-data-source-capabilities-32op)
+- [[Boost]](https://dev.to/jack3381/-2i93)
+- [How does Copilot differ from Zendesk AI Agent](https://dev.to/jeya_1f4cb6d4911efb216733/how-does-copilot-differ-from-zendesk-ai-agent-1cp0)
 <!-- BLOG-POST-LIST:END -->
 
 
