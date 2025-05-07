@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch Aggregated Measurement Data with Eloquent?](https://dev.to/generatecodedev/how-to-fetch-aggregated-measurement-data-with-eloquent-32gf)
-- [10 Essential Developer Principles for Writing Clean and Maintainable Code](https://dev.to/saif_uddin/10-essential-developer-principles-for-writing-clean-and-maintainable-code-3836)
-- [Blockchain for Charity and Non-Profits: Revolutionizing Social Impact through Transparency and Open Source Innovation](https://dev.to/vitalisorenko/blockchain-for-charity-and-non-profits-revolutionizing-social-impact-through-transparency-and-open-1c7m)
-- [Adding Dynamic Lighting Effects with SVG Filters](https://dev.to/hexshift/adding-dynamic-lighting-effects-with-svg-filters-1jj6)
+- [DevLog 20250506 C# Video Processing Foundation Library](https://dev.to/methodoxdivooka/devlog-20250506-c-video-processing-foundation-library-1b1e)
+- [🗄️ Best Practices for Handling Multiple Schemas in the Same Database Across Applications &lpar;with Real-World Lessons &amp; Code&rpar;](https://dev.to/haraf/best-practices-for-handling-multiple-schemas-in-the-same-database-across-applications-with-1bkp)
+- [How does Heap Allocation Work in Rust?](https://dev.to/generatecodedev/how-does-heap-allocation-work-in-rust-24ik)
+- [CAP Theorem – The Three Fronts You Can&#39;t Win All At Once](https://dev.to/clbku/cap-theorem-the-three-fronts-you-cant-win-all-at-once-3g4f)
 <!-- BLOG-POST-LIST:END -->
 
 
