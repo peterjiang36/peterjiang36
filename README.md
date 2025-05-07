@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch &quot;Exterritorial &lpar;2025&rpar;&quot; Free on Myflixer: A Must-See Thriller](https://dev.to/myflixer/watch-exterritorial-2025-free-on-myflixer-a-must-see-thriller-2jj5)
-- [Comparison of esProc SPL and DuckDB in Multi-Data Source Capabilities](https://dev.to/serina_8340/comparison-of-esproc-spl-and-duckdb-in-multi-data-source-capabilities-32op)
-- [[Boost]](https://dev.to/jack3381/-2i93)
-- [How does Copilot differ from Zendesk AI Agent](https://dev.to/jeya_1f4cb6d4911efb216733/how-does-copilot-differ-from-zendesk-ai-agent-1cp0)
+- [Terraform depends_on: What it is, When to use it, and Best Practices](https://dev.to/techielass/terraform-dependson-what-it-is-when-to-use-it-and-best-practices-5ene)
+- [Skip the Pixel Pushing: Build Stunning UIs in DronaHQ with Figma + AI](https://dev.to/shib_itsme/skip-the-pixel-pushing-build-stunning-uis-in-dronahq-with-figma-ai-1a21)
+- [Installing Go &lpar;Golang&rpar; on WSL Ubuntu](https://dev.to/pu-lazydev/installing-go-golang-on-wsl-ubuntu-18b7)
+- [Machine Learning: A Quick Intro to different types of ML](https://dev.to/satyam_gupta/machine-learning-a-quick-intro-to-different-types-of-ml-5gme)
 <!-- BLOG-POST-LIST:END -->
 
 
