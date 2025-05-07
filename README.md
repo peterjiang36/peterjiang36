@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 7 Things I Do Regularly as a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/7-habits-i-recommend-to-succeed-as-a-frontend-developer-57e)
-- [Criando uma API OCR com FaaS na Azure – Parte 3: Processando OCR com Timer Trigger](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-3-processando-ocr-com-timer-trigger-341i)
-- [Tired of using pprint to debug nested lists? Try visual structure tracing.](https://dev.to/mtur2007/tired-of-using-pprint-to-debug-nested-lists-try-visual-structure-tracing-efn)
-- [Your first MCP Server &lpar;quick&rpar;](https://dev.to/jonigl/your-first-mcp-server-quick-35eg)
+- [How to Integrate Multi-Participant Video Chat with Banuba AR?](https://dev.to/generatecodedev/how-to-integrate-multi-participant-video-chat-with-banuba-ar-459)
+- [Automating Static Website Deployment to AWS S3 with Terraform and GitHub Actions](https://dev.to/san_dev_65a0346580173629d/automating-static-website-deployment-to-aws-s3-with-terraform-and-github-actions-24a4)
+- [How to setup Tailwind CSS v4.1.5 with Vite + React &lpar;2025 updated guide&rpar;](https://dev.to/imamifti056/how-to-setup-tailwind-css-v415-with-vite-react-2025-updated-guide-3koc)
+- [Migrating From DVC to KitOps](https://dev.to/kitops/migrating-from-dvc-to-kitops-4glo)
 <!-- BLOG-POST-LIST:END -->
 
 
