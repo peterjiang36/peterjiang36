@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Redis Connections in Node.js: Lazy Loading, Retry Logic &amp; Circuit Breakers 🔦](https://dev.to/silentwatcher_95/reliable-redis-connections-in-nodejs-lazy-loading-retry-logic-circuit-breakers-29lg)
-- [How To Run OpenAI Agents SDK Locally With 100+ LLMs and Custom Tracing](https://dev.to/amosgyamfi/how-to-run-openai-agents-sdk-locally-with-100-llms-and-custom-tracing-5gpi)
-- [How I Connected My Home Network with AWS Regions Using Tailscale and VPC Peering](https://dev.to/dhairyashah/how-i-connected-my-home-network-with-aws-regions-using-tailscale-and-vpc-peering-1n06)
-- [Thought 20250507 What is MCP](https://dev.to/methodoxdivooka/20250507-what-is-mcp-3i3e)
+- [📘 Building My Resume from Scratch Using HTML – A Practical Learning Experience](https://dev.to/tamilselvan1812/building-my-resume-from-scratch-using-html-a-practical-learning-experience-3h27)
+- [Regular Expression](https://dev.to/vids18/regular-expression-597)
+- [[Boost]](https://dev.to/picolt/-45o)
+- [How to Fix &#39;externally-managed-environment&#39; Error in Python?](https://dev.to/generatecodedev/how-to-fix-externally-managed-environment-error-in-python-1947)
 <!-- BLOG-POST-LIST:END -->
 
 
