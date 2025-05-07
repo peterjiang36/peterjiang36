@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Speech Recognition API for Voice Input](https://dev.to/omriluz1/speech-recognition-api-for-voice-input-4j5h)
-- [Crowdfunding Open Source Development and Blockchain Innovation: A New Era of Sustainable Funding](https://dev.to/zhangwei42/crowdfunding-open-source-development-and-blockchain-innovation-a-new-era-of-sustainable-funding-1ekd)
-- [Hello .NET Aspire: Breaking down the key features](https://dev.to/leading-edje/hello-net-aspire-breaking-down-the-key-features-io7)
-- [How to Use a Local Gradle Project in Another Gradle Project?](https://dev.to/generatecodedev/how-to-use-a-local-gradle-project-in-another-gradle-project-4hbd)
+- [Natural Types for Method Groups in C# — Smarter Overload Resolution](https://dev.to/cristiansifuentes/-natural-types-for-method-groups-in-c-smarter-overload-resolution-3lbn)
+- [Financial Backing for Open Source Projects: Sustaining Innovation and Collaboration](https://dev.to/bobcars/financial-backing-for-open-source-projects-sustaining-innovation-and-collaboration-18b2)
+- [Building Smart Recommendation Systems](https://dev.to/souhaillaghchimdev/building-smart-recommendation-systems-224a)
+- [&quot;Passion to Profit: Transform Your Favorite Hobby into a Money-Making Side Hustle&quot;](https://dev.to/dibborah100/passion-to-profit-transform-your-favorite-hobby-into-a-money-making-side-hustle-4gig)
 <!-- BLOG-POST-LIST:END -->
 
 
