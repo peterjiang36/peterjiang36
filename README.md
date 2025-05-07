@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The $75 Photoshop Plugin That Cost Me... Nothing &lpar;I Built It Instead&rpar;](https://dev.to/pcktm/the-75-photoshop-plugin-that-cost-me-nothing-i-built-it-instead-3ieb)
-- [The Evolution of Crypto Trading Tournaments: From Forum Posts to Institutional Spectacles](https://dev.to/philip_crypto92/the-evolution-of-crypto-trading-tournaments-from-forum-posts-to-institutional-spectacles-1dj0)
-- [Menyegarkan Mental dengan Fundamental](https://dev.to/sejutaimpian/menyegarkan-mental-dengan-fundamental-4i3g)
-- [Ethereum Staking Explained: A Beginner’s Guide to Earning Passive Income with ETH](https://dev.to/favebs/ethereum-staking-explained-a-beginners-guide-to-earning-passive-income-with-eth-1e59)
+- [✨ 7 Things I Do Regularly as a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/7-habits-i-recommend-to-succeed-as-a-frontend-developer-57e)
+- [Criando uma API OCR com FaaS na Azure – Parte 3: Processando OCR com Timer Trigger](https://dev.to/sertaoseracloud/criando-uma-api-ocr-com-faas-na-azure-parte-3-processando-ocr-com-timer-trigger-341i)
+- [Tired of using pprint to debug nested lists? Try visual structure tracing.](https://dev.to/mtur2007/tired-of-using-pprint-to-debug-nested-lists-try-visual-structure-tracing-efn)
+- [Your first MCP Server &lpar;quick&rpar;](https://dev.to/jonigl/your-first-mcp-server-quick-35eg)
 <!-- BLOG-POST-LIST:END -->
 
 
