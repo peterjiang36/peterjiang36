@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If You’re Not Watching Catalysis Yet… You Will Be](https://dev.to/dhis_is_jj/if-youre-not-watching-catalysis-yet-you-will-be-2inj)
-- [How to Fix Google OAuth Error 403 User Agent Issue on iPhone?](https://dev.to/generatecodedev/how-to-fix-google-oauth-error-403-user-agent-issue-on-iphone-2bn1)
-- [Why I Prefer Go Over Node.js for Backend Development](https://dev.to/antmusumba/why-i-prefer-go-over-nodejs-for-backend-development-ipp)
-- [Delta Executor: Mobile-First Roblox Script Execution](https://dev.to/deltadevs/delta-executor-mobile-first-roblox-script-execution-5c7)
+- [Rapid AI-powered applications with Django MongoDB and Voyage API](https://dev.to/mongodb/rapid-ai-powered-applications-with-django-mongodb-and-voyage-api-l44)
+- [The Future of AI-Driven API Integration and the Rise of MCP v2](https://dev.to/kentechgeek/the-future-of-ai-driven-api-integration-and-the-rise-of-mcp-v2-ieg)
+- [How to Post Articles to Dev.to with an AI Assistant &lpar;2025 Edition&rpar; v2](https://dev.to/kentechgeek/how-to-post-articles-to-devto-with-an-ai-assistant-2025-edition-v2-2k3m)
+- [&quot;From Passion to Profit: Unlocking Passive Income through Your Hobbies &amp; Interests&quot;](https://dev.to/dibborah100/from-passion-to-profit-unlocking-passive-income-through-your-hobbies-interests-27)
 <!-- BLOG-POST-LIST:END -->
 
 
