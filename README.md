@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI’s Future Rests on Human Partnership](https://dev.to/rawveg/why-ais-future-rests-on-human-partnership-12fe)
-- [Como ler scripts SQL Server grandes com Python](https://dev.to/rodrigozan/como-ler-scripts-sql-server-grandes-com-python-3mhg)
-- [Setup Blinko Notes with Ollama](https://dev.to/blacknight318/setup-blinko-notes-with-ollama-5h7)
-- [Do Not Build Without Reading This](https://dev.to/scofieldidehen/do-not-build-without-reading-this-b59)
+- [The Elder Scrolls IV: Oblivion Remastered Is Now The 3rd Best-Selling Game Of 2025 In The US](https://dev.to/gg_news/the-elder-scrolls-iv-oblivion-remastered-is-now-the-3rd-best-selling-game-of-2025-in-the-us-2h9i)
+- [Introducing Vue DnD Kit: A New Library for Creating Drag and Drop Interfaces in Vue 3](https://dev.to/zizigy/introducing-vue-dnd-kit-a-new-library-for-creating-drag-and-drop-interfaces-in-vue-3-3i8c)
+- [How to Keep Inline Elements on One Line with CSS?](https://dev.to/generatecodedev/how-to-keep-inline-elements-on-one-line-with-css-28ig)
+- [Exploring JavaScript Maps and Sets](https://dev.to/artem_turlenko/exploring-javascript-maps-and-sets-5h30)
 <!-- BLOG-POST-LIST:END -->
 
 
