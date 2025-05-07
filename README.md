@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Code Quality: Style Conventions and Linting Tools](https://dev.to/leapcell/python-code-quality-style-conventions-and-linting-tools-pk0)
-- [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
-- [Building WiseCashAI: An Open-Source, AI-Powered Personal Finance Tracker](https://dev.to/allanninal/building-wisecashai-an-open-source-ai-powered-personal-finance-tracker-57g0)
-- [Angular + Java: Construindo Aplicações Fullstack Robustas](https://dev.to/nicolaazdev/angular-java-construindo-aplicacoes-fullstack-robustas-3kk3)
+- [You Don&#39;t Need Markdown to Blog—But It Makes It Easier](https://dev.to/canro91/you-dont-need-markdown-to-blog-but-it-makes-it-easier-5255)
+- [Power Up Your Playtime: Jollibee Just Launched GameJoy Combos and They&#39;re a Gamer’s Dream Come True! 🎮🍔](https://dev.to/kakacomputer-media/power-up-your-playtime-jollibee-just-launched-gamejoy-combos-and-theyre-a-gamers-dream-come-10jf)
+- [How to configure and customize the Go SDK for Azure Cosmos DB](https://dev.to/abhirockzz/how-to-configure-and-customize-the-go-sdk-for-azure-cosmos-db-97a)
+- [A Recipe for Success: Cooking Up Repeatable Agentic Workflows](https://dev.to/blockopensource/a-recipe-for-success-cooking-up-repeatable-agentic-workflows-48m2)
 <!-- BLOG-POST-LIST:END -->
 
 
