@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Multi-Participant Video Chat with Banuba AR?](https://dev.to/generatecodedev/how-to-integrate-multi-participant-video-chat-with-banuba-ar-459)
-- [Automating Static Website Deployment to AWS S3 with Terraform and GitHub Actions](https://dev.to/san_dev_65a0346580173629d/automating-static-website-deployment-to-aws-s3-with-terraform-and-github-actions-24a4)
-- [How to setup Tailwind CSS v4.1.5 with Vite + React &lpar;2025 updated guide&rpar;](https://dev.to/imamifti056/how-to-setup-tailwind-css-v415-with-vite-react-2025-updated-guide-3koc)
-- [Migrating From DVC to KitOps](https://dev.to/kitops/migrating-from-dvc-to-kitops-4glo)
+- [Reliable Redis Connections in Node.js: Lazy Loading, Retry Logic &amp; Circuit Breakers 🔦](https://dev.to/silentwatcher_95/reliable-redis-connections-in-nodejs-lazy-loading-retry-logic-circuit-breakers-29lg)
+- [How To Run OpenAI Agents SDK Locally With 100+ LLMs and Custom Tracing](https://dev.to/amosgyamfi/how-to-run-openai-agents-sdk-locally-with-100-llms-and-custom-tracing-5gpi)
+- [How I Connected My Home Network with AWS Regions Using Tailscale and VPC Peering](https://dev.to/dhairyashah/how-i-connected-my-home-network-with-aws-regions-using-tailscale-and-vpc-peering-1n06)
+- [Thought 20250507 What is MCP](https://dev.to/methodoxdivooka/20250507-what-is-mcp-3i3e)
 <!-- BLOG-POST-LIST:END -->
 
 
