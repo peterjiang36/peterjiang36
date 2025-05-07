@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250506 C# Video Processing Foundation Library](https://dev.to/methodoxdivooka/devlog-20250506-c-video-processing-foundation-library-1b1e)
-- [🗄️ Best Practices for Handling Multiple Schemas in the Same Database Across Applications &lpar;with Real-World Lessons &amp; Code&rpar;](https://dev.to/haraf/best-practices-for-handling-multiple-schemas-in-the-same-database-across-applications-with-1bkp)
-- [How does Heap Allocation Work in Rust?](https://dev.to/generatecodedev/how-does-heap-allocation-work-in-rust-24ik)
-- [CAP Theorem – The Three Fronts You Can&#39;t Win All At Once](https://dev.to/clbku/cap-theorem-the-three-fronts-you-cant-win-all-at-once-3g4f)
+- [Python Code Quality: Style Conventions and Linting Tools](https://dev.to/leapcell/python-code-quality-style-conventions-and-linting-tools-pk0)
+- [Welcome Thread - v325](https://dev.to/devteam/welcome-thread-v325-1cj3)
+- [Building WiseCashAI: An Open-Source, AI-Powered Personal Finance Tracker](https://dev.to/allanninal/building-wisecashai-an-open-source-ai-powered-personal-finance-tracker-57g0)
+- [Angular + Java: Construindo Aplicações Fullstack Robustas](https://dev.to/nicolaazdev/angular-java-construindo-aplicacoes-fullstack-robustas-3kk3)
 <!-- BLOG-POST-LIST:END -->
 
 
