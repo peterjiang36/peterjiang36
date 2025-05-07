@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MacBook M3: Apakah Perlu di Shutdown Setiap Hari?](https://dev.to/ryfazrin/macbook-m3-apakah-perlu-di-shutdown-setiap-hari-4kh2)
-- [https://codepen.io/eowgphon-the-typescripter/pen/qEEKjMy](https://dev.to/imran_ahmed_0b1003b231e2a/httpscodepenioeowgphon-the-typescripterpenqeekjmy-4549)
-- [How to Fix Foreground Service Permission Issues in Kotlin Apps](https://dev.to/generatecodedev/how-to-fix-foreground-service-permission-issues-in-kotlin-apps-2o0k)
-- [Enterprise Grade AI/ML Deployment on AWS 2025](https://dev.to/deploy/enterprise-grade-aiml-deployment-on-aws-2025-i23)
+- [How to Fetch Aggregated Measurement Data with Eloquent?](https://dev.to/generatecodedev/how-to-fetch-aggregated-measurement-data-with-eloquent-32gf)
+- [10 Essential Developer Principles for Writing Clean and Maintainable Code](https://dev.to/saif_uddin/10-essential-developer-principles-for-writing-clean-and-maintainable-code-3836)
+- [Blockchain for Charity and Non-Profits: Revolutionizing Social Impact through Transparency and Open Source Innovation](https://dev.to/vitalisorenko/blockchain-for-charity-and-non-profits-revolutionizing-social-impact-through-transparency-and-open-1c7m)
+- [Adding Dynamic Lighting Effects with SVG Filters](https://dev.to/hexshift/adding-dynamic-lighting-effects-with-svg-filters-1jj6)
 <!-- BLOG-POST-LIST:END -->
 
 
