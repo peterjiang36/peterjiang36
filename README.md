@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing xor value swap without third variable in C](https://dev.to/ceir/implementing-xor-value-swap-without-third-variable-in-c-1aag)
-- [[Boost]](https://dev.to/blurbify/-2pmm)
-- [How to Control Python Version for Brew Pipx Installations?](https://dev.to/generatecodedev/how-to-control-python-version-for-brew-pipx-installations-418p)
-- [How The NEW &lt;selectedcontent&gt; HTML Element Changes Selects Forever](https://dev.to/arnoldgunter/how-the-new-html-element-changes-selects-forever-4p7d)
+- [Speech Recognition API for Voice Input](https://dev.to/omriluz1/speech-recognition-api-for-voice-input-4j5h)
+- [Crowdfunding Open Source Development and Blockchain Innovation: A New Era of Sustainable Funding](https://dev.to/zhangwei42/crowdfunding-open-source-development-and-blockchain-innovation-a-new-era-of-sustainable-funding-1ekd)
+- [Hello .NET Aspire: Breaking down the key features](https://dev.to/leading-edje/hello-net-aspire-breaking-down-the-key-features-io7)
+- [How to Use a Local Gradle Project in Another Gradle Project?](https://dev.to/generatecodedev/how-to-use-a-local-gradle-project-in-another-gradle-project-4hbd)
 <!-- BLOG-POST-LIST:END -->
 
 
