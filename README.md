@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Would Rust Be Without Cargo? A Beautiful Disaster](https://dev.to/francescobianco/what-would-rust-be-without-cargo-a-beautiful-disaster-1o1o)
-- [Kotlin + gRPC: Tooling, CI/CD, and Architectural Practices](https://dev.to/lucasfugisawa/kotlin-grpc-tooling-cicd-and-architectural-practices-4a2k)
-- [E-Learning Software Development](https://dev.to/souhaillaghchimdev/e-learning-software-development-3cph)
-- [Deep Learning and Its Programming Applications](https://dev.to/souhaillaghchimdev/deep-learning-and-its-programming-applications-293e)
+- [AI could do a lot more than just note-taking in meetings](https://dev.to/rally_for_jira/ai-could-do-a-lot-more-than-just-note-taking-in-meetings-3ohm)
+- [A2A and MCP Protocols with Java and Spring](https://dev.to/vishalmysore/a2a-and-mcp-protocols-with-java-and-spring-35dh)
+- [How to Prevent CSS Hover State Flicker on Button Release?](https://dev.to/generatecodedev/how-to-prevent-css-hover-state-flicker-on-button-release-32i4)
+- [Mobile UI Design](https://dev.to/souhaillaghchimdev/mobile-ui-design-3hmo)
 <!-- BLOG-POST-LIST:END -->
 
 
