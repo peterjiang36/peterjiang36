@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid AI-powered applications with Django MongoDB and Voyage API](https://dev.to/mongodb/rapid-ai-powered-applications-with-django-mongodb-and-voyage-api-l44)
-- [The Future of AI-Driven API Integration and the Rise of MCP v2](https://dev.to/kentechgeek/the-future-of-ai-driven-api-integration-and-the-rise-of-mcp-v2-ieg)
-- [How to Post Articles to Dev.to with an AI Assistant &lpar;2025 Edition&rpar; v2](https://dev.to/kentechgeek/how-to-post-articles-to-devto-with-an-ai-assistant-2025-edition-v2-2k3m)
-- [&quot;From Passion to Profit: Unlocking Passive Income through Your Hobbies &amp; Interests&quot;](https://dev.to/dibborah100/from-passion-to-profit-unlocking-passive-income-through-your-hobbies-interests-27)
+- [Why AI’s Future Rests on Human Partnership](https://dev.to/rawveg/why-ais-future-rests-on-human-partnership-12fe)
+- [Como ler scripts SQL Server grandes com Python](https://dev.to/rodrigozan/como-ler-scripts-sql-server-grandes-com-python-3mhg)
+- [Setup Blinko Notes with Ollama](https://dev.to/blacknight318/setup-blinko-notes-with-ollama-5h7)
+- [Do Not Build Without Reading This](https://dev.to/scofieldidehen/do-not-build-without-reading-this-b59)
 <!-- BLOG-POST-LIST:END -->
 
 
