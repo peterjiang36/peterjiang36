@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural Types for Method Groups in C# — Smarter Overload Resolution](https://dev.to/cristiansifuentes/-natural-types-for-method-groups-in-c-smarter-overload-resolution-3lbn)
-- [Financial Backing for Open Source Projects: Sustaining Innovation and Collaboration](https://dev.to/bobcars/financial-backing-for-open-source-projects-sustaining-innovation-and-collaboration-18b2)
-- [Building Smart Recommendation Systems](https://dev.to/souhaillaghchimdev/building-smart-recommendation-systems-224a)
-- [&quot;Passion to Profit: Transform Your Favorite Hobby into a Money-Making Side Hustle&quot;](https://dev.to/dibborah100/passion-to-profit-transform-your-favorite-hobby-into-a-money-making-side-hustle-4gig)
+- [What Would Rust Be Without Cargo? A Beautiful Disaster](https://dev.to/francescobianco/what-would-rust-be-without-cargo-a-beautiful-disaster-1o1o)
+- [Kotlin + gRPC: Tooling, CI/CD, and Architectural Practices](https://dev.to/lucasfugisawa/kotlin-grpc-tooling-cicd-and-architectural-practices-4a2k)
+- [E-Learning Software Development](https://dev.to/souhaillaghchimdev/e-learning-software-development-3cph)
+- [Deep Learning and Its Programming Applications](https://dev.to/souhaillaghchimdev/deep-learning-and-its-programming-applications-293e)
 <!-- BLOG-POST-LIST:END -->
 
 
