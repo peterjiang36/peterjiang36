@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SOLID Principles in Java &lpar;With Real life Examples&rpar;](https://dev.to/chhavirana/understanding-solid-principles-in-java-with-real-life-examples-1ked)
-- [How to Create a Vertically Scrollable View in Swift Using UIScrollView?](https://dev.to/generatecodedev/how-to-create-a-vertically-scrollable-view-in-swift-using-uiscrollview-23bd)
-- [🧩 How to Create a Reusable TypeScript Config Package in Turborepo](https://dev.to/saiful7778/how-to-create-a-reusable-typescript-config-package-in-turborepo-3nh)
-- [All-in-One AI Chatbot Features I Can’t Live Without](https://dev.to/h3rry/all-in-one-ai-chatbot-features-i-cant-live-without-3o81)
+- [image](https://dev.to/kentechgeek/image-1pa9)
+- [How to Sort Filenames in Bash While Keeping Paths](https://dev.to/generatecodedev/how-to-sort-filenames-in-bash-while-keeping-paths-1gek)
+- [Backend Optimizasyonu: Verimlilik Artışı](https://dev.to/yunus_emremert_1756b71d3/backend-optimizasyonu-verimlilik-artisi-j6l)
+- [Why Does Python Raise SSLCertVerificationError with API Calls?](https://dev.to/generatecodedev/why-does-python-raise-sslcertverificationerror-with-api-calls-fid)
 <!-- BLOG-POST-LIST:END -->
 
 
