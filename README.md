@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why and How to Patch a Python Package in Nix](https://dev.to/vst/why-and-how-to-patch-a-python-package-in-nix-7a6)
-- [Vibe Coding on Kubernetes with Cyclops MCP](https://dev.to/cyclops-ui/vibe-coding-on-kubernetes-with-cyclops-mcp-5dlj)
-- [ASP.NET Talent in 2025 – The Capabilities To Expect](https://dev.to/dmitrybaraishuk/aspnet-talent-in-2025-the-capabilities-to-expect-3ci6)
-- [🔌 Using Plugins in Go: A Simple Introduction](https://dev.to/rayjay/using-plugins-in-go-a-simple-introduction-4llc)
+- [Why I’m Building a Free Study Platform for Bihar Board Students — And How You Can Help!](https://dev.to/raajaryan/why-im-building-a-free-study-platform-for-bihar-board-students-and-how-you-can-help-3lb3)
+- [The Day I Discovered List Comprehension](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-list-comprehension-3f2b)
+- [Programming language of the future](https://dev.to/lostghost/programming-language-of-the-future-1pe0)
+- [How to Create an ESLint Config Package in Turborepo](https://dev.to/saiful7778/how-to-create-an-eslint-config-package-in-turborepo-1ag2)
 <!-- BLOG-POST-LIST:END -->
 
 
