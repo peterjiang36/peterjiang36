@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 I Built a Google Homepage Clone Using Just HTML and CSS! 🧑‍💻](https://dev.to/tamilselvan1812/i-built-a-google-homepage-clone-using-just-html-and-css-2il5)
-- [IoT Architecture with AWS: Processing MQTT Messages with Persistence and API](https://dev.to/aws-heroes/iot-architecture-with-aws-processing-mqtt-messages-with-persistence-and-api-94p)
-- [Understanding Multi-Tenant Architecture &lpar;Part-One&rpar;](https://dev.to/aniksaha12/understanding-multi-tenant-architecture-basic-part-one-33c3)
-- [What is GraphQL and creating your first Schema](https://dev.to/joao_colussi_571cebea2dbc/what-is-graphql-and-creating-your-first-schema-2cn1)
+- [Bungie has motion to dismiss Destiny 2 copyright lawsuit denied over &#39;vaulted&#39; campaign storyline](https://dev.to/gg_news/bungie-has-motion-to-dismiss-destiny-2-copyright-lawsuit-denied-over-vaulted-campaign-storyline-5b97)
+- [EA says Apex Legends revenue will drop 40% this year making it one of the biggest declines in the game’s history](https://dev.to/gg_news/ea-says-apex-legends-revenue-will-drop-40-this-year-making-it-one-of-the-biggest-declines-in-the-2m4)
+- [Newborns living near trees tend to be healthier and new data suggests it’s not because healthier people reside near parks](https://dev.to/future_science/newborns-living-near-trees-tend-to-be-healthier-and-new-data-suggests-its-not-because-healthier-3n27)
+- [&quot;Two-way communication breakdown&quot; Study reveals AI chatbots shouldn&#39;t be relied on for health advice](https://dev.to/future_ai/two-way-communication-breakdown-study-reveals-ai-chatbots-shouldnt-be-relied-on-for-health-advice-315g)
 <!-- BLOG-POST-LIST:END -->
 
 
