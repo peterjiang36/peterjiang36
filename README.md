@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Text Search Strategies pg_search vs. tsvector vs. External Engines](https://dev.to/neon-postgres/comparing-text-search-strategies-pgsearch-vs-tsvector-vs-external-engines-54f0)
-- [FrontendDev Ending](https://dev.to/umairshakoor/frontenddev-ending-1m14)
-- [How I Lost 35kg and Built a Habit Tracker That Actually Works](https://dev.to/baransel/how-i-lost-35kg-and-built-a-habit-tracker-that-actually-works-146d)
-- [Are you trying to manage AI Workloads on Kubernetes at Scale? Maybe deploying complex AI stacks such as Kubeflow and KServe? Here is how Sveltos Enables Multi-Cluster, GitOps-driven MLOps https://ppaolo.substack.com/p/managing-ai-workloads-on-kubernetes](https://dev.to/simone_morellato/are-you-trying-to-manage-ai-workloads-on-kubernetes-at-scale-maybe-deploying-complex-ai-stacks-1djl)
+- [🚀 Navigating the AWS Storage Universe: Choosing Your Perfect Data Home &lpar;EBS, S3, EFS, FSx, Instance Store&rpar; 🌌](https://dev.to/pkkolla/navigating-the-aws-storage-universe-choosing-your-perfect-data-home-ebs-s3-efs-fsx-instance-49f9)
+- [Unraveling Tree-Sitter Queries: Your Guide to Code Analysis Magic](https://dev.to/shrsv/unraveling-tree-sitter-queries-your-guide-to-code-analysis-magic-41il)
+- [Navigating the US Tech Talent Shortage: Strategies for 2022](https://dev.to/jetthoughts/navigating-the-us-tech-talent-shortage-strategies-for-2022-2p06)
+- [How to Fix Responsiveness Issues with CSS Images?](https://dev.to/generatecodedev/how-to-fix-responsiveness-issues-with-css-images-3de)
 <!-- BLOG-POST-LIST:END -->
 
 
