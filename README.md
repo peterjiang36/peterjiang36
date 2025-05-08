@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI could do a lot more than just note-taking in meetings](https://dev.to/rally_for_jira/ai-could-do-a-lot-more-than-just-note-taking-in-meetings-3ohm)
-- [A2A and MCP Protocols with Java and Spring](https://dev.to/vishalmysore/a2a-and-mcp-protocols-with-java-and-spring-35dh)
-- [How to Prevent CSS Hover State Flicker on Button Release?](https://dev.to/generatecodedev/how-to-prevent-css-hover-state-flicker-on-button-release-32i4)
-- [Mobile UI Design](https://dev.to/souhaillaghchimdev/mobile-ui-design-3hmo)
+- [Understanding SOLID Principles in Java &lpar;With Real life Examples&rpar;](https://dev.to/chhavirana/understanding-solid-principles-in-java-with-real-life-examples-1ked)
+- [How to Create a Vertically Scrollable View in Swift Using UIScrollView?](https://dev.to/generatecodedev/how-to-create-a-vertically-scrollable-view-in-swift-using-uiscrollview-23bd)
+- [🧩 How to Create a Reusable TypeScript Config Package in Turborepo](https://dev.to/saiful7778/how-to-create-a-reusable-typescript-config-package-in-turborepo-3nh)
+- [All-in-One AI Chatbot Features I Can’t Live Without](https://dev.to/h3rry/all-in-one-ai-chatbot-features-i-cant-live-without-3o81)
 <!-- BLOG-POST-LIST:END -->
 
 
