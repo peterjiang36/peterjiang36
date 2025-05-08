@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SpiderJS 🕷 | JS Runtime Revealed: The Three Pillars of JavaScript Execution](https://dev.to/omar_mayallo/spiderjs-js-runtime-revealed-the-three-pillars-of-javascript-execution-1ia5)
-- [How AI Is Quietly Taking Over Global Markets 🤖📈🌍](https://dev.to/srijan-xi/how-ai-is-quietly-taking-over-global-markets-3i16)
-- [Read Replicas: Offloading Load by Sharing Reads](https://dev.to/clbku/read-replicas-offloading-load-by-sharing-reads-5dao)
-- [How to Fix &#39;file not found&#39; Error in SimpleBLE with C++?](https://dev.to/generatecodedev/how-to-fix-file-not-found-error-in-simpleble-with-c-58fh)
+- [Why and How to Patch a Python Package in Nix](https://dev.to/vst/why-and-how-to-patch-a-python-package-in-nix-7a6)
+- [Vibe Coding on Kubernetes with Cyclops MCP](https://dev.to/cyclops-ui/vibe-coding-on-kubernetes-with-cyclops-mcp-5dlj)
+- [ASP.NET Talent in 2025 – The Capabilities To Expect](https://dev.to/dmitrybaraishuk/aspnet-talent-in-2025-the-capabilities-to-expect-3ci6)
+- [🔌 Using Plugins in Go: A Simple Introduction](https://dev.to/rayjay/using-plugins-in-go-a-simple-introduction-4llc)
 <!-- BLOG-POST-LIST:END -->
 
 
