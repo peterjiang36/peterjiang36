@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [image](https://dev.to/kentechgeek/image-1pa9)
-- [How to Sort Filenames in Bash While Keeping Paths](https://dev.to/generatecodedev/how-to-sort-filenames-in-bash-while-keeping-paths-1gek)
-- [Backend Optimizasyonu: Verimlilik Artışı](https://dev.to/yunus_emremert_1756b71d3/backend-optimizasyonu-verimlilik-artisi-j6l)
-- [Why Does Python Raise SSLCertVerificationError with API Calls?](https://dev.to/generatecodedev/why-does-python-raise-sslcertverificationerror-with-api-calls-fid)
+- [Why HTML Exists—And What Most Developers Miss](https://dev.to/umarsiddique010/why-html-exists-and-what-most-developers-miss-251h)
+- [Create Columns from Distinct Values of a Column — From SQL to SPL #26](https://dev.to/judith677/create-columns-from-distinct-values-of-a-column-from-sql-to-spl-26-5hj6)
+- [End the Obsession with Servers](https://dev.to/fermyon/end-the-obsession-with-servers-2ad5)
+- [Spin JS/TS Router Showdown: Hono vs Itty vs Manual Routing](https://dev.to/fermyon/spin-jsts-router-showdown-hono-vs-itty-vs-manual-routing-32b6)
 <!-- BLOG-POST-LIST:END -->
 
 
