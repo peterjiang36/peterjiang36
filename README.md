@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Building a Free Study Platform for Bihar Board Students — And How You Can Help!](https://dev.to/raajaryan/why-im-building-a-free-study-platform-for-bihar-board-students-and-how-you-can-help-3lb3)
-- [The Day I Discovered List Comprehension](https://dev.to/bhuvaneshm_dev/the-day-i-discovered-list-comprehension-3f2b)
-- [Programming language of the future](https://dev.to/lostghost/programming-language-of-the-future-1pe0)
-- [How to Create an ESLint Config Package in Turborepo](https://dev.to/saiful7778/how-to-create-an-eslint-config-package-in-turborepo-1ag2)
+- [🌐 I Built a Google Homepage Clone Using Just HTML and CSS! 🧑‍💻](https://dev.to/tamilselvan1812/i-built-a-google-homepage-clone-using-just-html-and-css-2il5)
+- [IoT Architecture with AWS: Processing MQTT Messages with Persistence and API](https://dev.to/aws-heroes/iot-architecture-with-aws-processing-mqtt-messages-with-persistence-and-api-94p)
+- [Understanding Multi-Tenant Architecture &lpar;Part-One&rpar;](https://dev.to/aniksaha12/understanding-multi-tenant-architecture-basic-part-one-33c3)
+- [What is GraphQL and creating your first Schema](https://dev.to/joao_colussi_571cebea2dbc/what-is-graphql-and-creating-your-first-schema-2cn1)
 <!-- BLOG-POST-LIST:END -->
 
 
