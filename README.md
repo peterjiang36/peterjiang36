@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React is Better for Multi-Page Websites?](https://dev.to/deansaiful/why-react-is-better-for-multi-page-websites-5dhm)
-- [How to Fix Clerk AuthMiddleware Errors in TypeScript?](https://dev.to/generatecodedev/how-to-fix-clerk-authmiddleware-errors-in-typescript-27l8)
-- [DAY 40: Array in Looping JAVA](https://dev.to/sangamithra_k_78d83d6fb9d/day-40-array-in-looping-java-18ff)
-- [How to Troubleshoot Ansible Playbook Execution Issues in Bash?](https://dev.to/generatecodedev/how-to-troubleshoot-ansible-playbook-execution-issues-in-bash-3i4g)
+- [Understanding the 9 Types of Indexes in PostgreSQL](https://dev.to/leapcell/understanding-the-9-types-of-indexes-in-postgresql-24cj)
+- [Three.js com React Three Fiber: Criando Experiências 3D Impressionantes no React](https://dev.to/nicolaazdev/threejs-com-react-three-fiber-criando-experiencias-3d-impressionantes-no-react-29ha)
+- [Hyper-Personalization in Marketing: How Generative AI is Revolutionizing Customer Experiences](https://dev.to/siddharthbhalsod/hyper-personalization-in-marketing-how-generative-ai-is-revolutionizing-customer-experiences-2o6g)
+- [Open Source Project Financial Planning: A Key to Sustainability](https://dev.to/ahmmrizv9/open-source-project-financial-planning-a-key-to-sustainability-1ef6)
 <!-- BLOG-POST-LIST:END -->
 
 
