@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Vertical HTML Button Group with CSS](https://dev.to/chrys/how-to-create-a-vertical-html-button-group-with-css-2ljc)
-- [From Chaos to Code: How I Tamed My Life with 100 Lines of Python](https://dev.to/sakethkowtha/from-chaos-to-code-how-i-tamed-my-life-with-100-lines-of-python-4kh5)
-- [Why Microservices Are Not a Silver Bullet](https://dev.to/wittedtech-by-harshit/why-microservices-are-not-a-silver-bullet-2e8a)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-pd1)
+- [HLD | Network Protocols in Action: How the Internet Communicates](https://dev.to/vampirepapi/hld-network-protocols-in-action-how-the-internet-communicates-24kd)
+- [The Future of Blockchain Project Funding and Open Source Sustainable Innovations](https://dev.to/bobcars/the-future-of-blockchain-project-funding-and-open-source-sustainable-innovations-2c5a)
+- [Mastering Lambda Expressions, Functional Interfaces, and Streams in Java 8 and Beyond](https://dev.to/adityabhuyan/mastering-lambda-expressions-functional-interfaces-and-streams-in-java-8-and-beyond-164)
+- [Creating Responsive Layouts in React using Material UI Grid](https://dev.to/smartterss/creating-responsive-layouts-in-react-using-material-ui-grid-3gc6)
 <!-- BLOG-POST-LIST:END -->
 
 
