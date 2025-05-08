@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Navigating the AWS Storage Universe: Choosing Your Perfect Data Home &lpar;EBS, S3, EFS, FSx, Instance Store&rpar; 🌌](https://dev.to/pkkolla/navigating-the-aws-storage-universe-choosing-your-perfect-data-home-ebs-s3-efs-fsx-instance-49f9)
-- [Unraveling Tree-Sitter Queries: Your Guide to Code Analysis Magic](https://dev.to/shrsv/unraveling-tree-sitter-queries-your-guide-to-code-analysis-magic-41il)
-- [Navigating the US Tech Talent Shortage: Strategies for 2022](https://dev.to/jetthoughts/navigating-the-us-tech-talent-shortage-strategies-for-2022-2p06)
-- [How to Fix Responsiveness Issues with CSS Images?](https://dev.to/generatecodedev/how-to-fix-responsiveness-issues-with-css-images-3de)
+- [How to Extend Python Function Signature for Type Safety?](https://dev.to/generatecodedev/how-to-extend-python-function-signature-for-type-safety-3k98)
+- [How to Build and Run K3s on macOS with Multipass and k3d](https://dev.to/amol_kavitkar_cisco/how-to-build-and-run-k3s-on-macos-with-multipass-and-k3d-334c)
+- [Attention? You Don&#39;t Need It](https://dev.to/ryo_suwito/attention-you-dont-need-it-5dnn)
+- [Top P Sampling Explained: Smarter Text Generation with AI](https://dev.to/rijultp/top-p-sampling-explained-smarter-text-generation-with-ai-13mh)
 <!-- BLOG-POST-LIST:END -->
 
 
