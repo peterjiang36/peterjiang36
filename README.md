@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Speech Synthesis API for Text-to-Speech](https://dev.to/omriluz1/speech-synthesis-api-for-text-to-speech-3agn)
-- [How to verify your cookie consent is working 🍪🍪](https://dev.to/dev_family/how-to-verify-your-cookie-consent-is-working-i4f)
-- [Ethical AI: How to Build Trustworthy, Transparent, and Fair Technology That Wins Trust](https://dev.to/okoye_ndidiamaka_5e3b7d30/ethical-ai-how-to-build-trustworthy-transparent-and-fair-technology-that-wins-trust-ggi)
-- [{230+} Excel SHORTCUTS List for Windows &amp; MAC](https://dev.to/excel24x7/230-excel-shortcuts-list-for-windows-mac-72i)
+- [Getting my feet wet with Crossplane](https://dev.to/nfrankel/getting-my-feet-wet-with-crossplane-17d7)
+- [How to Use AWS S3 Console for Website Deployment](https://dev.to/ijay/how-to-use-aws-s3-console-for-website-deployment-2mhh)
+- [** for Dictionary Unpacking in Python](https://dev.to/hyperkai/-for-dictionary-unpacking-in-python-584m)
+- [The Programmer Who Reads Charts: From Codes to CandleSticks](https://dev.to/dhis_is_jj/the-programmer-who-reads-charts-from-codes-to-candlesticks-2o56)
 <!-- BLOG-POST-LIST:END -->
 
 
