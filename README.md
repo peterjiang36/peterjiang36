@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures Tutorial: A Complete Guide for Beginners](https://dev.to/tpointtechadu/data-structures-tutorial-a-complete-guide-for-beginners-575i)
-- [How to Shift Associated Data After Filtering an Array in JavaScript?](https://dev.to/generatecodedev/how-to-shift-associated-data-after-filtering-an-array-in-javascript-3nlh)
-- [60 Interview question-answer of Angular 19 with follow-up question. Everyone should know. &lpar;31 - 60&rpar;](https://dev.to/vivek_dudhatra/60-interview-question-answer-of-angular-19-with-follow-up-question-everyone-should-know-31-60-10mg)
-- [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Consulting &amp; Support Companies in 2025](https://dev.to/samlongbottom/top-12-site-reliability-engineering-sre-consulting-support-companies-in-2025-j6b)
+- [Getting Started with Amazon Q CLI and AWS MCP Servers on Windows](https://dev.to/swethamudunuri/getting-started-with-amazon-q-cli-and-mcp-on-windows-4i44)
+- [How to Fix ERR_HTTP2_PROTOCOL_ERROR After Enabling HTTPS](https://dev.to/alicemartin/how-to-fix-errhttp2protocolerror-after-enabling-https-2e8c)
+- [Trading Pips, Writing Scripts: My Dual Journey &lpar;Part 2&rpar;](https://dev.to/dhis_is_jj/trading-pips-writing-scripts-my-dual-journey-part-2-25ha)
+- [The Unsung Hero: Why Scrum Masters Matter &lpar;and Why They&#39;re So Often Invisible&rpar;](https://dev.to/meet_desai_6fbd24be7a17e6/the-unsung-hero-why-scrum-masters-matter-and-why-theyre-so-often-invisible-6fj)
 <!-- BLOG-POST-LIST:END -->
 
 
