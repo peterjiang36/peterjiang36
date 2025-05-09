@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CPP Online Compiler – Compile &amp; Run C++ Code in Your Browser](https://dev.to/tpointtechblog/cpp-online-compiler-compile-run-c-code-in-your-browser-5a1l)
-- [Avoiding Common Pifalls: Deploying Node.js Backend to AWS Lambda with Docker &amp; Serverless on MacOS](https://dev.to/phat_phamdev/avoiding-common-pifalls-deploying-nodejs-backend-to-aws-lambda-with-docker-serverless-on-macos-1jid)
-- [Vidwud: Transforming Visual Creativity with Image to Video AI &lpar;Free &amp; Easy&rpar;](https://dev.to/usman_asghar/vidwud-transforming-visual-creativity-with-image-to-video-ai-free-easy-2k79)
-- [Interoperability Between ATDF and MCP](https://dev.to/mauricioperera/interoperability-between-atdf-and-mcp-4jf3)
+- [Solana at Web2 Speed: Real-Time Performance Without Fragmentation](https://dev.to/lordghostx/solana-at-web2-speed-real-time-performance-without-fragmentation-3b9p)
+- [Raising Block Limits on Solana: SIMD-0250 and Its Economic Effects](https://dev.to/lordghostx/raising-block-limits-on-solana-simd-0250-and-its-economic-effects-ade)
+- [🧪 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭 𝐑𝐞𝐩𝐨𝐫𝐭𝐬: 𝐇𝐓𝐌𝐋 𝐯𝐬. 𝐀𝐥𝐥𝐮𝐫𝐞 — 𝐖𝐡𝐢𝐜𝐡 𝐎𝐧𝐞 𝐚𝐧𝐝 𝐖𝐡𝐲?](https://dev.to/dimit999/--2l82)
+- [Hallucinations and AI: Scary or Not?](https://dev.to/twiddling_thumbs/hallucinations-and-ai-scary-or-not-51bm)
 <!-- BLOG-POST-LIST:END -->
 
 
