@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Amazon Q CLI and AWS MCP Servers on Windows](https://dev.to/swethamudunuri/getting-started-with-amazon-q-cli-and-mcp-on-windows-4i44)
-- [How to Fix ERR_HTTP2_PROTOCOL_ERROR After Enabling HTTPS](https://dev.to/alicemartin/how-to-fix-errhttp2protocolerror-after-enabling-https-2e8c)
-- [Trading Pips, Writing Scripts: My Dual Journey &lpar;Part 2&rpar;](https://dev.to/dhis_is_jj/trading-pips-writing-scripts-my-dual-journey-part-2-25ha)
-- [The Unsung Hero: Why Scrum Masters Matter &lpar;and Why They&#39;re So Often Invisible&rpar;](https://dev.to/meet_desai_6fbd24be7a17e6/the-unsung-hero-why-scrum-masters-matter-and-why-theyre-so-often-invisible-6fj)
+- [How to Translate Large Files with Ease](https://dev.to/colinreed/how-to-translate-large-files-with-ease-3jbn)
+- [Integration testing tRPC and in memory MySQL database.](https://dev.to/pietro_palmesi_b8b68ba0f6/integration-testing-trpc-and-in-memory-mysql-database-40m6)
+- [Automate Your Terraform Module Updates with Scalr &amp; Dependabot](https://dev.to/sebastian_stadil/automate-your-terraform-module-updates-with-scalr-dependabot-3eea)
+- [Why is it so difficult to paste my markdown code snippets here on Dev.to? This should change so I can write full posts.](https://dev.to/mike_andreuzza/why-is-it-so-difficult-to-paste-my-markdown-code-snippets-here-on-devto-this-should-change-so-i-3dph)
 <!-- BLOG-POST-LIST:END -->
 
 
