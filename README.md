@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Extract Base64 String Using Perl Regex Pattern?](https://dev.to/generatecodedev/how-to-extract-base64-string-using-perl-regex-pattern-49d5)
-- [Lagoon v2.25: Enhanced Infrastructure Security and Performance Optimization](https://dev.to/laurenhasthree/lagoon-v225-enhanced-infrastructure-security-and-performance-optimization-2681)
-- [Finding the Longest Unique Substring](https://dev.to/tanvir_azad/finding-the-longest-unique-substring-47na)
-- [Astro Isn’t Just Fast — It’s a Whole New Way to Build the Web](https://dev.to/arkhan/astro-isnt-just-fast-its-a-whole-new-way-to-build-the-web-14j7)
+- [How to Fix Client ID Assignment Issues in ASP.NET with SQLite](https://dev.to/generatecodedev/how-to-fix-client-id-assignment-issues-in-aspnet-with-sqlite-4bca)
+- [List of all LLM models](https://dev.to/ai-ops/list-of-all-llm-models-2iae)
+- [Setting up Parseable with Kubernetes and Docker Desktop](https://dev.to/mikeyglitz/setting-up-parseable-with-kubernetes-and-docker-desktop-280c)
+- [Como Aprender Uma Nova Linguagem de Programação](https://dev.to/mayulabs/como-aprender-uma-nova-linguagem-de-programacao-33be)
 <!-- BLOG-POST-LIST:END -->
 
 
