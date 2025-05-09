@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond `omitempty`: Understanding `omitzero` in Go 1.24](https://dev.to/leapcell/beyond-omitempty-understanding-omitzero-in-go-124-5dej)
-- [How to Start Foreground Service from BroadcastReceiver in Android 15?](https://dev.to/generatecodedev/how-to-start-foreground-service-from-broadcastreceiver-in-android-15-3ijc)
-- [Burger sticker](https://dev.to/preetha_vaishnavi_2b82358/burger-sticker-16gh)
-- [Open Source Sustainability Initiatives at Deutsche Telekom: Integrating Innovation and Sustainability](https://dev.to/bobcars/open-source-sustainability-initiatives-at-deutsche-telekom-integrating-innovation-and-1gno)
+- [This right here..... keep your AI generated stuff properly validated](https://dev.to/michbarsinai/this-right-here-keep-your-ai-generated-stuff-properly-validated-40ge)
+- [Neurointerfaces - Por que botões devem parecer botões?](https://dev.to/alissonfcosta/-por-que-botoes-devem-parecer-botoes-2fap)
+- [How to Create a Bash Script to Activate a Python Virtualenv?](https://dev.to/generatecodedev/how-to-create-a-bash-script-to-activate-a-python-virtualenv-4d6o)
+- [What if adding in-app notifications to your Next.js app only took one command?](https://dev.to/empe/what-if-adding-in-app-notifications-to-your-nextjs-app-only-took-one-command-c8g)
 <!-- BLOG-POST-LIST:END -->
 
 
