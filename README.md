@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How the NEW Temporal API Finally Fixed JavaScript’s 30-Year Time Problem](https://dev.to/arnoldgunter/how-the-new-temporal-api-finally-fixed-javascripts-30-year-time-problem-cgg)
-- [Build an MCP Client in Minutes: Local AI Agents Just Got Real](https://dev.to/jonigl/build-an-mcp-client-in-minutes-local-ai-agents-just-got-real-4gj6)
-- [Announcing `google-ai-rs`: Type-Safe Google Generative AI Client for Rust](https://dev.to/veecore/announcing-google-ai-rs-type-safe-google-generative-ai-client-for-rust-4mgi)
-- [Kickstart Your MT4 EA Development withmql4-template](https://dev.to/maanimis/kickstart-your-mt4-ea-development-withmql4-template-2n21)
+- [Misguided Prompts and Better Outcomes: Learning by Doing &lpar;Wrong&rpar;](https://dev.to/thutch1976/misguided-prompts-and-better-outcomes-learning-by-doing-wrong-3ijk)
+- [How to Create an EditorFor Without a Label for 508 Compliance?](https://dev.to/generatecodedev/how-to-create-an-editorfor-without-a-label-for-508-compliance-3b0c)
+- [MCP en acción: integra datos del sistema en tus modelos generativos](https://dev.to/aws-espanol/mcp-en-accion-integra-datos-del-sistema-en-tus-modelos-generativos-2c9c)
+- [Hands on MCP: Extending LLMs with Real-Time Data](https://dev.to/aws-builders/mcp-in-practice-extending-llms-with-real-time-data-4f6f)
 <!-- BLOG-POST-LIST:END -->
 
 
