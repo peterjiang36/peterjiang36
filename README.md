@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ecto for Elixir: A Beginner&#39;s Guide to Database Interactions](https://dev.to/actor-dev/ecto-for-elixir-a-beginners-guide-to-database-interactions-4l7k)
-- [C# How to ambient transaction work under the hood](https://dev.to/eveissim/how-to-ambient-transaction-work-under-the-hood-5e55)
-- [Ecto para Elixir: Guia para Iniciantes sobre Interações com Banco de Dados](https://dev.to/actor-dev/ecto-para-elixir-guia-para-iniciantes-sobre-interacoes-com-banco-de-dados-1ng6)
-- [EyeDropper API for Color Selection from Screen](https://dev.to/omriluz1/eyedropper-api-for-color-selection-from-screen-1nio)
+- [Delighting In Failure](https://dev.to/jjonesaethem/delighting-in-failure-2hlp)
+- [How to Efficiently Manage Edge Cuts in an Undirected Graph with C++](https://dev.to/generatecodedev/how-to-efficiently-manage-edge-cuts-in-an-undirected-graph-with-c-2ln4)
+- [Sustainable Blockchain Practices: Harmonizing Technology and Ecology](https://dev.to/zhangwei42/sustainable-blockchain-practices-harmonizing-technology-and-ecology-2jg3)
+- [Building Scalable Data Pipelines: Apache SeaTunnel Meets Cloudberry](https://dev.to/seatunnel/building-scalable-data-pipelines-apache-seatunnel-meets-cloudberry-1ic1)
 <!-- BLOG-POST-LIST:END -->
 
 
