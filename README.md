@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shinobi Paws: The Silent Guardians in Cyberwar Scenarios](https://dev.to/bobcars/shinobi-paws-the-silent-guardians-in-cyberwar-scenarios-1b11)
-- [How to Find the Intersection of Two Arrays in Ruby?](https://dev.to/generatecodedev/how-to-find-the-intersection-of-two-arrays-in-ruby-47fm)
-- [Discover Creative Keys at Top Chicago Music School](https://dev.to/pauladams/discover-creative-keys-at-top-chicago-music-school-362a)
-- [BuildLog #1 I am operating a SaaS product since 2023 on the African market and I will be sharing my experiences and learning.](https://dev.to/simo97/buildlog-1-i-am-operating-a-saas-product-since-2023-on-the-african-market-and-i-will-be-sharing-my-317i)
+- [How to Build API-Centric Frontend Apps in Bellini](https://dev.to/lonti-davidb/how-to-build-api-centric-frontend-apps-in-bellini-56ak)
+- [Understanding Error Unions in Zig: Safe and Explicit Error Handling](https://dev.to/hexshift/understanding-error-unions-in-zig-safe-and-explicit-error-handling-3e0)
+- [Implementing a Custom Memory Pool in Zig](https://dev.to/hexshift/implementing-a-custom-memory-pool-in-zig-13c9)
+- [Manual Memory Management in Zig: Allocators Demystified](https://dev.to/hexshift/manual-memory-management-in-zig-allocators-demystified-46ne)
 <!-- BLOG-POST-LIST:END -->
 
 
