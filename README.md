@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;@unchecked Sendable&#39; Warning in Swift Xcode 16.2](https://dev.to/generatecodedev/how-to-fix-unchecked-sendable-warning-in-swift-xcode-162-f04)
-- [Convert YAML to Interactive Diagrams Online – Visualize YAML as Graph or Tree with jsonviewer.tools](https://dev.to/bugblitz98/convert-yaml-to-interactive-diagrams-online-visualize-yaml-as-graph-or-tree-with-jsonviewertools-587i)
-- [How does AI enhance embedded decision-making?](https://dev.to/shriyansh_iot_98734929139/how-does-ai-enhance-embedded-decision-making-2l42)
-- [How to Keep a Scrolling Log Updated in Real-Time with CSS?](https://dev.to/generatecodedev/how-to-keep-a-scrolling-log-updated-in-real-time-with-css-5h39)
+- [How to Add Application in SafeLine](https://dev.to/sharon_42e16b8da44dabde6d/how-to-add-application-in-safeline-3423)
+- [NocoBase Weekly Updates: Template Printing Supports Images and Barcodes](https://dev.to/nocobase/nocobase-weekly-updates-template-printing-supports-images-and-barcodes-7ak)
+- [How to Dynamically Adjust Content Div Height in jQuery?](https://dev.to/generatecodedev/how-to-dynamically-adjust-content-div-height-in-jquery-5cm6)
+- [TE AMO♥️](https://dev.to/cristian_rubio_c3c94cc2b4/te-amo-po7)
 <!-- BLOG-POST-LIST:END -->
 
 
