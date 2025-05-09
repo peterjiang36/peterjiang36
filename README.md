@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build API-Centric Frontend Apps in Bellini](https://dev.to/lonti-davidb/how-to-build-api-centric-frontend-apps-in-bellini-56ak)
-- [Understanding Error Unions in Zig: Safe and Explicit Error Handling](https://dev.to/hexshift/understanding-error-unions-in-zig-safe-and-explicit-error-handling-3e0)
-- [Implementing a Custom Memory Pool in Zig](https://dev.to/hexshift/implementing-a-custom-memory-pool-in-zig-13c9)
-- [Manual Memory Management in Zig: Allocators Demystified](https://dev.to/hexshift/manual-memory-management-in-zig-allocators-demystified-46ne)
+- [How to Fix &#39;@unchecked Sendable&#39; Warning in Swift Xcode 16.2](https://dev.to/generatecodedev/how-to-fix-unchecked-sendable-warning-in-swift-xcode-162-f04)
+- [Convert YAML to Interactive Diagrams Online – Visualize YAML as Graph or Tree with jsonviewer.tools](https://dev.to/bugblitz98/convert-yaml-to-interactive-diagrams-online-visualize-yaml-as-graph-or-tree-with-jsonviewertools-587i)
+- [How does AI enhance embedded decision-making?](https://dev.to/shriyansh_iot_98734929139/how-does-ai-enhance-embedded-decision-making-2l42)
+- [How to Keep a Scrolling Log Updated in Real-Time with CSS?](https://dev.to/generatecodedev/how-to-keep-a-scrolling-log-updated-in-real-time-with-css-5h39)
 <!-- BLOG-POST-LIST:END -->
 
 
