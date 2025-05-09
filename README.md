@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Handling Large-Scale Frontend Applications](https://dev.to/hasunnilupul/strategies-for-handling-large-scale-frontend-applications-5ffl)
-- [Introducing the BoldSign Python SDK for Effortless E-Signature Integration](https://dev.to/boldsign/introducing-the-boldsign-python-sdk-for-effortless-e-signature-integration-fii)
-- [How to Automatically add Skip Links to all WordPress Menus](https://dev.to/netprofit/how-to-automatically-add-skip-links-to-all-wordpress-menus-30il)
-- [How to Use n8n with MCP Servers](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-n8n-with-mcp-servers-3c81)
+- [Data Structures Tutorial: A Complete Guide for Beginners](https://dev.to/tpointtechadu/data-structures-tutorial-a-complete-guide-for-beginners-575i)
+- [How to Shift Associated Data After Filtering an Array in JavaScript?](https://dev.to/generatecodedev/how-to-shift-associated-data-after-filtering-an-array-in-javascript-3nlh)
+- [60 Interview question-answer of Angular 19 with follow-up question. Everyone should know. &lpar;31 - 60&rpar;](https://dev.to/vivek_dudhatra/60-interview-question-answer-of-angular-19-with-follow-up-question-everyone-should-know-31-60-10mg)
+- [Top 12 Site Reliability Engineering &lpar;SRE&rpar; Consulting &amp; Support Companies in 2025](https://dev.to/samlongbottom/top-12-site-reliability-engineering-sre-consulting-support-companies-in-2025-j6b)
 <!-- BLOG-POST-LIST:END -->
 
 
