@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Delighting In Failure](https://dev.to/jjonesaethem/delighting-in-failure-2hlp)
-- [How to Efficiently Manage Edge Cuts in an Undirected Graph with C++](https://dev.to/generatecodedev/how-to-efficiently-manage-edge-cuts-in-an-undirected-graph-with-c-2ln4)
-- [Sustainable Blockchain Practices: Harmonizing Technology and Ecology](https://dev.to/zhangwei42/sustainable-blockchain-practices-harmonizing-technology-and-ecology-2jg3)
-- [Building Scalable Data Pipelines: Apache SeaTunnel Meets Cloudberry](https://dev.to/seatunnel/building-scalable-data-pipelines-apache-seatunnel-meets-cloudberry-1ic1)
+- [Strategies for Handling Large-Scale Frontend Applications](https://dev.to/hasunnilupul/strategies-for-handling-large-scale-frontend-applications-5ffl)
+- [Introducing the BoldSign Python SDK for Effortless E-Signature Integration](https://dev.to/boldsign/introducing-the-boldsign-python-sdk-for-effortless-e-signature-integration-fii)
+- [How to Automatically add Skip Links to all WordPress Menus](https://dev.to/netprofit/how-to-automatically-add-skip-links-to-all-wordpress-menus-30il)
+- [How to Use n8n with MCP Servers](https://dev.to/_37bbf0c253c0b3edec531e/how-to-use-n8n-with-mcp-servers-3c81)
 <!-- BLOG-POST-LIST:END -->
 
 
