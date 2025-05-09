@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This right here..... keep your AI generated stuff properly validated](https://dev.to/michbarsinai/this-right-here-keep-your-ai-generated-stuff-properly-validated-40ge)
-- [Neurointerfaces - Por que botões devem parecer botões?](https://dev.to/alissonfcosta/-por-que-botoes-devem-parecer-botoes-2fap)
-- [How to Create a Bash Script to Activate a Python Virtualenv?](https://dev.to/generatecodedev/how-to-create-a-bash-script-to-activate-a-python-virtualenv-4d6o)
-- [What if adding in-app notifications to your Next.js app only took one command?](https://dev.to/empe/what-if-adding-in-app-notifications-to-your-nextjs-app-only-took-one-command-c8g)
+- [How to Extract Base64 String Using Perl Regex Pattern?](https://dev.to/generatecodedev/how-to-extract-base64-string-using-perl-regex-pattern-49d5)
+- [Lagoon v2.25: Enhanced Infrastructure Security and Performance Optimization](https://dev.to/laurenhasthree/lagoon-v225-enhanced-infrastructure-security-and-performance-optimization-2681)
+- [Finding the Longest Unique Substring](https://dev.to/tanvir_azad/finding-the-longest-unique-substring-47na)
+- [Astro Isn’t Just Fast — It’s a Whole New Way to Build the Web](https://dev.to/arkhan/astro-isnt-just-fast-its-a-whole-new-way-to-build-the-web-14j7)
 <!-- BLOG-POST-LIST:END -->
 
 
