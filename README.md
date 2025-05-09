@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agile team might be losing productivity without you realizing it!](https://dev.to/rally_for_jira/your-agile-team-might-be-losing-productivity-without-you-realizing-it-l49)
-- [Voices at the Threshold](https://dev.to/rawveg/voices-at-the-threshold-4ddp)
-- [Exploring SuperRare’s Integration with Arbitrum: Bridging Digital Art and Next-Generation Blockchain Solutions](https://dev.to/kallileiser/exploring-superrares-integration-with-arbitrum-bridging-digital-art-and-next-generation-333)
-- [How to Sync Git Repository Dependencies Using uv in Python?](https://dev.to/generatecodedev/how-to-sync-git-repository-dependencies-using-uv-in-python-3kc5)
+- [Shinobi Paws: The Silent Guardians in Cyberwar Scenarios](https://dev.to/bobcars/shinobi-paws-the-silent-guardians-in-cyberwar-scenarios-1b11)
+- [How to Find the Intersection of Two Arrays in Ruby?](https://dev.to/generatecodedev/how-to-find-the-intersection-of-two-arrays-in-ruby-47fm)
+- [Discover Creative Keys at Top Chicago Music School](https://dev.to/pauladams/discover-creative-keys-at-top-chicago-music-school-362a)
+- [BuildLog #1 I am operating a SaaS product since 2023 on the African market and I will be sharing my experiences and learning.](https://dev.to/simo97/buildlog-1-i-am-operating-a-saas-product-since-2023-on-the-african-market-and-i-will-be-sharing-my-317i)
 <!-- BLOG-POST-LIST:END -->
 
 
