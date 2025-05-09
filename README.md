@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Trait All Truly Great Engineers Share](https://dev.to/code42cate/the-one-trait-all-truly-great-engineers-share-1f64)
-- [How to Format Date-Time in Dart to dd/MM/YYYY hh:mm?](https://dev.to/generatecodedev/how-to-format-date-time-in-dart-to-ddmmyyyy-hhmm-4glh)
-- [PocketBase + Firebase Studio](https://dev.to/aaronblondeau/pocketbase-firebase-studio-3gom)
-- [Beyond APIs: Software interfaces in the agent era](https://dev.to/portia-ai/beyond-apis-software-interfaces-in-the-agent-era-1p2a)
+- [Who Is Mirage? Crack the Terminal. Quack the Code.](https://dev.to/vibha_parashar/who-is-mirage-crack-the-terminal-quack-the-code-4116)
+- [🚀 Shrink Your Docker Image by 800%: Multi-Stage Builds &amp; Minimal Base Magic](https://dev.to/zaheetdev/shrink-your-docker-image-by-800-multi-stage-builds-minimal-base-magic-2h09)
+- [🧠 What is Web3?](https://dev.to/favebs/what-is-web3-1h5m)
+- [How to Resolve &#39;general-regs-only&#39; Attribute Error in C++?](https://dev.to/generatecodedev/how-to-resolve-general-regs-only-attribute-error-in-c-2d8d)
 <!-- BLOG-POST-LIST:END -->
 
 
