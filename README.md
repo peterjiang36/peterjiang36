@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Is Mirage? Crack the Terminal. Quack the Code.](https://dev.to/vibha_parashar/who-is-mirage-crack-the-terminal-quack-the-code-4116)
-- [🚀 Shrink Your Docker Image by 800%: Multi-Stage Builds &amp; Minimal Base Magic](https://dev.to/zaheetdev/shrink-your-docker-image-by-800-multi-stage-builds-minimal-base-magic-2h09)
-- [🧠 What is Web3?](https://dev.to/favebs/what-is-web3-1h5m)
-- [How to Resolve &#39;general-regs-only&#39; Attribute Error in C++?](https://dev.to/generatecodedev/how-to-resolve-general-regs-only-attribute-error-in-c-2d8d)
+- [Beyond `omitempty`: Understanding `omitzero` in Go 1.24](https://dev.to/leapcell/beyond-omitempty-understanding-omitzero-in-go-124-5dej)
+- [How to Start Foreground Service from BroadcastReceiver in Android 15?](https://dev.to/generatecodedev/how-to-start-foreground-service-from-broadcastreceiver-in-android-15-3ijc)
+- [Burger sticker](https://dev.to/preetha_vaishnavi_2b82358/burger-sticker-16gh)
+- [Open Source Sustainability Initiatives at Deutsche Telekom: Integrating Innovation and Sustainability](https://dev.to/bobcars/open-source-sustainability-initiatives-at-deutsche-telekom-integrating-innovation-and-1gno)
 <!-- BLOG-POST-LIST:END -->
 
 
