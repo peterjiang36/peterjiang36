@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Misguided Prompts and Better Outcomes: Learning by Doing &lpar;Wrong&rpar;](https://dev.to/thutch1976/misguided-prompts-and-better-outcomes-learning-by-doing-wrong-3ijk)
-- [How to Create an EditorFor Without a Label for 508 Compliance?](https://dev.to/generatecodedev/how-to-create-an-editorfor-without-a-label-for-508-compliance-3b0c)
-- [MCP en acción: integra datos del sistema en tus modelos generativos](https://dev.to/aws-espanol/mcp-en-accion-integra-datos-del-sistema-en-tus-modelos-generativos-2c9c)
-- [Hands on MCP: Extending LLMs with Real-Time Data](https://dev.to/aws-builders/mcp-in-practice-extending-llms-with-real-time-data-4f6f)
+- [The One Trait All Truly Great Engineers Share](https://dev.to/code42cate/the-one-trait-all-truly-great-engineers-share-1f64)
+- [How to Format Date-Time in Dart to dd/MM/YYYY hh:mm?](https://dev.to/generatecodedev/how-to-format-date-time-in-dart-to-ddmmyyyy-hhmm-4glh)
+- [PocketBase + Firebase Studio](https://dev.to/aaronblondeau/pocketbase-firebase-studio-3gom)
+- [Beyond APIs: Software interfaces in the agent era](https://dev.to/portia-ai/beyond-apis-software-interfaces-in-the-agent-era-1p2a)
 <!-- BLOG-POST-LIST:END -->
 
 
