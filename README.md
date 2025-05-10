@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing NewSREJobs — A Smarter Way to Find SRE Roles](https://dev.to/theykk/introducing-newsrejobs-a-smarter-way-to-find-sre-roles-4gim)
-- [Building and Deploying a Real Web App for Cloud Phone &lpar;in 3 Minutes&rpar;](https://dev.to/idilsaglam/building-and-deploying-a-real-web-app-for-cloud-phone-in-3-minutes-1dp9)
-- [Python&#39;s Hidden Gem for JSON Indentation](https://dev.to/bhuvaneshm_dev/pythons-hidden-gem-for-json-indentation-4bol)
-- [How to Set Up Multi-Factor Authentication &lpar;MFA&rpar; on Ubuntu for SSH](https://dev.to/sebos/how-to-set-up-multi-factor-authentication-mfa-on-ubuntu-for-ssh-1201)
+- [just got the two year badge, thanks dev.to :&rpar;](https://dev.to/kurealnum/just-got-the-two-year-badge-thanks-devto--2kbb)
+- [How to Process Multiple Results Pages in Microsoft Graph API Beta](https://dev.to/generatecodedev/how-to-process-multiple-results-pages-in-microsoft-graph-api-beta-2ddh)
+- [Public, Private, and Hybrid Cloud: What&#39;s the Difference?](https://dev.to/sudiptapradhan/public-private-and-hybrid-cloud-whats-the-difference-13ki)
+- [Keyboard Input In Miniscript](https://dev.to/selfish_dev/keyboard-input-in-miniscript-3cjm)
 <!-- BLOG-POST-LIST:END -->
 
 
