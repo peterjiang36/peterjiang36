@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Compile-Time Programming in Zig: Practical Examples and Use Cases](https://dev.to/hexshift/exploring-compile-time-programming-in-zig-practical-examples-and-use-cases-f4f)
-- [Understanding `build.zig`: A Practical Introduction to Zig&#39;s Build System](https://dev.to/hexshift/understanding-buildzig-a-practical-introduction-to-zigs-build-system-6gh)
-- [How to Store Data in a Dart Class Using Maps Correctly?](https://dev.to/generatecodedev/how-to-store-data-in-a-dart-class-using-maps-correctly-35ek)
-- [Empowering Agentic AI: The Symbiotic Power of Microsoft Fabric and Azure AI Foundry](https://dev.to/umeshtharukaofficial/empowering-agentic-ai-the-symbiotic-power-of-microsoft-fabric-and-azure-ai-foundry-1hdb)
+- [Source Filmmaker for Programmers: Tips to Maximize Efficiency](https://dev.to/ray_parker01/source-filmmaker-for-programmers-tips-to-maximize-efficiency-2569)
+- [🧠🥷Docker MCP Toolkit and Dokcer MCP Catalog &lpar;How to use MCP secure and easy &lpar;Cline and Cursor&rpar;&rpar;🛡️](https://dev.to/webdeveloperhyper/docker-mcp-toolkit-and-dokcer-mcp-catalog-how-to-use-mcp-secure-and-easy-cline-and-cursor-4jeb)
+- [POS Testing Explained: Ensuring Reliability in Retail Transactions](https://dev.to/shubham-theqa/pos-testing-explained-ensuring-reliability-in-retail-transactions-1a7n)
+- [How to Run a Basic Mojolicious Hello World App on Windows?](https://dev.to/generatecodedev/how-to-run-a-basic-mojolicious-hello-world-app-on-windows-111b)
 <!-- BLOG-POST-LIST:END -->
 
 
