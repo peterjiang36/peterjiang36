@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serial API for Low-Level Device Communication](https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh)
-- [Unhandled Runtime Error ChunkLoadError](https://dev.to/hack3rcon/unhandled-runtime-error-chunkloaderror-3hjp)
-- [Getting Started with Content Automation Workflow Pro: The Ultimate Guide to AI-Powered Content Generation](https://dev.to/allanninal/getting-started-with-content-automation-workflow-pro-the-ultimate-guide-to-ai-powered-content-l7)
-- [Secure by design in Python: A FastAPI app with 5 DevSecOps tools and a real time SSTI vulnerability remediation](https://dev.to/trottomv/secure-by-design-in-python-a-fastapi-app-with-5-devsecops-tools-and-a-real-time-ssti-vulnerability-2e6n)
+- [Does Junie Create Accessible Android Apps?](https://dev.to/eevajonnapanula/does-junie-create-accessible-android-apps-48kf)
+- [Ship Faster: 64 Notion Templates for Next Startup Goals](https://dev.to/abubakersiddique761/youre-wasting-time-without-these-64-notion-templates-101l)
+- [Building MarkdownResume.app: My Journey Creating an Open Source Tool for Job Seekers](https://dev.to/rozita_hasani_0e3fdaab89a/building-markdownresumeapp-my-journey-creating-an-open-source-tool-for-job-seekers-1f87)
+- [How to Change Code Snippet Selection in VS Code for C#?](https://dev.to/generatecodedev/how-to-change-code-snippet-selection-in-vs-code-for-c-56d)
 <!-- BLOG-POST-LIST:END -->
 
 
