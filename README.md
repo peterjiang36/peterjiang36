@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving &quot;SDK &#39;Microsoft.NET.Sdk&#39; Not Found&quot; Error in Visual Studio](https://dev.to/blackscripts/solving-sdk-microsoftnetsdk-not-found-error-in-visual-studio-1i9n)
-- [How to Call gRPC Methods Dynamically in Go](https://dev.to/dmo2000/how-to-call-grpc-methods-dynamically-in-go-2h7f)
-- [Hello there! I am new to the digital space and I want to learn as much as I can in web development and web designing. Any guidance, please? I would highly appreciate it. &lpar;chatgpt told me to do this&rpar; :&rpar;](https://dev.to/jomare_cloete_a22e24c447/hello-there-i-am-new-to-the-digital-space-and-i-want-to-learn-as-much-as-i-can-in-web-development-pb1)
-- [🧠 I Wrote JavaScript That Edits Itself — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-wrote-javascript-that-edits-itself-heres-how-and-why-14hp)
+- [How to Manage Departments and Users in C# EF Core](https://dev.to/generatecodedev/how-to-manage-departments-and-users-in-c-ef-core-23n6)
+- [How to Use Libuv In Your Zig Project](https://dev.to/pmbanugo/how-to-use-libuv-in-your-zig-project-4ije)
+- [How to Update a Progress Bar in MantineReactTable using WebSocket?](https://dev.to/generatecodedev/how-to-update-a-progress-bar-in-mantinereacttable-using-websocket-4nm2)
+- [Day 2 - Get Registered Users/ Logged-in User](https://dev.to/anwar_sadat/day-2-building-loopa-app-jjp)
 <!-- BLOG-POST-LIST:END -->
 
 
