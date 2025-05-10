@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents Autonomes pour la Surveillance Web en Temps Réel](https://dev.to/yvon_d7f43/agents-autonomes-pour-la-surveillance-web-en-temps-reel-3n23)
-- [From Paperwork to Performance: Why HR Systems Matter More Than Ever](https://dev.to/bhavesh_gangani_/from-paperwork-to-performance-why-hr-systems-matter-more-than-ever-2358)
-- [&quot;Retro Revival: Coding the 90s with Amazon Q Developer](https://dev.to/nivethavelu_063f1d9ce64f2/retro-revival-coding-the-90s-with-amazon-q-developer-2k0c)
-- [How to Use Shared Memory in Golang with C Interface?](https://dev.to/generatecodedev/how-to-use-shared-memory-in-golang-with-c-interface-46mh)
+- [🕸️ Web Dev Demystified: From HTML He**ck** to AI Magic &lpar;No, Really!&rpar;](https://dev.to/itsaryanchauhan/web-dev-demystified-from-html-heck-to-ai-magic-no-really-21oh)
+- [Software Sustainability: A Comprehensive Guide for a Resilient Digital Future](https://dev.to/ashucommits/software-sustainability-a-comprehensive-guide-for-a-resilient-digital-future-3l0o)
+- [Understanding Drop-in Overrides in systemd: When Parameters Accumulate vs Override](https://dev.to/redrum_yot/understanding-drop-in-overrides-in-systemd-when-parameters-accumulate-vs-override-3noi)
+- [Sharp &amp; Glowing dark card | Chrome only](https://dev.to/preetha_vaishnavi_2b82358/sharp-glowing-dark-card-chrome-only-l5g)
 <!-- BLOG-POST-LIST:END -->
 
 
