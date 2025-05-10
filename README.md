@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming language of the future. Part 2: State management](https://dev.to/lostghost/programming-language-of-the-future-part-2-state-management-nn7)
-- [How to Optimize SQL Queries for Counting Boolean Flags?](https://dev.to/generatecodedev/how-to-optimize-sql-queries-for-counting-boolean-flags-mh5)
-- [🧠 What Are Side Channel Attacks and Why Are They Among the Most Dangerous Attacks?](https://dev.to/__felixhoffman/cache-usage-analyzing-memory-access-patterns-in-cpus-22d9)
-- [Building true distributed systems with RoadRunner and Laravel](https://dev.to/butschster/building-true-distributed-systems-with-roadrunner-and-laravel-4eh1)
+- [How to Write Better Prompts: A Simple 3-Part Formula](https://dev.to/rijultp/how-to-write-better-prompts-a-simple-3-part-formula-37cn)
+- [A2A Protocol Implementation](https://dev.to/heetvekariya/a2a-protocol-implementation-5b2m)
+- [5 Common Mistakes in Cloud Migration Projects — and How to Avoid Them](https://dev.to/fred_rodrigues_996451110b/5-common-mistakes-in-cloud-migration-projects-and-how-to-avoid-them-1o5b)
+- [Awesome 60+ FREE Notion Templates Curated for your Next Startup/Project](https://dev.to/abubakersiddique761/awesome-60-free-notion-templates-curated-for-your-next-startupproject-42ib)
 <!-- BLOG-POST-LIST:END -->
 
 
