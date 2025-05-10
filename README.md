@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Memory Leakage in Vue.js API Fetching?](https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0)
-- [[Boost]](https://dev.to/florencia_tisera/-gji)
-- [Sriracha - Imageboard and Forum](https://dev.to/tslocum/sriracha-imageboard-and-forum-3io7)
-- [Daily JavaScript Challenge #JS-174: Calculate Whether a Given Year is a Leap Year](https://dev.to/dpc/daily-javascript-challenge-js-174-calculate-whether-a-given-year-is-a-leap-year-567i)
+- [I dropped a post blog over on Ko-Fi about exploring Python GUI frameworks! https://ko-fi.com/barbarossalivesgamestudio](https://dev.to/monte_bruce/i-dropped-a-post-blog-over-on-ko-fi-about-exploring-python-gui-frameworks-9lk)
+- [How to Resolve Discord Bot HTTP 403 Forbidden DM Issues?](https://dev.to/generatecodedev/how-to-resolve-discord-bot-http-403-forbidden-dm-issues-o6g)
+- [Mastering SQL Joins: Your Definitive Guide to Relational Data Mastery](https://dev.to/cristiansifuentes/mastering-sql-joins-your-definitive-guide-to-relational-data-mastery-1ecd)
+- [🧠🥷How to make Meme Generating MCP &lpar;Cline and Cursor&rpar;](https://dev.to/webdeveloperhyper/how-to-make-meme-generating-mcp-cline-and-cursor-3mpo)
 <!-- BLOG-POST-LIST:END -->
 
 
