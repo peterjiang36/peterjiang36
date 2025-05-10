@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CMake: A Practical Guide for DevOps Engineers and Developers](https://dev.to/vishnutejas/mastering-cmake-a-practical-guide-for-devops-engineers-and-developers-35eg)
-- [A Weather Clock &lpar;with Alarms&rpar; for ESP32 / Raspberry Pi Pico Implemented with Arduino Framework](https://dev.to/trevorwslee/a-weather-clock-with-alarms-for-esp32-raspberry-pi-pico-implemented-with-arduino-framework-5db3)
-- [How to Fix 405 Error in Blazor with Razor Pages for Login](https://dev.to/generatecodedev/how-to-fix-405-error-in-blazor-with-razor-pages-for-login-4i49)
-- [Building a React-Based Guitar Theory Practice Page: Connecting Theory and Application](https://dev.to/radzion/building-a-react-based-guitar-theory-practice-page-connecting-theory-and-application-4dke)
+- [Exploring Compile-Time Programming in Zig: Practical Examples and Use Cases](https://dev.to/hexshift/exploring-compile-time-programming-in-zig-practical-examples-and-use-cases-f4f)
+- [Understanding `build.zig`: A Practical Introduction to Zig&#39;s Build System](https://dev.to/hexshift/understanding-buildzig-a-practical-introduction-to-zigs-build-system-6gh)
+- [How to Store Data in a Dart Class Using Maps Correctly?](https://dev.to/generatecodedev/how-to-store-data-in-a-dart-class-using-maps-correctly-35ek)
+- [Empowering Agentic AI: The Symbiotic Power of Microsoft Fabric and Azure AI Foundry](https://dev.to/umeshtharukaofficial/empowering-agentic-ai-the-symbiotic-power-of-microsoft-fabric-and-azure-ai-foundry-1hdb)
 <!-- BLOG-POST-LIST:END -->
 
 
