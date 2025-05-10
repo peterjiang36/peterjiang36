@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-math-quick-additions-and-subtractions-for-software-developers-5eg4)
-- [Open Source Project Sponsorship Platforms: Empowering Innovation](https://dev.to/ahmmrizv9/open-source-project-sponsorship-platforms-empowering-innovation-14oc)
-- [How to Fix Image Loading Issues in Flutter with YouTube Thumbnails?](https://dev.to/generatecodedev/how-to-fix-image-loading-issues-in-flutter-with-youtube-thumbnails-3nc7)
-- [Understanding Future and Stream in Dart](https://dev.to/vlopess/understanding-future-and-stream-in-dart-1246)
+- [Mastering CMake: A Practical Guide for DevOps Engineers and Developers](https://dev.to/vishnutejas/mastering-cmake-a-practical-guide-for-devops-engineers-and-developers-35eg)
+- [A Weather Clock &lpar;with Alarms&rpar; for ESP32 / Raspberry Pi Pico Implemented with Arduino Framework](https://dev.to/trevorwslee/a-weather-clock-with-alarms-for-esp32-raspberry-pi-pico-implemented-with-arduino-framework-5db3)
+- [How to Fix 405 Error in Blazor with Razor Pages for Login](https://dev.to/generatecodedev/how-to-fix-405-error-in-blazor-with-razor-pages-for-login-4i49)
+- [Building a React-Based Guitar Theory Practice Page: Connecting Theory and Application](https://dev.to/radzion/building-a-react-based-guitar-theory-practice-page-connecting-theory-and-application-4dke)
 <!-- BLOG-POST-LIST:END -->
 
 
