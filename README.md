@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [just got the two year badge, thanks dev.to :&rpar;](https://dev.to/kurealnum/just-got-the-two-year-badge-thanks-devto--2kbb)
-- [How to Process Multiple Results Pages in Microsoft Graph API Beta](https://dev.to/generatecodedev/how-to-process-multiple-results-pages-in-microsoft-graph-api-beta-2ddh)
-- [Public, Private, and Hybrid Cloud: What&#39;s the Difference?](https://dev.to/sudiptapradhan/public-private-and-hybrid-cloud-whats-the-difference-13ki)
-- [Keyboard Input In Miniscript](https://dev.to/selfish_dev/keyboard-input-in-miniscript-3cjm)
+- [Audio Steganography, Faster and Friendlier: My Dive into Spectrogram](https://dev.to/vishwaksen1/audio-steganography-faster-and-friendlier-my-dive-into-spectrogram-1i0l)
+- [What are the Syntax Issues in My SQL Recursive Query?](https://dev.to/generatecodedev/what-are-the-syntax-issues-in-my-sql-recursive-query-262b)
+- [AI Medicine Analyzer – Diagnose Medicines Smarter with Amazon Q](https://dev.to/sumitkcs/ai-medicine-analyzer-diagnose-medicines-smarter-with-amazon-q-5eg5)
+- [❄️ Snowflake: Why Choose It Over Other Databases](https://dev.to/govind_joshi/snowflake-why-choose-it-over-other-databases-4mom)
 <!-- BLOG-POST-LIST:END -->
 
 
