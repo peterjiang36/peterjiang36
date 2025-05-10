@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Question: Design changes in my Next.js + Tailwind app do not reflect in production &lpar;Vercel&rpar;](https://dev.to/alonsocc_1f262ffb/question-design-changes-in-my-nextjs-tailwind-app-do-not-reflect-in-production-vercel-589n)
-- [How to Fix Cocoapods Error on Macbook Pro M1](https://dev.to/generatecodedev/how-to-fix-cocoapods-error-on-macbook-pro-m1-jk3)
-- [JSON &lpar;JavaScript Object Notation&rpar;: The Universal Data Exchange Language](https://dev.to/doumbouyah_dev/json-javascript-object-notation-the-universal-data-exchange-language-123l)
-- [Cloud Service Types: IaaS, PaaS, SaaS](https://dev.to/sudiptapradhan/cloud-service-types-iaas-paas-saas-1m3f)
+- [Agents Autonomes pour la Surveillance Web en Temps Réel](https://dev.to/yvon_d7f43/agents-autonomes-pour-la-surveillance-web-en-temps-reel-3n23)
+- [From Paperwork to Performance: Why HR Systems Matter More Than Ever](https://dev.to/bhavesh_gangani_/from-paperwork-to-performance-why-hr-systems-matter-more-than-ever-2358)
+- [&quot;Retro Revival: Coding the 90s with Amazon Q Developer](https://dev.to/nivethavelu_063f1d9ce64f2/retro-revival-coding-the-90s-with-amazon-q-developer-2k0c)
+- [How to Use Shared Memory in Golang with C Interface?](https://dev.to/generatecodedev/how-to-use-shared-memory-in-golang-with-c-interface-46mh)
 <!-- BLOG-POST-LIST:END -->
 
 
