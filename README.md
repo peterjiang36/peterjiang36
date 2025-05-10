@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🕸️ Web Dev Demystified: From HTML He**ck** to AI Magic &lpar;No, Really!&rpar;](https://dev.to/itsaryanchauhan/web-dev-demystified-from-html-heck-to-ai-magic-no-really-21oh)
-- [Software Sustainability: A Comprehensive Guide for a Resilient Digital Future](https://dev.to/ashucommits/software-sustainability-a-comprehensive-guide-for-a-resilient-digital-future-3l0o)
-- [Understanding Drop-in Overrides in systemd: When Parameters Accumulate vs Override](https://dev.to/redrum_yot/understanding-drop-in-overrides-in-systemd-when-parameters-accumulate-vs-override-3noi)
-- [Sharp &amp; Glowing dark card | Chrome only](https://dev.to/preetha_vaishnavi_2b82358/sharp-glowing-dark-card-chrome-only-l5g)
+- [Introducing NewSREJobs — A Smarter Way to Find SRE Roles](https://dev.to/theykk/introducing-newsrejobs-a-smarter-way-to-find-sre-roles-4gim)
+- [Building and Deploying a Real Web App for Cloud Phone &lpar;in 3 Minutes&rpar;](https://dev.to/idilsaglam/building-and-deploying-a-real-web-app-for-cloud-phone-in-3-minutes-1dp9)
+- [Python&#39;s Hidden Gem for JSON Indentation](https://dev.to/bhuvaneshm_dev/pythons-hidden-gem-for-json-indentation-4bol)
+- [How to Set Up Multi-Factor Authentication &lpar;MFA&rpar; on Ubuntu for SSH](https://dev.to/sebos/how-to-set-up-multi-factor-authentication-mfa-on-ubuntu-for-ssh-1201)
 <!-- BLOG-POST-LIST:END -->
 
 
