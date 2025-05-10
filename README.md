@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Junie Create Accessible Android Apps?](https://dev.to/eevajonnapanula/does-junie-create-accessible-android-apps-48kf)
-- [Ship Faster: 64 Notion Templates for Next Startup Goals](https://dev.to/abubakersiddique761/youre-wasting-time-without-these-64-notion-templates-101l)
-- [Building MarkdownResume.app: My Journey Creating an Open Source Tool for Job Seekers](https://dev.to/rozita_hasani_0e3fdaab89a/building-markdownresumeapp-my-journey-creating-an-open-source-tool-for-job-seekers-1f87)
-- [How to Change Code Snippet Selection in VS Code for C#?](https://dev.to/generatecodedev/how-to-change-code-snippet-selection-in-vs-code-for-c-56d)
+- [Question: Design changes in my Next.js + Tailwind app do not reflect in production &lpar;Vercel&rpar;](https://dev.to/alonsocc_1f262ffb/question-design-changes-in-my-nextjs-tailwind-app-do-not-reflect-in-production-vercel-589n)
+- [How to Fix Cocoapods Error on Macbook Pro M1](https://dev.to/generatecodedev/how-to-fix-cocoapods-error-on-macbook-pro-m1-jk3)
+- [JSON &lpar;JavaScript Object Notation&rpar;: The Universal Data Exchange Language](https://dev.to/doumbouyah_dev/json-javascript-object-notation-the-universal-data-exchange-language-123l)
+- [Cloud Service Types: IaaS, PaaS, SaaS](https://dev.to/sudiptapradhan/cloud-service-types-iaas-paas-saas-1m3f)
 <!-- BLOG-POST-LIST:END -->
 
 
