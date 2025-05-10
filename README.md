@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I dropped a post blog over on Ko-Fi about exploring Python GUI frameworks! https://ko-fi.com/barbarossalivesgamestudio](https://dev.to/monte_bruce/i-dropped-a-post-blog-over-on-ko-fi-about-exploring-python-gui-frameworks-9lk)
-- [How to Resolve Discord Bot HTTP 403 Forbidden DM Issues?](https://dev.to/generatecodedev/how-to-resolve-discord-bot-http-403-forbidden-dm-issues-o6g)
-- [Mastering SQL Joins: Your Definitive Guide to Relational Data Mastery](https://dev.to/cristiansifuentes/mastering-sql-joins-your-definitive-guide-to-relational-data-mastery-1ecd)
-- [🧠🥷How to make Meme Generating MCP &lpar;Cline and Cursor&rpar;](https://dev.to/webdeveloperhyper/how-to-make-meme-generating-mcp-cline-and-cursor-3mpo)
+- [Open Source Project Sponsorship Platforms: Empowering Innovation](https://dev.to/ahmmrizv9/open-source-project-sponsorship-platforms-empowering-innovation-14oc)
+- [How to Fix Image Loading Issues in Flutter with YouTube Thumbnails?](https://dev.to/generatecodedev/how-to-fix-image-loading-issues-in-flutter-with-youtube-thumbnails-3nc7)
+- [Understanding Future and Stream in Dart](https://dev.to/vlopess/understanding-future-and-stream-in-dart-1246)
+- [Arbitrum and Its Impact on Ethereum: A Deep Dive](https://dev.to/jennythomas498/arbitrum-and-its-impact-on-ethereum-a-deep-dive-3d6j)
 <!-- BLOG-POST-LIST:END -->
 
 
