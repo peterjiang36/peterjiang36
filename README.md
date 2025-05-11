@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos in Production? Bring it on.](https://dev.to/quorummind/chaos-in-production-bring-it-on-4jfj)
-- [How to Draw Boxes Around Recognized Words with Tesseract.js](https://dev.to/generatecodedev/how-to-draw-boxes-around-recognized-words-with-tesseractjs-3pnh)
-- [Build a Contact Form with Resend, AWS Lambda, and React.js](https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb)
-- [Hello DEV.to Community! 🌎👋](https://dev.to/belluccaz/hello-devto-community-2f6g)
+- [What is Apache Flink? Exploring Its Open Source Business Model, Funding, and Community](https://dev.to/kallileiser/what-is-apache-flink-exploring-its-open-source-business-model-funding-and-community-584c)
+- [Why Avoid MySQL Functions in PHP and What to Use Instead?](https://dev.to/generatecodedev/why-avoid-mysql-functions-in-php-and-what-to-use-instead-4fi3)
+- [Understanding the Singleton Pattern – One Instance to Rule Them All](https://dev.to/syedyshiraz/understanding-the-singleton-pattern-one-instance-to-rule-them-all-2f1k)
+- [Setting Up SplashKit Manager &lpar;SKM&rpar;- Windows](https://dev.to/movini/setting-up-splashkit-manager-skm-windows-2kpl)
 <!-- BLOG-POST-LIST:END -->
 
 
