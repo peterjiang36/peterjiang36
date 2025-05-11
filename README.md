@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Intelligence System for Tasks](https://dev.to/cloaky233/model-intelligence-system-for-tasks-247)
-- [How to Fix &#39;win32yank.exe is not executable&#39; Error in Neovim](https://dev.to/generatecodedev/how-to-fix-win32yankexe-is-not-executable-error-in-neovim-5d92)
-- [🔧 AI Automated Error Review &amp; AI Refactor Helper – Crushing the Command Line Challenge](https://dev.to/gulzer/ai-automated-error-review-ai-refactor-helper-crushing-the-command-line-challenge-5395)
-- [[Boost]](https://dev.to/samir_elmadi_88f4c0acdf4/-1kbl)
+- [Best GitHub Repositories for Programmers](https://dev.to/ilham-bouk/best-github-repositories-for-programmers-586l)
+- [Python 3.13.2 Migration - Test Mocking Compatibility Issues with Requests and Mock Library](https://dev.to/debashisa_patra_d455ab0b5/python-3132-migration-test-mocking-compatibility-issues-with-requests-and-mock-library-30lo)
+- [How to Self-Host PostgreSQL &lpar;with Monitoring&rpar;](https://dev.to/therealfloatdev/how-to-self-host-postgresql-with-monitoring-5apc)
+- [Agile, Scrum, Waterfall: What Founders Need to Know](https://dev.to/developerpartners/agile-scrum-waterfall-what-founders-need-to-know-4lo8)
 <!-- BLOG-POST-LIST:END -->
 
 
