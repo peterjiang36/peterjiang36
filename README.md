@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Development Case: Emoticon Searcher](https://dev.to/zhongcx/harmonyos-next-development-case-emoticon-searcher-2pi9)
-- [HarmonyOS NEXT Development Case: World Clock Application](https://dev.to/zhongcx/harmonyos-next-development-case-world-clock-application-3ojf)
-- [HarmonyOS NEXT Development Case: Randomized 9-Cell Grid](https://dev.to/zhongcx/harmonyos-next-development-case-randomized-9-cell-grid-3ip2)
-- [How to Build RESTful APIs with Django](https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn)
+- [Chaos in Production? Bring it on.](https://dev.to/quorummind/chaos-in-production-bring-it-on-4jfj)
+- [How to Draw Boxes Around Recognized Words with Tesseract.js](https://dev.to/generatecodedev/how-to-draw-boxes-around-recognized-words-with-tesseractjs-3pnh)
+- [Build a Contact Form with Resend, AWS Lambda, and React.js](https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb)
+- [Hello DEV.to Community! 🌎👋](https://dev.to/belluccaz/hello-devto-community-2f6g)
 <!-- BLOG-POST-LIST:END -->
 
 
