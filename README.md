@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Validation Logic in C# Using Method References](https://dev.to/generatecodedev/how-to-implement-validation-logic-in-c-using-method-references-3l31)
-- [JsonVerse: A Deep Dive into Design, Decisions, and Phased Delivery for Next-Generation JSON Management](https://dev.to/aashish_nandakumar_0fce4e/jsonverse-a-deep-dive-into-design-decisions-and-phased-delivery-for-next-generation-json-4h6e)
-- [Will AI Replace Traditional SBOM Tools? Exploring the Future of Software Supply Chain Security](https://dev.to/ozee/will-ai-replace-traditional-sbom-tools-exploring-the-future-of-software-supply-chain-security-c07)
-- [Meet Catalyst &amp; Forge: Structured AI-Assisted Development with Claude Code, the Dev Bible &amp; MAIA-WF&quot;](https://dev.to/philippe_sthely_7739a5443/meet-catalyst-forge-structured-ai-assisted-development-with-claude-code-the-dev-bible-maia-wf-3df4)
+- [🚀 Powering Innovation The Future of Hysteresis Brakes Dynamometers and Motor Testing Systems](https://dev.to/baysweets93/powering-innovation-the-future-of-hysteresis-brakes-dynamometers-and-motor-testing-systems-bpf)
+- [I Taught Python to Write Fanfiction Using Reddit Comments and It Got Weird Fast](https://dev.to/0x3d_site/i-taught-python-to-write-fanfiction-using-reddit-comments-and-it-got-weird-fast-4oll)
+- [Whispers of Infinity: A Journey into the Heart of Prime Numbers](https://dev.to/anxiel_world_28c50ad32379/whispers-of-infinity-a-journey-into-the-heart-of-prime-numbers-516p)
+- [🌟 Persist your data with PV and PVC 🌟](https://dev.to/anil_kumar_ff4f6ad3549983/persist-your-data-with-pv-and-pvc-4pf8)
 <!-- BLOG-POST-LIST:END -->
 
 
