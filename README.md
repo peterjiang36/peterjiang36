@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Apache Flink? Exploring Its Open Source Business Model, Funding, and Community](https://dev.to/kallileiser/what-is-apache-flink-exploring-its-open-source-business-model-funding-and-community-584c)
-- [Why Avoid MySQL Functions in PHP and What to Use Instead?](https://dev.to/generatecodedev/why-avoid-mysql-functions-in-php-and-what-to-use-instead-4fi3)
-- [Understanding the Singleton Pattern – One Instance to Rule Them All](https://dev.to/syedyshiraz/understanding-the-singleton-pattern-one-instance-to-rule-them-all-2f1k)
-- [Setting Up SplashKit Manager &lpar;SKM&rpar;- Windows](https://dev.to/movini/setting-up-splashkit-manager-skm-windows-2kpl)
+- [Securing Kubernetes Workloads with Falco](https://dev.to/vinod827/securing-kubernetes-workloads-with-falco-1mod)
+- [Analysis of digital currency market trends](https://dev.to/aicoinzhd/analysis-of-digital-currency-market-trends-54k4)
+- [How to Fix Jittery Performance in a Nintendo 3DS Snake Game?](https://dev.to/generatecodedev/how-to-fix-jittery-performance-in-a-nintendo-3ds-snake-game-1did)
+- [Claude 3.7 Sonnet: The AI That Understands Your Entire Codebase Like a Senior Engineer](https://dev.to/abhishekshakya/claude-37-sonnet-the-ai-that-understands-your-entire-codebase-like-a-senior-engineer-mgo)
 <!-- BLOG-POST-LIST:END -->
 
 
