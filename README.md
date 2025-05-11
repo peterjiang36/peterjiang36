@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best GitHub Repositories for Programmers](https://dev.to/ilham-bouk/best-github-repositories-for-programmers-586l)
-- [Python 3.13.2 Migration - Test Mocking Compatibility Issues with Requests and Mock Library](https://dev.to/debashisa_patra_d455ab0b5/python-3132-migration-test-mocking-compatibility-issues-with-requests-and-mock-library-30lo)
-- [How to Self-Host PostgreSQL &lpar;with Monitoring&rpar;](https://dev.to/therealfloatdev/how-to-self-host-postgresql-with-monitoring-5apc)
-- [Agile, Scrum, Waterfall: What Founders Need to Know](https://dev.to/developerpartners/agile-scrum-waterfall-what-founders-need-to-know-4lo8)
+- [Kubernetes Architecture: Breaking It Down](https://dev.to/mayankcse/kubernetes-architecture-breaking-it-down-428n)
+- [Node.js 24 is here, VS Code now has better OpenAI and Anthropic support, a new JavaScript load testing tool, and more](https://dev.to/thisweekinjavascript/nodejs-24-is-here-vs-code-now-has-better-openai-and-anthropic-support-a-new-javascript-load-bp2)
+- [Kubernetes Pod Scheduling: Optimizing Workload Placement for Performance and Efficiency](https://dev.to/kapusto/kubernetes-pod-scheduling-optimizing-workload-placement-for-performance-and-efficiency-h44)
+- [Why Developers Are Choosing Tortoise ORM as Python’s Modern ORM](https://dev.to/leapcell/why-developers-are-choosing-tortoise-orm-as-pythons-modern-orm-4cd0)
 <!-- BLOG-POST-LIST:END -->
 
 
