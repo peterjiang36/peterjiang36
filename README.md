@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Framework Agnostic](https://dev.to/m__mdy__m/framework-agnostic-37og)
-- [Introduction à OpenTofu pour les utilisateurs Terraform](https://dev.to/laformulenuagique/introduction-a-opentofu-pour-les-utilisateurs-terraform-4e9l)
-- [💸 A Definite Guide to Develop Production Grade Applications with AWS Q Developer in 2025 [Video Demo Included] 🎥](https://dev.to/mohamednizzad/a-definite-guide-to-develop-production-grade-applications-with-aws-q-developer-in-2025-video-3690)
-- [How to Install NVIDIA Parakeet TDT 0.6B V2 Locally?](https://dev.to/nodeshiftcloud/how-to-install-nvidia-parakeet-tdt-06b-v2-locally-36ck)
+- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
+- [Coding Challenge Practice - Question 6](https://dev.to/tomivan/coding-challenge-practice-question-6-3anm)
+- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
+- [How to Send Traces Using Scala and OpenTelemetry](https://dev.to/generatecodedev/how-to-send-traces-using-scala-and-opentelemetry-4ll3)
 <!-- BLOG-POST-LIST:END -->
 
 
