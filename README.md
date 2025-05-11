@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtualization | Hypervisor | Containerization](https://dev.to/omkarsharma2821/virtualization-hypervisor-containerization-2den)
-- [PokéSeek – A Pokémon Info Guessing Game!](https://dev.to/raiplus/pokeseek-a-pokemon-info-guessing-game-5gn2)
-- [How to Fix AccessDeniedException While Zipping Flutter Projects](https://dev.to/generatecodedev/how-to-fix-accessdeniedexception-while-zipping-flutter-projects-3ei9)
-- [Track Your Health Easily with Our Free BMI Calculator](https://dev.to/learn_with_santosh/track-your-health-easily-with-our-free-bmi-calculator-4cjm)
+- [🚀 Zyn 1.0.2 Released — Smarter Builds, Powerful Debugging, Cleaner Workflow](https://dev.to/zyntraxis_c908fa8b32e04cb/zyn-102-released-smarter-builds-powerful-debugging-cleaner-workflow-52e2)
+- [Hello world.](https://dev.to/yashwantsingh/hello-world-3k16)
+- [What is UDP? Understanding the “Unreliable” Transport Protocol](https://dev.to/kumarprateek18/what-is-udp-understanding-the-unreliable-transport-protocol-1o2f)
+- [CS50AI 2024](https://dev.to/alice_kcm/cs50ai-2024-2khg)
 <!-- BLOG-POST-LIST:END -->
 
 
