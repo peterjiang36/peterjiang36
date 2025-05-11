@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Development Case: Light Intensity Meter](https://dev.to/zhongcx/harmonyos-next-development-case-light-intensity-meter-3l7b)
-- [How to Vertically Center Components in Kotlin&#39;s Compose?](https://dev.to/generatecodedev/how-to-vertically-center-components-in-kotlins-compose-239n)
-- [HarmonyOS NEXT Development Case: Ruler Application](https://dev.to/zhongcx/harmonyos-next-development-case-ruler-application-33o1)
-- [Frontend Derinlemesine: Modern Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontend-derinlemesine-modern-yaklasimlar-2l03)
+- [How to Run Axum and Tonic on the Same Port with Routing](https://dev.to/generatecodedev/how-to-run-axum-and-tonic-on-the-same-port-with-routing-4okk)
+- [Plot Twist: I Didn’t Get the Job &lpar;Yet&rpar;](https://dev.to/rodrigoeloyc/plot-twist-i-didnt-get-the-job-yet-6f1)
+- [🚀 Devlog #1 – Voltando a mexer no meu jogo após 2 anos](https://dev.to/joashneves/devlog-1-voltando-a-mexer-no-meu-jogo-apos-2-anos-5a5f)
+- [🚀 Automating Project Setup with Amazon Q Developer CLI: A Command-Line Revolution](https://dev.to/risshi-codes/automating-project-setup-with-amazon-q-developer-cli-a-command-line-revolution-3m69)
 <!-- BLOG-POST-LIST:END -->
 
 
