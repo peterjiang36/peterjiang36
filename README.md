@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software License management with Polar.sh](https://dev.to/skatkov/software-license-management-with-polarsh-eb8)
-- [Blockchain Architecture Basics: Components, Structure, Benefits &amp; Creation](https://dev.to/andinugroho/blockchain-architecture-basics-components-structure-benefits-creation-58nm)
-- [PYTHON SELENIUM](https://dev.to/dhanusappa/python-selenium-2bdf)
-- [What is the Devious Perl Construct for Shell Compatibility?](https://dev.to/generatecodedev/what-is-the-devious-perl-construct-for-shell-compatibility-3cdj)
+- [Building Tools for ANT National Transit Authority Matrícula Data](https://dev.to/johnsmith6/building-tools-for-ant-national-transit-authority-matricula-data-45ne)
+- [Secure, Swift, and Smart: A Basic Guide to Building AI Agentic Workflows with Local Models](https://dev.to/maverick_tr/secure-swift-and-smart-a-basic-guide-to-building-ai-agentic-workflows-with-local-models-58lo)
+- [How to Fix Cursor Movement Issues in Angular Quill Editor](https://dev.to/generatecodedev/how-to-fix-cursor-movement-issues-in-angular-quill-editor-1adk)
+- [The Design of Trust, or How a Game Designer Manipulates .](https://dev.to/nickkeepkind/the-design-of-trust-or-how-a-game-designer-manipulates--mnp)
 <!-- BLOG-POST-LIST:END -->
 
 
