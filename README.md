@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Barrelize: Automate Your JavaScript Imports Like a Pro](https://dev.to/nizami/barrelize-automate-your-javascript-imports-like-a-pro-4oa8)
-- [python talking code: import pyttsx3 engine = pyttsx3.init&lpar;&rpar; engine.setProperty&lpar;&#39;rate&#39;, 150&rpar; engine.setProperty&lpar;&#39;volume&#39;, 5&rpar; text = &quot;Hello, I am your Python assistant. How can I help you today, nice kid?&quot; engine.say&lpar;text&rpar; engine.runAndWait&lpar;&rpar;](https://dev.to/krish_arulmeiyappan_f2ad/python-talking-code-import-pyttsx3-engine-pyttsx3init-enginesetpropertyrate-150-3fhi)
-- [Why is the Output Order Reversed in My Hello World Driver?](https://dev.to/generatecodedev/why-is-the-output-order-reversed-in-my-hello-world-driver-1aoh)
-- [Weekly Dev Log #2: Sound, Effects &amp; Debugging Adventures — Junior Programmer Pathway](https://dev.to/cansucreates/weekly-dev-log-2-sound-effects-debugging-adventures-junior-programmer-pathway-d8f)
+- [Framework Agnostic](https://dev.to/m__mdy__m/framework-agnostic-37og)
+- [Introduction à OpenTofu pour les utilisateurs Terraform](https://dev.to/laformulenuagique/introduction-a-opentofu-pour-les-utilisateurs-terraform-4e9l)
+- [💸 A Definite Guide to Develop Production Grade Applications with AWS Q Developer in 2025 [Video Demo Included] 🎥](https://dev.to/mohamednizzad/a-definite-guide-to-develop-production-grade-applications-with-aws-q-developer-in-2025-video-3690)
+- [How to Install NVIDIA Parakeet TDT 0.6B V2 Locally?](https://dev.to/nodeshiftcloud/how-to-install-nvidia-parakeet-tdt-06b-v2-locally-36ck)
 <!-- BLOG-POST-LIST:END -->
 
 
