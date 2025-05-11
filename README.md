@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS NEXT Development Case: Random Number Generator](https://dev.to/zhongcx/harmonyos-next-development-case-random-number-generator-2gh2)
-- [HarmonyOS NEXT Development Case: Random Password Generator](https://dev.to/zhongcx/harmonyos-next-development-case-random-password-generator-3hkg)
-- [A Brief Discussion on Multithreading in HarmonyOS](https://dev.to/simple_lau_1997/a-brief-discussion-on-multithreading-in-harmonyos-3dc1)
-- [How to Permanently Delete Rows in Excel Using Java?](https://dev.to/generatecodedev/how-to-permanently-delete-rows-in-excel-using-java-1gb6)
+- [HarmonyOS NEXT Development Case: Emoticon Searcher](https://dev.to/zhongcx/harmonyos-next-development-case-emoticon-searcher-2pi9)
+- [HarmonyOS NEXT Development Case: World Clock Application](https://dev.to/zhongcx/harmonyos-next-development-case-world-clock-application-3ojf)
+- [HarmonyOS NEXT Development Case: Randomized 9-Cell Grid](https://dev.to/zhongcx/harmonyos-next-development-case-randomized-9-cell-grid-3ip2)
+- [How to Build RESTful APIs with Django](https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn)
 <!-- BLOG-POST-LIST:END -->
 
 
