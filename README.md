@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Kubernetes Workloads with Falco](https://dev.to/vinod827/securing-kubernetes-workloads-with-falco-1mod)
-- [Analysis of digital currency market trends](https://dev.to/aicoinzhd/analysis-of-digital-currency-market-trends-54k4)
-- [How to Fix Jittery Performance in a Nintendo 3DS Snake Game?](https://dev.to/generatecodedev/how-to-fix-jittery-performance-in-a-nintendo-3ds-snake-game-1did)
-- [Claude 3.7 Sonnet: The AI That Understands Your Entire Codebase Like a Senior Engineer](https://dev.to/abhishekshakya/claude-37-sonnet-the-ai-that-understands-your-entire-codebase-like-a-senior-engineer-mgo)
+- [📱Tech News to Your Ears: WhatsApp Voice Notes Powered by Python, AWS &amp; Twilio🧠🎙️](https://dev.to/yugesh_a_003/tech-news-to-your-ears-whatsapp-voice-notes-powered-by-python-aws-twilio-1834)
+- [How to Implement Google Sign-In with Credential Manager in Android?](https://dev.to/generatecodedev/how-to-implement-google-sign-in-with-credential-manager-in-android-2jg8)
+- [Cardano-Java: Unleashing Open Source Innovation in Blockchain](https://dev.to/vitalisorenko/cardano-java-unleashing-open-source-innovation-in-blockchain-21dk)
+- [Leetcode 3. Longest Substring Without Repeating Characters](https://dev.to/rohithv07/leetcode-3-longest-substring-without-repeating-characters-1gj7)
 <!-- BLOG-POST-LIST:END -->
 
 
