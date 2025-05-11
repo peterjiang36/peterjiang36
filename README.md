@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📱Tech News to Your Ears: WhatsApp Voice Notes Powered by Python, AWS &amp; Twilio🧠🎙️](https://dev.to/yugesh_a_003/tech-news-to-your-ears-whatsapp-voice-notes-powered-by-python-aws-twilio-1834)
-- [How to Implement Google Sign-In with Credential Manager in Android?](https://dev.to/generatecodedev/how-to-implement-google-sign-in-with-credential-manager-in-android-2jg8)
-- [Cardano-Java: Unleashing Open Source Innovation in Blockchain](https://dev.to/vitalisorenko/cardano-java-unleashing-open-source-innovation-in-blockchain-21dk)
-- [Leetcode 3. Longest Substring Without Repeating Characters](https://dev.to/rohithv07/leetcode-3-longest-substring-without-repeating-characters-1gj7)
+- [Virtualization | Hypervisor | Containerization](https://dev.to/omkarsharma2821/virtualization-hypervisor-containerization-2den)
+- [PokéSeek – A Pokémon Info Guessing Game!](https://dev.to/raiplus/pokeseek-a-pokemon-info-guessing-game-5gn2)
+- [How to Fix AccessDeniedException While Zipping Flutter Projects](https://dev.to/generatecodedev/how-to-fix-accessdeniedexception-while-zipping-flutter-projects-3ei9)
+- [Track Your Health Easily with Our Free BMI Calculator](https://dev.to/learn_with_santosh/track-your-health-easily-with-our-free-bmi-calculator-4cjm)
 <!-- BLOG-POST-LIST:END -->
 
 
