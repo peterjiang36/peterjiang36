@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Axum and Tonic on the Same Port with Routing](https://dev.to/generatecodedev/how-to-run-axum-and-tonic-on-the-same-port-with-routing-4okk)
-- [Plot Twist: I Didn’t Get the Job &lpar;Yet&rpar;](https://dev.to/rodrigoeloyc/plot-twist-i-didnt-get-the-job-yet-6f1)
-- [🚀 Devlog #1 – Voltando a mexer no meu jogo após 2 anos](https://dev.to/joashneves/devlog-1-voltando-a-mexer-no-meu-jogo-apos-2-anos-5a5f)
-- [🚀 Automating Project Setup with Amazon Q Developer CLI: A Command-Line Revolution](https://dev.to/risshi-codes/automating-project-setup-with-amazon-q-developer-cli-a-command-line-revolution-3m69)
+- [HarmonyOS NEXT Development Case: Random Number Generator](https://dev.to/zhongcx/harmonyos-next-development-case-random-number-generator-2gh2)
+- [HarmonyOS NEXT Development Case: Random Password Generator](https://dev.to/zhongcx/harmonyos-next-development-case-random-password-generator-3hkg)
+- [A Brief Discussion on Multithreading in HarmonyOS](https://dev.to/simple_lau_1997/a-brief-discussion-on-multithreading-in-harmonyos-3dc1)
+- [How to Permanently Delete Rows in Excel Using Java?](https://dev.to/generatecodedev/how-to-permanently-delete-rows-in-excel-using-java-1gb6)
 <!-- BLOG-POST-LIST:END -->
 
 
