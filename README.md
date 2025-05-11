@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Virtual cluster inside a K8S cluster 🔥](https://dev.to/anil_kumar_ff4f6ad3549983/virtual-cluster-inside-a-k8s-cluster-42ao)
-- [Unstoppable Debugging Mastery in React Native](https://dev.to/anubhuti_chopra/unstoppable-debugging-mastery-in-react-native-4lbh)
-- [Top 10 Recruitment Trends of 2025](https://dev.to/mukesh_17/top-10-recruitment-trends-of-2025-44jc)
-- [Refactor Advisor and Analysis Automation Tool- Smart Code Amazon Q CLI Tool](https://dev.to/shreya_922038471961f80311/refactor-advisor-and-analysis-automation-tool-smart-code-amazon-q-cli-tool-1hc0)
+- [How to Implement Validation Logic in C# Using Method References](https://dev.to/generatecodedev/how-to-implement-validation-logic-in-c-using-method-references-3l31)
+- [JsonVerse: A Deep Dive into Design, Decisions, and Phased Delivery for Next-Generation JSON Management](https://dev.to/aashish_nandakumar_0fce4e/jsonverse-a-deep-dive-into-design-decisions-and-phased-delivery-for-next-generation-json-4h6e)
+- [Will AI Replace Traditional SBOM Tools? Exploring the Future of Software Supply Chain Security](https://dev.to/ozee/will-ai-replace-traditional-sbom-tools-exploring-the-future-of-software-supply-chain-security-c07)
+- [Meet Catalyst &amp; Forge: Structured AI-Assisted Development with Claude Code, the Dev Bible &amp; MAIA-WF&quot;](https://dev.to/philippe_sthely_7739a5443/meet-catalyst-forge-structured-ai-assisted-development-with-claude-code-the-dev-bible-maia-wf-3df4)
 <!-- BLOG-POST-LIST:END -->
 
 
