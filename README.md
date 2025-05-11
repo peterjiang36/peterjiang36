@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Zyn 1.0.2 Released — Smarter Builds, Powerful Debugging, Cleaner Workflow](https://dev.to/zyntraxis_c908fa8b32e04cb/zyn-102-released-smarter-builds-powerful-debugging-cleaner-workflow-52e2)
-- [Hello world.](https://dev.to/yashwantsingh/hello-world-3k16)
-- [What is UDP? Understanding the “Unreliable” Transport Protocol](https://dev.to/kumarprateek18/what-is-udp-understanding-the-unreliable-transport-protocol-1o2f)
-- [CS50AI 2024](https://dev.to/alice_kcm/cs50ai-2024-2khg)
+- [Express? Fastify? Hono? It doesn&#39;t matter. You can run Gland any way you want.](https://dev.to/m__mdy__m/express-fastify-hono-it-doesnt-matter-you-can-run-gland-any-way-you-want-ook)
+- [Gland: Beyond Protocol-Agnostic](https://dev.to/m__mdy__m/gland-beyond-protocol-agnostic-1jhc)
+- [Goodbye pod install](https://dev.to/wafa_bergaoui/goodbye-pod-install-336b)
+- [How to Find the Second Highest Student Average Mark in Java?](https://dev.to/generatecodedev/how-to-find-the-second-highest-student-average-mark-in-java-78d)
 <!-- BLOG-POST-LIST:END -->
 
 
