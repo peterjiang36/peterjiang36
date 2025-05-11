@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Pixels Never Ghost: The Rise of AI Companions in 2024](https://dev.to/jajaji/when-pixels-never-ghost-the-rise-of-ai-companions-in-2024-3eh7)
-- [Vibe Game Engine: The Road to AI-Editable Game Dev 🚀](https://dev.to/pashaigood/vibe-game-engine-the-road-to-ai-editable-game-dev-5ag)
-- [When They Ghost, AI Doesn&#39;t: The Future of Digital Companionship](https://dev.to/grant_evans/when-they-ghost-ai-doesnt-the-future-of-digital-companionship-286)
-- [10 Django Packages You Should Be Using in 2025 &lpar;But Probably Aren’t&rpar;](https://dev.to/code_2/10-django-packages-you-should-be-using-in-2025-but-probably-arent-1d4g)
+- [Barrelize: Automate Your JavaScript Imports Like a Pro](https://dev.to/nizami/barrelize-automate-your-javascript-imports-like-a-pro-4oa8)
+- [python talking code: import pyttsx3 engine = pyttsx3.init&lpar;&rpar; engine.setProperty&lpar;&#39;rate&#39;, 150&rpar; engine.setProperty&lpar;&#39;volume&#39;, 5&rpar; text = &quot;Hello, I am your Python assistant. How can I help you today, nice kid?&quot; engine.say&lpar;text&rpar; engine.runAndWait&lpar;&rpar;](https://dev.to/krish_arulmeiyappan_f2ad/python-talking-code-import-pyttsx3-engine-pyttsx3init-enginesetpropertyrate-150-3fhi)
+- [Why is the Output Order Reversed in My Hello World Driver?](https://dev.to/generatecodedev/why-is-the-output-order-reversed-in-my-hello-world-driver-1aoh)
+- [Weekly Dev Log #2: Sound, Effects &amp; Debugging Adventures — Junior Programmer Pathway](https://dev.to/cansucreates/weekly-dev-log-2-sound-effects-debugging-adventures-junior-programmer-pathway-d8f)
 <!-- BLOG-POST-LIST:END -->
 
 
