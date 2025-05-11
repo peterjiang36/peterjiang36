@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an FAQ Page Without JavaScript](https://dev.to/elanatframework/creating-an-faq-page-without-javascript-4dmj)
-- [How to Implement a Nested Search-Select Component in JavaScript](https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0)
-- [🦆 Quack Docs — AI-Powered Code Documentation From Your CLI](https://dev.to/wesleybertipaglia/quack-docs-ai-powered-code-documentation-from-your-cli-47ii)
-- [What is the Difference Between UDF and Vector UDF in Spark 3?](https://dev.to/generatecodedev/what-is-the-difference-between-udf-and-vector-udf-in-spark-3-28lm)
+- [How to Efficiently Randomly Select from Rust BitSet](https://dev.to/generatecodedev/how-to-efficiently-randomly-select-from-rust-bitset-4n9p)
+- [Developing React Native Apps](https://dev.to/carters02/developing-react-native-apps-1onp)
+- [Cross-account VPC sharing using AWS RAM](https://dev.to/aws-builders/cross-account-vpc-sharing-using-aws-ram-3f0d)
+- [Unlock Your Imagination with the Ultimate Fanfic Generator: Create Stories Like Never Before!](https://dev.to/atforeveryoung/unlock-your-imagination-with-the-ultimate-fanfic-generator-create-stories-like-never-before-2ig4)
 <!-- BLOG-POST-LIST:END -->
 
 
