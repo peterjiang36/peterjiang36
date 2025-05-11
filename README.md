@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Efficiently Randomly Select from Rust BitSet](https://dev.to/generatecodedev/how-to-efficiently-randomly-select-from-rust-bitset-4n9p)
-- [Developing React Native Apps](https://dev.to/carters02/developing-react-native-apps-1onp)
-- [Cross-account VPC sharing using AWS RAM](https://dev.to/aws-builders/cross-account-vpc-sharing-using-aws-ram-3f0d)
-- [Unlock Your Imagination with the Ultimate Fanfic Generator: Create Stories Like Never Before!](https://dev.to/atforeveryoung/unlock-your-imagination-with-the-ultimate-fanfic-generator-create-stories-like-never-before-2ig4)
+- [HarmonyOS NEXT Development Case: Light Intensity Meter](https://dev.to/zhongcx/harmonyos-next-development-case-light-intensity-meter-3l7b)
+- [How to Vertically Center Components in Kotlin&#39;s Compose?](https://dev.to/generatecodedev/how-to-vertically-center-components-in-kotlins-compose-239n)
+- [HarmonyOS NEXT Development Case: Ruler Application](https://dev.to/zhongcx/harmonyos-next-development-case-ruler-application-33o1)
+- [Frontend Derinlemesine: Modern Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontend-derinlemesine-modern-yaklasimlar-2l03)
 <!-- BLOG-POST-LIST:END -->
 
 
