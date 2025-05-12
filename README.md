@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Core Architectural Components of Azure](https://dev.to/emzeeviolino_/the-core-architectural-components-of-azure-1p72)
-- [How to Ensure Correct Output Order in C with printf and write?](https://dev.to/generatecodedev/how-to-ensure-correct-output-order-in-c-with-printf-and-write-2l2d)
-- [One System, Many Possibilities - Exploring Monoliths, Events, and LLMs](https://dev.to/savioresende/one-system-many-possibilities-exploring-monoliths-events-and-llms-54ob)
-- [Day 1/200 &lpar;Full Stack&rpar;](https://dev.to/munin-1/day-1200-full-stack-35d0)
+- [Daily Progress: DSA, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/daily-progress-dsa-springboot-golang-1jjn)
+- [How to Handle HTTP Status Codes in Google Apps Script](https://dev.to/generatecodedev/how-to-handle-http-status-codes-in-google-apps-script-3anl)
+- [🦋✨ GratefulMind: Your Daily Dose of Joy &amp; Growth 🌅💫](https://dev.to/divya_singh_99718084404de/gratefulmind-your-daily-dose-of-joy-growth-3882)
+- [What is Polkadot-Java? The Open Source Business Model, Funding, and Community Insights](https://dev.to/rachellovestowrite/what-is-polkadot-java-the-open-source-business-model-funding-and-community-insights-589k)
 <!-- BLOG-POST-LIST:END -->
 
 
