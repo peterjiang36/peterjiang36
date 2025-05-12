@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Isn’t Dead—You’re Just Building the Wrong Startup](https://dev.to/dev-resources/react-isnt-dead-youre-just-building-the-wrong-startup-4lfo)
-- [Launch a Nerdy React Blog Without Writing a Word](https://dev.to/0x8h_site/launch-a-nerdy-react-blog-without-writing-a-word-26h)
-- [What Is Vibe-But-Verify Coding?](https://dev.to/bagelbomb/what-is-vibe-but-verify-coding-cbk)
-- [[Boost]](https://dev.to/rakeshv675/-2mi8)
+- [35 ChatGPT Prompts for High-Quality Translation](https://dev.to/elenahartmann/35-chatgpt-prompts-for-high-quality-translation-85p)
+- [Peewee ORM: The Most Elegant Python ORM Ever](https://dev.to/leapcell/peewee-orm-the-most-elegant-python-orm-ever-2j0b)
+- [How AI/FM works 🛠️](https://dev.to/googleworkspace/how-aifm-works-3l19)
+- [How to Build a Dynamic Course Scheduling Feature in Flutter](https://dev.to/generatecodedev/how-to-build-a-dynamic-course-scheduling-feature-in-flutter-42nh)
 <!-- BLOG-POST-LIST:END -->
 
 
