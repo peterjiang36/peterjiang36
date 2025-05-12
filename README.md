@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT License Explained: A Deep Dive into Open Source Permissiveness and Fair Code Practices](https://dev.to/ahmmrizv9/mit-license-explained-a-deep-dive-into-open-source-permissiveness-and-fair-code-practices-3ni3)
-- [🧵 Git — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/git-explained-like-youre-5-but-smarter-32g5)
-- [Capture url of web page when the site is broken](https://dev.to/leela_bondada_fda85057f33/capture-url-of-web-page-when-the-site-is-broken-c1f)
-- [MVC vs MVP vs MVVM — Who’s the Real MVP?](https://dev.to/lovestaco/mvc-vs-mvp-vs-mvvm-whos-the-real-mvp-1368)
+- [💾 I Just Launched My GitHub Database Online &lpar;7000+ Repositories Curated&rpar;](https://dev.to/abubaker_siddique_513b7e2/i-just-launched-my-github-database-online-7000-repositories-curated-3f7a)
+- [How to Access an Android Emulator&#39;s Local Server from Browser?](https://dev.to/generatecodedev/how-to-access-an-android-emulators-local-server-from-browser-fno)
+- [Modern C++ 23/26: from concepts to coroutines in high-performance services](https://dev.to/ethrynto/modern-c-2326-from-concepts-to-coroutines-in-high-performance-services-5c4p)
+- [Model Invocation: Amazon Bedrock](https://dev.to/karim_khalil_4d9c7a169d84/model-invocation-amazon-bedrock-2nh5)
 <!-- BLOG-POST-LIST:END -->
 
 
