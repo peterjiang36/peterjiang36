@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Indulgence: Why Dark Chocolate is the Ultimate Dessert Upgrade](https://dev.to/isladavid/smart-indulgence-why-dark-chocolate-is-the-ultimate-dessert-upgrade-1ff2)
-- [Student benefits part 1](https://dev.to/imajenasyon/student-benefits-part-1-pd9)
-- [Student benefits part 2](https://dev.to/imajenasyon/student-benefits-part-2-2o39)
-- [How to Store Polymorphic Objects in C++ STL Containers?](https://dev.to/generatecodedev/how-to-store-polymorphic-objects-in-c-stl-containers-34g2)
+- [AI use damages professional reputation, study suggests](https://dev.to/future_ai/ai-use-damages-professional-reputation-study-suggests-g94)
+- [AI is eroding what Reddit says is the site&#39;s greatest competitive advantage](https://dev.to/future_ai/ai-is-eroding-what-reddit-says-is-the-sites-greatest-competitive-advantage-37jg)
+- [How to Use Postgres MCP Server with GitHub Copilot in VS Code](https://dev.to/bobur/how-to-use-postgres-mcp-server-with-github-copilot-in-vs-code-54pj)
+- [Automating Customer Support for Taxi Services: Implementing AI Chatbots](https://dev.to/cabdispatchers/automating-customer-support-for-taxi-services-implementing-ai-chatbots-5657)
 <!-- BLOG-POST-LIST:END -->
 
 
