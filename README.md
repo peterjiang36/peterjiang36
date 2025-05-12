@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [35 ChatGPT Prompts for High-Quality Translation](https://dev.to/elenahartmann/35-chatgpt-prompts-for-high-quality-translation-85p)
-- [Peewee ORM: The Most Elegant Python ORM Ever](https://dev.to/leapcell/peewee-orm-the-most-elegant-python-orm-ever-2j0b)
-- [How AI/FM works 🛠️](https://dev.to/googleworkspace/how-aifm-works-3l19)
-- [How to Build a Dynamic Course Scheduling Feature in Flutter](https://dev.to/generatecodedev/how-to-build-a-dynamic-course-scheduling-feature-in-flutter-42nh)
+- [MIT License Explained: A Deep Dive into Open Source Permissiveness and Fair Code Practices](https://dev.to/ahmmrizv9/mit-license-explained-a-deep-dive-into-open-source-permissiveness-and-fair-code-practices-3ni3)
+- [🧵 Git — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/git-explained-like-youre-5-but-smarter-32g5)
+- [Capture url of web page when the site is broken](https://dev.to/leela_bondada_fda85057f33/capture-url-of-web-page-when-the-site-is-broken-c1f)
+- [MVC vs MVP vs MVVM — Who’s the Real MVP?](https://dev.to/lovestaco/mvc-vs-mvp-vs-mvvm-whos-the-real-mvp-1368)
 <!-- BLOG-POST-LIST:END -->
 
 
