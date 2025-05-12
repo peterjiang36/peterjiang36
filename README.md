@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Being In A Self-Managed Team Made Me Try The Most Expensive Hamburgers I&#39;ve Eaten](https://dev.to/canro91/being-in-a-self-managed-team-made-me-try-the-most-expensive-hamburgers-ive-eaten-42pl)
-- [Secure the Vibe.](https://dev.to/mstanton/secure-the-vibe-4hh0)
-- [Why TypeScript Enums Increase Angular Bundle Size and How to Fix It](https://dev.to/rohtashsethi/why-typescript-enums-increase-angular-bundle-size-and-how-to-fix-it-1908)
-- [Why Expert App Developers Are Your Key to a Winning Mobile App - Agami Technologies](https://dev.to/test_aabid_806c6e211ab2d2/why-expert-app-developers-are-your-key-to-a-winning-mobile-app-agami-technologies-2dgl)
+- [Devbridge, a knowledge bridge](https://dev.to/async_dime/devbridge-a-knowledge-bridge-4479)
+- [Conquer the Realm of Coding in the Code Quest Adventure Game](https://dev.to/hasbimizan/conquer-the-realm-of-coding-in-the-code-quest-adventure-game-57kp)
+- [How to Install Falcon Mamba 7B: Abu Dhabi’s Breakthrough State Space Model](https://dev.to/nodeshiftcloud/how-to-install-falcon-mamba-7b-abu-dhabis-breakthrough-state-space-model-3k9l)
+- [How to Change Text Color in Messenger Bot with Python?](https://dev.to/generatecodedev/how-to-change-text-color-in-messenger-bot-with-python-21eo)
 <!-- BLOG-POST-LIST:END -->
 
 
