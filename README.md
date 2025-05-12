@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Q web terminal](https://dev.to/oscarnevarezleal/q-remote-terminal-4i40)
-- [The 1% of Hacking Nobody Talks About… But Should](https://dev.to/shadow_6468/the-1-of-hacking-nobody-talks-about-but-should-1bi8)
-- [EXPLAIN It! Your Fast Track to Fixing Slow SQL](https://dev.to/chat2db/explain-it-your-fast-track-to-fixing-slow-sql-46j3)
-- [Aggregate according to Time Interval — From SQL to SPL #27](https://dev.to/judith677/aggregate-according-to-time-interval-from-sql-to-spl-27-4e96)
+- [Amazon Q Quack The Code: Pompeii Time Out](https://dev.to/allen_proulx_341c49170609/amazon-q-quack-the-code-pompeii-time-out-3hnh)
+- [NEXA-MOE: A Lean, Powerful AI for Scientific Discovery Under Tight Constraints](https://dev.to/darkstalker/nexa-moe-a-lean-powerful-ai-for-scientific-discovery-under-tight-constraints-4fgb)
+- [Exploring the World of Game Development with Unity](https://dev.to/media_geneous_bb80d6b5563/exploring-the-world-of-game-development-with-unity-4bmd)
+- [Typaton - Arcade Game Typing - Amazon Q Dev Challenge](https://dev.to/vito_doce_18/typaton-arcade-game-typing-amazon-q-dev-challenge-aaj)
 <!-- BLOG-POST-LIST:END -->
 
 
