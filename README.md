@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Brilliance and Blunder](https://dev.to/rawveg/bridging-brilliance-and-blunder-340m)
-- [Coding Challenge Practice - Question 6](https://dev.to/tomivan/coding-challenge-practice-question-6-3anm)
-- [Clean Architecture](https://dev.to/stv4s/clean-architecture-44kl)
-- [How to Send Traces Using Scala and OpenTelemetry](https://dev.to/generatecodedev/how-to-send-traces-using-scala-and-opentelemetry-4ll3)
+- [The Core Architectural Components of Azure](https://dev.to/emzeeviolino_/the-core-architectural-components-of-azure-1p72)
+- [How to Ensure Correct Output Order in C with printf and write?](https://dev.to/generatecodedev/how-to-ensure-correct-output-order-in-c-with-printf-and-write-2l2d)
+- [One System, Many Possibilities - Exploring Monoliths, Events, and LLMs](https://dev.to/savioresende/one-system-many-possibilities-exploring-monoliths-events-and-llms-54ob)
+- [Day 1/200 &lpar;Full Stack&rpar;](https://dev.to/munin-1/day-1200-full-stack-35d0)
 <!-- BLOG-POST-LIST:END -->
 
 
