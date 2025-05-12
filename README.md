@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of AI Companions: From Text to Lifelike Conversation](https://dev.to/rizzoc/the-evolution-of-ai-companions-from-text-to-lifelike-conversation-3bkn)
-- [The Evolution of Chat Technology: Bridging the Digital Divide](https://dev.to/tyler_ash/the-evolution-of-chat-technology-bridging-the-digital-divide-1262)
-- [Common SQL Mistakes and How to Avoid Them](https://dev.to/nicodemus_koech_de2504f3e/common-sql-mistakes-and-how-to-avoid-them-5dh)
-- [Simplify Signing Policies and Procedures in Accounting Firms with BoldSign](https://dev.to/boldsign/simplify-signing-policies-and-procedures-in-accounting-firms-with-boldsign-40nl)
+- [A Quick Guide to Horizontal Scaling for Surging Transactions](https://dev.to/flutterwaveeng/a-quick-guide-to-horizontal-scaling-for-surging-transactions-173l)
+- [Vanilla No More: How Intimate Digital Communication Was Revolutionized By Neural Networks By 2025](https://dev.to/ali_pahlavan/vanilla-no-more-how-intimate-digital-communication-was-revolutionized-by-neural-networks-by-2025-3jad)
+- [How to Embed HTML with JavaScript in Flutter Web?](https://dev.to/generatecodedev/how-to-embed-html-with-javascript-in-flutter-web-1dcd)
+- [Draft drop](https://dev.to/arpit_tiwari_22499eda78de/draft-drop-53gn)
 <!-- BLOG-POST-LIST:END -->
 
 
