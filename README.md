@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [StorageManager API for Managing Offline Data](https://dev.to/omriluz1/storagemanager-api-for-managing-offline-data-oon)
-- [Made easy: Installing dbt and Building Your First Model &#39;Haay!&#39;](https://dev.to/joanwanjiru/made-easy-installing-dbt-and-building-your-first-model-haay-1lja)
-- [🚀 Goodbye SEO, Hello AEO: Navigating the New Era of AI-Driven Search](https://dev.to/shahdeep/goodbye-seo-hello-aeo-navigating-the-new-era-of-ai-driven-search-i9k)
-- [Querying the Past: Temporal Tables in SQL Server and PostgreSQL](https://dev.to/cristiansifuentes/querying-the-past-temporal-tables-in-sql-server-and-postgresql-398c)
+- [Ambient Invisible Intelligent: The seamless Integration of AI](https://dev.to/ifeol/ambient-invisible-intelligent-the-seamless-integration-of-ai-73a)
+- [JavaScript Closure Simplified](https://dev.to/hariclerry/javascript-closure-simplified-f2m)
+- [A Simple Framework for Designing User Interfaces &lpar;for Solo Devs &amp; Small Teams&rpar;](https://dev.to/shayy/a-simple-framework-for-designing-user-interfaces-for-solo-devs-small-teams-36hj)
+- [Hello! 😊](https://dev.to/jolaw/hello-2ogo)
 <!-- BLOG-POST-LIST:END -->
 
 
