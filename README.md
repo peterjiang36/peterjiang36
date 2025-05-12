@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q Quack The Code: Pompeii Time Out](https://dev.to/allen_proulx_341c49170609/amazon-q-quack-the-code-pompeii-time-out-3hnh)
-- [NEXA-MOE: A Lean, Powerful AI for Scientific Discovery Under Tight Constraints](https://dev.to/darkstalker/nexa-moe-a-lean-powerful-ai-for-scientific-discovery-under-tight-constraints-4fgb)
-- [Exploring the World of Game Development with Unity](https://dev.to/media_geneous_bb80d6b5563/exploring-the-world-of-game-development-with-unity-4bmd)
-- [Typaton - Arcade Game Typing - Amazon Q Dev Challenge](https://dev.to/vito_doce_18/typaton-arcade-game-typing-amazon-q-dev-challenge-aaj)
+- [Being In A Self-Managed Team Made Me Try The Most Expensive Hamburgers I&#39;ve Eaten](https://dev.to/canro91/being-in-a-self-managed-team-made-me-try-the-most-expensive-hamburgers-ive-eaten-42pl)
+- [Secure the Vibe.](https://dev.to/mstanton/secure-the-vibe-4hh0)
+- [Why TypeScript Enums Increase Angular Bundle Size and How to Fix It](https://dev.to/rohtashsethi/why-typescript-enums-increase-angular-bundle-size-and-how-to-fix-it-1908)
+- [Why Expert App Developers Are Your Key to a Winning Mobile App - Agami Technologies](https://dev.to/test_aabid_806c6e211ab2d2/why-expert-app-developers-are-your-key-to-a-winning-mobile-app-agami-technologies-2dgl)
 <!-- BLOG-POST-LIST:END -->
 
 
