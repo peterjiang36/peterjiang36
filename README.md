@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI use damages professional reputation, study suggests](https://dev.to/future_ai/ai-use-damages-professional-reputation-study-suggests-g94)
-- [AI is eroding what Reddit says is the site&#39;s greatest competitive advantage](https://dev.to/future_ai/ai-is-eroding-what-reddit-says-is-the-sites-greatest-competitive-advantage-37jg)
-- [How to Use Postgres MCP Server with GitHub Copilot in VS Code](https://dev.to/bobur/how-to-use-postgres-mcp-server-with-github-copilot-in-vs-code-54pj)
-- [Automating Customer Support for Taxi Services: Implementing AI Chatbots](https://dev.to/cabdispatchers/automating-customer-support-for-taxi-services-implementing-ai-chatbots-5657)
+- [Debug Smarter: How grep Helps Engineers Fix Issues Fast and Stand Out](https://dev.to/dtemi/debug-smarter-how-grep-helps-engineers-fix-issues-fast-and-stand-out-2f6i)
+- [Real Use Cases of Blockchain in the Indian Banking Sector](https://dev.to/bridgegroupsolutions/real-use-cases-of-blockchain-in-the-indian-banking-sector-ah4)
+- [The Future of Datacenters: Building Faster and Smarter](https://dev.to/jetthoughts/the-future-of-datacenters-building-faster-and-smarter-4b8k)
+- [Introducing Fusion – A PHP Package Manager](https://dev.to/retlim/introducing-fusion-a-php-package-manager-3cj2)
 <!-- BLOG-POST-LIST:END -->
 
 
