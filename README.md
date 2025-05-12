@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Progress: DSA, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/daily-progress-dsa-springboot-golang-1jjn)
-- [How to Handle HTTP Status Codes in Google Apps Script](https://dev.to/generatecodedev/how-to-handle-http-status-codes-in-google-apps-script-3anl)
-- [🦋✨ GratefulMind: Your Daily Dose of Joy &amp; Growth 🌅💫](https://dev.to/divya_singh_99718084404de/gratefulmind-your-daily-dose-of-joy-growth-3882)
-- [What is Polkadot-Java? The Open Source Business Model, Funding, and Community Insights](https://dev.to/rachellovestowrite/what-is-polkadot-java-the-open-source-business-model-funding-and-community-insights-589k)
+- [Tree vs Trie: Understanding the Differences and Use Cases](https://dev.to/imsushant12/tree-vs-trie-understanding-the-differences-and-use-cases-1430)
+- [Understanding DNS: The Internet&#39;s Phone Book and Why It&#39;s Critical for Web Browsing](https://dev.to/hlnb/understanding-dns-the-internets-phone-book-and-why-its-critical-for-web-browsing-3h95)
+- [How to Generate Video Thumbnails in Dart Using File Picker](https://dev.to/generatecodedev/how-to-generate-video-thumbnails-in-dart-using-file-picker-ke9)
+- [What is Iroha Java Library: Exploring Open Source Business Models, Funding, and Community Dynamics](https://dev.to/laetitiaperraut/what-is-iroha-java-library-exploring-open-source-business-models-funding-and-community-dynamics-131e)
 <!-- BLOG-POST-LIST:END -->
 
 
