@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Installed Omakub Five Times So You Can Do It Just Once](https://dev.to/tacoda/i-installed-omakub-five-times-so-you-can-do-it-just-once-2ek8)
-- [EA says it ‘feels very good’ about Battlefield’s release now that GTA 6 has been delayed | VGC](https://dev.to/gg_news/ea-says-it-feels-very-good-about-battlefields-release-now-that-gta-6-has-been-delayed-vgc-imf)
-- [Secure Your AI Project With Model Attestation and Software Bill of Materials](https://dev.to/engroso/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-4lha)
-- [Nordcraft completely revamps the design experience](https://dev.to/andreas_mller_ecc8e88f6f/nordcraft-completely-revamps-the-design-experience-48em)
+- [How to format dates in JavaScript: Methods, libraries, and best practices](https://dev.to/logrocket/how-to-format-dates-in-javascript-methods-libraries-and-best-practices-4h56)
+- [Convertir elementos usando map en Java](https://dev.to/asjordi/convertir-elementos-usando-map-en-java-f28)
+- [What is Machine Learning? A Beginner’s Journey Through the World of Smart Algorithms](https://dev.to/codestory__/what-is-machine-learning-a-beginners-journey-through-the-world-of-smart-algorithms-18kb)
+- [What are your goals for the week? #126](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-126-2d7i)
 <!-- BLOG-POST-LIST:END -->
 
 
