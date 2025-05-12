@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 30 DSA Patterns You Need to Master Before Your Next Interview in 2025 🔥](https://dev.to/finalroundai/30-dsa-patterns-you-need-to-master-before-your-next-interview-in-2025-1gcp)
-- [🧠 3 Tips to Become an AI Engineer](https://dev.to/kellaeric/3-tips-to-become-an-ai-engineer-1jcb)
-- [How to Efficiently Update Kotlin Data Class Properties in Android?](https://dev.to/generatecodedev/how-to-efficiently-update-kotlin-data-class-properties-in-android-3e1e)
-- [Prevent memory leaks in .NET event handling! My article explores how weak references &amp; pub-sub provide a smart solution for robust, efficient apps. Learn about this pattern!](https://dev.to/gigaherz/prevent-memory-leaks-in-net-event-handling-my-article-explores-how-weak-references-pub-sub-1e7g)
+- [Arranca QA IA Weekly: lo que vas a encontrar aquí](https://dev.to/abarragancosto/arranca-qa-ia-weekly-lo-que-vas-a-encontrar-aqui-1ahh)
+- [Brighter and RabbitMQ: How to setup and use Brighter with RabbitMQ](https://dev.to/actor-dev/brighter-and-rabbitmq-how-to-setup-and-use-brighter-with-rabbitmq-dcn)
+- [A Developer’s Guide to Browser Storage: Local Storage, Session Storage, and Cookies](https://dev.to/aneeqakhan/a-developers-guide-to-browser-storage-local-storage-session-storage-and-cookies-4c5f)
+- [Brighter + RabbitMQ: Como configurar Brighter com RabbitMQ](https://dev.to/actor-dev/brighter-rabbitmq-como-configurar-brighter-com-rabbitmq-1lj5)
 <!-- BLOG-POST-LIST:END -->
 
 
