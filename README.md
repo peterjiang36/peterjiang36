@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tree vs Trie: Understanding the Differences and Use Cases](https://dev.to/imsushant12/tree-vs-trie-understanding-the-differences-and-use-cases-1430)
-- [Understanding DNS: The Internet&#39;s Phone Book and Why It&#39;s Critical for Web Browsing](https://dev.to/hlnb/understanding-dns-the-internets-phone-book-and-why-its-critical-for-web-browsing-3h95)
-- [How to Generate Video Thumbnails in Dart Using File Picker](https://dev.to/generatecodedev/how-to-generate-video-thumbnails-in-dart-using-file-picker-ke9)
-- [What is Iroha Java Library: Exploring Open Source Business Models, Funding, and Community Dynamics](https://dev.to/laetitiaperraut/what-is-iroha-java-library-exploring-open-source-business-models-funding-and-community-dynamics-131e)
+- [Q web terminal](https://dev.to/oscarnevarezleal/q-remote-terminal-4i40)
+- [The 1% of Hacking Nobody Talks About… But Should](https://dev.to/shadow_6468/the-1-of-hacking-nobody-talks-about-but-should-1bi8)
+- [EXPLAIN It! Your Fast Track to Fixing Slow SQL](https://dev.to/chat2db/explain-it-your-fast-track-to-fixing-slow-sql-46j3)
+- [Aggregate according to Time Interval — From SQL to SPL #27](https://dev.to/judith677/aggregate-according-to-time-interval-from-sql-to-spl-27-4e96)
 <!-- BLOG-POST-LIST:END -->
 
 
