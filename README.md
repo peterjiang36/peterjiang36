@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick Guide to Horizontal Scaling for Surging Transactions](https://dev.to/flutterwaveeng/a-quick-guide-to-horizontal-scaling-for-surging-transactions-173l)
-- [Vanilla No More: How Intimate Digital Communication Was Revolutionized By Neural Networks By 2025](https://dev.to/ali_pahlavan/vanilla-no-more-how-intimate-digital-communication-was-revolutionized-by-neural-networks-by-2025-3jad)
-- [How to Embed HTML with JavaScript in Flutter Web?](https://dev.to/generatecodedev/how-to-embed-html-with-javascript-in-flutter-web-1dcd)
-- [Draft drop](https://dev.to/arpit_tiwari_22499eda78de/draft-drop-53gn)
+- [Smart Indulgence: Why Dark Chocolate is the Ultimate Dessert Upgrade](https://dev.to/isladavid/smart-indulgence-why-dark-chocolate-is-the-ultimate-dessert-upgrade-1ff2)
+- [Student benefits part 1](https://dev.to/imajenasyon/student-benefits-part-1-pd9)
+- [Student benefits part 2](https://dev.to/imajenasyon/student-benefits-part-2-2o39)
+- [How to Store Polymorphic Objects in C++ STL Containers?](https://dev.to/generatecodedev/how-to-store-polymorphic-objects-in-c-stl-containers-34g2)
 <!-- BLOG-POST-LIST:END -->
 
 
