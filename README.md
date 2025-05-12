@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug Smarter: How grep Helps Engineers Fix Issues Fast and Stand Out](https://dev.to/dtemi/debug-smarter-how-grep-helps-engineers-fix-issues-fast-and-stand-out-2f6i)
-- [Real Use Cases of Blockchain in the Indian Banking Sector](https://dev.to/bridgegroupsolutions/real-use-cases-of-blockchain-in-the-indian-banking-sector-ah4)
-- [The Future of Datacenters: Building Faster and Smarter](https://dev.to/jetthoughts/the-future-of-datacenters-building-faster-and-smarter-4b8k)
-- [Introducing Fusion – A PHP Package Manager](https://dev.to/retlim/introducing-fusion-a-php-package-manager-3cj2)
+- [I Installed Omakub Five Times So You Can Do It Just Once](https://dev.to/tacoda/i-installed-omakub-five-times-so-you-can-do-it-just-once-2ek8)
+- [EA says it ‘feels very good’ about Battlefield’s release now that GTA 6 has been delayed | VGC](https://dev.to/gg_news/ea-says-it-feels-very-good-about-battlefields-release-now-that-gta-6-has-been-delayed-vgc-imf)
+- [Secure Your AI Project With Model Attestation and Software Bill of Materials](https://dev.to/engroso/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-4lha)
+- [Nordcraft completely revamps the design experience](https://dev.to/andreas_mller_ecc8e88f6f/nordcraft-completely-revamps-the-design-experience-48em)
 <!-- BLOG-POST-LIST:END -->
 
 
