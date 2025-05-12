@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Devbridge, a knowledge bridge](https://dev.to/async_dime/devbridge-a-knowledge-bridge-4479)
-- [Conquer the Realm of Coding in the Code Quest Adventure Game](https://dev.to/hasbimizan/conquer-the-realm-of-coding-in-the-code-quest-adventure-game-57kp)
-- [How to Install Falcon Mamba 7B: Abu Dhabi’s Breakthrough State Space Model](https://dev.to/nodeshiftcloud/how-to-install-falcon-mamba-7b-abu-dhabis-breakthrough-state-space-model-3k9l)
-- [How to Change Text Color in Messenger Bot with Python?](https://dev.to/generatecodedev/how-to-change-text-color-in-messenger-bot-with-python-21eo)
+- [🚀 30 DSA Patterns You Need to Master Before Your Next Interview in 2025 🔥](https://dev.to/finalroundai/30-dsa-patterns-you-need-to-master-before-your-next-interview-in-2025-1gcp)
+- [🧠 3 Tips to Become an AI Engineer](https://dev.to/kellaeric/3-tips-to-become-an-ai-engineer-1jcb)
+- [How to Efficiently Update Kotlin Data Class Properties in Android?](https://dev.to/generatecodedev/how-to-efficiently-update-kotlin-data-class-properties-in-android-3e1e)
+- [Prevent memory leaks in .NET event handling! My article explores how weak references &amp; pub-sub provide a smart solution for robust, efficient apps. Learn about this pattern!](https://dev.to/gigaherz/prevent-memory-leaks-in-net-event-handling-my-article-explores-how-weak-references-pub-sub-1e7g)
 <!-- BLOG-POST-LIST:END -->
 
 
