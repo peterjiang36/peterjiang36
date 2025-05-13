@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing a Cloud Provider? Here’s Why It’s More Than Just a Price Tag](https://dev.to/shlok-talepa/choosing-a-cloud-provider-heres-why-its-more-than-just-a-price-tag-edb)
-- [Live Streaming 1080p VP9 via Icecast – No CDN, Just WebM!](https://dev.to/dos_gr/live-streaming-1080p-vp9-via-icecast-no-cdn-just-webm-1g9d)
-- [Microsoft is laying off more than 6,000 employees](https://dev.to/gg_news/microsoft-is-laying-off-more-than-6000-employees-5cn7)
-- [Bandai Namco sees 995% annual growth in video games profit, bouncing back from MMO losses and cancelled projects](https://dev.to/gg_news/bandai-namco-sees-995-annual-growth-in-video-games-profit-bouncing-back-from-mmo-losses-and-2025)
+- [From Stock Pitch Competitions to Wall Street Jobs](https://dev.to/marketdaily/from-stock-pitch-competitions-to-wall-street-jobs-1k2p)
+- [Create JavaScript Dynamic List &lpar;Step-by-Step Guide&rpar;](https://dev.to/patricia1988hernandez2/create-javascript-dynamic-list-step-by-step-guide-3465)
+- [Recursion in Python](https://dev.to/bterwijn/recursion-in-python-4hka)
+- [MCP and A2A: Two bright modular futures for AI](https://dev.to/leading-edje/mcp-and-a2a-two-bright-modular-futures-for-ai-16f)
 <!-- BLOG-POST-LIST:END -->
 
 
