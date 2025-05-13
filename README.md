@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Stock Pitch Competitions to Wall Street Jobs](https://dev.to/marketdaily/from-stock-pitch-competitions-to-wall-street-jobs-1k2p)
-- [Create JavaScript Dynamic List &lpar;Step-by-Step Guide&rpar;](https://dev.to/patricia1988hernandez2/create-javascript-dynamic-list-step-by-step-guide-3465)
-- [Recursion in Python](https://dev.to/bterwijn/recursion-in-python-4hka)
-- [MCP and A2A: Two bright modular futures for AI](https://dev.to/leading-edje/mcp-and-a2a-two-bright-modular-futures-for-ai-16f)
+- [From Phone Lines to Ethernet: An Introduction to Copper Cabling](https://dev.to/andrew_despres/from-phone-lines-to-ethernet-an-introduction-to-copper-cabling-3jp2)
+- [Guia de Estudo Go 2](https://dev.to/eduardorosa/guia-de-estudo-go-2-22h7)
+- [Talk to Your Kubernetes Cluster Using AI](https://dev.to/rajeev_3ce9f280cbae73b234/talk-to-your-kubernetes-cluster-using-ai-2al5)
+- [How to Switch Windows in Rust Scripts Using Tauri](https://dev.to/generatecodedev/how-to-switch-windows-in-rust-scripts-using-tauri-41l5)
 <!-- BLOG-POST-LIST:END -->
 
 
