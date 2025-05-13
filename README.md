@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Under the Hood: How Tesla Powers its Android App with React Native](https://dev.to/whatstack/under-the-hood-how-tesla-powers-its-android-app-with-react-native-eb4)
-- [🚀 Day 1 of My 30-Day Core Java Challenge – Learning with Udemy!](https://dev.to/sujaykumar_84604ac0165b3a/day-1-of-my-30-day-core-java-challenge-learning-with-udemy-580)
-- [Uniapp Development Tutorial for HarmonyOS Applications - Optional api and Composite api](https://dev.to/youlanjihua/uniappkai-fa-hong-meng-ying-yong-jiao-cheng-zhi-xuan-xiang-shi-apihe-zu-he-shi-api-b7j)
-- [🌐 From Zero to Web Hero: Mastering HTML, CSS &amp; JavaScript in Style 💻✨](https://dev.to/rashmi_kaveesha/from-zero-to-web-hero-mastering-html-css-javascript-in-style-2n7j)
+- [MongoDB Views or Materialized Views: When to Use?](https://dev.to/mayallo/mongodb-views-or-materialized-views-when-to-use-46d8)
+- [Unlocking Space-Efficient Magic: A Deep Dive into Bloom Filters](https://dev.to/dhanush___b/unlocking-space-efficient-magic-a-deep-dive-into-bloom-filters-1b62)
+- [Why You Should Use function_exists in Your PHP Helpers](https://dev.to/yasserelgammal/why-you-should-use-functionexists-in-your-php-helpers-3m4h)
+- [How to Pass AWS Certifications](https://dev.to/kuljotbiring/how-to-pass-aws-certifications-64c)
 <!-- BLOG-POST-LIST:END -->
 
 
