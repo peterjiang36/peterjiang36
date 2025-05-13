@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Retrieve Required Properties from a TypeScript Interface](https://dev.to/generatecodedev/how-to-retrieve-required-properties-from-a-typescript-interface-3j66)
-- [Lombok Field Iteration: Safer Object Copying in Java](https://dev.to/naomimyselfandi/lombok-field-iteration-safer-object-copying-in-java-2mp1)
-- [🔐 OAuth 2.0: The Modern Gatekeeper of Secure Authorization](https://dev.to/mohammad1105/oauth-20-the-modern-gatekeeper-of-secure-authorization-55ak)
-- [Idempotência: O Segredo para sistemas Confiaveis](https://dev.to/ikauedev/idempotencia-o-segredo-para-sistemas-confiaveis-3561)
+- [How Can Iterative Closest Point &lpar;ICP&rpar; Handle Occlusions?](https://dev.to/generatecodedev/how-can-iterative-closest-point-icp-handle-occlusions-1kck)
+- [How to Use Excel YEAR Function?](https://dev.to/excel24x7/how-to-use-excel-year-function-2no8)
+- [Unveiling CDDL 1.1: A Deep Dive into Open Source Licensing, Developer Compensation, and Fair Code Practices](https://dev.to/jennythomas498/unveiling-cddl-11-a-deep-dive-into-open-source-licensing-developer-compensation-and-fair-code-1hmi)
+- [How to Fix &#39;No Anonymous Block Parameter&#39; in Hanami Ruby](https://dev.to/generatecodedev/how-to-fix-no-anonymous-block-parameter-in-hanami-ruby-5fn6)
 <!-- BLOG-POST-LIST:END -->
 
 
