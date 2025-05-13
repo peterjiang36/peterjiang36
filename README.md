@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Code in Dark Mode?](https://dev.to/anitaolsen/why-code-in-dark-mode-2hee)
-- [Day 20/ 30 Days of Linux Mastery: Recover/Rescue Root Password in RHEL9](https://dev.to/amandaigwe/day-20-30-days-of-linux-mastery-recoverrescue-root-password-in-rhel9-111b)
-- [From Code to Competition: The Technical Evolution of Crypto Trading Tournaments](https://dev.to/alexnav/from-code-to-competition-the-technical-evolution-of-crypto-trading-tournaments-2dco)
-- [Sending Personalized Telegram Messages in Bulk](https://dev.to/sqlman/sending-personalized-telegram-messages-in-bulk-2pa)
+- [Quantum Safe Networking Masterclass- Chicago](https://dev.to/future_quantum/quantum-safe-networking-masterclass-chicago-59p5)
+- [US Copyright Office found AI companies sometimes breach copyright. Next day its boss was fired](https://dev.to/future_ai/us-copyright-office-found-ai-companies-sometimes-breach-copyright-next-day-its-boss-was-fired-14la)
+- [Build a Security Monitoring System](https://dev.to/misolainthecloud/build-a-security-monitoring-system-4596)
+- [Peersuite, a decentralized workspace](https://dev.to/jerry_playsgamestoytim/peersuite-a-decentralized-workspace-4ncj)
 <!-- BLOG-POST-LIST:END -->
 
 
