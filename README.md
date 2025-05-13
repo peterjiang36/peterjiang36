@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[WIP][Godot 4 &amp; Py] BrainsIAAndPixels – 3D PixelArt Game with AI-Controlled NPCs](https://dev.to/the_giordi/wipgodot-4-py-brainsiaandpixels-3d-pixelart-game-with-ai-controlled-npcs-3oee)
-- [Which is the best Agile certification for Project Managers?](https://dev.to/arianaa/which-is-the-best-agile-certification-for-project-managers-2fpp)
-- [How to Test and Debug Servers with Postman MCP Client, A Step by Step guide.](https://dev.to/ralphsebastian/how-to-test-and-debug-servers-with-postman-mcp-client-a-step-by-step-guide-275g)
-- [Automating Random Backdated Git Commits with Node.js](https://dev.to/mahmud-r-farhan/automating-random-backdated-git-commits-with-nodejs-48ob)
+- [Should you join a community to learn Rust?](https://dev.to/francescoxx/should-you-join-a-community-to-learn-rust-j16)
+- [Real-Time Attack Monitoring with SafeLine: Setting Up Syslog Integration](https://dev.to/sharon_42e16b8da44dabde6d/real-time-attack-monitoring-with-safeline-setting-up-syslog-integration-21bc)
+- [Frontiers in Computer Vision: Interpretability, Efficiency, Robustness, and Unified Learning in the Era of Deep AI Advan](https://dev.to/khanali21/frontiers-in-computer-vision-interpretability-efficiency-robustness-and-unified-learning-in-the-3da3)
+- [🚀 Set Up Redis with RedisInsight Using Docker for Local Development](https://dev.to/rafi021/set-up-redis-with-redisinsight-using-docker-for-local-development-3gci)
 <!-- BLOG-POST-LIST:END -->
 
 
