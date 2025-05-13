@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [They say my job won&#39;t survive...](https://dev.to/alvaromontoro/they-say-my-job-wont-survive-12lc)
-- [[Boost]](https://dev.to/chamsedinebouhouch/-294)
-- [Why is My Dart Broadcast Stream Controller Not Working?](https://dev.to/generatecodedev/why-is-my-dart-broadcast-stream-controller-not-working-p0o)
-- [How to Handle Firefox&#39;s DOM State Reload Issue for Your Website?](https://dev.to/generatecodedev/how-to-handle-firefoxs-dom-state-reload-issue-for-your-website-48d)
+- [How to Retrieve Required Properties from a TypeScript Interface](https://dev.to/generatecodedev/how-to-retrieve-required-properties-from-a-typescript-interface-3j66)
+- [Lombok Field Iteration: Safer Object Copying in Java](https://dev.to/naomimyselfandi/lombok-field-iteration-safer-object-copying-in-java-2mp1)
+- [🔐 OAuth 2.0: The Modern Gatekeeper of Secure Authorization](https://dev.to/mohammad1105/oauth-20-the-modern-gatekeeper-of-secure-authorization-55ak)
+- [Idempotência: O Segredo para sistemas Confiaveis](https://dev.to/ikauedev/idempotencia-o-segredo-para-sistemas-confiaveis-3561)
 <!-- BLOG-POST-LIST:END -->
 
 
