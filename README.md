@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you join a community to learn Rust?](https://dev.to/francescoxx/should-you-join-a-community-to-learn-rust-j16)
-- [Real-Time Attack Monitoring with SafeLine: Setting Up Syslog Integration](https://dev.to/sharon_42e16b8da44dabde6d/real-time-attack-monitoring-with-safeline-setting-up-syslog-integration-21bc)
-- [Frontiers in Computer Vision: Interpretability, Efficiency, Robustness, and Unified Learning in the Era of Deep AI Advan](https://dev.to/khanali21/frontiers-in-computer-vision-interpretability-efficiency-robustness-and-unified-learning-in-the-3da3)
-- [🚀 Set Up Redis with RedisInsight Using Docker for Local Development](https://dev.to/rafi021/set-up-redis-with-redisinsight-using-docker-for-local-development-3gci)
+- [Issue Tracker Using Jira and Smartsheet](https://dev.to/nitish36/issue-tracker-using-jira-and-smartsheet-2nk9)
+- [🎯 I Just Launched CoLaunchly — A Marketing Co-Pilot for Indie Devs](https://dev.to/alexcloudstar/i-just-launched-colaunchly-a-marketing-co-pilot-for-indie-devs-2hb8)
+- [Why Won&#39;t My Hamburger Menu Toggle Close on Click?](https://dev.to/generatecodedev/why-wont-my-hamburger-menu-toggle-close-on-click-10b2)
+- [Advancements in Artificial Intelligence: A Synthesis of Recent Research in Probabilistic Modeling, Multi-Agent Systems,](https://dev.to/khanali21/advancements-in-artificial-intelligence-a-synthesis-of-recent-research-in-probabilistic-modeling-5bib)
 <!-- BLOG-POST-LIST:END -->
 
 
