@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: Making Your Data AI-Ready](https://dev.to/marcus_w/from-chaos-to-clarity-making-your-data-ai-ready-16an)
-- [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://dev.to/sweet_mouth/diffusionedge-diffusion-probabilistic-model-for-crisp-edge-detection-2jo9)
-- [Linux](https://dev.to/mr_mfrzo/linux-4n8i)
-- [How to Handle Tab Key Press in Fyne Table EditingEntry](https://dev.to/generatecodedev/how-to-handle-tab-key-press-in-fyne-table-editingentry-47el)
+- [They say my job won&#39;t survive...](https://dev.to/alvaromontoro/they-say-my-job-wont-survive-12lc)
+- [[Boost]](https://dev.to/chamsedinebouhouch/-294)
+- [Why is My Dart Broadcast Stream Controller Not Working?](https://dev.to/generatecodedev/why-is-my-dart-broadcast-stream-controller-not-working-p0o)
+- [How to Handle Firefox&#39;s DOM State Reload Issue for Your Website?](https://dev.to/generatecodedev/how-to-handle-firefoxs-dom-state-reload-issue-for-your-website-48d)
 <!-- BLOG-POST-LIST:END -->
 
 
