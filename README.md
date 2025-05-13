@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Forums to Prime-Time: The Institutional Rise of Crypto Trading Tournaments](https://dev.to/philip_crypto92/from-forums-to-prime-time-the-institutional-rise-of-crypto-trading-tournaments-4j2g)
-- [How to Compile Standard C Files Including Header Files?](https://dev.to/generatecodedev/how-to-compile-standard-c-files-including-header-files-4345)
-- [Top 10 Platform Engineering Consulting Companies in 2025](https://dev.to/samlongbottom/top-10-platform-engineering-consulting-companies-in-2025-3llb)
-- [Can BI Tools Really Help in Smarter Software Development?](https://dev.to/data_fortune_64fa15d5eff3/can-bi-tools-really-help-in-smarter-software-development-30cb)
+- [10 Must-Read Books for Tech Entrepreneurs](https://dev.to/remotebranch/10-must-read-books-for-tech-entrepreneurs-3c1p)
+- [Data De-Identification vs. Masking: What is the Difference and When to Use Each](https://dev.to/ezm/data-de-identification-vs-masking-what-is-the-difference-and-when-to-use-each-535m)
+- [A Beginner’s Guide to Tool Calling in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-tool-calling-in-langchain-l3a)
+- [🚀 Refraim.ts &lpar;WIP&rpar;: Structure &amp; Speed for the Next.js Era](https://dev.to/structax/refraimts-wip-structure-speed-for-the-nextjs-era-3d5a)
 <!-- BLOG-POST-LIST:END -->
 
 
