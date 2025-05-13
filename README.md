@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can Iterative Closest Point &lpar;ICP&rpar; Handle Occlusions?](https://dev.to/generatecodedev/how-can-iterative-closest-point-icp-handle-occlusions-1kck)
-- [How to Use Excel YEAR Function?](https://dev.to/excel24x7/how-to-use-excel-year-function-2no8)
-- [Unveiling CDDL 1.1: A Deep Dive into Open Source Licensing, Developer Compensation, and Fair Code Practices](https://dev.to/jennythomas498/unveiling-cddl-11-a-deep-dive-into-open-source-licensing-developer-compensation-and-fair-code-1hmi)
-- [How to Fix &#39;No Anonymous Block Parameter&#39; in Hanami Ruby](https://dev.to/generatecodedev/how-to-fix-no-anonymous-block-parameter-in-hanami-ruby-5fn6)
+- [Building an A2A Currency Agent with LangGraph](https://dev.to/czmilo/building-an-a2a-currency-agent-with-langgraph-5c24)
+- [Implementing Sign in with Apple in Laravel REST API](https://dev.to/mamondev193/implementing-sign-in-with-apple-in-laravel-rest-api-m5o)
+- [Here&#39;s Why You Should Still Care About Creating Wireframes](https://dev.to/d2d_weizhi/heres-why-you-should-still-care-about-creating-wireframes-2ga0)
+- [Getting Started with Rust: A Modern Systems Programming Language](https://dev.to/media_geneous_bb80d6b5563/getting-started-with-rust-a-modern-systems-programming-language-28ko)
 <!-- BLOG-POST-LIST:END -->
 
 
