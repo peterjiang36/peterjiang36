@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-User Secure File Sharing System with ACLs on Red Hat Linux](https://dev.to/shamain_anjum/multi-user-secure-file-sharing-system-with-acls-on-red-hat-linux-1n9g)
-- [Tableu Calculated Fields](https://dev.to/robinadoro/tableu-calculated-fields-4e6n)
-- [Vercel AI SDK v5 Internals - Part 4 — Decoupling Client &amp; Server: State Management and Message Conversion](https://dev.to/yigit-konur/vercel-ai-sdk-v5-internals-part-4-decoupling-client-server-state-management-and-message-1lb1)
-- [What Are the Differences Between USE_CONCAT and OR_EXPAND in SQL?](https://dev.to/generatecodedev/what-are-the-differences-between-useconcat-and-orexpand-in-sql-1mia)
+- [Choosing a Cloud Provider? Here’s Why It’s More Than Just a Price Tag](https://dev.to/shlok-talepa/choosing-a-cloud-provider-heres-why-its-more-than-just-a-price-tag-edb)
+- [Live Streaming 1080p VP9 via Icecast – No CDN, Just WebM!](https://dev.to/dos_gr/live-streaming-1080p-vp9-via-icecast-no-cdn-just-webm-1g9d)
+- [Microsoft is laying off more than 6,000 employees](https://dev.to/gg_news/microsoft-is-laying-off-more-than-6000-employees-5cn7)
+- [Bandai Namco sees 995% annual growth in video games profit, bouncing back from MMO losses and cancelled projects](https://dev.to/gg_news/bandai-namco-sees-995-annual-growth-in-video-games-profit-bouncing-back-from-mmo-losses-and-2025)
 <!-- BLOG-POST-LIST:END -->
 
 
