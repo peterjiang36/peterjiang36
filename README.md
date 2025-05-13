@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Rails Rendering Techniques: Choosing Between Turbo Drive, Frames, Streams and Morph](https://dev.to/harsh_u115/modern-rails-rendering-techniques-choosing-between-turbo-drive-frames-streams-and-morph-3lek)
-- [[Boost]](https://dev.to/mkahil/-4gm4)
-- [How to Make Your Perl Script Executable in CGI-Bin?](https://dev.to/generatecodedev/how-to-make-your-perl-script-executable-in-cgi-bin-1le1)
-- [[Boost]](https://dev.to/wisser/-ldd)
+- [From Forums to Prime-Time: The Institutional Rise of Crypto Trading Tournaments](https://dev.to/philip_crypto92/from-forums-to-prime-time-the-institutional-rise-of-crypto-trading-tournaments-4j2g)
+- [How to Compile Standard C Files Including Header Files?](https://dev.to/generatecodedev/how-to-compile-standard-c-files-including-header-files-4345)
+- [Top 10 Platform Engineering Consulting Companies in 2025](https://dev.to/samlongbottom/top-10-platform-engineering-consulting-companies-in-2025-3llb)
+- [Can BI Tools Really Help in Smarter Software Development?](https://dev.to/data_fortune_64fa15d5eff3/can-bi-tools-really-help-in-smarter-software-development-30cb)
 <!-- BLOG-POST-LIST:END -->
 
 
