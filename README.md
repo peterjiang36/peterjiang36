@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the @Scope Annotation in Spring: How Bean Scopes Work](https://dev.to/tiuwill/understanding-the-scope-annotation-in-spring-how-bean-scopes-work-dpn)
-- [How to make your clients more context-aware with OpenMemory MCP](https://dev.to/anmolbaranwal/how-to-make-your-clients-more-context-aware-with-openmemory-mcp-4h71)
-- [Run Oracle Database 19c &lpar;19.19&rpar; on Raspberry Pi 5](https://dev.to/vrobu/run-oracle-database-19c-1919-on-raspberry-pi-5-2768)
-- [Great value](https://dev.to/mazzaracm/great-36i6)
+- [Build a Real-Time Analytics API for Real Estate Market Trends with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-real-estate-market-trends-with-tinybird-4b6p)
+- [Build a Real-time Messaging Analytics API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-messaging-analytics-api-with-tinybird-1dfp)
+- [Build a Real-Time Analytics API for Food Delivery Services with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-food-delivery-services-with-tinybird-3016)
+- [Build a Real-Time Event Attendance Analytics API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-event-attendance-analytics-api-with-tinybird-2ck1)
 <!-- BLOG-POST-LIST:END -->
 
 
