@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Read Books for Tech Entrepreneurs](https://dev.to/remotebranch/10-must-read-books-for-tech-entrepreneurs-3c1p)
-- [Data De-Identification vs. Masking: What is the Difference and When to Use Each](https://dev.to/ezm/data-de-identification-vs-masking-what-is-the-difference-and-when-to-use-each-535m)
-- [A Beginner’s Guide to Tool Calling in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-tool-calling-in-langchain-l3a)
-- [🚀 Refraim.ts &lpar;WIP&rpar;: Structure &amp; Speed for the Next.js Era](https://dev.to/structax/refraimts-wip-structure-speed-for-the-nextjs-era-3d5a)
+- [Why Code in Dark Mode?](https://dev.to/anitaolsen/why-code-in-dark-mode-2hee)
+- [Day 20/ 30 Days of Linux Mastery: Recover/Rescue Root Password in RHEL9](https://dev.to/amandaigwe/day-20-30-days-of-linux-mastery-recoverrescue-root-password-in-rhel9-111b)
+- [From Code to Competition: The Technical Evolution of Crypto Trading Tournaments](https://dev.to/alexnav/from-code-to-competition-the-technical-evolution-of-crypto-trading-tournaments-2dco)
+- [Sending Personalized Telegram Messages in Bulk](https://dev.to/sqlman/sending-personalized-telegram-messages-in-bulk-2pa)
 <!-- BLOG-POST-LIST:END -->
 
 
