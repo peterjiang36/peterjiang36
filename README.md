@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Safe Networking Masterclass- Chicago](https://dev.to/future_quantum/quantum-safe-networking-masterclass-chicago-59p5)
-- [US Copyright Office found AI companies sometimes breach copyright. Next day its boss was fired](https://dev.to/future_ai/us-copyright-office-found-ai-companies-sometimes-breach-copyright-next-day-its-boss-was-fired-14la)
-- [Build a Security Monitoring System](https://dev.to/misolainthecloud/build-a-security-monitoring-system-4596)
-- [Peersuite, a decentralized workspace](https://dev.to/jerry_playsgamestoytim/peersuite-a-decentralized-workspace-4ncj)
+- [Understanding the @Scope Annotation in Spring: How Bean Scopes Work](https://dev.to/tiuwill/understanding-the-scope-annotation-in-spring-how-bean-scopes-work-dpn)
+- [How to make your clients more context-aware with OpenMemory MCP](https://dev.to/anmolbaranwal/how-to-make-your-clients-more-context-aware-with-openmemory-mcp-4h71)
+- [Run Oracle Database 19c &lpar;19.19&rpar; on Raspberry Pi 5](https://dev.to/vrobu/run-oracle-database-19c-1919-on-raspberry-pi-5-2768)
+- [Great value](https://dev.to/mazzaracm/great-36i6)
 <!-- BLOG-POST-LIST:END -->
 
 
