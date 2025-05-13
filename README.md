@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time Analytics API for Real Estate Market Trends with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-real-estate-market-trends-with-tinybird-4b6p)
-- [Build a Real-time Messaging Analytics API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-messaging-analytics-api-with-tinybird-1dfp)
-- [Build a Real-Time Analytics API for Food Delivery Services with Tinybird](https://dev.to/tinybirdco/build-a-real-time-analytics-api-for-food-delivery-services-with-tinybird-3016)
-- [Build a Real-Time Event Attendance Analytics API with Tinybird](https://dev.to/tinybirdco/build-a-real-time-event-attendance-analytics-api-with-tinybird-2ck1)
+- [Exporting and Summarizing PDF Annotations](https://dev.to/revisepdf/exporting-and-summarizing-pdf-annotations-33d1)
+- [Code is Liability](https://dev.to/vst/code-is-liability-1l4o)
+- [Your Engineering Velocity Is the Only Metric That Matters](https://dev.to/shayy/your-engineering-velocity-is-the-only-metric-that-matters-ocg)
+- [Breaking Barriers: Why Women&#39;s Representation in Tech Matters](https://dev.to/urielalonso/breaking-barriers-why-womens-representation-in-tech-matters-1d0j)
 <!-- BLOG-POST-LIST:END -->
 
 
