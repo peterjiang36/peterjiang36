@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The LIMIT offset, count Trap: Why Large Offsets Slow Down MySQL?](https://dev.to/chat2db/the-limit-offset-count-trap-why-large-offsets-slow-down-mysql-kg1)
-- [Enhancing Software Quality with SmartBear Automated Testing](https://dev.to/testree/enhancing-software-quality-with-smartbear-automated-testing-48f)
-- [How to Send Emails on User Sign-Up with Node.js, Express.js &amp; cPanel](https://dev.to/swapnil_ahmmedshishir_2d/how-to-send-emails-on-user-sign-up-with-nodejs-expressjs-cpanel-39hm)
-- [Can I Simplify Variadic Template Method Calls in C++?](https://dev.to/generatecodedev/can-i-simplify-variadic-template-method-calls-in-c-50b7)
+- [Devoxx 2025](https://dev.to/onepoint/devoxx-2025-55o4)
+- [How to Write Events to Azure Event Hub in Scala Spark Job?](https://dev.to/generatecodedev/how-to-write-events-to-azure-event-hub-in-scala-spark-job-290i)
+- [The Future of Tech Personal Branding: Predictions Every Developer Should Know](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-tech-personal-branding-predictions-every-developer-should-know-j6f)
+- [Unveiling the Intel Open Source License: A Deep Dive into Fair Code Licensing and the Future of Open Source](https://dev.to/ahmmrizv9/unveiling-the-intel-open-source-license-a-deep-dive-into-fair-code-licensing-and-the-future-of-8cg)
 <!-- BLOG-POST-LIST:END -->
 
 
