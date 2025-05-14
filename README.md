@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Kubernetes Certification Should You Get? A Clear Guide &lpar;No Hype&rpar;](https://dev.to/thecloudarchitect/which-kubernetes-certification-should-you-get-a-clear-guide-no-hype-4f8g)
-- [Is Go Worth Learning in 2025?](https://dev.to/coding-with-patrik/is-go-worth-learning-in-2025-4bld)
-- [Why is my C pointer printing &lpar;nil&rpar; with %p format specifier?](https://dev.to/generatecodedev/why-is-my-c-pointer-printing-nil-with-p-format-specifier-2meg)
-- [Unveiling BSD 1-Clause License: A Comprehensive Exploration for Modern Software Development](https://dev.to/ashucommits/unveiling-bsd-1-clause-license-a-comprehensive-exploration-for-modern-software-development-42eb)
+- [3 Projects I Built to Learn Web Development &lpar;with Next.js&rpar;](https://dev.to/unisho/3-projects-i-built-to-learn-web-development-with-nextjs-1b4e)
+- [Rowing team dev fail](https://dev.to/hotfixhero/rowing-team-dev-fail-1ba)
+- [TypeScript for React Developers – 5-Minute Quick Review](https://dev.to/tishonator/typescript-for-react-developers-5-minute-quick-review-583c)
+- [Unveiling Creative Commons Attribution 4.0: A Comprehensive Overview and Future Outlook](https://dev.to/bobcars/unveiling-creative-commons-attribution-40-a-comprehensive-overview-and-future-outlook-4cja)
 <!-- BLOG-POST-LIST:END -->
 
 
