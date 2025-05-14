@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Use Cases for Button-Triggered Excel Macros](https://dev.to/seonglinchua/common-use-cases-for-button-triggered-excel-macros-352d)
-- [Finding A Mentor For My Web development journey](https://dev.to/nande_nqetho343/finding-a-mentor-for-my-web-development-journey-45ic)
-- [HarmonyOS Next Game Development: From Creativity to Online](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-game-development-from-creativity-to-online-2cda)
-- [HarmonyOS Next Smart Office Application Development Practice](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-smart-office-application-development-practice-1jj3)
+- [How to Fix Dropdown Issues in jQuery Multiselect Widget?](https://dev.to/generatecodedev/how-to-fix-dropdown-issues-in-jquery-multiselect-widget-1m2h)
+- [Optimize Your Node.js MongoDB Code: Replace $lookup with Mongoose ref - [Anni]](https://dev.to/aniruddha_bhattacharya/optimize-your-nodejs-mongodb-code-replace-lookup-with-mongoose-ref-anni-2hmn)
+- [🧩 Ditch the .arb: Using SQLite for Flutter Translations Like a Pro](https://dev.to/thinnakrit/ditch-the-arb-using-sqlite-for-flutter-translations-like-a-pro-eb1)
+- [🔍 Amazon VPC Now Logs Default Resource Creation in Cloud Trail](https://dev.to/latchudevops/amazon-vpc-now-logs-default-resource-creation-in-cloud-trail-2i3n)
 <!-- BLOG-POST-LIST:END -->
 
 
