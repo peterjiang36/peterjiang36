@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Projects I Built to Learn Web Development &lpar;with Next.js&rpar;](https://dev.to/unisho/3-projects-i-built-to-learn-web-development-with-nextjs-1b4e)
-- [Rowing team dev fail](https://dev.to/hotfixhero/rowing-team-dev-fail-1ba)
-- [TypeScript for React Developers – 5-Minute Quick Review](https://dev.to/tishonator/typescript-for-react-developers-5-minute-quick-review-583c)
-- [Unveiling Creative Commons Attribution 4.0: A Comprehensive Overview and Future Outlook](https://dev.to/bobcars/unveiling-creative-commons-attribution-40-a-comprehensive-overview-and-future-outlook-4cja)
+- [🎨 Freelancer / Indie Developer Website Template](https://dev.to/shreyvijayvargiya/freelancer-indie-developer-website-template-13c0)
+- [How To Learn C++](https://dev.to/sfundomhlungu/how-to-learn-c-neh)
+- [🚨 Your Kubernetes Cluster Is a Ticking Time Bomb &lpar;Unless You Patch It&rpar;](https://dev.to/alialp/-29i9)
+- [Freshservice Software License Management Explained](https://dev.to/emily_assetloom/freshservice-software-license-management-explained-53cf)
 <!-- BLOG-POST-LIST:END -->
 
 
