@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Stripe + Jony Ive Fireside, UI After LLMs &amp; DOOM in CSS](https://dev.to/adam/stripe-jony-ive-fireside-ui-after-llms-doom-in-css-2j3i)
-- [Pioneering a New Era of AI Innovation](https://dev.to/rawveg/pioneering-a-new-era-of-ai-innovation-197)
-- [Docker – Simplifying the Deployment Process](https://dev.to/gabrielle_eduarda_776996b/docker-simplifying-the-deployment-process-447a)
-- [How to Diagnose Azure Function Failures with Octokit Instantiation?](https://dev.to/generatecodedev/how-to-diagnose-azure-function-failures-with-octokit-instantiation-2n3e)
+- [How to Use jq to Add New Objects into a JSON String?](https://dev.to/generatecodedev/how-to-use-jq-to-add-new-objects-into-a-json-string-phl)
+- [Unveiling Nokia Reciprocal License: A Comprehensive Deep Dive into Open Source Fairness and Developer Sustainability](https://dev.to/laetitiaperraut/unveiling-nokia-reciprocal-license-a-comprehensive-deep-dive-into-open-source-fairness-and-54n5)
+- [Tired of Wasting Time Searching Files in Linux? Learn to Use the find Command Like an Engineer Who Gets Things Done](https://dev.to/dtemi/tired-of-wasting-time-searching-files-in-linux-learn-to-use-the-find-command-like-an-engineer-who-4jb3)
+- [Unlocking Efficiency: The Best Code Generator AI for Developers in 2025](https://dev.to/atforeveryoung/unlocking-efficiency-the-best-code-generator-ai-for-developers-in-2025-28di)
 <!-- BLOG-POST-LIST:END -->
 
 
