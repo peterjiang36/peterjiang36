@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐚 What Happens When You Type ls *.c in the Terminal?](https://dev.to/aboahmd/what-happens-when-you-type-ls-c-in-the-terminal-2njo)
-- [I hope this changes the open source contributors](https://dev.to/anshuman_khanna_ff3187f11/i-hope-this-changes-the-open-source-contributors-15l)
-- [Unveiling Libpng License: A Comprehensive Exploration of Open Source Fair Code](https://dev.to/bobcars/unveiling-libpng-license-a-comprehensive-exploration-of-open-source-fair-code-5c82)
-- [The problem with Open Source, in 2025](https://dev.to/anshuman_khanna_ff3187f11/the-problem-with-open-source-in-2025-36bp)
+- [🕵️‍♂️ I Solved a Murder Using Python, Flask, and HTML](https://dev.to/abubaker_siddique_513b7e2/i-solved-a-murder-using-python-flask-and-html-1ld8)
+- [Problem Solving with Python + Web Development](https://dev.to/resource_bunk_1077cab07da/problem-solving-with-python-web-development-5647)
+- [Why I am Migrating From Zola Back to Hugo](https://dev.to/vst/why-i-am-migrating-from-zola-back-to-hugo-1k54)
+- [🧨 Python Scripts That Shouldn’t Exist — But Do](https://dev.to/snappytuts/python-scripts-that-shouldnt-exist-but-do-2h9p)
 <!-- BLOG-POST-LIST:END -->
 
 
