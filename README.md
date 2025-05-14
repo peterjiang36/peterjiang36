@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 3 - Prompts &amp; Models](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-3-prompts-models-dd7)
-- [Streamlining ML Workflows: Integrating KitOps and Amazon SageMaker](https://dev.to/kitops/streamlining-ml-workflows-integrating-kitops-and-amazon-sagemaker-2cjp)
-- [Does It Still Make Sense to Deeply Learn Programming?](https://dev.to/sercangundogan/does-it-still-make-sense-to-deeply-learn-programming-3lg4)
-- [How to Write a Simple Spam Bot in Python?](https://dev.to/generatecodedev/how-to-write-a-simple-spam-bot-in-python-l57)
+- [Stop Overcomplicating Input Parsing](https://dev.to/bhuvaneshm_dev/stop-overcomplicating-input-parsing-2g42)
+- [Adding mermaid to your Roq powered blog](https://dev.to/onepoint/adding-mermaid-to-your-roq-powered-blog-45ic)
+- [Access Control](https://dev.to/sandesh_patankar/access-control-kma)
+- [Fixing canvas package install](https://dev.to/dirtyhenry/fixing-canvas-package-install-j4a)
 <!-- BLOG-POST-LIST:END -->
 
 
