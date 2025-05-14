@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Voice Chatbot From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-voice-chatbot-from-scratch-a-pocketflow-tutorial-o93)
-- [Reinventando a Roda: Criando um compilador em csharp - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-1-2gih)
-- [Building a multi-step form in Ruby on Rails](https://dev.to/iankcode/building-a-multi-step-form-in-ruby-on-rails-1kme)
-- [Automatiser la récupération des repos github grace à python et Crontab](https://dev.to/nicolas_ohlin_aae95a9c7cf/automatiser-la-recuperation-des-repos-github-grace-a-python-et-crontab-46ad)
+- [TV&#39;s Next Revolution](https://dev.to/rawveg/tvs-next-revolution-3gnm)
+- [How to Fix Android Studio Plugin Issues After Updates?](https://dev.to/generatecodedev/how-to-fix-android-studio-plugin-issues-after-updates-5c57)
+- [Coding Polyglot](https://dev.to/timothy_97/coding-polyglot-ji5)
+- [How to Save Daily Log Files Using Tauri Framework in Rust?](https://dev.to/generatecodedev/how-to-save-daily-log-files-using-tauri-framework-in-rust-54ag)
 <!-- BLOG-POST-LIST:END -->
 
 
