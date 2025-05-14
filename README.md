@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Angular Challenge #1: Understanding OnPush Change Detection in Angular](https://dev.to/ng-delhi/angular-challenge-1-understanding-onpush-change-detection-in-angular-58og)
-- [Liquid Tag Requests](https://dev.to/jess/liquid-tag-requests-2ono)
-- [How to Fix &#39;modelData is Not Defined&#39; Error in C++ for Android](https://dev.to/generatecodedev/how-to-fix-modeldata-is-not-defined-error-in-c-for-android-2ecj)
-- [The Rise of AI Agents in 2025](https://dev.to/aniruddhaadak/the-rise-of-ai-agents-in-2025-24ba)
+- [🔥 You Don’t Know HTML, So You Installed a bloated framework? 🤬💻](https://dev.to/mexikode/you-dont-know-html-so-you-installed-a-bloated-framework-2f8i)
+- [A Arquitetura REST como Padrão para Desenvolvimento de Aplicações Web Modernas](https://dev.to/evandroluiz_rd/a-arquitetura-rest-como-padrao-para-desenvolvimento-de-aplicacoes-web-modernas-2m1n)
+- [Deploying a Full-Stack App on AWS ECS with Docker: From Code to Cloud](https://dev.to/sherif_san/deploying-a-full-stack-app-on-aws-ecs-with-docker-from-code-to-cloud-1akm)
+- [What Is a Patent Invalidity Search? A Visual Guide](https://dev.to/patentscanai/what-is-a-patent-invalidity-search-a-visual-guide-2ob3)
 <!-- BLOG-POST-LIST:END -->
 
 
