@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Dropdown Issues in jQuery Multiselect Widget?](https://dev.to/generatecodedev/how-to-fix-dropdown-issues-in-jquery-multiselect-widget-1m2h)
-- [Optimize Your Node.js MongoDB Code: Replace $lookup with Mongoose ref - [Anni]](https://dev.to/aniruddha_bhattacharya/optimize-your-nodejs-mongodb-code-replace-lookup-with-mongoose-ref-anni-2hmn)
-- [🧩 Ditch the .arb: Using SQLite for Flutter Translations Like a Pro](https://dev.to/thinnakrit/ditch-the-arb-using-sqlite-for-flutter-translations-like-a-pro-eb1)
-- [🔍 Amazon VPC Now Logs Default Resource Creation in Cloud Trail](https://dev.to/latchudevops/amazon-vpc-now-logs-default-resource-creation-in-cloud-trail-2i3n)
+- [The Easiest Way to Be Ignored When Communicating at Work](https://dev.to/canro91/the-easiest-way-to-be-ignored-when-communicating-at-work-1hb9)
+- [Best Practices for Handling Side Effects in React](https://dev.to/hasunnilupul/best-practices-for-handling-side-effects-in-react-4fk4)
+- [Building AutoLLMBench: How I Taught AI Agents to Maintain Their Own Leaderboard](https://dev.to/abhigna_nagaraja/building-autollmbench-how-i-taught-ai-agents-to-maintain-their-own-leaderboard-52o3)
+- [Computer Network](https://dev.to/th33k/computer-network-3bg8)
 <!-- BLOG-POST-LIST:END -->
 
 
