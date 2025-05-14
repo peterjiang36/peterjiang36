@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use jq to Add New Objects into a JSON String?](https://dev.to/generatecodedev/how-to-use-jq-to-add-new-objects-into-a-json-string-phl)
-- [Unveiling Nokia Reciprocal License: A Comprehensive Deep Dive into Open Source Fairness and Developer Sustainability](https://dev.to/laetitiaperraut/unveiling-nokia-reciprocal-license-a-comprehensive-deep-dive-into-open-source-fairness-and-54n5)
-- [Tired of Wasting Time Searching Files in Linux? Learn to Use the find Command Like an Engineer Who Gets Things Done](https://dev.to/dtemi/tired-of-wasting-time-searching-files-in-linux-learn-to-use-the-find-command-like-an-engineer-who-4jb3)
-- [Unlocking Efficiency: The Best Code Generator AI for Developers in 2025](https://dev.to/atforeveryoung/unlocking-efficiency-the-best-code-generator-ai-for-developers-in-2025-28di)
+- [Why Your API Strategy Fails Without a Proper Data Model](https://dev.to/lonti-davidb/why-your-api-strategy-fails-without-a-proper-data-model-5aj2)
+- [Começando minha jornada dev 🚀](https://dev.to/tonilisboa/comecando-minha-jornada-dev-gc7)
+- [I get the following error when trying to run &quot;node server.js&quot; for initial testing: &quot;throw new Error&lpar;&#39;Neither apiKey nor config.authenticator provided&#39;&rpar;;&quot;. My .env file has the correct STRIPE_SECRET and the key is being loaded correctly. Any ideas?](https://dev.to/autodd/i-get-the-following-error-when-trying-to-run-node-serverjs-for-initial-testing-throw-new-5fe9)
+- [MCP Security: Tr-tr-tr-tricky, tricky, tricky](https://dev.to/mgbec/mcp-security-tr-tr-tr-tricky-tricky-tricky-2a1j)
 <!-- BLOG-POST-LIST:END -->
 
 
