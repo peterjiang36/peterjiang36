@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Overcomplicating Input Parsing](https://dev.to/bhuvaneshm_dev/stop-overcomplicating-input-parsing-2g42)
-- [Adding mermaid to your Roq powered blog](https://dev.to/onepoint/adding-mermaid-to-your-roq-powered-blog-45ic)
-- [Access Control](https://dev.to/sandesh_patankar/access-control-kma)
-- [Fixing canvas package install](https://dev.to/dirtyhenry/fixing-canvas-package-install-j4a)
+- [Hi everyone! I’m working on a React project . My screen layout isn’t stretching properly . I’ve created a GitHub issue with code and screenshots. I’d really appreciate your input. 🔗 [https://github.com/Anonymous2024-spec/react-dashboard-milestone1/issues]](https://dev.to/nana_shifah_27908dd3b993e/hi-everyone-im-working-on-a-react-project-my-screen-layout-isnt-stretching-properly-ive-51g5)
+- [How to Implement a Simple Calculator in C](https://dev.to/generatecodedev/how-to-implement-a-simple-calculator-in-c-5g17)
+- [How to Post on DEV.to Using Python](https://dev.to/palak_singla_ae13e55615a4/how-to-post-on-devto-using-python-4be)
+- [How Crypto Billionaires Spend: Signals of Power, Branding, and Strategy](https://dev.to/philip_crypto92/how-crypto-billionaires-spend-signals-of-power-branding-and-strategy-19kp)
 <!-- BLOG-POST-LIST:END -->
 
 
