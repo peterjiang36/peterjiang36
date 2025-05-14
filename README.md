@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the PullFlow Agent Experience: Streamline Your AI Collaboration](https://dev.to/pullflow/introducing-the-pullflow-agent-experience-streamline-your-ai-collaboration-52e9)
-- [Teaching Kids Ubuntu: Command Line Adventures!](https://dev.to/jliter/teaching-kids-ubuntu-command-line-adventures-4bge)
-- [My Journey Through `this` in JavaScript: From Confusion to Clarity](https://dev.to/skanenje/my-journey-through-this-in-javascript-from-confusion-to-clarity-hl1)
-- [Do you know how it works? - JS Getters &amp; Setters?](https://dev.to/matheusjulidori/do-you-know-how-it-works-js-getters-setters-2dnf)
+- [How to Track LLM User Feedback to Improve Your AI Applications](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-track-llm-user-feedback-to-improve-your-ai-applications-1a08)
+- [Descubra o Modo Agente do GitHub Copilot](https://dev.to/pachicodes/descubra-o-modo-agente-do-github-copilot-54j2)
+- [Generating swaggers at compile time](https://dev.to/lexplt/generating-swaggers-at-compile-time-1m4c)
+- [Monitoring &amp; It&#39;s 4 Golden Signals 🏆](https://dev.to/tohemt/monitoring-its-4-golden-signals-400)
 <!-- BLOG-POST-LIST:END -->
 
 
