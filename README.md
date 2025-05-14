@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your API Strategy Fails Without a Proper Data Model](https://dev.to/lonti-davidb/why-your-api-strategy-fails-without-a-proper-data-model-5aj2)
-- [Começando minha jornada dev 🚀](https://dev.to/tonilisboa/comecando-minha-jornada-dev-gc7)
-- [I get the following error when trying to run &quot;node server.js&quot; for initial testing: &quot;throw new Error&lpar;&#39;Neither apiKey nor config.authenticator provided&#39;&rpar;;&quot;. My .env file has the correct STRIPE_SECRET and the key is being loaded correctly. Any ideas?](https://dev.to/autodd/i-get-the-following-error-when-trying-to-run-node-serverjs-for-initial-testing-throw-new-5fe9)
-- [MCP Security: Tr-tr-tr-tricky, tricky, tricky](https://dev.to/mgbec/mcp-security-tr-tr-tr-tricky-tricky-tricky-2a1j)
+- [How to Fix &#39;singleton can&#39;t be dumped&#39; in Rails 8 Cache?](https://dev.to/generatecodedev/how-to-fix-singleton-cant-be-dumped-in-rails-8-cache-5hdo)
+- [Linux Primer](https://dev.to/rajaaaaa07_/linux-primer-355)
+- [200+ Free PHP Projects with Source Code for Beginners](https://dev.to/hello_coderobotics_e811b/200-free-php-projects-with-source-code-for-beginners-20o6)
+- [How Do Function Literals Impact Performance in Scala Pipelines?](https://dev.to/generatecodedev/how-do-function-literals-impact-performance-in-scala-pipelines-4ji1)
 <!-- BLOG-POST-LIST:END -->
 
 
