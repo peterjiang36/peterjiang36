@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Devoxx 2025](https://dev.to/onepoint/devoxx-2025-55o4)
-- [How to Write Events to Azure Event Hub in Scala Spark Job?](https://dev.to/generatecodedev/how-to-write-events-to-azure-event-hub-in-scala-spark-job-290i)
-- [The Future of Tech Personal Branding: Predictions Every Developer Should Know](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-future-of-tech-personal-branding-predictions-every-developer-should-know-j6f)
-- [Unveiling the Intel Open Source License: A Deep Dive into Fair Code Licensing and the Future of Open Source](https://dev.to/ahmmrizv9/unveiling-the-intel-open-source-license-a-deep-dive-into-fair-code-licensing-and-the-future-of-8cg)
+- [Which Kubernetes Certification Should You Get? A Clear Guide &lpar;No Hype&rpar;](https://dev.to/thecloudarchitect/which-kubernetes-certification-should-you-get-a-clear-guide-no-hype-4f8g)
+- [Is Go Worth Learning in 2025?](https://dev.to/coding-with-patrik/is-go-worth-learning-in-2025-4bld)
+- [Why is my C pointer printing &lpar;nil&rpar; with %p format specifier?](https://dev.to/generatecodedev/why-is-my-c-pointer-printing-nil-with-p-format-specifier-2meg)
+- [Unveiling BSD 1-Clause License: A Comprehensive Exploration for Modern Software Development](https://dev.to/ashucommits/unveiling-bsd-1-clause-license-a-comprehensive-exploration-for-modern-software-development-42eb)
 <!-- BLOG-POST-LIST:END -->
 
 
