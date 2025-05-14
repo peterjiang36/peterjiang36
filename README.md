@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track LLM User Feedback to Improve Your AI Applications](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-track-llm-user-feedback-to-improve-your-ai-applications-1a08)
-- [Descubra o Modo Agente do GitHub Copilot](https://dev.to/pachicodes/descubra-o-modo-agente-do-github-copilot-54j2)
-- [Generating swaggers at compile time](https://dev.to/lexplt/generating-swaggers-at-compile-time-1m4c)
-- [Monitoring &amp; It&#39;s 4 Golden Signals 🏆](https://dev.to/tohemt/monitoring-its-4-golden-signals-400)
+- [Focus on the product, not the tech stack](https://dev.to/chiragagg5k/focus-on-the-product-not-the-tech-stack-15d)
+- [213/365 | ¥10M Job Challenge - Dream](https://dev.to/kameken100/213365-y10m-job-challenge-dream-6af)
+- [How to Join Two Tables with Composite Keys in SQL?](https://dev.to/generatecodedev/how-to-join-two-tables-with-composite-keys-in-sql-5a6e)
+- [Oracle Visual Builder &lpar;VB&rpar; Authentication Using External Identity Provider Instead of Oracle IAM](https://dev.to/mrinmoyaichdevto/oracle-visual-builder-vb-authentication-using-external-identity-provider-instead-of-oracle-iam-196l)
 <!-- BLOG-POST-LIST:END -->
 
 
