@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Easiest Way to Be Ignored When Communicating at Work](https://dev.to/canro91/the-easiest-way-to-be-ignored-when-communicating-at-work-1hb9)
-- [Best Practices for Handling Side Effects in React](https://dev.to/hasunnilupul/best-practices-for-handling-side-effects-in-react-4fk4)
-- [Building AutoLLMBench: How I Taught AI Agents to Maintain Their Own Leaderboard](https://dev.to/abhigna_nagaraja/building-autollmbench-how-i-taught-ai-agents-to-maintain-their-own-leaderboard-52o3)
-- [Computer Network](https://dev.to/th33k/computer-network-3bg8)
+- [The LIMIT offset, count Trap: Why Large Offsets Slow Down MySQL?](https://dev.to/chat2db/the-limit-offset-count-trap-why-large-offsets-slow-down-mysql-kg1)
+- [Enhancing Software Quality with SmartBear Automated Testing](https://dev.to/testree/enhancing-software-quality-with-smartbear-automated-testing-48f)
+- [How to Send Emails on User Sign-Up with Node.js, Express.js &amp; cPanel](https://dev.to/swapnil_ahmmedshishir_2d/how-to-send-emails-on-user-sign-up-with-nodejs-expressjs-cpanel-39hm)
+- [Can I Simplify Variadic Template Method Calls in C++?](https://dev.to/generatecodedev/can-i-simplify-variadic-template-method-calls-in-c-50b7)
 <!-- BLOG-POST-LIST:END -->
 
 
