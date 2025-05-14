@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Professional AI Videos in Seconds with LTX by Lightricks](https://dev.to/nodeshiftcloud/generate-professional-ai-videos-in-seconds-with-ltx-by-lightricks-o97)
-- [How to Integrate Role-Based Access Control &lpar;RBAC&rpar; in Hospital Management Software](https://dev.to/nzcares/how-to-integrate-role-based-access-control-rbac-in-hospital-management-software-2cj4)
-- [How to Wrap Text in Flutter&#39;s Draggable Widget with Dart?](https://dev.to/generatecodedev/how-to-wrap-text-in-flutters-draggable-widget-with-dart-3jcl)
-- [Content Management System: Building a Post Creation System from Scratch with Node js](https://dev.to/webcraft-notes/content-management-system-building-a-post-creation-system-from-scratch-with-node-js-1kfl)
+- [How I Learned Generative AI in Two Weeks &lpar;and You Can Too&rpar;: Part 3 - Prompts &amp; Models](https://dev.to/llmware/how-i-learned-generative-ai-in-two-weeks-and-you-can-too-part-3-prompts-models-dd7)
+- [Streamlining ML Workflows: Integrating KitOps and Amazon SageMaker](https://dev.to/kitops/streamlining-ml-workflows-integrating-kitops-and-amazon-sagemaker-2cjp)
+- [Does It Still Make Sense to Deeply Learn Programming?](https://dev.to/sercangundogan/does-it-still-make-sense-to-deeply-learn-programming-3lg4)
+- [How to Write a Simple Spam Bot in Python?](https://dev.to/generatecodedev/how-to-write-a-simple-spam-bot-in-python-l57)
 <!-- BLOG-POST-LIST:END -->
 
 
