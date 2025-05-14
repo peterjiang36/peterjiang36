@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix &#39;singleton can&#39;t be dumped&#39; in Rails 8 Cache?](https://dev.to/generatecodedev/how-to-fix-singleton-cant-be-dumped-in-rails-8-cache-5hdo)
-- [Linux Primer](https://dev.to/rajaaaaa07_/linux-primer-355)
-- [200+ Free PHP Projects with Source Code for Beginners](https://dev.to/hello_coderobotics_e811b/200-free-php-projects-with-source-code-for-beginners-20o6)
-- [How Do Function Literals Impact Performance in Scala Pipelines?](https://dev.to/generatecodedev/how-do-function-literals-impact-performance-in-scala-pipelines-4ji1)
+- [Common Use Cases for Button-Triggered Excel Macros](https://dev.to/seonglinchua/common-use-cases-for-button-triggered-excel-macros-352d)
+- [Finding A Mentor For My Web development journey](https://dev.to/nande_nqetho343/finding-a-mentor-for-my-web-development-journey-45ic)
+- [HarmonyOS Next Game Development: From Creativity to Online](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-game-development-from-creativity-to-online-2cda)
+- [HarmonyOS Next Smart Office Application Development Practice](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-smart-office-application-development-practice-1jj3)
 <!-- BLOG-POST-LIST:END -->
 
 
