@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 You Don’t Know HTML, So You Installed a bloated framework? 🤬💻](https://dev.to/mexikode/you-dont-know-html-so-you-installed-a-bloated-framework-2f8i)
-- [A Arquitetura REST como Padrão para Desenvolvimento de Aplicações Web Modernas](https://dev.to/evandroluiz_rd/a-arquitetura-rest-como-padrao-para-desenvolvimento-de-aplicacoes-web-modernas-2m1n)
-- [Deploying a Full-Stack App on AWS ECS with Docker: From Code to Cloud](https://dev.to/sherif_san/deploying-a-full-stack-app-on-aws-ecs-with-docker-from-code-to-cloud-1akm)
-- [What Is a Patent Invalidity Search? A Visual Guide](https://dev.to/patentscanai/what-is-a-patent-invalidity-search-a-visual-guide-2ob3)
+- [Build Your Own Voice Chatbot From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-voice-chatbot-from-scratch-a-pocketflow-tutorial-o93)
+- [Reinventando a Roda: Criando um compilador em csharp - Parte 1](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-1-2gih)
+- [Building a multi-step form in Ruby on Rails](https://dev.to/iankcode/building-a-multi-step-form-in-ruby-on-rails-1kme)
+- [Automatiser la récupération des repos github grace à python et Crontab](https://dev.to/nicolas_ohlin_aae95a9c7cf/automatiser-la-recuperation-des-repos-github-grace-a-python-et-crontab-46ad)
 <!-- BLOG-POST-LIST:END -->
 
 
