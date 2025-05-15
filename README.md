@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling OpenLDAP Public License: A Comprehensive Analysis and Future Outlook](https://dev.to/ahmmrizv9/unveiling-openldap-public-license-a-comprehensive-analysis-and-future-outlook-53hh)
-- [Backend&#39;in Derinliklerinde: Veri Tabanı Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/backendin-derinliklerinde-veri-tabani-optimizasyonu-1i8h)
-- [How to Fix PydanticSchemaGenerationError with Nested DefaultDict in Python?](https://dev.to/generatecodedev/how-to-fix-pydanticschemagenerationerror-with-nested-defaultdict-in-python-1jn8)
-- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
+- [Building Daily, One Commit at a Time 🔁](https://dev.to/vinayakgote2730/building-daily-one-commit-at-a-time-19mk)
+- [How to Fix iOS App Stuck on Splash Screen in Flutter?](https://dev.to/generatecodedev/how-to-fix-ios-app-stuck-on-splash-screen-in-flutter-1if8)
+- [Deploying an MCP server on AWS](https://dev.to/alejofig/deploying-an-mcp-on-aws-497)
+- [What Is Linux](https://dev.to/rajaaaaa07_/what-is-linux-4d6o)
 <!-- BLOG-POST-LIST:END -->
 
 
