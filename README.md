@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy PostgreSQL on Kubernetes](https://dev.to/hostman_com/how-to-deploy-postgresql-on-kubernetes-3ejm)
-- [How to Resolve Firebase Database URL Errors in Flutter?](https://dev.to/generatecodedev/how-to-resolve-firebase-database-url-errors-in-flutter-7eo)
-- [Designing a CI/CD Pipeline: Stages, Jobs, and Parallel Execution Made Simple](https://dev.to/alex_aslam/designing-a-cicd-pipeline-stages-jobs-and-parallel-execution-made-simple-e0n)
-- [Level Up Your Dev Portfolio with Vizinn: Real-World Open Source with Purpose](https://dev.to/adamsnows/level-up-your-dev-portfolio-with-vizinn-real-world-open-source-with-purpose-5e9o)
+- [The Complete Guide to LLM Observability Platforms in 2025](https://dev.to/lina_lam_9ee459f98b67e9d5/the-complete-guide-to-llm-observability-platforms-in-2025-488n)
+- [How and when to use type casting in TypeScript](https://dev.to/logrocket/how-and-when-to-use-type-casting-in-typescript-pc0)
+- [Cloud-Based Access Control Management: Best Practices and Implementation with Code Examples](https://dev.to/karen_londres/cloud-based-access-control-management-best-practices-and-implementation-with-code-examples-1m2j)
+- [Day 4: Permission Please! Understanding File Permissions in RHEL 9](https://dev.to/higgs182092/day-4-permission-please-understanding-file-permissions-in-rhel-9-1dnm)
 <!-- BLOG-POST-LIST:END -->
 
 
