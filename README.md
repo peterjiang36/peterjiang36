@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Loop Phases: Microtasks vs. Macrotasks in Depth](https://dev.to/omriluz1/event-loop-phases-microtasks-vs-macrotasks-in-depth-koc)
-- [Step-by-Step Guide: Laravel CI/CD with GitHub Actions](https://dev.to/rafi021/step-by-step-guide-laravel-cicd-with-github-actions-i89)
-- [What are the best practices for error handling in C# APIs?](https://dev.to/generatecodedev/what-are-the-best-practices-for-error-handling-in-c-apis-21ld)
-- [5 developer tools to really step up your workflow](https://dev.to/sardinessz/5-developer-tools-to-really-step-up-your-workflow-2f1o)
+- [What it’s like to be a software developer with tinnitus](https://dev.to/devbyj/what-its-like-to-be-a-software-developer-with-tinnitus-men)
+- [Efficient Cache Design with Bloom Filters in Go](https://dev.to/leapcell/efficient-cache-design-with-bloom-filters-in-go-3j56)
+- [How to Implement CoCreateInstance and Retrieve Object Info in C++](https://dev.to/generatecodedev/how-to-implement-cocreateinstance-and-retrieve-object-info-in-c-3eio)
+- [Unveiling the EU DataGrid Software License: A Deep Dive into Open Source, Fair Code, and Developer Empowerment](https://dev.to/zhangwei42/unveiling-the-eu-datagrid-software-license-a-deep-dive-into-open-source-fair-code-and-developer-1e8k)
 <!-- BLOG-POST-LIST:END -->
 
 
