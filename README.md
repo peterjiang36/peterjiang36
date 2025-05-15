@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding N+1 Queries in Rails: Easy Performance Wins for Beginners](https://dev.to/rob__race/avoiding-n1-queries-in-rails-easy-performance-wins-for-beginners-4lim)
-- [Why Spring Is 8x Better Than Node &lpar;And No, That’s Not Up for Debate&rpar;](https://dev.to/domenico_sacino_a09e20c1b/why-spring-is-8x-better-than-node-and-no-thats-not-up-for-debate-31pm)
-- [Agentic AI vs. Generative AI vs. Agents](https://dev.to/ashishpatel546/agentic-ai-vs-generative-ai-vs-agents-53l4)
-- [MediatR + CQRS](https://dev.to/its_amandha/mediatr-cqrs-57cp)
+- [Want to learn about validation in ASP.NET Core with minimal API&#39;s? Check this blog!](https://dev.to/pascal_vorwerk/want-to-learn-about-validation-in-aspnet-core-with-minimal-apis-check-this-blog-5da5)
+- [Meet AxonJs: The Express Slayer That Doubles Your API Speed](https://dev.to/mrmkz/meet-axonjs-the-express-slayer-that-doubles-your-api-speed-3a03)
+- [Rust in 2025: Did It Finally Overtake C++?](https://dev.to/code_2/rust-in-2025-did-it-finally-overtake-c-10ko)
+- [❌ Top 10 Common Mistakes in Writing Scripts](https://dev.to/elsayed_zewayed_91621702f/top-10-common-mistakes-in-writing-scripts-4gle)
 <!-- BLOG-POST-LIST:END -->
 
 
