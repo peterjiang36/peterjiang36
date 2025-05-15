@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Human Error – The Most Common Cybersecurity Mistakes for DevOps](https://dev.to/gitprotect/human-error-the-most-common-cybersecurity-mistakes-for-devops-216i)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-24ge)
-- [&quot;Postmodernism: Breaking All Rules&quot;](https://dev.to/khola_khan_d613dcca79975e/postmodernism-breaking-all-rules-4o6e)
-- [How to Read Data from Redis Slave Nodes Using Java?](https://dev.to/generatecodedev/how-to-read-data-from-redis-slave-nodes-using-java-8j8)
+- [Cloudflare Tunnel for Home Assistant](https://dev.to/nfrankel/cloudflare-tunnel-for-home-assistant-imm)
+- [CI/CD for Devs: GitHub Actions in 5 Minutes](https://dev.to/sfundomhlungu/cicd-for-devs-github-actions-in-5-minutes-446p)
+- [Pre-validations in Dynamics 365 CE: JavaScript vs Plugins](https://dev.to/nikhildynamicsce/pre-validations-in-dynamics-365-ce-javascript-vs-plugins-3k60)
+- [How I Deployed a Dockerized App to AWS Using Terraform and GitHub Actions](https://dev.to/kaustav_dey_/how-i-deployed-a-dockerized-app-to-aws-using-terraform-and-github-actions-3nhg)
 <!-- BLOG-POST-LIST:END -->
 
 
