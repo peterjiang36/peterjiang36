@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to learn about validation in ASP.NET Core with minimal API&#39;s? Check this blog!](https://dev.to/pascal_vorwerk/want-to-learn-about-validation-in-aspnet-core-with-minimal-apis-check-this-blog-5da5)
-- [Meet AxonJs: The Express Slayer That Doubles Your API Speed](https://dev.to/mrmkz/meet-axonjs-the-express-slayer-that-doubles-your-api-speed-3a03)
-- [Rust in 2025: Did It Finally Overtake C++?](https://dev.to/code_2/rust-in-2025-did-it-finally-overtake-c-10ko)
-- [❌ Top 10 Common Mistakes in Writing Scripts](https://dev.to/elsayed_zewayed_91621702f/top-10-common-mistakes-in-writing-scripts-4gle)
+- [Event Loop Phases: Microtasks vs. Macrotasks in Depth](https://dev.to/omriluz1/event-loop-phases-microtasks-vs-macrotasks-in-depth-koc)
+- [Step-by-Step Guide: Laravel CI/CD with GitHub Actions](https://dev.to/rafi021/step-by-step-guide-laravel-cicd-with-github-actions-i89)
+- [What are the best practices for error handling in C# APIs?](https://dev.to/generatecodedev/what-are-the-best-practices-for-error-handling-in-c-apis-21ld)
+- [5 developer tools to really step up your workflow](https://dev.to/sardinessz/5-developer-tools-to-really-step-up-your-workflow-2f1o)
 <!-- BLOG-POST-LIST:END -->
 
 
