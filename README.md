@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Warp custom theme setup](https://dev.to/karleeov/warp-custom-theme-setup-1hmh)
-- [How to Resolve Google API &#39;Not Authorized&#39; Error in Laravel](https://dev.to/generatecodedev/how-to-resolve-google-api-not-authorized-error-in-laravel-3f40)
-- [Unlock Your Coding Potential: How to Effectively Use Code Generate AI in 2025](https://dev.to/atforeveryoung/unlock-your-coding-potential-how-to-effectively-use-code-generate-ai-in-2025-44h7)
-- [Understanding the &quot;Object Literal May Only Specify Known Properties&quot; Error in React + TypeScript](https://dev.to/cristiansifuentes/understanding-the-object-literal-may-only-specify-known-properties-error-in-react-typescript-25f0)
+- [Unveiling OpenLDAP Public License: A Comprehensive Analysis and Future Outlook](https://dev.to/ahmmrizv9/unveiling-openldap-public-license-a-comprehensive-analysis-and-future-outlook-53hh)
+- [Backend&#39;in Derinliklerinde: Veri Tabanı Optimizasyonu](https://dev.to/yunus_emremert_1756b71d3/backendin-derinliklerinde-veri-tabani-optimizasyonu-1i8h)
+- [How to Fix PydanticSchemaGenerationError with Nested DefaultDict in Python?](https://dev.to/generatecodedev/how-to-fix-pydanticschemagenerationerror-with-nested-defaultdict-in-python-1jn8)
+- [Should you disclose your AI usage during interviews? Or keep it a secret?](https://dev.to/distalx/should-you-disclose-your-ai-usage-during-interviews-or-keep-it-a-secret-3lij)
 <!-- BLOG-POST-LIST:END -->
 
 
