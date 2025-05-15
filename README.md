@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀🧠💼The Ultimate AI &amp; ML Career Roadmap for 2025: A Personal Journey](https://dev.to/furqanahmadrao/the-ultimate-ai-ml-career-roadmap-for-2025-a-personal-journey-3gkg)
-- [🚗 Build a Real-World Parking Management System in Angular](https://dev.to/chetan_void/build-a-real-world-parking-management-system-in-angular-4n41)
-- [Introducing a Transformative Multi-Camera Dataset for Vision AI](https://dev.to/rita_ho_d399c28be9d8a25a3/introducing-a-transformative-multi-camera-dataset-for-vision-ai-27ai)
-- [Unveiling the Zlib/Libpng License: A Deep Dive into Permissive Open Source Licensing and Fair Code](https://dev.to/laetitiaperraut/unveiling-the-zliblibpng-license-a-deep-dive-into-permissive-open-source-licensing-and-fair-code-2g5g)
+- [TravelInsight: AI-Powered Real-Time Travel Deal Finder](https://dev.to/aniruddhaadak/travelinsight-ai-powered-real-time-travel-deal-finder-m4h)
+- [🐾 Setting Up the Raspberry Pi-Based IoT Cat Feeder &lpar;Day-27&rpar;](https://dev.to/rajpreet_gill_6272051bd31/setting-up-the-raspberry-pi-based-iot-cat-feeder-day-27-2638)
+- [Advancements in Computation and Language: A Synthesis of Cutting-Edge Research from May 2025 arXiv Publications](https://dev.to/khanali21/advancements-in-computation-and-language-a-synthesis-of-cutting-edge-research-from-may-2025-arxiv-ioi)
+- [How Drug Abuse Is Quietly Spreading Among Developers in 2025](https://dev.to/scofieldidehen/how-drug-abuse-is-quietly-spreading-among-developers-in-2025-333o)
 <!-- BLOG-POST-LIST:END -->
 
 
