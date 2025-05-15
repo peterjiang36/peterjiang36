@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying RAG 🔍: Retrieval-Augmented Generation Explained](https://dev.to/esthernaisimoi/demystifying-rag-retrieval-augmented-generation-explained-5ed5)
-- [Over the air &lpar;OTA&rpar; update using Revopush in react native](https://dev.to/asim_mehmood_275a2236b23e/over-the-air-ota-update-using-revopush-in-react-native-2h3f)
-- [Unveiling Open Hardware License: A Comprehensive Exploration of Open Source Hardware Licensing, Applications, and Future Trends](https://dev.to/kallileiser/unveiling-open-hardware-license-a-comprehensive-exploration-of-open-source-hardware-licensing-1cl8)
-- [How to Manage State with Flutter Bloc and Cubit for Todos?](https://dev.to/generatecodedev/how-to-manage-state-with-flutter-bloc-and-cubit-for-todos-3jmg)
+- [Organizational Immunosuppressants](https://dev.to/linkbenjamin/organizational-immunosuppressants-228h)
+- [Creating Declarative APIs with Class Decorators in Python](https://dev.to/hevalhazalkurt/creating-declarative-apis-with-class-decorators-in-python-333d)
+- [Qubetics Presale Booms as Cross-Border Solution](https://dev.to/theblockverse/qubetics-presale-booms-as-cross-border-solution-554j)
+- [Install Cockpit on your Amazon EC2 Instance](https://dev.to/joseph_muteba_2ef562b2872/install-cockpit-on-your-amazon-ec2-instance-24l8)
 <!-- BLOG-POST-LIST:END -->
 
 
