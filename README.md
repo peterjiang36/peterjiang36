@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to LLM Observability Platforms in 2025](https://dev.to/lina_lam_9ee459f98b67e9d5/the-complete-guide-to-llm-observability-platforms-in-2025-488n)
-- [How and when to use type casting in TypeScript](https://dev.to/logrocket/how-and-when-to-use-type-casting-in-typescript-pc0)
-- [Cloud-Based Access Control Management: Best Practices and Implementation with Code Examples](https://dev.to/karen_londres/cloud-based-access-control-management-best-practices-and-implementation-with-code-examples-1m2j)
-- [Day 4: Permission Please! Understanding File Permissions in RHEL 9](https://dev.to/higgs182092/day-4-permission-please-understanding-file-permissions-in-rhel-9-1dnm)
+- [Go &amp; AES-GCM: A Security Deep Dive](https://dev.to/js402/go-aes-gcm-a-security-deep-dive-3ec8)
+- [A Professional Looking API](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-part-2-a-professional-looking-api-2d8)
+- [One-Click Deployment of n8n on Clawcloud Run: Build Enterprise-Grade Automation Workflows with Zero Code](https://dev.to/clawcloudrun/one-click-deployment-of-n8n-on-clawcloud-run-build-enterprise-grade-automation-workflows-with-zero-841)
+- [How to Use CLR Custom Aggregations in SQL with Reverse-Polish Notation?](https://dev.to/generatecodedev/how-to-use-clr-custom-aggregations-in-sql-with-reverse-polish-notation-in4)
 <!-- BLOG-POST-LIST:END -->
 
 
