@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Database Interaction with NLMDB: Where Natural Language Meets Data](https://dev.to/rakshith2605/revolutionizing-database-interaction-with-nlmdb-where-natural-language-meets-data-425m)
-- [From Junior to Senior: Why Your Front-End Skills Need to Grow Beyond the Framework](https://dev.to/don_mizzy/from-junior-to-senior-why-your-front-end-skills-need-to-grow-beyond-the-framework-16ng)
-- [Cara memperbaiki error No subject alternative DNS name matching localhost found di WSO2 API Manager](https://dev.to/agusmerdeko/cara-memperbaiki-error-no-subject-alternative-dns-name-matching-localhost-found-di-wso2-api-manager-ekd)
-- [How to Implement Multiple Outputs in MATLAB FIS Code?](https://dev.to/generatecodedev/how-to-implement-multiple-outputs-in-matlab-fis-code-1d5g)
+- [🚀🧠💼The Ultimate AI &amp; ML Career Roadmap for 2025: A Personal Journey](https://dev.to/furqanahmadrao/the-ultimate-ai-ml-career-roadmap-for-2025-a-personal-journey-3gkg)
+- [🚗 Build a Real-World Parking Management System in Angular](https://dev.to/chetan_void/build-a-real-world-parking-management-system-in-angular-4n41)
+- [Introducing a Transformative Multi-Camera Dataset for Vision AI](https://dev.to/rita_ho_d399c28be9d8a25a3/introducing-a-transformative-multi-camera-dataset-for-vision-ai-27ai)
+- [Unveiling the Zlib/Libpng License: A Deep Dive into Permissive Open Source Licensing and Fair Code](https://dev.to/laetitiaperraut/unveiling-the-zliblibpng-license-a-deep-dive-into-permissive-open-source-licensing-and-fair-code-2g5g)
 <!-- BLOG-POST-LIST:END -->
 
 
