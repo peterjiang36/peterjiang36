@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Advanced Security Tips for Front-End Projects with React](https://dev.to/werliton/6-advanced-security-tips-for-front-end-projects-with-react-369p)
-- [Installing/maintaining Ruby on macOS with a script](https://dev.to/dirtyhenry/installingmaintaining-ruby-on-macos-with-a-script-28a1)
-- [The way Registered Agents Assist Business Activities](https://dev.to/caveregret35/the-way-registered-agents-assist-business-activities-425p)
-- [Unveiling Frameworx Open License 1.0: Bridging Fair Code and Open Collaboration](https://dev.to/bobcars/unveiling-frameworx-open-license-10-bridging-fair-code-and-open-collaboration-44nn)
+- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
+- [Automating My Docker Apache Server with Python](https://dev.to/vvakim/automating-my-docker-apache-server-with-python-2mo3)
+- [Why Doesn&#39;t My Android Device Show Up in IntelliJ IDEA?](https://dev.to/generatecodedev/why-doesnt-my-android-device-show-up-in-intellij-idea-4jjc)
+- [Why Developers Seek an Auth0 Alternative](https://dev.to/deepakgupta/why-developers-seek-an-auth0-alternative-253b)
 <!-- BLOG-POST-LIST:END -->
 
 
