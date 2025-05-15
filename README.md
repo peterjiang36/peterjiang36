@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 What If You Could Build More Secure Code by Learning to Break It First?](https://dev.to/techbrain3/what-if-you-could-build-more-secure-code-by-learning-to-break-it-first-4hd)
-- [The Hidden Truth Behind Movie Piracy: A Developer’s Realization](https://dev.to/raajaryan/the-hidden-truth-behind-movie-piracy-a-developers-realization-1kb0)
-- [How to Fix &#39;sjs is not defined&#39; Error in JavaScript?](https://dev.to/generatecodedev/how-to-fix-sjs-is-not-defined-error-in-javascript-11i6)
-- [A CRUD API with Go, using the Gin framework and MongoDB.](https://dev.to/negin/a-crud-api-with-go-using-the-gin-framework-and-mongodb-379e)
+- [How to Deploy PostgreSQL on Kubernetes](https://dev.to/hostman_com/how-to-deploy-postgresql-on-kubernetes-3ejm)
+- [How to Resolve Firebase Database URL Errors in Flutter?](https://dev.to/generatecodedev/how-to-resolve-firebase-database-url-errors-in-flutter-7eo)
+- [Designing a CI/CD Pipeline: Stages, Jobs, and Parallel Execution Made Simple](https://dev.to/alex_aslam/designing-a-cicd-pipeline-stages-jobs-and-parallel-execution-made-simple-e0n)
+- [Level Up Your Dev Portfolio with Vizinn: Real-World Open Source with Purpose](https://dev.to/adamsnows/level-up-your-dev-portfolio-with-vizinn-real-world-open-source-with-purpose-5e9o)
 <!-- BLOG-POST-LIST:END -->
 
 
