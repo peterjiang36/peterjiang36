@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Tunnel for Home Assistant](https://dev.to/nfrankel/cloudflare-tunnel-for-home-assistant-imm)
-- [CI/CD for Devs: GitHub Actions in 5 Minutes](https://dev.to/sfundomhlungu/cicd-for-devs-github-actions-in-5-minutes-446p)
-- [Pre-validations in Dynamics 365 CE: JavaScript vs Plugins](https://dev.to/nikhildynamicsce/pre-validations-in-dynamics-365-ce-javascript-vs-plugins-3k60)
-- [How I Deployed a Dockerized App to AWS Using Terraform and GitHub Actions](https://dev.to/kaustav_dey_/how-i-deployed-a-dockerized-app-to-aws-using-terraform-and-github-actions-3nhg)
+- [Google Just Made Mobile Apps Obsolete? Meet Android XR-the Future of How We’ll Use Phones](https://dev.to/p_0c0278d/google-just-made-mobile-apps-obsolete-meet-android-xr-the-future-of-how-well-use-phones-3jc2)
+- [From Root to Anywhere: How React Portals Work](https://dev.to/dassameer07/from-root-to-anywhere-how-react-portals-work-563g)
+- [How I Accidentally Taught AI to Procrastinate](https://dev.to/resource_bunk_1077cab07da/how-i-accidentally-taught-ai-to-procrastinate-1gne)
+- [Top 7 Website Analytics Tools for May 2025](https://dev.to/litlyx/top-7-website-analytics-tools-for-may-2025-m72)
 <!-- BLOG-POST-LIST:END -->
 
 
