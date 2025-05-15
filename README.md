@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Installation d&#39;un système de gestion de version open source semblable à Git](https://dev.to/la_grcenkinki_0ae00d92f/installation-dun-systeme-de-gestion-de-version-open-source-semblable-a-git-151f)
-- [Besides True Parallelism and Big Data, esProc SPL’s Conciseness Leaves Python in the Dust](https://dev.to/serina_8340/besides-true-parallelism-and-big-data-esproc-spls-conciseness-leaves-python-in-the-dust-3dlo)
-- [📊 How to Become a Data Scientist from Scratch in 2025](https://dev.to/red9systech/how-to-become-a-data-scientist-from-scratch-in-2025-2602)
-- [How to Fix Invalid Go Version Error in Ignite CLI?](https://dev.to/generatecodedev/how-to-fix-invalid-go-version-error-in-ignite-cli-3jk4)
+- [Human Error – The Most Common Cybersecurity Mistakes for DevOps](https://dev.to/gitprotect/human-error-the-most-common-cybersecurity-mistakes-for-devops-216i)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-24ge)
+- [&quot;Postmodernism: Breaking All Rules&quot;](https://dev.to/khola_khan_d613dcca79975e/postmodernism-breaking-all-rules-4o6e)
+- [How to Read Data from Redis Slave Nodes Using Java?](https://dev.to/generatecodedev/how-to-read-data-from-redis-slave-nodes-using-java-8j8)
 <!-- BLOG-POST-LIST:END -->
 
 
