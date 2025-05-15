@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Daily, One Commit at a Time 🔁](https://dev.to/vinayakgote2730/building-daily-one-commit-at-a-time-19mk)
-- [How to Fix iOS App Stuck on Splash Screen in Flutter?](https://dev.to/generatecodedev/how-to-fix-ios-app-stuck-on-splash-screen-in-flutter-1if8)
-- [Deploying an MCP server on AWS](https://dev.to/alejofig/deploying-an-mcp-on-aws-497)
-- [What Is Linux](https://dev.to/rajaaaaa07_/what-is-linux-4d6o)
+- [Revolutionizing Database Interaction with NLMDB: Where Natural Language Meets Data](https://dev.to/rakshith2605/revolutionizing-database-interaction-with-nlmdb-where-natural-language-meets-data-425m)
+- [From Junior to Senior: Why Your Front-End Skills Need to Grow Beyond the Framework](https://dev.to/don_mizzy/from-junior-to-senior-why-your-front-end-skills-need-to-grow-beyond-the-framework-16ng)
+- [Cara memperbaiki error No subject alternative DNS name matching localhost found di WSO2 API Manager](https://dev.to/agusmerdeko/cara-memperbaiki-error-no-subject-alternative-dns-name-matching-localhost-found-di-wso2-api-manager-ekd)
+- [How to Implement Multiple Outputs in MATLAB FIS Code?](https://dev.to/generatecodedev/how-to-implement-multiple-outputs-in-matlab-fis-code-1d5g)
 <!-- BLOG-POST-LIST:END -->
 
 
