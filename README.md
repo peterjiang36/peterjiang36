@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go &amp; AES-GCM: A Security Deep Dive](https://dev.to/js402/go-aes-gcm-a-security-deep-dive-3ec8)
-- [A Professional Looking API](https://dev.to/georgopoulosgiannis/building-production-grade-apis-in-net-part-2-a-professional-looking-api-2d8)
-- [One-Click Deployment of n8n on Clawcloud Run: Build Enterprise-Grade Automation Workflows with Zero Code](https://dev.to/clawcloudrun/one-click-deployment-of-n8n-on-clawcloud-run-build-enterprise-grade-automation-workflows-with-zero-841)
-- [How to Use CLR Custom Aggregations in SQL with Reverse-Polish Notation?](https://dev.to/generatecodedev/how-to-use-clr-custom-aggregations-in-sql-with-reverse-polish-notation-in4)
+- [Avoiding N+1 Queries in Rails: Easy Performance Wins for Beginners](https://dev.to/rob__race/avoiding-n1-queries-in-rails-easy-performance-wins-for-beginners-4lim)
+- [Why Spring Is 8x Better Than Node &lpar;And No, That’s Not Up for Debate&rpar;](https://dev.to/domenico_sacino_a09e20c1b/why-spring-is-8x-better-than-node-and-no-thats-not-up-for-debate-31pm)
+- [Agentic AI vs. Generative AI vs. Agents](https://dev.to/ashishpatel546/agentic-ai-vs-generative-ai-vs-agents-53l4)
+- [MediatR + CQRS](https://dev.to/its_amandha/mediatr-cqrs-57cp)
 <!-- BLOG-POST-LIST:END -->
 
 
