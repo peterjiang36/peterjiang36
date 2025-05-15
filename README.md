@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TV&#39;s Next Revolution](https://dev.to/rawveg/tvs-next-revolution-3gnm)
-- [How to Fix Android Studio Plugin Issues After Updates?](https://dev.to/generatecodedev/how-to-fix-android-studio-plugin-issues-after-updates-5c57)
-- [Coding Polyglot](https://dev.to/timothy_97/coding-polyglot-ji5)
-- [How to Save Daily Log Files Using Tauri Framework in Rust?](https://dev.to/generatecodedev/how-to-save-daily-log-files-using-tauri-framework-in-rust-54ag)
+- [Warp custom theme setup](https://dev.to/karleeov/warp-custom-theme-setup-1hmh)
+- [How to Resolve Google API &#39;Not Authorized&#39; Error in Laravel](https://dev.to/generatecodedev/how-to-resolve-google-api-not-authorized-error-in-laravel-3f40)
+- [Unlock Your Coding Potential: How to Effectively Use Code Generate AI in 2025](https://dev.to/atforeveryoung/unlock-your-coding-potential-how-to-effectively-use-code-generate-ai-in-2025-44h7)
+- [Understanding the &quot;Object Literal May Only Specify Known Properties&quot; Error in React + TypeScript](https://dev.to/cristiansifuentes/understanding-the-object-literal-may-only-specify-known-properties-error-in-react-typescript-25f0)
 <!-- BLOG-POST-LIST:END -->
 
 
