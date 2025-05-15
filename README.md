@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TravelInsight: AI-Powered Real-Time Travel Deal Finder](https://dev.to/aniruddhaadak/travelinsight-ai-powered-real-time-travel-deal-finder-m4h)
-- [🐾 Setting Up the Raspberry Pi-Based IoT Cat Feeder &lpar;Day-27&rpar;](https://dev.to/rajpreet_gill_6272051bd31/setting-up-the-raspberry-pi-based-iot-cat-feeder-day-27-2638)
-- [Advancements in Computation and Language: A Synthesis of Cutting-Edge Research from May 2025 arXiv Publications](https://dev.to/khanali21/advancements-in-computation-and-language-a-synthesis-of-cutting-edge-research-from-may-2025-arxiv-ioi)
-- [How Drug Abuse Is Quietly Spreading Among Developers in 2025](https://dev.to/scofieldidehen/how-drug-abuse-is-quietly-spreading-among-developers-in-2025-333o)
+- [My opinion about Rails 8](https://dev.to/bdavidxyz/my-opinion-about-rails-8-6af)
+- [Why Should You Choose Renting Cloud GPU?](https://dev.to/runcai/why-should-you-choose-renting-cloud-gpu-a6h)
+- [Python Tutorial Unleashed: Learn Fast, Build Faster](https://dev.to/tpointtechblog/python-tutorial-unleashed-learn-fast-build-faster-3ke6)
+- [Does HashSet Overwrite Elements or Leave Them Unchanged?](https://dev.to/generatecodedev/does-hashset-overwrite-elements-or-leave-them-unchanged-1o4o)
 <!-- BLOG-POST-LIST:END -->
 
 
