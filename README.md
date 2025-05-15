@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Organizational Immunosuppressants](https://dev.to/linkbenjamin/organizational-immunosuppressants-228h)
-- [Creating Declarative APIs with Class Decorators in Python](https://dev.to/hevalhazalkurt/creating-declarative-apis-with-class-decorators-in-python-333d)
-- [Qubetics Presale Booms as Cross-Border Solution](https://dev.to/theblockverse/qubetics-presale-booms-as-cross-border-solution-554j)
-- [Install Cockpit on your Amazon EC2 Instance](https://dev.to/joseph_muteba_2ef562b2872/install-cockpit-on-your-amazon-ec2-instance-24l8)
+- [Why is Resource and Team Management important in project success?](https://dev.to/writegenic/why-is-resource-and-team-management-important-in-project-success-1d2o)
+- [Ultimate Guide to Cracking the Cisco OA in 2025](https://dev.to/net_programhelp_e160eef28/ultimate-guide-to-cracking-the-cisco-oa-in-2025-1ddl)
+- [How to Create a Custom Caret Cursor for Ace Editor](https://dev.to/generatecodedev/how-to-create-a-custom-caret-cursor-for-ace-editor-2fa3)
+- [Getting Started with Node.js: A Step-by-Step Tutorial](https://dev.to/tpointtechadu/getting-started-with-nodejs-a-step-by-step-tutorial-4i7h)
 <!-- BLOG-POST-LIST:END -->
 
 
