@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My opinion about Rails 8](https://dev.to/bdavidxyz/my-opinion-about-rails-8-6af)
-- [Why Should You Choose Renting Cloud GPU?](https://dev.to/runcai/why-should-you-choose-renting-cloud-gpu-a6h)
-- [Python Tutorial Unleashed: Learn Fast, Build Faster](https://dev.to/tpointtechblog/python-tutorial-unleashed-learn-fast-build-faster-3ke6)
-- [Does HashSet Overwrite Elements or Leave Them Unchanged?](https://dev.to/generatecodedev/does-hashset-overwrite-elements-or-leave-them-unchanged-1o4o)
+- [Installation d&#39;un système de gestion de version open source semblable à Git](https://dev.to/la_grcenkinki_0ae00d92f/installation-dun-systeme-de-gestion-de-version-open-source-semblable-a-git-151f)
+- [Besides True Parallelism and Big Data, esProc SPL’s Conciseness Leaves Python in the Dust](https://dev.to/serina_8340/besides-true-parallelism-and-big-data-esproc-spls-conciseness-leaves-python-in-the-dust-3dlo)
+- [📊 How to Become a Data Scientist from Scratch in 2025](https://dev.to/red9systech/how-to-become-a-data-scientist-from-scratch-in-2025-2602)
+- [How to Fix Invalid Go Version Error in Ignite CLI?](https://dev.to/generatecodedev/how-to-fix-invalid-go-version-error-in-ignite-cli-3jk4)
 <!-- BLOG-POST-LIST:END -->
 
 
