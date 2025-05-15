@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Resource and Team Management important in project success?](https://dev.to/writegenic/why-is-resource-and-team-management-important-in-project-success-1d2o)
-- [Ultimate Guide to Cracking the Cisco OA in 2025](https://dev.to/net_programhelp_e160eef28/ultimate-guide-to-cracking-the-cisco-oa-in-2025-1ddl)
-- [How to Create a Custom Caret Cursor for Ace Editor](https://dev.to/generatecodedev/how-to-create-a-custom-caret-cursor-for-ace-editor-2fa3)
-- [Getting Started with Node.js: A Step-by-Step Tutorial](https://dev.to/tpointtechadu/getting-started-with-nodejs-a-step-by-step-tutorial-4i7h)
+- [🔍 What If You Could Build More Secure Code by Learning to Break It First?](https://dev.to/techbrain3/what-if-you-could-build-more-secure-code-by-learning-to-break-it-first-4hd)
+- [The Hidden Truth Behind Movie Piracy: A Developer’s Realization](https://dev.to/raajaryan/the-hidden-truth-behind-movie-piracy-a-developers-realization-1kb0)
+- [How to Fix &#39;sjs is not defined&#39; Error in JavaScript?](https://dev.to/generatecodedev/how-to-fix-sjs-is-not-defined-error-in-javascript-11i6)
+- [A CRUD API with Go, using the Gin framework and MongoDB.](https://dev.to/negin/a-crud-api-with-go-using-the-gin-framework-and-mongodb-379e)
 <!-- BLOG-POST-LIST:END -->
 
 
