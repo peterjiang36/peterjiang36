@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Just Made Mobile Apps Obsolete? Meet Android XR-the Future of How We’ll Use Phones](https://dev.to/p_0c0278d/google-just-made-mobile-apps-obsolete-meet-android-xr-the-future-of-how-well-use-phones-3jc2)
-- [From Root to Anywhere: How React Portals Work](https://dev.to/dassameer07/from-root-to-anywhere-how-react-portals-work-563g)
-- [How I Accidentally Taught AI to Procrastinate](https://dev.to/resource_bunk_1077cab07da/how-i-accidentally-taught-ai-to-procrastinate-1gne)
-- [Top 7 Website Analytics Tools for May 2025](https://dev.to/litlyx/top-7-website-analytics-tools-for-may-2025-m72)
+- [Demystifying RAG 🔍: Retrieval-Augmented Generation Explained](https://dev.to/esthernaisimoi/demystifying-rag-retrieval-augmented-generation-explained-5ed5)
+- [Over the air &lpar;OTA&rpar; update using Revopush in react native](https://dev.to/asim_mehmood_275a2236b23e/over-the-air-ota-update-using-revopush-in-react-native-2h3f)
+- [Unveiling Open Hardware License: A Comprehensive Exploration of Open Source Hardware Licensing, Applications, and Future Trends](https://dev.to/kallileiser/unveiling-open-hardware-license-a-comprehensive-exploration-of-open-source-hardware-licensing-1cl8)
+- [How to Manage State with Flutter Bloc and Cubit for Todos?](https://dev.to/generatecodedev/how-to-manage-state-with-flutter-bloc-and-cubit-for-todos-3jmg)
 <!-- BLOG-POST-LIST:END -->
 
 
