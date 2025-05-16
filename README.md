@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-World Asset Tokenization: Introduction](https://dev.to/vadym_info_polus/real-world-asset-tokenization-introduction-cif)
-- [Smart In-Store Clothing Assistant – From Style Query to Shelf Location](https://dev.to/mathur-nitish/smart-in-store-clothing-assistant-from-style-query-to-shelf-location-4594)
-- [You can replace popular frameworks using these methods! 🔥](https://dev.to/anthonymax/you-can-replace-popular-frameworks-using-these-methods-lej)
-- [What I Learned from Lean Manufacturing Training!](https://dev.to/fardinrahman/what-i-learned-from-lean-manufacturing-training-23mj)
+- [AI in Animation](https://dev.to/rawveg/ai-in-animation-1pjj)
+- [Why Every Student Should Build a Personal Website?](https://dev.to/fardinrahman/why-every-student-should-build-a-personal-website-jj8)
+- [Mastering React Advanced Hooks with TypeScript: Simulating a Dynamic Equation System](https://dev.to/cristiansifuentes/mastering-react-advanced-hooks-with-typescript-simulating-a-dynamic-equation-system-2mp)
+- [Unveiling the Cooperative Commons License: A Holistic Overview of Fair Code, Dual Licensing, and Future Trends](https://dev.to/jennythomas498/unveiling-the-cooperative-commons-license-a-holistic-overview-of-fair-code-dual-licensing-and-3ekp)
 <!-- BLOG-POST-LIST:END -->
 
 
