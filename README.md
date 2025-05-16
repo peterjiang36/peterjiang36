@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
-- [Seasonal Heroes: Initial Looks](https://dev.to/macglencoe/seasonal-heroes-initial-looks-47ad)
-- [Tired of Choppy Videos? Here’s How to Smooth Them with Higher FPS &lpar;No Reshoot Needed&rpar;](https://dev.to/harper_seven_bcbbdc48c218/tired-of-choppy-videos-heres-how-to-smooth-them-with-higher-fps-no-reshoot-needed-417h)
-- [Entendendo SQL: Comandos Principais e Diferença com NoSQL](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-sql-comandos-principais-e-diferenca-com-nosql-3n0o)
+- [Exploring the Latest JavaScript Features in ESNext](https://dev.to/hasunnilupul/exploring-the-latest-javascript-features-in-esnext-2a8g)
+- [Spring Security: Lock Down Your APIs](https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-27o7)
+- [You can organize your dependencies in a better way!](https://dev.to/urbanisierung/you-can-organize-your-dependencies-in-a-better-way-59jd)
 <!-- BLOG-POST-LIST:END -->
 
 
