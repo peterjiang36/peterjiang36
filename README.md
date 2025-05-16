@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous builders in Flutter: Analyzing FutureBuilder and StreamBuilder](https://dev.to/vlopess/asynchronous-builders-in-flutter-analyzing-futurebuilder-and-streambuilder-2hko)
-- [Introducing BlazeJob: A TypeScript Task Scheduler for Node.js 🚀](https://dev.to/novathemachine/introducing-blazejob-a-typescript-task-scheduler-for-nodejs-3ok8)
-- [Beginner-Friendly HTML Courses You Can Take for Free in 2025](https://dev.to/srdan_borovi_584c6b1d773/beginner-friendly-html-courses-you-can-take-for-free-in-2025-1i10)
-- [No-Code Game Development: Using AI to Build Your First Game](https://dev.to/srdan_borovi_584c6b1d773/no-code-game-development-using-ai-to-build-your-first-game-1k17)
+- [Launch of: Open Workout Spots](https://dev.to/igarridosi/launch-of-open-workout-spots-3b91)
+- [.NET Digest #7](https://dev.to/pvsdev/net-digest-7-255a)
+- [Do You Really Know What&#39;s Inside Your Object? Or Are You Just Trusting for...in?](https://dev.to/werliton/do-you-really-know-whats-inside-your-object-or-are-you-just-trusting-forin-38ci)
+- [5 Developer Pain Points Solved by Internal Developer Platforms](https://dev.to/gerimate/5-developer-pain-points-solved-by-internal-developer-platforms-1bd6)
 <!-- BLOG-POST-LIST:END -->
 
 
