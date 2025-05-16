@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Still paying full price for AWS? Kuberns helps you save 40% and deploy apps without Developer efforts](https://dev.to/jevin/still-paying-full-price-for-aws-kuberns-helps-you-save-40-and-deploy-apps-without-developer-2n32)
-- [Why I Don&#39;t Use WordPress Anymore &lpar;And What I Built Instead&rpar;](https://dev.to/sajjadakbari/why-i-dont-use-wordpress-anymore-and-what-i-built-instead-eb4)
-- [🛠️ Weekly Dev Recap – Automation, File Chaos &amp; A Laptop Crying for Help](https://dev.to/c_d_a7c10b4d6f6aa68be7495/weekly-dev-recap-automation-file-chaos-a-laptop-crying-for-help-5f88)
-- [CForge – A Modern C++ Build System](https://dev.to/chase_sunstrom/cforge-a-modern-c-build-system-174j)
+- [Passing the Vibe Check: Navigating the changing development landscape](https://dev.to/lizzzzz/passing-the-vibe-check-navigating-the-changing-development-landscape-939)
+- [Deploying LLMs on Amazon EKS using NVIDIA GPUs](https://dev.to/vijaykodam/deploying-llms-on-amazon-eks-using-nvidia-gpus-ooi)
+- [Step-by-step guide to implementing JWT Authentication in a Spring Boot application, in a clean, structured, and modular way](https://dev.to/rock_win_c053fa5fb2399067/step-by-step-guide-to-implementing-jwt-authentication-in-a-spring-boot-application-in-a-clean-ho1)
+- [Why Blockchain was developed ?](https://dev.to/ngneha09/why-blockchain-was-developed--3iom)
 <!-- BLOG-POST-LIST:END -->
 
 
