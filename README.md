@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Workflows Are the Future of Business Automation](https://dev.to/svalync/why-ai-workflows-are-the-future-of-business-automation-3p4p)
-- [TimeCraft: Simplificando Análise de Séries Temporais e Automação](https://dev.to/rafael_mori/timecraft-simplificando-analise-de-series-temporais-e-automacao-57gd)
-- [How I’m Earning $3,000 at 14 While Learning to Build SaaS Products](https://dev.to/khos_streks/how-im-earning-3000-at-14-while-learning-to-build-saas-products-4ph2)
-- [Brain4j: Wait, Java Finally Has a Brain?](https://dev.to/javafullstackdev/brain4j-wait-java-finally-has-a-brain-29a2)
+- [The Psychology of Brand Loyalty: What Makes Customers Stick?](https://dev.to/aditya-saasy/the-psychology-of-brand-loyalty-what-makes-customers-stick-3bdl)
+- [We Don’t Need More Apps -We Need Better Ones](https://dev.to/p_0c0278d/we-dont-need-more-apps-we-need-better-ones-1e9l)
+- [Implementing LDAP Authentication in ASP.NET Core and ASP.NET Zero](https://dev.to/hussein_zakizadeh_680f918/implementing-ldap-authentication-in-aspnet-core-and-aspnet-zero-45ki)
+- [Locking Down the Box: A Comprehensive Guide to Container Security Evaluation and Hardening](https://dev.to/naveens16/locking-down-the-box-a-comprehensive-guide-to-container-security-evaluation-and-hardening-1bkn)
 <!-- BLOG-POST-LIST:END -->
 
 
