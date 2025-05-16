@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How, When, and Why Top QA Engineers Use AI in Testing](https://dev.to/anil_csimplifyit_905c/how-when-and-why-top-qa-engineers-use-ai-in-testing-3036)
-- [🚀 The Unspoken Rules of Remote Work That Nobody Tells You](https://dev.to/codedbyvilen/the-unspoken-rules-of-remote-work-that-nobody-tells-you-5be4)
-- [Architecting Laravel for Scale: Battle-Tested Patterns for Clean Code &amp; High Performance &lpar;Part 2&rpar;](https://dev.to/prekshashah2509/architecting-laravel-for-scale-battle-tested-patterns-for-clean-code-high-performance-part-2-5gbl)
-- [How to Fix Active Page Not Updating in Google Tag Manager with Angular](https://dev.to/generatecodedev/how-to-fix-active-page-not-updating-in-google-tag-manager-with-angular-58no)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-aca)
+- [Seasonal Heroes: Initial Looks](https://dev.to/macglencoe/seasonal-heroes-initial-looks-47ad)
+- [Tired of Choppy Videos? Here’s How to Smooth Them with Higher FPS &lpar;No Reshoot Needed&rpar;](https://dev.to/harper_seven_bcbbdc48c218/tired-of-choppy-videos-heres-how-to-smooth-them-with-higher-fps-no-reshoot-needed-417h)
+- [Entendendo SQL: Comandos Principais e Diferença com NoSQL](https://dev.to/isaac_maciel_34b6d0db388f/entendendo-sql-comandos-principais-e-diferenca-com-nosql-3n0o)
 <!-- BLOG-POST-LIST:END -->
 
 
