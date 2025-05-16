@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ForgeMT: A Scalable, Secure Multi-Tenant GitHub Runner Platform at Cisco](https://dev.to/edersonbrilhante/forgemt-a-scalable-secure-multi-tenant-github-runner-platform-at-cisco-735)
-- [Outsell the Competition: How Smart Sales Teams Use AI](https://dev.to/array_platforms/outsell-the-competition-how-smart-sales-teams-use-ai-3n9p)
-- [Create a Dynamic List with JavaScript](https://dev.to/patricia1988hernandez2/create-a-dynamic-list-with-javascript-2ohe)
-- [Why You Need Application Security Guardrails for Cursor and Windsurf AI Agents](https://dev.to/clouddefenseai/why-you-need-application-security-guardrails-for-cursor-and-windsurf-ai-agents-4f47)
+- [Optimizing scopes data in ArkScript VM](https://dev.to/lexplt/optimizing-scopes-data-in-arkscript-vm-2b2n)
+- [Choosing A Distro](https://dev.to/rajaaaaa07_/choosing-a-distro-hif)
+- [What Is System Design in Hindi – System Design Kya Hai? Full Guide for Students](https://dev.to/vishalkumar1111/what-is-system-design-in-hindi-system-design-kya-hai-full-guide-for-students-40ab)
+- [5-Layer Windows Registry Anomaly Detection Using Python](https://dev.to/shreyas_void/5-layer-windows-registry-anomaly-detection-using-python-lfi)
 <!-- BLOG-POST-LIST:END -->
 
 
