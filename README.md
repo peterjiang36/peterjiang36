@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing scopes data in ArkScript VM](https://dev.to/lexplt/optimizing-scopes-data-in-arkscript-vm-2b2n)
-- [Choosing A Distro](https://dev.to/rajaaaaa07_/choosing-a-distro-hif)
-- [What Is System Design in Hindi – System Design Kya Hai? Full Guide for Students](https://dev.to/vishalkumar1111/what-is-system-design-in-hindi-system-design-kya-hai-full-guide-for-students-40ab)
-- [5-Layer Windows Registry Anomaly Detection Using Python](https://dev.to/shreyas_void/5-layer-windows-registry-anomaly-detection-using-python-lfi)
+- [Asynchronous builders in Flutter: Analyzing FutureBuilder and StreamBuilder](https://dev.to/vlopess/asynchronous-builders-in-flutter-analyzing-futurebuilder-and-streambuilder-2hko)
+- [Introducing BlazeJob: A TypeScript Task Scheduler for Node.js 🚀](https://dev.to/novathemachine/introducing-blazejob-a-typescript-task-scheduler-for-nodejs-3ok8)
+- [Beginner-Friendly HTML Courses You Can Take for Free in 2025](https://dev.to/srdan_borovi_584c6b1d773/beginner-friendly-html-courses-you-can-take-for-free-in-2025-1i10)
+- [No-Code Game Development: Using AI to Build Your First Game](https://dev.to/srdan_borovi_584c6b1d773/no-code-game-development-using-ai-to-build-your-first-game-1k17)
 <!-- BLOG-POST-LIST:END -->
 
 
