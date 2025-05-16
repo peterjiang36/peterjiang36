@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Actually how does work React Awesome framework Next.Js ?](https://dev.to/heyabdullahbruh/actually-how-does-work-react-awesome-framework-nextjs--3ogf)
-- [My coding complete](https://dev.to/saleem_rangrezz_6d9cd3803/my-coding-complete-215l)
-- [Product &amp; Catalog Management in OneEntry: Practical Tools for Scalable Projects](https://dev.to/oneentry/product-catalog-management-in-oneentry-practical-tools-for-scalable-projects-1e05)
-- [Converting Scanned Documents to Searchable PDFs](https://dev.to/revisepdf/converting-scanned-documents-to-searchable-pdfs-2dog)
+- [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
+- [AWS S3 File Upload With NodeJs and React](https://dev.to/arunez/aws-s3-file-upload-with-nodejs-and-react-4097)
+- [[Boost] Writing Clean, Secure Node.js APIs – A Checklist You’ll Actually Use ✅](https://dev.to/gnrlbzik/-54i)
+- [Advanced Pod Scheduling in Kubernetes: Leveraging Affinity and Anti-Affinity](https://dev.to/kapusto/advanced-pod-scheduling-in-kubernetes-leveraging-affinity-and-anti-affinity-402a)
 <!-- BLOG-POST-LIST:END -->
 
 
