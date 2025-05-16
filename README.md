@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [But how does torrenting actually work?](https://dev.to/kurealnum/but-how-does-torrenting-actually-work-5hlf)
-- [Project of the Week: HedgeDoc 🦔](https://dev.to/pullflow/project-of-the-week-hedgedoc-19on)
-- [Why Your App Breaks and Hackers Laugh: A Real Talk on HTTP](https://dev.to/c_d_a7c10b4d6f6aa68be7495/why-your-app-breaks-and-hackers-laugh-a-real-talk-on-http-4b0)
-- [Try the new Secure Session Vault](https://dev.to/ethernmyth/try-the-new-secure-session-vault-5b01)
+- [Still paying full price for AWS? Kuberns helps you save 40% and deploy apps without Developer efforts](https://dev.to/jevin/still-paying-full-price-for-aws-kuberns-helps-you-save-40-and-deploy-apps-without-developer-2n32)
+- [Why I Don&#39;t Use WordPress Anymore &lpar;And What I Built Instead&rpar;](https://dev.to/sajjadakbari/why-i-dont-use-wordpress-anymore-and-what-i-built-instead-eb4)
+- [🛠️ Weekly Dev Recap – Automation, File Chaos &amp; A Laptop Crying for Help](https://dev.to/c_d_a7c10b4d6f6aa68be7495/weekly-dev-recap-automation-file-chaos-a-laptop-crying-for-help-5f88)
+- [CForge – A Modern C++ Build System](https://dev.to/chase_sunstrom/cforge-a-modern-c-build-system-174j)
 <!-- BLOG-POST-LIST:END -->
 
 
