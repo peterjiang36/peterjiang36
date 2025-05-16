@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
-- [AWS S3 File Upload With NodeJs and React](https://dev.to/arunez/aws-s3-file-upload-with-nodejs-and-react-4097)
-- [[Boost] Writing Clean, Secure Node.js APIs – A Checklist You’ll Actually Use ✅](https://dev.to/gnrlbzik/-54i)
-- [Advanced Pod Scheduling in Kubernetes: Leveraging Affinity and Anti-Affinity](https://dev.to/kapusto/advanced-pod-scheduling-in-kubernetes-leveraging-affinity-and-anti-affinity-402a)
+- [Analyzing V8’s Hidden Classes for Performance Insights](https://dev.to/omriluz1/analyzing-v8s-hidden-classes-for-performance-insights-3fhk)
+- [“Calculus, Code, and the Quiet Art of Understanding Change”](https://dev.to/mahi96/calculus-code-and-the-quiet-art-of-understanding-change-644)
+- [Day 27 of Coding](https://dev.to/harshvdev/day-27-of-coding-3j6h)
+- [Boosting Linux Kernel Security: Lockdown Mode, Self-Protection &amp; Outsmarting Exploits](https://dev.to/marzena_pugo_b8978575380f/boosting-linux-kernel-security-lockdown-mode-self-protection-outsmarting-exploits-25aa)
 <!-- BLOG-POST-LIST:END -->
 
 
