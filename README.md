@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch of: Open Workout Spots](https://dev.to/igarridosi/launch-of-open-workout-spots-3b91)
-- [.NET Digest #7](https://dev.to/pvsdev/net-digest-7-255a)
-- [Do You Really Know What&#39;s Inside Your Object? Or Are You Just Trusting for...in?](https://dev.to/werliton/do-you-really-know-whats-inside-your-object-or-are-you-just-trusting-forin-38ci)
-- [5 Developer Pain Points Solved by Internal Developer Platforms](https://dev.to/gerimate/5-developer-pain-points-solved-by-internal-developer-platforms-1bd6)
+- [FinOps Optimization: Reducing AWS Bills Through Automated EC2 Shutdowns](https://dev.to/philippe_borribo/finops-optimization-reducing-aws-bills-through-automated-ec2-shutdowns-1d9e)
+- [💡 Fixing Chrome’s Autofill Styles with Custom CSS](https://dev.to/pawar-shivam7/fixing-chromes-autofill-styles-with-custom-css-2bhn)
+- [Migrating to Self-Hosted 3scale API Management on ROSA: A Kubernetes Journey](https://dev.to/clarizalooktech/migrating-to-self-hosted-3scale-api-management-on-rosa-a-kubernetes-journey-3ele)
+- [WordPress Roles &amp; Capabilities: A Practical Guide](https://dev.to/farhan-developer/wordpress-roles-capabilities-a-practical-guide-3ach)
 <!-- BLOG-POST-LIST:END -->
 
 
