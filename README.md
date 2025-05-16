@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarting a .NET Solution from Scratch with the CLI](https://dev.to/georgekobaidze/kickstarting-a-net-solution-from-scratch-with-the-cli-1m97)
-- [Automating My Docker Apache Server with Python](https://dev.to/vvakim/automating-my-docker-apache-server-with-python-2mo3)
-- [Why Doesn&#39;t My Android Device Show Up in IntelliJ IDEA?](https://dev.to/generatecodedev/why-doesnt-my-android-device-show-up-in-intellij-idea-4jjc)
-- [Why Developers Seek an Auth0 Alternative](https://dev.to/deepakgupta/why-developers-seek-an-auth0-alternative-253b)
+- [Understanding RBAC in ArgoCD: ConfigMap vs AppProject](https://dev.to/generatecodedev/understanding-rbac-in-argocd-configmap-vs-appproject-mkn)
+- [Unlocking Innovation: How to Use AI to Generate Code Effortlessly in 2025](https://dev.to/atforeveryoung/unlocking-innovation-how-to-use-ai-to-generate-code-effortlessly-in-2025-2del)
+- [End-to-End DevOps: Running a .NET App in Kubernetes with Docker, ACR, and AKS](https://dev.to/olalekan_oladiran_d74b7a6/end-to-end-devops-running-a-net-app-in-kubernetes-with-docker-acr-and-aks-32jj)
+- [Building a Scalable Real-Time Driver Tracking System](https://dev.to/codexam/building-a-scalable-real-time-driver-tracking-system-26ei)
 <!-- BLOG-POST-LIST:END -->
 
 
