@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing the Vibe Check: Navigating the changing development landscape](https://dev.to/lizzzzz/passing-the-vibe-check-navigating-the-changing-development-landscape-939)
-- [Deploying LLMs on Amazon EKS using NVIDIA GPUs](https://dev.to/vijaykodam/deploying-llms-on-amazon-eks-using-nvidia-gpus-ooi)
-- [Step-by-step guide to implementing JWT Authentication in a Spring Boot application, in a clean, structured, and modular way](https://dev.to/rock_win_c053fa5fb2399067/step-by-step-guide-to-implementing-jwt-authentication-in-a-spring-boot-application-in-a-clean-ho1)
-- [Why Blockchain was developed ?](https://dev.to/ngneha09/why-blockchain-was-developed--3iom)
+- [Actually how does work React Awesome framework Next.Js ?](https://dev.to/heyabdullahbruh/actually-how-does-work-react-awesome-framework-nextjs--3ogf)
+- [My coding complete](https://dev.to/saleem_rangrezz_6d9cd3803/my-coding-complete-215l)
+- [Product &amp; Catalog Management in OneEntry: Practical Tools for Scalable Projects](https://dev.to/oneentry/product-catalog-management-in-oneentry-practical-tools-for-scalable-projects-1e05)
+- [Converting Scanned Documents to Searchable PDFs](https://dev.to/revisepdf/converting-scanned-documents-to-searchable-pdfs-2dog)
 <!-- BLOG-POST-LIST:END -->
 
 
