@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Brand Loyalty: What Makes Customers Stick?](https://dev.to/aditya-saasy/the-psychology-of-brand-loyalty-what-makes-customers-stick-3bdl)
-- [We Don’t Need More Apps -We Need Better Ones](https://dev.to/p_0c0278d/we-dont-need-more-apps-we-need-better-ones-1e9l)
-- [Implementing LDAP Authentication in ASP.NET Core and ASP.NET Zero](https://dev.to/hussein_zakizadeh_680f918/implementing-ldap-authentication-in-aspnet-core-and-aspnet-zero-45ki)
-- [Locking Down the Box: A Comprehensive Guide to Container Security Evaluation and Hardening](https://dev.to/naveens16/locking-down-the-box-a-comprehensive-guide-to-container-security-evaluation-and-hardening-1bkn)
+- [Event-Driven Architecture vs. Event Sourcing: Clarifying the Differences](https://dev.to/actor-dev/eventing-sourcing-and-event-driven-3lc1)
+- [Arquitetura Orientada a Eventos vs Event Sourcing: Entendendo as Diferenças](https://dev.to/actor-dev/eda-vs-event-sourcing-entendendo-as-diferencas-27bc)
+- [Set It. Test It. Break It. This WAF Actually Fights Back.](https://dev.to/sharon_42e16b8da44dabde6d/set-it-test-it-break-it-this-waf-actually-fights-back-afp)
+- [Mastering Design Patterns in JavaScript: A Developer&#39;s Guide](https://dev.to/zeeshanali0704/mastering-design-patterns-in-javascript-a-developers-guide-2nkp)
 <!-- BLOG-POST-LIST:END -->
 
 
