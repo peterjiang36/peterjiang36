@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding *temp and &amp;temp in C++ with strtol](https://dev.to/generatecodedev/understanding-temp-and-temp-in-c-with-strtol-lh5)
-- [5 SQL Queries Everyone Should Know](https://dev.to/bakingbad/5-sql-queries-everyone-should-know-4n9i)
-- [Avoiding nil errors](https://dev.to/kwstannard/avoiding-nil-errors-hjf)
-- [Web Mimarisi: Geleceğin Tasarımı](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecegin-tasarimi-23bj)
+- [Supercharging Databricks Asset Bundles](https://dev.to/sacode/supercharging-databricks-asset-bundles-18ga)
+- [🛠️ Debugging AOSP System Software Memory Leaks Using LeakCanary](https://dev.to/nikheelvs/debugging-aosp-system-software-memory-leaks-using-leakcanary-5gph)
+- [Account Permission Delegation - QA Test Report](https://dev.to/sgramkumar/account-permission-delegation-qa-test-report-3j69)
+- [How I finally got my apps to make money](https://dev.to/pixelswithin/how-i-finally-got-my-apps-to-make-money-20f5)
 <!-- BLOG-POST-LIST:END -->
 
 
