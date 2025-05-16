@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FinOps Optimization: Reducing AWS Bills Through Automated EC2 Shutdowns](https://dev.to/philippe_borribo/finops-optimization-reducing-aws-bills-through-automated-ec2-shutdowns-1d9e)
-- [💡 Fixing Chrome’s Autofill Styles with Custom CSS](https://dev.to/pawar-shivam7/fixing-chromes-autofill-styles-with-custom-css-2bhn)
-- [Migrating to Self-Hosted 3scale API Management on ROSA: A Kubernetes Journey](https://dev.to/clarizalooktech/migrating-to-self-hosted-3scale-api-management-on-rosa-a-kubernetes-journey-3ele)
-- [WordPress Roles &amp; Capabilities: A Practical Guide](https://dev.to/farhan-developer/wordpress-roles-capabilities-a-practical-guide-3ach)
+- [[Hack] PicoCTF: Low Level Binary Intro - Intro to Debuggers](https://dev.to/falme/hack-picoctf-low-level-binary-intro-intro-to-debuggers-3jd7)
+- [🚀 Build an Infinite Scroll App in React like a Pro](https://dev.to/vishalthapaliya/build-an-infinite-scroll-app-in-react-like-a-pro-9je)
+- [How to Set Up CI/CD for a Python Backend Application on Fly.io Using GitHub Actions](https://dev.to/ephraimx/how-to-set-up-cicd-for-a-python-backend-application-on-flyio-using-github-actions-1f09)
+- [Diary of an Elm Developer - Lazy L-System generation](https://dev.to/dwayne/diary-of-an-elm-developer-lazy-l-system-generation-2k7j)
 <!-- BLOG-POST-LIST:END -->
 
 
