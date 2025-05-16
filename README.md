@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture vs. Event Sourcing: Clarifying the Differences](https://dev.to/actor-dev/eventing-sourcing-and-event-driven-3lc1)
-- [Arquitetura Orientada a Eventos vs Event Sourcing: Entendendo as Diferenças](https://dev.to/actor-dev/eda-vs-event-sourcing-entendendo-as-diferencas-27bc)
-- [Set It. Test It. Break It. This WAF Actually Fights Back.](https://dev.to/sharon_42e16b8da44dabde6d/set-it-test-it-break-it-this-waf-actually-fights-back-afp)
-- [Mastering Design Patterns in JavaScript: A Developer&#39;s Guide](https://dev.to/zeeshanali0704/mastering-design-patterns-in-javascript-a-developers-guide-2nkp)
+- [ForgeMT: A Scalable, Secure Multi-Tenant GitHub Runner Platform at Cisco](https://dev.to/edersonbrilhante/forgemt-a-scalable-secure-multi-tenant-github-runner-platform-at-cisco-735)
+- [Outsell the Competition: How Smart Sales Teams Use AI](https://dev.to/array_platforms/outsell-the-competition-how-smart-sales-teams-use-ai-3n9p)
+- [Create a Dynamic List with JavaScript](https://dev.to/patricia1988hernandez2/create-a-dynamic-list-with-javascript-2ohe)
+- [Why You Need Application Security Guardrails for Cursor and Windsurf AI Agents](https://dev.to/clouddefenseai/why-you-need-application-security-guardrails-for-cursor-and-windsurf-ai-agents-4f47)
 <!-- BLOG-POST-LIST:END -->
 
 
