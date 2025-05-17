@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A ilusão da escolha: como a interface guia decisões 🧠🎯](https://dev.to/alissonfcosta/a-ilusao-da-escolha-como-a-interface-guia-decisoes-f5i)
-- [Understanding Postfix Mail Server Setup for Beginners](https://dev.to/techwithhari/understanding-postfix-mail-server-setup-for-beginners-58pl)
-- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://dev.to/tutti/dualrag-a-dual-process-approach-to-integrate-reasoning-and-retrieval-for-multi-hop-question-411j)
-- [◼️6/100 Block-by-Block: DAO governance data](https://dev.to/nocibambi/6100-block-by-block-dao-governance-data-325n)
+- [💾 Databases — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/databases-explained-like-youre-5-but-smarter-25dk)
+- [Instruction source location tracking in ArkScript](https://dev.to/lexplt/instruction-source-location-tracking-in-arkscript-a89)
+- [I QUIT](https://dev.to/mince/i-quit-2ifc)
+- [5 levels of handling images in Laravel](https://dev.to/sharifcse58/5-levels-of-handling-images-in-laravel-3lj7)
 <!-- BLOG-POST-LIST:END -->
 
 
