@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration of AI in Customer Support Services](https://dev.to/bridgegroupsolutions/integration-of-ai-in-customer-support-services-189e)
-- [Main differences between ReactJS and VueJS, in my opinion](https://dev.to/rem0nfawzi/main-differences-between-reactjs-and-vuejs-in-my-opinion-178a)
-- [Always on Reactjs Application.](https://dev.to/nabilfsd/always-on-reactjs-application-2i33)
-- [🚀Introducing Zenoa AI: A Free, Unlimited Text-to-Image Generator](https://dev.to/sumit_singh_rathore/introducing-zenoa-ai-a-free-unlimited-text-to-image-generator-51je)
+- [Why the Future of AI Note Taking is Local, Offline, and Open Source: Taking Back Control of Your Meeting Data](https://dev.to/zackriya/why-the-future-of-ai-note-taking-is-local-offline-and-open-source-taking-back-control-of-your-5bnc)
+- [Building a Cloud-Native S3 Honeypot Detection Pipeline on AWS](https://dev.to/casualweightlifter54/building-a-cloud-native-s3-honeypot-detection-pipeline-on-aws-17o8)
+- [Breaking Up With ORMs – Part One: Reclaiming Control with Custom SQL Adapters](https://dev.to/sogweb/breaking-up-with-orms-part-one-reclaiming-control-with-custom-sql-adapters-1gh7)
+- [`*` iterable unpacking for Python function](https://dev.to/hyperkai/-iterable-unpacking-for-python-function-5hn1)
 <!-- BLOG-POST-LIST:END -->
 
 
