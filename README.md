@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Show us your open-source project](https://dev.to/litlyx/show-us-your-open-source-project-9mn)
-- [From Idea to Code: How to Build What’s in Your Mind &lpar;Without Giving Up&rpar;](https://dev.to/jliter/from-idea-to-code-how-to-build-whats-in-your-mind-without-giving-up-54bl)
-- [Top Reasons to Outsource Image Annotation for Machine Learning](https://dev.to/hitechdigital/top-reasons-to-outsource-image-annotation-for-machine-learning-25ok)
-- [Заменят ли нас нейросети?](https://dev.to/kopylov_vlad/zamieniat-li-nas-nieirosieti-56n7)
+- [🚀 Hire a PHP Laravel Developer to Build Scalable Web Apps, Admin Panels, and DApps – 7+ Years of Experience](https://dev.to/surendergupta/hire-a-php-laravel-developer-to-build-scalable-web-apps-admin-panels-and-dapps-7-years-of-4d05)
+- [Single Responsibility Principle in Java](https://dev.to/noel_kamphoa_e688aece0725/single-responsibility-principle-in-java-4bko)
+- [Building Better Interfaces: My Journey from &quot;Functional&quot; to Polished UI in Java Swing](https://dev.to/alireza_minagar_99f01ecb6/building-better-interfaces-my-journey-from-functional-to-polished-ui-in-java-swing-4djp)
+- [Speed vs Simplicity: Choosing the Right Cache](https://dev.to/rhaqim/speed-vs-simplicity-choosing-the-right-cache-1jac)
 <!-- BLOG-POST-LIST:END -->
 
 
