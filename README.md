@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Animation](https://dev.to/rawveg/ai-in-animation-1pjj)
-- [Why Every Student Should Build a Personal Website?](https://dev.to/fardinrahman/why-every-student-should-build-a-personal-website-jj8)
-- [Mastering React Advanced Hooks with TypeScript: Simulating a Dynamic Equation System](https://dev.to/cristiansifuentes/mastering-react-advanced-hooks-with-typescript-simulating-a-dynamic-equation-system-2mp)
-- [Unveiling the Cooperative Commons License: A Holistic Overview of Fair Code, Dual Licensing, and Future Trends](https://dev.to/jennythomas498/unveiling-the-cooperative-commons-license-a-holistic-overview-of-fair-code-dual-licensing-and-3ekp)
+- [New Heroes](https://dev.to/macglencoe/new-heroes-253o)
+- [Writing Maintainable ETL Code: Empowering Support and Avoiding Knowledge Silo](https://dev.to/govind_joshi/writing-maintainable-etl-code-empowering-support-and-avoiding-knowledge-silo-imc)
+- [You Are the Stack](https://dev.to/tonystpierre/you-are-the-stack-ilf)
+- [Unveiling European Union Public Licence 1.1: A Comprehensive Overview and Future Outlook](https://dev.to/ashucommits/unveiling-european-union-public-licence-11-a-comprehensive-overview-and-future-outlook-51eh)
 <!-- BLOG-POST-LIST:END -->
 
 
