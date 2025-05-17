@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping YouTube Channel Data Using Python – No API Needed!](https://dev.to/subhan_ali_98aee435d4dfe3/scraping-youtube-channel-data-using-python-no-api-needed-1g0j)
-- [10 Mind-Blowing Ways AI is Revolutionizing Design Conversion in 2025](https://dev.to/atforeveryoung/10-mind-blowing-ways-ai-is-revolutionizing-design-conversion-in-2025-5gm4)
-- [👥 Cloud Identity and Access Management &lpar;IAM&rpar; 🔓](https://dev.to/madhurima_rawat/cloud-identity-and-access-management-iam-696)
-- [Laravel vs MERN which one is better](https://dev.to/codeliner/laravel-vs-mern-which-one-is-better-3kap)
+- [A ilusão da escolha: como a interface guia decisões 🧠🎯](https://dev.to/alissonfcosta/a-ilusao-da-escolha-como-a-interface-guia-decisoes-f5i)
+- [Understanding Postfix Mail Server Setup for Beginners](https://dev.to/techwithhari/understanding-postfix-mail-server-setup-for-beginners-58pl)
+- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://dev.to/tutti/dualrag-a-dual-process-approach-to-integrate-reasoning-and-retrieval-for-multi-hop-question-411j)
+- [◼️6/100 Block-by-Block: DAO governance data](https://dev.to/nocibambi/6100-block-by-block-dao-governance-data-325n)
 <!-- BLOG-POST-LIST:END -->
 
 
