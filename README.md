@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use ChatGPT to Plan Features as a Frontend Developer &lpar;And Where It Falls Short&rpar;](https://dev.to/hobaaaa/how-i-use-chatgpt-to-plan-features-as-a-frontend-developer-and-where-it-falls-short-232n)
-- [Alibaba Qwen 3 is a web developer&#39;s dream, Google AlphaEvolve literally thinks different, Meta&#39;s 3D avatar generator, and more](https://dev.to/thisweekinaiengineering/alibaba-qwen-3-is-a-web-developers-dream-google-alphaevolve-literally-thinks-different-metas-3d-337h)
-- [2.3 ARCHITECTURES VERSUS MIDDLEWARE](https://dev.to/dima853/23-architectures-versus-middleware-55op)
-- [Character Showcase Gallery](https://dev.to/preetha_vaishnavi_2b82358/character-showcase-gallery-2k10)
+- [Advanced Use Cases for Proxy in Data Validation](https://dev.to/omriluz1/advanced-use-cases-for-proxy-in-data-validation-2495)
+- [Day 6 – “Where Did It Go?!” | Mastering the find, head, tail, and wc Commands in RHEL 9](https://dev.to/higgs182092/day-6-where-did-it-go-mastering-the-find-head-tail-and-wc-commands-in-rhel-9-2mgk)
+- [Infraestrutura como Código não é uma escolha técnica. É uma questão de sobrevivência estratégica.](https://dev.to/igoraraujo/infraestrutura-como-codigo-nao-e-uma-escolha-tecnica-e-uma-questao-de-sobrevivencia-estrategica-4a76)
+- [Vue.js Interview Questions and Answers](https://dev.to/ahmed_niazy/vuejs-interview-questions-and-answers-2hjj)
 <!-- BLOG-POST-LIST:END -->
 
 
