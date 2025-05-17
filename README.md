@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Journey: Day 1 - Day 14](https://dev.to/edwardcjianken/coding-journey-day-1-day-14-1lh1)
-- [🚀 Supercharge Your App with Redis: Caching, Queues &amp; Real-Time Power 🔥](https://dev.to/bitthal47/supercharge-your-app-with-redis-caching-queues-real-time-power-99e)
-- [Machine Learning Tutorial: Your First Guide to AI Concepts](https://dev.to/tpointtech/machine-learning-tutorial-your-first-guide-to-ai-concepts-49ep)
-- [How to Use OpenZeppelin Contracts in StarkNet with Cairo: A Practical Example](https://dev.to/aditya-alchemist/how-to-use-openzeppelin-contracts-in-starknet-with-cairo-a-practical-example-59fg)
+- [Pandas vs Polars in 2025: Who Wins the Data Speed Race?](https://dev.to/aleksei_aleinikov/pandas-vs-polars-in-2025-who-wins-the-data-speed-race-4h38)
+- [Async I/O + CPU Tasks in 2025: Keep the Loop Fast and Cores Busy](https://dev.to/aleksei_aleinikov/async-io-cpu-tasks-in-2025-keep-the-loop-fast-and-cores-busy-2llc)
+- [Django ORM vs Raw SQL in 2025: When to Drop Down and Why](https://dev.to/aleksei_aleinikov/django-orm-vs-raw-sql-in-2025-when-to-drop-down-and-why-1b76)
+- [🧠 Launch AI Agents in 2025 With LangChain &lpar;No PhD Needed&rpar;](https://dev.to/aleksei_aleinikov/launch-ai-agents-in-2025-with-langchain-no-phd-needed-182e)
 <!-- BLOG-POST-LIST:END -->
 
 
