@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to drastically improve your React app’s performance using lazy loading and `React.Suspense`. This guide covers route-level code splitting, loading fallbacks, best practices, and real-world benefits for Core Web Vitals.](https://dev.to/joshi16/learn-how-to-drastically-improve-your-react-apps-performance-using-lazy-loading-and-18am)
-- [Front-End Web Development Trends](https://dev.to/bridgegroupsolutions/front-end-web-development-trends-405)
-- [⚡ Boost React Performance with Lazy Loading + Suspense](https://dev.to/joshi16/boost-react-performance-with-lazy-loading-suspense-364c)
-- [Unveiling the Aladdin Free Public License: A Deep Dive into Fair Code, Developer Compensation, and Open Source Sustainability](https://dev.to/bobcars/unveiling-the-aladdin-free-public-license-a-deep-dive-into-fair-code-developer-compensation-and-4gpp)
+- [Integration of AI in Customer Support Services](https://dev.to/bridgegroupsolutions/integration-of-ai-in-customer-support-services-189e)
+- [Main differences between ReactJS and VueJS, in my opinion](https://dev.to/rem0nfawzi/main-differences-between-reactjs-and-vuejs-in-my-opinion-178a)
+- [Always on Reactjs Application.](https://dev.to/nabilfsd/always-on-reactjs-application-2i33)
+- [🚀Introducing Zenoa AI: A Free, Unlimited Text-to-Image Generator](https://dev.to/sumit_singh_rathore/introducing-zenoa-ai-a-free-unlimited-text-to-image-generator-51je)
 <!-- BLOG-POST-LIST:END -->
 
 
