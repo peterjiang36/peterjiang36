@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SpringBoot x QR code - PixelForest x REST](https://dev.to/gautamkumar7/springboot-x-qr-code-pixelforest-x-rest-2f3l)
-- [100 Year Clock Wheel](https://dev.to/preetha_vaishnavi_2b82358/100-year-clock-wheel-3bjp)
-- [Deploy a Node.js App on EC2 and Keep It Running Forever with PM2](https://dev.to/arif_chaudhary_94777248d1/deploy-a-nodejs-app-on-ec2-and-keep-it-running-forever-with-pm2-33n5)
-- [𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗩𝗮𝗹𝘂𝗲 𝗢𝗯𝗷𝗲𝗰𝘁𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗢𝘄𝗻𝘀𝗢𝗻𝗲&lpar;&rpar; 𝗠𝗲𝘁𝗵𝗼𝗱 𝗶𝗻 𝗘𝗙 𝗖𝗼𝗿𝗲](https://dev.to/supraja_tangella_b7f0738e/-19a3)
+- [Get Started with Apple&#39;s FastVLM: A Step-By-Step Guide](https://dev.to/nodeshiftcloud/get-started-with-apples-fastvlm-a-step-by-step-guide-5gg7)
+- [Cybersecurity worm WannaCry](https://dev.to/misterx991/cybersecurity-worm-wannacry-4e1o)
+- [Beyond LIKE: Mastering PostgreSQL&#39;s Built-in Full-Text Search](https://dev.to/sheikh566/beyond-like-mastering-postgresqls-built-in-full-text-search-4h35)
+- [From SaaS to Self-Hosted: Unlocking On-Prem Power with Authentik](https://dev.to/shrsv/from-saas-to-self-hosted-unlocking-on-prem-power-with-authentik-30eo)
 <!-- BLOG-POST-LIST:END -->
 
 
