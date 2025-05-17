@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandas vs Polars in 2025: Who Wins the Data Speed Race?](https://dev.to/aleksei_aleinikov/pandas-vs-polars-in-2025-who-wins-the-data-speed-race-4h38)
-- [Async I/O + CPU Tasks in 2025: Keep the Loop Fast and Cores Busy](https://dev.to/aleksei_aleinikov/async-io-cpu-tasks-in-2025-keep-the-loop-fast-and-cores-busy-2llc)
-- [Django ORM vs Raw SQL in 2025: When to Drop Down and Why](https://dev.to/aleksei_aleinikov/django-orm-vs-raw-sql-in-2025-when-to-drop-down-and-why-1b76)
-- [🧠 Launch AI Agents in 2025 With LangChain &lpar;No PhD Needed&rpar;](https://dev.to/aleksei_aleinikov/launch-ai-agents-in-2025-with-langchain-no-phd-needed-182e)
+- [Scraping YouTube Channel Data Using Python – No API Needed!](https://dev.to/subhan_ali_98aee435d4dfe3/scraping-youtube-channel-data-using-python-no-api-needed-1g0j)
+- [10 Mind-Blowing Ways AI is Revolutionizing Design Conversion in 2025](https://dev.to/atforeveryoung/10-mind-blowing-ways-ai-is-revolutionizing-design-conversion-in-2025-5gm4)
+- [👥 Cloud Identity and Access Management &lpar;IAM&rpar; 🔓](https://dev.to/madhurima_rawat/cloud-identity-and-access-management-iam-696)
+- [Laravel vs MERN which one is better](https://dev.to/codeliner/laravel-vs-mern-which-one-is-better-3kap)
 <!-- BLOG-POST-LIST:END -->
 
 
