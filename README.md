@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Teamcamp for Dev Teams: Ship Faster, Collaborate Smarter](https://dev.to/teamcamp/teamcamp-for-dev-teams-ship-faster-collaborate-smarter-fk2)
-- [No Framework Overkill — Just Express and JSX](https://dev.to/leapcell/no-framework-overkill-just-express-and-jsx-30c0)
-- [How to Use Async Communication method to stay productive](https://dev.to/pratham_naik_project_manager/ho-to-use-astnc-communication-method-to-stay-productive-2pnl)
-- [How High-Performing Dev Teams Use Async Communication to Stay Productive](https://dev.to/teamcamp/how-high-performing-dev-teams-use-async-communication-to-stay-productive-413o)
+- [Coding Journey: Day 1 - Day 14](https://dev.to/edwardcjianken/coding-journey-day-1-day-14-1lh1)
+- [🚀 Supercharge Your App with Redis: Caching, Queues &amp; Real-Time Power 🔥](https://dev.to/bitthal47/supercharge-your-app-with-redis-caching-queues-real-time-power-99e)
+- [Machine Learning Tutorial: Your First Guide to AI Concepts](https://dev.to/tpointtech/machine-learning-tutorial-your-first-guide-to-ai-concepts-49ep)
+- [How to Use OpenZeppelin Contracts in StarkNet with Cairo: A Practical Example](https://dev.to/aditya-alchemist/how-to-use-openzeppelin-contracts-in-starknet-with-cairo-a-practical-example-59fg)
 <!-- BLOG-POST-LIST:END -->
 
 
