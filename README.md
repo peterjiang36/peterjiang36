@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes the current job hunting landscape is a mess, here’s how you can play around it](https://dev.to/rj11io/yes-the-current-job-hunting-landscape-is-a-mess-heres-how-you-can-play-around-it-34fd)
-- [What Is UFO Code?](https://dev.to/neopotato/what-is-ufo-code-36pi)
-- [Using Fail2Ban to Protect Against Brute Force Attacks](https://dev.to/salamilinux/using-fail2ban-to-protect-against-brute-force-attacks-2j6k)
-- [ContextumAI: Secure, On-Chain MCP Server Deployment for Decentralized AI](https://dev.to/contextumai/contextumai-secure-on-chain-mcp-server-deployment-for-decentralized-ai-18ha)
+- [🧠 Vision AI Label Studio – Build Better Datasets with Open Source Image Labeling &lpar;with AI!&rpar;](https://dev.to/vicheanath/vision-ai-label-studio-build-better-datasets-with-open-source-image-labeling-with-ai-3jgp)
+- [HTTP? 🤔 The Web&#39;s Unsung Hero Explained](https://dev.to/mirchez/http-the-webs-unsung-hero-explained-2afl)
+- [How to Fix LinkedIn Authentication in NextAuth.js: A Custom Provider Setup Guide](https://dev.to/shubham_bhilare_3611/how-to-fix-linkedin-authentication-in-nextauthjs-a-custom-provider-setup-guide-5g8f)
+- [Refactoring 028 - Replace Consecutive IDs with Dark Keys](https://dev.to/mcsee/refactoring-028-replace-consecutive-ids-with-dark-keys-39om)
 <!-- BLOG-POST-LIST:END -->
 
 
