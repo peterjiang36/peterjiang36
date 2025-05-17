@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AlphaEvolve vs Codex Agent](https://dev.to/czmilo/alphaevolve-vs-codex-agent-o3g)
-- [Formal Verification and Why I Fell in Love With It](https://dev.to/wade_02/formal-verification-and-why-i-fell-in-love-with-it-p75)
-- [Frontend&#39;in Geleceği: Web Bileşenleri](https://dev.to/yunus_emremert_1756b71d3/frontendin-gelecegi-web-bilesenleri-fc5)
-- [Day 6/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/project-2-and-3-day-6-projects-27i1)
+- [Creating Modal Windows with Pure CSS: No JavaScript Required](https://dev.to/maxprilutskiy/creating-modal-windows-with-pure-css-no-javascript-required-1ja)
+- [gem oauth2 v2.0.10 released](https://dev.to/galtzo/gem-oauth2-v2010-released-10bj)
+- [Unveiling IBM Public License 1.0-rv: A Comprehensive Deep Dive into Open Source Fairness and Blockchain Implications](https://dev.to/laetitiaperraut/unveiling-ibm-public-license-10-rv-a-comprehensive-deep-dive-into-open-source-fairness-and-179o)
+- [🚀 Seamless Data Magic: From Notion to Database with MCP Server &amp; AI Agents](https://dev.to/toshiya_matsumoto_ac94abe/seamless-data-magic-from-notion-to-database-with-mcp-server-ai-agents-3kp7)
 <!-- BLOG-POST-LIST:END -->
 
 
