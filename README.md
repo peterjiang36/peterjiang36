@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the Future of AI Note Taking is Local, Offline, and Open Source: Taking Back Control of Your Meeting Data](https://dev.to/zackriya/why-the-future-of-ai-note-taking-is-local-offline-and-open-source-taking-back-control-of-your-5bnc)
-- [Building a Cloud-Native S3 Honeypot Detection Pipeline on AWS](https://dev.to/casualweightlifter54/building-a-cloud-native-s3-honeypot-detection-pipeline-on-aws-17o8)
-- [Breaking Up With ORMs – Part One: Reclaiming Control with Custom SQL Adapters](https://dev.to/sogweb/breaking-up-with-orms-part-one-reclaiming-control-with-custom-sql-adapters-1gh7)
-- [`*` iterable unpacking for Python function](https://dev.to/hyperkai/-iterable-unpacking-for-python-function-5hn1)
+- [Show us your open-source project](https://dev.to/litlyx/show-us-your-open-source-project-9mn)
+- [From Idea to Code: How to Build What’s in Your Mind &lpar;Without Giving Up&rpar;](https://dev.to/jliter/from-idea-to-code-how-to-build-whats-in-your-mind-without-giving-up-54bl)
+- [Top Reasons to Outsource Image Annotation for Machine Learning](https://dev.to/hitechdigital/top-reasons-to-outsource-image-annotation-for-machine-learning-25ok)
+- [Заменят ли нас нейросети?](https://dev.to/kopylov_vlad/zamieniat-li-nas-nieirosieti-56n7)
 <!-- BLOG-POST-LIST:END -->
 
 
