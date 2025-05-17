@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Hire a PHP Laravel Developer to Build Scalable Web Apps, Admin Panels, and DApps – 7+ Years of Experience](https://dev.to/surendergupta/hire-a-php-laravel-developer-to-build-scalable-web-apps-admin-panels-and-dapps-7-years-of-4d05)
-- [Single Responsibility Principle in Java](https://dev.to/noel_kamphoa_e688aece0725/single-responsibility-principle-in-java-4bko)
-- [Building Better Interfaces: My Journey from &quot;Functional&quot; to Polished UI in Java Swing](https://dev.to/alireza_minagar_99f01ecb6/building-better-interfaces-my-journey-from-functional-to-polished-ui-in-java-swing-4djp)
-- [Speed vs Simplicity: Choosing the Right Cache](https://dev.to/rhaqim/speed-vs-simplicity-choosing-the-right-cache-1jac)
+- [📝 Building a Resume with HTML &amp; CSS and Sharing It on GitLab...](https://dev.to/a_ramesh/building-a-resume-with-html-css-and-sharing-it-on-gitlab-4nkc)
+- [Building My Personal Resume Website Using HTML &amp; CSS &amp; Deploying It to GitLab](https://dev.to/kanaga_vimala_66acce9cf6e/building-my-personal-resume-website-using-html-css-deploying-it-to-gitlab-3e1i)
+- [Tailstore: Free Tailwind 4 CSS eCommerce Template for Your Next Online Store Project](https://dev.to/mikevarenek/tailstore-free-tailwind-4-css-ecommerce-template-for-your-next-online-store-project-16bo)
+- [Dica de TI: Concatenação](https://dev.to/vivianbr/dica-de-ti-concatenacao-1abo)
 <!-- BLOG-POST-LIST:END -->
 
 
