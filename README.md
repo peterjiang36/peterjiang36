@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Building a Resume with HTML &amp; CSS and Sharing It on GitLab...](https://dev.to/a_ramesh/building-a-resume-with-html-css-and-sharing-it-on-gitlab-4nkc)
-- [Building My Personal Resume Website Using HTML &amp; CSS &amp; Deploying It to GitLab](https://dev.to/kanaga_vimala_66acce9cf6e/building-my-personal-resume-website-using-html-css-deploying-it-to-gitlab-3e1i)
-- [Tailstore: Free Tailwind 4 CSS eCommerce Template for Your Next Online Store Project](https://dev.to/mikevarenek/tailstore-free-tailwind-4-css-ecommerce-template-for-your-next-online-store-project-16bo)
-- [Dica de TI: Concatenação](https://dev.to/vivianbr/dica-de-ti-concatenacao-1abo)
+- [SpringBoot x QR code - PixelForest x REST](https://dev.to/gautamkumar7/springboot-x-qr-code-pixelforest-x-rest-2f3l)
+- [100 Year Clock Wheel](https://dev.to/preetha_vaishnavi_2b82358/100-year-clock-wheel-3bjp)
+- [Deploy a Node.js App on EC2 and Keep It Running Forever with PM2](https://dev.to/arif_chaudhary_94777248d1/deploy-a-nodejs-app-on-ec2-and-keep-it-running-forever-with-pm2-33n5)
+- [𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗩𝗮𝗹𝘂𝗲 𝗢𝗯𝗷𝗲𝗰𝘁𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗢𝘄𝗻𝘀𝗢𝗻𝗲&lpar;&rpar; 𝗠𝗲𝘁𝗵𝗼𝗱 𝗶𝗻 𝗘𝗙 𝗖𝗼𝗿𝗲](https://dev.to/supraja_tangella_b7f0738e/-19a3)
 <!-- BLOG-POST-LIST:END -->
 
 
