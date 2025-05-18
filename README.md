@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessible PDF Tables and Complex Content](https://dev.to/revisepdf/accessible-pdf-tables-and-complex-content-cmj)
-- [Unveiling GNU Free Documentation License 1.1: In-Depth Exploration and Future Outlook](https://dev.to/kallileiser/unveiling-gnu-free-documentation-license-11-in-depth-exploration-and-future-outlook-4kd3)
-- [Relational-n-back](https://dev.to/michael_02910bc84e622d090/relational-n-back-4834)
-- [[Boost]](https://dev.to/rakeshv675/-56h6)
+- [Unveiling GNU Free Documentation License 1.2: A Holistic Deep Dive into Open Source Documentation](https://dev.to/ashucommits/unveiling-gnu-free-documentation-license-12-a-holistic-deep-dive-into-open-source-documentation-33pa)
+- [# Uptime Kuma: The Ultimate Self-Hosted Uptime Monitoring Tool](https://dev.to/mdismail_e830c2c4f43ae37/-uptime-kuma-the-ultimate-self-hosted-uptime-monitoring-tool-1pnj)
+- [🚀 382 Downloads in 48 Hours — Help Me Shape Cerious Grid!](https://dev.to/ryoucerious/382-downloads-in-48-hours-help-me-shape-cerious-grid-3mo5)
+- [VarMQ Tuning Worker Pool](https://dev.to/fahimfaisaal/varmq-tuning-worker-pool-1bo6)
 <!-- BLOG-POST-LIST:END -->
 
 
