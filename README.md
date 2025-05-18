@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Command line instructions to uncheck “Select the previous input source” on macOS](https://dev.to/dirtyhenry/command-line-instructions-to-uncheck-select-the-previous-input-source-on-macos-254g)
-- [🦊 &quot;Believe It!&quot; - Mastering Linux File Permissions with Naruto 🍥](https://dev.to/ldwit/believe-it-mastering-linux-file-permissions-with-naruto-483h)
-- [Learning Quartz Scheduler with a Real-Time Spring Boot Project](https://dev.to/akshay0505/learning-quartz-scheduler-with-a-real-time-spring-boot-project-437l)
-- [INP in 2025: The New Core Web Vital You Must Optimize For](https://dev.to/arkhan/inp-in-2025-the-new-core-web-vital-you-must-optimize-for-gdc)
+- [Deploying Novu on a Virtual Machine](https://dev.to/bayo99/deploying-novu-on-a-virtual-machine-3b91)
+- [🎬 2025 UNC MIAGE démo finale](https://dev.to/adriens/2025-unc-miage-demo-finale-508g)
+- [Threat Modeling Meets Test Planning: A Unified Workflow for Secure Code](https://dev.to/gopinath_kathiresan_2f4b2/threat-modeling-meets-test-planning-a-unified-workflow-for-secure-code-102i)
+- [SkillTrack AI – A Simple AI-Powered Developer Skill Tracker](https://dev.to/soulaimen99/skilltrack-ai-a-simple-ai-powered-developer-skill-tracker-31fn)
 <!-- BLOG-POST-LIST:END -->
 
 
