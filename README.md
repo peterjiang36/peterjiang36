@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Documentation Walkthrough – Learn React the Right Way!](https://dev.to/ebereplenty/react-documentation-walkthrough-learn-react-the-right-way-ggj)
-- [The AI Arsenal: Must-Try Figma Plugins for 2025](https://dev.to/atforeveryoung/the-ai-arsenal-must-try-figma-plugins-for-2025-4c15)
-- [Cabang-Cabang OS](https://dev.to/rajaaaaa07_/cabang-cabang-os-23i3)
-- [Scalable React Projects with Feature-Based Architecture](https://dev.to/naserrasouli/scalable-react-projects-with-feature-based-architecture-117c)
+- [Lampe de lune image : une aventure au cœur de vos souvenirs](https://dev.to/perubulb56/lampe-de-lune-image-une-aventure-au-coeur-de-vos-souvenirs-2pio)
+- [Un excursion dans clair de lune accompagné de ta portrait illuminée par la clarté](https://dev.to/appealrod66/un-excursion-dans-clair-de-lune-accompagne-de-ta-portrait-illuminee-par-la-clarte-4c9a)
+- [Conception de lampe lunaire : Subtil mélange d&#39;art et de mémoire](https://dev.to/valleycake56/conception-de-lampe-lunaire-subtil-melange-dart-et-de-memoire-3dg8)
+- [The Importance of Test Management Tools in Modern Software Development](https://dev.to/gurpreet_singh_24ea65772d/the-importance-of-test-management-tools-in-modern-software-development-3003)
 <!-- BLOG-POST-LIST:END -->
 
 
