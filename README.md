@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a One-File EXE with PyInstaller &lpar;Including Binaries &amp; Resources&rpar;](https://dev.to/arhamrumi/build-a-one-file-exe-with-pyinstaller-including-binaries-resources-3o00)
-- [🧠 𝗪𝗲𝗲𝗸𝗲𝗻𝗱 𝗥𝗲𝗮𝗱𝘀 𝗳𝗼𝗿 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! ☁️ If you&#39;re diving into AWS or brushing up on fundamentals, here’s a curated list of some of my most popular posts, simplified analogies, real-world use cases 🔌 𝗔𝗪𝗦 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://dev.to/full_stackgeek/-if-youre-diving-into-aws-or-brushing-up-on-3p03)
-- [In-Memory Advisor in Oracle 23ai](https://dev.to/vahidusefzadeh/in-memory-advisor-in-oracle-23ai-pfi)
-- [🚀 Building and Interacting with a StarkNet Contract using React and StarkNet.js](https://dev.to/aditya-alchemist/building-and-interacting-with-a-starknet-contract-using-react-and-starknetjs-3lfa)
+- [Command line instructions to uncheck “Select the previous input source” on macOS](https://dev.to/dirtyhenry/command-line-instructions-to-uncheck-select-the-previous-input-source-on-macos-254g)
+- [🦊 &quot;Believe It!&quot; - Mastering Linux File Permissions with Naruto 🍥](https://dev.to/ldwit/believe-it-mastering-linux-file-permissions-with-naruto-483h)
+- [Learning Quartz Scheduler with a Real-Time Spring Boot Project](https://dev.to/akshay0505/learning-quartz-scheduler-with-a-real-time-spring-boot-project-437l)
+- [INP in 2025: The New Core Web Vital You Must Optimize For](https://dev.to/arkhan/inp-in-2025-the-new-core-web-vital-you-must-optimize-for-gdc)
 <!-- BLOG-POST-LIST:END -->
 
 
