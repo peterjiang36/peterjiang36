@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you type https://www.google.com and press Enter? 🌐💡](https://dev.to/macfe1/what-happens-when-you-type-httpswwwgooglecom-and-press-enter-4bja)
-- [*args &amp; **kwargs in Python function](https://dev.to/hyperkai/args-kwargs-in-python-function-58l2)
-- [VideoSnap Vision: Real-Time Object Recognition PWA Architecture](https://dev.to/t3jasvi/videosnap-vision-real-time-object-recognition-pwa-architecture-488c)
-- [`**` dictionary unpacking in Python](https://dev.to/hyperkai/-dictionary-unpacking-in-python-119)
+- [Accessible PDF Tables and Complex Content](https://dev.to/revisepdf/accessible-pdf-tables-and-complex-content-cmj)
+- [Unveiling GNU Free Documentation License 1.1: In-Depth Exploration and Future Outlook](https://dev.to/kallileiser/unveiling-gnu-free-documentation-license-11-in-depth-exploration-and-future-outlook-4kd3)
+- [Relational-n-back](https://dev.to/michael_02910bc84e622d090/relational-n-back-4834)
+- [[Boost]](https://dev.to/rakeshv675/-56h6)
 <!-- BLOG-POST-LIST:END -->
 
 
