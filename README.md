@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Novu on a Virtual Machine](https://dev.to/bayo99/deploying-novu-on-a-virtual-machine-3b91)
-- [🎬 2025 UNC MIAGE démo finale](https://dev.to/adriens/2025-unc-miage-demo-finale-508g)
-- [Threat Modeling Meets Test Planning: A Unified Workflow for Secure Code](https://dev.to/gopinath_kathiresan_2f4b2/threat-modeling-meets-test-planning-a-unified-workflow-for-secure-code-102i)
-- [SkillTrack AI – A Simple AI-Powered Developer Skill Tracker](https://dev.to/soulaimen99/skilltrack-ai-a-simple-ai-powered-developer-skill-tracker-31fn)
+- [Streamlining Decentralized Infrastructure with the Contextum CLI](https://dev.to/contextumai/streamlining-decentralized-infrastructure-with-the-contextum-cli-33o8)
+- [Building a QR Code Generator and Reader in JavaScript](https://dev.to/ahmed_niazy/building-a-qr-code-generator-and-reader-in-javascript-2d7b)
+- [ACP: The Protocol Standard for AI Agent Interoperability](https://dev.to/gocodeo/acp-the-protocol-standard-for-ai-agent-interoperability-37cm)
+- [Building Scalable REST APIs with Pagination: From Concept to Production](https://dev.to/serifcolakel/building-scalable-rest-apis-with-pagination-from-concept-to-production-27o7)
 <!-- BLOG-POST-LIST:END -->
 
 
