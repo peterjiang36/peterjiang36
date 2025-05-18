@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Project: Markdown TOC Generator 📑](https://dev.to/rajeshepili/new-project-markdown-toc-generator-5goa)
-- [block-inspect: A Lightweight JavaScript Utility to Deter Inspect Elements &amp; Protect Your Website Content](https://dev.to/mahmud-r-farhan/block-inspect-a-lightweight-javascript-utility-to-deter-inspect-elements-protect-your-website-2dp5)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4ncm)
-- [Relational vs Document-Oriented Database for Software Architecture](https://dev.to/lukasniessen/relational-vs-document-oriented-database-for-software-architecture-28fg)
+- [Comprendre IngressNightmare par l’exemple.](https://dev.to/neuronaddict/comprendre-ingressnightmare-par-lexemple-3kg6)
+- [How does quoting works in ArkScript macros?](https://dev.to/lexplt/how-does-quoting-works-in-arkscript-macros-m6p)
+- [Mastering the Art of Code Reviews: A Guide for Developers at Every Level](https://dev.to/rachits999003/mastering-the-art-of-code-reviews-a-guide-for-developers-at-every-level-1ahf)
+- [Top 10 Free Resources to Learn C# in 2025](https://dev.to/elsayed_zewayed_91621702f/top-10-free-resources-to-learn-c-in-2025-34bl)
 <!-- BLOG-POST-LIST:END -->
 
 
