@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [◼️7/100 Block-by-Block: Cross-chain fragmentation in Web3 data.](https://dev.to/nocibambi/7100-block-by-block-cross-chain-fragmentation-in-web3-data-4l9p)
-- [[Boost]](https://dev.to/omriluz1/-joc)
-- [TrendPulse: AI-Powered Social Media Intelligence Agent](https://dev.to/aniruddhadak/trendpulse-ai-powered-social-media-intelligence-agent-468c)
-- [AI Tools for Content Creation on WordPress](https://dev.to/gurtop/ai-tools-for-content-creation-on-wordpress-55ic)
+- [New Project: Markdown TOC Generator 📑](https://dev.to/rajeshepili/new-project-markdown-toc-generator-5goa)
+- [block-inspect: A Lightweight JavaScript Utility to Deter Inspect Elements &amp; Protect Your Website Content](https://dev.to/mahmud-r-farhan/block-inspect-a-lightweight-javascript-utility-to-deter-inspect-elements-protect-your-website-2dp5)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-4ncm)
+- [Relational vs Document-Oriented Database for Software Architecture](https://dev.to/lukasniessen/relational-vs-document-oriented-database-for-software-architecture-28fg)
 <!-- BLOG-POST-LIST:END -->
 
 
