@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Open Software License 2.1: A Comprehensive Review and Future Outlook](https://dev.to/laetitiaperraut/unveiling-open-software-license-21-a-comprehensive-review-and-future-outlook-ona)
-- [[Boost]](https://dev.to/oleg_vysotsky/-1gkh)
-- [VR Glasses Simulation](https://dev.to/preetha_vaishnavi_2b82358/vr-glasses-simulation-5d30)
-- [Jegyzet](https://dev.to/asuramtg/jegyzet-4kio)
+- [Eye Tracking](https://dev.to/preetha_vaishnavi_2b82358/eye-tracking-2kib)
+- [Digital Twin of the Universe: The Deep Anatomy of Networks and the Rise of Cyber Consciousness](https://dev.to/talhamemis/digital-twin-of-the-universe-the-deep-anatomy-of-networks-and-the-rise-of-cyber-consciousness-1j90)
+- [Why Microsoft Lays Off 7,000 Employees Amid AI Restructuring: Latest Viral News](https://dev.to/vishalkumar1111/microsoft-lays-off-7000-employees-amid-ai-restructuring-latest-viral-news-2e48)
+- [Passion Eye](https://dev.to/preetha_vaishnavi_2b82358/passion-eye-17d4)
 <!-- BLOG-POST-LIST:END -->
 
 
