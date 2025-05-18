@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
-- [A Comprehensive Guide to Bug Hunting](https://dev.to/xybersec/a-comprehensive-guide-to-bug-hunting-2l01)
-- [Building a No-Code Quant Backtesting Platform — My Journey Begins](https://dev.to/chair_2579a3e599995ce64da/building-a-no-code-quant-backtesting-platform-my-journey-begins-2kcj)
-- [How I went from a no name tech company to a 250k TC job at one of the biggest tech companies in the world.](https://dev.to/tigerwoodsenjoyer/how-i-went-from-a-no-name-tech-company-to-a-250k-tc-job-at-one-of-the-biggest-tech-companies-in-the-420n)
+- [◼️7/100 Block-by-Block: Cross-chain fragmentation in Web3 data.](https://dev.to/nocibambi/7100-block-by-block-cross-chain-fragmentation-in-web3-data-4l9p)
+- [[Boost]](https://dev.to/omriluz1/-joc)
+- [TrendPulse: AI-Powered Social Media Intelligence Agent](https://dev.to/aniruddhadak/trendpulse-ai-powered-social-media-intelligence-agent-468c)
+- [AI Tools for Content Creation on WordPress](https://dev.to/gurtop/ai-tools-for-content-creation-on-wordpress-55ic)
 <!-- BLOG-POST-LIST:END -->
 
 
