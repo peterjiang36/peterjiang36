@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 16 Django Questions for Intermediate to Advanced Developers](https://dev.to/leapcell/top-16-django-questions-for-intermediate-to-advanced-developers-5ff4)
-- [Avoiding the God Object - A Guide to Better Software Design](https://dev.to/bharathvaj_ganesan/avoiding-the-god-object-a-guide-to-better-software-design-3l7p)
-- [⬜️ AI told me to move to Estonia, so I’m eating bread now](https://dev.to/uka_aidev/ai-told-me-to-move-to-estonia-so-im-eating-bread-now-2e71)
-- [Day 2 - Create the ShoppingCart component](https://dev.to/railsstudent/day-2-create-the-shoppingcart-component-4p4l)
+- [Push Notifications: How Your App Speaks When It’s Sleeping](https://dev.to/techlabma/push-notifications-4lma)
+- [A Comprehensive Guide to Bug Hunting](https://dev.to/xybersec/a-comprehensive-guide-to-bug-hunting-2l01)
+- [Building a No-Code Quant Backtesting Platform — My Journey Begins](https://dev.to/chair_2579a3e599995ce64da/building-a-no-code-quant-backtesting-platform-my-journey-begins-2kcj)
+- [How I went from a no name tech company to a 250k TC job at one of the biggest tech companies in the world.](https://dev.to/tigerwoodsenjoyer/how-i-went-from-a-no-name-tech-company-to-a-250k-tc-job-at-one-of-the-biggest-tech-companies-in-the-420n)
 <!-- BLOG-POST-LIST:END -->
 
 
