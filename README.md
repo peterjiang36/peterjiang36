@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprendre IngressNightmare par l’exemple.](https://dev.to/neuronaddict/comprendre-ingressnightmare-par-lexemple-3kg6)
-- [How does quoting works in ArkScript macros?](https://dev.to/lexplt/how-does-quoting-works-in-arkscript-macros-m6p)
-- [Mastering the Art of Code Reviews: A Guide for Developers at Every Level](https://dev.to/rachits999003/mastering-the-art-of-code-reviews-a-guide-for-developers-at-every-level-1ahf)
-- [Top 10 Free Resources to Learn C# in 2025](https://dev.to/elsayed_zewayed_91621702f/top-10-free-resources-to-learn-c-in-2025-34bl)
+- [[Boost]](https://dev.to/karanverma/-a2d)
+- [Rediscovering ACID – The Foundation of Reliable Databases](https://dev.to/mandarg13/rediscovering-acid-the-foundation-of-reliable-databases-3h5p)
+- [Python for Oracle on ARM Linux | Part 2 - &quot;shell like&quot; SQL scripts](https://dev.to/nabhaas/python-for-oracle-on-arm-linux-part-2-shell-like-sql-scripts-1415)
+- [Pourquoi votre code python ne marche plus sur votre serveur](https://dev.to/neuronaddict/pourquoi-votre-code-python-ne-marche-plus-sur-votre-serveur-5c58)
 <!-- BLOG-POST-LIST:END -->
 
 
