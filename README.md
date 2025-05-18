@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Decentralized Infrastructure with the Contextum CLI](https://dev.to/contextumai/streamlining-decentralized-infrastructure-with-the-contextum-cli-33o8)
-- [Building a QR Code Generator and Reader in JavaScript](https://dev.to/ahmed_niazy/building-a-qr-code-generator-and-reader-in-javascript-2d7b)
-- [ACP: The Protocol Standard for AI Agent Interoperability](https://dev.to/gocodeo/acp-the-protocol-standard-for-ai-agent-interoperability-37cm)
-- [Building Scalable REST APIs with Pagination: From Concept to Production](https://dev.to/serifcolakel/building-scalable-rest-apis-with-pagination-from-concept-to-production-27o7)
+- [Beyond Promises](https://dev.to/rawveg/beyond-promises-2fdk)
+- [Unveiling the Ricoh Source Code Public License: A Holistic Look at Fair Code and Future Innovations](https://dev.to/rachellovestowrite/unveiling-the-ricoh-source-code-public-license-a-holistic-look-at-fair-code-and-future-innovations-4l5)
+- [Building a MIPS Emulator &lpar;Part 1&rpar;: Loading and Reading Raw Binary](https://dev.to/olayiwolaosho_75/building-a-mips-emulator-part-one-m6i)
+- [What If Your Process Management Is Quietly Killing Your Productivity?](https://dev.to/softyflow/what-if-your-process-management-is-quietly-killing-your-productivity-3ehp)
 <!-- BLOG-POST-LIST:END -->
 
 
