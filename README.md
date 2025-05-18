@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tene/understanding-err-stdout-and-stderr-in-nodejs-44ia)
-- [CH-04 : The Singleton Paradox — Jai &amp; Veeru vs. The Multiverse of Objects](https://dev.to/nikhil-amin/ch-04-the-singleton-paradox-jai-veeru-vs-the-multiverse-of-objects-4cb1)
-- [AI killed my coding brain but I’m rebuilding it](https://dev.to/devlinktips/ai-killed-my-coding-brain-but-im-rebuilding-it-4i35)
-- [Skype is dead. Long live Teams? Why Microsoft finally pulled the plug in 2025](https://dev.to/devlinktips/skype-is-dead-long-live-teams-why-microsoft-finally-pulled-the-plug-in-2025-176h)
+- [How to Enable CodeQL Analysis in Your GitHub Repository](https://dev.to/nivicius/how-to-enable-codeql-analysis-in-your-github-repository-5ad3)
+- [Understanding DNS: How Domain Names Become IP Addresses](https://dev.to/daud99/understanding-dns-how-domain-names-become-ip-addresses-2b9h)
+- [HTTP &amp; REST API Fundamentals](https://dev.to/eyupakdniz/http-rest-api-fundamentals-3kin)
+- [Web Performansını İyileştir: Hızlı ve Etkin](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestir-hizli-ve-etkin-1h7l)
 <!-- BLOG-POST-LIST:END -->
 
 
