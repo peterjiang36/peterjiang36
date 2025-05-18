@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/karanverma/-a2d)
-- [Rediscovering ACID – The Foundation of Reliable Databases](https://dev.to/mandarg13/rediscovering-acid-the-foundation-of-reliable-databases-3h5p)
-- [Python for Oracle on ARM Linux | Part 2 - &quot;shell like&quot; SQL scripts](https://dev.to/nabhaas/python-for-oracle-on-arm-linux-part-2-shell-like-sql-scripts-1415)
-- [Pourquoi votre code python ne marche plus sur votre serveur](https://dev.to/neuronaddict/pourquoi-votre-code-python-ne-marche-plus-sur-votre-serveur-5c58)
+- [🚀 React Documentation Walkthrough – Learn React the Right Way!](https://dev.to/ebereplenty/react-documentation-walkthrough-learn-react-the-right-way-ggj)
+- [The AI Arsenal: Must-Try Figma Plugins for 2025](https://dev.to/atforeveryoung/the-ai-arsenal-must-try-figma-plugins-for-2025-4c15)
+- [Cabang-Cabang OS](https://dev.to/rajaaaaa07_/cabang-cabang-os-23i3)
+- [Scalable React Projects with Feature-Based Architecture](https://dev.to/naserrasouli/scalable-react-projects-with-feature-based-architecture-117c)
 <!-- BLOG-POST-LIST:END -->
 
 
