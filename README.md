@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Requesting info](https://dev.to/darth_sql/requesting-info-57gi)
-- [The DNA of a Domain: Understanding DNS, FQDNs, and Domain Structures](https://dev.to/daud99/the-dna-of-a-domain-understanding-dns-fqdns-and-domain-structures-1in2)
-- [Amazon: From Online Bookstore to Tech Empire](https://dev.to/algo_sync/amazon-from-online-bookstore-to-tech-empire-5cd2)
-- [How I Improved My Coding Skills by Building Small Projects](https://dev.to/ammar_souleiman/how-i-improved-my-coding-skills-by-building-small-projects-5ab2)
+- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tene/understanding-err-stdout-and-stderr-in-nodejs-44ia)
+- [CH-04 : The Singleton Paradox — Jai &amp; Veeru vs. The Multiverse of Objects](https://dev.to/nikhil-amin/ch-04-the-singleton-paradox-jai-veeru-vs-the-multiverse-of-objects-4cb1)
+- [AI killed my coding brain but I’m rebuilding it](https://dev.to/devlinktips/ai-killed-my-coding-brain-but-im-rebuilding-it-4i35)
+- [Skype is dead. Long live Teams? Why Microsoft finally pulled the plug in 2025](https://dev.to/devlinktips/skype-is-dead-long-live-teams-why-microsoft-finally-pulled-the-plug-in-2025-176h)
 <!-- BLOG-POST-LIST:END -->
 
 
