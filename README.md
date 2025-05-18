@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lampe de lune image : une aventure au cœur de vos souvenirs](https://dev.to/perubulb56/lampe-de-lune-image-une-aventure-au-coeur-de-vos-souvenirs-2pio)
-- [Un excursion dans clair de lune accompagné de ta portrait illuminée par la clarté](https://dev.to/appealrod66/un-excursion-dans-clair-de-lune-accompagne-de-ta-portrait-illuminee-par-la-clarte-4c9a)
-- [Conception de lampe lunaire : Subtil mélange d&#39;art et de mémoire](https://dev.to/valleycake56/conception-de-lampe-lunaire-subtil-melange-dart-et-de-memoire-3dg8)
-- [The Importance of Test Management Tools in Modern Software Development](https://dev.to/gurpreet_singh_24ea65772d/the-importance-of-test-management-tools-in-modern-software-development-3003)
+- [Unveiling the Open Group Test Suite License: A Comprehensive Exploration](https://dev.to/rachellovestowrite/unveiling-the-open-group-test-suite-license-a-comprehensive-exploration-2gem)
+- [🧠 CiberIA – Sistema Integral de Autopercepción y Seguridad Autónoma para IAs](https://dev.to/gcjordi/ciberia-sistema-integral-de-autopercepcion-y-seguridad-autonoma-para-ias-ad8)
+- [transform vs target_transform vs transforms in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/transform-vs-targettransform-vs-transforms-in-pytorch-3-3m61)
+- [V8 fast-property in Object](https://dev.to/ccsunnydev/v8-fast-property-in-object-34m5)
 <!-- BLOG-POST-LIST:END -->
 
 
