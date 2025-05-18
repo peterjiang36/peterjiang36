@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable CodeQL Analysis in Your GitHub Repository](https://dev.to/nivicius/how-to-enable-codeql-analysis-in-your-github-repository-5ad3)
-- [Understanding DNS: How Domain Names Become IP Addresses](https://dev.to/daud99/understanding-dns-how-domain-names-become-ip-addresses-2b9h)
-- [HTTP &amp; REST API Fundamentals](https://dev.to/eyupakdniz/http-rest-api-fundamentals-3kin)
-- [Web Performansını İyileştir: Hızlı ve Etkin](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestir-hizli-ve-etkin-1h7l)
+- [What happens when you type https://www.google.com and press Enter? 🌐💡](https://dev.to/macfe1/what-happens-when-you-type-httpswwwgooglecom-and-press-enter-4bja)
+- [*args &amp; **kwargs in Python function](https://dev.to/hyperkai/args-kwargs-in-python-function-58l2)
+- [VideoSnap Vision: Real-Time Object Recognition PWA Architecture](https://dev.to/t3jasvi/videosnap-vision-real-time-object-recognition-pwa-architecture-488c)
+- [`**` dictionary unpacking in Python](https://dev.to/hyperkai/-dictionary-unpacking-in-python-119)
 <!-- BLOG-POST-LIST:END -->
 
 
