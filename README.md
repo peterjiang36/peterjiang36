@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Animation Libraries in 2025: What Companies Are Actually Using](https://dev.to/raajaryan/react-animation-libraries-in-2025-what-companies-are-actually-using-3lik)
-- [Perl 🐪 Weekly #721 - Perl Roadmap](https://dev.to/szabgab/perl-weekly-721-perl-roadmap-1dlj)
-- [🔁 From Test Case Overload to Test Case Intelligence: Reinventing QA with GenQE](https://dev.to/vaibhavkuls/from-test-case-overload-to-test-case-intelligence-reinventing-qa-with-genqe-26j5)
-- [Cabang-Cabang OS](https://dev.to/rajaaaaa07_/cabang-cabang-os-706)
+- [3D Bin Packing Algorithm](https://dev.to/franky_joy_11b54cf9eb63fa/3d-bin-packing-algorithm-hka)
+- [The Best Privacy-Focused Browser Alternatives in 2025 – A Comprehensive Overview](https://dev.to/kallileiser/the-best-privacy-focused-browser-alternatives-in-2025-a-comprehensive-overview-1d9n)
+- [HarmonyOS Next IoT Edge Computing: Low Power Type Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-iot-edge-computing-low-power-type-optimization-4kh8)
+- [HarmonyOS Next Game Development: Type Magic in ECS Architecture](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-game-development-type-magic-in-ecs-architecture-1kmp)
 <!-- BLOG-POST-LIST:END -->
 
 
