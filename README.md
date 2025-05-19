@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs SQL: Which is Best for Querying and Cleaning Data?](https://dev.to/kenyansa/python-vs-sql-which-is-best-for-querying-and-cleaning-data-pcf)
-- [Coolify Enable Wild Card SSL](https://dev.to/themodernpk/coolify-enable-wild-card-ssl-2gep)
-- [Forging the Future: My Ten-Year Journey Growing with Rust](https://dev.to/zhanghandong/forging-the-future-my-ten-year-journey-growing-with-rust-50f1)
-- [Building a Cyber-Resilient Business: Key Measures to Take](https://dev.to/marketdaily/building-a-cyber-resilient-business-key-measures-to-take-4830)
+- [Memelang: Hybrid graph-relational query language for RAG](https://dev.to/briholt/memelang-hybrid-graph-query-language-for-rag-i81)
+- [My First Steps in JavaScript: Understanding Variables](https://dev.to/arun_km_29412b29674318e61/my-first-steps-in-javascript-understanding-variables-8k2)
+- [JavaScript - ES9 &lpar;ECMAScript 2018&rpar; - Parte I](https://dev.to/mauriciogc/javascript-es9-ecmascript-2018-parte-i-33ko)
+- [Why Smart Appliances Are Gaining Popularity in Modern Homes](https://dev.to/blknews/why-smart-appliances-are-gaining-popularity-in-modern-homes-53dh)
 <!-- BLOG-POST-LIST:END -->
 
 
