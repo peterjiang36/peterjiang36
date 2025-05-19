@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TypeScript: Inference, Types, and Generics](https://dev.to/coder7475/understanding-typescript-inference-types-and-generics-1akc)
-- [🧠 Reimagining Medical Intelligence through Ethical AI By Dr. Alireza Minagar](https://dev.to/alireza_minagar_99f01ecb6/reimagining-medical-intelligence-through-ethical-aiby-dr-alireza-minagar-4d18)
-- [Break Into Front-End Dev in 2025: Free &amp; Beginner-Friendly Resources for My Fellow Self-Taught Coders](https://dev.to/chicanacodes/break-into-front-end-dev-in-2025-free-beginner-friendly-resources-for-my-fellow-self-taught-477g)
-- [The Internet is Everywhere—But Do You Really Understand How It Works?](https://dev.to/hlnb/the-internet-is-everywhere-but-do-you-really-understand-how-it-works-292g)
+- [Astro Server Islands: How They Work and When to Use Them](https://dev.to/nickytonline/set-sail-for-server-islands-how-they-work-and-when-to-use-them-1p76)
+- [How to Sell on TikTok Shop: A Complete Guide for Creators and Beginners](https://dev.to/vidaupr/how-to-sell-on-tiktok-shop-a-complete-guide-for-creators-and-beginners-30ho)
+- [16,400+ GitHub Stars: This Free WAF Is on Fire](https://dev.to/sharon_42e16b8da44dabde6d/16400-github-stars-this-free-waf-is-on-fire-28mb)
+- [🚀 AWS CodePipeline Now Supports Deploy Spec Files for EC2 Deployments – Here&#39;s How It Works!](https://dev.to/latchudevops/aws-codepipeline-now-supports-deploy-spec-files-for-ec2-deployments-heres-how-it-works-ibp)
 <!-- BLOG-POST-LIST:END -->
 
 
