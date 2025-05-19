@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro Server Islands: How They Work and When to Use Them](https://dev.to/nickytonline/set-sail-for-server-islands-how-they-work-and-when-to-use-them-1p76)
-- [How to Sell on TikTok Shop: A Complete Guide for Creators and Beginners](https://dev.to/vidaupr/how-to-sell-on-tiktok-shop-a-complete-guide-for-creators-and-beginners-30ho)
-- [16,400+ GitHub Stars: This Free WAF Is on Fire](https://dev.to/sharon_42e16b8da44dabde6d/16400-github-stars-this-free-waf-is-on-fire-28mb)
-- [🚀 AWS CodePipeline Now Supports Deploy Spec Files for EC2 Deployments – Here&#39;s How It Works!](https://dev.to/latchudevops/aws-codepipeline-now-supports-deploy-spec-files-for-ec2-deployments-heres-how-it-works-ibp)
+- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
+- [🚀 Web Performance Metrics: How to Improve FCP, LCP, and CLS](https://dev.to/hasunnilupul/web-performance-metrics-how-to-improve-fcp-lcp-and-cls-395e)
+- [From Cloud Chaos to Developer Delight: Your Practical Guide to Building an Internal Developer Platform](https://dev.to/akshaymittal143/from-cloud-chaos-to-developer-delight-your-practical-guide-to-building-an-internal-developer-3o7n)
+- [AI HR Assistant with Amazon Bedrock Agent](https://dev.to/pnghaianh/ai-hr-assistant-with-amazon-bedrock-agent-4l3)
 <!-- BLOG-POST-LIST:END -->
 
 
