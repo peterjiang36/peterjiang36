@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Replace Coders? How Developers Can Stay Relevant in the Age of AI Tools](https://dev.to/mikevarenek/will-ai-replace-coders-how-developers-can-stay-relevant-in-the-age-of-ai-tools-4c9f)
-- [enumerate in Python](https://dev.to/hyperkai/enumerate-in-python-32d4)
-- [range in Python](https://dev.to/hyperkai/range-in-python-46k9)
-- [O que são Middlewares em APIs .NET?](https://dev.to/gustavo_cremonez/o-que-sao-middlewares-em-apis-net-1i)
+- [DIY Local Wireless Control System With ESP8266 And Relay - No Internet Required](https://dev.to/payamhn/diy-local-wireless-control-system-with-esp8266-and-relay-no-internet-required-2jn5)
+- [Mastering SEO in a Next.js Web Application &lpar;TypeScript &amp; JavaScript&rpar;](https://dev.to/hbkabir004/mastering-seo-in-a-nextjs-web-application-typescript-javascript-1ah9)
+- [Day-47:String](https://dev.to/pavithra_c_butterfly/day-47string-5f3)
+- [🛡️ Secure, Lint, and Validate Your Terraform Like a Pro](https://dev.to/aws-builders/secure-lint-and-validate-your-terraform-like-a-pro-26jo)
 <!-- BLOG-POST-LIST:END -->
 
 
