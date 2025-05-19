@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Bin Packing Algorithm](https://dev.to/franky_joy_11b54cf9eb63fa/3d-bin-packing-algorithm-hka)
-- [The Best Privacy-Focused Browser Alternatives in 2025 – A Comprehensive Overview](https://dev.to/kallileiser/the-best-privacy-focused-browser-alternatives-in-2025-a-comprehensive-overview-1d9n)
-- [HarmonyOS Next IoT Edge Computing: Low Power Type Optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-iot-edge-computing-low-power-type-optimization-4kh8)
-- [HarmonyOS Next Game Development: Type Magic in ECS Architecture](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-game-development-type-magic-in-ecs-architecture-1kmp)
+- [Fast API Request Handling](https://dev.to/hiteshchawla/fast-api-request-handling-39be)
+- [Brighter + Redis/Valkey: Como configurar o Brighter com Redis/Valkey](https://dev.to/actor-dev/brighter-redisvalkey-como-configurar-o-brighter-com-redisvalkey-4plp)
+- [Guide to using Filament Components in public-facing pages](https://dev.to/filamentmastery/guide-to-using-filament-components-in-public-facing-pages-nei)
+- [Brighter and Redis/Valkey: How to setup and use Brighter with Redis/Valkey](https://dev.to/actor-dev/brighter-and-redisvalkey-how-to-setup-and-use-brighter-with-redisvalkey-2djm)
 <!-- BLOG-POST-LIST:END -->
 
 
