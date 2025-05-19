@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #190 - May 19, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-190-may-19-2025-59lh)
-- [Building an AWS Support Voice Assistant with Amazon Nova](https://dev.to/aws-builders/building-an-aws-support-voice-assistant-with-amazon-nova-n5o)
-- [Detecting and Fixing Vulnerabilities in Code Suggested by Cursor and Windsurf](https://dev.to/clouddefenseai/detecting-and-fixing-vulnerabilities-in-code-suggested-by-cursor-and-windsurf-3ikg)
-- [Practice Management Software: A Game Changer for Modern Healthcare Providers](https://dev.to/adam_adam_8bd4aa56bd24f8d/practice-management-software-a-game-changer-for-modern-healthcare-providers-4o7l)
+- [Create fast, modern API docs using Docusaurus](https://dev.to/logrocket/create-fast-modern-api-docs-using-docusaurus-2ccm)
+- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-21dg)
+- [📅 Day 1/75 of LeetCode Practice – [Today’s Focus: Arrays / Strings / Sliding Window]::PART 2](https://dev.to/nish2005karsh/day-175-of-leetcode-practice-todays-focus-arrays-strings-sliding-window-3763)
+- [Ebirah Releases and Docker Image Pinning](https://dev.to/jonasbn/ebirah-releases-and-docker-image-pinning-4pb)
 <!-- BLOG-POST-LIST:END -->
 
 
