@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [In-depth details of Class in JavaScript](https://dev.to/capscode/in-depth-details-of-class-in-javascript-243h)
-- [4 Tools I Can’t Live Without as a Blockchain Developer in 2025](https://dev.to/dhis_is_jj/4-tools-i-cant-live-without-as-a-blockchain-developer-in-2025-2mo1)
-- [How to Handle Errors Gracefully with thiserror](https://dev.to/sgchris/how-to-handle-errors-gracefully-with-thiserror-2h56)
-- [The Real Challenges of Building with Rails and How Developers Can Overcome Them](https://dev.to/railsfactory_sedin/the-real-challenges-of-building-with-rails-and-how-developers-can-overcome-them-36da)
+- [All Data and AI Weekly #190 - May 19, 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-190-may-19-2025-59lh)
+- [Building an AWS Support Voice Assistant with Amazon Nova](https://dev.to/aws-builders/building-an-aws-support-voice-assistant-with-amazon-nova-n5o)
+- [Detecting and Fixing Vulnerabilities in Code Suggested by Cursor and Windsurf](https://dev.to/clouddefenseai/detecting-and-fixing-vulnerabilities-in-code-suggested-by-cursor-and-windsurf-3ikg)
+- [Practice Management Software: A Game Changer for Modern Healthcare Providers](https://dev.to/adam_adam_8bd4aa56bd24f8d/practice-management-software-a-game-changer-for-modern-healthcare-providers-4o7l)
 <!-- BLOG-POST-LIST:END -->
 
 
