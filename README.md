@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS and Docker Hub Limits: Smart Strategies for May 2025 Changes](https://dev.to/skillboosttrainer/aws-and-docker-hub-limits-smart-strategies-for-may-2025-changes-539h)
-- [Evolution of JavaScript](https://dev.to/iamasha/evolution-of-javascript-2lal)
-- [🟪 Made an omikuji generator—think it’ll work?](https://dev.to/uka_aidev/made-an-omikuji-generator-think-itll-work-2h5j)
-- [Modern Navbar](https://dev.to/maxuhhhh/modern-navbar-2h20)
+- [In-depth details of Class in JavaScript](https://dev.to/capscode/in-depth-details-of-class-in-javascript-243h)
+- [4 Tools I Can’t Live Without as a Blockchain Developer in 2025](https://dev.to/dhis_is_jj/4-tools-i-cant-live-without-as-a-blockchain-developer-in-2025-2mo1)
+- [How to Handle Errors Gracefully with thiserror](https://dev.to/sgchris/how-to-handle-errors-gracefully-with-thiserror-2h56)
+- [The Real Challenges of Building with Rails and How Developers Can Overcome Them](https://dev.to/railsfactory_sedin/the-real-challenges-of-building-with-rails-and-how-developers-can-overcome-them-36da)
 <!-- BLOG-POST-LIST:END -->
 
 
