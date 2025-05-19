@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create fast, modern API docs using Docusaurus](https://dev.to/logrocket/create-fast-modern-api-docs-using-docusaurus-2ccm)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-21dg)
-- [📅 Day 1/75 of LeetCode Practice – [Today’s Focus: Arrays / Strings / Sliding Window]::PART 2](https://dev.to/nish2005karsh/day-175-of-leetcode-practice-todays-focus-arrays-strings-sliding-window-3763)
-- [Ebirah Releases and Docker Image Pinning](https://dev.to/jonasbn/ebirah-releases-and-docker-image-pinning-4pb)
+- [✅ Setting Up Cloud-based CI-CD Pipeline 🔄](https://dev.to/madhurima_rawat/setting-up-cloud-based-ci-cd-pipeline-3jjn)
+- [How License Tokens Could Unlock Social Media Data for AI Training](https://dev.to/kallileiser/how-license-tokens-could-unlock-social-media-data-for-ai-training-48dg)
+- [Iris-AgenticAI: Enterprise Automation Powered by OpenAI’s Agentic SDK for Intelligent Multi-Agent Workflows](https://dev.to/intersystems/iris-agenticai-enterprise-automation-powered-by-openais-agentic-sdk-for-intelligent-multi-agent-3iae)
+- [Cybersecurity Essentials for the Modern Workplace](https://dev.to/kevin_asutton_/cybersecurity-essentials-for-the-modern-workplace-2egg)
 <!-- BLOG-POST-LIST:END -->
 
 
