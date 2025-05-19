@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Promises](https://dev.to/rawveg/beyond-promises-2fdk)
-- [Unveiling the Ricoh Source Code Public License: A Holistic Look at Fair Code and Future Innovations](https://dev.to/rachellovestowrite/unveiling-the-ricoh-source-code-public-license-a-holistic-look-at-fair-code-and-future-innovations-4l5)
-- [Building a MIPS Emulator &lpar;Part 1&rpar;: Loading and Reading Raw Binary](https://dev.to/olayiwolaosho_75/building-a-mips-emulator-part-one-m6i)
-- [What If Your Process Management Is Quietly Killing Your Productivity?](https://dev.to/softyflow/what-if-your-process-management-is-quietly-killing-your-productivity-3ehp)
+- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
+- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
+- [Creative Automation: The Future of Design is Here &lpar;And It&#39;s Amazing&rpar;](https://dev.to/atforeveryoung/creative-automation-the-future-of-design-is-here-and-its-amazing-27fk)
+- [Création d&#39;un site web sur S3](https://dev.to/la_grcenkinki_0ae00d92f/creation-dun-site-web-sur-s3-1p9d)
 <!-- BLOG-POST-LIST:END -->
 
 
