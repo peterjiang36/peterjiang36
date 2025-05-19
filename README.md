@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
-- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
-- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
-- [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
+- [Understanding TypeScript: Inference, Types, and Generics](https://dev.to/coder7475/understanding-typescript-inference-types-and-generics-1akc)
+- [🧠 Reimagining Medical Intelligence through Ethical AI By Dr. Alireza Minagar](https://dev.to/alireza_minagar_99f01ecb6/reimagining-medical-intelligence-through-ethical-aiby-dr-alireza-minagar-4d18)
+- [Break Into Front-End Dev in 2025: Free &amp; Beginner-Friendly Resources for My Fellow Self-Taught Coders](https://dev.to/chicanacodes/break-into-front-end-dev-in-2025-free-beginner-friendly-resources-for-my-fellow-self-taught-477g)
+- [The Internet is Everywhere—But Do You Really Understand How It Works?](https://dev.to/hlnb/the-internet-is-everywhere-but-do-you-really-understand-how-it-works-292g)
 <!-- BLOG-POST-LIST:END -->
 
 
