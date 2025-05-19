@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built My Own Home Server for $150 &lpar;And Why I Ditched AWS for It&rpar;](https://dev.to/mayankdhingra02/how-i-built-my-own-home-server-for-150-and-why-i-ditched-aws-for-it-4ffi)
+- [🎯 Covercraft AI: A Smart Tool for Automated, Personalized Cover Letter Generation](https://dev.to/suvadip_chakraborty_0561a/covercraft-ai-a-smart-tool-for-automated-personalized-cover-letter-generation-baj)
+- [Terminal based Graphical Interface in NodeJs](https://dev.to/leonardopinezi/terminal-based-graphical-interface-in-nodejs-3f05)
 - [Unveiling the X Consortium License: Bridging Open Source Fairness and Legal Innovation](https://dev.to/laetitiaperraut/unveiling-the-x-consortium-license-bridging-open-source-fairness-and-legal-innovation-438b)
-- [Advanced Image Editing with the PixLab Online Photo Editor](https://dev.to/unqlite_db/advanced-image-editing-with-the-pixlab-online-photo-editor-2lcj)
-- [Creative Automation: The Future of Design is Here &lpar;And It&#39;s Amazing&rpar;](https://dev.to/atforeveryoung/creative-automation-the-future-of-design-is-here-and-its-amazing-27fk)
-- [Création d&#39;un site web sur S3](https://dev.to/la_grcenkinki_0ae00d92f/creation-dun-site-web-sur-s3-1p9d)
 <!-- BLOG-POST-LIST:END -->
 
 
