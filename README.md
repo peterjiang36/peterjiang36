@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Land a Coding Job in Post-Pandemic Times—The Untraditional Way](https://dev.to/canro91/how-to-land-a-coding-job-in-post-pandemic-times-the-untraditional-way-1045)
-- [🚀 Web Performance Metrics: How to Improve FCP, LCP, and CLS](https://dev.to/hasunnilupul/web-performance-metrics-how-to-improve-fcp-lcp-and-cls-395e)
-- [From Cloud Chaos to Developer Delight: Your Practical Guide to Building an Internal Developer Platform](https://dev.to/akshaymittal143/from-cloud-chaos-to-developer-delight-your-practical-guide-to-building-an-internal-developer-3o7n)
-- [AI HR Assistant with Amazon Bedrock Agent](https://dev.to/pnghaianh/ai-hr-assistant-with-amazon-bedrock-agent-4l3)
+- [React Animation Libraries in 2025: What Companies Are Actually Using](https://dev.to/raajaryan/react-animation-libraries-in-2025-what-companies-are-actually-using-3lik)
+- [Perl 🐪 Weekly #721 - Perl Roadmap](https://dev.to/szabgab/perl-weekly-721-perl-roadmap-1dlj)
+- [🔁 From Test Case Overload to Test Case Intelligence: Reinventing QA with GenQE](https://dev.to/vaibhavkuls/from-test-case-overload-to-test-case-intelligence-reinventing-qa-with-genqe-26j5)
+- [Cabang-Cabang OS](https://dev.to/rajaaaaa07_/cabang-cabang-os-706)
 <!-- BLOG-POST-LIST:END -->
 
 
