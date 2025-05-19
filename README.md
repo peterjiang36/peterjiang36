@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast API Request Handling](https://dev.to/hiteshchawla/fast-api-request-handling-39be)
-- [Brighter + Redis/Valkey: Como configurar o Brighter com Redis/Valkey](https://dev.to/actor-dev/brighter-redisvalkey-como-configurar-o-brighter-com-redisvalkey-4plp)
-- [Guide to using Filament Components in public-facing pages](https://dev.to/filamentmastery/guide-to-using-filament-components-in-public-facing-pages-nei)
-- [Brighter and Redis/Valkey: How to setup and use Brighter with Redis/Valkey](https://dev.to/actor-dev/brighter-and-redisvalkey-how-to-setup-and-use-brighter-with-redisvalkey-2djm)
+- [Quark’s Outlines: Python Special Characters](https://dev.to/mike-vincent/quarks-outlines-python-special-characters-3cf)
+- [What is IT Infrastructure?](https://dev.to/clouddefenseai/what-is-it-infrastructure-3aoc)
+- [🧪 A Beginner&#39;s Guide to Software Testing Types &lpar;And Why They Matter&rpar;](https://dev.to/queen911/a-beginners-guide-to-software-testing-types-and-why-they-matter-1864)
+- [Code, Coffee &amp; Chaos &lpar;My Full Stack Journey So Far&rpar;](https://dev.to/hprakash1999/code-coffee-chaos-my-full-stack-journey-so-far-5523)
 <!-- BLOG-POST-LIST:END -->
 
 
