@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Not Another UI Test: How API-First Testing Saved Our Pipeline](https://dev.to/p_0c0278d/not-another-ui-test-how-api-first-testing-saved-our-pipelin-31ke)
-- [Understanding CSS Transforms – A Beginner&#39;s Guide](https://dev.to/tamilselvan1812/understanding-css-transforms-a-beginners-guide-51bo)
-- [What the mean error: expected unqualified-id before &#39;if&#39;](https://dev.to/ali_04888e0fc61f550/what-the-mean-error-expected-unqualified-id-before-if-32pg)
-- [Advances in Robotics: Safety, Generalization, and Human-Robot Interaction in 2025 Research](https://dev.to/khanali21/advances-in-robotics-safety-generalization-and-human-robot-interaction-in-2025-research-2jk9)
+- [AWS and Docker Hub Limits: Smart Strategies for May 2025 Changes](https://dev.to/skillboosttrainer/aws-and-docker-hub-limits-smart-strategies-for-may-2025-changes-539h)
+- [Evolution of JavaScript](https://dev.to/iamasha/evolution-of-javascript-2lal)
+- [🟪 Made an omikuji generator—think it’ll work?](https://dev.to/uka_aidev/made-an-omikuji-generator-think-itll-work-2h5j)
+- [Modern Navbar](https://dev.to/maxuhhhh/modern-navbar-2h20)
 <!-- BLOG-POST-LIST:END -->
 
 
