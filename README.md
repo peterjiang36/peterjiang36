@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Setting Up Cloud-based CI-CD Pipeline 🔄](https://dev.to/madhurima_rawat/setting-up-cloud-based-ci-cd-pipeline-3jjn)
-- [How License Tokens Could Unlock Social Media Data for AI Training](https://dev.to/kallileiser/how-license-tokens-could-unlock-social-media-data-for-ai-training-48dg)
-- [Iris-AgenticAI: Enterprise Automation Powered by OpenAI’s Agentic SDK for Intelligent Multi-Agent Workflows](https://dev.to/intersystems/iris-agenticai-enterprise-automation-powered-by-openais-agentic-sdk-for-intelligent-multi-agent-3iae)
-- [Cybersecurity Essentials for the Modern Workplace](https://dev.to/kevin_asutton_/cybersecurity-essentials-for-the-modern-workplace-2egg)
+- [Will AI Replace Coders? How Developers Can Stay Relevant in the Age of AI Tools](https://dev.to/mikevarenek/will-ai-replace-coders-how-developers-can-stay-relevant-in-the-age-of-ai-tools-4c9f)
+- [enumerate in Python](https://dev.to/hyperkai/enumerate-in-python-32d4)
+- [range in Python](https://dev.to/hyperkai/range-in-python-46k9)
+- [O que são Middlewares em APIs .NET?](https://dev.to/gustavo_cremonez/o-que-sao-middlewares-em-apis-net-1i)
 <!-- BLOG-POST-LIST:END -->
 
 
