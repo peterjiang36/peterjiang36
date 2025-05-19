@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Notify: A notification service delivering university announcements to 1000+ users.](https://dev.to/chethaslp/designing-notify-a-notification-service-delivering-university-announcements-to-1000-users-3991)
-- [5 Things I Wish I Knew Before Learning to Code &lpar;With Simple Code Examples&rpar;](https://dev.to/mariecolvinn/5-things-i-wish-i-knew-before-learning-to-code-with-simple-code-examples-2j0p)
-- [Platform Engineering 101: Build Faster, Ship Safer](https://dev.to/gatling/platform-engineering-101-build-faster-ship-safer-4ogb)
-- [PawSQL Community Edition: A Free &amp; Self-Hosted Enterprise-Grade SQL Optimizer, Now Available to Individual Developers](https://dev.to/pawsql/pawsql-community-edition-a-free-self-hosted-enterprise-grade-sql-optimizer-now-available-to-k8n)
+- [Not Another UI Test: How API-First Testing Saved Our Pipeline](https://dev.to/p_0c0278d/not-another-ui-test-how-api-first-testing-saved-our-pipelin-31ke)
+- [Understanding CSS Transforms – A Beginner&#39;s Guide](https://dev.to/tamilselvan1812/understanding-css-transforms-a-beginners-guide-51bo)
+- [What the mean error: expected unqualified-id before &#39;if&#39;](https://dev.to/ali_04888e0fc61f550/what-the-mean-error-expected-unqualified-id-before-if-32pg)
+- [Advances in Robotics: Safety, Generalization, and Human-Robot Interaction in 2025 Research](https://dev.to/khanali21/advances-in-robotics-safety-generalization-and-human-robot-interaction-in-2025-research-2jk9)
 <!-- BLOG-POST-LIST:END -->
 
 
