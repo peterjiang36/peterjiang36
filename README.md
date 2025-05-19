@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Custom Reactive Library in Vanilla JS](https://dev.to/omriluz1/implementing-a-custom-reactive-library-in-vanilla-js-4i2o)
-- [How to use Postgresql psql shell command line](https://dev.to/wakeup_flower_8591a6cb6a9/how-to-use-postgresql-psql-shell-command-line-3pp9)
-- [The Cloud Resume Challenge: a perfect way to explore the cloud](https://dev.to/jarosaw_aba_75c095abd8e/the-cloud-resume-challenge-a-perfect-way-to-explore-the-cloud-5gk5)
-- [How To Google GitHub Like a Pro Dev](https://dev.to/abubaker_siddique_513b7e2/how-to-google-github-like-a-pro-dev-4l19)
+- [Python vs SQL: Which is Best for Querying and Cleaning Data?](https://dev.to/kenyansa/python-vs-sql-which-is-best-for-querying-and-cleaning-data-pcf)
+- [Coolify Enable Wild Card SSL](https://dev.to/themodernpk/coolify-enable-wild-card-ssl-2gep)
+- [Forging the Future: My Ten-Year Journey Growing with Rust](https://dev.to/zhanghandong/forging-the-future-my-ten-year-journey-growing-with-rust-50f1)
+- [Building a Cyber-Resilient Business: Key Measures to Take](https://dev.to/marketdaily/building-a-cyber-resilient-business-key-measures-to-take-4830)
 <!-- BLOG-POST-LIST:END -->
 
 
