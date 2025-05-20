@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Ever Feel Stupid While Learning To Code?](https://dev.to/anitaolsen/you-ever-feel-stupid-while-learning-to-code-4jao)
-- [Essential Linux Commands for Beginners](https://dev.to/ranjithsrt1/essential-linux-commands-for-beginners-ped)
-- [🌀 From Fibonacci to Focus: How One Sequence Sparked My Coding Journey](https://dev.to/bhuvaneshm_dev/from-fibonacci-to-focus-how-one-sequence-sparked-my-coding-journey-4l96)
-- [Conquering the AWS Certified Machine Learning Engineer — Associate: My Roadmap to Success](https://dev.to/skillboosttrainer/conquering-the-aws-certified-machine-learning-engineer-associate-my-roadmap-to-success-5ad4)
+- [Day 26/ 30 Days of Linux Mastery: Storage Management in RHEL 9](https://dev.to/amandaigwe/day-26-30-days-of-linux-mastery-storage-management-in-rhel-9-1kml)
+- [DIY GPS Tracking with Arduino, SIM800L and Ublox Neo-6M](https://dev.to/payamhn/diy-gps-tracking-with-arduino-sim800l-and-ublox-neo-6m-5hde)
+- [DIY GPS Tracking with Arduino, SIM800L and Ublox Neo-6M](https://dev.to/payamhn/diy-gps-tracking-with-arduino-sim800l-and-ublox-neo-6m-24k2)
+- [Job Searching: A Strategic Journey](https://dev.to/neel_n_5ab496ca/job-searching-a-strategic-journey-4fp8)
 <!-- BLOG-POST-LIST:END -->
 
 
