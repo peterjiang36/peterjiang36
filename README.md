@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Optimization in Java – Or, How to Stop Leaking Your Sanity](https://dev.to/goldennoodles/memory-optimization-in-java-or-how-to-stop-leaking-your-sanity-424k)
-- [I Learned More From GitHub Issues Than Stack Overflow](https://dev.to/abubaker_siddique_513b7e2/i-learned-more-from-github-issues-than-stack-overflow-kpb)
-- [Why a developer portfolio is your best time investment?](https://dev.to/adamsnows/why-a-developer-portfolio-is-your-best-time-investment-4jde)
-- [Career Update - Internships](https://dev.to/pauletart/career-update-inernships-5bca)
+- [Exploring the Evolution of ECMAScript Standards](https://dev.to/omriluz1/exploring-the-evolution-of-ecmascript-standards-1pln)
+- [Hidden Strings: A Speculative Look at GPT-4’s Control Filters and Emergent Bypasses](https://dev.to/powpow_m_047adeb16598f8f/hidden-strings-a-speculative-look-at-gpt-4s-control-filters-and-emergent-bypasses-j5d)
+- [AWS startups](https://dev.to/simonnungwa/-2dch)
+- [Day 8: Let’s Get Greppy – Finding Text Like a Pro in RHEL 9](https://dev.to/higgs182092/day-8-lets-get-greppy-finding-text-like-a-pro-in-rhel-9-1a2k)
 <!-- BLOG-POST-LIST:END -->
 
 
