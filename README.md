@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Evolution of ECMAScript Standards](https://dev.to/omriluz1/exploring-the-evolution-of-ecmascript-standards-1pln)
-- [Hidden Strings: A Speculative Look at GPT-4’s Control Filters and Emergent Bypasses](https://dev.to/powpow_m_047adeb16598f8f/hidden-strings-a-speculative-look-at-gpt-4s-control-filters-and-emergent-bypasses-j5d)
-- [AWS startups](https://dev.to/simonnungwa/-2dch)
-- [Day 8: Let’s Get Greppy – Finding Text Like a Pro in RHEL 9](https://dev.to/higgs182092/day-8-lets-get-greppy-finding-text-like-a-pro-in-rhel-9-1a2k)
+- [Audible is using AI narration to help publishers crank out more audiobooks](https://dev.to/future_ai/audible-is-using-ai-narration-to-help-publishers-crank-out-more-audiobooks-2nlc)
+- [Microsoft’s plan to fix the web: letting every website run AI search for cheap](https://dev.to/future_ai/microsofts-plan-to-fix-the-web-letting-every-website-run-ai-search-for-cheap-4111)
+- [Netflix will show generative AI ads midway through streams in 2026](https://dev.to/future_ai/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026-7j0)
+- [It&#39;s Still Easier To Imagine The End Of The World Than The End Of Capitalism](https://dev.to/future_ai/its-still-easier-to-imagine-the-end-of-the-world-than-the-end-of-capitalism-1fio)
 <!-- BLOG-POST-LIST:END -->
 
 
