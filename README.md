@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Masa Depan Kripto di Indonesia: 5 Tren untuk 2025 dan Lebih Jauh](https://dev.to/zhangwei42/masa-depan-kripto-di-indonesia-5-tren-untuk-2025-dan-lebih-jauh-2nj0)
-- [[JS] One Mistake I Made with await in a Loop](https://dev.to/eminel9311/js-one-mistake-i-made-with-await-in-a-loop-54pk)
-- [Using Pub/Sub to Build a Serverless Async Processing Pipeline on GCP](https://dev.to/charlottetowell/using-pubsub-to-build-a-serverless-async-processing-pipeline-on-gcp-406p)
-- [AI for SEO? Still Useless Without Strategy.](https://dev.to/engineeredai/ai-for-seo-still-useless-without-strategy-4f01)
+- [Understanding SPF &lpar;Sender Policy Framework&rpar; at its core](https://dev.to/ogundiyantobiloba/understanding-spf-sender-policy-framework-at-its-core-e34)
+- [The Sender Policy Framework: Bare Bone Essentials](https://dev.to/ogundiyantobiloba/the-sender-policy-framework-bare-bone-essentials-3j24)
+- [Adding Typing Indicators to Real Time Chat Applications](https://dev.to/hexshift/adding-typing-indicators-to-real-time-chat-applications-76p)
+- [AGV Handling Robot Commonly Uses Sensor Principles and Their Advantages and Disadvantages, Application Introduction](https://dev.to/robotics_aiten_/agv-handling-robot-commonly-uses-sensor-principles-and-their-advantages-and-disadvantages-996)
 <!-- BLOG-POST-LIST:END -->
 
 
