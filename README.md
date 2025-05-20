@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 26/ 30 Days of Linux Mastery: Storage Management in RHEL 9](https://dev.to/amandaigwe/day-26-30-days-of-linux-mastery-storage-management-in-rhel-9-1kml)
-- [DIY GPS Tracking with Arduino, SIM800L and Ublox Neo-6M](https://dev.to/payamhn/diy-gps-tracking-with-arduino-sim800l-and-ublox-neo-6m-5hde)
-- [DIY GPS Tracking with Arduino, SIM800L and Ublox Neo-6M](https://dev.to/payamhn/diy-gps-tracking-with-arduino-sim800l-and-ublox-neo-6m-24k2)
-- [Job Searching: A Strategic Journey](https://dev.to/neel_n_5ab496ca/job-searching-a-strategic-journey-4fp8)
+- [Add subscriptions to your SaaS with Clerk Billing](https://dev.to/clerk/add-subscriptions-to-your-saas-with-clerk-billing-2l6a)
+- [🔍 Core Web Vitals Optimization: A Complete Guide &lpar;2025 Edition&rpar;](https://dev.to/arsalanmee/core-web-vitals-optimization-a-complete-guide-2025-edition-47fd)
+- [Building Microservices with Go: A Step-by-Step Guide](https://dev.to/adi73/building-microservices-with-go-a-step-by-step-guide-5dla)
+- [The Tiny Cat Guide to AI #1: Prompt Engineering – Directing the AI Ballet](https://dev.to/wsoltani/the-tiny-cat-guide-to-ai-1-prompt-engineering-directing-the-ai-ballet-238c)
 <!-- BLOG-POST-LIST:END -->
 
 
