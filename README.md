@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audible is using AI narration to help publishers crank out more audiobooks](https://dev.to/future_ai/audible-is-using-ai-narration-to-help-publishers-crank-out-more-audiobooks-2nlc)
-- [Microsoft’s plan to fix the web: letting every website run AI search for cheap](https://dev.to/future_ai/microsofts-plan-to-fix-the-web-letting-every-website-run-ai-search-for-cheap-4111)
-- [Netflix will show generative AI ads midway through streams in 2026](https://dev.to/future_ai/netflix-will-show-generative-ai-ads-midway-through-streams-in-2026-7j0)
-- [It&#39;s Still Easier To Imagine The End Of The World Than The End Of Capitalism](https://dev.to/future_ai/its-still-easier-to-imagine-the-end-of-the-world-than-the-end-of-capitalism-1fio)
+- [Mastering JSX Fundamentals in React: From Destructuring to Promises](https://dev.to/cristiansifuentes/mastering-jsx-fundamentals-in-react-from-destructuring-to-promises-d0p)
+- [The Rise of DNA Computing — Biology’s Answer to Silicon](https://dev.to/alireza_minagar_99f01ecb6/the-rise-of-dna-computing-biologys-answer-to-silicon-77d)
+- [New Backend Integrations for the Firebase Studio App Prototyping Agent](https://dev.to/chibichibibr/new-backend-integrations-for-the-firebase-studio-app-prototyping-agent-2kc0)
+- [Emergent Behavior in an AI Instance](https://dev.to/powpow_m_047adeb16598f8f/emergent-behavior-in-an-ai-instance-5ah6)
 <!-- BLOG-POST-LIST:END -->
 
 
