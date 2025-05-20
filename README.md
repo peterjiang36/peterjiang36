@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Coding Game with These Free Vibe Coding Tools!](https://dev.to/pavanbelagatti/level-up-your-coding-game-with-these-free-vibe-coding-tools-2fii)
-- [Unlocking the Power of AI: Your Guide to Free OpenAI API Keys in 2025](https://dev.to/fallon_jimmy/unlocking-the-power-of-ai-your-guide-to-free-openai-api-keys-in-2025-22pj)
-- [Understanding the Distinctions Between Continuous Integration and Continuous Delivery, Agile Methodology, and DevOps](https://dev.to/misterankit/understanding-the-distinctions-between-continuous-integration-and-continuous-delivery-agile-2pj3)
-- [I am trying create application for the android tv boot on lunch](https://dev.to/santosh_pradhan_b6f2f48f1/i-am-trying-create-application-for-the-android-tv-boot-on-lunch-5d77)
+- [How to Install SmolDocling-256M-Preview Locally?](https://dev.to/nodeshiftcloud/how-to-install-smoldocling-256m-preview-locally-11a1)
+- [How to Build AI Agents to Enhance SaaS With Minimal Code and Effort](https://dev.to/zenstack/how-to-build-ai-agents-to-enhance-saas-with-minimal-code-and-effort-3kj2)
+- [How to Use Qwen3 APIs for Free: Step-by-Step Instructions](https://dev.to/fallon_jimmy/how-to-use-qwen3-apis-for-free-step-by-step-instructions-4i1g)
+- [VS Code’s AI Secrets Just Went Open Source -You Won’t Believe What’s Next!](https://dev.to/p_0c0278d/vs-codes-ai-secrets-just-went-open-source-you-wont-believe-whats-next-1o3d)
 <!-- BLOG-POST-LIST:END -->
 
 
