@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Virtual Frontiers](https://dev.to/rawveg/navigating-virtual-frontiers-5027)
-- [Dark and Light Mode for the non-standard tools](https://dev.to/jonasbn/dark-and-light-mode-for-the-non-standard-tools-3b49)
-- [From Junior to Senior Dev: The Non-Technical Skills That Matter](https://dev.to/tasmark/from-junior-to-senior-dev-the-non-technical-skills-that-matter-57h7)
-- [To script, or not to script...](https://dev.to/jkeown/to-script-or-not-to-script-3cko)
+- [Build a Streamlit App to Find the Closest CSS Color Name Using Python 🎨✨](https://dev.to/nish2005karsh/build-a-streamlit-app-to-find-the-closest-css-color-name-using-python-5fac)
+- [Why Patient Developers Make the Best Decisions](https://dev.to/tonystpierre/why-patient-developers-make-the-best-decisions-36p4)
+- [🚀 Leveraging the Power of AWS ECS to Deploy Flask Tic-Tac-Toe Game](https://dev.to/aws-builders/leveraging-the-power-of-aws-ecs-to-deploy-flask-tic-tac-toe-game-1ip9)
+- [FastAPI Unleashed: Building Modern and High-Performance APIs](https://dev.to/wallaceespindola/fastapi-your-fast-and-modern-framework-for-apis-3mmo)
 <!-- BLOG-POST-LIST:END -->
 
 
