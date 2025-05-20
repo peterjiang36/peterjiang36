@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install SmolDocling-256M-Preview Locally?](https://dev.to/nodeshiftcloud/how-to-install-smoldocling-256m-preview-locally-11a1)
-- [How to Build AI Agents to Enhance SaaS With Minimal Code and Effort](https://dev.to/zenstack/how-to-build-ai-agents-to-enhance-saas-with-minimal-code-and-effort-3kj2)
-- [How to Use Qwen3 APIs for Free: Step-by-Step Instructions](https://dev.to/fallon_jimmy/how-to-use-qwen3-apis-for-free-step-by-step-instructions-4i1g)
-- [VS Code’s AI Secrets Just Went Open Source -You Won’t Believe What’s Next!](https://dev.to/p_0c0278d/vs-codes-ai-secrets-just-went-open-source-you-wont-believe-whats-next-1o3d)
+- [💻 If You Can’t Answer These 40 Next.js Questions, You’re Not Ready for 2025 Interviews ⚠️](https://dev.to/finalroundai/if-you-cant-answer-these-40-nextjs-questions-youre-not-ready-for-2025-interviews-1lfd)
+- [TypeScript Type Vs Interface? The Answer Is Type!](https://dev.to/mayallo/typescript-type-vs-interface-the-answer-is-type-38g5)
+- [From scratch: Build a CSS Animated React Carousel Component](https://dev.to/morewings/from-scratch-build-a-css-animated-react-carousel-component-5fhk)
+- [Vector Database Showdown: Architectural Insights for AI Developers](https://dev.to/schiffer_kate_18420bf9766/vector-database-showdown-architectural-insights-for-ai-developers-3l8k)
 <!-- BLOG-POST-LIST:END -->
 
 
