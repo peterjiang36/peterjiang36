@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your terminal is boring and what to use instead](https://dev.to/devlinktips/why-your-terminal-is-boring-and-what-to-use-instead-26f)
-- [Simple Gas Optimization Techniques Every Ethereum Developer Should Know](https://dev.to/dhis_is_jj/simple-gas-optimization-techniques-every-ethereum-developer-should-know-2ei4)
-- [🚀 Meet ApolloAgent: The Code Assistant I Built So I’d Stop Talking to Myself](https://dev.to/albz/meet-apolloagent-the-code-assistant-i-built-so-id-stop-talking-to-myself-4fp4)
-- [Why Everyone’s Building AI Apps, and No One’s Fixing the Old Ones](https://dev.to/santoshi_kumari_c34ae877b/why-everyones-building-ai-apps-and-no-ones-fixing-the-old-ones-5500)
+- [The Seven Types of Locks in InnoDB](https://dev.to/yangguangyong/the-seven-types-of-locks-in-innodb-5h0a)
+- [Design de vício: o que apps aprenderam com cassinos](https://dev.to/alissonfcosta/design-de-vicio-o-que-apps-aprenderam-com-cassinos-3feb)
+- [How to integrate AI into DevOps workflows?](https://dev.to/jevin/how-to-integrate-ai-into-devops-workflows-1d3m)
+- [Laravel + Inertia: Build modern apps without leaving laravel](https://dev.to/aleson-franca/laravel-inertia-build-modern-apps-without-leaving-laravel-37nn)
 <!-- BLOG-POST-LIST:END -->
 
 
