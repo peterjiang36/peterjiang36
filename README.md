@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Streamlit App to Find the Closest CSS Color Name Using Python 🎨✨](https://dev.to/nish2005karsh/build-a-streamlit-app-to-find-the-closest-css-color-name-using-python-5fac)
-- [Why Patient Developers Make the Best Decisions](https://dev.to/tonystpierre/why-patient-developers-make-the-best-decisions-36p4)
-- [🚀 Leveraging the Power of AWS ECS to Deploy Flask Tic-Tac-Toe Game](https://dev.to/aws-builders/leveraging-the-power-of-aws-ecs-to-deploy-flask-tic-tac-toe-game-1ip9)
-- [FastAPI Unleashed: Building Modern and High-Performance APIs](https://dev.to/wallaceespindola/fastapi-your-fast-and-modern-framework-for-apis-3mmo)
+- [Memory Optimization in Java – Or, How to Stop Leaking Your Sanity](https://dev.to/goldennoodles/memory-optimization-in-java-or-how-to-stop-leaking-your-sanity-424k)
+- [I Learned More From GitHub Issues Than Stack Overflow](https://dev.to/abubaker_siddique_513b7e2/i-learned-more-from-github-issues-than-stack-overflow-kpb)
+- [Why a developer portfolio is your best time investment?](https://dev.to/adamsnows/why-a-developer-portfolio-is-your-best-time-investment-4jde)
+- [Career Update - Internships](https://dev.to/pauletart/career-update-inernships-5bca)
 <!-- BLOG-POST-LIST:END -->
 
 
