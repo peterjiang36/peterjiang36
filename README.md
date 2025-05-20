@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 If You Can’t Answer These 40 Next.js Questions, You’re Not Ready for 2025 Interviews ⚠️](https://dev.to/finalroundai/if-you-cant-answer-these-40-nextjs-questions-youre-not-ready-for-2025-interviews-1lfd)
-- [TypeScript Type Vs Interface? The Answer Is Type!](https://dev.to/mayallo/typescript-type-vs-interface-the-answer-is-type-38g5)
-- [From scratch: Build a CSS Animated React Carousel Component](https://dev.to/morewings/from-scratch-build-a-css-animated-react-carousel-component-5fhk)
-- [Vector Database Showdown: Architectural Insights for AI Developers](https://dev.to/schiffer_kate_18420bf9766/vector-database-showdown-architectural-insights-for-ai-developers-3l8k)
+- [💼 40 Java Interview Questions Every Developer Should Master](https://dev.to/coursedia/40-java-interview-questions-every-developer-should-master-20d9)
+- [Analyzing DuckDB’s Performance Optimization through TOPN and COUNT DISTINCT Operations](https://dev.to/serina_8340/analyzing-duckdbs-performance-optimization-through-topn-and-count-distinct-operations-218p)
+- [A Quick Guide to Making a Loan App](https://dev.to/david_beckam_df898f761b30/a-quick-guide-to-making-a-loan-app-3cfb)
+- [Version Fatigue Is Real and the AI Models Keep Multiplying”](https://dev.to/santoshi_kumari_c34ae877b/version-fatigue-is-real-and-the-ai-models-keep-multiplying-57cj)
 <!-- BLOG-POST-LIST:END -->
 
 
