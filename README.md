@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Separating Logic from UI in React: A Comparison with Angular Services](https://dev.to/rcrd/separating-logic-from-ui-in-react-a-comparison-with-angular-services-5en)
-- [I&#39;m currently taking an Intermission/break from posting and sharing so that I can focus more on my work and studies. My part-time studies is in the final stretch, so I need to give it my full attention. #takingabreak](https://dev.to/d2d_weizhi/im-currently-taking-an-intermissionbreak-from-posting-and-sharing-so-that-i-can-focus-more-on-my-4ijk)
-- [Mengapa Ethereum Tetap Menjadi Pilihan Utama Trader Kripto Indonesia di 2025: Analisis Mendalam dan Peluang](https://dev.to/kallileiser/mengapa-ethereum-tetap-menjadi-pilihan-utama-trader-kripto-indonesia-di-2025-analisis-mendalam-dan-45jo)
-- [🎭 Must-Know CSS Pseudo-elements &lpar;and When to Use Them&rpar;](https://dev.to/sejutaimpian/must-know-css-pseudo-elements-and-when-to-use-them-3a48)
+- [Masa Depan Kripto di Indonesia: 5 Tren untuk 2025 dan Lebih Jauh](https://dev.to/zhangwei42/masa-depan-kripto-di-indonesia-5-tren-untuk-2025-dan-lebih-jauh-2nj0)
+- [[JS] One Mistake I Made with await in a Loop](https://dev.to/eminel9311/js-one-mistake-i-made-with-await-in-a-loop-54pk)
+- [Using Pub/Sub to Build a Serverless Async Processing Pipeline on GCP](https://dev.to/charlottetowell/using-pubsub-to-build-a-serverless-async-processing-pipeline-on-gcp-406p)
+- [AI for SEO? Still Useless Without Strategy.](https://dev.to/engineeredai/ai-for-seo-still-useless-without-strategy-4f01)
 <!-- BLOG-POST-LIST:END -->
 
 
