@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add subscriptions to your SaaS with Clerk Billing](https://dev.to/clerk/add-subscriptions-to-your-saas-with-clerk-billing-2l6a)
-- [🔍 Core Web Vitals Optimization: A Complete Guide &lpar;2025 Edition&rpar;](https://dev.to/arsalanmee/core-web-vitals-optimization-a-complete-guide-2025-edition-47fd)
-- [Building Microservices with Go: A Step-by-Step Guide](https://dev.to/adi73/building-microservices-with-go-a-step-by-step-guide-5dla)
-- [The Tiny Cat Guide to AI #1: Prompt Engineering – Directing the AI Ballet](https://dev.to/wsoltani/the-tiny-cat-guide-to-ai-1-prompt-engineering-directing-the-ai-ballet-238c)
+- [Navigating Virtual Frontiers](https://dev.to/rawveg/navigating-virtual-frontiers-5027)
+- [Dark and Light Mode for the non-standard tools](https://dev.to/jonasbn/dark-and-light-mode-for-the-non-standard-tools-3b49)
+- [From Junior to Senior Dev: The Non-Technical Skills That Matter](https://dev.to/tasmark/from-junior-to-senior-dev-the-non-technical-skills-that-matter-57h7)
+- [To script, or not to script...](https://dev.to/jkeown/to-script-or-not-to-script-3cko)
 <!-- BLOG-POST-LIST:END -->
 
 
