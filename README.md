@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Seven Types of Locks in InnoDB](https://dev.to/yangguangyong/the-seven-types-of-locks-in-innodb-5h0a)
-- [Design de vício: o que apps aprenderam com cassinos](https://dev.to/alissonfcosta/design-de-vicio-o-que-apps-aprenderam-com-cassinos-3feb)
-- [How to integrate AI into DevOps workflows?](https://dev.to/jevin/how-to-integrate-ai-into-devops-workflows-1d3m)
-- [Laravel + Inertia: Build modern apps without leaving laravel](https://dev.to/aleson-franca/laravel-inertia-build-modern-apps-without-leaving-laravel-37nn)
+- [Why API design is a mess, and how could a git-native tool help?](https://dev.to/kiselitza/why-api-design-is-a-mess-and-how-could-a-git-native-tool-help-39ii)
+- [Deploy And Configure An Azure Firewall Instance.](https://dev.to/lotanna_obianefo/deploy-and-configure-an-azure-firewall-instance-1jpm)
+- [Xiaomi RedmiBook: How to Fix Wi-Fi Issues on Linux &lpar;Debian distros&rpar;](https://dev.to/rafahs/xiaomi-redmibook-how-to-fix-wi-fi-issues-on-linux-debian-distros-ka7)
+- [The Future of Learning Is Modular, Voice-Driven, and Personal](https://dev.to/code_aetheris/the-future-of-learning-is-modular-voice-driven-and-personal-107d)
 <!-- BLOG-POST-LIST:END -->
 
 
