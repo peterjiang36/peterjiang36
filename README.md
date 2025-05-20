@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Livros de Programação Escritos por Brasileiros ou em Português](https://dev.to/marcosplusplus/10-livros-de-programacao-escritos-por-brasileiros-ou-em-portugues-4675)
-- [OWASP® Cornucopia 2.2 &amp; Copi - A Game Engine for OWASP® Cornucopia Threat Modeling](https://dev.to/owasp/owaspr-cornucopia-22-copi-a-game-engine-for-owaspr-cornucopia-threat-modeling-4okj)
-- [🔐 Git + GitHub con SSH: Guía paso a paso &lpar;y sin morir en el intento&rpar;](https://dev.to/jetaype21/git-github-con-ssh-guia-paso-a-paso-y-sin-morir-en-el-intento-ig4)
-- [Why Repetitive Code is Problem in React? | Why is my React code running twice?](https://dev.to/code_area_9036c9663233d92/why-repetitive-code-is-problem-in-react-why-is-my-react-code-running-twice-f4)
+- [Print Smarter in Ruby - Know When and How to Use Each Method](https://dev.to/rob__race/print-smarter-in-ruby-know-when-and-how-to-use-each-method-4d9f)
+- [Mastering `useMemo` and `useCallback` in React: A Deep Dive](https://dev.to/cristiansifuentes/mastering-usememo-and-usecallback-in-react-a-deep-dive-4432)
+- [Document Processing Libraries for Word to PDF on .NET 8 &lpar;Linux Azure Functions&rpar;](https://dev.to/adzhydra/document-processing-libraries-for-word-to-pdf-on-net-8-linux-azure-functions-11j1)
+- [Rails Controller Callback Order With Concerns](https://dev.to/kevin_j_m/rails-controller-callback-order-with-concerns-273j)
 <!-- BLOG-POST-LIST:END -->
 
 
