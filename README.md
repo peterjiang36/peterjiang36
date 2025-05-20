@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚧 Understanding CORS: Cross-Origin Resource Sharing for Web Developers](https://dev.to/inam003/understanding-cors-cross-origin-resource-sharing-for-web-developers-59gm)
-- [Advanced NgRx Patterns for Enterprise Angular Applications](https://dev.to/michael-gokey/advanced-ngrx-patterns-for-enterprise-angular-applications-5ki)
-- [NgRx State Management Across Angular Modules](https://dev.to/michael-gokey/ngrx-state-management-across-angular-modules-264)
-- [Background jobs with Rails 8 are delightful](https://dev.to/bdavidxyz/background-jobs-with-rails-8-are-delightful-22ce)
+- [Level Up Your Coding Game with These Free Vibe Coding Tools!](https://dev.to/pavanbelagatti/level-up-your-coding-game-with-these-free-vibe-coding-tools-2fii)
+- [Unlocking the Power of AI: Your Guide to Free OpenAI API Keys in 2025](https://dev.to/fallon_jimmy/unlocking-the-power-of-ai-your-guide-to-free-openai-api-keys-in-2025-22pj)
+- [Understanding the Distinctions Between Continuous Integration and Continuous Delivery, Agile Methodology, and DevOps](https://dev.to/misterankit/understanding-the-distinctions-between-continuous-integration-and-continuous-delivery-agile-2pj3)
+- [I am trying create application for the android tv boot on lunch](https://dev.to/santosh_pradhan_b6f2f48f1/i-am-trying-create-application-for-the-android-tv-boot-on-lunch-5d77)
 <!-- BLOG-POST-LIST:END -->
 
 
