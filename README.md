@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SPF &lpar;Sender Policy Framework&rpar; at its core](https://dev.to/ogundiyantobiloba/understanding-spf-sender-policy-framework-at-its-core-e34)
-- [The Sender Policy Framework: Bare Bone Essentials](https://dev.to/ogundiyantobiloba/the-sender-policy-framework-bare-bone-essentials-3j24)
-- [Adding Typing Indicators to Real Time Chat Applications](https://dev.to/hexshift/adding-typing-indicators-to-real-time-chat-applications-76p)
-- [AGV Handling Robot Commonly Uses Sensor Principles and Their Advantages and Disadvantages, Application Introduction](https://dev.to/robotics_aiten_/agv-handling-robot-commonly-uses-sensor-principles-and-their-advantages-and-disadvantages-996)
+- [🚧 Understanding CORS: Cross-Origin Resource Sharing for Web Developers](https://dev.to/inam003/understanding-cors-cross-origin-resource-sharing-for-web-developers-59gm)
+- [Advanced NgRx Patterns for Enterprise Angular Applications](https://dev.to/michael-gokey/advanced-ngrx-patterns-for-enterprise-angular-applications-5ki)
+- [NgRx State Management Across Angular Modules](https://dev.to/michael-gokey/ngrx-state-management-across-angular-modules-264)
+- [Background jobs with Rails 8 are delightful](https://dev.to/bdavidxyz/background-jobs-with-rails-8-are-delightful-22ce)
 <!-- BLOG-POST-LIST:END -->
 
 
