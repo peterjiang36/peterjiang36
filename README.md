@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Print Smarter in Ruby - Know When and How to Use Each Method](https://dev.to/rob__race/print-smarter-in-ruby-know-when-and-how-to-use-each-method-4d9f)
-- [Mastering `useMemo` and `useCallback` in React: A Deep Dive](https://dev.to/cristiansifuentes/mastering-usememo-and-usecallback-in-react-a-deep-dive-4432)
-- [Document Processing Libraries for Word to PDF on .NET 8 &lpar;Linux Azure Functions&rpar;](https://dev.to/adzhydra/document-processing-libraries-for-word-to-pdf-on-net-8-linux-azure-functions-11j1)
-- [Rails Controller Callback Order With Concerns](https://dev.to/kevin_j_m/rails-controller-callback-order-with-concerns-273j)
+- [Separating Logic from UI in React: A Comparison with Angular Services](https://dev.to/rcrd/separating-logic-from-ui-in-react-a-comparison-with-angular-services-5en)
+- [I&#39;m currently taking an Intermission/break from posting and sharing so that I can focus more on my work and studies. My part-time studies is in the final stretch, so I need to give it my full attention. #takingabreak](https://dev.to/d2d_weizhi/im-currently-taking-an-intermissionbreak-from-posting-and-sharing-so-that-i-can-focus-more-on-my-4ijk)
+- [Mengapa Ethereum Tetap Menjadi Pilihan Utama Trader Kripto Indonesia di 2025: Analisis Mendalam dan Peluang](https://dev.to/kallileiser/mengapa-ethereum-tetap-menjadi-pilihan-utama-trader-kripto-indonesia-di-2025-analisis-mendalam-dan-45jo)
+- [🎭 Must-Know CSS Pseudo-elements &lpar;and When to Use Them&rpar;](https://dev.to/sejutaimpian/must-know-css-pseudo-elements-and-when-to-use-them-3a48)
 <!-- BLOG-POST-LIST:END -->
 
 
