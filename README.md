@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why API design is a mess, and how could a git-native tool help?](https://dev.to/kiselitza/why-api-design-is-a-mess-and-how-could-a-git-native-tool-help-39ii)
-- [Deploy And Configure An Azure Firewall Instance.](https://dev.to/lotanna_obianefo/deploy-and-configure-an-azure-firewall-instance-1jpm)
-- [Xiaomi RedmiBook: How to Fix Wi-Fi Issues on Linux &lpar;Debian distros&rpar;](https://dev.to/rafahs/xiaomi-redmibook-how-to-fix-wi-fi-issues-on-linux-debian-distros-ka7)
-- [The Future of Learning Is Modular, Voice-Driven, and Personal](https://dev.to/code_aetheris/the-future-of-learning-is-modular-voice-driven-and-personal-107d)
+- [Do You Ever Feel Stupid While Learning To Code?](https://dev.to/anitaolsen/you-ever-feel-stupid-while-learning-to-code-4jao)
+- [Essential Linux Commands for Beginners](https://dev.to/ranjithsrt1/essential-linux-commands-for-beginners-ped)
+- [🌀 From Fibonacci to Focus: How One Sequence Sparked My Coding Journey](https://dev.to/bhuvaneshm_dev/from-fibonacci-to-focus-how-one-sequence-sparked-my-coding-journey-4l96)
+- [Conquering the AWS Certified Machine Learning Engineer — Associate: My Roadmap to Success](https://dev.to/skillboosttrainer/conquering-the-aws-certified-machine-learning-engineer-associate-my-roadmap-to-success-5ad4)
 <!-- BLOG-POST-LIST:END -->
 
 
