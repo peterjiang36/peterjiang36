@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding API Loading Delays: Common Causes](https://dev.to/davinceleecode/understanding-api-loading-delays-common-causes-1ka)
-- [Decoding Image Segmentation: From Basic Pixels to Panoptic Perfection](https://dev.to/aniruddhaadak_/decoding-image-segmentation-from-basic-pixels-to-panoptic-perfection-4dhg)
-- [PandaStack: The All-in-One Platform Solving Developer Infrastructure Headaches](https://dev.to/pandastack/pandastack-the-all-in-one-platform-solving-developer-infrastructure-headaches-567a)
-- [Why IBM iSeries &lpar;AS400&rpar; Is Still Critical for Enterprise IT—and How to Modernize It | United Techno](https://dev.to/unitedtechno/why-ibm-iseries-as400-is-still-critical-for-enterprise-it-and-how-to-modernize-it-united-techno-25mb)
+- [Mobile Gaming Just Got a Massive Boost , Arm&#39;s New ASR Tech Explained &lpar;For the Ones Who Missed This Update&rpar;](https://dev.to/p_0c0278d/mobile-gaming-just-got-a-massive-boost-arms-new-asr-tech-explained-for-the-ones-who-missed-this-58m6)
+- [Import Maps: Why Nobody Talks About Them &lpar;But Maybe Should&rpar;](https://dev.to/marie_berezhna/import-maps-why-nobody-talks-about-them-but-maybe-should-3ckl)
+- [Microservices simply](https://dev.to/vjnvisakh/microservices-simply-3dei)
+- [Basic API Security Testing Checklist for Developers and Pentesters](https://dev.to/msnmongare/basic-api-security-testing-checklist-for-developers-and-pentesters-548c)
 <!-- BLOG-POST-LIST:END -->
 
 
