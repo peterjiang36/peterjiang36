@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Gaming Just Got a Massive Boost , Arm&#39;s New ASR Tech Explained &lpar;For the Ones Who Missed This Update&rpar;](https://dev.to/p_0c0278d/mobile-gaming-just-got-a-massive-boost-arms-new-asr-tech-explained-for-the-ones-who-missed-this-58m6)
-- [Import Maps: Why Nobody Talks About Them &lpar;But Maybe Should&rpar;](https://dev.to/marie_berezhna/import-maps-why-nobody-talks-about-them-but-maybe-should-3ckl)
-- [Microservices simply](https://dev.to/vjnvisakh/microservices-simply-3dei)
-- [Basic API Security Testing Checklist for Developers and Pentesters](https://dev.to/msnmongare/basic-api-security-testing-checklist-for-developers-and-pentesters-548c)
+- [📊 Did you know this?](https://dev.to/tpeoficial/did-you-know-this-4e04)
+- [🧨 Solidity Security 101: Mistakes I’ll Never Make Again](https://dev.to/dhis_is_jj/solidity-security-101-mistakes-ill-never-make-again-3pi5)
+- [Boost Your JavaScript Skills with Closures, Promises, and Async/Await](https://dev.to/code_area_9036c9663233d92/boost-your-javascript-skills-with-closures-promises-and-asyncawait-5064)
+- [The Ultimate React Folder Structure I Use as a Frontend Developer](https://dev.to/sercangundogan/the-ultimate-react-folder-structure-i-use-as-a-frontend-developer-4pfm)
 <!-- BLOG-POST-LIST:END -->
 
 
