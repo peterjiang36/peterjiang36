@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a simple Virtualized List/ Sliding Window](https://dev.to/gunjangidwani/create-a-simple-virtualized-list-sliding-window-akp)
-- [A smart take on how to turn cold leads into warm opportunities over time.](https://dev.to/robert_lanister_916b8b146/a-smart-take-on-how-to-turn-cold-leads-into-warm-opportunities-over-time-37hg)
-- [BeaconAI: a Fun AI Project &lpar;Built with GPT, ElevenLabs, Replicate &amp; More&rpar;](https://dev.to/maxfrecka/beaconai-a-fun-ai-project-built-with-gpt-elevenlabs-replicate-more-5hid)
-- [5 JavaScript Tricks I Wish I Knew Earlier. &lpar;That You’ll Love Too&rpar;](https://dev.to/mohd_shafi_dev_01/5-javascript-tricks-i-wish-i-knew-earlier-that-youll-love-too-36j8)
+- [# 🔗 nodeBond – Local IPC Bridge for Node.js &lpar;no TCP, no dependencies&rpar;](https://dev.to/xzdes/-nodebond-local-ipc-bridge-for-nodejs-no-tcp-no-dependencies-8c9)
+- [Self-Paced Learning Strategies for Today’s Evolving Job Market](https://dev.to/marketdaily/self-paced-learning-strategies-for-todays-evolving-job-market-2nm4)
+- [Debugging Embedded Systems: Practical Tips for Developers](https://dev.to/kalvin_mccallum/debugging-embedded-systems-practical-tips-for-developers-12ho)
+- [Parameter decorators in NestJS](https://dev.to/wakeup_flower_8591a6cb6a9/parameter-decorators-in-nestjs-2l5f)
 <!-- BLOG-POST-LIST:END -->
 
 
