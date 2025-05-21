@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [👀 👀](https://dev.to/maxprilutskiy/-5hk)
-- [PWC 322 String Format](https://dev.to/boblied/pwc-322-string-format-33pd)
-- [HTML5 Elements You Didn&#39;t Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan)
-- [Listing Microsoft 365 Services](https://dev.to/ranjit_rimal_3bfb1aea03e6/list-your-microsoft-365-services-43ok)
+- [Java Resource Management and Leak Prevention: Insights from SeaTunnel Source Code](https://dev.to/seatunnel/java-resource-management-and-leak-prevention-insights-from-seatunnel-source-code-33m3)
+- [AI CreaI](https://dev.to/qqriri99/ai-creai-6jn)
+- [Beyond IT School: How I Spent 4 Months Enhancing My Portfolio](https://dev.to/caner_yesiltas/beyond-it-school-how-i-spent-4-months-enhancing-my-portfolio-4jj7)
+- [AI is Quietly Changing Everything. Are you Keeping Up?](https://dev.to/abhishek_somashekar_c515b/ai-is-quietly-changing-everything-are-you-keeping-up-3dn0)
 <!-- BLOG-POST-LIST:END -->
 
 
