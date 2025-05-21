@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step on how to Link SSH to GitHub from Your Server](https://dev.to/msnmongare/step-by-step-on-how-to-link-ssh-to-github-from-your-server-2h7h)
-- [⚙️ The Impact of Edge Functions on Frontend Performance](https://dev.to/hasunnilupul/the-impact-of-edge-functions-on-frontend-performance-1lde)
-- [📅 Mastering Java Date and Time API: LocalDate, LocalTime, LocalDateTime, and ZonedDateTime](https://dev.to/rock_win_c053fa5fb2399067/mastering-java-date-and-time-api-localdate-localtime-localdatetime-and-zoneddatetime-3518)
-- [Why You Need an AI Code Checker](https://dev.to/keploy/why-you-need-an-ai-code-checker-376)
+- [Understanding API Loading Delays: Common Causes](https://dev.to/davinceleecode/understanding-api-loading-delays-common-causes-1ka)
+- [Decoding Image Segmentation: From Basic Pixels to Panoptic Perfection](https://dev.to/aniruddhaadak_/decoding-image-segmentation-from-basic-pixels-to-panoptic-perfection-4dhg)
+- [PandaStack: The All-in-One Platform Solving Developer Infrastructure Headaches](https://dev.to/pandastack/pandastack-the-all-in-one-platform-solving-developer-infrastructure-headaches-567a)
+- [Why IBM iSeries &lpar;AS400&rpar; Is Still Critical for Enterprise IT—and How to Modernize It | United Techno](https://dev.to/unitedtechno/why-ibm-iseries-as400-is-still-critical-for-enterprise-it-and-how-to-modernize-it-united-techno-25mb)
 <!-- BLOG-POST-LIST:END -->
 
 
