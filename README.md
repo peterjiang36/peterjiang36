@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mike-vincent/-2k0m)
-- [Visual AI: The Secret Weapon Every Designer Needs to Know About](https://dev.to/atforeveryoung/visual-ai-the-secret-weapon-every-designer-needs-to-know-about-1naf)
-- [Daily JavaScript Challenge #JS-184: Flatten an Object with Nested Objects](https://dev.to/dpc/daily-javascript-challenge-js-184-flatten-an-object-with-nested-objects-15ko)
-- [Apple Developer Relations](https://dev.to/trozware/apple-developer-relations-3c6b)
+- [👀 👀](https://dev.to/maxprilutskiy/-5hk)
+- [PWC 322 String Format](https://dev.to/boblied/pwc-322-string-format-33pd)
+- [HTML5 Elements You Didn&#39;t Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan)
+- [Listing Microsoft 365 Services](https://dev.to/ranjit_rimal_3bfb1aea03e6/list-your-microsoft-365-services-43ok)
 <!-- BLOG-POST-LIST:END -->
 
 
