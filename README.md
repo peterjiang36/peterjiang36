@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Bottlenecks: How Organizations Build Systems of Balanced Reciprocity](https://dev.to/bekahhw/breaking-bottlenecks-how-organizations-build-systems-of-balanced-reciprocity-4leg)
-- [[Boost]](https://dev.to/rakeshv675/-1l65)
-- [Busy Database: The Hidden Bottleneck in Your Architecture](https://dev.to/lovestaco/busy-database-the-hidden-bottleneck-in-your-architecture-544l)
-- [🎯 Day 7 – Starting with Arrays!](https://dev.to/krishna_chd/day-7-starting-with-arrays-110f)
+- [Open Source Call: Help build a life-saving AI-powered skin cancer app 👋 Hi everyone, I&#39;m Dr. Fadi Alakrami, a physician building an open-source project to help people detect early signs of melanoma, BCC, and SCC – using only their phone, AI, and camera –](https://dev.to/fadi_alakrami_e4786e4a130/open-source-call-help-build-a-life-saving-ai-powered-skin-cancer-app-hi-everyone-im-dr-4gdm)
+- [Top 10 Termux Commands Every Beginner Should Know](https://dev.to/terminaltools/top-10-termux-commands-every-beginner-should-know-ooo)
+- [Remember the Business Board Game Cards? Let’s Build a Digital Version with Amazon Q CLI!](https://dev.to/abinaya_sv_56acb826629f0f/remember-the-business-board-game-cards-lets-build-a-digital-version-with-amazon-q-cli-3kh2)
+- [Organizing network calls in Web Apps with Concentric Call Methodology](https://dev.to/thejaredwilcurt/organizing-network-calls-in-web-apps-with-concentric-call-methodology-186l)
 <!-- BLOG-POST-LIST:END -->
 
 
