@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Specter-AAL](https://dev.to/g0d/specter-aal-mmg)
-- [From EC2 to GitHub: Connecting Your Cloud Code Like a Pro](https://dev.to/adesola_kehinde/from-ec2-to-github-connecting-your-cloud-code-like-a-pro-54e7)
-- [Vulcan - JS library for the pros and smart devs](https://dev.to/g0d/vulcan-js-library-for-the-pros-and-smart-devs-54h)
-- [PHAISTOS - Data Exchange Redefined!](https://dev.to/g0d/phaistos-data-exchange-redefined-5cjc)
+- [[Boost]](https://dev.to/mike-vincent/-2k0m)
+- [Visual AI: The Secret Weapon Every Designer Needs to Know About](https://dev.to/atforeveryoung/visual-ai-the-secret-weapon-every-designer-needs-to-know-about-1naf)
+- [Daily JavaScript Challenge #JS-184: Flatten an Object with Nested Objects](https://dev.to/dpc/daily-javascript-challenge-js-184-flatten-an-object-with-nested-objects-15ko)
+- [Apple Developer Relations](https://dev.to/trozware/apple-developer-relations-3c6b)
 <!-- BLOG-POST-LIST:END -->
 
 
