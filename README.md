@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is going to be fun](https://dev.to/trevor_rawls_b670c3832b98/this-is-going-to-be-fun-32pd)
-- [Hyperlane: A Lightweight, High-Performance Rust HTTP Server Library](https://dev.to/_95e41982c9ad08a13458d/hyperlane-a-lightweight-high-performance-rust-http-server-library-38hl)
-- [Humanness at Work](https://dev.to/taikedz/humanness-at-work-570p)
-- [Installing Kubernetes Single-Node Setup on Ubuntu 24.04](https://dev.to/korakrit/installing-kubernetes-single-node-setup-on-ubuntu-2404-4f47)
+- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
+- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems. This is my very first product – a small starter project built based on the clean architecture structure I use in](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
+- [This is one of those &quot;betting on the tech getting better&quot; bets](https://dev.to/fedhacks/this-is-one-of-those-betting-on-the-tech-getting-better-bets-4g7i)
+- [🐍 10 Python Scripts That Will Save You Hours Every Week!!](https://dev.to/nish2005karsh/10-python-scripts-that-will-save-you-hours-every-week-38bc)
 <!-- BLOG-POST-LIST:END -->
 
 
