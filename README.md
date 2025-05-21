@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Backend Frameworks for Web Development in 2025](https://dev.to/hostman_com/best-backend-frameworks-for-web-development-in-2025-3g68)
-- [How to setup the Flutter starter template on Appwrite Sites](https://dev.to/appwrite/how-to-setup-the-flutter-starter-template-on-appwrite-sites-1mhe)
-- [Why Your Token Isn’t Listed &lpar;Yet&rpar;](https://dev.to/martin_call/why-your-token-isnt-listed-yet-1o6b)
-- [Bug Severity Guide: Understanding the Criticality of Software Defects](https://dev.to/morrismoses149/bug-severity-guide-understanding-the-criticality-of-software-defects-2e64)
+- [I wrote this one some time ago as a form of therapy:](https://dev.to/canro91/i-wrote-this-one-some-time-ago-as-a-form-of-therapy-19om)
+- [Top Cryptocurrency Exchanges 2025: Review](https://dev.to/merehead2015/top-cryptocurrency-exchanges-2025-review-56h4)
+- [[Boost]](https://dev.to/anthonymax/-4jak)
+- [Recursive Renaissance](https://dev.to/rawveg/recursive-renaissance-3em7)
 <!-- BLOG-POST-LIST:END -->
 
 
