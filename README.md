@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS : The Browser Bouncers Explained](https://dev.to/jerkeyray/cors-the-browser-bouncers-explained-1ccg)
-- [Lofty AI Like Platform Development: A Complete Guide to Building a Fractional Real Estate Investment App](https://dev.to/outreach_ideausher_142cf1/lofty-ai-like-platform-development-a-complete-guide-to-building-a-fractional-real-estate-57ge)
-- [Day 27/ 30 Days of Linux Mastery: Introduction to Shell Scripting](https://dev.to/amandaigwe/day-27-30-days-of-linux-mastery-introduction-to-shell-scripting-2c8j)
-- [🌟 The Ultimate Git Reference: All Commands from Beginner to Advanced](https://dev.to/kelvincode1234/the-ultimate-git-reference-all-commands-from-beginner-to-advanced-2e6n)
+- [Best Backend Frameworks for Web Development in 2025](https://dev.to/hostman_com/best-backend-frameworks-for-web-development-in-2025-3g68)
+- [How to setup the Flutter starter template on Appwrite Sites](https://dev.to/appwrite/how-to-setup-the-flutter-starter-template-on-appwrite-sites-1mhe)
+- [Why Your Token Isn’t Listed &lpar;Yet&rpar;](https://dev.to/martin_call/why-your-token-isnt-listed-yet-1o6b)
+- [Bug Severity Guide: Understanding the Criticality of Software Defects](https://dev.to/morrismoses149/bug-severity-guide-understanding-the-criticality-of-software-defects-2e64)
 <!-- BLOG-POST-LIST:END -->
 
 
