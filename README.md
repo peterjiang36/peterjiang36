@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Renaissance](https://dev.to/rawveg/the-digital-renaissance-9lo)
-- [10 Open Source Tools for Observability Every DevOps Engineer Should Know](https://dev.to/thecloudarchitect/10-open-source-tools-for-observability-every-devops-engineer-should-know-45fl)
-- [How BitriseDev is Powering the Future of Web Development &amp; Business Automation](https://dev.to/bitrisedev/how-bitrisedev-is-powering-the-future-of-web-development-business-automation-1n4d)
-- [We Are Not Code Monkeys](https://dev.to/dsfx3d/we-are-not-code-monkeys-52j9)
+- [CORS : The Browser Bouncers Explained](https://dev.to/jerkeyray/cors-the-browser-bouncers-explained-1ccg)
+- [Lofty AI Like Platform Development: A Complete Guide to Building a Fractional Real Estate Investment App](https://dev.to/outreach_ideausher_142cf1/lofty-ai-like-platform-development-a-complete-guide-to-building-a-fractional-real-estate-57ge)
+- [Day 27/ 30 Days of Linux Mastery: Introduction to Shell Scripting](https://dev.to/amandaigwe/day-27-30-days-of-linux-mastery-introduction-to-shell-scripting-2c8j)
+- [🌟 The Ultimate Git Reference: All Commands from Beginner to Advanced](https://dev.to/kelvincode1234/the-ultimate-git-reference-all-commands-from-beginner-to-advanced-2e6n)
 <!-- BLOG-POST-LIST:END -->
 
 
