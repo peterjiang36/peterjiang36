@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning the Basics of Bash Scripting](https://dev.to/media_geneous_bb80d6b5563/learning-the-basics-of-bash-scripting-3lfo)
-- [How to Host a Mongoose-Powered App on Fly.io](https://dev.to/arunangshu_das/how-to-host-a-mongoose-powered-app-on-flyio-4fpk)
-- [DSA](https://dev.to/ysathyasai/dsa-5192)
-- [the &quot;npm run dev&quot; link can&#39;t open the login page i want](https://dev.to/snow_virus_6da173c4383e63/the-npm-run-dev-link-cant-open-the-login-page-i-want-5ae1)
+- [Step-by-Step on how to Link SSH to GitHub from Your Server](https://dev.to/msnmongare/step-by-step-on-how-to-link-ssh-to-github-from-your-server-2h7h)
+- [⚙️ The Impact of Edge Functions on Frontend Performance](https://dev.to/hasunnilupul/the-impact-of-edge-functions-on-frontend-performance-1lde)
+- [📅 Mastering Java Date and Time API: LocalDate, LocalTime, LocalDateTime, and ZonedDateTime](https://dev.to/rock_win_c053fa5fb2399067/mastering-java-date-and-time-api-localdate-localtime-localdatetime-and-zoneddatetime-3518)
+- [Why You Need an AI Code Checker](https://dev.to/keploy/why-you-need-an-ai-code-checker-376)
 <!-- BLOG-POST-LIST:END -->
 
 
