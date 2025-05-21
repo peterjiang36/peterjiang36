@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `filter`, `map`, and `reduce` in JavaScript](https://dev.to/shifa_2/understanding-filter-map-and-reduce-in-javascript-pa1)
-- [Hello everyone in the developer community! 👋 I&#39;m a backend developer with 3 years of experience in building scalable and maintainable systems. This is my very first product – a small starter project built based on the clean architecture structure I use in](https://dev.to/tech_persona21/hello-everyone-in-the-developer-community-im-a-backend-developer-with-3-years-of-experience-in-55b0)
-- [This is one of those &quot;betting on the tech getting better&quot; bets](https://dev.to/fedhacks/this-is-one-of-those-betting-on-the-tech-getting-better-bets-4g7i)
-- [🐍 10 Python Scripts That Will Save You Hours Every Week!!](https://dev.to/nish2005karsh/10-python-scripts-that-will-save-you-hours-every-week-38bc)
+- [Breaking Bottlenecks: How Organizations Build Systems of Balanced Reciprocity](https://dev.to/bekahhw/breaking-bottlenecks-how-organizations-build-systems-of-balanced-reciprocity-4leg)
+- [[Boost]](https://dev.to/rakeshv675/-1l65)
+- [Busy Database: The Hidden Bottleneck in Your Architecture](https://dev.to/lovestaco/busy-database-the-hidden-bottleneck-in-your-architecture-544l)
+- [🎯 Day 7 – Starting with Arrays!](https://dev.to/krishna_chd/day-7-starting-with-arrays-110f)
 <!-- BLOG-POST-LIST:END -->
 
 
