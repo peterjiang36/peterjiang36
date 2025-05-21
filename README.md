@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gamma Distance Forecasts All-Cause Death in Chronic Dialysis Individuals.](https://dev.to/chordglue51/the-gamma-distance-forecasts-all-cause-death-in-chronic-dialysis-individuals-16ho)
-- [Understanding BLE Advertising and How BleuIO Makes It Easy](https://dev.to/bleuiot/understanding-ble-advertising-and-how-bleuio-makes-it-easy-1k86)
-- [Automating Call Centers with AI Agents: Achieving 700ms Latency](https://dev.to/ihor_hamal/automating-call-centers-with-ai-agents-achieving-700ms-latency-c99)
-- [Why Strategic EQ Defines Winning Tech Leadership](https://dev.to/remotebranch/why-strategic-eq-defines-winning-tech-leadership-ao0)
+- [From Listing to Longevity: Why Most Tokens Fade After the Hype &lpar;And What We Can Actually Do About It&rpar;](https://dev.to/leo_scott_357f10236fabe00/from-listing-to-longevity-why-most-tokens-fade-after-the-hype-and-what-we-can-actually-do-about-5h6g)
+- [Understanding SOLID Principles in Frontend Development &lpar;with React Examples&rpar;](https://dev.to/debugdiariesbyswethap/understanding-solid-principles-in-frontend-development-with-react-examples-7ao)
+- [8 GitHub-Starred Security Projects You Shouldn’t Miss in 2025](https://dev.to/sharon_42e16b8da44dabde6d/8-github-starred-security-projects-you-shouldnt-miss-in-2025-3gda)
+- [Namrata Hinduja &lpar;Geneva, Switzerland&rpar; Explores How AI Is Shaping Fashion&#39;s Future](https://dev.to/namratahindujageneva/namrata-hinduja-geneva-switzerland-explores-how-ai-is-shaping-fashions-future-2o8k)
 <!-- BLOG-POST-LIST:END -->
 
 
