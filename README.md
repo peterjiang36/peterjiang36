@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📊 Did you know this?](https://dev.to/tpeoficial/did-you-know-this-4e04)
-- [🧨 Solidity Security 101: Mistakes I’ll Never Make Again](https://dev.to/dhis_is_jj/solidity-security-101-mistakes-ill-never-make-again-3pi5)
-- [Boost Your JavaScript Skills with Closures, Promises, and Async/Await](https://dev.to/code_area_9036c9663233d92/boost-your-javascript-skills-with-closures-promises-and-asyncawait-5064)
-- [The Ultimate React Folder Structure I Use as a Frontend Developer](https://dev.to/sercangundogan/the-ultimate-react-folder-structure-i-use-as-a-frontend-developer-4pfm)
+- [The Gamma Distance Forecasts All-Cause Death in Chronic Dialysis Individuals.](https://dev.to/chordglue51/the-gamma-distance-forecasts-all-cause-death-in-chronic-dialysis-individuals-16ho)
+- [Understanding BLE Advertising and How BleuIO Makes It Easy](https://dev.to/bleuiot/understanding-ble-advertising-and-how-bleuio-makes-it-easy-1k86)
+- [Automating Call Centers with AI Agents: Achieving 700ms Latency](https://dev.to/ihor_hamal/automating-call-centers-with-ai-agents-achieving-700ms-latency-c99)
+- [Why Strategic EQ Defines Winning Tech Leadership](https://dev.to/remotebranch/why-strategic-eq-defines-winning-tech-leadership-ao0)
 <!-- BLOG-POST-LIST:END -->
 
 
