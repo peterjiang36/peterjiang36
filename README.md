@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Resource Management and Leak Prevention: Insights from SeaTunnel Source Code](https://dev.to/seatunnel/java-resource-management-and-leak-prevention-insights-from-seatunnel-source-code-33m3)
-- [AI CreaI](https://dev.to/qqriri99/ai-creai-6jn)
-- [Beyond IT School: How I Spent 4 Months Enhancing My Portfolio](https://dev.to/caner_yesiltas/beyond-it-school-how-i-spent-4-months-enhancing-my-portfolio-4jj7)
-- [AI is Quietly Changing Everything. Are you Keeping Up?](https://dev.to/abhishek_somashekar_c515b/ai-is-quietly-changing-everything-are-you-keeping-up-3dn0)
+- [DSA](https://dev.to/ysathyasai/dsa-5192)
+- [How to Merge &amp; Combine Columns without Losing Data in Excel?](https://dev.to/excel24x7/how-to-merge-combine-columns-without-losing-data-in-excel-3cd)
+- [Como Instalar a JDK](https://dev.to/lucasramalho314/como-instalar-a-jdk-2pbi)
+- [Jest - Testing with React and React Testing Library: Useful APIs](https://dev.to/jenchen/jest-testing-with-react-and-react-testing-library-useful-apis-4l17)
 <!-- BLOG-POST-LIST:END -->
 
 
