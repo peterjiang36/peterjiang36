@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning the Basics of Bash Scripting](https://dev.to/media_geneous_bb80d6b5563/learning-the-basics-of-bash-scripting-3lfo)
+- [How to Host a Mongoose-Powered App on Fly.io](https://dev.to/arunangshu_das/how-to-host-a-mongoose-powered-app-on-flyio-4fpk)
 - [DSA](https://dev.to/ysathyasai/dsa-5192)
-- [How to Merge &amp; Combine Columns without Losing Data in Excel?](https://dev.to/excel24x7/how-to-merge-combine-columns-without-losing-data-in-excel-3cd)
-- [Como Instalar a JDK](https://dev.to/lucasramalho314/como-instalar-a-jdk-2pbi)
-- [Jest - Testing with React and React Testing Library: Useful APIs](https://dev.to/jenchen/jest-testing-with-react-and-react-testing-library-useful-apis-4l17)
+- [the &quot;npm run dev&quot; link can&#39;t open the login page i want](https://dev.to/snow_virus_6da173c4383e63/the-npm-run-dev-link-cant-open-the-login-page-i-want-5ae1)
 <!-- BLOG-POST-LIST:END -->
 
 
