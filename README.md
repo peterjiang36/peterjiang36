@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Android XR Revealed: Google&#39;s Smart Glasses Powered by Gemini AI](https://dev.to/future_arvr/android-xr-revealed-googles-smart-glasses-powered-by-gemini-ai-4f6m)
-- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-1n27)
-- [Greptile: Smarter Code Reviews Through Codebase-Aware AI](https://dev.to/pullflow/greptile-smarter-code-reviews-through-codebase-aware-ai-258a)
-- [State of the Art BrightDataQL with the MCP Agent](https://dev.to/ranjancse/state-of-the-art-brightdataql-with-the-mcp-agent-58hg)
+- [Linked Lists — A Core Building Block in Data Structures](https://dev.to/onedev/linked-lists-a-core-building-block-in-data-structures-k2d)
+- [What will display on the screen? 🤔](https://dev.to/werliton/what-will-display-on-the-screen-46mi)
+- [Awesome](https://dev.to/mohaviy/awesome-56gh)
+- [API Gateway vs Service Mesh](https://dev.to/ankitmalikg/api-gateway-vs-service-mesh-2fl9)
 <!-- BLOG-POST-LIST:END -->
 
 
