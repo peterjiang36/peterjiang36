@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ViewContainerRef in Angular](https://dev.to/benarambide/understanding-viewcontainerref-in-angular-3457)
-- [Are Your Linux Files as Secure as They Should Be?](https://dev.to/sebos/are-your-linux-files-as-secure-as-they-should-be-ahd)
-- [I made another AI built Idle clicker game? Yup.](https://dev.to/icedteas/i-made-another-ai-built-idle-clicker-game-yup-2h0o)
-- [Gatekeeper Tracks SSH Logins and Fires Reflexes — Live.](https://dev.to/matrixswarm/gatekeeper-tracks-ssh-logins-and-fires-reflexes-live-2nk7)
+- [How AI-Powered Personalization Transformed a Telecom Customer Experience Platform](https://dev.to/sai_b_3c1c8c18be3f66605ab/how-ai-powered-personalization-transformed-a-telecom-customer-experience-platform-572e)
+- [How to alphabetize your import statements in React files and package.json](https://dev.to/jacob30/how-to-alphabetize-your-import-statements-in-react-files-and-packagejson-p5)
+- [Why is my React component flickering?](https://dev.to/werliton/why-is-my-react-component-flickering-45ej)
+- [Introducing Zod 4 – Super Fast, Lightweight, and Packed with Powerful Features!](https://dev.to/wildboar_developer/introducing-zod-4-super-fast-lightweight-and-packed-with-powerful-features-4fkg)
 <!-- BLOG-POST-LIST:END -->
 
 
