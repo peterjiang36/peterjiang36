@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting a single value from a device&#39;s state in Home Assistant](https://dev.to/nfrankel/getting-a-single-value-from-a-devices-state-in-home-assistant-ci)
-- [Mastering Salesforce Flow in 2025: Pro Tips to Automate Smarter, Not Harder](https://dev.to/softat_c9baa9555054f52b2e/mastering-salesforce-flow-in-2025-pro-tips-to-automate-smarter-not-harder-56cg)
-- [How Predictive Analytics Is Transforming Modern Manufacturing](https://dev.to/priyansh_shah_786ec03624e/how-predictive-analytics-is-transforming-modern-manufacturing-46fm)
-- [Unlocking Digital Excellence with Microsoft 365 E3](https://dev.to/roshan_karki_f2b61b26c3a8/unlocking-digital-excellence-with-microsoft-365-e3-plh)
+- [How HTML Works in the Browser](https://dev.to/ofodile/how-html-works-in-the-browser-25pa)
+- [🔠 Font Scaling in React Native — A Responsive Typography Solution](https://dev.to/ikecruz/font-scaling-in-react-native-a-responsive-typography-solution-46j4)
+- [Why is “good enough” still the default for so many API designs?](https://dev.to/anastasiia_b_b90245/why-is-good-enough-still-the-default-for-so-many-api-designs-1gih)
+- [Establish Transport Rule for External Email Security Awareness](https://dev.to/seyilufadejucyberservices/establish-transport-rule-for-external-email-security-awareness-14bh)
 <!-- BLOG-POST-LIST:END -->
 
 
