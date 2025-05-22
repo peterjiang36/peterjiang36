@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [As A DevOps Engineer: What Are The Best Practices To Boost Performance? Any Expert Who Can Guide Through This To All](https://dev.to/shlok-talepa/as-a-devops-engineer-what-are-the-best-practices-to-boost-performance-any-expert-who-can-guide-36lm)
-- [Fullstack Authentication with Next.js and ASP.NET Core over Secure Cross-Domain Cookies](https://dev.to/sinjulmsbh/fullstack-authentication-with-nextjs-and-aspnet-core-over-secure-cross-domain-cookies-4i3g)
-- [Is devstral really agent friendly?](https://dev.to/techgirl1908/is-devstral-really-agent-friendly-5e5k)
-- [Introduction to Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/ebereplenty/introduction-to-object-oriented-programming-oop-in-javascript-5cfc)
+- [How We Built an MVP Marketplace Platform with a Scalable Hybrid Architecture](https://dev.to/beitroot/how-we-built-an-mvp-marketplace-platform-with-a-scalable-hybrid-architecture-1b0n)
+- [Integrate AI into Your WordPress Site](https://dev.to/sgdo/integrate-ai-into-your-wordpress-site-14b5)
+- [Types of Machine Learning Algorithms](https://dev.to/zahramh99/types-of-machine-learning-algorithms-28cn)
+- [Why Your MongoDB Transactions Aren’t Working in Docker — and How to Fix It 🚨](https://dev.to/silentwatcher_95/why-your-mongodb-transactions-arent-working-in-docker-and-how-to-fix-it-3d83)
 <!-- BLOG-POST-LIST:END -->
 
 
