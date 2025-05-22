@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
-- [The One Chart That Will Change How Your Dev Team Builds Software](https://dev.to/teamcamp/the-one-chart-that-will-change-how-your-dev-team-builds-software-2e7i)
-- [🐾 Meet WildEnv: Tame Your Environment Variables Like a Beast&quot;](https://dev.to/xzdes/meet-wildenv-tame-your-environment-variables-like-a-beast-5hj9)
-- [Write Smarter SQL: 5 Tips to Level Up Your Queries](https://dev.to/cliffordisaboke/write-smarter-sql-5-tips-to-level-up-your-queries-1hai)
+- [Android XR Revealed: Google&#39;s Smart Glasses Powered by Gemini AI](https://dev.to/future_arvr/android-xr-revealed-googles-smart-glasses-powered-by-gemini-ai-4f6m)
+- [OpenAI is buying Jony Ive&#39;s AI hardware company | The deal is valued at nearly $6.5 billion.](https://dev.to/future_ai/openai-is-buying-jony-ives-ai-hardware-company-the-deal-is-valued-at-nearly-65-billion-1n27)
+- [Greptile: Smarter Code Reviews Through Codebase-Aware AI](https://dev.to/pullflow/greptile-smarter-code-reviews-through-codebase-aware-ai-258a)
+- [State of the Art BrightDataQL with the MCP Agent](https://dev.to/ranjancse/state-of-the-art-brightdataql-with-the-mcp-agent-58hg)
 <!-- BLOG-POST-LIST:END -->
 
 
