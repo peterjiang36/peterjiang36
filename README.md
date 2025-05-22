@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rising Beyond Routine](https://dev.to/rawveg/rising-beyond-routine-1blh)
-- [mkdir &quot;No-google-AI-overviews&quot; &amp;&amp; man &quot;google AI overviews&quot; &amp;&amp; rm &quot;google AI overviews&quot;](https://dev.to/junaid_dev/mkdir-no-google-ai-overviews-man-google-ai-overviews-rm-google-ai-overviews-2mn3)
-- [🐍 Building a Classic Snake Game with Amazon Q CLI &amp; Pygame](https://dev.to/swayam_nax_c16b4a31a4026f/building-a-classic-snake-game-with-amazon-q-cli-pygame-md5)
-- [Simple Firewall with ufw or firewalld](https://dev.to/salamilinux/simple-firewall-with-ufw-or-firewalld-i9d)
+- [Web Dev Path Updates - May 2025](https://dev.to/wdp/web-dev-path-updates-may-2025-4o26)
+- [5 Proven Ways to Double Your Design Efficiency Overnight](https://dev.to/atforeveryoung/5-proven-ways-to-double-your-design-efficiency-overnight-4pa1)
+- [For Speed Enthusiasts: The Ultimate Evolution of Rust HTTP Engines](https://dev.to/_95e41982c9ad08a13458d/for-speed-enthusiasts-the-ultimate-evolution-of-rust-http-engines-14g2)
+- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-5a17)
 <!-- BLOG-POST-LIST:END -->
 
 
