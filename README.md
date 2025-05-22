@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Free Figma Plugins &amp; Libraries for Illustrations in 2025](https://dev.to/smartterss/top-5-free-figma-plugins-libraries-for-illustrations-in-2025-1821)
-- [Destructor in python](https://dev.to/muskanfatim/destructor-in-python-380e)
-- [[Boost]](https://dev.to/rajesh_patel/-305l)
-- [Google Latest Update On AI](https://dev.to/tech_gurkha_9725d0ac75c2a/google-latest-update-on-ai-441f)
+- [Google I/O 2025: New Tools, APIs and Everything Devs Need to Know](https://dev.to/cloudwithabhi/google-io-2025-new-tools-apis-and-everything-devs-need-to-know-59ok)
+- [informative](https://dev.to/ibad_khan_9319109682fd436/informative-1l3n)
+- [How long do you guys think it take to fluently code in C?](https://dev.to/der_obersturmfuehrer_4841/how-long-do-you-guys-think-it-take-to-fluently-code-in-c-608)
+- [Demo or Die Trying: A Guide to Screen-share Survival](https://dev.to/joab_owala/demo-or-die-trying-a-guide-to-screen-share-survival-551b)
 <!-- BLOG-POST-LIST:END -->
 
 
