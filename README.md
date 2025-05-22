@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an MVP Marketplace Platform with a Scalable Hybrid Architecture](https://dev.to/beitroot/how-we-built-an-mvp-marketplace-platform-with-a-scalable-hybrid-architecture-1b0n)
-- [Integrate AI into Your WordPress Site](https://dev.to/sgdo/integrate-ai-into-your-wordpress-site-14b5)
-- [Types of Machine Learning Algorithms](https://dev.to/zahramh99/types-of-machine-learning-algorithms-28cn)
-- [Why Your MongoDB Transactions Aren’t Working in Docker — and How to Fix It 🚨](https://dev.to/silentwatcher_95/why-your-mongodb-transactions-arent-working-in-docker-and-how-to-fix-it-3d83)
+- [Claude Sonnet 4 has arrived!](https://dev.to/neetigyachahar/claude-sonnet-4-has-arrived-75e)
+- [mdka v1.5 is out - HTML to Markdown converter developed with Rust](https://dev.to/nabbisen/mdka-v15-is-out-html-to-markdown-converter-developed-with-rust-2nce)
+- [A new blog post: Some BERTs and ModernBERT](https://dev.to/alpernkanli/a-new-blog-post-some-berts-and-modernbert-1inf)
+- [Stop Gatekeeping and Start Leading: How Real Leaders Support Junior Devs](https://dev.to/leaddontctrl/stop-gatekeeping-and-start-leading-how-real-leaders-support-junior-devs-1i9i)
 <!-- BLOG-POST-LIST:END -->
 
 
