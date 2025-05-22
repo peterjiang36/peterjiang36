@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pass a TypeScript function as a parameter](https://dev.to/logrocket/how-to-pass-a-typescript-function-as-a-parameter-2572)
-- [Enabling CORS in Flask](https://dev.to/reynaldi/enabling-cors-in-flask-120n)
-- [Qubit-Efficient Encoding Techniques for Solving QUBO Problems](https://dev.to/supreethmv/qubit-efficient-encoding-techniques-for-solving-qubo-problems-4iad)
-- [JavaScript distinguish picture or alive person in webcam](https://dev.to/skac/javascript-distinguish-picture-or-alive-person-in-webcam-1j1a)
+- [Meet MCP: The Simple Rulebook Behind Smarter AI Prompts](https://dev.to/rijultp/meet-mcp-the-simple-rulebook-behind-smarter-ai-prompts-4g26)
+- [Install Signoz in Ubuntu](https://dev.to/themodernpk/install-signoz-in-ubuntu-1i4o)
+- [Understanding Idempotency in APIs and Distributed Systems](https://dev.to/msnmongare/understanding-idempotency-in-apis-and-distributed-systems-3afb)
+- [Tinkering Today: PyAudio](https://dev.to/superultramax/tinkering-today-pyaudio-3ka0)
 <!-- BLOG-POST-LIST:END -->
 
 
