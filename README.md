@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O 2025: New Tools, APIs and Everything Devs Need to Know](https://dev.to/cloudwithabhi/google-io-2025-new-tools-apis-and-everything-devs-need-to-know-59ok)
-- [informative](https://dev.to/ibad_khan_9319109682fd436/informative-1l3n)
-- [How long do you guys think it take to fluently code in C?](https://dev.to/der_obersturmfuehrer_4841/how-long-do-you-guys-think-it-take-to-fluently-code-in-c-608)
-- [Demo or Die Trying: A Guide to Screen-share Survival](https://dev.to/joab_owala/demo-or-die-trying-a-guide-to-screen-share-survival-551b)
+- [What should we do when SQL &lpar;and stored procedure&rpar; runs too slowly?](https://dev.to/esproc_spl/what-should-we-do-when-sql-and-stored-procedure-runs-too-slowly-2lpb)
+- [How to translate a PowerPoint presentation into Spanish](https://dev.to/jennamitchell/how-to-translate-a-powerpoint-presentation-into-spanish-hji)
+- [ALTER TABLE ADD COLUMN in SQL: Syntax, Tips &amp; Tools](https://dev.to/dbvismarketing/alter-table-add-column-in-sql-syntax-tips-tools-3b0)
+- [【HarmonyOS 5】一次开发多端部署](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-ci-kai-fa-duo-duan-bu-shu-yi-lun-bo-tu-tablan-lie-biao-wei-li-pei-he-zha-ge-bu-ju-yu-mei-ti-cha-xun-jin-xing-ui-de-duo-kai-fa--3d0m)
 <!-- BLOG-POST-LIST:END -->
 
 
