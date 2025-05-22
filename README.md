@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linked Lists — A Core Building Block in Data Structures](https://dev.to/onedev/linked-lists-a-core-building-block-in-data-structures-k2d)
-- [What will display on the screen? 🤔](https://dev.to/werliton/what-will-display-on-the-screen-46mi)
-- [Awesome](https://dev.to/mohaviy/awesome-56gh)
-- [API Gateway vs Service Mesh](https://dev.to/ankitmalikg/api-gateway-vs-service-mesh-2fl9)
+- [How to pass a TypeScript function as a parameter](https://dev.to/logrocket/how-to-pass-a-typescript-function-as-a-parameter-2572)
+- [Enabling CORS in Flask](https://dev.to/reynaldi/enabling-cors-in-flask-120n)
+- [Qubit-Efficient Encoding Techniques for Solving QUBO Problems](https://dev.to/supreethmv/qubit-efficient-encoding-techniques-for-solving-qubo-problems-4iad)
+- [JavaScript distinguish picture or alive person in webcam](https://dev.to/skac/javascript-distinguish-picture-or-alive-person-in-webcam-1j1a)
 <!-- BLOG-POST-LIST:END -->
 
 
