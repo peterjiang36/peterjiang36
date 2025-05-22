@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What should we do when SQL &lpar;and stored procedure&rpar; runs too slowly?](https://dev.to/esproc_spl/what-should-we-do-when-sql-and-stored-procedure-runs-too-slowly-2lpb)
-- [How to translate a PowerPoint presentation into Spanish](https://dev.to/jennamitchell/how-to-translate-a-powerpoint-presentation-into-spanish-hji)
-- [ALTER TABLE ADD COLUMN in SQL: Syntax, Tips &amp; Tools](https://dev.to/dbvismarketing/alter-table-add-column-in-sql-syntax-tips-tools-3b0)
-- [【HarmonyOS 5】一次开发多端部署](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-ci-kai-fa-duo-duan-bu-shu-yi-lun-bo-tu-tablan-lie-biao-wei-li-pei-he-zha-ge-bu-ju-yu-mei-ti-cha-xun-jin-xing-ui-de-duo-kai-fa--3d0m)
+- [The Network Layer: The GPS of the Internet &lpar;With More Drama Than Your Road Trip&rpar;](https://dev.to/aniruddhaadak_/the-network-layer-the-gps-of-the-internet-with-more-drama-than-your-road-trip-3762)
+- [Design Database Schemas Offline &amp; Synchronize with DbSchema](https://dev.to/roxana_haidiner/design-database-schemas-offline-synchronize-with-dbschema-fpa)
+- [10 New Free Shopify Themes + AI-Generated Theme Blocks](https://dev.to/rajeshkumaryadavdotcom/10-new-free-shopify-themes-ai-generated-theme-blocks-5230)
+- [How to connect my hall effect sensors to my microcontroller?](https://dev.to/carolineee/how-to-connect-my-hall-effect-sensors-to-my-microcontroller-2i16)
 <!-- BLOG-POST-LIST:END -->
 
 
