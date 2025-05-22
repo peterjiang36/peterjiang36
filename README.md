@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of Poorly Optimized Dockerfiles: DevOps&#39; Silent Productivity Killer](https://dev.to/akhil_varute/the-hidden-costs-of-poorly-optimized-dockerfiles-devops-silent-productivity-killer-3mgp)
-- [𝗛𝗼𝘄 𝘁𝗼 𝗦𝘁𝗶𝗰𝗸 𝘄𝗶𝘁𝗵 𝗚𝗼𝗼𝗱 𝗛𝗮𝗯𝗶𝘁𝘀 𝗘𝘃𝗲𝗿𝘆 𝗗𝗮𝘆: 𝗞𝗲𝘆 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗳𝗿𝗼𝗺 𝗔𝘁𝗼𝗺𝗶𝗰 𝗛𝗮𝗯𝗶𝘁𝘀](https://dev.to/supraja_tangella_b7f0738e/-29ie)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are Revolutionizing Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-revolutionizing-cybersecurity-and-5ck2)
-- [Is the TikTok OA Hard? Breaking Down the Difficulty Level](https://dev.to/net_programhelp_e160eef28/is-the-tiktok-oa-hard-breaking-down-the-difficulty-level-2fm9)
+- [Simplifying Multi-Region EC2 Management with AWS EC2 Instance Manager](https://dev.to/yeshwanthlm/simplifying-multi-region-ec2-management-with-aws-ec2-instance-manager-3h22)
+- [The One Chart That Will Change How Your Dev Team Builds Software](https://dev.to/teamcamp/the-one-chart-that-will-change-how-your-dev-team-builds-software-2e7i)
+- [🐾 Meet WildEnv: Tame Your Environment Variables Like a Beast&quot;](https://dev.to/xzdes/meet-wildenv-tame-your-environment-variables-like-a-beast-5hj9)
+- [Write Smarter SQL: 5 Tips to Level Up Your Queries](https://dev.to/cliffordisaboke/write-smarter-sql-5-tips-to-level-up-your-queries-1hai)
 <!-- BLOG-POST-LIST:END -->
 
 
