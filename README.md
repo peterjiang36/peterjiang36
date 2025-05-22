@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How HTML Works in the Browser](https://dev.to/ofodile/how-html-works-in-the-browser-25pa)
-- [🔠 Font Scaling in React Native — A Responsive Typography Solution](https://dev.to/ikecruz/font-scaling-in-react-native-a-responsive-typography-solution-46j4)
-- [Why is “good enough” still the default for so many API designs?](https://dev.to/anastasiia_b_b90245/why-is-good-enough-still-the-default-for-so-many-api-designs-1gih)
-- [Establish Transport Rule for External Email Security Awareness](https://dev.to/seyilufadejucyberservices/establish-transport-rule-for-external-email-security-awareness-14bh)
+- [I want to run a machine learning code](https://dev.to/zakaria_mustakeem_21cc430/i-want-to-run-a-machine-learning-code-p1j)
+- [How I Built a CSS Container Query Converter To Make my Work Easier](https://dev.to/webutilitylabs/how-i-built-a-css-container-query-converter-to-make-my-work-easier-30gm)
+- [What is Firewall Configuration?](https://dev.to/clouddefenseai/what-is-firewall-configuration-5bd9)
+- [How to Tell if Your Mac Is Being Remotely Accessed &lpar;And What To Do About It&rpar;](https://dev.to/sagar_2006/how-to-tell-if-your-mac-is-being-remotely-accessed-and-what-to-do-about-it-21e8)
 <!-- BLOG-POST-LIST:END -->
 
 
