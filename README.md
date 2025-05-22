@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI-Powered Personalization Transformed a Telecom Customer Experience Platform](https://dev.to/sai_b_3c1c8c18be3f66605ab/how-ai-powered-personalization-transformed-a-telecom-customer-experience-platform-572e)
-- [How to alphabetize your import statements in React files and package.json](https://dev.to/jacob30/how-to-alphabetize-your-import-statements-in-react-files-and-packagejson-p5)
-- [Why is my React component flickering?](https://dev.to/werliton/why-is-my-react-component-flickering-45ej)
-- [Introducing Zod 4 – Super Fast, Lightweight, and Packed with Powerful Features!](https://dev.to/wildboar_developer/introducing-zod-4-super-fast-lightweight-and-packed-with-powerful-features-4fkg)
+- [RAG: Smarter AI Agents [Part 2]](https://dev.to/maksym_mosiura_7dd1c98618/rag-smarter-ai-agents-4ej9)
+- [How I Built an AWS Project Idea Generator Using AI](https://dev.to/aws-builders/how-i-built-an-aws-project-idea-generator-using-ai-oif)
+- [How I Set Up SafeLine WAF in 3 Minutes and Blocked Real Attacks](https://dev.to/sharon_42e16b8da44dabde6d/how-i-set-up-safeline-waf-in-3-minutes-and-blocked-real-attacks-1ldf)
+- [devlog0 — the one where I fine-tune Mistral and it just barely works](https://dev.to/maxfrecka/devlog0-3ia1)
 <!-- BLOG-POST-LIST:END -->
 
 
