@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Isolamento no TDAH: Como enfrentar a solidão e melhorar sua vida](https://dev.to/pessoamaster218epsilon/isolamento-no-tdah-como-enfrentar-a-solidao-e-melhorar-sua-vida-4260)
-- [Tesla’s Optimus: A Stock Price Disaster Waiting to Happen](https://dev.to/owly/teslas-optimus-a-stock-price-disaster-waiting-to-happen-7d7)
-- [Linux in Action: Mastering Group Account Management &amp; Operations](https://dev.to/dhavalthakar97/linux-in-action-mastering-group-account-management-operations-1cgc)
-- [Seeing the World: A Beginner&#39;s Guide to Convolutional Neural Networks &lpar;CNNs&rpar; with PyTorch](https://dev.to/saadmanrafat/seeing-the-world-a-beginners-guide-to-convolutional-neural-networks-cnns-with-pytorch-593c)
+- [Understanding ViewContainerRef in Angular](https://dev.to/benarambide/understanding-viewcontainerref-in-angular-3457)
+- [Are Your Linux Files as Secure as They Should Be?](https://dev.to/sebos/are-your-linux-files-as-secure-as-they-should-be-ahd)
+- [I made another AI built Idle clicker game? Yup.](https://dev.to/icedteas/i-made-another-ai-built-idle-clicker-game-yup-2h0o)
+- [Gatekeeper Tracks SSH Logins and Fires Reflexes — Live.](https://dev.to/matrixswarm/gatekeeper-tracks-ssh-logins-and-fires-reflexes-live-2nk7)
 <!-- BLOG-POST-LIST:END -->
 
 
