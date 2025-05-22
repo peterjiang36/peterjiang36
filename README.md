@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Dev Path Updates - May 2025](https://dev.to/wdp/web-dev-path-updates-may-2025-4o26)
-- [5 Proven Ways to Double Your Design Efficiency Overnight](https://dev.to/atforeveryoung/5-proven-ways-to-double-your-design-efficiency-overnight-4pa1)
-- [For Speed Enthusiasts: The Ultimate Evolution of Rust HTTP Engines](https://dev.to/_95e41982c9ad08a13458d/for-speed-enthusiasts-the-ultimate-evolution-of-rust-http-engines-14g2)
-- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-5a17)
+- [Isolamento no TDAH: Como enfrentar a solidão e melhorar sua vida](https://dev.to/pessoamaster218epsilon/isolamento-no-tdah-como-enfrentar-a-solidao-e-melhorar-sua-vida-4260)
+- [Tesla’s Optimus: A Stock Price Disaster Waiting to Happen](https://dev.to/owly/teslas-optimus-a-stock-price-disaster-waiting-to-happen-7d7)
+- [Linux in Action: Mastering Group Account Management &amp; Operations](https://dev.to/dhavalthakar97/linux-in-action-mastering-group-account-management-operations-1cgc)
+- [Seeing the World: A Beginner&#39;s Guide to Convolutional Neural Networks &lpar;CNNs&rpar; with PyTorch](https://dev.to/saadmanrafat/seeing-the-world-a-beginners-guide-to-convolutional-neural-networks-cnns-with-pytorch-593c)
 <!-- BLOG-POST-LIST:END -->
 
 
