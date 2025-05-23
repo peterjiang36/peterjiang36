@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Identify the Cause When You Can&#39;t Eject a Disk on Mac &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-quickly-identify-the-cause-when-you-cant-eject-a-disk-on-mac-bite-size-article-13fd)
-- [10 VS Code Extensions To Become The Ultimate Developer🔥](https://dev.to/anthonymax/10-vs-code-extensions-to-become-the-ultimate-developer-348)
-- [How Are Emerging Economies Attracting Foreign Investment?](https://dev.to/marketdaily/how-are-emerging-economies-attracting-foreign-investment-13j1)
-- [Review - AI Tooling](https://dev.to/jelloeater/review-ai-tooling-2ec7)
+- [AI&#39;s Human Horizon](https://dev.to/rawveg/ais-human-horizon-b58)
+- [Interactive Map](https://dev.to/macglencoe/interactive-map-fbe)
+- [Here&#39;s What I&#39;ve Created!](https://dev.to/james_ikenna_450624e7a650/heres-what-ive-created-2717)
+- [[Boost]](https://dev.to/anthonymax/-1opn)
 <!-- BLOG-POST-LIST:END -->
 
 
