@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Web Scrapers Rely Heavily on HTTP Proxies](https://dev.to/member_960fb7a7/why-web-scrapers-rely-heavily-on-http-proxies-405)
-- [Introducing Firsto – A New Way to Launch and Discover Indie Products](https://dev.to/tangsirongit/introducing-firsto-a-new-way-to-launch-and-discover-indie-products-25bb)
-- [Cloud-Native Architecture: A Deep Dive Into the Future of Application Development](https://dev.to/zopdev/cloud-native-architecture-a-deep-dive-into-the-future-of-application-development-2cbk)
-- [AI Repo of the Week: MCP for Beginners](https://dev.to/danwahlin/ai-repo-of-the-week-mcp-for-beginners-42ab)
+- [【HarmonyOS 5】如何给未知类型对象定义类型并使用递归打印所有的Key](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-guan-jian-zi-chan-cun-chu-kai-fa-an-li-5cg8)
+- [🎯 How to Structure the Perfect Answer for “Tell Me About Yourself” in 2025 Interviews 🗣️](https://dev.to/finalroundai/how-to-structure-the-perfect-answer-for-tell-me-about-yourself-in-2025-interviews-270o)
+- [How SafeLine WAF Tackles the Rise of AI-Powered Web Crawlers](https://dev.to/sharon_42e16b8da44dabde6d/how-safeline-waf-tackles-the-rise-of-ai-powered-web-crawlers-5644)
+- [Java Programming for Beginners: Learn Java Fast and Easy](https://dev.to/pythontutorial/java-programming-for-beginners-learn-java-fast-and-easy-ji9)
 <!-- BLOG-POST-LIST:END -->
 
 
