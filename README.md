@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [【HarmonyOS 5】如何给未知类型对象定义类型并使用递归打印所有的Key](https://dev.to/vi_lu_43267766b416e6fde2d/harmonyos-5-guan-jian-zi-chan-cun-chu-kai-fa-an-li-5cg8)
-- [🎯 How to Structure the Perfect Answer for “Tell Me About Yourself” in 2025 Interviews 🗣️](https://dev.to/finalroundai/how-to-structure-the-perfect-answer-for-tell-me-about-yourself-in-2025-interviews-270o)
-- [How SafeLine WAF Tackles the Rise of AI-Powered Web Crawlers](https://dev.to/sharon_42e16b8da44dabde6d/how-safeline-waf-tackles-the-rise-of-ai-powered-web-crawlers-5644)
-- [Java Programming for Beginners: Learn Java Fast and Easy](https://dev.to/pythontutorial/java-programming-for-beginners-learn-java-fast-and-easy-ji9)
+- [Why Every Business Needs a Smart Data Sourcing Strategy](https://dev.to/samuel_mitter_06d9e3f9c78/why-every-business-needs-a-smart-data-sourcing-strategy-4loo)
+- [How to Perform a Local SEO Audit for Your Business](https://dev.to/threeglogic3/how-to-perform-a-local-seo-audit-for-your-business-1d0e)
+- [Best WAF for Beginners in 2025: Why SafeLine Beats Traditional WAFs](https://dev.to/sharon_42e16b8da44dabde6d/best-waf-for-beginners-in-2025-why-safeline-beats-traditional-wafs-5ap6)
+- [esProc SPL &amp; MongoDB: A Match Made in Data Heaven](https://dev.to/serina_8340/esproc-spl-mongodb-a-match-made-in-data-heaven-26p6)
 <!-- BLOG-POST-LIST:END -->
 
 
