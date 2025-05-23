@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Get Hacked by Watching a Video?](https://dev.to/nightmare-lynx/can-you-get-hacked-by-watching-a-video-n6)
-- [Published a new post about the latest thing I built](https://dev.to/yuvadm/published-a-new-post-about-the-latest-thing-i-built-3ofa)
-- [How DevOps Automation Accelerates Business Growth](https://dev.to/hybytes_devops/how-devops-automation-accelerates-business-growth-4k1k)
-- [What is React JS?](https://dev.to/khushii_34ceada974a6bfcc2/what-is-react-js-1gkj)
+- [i-DROP PUR Gel Where to Buy Your Guide to Soothing Dry Eyes](https://dev.to/wadav-cbf8e95ba2bc69/i-drop-pur-gel-where-to-buy-your-guide-to-soothing-dry-eyes-1k32)
+- [How to add markdown to a Next.js project](https://dev.to/christopher_posada_76c4d0/how-to-add-markdown-to-a-nextjs-project-2bmf)
+- [The future of passwords is bright](https://dev.to/bogomil/the-future-of-passwords-is-bright-4g2e)
+- [La Trampa de la Sobre-Normalización](https://dev.to/yoezequiel/la-trampa-de-la-normalizacion-1dea)
 <!-- BLOG-POST-LIST:END -->
 
 
