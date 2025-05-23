@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DaisyUI vs. shadcn/ui: A Clear Comparison for Frontend Devs 🎨](https://dev.to/truonggiangne/daisyui-vs-shadcnui-a-clear-comparison-for-frontend-devs-f0l)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
-- [[Boost]](https://dev.to/naik_sejal/-73b)
-- [[Boost]](https://dev.to/pranesh_patel/-3fa8)
+- [📡 A Practical Guide to Using WebSockets in Real-Time Apps](https://dev.to/hasunnilupul/a-practical-guide-to-using-websockets-in-real-time-apps-127i)
+- [Exploring Firebase Storage with React](https://dev.to/debajit13/exploring-firebase-storage-with-react-5424)
+- [Open source AI stack components](https://dev.to/tak089/open-source-ai-stack-components-2lnf)
+- [Kubernetes: Orchestrate Like a Maestro](https://dev.to/wittedtech-by-harshit/kubernetes-orchestrate-like-a-maestro-55he)
 <!-- BLOG-POST-LIST:END -->
 
 
