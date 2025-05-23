@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine&#39;s Waiting Room: A Smarter Way to Handle HTTP Floods](https://dev.to/sharon_42e16b8da44dabde6d/safelines-waiting-room-a-smarter-way-to-handle-http-floods-1do7)
-- [login &amp; signup form with html css &amp; javascript](https://dev.to/baybin_baby_30c68118f4908/login-signup-form-with-html-css-javascript-o2i)
-- [Beginner’s Guide to Exception Handling in Spring Boot](https://dev.to/mohammedquasimda/beginners-guide-to-exception-handling-in-spring-boot-mo7)
-- [DevLog 20250522: Serverles &amp; Serverside vs Client Side Rendering](https://dev.to/methodox/devlog-20250522-serverles-serverside-vs-client-side-rendering-2n0h)
+- [DaisyUI vs. shadcn/ui: A Clear Comparison for Frontend Devs 🎨](https://dev.to/truonggiangne/daisyui-vs-shadcnui-a-clear-comparison-for-frontend-devs-f0l)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-49de)
+- [[Boost]](https://dev.to/naik_sejal/-73b)
+- [[Boost]](https://dev.to/pranesh_patel/-3fa8)
 <!-- BLOG-POST-LIST:END -->
 
 
