@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Fun &amp; Productivity: Introducing the Warner Bros Retro Board for Your Agile Sprint Retrospectives](https://dev.to/nargiz_abbasova/unlock-fun-productivity-introducing-the-warner-bros-retro-board-for-your-agile-sprint-1ia4)
-- [API Gateway Authorizers: Vulnerabilities By Design &lpar;be careful!&rpar;](https://dev.to/aws-builders/api-gateway-vulnerabilities-by-design-be-careful-2094)
-- [Behind the Scenes of a Payment Gateway: How Payment Systems Integrate into E-Commerce Platforms](https://dev.to/candies_4832a5f43f59ec2bd/behind-the-scenes-of-a-payment-gateway-how-payment-systems-integrate-into-e-commerce-platforms-2o7j)
-- [Exploring Baby Sign Language: Communication Strategies for Preverbal Infants by Marlene Junker](https://dev.to/marlenejunker01/exploring-baby-sign-language-communication-strategies-for-preverbal-infants-by-marlene-junker-4p90)
+- [🧠 AI Agents Are the New DevOps: How Autonomous Agents Are Redefining Software Engineering](https://dev.to/jadzeino/ai-agents-are-the-new-devops-how-autonomous-agents-are-redefining-software-engineering-11fd)
+- [See What Qwen3-235B-A22B found about me.](https://dev.to/aniruddhaadak_/see-what-qwen3-235b-a22b-found-about-me-3bb5)
+- [Enhancing QR Codes in the Age of GenAI](https://dev.to/worldlinetech/enhancing-qr-codes-in-the-age-of-genai-4fa6)
+- [🧠 Bright Data AI Web Access Hackathon Submission](https://dev.to/okeke_gabriel_1471d2d2d12/bright-data-ai-web-access-hackathon-submission-59j6)
 <!-- BLOG-POST-LIST:END -->
 
 
