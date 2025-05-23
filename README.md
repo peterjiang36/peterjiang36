@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 AI Agents Are the New DevOps: How Autonomous Agents Are Redefining Software Engineering](https://dev.to/jadzeino/ai-agents-are-the-new-devops-how-autonomous-agents-are-redefining-software-engineering-11fd)
-- [See What Qwen3-235B-A22B found about me.](https://dev.to/aniruddhaadak_/see-what-qwen3-235b-a22b-found-about-me-3bb5)
-- [Enhancing QR Codes in the Age of GenAI](https://dev.to/worldlinetech/enhancing-qr-codes-in-the-age-of-genai-4fa6)
-- [🧠 Bright Data AI Web Access Hackathon Submission](https://dev.to/okeke_gabriel_1471d2d2d12/bright-data-ai-web-access-hackathon-submission-59j6)
+- [Top 7 Microsoft 365 Apps Every Business Should Use in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/top-7-microsoft-365-apps-every-business-should-use-in-2025-30cp)
+- [Maximizing Efficiency with Fleet Fuel Management: The Smart Move for Modern Fleet Operations](https://dev.to/hypernym_io/maximizing-efficiency-with-fleet-fuel-management-the-smart-move-for-modern-fleet-operations-47bi)
+- [🚀 Yo devs, wanna build collab apps that SLAP? Meet Jazz: the Real-Time Collab Framework That’s Straight Fire 🔥](https://dev.to/vikyw89/yo-devs-wanna-build-collab-apps-that-slap-meet-jazz-the-real-time-collab-framework-thats-23o)
+- [MySQL for beginners](https://dev.to/matheusfrg/mysql-for-beginners-1441)
 <!-- BLOG-POST-LIST:END -->
 
 
