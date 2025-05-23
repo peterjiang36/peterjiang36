@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Launched: Snow Days Calculator – Predict School Closures with Weather Data](https://dev.to/iamvibecoder/just-launched-snow-days-calculator-predict-school-closures-with-weather-data-5bn9)
-- [How Great Developers Handle Critique Without Flinching](https://dev.to/tonystpierre/how-great-developers-handle-critique-without-flinching-40le)
-- [3D form](https://dev.to/preetha_vaishnavi_2b82358/3d-form-374h)
-- [🚀 The Future of the Internet, AI, and Creators: End, Evolution, or Empowerment?](https://dev.to/mahmud-r-farhan/the-future-of-the-internet-ai-and-creators-end-evolution-or-empowerment-2aba)
+- [How AI is Giving Programmers Their Weekends Back:](https://dev.to/mwacharo6/how-ai-is-giving-programmers-their-weekends-back-5fah)
+- [Query Strings vs. Hash Fragments: What’s the Real Difference?](https://dev.to/zahra_mirkazemi/query-strings-vs-hash-fragments-whats-the-real-difference-597n)
+- [Unraveling the Chain: A Deep Dive into Linked Lists 🔗](https://dev.to/bibek_khanal_863076fe9ec4/unraveling-the-chain-a-deep-dive-into-linked-lists-22n6)
+- [Understanding NodeList in JavaScript](https://dev.to/shifa_2/understanding-nodelist-in-javascript-532n)
 <!-- BLOG-POST-LIST:END -->
 
 
