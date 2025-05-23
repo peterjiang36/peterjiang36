@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Build Better Laravel Apps with Service Interfaces, Providers &amp; Requests](https://dev.to/tahsin000/build-better-laravel-apps-with-service-interfaces-providers-requests-real-life-step-by-step-1p3m)
-- [Validation in Blazor](https://dev.to/pascal_vorwerk/validation-in-blazor-3e3c)
-- [A Beginner&#39;s Guide to Getting Started with Multimodality in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-multimodality-in-langchain-195)
-- [Automate DaisyUI Setup in VS Code with One Command](https://dev.to/martinflischman/automate-daisyui-setup-in-vs-code-with-one-command-3295)
+- [Tuple in Python &lpar;2&rpar;](https://dev.to/hyperkai/tuple-in-python-2-23lk)
+- [Tuple in Python &lpar;1&rpar;](https://dev.to/hyperkai/tuple-in-python-1-ndc)
+- [Leetcode 57. Insert Interval](https://dev.to/rohithv07/leetcode-57-insert-interval-ifk)
+- [Why Your Code&#39;s First Line Is a Promise](https://dev.to/tonystpierre/why-your-codes-first-line-is-a-promise-9o4)
 <!-- BLOG-POST-LIST:END -->
 
 
