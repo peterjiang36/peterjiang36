@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Sonnet 4 has arrived!](https://dev.to/neetigyachahar/claude-sonnet-4-has-arrived-75e)
-- [mdka v1.5 is out - HTML to Markdown converter developed with Rust](https://dev.to/nabbisen/mdka-v15-is-out-html-to-markdown-converter-developed-with-rust-2nce)
-- [A new blog post: Some BERTs and ModernBERT](https://dev.to/alpernkanli/a-new-blog-post-some-berts-and-modernbert-1inf)
-- [Stop Gatekeeping and Start Leading: How Real Leaders Support Junior Devs](https://dev.to/leaddontctrl/stop-gatekeeping-and-start-leading-how-real-leaders-support-junior-devs-1i9i)
+- [From Pyramids to Programs: What Ancient Egypt Teaches Us About Building Great AI Systems](https://dev.to/alireza_minagar_99f01ecb6/from-pyramids-to-programs-what-ancient-egypt-teaches-us-about-building-great-ai-systems-2bac)
+- [VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://dev.to/taniguchitakara/videohallucer-evaluating-intrinsic-and-extrinsichallucinations-in-large-video-language-models-4b38)
+- [How to Run Cursor AI in the Cloud with Remote Desktop Access](https://dev.to/daleymottley/run-cursor-ai-in-the-cloud-with-remote-desktop-access-131h)
+- [BitLocker Limbo PSA](https://dev.to/annavi11arrea1/bitlocker-limbo-psa-1n37)
 <!-- BLOG-POST-LIST:END -->
 
 
