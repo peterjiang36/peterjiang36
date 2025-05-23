@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Hacking the Grid: How I Built CypherCore with Amazon Q CLI](https://dev.to/ahnafashiqueadi/hacking-the-grid-how-i-built-cyphercore-with-amazon-q-cli-575a)
-- [Build Your Own AI Code Generator From Scratch — A PocketFlow Tutorial!](https://dev.to/zachary62/build-your-own-ai-code-generator-from-scratch-a-pocketflow-tutorial-2b65)
-- [Definitely bookmarking this. I’ve shared it with my team because these tips will help us improve how we work with external partners.](https://dev.to/theangeloreyes/definitely-bookmarking-this-ive-shared-it-with-my-team-because-these-tips-will-help-us-improve-g5e)
-- [Using ChatGPT](https://dev.to/nicm42/using-chatgpt-ppp)
+- [🛠️ Build Better Laravel Apps with Service Interfaces, Providers &amp; Requests](https://dev.to/tahsin000/build-better-laravel-apps-with-service-interfaces-providers-requests-real-life-step-by-step-1p3m)
+- [Validation in Blazor](https://dev.to/pascal_vorwerk/validation-in-blazor-3e3c)
+- [A Beginner&#39;s Guide to Getting Started with Multimodality in LangChain](https://dev.to/aiengineering/a-beginners-guide-to-multimodality-in-langchain-195)
+- [Automate DaisyUI Setup in VS Code with One Command](https://dev.to/martinflischman/automate-daisyui-setup-in-vs-code-with-one-command-3295)
 <!-- BLOG-POST-LIST:END -->
 
 
