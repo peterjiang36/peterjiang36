@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [i-DROP PUR Gel Where to Buy Your Guide to Soothing Dry Eyes](https://dev.to/wadav-cbf8e95ba2bc69/i-drop-pur-gel-where-to-buy-your-guide-to-soothing-dry-eyes-1k32)
-- [How to add markdown to a Next.js project](https://dev.to/christopher_posada_76c4d0/how-to-add-markdown-to-a-nextjs-project-2bmf)
-- [The future of passwords is bright](https://dev.to/bogomil/the-future-of-passwords-is-bright-4g2e)
-- [La Trampa de la Sobre-Normalización](https://dev.to/yoezequiel/la-trampa-de-la-normalizacion-1dea)
+- [🚀 From Frustration to Flow: How I Finally Mastered Debugging Like a Pro](https://dev.to/codedbyvilen/from-frustration-to-flow-how-i-finally-mastered-debugging-like-a-pro-2nab)
+- [🟥 “Rely”? “Reply”? Re-what-now?](https://dev.to/uka_aidev/rely-reply-re-what-now-2e11)
+- [So I Hooked My AI Agent Up with Notion. Here&#39;s What Happened.](https://dev.to/thenomadevel/so-i-hooked-my-ai-agent-up-with-notion-heres-what-happened-21oi)
+- [VirtueChain: Hacia una arquitectura digital basada en virtud, transparencia y consenso humano](https://dev.to/axlfc/virtuechain-hacia-una-arquitectura-digital-basada-en-virtud-transparencia-y-consenso-humano-4cc1)
 <!-- BLOG-POST-LIST:END -->
 
 
