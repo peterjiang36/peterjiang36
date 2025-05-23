@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Frustration to Flow: How I Finally Mastered Debugging Like a Pro](https://dev.to/codedbyvilen/from-frustration-to-flow-how-i-finally-mastered-debugging-like-a-pro-2nab)
-- [🟥 “Rely”? “Reply”? Re-what-now?](https://dev.to/uka_aidev/rely-reply-re-what-now-2e11)
-- [So I Hooked My AI Agent Up with Notion. Here&#39;s What Happened.](https://dev.to/thenomadevel/so-i-hooked-my-ai-agent-up-with-notion-heres-what-happened-21oi)
-- [VirtueChain: Hacia una arquitectura digital basada en virtud, transparencia y consenso humano](https://dev.to/axlfc/virtuechain-hacia-una-arquitectura-digital-basada-en-virtud-transparencia-y-consenso-humano-4cc1)
+- [How to Get Claude Opus 4 &amp; Claude Sonnet 4 API via CometAPI](https://dev.to/_37bbf0c253c0b3edec531e/how-to-get-claude-opus-4-claude-sonnet-4-api-via-cometapi-55c5)
+- [Aprenda padrões de projeto, mas não se apegue às implementações](https://dev.to/scotuzzijr/aprenda-padroes-de-projeto-mas-nao-se-apegue-as-implementacoes-20o8)
+- [My Experience Studying IT at Sabaragamuwa University of Sri Lanka](https://dev.to/21cis0067_dulmali__nipuni/my-experience-studying-it-at-sabaragamuwa-university-of-sri-lanka-40gc)
+- [Renaming and Migrating Google Cloud Storage Buckets Using Storage Transfer Service](https://dev.to/weslley_ribeiro01/renaming-and-migrating-google-cloud-storage-buckets-using-storage-transfer-service-2ail)
 <!-- BLOG-POST-LIST:END -->
 
 
