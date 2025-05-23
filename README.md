@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Business Needs a Smart Data Sourcing Strategy](https://dev.to/samuel_mitter_06d9e3f9c78/why-every-business-needs-a-smart-data-sourcing-strategy-4loo)
-- [How to Perform a Local SEO Audit for Your Business](https://dev.to/threeglogic3/how-to-perform-a-local-seo-audit-for-your-business-1d0e)
-- [Best WAF for Beginners in 2025: Why SafeLine Beats Traditional WAFs](https://dev.to/sharon_42e16b8da44dabde6d/best-waf-for-beginners-in-2025-why-safeline-beats-traditional-wafs-5ap6)
-- [esProc SPL &amp; MongoDB: A Match Made in Data Heaven](https://dev.to/serina_8340/esproc-spl-mongodb-a-match-made-in-data-heaven-26p6)
+- [Unlock Fun &amp; Productivity: Introducing the Warner Bros Retro Board for Your Agile Sprint Retrospectives](https://dev.to/nargiz_abbasova/unlock-fun-productivity-introducing-the-warner-bros-retro-board-for-your-agile-sprint-1ia4)
+- [API Gateway Authorizers: Vulnerabilities By Design &lpar;be careful!&rpar;](https://dev.to/aws-builders/api-gateway-vulnerabilities-by-design-be-careful-2094)
+- [Behind the Scenes of a Payment Gateway: How Payment Systems Integrate into E-Commerce Platforms](https://dev.to/candies_4832a5f43f59ec2bd/behind-the-scenes-of-a-payment-gateway-how-payment-systems-integrate-into-e-commerce-platforms-2o7j)
+- [Exploring Baby Sign Language: Communication Strategies for Preverbal Infants by Marlene Junker](https://dev.to/marlenejunker01/exploring-baby-sign-language-communication-strategies-for-preverbal-infants-by-marlene-junker-4p90)
 <!-- BLOG-POST-LIST:END -->
 
 
