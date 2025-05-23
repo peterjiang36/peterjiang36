@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Pyramids to Programs: What Ancient Egypt Teaches Us About Building Great AI Systems](https://dev.to/alireza_minagar_99f01ecb6/from-pyramids-to-programs-what-ancient-egypt-teaches-us-about-building-great-ai-systems-2bac)
-- [VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://dev.to/taniguchitakara/videohallucer-evaluating-intrinsic-and-extrinsichallucinations-in-large-video-language-models-4b38)
-- [How to Run Cursor AI in the Cloud with Remote Desktop Access](https://dev.to/daleymottley/run-cursor-ai-in-the-cloud-with-remote-desktop-access-131h)
-- [BitLocker Limbo PSA](https://dev.to/annavi11arrea1/bitlocker-limbo-psa-1n37)
+- [LivinGrimoire&#39;s Exciting 11th Port](https://dev.to/owly/livingrimoires-exciting-11th-port-33me)
+- [Node.js&#39; config Library Shouldn&#39;t Be Used in TypeScript](https://dev.to/jesterxl/nodejs-config-library-shouldnt-be-used-in-typescript-48op)
+- [Why We Almost Gave Up on Our App—Until We Fixed the UX](https://dev.to/ryan_adam_ad956fc4a05e487/why-we-almost-gave-up-on-our-app-until-we-fixed-the-ux-5g8n)
+- [CS5OP Final Project](https://dev.to/jblenumerateur/cs5op-final-project-56b5)
 <!-- BLOG-POST-LIST:END -->
 
 
