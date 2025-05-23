@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Microsoft 365 Apps Every Business Should Use in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/top-7-microsoft-365-apps-every-business-should-use-in-2025-30cp)
-- [Maximizing Efficiency with Fleet Fuel Management: The Smart Move for Modern Fleet Operations](https://dev.to/hypernym_io/maximizing-efficiency-with-fleet-fuel-management-the-smart-move-for-modern-fleet-operations-47bi)
-- [🚀 Yo devs, wanna build collab apps that SLAP? Meet Jazz: the Real-Time Collab Framework That’s Straight Fire 🔥](https://dev.to/vikyw89/yo-devs-wanna-build-collab-apps-that-slap-meet-jazz-the-real-time-collab-framework-thats-23o)
-- [MySQL for beginners](https://dev.to/matheusfrg/mysql-for-beginners-1441)
+- [Can You Get Hacked by Watching a Video?](https://dev.to/nightmare-lynx/can-you-get-hacked-by-watching-a-video-n6)
+- [Published a new post about the latest thing I built](https://dev.to/yuvadm/published-a-new-post-about-the-latest-thing-i-built-3ofa)
+- [How DevOps Automation Accelerates Business Growth](https://dev.to/hybytes_devops/how-devops-automation-accelerates-business-growth-4k1k)
+- [What is React JS?](https://dev.to/khushii_34ceada974a6bfcc2/what-is-react-js-1gkj)
 <!-- BLOG-POST-LIST:END -->
 
 
