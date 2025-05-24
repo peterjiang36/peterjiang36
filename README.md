@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Without Limits: How No-Code Tools Like Webflow, Wix &amp; Bubble Are Redefining the Future of Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/build-without-limits-how-no-code-tools-like-webflow-wix-bubble-are-redefining-the-future-of-web-1n14)
-- [Agile Lessons: Navigating Shifting Priorities in a Tech Career](https://dev.to/pratikshya_behera_/agile-lessons-navigating-shifting-priorities-in-a-tech-career-p84)
-- [🚀 Build a Beautiful CLI Dashboard in Python using pyfiglet + rich!!!](https://dev.to/nish2005karsh/build-a-beautiful-cli-dashboard-in-python-using-pyfiglet-rich-1ji8)
-- [Claude 4: Opus vs Sonnet, Benchmarks, and Dev Workflow with Claude Code](https://dev.to/nodeshiftcloud/claude-4-opus-vs-sonnet-benchmarks-and-dev-workflow-with-claude-code-11fa)
+- [Kivy vs BeeWare: Best Python Frameworks for iOS App Development](https://dev.to/synapseindia/kivy-vs-beeware-best-python-frameworks-for-ios-app-development-229a)
+- [Day 3/30 - Undo Git Mistakes: The Ultimate git reflog Guide](https://dev.to/ruqaiya_beguwala/undo-git-mistakes-the-ultimate-git-reflog-guide-day-330-aka)
+- [6 UI/UX Best Practices for E-Commerce Platforms](https://dev.to/shrutisaha/6-uiux-best-practices-for-e-commerce-platforms-388a)
+- [LLM Future Automation](https://dev.to/jeanphilippe_ulpiano_46b/llm-future-automation-26gn)
 <!-- BLOG-POST-LIST:END -->
 
 
