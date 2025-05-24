@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
-- [I just used html css to create motion animation](https://dev.to/kdeneon/i-just-used-html-css-to-create-motion-animation-1j8h)
-- [Tracking and Security in Payload CMS with the Payload-Auditor Plugin](https://dev.to/shaadcode/tracking-and-security-in-payload-cms-with-the-payload-auditor-plugin-mpk)
-- [WebSocket 请求通过 CDN 返回 403 Forbidden 的问题排查与解决](https://dev.to/truman_999999999/websocket-qing-qiu-tong-guo-cdn-fan-hui-403-forbidden-de-wen-ti-pai-cha-yu-jie-jue-59hb)
+- [Build Without Limits: How No-Code Tools Like Webflow, Wix &amp; Bubble Are Redefining the Future of Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/build-without-limits-how-no-code-tools-like-webflow-wix-bubble-are-redefining-the-future-of-web-1n14)
+- [Agile Lessons: Navigating Shifting Priorities in a Tech Career](https://dev.to/pratikshya_behera_/agile-lessons-navigating-shifting-priorities-in-a-tech-career-p84)
+- [🚀 Build a Beautiful CLI Dashboard in Python using pyfiglet + rich!!!](https://dev.to/nish2005karsh/build-a-beautiful-cli-dashboard-in-python-using-pyfiglet-rich-1ji8)
+- [Claude 4: Opus vs Sonnet, Benchmarks, and Dev Workflow with Claude Code](https://dev.to/nodeshiftcloud/claude-4-opus-vs-sonnet-benchmarks-and-dev-workflow-with-claude-code-11fa)
 <!-- BLOG-POST-LIST:END -->
 
 
