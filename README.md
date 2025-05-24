@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pipelining for Memcached](https://dev.to/obbap/pipelining-for-memcached-1pm9)
 - [How to build index with text embeddings](https://dev.to/cocoindex/how-to-build-index-with-text-embeddings-j3m)
 - [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolu_cloudops/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2fdi)
 - [Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k)
-- [Gogoanime: A Go-To Platform for Free Anime Streaming](https://dev.to/tnia_posh_d9933578f3b5a28/gogoanime-a-go-to-platform-for-free-anime-streaming-57bm)
 <!-- BLOG-POST-LIST:END -->
 
 
