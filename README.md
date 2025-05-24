@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Git Conflicts: Best Practices to Prevent Code Loss in Development Teams](https://dev.to/code_heisenberg/navigating-git-conflicts-best-practices-to-prevent-code-loss-in-development-teams-3h6g)
-- [Asp.Net Core app with Dynamic Modular Monolith Architecture](https://dev.to/musmanrafiq/aspnet-core-app-with-dynamic-modular-monolith-architecture-2apb)
-- [🚀 Building a Space Asteroid Dodge Game Using Amazon Q CLI and Python 🎮☄️](https://dev.to/pavan_mali_0281/building-a-space-asteroid-dodge-game-using-amazon-q-cli-and-python-56lm)
-- [No Index for LIKE on JSONB with Array in the Path](https://dev.to/franckpachot/no-index-for-like-on-jsonb-with-array-in-the-path-hbe)
+- [The Job Pipeline](https://dev.to/thejaredwilcurt/the-job-pipeline-2jgc)
+- [Building a Dynamic User Profile Dashboard with GraphQL](https://dev.to/johneliud/building-a-dynamic-user-profile-dashboard-with-graphql-670)
+- [UIKit Previews in Xcode](https://dev.to/markkazakov/uikit-previews-in-xcode-1i77)
+- [Day-35 of Coding!](https://dev.to/harshvdev/day-35-of-coding-1eha)
 <!-- BLOG-POST-LIST:END -->
 
 
