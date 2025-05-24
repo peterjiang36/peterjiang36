@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-5-1493)
-- [Stop Writing Old Go: How modernize Transforms Your Development](https://dev.to/rodneyo1/stop-writing-old-go-how-modernize-transforms-your-development-1e3g)
-- [Golang Tutorial: Using Mutex with Goroutines](https://dev.to/ayas_tech_2b0560ee159e661/golang-tutorial-using-mutex-with-goroutines-1b6)
-- [How Laravel Collections Made My Life Easier — A Real Life Story](https://dev.to/tahsin000/how-laravel-collections-made-my-life-easier-a-real-life-story-45od)
+- [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
+- [Revolutionize Your Database Development with SchemaCrawler MCP Server](https://dev.to/sualeh/revolutionize-your-database-development-with-schemacrawler-mcp-server-310i)
+- [Why Functional Decomposition Leads to Bad System Design](https://dev.to/ujjwall-r/why-functional-decomposition-leads-to-bad-system-design-5chd)
+- [Retrieving System MAC Address Across OS Platforms](https://dev.to/wildshark/retrieving-system-mac-address-across-os-platforms-3fjo)
 <!-- BLOG-POST-LIST:END -->
 
 
