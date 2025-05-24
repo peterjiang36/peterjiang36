@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Export HTML Tables to PowerPoint with WebView2 and VSTO](https://dev.to/adilkhan/export-html-tables-to-powerpoint-with-webview2-and-vsto-1fem)
-- [Your Code Passed. Now What?](https://dev.to/tonystpierre/your-code-passed-now-what-3m69)
-- [🌟 FashionApp – A Fullstack Fashion Shopping App &lpar;Flutter + Django&rpar;](https://dev.to/dangdungvn/fashionapp-a-fullstack-fashion-shopping-app-flutter-django-5537)
-- [Serving static content from S3 bucket](https://dev.to/dmitryame/serving-static-content-from-s3-bucket-195p)
+- [AltSchool Of Engineering Tinyuka’24 Month 3 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-3-week-5-1493)
+- [Stop Writing Old Go: How modernize Transforms Your Development](https://dev.to/rodneyo1/stop-writing-old-go-how-modernize-transforms-your-development-1e3g)
+- [Golang Tutorial: Using Mutex with Goroutines](https://dev.to/ayas_tech_2b0560ee159e661/golang-tutorial-using-mutex-with-goroutines-1b6)
+- [How Laravel Collections Made My Life Easier — A Real Life Story](https://dev.to/tahsin000/how-laravel-collections-made-my-life-easier-a-real-life-story-45od)
 <!-- BLOG-POST-LIST:END -->
 
 
