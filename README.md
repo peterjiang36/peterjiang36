@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peer Programming with LLMs, For Senior+ Engineers](https://dev.to/pmbanugo/peer-programming-with-llms-for-senior-engineers-3gmj)
-- [Innovating Music Social Experiences with Real-Time Beauty Effects](https://dev.to/susiewang/innovating-music-social-experiences-with-real-time-beauty-effects-4n37)
-- [💻💡 Why Many People Don’t Become Good Programmers – And How You Can](https://dev.to/muzammilriaz/why-many-people-dont-become-good-programmers-and-how-you-can-36aa)
-- [How Good Website Design Can Help Convert More Clients](https://dev.to/renusbcreation/how-good-website-design-can-help-convert-more-clients-343p)
+- [Writing Kubernetes Manifests: From Beginner to Advanced](https://dev.to/haswanth/writing-kubernetes-manifests-from-beginner-to-advanced-3pgb)
+- [SPEEDTEST](https://dev.to/brian_oiko_5c72fb6a37124b/speedtest-1opd)
+- [Ever Wondered How Powerful a Well-Written Prompt Can Be?](https://dev.to/shariya_shuvo/ever-wondered-how-powerful-a-well-written-prompt-can-be-8ee)
+- [How to Crack Your First DevOps Interview: Tips and Sample Questions](https://dev.to/haswanth/how-to-crack-your-first-devops-interview-tips-and-sample-questions-2jce)
 <!-- BLOG-POST-LIST:END -->
 
 
