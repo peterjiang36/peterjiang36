@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Insightful Post on regaining back your focus in this current AI age](https://dev.to/ogundiyantobiloba/insightful-post-on-regaining-back-your-focus-in-this-current-ai-age-12p1)
-- [Smart Laboratory Drying oven](https://dev.to/fatemehk1/smart-laboratory-drying-oven-3n5h)
-- [How to Change Syntax Highlighting Colors in Visual Studio Without Installing a Theme](https://dev.to/pexlkeys/how-to-change-syntax-highlighting-colors-in-visual-studio-without-installing-a-theme-dg)
-- [Claude 4 Has Landed: Anthropic Redefines AI Coding &amp; Agentic Power](https://dev.to/simplr_sh/claude-4-has-landed-anthropic-redefines-ai-coding-agentic-power-2075)
+- [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
+- [I just used html css to create motion animation](https://dev.to/kdeneon/i-just-used-html-css-to-create-motion-animation-1j8h)
+- [Tracking and Security in Payload CMS with the Payload-Auditor Plugin](https://dev.to/shaadcode/tracking-and-security-in-payload-cms-with-the-payload-auditor-plugin-mpk)
+- [WebSocket 请求通过 CDN 返回 403 Forbidden 的问题排查与解决](https://dev.to/truman_999999999/websocket-qing-qiu-tong-guo-cdn-fan-hui-403-forbidden-de-wen-ti-pai-cha-yu-jie-jue-59hb)
 <!-- BLOG-POST-LIST:END -->
 
 
