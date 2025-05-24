@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kivy vs BeeWare: Best Python Frameworks for iOS App Development](https://dev.to/synapseindia/kivy-vs-beeware-best-python-frameworks-for-ios-app-development-229a)
-- [Day 3/30 - Undo Git Mistakes: The Ultimate git reflog Guide](https://dev.to/ruqaiya_beguwala/undo-git-mistakes-the-ultimate-git-reflog-guide-day-330-aka)
-- [6 UI/UX Best Practices for E-Commerce Platforms](https://dev.to/shrutisaha/6-uiux-best-practices-for-e-commerce-platforms-388a)
-- [LLM Future Automation](https://dev.to/jeanphilippe_ulpiano_46b/llm-future-automation-26gn)
+- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/elearning_solutions_791be/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-2cik)
+- [Complete Guide to Setting Up Code Quality Standards in React Native Projects](https://dev.to/ajmal_hasan/complete-guide-to-setting-up-code-quality-standards-in-react-native-projects-1b22)
+- [🧠 PythonAI Brain](https://dev.to/divyanshu_sinha_dd092f343/pythonai-brain-2h5m)
+- [Nomenclatura de bloques en Drupal y su integración en Vertical Slicing](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-y-vertical-slicing-1hbb)
 <!-- BLOG-POST-LIST:END -->
 
 
