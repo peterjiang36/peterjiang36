@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone now can create profitable business with AI](https://dev.to/martintonev/everyone-now-can-create-profitable-business-with-ai-560d)
-- [[Boost]](https://dev.to/western_king01/-24k0)
-- [AI Isn’t Replacing Developers — It’s Making Them Irreplaceable](https://dev.to/abhishekshakya/ai-isnt-replacing-developers-its-making-them-irreplaceable-3o40)
-- [My thoughts on The Odin Project](https://dev.to/steven_96a308e416e2ad9cb3/my-thoughts-on-the-odin-project-m2j)
+- [Navigating Git Conflicts: Best Practices to Prevent Code Loss in Development Teams](https://dev.to/code_heisenberg/navigating-git-conflicts-best-practices-to-prevent-code-loss-in-development-teams-3h6g)
+- [Asp.Net Core app with Dynamic Modular Monolith Architecture](https://dev.to/musmanrafiq/aspnet-core-app-with-dynamic-modular-monolith-architecture-2apb)
+- [🚀 Building a Space Asteroid Dodge Game Using Amazon Q CLI and Python 🎮☄️](https://dev.to/pavan_mali_0281/building-a-space-asteroid-dodge-game-using-amazon-q-cli-and-python-56lm)
+- [No Index for LIKE on JSONB with Array in the Path](https://dev.to/franckpachot/no-index-for-like-on-jsonb-with-array-in-the-path-hbe)
 <!-- BLOG-POST-LIST:END -->
 
 
