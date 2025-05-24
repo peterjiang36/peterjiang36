@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cat Loader: A Cute and Creative Loading Animation for Your Website](https://dev.to/robin-ivi/cat-loader-a-cute-and-creative-loading-animation-for-your-website-4cph)
-- [Database Security in DBMS](https://dev.to/aniruddhaadak/database-security-in-dbms-4mg4)
-- [First Contributions: learn how to contribute to open source projects](https://dev.to/praneet_biswal_d355dcff3c/first-contributions-learn-how-to-contribute-to-open-source-projects-47ib)
-- [Leveling Up Daily 💪 | Java, SpringBoot &amp; GoLang](https://dev.to/vinayakgote2730/leveling-up-daily-java-springboot-golang-102)
+- [Insightful Post on regaining back your focus in this current AI age](https://dev.to/ogundiyantobiloba/insightful-post-on-regaining-back-your-focus-in-this-current-ai-age-12p1)
+- [Smart Laboratory Drying oven](https://dev.to/fatemehk1/smart-laboratory-drying-oven-3n5h)
+- [How to Change Syntax Highlighting Colors in Visual Studio Without Installing a Theme](https://dev.to/pexlkeys/how-to-change-syntax-highlighting-colors-in-visual-studio-without-installing-a-theme-dg)
+- [Claude 4 Has Landed: Anthropic Redefines AI Coding &amp; Agentic Power](https://dev.to/simplr_sh/claude-4-has-landed-anthropic-redefines-ai-coding-agentic-power-2075)
 <!-- BLOG-POST-LIST:END -->
 
 
