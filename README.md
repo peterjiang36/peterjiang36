@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Selective test execution mechanism with Playwright using GitHub Actions](https://dev.to/denis_skvortsov/selective-test-execution-mechanism-with-playwright-using-github-actions-862)
-- [DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity](https://dev.to/wininlife_academy_14d5cee/dns-footprinting-essential-reconnaissance-for-proactive-cybersecurity-1ci8)
-- [working on my portfolio](https://dev.to/nihal473/working-on-my-portfolio-5blk)
-- [Transforming Retail with AI Agents: A Strategic Playbook.](https://dev.to/gabrielmateo/transforming-retail-with-ai-agents-a-strategic-playbook-3hdp)
+- [13 Free Web-Based Developer Tools You&#39;ll Actually Use](https://dev.to/sayem314/13-free-web-based-developer-tools-youll-actually-use-3j4p)
+- [The Ultimate Choice for Building Modern Web Services: A Lightweight Rust HTTP Framework](https://dev.to/_95e41982c9ad08a13458d/the-ultimate-choice-for-building-modern-web-services-a-lightweight-rust-http-framework-oo)
+- [Padrão Repository: A Abstração que Transformou o Acesso a Dados em Aplicações .NET](https://dev.to/gustavo_cremonez/padrao-repository-a-abstracao-que-transformou-o-acesso-a-dados-em-aplicacoes-net-21pn)
+- [WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-26o0)
 <!-- BLOG-POST-LIST:END -->
 
 
