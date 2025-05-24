@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipelining for Memcached](https://dev.to/obbap/pipelining-for-memcached-1pm9)
-- [How to build index with text embeddings](https://dev.to/cocoindex/how-to-build-index-with-text-embeddings-j3m)
-- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolu_cloudops/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2fdi)
-- [Daily JavaScript Challenge #JS-187: Find the Shortest Word in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-187-find-the-shortest-word-in-a-sentence-1d2k)
+- [Shocking Things You Can Do in JavaScript](https://dev.to/maxprilutskiy/shocking-things-you-can-do-in-javascript-536l)
+- [I created a simple code search too; made in Flask.](https://dev.to/coder_acco/i-created-a-simple-code-search-too-made-in-flask-2368)
+- [Async ဆိုတာဘယ်လိုမျိုးလဲ](https://dev.to/myozawlatt/async-chiuttaabhyliumiulai-2bm)
+- [Mental Math Hacks: Swift Estimations of Powers and Roots for Programmers](https://dev.to/josemariairiarte/mental-math-hacks-swift-estimations-of-powers-and-roots-for-programmers-321m)
 <!-- BLOG-POST-LIST:END -->
 
 
