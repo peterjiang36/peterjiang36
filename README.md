@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Sales Pipeline with Salesforce CRM](https://dev.to/elearning_solutions_791be/how-to-build-a-scalable-sales-pipeline-with-salesforce-crm-2cik)
-- [Complete Guide to Setting Up Code Quality Standards in React Native Projects](https://dev.to/ajmal_hasan/complete-guide-to-setting-up-code-quality-standards-in-react-native-projects-1b22)
-- [🧠 PythonAI Brain](https://dev.to/divyanshu_sinha_dd092f343/pythonai-brain-2h5m)
-- [Nomenclatura de bloques en Drupal y su integración en Vertical Slicing](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-y-vertical-slicing-1hbb)
+- [Selective test execution mechanism with Playwright using GitHub Actions](https://dev.to/denis_skvortsov/selective-test-execution-mechanism-with-playwright-using-github-actions-862)
+- [DNS Footprinting: Essential Reconnaissance for Proactive Cybersecurity](https://dev.to/wininlife_academy_14d5cee/dns-footprinting-essential-reconnaissance-for-proactive-cybersecurity-1ci8)
+- [working on my portfolio](https://dev.to/nihal473/working-on-my-portfolio-5blk)
+- [Transforming Retail with AI Agents: A Strategic Playbook.](https://dev.to/gabrielmateo/transforming-retail-with-ai-agents-a-strategic-playbook-3hdp)
 <!-- BLOG-POST-LIST:END -->
 
 
