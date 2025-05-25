@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #21-2025: AI Everywhere: Google, Apple, Cursor, GitHub &amp; the Future of Development, AWS Security Flaw](https://dev.to/weekly/weekly-21-2025-ai-everywhere-google-apple-cursor-github-the-future-of-development-aws-50n8)
-- [Google I/O vs OpenAI: The Race to Shape the Future of AI and Innovation](https://dev.to/abhishekshakya/google-io-vs-openai-the-race-to-shape-the-future-of-ai-and-innovation-bg2)
-- [Read-Only Root Filesystems in Docker: Minimizing Container Write Access for Better Security](https://dev.to/hexshift/read-only-root-filesystems-in-docker-minimizing-container-write-access-for-better-security-3i43)
-- [Office 365 E1 Plus &lpar;No Teams&rpar;: A Lightweight Powerhouse for Business Productivity in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/office-365-e1-plus-no-teams-a-lightweight-powerhouse-for-business-productivity-in-2025-markdown-54fi)
+- [Should You Copy Production Data to Lower Environments in Power Platform?](https://dev.to/nikhildynamicsce/should-you-copy-production-data-to-lower-environments-in-power-platform-5aok)
+- [Level Up Your Command Line: Introducing Terminal Troubleshooter! &lpar;Built with AWS Q CLI&rpar;](https://dev.to/hritikraj8804/level-up-your-command-line-introducing-terminal-troubleshooter-built-with-aws-q-cli-5ki)
+- [Why Use Laravel as Product Development in 2025?](https://dev.to/pandito___/why-use-laravel-as-product-development-in-2025-mo0)
+- [Git Tip: What’s the Difference Between HTTP and SSH in GitLab?](https://dev.to/suriya_prabakaran/git-tip-whats-the-difference-between-http-and-ssh-in-gitlab-2pl6)
 <!-- BLOG-POST-LIST:END -->
 
 
