@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Steps to Deploy a Three-Tier E-Commerce System on AWS EKS](https://dev.to/aws-builders/simple-steps-to-deploy-a-three-tier-e-commerce-system-on-aws-eks-eb0)
-- [🤖 Programming Is Applied Philosophy &lpar;You Just Didn&#39;t Notice&rpar;](https://dev.to/snappytuts/programming-is-applied-philosophy-you-just-didnt-notice-3bni)
-- [You Don’t Need to Build a Big Project to Learn](https://dev.to/abubaker_siddique_513b7e2/you-dont-need-to-build-a-big-project-to-learn-36he)
-- [How I Built My Self-Hosted Homelab with Docker on Ubuntu 24.04](https://dev.to/enkuldes/how-i-built-my-self-hosted-homelab-with-docker-on-ubuntu-2404-1ccc)
+- [SecurityContext in Kubernetes](https://dev.to/omkara18/securitycontext-in-kubernetes-2j10)
+- [What Qualities Does It Take to Be the Best Software Developer](https://dev.to/devto-articles/what-qualities-does-it-take-to-be-the-best-software-developer-4nol)
+- [Understanding PowerBI](https://dev.to/emmanuel_kiriinya_416fc40/understanding-powerbi-1kmb)
+- [Modules in Python](https://dev.to/datatoinfinity/modules-in-python-41hm)
 <!-- BLOG-POST-LIST:END -->
 
 
