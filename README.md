@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding Meltdowns in Microservices: The Circuit Breaker Pattern](https://dev.to/lovestaco/avoiding-meltdowns-in-microservices-the-circuit-breaker-pattern-5666)
-- [OOP Cookies: Baking Object-Oriented Programming Concepts](https://dev.to/zelengungor/oop-cookies-baking-object-oriented-programming-concepts-14p2)
-- [🌀 Real-Time Python CLI Dashboard with rich and pyfiglet — Now It’s ALIVE ⚡](https://dev.to/nish2005karsh/real-time-python-cli-dashboard-with-rich-and-pyfiglet-now-its-alive-644)
-- [Nest Repository Shortcut Methods &lpar;TypeORM&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/nest-repository-shortcut-methods-typeorm-2kla)
+- [Cyberpunk 2077 multiplayer / coop .. So cool some is actually giving it a shot.](https://dev.to/johns-dev-projects/cyberpunk-2077-multiplayer-coop-so-cool-some-is-actually-giving-it-a-shot-1c9o)
+- [Cómo Saber La Velocidad de mi Internet Antel [Uruguay]](https://dev.to/nacho_gomez_1ccfe702f2972/como-saber-la-velocidad-de-mi-internet-antel-3cjg)
+- [A2A MCP RAG Application : Live Demo](https://dev.to/vishalmysore/a2a-mcp-rag-application-live-demo-mb3)
+- [Untitled](https://dev.to/she_he_8427f9db3a95733b33/untitled-3k0m)
 <!-- BLOG-POST-LIST:END -->
 
 
