@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rotational Travel Slider](https://dev.to/preetha_vaishnavi_2b82358/rotational-travel-slider-22d1)
-- [Deploy Each NestJS Module as a Separate Firebase Function. NestFire](https://dev.to/felipeosano/deploy-each-nestjs-module-as-a-separate-firebase-function-nestfire-ng2)
-- [What Makes Nexty.dev Stand Out](https://dev.to/weijunext/what-makes-nextydev-stand-out-4f93)
-- [10 Mistakes Developers Make When Deploying to AWS EC2](https://dev.to/arunangshu_das/10-mistakes-developers-make-when-deploying-to-aws-ec2-4bnh)
+- [Weekly #21-2025: AI Everywhere: Google, Apple, Cursor, GitHub &amp; the Future of Development, AWS Security Flaw](https://dev.to/weekly/weekly-21-2025-ai-everywhere-google-apple-cursor-github-the-future-of-development-aws-50n8)
+- [Google I/O vs OpenAI: The Race to Shape the Future of AI and Innovation](https://dev.to/abhishekshakya/google-io-vs-openai-the-race-to-shape-the-future-of-ai-and-innovation-bg2)
+- [Read-Only Root Filesystems in Docker: Minimizing Container Write Access for Better Security](https://dev.to/hexshift/read-only-root-filesystems-in-docker-minimizing-container-write-access-for-better-security-3i43)
+- [Office 365 E1 Plus &lpar;No Teams&rpar;: A Lightweight Powerhouse for Business Productivity in 2025](https://dev.to/aadarsh_6c0f2d089d67a8a0a/office-365-e1-plus-no-teams-a-lightweight-powerhouse-for-business-productivity-in-2025-markdown-54fi)
 <!-- BLOG-POST-LIST:END -->
 
 
