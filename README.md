@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Guide To Using Open Source Software as an Indie Developer](https://dev.to/wimadev/your-guide-to-using-open-source-software-as-an-indie-developer-2foi)
-- [🧩 How I Built a Maze Game with PyGame &lpar;Using Amazon Q&rpar;](https://dev.to/divakar_singh_55fbb78aa5a/how-i-built-a-maze-game-with-pygame-using-amazon-q-2p3p)
-- [What to eat](https://dev.to/uratmangun/what-to-eat-7lb)
-- [25+ HTML Projects for Beginners with Source Code](https://dev.to/djamware_tutorial_eba1a61/25-html-projects-for-beginners-with-source-code-1698)
+- [Dictionary in Python &lpar;1&rpar;](https://dev.to/hyperkai/dictionary-in-python-1-b0l)
+- [I&#39;m from a country you&#39;ve probably never heard of, and I work in companies from the US, how?](https://dev.to/nicolasmontielf/im-from-a-country-youve-probably-never-heard-of-and-i-work-in-companies-from-the-us-how-701)
+- [AWS GuardDuty vs AWS Inspector: What AWS Developers Need to Know in 2025](https://dev.to/pkkolla/aws-guardduty-vs-aws-inspector-what-aws-developers-need-to-know-in-2025-3j5b)
+- [Mastering Go Modules: A Practical Guide to Dependency Management](https://dev.to/leapcell/mastering-go-modules-a-practical-guide-to-dependency-management-3ccb)
 <!-- BLOG-POST-LIST:END -->
 
 
