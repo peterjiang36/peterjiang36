@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I created an code search tool made in Flask called Codel.](https://dev.to/coder_acco/i-created-an-code-search-tool-made-in-flask-called-codel-5gna)
-- [Why Tabscanner is the Best Receipt OCR API for Loyalty Rewards Program Software](https://dev.to/amichaellloyd/why-tabscanner-is-the-best-receipt-ocr-api-for-loyalty-rewards-program-software-3kfd)
-- [What is the difference between ref,out and in keywords in c#](https://dev.to/boomi1/what-is-the-difference-between-refout-and-in-keywords-in-c-1n7m)
-- [224/365 | ¥10M Job Challenge - What makes something valuable?](https://dev.to/tenshokukame/224365-y10m-job-challenge-what-makes-something-valuable-4j2l)
+- [Avoiding Meltdowns in Microservices: The Circuit Breaker Pattern](https://dev.to/lovestaco/avoiding-meltdowns-in-microservices-the-circuit-breaker-pattern-5666)
+- [OOP Cookies: Baking Object-Oriented Programming Concepts](https://dev.to/zelengungor/oop-cookies-baking-object-oriented-programming-concepts-14p2)
+- [🌀 Real-Time Python CLI Dashboard with rich and pyfiglet — Now It’s ALIVE ⚡](https://dev.to/nish2005karsh/real-time-python-cli-dashboard-with-rich-and-pyfiglet-now-its-alive-644)
+- [Nest Repository Shortcut Methods &lpar;TypeORM&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/nest-repository-shortcut-methods-typeorm-2kla)
 <!-- BLOG-POST-LIST:END -->
 
 
