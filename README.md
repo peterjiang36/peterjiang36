@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline Pattern in Go: A Practical Guide](https://dev.to/leapcell/pipeline-pattern-in-go-a-practical-guide-5dmm)
-- [Real Gem](https://dev.to/derrickatongo/-46h2)
-- [Analysis of the King of Aridoria : A Prompt Engineering Project](https://dev.to/grimkillingbeck/analysis-of-the-king-of-aridoria-a-prompt-engineering-project-3dfe)
-- [Real-Time News Sentiment Tracker with Bright Data Proxies](https://dev.to/tombri_bowei_e93e5827c03c/real-time-news-sentiment-tracker-with-bright-data-proxies-50d5)
+- [Social Engineering 2.0: Recon Techniques Scammers Use on LinkedIn Targets](https://dev.to/kedster/social-engineering-20-recon-techniques-scammers-use-on-linkedin-targets-878)
+- [Apihit using postman](https://dev.to/tamilarasi/apihit-using-postman-163n)
+- [How to Spot Fake Recruiters and Job Offers on LinkedIn in 2025](https://dev.to/kedster/how-to-spot-fake-recruiters-and-job-offers-on-linkedin-in-2025-47ak)
+- [Add 🤖 AI‑Powered Similar Posts 🔍 to Your Astro Blog — Here’s How](https://dev.to/logarithmicspirals/add-ai-powered-similar-posts-to-your-astro-blog-heres-how-35h3)
 <!-- BLOG-POST-LIST:END -->
 
 
