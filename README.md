@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/david_bussell14/-1328)
-- [NexSh — Stop Googling, Start Talking](https://dev.to/m97chahboun/nexsh-stop-googling-start-talking-1mnj)
-- [Unlocking the Power of Case Summaries with Copilot in Dynamics 365 Customer Service](https://dev.to/nikhildynamicsce/unlocking-the-power-of-case-summaries-with-copilot-in-dynamics-365-customer-service-1fag)
-- [My Journey with ASP.NET Core &amp; SQL Server: Lessons Learned](https://dev.to/yasser_alsousi/my-journey-with-aspnet-core-sql-server-lessons-learned-1ilf)
+- [hermitAI v0.3: LLM + RAG + MCP = Real-time Personalized AI Twin](https://dev.to/kafechew/hermitai-v03-llm-rag-mcp-real-time-personalized-ai-twin-5ejb)
+- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-1bp7)
+- [Planning Poker Integration for Azure DevOps 🃏](https://dev.to/mattlewandowski93/planning-poker-integration-for-azure-devops-ph1)
+- [Perfect Local SvelteKit Supabase Setup in 2025](https://dev.to/jdgamble555/perfect-local-sveltekit-supabase-setup-in-2025-4adp)
 <!-- BLOG-POST-LIST:END -->
 
 
