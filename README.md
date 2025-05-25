@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free AI Story Generator with Next.js 15: From Zero to Deployment](https://dev.to/dylan_huang_2686f6cef827a/building-a-free-ai-story-generator-with-nextjs-15-from-zero-to-deployment-a3k)
-- [TE AMO](https://dev.to/cristhian_huarsaya_56bffd/te-amo-4099)
-- [How to Download and Install Anime Witcher APK on Android [Step-by-Step Guide]](https://dev.to/anime_witcher_0e5e5aad5fe/how-to-download-and-install-anime-witcher-apk-on-android-step-by-step-guide-p6l)
-- [Razorpay Integration with Django: Step-by-Step Guide 💳](https://dev.to/madhubankhatri/razorpay-integration-with-django-step-by-step-guide-1cmn)
+- [Your Guide To Using Open Source Software as an Indie Developer](https://dev.to/wimadev/your-guide-to-using-open-source-software-as-an-indie-developer-2foi)
+- [🧩 How I Built a Maze Game with PyGame &lpar;Using Amazon Q&rpar;](https://dev.to/divakar_singh_55fbb78aa5a/how-i-built-a-maze-game-with-pygame-using-amazon-q-2p3p)
+- [What to eat](https://dev.to/uratmangun/what-to-eat-7lb)
+- [25+ HTML Projects for Beginners with Source Code](https://dev.to/djamware_tutorial_eba1a61/25-html-projects-for-beginners-with-source-code-1698)
 <!-- BLOG-POST-LIST:END -->
 
 
