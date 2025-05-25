@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dictionary in Python &lpar;1&rpar;](https://dev.to/hyperkai/dictionary-in-python-1-b0l)
-- [I&#39;m from a country you&#39;ve probably never heard of, and I work in companies from the US, how?](https://dev.to/nicolasmontielf/im-from-a-country-youve-probably-never-heard-of-and-i-work-in-companies-from-the-us-how-701)
-- [AWS GuardDuty vs AWS Inspector: What AWS Developers Need to Know in 2025](https://dev.to/pkkolla/aws-guardduty-vs-aws-inspector-what-aws-developers-need-to-know-in-2025-3j5b)
-- [Mastering Go Modules: A Practical Guide to Dependency Management](https://dev.to/leapcell/mastering-go-modules-a-practical-guide-to-dependency-management-3ccb)
+- [I created an code search tool made in Flask called Codel.](https://dev.to/coder_acco/i-created-an-code-search-tool-made-in-flask-called-codel-5gna)
+- [Why Tabscanner is the Best Receipt OCR API for Loyalty Rewards Program Software](https://dev.to/amichaellloyd/why-tabscanner-is-the-best-receipt-ocr-api-for-loyalty-rewards-program-software-3kfd)
+- [What is the difference between ref,out and in keywords in c#](https://dev.to/boomi1/what-is-the-difference-between-refout-and-in-keywords-in-c-1n7m)
+- [224/365 | ¥10M Job Challenge - What makes something valuable?](https://dev.to/tenshokukame/224365-y10m-job-challenge-what-makes-something-valuable-4j2l)
 <!-- BLOG-POST-LIST:END -->
 
 
