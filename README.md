@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [hermitAI v0.3: LLM + RAG + MCP = Real-time Personalized AI Twin](https://dev.to/kafechew/hermitai-v03-llm-rag-mcp-real-time-personalized-ai-twin-5ejb)
-- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-1bp7)
-- [Planning Poker Integration for Azure DevOps 🃏](https://dev.to/mattlewandowski93/planning-poker-integration-for-azure-devops-ph1)
-- [Perfect Local SvelteKit Supabase Setup in 2025](https://dev.to/jdgamble555/perfect-local-sveltekit-supabase-setup-in-2025-4adp)
+- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
+- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
+- [Playlist de Trilhas Cristãs com Instrumentos Acústicos para Inspirar sua Fé](https://dev.to/bateriacordas994/playlist-de-trilhas-cristas-com-instrumentos-acusticos-para-inspirar-sua-fe-56ip)
+- [Entrevista com Luthier Local: Entre Tradição e Novas Ideias](https://dev.to/partituramaster065/entrevista-com-luthier-local-entre-tradicao-e-novas-ideias-2bfe)
 <!-- BLOG-POST-LIST:END -->
 
 
