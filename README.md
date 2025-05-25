@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Social Engineering 2.0: Recon Techniques Scammers Use on LinkedIn Targets](https://dev.to/kedster/social-engineering-20-recon-techniques-scammers-use-on-linkedin-targets-878)
-- [Apihit using postman](https://dev.to/tamilarasi/apihit-using-postman-163n)
-- [How to Spot Fake Recruiters and Job Offers on LinkedIn in 2025](https://dev.to/kedster/how-to-spot-fake-recruiters-and-job-offers-on-linkedin-in-2025-47ak)
-- [Add 🤖 AI‑Powered Similar Posts 🔍 to Your Astro Blog — Here’s How](https://dev.to/logarithmicspirals/add-ai-powered-similar-posts-to-your-astro-blog-heres-how-35h3)
+- [The Silent Killers: Top 5 Things That Break Power Automate Flows in Production](https://dev.to/nikhildynamicsce/the-silent-killers-top-5-things-that-break-power-automate-flows-in-production-79m)
+- [⬛️🟪zzh/Google revoluciona el e-commerce: Su IA crea productos 3D interactivos a partir de simples fotos](https://dev.to/zzhdlr5/zzhgoogle-revoluciona-el-e-commerce-su-ia-crea-productos-3d-interactivos-a-partir-de-simples-2j7a)
+- [LLM Memory Injection Attacks - Primer &amp; Playbook](https://dev.to/colemurray/llm-memory-injection-attacks-primer-playbook-3lm3)
+- [Why Type Is the Better Choice in React + TypeScript](https://dev.to/wildboar_developer/why-type-is-the-better-choice-in-react-typescript-1njm)
 <!-- BLOG-POST-LIST:END -->
 
 
