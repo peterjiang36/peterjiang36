@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Killers: Top 5 Things That Break Power Automate Flows in Production](https://dev.to/nikhildynamicsce/the-silent-killers-top-5-things-that-break-power-automate-flows-in-production-79m)
-- [⬛️🟪zzh/Google revoluciona el e-commerce: Su IA crea productos 3D interactivos a partir de simples fotos](https://dev.to/zzhdlr5/zzhgoogle-revoluciona-el-e-commerce-su-ia-crea-productos-3d-interactivos-a-partir-de-simples-2j7a)
-- [LLM Memory Injection Attacks - Primer &amp; Playbook](https://dev.to/colemurray/llm-memory-injection-attacks-primer-playbook-3lm3)
-- [Why Type Is the Better Choice in React + TypeScript](https://dev.to/wildboar_developer/why-type-is-the-better-choice-in-react-typescript-1njm)
+- [Rotational Travel Slider](https://dev.to/preetha_vaishnavi_2b82358/rotational-travel-slider-22d1)
+- [Deploy Each NestJS Module as a Separate Firebase Function. NestFire](https://dev.to/felipeosano/deploy-each-nestjs-module-as-a-separate-firebase-function-nestfire-ng2)
+- [What Makes Nexty.dev Stand Out](https://dev.to/weijunext/what-makes-nextydev-stand-out-4f93)
+- [10 Mistakes Developers Make When Deploying to AWS EC2](https://dev.to/arunangshu_das/10-mistakes-developers-make-when-deploying-to-aws-ec2-4bnh)
 <!-- BLOG-POST-LIST:END -->
 
 
