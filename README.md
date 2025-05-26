@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
-- [Using Copilot agent in Visual Studio](https://dev.to/karenpayneoregon/using-copilot-agent-in-visual-studio-16nb)
-- [Social Media Widgets and Privacy](https://dev.to/alvaromontoro/social-media-widgets-and-privacy-3mje)
-- [🚀 Create a Global phpdev Command to Launch Laravel + Vite Simultaneously](https://dev.to/tahsin000/create-a-global-phpdev-command-to-launch-laravel-vite-simultaneously-ibd)
+- [Advanced Use of Symbol.toStringTag for Custom Objects](https://dev.to/omriluz1/advanced-use-of-symboltostringtag-for-custom-objects-5gja)
+- [🐍 𝗣𝘆𝘁𝗵𝗼𝗻: 𝗕𝘂𝗶𝗹𝘁 𝗳𝗼𝗿 𝗦𝗽𝗲𝗲𝗱 𝗼𝗳 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗡𝗼𝘁 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻](https://dev.to/justin_morales_225c97a732/--546p)
+- [Mustiolo: A Python library for creating CLI applications.](https://dev.to/cereal84/mustiolo-a-python-library-for-creating-cli-applications-33og)
+- [Sharding Demystified](https://dev.to/hellonehha/sharding-demystified-3cl9)
 <!-- BLOG-POST-LIST:END -->
 
 
