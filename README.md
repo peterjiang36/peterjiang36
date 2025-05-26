@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Cosyvoice model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-cosyvoice-model-by-jichengdu-on-replicate-ci0)
-- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
-- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
-- [LibTracker VS Code Extension: Streamline Your Dependency Management](https://dev.to/windmillcode/libtracker-vs-code-extension-streamline-your-dependency-management-16mc)
+- [We Asked DeepSeek to Rank Free WAFs — Here&#39;s What It Said](https://dev.to/sharon_42e16b8da44dabde6d/we-asked-deepseek-to-rank-free-wafs-heres-what-it-said-48ao)
+- [What Would You Build with a Self-Evolving AI Agent like EvoAgentX?](https://dev.to/evoagentx/what-would-you-build-with-a-self-evolving-ai-agent-like-evoagentx-4jcn)
+- [The Ops Apocalypse is Coming! SSL Certificate Validity to be Shortened Again?](https://dev.to/patel1314/the-ops-apocalypse-is-coming-ssl-certificate-validity-to-be-shortened-again-2dgj)
+- [API Documentation for NestJS](https://dev.to/dilumdarshana/api-documentation-for-nestjs-3cnk)
 <!-- BLOG-POST-LIST:END -->
 
 
