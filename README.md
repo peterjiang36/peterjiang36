@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Native Desktop Apps with SQLite and GTK](https://dev.to/justaguyfrombr/native-desktop-app-with-sqlite-and-gtk-189p)
-- [Day 10 - Introduction to reactivity in Vue 3, Svelte 5 and Angular](https://dev.to/railsstudent/day-10-introduction-to-reactivity-in-vue-3-svelte-5-and-angular-57d)
-- [Top 7 Visual Testing Tools for 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/top-7-visual-testing-tools-for-2025-3b7)
-- [10 Ways Codia AI is Revolutionizing Design Workflows in 2025](https://dev.to/atforeveryoung/10-ways-codia-ai-is-revolutionizing-design-workflows-in-2025-17af)
+- [How CSS-in-JS Works and Why It Matters](https://dev.to/levu74/how-css-in-js-works-and-why-it-matters-2a27)
+- [# Adapter Pattern in Kotlin](https://dev.to/tohemt/-adapter-pattern-in-kotlin-2162)
+- [Day 15/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-15200-full-stack-37c1)
+- [Web Performansını İyileştir: Daha Hızlı Yüklenen Sayfalar](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestir-daha-hizli-yuklenen-sayfalar-910)
 <!-- BLOG-POST-LIST:END -->
 
 
