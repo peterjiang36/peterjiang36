@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Just launched: Laravel SecretSync — an easy way to sync secrets from Infisical into your Laravel apps easily.](https://dev.to/umarjimoh/just-launched-laravel-secretsync-an-easy-way-to-sync-secrets-from-infisical-into-your-laravel-3ccj)
-- [Cómo Recibir SMS Internacionales en España: Guía Práctica 2025](https://dev.to/grizzly_sms/como-recibir-sms-internacionales-en-espana-guia-practica-2025-44pn)
-- [𓅪 Huginn: A Discord Bot for My Valheim Server ~ felt too lazy to click on bash script — so made a bot ;3](https://dev.to/pratyush_soni_853633e1553/huginn-a-discord-bot-for-my-valheim-server-felt-too-lazy-to-click-on-bash-script-so-made-a-42l8)
-- [A Comprehensive Guide to Application Security: Types, Benefits, Tools and Techniques](https://dev.to/wininlife_academy_14d5cee/a-comprehensive-guide-to-application-security-types-benefits-tools-and-techniques-7ja)
+- [🔥 Understanding PDF.js Layers and How to Use them in React.js](https://dev.to/9haroon/understanding-pdfjs-layers-and-how-to-use-them-in-reactjs-586m)
+- [Stop Repeating Modal Logic! Build a Reusable useModal Hook](https://dev.to/sheep_/stop-repeating-modal-logic-build-a-reusable-usemodal-hook-19db)
+- [What is ATL Server?](https://dev.to/e77/what-is-atl-server-1m1k)
+- [𝗙𝗿𝗼𝗺 𝗖𝗼𝗱𝗲 𝘁𝗼 𝗖𝗹𝗼𝘂𝗱 – 𝗛𝗼𝘄 𝗔𝘇𝘂𝗿𝗲 &amp; 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗪𝗼𝗿𝗸 𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿 𝗦𝗲𝗮𝗺𝗹𝗲𝘀𝘀𝗹𝘆](https://dev.to/supraja_tangella_b7f0738e/--4gi5)
 <!-- BLOG-POST-LIST:END -->
 
 
