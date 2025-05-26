@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📞 Integrating Twilio into your project: Part 1 - Creating your account](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-1-creating-your-account-1oof)
-- [What Is a Case Class in Scala and Why Is It Useful?](https://dev.to/puratabla/what-is-a-case-class-in-scala-and-why-is-it-useful-2b3o)
-- [InboxHire – AI-Powered Job Application Tracker Using Emails + Postmark](https://dev.to/shivamkapasia0/inboxhire-ai-powered-job-application-tracker-using-emails-postmark-5cg4)
-- [Shrimp Task Manager Research Mode Is Live: Equipping AI with Real Technical Research Capabilities](https://dev.to/siage/shrimp-task-manager-research-mode-is-live-equipping-ai-with-real-technical-research-capabilities-52ol)
+- [Advancing Research and Technology at Sabaragamuwa University of Sri Lanka](https://dev.to/manu_lk/advancing-research-and-technology-at-sabaragamuwa-university-of-sri-lanka-ac5)
+- [Static Site Generation &lpar;SSG&rpar; vs Server-Side Rendering &lpar;SSR&rpar; in Next.js: A Deep Dive](https://dev.to/giorgiparunov/static-site-generation-ssg-vs-server-side-rendering-ssr-in-nextjs-a-deep-dive-5cd0)
+- [Extreme Makeover: Model Driven App edition](https://dev.to/_neronotte/extreme-makeover-model-driven-app-edition-1727)
+- [Build a Simple Direct Messaging &lpar;DM&rpar; App Using JavaScript](https://dev.to/shifa_2/build-a-simple-direct-messaging-dm-app-using-javascript-2f8n)
 <!-- BLOG-POST-LIST:END -->
 
 
