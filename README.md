@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancing Research and Technology at Sabaragamuwa University of Sri Lanka](https://dev.to/manu_lk/advancing-research-and-technology-at-sabaragamuwa-university-of-sri-lanka-ac5)
-- [Static Site Generation &lpar;SSG&rpar; vs Server-Side Rendering &lpar;SSR&rpar; in Next.js: A Deep Dive](https://dev.to/giorgiparunov/static-site-generation-ssg-vs-server-side-rendering-ssr-in-nextjs-a-deep-dive-5cd0)
-- [Extreme Makeover: Model Driven App edition](https://dev.to/_neronotte/extreme-makeover-model-driven-app-edition-1727)
-- [Build a Simple Direct Messaging &lpar;DM&rpar; App Using JavaScript](https://dev.to/shifa_2/build-a-simple-direct-messaging-dm-app-using-javascript-2f8n)
+- [Void + Ollama + LLMs: How I Turned My Code Editor into a Full-Blown AI Workbench](https://dev.to/nodeshiftcloud/void-ollama-llms-how-i-turned-my-code-editor-into-a-full-blown-ai-workbench-eop)
+- [Using Copilot agent in Visual Studio](https://dev.to/karenpayneoregon/using-copilot-agent-in-visual-studio-16nb)
+- [Social Media Widgets and Privacy](https://dev.to/alvaromontoro/social-media-widgets-and-privacy-3mje)
+- [🚀 Create a Global phpdev Command to Launch Laravel + Vite Simultaneously](https://dev.to/tahsin000/create-a-global-phpdev-command-to-launch-laravel-vite-simultaneously-ibd)
 <!-- BLOG-POST-LIST:END -->
 
 
