@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ML in 2025: Which Platform Wins — SageMaker or Azure ML? ⚔️](https://dev.to/clickit_devops/ml-in-2025-which-platform-wins-sagemaker-or-azure-ml-3g57)
-- [Ever wondered how apps instantly know when an order is placed, a form is submitted, or a payment succeeds? The answer is Webhooks — and how they are different with APIs.](https://dev.to/brains_behind_bots/ever-wondered-how-apps-instantly-know-when-an-order-is-placed-a-form-is-submitted-or-a-payment-229)
-- [Why Every Automation Needs Webhooks — And How to Use Them in n8n](https://dev.to/brains_behind_bots/why-every-automation-needs-webhooks-and-how-to-use-them-in-n8n-440c)
-- [Enchant your terminal application with python: survey, glow, rich, textwrap.](https://dev.to/nakedonthebus/enchant-your-terminal-application-with-python-survey-glow-rich-textwrap-and-more-j62)
+- [📞 Integrating Twilio into your project: Part 1 - Creating your account](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-1-creating-your-account-1oof)
+- [What Is a Case Class in Scala and Why Is It Useful?](https://dev.to/puratabla/what-is-a-case-class-in-scala-and-why-is-it-useful-2b3o)
+- [InboxHire – AI-Powered Job Application Tracker Using Emails + Postmark](https://dev.to/shivamkapasia0/inboxhire-ai-powered-job-application-tracker-using-emails-postmark-5cg4)
+- [Shrimp Task Manager Research Mode Is Live: Equipping AI with Real Technical Research Capabilities](https://dev.to/siage/shrimp-task-manager-research-mode-is-live-equipping-ai-with-real-technical-research-capabilities-52ol)
 <!-- BLOG-POST-LIST:END -->
 
 
