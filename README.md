@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [D3](https://dev.to/gchar/d3-193g)
-- [What Is Data Security? A Practical Guide to Protecting Information in 2025](https://dev.to/syed_aslam_8686be65c69ff8/what-is-data-security-a-practical-guide-to-protecting-information-in-2025-322)
-- [Q4OS: The Lightweight Linux OS You Probably Haven’t Tried &lpar;But Should&rpar;](https://dev.to/sergiocredo49/q4os-the-lightweight-linux-os-you-probably-havent-tried-but-should-2c1g)
-- [🌍 EvoAgentX isn’t just a framework. It’s becoming a community.](https://dev.to/evoagentx/evoagentx-isnt-just-a-framework-its-becoming-a-community-3clg)
+- [Parquet? What Parquet?](https://dev.to/konstantinas_mamonas/parquet-what-parquet-5hfc)
+- [Segurança ao Alugar Vans: Tudo que Você Precisa Saber para Viajar Tranquilo](https://dev.to/eventosway086/seguranca-ao-alugar-vans-tudo-que-voce-precisa-saber-para-viajar-tranquilo-2pgi)
+- [AuraFeed - Real-time AI News Sentiment Analyzer](https://dev.to/bhavna_b_baa952ae51dac930/hackathon-real-time-ai-news-intelligence-dashboard-5epm)
+- [ZOQ Agent: Universal AI-Powered Outreach &amp; Intelligence System 🎯](https://dev.to/tamizhme/zoq-agent-universal-ai-powered-outreach-intelligence-system-4e1c)
 <!-- BLOG-POST-LIST:END -->
 
 
