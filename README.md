@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Understanding PDF.js Layers and How to Use them in React.js](https://dev.to/9haroon/understanding-pdfjs-layers-and-how-to-use-them-in-reactjs-586m)
-- [Stop Repeating Modal Logic! Build a Reusable useModal Hook](https://dev.to/sheep_/stop-repeating-modal-logic-build-a-reusable-usemodal-hook-19db)
-- [What is ATL Server?](https://dev.to/e77/what-is-atl-server-1m1k)
-- [𝗙𝗿𝗼𝗺 𝗖𝗼𝗱𝗲 𝘁𝗼 𝗖𝗹𝗼𝘂𝗱 – 𝗛𝗼𝘄 𝗔𝘇𝘂𝗿𝗲 &amp; 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗪𝗼𝗿𝗸 𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿 𝗦𝗲𝗮𝗺𝗹𝗲𝘀𝘀𝗹𝘆](https://dev.to/supraja_tangella_b7f0738e/--4gi5)
+- [How to Host and Transfer WordPress on Hostman Server](https://dev.to/hostman_com/how-to-host-and-transfer-wordpress-on-hostman-server-1643)
+- [9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡](https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn)
+- [🚀 How I Aced My LLM Interview: Building a RAG Chatbot](https://dev.to/mrzaizai2k/how-i-aced-my-llm-interview-building-a-rag-chatbot-2p6f)
+- [The Singleton Design Pattern](https://dev.to/mspilari/the-singleton-design-pattern-3k5h)
 <!-- BLOG-POST-LIST:END -->
 
 
