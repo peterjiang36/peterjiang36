@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
-- [PinMe: Deploy Your Static Front-End to IPFS + ENS in One Command](https://dev.to/glitterprotocol/pinme-deploy-your-static-front-end-to-ipfs-ens-in-one-command-57c7)
-- [Playlist de Trilhas Cristãs com Instrumentos Acústicos para Inspirar sua Fé](https://dev.to/bateriacordas994/playlist-de-trilhas-cristas-com-instrumentos-acusticos-para-inspirar-sua-fe-56ip)
-- [Entrevista com Luthier Local: Entre Tradição e Novas Ideias](https://dev.to/partituramaster065/entrevista-com-luthier-local-entre-tradicao-e-novas-ideias-2bfe)
+- [Creating Native Desktop Apps with SQLite and GTK](https://dev.to/justaguyfrombr/native-desktop-app-with-sqlite-and-gtk-189p)
+- [Day 10 - Introduction to reactivity in Vue 3, Svelte 5 and Angular](https://dev.to/railsstudent/day-10-introduction-to-reactivity-in-vue-3-svelte-5-and-angular-57d)
+- [Top 7 Visual Testing Tools for 2025](https://dev.to/radha_4c842d8e4362a7cdd9c/top-7-visual-testing-tools-for-2025-3b7)
+- [10 Ways Codia AI is Revolutionizing Design Workflows in 2025](https://dev.to/atforeveryoung/10-ways-codia-ai-is-revolutionizing-design-workflows-in-2025-17af)
 <!-- BLOG-POST-LIST:END -->
 
 
