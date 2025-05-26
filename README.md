@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/espoir/-184e)
-- [** Navigating the Future: Important Generative AI Threat Conformity Training for Businesses **.&lt;br&gt;](https://dev.to/piscesdesert17/-navigating-the-future-important-generative-ai-threat-conformity-training-for-businesses--3422)
-- [Build an API on a Docker image that is less than 20 MB](https://dev.to/rhonalchirinos/build-an-api-on-a-docker-image-that-is-less-than-20-mb-4ngb)
-- [MicroPython for Motion Sensors in Fence Security Systems](https://dev.to/karen_londres/micropython-for-motion-sensors-in-fence-security-systems-1093)
+- [ML in 2025: Which Platform Wins — SageMaker or Azure ML? ⚔️](https://dev.to/clickit_devops/ml-in-2025-which-platform-wins-sagemaker-or-azure-ml-3g57)
+- [Ever wondered how apps instantly know when an order is placed, a form is submitted, or a payment succeeds? The answer is Webhooks — and how they are different with APIs.](https://dev.to/brains_behind_bots/ever-wondered-how-apps-instantly-know-when-an-order-is-placed-a-form-is-submitted-or-a-payment-229)
+- [Why Every Automation Needs Webhooks — And How to Use Them in n8n](https://dev.to/brains_behind_bots/why-every-automation-needs-webhooks-and-how-to-use-them-in-n8n-440c)
+- [Enchant your terminal application with python: survey, glow, rich, textwrap.](https://dev.to/nakedonthebus/enchant-your-terminal-application-with-python-survey-glow-rich-textwrap-and-more-j62)
 <!-- BLOG-POST-LIST:END -->
 
 
