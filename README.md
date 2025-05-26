@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark’s Outlines: Python Data Model](https://dev.to/mike-vincent/quarks-outlines-python-data-model-5373)
-- [Brighter and the Outbox Pattern: At-Least-Once Delivery for Resilient](https://dev.to/actor-dev/outbox-pattern-86l)
-- [Implementando o Padrão Outbox com Brighter: Confiabilidade na Publicação de Eventos](https://dev.to/actor-dev/implementando-o-padrao-outbox-com-brighter-confiabilidade-na-publicacao-de-eventos-2k5j)
-- [Understanding and Mitigating JavaScript Memory Bloat](https://dev.to/omriluz1/understanding-and-mitigating-javascript-memory-bloat-2kn4)
+- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
+- [Part 4: How to Implement a Dialog That Blocks the System Back Key in HarmonyOS?](https://dev.to/xhunmon/part-4-how-to-implement-a-dialog-that-blocks-the-system-back-key-in-harmonyos-1m2o)
+- [Part 3: Step-by-Step Guide to Encapsulating the Navigation Routing Framework in HarmonyOS](https://dev.to/xhunmon/part-3-step-by-step-guide-to-encapsulating-the-navigation-routing-framework-in-harmonyos-35c7)
+- [JSON: How JSON Powers Modern Logistics Systems — With Real-World Use Cases](https://dev.to/rakesh_chaubey_ac4fa25823/json-4dng)
 <!-- BLOG-POST-LIST:END -->
 
 
