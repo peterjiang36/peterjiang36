@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Generative Coding Workflow: How an Old School Coder is Adapting to AI &lpar;Let&#39;s Talk!&rpar;](https://dev.to/gokerdev/my-generative-coding-workflow-how-an-old-school-coder-is-adapting-to-ai-lets-talk-34gg)
-- [Part 4: How to Implement a Dialog That Blocks the System Back Key in HarmonyOS?](https://dev.to/xhunmon/part-4-how-to-implement-a-dialog-that-blocks-the-system-back-key-in-harmonyos-1m2o)
-- [Part 3: Step-by-Step Guide to Encapsulating the Navigation Routing Framework in HarmonyOS](https://dev.to/xhunmon/part-3-step-by-step-guide-to-encapsulating-the-navigation-routing-framework-in-harmonyos-35c7)
-- [JSON: How JSON Powers Modern Logistics Systems — With Real-World Use Cases](https://dev.to/rakesh_chaubey_ac4fa25823/json-4dng)
+- [Getting McFly Working on Ubuntu Server](https://dev.to/nickytonline/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e)
+- [Custom Software vs. Off-the-Shelf](https://dev.to/bridgegroupsolutions/custom-software-vs-off-the-shelf-8m8)
+- [VPN Replacement for Secure Remote Access: A Modern Approach](https://dev.to/lightningdev123/vpn-replacement-for-secure-remote-access-a-modern-approach-1203)
+- [What If DeFi Could Defend Itself? Meet Drosera.](https://dev.to/dhis_is_jj/what-if-defi-could-defend-itself-meet-drosera-2ffa)
 <!-- BLOG-POST-LIST:END -->
 
 
