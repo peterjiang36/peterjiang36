@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I just published my first dev article! While working on a React Native project, I couldn’t find a good guide on setting up push notifications with Expo and Firebase, so I decided to write one myself.](https://dev.to/totoledao/i-just-published-my-first-dev-article-while-working-on-a-react-native-project-i-couldnt-find-a-3438)
-- [The Big Three Cloud Providers Have All Launched AI Copilots for DevOps](https://dev.to/franciscojeg78/the-big-three-cloud-providers-have-all-launched-ai-copilots-for-devops-2554)
-- [Started keeping a video blog about the development process. So that it wouldn&#39;t be boring.](https://dev.to/vladimirm/started-keeping-a-video-blog-about-the-development-process-so-that-it-wouldnt-be-boring-10e8)
-- [I developed a todo GUI using only C and the Win32 API. I&#39;m open to suggestions and contributions.](https://dev.to/efeckc17/i-developed-a-todo-gui-using-only-c-and-the-win32-api-im-open-to-suggestions-and-contributions-1lia)
+- [[Boost]](https://dev.to/farlamo/-1kee)
+- [Introduction to PostgreSQL](https://dev.to/farlamo/introduction-to-postgresql-3cp4)
+- [The Art of Automation in Modern Engineering](https://dev.to/nigel10122/the-art-of-automation-in-modern-engineering-27f8)
+- [Reinventando a Roda: Criando um compilador em csharp - Parte 2](https://dev.to/angelobelchior/reinventando-a-roda-criando-um-compilador-em-csharp-parte-2-2jmi)
 <!-- BLOG-POST-LIST:END -->
 
 
