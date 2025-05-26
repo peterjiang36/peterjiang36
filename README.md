@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Asked DeepSeek to Rank Free WAFs — Here&#39;s What It Said](https://dev.to/sharon_42e16b8da44dabde6d/we-asked-deepseek-to-rank-free-wafs-heres-what-it-said-48ao)
-- [What Would You Build with a Self-Evolving AI Agent like EvoAgentX?](https://dev.to/evoagentx/what-would-you-build-with-a-self-evolving-ai-agent-like-evoagentx-4jcn)
-- [The Ops Apocalypse is Coming! SSL Certificate Validity to be Shortened Again?](https://dev.to/patel1314/the-ops-apocalypse-is-coming-ssl-certificate-validity-to-be-shortened-again-2dgj)
-- [API Documentation for NestJS](https://dev.to/dilumdarshana/api-documentation-for-nestjs-3cnk)
+- [BrightData MCP - Google ADK: Professional Web Scraping Platform](https://dev.to/arjun_prabhulal/brightdata-mcp-google-adk-professional-web-scraping-platform-2f5d)
+- [🧠 Learn CSS Pseudo-classes by Category — With Priorities!](https://dev.to/sejutaimpian/learn-css-pseudo-classes-by-category-with-priorities-1oeh)
+- [Financial Signals Dashboard: AI-Powered Stock Analysis with Bright Data MCP Server &amp; Strands Agents SDK](https://dev.to/aws-builders/financial-signals-dashboard-ai-powered-stock-analysis-with-bright-data-mcp-server-strands-agents-11ed)
+- [CSS Pseudo-classes Cheat Sheet 🔍](https://dev.to/sejutaimpian/css-pseudo-classes-cheat-sheet-1j18)
 <!-- BLOG-POST-LIST:END -->
 
 
