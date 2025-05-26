@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How CSS-in-JS Works and Why It Matters](https://dev.to/levu74/how-css-in-js-works-and-why-it-matters-2a27)
-- [# Adapter Pattern in Kotlin](https://dev.to/tohemt/-adapter-pattern-in-kotlin-2162)
-- [Day 15/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-15200-full-stack-37c1)
-- [Web Performansını İyileştir: Daha Hızlı Yüklenen Sayfalar](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestir-daha-hizli-yuklenen-sayfalar-910)
+- [A beginner&#39;s guide to the Cosyvoice model by Jichengdu on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-cosyvoice-model-by-jichengdu-on-replicate-ci0)
+- [My AI Agent Learning Kickoff : Day 0](https://dev.to/distalx/my-ai-agent-learning-kickoff-day-0-1a2i)
+- [We Couldn’t Find Free Business APIs to Prototype With — So We Built Them](https://dev.to/lonti-davidb/we-couldnt-find-free-business-apis-to-prototype-with-so-we-built-them-13e8)
+- [LibTracker VS Code Extension: Streamline Your Dependency Management](https://dev.to/windmillcode/libtracker-vs-code-extension-streamline-your-dependency-management-16mc)
 <!-- BLOG-POST-LIST:END -->
 
 
