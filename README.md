@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Host and Transfer WordPress on Hostman Server](https://dev.to/hostman_com/how-to-host-and-transfer-wordpress-on-hostman-server-1643)
-- [9 Modern Developer Tools to Improve Your Coding Workflow 👨‍💻⚡](https://dev.to/madza/9-modern-developer-tools-to-improve-your-coding-workflow-1onn)
-- [🚀 How I Aced My LLM Interview: Building a RAG Chatbot](https://dev.to/mrzaizai2k/how-i-aced-my-llm-interview-building-a-rag-chatbot-2p6f)
-- [The Singleton Design Pattern](https://dev.to/mspilari/the-singleton-design-pattern-3k5h)
+- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
+- [🚀🚀](https://dev.to/borba/-4g0e)
+- [Beyond the Listing: How Exchanges Support Tokens Post-Launch](https://dev.to/philip_crypto92/beyond-the-listing-how-exchanges-support-tokens-post-launch-ep0)
+- [A Guide to Debugging Memory Leaks in SSR Environments part 2](https://dev.to/feconf/aguidetodebuggingmemoryleaksinssrenvironmentspart2-32ia)
 <!-- BLOG-POST-LIST:END -->
 
 
