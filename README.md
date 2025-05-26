@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Got an app idea? Build your MVP in 30 days without burning your budget.](https://dev.to/beitroot/got-an-app-idea-build-your-mvp-in-30-days-without-burning-your-budget-596j)
-- [🚀🚀](https://dev.to/borba/-4g0e)
-- [Beyond the Listing: How Exchanges Support Tokens Post-Launch](https://dev.to/philip_crypto92/beyond-the-listing-how-exchanges-support-tokens-post-launch-ep0)
-- [A Guide to Debugging Memory Leaks in SSR Environments part 2](https://dev.to/feconf/aguidetodebuggingmemoryleaksinssrenvironmentspart2-32ia)
+- [[Boost]](https://dev.to/espoir/-184e)
+- [** Navigating the Future: Important Generative AI Threat Conformity Training for Businesses **.&lt;br&gt;](https://dev.to/piscesdesert17/-navigating-the-future-important-generative-ai-threat-conformity-training-for-businesses--3422)
+- [Build an API on a Docker image that is less than 20 MB](https://dev.to/rhonalchirinos/build-an-api-on-a-docker-image-that-is-less-than-20-mb-4ngb)
+- [MicroPython for Motion Sensors in Fence Security Systems](https://dev.to/karen_londres/micropython-for-motion-sensors-in-fence-security-systems-1093)
 <!-- BLOG-POST-LIST:END -->
 
 
