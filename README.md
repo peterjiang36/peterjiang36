@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Four Lessons &lpar;and a Challenge&rpar; for a Coder Struggling to Write](https://dev.to/canro91/four-lessons-and-a-challenge-for-a-coder-struggling-to-write-2c91)
-- [🚀 What Are Progressive Web Apps &lpar;PWAs&rpar;? A Complete Guide for Modern Web Devs](https://dev.to/hasunnilupul/what-are-progressive-web-apps-pwas-a-complete-guide-for-modern-web-devs-4191)
-- [Stay ahead in web development: latest news, tools, and insights #86](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-86-25cd)
-- [LocalStack: Simulating AWS Locally for Faster Development and Testing](https://dev.to/navedrizv/localstack-simulating-aws-locally-for-faster-development-and-testing-45n9)
+- [D3](https://dev.to/gchar/d3-193g)
+- [What Is Data Security? A Practical Guide to Protecting Information in 2025](https://dev.to/syed_aslam_8686be65c69ff8/what-is-data-security-a-practical-guide-to-protecting-information-in-2025-322)
+- [Q4OS: The Lightweight Linux OS You Probably Haven’t Tried &lpar;But Should&rpar;](https://dev.to/sergiocredo49/q4os-the-lightweight-linux-os-you-probably-havent-tried-but-should-2c1g)
+- [🌍 EvoAgentX isn’t just a framework. It’s becoming a community.](https://dev.to/evoagentx/evoagentx-isnt-just-a-framework-its-becoming-a-community-3clg)
 <!-- BLOG-POST-LIST:END -->
 
 
