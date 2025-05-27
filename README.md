@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Pointers Demystified: Box, Rc, and RefCell](https://dev.to/chakewitz/smart-pointers-demystified-box-rc-and-refcell-47ck)
-- [checkout out my latest post :D](https://dev.to/syakirurahman/checkout-out-my-latest-post-d-4ekj)
-- [I Built My 1st AI SaaS, It&#39;s Not as Hard as You Think](https://dev.to/syakirurahman/i-built-my-1st-ai-saas-its-not-as-hard-as-you-think-54id)
-- [Why Agile Teams Overcommit and How to Fix It](https://dev.to/rally_for_jira/why-agile-teams-overcommit-and-how-to-fix-it-45j7)
+- [Why is a Project Execution Plan important?](https://dev.to/writegenic/why-is-a-project-execution-plan-important-440e)
+- [AI Editor Assistant](https://dev.to/ungame_productor_b57a6a06/ai-editor-assistant-4g82)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-30p7)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-19ll)
 <!-- BLOG-POST-LIST:END -->
 
 
