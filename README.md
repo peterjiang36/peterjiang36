@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [More Lessons Learned with AI + Vibe Coding](https://dev.to/thutch1976/more-lessons-learned-with-ai-vibe-coding-6j7)
-- [All What You Need To Enhance Optimization in Laravel Apps](https://dev.to/oussamabouyahia/all-what-you-need-to-enhance-optimization-in-laravel-apps-1kic)
-- [This sets the tone for how to lead with clarity and care, even when things are uncomfortable.](https://dev.to/richards_l52689/this-sets-the-tone-for-how-to-lead-with-clarity-and-care-even-when-things-are-uncomfortable-2led)
-- [🗺️ MapScout Developer Guide: Mastering Real-Time Location Data Fetching](https://dev.to/fonyuygita/mapscout-developer-guide-mastering-real-time-location-data-fetching-25jl)
+- [📲 Integrating Twilio into your project: Part 2 - Setting up the Sandbox and Handling Webhooks](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-2-setting-up-the-sandbox-and-handling-webhooks-j02)
+- [Architecture: Document architecture in a way that everyone understands](https://dev.to/nikita_rykhlov/architecture-document-architecture-in-a-way-that-everyone-understands-16dp)
+- [Real-Time Data Without WebSocket Overhead](https://dev.to/lovestaco/real-time-data-without-websocket-overhead-3h5j)
+- [The Cleanest Way to Add Optional Properties in JavaScript](https://dev.to/tlorent/the-cleanest-way-to-add-optional-properties-in-javascript-45ol)
 <!-- BLOG-POST-LIST:END -->
 
 
