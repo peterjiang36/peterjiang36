@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Idempotency in HTTP Verbs: A Developer’s Guide with Node.js Examples 🚀](https://dev.to/abhivyaktii/understanding-idempotency-in-http-verbs-a-developers-guide-with-nodejs-examples-6ad)
-- [5 Rapid Website Deployment Methods: A Developer&#39;s Efficiency Guide](https://dev.to/mpoiiii/5-rapid-website-deployment-methods-a-developers-efficiency-guide-417i)
-- [🏢 Azure Regions &amp; Zones](https://dev.to/akash029/azure-regions-zones-1gld)
-- [🖥️ Azure Virtual machines](https://dev.to/akash029/azure-virtual-machines-14f5)
+- [Smart Pointers Demystified: Box, Rc, and RefCell](https://dev.to/chakewitz/smart-pointers-demystified-box-rc-and-refcell-47ck)
+- [checkout out my latest post :D](https://dev.to/syakirurahman/checkout-out-my-latest-post-d-4ekj)
+- [I Built My 1st AI SaaS, It&#39;s Not as Hard as You Think](https://dev.to/syakirurahman/i-built-my-1st-ai-saas-its-not-as-hard-as-you-think-54id)
+- [Why Agile Teams Overcommit and How to Fix It](https://dev.to/rally_for_jira/why-agile-teams-overcommit-and-how-to-fix-it-45j7)
 <!-- BLOG-POST-LIST:END -->
 
 
