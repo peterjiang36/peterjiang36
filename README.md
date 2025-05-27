@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3g3f)
-- [Structured Story Points: Estimating Engineering Work with Clarity](https://dev.to/mike_germain_6417e7ecb556/structured-story-points-estimating-engineering-work-with-clarity-1c6o)
-- [Platform Engineering vs Site reliability Engineering &lpar;SRE&rpar;](https://dev.to/sameerimtiaz/platform-engineering-vs-site-reliability-engineering-sre-1g1g)
-- [MCQs and 1-mark questions with their WBUT levels for Computer Networks](https://dev.to/aniruddhaadak_/mcqs-and-1-mark-questions-with-their-wbut-levels-for-computer-networks-cnp)
+- [.NET 10 Features You Should Be Using Now](https://dev.to/nikhilworkflow/net-10-features-you-should-be-using-now-5jd)
+- [Amazon Aurora DSQL is GA](https://dev.to/vijaykodam/amazon-aurora-dsql-is-ga-4bp8)
+- [⚙️ DevOps — Explained Like You’re 5 &lpar;But Smarter&rpar;](https://dev.to/itsaryanchauhan/devops-explained-like-youre-5-but-smarter-2c63)
+- [O Poder do SOLID: Desmistificando e construindo componentes com React e Typescript](https://dev.to/marcusmaialima/o-poder-do-solid-desmistificando-e-construindo-componentes-com-react-e-typescript-3m0m)
 <!-- BLOG-POST-LIST:END -->
 
 
