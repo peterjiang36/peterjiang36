@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Personalization: The Future of Customer Experience &lpar;CX&rpar;](https://dev.to/lollypopdesign/ai-personalization-the-future-of-customer-experience-cx-59l5)
-- [Advanced Bash Techniques I Wish I&#39;d Known Earlier](https://dev.to/heinanca/advanced-bash-techniques-i-wish-id-known-earlier-aai)
-- [Guide to Capacitors: Symbol and Function](https://dev.to/candice88771483/guide-to-capacitors-symbol-and-function-3cj8)
-- [Exploring the Future of Wearables: Smart Earpieces, AR Lenses, and AI](https://dev.to/harshdeep_saiyam_06ee12e5/exploring-the-future-of-wearables-smart-earpieces-ar-lenses-and-ai-3c74)
+- [9 Development Tools Every Developer Should Watch in 2025](https://dev.to/platypus98/9-development-tools-every-developer-should-watch-in-2025-199)
+- [The Smart Way to Host a Minecraft Server: Port Forwarding Essentials](https://dev.to/lightningdev123/the-smart-way-to-host-a-minecraft-server-port-forwarding-essentials-2424)
+- [Programming is the Definition of ADHD](https://dev.to/bicibg/programming-is-the-definition-of-adhd-39f7)
+- [Maximizing Your GenAI App Builder Credit with Vertex AI and Roo Code](https://dev.to/kafechew/maximizing-your-genai-app-builder-credit-with-vertex-ai-and-roo-code-1igj)
 <!-- BLOG-POST-LIST:END -->
 
 
