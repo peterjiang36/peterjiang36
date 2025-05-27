@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Getting Started with TypeScript in Deno](https://dev.to/vladg3105123/getting-started-with-typescript-in-deno-gkk)
-- [# Why I Was Inspired by Cloud Native and DevOps](https://dev.to/latchudevops/-why-i-was-inspired-by-cloud-native-and-devops-1mcc)
-- [HarmonyOS 5 Cangjie Macro Programming Basics: From Procedural Macros to Template Macros](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-cangjie-macro-programming-basics-from-procedural-macros-to-template-macros-368b)
-- [HarmonyOS 5 Cangjie Language Anti-Reverse Engineering Practice: Obfuscation Techniques and Security Hardening](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-cangjie-language-anti-reverse-engineering-practice-obfuscation-techniques-and-security-35d9)
+- [How to Build a Simple ChatGPT Clone with OpenAI API.](https://dev.to/elsayed_zewayed_91621702f/how-to-build-a-simple-chatgpt-clone-with-openai-api-k80)
+- [Top Frontend Frameworks: Top 7 Techs for 2025](https://dev.to/seo_expert_d83eed02844e19/top-frontend-frameworks-trending-tech-for-2025-1ao8)
+- [Do You Really Know Where Your API Keys End Up? A Security Guide for Fintech Developers](https://dev.to/umavictor6/do-you-really-know-where-your-api-keys-end-up-a-security-guide-for-fintech-developers-52nb)
+- [Everyone now can create profitable business with AI](https://dev.to/martintonev/everyone-now-can-create-profitable-business-with-ai-3hl)
 <!-- BLOG-POST-LIST:END -->
 
 
