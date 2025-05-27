@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Struct Layout and Padding in Practice](https://dev.to/buarki/optimizing-struct-layout-and-padding-in-practice-23p1)
-- [Hostel Stress](https://dev.to/techpepson/hostel-stress-12m7)
-- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
-- [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
+- [I had a lot of fun over the long weekend putting this together! I think it can be a valuable tool for teachers, freelancers, and anyone who routinely receives email attachments they could better manage from their Google Drive.](https://dev.to/mrmemory/i-had-a-lot-of-fun-over-the-long-weekend-putting-this-together-i-think-it-can-be-a-valuable-tool-1nh9)
+- [What Is a Reverse Proxy? A Developer-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-reverse-proxy-a-developer-friendly-guide-o4p)
+- [Mengenal Tipe SSH Key dan Cara Membuatnya](https://dev.to/naandan/mengenal-tipe-ssh-key-dan-cara-membuatnya-47ek)
+- [Common Solutions for Cross-Page Data Transmission in HarmonyOS-NEXT](https://dev.to/shaodong_xu/common-solutions-for-cross-page-data-transmission-in-harmonyos-next-5b1j)
 <!-- BLOG-POST-LIST:END -->
 
 
