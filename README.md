@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TDD Your Way to Bulletproof Integrations](https://dev.to/roshanraj/tdd-your-way-to-bulletproof-integrations-3m6l)
-- [6 CSS animation libraries to bring your project to life in 2025](https://dev.to/logrocket/6-css-animation-libraries-to-bring-your-project-to-life-in-2025-b4b)
-- [AG-UI: Standardizing AI-Human Collaboration in Applications](https://dev.to/swayam_dc1eefb8839da110de/ag-ui-standardizing-ai-human-collaboration-in-applications-53bg)
-- [Natural Processing Language](https://dev.to/datatoinfinity/natural-processing-language-367b)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-3g3f)
+- [Structured Story Points: Estimating Engineering Work with Clarity](https://dev.to/mike_germain_6417e7ecb556/structured-story-points-estimating-engineering-work-with-clarity-1c6o)
+- [Platform Engineering vs Site reliability Engineering &lpar;SRE&rpar;](https://dev.to/sameerimtiaz/platform-engineering-vs-site-reliability-engineering-sre-1g1g)
+- [MCQs and 1-mark questions with their WBUT levels for Computer Networks](https://dev.to/aniruddhaadak_/mcqs-and-1-mark-questions-with-their-wbut-levels-for-computer-networks-cnp)
 <!-- BLOG-POST-LIST:END -->
 
 
