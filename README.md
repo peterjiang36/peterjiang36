@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quadratic AI now supports formatting](https://dev.to/quadraticai/quadratic-ai-now-supports-formatting-k8p)
-- [Bob McGrew: AI Agents And The Path To AGI](https://dev.to/jetthoughts/bob-mcgrew-ai-agents-and-the-path-to-agi-2ggj)
-- [🛠️ The Debugging Journey: Frontend Techniques That Saved My Sanity](https://dev.to/er-raj-aryan/the-debugging-journey-frontend-techniques-that-saved-my-sanity-5083)
-- [Why Natural Winter Wreaths Are Trending This Year?](https://dev.to/minnesotawreaths/why-natural-winter-wreaths-are-trending-this-year-g38)
+- [TDD Your Way to Bulletproof Integrations](https://dev.to/roshanraj/tdd-your-way-to-bulletproof-integrations-3m6l)
+- [6 CSS animation libraries to bring your project to life in 2025](https://dev.to/logrocket/6-css-animation-libraries-to-bring-your-project-to-life-in-2025-b4b)
+- [AG-UI: Standardizing AI-Human Collaboration in Applications](https://dev.to/swayam_dc1eefb8839da110de/ag-ui-standardizing-ai-human-collaboration-in-applications-53bg)
+- [Natural Processing Language](https://dev.to/datatoinfinity/natural-processing-language-367b)
 <!-- BLOG-POST-LIST:END -->
 
 
