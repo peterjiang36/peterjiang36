@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📲 Integrating Twilio into your project: Part 2 - Setting up the Sandbox and Handling Webhooks](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-2-setting-up-the-sandbox-and-handling-webhooks-j02)
-- [Architecture: Document architecture in a way that everyone understands](https://dev.to/nikita_rykhlov/architecture-document-architecture-in-a-way-that-everyone-understands-16dp)
-- [Real-Time Data Without WebSocket Overhead](https://dev.to/lovestaco/real-time-data-without-websocket-overhead-3h5j)
-- [The Cleanest Way to Add Optional Properties in JavaScript](https://dev.to/tlorent/the-cleanest-way-to-add-optional-properties-in-javascript-45ol)
+- [Quadratic AI now supports formatting](https://dev.to/quadraticai/quadratic-ai-now-supports-formatting-k8p)
+- [Bob McGrew: AI Agents And The Path To AGI](https://dev.to/jetthoughts/bob-mcgrew-ai-agents-and-the-path-to-agi-2ggj)
+- [🛠️ The Debugging Journey: Frontend Techniques That Saved My Sanity](https://dev.to/er-raj-aryan/the-debugging-journey-frontend-techniques-that-saved-my-sanity-5083)
+- [Why Natural Winter Wreaths Are Trending This Year?](https://dev.to/minnesotawreaths/why-natural-winter-wreaths-are-trending-this-year-g38)
 <!-- BLOG-POST-LIST:END -->
 
 
