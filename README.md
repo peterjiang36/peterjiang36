@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Development Tools Every Developer Should Watch in 2025](https://dev.to/platypus98/9-development-tools-every-developer-should-watch-in-2025-199)
-- [The Smart Way to Host a Minecraft Server: Port Forwarding Essentials](https://dev.to/lightningdev123/the-smart-way-to-host-a-minecraft-server-port-forwarding-essentials-2424)
-- [Programming is the Definition of ADHD](https://dev.to/bicibg/programming-is-the-definition-of-adhd-39f7)
-- [Maximizing Your GenAI App Builder Credit with Vertex AI and Roo Code](https://dev.to/kafechew/maximizing-your-genai-app-builder-credit-with-vertex-ai-and-roo-code-1igj)
+- [🚀 Getting Started with TypeScript in Deno](https://dev.to/vladg3105123/getting-started-with-typescript-in-deno-gkk)
+- [# Why I Was Inspired by Cloud Native and DevOps](https://dev.to/latchudevops/-why-i-was-inspired-by-cloud-native-and-devops-1mcc)
+- [HarmonyOS 5 Cangjie Macro Programming Basics: From Procedural Macros to Template Macros](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-cangjie-macro-programming-basics-from-procedural-macros-to-template-macros-368b)
+- [HarmonyOS 5 Cangjie Language Anti-Reverse Engineering Practice: Obfuscation Techniques and Security Hardening](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-cangjie-language-anti-reverse-engineering-practice-obfuscation-techniques-and-security-35d9)
 <!-- BLOG-POST-LIST:END -->
 
 
