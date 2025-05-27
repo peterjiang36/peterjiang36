@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Library Vs Framework](https://dev.to/sudhakar_v_c404997aeec839/library-vs-framework-mib)
-- [What is home healthcare scheduling software? &lpar;Simple But Powerful&rpar;](https://dev.to/agmaitech/what-is-home-healthcare-scheduling-software-simple-but-powerful-3hmp)
-- [[How to Build an AITuber] How to Fetch Viewer Comments from YouTube and Twitch](https://dev.to/shinshin86/how-to-build-an-aituber-how-to-fetch-viewer-comments-from-youtube-and-twitch-1p6a)
-- [Validating VAT numbers in Laravel - Package In Review: burtds/laravel-vatnumber-checker](https://dev.to/burtds/validating-vat-numbers-in-laravel-package-in-review-burtdslaravel-vatnumber-checker-f55)
+- [AI Personalization: The Future of Customer Experience &lpar;CX&rpar;](https://dev.to/lollypopdesign/ai-personalization-the-future-of-customer-experience-cx-59l5)
+- [Advanced Bash Techniques I Wish I&#39;d Known Earlier](https://dev.to/heinanca/advanced-bash-techniques-i-wish-id-known-earlier-aai)
+- [Guide to Capacitors: Symbol and Function](https://dev.to/candice88771483/guide-to-capacitors-symbol-and-function-3cj8)
+- [Exploring the Future of Wearables: Smart Earpieces, AR Lenses, and AI](https://dev.to/harshdeep_saiyam_06ee12e5/exploring-the-future-of-wearables-smart-earpieces-ar-lenses-and-ai-3c74)
 <!-- BLOG-POST-LIST:END -->
 
 
