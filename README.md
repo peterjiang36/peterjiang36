@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is a Project Execution Plan important?](https://dev.to/writegenic/why-is-a-project-execution-plan-important-440e)
-- [AI Editor Assistant](https://dev.to/ungame_productor_b57a6a06/ai-editor-assistant-4g82)
-- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-30p7)
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-19ll)
+- [Semantic Code Search](https://dev.to/kyle_eaton_268b8b0d67b221/semantic-code-search-f4)
+- [How Does Claude Sonnet 4 Work?](https://dev.to/_37bbf0c253c0b3edec531e/how-does-claude-sonnet-4-work-1n1m)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-34ab)
+- [What Australians Need to Know About the PGPA Act](https://dev.to/corbado/what-australians-need-to-know-about-the-pgpa-act-3i8j)
 <!-- BLOG-POST-LIST:END -->
 
 
