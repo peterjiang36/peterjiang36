@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Code Search](https://dev.to/kyle_eaton_268b8b0d67b221/semantic-code-search-f4)
-- [How Does Claude Sonnet 4 Work?](https://dev.to/_37bbf0c253c0b3edec531e/how-does-claude-sonnet-4-work-1n1m)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-34ab)
-- [What Australians Need to Know About the PGPA Act](https://dev.to/corbado/what-australians-need-to-know-about-the-pgpa-act-3i8j)
+- [More Lessons Learned with AI + Vibe Coding](https://dev.to/thutch1976/more-lessons-learned-with-ai-vibe-coding-6j7)
+- [All What You Need To Enhance Optimization in Laravel Apps](https://dev.to/oussamabouyahia/all-what-you-need-to-enhance-optimization-in-laravel-apps-1kic)
+- [This sets the tone for how to lead with clarity and care, even when things are uncomfortable.](https://dev.to/richards_l52689/this-sets-the-tone-for-how-to-lead-with-clarity-and-care-even-when-things-are-uncomfortable-2led)
+- [🗺️ MapScout Developer Guide: Mastering Real-Time Location Data Fetching](https://dev.to/fonyuygita/mapscout-developer-guide-mastering-real-time-location-data-fetching-25jl)
 <!-- BLOG-POST-LIST:END -->
 
 
