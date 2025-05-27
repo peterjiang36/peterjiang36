@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I had a lot of fun over the long weekend putting this together! I think it can be a valuable tool for teachers, freelancers, and anyone who routinely receives email attachments they could better manage from their Google Drive.](https://dev.to/mrmemory/i-had-a-lot-of-fun-over-the-long-weekend-putting-this-together-i-think-it-can-be-a-valuable-tool-1nh9)
-- [What Is a Reverse Proxy? A Developer-Friendly Guide](https://dev.to/sharon_42e16b8da44dabde6d/what-is-a-reverse-proxy-a-developer-friendly-guide-o4p)
-- [Mengenal Tipe SSH Key dan Cara Membuatnya](https://dev.to/naandan/mengenal-tipe-ssh-key-dan-cara-membuatnya-47ek)
-- [Common Solutions for Cross-Page Data Transmission in HarmonyOS-NEXT](https://dev.to/shaodong_xu/common-solutions-for-cross-page-data-transmission-in-harmonyos-next-5b1j)
+- [Implementing FastAPI from Scratch Using Only Pure Python](https://dev.to/leapcell/implementing-fastapi-from-scratch-using-only-pure-python-ni)
+- [CozyCommerce: A FullStack self-hosted eCommerce Solution](https://dev.to/vinishbhaskar/cozycommerce-fullstack-ecommerce-solution-4l10)
+- [📜The Evolution of Artificial Intelligence: From Ancient Dreams to Modern Reality](https://dev.to/furqanahmadrao/the-evolution-of-artificial-intelligence-from-ancient-dreams-to-modern-reality-26b8)
+- [Spring Annotations vs Node.js Decorators: A Cross-Stack Developer’s Guide](https://dev.to/haraf/spring-annotations-vs-nodejs-decorators-a-cross-stack-developers-guide-4n4b)
 <!-- BLOG-POST-LIST:END -->
 
 
