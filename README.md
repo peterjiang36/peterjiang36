@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠 Maven vs Gradle vs Apache Ant — Which Java Build Tool Should You Use?](https://dev.to/matin676/maven-vs-gradle-vs-apache-ant-which-java-build-tool-should-you-use-4phl)
-- [Magnetic Glow Cards](https://dev.to/preetha_vaishnavi_2b82358/magnetic-glow-cards-4a4l)
-- [Learning Amazon EventBridge - Notes by Archies Gurav](https://dev.to/rcheeez/learning-amazon-eventbridge-notes-by-archies-gurav-1cpp)
-- [Debugging Docker? You’re Probably Missing This Hidden Gem](https://dev.to/noushad_hasan_4be85cd12d6/debugging-docker-youre-probably-missing-this-hidden-gem-17e)
+- [useCallback in React: Memoizing Functions to Prevent Re-Creation](https://dev.to/devshefali/usecallback-in-react-memoizing-functions-to-prevent-re-creation-38bc)
+- [ChatGPT-4 vs Gemini 2.5: Which AI Powerhouse Will Rule 2025?](https://dev.to/jane_watson_c27fd17f03341/chatgpt-4-vs-gemini-25-which-ai-powerhouse-will-rule-2025-2bmf)
+- [Google Stitch System Prompt Leaked- Analysis and Insights](https://dev.to/yang_ella_f2a3e16ccb54550/google-stitch-system-prompt-leaked-analysis-and-insights-23dp)
+- [My Introduction To this New Tech World](https://dev.to/pawan_malakar_7f/my-introduction-to-this-new-tech-world-3j4f)
 <!-- BLOG-POST-LIST:END -->
 
 
