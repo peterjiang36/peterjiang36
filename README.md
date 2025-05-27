@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Struct Layout and Padding in Practice](https://dev.to/buarki/optimizing-struct-layout-and-padding-in-practice-23p1)
 - [Hostel Stress](https://dev.to/techpepson/hostel-stress-12m7)
 - [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-44ko)
 - [Day 16/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-16200-full-stack-395i)
-- [🚀 Revolutionizing Precision The Power of Hysteresis Technology in Modern Motor Testing Systems 🌟](https://dev.to/musclespot02/revolutionizing-precision-the-power-of-hysteresis-technology-in-modern-motor-testing-systems-52k0)
 <!-- BLOG-POST-LIST:END -->
 
 
