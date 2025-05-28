@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 You Asked, We Delivered: The Code to Image Generator App Just Leveled Up](https://dev.to/myogeshchavan97/you-asked-we-delivered-the-code-to-image-generator-app-just-leveled-up-5hm0)
-- [How Google I/O 2025 Put AI at the Center of Everything https://www.googlereseller.com/how-google-i-o-2025-put-ai-at-the-center-of-everything/](https://dev.to/nicknemeth/how-google-io-2025-put-ai-at-the-center-of-everything-561p)
-- [10 Months as a Software Engineer](https://dev.to/rasheedmozaffar/10-months-as-a-software-engineer-45me)
-- [Effective Troubleshooting - A Comprehensive Guide](https://dev.to/ten/effective-troubleshooting-a-comprehensive-guide-4l8k)
+- [How to Load Data From MySQL to Iceberg in Real Time](https://dev.to/bladepipe/how-to-load-data-from-mysql-to-iceberg-in-real-time-2f)
+- [Day 1:“Starting My Java Full stack Journey: Building the Login Page with HTML and CSS”](https://dev.to/sathish_226_1ac7d93d9970c/day-1starting-my-java-full-stack-journey-building-the-login-page-with-html-and-css-am0)
+- [Automate SSL Renewal for SafeLine WAF with DNS-01 Challenge](https://dev.to/sharon_42e16b8da44dabde6d/automate-ssl-renewal-for-safeline-waf-with-dns-01-challenge-1b6n)
+- [Building a Distributed Voting App with Docker: A Hands-On Guide](https://dev.to/hritikraj8804/building-a-distributed-voting-app-with-docker-a-hands-on-guide-3l9m)
 <!-- BLOG-POST-LIST:END -->
 
 
