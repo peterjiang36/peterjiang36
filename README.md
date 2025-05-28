@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Git Tags for Reliable Versioning and Releases](https://dev.to/hostman_com/how-to-use-git-tags-for-reliable-versioning-and-releases-546b)
-- [Advanced Techniques in JavaScript Debugging with Node Inspector](https://dev.to/omriluz1/advanced-techniques-in-javascript-debugging-with-node-inspector-16pj)
-- [From Kubernetes to Career Advice: A Day of Grafana, Gyan, and Giggles at Microsoft Noida](https://dev.to/mrshelby0/from-kubernetes-to-career-advice-a-day-of-grafana-gyan-and-giggles-at-microsoft-noida-365b)
-- [How TypeScript Saved My Sanity &lpar;And Helped Me Ship Faster Than Ever&rpar;](https://dev.to/instaclipai/how-typescript-saved-my-sanity-and-helped-me-ship-faster-than-ever-2m42)
+- [Securing ASP.NET Core APIs with OAuth2 and OpenID Connect &lpar;2025 Edition&rpar;](https://dev.to/nikhilwagh/securing-aspnet-core-apis-with-oauth2-and-openid-connect-2025-edition-4j1c)
+- [🔥 From O&lpar;n&rpar; to O&lpar;1&rpar;: Smarter Game State for Smarter Code](https://dev.to/taratimmerman/from-on-to-o1-smarter-game-state-for-smarter-code-1fho)
+- [How FundGuard Drastically Improved Our CI with Modest Effort](https://dev.to/fundguard/how-fundguard-drastically-improved-our-ci-with-modest-effort-17jg)
+- [Motivation](https://dev.to/aniruddhaadak_/motivation-2o44)
 <!-- BLOG-POST-LIST:END -->
 
 
