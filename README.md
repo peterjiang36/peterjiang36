@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This linear-time triangle-finding algorithm will imply subquadratic solutions for many 3SUM-hard problems, as triangle detection is 3SUM-hard and reductions preserve time complexity under plausible conjectures.](https://dev.to/frank_vega_987689489099bf/this-linear-time-triangle-finding-algorithm-will-imply-subquadratic-solutions-for-many-3sum-hard-2d72)
-- [Sell Yourself as a Developer: Creating a Personal Brand That Stands Out](https://dev.to/grantwatsondev/sell-yourself-as-a-developer-creating-a-personal-brand-that-stands-out-mmf)
-- [Artificial General Intelligence: 6 Definitions, 6 Perspectives, 6 Predictions](https://dev.to/boris_burakovski_c7420552/artificial-general-intelligence-6-definitions-6-perspectives-6-predictions-1731)
-- [AI Marketing: Revolutionizing the Digital Landscape with Artificial Intelligence](https://dev.to/marketmediama_team/ai-marketing-revolutionizing-the-digital-landscape-with-artificial-intelligence-4agg)
+- [Announcing Azure Command Launcher for Java](https://dev.to/azure/announcing-azure-command-launcher-for-java-jo3)
+- [The Rise of Multi-Agent Systems: What They Are and Why They Matter](https://dev.to/excellus/the-rise-of-multi-agent-systems-what-they-are-and-why-they-matter-e6i)
+- [Redis vs. HPKV: 100M keys over network](https://dev.to/mehrant/redis-vs-hpkv-100m-keys-over-network-11aa)
+- [Data De-identification for LLMs: Protecting Privacy While Preserving Meaning](https://dev.to/nicobistolfi/data-de-identification-for-llms-protecting-privacy-while-preserving-meaning-o52)
 <!-- BLOG-POST-LIST:END -->
 
 
