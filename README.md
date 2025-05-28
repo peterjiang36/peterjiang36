@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙运动开发实战：打造 Keep 式轨迹播放效果](https://dev.to/smartbackme/hong-meng-yun-dong-kai-fa-shi-zhan-da-zao-keep-shi-gui-ji-bo-fang-xiao-guo-50dh)
-- [Harmonyos Cangjie Language Development Tutorial: The Lifecycle of Pages and Components](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-tutorial-the-lifecycle-of-pages-and-components-2eh2)
-- [Model Context Protocol &lpar;MCP&rpar;: An Open Standard for Connecting LLMs to Business Context](https://dev.to/imaginex/model-context-protocol-mcp-an-open-standard-for-connecting-llms-to-business-context-419m)
-- [Hands-on Development of Smart Connected Car Applications Based on HarmonyOS Next](https://dev.to/linzhongxue/hands-on-development-of-smart-connected-car-applications-based-on-harmonyos-next-3jd9)
+- [Handling X -&gt; Y -&gt; X Relationships in Rails](https://dev.to/mdchaney/handling-x-y-x-relationships-in-rails-16k0)
+- [Your PostgreSQL Command Cheat Sheet &lpar;But Way More Useful!&rpar;](https://dev.to/jing_li/your-postgresql-command-cheat-sheet-but-way-more-useful-20o7)
+- [Try DeepWiki MCP Server with MCP Clients](https://dev.to/0xkoji/try-deepwiki-mcp-server-with-mcp-clients-390c)
+- [Ensuring Data Consistency Across Microservices: Herding Cats with Saga &amp; Transactional Outbox](https://dev.to/haydencordeiro/ensuring-data-consistency-across-microservices-herding-cats-with-saga-outbox-3mhe)
 <!-- BLOG-POST-LIST:END -->
 
 
