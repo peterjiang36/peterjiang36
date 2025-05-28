@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 Integrating Twilio into your project: Part 3 - Handling Webhooks and Sending Messages with Laravel and Express](https://dev.to/nicolasmontielf/integrating-twilio-into-your-project-part-3-handling-webhooks-and-sending-messages-with-242l)
-- [Article Outline: Data Visualization with Python — Make Interactive Dashboards with Plotly &amp; Dash!!](https://dev.to/nish2005karsh/article-outline-data-visualization-with-python-make-interactive-dashboards-with-plotly-dash-1f07)
-- [Assorted Slush Cells](https://dev.to/preetha_vaishnavi_2b82358/assorted-slush-cells-3g9c)
-- [Learning JavaScript: Local Variables and the DOM](https://dev.to/rajeshwari_rajeshwari_bb6/learning-javascript-local-variables-and-the-dom-1im5)
+- [A judge forced &#39;Fortnite&#39; to return to iOS, with an assist from Microsoft and Spotify](https://dev.to/gg_news/a-judge-forced-fortnite-to-return-to-ios-with-an-assist-from-microsoft-and-spotify-1oo)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-28j3)
+- [Indiana Jones and Wolfenstein developer MachineGames has cancelled an unannounced project](https://dev.to/gg_news/indiana-jones-and-wolfenstein-developer-machinegames-has-cancelled-an-unannounced-project-16kp)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-129g)
 <!-- BLOG-POST-LIST:END -->
 
 
