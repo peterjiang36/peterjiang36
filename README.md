@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Load Data From MySQL to Iceberg in Real Time](https://dev.to/bladepipe/how-to-load-data-from-mysql-to-iceberg-in-real-time-2f)
-- [Day 1:“Starting My Java Full stack Journey: Building the Login Page with HTML and CSS”](https://dev.to/sathish_226_1ac7d93d9970c/day-1starting-my-java-full-stack-journey-building-the-login-page-with-html-and-css-am0)
-- [Automate SSL Renewal for SafeLine WAF with DNS-01 Challenge](https://dev.to/sharon_42e16b8da44dabde6d/automate-ssl-renewal-for-safeline-waf-with-dns-01-challenge-1b6n)
-- [Building a Distributed Voting App with Docker: A Hands-On Guide](https://dev.to/hritikraj8804/building-a-distributed-voting-app-with-docker-a-hands-on-guide-3l9m)
+- [How to Create a Beautiful Public Profile Page for Free Without Facebook or Instagram](https://dev.to/pixeline/how-to-create-a-beautiful-public-profile-page-for-free-without-facebook-or-instagram-32d4)
+- [How to Use GitHub Copilot for Free &lpar;Student Discount Guide&rpar;](https://dev.to/therealmrmumba/how-to-use-github-copilot-for-free-student-discount-guide-2f56)
+- [Top 6 trends in backend development services in 2025](https://dev.to/ronasit/top-6-trends-in-backend-development-services-in-2025-1pij)
+- [Recreating a Nostalgic Game with Q CLI](https://dev.to/aws-builders/recreating-a-nostalgic-game-with-q-cli-pygame-3n8c)
 <!-- BLOG-POST-LIST:END -->
 
 
