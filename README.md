@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
-- [Building an actually secure MCP Server with Fastly Compute](https://dev.to/fastly/building-an-actually-secure-mcp-server-with-fastly-compute-33go)
-- [How to Safely Upgrade SafeLine WAF &lpar;With Backup Steps&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/how-to-safely-upgrade-safeline-waf-with-backup-steps-3bee)
-- [How to Use APIs in Your Applications](https://dev.to/media_geneous_bb80d6b5563/how-to-use-apis-in-your-applications-g5k)
+- [JavaScript Journey -1](https://dev.to/sudhakar_v_c404997aeec839/javascript-journey-1-2bhd)
+- [FINAL](https://dev.to/juandixx5373/final-3lpi)
+- [Chladni figures](https://dev.to/preetha_vaishnavi_2b82358/chladni-figures-1k8j)
+- [Simple Responsive Table](https://dev.to/preetha_vaishnavi_2b82358/simple-responsive-table-3ibj)
 <!-- BLOG-POST-LIST:END -->
 
 
