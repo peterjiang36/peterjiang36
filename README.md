@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1 day to go! Join our free webinar on 5 AWS cost-saving tips backed by 400+ audits.](https://dev.to/cloudkeeper_marketing_e69/1-day-to-go-join-our-free-webinar-on-5-aws-cost-saving-tips-backed-by-400-audits-1pan)
-- [Why doesn’t anyone react when I share my experimental programming language?](https://dev.to/charles_koffler_bcabc582b/why-doesnt-anyone-react-when-i-share-my-experimental-programming-language-e41)
-- [My New Time-Saving Formula for Daily Life](https://dev.to/elfreda/my-new-time-saving-formula-for-daily-life-46ed)
-- [🚀 Using ClusterIP, NodePort, and LoadBalancer in a Real-World Kubernetes Application](https://dev.to/rock_win_c053fa5fb2399067/using-clusterip-nodeport-and-loadbalancer-in-a-real-world-kubernetes-application-hl1)
+- [Run Your Dockerized Microservices Voting App](https://dev.to/hritikraj8804/run-your-dockerized-microservices-voting-app-4ek5)
+- [Why Use Python for Data Analysis?](https://dev.to/shivanim21_/why-use-python-for-data-analysis-2gnk)
+- [Security - Solving the &quot;Content Security Policy &lpar;CSP&rpar; Header Not Set&quot; in Next.js](https://dev.to/jenchen/security-solving-the-content-security-policy-csp-header-not-set-in-nextjs-2314)
+- [AI Deployment: Why Serverless is Perfect &lpar;and Terrible&rpar;](https://dev.to/gerimate/ai-deployment-why-serverless-is-perfect-and-terrible-4phl)
 <!-- BLOG-POST-LIST:END -->
 
 
