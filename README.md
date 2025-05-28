@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Beautiful Public Profile Page for Free Without Facebook or Instagram](https://dev.to/pixeline/how-to-create-a-beautiful-public-profile-page-for-free-without-facebook-or-instagram-32d4)
-- [How to Use GitHub Copilot for Free &lpar;Student Discount Guide&rpar;](https://dev.to/therealmrmumba/how-to-use-github-copilot-for-free-student-discount-guide-2f56)
-- [Top 6 trends in backend development services in 2025](https://dev.to/ronasit/top-6-trends-in-backend-development-services-in-2025-1pij)
-- [Recreating a Nostalgic Game with Q CLI](https://dev.to/aws-builders/recreating-a-nostalgic-game-with-q-cli-pygame-3n8c)
+- [1 day to go! Join our free webinar on 5 AWS cost-saving tips backed by 400+ audits.](https://dev.to/cloudkeeper_marketing_e69/1-day-to-go-join-our-free-webinar-on-5-aws-cost-saving-tips-backed-by-400-audits-1pan)
+- [Why doesn’t anyone react when I share my experimental programming language?](https://dev.to/charles_koffler_bcabc582b/why-doesnt-anyone-react-when-i-share-my-experimental-programming-language-e41)
+- [My New Time-Saving Formula for Daily Life](https://dev.to/elfreda/my-new-time-saving-formula-for-daily-life-46ed)
+- [🚀 Using ClusterIP, NodePort, and LoadBalancer in a Real-World Kubernetes Application](https://dev.to/rock_win_c053fa5fb2399067/using-clusterip-nodeport-and-loadbalancer-in-a-real-world-kubernetes-application-hl1)
 <!-- BLOG-POST-LIST:END -->
 
 
