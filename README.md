@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BLE Star Topology Visualizer Using RSSI](https://dev.to/bleuiot/ble-star-topology-visualizer-using-rssi-13kl)
-- [5 Prompts That Make Any AI App More Secure](https://dev.to/benwilkins/5-prompts-that-make-any-ai-app-more-secure-2fka)
-- [Learning JavaScript: Data Types, Functions ,Variables,Concatenation,Return](https://dev.to/siva_sankari324_be1ea7575/learning-javascript-data-types-functions-variablesconcatenationreturn-55af)
-- [Implementação do Stack Grafana K8s em Cluster Kubernetes](https://dev.to/thdevops/implementacao-do-stack-grafana-k8s-em-cluster-kubernetes-d4f)
+- [Stop Saying &#39;Technical Debt&#39; — Start Speaking Product](https://dev.to/tawe/stop-saying-technical-debt-start-speaking-product-47ch)
+- [The Terminal State of Mind](https://dev.to/vst/the-terminal-state-of-mind-5cgf)
+- [A Citizen-Built Nuclear Simulator — Because Awareness Shouldn’t Belong Only to Governments](https://dev.to/atomimpact/a-citizen-built-nuclear-simulator-because-awareness-shouldnt-belong-only-to-governments-3kn1)
+- [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://dev.to/skeptrune/llm-codegen-go-brrr-parallelization-with-git-worktrees-and-tmux-2gop)
 <!-- BLOG-POST-LIST:END -->
 
 
