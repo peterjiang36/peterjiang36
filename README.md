@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Your Dockerized Microservices Voting App](https://dev.to/hritikraj8804/run-your-dockerized-microservices-voting-app-4ek5)
-- [Why Use Python for Data Analysis?](https://dev.to/shivanim21_/why-use-python-for-data-analysis-2gnk)
-- [Security - Solving the &quot;Content Security Policy &lpar;CSP&rpar; Header Not Set&quot; in Next.js](https://dev.to/jenchen/security-solving-the-content-security-policy-csp-header-not-set-in-nextjs-2314)
-- [AI Deployment: Why Serverless is Perfect &lpar;and Terrible&rpar;](https://dev.to/gerimate/ai-deployment-why-serverless-is-perfect-and-terrible-4phl)
+- [Integrating Quill Editor and Image Upload Functionality in a React CMS](https://dev.to/webcraft-notes/integrating-quill-editor-and-image-upload-functionality-in-a-react-cms-28a4)
+- [Setting up a Nix Development Environment with Flakes and direnv](https://dev.to/itzsaga/setting-up-a-nix-development-environment-with-flakes-and-direnv-3dc1)
+- [Top Admin Dashboard Templates to Streamline Your Web Development in 2025 - by CodedThemes](https://dev.to/codedthemes/top-admin-dashboard-templates-to-streamline-your-web-development-in-2025-by-codedthemes-3e7j)
+- [Stock Market Simulation? Pfft. This is MARKET CRASH SIMULATION! 🚨💥](https://dev.to/hmzas/stock-market-simulation-pfft-this-is-market-crash-simulation-4m5n)
 <!-- BLOG-POST-LIST:END -->
 
 
