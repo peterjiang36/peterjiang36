@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Side Hustles 2025: Unlock Your Earning Potential](https://dev.to/william_clark_7427c126834/the-best-side-hustles-2025-unlock-your-earning-potential-3nb5)
-- [Bots Hate It: How This Free WAF Stopped 98% of Crawlers](https://dev.to/sharon_42e16b8da44dabde6d/bots-hate-it-how-this-free-waf-stopped-98-of-crawlers-153l)
-- [How to Control GPIO on OK3568-C Using libgpiod &lpar;Buildroot Linux 4.19.206&rpar;](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-control-gpio-on-ok3568-c-using-libgpiod-buildroot-linux-419206-41je)
-- [Lista de 15 plugins/extensiones en VS para potenciar el inicio del aprendizaje como Frontends](https://dev.to/durbonca/lista-de-15-pluginsextensiones-en-vs-para-potenciar-el-inicio-del-aprendizaje-como-frontends-4k5i)
+- [Welcome Thread - v328](https://dev.to/devteam/welcome-thread-v328-4c1m)
+- [Building an actually secure MCP Server with Fastly Compute](https://dev.to/fastly/building-an-actually-secure-mcp-server-with-fastly-compute-33go)
+- [How to Safely Upgrade SafeLine WAF &lpar;With Backup Steps&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/how-to-safely-upgrade-safeline-waf-with-backup-steps-3bee)
+- [How to Use APIs in Your Applications](https://dev.to/media_geneous_bb80d6b5563/how-to-use-apis-in-your-applications-g5k)
 <!-- BLOG-POST-LIST:END -->
 
 
