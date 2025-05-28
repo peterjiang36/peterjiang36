@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A judge forced &#39;Fortnite&#39; to return to iOS, with an assist from Microsoft and Spotify](https://dev.to/gg_news/a-judge-forced-fortnite-to-return-to-ios-with-an-assist-from-microsoft-and-spotify-1oo)
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-28j3)
-- [Indiana Jones and Wolfenstein developer MachineGames has cancelled an unannounced project](https://dev.to/gg_news/indiana-jones-and-wolfenstein-developer-machinegames-has-cancelled-an-unannounced-project-16kp)
-- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-129g)
+- [Melhores práticas de segurança com o GitHub Copilot](https://dev.to/pachicodes/melhores-praticas-de-seguranca-com-o-github-copilot-343n)
+- [Owlcat Games reveals new CRPG Warhammer 40,000: Dark Heresy with official trailer](https://dev.to/gg_news/owlcat-games-reveals-new-crpg-warhammer-40000-dark-heresy-with-official-trailer-2d3e)
+- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-1lkl)
+- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5cmo)
 <!-- BLOG-POST-LIST:END -->
 
 
