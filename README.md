@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhores práticas de segurança com o GitHub Copilot](https://dev.to/pachicodes/melhores-praticas-de-seguranca-com-o-github-copilot-343n)
-- [Owlcat Games reveals new CRPG Warhammer 40,000: Dark Heresy with official trailer](https://dev.to/gg_news/owlcat-games-reveals-new-crpg-warhammer-40000-dark-heresy-with-official-trailer-2d3e)
-- [OG Star Wars Battlefront devs were asked to make Battlefront 3 in just one year, but Pandemic couldn&#39;t hit LucasArts&#39; timeline](https://dev.to/gg_news/og-star-wars-battlefront-devs-were-asked-to-make-battlefront-3-in-just-one-year-but-pandemic-1lkl)
-- [Baldur&#39;s Gate 3 devs originally went for a truly “cartoony” art style, but I&#39;m glad they didn&#39;t go with it](https://dev.to/gg_news/baldurs-gate-3-devs-originally-went-for-a-truly-cartoony-art-style-but-im-glad-they-didnt-go-5cmo)
+- [How to Use Git Tags for Reliable Versioning and Releases](https://dev.to/hostman_com/how-to-use-git-tags-for-reliable-versioning-and-releases-546b)
+- [Advanced Techniques in JavaScript Debugging with Node Inspector](https://dev.to/omriluz1/advanced-techniques-in-javascript-debugging-with-node-inspector-16pj)
+- [From Kubernetes to Career Advice: A Day of Grafana, Gyan, and Giggles at Microsoft Noida](https://dev.to/mrshelby0/from-kubernetes-to-career-advice-a-day-of-grafana-gyan-and-giggles-at-microsoft-noida-365b)
+- [How TypeScript Saved My Sanity &lpar;And Helped Me Ship Faster Than Ever&rpar;](https://dev.to/instaclipai/how-typescript-saved-my-sanity-and-helped-me-ship-faster-than-ever-2m42)
 <!-- BLOG-POST-LIST:END -->
 
 
