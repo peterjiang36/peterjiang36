@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Journey -1](https://dev.to/sudhakar_v_c404997aeec839/javascript-journey-1-2bhd)
-- [FINAL](https://dev.to/juandixx5373/final-3lpi)
-- [Chladni figures](https://dev.to/preetha_vaishnavi_2b82358/chladni-figures-1k8j)
-- [Simple Responsive Table](https://dev.to/preetha_vaishnavi_2b82358/simple-responsive-table-3ibj)
+- [HarmonyOS Next struct instance creation full parsing: from constructor to memory management](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-instance-creation-full-parsing-from-constructor-to-memory-management-3ad9)
+- [HarmonyOS Next struct type restrictions and alternative solutions: from recursive ban to memory optimization](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-type-restrictions-and-alternative-solutions-from-recursive-ban-to-memory-n1a)
+- [HarmonyOS Next struct instance creation and memory management in-depth analysis](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-instance-creation-and-memory-management-in-depth-analysis-5dpg)
+- [HarmonyOS Next struct member variable detailed explanation: Collaborative design of instance members and static members](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-struct-member-variable-detailed-explanation-collaborative-design-of-instance-4061)
 <!-- BLOG-POST-LIST:END -->
 
 
