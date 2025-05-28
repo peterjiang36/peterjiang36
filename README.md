@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Quill Editor and Image Upload Functionality in a React CMS](https://dev.to/webcraft-notes/integrating-quill-editor-and-image-upload-functionality-in-a-react-cms-28a4)
-- [Setting up a Nix Development Environment with Flakes and direnv](https://dev.to/itzsaga/setting-up-a-nix-development-environment-with-flakes-and-direnv-3dc1)
-- [Top Admin Dashboard Templates to Streamline Your Web Development in 2025 - by CodedThemes](https://dev.to/codedthemes/top-admin-dashboard-templates-to-streamline-your-web-development-in-2025-by-codedthemes-3e7j)
-- [Stock Market Simulation? Pfft. This is MARKET CRASH SIMULATION! 🚨💥](https://dev.to/hmzas/stock-market-simulation-pfft-this-is-market-crash-simulation-4m5n)
+- [How to Install BAGEL by ByteDance: The Vision Language Model That Can Do It All](https://dev.to/nodeshiftcloud/how-to-install-bagel-by-bytedance-the-vision-language-model-that-can-do-it-all-52k0)
+- [Resources for Project Managers: Essential Tools, Websites, and Communities](https://dev.to/isabella_harry_e56dfaa53c/resources-for-project-managers-essential-tools-websites-and-communities-4oo4)
+- [Stochastic Momentum Index &lpar;SMI&rpar; with RSI and MACD for Confirmation](https://dev.to/johnwilson1/stochastic-momentum-index-smi-with-rsi-and-macd-for-confirmation-4hjp)
+- [Top 5 Mistakes Startups Make When Integrating LLMs](https://dev.to/ideausher/top-5-mistakes-startups-make-when-integrating-llms-5779)
 <!-- BLOG-POST-LIST:END -->
 
 
