@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claw Finding Algorithm Using Aegypti](https://dev.to/frank_vega_987689489099bf/claw-finding-algorithm-using-aegypti-2p0k)
-- [Taming the Server Beast: AWS EC2 vs. DigitalOcean vs. Linode for Node.js &lpar;No Ops Nightmares&rpar; 🐉⚡](https://dev.to/alex_aslam/taming-the-server-beast-aws-ec2-vs-digitalocean-vs-linode-for-nodejs-no-ops-nightmares-3897)
-- [Building Cross-Protocol AI Agents with Spring Boot: A2A and MCP Server Guide](https://dev.to/vishalmysore/building-cross-protocol-ai-agents-with-spring-boot-a2a-and-mcp-server-guide-2d71)
-- [Why engineers with strategic plans earn 40% more and get promoted twice as fast](https://dev.to/wgcorrea/why-engineers-with-strategic-plans-earn-40-more-and-get-promoted-twice-as-fast-5an5)
+- [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
+- [New GitHub Copilot Global Bootcamp: Now with Virtual and In-Person Workshops!](https://dev.to/azure/new-github-copilot-global-bootcamp-now-with-virtual-and-in-person-workshops-3cmh)
+- [VO3 AI Genarator](https://dev.to/jeyzolo/vo3-ai-genarator-4bhd)
+- [Untitled](https://dev.to/rafa_correr_25ae6819c8847/untitled-d24)
 <!-- BLOG-POST-LIST:END -->
 
 
