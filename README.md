@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Security: How Agentic AI Is Transforming Financial Protection](https://dev.to/destinovaailabs/smarter-security-how-agentic-ai-is-transforming-financial-protection-34hk)
-- [Day-2 JavaScript topics: Local variable and Global Variable, Introduction to DOM..](https://dev.to/chithra_priya/today-javascript-topics-local-variable-and-global-variable-introduction-to-dom-1f6g)
-- [Finally Completed Designing Data Intensive Application Book](https://dev.to/hellonehha/finally-completed-designing-data-intensive-application-book-45j4)
-- [Rust: cargo release flags or codegen options](https://dev.to/ninadmhatre/rust-cargo-release-flags-or-codegen-options-398j)
+- [Poetry &gt; pip + venv? Here&#39;s why developers are switching](https://dev.to/leapcell/poetry-pip-venv-heres-why-developers-are-switching-5005)
+- [Rust Programming Books Roadmap](https://dev.to/kehn_marv/rust-programming-books-roadmap-2ala)
+- [🛠 DevTools &amp; Console](https://dev.to/ubbaobada/devtools-console-3gb3)
+- [CRM Integration Best Practices](https://dev.to/bridgegroupsolutions/crm-integration-best-practices-3o4m)
 <!-- BLOG-POST-LIST:END -->
 
 
