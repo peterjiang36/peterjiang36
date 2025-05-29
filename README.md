@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Poetry &gt; pip + venv? Here&#39;s why developers are switching](https://dev.to/leapcell/poetry-pip-venv-heres-why-developers-are-switching-5005)
-- [Rust Programming Books Roadmap](https://dev.to/kehn_marv/rust-programming-books-roadmap-2ala)
-- [🛠 DevTools &amp; Console](https://dev.to/ubbaobada/devtools-console-3gb3)
-- [CRM Integration Best Practices](https://dev.to/bridgegroupsolutions/crm-integration-best-practices-3o4m)
+- [Sapient HR: Transforming How Businesses Manage Talent](https://dev.to/amberava/sapient-hr-transforming-how-businesses-manage-talent-1a0k)
+- [Microfrontends in 2025: A Reality Check from the Trenches](https://dev.to/vitalii_petrenko_dev/microfrontends-in-2025-a-reality-check-from-the-trenches-1nj2)
+- [10 Genius Python Tricks Every Beginner Should Be Using](https://dev.to/niveshbansal07/10-genius-python-tricks-every-beginner-should-be-using-36io)
+- [Cybersecurity Tips for Users](https://dev.to/bridgegroupsolutions/cybersecurity-tips-for-users-24pf)
 <!-- BLOG-POST-LIST:END -->
 
 
