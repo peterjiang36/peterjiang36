@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps vs DevOps: What’s the Real Difference—and Which Should You Choose?](https://dev.to/dct_technology/gitops-vs-devops-whats-the-real-difference-and-which-should-you-choose-19om)
-- [Layered Architecture &amp; Dependency Injection: A Recipe for Clean and Testable FastAPI Code](https://dev.to/markoulis/layered-architecture-dependency-injection-a-recipe-for-clean-and-testable-fastapi-code-3ioo)
-- [Built with AI: A blog assistant](https://dev.to/vjnvisakh/built-with-ai-a-blog-assistant-4f3d)
-- [Day 8/30 - Git Merge --no-ff – Force a merge commit &lpar;avoid fast-forward&rpar;](https://dev.to/ruqaiya_beguwala/git-merge-no-ff-force-a-merge-commit-avoid-fast-forward-1b3k)
+- [Why Data Visualization Tools Matter for Developers, Managers, and Analysts](https://dev.to/dbvismarketing/why-data-visualization-tools-matter-for-developers-managers-and-analysts-36ml)
+- [Single Sign-On with OpenAM and OpenIG: Practical Implementation Examples](https://dev.to/maximthomas/single-sign-on-with-openam-and-openig-practical-implementation-examples-2gmi)
+- [Day -20 DOM Basics: Select, Update, Create, and Remove Elements Using JavaScript](https://dev.to/tamilselvan1812/day-20-dom-basics-select-update-create-and-remove-elements-using-javascript-21j3)
+- [Azure Local Solution Categories explained: Validated Nodes, Integrated Systems, and Premier Solutions](https://dev.to/techielass/azure-local-solution-categories-explained-validated-nodes-integrated-systems-and-premier-5dpd)
 <!-- BLOG-POST-LIST:END -->
 
 
