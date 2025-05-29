@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Radeon HD 6400 Series on Ubuntu](https://dev.to/kholis/fix-radeon-hd-6400-series-on-ubuntu-3idb)
-- [Day 17&amp;18/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-1718200-full-stack-4fha)
-- [Looking for AI Developer role&lpar;Team Lead, Project Manager&rpar;](https://dev.to/grant_abbott_02/looking-for-ai-developer-roleteam-lead-project-manager-4i8p)
-- [Fix AI code ?](https://dev.to/shadman1612/fix-ai-code--4p90)
+- [Dive into the world of Italian Brainrot](https://dev.to/aigame/dive-into-the-world-of-italian-brainrot-43kh)
+- [Criando um grid de dados simples contendo paginação + filtros + barra de pesquisa + classificação usando MYSQL, PHP e AJAX pt.2](https://dev.to/luis_carlos60/criando-um-grid-de-dados-simples-contendo-paginacao-filtros-barra-de-pesquisa-classificacao-4cce)
+- [Don&#39;t Panic! Handle Errors Gracefully with &quot;panic&quot;, &quot;defer&quot;, and &quot;recover&quot; in Go](https://dev.to/wambita_sheila_fana/dont-panic-handle-errors-gracefully-with-panic-defer-and-recover-in-go-57hb)
+- [Joy of Test Driven Development&lpar;TDD&rpar; using Rspec in Ruby](https://dev.to/avirajkhare00/joy-of-test-driven-developmenttdd-using-rspec-in-ruby-5fi5)
 <!-- BLOG-POST-LIST:END -->
 
 
