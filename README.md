@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is React.js and Why You Should Learn It in 2025](https://dev.to/jackfd120/what-is-reactjs-and-why-you-should-learn-it-in-2025-5c20)
-- [Why Introverted Engineering Managers Actually Make the Best Leaders](https://dev.to/devunionx/why-introverted-engineering-managers-actually-make-the-best-leaders-504b)
-- [Lost in a Forest of Tabs? Here’s Your Friendly Guide Out!](https://dev.to/thearjun/lost-in-a-forest-of-tabs-heres-your-friendly-guide-out-4f71)
-- [Insights from DeepSeek-R1 0528 update](https://dev.to/yang_ella_f2a3e16ccb54550/insights-from-deepseek-r1-0528-update-3n32)
+- [The Role of Technology in Modern Education](https://dev.to/oditha4523/the-role-of-technology-in-modern-education-57l)
+- [Mastering Reverse Proxies: Supercharge Your Node.js App with Nginx or Apache](https://dev.to/alex_aslam/mastering-reverse-proxies-supercharge-your-nodejs-app-with-nginx-or-apache-4gpp)
+- [Understanding Primitives in JavaScript](https://dev.to/micmath/understanding-primitives-in-javascript-gj2)
+- [What If Web3 Ownership Wasn’t Binary?](https://dev.to/caerlower/what-if-web3-ownership-wasnt-binary-5700)
 <!-- BLOG-POST-LIST:END -->
 
 
