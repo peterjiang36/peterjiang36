@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Performansını İyileştirme Rehberi](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestirme-rehberi-1f2)
-- [I Benchmarked 8 “AI Image Compression” Tools Using a 20MB File — Only Two Passed](https://dev.to/engineeredai/i-benchmarked-8-ai-image-compression-tools-using-a-20mb-file-only-two-passed-1hmi)
-- [Smardex: A Step-by-Step Guide to Smarter Liquidity Provision in DeFi](https://dev.to/klaret_johnston_02cd7da07/smardex-a-step-by-step-guide-to-smarter-liquidity-provision-in-defi-4i55)
-- [🧠 Caso real: cuando .populate&lpar;&rpar; no es suficiente &lpar;y lo que aprendí integrando MongoDB con Oracle&rpar;](https://dev.to/eduuu_dev/caso-real-cuando-populate-no-es-suficiente-y-lo-que-aprendi-integrando-mongodb-con-oracle-1lbo)
+- [Fix Radeon HD 6400 Series on Ubuntu](https://dev.to/kholis/fix-radeon-hd-6400-series-on-ubuntu-3idb)
+- [Day 17&amp;18/200 &lpar;Full stack&rpar;](https://dev.to/munin-1/day-1718200-full-stack-4fha)
+- [Looking for AI Developer role&lpar;Team Lead, Project Manager&rpar;](https://dev.to/grant_abbott_02/looking-for-ai-developer-roleteam-lead-project-manager-4i8p)
+- [Fix AI code ?](https://dev.to/shadman1612/fix-ai-code--4p90)
 <!-- BLOG-POST-LIST:END -->
 
 
