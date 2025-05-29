@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Technology in Modern Education](https://dev.to/oditha4523/the-role-of-technology-in-modern-education-57l)
-- [Mastering Reverse Proxies: Supercharge Your Node.js App with Nginx or Apache](https://dev.to/alex_aslam/mastering-reverse-proxies-supercharge-your-nodejs-app-with-nginx-or-apache-4gpp)
-- [Understanding Primitives in JavaScript](https://dev.to/micmath/understanding-primitives-in-javascript-gj2)
-- [What If Web3 Ownership Wasn’t Binary?](https://dev.to/caerlower/what-if-web3-ownership-wasnt-binary-5700)
+- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
+- [I Learned Today-Understanding null and undefined in JavaScript,Template Literals.](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-null-and-undefined-in-javascripttemplate-literals-58n2)
+- [$9,000 per minute: That’s the average cost of downtime](https://dev.to/gatling/9000-per-minute-thats-the-average-cost-of-downtime-3ef9)
+- [Getting Comfortable with Terraform: Infrastructure as Code &lpar;IAC&rpar;](https://dev.to/tai_ck_dev/getting-comfortable-with-terraform-infrastructure-as-code-iac-4hkk)
 <!-- BLOG-POST-LIST:END -->
 
 
