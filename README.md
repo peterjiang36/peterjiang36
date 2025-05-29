@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
-- [AI Readiness Framework in the Enterprise: Bridging the Gap Between Potential and Practicality](https://dev.to/kapusto/ai-readiness-framework-in-the-enterprise-bridging-the-gap-between-potential-and-practicality-pah)
-- [Activation Functions in Neural Networks — The Real MVPs of Deep Learning](https://dev.to/satyam_gupta/activation-functions-in-neural-networks-the-real-mvps-of-deep-learning-26g6)
-- [Image Processing MCQs](https://dev.to/aniruddhaadak_/image-processing-mcqs-29gn)
+- [Everything about Generics in Go](https://dev.to/leapcell/everything-about-generics-in-go-4hak)
+- [32 Free Fitness Icons for Your Next App](https://dev.to/macadamia_1a0d2a69936f0ec/30-free-fitness-icons-for-your-next-app-3i8e)
+- [V8 Engine, JavaScript APIs, and XMLHttpRequest &lpar;XHR&rpar;](https://dev.to/shifa_2/v8-engine-javascript-apis-and-xmlhttprequest-xhr-5b64)
+- [10 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-59k0)
 <!-- BLOG-POST-LIST:END -->
 
 
