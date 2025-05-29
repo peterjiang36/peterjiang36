@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Filas em PHP: um estudo de caso sobre o Leetcode 649 - Dota2 Senate](https://dev.to/gabrielgomes94/filas-em-php-um-estudo-de-caso-sobre-o-leetcode-649-dota2-senate-1d06)
-- [How to create custom Azure DevOps Pipelines that autoscale with Virtual Machine Scale Sets &lpar;VMSS&rpar;](https://dev.to/dmo2000/how-to-create-custom-azure-devops-pipelines-that-autoscale-with-virtual-machine-scale-sets-vmss-1k16)
-- [The Hidden Cost of Bad Code](https://dev.to/invalid_input/the-hidden-cost-of-bad-code-55nc)
-- [Daily JavaScript Challenge #JS-192: Determine if a String Has All Unique Characters](https://dev.to/dpc/daily-javascript-challenge-js-192-determine-if-a-string-has-all-unique-characters-dj)
+- [Web Performansını İyileştirme Rehberi](https://dev.to/yunus_emremert_1756b71d3/web-performansini-iyilestirme-rehberi-1f2)
+- [I Benchmarked 8 “AI Image Compression” Tools Using a 20MB File — Only Two Passed](https://dev.to/engineeredai/i-benchmarked-8-ai-image-compression-tools-using-a-20mb-file-only-two-passed-1hmi)
+- [Smardex: A Step-by-Step Guide to Smarter Liquidity Provision in DeFi](https://dev.to/klaret_johnston_02cd7da07/smardex-a-step-by-step-guide-to-smarter-liquidity-provision-in-defi-4i55)
+- [🧠 Caso real: cuando .populate&lpar;&rpar; no es suficiente &lpar;y lo que aprendí integrando MongoDB con Oracle&rpar;](https://dev.to/eduuu_dev/caso-real-cuando-populate-no-es-suficiente-y-lo-que-aprendi-integrando-mongodb-con-oracle-1lbo)
 <!-- BLOG-POST-LIST:END -->
 
 
