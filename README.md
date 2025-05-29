@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything about Generics in Go](https://dev.to/leapcell/everything-about-generics-in-go-4hak)
-- [32 Free Fitness Icons for Your Next App](https://dev.to/macadamia_1a0d2a69936f0ec/30-free-fitness-icons-for-your-next-app-3i8e)
-- [V8 Engine, JavaScript APIs, and XMLHttpRequest &lpar;XHR&rpar;](https://dev.to/shifa_2/v8-engine-javascript-apis-and-xmlhttprequest-xhr-5b64)
-- [10 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/10-open-source-gems-to-become-the-ultimate-developer-59k0)
+- [Array Manipulation Hackerrank problem analysis and solution optimization &lpar;prefix sum + difference array&rpar;](https://dev.to/yovo_manolov/array-manipulation-hackerrank-problem-analysis-and-solution-optimization-prefix-sum-difference-5546)
+- [Organizational Behaviour](https://dev.to/aniruddhaadak_/organizational-behaviour-2ih2)
+- [Deploying a Web service with GCP compute &amp; Terraform](https://dev.to/sardinessz/deploying-a-web-service-with-gcp-compute-terraform-nko)
+- [Veterinário e a Dieta Terapêutica: A Importância dos Exames para Pets](https://dev.to/animalclinico664/veterinario-e-a-dieta-terapeutica-a-importancia-dos-exames-para-pets-16pf)
 <!-- BLOG-POST-LIST:END -->
 
 
