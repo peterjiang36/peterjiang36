@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sapient HR: Transforming How Businesses Manage Talent](https://dev.to/amberava/sapient-hr-transforming-how-businesses-manage-talent-1a0k)
-- [Microfrontends in 2025: A Reality Check from the Trenches](https://dev.to/vitalii_petrenko_dev/microfrontends-in-2025-a-reality-check-from-the-trenches-1nj2)
-- [10 Genius Python Tricks Every Beginner Should Be Using](https://dev.to/niveshbansal07/10-genius-python-tricks-every-beginner-should-be-using-36io)
-- [Cybersecurity Tips for Users](https://dev.to/bridgegroupsolutions/cybersecurity-tips-for-users-24pf)
+- [ServBay + n8n: Build Automated Workflows in 5 Minutes, Say Goodbye to Repetitive Work](https://dev.to/tomastomas/servbay-n8n-build-automated-workflows-in-5-minutes-say-goodbye-to-repetitive-work-li7)
+- [What is Generative AI &lpar;and why it&#39;s changing everything&rpar;](https://dev.to/izabellalbuquerque/what-is-generative-ai-and-why-its-changing-everything-18j1)
+- [DevOps Interview Practice #2: What’s the difference between a Deployment and a StatefulSet in Kubernetes?](https://dev.to/woobuntu/devops-interview-practice-2-whats-the-difference-between-a-deployment-and-a-statefulset-in-4go5)
+- [How to Update Windows: Step-by-Step Process](https://dev.to/bhawana127/how-to-update-windows-step-by-step-process-550k)
 <!-- BLOG-POST-LIST:END -->
 
 
