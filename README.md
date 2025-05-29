@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Clean Data Pipelines in Angular - Performance Best Practices](https://dev.to/er1cak/building-clean-data-pipelines-in-angular-performance-best-practices-582l)
-- [I Learned Today-Understanding null and undefined in JavaScript,Template Literals.](https://dev.to/mukilaperiyasamy/i-learned-today-understanding-null-and-undefined-in-javascripttemplate-literals-58n2)
-- [$9,000 per minute: That’s the average cost of downtime](https://dev.to/gatling/9000-per-minute-thats-the-average-cost-of-downtime-3ef9)
-- [Getting Comfortable with Terraform: Infrastructure as Code &lpar;IAC&rpar;](https://dev.to/tai_ck_dev/getting-comfortable-with-terraform-infrastructure-as-code-iac-4hkk)
+- [How AI is changing debugging with Google Gemini](https://dev.to/logrocket/how-ai-is-changing-debugging-with-google-gemini-5d9l)
+- [Smart Gaming in Action: The Claw Machine Meets Amazon Q CL:](https://dev.to/mahek_bhagchandani_4864dd/smart-gaming-in-action-the-claw-machine-meets-amazon-q-cl-13mh)
+- [Advanced PDF Compression Techniques for Professional Users](https://dev.to/revisepdf/advanced-pdf-compression-techniques-for-professional-users-3g7e)
+- [Laravel 12 + PHP 8.4 Clean Code: Real-World Refactoring Examples Every Developer Should Know](https://dev.to/dev_ms/laravel-12-php-84-clean-code-real-world-refactoring-examples-every-developer-should-know-508n)
 <!-- BLOG-POST-LIST:END -->
 
 
