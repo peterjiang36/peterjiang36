@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay + n8n: Build Automated Workflows in 5 Minutes, Say Goodbye to Repetitive Work](https://dev.to/tomastomas/servbay-n8n-build-automated-workflows-in-5-minutes-say-goodbye-to-repetitive-work-li7)
-- [What is Generative AI &lpar;and why it&#39;s changing everything&rpar;](https://dev.to/izabellalbuquerque/what-is-generative-ai-and-why-its-changing-everything-18j1)
-- [DevOps Interview Practice #2: What’s the difference between a Deployment and a StatefulSet in Kubernetes?](https://dev.to/woobuntu/devops-interview-practice-2-whats-the-difference-between-a-deployment-and-a-statefulset-in-4go5)
-- [How to Update Windows: Step-by-Step Process](https://dev.to/bhawana127/how-to-update-windows-step-by-step-process-550k)
+- [Cyberpunk 2 is now in preproduction, CD Projekt says | Previously known as Project Orion, the conceptual phase is now complete](https://dev.to/gg_news/cyberpunk-2-is-now-in-preproduction-cd-projekt-says-previously-known-as-project-orion-the-494m)
+- [Warhammer 40,000 Maker Games Workshop Is Doing So Well It&#39;s Giving $27 Million to Its Staff](https://dev.to/gg_news/warhammer-40000-maker-games-workshop-is-doing-so-well-its-giving-27-million-to-its-staff-4h73)
+- [EA Cancels Black Panther Game And Closes Studio Making It](https://dev.to/gg_news/ea-cancels-black-panther-game-and-closes-studio-making-it-4h77)
+- [Doom:DarkAges sold Less than 1 Million Copies, despite Bethesda previous bragging about 3 Million Players](https://dev.to/gg_news/doomdarkages-sold-less-than-1-million-copies-despite-bethesda-previous-bragging-about-3-million-3kji)
 <!-- BLOG-POST-LIST:END -->
 
 
