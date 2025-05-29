@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of diving deep into AI Agents!](https://dev.to/distalx/day-2-of-diving-deep-into-ai-agents-3e7m)
-- [Managing Secrets in PCI-DSS Compliant Docker Environments: Techniques and Tools for Secure Handling](https://dev.to/hexshift/managing-secrets-in-pci-dss-compliant-docker-environments-techniques-and-tools-for-secure-handling-2d6h)
-- [Master CSS Fast: The Only Tutorial You’ll Ever Need](https://dev.to/tpointtechblog/master-css-fast-the-only-tutorial-youll-ever-need-5dfb)
-- [[Boost]](https://dev.to/rajesh_patel/-526i)
+- [GitOps vs DevOps: What’s the Real Difference—and Which Should You Choose?](https://dev.to/dct_technology/gitops-vs-devops-whats-the-real-difference-and-which-should-you-choose-19om)
+- [Layered Architecture &amp; Dependency Injection: A Recipe for Clean and Testable FastAPI Code](https://dev.to/markoulis/layered-architecture-dependency-injection-a-recipe-for-clean-and-testable-fastapi-code-3ioo)
+- [Built with AI: A blog assistant](https://dev.to/vjnvisakh/built-with-ai-a-blog-assistant-4f3d)
+- [Day 8/30 - Git Merge --no-ff – Force a merge commit &lpar;avoid fast-forward&rpar;](https://dev.to/ruqaiya_beguwala/git-merge-no-ff-force-a-merge-commit-avoid-fast-forward-1b3k)
 <!-- BLOG-POST-LIST:END -->
 
 
