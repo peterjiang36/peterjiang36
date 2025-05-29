@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the world of Italian Brainrot](https://dev.to/aigame/dive-into-the-world-of-italian-brainrot-43kh)
-- [Criando um grid de dados simples contendo paginação + filtros + barra de pesquisa + classificação usando MYSQL, PHP e AJAX pt.2](https://dev.to/luis_carlos60/criando-um-grid-de-dados-simples-contendo-paginacao-filtros-barra-de-pesquisa-classificacao-4cce)
-- [Don&#39;t Panic! Handle Errors Gracefully with &quot;panic&quot;, &quot;defer&quot;, and &quot;recover&quot; in Go](https://dev.to/wambita_sheila_fana/dont-panic-handle-errors-gracefully-with-panic-defer-and-recover-in-go-57hb)
-- [Joy of Test Driven Development&lpar;TDD&rpar; using Rspec in Ruby](https://dev.to/avirajkhare00/joy-of-test-driven-developmenttdd-using-rspec-in-ruby-5fi5)
+- [Home Assistant: Light Intensity Sensor APDS-9960](https://dev.to/admantium/home-assistant-light-intensity-sensor-apds-9960-4bn8)
+- [💡Understanding AI vs Machine Learning vs Deep Learning: A Clear Guide](https://dev.to/furqanahmadrao/understanding-ai-vs-machine-learning-vs-deep-learning-a-clear-guide-4ic3)
+- [An Introduction to Artificial Intelligence for Developers](https://dev.to/media_geneous_bb80d6b5563/an-introduction-to-artificial-intelligence-for-developers-2k61)
+- [A New Paradigm of Natural Language Data Integration: In-depth Exploration of SeaTunnel MCP](https://dev.to/seatunnel/a-new-paradigm-of-natural-languagexdata-integration-in-depth-exploration-of-seatunnel-mcp-11a2)
 <!-- BLOG-POST-LIST:END -->
 
 
