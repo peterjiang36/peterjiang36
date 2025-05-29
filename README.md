@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is changing debugging with Google Gemini](https://dev.to/logrocket/how-ai-is-changing-debugging-with-google-gemini-5d9l)
-- [Smart Gaming in Action: The Claw Machine Meets Amazon Q CL:](https://dev.to/mahek_bhagchandani_4864dd/smart-gaming-in-action-the-claw-machine-meets-amazon-q-cl-13mh)
-- [Advanced PDF Compression Techniques for Professional Users](https://dev.to/revisepdf/advanced-pdf-compression-techniques-for-professional-users-3g7e)
-- [Laravel 12 + PHP 8.4 Clean Code: Real-World Refactoring Examples Every Developer Should Know](https://dev.to/dev_ms/laravel-12-php-84-clean-code-real-world-refactoring-examples-every-developer-should-know-508n)
+- [Need Help with Career](https://dev.to/mkfrd/need-help-with-career-1l05)
+- [AI Readiness Framework in the Enterprise: Bridging the Gap Between Potential and Practicality](https://dev.to/kapusto/ai-readiness-framework-in-the-enterprise-bridging-the-gap-between-potential-and-practicality-pah)
+- [Activation Functions in Neural Networks — The Real MVPs of Deep Learning](https://dev.to/satyam_gupta/activation-functions-in-neural-networks-the-real-mvps-of-deep-learning-26g6)
+- [Image Processing MCQs](https://dev.to/aniruddhaadak_/image-processing-mcqs-29gn)
 <!-- BLOG-POST-LIST:END -->
 
 
