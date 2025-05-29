@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyberpunk 2 is now in preproduction, CD Projekt says | Previously known as Project Orion, the conceptual phase is now complete](https://dev.to/gg_news/cyberpunk-2-is-now-in-preproduction-cd-projekt-says-previously-known-as-project-orion-the-494m)
-- [Warhammer 40,000 Maker Games Workshop Is Doing So Well It&#39;s Giving $27 Million to Its Staff](https://dev.to/gg_news/warhammer-40000-maker-games-workshop-is-doing-so-well-its-giving-27-million-to-its-staff-4h73)
-- [EA Cancels Black Panther Game And Closes Studio Making It](https://dev.to/gg_news/ea-cancels-black-panther-game-and-closes-studio-making-it-4h77)
-- [Doom:DarkAges sold Less than 1 Million Copies, despite Bethesda previous bragging about 3 Million Players](https://dev.to/gg_news/doomdarkages-sold-less-than-1-million-copies-despite-bethesda-previous-bragging-about-3-million-3kji)
+- [What is React.js and Why You Should Learn It in 2025](https://dev.to/jackfd120/what-is-reactjs-and-why-you-should-learn-it-in-2025-5c20)
+- [Why Introverted Engineering Managers Actually Make the Best Leaders](https://dev.to/devunionx/why-introverted-engineering-managers-actually-make-the-best-leaders-504b)
+- [Lost in a Forest of Tabs? Here’s Your Friendly Guide Out!](https://dev.to/thearjun/lost-in-a-forest-of-tabs-heres-your-friendly-guide-out-4f71)
+- [Insights from DeepSeek-R1 0528 update](https://dev.to/yang_ella_f2a3e16ccb54550/insights-from-deepseek-r1-0528-update-3n32)
 <!-- BLOG-POST-LIST:END -->
 
 
