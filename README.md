@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Searching Algorithms: Linear Search vs Binary Search Explained](https://dev.to/rac/searching-algorithms-linear-search-vs-binary-search-explained-3fdf)
-- [Can You Build This? Shift + Click Checkbox Selector – No Libraries!](https://dev.to/ubbaobada/can-you-build-this-shift-click-checkbox-selector-no-libraries-488p)
-- [Why You Should Care About JPA](https://dev.to/wittedtech-by-harshit/why-you-should-care-about-jpa-59ai)
-- [The Best Tools to Design Database Schemas Visually in 2025](https://dev.to/roxana_haidiner/the-best-tools-to-design-database-schemas-visually-in-2025-309j)
+- [Discord style stickers in Wordpress Comments](https://dev.to/itsaomi/discord-style-stickers-in-wordpress-comments-3d7)
+- [🔐 C# Logger haqida va uning darajalari](https://dev.to/umida5/c-logger-haqida-va-uning-darajalari-379)
+- [Working with JavaScript Symbols](https://dev.to/micmath/working-with-javascript-symbols-10k8)
+- [Microsoft AppSource und Business Central: So funktioniert die Erweiterung durch Apps am Beispiel von Continia Banking](https://dev.to/connamix/microsoft-appsource-und-business-central-so-funktioniert-die-erweiterung-durch-apps-am-beispiel-4h7f)
 <!-- BLOG-POST-LIST:END -->
 
 
