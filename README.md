@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Aptos Move Tip #5 – Resource Management and Unbounded Execution](https://dev.to/maakai123/aptos-move-tip-5-resource-management-and-unbounded-execution-19kp)
-- [“I Just Wanted to Build a Website—But Ended Up Exposing the Silence We All Carry” https://senzyscripts.hashnode.dev/i-just-wanted-to-build-a-websitebut-ended-up-exposing-the-silence-we-all-carry?ref=twitter-share](https://dev.to/senzy01/i-just-wanted-to-build-a-website-but-ended-up-exposing-the-silence-we-all-carry-3gl3)
-- [Tagwise: Technical Review of AI-Powered Bookmark Categorization Project](https://dev.to/mantis-stajyer/tagwise-technical-review-of-ai-powered-bookmark-categorization-project-8k)
-- [Stop Asking for Estimates Like You’re Ordering a Pizza](https://dev.to/leaddontctrl/stop-asking-for-estimates-like-youre-ordering-a-pizza-23pi)
+- [Write Cleaner Code](https://dev.to/joao_dalbem_afa16a8be0433/write-cleaner-code-clm)
+- [Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming](https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m)
+- [Ngoding Sambil Healing: Tips Jaga Waras Buat Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-healing-tips-jaga-waras-buat-software-engineer-39km)
+- [An adaptive ai &quot;just made for you&quot;.](https://dev.to/pankaj_srivathsan_04c4747/an-adaptive-ai-just-made-for-you-5jh)
 <!-- BLOG-POST-LIST:END -->
 
 
