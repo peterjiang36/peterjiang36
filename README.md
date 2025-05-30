@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Cleaner Code](https://dev.to/joao_dalbem_afa16a8be0433/write-cleaner-code-clm)
-- [Daily JavaScript Challenge #JS-193: Calculate Fibonacci Number Using Dynamic Programming](https://dev.to/dpc/daily-javascript-challenge-js-193-calculate-fibonacci-number-using-dynamic-programming-547m)
-- [Ngoding Sambil Healing: Tips Jaga Waras Buat Software Engineer!](https://dev.to/chandrabachtiar/ngoding-sambil-healing-tips-jaga-waras-buat-software-engineer-39km)
-- [An adaptive ai &quot;just made for you&quot;.](https://dev.to/pankaj_srivathsan_04c4747/an-adaptive-ai-just-made-for-you-5jh)
+- [How to Speed Up Frontend Development Without Sacrificing Flexibility](https://dev.to/lonti-davidb/how-to-speed-up-frontend-development-without-sacrificing-flexibility-3oil)
+- [Building a Bet Code Converter App: A Complete Guide](https://dev.to/betpaddi/building-a-bet-code-converter-app-a-complete-guide-55ic)
+- [Harmonyos Cangjie Language Development Tutorial: Network Requests and Data Parsing](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-tutorial-network-requests-and-data-parsing-bmh)
+- [Your application should be PCI-DSS-compliant](https://dev.to/avonnadozie/your-application-should-be-pci-dss-compliant-1l6n)
 <!-- BLOG-POST-LIST:END -->
 
 
