@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [shamir](https://dev.to/shamir_hussain_441bd087f1/shamir-1icd)
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Sorting Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-sorting-algorithms-mic)
-- [Why SafeLine WAF Isn&#39;t Showing the Right IP—and How to Fix It](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-waf-isnt-showing-the-right-ip-and-how-to-fix-it-2ioe)
-- [Introduction to React Native for Mobile Development](https://dev.to/million_formula_3be3d915d/introduction-to-react-native-for-mobile-development-53g2)
+- [Context Transference](https://dev.to/david_whitney/context-transference-531g)
+- [O Modelo de Concorrência do Brighter: Como Threads Dedicadas Impulsionam Pumps de Mensagens Assíncronas](https://dev.to/actor-dev/o-modelo-de-concorrencia-do-brighter-como-threads-dedicadas-impulsionam-pumps-de-mensagens-h0l)
+- [Brighter’s Threading Model: Why Dedicated Threads Power Async Messaging Pumps](https://dev.to/actor-dev/brighter-and-thread-4eik)
+- [HTTP vs HTTPS: Why Encryption Isn’t Enough to Stop Attacks](https://dev.to/sharon_42e16b8da44dabde6d/http-vs-https-why-encryption-isnt-enough-to-stop-attacks-1e57)
 <!-- BLOG-POST-LIST:END -->
 
 
