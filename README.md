@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anyone here using InvestSpy for portfolio analytics? Thoughts?](https://dev.to/denis21/anyone-here-using-investspy-for-portfolio-analytics-thoughts-38ak)
-- [[Showoff Saturday] ATM Simulator – Fullstack Web App built with Flask](https://dev.to/dennis_mpoukouris_8a1f826/showoff-saturday-atm-simulator-fullstack-web-app-built-with-flask-741)
-- [LeetCode — 2824. Count Pairs Whose Sum is Less than Target](https://dev.to/bendlmp/leetcode-2824-count-pairs-whose-sum-is-less-than-target-380)
-- [Monetization Strategies for AI Technologies](https://dev.to/pponali/monetization-strategies-for-ai-technologies-3596)
+- [Secure Team Collaboration in Anvil](https://dev.to/anvil/secure-team-collaboration-in-anvil-3680)
+- [🧪DevOps Sandbox: Build Your Own Kubernetes Lab with Vagrant &amp; Ansible](https://dev.to/kartikdudeja21/devops-sandbox-build-your-own-kubernetes-lab-with-vagrant-ansible-3imi)
+- [Cybersecurity: Yesterday, Today, and Forever](https://dev.to/adeolaogunkola/cybersecurity-yesterday-today-and-forever-3ea6)
+- [[PHP] Upgrading from PHP 7.4 to 8.1🐘✨](https://dev.to/hanaosan/php-upgrading-from-php-74-to-81-3ffk)
 <!-- BLOG-POST-LIST:END -->
 
 
