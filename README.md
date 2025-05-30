@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix DNS Issues Using Chrome Net Internals](https://dev.to/jane_watson_c27fd17f03341/how-to-fix-dns-issues-using-chrome-net-internals-29k3)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `4`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-4-2mo5)
-- [[Boost]](https://dev.to/pranesh_patel/-2f8d)
-- [How I Run Projects Like a Pro Using Just Google Sheet](https://dev.to/pratham_naik_project_manager/how-i-run-projects-like-a-pro-using-just-google-sheet-5ag4)
+- [shamir](https://dev.to/shamir_hussain_441bd087f1/shamir-1icd)
+- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Sorting Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-sorting-algorithms-mic)
+- [Why SafeLine WAF Isn&#39;t Showing the Right IP—and How to Fix It](https://dev.to/sharon_42e16b8da44dabde6d/why-safeline-waf-isnt-showing-the-right-ip-and-how-to-fix-it-2ioe)
+- [Introduction to React Native for Mobile Development](https://dev.to/million_formula_3be3d915d/introduction-to-react-native-for-mobile-development-53g2)
 <!-- BLOG-POST-LIST:END -->
 
 
