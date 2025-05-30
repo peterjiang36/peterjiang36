@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing an HTTP Client in Go: From Installation to First Requests](https://dev.to/hostman_com/developing-an-http-client-in-go-from-installation-to-first-requests-fhg)
-- [Fix It in Design or Fight It in Production — Your Call](https://dev.to/rally_for_jira/fix-it-in-design-or-fight-it-in-production-your-call-3k1m)
-- [Top 5 Cybersecurity Threats Targeting Your Business In 2025](https://dev.to/pat2002/top-5-cybersecurity-threats-targeting-your-business-in-2025-3aah)
-- [Side Project Deployment: From Hours of Pain to a Single Command?](https://dev.to/g1ibby/side-project-deployment-from-hours-of-pain-to-a-single-command-nab)
+- [Anyone here using InvestSpy for portfolio analytics? Thoughts?](https://dev.to/denis21/anyone-here-using-investspy-for-portfolio-analytics-thoughts-38ak)
+- [[Showoff Saturday] ATM Simulator – Fullstack Web App built with Flask](https://dev.to/dennis_mpoukouris_8a1f826/showoff-saturday-atm-simulator-fullstack-web-app-built-with-flask-741)
+- [LeetCode — 2824. Count Pairs Whose Sum is Less than Target](https://dev.to/bendlmp/leetcode-2824-count-pairs-whose-sum-is-less-than-target-380)
+- [Monetization Strategies for AI Technologies](https://dev.to/pponali/monetization-strategies-for-ai-technologies-3596)
 <!-- BLOG-POST-LIST:END -->
 
 
