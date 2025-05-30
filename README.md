@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Expert Recommendations for LLC Registered Agents](https://dev.to/backgas99/expert-recommendations-for-llc-registered-agents-41ae)
-- [Dockerize Node.js + React in 5 Minutes: End &quot;Works on My Machine&quot; Forever 🐳🚀](https://dev.to/alex_aslam/dockerize-nodejs-react-in-5-minutes-end-works-on-my-machine-forever-2dgi)
-- [🚀 Deploying a URL Shortener App on AWS EC2 with Auto Scaling and Load Balancer](https://dev.to/akashabish/deploying-a-url-shortener-app-on-aws-ec2-with-auto-scaling-and-load-balancer-1955)
-- [Nuxt3 form validation on client side with Yup](https://dev.to/skyhayato/nuxt3-form-validation-on-client-side-with-yup-3hl6)
+- [Day 5 of my Daily Blog](https://dev.to/zxa/day-5-of-my-daily-blog-14h3)
+- [Creating Thumbnail Images in Swift using UIKit](https://dev.to/rahull_0906/creating-thumbnail-images-in-swift-using-uikit-15gh)
+- [RBAC vs ABAC: Picking Your Access Control Fighter](https://dev.to/lovestaco/rbac-vs-abac-picking-your-access-control-fighter-490n)
+- [Build Your Unshakeable AWS Cloud Security Career: The Practical Roadmap Employers Crave](https://dev.to/sameerimtiaz/build-your-unshakeable-aws-cloud-security-career-the-practical-roadmap-employers-crave-2e6c)
 <!-- BLOG-POST-LIST:END -->
 
 
