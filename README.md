@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why C Still Matters: A Modern Tutorial](https://dev.to/tpointtechblog/why-c-still-matters-a-modern-tutorial-4jeb)
-- [Scrape Like a Pro: BeautifulSoup + Python Full Tutorial](https://dev.to/leapcell/scrape-like-a-pro-beautifulsoup-python-full-tutorial-nj4)
-- [[Write Up] Bandit Wargame Clear Log &lpar;Level 10 - 20&rpar;](https://dev.to/sankworks/write-up-bandit-wargame-clear-log-level-10-20-2042)
-- [Blazor Web App - WebAssembly Hosted in .NET8 and .NET9](https://dev.to/kazinix/blazor-web-app-webassembly-hosted-in-net8-and-net9-1k6g)
+- [How to Fix DNS Issues Using Chrome Net Internals](https://dev.to/jane_watson_c27fd17f03341/how-to-fix-dns-issues-using-chrome-net-internals-29k3)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `4`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-4-2mo5)
+- [[Boost]](https://dev.to/pranesh_patel/-2f8d)
+- [How I Run Projects Like a Pro Using Just Google Sheet](https://dev.to/pratham_naik_project_manager/how-i-run-projects-like-a-pro-using-just-google-sheet-5ag4)
 <!-- BLOG-POST-LIST:END -->
 
 
