@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack, Heap and How Function Calls Really Work](https://dev.to/pkitz/stack-heap-and-how-function-calls-really-work-3mc5)
-- [🚀 Building My Freelance Journey From Scratch - Day 0 Log](https://dev.to/abhayrsr/building-my-freelance-journey-from-scratch-day-0-log-4f00)
-- [From Zero to Pong: My First SFML Project](https://dev.to/bikurastudios/from-zero-to-pong-my-first-sfml-project-3fog)
-- [Can Roblox Be the Future of Gaming Programming❔](https://dev.to/joao_dalbem_afa16a8be0433/can-roblox-be-the-future-of-gaming-programming-c7c)
+- [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
+- [Cristhian](https://dev.to/cristhian_huarsaya_56bffd/cristhian-4j6n)
+- [[1] Why You Should Understand What a CPU Is, even as a High-Level Developer](https://dev.to/adamsnows/why-you-should-understand-what-a-cpu-is-even-as-a-high-level-developer-3emm)
+- [Make Custom Stickers from Photos Easily](https://dev.to/jake-braham/make-custom-stickers-from-photos-easily-32hf)
 <!-- BLOG-POST-LIST:END -->
 
 
