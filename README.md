@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Hackers Want Your Personal Data &lpar;And How They Use It&rpar;](https://dev.to/lawsonpeters/why-hackers-want-your-personal-data-and-how-they-use-it-4l30)
-- [What I Learned Translating 50+ Hours of Video Content with AI Voice Dubbing](https://dev.to/shruti_saraswat_c258d5934/what-i-learned-translating-50-hours-of-video-content-with-ai-voice-dubbing-55l2)
-- [Dwitter player](https://dev.to/preetha_vaishnavi_2b82358/dwitter-player-3048)
-- [🐍 Python Built-in Functions - Ultimate Cheat Sheet](https://dev.to/onyxwizard/python-built-in-functions-ultimate-cheat-sheet-6n0)
+- [Developing an HTTP Client in Go: From Installation to First Requests](https://dev.to/hostman_com/developing-an-http-client-in-go-from-installation-to-first-requests-fhg)
+- [Fix It in Design or Fight It in Production — Your Call](https://dev.to/rally_for_jira/fix-it-in-design-or-fight-it-in-production-your-call-3k1m)
+- [Top 5 Cybersecurity Threats Targeting Your Business In 2025](https://dev.to/pat2002/top-5-cybersecurity-threats-targeting-your-business-in-2025-3aah)
+- [Side Project Deployment: From Hours of Pain to a Single Command?](https://dev.to/g1ibby/side-project-deployment-from-hours-of-pain-to-a-single-command-nab)
 <!-- BLOG-POST-LIST:END -->
 
 
