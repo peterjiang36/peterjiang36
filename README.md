@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Fuzzy Search with Manticore Search](https://dev.to/sanikolaev/mastering-fuzzy-search-with-manticore-search-51mg)
-- [07-HarmonyOS5-ObjectDetection-Case](https://dev.to/zhousg/07-harmonyos5-objectdetection-case-4f48)
-- [06-HarmonyOS5-SubjectSegmentation-Case](https://dev.to/zhousg/06-harmonyos5-subjectsegmentation-case-1jog)
-- [05-HarmonyOS5-FaceComparator-Case](https://dev.to/zhousg/05-harmonyos5-facecomparator-case-7p3)
+- [Integrating Sentry Error Monitoring with Encore.ts](https://dev.to/leonardo_marciano/integrating-sentry-error-monitoring-with-encorets-3614)
+- [Can This Open Source WAF Stop SQL Injection Attacks?](https://dev.to/sharon_42e16b8da44dabde6d/can-this-open-source-waf-stop-sql-injection-attacks-597c)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1pa8)
+- [What is useEffect in React?](https://dev.to/amalzewita/what-is-useeffect-in-react-3n7a)
 <!-- BLOG-POST-LIST:END -->
 
 
