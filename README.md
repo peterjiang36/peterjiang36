@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔌 Building Playwright Framework Step By Step - Implementing API Fixtures](https://dev.to/idavidov13/building-playwright-framework-step-by-step-implementing-api-fixtures-32bc)
-- [Security news weekly round-up - 30th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-30th-may-2025-38kb)
-- [If I Were the First Engineer at a Startup, Here&#39;s What I’d Do](https://dev.to/0xdaniiel/if-i-were-the-first-engineer-at-a-startup-heres-what-id-do-off)
-- [How to install avalonia on ubuntu](https://dev.to/yassir_elradi_ded89bd833a/how-to-install-avalonia-on-ubuntu-34m0)
+- [Stack, Heap and How Function Calls Really Work](https://dev.to/pkitz/stack-heap-and-how-function-calls-really-work-3mc5)
+- [🚀 Building My Freelance Journey From Scratch - Day 0 Log](https://dev.to/abhayrsr/building-my-freelance-journey-from-scratch-day-0-log-4f00)
+- [From Zero to Pong: My First SFML Project](https://dev.to/bikurastudios/from-zero-to-pong-my-first-sfml-project-3fog)
+- [Can Roblox Be the Future of Gaming Programming❔](https://dev.to/joao_dalbem_afa16a8be0433/can-roblox-be-the-future-of-gaming-programming-c7c)
 <!-- BLOG-POST-LIST:END -->
 
 
