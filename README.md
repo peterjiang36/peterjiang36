@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Team Collaboration in Anvil](https://dev.to/anvil/secure-team-collaboration-in-anvil-3680)
-- [🧪DevOps Sandbox: Build Your Own Kubernetes Lab with Vagrant &amp; Ansible](https://dev.to/kartikdudeja21/devops-sandbox-build-your-own-kubernetes-lab-with-vagrant-ansible-3imi)
-- [Cybersecurity: Yesterday, Today, and Forever](https://dev.to/adeolaogunkola/cybersecurity-yesterday-today-and-forever-3ea6)
-- [[PHP] Upgrading from PHP 7.4 to 8.1🐘✨](https://dev.to/hanaosan/php-upgrading-from-php-74-to-81-3ffk)
+- [Expert Recommendations for LLC Registered Agents](https://dev.to/backgas99/expert-recommendations-for-llc-registered-agents-41ae)
+- [Dockerize Node.js + React in 5 Minutes: End &quot;Works on My Machine&quot; Forever 🐳🚀](https://dev.to/alex_aslam/dockerize-nodejs-react-in-5-minutes-end-works-on-my-machine-forever-2dgi)
+- [🚀 Deploying a URL Shortener App on AWS EC2 with Auto Scaling and Load Balancer](https://dev.to/akashabish/deploying-a-url-shortener-app-on-aws-ec2-with-auto-scaling-and-load-balancer-1955)
+- [Nuxt3 form validation on client side with Yup](https://dev.to/skyhayato/nuxt3-form-validation-on-client-side-with-yup-3hl6)
 <!-- BLOG-POST-LIST:END -->
 
 
