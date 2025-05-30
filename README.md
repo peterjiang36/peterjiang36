@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 of my Daily Blog](https://dev.to/zxa/day-5-of-my-daily-blog-14h3)
-- [Creating Thumbnail Images in Swift using UIKit](https://dev.to/rahull_0906/creating-thumbnail-images-in-swift-using-uikit-15gh)
-- [RBAC vs ABAC: Picking Your Access Control Fighter](https://dev.to/lovestaco/rbac-vs-abac-picking-your-access-control-fighter-490n)
-- [Build Your Unshakeable AWS Cloud Security Career: The Practical Roadmap Employers Crave](https://dev.to/sameerimtiaz/build-your-unshakeable-aws-cloud-security-career-the-practical-roadmap-employers-crave-2e6c)
+- [Learning Perl XS - How to create an object](https://dev.to/lnation/learning-perl-xs-how-to-create-an-object-24lj)
+- [I created a complete web OS named CloudOS , go to see it on https://maeldevelop7.github.io/CloudOS/](https://dev.to/maelgruand_web_dev/i-created-a-complete-web-os-named-cloudos-go-to-see-it-on-httpsmaeldevelop7githubiocloudos-igm)
+- [How to Test and Reduce Duplications in GitHub Actions Workflows](https://dev.to/yulin/how-to-test-and-reduce-duplications-in-github-actions-workflows-ppj)
+- [A Sketch of Reversible Deterministic Concurrency for Distributed Protocols](https://dev.to/replica-io/a-sketch-of-reversible-deterministic-concurrency-for-distributed-protocols-6k8)
 <!-- BLOG-POST-LIST:END -->
 
 
