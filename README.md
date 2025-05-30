@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting the Available Ranges from Two Tables — From SQL to SPL #34](https://dev.to/judith677/getting-the-available-ranges-from-two-tables-from-sql-to-spl-34-491o)
-- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Searching Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-searching-algorithms-4eg6)
-- [Kubernetes 1.33: Change Pod Size Without Restart! &lpar;No More Problems!&rpar;](https://dev.to/francotel/kubernetes-133-change-pod-size-without-restart-no-more-problems-31pl)
-- [concise, and packed with detail](https://dev.to/redapron/concise-and-packed-with-detail-50mo)
+- [Mastering Fuzzy Search with Manticore Search](https://dev.to/sanikolaev/mastering-fuzzy-search-with-manticore-search-51mg)
+- [07-HarmonyOS5-ObjectDetection-Case](https://dev.to/zhousg/07-harmonyos5-objectdetection-case-4f48)
+- [06-HarmonyOS5-SubjectSegmentation-Case](https://dev.to/zhousg/06-harmonyos5-subjectsegmentation-case-1jog)
+- [05-HarmonyOS5-FaceComparator-Case](https://dev.to/zhousg/05-harmonyos5-facecomparator-case-7p3)
 <!-- BLOG-POST-LIST:END -->
 
 
