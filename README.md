@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Speed Up Frontend Development Without Sacrificing Flexibility](https://dev.to/lonti-davidb/how-to-speed-up-frontend-development-without-sacrificing-flexibility-3oil)
-- [Building a Bet Code Converter App: A Complete Guide](https://dev.to/betpaddi/building-a-bet-code-converter-app-a-complete-guide-55ic)
-- [Harmonyos Cangjie Language Development Tutorial: Network Requests and Data Parsing](https://dev.to/youlanjihua/harmonyos-cangjie-language-development-tutorial-network-requests-and-data-parsing-bmh)
-- [Your application should be PCI-DSS-compliant](https://dev.to/avonnadozie/your-application-should-be-pci-dss-compliant-1l6n)
+- [Getting the Available Ranges from Two Tables — From SQL to SPL #34](https://dev.to/judith677/getting-the-available-ranges-from-two-tables-from-sql-to-spl-34-491o)
+- [Discovering JavaScript&#39;s Hidden Secrets: Understanding Searching Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-searching-algorithms-4eg6)
+- [Kubernetes 1.33: Change Pod Size Without Restart! &lpar;No More Problems!&rpar;](https://dev.to/francotel/kubernetes-133-change-pod-size-without-restart-no-more-problems-31pl)
+- [concise, and packed with detail](https://dev.to/redapron/concise-and-packed-with-detail-50mo)
 <!-- BLOG-POST-LIST:END -->
 
 
