@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in .NET 10: Patterns That Actually Work in Production &lpar;2025 Guide&rpar;](https://dev.to/nikhilwagh/clean-architecture-in-net-10-patterns-that-actually-work-in-production-2025-guide-36b0)
-- [The One Log Entry That Made Me Realize My Linux Server Was Being Scanned | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/the-one-log-entry-that-made-me-realize-my-linux-server-was-being-scanned-by-faruk-ahmed-may-35f0)
-- [Why I Use Read-Only Partitions on My Linux Servers &lpar;And You Should Too&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/why-i-use-read-only-partitions-on-my-linux-servers-and-you-should-too-by-faruk-ahmed-may-2025-1afo)
-- [Has someone discovered that @tailwindcss/vite plugin after vercel deployment works correctly for desktop, but do not work on mobile phones? even after meta tags, viewports, vite.config.js etc are intact?](https://dev.to/wanjeeric/has-someone-discovered-that-tailwindcssvite-plugin-after-vercel-deployment-works-correctly-for-ag3)
+- [🔌 Building Playwright Framework Step By Step - Implementing API Fixtures](https://dev.to/idavidov13/building-playwright-framework-step-by-step-implementing-api-fixtures-32bc)
+- [Security news weekly round-up - 30th May 2025](https://dev.to/ziizium/security-news-weekly-round-up-30th-may-2025-38kb)
+- [If I Were the First Engineer at a Startup, Here&#39;s What I’d Do](https://dev.to/0xdaniiel/if-i-were-the-first-engineer-at-a-startup-heres-what-id-do-off)
+- [How to install avalonia on ubuntu](https://dev.to/yassir_elradi_ded89bd833a/how-to-install-avalonia-on-ubuntu-34m0)
 <!-- BLOG-POST-LIST:END -->
 
 
