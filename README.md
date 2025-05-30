@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://dev.to/vlopess/automating-flutter-apps-an-introduction-to-cicd-pipelines-59mn)
-- [Research, Innovation &amp; Impact – Sabaragamuwa University Leads the Way The future belongs to innovators. At Sabaragamuwa University of Sri Lanka, innovation is not just a buzzword — it’s a way of life. SUSL has established itself as a research-driven univ](https://dev.to/davitson/research-innovation-impact-sabaragamuwa-university-leads-the-way-the-future-belongs-to-4mm5)
-- [Modern Depo Yönetimi İçin WMS Sistemi Nasıl Kurulur? Teknolojisi, Mimarisi ve Katkısı](https://dev.to/sinan_durmu_8a9e16bb1c28/modern-depo-yonetimi-icin-wms-sistemi-nasil-kurulur-teknolojisi-mimarisi-ve-katkisi-4pne)
-- [Top AI Coding Assistants Every Developer Should Try!](https://dev.to/pavanbelagatti/top-ai-coding-assistants-every-developer-should-try-38mm)
+- [Searching Algorithms: Linear Search vs Binary Search Explained](https://dev.to/rac/searching-algorithms-linear-search-vs-binary-search-explained-3fdf)
+- [Can You Build This? Shift + Click Checkbox Selector – No Libraries!](https://dev.to/ubbaobada/can-you-build-this-shift-click-checkbox-selector-no-libraries-488p)
+- [Why You Should Care About JPA](https://dev.to/wittedtech-by-harshit/why-you-should-care-about-jpa-59ai)
+- [The Best Tools to Design Database Schemas Visually in 2025](https://dev.to/roxana_haidiner/the-best-tools-to-design-database-schemas-visually-in-2025-309j)
 <!-- BLOG-POST-LIST:END -->
 
 
