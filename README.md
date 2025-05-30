@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-4 in JS: To create a Counter Application project in JS...](https://dev.to/chithra_priya/day-4-in-js-create-a-counter-project-in-js-3cah)
-- [¿Qué pasará con React Router? Tranquilidad tras el anuncio &quot;Wake up, Remix!&quot;](https://dev.to/kevinccbsg/que-pasara-con-react-router-tranquilidad-tras-el-anuncio-wake-up-remix-3kj0)
-- [Vibe Coding with Cursor AI](https://dev.to/manimovassagh/vibe-coding-with-cursor-ai-25gb)
-- [Building Real-Time Applications with SignalR and C#](https://dev.to/chakewitz/building-real-time-applications-with-signalr-and-c-m5a)
+- [Clean Architecture in .NET 10: Patterns That Actually Work in Production &lpar;2025 Guide&rpar;](https://dev.to/nikhilwagh/clean-architecture-in-net-10-patterns-that-actually-work-in-production-2025-guide-36b0)
+- [The One Log Entry That Made Me Realize My Linux Server Was Being Scanned | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/the-one-log-entry-that-made-me-realize-my-linux-server-was-being-scanned-by-faruk-ahmed-may-35f0)
+- [Why I Use Read-Only Partitions on My Linux Servers &lpar;And You Should Too&rpar; | by Faruk Ahmed | May, 2025](https://dev.to/cyberwebpen/why-i-use-read-only-partitions-on-my-linux-servers-and-you-should-too-by-faruk-ahmed-may-2025-1afo)
+- [Has someone discovered that @tailwindcss/vite plugin after vercel deployment works correctly for desktop, but do not work on mobile phones? even after meta tags, viewports, vite.config.js etc are intact?](https://dev.to/wanjeeric/has-someone-discovered-that-tailwindcssvite-plugin-after-vercel-deployment-works-correctly-for-ag3)
 <!-- BLOG-POST-LIST:END -->
 
 
