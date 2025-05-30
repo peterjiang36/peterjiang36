@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Transference](https://dev.to/david_whitney/context-transference-531g)
-- [O Modelo de Concorrência do Brighter: Como Threads Dedicadas Impulsionam Pumps de Mensagens Assíncronas](https://dev.to/actor-dev/o-modelo-de-concorrencia-do-brighter-como-threads-dedicadas-impulsionam-pumps-de-mensagens-h0l)
-- [Brighter’s Threading Model: Why Dedicated Threads Power Async Messaging Pumps](https://dev.to/actor-dev/brighter-and-thread-4eik)
-- [HTTP vs HTTPS: Why Encryption Isn’t Enough to Stop Attacks](https://dev.to/sharon_42e16b8da44dabde6d/http-vs-https-why-encryption-isnt-enough-to-stop-attacks-1e57)
+- [Automating Flutter Apps: An Introduction to CI/CD Pipelines](https://dev.to/vlopess/automating-flutter-apps-an-introduction-to-cicd-pipelines-59mn)
+- [Research, Innovation &amp; Impact – Sabaragamuwa University Leads the Way The future belongs to innovators. At Sabaragamuwa University of Sri Lanka, innovation is not just a buzzword — it’s a way of life. SUSL has established itself as a research-driven univ](https://dev.to/davitson/research-innovation-impact-sabaragamuwa-university-leads-the-way-the-future-belongs-to-4mm5)
+- [Modern Depo Yönetimi İçin WMS Sistemi Nasıl Kurulur? Teknolojisi, Mimarisi ve Katkısı](https://dev.to/sinan_durmu_8a9e16bb1c28/modern-depo-yonetimi-icin-wms-sistemi-nasil-kurulur-teknolojisi-mimarisi-ve-katkisi-4pne)
+- [Top AI Coding Assistants Every Developer Should Try!](https://dev.to/pavanbelagatti/top-ai-coding-assistants-every-developer-should-try-38mm)
 <!-- BLOG-POST-LIST:END -->
 
 
