@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript has a Required Utility Type.](https://dev.to/amtheblessed/typescript-has-a-required-utility-type-452n)
-- [The Metaverse: Where your avatar has a better social life than your IRL , dude!](https://dev.to/the-matrixneo/the-metaverse-where-your-avatar-has-a-better-social-life-than-your-irl-dude-4241)
-- [🕰️ How I Coordinate Remote WordPress Teams Across Time Zones](https://dev.to/saifyusuph/-48k6)
-- [🧠 How Docker Model Runner Can Accelerate Your Transition](https://dev.to/sertaoseracloud/how-docker-model-runner-can-accelerate-your-transition-m4a)
+- [11 Essential Frontend Development Tips for Beginners](https://dev.to/cole_ruche/11-essential-frontend-development-tips-for-beginners-4j5i)
+- [🛡️ How to Find a Safe &amp; Stable Company Before Joining as a Software Developer](https://dev.to/devcorner/how-to-find-a-safe-stable-company-before-joining-as-a-software-developer-449g)
+- [Build a Full-Featured Hangman Game in Python Using Amazon Q CLI — From Scratch to Launch in Under 10 Minutes 🚀](https://dev.to/jeraldmathewsjomy/build-a-full-featured-hangman-game-in-python-using-amazon-q-cli-from-scratch-to-launch-in-under-21ic)
+- [🚨 Mastering React Native Performance: Practical Insights for Mobile Engineers 🚀](https://dev.to/muhayminbinmehmood/mastering-react-native-performance-practical-insights-for-mobile-engineers-3k63)
 <!-- BLOG-POST-LIST:END -->
 
 
