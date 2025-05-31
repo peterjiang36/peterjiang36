@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless REST APIs: Code Like a Rebel, Deploy Like a Boss with AWS Lambda + API Gateway 🚀🔥](https://dev.to/alex_aslam/serverless-rest-apis-code-like-a-rebel-deploy-like-a-boss-with-aws-lambda-api-gateway-4bfj)
-- [Raspbian: Atualização de URL de repositório de pacotes APT do Linux](https://dev.to/henriqueotogami/raspbian-atualizacao-de-url-de-repositorio-de-pacotes-apt-do-linux-29e8)
-- [Comparative Study of LLMs vs. RAG and AI Agents vs. Agentic AI](https://dev.to/anandsingh01/comparative-study-of-llms-vs-rag-and-ai-agents-vs-agentic-ai-3m20)
-- [[Boost]](https://dev.to/rakeshv675/-4pp5)
+- [The AI Revolution in Music Creation: How Technology is Redefining the Art of Sound](https://dev.to/musicas_sertanejas_i/the-ai-revolution-in-music-creation-how-technology-is-redefining-the-art-of-sound-2jm3)
+- [Your software is lying to you](https://dev.to/anshuman_khanna/your-software-is-lying-to-you-3o92)
+- [Conversational Analytics: Revolutionizing Data Interaction](https://dev.to/kapusto/conversational-analytics-revolutionizing-data-interaction-2mlp)
+- [How to Install NVM on Windows &lpar;And Why You’ll Love It&rpar;](https://dev.to/arafatruetbd/how-to-install-nvm-on-windows-and-why-youll-love-it-5436)
 <!-- BLOG-POST-LIST:END -->
 
 
