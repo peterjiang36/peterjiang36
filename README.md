@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎤 Your Gateway to Building VoiceNote AI: Mastering Speech-to-Text with Whisper](https://dev.to/fonyuygita/your-gateway-to-building-voicenote-ai-mastering-speech-to-text-with-whisper-509l)
-- [📚 Your Gateway to Building ReadTrackr: Mastering the Open Library API](https://dev.to/fonyuygita/your-gateway-to-building-readtrackr-mastering-the-open-library-api-j9n)
-- [Deploy on Jira](https://dev.to/ankit_rattan/deploy-on-jira-14an)
-- [Understanding Rust Concepts](https://dev.to/apondiart/understanding-rust-concepts-16pj)
+- [Iluminação de emergência em centros de treinamento paulistanos: segurança garantida](https://dev.to/emergenciasafety001/iluminacao-de-emergencia-em-centros-de-treinamento-paulistanos-seguranca-garantida-1d1a)
+- [🌍 Redis Geohashing: Storing and Querying Location Data with Ease](https://dev.to/tanyonghe/redis-geohashing-storing-and-querying-location-data-with-ease-1gf4)
+- [🚀 30+ Must-Know Libraries That Make React Truly Powerful in 2025](https://dev.to/devcorner/30-must-know-libraries-that-make-react-truly-powerful-in-2025-3gaj)
+- [Can AI MAke Coding Easier for People with Dyslexia?](https://dev.to/alireza_minagar_99f01ecb6/can-ai-make-coding-easier-for-people-with-dyslexia-33eh)
 <!-- BLOG-POST-LIST:END -->
 
 
