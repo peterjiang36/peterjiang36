@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Essential Frontend Development Tips for Beginners](https://dev.to/cole_ruche/11-essential-frontend-development-tips-for-beginners-4j5i)
-- [🛡️ How to Find a Safe &amp; Stable Company Before Joining as a Software Developer](https://dev.to/devcorner/how-to-find-a-safe-stable-company-before-joining-as-a-software-developer-449g)
-- [Build a Full-Featured Hangman Game in Python Using Amazon Q CLI — From Scratch to Launch in Under 10 Minutes 🚀](https://dev.to/jeraldmathewsjomy/build-a-full-featured-hangman-game-in-python-using-amazon-q-cli-from-scratch-to-launch-in-under-21ic)
-- [🚨 Mastering React Native Performance: Practical Insights for Mobile Engineers 🚀](https://dev.to/muhayminbinmehmood/mastering-react-native-performance-practical-insights-for-mobile-engineers-3k63)
+- [Data Warehousing and Data Mining](https://dev.to/aniruddhaadak_/data-warehousing-and-data-mining-20d6)
+- [Millau - ingress-proxy with self-configuration for Docker Swarm](https://dev.to/codelev/millau-ingress-proxy-with-self-configuration-for-docker-swarm-5g48)
+- [From Vision to Code: How I’m Building Orbeato to Modernize Education with AI](https://dev.to/keshav_kushwaha_76cfeff16/from-vision-to-code-how-im-building-orbeato-to-modernize-education-with-ai-3p7i)
+- [Naming Things in Code: Why It’s Hard and How to Do It Better](https://dev.to/lovestaco/naming-things-in-code-why-its-hard-and-how-to-do-it-better-3262)
 <!-- BLOG-POST-LIST:END -->
 
 
