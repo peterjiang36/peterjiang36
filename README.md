@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring with Result&lt;T, E&gt; and Custom Errors](https://dev.to/sgchris/refactoring-with-resultt-e-and-custom-errors-24ik)
-- [AI Hallucinations: Can We Trust AI-Generated Data?](https://dev.to/grenishrai/ai-hallucinations-can-we-trust-ai-generated-data-e7b)
-- [[Side Project] Maroik: Modern ASP.NET Core 9.0 CMS with Full-Stack Features](https://dev.to/ikhyeon_jo_bac055cc6e6a90/side-project-maroik-modern-aspnet-core-90-cms-with-full-stack-features-4370)
-- [What I’d Do Differently If I Were Learning Frontend Development Today](https://dev.to/sercangundogan/what-id-do-differently-if-i-were-learning-frontend-development-today-mpk)
+- [The Day That Taught Me Something I’ll Never Forget](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-2keo)
+- [Software Engineer Burnout: A Complete Guide to Recognition, Recovery, and Prevention](https://dev.to/mikevarenek/software-engineer-burnout-a-complete-guide-to-recognition-recovery-and-prevention-5cba)
+- [The Future of Workspace: How Hybrid Offices Are Redefining Work](https://dev.to/kpcofgs/the-future-of-workspace-how-hybrid-offices-are-redefining-work-50o9)
+- [Exploring Linux: A User-Friendly Guide](https://dev.to/kpcofgs/exploring-linux-a-user-friendly-guide-17na)
 <!-- BLOG-POST-LIST:END -->
 
 
