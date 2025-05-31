@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Docker Deployment Starategy](https://dev.to/andrewkangg/best-docker-deployment-starategy-4enc)
-- [Frontend to Fullstack - Mastering the Architectural Mindset](https://dev.to/bobysf12/frontend-to-fullstack-mastering-the-architectural-mindset-n0i)
-- [Is Cloud Computing in 2025 Broken? A Realistic Look at the Future of the Cloud](https://dev.to/cyberry_technologies/is-cloud-computing-in-2025-broken-a-realistic-look-at-the-future-of-the-cloud-2eka)
-- [Testing PostgreSQL WAL Streamers for Byte-Level Fidelity](https://dev.to/alzhi_f93e67fa45b972/testing-postgresql-wal-streamers-for-byte-level-fidelity-a15)
+- [TypeScript has a Required Utility Type.](https://dev.to/amtheblessed/typescript-has-a-required-utility-type-452n)
+- [The Metaverse: Where your avatar has a better social life than your IRL , dude!](https://dev.to/the-matrixneo/the-metaverse-where-your-avatar-has-a-better-social-life-than-your-irl-dude-4241)
+- [🕰️ How I Coordinate Remote WordPress Teams Across Time Zones](https://dev.to/saifyusuph/-48k6)
+- [🧠 How Docker Model Runner Can Accelerate Your Transition](https://dev.to/sertaoseracloud/how-docker-model-runner-can-accelerate-your-transition-m4a)
 <!-- BLOG-POST-LIST:END -->
 
 
