@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Virtual Try-On App](https://dev.to/magicnull/ai-powered-virtual-try-on-app-3c7d)
-- [Understanding React&#39;s Declarative UI Through a Copy Button Example](https://dev.to/samitkapoor/understanding-reacts-declarative-ui-through-a-copy-button-example-499c)
-- [Top AI Frameworks in 2025: Powering the Future of Intelligent Systems](https://dev.to/shivamp0987/top-ai-frameworks-in-2025-powering-the-future-of-intelligent-systems-35ki)
-- [Learn How Websites Remember You: JavaScript Cookies Explained](https://dev.to/agunechemba/learn-how-websites-remember-you-javascript-cookies-explained-5808)
+- [Refactoring with Result&lt;T, E&gt; and Custom Errors](https://dev.to/sgchris/refactoring-with-resultt-e-and-custom-errors-24ik)
+- [AI Hallucinations: Can We Trust AI-Generated Data?](https://dev.to/grenishrai/ai-hallucinations-can-we-trust-ai-generated-data-e7b)
+- [[Side Project] Maroik: Modern ASP.NET Core 9.0 CMS with Full-Stack Features](https://dev.to/ikhyeon_jo_bac055cc6e6a90/side-project-maroik-modern-aspnet-core-90-cms-with-full-stack-features-4370)
+- [What I’d Do Differently If I Were Learning Frontend Development Today](https://dev.to/sercangundogan/what-id-do-differently-if-i-were-learning-frontend-development-today-mpk)
 <!-- BLOG-POST-LIST:END -->
 
 
