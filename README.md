@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Designing an MMORPG-Style Game Builder UI for Mobile with Zero Budget &lpar;Using AI + Game Theory&rpar;&quot;](https://dev.to/p_thabiwa_0ca34c2f83/designing-an-mmorpg-style-game-builder-ui-for-mobile-with-zero-budget-using-ai-game-theory-3ocl)
-- [End-to-end testing and deployment of a multi-agent AI system with Docker, LangGraph, and CircleCI](https://dev.to/aws-builders/end-to-end-testing-and-deployment-of-a-multi-agent-ai-system-with-docker-langgraph-and-circleci-4gee)
-- [How I Built a Dual Bluetooth Audio Splitter App for Game + YouTube Streaming on Mobile&quot;](https://dev.to/p_thabiwa_0ca34c2f83/how-i-built-a-dual-bluetooth-audio-splitter-app-for-game-youtube-streaming-on-mobile-2bhp)
-- [Johnston Carmichael: Your Partner in Smarter Finances](https://dev.to/farhan_nazeer_b30207b8336/johnston-carmichael-your-partner-in-smarter-finances-118p)
+- [Bolt hackathon participants? Anyone?](https://dev.to/iva2xn/bolt-hackathon-participants-anyone-3dao)
+- [100APIsOfCode : Day 2](https://dev.to/johns-dev-projects/100daysofcode-day-2-1flb)
+- [TabView array id](https://dev.to/hejliang/tabview-array-id-p5m)
+- [Daily Debug — Day 0: Why I’m Writing This](https://dev.to/stinklewinks/daily-debug-day-0-why-im-writing-this-50o)
 <!-- BLOG-POST-LIST:END -->
 
 
