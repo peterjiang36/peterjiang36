@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building InboxHelm: A Smarter Way to Track Your Job Apps and Receipts](https://dev.to/sehmim_haque_cdf44fce56e1/building-inboxhelm-a-smarter-way-to-track-your-job-apps-and-receipts-92j)
-- [Day 1 - Bolt Hackathon](https://dev.to/nipv20s/day-1-bolt-hackathon-31aa)
-- [🧠 How I Start My Day — A Routine That’s Rewiring My Brain](https://dev.to/yash_sonawane25/how-i-start-my-day-a-routine-thats-rewiring-my-brain-571c)
-- [Adapting Technical Interviews to Counter AI-Assisted Cheating](https://dev.to/jotafeldmann/adapting-technical-interviews-to-counter-ai-assisted-cheating-36lk)
+- [🎤 Your Gateway to Building VoiceNote AI: Mastering Speech-to-Text with Whisper](https://dev.to/fonyuygita/your-gateway-to-building-voicenote-ai-mastering-speech-to-text-with-whisper-509l)
+- [📚 Your Gateway to Building ReadTrackr: Mastering the Open Library API](https://dev.to/fonyuygita/your-gateway-to-building-readtrackr-mastering-the-open-library-api-j9n)
+- [Deploy on Jira](https://dev.to/ankit_rattan/deploy-on-jira-14an)
+- [Understanding Rust Concepts](https://dev.to/apondiart/understanding-rust-concepts-16pj)
 <!-- BLOG-POST-LIST:END -->
 
 
