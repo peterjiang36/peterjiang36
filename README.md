@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
-- [Cristhian](https://dev.to/cristhian_huarsaya_56bffd/cristhian-4j6n)
-- [[1] Why You Should Understand What a CPU Is, even as a High-Level Developer](https://dev.to/adamsnows/why-you-should-understand-what-a-cpu-is-even-as-a-high-level-developer-3emm)
-- [Make Custom Stickers from Photos Easily](https://dev.to/jake-braham/make-custom-stickers-from-photos-easily-32hf)
+- [How to Stay Safe from Cyber Attacks: Tips Anyone Can Follow](https://dev.to/terminaltools/how-to-stay-safe-from-cyber-attacks-tips-anyone-can-follow-19c5)
+- [Cybersecurity for Beginners: How to Get Started in 2025](https://dev.to/terminaltools/cybersecurity-for-beginners-how-to-get-started-in-2025-22cp)
+- [iOS 18.4 Simulator Error](https://dev.to/hejliang/ios-184-simulator-error-4d87)
+- [Fullstack Frontend: Geleceğin Web Geliştiricisi](https://dev.to/yunus_emremert_1756b71d3/fullstack-frontend-gelecegin-web-gelistiricisi-3pej)
 <!-- BLOG-POST-LIST:END -->
 
 
