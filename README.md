@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt hackathon participants? Anyone?](https://dev.to/iva2xn/bolt-hackathon-participants-anyone-3dao)
-- [100APIsOfCode : Day 2](https://dev.to/johns-dev-projects/100daysofcode-day-2-1flb)
-- [TabView array id](https://dev.to/hejliang/tabview-array-id-p5m)
-- [Daily Debug — Day 0: Why I’m Writing This](https://dev.to/stinklewinks/daily-debug-day-0-why-im-writing-this-50o)
+- [AI-Powered Virtual Try-On App](https://dev.to/magicnull/ai-powered-virtual-try-on-app-3c7d)
+- [Understanding React&#39;s Declarative UI Through a Copy Button Example](https://dev.to/samitkapoor/understanding-reacts-declarative-ui-through-a-copy-button-example-499c)
+- [Top AI Frameworks in 2025: Powering the Future of Intelligent Systems](https://dev.to/shivamp0987/top-ai-frameworks-in-2025-powering-the-future-of-intelligent-systems-35ki)
+- [Learn How Websites Remember You: JavaScript Cookies Explained](https://dev.to/agunechemba/learn-how-websites-remember-you-javascript-cookies-explained-5808)
 <!-- BLOG-POST-LIST:END -->
 
 
