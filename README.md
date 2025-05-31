@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution in Music Creation: How Technology is Redefining the Art of Sound](https://dev.to/musicas_sertanejas_i/the-ai-revolution-in-music-creation-how-technology-is-redefining-the-art-of-sound-2jm3)
-- [Your software is lying to you](https://dev.to/anshuman_khanna/your-software-is-lying-to-you-3o92)
-- [Conversational Analytics: Revolutionizing Data Interaction](https://dev.to/kapusto/conversational-analytics-revolutionizing-data-interaction-2mlp)
-- [How to Install NVM on Windows &lpar;And Why You’ll Love It&rpar;](https://dev.to/arafatruetbd/how-to-install-nvm-on-windows-and-why-youll-love-it-5436)
+- [Securing Redis with ACLs and Integrating Redis Insight in Docker](https://dev.to/silentwatcher_95/securing-redis-with-acls-and-integrating-redis-insight-in-docker-59c1)
+- [Day 39 – Locked Reloaded Ready to Devour the Last 60 Days](https://dev.to/mridulbansal2006/day-39-locked-reloaded-ready-to-devour-the-last-60-days-mjo)
+- [Published my first article!](https://dev.to/secesther/published-my-first-article-4om2)
+- [Navigating the DevOps Career Path: From Junior to Principal Engineer](https://dev.to/sameerimtiaz/navigating-the-devops-career-path-from-junior-to-principal-engineer-5c3h)
 <!-- BLOG-POST-LIST:END -->
 
 
