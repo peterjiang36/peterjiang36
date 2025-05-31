@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Agentic Rag in Rust](https://dev.to/skeptrune/how-to-build-agentic-rag-in-rust-44o0)
 - [Why Every Programmer Should Embrace Failure](https://dev.to/joao_dalbem_afa16a8be0433/why-every-programmer-should-embrace-failure-2nb9)
 - [Performans İyileştirmesi: Saniyeler Kazan](https://dev.to/yunus_emremert_1756b71d3/performans-iyilestirmesi-saniyeler-kazan-ca7)
 - [Top 5 Tools That Changed How I Code Forever](https://dev.to/joao_dalbem_afa16a8be0433/top-5-tools-that-changed-how-i-code-forever-4ka9)
-- [My Favorite Game Dev Moments: When Coding Meets Gaming](https://dev.to/joao_dalbem_afa16a8be0433/my-favorite-game-dev-moments-when-coding-meets-gaming-14ja)
 <!-- BLOG-POST-LIST:END -->
 
 
