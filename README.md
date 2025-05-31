@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [🧠 How I Start My Day — A Routine That’s Rewiring My Brain](https://dev.to/yash_sonawane25/how-i-start-my-day-a-routine-thats-rewiring-my-brain-571c)
 - [Adapting Technical Interviews to Counter AI-Assisted Cheating](https://dev.to/jotafeldmann/adapting-technical-interviews-to-counter-ai-assisted-cheating-36lk)
 - [Vibe coding an Email Ticket Automater using Postmark](https://dev.to/chiragagg5k/vibe-coding-an-email-ticket-automater-using-postmark-l11)
 - [Building the Smart City Pulse Dashboard: My Summer of Scribbling Hackathon Journey](https://dev.to/sujan_kowshikjilla_3f595/building-the-smart-city-pulse-dashboard-my-summer-of-scribbling-hackathon-journey-22m0)
-- [Starting with Statistics towards Decisions: An Effect of Equity Analysis on The Portfolio](https://dev.to/babiesant8/starting-with-statistics-towards-decisions-an-effect-of-equity-analysis-on-the-portfolio-19gl)
 <!-- BLOG-POST-LIST:END -->
 
 
