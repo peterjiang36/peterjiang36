@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-1-bfn)
-- [My JSON-LD Screamed the Truth. The AIs? Not So Much.](https://dev.to/gokerdev/my-json-ld-screamed-the-truth-the-ais-not-so-much-7m0)
-- [PK36 App – An AI-Powered Tool for Smarter App Development](https://dev.to/xuhi_xohayb_606bcb34260cb/pk36-app-an-ai-powered-tool-for-smarter-app-development-1mg1)
-- [Deploy an Azure VM with Network Security Group &lpar;NSG&rpar; using Terraform](https://dev.to/smallsun2025/deploy-an-azure-vm-with-network-security-group-nsg-using-terraform-3p01)
+- [API and SDK, What Are These Two Terms Actually?](https://dev.to/ohdylan/api-and-sdk-what-are-these-two-terms-actually-1ad8)
+- [Exploring the Journey of Aniruddha Adak: A Tech Enthusiast and Innovator](https://dev.to/aniruddhaadak_/exploring-the-journey-of-aniruddha-adak-a-tech-enthusiast-and-innovator-by-sciraai-1ip9)
+- [📦WebSocket Broadcasting with hyperlane](https://dev.to/_95e41982c9ad08a13458d/websocket-broadcasting-with-hyperlane-b9a)
+- [🚀 Streamlining Infrastructure Management and Enhancing End User Geolocation with AWS ECS, Lambda, and CloudFront](https://dev.to/shivasaipeddy/streamlining-infrastructure-management-and-enhancing-end-user-geolocation-with-aws-ecs-lambda-i1o)
 <!-- BLOG-POST-LIST:END -->
 
 
