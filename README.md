@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🟦 Hey AI, Is This Question Too Sensitive?](https://dev.to/uka_aidev/hey-ai-is-this-question-too-sensitive-fe8)
-- [Speed It Up: Hacks and Plugins to Cut Design Time in Half](https://dev.to/atforeveryoung/speed-it-up-hacks-and-plugins-to-cut-design-time-in-half-4a51)
-- [Reach Hooks Beginner to Advanced](https://dev.to/suchintan/reach-hooks-beginner-to-advanced-3e04)
-- [Learning Elixir: Pipe Operator](https://dev.to/abreujp/learning-elixir-pipe-operator-58a8)
+- [ForskScope &lpar;diff viewer&rpar; 0.22 is in AUR](https://dev.to/nabbisen/forskscope-diff-viewer-022-is-in-aur-3p2j)
+- [Common DevOps Mishaps and Lessons Learned](https://dev.to/sameerimtiaz/common-devops-mishaps-and-lessons-learned-4ihn)
+- [Untitled](https://dev.to/shamir_hussain_441bd087f1/untitled-8d2)
+- [Deploying Apps Without Losing Your Mind](https://dev.to/yaser/deploying-apps-without-losing-your-mind-3d54)
 <!-- BLOG-POST-LIST:END -->
 
 
