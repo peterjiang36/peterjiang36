@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
-- [Most Important DWDM questions in MAKAUT exam](https://dev.to/aniruddhaadak_/most-important-dwdm-questions-in-makaut-exam-1g42)
-- [Distributed Systems | What can we learn from Roblox&#39;s 3-day outage?](https://dev.to/zhijunl/distributed-systems-what-can-we-learn-from-robloxs-3-day-outage-4p5g)
-- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-37mn)
+- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-1-bfn)
+- [My JSON-LD Screamed the Truth. The AIs? Not So Much.](https://dev.to/gokerdev/my-json-ld-screamed-the-truth-the-ais-not-so-much-7m0)
+- [PK36 App – An AI-Powered Tool for Smarter App Development](https://dev.to/xuhi_xohayb_606bcb34260cb/pk36-app-an-ai-powered-tool-for-smarter-app-development-1mg1)
+- [Deploy an Azure VM with Network Security Group &lpar;NSG&rpar; using Terraform](https://dev.to/smallsun2025/deploy-an-azure-vm-with-network-security-group-nsg-using-terraform-3p01)
 <!-- BLOG-POST-LIST:END -->
 
 
