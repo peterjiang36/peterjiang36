@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Essential Network Protocols Every Developer Should Know](https://dev.to/kalana250/8-essential-network-protocols-every-developer-should-know-1ep9)
+- [Supabase WordPress Integration - Save Data to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-save-data-to-supabase-2b89)
 - [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
 - [Alternative to Mailchimp vs MailerLite Comparison](https://dev.to/charlesmudy/alternative-to-mailchimp-vs-mailerlite-comparison-141i)
-- [Firebase Functions: Real-Time Apps That Scale Like Magic &lpar;Without the Server Headaches&rpar; ✨🚀](https://dev.to/alex_aslam/firebase-functions-real-time-apps-that-scale-like-magic-without-the-server-headaches-cbk)
-- [sync or channel? The Right Choice for Go Synchronization](https://dev.to/leapcell/sync-or-channel-the-right-choice-for-go-synchronization-2m7i)
 <!-- BLOG-POST-LIST:END -->
 
 
