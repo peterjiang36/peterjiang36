@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Lessons on Keeping Legal Data Safe When Installing Clio, MyCase, and LexisNexis — Especially On-Premises](https://dev.to/kedster/personal-lessons-on-keeping-legal-data-safe-when-installing-clio-mycase-and-lexisnexis--8a0)
-- [🚀 Milestone Reached: 1,000 Installs on Google Play](https://dev.to/codignia/milestone-reached-1000-installs-on-google-play-2dig)
-- [Terminally in Love: Two Decades of Linux, One Shell at a Time](https://dev.to/muralipala/terminally-in-love-two-decades-of-linux-one-shell-at-a-time-5d4j)
-- [Unleashing AI to Hunt Down Database Code Leaks in Go](https://dev.to/shrsv/unleashing-ai-to-hunt-down-database-code-leaks-in-go-b2)
+- [Introducing Jawbone Sockets](https://dev.to/thebuzzsaw/introducing-jawbone-sockets-ah0)
+- [Building an AI Assistant with Ollama and Next.js – Part 3 &lpar;RAG with LangChain, Pinecone and Ollama&rpar;](https://dev.to/abayomijohn273/building-an-ai-assistant-with-ollama-and-nextjs-part-3-rag-with-langchain-pinecone-and-ollama-dja)
+- [Whispers of Winter&#39;s Charm](https://dev.to/palak_singla_ae13e55615a4/whispers-of-winters-charm-159h)
+- [Harmony in School Halls](https://dev.to/palak_singla_ae13e55615a4/harmony-in-school-halls-49a2)
 <!-- BLOG-POST-LIST:END -->
 
 
