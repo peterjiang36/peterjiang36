@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL for Dummies &lpar;in 3min&rpar;](https://dev.to/dehemi_fabio/graphql-for-dummies-in-3min-55jk)
-- [Building a Lightweight Remote Gradio MCP Server with DuckDuckGo Search](https://dev.to/0xkoji/building-a-lightweight-remote-gradio-mcp-server-with-duckduckgo-search-fd6)
-- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
-- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
+- [POSTGRESQL DB IN PYTHON](https://dev.to/john_analytics/postgresql-db-in-python-1a88)
+- [[Node.js] How to Use Promises in a Callback-based Codebase](https://dev.to/gaurang847/nodejs-how-to-use-promises-in-a-callback-based-codebase-1a07)
+- [😍Amazing Useful Features Recently Added To Best Code To Image Generator App](https://dev.to/myogeshchavan97/amazing-useful-features-recently-added-to-best-code-to-image-generator-app-59lg)
+- [Lazy Loading Isn’t Just for Images: What Else Can You Delay?](https://dev.to/javascriptwizzard/lazy-loading-isnt-just-for-images-what-else-can-you-delay-4ehg)
 <!-- BLOG-POST-LIST:END -->
 
 
