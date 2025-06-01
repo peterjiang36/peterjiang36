@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner-Friendly Guide to Solving &quot;Distribute Candies Among Children II&quot; | LeetCode 2929 Explained &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-distribute-candies-among-children-ii-leetcode-2929-explained-33im)
-- [Uygulama Durumunu Yönetmek](https://dev.to/yunus_emremert_1756b71d3/uygulama-durumunu-yonetmek-dg2)
-- [Mi primer post en DEV.to: Así llegué a la plataforma](https://dev.to/jrgil20/mi-primer-post-en-devto-asi-llegue-a-la-plataforma-18g7)
-- [2929. Distribute Candies Among Children II](https://dev.to/mdarifulhaque/2929-distribute-candies-among-children-ii-3f3k)
+- [Obtenha Emojis via Linha de Comando](https://dev.to/marcosplusplus/obtenha-emojis-via-linha-de-comando-4cbh)
+- [Get Emojis via Command Line](https://dev.to/marcosplusplus/get-emojis-via-command-line-1h3d)
+- [A beginner&#39;s guide to the Ltx-Video-0.9.7 model by Lightricks on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ltx-video-097-model-by-lightricks-on-replicate-34k)
+- [Quantum Financial System vs. Traditional Banking: A Comparative Analysis](https://dev.to/api_builder_01/quantum-financial-system-vs-traditional-banking-a-comparative-analysis-2bk7)
 <!-- BLOG-POST-LIST:END -->
 
 
