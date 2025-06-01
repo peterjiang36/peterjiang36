@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve reached Phase 2, often called the &#39;Cliff of Confusion.&#39; I began learning last year and picked up some HTML and CSS, but I realized my knowledge was still limited. When I tried taking on a client project, they asked me to use Node.js, which I hadn’t le](https://dev.to/lester2027/ive-reached-phase-2-often-called-the-cliff-of-confusion-i-began-learning-last-year-and-picked-28dd)
-- [Building a Tetris Game with Python and Pygame](https://dev.to/aws-builders/building-a-tetris-game-with-python-and-pygame-40pf)
-- [15 Must-Know Coding Patterns to Ace Your Tech Interview &lpar;with Resources&rpar;](https://dev.to/somadevtoo/15-must-know-coding-patterns-to-ace-your-tech-interview-with-resources-1c8k)
-- [Monoliths vs. Microservices: The Brutally Honest Guide to Splitting Your App &lpar;Without Regrets&rpar; ⚖️💥](https://dev.to/alex_aslam/monoliths-vs-microservices-the-brutally-honest-guide-to-splitting-your-app-without-regrets-1m2m)
+- [🟦 Hey AI, Is This Question Too Sensitive?](https://dev.to/uka_aidev/hey-ai-is-this-question-too-sensitive-fe8)
+- [Speed It Up: Hacks and Plugins to Cut Design Time in Half](https://dev.to/atforeveryoung/speed-it-up-hacks-and-plugins-to-cut-design-time-in-half-4a51)
+- [Reach Hooks Beginner to Advanced](https://dev.to/suchintan/reach-hooks-beginner-to-advanced-3e04)
+- [Learning Elixir: Pipe Operator](https://dev.to/abreujp/learning-elixir-pipe-operator-58a8)
 <!-- BLOG-POST-LIST:END -->
 
 
