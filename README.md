@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Essential Network Protocols Every Developer Should Know](https://dev.to/kalana250/8-essential-network-protocols-every-developer-should-know-1ep9)
-- [Supabase WordPress Integration - Save Data to Supabase](https://dev.to/dalenguyen/supabase-wordpress-integration-save-data-to-supabase-2b89)
-- [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
-- [Alternative to Mailchimp vs MailerLite Comparison](https://dev.to/charlesmudy/alternative-to-mailchimp-vs-mailerlite-comparison-141i)
+- [Beginner-Friendly Guide to Solving &quot;Distribute Candies Among Children II&quot; | LeetCode 2929 Explained &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-distribute-candies-among-children-ii-leetcode-2929-explained-33im)
+- [Uygulama Durumunu Yönetmek](https://dev.to/yunus_emremert_1756b71d3/uygulama-durumunu-yonetmek-dg2)
+- [Mi primer post en DEV.to: Así llegué a la plataforma](https://dev.to/jrgil20/mi-primer-post-en-devto-asi-llegue-a-la-plataforma-18g7)
+- [2929. Distribute Candies Among Children II](https://dev.to/mdarifulhaque/2929-distribute-candies-among-children-ii-3f3k)
 <!-- BLOG-POST-LIST:END -->
 
 
