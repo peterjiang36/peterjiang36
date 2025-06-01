@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Whatsapp UI Clone](https://dev.to/preetha_vaishnavi_2b82358/whatsapp-ui-clone-h95)
-- [How to Implement API Rate Limiting in .NET](https://dev.to/shreyans_padmani/how-to-implement-api-rate-limiting-in-net-4mn1)
-- [Preloader Animation CSS3](https://dev.to/preetha_vaishnavi_2b82358/preloader-animation-css3-2ic)
-- [🚀 Beginner’s Guide to Digital Marketing in 2025: Start From Scratch &amp; Grow Fast](https://dev.to/preet_kumar_72363b5b86423/beginners-guide-to-digital-marketing-in-2025-start-from-scratch-grow-fast-1aid)
+- [I’ve reached Phase 2, often called the &#39;Cliff of Confusion.&#39; I began learning last year and picked up some HTML and CSS, but I realized my knowledge was still limited. When I tried taking on a client project, they asked me to use Node.js, which I hadn’t le](https://dev.to/lester2027/ive-reached-phase-2-often-called-the-cliff-of-confusion-i-began-learning-last-year-and-picked-28dd)
+- [Building a Tetris Game with Python and Pygame](https://dev.to/aws-builders/building-a-tetris-game-with-python-and-pygame-40pf)
+- [15 Must-Know Coding Patterns to Ace Your Tech Interview &lpar;with Resources&rpar;](https://dev.to/somadevtoo/15-must-know-coding-patterns-to-ace-your-tech-interview-with-resources-1c8k)
+- [Monoliths vs. Microservices: The Brutally Honest Guide to Splitting Your App &lpar;Without Regrets&rpar; ⚖️💥](https://dev.to/alex_aslam/monoliths-vs-microservices-the-brutally-honest-guide-to-splitting-your-app-without-regrets-1m2m)
 <!-- BLOG-POST-LIST:END -->
 
 
