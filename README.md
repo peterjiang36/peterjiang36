@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ForskScope &lpar;diff viewer&rpar; 0.22 is in AUR](https://dev.to/nabbisen/forskscope-diff-viewer-022-is-in-aur-3p2j)
-- [Common DevOps Mishaps and Lessons Learned](https://dev.to/sameerimtiaz/common-devops-mishaps-and-lessons-learned-4ihn)
-- [Untitled](https://dev.to/shamir_hussain_441bd087f1/untitled-8d2)
-- [Deploying Apps Without Losing Your Mind](https://dev.to/yaser/deploying-apps-without-losing-your-mind-3d54)
+- [Como transformar seu freelancing em um negócio escalável 🚀](https://dev.to/albericojr/como-transformar-seu-freelancing-em-um-negocio-escalavel-joi)
+- [Most Important DWDM questions in MAKAUT exam](https://dev.to/aniruddhaadak_/most-important-dwdm-questions-in-makaut-exam-1g42)
+- [Distributed Systems | What can we learn from Roblox&#39;s 3-day outage?](https://dev.to/zhijunl/distributed-systems-what-can-we-learn-from-robloxs-3-day-outage-4p5g)
+- [Project KARL AI](https://dev.to/theaniketraj/project-karl-ai-37mn)
 <!-- BLOG-POST-LIST:END -->
 
 
