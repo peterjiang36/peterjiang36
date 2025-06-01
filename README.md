@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check How LTM is very important and useful](https://dev.to/grenishrai/check-how-ltm-is-very-important-and-useful-2b4m)
-- [231/365 | ¥10M Job Challenge - From vague to clear](https://dev.to/tenshokukame/231365-y10m-job-challenge-from-vague-to-clear-1k5m)
-- [How to Replace 5 Different Tools with One Workflow in Svalync](https://dev.to/svalync/how-to-replace-5-different-tools-with-one-workflow-in-svalync-4idd)
-- [From Stateless to Smart: The Role of LTM and MCP in Next-Gen AI](https://dev.to/grenishrai/from-stateless-to-smart-the-role-of-ltm-and-mcp-in-next-gen-ai-46bp)
+- [Top AI 3D Model Generators in 2025: Revolutionizing 3D Creation](https://dev.to/lokeshjoshi/top-ai-3d-model-generators-in-2025-revolutionizing-3d-creation-5fa8)
+- [Using Odoo as a Backend: Module Setup, API Access, and curl Commands](https://dev.to/maurice_ombewa_21d073ef7a/using-odoo-as-a-backend-module-setup-api-access-and-curl-commands-1dia)
+- [PKI Demystified: From That Green Lock to Digital Trust](https://dev.to/stkisengese/pki-demystified-from-that-green-lock-to-digital-trust-1opi)
+- [Clean Architecture in Front-End Development](https://dev.to/miasalazar/clean-architecture-in-front-end-development-523n)
 <!-- BLOG-POST-LIST:END -->
 
 
