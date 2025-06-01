@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Policy Management in HCP Terraform with the Policysets Module](https://dev.to/quixoticmonk/simplifying-policy-management-in-hcp-terraform-with-the-policysets-module-4pg3)
-- [Building Reliable Workflows with Serverless JavaScript](https://dev.to/restdbjones/building-reliable-workflows-with-serverless-javascript-44e8)
-- [🧱 Building a Front-End Web App in 2025: What You Actually Need](https://dev.to/er-raj-aryan/building-a-front-end-web-app-in-2025-what-you-actually-need-5b68)
-- [Introducing Jawbone Sockets](https://dev.to/thebuzzsaw/introducing-jawbone-sockets-ah0)
+- [🧪 Managing Machine Learning Experiments with MLflow and Weights &amp; Biases &lpar;W&amp;B&rpar;](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3h5p)
+- [🚀 Check Out My AI Portfolio — Projects, Resume, and More!](https://dev.to/fahadabid545/check-out-my-ai-portfolio-projects-resume-and-more-3k6f)
+- [Answers to the GitHub Foundation Quiz](https://dev.to/sabghat90/answers-to-the-github-foundation-quiz-2fjd)
+- [Flappy bird game](https://dev.to/chinmay_8c061dc4f93b7db7f/flappy-bird-game-55m7)
 <!-- BLOG-POST-LIST:END -->
 
 
