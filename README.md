@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Discovers Over One Million New Species, Transforming Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/ai-discovers-over-one-million-new-species-transforming-drug-discovery-1lo2)
-- [Visualizing Options Market Data in Python: Implied Volatility, Open Interest, and Max Pain](https://dev.to/dm8ry/visualizing-options-market-data-in-python-implied-volatility-open-interest-and-max-pain-4emd)
-- [⚙️ 10 More Fast-Build AI Database Ideas to Dominate a Niche &lpar;and Monetize Like a Pro&rpar;](https://dev.to/abubakersiddique761/10-more-fast-build-ai-database-ideas-to-dominate-a-niche-and-monetize-like-a-pro-1kee)
-- [OPPO Reno13 5G Review Indonesia](https://dev.to/populer24/membahas-hp-oppo-reno13-5g-indonesia-4n16)
+- [Personal Lessons on Keeping Legal Data Safe When Installing Clio, MyCase, and LexisNexis — Especially On-Premises](https://dev.to/kedster/personal-lessons-on-keeping-legal-data-safe-when-installing-clio-mycase-and-lexisnexis--8a0)
+- [🚀 Milestone Reached: 1,000 Installs on Google Play](https://dev.to/codignia/milestone-reached-1000-installs-on-google-play-2dig)
+- [Terminally in Love: Two Decades of Linux, One Shell at a Time](https://dev.to/muralipala/terminally-in-love-two-decades-of-linux-one-shell-at-a-time-5d4j)
+- [Unleashing AI to Hunt Down Database Code Leaks in Go](https://dev.to/shrsv/unleashing-ai-to-hunt-down-database-code-leaks-in-go-b2)
 <!-- BLOG-POST-LIST:END -->
 
 
