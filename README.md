@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 12/30 - git push --force-with-lease – Safer alternative to --force](https://dev.to/ruqaiya_beguwala/day-1230-git-push-force-with-lease-safer-alternative-to-force-5fc)
-- [Autoscaling in Azure: A Hands-On Example](https://dev.to/sandrabrown/autoscaling-in-azure-a-hands-on-example-1l7b)
-- [JavaScript’s not-so-obvious type coercion examples](https://dev.to/saboor_bhutta/javascripts-not-so-obvious-type-coercion-examples-1lio)
-- [AccuWeb Hosting vs SiteGround in 2025: Which Shared Host Actually Gives You More?](https://dev.to/thehostingguide/accuweb-hosting-vs-siteground-in-2025-which-shared-host-actually-gives-you-more-2585)
+- [Top 4 AI startups to watch in 2025](https://dev.to/envitab/top-4-ai-startups-to-watch-in-2025-mf4)
+- [I built a side project with a friend — and it’s way better than working alone.](https://dev.to/loicboset/i-built-a-side-project-with-a-friend-and-its-way-better-than-working-alone-1md5)
+- [Enhancing SQL INSERT INTO Performance: Tips and Tools](https://dev.to/dbvismarketing/enhancing-sql-insert-into-performance-tips-and-tools-kl6)
+- [Core Java Data Types – For Beginner&#39;s](https://dev.to/pumpkin1996/core-java-data-types-for-beginners-n3g)
 <!-- BLOG-POST-LIST:END -->
 
 
