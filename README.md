@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stuck with no native integration? Here’s your cheat code. I just dropped a quick guide on using HTTP Requests in n8n to connect any app with an API. Real use cases, zero fluff.](https://dev.to/brains_behind_bots/stuck-with-no-native-integration-heres-your-cheat-code-i-just-dropped-a-quick-guide-on-using-3a1j)
-- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
-- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
-- [What Do We Mean When We Say DeepSeek ‘Thinks’?](https://dev.to/fonyuygita/what-do-we-mean-when-we-say-deepseek-thinks-35b0)
+- [12 Advanced TypeScript Tricks Every Developer Should Know](https://dev.to/elfrontend/12-advanced-typescript-tricks-every-developer-should-know-3dn8)
+- [Caching in Go: Doing It Right](https://dev.to/leapcell/caching-in-go-doing-it-right-25i5)
+- [🚀 I Built 4 Free Frontend Tools for Developers &lpar;Box Shadow, Meta Preview &amp; more&rpar;](https://dev.to/fatihkrkci/i-built-4-free-frontend-tools-for-developers-box-shadow-meta-preview-more-4f08)
+- [Green Coding Building a Sustainable Future with Software](https://dev.to/animesh8349/green-coding-building-a-sustainable-future-with-software-4inl)
 <!-- BLOG-POST-LIST:END -->
 
 
