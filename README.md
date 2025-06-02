@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Vibe Coding Every Damn Time!](https://dev.to/adityaoberai/stop-vibe-coding-every-damn-time-5fj2)
-- [Building Accessible Forms with Angular](https://dev.to/lxt/building-accessible-forms-with-angular-38ii)
-- [SaaS Pricing Page Design: Best Practices for Higher Conversion Rates](https://dev.to/lollypopdesign/saas-pricing-page-design-best-practices-for-higher-conversion-rates-3fgp)
-- [Weight Loss Starts on Your Plate: Powered by Bluepill Express](https://dev.to/bluepills_7db609523d5027d/weight-loss-starts-on-your-plate-powered-by-bluepill-express-2pg7)
+- [Web Development Week 6](https://dev.to/upinar/web-development-week-6-341l)
+- [What is User and Entity Behavior Analytics? &lpar;UEBA&rpar;](https://dev.to/clouddefenseai/what-is-user-and-entity-behavior-analytics-ueba-1oh2)
+- [[Boost]](https://dev.to/nikuamit/-3m4o)
+- [Type Casting](https://dev.to/mohamed_abdullah_5ffbf6b6/type-casting-3ikk)
 <!-- BLOG-POST-LIST:END -->
 
 
