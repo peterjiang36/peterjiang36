@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Advanced TypeScript Tricks Every Developer Should Know](https://dev.to/elfrontend/12-advanced-typescript-tricks-every-developer-should-know-3dn8)
-- [Caching in Go: Doing It Right](https://dev.to/leapcell/caching-in-go-doing-it-right-25i5)
-- [🚀 I Built 4 Free Frontend Tools for Developers &lpar;Box Shadow, Meta Preview &amp; more&rpar;](https://dev.to/fatihkrkci/i-built-4-free-frontend-tools-for-developers-box-shadow-meta-preview-more-4f08)
-- [Green Coding Building a Sustainable Future with Software](https://dev.to/animesh8349/green-coding-building-a-sustainable-future-with-software-4inl)
+- [Mini Search engine](https://dev.to/melody_kelly_n/mini-search-engine-5g26)
+- [AI Simulates 500 Million Years of Evolution to Create a Novel Fluorescent Protein](https://dev.to/maurizio_morri_f7f4bd128c/ai-simulates-500-million-years-of-evolution-to-create-a-novel-fluorescent-protein-1nf4)
+- [How to keep unread notifications relevant](https://dev.to/denissudak/how-to-keep-unread-notifications-relevant-48b9)
+- [Public Wi-Fi Safety: How to Browse Securely on the Go](https://dev.to/terminaltools/public-wi-fi-safety-how-to-browse-securely-on-the-go-1jaa)
 <!-- BLOG-POST-LIST:END -->
 
 
