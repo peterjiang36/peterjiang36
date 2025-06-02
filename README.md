@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Is Waiting for You: How to Stop Being Afraid and Start Contributing](https://dev.to/dimatitov/open-source-is-waiting-for-you-how-to-stop-being-afraid-and-start-contributing-1n2n)
-- [🔥 FastAPI in Production: Build, Scale &amp; Deploy – Series A: Codebase Design](https://dev.to/mrchike/fastapi-in-production-build-scale-deploy-series-a-codebase-design-ao3)
-- [HA/DR for Developers: Building Resilient Systems Without Losing Sleep](https://dev.to/jamesrcounts/hadr-for-developers-building-resilient-systems-without-losing-sleep-f8m)
-- [Play with BSD in 2025](https://dev.to/pandito___/play-with-bsd-in-2025-2fd5)
+- [Web Mimarisi: Gelecek Artık Burada](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecek-artik-burada-4p3k)
+- [Porque Flask é o framework mais didático que já existiu](https://dev.to/vitormours/porque-flask-e-o-framework-mais-didatico-que-ja-existiu-2n7l)
+- [Week 2 of Learning Rust: Tuples, Enums &amp; Control Flow](https://dev.to/lymah/week-2-of-learning-rust-tuples-enums-control-flow-4m2c)
+- [🛡️ Blocking Admin SSH Logins with SELinux &lpar;`ssh_sysadm_login`&rpar;](https://dev.to/sebos/blocking-admin-ssh-logins-with-selinux-sshsysadmlogin-4ilj)
 <!-- BLOG-POST-LIST:END -->
 
 
