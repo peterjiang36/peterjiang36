@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Composant Stepper avec RiotJS](https://dev.to/steeve/composant-stepper-avec-riotjs-2e5d)
-- [It’s Time to Separate: Lint and Format](https://dev.to/ijlee2/its-time-to-separate-lint-and-format-1oef)
-- [Building the Future of Polkadot Development: Why PAPI Simulator&#39;s Community Templates Are Revolutionary](https://dev.to/codingsh/building-the-future-of-polkadot-development-why-papi-simulators-community-templates-are-3o0h)
-- [From Setback to Comeback: Starting my Journey into Coding](https://dev.to/rediato/from-setback-to-comeback-starting-my-journey-into-coding-olb)
+- [I vibe-coded a $20M YC app in a weekend, here&#39;s how🧙‍♂️ 🪄](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
+- [🔧 11 Ways to Improve Your LLMService Class for Scalable AI](https://dev.to/mrzaizai2k/11-ways-to-improve-your-llmservice-class-for-scalable-ai-1g8k)
+- [Why I&#39;m Using LocalStack in My Project &lpar;And Why You Might Want to Too&rpar;](https://dev.to/mspilari/why-im-using-localstack-in-my-project-and-why-you-might-want-to-too-2ef9)
+- [Cómo escribir DTOs en Java](https://dev.to/asjordi/como-escribir-dtos-en-java-1b02)
 <!-- BLOG-POST-LIST:END -->
 
 
