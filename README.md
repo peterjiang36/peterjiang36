@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 AI startups to watch in 2025](https://dev.to/envitab/top-4-ai-startups-to-watch-in-2025-mf4)
-- [I built a side project with a friend — and it’s way better than working alone.](https://dev.to/loicboset/i-built-a-side-project-with-a-friend-and-its-way-better-than-working-alone-1md5)
-- [Enhancing SQL INSERT INTO Performance: Tips and Tools](https://dev.to/dbvismarketing/enhancing-sql-insert-into-performance-tips-and-tools-kl6)
-- [Core Java Data Types – For Beginner&#39;s](https://dev.to/pumpkin1996/core-java-data-types-for-beginners-n3g)
+- [Transactional Messaging in .NET: Integrating Brighter’s Outbox Pattern with SQL Server and RabbitMQ](https://dev.to/actor-dev/transactional-messaging-in-net-integrating-brighters-outbox-pattern-with-sql-server-and-rabbitmq-58gm)
+- [Mensageria Transacional no .NET: Integrando o Padrão Outbox do Brighter com SQL Server e RabbitMQ](https://dev.to/actor-dev/mensageria-transacional-no-net-integrando-o-padrao-outbox-do-brighter-com-sql-server-e-rabbitmq-21g0)
+- [Get Real-Time Security Alerts: Integrating Fail2Ban with Microsoft Teams 🛡️](https://dev.to/3y3skill3r/get-real-time-security-alerts-integrating-fail2ban-with-microsoft-teams-2lei)
+- [Great style guides help teams ship faster.](https://dev.to/rkoots/great-style-guides-help-teams-ship-faster-2bp4)
 <!-- BLOG-POST-LIST:END -->
 
 
