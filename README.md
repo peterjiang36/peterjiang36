@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Counter Smart Contract in Solidity](https://dev.to/karthikaaax/build-a-simple-counter-smart-contract-in-solidity-emg)
-- [Opera Neon 2025: AI-Powered Browser Redefining Web Browsing](https://dev.to/khankhan/opera-neon-2025-ai-powered-browser-redefining-web-browsing-hfc)
-- [Crypto Borrow on WhiteBIT: A Practical Tool for Developers Working with Digital Assets](https://dev.to/alexnav/crypto-borrow-on-whitebit-a-practical-tool-for-developers-working-with-digital-assets-2n71)
-- [Day-23 I Built a Colorful Random Number Guessing Game with JavaScript!](https://dev.to/tamilselvan1812/i-built-a-colorful-random-number-guessing-game-with-javascript-3i18)
+- [🧭 Mastering Command Line Navigation: The Essentials](https://dev.to/1suleyman/mastering-command-line-navigation-the-essentials-29jh)
+- [Writing Modular and Scalable Services with NestJS](https://dev.to/niel_morphius/writing-modular-and-scalable-services-with-nestjs-561i)
+- [Bed Day. Again.](https://dev.to/stacy_cash/bed-day-again-3k2b)
+- [Creating a Custom Map From Images in Leaflet](https://dev.to/jereme/creating-a-custom-map-from-images-in-leaflet-3l1m)
 <!-- BLOG-POST-LIST:END -->
 
 
