@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [edgedb-mcp-server](https://dev.to/y_alik_4cebfbaab775de2c3e/edgedb-mcp-server-1lda)
-- [Build a Conversational AI Fandom APP](https://dev.to/susiewang/build-a-conversational-ai-fandom-app-465e)
-- [🌍 Cómo configurar un Balanceador de Carga de Aplicaciones con Escalado Automático en Google Cloud](https://dev.to/robertdev/como-configurar-un-balanceador-de-carga-de-aplicaciones-con-escalado-automatico-en-google-cloud-kme)
-- [Still working on the river tiles](https://dev.to/magipunk/still-working-on-the-river-tiles-4gf7)
+- [🚀 Building World-Class Multi-Platform Apps: The Ultimate Tech Stack for 2025](https://dev.to/mwacharo6/building-world-class-multi-platform-apps-the-ultimate-tech-stack-for-2025-3bc5)
+- [🌟 Day 10 – Mastering LangChain: What 9 Days Taught Us](https://dev.to/aws-builders/day-10-mastering-langchain-what-9-days-taught-us-50bb)
+- [🔥 I Tried React 19 So You Don’t Have To — But You’ll Definitely Want To After This!](https://dev.to/er-raj-aryan/i-tried-react-19-so-you-dont-have-to-but-youll-definitely-want-to-after-this-1m56)
+- [Linear Algebra for Machine Learning: A Practical Guide](https://dev.to/dev_patel_35864ca1db6093c/linear-algebra-for-machine-learning-a-practical-guide-15ma)
 <!-- BLOG-POST-LIST:END -->
 
 
