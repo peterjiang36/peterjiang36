@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind Open-Sources AlphaFold 3: A New Era for AI-Driven Biology and Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/deepmind-open-sources-alphafold-3-a-new-era-for-ai-driven-biology-and-drug-discovery-4pc2)
-- [“Notary Near Me” Searches Soar in Brampton: Here’s Why](https://dev.to/future_academic_886bac731/notary-near-me-searches-soar-in-brampton-heres-why-310)
-- [MicroFrontend: integración sin host — prácticas y configuración](https://dev.to/miguelquispe/microfrontend-integracion-sin-host-practicas-y-configuracion-42g8)
-- [Smartchat AI Assistant with Plugin System](https://dev.to/adesh_mishra_07/smartchat-ai-assistant-with-plugin-system-5d9p)
+- [Stuck with no native integration? Here’s your cheat code. I just dropped a quick guide on using HTTP Requests in n8n to connect any app with an API. Real use cases, zero fluff.](https://dev.to/brains_behind_bots/stuck-with-no-native-integration-heres-your-cheat-code-i-just-dropped-a-quick-guide-on-using-3a1j)
+- [Mastering HTTP Requests in n8n: The Key to Connecting Any App &amp; Automating Anything](https://dev.to/brains_behind_bots/mastering-http-requests-in-n8n-the-key-to-connecting-any-app-automating-anything-gm3)
+- [Java proxy for overlapping interfaces](https://dev.to/denissudak/java-proxy-for-overlapping-interfaces-19p7)
+- [What Do We Mean When We Say DeepSeek ‘Thinks’?](https://dev.to/fonyuygita/what-do-we-mean-when-we-say-deepseek-thinks-35b0)
 <!-- BLOG-POST-LIST:END -->
 
 
