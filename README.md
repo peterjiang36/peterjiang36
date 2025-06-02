@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked Phind and Copilot to Solve a LeetCode-Like Interview Exercise—Their Solutions Surprised Me](https://dev.to/canro91/i-asked-phind-and-copilot-to-solve-a-leetcode-like-interview-exercise-their-solutions-surprised-me-2pp6)
-- [The Abstraction That Hid the Only Logic That Mattered](https://dev.to/duplessisvanaswegen/the-abstraction-that-hid-the-only-logic-that-mattered-14hg)
-- [[Boost]](https://dev.to/pranesh_patel/-1bfh)
-- [Web3 Social Media Will Fail — Because Most People Don’t Want to Own Their Data](https://dev.to/favebs/web3-social-media-will-fail-because-most-people-dont-want-to-own-their-data-525k)
+- [Day 12/30 - git push --force-with-lease – Safer alternative to --force](https://dev.to/ruqaiya_beguwala/day-1230-git-push-force-with-lease-safer-alternative-to-force-5fc)
+- [Autoscaling in Azure: A Hands-On Example](https://dev.to/sandrabrown/autoscaling-in-azure-a-hands-on-example-1l7b)
+- [JavaScript’s not-so-obvious type coercion examples](https://dev.to/saboor_bhutta/javascripts-not-so-obvious-type-coercion-examples-1lio)
+- [AccuWeb Hosting vs SiteGround in 2025: Which Shared Host Actually Gives You More?](https://dev.to/thehostingguide/accuweb-hosting-vs-siteground-in-2025-which-shared-host-actually-gives-you-more-2585)
 <!-- BLOG-POST-LIST:END -->
 
 
