@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The Ultimate Beginner&#39;s Guide to Learning Programming with HTML &amp; CSS in 2025&quot;](https://dev.to/jayswebdev83/the-ultimate-beginners-guide-to-learning-programming-with-html-css-in-2025-3eep)
-- [Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide](https://dev.to/drupaladmin/understanding-and-inspecting-indexes-in-mysql-a-comprehensive-guide-2mlo)
-- [Quarkus - Java for Kubernetes](https://dev.to/ritabratadas343/quarkus-java-for-kubernetes-113a)
-- [Pirâmide de Testes: Do Unitário ao E2E - Introdução](https://dev.to/stephanto/piramide-de-testes-do-unitario-ao-e2e-introducao-5f0)
+- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
+- [A Detailed Explanation of the Timer in the HarmonyOS Cangjie development Language](https://dev.to/youlanjihua/a-detailed-explanation-of-the-timer-in-the-harmonyos-cangjie-development-language-3m1p)
+- [Como eu trampei 7 meses de graça com PHP pra receber 700 reais](https://dev.to/gustavodevdoido/como-eu-trampei-7-meses-de-graca-com-php-pra-receber-700-reais-emj)
+- [Hallucinating with Q: deep conversations at midnight](https://dev.to/agi_general/hallucinating-with-q-deep-conversations-at-midnight-4hjm)
 <!-- BLOG-POST-LIST:END -->
 
 
