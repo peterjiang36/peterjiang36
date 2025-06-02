@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Mimarisi: Gelecek Artık Burada](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecek-artik-burada-4p3k)
-- [Porque Flask é o framework mais didático que já existiu](https://dev.to/vitormours/porque-flask-e-o-framework-mais-didatico-que-ja-existiu-2n7l)
-- [Week 2 of Learning Rust: Tuples, Enums &amp; Control Flow](https://dev.to/lymah/week-2-of-learning-rust-tuples-enums-control-flow-4m2c)
-- [🛡️ Blocking Admin SSH Logins with SELinux &lpar;`ssh_sysadm_login`&rpar;](https://dev.to/sebos/blocking-admin-ssh-logins-with-selinux-sshsysadmlogin-4ilj)
+- [edgedb-mcp-server](https://dev.to/y_alik_4cebfbaab775de2c3e/edgedb-mcp-server-1lda)
+- [Build a Conversational AI Fandom APP](https://dev.to/susiewang/build-a-conversational-ai-fandom-app-465e)
+- [🌍 Cómo configurar un Balanceador de Carga de Aplicaciones con Escalado Automático en Google Cloud](https://dev.to/robertdev/como-configurar-un-balanceador-de-carga-de-aplicaciones-con-escalado-automatico-en-google-cloud-kme)
+- [Still working on the river tiles](https://dev.to/magipunk/still-working-on-the-river-tiles-4gf7)
 <!-- BLOG-POST-LIST:END -->
 
 
