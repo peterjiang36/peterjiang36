@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3](https://dev.to/thankamatho/day-3-11fj)
-- [Built an AI-powered Shopify app that lets merchants create upsell rules using natural language](https://dev.to/pr135t/built-an-ai-powered-shopify-app-that-lets-merchants-create-upsell-rules-using-natural-language-16h)
-- [LIT PLAYER YOUTUBE](https://dev.to/leonardo_leal_224c2d052f5/lit-player-youtube-764)
-- [Build an LLM Web App in Python from Scratch: Part 1 &lpar;Local CLI&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-1-local-cli-4824)
+- [Open Source Is Waiting for You: How to Stop Being Afraid and Start Contributing](https://dev.to/dimatitov/open-source-is-waiting-for-you-how-to-stop-being-afraid-and-start-contributing-1n2n)
+- [🔥 FastAPI in Production: Build, Scale &amp; Deploy – Series A: Codebase Design](https://dev.to/mrchike/fastapi-in-production-build-scale-deploy-series-a-codebase-design-ao3)
+- [HA/DR for Developers: Building Resilient Systems Without Losing Sleep](https://dev.to/jamesrcounts/hadr-for-developers-building-resilient-systems-without-losing-sleep-f8m)
+- [Play with BSD in 2025](https://dev.to/pandito___/play-with-bsd-in-2025-2fd5)
 <!-- BLOG-POST-LIST:END -->
 
 
