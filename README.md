@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction](https://dev.to/bananawinter19/introduction-26ln)
-- [Load balancing multiple Rathole tunnels with Traefik HTTP and TCP routers](https://dev.to/nemanjam/title-load-balancing-multiple-rathole-tunnels-with-traefik-http-and-tcp-routers-2jo8)
-- [Encoding Corpus](https://dev.to/datatoinfinity/encoding-corpus-3nal)
-- [How LLM innovations help Voice AI agents in healthcare?](https://dev.to/ciphernutz/how-llm-innovations-help-voice-ai-agents-in-healthcare-4cji)
+- [Stop Vibe Coding Every Damn Time!](https://dev.to/adityaoberai/stop-vibe-coding-every-damn-time-5fj2)
+- [Building Accessible Forms with Angular](https://dev.to/lxt/building-accessible-forms-with-angular-38ii)
+- [SaaS Pricing Page Design: Best Practices for Higher Conversion Rates](https://dev.to/lollypopdesign/saas-pricing-page-design-best-practices-for-higher-conversion-rates-3fgp)
+- [Weight Loss Starts on Your Plate: Powered by Bluepill Express](https://dev.to/bluepills_7db609523d5027d/weight-loss-starts-on-your-plate-powered-by-bluepill-express-2pg7)
 <!-- BLOG-POST-LIST:END -->
 
 
