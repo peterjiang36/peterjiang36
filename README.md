@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building World-Class Multi-Platform Apps: The Ultimate Tech Stack for 2025](https://dev.to/mwacharo6/building-world-class-multi-platform-apps-the-ultimate-tech-stack-for-2025-3bc5)
-- [🌟 Day 10 – Mastering LangChain: What 9 Days Taught Us](https://dev.to/aws-builders/day-10-mastering-langchain-what-9-days-taught-us-50bb)
-- [🔥 I Tried React 19 So You Don’t Have To — But You’ll Definitely Want To After This!](https://dev.to/er-raj-aryan/i-tried-react-19-so-you-dont-have-to-but-youll-definitely-want-to-after-this-1m56)
-- [Linear Algebra for Machine Learning: A Practical Guide](https://dev.to/dev_patel_35864ca1db6093c/linear-algebra-for-machine-learning-a-practical-guide-15ma)
+- [Student&#39;s Final Grade](https://dev.to/maddiepst/students-final-grade-1ie3)
+- [[Share] REST API - A Refresher](https://dev.to/methodox/share-rest-api-a-refresher-5i2)
+- [[Share] Hello World in Divooka](https://dev.to/methodox/share-hello-world-in-divooka-l44)
+- [Automate App Deployment with Cloud Build](https://dev.to/aldifp01/automate-app-deployment-with-cloud-build-2cdb)
 <!-- BLOG-POST-LIST:END -->
 
 
