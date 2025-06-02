@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Week 6](https://dev.to/upinar/web-development-week-6-341l)
-- [What is User and Entity Behavior Analytics? &lpar;UEBA&rpar;](https://dev.to/clouddefenseai/what-is-user-and-entity-behavior-analytics-ueba-1oh2)
-- [[Boost]](https://dev.to/nikuamit/-3m4o)
-- [Type Casting](https://dev.to/mohamed_abdullah_5ffbf6b6/type-casting-3ikk)
+- [Composant Stepper avec RiotJS](https://dev.to/steeve/composant-stepper-avec-riotjs-2e5d)
+- [It’s Time to Separate: Lint and Format](https://dev.to/ijlee2/its-time-to-separate-lint-and-format-1oef)
+- [Building the Future of Polkadot Development: Why PAPI Simulator&#39;s Community Templates Are Revolutionary](https://dev.to/codingsh/building-the-future-of-polkadot-development-why-papi-simulators-community-templates-are-3o0h)
+- [From Setback to Comeback: Starting my Journey into Coding](https://dev.to/rediato/from-setback-to-comeback-starting-my-journey-into-coding-olb)
 <!-- BLOG-POST-LIST:END -->
 
 
