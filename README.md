@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧭 Mastering Command Line Navigation: The Essentials](https://dev.to/1suleyman/mastering-command-line-navigation-the-essentials-29jh)
-- [Writing Modular and Scalable Services with NestJS](https://dev.to/niel_morphius/writing-modular-and-scalable-services-with-nestjs-561i)
-- [Bed Day. Again.](https://dev.to/stacy_cash/bed-day-again-3k2b)
-- [Creating a Custom Map From Images in Leaflet](https://dev.to/jereme/creating-a-custom-map-from-images-in-leaflet-3l1m)
+- [Prueba de concepto: interpretación de infraestructura con ChatGPT + Terraform](https://dev.to/danieljsaldana/prueba-de-concepto-interpretacion-de-infraestructura-con-chatgpt-terraform-mgf)
+- [Building Your First Web Page: Understanding the Why, Not Just the How](https://dev.to/hlnb/building-your-first-web-page-understanding-the-why-not-just-the-how-2lb6)
+- [The reality of remote hiring today is so much more complex than people think. Glad someone is finally talking about it with clarity.](https://dev.to/donnygeisl75478/the-reality-of-remote-hiring-today-is-so-much-more-complex-than-people-think-glad-someone-is-1070)
+- [Upgrade Their Web, Grow Your Biz: Outreach Tactics for Developers](https://dev.to/terrance_danielson/upgrade-their-web-grow-your-biz-outreach-tactics-for-developers-305d)
 <!-- BLOG-POST-LIST:END -->
 
 
