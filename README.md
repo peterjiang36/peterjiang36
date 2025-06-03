@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use @Controller in Spring](https://dev.to/tiuwill/how-to-use-controller-in-spring-3cee)
-- [My Linux Kernel Mentorship experience](https://dev.to/siddarth2810/my-linux-kernel-mentorship-experience-4870)
-- [Level Up Your Git Commits with Custom Templates 👇🏻](https://dev.to/albz/level-up-your-git-commits-with-custom-templates-5786)
-- [I Tested DeepSeek-R1-0528 &amp; Built a Job-Finding Agent with ADK, Nebius AI, MistralOCR &amp; LinkUp](https://dev.to/astrodevil/i-tested-deepseek-r1-0528-built-a-job-finding-agent-with-adk-nebius-ai-mistralocr-linkup-jgc)
+- [Conditional Statements, AND &lpar;&amp;&amp;&rpar;, and OR &lpar;||&rpar; in Programming](https://dev.to/mukilaperiyasamy/conditional-statements-and-and-or-in-programming-447l)
+- [How to use Claude to build a web app](https://dev.to/logrocket/how-to-use-claude-to-build-a-web-app-2if9)
+- [easy-live2d - Making Live2D integration easier!](https://dev.to/panzer_jack/easy-live2d-making-live2d-integration-easier-4ia8)
+- [What is Caddy and How It Helped My Product DBLayer.dev](https://dev.to/scorcism/what-is-caddy-and-how-it-helped-my-product-dblayerdev-2k41)
 <!-- BLOG-POST-LIST:END -->
 
 
