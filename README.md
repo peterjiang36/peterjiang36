@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Proven Ways to Boost Web Performance and Master Core Web Vitals in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/7-proven-ways-to-boost-web-performance-and-master-core-web-vitals-in-2025-bfm)
-- [How to Handle Dropdowns Using the Cypress .select&lpar;&rpar; Command](https://dev.to/lambdatest/how-to-handle-dropdowns-using-the-cypress-select-command-4d4i)
-- [Slice Your JS: Lazy Load Components with React + Vite + Dynamic Imports](https://dev.to/sperez927/slice-your-js-lazy-load-components-with-react-vite-dynamic-imports-mp8)
-- [Unity Project analysis with the Project Auditor](https://dev.to/attiliohimeki/unity-project-analysis-with-the-project-auditor-2pea)
+- [How to Use @Controller in Spring](https://dev.to/tiuwill/how-to-use-controller-in-spring-3cee)
+- [My Linux Kernel Mentorship experience](https://dev.to/siddarth2810/my-linux-kernel-mentorship-experience-4870)
+- [Level Up Your Git Commits with Custom Templates 👇🏻](https://dev.to/albz/level-up-your-git-commits-with-custom-templates-5786)
+- [I Tested DeepSeek-R1-0528 &amp; Built a Job-Finding Agent with ADK, Nebius AI, MistralOCR &amp; LinkUp](https://dev.to/astrodevil/i-tested-deepseek-r1-0528-built-a-job-finding-agent-with-adk-nebius-ai-mistralocr-linkup-jgc)
 <!-- BLOG-POST-LIST:END -->
 
 
