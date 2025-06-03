@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/dimonsmart/-3o44)
-- [Aptos Move #Tip 8: Understanding Aptos Objects and ConstructorRef Leaks.](https://dev.to/maakai123/aptos-move-tip-8-understanding-aptos-objects-and-constructorref-leaks-2mb3)
-- [How I Created a Handy MCP Server in C# to Retrieve NuGet Package Information](https://dev.to/dimonsmart/how-i-created-a-handy-mcp-server-in-c-to-retrieve-nuget-package-information-1gf5)
-- [Why Is Networking More Important Than Ever for Freelancers?](https://dev.to/sahadatmarketing/why-is-networking-more-important-than-ever-for-freelancers-4f3n)
+- [How I Run My SaaS for $45/month Without Supabase, Vercel, or Firebase. Just Rails.](https://dev.to/andresurdaneta/how-i-run-my-saas-for-45month-without-supabase-vercel-or-firebase-just-rails-22pc)
+- [Y&#39;all hear me out: Coding is just poetry in different font](https://dev.to/s_hreya/yall-hear-me-out-coding-is-just-poetry-in-different-font-1n7o)
+- [Beyond the Hype: A Look at 5+ AI Coding Agents for Your Terminal](https://dev.to/skeptrune/beyond-the-hype-a-look-at-5-ai-coding-agents-for-your-terminal-e0m)
+- [Introducing Lingo.dev Compiler: Localize a React app without rewriting its code](https://dev.to/maxprilutskiy/introducing-lingodev-compiler-localize-a-react-app-without-rewriting-its-code-5anm)
 <!-- BLOG-POST-LIST:END -->
 
 
