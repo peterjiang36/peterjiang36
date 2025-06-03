@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent Unexpected Claude Code Costs with This VSCode/Cursor Extension](https://dev.to/suzuki0430/prevent-unexpected-claude-code-costs-with-this-vscodecursor-extension-nlb)
-- [My Tech Stack in 2025: A Deep Dive Into What Powers My Fullstack Projects](https://dev.to/code_2/my-tech-stack-in-2025-a-deep-dive-into-what-powers-my-fullstack-projects-3ao7)
-- [Daily JavaScript Challenge #JS-197: Validate Palindrome Number](https://dev.to/dpc/daily-javascript-challenge-js-197-validate-palindrome-number-2i65)
-- [Curhat Programmer: Ketika &#39;Bug&#39; Menghantui Hidup Sehari-hari!](https://dev.to/chandrabachtiar/curhat-programmer-ketika-bug-menghantui-hidup-sehari-hari-30c8)
+- [🎁 Beginner-Friendly Guide to Solving &quot;Maximum Candies You Can Get from Boxes&quot; | LeetCode 1298&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-maximum-candies-you-can-get-from-boxes-leetcode-1298c--644)
+- [BeB CLI](https://dev.to/odqin/beb-cli-3bmk)
+- [Introducing react-chousy: Your New Go-To React Dropdown Component 🎉](https://dev.to/joelnbl/introducing-react-chousy-your-new-go-to-react-dropdown-component-42oo)
+- [some note](https://dev.to/12471220/some-note-1g5a)
 <!-- BLOG-POST-LIST:END -->
 
 
