@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress: Copy Debug Prompt](https://dev.to/elaichenkov/cypress-copy-debug-prompt-4hnb)
-- [Corporate system prompts -for fun and profit](https://dev.to/dermotholmes/corporate-system-prompts-for-fun-and-profit-a9p)
-- [Just asking to know!](https://dev.to/kawsar_jvai/just-asking-to-know-1a05)
-- [In-Depth Look at the Apache DolphinScheduler Storage System](https://dev.to/chen_debra_3060b21d12b1b0/in-depth-look-at-the-apache-dolphinscheduler-storage-system-3m2f)
+- [Localization vs. Internationalization](https://dev.to/xfq/localization-vs-internationalization-4kc7)
+- [Run IBM DataPower in Docker in 5 Minutes! 🚀 &lpar;No IBM Cloud Needed!&rpar;](https://dev.to/francotel/run-ibm-datapower-in-docker-in-5-minutes-no-ibm-cloud-needed-3lo7)
+- [🚀 Frontend Development Just Got Stupidly Simple: How MCP is Revolutionizing Code Writing](https://dev.to/kenxuho/frontend-development-just-got-stupidly-simple-how-mcp-is-revolutionizing-code-writing-2fea)
+- [Choosing Between JWKS and Token Introspection for OAuth 2.0 Token Validation](https://dev.to/mechcloud_academy/choosing-between-jwks-and-token-introspection-for-oauth-20-token-validation-1h9d)
 <!-- BLOG-POST-LIST:END -->
 
 
