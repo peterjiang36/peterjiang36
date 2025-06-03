@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
-- [A Detailed Explanation of the Timer in the HarmonyOS Cangjie development Language](https://dev.to/youlanjihua/a-detailed-explanation-of-the-timer-in-the-harmonyos-cangjie-development-language-3m1p)
-- [Como eu trampei 7 meses de graça com PHP pra receber 700 reais](https://dev.to/gustavodevdoido/como-eu-trampei-7-meses-de-graca-com-php-pra-receber-700-reais-emj)
-- [Hallucinating with Q: deep conversations at midnight](https://dev.to/agi_general/hallucinating-with-q-deep-conversations-at-midnight-4hjm)
+- [Prevent Unexpected Claude Code Costs with This VSCode/Cursor Extension](https://dev.to/suzuki0430/prevent-unexpected-claude-code-costs-with-this-vscodecursor-extension-nlb)
+- [My Tech Stack in 2025: A Deep Dive Into What Powers My Fullstack Projects](https://dev.to/code_2/my-tech-stack-in-2025-a-deep-dive-into-what-powers-my-fullstack-projects-3ao7)
+- [Daily JavaScript Challenge #JS-197: Validate Palindrome Number](https://dev.to/dpc/daily-javascript-challenge-js-197-validate-palindrome-number-2i65)
+- [Curhat Programmer: Ketika &#39;Bug&#39; Menghantui Hidup Sehari-hari!](https://dev.to/chandrabachtiar/curhat-programmer-ketika-bug-menghantui-hidup-sehari-hari-30c8)
 <!-- BLOG-POST-LIST:END -->
 
 
