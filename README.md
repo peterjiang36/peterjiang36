@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Localization vs. Internationalization](https://dev.to/xfq/localization-vs-internationalization-4kc7)
-- [Run IBM DataPower in Docker in 5 Minutes! 🚀 &lpar;No IBM Cloud Needed!&rpar;](https://dev.to/francotel/run-ibm-datapower-in-docker-in-5-minutes-no-ibm-cloud-needed-3lo7)
-- [🚀 Frontend Development Just Got Stupidly Simple: How MCP is Revolutionizing Code Writing](https://dev.to/kenxuho/frontend-development-just-got-stupidly-simple-how-mcp-is-revolutionizing-code-writing-2fea)
-- [Choosing Between JWKS and Token Introspection for OAuth 2.0 Token Validation](https://dev.to/mechcloud_academy/choosing-between-jwks-and-token-introspection-for-oauth-20-token-validation-1h9d)
+- [🔒AI Ethics and Governance: A Comprehensive Guide](https://dev.to/furqanahmadrao/ai-ethics-and-governance-a-comprehensive-guide-4fce)
+- [The Philosophy of JavaScript: Messy, Mighty, and Made for the Web](https://dev.to/umarsiddique010/the-philosophy-of-javascript-messy-mighty-and-made-for-the-web-3ook)
+- [Are they the &quot;same&quot;?](https://dev.to/maddiepst/are-they-the-same-57ai)
+- [As a beginner, I find this very insightful and encouraging!](https://dev.to/uchenna_humphrey_6da38406/as-a-beginner-i-find-this-very-insightful-and-encouraging-444i)
 <!-- BLOG-POST-LIST:END -->
 
 
