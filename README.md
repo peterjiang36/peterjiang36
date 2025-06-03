@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔒AI Ethics and Governance: A Comprehensive Guide](https://dev.to/furqanahmadrao/ai-ethics-and-governance-a-comprehensive-guide-4fce)
-- [The Philosophy of JavaScript: Messy, Mighty, and Made for the Web](https://dev.to/umarsiddique010/the-philosophy-of-javascript-messy-mighty-and-made-for-the-web-3ook)
-- [Are they the &quot;same&quot;?](https://dev.to/maddiepst/are-they-the-same-57ai)
-- [As a beginner, I find this very insightful and encouraging!](https://dev.to/uchenna_humphrey_6da38406/as-a-beginner-i-find-this-very-insightful-and-encouraging-444i)
+- [LangGraph + Graphiti + Long Term Memory = Powerful Agentic Memory](https://dev.to/gaodalie_ai/langgraph-graphiti-long-term-memory-powerful-agentic-memory-1iag)
+- [Prof. Postmark](https://dev.to/gokerdev/prof-postmark-2lo6)
+- [CI/CD with Jenkins: Automate Everything](https://dev.to/wittedtech-by-harshit/cicd-with-jenkins-automate-everything-47bo)
+- [If You’re Trying Hard But Getting No Results — This Is What Helps Me](https://dev.to/marieintheworld/if-youre-trying-hard-but-getting-no-results-this-is-what-helps-me-5con)
 <!-- BLOG-POST-LIST:END -->
 
 
