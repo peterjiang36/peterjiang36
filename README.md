@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph + Graphiti + Long Term Memory = Powerful Agentic Memory](https://dev.to/gaodalie_ai/langgraph-graphiti-long-term-memory-powerful-agentic-memory-1iag)
-- [Prof. Postmark](https://dev.to/gokerdev/prof-postmark-2lo6)
-- [CI/CD with Jenkins: Automate Everything](https://dev.to/wittedtech-by-harshit/cicd-with-jenkins-automate-everything-47bo)
-- [If You’re Trying Hard But Getting No Results — This Is What Helps Me](https://dev.to/marieintheworld/if-youre-trying-hard-but-getting-no-results-this-is-what-helps-me-5con)
+- [Top 10 Open Source Cursor Alternatives for Developers in 2025](https://dev.to/therealmrmumba/top-10-open-source-cursor-alternatives-for-developers-in-2025-2o3o)
+- [Day 1: What is FastAPI &amp; Why Developers Love It](https://dev.to/awslearnerdaily/day-1-what-is-fastapi-why-developers-love-it-2997)
+- [Learn how to auto-scale and load balance your Dockerized app on AWS with this step-by-step guide! 🚀 #AWS #Docker #DevOps](https://dev.to/motalibpathan/-1nh6)
+- [I made the best 0to255.com alternative with AI ❤️](https://dev.to/jakub-bites/i-made-the-best-0to255com-alternative-with-ai-joc)
 <!-- BLOG-POST-LIST:END -->
 
 
