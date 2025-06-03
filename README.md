@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Top 6 PDF Viewers for React.js Developers in 2025](https://dev.to/ansonch/top-6-pdf-viewers-for-reactjs-developers-in-2025-37kh)
-- [🚀 Full-Stack PHP, MERN, and DApp Development – Let’s Build Something Awesome](https://dev.to/surendergupta/full-stack-php-mern-and-dapp-dev-services-by-surender-gupta-44c8)
-- [How to Send Emails and Save Them in the Sent Folder with DotApp PHP Framework](https://dev.to/dotapp/how-to-send-emails-and-save-them-in-the-sent-folder-with-dotapp-php-framework-3jp4)
-- [Detecting When a Sticky Element Becomes Sticky](https://dev.to/jakeisonline/detecting-when-a-sticky-element-becomes-sticky-38eg)
+- [[Boost]](https://dev.to/marlonjerold/-2hf7)
+- [Infrastructure as Code Isn’t About Speed. It’s About Trust](https://dev.to/tawe/infrastructure-as-code-isnt-about-speed-its-about-trust-5d6j)
+- [Resource-Rich: Plugins That Fill Your Figma File With Assets](https://dev.to/atforeveryoung/resource-rich-plugins-that-fill-your-figma-file-with-assets-nnm)
+- [Mastering External API Usage in Angular Interceptors with x-api-key](https://dev.to/mor3/mastering-external-api-usage-in-angular-interceptors-with-x-api-key-6gp)
 <!-- BLOG-POST-LIST:END -->
 
 
