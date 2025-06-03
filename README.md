@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Run My SaaS for $45/month Without Supabase, Vercel, or Firebase. Just Rails.](https://dev.to/andresurdaneta/how-i-run-my-saas-for-45month-without-supabase-vercel-or-firebase-just-rails-22pc)
-- [Y&#39;all hear me out: Coding is just poetry in different font](https://dev.to/s_hreya/yall-hear-me-out-coding-is-just-poetry-in-different-font-1n7o)
-- [Beyond the Hype: A Look at 5+ AI Coding Agents for Your Terminal](https://dev.to/skeptrune/beyond-the-hype-a-look-at-5-ai-coding-agents-for-your-terminal-e0m)
-- [Introducing Lingo.dev Compiler: Localize a React app without rewriting its code](https://dev.to/maxprilutskiy/introducing-lingodev-compiler-localize-a-react-app-without-rewriting-its-code-5anm)
+- [100 Days of Coding! Day 4](https://dev.to/aaanishaaa/100-days-of-coding-day-4-5ceg)
+- [I snapped after another WordPress update—so I built BlogposterCMS &lpar;modular, event-driven, open source&rpar;](https://dev.to/matteo_690742ad888bc483a0/i-snapped-after-another-wordpress-update-so-i-built-blogpostercms-modular-event-driven-open-jod)
+- [[SECURITY IN RAILS] Preventing enumeration attacks, data leaks, and timing based attacks 🔐🛤️](https://dev.to/rwxpat/security-in-rails-preventing-enumeration-attacks-data-leaks-and-timing-based-attacks-4k6e)
+- [Detecting nginx worker leaks](https://dev.to/tonymeehan/detecting-nginx-worker-leaks-411d)
 <!-- BLOG-POST-LIST:END -->
 
 
