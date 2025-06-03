@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your Job Doesn’t Match Your Goals…](https://dev.to/bellatrix/when-your-job-doesnt-match-your-goals-5eda)
-- [Shorten URL Reflections](https://dev.to/jason_oh_242b4e371630fdac/url-shortening-service-reflections-44fj)
-- [Build MCP server in Java with a2ajava](https://dev.to/vishalmysore/build-mcp-server-in-java-with-a2ajava-5b1n)
-- [Hardship Is the Key to Success: The Example of Somaliland and Nelson Mandela](https://dev.to/gov_afrika_b681dfae823748/hardship-is-the-key-to-success-the-example-of-somaliland-and-nelson-mandela-38f8)
+- [The Vibrant Blend of a Pink Orange Background](https://dev.to/smartdev72/the-vibrant-blend-of-a-pink-orange-background-4j8h)
+- [Job for beginner, any help?](https://dev.to/troy_25/job-for-beginner-any-help-4n91)
+- [The Soft Boldness of a Pastel Red Background](https://dev.to/smartdev72/the-soft-boldness-of-a-pastel-red-background-5h38)
+- [The Understated Elegance of a Dusty Rose Background](https://dev.to/smartdev72/the-understated-elegance-of-a-dusty-rose-background-3ill)
 <!-- BLOG-POST-LIST:END -->
 
 
