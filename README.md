@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Still using outdated accessibility tools? Time to level up! I&#39;ve been using A11yInspect &amp; it&#39;s a game changer. Faster testing, better accuracy, fewer false positives &amp; broader guideline coverage. Check it out: https://www.barrierbreak.com/a11yinspect/](https://dev.to/yamani_moiz/still-using-outdated-accessibility-tools-time-to-level-up-ive-been-using-a11yinspect-its-a-4kjp)
-- [AutoRecon: Your New Best Friend for Automated Network Reconnaissance](https://dev.to/githubopensource/autorecon-your-new-best-friend-for-automated-network-reconnaissance-35mj)
-- [Postgres vs. MySQL: DDL Transaction Difference](https://dev.to/bytebase/postgres-vs-mysql-ddl-transaction-difference-2gjo)
-- [Top YouTube Channels for Learning AI: A Beginner&#39;s Guide](https://dev.to/aniruddhaadak/top-youtube-channels-for-learning-ai-a-beginners-guide-44o4)
+- [7 Proven Ways to Boost Web Performance and Master Core Web Vitals in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/7-proven-ways-to-boost-web-performance-and-master-core-web-vitals-in-2025-bfm)
+- [How to Handle Dropdowns Using the Cypress .select&lpar;&rpar; Command](https://dev.to/lambdatest/how-to-handle-dropdowns-using-the-cypress-select-command-4d4i)
+- [Slice Your JS: Lazy Load Components with React + Vite + Dynamic Imports](https://dev.to/sperez927/slice-your-js-lazy-load-components-with-react-vite-dynamic-imports-mp8)
+- [Unity Project analysis with the Project Auditor](https://dev.to/attiliohimeki/unity-project-analysis-with-the-project-auditor-2pea)
 <!-- BLOG-POST-LIST:END -->
 
 
