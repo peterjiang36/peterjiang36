@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/marlonjerold/-2hf7)
-- [Infrastructure as Code Isn’t About Speed. It’s About Trust](https://dev.to/tawe/infrastructure-as-code-isnt-about-speed-its-about-trust-5d6j)
-- [Resource-Rich: Plugins That Fill Your Figma File With Assets](https://dev.to/atforeveryoung/resource-rich-plugins-that-fill-your-figma-file-with-assets-nnm)
-- [Mastering External API Usage in Angular Interceptors with x-api-key](https://dev.to/mor3/mastering-external-api-usage-in-angular-interceptors-with-x-api-key-6gp)
+- [Still using outdated accessibility tools? Time to level up! I&#39;ve been using A11yInspect &amp; it&#39;s a game changer. Faster testing, better accuracy, fewer false positives &amp; broader guideline coverage. Check it out: https://www.barrierbreak.com/a11yinspect/](https://dev.to/yamani_moiz/still-using-outdated-accessibility-tools-time-to-level-up-ive-been-using-a11yinspect-its-a-4kjp)
+- [AutoRecon: Your New Best Friend for Automated Network Reconnaissance](https://dev.to/githubopensource/autorecon-your-new-best-friend-for-automated-network-reconnaissance-35mj)
+- [Postgres vs. MySQL: DDL Transaction Difference](https://dev.to/bytebase/postgres-vs-mysql-ddl-transaction-difference-2gjo)
+- [Top YouTube Channels for Learning AI: A Beginner&#39;s Guide](https://dev.to/aniruddhaadak/top-youtube-channels-for-learning-ai-a-beginners-guide-44o4)
 <!-- BLOG-POST-LIST:END -->
 
 
