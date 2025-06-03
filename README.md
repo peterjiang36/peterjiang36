@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional Statements, AND &lpar;&amp;&amp;&rpar;, and OR &lpar;||&rpar; in Programming](https://dev.to/mukilaperiyasamy/conditional-statements-and-and-or-in-programming-447l)
-- [How to use Claude to build a web app](https://dev.to/logrocket/how-to-use-claude-to-build-a-web-app-2if9)
-- [easy-live2d - Making Live2D integration easier!](https://dev.to/panzer_jack/easy-live2d-making-live2d-integration-easier-4ia8)
-- [What is Caddy and How It Helped My Product DBLayer.dev](https://dev.to/scorcism/what-is-caddy-and-how-it-helped-my-product-dblayerdev-2k41)
+- [[Boost]](https://dev.to/dimonsmart/-3o44)
+- [Aptos Move #Tip 8: Understanding Aptos Objects and ConstructorRef Leaks.](https://dev.to/maakai123/aptos-move-tip-8-understanding-aptos-objects-and-constructorref-leaks-2mb3)
+- [How I Created a Handy MCP Server in C# to Retrieve NuGet Package Information](https://dev.to/dimonsmart/how-i-created-a-handy-mcp-server-in-c-to-retrieve-nuget-package-information-1gf5)
+- [Why Is Networking More Important Than Ever for Freelancers?](https://dev.to/sahadatmarketing/why-is-networking-more-important-than-ever-for-freelancers-4f3n)
 <!-- BLOG-POST-LIST:END -->
 
 
