@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover how ForkJoinPool powers Java&#39;s high-performance parallel processing](https://dev.to/headf1rst/discover-how-forkjoinpool-powers-javas-high-performance-parallel-processing-3pn7)
-- [Old School Racing Game](https://dev.to/preetha_vaishnavi_2b82358/old-school-racing-game-4c13)
-- [Asynchronous SQLAlchemy 2: A simple step-by-step guide to configuration, models, relationships, and migrations using Alembic](https://dev.to/amverum/asynchronous-sqlalchemy-2-a-simple-step-by-step-guide-to-configuration-models-relationships-and-3ob3)
-- [Career Growth After Getting Salesforce Certified: Your First Step Toward Success](https://dev.to/sap_salesforceoraclec/career-growth-after-getting-salesforce-certified-your-first-step-toward-success-48d5)
+- [How to Install Docker on Windows 10/11 - Complete Guide](https://dev.to/connectalamin/how-to-install-docker-on-windows-1011-complete-guide-3o7k)
+- [[Boost]](https://dev.to/pouyanjazini/-3133)
+- [Why Functional Programming vs. Imperative/OOP Matters](https://dev.to/asad_ch_3c4cc714b250321ea/why-functional-programming-vs-imperativeoop-matters-1g6p)
+- [Security Incident Response](https://dev.to/godofgeeks/security-incident-response-539n)
 <!-- BLOG-POST-LIST:END -->
 
 
