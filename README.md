@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎁 Beginner-Friendly Guide to Solving &quot;Maximum Candies You Can Get from Boxes&quot; | LeetCode 1298&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-maximum-candies-you-can-get-from-boxes-leetcode-1298c--644)
-- [BeB CLI](https://dev.to/odqin/beb-cli-3bmk)
-- [Introducing react-chousy: Your New Go-To React Dropdown Component 🎉](https://dev.to/joelnbl/introducing-react-chousy-your-new-go-to-react-dropdown-component-42oo)
-- [some note](https://dev.to/12471220/some-note-1g5a)
+- [Cypress: Copy Debug Prompt](https://dev.to/elaichenkov/cypress-copy-debug-prompt-4hnb)
+- [Corporate system prompts -for fun and profit](https://dev.to/dermotholmes/corporate-system-prompts-for-fun-and-profit-a9p)
+- [Just asking to know!](https://dev.to/kawsar_jvai/just-asking-to-know-1a05)
+- [In-Depth Look at the Apache DolphinScheduler Storage System](https://dev.to/chen_debra_3060b21d12b1b0/in-depth-look-at-the-apache-dolphinscheduler-storage-system-3m2f)
 <!-- BLOG-POST-LIST:END -->
 
 
