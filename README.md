@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Open Source Cursor Alternatives for Developers in 2025](https://dev.to/therealmrmumba/top-10-open-source-cursor-alternatives-for-developers-in-2025-2o3o)
-- [Day 1: What is FastAPI &amp; Why Developers Love It](https://dev.to/awslearnerdaily/day-1-what-is-fastapi-why-developers-love-it-2997)
-- [Learn how to auto-scale and load balance your Dockerized app on AWS with this step-by-step guide! 🚀 #AWS #Docker #DevOps](https://dev.to/motalibpathan/-1nh6)
-- [I made the best 0to255.com alternative with AI ❤️](https://dev.to/jakub-bites/i-made-the-best-0to255com-alternative-with-ai-joc)
+- [Discover how ForkJoinPool powers Java&#39;s high-performance parallel processing](https://dev.to/headf1rst/discover-how-forkjoinpool-powers-javas-high-performance-parallel-processing-3pn7)
+- [Old School Racing Game](https://dev.to/preetha_vaishnavi_2b82358/old-school-racing-game-4c13)
+- [Asynchronous SQLAlchemy 2: A simple step-by-step guide to configuration, models, relationships, and migrations using Alembic](https://dev.to/amverum/asynchronous-sqlalchemy-2-a-simple-step-by-step-guide-to-configuration-models-relationships-and-3ob3)
+- [Career Growth After Getting Salesforce Certified: Your First Step Toward Success](https://dev.to/sap_salesforceoraclec/career-growth-after-getting-salesforce-certified-your-first-step-toward-success-48d5)
 <!-- BLOG-POST-LIST:END -->
 
 
