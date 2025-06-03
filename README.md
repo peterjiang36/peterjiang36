@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying ROS2: pub/sub within a single container](https://dev.to/pikotutorial/trying-ros2-pubsub-within-a-single-container-1phj)
+- [Building a High-Performance Drag-and-Drop Library in JavaScript](https://dev.to/omriluz1/building-a-high-performance-drag-and-drop-library-in-javascript-2ji7)
 - [How to Install Docker on Windows 10/11 - Complete Guide](https://dev.to/connectalamin/how-to-install-docker-on-windows-1011-complete-guide-3o7k)
 - [[Boost]](https://dev.to/pouyanjazini/-3133)
-- [Why Functional Programming vs. Imperative/OOP Matters](https://dev.to/asad_ch_3c4cc714b250321ea/why-functional-programming-vs-imperativeoop-matters-1g6p)
-- [Security Incident Response](https://dev.to/godofgeeks/security-incident-response-539n)
 <!-- BLOG-POST-LIST:END -->
 
 
