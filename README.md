@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [REST API vs SDK: Which is Best for eSignature Integration](https://dev.to/boldsign/rest-api-vs-sdk-which-is-best-for-esignature-integration-47fd)
-- [A2A MCP Integration](https://dev.to/czmilo/a2a-mcp-integration-210e)
-- [Welcome Thread - v329](https://dev.to/devteam/welcome-thread-v329-549m)
-- [WAF Checker: False Positive Test](https://dev.to/devh0us3/waf-checker-false-positive-test-pn5)
+- [# Frontend Newbies, Rally Here! 🔥 7 Battle-Tested Steps to MASTER React](https://dev.to/imoh_imohowo/-frontend-newbies-rally-here-7-battle-tested-steps-to-master-react-1hmi)
+- [Opensource Slack Alternative](https://dev.to/j3rryh0well/opensource-slack-alternative-2ihg)
+- [[Boost]](https://dev.to/rajesh_patel/-2310)
+- [C++ Tutorial &lpar;2025 Edition&rpar;: Learn Coding the Easy Way](https://dev.to/tpointtechblog/c-tutorial-2025-edition-learn-coding-the-easy-way-1ge4)
 <!-- BLOG-POST-LIST:END -->
 
 
