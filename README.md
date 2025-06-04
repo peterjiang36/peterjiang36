@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Custom Magento Modules with Hyvä Compatibility in Mind](https://dev.to/sagar_panchal/building-custom-magento-modules-with-hyva-compatibility-in-mind-51f5)
-- [🛡️ Data Protection: Building Trust, Ensuring Compliance, and Driving Growth](https://dev.to/ashikur_rahmannazil93/data-protection-building-trust-ensuring-compliance-and-driving-growth-onc)
-- [Reportgen.io vs Html2pdf.app - Which PDF API Should You Use in 2025? ⚔️](https://dev.to/ethan_reportgen/reportgenio-vs-html2pdfapp-which-pdf-api-should-you-use-in-2025-357p)
-- [The Hidden Exploitation Behind Web Development &quot;Credits&quot;](https://dev.to/matthew_giannelis_7447b76/the-hidden-exploitation-behind-web-development-credits-1he)
+- [Hey, i&#39;m getting this error while publishing since yesterday, Whoops, something went wrong: status: 500 error: Internal Server Error Kindly solve this, @DevTo community team](https://dev.to/avinashvagh/hey-im-getting-this-error-while-publishing-since-yesterday-whoops-something-went-wrong-4e53)
+- [A Modern Approach of Implementing Dark Mode](https://dev.to/renekaesler/a-modern-approach-of-implementing-dark-mode-20f8)
+- [This is very useful resources](https://dev.to/lelisa_yohanes_d6202ac89d/this-is-very-useful-resources-130b)
+- [I Just Saved 20 Hours a Week With This One Privacy Trick](https://dev.to/mehwish_malik_4f29ff7fb04/i-just-saved-20-hours-a-week-with-this-one-privacy-trick-9lb)
 <!-- BLOG-POST-LIST:END -->
 
 
