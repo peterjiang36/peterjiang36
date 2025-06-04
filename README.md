@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Subscription Intelligence Hub](https://dev.to/jasmin/subscription-intelligence-hub-3gcm)
 - [Personal milestone: 25,000 followers! Thank you!](https://dev.to/fmerian/personal-milestone-25000-followers-thank-you-2i5n)
 - [How Edge Computing and CDNs Supercharge Web Performance in 2025 🚀](https://dev.to/satyabrata_dd224dce47e7bc/how-edge-computing-and-cdns-supercharge-web-performance-in-2025-4gpl)
 - [Stop Copy-Pasting Your Entire Codebase to AI — Try Stagewise Instead](https://dev.to/connectalamin/stop-copy-pasting-your-entire-codebase-to-ai-try-stagewise-instead-35oc)
-- [Go Functions as First-Class Citizens: How to Use Them Properly](https://dev.to/leapcell/go-functions-as-first-class-citizens-how-to-use-them-properly-2jhi)
 <!-- BLOG-POST-LIST:END -->
 
 
