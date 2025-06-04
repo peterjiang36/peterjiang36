@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura de Software](https://dev.to/yuripeixinho/arquitetura-de-software-420c)
-- [Building a MIPS Emulator: Part 2 – The ALU](https://dev.to/olayiwolaosho_75/building-a-mips-emulator-part-2-the-alu-do8)
-- [Mastering REST API Authentication: A Developer&#39;s Security Handbook](https://dev.to/deepakgupta/mastering-rest-api-authentication-a-developers-security-handbook-4cp5)
-- [AWS Deployment Showdown: EC2 vs. Elastic Beanstalk for Node.js Apps 🚀](https://dev.to/alex_aslam/aws-deployment-showdown-ec2-vs-elastic-beanstalk-for-nodejs-apps-3kdl)
+- [Arweave AO Bootcamp 8/8 Ending &amp; Appendix](https://dev.to/arweavejp/arweave-ao-bootcamp-88-ending-appendix-1f3i)
+- [Arweave AO Bootcamp 7/8 $AO Token](https://dev.to/arweavejp/arweave-ao-bootcamp-78-ao-token-18m5)
+- [Arweave AO Bootcamp 6/8 Custom JavaScript VM on AO](https://dev.to/arweavejp/arweave-ao-bootcamp-68-custom-javascript-vm-on-ao-2e5p)
+- [Arweave AO Bootcamp 5/8 AOS Fundamental](https://dev.to/arweavejp/arweave-ao-bootcamp-58-aos-fundamental-4k5i)
 <!-- BLOG-POST-LIST:END -->
 
 
