@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vibrant Blend of a Pink Orange Background](https://dev.to/smartdev72/the-vibrant-blend-of-a-pink-orange-background-4j8h)
-- [Job for beginner, any help?](https://dev.to/troy_25/job-for-beginner-any-help-4n91)
-- [The Soft Boldness of a Pastel Red Background](https://dev.to/smartdev72/the-soft-boldness-of-a-pastel-red-background-5h38)
-- [The Understated Elegance of a Dusty Rose Background](https://dev.to/smartdev72/the-understated-elegance-of-a-dusty-rose-background-3ill)
+- [Arquitetura de Software](https://dev.to/yuripeixinho/arquitetura-de-software-420c)
+- [Building a MIPS Emulator: Part 2 – The ALU](https://dev.to/olayiwolaosho_75/building-a-mips-emulator-part-2-the-alu-do8)
+- [Mastering REST API Authentication: A Developer&#39;s Security Handbook](https://dev.to/deepakgupta/mastering-rest-api-authentication-a-developers-security-handbook-4cp5)
+- [AWS Deployment Showdown: EC2 vs. Elastic Beanstalk for Node.js Apps 🚀](https://dev.to/alex_aslam/aws-deployment-showdown-ec2-vs-elastic-beanstalk-for-nodejs-apps-3kdl)
 <!-- BLOG-POST-LIST:END -->
 
 
