@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Arweave AO Bootcamp 8/8 Ending &amp; Appendix](https://dev.to/arweavejp/arweave-ao-bootcamp-88-ending-appendix-1f3i)
-- [Arweave AO Bootcamp 7/8 $AO Token](https://dev.to/arweavejp/arweave-ao-bootcamp-78-ao-token-18m5)
-- [Arweave AO Bootcamp 6/8 Custom JavaScript VM on AO](https://dev.to/arweavejp/arweave-ao-bootcamp-68-custom-javascript-vm-on-ao-2e5p)
-- [Arweave AO Bootcamp 5/8 AOS Fundamental](https://dev.to/arweavejp/arweave-ao-bootcamp-58-aos-fundamental-4k5i)
+- [Don`t Read This Article, You Might Regret It](https://dev.to/ewenikeemmanue4/dont-read-this-article-you-might-regret-it-1fl)
+- [How to operate large CSV files with esProc SPL](https://dev.to/esproc_spl/how-to-operate-large-csv-files-with-esproc-spl-16k3)
+- [Part 2: Advanced Code Editing, Refactoring &amp; Multi-Cursor Power &lpar;VS Code Shortcuts for Windows &amp; Mac&rpar;!!](https://dev.to/nish2005karsh/part-2-advanced-code-editing-refactoring-multi-cursor-power-vs-code-shortcuts-for-windows--1e3a)
+- [Complete Guide to Creating an App in AppGallery Connect](https://dev.to/xhunmon/complete-guide-to-creating-an-app-in-appgallery-connect-o81)
 <!-- BLOG-POST-LIST:END -->
 
 
