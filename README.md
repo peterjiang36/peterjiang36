@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [0day RCE Vulnerability in Apusic Application Server via IIOP Deserialization](https://dev.to/sharon_42e16b8da44dabde6d/0day-rce-vulnerability-in-apusic-application-server-via-iiop-deserialization-4fl5)
+- [🧵 Thread vs Process in a nutshell](https://dev.to/sajidurshajib/thread-vs-process-in-a-nutshell-5bjp)
 - [Travel Itinerary Builder - AI-Powered Email-First Travel Organization](https://dev.to/axrisi/travel-itinerary-builder-ai-powered-email-first-travel-organization-1pop)
 - [Bolt Hackathon Day 6/30: UI](https://dev.to/thankamatho/bolt-hackathon-day-630-ui-1ndk)
-- [From JVM to Native Compilation with Spring Boot: What It Means and Why It Matters](https://dev.to/jhonifaber/from-jvm-to-native-compilation-with-spring-boot-what-it-means-and-why-it-matters-3nk5)
-- [Subscription Intelligence Hub](https://dev.to/jasmin/subscription-intelligence-hub-3gcm)
 <!-- BLOG-POST-LIST:END -->
 
 
