@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Distributed Systems: Sagas and Trade-Offs](https://dev.to/randazraik/designing-distributed-systems-sagas-and-trade-offs-2o0p)
-- [Best Translation API for Business Use](https://dev.to/colinreed/best-translation-api-for-business-use-3lf5)
-- [How to Generate an AI SBOM, and What Tools to Use](https://dev.to/jozu/how-to-generate-an-ai-sbom-and-what-tools-to-use-9gg)
-- [An overview of the security of lower-level TCP/IP protocols](https://dev.to/dima853/an-overview-of-the-security-of-lower-level-tcpip-protocols-4fnf)
+- [GitHub Unveils Copilot Coding Agent at Build 2025](https://dev.to/fernandezbaptiste/github-unveils-copilot-coding-agent-at-build-2025-3gi2)
+- [Midaz Terraform Foundation: AWS, GCP e Azure](https://dev.to/jeffersonrodrigues92/midaz-terraform-foundation-aws-gcp-e-azure-4e81)
+- [MindsEye studio execs depart Build a Rocket Boy, one week before game&#39;s debut](https://dev.to/gg_news/mindseye-studio-execs-depart-build-a-rocket-boy-one-week-before-games-debut-28i9)
+- [$800 million, 13 years, and still no release date — the state of Star Citizen in 2025](https://dev.to/gg_news/800-million-13-years-and-still-no-release-date-the-state-of-star-citizen-in-2025-dg)
 <!-- BLOG-POST-LIST:END -->
 
 
