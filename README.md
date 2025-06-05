@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Projects: Why Every Developer Should Embrace the Product Mindset](https://dev.to/satyabrata_dd224dce47e7bc/beyond-projects-why-every-developer-should-embrace-the-product-mindset-i14)
-- [Inbox Innovation with Postmark: Presenting InboxNinja 🥷](https://dev.to/vivekthedev/inbox-innovation-with-postmark-presenting-inboxninja-2oma)
-- [I just wrote a simple tutorial showing how to build your own Python LLM web app using Streamlit from scratch! https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-2-streamlit-fsm-277g](https://dev.to/zachary62/i-just-wrote-a-simple-tutorial-showing-how-to-build-your-own-python-llm-web-app-using-streamlit-1ahp)
-- [SafeLine vs Cloudflare WAF: Which One Fits Your Web Security Needs?](https://dev.to/sharon_42e16b8da44dabde6d/safeline-vs-cloudflare-waf-which-one-fits-your-web-security-needs-1elp)
+- [Runtime-initialized variables in Rust](https://dev.to/nfrankel/runtime-initialized-variables-in-rust-bam)
+- [KS Wallet Explained: A Developer-Friendly Web3 Wallet Built for Scale](https://dev.to/kalpstudio/ks-wallet-explained-a-developer-friendly-web3-wallet-built-for-scale-3jkj)
+- [Showcase Your GitHub Repository’s Users in the README [&lt; 5 Mins]](https://dev.to/gouravkhunger/showcase-your-github-repositorys-users-in-the-readme-5-mins-16cn)
+- [Step-by-Step Guide to Run Llama 4 Locally with Tool Calling Enabled](https://dev.to/nodeshiftcloud/step-by-step-guide-to-run-llama-4-locally-with-tool-calling-enabled-jg7)
 <!-- BLOG-POST-LIST:END -->
 
 
