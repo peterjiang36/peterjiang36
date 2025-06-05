@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready to Level Up Your Typing? Meet TypeWin! 🚀](https://dev.to/1hamzabek/ready-to-level-up-your-typing-meet-typewin-1dif)
-- [RAG: Why Your LLM Needs a Reality Check &lpar;and How to Fix It&rpar;](https://dev.to/alex_aslam/rag-why-your-llm-needs-a-reality-check-and-how-to-fix-it-34a)
-- [Hello Dev Community My Journey into AIoT and Why I Believe Africa’s Digital Future Is Now](https://dev.to/petermuraya/hello-dev-community-my-journey-into-aiot-and-why-i-believe-africas-digital-future-is-now-39hf)
-- [Getting Started with Ansible: Automate Setups Like a Pro](https://dev.to/lovestaco/getting-started-with-ansible-automate-setups-like-a-pro-5beh)
+- [Prompt for Comprehensive Codebase Exploration and Documentation from Multi-Perspective Analysis](https://dev.to/tonegabes/prompt-for-comprehensive-codebase-exploration-and-documentation-from-multi-perspective-analysis-1h55)
+- [Birth of StopLang – A Useless Language With a Very Specific Purpose](https://dev.to/snskarora/birth-of-stoplang-a-useless-language-with-a-very-specific-purpose-d2j)
+- [SQL for Everyone: The Ultimate Starter Guide](https://dev.to/_bhupeshk_/sql-for-everyone-the-ultimate-starter-guide-1h3d)
+- [GeoNetwork-ui custom applications made easy](https://dev.to/fgravin/geonetwork-ui-custom-applications-made-easy-33bj)
 <!-- BLOG-POST-LIST:END -->
 
 
