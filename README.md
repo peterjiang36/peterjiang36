@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Against OWASP Top 10 with SafeLine WAF](https://dev.to/carrie_luo1/protecting-against-owasp-top-10-with-safeline-waf-2ifm)
-- [Building Secure Authentication in Angular with Supabase](https://dev.to/kingsley/building-secure-authentication-in-angular-with-supabase-2e1p)
-- [Make an Image drag and drop with CSS in React](https://dev.to/swarupinfotech1/make-an-image-drag-and-drop-with-css-in-react-3g5b)
-- [Top 10 React js interview questions.](https://dev.to/swarupinfotech1/top-10-react-js-interview-questions-1e19)
+- [10 Cool CodePen Demos &lpar;May 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-2025-557d)
+- [🌊 Master Gitflow Branching Strategy — Step-by-Step Guide with Hands-on HTML Project](https://dev.to/latchudevops/master-gitflow-branching-strategy-step-by-step-guide-with-hands-on-html-project-2m5e)
+- [This Week In React #236 : Remix, TanStack, RSC | ExecuTorch, Screens, FlashList, Reanimated, Expo, EAS, Radon...](https://dev.to/sebastienlorber/this-week-in-react-236-remix-tanstack-rsc-executorch-screens-flashlist-reanimated-expo-nk)
+- [🦸 Hero: WASM-Ready Hero Section Components](https://dev.to/wiseai/hero-wasm-ready-hero-section-components-16h2)
 <!-- BLOG-POST-LIST:END -->
 
 
