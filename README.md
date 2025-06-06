@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Easiest Way to Migrate SafeLine WAF Data &lpar;Works in Minutes&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/easiest-way-to-migrate-safeline-waf-data-works-in-minutes-94i)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-e3m)
 - [Inbox in Discord](https://dev.to/vivekthedev/-38mo)
 - [Why Rate Limiting Is Critical for API Security](https://dev.to/sharon_42e16b8da44dabde6d/why-rate-limiting-is-critical-for-api-security-4gij)
-- [How to Install and Run Sarvam – M Locally?](https://dev.to/nodeshiftcloud/how-to-install-and-run-sarvam-m-locally-2b0i)
-- [🚀Top 10 MCP Servers for 2025 &lpar;Yes, GitHub’s Included!&rpar;](https://dev.to/fallon_jimmy/top-10-mcp-servers-for-2025-yes-githubs-included-15jg)
 <!-- BLOG-POST-LIST:END -->
 
 
