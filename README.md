@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Dependency Management in Rust Using Cargo.toml](https://dev.to/rijultp/getting-started-with-dependency-management-in-rust-using-cargotoml-54oo)
-- [It&#39;s a DONUT!](https://dev.to/axrisi/its-a-donut-3gkk)
-- [How Machines Learn Human Biases in Ethical AI](https://dev.to/williamoliver/how-machines-learn-human-biases-in-ethical-ai-4lfi)
-- [I have been sharing this week what I have learned over the past year, the series currently has ten posts covering the basics of XS. I hope you enjoy them in your own time.](https://dev.to/lnation/i-have-been-sharing-this-week-what-i-have-learned-over-the-past-year-the-series-currently-has-ten-417c)
+- [Suggestions for my startup](https://dev.to/rohit_shukla_ed709c29220c/suggestions-for-my-startup-1n2n)
+- [Honoring National Donut Day 2025](https://dev.to/axrisi/honoring-national-donut-day-2025-f49)
+- [NextJS alternatives?](https://dev.to/gnrlbzik/nextjs-alternatives-1ggn)
+- [Scaffolding Elegance: Mastering `Microsoft.EntityFrameworkCore.Design` &lpar;v9.0.5&rpar; in ASP.NET Core Web API](https://dev.to/cristiansifuentes/scaffolding-elegance-mastering-microsoftentityframeworkcoredesign-v905-in-aspnet-core-web-nn3)
 <!-- BLOG-POST-LIST:END -->
 
 
