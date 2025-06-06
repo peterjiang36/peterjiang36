@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Easiest Way to Migrate SafeLine WAF Data &lpar;Works in Minutes&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/easiest-way-to-migrate-safeline-waf-data-works-in-minutes-94i)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-e3m)
-- [Inbox in Discord](https://dev.to/vivekthedev/-38mo)
-- [Why Rate Limiting Is Critical for API Security](https://dev.to/sharon_42e16b8da44dabde6d/why-rate-limiting-is-critical-for-api-security-4gij)
+- [Building Secure Authentication in Angular with Supabase](https://dev.to/kingsley/building-secure-authentication-in-angular-with-supabase-2e1p)
+- [Make an Image drag and drop with CSS in React](https://dev.to/swarupinfotech1/make-an-image-drag-and-drop-with-css-in-react-3g5b)
+- [Top 10 React js interview questions.](https://dev.to/swarupinfotech1/top-10-react-js-interview-questions-1e19)
+- [Top 10 ES6 Features that Every Developer Should know](https://dev.to/swarupinfotech1/top-10-es6-features-that-every-developer-should-know-52pj)
 <!-- BLOG-POST-LIST:END -->
 
 
