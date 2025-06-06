@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All Langfuse Product Features now Free Open-Source](https://dev.to/clemra/all-langfuse-product-features-now-free-open-source-4140)
-- [🔐 NookChat – A One-Time Encrypted, Anonymous Chat App &lpar;No Login Required&rpar;](https://dev.to/dharamgfx/nookchat-a-one-time-encrypted-anonymous-chat-app-no-login-required-3hog)
-- [How to Prevent AI Agents From Breaking in Production](https://dev.to/gerimate/how-to-prevent-ai-agents-from-breaking-in-production-24c3)
-- [How to Translate Document &amp; Keep the Formatting](https://dev.to/elenahartmann/how-to-translate-document-keep-the-formatting-35c8)
+- [RESTful CRUD Everything](https://dev.to/epigene/restful-crud-everything-i87)
+- [Abstraction in JavaScript: Washing Machine Style!&quot;](https://dev.to/atapas/abstraction-in-javascript-washing-machine-style-5cc2)
+- [Mastering MongoDB Aggregation for Real Projects: From Basics to Real-World Powerhouse](https://dev.to/raajaryan/mastering-mongodb-aggregation-for-real-projects-from-basics-to-real-world-powerhouse-2d14)
+- [5 Prompts That Cut My Development Time in Half](https://dev.to/bytesandvibes/5-prompts-that-cut-my-development-time-in-half-23g7)
 <!-- BLOG-POST-LIST:END -->
 
 
