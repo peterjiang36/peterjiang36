@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Go Interface Encapsulation from K8s](https://dev.to/leapcell/learning-go-interface-encapsulation-from-k8s-nnd)
-- [Am I good to go?](https://dev.to/boluwatifeilerioluwa/am-i-good-to-go-52m6)
-- [🎵 I Built the World&#39;s First Email Music Studio with Postmark](https://dev.to/1exer22/i-built-the-worlds-first-email-music-studio-with-postmark-l9l)
-- [Navigating the Landscape of Data-Modeling – A Comprehensive Guide](https://dev.to/chaets/navigating-the-landscape-of-data-modeling-a-comprehensive-guide-238j)
+- [Indian AI model DESTROYS o3-mini, Google DeepSearch is open source, OpenAI&#39;s new models and TypeScript SDK, and more](https://dev.to/thisweekinaiengineering/indian-ai-model-destroys-o3-mini-google-deepsearch-is-open-source-openais-new-models-and-2ol1)
+- [Debugging Memory Leaks in Node.js: A Complete Guide to heapdump, clinic.js, and v8-tools](https://dev.to/crit3cal/debugging-memory-leaks-in-nodejs-a-complete-guide-to-heapdump-clinicjs-and-v8-tools-19b)
+- [api security](https://dev.to/bibek_bhowmick_0c26539651/api-security-1j64)
+- [💡You&#39;re Not Chatting With AI, You&#39;re Giving It a Job. Here&#39;s How](https://dev.to/idavidov13/youre-not-chatting-with-ai-youre-giving-it-a-job-heres-how-1k3n)
 <!-- BLOG-POST-LIST:END -->
 
 
