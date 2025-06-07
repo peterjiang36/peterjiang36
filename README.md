@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 302 - Misleading Status Codes](https://dev.to/mcsee/code-smell-302-misleading-status-codes-10dd)
-- [# Understanding Event Listeners in JavaScript](https://dev.to/imoh_imohowo/-understanding-event-listeners-in-javascript-3063)
-- [🚀 Introducing QuickCode — A Free Platform to Practice Big Tech OA Questions + Help Recruiters Draft Problems Easily](https://dev.to/shubham_phogat_34d0c4a667/introducing-quickcode-a-free-platform-to-practice-big-tech-oa-questions-help-recruiters-draft-53fg)
-- [Best way to access Claude 4 Sonnet](https://dev.to/vijaykodam/best-way-to-access-claude-4-sonnet-2219)
+- [Using Svelte Runes in React](https://dev.to/trentbrew/using-svelte-runes-in-react-3g48)
+- [Minha implementação de Autenticação com JWT e Bcrypt-](https://dev.to/marcelomagario/minha-implementacao-de-autenticacao-com-jwt-e-bcrypt-1a53)
+- [100 days of Coding! Day 8](https://dev.to/aaanishaaa/100-days-of-coding-day-8-3edg)
+- [Integrating Microsoft Teams Notifications &lpar;pt.4&rpar;](https://dev.to/wale_megbabi/integrating-microsoft-teams-notifications-pt4-3an1)
 <!-- BLOG-POST-LIST:END -->
 
 
