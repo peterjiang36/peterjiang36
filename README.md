@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VS2022 External tools in toolbar](https://dev.to/karenpayneoregon/vs2022-external-tools-in-toolbar-1kc3)
-- [🧠 A Beginner’s Guide to Git: What It Is, Why It Matters, and How to Use It.](https://dev.to/carsonbtw/a-beginners-guide-to-git-what-it-is-why-it-matters-and-how-to-use-it-4825)
-- [⚛️ When React Context API Turns Against You: A Late-Night Debugging Story](https://dev.to/juandadev/when-react-context-api-turns-against-you-a-late-night-debugging-story-3bkf)
-- [AutoML Might Be the Most Important Tool You’re Not Using Yet](https://dev.to/superorange0707/automl-might-be-the-most-important-tool-youre-not-using-yet-3pne)
+- [DDoS Protection: How to Monitor, Detect, and Defend Against Attacks](https://dev.to/hakimmohamed/ddos-protection-how-to-monitor-detect-and-defend-against-attacks-5aji)
+- [Untitled](https://dev.to/james_figuroa_452da4fab5a/untitled-311e)
+- [Web Performansını Optimize Et: Her Saniye Sayar!](https://dev.to/yunus_emremert_1756b71d3/web-performansini-optimize-et-her-saniye-sayar-4b86)
+- [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://dev.to/taniguchitakara/videoprism-a-foundational-visual-encoder-for-video-understanding-k57)
 <!-- BLOG-POST-LIST:END -->
 
 
