@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Engine Architecture: An Evolution of the ECS Paradigm](https://dev.to/geseey/game-engine-architecture-an-evolution-of-the-ecs-paradigm-27ap)
-- [The SaaS Sentinel: Automated Competitive Intelligence Analyst](https://dev.to/takitajwar17/the-saas-sentinel-automated-competitive-intelligence-analyst-10a3)
-- [Build a Policy-Based Access System in Python](https://dev.to/kuba_szw/build-a-policy-based-access-system-in-python-3k1i)
-- [A Recruiter&#39;s favourite tool: Powered by Postmark](https://dev.to/arndom/a-recruiters-favourite-tool-powered-by-postmark-k3k)
+- [VS2022 External tools in toolbar](https://dev.to/karenpayneoregon/vs2022-external-tools-in-toolbar-1kc3)
+- [🧠 A Beginner’s Guide to Git: What It Is, Why It Matters, and How to Use It.](https://dev.to/carsonbtw/a-beginners-guide-to-git-what-it-is-why-it-matters-and-how-to-use-it-4825)
+- [⚛️ When React Context API Turns Against You: A Late-Night Debugging Story](https://dev.to/juandadev/when-react-context-api-turns-against-you-a-late-night-debugging-story-3bkf)
+- [AutoML Might Be the Most Important Tool You’re Not Using Yet](https://dev.to/superorange0707/automl-might-be-the-most-important-tool-youre-not-using-yet-3pne)
 <!-- BLOG-POST-LIST:END -->
 
 
