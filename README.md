@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Years on GitHub: What I’ve Learned](https://dev.to/mathiasfc/10-years-on-github-what-ive-learned-4h8e)
-- [Getting Started With Local LLMs Using AnythingLLM](https://dev.to/samder/getting-started-with-local-llms-using-anythingllm-47gl)
-- [CouponAI: Turn Promotional Emails into Smart Savings](https://dev.to/utkarsh212/couponai-turn-promotional-emails-into-smart-savings-53dc)
-- [Indian AI model DESTROYS o3-mini, Google DeepSearch is open source, OpenAI&#39;s new models and TypeScript SDK, and more](https://dev.to/thisweekinaiengineering/indian-ai-model-destroys-o3-mini-google-deepsearch-is-open-source-openais-new-models-and-2ol1)
+- [Personalized Learning Coach](https://dev.to/dobrenteiistvan/personalized-learning-coach-4m1c)
+- [Memory MCP with Semantic Search Support](https://dev.to/mehrant/-k1o)
+- [PIDM — Python Internet Download Manager](https://dev.to/ericluckson1999/pidm-python-internet-download-manager-4ak9)
+- [Problem Solving Doesn’t Take a Break — Even on Eid-ul-Azha 2025](https://dev.to/mahmudulhaqueshawon/problem-solving-doesnt-take-a-break-even-on-eid-ul-azha-2025-4ajm)
 <!-- BLOG-POST-LIST:END -->
 
 
