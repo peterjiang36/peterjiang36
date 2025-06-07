@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does a Front-End Developer Do?](https://dev.to/tarunfulera/what-does-a-front-end-developer-do-1jmi)
-- [Python Development](https://dev.to/bridgegroupsolutions/python-development-3ab5)
-- [Chapter 5: Final Touches &amp; Interactive Magic](https://dev.to/prasunchakra/chapter-5-final-touches-interactive-magic-1bdp)
-- [My first post in the community.](https://dev.to/ifeanyi_paul_olughu/my-first-post-in-the-community-580p)
+- [DNS records for Mail Server](https://dev.to/arifbasri/dns-records-for-mail-server-5ggb)
+- [What is Front Office BPO and How It Works?](https://dev.to/aashika_mehra_eb91362ad65/what-is-front-office-bpo-and-how-it-works-4oc5)
+- [Exploring QA Opportunities &amp; Challenges When Transition from HTMX to HMPL.js](https://dev.to/modalqa/exploring-qa-opportunities-challenges-when-transition-from-htmx-to-hmpljs-586k)
+- [AWS Amplify Evolution Timeline — 2017 to 2025](https://dev.to/aws-builders/aws-amplify-evolution-timeline-2017-to-2025-d83)
 <!-- BLOG-POST-LIST:END -->
 
 
