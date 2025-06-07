@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ZewpolOS: a Linux-based secure OS for browsing the web](https://dev.to/zako_mako_9a4826822204c78/zewpolos-a-linux-based-secure-os-for-browsing-the-web-cj)
-- [Rails 8 authentication, via a React frontend.](https://dev.to/jbk2/rails-8-authentication-via-a-react-frontend-26fo)
-- [CRUD with JavaScript Fetch and the Platzi Fake Store API](https://dev.to/ahmed_niazy/crud-with-javascript-fetch-and-the-platzi-fake-store-api-142e)
-- [Exceptions for Control Flow are Slow](https://dev.to/alexandreaquiles/exceptions-for-control-flow-are-slow-41pa)
+- [Start with DevOps in 3 simple steps 🐳](https://dev.to/larastewart_engdev/start-with-devops-in-3-simple-steps-2lli)
+- [Astranis Launches Four Satellites with SpaceX: A New Era in Broadband](https://dev.to/jetthoughts/astranis-launches-four-satellites-with-spacex-a-new-era-in-broadband-3ekf)
+- [AI Personal Staff for Everyone](https://dev.to/jetthoughts/ai-personal-staff-for-everyone-m93)
+- [Writing Scalable &amp; Maintainable Unit Tests in Django — A Practical Guide with Real Examples](https://dev.to/shreyash_jhon_doe/writing-scalable-maintainable-unit-tests-in-django-a-practical-guide-with-real-examples-47a4)
 <!-- BLOG-POST-LIST:END -->
 
 
