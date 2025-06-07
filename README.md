@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Years on GitHub: What I’ve Learned](https://dev.to/mathiasfc/10-years-on-github-what-ive-learned-4h8e)
+- [Getting Started With Local LLMs Using AnythingLLM](https://dev.to/samder/getting-started-with-local-llms-using-anythingllm-47gl)
+- [CouponAI: Turn Promotional Emails into Smart Savings](https://dev.to/utkarsh212/couponai-turn-promotional-emails-into-smart-savings-53dc)
 - [Indian AI model DESTROYS o3-mini, Google DeepSearch is open source, OpenAI&#39;s new models and TypeScript SDK, and more](https://dev.to/thisweekinaiengineering/indian-ai-model-destroys-o3-mini-google-deepsearch-is-open-source-openais-new-models-and-2ol1)
-- [Debugging Memory Leaks in Node.js: A Complete Guide to heapdump, clinic.js, and v8-tools](https://dev.to/crit3cal/debugging-memory-leaks-in-nodejs-a-complete-guide-to-heapdump-clinicjs-and-v8-tools-19b)
-- [api security](https://dev.to/bibek_bhowmick_0c26539651/api-security-1j64)
-- [💡You&#39;re Not Chatting With AI, You&#39;re Giving It a Job. Here&#39;s How](https://dev.to/idavidov13/youre-not-chatting-with-ai-youre-giving-it-a-job-heres-how-1k3n)
 <!-- BLOG-POST-LIST:END -->
 
 
