@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Snyk for Government Achieves FedRAMP Moderate Authorization: A Milestone for Secure Government Software](https://dev.to/snyk/snyk-for-government-achieves-fedramp-moderate-authorization-a-milestone-for-secure-government-3p9b)
+- [Bolt Hackathon Day 8/30: Week 1 Post Mortem &amp; Week 2 Plans](https://dev.to/thankamatho/bolt-hackathon-day-830-week-1-post-mortem-week-2-plans-1ila)
+- [☁️ AWS Lambda Ki Desi Kahani: Chotu the Serverless Superstar ☕💥](https://dev.to/aws-builders/aws-lambda-ki-desi-kahani-chotu-the-serverless-superstar-204g)
 - [DDoS Protection: How to Monitor, Detect, and Defend Against Attacks](https://dev.to/hakimmohamed/ddos-protection-how-to-monitor-detect-and-defend-against-attacks-5aji)
-- [Untitled](https://dev.to/james_figuroa_452da4fab5a/untitled-311e)
-- [Web Performansını Optimize Et: Her Saniye Sayar!](https://dev.to/yunus_emremert_1756b71d3/web-performansini-optimize-et-her-saniye-sayar-4b86)
-- [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://dev.to/taniguchitakara/videoprism-a-foundational-visual-encoder-for-video-understanding-k57)
 <!-- BLOG-POST-LIST:END -->
 
 
