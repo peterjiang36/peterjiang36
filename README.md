@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with DevOps in 3 simple steps 🐳](https://dev.to/larastewart_engdev/start-with-devops-in-3-simple-steps-2lli)
-- [Astranis Launches Four Satellites with SpaceX: A New Era in Broadband](https://dev.to/jetthoughts/astranis-launches-four-satellites-with-spacex-a-new-era-in-broadband-3ekf)
-- [AI Personal Staff for Everyone](https://dev.to/jetthoughts/ai-personal-staff-for-everyone-m93)
-- [Writing Scalable &amp; Maintainable Unit Tests in Django — A Practical Guide with Real Examples](https://dev.to/shreyash_jhon_doe/writing-scalable-maintainable-unit-tests-in-django-a-practical-guide-with-real-examples-47a4)
+- [Learning Go Interface Encapsulation from K8s](https://dev.to/leapcell/learning-go-interface-encapsulation-from-k8s-nnd)
+- [Am I good to go?](https://dev.to/boluwatifeilerioluwa/am-i-good-to-go-52m6)
+- [🎵 I Built the World&#39;s First Email Music Studio with Postmark](https://dev.to/1exer22/i-built-the-worlds-first-email-music-studio-with-postmark-l9l)
+- [Navigating the Landscape of Data-Modeling – A Comprehensive Guide](https://dev.to/chaets/navigating-the-landscape-of-data-modeling-a-comprehensive-guide-238j)
 <!-- BLOG-POST-LIST:END -->
 
 
