@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Limits of Asynchronous JavaScript with Fibers](https://dev.to/omriluz1/exploring-the-limits-of-asynchronous-javascript-with-fibers-md2)
-- [DNS records for Mail Server](https://dev.to/arifbasri/dns-records-for-mail-server-5ggb)
-- [What is Front Office BPO and How It Works?](https://dev.to/aashika_mehra_eb91362ad65/what-is-front-office-bpo-and-how-it-works-4oc5)
-- [Exploring QA Opportunities &amp; Challenges When Transition from HTMX to HMPL.js](https://dev.to/modalqa/exploring-qa-opportunities-challenges-when-transition-from-htmx-to-hmpljs-586k)
+- [# 🚀 Introducing `listine`: A Custom Virtual Scroll Library for Angular with True Dynamic Height Support](https://dev.to/hrssh_gupta_4775022de1d44/-introducing-listine-a-custom-virtual-scroll-library-for-angular-with-true-dynamic-height-258i)
+- [Harmonyos Ark UI network request](https://dev.to/liu_yang_fc0e605820ac220c/harmonyos-ark-ui-network-request-3pnm)
+- [Unlock 1000+ DevOps &amp; Cloud Resources! 📚 - Gateway to a powerful library](https://dev.to/prodevopsguytech/unlock-1000-devops-cloud-resources-gateway-to-a-powerful-library-3dkg)
+- [Basic usage and tips of the HarmonyOS lightweight database DatabaseHelper](https://dev.to/liu_yang_fc0e605820ac220c/basic-usage-and-tips-of-the-harmonyos-lightweight-database-databasehelper-3oh0)
 <!-- BLOG-POST-LIST:END -->
 
 
