@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL for Dummies](https://dev.to/dehemi_fabio/graphql-for-dummies-192)
-- [I added if-else &amp; loops in HTML5](https://dev.to/ktbsomen/i-added-if-else-loops-in-html5-3ola)
-- [Encapsulation &lpar;getter &amp;setter&rpar;](https://dev.to/ranjithdhivya/encapsulation-getter-setter-1i28)
-- [🚨 Calling All AI Practitioners: Join the EvoAgentX Community Call—A Gathering for AI Enthusiasts! 🎉](https://dev.to/evoagentx/calling-all-ai-practitioners-join-the-evoagentx-community-call-a-gathering-for-ai-enthusiasts-44di)
+- [Migrating from Ingress to Gateway API: Lessons from the Trenches](https://dev.to/mrupguru/migrating-from-ingress-to-gateway-api-lessons-from-the-trenches-4mnl)
+- [Produce and consume Kafka message with samara and golang](https://dev.to/mossnana/produce-and-consume-kafka-message-with-samara-and-golang-5fh9)
+- [Zero-Config DB Setup with Drizzle ORM Using drizzle-setup CLI](https://dev.to/devgauravjatt/zero-config-db-setup-with-drizzle-orm-using-drizzle-setup-cli-4905)
+- [CI/CD with GitHub Actions Using AWS self-hosted Runner](https://dev.to/sainath_patil_bcb48cfb7b9/cicd-with-github-actions-using-aws-self-hosted-runner-1gap)
 <!-- BLOG-POST-LIST:END -->
 
 
