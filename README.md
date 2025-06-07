@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deps](https://dev.to/fco/deps-453b)
-- [Index Negation Technique](https://dev.to/ashusharmacs/index-negation-technique-19ep)
-- [From Zero to Arrays: A Historical &amp; Conceptual Journey to Mastering Arrays](https://dev.to/m__mdy__m/from-zero-to-arrays-a-historical-conceptual-journey-to-mastering-arrays-1ge3)
-- [Data Structures Series #3: Binary Trees - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-3-binary-trees-implementation-use-cases-5dl5)
+- [GraphQL for Dummies](https://dev.to/dehemi_fabio/graphql-for-dummies-192)
+- [I added if-else &amp; loops in HTML5](https://dev.to/ktbsomen/i-added-if-else-loops-in-html5-3ola)
+- [Encapsulation &lpar;getter &amp;setter&rpar;](https://dev.to/ranjithdhivya/encapsulation-getter-setter-1i28)
+- [🚨 Calling All AI Practitioners: Join the EvoAgentX Community Call—A Gathering for AI Enthusiasts! 🎉](https://dev.to/evoagentx/calling-all-ai-practitioners-join-the-evoagentx-community-call-a-gathering-for-ai-enthusiasts-44di)
 <!-- BLOG-POST-LIST:END -->
 
 
