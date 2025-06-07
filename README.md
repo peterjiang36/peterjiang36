@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Deep Dive into Solana’s Account Model: The Backbone of Solana’s Architecture](https://dev.to/ayxshsoni/deep-dive-into-solanas-account-model-the-backbone-of-solanas-architecture-22a2)
-- [🖥️ Linux Process Management for Beginners: A Day in the Life of a Junior Sysadmin](https://dev.to/ldwit/linux-process-management-for-beginners-a-day-in-the-life-of-a-junior-sysadmin-41fm)
-- [Implementing Domain-Driven Design with C# and Entity Framework](https://dev.to/chakewitz/implementing-domain-driven-design-with-c-and-entity-framework-1dm9)
-- [Intersection Observer API](https://dev.to/ubbaobada/intersection-observer-api-380o)
+- [ZewpolOS: a Linux-based secure OS for browsing the web](https://dev.to/zako_mako_9a4826822204c78/zewpolos-a-linux-based-secure-os-for-browsing-the-web-cj)
+- [Rails 8 authentication, via a React frontend.](https://dev.to/jbk2/rails-8-authentication-via-a-react-frontend-26fo)
+- [CRUD with JavaScript Fetch and the Platzi Fake Store API](https://dev.to/ahmed_niazy/crud-with-javascript-fetch-and-the-platzi-fake-store-api-142e)
+- [Exceptions for Control Flow are Slow](https://dev.to/alexandreaquiles/exceptions-for-control-flow-are-slow-41pa)
 <!-- BLOG-POST-LIST:END -->
 
 
