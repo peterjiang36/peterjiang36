@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [June Celebrations: Pride In The Shadows, Still We Shine.](https://dev.to/tochi_/june-celebrations-pride-in-the-shadows-still-we-shine-40oi)
-- [Visualizing GPU Metrics with DCGM Exporter](https://dev.to/murajo/visualizing-gpu-metrics-with-dcgm-exporter-1268)
-- [Inbox Translator: Automatic Email Translation Made Easy](https://dev.to/adonaitechnologies/inbox-translator-automatic-email-translation-made-easy-2hc7)
-- [Generative and Predictive AI in Application Security: A Comprehensive Guide](https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-563k)
+- [Introducing Replyas: Shared Inbox, Simplified](https://dev.to/hyvip/introducing-replyas-shared-inbox-simplified-kll)
+- [Coping With Receiving Comments on Your Pull Requests](https://dev.to/carlosrambles/coping-with-receiving-comments-on-your-pull-requests-4fb8)
+- [Understanding Domain Authority: What It Is and How to Achieve a High Score](https://dev.to/cole_ruche/understanding-domain-authority-what-it-is-and-how-to-achieve-a-high-score-2c5g)
+- [Honeymoon in Italy](https://dev.to/carlosrambles/honeymoon-in-italy-4okb)
 <!-- BLOG-POST-LIST:END -->
 
 
