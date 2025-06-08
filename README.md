@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi Devs...](https://dev.to/aayush_yadav_f0bc5d9f5429/hi-devs-ab6)
-- [MailPlanet🌍: Visualize email origins on a global map](https://dev.to/ion_finisher/mailplanet-visualize-email-origins-on-a-global-map-33fo)
-- [HellRush: Building a Python-Based DDoS Simulation Toolkit for Security Education](https://dev.to/medjahdi/hellrush-building-a-python-based-ddos-simulation-toolkit-for-security-education-52f6)
-- [So thrilled! My personal project just made it into the GitHub Trending Top 10! 🎉](https://dev.to/daymychen/so-thrilled-my-personal-project-just-made-it-into-the-github-trending-top-10-3nn1)
+- [Mock Me If You Can : Guide de Survie des Tests Logiciels](https://dev.to/yakadra/mock-me-if-you-can-guide-de-survie-des-tests-logiciels-4c9e)
+- [The Rise of AI-Powered Coding Tools: Cursor, Windsurf, and Beyond](https://dev.to/this-is-learning/the-rise-of-ai-powered-coding-tools-cursor-windsurf-and-beyond-1bla)
+- [MCP vs API](https://dev.to/punkpeye/mcp-vs-api-abb)
+- [Evaluating Trustworthiness in DistilGPT2](https://dev.to/thatechmaestro/evaluating-trustworthiness-in-distilgpt2-51bj)
 <!-- BLOG-POST-LIST:END -->
 
 
