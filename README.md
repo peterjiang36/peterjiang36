@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub and EC2 manual deployment with Deploy keys](https://dev.to/swarupinfotech1/github-and-ec2-manual-deployment-with-deploy-keys-19m2)
-- [Top 5 AI Tools For Students in 2025](https://dev.to/ujjwal_kumar_406b65d7d498/top-5-ai-tools-for-students-in-2025-40c7)
-- [The Discipline of Returning: Prevent Code Erosion &amp; Build Resilient Systems](https://dev.to/tonystpierre/the-discipline-of-returning-prevent-code-erosion-build-resilient-systems-1kj6)
-- [Week 2 - of Learning AI](https://dev.to/distalx/week-2-of-learning-ai-jn0)
+- [Help Me Test ShareShard!](https://dev.to/scarabdata/help-me-test-shareshard-1d4g)
+- [PropertyFlow Mail - Smart Property Management](https://dev.to/ariondev/propertyflow-mail-smart-property-management-5gnm)
+- [Decoding the World: An Introduction to Machine Learning Paradigms](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-world-an-introduction-to-machine-learning-paradigms-6i1)
+- [StudyFlow Mail - Educational Assignment Management](https://dev.to/ariondev/studyflow-mail-educational-assignment-management-2n3c)
 <!-- BLOG-POST-LIST:END -->
 
 
