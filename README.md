@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mock Me If You Can : Guide de Survie des Tests Logiciels](https://dev.to/yakadra/mock-me-if-you-can-guide-de-survie-des-tests-logiciels-4c9e)
-- [The Rise of AI-Powered Coding Tools: Cursor, Windsurf, and Beyond](https://dev.to/this-is-learning/the-rise-of-ai-powered-coding-tools-cursor-windsurf-and-beyond-1bla)
-- [MCP vs API](https://dev.to/punkpeye/mcp-vs-api-abb)
-- [Evaluating Trustworthiness in DistilGPT2](https://dev.to/thatechmaestro/evaluating-trustworthiness-in-distilgpt2-51bj)
+- [Building an AI Voice Assistant in 1 Minute &lpar;Command Line&rpar;](https://dev.to/zuluana/building-an-ai-voice-assistant-in-1-minute-command-line-n4i)
+- [Build Your CAN Bus Skills: A Beginner’s Guide to Using CAN in Your Projects](https://dev.to/ganesh-kumar/build-your-can-bus-skills-a-beginners-guide-to-using-can-in-your-projects-1239)
+- [Frontend Challenge: Joyful June in HTML, CSS &amp; JS](https://dev.to/isha_gupta_06/frontend-challenge-joyful-june-in-html-css-js-40d9)
+- [How to Send Cold Emails as a Developer &lpar;And What Clients Expect to Read&rpar;](https://dev.to/0xdaniiel/how-to-send-cold-emails-as-a-developer-and-what-clients-expect-to-read-5085)
 <!-- BLOG-POST-LIST:END -->
 
 
