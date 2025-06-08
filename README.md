@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Celebrating Festa Junina: Brazilian Tradition in Color and Motion](https://dev.to/jamesrmoro/celebrating-festa-junina-brazilian-tradition-in-color-and-motion-1f2k)
-- [Waterfall-Model software engineering. Does it still make sense nowadays?](https://dev.to/jeandevbr/waterfall-model-software-engineering-does-it-still-make-sense-nowadays-5dln)
-- [Using Svelte Runes in React](https://dev.to/trentbrew/using-svelte-runes-in-react-3g48)
-- [Minha implementação de Autenticação com JWT e Bcrypt](https://dev.to/marcelomagario/minha-implementacao-de-autenticacao-com-jwt-e-bcrypt-1a53)
+- [[Boost]](https://dev.to/kwame_mensah_031f40132829/-3fna)
+- [Daily JavaScript Challenge #JS-201: Check for Balanced Parentheses](https://dev.to/dpc/daily-javascript-challenge-js-201-check-for-balanced-parentheses-2ool)
+- [Dari Ngoding Jadi Masak: Algoritma Kehidupan ala Software Engineer](https://dev.to/chandrabachtiar/dari-ngoding-jadi-masak-algoritma-kehidupan-ala-software-engineer-3jj5)
+- [Own programming language for SSG](https://dev.to/funcieqdev/own-programming-language-for-ssg-7l8)
 <!-- BLOG-POST-LIST:END -->
 
 
