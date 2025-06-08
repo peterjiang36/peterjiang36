@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Digital Literacy: The Role of Online Learning Platforms in Empowering Students](https://dev.to/ghummantech/boosting-digital-literacy-the-role-of-online-learning-platforms-in-empowering-students-2edj)
-- [Advanced Integration of JavaScript with Native Code via FFI](https://dev.to/omriluz1/advanced-integration-of-javascript-with-native-code-via-ffi-47hl)
-- [Array.Map vs For...loop](https://dev.to/abhishekgowda28/arraymap-vs-forloop-34b3)
-- [𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗲 𝗶𝗻 𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗨𝘀𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗧𝗲𝗮𝗺𝘀](https://dev.to/supraja_tangella_b7f0738e/-n70)
+- [Как да подобрим алгоритмичното си мислене &lpar;в 3 стъпки&rpar;](https://dev.to/dvt32/kak-da-podobrim-alghoritmichnoto-si-mislienie-v-3-stpki-4n3k)
+- [Boxing vs Unboxing in C#](https://dev.to/shreyans_padmani/boxing-vs-unboxing-in-c-53no)
+- [CODE TIPS #4 — Именуване на идентификатори &lpar;a.k.a “Спрете с ‘br’ и подобни”&rpar;](https://dev.to/dvt32/code-tips-4-imienuvanie-na-idientifikatori-aka-sprietie-s-br-i-podobni-4b83)
+- [Nyreth - A Recursive Symbolic Cognition System for AI](https://dev.to/thauron/nyreth-a-recursive-symbolic-cognition-system-for-ai-474g)
 <!-- BLOG-POST-LIST:END -->
 
 
