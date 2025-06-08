@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как да подобрим алгоритмичното си мислене &lpar;в 3 стъпки&rpar;](https://dev.to/dvt32/kak-da-podobrim-alghoritmichnoto-si-mislienie-v-3-stpki-4n3k)
-- [Boxing vs Unboxing in C#](https://dev.to/shreyans_padmani/boxing-vs-unboxing-in-c-53no)
-- [CODE TIPS #4 — Именуване на идентификатори &lpar;a.k.a “Спрете с ‘br’ и подобни”&rpar;](https://dev.to/dvt32/code-tips-4-imienuvanie-na-idientifikatori-aka-sprietie-s-br-i-podobni-4b83)
-- [Nyreth - A Recursive Symbolic Cognition System for AI](https://dev.to/thauron/nyreth-a-recursive-symbolic-cognition-system-for-ai-474g)
+- [Add Dark theme &amp; Light theme in website](https://dev.to/capscode/add-dark-theme-light-theme-in-website-3lpl)
+- [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
+- [Building Reliable Protected Routes with React Router v7](https://dev.to/ra1nbow1/building-reliable-protected-routes-with-react-router-v7-1ka0)
+- [Using BullMQ to Power AI Workflows &lpar;with Observability in Mind&rpar;](https://dev.to/lbd/using-bullmq-to-power-ai-workflows-with-observability-in-mind-1ieh)
 <!-- BLOG-POST-LIST:END -->
 
 
