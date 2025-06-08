@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Technology You Should Know: DeerFlow](https://dev.to/kpcofgs/a-new-technology-you-should-know-deerflow-36g1)
-- [🔐 June: Password Management Month – Strengthen Your Digital Locks](https://dev.to/amit_ambekar_c022e6732f8d/june-password-management-month-strengthen-your-digital-locks-21id)
-- [Mastering User Monitoring in Linux](https://dev.to/axisinfo_0a61830e06c3c950/mastering-user-monitoring-in-linux-4lk2)
-- [Linux vs. Windows: A Clear Comparison](https://dev.to/kpcofgs/linux-vs-windows-a-clear-comparison-3l9g)
+- [DynamoDB with AWS EnhancedClient v2.x - Schemas and data serialization made easy](https://dev.to/neeldev96/dynamodb-with-aws-enhancedclient-v2x-schemas-and-data-serialization-made-easy-307i)
+- [🤖 The Sensational Machine](https://dev.to/j_t/the-sensational-machine-4164)
+- [CodeReview Mail - Collaborative Development via Email](https://dev.to/aniruddhaadak/codereview-mail-collaborative-development-via-email-4022)
+- [DSA Pattern — Finding Common Characters From Words](https://dev.to/dev-alamin/dsa-pattern-finding-common-characters-from-words-5a5e)
 <!-- BLOG-POST-LIST:END -->
 
 
