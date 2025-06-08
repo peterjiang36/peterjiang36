@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt Hackathon Day 9/30: Prototyping Features](https://dev.to/thankamatho/bolt-hackathon-day-930-prototyping-features-4k0c)
-- [Build an LLM Web App in Python from Scratch: Part 3 &lpar;FastAPI &amp; WebSockets&rpar;](https://dev.to/zachary62/build-an-llm-web-app-in-python-from-scratch-part-3-fastapi-websockets-1hp5)
-- [SnipMail - AI Powered Summary and Sentiment Inbox WebApp](https://dev.to/totorogendut/snipmail-ai-powered-summary-and-sentiment-inbox-webapp-chj)
-- [Weekly #23-2025: AI Pair Programming Pitfalls, Four-Day Workweek Wins, Stepping Back for Perspective,&#39;Who Cares&#39; Era](https://dev.to/weekly/weekly-23-2025-ai-pair-programming-pitfalls-four-day-workweek-wins-stepping-back-for-4j0e)
+- [GitHub and EC2 manual deployment with Deploy keys](https://dev.to/swarupinfotech1/github-and-ec2-manual-deployment-with-deploy-keys-19m2)
+- [Top 5 AI Tools For Students in 2025](https://dev.to/ujjwal_kumar_406b65d7d498/top-5-ai-tools-for-students-in-2025-40c7)
+- [The Discipline of Returning: Prevent Code Erosion &amp; Build Resilient Systems](https://dev.to/tonystpierre/the-discipline-of-returning-prevent-code-erosion-build-resilient-systems-1kj6)
+- [Week 2 - of Learning AI](https://dev.to/distalx/week-2-of-learning-ai-jn0)
 <!-- BLOG-POST-LIST:END -->
 
 
