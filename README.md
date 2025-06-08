@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Help Me Test ShareShard!](https://dev.to/scarabdata/help-me-test-shareshard-1d4g)
-- [PropertyFlow Mail - Smart Property Management](https://dev.to/ariondev/propertyflow-mail-smart-property-management-5gnm)
-- [Decoding the World: An Introduction to Machine Learning Paradigms](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-world-an-introduction-to-machine-learning-paradigms-6i1)
-- [StudyFlow Mail - Educational Assignment Management](https://dev.to/ariondev/studyflow-mail-educational-assignment-management-2n3c)
+- [Workflows Are Not AI Agents: Selling Lies](https://dev.to/sfundomhlungu/workflows-are-not-ai-agents-selling-lies-8bg)
+- [How Do You See Yourself? A Coder or An Engineer.](https://dev.to/ayushhardeniya/how-do-you-see-yourself-a-coder-or-an-engineer-2dl4)
+- [my love for her](https://dev.to/wood_wood_a90e9a5fb3a1fc0/my-love-for-her-29de)
+- [AI-POWERED MARKET RESEARCH AND CONTENT GENERATION WITH RUNNER-H](https://dev.to/musasco4good/ai-powered-market-research-and-content-generation-with-runner-h-5f4c)
 <!-- BLOG-POST-LIST:END -->
 
 
