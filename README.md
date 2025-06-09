@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Je cherche un développeur pour s’entraîner sur un projet réel](https://dev.to/pthon/je-cherche-un-developpeur-pour-sentrainer-sur-un-projet-reel-5c7f)
-- [Report: Persona 4 Remake to Be Announced at Xbox Games Showcase](https://dev.to/gg_news/report-persona-4-remake-to-be-announced-at-xbox-games-showcase-2mn)
-- [Nioh developer Team Ninja has grown big enough to put out a major new title each year, says president](https://dev.to/gg_news/nioh-developer-team-ninja-has-grown-big-enough-to-put-out-a-major-new-title-each-year-says-4hl5)
-- [How to connect Supabase to Microsoft Power BI](https://dev.to/jenniekibiri/how-to-connect-supabase-to-microsoft-power-bi-50p8)
+- [This Month in Solid #14: New Content, Charts, and Failed Mascots 😎](https://dev.to/danieljcafonso/this-month-in-solid-14-new-content-charts-and-failed-mascots-4bl8)
+- [JavaScript Maps](https://dev.to/sundar_joseph_94059a3e7a6/javascript-maps-j2l)
+- [🏳️‍🌈 Pride RS: LGBTQ+ Flag Component for Rust Frontends](https://dev.to/wiseai/pride-rs-lgbtq-flag-component-for-rust-frontends-1e60)
+- [🚀 17 and Full-Stack: My Dev Journey So Far](https://dev.to/00rvn00/17-and-full-stack-my-dev-journey-so-far-1499)
 <!-- BLOG-POST-LIST:END -->
 
 
