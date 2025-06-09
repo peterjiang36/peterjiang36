@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5 — Real-World Parameter Integration in FastAPI &lpar;Path + Query + Body&rpar;](https://dev.to/aws-builders/day-5-real-world-parameter-integration-in-fastapi-path-query-body-2nof)
-- [Docker vs Podman: An In-Depth Comparison &lpar;2025&rpar;](https://dev.to/mechcloud_academy/docker-vs-podman-an-in-depth-comparison-2025-2eia)
-- [InboxNegotiator: Turning Debt Reminders into Payment Plans with AI and Postmark](https://dev.to/franpcode/inboxnegotiator-turning-debt-reminders-into-payment-plans-with-ai-and-postmark-5d3d)
-- [How to Implement Mixed Computations Between Oracle and MySQL with esProc](https://dev.to/esproc_spl/how-to-implement-mixed-computations-between-oracle-and-mysql-with-esproc-39mi)
+- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
+- [[Boost]](https://dev.to/nikhil_sachapara/-4n57)
+- [[Boost]](https://dev.to/naik_sejal/-16p4)
+- [🚨 Cuando la &quot;Oportunidad&quot; Esconde una Estafa: Mi Experiencia con un Falso Colaborador](https://dev.to/jrgil20/cuando-la-oportunidad-esconde-una-estafa-mi-experiencia-con-un-falso-colaborador-31j9)
 <!-- BLOG-POST-LIST:END -->
 
 
