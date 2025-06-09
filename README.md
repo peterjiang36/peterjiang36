@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rawkode&#39;s Hands-on Intro to Fermyon Wasm Functions](https://dev.to/fermyon/rawkodes-hands-on-intro-to-fermyon-wasm-functions-1dca)
-- [🎙️ Email-to-Podcast RSS Feed Generator using Node.js, OpenAI, ElevenLabs &amp; Postmark](https://dev.to/tom_canfarotta_775a68254f/email-to-podcast-rss-feed-generator-using-nodejs-openai-elevenlabs-postmark-67l)
-- [A quick way to get started with Graphite](https://dev.to/brittneykernan/a-quick-way-to-get-started-with-graphite-5bb2)
-- [Yazılımcılar için 5 Pratik İpucu](https://dev.to/yunus_emremert_1756b71d3/yazilimcilar-icin-5-pratik-ipucu-h96)
+- [Automating Git Sign-offs Per Project: A Complete Guide](https://dev.to/gbti-network/automating-git-sign-offs-per-project-a-complete-guide-mjp)
+- [10 Squircles Worth Checking Out](https://dev.to/sarahmatta/10-squircles-worth-checking-out-5cji)
+- [🌍 Beginner-Friendly Guide to Solving &quot;K-th Smallest in Lexicographical Order&quot; LeetCode 440 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-k-th-smallest-in-lexicographical-order-leetcode-440-c--2il1)
+- [VoiceMailMaster](https://dev.to/abdussamadbello/voicemailmaster-4930)
 <!-- BLOG-POST-LIST:END -->
 
 
