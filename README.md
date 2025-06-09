@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Solid #14: New Content, Charts, and Failed Mascots 😎](https://dev.to/danieljcafonso/this-month-in-solid-14-new-content-charts-and-failed-mascots-4bl8)
-- [JavaScript Maps](https://dev.to/sundar_joseph_94059a3e7a6/javascript-maps-j2l)
-- [🏳️‍🌈 Pride RS: LGBTQ+ Flag Component for Rust Frontends](https://dev.to/wiseai/pride-rs-lgbtq-flag-component-for-rust-frontends-1e60)
-- [🚀 17 and Full-Stack: My Dev Journey So Far](https://dev.to/00rvn00/17-and-full-stack-my-dev-journey-so-far-1499)
+- [Desvendando a Comunicação com LLMs: O Poder da Engenharia de Prompts](https://dev.to/pachicodes/desvendando-a-comunicacao-com-llms-o-poder-da-engenharia-de-prompts-4406)
+- [9 Exciting Open Source Projects to Simplify Your Life as a Developer 👨‍💻👩‍💻](https://dev.to/madza/9-exciting-open-source-projects-to-simplify-your-life-as-a-developer-1eij)
+- [Zero: The Most Dangerous Number in Your Code](https://dev.to/preeti_yadav/zero-the-most-dangerous-number-in-your-code-1l9)
+- [Microsoft Entra ID: What you need to know](https://dev.to/brandondamue/microsoft-entra-id-what-you-need-to-know-8l3)
 <!-- BLOG-POST-LIST:END -->
 
 
