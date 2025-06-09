@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scop in Javascript with example](https://dev.to/swarupinfotech1/scop-in-javascript-with-example-5h47)
-- [Web Design Course in Kolkata: Build Effective Skills Today](https://dev.to/karlos_bajaj_5c38b902a9cd/web-design-course-in-kolkata-build-effective-skills-today-4o5e)
-- [How Blockchain Revolutionized the Gaming Industry](https://dev.to/lbm_solution/how-blockchain-revolutionized-the-gaming-industry-1gd)
-- [Why do AWS dashboards keep breaking — and is there a better way?](https://dev.to/maggy_renoux/why-do-aws-dashboards-keep-breaking-and-is-there-a-better-way-4a86)
+- [&quot;Krishi Rakshak: Lightweight EfficientNet-Based Crop Disease Classifier&quot;](https://dev.to/vikas_sahani_3a7e2706846c/krishi-rakshak-lightweight-efficientnet-based-crop-disease-classifier-5bd6)
+- [Understanding Local and Remote Model Context Protocols](https://dev.to/apideck/understanding-local-and-remote-model-context-protocols-5b26)
+- [Why Does My SSL Site Return the Wrong Certificate When Accessed via IP?](https://dev.to/sharon_42e16b8da44dabde6d/why-does-my-ssl-site-return-the-wrong-certificate-when-accessed-via-ip-do0)
+- [What&#39;s Really Happening in Dev Right Now? &lpar;Plus a Chance to Win Some Gear&rpar;](https://dev.to/highflyer910/whats-really-happening-in-dev-right-now-plus-a-chance-to-win-some-gear-3c86)
 <!-- BLOG-POST-LIST:END -->
 
 
