@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate a PostgreSQL Database to Another Server](https://dev.to/hostman_com/how-to-migrate-a-postgresql-database-to-another-server-56dj)
-- [Charts in CSS](https://dev.to/madsstoumann/charts-in-css-1di1)
-- [Lists, Tuples, Sets, and Dictionaries in Python](https://dev.to/khushii_34ceada974a6bfcc2/lists-tuples-sets-and-dictionaries-in-python-368j)
-- [Top 5 Local LLM Tools and Models in 2025](https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2025-47o7)
+- [Best Bolt.new Alternatives](https://dev.to/violetbrown/best-boltnew-alternatives-253e)
+- [You Can Use Python with Arduino — Here’s How](https://dev.to/david_thomas/you-can-use-python-with-arduino-heres-how-44il)
+- [Partage de données entre composants RiotJS avec Mitt &lpar;émetteur d&#39;évènements&rpar;](https://dev.to/steeve/partage-de-donnees-entre-composants-riotjs-avec-mitt-emetteur-devenements-31di)
+- [[Boost]](https://dev.to/ibrahimbagalwa/-285e)
 <!-- BLOG-POST-LIST:END -->
 
 
