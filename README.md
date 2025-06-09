@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Bolt.new Alternatives](https://dev.to/violetbrown/best-boltnew-alternatives-253e)
-- [You Can Use Python with Arduino — Here’s How](https://dev.to/david_thomas/you-can-use-python-with-arduino-heres-how-44il)
-- [Partage de données entre composants RiotJS avec Mitt &lpar;émetteur d&#39;évènements&rpar;](https://dev.to/steeve/partage-de-donnees-entre-composants-riotjs-avec-mitt-emetteur-devenements-31di)
-- [[Boost]](https://dev.to/ibrahimbagalwa/-285e)
+- [Exhausted by Language Streaks? 7 Habits for Real Fluency](https://dev.to/yaptech/exhausted-by-language-streaks-7-habits-for-real-fluency-2gki)
+- [☁️ From On-Prem to AWS: Your Complete Migration Roadmap🚀](https://dev.to/aws-builders/from-on-prem-to-aws-your-complete-migration-roadmap-ah1)
+- [Take Your Vibe Trading to the Next Level: New AI Scanning Feature in Mode Terminal](https://dev.to/modenetworkl2/take-your-vibe-trading-to-the-next-level-new-ai-scanning-feature-in-mode-terminal-5b79)
+- [Why I won&#39;t quit and you shoudn&#39;t neither](https://dev.to/uzzy412_73/why-i-wont-quit-and-you-shoudnt-neither-12pm)
 <!-- BLOG-POST-LIST:END -->
 
 
