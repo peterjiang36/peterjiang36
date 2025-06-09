@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
-- [🛣️ Complete React Roadmap – Become a React Superhero 💪](https://dev.to/coder_studios/complete-react-roadmap-become-a-react-superhero-k54)
-- [Helper, Utility, Factory… or Something More Sinister?](https://dev.to/duplessisvanaswegen/helper-utility-factory-or-something-more-sinister-426e)
-- [7 Strategies to Stay Sane in the Never-Ending Tech Hype Cycle](https://dev.to/canro91/7-strategies-to-stay-sane-in-the-never-ending-tech-hype-cycle-3ef3)
+- [Most Accurate Translator Tool: What to Look for](https://dev.to/liamcorwin/most-accurate-translator-tool-what-to-look-for-k73)
+- [Instant Dataverse Functions &amp; Low-Code Plug-ins](https://dev.to/wyattdave/instant-dataverse-functions-low-code-plug-ins-2l20)
+- [An efficient approach to problem solving for DSA](https://dev.to/addy118/an-efficient-approach-to-problem-solving-for-dsa-2j6l)
+- [Understanding Type Coercion in JavaScript](https://dev.to/crispy-broccoli/understanding-type-coercion-in-javascript-35k5)
 <!-- BLOG-POST-LIST:END -->
 
 
