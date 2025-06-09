@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SupportAddress — An email-first support platform](https://dev.to/arnu515/supportaddress-an-email-first-support-platform-1lo5)
-- [Mail to Blog: Publish to Blog using Email](https://dev.to/gigaarpit/mail-to-blog-publish-to-blog-using-email-3imn)
-- [Postmark Challenge: Publish to Dev.to Straight from Your Inbox 📖](https://dev.to/razielrodrigues/postmark-challenge-publish-to-devto-straight-from-your-inbox-e16)
-- [Redesignr.ai: The Fastest Way to Redesign or Rebuild Your Website with AI](https://dev.to/web5lab_938e9096be8dc3e78/redesignrai-the-fastest-way-to-redesign-or-rebuild-your-website-with-ai-4dhk)
+- [Rawkode&#39;s Hands-on Intro to Fermyon Wasm Functions](https://dev.to/fermyon/rawkodes-hands-on-intro-to-fermyon-wasm-functions-1dca)
+- [🎙️ Email-to-Podcast RSS Feed Generator using Node.js, OpenAI, ElevenLabs &amp; Postmark](https://dev.to/tom_canfarotta_775a68254f/email-to-podcast-rss-feed-generator-using-nodejs-openai-elevenlabs-postmark-67l)
+- [A quick way to get started with Graphite](https://dev.to/brittneykernan/a-quick-way-to-get-started-with-graphite-5bb2)
+- [Yazılımcılar için 5 Pratik İpucu](https://dev.to/yunus_emremert_1756b71d3/yazilimcilar-icin-5-pratik-ipucu-h96)
 <!-- BLOG-POST-LIST:END -->
 
 
