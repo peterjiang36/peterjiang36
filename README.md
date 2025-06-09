@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exhausted by Language Streaks? 7 Habits for Real Fluency](https://dev.to/yaptech/exhausted-by-language-streaks-7-habits-for-real-fluency-2gki)
-- [☁️ From On-Prem to AWS: Your Complete Migration Roadmap🚀](https://dev.to/aws-builders/from-on-prem-to-aws-your-complete-migration-roadmap-ah1)
-- [Take Your Vibe Trading to the Next Level: New AI Scanning Feature in Mode Terminal](https://dev.to/modenetworkl2/take-your-vibe-trading-to-the-next-level-new-ai-scanning-feature-in-mode-terminal-5b79)
-- [Why I won&#39;t quit and you shoudn&#39;t neither](https://dev.to/uzzy412_73/why-i-wont-quit-and-you-shoudnt-neither-12pm)
+- [Je cherche un développeur pour s’entraîner sur un projet réel](https://dev.to/pthon/je-cherche-un-developpeur-pour-sentrainer-sur-un-projet-reel-5c7f)
+- [Report: Persona 4 Remake to Be Announced at Xbox Games Showcase](https://dev.to/gg_news/report-persona-4-remake-to-be-announced-at-xbox-games-showcase-2mn)
+- [Nioh developer Team Ninja has grown big enough to put out a major new title each year, says president](https://dev.to/gg_news/nioh-developer-team-ninja-has-grown-big-enough-to-put-out-a-major-new-title-each-year-says-4hl5)
+- [How to connect Supabase to Microsoft Power BI](https://dev.to/jenniekibiri/how-to-connect-supabase-to-microsoft-power-bi-50p8)
 <!-- BLOG-POST-LIST:END -->
 
 
