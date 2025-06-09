@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/nikhil_sachapara/-1gh)
-- [[Boost]](https://dev.to/nikhil_sachapara/-4n57)
-- [[Boost]](https://dev.to/naik_sejal/-16p4)
-- [🚨 Cuando la &quot;Oportunidad&quot; Esconde una Estafa: Mi Experiencia con un Falso Colaborador](https://dev.to/jrgil20/cuando-la-oportunidad-esconde-una-estafa-mi-experiencia-con-un-falso-colaborador-31j9)
+- [Home Assistant: Measuring Sound and Vibration](https://dev.to/admantium/home-assistant-measuring-sound-and-vibration-4p48)
+- [🛣️ Complete React Roadmap – Become a React Superhero 💪](https://dev.to/coder_studios/complete-react-roadmap-become-a-react-superhero-k54)
+- [Helper, Utility, Factory… or Something More Sinister?](https://dev.to/duplessisvanaswegen/helper-utility-factory-or-something-more-sinister-426e)
+- [7 Strategies to Stay Sane in the Never-Ending Tech Hype Cycle](https://dev.to/canro91/7-strategies-to-stay-sane-in-the-never-ending-tech-hype-cycle-3ef3)
 <!-- BLOG-POST-LIST:END -->
 
 
