@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Git Sign-offs Per Project: A Complete Guide](https://dev.to/gbti-network/automating-git-sign-offs-per-project-a-complete-guide-mjp)
-- [10 Squircles Worth Checking Out](https://dev.to/sarahmatta/10-squircles-worth-checking-out-5cji)
-- [🌍 Beginner-Friendly Guide to Solving &quot;K-th Smallest in Lexicographical Order&quot; LeetCode 440 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-solving-k-th-smallest-in-lexicographical-order-leetcode-440-c--2il1)
-- [VoiceMailMaster](https://dev.to/abdussamadbello/voicemailmaster-4930)
+- [Day 5 — Real-World Parameter Integration in FastAPI &lpar;Path + Query + Body&rpar;](https://dev.to/aws-builders/day-5-real-world-parameter-integration-in-fastapi-path-query-body-2nof)
+- [Docker vs Podman: An In-Depth Comparison &lpar;2025&rpar;](https://dev.to/mechcloud_academy/docker-vs-podman-an-in-depth-comparison-2025-2eia)
+- [InboxNegotiator: Turning Debt Reminders into Payment Plans with AI and Postmark](https://dev.to/franpcode/inboxnegotiator-turning-debt-reminders-into-payment-plans-with-ai-and-postmark-5d3d)
+- [How to Implement Mixed Computations Between Oracle and MySQL with esProc](https://dev.to/esproc_spl/how-to-implement-mixed-computations-between-oracle-and-mysql-with-esproc-39mi)
 <!-- BLOG-POST-LIST:END -->
 
 
