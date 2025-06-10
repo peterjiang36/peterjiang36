@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Guilty as Sock Hub: Tools and Strategies for Your Party Game](https://dev.to/youming666/introducing-guilty-as-sock-hub-tools-and-strategies-for-your-party-game-13fn)
-- [AI Funding and Developments: Navigating the 2025 Landscape](https://dev.to/rohit_bhatu/ai-funding-and-developments-navigating-the-2025-landscape-3c80)
-- [Unlocking The Power of AI: Everyday AI for Business Transformation](https://dev.to/abhayit2000/unlocking-the-power-of-ai-everyday-ai-for-business-transformation-1634)
-- [Frictionless Funnels: Designing for Micro-Decisions That Boost SEO Metrics](https://dev.to/molly_scott_0605/frictionless-funnels-designing-for-micro-decisions-that-boost-seo-metrics-67n)
+- [Building Self-Hosted AI Agents with n8n and Pinggy: A Developer&#39;s Journey](https://dev.to/lightningdev123/building-self-hosted-ai-agents-with-n8n-and-pinggy-a-developers-journey-3n4c)
+- [Reducing Cloud Costs](https://dev.to/bridgegroupsolutions/reducing-cloud-costs-3agn)
+- [Python Modules and Packages: The Complete Guide with Examples](https://dev.to/aadi_dawane_36464d534bb4c/python-modules-and-packages-the-complete-guide-with-examples-4hc5)
+- [Harnessing AI: A Guide for Startups](https://dev.to/jetthoughts/harnessing-ai-a-guide-for-startups-2472)
 <!-- BLOG-POST-LIST:END -->
 
 
