@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Training Your First ML Model on Amazon SageMaker Using S3 Data](https://dev.to/simonnungwa/training-your-first-ml-model-on-amazon-sagemaker-using-s3-data-209b)
-- [Iterator in Python &lpar;5&rpar;](https://dev.to/hyperkai/iterator-in-python-5-584d)
-- [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
-- [Debug Heroku Deployment Errors: Slay Asset Compilation &amp; Env Vars Dragons 🐉](https://dev.to/alex_aslam/debug-heroku-deployment-errors-slay-asset-compilation-env-vars-dragons-3pdk)
+- [Inbox Zen in 200 Words: My “Daily Focus Capsule](https://dev.to/raeder20/inbox-zen-in-200-words-my-daily-focus-capsule-6jk)
+- [🚀 Supercharge Your Laravel App with Highly Optimized Eloquent Queries](https://dev.to/tahsin000/supercharge-your-laravel-app-with-highly-optimized-eloquent-queries-2o1h)
+- [🎮 Singleton e Concorrência em C# — Um Joguinho pra Aprender de Verdade](https://dev.to/rodrigoschemes/singleton-e-concorrencia-em-c-um-joguinho-pra-aprender-de-verdade-1k4o)
+- [Need help finsing the tight path forward to get my full stack as a beginner](https://dev.to/nikolai143/need-help-finsing-the-tight-path-forward-to-get-my-full-stack-as-a-beginner-1k9o)
 <!-- BLOG-POST-LIST:END -->
 
 
