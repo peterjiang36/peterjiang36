@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure Casual: Next.js, TypeScript, shadcn/ui &amp; Zustand E-Commerce](https://dev.to/saidmounaim/pure-casual-nextjs-typescript-shadcnui-zustand-e-commerce-2foj)
-- [[Boost]](https://dev.to/anthonymax/-2j64)
-- [Quantum Computing 101: Why Every Developer Should Pay Attention Right Now](https://dev.to/dct_technology/quantum-computing-101-why-every-developer-should-pay-attention-right-now-139k)
-- [Developers, Stop Guessing , Real Users Are Telling You What Works](https://dev.to/p_0c0278d/developers-stop-guessing-real-users-are-telling-you-what-works-4k3h)
+- [Introducing Guilty as Sock Hub: Tools and Strategies for Your Party Game](https://dev.to/youming666/introducing-guilty-as-sock-hub-tools-and-strategies-for-your-party-game-13fn)
+- [AI Funding and Developments: Navigating the 2025 Landscape](https://dev.to/rohit_bhatu/ai-funding-and-developments-navigating-the-2025-landscape-3c80)
+- [Unlocking The Power of AI: Everyday AI for Business Transformation](https://dev.to/abhayit2000/unlocking-the-power-of-ai-everyday-ai-for-business-transformation-1634)
+- [Frictionless Funnels: Designing for Micro-Decisions That Boost SEO Metrics](https://dev.to/molly_scott_0605/frictionless-funnels-designing-for-micro-decisions-that-boost-seo-metrics-67n)
 <!-- BLOG-POST-LIST:END -->
 
 
