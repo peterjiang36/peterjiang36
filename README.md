@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Apps Run: Bare Metal, VMs, and Containers Compared](https://dev.to/rijultp/how-apps-run-bare-metal-vms-and-containers-compared-13ch)
-- [Why You Should Care About BuildContext in Flutter: The One Mistake That Cost Me Hours](https://dev.to/alaminkarno/why-you-should-care-about-buildcontext-in-flutter-the-one-mistake-that-cost-me-hours-5fn3)
-- [This kind of story gives new leaders permission to be thoughtful, not just efficient.](https://dev.to/themargauxs/this-kind-of-story-gives-new-leaders-permission-to-be-thoughtful-not-just-efficient-19d4)
-- [◼️34/100 Block-by-Block: Web3 domain services](https://dev.to/nocibambi/34100-block-by-block-web3-domain-services-489d)
+- [Getting started with Excel for Data Analysis: What I have learned so far](https://dev.to/wanjirunjoroge/getting-started-with-excel-for-data-analysis-what-i-have-learned-so-for-l3j)
+- [WSl 2 + Docker + DDEV + VSCode](https://dev.to/oskar_calvo_1615a9b3b293f/wsl-2-docker-ddev-vscode-584a)
+- [Csharp .NET Interview Topics - How&#39;d I do?](https://dev.to/sarahmatta/csharp-net-interview-topics-howd-i-do-5a9g)
+- [First Kubernetes Deployment with Minikube](https://dev.to/gingermuffn/first-kubernetes-deployment-with-minikube-1gk8)
 <!-- BLOG-POST-LIST:END -->
 
 
