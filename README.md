@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Session Manager but in Azure? Introducing Azure Bastion](https://dev.to/ppabis/aws-session-manager-but-in-azure-introducing-azure-bastion-2597)
-- [100+ Downloads in One Day!](https://dev.to/pjdeveloper896/100-downloads-in-one-day-1ggn)
-- [Java Inheritance](https://dev.to/prasanth362k/java-inheritance-1ha7)
-- [Top SaaS Trends in 2025: What Developers &amp; Startups Need to Know](https://dev.to/davidsadler/top-saas-trends-in-2025-what-developers-startups-need-to-know-3med)
+- [Optimize Your SaaS Funnel with AI Developer](https://dev.to/alex2002/optimize-your-saas-funnel-with-ai-developer-3hca)
+- [SelfDB – Ditch Supabase and Firebase Lock-In, Self-Host Simply](https://dev.to/selfdb_io/selfdb-ditch-supabase-and-firebase-lock-in-self-host-simply-53nb)
+- [The Unstoppable Rise of AI: A 2025 Perspective](https://dev.to/deepika0614/the-unstoppable-rise-of-ai-a-2025-perspective-475h)
+- [These 10 AI Coding Tools Feel Like Cheating &lpar;But They’re Just That Good&rpar;](https://dev.to/therealmrmumba/these-10-ai-dev-tools-feel-like-cheating-but-theyre-just-that-good-1jb5)
 <!-- BLOG-POST-LIST:END -->
 
 
