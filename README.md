@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Your SaaS Funnel with AI Developer](https://dev.to/alex2002/optimize-your-saas-funnel-with-ai-developer-3hca)
-- [SelfDB – Ditch Supabase and Firebase Lock-In, Self-Host Simply](https://dev.to/selfdb_io/selfdb-ditch-supabase-and-firebase-lock-in-self-host-simply-53nb)
-- [The Unstoppable Rise of AI: A 2025 Perspective](https://dev.to/deepika0614/the-unstoppable-rise-of-ai-a-2025-perspective-475h)
-- [These 10 AI Coding Tools Feel Like Cheating &lpar;But They’re Just That Good&rpar;](https://dev.to/therealmrmumba/these-10-ai-dev-tools-feel-like-cheating-but-theyre-just-that-good-1jb5)
+- [The complete guide to building MCP Agents](https://dev.to/composiodev/the-complete-guide-to-building-mcp-agents-543m)
+- [What Is Bot Traffic &lpar;And How SafeLine WAF Stops It&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/what-is-bot-traffic-and-how-safeline-waf-stops-it-5dpg)
+- [Build an awesome GitHub developer portfolio.](https://dev.to/swarupinfotech1/build-an-awesome-github-developer-portfolio-427)
+- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolulope_victor_c276e3ee3/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2i6l)
 <!-- BLOG-POST-LIST:END -->
 
 
