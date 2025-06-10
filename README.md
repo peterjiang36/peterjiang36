@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔒 How HTTPS Works — Explained in a Comic! 🌈🎉🍕](https://dev.to/ml318097/how-https-works-explained-in-a-comic-2p8a)
-- [Tidbit 04: JavaScript Promise Chain vs No-Chain](https://dev.to/atapas/tidbit-04-javascript-promise-chain-vs-no-chain-339p)
-- [✨ Web3 Tribe: No Cap, Just Community 💎](https://dev.to/dhis_is_jj/web3-tribe-no-cap-just-community-4j7o)
-- [🚀 Zero-Config Database Setup with Drizzle ORM - From Zero to Hero in 30 Seconds](https://dev.to/devgauravjatt/zero-config-database-setup-with-drizzle-orm-from-zero-to-hero-in-30-seconds-4f2d)
+- [Custodial vs Self Custody vs MPC Wallets: Where KS Wallet Stands](https://dev.to/kalpstudio/custodial-vs-self-custody-vs-mpc-wallets-where-ks-wallet-stands-5g4o)
+- [Tirne: The Explicit, Go-Inspired Web Framework for Bun, Node,Deno and Workers](https://dev.to/yukinisihikawa/tirne-the-explicit-go-inspired-web-framework-for-bun-nodedeno-and-workers-2igi)
+- [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://dev.to/zenika/rendre-son-podcast-accessible-avec-lia-au-service-de-la-transcription-e01)
+- [How Google Reinvented TCP for Faster Video Streaming](https://dev.to/danielsuhett/how-google-reinvented-tcp-for-faster-video-streaming-1815)
 <!-- BLOG-POST-LIST:END -->
 
 
