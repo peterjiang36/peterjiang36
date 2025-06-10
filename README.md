@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Custodial vs Self Custody vs MPC Wallets: Where KS Wallet Stands](https://dev.to/kalpstudio/custodial-vs-self-custody-vs-mpc-wallets-where-ks-wallet-stands-5g4o)
-- [Tirne: The Explicit, Go-Inspired Web Framework for Bun, Node,Deno and Workers](https://dev.to/yukinisihikawa/tirne-the-explicit-go-inspired-web-framework-for-bun-nodedeno-and-workers-2igi)
-- [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://dev.to/zenika/rendre-son-podcast-accessible-avec-lia-au-service-de-la-transcription-e01)
-- [How Google Reinvented TCP for Faster Video Streaming](https://dev.to/danielsuhett/how-google-reinvented-tcp-for-faster-video-streaming-1815)
+- [What is the Most Difficult Thing You Ever Had to Code?](https://dev.to/anitaolsen/what-is-the-most-difficult-thing-you-ever-had-to-code-bfp)
+- [🚀 From Local Repo to GitHub – Your First Commit and Push](https://dev.to/1suleyman/from-local-repo-to-github-your-first-commit-and-push-26fe)
+- [I appreciate the fact that this didn’t try to fix everything with a list of tools. It’s deeper than that, and more useful because of it.](https://dev.to/dayologic/i-appreciate-the-fact-that-this-didnt-try-to-fix-everything-with-a-list-of-tools-its-deeper-than-mda)
+- [Is Burnout the Default Setting for Modern Developers?](https://dev.to/jliter/is-burnout-the-default-setting-for-modern-developers-4ooc)
 <!-- BLOG-POST-LIST:END -->
 
 
