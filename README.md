@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Excel for Data Analysis: What I have learned so far](https://dev.to/wanjirunjoroge/getting-started-with-excel-for-data-analysis-what-i-have-learned-so-for-l3j)
-- [WSl 2 + Docker + DDEV + VSCode](https://dev.to/oskar_calvo_1615a9b3b293f/wsl-2-docker-ddev-vscode-584a)
-- [Csharp .NET Interview Topics - How&#39;d I do?](https://dev.to/sarahmatta/csharp-net-interview-topics-howd-i-do-5a9g)
-- [First Kubernetes Deployment with Minikube](https://dev.to/gingermuffn/first-kubernetes-deployment-with-minikube-1gk8)
+- [Trying Out New Ideas](https://dev.to/allramest83/trying-out-new-ideas-4pjk)
+- [🏳️‍⚧️ Pride Hero: LGBTQ+ Landing Page for WASM Frameworks](https://dev.to/wiseai/pride-hero-lgbtq-landing-page-for-wasm-frameworks-4kl5)
+- [Current Trends in Authorization: Simplifying Access Control](https://dev.to/aydrian/current-trends-in-authorization-simplifying-access-control-29hk)
+- [Finding Inner Strength: Life&#39;s Lessons from the Toughest Moments](https://dev.to/shed_son_8667cd19f0263a67/finding-inner-strength-lifes-lessons-from-the-toughest-moments-5eg2)
 <!-- BLOG-POST-LIST:END -->
 
 
