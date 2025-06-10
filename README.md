@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The complete guide to building MCP Agents](https://dev.to/composiodev/the-complete-guide-to-building-mcp-agents-543m)
-- [What Is Bot Traffic &lpar;And How SafeLine WAF Stops It&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/what-is-bot-traffic-and-how-safeline-waf-stops-it-5dpg)
-- [Build an awesome GitHub developer portfolio.](https://dev.to/swarupinfotech1/build-an-awesome-github-developer-portfolio-427)
-- [Automate to Scale: How Founders &amp; Startups Can Streamline Bookings, Emails, and CRM with n8n](https://dev.to/tolulope_victor_c276e3ee3/automate-to-scale-how-founders-startups-can-streamline-bookings-emails-and-crm-with-n8n-2i6l)
+- [Pure Casual: Next.js, TypeScript, shadcn/ui &amp; Zustand E-Commerce](https://dev.to/saidmounaim/pure-casual-nextjs-typescript-shadcnui-zustand-e-commerce-2foj)
+- [[Boost]](https://dev.to/anthonymax/-2j64)
+- [Quantum Computing 101: Why Every Developer Should Pay Attention Right Now](https://dev.to/dct_technology/quantum-computing-101-why-every-developer-should-pay-attention-right-now-139k)
+- [Developers, Stop Guessing , Real Users Are Telling You What Works](https://dev.to/p_0c0278d/developers-stop-guessing-real-users-are-telling-you-what-works-4k3h)
 <!-- BLOG-POST-LIST:END -->
 
 
