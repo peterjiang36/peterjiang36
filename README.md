@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying Out New Ideas](https://dev.to/allramest83/trying-out-new-ideas-4pjk)
-- [🏳️‍⚧️ Pride Hero: LGBTQ+ Landing Page for WASM Frameworks](https://dev.to/wiseai/pride-hero-lgbtq-landing-page-for-wasm-frameworks-4kl5)
-- [Current Trends in Authorization: Simplifying Access Control](https://dev.to/aydrian/current-trends-in-authorization-simplifying-access-control-29hk)
-- [Finding Inner Strength: Life&#39;s Lessons from the Toughest Moments](https://dev.to/shed_son_8667cd19f0263a67/finding-inner-strength-lifes-lessons-from-the-toughest-moments-5eg2)
+- [Xcode Build Phase 文件类型谜团](https://dev.to/yo1995/xcode-build-phase-wen-jian-lei-xing-mi-tuan-o03)
+- [The IntelliJ Settings I Always Change &lpar;Every. Single. Time.&rpar;](https://dev.to/tarcalia/the-intellij-settings-i-always-change-every-single-time-2oii)
+- [Story Hero - Day 12 Update](https://dev.to/danielreiling/story-hero-day-12-update-2p5c)
+- [Create a Java Microservice Using Spring Boot in Minutes with Maven](https://dev.to/amit_salvi_at_dev_to/create-a-java-microservice-using-spring-boot-in-minutes-with-maven-50p9)
 <!-- BLOG-POST-LIST:END -->
 
 
