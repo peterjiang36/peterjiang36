@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Self-Hosted AI Agents with n8n and Pinggy: A Developer&#39;s Journey](https://dev.to/lightningdev123/building-self-hosted-ai-agents-with-n8n-and-pinggy-a-developers-journey-3n4c)
-- [Reducing Cloud Costs](https://dev.to/bridgegroupsolutions/reducing-cloud-costs-3agn)
-- [Python Modules and Packages: The Complete Guide with Examples](https://dev.to/aadi_dawane_36464d534bb4c/python-modules-and-packages-the-complete-guide-with-examples-4hc5)
-- [Harnessing AI: A Guide for Startups](https://dev.to/jetthoughts/harnessing-ai-a-guide-for-startups-2472)
+- [A Deep Dive into Arrays – Part 1: What, Why &amp; How](https://dev.to/ananyakallankudlu/a-deep-dive-into-arrays-part-1-what-why-how-1oio)
+- [New to Flotiq? Here’s what you need to know before you register](https://dev.to/flotiq/new-to-flotiq-heres-what-you-need-to-know-before-you-register-4odp)
+- [Crap, is Node.js Dead? I Barely Warmed Up My Express App!](https://dev.to/tomastomas/crap-is-nodejs-dead-i-barely-warmed-up-my-express-app-2fof)
+- [Untitled](https://dev.to/lakhdar_kaddar_e80cf1d903/untitled-220o)
 <!-- BLOG-POST-LIST:END -->
 
 
