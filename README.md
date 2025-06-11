@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot 3 Redis](https://dev.to/c4rlosc7/spring-boot-3-redis-l9g)
-- [Why the M16A1 Upper Is Still the Backbone of Precision AR Builds](https://dev.to/alexjames25/why-the-m16a1-upper-is-still-the-backbone-of-precision-ar-builds-nmg)
-- [什么是环境变量 环境变量有什么用](https://dev.to/woodyxin/shi-yao-shi-huan-jing-bian-liang-huan-jing-bian-liang-you-shi-yao-yong-1090)
-- [My personal website](https://dev.to/m__mdy__m/my-personal-website-59hc)
+- [Le chaînon manquant de la documentation GCP : cartographier la toile invisible des dépendances d&#39;API](https://dev.to/laformulenuagique/le-chainon-manquant-de-la-documentation-gcp-cartographier-la-toile-invisible-des-dependances-dapi-33o)
+- [Are You Paying Too Much for Windows?](https://dev.to/azzeddouche/are-you-paying-too-much-for-windows-53kb)
+- [My personal website](https://dev.to/m__mdy__m/my-personal-website-3lg1)
+- [Graceful Degradation in Software and Teams: How Resilient Systems Fail Well](https://dev.to/tonystpierre/graceful-degradation-in-software-and-teams-how-resilient-systems-fail-well-kh4)
 <!-- BLOG-POST-LIST:END -->
 
 
