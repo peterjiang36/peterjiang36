@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI to Detect Flaky Tests in CI/CD Pipelines: A Practical Framework for QA Teams](https://dev.to/ramamallika_kadali_49a08f/using-ai-to-detect-flaky-tests-in-cicd-pipelines-a-practical-framework-for-qa-teams-hpc)
-- [Excel; still an enigma, for now.](https://dev.to/gacherimutua/excel-still-an-enigma-for-now-41ag)
-- [Gist Share](https://dev.to/jswhisperer/gist-share-4ac4)
-- [Story Hero - Day 13 Update](https://dev.to/danielreiling/story-hero-day-13-update-3a4h)
+- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
+- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
+- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
+- [This AI App Made My Trades Smarter — Try It FREE Before Everyone Else!](https://dev.to/juanemilio31323/this-ai-app-made-my-trades-smarter-try-it-free-before-everyone-else-o07)
 <!-- BLOG-POST-LIST:END -->
 
 
