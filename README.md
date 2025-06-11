@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Excel has changed my view on data and its analysis](https://dev.to/lesootia/excel-has-changed-my-view-on-data-and-its-analysis-4lk)
-- [Cracking Down on Cyber Scams: A Breakthrough in Email Threat Detection Using AI .](https://dev.to/saboorhamedi/cracking-down-on-cyber-scams-a-breakthrough-in-email-threat-detection-using-ai--4049)
-- [How to Build a React PDF Viewer for Next.js in Minutes](https://dev.to/9haroon/how-to-build-a-react-pdf-viewer-for-nextjs-in-minutes-3pj)
-- [◼️35/100: Block-by-Block: Data location in Solidity](https://dev.to/nocibambi/35100-block-by-block-data-location-in-solidity-2j9i)
+- [If And Else In Java](https://dev.to/vignesh_m_4971f2f8dfa54/if-and-else-in-java-4n5f)
+- [Hacking Layout Before CSS Even Existed](https://dev.to/denodell/hacking-layout-before-css-even-existed-1n9c)
+- [Embracing TypeScript Principles in Go: The Creation of a Zod-Inspired Validation Library](https://dev.to/aymanepraxe/embracing-typescript-principles-in-go-the-creation-of-a-zod-inspired-validation-library-4g6d)
+- [Top 5 The Best Agentic AI Courses to master in 2025](https://dev.to/pkkolla/top-5-the-best-agentic-ai-courses-to-master-in-2025-4ana)
 <!-- BLOG-POST-LIST:END -->
 
 
