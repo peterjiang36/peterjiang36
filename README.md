@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Kubernetes Interview Questions and Answers](https://dev.to/hostman_com/top-kubernetes-interview-questions-and-answers-202o)
-- [Git branch](https://dev.to/immanuel_joy_60fa98b6d1b3/git-branch-j0m)
-- [💼 Interviewing: The Most Profitable Skill You Can Learn](https://dev.to/ml318097/interviewing-the-most-profitable-skill-you-can-learn-1caj)
-- [Some Vim snippets from my workflow](https://dev.to/vbd/some-vim-snippets-from-my-workflow-1054)
+- [Series: Frontend Architecture in a Nutshell: Architecture](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-architecture-3jme)
+- [What&#39;s the best way to monetize free technical content without killing the vibe?](https://dev.to/devopsdaily/whats-the-best-way-to-monetize-free-technical-content-without-killing-the-vibe-3m57)
+- [AWS Partner Summit Madrid 2025](https://dev.to/tpeoficial/aws-partner-summit-madrid-2025-3jo1)
+- [Series: Frontend Architecture in a Nutshell: Requirements](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-requirements-4jk3)
 <!-- BLOG-POST-LIST:END -->
 
 
