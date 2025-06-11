@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is HTML not a Programming Language?](https://dev.to/dat_one_dev/is-html-not-a-programming-language-1ifi)
-- [AI Is Writing the Code—So Why Are We Still Debugging Everything by Hand?](https://dev.to/engineeredai/ai-is-writing-the-code-so-why-are-we-still-debugging-everything-by-hand-31n8)
-- [动态代理](https://dev.to/aquareo/dong-tai-dai-li-3hk1)
-- [Personal Picks: Data Product News &lpar;June 11, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-june-11-2025-fii)
+- [Consensus Algorithms](https://dev.to/ramya_boorugula_b92d0867b/consensus-algorithms-eji)
+- [The Honest Truth About Scaling at Big Tech](https://dev.to/ramya_boorugula_b92d0867b/the-honest-truth-about-scaling-at-big-tech-1gd0)
+- [How to Build a Payment Gateway with Django and PayPal: A Step-by-Step Guide](https://dev.to/kihuni/how-to-build-a-payment-gateway-with-django-and-paypal-a-step-by-step-guide-2e20)
+- [Understanding Leap Seconds and the 2005 Linux OS Glitch](https://dev.to/adityabhuyan/understanding-leap-seconds-and-the-2005-linux-os-glitch-2ffm)
 <!-- BLOG-POST-LIST:END -->
 
 
