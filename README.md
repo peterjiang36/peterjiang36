@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Series: Frontend Architecture in a Nutshell: Architecture](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-architecture-3jme)
-- [What&#39;s the best way to monetize free technical content without killing the vibe?](https://dev.to/devopsdaily/whats-the-best-way-to-monetize-free-technical-content-without-killing-the-vibe-3m57)
-- [AWS Partner Summit Madrid 2025](https://dev.to/tpeoficial/aws-partner-summit-madrid-2025-3jo1)
-- [Series: Frontend Architecture in a Nutshell: Requirements](https://dev.to/mshertzberg/series-frontend-architecture-in-a-nutshell-requirements-4jk3)
+- [🏗️ DEMOLISH THE GIANT: OPENAI — The Cult of the Prompt Whisperer](https://dev.to/the_epyq/demolish-the-giant-openai-the-cult-of-the-prompt-whisperer-g1c)
+- [HTML AND CSS INTRODUCTION](https://dev.to/sabithasivaprakasam/html-and-css-introduction-152o)
+- [Today I learn Introduction of React...](https://dev.to/chithra_priya/today-i-learn-introduction-of-react-222a)
+- [Day 5/180 Frontend Dev: Mastering HTML Lists - Ordered, Unordered, and Description Lists](https://dev.to/code_2/day-5180-frontend-dev-mastering-html-lists-ordered-unordered-and-description-lists-4fik)
 <!-- BLOG-POST-LIST:END -->
 
 
