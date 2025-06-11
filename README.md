@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Database Schema and REST APIs with a Single Prompt Using GitHub Copilot in VS Code](https://dev.to/bobur/create-a-database-schema-and-rest-apis-with-a-single-prompt-using-github-copilot-in-vs-code-41dj)
-- [Why Russia Should Be on Every Traveler’s Bucket List in 2025](https://dev.to/muppidathiskyplanet_b9695/why-russia-should-be-on-every-travelers-bucket-list-in-2025-1g28)
-- [How to Run a Tiny LLM in a Potato Computer](https://dev.to/darwinphi/how-to-run-a-tiny-llm-in-a-potato-computer-2d63)
-- [LDR Sensor Guide for Beginners: Meaning, Types, and Applications](https://dev.to/vayuyaan/ldr-sensor-guide-for-beginners-meaning-types-and-applications-346h)
+- [Will AI Take Your Software Job?](https://dev.to/sfundomhlungu/will-ai-take-your-software-job-5gno)
+- [OLED vs LCD Screens](https://dev.to/bizbee/oled-vs-lcd-screens-4m53)
+- [How to Design a Spiral Sea Shell Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-sea-shell-using-3d-cad-software-4mbk)
+- [🚀 RazChatz – Real-Time Chat App](https://dev.to/mohammad_razak/razchatz-real-time-chat-app-15nl)
 <!-- BLOG-POST-LIST:END -->
 
 
