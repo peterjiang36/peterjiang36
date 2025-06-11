@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Trendleri 2023: Geleceği Şekillendirenler](https://dev.to/yunus_emremert_1756b71d3/web-trendleri-2023-gelecegi-sekillendirenler-3376)
-- [Learning Code Readability from K8s](https://dev.to/leapcell/learning-code-readability-from-k8s-h90)
-- [Matrizes](https://dev.to/joaopedrov0/matrizes-i6a)
-- [Screenshot to React Code: AI Vision Transforms Any UI Instantly](https://dev.to/atforeveryoung/screenshot-to-react-code-ai-vision-transforms-any-ui-instantly-bk2)
+- [Is HTML not a Programming Language?](https://dev.to/dat_one_dev/is-html-not-a-programming-language-1ifi)
+- [AI Is Writing the Code—So Why Are We Still Debugging Everything by Hand?](https://dev.to/engineeredai/ai-is-writing-the-code-so-why-are-we-still-debugging-everything-by-hand-31n8)
+- [动态代理](https://dev.to/aquareo/dong-tai-dai-li-3hk1)
+- [Personal Picks: Data Product News &lpar;June 11, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-june-11-2025-fii)
 <!-- BLOG-POST-LIST:END -->
 
 
