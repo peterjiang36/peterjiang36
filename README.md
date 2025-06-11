@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Godot 3D MMO: Server and Network Infrastructure, Authentication and Security, Gameserver Sharding](https://dev.to/petervanderhook/godot-3d-mmo-server-and-network-infrastructure-authentication-and-security-gameserver-sharding-48kh)
-- [Precisa de uma Fábrica de software? entenda isso antes](https://dev.to/codetechsoftware/precisa-de-uma-fabrica-de-software-entenda-isso-antes-1jch)
-- [The Mind of the Machine: A Perchance Story Experiment](https://dev.to/ray_parker01/the-mind-of-the-machine-a-perchance-story-experiment-mob)
-- [From Clicks to Conversions: What Matters More in the Age of AI Search](https://dev.to/molly_scott_0605/from-clicks-to-conversions-what-matters-more-in-the-age-of-ai-search-22oa)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-2d7n)
+- [Export SafeLine WAF Logs Using Syslog &lpar;RFC 5424 Format&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/export-safeline-waf-logs-using-syslog-rfc-5424-format-1de3)
+- [iOS App Design Principles That Maximize User Retention](https://dev.to/jhavtech/ios-app-design-principles-that-maximize-user-retention-5ah)
+- [From Backlog to Breakthrough: How Citizen Developers Are Reshaping ITSM with Low-Code/No-Code Tools](https://dev.to/sip_mjb/from-backlog-to-breakthrough-how-citizen-developers-are-reshaping-itsm-with-low-codeno-code-tools-538g)
 <!-- BLOG-POST-LIST:END -->
 
 
