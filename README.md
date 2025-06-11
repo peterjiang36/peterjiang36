@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🏗️ DEMOLISH THE GIANT: OPENAI — The Cult of the Prompt Whisperer](https://dev.to/the_epyq/demolish-the-giant-openai-the-cult-of-the-prompt-whisperer-g1c)
-- [HTML AND CSS INTRODUCTION](https://dev.to/sabithasivaprakasam/html-and-css-introduction-152o)
-- [Today I learn Introduction of React...](https://dev.to/chithra_priya/today-i-learn-introduction-of-react-222a)
-- [Day 5/180 Frontend Dev: Mastering HTML Lists - Ordered, Unordered, and Description Lists](https://dev.to/code_2/day-5180-frontend-dev-mastering-html-lists-ordered-unordered-and-description-lists-4fik)
+- [Apple WWDC25 Recap: Apple Intelligence, Liquid Glass, and Next-Gen OS 🚀](https://dev.to/om_shree_0709/apple-wwdc25-recap-apple-intelligence-liquid-glass-and-next-gen-os-2inn)
+- [Getting to Know Elixir Programming Language](https://dev.to/muzhawir/getting-to-know-elixir-programming-language-5ek9)
+- [O que é CQRS](https://dev.to/cristuker/o-que-e-cqrs-19jd)
+- [Diving into Next.js - My 2-Week Learning Experience](https://dev.to/bhuvi_d/diving-into-nextjs-my-2-week-learning-experience-3568)
 <!-- BLOG-POST-LIST:END -->
 
 
