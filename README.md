@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet `qb`: The High-Performance C++17 Actor Framework You&#39;ve Been Waiting For](https://dev.to/mbelhadi/meet-qb-the-high-performance-c17-actor-framework-youve-been-waiting-for-3h19)
-- [The Hidden Cost of Developer Context Switching](https://dev.to/pranesh_patel/the-hidden-cost-of-developer-context-switching-1jkp)
-- [The Hidden Cost of Developer Context Switching: Why IT Leaders Are Losing $50K Per Developer Annually](https://dev.to/teamcamp/the-hidden-cost-of-developer-context-switching-why-it-leaders-are-losing-50k-per-developer-1p2j)
-- [Unlocking True Parallelism: A Guide to Multi-Core C++ with `qb`](https://dev.to/mbelhadi/unlocking-true-parallelism-a-guide-to-multi-core-c-with-qb-51ld)
+- [Godot 3D MMO: Server and Network Infrastructure, Authentication and Security, Gameserver Sharding](https://dev.to/petervanderhook/godot-3d-mmo-server-and-network-infrastructure-authentication-and-security-gameserver-sharding-48kh)
+- [Precisa de uma Fábrica de software? entenda isso antes](https://dev.to/codetechsoftware/precisa-de-uma-fabrica-de-software-entenda-isso-antes-1jch)
+- [The Mind of the Machine: A Perchance Story Experiment](https://dev.to/ray_parker01/the-mind-of-the-machine-a-perchance-story-experiment-mob)
+- [From Clicks to Conversions: What Matters More in the Age of AI Search](https://dev.to/molly_scott_0605/from-clicks-to-conversions-what-matters-more-in-the-age-of-ai-search-22oa)
 <!-- BLOG-POST-LIST:END -->
 
 
