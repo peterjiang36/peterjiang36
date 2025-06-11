@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple WWDC25 Recap: Apple Intelligence, Liquid Glass, and Next-Gen OS 🚀](https://dev.to/om_shree_0709/apple-wwdc25-recap-apple-intelligence-liquid-glass-and-next-gen-os-2inn)
-- [Getting to Know Elixir Programming Language](https://dev.to/muzhawir/getting-to-know-elixir-programming-language-5ek9)
-- [O que é CQRS](https://dev.to/cristuker/o-que-e-cqrs-19jd)
-- [Diving into Next.js - My 2-Week Learning Experience](https://dev.to/bhuvi_d/diving-into-nextjs-my-2-week-learning-experience-3568)
+- [I built &amp; launched AI headshot generator in 2 weeks](https://dev.to/codebucks/i-built-launched-ai-headshot-generator-in-2-weeks-ec2)
+- [This AI Tool Creates Professional Diagrams in 3 Seconds &lpar;You&#39;ll Definitely Love It!&rpar;](https://dev.to/connectalamin/this-ai-tool-creates-professional-diagrams-in-3-seconds-youll-definitely-love-it-75o)
+- [🚀 Parte 1: Fundamentos do Quarkus - Capítulo 2](https://dev.to/erf88/parte-1-fundamentos-do-quarkus-capitulo-2-c63)
+- [LLM and AI for Full-Stack Developers: A Practical Guide to Modern Development](https://dev.to/neeleshwark17/llm-and-ai-for-full-stack-developers-a-practical-guide-to-modern-development-30cg)
 <!-- BLOG-POST-LIST:END -->
 
 
