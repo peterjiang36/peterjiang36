@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Guide to Cracking the EKS Architecture](https://dev.to/narravulamunisaiteja070/your-guide-to-cracking-the-eks-architecture-35jn)
-- [📊 Monitoring Systems and Services with Prometheus: Real-Time Insights for Modern Infrastructure](https://dev.to/sindhuja_ns_1e491ce1088d/monitoring-systems-and-services-with-prometheus-real-time-insights-for-modern-infrastructure-15k4)
-- [Building Teams for Digital Products: Essential Roles, Methods, and Real-World Advice](https://dev.to/byteminds_agency/building-teams-for-digital-products-essential-roles-methods-and-real-world-advice-2m0o)
-- [🔥 GhostOS ContentAI – Local Ollama + Persona-Based Content Generator](https://dev.to/ghostking314/ghostos-contentai-local-ollama-persona-based-content-generator-5doi)
+- [Excel has changed my view on data and its analysis](https://dev.to/lesootia/excel-has-changed-my-view-on-data-and-its-analysis-4lk)
+- [Cracking Down on Cyber Scams: A Breakthrough in Email Threat Detection Using AI .](https://dev.to/saboorhamedi/cracking-down-on-cyber-scams-a-breakthrough-in-email-threat-detection-using-ai--4049)
+- [How to Build a React PDF Viewer for Next.js in Minutes](https://dev.to/9haroon/how-to-build-a-react-pdf-viewer-for-nextjs-in-minutes-3pj)
+- [◼️35/100: Block-by-Block: Data location in Solidity](https://dev.to/nocibambi/35100-block-by-block-data-location-in-solidity-2j9i)
 <!-- BLOG-POST-LIST:END -->
 
 
