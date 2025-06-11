@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project KARL](https://dev.to/theaniketraj/project-karl-2d7n)
-- [Export SafeLine WAF Logs Using Syslog &lpar;RFC 5424 Format&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/export-safeline-waf-logs-using-syslog-rfc-5424-format-1de3)
-- [iOS App Design Principles That Maximize User Retention](https://dev.to/jhavtech/ios-app-design-principles-that-maximize-user-retention-5ah)
-- [From Backlog to Breakthrough: How Citizen Developers Are Reshaping ITSM with Low-Code/No-Code Tools](https://dev.to/sip_mjb/from-backlog-to-breakthrough-how-citizen-developers-are-reshaping-itsm-with-low-codeno-code-tools-538g)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/maureen_mukami_4268d10eac/how-excel-is-used-in-real-world-data-analysis-6c4)
+- [Caching, Queuing, and Pub/Sub: Supercharging Your C++ App with Redis and `qbm-redis`](https://dev.to/mbelhadi/caching-queuing-and-pubsub-supercharging-your-c-app-with-redis-and-qbm-redis-5aii)
+- [The Rise of AI-Powered No-Code/Low-Code Platforms: Democratizing Intelligent Application Development](https://dev.to/vaib/the-rise-of-ai-powered-no-codelow-code-platforms-democratizing-intelligent-application-3ikj)
+- [Is Your Product Stuck in Development? How Product Engineering Services Can Help](https://dev.to/arnasoftechdev/is-your-product-stuck-in-development-how-product-engineering-services-can-help-28fg)
 <!-- BLOG-POST-LIST:END -->
 
 
