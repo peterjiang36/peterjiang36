@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consensus Algorithms](https://dev.to/ramya_boorugula_b92d0867b/consensus-algorithms-eji)
-- [The Honest Truth About Scaling at Big Tech](https://dev.to/ramya_boorugula_b92d0867b/the-honest-truth-about-scaling-at-big-tech-1gd0)
-- [How to Build a Payment Gateway with Django and PayPal: A Step-by-Step Guide](https://dev.to/kihuni/how-to-build-a-payment-gateway-with-django-and-paypal-a-step-by-step-guide-2e20)
-- [Understanding Leap Seconds and the 2005 Linux OS Glitch](https://dev.to/adityabhuyan/understanding-leap-seconds-and-the-2005-linux-os-glitch-2ffm)
+- [Welcome Thread - v330](https://dev.to/devteam/welcome-thread-v330-55km)
+- [Linear Issues to Google Calendar: MBTJ](https://dev.to/k-gopher/linear-issues-to-google-calendar-mbtj-22pl)
+- [Building a Fitness and Health App Based on HarmonyOS Next: Creating an Intelligent Health Data Tracking System](https://dev.to/linzhongxue/building-a-fitness-and-health-app-based-on-harmonyos-next-creating-an-intelligent-health-data-1m82)
+- [Developing a Fitness &amp; Health App on HarmonyOS Next: Heart Rate Monitoring and Health Reporting System](https://dev.to/linzhongxue/developing-a-fitness-health-app-on-harmonyos-next-heart-rate-monitoring-and-health-reporting-2931)
 <!-- BLOG-POST-LIST:END -->
 
 
