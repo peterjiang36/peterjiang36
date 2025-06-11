@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If And Else In Java](https://dev.to/vignesh_m_4971f2f8dfa54/if-and-else-in-java-4n5f)
-- [Hacking Layout Before CSS Even Existed](https://dev.to/denodell/hacking-layout-before-css-even-existed-1n9c)
-- [Embracing TypeScript Principles in Go: The Creation of a Zod-Inspired Validation Library](https://dev.to/aymanepraxe/embracing-typescript-principles-in-go-the-creation-of-a-zod-inspired-validation-library-4g6d)
-- [Top 5 The Best Agentic AI Courses to master in 2025](https://dev.to/pkkolla/top-5-the-best-agentic-ai-courses-to-master-in-2025-4ana)
+- [Halo PS5 port reportedly added to 343&#39;s tracked API, claims very trusted leaker](https://dev.to/gg_news/halo-ps5-port-reportedly-added-to-343s-tracked-api-claims-very-trusted-leaker-325o)
+- [Switch 2 is Nintendo&#39;s biggest UK launch, but doesn&#39;t surpass PS5 or Xbox Series](https://dev.to/gg_news/switch-2-is-nintendos-biggest-uk-launch-but-doesnt-surpass-ps5-or-xbox-series-39b8)
+- [Nintendo Switch 2 Sells Over 3.5 Million Units Worldwide in First Four Days](https://dev.to/gg_news/nintendo-switch-2-sells-over-35-million-units-worldwide-in-first-four-days-4fjh)
+- [ChatGPT gets crushed at chess by a 1 MHz Atari 2600](https://dev.to/gg_news/chatgpt-gets-crushed-at-chess-by-a-1-mhz-atari-2600-3lkj)
 <!-- BLOG-POST-LIST:END -->
 
 
