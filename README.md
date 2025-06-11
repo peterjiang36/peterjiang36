@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Le chaînon manquant de la documentation GCP : cartographier la toile invisible des dépendances d&#39;API](https://dev.to/laformulenuagique/le-chainon-manquant-de-la-documentation-gcp-cartographier-la-toile-invisible-des-dependances-dapi-33o)
-- [Are You Paying Too Much for Windows?](https://dev.to/azzeddouche/are-you-paying-too-much-for-windows-53kb)
-- [My personal website](https://dev.to/m__mdy__m/my-personal-website-3lg1)
-- [Graceful Degradation in Software and Teams: How Resilient Systems Fail Well](https://dev.to/tonystpierre/graceful-degradation-in-software-and-teams-how-resilient-systems-fail-well-kh4)
+- [Web Trendleri 2023: Geleceği Şekillendirenler](https://dev.to/yunus_emremert_1756b71d3/web-trendleri-2023-gelecegi-sekillendirenler-3376)
+- [Learning Code Readability from K8s](https://dev.to/leapcell/learning-code-readability-from-k8s-h90)
+- [Matrizes](https://dev.to/joaopedrov0/matrizes-i6a)
+- [Screenshot to React Code: AI Vision Transforms Any UI Instantly](https://dev.to/atforeveryoung/screenshot-to-react-code-ai-vision-transforms-any-ui-instantly-bk2)
 <!-- BLOG-POST-LIST:END -->
 
 
