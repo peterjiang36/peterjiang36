@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What It Really Means to Be a Blockchain Developer](https://dev.to/junbeomlee/what-it-really-means-to-be-a-blockchain-developer-5gn3)
-- [Continuous Threat Modeling and Threat Modeling as Code &lpar;TMasC&rpar;](https://dev.to/vaib/continuous-threat-modeling-and-threat-modeling-as-code-tmasc-43c8)
-- [Deploying a Web App to Azure from VS Code Using Azure CLI, ARM Templates, and GitHub](https://dev.to/emzeeviolino_/deploying-a-web-app-to-azure-from-vs-code-using-azure-cli-arm-templates-and-github-58ke)
-- [Key insights from implementing zk-SNARK from scratch](https://dev.to/junbeomlee/key-insights-from-implementing-zk-snark-from-scratch-11d4)
+- [How do you translate Cloud Computing?](https://dev.to/sigje/how-do-you-translate-cloud-computing-5h39)
+- [My HTML Learning Journey](https://dev.to/praveena_2109/my-html-learning-journey-1k3c)
+- [Getting Started with Web Development: My First Day Learning HTML &amp; CSS](https://dev.to/megha_m_3acdfe3f62da7873f/getting-started-with-web-development-my-first-day-learning-html-css-5hhi)
+- [Creative coding like this is exactly the kind of work that reminds us tech can be both expressive and deeply human. Plus pure CSS for sky, stars, and aurora ✨](https://dev.to/sarahmatta/creative-coding-like-this-is-exactly-the-kind-of-work-that-reminds-us-tech-can-be-both-expressive-cm2)
 <!-- BLOG-POST-LIST:END -->
 
 
