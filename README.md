@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Big Data and AI Work Together: The Future of Intelligent Systems](https://dev.to/rac/how-big-data-and-ai-work-together-the-future-of-intelligent-systems-4ppn)
-- [📘 Frontend Developer Structure: The Complete Learning Map](https://dev.to/lcrank/frontend-developer-structure-the-complete-learning-map-jg4)
-- [The Dos and Don’ts of Remote Employee Time Tracking - Common Pitfalls &amp; Practical Tips](https://dev.to/taskford/the-dos-and-donts-of-remote-employee-time-tracking-common-pitfalls-practical-tips-5ad8)
-- [Build an AI Trading Agent with LunarCrush + Google Gemini in 20 Minutes](https://dev.to/dbatson/build-an-ai-trading-agent-with-lunarcrush-google-gemini-in-20-minutes-2bm4)
+- [Today I Learned Introduction of React...](https://dev.to/paviarunachalam/today-i-learned-introduction-of-react-44nf)
+- [[Boost]](https://dev.to/mr_aziz_92b920784e2afff96/-47g3)
+- [OAuth 2.0 Overview: How It Works and Why It Matters](https://dev.to/andyssojet/oauth-20-overview-how-it-works-and-why-it-matters-377e)
+- [Implementation Decisions: Replit&#39;s Approach vs. Technical Requirements](https://dev.to/sebs/implementation-decisions-replits-approach-vs-technical-requirements-b24)
 <!-- BLOG-POST-LIST:END -->
 
 
