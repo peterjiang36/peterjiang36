@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Event-Driven Architecture in JavaScript](https://dev.to/omriluz1/leveraging-event-driven-architecture-in-javascript-54o)
-- [Cloud migration: how to properly transfer your IT infrastructure to the cloud](https://dev.to/vilengyltd/cloud-migration-how-to-properly-transfer-your-it-infrastructure-to-the-cloud-knk)
-- [Build and Deploy a Real Time ML System](https://dev.to/callebknox/build-and-deploy-a-real-time-ml-system-4hia)
-- [🌐 Step Into the Browser: How to Build Immersive VR Experiences Online &lpar;No App Needed&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/step-into-the-browser-how-to-build-immersive-vr-experiences-online-no-app-needed-3ef4)
+- [Authoring an OpenRewrite recipe](https://dev.to/nfrankel/authoring-an-openrewrite-recipe-1li1)
+- [How to Authenticate Your React App Using Firebase](https://dev.to/ijay/how-to-authenticate-your-react-app-using-firebase-5687)
+- [C# Loops: for vs while - When to Use Each &lpar;With Real Examples&rpar;](https://dev.to/blackscripts/c-loops-for-vs-while-when-to-use-each-with-real-examples-35bm)
+- [[Boost]](https://dev.to/vidakhoshpey22/-1baf)
 <!-- BLOG-POST-LIST:END -->
 
 
