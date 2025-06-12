@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Authoring an OpenRewrite recipe](https://dev.to/nfrankel/authoring-an-openrewrite-recipe-1li1)
-- [How to Authenticate Your React App Using Firebase](https://dev.to/ijay/how-to-authenticate-your-react-app-using-firebase-5687)
-- [C# Loops: for vs while - When to Use Each &lpar;With Real Examples&rpar;](https://dev.to/blackscripts/c-loops-for-vs-while-when-to-use-each-with-real-examples-35bm)
-- [[Boost]](https://dev.to/vidakhoshpey22/-1baf)
+- [How Big Data and AI Work Together: The Future of Intelligent Systems](https://dev.to/rac/how-big-data-and-ai-work-together-the-future-of-intelligent-systems-4ppn)
+- [📘 Frontend Developer Structure: The Complete Learning Map](https://dev.to/lcrank/frontend-developer-structure-the-complete-learning-map-jg4)
+- [The Dos and Don’ts of Remote Employee Time Tracking - Common Pitfalls &amp; Practical Tips](https://dev.to/taskford/the-dos-and-donts-of-remote-employee-time-tracking-common-pitfalls-practical-tips-5ad8)
+- [Build an AI Trading Agent with LunarCrush + Google Gemini in 20 Minutes](https://dev.to/dbatson/build-an-ai-trading-agent-with-lunarcrush-google-gemini-in-20-minutes-2bm4)
 <!-- BLOG-POST-LIST:END -->
 
 
