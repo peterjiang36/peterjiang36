@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Performance Tips: Count Optimization, Avoiding N+1, and Polymorphic Relationships](https://dev.to/tahsin000/laravel-performance-tips-count-optimization-avoiding-n1-and-polymorphic-relationships-2g1o)
-- [What I Learned the Hard Way About Hiring a Web Development Agency](https://dev.to/ryan_adam_ad956fc4a05e487/what-i-learned-the-hard-way-about-hiring-a-web-development-agency-1gld)
-- [From Getting Started to Performance Optimization.](https://dev.to/_95e41982c9ad08a13458d/from-getting-started-to-performance-optimization-1k72)
-- [Testing OTP codes in Selenium with dummy authenticators](https://dev.to/mailslurp/testing-otp-codes-in-selenium-with-dummy-authenticators-1llh)
+- [No Mailtrap, No Problem! &lpar;with Docker&rpar;](https://dev.to/nuzulfikrie/no-mailtrap-no-problem-with-docker-4e1m)
+- [Why Expectations Hurt Developers More Than Failures](https://dev.to/tonystpierre/why-expectations-hurt-developers-more-than-failures-15a8)
+- [Web Performansını En Üst Seviyeye Taşımak](https://dev.to/yunus_emremert_1756b71d3/web-performansini-en-ust-seviyeye-tasimak-15i4)
+- [My Journey with the Hyperlane Framework: From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-32nb)
 <!-- BLOG-POST-LIST:END -->
 
 
