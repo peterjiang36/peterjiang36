@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best eLearning Translation Software Features to Look for](https://dev.to/elenahartmann/best-elearning-translation-software-features-to-look-for-1aa9)
-- [OWASP Top 10 Is Just the Start: How WAFs Defend Against Real Attacks](https://dev.to/sharon_42e16b8da44dabde6d/owasp-top-10-is-just-the-start-how-wafs-defend-against-real-attacks-12e9)
-- [What&#39;s the worst mistake you&#39;ve ever pushed to production or deleted by accident? 🤔](https://dev.to/davinceleecode/whats-the-worst-mistake-youve-ever-pushed-to-production-or-deleted-by-accident-klm)
-- [Regex Magic: Hashtags &amp; Headaches](https://dev.to/aniket_gojariya_0ac64d907/-1i30)
+- [How to Golang: The Infra Darling.](https://dev.to/sfundomhlungu/how-to-golang-the-infra-darling-4cff)
+- [Learn SQL’s CAST Function for Clean Type Conversion](https://dev.to/dbvismarketing/learn-sqls-cast-function-for-clean-type-conversion-4cod)
+- [🔍 Understanding `Array.includes&lpar;&rpar;` in JavaScript – What Happens Under the Hood?](https://dev.to/vetriselvan_11/understanding-arrayincludes-in-javascript-what-happens-under-the-hood-43mi)
+- [Event Management &amp; Ticketing Platform](https://dev.to/aibughunter/event-management-ticketing-platform-3c3h)
 <!-- BLOG-POST-LIST:END -->
 
 
