@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How The ACME Protocol Automates HTTP Security](https://dev.to/shrsv/how-the-acme-protocol-automates-http-security-2232)
-- [Privileged Access Management Best Practices in Healthcare IT Systems](https://dev.to/kapusto/privileged-access-management-best-practices-in-healthcare-it-systems-aan)
-- [There is something very grounding about the way this article is written. It feels like a trusted conversation.](https://dev.to/giobvisco/there-is-something-very-grounding-about-the-way-this-article-is-written-it-feels-like-a-trusted-31ce)
-- [Surviving the Great Commoditizer: Stop Getting ‘Good’ at ChatGPT](https://dev.to/daedtech/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt-1gbd)
+- [Implement Rate Limiting in ASP.NET Core [.NET9]](https://dev.to/extinctsion/implement-rate-limiting-in-aspnet-core-net9-2725)
+- [JavaScript 变量类型判断](https://dev.to/yangholmes/javascript-bian-liang-pan-duan-p)
+- [🎧✨ Make Your Webpage Sing – Media Elements in HTML](https://dev.to/benimchen/make-your-webpage-sing-media-elements-in-html-17eo)
+- [Intellectual Capacity and the Impacts of Generative AI](https://dev.to/naftal_m/intellectual-capacity-and-the-impacts-of-generative-ai-2f91)
 <!-- BLOG-POST-LIST:END -->
 
 
