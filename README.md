@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph database v4.10 is out!](https://dev.to/falkordb/graph-database-v410-is-out-883)
-- [Blockchain Beyond Cryptocurrency: Opportunities for CSE Students](https://dev.to/solamalai_college/blockchain-beyond-cryptocurrency-opportunities-for-cse-students-15lm)
-- [How We Built our API Multimodal Summary Engine](https://dev.to/fidget_dan/how-we-built-our-api-multimodal-summary-engine-1oj4)
-- [From Red to Green: What I Learned Diving into Test-Driven Development &lpar;TDD&rpar;](https://dev.to/chandana_prabhakar/from-red-to-green-what-i-learned-diving-into-test-driven-development-tdd-1c6p)
+- [Here’s the Only Way That Worked for Me to Level Up as a Frontend Developer](https://dev.to/biloustrike/heres-the-only-way-that-worked-for-me-to-level-up-as-a-frontend-developer-1djm)
+- [I wasn’t expecting much from an article about taxes, but this was smart, clear, and surprisingly motivating.](https://dev.to/rinaldiwmeanix/i-wasnt-expecting-much-from-an-article-about-taxes-but-this-was-smart-clear-and-surprisingly-28bl)
+- [Becoming an AI-native engineer](https://dev.to/rfitz/becoming-an-ai-native-engineer-25gb)
+- [When Code Reviews Go Too Far: Finding the Balance Between Quality and Velocity](https://dev.to/pullflow/when-code-reviews-go-too-far-finding-the-balance-between-quality-and-velocity-2n3o)
 <!-- BLOG-POST-LIST:END -->
 
 
