@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Consul with Ansible: Infrastructure DNS for Devs](https://dev.to/lovestaco/automating-consul-with-ansible-infrastructure-dns-for-devs-54m9)
-- [WanderGuide - Interactive Travel Platform](https://dev.to/ai_agi/wanderguide-interactive-travel-platform-2k4f)
-- [Supplementing USPTO Prior Art Searches with AI Tools](https://dev.to/patentscanai/supplementing-uspto-prior-art-searches-with-ai-tools-1jd9)
-- [PropertyHub - Dynamic Real Estate Platform](https://dev.to/ariondev/propertyhub-dynamic-real-estate-platform-3fj)
+- [🌐 JavaScript: The Root, the Rise, and the Reality Behind the Web](https://dev.to/amitha_0706/javascript-the-root-the-rise-and-the-reality-behind-the-web-342b)
+- [Handling Validation Errors for Multiple Forms](https://dev.to/mmramadan496/handling-validation-errors-for-multiple-forms-1i9d)
+- [Customizing Pagination links and sliding window](https://dev.to/mmramadan496/customizing-pagination-links-and-sliding-window-1p29)
+- [[Hiring] ConsentKeys | REMOTE | OIDC Developer - Privacy-First Identity Platform](https://dev.to/jaskarandeogan/hiring-consentkeys-remote-oidc-developer-privacy-first-identity-platform-452h)
 <!-- BLOG-POST-LIST:END -->
 
 
