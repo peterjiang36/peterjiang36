@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Flutter Animation: A Complete Guide to Bringing Your Apps to Life](https://dev.to/kalana250/mastering-flutter-animation-a-complete-guide-to-bringing-your-apps-to-life-4oe9)
-- [Mastering Media Sharing: Why Erome is the Ideal Platform for Visual Creators](https://dev.to/erome_app/mastering-media-sharing-why-erome-is-the-ideal-platform-for-visual-creators-3b9o)
-- [From Idea to MVP: How to Validate Your Startup Concept](https://dev.to/kamal_deeppareek_f5bb5d8/from-idea-to-mvp-how-to-validate-your-startup-concept-39fk)
-- [[Boost]](https://dev.to/zevireinitz/portia-2ba1)
+- [Graph database v4.10 is out!](https://dev.to/falkordb/graph-database-v410-is-out-883)
+- [Blockchain Beyond Cryptocurrency: Opportunities for CSE Students](https://dev.to/solamalai_college/blockchain-beyond-cryptocurrency-opportunities-for-cse-students-15lm)
+- [How We Built our API Multimodal Summary Engine](https://dev.to/fidget_dan/how-we-built-our-api-multimodal-summary-engine-1oj4)
+- [From Red to Green: What I Learned Diving into Test-Driven Development &lpar;TDD&rpar;](https://dev.to/chandana_prabhakar/from-red-to-green-what-i-learned-diving-into-test-driven-development-tdd-1c6p)
 <!-- BLOG-POST-LIST:END -->
 
 
