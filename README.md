@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement Rate Limiting in ASP.NET Core [.NET9]](https://dev.to/extinctsion/implement-rate-limiting-in-aspnet-core-net9-2725)
-- [JavaScript 变量类型判断](https://dev.to/yangholmes/javascript-bian-liang-pan-duan-p)
-- [🎧✨ Make Your Webpage Sing – Media Elements in HTML](https://dev.to/benimchen/make-your-webpage-sing-media-elements-in-html-17eo)
-- [Intellectual Capacity and the Impacts of Generative AI](https://dev.to/naftal_m/intellectual-capacity-and-the-impacts-of-generative-ai-2f91)
+- [PCK3R : Package manager [V1.0] Windows 10 X64](https://dev.to/amzyei/pck3r-package-manager-2pib)
+- [The Story Behind MultiDrive](https://dev.to/empiree/the-story-behind-multidrive-eo8)
+- [Bridging the Quantum Gap: A Guide to Hybrid Quantum-Classical Algorithms](https://dev.to/vaib/bridging-the-quantum-gap-a-guide-to-hybrid-quantum-classical-algorithms-343g)
+- [React Router Data Mode: Parte 6 – Actions, formularios y mutaciones](https://dev.to/kevinccbsg/react-router-data-mode-parte-6-actions-formularios-y-mutaciones-5354)
 <!-- BLOG-POST-LIST:END -->
 
 
