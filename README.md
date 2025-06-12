@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PCK3R : Package manager [V1.0] Windows 10 X64](https://dev.to/amzyei/pck3r-package-manager-2pib)
-- [The Story Behind MultiDrive](https://dev.to/empiree/the-story-behind-multidrive-eo8)
-- [Bridging the Quantum Gap: A Guide to Hybrid Quantum-Classical Algorithms](https://dev.to/vaib/bridging-the-quantum-gap-a-guide-to-hybrid-quantum-classical-algorithms-343g)
-- [React Router Data Mode: Parte 6 – Actions, formularios y mutaciones](https://dev.to/kevinccbsg/react-router-data-mode-parte-6-actions-formularios-y-mutaciones-5354)
+- [Automating Consul with Ansible: Infrastructure DNS for Devs](https://dev.to/lovestaco/automating-consul-with-ansible-infrastructure-dns-for-devs-54m9)
+- [WanderGuide - Interactive Travel Platform](https://dev.to/ai_agi/wanderguide-interactive-travel-platform-2k4f)
+- [Supplementing USPTO Prior Art Searches with AI Tools](https://dev.to/patentscanai/supplementing-uspto-prior-art-searches-with-ai-tools-1jd9)
+- [PropertyHub - Dynamic Real Estate Platform](https://dev.to/ariondev/propertyhub-dynamic-real-estate-platform-3fj)
 <!-- BLOG-POST-LIST:END -->
 
 
