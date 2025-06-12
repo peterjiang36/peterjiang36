@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is going to help a lot of new companies avoid the mistakes early-stage teams often walk right into.](https://dev.to/michbrowning/this-is-going-to-help-a-lot-of-new-companies-avoid-the-mistakes-early-stage-teams-often-walk-right-5452)
-- [Adaptation Rules from TypeScript to ArkTS &lpar;4&rpar;](https://dev.to/liu_yang_fc0e605820ac220c/adaptation-rules-from-typescript-to-arkts-4-2han)
-- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-15k1)
-- [This gave me the push I needed to finally deal with the mess in my books.](https://dev.to/michbrowning/this-gave-me-the-push-i-needed-to-finally-deal-with-the-mess-in-my-books-2fgo)
+- [How The ACME Protocol Automates HTTP Security](https://dev.to/shrsv/how-the-acme-protocol-automates-http-security-2232)
+- [Privileged Access Management Best Practices in Healthcare IT Systems](https://dev.to/kapusto/privileged-access-management-best-practices-in-healthcare-it-systems-aan)
+- [There is something very grounding about the way this article is written. It feels like a trusted conversation.](https://dev.to/giobvisco/there-is-something-very-grounding-about-the-way-this-article-is-written-it-feels-like-a-trusted-31ce)
+- [Surviving the Great Commoditizer: Stop Getting ‘Good’ at ChatGPT](https://dev.to/daedtech/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt-1gbd)
 <!-- BLOG-POST-LIST:END -->
 
 
