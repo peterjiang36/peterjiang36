@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Formatting Monetary Values in JavaScript](https://dev.to/ashallendesign/formatting-monetary-values-in-javascript-3gi7)
-- [How I Created a SkiFree Clone Using Amazon Q](https://dev.to/aws-builders/how-i-created-a-skifree-clone-using-amazon-q-f1d)
-- [WWDC 2025 - Bring on-device AI to your app with Foundation Models framework](https://dev.to/softwaretechpro/wwdc-2025-bring-on-device-ai-to-your-app-with-foundation-models-framework-ieb)
-- [This AI App Made My Trades Smarter — Try It FREE Before Everyone Else!](https://dev.to/juanemilio31323/this-ai-app-made-my-trades-smarter-try-it-free-before-everyone-else-o07)
+- [Laravel Performance Tips: Count Optimization, Avoiding N+1, and Polymorphic Relationships](https://dev.to/tahsin000/laravel-performance-tips-count-optimization-avoiding-n1-and-polymorphic-relationships-2g1o)
+- [What I Learned the Hard Way About Hiring a Web Development Agency](https://dev.to/ryan_adam_ad956fc4a05e487/what-i-learned-the-hard-way-about-hiring-a-web-development-agency-1gld)
+- [From Getting Started to Performance Optimization.](https://dev.to/_95e41982c9ad08a13458d/from-getting-started-to-performance-optimization-1k72)
+- [Testing OTP codes in Selenium with dummy authenticators](https://dev.to/mailslurp/testing-otp-codes-in-selenium-with-dummy-authenticators-1llh)
 <!-- BLOG-POST-LIST:END -->
 
 
