@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting with Configs! A Guide to Tunneling, Plus a Game-Changing Ace Up Your Sleeve](https://dev.to/platypus98/stop-fighting-with-configs-a-guide-to-tunneling-plus-a-game-changing-ace-up-your-sleeve-3g01)
-- [gravity jump](https://dev.to/sayed_sami_fe929b6ce27237/gravity-jump-1dj0)
-- [🔥 Angular Pro Tips: Creating a Custom Pipe for Human-Readable Numbers &lpar;K, M, B Format&rpar;](https://dev.to/sulimanmunawarkhan/angular-pro-tips-creating-a-custom-pipe-for-human-readable-numbers-k-m-b-format-38m8)
-- [Why Sleep Gummies Are Preferred Other Than Supplements?](https://dev.to/johnthomas_857e1528444f63/why-sleep-gummies-are-preferred-other-than-supplements-3263)
+- [Mastering Flutter Animation: A Complete Guide to Bringing Your Apps to Life](https://dev.to/kalana250/mastering-flutter-animation-a-complete-guide-to-bringing-your-apps-to-life-4oe9)
+- [Mastering Media Sharing: Why Erome is the Ideal Platform for Visual Creators](https://dev.to/erome_app/mastering-media-sharing-why-erome-is-the-ideal-platform-for-visual-creators-3b9o)
+- [From Idea to MVP: How to Validate Your Startup Concept](https://dev.to/kamal_deeppareek_f5bb5d8/from-idea-to-mvp-how-to-validate-your-startup-concept-39fk)
+- [[Boost]](https://dev.to/zevireinitz/portia-2ba1)
 <!-- BLOG-POST-LIST:END -->
 
 
