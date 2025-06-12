@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Golang: The Infra Darling.](https://dev.to/sfundomhlungu/how-to-golang-the-infra-darling-4cff)
-- [Learn SQL’s CAST Function for Clean Type Conversion](https://dev.to/dbvismarketing/learn-sqls-cast-function-for-clean-type-conversion-4cod)
-- [🔍 Understanding `Array.includes&lpar;&rpar;` in JavaScript – What Happens Under the Hood?](https://dev.to/vetriselvan_11/understanding-arrayincludes-in-javascript-what-happens-under-the-hood-43mi)
-- [Event Management &amp; Ticketing Platform](https://dev.to/aibughunter/event-management-ticketing-platform-3c3h)
+- [Leveraging Event-Driven Architecture in JavaScript](https://dev.to/omriluz1/leveraging-event-driven-architecture-in-javascript-54o)
+- [Cloud migration: how to properly transfer your IT infrastructure to the cloud](https://dev.to/vilengyltd/cloud-migration-how-to-properly-transfer-your-it-infrastructure-to-the-cloud-knk)
+- [Build and Deploy a Real Time ML System](https://dev.to/callebknox/build-and-deploy-a-real-time-ml-system-4hia)
+- [🌐 Step Into the Browser: How to Build Immersive VR Experiences Online &lpar;No App Needed&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/step-into-the-browser-how-to-build-immersive-vr-experiences-online-no-app-needed-3ef4)
 <!-- BLOG-POST-LIST:END -->
 
 
