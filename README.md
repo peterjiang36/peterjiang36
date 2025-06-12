@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Mailtrap, No Problem! &lpar;with Docker&rpar;](https://dev.to/nuzulfikrie/no-mailtrap-no-problem-with-docker-4e1m)
-- [Why Expectations Hurt Developers More Than Failures](https://dev.to/tonystpierre/why-expectations-hurt-developers-more-than-failures-15a8)
-- [Web Performansını En Üst Seviyeye Taşımak](https://dev.to/yunus_emremert_1756b71d3/web-performansini-en-ust-seviyeye-tasimak-15i4)
-- [My Journey with the Hyperlane Framework: From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-32nb)
+- [What It Really Means to Be a Blockchain Developer](https://dev.to/junbeomlee/what-it-really-means-to-be-a-blockchain-developer-5gn3)
+- [Continuous Threat Modeling and Threat Modeling as Code &lpar;TMasC&rpar;](https://dev.to/vaib/continuous-threat-modeling-and-threat-modeling-as-code-tmasc-43c8)
+- [Deploying a Web App to Azure from VS Code Using Azure CLI, ARM Templates, and GitHub](https://dev.to/emzeeviolino_/deploying-a-web-app-to-azure-from-vs-code-using-azure-cli-arm-templates-and-github-58ke)
+- [Key insights from implementing zk-SNARK from scratch](https://dev.to/junbeomlee/key-insights-from-implementing-zk-snark-from-scratch-11d4)
 <!-- BLOG-POST-LIST:END -->
 
 
