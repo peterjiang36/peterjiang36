@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Today I Learned Introduction of React...](https://dev.to/paviarunachalam/today-i-learned-introduction-of-react-44nf)
-- [[Boost]](https://dev.to/mr_aziz_92b920784e2afff96/-47g3)
-- [OAuth 2.0 Overview: How It Works and Why It Matters](https://dev.to/andyssojet/oauth-20-overview-how-it-works-and-why-it-matters-377e)
-- [Implementation Decisions: Replit&#39;s Approach vs. Technical Requirements](https://dev.to/sebs/implementation-decisions-replits-approach-vs-technical-requirements-b24)
+- [Stop Fighting with Configs! A Guide to Tunneling, Plus a Game-Changing Ace Up Your Sleeve](https://dev.to/platypus98/stop-fighting-with-configs-a-guide-to-tunneling-plus-a-game-changing-ace-up-your-sleeve-3g01)
+- [gravity jump](https://dev.to/sayed_sami_fe929b6ce27237/gravity-jump-1dj0)
+- [🔥 Angular Pro Tips: Creating a Custom Pipe for Human-Readable Numbers &lpar;K, M, B Format&rpar;](https://dev.to/sulimanmunawarkhan/angular-pro-tips-creating-a-custom-pipe-for-human-readable-numbers-k-m-b-format-38m8)
+- [Why Sleep Gummies Are Preferred Other Than Supplements?](https://dev.to/johnthomas_857e1528444f63/why-sleep-gummies-are-preferred-other-than-supplements-3263)
 <!-- BLOG-POST-LIST:END -->
 
 
