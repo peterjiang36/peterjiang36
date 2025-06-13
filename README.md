@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Coming For Your APIs](https://dev.to/zuplo/ai-agents-are-coming-for-your-apis-13pn)
-- [TDD and Software Design](https://dev.to/dialaeke/tdd-and-software-design-1dl9)
-- [Why MCP Won&#39;t Kill APIs &lpar;And What It Will Do Instead&rpar;](https://dev.to/zuplo/why-mcp-wont-kill-apis-and-what-it-will-do-instead-d64)
-- [Enterprise-Level Identity Auth in a Self-Hosted WAF, SafeLine &lpar;and it&#39;s Free&rpar;](https://dev.to/carrie_luo1/enterprise-level-identity-auth-in-a-self-hosted-waf-yes-its-free-in-safeline-12n)
+- [What is Amazon Nova? An Inside Look at AWS Foundation Models](https://dev.to/aws-builders/what-is-amazon-nova-an-inside-look-at-aws-foundation-models-227e)
+- [从零开始的Hyperlane框架学习之旅：一个大三学生的真实体验](https://dev.to/_95e41982c9ad08a13458d/cong-ling-kai-shi-de-hyperlanekuang-jia-xue-xi-zhi-lu-ge-da-san-xue-sheng-de-zhen-shi-ti-yan-bal)
+- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-2jg4)
+- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-4154)
 <!-- BLOG-POST-LIST:END -->
 
 
