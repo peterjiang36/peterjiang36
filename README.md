@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MySQL vs MongoDB - Visual Design with Real Data Models](https://dev.to/roxana_haidiner/mysql-vs-mongodb-visual-design-with-real-data-models-86l)
-- [Cloud Events: Standardizing the Future of Event-Driven Architectures](https://dev.to/actor-dev/cloud-events-standardizing-the-future-of-event-driven-architectures-5i5)
-- [Spring Boot Annotation Guide](https://dev.to/drsimplegraffiti/spring-boot-annotation-guide-4lef)
-- [Messaging Systems Explained | Point-to-Point vs Pub-Sub | Kafka Architecture Overview | Part -1](https://dev.to/sonunigam_bar_ddd6cad4f2c/messaging-systems-explained-point-to-point-vs-pub-sub-kafka-architecture-overview-part-1-33l7)
+- [Snippai: An AI-Powered Screenshot Tool to Replace Snagit, Snipaste, and ShareX](https://dev.to/ytx/snippai-an-ai-powered-screenshot-tool-to-replace-snagit-snipaste-and-sharex-299o)
+- [Introducing Punch Name](https://dev.to/lanceway/introducing-punch-name-19p7)
+- [Choosing Your Developer Path Series: Yes, You Can Lead and Still Write Code](https://dev.to/tlorent/choosing-your-developer-path-series-yes-you-can-lead-and-still-write-code-3ma2)
+- [Building My First Full-Stack App: Part 3 - Integrating the Database with PostgreSQL &amp; Knex.js](https://dev.to/abhinavan00/building-my-first-full-stack-app-part-3-integrating-the-database-with-postgresql-knexjs-2674)
 <!-- BLOG-POST-LIST:END -->
 
 
