@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD: The Key to Faster, Stress-Free Software Development](https://dev.to/jeandevbr/cicd-the-key-to-faster-stress-free-software-development-4gmf)
-- [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
-- [Building Your First AI Agent Without Frameworks](https://dev.to/gerimate/building-your-first-ai-agent-without-frameworks-l5p)
-- [How To Import Your Character Into Builds?](https://dev.to/pathofbuildingg/how-to-import-your-character-into-builds-164j)
+- [This Week In React #238 : React Router, RSC, shadcn/ui, React Aria, Cosmos | iOS 26, JSI, Nitro, Windows, Tabs, PencilKit](https://dev.to/sebastienlorber/this-week-in-react-238-react-router-rsc-shadcnui-react-aria-cosmos-ios-26-jsi-nitro-10pi)
+- [Nested Scroll Conflict in Scrollable Components in ArkTS](https://dev.to/cn-gelivation/nested-scroll-conflict-in-scrollable-componentsin-arkts-3p2g)
+- [Cloud Computing vs. Cloud Security: A Complete Guide](https://dev.to/christiana_orji/cloud-computing-vs-cloud-security-a-complete-guide-mmn)
+- [🔄 Mastering JavaScript Generator Functions: A Practical Guide](https://dev.to/rock_win_c053fa5fb2399067/mastering-javascript-generator-functions-a-practical-guide-50l2)
 <!-- BLOG-POST-LIST:END -->
 
 
