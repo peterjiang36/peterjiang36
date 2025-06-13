@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wins of the Week! ⭐](https://dev.to/anitaolsen/my-wins-of-the-week-4nk4)
-- [How to Build Detailed Customer Personas Using AI](https://dev.to/mikuiwai/how-to-build-detailed-customer-personas-using-ai-l2n)
-- [How to Generate A/B Test Variations for Ads and Landing Pages with AI](https://dev.to/mikuiwai/how-to-generate-ab-test-variations-for-ads-and-landing-pages-with-ai-2idm)
-- [WWDC 2025 - Integrate privacy into your development](https://dev.to/softwaretechpro/wwdc-2025-integrate-privacy-into-your-development-45jf)
+- [What I Learned About Arrays While Grinding NeetCode 150](https://dev.to/derya_65464c085c63b3c0788/what-i-learned-about-arrays-while-grinding-neetcode-150-31pe)
+- [How do you protect your peace and mental health in an industry that never sleeps?](https://dev.to/theneverdone/how-do-you-protect-your-peace-and-mental-health-in-an-industry-that-never-sleeps-3dh0)
+- [Node.js Clustering vs. Worker Threads: When to Fork and When to Thread](https://dev.to/alex_aslam/nodejs-clustering-vs-worker-threads-when-to-fork-and-when-to-thread-fe4)
+- [Coding Without Collisions: My Take on Version Control and Global Collaboration](https://dev.to/amitha_0706/coding-without-collisions-my-take-on-version-control-and-global-collaboration-1ike)
 <!-- BLOG-POST-LIST:END -->
 
 
