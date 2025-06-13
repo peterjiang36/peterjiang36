@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #238 : React Router, RSC, shadcn/ui, React Aria, Cosmos | iOS 26, JSI, Nitro, Windows, Tabs, PencilKit](https://dev.to/sebastienlorber/this-week-in-react-238-react-router-rsc-shadcnui-react-aria-cosmos-ios-26-jsi-nitro-10pi)
-- [Nested Scroll Conflict in Scrollable Components in ArkTS](https://dev.to/cn-gelivation/nested-scroll-conflict-in-scrollable-componentsin-arkts-3p2g)
-- [Cloud Computing vs. Cloud Security: A Complete Guide](https://dev.to/christiana_orji/cloud-computing-vs-cloud-security-a-complete-guide-mmn)
-- [🔄 Mastering JavaScript Generator Functions: A Practical Guide](https://dev.to/rock_win_c053fa5fb2399067/mastering-javascript-generator-functions-a-practical-guide-50l2)
+- [No Recursion, No Table, Still DP? My Shift From Brute Force to Intuition](https://dev.to/guna01/no-recursion-no-table-still-dp-my-shift-from-brute-force-to-intuition-5e6n)
+- [June 13 2025](https://dev.to/liza_1978/june-13-2025-e1o)
+- [🏡 How I Turned My Old Laptop into a Web Server to Host My Portfolio Website](https://dev.to/mrzaizai2k/how-i-turned-my-old-laptop-into-a-web-server-to-host-my-portfolio-website-2c0c)
+- [Day 12 - JavaScript Learning Blog: Chessboard Project!!](https://dev.to/sathish_226_/day-12-javascript-learning-blog-chessboard-project-5dk8)
 <!-- BLOG-POST-LIST:END -->
 
 
