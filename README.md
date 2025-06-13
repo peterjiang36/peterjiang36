@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [game DEV log](https://dev.to/wanderingdev8/game-dev-log-37a)
-- [What are the things I am facing as a new bee in Chennai?!](https://dev.to/sevaki_rajasekar_700822f9/what-are-the-things-i-am-facing-as-a-new-bee-in-chennai-36b0)
-- [🧩 Introducing react-data-grid-lite – A Lightweight Grid with a Live Demo](https://dev.to/sharmaricky/introducing-react-data-grid-lite-a-lightweight-grid-with-a-live-demo-1b33)
-- [Build a WebSocket server easily with Go: EasyWS makes everything simple](https://dev.to/whoami_v_7bf12869d3cda8c6/build-a-websocket-server-easily-with-go-easyws-makes-everything-simple-3k4c)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbf)
+- [🔄 Nested loops O&lpar;n &rpar; — it depends how the data is traversed.](https://dev.to/sameer_chawla_b7acddb508f/nested-loops-on2-it-depends-how-the-data-is-traversed-453b)
+- [🛡️ AWS WAF Now Supports Automatic Application Layer &lpar;L7&rpar; DDoS Protection — Fast, Smart, and Hassle-Free](https://dev.to/latchudevops/aws-waf-now-supports-automatic-application-layer-l7-ddos-protection-fast-smart-and-j03)
+- [Let&#39;s build an Agentic Trading System. Together](https://dev.to/callebknox/lets-build-an-agentic-trading-system-together-47mp)
 <!-- BLOG-POST-LIST:END -->
 
 
