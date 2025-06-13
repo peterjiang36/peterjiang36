@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are MCP Servers? | A Detailed Guide](https://dev.to/pulkitgovrani/what-are-mcp-servers-a-detailed-guide-2j0o)
-- [Güvenlik Katmanları: Derin Savunmalar](https://dev.to/yunus_emremert_1756b71d3/guvenlik-katmanlari-derin-savunmalar-2hjd)
-- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-2n9h)
-- [[Adult Learning Log] Network 1 – Week 1 Review](https://dev.to/sankworks/adult-learning-log-network-1-week-1-review-563)
+- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
+- [AWS CDK in Action — May 2025: Empowered Deployments, Governance, and Community](https://dev.to/aws/aws-cdk-in-action-may-2025-empowered-deployments-governance-and-community-1gdb)
+- [The Future of GitOps: Integrating AI, FinOps, and GreenOps for Intelligent Operations](https://dev.to/vaib/the-future-of-gitops-integrating-ai-finops-and-greenops-for-intelligent-operations-5g4n)
+- [Finding Software Flaws Early in the Development Process Provides Clear ROI](https://dev.to/snyk/finding-software-flaws-early-in-the-development-process-provides-clear-roi-1bgf)
 <!-- BLOG-POST-LIST:END -->
 
 
