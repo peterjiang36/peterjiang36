@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20250613: Ol&#39;ista Web Framework](https://dev.to/methodox/devlog-20250612-olista-web-framework-16mf)
-- [Content Moderation in Node.js: Building a Scalable Image Moderation Pipeline with MinIO, BullMQ, ClamAV, DeepStack &amp; Hashing 🧬](https://dev.to/silentwatcher_95/content-moderation-in-nodejs-building-a-scalable-image-moderation-pipeline-with-minio-bullmq-f53)
-- [Flappy Bird Game using Amazon Q CLI 🎮](https://dev.to/afnan_khan/flappy-bird-game-using-amazon-q-cli-25c2)
-- [How to Launch an EC2 Instance and Deploy a Custom NGINX Web Server on AWS Free Tier Using Git Bash](https://dev.to/peter_samuel_052b9056e236/how-to-launch-an-ec2-instance-and-deploy-a-custom-nginx-web-server-on-aws-free-tier-using-git-bash-4kj8)
+- [Five mistakes that slowed me down in learning to code](https://dev.to/uzzy412_73/five-mistakes-that-slowed-me-down-in-learning-to-code-c6o)
+- [Exploring the Benefits of Immutability in JavaScript Performance](https://dev.to/omriluz1/exploring-the-benefits-of-immutability-in-javascript-performance-ied)
+- [Queer History Slideshow 🏳️‍🌈](https://dev.to/djleamen/queer-history-slideshow-nj4)
+- [AWS Transform para Mainframe: Una nueva era para la modernización de sistemas legacy](https://dev.to/aws-espanol/aws-transform-para-mainframe-una-nueva-era-para-la-modernizacion-de-sistemas-legacy-4fg0)
 <!-- BLOG-POST-LIST:END -->
 
 
