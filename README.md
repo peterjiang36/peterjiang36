@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Merge malloc/calloc/realloc/free into one safe macro, and test code](https://dev.to/shajunxing/merge-malloccallocreallocfree-into-one-safe-macro-and-test-code-1022)
-- [AWS CDK in Action — May 2025: Empowered Deployments, Governance, and Community](https://dev.to/aws/aws-cdk-in-action-may-2025-empowered-deployments-governance-and-community-1gdb)
-- [The Future of GitOps: Integrating AI, FinOps, and GreenOps for Intelligent Operations](https://dev.to/vaib/the-future-of-gitops-integrating-ai-finops-and-greenops-for-intelligent-operations-5g4n)
-- [Finding Software Flaws Early in the Development Process Provides Clear ROI](https://dev.to/snyk/finding-software-flaws-early-in-the-development-process-provides-clear-roi-1bgf)
+- [game DEV log](https://dev.to/wanderingdev8/game-dev-log-37a)
+- [What are the things I am facing as a new bee in Chennai?!](https://dev.to/sevaki_rajasekar_700822f9/what-are-the-things-i-am-facing-as-a-new-bee-in-chennai-36b0)
+- [🧩 Introducing react-data-grid-lite – A Lightweight Grid with a Live Demo](https://dev.to/sharmaricky/introducing-react-data-grid-lite-a-lightweight-grid-with-a-live-demo-1b33)
+- [Build a WebSocket server easily with Go: EasyWS makes everything simple](https://dev.to/whoami_v_7bf12869d3cda8c6/build-a-websocket-server-easily-with-go-easyws-makes-everything-simple-3k4c)
 <!-- BLOG-POST-LIST:END -->
 
 
