@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Snippai: An AI-Powered Screenshot Tool to Replace Snagit, Snipaste, and ShareX](https://dev.to/ytx/snippai-an-ai-powered-screenshot-tool-to-replace-snagit-snipaste-and-sharex-299o)
-- [Introducing Punch Name](https://dev.to/lanceway/introducing-punch-name-19p7)
-- [Choosing Your Developer Path Series: Yes, You Can Lead and Still Write Code](https://dev.to/tlorent/choosing-your-developer-path-series-yes-you-can-lead-and-still-write-code-3ma2)
-- [Building My First Full-Stack App: Part 3 - Integrating the Database with PostgreSQL &amp; Knex.js](https://dev.to/abhinavan00/building-my-first-full-stack-app-part-3-integrating-the-database-with-postgresql-knexjs-2674)
+- [How to Write AI Prompts That Actually Work: 4 Game-Changing Tips](https://dev.to/itshayder/how-to-write-ai-prompts-that-actually-work-4-game-changing-tips-388h)
+- [How to Build Your First AR App in 2025 from Idea to App Store](https://dev.to/krishanvijay/how-to-build-your-first-ar-app-in-2025-from-idea-to-app-store-pp7)
+- [Why you haven’t nailed English as a non-native — and the automation trick to fix it](https://dev.to/tomwiv/why-you-havent-nailed-english-as-a-non-native-and-the-automation-trick-to-fix-it-56dk)
+- [How to Create a Chat Box Application Using Only Frontend Code](https://dev.to/skapi_api/how-to-create-a-chat-box-application-using-only-frontend-code-5cp1)
 <!-- BLOG-POST-LIST:END -->
 
 
