@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/_95e41982c9ad08a13458d/the-new-generation-of-high-performance-rust-web-frameworks-464o)
-- [Smart Fence Monitoring: Motion Detection Using PIR Sensors and ESP8266](https://dev.to/karen_londres/smart-fence-monitoring-motion-detection-using-pir-sensors-and-esp8266-2ioc)
-- [👨‍💻 Learn to Code with the World’s Largest Web Developer Site!](https://dev.to/ml318097/learn-to-code-with-the-worlds-largest-web-developer-site-449j)
-- [Hyperlane性能优化实战：从理论到实践的深度探索](https://dev.to/_95e41982c9ad08a13458d/hyperlanexing-neng-you-hua-shi-zhan-cong-li-lun-dao-shi-jian-de-shen-du-tan-suo-2015)
+- [AI Agents Are Coming For Your APIs](https://dev.to/zuplo/ai-agents-are-coming-for-your-apis-13pn)
+- [TDD and Software Design](https://dev.to/dialaeke/tdd-and-software-design-1dl9)
+- [Why MCP Won&#39;t Kill APIs &lpar;And What It Will Do Instead&rpar;](https://dev.to/zuplo/why-mcp-wont-kill-apis-and-what-it-will-do-instead-d64)
+- [Enterprise-Level Identity Auth in a Self-Hosted WAF, SafeLine &lpar;and it&#39;s Free&rpar;](https://dev.to/carrie_luo1/enterprise-level-identity-auth-in-a-self-hosted-waf-yes-its-free-in-safeline-12n)
 <!-- BLOG-POST-LIST:END -->
 
 
