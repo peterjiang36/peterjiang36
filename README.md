@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the JavaScript Cache API: A Comprehensive Guide](https://dev.to/maximlogunov/mastering-the-javascript-cache-api-a-comprehensive-guide-d38)
-- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/_95e41982c9ad08a13458d/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-3d5h)
-- [Hyperlane实时通信指南：WebSocket和SSE实战经验分享](https://dev.to/_95e41982c9ad08a13458d/hyperlaneshi-shi-tong-xin-zhi-nan-websockethe-sseshi-zhan-jing-yan-fen-xiang-4jji)
-- [What really stood out was the idea that structure is the solution, not more apps or tools. That’s a shift in thinking for me.](https://dev.to/theangeloreyes/what-really-stood-out-was-the-idea-that-structure-is-the-solution-not-more-apps-or-tools-thats-a-5hh3)
+- [DevLog 20250613: Ol&#39;ista Web Framework](https://dev.to/methodox/devlog-20250612-olista-web-framework-16mf)
+- [Content Moderation in Node.js: Building a Scalable Image Moderation Pipeline with MinIO, BullMQ, ClamAV, DeepStack &amp; Hashing 🧬](https://dev.to/silentwatcher_95/content-moderation-in-nodejs-building-a-scalable-image-moderation-pipeline-with-minio-bullmq-f53)
+- [Flappy Bird Game using Amazon Q CLI 🎮](https://dev.to/afnan_khan/flappy-bird-game-using-amazon-q-cli-25c2)
+- [How to Launch an EC2 Instance and Deploy a Custom NGINX Web Server on AWS Free Tier Using Git Bash](https://dev.to/peter_samuel_052b9056e236/how-to-launch-an-ec2-instance-and-deploy-a-custom-nginx-web-server-on-aws-free-tier-using-git-bash-4kj8)
 <!-- BLOG-POST-LIST:END -->
 
 
