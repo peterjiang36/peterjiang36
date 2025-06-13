@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Kubernetes Deployments with Helm: A Namespace-Centric Guide](https://dev.to/nifelabs/mastering-kubernetes-deployments-with-helm-a-namespace-centric-guide-aof)
-- [second day in HTML class](https://dev.to/savareesan_k_3cc4589834/second-day-in-html-class-21dm)
-- [How to Tackle AI Data Challenges](https://dev.to/heesungf5/how-to-tackle-ai-data-challenges-1c8i)
-- [Exploring Minitab: The Powerful Statistical Analysis Tool](https://dev.to/rishabhtpt/exploring-minitab-the-powerful-statistical-analysis-tool-414n)
+- [10+ Stunning React Icon Library](https://dev.to/theme_selection/10-stunning-react-icon-library-16a2)
+- [Top 7 Git Commands Every Developer Must Know &lpar;with Real-World Examples&rpar;](https://dev.to/red9systech/top-7-git-commands-every-developer-must-know-with-real-world-examples-1lcl)
+- [Accessibility Testing Companies in the US](https://dev.to/accessiblemind_tech/accessibility-testing-companies-in-the-us-55lh)
+- [TPS7A11 LDO Regulator for Low-Voltage Battery Applications](https://dev.to/candice88771483/tps7a11-ldo-regulator-for-low-voltage-battery-applications-e7c)
 <!-- BLOG-POST-LIST:END -->
 
 
