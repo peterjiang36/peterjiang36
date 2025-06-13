@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write AI Prompts That Actually Work: 4 Game-Changing Tips](https://dev.to/itshayder/how-to-write-ai-prompts-that-actually-work-4-game-changing-tips-388h)
-- [How to Build Your First AR App in 2025 from Idea to App Store](https://dev.to/krishanvijay/how-to-build-your-first-ar-app-in-2025-from-idea-to-app-store-pp7)
-- [Why you haven’t nailed English as a non-native — and the automation trick to fix it](https://dev.to/tomwiv/why-you-havent-nailed-english-as-a-non-native-and-the-automation-trick-to-fix-it-56dk)
-- [How to Create a Chat Box Application Using Only Frontend Code](https://dev.to/skapi_api/how-to-create-a-chat-box-application-using-only-frontend-code-5cp1)
+- [CI/CD: The Key to Faster, Stress-Free Software Development](https://dev.to/jeandevbr/cicd-the-key-to-faster-stress-free-software-development-4gmf)
+- [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
+- [Building Your First AI Agent Without Frameworks](https://dev.to/gerimate/building-your-first-ai-agent-without-frameworks-l5p)
+- [How To Import Your Character Into Builds?](https://dev.to/pathofbuildingg/how-to-import-your-character-into-builds-164j)
 <!-- BLOG-POST-LIST:END -->
 
 
