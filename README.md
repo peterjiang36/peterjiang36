@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-bbf)
-- [🔄 Nested loops O&lpar;n &rpar; — it depends how the data is traversed.](https://dev.to/sameer_chawla_b7acddb508f/nested-loops-on2-it-depends-how-the-data-is-traversed-453b)
-- [🛡️ AWS WAF Now Supports Automatic Application Layer &lpar;L7&rpar; DDoS Protection — Fast, Smart, and Hassle-Free](https://dev.to/latchudevops/aws-waf-now-supports-automatic-application-layer-l7-ddos-protection-fast-smart-and-j03)
-- [Let&#39;s build an Agentic Trading System. Together](https://dev.to/callebknox/lets-build-an-agentic-trading-system-together-47mp)
+- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-3b9j)
+- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-2ngg)
+- [🧠 Pieces AI Memory: Built for Real Developer Workflows](https://dev.to/nikl/pieces-ai-memory-built-for-real-developer-workflows-h0e)
+- [My Experience with Hyperlane A Rust Newbie’s Journey in Developing a Campus API](https://dev.to/_95e41982c9ad08a13458d/my-experience-with-hyperlane-a-rust-newbies-journey-in-developing-a-campus-api-4fmb)
 <!-- BLOG-POST-LIST:END -->
 
 
