@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ A Tribute to Juneteenth – A Scroll Through History](https://dev.to/soorajsnblaze333/a-tribute-to-juneteenth-a-scroll-through-history-51io)
-- [深入理解Hyperlane的中间件系统：一个大三学生的实践笔记](https://dev.to/_95e41982c9ad08a13458d/shen-ru-li-jie-hyperlanede-zhong-jian-jian-xi-tong-ge-da-san-xue-sheng-de-shi-jian-bi-ji-3c49)
-- [[Boost]](https://dev.to/vidakhoshpey22/-3coj)
-- [校园二手交易平台的技术选型：为什么我选择了Hyperlane框架](https://dev.to/_95e41982c9ad08a13458d/xiao-yuan-er-shou-jiao-yi-ping-tai-de-ji-zhu-xuan-xing-wei-shi-yao-wo-xuan-ze-liao-hyperlanekuang-jia-3jl3)
+- [What are MCP Servers? | A Detailed Guide](https://dev.to/pulkitgovrani/what-are-mcp-servers-a-detailed-guide-2j0o)
+- [Güvenlik Katmanları: Derin Savunmalar](https://dev.to/yunus_emremert_1756b71d3/guvenlik-katmanlari-derin-savunmalar-2hjd)
+- [My Journey with the Hyperlane Framework From Getting Started to Performance Optimization](https://dev.to/_95e41982c9ad08a13458d/my-journey-with-the-hyperlane-framework-from-getting-started-to-performance-optimization-2n9h)
+- [[Adult Learning Log] Network 1 – Week 1 Review](https://dev.to/sankworks/adult-learning-log-network-1-week-1-review-563)
 <!-- BLOG-POST-LIST:END -->
 
 
