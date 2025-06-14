@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NAPS2: Open-Source Project Scanner Software](https://dev.to/naps2/naps2-open-source-project-scanner-software-534a)
-- [MCP vs Direct APIs: A Side-by-Side Example](https://dev.to/shettigarc/mcp-vs-direct-apis-a-side-by-side-example-1nkf)
-- [AI Document Translation: Complete FAQ &amp; Real-World Guide &lpar;2025&rpar;](https://dev.to/shruti_saraswat_c258d5934/ai-document-translation-complete-faq-real-world-guide-2025-1pc2)
-- [Stop Using Dumb Search Bars: Build Smart, AI-Powered Search with Azure + .NET](https://dev.to/mohammad_shoeb_8cf8645287/stop-using-dumb-search-bars-build-smart-ai-powered-search-with-azure-net-3p8l)
+- [Bridging in React Native with Turbo Native Modules New Architecture 0.79+: A Comprehensive Guide to Cross-Platform](https://dev.to/amitkumar13/bridging-in-react-native-with-turbo-native-modules-new-architecture-079-a-comprehensive-guide-to-19df)
+- [Understanding the Essential Components of an Abstract Data Type Hash Table](https://dev.to/adityabhuyan/understanding-the-essential-components-of-an-abstract-data-type-hash-table-1lgf)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-1pgj)
+- [🧭 Follow the Packet: Kubernetes Networking in 2025 &lpar;Explained Clearly&rpar;](https://dev.to/aleksei_aleinikov/follow-the-packet-kubernetes-networking-in-2025-explained-clearly-5go5)
 <!-- BLOG-POST-LIST:END -->
 
 
