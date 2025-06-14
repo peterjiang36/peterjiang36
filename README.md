@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Elementor AI Site Planner Review and Tutorial 2025 – FREE AI TOOL](https://dev.to/blogkraft/elementor-ai-site-planner-review-and-tutorial-2025-free-ai-tool-3a9)
-- [How to Ace the 30 Most Common Project Defense Questions](https://dev.to/project_championz_9d9586c/how-to-ace-the-30-most-common-project-defense-questions-10kg)
-- [Completed All Two-Tier Application Deployment Series.](https://dev.to/devops_methodology_d2b67f/completed-all-two-tier-application-deployment-series-42a7)
-- [How Browsers Work — A Deep Dive into the Rendering Pipeline](https://dev.to/anpet9779/how-browsers-work-a-deep-dive-into-the-rendering-pipeline-1gjg)
+- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-3-2278)
+- [Day 24/30 - Git Diff --word-diff: See Word-Level Changes, Not Just Lines](https://dev.to/ruqaiya_beguwala/day-2430-git-diff-word-diff-see-word-level-changes-not-just-lines-2p4g)
+- [Implementing Vertical Carousel Notifications in HarmonyOS Next](https://dev.to/caojingcode/implementing-vertical-carousel-notifications-in-harmonyos-next-531)
+- [Crafting a Casual Game Discovery Portal: A Step-by-Step Guide Inspired by GameKnightSummon](https://dev.to/mufeng/crafting-a-casual-game-discovery-portal-a-step-by-step-guide-inspired-by-gameknightsummon-4ol2)
 <!-- BLOG-POST-LIST:END -->
 
 
