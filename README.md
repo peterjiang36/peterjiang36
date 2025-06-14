@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1749931078864500）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749931078864500-2jf1)
-- [ScholarRank Profile: John Round](https://dev.to/puddin1066/scholarrank-profile-john-round-1kdd)
-- [My Journey with the Hyperlane Framework（1749930473907800）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749930473907800-151)
-- [[Boost]](https://dev.to/frolikovea/-39ap)
+- [The Poetry and Horizon of Code Framework（1749934700915400）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749934700915400-j3h)
+- [WWDC 2025 - Optimize SwiftUI performance with Instruments](https://dev.to/softwaretechpro/wwdc-2025-optimize-swiftui-performance-with-instruments-4o4j)
+- [You Are The CEO of Your Own Career](https://dev.to/kparmar/you-are-the-ceo-of-your-own-career-4cab)
+- [A Beginner&#39;s Guide to Promises in JavaScript &lpar;with Real Examples&rpar;](https://dev.to/smriti_4f19f53a3e55b45bcc/a-beginners-guide-to-promises-in-javascript-with-real-examples-6a4)
 <!-- BLOG-POST-LIST:END -->
 
 
