@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Analyzed 16,384 Bundle Combinations &lpar;And You Should Too&rpar;](https://dev.to/puruvj/why-i-analyzed-16384-bundle-combinations-and-you-should-too-4bc4)
-- [Not a full-stack dev. Not a startup. Just a 16 y/o with ideas.](https://dev.to/naman_sachdeva/not-a-full-stack-dev-not-a-startup-just-a-16-yo-with-ideas-pmj)
-- [Cosine Similarity Explained — Intuitively and Practically](https://dev.to/obrutus/cosine-similarity-explained-intuitively-and-practically-44md)
-- [React Native vs Flutter: The Hidden Accessibility Performance Gap](https://dev.to/gabrielrovesti/react-native-vs-flutter-the-hidden-accessibility-performance-gap-1hi9)
+- [Nextflow](https://dev.to/mhebrard/nextflow-1b19)
+- [13 Basic GenAI Terminologies Worth Knowing](https://dev.to/gervaisamoah/13-basic-genai-terminologies-worth-knowing-2dg7)
+- [The Older I Get, the More I Understand What My Father Was Fixing](https://dev.to/versiqcontent/the-older-i-get-the-more-i-understand-what-my-father-was-fixing-1ioe)
+- [🔍 Understanding Scope, Scope Chain &amp; Lexical Environment in JavaScript](https://dev.to/ronak_wanjari_/understanding-scope-scope-chain-lexical-environment-in-javascript-39en)
 <!-- BLOG-POST-LIST:END -->
 
 
