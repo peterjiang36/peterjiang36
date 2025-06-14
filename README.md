@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1749938323059900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749938323059900-5e0o)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749937716787400）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749937716787400-7ll)
-- [The Poetry and Horizon of Code Framework（1749937113506600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749937113506600-4gc5)
-- [The Heartbeat of Modern Web Applications（1749936509773500）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749936509773500-12hp)
+- [My Architectural Choices and Practical Experience（1749941342160200）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749941342160200-43cf)
+- [Peak Performance Understated Power（1749940736268800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749940736268800-2kmk)
+- [My small side project: a short URL tool with domain support, stats &amp; link protection](https://dev.to/rarjers/my-small-side-project-a-short-url-tool-with-domain-support-stats-link-protection-33oj)
+- [My Journey Exploring Efficient Web Development Frameworks（1749940132616300）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749940132616300-5bgm)
 <!-- BLOG-POST-LIST:END -->
 
 
