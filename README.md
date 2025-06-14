@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 Lumen AI 简化 Git Commit 信息生成](https://dev.to/xiaodao/shi-yong-lumen-ai-jian-hua-git-commit-xin-xi-sheng-cheng-439a)
-- [Goodbye Wait Wait Wait My Junior Year Adventure A Secret Weapon That Makes Code Fly](https://dev.to/codeqwertyuiop/goodbye-wait-wait-wait-my-junior-year-adventure-a-secret-weapon-that-makes-code-fly-1mn0)
-- [What I Would Want to Know When Interviewing an AI Engineer](https://dev.to/hasanulmukit/what-i-would-want-to-know-when-interviewing-an-ai-engineer-71k)
-- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-1aj4)
+- [[Boost]](https://dev.to/gurukulkarni/-2a9e)
+- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-j6l)
+- [Code the Grid: Reimagining Tic-Tac-Toe with Just Chat Prompts ❌⭕⚡](https://dev.to/ayushi_kanwar_7e3baf8bb79/code-the-grid-reimagining-tic-tac-toe-with-just-chat-prompts-3385)
+- [Junior Year Self-Study Notes My Journey with the Hyperlane Framework](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-hyperlane-framework-4ggp)
 <!-- BLOG-POST-LIST:END -->
 
 
