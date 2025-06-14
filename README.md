@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging in React Native with Turbo Native Modules New Architecture 0.79+: A Comprehensive Guide to Cross-Platform](https://dev.to/amitkumar13/bridging-in-react-native-with-turbo-native-modules-new-architecture-079-a-comprehensive-guide-to-19df)
-- [Understanding the Essential Components of an Abstract Data Type Hash Table](https://dev.to/adityabhuyan/understanding-the-essential-components-of-an-abstract-data-type-hash-table-1lgf)
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-1pgj)
-- [🧭 Follow the Packet: Kubernetes Networking in 2025 &lpar;Explained Clearly&rpar;](https://dev.to/aleksei_aleinikov/follow-the-packet-kubernetes-networking-in-2025-explained-clearly-5go5)
+- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-fh1)
+- [The Pulse of Real-Time Interaction My &#39;Heartbeat Sync&#39; Journey with an Asynchronous Framework](https://dev.to/codeqwertyuiop/the-pulse-of-real-time-interaction-my-heartbeat-sync-journey-with-an-asynchronous-framework-4d8k)
+- [Stop using shady QR apps! Try this clean browser tool](https://dev.to/naman_sachdeva/stop-using-shady-qr-apps-try-this-clean-browser-tool-2i83)
+- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-4jkk)
 <!-- BLOG-POST-LIST:END -->
 
 
