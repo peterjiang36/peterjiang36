@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Rust Web Frameworks](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-rust-web-frameworks-fh1)
-- [The Pulse of Real-Time Interaction My &#39;Heartbeat Sync&#39; Journey with an Asynchronous Framework](https://dev.to/codeqwertyuiop/the-pulse-of-real-time-interaction-my-heartbeat-sync-journey-with-an-asynchronous-framework-4d8k)
-- [Stop using shady QR apps! Try this clean browser tool](https://dev.to/naman_sachdeva/stop-using-shady-qr-apps-try-this-clean-browser-tool-2i83)
-- [Goodbye Lag, Hello Smoothness My Journey Exploring Efficient Web Development Frameworks](https://dev.to/codeqwertyuiop/goodbye-lag-hello-smoothness-my-journey-exploring-efficient-web-development-frameworks-4jkk)
+- [使用 Lumen AI 简化 Git Commit 信息生成](https://dev.to/xiaodao/shi-yong-lumen-ai-jian-hua-git-commit-xin-xi-sheng-cheng-439a)
+- [Goodbye Wait Wait Wait My Junior Year Adventure A Secret Weapon That Makes Code Fly](https://dev.to/codeqwertyuiop/goodbye-wait-wait-wait-my-junior-year-adventure-a-secret-weapon-that-makes-code-fly-1mn0)
+- [What I Would Want to Know When Interviewing an AI Engineer](https://dev.to/hasanulmukit/what-i-would-want-to-know-when-interviewing-an-ai-engineer-71k)
+- [Forging an Unbreakable Digital Shield My In-Depth Analysis of a Certain Framework&#39;s Security Features](https://dev.to/codeqwertyuiop/forging-an-unbreakable-digital-shield-my-in-depth-analysis-of-a-certain-frameworks-security-1aj4)
 <!-- BLOG-POST-LIST:END -->
 
 
