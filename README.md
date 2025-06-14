@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue コンポーネント 階層](https://dev.to/nabbisen/vue-konponento-jie-ceng-4dd4)
-- [Vue ディレクティブ 基本要素](https://dev.to/nabbisen/vue-deirekuteibu-ji-ben-yao-su-1epi)
-- [Vue 3 Composition API エッセンス](https://dev.to/nabbisen/vue-3-composition-api-etusensu-1nhg)
-- [Vue とはどのようなものか](https://dev.to/nabbisen/vue-tohadonoyounamonoka-4mk3)
+- [◼️38/100 Block-by-Block: The fastest way to set up a blockchain node &lpar;II&rpar;](https://dev.to/nocibambi/38100-block-by-block-the-fastest-way-to-set-up-a-blockchain-node-ii-fk0)
+- [The Purple Ball Game](https://dev.to/viswanath_rao_3c843126dbd/the-purple-ball-game-3ed6)
+- [The Critical Importance of Security in the Digital Age（1749915952506000）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749915952506000-32mm)
+- [My Journey with the Hyperlane Framework（1749915917265700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749915917265700-45ck)
 <!-- BLOG-POST-LIST:END -->
 
 
