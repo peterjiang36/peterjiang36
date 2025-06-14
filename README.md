@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-3-2278)
-- [Day 24/30 - Git Diff --word-diff: See Word-Level Changes, Not Just Lines](https://dev.to/ruqaiya_beguwala/day-2430-git-diff-word-diff-see-word-level-changes-not-just-lines-2p4g)
-- [Implementing Vertical Carousel Notifications in HarmonyOS Next](https://dev.to/caojingcode/implementing-vertical-carousel-notifications-in-harmonyos-next-531)
-- [Crafting a Casual Game Discovery Portal: A Step-by-Step Guide Inspired by GameKnightSummon](https://dev.to/mufeng/crafting-a-casual-game-discovery-portal-a-step-by-step-guide-inspired-by-gameknightsummon-4ol2)
+- [Why I Analyzed 16,384 Bundle Combinations &lpar;And You Should Too&rpar;](https://dev.to/puruvj/why-i-analyzed-16384-bundle-combinations-and-you-should-too-4bc4)
+- [Not a full-stack dev. Not a startup. Just a 16 y/o with ideas.](https://dev.to/naman_sachdeva/not-a-full-stack-dev-not-a-startup-just-a-16-yo-with-ideas-pmj)
+- [Cosine Similarity Explained — Intuitively and Practically](https://dev.to/obrutus/cosine-similarity-explained-intuitively-and-practically-44md)
+- [React Native vs Flutter: The Hidden Accessibility Performance Gap](https://dev.to/gabrielrovesti/react-native-vs-flutter-the-hidden-accessibility-performance-gap-1hi9)
 <!-- BLOG-POST-LIST:END -->
 
 
