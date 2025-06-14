@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maharashtra&#39;s first Digital Forest by Bajaj Institute of technology, Wardha](https://dev.to/piyushdeshkar/maharashtras-first-digital-forest-by-bajaj-institute-of-technology-wardha-4jpo)
-- [The Agentic Web: AI Agents and the Power of Semantic Data](https://dev.to/vaib/the-agentic-web-ai-agents-and-the-power-of-semantic-data-4o2e)
-- [Getting Started with React: My Learning Journey So Far](https://dev.to/a_ramesh/getting-started-with-react-my-learning-journey-so-far-393c)
-- [gabi](https://dev.to/lilith_online_3fc0d19c684/gabi-16ii)
+- [Symfony Station Communiqué - 13 June 2025 - A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-13-june-2025-a-look-at-symfony-drupal-php-and-other-programming-4ddo)
+- [João Cláudio Nunes Carvalho – Projetos em Ciência de Dados e Educação Superior](https://dev.to/joo_cludiojoaoclaudio/joao-claudio-nunes-carvalho-projetos-em-ciencia-de-dados-e-educacao-superior-3l7h)
+- [Shader Learn: Your Fast-Track to Hands-On GLSL Mastery](https://dev.to/mu_san_cdd820a45d42450ddf/shader-learn-your-fast-track-to-hands-on-glsl-mastery-4l3k)
+- [Artificial Intelligence Evolved from Civilian Use to Military Superpower](https://dev.to/ashikur_rahmannazil93/artificial-intelligence-evolved-from-civilian-use-to-military-superpower-689)
 <!-- BLOG-POST-LIST:END -->
 
 
