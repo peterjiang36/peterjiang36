@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building NGINX with ngx_http_consul_backend_module via Ansible](https://dev.to/lovestaco/building-nginx-with-the-consul-backend-module-via-ansible-3pci)
-- [Hidden Gems of GCP: Powerful Services You’re Probably Not Using](https://dev.to/shrsv/hidden-gems-of-gcp-powerful-services-youre-probably-not-using-58n4)
-- [Replicação &amp; Sharding](https://dev.to/stv4ns/replicacao-sharding-4lbf)
-- [Pride Month](https://dev.to/amaljithuk/pride-month-51ef)
+- [The New Generation of High-Performance Web Frameworks（1749927454431100）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749927454431100-n3c)
+- [AWS SSM Association - Schedule Stop and Start RDS &lpar;Power of AWS SSM - EP 1&rpar;](https://dev.to/aws-builders/aws-ssm-association-schedule-stop-and-start-rds-power-of-aws-ssm-ep-1-6g4)
+- [The Poetry and Horizon of Code Framework（1749926846557600）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749926846557600-388i)
+- [Building an Interactive Resume: My Journey with React, Tailwind CSS, and Framer Motion ✨](https://dev.to/gojer16/building-an-interactive-resume-my-journey-with-react-tailwind-css-and-framer-motion-54ck)
 <!-- BLOG-POST-LIST:END -->
 
 
