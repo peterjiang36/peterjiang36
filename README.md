@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Model-Level Attacks and How to Defend Against Them | AI Security series](https://dev.to/iamfaham/model-level-attacks-and-how-to-defend-against-them-ai-security-series-70d)
-- [New Ruby Gem: webri](https://dev.to/burdettelamar/new-ruby-gem-webri-c7n)
-- [New Ruby Gem: webri](https://dev.to/burdettelamar/new-ruby-gem-webri-5f3f)
-- [Beyond Encryption: How Confidential Computing Secures AI Workloads](https://dev.to/vaib/beyond-encryption-how-confidential-computing-secures-ai-workloads-1bio)
+- [🧮 Beginner’s Guide to &quot;Maximum Difference by Remapping a Digit&quot; – LeetCode 2566 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-maximum-difference-by-remapping-a-digit-leetcode-2566-c-javascript--1lfa)
+- [TargetJS: Code-Ordered Reactivity and Targets - A New Paradigm for UI Development](https://dev.to/targetjs/targetjs-code-ordered-reactivity-and-targets-a-new-paradigm-for-ui-development-5eef)
+- [Application Framework: Cross-App Navigation Practice in HarmonyOS](https://dev.to/cn-gelivation/application-framework-cross-app-navigation-practice-in-harmonyos-1omn)
+- [DROGO Throne Ergonomic Gaming Chair Review: A Throne Built for Coders, Creators &amp; Gamers Alike](https://dev.to/codewithsuhani/drogo-throne-ergonomic-gaming-chair-review-a-throne-built-for-coders-creators-gamers-alike-3o0o)
 <!-- BLOG-POST-LIST:END -->
 
 
