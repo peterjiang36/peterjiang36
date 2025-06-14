@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧮 Beginner’s Guide to &quot;Maximum Difference by Remapping a Digit&quot; – LeetCode 2566 &lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-maximum-difference-by-remapping-a-digit-leetcode-2566-c-javascript--1lfa)
-- [TargetJS: Code-Ordered Reactivity and Targets - A New Paradigm for UI Development](https://dev.to/targetjs/targetjs-code-ordered-reactivity-and-targets-a-new-paradigm-for-ui-development-5eef)
-- [Application Framework: Cross-App Navigation Practice in HarmonyOS](https://dev.to/cn-gelivation/application-framework-cross-app-navigation-practice-in-harmonyos-1omn)
-- [DROGO Throne Ergonomic Gaming Chair Review: A Throne Built for Coders, Creators &amp; Gamers Alike](https://dev.to/codewithsuhani/drogo-throne-ergonomic-gaming-chair-review-a-throne-built-for-coders-creators-gamers-alike-3o0o)
+- [Maharashtra&#39;s first Digital Forest by Bajaj Institute of technology, Wardha](https://dev.to/piyushdeshkar/maharashtras-first-digital-forest-by-bajaj-institute-of-technology-wardha-4jpo)
+- [The Agentic Web: AI Agents and the Power of Semantic Data](https://dev.to/vaib/the-agentic-web-ai-agents-and-the-power-of-semantic-data-4o2e)
+- [Getting Started with React: My Learning Journey So Far](https://dev.to/a_ramesh/getting-started-with-react-my-learning-journey-so-far-393c)
+- [gabi](https://dev.to/lilith_online_3fc0d19c684/gabi-16ii)
 <!-- BLOG-POST-LIST:END -->
 
 
