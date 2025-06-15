@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1749941342160200）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749941342160200-43cf)
-- [Peak Performance Understated Power（1749940736268800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749940736268800-2kmk)
-- [My small side project: a short URL tool with domain support, stats &amp; link protection](https://dev.to/rarjers/my-small-side-project-a-short-url-tool-with-domain-support-stats-link-protection-33oj)
-- [My Journey Exploring Efficient Web Development Frameworks（1749940132616300）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749940132616300-5bgm)
+- [🔢 Beginner-Friendly Guide &quot;Maximize the Digit Swap Difference&quot; – LeetCode 1432 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-the-digit-swap-difference-leetcode-1432-c-python--3f5e)
+- [A Duet of Performance and Safety（1749946472209000）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1749946472209000-14go)
+- [2022 oldproject HMDP](https://dev.to/woodyxin/2022-oldproject-hmdp-17gf)
+- [Personal Portofolio updated](https://dev.to/yonatanteklemariam/personal-portofolio-updated-23c6)
 <!-- BLOG-POST-LIST:END -->
 
 
