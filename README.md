@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ScholarRank Profile: John Round](https://dev.to/puddin1066/scholarrank-profile-john-round-f9p)
-- [Abstraction](https://dev.to/prasanth362k/abstraction-1npb)
-- [“Prompt Design Is an Art — Here&#39;s the Brushstroke Guide”](https://dev.to/muskanfatim/prompt-design-is-an-art-heres-the-brushstroke-guide-2ce)
-- [My Architectural Choices and Practical Experience（1750002378426300）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750002378426300-anc)
+- [My Experience with Hyperlane（1750006347008900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750006347008900-3oni)
+- [The Critical Importance of Security in the Digital Age（1750006343643200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750006343643200-5425)
+- [Shallow Copy &amp; Deep Copy in Python &lpar;4&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-4-2h0a)
+- [The Art and Zen of Claude Code: Why Simplicity Always Wins](https://dev.to/ctrlshiftbryan/the-art-and-zen-of-claude-code-why-simplicity-always-wins-38ki)
 <!-- BLOG-POST-LIST:END -->
 
 
