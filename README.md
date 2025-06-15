@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Introduction to Playwright – A Modern End-to-End Testing Framework](https://dev.to/ramamallika_kadali_49a08f/day-1-introduction-to-playwright-a-modern-end-to-end-testing-framework-5b1p)
-- [The Critical Importance of Security in the Digital Age（1750016990656800）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750016990656800-36l9)
-- [Peak Performance Understated Power（1750016987793800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750016987793800-k1p)
-- [RTMP on website](https://dev.to/kai_mller_59579b0b5a55b1/rtmp-on-website-d46)
+- [The Poetry and Horizon of Code Framework（1750020649111700）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750020649111700-398i)
+- [My Journey with the Hyperlane Framework（1750020634810700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750020634810700-3gk2)
+- [A Duet of Performance and Safety（1750020344355200）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750020344355200-1o7e)
+- [The Critical Importance of Security in the Digital Age（1750020329538800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750020329538800-4k0k)
 <!-- BLOG-POST-LIST:END -->
 
 
