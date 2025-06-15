@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your site needs a sitemap?](https://dev.to/ritaly/why-your-site-needs-a-sitemap-23if)
-- [Peak Performance Understated Power（1749998728272800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749998728272800-15k6)
-- [My Journey Exploring Efficient Web Development Frameworks（1749998721427200）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1749998721427200-2koa)
-- [🌈 CSS for Beginners: Style Your Web Page Like a Pro &lpar;Even If You&#39;re Not One Yet&rpar;](https://dev.to/himanshu_bhagwat_efd7a248/css-for-beginners-style-your-web-page-like-a-pro-even-if-youre-not-one-yet-1i57)
+- [ScholarRank Profile: John Round](https://dev.to/puddin1066/scholarrank-profile-john-round-f9p)
+- [Abstraction](https://dev.to/prasanth362k/abstraction-1npb)
+- [“Prompt Design Is an Art — Here&#39;s the Brushstroke Guide”](https://dev.to/muskanfatim/prompt-design-is-an-art-heres-the-brushstroke-guide-2ce)
+- [My Architectural Choices and Practical Experience（1750002378426300）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750002378426300-anc)
 <!-- BLOG-POST-LIST:END -->
 
 
