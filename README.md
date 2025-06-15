@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749983968855800）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749983968855800-46co)
-- [The New Generation of High-Performance Web Frameworks（1749983918181000）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749983918181000-2dhl)
-- [My Journey with the Hyperlane Framework（1749983614138900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749983614138900-568i)
+- [From Fire-and-Forget to Reliable: RabbitMQ Ack [pt. 2]](https://dev.to/eragoo/from-fire-and-forget-to-reliable-rabbitmq-ack-pt-2-5en6)
+- [🔁 Angular 20 Control Flow — Part 2: `@for` is the New `*ngFor`](https://dev.to/vetriselvan_11/angular-20-control-flow-part-2-for-is-the-new-ngfor-51am)
+- [Xole AI Image Generator – All-In-One Photo to Art, Cartoon, Pet Portrait &amp; Product Photo Creator](https://dev.to/kaiyi_cen_5848ed7c1248b9b/xole-ai-image-generator-all-in-one-photo-to-art-cartoon-pet-portrait-product-photo-creator-4318)
+- [Your Guide to Basic Linux Commands Day01](https://dev.to/saber9-8/your-guide-to-basic-linux-commands-day01-3id4)
 <!-- BLOG-POST-LIST:END -->
 
 
