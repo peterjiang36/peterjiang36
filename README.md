@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1750013954427000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750013954427000-8in)
-- [Fine-Tuning Whisper for Japanese-to-Chinese Speech Translation — A Lightweight Approach](https://dev.to/feng_jian_f8d0a9834be/fine-tuning-whisper-for-japanese-to-chinese-speech-translation-a-lightweight-approach-32if)
-- [The Critical Importance of Security in the Digital Age（1750013347362800）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750013347362800-51ai)
-- [Bulletproof Your APIs with Contract Testing](https://dev.to/levii07/bulletproof-your-apis-with-contract-testing-gaa)
+- [Day 1: Introduction to Playwright – A Modern End-to-End Testing Framework](https://dev.to/ramamallika_kadali_49a08f/day-1-introduction-to-playwright-a-modern-end-to-end-testing-framework-5b1p)
+- [The Critical Importance of Security in the Digital Age（1750016990656800）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750016990656800-36l9)
+- [Peak Performance Understated Power（1750016987793800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1750016987793800-k1p)
+- [RTMP on website](https://dev.to/kai_mller_59579b0b5a55b1/rtmp-on-website-d46)
 <!-- BLOG-POST-LIST:END -->
 
 
