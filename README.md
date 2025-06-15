@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introduction to System Design: LLD and SOLID Principles](https://dev.to/asutoshk_09/introduction-to-system-design-lld-and-solid-principles-41df)
-- [My Architectural Choices and Practical Experience（1750009698161300）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750009698161300-2d09)
-- [The New Generation of High-Performance Web Frameworks（1750009694805900）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750009694805900-2mph)
-- [What is GNU/GCC, Clang/LLVM](https://dev.to/loobie2we/what-is-gnugcc-clangllvm-28nm)
+- [My Journey with the Hyperlane Framework（1750013954427000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750013954427000-8in)
+- [Fine-Tuning Whisper for Japanese-to-Chinese Speech Translation — A Lightweight Approach](https://dev.to/feng_jian_f8d0a9834be/fine-tuning-whisper-for-japanese-to-chinese-speech-translation-a-lightweight-approach-32if)
+- [The Critical Importance of Security in the Digital Age（1750013347362800）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750013347362800-51ai)
+- [Bulletproof Your APIs with Contract Testing](https://dev.to/levii07/bulletproof-your-apis-with-contract-testing-gaa)
 <!-- BLOG-POST-LIST:END -->
 
 
