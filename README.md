@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://dev.to/trungkien047/python-4o90)
-- [World Oceans Day](https://dev.to/aniruddhaadak/world-oceans-day-48gb)
-- [My Architectural Choices and Practical Experience（1749995365405900）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1749995365405900-1nnd)
-- [The Poetry and Horizon of Code Framework（1749995361096000）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749995361096000-io6)
+- [Why your site needs a sitemap?](https://dev.to/ritaly/why-your-site-needs-a-sitemap-23if)
+- [Peak Performance Understated Power（1749998728272800）](https://dev.to/codeqwertyuiop/peak-performance-understated-power1749998728272800-15k6)
+- [My Journey Exploring Efficient Web Development Frameworks（1749998721427200）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1749998721427200-2koa)
+- [🌈 CSS for Beginners: Style Your Web Page Like a Pro &lpar;Even If You&#39;re Not One Yet&rpar;](https://dev.to/himanshu_bhagwat_efd7a248/css-for-beginners-style-your-web-page-like-a-pro-even-if-youre-not-one-yet-1i57)
 <!-- BLOG-POST-LIST:END -->
 
 
