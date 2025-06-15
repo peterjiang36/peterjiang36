@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey with the Hyperlane Framework（1749957583444500）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749957583444500-1308)
-- [My Experience with Hyperlane（1749956963416500）](https://dev.to/sdhjfhdshjgfhdsgfhj/my-experience-with-hyperlane1749956963416500-2ipd)
-- [The Poetry and Horizon of Code Framework（1749956963461200）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749956963461200-4ja2)
-- [Your Next Resume Could be More Than a PDF — Say NotebookLM](https://dev.to/gabrielkoo/your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6)
+- [Criando um article do App3](https://dev.to/xandongurgel/criando-um-article-do-app3-1je4)
+- [My Architectural Choices and Practical Experience（1749959415206100）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749959415206100-28)
+- [My Experience with Hyperlane（1749959110834900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1749959110834900-hig)
+- [Track article when creates](https://dev.to/xandongurgel/track-article-when-creates-21k)
 <!-- BLOG-POST-LIST:END -->
 
 
