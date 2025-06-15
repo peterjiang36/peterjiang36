@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML X CSS](https://dev.to/saksham_ital/html-x-css-519k)
-- [From Confusion to Clarity: My AI Agent for Intern Prep in Big Tech](https://dev.to/sarthak_rana/from-confusion-to-clarity-my-ai-agent-for-intern-prep-in-big-tech-mep)
-- [What is Site Reliability Engineering? A Beginner’s Guide](https://dev.to/sanjay_vagle_195d9b30aefb/what-is-site-reliability-engineering-a-beginners-guide-41c0)
-- [How Do You Approach Building Scalable PHP Applications?](https://dev.to/thecodeliner/how-do-you-approach-building-scalable-php-applications-13lj)
+- [Basics of HTML](https://dev.to/saksham_ital/basics-of-html-2o58)
+- [June 14 2025](https://dev.to/liza_1978/june-14-2025-9ea)
+- [See what scira.ai searched for me](https://dev.to/aniruddhaadak_/see-what-sciraai-searched-for-me-2p05)
+- [💭 “You Were Never Lazy…” — A Quiet Truth for Burnt-Out Devs](https://dev.to/00rvn00/you-were-never-lazy-a-quiet-truth-for-burnt-out-devs-4ojh)
 <!-- BLOG-POST-LIST:END -->
 
 
