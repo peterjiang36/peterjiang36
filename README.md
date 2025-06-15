@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zeeman: a minimalistic periodic table focused on isotopes](https://dev.to/gicrisf/zeeman-a-minimalistic-periodic-table-focused-on-isotopes-mm1)
-- [I built a mac app to track what you’re doing in real-time and broadcast it over websockets + send me to an island hackathon?](https://dev.to/ssh_shailesh/i-built-a-mac-app-to-track-what-youre-doing-in-real-time-and-broadcast-it-over-websockets-send-19dc)
-- [Junior Year Self-Study Notes My Journey with the Framework（1749992235220000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749992235220000-30a0)
-- [Build a Universal CSV, Excel &amp; JSON Data Previewer in Node.js](https://dev.to/abrar_ahmed/build-a-universal-csv-excel-json-data-previewer-in-nodejs-155k)
+- [Python](https://dev.to/trungkien047/python-4o90)
+- [World Oceans Day](https://dev.to/aniruddhaadak/world-oceans-day-48gb)
+- [My Architectural Choices and Practical Experience（1749995365405900）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1749995365405900-1nnd)
+- [The Poetry and Horizon of Code Framework（1749995361096000）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749995361096000-io6)
 <!-- BLOG-POST-LIST:END -->
 
 
