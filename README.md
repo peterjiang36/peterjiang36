@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔢 Beginner-Friendly Guide &quot;Maximize the Digit Swap Difference&quot; – LeetCode 1432 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-the-digit-swap-difference-leetcode-1432-c-python--3f5e)
-- [A Duet of Performance and Safety（1749946472209000）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1749946472209000-14go)
-- [2022 oldproject HMDP](https://dev.to/woodyxin/2022-oldproject-hmdp-17gf)
-- [Personal Portofolio updated](https://dev.to/yonatanteklemariam/personal-portofolio-updated-23c6)
+- [I built an MVP couple/personal finance app](https://dev.to/cargdev/i-built-an-mvp-couplepersonal-finance-app-hm2)
+- [The Poetry and Horizon of Code Framework（1749950132971000）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749950132971000-261m)
+- [My Architectural Choices and Practical Experience（1749950124213600）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1749950124213600-be1)
+- [Mikro Hizmetler: İşinizi Nasıl Dönüştürür?](https://dev.to/yunus_emremert_1756b71d3/mikro-hizmetler-isinizi-nasil-donusturur-166l)
 <!-- BLOG-POST-LIST:END -->
 
 
