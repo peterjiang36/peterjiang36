@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Poetry and Horizon of Code Framework（1750020649111700）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750020649111700-398i)
-- [My Journey with the Hyperlane Framework（1750020634810700）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750020634810700-3gk2)
-- [A Duet of Performance and Safety（1750020344355200）](https://dev.to/member_b06955cb/a-duet-of-performance-and-safety1750020344355200-1o7e)
-- [The Critical Importance of Security in the Digital Age（1750020329538800）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1750020329538800-4k0k)
+- [The Complete Guide to Scalable Next.js Architecture](https://dev.to/melvinprince/the-complete-guide-to-scalable-nextjs-architecture-39o0)
+- [FluentValidation Rule Sets](https://dev.to/karenpayneoregon/fluentvalidation-rule-sets-35ck)
+- [My Architectural Choices and Practical Experience（1750023414505000）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750023414505000-3dd3)
+- [Junior Year Self-Study Notes My Journey with the Framework（1750023110480600）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750023110480600-403p)
 <!-- BLOG-POST-LIST:END -->
 
 
