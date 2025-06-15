@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Understanding Arrays in C++ Classes: A Student Score Program](https://dev.to/sana_khan_c4716d273e04120/understanding-arrays-in-c-classes-a-student-score-program-573l)
-- [The AI Revolution 2025: Breakthroughs, Ethics, and Future Visions](https://dev.to/deepika0614/the-ai-revolution-2025-breakthroughs-ethics-and-future-visions-4kdk)
-- [How to Design Customer Journeys as Workflows, and Let AI Handle the Rest](https://dev.to/svalync/how-to-design-customer-journeys-as-workflows-and-let-ai-handle-the-rest-1ce1)
-- [The Critical Importance of Security in the Digital Age（1749973596033200）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749973596033200-13ii)
+- [Top 10 Most Asked JavaScript Interview Questions in 2025 &lpar;With Simple Answers + Code Examples&rpar;](https://dev.to/sid6398/top-10-most-asked-javascript-interview-questions-in-2025-with-simple-answers-code-examples-ddf)
+- [5 Surprising Developer Facts You Might Not Know](https://dev.to/otienorabin/5-surprising-developer-facts-you-might-not-know-23pn)
+- [My Journey Exploring Efficient Web Development Frameworks（1749977244836200）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749977244836200-579b)
+- [Lies about the European Accessibility Act](https://dev.to/kvetoslavnovak/lies-about-the-european-accessibility-act-3p1p)
 <!-- BLOG-POST-LIST:END -->
 
 
