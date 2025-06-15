@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #24-2025: Tech Earthquake 2025: Apple’s Redesigns, Meta’s AI Billions, and the Cloud Meltdown](https://dev.to/weekly/weekly-24-2025-tech-earthquake-2025-apples-redesigns-metas-ai-billions-and-the-cloud-meltdown-33e4)
-- [The Heartbeat of Modern Web Applications（1749953131241800）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1749953131241800-3k9b)
-- [Your Guide to Practical Quantum Machine Learning: Tools, Techniques, and Today&#39;s Applications](https://dev.to/vaib/your-guide-to-practical-quantum-machine-learning-tools-techniques-and-todays-applications-12la)
-- [The Poetry and Horizon of Code Framework（1749952076893200）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749952076893200-5da0)
+- [My Journey with the Hyperlane Framework（1749957583444500）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1749957583444500-1308)
+- [My Experience with Hyperlane（1749956963416500）](https://dev.to/sdhjfhdshjgfhdsgfhj/my-experience-with-hyperlane1749956963416500-2ipd)
+- [The Poetry and Horizon of Code Framework（1749956963461200）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749956963461200-4ja2)
+- [Your Next Resume Could be More Than a PDF — Say NotebookLM](https://dev.to/gabrielkoo/your-next-resume-could-be-more-than-a-pdf-say-notebooklm-57d6)
 <!-- BLOG-POST-LIST:END -->
 
 
