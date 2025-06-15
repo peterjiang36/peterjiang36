@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Most Asked JavaScript Interview Questions in 2025 &lpar;With Simple Answers + Code Examples&rpar;](https://dev.to/sid6398/top-10-most-asked-javascript-interview-questions-in-2025-with-simple-answers-code-examples-ddf)
-- [5 Surprising Developer Facts You Might Not Know](https://dev.to/otienorabin/5-surprising-developer-facts-you-might-not-know-23pn)
-- [My Journey Exploring Efficient Web Development Frameworks（1749977244836200）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1749977244836200-579b)
-- [Lies about the European Accessibility Act](https://dev.to/kvetoslavnovak/lies-about-the-european-accessibility-act-3p1p)
+- [How to create an interactive solar system using P5.js.](https://dev.to/hr21don/how-to-create-an-interactive-solar-system-using-p5js-4oi4)
+- [Step-by-Step Guide: Just minutes! Build an MCP Server and Client interacting with Ollama in C#](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-just-minutes-build-an-mcp-server-and-client-interacting-with-ollama-in-c-906)
+- [The New Generation of High-Performance Web Frameworks（1749980883903600）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1749980883903600-2cje)
+- [Hello DEV community😄](https://dev.to/huey/hello-dev-community-blk)
 <!-- BLOG-POST-LIST:END -->
 
 
