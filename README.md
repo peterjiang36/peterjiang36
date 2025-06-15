@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of HTML](https://dev.to/saksham_ital/basics-of-html-2o58)
-- [June 14 2025](https://dev.to/liza_1978/june-14-2025-9ea)
-- [See what scira.ai searched for me](https://dev.to/aniruddhaadak_/see-what-sciraai-searched-for-me-2p05)
-- [💭 “You Were Never Lazy…” — A Quiet Truth for Burnt-Out Devs](https://dev.to/00rvn00/you-were-never-lazy-a-quiet-truth-for-burnt-out-devs-4ojh)
+- [Lessons from Mentoring: How Teaching Others Made Me a Better Developer](https://dev.to/karol_modelski/lessons-from-mentoring-how-teaching-others-made-me-a-better-developer-349b)
+- [My First Dev.to Post 😁 | DSA, Projects &amp; Starting My Dev Journey](https://dev.to/prashant9700/my-first-devto-post-dsa-projects-starting-my-dev-journey-1dgp)
+- [Highly Effective 7 Habits for Developers](https://dev.to/sadekul_me/highly-effective-7-habits-for-developers-j3b)
+- [The Poetry and Horizon of Code Framework（1749969930267300）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749969930267300-555n)
 <!-- BLOG-POST-LIST:END -->
 
 
