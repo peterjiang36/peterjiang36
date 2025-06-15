@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Fire-and-Forget to Reliable: RabbitMQ Ack [pt. 2]](https://dev.to/eragoo/from-fire-and-forget-to-reliable-rabbitmq-ack-pt-2-5en6)
-- [🔁 Angular 20 Control Flow — Part 2: `@for` is the New `*ngFor`](https://dev.to/vetriselvan_11/angular-20-control-flow-part-2-for-is-the-new-ngfor-51am)
-- [Xole AI Image Generator – All-In-One Photo to Art, Cartoon, Pet Portrait &amp; Product Photo Creator](https://dev.to/kaiyi_cen_5848ed7c1248b9b/xole-ai-image-generator-all-in-one-photo-to-art-cartoon-pet-portrait-product-photo-creator-4318)
-- [Your Guide to Basic Linux Commands Day01](https://dev.to/saber9-8/your-guide-to-basic-linux-commands-day01-3id4)
+- [Zeeman: a minimalistic periodic table focused on isotopes](https://dev.to/gicrisf/zeeman-a-minimalistic-periodic-table-focused-on-isotopes-mm1)
+- [I built a mac app to track what you’re doing in real-time and broadcast it over websockets + send me to an island hackathon?](https://dev.to/ssh_shailesh/i-built-a-mac-app-to-track-what-youre-doing-in-real-time-and-broadcast-it-over-websockets-send-19dc)
+- [Junior Year Self-Study Notes My Journey with the Framework（1749992235220000）](https://dev.to/codeqwertyuiop/junior-year-self-study-notes-my-journey-with-the-framework1749992235220000-30a0)
+- [Build a Universal CSV, Excel &amp; JSON Data Previewer in Node.js](https://dev.to/abrar_ahmed/build-a-universal-csv-excel-json-data-previewer-in-nodejs-155k)
 <!-- BLOG-POST-LIST:END -->
 
 
