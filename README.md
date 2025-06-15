@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from Mentoring: How Teaching Others Made Me a Better Developer](https://dev.to/karol_modelski/lessons-from-mentoring-how-teaching-others-made-me-a-better-developer-349b)
-- [My First Dev.to Post 😁 | DSA, Projects &amp; Starting My Dev Journey](https://dev.to/prashant9700/my-first-devto-post-dsa-projects-starting-my-dev-journey-1dgp)
-- [Highly Effective 7 Habits for Developers](https://dev.to/sadekul_me/highly-effective-7-habits-for-developers-j3b)
-- [The Poetry and Horizon of Code Framework（1749969930267300）](https://dev.to/codeqwertyuiop/the-poetry-and-horizon-of-code-framework1749969930267300-555n)
+- [💻 Understanding Arrays in C++ Classes: A Student Score Program](https://dev.to/sana_khan_c4716d273e04120/understanding-arrays-in-c-classes-a-student-score-program-573l)
+- [The AI Revolution 2025: Breakthroughs, Ethics, and Future Visions](https://dev.to/deepika0614/the-ai-revolution-2025-breakthroughs-ethics-and-future-visions-4kdk)
+- [How to Design Customer Journeys as Workflows, and Let AI Handle the Rest](https://dev.to/svalync/how-to-design-customer-journeys-as-workflows-and-let-ai-handle-the-rest-1ce1)
+- [The Critical Importance of Security in the Digital Age（1749973596033200）](https://dev.to/codeqwertyuiop/the-critical-importance-of-security-in-the-digital-age1749973596033200-13ii)
 <!-- BLOG-POST-LIST:END -->
 
 
