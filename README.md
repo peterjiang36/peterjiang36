@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750006347008900）](https://dev.to/codeqwertyuiop/my-experience-with-hyperlane1750006347008900-3oni)
-- [The Critical Importance of Security in the Digital Age（1750006343643200）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750006343643200-5425)
-- [Shallow Copy &amp; Deep Copy in Python &lpar;4&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-4-2h0a)
-- [The Art and Zen of Claude Code: Why Simplicity Always Wins](https://dev.to/ctrlshiftbryan/the-art-and-zen-of-claude-code-why-simplicity-always-wins-38ki)
+- [🚀 Introduction to System Design: LLD and SOLID Principles](https://dev.to/asutoshk_09/introduction-to-system-design-lld-and-solid-principles-41df)
+- [My Architectural Choices and Practical Experience（1750009698161300）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750009698161300-2d09)
+- [The New Generation of High-Performance Web Frameworks（1750009694805900）](https://dev.to/codeqwertyuiop/the-new-generation-of-high-performance-web-frameworks1750009694805900-2mph)
+- [What is GNU/GCC, Clang/LLVM](https://dev.to/loobie2we/what-is-gnugcc-clangllvm-28nm)
 <!-- BLOG-POST-LIST:END -->
 
 
