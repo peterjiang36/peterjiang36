@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Animate Like a Pro: Creating a Reusable MotionDiv Using Motion](https://dev.to/sushilmagare10/animate-like-a-pro-creating-a-reusable-motiondiv-using-motion-1h7i)
-- [Kubuntu might be the revive potion you are looking for your old laptop 🐦‍🔥](https://dev.to/elpidaguy/kubuntu-might-be-the-revive-potion-you-are-looking-for-your-old-laptop-8fk)
-- [`insecureHash` function in langchainjs source code.](https://dev.to/ramunarasinga-11/insecurehash-function-in-langchainjs-source-code-34e6)
-- [AWS WAF: A Comprehensive Guide to Web Application Protection](https://dev.to/aws-builders/aws-waf-a-comprehensive-guide-to-web-application-protection-5ab1)
+- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
+- [How to Install V-JEPA 2 by Meta: Enable Real-World Interaction in Robots &amp; AI Agents](https://dev.to/nodeshiftcloud/how-to-install-v-jepa-2-by-meta-enable-real-world-interaction-in-robots-ai-agents-2g84)
+- [I attended POST/CON 2025. Here are my thoughts](https://dev.to/jeremycmorgan/i-attended-postcon-2025-here-are-my-thoughts-2d70)
+- [This is exactly what good leadership content should be. Actionable, honest, and grounded. Well done, Ashkan Rajaee.](https://dev.to/noahboswel79/this-is-exactly-what-good-leadership-content-should-be-actionable-honest-and-grounded-well-4h8a)
 <!-- BLOG-POST-LIST:END -->
 
 
