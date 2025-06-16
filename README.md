@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Shouldn&#39;t Call Them Best Practices—And Blindly Follow Them](https://dev.to/canro91/we-shouldnt-call-them-best-practices-and-blindly-follow-them-5fhp)
-- [Don&#39;t Get Rate-Limited: Use Let&#39;s Encrypt Staging](https://dev.to/nickytonline/dont-get-rate-limited-use-lets-encrypt-staging-4kk2)
-- [Peak Performance Understated Power（1750049984029300）](https://dev.to/member_b06955cb/peak-performance-understated-power1750049984029300-178o)
-- [Resume to Result: How AI is Fixing Broken Hiring Pipelines](https://dev.to/santoshi_kumari_c34ae877b/resume-to-result-how-ai-is-fixing-broken-hiring-pipelines-5c28)
+- [Configuring Apache Fineract Properly: A Practical Guide.](https://dev.to/kevwasonga/configuring-apache-fineract-properly-a-practical-guide-j2j)
+- [How Long Does It Take to Binge an Anime? Build a Watch-Time Calculator](https://dev.to/yash_patel_41c9fe9dff67b1/how-long-does-it-take-to-binge-an-anime-build-a-watch-time-calculator-5hej)
+- [The Critical Importance of Security in the Digital Age（1750052715544900）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750052715544900-1ijn)
+- [My Architectural Choices and Practical Experience（1750052712874000）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750052712874000-3942)
 <!-- BLOG-POST-LIST:END -->
 
 
