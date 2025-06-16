@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Apache Fineract Properly: A Practical Guide.](https://dev.to/kevwasonga/configuring-apache-fineract-properly-a-practical-guide-j2j)
-- [How Long Does It Take to Binge an Anime? Build a Watch-Time Calculator](https://dev.to/yash_patel_41c9fe9dff67b1/how-long-does-it-take-to-binge-an-anime-build-a-watch-time-calculator-5hej)
-- [The Critical Importance of Security in the Digital Age（1750052715544900）](https://dev.to/member_b06955cb/the-critical-importance-of-security-in-the-digital-age1750052715544900-1ijn)
-- [My Architectural Choices and Practical Experience（1750052712874000）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750052712874000-3942)
+- [How to Structure Your DevOps Side Project for Real-World Deployments](https://dev.to/devopsdaily/how-to-structure-your-devops-side-project-for-real-world-deployments-1m84)
+- [Swagger vs Postman for API Development: Choosing the Right Tool for Your Project](https://dev.to/fallon_jimmy/swagger-vs-postman-for-api-development-choosing-the-right-tool-for-your-project-4jaj)
+- [iPhone Use AI Agents are here -  Build Your 1st Computer Use AI Agent with Claude 4!🔥](https://dev.to/astrodevil/iphone-use-ai-agents-are-here-build-your-1st-computer-use-ai-agent-with-claude-4-3kei)
+- [Critical Next.js Middleware Bypass Affects Popular AI Apps &lpar;CVE-2025-29927&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-nextjs-middleware-bypass-affects-popular-ai-apps-cve-2025-29927-54aa)
 <!-- BLOG-POST-LIST:END -->
 
 
