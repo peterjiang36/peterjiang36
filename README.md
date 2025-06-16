@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML MEDIA](https://dev.to/m_ramavel_8d478add09a105c/html-media-1c68)
-- [Learning ReactJS](https://dev.to/prdpktri/learning-reactjs-486b)
-- [Why Turkey Became the Global Hub for Hair Transplantation in 2025](https://dev.to/kripto_corumlu/why-turkey-became-the-global-hub-for-hair-transplantation-in-2025-12nh)
-- [⚛️ The Essential React Libraries You Need in 2025](https://dev.to/ml318097/the-essential-react-libraries-you-need-in-2025-2eog)
+- [What are your goals for the week? #131](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-131-3gbo)
+- [Vue コンポーネント データ受渡し: 親 -&gt; 子](https://dev.to/nabbisen/vue-konponento-detashou-du-si-qin-zi-43oe)
+- [TanStack Form vs. React Hook Form](https://dev.to/logrocket/tanstack-form-vs-react-hook-form-6fb)
+- [Off-Chain Influence: What Crypto Billionaires’ Spending Reveals About the Industry](https://dev.to/alexnav/off-chain-influence-what-crypto-billionaires-spending-reveals-about-the-industry-14i5)
 <!-- BLOG-POST-LIST:END -->
 
 
