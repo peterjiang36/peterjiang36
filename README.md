@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Assessing Security Risks of Open Source Repos](https://dev.to/glsolaria/assessing-security-risks-of-open-source-repos-293m)
-- [My Journey Exploring Efficient Web Development Frameworks（1750043290526400）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750043290526400-29a6)
-- [A Duet of Performance and Safety（1750043290393500）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750043290393500-22d9)
-- [🔥 Front-End Technologies You Need to Know in 2025 to Stay Relevant in the Job Market](https://dev.to/er-raj-aryan/front-end-technologies-you-need-to-know-in-2025-to-stay-relevant-in-the-job-market-48bj)
+- [My Architectural Choices and Practical Experience（1750046341401300）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750046341401300-3o1h)
+- [My Journey Exploring Efficient Web Development Frameworks（1750046337859700）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1750046337859700-2bml)
+- [Build your own shell : Codecrafters Edition](https://dev.to/sroy8091/build-your-own-shell-codecrafters-edition-2938)
+- [Hello, world!](https://dev.to/henriquetourinho/hello-world-4po3)
 <!-- BLOG-POST-LIST:END -->
 
 
