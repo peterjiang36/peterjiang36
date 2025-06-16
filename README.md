@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Building AI Wrong — Here&#39;s How MCP Fixes It](https://dev.to/imanishtyagi/youre-building-ai-wrong-heres-how-mcp-fixes-it-4gfm)
-- [My Architectural Choices and Practical Experience（1750031303080800）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750031303080800-2h14)
-- [A Duet of Performance and Safety（1750031274507300）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750031274507300-3ec)
-- [iOS Development Reimagined: From App Store Screenshots to Objective-C Code](https://dev.to/atforeveryoung/ios-development-reimagined-from-app-store-screenshots-to-objective-c-code-4fle)
+- [5 Ways Low Code Platforms Can Improve Business Agility](https://dev.to/lonti-davidb/5-ways-low-code-platforms-can-improve-business-agility-okn)
+- [I Delivered Real Game Dev Infrastructure Solo — Ubisoft’s Partner Program Said “Not Good Enough”](https://dev.to/formantaudio/i-delivered-real-game-dev-infrastructure-solo-ubisofts-partner-program-said-not-good-enough-2pji)
+- [🧠 Understanding `@let` in Angular Templates: A Complete Guide](https://dev.to/vetriselvan_11/understanding-let-in-angular-templates-a-complete-guide-1kio)
+- [My Journey with the Hyperlane Framework（1750036497086900）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750036497086900-a7p)
 <!-- BLOG-POST-LIST:END -->
 
 
