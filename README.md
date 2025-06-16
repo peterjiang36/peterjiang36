@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Work with deeplinks faster with deepvoke!](https://dev.to/gabrielbrasileiro/work-with-deeplinks-faster-with-deepvoke-2afm)
-- [Beginner Friendly React Native Notes](https://dev.to/vincod/beginner-friendly-react-native-notes-33h2)
-- [Neural Electrical Signals Reveal Clues to Happiness &lpar;20250616-144435&rpar;](https://dev.to/maurizio_morri_f7f4bd128c/neural-electrical-signals-reveal-clues-to-happiness-20250616-144435-1ii2)
-- [Deepvoke 1.3 -  The ultimate web tool to work with deeplinks](https://dev.to/gabrielbrasileiro/deepvoke-13-the-ultimate-web-tool-to-work-with-deeplinks-e6l)
+- [[Boost]](https://dev.to/mahdichaari01/-5b9n)
+- [Packaging and Distributing a Rust CLI for All Platforms - A Case Study with Tooka](https://dev.to/benji377/packaging-and-distributing-a-rust-cli-for-all-platforms-a-case-study-with-tooka-172)
+- [My](https://dev.to/lati89/my-54ic)
+- [Why Your Django OAuth Endpoints Mysteriously Show POST Methods &lpar;And How to Fix It&rpar;](https://dev.to/c_6b7a8e65d067ddc62/why-your-django-oauth-endpoints-mysteriously-show-post-methods-and-how-to-fix-it-453l)
 <!-- BLOG-POST-LIST:END -->
 
 
