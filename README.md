@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ClaraVerse: The Open-Source AI Powerhouse That Might Just Dethrone OpenWebUI](https://dev.to/shahdeep/claraverse-the-open-source-ai-powerhouse-that-might-just-dethrone-openwebui-38in)
-- [How to Install V-JEPA 2 by Meta: Enable Real-World Interaction in Robots &amp; AI Agents](https://dev.to/nodeshiftcloud/how-to-install-v-jepa-2-by-meta-enable-real-world-interaction-in-robots-ai-agents-2g84)
-- [I attended POST/CON 2025. Here are my thoughts](https://dev.to/jeremycmorgan/i-attended-postcon-2025-here-are-my-thoughts-2d70)
-- [This is exactly what good leadership content should be. Actionable, honest, and grounded. Well done, Ashkan Rajaee.](https://dev.to/noahboswel79/this-is-exactly-what-good-leadership-content-should-be-actionable-honest-and-grounded-well-4h8a)
+- [You&#39;re Reading Startup Books Wrong &lpar;And It&#39;s Killing Your Progress&rpar;](https://dev.to/shayy/youre-reading-startup-books-wrong-and-its-killing-your-progress-5038)
+- [Understanding Process Signals in Linux](https://dev.to/axisinfo_0a61830e06c3c950/understanding-process-signals-in-linux-5gb)
+- [Ditch Zapier: Automate Sales Follow-Ups with Python](https://dev.to/0x7b-shop/ditch-zapier-automate-sales-follow-ups-with-python-4i6g)
+- [MongoDB Access Control: Creating Secure Users with Custom Roles](https://dev.to/hemanthbabu164_76/mongodb-access-control-creating-secure-users-with-custom-roles-48f5)
 <!-- BLOG-POST-LIST:END -->
 
 
