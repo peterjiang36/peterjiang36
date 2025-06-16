@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1750071040093400）](https://dev.to/codeqwertyuiop/my-architectural-choices-and-practical-experience1750071040093400-50nk)
-- [We&#39;ve Been Compiling Web Apps Wrong for a Decade](https://dev.to/professional_joe/weve-been-compiling-web-apps-wrong-for-a-decade-43aj)
-- [My Experience with Hyperlane（1750071023394900）](https://dev.to/member_b06955cb/my-experience-with-hyperlane1750071023394900-1kbp)
-- [Python: Your Gateway to Versatile Programming](https://dev.to/sia_negi21/python-your-gateway-to-versatile-programming-3glf)
+- [Your Network Might Already Be Compromised If You Are Still Using 2022 Security Playbooks](https://dev.to/sakshipareek02/your-network-might-already-be-compromised-if-you-are-still-using-2022-security-playbooks-4fe8)
+- [Partage de données entre composants Riot avec Riot-Meiosis &lpar;State Manager&rpar;](https://dev.to/steeve/partage-de-donnees-entre-composants-riot-avec-riot-meiosis-state-manager-2oi)
+- [How to Optimize Docker Images for Laravel Apps: A Simple Guide](https://dev.to/aleson-franca/how-to-optimize-docker-images-for-laravel-apps-a-simple-guide-3o90)
+- [A Duet of Performance and Safety（1750074697194200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750074697194200-1214)
 <!-- BLOG-POST-LIST:END -->
 
 
