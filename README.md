@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Network Might Already Be Compromised If You Are Still Using 2022 Security Playbooks](https://dev.to/sakshipareek02/your-network-might-already-be-compromised-if-you-are-still-using-2022-security-playbooks-4fe8)
-- [Partage de données entre composants Riot avec Riot-Meiosis &lpar;State Manager&rpar;](https://dev.to/steeve/partage-de-donnees-entre-composants-riot-avec-riot-meiosis-state-manager-2oi)
-- [How to Optimize Docker Images for Laravel Apps: A Simple Guide](https://dev.to/aleson-franca/how-to-optimize-docker-images-for-laravel-apps-a-simple-guide-3o90)
-- [A Duet of Performance and Safety（1750074697194200）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750074697194200-1214)
+- [HTML MEDIA](https://dev.to/m_ramavel_8d478add09a105c/html-media-1c68)
+- [Learning ReactJS](https://dev.to/prdpktri/learning-reactjs-486b)
+- [Why Turkey Became the Global Hub for Hair Transplantation in 2025](https://dev.to/kripto_corumlu/why-turkey-became-the-global-hub-for-hair-transplantation-in-2025-12nh)
+- [⚛️ The Essential React Libraries You Need in 2025](https://dev.to/ml318097/the-essential-react-libraries-you-need-in-2025-2eog)
 <!-- BLOG-POST-LIST:END -->
 
 
