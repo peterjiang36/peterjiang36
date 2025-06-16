@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comunicação com ActiveMQ Usando .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-com-activemq-e-net-5dbj)
-- [Cracking the Code: What DSA Actually Taught Me Beyond Interviews](https://dev.to/milan_mishra_554c5e235edb/cracking-the-code-what-dsa-actually-taught-me-beyond-interviews-3kmh)
-- [Discussions with Devs about Secrets in Code be Like...](https://dev.to/thankssecurity/discussions-with-devs-about-secrets-in-code-be-like-4p0n)
-- [LeetCode: Problem 2016](https://dev.to/pascal_vorwerk/leetcode-problem-2016-kl5)
+- [Getting Your Feet Rust-y: A Beginner’s Guide to Rust for Polkadot Devs”](https://dev.to/githaiga22/getting-your-feet-rust-y-a-beginners-guide-to-rust-for-polkadot-devs-3bh)
+- [Quick Access to Ruby Documentation](https://dev.to/burdettelamar/quick-access-to-ruby-documentation-50he)
+- [New bandcamp embed is live](https://dev.to/ben/new-bandcamp-embed-is-live-5g9e)
+- [Testing Bandcamp embed](https://dev.to/ben/testing-bandcamp-embed-3p87)
 <!-- BLOG-POST-LIST:END -->
 
 
