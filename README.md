@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Low Code Platforms Can Improve Business Agility](https://dev.to/lonti-davidb/5-ways-low-code-platforms-can-improve-business-agility-okn)
-- [I Delivered Real Game Dev Infrastructure Solo — Ubisoft’s Partner Program Said “Not Good Enough”](https://dev.to/formantaudio/i-delivered-real-game-dev-infrastructure-solo-ubisofts-partner-program-said-not-good-enough-2pji)
-- [🧠 Understanding `@let` in Angular Templates: A Complete Guide](https://dev.to/vetriselvan_11/understanding-let-in-angular-templates-a-complete-guide-1kio)
-- [My Journey with the Hyperlane Framework（1750036497086900）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750036497086900-a7p)
+- [📈 Maximum Difference Between Increasing Elements – LeetCode 2016 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/maximum-difference-between-increasing-elements-leetcode-2016-c-python-javascript-3ebk)
+- [My Journey with the Hyperlane Framework（1750040855862000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750040855862000-3dlb)
+- [My Journey with the Hyperlane Framework（1750040855111900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750040855111900-5075)
+- [Mozilla TTS: El sintetizador de voz de código abierto que suena como humano](https://dev.to/sergiocredo49/mozilla-tts-el-sintetizador-de-voz-de-codigo-abierto-que-suena-como-humano-5ba8)
 <!-- BLOG-POST-LIST:END -->
 
 
