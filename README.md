@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Workflow Engine for Business Approval Systems](https://dev.to/mohammad_anzawi/choosing-the-right-workflow-engine-for-business-approval-systems-3klf)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750027057570400）](https://dev.to/member_b06955cb/junior-year-self-study-notes-my-journey-with-the-framework1750027057570400-3bbp)
-- [How I created the fastest JavaScript Physics Engine.](https://dev.to/gabrielxyz/how-i-created-the-fastest-javascript-physics-engine-1375)
-- [The Poetry and Horizon of Code Framework（1750026451302400）](https://dev.to/member_b06955cb/the-poetry-and-horizon-of-code-framework1750026451302400-4i8i)
+- [You&#39;re Building AI Wrong — Here&#39;s How MCP Fixes It](https://dev.to/imanishtyagi/youre-building-ai-wrong-heres-how-mcp-fixes-it-4gfm)
+- [My Architectural Choices and Practical Experience（1750031303080800）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750031303080800-2h14)
+- [A Duet of Performance and Safety（1750031274507300）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750031274507300-3ec)
+- [iOS Development Reimagined: From App Store Screenshots to Objective-C Code](https://dev.to/atforeveryoung/ios-development-reimagined-from-app-store-screenshots-to-objective-c-code-4fle)
 <!-- BLOG-POST-LIST:END -->
 
 
