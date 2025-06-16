@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📈 Maximum Difference Between Increasing Elements – LeetCode 2016 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/maximum-difference-between-increasing-elements-leetcode-2016-c-python-javascript-3ebk)
-- [My Journey with the Hyperlane Framework（1750040855862000）](https://dev.to/member_b06955cb/my-journey-with-the-hyperlane-framework1750040855862000-3dlb)
-- [My Journey with the Hyperlane Framework（1750040855111900）](https://dev.to/codeqwertyuiop/my-journey-with-the-hyperlane-framework1750040855111900-5075)
-- [Mozilla TTS: El sintetizador de voz de código abierto que suena como humano](https://dev.to/sergiocredo49/mozilla-tts-el-sintetizador-de-voz-de-codigo-abierto-que-suena-como-humano-5ba8)
+- [Assessing Security Risks of Open Source Repos](https://dev.to/glsolaria/assessing-security-risks-of-open-source-repos-293m)
+- [My Journey Exploring Efficient Web Development Frameworks（1750043290526400）](https://dev.to/member_b06955cb/my-journey-exploring-efficient-web-development-frameworks1750043290526400-29a6)
+- [A Duet of Performance and Safety（1750043290393500）](https://dev.to/codeqwertyuiop/a-duet-of-performance-and-safety1750043290393500-22d9)
+- [🔥 Front-End Technologies You Need to Know in 2025 to Stay Relevant in the Job Market](https://dev.to/er-raj-aryan/front-end-technologies-you-need-to-know-in-2025-to-stay-relevant-in-the-job-market-48bj)
 <!-- BLOG-POST-LIST:END -->
 
 
