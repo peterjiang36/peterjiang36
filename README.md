@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Bucket Algorithm](https://dev.to/jay818/token-bucket-algorithm-1hhh)
-- [Authentication Service Types](https://dev.to/tak089/authentication-service-types-47)
-- [Implementando o padrão Outbox Pattern com MySQL e usando Brighter](https://dev.to/actor-dev/implementando-o-padrao-outbox-pattern-com-mysql-e-usando-brighter-1lck)
-- [Implementing the Outbox Pattern with MySQL and using Brighter](https://dev.to/actor-dev/implementing-the-outbox-pattern-with-mysql-and-using-brighter-159b)
+- [Why Everyone’s Talking About SafeLine — The Most Powerful Free WAF from Asia](https://dev.to/carrie_luo1/why-everyones-talking-about-safeline-the-most-powerful-free-waf-from-asia-51ne)
+- [Getting Started with LangChain: Build Smarter AI Apps with LLMs](https://dev.to/brains_behind_bots/getting-started-with-langchain-build-smarter-ai-apps-with-llms-53go)
+- [The Heartbeat of Modern Web Applications（1750064330497700）](https://dev.to/codeqwertyuiop/the-heartbeat-of-modern-web-applications1750064330497700-4fga)
+- [Peak Performance Understated Power（1750064322082300）](https://dev.to/member_b06955cb/peak-performance-understated-power1750064322082300-h5f)
 <!-- BLOG-POST-LIST:END -->
 
 
