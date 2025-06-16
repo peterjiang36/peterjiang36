@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Reading Startup Books Wrong &lpar;And It&#39;s Killing Your Progress&rpar;](https://dev.to/shayy/youre-reading-startup-books-wrong-and-its-killing-your-progress-5038)
-- [Understanding Process Signals in Linux](https://dev.to/axisinfo_0a61830e06c3c950/understanding-process-signals-in-linux-5gb)
-- [Ditch Zapier: Automate Sales Follow-Ups with Python](https://dev.to/0x7b-shop/ditch-zapier-automate-sales-follow-ups-with-python-4i6g)
-- [MongoDB Access Control: Creating Secure Users with Custom Roles](https://dev.to/hemanthbabu164_76/mongodb-access-control-creating-secure-users-with-custom-roles-48f5)
+- [Comunicação com ActiveMQ Usando .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-com-activemq-e-net-5dbj)
+- [Cracking the Code: What DSA Actually Taught Me Beyond Interviews](https://dev.to/milan_mishra_554c5e235edb/cracking-the-code-what-dsa-actually-taught-me-beyond-interviews-3kmh)
+- [Discussions with Devs about Secrets in Code be Like...](https://dev.to/thankssecurity/discussions-with-devs-about-secrets-in-code-be-like-4p0n)
+- [LeetCode: Problem 2016](https://dev.to/pascal_vorwerk/leetcode-problem-2016-kl5)
 <!-- BLOG-POST-LIST:END -->
 
 
