@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Structure Your DevOps Side Project for Real-World Deployments](https://dev.to/devopsdaily/how-to-structure-your-devops-side-project-for-real-world-deployments-1m84)
-- [Swagger vs Postman for API Development: Choosing the Right Tool for Your Project](https://dev.to/fallon_jimmy/swagger-vs-postman-for-api-development-choosing-the-right-tool-for-your-project-4jaj)
-- [iPhone Use AI Agents are here -  Build Your 1st Computer Use AI Agent with Claude 4!🔥](https://dev.to/astrodevil/iphone-use-ai-agents-are-here-build-your-1st-computer-use-ai-agent-with-claude-4-3kei)
-- [Critical Next.js Middleware Bypass Affects Popular AI Apps &lpar;CVE-2025-29927&rpar;](https://dev.to/sharon_42e16b8da44dabde6d/critical-nextjs-middleware-bypass-affects-popular-ai-apps-cve-2025-29927-54aa)
+- [Token Bucket Algorithm](https://dev.to/jay818/token-bucket-algorithm-1hhh)
+- [Authentication Service Types](https://dev.to/tak089/authentication-service-types-47)
+- [Implementando o padrão Outbox Pattern com MySQL e usando Brighter](https://dev.to/actor-dev/implementando-o-padrao-outbox-pattern-com-mysql-e-usando-brighter-1lck)
+- [Implementing the Outbox Pattern with MySQL and using Brighter](https://dev.to/actor-dev/implementing-the-outbox-pattern-with-mysql-and-using-brighter-159b)
 <!-- BLOG-POST-LIST:END -->
 
 
