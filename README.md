@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Architectural Choices and Practical Experience（1750046341401300）](https://dev.to/member_b06955cb/my-architectural-choices-and-practical-experience1750046341401300-3o1h)
-- [My Journey Exploring Efficient Web Development Frameworks（1750046337859700）](https://dev.to/codeqwertyuiop/my-journey-exploring-efficient-web-development-frameworks1750046337859700-2bml)
-- [Build your own shell : Codecrafters Edition](https://dev.to/sroy8091/build-your-own-shell-codecrafters-edition-2938)
-- [Hello, world!](https://dev.to/henriquetourinho/hello-world-4po3)
+- [We Shouldn&#39;t Call Them Best Practices—And Blindly Follow Them](https://dev.to/canro91/we-shouldnt-call-them-best-practices-and-blindly-follow-them-5fhp)
+- [Don&#39;t Get Rate-Limited: Use Let&#39;s Encrypt Staging](https://dev.to/nickytonline/dont-get-rate-limited-use-lets-encrypt-staging-4kk2)
+- [Peak Performance Understated Power（1750049984029300）](https://dev.to/member_b06955cb/peak-performance-understated-power1750049984029300-178o)
+- [Resume to Result: How AI is Fixing Broken Hiring Pipelines](https://dev.to/santoshi_kumari_c34ae877b/resume-to-result-how-ai-is-fixing-broken-hiring-pipelines-5c28)
 <!-- BLOG-POST-LIST:END -->
 
 
