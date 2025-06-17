@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You can tell this was written with care. It speaks to both beginners and people already in the game.](https://dev.to/dominiquedvln/you-can-tell-this-was-written-with-care-it-speaks-to-both-beginners-and-people-already-in-the-game-2eg1)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
-- [Flutter Authentication with Supabase](https://dev.to/djamware_tutorial_eba1a61/flutter-authentication-with-supabase-2mci)
-- [Next.js Forgot to Design APIs. Tirne Didn’t.](https://dev.to/yukinisihikawa/nextjs-forgot-to-design-apis-tirne-didnt-5bll)
+- [Setup SSL/TLS for PostgreSQL with Docker](https://dev.to/wimadev/setup-ssltls-for-postgresql-with-docker-g15)
+- [Building a JWT-Aware Reverse Proxy in Go for Tiered API Access](https://dev.to/savinda_premachandra/-1kh8)
+- [Perseguindo uma Vida Melhor: Como Consegui um Emprego em Tecnologia no Exterior](https://dev.to/portugues/perseguindo-uma-vida-melhor-como-consegui-um-emprego-em-tecnologia-no-exterior-2h7k)
+- [Linux from the user&#39;s perspective - Part1: Installing Linux](https://dev.to/lostghost/linux-from-the-users-perspective-part1-installing-linux-2gea)
 <!-- BLOG-POST-LIST:END -->
 
 
