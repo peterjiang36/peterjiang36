@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 16 Installation with Ansible &lpar;and Custom Configs&rpar;](https://dev.to/lovestaco/postgresql-16-installation-with-ansible-and-custom-configs-1jle)
-- [Exploring the Relationship Between JavaScript and Functional Languages](https://dev.to/omriluz1/exploring-the-relationship-between-javascript-and-functional-languages-59kp)
-- [DiscoverAI - Intelligent Content Curation Platform](https://dev.to/ai_agi/discoverai-intelligent-content-curation-platform-3969)
-- [Player Announcer Tool](https://dev.to/pranavmunigala/player-announcer-tool-2nc)
+- [Vue の状態管理](https://dev.to/nabbisen/vue-nozhuang-tai-guan-li-10la)
+- [Building an iOS App with Rust Using UniFFI](https://dev.to/almaju/building-an-ios-app-with-rust-using-uniffi-200a)
+- [Seven-Number Psychology Vector Beats Baseline Claude 12-1](https://dev.to/jonk/seven-number-psychology-vector-beats-baseline-claude-12-1-1gen)
+- [An inexpensive smart thermostat device using...ATtiny85](https://dev.to/adriano-repetti/an-inexpensive-smart-thermostat-device-usingattiny85-l8p)
 <!-- BLOG-POST-LIST:END -->
 
 
