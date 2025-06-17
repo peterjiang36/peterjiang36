@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your PHP App is Slowing Down and How Monitoring can Help?](https://dev.to/olivia_madison_b0ad7090ad/why-your-php-app-is-slowing-down-and-how-monitoring-can-help-2io3)
-- [Why AI Interview Assistants Are the Future of Job Hunting](https://dev.to/zy_li_d74fa193c2b190918be/why-ai-interview-assistants-are-the-future-of-job-hunting-1aof)
-- [MongoDB Tutorial: From Basics to Advanced Techniques](https://dev.to/suraj_kumar_fb57ae0928df2/mongodb-tutorial-from-basics-to-advanced-techniques-37pd)
-- [&quot;Understanding AWS Pricing Models – Simplified for Developers&quot;](https://dev.to/2021_cse_gayathrir_e733/understanding-aws-pricing-models-simplified-for-developers-138m)
+- [The Myth of No-Code: Limitations and Real-World Applications](https://dev.to/dct_technology/the-myth-of-no-code-limitations-and-real-world-applications-40li)
+- [Your Resume vs. AI: What Recruiters Really See](https://dev.to/santoshi_kumari_c34ae877b/your-resume-vs-ai-what-recruiters-really-see-2301)
+- [Why I Built DevKit A Toolkit for Developers, Built by a Developer Who Was Tired of Tab-Switching](https://dev.to/mikael_obeta/why-i-built-devkit-a-toolkit-for-developers-built-by-a-developer-who-was-tired-of-tab-switching-icg)
+- [Troubleshooting SSL Certificate Chain Issues in Enterprise Integration Platforms: A Real-World Case Study](https://dev.to/clarizalooktech/troubleshooting-ssl-certificate-chain-issues-in-enterprise-integration-platforms-a-real-world-case-3i1l)
 <!-- BLOG-POST-LIST:END -->
 
 
