@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Next.js API Routes Are Broken. Tirne Fixes Them with Architecture.](https://dev.to/yukinisihikawa/nextjs-api-routes-are-broken-tirne-fixes-them-with-architecture-254i)
-- [npm vs Yarn vs pnpm: The Great Package Manager Race &lpar;And We Have a Winner!&rpar;](https://dev.to/matheusjulidori/npm-vs-yarn-vs-pnpm-the-great-package-manager-race-and-we-have-a-winner-4ahg)
-- [How to Convert TXT to CSV in Java with Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-convert-txt-to-csv-in-java-with-cloud-rest-api-389c)
-- [Claims Processing Software: A Must-Have for Healthcare Providers in 2025](https://dev.to/datagenix/claims-processing-software-a-must-have-for-healthcare-providers-in-2025-3io7)
+- [How to Build a Fullstack AI Agent with LangGraphJS and NestJS &lpar;Using Agent Initializr&rpar;](https://dev.to/ialijr/how-to-build-a-fullstack-ai-agent-with-langgraphjs-and-nestjs-using-agent-initializr-127j)
+- [Vue で SPA - ルーティング](https://dev.to/nabbisen/vue-de-spa-ruteingu-35e0)
+- [Stop pushing broken code. Start using Git hooks🧙‍♂️](https://dev.to/ezpieco/stop-pushing-broken-code-start-using-git-hooks-44m6)
+- [Making it Snappy: How NextBlock Intelligently Loads Scripts for Optimal Performance](https://dev.to/nextblockcms/making-it-snappy-how-nextblock-intelligently-loads-scripts-for-optimal-performance-14kl)
 <!-- BLOG-POST-LIST:END -->
 
 
