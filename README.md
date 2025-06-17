@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（上）—— 请求参数封装，类型转化器与日志记录篇](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-shang-qing-qiu-can-shu-feng-zhuang-lei-xing-zhuan-hua-qi-yu-ri-zhi-ji-lu-pian-5doc)
-- [Frontend Teknikleri: Modern Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontend-teknikleri-modern-yaklasimlar-1o26)
-- [Capítulo 3: Injeção de Dependências com CDI no Quarkus](https://dev.to/erf88/injecao-de-dependencias-com-cdi-no-quarkus-dominando-o-coracao-da-aplicacao-2gl)
-- [HarmonyOS Learning: Third-Party Open Source Libraries](https://dev.to/xhunmon/harmonyos-learning-third-party-open-source-libraries-4g6l)
+- [have a read](https://dev.to/tamanna_aira/have-a-read-49mj)
+- [I built a product people said they wanted. No one showed up.](https://dev.to/gguggulab/i-built-a-product-people-said-they-wanted-no-one-showed-up-13f3)
+- [How to Learn AI from Scratch](https://dev.to/lazypro/how-to-learn-ai-from-scratch-3368)
+- [Doing Science: What I learned while building RouteBastion as a Master’s Thesis project](https://dev.to/pietro-swe/doing-science-what-i-learned-while-building-routebastion-as-a-masters-thesis-project-279d)
 <!-- BLOG-POST-LIST:END -->
 
 
