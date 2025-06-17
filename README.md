@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Fullstack AI Agent with LangGraphJS and NestJS &lpar;Using Agent Initializr&rpar;](https://dev.to/ialijr/how-to-build-a-fullstack-ai-agent-with-langgraphjs-and-nestjs-using-agent-initializr-127j)
-- [Vue で SPA - ルーティング](https://dev.to/nabbisen/vue-de-spa-ruteingu-35e0)
-- [Stop pushing broken code. Start using Git hooks🧙‍♂️](https://dev.to/ezpieco/stop-pushing-broken-code-start-using-git-hooks-44m6)
-- [Making it Snappy: How NextBlock Intelligently Loads Scripts for Optimal Performance](https://dev.to/nextblockcms/making-it-snappy-how-nextblock-intelligently-loads-scripts-for-optimal-performance-14kl)
+- [You can tell this was written with care. It speaks to both beginners and people already in the game.](https://dev.to/dominiquedvln/you-can-tell-this-was-written-with-care-it-speaks-to-both-beginners-and-people-already-in-the-game-2eg1)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-17pe)
+- [Flutter Authentication with Supabase](https://dev.to/djamware_tutorial_eba1a61/flutter-authentication-with-supabase-2mci)
+- [Next.js Forgot to Design APIs. Tirne Didn’t.](https://dev.to/yukinisihikawa/nextjs-forgot-to-design-apis-tirne-didnt-5bll)
 <!-- BLOG-POST-LIST:END -->
 
 
