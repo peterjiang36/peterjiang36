@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2f66)
-- [How the Upcoming Cloudflare Enforcement Order Change Impacts DEV and SEO](https://dev.to/bigbangsocial/how-the-upcoming-cloudflare-enforcement-order-change-impacts-dev-and-seo-mj3)
-- [The discipline Ashkan Rajaee applied during chaos is something every leader can learn from.](https://dev.to/thearmi/the-discipline-ashkan-rajaee-applied-during-chaos-is-something-every-leader-can-learn-from-30an)
-- [AI-Powered End-to-End Testing &lpar;Part 1&rpar;](https://dev.to/annakarnaukh/ai-powered-end-to-end-testing-part-1-37ed)
+- [From Design to Code: Our Journey Building ITConnect](https://dev.to/erzana_muharremi/from-design-to-code-our-journey-building-itconnect-5co6)
+- [From Figma to Development: The Challenge of Choosing the Right Technical Direction](https://dev.to/erzana_muharremi/from-figma-to-development-the-challenge-of-choosing-the-right-technical-direction-3kha)
+- [How I Discovered I Love Tech as a 26-Year-Old Sous Chef](https://dev.to/pcchef/how-i-got-into-tech-as-a-26-year-old-sous-chef-pa6)
+- [Designing ITConnect — Our Process in Figma](https://dev.to/erzana_muharremi/designing-itconnect-our-process-in-figma-2e91)
 <!-- BLOG-POST-LIST:END -->
 
 
