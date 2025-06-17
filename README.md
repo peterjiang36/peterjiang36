@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue の状態管理](https://dev.to/nabbisen/vue-nozhuang-tai-guan-li-10la)
-- [Building an iOS App with Rust Using UniFFI](https://dev.to/almaju/building-an-ios-app-with-rust-using-uniffi-200a)
-- [Seven-Number Psychology Vector Beats Baseline Claude 12-1](https://dev.to/jonk/seven-number-psychology-vector-beats-baseline-claude-12-1-1gen)
-- [An inexpensive smart thermostat device using...ATtiny85](https://dev.to/adriano-repetti/an-inexpensive-smart-thermostat-device-usingattiny85-l8p)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-2f66)
+- [How the Upcoming Cloudflare Enforcement Order Change Impacts DEV and SEO](https://dev.to/bigbangsocial/how-the-upcoming-cloudflare-enforcement-order-change-impacts-dev-and-seo-mj3)
+- [The discipline Ashkan Rajaee applied during chaos is something every leader can learn from.](https://dev.to/thearmi/the-discipline-ashkan-rajaee-applied-during-chaos-is-something-every-leader-can-learn-from-30an)
+- [AI-Powered End-to-End Testing &lpar;Part 1&rpar;](https://dev.to/annakarnaukh/ai-powered-end-to-end-testing-part-1-37ed)
 <!-- BLOG-POST-LIST:END -->
 
 
