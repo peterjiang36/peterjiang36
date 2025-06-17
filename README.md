@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup SSL/TLS for PostgreSQL with Docker](https://dev.to/wimadev/setup-ssltls-for-postgresql-with-docker-g15)
-- [Building a JWT-Aware Reverse Proxy in Go for Tiered API Access](https://dev.to/savinda_premachandra/-1kh8)
-- [Perseguindo uma Vida Melhor: Como Consegui um Emprego em Tecnologia no Exterior](https://dev.to/portugues/perseguindo-uma-vida-melhor-como-consegui-um-emprego-em-tecnologia-no-exterior-2h7k)
-- [Linux from the user&#39;s perspective - Part1: Installing Linux](https://dev.to/lostghost/linux-from-the-users-perspective-part1-installing-linux-2gea)
+- [Jekyll auto posts from YouTube feeds](https://dev.to/solvecomputerscience/jekyll-auto-posts-from-youtube-feeds-h1k)
+- [How I Automated My Content Creation: From 4 Hours of Manual Work to 8 Minutes of AI Magic](https://dev.to/allanninal/how-i-automated-my-content-creation-from-4-hours-of-manual-work-to-8-minutes-of-ai-magic-2o9d)
+- [How to Install and Use reCaptcha by BestWebSoft &lpar;Pro Version&rpar;](https://dev.to/_1242322bc59de17c3faf6/how-to-install-and-use-recaptcha-by-bestwebsoft-pro-version-5blf)
+- [How I built Classic Pac-Man game using AmazonQ CLI](https://dev.to/aws-builders/how-i-built-classic-pac-man-game-using-amazonq-cli-4bfi)
 <!-- BLOG-POST-LIST:END -->
 
 
