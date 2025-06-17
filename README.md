@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Ride-Hailing App: Architecture Lessons from Real-World Implementation](https://dev.to/karim__sk/building-a-scalable-ride-hailing-app-architecture-lessons-from-real-world-implementation-4lbe)
-- [Microsoft 365 E5 &lpar;No Teams&rpar;: The Ultimate Enterprise Suite Without Collaboration Overhead](https://dev.to/aadarsh_/microsoft-365-e5-no-teams-the-ultimate-enterprise-suite-without-collaboration-overhead-50c5)
-- [Cost of Custom Web Application Development Services: What to Expect in 2025](https://dev.to/applogiq_it_services/cost-of-custom-web-application-development-services-what-to-expect-in-2025-1hh3)
-- [Copy and paste cool css mesh gradients // Built for Devs](https://dev.to/mike_andreuzza/copy-and-paste-cool-css-mesh-gradients-built-for-devs-4gk9)
+- [5 ways custom software enhances customer experience &lpar;CX&rpar;](https://dev.to/datatroops/5-ways-custom-software-enhances-customer-experience-cx-149d)
+- [Aprendendo HTML + CSS + JavaScript utilizando um Web Server em Node.js](https://dev.to/jeanmfdias/aprendendo-html-css-javascript-utilizando-um-web-server-em-nodejs-30b1)
+- [⌚ The Web on Your Wrist: Building Great Apps for Smartwatches and Wearables](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-web-on-your-wrist-building-great-apps-for-smartwatches-and-wearables-o8j)
+- [🚀 Vibe Coding: Open Source User Management App &lpar;Looking for Feedback!&rpar;](https://dev.to/skhendle/vibe-coding-open-source-user-management-app-looking-for-feedback-1pp3)
 <!-- BLOG-POST-LIST:END -->
 
 
