@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jekyll auto posts from YouTube feeds](https://dev.to/solvecomputerscience/jekyll-auto-posts-from-youtube-feeds-h1k)
-- [How I Automated My Content Creation: From 4 Hours of Manual Work to 8 Minutes of AI Magic](https://dev.to/allanninal/how-i-automated-my-content-creation-from-4-hours-of-manual-work-to-8-minutes-of-ai-magic-2o9d)
-- [How to Install and Use reCaptcha by BestWebSoft &lpar;Pro Version&rpar;](https://dev.to/_1242322bc59de17c3faf6/how-to-install-and-use-recaptcha-by-bestwebsoft-pro-version-5blf)
-- [How I built Classic Pac-Man game using AmazonQ CLI](https://dev.to/aws-builders/how-i-built-classic-pac-man-game-using-amazonq-cli-4bfi)
+- [Are Nx Monorepo Configurations Really Complex?](https://dev.to/mayallo/are-nx-monorepo-configurations-really-complex-l0l)
+- [what is the purpose of aikido security](https://dev.to/imajenasyon/what-is-the-purpose-of-aikido-security-337h)
+- [A Clean Laravel + React Starter Kit](https://dev.to/ldriko/a-clean-laravel-react-starter-kit-5c8d)
+- [Unveiling React ChatBotify v2: Plugins, Themes, Hooks, Events and More](https://dev.to/tjtanjin/unveiling-react-chatbotify-v2-plugins-themes-hooks-events-and-more-5gmn)
 <!-- BLOG-POST-LIST:END -->
 
 
