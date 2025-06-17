@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain 101: The Ultimate Guide to Understanding Blockchain Technology](https://dev.to/gervaisamoah/blockchain-101-the-ultimate-guide-to-understanding-blockchain-technology-47g8)
-- [What If Finals Were a Game? A Pinoy College-Themed Endless Arcade Made with Amazon Q and Pygame-CE](https://dev.to/thatdot/what-if-exam-finals-were-a-game-a-pinoy-college-themed-parody-game-made-with-amazon-q-and-pygame-ce-k49)
-- [Daily JavaScript Challenge #JS-207: Transform Each Word&#39;s First Character to Uppercase](https://dev.to/dpc/daily-javascript-challenge-js-207-transform-each-words-first-character-to-uppercase-13g5)
-- [Pulumi Gestalt 0.0.3 released](https://dev.to/andrzejressel/pulumi-gestalt-003-released-4a3h)
+- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（上）—— 请求参数封装，类型转化器与日志记录篇](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-shang-qing-qiu-can-shu-feng-zhuang-lei-xing-zhuan-hua-qi-yu-ri-zhi-ji-lu-pian-5doc)
+- [Frontend Teknikleri: Modern Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontend-teknikleri-modern-yaklasimlar-1o26)
+- [Capítulo 3: Injeção de Dependências com CDI no Quarkus](https://dev.to/erf88/injecao-de-dependencias-com-cdi-no-quarkus-dominando-o-coracao-da-aplicacao-2gl)
+- [HarmonyOS Learning: Third-Party Open Source Libraries](https://dev.to/xhunmon/harmonyos-learning-third-party-open-source-libraries-4g6l)
 <!-- BLOG-POST-LIST:END -->
 
 
