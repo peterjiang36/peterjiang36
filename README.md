@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 ways custom software enhances customer experience &lpar;CX&rpar;](https://dev.to/datatroops/5-ways-custom-software-enhances-customer-experience-cx-149d)
-- [Aprendendo HTML + CSS + JavaScript utilizando um Web Server em Node.js](https://dev.to/jeanmfdias/aprendendo-html-css-javascript-utilizando-um-web-server-em-nodejs-30b1)
-- [⌚ The Web on Your Wrist: Building Great Apps for Smartwatches and Wearables](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-web-on-your-wrist-building-great-apps-for-smartwatches-and-wearables-o8j)
-- [🚀 Vibe Coding: Open Source User Management App &lpar;Looking for Feedback!&rpar;](https://dev.to/skhendle/vibe-coding-open-source-user-management-app-looking-for-feedback-1pp3)
+- [🧠 Next.js API Routes Are Broken. Tirne Fixes Them with Architecture.](https://dev.to/yukinisihikawa/nextjs-api-routes-are-broken-tirne-fixes-them-with-architecture-254i)
+- [npm vs Yarn vs pnpm: The Great Package Manager Race &lpar;And We Have a Winner!&rpar;](https://dev.to/matheusjulidori/npm-vs-yarn-vs-pnpm-the-great-package-manager-race-and-we-have-a-winner-4ahg)
+- [How to Convert TXT to CSV in Java with Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/how-to-convert-txt-to-csv-in-java-with-cloud-rest-api-389c)
+- [Claims Processing Software: A Must-Have for Healthcare Providers in 2025](https://dev.to/datagenix/claims-processing-software-a-must-have-for-healthcare-providers-in-2025-3io7)
 <!-- BLOG-POST-LIST:END -->
 
 
