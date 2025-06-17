@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Myth of No-Code: Limitations and Real-World Applications](https://dev.to/dct_technology/the-myth-of-no-code-limitations-and-real-world-applications-40li)
-- [Your Resume vs. AI: What Recruiters Really See](https://dev.to/santoshi_kumari_c34ae877b/your-resume-vs-ai-what-recruiters-really-see-2301)
-- [Why I Built DevKit A Toolkit for Developers, Built by a Developer Who Was Tired of Tab-Switching](https://dev.to/mikael_obeta/why-i-built-devkit-a-toolkit-for-developers-built-by-a-developer-who-was-tired-of-tab-switching-icg)
-- [Troubleshooting SSL Certificate Chain Issues in Enterprise Integration Platforms: A Real-World Case Study](https://dev.to/clarizalooktech/troubleshooting-ssl-certificate-chain-issues-in-enterprise-integration-platforms-a-real-world-case-3i1l)
+- [Best Oracle Database Design Tools in 2025](https://dev.to/roxana_haidiner/best-oracle-database-design-tools-in-2025-2o26)
+- [Leveraging Generators for Coroutine-based Concurrency in JS](https://dev.to/omriluz1/leveraging-generators-for-coroutine-based-concurrency-in-js-1d7e)
+- [How Indian Startups Are Using AI to Scale Faster in 2025](https://dev.to/poojashukla/how-indian-startups-are-using-ai-to-scale-faster-in-2025-2mfn)
+- [OpenAI Codex as a native agent in your TypeScript &lpar;Node.js&rpar; app](https://dev.to/kachurun/openai-codex-as-a-native-agent-in-your-typescript-nodejs-app-kii)
 <!-- BLOG-POST-LIST:END -->
 
 
