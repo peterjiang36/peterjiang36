@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Nx Monorepo Configurations Really Complex?](https://dev.to/mayallo/are-nx-monorepo-configurations-really-complex-l0l)
-- [what is the purpose of aikido security](https://dev.to/imajenasyon/what-is-the-purpose-of-aikido-security-337h)
-- [A Clean Laravel + React Starter Kit](https://dev.to/ldriko/a-clean-laravel-react-starter-kit-5c8d)
-- [Unveiling React ChatBotify v2: Plugins, Themes, Hooks, Events and More](https://dev.to/tjtanjin/unveiling-react-chatbotify-v2-plugins-themes-hooks-events-and-more-5gmn)
+- [Automating AWS Infrastructure Provisioning with GitSync and CloudFormation](https://dev.to/aws-builders/automating-aws-infrastructure-provisioning-with-gitsync-and-cloudformation-3334)
+- [Building for SaaS Growth: Architecting Systems for 10 to 500 Customers](https://dev.to/deepakgupta/building-for-saas-growth-architecting-systems-for-10-to-500-customers-2h4p)
+- [Types of Cache Used in System Design and Architecture](https://dev.to/devscriptor/types-of-cache-used-in-system-design-and-architecture-4kha)
+- [💌 Build Your Own AI Email Manager with n8n, OpenAI &amp; Slack](https://dev.to/swayam_nakshane_aef87e228/build-your-own-ai-email-manager-with-n8n-openai-slack-9h4)
 <!-- BLOG-POST-LIST:END -->
 
 
