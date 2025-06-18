@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak Performance Understated Power（1750209513172600）](https://dev.to/member_f0ea35cc/peak-performance-understated-power1750209513172600-148i)
-- [14-HarmonyOS5-VisionKit-CardRecognition-Case](https://dev.to/zhousg/14-harmonyos5-visionkit-cardrecognition-case-3e3m)
-- [My Architectural Choices and Practical Experience（1750208906585500）](https://dev.to/member_f0ea35cc/my-architectural-choices-and-practical-experience1750208906585500-502d)
-- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（中）—— 错误处理，会话管理与网络状态检测篇](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-zhong-cuo-wu-chu-li-hui-hua-guan-li-yu-wang-luo-zhuang-tai-jian-ce-pian-5fgg)
+- [The New Generation of High-Performance Web Frameworks（1750213755827000）](https://dev.to/member_f0ea35cc/the-new-generation-of-high-performance-web-frameworks1750213755827000-114h)
+- [The Heartbeat of Modern Web Applications（1750213452077100）](https://dev.to/member_f0ea35cc/the-heartbeat-of-modern-web-applications1750213452077100-4hi3)
+- [Creating Form Using Bootstrap](https://dev.to/tanaykubade/creating-form-using-bootstrap-1n4k)
+- [SafeLine 7.1 Adds Custom NGINX Location Support — Here&#39;s How to Use It](https://dev.to/sharon_42e16b8da44dabde6d/safeline-71-adds-custom-nginx-location-support-heres-how-to-use-it-3l93)
 <!-- BLOG-POST-LIST:END -->
 
 
