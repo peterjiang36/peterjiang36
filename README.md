@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Critical Look at the ChatGPT Fallback Issue based on &lpar;summary&rpar;dialogs with ChatGPT in English](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-with-summary-dialogs-with-chatgpt-in-english-5fa1)
-- [A Critical Look at the ChatGPT Fallback Issue](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-2ipm)
-- [How Crypto Leverage Trading Really Works &lpar;and Why It’s Risky&rpar;](https://dev.to/cryptoguru123/how-crypto-leverage-trading-really-works-and-why-its-risky-42jk)
-- [[Boost]](https://dev.to/aryan_panwala/-2c37)
+- [🔍 Amazon ECR Now Shows You Where Your Images Are Actually Used — Game Changer for Container Security!](https://dev.to/latchudevops/amazon-ecr-now-shows-you-where-your-images-are-actually-used-game-changer-for-container-c0h)
+- [# 🎨 CSS Art – Célébrations de Juin](https://dev.to/bcblearning/-css-art-celebrations-de-juin-2pmj)
+- [HR Tips for Crafting a Standout Resume](https://dev.to/bridgegroupsolutions/hr-tips-for-crafting-a-standout-resume-kka)
+- [🎨 Mastering the Basics of CSS: A Beginner-Friendly Guide ~ devsync.in](https://dev.to/piyushkose/mastering-the-basics-of-css-a-beginner-friendly-guide-devsyncin-1cfh)
 <!-- BLOG-POST-LIST:END -->
 
 
