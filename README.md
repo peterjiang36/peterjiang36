@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can GraphQL Call REST API?](https://dev.to/mayallo/can-graphql-call-rest-api-4h9h)
-- [💻 Understanding Arrays in C++ Classes: A Student Score Program](https://dev.to/sana_khan_c4716d273e04120/understanding-arrays-in-c-classes-a-student-score-program-4jeo)
-- [Harmonyos Next Cangjie Language Development Practical Tutorial: Lazy Loading](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-lazy-loading-1dd0)
-- [Building a Privacy-First Content Filtering Platform: The StopX Story](https://dev.to/pop_watch_ac45504c97f6c29/building-a-privacy-first-content-filtering-platform-the-stopx-story-54nk)
+- [🚨 Still spending months building secure applications? What if you didn’t have to? Join us for a webinar on Vibe Coding Done Right: How to Build Secure Applications in Minutes, Not Months https://noumenadigital.com/webinar-vibe-coding-done-right-use-ai](https://dev.to/anoop-g/still-spending-months-building-secure-applications-what-if-you-didnt-have-to-join-us-for-a-3ca3)
+- [Scalable, Modern Forms in Django with Tailwind CSS](https://dev.to/hexshift/scalable-modern-forms-in-django-with-tailwind-css-4mfb)
+- [Leveraging Rust and WebAssembly for High-Performance Tailwind CSS UIs](https://dev.to/hexshift/leveraging-rust-and-webassembly-for-high-performance-tailwind-css-uis-fd1)
+- [Building Performant UI with Rust, WebAssembly, and Tailwind CSS](https://dev.to/hexshift/building-performant-ui-with-rust-webassembly-and-tailwind-css-5ain)
 <!-- BLOG-POST-LIST:END -->
 
 
