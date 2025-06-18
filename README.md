@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Playwright Tests Without Code Access Using MCP and Copilot](https://dev.to/debs_obrien/generate-playwright-tests-without-code-access-using-mcp-and-copilot-2m05)
-- [Scholar Profile - J Jay Round - 20250618-135128](https://dev.to/puddin1066/scholar-profile-j-jay-round-20250618-135128-4mnj)
-- [Architecture（1750269008985600）](https://dev.to/member_e911e096/architecture1750269008985600-jeg)
-- [evm-lens: Instant, Local EVM CLI Bytecode Disassembly](https://dev.to/andyrobert3/evm-lens-instant-local-evm-cli-bytecode-disassembly-16jl)
+- [Who is Mohammad Rifatujjaman?](https://dev.to/mohammad_rifatujjaman/who-is-mohammad-rifatujjaman-468a)
+- [Deadline Extended for Storyblok Headless CMS Challenge! Jump in while there&#39;s time.](https://dev.to/devteam/deadline-extended-for-storyblok-headless-cms-challenge-jump-in-while-theres-time-15m8)
+- [FastAPI: Your First Production-Ready API](https://dev.to/drxven/fastapi-your-first-production-ready-api-o6b)
+- [The Heartbeat of Modern Web Applications（1750272187612500）](https://dev.to/member_e911e096/the-heartbeat-of-modern-web-applications1750272187612500-33c5)
 <!-- BLOG-POST-LIST:END -->
 
 
