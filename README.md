@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧨 What I Broke Wednesday: The Infinite Retry Loop of Doom](https://dev.to/sroy8091/what-i-broke-wednesday-the-infinite-retry-loop-of-doom-o2m)
-- [A intro for Ente Photos!](https://dev.to/sevaki_rajasekar_700822f9/a-intro-for-ente-photos-24a1)
-- [Why Full-Stack .NET Developer Certification for Experienced Professionals Is a Career Game-Changer](https://dev.to/pragya_768e99b9832c3cf19b/why-full-stack-net-developer-certification-for-experienced-professionals-is-a-career-game-changer-4f9h)
-- [My Journey Exploring Efficient Web Development Frameworks（1750261479822900）](https://dev.to/member_e911e096/my-journey-exploring-efficient-web-development-frameworks1750261479822900-4643)
+- [Introducing NeuroTwin - your AI twin that attends meetings, writes, replies, and thinks like you.](https://dev.to/ak1531/introducing-neurotwin-your-ai-twin-that-attends-meetings-writes-replies-and-thinks-like-you-5ajm)
+- [🚨 Your Site Is Down Right Now &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/alexsofroniev/your-site-is-down-right-now-and-you-dont-even-know-it-3398)
+- [🏗️ DEMOLISH THE GIANT: META — The Metaverse That Never Was](https://dev.to/the_epyq/demolish-the-giant-meta-the-metaverse-that-never-was-5en4)
+- [CSS Container Queries Tutorial for Beginners](https://dev.to/mechcloud_academy/css-container-queries-tutorial-for-beginners-30em)
 <!-- BLOG-POST-LIST:END -->
 
 
