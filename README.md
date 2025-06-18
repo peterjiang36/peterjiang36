@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Funções Genéricas Inteligentes](https://dev.to/iwilldev/funcoes-genericas-inteligentes-4oal)
-- [How to Fix Your Sender Reputation with Bulk Email Verification Tools](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-fix-your-sender-reputation-with-bulk-email-verification-tools-2al7)
-- [Behind the Click: The Untold Journey of a Payment Gateway](https://dev.to/sneha_a3489ef74e6d3589455/behind-the-click-the-untold-journey-of-a-payment-gateway-g5g)
-- [Senior Developer Interview Guide: Master Contentful with Confidence](https://dev.to/sadamkhan7679/senior-developer-interview-guide-master-contentful-with-confidence-5329)
+- [🚀 Go Testing Unleashed: From Basics to Beast Mode](https://dev.to/tavernetech/go-testing-unleashed-from-basics-to-beast-mode-326b)
+- [The Power of Microtools: How AI and &quot;Vibe Coding&quot; Are Changing the Way We Build](https://dev.to/colocodes/the-power-of-microtools-how-ai-and-vibe-coding-are-changing-the-way-we-build-5df8)
+- [Jetpack Compose Made Easy: Image-to-Code for Modern Android UIs](https://dev.to/atforeveryoung/jetpack-compose-made-easy-image-to-code-for-modern-android-uis-359l)
+- [Boosting React Native Performance: Quick Tips for UI &amp; Native Optimization](https://dev.to/samuel_mitter_06d9e3f9c78/boosting-react-native-performance-quick-tips-for-ui-native-optimization-2b92)
 <!-- BLOG-POST-LIST:END -->
 
 
