@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Introducing Simple Calc: Your No‑BS Online Calculator](https://dev.to/titanicbhai/-introducing-simple-calc-your-no-bs-online-calculator-b6c)
-- [Step-by-Step Guide: OIDC Login Integration in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/step-by-step-guide-oidc-login-integration-in-safeline-waf-8ji)
-- [HarmonyOS Next Graphics Transformation Usage Guide](https://dev.to/flfljh/harmonyos-next-graphics-transformation-usage-guide-21h7)
-- [Development Practice for Screen Orientation Switching](https://dev.to/flfljh/development-practice-for-screen-orientation-switching-42mc)
+- [I Was Frustrated Converting CSS to Tailwind — So I Built My Own Tool](https://dev.to/devshefali/i-was-frustrated-converting-css-to-tailwind-so-i-built-my-own-tool-5had)
+- [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
+- [Simplified Usage of Custom Dialogs](https://dev.to/flfljh/simplified-usage-of-custom-dialogs-4d1d)
+- [Conotação e Denotação](https://dev.to/alsetchannel/conotacao-e-denotacao-3o06)
 <!-- BLOG-POST-LIST:END -->
 
 
