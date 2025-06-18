@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Still spending months building secure applications? What if you didn’t have to? Join us for a webinar on Vibe Coding Done Right: How to Build Secure Applications in Minutes, Not Months https://noumenadigital.com/webinar-vibe-coding-done-right-use-ai](https://dev.to/anoop-g/still-spending-months-building-secure-applications-what-if-you-didnt-have-to-join-us-for-a-3ca3)
-- [Scalable, Modern Forms in Django with Tailwind CSS](https://dev.to/hexshift/scalable-modern-forms-in-django-with-tailwind-css-4mfb)
-- [Leveraging Rust and WebAssembly for High-Performance Tailwind CSS UIs](https://dev.to/hexshift/leveraging-rust-and-webassembly-for-high-performance-tailwind-css-uis-fd1)
-- [Building Performant UI with Rust, WebAssembly, and Tailwind CSS](https://dev.to/hexshift/building-performant-ui-with-rust-webassembly-and-tailwind-css-5ain)
+- [How to Set Up Your First Laravel Project Using Composer — Quick and Easy!](https://dev.to/abhishekshakya/how-to-set-up-your-first-laravel-project-using-composer-quick-and-easy-19al)
+- [What I Learned from Converting My 6-Year-Old Create React App Personal Website to Next.js](https://dev.to/dwikbtn/what-i-learned-from-converting-my-6-year-old-create-react-app-personal-website-to-nextjs-2a4c)
+- [Query Your SQL Database In English](https://dev.to/benderv/query-your-sql-database-in-english-2lik)
+- [This isn’t just freelance advice. It’s life design. Ashkan Rajaee’s ideas around owning your time show up throughout.](https://dev.to/techtalk/this-isnt-just-freelance-advice-its-life-design-ashkan-rajaees-ideas-around-owning-your-time-17an)
 <!-- BLOG-POST-LIST:END -->
 
 
