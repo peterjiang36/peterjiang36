@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
-- [A Guide to the Spring Framework with Examples](https://dev.to/galisetty_priyatham_c1a49/a-guide-to-the-spring-framework-with-examples-2e93)
-- [Rethinking AI Robustness: What If Our Models Could Think More Like Us?](https://dev.to/subhodeep_moitra/rethinking-ai-robustness-what-if-our-models-could-think-more-like-us-5fj)
-- [Inside the Mind of a Machine: How AI Agents Are Built Today](https://dev.to/david_j_9287baa4d475eb259/inside-the-mind-of-a-machine-how-ai-agents-are-built-today-4ij4)
+- [Os 10 Melhores Livros da Coleção Deitel](https://dev.to/marcosplusplus/os-10-melhores-livros-da-colecao-deitel-40go)
+- [TypeScript で型安全](https://dev.to/nabbisen/typescript-dexing-an-quan-141e)
+- [A Deep Guide to HarmonyOS Next Permission Management](https://dev.to/liu_yang_fc0e605820ac220c/a-deep-guide-to-harmonyos-next-permission-management-15k4)
+- [HarmonyOS Learning: Developer Classroom](https://dev.to/xhunmon/harmonyos-learning-developer-classroom-39mc)
 <!-- BLOG-POST-LIST:END -->
 
 
