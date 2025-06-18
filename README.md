@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 304 - Null Pointer Exception](https://dev.to/mcsee/code-smell-304-null-pointer-exception-1meo)
-- [Hashicorp: Terraform Associate](https://dev.to/kuljotbiring/hashicorp-terraform-associate-16kd)
-- [📦Beginner-Friendly Guide &quot;Divide Array Into Arrays With Max Difference&quot; LeetCode 2966 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-array-into-arrays-with-max-difference-leetcode-2966-c-python-4g3h)
-- [Solving the Serverless Paradox: How Hybrid Architectures and AI/ML Enhance Performance and Portability](https://dev.to/vaib/solving-the-serverless-paradox-how-hybrid-architectures-and-aiml-enhance-performance-and-5j4)
+- [Peak Performance Understated Power（1750209513172600）](https://dev.to/member_f0ea35cc/peak-performance-understated-power1750209513172600-148i)
+- [14-HarmonyOS5-VisionKit-CardRecognition-Case](https://dev.to/zhousg/14-harmonyos5-visionkit-cardrecognition-case-3e3m)
+- [My Architectural Choices and Practical Experience（1750208906585500）](https://dev.to/member_f0ea35cc/my-architectural-choices-and-practical-experience1750208906585500-502d)
+- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（中）—— 错误处理，会话管理与网络状态检测篇](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-zhong-cuo-wu-chu-li-hui-hua-guan-li-yu-wang-luo-zhuang-tai-jian-ce-pian-5fgg)
 <!-- BLOG-POST-LIST:END -->
 
 
