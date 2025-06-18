@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Demat Account: Beginner’s Guide](https://dev.to/gauravkanabar/how-to-create-a-demat-account-beginners-guide-10db)
-- [Flutter](https://dev.to/jitunayak/flutter-a0m)
-- [Building in Public: Day 2 - Unpacking the Vision for the Notion Developer&#39;s Hub](https://dev.to/lux_seminare/building-in-public-day-2-unpacking-the-vision-for-the-notion-developers-hub-39io)
-- [Algorithms in Real Life: Why They Matter Beyond the Classroom](https://dev.to/rac/algorithms-in-real-life-why-they-matter-beyond-the-classroom-1h4p)
+- [Funções Genéricas Inteligentes](https://dev.to/iwilldev/funcoes-genericas-inteligentes-4oal)
+- [How to Fix Your Sender Reputation with Bulk Email Verification Tools](https://dev.to/mahalekshmi_n_42acab92d7a/how-to-fix-your-sender-reputation-with-bulk-email-verification-tools-2al7)
+- [Behind the Click: The Untold Journey of a Payment Gateway](https://dev.to/sneha_a3489ef74e6d3589455/behind-the-click-the-untold-journey-of-a-payment-gateway-g5g)
+- [Senior Developer Interview Guide: Master Contentful with Confidence](https://dev.to/sadamkhan7679/senior-developer-interview-guide-master-contentful-with-confidence-5329)
 <!-- BLOG-POST-LIST:END -->
 
 
