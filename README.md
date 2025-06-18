@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Design to Code: Our Journey Building ITConnect](https://dev.to/erzana_muharremi/from-design-to-code-our-journey-building-itconnect-5co6)
-- [From Figma to Development: The Challenge of Choosing the Right Technical Direction](https://dev.to/erzana_muharremi/from-figma-to-development-the-challenge-of-choosing-the-right-technical-direction-3kha)
-- [How I Discovered I Love Tech as a 26-Year-Old Sous Chef](https://dev.to/pcchef/how-i-got-into-tech-as-a-26-year-old-sous-chef-pa6)
-- [Designing ITConnect — Our Process in Figma](https://dev.to/erzana_muharremi/designing-itconnect-our-process-in-figma-2e91)
+- [Code Smell 304 - Null Pointer Exception](https://dev.to/mcsee/code-smell-304-null-pointer-exception-1meo)
+- [Hashicorp: Terraform Associate](https://dev.to/kuljotbiring/hashicorp-terraform-associate-16kd)
+- [📦Beginner-Friendly Guide &quot;Divide Array Into Arrays With Max Difference&quot; LeetCode 2966 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-array-into-arrays-with-max-difference-leetcode-2966-c-python-4g3h)
+- [Solving the Serverless Paradox: How Hybrid Architectures and AI/ML Enhance Performance and Portability](https://dev.to/vaib/solving-the-serverless-paradox-how-hybrid-architectures-and-aiml-enhance-performance-and-5j4)
 <!-- BLOG-POST-LIST:END -->
 
 
