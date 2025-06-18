@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Amazon ECR Now Shows You Where Your Images Are Actually Used — Game Changer for Container Security!](https://dev.to/latchudevops/amazon-ecr-now-shows-you-where-your-images-are-actually-used-game-changer-for-container-c0h)
-- [# 🎨 CSS Art – Célébrations de Juin](https://dev.to/bcblearning/-css-art-celebrations-de-juin-2pmj)
-- [HR Tips for Crafting a Standout Resume](https://dev.to/bridgegroupsolutions/hr-tips-for-crafting-a-standout-resume-kka)
-- [🎨 Mastering the Basics of CSS: A Beginner-Friendly Guide ~ devsync.in](https://dev.to/piyushkose/mastering-the-basics-of-css-a-beginner-friendly-guide-devsyncin-1cfh)
+- [Can GraphQL Call REST API?](https://dev.to/mayallo/can-graphql-call-rest-api-4h9h)
+- [💻 Understanding Arrays in C++ Classes: A Student Score Program](https://dev.to/sana_khan_c4716d273e04120/understanding-arrays-in-c-classes-a-student-score-program-4jeo)
+- [Harmonyos Next Cangjie Language Development Practical Tutorial: Lazy Loading](https://dev.to/youlanjihua/harmonyos-next-cangjie-language-development-practical-tutorial-lazy-loading-1dd0)
+- [Building a Privacy-First Content Filtering Platform: The StopX Story](https://dev.to/pop_watch_ac45504c97f6c29/building-a-privacy-first-content-filtering-platform-the-stopx-story-54nk)
 <!-- BLOG-POST-LIST:END -->
 
 
