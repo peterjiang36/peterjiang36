@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Generation of High-Performance Web Frameworks（1750213755827000）](https://dev.to/member_f0ea35cc/the-new-generation-of-high-performance-web-frameworks1750213755827000-114h)
-- [The Heartbeat of Modern Web Applications（1750213452077100）](https://dev.to/member_f0ea35cc/the-heartbeat-of-modern-web-applications1750213452077100-4hi3)
-- [Creating Form Using Bootstrap](https://dev.to/tanaykubade/creating-form-using-bootstrap-1n4k)
-- [SafeLine 7.1 Adds Custom NGINX Location Support — Here&#39;s How to Use It](https://dev.to/sharon_42e16b8da44dabde6d/safeline-71-adds-custom-nginx-location-support-heres-how-to-use-it-3l93)
+- [# Introducing Simple Calc: Your No‑BS Online Calculator](https://dev.to/titanicbhai/-introducing-simple-calc-your-no-bs-online-calculator-b6c)
+- [Step-by-Step Guide: OIDC Login Integration in SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/step-by-step-guide-oidc-login-integration-in-safeline-waf-8ji)
+- [HarmonyOS Next Graphics Transformation Usage Guide](https://dev.to/flfljh/harmonyos-next-graphics-transformation-usage-guide-21h7)
+- [Development Practice for Screen Orientation Switching](https://dev.to/flfljh/development-practice-for-screen-orientation-switching-42mc)
 <!-- BLOG-POST-LIST:END -->
 
 
