@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Your First Laravel Project Using Composer — Quick and Easy!](https://dev.to/abhishekshakya/how-to-set-up-your-first-laravel-project-using-composer-quick-and-easy-19al)
-- [What I Learned from Converting My 6-Year-Old Create React App Personal Website to Next.js](https://dev.to/dwikbtn/what-i-learned-from-converting-my-6-year-old-create-react-app-personal-website-to-nextjs-2a4c)
-- [Query Your SQL Database In English](https://dev.to/benderv/query-your-sql-database-in-english-2lik)
-- [This isn’t just freelance advice. It’s life design. Ashkan Rajaee’s ideas around owning your time show up throughout.](https://dev.to/techtalk/this-isnt-just-freelance-advice-its-life-design-ashkan-rajaees-ideas-around-owning-your-time-17an)
+- [How to Create a Demat Account: Beginner’s Guide](https://dev.to/gauravkanabar/how-to-create-a-demat-account-beginners-guide-10db)
+- [Flutter](https://dev.to/jitunayak/flutter-a0m)
+- [Building in Public: Day 2 - Unpacking the Vision for the Notion Developer&#39;s Hub](https://dev.to/lux_seminare/building-in-public-day-2-unpacking-the-vision-for-the-notion-developers-hub-39io)
+- [Algorithms in Real Life: Why They Matter Beyond the Classroom](https://dev.to/rac/algorithms-in-real-life-why-they-matter-beyond-the-classroom-1h4p)
 <!-- BLOG-POST-LIST:END -->
 
 
