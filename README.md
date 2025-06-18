@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Frustrated Converting CSS to Tailwind — So I Built My Own Tool](https://dev.to/devshefali/i-was-frustrated-converting-css-to-tailwind-so-i-built-my-own-tool-5had)
-- [Welcome Thread - v331](https://dev.to/devteam/welcome-thread-v331-550e)
-- [Simplified Usage of Custom Dialogs](https://dev.to/flfljh/simplified-usage-of-custom-dialogs-4d1d)
-- [Conotação e Denotação](https://dev.to/alsetchannel/conotacao-e-denotacao-3o06)
+- [A Critical Look at the ChatGPT Fallback Issue based on &lpar;summary&rpar;dialogs with ChatGPT in English](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-with-summary-dialogs-with-chatgpt-in-english-5fa1)
+- [A Critical Look at the ChatGPT Fallback Issue](https://dev.to/neopotato/a-critical-look-at-the-chatgpt-fallback-issue-2ipm)
+- [How Crypto Leverage Trading Really Works &lpar;and Why It’s Risky&rpar;](https://dev.to/cryptoguru123/how-crypto-leverage-trading-really-works-and-why-its-risky-42jk)
+- [[Boost]](https://dev.to/aryan_panwala/-2c37)
 <!-- BLOG-POST-LIST:END -->
 
 
