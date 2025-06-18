@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s new in ONLYOFFICE Docs 9.0: .md, redesigned interface, AI tools, and more](https://dev.to/onlyoffice/whats-new-in-onlyoffice-docs-90-md-redesigned-interface-ai-tools-and-more-1o4p)
-- [AI Resume Analyzer with Next.js 15, Tailwind CSS, and OpenAI](https://dev.to/saidmounaim/ai-resume-analyzer-with-nextjs-15-tailwind-css-and-openai-5bah)
-- [Best 15 Svelte UI Components &amp; Libraries for Enterprise-Grade Apps](https://dev.to/olga_tash/best-15-svelte-ui-components-libraries-for-enterprise-grade-apps-23gc)
-- [Embrace the guilt and shame, it&#39;s a reminder that you are human.](https://dev.to/andyrosenberg/embrace-the-guilt-and-shame-its-a-reminder-that-you-are-human-5cp2)
+- [🧨 What I Broke Wednesday: The Infinite Retry Loop of Doom](https://dev.to/sroy8091/what-i-broke-wednesday-the-infinite-retry-loop-of-doom-o2m)
+- [A intro for Ente Photos!](https://dev.to/sevaki_rajasekar_700822f9/a-intro-for-ente-photos-24a1)
+- [Why Full-Stack .NET Developer Certification for Experienced Professionals Is a Career Game-Changer](https://dev.to/pragya_768e99b9832c3cf19b/why-full-stack-net-developer-certification-for-experienced-professionals-is-a-career-game-changer-4f9h)
+- [My Journey Exploring Efficient Web Development Frameworks（1750261479822900）](https://dev.to/member_e911e096/my-journey-exploring-efficient-web-development-frameworks1750261479822900-4643)
 <!-- BLOG-POST-LIST:END -->
 
 
