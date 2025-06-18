@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Go Testing Unleashed: From Basics to Beast Mode](https://dev.to/tavernetech/go-testing-unleashed-from-basics-to-beast-mode-326b)
-- [The Power of Microtools: How AI and &quot;Vibe Coding&quot; Are Changing the Way We Build](https://dev.to/colocodes/the-power-of-microtools-how-ai-and-vibe-coding-are-changing-the-way-we-build-5df8)
-- [Jetpack Compose Made Easy: Image-to-Code for Modern Android UIs](https://dev.to/atforeveryoung/jetpack-compose-made-easy-image-to-code-for-modern-android-uis-359l)
-- [Boosting React Native Performance: Quick Tips for UI &amp; Native Optimization](https://dev.to/samuel_mitter_06d9e3f9c78/boosting-react-native-performance-quick-tips-for-ui-native-optimization-2b92)
+- [🧩 Day 11 of Java Mastery: Relational Operators](https://dev.to/spyde/day-11-of-java-mastery-relational-operators-1fbl)
+- [A Guide to the Spring Framework with Examples](https://dev.to/galisetty_priyatham_c1a49/a-guide-to-the-spring-framework-with-examples-2e93)
+- [Rethinking AI Robustness: What If Our Models Could Think More Like Us?](https://dev.to/subhodeep_moitra/rethinking-ai-robustness-what-if-our-models-could-think-more-like-us-5fj)
+- [Inside the Mind of a Machine: How AI Agents Are Built Today](https://dev.to/david_j_9287baa4d475eb259/inside-the-mind-of-a-machine-how-ai-agents-are-built-today-4ij4)
 <!-- BLOG-POST-LIST:END -->
 
 
