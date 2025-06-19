@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving my previous OpenRewrite recipe](https://dev.to/nfrankel/improving-my-previous-openrewrite-recipe-36f1)
-- [My Journey with the Hyperlane Framework（1750322851779700）](https://dev.to/member_a4f1642a/my-journey-with-the-hyperlane-framework1750322851779700-382o)
-- [[Boost]](https://dev.to/xilentdev/-1241)
-- [Streamlit Dashboard: Let&#39;s analyse how Virat Kohli performs!](https://dev.to/dhanushdevadiga/streamlit-dashboard-lets-analyse-how-virat-kohli-performs-ian)
+- [Agentic &quot;Agile&quot;](https://dev.to/sebs/agentic-agile-4386)
+- [🚀 My 9 Most Useful SEO &amp; Web Insights — Collected in One Post](https://dev.to/fayzakseo/my-9-most-useful-seo-web-insights-collected-in-one-post-3ma8)
+- [Crypto-as-a-Service &lpar;CaaS&rpar;: How It Actually Works Under the Hood](https://dev.to/kaankaya/crypto-as-a-service-caas-how-it-actually-works-under-the-hood-gbl)
+- [C#](https://dev.to/prasanna_venkatesh/c-13ih)
 <!-- BLOG-POST-LIST:END -->
 
 
