@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🕹️ History of Game Consoles – A Visual Timeline Powered by Storyblok](https://dev.to/jamesrmoro/history-of-game-consoles-a-visual-timeline-powered-by-storyblok-2i0h)
-- [So, tech salaries stopped climbing now what? we are not hiring right now, the new normal.](https://dev.to/devlinktips/so-tech-salaries-stopped-climbing-now-what-we-are-not-hiring-right-now-the-new-normal-41dd)
-- [How I Automated My Next.js Deployments to cPanel with GitHub Actions &lpar;and All the Debugging That Came With It&rpar;](https://dev.to/braincodes/how-i-automated-my-nextjs-deployments-to-cpanel-with-github-actions-and-all-the-debugging-that-1kic)
-- [Build a Semantic Search-Powered FAQ Assistant with TiDB and AWS Bedrock](https://dev.to/realchrissean/build-a-semantic-search-powered-faq-assistant-with-tidb-and-aws-bedrock-5c09)
+- [Por que Acessibilidade Importa? Entenda o Essencial para Apps Mais Inclusivos](https://dev.to/gabrielteixeira44/por-que-acessibilidade-importa-entenda-o-essencial-para-apps-mais-inclusivos-4goh)
+- [How Bad Code and Product Flaws Killed Myspace A Developer’s Survival Guide](https://dev.to/devlinktips/how-bad-code-and-product-flaws-killed-myspace-a-developers-survival-guide-37i5)
+- [AWS Fundamentals: Bcm Data Exports](https://dev.to/devops_fundamental/aws-fundamentals-bcm-data-exports-5830)
+- [The Hidden Power of Redis: Fast, Flexible, and Freakishly Simple](https://dev.to/devlinktips/the-hidden-power-of-redis-fast-flexible-and-freakishly-simple-5g38)
 <!-- BLOG-POST-LIST:END -->
 
 
