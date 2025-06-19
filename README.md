@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The simplicity of the tools combined with the depth of the discipline is what made this shine.](https://dev.to/erinchan/the-simplicity-of-the-tools-combined-with-the-depth-of-the-discipline-is-what-made-this-shine-39fe)
-- [Bridge the Gap: Transform Any Mobile Design into React Native Gold](https://dev.to/atforeveryoung/bridge-the-gap-transform-any-mobile-design-into-react-native-gold-1lcn)
-- [I&#39;ve built a threading system in Deno, Node.JS and the browser](https://dev.to/hamzabounegab/ive-built-a-threading-system-in-deno-nodejs-and-the-browser-1d09)
-- [Hi guys ! I Built a Collection of Free Dev Tools](https://dev.to/vlad_7d93c/hi-guys-i-built-a-collection-of-free-dev-tools-1p7p)
+- [Behind the Scenes of Netflix: Unpacking Its World-Class Infrastructure](https://dev.to/grenishrai/behind-the-scenes-of-netflix-unpacking-its-world-class-infrastructure-4748)
+- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
+- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
+- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
 <!-- BLOG-POST-LIST:END -->
 
 
