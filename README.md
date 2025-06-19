@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Year Self-Study Notes My Journey with the Framework（1750291847979500）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291847979500-11a2)
-- [Junior Year Self-Study Notes My Journey with the Framework（1750291837017900）](https://dev.to/member_e911e096/junior-year-self-study-notes-my-journey-with-the-framework1750291837017900-5hkh)
-- [Optimizing IT Operations: Dedicated Storage for Testing and Training](https://dev.to/aneneemmanuel_1/optimizing-it-operations-dedicated-storage-for-testing-and-training-58ei)
-- [My Architectural Choices and Practical Experience（1750291572569900）](https://dev.to/member_a4f1642a/my-architectural-choices-and-practical-experience1750291572569900-505o)
+- [My Experience with Hyperlane（1750295371176800）](https://dev.to/member_a4f1642a/my-experience-with-hyperlane1750295371176800-57n)
+- [Geleceğin Web Trendleri](https://dev.to/yunus_emremert_1756b71d3/gelecegin-web-trendleri-ml8)
+- [The New Generation of High-Performance Web Frameworks（1750295080078700）](https://dev.to/member_e911e096/the-new-generation-of-high-performance-web-frameworks1750295080078700-2ba9)
+- [The frondend chaos](https://dev.to/composite/the-frond-end-chaos-1l4o)
 <!-- BLOG-POST-LIST:END -->
 
 
