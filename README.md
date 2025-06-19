@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Scenes of Netflix: Unpacking Its World-Class Infrastructure](https://dev.to/grenishrai/behind-the-scenes-of-netflix-unpacking-its-world-class-infrastructure-4748)
-- [If you’re building anything remotely and ignoring your books, you’re setting yourself up for failure. This post proves it.](https://dev.to/erinchan/if-youre-building-anything-remotely-and-ignoring-your-books-youre-setting-yourself-up-for-1he9)
-- [🚀 Built for Mars](https://dev.to/ml318097/built-for-mars-2ip9)
-- [Master LangChain in Typescript - A Practical Guide](https://dev.to/mohsenkamrani/master-langchain-in-typescript-a-practical-guide-4ifc)
+- [Introducing Storyblok CLI v4](https://dev.to/storyblok/introducing-storyblok-cli-v4-2gdh)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-4kji)
+- [This gave me a lot to think about in terms of team culture and how we can make it stronger even without a physical office.](https://dev.to/jackied0minguez/this-gave-me-a-lot-to-think-about-in-terms-of-team-culture-and-how-we-can-make-it-stronger-even-5h9b)
+- [This reflection helped me think differently about remote work and how leaders should build for sustainability.](https://dev.to/jackied0minguez/this-reflection-helped-me-think-differently-about-remote-work-and-how-leaders-should-build-for-1bae)
 <!-- BLOG-POST-LIST:END -->
 
 
