@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer’s Guide to SQL NOT IN: Smarter Queries, Faster Results](https://dev.to/dbvismarketing/a-developers-guide-to-sql-not-in-smarter-queries-faster-results-27dn)
-- [So glad I came across this. It does not just inspire, it equips.](https://dev.to/celestehar88/so-glad-i-came-across-this-it-does-not-just-inspire-it-equips-51k7)
-- [Day #2 Building in Public bolt.new Hackathon](https://dev.to/paako/day-2-building-in-public-boltnew-hackathon-4e0e)
-- [Realtime（1750315759503700）](https://dev.to/member_e911e096/realtime1750315759503700-79j)
+- [What tip would you give to someone who wants to get promoted?](https://dev.to/shrutikapoor08/what-tip-would-you-give-to-someone-who-wants-to-get-promoted-12o4)
+- [Implementing a Custom Serialization Library in JavaScript](https://dev.to/omriluz1/implementing-a-custom-serialization-library-in-javascript-1ef1)
+- [How you can spot a fake ATmega328P?](https://dev.to/carolineee/how-you-can-spot-a-fake-atmega328p-20gc)
+- [From Trust Anchors to SPIFFE IDs: Understanding Linkerd’s Automated Identity Pipeline](https://dev.to/gtrekter/from-trust-anchors-to-spiffe-ids-understanding-linkerds-automated-identity-pipeline-37k9)
 <!-- BLOG-POST-LIST:END -->
 
 
