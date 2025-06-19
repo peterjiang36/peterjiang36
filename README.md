@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
-- [Building pagination with Prisma felt… unnecessarily complex](https://dev.to/juandadev/building-pagination-with-prisma-felt-unnecessarily-complex-3ab9)
-- [Elasticsearch &amp; Solr Resources](https://dev.to/vaib/elasticsearch-solr-resources-3m1o)
-- [Eliminating dead code in Go projects](https://dev.to/mfbmina/eliminating-dead-code-in-go-projects-1glc)
+- [AWS Fundamentals: Autoscaling Plans](https://dev.to/devops_fundamental/aws-fundamentals-autoscaling-plans-162o)
+- [Azure Fundamentals: Microsoft.ApiManagement](https://dev.to/devops_fundamental/azure-fundamentals-microsoftapimanagement-1dgj)
+- [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;2/2&rpar;](https://dev.to/zerohertz/code-review-deep-dive-into-vllms-architecture-and-implementation-analysis-of-openai-compatible-4cp9)
+- [🚢 What is Kubernetes?](https://dev.to/davinceleecode/what-is-kubernetes-4ao3)
 <!-- BLOG-POST-LIST:END -->
 
 
