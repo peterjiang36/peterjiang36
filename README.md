@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [As a remote team lead, I found myself nodding through this whole post. Totally aligned.](https://dev.to/richards_l52689/as-a-remote-team-lead-i-found-myself-nodding-through-this-whole-post-totally-aligned-ihi)
-- [HarmonyOS Next Advanced Data Management Development Guide](https://dev.to/liu_yang_fc0e605820ac220c/harmonyos-next-advanced-data-management-development-guide-1kd3)
-- [Identiverse 2025: Trust, Delegation, and the Era of Continuous Identity](https://dev.to/dwayne_mcdaniel/identiverse-2025-trust-delegation-and-the-era-of-continuous-identity-30g0)
-- [🔍 Your .env file shouldn’t be a mystery box.](https://dev.to/suhel_withai_8db26993d99/your-env-file-shouldnt-be-a-mystery-box-5ij)
+- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
+- [Building pagination with Prisma felt… unnecessarily complex](https://dev.to/juandadev/building-pagination-with-prisma-felt-unnecessarily-complex-3ab9)
+- [Elasticsearch &amp; Solr Resources](https://dev.to/vaib/elasticsearch-solr-resources-3m1o)
+- [Eliminating dead code in Go projects](https://dev.to/mfbmina/eliminating-dead-code-in-go-projects-1glc)
 <!-- BLOG-POST-LIST:END -->
 
 
