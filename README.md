@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Hyperlane（1750295371176800）](https://dev.to/member_a4f1642a/my-experience-with-hyperlane1750295371176800-57n)
-- [Geleceğin Web Trendleri](https://dev.to/yunus_emremert_1756b71d3/gelecegin-web-trendleri-ml8)
-- [The New Generation of High-Performance Web Frameworks（1750295080078700）](https://dev.to/member_e911e096/the-new-generation-of-high-performance-web-frameworks1750295080078700-2ba9)
-- [The frondend chaos](https://dev.to/composite/the-frond-end-chaos-1l4o)
+- [detect hallucinations in langchain rag pipelines](https://dev.to/0xwenar/detect-hallucinations-in-langchain-rag-pipelines-1hkn)
+- [AWS Fundamentals: Acm Pca](https://dev.to/devops_fundamental/aws-fundamentals-acm-pca-3nh1)
+- [Realtime（1750297598333300）](https://dev.to/member_e911e096/realtime1750297598333300-58k0)
+- [Hands-On Guide: Build an AI Legal Chatbot with Next.js and OpenAI GPT-4o-mini - Read the Full Article](https://dev.to/corpcubite/hands-on-guide-build-an-ai-legal-chatbot-with-nextjs-and-openai-gpt-4o-mini-read-the-full-371m)
 <!-- BLOG-POST-LIST:END -->
 
 
