@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What tip would you give to someone who wants to get promoted?](https://dev.to/shrutikapoor08/what-tip-would-you-give-to-someone-who-wants-to-get-promoted-12o4)
-- [Implementing a Custom Serialization Library in JavaScript](https://dev.to/omriluz1/implementing-a-custom-serialization-library-in-javascript-1ef1)
-- [How you can spot a fake ATmega328P?](https://dev.to/carolineee/how-you-can-spot-a-fake-atmega328p-20gc)
-- [From Trust Anchors to SPIFFE IDs: Understanding Linkerd’s Automated Identity Pipeline](https://dev.to/gtrekter/from-trust-anchors-to-spiffe-ids-understanding-linkerds-automated-identity-pipeline-37k9)
+- [Improving my previous OpenRewrite recipe](https://dev.to/nfrankel/improving-my-previous-openrewrite-recipe-36f1)
+- [My Journey with the Hyperlane Framework（1750322851779700）](https://dev.to/member_a4f1642a/my-journey-with-the-hyperlane-framework1750322851779700-382o)
+- [[Boost]](https://dev.to/xilentdev/-1241)
+- [Streamlit Dashboard: Let&#39;s analyse how Virat Kohli performs!](https://dev.to/dhanushdevadiga/streamlit-dashboard-lets-analyse-how-virat-kohli-performs-ian)
 <!-- BLOG-POST-LIST:END -->
 
 
