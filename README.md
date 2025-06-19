@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-1f93)
-- [[Boost]](https://dev.to/vaib/-hp0)
-- [Testing ITConnect Before Launch: Making Sure Everything Works Smoothly](https://dev.to/erzana_muharremi/testing-itconnect-before-launch-making-sure-everything-works-smoothly-190h)
-- [CreatiFlow: My Journey Building an AI-Powered Image Editing SaaS with Next.js 14, Cloudinary, and Stripe](https://dev.to/faarehahmed/creatiflow-my-journey-building-an-ai-powered-image-editing-saas-with-nextjs-14-cloudinary-and-2hln)
+- [🕹️ History of Game Consoles – A Visual Timeline Powered by Storyblok](https://dev.to/jamesrmoro/history-of-game-consoles-a-visual-timeline-powered-by-storyblok-2i0h)
+- [So, tech salaries stopped climbing now what? we are not hiring right now, the new normal.](https://dev.to/devlinktips/so-tech-salaries-stopped-climbing-now-what-we-are-not-hiring-right-now-the-new-normal-41dd)
+- [How I Automated My Next.js Deployments to cPanel with GitHub Actions &lpar;and All the Debugging That Came With It&rpar;](https://dev.to/braincodes/how-i-automated-my-nextjs-deployments-to-cpanel-with-github-actions-and-all-the-debugging-that-1kic)
+- [Build a Semantic Search-Powered FAQ Assistant with TiDB and AWS Bedrock](https://dev.to/realchrissean/build-a-semantic-search-powered-faq-assistant-with-tidb-and-aws-bedrock-5c09)
 <!-- BLOG-POST-LIST:END -->
 
 
