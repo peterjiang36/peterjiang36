@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Mid-Level Interview Questions 2025](https://dev.to/laravel_dailytips_ff21cc/laravel-mid-level-interview-questions-2025-1j3m)
-- [How to Write an IT Asset Manager Job Description That Attracts Top Talent](https://dev.to/jennifer_devsamurai/how-to-write-an-it-asset-manager-job-description-that-attracts-top-talent-1b55)
-- [Хороший продукт не заставляет о себе говорить](https://dev.to/dmkjfs/khoroshii-produkt-nie-zastavliaiet-o-siebie-ghovorit-jpb)
-- [#2 Django Journey: Learn DRF by building an e-commerce APIs](https://dev.to/purnima_chowrasia/2-django-journey-learn-drf-by-building-an-e-commerce-apis-4pla)
+- [Merits of on-prem real device and real device cloud for mobile app testing](https://dev.to/keaganhaney/merits-of-on-prem-real-device-and-real-device-cloud-for-mobile-app-testing-fm)
+- [Top Cloud Platform Providers &lpar;2025&rpar;](https://dev.to/davinceleecode/top-cloud-platform-providers-2025-le1)
+- [Docker Interview Questions and Answers: From Basics to Advanced](https://dev.to/suraj_kumar_fb57ae0928df2/docker-interview-questions-and-answers-from-basics-to-advanced-5199)
+- [AWS Fundamentals: Cases](https://dev.to/devops_fundamental/aws-fundamentals-cases-h7l)
 <!-- BLOG-POST-LIST:END -->
 
 
