@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding redis.conf: How to Configure Your Redis Server](https://dev.to/rijultp/understanding-redisconf-how-to-configure-your-redis-server-38lf)
-- [IBM Fundamentals: CRUD PHP Codeigniter Bluemix](https://dev.to/devopsfundamentals/ibm-fundamentals-crud-php-codeigniter-bluemix-4lag)
-- [Introduction to IAM in OCI](https://dev.to/vishnu_rachapudi_75e73248/introduction-to-iam-in-oci-1ffi)
-- [Azure Fundamentals: Microsoft.DataShare](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdatashare-489k)
+- [Security news weekly round-up - 20th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-20th-june-2025-ol3)
+- [Nomadic Infrastructure Design for AI Workloads](https://dev.to/tigrisdata/nomadic-infrastructure-design-for-ai-workloads-2aaf)
+- [Operations Order with Asynchronous JavaScript](https://dev.to/muszynov/console-log-order-with-asynchronous-javascript-43i0)
+- [Azure Fundamentals: Microsoft.DevOpsInfrastructure](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdevopsinfrastructure-3a85)
 <!-- BLOG-POST-LIST:END -->
 
 
