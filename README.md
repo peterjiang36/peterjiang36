@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que Acessibilidade Importa? Entenda o Essencial para Apps Mais Inclusivos](https://dev.to/gabrielteixeira44/por-que-acessibilidade-importa-entenda-o-essencial-para-apps-mais-inclusivos-4goh)
-- [How Bad Code and Product Flaws Killed Myspace A Developer’s Survival Guide](https://dev.to/devlinktips/how-bad-code-and-product-flaws-killed-myspace-a-developers-survival-guide-37i5)
-- [AWS Fundamentals: Bcm Data Exports](https://dev.to/devops_fundamental/aws-fundamentals-bcm-data-exports-5830)
-- [The Hidden Power of Redis: Fast, Flexible, and Freakishly Simple](https://dev.to/devlinktips/the-hidden-power-of-redis-fast-flexible-and-freakishly-simple-5g38)
+- [Looking to start an open source ChatRoulette/Omegle-style project – Who’s in?](https://dev.to/shadyfeliu/looking-to-start-an-open-source-chatrouletteomegle-style-project-whos-in-4adh)
+- [Lambda : History-Aware Bayesian Jump Event Detector for Time Series &lpar;with Dual EYE Mode&rpar;](https://dev.to/miosyncmasa/lambda3-history-aware-bayesian-jump-event-detector-for-time-series-with-dual-eye-mode-2l5g)
+- [Demystifying RTOS: Essential Resources for Embedded Systems Developers](https://dev.to/vaib/demystifying-rtos-essential-resources-for-embedded-systems-developers-4f28)
+- [Platform Engineering: The Evolution of DevOps for Enhanced Developer Experience](https://dev.to/vaib/platform-engineering-the-evolution-of-devops-for-enhanced-developer-experience-3028)
 <!-- BLOG-POST-LIST:END -->
 
 
