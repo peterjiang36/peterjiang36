@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Labubu Doll: Origins and History](https://dev.to/justin3go/labubu-doll-origins-and-history-3kb5)
-- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（下）—— 实战应用](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-xia-shi-zhan-ying-yong-2j06)
-- [Lambda Fluid Simulation Series, Part 1: The Stability Paradox vs. Navier-Stokes](https://dev.to/miosyncmasa/lambda3-fluid-simulation-series-part-1-the-stability-paradox-vs-navier-stokes-57e1)
-- [Frontend&#39;in Geleceği: Yenilikçi Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontendin-gelecegi-yenilikci-yaklasimlar-8nb)
+- [[Boost]](https://dev.to/gillarohith/-3nkj)
+- [Building Remote MCP Servers with .NET and Azure Container Apps](https://dev.to/willvelida/building-remote-mcp-servers-with-net-and-azure-container-apps-cc2)
+- [Protecting Yourself: A Beginner&#39;s Guide to Cyber Security for Individuals &amp; MSMEs](https://dev.to/koswara_c79/protecting-yourself-a-beginners-guide-to-cyber-security-for-individuals-msmes-pmc)
+- [HellaJS - A Tiny Reactive Framework](https://dev.to/ols87/hellajs-a-tiny-reactive-framework-24al)
 <!-- BLOG-POST-LIST:END -->
 
 
