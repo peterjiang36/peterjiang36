@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/gillarohith/-3nkj)
-- [Building Remote MCP Servers with .NET and Azure Container Apps](https://dev.to/willvelida/building-remote-mcp-servers-with-net-and-azure-container-apps-cc2)
-- [Protecting Yourself: A Beginner&#39;s Guide to Cyber Security for Individuals &amp; MSMEs](https://dev.to/koswara_c79/protecting-yourself-a-beginners-guide-to-cyber-security-for-individuals-msmes-pmc)
-- [HellaJS - A Tiny Reactive Framework](https://dev.to/ols87/hellajs-a-tiny-reactive-framework-24al)
+- [AWS Fundamentals: Billingconductor](https://dev.to/devops_fundamental/aws-fundamentals-billingconductor-21ll)
+- [How to Set Up LDAP Login for SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-ldap-login-for-safeline-waf-29l6)
+- [🚀 Building and Training DeepSeek from Scratch for Children&#39;s Stories](https://dev.to/lakhera2015/building-and-training-deepseek-from-scratch-for-childrens-stories-5p6)
+- [Técnicas de refatoração](https://dev.to/lucaspereiradesouzat/tecnicas-de-refatoracao-5bdn)
 <!-- BLOG-POST-LIST:END -->
 
 
