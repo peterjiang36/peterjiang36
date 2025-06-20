@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future: Essential IoT Platforms for Developers](https://dev.to/vaib/unlocking-the-future-essential-iot-platforms-for-developers-4ala)
-- [Azure Fundamentals: Microsoft.Consumption](https://dev.to/devops_fundamental/azure-fundamentals-microsoftconsumption-2535)
-- [⏱ When Milliseconds Aren&#39;t Enough: A Pragmatic Take on ULID Overflow](https://dev.to/gigaherz/when-milliseconds-arent-enough-a-pragmatic-take-on-ulid-overflow-19ji)
-- [🧠 From Prototype to Production: 6 Essential Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/from-prototype-to-production-6-essential-fixes-for-your-llmservice-class-8bi)
+- [GCP Fundamentals: BigLake API](https://dev.to/devopsfundamentals/gcp-fundamentals-biglake-api-2163)
+- [Why TSMC’s 2nm Process Node is Set to Reshape the Semiconductor Industry](https://dev.to/clioxie121/why-tsmcs-2nm-process-node-is-set-to-reshape-the-semiconductor-industry-4df9)
+- [🐦🐰 I Built Two Games in 4 Hours Using Amazon Q CLI !](https://dev.to/disha_t/i-built-two-games-in-4-hours-using-amazon-q-cli--24lm)
+- [VMware Fundamentals: Build Tools For Vmware Aria](https://dev.to/devops_fundamental/vmware-fundamentals-build-tools-for-vmware-aria-2emc)
 <!-- BLOG-POST-LIST:END -->
 
 
