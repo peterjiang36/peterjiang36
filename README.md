@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.Communication](https://dev.to/devops_fundamental/azure-fundamentals-microsoftcommunication-88g)
-- [💥 C# for Newbies: A Solid Start or a Trap in Disguise?](https://dev.to/theodor_coin_4/c-for-newbies-a-solid-start-or-a-trap-in-disguise-4o1i)
-- [IBM Fundamentals: Aspnet Core Cloudant](https://dev.to/devops_fundamental/ibm-fundamentals-aspnet-core-cloudant-2jid)
-- [Flutter AI Chatbots: Build Yours Today](https://dev.to/sushan_dristi_ab98c07ea8f/flutter-ai-chatbots-build-yours-today-35l8)
+- [Unlocking the Future: Essential IoT Platforms for Developers](https://dev.to/vaib/unlocking-the-future-essential-iot-platforms-for-developers-4ala)
+- [Azure Fundamentals: Microsoft.Consumption](https://dev.to/devops_fundamental/azure-fundamentals-microsoftconsumption-2535)
+- [⏱ When Milliseconds Aren&#39;t Enough: A Pragmatic Take on ULID Overflow](https://dev.to/gigaherz/when-milliseconds-arent-enough-a-pragmatic-take-on-ulid-overflow-19ji)
+- [🧠 From Prototype to Production: 6 Essential Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/from-prototype-to-production-6-essential-fixes-for-your-llmservice-class-8bi)
 <!-- BLOG-POST-LIST:END -->
 
 
