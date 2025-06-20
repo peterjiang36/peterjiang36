@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking to start an open source ChatRoulette/Omegle-style project – Who’s in?](https://dev.to/shadyfeliu/looking-to-start-an-open-source-chatrouletteomegle-style-project-whos-in-4adh)
-- [Lambda : History-Aware Bayesian Jump Event Detector for Time Series &lpar;with Dual EYE Mode&rpar;](https://dev.to/miosyncmasa/lambda3-history-aware-bayesian-jump-event-detector-for-time-series-with-dual-eye-mode-2l5g)
-- [Demystifying RTOS: Essential Resources for Embedded Systems Developers](https://dev.to/vaib/demystifying-rtos-essential-resources-for-embedded-systems-developers-4f28)
-- [Platform Engineering: The Evolution of DevOps for Enhanced Developer Experience](https://dev.to/vaib/platform-engineering-the-evolution-of-devops-for-enhanced-developer-experience-3028)
+- [Labubu Doll: Origins and History](https://dev.to/justin3go/labubu-doll-origins-and-history-3kb5)
+- [鸿蒙运动项目开发：封装超级好用的 RCP 网络库（下）—— 实战应用](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-feng-zhuang-chao-ji-hao-yong-de-rcp-wang-luo-ku-xia-shi-zhan-ying-yong-2j06)
+- [Lambda Fluid Simulation Series, Part 1: The Stability Paradox vs. Navier-Stokes](https://dev.to/miosyncmasa/lambda3-fluid-simulation-series-part-1-the-stability-paradox-vs-navier-stokes-57e1)
+- [Frontend&#39;in Geleceği: Yenilikçi Yaklaşımlar](https://dev.to/yunus_emremert_1756b71d3/frontendin-gelecegi-yenilikci-yaklasimlar-8nb)
 <!-- BLOG-POST-LIST:END -->
 
 
