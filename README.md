@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day #3 Bolt hackathon](https://dev.to/paako/day-3-bolt-hackathon-17cc)
-- [Beyond Code: Why I Build Apps with a Human Purpose](https://dev.to/dilip_kumardk_b41b9418/beyond-code-why-i-build-apps-with-a-human-purpose-59i7)
-- [Crafting Perfect Cold Messages: My AI-Powered Streamlit App Journey 🧊](https://dev.to/asutoshk_09/crafting-perfect-cold-messages-my-ai-powered-streamlit-app-journey-4i36)
-- [Data Comparison between Different Types of Databases-SPL Practice](https://dev.to/esproc_spl/data-comparison-between-different-types-of-databases-spl-practice-2g6h)
+- [Advanced Techniques for Optimizing JavaScript Rendering Pipelines](https://dev.to/omriluz1/advanced-techniques-for-optimizing-javascript-rendering-pipelines-33d)
+- [EventStream in Proto.Actor Explained: Publish-Subscribe Communication Between Actors](https://dev.to/actor-dev/protoactor-event-stream-39gm)
+- [EventStream no Proto.Actor Explicado: Comunicação Publicação-Assinatura Entre Atores](https://dev.to/actor-dev/eventstream-no-protoactor-explicado-comunicacao-publicacao-assinatura-entre-atores-519j)
+- [[Boost]](https://dev.to/anthonymax/-1e34)
 <!-- BLOG-POST-LIST:END -->
 
 
