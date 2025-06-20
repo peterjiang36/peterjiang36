@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Merits of on-prem real device and real device cloud for mobile app testing](https://dev.to/keaganhaney/merits-of-on-prem-real-device-and-real-device-cloud-for-mobile-app-testing-fm)
-- [Top Cloud Platform Providers &lpar;2025&rpar;](https://dev.to/davinceleecode/top-cloud-platform-providers-2025-le1)
-- [Docker Interview Questions and Answers: From Basics to Advanced](https://dev.to/suraj_kumar_fb57ae0928df2/docker-interview-questions-and-answers-from-basics-to-advanced-5199)
-- [AWS Fundamentals: Cases](https://dev.to/devops_fundamental/aws-fundamentals-cases-h7l)
+- [Day #3 Bolt hackathon](https://dev.to/paako/day-3-bolt-hackathon-17cc)
+- [Beyond Code: Why I Build Apps with a Human Purpose](https://dev.to/dilip_kumardk_b41b9418/beyond-code-why-i-build-apps-with-a-human-purpose-59i7)
+- [Crafting Perfect Cold Messages: My AI-Powered Streamlit App Journey 🧊](https://dev.to/asutoshk_09/crafting-perfect-cold-messages-my-ai-powered-streamlit-app-journey-4i36)
+- [Data Comparison between Different Types of Databases-SPL Practice](https://dev.to/esproc_spl/data-comparison-between-different-types-of-databases-spl-practice-2g6h)
 <!-- BLOG-POST-LIST:END -->
 
 
