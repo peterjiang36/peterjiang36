@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why GCC and Clang Embrace UB for Maximum C++ Performance?](https://dev.to/adityabhuyan/why-gcc-and-clang-embrace-ub-for-maximum-c-performance-23ie)
-- [gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-3fg9)
-- [Comprehensive Guide to Event Dispatching in HarmonyOS](https://dev.to/moyantianwang/comprehensive-guide-to-event-dispatching-in-harmonyos-456l)
-- [How to Build a Download‑Free HTML5 Game Portal Like SurgeBlazePlay](https://dev.to/mufeng/how-to-build-a-download-free-html5-game-portal-like-surgeblazeplay-2ffo)
+- [Comprehensive Guide to HarmonyOS ArkWeb Development](https://dev.to/moyantianwang/comprehensive-guide-to-harmonyos-arkweb-development-45aj)
+- [Azure Fundamentals: Microsoft.ClassicCompute](https://dev.to/devops_fundamental/azure-fundamentals-microsoftclassiccompute-2ol1)
+- [Why UX is Part of Your Brand ?&lpar;And How to Get It Right&rpar;](https://dev.to/blog_articles/why-ux-is-part-of-your-brand-and-how-to-get-it-right-35d8)
+- [DigitalOcean Fundamentals: API](https://dev.to/devopsfundamentals/digitalocean-fundamentals-api-7hh)
 <!-- BLOG-POST-LIST:END -->
 
 
