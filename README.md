@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Fundamentals: Billingconductor](https://dev.to/devops_fundamental/aws-fundamentals-billingconductor-21ll)
-- [How to Set Up LDAP Login for SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-set-up-ldap-login-for-safeline-waf-29l6)
-- [🚀 Building and Training DeepSeek from Scratch for Children&#39;s Stories](https://dev.to/lakhera2015/building-and-training-deepseek-from-scratch-for-childrens-stories-5p6)
-- [Técnicas de refatoração](https://dev.to/lucaspereiradesouzat/tecnicas-de-refatoracao-5bdn)
+- [Unlocking the AI Black Box: The Power of Time-Series Databases for Observability](https://dev.to/vaib/unlocking-the-ai-black-box-the-power-of-time-series-databases-for-observability-10k)
+- [Deep Learning NER: Your Essential Resource List for Named Entity Recognition in NLP](https://dev.to/vaib/deep-learning-ner-your-essential-resource-list-for-named-entity-recognition-in-nlp-11j8)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2kkb)
+- [GCP Fundamentals: Air Quality API](https://dev.to/devops_fundamental/gcp-fundamentals-air-quality-api-3jel)
 <!-- BLOG-POST-LIST:END -->
 
 
