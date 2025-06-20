@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 20th June 2025](https://dev.to/ziizium/security-news-weekly-round-up-20th-june-2025-ol3)
-- [Nomadic Infrastructure Design for AI Workloads](https://dev.to/tigrisdata/nomadic-infrastructure-design-for-ai-workloads-2aaf)
-- [Operations Order with Asynchronous JavaScript](https://dev.to/muszynov/console-log-order-with-asynchronous-javascript-43i0)
-- [Azure Fundamentals: Microsoft.DevOpsInfrastructure](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftdevopsinfrastructure-3a85)
+- [🛠️ Manage &amp; Troubleshoot EKS Cluster Like a Pro Using kubectl-AI⚡](https://dev.to/aws-builders/manage-troubleshoot-eks-cluster-like-a-pro-using-kubectl-ai-5205)
+- [IBM Fundamentals: Cf Deployment Tracker Client Electron](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-electron-2mjd)
+- [AI Powered WebChat: Revolutionizing Web Browsing with an AI-Powered Chrome Extension](https://dev.to/anandsingh01/ai-powered-webchat-revolutionizing-web-browsing-with-an-ai-powered-chrome-extension-1la2)
+- [Snapshot Strategies: Optimizing Event Replays](https://dev.to/alex_aslam/snapshot-strategies-optimizing-event-replays-36oo)
 <!-- BLOG-POST-LIST:END -->
 
 
