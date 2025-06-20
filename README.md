@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the AI Black Box: The Power of Time-Series Databases for Observability](https://dev.to/vaib/unlocking-the-ai-black-box-the-power-of-time-series-databases-for-observability-10k)
-- [Deep Learning NER: Your Essential Resource List for Named Entity Recognition in NLP](https://dev.to/vaib/deep-learning-ner-your-essential-resource-list-for-named-entity-recognition-in-nlp-11j8)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-2kkb)
-- [GCP Fundamentals: Air Quality API](https://dev.to/devops_fundamental/gcp-fundamentals-air-quality-api-3jel)
+- [Laravel Mid-Level Interview Questions 2025](https://dev.to/laravel_dailytips_ff21cc/laravel-mid-level-interview-questions-2025-1j3m)
+- [How to Write an IT Asset Manager Job Description That Attracts Top Talent](https://dev.to/jennifer_devsamurai/how-to-write-an-it-asset-manager-job-description-that-attracts-top-talent-1b55)
+- [Хороший продукт не заставляет о себе говорить](https://dev.to/dmkjfs/khoroshii-produkt-nie-zastavliaiet-o-siebie-ghovorit-jpb)
+- [#2 Django Journey: Learn DRF by building an e-commerce APIs](https://dev.to/purnima_chowrasia/2-django-journey-learn-drf-by-building-an-e-commerce-apis-4pla)
 <!-- BLOG-POST-LIST:END -->
 
 
