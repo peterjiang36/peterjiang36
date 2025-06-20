@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Techniques for Optimizing JavaScript Rendering Pipelines](https://dev.to/omriluz1/advanced-techniques-for-optimizing-javascript-rendering-pipelines-33d)
-- [EventStream in Proto.Actor Explained: Publish-Subscribe Communication Between Actors](https://dev.to/actor-dev/protoactor-event-stream-39gm)
-- [EventStream no Proto.Actor Explicado: Comunicação Publicação-Assinatura Entre Atores](https://dev.to/actor-dev/eventstream-no-protoactor-explicado-comunicacao-publicacao-assinatura-entre-atores-519j)
-- [[Boost]](https://dev.to/anthonymax/-1e34)
+- [Why GCC and Clang Embrace UB for Maximum C++ Performance?](https://dev.to/adityabhuyan/why-gcc-and-clang-embrace-ub-for-maximum-c-performance-23ie)
+- [gettemplate.website](https://dev.to/shreyvijayvargiya/gettemplatewebsite-3fg9)
+- [Comprehensive Guide to Event Dispatching in HarmonyOS](https://dev.to/moyantianwang/comprehensive-guide-to-event-dispatching-in-harmonyos-456l)
+- [How to Build a Download‑Free HTML5 Game Portal Like SurgeBlazePlay](https://dev.to/mufeng/how-to-build-a-download-free-html5-game-portal-like-surgeblazeplay-2ffo)
 <!-- BLOG-POST-LIST:END -->
 
 
