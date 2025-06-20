@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to HarmonyOS ArkWeb Development](https://dev.to/moyantianwang/comprehensive-guide-to-harmonyos-arkweb-development-45aj)
-- [Azure Fundamentals: Microsoft.ClassicCompute](https://dev.to/devops_fundamental/azure-fundamentals-microsoftclassiccompute-2ol1)
-- [Why UX is Part of Your Brand ?&lpar;And How to Get It Right&rpar;](https://dev.to/blog_articles/why-ux-is-part-of-your-brand-and-how-to-get-it-right-35d8)
-- [DigitalOcean Fundamentals: API](https://dev.to/devopsfundamentals/digitalocean-fundamentals-api-7hh)
+- [🧪 Getting Started with the KuCoin API Using kucoin-api &lpar;Node.js SDK&rpar;](https://dev.to/favee042/getting-started-with-the-kucoin-api-using-kucoin-api-nodejs-sdk-cfm)
+- [🚀 Building a Real-Time Notification Service with FastAPI, Redis Streams, and WebSockets](https://dev.to/geetnsh2k1/building-a-real-time-notification-service-with-fastapi-redis-streams-and-websockets-52ib)
+- [⚙️ Go Tools: Password Hashing with Argon2 Instead of bcrypt](https://dev.to/nikita_rykhlov/go-tools-password-hashing-with-argon2-instead-of-bcrypt-38aj)
+- [GCP Fundamentals: Assured Workloads API](https://dev.to/devops_fundamental/gcp-fundamentals-assured-workloads-api-54cj)
 <!-- BLOG-POST-LIST:END -->
 
 
