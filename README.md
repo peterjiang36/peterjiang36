@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Fundamentals: lexical scope](https://dev.to/devopsfundamentals/nodejs-fundamentals-lexical-scope-1mb4)
-- [Introducing Releasify Action — Announce GitHub Releases on Discord Effortlessly](https://dev.to/tene/introducing-releasify-action-announce-github-releases-on-discord-effortlessly-3132)
-- [IBM Fundamentals: Clouddatabases Helloworld Examples](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-helloworld-examples-4pfo)
-- [Modul Perulangan Dalam Bahasa Earl](https://dev.to/dev_nazwashabrina/modul-perulangan-dalam-bahasa-earl-2pfo)
+- [Web Developer&#39;s Shortcut: From Figma Mockups to Clean HTML in Seconds](https://dev.to/atforeveryoung/web-developers-shortcut-from-figma-mockups-to-clean-html-in-seconds-2831)
+- [IBM Fundamentals: Clouddatabases Redis Helloworld Python](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-redis-helloworld-python-47j8)
+- [Flutter Desktop Apps: Build Yours!](https://dev.to/sushan_dristi_ab98c07ea8f/flutter-desktop-apps-build-yours-5090)
+- [🧠 Mastering OOP in Swift: A Beginner-to-Advanced Guide](https://dev.to/swift_pal/mastering-oop-in-swift-a-beginner-to-advanced-guide-3o9e)
 <!-- BLOG-POST-LIST:END -->
 
 
