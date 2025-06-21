@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Arka Planın Sırları: Verimli Kodlama](https://dev.to/yunus_emremert_1756b71d3/arka-planin-sirlari-verimli-kodlama-4fg8)
-- [IBM Fundamentals: Cf Log Slack](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-log-slack-19o2)
-- [Mastering Column-Family NoSQL: Your Essential Guide to Cassandra &amp; HBase Resources](https://dev.to/vaib/mastering-column-family-nosql-your-essential-guide-to-cassandra-hbase-resources-5826)
-- [#golang #go #concurrency #goroutines Let&#39;s master concurrency in go from absolute basics. Be a part of my journey.](https://dev.to/sadhakbj/golang-go-concurrency-goroutines-lets-master-concurrency-in-go-from-absolute-basics-be-a-4pbl)
+- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 1 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-1-read-the-full-article-1d8f)
+- [Fetxhing-keys](https://dev.to/pritam_pande/fetxhing-keys-59ai)
+- [GCP Fundamentals: Cloud Composer API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-composer-api-1c42)
+- [Terraform Fundamentals: AMP &lpar;Managed Prometheus&rpar;](https://dev.to/devopsfundamentals/terraform-fundamentals-amp-managed-prometheus-1ogg)
 <!-- BLOG-POST-LIST:END -->
 
 
