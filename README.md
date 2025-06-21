@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From student to full-time Platform Engineer at Appwrite](https://dev.to/chiragagg5k/from-student-to-full-time-platform-engineer-at-appwrite-49ci)
-- [Azure Fundamentals: Microsoft.Migrate](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftmigrate-2daj)
-- [GCP Fundamentals: Cloud Life Sciences API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-life-sciences-api-4l1g)
-- [#3 Django Journey: Why I Added Slugs to My Product Model &lpar;And You Should Too&rpar;?](https://dev.to/purnima_chowrasia/3-django-journey-why-i-added-slugs-to-my-product-model-and-you-should-too-4067)
+- [Azure Fundamentals: Microsoft.NotificationHubs](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftnotificationhubs-2fp6)
+- [Ubuntu Fundamentals: GRUB](https://dev.to/devopsfundamentals/ubuntu-fundamentals-grub-2j60)
+- [Kafka Fundamentals: kafka cluster](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cluster-56fp)
+- [NodeJS Fundamentals: side effect](https://dev.to/devopsfundamentals/nodejs-fundamentals-side-effect-1neo)
 <!-- BLOG-POST-LIST:END -->
 
 
