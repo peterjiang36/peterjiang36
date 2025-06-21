@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Cloud Cost Management: The Power of AI in FinOps](https://dev.to/vaib/revolutionizing-cloud-cost-management-the-power-of-ai-in-finops-3e2d)
-- [Unlocking Speed: Your Essential Guide to CDN Resources](https://dev.to/vaib/unlocking-speed-your-essential-guide-to-cdn-resources-3fli)
-- [Dari Ngoding ke Nongkrong: Balance Ala Software Engineer Kekinian!](https://dev.to/chandrabachtiar/dari-ngoding-ke-nongkrong-balance-ala-software-engineer-kekinian-6hp)
-- [GCP Fundamentals: Cloud Channel API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-channel-api-490p)
+- [Arka Planın Sırları: Verimli Kodlama](https://dev.to/yunus_emremert_1756b71d3/arka-planin-sirlari-verimli-kodlama-4fg8)
+- [IBM Fundamentals: Cf Log Slack](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-log-slack-19o2)
+- [Mastering Column-Family NoSQL: Your Essential Guide to Cassandra &amp; HBase Resources](https://dev.to/vaib/mastering-column-family-nosql-your-essential-guide-to-cassandra-hbase-resources-5826)
+- [#golang #go #concurrency #goroutines Let&#39;s master concurrency in go from absolute basics. Be a part of my journey.](https://dev.to/sadhakbj/golang-go-concurrency-goroutines-lets-master-concurrency-in-go-from-absolute-basics-be-a-4pbl)
 <!-- BLOG-POST-LIST:END -->
 
 
