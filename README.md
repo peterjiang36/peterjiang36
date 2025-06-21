@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SupportAI - Intelligent Customer Service Platform](https://dev.to/ariondev/supportai-intelligent-customer-service-platform-2jo9)
-- [Python Fundamentals: __getitem__](https://dev.to/devopsfundamentals/python-fundamentals-getitem-4hop)
-- [Azure Fundamentals: Microsoft.Relay](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftrelay-3lgl)
-- [NodeJS Fundamentals: event delegation](https://dev.to/devopsfundamentals/nodejs-fundamentals-event-delegation-3ie0)
+- [Web API を操作してみよう](https://dev.to/nabbisen/web-api-wocao-zuo-sitemiyou-296d)
+- [IBM Fundamentals: Etcd Operator](https://dev.to/devopsfundamentals/ibm-fundamentals-etcd-operator-kke)
+- [Azure Fundamentals: Microsoft.Scheduler](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftscheduler-5ep2)
+- [GCP Fundamentals: Cloud TPU API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-tpu-api-2dea)
 <!-- BLOG-POST-LIST:END -->
 
 
