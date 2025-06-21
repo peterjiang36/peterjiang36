@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ Free React Admin Dashboard Templates](https://dev.to/wrap-pixel/20-free-react-admin-dashboard-templates-3ogm)
-- [WWDC 2025 - SwiftData iOS 26 - Class Inheritance &amp; Migration](https://dev.to/arshtechpro/wwdc-2025-swiftdata-ios-26-class-inheritance-migration-issues-30bh)
-- [Why .NET Maintains Strategic Relevance Amidst Java’s Open-Source Dominance](https://dev.to/thinh_nguyen_ecc6697b9d30/why-net-maintains-strategic-relevance-amidst-javas-open-source-dominance-hnb)
-- [Terraform Fundamentals: Amazon Q Business](https://dev.to/devopsfundamentals/terraform-fundamentals-amazon-q-business-218i)
+- [🚀 Just dropped a new glass variant in Crossbuild UI!](https://dev.to/gauravchadhry/just-dropped-a-new-glass-variant-in-crossbuild-ui-aj5)
+- [AWS Fundamentals: Cognito Sync](https://dev.to/devopsfundamentals/aws-fundamentals-cognito-sync-1chn)
+- [Terraform Fundamentals: App Runner](https://dev.to/devopsfundamentals/terraform-fundamentals-app-runner-681)
+- [⚙️ Vite vs Webpack – Modern Build Tools Compared &lpar;2025&rpar;](https://dev.to/mohitdecodes/vite-vs-webpack-modern-build-tools-compared-2025-26e)
 <!-- BLOG-POST-LIST:END -->
 
 
