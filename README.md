@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer&#39;s Shortcut: From Figma Mockups to Clean HTML in Seconds](https://dev.to/atforeveryoung/web-developers-shortcut-from-figma-mockups-to-clean-html-in-seconds-2831)
-- [IBM Fundamentals: Clouddatabases Redis Helloworld Python](https://dev.to/devopsfundamentals/ibm-fundamentals-clouddatabases-redis-helloworld-python-47j8)
-- [Flutter Desktop Apps: Build Yours!](https://dev.to/sushan_dristi_ab98c07ea8f/flutter-desktop-apps-build-yours-5090)
-- [🧠 Mastering OOP in Swift: A Beginner-to-Advanced Guide](https://dev.to/swift_pal/mastering-oop-in-swift-a-beginner-to-advanced-guide-3o9e)
+- [Polyfill for Array.isArray](https://dev.to/varadan13/polyfill-for-arrayisarray-38ei)
+- [Choosing the Best Linux Distribution for Embedded Systems](https://dev.to/clioxie121/choosing-the-best-linux-distribution-for-embedded-systems-5g01)
+- [Voxel Raycaster &lpar;Voxlap-style&rpar; with baked cubic PBS/PBR lighting C#](https://dev.to/joseph7f/voxel-raycaster-voxlap-style-with-baked-cubic-pbspbr-lighting-c-4m2d)
+- [DigitalOcean Fundamentals: Projects](https://dev.to/devopsfundamentals/digitalocean-fundamentals-projects-5edl)
 <!-- BLOG-POST-LIST:END -->
 
 
