@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.NotificationHubs](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftnotificationhubs-2fp6)
-- [Ubuntu Fundamentals: GRUB](https://dev.to/devopsfundamentals/ubuntu-fundamentals-grub-2j60)
-- [Kafka Fundamentals: kafka cluster](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-cluster-56fp)
-- [NodeJS Fundamentals: side effect](https://dev.to/devopsfundamentals/nodejs-fundamentals-side-effect-1neo)
+- [How to Install and Run MonkeyOCR Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-monkeyocr-locally-1k2e)
+- [VMware Fundamentals: Harbor Boshrelease](https://dev.to/devopsfundamentals/vmware-fundamentals-harbor-boshrelease-mg8)
+- [Python Fundamentals: :=](https://dev.to/devopsfundamentals/python-fundamentals--2fla)
+- [Ubuntu Fundamentals: systemd](https://dev.to/devopsfundamentals/ubuntu-fundamentals-systemd-459l)
 <!-- BLOG-POST-LIST:END -->
 
 
