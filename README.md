@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM Fundamentals: Cf Deployment Tracker Client Node](https://dev.to/devopsfundamentals/ibm-fundamentals-cf-deployment-tracker-client-node-145f)
-- [AWS Fundamentals: Codestar](https://dev.to/devopsfundamentals/aws-fundamentals-codestar-3l1)
-- [GCP Fundamentals: Cloud Billing API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-billing-api-ekc)
-- [# SandboxAQ Releases Massive Synthetic Molecule Dataset to Accelerate AI Drug Discovery](https://dev.to/maurizio_morri_f7f4bd128c/-sandboxaq-releases-massive-synthetic-molecule-dataset-to-accelerate-ai-drug-discovery-4hf4)
+- [Revolutionizing Cloud Cost Management: The Power of AI in FinOps](https://dev.to/vaib/revolutionizing-cloud-cost-management-the-power-of-ai-in-finops-3e2d)
+- [Unlocking Speed: Your Essential Guide to CDN Resources](https://dev.to/vaib/unlocking-speed-your-essential-guide-to-cdn-resources-3fli)
+- [Dari Ngoding ke Nongkrong: Balance Ala Software Engineer Kekinian!](https://dev.to/chandrabachtiar/dari-ngoding-ke-nongkrong-balance-ala-software-engineer-kekinian-6hp)
+- [GCP Fundamentals: Cloud Channel API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-channel-api-490p)
 <!-- BLOG-POST-LIST:END -->
 
 
