@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 1 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-1-read-the-full-article-1d8f)
-- [Fetxhing-keys](https://dev.to/pritam_pande/fetxhing-keys-59ai)
-- [GCP Fundamentals: Cloud Composer API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-composer-api-1c42)
-- [Terraform Fundamentals: AMP &lpar;Managed Prometheus&rpar;](https://dev.to/devopsfundamentals/terraform-fundamentals-amp-managed-prometheus-1ogg)
+- [VMware Fundamentals: Container Service Extension Templates](https://dev.to/devopsfundamentals/vmware-fundamentals-container-service-extension-templates-2g8k)
+- [Bug：io.netty.util.IllegalReferenceCountException: refCnt: 0, decrement: 1](https://dev.to/xilio/bugionettyutilillegalreferencecountexception-refcnt-0-decrement-1-1i2g)
+- [From Sketchbook to meks.quest](https://dev.to/meksquest/from-sketchbook-to-meksquest-111p)
+- [Frustrated with Static Feedback? See How YAP Delivers Real-Time Results](https://dev.to/yap2learn/frustrated-with-static-feedback-see-how-yap-delivers-real-time-results-4458)
 <!-- BLOG-POST-LIST:END -->
 
 
