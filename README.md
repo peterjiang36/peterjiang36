@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Use of Async Hooks in Node.js](https://dev.to/omriluz1/advanced-use-of-async-hooks-in-nodejs-2363)
-- [What Is n8n ? Nodemation = n8n](https://dev.to/heetvekariya/what-is-n8n-nodemation-n8n-o7a)
-- [Big Data Fundamentals: big data project](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-project-2b7b)
-- [Big Data Fundamentals: big data](https://dev.to/devopsfundamentals/big-data-fundamentals-big-data-1gcd)
+- [Web Application Penetration Testing: How to Hack Like a Hacker &lpar;Before You Find You&rpar;](https://dev.to/okoye_ndidiamaka_5e3b7d30/web-application-penetration-testing-how-to-hack-like-a-hacker-before-you-find-you-f3j)
+- [End-to-End Workflow Automation with Prismatic.io](https://dev.to/rodgayacao01/end-to-end-workflow-automation-with-prismaticio-5ajh)
+- [Building a Resilient Architecture on AWS](https://dev.to/saydotech/building-a-resilient-architecture-on-aws-lkm)
+- [Fixing &#39;Dynamic Web Module cannot be uninstalled&#39; Error in Spring Boot Maven Project &lpar;Eclipse&rpar;](https://dev.to/pd230/fixing-dynamic-web-module-cannot-be-uninstalled-error-in-spring-boot-maven-project-eclipse-1d35)
 <!-- BLOG-POST-LIST:END -->
 
 
