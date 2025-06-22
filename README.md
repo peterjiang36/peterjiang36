@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Linux and Why is Linux](https://dev.to/gaurav_sharma_sit/what-is-linux-and-why-is-linux-1046)
-- [How do signals in Angular 20 simplify reactive programming for me](https://dev.to/dhanushdevadiga/how-do-signals-in-angular-20-simplify-reactive-programming-for-me-a8d)
-- [Tailwind CSS v4.0: A Complete Game Changer for Modern Web Development](https://dev.to/gouranga-das-khulna/tailwind-css-v40-a-complete-game-changer-for-modern-web-development-4hon)
-- [Python Fundamentals: assert](https://dev.to/devopsfundamentals/python-fundamentals-assert-5f1b)
+- [🧠 Mom Mode – Let Runner H Nag You into a Better Life](https://dev.to/imkarthikeyan/mom-mode-let-runner-h-nag-you-into-a-better-life-34km)
+- [I made a new programming language for kids — real code, real fun!](https://dev.to/the_fox_project/i-made-a-new-programming-language-for-kids-real-code-real-fun-1b8p)
+- [RAG Made Simple: Demonstration and Analysis of Simplicity &lpar;Part 3&rpar;](https://dev.to/sri_harikarthik_909342ac/rag-made-simple-demonstration-and-analysis-of-simplicity-part-3-1cel)
+- [5 Must-Have System Design Cheat Sheets for Interviews](https://dev.to/somadevtoo/5-must-have-system-design-cheat-sheets-for-interviews-a7c)
 <!-- BLOG-POST-LIST:END -->
 
 
