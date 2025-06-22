@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Mom Mode – Let Runner H Nag You into a Better Life](https://dev.to/imkarthikeyan/mom-mode-let-runner-h-nag-you-into-a-better-life-34km)
-- [I made a new programming language for kids — real code, real fun!](https://dev.to/the_fox_project/i-made-a-new-programming-language-for-kids-real-code-real-fun-1b8p)
-- [RAG Made Simple: Demonstration and Analysis of Simplicity &lpar;Part 3&rpar;](https://dev.to/sri_harikarthik_909342ac/rag-made-simple-demonstration-and-analysis-of-simplicity-part-3-1cel)
-- [5 Must-Have System Design Cheat Sheets for Interviews](https://dev.to/somadevtoo/5-must-have-system-design-cheat-sheets-for-interviews-a7c)
+- [🎧 Introducing OpenSpot — Your Gateway to Limitless Music 🎶](https://dev.to/blackhatdevx/introducing-openspot-your-gateway-to-limitless-music-4ob9)
+- [TanStack Router: How to protect routes with an authentication guard](https://dev.to/this-is-learning/tanstack-router-how-to-protect-routes-with-an-authentication-guard-1laj)
+- [The One Productivity Tool You Didn&#39;t Know You Can&#39;t Live Without](https://dev.to/saarshechter/the-one-productivity-tool-you-didnt-know-you-cant-live-without-4378)
+- [A Minimal Yet Scalable React + TypeScript + styled-components Architecture](https://dev.to/blamsa0mine/a-minimal-yet-scalable-react-typescript-styled-components-architecture-106o)
 <!-- BLOG-POST-LIST:END -->
 
 
