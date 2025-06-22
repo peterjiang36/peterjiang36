@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Fundamentals: dpkg-query](https://dev.to/devopsfundamentals/ubuntu-fundamentals-dpkg-query-2kfl)
-- [Networking Fundamentals: Switch](https://dev.to/devopsfundamentals/networking-fundamentals-switch-4702)
-- [Kafka Fundamentals: kafka controller](https://dev.to/devopsfundamentals/kafka-fundamentals-kafka-controller-njm)
-- [GCP Fundamentals: Cloud Translation API](https://dev.to/devopsfundamentals/gcp-fundamentals-cloud-translation-api-j5)
+- [Developer Survey – Share Your Experience with Programming Languages &lpar;SWOT-Based – 5 Minutes&rpar;](https://dev.to/dimas_fahmi1927_bb9dd185/developer-survey-share-your-experience-with-programming-languages-swot-based-5-minutes-4cfj)
+- [I&#39;m doing a research survey on programming languages using SWOT. Takes ~5 mins. Open to devs of all levels! 📋 Survey: https://lnkd.in/gMEQqfYf](https://dev.to/dimas_fahmi1927_bb9dd185/im-doing-a-research-survey-on-programming-languages-using-swot-takes-5-mins-open-to-devs-of-all-481g)
+- [Python Fundamentals: arrays](https://dev.to/devopsfundamentals/python-fundamentals-arrays-4nc6)
+- [NodeJS Fundamentals: tls](https://dev.to/devopsfundamentals/nodejs-fundamentals-tls-37l8)
 <!-- BLOG-POST-LIST:END -->
 
 
