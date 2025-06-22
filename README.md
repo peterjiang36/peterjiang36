@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌌 Enter the Frame: The AquaScript Movies Challenge Begins](https://dev.to/hanzla-baig/enter-the-frame-the-aquascript-movies-challenge-begins-3jdd)
-- [鸿蒙运动项目开发：项目运行环境切换器](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-xiang-mu-yun-xing-huan-jing-qie-huan-qi-147j)
-- [我的 Vibe Coding 的第一个项目](https://dev.to/immerse/wo-de-vibe-coding-de-di-ge-xiang-mu-4cho)
-- [DigitalOcean Fundamentals: API](https://dev.to/devopsfundamentals/digitalocean-fundamentals-api-31hl)
+- [Introducing TypeStrongLab – Learn TypeScript by Building, Exploring, and Tracking Your Progress](https://dev.to/codewithharsh/introducing-typestronglab-learn-typescript-by-building-exploring-and-tracking-your-progress-4g06)
+- [50 Days of Building a Small Language Model from Scratch](https://dev.to/lakhera2015/50-days-of-building-a-small-language-model-from-scratch-k50)
+- [🎮 From Prompt to Play: My Game Made with Amazon Q CLI](https://dev.to/jamesrmoro/from-prompt-to-play-my-game-made-with-amazon-q-cli-3clb)
+- [&quot;From Excitement to Disappointment – My Yesterday’s Story&quot;&lt;&lt;&lt;😃 😞](https://dev.to/chithra_priya/from-excitement-to-disappointment-my-yesterdays-story--a35)
 <!-- BLOG-POST-LIST:END -->
 
 
