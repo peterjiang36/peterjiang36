@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Don&#39;t Need to Create requirements.txt and .venv Manually [UV]](https://dev.to/sajidurshajib/dont-need-to-create-requirementstxt-and-venv-manually-uv-mdd)
-- [💡 What If Using AI Was Your Superpower?](https://dev.to/enrialonso/what-if-using-ai-was-your-superpower-32nh)
-- [Logic App Http Connector with Swagger + C# Function App](https://dev.to/agbagbarao/logic-app-http-connector-with-swagger-c-function-app-10fm)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `27`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-27-1nad)
+- [What is Linux and Why is Linux](https://dev.to/gaurav_sharma_sit/what-is-linux-and-why-is-linux-1046)
+- [How do signals in Angular 20 simplify reactive programming for me](https://dev.to/dhanushdevadiga/how-do-signals-in-angular-20-simplify-reactive-programming-for-me-a8d)
+- [Tailwind CSS v4.0: A Complete Game Changer for Modern Web Development](https://dev.to/gouranga-das-khulna/tailwind-css-v40-a-complete-game-changer-for-modern-web-development-4hon)
+- [Python Fundamentals: assert](https://dev.to/devopsfundamentals/python-fundamentals-assert-5f1b)
 <!-- BLOG-POST-LIST:END -->
 
 
