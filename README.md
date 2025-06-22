@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Survey – Share Your Experience with Programming Languages &lpar;SWOT-Based – 5 Minutes&rpar;](https://dev.to/dimas_fahmi1927_bb9dd185/developer-survey-share-your-experience-with-programming-languages-swot-based-5-minutes-4cfj)
-- [I&#39;m doing a research survey on programming languages using SWOT. Takes ~5 mins. Open to devs of all levels! 📋 Survey: https://lnkd.in/gMEQqfYf](https://dev.to/dimas_fahmi1927_bb9dd185/im-doing-a-research-survey-on-programming-languages-using-swot-takes-5-mins-open-to-devs-of-all-481g)
-- [Python Fundamentals: arrays](https://dev.to/devopsfundamentals/python-fundamentals-arrays-4nc6)
-- [NodeJS Fundamentals: tls](https://dev.to/devopsfundamentals/nodejs-fundamentals-tls-37l8)
+- [📝 Beginner-Friendly Guide &quot;Divide a String Into Groups of Size k&quot; - LeetCode 2138 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-a-string-into-groups-of-size-k-leetcode-2138-c-python--2k80)
+- [The Quiet Gap in How We Message People Today](https://dev.to/supritgandhi/the-quiet-gap-in-how-we-message-people-today-42n5)
+- [Using Cloudinary&#39;s New MCP Server to Scrape Mozarella, Camembert and Parmesan](https://dev.to/jenlooper/using-cloudinarys-new-mcp-server-to-scrape-mozarella-camembert-and-parmesan-1m4b)
+- [Web Mimarisi: Geleceğin Temelleri](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecegin-temelleri-hkh)
 <!-- BLOG-POST-LIST:END -->
 
 
