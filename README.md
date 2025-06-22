@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Fundamentals: CloudWatch Observability Access Manager](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-observability-access-manager-23ia)
+- [React Props and Hooks](https://dev.to/vincod/react-props-and-hooks-770)
+- [Boost Your React App Performance with Lazy Loading](https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046)
 - [Introducing TypeStrongLab – Learn TypeScript by Building, Exploring, and Tracking Your Progress](https://dev.to/codewithharsh/introducing-typestronglab-learn-typescript-by-building-exploring-and-tracking-your-progress-4g06)
-- [50 Days of Building a Small Language Model from Scratch](https://dev.to/lakhera2015/50-days-of-building-a-small-language-model-from-scratch-k50)
-- [🎮 From Prompt to Play: My Game Made with Amazon Q CLI](https://dev.to/jamesrmoro/from-prompt-to-play-my-game-made-with-amazon-q-cli-3clb)
-- [&quot;From Excitement to Disappointment – My Yesterday’s Story&quot;&lt;&lt;&lt;😃 😞](https://dev.to/chithra_priya/from-excitement-to-disappointment-my-yesterdays-story--a35)
 <!-- BLOG-POST-LIST:END -->
 
 
