@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Login Screen with Multiple Options](https://dev.to/bleart_hyseni_96e2f4b936c/login-screen-with-multiple-options-2i86)
-- [I want to buy a gtx 1080ti will it cause me problems if I buy this video card? or is it a good idea?](https://dev.to/spartans300_0d97d850e608b/i-want-to-buy-a-gtx-1080ti-will-it-cause-me-problems-if-i-buy-this-video-card-or-is-it-a-good-idea-3a43)
-- [🚀 DareMe Entry Point &amp; Logo Animation](https://dev.to/bleart_hyseni_96e2f4b936c/dareme-entry-point-logo-animation-3i4o)
-- [Tried Learning Data Analytics the Hard Way — Here’s What Finally Worked for Me](https://dev.to/vaibhav_tyagi_22/tried-learning-data-analytics-the-hard-way-heres-what-finally-worked-for-me-522o)
+- [🤝 Team Collaboration via Google Meet](https://dev.to/bleart_hyseni_96e2f4b936c/team-collaboration-via-google-meet-4nod)
+- [💬 Comments on a Dare](https://dev.to/bleart_hyseni_96e2f4b936c/comments-on-a-dare-5dda)
+- [Redefining DevOps: A Unified Approach to System and Application Engineering](https://dev.to/srinivasamcjf/redefining-devops-a-unified-approach-to-system-and-application-engineering-3ipd)
+- [✔️ My Accepted and Declined Dares](https://dev.to/bleart_hyseni_96e2f4b936c/my-accepted-and-declined-dares-148h)
 <!-- BLOG-POST-LIST:END -->
 
 
