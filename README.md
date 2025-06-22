@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤝 Team Collaboration via Google Meet](https://dev.to/bleart_hyseni_96e2f4b936c/team-collaboration-via-google-meet-4nod)
-- [💬 Comments on a Dare](https://dev.to/bleart_hyseni_96e2f4b936c/comments-on-a-dare-5dda)
-- [Redefining DevOps: A Unified Approach to System and Application Engineering](https://dev.to/srinivasamcjf/redefining-devops-a-unified-approach-to-system-and-application-engineering-3ipd)
-- [✔️ My Accepted and Declined Dares](https://dev.to/bleart_hyseni_96e2f4b936c/my-accepted-and-declined-dares-148h)
+- [FitFlow - Personalized Fitness Platform](https://dev.to/ai_agi/fitflow-personalized-fitness-platform-3mef)
+- [🔥 Exploring `@HostBinding&lpar;&rpar;` in Angular -- Decorator series -- 3](https://dev.to/vetriselvan_11/exploring-hostbinding-in-angular-decorator-series-3-44p6)
+- [Quantum gravity](https://dev.to/tyler_vanosdol_9c7f2e919/quantum-gravity-289p)
+- [[Boost]](https://dev.to/oludamilola/-1led)
 <!-- BLOG-POST-LIST:END -->
 
 
