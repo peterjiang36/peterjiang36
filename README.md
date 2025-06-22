@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Beginner-Friendly Guide &quot;Divide a String Into Groups of Size k&quot; - LeetCode 2138 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-a-string-into-groups-of-size-k-leetcode-2138-c-python--2k80)
-- [The Quiet Gap in How We Message People Today](https://dev.to/supritgandhi/the-quiet-gap-in-how-we-message-people-today-42n5)
-- [Using Cloudinary&#39;s New MCP Server to Scrape Mozarella, Camembert and Parmesan](https://dev.to/jenlooper/using-cloudinarys-new-mcp-server-to-scrape-mozarella-camembert-and-parmesan-1m4b)
-- [Web Mimarisi: Geleceğin Temelleri](https://dev.to/yunus_emremert_1756b71d3/web-mimarisi-gelecegin-temelleri-hkh)
+- [🌌 Enter the Frame: The AquaScript Movies Challenge Begins](https://dev.to/hanzla-baig/enter-the-frame-the-aquascript-movies-challenge-begins-3jdd)
+- [鸿蒙运动项目开发：项目运行环境切换器](https://dev.to/smartbackme/hong-meng-yun-dong-xiang-mu-kai-fa-xiang-mu-yun-xing-huan-jing-qie-huan-qi-147j)
+- [我的 Vibe Coding 的第一个项目](https://dev.to/immerse/wo-de-vibe-coding-de-di-ge-xiang-mu-4cho)
+- [DigitalOcean Fundamentals: API](https://dev.to/devopsfundamentals/digitalocean-fundamentals-api-31hl)
 <!-- BLOG-POST-LIST:END -->
 
 
