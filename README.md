@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Download Smarter: Using Colab + Google Drive to Bypass Slow Direct Downloads](https://dev.to/rushier/download-smarter-using-colab-google-drive-to-bypass-slow-direct-downloads-2e7a)
-- [UI/UX - デザインの基本的な原則](https://dev.to/nabbisen/uiux-dezainnoji-ben-de-nayuan-ze-lf2)
-- [Automating Ghost CMS + MariaDB with Ansible &lpar;the Smart Way&rpar;](https://dev.to/lovestaco/automating-ghost-cms-mariadb-with-ansible-the-smart-way-33bk)
-- [Building a Web-Based Riddle Game with Amazon Q CLI: My Journey with &#39;Riddle Me This&#39;](https://dev.to/yusraliaqat/building-a-web-based-riddle-game-with-amazon-q-cli-my-journey-with-riddle-me-this-588f)
+- [WWDC 2025 - AdAttributionKit iOS 18.4: Essential Features for Modern App Attribution](https://dev.to/arshtechpro/wwdc-2025-adattributionkit-ios-184-essential-features-for-modern-app-attribution-2h5c)
+- [Making a server believe you&#39;re from somewhere else](https://dev.to/mikotian/making-a-server-believe-youre-from-somewhere-else-4n0h)
+- [Creating Dares – Our Custom Challenge Input](https://dev.to/fatlindosmanii/creating-dares-our-custom-challenge-input-m7e)
+- [🕸️ Web Scraping in Python: A Practical Guide for Data Scientists](https://dev.to/vikas_gulia/web-scraping-in-python-a-practical-guide-for-data-scientists-4012)
 <!-- BLOG-POST-LIST:END -->
 
 
