@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tunnelmole: The Open Source ngrok Alternative Developers Need](https://dev.to/robbiecahill/tunnelmole-the-open-source-ngrok-alternative-developers-need-4a0c)
-- [Step-by-Step Guide to Setting OIDC With Terraform for GitHub Actions Workflows with AWS](https://dev.to/aws-builders/step-by-step-guide-to-setting-oidc-for-github-actions-workflows-with-aws-4ogn)
-- [Fixing Microservice Communication: From Fragile Calls to Resilient Systems](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-communication-from-fragile-calls-to-resilient-systems-2c17)
-- [Untitled](https://dev.to/sekak_seddik_6b74e689dd4c/untitled-2hi2)
+- [🐍 Don&#39;t Need to Create requirements.txt and .venv Manually [UV]](https://dev.to/sajidurshajib/dont-need-to-create-requirementstxt-and-venv-manually-uv-mdd)
+- [💡 What If Using AI Was Your Superpower?](https://dev.to/enrialonso/what-if-using-ai-was-your-superpower-32nh)
+- [Logic App Http Connector with Swagger + C# Function App](https://dev.to/agbagbarao/logic-app-http-connector-with-swagger-c-function-app-10fm)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `27`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-27-1nad)
 <!-- BLOG-POST-LIST:END -->
 
 
