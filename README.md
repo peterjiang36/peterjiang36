@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Fundamentals: CloudWatch Observability Access Manager](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-observability-access-manager-23ia)
-- [React Props and Hooks](https://dev.to/vincod/react-props-and-hooks-770)
-- [Boost Your React App Performance with Lazy Loading](https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046)
-- [Introducing TypeStrongLab – Learn TypeScript by Building, Exploring, and Tracking Your Progress](https://dev.to/codewithharsh/introducing-typestronglab-learn-typescript-by-building-exploring-and-tracking-your-progress-4g06)
+- [A Sunday Reflection: Coding Apps &amp; New Opportunities](https://dev.to/dilip_kumardk_b41b9418/a-sunday-reflection-coding-apps-new-opportunities-22hp)
+- [Higher Order Functions in JavaScript – Map, Filter, Reduce Deep Dive](https://dev.to/mechcloud_academy/higher-order-functions-in-javascript-map-filter-reduce-deep-dive-3boi)
+- [Unlocking the Power of Functional Programming: Easier Solutions to Complex Problems](https://dev.to/adityabhuyan/unlocking-the-power-of-functional-programming-easier-solutions-to-complex-problems-1je7)
+- [Transitioning from Assembly to C: Challenges and Solutions for Programmers Effectively](https://dev.to/adityabhuyan/transitioning-from-assembly-to-c-challenges-and-solutions-for-programmers-effectively-11al)
 <!-- BLOG-POST-LIST:END -->
 
 
