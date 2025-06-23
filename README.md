@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
-- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
-- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
-- [Getting Started with Infracost: Estimating Cloud Costs](https://dev.to/aws-builders/getting-started-with-infracost-estimating-cloud-costs-an4)
+- [Supercharge LLMs with LangChain&lpar;Part-1&rpar;](https://dev.to/dharmendra_singh_786/supercharge-llms-with-langchainpart-1-506)
+- [Day 7 of Building Ultimate Gamified Notion Developer&#39;s Hub](https://dev.to/lux_seminare/day-7-of-building-ultimate-gamified-notion-developers-hub-592o)
+- [My friend quit after a performance review. Here&#39;s why.](https://dev.to/cryptosandy/my-friend-quit-after-a-performance-review-heres-why-28l9)
+- [Do you need to be a &#39;rockstar&#39; to get promoted?](https://dev.to/cryptosandy/do-you-need-to-be-a-rockstar-to-get-promoted-28lm)
 <!-- BLOG-POST-LIST:END -->
 
 
