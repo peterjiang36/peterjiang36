@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate a Lectora Course](https://dev.to/elenahartmann/how-to-translate-a-lectora-course-142a)
-- [Building a Scalable HTML5 Game Portal: Lessons from Rogue Game Labs](https://dev.to/mufeng/building-a-scalable-html5-game-portal-lessons-from-rogue-game-labs-1h82)
-- [The Hidden Cost of Test Inheritance](https://dev.to/pomidoroshev/the-hidden-cost-of-test-inheritance-1k5o)
-- [I Built a Chrome Extension to Save ChatGPT Chats — Here’s How and Why](https://dev.to/pratibha_mehta_c1171ca7f0/i-built-a-chrome-extension-to-save-chatgpt-chats-heres-how-and-why-4pnm)
+- [Building Scalable Modular AWS Infrastructure with Terraform &lpar;IaC&rpar;](https://dev.to/mustkhim_inamdar/building-scalable-modular-aws-infrastructure-with-terraform-iac-340a)
+- [Easy Steps to Clear Chrome Net Internals DNS Error on Windows, macOS, and Linux](https://dev.to/tanya_k_b7e02af0edda9ff27/easy-steps-to-clear-chrome-net-internals-dns-error-on-windows-macos-and-linux-6ha)
+- [YAML Learning Guide - Complete Tutorial](https://dev.to/wymdev/yaml-learning-guide-complete-tutorial-3nlc)
+- [Gold badge in Java](https://dev.to/hirushi_nethmini_41168bb8/gold-badge-in-java-1nok)
 <!-- BLOG-POST-LIST:END -->
 
 
