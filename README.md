@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[📝LeetCode #242] Valid Anagram](https://dev.to/shine7on/leetcode-242-valid-anagram-48on)
-- [[📝LeetCode #383] Ransom Note](https://dev.to/shine7on/leetcode-383-ransom-note-n9h)
-- [🚀CSS Secrets That Will Change How You Code Forever](https://dev.to/genildocs/css-secrets-that-will-change-how-you-code-forever-2bij)
-- [Technical Frontend Deep Dives for Web3 Developers](https://dev.to/jeffgat/technical-frontend-deep-dives-for-web3-developers-3elh)
+- [Modern Web Mimarisi: Kapsamlı Rehber](https://dev.to/yunus_emremert_1756b71d3/modern-web-mimarisi-kapsamli-rehber-5bf4)
+- [AWS Fundamentals: Dms](https://dev.to/devopsfundamentals/aws-fundamentals-dms-2ed6)
+- [How Long Will I Keep Doing This?](https://dev.to/sconderg/how-long-will-i-keep-doing-this-574p)
+- [The application of SwiperAnimationMode introduced in HarmonyOS API 15](https://dev.to/waylau521/the-application-of-swiperanimationmode-introduced-in-harmonyos-api-15-1f1h)
 <!-- BLOG-POST-LIST:END -->
 
 
