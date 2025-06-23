@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add ID Document Scanning to Your App with DOCSCAN - No SDK Required](https://dev.to/unqlite_db/add-id-document-scanning-to-your-app-with-docscan-no-sdk-required-1bf1)
-- [Building Amplify: A Multi-Agent Content Engine with Google Agents and Spring Boot](https://dev.to/karthik_tiwari_eab6e1276a/building-amplify-a-multi-agent-content-engine-with-google-agents-and-spring-boot-5ga7)
-- [Creating Nested Routes in Gin](https://dev.to/aabhassao/creating-nested-routes-in-gin-46lg)
-- [What are your goals for the week? #132](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-132-4acl)
+- [Ashkan Rajaee’s story is a clear example of what it means to lead with both purpose and precision during uncertain times.](https://dev.to/alexbenshoof/ashkan-rajaees-story-is-a-clear-example-of-what-it-means-to-lead-with-both-purpose-and-precision-2bfg)
+- [MindsDB Made It Easy, I Made It Hard: Building an AI-Powered Knowledge Map](https://dev.to/priyanshuverma/mindsdb-made-it-easy-i-made-it-hard-building-an-ai-powered-knowledge-map-d0g)
+- [The Best ML Model Archiving Tool: Why Jozu and KitOps Are Built for the Job](https://dev.to/jozu/the-best-ml-model-archiving-tool-why-jozu-and-kitops-are-built-for-the-job-31op)
+- [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
 <!-- BLOG-POST-LIST:END -->
 
 
