@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is an API? And Why Data Architecture Depends on Them](https://dev.to/alexmercedcoder/what-is-an-api-and-why-data-architecture-depends-on-them-53db)
-- [Quarkus 3 application on AWS Lambda- Part 6 Optimization strategies for the cold and warm starts](https://dev.to/aws-heroes/quarkus-3-application-on-aws-lambda-part-6-optimization-strategies-for-the-cold-and-warm-starts-588m)
-- [Engenharia de Prompt: A Arte de Conversar com a Inteligência Artificial no Ambiente de Negócio](https://dev.to/vinicius3w/engenharia-de-prompt-a-arte-de-conversar-com-a-inteligencia-artificial-no-ambiente-de-negocio-3mfj)
-- [The Role of AI and Compliance in Modern Risk Management: ShowMeCon 2025](https://dev.to/gitguardian/the-role-of-ai-and-compliance-in-modern-risk-management-showmecon-2025-22m)
+- [Add ID Document Scanning to Your App with DOCSCAN - No SDK Required](https://dev.to/unqlite_db/add-id-document-scanning-to-your-app-with-docscan-no-sdk-required-1bf1)
+- [Building Amplify: A Multi-Agent Content Engine with Google Agents and Spring Boot](https://dev.to/karthik_tiwari_eab6e1276a/building-amplify-a-multi-agent-content-engine-with-google-agents-and-spring-boot-5ga7)
+- [Creating Nested Routes in Gin](https://dev.to/aabhassao/creating-nested-routes-in-gin-46lg)
+- [What are your goals for the week? #132](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-132-4acl)
 <!-- BLOG-POST-LIST:END -->
 
 
