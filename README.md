@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nixopus: Simplifying VPS Management](https://dev.to/shravan20/nixopus-simplifying-vps-management-4g0f)
-- [Adding Command alias in your Gitbash](https://dev.to/ashishsimplecoder/adding-command-alias-in-your-gitbash-4op6)
-- [A Beginner DBA&#39;s Guide to SSRS Reports](https://dev.to/michael-gokey/a-beginner-dbas-guide-to-ssrs-reports-24lh)
-- [🛒 I Built an Amazon Price Tracker to Monitor Multiple Products and Get Price Drop Alerts](https://dev.to/mustapha_sahli_95f2412eb8/i-built-an-amazon-price-tracker-to-monitor-multiple-products-and-get-price-drop-alerts-20nd)
+- [The David vs. Goliath Playbook: How Small Teams Can Build Big Tech-Caliber AI Customer Experiences](https://dev.to/sonnia_okoye/the-david-vs-goliath-playbook-how-small-teams-can-build-big-tech-caliber-ai-customer-experiences-24p3)
+- [Test Drive Before You Buy: Your Guide to AI Code Assistant Trials in 2025](https://dev.to/bekahhw/test-drive-before-you-buy-your-guide-to-ai-code-assistant-trials-in-2025-14pk)
+- [🦀 Understanding Lifetimes, Traits, Enums, and Pattern Matching in Rust](https://dev.to/nyagooh/understanding-lifetimes-traits-enums-and-pattern-matching-in-rust-2dc7)
+- [How I made a Multi-Agent AI Sidebar with Electron and Svelte](https://dev.to/manuelernestog/how-i-made-a-multi-agent-ai-sidebar-with-electron-and-svelte-2044)
 <!-- BLOG-POST-LIST:END -->
 
 
