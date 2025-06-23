@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generación automática de CHANGELOG con git-cliff](https://dev.to/alfreedom/generacion-automatica-de-changelog-con-git-cliff-4d92)
-- [Need a SaaS MVP in less than a month? WE&#39;LL MAKE IT HAPPEN](https://dev.to/f4k3r22/need-a-saas-mvp-in-less-than-a-month-well-make-it-happen-4ka8)
-- [Destructuring Arrays](https://dev.to/vincod/destructuring-arrays-431b)
-- [One of the hardest leetcode Problem 2081, so easily explained #lovedit](https://dev.to/thedeepseeker/one-of-the-hardest-leetcode-problem-2081-so-easily-explained-lovedit-4lon)
+- [Imitation Box Horse - Homepage Activity Configuration &lpar;5&rpar;](https://dev.to/whl15290959515/imitation-box-horse-homepage-activity-configuration-5-3pn)
+- [Imitation Box Horse - Home Module Configuration &lpar;4&rpar;](https://dev.to/whl15290959515/imitation-box-horse-home-module-configuration-4-21oi)
+- [Clean Architecture in Go: A Practical Guide with go-clean-arch](https://dev.to/leapcell/clean-architecture-in-go-a-practical-guide-with-go-clean-arch-51h7)
+- [Cross-Language Model Inference Without Python: An Engineering Perspective](https://dev.to/e_b680bbca20c348/cross-language-model-inference-without-python-an-engineering-perspective-1i12)
 <!-- BLOG-POST-LIST:END -->
 
 
