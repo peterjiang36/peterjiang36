@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashkan Rajaee’s story is a clear example of what it means to lead with both purpose and precision during uncertain times.](https://dev.to/alexbenshoof/ashkan-rajaees-story-is-a-clear-example-of-what-it-means-to-lead-with-both-purpose-and-precision-2bfg)
-- [MindsDB Made It Easy, I Made It Hard: Building an AI-Powered Knowledge Map](https://dev.to/priyanshuverma/mindsdb-made-it-easy-i-made-it-hard-building-an-ai-powered-knowledge-map-d0g)
-- [The Best ML Model Archiving Tool: Why Jozu and KitOps Are Built for the Job](https://dev.to/jozu/the-best-ml-model-archiving-tool-why-jozu-and-kitops-are-built-for-the-job-31op)
-- [From Rejection to Redemption: How I Landed My SRE Role](https://dev.to/branden-hernandez/from-rejection-to-redemption-how-i-landed-my-sre-role-3p2g)
+- [Nixopus: Simplifying VPS Management](https://dev.to/shravan20/nixopus-simplifying-vps-management-4g0f)
+- [Adding Command alias in your Gitbash](https://dev.to/ashishsimplecoder/adding-command-alias-in-your-gitbash-4op6)
+- [A Beginner DBA&#39;s Guide to SSRS Reports](https://dev.to/michael-gokey/a-beginner-dbas-guide-to-ssrs-reports-24lh)
+- [🛒 I Built an Amazon Price Tracker to Monitor Multiple Products and Get Price Drop Alerts](https://dev.to/mustapha_sahli_95f2412eb8/i-built-an-amazon-price-tracker-to-monitor-multiple-products-and-get-price-drop-alerts-20nd)
 <!-- BLOG-POST-LIST:END -->
 
 
