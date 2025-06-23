@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Imitation Box Horse - Homepage Activity Configuration &lpar;5&rpar;](https://dev.to/whl15290959515/imitation-box-horse-homepage-activity-configuration-5-3pn)
-- [Imitation Box Horse - Home Module Configuration &lpar;4&rpar;](https://dev.to/whl15290959515/imitation-box-horse-home-module-configuration-4-21oi)
-- [Clean Architecture in Go: A Practical Guide with go-clean-arch](https://dev.to/leapcell/clean-architecture-in-go-a-practical-guide-with-go-clean-arch-51h7)
-- [Cross-Language Model Inference Without Python: An Engineering Perspective](https://dev.to/e_b680bbca20c348/cross-language-model-inference-without-python-an-engineering-perspective-1i12)
+- [Built a Legal PDF Question-Answering Tool with AI &lpar;RAG + Streamlit&rpar;](https://dev.to/hassanahmedai/built-a-legal-pdf-question-answering-tool-with-ai-rag-streamlit-2of1)
+- [From Gantt Charts to Agile Sprints: Adapting Maritime Project Rigor to Software Delivery](https://dev.to/cyril_ajayi_67c25fb8beea1/from-gantt-charts-to-agile-sprints-adapting-maritime-project-rigor-to-software-delivery-4c0p)
+- [🔐 Day 12 of Java Mastery: Logical Operators in Java](https://dev.to/spyde/day-12-of-java-mastery-logical-operators-in-java-27nm)
+- [Smarter Frontends with AI: Building Intelligent UI Features in 2025](https://dev.to/melvinprince/smarter-frontends-with-ai-building-intelligent-ui-features-in-2025-i5l)
 <!-- BLOG-POST-LIST:END -->
 
 
