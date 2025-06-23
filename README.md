@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Web Mimarisi: Kapsamlı Rehber](https://dev.to/yunus_emremert_1756b71d3/modern-web-mimarisi-kapsamli-rehber-5bf4)
-- [AWS Fundamentals: Dms](https://dev.to/devopsfundamentals/aws-fundamentals-dms-2ed6)
-- [How Long Will I Keep Doing This?](https://dev.to/sconderg/how-long-will-i-keep-doing-this-574p)
-- [The application of SwiperAnimationMode introduced in HarmonyOS API 15](https://dev.to/waylau521/the-application-of-swiperanimationmode-introduced-in-harmonyos-api-15-1f1h)
+- [Generación automática de CHANGELOG con git-cliff](https://dev.to/alfreedom/generacion-automatica-de-changelog-con-git-cliff-4d92)
+- [Need a SaaS MVP in less than a month? WE&#39;LL MAKE IT HAPPEN](https://dev.to/f4k3r22/need-a-saas-mvp-in-less-than-a-month-well-make-it-happen-4ka8)
+- [Destructuring Arrays](https://dev.to/vincod/destructuring-arrays-431b)
+- [One of the hardest leetcode Problem 2081, so easily explained #lovedit](https://dev.to/thedeepseeker/one-of-the-hardest-leetcode-problem-2081-so-easily-explained-lovedit-4lon)
 <!-- BLOG-POST-LIST:END -->
 
 
