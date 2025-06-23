@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Medical RAG Research with txtai](https://dev.to/neuml/medical-rag-research-with-txtai-2b35)
-- [Quando foi que a gente parou de fazer perguntas?](https://dev.to/analaura/quando-foi-que-a-gente-parou-de-fazer-perguntas-45hc)
-- [springboot.firststeps&lpar;P1&rpar;](https://dev.to/learnspringtools/springbootfirststepsp1-56na)
-- [springboot.firststeps&lpar;P2&rpar;](https://dev.to/learnspringtools/springbootfirststepsp2-4o52)
+- [[AWS]Hands-on: Building a Simple Web Server with CodeBuild + CodeDeploy &lpar;Sphinx&rpar;](https://dev.to/masakiokuda/awshands-on-building-a-simple-web-server-with-codebuild-codedeploy-sphinx-3h7b)
+- [Build a local chatbot with React, openAI, and indexed DB &lpar;using Dexie.js&rpar;](https://dev.to/angeldavid218/build-a-local-chatbot-with-react-openai-and-indexed-db-using-dexiejs-16oo)
+- [WWDC 2025 - Get to know the ManagedApp Framework](https://dev.to/arshtechpro/wwdc-2025-get-to-know-the-managedapp-framework-17do)
+- [WWDC 2025 - SF Symbols 7: Advanced Animation and Rendering Techniques](https://dev.to/arshtechpro/wwdc-2025-sf-symbols-7-advanced-animation-and-rendering-techniques-f7m)
 <!-- BLOG-POST-LIST:END -->
 
 
