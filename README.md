@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Modular AWS Infrastructure with Terraform &lpar;IaC&rpar;](https://dev.to/mustkhim_inamdar/building-scalable-modular-aws-infrastructure-with-terraform-iac-340a)
-- [Easy Steps to Clear Chrome Net Internals DNS Error on Windows, macOS, and Linux](https://dev.to/tanya_k_b7e02af0edda9ff27/easy-steps-to-clear-chrome-net-internals-dns-error-on-windows-macos-and-linux-6ha)
-- [YAML Learning Guide - Complete Tutorial](https://dev.to/wymdev/yaml-learning-guide-complete-tutorial-3nlc)
-- [Gold badge in Java](https://dev.to/hirushi_nethmini_41168bb8/gold-badge-in-java-1nok)
+- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
+- [Implementing a Simple Static File Server in a Lightweight Python Web Framework](https://dev.to/hexshift/implementing-a-simple-static-file-server-in-a-lightweight-python-web-framework-3f21)
+- [Building Middleware Support in a Lightweight Python Web Framework](https://dev.to/hexshift/building-middleware-support-in-a-lightweight-python-web-framework-4cbl)
+- [Getting Started with Infracost: Estimating Cloud Costs](https://dev.to/aws-builders/getting-started-with-infracost-estimating-cloud-costs-an4)
 <!-- BLOG-POST-LIST:END -->
 
 
