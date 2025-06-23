@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A rare blend of insight and empathy. This piece gets what it feels like to build from the ground up.](https://dev.to/matteotech/a-rare-blend-of-insight-and-empathy-this-piece-gets-what-it-feels-like-to-build-from-the-ground-up-4o7l)
-- [Day 16/180: Meta Tags &amp; SEO Fundamentals for Frontend Developers](https://dev.to/code_2/day-16180-meta-tags-seo-fundamentals-for-frontend-developers-37ia)
-- [Singleton with IIFE for state management in JavaScript](https://dev.to/damandeep_singh_7c4698e97/singleton-with-iife-for-state-management-in-javascript-5cnl)
-- [Ashkan Rajaee offers a masterclass in building trust, staying grounded, and leading through unknowns.](https://dev.to/matteotech/ashkan-rajaee-offers-a-masterclass-in-building-trust-staying-grounded-and-leading-through-4n12)
+- [UI/UX - 大規模な CSS への対応](https://dev.to/nabbisen/uiux-da-gui-mo-na-css-henodui-ying-3563)
+- [Text Compressing Introduction - Huffman Coding in Swift](https://dev.to/mia_koring_962598adda4663/text-compressing-introduction-huffman-coding-in-swift-1o97)
+- [CyberGuard AI](https://dev.to/fangmbeng/cyberguard-ai-107i)
+- [Build a sanctions check in 10 minutes with SanctionSnap API](https://dev.to/sigurdurb/build-a-sanctions-check-in-10-minutes-with-sanctionsnap-api-4moh)
 <!-- BLOG-POST-LIST:END -->
 
 
