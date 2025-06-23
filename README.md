@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Website to track GitHub releases across several repositories](https://dev.to/feature_delivery_17318efb/website-to-track-github-releases-across-several-repositories-5dk6)
-- [☕️ Monday Motivation: Survive Monday in One Piece](https://dev.to/sroy8091/monday-motivation-survive-monday-in-one-piece-82p)
-- [🧪 Postman Reporting Just Got a Makeover! 🚀](https://dev.to/fidelanders/postman-reporting-just-got-a-makeover-1lpp)
-- [Level Up Your Dev Workflow: Diving Deep into Version Control with Meta](https://dev.to/jay1031/level-up-your-dev-workflow-diving-deep-into-version-control-with-meta-16jl)
+- [Understanding Docker: part 49 – Docker Compose &lpar;2025&rpar;](https://dev.to/aurelievache/understanding-docker-part-49-docker-compose-2025-5fdd)
+- [[Boost]](https://dev.to/senior-debugger/-1i93)
+- [Father&#39;s Day - CSS Art](https://dev.to/devabdul/fathers-day-css-art-3kf9)
+- [CQRS Pattern in Nest.js](https://dev.to/jacobandrewsky/cqrs-pattern-in-nestjs-4n3p)
 <!-- BLOG-POST-LIST:END -->
 
 
