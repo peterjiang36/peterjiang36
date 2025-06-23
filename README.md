@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a Legal PDF Question-Answering Tool with AI &lpar;RAG + Streamlit&rpar;](https://dev.to/hassanahmedai/built-a-legal-pdf-question-answering-tool-with-ai-rag-streamlit-2of1)
-- [From Gantt Charts to Agile Sprints: Adapting Maritime Project Rigor to Software Delivery](https://dev.to/cyril_ajayi_67c25fb8beea1/from-gantt-charts-to-agile-sprints-adapting-maritime-project-rigor-to-software-delivery-4c0p)
-- [🔐 Day 12 of Java Mastery: Logical Operators in Java](https://dev.to/spyde/day-12-of-java-mastery-logical-operators-in-java-27nm)
-- [Smarter Frontends with AI: Building Intelligent UI Features in 2025](https://dev.to/melvinprince/smarter-frontends-with-ai-building-intelligent-ui-features-in-2025-i5l)
+- [How to Know When It&#39;s Time to Leave a Job &lpar;In 8 Signs&rpar;](https://dev.to/canro91/how-to-know-when-its-time-to-leave-a-job-in-8-signs-i85)
+- [Deep Work vs Daily Standups: The Productivity Battle Every Dev Team Faces](https://dev.to/teamcamp/deep-work-vs-daily-standups-the-productivity-battle-every-dev-team-faces-4j5i)
+- [SQL JOIN Types and Differences Explained](https://dev.to/freyasky/sql-join-types-and-differences-explained-558k)
+- [🏛️ Stop Writing Brittle Tests: Your Blueprint for a Scalable TypeScript POM](https://dev.to/idavidov13/stop-writing-brittle-tests-your-blueprint-for-a-scalable-typescript-pom-3jm0)
 <!-- BLOG-POST-LIST:END -->
 
 
