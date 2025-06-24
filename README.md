@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Try VeltoPHP | Lightweight and simple RVC PHP Framework](https://dev.to/veltophp/try-veltophp-lightweight-and-simple-rvc-php-framework-1kcd)
-- [GCP Fundamentals: Contact Center AI Platform API](https://dev.to/devopsfundamentals/gcp-fundamentals-contact-center-ai-platform-api-5ld)
-- [A New Lightweight Framework for AI Training: Easy, Modular, Ray-Free](https://dev.to/labubu_donna/a-new-lightweight-framework-for-ai-training-easy-modular-ray-free-5gdm)
-- [Using a database in the Cangjie development language](https://dev.to/youlanjihua/using-a-database-in-the-cangjie-development-language-32pl)
+- [Implementing &quot;Suspense&quot; with a simple Observable](https://dev.to/dariomannu/implementing-suspense-with-a-simple-observable-5ag2)
+- [🚀 Why Linux is the Backbone of DevOps](https://dev.to/sreekanth_kuruba_91721e5d/why-linux-is-the-backbone-of-devops-1dj7)
+- [Terraform Fundamentals: CloudWatch RUM](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-rum-4k6g)
+- [Using 4 AI Tools to Build a Real Project &lpar;Claude + Cursor + Windsurf + VS Code&rpar;](https://dev.to/agape_aurora_4b5303956dc6/using-4-ai-tools-to-build-a-real-project-claude-cursor-windsurf-vs-code-56ih)
 <!-- BLOG-POST-LIST:END -->
 
 
