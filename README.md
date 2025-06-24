@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Past the Robots](https://dev.to/thetechpreneur/get-past-the-robots-3d16)
-- [Machine Learning](https://dev.to/prashant_rajpoot_0e51a2b4/machine-learning-md0)
-- [Resiliency Patterns](https://dev.to/sirivarma/resiliency-patterns-3hcl)
-- [From Query to Intelligence: Why AI Search is the Missing Link in Digital Transformation](https://dev.to/lunar_lens_edge/from-query-to-intelligence-why-ai-search-is-the-missing-link-in-digital-transformation-id1)
+- [Job Application Tip for Node.js Developers](https://dev.to/sonmusui/job-application-tip-for-nodejs-developers-70o)
+- [LangChain vs. TLRAG: A Comparative Analysis for Investors](https://dev.to/martin-powder/langchain-vs-tlrag-a-comparative-analysis-for-investors-56aj)
+- [I am a not good enough to become a Dev??](https://dev.to/xavier_belchior_83948f458/i-am-a-not-good-enough-to-become-a-dev-5gga)
+- [How to Use SafePoint Cyber Threat Intelligence API](https://dev.to/carrie_luo1/how-to-use-safepoint-cyber-threat-intelligence-api-26f4)
 <!-- BLOG-POST-LIST:END -->
 
 
