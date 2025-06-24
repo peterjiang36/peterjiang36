@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transition to a Robust Infrastructure - Terraform and ArgoCD in Action](https://dev.to/neomi/transition-to-a-robust-infrastructure-terraform-and-argocd-in-action-gnc)
-- [Umemura Farm Website – Devlog #15: Building the Contact Page: Day 1 Progress](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-15-building-the-contact-page-day-1-progress-5bko)
-- [Harmony-Free Hengong Loading Frame](https://dev.to/rogueybj/harmony-free-hengong-loading-frame-560j)
-- [🚀 How Web3 Partnerships Like WhiteBIT 🤝 Juventus Are More Than Marketing](https://dev.to/daniel_crypto/how-web3-partnerships-like-whitebit-juventus-are-more-than-marketing-1h33)
+- [AI vs. AGI: Key Differences and Why It Matters and What You Need to Know](https://dev.to/abuhorairatarif/ai-vs-agi-key-differences-and-why-it-matters-and-what-you-need-to-know-n9k)
+- [Top 6 On-Premises API Management Tools for 2025: The Developer’s Guide](https://dev.to/apilover/top-6-on-premises-api-management-tools-for-2025-the-developers-guide-1lbl)
+- [Vibe Data Analysis: Natural Language-Driven Data Insights](https://dev.to/powerdrill_ai/vibe-data-analysis-natural-language-driven-data-insights-7ce)
+- [Designing Incentives That Scale: How Broker Models Empower DeFi Platforms Beyond Tokenomics](https://dev.to/klimd1389/designing-incentives-that-scale-how-broker-models-empower-defi-platforms-beyond-tokenomics-mil)
 <!-- BLOG-POST-LIST:END -->
 
 
