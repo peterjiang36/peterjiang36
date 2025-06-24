@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I learned today: Props drilling, UseContext &lpar;in Hooks&rpar; &amp; discuss about yesterday&#39;s interview questions...](https://dev.to/chithra_priya/i-learned-today-props-drilling-usecontext-in-hooks-discuss-about-yesterdays-interview-431l)
-- [Workspace Developer Tools VSCode Extension](https://dev.to/googleworkspace/workspace-developer-tools-vscode-extension-5dhm)
-- [How to Install OmniGen2: The Any-to-Any Model that can do it all](https://dev.to/nodeshiftcloud/how-to-install-omnigen2-the-any-to-any-model-that-can-do-it-all-586j)
-- [Criação e configuração de wallets com OraPKI &lpar;sem precisar do Oracle Client Full&rpar;](https://dev.to/valter_filho_24448308265f/criacao-e-configuracao-de-wallets-com-orapki-sem-precisar-do-oracle-client-full-2ikf)
+- [Model Mondays S2E02 - AMA on Model Context Protocol](https://dev.to/azure/model-mondays-s2e02-ama-on-model-context-protocol-e9i)
+- [🧱 𝗙𝗿𝗼𝗺 𝗠𝗼𝗻𝗼𝗹𝗶𝘁𝗵 𝘁𝗼 𝗠𝗼𝗱𝘂𝗹𝗮𝗿 — 𝗘𝘅𝘁𝗲𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗶𝗻 .𝗡𝗘𝗧 𝟭𝟬](https://dev.to/yaseer_arafat/--16on)
+- [UPI কি? UPI কিভাবে কাজ করে?](https://dev.to/rironib/upi-ki-upi-kibhaabe-kaaj-kre-5fac)
+- [How to Effortlessly Clean and Manage Disk Space on Linux Servers with One Script](https://dev.to/yousufbasir/how-to-effortlessly-clean-and-manage-disk-space-on-linux-servers-with-one-script-538o)
 <!-- BLOG-POST-LIST:END -->
 
 
