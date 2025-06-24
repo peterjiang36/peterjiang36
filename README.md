@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2025 - iOS Power Optimization: Advanced Profiling Techniques](https://dev.to/arshtechpro/wwdc-2025-ios-power-optimization-advanced-profiling-techniques-that-actually-work-4a10)
-- [Zero ETL com Amazon Aurora PostgreSQL e Amazon Redshift: simplicidade, escalabilidade e dados em quase tempo real](https://dev.to/geoleal/zero-etl-com-amazon-aurora-postgresql-e-amazon-redshift-simplicidade-escalabilidade-e-dados-em-34bi)
-- [AI Memories, PHP Reachability, CVE Policies, and Benchmarking](https://dev.to/semgrep/ai-memories-php-reachability-cve-policies-and-benchmarking-3naj)
-- [Installing key components to kickstart a 20-day bootcamp for django](https://dev.to/almasiy/installing-key-components-to-kickstart-a-20-day-bootcamp-for-django-1d3a)
+- [Human Learning Is Dead—Long Live Human Meaning](https://dev.to/jinparkmida/human-learning-is-dead-long-live-human-meaning-4k78)
+- [Every application deserves a solid foundation](https://dev.to/bakewizard/every-application-deserves-a-solid-foundation-2l36)
+- [The 7 Tools I Use Every Day to Build My 5,000-User SaaS](https://dev.to/shayy/the-7-tools-i-use-every-day-to-build-my-5000-user-saas-12f3)
+- [Kickstart Your Python Dev Workflow: Git, Docker, WSL, &amp; GitHub SSH](https://dev.to/obonyodorice/kickstart-your-python-dev-workflow-git-docker-wsl-github-ssh-1ed1)
 <!-- BLOG-POST-LIST:END -->
 
 
