@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs. AGI: Key Differences and Why It Matters and What You Need to Know](https://dev.to/abuhorairatarif/ai-vs-agi-key-differences-and-why-it-matters-and-what-you-need-to-know-n9k)
-- [Top 6 On-Premises API Management Tools for 2025: The Developer’s Guide](https://dev.to/apilover/top-6-on-premises-api-management-tools-for-2025-the-developers-guide-1lbl)
-- [Vibe Data Analysis: Natural Language-Driven Data Insights](https://dev.to/powerdrill_ai/vibe-data-analysis-natural-language-driven-data-insights-7ce)
-- [Designing Incentives That Scale: How Broker Models Empower DeFi Platforms Beyond Tokenomics](https://dev.to/klimd1389/designing-incentives-that-scale-how-broker-models-empower-defi-platforms-beyond-tokenomics-mil)
+- [```markdown](https://dev.to/mosininamdar/markdown-aab)
+- [🚀 Why choose C# and .NET as my programming language?](https://dev.to/iron-software/why-choose-c-and-net-as-my-programming-language-39m3)
+- [🇫🇷 From &quot;Vingt et Un&quot; to 21: Building a Lightning-Fast French Number Parser in Ruby](https://dev.to/fabijordgrimsson/from-vingt-et-un-to-21-building-a-lightning-fast-french-number-parser-in-ruby-2hn6)
+- [DAY 12-CSS SELECTORS](https://dev.to/asran_2025/day-12-css-selectors-4e69)
 <!-- BLOG-POST-LIST:END -->
 
 
