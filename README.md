@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deailing with OAuth SSR in a Next.js project](https://dev.to/burakdev/deailing-with-oauth-ssr-in-a-nextjs-project-3897)
-- [Explain in 5 Levels of Difficulty](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-4cj9)
-- [.NET Learning Notes: How to View Code Coverage in .NET Projects&lpar;with Coverlet + Reportgenerator&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-how-to-view-code-coverage-in-net-projectswith-coverlet-reportgenerator-2o13)
-- [Backend Optimizasyonu: Verimlilik Artışı](https://dev.to/yunus_emremert_1756b71d3/backend-optimizasyonu-verimlilik-artisi-k7e)
+- [What Are HTTP Headers — And How Do They Keep Your Site Secure?](https://dev.to/sharon_42e16b8da44dabde6d/what-are-http-headers-and-how-do-they-keep-your-site-secure-513l)
+- [Amazing Breakdown of such a complex problem.](https://dev.to/thedeepseeker/amazing-breakdown-of-such-a-complex-problem-4m9j)
+- [🔍 Find All K-Distant Indices in an Array – LeetCode 2200 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/find-all-k-distant-indices-in-an-array-leetcode-2200-c-python-javascript-4l4p)
+- [How I Got Started with Embedded Linux Development](https://dev.to/jasonliu112/how-i-got-started-with-embedded-linux-development-2h1g)
 <!-- BLOG-POST-LIST:END -->
 
 
