@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS]Hands-on: Building a Simple Web Server with CodeBuild + CodeDeploy &lpar;Sphinx&rpar;](https://dev.to/masakiokuda/awshands-on-building-a-simple-web-server-with-codebuild-codedeploy-sphinx-3h7b)
-- [Build a local chatbot with React, openAI, and indexed DB &lpar;using Dexie.js&rpar;](https://dev.to/angeldavid218/build-a-local-chatbot-with-react-openai-and-indexed-db-using-dexiejs-16oo)
-- [WWDC 2025 - Get to know the ManagedApp Framework](https://dev.to/arshtechpro/wwdc-2025-get-to-know-the-managedapp-framework-17do)
-- [WWDC 2025 - SF Symbols 7: Advanced Animation and Rendering Techniques](https://dev.to/arshtechpro/wwdc-2025-sf-symbols-7-advanced-animation-and-rendering-techniques-f7m)
+- [Enterprise Android: Professional Figma-to-Java Development Workflow](https://dev.to/atforeveryoung/enterprise-android-professional-figma-to-java-development-workflow-487d)
+- [Building PhotoNester: My Journey to Organize a Million Memories](https://dev.to/36dunes/building-photonester-my-journey-to-organize-a-million-memories-3nk2)
+- [🚀 Automatiza tu Facturación Electrónica en Perú: De Manual a API en 10 minutos con Node.js](https://dev.to/luis_dev_9e0f2f9f5fedbd2f/automatiza-tu-facturacion-electronica-en-peru-de-manual-a-api-en-10-minutos-con-nodejs-30p4)
+- [Revolutionizing Urban Planning: Spatial Computing, AI, and Digital Twins](https://dev.to/vaib/revolutionizing-urban-planning-spatial-computing-ai-and-digital-twins-mf3)
 <!-- BLOG-POST-LIST:END -->
 
 
