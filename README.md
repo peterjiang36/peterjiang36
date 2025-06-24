@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Search Bars](https://dev.to/trentpolack/search-bars-4om4)
-- [Building for the Next Decade: Infrastructure for Decentralized AI](https://dev.to/seaos_ai/building-for-the-next-decade-infrastructure-for-decentralized-ai-44op)
-- [我的 Vibe Coding 的第二个项目](https://dev.to/immerse/wo-de-vibe-coding-de-di-er-ge-xiang-mu-5f94)
-- [Nueva era, nuevas reglas: AEO y AIO como claves del posicionamiento](https://dev.to/erikson_daniel/nueva-era-nuevas-reglas-aeo-y-aio-como-claves-del-posicionamiento-lgm)
+- [How To Build AI Chatbot Using React + Node.js](https://dev.to/myogeshchavan97/how-to-build-ai-chatbot-using-react-nodejs-18m8)
+- [API2CSV - Toutes les fonctionnalités](https://dev.to/neethdseven/api2csv-toutes-les-fonctionnalites-3h48)
+- [What is an MVP in Agile development?](https://dev.to/ciphernutz/what-is-mvp-in-agile-development-4pda)
+- [Don&#39;t waste YubiKey&#39;s potential - Custom OTP Lambda Authorizer](https://dev.to/aws-builders/custom-yubikey-otp-with-lambda-authorizer-and-api-gateway-17n8)
 <!-- BLOG-POST-LIST:END -->
 
 
