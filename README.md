@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is a test post](https://dev.to/ben/this-is-a-test-post-405h)
-- [Test testing!](https://dev.to/ben/test-testing-45jl)
-- [How I Serve 4.5 Million Star Wars API Requests for Free](https://dev.to/sivarampg/how-i-serve-45-million-star-wars-api-requests-for-free-4dk1)
-- [5 Must-Know Design Patterns Every Developer Should Master](https://dev.to/nishchay7pixels/5-must-know-design-patterns-every-developer-should-master-4fbk)
+- [I learned today: Props drilling, UseContext &lpar;in Hooks&rpar; &amp; discuss about yesterday&#39;s interview questions...](https://dev.to/chithra_priya/i-learned-today-props-drilling-usecontext-in-hooks-discuss-about-yesterdays-interview-431l)
+- [Workspace Developer Tools VSCode Extension](https://dev.to/googleworkspace/workspace-developer-tools-vscode-extension-5dhm)
+- [How to Install OmniGen2: The Any-to-Any Model that can do it all](https://dev.to/nodeshiftcloud/how-to-install-omnigen2-the-any-to-any-model-that-can-do-it-all-586j)
+- [Criação e configuração de wallets com OraPKI &lpar;sem precisar do Oracle Client Full&rpar;](https://dev.to/valter_filho_24448308265f/criacao-e-configuracao-de-wallets-com-orapki-sem-precisar-do-oracle-client-full-2ikf)
 <!-- BLOG-POST-LIST:END -->
 
 
