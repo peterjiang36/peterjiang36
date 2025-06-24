@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [```markdown](https://dev.to/mosininamdar/markdown-aab)
-- [🚀 Why choose C# and .NET as my programming language?](https://dev.to/iron-software/why-choose-c-and-net-as-my-programming-language-39m3)
-- [🇫🇷 From &quot;Vingt et Un&quot; to 21: Building a Lightning-Fast French Number Parser in Ruby](https://dev.to/fabijordgrimsson/from-vingt-et-un-to-21-building-a-lightning-fast-french-number-parser-in-ruby-2hn6)
-- [DAY 12-CSS SELECTORS](https://dev.to/asran_2025/day-12-css-selectors-4e69)
+- [⚙️ Tuesday Tech Tip: One Command That Changed My Workflow Forever](https://dev.to/sroy8091/tuesday-tech-tip-one-command-that-changed-my-workflow-forever-id7)
+- [Dev Diaries Episode 3 - User Feedback &amp; The Pivot That Saved The Project](https://dev.to/stellar/dev-diaries-episode-3-user-feedback-the-pivot-that-saved-the-project-54g7)
+- [Steering Clear of Implementation Disasters: Your Guide to Successful Dynamics 365 Deployment](https://dev.to/ranjika50/steering-clear-of-implementation-disasters-your-guide-to-successful-dynamics-365-deployment-3g4p)
+- [Software Development Solutions: Build Custom Websites and Apps with Expert Developers](https://dev.to/jennysmith7/software-development-solutions-build-custom-websites-and-apps-with-expert-developers-5ap)
 <!-- BLOG-POST-LIST:END -->
 
 
