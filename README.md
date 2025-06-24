@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Mondays S2E02 - AMA on Model Context Protocol](https://dev.to/azure/model-mondays-s2e02-ama-on-model-context-protocol-e9i)
-- [🧱 𝗙𝗿𝗼𝗺 𝗠𝗼𝗻𝗼𝗹𝗶𝘁𝗵 𝘁𝗼 𝗠𝗼𝗱𝘂𝗹𝗮𝗿 — 𝗘𝘅𝘁𝗲𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗶𝗻 .𝗡𝗘𝗧 𝟭𝟬](https://dev.to/yaseer_arafat/--16on)
-- [UPI কি? UPI কিভাবে কাজ করে?](https://dev.to/rironib/upi-ki-upi-kibhaabe-kaaj-kre-5fac)
-- [How to Effortlessly Clean and Manage Disk Space on Linux Servers with One Script](https://dev.to/yousufbasir/how-to-effortlessly-clean-and-manage-disk-space-on-linux-servers-with-one-script-538o)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-457e)
+- [🔒 My EC2 Instance Froze — No SSH, No Web CLI. Here&#39;s What Caused It &lpar;and How I Fixed It&rpar;](https://dev.to/vishal_09/my-ec2-instance-froze-no-ssh-no-web-cli-heres-what-caused-it-and-how-i-fixed-it-1317)
+- [Everything you need to know about referrals](https://dev.to/severin_wiggenhorn/everything-you-need-to-know-about-referrals-1ki3)
+- [Build an AI Quiz Generator with OpenAI: Step-by-Step Tutorial Part 2 - Read the Full Article](https://dev.to/corpcubite/build-an-ai-quiz-generator-with-openai-step-by-step-tutorial-part-2-read-the-full-article-4pcd)
 <!-- BLOG-POST-LIST:END -->
 
 
