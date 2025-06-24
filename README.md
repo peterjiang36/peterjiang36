@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack plus WhatsApp plus Zoho is such an underrated combo. This just validated our own tech decisions.](https://dev.to/lucasvonb/slack-plus-whatsapp-plus-zoho-is-such-an-underrated-combo-this-just-validated-our-own-tech-g1i)
-- [This was the kind of content that sticks with you. I will be thinking about this every time I set up my desk now.](https://dev.to/lucasvonb/this-was-the-kind-of-content-that-sticks-with-you-i-will-be-thinking-about-this-every-time-i-set-859)
-- [おわりに - Vue フロントエンド開発入門](https://dev.to/nabbisen/owarini-vue-hurontoendokai-fa-ru-men-1j75)
-- [Ashkan Rajaee gives voice to the silent battles many businesses face. That honesty matters.](https://dev.to/lucasvonb/ashkan-rajaee-gives-voice-to-the-silent-battles-many-businesses-face-that-honesty-matters-3jgh)
+- [[Boost]](https://dev.to/0ussamabernou/-30kp)
+- [Master your Linux terminal with LazyShell](https://dev.to/0ussamabernou/master-your-linux-terminal-with-lazyshell-5c49)
+- [Blocktrails: Smart-Contract Functionality - On Bitcoin, No Extra Token Needed](https://dev.to/melvincarvalho/blocktrails-smart-contract-functionality-on-bitcoin-no-extra-token-needed-amm)
+- [Setting Up HarmonyOS Development Environment](https://dev.to/isoneheart/setting-up-harmonyos-development-environment-1nhm)
 <!-- BLOG-POST-LIST:END -->
 
 
