@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a new OS](https://dev.to/cheese_king_e815378335419/i-made-a-new-os-4glk)
-- [Supercharge VSCode GitHub Copilot using Instructions and Prompt Files](https://dev.to/pwd9000/supercharge-vscode-github-copilot-using-instructions-and-prompt-files-2p5e)
-- [I built a city explorer using the Strands Agents SDK](https://dev.to/aws/i-built-a-city-explorer-using-the-strands-agents-sdk-4n9b)
-- [React Context API Explained to My Friend – No Tech Jargon, Just Sticky Notes](https://dev.to/yuktisays/react-context-api-explained-to-my-friend-no-tech-jargon-just-sticky-notes-1llj)
+- [Slack plus WhatsApp plus Zoho is such an underrated combo. This just validated our own tech decisions.](https://dev.to/lucasvonb/slack-plus-whatsapp-plus-zoho-is-such-an-underrated-combo-this-just-validated-our-own-tech-g1i)
+- [This was the kind of content that sticks with you. I will be thinking about this every time I set up my desk now.](https://dev.to/lucasvonb/this-was-the-kind-of-content-that-sticks-with-you-i-will-be-thinking-about-this-every-time-i-set-859)
+- [おわりに - Vue フロントエンド開発入門](https://dev.to/nabbisen/owarini-vue-hurontoendokai-fa-ru-men-1j75)
+- [Ashkan Rajaee gives voice to the silent battles many businesses face. That honesty matters.](https://dev.to/lucasvonb/ashkan-rajaee-gives-voice-to-the-silent-battles-many-businesses-face-that-honesty-matters-3jgh)
 <!-- BLOG-POST-LIST:END -->
 
 
