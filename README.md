@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Tuesday Tech Tip: One Command That Changed My Workflow Forever](https://dev.to/sroy8091/tuesday-tech-tip-one-command-that-changed-my-workflow-forever-id7)
-- [Dev Diaries Episode 3 - User Feedback &amp; The Pivot That Saved The Project](https://dev.to/stellar/dev-diaries-episode-3-user-feedback-the-pivot-that-saved-the-project-54g7)
-- [Steering Clear of Implementation Disasters: Your Guide to Successful Dynamics 365 Deployment](https://dev.to/ranjika50/steering-clear-of-implementation-disasters-your-guide-to-successful-dynamics-365-deployment-3g4p)
-- [Software Development Solutions: Build Custom Websites and Apps with Expert Developers](https://dev.to/jennysmith7/software-development-solutions-build-custom-websites-and-apps-with-expert-developers-5ap)
+- [I made a new OS](https://dev.to/cheese_king_e815378335419/i-made-a-new-os-4glk)
+- [Supercharge VSCode GitHub Copilot using Instructions and Prompt Files](https://dev.to/pwd9000/supercharge-vscode-github-copilot-using-instructions-and-prompt-files-2p5e)
+- [I built a city explorer using the Strands Agents SDK](https://dev.to/aws/i-built-a-city-explorer-using-the-strands-agents-sdk-4n9b)
+- [React Context API Explained to My Friend – No Tech Jargon, Just Sticky Notes](https://dev.to/yuktisays/react-context-api-explained-to-my-friend-no-tech-jargon-just-sticky-notes-1llj)
 <!-- BLOG-POST-LIST:END -->
 
 
