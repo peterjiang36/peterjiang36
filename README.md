@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Job Application Tip for Node.js Developers](https://dev.to/sonmusui/job-application-tip-for-nodejs-developers-70o)
-- [LangChain vs. TLRAG: A Comparative Analysis for Investors](https://dev.to/martin-powder/langchain-vs-tlrag-a-comparative-analysis-for-investors-56aj)
-- [I am a not good enough to become a Dev??](https://dev.to/xavier_belchior_83948f458/i-am-a-not-good-enough-to-become-a-dev-5gga)
-- [How to Use SafePoint Cyber Threat Intelligence API](https://dev.to/carrie_luo1/how-to-use-safepoint-cyber-threat-intelligence-api-26f4)
+- [Transition to a Robust Infrastructure - Terraform and ArgoCD in Action](https://dev.to/neomi/transition-to-a-robust-infrastructure-terraform-and-argocd-in-action-gnc)
+- [Umemura Farm Website – Devlog #15: Building the Contact Page: Day 1 Progress](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-15-building-the-contact-page-day-1-progress-5bko)
+- [Harmony-Free Hengong Loading Frame](https://dev.to/rogueybj/harmony-free-hengong-loading-frame-560j)
+- [🚀 How Web3 Partnerships Like WhiteBIT 🤝 Juventus Are More Than Marketing](https://dev.to/daniel_crypto/how-web3-partnerships-like-whitebit-juventus-are-more-than-marketing-1h33)
 <!-- BLOG-POST-LIST:END -->
 
 
