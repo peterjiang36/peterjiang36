@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Android: Professional Figma-to-Java Development Workflow](https://dev.to/atforeveryoung/enterprise-android-professional-figma-to-java-development-workflow-487d)
-- [Building PhotoNester: My Journey to Organize a Million Memories](https://dev.to/36dunes/building-photonester-my-journey-to-organize-a-million-memories-3nk2)
-- [🚀 Automatiza tu Facturación Electrónica en Perú: De Manual a API en 10 minutos con Node.js](https://dev.to/luis_dev_9e0f2f9f5fedbd2f/automatiza-tu-facturacion-electronica-en-peru-de-manual-a-api-en-10-minutos-con-nodejs-30p4)
-- [Revolutionizing Urban Planning: Spatial Computing, AI, and Digital Twins](https://dev.to/vaib/revolutionizing-urban-planning-spatial-computing-ai-and-digital-twins-mf3)
+- [Deailing with OAuth SSR in a Next.js project](https://dev.to/burakdev/deailing-with-oauth-ssr-in-a-nextjs-project-3897)
+- [Explain in 5 Levels of Difficulty](https://dev.to/mcsee/explain-in-5-levels-of-difficulty-4cj9)
+- [.NET Learning Notes: How to View Code Coverage in .NET Projects&lpar;with Coverlet + Reportgenerator&rpar;](https://dev.to/alexleeeeeeeeee/net-learning-notes-how-to-view-code-coverage-in-net-projectswith-coverlet-reportgenerator-2o13)
+- [Backend Optimizasyonu: Verimlilik Artışı](https://dev.to/yunus_emremert_1756b71d3/backend-optimizasyonu-verimlilik-artisi-k7e)
 <!-- BLOG-POST-LIST:END -->
 
 
