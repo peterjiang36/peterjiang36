@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build AI Chatbot Using React + Node.js](https://dev.to/myogeshchavan97/how-to-build-ai-chatbot-using-react-nodejs-18m8)
-- [API2CSV - Toutes les fonctionnalités](https://dev.to/neethdseven/api2csv-toutes-les-fonctionnalites-3h48)
-- [What is an MVP in Agile development?](https://dev.to/ciphernutz/what-is-mvp-in-agile-development-4pda)
-- [Don&#39;t waste YubiKey&#39;s potential - Custom OTP Lambda Authorizer](https://dev.to/aws-builders/custom-yubikey-otp-with-lambda-authorizer-and-api-gateway-17n8)
+- [Get Past the Robots](https://dev.to/thetechpreneur/get-past-the-robots-3d16)
+- [Machine Learning](https://dev.to/prashant_rajpoot_0e51a2b4/machine-learning-md0)
+- [Resiliency Patterns](https://dev.to/sirivarma/resiliency-patterns-3hcl)
+- [From Query to Intelligence: Why AI Search is the Missing Link in Digital Transformation](https://dev.to/lunar_lens_edge/from-query-to-intelligence-why-ai-search-is-the-missing-link-in-digital-transformation-id1)
 <!-- BLOG-POST-LIST:END -->
 
 
