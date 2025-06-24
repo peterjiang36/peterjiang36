@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/0ussamabernou/-30kp)
-- [Master your Linux terminal with LazyShell](https://dev.to/0ussamabernou/master-your-linux-terminal-with-lazyshell-5c49)
-- [Blocktrails: Smart-Contract Functionality - On Bitcoin, No Extra Token Needed](https://dev.to/melvincarvalho/blocktrails-smart-contract-functionality-on-bitcoin-no-extra-token-needed-amm)
-- [Setting Up HarmonyOS Development Environment](https://dev.to/isoneheart/setting-up-harmonyos-development-environment-1nhm)
+- [This is a test post](https://dev.to/ben/this-is-a-test-post-405h)
+- [Test testing!](https://dev.to/ben/test-testing-45jl)
+- [How I Serve 4.5 Million Star Wars API Requests for Free](https://dev.to/sivarampg/how-i-serve-45-million-star-wars-api-requests-for-free-4dk1)
+- [5 Must-Know Design Patterns Every Developer Should Master](https://dev.to/nishchay7pixels/5-must-know-design-patterns-every-developer-should-master-4fbk)
 <!-- BLOG-POST-LIST:END -->
 
 
