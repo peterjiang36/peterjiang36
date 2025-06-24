@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are HTTP Headers — And How Do They Keep Your Site Secure?](https://dev.to/sharon_42e16b8da44dabde6d/what-are-http-headers-and-how-do-they-keep-your-site-secure-513l)
-- [Amazing Breakdown of such a complex problem.](https://dev.to/thedeepseeker/amazing-breakdown-of-such-a-complex-problem-4m9j)
-- [🔍 Find All K-Distant Indices in an Array – LeetCode 2200 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/find-all-k-distant-indices-in-an-array-leetcode-2200-c-python-javascript-4l4p)
-- [How I Got Started with Embedded Linux Development](https://dev.to/jasonliu112/how-i-got-started-with-embedded-linux-development-2h1g)
+- [Try VeltoPHP | Lightweight and simple RVC PHP Framework](https://dev.to/veltophp/try-veltophp-lightweight-and-simple-rvc-php-framework-1kcd)
+- [GCP Fundamentals: Contact Center AI Platform API](https://dev.to/devopsfundamentals/gcp-fundamentals-contact-center-ai-platform-api-5ld)
+- [A New Lightweight Framework for AI Training: Easy, Modular, Ray-Free](https://dev.to/labubu_donna/a-new-lightweight-framework-for-ai-training-easy-modular-ray-free-5gdm)
+- [Using a database in the Cangjie development language](https://dev.to/youlanjihua/using-a-database-in-the-cangjie-development-language-32pl)
 <!-- BLOG-POST-LIST:END -->
 
 
