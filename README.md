@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Doing database stuff](https://dev.to/ben/doing-database-stuff-1k4e)
-- [Hidden Complexities of Scaling GraphQL Federation &lpar;And How to Fix Them&rpar;](https://dev.to/hackmamba/hidden-complexities-of-scaling-graphql-federation-and-how-to-fix-them-2peg)
-- [Beyond Frameworks: How Computer Science Fundamentals Forge the Complete Developer](https://dev.to/skill-wanderer/beyond-frameworks-how-computer-science-fundamentals-forge-the-complete-developer-1335)
-- [Security Compliance Enforcement &lpar;SCE&rpar; for Linux version 2.4.0 is now available!](https://dev.to/puppet/security-compliance-enforcement-sce-for-linux-version-240-is-now-available-3bao)
+- [ArkTS Multi-Layer Image Rendering Class Implementation &lpar;Part I&rpar;](https://dev.to/isoneheart/arkts-multi-layer-image-rendering-class-implementation-part-i-1nhj)
+- [Weird PR for Python Base Docker Image, do not now how to read it](https://dev.to/jonasbn/weird-pr-for-python-base-docker-image-do-not-now-how-to-read-it-4c69)
+- [HarmonyOS Application Preferred Language Switching Practice](https://dev.to/isoneheart/harmonyos-application-preferred-language-switching-practice-4aic)
+- [HarmonyOS In-App Logging System Implementation Guide](https://dev.to/isoneheart/harmonyos-in-app-logging-system-implementation-guide-ni0)
 <!-- BLOG-POST-LIST:END -->
 
 
