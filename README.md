@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ArkTS Multi-Layer Image Rendering Class Implementation &lpar;Part I&rpar;](https://dev.to/isoneheart/arkts-multi-layer-image-rendering-class-implementation-part-i-1nhj)
-- [Weird PR for Python Base Docker Image, do not now how to read it](https://dev.to/jonasbn/weird-pr-for-python-base-docker-image-do-not-now-how-to-read-it-4c69)
-- [HarmonyOS Application Preferred Language Switching Practice](https://dev.to/isoneheart/harmonyos-application-preferred-language-switching-practice-4aic)
-- [HarmonyOS In-App Logging System Implementation Guide](https://dev.to/isoneheart/harmonyos-in-app-logging-system-implementation-guide-ni0)
+- [Building a Comprehensive Jira MCP Server: 20+ Tools for AI-Powered](https://dev.to/tom28881/building-a-comprehensive-jira-mcp-server-20-tools-for-ai-powered-50ho)
+- [5 Essential Stages of Data Management Before You Start AI Projects](https://dev.to/phatsawut_duangkaew_f92ff/5-essential-stages-of-data-management-before-you-start-ai-projects-4iik)
+- [Textbox Focus Acquisition, Custom Component Subcomponent Addition, Floating Button](https://dev.to/qingkouwei/textbox-focus-acquisition-custom-component-subcomponent-addition-floating-button-45ik)
+- [Ashkan’s insight into funnel friction is something every startup should pay attention to.](https://dev.to/pierr3smith/ashkans-insight-into-funnel-friction-is-something-every-startup-should-pay-attention-to-3d6b)
 <!-- BLOG-POST-LIST:END -->
 
 
