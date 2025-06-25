@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Visual Studio Code Shortcuts to Boost Your Productivity](https://dev.to/codeliner/top-visual-studio-code-shortcuts-to-boost-your-productivity-4k32)
-- [Further Understanding Cargo and Crates.io](https://dev.to/john_wilson/further-understanding-cargo-and-cratesio-gna)
-- [Proof Key for Code Exchange: A developer’s guide](https://dev.to/saif_shines/proof-key-for-code-exchange-a-developers-guide-pih)
-- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-3b21)
+- [Why I Built My Own Founder HQ Instead of Just Another Portfolio](https://dev.to/abubeker_kasim_52f9970b26/why-i-built-my-own-founder-hq-instead-of-just-another-portfolio-4f56)
+- [Hitting Meilisearch’s Field Limit? Here&#39;s the Real Culprit—and the Fix](https://dev.to/lovestaco/hitting-meilisearchs-field-limit-heres-the-real-culprit-and-the-fix-k33)
+- [Understanding RSA vs. AES: Which Encryption Should You Use?](https://dev.to/nitin8268/understanding-rsa-vs-aes-which-encryption-should-you-use-mlk)
+- [🧨 Why PHP Is the Worst Programming Language on the Planet &lpar;And Somehow Still Alive&rpar;](https://dev.to/mr_yasir/why-php-is-the-worst-programming-language-on-the-planet-and-somehow-still-alive-53k2)
 <!-- BLOG-POST-LIST:END -->
 
 
