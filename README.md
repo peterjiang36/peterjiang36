@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-0282: Remote Code Execution in Ivanti Connect Secure VPN](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-0282-remote-code-execution-in-ivanti-connect-secure-vpn-3ckd)
-- [Day-43 Interview Questions and Answers &lpar;Frontend + Node.js + JavaScript&rpar;](https://dev.to/tamilselvan1812/day-43-interview-questions-and-answers-frontend-nodejs-javascript-f7e)
-- [Building Modern React Applications with TypeScript](https://dev.to/pratyush_kumarpandey_0f5/building-modern-react-applications-with-typescript-139j)
-- [I Built an AI Tool That Detects Your English Accent — Here’s How It Works &lpar;accentvoice.net&rpar;](https://dev.to/juddiy/i-built-an-ai-tool-that-detects-your-english-accent-heres-how-it-works-accentvoicenet-2nmg)
+- [Microsoft 365 Business Standard Security and Productivity Features: What You Get in 2025](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-business-standard-security-and-productivity-features-what-you-get-in-2025-fe)
+- [What is WordPress? Explained for Beginners &lpar;2025 Guide&rpar;](https://dev.to/champsoft/what-is-wordpress-explained-for-beginners-2025-guide-1do3)
+- [Checkout this Script Linux Devs..... It&#39;s very helpful](https://dev.to/urvin_sanghavi_5fb0f4b132/checkout-this-script-linux-devs-its-very-helpful-4b4l)
+- [HarmonyOS5 Cloud Service Technology Sharing - Log Out Document Issues](https://dev.to/cyang/harmonyos5-cloud-service-technology-sharing-log-out-document-issues-2bhd)
 <!-- BLOG-POST-LIST:END -->
 
 
