@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Connect Your Agents to the MCP Server](https://dev.to/codanyks/connect-your-agents-to-the-mcp-server-28m)
-- [daily quizzz](https://dev.to/marrmorgan/daily-quizzz-1nh9)
-- [Lakron : A Minimal, Encrypted, Realtime Life Scheduler with Supabase](https://dev.to/laakri/lakron-a-minimal-encrypted-realtime-life-scheduler-with-supabase-17bi)
-- [Bitmasking for Granular Backend RBAC: A Beginner&#39;s Guide](https://dev.to/mueedx/bitmasking-for-backend-rbac-3490)
+- [Doing database stuff](https://dev.to/ben/doing-database-stuff-1k4e)
+- [Hidden Complexities of Scaling GraphQL Federation &lpar;And How to Fix Them&rpar;](https://dev.to/hackmamba/hidden-complexities-of-scaling-graphql-federation-and-how-to-fix-them-2peg)
+- [Beyond Frameworks: How Computer Science Fundamentals Forge the Complete Developer](https://dev.to/skill-wanderer/beyond-frameworks-how-computer-science-fundamentals-forge-the-complete-developer-1335)
+- [Security Compliance Enforcement &lpar;SCE&rpar; for Linux version 2.4.0 is now available!](https://dev.to/puppet/security-compliance-enforcement-sce-for-linux-version-240-is-now-available-3bao)
 <!-- BLOG-POST-LIST:END -->
 
 
