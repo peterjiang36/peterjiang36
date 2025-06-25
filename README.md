@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
-- [Building a Simple Email Spam Classifier in Rust with SmartCore](https://dev.to/devwonder01/building-a-simple-email-spam-classifier-in-rust-with-smartcore-4k3n)
-- [My passion? Building web apps that are both powerful and visually striking. Think robust Django backends, dynamic React frontends, and a design aesthetic that truly sets you apart. Ready for something different? hashtag#DjangoDeveloper hashtag#ReactDevelo](https://dev.to/highcenburg/my-passion-building-web-apps-that-are-both-powerful-and-visually-striking-think-robust-django-25en)
-- [Where is the Vibe in &quot;Vibe Coding&quot; and what happened to Music Monday?](https://dev.to/ingosteinke/where-is-the-vibe-in-vibe-coding-and-what-happened-to-music-monday-49ek)
+- [🧨 What I Broke Wednesday: Leaking API Keys](https://dev.to/sroy8091/what-i-broke-wednesday-leaking-api-keys-18mg)
+- [HMRouter Deep Dive](https://dev.to/moyantianwang/hmrouter-deep-dive-4d4c)
+- [How AI is Revolutionizing Live TV, Video on Demand, and IPTV](https://dev.to/suzukichan_studio_4caeff/how-ai-is-revolutionizing-live-tv-video-on-demand-and-iptv-2c7f)
+- [Oreo&#39;s Top K Treats &lpar;Bucket Sort&rpar;](https://dev.to/tanvir_azad/oreos-top-k-treats-bucket-sort-2h19)
 <!-- BLOG-POST-LIST:END -->
 
 
