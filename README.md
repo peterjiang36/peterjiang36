@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v332](https://dev.to/devteam/welcome-thread-v332-3caj)
-- [4 Red Flags That Your Project Might Be Headed Toward Failure](https://dev.to/kruti12/4-red-flags-that-your-project-might-be-headed-toward-failure-p03)
-- [Terraform Fundamentals: CloudWatch Synthetics](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-synthetics-3n1h)
-- [Từ Bị Mắc Kẹt Đến Được Cứu Hộ: Chúng Tôi Đã Xây Dựng Bot Điều Phối SMS-to-Discord Cho Đội Cứu Hộ Như Thế Nào](https://dev.to/cuuhotronghien24h/tu-bi-mac-ket-den-duoc-cuu-ho-chung-toi-da-xay-dung-bot-dieu-phoi-sms-to-discord-cho-doi-cuu-ho-2b1a)
+- [Top Visual Studio Code Shortcuts to Boost Your Productivity](https://dev.to/codeliner/top-visual-studio-code-shortcuts-to-boost-your-productivity-4k32)
+- [Further Understanding Cargo and Crates.io](https://dev.to/john_wilson/further-understanding-cargo-and-cratesio-gna)
+- [Proof Key for Code Exchange: A developer’s guide](https://dev.to/saif_shines/proof-key-for-code-exchange-a-developers-guide-pih)
+- [Node.js Tutorial 2025: Learn Modern Backend Development](https://dev.to/tpointtechblog/nodejs-tutorial-2025-learn-modern-backend-development-3b21)
 <!-- BLOG-POST-LIST:END -->
 
 
