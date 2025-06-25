@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Umemura Farm Website – Devlog #16: Contact Page Progress and Adding Texture to Home Visuals](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-16-contact-page-progress-and-adding-texture-to-home-visuals-kl2)
-- [Modelo de Maturidade Richardson &lpar;RMM&rpar;](https://dev.to/carloseduardoalvesviana/niveis-de-maturidade-de-richardson-30c8)
-- [HarmonyOS 5 Demo Example of Bidirectional Communication between HarmonyOS Web Components and Embedded Web Pages](https://dev.to/dcdvdv_a_5059c020ba962689/harmonyos-5-demo-example-of-bidirectional-communication-between-harmonyos-web-components-and-3ed9)
-- [If programming languages were people](https://dev.to/alex_stewart_ee973ece52be/if-programming-languages-were-people-594e)
+- [Welcome Thread - v332](https://dev.to/devteam/welcome-thread-v332-3caj)
+- [4 Red Flags That Your Project Might Be Headed Toward Failure](https://dev.to/kruti12/4-red-flags-that-your-project-might-be-headed-toward-failure-p03)
+- [Terraform Fundamentals: CloudWatch Synthetics](https://dev.to/devopsfundamentals/terraform-fundamentals-cloudwatch-synthetics-3n1h)
+- [Từ Bị Mắc Kẹt Đến Được Cứu Hộ: Chúng Tôi Đã Xây Dựng Bot Điều Phối SMS-to-Discord Cho Đội Cứu Hộ Như Thế Nào](https://dev.to/cuuhotronghien24h/tu-bi-mac-ket-den-duoc-cuu-ho-chung-toi-da-xay-dung-bot-dieu-phoi-sms-to-discord-cho-doi-cuu-ho-2b1a)
 <!-- BLOG-POST-LIST:END -->
 
 
