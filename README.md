@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Stepping into Dev++ | Let’s Build the Future with AI 🤖](https://dev.to/balram15/stepping-into-dev-lets-build-the-future-with-ai-33hf)
-- [How and Why to Use Patches](https://dev.to/kdipippo/how-and-why-to-use-patches-3enp)
-- [Styling Your First React Component — A Gentle Introduction](https://dev.to/elram_gavrieli_887f3d6046/styling-your-first-react-component-a-gentle-introduction-1c82)
-- [Day 1 dev setup: Installing Docker, WSL, Python, GitHub SSH &lpar;with some challenges &amp; solutions&rpar;](https://dev.to/zipporahmutanu04/day-1-dev-setup-installing-docker-wsl-python-github-ssh-with-some-challenges-oo1)
+- [LeetCode 2040 Beginner friendly explanation](https://dev.to/thedeepseeker/leetcode-2040-beginner-friendly-explanation-5f96)
+- [🐲 Kth Smallest Product of Two Sorted Arrays – LeetCode 2040 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/kth-smallest-product-of-two-sorted-arrays-leetcode-2040-c-python-javascript-4d7g)
+- [Apresentando o ZMatrix: Operações de tensor de alto desempenho para PHP](https://dev.to/wesley_teixeira/apresentando-o-zmatrix-operacoes-de-tensor-de-alto-desempenho-para-php-3kbn)
+- [🔥 10 JavaScript Tips with Code Snippets You Should Know](https://dev.to/hackerpro/10-javascript-tips-with-code-snippets-you-should-know-366m)
 <!-- BLOG-POST-LIST:END -->
 
 
