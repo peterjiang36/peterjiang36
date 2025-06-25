@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚫 SiteBlocker – A Simple Website Blocker for Windows &lpar;Python + GUI + .exe&rpar;](https://dev.to/mahmud-r-farhan/siteblocker-a-simple-website-blocker-for-windows-python-gui-exe-bac)
-- [TypeScript Complete Roadmap &lpar;Beginner to Advanced&rpar; — 2025 Edition](https://dev.to/coder_studios/typescript-complete-roadmap-beginner-to-advanced-2025-edition-2ebb)
-- [To index or not to index: which coding agent to choose?](https://dev.to/forgecode/to-index-or-not-to-index-which-coding-agent-to-choose-27pb)
-- [Exploring Modern Warehousing and Data Mining](https://dev.to/aniruddhaadak_/exploring-modern-warehousing-and-data-mining-5dim)
+- [CVE-2025-0282: Remote Code Execution in Ivanti Connect Secure VPN](https://dev.to/sharon_42e16b8da44dabde6d/cve-2025-0282-remote-code-execution-in-ivanti-connect-secure-vpn-3ckd)
+- [Day-43 Interview Questions and Answers &lpar;Frontend + Node.js + JavaScript&rpar;](https://dev.to/tamilselvan1812/day-43-interview-questions-and-answers-frontend-nodejs-javascript-f7e)
+- [Building Modern React Applications with TypeScript](https://dev.to/pratyush_kumarpandey_0f5/building-modern-react-applications-with-typescript-139j)
+- [I Built an AI Tool That Detects Your English Accent — Here’s How It Works &lpar;accentvoice.net&rpar;](https://dev.to/juddiy/i-built-an-ai-tool-that-detects-your-english-accent-heres-how-it-works-accentvoicenet-2nmg)
 <!-- BLOG-POST-LIST:END -->
 
 
