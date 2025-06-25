@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐳 Creating a 3-Node Docker Swarm Cluster: A Simple &amp; Fun Guide](https://dev.to/sovannaro/creating-a-3-node-docker-swarm-cluster-a-simple-fun-guide-1gji)
-- [Introducing ScriptHub: Your Universal Script Repository](https://dev.to/curiousbud/introducing-scripthub-your-universal-script-repository-nid)
-- [I Design Digital Products. But I Forgot About the One That Mattered Most.](https://dev.to/alina_turlevska_708955575/i-design-digital-products-but-i-forgot-about-the-one-that-mattered-most-5639)
-- [Warp - The Intelligent Terminal for Developers](https://dev.to/joyston_ccd43d53e268ec635/warp-the-intelligent-terminal-for-developers-4chm)
+- [A New Era of Code Quality: Beyond bugs to supply chain security and dependency health](https://dev.to/lizzzzz/a-new-era-of-code-qualitybeyond-bugs-to-supply-chain-security-and-dependency-health-3p40)
+- [CMS Survey](https://dev.to/kushal_durga_1515989404d1/cms-survey-4hcc)
+- [Important topics in CSS](https://dev.to/sevaki_rajasekar_700822f9/important-topics-in-css-4o2h)
+- [Building Mandir Jumper: A Vertical Temple Climbing Game with Amazon Q CLI and Pygame](https://dev.to/zekka02/building-mandir-jumper-a-vertical-temple-climbing-game-with-amazon-q-cli-and-pygame-2co8)
 <!-- BLOG-POST-LIST:END -->
 
 
