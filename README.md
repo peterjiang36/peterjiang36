@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Flutter Wakelock Plugin &lpar;Screen Wake Lock Management&rpar;](https://dev.to/flfljh/harmonyos-flutter-wakelock-plugin-screen-wake-lock-management-b20)
-- [HarmonyOS Flutter Video Trimmer &lpar;Video Clipping Implementation&rpar;](https://dev.to/flfljh/harmonyos-flutter-video-trimmer-video-clipping-implementation-3dkd)
-- [Modul tampilkan di Earl: Menampilkan Nilai dengan Format yang Terkontrol](https://dev.to/dev_nazwashabrina/modul-tampilkan-di-earl-menampilkan-nilai-dengan-format-yang-terkontrol-1ln8)
-- [HarmonyOS Flutter QR Code Generation Plugin](https://dev.to/flfljh/harmonyos-flutter-qr-code-generation-plugin-9fl)
+- [Razões e Proporções](https://dev.to/alsetchannel/razoes-e-proporcoes-1go2)
+- [5 Smart AI Tools That Supercharge Productivity](https://dev.to/sebastian_reid999/5-smart-ai-tools-that-supercharge-productivity-33gb)
+- [The Importance of Data Quality in AI-based Testing](https://dev.to/anil_csimplifyit_905c/the-importance-of-data-quality-in-ai-based-testing-2lo3)
+- [2040. Kth Smallest Product of Two Sorted Arrays](https://dev.to/mdarifulhaque/2040-kth-smallest-product-of-two-sorted-arrays-2g2e)
 <!-- BLOG-POST-LIST:END -->
 
 
