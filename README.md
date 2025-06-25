@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-World Context-Aware Movie Chatbot Using Amazon Bedrock - Nova Pro](https://dev.to/aws-builders/building-a-real-world-context-aware-movie-chatbot-using-amazon-bedrock-nova-pro-jge)
-- [How AI in Art Boosts, Not Replaces Creativity](https://dev.to/sebastian_reid999/how-ai-in-art-boosts-not-replaces-creativity-cb2)
-- [Confession: I’m a Developer Who Just Started Using Git Properly](https://dev.to/gaurikhanolkar1/some-git-notes-2jj7)
-- [🚀 Introducing MultiMind SDK: Fine-Tune, Build, and Deploy LLM](https://dev.to/multimindsdk/introducing-multimind-sdk-fine-tune-build-and-deploy-llm-powered-apps-like-a-pro-44e2)
+- [Software Architecture Styles : Monolith, Modulith, Micro-services, which option is better for you](https://dev.to/aharmaz/software-architecture-styles-monolith-modulith-micro-services-which-option-is-better-for-you-fad)
+- [🛠 The Tools That Power My Day-to-Day Workflow &lpar;as a MERN Stack Dev&rpar; in 2025](https://dev.to/realcw_bishop/the-tools-that-power-my-day-to-day-workflow-as-a-mern-stack-dev-in-2025-bg7)
+- [Ansible, What and Why?](https://dev.to/mateenzero/ansible-what-and-why-61n)
+- [🔒 Ensuring Compliance When Fine-Tuning AI Models with MultiMindSDK](https://dev.to/multimindsdk/ensuring-compliance-when-fine-tuning-ai-models-with-multimindsdk-a3c)
 <!-- BLOG-POST-LIST:END -->
 
 
