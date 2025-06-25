@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 Business Standard Security and Productivity Features: What You Get in 2025](https://dev.to/roshan_karki_f2b61b26c3a8/microsoft-365-business-standard-security-and-productivity-features-what-you-get-in-2025-fe)
-- [What is WordPress? Explained for Beginners &lpar;2025 Guide&rpar;](https://dev.to/champsoft/what-is-wordpress-explained-for-beginners-2025-guide-1do3)
-- [Checkout this Script Linux Devs..... It&#39;s very helpful](https://dev.to/urvin_sanghavi_5fb0f4b132/checkout-this-script-linux-devs-its-very-helpful-4b4l)
-- [HarmonyOS5 Cloud Service Technology Sharing - Log Out Document Issues](https://dev.to/cyang/harmonyos5-cloud-service-technology-sharing-log-out-document-issues-2bhd)
+- [The Second Raku Core Summit](https://dev.to/lizmat/the-second-raku-core-summit-f99)
+- [Revolutionizing Mobile App Development with Cutting-Edge Mobile UI/UX Design](https://dev.to/vjnvisakh/revolutionizing-mobile-app-development-with-cutting-edge-mobile-uiux-design-6fh)
+- [The Cold Email Method That Actually Works: A Breakdown ✉️✉️](https://dev.to/manas_tole_039/the-cold-email-method-that-actually-works-a-breakdown-g13)
+- [Secure Your Site in Minutes: Open-Source WAF With 99%+ Accuracy and Zero Hassle](https://dev.to/sharon_42e16b8da44dabde6d/secure-your-site-in-minutes-open-source-waf-with-99-accuracy-and-zero-hassle-2bko)
 <!-- BLOG-POST-LIST:END -->
 
 
