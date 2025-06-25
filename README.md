@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Era of Code Quality: Beyond bugs to supply chain security and dependency health](https://dev.to/lizzzzz/a-new-era-of-code-qualitybeyond-bugs-to-supply-chain-security-and-dependency-health-3p40)
-- [CMS Survey](https://dev.to/kushal_durga_1515989404d1/cms-survey-4hcc)
-- [Important topics in CSS](https://dev.to/sevaki_rajasekar_700822f9/important-topics-in-css-4o2h)
-- [Building Mandir Jumper: A Vertical Temple Climbing Game with Amazon Q CLI and Pygame](https://dev.to/zekka02/building-mandir-jumper-a-vertical-temple-climbing-game-with-amazon-q-cli-and-pygame-2co8)
+- [WWDC 2025 - Go further with MapKit &amp; MapKit JavaScript](https://dev.to/arshtechpro/wwdc-2025-go-further-with-mapkit-mapkit-javascript-a5l)
+- [The Developer&#39;s Imperative: Surfing the AI Wave &lpar;Before it Swamps Your Stack&rpar;](https://dev.to/writerelliswilson/the-developers-imperative-surfing-the-ai-wave-before-it-swamps-your-stack-578l)
+- [Technical Interviews in the AI Era](https://dev.to/joacod/technical-interviews-in-the-ai-era-2phk)
+- [Day 15: HTML/CSS Dev Takes On Three Frontend Projects &lpar;What Could Go Wrong?&rpar;](https://dev.to/casperday11/day-15-htmlcss-dev-takes-on-three-frontend-projects-what-could-go-wrong-133j)
 <!-- BLOG-POST-LIST:END -->
 
 
