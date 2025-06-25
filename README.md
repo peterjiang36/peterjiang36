@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧨 What I Broke Wednesday: Leaking API Keys](https://dev.to/sroy8091/what-i-broke-wednesday-leaking-api-keys-18mg)
-- [HMRouter Deep Dive](https://dev.to/moyantianwang/hmrouter-deep-dive-4d4c)
-- [How AI is Revolutionizing Live TV, Video on Demand, and IPTV](https://dev.to/suzukichan_studio_4caeff/how-ai-is-revolutionizing-live-tv-video-on-demand-and-iptv-2c7f)
-- [Oreo&#39;s Top K Treats &lpar;Bucket Sort&rpar;](https://dev.to/tanvir_azad/oreos-top-k-treats-bucket-sort-2h19)
+- [Connect Your Agents to the MCP Server](https://dev.to/codanyks/connect-your-agents-to-the-mcp-server-28m)
+- [daily quizzz](https://dev.to/marrmorgan/daily-quizzz-1nh9)
+- [Lakron : A Minimal, Encrypted, Realtime Life Scheduler with Supabase](https://dev.to/laakri/lakron-a-minimal-encrypted-realtime-life-scheduler-with-supabase-17bi)
+- [Bitmasking for Granular Backend RBAC: A Beginner&#39;s Guide](https://dev.to/mueedx/bitmasking-for-backend-rbac-3490)
 <!-- BLOG-POST-LIST:END -->
 
 
