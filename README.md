@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Seems my anxiety is a zombie process: while&lpar;true&rpar; { try { await new Promise&lpar;&lpar;&rpar; =&gt; {}&rpar;; // waiting for meaning that never comes } catch { // nothing catches this searching and .............. } } // tried killing it several times const killAllProblems = &lpar;&rpar;](https://dev.to/milad_rtsar_e264d3e9f0fac/seems-my-anxiety-is-a-zombie-process-whiletrue-try-await-new-promise--kml)
-- [Hong Mong 5 Development Treasure Case Sharing More Than One Breakpoint Development Practice](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-more-than-one-breakpoint-development-practice-48nc)
-- [Hong Mong 5 Development Treasure Case Sharing Modular Design Case Sharing](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-modular-design-case-sharing-55h1)
-- [Hong Mong 5 Development Treasure Case Sharing Memory Optimization Guide](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-memory-optimization-guide-39np)
+- [Rails on Jets: Serverless Active Record? Here’s What Broke](https://dev.to/alex_aslam/rails-on-jets-serverless-active-record-heres-what-broke-54am)
+- [Day 4: software engineering Insights &lpar;#4&rpar;](https://dev.to/milade/day-4-software-engineering-insights-4-4nc6)
+- [Building a Multi-Application Kubernetes Marketplace: TCP/UDP App Onboarding at Scale](https://dev.to/kahuna04/building-a-multi-application-kubernetes-marketplace-tcpudp-app-onboarding-at-scale-1i74)
+- [Day 3: software engineering Insights &lpar;#3&rpar;](https://dev.to/milade/day-3-software-engineering-insights-3-54mn)
 <!-- BLOG-POST-LIST:END -->
 
 
