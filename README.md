@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Comprehensive Jira MCP Server: 20+ Tools for AI-Powered](https://dev.to/tom28881/building-a-comprehensive-jira-mcp-server-20-tools-for-ai-powered-50ho)
-- [5 Essential Stages of Data Management Before You Start AI Projects](https://dev.to/phatsawut_duangkaew_f92ff/5-essential-stages-of-data-management-before-you-start-ai-projects-4iik)
-- [Textbox Focus Acquisition, Custom Component Subcomponent Addition, Floating Button](https://dev.to/qingkouwei/textbox-focus-acquisition-custom-component-subcomponent-addition-floating-button-45ik)
-- [Ashkan’s insight into funnel friction is something every startup should pay attention to.](https://dev.to/pierr3smith/ashkans-insight-into-funnel-friction-is-something-every-startup-should-pay-attention-to-3d6b)
+- [🐳 Creating a 3-Node Docker Swarm Cluster: A Simple &amp; Fun Guide](https://dev.to/sovannaro/creating-a-3-node-docker-swarm-cluster-a-simple-fun-guide-1gji)
+- [Introducing ScriptHub: Your Universal Script Repository](https://dev.to/curiousbud/introducing-scripthub-your-universal-script-repository-nid)
+- [I Design Digital Products. But I Forgot About the One That Mattered Most.](https://dev.to/alina_turlevska_708955575/i-design-digital-products-but-i-forgot-about-the-one-that-mattered-most-5639)
+- [Warp - The Intelligent Terminal for Developers](https://dev.to/joyston_ccd43d53e268ec635/warp-the-intelligent-terminal-for-developers-4chm)
 <!-- BLOG-POST-LIST:END -->
 
 
