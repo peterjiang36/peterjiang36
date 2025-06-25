@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Architecture Styles : Monolith, Modulith, Micro-services, which option is better for you](https://dev.to/aharmaz/software-architecture-styles-monolith-modulith-micro-services-which-option-is-better-for-you-fad)
-- [🛠 The Tools That Power My Day-to-Day Workflow &lpar;as a MERN Stack Dev&rpar; in 2025](https://dev.to/realcw_bishop/the-tools-that-power-my-day-to-day-workflow-as-a-mern-stack-dev-in-2025-bg7)
-- [Ansible, What and Why?](https://dev.to/mateenzero/ansible-what-and-why-61n)
-- [🔒 Ensuring Compliance When Fine-Tuning AI Models with MultiMindSDK](https://dev.to/multimindsdk/ensuring-compliance-when-fine-tuning-ai-models-with-multimindsdk-a3c)
+- [Seems my anxiety is a zombie process: while&lpar;true&rpar; { try { await new Promise&lpar;&lpar;&rpar; =&gt; {}&rpar;; // waiting for meaning that never comes } catch { // nothing catches this searching and .............. } } // tried killing it several times const killAllProblems = &lpar;&rpar;](https://dev.to/milad_rtsar_e264d3e9f0fac/seems-my-anxiety-is-a-zombie-process-whiletrue-try-await-new-promise--kml)
+- [Hong Mong 5 Development Treasure Case Sharing More Than One Breakpoint Development Practice](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-more-than-one-breakpoint-development-practice-48nc)
+- [Hong Mong 5 Development Treasure Case Sharing Modular Design Case Sharing](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-modular-design-case-sharing-55h1)
+- [Hong Mong 5 Development Treasure Case Sharing Memory Optimization Guide](https://dev.to/cyang/hong-mong-5-development-treasure-case-sharing-memory-optimization-guide-39np)
 <!-- BLOG-POST-LIST:END -->
 
 
