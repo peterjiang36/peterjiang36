@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Programming: A Beginner&#39;s Guide](https://dev.to/darshil89/go-programming-a-beginners-guide-58l1)
-- [⚙️ Model Client System, Universal Routing &amp; Fine-Tuning &lpar;Transformer + Non-Transformer&rpar; in MultiMind SDK](https://dev.to/multimindsdk/model-client-system-universal-routing-fine-tuning-transformer-non-transformer-in-2aii)
-- [Vite 7.0 Is Here: Rust-Powered Speed, Smarter Tooling &amp; a Cleaner Build Experience](https://dev.to/aggarwal_gaurav_1012/vite-70-is-here-rust-powered-speed-smarter-tooling-a-cleaner-build-experience-1k9j)
-- [Discover the Best AI Tools in One Place — Meet Add AI Directory](https://dev.to/addaidirectory/discover-the-best-ai-tools-in-one-place-meet-add-ai-directory-1nik)
+- [Video test](https://dev.to/ben/embed-test-3fmg)
+- [Permissoes de leitura - AWS S3](https://dev.to/guisilva19/permissoes-de-leitura-aws-s3-djk)
+- [Everyone Is Wrong, But Me](https://dev.to/lmlonghuynh/everyone-is-wrong-but-me-54k9)
+- [Growing My Frontend Portfolio &amp; Network: Join Me](https://dev.to/ayokanmi_adejola_42b8f706/growing-my-frontend-portfolio-network-join-me-2gd9)
 <!-- BLOG-POST-LIST:END -->
 
 
