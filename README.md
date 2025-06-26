@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Scaling Out with Docker Routing Mesh](https://dev.to/sovannaro/scaling-out-with-docker-routing-mesh-2l3k)
-- [Tutorial: How to Do End-To-End Testing of Asynchronous Google Pub/Sub Flows Using Sandboxes](https://dev.to/signadot/tutorial-how-to-do-end-to-end-testing-of-asynchronous-google-pubsub-flows-using-sandboxes-ge8)
-- [The AWS Well-Architected Deep Dive &lpar;2/7&rpar;: Is Your Cloud a Well-Oiled Machine or a Ticking Time Bomb?](https://dev.to/pkkolla/the-aws-well-architected-deep-dive-27-is-your-cloud-a-well-oiled-machine-or-a-ticking-time-bomb-51m2)
-- [Using a Marquee &lpar;Scrolling Text&rpar; as an Example: How React Native Calls and Controls a Native HarmonyOS Component via Fabric](https://dev.to/cycleuse/using-a-marquee-scrolling-text-as-an-example-how-react-native-calls-and-controls-a-native-2i67)
+- [🔍 Tailored Hackathon Extraction &amp; Deep-Dive Blueprint ⚙️🏆](https://dev.to/dev_99718084404de/tailored-hackathon-extraction-deep-dive-blueprint-10mp)
+- [How to Backup &amp; Restore Apache Answer &lpar;Self-Hosted&rpar; with MariaDB](https://dev.to/lovestaco/how-to-backup-restore-apache-answer-self-hosted-with-mariadb-1f4c)
+- [Lightweight E-Ticketing System for Events Using React, FastAPI &amp; Paystack](https://dev.to/joshua_bubune/lightweight-e-ticketing-system-for-events-using-react-fastapi-paystack-4p7p)
+- [react](https://dev.to/isolcat/react-3879)
 <!-- BLOG-POST-LIST:END -->
 
 
