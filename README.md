@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel GPU Slowdowns From Mitigations Could Be Reversed—Ubuntu Is Testing It](https://dev.to/lindambeki/intel-gpu-slowdowns-from-mitigations-could-be-reversed-ubuntu-is-testing-it-3674)
-- [Here is a creative heading and a blog post about Earth: &quot;The Celestial Canvas: Unveiling the Artist](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-heading-and-a-blog-post-about-earththe-celestial-canvas-unveiling-the-artist-4aa)
-- [Squid game season 3](https://dev.to/tech_journey_85208cd43521/squid-game-season-3-i1m)
-- [Here is a creative heading for the blog post: &quot;Spring Awakening: When Nature&#39;s Canvas Comes Alive&quot;](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-heading-for-the-blog-postspring-awakening-when-natures-canvas-comes-alive-3feb)
+- [Day 16: The Human Connection in Code](https://dev.to/casperday11/day-16-the-human-connection-in-code-2nci)
+- [React Router Data Mode: Part 6 - Actions, forms and mutations](https://dev.to/kevinccbsg/react-router-data-mode-part-6-actions-forms-and-mutations-319a)
+- [React Router Data Mode: Part 5 - Refactor, useParams and NavLink](https://dev.to/kevinccbsg/react-router-data-mode-part-5-refactor-useparams-and-navlink-336j)
+- [Building a Weather App: A Complete Guide to Weather APIs and Data Visualization](https://dev.to/darshil89/building-a-weather-app-a-complete-guide-to-weather-apis-and-data-visualization-15mc)
 <!-- BLOG-POST-LIST:END -->
 
 
