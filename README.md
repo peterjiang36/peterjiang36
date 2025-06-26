@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Tailored Hackathon Extraction &amp; Deep-Dive Blueprint ⚙️🏆](https://dev.to/dev_99718084404de/tailored-hackathon-extraction-deep-dive-blueprint-10mp)
-- [How to Backup &amp; Restore Apache Answer &lpar;Self-Hosted&rpar; with MariaDB](https://dev.to/lovestaco/how-to-backup-restore-apache-answer-self-hosted-with-mariadb-1f4c)
-- [Lightweight E-Ticketing System for Events Using React, FastAPI &amp; Paystack](https://dev.to/joshua_bubune/lightweight-e-ticketing-system-for-events-using-react-fastapi-paystack-4p7p)
-- [react](https://dev.to/isolcat/react-3879)
+- [Intel GPU Slowdowns From Mitigations Could Be Reversed—Ubuntu Is Testing It](https://dev.to/lindambeki/intel-gpu-slowdowns-from-mitigations-could-be-reversed-ubuntu-is-testing-it-3674)
+- [Here is a creative heading and a blog post about Earth: &quot;The Celestial Canvas: Unveiling the Artist](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-heading-and-a-blog-post-about-earththe-celestial-canvas-unveiling-the-artist-4aa)
+- [Squid game season 3](https://dev.to/tech_journey_85208cd43521/squid-game-season-3-i1m)
+- [Here is a creative heading for the blog post: &quot;Spring Awakening: When Nature&#39;s Canvas Comes Alive&quot;](https://dev.to/palak_singla_ae13e55615a4/here-is-a-creative-heading-for-the-blog-postspring-awakening-when-natures-canvas-comes-alive-3feb)
 <!-- BLOG-POST-LIST:END -->
 
 
