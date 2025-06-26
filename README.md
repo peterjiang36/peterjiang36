@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Flutter Contacts Integration &lpar;Accessing Native Address Book&rpar;](https://dev.to/flfljh/harmonyos-flutter-contacts-integration-accessing-native-address-book-2bji)
-- [Exploring the Multiline Text Input Component &lpar;Textarea&rpar; in Huawei HarmonyOS](https://dev.to/flfljh/exploring-the-multiline-text-input-component-textarea-in-huawei-harmonyos-ckc)
-- [Deep Dive into ArkWeb: Building Efficient and Secure Web Components](https://dev.to/flfljh/deep-dive-into-arkweb-building-efficient-and-secure-web-components-4pbc)
-- [Como funciona o cálculo do CNPJ? Entenda de forma simples](https://dev.to/leleofg/como-funciona-o-calculo-do-cnpj-entenda-de-forma-simples-45hn)
+- [support upload CH play when account terminated](https://dev.to/ceetran/support-upload-ch-play-when-account-terminated-k2g)
+- [Support upload app CH Play when old account has terminated](https://dev.to/ceetran/support-upload-app-ch-play-when-old-account-has-terminated-19nf)
+- [Rise of OpenJDK &amp; Oracle vs Others](https://dev.to/bsanju/rise-of-openjdk-oracle-vs-others-2aem)
+- [Query the Records Closest to the Specified Time Each Day — From SQL to SPL #43](https://dev.to/judith677/query-the-records-closest-to-the-specified-time-each-day-from-sql-to-spl-43-43a7)
 <!-- BLOG-POST-LIST:END -->
 
 
