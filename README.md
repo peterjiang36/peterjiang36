@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [rulesync: Published a tool to unify management of rules for Claude Code, Gemini CLI, and Cursor](https://dev.to/dyoshikawatech/rulesync-published-a-tool-to-unify-management-of-rules-for-claude-code-gemini-cli-and-cursor-390f)
-- [👹 Longest Binary Subsequence K – LeetCode 2311 &lpar;C++ | JavaScript | Python &rpar;](https://dev.to/om_shree_0709/longest-binary-subsequence-k-leetcode-2311-c-python-javascript-2c23)
-- [Understanding Singleton Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-singleton-design-pattern-a-simple-guide-b5f)
-- [AI Ethics: Are We Creating a Monster?](https://dev.to/sebastian_reid999/ai-ethics-are-we-creating-a-monster-4163)
+- [HarmonyOS Flutter Contacts Integration &lpar;Accessing Native Address Book&rpar;](https://dev.to/flfljh/harmonyos-flutter-contacts-integration-accessing-native-address-book-2bji)
+- [Exploring the Multiline Text Input Component &lpar;Textarea&rpar; in Huawei HarmonyOS](https://dev.to/flfljh/exploring-the-multiline-text-input-component-textarea-in-huawei-harmonyos-ckc)
+- [Deep Dive into ArkWeb: Building Efficient and Secure Web Components](https://dev.to/flfljh/deep-dive-into-arkweb-building-efficient-and-secure-web-components-4pbc)
+- [Como funciona o cálculo do CNPJ? Entenda de forma simples](https://dev.to/leleofg/como-funciona-o-calculo-do-cnpj-entenda-de-forma-simples-45hn)
 <!-- BLOG-POST-LIST:END -->
 
 
