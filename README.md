@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The storytelling, the structure, the honesty. Ashkan Rajaee continues to raise the bar for leadership content.](https://dev.to/thetechstratos/the-storytelling-the-structure-the-honesty-ashkan-rajaee-continues-to-raise-the-bar-for-43e7)
-- [How AI Helped Me Build a CRM Integration 60% Faster: A Real Vue.js + CouchDB Case Study](https://dev.to/ivanrochacardoso/how-ai-helped-me-build-a-crm-integration-60-faster-a-real-vuejs-couchdb-case-study-39no)
-- [Run ef-core in a single file!](https://dev.to/sukkergris/run-ef-core-in-a-single-file-352o)
-- [Mastering URL Slugs: The Developer&#39;s Guide to SEO and User Experience](https://dev.to/mycko22/mastering-url-slugs-the-developers-guide-to-seo-and-user-experience-gf3)
+- [Go Programming: A Beginner&#39;s Guide](https://dev.to/darshil89/go-programming-a-beginners-guide-58l1)
+- [⚙️ Model Client System, Universal Routing &amp; Fine-Tuning &lpar;Transformer + Non-Transformer&rpar; in MultiMind SDK](https://dev.to/multimindsdk/model-client-system-universal-routing-fine-tuning-transformer-non-transformer-in-2aii)
+- [Vite 7.0 Is Here: Rust-Powered Speed, Smarter Tooling &amp; a Cleaner Build Experience](https://dev.to/aggarwal_gaurav_1012/vite-70-is-here-rust-powered-speed-smarter-tooling-a-cleaner-build-experience-1k9j)
+- [Discover the Best AI Tools in One Place — Meet Add AI Directory](https://dev.to/addaidirectory/discover-the-best-ai-tools-in-one-place-meet-add-ai-directory-1nik)
 <!-- BLOG-POST-LIST:END -->
 
 
