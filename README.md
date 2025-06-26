@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Video test](https://dev.to/ben/embed-test-3fmg)
-- [Permissoes de leitura - AWS S3](https://dev.to/guisilva19/permissoes-de-leitura-aws-s3-djk)
-- [Everyone Is Wrong, But Me](https://dev.to/lmlonghuynh/everyone-is-wrong-but-me-54k9)
-- [Growing My Frontend Portfolio &amp; Network: Join Me](https://dev.to/ayokanmi_adejola_42b8f706/growing-my-frontend-portfolio-network-join-me-2gd9)
+- [7 Lessons From My First 6 Months as a Developer](https://dev.to/zerotomastery/7-lessons-from-my-first-6-months-as-a-developer-2h3i)
+- [June Celebration - From Sevastopol](https://dev.to/taylor_nguyen_743404e7fe5/june-celebration-from-sevastopol-4588)
+- [Geometry dash](https://dev.to/reda_trust_422062e3470218/geometry-dash-1d2p)
+- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-2hnj)
 <!-- BLOG-POST-LIST:END -->
 
 
