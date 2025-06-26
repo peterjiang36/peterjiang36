@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lies of P devs get bonus, paid holiday and Switch 2 consoles for hitting sales milestone](https://dev.to/gg_news/lies-of-p-devs-get-bonus-paid-holiday-and-switch-2-consoles-for-hitting-sales-milestone-3cih)
-- [Hands-on with Lumus waveguides](https://dev.to/future_arvr/hands-on-with-lumus-waveguides-2140)
-- [Exclusive: I tested Viture&#39;s next-gen AR glasses, and my eyes couldn&#39;t believe what they saw](https://dev.to/future_arvr/exclusive-i-tested-vitures-next-gen-ar-glasses-and-my-eyes-couldnt-believe-what-they-saw-dd7)
-- [Heart attacks are no longer the leading cause of death in the US](https://dev.to/future_science/heart-attacks-are-no-longer-the-leading-cause-of-death-in-the-us-4c77)
+- [This was incredibly validating. It’s comforting to know others are facing the same chaos and figuring it out too.](https://dev.to/thedenisegagnon/this-was-incredibly-validating-its-comforting-to-know-others-are-facing-the-same-chaos-and-nhh)
+- [The leadership lens that Ashkan Rajaee brings to topics like this is exactly why I follow his work.](https://dev.to/thedenisegagnon/the-leadership-lens-that-ashkan-rajaee-brings-to-topics-like-this-is-exactly-why-i-follow-his-work-3g1f)
+- [Blok Tales: A Visual Novel Made with Storyblok](https://dev.to/ansellmaximilian/blok-tales-a-visual-novel-made-with-storyblok-1d26)
+- [Understanding Callback Functions, Arrow Functions, and useEffect in React](https://dev.to/rajeshwari_rajeshwari_0e5/understanding-callback-functions-arrow-functions-and-useeffect-in-react-2jn7)
 <!-- BLOG-POST-LIST:END -->
 
 
