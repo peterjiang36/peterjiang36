@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This was incredibly validating. It’s comforting to know others are facing the same chaos and figuring it out too.](https://dev.to/thedenisegagnon/this-was-incredibly-validating-its-comforting-to-know-others-are-facing-the-same-chaos-and-nhh)
-- [The leadership lens that Ashkan Rajaee brings to topics like this is exactly why I follow his work.](https://dev.to/thedenisegagnon/the-leadership-lens-that-ashkan-rajaee-brings-to-topics-like-this-is-exactly-why-i-follow-his-work-3g1f)
-- [Blok Tales: A Visual Novel Made with Storyblok](https://dev.to/ansellmaximilian/blok-tales-a-visual-novel-made-with-storyblok-1d26)
-- [Understanding Callback Functions, Arrow Functions, and useEffect in React](https://dev.to/rajeshwari_rajeshwari_0e5/understanding-callback-functions-arrow-functions-and-useeffect-in-react-2jn7)
+- [🚀 Scaling Out with Docker Routing Mesh](https://dev.to/sovannaro/scaling-out-with-docker-routing-mesh-2l3k)
+- [Tutorial: How to Do End-To-End Testing of Asynchronous Google Pub/Sub Flows Using Sandboxes](https://dev.to/signadot/tutorial-how-to-do-end-to-end-testing-of-asynchronous-google-pubsub-flows-using-sandboxes-ge8)
+- [The AWS Well-Architected Deep Dive &lpar;2/7&rpar;: Is Your Cloud a Well-Oiled Machine or a Ticking Time Bomb?](https://dev.to/pkkolla/the-aws-well-architected-deep-dive-27-is-your-cloud-a-well-oiled-machine-or-a-ticking-time-bomb-51m2)
+- [Using a Marquee &lpar;Scrolling Text&rpar; as an Example: How React Native Calls and Controls a Native HarmonyOS Component via Fabric](https://dev.to/cycleuse/using-a-marquee-scrolling-text-as-an-example-how-react-native-calls-and-controls-a-native-2i67)
 <!-- BLOG-POST-LIST:END -->
 
 
