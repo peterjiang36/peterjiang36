@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Snowflake&#39;s New Feature]dbt Projects on Snowflake: Run Your Entire dbt Workflow Directly in Snowflake](https://dev.to/sagara/snowflakes-new-featuredbt-projects-on-snowflake-run-your-entire-dbt-workflow-directly-in-1j2l)
-- [Day-44 Understanding the useEffect Hook in React](https://dev.to/tamilselvan1812/day-44-understanding-the-useeffect-hook-in-react-2mgc)
-- [🚧 A Free &quot;Under Construction&quot; Page Template for Everyone!](https://dev.to/devaur03/a-free-under-construction-page-template-for-everyone-4llo)
-- [GPT-4.1 &lpar;2025&rpar;: The Refined AI Powerhouse Now Available on Chat4O](https://dev.to/chat4o_ai_64bc2ec253d50e6/gpt-41-2025-the-refined-ai-powerhouse-now-available-on-chat4o-ip3)
+- [🕵️ &quot;We Thought It Was Secure… Until It Wasn&#39;t.&quot;](https://dev.to/okoye_ndidiamaka_5e3b7d30/we-thought-it-was-secure-until-it-wasnt-18l2)
+- [Advanced Patterns for Event Handling in Browser Environments](https://dev.to/omriluz1/advanced-patterns-for-event-handling-in-browser-environments-1jk4)
+- [Ng-News 25/25: &quot;Charted&quot; Coding, SSR &amp; Incremental Hydration](https://dev.to/this-is-angular/ng-news-2525-charted-coding-ssr-incremental-hydration-40ne)
+- [Odoo 101: View](https://dev.to/drownie/odoo-101-view-2c43)
 <!-- BLOG-POST-LIST:END -->
 
 
