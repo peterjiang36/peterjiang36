@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Anonymous Developer Who Fixed a Government System Overnight](https://dev.to/freezystock/the-anonymous-developer-who-fixed-a-government-system-overnight-6ie)
-- [# Secure the Future: Dive into Innovations in Digital Archiving](https://dev.to/mosininamdar/-secure-the-future-dive-into-innovations-in-digital-archiving-1b3e)
-- [Azure Fundamentals: Microsoft.VMware](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmware-5gpk)
-- [Why I Stopped Using SQL Queries for AI Workloads &lpar;and What Happened Next&rpar;](https://dev.to/e_b680bbca20c348/why-i-stopped-using-sql-queries-for-ai-workloads-and-what-happened-next-4lcj)
+- [𝗜 𝘁𝗿𝗶𝗲𝗱 𝗢𝗹𝗹𝗮𝗺𝗮 𝘁𝗼 𝗿𝘂𝗻 𝗟𝗟𝗠𝘀 𝗹𝗼𝗰𝗮𝗹𝗹𝘆, 𝗮𝗻𝗱 𝗶𝘁&#39;𝘀 𝗮𝗺𝗮𝘇𝗶𝗻𝗴!](https://dev.to/richa-parekh/--2168)
+- [Programming as a Art - chapter- 4](https://dev.to/pjdeveloper896/programming-as-a-art-chapter-4-807)
+- [Ollama: How to Easily Run LLMs Locally on Your Computer](https://dev.to/richa-parekh/ollama-how-to-easily-run-local-llms-on-your-computer-4g9o)
+- [Switch branches better with git switch. Read to find out how.](https://dev.to/ibrahimalanshor/switch-branches-better-with-git-switch-read-to-find-out-how-3kk0)
 <!-- BLOG-POST-LIST:END -->
 
 
