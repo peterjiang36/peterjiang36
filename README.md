@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails on Jets: Serverless Active Record? Here’s What Broke](https://dev.to/alex_aslam/rails-on-jets-serverless-active-record-heres-what-broke-54am)
-- [Day 4: software engineering Insights &lpar;#4&rpar;](https://dev.to/milade/day-4-software-engineering-insights-4-4nc6)
-- [Building a Multi-Application Kubernetes Marketplace: TCP/UDP App Onboarding at Scale](https://dev.to/kahuna04/building-a-multi-application-kubernetes-marketplace-tcpudp-app-onboarding-at-scale-1i74)
-- [Day 3: software engineering Insights &lpar;#3&rpar;](https://dev.to/milade/day-3-software-engineering-insights-3-54mn)
+- [rulesync: Published a tool to unify management of rules for Claude Code, Gemini CLI, and Cursor](https://dev.to/dyoshikawatech/rulesync-published-a-tool-to-unify-management-of-rules-for-claude-code-gemini-cli-and-cursor-390f)
+- [👹 Longest Binary Subsequence K – LeetCode 2311 &lpar;C++ | JavaScript | Python &rpar;](https://dev.to/om_shree_0709/longest-binary-subsequence-k-leetcode-2311-c-python-javascript-2c23)
+- [Understanding Singleton Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-singleton-design-pattern-a-simple-guide-b5f)
+- [AI Ethics: Are We Creating a Monster?](https://dev.to/sebastian_reid999/ai-ethics-are-we-creating-a-monster-4163)
 <!-- BLOG-POST-LIST:END -->
 
 
