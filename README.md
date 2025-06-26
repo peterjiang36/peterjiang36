@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose and Actually Finish an Online Course](https://dev.to/homayunmmdy/how-to-choose-and-actually-finish-an-online-course-4dnb)
-- [Making Sense of Cloud Costs with the FOCUS Framework](https://dev.to/navedrizv/making-sense-of-cloud-costs-with-the-focus-framework-3j52)
-- [AI in App Testing – How To Use It Effectively](https://dev.to/misterankit/ai-in-app-testing-how-to-use-it-effectively-495c)
-- [How AI Code Review Tools Are Transforming Code Quality and Developer Velocity](https://dev.to/pantoai/how-ai-code-review-tools-are-transforming-code-quality-and-developer-velocity-amj)
+- [Comparing Qodo and GitHub Copilot 🕵️](https://dev.to/dev_kiran/comparing-qodo-and-github-copilot-4l2b)
+- [Gemini CLI tells: What Tools Do the Gemini CLI Use for AI Coding? Comparing Gemini, Claude, and Cursor](https://dev.to/javeedishaq/gemini-cli-tells-what-tools-do-the-gemini-cli-use-for-ai-coding-comparing-gemini-claude-and-416f)
+- [How to Build Your First Swift Package](https://dev.to/swift_pal/how-to-build-your-first-swift-package-5df6)
+- [🚧 Brutalist web design isn’t for everyone. But if you want bold, raw, and memorable, it’s a game-changer. I&#39;m not here to blend in. I&#39;m here to build websites that stop the scroll. #WebDesign #Brutalism #UXUI](https://dev.to/highcenburg/brutalist-web-design-isnt-for-everyone-but-if-you-want-bold-raw-and-memorable-its-a-a24)
 <!-- BLOG-POST-LIST:END -->
 
 
