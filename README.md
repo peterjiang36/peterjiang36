@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BSE Simulator - Demo &amp; Documentation](https://dev.to/pandeakshat/bse-simulator-demo-documentation-1pjd)
-- [The Power of Power BI](https://dev.to/godwill98/the-power-of-power-bi-4f2l)
-- [# An Introduction and the Power of Power BI 🚀 In today&#39;s tech-savvy world, data is everywhere. Whether you&#39;re working on a side project, running a business, or just trying to make sense of your spreadsheets, understanding your data is key. This is where](https://dev.to/godwill98/-an-introduction-and-the-power-of-power-bi-in-todays-tech-savvy-world-data-is-everywhere-301e)
-- [Hands-On with Amazon Bedrock Agents: Hotel Booking Assistant with Action Groups and Knowledge Bases](https://dev.to/mohsinsheikhani/hands-on-with-amazon-bedrock-agents-hotel-booking-assistant-with-action-groups-and-knowledge-bases-1j)
+- [Lies of P devs get bonus, paid holiday and Switch 2 consoles for hitting sales milestone](https://dev.to/gg_news/lies-of-p-devs-get-bonus-paid-holiday-and-switch-2-consoles-for-hitting-sales-milestone-3cih)
+- [Hands-on with Lumus waveguides](https://dev.to/future_arvr/hands-on-with-lumus-waveguides-2140)
+- [Exclusive: I tested Viture&#39;s next-gen AR glasses, and my eyes couldn&#39;t believe what they saw](https://dev.to/future_arvr/exclusive-i-tested-vitures-next-gen-ar-glasses-and-my-eyes-couldnt-believe-what-they-saw-dd7)
+- [Heart attacks are no longer the leading cause of death in the US](https://dev.to/future_science/heart-attacks-are-no-longer-the-leading-cause-of-death-in-the-us-4c77)
 <!-- BLOG-POST-LIST:END -->
 
 
