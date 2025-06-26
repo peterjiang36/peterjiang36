@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Qodo and GitHub Copilot 🕵️](https://dev.to/dev_kiran/comparing-qodo-and-github-copilot-4l2b)
-- [Gemini CLI tells: What Tools Do the Gemini CLI Use for AI Coding? Comparing Gemini, Claude, and Cursor](https://dev.to/javeedishaq/gemini-cli-tells-what-tools-do-the-gemini-cli-use-for-ai-coding-comparing-gemini-claude-and-416f)
-- [How to Build Your First Swift Package](https://dev.to/swift_pal/how-to-build-your-first-swift-package-5df6)
-- [🚧 Brutalist web design isn’t for everyone. But if you want bold, raw, and memorable, it’s a game-changer. I&#39;m not here to blend in. I&#39;m here to build websites that stop the scroll. #WebDesign #Brutalism #UXUI](https://dev.to/highcenburg/brutalist-web-design-isnt-for-everyone-but-if-you-want-bold-raw-and-memorable-its-a-a24)
+- [[Snowflake&#39;s New Feature]dbt Projects on Snowflake: Run Your Entire dbt Workflow Directly in Snowflake](https://dev.to/sagara/snowflakes-new-featuredbt-projects-on-snowflake-run-your-entire-dbt-workflow-directly-in-1j2l)
+- [Day-44 Understanding the useEffect Hook in React](https://dev.to/tamilselvan1812/day-44-understanding-the-useeffect-hook-in-react-2mgc)
+- [🚧 A Free &quot;Under Construction&quot; Page Template for Everyone!](https://dev.to/devaur03/a-free-under-construction-page-template-for-everyone-4llo)
+- [GPT-4.1 &lpar;2025&rpar;: The Refined AI Powerhouse Now Available on Chat4O](https://dev.to/chat4o_ai_64bc2ec253d50e6/gpt-41-2025-the-refined-ai-powerhouse-now-available-on-chat4o-ip3)
 <!-- BLOG-POST-LIST:END -->
 
 
