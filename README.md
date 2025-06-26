@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [support upload CH play when account terminated](https://dev.to/ceetran/support-upload-ch-play-when-account-terminated-k2g)
-- [Support upload app CH Play when old account has terminated](https://dev.to/ceetran/support-upload-app-ch-play-when-old-account-has-terminated-19nf)
-- [Rise of OpenJDK &amp; Oracle vs Others](https://dev.to/bsanju/rise-of-openjdk-oracle-vs-others-2aem)
-- [Query the Records Closest to the Specified Time Each Day — From SQL to SPL #43](https://dev.to/judith677/query-the-records-closest-to-the-specified-time-each-day-from-sql-to-spl-43-43a7)
+- [The Anonymous Developer Who Fixed a Government System Overnight](https://dev.to/freezystock/the-anonymous-developer-who-fixed-a-government-system-overnight-6ie)
+- [# Secure the Future: Dive into Innovations in Digital Archiving](https://dev.to/mosininamdar/-secure-the-future-dive-into-innovations-in-digital-archiving-1b3e)
+- [Azure Fundamentals: Microsoft.VMware](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmware-5gpk)
+- [Why I Stopped Using SQL Queries for AI Workloads &lpar;and What Happened Next&rpar;](https://dev.to/e_b680bbca20c348/why-i-stopped-using-sql-queries-for-ai-workloads-and-what-happened-next-4lcj)
 <!-- BLOG-POST-LIST:END -->
 
 
