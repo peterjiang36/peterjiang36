@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Go Packages Worth Your Time](https://dev.to/oyedeletemitope/15-go-packages-worth-your-time-3loj)
-- [10 das melhores placas de vídeo para programadores em 2025](https://dev.to/marcosplusplus/10-das-melhores-placas-de-video-para-programadores-em-2025-54d5)
-- [Top Vue Admin Templates on GitHub](https://dev.to/brijesh_dobariya/top-free-vue-admin-templates-on-github-34fe)
-- [Auto-Investing: How I Stopped Chasing the Perfect Entry Point](https://dev.to/cryptosandy/auto-investing-how-i-stopped-chasing-the-perfect-entry-point-5cj7)
+- [BSE Simulator - Demo &amp; Documentation](https://dev.to/pandeakshat/bse-simulator-demo-documentation-1pjd)
+- [The Power of Power BI](https://dev.to/godwill98/the-power-of-power-bi-4f2l)
+- [# An Introduction and the Power of Power BI 🚀 In today&#39;s tech-savvy world, data is everywhere. Whether you&#39;re working on a side project, running a business, or just trying to make sense of your spreadsheets, understanding your data is key. This is where](https://dev.to/godwill98/-an-introduction-and-the-power-of-power-bi-in-todays-tech-savvy-world-data-is-everywhere-301e)
+- [Hands-On with Amazon Bedrock Agents: Hotel Booking Assistant with Action Groups and Knowledge Bases](https://dev.to/mohsinsheikhani/hands-on-with-amazon-bedrock-agents-hotel-booking-assistant-with-action-groups-and-knowledge-bases-1j)
 <!-- BLOG-POST-LIST:END -->
 
 
