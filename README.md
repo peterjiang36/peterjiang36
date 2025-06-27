@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a REST API with Node.js and Express](https://dev.to/muhammadatiflatif/how-to-build-a-rest-api-with-nodejs-and-express-1m39)
-- [Things Every JavaScript Engineer Knows—But Needs to Hear Again](https://dev.to/urbanisierung/things-every-javascript-engineer-knows-but-needs-to-hear-again-504b)
-- [Why Your Deadlines Are Wrong: Evidence-Based Estimation for Developers](https://dev.to/teamcamp/why-your-deadlines-are-wrong-evidence-based-estimation-for-developers-110d)
-- [Windows Logging For SOC | TryHackMe](https://dev.to/dhwanit25/windows-logging-for-soc-tryhackme-4de1)
+- [🚀 5 Must-Know Modern JavaScript Tips for Cleaner Code](https://dev.to/mdshijanali/5-must-know-modern-javascript-tips-for-cleaner-code-3fom)
+- [Inside the Critical Rendering Path: What Your Browser Is Really Doing](https://dev.to/abhinavshinoy90/inside-the-critical-rendering-path-what-your-browser-is-really-doing-15mp)
+- [Save Smarter: Introducing Cost-Saving Pause Mode for Your ClawCloud Run DevBox!](https://dev.to/clawcloudrun/save-smarter-introducing-cost-saving-pause-mode-for-your-clawcloud-run-devbox-25ic)
+- [What is Tails OS?](https://dev.to/dat_one_dev/what-is-tails-os-a8i)
 <!-- BLOG-POST-LIST:END -->
 
 
