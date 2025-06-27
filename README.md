@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Great to see someone talking about funnel structure with real expertise and clarity.](https://dev.to/noahboswel79/great-to-see-someone-talking-about-funnel-structure-with-real-expertise-and-clarity-lfa)
-- [Migration to a Safe and Affordable Country: A Smart Step Towards Building a Better Future](https://dev.to/sobati_5e12d6a6f6e3663f98/migration-to-a-safe-and-affordable-country-a-smart-step-towards-building-a-better-future-2c9i)
-- [We use a lot of programming languages at Fermyon -- TypeScript, Go, Rust, Python.... But for the core tooling, we chose Rust. Here&#39;s why.](https://dev.to/technosophos/we-use-a-lot-of-programming-languages-at-fermyon-typescript-go-rust-python-but-for-the-lco)
-- [Introducing Batch Transactions on the XRP Ledger: More Opportunities, Less Friction](https://dev.to/ripplexdev/introducing-batch-transactions-on-the-xrp-ledger-more-opportunities-less-friction-50h5)
+- [Claude Learns to Blackmail? : Anthropic&#39;s Research](https://dev.to/grenishrai/claude-learns-to-blackmail-anthropics-research-mhf)
+- [Automating Vault Installation with Ansible on Ubuntu](https://dev.to/lovestaco/automating-vault-installation-with-ansible-on-ubuntu-3k3i)
+- [A Personal Portfolio you must try !](https://dev.to/msranjana/a-personal-portfolio-you-must-try--jdj)
+- [From Beginner to Clean Coder: A Junior Developer&#39;s Journey](https://dev.to/devcorner/from-beginner-to-clean-coder-a-junior-developers-journey-17b5)
 <!-- BLOG-POST-LIST:END -->
 
 
