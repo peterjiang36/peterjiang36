@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Realistic CTF? Here&#39;s Why We Picked SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/building-a-realistic-ctf-heres-why-we-picked-safeline-waf-ndk)
-- [I&#39;ve launched my YouTube Channel 📹](https://dev.to/this-is-learning/ive-launched-my-youtube-channel-b01)
-- [Learn CSS - Skip link](https://dev.to/marcelinaredocindo14/learn-css-skip-link-2djk)
-- [Learn CSS - Flexbox - Intro](https://dev.to/marcelinaredocindo14/learn-css-flexbox-intro-2ipk)
+- [Advancements in Computer Science Learning: A Synthesis of Recent Research in AI and Machine Learning](https://dev.to/khanali21/advancements-in-computer-science-learning-a-synthesis-of-recent-research-in-ai-and-machine-learning-37cf)
+- [Advancing Artificial Intelligence: Safety, Personalization, and Practical Applications in Recent Research](https://dev.to/khanali21/advancing-artificial-intelligence-safety-personalization-and-practical-applications-in-recent-3oig)
+- [The Rise of Flutter Jobs in 2025: Why Now Is the Best Time to Be a Flutter Developer](https://dev.to/jobswithflutter/the-rise-of-flutter-jobs-in-2025-why-now-is-the-best-time-to-be-a-flutter-developer-4ik5)
+- [👋 Hello dev.to! My Journey into Full-Stack Web Development 🚀](https://dev.to/cwillam/hello-devto-my-journey-into-full-stack-web-development-4jbj)
 <!-- BLOG-POST-LIST:END -->
 
 
