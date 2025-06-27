@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mind and Medicine: How Psychiatry and Primary Care Work Together](https://dev.to/thehealinghead2toe/mind-and-medicine-how-psychiatry-and-primary-care-work-together-4ne4)
-- [How to Make a Vue Component Work with v-model](https://dev.to/ibrahimalanshor/how-to-make-a-vue-component-work-with-v-model-5h2a)
-- [Effect: Schema optimisation with synchronous transformations](https://dev.to/khraks_mamtsov/effect-schema-optimisation-with-synchronous-transformations-2acp)
-- [Make Your Next.js App Fly: Performance Hacks That Work](https://dev.to/lokesh_sunhare_cd0ac18643/make-your-nextjs-app-fly-performance-hacks-that-work-2bgf)
+- [Building a Realistic CTF? Here&#39;s Why We Picked SafeLine WAF](https://dev.to/sharon_42e16b8da44dabde6d/building-a-realistic-ctf-heres-why-we-picked-safeline-waf-ndk)
+- [I&#39;ve launched my YouTube Channel 📹](https://dev.to/this-is-learning/ive-launched-my-youtube-channel-b01)
+- [Learn CSS - Skip link](https://dev.to/marcelinaredocindo14/learn-css-skip-link-2djk)
+- [Learn CSS - Flexbox - Intro](https://dev.to/marcelinaredocindo14/learn-css-flexbox-intro-2ipk)
 <!-- BLOG-POST-LIST:END -->
 
 
