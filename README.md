@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Vue.js is a Great Starting Point for New Coders](https://dev.to/eleftheriabatsou/why-vuejs-is-a-great-starting-point-for-new-coders-8l6)
-- [🚀 Production-Ready: 6 Advanced Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/advanced-techniques-to-supercharge-your-llmservice-1i40)
-- [Stop using your system Perl](https://dev.to/davorg/stop-using-your-system-perl-3ap5)
-- [Revolutionizing API Testing with AI: My Journey with Keploy](https://dev.to/awadheshgupta/revolutionizing-api-testing-with-ai-my-journey-with-keploy-4a0)
+- [DAY 15-CSS POSITIONS](https://dev.to/asran_2025/day-15-css-positions-ogk)
+- [Building and Dockerizing a Django To-Do List API – My First Real Backend Project!](https://dev.to/nlankwei5/building-and-dockerizing-a-django-to-do-list-api-my-first-real-backend-project-1k4a)
+- [STOP Paying BuiltWith, SimilarTech &amp; Wappalyzer - My 2-Day Build Gives You Unlimited, Free, Community-Driven Tech-Stack Data](https://dev.to/axrisi/stop-paying-builtwith-similartech-wappalyzer-my-2-day-build-gives-you-unlimited-free-34i0)
+- [Chat &amp; Video Call Application Using Socket.IO &amp; WebRTC](https://dev.to/roycanales17/chat-video-call-application-using-socketio-webrtc-3e3f)
 <!-- BLOG-POST-LIST:END -->
 
 
