@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Lessons From My First 6 Months as a Developer](https://dev.to/zerotomastery/7-lessons-from-my-first-6-months-as-a-developer-2h3i)
-- [June Celebration - From Sevastopol](https://dev.to/taylor_nguyen_743404e7fe5/june-celebration-from-sevastopol-4588)
-- [Geometry dash](https://dev.to/reda_trust_422062e3470218/geometry-dash-1d2p)
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-2hnj)
+- [From expected to actual: Kotlin doesn&#39;t reinvent, it reuses 🔄](https://dev.to/romaa_dev/from-expected-to-actual-kotlin-doesnt-reinvent-it-reuses-304j)
+- [The Morning I Realised I&#39;d Built Something Bigger Than Myself](https://dev.to/revisepdf/the-morning-i-realised-id-built-something-bigger-than-myself-1p23)
+- [SSIS tutorial: Connecto to SFTP](https://dev.to/zappysys/ssis-tutorial-connecto-to-sftp-6f9)
+- [Razorpay-Clone](https://dev.to/amarjeetjyotish/razorpay-clone-4i5o)
 <!-- BLOG-POST-LIST:END -->
 
 
