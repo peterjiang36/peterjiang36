@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Claude 3 Sonnet in Amazon Bedrock Console](https://dev.to/jajera/how-to-enable-claude-3-sonnet-in-amazon-bedrock-console-4jd6)
-- [Building a Laravel Blog with ChatGPT Codex](https://dev.to/blamsa0mine/building-a-laravel-blog-with-chatgpt-codex-4fdk)
-- [Building a Super Mario-Style Platformer Game with Amazon Q Developer](https://dev.to/pawansharmaggc/building-a-super-mario-style-platformer-game-with-amazon-q-developer-5b35)
-- [Lagoon v2.26: Enhanced User Experience and Platform Reliability](https://dev.to/uselagoon/lagoon-v226-enhanced-user-experience-and-platform-reliability-319c)
+- [Why Vue.js is a Great Starting Point for New Coders](https://dev.to/eleftheriabatsou/why-vuejs-is-a-great-starting-point-for-new-coders-8l6)
+- [🚀 Production-Ready: 6 Advanced Fixes for Your LLMService Class 🚀](https://dev.to/mrzaizai2k/advanced-techniques-to-supercharge-your-llmservice-1i40)
+- [Stop using your system Perl](https://dev.to/davorg/stop-using-your-system-perl-3ap5)
+- [Revolutionizing API Testing with AI: My Journey with Keploy](https://dev.to/awadheshgupta/revolutionizing-api-testing-with-ai-my-journey-with-keploy-4a0)
 <!-- BLOG-POST-LIST:END -->
 
 
