@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building A Wallet System - Part 1: Authentication with Apollo Server](https://dev.to/adeoluwa/building-a-wallet-system-part-1-authentication-with-apollo-server-g5o)
-- [API Testing Made Easy with Keploy Chrome Extension: My Flask Bookstore App Experience](https://dev.to/debasis_sikdar_694ff705ea/api-testing-made-easy-with-keploy-chrome-extension-my-flask-bookstore-app-experience-25hg)
-- [Understanding Redis Key Expiration: How Temporary Data Stays Under Control](https://dev.to/rijultp/understanding-redis-key-expiration-how-temporary-data-stays-under-control-1gej)
-- [Task 4 of the Keploy API Fellowship Program – My Experience with the Chrome Extension](https://dev.to/lucifero01/task-4-of-the-keploy-api-fellowship-program-my-experience-with-the-chrome-extension-560g)
+- [Extreme Left Shifting](https://dev.to/sebs/extreme-left-shifting-1lnm)
+- [Introducing Zenoscript](https://dev.to/wess/introducing-zenoscript-1aoc)
+- [Start here/About Me](https://dev.to/brigita/start-hereabout-me-5cp7)
+- [From Cloud Lag to GPU Speed: How Dedicated Servers Are Revolutionizing Remote Work and Development](https://dev.to/helloserver/from-cloud-lag-to-gpu-speed-how-dedicated-servers-are-revolutionizing-remote-work-and-development-2ehb)
 <!-- BLOG-POST-LIST:END -->
 
 
