@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [in which aspects does DINOv2 improve DINO?](https://dev.to/henri_wang_d48b1e9bc1ea79/in-which-aspects-does-dinov2-improve-dino-1j6j)
-- [Azure Fundamentals: Microsoft.VMwareCloudSimple](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvmwarecloudsimple-2ojn)
-- [The Illusion of Intelligence](https://dev.to/sonmusui/the-illusion-of-intelligence-2e6)
-- [HarmonyOS5-NewsAPP-KnockShare](https://dev.to/zhousg/harmonyos5-newsapp-knockshare-1e6g)
+- [My take on Go-To-Market &lpar;GTM&rpar;?](https://dev.to/sonmusui/my-take-on-go-to-market-gtm-4plj)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-40jp)
+- [CVE-2024-49113: Windows LDAP Flaw Lets Hackers Crash Domain Controllers](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-49113-windows-ldap-flaw-lets-hackers-crash-domain-controllers-2j5b)
+- [Data Types, Data Structures, and Abstract Data Types – What’s the Difference](https://dev.to/pavitha_p_8d395e2a97f9b8b/data-types-data-structures-and-abstract-data-types-whats-the-difference-392n)
 <!-- BLOG-POST-LIST:END -->
 
 
