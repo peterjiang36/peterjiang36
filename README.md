@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
-- [Just launched a free 9-chapter course on Agentic AI Systems](https://dev.to/adiapplab_a693f56906b67cc/just-launched-a-free-9-chapter-course-on-agentic-ai-systems-2h1c)
-- [Prompting Pixels: How Amazon Q Powered My Asteroids Homage](https://dev.to/farrukhkhalid/prompting-pixels-how-amazon-q-powered-my-asteroids-homage-2alp)
-- [Is JavaScript Fatigue Still a Real Thing in 2025?](https://dev.to/h_abbasi_02bdbc5b9bd/is-javascript-fatigue-still-a-real-thing-in-2025-3jom)
+- [How to Enable Claude 3 Sonnet in Amazon Bedrock Console](https://dev.to/jajera/how-to-enable-claude-3-sonnet-in-amazon-bedrock-console-4jd6)
+- [Building a Laravel Blog with ChatGPT Codex](https://dev.to/blamsa0mine/building-a-laravel-blog-with-chatgpt-codex-4fdk)
+- [Building a Super Mario-Style Platformer Game with Amazon Q Developer](https://dev.to/pawansharmaggc/building-a-super-mario-style-platformer-game-with-amazon-q-developer-5b35)
+- [Lagoon v2.26: Enhanced User Experience and Platform Reliability](https://dev.to/uselagoon/lagoon-v226-enhanced-user-experience-and-platform-reliability-319c)
 <!-- BLOG-POST-LIST:END -->
 
 
