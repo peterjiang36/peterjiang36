@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From expected to actual: Kotlin doesn&#39;t reinvent, it reuses 🔄](https://dev.to/romaa_dev/from-expected-to-actual-kotlin-doesnt-reinvent-it-reuses-304j)
-- [The Morning I Realised I&#39;d Built Something Bigger Than Myself](https://dev.to/revisepdf/the-morning-i-realised-id-built-something-bigger-than-myself-1p23)
-- [SSIS tutorial: Connecto to SFTP](https://dev.to/zappysys/ssis-tutorial-connecto-to-sftp-6f9)
-- [Razorpay-Clone](https://dev.to/amarjeetjyotish/razorpay-clone-4i5o)
+- [Implementing an Exam Timer in HarmonyOS Next](https://dev.to/flfljh/implementing-an-exam-timer-in-harmonyos-next-2kif)
+- [Implementing Responsive Tab Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-tab-bar-in-harmonyos-next-mf5)
+- [Implementing Responsive Knowledge Point Layouts in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-knowledge-point-layouts-in-harmonyos-next-nmf)
+- [HarmonyOS NEXT开发实战：从图标库到布局属性全解析](https://dev.to/_e70d0b4a9f2c778ce1fcb3/harmonyos-nextkai-fa-shi-zhan-cong-tu-biao-ku-dao-bu-ju-shu-xing-quan-jie-xi-3ge3)
 <!-- BLOG-POST-LIST:END -->
 
 
