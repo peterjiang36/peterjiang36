@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My take on Go-To-Market &lpar;GTM&rpar;?](https://dev.to/sonmusui/my-take-on-go-to-market-gtm-4plj)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-40jp)
-- [CVE-2024-49113: Windows LDAP Flaw Lets Hackers Crash Domain Controllers](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-49113-windows-ldap-flaw-lets-hackers-crash-domain-controllers-2j5b)
-- [Data Types, Data Structures, and Abstract Data Types – What’s the Difference](https://dev.to/pavitha_p_8d395e2a97f9b8b/data-types-data-structures-and-abstract-data-types-whats-the-difference-392n)
+- [How to Build a REST API with Node.js and Express](https://dev.to/muhammadatiflatif/how-to-build-a-rest-api-with-nodejs-and-express-1m39)
+- [Things Every JavaScript Engineer Knows—But Needs to Hear Again](https://dev.to/urbanisierung/things-every-javascript-engineer-knows-but-needs-to-hear-again-504b)
+- [Why Your Deadlines Are Wrong: Evidence-Based Estimation for Developers](https://dev.to/teamcamp/why-your-deadlines-are-wrong-evidence-based-estimation-for-developers-110d)
+- [Windows Logging For SOC | TryHackMe](https://dev.to/dhwanit25/windows-logging-for-soc-tryhackme-4de1)
 <!-- BLOG-POST-LIST:END -->
 
 
