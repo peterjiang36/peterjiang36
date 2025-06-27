@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 5 Must-Know Modern JavaScript Tips for Cleaner Code](https://dev.to/mdshijanali/5-must-know-modern-javascript-tips-for-cleaner-code-3fom)
-- [Inside the Critical Rendering Path: What Your Browser Is Really Doing](https://dev.to/abhinavshinoy90/inside-the-critical-rendering-path-what-your-browser-is-really-doing-15mp)
-- [Save Smarter: Introducing Cost-Saving Pause Mode for Your ClawCloud Run DevBox!](https://dev.to/clawcloudrun/save-smarter-introducing-cost-saving-pause-mode-for-your-clawcloud-run-devbox-25ic)
-- [What is Tails OS?](https://dev.to/dat_one_dev/what-is-tails-os-a8i)
+- [Mind and Medicine: How Psychiatry and Primary Care Work Together](https://dev.to/thehealinghead2toe/mind-and-medicine-how-psychiatry-and-primary-care-work-together-4ne4)
+- [How to Make a Vue Component Work with v-model](https://dev.to/ibrahimalanshor/how-to-make-a-vue-component-work-with-v-model-5h2a)
+- [Effect: Schema optimisation with synchronous transformations](https://dev.to/khraks_mamtsov/effect-schema-optimisation-with-synchronous-transformations-2acp)
+- [Make Your Next.js App Fly: Performance Hacks That Work](https://dev.to/lokesh_sunhare_cd0ac18643/make-your-nextjs-app-fly-performance-hacks-that-work-2bgf)
 <!-- BLOG-POST-LIST:END -->
 
 
