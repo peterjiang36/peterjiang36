@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging Entity Framework Core: Efficient Bulk Inserts Without Loops or Raw SQL](https://dev.to/davinceleecode/supercharging-entity-framework-core-efficient-bulk-inserts-without-loops-or-raw-sql-1356)
+- [Untitle](https://dev.to/rober2184/untitle-5egm)
+- [Without a Native Operating System, Decentralized AI Cannot Exist — This Is Why SeaOS Was Born](https://dev.to/seaos_ai/without-a-native-operating-system-decentralized-ai-cannot-exist-this-is-why-seaos-was-born-pl7)
 - [Implementing an Exam Timer in HarmonyOS Next](https://dev.to/flfljh/implementing-an-exam-timer-in-harmonyos-next-2kif)
-- [Implementing Responsive Tab Bar in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-tab-bar-in-harmonyos-next-mf5)
-- [Implementing Responsive Knowledge Point Layouts in HarmonyOS Next](https://dev.to/flfljh/implementing-responsive-knowledge-point-layouts-in-harmonyos-next-nmf)
-- [HarmonyOS NEXT开发实战：从图标库到布局属性全解析](https://dev.to/_e70d0b4a9f2c778ce1fcb3/harmonyos-nextkai-fa-shi-zhan-cong-tu-biao-ku-dao-bu-ju-shu-xing-quan-jie-xi-3ge3)
 <!-- BLOG-POST-LIST:END -->
 
 
