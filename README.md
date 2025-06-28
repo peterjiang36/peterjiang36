@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [who want to vibe together](https://dev.to/open_efficiency/who-want-to-vibe-together-1nik)
-- [Dynamic Imports](https://dev.to/jay818/dynamic-imports-15i6)
-- [Deploy a TypeScript Node.js App to Vercel using Vercel CLI](https://dev.to/alifa_ara_heya/deploy-a-typescript-nodejs-app-to-vercel-using-vercel-cli-1oph)
-- [Tech Layoffs Continue Amid AI Shift: A Deep Dive into the Changing Landscape of Employment](https://dev.to/archil_gajera/tech-layoffs-continue-amid-ai-shift-a-deep-dive-into-the-changing-landscape-of-employment-383l)
+- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
+- [[Boost]](https://dev.to/rakeshv675/-46go)
+- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
+- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
 <!-- BLOG-POST-LIST:END -->
 
 
