@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Looping Statements using while loop,for loop](https://dev.to/dinesh_nagarajan_7f102d3e/basic-looping-statements-using-while-loopfor-loop-4d57)
-- [Vue.js Image Optimization: Beyond the Basics](https://dev.to/hardik_b2d8f0bca/vuejs-image-optimization-beyond-the-basics-1pch)
-- [&quot;🎨 Programming as an Art — A Book Every Young Coder Should Read&quot;](https://dev.to/pjdeveloper896/-programming-as-an-art-a-book-every-young-coder-should-read-11lk)
-- [Programming as Art - By Developer Prasoon](https://dev.to/pjdeveloper896/programming-as-art-by-developer-prasoon-p9f)
+- [Python Trending Weekly #108：Will AI Replace Junior Developers?](https://dev.to/pythoncat/python-trending-weekly-108will-ai-replace-junior-developers-258e)
+- [Beyond Speed: A Smarter Framework for Measuring AI Developer Efficiency](https://dev.to/_vjk/beyond-speed-a-smarter-framework-for-measuring-ai-developer-efficiency-1bil)
+- [The Leaderboard Illusion: Is Your Model Smart or Just Well-Studied?](https://dev.to/mhamadelitawi/the-leaderboard-illusion-is-your-model-smart-or-just-well-studied-1ndo)
+- [ZewpolOS 2.2](https://dev.to/zako_mako_9a4826822204c78/zewpolos-22-1i6k)
 <!-- BLOG-POST-LIST:END -->
 
 
