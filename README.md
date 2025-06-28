@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Berpikir Netral di Era Noise Digital: Apakah Kita Masih Bisa Objektif?](https://dev.to/live_drawnihboss_55459a/berpikir-netral-di-era-noise-digital-apakah-kita-masih-bisa-objektif-38m7)
-- [🚀 JavaScript ES6 Features You Should Know in 2025](https://dev.to/manukumar07/javascript-es6-features-you-should-know-in-2025-5e1l)
-- [【Journey of HarmonyOS Next】Developing Based on ArkTS &lpar;2&rpar; - &gt; Common layouts for UI development](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-based-on-arkts-2-common-layouts-for-ui-development-1o9n)
-- [from poetry to uv](https://dev.to/amarao/poetry-uv-3l32)
+- [Detailed Explanation of HarmonyOS App.json5 Configuration](https://dev.to/mengr/detailed-explanation-of-harmonyos-appjson5-configuration-21aj)
+- [Routing Stack Issues, Image Rounding, Color Resource to Hex Conversion, Dataset Change Crash, Component Lifecycle](https://dev.to/qingkouwei/routing-stack-issues-image-rounding-color-resource-to-hex-conversion-dataset-change-crash-1kck)
+- [Like Animation Implementation, Grid Visible Items, Refresh Component, Code Specifications, State Variables](https://dev.to/qingkouwei/like-animation-implementation-grid-visible-items-refresh-component-code-specifications-state-llm)
+- [Open source: ImageKit, a Rust-based tool for batch image compression and watermarking.](https://dev.to/frr/open-source-imagekit-a-rust-based-tool-for-batch-image-compression-and-watermarking-2i5)
 <!-- BLOG-POST-LIST:END -->
 
 
