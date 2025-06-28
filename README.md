@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [White Label MVNO: A Simple Guide to Starting Your Own Mobile Network](https://dev.to/sheerbittech/white-label-mvno-a-simple-guide-to-starting-your-own-mobile-network-1592)
-- [Orchestrating Multi-Agent Systems with AWS Bedrock: A Comprehensive Guide](https://dev.to/gugamainchein/orchestrating-multi-agent-systems-with-aws-bedrock-a-comprehensive-guide-3jfh)
-- [Introduction F-LEXUS.COM to Deep Learning](https://dev.to/peterdw/introduction-f-lexuscom-to-deep-learning-o4l)
-- [Making Ansible Snappy, Quiet, and Friendly: A Dev’s Guide to `ansible.cfg`](https://dev.to/lovestaco/making-ansible-snappy-quiet-and-friendly-a-devs-guide-to-ansiblecfg-163e)
+- [who want to vibe together](https://dev.to/open_efficiency/who-want-to-vibe-together-1nik)
+- [Dynamic Imports](https://dev.to/jay818/dynamic-imports-15i6)
+- [Deploy a TypeScript Node.js App to Vercel using Vercel CLI](https://dev.to/alifa_ara_heya/deploy-a-typescript-nodejs-app-to-vercel-using-vercel-cli-1oph)
+- [Tech Layoffs Continue Amid AI Shift: A Deep Dive into the Changing Landscape of Employment](https://dev.to/archil_gajera/tech-layoffs-continue-amid-ai-shift-a-deep-dive-into-the-changing-landscape-of-employment-383l)
 <!-- BLOG-POST-LIST:END -->
 
 
