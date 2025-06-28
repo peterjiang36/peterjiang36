@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 20-Minute Daily Review That Tripled My Code Quality &lpar;Git Data Proof&rpar;](https://dev.to/teamcamp/the-20-minute-daily-review-that-tripled-my-code-quality-git-data-proof-1b6g)
-- [The AI Revolution Is Here What It Means for Your Future](https://dev.to/user_12_16fa9736579e6bcec/the-ai-revolution-is-here-what-it-means-for-your-future-291l)
-- [How to Deploy a Laravel Application to a VPS: Complete Step-by-Step Guide](https://dev.to/aiferrydermawan/how-to-deploy-a-laravel-application-to-a-vps-complete-step-by-step-guide-3ba1)
-- [Free Self-Host AI Agent Workflows with n8n and Cloudflare Tunnel](https://dev.to/dalenguyen/free-self-host-ai-agent-workflows-with-n8n-and-cloudflare-tunnel-2bff)
+- [CSS vs JavaScript vs Server-Side Image Optimization: Choosing the Right Approach](https://dev.to/hardik_b2d8f0bca/css-vs-javascript-vs-server-side-image-optimization-choosing-the-right-approach-3dn7)
+- [5 Best Issue Tracking Software for Small Teams](https://dev.to/parizad/5-best-issue-tracking-software-for-small-teams-dk2)
+- [I just shipped my very first tool alongside my coursework and internship – meet HexAPI Generator](https://dev.to/bertrand2808/i-just-shipped-my-very-first-tool-alongside-my-coursework-and-internship-meet-hexapi-generator-5ga8)
+- [Client Expectations vs. Project Reality](https://dev.to/dct_technology/client-expectations-vs-project-reality-4hfp)
 <!-- BLOG-POST-LIST:END -->
 
 
