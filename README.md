@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis for Maps and Locations: Understanding Geospatial Indexing](https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig)
-- [[Boost]](https://dev.to/rakeshv675/-46go)
-- [SpeakUp AI — Master Professional Communication with AI](https://dev.to/hateem_ansari_/speakup-ai-master-professional-communication-with-ai-19hn)
-- [Exploring File System Basics in Node.js](https://dev.to/ayako_yk/exploring-file-system-basics-in-nodejs-47j1)
+- [🎤 The Voice Courier: Meet RTP](https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj)
+- [Async/Await in C# vs JavaScript: Same Hoodie, Different Superpowers](https://dev.to/pranta/asyncawait-in-c-vs-javascript-same-hoodie-different-superpowers-41jo)
+- [Few updates in Frontend](https://dev.to/shreyvijayvargiya/few-updates-in-frontend-1a6i)
+- [Mastering GitHub: Best Practices for Seamless Team Collaboration and Workflow Efficiency](https://dev.to/vishad_patel_f54e007e16e5/mastering-github-best-practices-for-seamless-team-collaboration-and-workflow-efficiency-34cb)
 <!-- BLOG-POST-LIST:END -->
 
 
