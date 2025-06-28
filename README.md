@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor BugBot vs Entelligence](https://dev.to/entelligenceai/cursor-bugbot-vs-entelligence-37d9)
-- [Screenshot Prevention, Scope Issues, Observer Problems, Dialog Closure, Object Field Check](https://dev.to/qingkouwei/screenshot-prevention-scope-issues-observer-problems-dialog-closure-object-field-check-2cd2)
-- [Page Reference Issues, JSON Third-party Libraries, Routing Table Usage, Pull-to-Refresh Problems, Video Playback Errors](https://dev.to/qingkouwei/page-reference-issues-json-third-party-libraries-routing-table-usage-pull-to-refresh-problems-59kh)
-- [Tab Interception, Component Method as Parameter, Custom Component Chaining, Multiple Observer Listeners](https://dev.to/qingkouwei/tab-interception-component-method-as-parameter-custom-component-chaining-multiple-observer-3e34)
+- [Basic Looping Statements using while loop,for loop](https://dev.to/dinesh_nagarajan_7f102d3e/basic-looping-statements-using-while-loopfor-loop-4d57)
+- [Vue.js Image Optimization: Beyond the Basics](https://dev.to/hardik_b2d8f0bca/vuejs-image-optimization-beyond-the-basics-1pch)
+- [&quot;🎨 Programming as an Art — A Book Every Young Coder Should Read&quot;](https://dev.to/pjdeveloper896/-programming-as-an-art-a-book-every-young-coder-should-read-11lk)
+- [Programming as Art - By Developer Prasoon](https://dev.to/pjdeveloper896/programming-as-art-by-developer-prasoon-p9f)
 <!-- BLOG-POST-LIST:END -->
 
 
