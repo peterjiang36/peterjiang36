@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Wish I Knew Before Building My First Client Website](https://dev.to/arbythecoder/what-i-wish-i-knew-before-building-my-first-client-website-10gb)
-- [Story Hero - Links](https://dev.to/danielreiling/story-hero-links-3bhj)
-- [🚀 From Manual API Testing&lpar;PlantoPlan&rpar; to AI-Powered Automation with Keploy](https://dev.to/maverickjit/from-manual-api-testingplantoplan-to-ai-powered-automation-with-keploy-2pe4)
-- [Why I Built an Automated Vite to Next.js Migration Tool &lpar;And How You Can Use It for Free&rpar;](https://dev.to/digitaldev/why-i-built-an-automated-vite-to-nextjs-migration-tool-and-how-you-can-use-it-for-free-bdn)
+- [Dad&#39;s Canned Jokes - June CSS Art Challenge](https://dev.to/jarvisscript/dads-canned-jokes-june-css-art-challenge-1cp4)
+- [🚀 My Developer Portfolio Is Live and Now Fully Responsive!](https://dev.to/nicolasandrescl/my-developer-portfolio-is-live-and-now-fully-responsive-mb9)
+- [Memes only a DEV can relate to. &lpar;part 2&rpar;](https://dev.to/contractorx/memes-only-a-dev-can-relate-to-part-2-328c)
+- [2099. Find Subsequence of Length K With the Largest Sum](https://dev.to/mdarifulhaque/2099-find-subsequence-of-length-k-with-the-largest-sum-2a39)
 <!-- BLOG-POST-LIST:END -->
 
 
