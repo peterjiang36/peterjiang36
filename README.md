@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dad&#39;s Canned Jokes - June CSS Art Challenge](https://dev.to/jarvisscript/dads-canned-jokes-june-css-art-challenge-1cp4)
-- [🚀 My Developer Portfolio Is Live and Now Fully Responsive!](https://dev.to/nicolasandrescl/my-developer-portfolio-is-live-and-now-fully-responsive-mb9)
-- [Memes only a DEV can relate to. &lpar;part 2&rpar;](https://dev.to/contractorx/memes-only-a-dev-can-relate-to-part-2-328c)
-- [2099. Find Subsequence of Length K With the Largest Sum](https://dev.to/mdarifulhaque/2099-find-subsequence-of-length-k-with-the-largest-sum-2a39)
+- [🌍 Build My Own Telegram Translator Bot with Python](https://dev.to/jeancarje/build-my-own-telegram-translator-bot-with-python-23n7)
+- [How I Created Keppli Finance: An AI-Driven App That Transforms Personal Money](https://dev.to/reliek21/how-i-created-keppli-finance-an-ai-driven-app-that-transforms-personal-money-2lik)
+- [Designing APIs for Scale -Lessons from Building Systems Handling 10M+ Requests](https://dev.to/ramya_boorugula_b92d0867b/designing-apis-for-scale-lessons-from-building-systems-handling-10m-requests-259o)
+- [Did it afraid CONSISTENCY CLARITY GROWTH](https://dev.to/chihurumnanyan/did-it-afraidconsistency-clarity-growth-394o)
 <!-- BLOG-POST-LIST:END -->
 
 
