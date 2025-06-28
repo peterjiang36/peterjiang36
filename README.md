@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes a Project Management Tool Truly Work for Modern Teams](https://dev.to/parizad/what-makes-a-project-management-tool-truly-work-for-modern-teams-4ln2)
-- [Web Application Security Input Protection Common（1751108282582500）](https://dev.to/member_9f9a54c5/web-application-security-input-protection-common1751108282582500-68c)
-- [Embrace the Default: Let HTML and CSS Do the Work](https://dev.to/treagod/embrace-the-default-let-html-and-css-do-the-work-ejp)
-- [Announcing Sniffnet v1.4: introduced PCAP files import — it’s 2X faster than Wireshark!](https://dev.to/gyulyvgc/announcing-sniffnet-v14-introduced-pcap-files-import-its-2x-faster-than-wireshark-476l)
+- [Cursor BugBot vs Entelligence](https://dev.to/entelligenceai/cursor-bugbot-vs-entelligence-37d9)
+- [Screenshot Prevention, Scope Issues, Observer Problems, Dialog Closure, Object Field Check](https://dev.to/qingkouwei/screenshot-prevention-scope-issues-observer-problems-dialog-closure-object-field-check-2cd2)
+- [Page Reference Issues, JSON Third-party Libraries, Routing Table Usage, Pull-to-Refresh Problems, Video Playback Errors](https://dev.to/qingkouwei/page-reference-issues-json-third-party-libraries-routing-table-usage-pull-to-refresh-problems-59kh)
+- [Tab Interception, Component Method as Parameter, Custom Component Chaining, Multiple Observer Listeners](https://dev.to/qingkouwei/tab-interception-component-method-as-parameter-custom-component-chaining-multiple-observer-3e34)
 <!-- BLOG-POST-LIST:END -->
 
 
