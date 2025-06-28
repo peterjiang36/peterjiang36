@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vulnerability Assessment](https://dev.to/salman_khan_c31307505285e/vulnerability-assessment-14fl)
-- [Why I’m All In on Burnout Prevention and What I’m Building with DustOff Reset](https://dev.to/gaofenngwe_kabubi_9553d10/why-im-all-in-on-burnout-prevention-and-what-im-building-with-dustoff-reset-3cdh)
-- [Making AI Models Accessible Anywhere :: Scaling AI Traffic with Envoy AI Gateway](https://dev.to/mallagari_sri_datta/making-ai-models-accessible-anywhere-scaling-ai-traffic-with-envoy-ai-gateway-1bid)
-- [AnyCable vs. Action Cable: A Benchmark War](https://dev.to/alex_aslam/anycable-vs-action-cable-a-benchmark-war-4c3f)
+- [Weekly 0083](https://dev.to/kasuken/weekly-0083-50j5)
+- [WWDC 2025 - Enhancing your camera experience with capture controls](https://dev.to/arshtechpro/wwdc-2025-enhancing-your-camera-experience-with-capture-controls-3mfo)
+- [How to Solve dependencyFailedException on a Multi-Agent in AWS Bedrock](https://dev.to/aws-builders/how-to-solve-dependencyfailedexception-on-a-multi-agent-in-aws-bedrock-3fdi)
+- [PaperSense: Semantic arXiv Search &amp; Chat Built with MindsDB](https://dev.to/better-boy/papersense-semantic-arxiv-search-chat-built-with-mindsdb-1kfi)
 <!-- BLOG-POST-LIST:END -->
 
 
