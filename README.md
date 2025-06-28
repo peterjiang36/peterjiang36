@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-1chh)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2je6)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-2jcm)
-- [AWS User Group Toronto @ Toronto Tech Week&#39;25 – June Meetup Recap](https://dev.to/bansi2000/aws-user-group-toronto-toronto-tech-week25-june-meetup-recap-3jk9)
+- [What I Wish I Knew Before Building My First Client Website](https://dev.to/arbythecoder/what-i-wish-i-knew-before-building-my-first-client-website-10gb)
+- [Story Hero - Links](https://dev.to/danielreiling/story-hero-links-3bhj)
+- [🚀 From Manual API Testing&lpar;PlantoPlan&rpar; to AI-Powered Automation with Keploy](https://dev.to/maverickjit/from-manual-api-testingplantoplan-to-ai-powered-automation-with-keploy-2pe4)
+- [Why I Built an Automated Vite to Next.js Migration Tool &lpar;And How You Can Use It for Free&rpar;](https://dev.to/digitaldev/why-i-built-an-automated-vite-to-nextjs-migration-tool-and-how-you-can-use-it-for-free-bdn)
 <!-- BLOG-POST-LIST:END -->
 
 
