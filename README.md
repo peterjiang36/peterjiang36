@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎤 The Voice Courier: Meet RTP](https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj)
-- [Async/Await in C# vs JavaScript: Same Hoodie, Different Superpowers](https://dev.to/pranta/asyncawait-in-c-vs-javascript-same-hoodie-different-superpowers-41jo)
-- [Few updates in Frontend](https://dev.to/shreyvijayvargiya/few-updates-in-frontend-1a6i)
-- [Mastering GitHub: Best Practices for Seamless Team Collaboration and Workflow Efficiency](https://dev.to/vishad_patel_f54e007e16e5/mastering-github-best-practices-for-seamless-team-collaboration-and-workflow-efficiency-34cb)
+- [Vulnerability Assessment](https://dev.to/salman_khan_c31307505285e/vulnerability-assessment-14fl)
+- [Why I’m All In on Burnout Prevention and What I’m Building with DustOff Reset](https://dev.to/gaofenngwe_kabubi_9553d10/why-im-all-in-on-burnout-prevention-and-what-im-building-with-dustoff-reset-3cdh)
+- [Making AI Models Accessible Anywhere :: Scaling AI Traffic with Envoy AI Gateway](https://dev.to/mallagari_sri_datta/making-ai-models-accessible-anywhere-scaling-ai-traffic-with-envoy-ai-gateway-1bid)
+- [AnyCable vs. Action Cable: A Benchmark War](https://dev.to/alex_aslam/anycable-vs-action-cable-a-benchmark-war-4c3f)
 <!-- BLOG-POST-LIST:END -->
 
 
