@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Countdown Effect Implementation, Flex Properties, Foldable Screen Switching, Dynamic Import in Functions, UI Design Dimensions](https://dev.to/qingkouwei/countdown-effect-implementation-flex-properties-foldable-screen-switching-dynamic-import-in-2jjb)
-- [Build a Laravel + React CRUD Application with Inertia.js — Step-by-Step Guide](https://dev.to/darshanbelani/build-a-laravel-react-crud-application-with-inertiajs-step-by-step-guide-144f)
-- [Building Your Own DSL with @resultBuilder in Swift: HTML Builder](https://dev.to/swift_pal/building-your-own-dsl-with-resultbuilder-in-swift-html-builder-5chk)
-- [Batch API Calls in Javascript](https://dev.to/kavya1205/batch-api-calls-in-javascript-1i8i)
+- [Berpikir Netral di Era Noise Digital: Apakah Kita Masih Bisa Objektif?](https://dev.to/live_drawnihboss_55459a/berpikir-netral-di-era-noise-digital-apakah-kita-masih-bisa-objektif-38m7)
+- [🚀 JavaScript ES6 Features You Should Know in 2025](https://dev.to/manukumar07/javascript-es6-features-you-should-know-in-2025-5e1l)
+- [【Journey of HarmonyOS Next】Developing Based on ArkTS &lpar;2&rpar; - &gt; Common layouts for UI development](https://dev.to/zhzlm/journey-of-harmonyos-next-developing-based-on-arkts-2-common-layouts-for-ui-development-1o9n)
+- [from poetry to uv](https://dev.to/amarao/poetry-uv-3l32)
 <!-- BLOG-POST-LIST:END -->
 
 
