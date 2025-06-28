@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Detailed Explanation of HarmonyOS App.json5 Configuration](https://dev.to/mengr/detailed-explanation-of-harmonyos-appjson5-configuration-21aj)
-- [Routing Stack Issues, Image Rounding, Color Resource to Hex Conversion, Dataset Change Crash, Component Lifecycle](https://dev.to/qingkouwei/routing-stack-issues-image-rounding-color-resource-to-hex-conversion-dataset-change-crash-1kck)
-- [Like Animation Implementation, Grid Visible Items, Refresh Component, Code Specifications, State Variables](https://dev.to/qingkouwei/like-animation-implementation-grid-visible-items-refresh-component-code-specifications-state-llm)
-- [Open source: ImageKit, a Rust-based tool for batch image compression and watermarking.](https://dev.to/frr/open-source-imagekit-a-rust-based-tool-for-batch-image-compression-and-watermarking-2i5)
+- [What Makes a Project Management Tool Truly Work for Modern Teams](https://dev.to/parizad/what-makes-a-project-management-tool-truly-work-for-modern-teams-4ln2)
+- [Web Application Security Input Protection Common（1751108282582500）](https://dev.to/member_9f9a54c5/web-application-security-input-protection-common1751108282582500-68c)
+- [Embrace the Default: Let HTML and CSS Do the Work](https://dev.to/treagod/embrace-the-default-let-html-and-css-do-the-work-ejp)
+- [Announcing Sniffnet v1.4: introduced PCAP files import — it’s 2X faster than Wireshark!](https://dev.to/gyulyvgc/announcing-sniffnet-v14-introduced-pcap-files-import-its-2x-faster-than-wireshark-476l)
 <!-- BLOG-POST-LIST:END -->
 
 
