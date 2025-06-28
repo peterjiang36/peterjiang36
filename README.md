@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Imitation Hema - Improving the Logic of Shopping Cart Business &lpar;34&rpar;](https://dev.to/whl15290959515/imitation-hema-improving-the-logic-of-shopping-cart-business-34-eih)
-- [Imitation Box Horse - Order List Page &lpar;33&rpar;](https://dev.to/whl15290959515/imitation-box-horse-order-list-page-33-18g8)
-- [From Simple Reflex to Smart Learner: A Guide to AI Agent Types](https://dev.to/zane_5f4755a11fbe2755438a/from-simple-reflex-to-smart-learner-a-guide-to-ai-agent-types-54b9)
-- [【Journey of HarmonyOS Next】ArkTS-based Development &lpar;3&rpar; -&gt; JS-Compatible Web Development &lpar;4&rpar; -&gt; Common Components &lpar;1&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-arkts-based-development-3-js-compatible-web-development-4--1lp4)
+- [White Label MVNO: A Simple Guide to Starting Your Own Mobile Network](https://dev.to/sheerbittech/white-label-mvno-a-simple-guide-to-starting-your-own-mobile-network-1592)
+- [Orchestrating Multi-Agent Systems with AWS Bedrock: A Comprehensive Guide](https://dev.to/gugamainchein/orchestrating-multi-agent-systems-with-aws-bedrock-a-comprehensive-guide-3jfh)
+- [Introduction F-LEXUS.COM to Deep Learning](https://dev.to/peterdw/introduction-f-lexuscom-to-deep-learning-o4l)
+- [Making Ansible Snappy, Quiet, and Friendly: A Dev’s Guide to `ansible.cfg`](https://dev.to/lovestaco/making-ansible-snappy-quiet-and-friendly-a-devs-guide-to-ansiblecfg-163e)
 <!-- BLOG-POST-LIST:END -->
 
 
