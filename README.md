@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly 0083](https://dev.to/kasuken/weekly-0083-50j5)
-- [WWDC 2025 - Enhancing your camera experience with capture controls](https://dev.to/arshtechpro/wwdc-2025-enhancing-your-camera-experience-with-capture-controls-3mfo)
-- [How to Solve dependencyFailedException on a Multi-Agent in AWS Bedrock](https://dev.to/aws-builders/how-to-solve-dependencyfailedexception-on-a-multi-agent-in-aws-bedrock-3fdi)
-- [PaperSense: Semantic arXiv Search &amp; Chat Built with MindsDB](https://dev.to/better-boy/papersense-semantic-arxiv-search-chat-built-with-mindsdb-1kfi)
+- [TickEvent is a clean, minimal event-sharing and ticketing web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI.](https://dev.to/saidmounaim/tickevent-is-a-clean-minimal-event-sharing-and-ticketing-web-app-built-with-nextjs-prisma-ee6)
+- [Swift Officially Expands to Android: A New Era for Cross-Platform Development](https://dev.to/arshtechpro/swift-officially-expands-to-android-a-new-era-for-cross-platform-development-3hjd)
+- [My Unexpected Bug Hunt: How Debugging a Weird API Issue in Laravel Taught Me More Than Docs Ever Could](https://dev.to/achlacodes/my-unexpected-bug-hunt-how-debugging-a-weird-api-issue-in-laravel-taught-me-more-than-docs-ever-2f01)
+- [Demystifying GPT-2: The Magic of Transformers and Attention published](https://dev.to/cristiansifuentes/demystifying-gpt-2-the-magic-of-transformers-and-attention-published-3375)
 <!-- BLOG-POST-LIST:END -->
 
 
