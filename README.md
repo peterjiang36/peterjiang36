@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS vs JavaScript vs Server-Side Image Optimization: Choosing the Right Approach](https://dev.to/hardik_b2d8f0bca/css-vs-javascript-vs-server-side-image-optimization-choosing-the-right-approach-3dn7)
-- [5 Best Issue Tracking Software for Small Teams](https://dev.to/parizad/5-best-issue-tracking-software-for-small-teams-dk2)
-- [I just shipped my very first tool alongside my coursework and internship – meet HexAPI Generator](https://dev.to/bertrand2808/i-just-shipped-my-very-first-tool-alongside-my-coursework-and-internship-meet-hexapi-generator-5ga8)
-- [Client Expectations vs. Project Reality](https://dev.to/dct_technology/client-expectations-vs-project-reality-4hfp)
+- [【Journey of HarmonyOS Next】HarmonyOS Development Basics &lpar;3&rpar;](https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-3-4bca)
+- [Child Mortality Analysis with SQL](https://dev.to/niffyspecial/child-mortality-analysis-with-sql-2j31)
+- [Beginner to Pro: Master Python Lists, Tuples, Sets, and Dictionaries Step-by-Step](https://dev.to/abuhorairatarif/beginner-to-pro-master-python-lists-tuples-sets-and-dictionaries-step-by-step-1o23)
+- [Someone would ask after these 40 day of Java script what can you do with it,](https://dev.to/chihurumnanyan/someone-would-ask-after-these-40-day-of-java-script-what-can-you-do-with-it-3m31)
 <!-- BLOG-POST-LIST:END -->
 
 
