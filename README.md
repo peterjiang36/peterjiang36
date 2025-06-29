@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development: Based on the Latest API, How to Realize Component Operation](https://dev.to/abnerming888/harmonyos-development-based-on-the-latest-api-how-to-realize-component-operation-5dpf)
-- [Design Systems: The Secret Weapon of Scalable Frontend Development](https://dev.to/toni_naumoski_mk/design-systems-the-secret-weapon-of-scalable-frontend-development-4ood)
-- [Two weeks with the GitHub Coding Agent](https://dev.to/benmatselby/two-weeks-with-the-github-coding-agent-318p)
-- [HarmonyOS Development: Code Extraction in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-extraction-in-devecostudio-3jmo)
+- [Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular](https://dev.to/vetriselvan_11/exploring-replaysubject-in-rxjs-how-to-replay-past-values-in-angular-2eh5)
+- [HarmonyOS NEXT- project actual combat calendar, novice tutorial 2](https://dev.to/xiaoyaolihua/harmonyos-next-project-actual-combat-calendar-novice-tutorial-2-eib)
+- [Macros Explained for Java Developers](https://dev.to/rooted/macros-explained-for-java-developers-k70)
+- [HarmonyOS Next- project actual combat, calendar development novice tutorial 1](https://dev.to/xiaoyaolihua/harmonyos-next-project-actual-combat-calendar-development-novice-tutorial-1-1305)
 <!-- BLOG-POST-LIST:END -->
 
 
