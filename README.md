@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [checklist](https://dev.to/dianaappinventor24_unica_/checklist-2l13)
-- [Voice Recording Demo](https://dev.to/preetha_vaishnavi_2b82358/voice-recording-demo-1k5k)
-- [Using a Jump Server and SSH ProxyJump in Your Homelab](https://dev.to/sebos/using-a-jump-server-and-ssh-proxyjump-in-your-homelab-2enh)
-- [organelle catcher](https://dev.to/dianaappinventor24_unica_/organelle-catcher-1i7j)
+- [AI Is Dumb — And You Should Be Too &lpar;Here’s Why&rpar;](https://dev.to/m13ha/ai-is-dumb-and-you-should-be-too-heres-why-4e15)
+- [Why DigitalOcean Spaces Auto-Downloads Large PDFs - And How to Fix It](https://dev.to/tahsin000/why-digitalocean-spaces-auto-downloads-large-pdfs-and-how-to-fix-it-jh)
+- [Python course: Loops](https://dev.to/costa86/python-course-loops-40ed)
+- [Introduction to JavaScript Runtime Environments](https://dev.to/abhiraj007/introduction-to-javascript-runtime-environments-1a0m)
 <!-- BLOG-POST-LIST:END -->
 
 
