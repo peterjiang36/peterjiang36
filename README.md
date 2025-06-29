@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mission 6 Resume Prep Part Two](https://dev.to/theoriginalbpc/mission-6-resume-prep-part-two-2np4)
-- [Delegating Isn’t Ditching](https://dev.to/leaddontctrl/delegating-isnt-ditching-4k24)
-- [Text Based Games and How to Make Them](https://dev.to/jberesford94/text-based-games-and-how-to-make-them-4igj)
-- [2 Week Of : “Spark” Project](https://dev.to/feelsgood_6/2-week-of-spark-project-1lnb)
+- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
+- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
+- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
+- [Varta](https://dev.to/vynride/varta-4ijg)
 <!-- BLOG-POST-LIST:END -->
 
 
