@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo Funciona un Agente de Inteligencia Artificial?](https://dev.to/nube_colectiva_nc/como-funciona-un-agente-de-inteligencia-artificial-38oj)
-- [Terraform Fundamentals: CodeCommit](https://dev.to/devopsfundamentals/terraform-fundamentals-codecommit-4a5o)
-- [🧠 5 Easy Steps to Write Human-Like Content with ChatGPT](https://dev.to/mukeshkdesigns/5-easy-steps-to-write-human-like-content-with-chatgpt-310d)
-- [Performance Analysis Toolchain Usage and Practice Complete Process from Profiling to Performance Tuning（1751169002468500）](https://dev.to/member_8d9a8f47/performance-analysis-toolchain-usage-and-practice-complete-process-from-profiling-to-performance-3n3l)
+- [Everything I Learned in My First Year as a Security Engineer](https://dev.to/hackrowdsec/everything-i-learned-in-my-first-year-as-a-security-engineer-47i0)
+- [Database Connection Pool and Transaction Management Data Consistency Guarantee in Distributed Environment（1751172388928200）](https://dev.to/member_f4f4c714/database-connection-pool-and-transaction-management-data-consistency-guarantee-in-distributed-31bc)
+- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751172200729800）](https://dev.to/member_8d9a8f47/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-2ni9)
+- [[📝LeetCode #1] Two Sum](https://dev.to/shine7on/leetcode-1-two-sum-2eea)
 <!-- BLOG-POST-LIST:END -->
 
 
