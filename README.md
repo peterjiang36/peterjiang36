@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [🎬 I built a free streaming UI with Next.js 15 + Tailwind – free on GitHub, full version on Gumroad!](https://dev.to/digoshirota/i-built-a-free-streaming-ui-with-nextjs-15-tailwind-free-on-github-full-version-on-gumroad-20ea)
 - [Move Over LLaMA: Tencent&#39;s New Open LLM is Ready to Self-Host](https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73)
 - [HackThisSite Basic 7](https://dev.to/mjl004/hackthissite-basic-7-41dc)
 - [A full circle moment](https://dev.to/konni332/a-full-circle-moment-487b)
-- [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
 <!-- BLOG-POST-LIST:END -->
 
 
