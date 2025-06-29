@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎬 I built a free streaming UI with Next.js 15 + Tailwind – free on GitHub, full version on Gumroad!](https://dev.to/digoshirota/i-built-a-free-streaming-ui-with-nextjs-15-tailwind-free-on-github-full-version-on-gumroad-20ea)
-- [Move Over LLaMA: Tencent&#39;s New Open LLM is Ready to Self-Host](https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73)
-- [HackThisSite Basic 7](https://dev.to/mjl004/hackthissite-basic-7-41dc)
-- [A full circle moment](https://dev.to/konni332/a-full-circle-moment-487b)
+- [最后一个产品终于通过审核了！](https://dev.to/immerse/zui-hou-ge-chan-pin-zhong-yu-tong-guo-shen-he-liao--64i)
+- [Azure Fundamentals: Microsoft.VirtualMachineImages](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvirtualmachineimages-4jcm)
+- [Methodology of Continuous Learning How to Maintain Competitiveness in Rapidly Changing Technology Field（1751166967707500）](https://dev.to/member_f4f4c714/methodology-of-continuous-learning-how-to-maintain-competitiveness-in-rapidly-changing-technology-1an0)
+- [FormatUtil, formatting tool class](https://dev.to/787107497/formatutil-formatting-tool-class-30em)
 <!-- BLOG-POST-LIST:END -->
 
 
