@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything I Learned in My First Year as a Security Engineer](https://dev.to/hackrowdsec/everything-i-learned-in-my-first-year-as-a-security-engineer-47i0)
-- [Database Connection Pool and Transaction Management Data Consistency Guarantee in Distributed Environment（1751172388928200）](https://dev.to/member_f4f4c714/database-connection-pool-and-transaction-management-data-consistency-guarantee-in-distributed-31bc)
-- [Debugging Techniques and Problem Location Strategies Methodology for Rapid Problem Location in Complex Systems（1751172200729800）](https://dev.to/member_8d9a8f47/debugging-techniques-and-problem-location-strategies-methodology-for-rapid-problem-location-in-2ni9)
-- [[📝LeetCode #1] Two Sum](https://dev.to/shine7on/leetcode-1-two-sum-2eea)
+- [From Scratch to SaaS in 9 Days: A Dev&#39;s Journey + Free Insights](https://dev.to/shreyan_01/from-scratch-to-saas-in-9-days-a-devs-journey-free-insights-1lle)
+- [Devlog #1 ahhhhh it&#39;s a snake](https://dev.to/bain_8a987225b41e21618fcb/devlog-1-ahhhhh-its-a-snake-1gm8)
+- [Untitled](https://dev.to/prince_patni_5b5c473779e7/untitled-4bpc)
+- [Asynchronous Programming Art From Zero Foundation to High Concurrency Processing Transformation Journey（1751175402518700）](https://dev.to/member_f4f4c714/asynchronous-programming-art-from-zero-foundation-to-high-concurrency-processing-transformation-2on0)
 <!-- BLOG-POST-LIST:END -->
 
 
