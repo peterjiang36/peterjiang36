@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-5-1jo8)
-- [Weekly #26-2025: Cloudflare’s 13 New AI Servers, AI Coding Tips, and Dev Truths](https://dev.to/weekly/weekly-26-2025-cloudflares-13-new-ai-servers-ai-coding-tips-and-dev-truths-4cii)
-- [Simple Over Easy: Architectural Constraints That Make AI Generated Code Maintainable](https://dev.to/forgecode/simple-over-easy-architectural-constraints-that-make-ai-generated-code-maintainable-4o77)
-- [Empowering Students Through AI and Robotics: How GEMA Makes a Difference](https://dev.to/kavita__fab9d416b5/empowering-students-through-ai-and-robotics-how-gema-makes-a-difference-3k9h)
+- [Exploring High Efficiency Web Analysis Results（1751186924150700）](https://dev.to/member_8d9a8f47/exploring-high-efficiency-web-analysis-results1751186924150700-343n)
+- [HarmonyOS NEXT project practice：Share content through QQ](https://dev.to/victordeng/harmonyos-next-project-practiceshare-content-through-qq-1man)
+- [Compose Multiplatform looks promising 🚀](https://dev.to/boryanz/compose-multiplatform-looks-promising-1gab)
+- [ResUtil, resource-related tool class](https://dev.to/787107497/resutils-resource-related-tool-class-3ilp)
 <!-- BLOG-POST-LIST:END -->
 
 
