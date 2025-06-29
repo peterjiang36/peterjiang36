@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TickEvent is a clean, minimal event-sharing and ticketing web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI.](https://dev.to/saidmounaim/tickevent-is-a-clean-minimal-event-sharing-and-ticketing-web-app-built-with-nextjs-prisma-ee6)
-- [Swift Officially Expands to Android: A New Era for Cross-Platform Development](https://dev.to/arshtechpro/swift-officially-expands-to-android-a-new-era-for-cross-platform-development-3hjd)
-- [My Unexpected Bug Hunt: How Debugging a Weird API Issue in Laravel Taught Me More Than Docs Ever Could](https://dev.to/achlacodes/my-unexpected-bug-hunt-how-debugging-a-weird-api-issue-in-laravel-taught-me-more-than-docs-ever-2f01)
-- [Demystifying GPT-2: The Magic of Transformers and Attention published](https://dev.to/cristiansifuentes/demystifying-gpt-2-the-magic-of-transformers-and-attention-published-3375)
+- [Any react devs that can help?](https://dev.to/xavier_neil_c1a6eb716e255/any-react-devs-that-can-help-52ip)
+- [Daily JavaScript Challenge #JS-214: Find Missing Numbers in Sequence](https://dev.to/dpc/daily-javascript-challenge-js-214-find-missing-numbers-in-sequence-557m)
+- [Learn how LLMs convert language into vectors using tokenization and embeddings.](https://dev.to/cristiansifuentes/learn-how-llms-convert-language-into-vectors-using-tokenization-and-embeddings-kh2)
+- [Juggling Memory: Arenas in Golang](https://dev.to/flew1x/juggling-memory-arenas-in-golang-5bm9)
 <!-- BLOG-POST-LIST:END -->
 
 
