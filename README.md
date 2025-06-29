@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Security Importance Digital Age Web Techniques（1751197804668800）](https://dev.to/member_8d9a8f47/critical-security-importance-digital-age-web-techniques1751197804668800-4g8c)
-- [Dynamic Fluent Interface for API calls &lpar;Powered by JS Proxy&rpar;](https://dev.to/smlka/dynamic-fluent-interface-for-api-calls-powered-by-js-proxy-4084)
-- [Refactoring Techniques and Code Evolution Strategies How to Improve Code Without Breaking Functionality（1751197689159700）](https://dev.to/member_f4f4c714/refactoring-techniques-and-code-evolution-strategies-how-to-improve-code-without-breaking-2pib)
-- [Pitfall Records and Solutions Technical Growth Trajectory Sharing of a Computer Science Student（1751197165336800）](https://dev.to/member_8d9a8f47/pitfall-records-and-solutions-technical-growth-trajectory-sharing-of-a-computer-science-5hhh)
+- [World-Environment-Action-Day](https://dev.to/dapphari007/world-environment-action-day-3go3)
+- [🎉 CharmCode Editor v5.0: The Microkernel Revolution Beyond VSCode 🚀](https://dev.to/charmpic/charmcode-editor-v50-the-microkernel-revolution-beyond-vscode-45k)
+- [pnpm monorepo step-by-step example: sharing type and values between React and NestJS](https://dev.to/lico/pnpm-monorepo-step-by-step-example-sharing-type-and-values-between-react-and-nestjs-2gco)
+- [Android Made Accessible: Kotlin Code Generation from Natural Language](https://dev.to/atforeveryoung/android-made-accessible-kotlin-code-generation-from-natural-language-3cg3)
 <!-- BLOG-POST-LIST:END -->
 
 
