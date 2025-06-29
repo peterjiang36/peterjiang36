@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Scratch to SaaS in 9 Days: A Dev&#39;s Journey + Free Insights](https://dev.to/shreyan_01/from-scratch-to-saas-in-9-days-a-devs-journey-free-insights-1lle)
-- [Devlog #1 ahhhhh it&#39;s a snake](https://dev.to/bain_8a987225b41e21618fcb/devlog-1-ahhhhh-its-a-snake-1gm8)
-- [Untitled](https://dev.to/prince_patni_5b5c473779e7/untitled-4bpc)
-- [Asynchronous Programming Art From Zero Foundation to High Concurrency Processing Transformation Journey（1751175402518700）](https://dev.to/member_f4f4c714/asynchronous-programming-art-from-zero-foundation-to-high-concurrency-processing-transformation-2on0)
+- [System Call Overhead Analysis and Optimization Performance Cost of User Mode and Kernel Mode Switching（1751179621293900）](https://dev.to/member_f4f4c714/system-call-overhead-analysis-and-optimization-performance-cost-of-user-mode-and-kernel-mode-233a)
+- [BitcoinQuizFlow: AI-Powered Quiz Generation with Storyblok](https://dev.to/kafechew/bitcoinquizflow-ai-powered-quiz-generation-with-storyblok-5ghd)
+- [How to Create Content-Aware Animated Subtitles with Python](https://dev.to/francozanardi/how-to-create-content-aware-animated-subtitles-with-python-24dn)
+- [Deployment Automation and Continuous Integration Technical Implementation of Modern Software Delivery Process（1751179243762800）](https://dev.to/member_8d9a8f47/deployment-automation-and-continuous-integration-technical-implementation-of-modern-software-26fp)
 <!-- BLOG-POST-LIST:END -->
 
 
