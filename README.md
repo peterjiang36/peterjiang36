@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
-- [Python course: Boolean logic](https://dev.to/costa86/python-course-boolean-logic-36cj)
-- [Developer Happiness Improvement Guide Modern Toolchain and Framework Selection Strategy（1751194078204900）](https://dev.to/member_f4f4c714/developer-happiness-improvement-guide-modern-toolchain-and-framework-selection-2gbj)
-- [gradual-rollout](https://dev.to/nebula_3108/gradual-rollout-1458)
+- [Critical Security Importance Digital Age Web Techniques（1751197804668800）](https://dev.to/member_8d9a8f47/critical-security-importance-digital-age-web-techniques1751197804668800-4g8c)
+- [Dynamic Fluent Interface for API calls &lpar;Powered by JS Proxy&rpar;](https://dev.to/smlka/dynamic-fluent-interface-for-api-calls-powered-by-js-proxy-4084)
+- [Refactoring Techniques and Code Evolution Strategies How to Improve Code Without Breaking Functionality（1751197689159700）](https://dev.to/member_f4f4c714/refactoring-techniques-and-code-evolution-strategies-how-to-improve-code-without-breaking-2pib)
+- [Pitfall Records and Solutions Technical Growth Trajectory Sharing of a Computer Science Student（1751197165336800）](https://dev.to/member_8d9a8f47/pitfall-records-and-solutions-technical-growth-trajectory-sharing-of-a-computer-science-5hhh)
 <!-- BLOG-POST-LIST:END -->
 
 
