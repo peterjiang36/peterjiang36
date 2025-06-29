@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Review and Team Collaboration Best Practices Systematic Methods for Improving Code Quality（1751211886514600）](https://dev.to/member_8d9a8f47/code-review-and-team-collaboration-best-practices-systematic-methods-for-improving-code-38c6)
-- [Week 1 of Hustle2Grand: Building, Pivoting, and Figuring Stuff Out](https://dev.to/vulcanwm/week-1-of-hustle2grand-building-pivoting-and-figuring-stuff-out-2076)
-- [harmony-web](https://dev.to/787107497/harmony-web-1ia0)
-- [Navigating the Future of Tech: Trends, Innovations, and Best Practices Every New Developer Should Know](https://dev.to/shamolah/navigating-the-future-of-tech-trends-innovations-and-best-practices-every-new-developer-should-3lo1)
+- [🔥Top 5 Amazing CLI Tools🤯](https://dev.to/dev_kiran/top-5-amazing-cli-tools-38pj)
+- [I built an AI-powered npm dependency scanner – give it 30 seconds &amp; a package.json](https://dev.to/dark_king_bb7196f2b458f62/i-built-an-ai-powered-npm-dependency-scanner-give-it-30-seconds-a-packagejson-16ei)
+- [From Microservices to Fan-Out: Evolving Cross-Service Communication in Modern Systems](https://dev.to/gambhirsamarth/from-microservices-to-fan-out-evolving-cross-service-communication-in-modern-systems-e9p)
+- [Adding Sessions and Memory to Your AI Agent with Agent Development Kit &lpar;ADK&rpar;](https://dev.to/marianocodes/adding-sessions-and-memory-to-your-ai-agent-with-agent-development-kit-adk-31ap)
 <!-- BLOG-POST-LIST:END -->
 
 
