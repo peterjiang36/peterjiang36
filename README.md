@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring High Efficiency Web Analysis Results（1751186924150700）](https://dev.to/member_8d9a8f47/exploring-high-efficiency-web-analysis-results1751186924150700-343n)
-- [HarmonyOS NEXT project practice：Share content through QQ](https://dev.to/victordeng/harmonyos-next-project-practiceshare-content-through-qq-1man)
-- [Compose Multiplatform looks promising 🚀](https://dev.to/boryanz/compose-multiplatform-looks-promising-1gab)
-- [ResUtil, resource-related tool class](https://dev.to/787107497/resutils-resource-related-tool-class-3ilp)
+- [Unlocking Success: The Power of Emotional Intelligence in Soft Skills](https://dev.to/vjnvisakh/unlocking-success-the-power-of-emotional-intelligence-in-soft-skills-414n)
+- [Base64Util, Base64 tool class](https://dev.to/787107497/base64util-base64-tool-class-57h)
+- [Building a Scalable Fan Out Architecture on AWS with SNS and SQS](https://dev.to/anish_ummenthala/building-a-scalable-fan-out-architecture-on-aws-with-sns-and-sqs-2cb5)
+- [Code Review and Refactoring Practice Systematic Methods and Tools for Improving Code Quality（1751191066949900）](https://dev.to/member_f4f4c714/code-review-and-refactoring-practice-systematic-methods-and-tools-for-improving-code-35k2)
 <!-- BLOG-POST-LIST:END -->
 
 
