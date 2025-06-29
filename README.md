@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Any react devs that can help?](https://dev.to/xavier_neil_c1a6eb716e255/any-react-devs-that-can-help-52ip)
-- [Daily JavaScript Challenge #JS-214: Find Missing Numbers in Sequence](https://dev.to/dpc/daily-javascript-challenge-js-214-find-missing-numbers-in-sequence-557m)
-- [Learn how LLMs convert language into vectors using tokenization and embeddings.](https://dev.to/cristiansifuentes/learn-how-llms-convert-language-into-vectors-using-tokenization-and-embeddings-kh2)
-- [Juggling Memory: Arenas in Golang](https://dev.to/flew1x/juggling-memory-arenas-in-golang-5bm9)
+- [Move Over LLaMA: Tencent&#39;s New Open LLM is Ready to Self-Host](https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73)
+- [HackThisSite Basic 7](https://dev.to/mjl004/hackthissite-basic-7-41dc)
+- [A full circle moment](https://dev.to/konni332/a-full-circle-moment-487b)
+- [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
 <!-- BLOG-POST-LIST:END -->
 
 
