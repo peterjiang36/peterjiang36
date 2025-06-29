@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular](https://dev.to/vetriselvan_11/exploring-replaysubject-in-rxjs-how-to-replay-past-values-in-angular-2eh5)
-- [HarmonyOS NEXT- project actual combat calendar, novice tutorial 2](https://dev.to/xiaoyaolihua/harmonyos-next-project-actual-combat-calendar-novice-tutorial-2-eib)
-- [Macros Explained for Java Developers](https://dev.to/rooted/macros-explained-for-java-developers-k70)
-- [HarmonyOS Next- project actual combat, calendar development novice tutorial 1](https://dev.to/xiaoyaolihua/harmonyos-next-project-actual-combat-calendar-development-novice-tutorial-1-1305)
+- [Code Review and Team Collaboration Best Practices Systematic Methods for Improving Code Quality（1751211886514600）](https://dev.to/member_8d9a8f47/code-review-and-team-collaboration-best-practices-systematic-methods-for-improving-code-38c6)
+- [Week 1 of Hustle2Grand: Building, Pivoting, and Figuring Stuff Out](https://dev.to/vulcanwm/week-1-of-hustle2grand-building-pivoting-and-figuring-stuff-out-2076)
+- [harmony-web](https://dev.to/787107497/harmony-web-1ia0)
+- [Navigating the Future of Tech: Trends, Innovations, and Best Practices Every New Developer Should Know](https://dev.to/shamolah/navigating-the-future-of-tech-trends-innovations-and-best-practices-every-new-developer-should-3lo1)
 <!-- BLOG-POST-LIST:END -->
 
 
