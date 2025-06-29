@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Call Overhead Analysis and Optimization Performance Cost of User Mode and Kernel Mode Switching（1751179621293900）](https://dev.to/member_f4f4c714/system-call-overhead-analysis-and-optimization-performance-cost-of-user-mode-and-kernel-mode-233a)
-- [BitcoinQuizFlow: AI-Powered Quiz Generation with Storyblok](https://dev.to/kafechew/bitcoinquizflow-ai-powered-quiz-generation-with-storyblok-5ghd)
-- [How to Create Content-Aware Animated Subtitles with Python](https://dev.to/francozanardi/how-to-create-content-aware-animated-subtitles-with-python-24dn)
-- [Deployment Automation and Continuous Integration Technical Implementation of Modern Software Delivery Process（1751179243762800）](https://dev.to/member_8d9a8f47/deployment-automation-and-continuous-integration-technical-implementation-of-modern-software-26fp)
+- [AltSchool Of Engineering Tinyuka’24 Month 4 Week 5](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-4-week-5-1jo8)
+- [Weekly #26-2025: Cloudflare’s 13 New AI Servers, AI Coding Tips, and Dev Truths](https://dev.to/weekly/weekly-26-2025-cloudflares-13-new-ai-servers-ai-coding-tips-and-dev-truths-4cii)
+- [Simple Over Easy: Architectural Constraints That Make AI Generated Code Maintainable](https://dev.to/forgecode/simple-over-easy-architectural-constraints-that-make-ai-generated-code-maintainable-4o77)
+- [Empowering Students Through AI and Robotics: How GEMA Makes a Difference](https://dev.to/kavita__fab9d416b5/empowering-students-through-ai-and-robotics-how-gema-makes-a-difference-3k9h)
 <!-- BLOG-POST-LIST:END -->
 
 
