@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [World-Environment-Action-Day](https://dev.to/dapphari007/world-environment-action-day-3go3)
-- [🎉 CharmCode Editor v5.0: The Microkernel Revolution Beyond VSCode 🚀](https://dev.to/charmpic/charmcode-editor-v50-the-microkernel-revolution-beyond-vscode-45k)
-- [pnpm monorepo step-by-step example: sharing type and values between React and NestJS](https://dev.to/lico/pnpm-monorepo-step-by-step-example-sharing-type-and-values-between-react-and-nestjs-2gco)
-- [Android Made Accessible: Kotlin Code Generation from Natural Language](https://dev.to/atforeveryoung/android-made-accessible-kotlin-code-generation-from-natural-language-3cg3)
+- [HarmonyOS Development: Based on the Latest API, How to Realize Component Operation](https://dev.to/abnerming888/harmonyos-development-based-on-the-latest-api-how-to-realize-component-operation-5dpf)
+- [Design Systems: The Secret Weapon of Scalable Frontend Development](https://dev.to/toni_naumoski_mk/design-systems-the-secret-weapon-of-scalable-frontend-development-4ood)
+- [Two weeks with the GitHub Coding Agent](https://dev.to/benmatselby/two-weeks-with-the-github-coding-agent-318p)
+- [HarmonyOS Development: Code Extraction in DevEcoStudio](https://dev.to/abnerming888/harmonyos-development-code-extraction-in-devecostudio-3jmo)
 <!-- BLOG-POST-LIST:END -->
 
 
