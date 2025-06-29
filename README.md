@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Scheduled Tasks in Go: Timer and Ticker](https://dev.to/leapcell/working-with-scheduled-tasks-in-go-timer-and-ticker-8jb)
-- [From Migrations to Seed : Working with Fixtures in Nixopus](https://dev.to/raghavyuva/from-migrations-to-seed-working-with-fixtures-in-nixopus-2e95)
-- [💡 TIME COMPLEXITY PRIMER – Understand Big O Like a Kid With Candies 🍬](https://dev.to/ankushsinghgandhi/time-complexity-primer-understand-big-o-like-a-kid-with-candies-2ih0)
-- [Varta](https://dev.to/vynride/varta-4ijg)
+- [checklist](https://dev.to/dianaappinventor24_unica_/checklist-2l13)
+- [Voice Recording Demo](https://dev.to/preetha_vaishnavi_2b82358/voice-recording-demo-1k5k)
+- [Using a Jump Server and SSH ProxyJump in Your Homelab](https://dev.to/sebos/using-a-jump-server-and-ssh-proxyjump-in-your-homelab-2enh)
+- [organelle catcher](https://dev.to/dianaappinventor24_unica_/organelle-catcher-1i7j)
 <!-- BLOG-POST-LIST:END -->
 
 
