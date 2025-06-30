@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Media &amp; Entertainment | Lausanne TechVerdi](https://dev.to/qasim_blogs/ai-in-media-entertainment-lausanne-techverdi-3dgm)
-- [Introducing Perplexity AI Lookups for WordPress](https://dev.to/gbti-network/introducing-perplexity-ai-lookups-for-wordpress-3g7d)
-- [Adding Flavors to Your Flutter App: From One Codebase to Multiple Experiences](https://dev.to/faidterence/adding-flavors-to-your-flutter-app-from-one-codebase-to-multiple-experiences-1972)
-- [【HarmonyOS 5】Detailed Explanation of VisionKit Face Liveness Detection](https://dev.to/georgegcs/harmonyos-5-detailed-explanation-of-visionkit-face-liveness-detection-3b7m)
+- [5 Tools That Helped Me Catch 70% More Bugs in the Codebase [Important!]](https://dev.to/entelligenceai/5-tools-that-helped-me-catch-70-more-bugs-in-the-codebase-important-3phk)
+- [Tricky javascript codes part 3](https://dev.to/md_ashraf_dev_to/tricky-javascript-codes-part-3-1mkh)
+- [Real World Project Case Study Campus Modern Web（1751293763527200）](https://dev.to/member_de57975b/real-world-project-case-study-campus-modern-web1751293763527200-10j3)
+- [Memory Management Unit &lpar;MMU&rpar; and Translation Lookaside Buffer &lpar;TLB&rpar;](https://dev.to/lordsnow/memory-management-unit-mmu-and-translation-lookaside-buffer-tlb-3npl)
 <!-- BLOG-POST-LIST:END -->
 
 
