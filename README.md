@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hide the Title from an Embedded YouTube Video](https://dev.to/dicky54putra/how-to-hide-the-title-from-an-embedded-youtube-video-89p)
-- [Understanding the GENIUS Act: How the U.S. Plans to Shape the Stablecoin Landscape](https://dev.to/golu12/understanding-the-genius-act-how-the-us-plans-to-shape-the-stablecoin-landscape-4ko5)
-- [Google Agent Development Kit : Core Concept](https://dev.to/zenika/google-agent-development-kit-core-concept-4phc)
-- [MovieMonk: An AI-Powered Movie Recommendation App Using MindsDB Knowledge Base + Agent](https://dev.to/sujankoirala021/moviemonk-an-ai-powered-movie-recommendation-app-using-mindsdb-knowledge-base-agent-2if)
+- [Unpacking AI: A Guide for Tech Leaders and Innovators](https://dev.to/synergy_shock/unpacking-ai-a-guide-for-tech-leaders-and-innovators-4l2g)
+- [让Cloud code更加自动化的执行任务，减少授权请求](https://dev.to/dragon72463399/rang-cloud-codegeng-jia-zi-dong-hua-de-zhi-xing-ren-wu-jian-shao-shou-quan-qing-qiu-5h2)
+- [Tune LLM&lpar;Groq Model Tune Technique&#39;s&rpar;](https://dev.to/sujeet_saxena_60b0b6a01e2/tune-llmgroq-model-tune-techniques-4ma9)
+- [I built a free text cleaning tool to remove emojis, HTML tags, and symbols — no install required](https://dev.to/nova_soft_d42c9d58573e2a4/i-built-a-free-text-cleaning-tool-to-remove-emojis-html-tags-and-symbols-no-install-required-5c39)
 <!-- BLOG-POST-LIST:END -->
 
 
