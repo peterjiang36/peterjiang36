@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Block HTTP Flood DDoS Attacks with a WAF](https://dev.to/sharon_42e16b8da44dabde6d/how-to-block-http-flood-ddos-attacks-with-a-waf-1766)
-- [Advanced Techniques for Implementing Singleton Patterns in JS](https://dev.to/omriluz1/advanced-techniques-for-implementing-singleton-patterns-in-js-54ng)
-- [10 React UI/UX Practices Every Senior Developer Should Use in 2025](https://dev.to/madhavkabra/10-react-uiux-practices-every-senior-developer-should-use-in-2025-3hho)
-- [Flame Graph Reveals Performance Optimization Truth Deep Analysis by Computer Science Student（1751269449870100）](https://dev.to/member_6d3fad5b/flame-graph-reveals-performance-optimization-truth-deep-analysis-by-computer-science-2j6n)
+- [Quark’s Outlines: Python None](https://dev.to/mike-vincent/quarks-outlines-python-none-5d9e)
+- [Lightning-Fast, Minimal AI/API Serverless Deployment: The Essence and Practice of Mastra Lambda Docker Deploy](https://dev.to/hayata_yamamoto/lightning-fast-minimal-aiapi-serverless-deployment-the-essence-and-practice-of-mastra-lambda-kjk)
+- [Top 10 SoapUI Alternatives That Won&#39;t Give You a Headache in 2025](https://dev.to/apilover/top-10-soapui-alternatives-that-wont-give-you-a-headache-in-2025-lg)
+- [Roles &amp; Permissions: Building a Secure and Efficient Full-Stack Product](https://dev.to/vinayveerappaji/roles-permissions-building-a-secure-and-efficient-full-stack-product-2gd3)
 <!-- BLOG-POST-LIST:END -->
 
 
