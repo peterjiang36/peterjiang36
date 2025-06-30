@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Counters: Unlocking the Power of Stylish Numbering](https://dev.to/muhammadmedhat/css-counters-unlocking-the-power-of-stylish-numbering-2p4o)
-- [Use Case 5](https://dev.to/etohartman/use-case-5-100p)
-- [The Heap Memory](https://dev.to/suvijak_vinyunavan_1f9ff9/the-heap-memory-5ali)
-- [💥 That One Time globals.css Crashed My Next.js Build](https://dev.to/jvicmaina/that-one-time-globalscss-crashed-my-nextjs-build-5e2m)
+- [Which Code Assistant Actually Helps Developers Grow? Part 2](https://dev.to/bekahhw/which-code-assistant-actually-helps-developers-grow-part-2-24p8)
+- [Why `h3` &lpar;from UnJS&rpar; Might Replace Express in the Modern Node.js Stack](https://dev.to/alex_aslam/why-h3-from-unjs-might-replace-express-in-the-modern-nodejs-stack-4kp2)
+- [Laravel Testing - A Beginner-Friendly Guide for Developers](https://dev.to/tahsin000/laravel-testing-a-beginner-friendly-guide-for-developers-1go4)
+- [Stimulus + TypeScript: A Love Story](https://dev.to/alex_aslam/stimulus-typescript-a-love-story-4jen)
 <!-- BLOG-POST-LIST:END -->
 
 
