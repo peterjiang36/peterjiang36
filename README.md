@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo detectar usuarios existentes en un sistema con un ataque de fuerza bruta inteligente ⚠️🔐](https://dev.to/alfondodelciber/como-detectar-usuarios-existentes-en-un-sistema-con-un-ataque-de-fuerza-bruta-inteligente-54pf)
-- [9 Modern AI Developer Tools to Achieve 10X More in Less Time ⚡️🚀](https://dev.to/madza/9-modern-ai-developer-tools-to-achieve-10x-more-in-less-time-2p0h)
-- [mvt-redesigned](https://dev.to/nebula_3108/mvt-redesigned-4dj2)
-- [2nd Week - Algorithms](https://dev.to/feelsgood_6/2nd-week-algorithms-2o74)
+- [Mastering Your Digital Privacy: A Comprehensive Guide to Online Protection](https://dev.to/swayam_dc1eefb8839da110de/mastering-your-digital-privacy-a-comprehensive-guide-to-online-protection-43n5)
+- [Easy Water Level Indicator You Can Build – No Microcontroller Needed](https://dev.to/david_thomas/diy-water-level-alarm-with-buzzer-no-microcontroller-needed-4l37)
+- [🧭 React Router Too Verbose? Try This: File-Based Routing like Next.js — In Any React App!](https://dev.to/prasanthreact/react-router-too-verbose-try-this-file-based-routing-like-nextjs-in-any-react-app-1c69)
+- [How to back up files &lpar;from an android phone&rpar; on GCS](https://dev.to/gnsp/how-to-back-up-files-from-an-android-phone-on-gcs-1dlh)
 <!-- BLOG-POST-LIST:END -->
 
 
