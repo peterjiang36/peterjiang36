@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [StarDots Assistant is online!](https://dev.to/keepchen/stardots-assistant-is-online-kb8)
-- [How I Tracked Every Hour of My Life for 4 Years - and What You Can Learn From It](https://dev.to/maxpatiiuk/how-i-tracked-every-hour-of-my-life-for-4-years-and-what-you-can-learn-from-it-4pic)
-- [ClassList in JS](https://dev.to/char1iedevos/classlist-in-js-1ena)
-- [Composer use local package](https://dev.to/seongbae/composer-use-local-package-3g0m)
+- [Angular Standalone Components: Your Gateway to Cleaner, More Scalable Apps](https://dev.to/codewithrajat/angular-standalone-components-your-gateway-to-cleaner-more-scalable-apps-4o2b)
+- [Seeing Like a Machine: Understanding Computer Vision Fundamentals and Applications](https://dev.to/dev_patel_35864ca1db6093c/seeing-like-a-machine-understanding-computer-vision-fundamentals-and-applications-ac3)
+- [Area Change Issues, Navigation Jumps, Input Box Special Symbol Filtering, Inserting Builders in Constructors](https://dev.to/qingkouwei/area-change-issues-navigation-jumps-input-box-special-symbol-filtering-inserting-builders-in-2526)
+- [Component Offset, Popup Arrow Color &amp; Bubble Radius, Dynamic Attributes, Scan UI Implementation](https://dev.to/qingkouwei/component-offset-popup-arrow-color-bubble-radius-dynamic-attributes-scan-ui-implementation-4hcl)
 <!-- BLOG-POST-LIST:END -->
 
 
