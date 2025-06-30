@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trends in the frontend tech stack in 2025: What you need to know for long-term growth](https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd)
-- [[Boost]](https://dev.to/phuc/-klp)
-- [Demystifying Django: How I Learned the Project Structure &lpar;Through My Own Debugging Lens&rpar;](https://dev.to/zabby/demystifying-django-how-i-learned-the-project-structure-through-my-own-debugging-lens-2929)
-- [Learn Bootstrap 5 by Building a Clean and Responsive Dashboard](https://dev.to/learncodewithalex/learn-bootstrap-5-by-building-a-clean-and-responsive-dashboard-48io)
+- [Cómo detectar usuarios existentes en un sistema con un ataque de fuerza bruta inteligente ⚠️🔐](https://dev.to/alfondodelciber/como-detectar-usuarios-existentes-en-un-sistema-con-un-ataque-de-fuerza-bruta-inteligente-54pf)
+- [9 Modern AI Developer Tools to Achieve 10X More in Less Time ⚡️🚀](https://dev.to/madza/9-modern-ai-developer-tools-to-achieve-10x-more-in-less-time-2p0h)
+- [mvt-redesigned](https://dev.to/nebula_3108/mvt-redesigned-4dj2)
+- [2nd Week - Algorithms](https://dev.to/feelsgood_6/2nd-week-algorithms-2o74)
 <!-- BLOG-POST-LIST:END -->
 
 
