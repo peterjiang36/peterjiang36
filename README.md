@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Aplicando conceitos do C4 Model no desenho de arquiteturas de soluções AWS](https://dev.to/igmarcelo_/aplicando-conceitos-do-c4-model-no-desenho-de-arquiteturas-de-solucoes-aws-2c2m)
-- [Early Retirement - What FIRE Is Absolutely Not About](https://dev.to/sonika_onboardedhq/early-retirement-what-fire-is-absolutely-not-about-2koj)
-- [Demystifying Cloud Computing: 7 Key Concepts Every Developer Should Know](https://dev.to/adeyemo/demystifying-cloud-computing-7-key-concepts-every-developer-should-know-58p3)
-- [Drawing a Koala with HTML and CSS](https://dev.to/alvaromontoro/drawing-a-koala-with-html-and-css-bpf)
+- [StarDots Assistant is online!](https://dev.to/keepchen/stardots-assistant-is-online-kb8)
+- [How I Tracked Every Hour of My Life for 4 Years - and What You Can Learn From It](https://dev.to/maxpatiiuk/how-i-tracked-every-hour-of-my-life-for-4-years-and-what-you-can-learn-from-it-4pic)
+- [ClassList in JS](https://dev.to/char1iedevos/classlist-in-js-1ena)
+- [Composer use local package](https://dev.to/seongbae/composer-use-local-package-3g0m)
 <!-- BLOG-POST-LIST:END -->
 
 
