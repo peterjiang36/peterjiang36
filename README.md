@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Standalone Components: Your Gateway to Cleaner, More Scalable Apps](https://dev.to/codewithrajat/angular-standalone-components-your-gateway-to-cleaner-more-scalable-apps-4o2b)
-- [Seeing Like a Machine: Understanding Computer Vision Fundamentals and Applications](https://dev.to/dev_patel_35864ca1db6093c/seeing-like-a-machine-understanding-computer-vision-fundamentals-and-applications-ac3)
-- [Area Change Issues, Navigation Jumps, Input Box Special Symbol Filtering, Inserting Builders in Constructors](https://dev.to/qingkouwei/area-change-issues-navigation-jumps-input-box-special-symbol-filtering-inserting-builders-in-2526)
-- [Component Offset, Popup Arrow Color &amp; Bubble Radius, Dynamic Attributes, Scan UI Implementation](https://dev.to/qingkouwei/component-offset-popup-arrow-color-bubble-radius-dynamic-attributes-scan-ui-implementation-4hcl)
+- [[Boost]](https://dev.to/bagaswibowo/-54kf)
+- [HarmonyOS App Dev with Uniapp Real-World Practice &amp; Tips](https://dev.to/lovehmos/harmonyos-app-dev-with-uniapp-real-world-practice-tips-2k92)
+- [🚀 Mastering Functional Programming Concepts in JavaScript](https://dev.to/manukumar07/mastering-functional-programming-concepts-in-javascript-gdm)
+- [HarmonyOS Amount Converter Dev Notes &amp; Pitfalls](https://dev.to/lovehmos/harmonyos-amount-converter-dev-notes-pitfalls-5gia)
 <!-- BLOG-POST-LIST:END -->
 
 
