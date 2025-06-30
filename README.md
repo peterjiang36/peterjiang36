@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark’s Outlines: Python None](https://dev.to/mike-vincent/quarks-outlines-python-none-5d9e)
-- [Lightning-Fast, Minimal AI/API Serverless Deployment: The Essence and Practice of Mastra Lambda Docker Deploy](https://dev.to/hayata_yamamoto/lightning-fast-minimal-aiapi-serverless-deployment-the-essence-and-practice-of-mastra-lambda-kjk)
-- [Top 10 SoapUI Alternatives That Won&#39;t Give You a Headache in 2025](https://dev.to/apilover/top-10-soapui-alternatives-that-wont-give-you-a-headache-in-2025-lg)
-- [Roles &amp; Permissions: Building a Secure and Efficient Full-Stack Product](https://dev.to/vinayveerappaji/roles-permissions-building-a-secure-and-efficient-full-stack-product-2gd3)
+- [HarmonyOS PDF Kit: Dev Survival Guide &amp; Gotchas](https://dev.to/lovehmos/harmonyos-pdf-kit-dev-survival-guide-gotchas-1kbi)
+- [HarmonyOS HiLog: Real-World Logging Tips &amp; Pitfalls](https://dev.to/lovehmos/harmonyos-hilog-real-world-logging-tips-pitfalls-1mg2)
+- [ServBay 1.14.0 Update: Introducing New Developer Tools like MinIO and Typesense](https://dev.to/servbay/servbay-1140-update-introducing-new-developer-tools-like-minio-and-typesense-3n2g)
+- [🐍 Python isn’t just surviving—it’s thriving.](https://dev.to/jayesh_malviya_50f3081df5/python-isnt-just-surviving-its-thriving-2jij)
 <!-- BLOG-POST-LIST:END -->
 
 
