@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Durable Cloud Storage with AWS EBS: A Real-World Hands-On Walkthrough](https://dev.to/peter_samuel_052b9056e236/building-durable-cloud-storage-with-aws-ebs-a-real-world-hands-on-walkthrough-366l)
-- [Integration Digest for June 2025](https://dev.to/stn1slv/integration-digest-for-june-2025-2lhc)
-- [Machine Learning for Automatic Image Optimization](https://dev.to/hardik_b2d8f0bca/machine-learning-for-automatic-image-optimization-1icf)
-- [🔍 I Searched “Who Is the Author of Programming as an Art on Dev.to” — and Found Myself](https://dev.to/pjdeveloper896/i-searched-who-is-the-author-of-programming-as-an-art-on-devto-and-found-myself-djk)
+- [Untitled](https://dev.to/ali_mido_ffcd59f08b7c1b02/untitled-3kh5)
+- [Forget ChatGPT &amp; Gemini - Here Are New AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-gemini-here-are-new-ai-tools-that-will-blow-your-mind-1l02)
+- [MCP Server for Amazon Products &lpar;100% Open Source&rpar; 🛒🚀](https://dev.to/buildandcodewithraman/mcp-server-for-amazon-products-100-open-source-o80)
+- [&quot;Your LLM code works... until it doesn’t — especially on someone else’s machine.&quot; That was me last month, confidently shipping a prototype only to watch it crumble in different environments. No GPU? Boom. Slight change in model prompt? Silent failure.](https://dev.to/mrzaizai2k/your-llm-code-works-until-it-doesnt-especially-on-someone-elses-machine-that-was-me-last-472h)
 <!-- BLOG-POST-LIST:END -->
 
 
