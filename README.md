@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin ETF Momentum: Ubleu Analyzes $2.22B Weekly Surge and What It Means for Developers](https://dev.to/idcxs/bitcoin-etf-momentum-ubleu-analyzes-222b-weekly-surge-and-what-it-means-for-developers-4om0)
-- [🚀 I Missed the Hackathon Deadline—But I’m Still Releasing My Project for the People](https://dev.to/popcorn150/i-missed-the-hackathon-deadline-but-im-still-releasing-my-project-for-the-people-3h9m)
-- [MCP vs API: Simplifying AI Agent Integration with External Data](https://dev.to/giri_f_437ca53c03d2fffb79/mcp-vs-api-simplifying-ai-agent-integration-with-external-data-39ho)
-- [Understanding Content Security Policy &lpar;CSP&rpar; in JavaScript Apps](https://dev.to/muhayminbinmehmood/understanding-content-security-policy-csp-in-javascript-apps-437l)
+- [Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js](https://dev.to/webcraft-notes/smart-content-management-integrating-search-filters-and-pagination-with-react-and-nodejs-4c01)
+- [Top Ten Tips for Using Rust with Phoenix LiveView for High-Performance Backends](https://dev.to/hexshift/top-ten-tips-for-using-rust-with-phoenix-liveview-for-high-performance-backends-48nb)
+- [The Best ngrok Alternative for Linux: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-linux-tunnelmole-open-source-2112)
+- [Top Ten Tips for Integrating Alpine.js with Phoenix LiveView](https://dev.to/hexshift/top-ten-tips-for-integrating-alpinejs-with-phoenix-liveview-4nh)
 <!-- BLOG-POST-LIST:END -->
 
 
