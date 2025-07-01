@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [100K QPS Web Server Design（1751329726313900）](https://dev.to/member_a5799784/100k-qps-web-server-design1751329726313900-5dcb)
-- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751329104221600）](https://dev.to/member_a5799784/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751329104221600-3h59)
-- [Altius Labs: Redefining blockchain infrastructure with modular execution and scalability](https://dev.to/doanlonghau/altius-labs-redefining-blockchain-infrastructure-with-modular-execution-and-scalability-17ga)
-- [Memory Pool Design Patterns（1751328620666000）](https://dev.to/member_35db4d53/memory-pool-design-patterns1751328620666000-3i4f)
+- [Containerized vs Traditional Deployment（1751333207676400）](https://dev.to/member_35db4d53/containerized-vs-traditional-deployment1751333207676400-31p3)
+- [Building Universal Cross Platform Web Advanced（1751333202473900）](https://dev.to/member_14fef070/building-universal-cross-platform-web-advanced1751333202473900-1o8o)
+- [Real-Time Game Server Architecture Low Latency High Concurrency Implementation（1751333151159200）](https://dev.to/member_de57975b/real-time-game-server-architecture-low-latency-high-concurrency-implementation1751333151159200-4160)
+- [🎓 LLM Zoomcamp Module 2 - Chapter 2: Practical Implementation &amp; Advanced Techniques](https://dev.to/abdelrahman_adnan/llm-zoomcamp-module-2-chapter-2-practical-implementation-advanced-techniques-3kgb)
 <!-- BLOG-POST-LIST:END -->
 
 
