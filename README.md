@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Evolution Strategies（1751336264080500）](https://dev.to/member_35db4d53/code-evolution-strategies1751336264080500-33mf)
-- [Reactive Architecture Principles System for Elastic Scaling and Fault Recovery（1751336257184600）](https://dev.to/member_14fef070/reactive-architecture-principles-system-for-elastic-scaling-and-fault-recovery1751336257184600-2m7n)
-- [Real Time Communication Modern Web Server Sent Events（1751336175161100）](https://dev.to/member_de57975b/real-time-communication-modern-web-server-sent-events1751336175161100-1hni)
-- [🌾Beginner-Friendly Guide to &quot;Find the Original Typed String I&quot; - LeetCode 3330 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-to-find-the-original-typed-string-i-leetcode-3330-c-python--3d0b)
+- [[School Landing Page - Part 1] Project Planning: Purpose and Target Users](https://dev.to/umemarop/school-landing-page-part-1-project-planning-purpose-and-target-users-11k6)
+- [Memory Safety Ultimate Performance Balance（1751340088078300）](https://dev.to/member_35db4d53/memory-safety-ultimate-performance-balance1751340088078300-2c3o)
+- [Rust Web Framework Analysis Deep Dive Safety Features（1751340075696200）](https://dev.to/member_14fef070/rust-web-framework-analysis-deep-dive-safety-features1751340075696200-3o3g)
+- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose（1751339956313900）](https://dev.to/member_de57975b/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose1751339956313900-4dhp)
 <!-- BLOG-POST-LIST:END -->
 
 
