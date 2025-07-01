@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/bagaswibowo/-57c9)
-- [Building QuantaCode: Our Bolt Hackathon Saga &lpar;and the AI Brainrot is Real!&rpar;](https://dev.to/aldorax/building-quantacode-our-bolt-hackathon-saga-and-the-ai-brainrot-is-real-5dh0)
-- [My First code On JVM Meeting](https://dev.to/s_mathavi_2fa1e3ea8514f34/my-first-code-on-jvm-meeting-46f9)
-- [CLOUD CONCEPT](https://dev.to/ajayid10/cloud-concept-3fph)
+- [Unlock the Power of ForgeRock IDM Scripting](https://dev.to/iamdevbox/unlock-the-power-of-forgerock-idm-scripting-15l8)
+- [📈 TrendSage – An AI Agent That Tracks Trends So You Don’t Have To](https://dev.to/shravzzv/trendsage-an-ai-agent-that-tracks-trends-so-you-dont-have-to-1n0)
+- [MVT vs MVC Architecture](https://dev.to/mavoochie/mvt-vs-mvc-architecture-25ma)
+- [Django MVT vs MVC Explained Simply for Beginners](https://dev.to/vallentinah/django-mvt-vs-mvc-explained-simply-for-beginners-3ome)
 <!-- BLOG-POST-LIST:END -->
 
 
