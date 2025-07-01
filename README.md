@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Launched LogicLore — Interactive CS Learning for Kids!](https://dev.to/vulcanwm/just-launched-logiclore-interactive-cs-learning-for-kids-k4c)
-- [Areal Chain Unveils Next-Gen Asset-Backed Blockchain at Dubai Crypto Expo](https://dev.to/arealnow/areal-chain-unveils-next-gen-asset-backed-blockchain-at-dubai-crypto-expo-4jpl)
-- [Building AI-Powered Tools as a Solo Founder: Lessons from the Trenches &lpar;inov-ai&rpar;](https://dev.to/godbright/building-ai-powered-tools-as-a-solo-founder-lessons-from-the-trenches-inov-ai-33dc)
-- [Who&#39;s hiring — July 2025](https://dev.to/fmerian/whos-hiring-july-2025-d23)
+- [[Boost]](https://dev.to/bagaswibowo/-57c9)
+- [Building QuantaCode: Our Bolt Hackathon Saga &lpar;and the AI Brainrot is Real!&rpar;](https://dev.to/aldorax/building-quantacode-our-bolt-hackathon-saga-and-the-ai-brainrot-is-real-5dh0)
+- [My First code On JVM Meeting](https://dev.to/s_mathavi_2fa1e3ea8514f34/my-first-code-on-jvm-meeting-46f9)
+- [CLOUD CONCEPT](https://dev.to/ajayid10/cloud-concept-3fph)
 <!-- BLOG-POST-LIST:END -->
 
 
