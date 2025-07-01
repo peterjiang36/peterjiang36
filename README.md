@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ OWASP Top 10 &lpar;2021 Edition&rpar; — Explained](https://dev.to/davinceleecode/owasp-top-10-2021-edition-explained-4a6g)
-- [Obtenha a Sintaxe de uma Cor Hexadecimal para o Terminal &lpar;ANSI RGB&rpar;](https://dev.to/marcosplusplus/obtenha-a-sintaxe-de-uma-cor-hexadecimal-para-o-terminal-ansi-rgb-h37)
-- [Web Development Learning Path（1751384975997000）](https://dev.to/member_35db4d53/web-development-learning-path1751384975997000-5a7j)
-- [🌟 Becoming Terraform-Ready: Real-World EKS Deployment of a 3-Tier App](https://dev.to/aws-builders/becoming-terraform-ready-real-world-eks-deployment-of-a-3-tier-app-aan)
+- [How to Setup Gemma 3n in Minutes: Lightweight AI Model for Text, Image, Video &amp; Audio](https://dev.to/nodeshiftcloud/how-to-setup-gemma-3n-in-minutes-lightweight-ai-model-for-text-image-video-audio-477b)
+- [How to Get a Dev Job in the UK with Visa Sponsorship](https://dev.to/focus230/how-to-get-a-dev-job-in-the-uk-with-visa-sponsorship-419b)
+- [How Bolt.new Helped Me Go From Beginner to Builder in the World&#39;s Largest Hackathon](https://dev.to/firdavs_azimov/how-boltnew-helped-me-go-from-beginner-to-builder-in-the-worlds-largest-hackathon-4jni)
+- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose（1751388418496400）](https://dev.to/member_35db4d53/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose1751388418496400-4l27)
 <!-- BLOG-POST-LIST:END -->
 
 
