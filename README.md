@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of ForgeRock IDM Scripting](https://dev.to/iamdevbox/unlock-the-power-of-forgerock-idm-scripting-15l8)
-- [📈 TrendSage – An AI Agent That Tracks Trends So You Don’t Have To](https://dev.to/shravzzv/trendsage-an-ai-agent-that-tracks-trends-so-you-dont-have-to-1n0)
-- [MVT vs MVC Architecture](https://dev.to/mavoochie/mvt-vs-mvc-architecture-25ma)
-- [Django MVT vs MVC Explained Simply for Beginners](https://dev.to/vallentinah/django-mvt-vs-mvc-explained-simply-for-beginners-3ome)
+- [🛡️ OWASP Top 10 &lpar;2021 Edition&rpar; — Explained](https://dev.to/davinceleecode/owasp-top-10-2021-edition-explained-4a6g)
+- [Obtenha a Sintaxe de uma Cor Hexadecimal para o Terminal &lpar;ANSI RGB&rpar;](https://dev.to/marcosplusplus/obtenha-a-sintaxe-de-uma-cor-hexadecimal-para-o-terminal-ansi-rgb-h37)
+- [Web Development Learning Path（1751384975997000）](https://dev.to/member_35db4d53/web-development-learning-path1751384975997000-5a7j)
+- [🌟 Becoming Terraform-Ready: Real-World EKS Deployment of a 3-Tier App](https://dev.to/aws-builders/becoming-terraform-ready-real-world-eks-deployment-of-a-3-tier-app-aan)
 <!-- BLOG-POST-LIST:END -->
 
 
