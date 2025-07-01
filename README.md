@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/ali_mido_ffcd59f08b7c1b02/untitled-3kh5)
-- [Forget ChatGPT &amp; Gemini - Here Are New AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-gemini-here-are-new-ai-tools-that-will-blow-your-mind-1l02)
-- [MCP Server for Amazon Products &lpar;100% Open Source&rpar; 🛒🚀](https://dev.to/buildandcodewithraman/mcp-server-for-amazon-products-100-open-source-o80)
-- [&quot;Your LLM code works... until it doesn’t — especially on someone else’s machine.&quot; That was me last month, confidently shipping a prototype only to watch it crumble in different environments. No GPU? Boom. Slight change in model prompt? Silent failure.](https://dev.to/mrzaizai2k/your-llm-code-works-until-it-doesnt-especially-on-someone-elses-machine-that-was-me-last-472h)
+- [Understanding the Reflect API in Depth](https://dev.to/omriluz1/understanding-the-reflect-api-in-depth-30pg)
+- [How to calibrate a temperature sensor?](https://dev.to/carolineee/how-to-calibrate-a-temperature-sensor-4l67)
+- [My Journey Through Flask and Full-Stack Development](https://dev.to/bonifacesoftwaredev/my-journey-through-flask-and-full-stack-development-4ph1)
+- [Building a Modern Blog Platform with React 19, TypeScript, and shadcn/ui](https://dev.to/blamsa0mine/building-a-modern-blog-platform-with-react-19-typescript-and-shadcnui-3ao3)
 <!-- BLOG-POST-LIST:END -->
 
 
