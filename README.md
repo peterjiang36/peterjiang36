@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Gemma 3n in Minutes: Lightweight AI Model for Text, Image, Video &amp; Audio](https://dev.to/nodeshiftcloud/how-to-setup-gemma-3n-in-minutes-lightweight-ai-model-for-text-image-video-audio-477b)
-- [How to Get a Dev Job in the UK with Visa Sponsorship](https://dev.to/focus230/how-to-get-a-dev-job-in-the-uk-with-visa-sponsorship-419b)
-- [How Bolt.new Helped Me Go From Beginner to Builder in the World&#39;s Largest Hackathon](https://dev.to/firdavs_azimov/how-boltnew-helped-me-go-from-beginner-to-builder-in-the-worlds-largest-hackathon-4jni)
-- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose（1751388418496400）](https://dev.to/member_35db4d53/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose1751388418496400-4l27)
+- [Technical Blog Writing Guide（1751392155331900）](https://dev.to/member_14fef070/technical-blog-writing-guide1751392155331900-4ifa)
+- [Minimalist Web Service Philosophy（1751392150728800）](https://dev.to/member_de57975b/minimalist-web-service-philosophy1751392150728800-2b91)
+- [Claude 4 vs Gemini 2.5 Pro: A Developer&#39;s Deep Dive Comparison](https://dev.to/forgecode/claude-4-vs-gemini-25-pro-a-developers-deep-dive-comparison-52p4)
+- [5 Cheap Object Storage Providers](https://dev.to/wimadev/5-cheap-object-storage-providers-5hhh)
 <!-- BLOG-POST-LIST:END -->
 
 
