@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[School Landing Page - Part 1] Project Planning: Purpose and Target Users](https://dev.to/umemarop/school-landing-page-part-1-project-planning-purpose-and-target-users-11k6)
-- [Memory Safety Ultimate Performance Balance（1751340088078300）](https://dev.to/member_35db4d53/memory-safety-ultimate-performance-balance1751340088078300-2c3o)
-- [Rust Web Framework Analysis Deep Dive Safety Features（1751340075696200）](https://dev.to/member_14fef070/rust-web-framework-analysis-deep-dive-safety-features1751340075696200-3o3g)
-- [Aesthetic Principles of API Design How to Make Code Read Like Beautiful Prose（1751339956313900）](https://dev.to/member_de57975b/aesthetic-principles-of-api-design-how-to-make-code-read-like-beautiful-prose1751339956313900-4dhp)
+- [Performance Profiling and Tuning（1751342982250900）](https://dev.to/member_de57975b/performance-profiling-and-tuning1751342982250900-5bpn)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751342802662700）](https://dev.to/member_a5799784/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751342802662700-11hl)
+- [3330. Find the Original Typed String I](https://dev.to/mdarifulhaque/3330-find-the-original-typed-string-i-4a96)
+- [Architectural Decision Making Real World Web Modern（1751342382309000）](https://dev.to/member_35db4d53/architectural-decision-making-real-world-web-modern1751342382309000-1fjf)
 <!-- BLOG-POST-LIST:END -->
 
 
