@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js](https://dev.to/webcraft-notes/smart-content-management-integrating-search-filters-and-pagination-with-react-and-nodejs-4c01)
-- [Top Ten Tips for Using Rust with Phoenix LiveView for High-Performance Backends](https://dev.to/hexshift/top-ten-tips-for-using-rust-with-phoenix-liveview-for-high-performance-backends-48nb)
-- [The Best ngrok Alternative for Linux: Tunnelmole - Open Source](https://dev.to/robbiecahill/the-best-ngrok-alternative-for-linux-tunnelmole-open-source-2112)
-- [Top Ten Tips for Integrating Alpine.js with Phoenix LiveView](https://dev.to/hexshift/top-ten-tips-for-integrating-alpinejs-with-phoenix-liveview-4nh)
+- [Just Launched LogicLore — Interactive CS Learning for Kids!](https://dev.to/vulcanwm/just-launched-logiclore-interactive-cs-learning-for-kids-k4c)
+- [Areal Chain Unveils Next-Gen Asset-Backed Blockchain at Dubai Crypto Expo](https://dev.to/arealnow/areal-chain-unveils-next-gen-asset-backed-blockchain-at-dubai-crypto-expo-4jpl)
+- [Building AI-Powered Tools as a Solo Founder: Lessons from the Trenches &lpar;inov-ai&rpar;](https://dev.to/godbright/building-ai-powered-tools-as-a-solo-founder-lessons-from-the-trenches-inov-ai-33dc)
+- [Who&#39;s hiring — July 2025](https://dev.to/fmerian/whos-hiring-july-2025-d23)
 <!-- BLOG-POST-LIST:END -->
 
 
