@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-18kf)
-- [Protesters accuse Google of violating its promises on AI safety: &#39;AI companies are less regulated than sandwich shops&#39;](https://dev.to/future_ai/protesters-accuse-google-of-violating-its-promises-on-ai-safety-ai-companies-are-less-regulated-3j4p)
-- [🚀 Building QuickClinic – A Scalable Java Microservices-Based Healthcare Platform](https://dev.to/debugger_sensei/building-quickclinic-a-scalable-java-microservices-based-healthcare-platform-5eid)
-- [I Tried to Automate Knowledge Graph Schema and It Blew My Mind](https://dev.to/gaodalie_ai/i-tried-to-automate-knowledge-graph-schema-and-it-blew-my-mind-4ckc)
+- [Real-Time Data Stream Processing（1751423501059300）](https://dev.to/member_35db4d53/real-time-data-stream-processing1751423501059300-3hpe)
+- [Running ML Models Locally with Docker Model Runner](https://dev.to/raju_dandigam/running-ml-models-locally-with-docker-model-runner-2pio)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751422737742100）](https://dev.to/member_35db4d53/event-driven-architecture-pattern-application-practice-in-web-frameworks1751422737742100-24af)
+- [How AI Is Spicing Up Your Cooking Game](https://dev.to/sebastian_reid999/how-ai-is-spicing-up-your-cooking-game-ob8)
 <!-- BLOG-POST-LIST:END -->
 
 
