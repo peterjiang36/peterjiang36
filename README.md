@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Custom Web Apps Improve SEO Performance in 2025](https://dev.to/qasim_blogs/how-custom-web-apps-improve-seo-performance-in-2025-2575)
-- [Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative](https://dev.to/robbiecahill/ngrok-github-the-new-ngrok-isnt-open-source-but-heres-a-drop-in-open-source-alternative-4fmi)
-- [What does clean code look like in the age of AI?](https://dev.to/stephan/what-does-clean-code-look-like-in-the-age-of-ai-4i5c)
-- [Modern Web Architecture Type Safety Error Best（1751457072079400）](https://dev.to/member_35db4d53/modern-web-architecture-type-safety-error-best1751457072079400-47be)
+- [dotnet run file.cs: The new file-based application model](https://dev.to/leading-edje/dotnet-run-filecs-the-new-file-based-application-model-1d24)
+- [Sam Altman Slams Meta&#39;s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://dev.to/future_ai/sam-altman-slams-metas-ai-talent-poaching-spree-missionaries-will-beat-mercenaries-1ibn)
+- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-38ad)
+- [Sam Altman takes his ‘io&#39; trademark battle public](https://dev.to/future_ai/sam-altman-takes-his-io-trademark-battle-public-47nl)
 <!-- BLOG-POST-LIST:END -->
 
 
