@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Secret ChatGPT Prompts 99% of Users Don&#39;t Know](https://dev.to/itshayder/5-secret-chatgpt-prompts-99-of-users-dont-know-2d52)
-- [Mobile App Development for Startups: How to Get It Right in 2025](https://dev.to/guna_g_e38729f62699227df1/mobile-app-development-for-startups-how-to-get-it-right-in-2025-5514)
-- [Create weather App using API..](https://dev.to/chithra_priya/create-weather-app-using-api-529c)
-- [Exploring High Efficiency Web Analysis Results（1751415025182400）](https://dev.to/member_a5799784/exploring-high-efficiency-web-analysis-results1751415025182400-104c)
+- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-18kf)
+- [Protesters accuse Google of violating its promises on AI safety: &#39;AI companies are less regulated than sandwich shops&#39;](https://dev.to/future_ai/protesters-accuse-google-of-violating-its-promises-on-ai-safety-ai-companies-are-less-regulated-3j4p)
+- [🚀 Building QuickClinic – A Scalable Java Microservices-Based Healthcare Platform](https://dev.to/debugger_sensei/building-quickclinic-a-scalable-java-microservices-based-healthcare-platform-5eid)
+- [I Tried to Automate Knowledge Graph Schema and It Blew My Mind](https://dev.to/gaodalie_ai/i-tried-to-automate-knowledge-graph-schema-and-it-blew-my-mind-4ckc)
 <!-- BLOG-POST-LIST:END -->
 
 
