@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Roundcube: CVE-2025-49113 Room | TryHackMe](https://dev.to/dhwanit25/roundcube-cve-2025-49113-room-tryhackme-4i3p)
-- [California Lawmakers Agree on $750 Million in Funding for Film and TV Tax Credit](https://dev.to/popcorn_movies/california-lawmakers-agree-on-750-million-in-funding-for-film-and-tv-tax-credit-4hei)
-- [0delay — The Best Diss Linux-to-Linux File Transfer System You Will Wanna Use.](https://dev.to/contractorx/0delay-the-best-diss-linux-to-linux-file-transfer-system-you-will-wanna-use-168j)
-- [‘Brokeback Mountain&#39; Co-Writer Knew the Film Would Lose Best Picture After Learning Clint Eastwood Hadn&#39;t Seen the Movie](https://dev.to/popcorn_movies/brokeback-mountain-co-writer-knew-the-film-would-lose-best-picture-after-learning-clint-eastwood-211k)
+- [5 Secret ChatGPT Prompts 99% of Users Don&#39;t Know](https://dev.to/itshayder/5-secret-chatgpt-prompts-99-of-users-dont-know-2d52)
+- [Mobile App Development for Startups: How to Get It Right in 2025](https://dev.to/guna_g_e38729f62699227df1/mobile-app-development-for-startups-how-to-get-it-right-in-2025-5514)
+- [Create weather App using API..](https://dev.to/chithra_priya/create-weather-app-using-api-529c)
+- [Exploring High Efficiency Web Analysis Results（1751415025182400）](https://dev.to/member_a5799784/exploring-high-efficiency-web-analysis-results1751415025182400-104c)
 <!-- BLOG-POST-LIST:END -->
 
 
