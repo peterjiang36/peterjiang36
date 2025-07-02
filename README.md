@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker For Developer](https://dev.to/dpvasani56/docker-for-developer-1cm5)
-- [Cross Platform Universal Applications（1751431894586200）](https://dev.to/member_35db4d53/cross-platform-universal-applications1751431894586200-3o92)
-- [The Future of IDEs](https://dev.to/tstark/the-future-of-ides-3lm6)
-- [Service Communication Patterns and Best Practice Guide Under Microservices（1751431296501400）](https://dev.to/member_de57975b/service-communication-patterns-and-best-practice-guide-under-microservices1751431296501400-346)
+- [The Role of Data Engineers - AWS](https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j)
+- [Django Architecture: What I Wish I Knew About Django’s Architecture Sooner &quot;MVC vs MVT&quot; Explained;](https://dev.to/annnab2222/django-architecture-what-i-wish-i-knew-about-djangos-architecture-sooner-mvc-vs-mvt-explained-3e6i)
+- [analytics](https://dev.to/nebula_3108/analytics-35p8)
+- [Coding Test - Snail wants to climb](https://dev.to/rojae1339/coding-test-snail-wants-to-climb-3adh)
 <!-- BLOG-POST-LIST:END -->
 
 
