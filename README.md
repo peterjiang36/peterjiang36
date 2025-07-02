@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel Perfect AI](https://dev.to/aniruddhaadak/pixel-perfect-ai-5fj)
-- [After the Hack: Living the Dream!](https://dev.to/warnerbell/after-the-hack-living-the-dream-3706)
-- [Technology Selection Wisdom（1751492993553600）](https://dev.to/member_35db4d53/technology-selection-wisdom1751492993553600-4kjn)
-- [Peak Performance Analysis Power Modern Web Studies（1751492325195900）](https://dev.to/member_35db4d53/peak-performance-analysis-power-modern-web-studies1751492325195900-3l1k)
+- [Next Generation High Web Rust Based Solutions（1751497162357700）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751497162357700-4bfi)
+- [Charm of Method Chaining Fluent Interface Patterns in Frameworks（1751497103333400）](https://dev.to/member_57439f86/charm-of-method-chaining-fluent-interface-patterns-in-frameworks1751497103333400-l6a)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-437a)
+- [API Gateway Pattern Unified Entry Management Strategy in Microservices（1751496533987200）](https://dev.to/member_6bc7e52c/api-gateway-pattern-unified-entry-management-strategy-in-microservices1751496533987200-3fla)
 <!-- BLOG-POST-LIST:END -->
 
 
