@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [dotnet run file.cs: The new file-based application model](https://dev.to/leading-edje/dotnet-run-filecs-the-new-file-based-application-model-1d24)
-- [Sam Altman Slams Meta&#39;s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://dev.to/future_ai/sam-altman-slams-metas-ai-talent-poaching-spree-missionaries-will-beat-mercenaries-1ibn)
-- [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion&#39;](https://dev.to/future_ai/a-pro-russia-disinformation-campaign-is-using-free-ai-tools-to-fuel-a-content-explosion-38ad)
-- [Sam Altman takes his ‘io&#39; trademark battle public](https://dev.to/future_ai/sam-altman-takes-his-io-trademark-battle-public-47nl)
+- [I built a FAST AI Video agent&lpar;now with image generation&rpar; &lpar;vidduo.com&rpar;](https://dev.to/york_yarn_06a8425231ea3d9/i-built-a-fast-ai-video-agentnow-with-image-generation-vidduocom-2p47)
+- [Comprehensive Guide to VPN Connection Between Azure and GCP](https://dev.to/christiana_orji/comprehensive-guide-to-vpn-connection-between-azure-and-gcp-40h4)
+- [I Compared ChatGPT, Gemini, Claude, and DeepSeek for Coding – Here&#39;s What Surprised Me](https://dev.to/samirtahiri/i-compared-chatgpt-gemini-claude-and-deepseek-for-coding-heres-what-surprised-me-4n21)
+- [# How to Optimize Images to Improve Your Website’s SEO 🚀](https://dev.to/danielfilemon/-how-to-optimize-images-to-improve-your-websites-seo-5cag)
 <!-- BLOG-POST-LIST:END -->
 
 
