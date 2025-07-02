@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Architecture Design（1751467754153500）](https://dev.to/member_35db4d53/microservices-architecture-design1751467754153500-2p1p)
-- [KT142C Voice Chip: A Selection Solution for 6 - segment Music IO Control and Button - battery Power Supply](https://dev.to/ble_voice/kt142c-voice-chip-a-selection-solution-for-6-segment-music-io-control-and-button-battery-power-24do)
-- [Announcing the First DEV Education Track: &quot;Build Apps with Google AI Studio&quot;](https://dev.to/devteam/announcing-the-first-dev-education-track-build-apps-with-google-ai-studio-ej7)
-- [From prompt to deployed app in less than 2 minutes](https://dev.to/googleai/from-prompt-to-deployed-app-in-less-than-2-minutes-dh3)
+- [Cross Platform Web Write Once Run Rust Framework（1751471579347800）](https://dev.to/member_35db4d53/cross-platform-web-write-once-run-rust-framework1751471579347800-3elh)
+- [Functional programming](https://dev.to/rezaarka/functional-programming-2al)
+- [Mastering the static Keyword in Java: The Ultimate Guide](https://dev.to/mukeshb/mastering-the-static-keyword-in-java-the-ultimate-guide-33oc)
+- [WebSocket Real Time Communication Guide（1751471441457900）](https://dev.to/member_57439f86/websocket-real-time-communication-guide1751471441457900-pim)
 <!-- BLOG-POST-LIST:END -->
 
 
