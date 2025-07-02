@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Web Write Once Run Rust Framework（1751471579347800）](https://dev.to/member_35db4d53/cross-platform-web-write-once-run-rust-framework1751471579347800-3elh)
-- [Functional programming](https://dev.to/rezaarka/functional-programming-2al)
-- [Mastering the static Keyword in Java: The Ultimate Guide](https://dev.to/mukeshb/mastering-the-static-keyword-in-java-the-ultimate-guide-33oc)
-- [WebSocket Real Time Communication Guide（1751471441457900）](https://dev.to/member_57439f86/websocket-real-time-communication-guide1751471441457900-pim)
+- [Strengthen Your Server with Automated Security Audits Using Ansible](https://dev.to/lovestaco/strengthen-your-server-with-automated-security-audits-using-ansible-301o)
+- [I&#39;ve just released my comprehensive document on System Design!](https://dev.to/link1905/ive-just-released-my-comprehensive-document-on-system-design-1hj0)
+- [Real World Project Case Study Campus Modern Web（1751474259970900）](https://dev.to/member_35db4d53/real-world-project-case-study-campus-modern-web1751474259970900-44ld)
+- [Unlock the Web’s Hidden Stacks: My Solo Journey from Hackathon MVP to Open-Source project](https://dev.to/axrisi/after-the-hack-21a4)
 <!-- BLOG-POST-LIST:END -->
 
 
