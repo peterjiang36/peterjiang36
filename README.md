@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Data Engineers - AWS](https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j)
-- [Django Architecture: What I Wish I Knew About Django’s Architecture Sooner &quot;MVC vs MVT&quot; Explained;](https://dev.to/annnab2222/django-architecture-what-i-wish-i-knew-about-djangos-architecture-sooner-mvc-vs-mvt-explained-3e6i)
-- [analytics](https://dev.to/nebula_3108/analytics-35p8)
-- [Coding Test - Snail wants to climb](https://dev.to/rojae1339/coding-test-snail-wants-to-climb-3adh)
+- [Architectural Decision Making Real World Web Modern（1751439590003300）](https://dev.to/member_de57975b/architectural-decision-making-real-world-web-modern1751439590003300-4066)
+- [Needing advice on project](https://dev.to/pfi_ielts_7fd3ca569921f20/needing-advice-on-project-2fbe)
+- [Cache and Data Locality Optimization（1751438952033400）](https://dev.to/member_de57975b/cache-and-data-locality-optimization1751438952033400-2085)
+- [CVE-2024-38077: Critical RCE in Windows RDL Service](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-38077-critical-rce-in-windows-rdl-service-1imk)
 <!-- BLOG-POST-LIST:END -->
 
 
