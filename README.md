@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🏆⏳ BlockMate AI: Your Automated Deep‑Work &amp; Accountability Buddy 🤖](https://dev.to/divyasinghdev/blockmate-ai-your-automated-deep-work-accountability-buddy-38oh)
-- [Async Programming Patterns（1751478503748500）](https://dev.to/member_57439f86/async-programming-patterns1751478503748500-go1)
-- [La cybersécurité et les mots de passe](https://dev.to/robin_boucher_4a5559d1b96/la-cybersecurite-et-les-mots-de-passe-4p3)
-- [From LLM to Action Agent: How We Gave ChatGPT Superpowers with ToolAgent &lpar;MultiMindSDK&rpar;](https://dev.to/niral_bhalodia/from-llm-to-action-agent-how-we-gave-chatgpt-superpowers-with-toolagent-multimindsdk-67c)
+- [Real-Time Data Stream Processing（1751482074025900）](https://dev.to/member_6bc7e52c/real-time-data-stream-processing1751482074025900-4kgj)
+- [I Got Tired of Build Tools, So I Built a JS Framework for Instant UI Prototyping](https://dev.to/xzdes/i-got-tired-of-build-tools-so-i-built-a-js-framework-for-instant-ui-prototyping-19k2)
+- [What is SSO &lpar;Single Sign-On&rpar;? How SSO Works?](https://dev.to/debojyotichatterjee9/what-is-sso-single-sign-on-how-sso-works-4hn)
+- [Tech as Extracurricular- Why I Choose Coding](https://dev.to/rupali2005/tech-as-extracurricular-why-i-choose-coding-2pop)
 <!-- BLOG-POST-LIST:END -->
 
 
