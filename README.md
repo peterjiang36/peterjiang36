@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Data Stream Processing（1751423501059300）](https://dev.to/member_35db4d53/real-time-data-stream-processing1751423501059300-3hpe)
-- [Running ML Models Locally with Docker Model Runner](https://dev.to/raju_dandigam/running-ml-models-locally-with-docker-model-runner-2pio)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks（1751422737742100）](https://dev.to/member_35db4d53/event-driven-architecture-pattern-application-practice-in-web-frameworks1751422737742100-24af)
-- [How AI Is Spicing Up Your Cooking Game](https://dev.to/sebastian_reid999/how-ai-is-spicing-up-your-cooking-game-ob8)
+- [Service Discovery and Load Balancing Core Role Mechanisms in Distributed Systems（1751426192480800）](https://dev.to/member_de57975b/service-discovery-and-load-balancing-core-role-mechanisms-in-distributed-systems1751426192480800-5hk9)
+- [Azure Fundamentals: Microsoft.WindowsDefenderATP](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftwindowsdefenderatp-4in0)
+- [Congratulations To All Bolt Hackathon Participants](https://dev.to/baghmama/congratulations-to-all-bolt-hackathon-participants-2ag1)
+- [Cache and Data Locality Optimization（1751425789967800）](https://dev.to/member_35db4d53/cache-and-data-locality-optimization1751425789967800-5271)
 <!-- BLOG-POST-LIST:END -->
 
 
