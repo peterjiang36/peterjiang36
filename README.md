@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ Free &amp; Responsive React Website Templates to Use](https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi)
-- [Starting Small, Dreaming Big: My LN247 Talk on Building Tech Startups in Nigeria](https://dev.to/subair09/starting-small-dreaming-big-my-ln247-talk-on-building-tech-startups-in-nigeria-k42)
-- [TSWHZC Technical Deep Dive: Openpayd-Ripple Integration Architecture](https://dev.to/tswhzc/tswhzc-technical-deep-dive-openpayd-ripple-integration-architecture-gl8)
-- [Memory Leak Terminator How Type Safety Saved My Graduation Project（1751453256722600）](https://dev.to/member_35db4d53/memory-leak-terminator-how-type-safety-saved-my-graduation-project1751453256722600-194h)
+- [How Custom Web Apps Improve SEO Performance in 2025](https://dev.to/qasim_blogs/how-custom-web-apps-improve-seo-performance-in-2025-2575)
+- [Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative](https://dev.to/robbiecahill/ngrok-github-the-new-ngrok-isnt-open-source-but-heres-a-drop-in-open-source-alternative-4fmi)
+- [What does clean code look like in the age of AI?](https://dev.to/stephan/what-does-clean-code-look-like-in-the-age-of-ai-4i5c)
+- [Modern Web Architecture Type Safety Error Best（1751457072079400）](https://dev.to/member_35db4d53/modern-web-architecture-type-safety-error-best1751457072079400-47be)
 <!-- BLOG-POST-LIST:END -->
 
 
