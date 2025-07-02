@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strengthen Your Server with Automated Security Audits Using Ansible](https://dev.to/lovestaco/strengthen-your-server-with-automated-security-audits-using-ansible-301o)
-- [I&#39;ve just released my comprehensive document on System Design!](https://dev.to/link1905/ive-just-released-my-comprehensive-document-on-system-design-1hj0)
-- [Real World Project Case Study Campus Modern Web（1751474259970900）](https://dev.to/member_35db4d53/real-world-project-case-study-campus-modern-web1751474259970900-44ld)
-- [Unlock the Web’s Hidden Stacks: My Solo Journey from Hackathon MVP to Open-Source project](https://dev.to/axrisi/after-the-hack-21a4)
+- [🏆⏳ BlockMate AI: Your Automated Deep‑Work &amp; Accountability Buddy 🤖](https://dev.to/divyasinghdev/blockmate-ai-your-automated-deep-work-accountability-buddy-38oh)
+- [Async Programming Patterns（1751478503748500）](https://dev.to/member_57439f86/async-programming-patterns1751478503748500-go1)
+- [La cybersécurité et les mots de passe](https://dev.to/robin_boucher_4a5559d1b96/la-cybersecurite-et-les-mots-de-passe-4p3)
+- [From LLM to Action Agent: How We Gave ChatGPT Superpowers with ToolAgent &lpar;MultiMindSDK&rpar;](https://dev.to/niral_bhalodia/from-llm-to-action-agent-how-we-gave-chatgpt-superpowers-with-toolagent-multimindsdk-67c)
 <!-- BLOG-POST-LIST:END -->
 
 
