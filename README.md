@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Decision Making Real World Web Modern（1751439590003300）](https://dev.to/member_de57975b/architectural-decision-making-real-world-web-modern1751439590003300-4066)
-- [Needing advice on project](https://dev.to/pfi_ielts_7fd3ca569921f20/needing-advice-on-project-2fbe)
-- [Cache and Data Locality Optimization（1751438952033400）](https://dev.to/member_de57975b/cache-and-data-locality-optimization1751438952033400-2085)
-- [CVE-2024-38077: Critical RCE in Windows RDL Service](https://dev.to/sharon_42e16b8da44dabde6d/cve-2024-38077-critical-rce-in-windows-rdl-service-1imk)
+- [Flutter Write Less, Do More: Supercharge Your Flutter Apps with Mplix Extensions](https://dev.to/taniksha_sharma_b4a11092f/flutter-write-less-do-more-supercharge-your-flutter-apps-with-mplix-extensions-4ik5)
+- [FastiQuran: A Distraction-Free Digital Companion for Your Spiritual Journey](https://dev.to/cas8398/fastiquran-a-distraction-free-digital-companion-for-your-spiritual-journey-2d30)
+- [[Boost]](https://dev.to/osiris8/-1anh)
+- [Garbage Collection and Weak References](https://dev.to/omriluz1/garbage-collection-and-weak-references-20ha)
 <!-- BLOG-POST-LIST:END -->
 
 
