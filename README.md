@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project &lpar;Part One&rpar;](https://dev.to/mbarcia/from-monolith-to-microservices-lessons-learned-migrating-the-csv-payments-processing-project-part-3p5m)
-- [What is Data Enrichment ＆ How AI Enhances Its Power](https://dev.to/powerdrill_ai/what-is-data-enrichment-how-ai-enhances-its-power-3m8m)
-- [How to Add Internationalization &lpar;i18n&rpar; to a React App Using i18next [2025 Edition]](https://dev.to/anilparmar/how-to-add-internationalization-i18n-to-a-react-app-using-i18next-2025-edition-3hkk)
-- [SIMD Vectorized Computing（1751539786112100）](https://dev.to/member_6bc7e52c/simd-vectorized-computing1751539786112100-3e4i)
+- [When I got tired of searching for tools, I started building my own](https://dev.to/ro_lax/when-i-got-tired-of-searching-for-tools-i-started-building-my-own-2cep)
+- [How to Handle HubSpot Webhooks Locally with Tunnelmole and Express.js](https://dev.to/robbiecahill/how-to-handle-hubspot-webhooks-locally-with-tunnelmole-and-expressjs-4ill)
+- [Context Management Design Philosophy（1751543896016800）](https://dev.to/member_6bc7e52c/context-management-design-philosophy1751543896016800-12k3)
+- [How to Handle Zapier Webhooks Locally with Tunnelmole and Express.js](https://dev.to/robbiecahill/how-to-handle-zapier-webhooks-locally-with-tunnelmole-and-expressjs-3kg9)
 <!-- BLOG-POST-LIST:END -->
 
 
