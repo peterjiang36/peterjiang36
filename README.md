@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [By the way, maybe there is someone who can post HMPL in Ycombinator with a pumped up account in HN? It would be really cool, it would help us!](https://dev.to/anthonymax/by-the-way-maybe-there-is-someone-who-can-post-hmpl-in-ycombinator-with-a-pumped-up-account-in-hn-2d31)
-- [Git-Sensei: Where Coding Style Meets Anime Destiny](https://dev.to/sroy8091/git-sensei-where-coding-style-meets-anime-destiny-2l8l)
-- [Why Technical Cybersecurity Founders Struggle with Marketing &lpar;and How AI Is Changing the Game&rpar;](https://dev.to/deepakgupta/why-technical-cybersecurity-founders-struggle-with-marketing-and-how-ai-is-changing-the-game-1ncc)
-- [Code Readability Techniques（1751575316504600）](https://dev.to/member_57439f86/code-readability-techniques1751575316504600-233n)
+- [🌟 Looking for Volunteer Judges &amp; Mentors for a Beginner-Friendly Low/No Code Hackathon! 🌟](https://dev.to/cwidusahan/looking-for-volunteer-judges-mentors-for-a-beginner-friendly-lowno-code-hackathon-mmb)
+- [AI in the Driver’s Seat: Evolution Never Stopped, It Just Advanced](https://dev.to/ethernmyth/ai-in-the-drivers-seat-evolution-never-stopped-it-just-advanced-p5)
+- [Para Sara](https://dev.to/jorge_chaconotero_a6b673/para-sara-2ka6)
+- [Single Core High Concurrency（1751579100957200）](https://dev.to/member_57439f86/single-core-high-concurrency1751579100957200-e4b)
 <!-- BLOG-POST-LIST:END -->
 
 
