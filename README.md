@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Well Explained Leetcode Hard 3333](https://dev.to/thedeepseeker/well-explained-leetcode-hard-3333-583d)
-- [🧙‍♂️Beginner-Friendly Guide &quot;Find the K-th Character in String Game I&quot; – LeetCode 3304 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-the-k-th-character-in-string-game-i-leetcode-3304-c--478a)
-- [Minimizing False Positives: Enhancing Security Efficiency](https://dev.to/snyk/minimizing-false-positives-enhancing-security-efficiency-b54)
-- [Cross Platform Web Write Once Run Rust Framework（1751506224416200）](https://dev.to/member_6bc7e52c/cross-platform-web-write-once-run-rust-framework1751506224416200-2hf2)
+- [Breaking Down RL2: Why We Built a Ray-Less RL Framework for AI Agents](https://dev.to/accioprocurement/breaking-down-rl2-why-we-built-a-ray-less-rl-framework-for-ai-agents-j00)
+- [How to create a storage account and configure basic settings for security and networking.](https://dev.to/onyemuche/how-to-create-a-storage-account-and-configure-basic-settings-for-security-and-networking-4fco)
+- [Model Mondays S2E03 - AMA on SLMs and Reasoning](https://dev.to/azure/model-mondays-s2e03-ama-on-slms-and-reasoning-25dg)
+- [GCP Fundamentals: Dataflow API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataflow-api-48on)
 <!-- BLOG-POST-LIST:END -->
 
 
