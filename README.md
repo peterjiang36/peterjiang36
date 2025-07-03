@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 WordPress Security Plugins to Use for Site Safety 2025](https://dev.to/serveravatar/top-5-wordpress-security-plugins-to-use-for-site-safety-2025-5785)
-- [Polling Is So Last Year—Level Up with Real‑Time WebSockets in Node.js! 🚀](https://dev.to/saumyaaggarwal/polling-is-so-last-year-level-up-with-real-time-websockets-in-nodejs-4oi2)
-- [Next Generation High Web Rust Based Solutions（1751525403587200）](https://dev.to/member_6bc7e52c/next-generation-high-web-rust-based-solutions1751525403587200-53ha)
-- [Remote Work Policies That Actually Work: A Developer&#39;s Guide](https://dev.to/nikhil_sachapara/-552f)
+- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns（1751529511681000）](https://dev.to/member_6bc7e52c/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns1751529511681000-4gg0)
+- [Middleware Magic Advanced Request Processing Techniques（1751528826827600）](https://dev.to/member_6bc7e52c/middleware-magic-advanced-request-processing-techniques1751528826827600-3fl9)
+- [A Developer&#39;s Guide to Unit Testing Nuxt 3 Server Routes](https://dev.to/doantrongnam/a-developers-guide-to-unit-testing-nuxt-3-server-routes-4f55)
+- [Access to Gemini Model](https://dev.to/olatunjiayodel9/access-to-gemini-model-3d84)
 <!-- BLOG-POST-LIST:END -->
 
 
