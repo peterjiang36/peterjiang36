@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Adult Learning Log] C Language – Week 4 Review](https://dev.to/sankworks/adult-learning-log-c-language-week-4-review-c9p)
-- [A Step-by-Step Guide to Deploying n8n on Oracle Cloud Free Tier](https://dev.to/dalenguyen/a-step-by-step-guide-to-deploying-n8n-on-oracle-cloud-free-tier-cjp)
-- [How to Navigating API Documentation Effectively? 🤔](https://dev.to/fallon_jimmy/how-to-navigating-api-documentation-effectively-24ca)
-- [Webpack Bundle Analyzer Deep Analysis and Optimization of Your Bundle](https://dev.to/tianyaschool/webpack-bundle-analyzer-deep-analysis-and-optimization-of-your-bundle-m83)
+- [Beyond the code challenge of the World&#39;s largest hackathon writing challenge. Devconnect](https://dev.to/tinyefuza_joe_b1f6525bd6b/beyond-the-code-challenge-of-the-worlds-largest-hackathon-writing-challenge-devconnect-17be)
+- [Built with Bolt challenge of the World&#39;s largest hackathon writing challenge. Devconnect](https://dev.to/tinyefuza_joe_b1f6525bd6b/built-with-bolt-challenge-of-the-worlds-largest-hackathon-writing-challenge-devconnect-4mcc)
+- [Context Switching Is Killing Your Code: The Single-Tasking Developer&#39;s Guide](https://dev.to/teamcamp/context-switching-is-killing-your-code-the-single-tasking-developers-guide-2gha)
+- [CPU Cache-Friendly Data Structures（1751516969537600）](https://dev.to/member_57439f86/cpu-cache-friendly-data-structures1751516969537600-3ebp)
 <!-- BLOG-POST-LIST:END -->
 
 
