@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When I got tired of searching for tools, I started building my own](https://dev.to/ro_lax/when-i-got-tired-of-searching-for-tools-i-started-building-my-own-2cep)
-- [How to Handle HubSpot Webhooks Locally with Tunnelmole and Express.js](https://dev.to/robbiecahill/how-to-handle-hubspot-webhooks-locally-with-tunnelmole-and-expressjs-4ill)
-- [Context Management Design Philosophy（1751543896016800）](https://dev.to/member_6bc7e52c/context-management-design-philosophy1751543896016800-12k3)
-- [How to Handle Zapier Webhooks Locally with Tunnelmole and Express.js](https://dev.to/robbiecahill/how-to-handle-zapier-webhooks-locally-with-tunnelmole-and-expressjs-3kg9)
+- [🔍 Correlating Mirantis Kubernetes Engine &lpar;MKE&rpar; Symptoms with Components](https://dev.to/sindhuja_ns_1e491ce1088d/correlating-mirantis-kubernetes-engine-mke-symptoms-with-components-59d0)
+- [Scaling multi-tenant Go applications: Choosing the right database partitioning approach](https://dev.to/abhirockzz/scaling-multi-tenant-go-applications-choosing-the-right-database-partitioning-approach-2amd)
+- [🔐 AWS IAM: Identity and Access Management Simplified](https://dev.to/sharjil/aws-iam-identity-and-access-management-simplified-245k)
+- [They asked me how confident I was I said 100%, because I know what I&#39;m capable of](https://dev.to/yaldakhoshpey/they-asked-me-how-confident-i-was-i-said-100-because-i-know-what-im-capable-of-401n)
 <!-- BLOG-POST-LIST:END -->
 
 
