@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Correlating Mirantis Kubernetes Engine &lpar;MKE&rpar; Symptoms with Components](https://dev.to/sindhuja_ns_1e491ce1088d/correlating-mirantis-kubernetes-engine-mke-symptoms-with-components-59d0)
-- [Scaling multi-tenant Go applications: Choosing the right database partitioning approach](https://dev.to/abhirockzz/scaling-multi-tenant-go-applications-choosing-the-right-database-partitioning-approach-2amd)
-- [🔐 AWS IAM: Identity and Access Management Simplified](https://dev.to/sharjil/aws-iam-identity-and-access-management-simplified-245k)
-- [They asked me how confident I was I said 100%, because I know what I&#39;m capable of](https://dev.to/yaldakhoshpey/they-asked-me-how-confident-i-was-i-said-100-because-i-know-what-im-capable-of-401n)
+- [Excited to share my developer journey! Just got listed on Wikidata as one of the youngest full-stack developers in India. See my full story and work here: https://sai-likhith-portfolio.vercel.app 🚀 #MERN #Developer #Wikidata #TechJourney](https://dev.to/sailikhith_gb_d4e7440980/excited-to-share-my-developer-journey-just-got-listed-on-wikidata-as-one-of-the-youngest-2po1)
+- [I deleted Windows &lpar;and my Bootloader&rpar;](https://dev.to/lsroot/i-deleted-windows-and-my-bootloader-299f)
+- [Path of Network Programming Deep Dive from TCP to Application Layer Protocols（1751550748669400）](https://dev.to/member_6bc7e52c/path-of-network-programming-deep-dive-from-tcp-to-application-layer-protocols1751550748669400-23mj)
+- [Memory Safety in Web Rust System Zero Cost Secure（1751550293518900）](https://dev.to/member_57439f86/memory-safety-in-web-rust-system-zero-cost-secure1751550293518900-24nd)
 <!-- BLOG-POST-LIST:END -->
 
 
