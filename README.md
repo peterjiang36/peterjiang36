@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Broadcast devices&#39; name on the local network](https://dev.to/nfrankel/broadcast-devices-name-on-the-local-network-2no7)
-- [Recognizing SEMI OCR Font with Python and Dynamsoft Capture Vision SDK](https://dev.to/yushulx/recognizing-semi-ocr-font-with-python-and-dynamsoft-capture-vision-sdk-4n53)
-- [How to test signup flows with Playwright and real email verification](https://dev.to/rodion_3389008d3dc9f14749/how-to-test-signup-flows-with-playwright-and-real-email-verification-2ki7)
-- [🧠 JSONZen: Free Online JSON Formatter Tool Built with Next.js &amp; Tailwind](https://dev.to/manukumar07/jsonzen-free-online-json-formatter-tool-built-with-nextjs-tailwind-p62)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-4m7b)
+- [6 Offline Practices for Sharper Coding and Design Thinking 💡](https://dev.to/manukumar07/6-offline-practices-for-sharper-coding-and-design-thinking-el6)
+- [How to Use ONNX Runtime in Delphi for Object Detection](https://dev.to/serge_pilko/how-to-use-onnx-runtime-in-delphi-for-object-detection-53hm)
+- [How to Fix err_ngrok_6024: The ngrok Splash Page Error &lpar;and Why Tunnelmole is Better&rpar;](https://dev.to/robbiecahill/how-to-fix-errngrok6024-the-ngrok-splash-page-error-and-why-tunnelmole-is-better-1pnk)
 <!-- BLOG-POST-LIST:END -->
 
 
