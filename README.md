@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑](https://dev.to/chandycraig/saas-friends-stop-reimplementing-messaging-features-53hb)
-- [Memory Layout Optimization（1751499047330300）](https://dev.to/member_6bc7e52c/memory-layout-optimization1751499047330300-2jmd)
-- [Flame Graph Performance Truth Analysis（1751499026815000）](https://dev.to/member_57439f86/flame-graph-performance-truth-analysis1751499026815000-2g93)
-- [Career Planning for CS Students（1751499017933300）](https://dev.to/member_35db4d53/career-planning-for-cs-students1751499017933300-2opd)
+- [Critical Security Importance Digital Age Web Techniques（1751505540803000）](https://dev.to/member_6bc7e52c/critical-security-importance-digital-age-web-techniques1751505540803000-188f)
+- [🧠 Why Learn Powerful Shell Scripting — Even When We Have Python, PowerShell, and Go?](https://dev.to/srinivasamcjf/why-learn-powerful-shell-scripting-even-when-we-have-python-powershell-and-go-1999)
+- [Ferramentas de Build JavaScript Modernas: Um Guia Abrangente para Webpack, Vite e Alternativas Essenciais](https://dev.to/mrpunkdasilva/ferramentas-de-build-javascript-modernas-um-guia-abrangente-para-webpack-vite-e-alternativas-501l)
+- [Comparative Overview of Testing Management Tools with Real-World Examples](https://dev.to/draigo15/comparative-overview-of-testing-management-tools-with-real-world-examples-2g7n)
 <!-- BLOG-POST-LIST:END -->
 
 
