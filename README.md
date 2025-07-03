@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Down RL2: Why We Built a Ray-Less RL Framework for AI Agents](https://dev.to/accioprocurement/breaking-down-rl2-why-we-built-a-ray-less-rl-framework-for-ai-agents-j00)
-- [How to create a storage account and configure basic settings for security and networking.](https://dev.to/onyemuche/how-to-create-a-storage-account-and-configure-basic-settings-for-security-and-networking-4fco)
-- [Model Mondays S2E03 - AMA on SLMs and Reasoning](https://dev.to/azure/model-mondays-s2e03-ama-on-slms-and-reasoning-25dg)
-- [GCP Fundamentals: Dataflow API](https://dev.to/devopsfundamentals/gcp-fundamentals-dataflow-api-48on)
+- [[Adult Learning Log] C Language – Week 4 Review](https://dev.to/sankworks/adult-learning-log-c-language-week-4-review-c9p)
+- [A Step-by-Step Guide to Deploying n8n on Oracle Cloud Free Tier](https://dev.to/dalenguyen/a-step-by-step-guide-to-deploying-n8n-on-oracle-cloud-free-tier-cjp)
+- [How to Navigating API Documentation Effectively? 🤔](https://dev.to/fallon_jimmy/how-to-navigating-api-documentation-effectively-24ca)
+- [Webpack Bundle Analyzer Deep Analysis and Optimization of Your Bundle](https://dev.to/tianyaschool/webpack-bundle-analyzer-deep-analysis-and-optimization-of-your-bundle-m83)
 <!-- BLOG-POST-LIST:END -->
 
 
