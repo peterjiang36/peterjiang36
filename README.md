@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Asynchronous Programming Patterns Task Modern Web（1751572283001800）](https://dev.to/member_57439f86/mastering-asynchronous-programming-patterns-task-modern-web1751572283001800-1021)
-- [HOW TO DEVREL: The Texas Sharpshooter](https://dev.to/adatole/how-to-devrel-the-texas-sharpshooter-41p5)
-- [🔥 GitHub Streak Card — Show Off Your Avatar, Top Language, Total Contributions, and Accurate Streaks!](https://dev.to/zainulabdeenofficial/github-streak-card-show-off-your-avatar-top-language-total-contributions-and-accurate-1029)
-- [HOW TO DEVREL: It Might Not Be New, but It&#39;s Yours](https://dev.to/adatole/how-to-devrel-it-might-not-be-new-but-its-yours-1m5d)
+- [By the way, maybe there is someone who can post HMPL in Ycombinator with a pumped up account in HN? It would be really cool, it would help us!](https://dev.to/anthonymax/by-the-way-maybe-there-is-someone-who-can-post-hmpl-in-ycombinator-with-a-pumped-up-account-in-hn-2d31)
+- [Git-Sensei: Where Coding Style Meets Anime Destiny](https://dev.to/sroy8091/git-sensei-where-coding-style-meets-anime-destiny-2l8l)
+- [Why Technical Cybersecurity Founders Struggle with Marketing &lpar;and How AI Is Changing the Game&rpar;](https://dev.to/deepakgupta/why-technical-cybersecurity-founders-struggle-with-marketing-and-how-ai-is-changing-the-game-1ncc)
+- [Code Readability Techniques（1751575316504600）](https://dev.to/member_57439f86/code-readability-techniques1751575316504600-233n)
 <!-- BLOG-POST-LIST:END -->
 
 
