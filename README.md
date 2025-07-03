@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Technology Selection Wisdom（1751568581749700）](https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b)
-- [Real-Time Backend for Mobile Apps Without WebSockets: A Modern Pub/Sub Alternative](https://dev.to/vlad_kuiantsev/real-time-backend-for-mobile-apps-without-websockets-a-modern-pubsub-alternative-4327)
-- [JavaScript String Methods](https://dev.to/mukilaperiyasamy/javascript-string-methods-55k6)
-- [Open Source Community Values（1751568494483000）](https://dev.to/member_57439f86/open-source-community-values1751568494483000-1543)
+- [Mastering Asynchronous Programming Patterns Task Modern Web（1751572283001800）](https://dev.to/member_57439f86/mastering-asynchronous-programming-patterns-task-modern-web1751572283001800-1021)
+- [HOW TO DEVREL: The Texas Sharpshooter](https://dev.to/adatole/how-to-devrel-the-texas-sharpshooter-41p5)
+- [🔥 GitHub Streak Card — Show Off Your Avatar, Top Language, Total Contributions, and Accurate Streaks!](https://dev.to/zainulabdeenofficial/github-streak-card-show-off-your-avatar-top-language-total-contributions-and-accurate-1029)
+- [HOW TO DEVREL: It Might Not Be New, but It&#39;s Yours](https://dev.to/adatole/how-to-devrel-it-might-not-be-new-but-its-yours-1m5d)
 <!-- BLOG-POST-LIST:END -->
 
 
