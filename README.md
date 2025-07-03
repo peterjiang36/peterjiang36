@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the code challenge of the World&#39;s largest hackathon writing challenge. Devconnect](https://dev.to/tinyefuza_joe_b1f6525bd6b/beyond-the-code-challenge-of-the-worlds-largest-hackathon-writing-challenge-devconnect-17be)
-- [Built with Bolt challenge of the World&#39;s largest hackathon writing challenge. Devconnect](https://dev.to/tinyefuza_joe_b1f6525bd6b/built-with-bolt-challenge-of-the-worlds-largest-hackathon-writing-challenge-devconnect-4mcc)
-- [Context Switching Is Killing Your Code: The Single-Tasking Developer&#39;s Guide](https://dev.to/teamcamp/context-switching-is-killing-your-code-the-single-tasking-developers-guide-2gha)
-- [CPU Cache-Friendly Data Structures（1751516969537600）](https://dev.to/member_57439f86/cpu-cache-friendly-data-structures1751516969537600-3ebp)
+- [Memory Safety and Ultimate Performance Finding Perfect Balance in Rust（1751521513673600）](https://dev.to/member_57439f86/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust1751521513673600-568f)
+- [🎓 Currently Pursuing a Degree and Designing on Figma — My Dual Life as a Student &amp; Creator](https://dev.to/rosenkrvz/currently-pursuing-a-degree-and-designing-on-figma-my-dual-life-as-a-student-creator-224i)
+- [[Boost]](https://dev.to/chiamaka_nwoke/-16pf)
+- [Sensitivity and Specificity: Mastering the Key Classification Metrics](https://dev.to/__abdessamadtouzani__/sensitivity-and-specificity-mastering-the-key-classification-metrics-37de)
 <!-- BLOG-POST-LIST:END -->
 
 
