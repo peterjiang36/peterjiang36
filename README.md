@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Started Learning JavaScript Again—A Beginner-Friendly Guide to the Basics](https://dev.to/dumebii/i-started-learning-javascript-again-a-beginner-friendly-guide-to-the-basics-5f50)
-- [Day 4 :Building Models and Templates for Inventory and Orders Apps in My Django Store Manager](https://dev.to/silasochieng/building-models-and-templates-for-inventory-and-orders-apps-in-my-django-store-manager-7jm)
-- [JavaScript loops explained, and best practices](https://dev.to/logrocket/javascript-loops-explained-and-best-practices-23ep)
-- [Weekly Job Roundup ✨ July 3rd Edition](https://dev.to/resume-matcher/weekly-job-roundup-july-3rd-edition-3bc6)
+- [Debiasing LLM Judges: Understanding and correcting AI Evaluation Bias](https://dev.to/gyani_s/debiasing-llm-judges-understanding-and-correcting-ai-evaluation-bias-2ce4)
+- [Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）](https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o)
+- [What is o4-mini-high? All You Need to Know](https://dev.to/_37bbf0c253c0b3edec531e/what-is-o4-mini-high-all-you-need-to-know-58da)
+- [Remove the minimum](https://dev.to/maddiepst/remove-the-minimum-967)
 <!-- BLOG-POST-LIST:END -->
 
 
