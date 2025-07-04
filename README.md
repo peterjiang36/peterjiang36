@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Friday Fun: Building a B-Tree Visualizer &lpar;Because We&#39;re Nerds&rpar;](https://dev.to/sroy8091/friday-fun-building-a-b-tree-visualizer-because-were-nerds-3d2d)
-- [Building a Card Matching Game with Gemini and Google AI Studio](https://dev.to/anni/building-a-card-matching-game-with-gemini-and-google-ai-studio-38fh)
-- [How to Build a React Component from Scratch: A Gentle Guide](https://dev.to/626tech/how-to-build-a-react-component-from-scratch-a-gentle-guide-1pdf)
-- [useDebounce — Stop Unnecessary API Calls in React Native](https://dev.to/arsdev/usedebounce-stop-unnecessary-api-calls-in-react-native-29fc)
+- [Open Innovation #2 : If We Share Technology, What Kind of Future Could We Build?](https://dev.to/jholic/open-innovation-2-if-we-share-technology-what-kind-of-future-could-we-build-2ghj)
+- [วิธี add vdi to virtualbox ที่ download จาก osboxes.org](https://dev.to/cross1308/withii-add-vdi-to-virtualbox-thii-download-cchaak-osboxesorg-5a9m)
+- [วิธี share clipboard ไปยัง ubuntu ใน virtualbox](https://dev.to/cross1308/withii-share-clipboard-aipyang-ubuntu-ain-virtualbox-39gj)
+- [The Value of Experience: Building Skills That Command Respect](https://dev.to/vincenttommi/the-value-of-experience-building-skills-that-command-respect-26h)
 <!-- BLOG-POST-LIST:END -->
 
 
