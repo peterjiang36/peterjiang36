@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Runner H x You: A Tactical Life Overhaul Agent ❤️‍🔥📜✨](https://dev.to/divyasinghdev/runner-h-x-you-a-tactical-life-overhaul-agent-2og9)
-- [Day 1 : Institute Management](https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g)
-- [Understanding Malware: From Viruses to Ransomware, What You Need to Know?](https://dev.to/koswara_c79/understanding-malware-from-viruses-to-ransomware-what-you-need-to-know-3k6g)
-- [Use codecrafters to learn by building the most fundamental concepts of computer science](https://dev.to/sroy8091/use-codecrafters-to-learn-by-building-the-most-fundamental-concepts-of-computer-science-4m19)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-n84)
+- [মিলিয়ন ইউজারের রিকোয়েস্ট হ্যান্ডেল করার জন্য স্কেলেবল সিস্টেম তৈরি: একটি বিস্তারিত গাইড](https://dev.to/programmershahjalal/miliyn-iujaarer-rikoyestt-hyaanddel-kraar-jny-skelebl-sisttem-tairi-ektti-bistaarit-gaaidd-j3n)
+- [The Hidden File That Powers SafeLine WAF: What&#39;s Inside `.env`?](https://dev.to/sharon_42e16b8da44dabde6d/the-hidden-file-that-powers-safeline-waf-whats-inside-env-2kl1)
+- [Terraform Fundamentals: CodePipeline](https://dev.to/devopsfundamentals/terraform-fundamentals-codepipeline-2gc0)
 <!-- BLOG-POST-LIST:END -->
 
 
