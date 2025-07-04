@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Manga-Fy 90&#39;s style with Google Ai Studio!](https://dev.to/rajiv_sukhnandan_2edd6a79/manga-fy-90s-style-with-google-ai-studio-2b1g)
-- [What happens when OOP meets Real World™](https://dev.to/epigene/what-happens-when-oop-meets-real-world-57bn)
-- [I&#39;m building VoidCore, and ChatGPT is freaking out: &quot;Isn&#39;t this a self-evolving middleware editable by GUI?!?!&quot;](https://dev.to/charmpic/im-building-voidcore-and-chatgpt-is-freaking-out-isnt-this-a-self-evolving-middleware-editable-3jgo)
-- [Comprehensive Guide to AWS IAM, EC2, and Jenkins Installation](https://dev.to/christiana_orji/comprehensive-guide-to-aws-iam-ec2-and-jenkins-installation-3fgf)
+- [🧠 EPYQ Week 6 /12: Failure as Feedback](https://dev.to/the_epyq/epyq-week-6-12-failure-as-feedback-1ih8)
+- [I Just Want to Make the AI-Translated World a Bit Simpler, Nyaa](https://dev.to/charmpic/i-just-want-to-make-the-ai-translated-world-a-bit-simpler-nyaa-lme)
+- [Build a Border Radius Generator with HTML, CSS &amp; JavaScript | Mini UI Project](https://dev.to/alizehcodes/build-a-border-radius-generator-with-html-css-javascript-mini-ui-project-3lad)
+- [Bitcoin Intelligence Daily Brief - Automated Market &amp; Industry Intelligence](https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp)
 <!-- BLOG-POST-LIST:END -->
 
 
