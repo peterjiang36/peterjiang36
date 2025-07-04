@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built 5 Docker Projects After My First Client Deployment Failed](https://dev.to/arbythecoder/why-i-built-5-docker-projects-after-my-first-client-deployment-failed-24pl)
-- [Middleware Architecture Patterns Cross Cutting Web（1751582887257700）](https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea)
-- [Understanding Strategy Design Pattern: A Simple Guide](https://dev.to/helicodes1607/understanding-strategy-design-pattern-a-simple-guide-h2a)
-- [SVGs para ReactComponent com Plugin SWC - Minha Jornada com Rust e Um Pouco de Teimosia](https://dev.to/joao_neto/svgs-para-reactcomponent-com-plugin-swc-minha-jornada-com-rust-e-um-pouco-de-teimosia-212b)
+- [AI Is Collapsing the Front‑End / Back‑End Divide](https://dev.to/elfrontend/ai-is-collapsing-the-front-end-back-end-divide-lk2)
+- [Basics of Delegates](https://dev.to/elcatbot/basics-of-delegates-46fn)
+- [[memo]Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://dev.to/taniguchitakara/memoevaluating-the-quality-of-hallucination-benchmarksfor-large-vision-language-models-2962)
+- [Build Apps with Google AI Studio](https://dev.to/persadian/build-apps-with-google-ai-studio-30l2)
 <!-- BLOG-POST-LIST:END -->
 
 
