@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Tunnelmole as a Reverse Proxy: The Open Source Approach](https://dev.to/robbiecahill/how-to-use-tunnelmole-as-a-reverse-proxy-the-open-source-approach-1iej)
-- [🌟 Kubernetes for Everyone: What, Why &amp; How It Compares to Docker Swarm](https://dev.to/sovannaro/kubernetes-for-everyone-what-why-how-it-compares-to-docker-swarm-40ma)
-- [Blockchain](https://dev.to/tech_journey_85208cd43521/blockchain-44gd)
-- [A Survey of SQL Equivalence Verification Methods](https://dev.to/sqlflash1024/a-survey-of-sql-equivalence-verification-methods-3na8)
+- [What’s the smartest AI tool you’ve actually built? I’ll go first — and I want to see yours.](https://dev.to/alifar/whats-the-smartest-ai-tool-youve-actually-built-ill-go-first-and-i-want-to-see-yours-144f)
+- [What’s the Coolest AI Tool You’ve Actually Built? I’ll Go First](https://dev.to/alifar/whats-the-coolest-ai-tool-youve-actually-built-ill-go-first-255l)
+- [How to Get the Best File Formatting Results from Translation Software](https://dev.to/liamcorwin/how-to-get-the-best-file-formatting-results-from-translation-software-1k3c)
+- [7 simple prompts that can make AI chatbots more useful in daily life](https://dev.to/ashish_sunilthomas_1/7-simple-prompts-that-can-make-ai-chatbots-more-useful-in-daily-life-3709)
 <!-- BLOG-POST-LIST:END -->
 
 
