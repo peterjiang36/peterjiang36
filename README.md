@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
-- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
-- [🤬 Hidden Dangers of Modern Living: The Rise of New Diseases, Industrial Greed, and How to Protect Yourself](https://dev.to/zainulabdeenofficial/hidden-dangers-of-modern-living-the-rise-of-new-diseases-industrial-greed-and-how-to-protect-31f6)
-- [Building the Future: Career Paths in Agentic AI](https://dev.to/agami_tech_414cabb7522ea1/building-the-future-career-paths-in-agentic-ai-1ja)
+- [🔄 Automate Linux Administration Tasks with Ansible](https://dev.to/sindhuja_ns_1e491ce1088d/automate-linux-administration-tasks-with-ansible-5aha)
+- [Guide: Create SSH keys for SFTP and SCP server auth](https://dev.to/viggoblum/guide-create-ssh-keys-for-sftp-and-scp-server-auth-2d29)
+- [Project KARL](https://dev.to/theaniketraj/project-karl-337p)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `37`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-37-5e13)
 <!-- BLOG-POST-LIST:END -->
 
 
