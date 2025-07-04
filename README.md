@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Collapsing the Front‑End / Back‑End Divide](https://dev.to/elfrontend/ai-is-collapsing-the-front-end-back-end-divide-lk2)
-- [Basics of Delegates](https://dev.to/elcatbot/basics-of-delegates-46fn)
-- [[memo]Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models](https://dev.to/taniguchitakara/memoevaluating-the-quality-of-hallucination-benchmarksfor-large-vision-language-models-2962)
-- [Build Apps with Google AI Studio](https://dev.to/persadian/build-apps-with-google-ai-studio-30l2)
+- [Why Traditional Regression Testing Doesn’t Work for MCP Tools](https://dev.to/gentoro/why-traditional-regression-testing-doesnt-work-for-mcp-tools-52id)
+- [Webpack&#39;s internals visualized: Explore what it looks like.](https://dev.to/ertgl/webpacks-internals-visualized-explore-what-it-looks-like-59l0)
+- [[Boost]](https://dev.to/mohamed_swafi_de30804d139/-4e4)
+- [[Resenha] Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos - Aditya Y. Bhargava](https://dev.to/v1t4o/resenha-entendendo-algoritmos-um-guia-ilustrado-para-programadores-e-outros-curiosos-aditya-y-3g44)
 <!-- BLOG-POST-LIST:END -->
 
 
