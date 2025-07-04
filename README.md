@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the smartest AI tool you’ve actually built? I’ll go first — and I want to see yours.](https://dev.to/alifar/whats-the-smartest-ai-tool-youve-actually-built-ill-go-first-and-i-want-to-see-yours-144f)
-- [What’s the Coolest AI Tool You’ve Actually Built? I’ll Go First](https://dev.to/alifar/whats-the-coolest-ai-tool-youve-actually-built-ill-go-first-255l)
-- [How to Get the Best File Formatting Results from Translation Software](https://dev.to/liamcorwin/how-to-get-the-best-file-formatting-results-from-translation-software-1k3c)
-- [7 simple prompts that can make AI chatbots more useful in daily life](https://dev.to/ashish_sunilthomas_1/7-simple-prompts-that-can-make-ai-chatbots-more-useful-in-daily-life-3709)
+- [FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](https://dev.to/taniguchitakara/flux1-kontext-flow-matching-for-in-context-imagegeneration-and-editing-in-latent-space-1bf4)
+- [🚗 Advanced Vehicle Counter](https://dev.to/christian_zigah_ee4fcbe3c/advanced-vehicle-counter-47om)
+- [Meet create‑devhub: Scaffold Full‑Stack Monorepos in Seconds](https://dev.to/saumyaaggarwal/meet-create-devhub-scaffold-full-stack-monorepos-in-seconds-agf)
+- [Context-Aware Search for Your Service: No GPUs, No Hassle](https://dev.to/kencho/context-aware-search-for-your-app-no-gpus-no-hassle-3npf)
 <!-- BLOG-POST-LIST:END -->
 
 
