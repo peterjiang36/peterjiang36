@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build app with no code and win big](https://dev.to/ticher216/build-app-with-no-code-and-win-big-3mc9)
-- [Creating AI Agents That Use Your MCP Server &lpar;Part 4/5&rpar;](https://dev.to/bredmond1019/creating-ai-agents-that-use-your-mcp-server-part-45-hpe)
-- [Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding &lpar;2025 Insight&rpar;](https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao)
-- [Day 18 – Building Smarter AI Chatbots with Dify and Prompt Engineering](https://dev.to/nader_fh/day-18-building-smarter-ai-chatbots-with-dify-and-prompt-engineering-413k)
+- [Network Health Check &amp; Diagram for Families](https://dev.to/captredbeard/network-health-check-diagram-for-families-45bh)
+- [Top 5 Laravel SaaS Boilerplates to Launch Your Startup Faster 🚀](https://dev.to/qoraiche/top-5-laravel-saas-boilerplates-to-launch-your-startup-faster-352)
+- [Running Docker Containers on a Read‑Only Root File System](https://dev.to/mimahmed/running-docker-containers-on-a-read-only-root-file-system-4fa9)
+- [How Last Mile Delivery Works?](https://dev.to/shipeak/how-last-mile-delivery-works-1ifa)
 <!-- BLOG-POST-LIST:END -->
 
 
