@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Traditional Regression Testing Doesn’t Work for MCP Tools](https://dev.to/gentoro/why-traditional-regression-testing-doesnt-work-for-mcp-tools-52id)
-- [Webpack&#39;s internals visualized: Explore what it looks like.](https://dev.to/ertgl/webpacks-internals-visualized-explore-what-it-looks-like-59l0)
-- [[Boost]](https://dev.to/mohamed_swafi_de30804d139/-4e4)
-- [[Resenha] Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos - Aditya Y. Bhargava](https://dev.to/v1t4o/resenha-entendendo-algoritmos-um-guia-ilustrado-para-programadores-e-outros-curiosos-aditya-y-3g44)
+- [Best Solution and explanation of Leetcode-3307](https://dev.to/thedeepseeker/best-solution-and-explanation-of-leetcode-3307-22lc)
+- [Showcasing MinuteMail: Secure Disposable Inboxes with API Access](https://dev.to/christian_potvin_73438f37/showcasing-minutemail-secure-disposable-inboxes-with-api-access-10p0)
+- [Today I Learned JavaScript String Methods](https://dev.to/seenuvasan_p/today-i-learned-javascript-string-methods-4bih)
+- [The 90–90 Rule and DevOps: Why the Last 10% of Code Will Break Your Sprint](https://dev.to/kedster/the-90-90-rule-and-devops-why-the-last-10-of-code-will-break-your-sprint-506o)
 <!-- BLOG-POST-LIST:END -->
 
 
