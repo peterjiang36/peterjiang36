@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-n84)
-- [মিলিয়ন ইউজারের রিকোয়েস্ট হ্যান্ডেল করার জন্য স্কেলেবল সিস্টেম তৈরি: একটি বিস্তারিত গাইড](https://dev.to/programmershahjalal/miliyn-iujaarer-rikoyestt-hyaanddel-kraar-jny-skelebl-sisttem-tairi-ektti-bistaarit-gaaidd-j3n)
-- [The Hidden File That Powers SafeLine WAF: What&#39;s Inside `.env`?](https://dev.to/sharon_42e16b8da44dabde6d/the-hidden-file-that-powers-safeline-waf-whats-inside-env-2kl1)
-- [Terraform Fundamentals: CodePipeline](https://dev.to/devopsfundamentals/terraform-fundamentals-codepipeline-2gc0)
+- [7 Premium AI Tools You Can Get for Free](https://dev.to/connectalamin/7-premium-ai-tools-you-can-get-for-free-231k)
+- [Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน](https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n)
+- [🤬 Hidden Dangers of Modern Living: The Rise of New Diseases, Industrial Greed, and How to Protect Yourself](https://dev.to/zainulabdeenofficial/hidden-dangers-of-modern-living-the-rise-of-new-diseases-industrial-greed-and-how-to-protect-31f6)
+- [Building the Future: Career Paths in Agentic AI](https://dev.to/agami_tech_414cabb7522ea1/building-the-future-career-paths-in-agentic-ai-1ja)
 <!-- BLOG-POST-LIST:END -->
 
 
