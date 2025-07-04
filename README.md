@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](https://dev.to/taniguchitakara/flux1-kontext-flow-matching-for-in-context-imagegeneration-and-editing-in-latent-space-1bf4)
-- [🚗 Advanced Vehicle Counter](https://dev.to/christian_zigah_ee4fcbe3c/advanced-vehicle-counter-47om)
-- [Meet create‑devhub: Scaffold Full‑Stack Monorepos in Seconds](https://dev.to/saumyaaggarwal/meet-create-devhub-scaffold-full-stack-monorepos-in-seconds-agf)
-- [Context-Aware Search for Your Service: No GPUs, No Hassle](https://dev.to/kencho/context-aware-search-for-your-app-no-gpus-no-hassle-3npf)
+- [🎉 Friday Fun: Building a B-Tree Visualizer &lpar;Because We&#39;re Nerds&rpar;](https://dev.to/sroy8091/friday-fun-building-a-b-tree-visualizer-because-were-nerds-3d2d)
+- [Building a Card Matching Game with Gemini and Google AI Studio](https://dev.to/anni/building-a-card-matching-game-with-gemini-and-google-ai-studio-38fh)
+- [How to Build a React Component from Scratch: A Gentle Guide](https://dev.to/626tech/how-to-build-a-react-component-from-scratch-a-gentle-guide-1pdf)
+- [useDebounce — Stop Unnecessary API Calls in React Native](https://dev.to/arsdev/usedebounce-stop-unnecessary-api-calls-in-react-native-29fc)
 <!-- BLOG-POST-LIST:END -->
 
 
