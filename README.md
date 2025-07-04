@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Automate Linux Administration Tasks with Ansible](https://dev.to/sindhuja_ns_1e491ce1088d/automate-linux-administration-tasks-with-ansible-5aha)
-- [Guide: Create SSH keys for SFTP and SCP server auth](https://dev.to/viggoblum/guide-create-ssh-keys-for-sftp-and-scp-server-auth-2d29)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-337p)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `37`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-37-5e13)
+- [Day-50 Understanding Destructuring in JavaScript](https://dev.to/tamilselvan1812/day-50-understanding-destructuring-in-javascript-gl3)
+- [How Signers Can Add Form Fields before eSigning a Document](https://dev.to/boldsign/how-signers-can-add-form-fields-before-esigning-a-document-3c9g)
+- [Create a Marketplace Like Amazon](https://dev.to/david_beckam_df898f761b30/create-a-marketplace-like-amazon-296f)
+- [Finally studying what I want](https://dev.to/pinkbear20056/finally-studying-what-i-want-4kkp)
 <!-- BLOG-POST-LIST:END -->
 
 
