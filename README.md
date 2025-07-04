@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Innovation #2 : If We Share Technology, What Kind of Future Could We Build?](https://dev.to/jholic/open-innovation-2-if-we-share-technology-what-kind-of-future-could-we-build-2ghj)
-- [วิธี add vdi to virtualbox ที่ download จาก osboxes.org](https://dev.to/cross1308/withii-add-vdi-to-virtualbox-thii-download-cchaak-osboxesorg-5a9m)
-- [วิธี share clipboard ไปยัง ubuntu ใน virtualbox](https://dev.to/cross1308/withii-share-clipboard-aipyang-ubuntu-ain-virtualbox-39gj)
-- [The Value of Experience: Building Skills That Command Respect](https://dev.to/vincenttommi/the-value-of-experience-building-skills-that-command-respect-26h)
+- [Vibe Coding - Conversational Software Development - Part 1 Introduction](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41)
+- [A Multi-Part Series: Architecting a Giant - 17 Products Enhanced by AI](https://dev.to/khuepm/a-multi-part-series-architecting-a-giant-17-products-enhanced-by-ai-2cgm)
+- [Day 13/100: Variable Scope – Global vs Local in Python](https://dev.to/therahul_gupta/day-13100-variable-scope-global-vs-local-in-python-5882)
+- [AI-Driven Development: Code Smarter with Vue.js, Beginners-Friendly 2025](https://dev.to/eleftheriabatsou/ai-driven-development-code-smarter-with-vuejs-beginners-friendly-2025-3632)
 <!-- BLOG-POST-LIST:END -->
 
 
