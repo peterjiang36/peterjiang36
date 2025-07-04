@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serilog IDestructuringPolicy](https://dev.to/karenpayneoregon/serilog-idestructuringpolicy-9)
-- [JavaScript moderne : ES2024 et au-delà](https://dev.to/hassanioussama/javascript-moderne-es2024-et-au-dela-3djf)
-- [My Prompt: Student Assistant Bot](https://dev.to/zainab_tsx/my-prompt-student-assistant-bot-4b2g)
-- [Creating an EC2 using Terrafrom.](https://dev.to/kranthidas_nallagatla_836/creating-an-ec2-using-terrafrom-52g7)
+- [Build app with no code and win big](https://dev.to/ticher216/build-app-with-no-code-and-win-big-3mc9)
+- [Creating AI Agents That Use Your MCP Server &lpar;Part 4/5&rpar;](https://dev.to/bredmond1019/creating-ai-agents-that-use-your-mcp-server-part-45-hpe)
+- [Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding &lpar;2025 Insight&rpar;](https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao)
+- [Day 18 – Building Smarter AI Chatbots with Dify and Prompt Engineering](https://dev.to/nader_fh/day-18-building-smarter-ai-chatbots-with-dify-and-prompt-engineering-413k)
 <!-- BLOG-POST-LIST:END -->
 
 
