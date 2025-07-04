@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy SafeLine WAF on a CyberPanel VPS](https://dev.to/carrie_luo1/how-to-deploy-safeline-waf-on-a-cyberpanel-vps-ina)
-- [A Test That No One Runs Is Worse Than No Test At All](https://dev.to/dct_technology/a-test-that-no-one-runs-is-worse-than-no-test-at-all-1k5f)
-- [🎉 Win 1 Month of Premium Access to Interview.study — Ace Your Next Interview!](https://dev.to/veloxium-cloud/win-1-month-of-premium-access-to-interviewstudy-ace-your-next-interview-1d52)
-- [🚢 Using Docker Registry with Swarm: Ship Your Images Like a Pro](https://dev.to/sovannaro/using-docker-registry-with-swarm-ship-your-images-like-a-pro-40gm)
+- [How to Use Tunnelmole as a Reverse Proxy: The Open Source Approach](https://dev.to/robbiecahill/how-to-use-tunnelmole-as-a-reverse-proxy-the-open-source-approach-1iej)
+- [🌟 Kubernetes for Everyone: What, Why &amp; How It Compares to Docker Swarm](https://dev.to/sovannaro/kubernetes-for-everyone-what-why-how-it-compares-to-docker-swarm-40ma)
+- [Blockchain](https://dev.to/tech_journey_85208cd43521/blockchain-44gd)
+- [A Survey of SQL Equivalence Verification Methods](https://dev.to/sqlflash1024/a-survey-of-sql-equivalence-verification-methods-3na8)
 <!-- BLOG-POST-LIST:END -->
 
 
