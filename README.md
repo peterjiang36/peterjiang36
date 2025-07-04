@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 EPYQ Week 6 /12: Failure as Feedback](https://dev.to/the_epyq/epyq-week-6-12-failure-as-feedback-1ih8)
-- [I Just Want to Make the AI-Translated World a Bit Simpler, Nyaa](https://dev.to/charmpic/i-just-want-to-make-the-ai-translated-world-a-bit-simpler-nyaa-lme)
-- [Build a Border Radius Generator with HTML, CSS &amp; JavaScript | Mini UI Project](https://dev.to/alizehcodes/build-a-border-radius-generator-with-html-css-javascript-mini-ui-project-3lad)
-- [Bitcoin Intelligence Daily Brief - Automated Market &amp; Industry Intelligence](https://dev.to/kafechew/bitcoin-intelligence-daily-brief-automated-market-industry-intelligence-1pmp)
+- [Serilog IDestructuringPolicy](https://dev.to/karenpayneoregon/serilog-idestructuringpolicy-9)
+- [JavaScript moderne : ES2024 et au-delà](https://dev.to/hassanioussama/javascript-moderne-es2024-et-au-dela-3djf)
+- [My Prompt: Student Assistant Bot](https://dev.to/zainab_tsx/my-prompt-student-assistant-bot-4b2g)
+- [Creating an EC2 using Terrafrom.](https://dev.to/kranthidas_nallagatla_836/creating-an-ec2-using-terrafrom-52g7)
 <!-- BLOG-POST-LIST:END -->
 
 
