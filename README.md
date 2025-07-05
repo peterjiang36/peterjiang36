@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔓 Unlock Your App&#39;s Potential: Master A/B Testing in Flutter with Firebase Remote Config!](https://dev.to/faidterence/unlock-your-apps-potential-master-ab-testing-in-flutter-with-firebase-remote-config-2ci6)
-- [24/7 AI Customer Support Super Smart Agent That Will Increased Small Business Revenue by 40%](https://dev.to/themominpro/247-ai-customer-support-super-smart-agent-that-will-increased-small-business-revenue-by-40-242c)
-- [Designing a URL Shortener](https://dev.to/biswasprasana001/designing-a-url-shortener-122a)
-- [Hackers Don’t Send Warning Emails: Stay Ahead of Threats](https://dev.to/sayali_sawat_8ec10baf5516/hackers-dont-send-warning-emails-stay-ahead-of-threats-4cj1)
+- [📋 Project Planner Agent – AI-Powered Roadmap Builder for Any Software Idea](https://dev.to/syed_nasreen_ebac74a250d1_42/project-planner-agent-ai-powered-roadmap-builder-for-any-software-idea-2om4)
+- [Runner H &quot;AI Agent Prompting&quot; Challenge 🚀 What I Built](https://dev.to/akash_gupta_a817e8238ea7f/runner-h-ai-agent-prompting-challenge-what-i-built-47jo)
+- [I built a professional and well structured portfolio website with React](https://dev.to/esemekivwaro_victory_82fb/i-built-a-professional-and-well-structured-portfolio-website-with-react-1hej)
+- [I built a professional and well structured portfolio website with React](https://dev.to/esemekivwaro_victory_82fb/i-built-a-professional-and-well-structured-portfolio-website-with-react-10lk)
 <!-- BLOG-POST-LIST:END -->
 
 
