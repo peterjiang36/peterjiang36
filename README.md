@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
-- [Modern Web Architecture Type Safety Error Best](https://dev.to/member_a07758c4/modern-web-architecture-type-safety-error-best-2ioh)
-- [Routing System Philosophy Evolution from Static Matching to Dynamic Resolution](https://dev.to/member_a07758c4/routing-system-philosophy-evolution-from-static-matching-to-dynamic-resolution-3kjg)
-- [How to Connect to Amazon DocumentDB with Python &lpar;`pymongo`&rpar;](https://dev.to/dm8ry/how-to-connect-to-amazon-documentdb-with-python-pymongo-5e98)
+- [Best AI Testing Tools](https://dev.to/tokyodal/best-ai-testing-tools-2ffm)
+- [The Top 7 AI Testing Tools Every Developer Should Know in 2025](https://dev.to/tokyodal/the-top-7-ai-testing-tools-every-developer-should-know-in-2025-4gjh)
+- [[Boost]](https://dev.to/rakeshv675/-3ha8)
+- [Developer Happiness and Toolchain Selection](https://dev.to/member_a07758c4/developer-happiness-and-toolchain-selection-444d)
 <!-- BLOG-POST-LIST:END -->
 
 
