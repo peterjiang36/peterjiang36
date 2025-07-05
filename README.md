@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Survived the Great Kubernetes Exodus: Migrating EKS Cluster from v1.26 to v1.33 on AWS](https://dev.to/ukeme_davideseme_bfde5d9/how-i-survived-the-great-kubernetes-exodus-migrating-eks-cluster-from-v126-to-v133-on-aws-1m9d)
-- [Art of Error Handling Complete Solution from Panic to Graceful Degradation](https://dev.to/member_a07758c4/art-of-error-handling-complete-solution-from-panic-to-graceful-degradation-fp0)
-- [Computer Science Student Journey Web Expert](https://dev.to/member_acd28854/computer-science-student-journey-web-expert-2709)
-- [Registration_Form](https://dev.to/prasanth362k/registrationform-3d6d)
+- [Algorithm Engineering Practice](https://dev.to/member_a07758c4/algorithm-engineering-practice-4j1)
+- [Laravel Context: A Deep Dive into Enhanced Logging and Job Tracing](https://dev.to/arasosman/laravel-context-a-deep-dive-into-enhanced-logging-and-job-tracing-5ab2)
+- [Student Learning Journey Framework](https://dev.to/member_4731f562/student-learning-journey-framework-20f7)
+- [Unmasking the Man in the Middle – The Secrets of Secure Connections](https://dev.to/mj_gealogo/unmasking-the-man-in-the-middle-the-secrets-of-secure-connections-2128)
 <!-- BLOG-POST-LIST:END -->
 
 
