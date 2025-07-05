@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Algorithm Engineering Practice](https://dev.to/member_a07758c4/algorithm-engineering-practice-4j1)
-- [Laravel Context: A Deep Dive into Enhanced Logging and Job Tracing](https://dev.to/arasosman/laravel-context-a-deep-dive-into-enhanced-logging-and-job-tracing-5ab2)
-- [Student Learning Journey Framework](https://dev.to/member_4731f562/student-learning-journey-framework-20f7)
-- [Unmasking the Man in the Middle – The Secrets of Secure Connections](https://dev.to/mj_gealogo/unmasking-the-man-in-the-middle-the-secrets-of-secure-connections-2128)
+- [Power Apps - Canvas - Code Reusability How to Do It](https://dev.to/_follone/power-apps-canvas-code-reusability-how-to-do-it-3jhc)
+- [Rust Web Framework Analysis Deep Dive Safety Features](https://dev.to/member_4731f562/rust-web-framework-analysis-deep-dive-safety-features-2m77)
+- [You&#39;ve been using Node.js Transform streams wrong](https://dev.to/kierans/youve-been-using-nodejs-transform-streams-wrong-bbo)
+- [Minimalist Programming Philosophy](https://dev.to/member_4731f562/minimalist-programming-philosophy-2g41)
 <!-- BLOG-POST-LIST:END -->
 
 
