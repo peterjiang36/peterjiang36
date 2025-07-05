@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Readability Techniques](https://dev.to/member_4731f562/code-readability-techniques-453b)
-- [Function overloading](https://dev.to/chhavi_joshi_ede276cfcc06/function-overloading-4gf)
-- [Shopping List - A Must Know React Javascript problem for any Frontend Interview &lpar;Part 2&rpar;](https://dev.to/olumidesamuel_/shopping-list-a-must-know-react-javascript-problem-for-any-frontend-interview-part-2-2dnm)
-- [Shopping List - A Must Know Vanilla Javascript problem for any Frontend Interview &lpar;Part 1&rpar;](https://dev.to/olumidesamuel_/shopping-list-a-must-know-vanilla-javascript-problem-for-any-frontend-interview-part-1-8ik)
+- [Choosing the Right Library Still Sucks — Here’s How I’m Using AI to Fix It](https://dev.to/uvais724/choosing-the-right-library-still-sucks-heres-how-im-using-ai-to-fix-it-3lnd)
+- [Cross-Platform Performance Optimization](https://dev.to/member_a07758c4/cross-platform-performance-optimization-5873)
+- [🕒 Python Message Scheduler: Send SMS at a Specific Time Using Twilio](https://dev.to/vivek_dudhatra/python-message-scheduler-send-sms-at-a-specific-time-using-twilio-520p)
+- [Design Your Dream Room with AI: My App Built with Google AI Studio](https://dev.to/dinh_ngocphuc_fb6532918e/design-your-dream-room-with-ai-my-app-built-with-google-ai-studio-1naa)
 <!-- BLOG-POST-LIST:END -->
 
 
