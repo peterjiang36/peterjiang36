@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware Architecture Patterns Cross Cutting Web](https://dev.to/member_a07758c4/middleware-architecture-patterns-cross-cutting-web-2584)
-- [How to Create a React App with Vite and Tailwind &lpar;Beginner Guide&rpar;](https://dev.to/webtechnology_tutorials_f/how-to-create-a-react-app-with-vite-and-tailwind-beginner-guide-1l39)
-- [__getitem__ &amp; __setitem__ in Python &lpar;1&rpar;](https://dev.to/hyperkai/getitem-setitem-in-python-1-5lm)
-- [Memory Safety and Ultimate Performance Finding Perfect Balance in Rust](https://dev.to/member_4731f562/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust-2cko)
+- [Environment Configuration Testing](https://dev.to/member_4731f562/environment-configuration-testing-5g8i)
+- [Private &lpar;Protected&rpar; and Public Routes in React Router v6 – with Real-Time MERN Stack Example](https://dev.to/nightfury/private-protected-and-public-routes-in-react-router-v6-with-real-time-mern-stack-example-3fmk)
+- [Student Project Management Guide](https://dev.to/member_a07758c4/student-project-management-guide-fb2)
+- [When Should You Use Server-Side Rendering &lpar;SSR&rpar;?](https://dev.to/akdevcraft/when-should-you-use-server-side-rendering-ssr-3a5a)
 <!-- BLOG-POST-LIST:END -->
 
 
