@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Poetry Elegant Framework Design](https://dev.to/member_4731f562/code-poetry-elegant-framework-design-8bl)
-- [GetFake.ai - “The People Behind the Push”](https://dev.to/getappsai/getfakeai-the-people-behind-the-push-35m6)
-- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_a07758c4/cross-platform-tool-building-universal-web-applications-advanced-3fe3)
-- [🏯Beginner-Friendly Guide &quot;Find Lucky Integer in an Array&quot; – LeetCode 1394 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-lucky-integer-in-an-array-leetcode-1394-c-python--8lb)
+- [🌟 We Did It - AquaScript Is Live On Product Hunt 🚀](https://dev.to/hanzla-baig/we-did-it-aquascript-is-live-on-product-hunt-5a)
+- [# Introducing ScanMeee: A Unique QR Code Generator for Developers](https://dev.to/helpothon/-introducing-scanmeee-a-unique-qr-code-generator-for-developers-3dpb)
+- [I Built a Free JSON Formatter &amp; Validator Tool — Here’s Why and How](https://dev.to/praveenptl71/i-built-a-free-json-formatter-validator-tool-heres-why-and-how-29bc)
+- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_4731f562/cross-platform-tool-building-universal-web-applications-advanced-17f3)
 <!-- BLOG-POST-LIST:END -->
 
 
