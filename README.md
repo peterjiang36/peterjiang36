@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Checkbox to Cloud: Migrating from Tosca DEX Agents to E2G](https://dev.to/johnjvester/one-checkbox-to-cloud-migrating-from-tosca-dex-agents-to-e2g-43de)
-- [Memory Leak Terminator How Type Safety Saved My Graduation Project](https://dev.to/member_a07758c4/memory-leak-terminator-how-type-safety-saved-my-graduation-project-56nd)
-- [Ever wondered if it&#39;s possible to manipulate client-side JavaScript code &lpar;React, Vue, Angular, etc.&rpar; on the browser? The code is easily accessible in the &quot;Sources&quot; tab under the DevTools section. I&#39;ve written this blog after thorough research!](https://dev.to/hamdankhan364/ever-wondered-if-its-possible-to-manipulate-client-side-javascript-code-react-vue-angular-13bp)
-- [Deployment Automation 1](https://dev.to/member_a07758c4/deployment-automation-1-1jmn)
+- [The AI Revolution in 2025: Top Trends Every Developer Should Know](https://dev.to/jeff_pegg_97454b18784a524/the-ai-revolution-in-2025-top-trends-every-developer-should-know-5e4l)
+- [The &quot;Agent&quot; in Agentic AI Is a Marketing Term](https://dev.to/jeff_pegg_97454b18784a524/the-agent-in-agentic-ai-is-a-marketing-term-379d)
+- [Next Generation High Web Rust Based Solutions](https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-40gi)
+- [AI Summarization Agent🧾 in 7 minutes! 🔥](https://dev.to/vamsidogiparthi/ai-summarization-agent-in-7-minutes-j14)
 <!-- BLOG-POST-LIST:END -->
 
 
