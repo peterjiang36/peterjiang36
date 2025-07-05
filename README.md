@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps - Canvas - Code Reusability How to Do It](https://dev.to/_follone/power-apps-canvas-code-reusability-how-to-do-it-3jhc)
-- [Rust Web Framework Analysis Deep Dive Safety Features](https://dev.to/member_4731f562/rust-web-framework-analysis-deep-dive-safety-features-2m77)
-- [You&#39;ve been using Node.js Transform streams wrong](https://dev.to/kierans/youve-been-using-nodejs-transform-streams-wrong-bbo)
-- [Minimalist Programming Philosophy](https://dev.to/member_4731f562/minimalist-programming-philosophy-2g41)
+- [Code Poetry Elegant Framework Design](https://dev.to/member_4731f562/code-poetry-elegant-framework-design-8bl)
+- [GetFake.ai - “The People Behind the Push”](https://dev.to/getappsai/getfakeai-the-people-behind-the-push-35m6)
+- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_a07758c4/cross-platform-tool-building-universal-web-applications-advanced-3fe3)
+- [🏯Beginner-Friendly Guide &quot;Find Lucky Integer in an Array&quot; – LeetCode 1394 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-lucky-integer-in-an-array-leetcode-1394-c-python--8lb)
 <!-- BLOG-POST-LIST:END -->
 
 
