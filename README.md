@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI Assistant for Smarter Search experience in Firefox](https://dev.to/dfumg_e7873759c4024089bc3/an-ai-assistant-for-smarter-search-experience-in-firefox-36b6)
-- [Junie uses Sonnet models](https://dev.to/ozkanpakdil/junie-uses-sonnet-models-2793)
-- [My Git Learning Journey: From git init to git rebase 🚀](https://dev.to/sahillearninglinux/my-git-learning-journey-from-git-init-to-git-rebase-1d91)
-- [Contextual chunking for Retrieval Augmented Generation](https://dev.to/lewis_won/contextual-chunking-for-retrieval-augmented-generation-3lha)
+- [TypeScript’s Most Important Concept, Made Stupidly Simple&lpar;Generics!&rpar;&lpar;11&rpar;](https://dev.to/wisdombits/typescripts-most-important-concept-made-stupidly-simplegenerics11-26hn)
+- [🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks](https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3)
+- [Stop Struggling with AI Prompts - This Agent Does the Heavy Lifting for You &lpar;Universal Agent Prompt Generator&rpar;](https://dev.to/ximet/stop-struggling-with-ai-prompts-this-agent-does-the-heavy-lifting-for-you-universal-agent-prompt-3c82)
+- [System Call Overhead Analysis](https://dev.to/member_a07758c4/system-call-overhead-analysis-5fj5)
 <!-- BLOG-POST-LIST:END -->
 
 
