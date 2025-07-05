@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 We Did It - AquaScript Is Live On Product Hunt 🚀](https://dev.to/hanzla-baig/we-did-it-aquascript-is-live-on-product-hunt-5a)
-- [# Introducing ScanMeee: A Unique QR Code Generator for Developers](https://dev.to/helpothon/-introducing-scanmeee-a-unique-qr-code-generator-for-developers-3dpb)
-- [I Built a Free JSON Formatter &amp; Validator Tool — Here’s Why and How](https://dev.to/praveenptl71/i-built-a-free-json-formatter-validator-tool-heres-why-and-how-29bc)
-- [Cross Platform Tool Building Universal Web Applications Advanced](https://dev.to/member_4731f562/cross-platform-tool-building-universal-web-applications-advanced-17f3)
+- [Computer Science Student Journey Web Expert](https://dev.to/member_4731f562/computer-science-student-journey-web-expert-5cm0)
+- [Know Your Dealer: npm&#39;s Security Features You&#39;re Not Using](https://dev.to/cordlesswool/know-your-dealer-npms-security-features-youre-not-using-466o)
+- [CoreMonitor – AI-Powered System Monitoring with Real-Time Insights &amp; Enterprise-Grade Trust](https://dev.to/abhishek_thakur_0c02e1be8/coremonitor-ai-powered-system-monitoring-with-real-time-insights-enterprise-grade-trust-5a9p)
+- [Smarter Chatbots: Fixing Missing Data and Hallucinations with LangChain](https://dev.to/moni121189/smarter-chatbots-fixing-missing-data-and-hallucinations-with-langchain-5792)
 <!-- BLOG-POST-LIST:END -->
 
 
