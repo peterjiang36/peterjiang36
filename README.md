@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📋 Project Planner Agent – AI-Powered Roadmap Builder for Any Software Idea](https://dev.to/syed_nasreen_ebac74a250d1_42/project-planner-agent-ai-powered-roadmap-builder-for-any-software-idea-2om4)
-- [Runner H &quot;AI Agent Prompting&quot; Challenge 🚀 What I Built](https://dev.to/akash_gupta_a817e8238ea7f/runner-h-ai-agent-prompting-challenge-what-i-built-47jo)
-- [I built a professional and well structured portfolio website with React](https://dev.to/esemekivwaro_victory_82fb/i-built-a-professional-and-well-structured-portfolio-website-with-react-1hej)
-- [I built a professional and well structured portfolio website with React](https://dev.to/esemekivwaro_victory_82fb/i-built-a-professional-and-well-structured-portfolio-website-with-react-10lk)
+- [An AI Assistant for Smarter Search experience in Firefox](https://dev.to/dfumg_e7873759c4024089bc3/an-ai-assistant-for-smarter-search-experience-in-firefox-36b6)
+- [Junie uses Sonnet models](https://dev.to/ozkanpakdil/junie-uses-sonnet-models-2793)
+- [My Git Learning Journey: From git init to git rebase 🚀](https://dev.to/sahillearninglinux/my-git-learning-journey-from-git-init-to-git-rebase-1d91)
+- [Contextual chunking for Retrieval Augmented Generation](https://dev.to/lewis_won/contextual-chunking-for-retrieval-augmented-generation-3lha)
 <!-- BLOG-POST-LIST:END -->
 
 
