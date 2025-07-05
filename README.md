@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Testing Tools](https://dev.to/tokyodal/best-ai-testing-tools-2ffm)
-- [The Top 7 AI Testing Tools Every Developer Should Know in 2025](https://dev.to/tokyodal/the-top-7-ai-testing-tools-every-developer-should-know-in-2025-4gjh)
-- [[Boost]](https://dev.to/rakeshv675/-3ha8)
-- [Developer Happiness and Toolchain Selection](https://dev.to/member_a07758c4/developer-happiness-and-toolchain-selection-444d)
+- [🔓 Unlock Your App&#39;s Potential: Master A/B Testing in Flutter with Firebase Remote Config!](https://dev.to/faidterence/unlock-your-apps-potential-master-ab-testing-in-flutter-with-firebase-remote-config-2ci6)
+- [24/7 AI Customer Support Super Smart Agent That Will Increased Small Business Revenue by 40%](https://dev.to/themominpro/247-ai-customer-support-super-smart-agent-that-will-increased-small-business-revenue-by-40-242c)
+- [Designing a URL Shortener](https://dev.to/biswasprasana001/designing-a-url-shortener-122a)
+- [Hackers Don’t Send Warning Emails: Stay Ahead of Threats](https://dev.to/sayali_sawat_8ec10baf5516/hackers-dont-send-warning-emails-stay-ahead-of-threats-4cj1)
 <!-- BLOG-POST-LIST:END -->
 
 
