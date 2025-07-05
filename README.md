@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Library Still Sucks — Here’s How I’m Using AI to Fix It](https://dev.to/uvais724/choosing-the-right-library-still-sucks-heres-how-im-using-ai-to-fix-it-3lnd)
-- [Cross-Platform Performance Optimization](https://dev.to/member_a07758c4/cross-platform-performance-optimization-5873)
-- [🕒 Python Message Scheduler: Send SMS at a Specific Time Using Twilio](https://dev.to/vivek_dudhatra/python-message-scheduler-send-sms-at-a-specific-time-using-twilio-520p)
-- [Design Your Dream Room with AI: My App Built with Google AI Studio](https://dev.to/dinh_ngocphuc_fb6532918e/design-your-dream-room-with-ai-my-app-built-with-google-ai-studio-1naa)
+- [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
+- [Modern Web Architecture Type Safety Error Best](https://dev.to/member_a07758c4/modern-web-architecture-type-safety-error-best-2ioh)
+- [Routing System Philosophy Evolution from Static Matching to Dynamic Resolution](https://dev.to/member_a07758c4/routing-system-philosophy-evolution-from-static-matching-to-dynamic-resolution-3kjg)
+- [How to Connect to Amazon DocumentDB with Python &lpar;`pymongo`&rpar;](https://dev.to/dm8ry/how-to-connect-to-amazon-documentdb-with-python-pymongo-5e98)
 <!-- BLOG-POST-LIST:END -->
 
 
