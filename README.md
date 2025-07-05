@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Platform Universal Applications](https://dev.to/member_a07758c4/cross-platform-universal-applications-2i3o)
-- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-8kj)
-- [Java Architecture](https://dev.to/bharad_s/java-architecture-3n6h)
-- [Day 15/100: Lambda Functions – Python&#39;s Anonymous One-Liners](https://dev.to/therahul_gupta/day-15100-lambda-functions-pythons-anonymous-one-liners-1iio)
+- [Zenflow space – A Holistic Intranet Experience for the Modern Office](https://dev.to/extinctsion/zenflow-space-a-holistic-intranet-experience-for-the-modern-office-3meg)
+- [WebSockets and HTTP/2 with SSE](https://dev.to/betelgeuseas/websockets-and-http2-with-sse-4hkl)
+- [How a Venmo Setting Exposed a National Security &amp; Privacy Risk — A Digital Forensics View on Privacy by Design](https://dev.to/hana_liu/how-a-venmo-setting-exposed-a-national-security-privacy-risk-a-digital-forensics-view-on-1mna)
+- [How I built an anonymous Telegram chat bot with end-to-end encryption and AI matchmaking](https://dev.to/saroj_nayak_1bf1954e01e86/how-i-built-an-anonymous-telegram-chat-bot-with-end-to-end-encryption-and-ai-matchmaking-4a9a)
 <!-- BLOG-POST-LIST:END -->
 
 
