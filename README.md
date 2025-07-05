@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure My FastAPI Projects for Clean, Scalable Code](https://dev.to/m_muhd8/how-i-structure-my-fastapi-projects-for-clean-scalable-code-594n)
-- [Programming Entry Level: learn linux](https://dev.to/devopsfundamentals/programming-entry-level-learn-linux-130i)
-- [🚀 Frontend Roadmap 2025 for Absolute Beginners &lpar;With Free Resources&rpar;](https://dev.to/yaldakhoshpey/frontend-roadmap-2025-for-absolute-beginners-with-free-resources-3c2o)
-- [How to Write a CV That Matches Today’s Hiring Standards](https://dev.to/david_jone/how-to-write-a-cv-that-matches-todays-hiring-standards-5889)
+- [How I Survived the Great Kubernetes Exodus: Migrating EKS Cluster from v1.26 to v1.33 on AWS](https://dev.to/ukeme_davideseme_bfde5d9/how-i-survived-the-great-kubernetes-exodus-migrating-eks-cluster-from-v126-to-v133-on-aws-1m9d)
+- [Art of Error Handling Complete Solution from Panic to Graceful Degradation](https://dev.to/member_a07758c4/art-of-error-handling-complete-solution-from-panic-to-graceful-degradation-fp0)
+- [Computer Science Student Journey Web Expert](https://dev.to/member_acd28854/computer-science-student-journey-web-expert-2709)
+- [Registration_Form](https://dev.to/prasanth362k/registrationform-3d6d)
 <!-- BLOG-POST-LIST:END -->
 
 
