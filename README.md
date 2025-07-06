@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱💻 Gemini’s Quiet Revolution: Transform Your Draft, Define Your Brand 🧩✨](https://dev.to/divyasinghdev/geminis-quiet-revolution-transform-your-draft-define-your-brand-1nci)
-- [PolicyPilotPro was built entirely using Bolt.new in less than 48 hours](https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc)
-- [A Deep Dive into Go&#39;s sync.Once](https://dev.to/leapcell/a-deep-dive-into-gos-synconce-3inn)
-- [The strategy evolves when the platform changes](https://dev.to/rafaelcg/the-strategy-evolves-when-the-platform-changes-5d48)
+- [Unreachable: The Standard Function for Inserting Undefined Behavior](https://dev.to/pauljlucas/unreachable-the-standard-function-for-inserting-undefined-behavior-4c9o)
+- [FuturePath: My Hackathon Project That’s Becoming a Real Startup](https://dev.to/discovered12345/futurepath-my-hackathon-project-thats-becoming-a-real-startup-818)
+- [[AWS]We have summarized the domain costs that can be purchased through AWS Route53 &lpar;as of July 5, 2025&rpar;](https://dev.to/masakiokuda/awswe-have-summarized-the-domain-costs-that-can-be-purchased-through-aws-route53-as-of-july-5-40me)
+- [Compile-Time Metaprogramming](https://dev.to/member_a07758c4/compile-time-metaprogramming-58k0)
 <!-- BLOG-POST-LIST:END -->
 
 
