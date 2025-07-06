@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Personal Project7 ] EURO Women&#39;s 2025: Round 1 Finished — Who Wins? Attack vs Defence](https://dev.to/ezeeyeyo/personal-project7-euro-womens-2025-round-1-finished-who-wins-attack-vs-defence-2jmf)
-- [Docker Chapter 1: A Beginner&#39;s Introduction to Containerization.](https://dev.to/wizcoderx/docker-chapter-1-a-beginners-introduction-to-containerization-1eaj)
-- [Student Learning Journey Framework](https://dev.to/member_a07758c4/student-learning-journey-framework-2cgo)
-- [Build Cloud Architecture in 10 Seconds Using Natural Language](https://dev.to/canvascloudai/build-cloud-architecture-in-10-seconds-using-natural-language-16ih)
+- [How did an animator become a cloud engineer?](https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654)
+- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-1hhc)
+- [Inside GitHub Copilot&#39;s Architecture: How AI Code Generation Actually Works in Production](https://dev.to/codetirtho97/inside-github-copilots-architecture-how-ai-code-generation-actually-works-in-production-1b7a)
+- [I built LaunchPad AI](https://dev.to/ai_agi/i-built-launchpad-ai-2973)
 <!-- BLOG-POST-LIST:END -->
 
 
