@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery](https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml)
-- [Is Node.js Single Threaded or Multithreaded?](https://dev.to/kiani0x01/is-nodejs-single-threaded-or-multithreaded-p8m)
-- [From SEO to Software: My Journey into Full-Stack Development](https://dev.to/mrsquid45/from-seo-to-software-my-journey-into-full-stack-development-522c)
-- [#1 Introduction to Python](https://dev.to/prakash_vinukonda_363ed4b/1-introduction-to-python-2651)
+- [How to Train AI Model](https://dev.to/atifwattoo/how-to-train-ai-model-bd)
+- [Mission 7: Update Your Portfolio Part One](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-one-1eji)
+- [Building My First End-to-End Machine Learning Project](https://dev.to/anshikalohan/building-my-first-end-to-end-machine-learning-project-23a3)
+- [Never Miss a Hackathon Again: My Calendar-Driven Automation with Runner H](https://dev.to/bridget_amana/never-miss-a-hackathon-again-my-calendar-driven-automation-with-runner-h-33ag)
 <!-- BLOG-POST-LIST:END -->
 
 
