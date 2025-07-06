@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unreachable: The Standard Function for Inserting Undefined Behavior](https://dev.to/pauljlucas/unreachable-the-standard-function-for-inserting-undefined-behavior-4c9o)
-- [FuturePath: My Hackathon Project That’s Becoming a Real Startup](https://dev.to/discovered12345/futurepath-my-hackathon-project-thats-becoming-a-real-startup-818)
-- [[AWS]We have summarized the domain costs that can be purchased through AWS Route53 &lpar;as of July 5, 2025&rpar;](https://dev.to/masakiokuda/awswe-have-summarized-the-domain-costs-that-can-be-purchased-through-aws-route53-as-of-july-5-40me)
-- [Compile-Time Metaprogramming](https://dev.to/member_a07758c4/compile-time-metaprogramming-58k0)
+- [Data at Risk: The Hidden Costs of AI Growth](https://dev.to/alifar/data-at-risk-the-hidden-costs-of-ai-growth-21bf)
+- [Memory Pool Design Patterns](https://dev.to/member_a07758c4/memory-pool-design-patterns-2l70)
+- [🛡️ DigitalGuardian – AI Agent for Subscription Auditing &amp; Digital After-Life Planning](https://dev.to/sajjad_01/digitalguardian-ai-agent-for-subscription-auditing-digital-after-life-planning-5gei)
+- [AWS Fundamentals: Ecs](https://dev.to/devopsfundamentals/aws-fundamentals-ecs-441d)
 <!-- BLOG-POST-LIST:END -->
 
 
