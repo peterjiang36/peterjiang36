@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Memory and Garbage Collection Through Hands-On Experiments](https://dev.to/kfir-g/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-4g0p)
-- [10 Months as a Self-Taught Dev - Reflecting on My Developper Journey](https://dev.to/uzzy412_73/10-months-as-a-self-taught-dev-reflecting-on-my-developper-journey-30d8)
-- [Distributed Computing Framework](https://dev.to/member_a07758c4/distributed-computing-framework-m27)
-- [HttpSession](https://dev.to/prasanth362k/httpsession-21g2)
+- [I realy need help, it can make my life better.](https://dev.to/shaheen_amjed_41de8050d49/i-realy-need-help-it-can-make-my-life-better-4afn)
+- [Onion Architecture Application in Web Dev Deep Analysis of Middleware Patterns](https://dev.to/member_a07758c4/onion-architecture-application-in-web-dev-deep-analysis-of-middleware-patterns-585l)
+- [The Ultimate AI Coding Stack Every Developer Should Know in 2025](https://dev.to/devtechinsights/the-ultimate-ai-coding-stack-every-developer-should-know-in-2025-1j8n)
+- [Kubernetes Autoscaling Fails Silently. Here&#39;s Why and How to Fix It](https://dev.to/ismailkovvuru/kubernetes-autoscaling-fails-silently-heres-why-and-how-to-fix-it-34h8)
 <!-- BLOG-POST-LIST:END -->
 
 
