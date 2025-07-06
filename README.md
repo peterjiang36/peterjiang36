@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I started tracking my dev journey daily — turns out, it changed everything.](https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g)
-- [Career Planning for CS Students](https://dev.to/member_a07758c4/career-planning-for-cs-students-55km)
-- [Unlock AI’s Hidden Power: The Ultimate Guide to Prompt Engineering](https://dev.to/gabrielhca/unlock-ais-hidden-power-the-ultimate-guide-to-prompt-engineering-c41)
-- [Standard vs Enhanced Data Models in Power Pages](https://dev.to/power365tips/standard-vs-enhanced-data-models-in-power-pages-5214)
+- [Spring Boot Redis Multi-Cache: A Complete Guide](https://dev.to/devcorner/spring-boot-redis-multi-cache-a-complete-guide-1pff)
+- [🚧 Scope Will Creep - Your Job Is to Tame It, Not Eliminate It](https://dev.to/mohammad_ajouri/scope-will-creep-your-job-is-to-tame-it-not-eliminate-it-2p5n)
+- [Portfolio Gallary with Angular 20, Tailwind CSS 4, and Material Design](https://dev.to/prasunchakra/portfolio-gallary-with-angular-20-tailwind-css-4-and-material-design-1757)
+- [AI Menu Visualizer: Bringing Restaurant Menus to Life](https://dev.to/williamhatch/ai-menu-visualizer-bringing-restaurant-menus-to-life-1g76)
 <!-- BLOG-POST-LIST:END -->
 
 
