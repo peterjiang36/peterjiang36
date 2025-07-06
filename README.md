@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers](https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a)
-- [Imagination Unlimited - Build a webapp within an hour using Google AI Studio](https://dev.to/ak_moorthy_c3753a8d360ee4/imagination-unlimited-build-a-webapp-within-an-hour-using-google-ai-studio-1mbk)
-- [The Art of Vibe-Coding &lpar;with Google AI Studio&rpar;: Personal Writing Assistant App](https://dev.to/rachel_cheuk/the-art-of-vibe-coding-with-google-ai-studio-personal-writing-assistant-app-53ge)
-- [⛴️Beginner-Friendly Guide &quot;Find Sum Pairs with Dynamic Count Updates&quot; – LeetCode 1865 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-sum-pairs-with-dynamic-count-updates-leetcode-1865-c-python-2jjm)
+- [🧑‍💼 Face Attendance Maker using Streamlit and OpenCV 😎](https://dev.to/anurag_panda/face-attendance-maker-using-streamlit-and-opencv-3fh0)
+- [The Era of Ai - Introduction To Vibe Coding - chapter - 1](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-1-k4d)
+- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-f15)
+- [First PHP Script..](https://dev.to/char1iedevos/first-php-script-3h19)
 <!-- BLOG-POST-LIST:END -->
 
 
