@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AlgorithmO #6 — Кодиране на пермутации &lpar;намиране на номер в лексикографски ред на пермутация&rpar;](https://dev.to/dvt32/algorithmo-6-kodiranie-na-piermutatsii-namiranie-na-nomier-v-lieksikoghrafski-ried-na-piermutatsiia-34p7)
-- [📈 Real-Time Stock Movement Predictor using SVM + Streamlit](https://dev.to/noorbasha_shaik_b60dc0c85/real-time-stock-movement-predictor-using-svm-streamlit-ni5)
-- [Docker Essentials for Beginners: What I Learned Building My First Node.js App](https://dev.to/tejhagargi/docker-essentials-for-beginners-what-i-learned-building-my-first-nodejs-app-5606)
-- [SIMD Vectorized Computing](https://dev.to/member_a07758c4/simd-vectorized-computing-33j4)
+- [How I Would Learn System Design in 2025 &lpar;If I Had to Start Over&rpar;](https://dev.to/somadevtoo/how-i-would-learn-system-design-in-2025-if-i-had-to-start-over-2e00)
+- [Top Web3 Automation Tools in 2025 &lpar;Reviewed &amp; Compared&rpar;](https://dev.to/devonremote/top-web3-automation-tools-in-2025-reviewed-compared-147k)
+- [Node.js 24 is Here! 🎉 What’s New and Why You Should Upgrade](https://dev.to/mr_extinct/nodejs-24-is-here-whats-new-and-why-you-should-upgrade-1691)
+- [Upgrade Yourself, Not Just Your Code](https://dev.to/andriy_ovcharov_312ead391/upgrade-yourself-not-just-your-code-2egj)
 <!-- BLOG-POST-LIST:END -->
 
 
