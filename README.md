@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2 of Hustle2Grand: Two Launches, No Users, and a Lot of Learning](https://dev.to/vulcanwm/week-2-of-hustle2grand-two-launches-no-users-and-a-lot-of-learning-1lmo)
-- [Why Modern Web Development Is More Than Just Code, It’s About Problem Solving &amp; User Experience](https://dev.to/pranav89624/why-modern-web-development-is-more-than-just-code-its-about-problem-solving-user-experience-2f0o)
-- [Should we upload a video?](https://dev.to/aspxone-official/should-we-upload-a-video-3a2b)
-- [CI/CD Intelligence with Shell Lifecycle for DevOps Engineers](https://dev.to/srinivasamcjf/cicd-intelligence-with-shell-lifecycle-for-devops-engineers-3fi)
+- [AlgorithmO #6 — Кодиране на пермутации &lpar;намиране на номер в лексикографски ред на пермутация&rpar;](https://dev.to/dvt32/algorithmo-6-kodiranie-na-piermutatsii-namiranie-na-nomier-v-lieksikoghrafski-ried-na-piermutatsiia-34p7)
+- [📈 Real-Time Stock Movement Predictor using SVM + Streamlit](https://dev.to/noorbasha_shaik_b60dc0c85/real-time-stock-movement-predictor-using-svm-streamlit-ni5)
+- [Docker Essentials for Beginners: What I Learned Building My First Node.js App](https://dev.to/tejhagargi/docker-essentials-for-beginners-what-i-learned-building-my-first-nodejs-app-5606)
+- [SIMD Vectorized Computing](https://dev.to/member_a07758c4/simd-vectorized-computing-33j4)
 <!-- BLOG-POST-LIST:END -->
 
 
