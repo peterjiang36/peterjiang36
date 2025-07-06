@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ecosystem Integration Patterns Third Party Design](https://dev.to/member_a07758c4/ecosystem-integration-patterns-third-party-design-2cpg)
-- [Vue.js Component Design Patterns-Building a Reusable Component Library](https://dev.to/tianyaschool/vuejs-component-design-patterns-building-a-reusable-component-library-3gk)
-- [How to view and analyze JMeter Result - J3](https://dev.to/tester_learn_testing/how-to-view-and-analyze-jmeter-result-j3-3lah)
-- [Terraform Fundamentals: CodeStar Notifications](https://dev.to/devopsfundamentals/terraform-fundamentals-codestar-notifications-2hei)
+- [🌟 DevRoadMap AI – Instantly Generate Your Developer Learning Path | Built With Google AI Studio🤖](https://dev.to/hanzla-baig/devroadmap-ai-instantly-generate-your-developer-learning-path-built-with-google-ai-studio-35bo)
+- [How to Build Your First Web Page from Scratch &lpar;No Frameworks Needed&rpar;](https://dev.to/coderpeterparker/how-to-build-your-first-web-page-from-scratch-no-frameworks-needed-3o5j)
+- [Pricing Strategies for Beginners: Hourly, Fixed, or Value-Based?](https://dev.to/vjygour/pricing-strategies-for-beginners-hourly-fixed-or-value-based-58o4)
+- [Functional Programming in Web](https://dev.to/member_a07758c4/functional-programming-in-web-2hl1)
 <!-- BLOG-POST-LIST:END -->
 
 
