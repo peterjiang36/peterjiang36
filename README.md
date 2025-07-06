@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💼 Face Attendance Maker using Streamlit and OpenCV 😎](https://dev.to/anurag_panda/face-attendance-maker-using-streamlit-and-opencv-3fh0)
-- [The Era of Ai - Introduction To Vibe Coding - chapter - 1](https://dev.to/pjdeveloper896/the-era-of-ai-introduction-to-vibe-coding-chapter-1-k4d)
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-f15)
-- [First PHP Script..](https://dev.to/char1iedevos/first-php-script-3h19)
+- [Ecosystem Integration Patterns Third Party Design](https://dev.to/member_a07758c4/ecosystem-integration-patterns-third-party-design-2cpg)
+- [Vue.js Component Design Patterns-Building a Reusable Component Library](https://dev.to/tianyaschool/vuejs-component-design-patterns-building-a-reusable-component-library-3gk)
+- [How to view and analyze JMeter Result - J3](https://dev.to/tester_learn_testing/how-to-view-and-analyze-jmeter-result-j3-3lah)
+- [Terraform Fundamentals: CodeStar Notifications](https://dev.to/devopsfundamentals/terraform-fundamentals-codestar-notifications-2hei)
 <!-- BLOG-POST-LIST:END -->
 
 
