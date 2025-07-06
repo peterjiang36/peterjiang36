@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data at Risk: The Hidden Costs of AI Growth](https://dev.to/alifar/data-at-risk-the-hidden-costs-of-ai-growth-21bf)
-- [Memory Pool Design Patterns](https://dev.to/member_a07758c4/memory-pool-design-patterns-2l70)
-- [🛡️ DigitalGuardian – AI Agent for Subscription Auditing &amp; Digital After-Life Planning](https://dev.to/sajjad_01/digitalguardian-ai-agent-for-subscription-auditing-digital-after-life-planning-5gei)
-- [AWS Fundamentals: Ecs](https://dev.to/devopsfundamentals/aws-fundamentals-ecs-441d)
+- [Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers](https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a)
+- [Imagination Unlimited - Build a webapp within an hour using Google AI Studio](https://dev.to/ak_moorthy_c3753a8d360ee4/imagination-unlimited-build-a-webapp-within-an-hour-using-google-ai-studio-1mbk)
+- [The Art of Vibe-Coding &lpar;with Google AI Studio&rpar;: Personal Writing Assistant App](https://dev.to/rachel_cheuk/the-art-of-vibe-coding-with-google-ai-studio-personal-writing-assistant-app-53ge)
+- [⛴️Beginner-Friendly Guide &quot;Find Sum Pairs with Dynamic Count Updates&quot; – LeetCode 1865 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-sum-pairs-with-dynamic-count-updates-leetcode-1865-c-python-2jjm)
 <!-- BLOG-POST-LIST:END -->
 
 
