@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is ChatGPT Now Listening? Everything About the New Record Mode](https://dev.to/jovin_george_733dcfc16291/is-chatgpt-now-listening-everything-about-the-new-record-mode-fj6)
-- [Why DevOps engineering ?.](https://dev.to/ifeoma_onyegbumark/why-devops-engineering--n0f)
-- [12 Products in 12 Months - Starting today](https://dev.to/jameshubert_com/12-products-in-12-months-starting-today-4b8j)
-- [PAPIT](https://dev.to/prathoseraaj_v_711b603e67/papit-5cah)
+- [Never Miss a Local Meetup Again! 🚀](https://dev.to/dirsebastian/never-miss-a-local-meetup-again-1imd)
+- [Welcome, The Future of Journalism Is Here: AI-Powered News Sentiment Agent](https://dev.to/diosamuel/welcome-the-future-of-journalism-is-here-ai-powered-news-sentiment-agent-4f66)
+- [How I Built a Witcher Character Creator in 2 Hours with Google AI Studio.](https://dev.to/jerrdasur/how-i-built-a-witcher-character-creator-in-2-hours-with-google-ai-studio-5018)
+- [WWDC 2025 - Wi-Fi Aware Framework: Revolutionizing Device-to-Device Communication on iOS](https://dev.to/arshtechpro/wwdc-2025-wi-fi-aware-framework-revolutionizing-device-to-device-communication-on-ios-115m)
 <!-- BLOG-POST-LIST:END -->
 
 
