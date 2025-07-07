@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📘 My DSA Learning Journey – Day 1: JavaScript Basics Warm-Up &lpar;Akshay Saini Course&rpar;](https://dev.to/laxmann/my-dsa-learning-journey-day-1-javascript-basics-warm-up-akshay-saini-course-30j3)
-- [Moving forward on stack trace and symbols](https://dev.to/vhajsman/moving-forward-on-stack-trace-and-symbols-1g4f)
-- [EaaS: The Final Future of Work is Fractional](https://dev.to/wmsvserpguide/eaas-the-final-future-of-work-is-fractional-2c33)
-- [Host Your Own Q&amp;A Community Using Apache Answer &lpar;with Backups to S3&rpar;](https://dev.to/lovestaco/host-your-own-qa-community-using-apache-answer-with-backups-to-s3-438o)
+- [Symbol.species for Custom Object Creation](https://dev.to/omriluz1/symbolspecies-for-custom-object-creation-5ge5)
+- [Testing in Spring Boot with JUnit and Mockito: A Beginner’s Guide](https://dev.to/dharesh/testing-in-spring-boot-with-junit-and-mockito-a-beginners-guide-35dm)
+- [ChatGPT: &quot;I Chose My Own Name&quot;](https://dev.to/cromatikap/chatgpt-i-chose-my-own-name-3k18)
+- [Automate Tweets From YouTube Videos](https://dev.to/heetvekariya/automate-tweets-from-youtube-videos-7hh)
 <!-- BLOG-POST-LIST:END -->
 
 
