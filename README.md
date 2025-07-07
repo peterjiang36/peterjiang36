@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Strategic Navigator: Autonomous Competitor &amp; Trend Analysis Agent](https://dev.to/cottancandy1217/the-strategic-navigator-autonomous-competitor-trend-analysis-agent-gpn)
-- [Code Readability Techniques](https://dev.to/member_a07758c4/code-readability-techniques-3nlo)
-- [# Introducing Mastodon: A Decentralized Social Network for Developers](https://dev.to/helpothon/-introducing-mastodon-a-decentralized-social-network-for-developers-2anb)
-- [GamingIntoAi](https://dev.to/thegamersbaxechief/gamingintoai-3nlh)
+- [10 Key Lessons from My Failed SaaS Launch](https://dev.to/arunangshu_das/10-key-lessons-from-my-failed-saas-launch-4ih8)
+- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-ll3)
+- [Code Poetry Elegant Framework Design](https://dev.to/member_a07758c4/code-poetry-elegant-framework-design-33kp)
+- [How to Handle Too Many Patent Search Results &lpar;Overload&rpar;](https://dev.to/patentscanai/how-to-handle-too-many-patent-search-results-overload-4kd2)
 <!-- BLOG-POST-LIST:END -->
 
 
