@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent That Cares for My Mom’s 15-Medication Health Routine — No Code, Just Love](https://dev.to/member_b0dfca24/i-built-an-ai-agent-that-cares-for-my-moms-15-medication-health-routine-no-code-just-love-14j6)
-- [JobFlow AI: Your Personal AI Job Hunt Assistant](https://dev.to/ifihan/jobflow-ai-your-personal-ai-job-hunt-assistant-4fcf)
-- [How to add animated loading transitions to your Vue.js app with a dynamic component](https://dev.to/tqbit/how-to-add-animated-loading-transitions-to-your-vuejs-app-2l1)
-- [Zero Copy Technology Application and Performance Improvement Strategies in Web Dev](https://dev.to/member_a07758c4/zero-copy-technology-application-and-performance-improvement-strategies-in-web-dev-f8l)
+- [SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-docker-compose-breakdown-understanding-the-mgt-service-3kjm)
+- [Is Self-Taught Coding Still Worth It?](https://dev.to/random_ti/is-self-taught-coding-still-worth-it-3i43)
+- [Custom Web Development Boosts Your Brand Identity](https://dev.to/websolution/custom-web-development-boosts-your-brand-identity-5fgd)
+- [The Challenges of Coding in Startup Projects](https://dev.to/oganai/the-challenges-of-coding-in-startup-projects-1khp)
 <!-- BLOG-POST-LIST:END -->
 
 
