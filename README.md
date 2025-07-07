@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
-- [How We Built a Fully Automated Content Marketing System Using Make &lpar;And Why You Should Too&rpar;](https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh)
-- [I Tested 50 DeFi Protocols: Here&#39;s Why Foundry Beats Hardhat Every Time](https://dev.to/dhis_is_jj/i-tested-50-defi-protocols-heres-why-foundry-beats-hardhat-every-time-4f3e)
-- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture](https://dev.to/member_a07758c4/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-architecture-2l51)
+- [🚀 Boost Your React Website&#39;s SEO: 3 Essential Ingredients for Beginners](https://dev.to/mrzaizai2k/boost-your-react-websites-seo-3-essential-ingredients-for-beginners-188c)
+- [Building a Breast Cancer Prediction App with Machine Learning and Streamlit](https://dev.to/anshikalohan/building-a-breast-cancer-prediction-app-with-machine-learning-and-streamlit-57an)
+- [Building a Netflix Clone with React](https://dev.to/devabdul/building-a-netflix-clone-with-react-12f4)
+- [Every great story is written with many hands](https://dev.to/sonmusui/every-great-story-is-written-with-many-hands-47fe)
 <!-- BLOG-POST-LIST:END -->
 
 
