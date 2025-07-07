@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Driven Architecture Pattern Application Practice in Web Frameworks](https://dev.to/member_a07758c4/event-driven-architecture-pattern-application-practice-in-web-frameworks-3h62)
-- [Word bank automation](https://dev.to/subutai/word-bank-automation-dcg)
-- [Programming Entry Level: how to web development](https://dev.to/devopsfundamentals/programming-entry-level-how-to-web-development-2g08)
-- [Type Safety in Web Compile Time Error Robust Design](https://dev.to/member_a07758c4/type-safety-in-web-compile-time-error-robust-design-2jjp)
+- [Study Group Connector: Automating Learning Community Discovery with Runner H](https://dev.to/amyxandra/study-group-connector-automating-learning-community-discovery-with-runner-h-3mg0)
+- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-5efj)
+- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS&quot;](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-2b3g)
+- [Transform Your Travel Plans With Smart AI Tools](https://dev.to/sebastian_reid999/transform-your-travel-plans-with-smart-ai-tools-2762)
 <!-- BLOG-POST-LIST:END -->
 
 
