@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Significance of Python Virtual Environment](https://dev.to/magesh_narayanan_da14a227/significance-of-python-virtual-environment-aim)
-- [How to Build a Robust Design System in Flutter with Theming and Material 3 Support.](https://dev.to/nkusikevin/how-to-build-a-robust-design-system-in-flutter-with-theming-and-material-3-support-1g4o)
-- [Understanding Data Types in JavaScript: A Comprehensive Guide](https://dev.to/jslovers/understanding-data-types-in-javascript-a-comprehensive-guide-1n02)
-- [OCI &amp; The Cloud DBA](https://dev.to/nabhaas/commanding-the-cloud-the-oracle-dbas-journey-into-oci-cli-506c)
+- [📘 My DSA Learning Journey – Day 1: JavaScript Basics Warm-Up &lpar;Akshay Saini Course&rpar;](https://dev.to/laxmann/my-dsa-learning-journey-day-1-javascript-basics-warm-up-akshay-saini-course-30j3)
+- [Moving forward on stack trace and symbols](https://dev.to/vhajsman/moving-forward-on-stack-trace-and-symbols-1g4f)
+- [EaaS: The Final Future of Work is Fractional](https://dev.to/wmsvserpguide/eaas-the-final-future-of-work-is-fractional-2c33)
+- [Host Your Own Q&amp;A Community Using Apache Answer &lpar;with Backups to S3&rpar;](https://dev.to/lovestaco/host-your-own-qa-community-using-apache-answer-with-backups-to-s3-438o)
 <!-- BLOG-POST-LIST:END -->
 
 
