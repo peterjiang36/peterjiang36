@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Land Before Time In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-land-before-time-in-15-minutes-or-less-356h)
-- [Rebuilding My Portfolio: A Week of React, Animations, and Testing](https://dev.to/albinotonnina/rebuilding-my-portfolio-a-week-of-react-animations-and-testing-43hl)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 16 - ‘Oppenheimer&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-16-oppenheimer-the-big-picture-30m4)
-- [CinemaSins: Everything Wrong With South Park: Bigger, Longer &amp; Uncut In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-south-park-bigger-longer-uncut-in-15-minutes-or-less-2pdf)
+- [How I Hack a Hacker](https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b)
+- [Using LlamaIndex.TS to Orchestrate MCP Servers](https://dev.to/azure/using-llamaindexts-to-orchestrate-mcp-servers-413k)
+- [Day 21: Backend Security – The Last Line of Defense](https://dev.to/nader_fh/day-21-backend-security-the-last-line-of-defense-3p1k)
+- [Built and Launched My Own AI Image Generation SaaS Boilerplate – Now Selling It for Devs &amp; Founders](https://dev.to/iamutkarshyadav/built-and-launched-my-own-ai-image-generation-saas-boilerplate-now-selling-it-for-devs-founders-17lk)
 <!-- BLOG-POST-LIST:END -->
 
 
