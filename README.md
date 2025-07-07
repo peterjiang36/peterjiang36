@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track Savings in Power Automate](https://dev.to/wyattdave/how-to-track-savings-in-power-automate-1gp7)
-- [Top 5 Accent Filter Tools You Can&#39;t Miss!](https://dev.to/lucas_zhang_aeafe6d22a017/top-5-accent-filter-tools-you-cant-miss-50na)
-- [Memory Layout Optimization](https://dev.to/member_a07758c4/memory-layout-optimization-4dcd)
-- [When “Quick Fixes” Become Long-Term Pain](https://dev.to/dct_technology/when-quick-fixes-become-long-term-pain-1115)
+- [I Built an AI Agent That Cares for My Mom’s 15-Medication Health Routine — No Code, Just Love](https://dev.to/member_b0dfca24/i-built-an-ai-agent-that-cares-for-my-moms-15-medication-health-routine-no-code-just-love-14j6)
+- [JobFlow AI: Your Personal AI Job Hunt Assistant](https://dev.to/ifihan/jobflow-ai-your-personal-ai-job-hunt-assistant-4fcf)
+- [How to add animated loading transitions to your Vue.js app with a dynamic component](https://dev.to/tqbit/how-to-add-animated-loading-transitions-to-your-vuejs-app-2l1)
+- [Zero Copy Technology Application and Performance Improvement Strategies in Web Dev](https://dev.to/member_a07758c4/zero-copy-technology-application-and-performance-improvement-strategies-in-web-dev-f8l)
 <!-- BLOG-POST-LIST:END -->
 
 
