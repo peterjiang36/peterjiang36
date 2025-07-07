@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Boost Your React Website&#39;s SEO: 3 Essential Ingredients for Beginners](https://dev.to/mrzaizai2k/boost-your-react-websites-seo-3-essential-ingredients-for-beginners-188c)
-- [Building a Breast Cancer Prediction App with Machine Learning and Streamlit](https://dev.to/anshikalohan/building-a-breast-cancer-prediction-app-with-machine-learning-and-streamlit-57an)
-- [Building a Netflix Clone with React](https://dev.to/devabdul/building-a-netflix-clone-with-react-12f4)
-- [Every great story is written with many hands](https://dev.to/sonmusui/every-great-story-is-written-with-many-hands-47fe)
+- [Team Collaboration Best Practices](https://dev.to/member_a07758c4/team-collaboration-best-practices-nge)
+- [Day 5: I Built PyTorch&#39;s Autograd &lpar;And Finally Understood How AI Actually Learns&rpar;](https://dev.to/vivekjami/day-5-i-built-pytorchs-autograd-and-finally-understood-how-ai-actually-learns-k2n)
+- [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6)
+- [Behind the Underscores EP11: Callable Objects: __call__](https://dev.to/hevalhazalkurt/behind-the-underscores-ep11-callable-objects-call-22c6)
 <!-- BLOG-POST-LIST:END -->
 
 
