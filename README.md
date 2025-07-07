@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Where to Start Your Coding Career: Corporate, Tech, or Agency?](https://dev.to/canro91/where-to-start-your-coding-career-corporate-tech-or-agency-3ap6)
-- [Leveraging Runner H in job search: Jobhound.ai](https://dev.to/oxcryptic/leveraging-runner-h-in-job-search-jobhoundai-443m)
-- [Production Deployment Strategies Docker Cloud High Web](https://dev.to/member_a07758c4/production-deployment-strategies-docker-cloud-high-web-2g6j)
-- [full stack development](https://dev.to/garakrishna_vamsi_a8e9fe4/full-stack-development-194b)
+- [How to Track Savings in Power Automate](https://dev.to/wyattdave/how-to-track-savings-in-power-automate-1gp7)
+- [Top 5 Accent Filter Tools You Can&#39;t Miss!](https://dev.to/lucas_zhang_aeafe6d22a017/top-5-accent-filter-tools-you-cant-miss-50na)
+- [Memory Layout Optimization](https://dev.to/member_a07758c4/memory-layout-optimization-4dcd)
+- [When “Quick Fixes” Become Long-Term Pain](https://dev.to/dct_technology/when-quick-fixes-become-long-term-pain-1115)
 <!-- BLOG-POST-LIST:END -->
 
 
