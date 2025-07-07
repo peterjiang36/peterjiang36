@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start a SaaS Company with Zero Budget: A Practical Guide](https://dev.to/agami_tech_414cabb7522ea1/how-to-start-a-saas-company-with-zero-budget-a-practical-guide-4pb8)
-- [How to build an Agent with Laravel](https://dev.to/aprodilles/how-to-build-an-agent-with-laravel-mdi)
-- [Enterprise ML governance: Tracking AI lineage and risk with Unity Catalog](https://dev.to/danialgauhar/enterprise-ml-governance-tracking-ai-lineage-and-risk-with-unity-catalog-4069)
-- [🧵 Real-Time Chat App using Flutter + FastAPI &lpar;via WebSocket&rpar;](https://dev.to/parikshit_vermahoney_7/real-time-chat-app-using-flutter-fastapi-via-websocket-1kdl)
+- [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
+- [How We Built a Fully Automated Content Marketing System Using Make &lpar;And Why You Should Too&rpar;](https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh)
+- [I Tested 50 DeFi Protocols: Here&#39;s Why Foundry Beats Hardhat Every Time](https://dev.to/dhis_is_jj/i-tested-50-defi-protocols-heres-why-foundry-beats-hardhat-every-time-4f3e)
+- [Event Sourcing and CQRS Pattern Design Philosophy and Practice of Data Architecture](https://dev.to/member_a07758c4/event-sourcing-and-cqrs-pattern-design-philosophy-and-practice-of-data-architecture-2l51)
 <!-- BLOG-POST-LIST:END -->
 
 
