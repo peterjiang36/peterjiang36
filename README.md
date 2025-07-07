@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Study Group Connector: Automating Learning Community Discovery with Runner H](https://dev.to/amyxandra/study-group-connector-automating-learning-community-discovery-with-runner-h-3mg0)
-- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-5efj)
-- [Enforcing Cloud Guardrails with Spacelift Policies: My Hands-On Test with Rego, Terraform, and AWS&quot;](https://dev.to/akingbade_omosebi/enforcing-cloud-guardrails-with-spacelift-policies-my-hands-on-test-with-rego-terraform-and-aws-2b3g)
-- [Transform Your Travel Plans With Smart AI Tools](https://dev.to/sebastian_reid999/transform-your-travel-plans-with-smart-ai-tools-2762)
+- [MyUi一款精美实用的WPF组件库](https://dev.to/myuigroup/myui-kuan-jing-mei-shi-yong-de-wpfzu-jian-ku-dal)
+- [[Boost]](https://dev.to/daisuke_kuriyama_ea8e2d71/-4l6o)
+- [I built a cost estimator based on your ZIP code!](https://dev.to/izzmarky/i-built-a-cost-estimator-based-on-your-zip-code-3g0c)
+- [Unlocking Performance: How C++ Optimization Techniques in Compilers Outperform Python](https://dev.to/adityabhuyan/unlocking-performance-how-c-optimization-techniques-in-compilers-outperform-python-4okh)
 <!-- BLOG-POST-LIST:END -->
 
 
