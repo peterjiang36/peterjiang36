@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Team Collaboration Best Practices](https://dev.to/member_a07758c4/team-collaboration-best-practices-nge)
-- [Day 5: I Built PyTorch&#39;s Autograd &lpar;And Finally Understood How AI Actually Learns&rpar;](https://dev.to/vivekjami/day-5-i-built-pytorchs-autograd-and-finally-understood-how-ai-actually-learns-k2n)
-- [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6)
-- [Behind the Underscores EP11: Callable Objects: __call__](https://dev.to/hevalhazalkurt/behind-the-underscores-ep11-callable-objects-call-22c6)
+- [LangChain and LangGraph: The Building Blocks for Modern AI Applications](https://dev.to/jps27cse/langchain-and-langgraph-the-building-blocks-for-modern-ai-applications-2ife)
+- [The main difference between `localStorage` and `sessionStorage`](https://dev.to/renukapatil/the-main-difference-between-localstorage-and-sessionstorage-gm4)
+- [Build a Content-Aware Media Cropper Using AI, Cloudinary, and Streamlit](https://dev.to/terieyenike/build-a-content-aware-media-cropper-using-ai-cloudinary-and-streamlit-3cln)
+- [Python Data Types Explained – Beginner to Pro &lpar;Step-by-Step Guide&rpar;](https://dev.to/niveshbansal07/python-data-types-explained-beginner-to-pro-step-by-step-guide-5c22)
 <!-- BLOG-POST-LIST:END -->
 
 
