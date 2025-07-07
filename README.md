@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MyUi一款精美实用的WPF组件库](https://dev.to/myuigroup/myui-kuan-jing-mei-shi-yong-de-wpfzu-jian-ku-dal)
-- [[Boost]](https://dev.to/daisuke_kuriyama_ea8e2d71/-4l6o)
-- [I built a cost estimator based on your ZIP code!](https://dev.to/izzmarky/i-built-a-cost-estimator-based-on-your-zip-code-3g0c)
-- [Unlocking Performance: How C++ Optimization Techniques in Compilers Outperform Python](https://dev.to/adityabhuyan/unlocking-performance-how-c-optimization-techniques-in-compilers-outperform-python-4okh)
+- [The Strategic Navigator: Autonomous Competitor &amp; Trend Analysis Agent](https://dev.to/cottancandy1217/the-strategic-navigator-autonomous-competitor-trend-analysis-agent-gpn)
+- [Code Readability Techniques](https://dev.to/member_a07758c4/code-readability-techniques-3nlo)
+- [# Introducing Mastodon: A Decentralized Social Network for Developers](https://dev.to/helpothon/-introducing-mastodon-a-decentralized-social-network-for-developers-2anb)
+- [GamingIntoAi](https://dev.to/thegamersbaxechief/gamingintoai-3nlh)
 <!-- BLOG-POST-LIST:END -->
 
 
