@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Key Lessons from My Failed SaaS Launch](https://dev.to/arunangshu_das/10-key-lessons-from-my-failed-saas-launch-4ih8)
-- [Single Core High Concurrency](https://dev.to/member_a07758c4/single-core-high-concurrency-ll3)
-- [Code Poetry Elegant Framework Design](https://dev.to/member_a07758c4/code-poetry-elegant-framework-design-33kp)
-- [How to Handle Too Many Patent Search Results &lpar;Overload&rpar;](https://dev.to/patentscanai/how-to-handle-too-many-patent-search-results-overload-4kd2)
+- [Ecosystem Integration Patterns Third Party Design](https://dev.to/member_a07758c4/ecosystem-integration-patterns-third-party-design-2433)
+- [Stop Gluing Data Infrastructure Tools: Build Multimodal AI Workloads and Application with One Declarative Python SDK](https://dev.to/pjlbrunelle/stop-gluing-data-infrastructure-tools-build-multimodal-ai-workloads-and-application-with-one-11pj)
+- [Cross-Platform Compatibility Solutions](https://dev.to/member_a07758c4/cross-platform-compatibility-solutions-4cge)
+- [Stop Manually Checking Rates: Automate Naira Exchange Alerts with Runner H🚀](https://dev.to/toyaab/stop-manually-checking-rates-automate-naira-exchange-alerts-with-runner-h-5128)
 <!-- BLOG-POST-LIST:END -->
 
 
