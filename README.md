@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain and LangGraph: The Building Blocks for Modern AI Applications](https://dev.to/jps27cse/langchain-and-langgraph-the-building-blocks-for-modern-ai-applications-2ife)
-- [The main difference between `localStorage` and `sessionStorage`](https://dev.to/renukapatil/the-main-difference-between-localstorage-and-sessionstorage-gm4)
-- [Build a Content-Aware Media Cropper Using AI, Cloudinary, and Streamlit](https://dev.to/terieyenike/build-a-content-aware-media-cropper-using-ai-cloudinary-and-streamlit-3cln)
-- [Python Data Types Explained – Beginner to Pro &lpar;Step-by-Step Guide&rpar;](https://dev.to/niveshbansal07/python-data-types-explained-beginner-to-pro-step-by-step-guide-5c22)
+- [CinemaSins: Everything Wrong With The Land Before Time In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-land-before-time-in-15-minutes-or-less-356h)
+- [Rebuilding My Portfolio: A Week of React, Animations, and Testing](https://dev.to/albinotonnina/rebuilding-my-portfolio-a-week-of-react-animations-and-testing-43hl)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 16 - ‘Oppenheimer&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-16-oppenheimer-the-big-picture-30m4)
+- [CinemaSins: Everything Wrong With South Park: Bigger, Longer &amp; Uncut In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-south-park-bigger-longer-uncut-in-15-minutes-or-less-2pdf)
 <!-- BLOG-POST-LIST:END -->
 
 
