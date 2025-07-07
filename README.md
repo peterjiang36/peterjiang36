@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hack a Hacker](https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b)
-- [Using LlamaIndex.TS to Orchestrate MCP Servers](https://dev.to/azure/using-llamaindexts-to-orchestrate-mcp-servers-413k)
-- [Day 21: Backend Security – The Last Line of Defense](https://dev.to/nader_fh/day-21-backend-security-the-last-line-of-defense-3p1k)
-- [Built and Launched My Own AI Image Generation SaaS Boilerplate – Now Selling It for Devs &amp; Founders](https://dev.to/iamutkarshyadav/built-and-launched-my-own-ai-image-generation-saas-boilerplate-now-selling-it-for-devs-founders-17lk)
+- [How to Build Beautiful GUIs in Golang : 3 Web UI Paths](https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm)
+- [The Golang Masterclass: Singleton Structs Will Save Your Project.](https://dev.to/sfundomhlungu/the-golang-masterclass-singleton-structs-will-save-your-project-g70)
+- [Why Everybody&#39;s so Excited about MCP](https://dev.to/kylemistele/why-everybodys-so-excited-about-mcp-1l7d)
+- [Pros and Cons of the Top AI Code Assistants: Continue.dev, GitHub Copilot, and Cursor &lpar;With a Hero’s Twist&rpar;](https://dev.to/bekahhw/pros-and-cons-of-the-top-ai-code-assistants-continuedev-github-copilot-and-cursor-with-a-24nf)
 <!-- BLOG-POST-LIST:END -->
 
 
