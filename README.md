@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine WAF Docker Compose Breakdown: Understanding the `mgt` Service](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-docker-compose-breakdown-understanding-the-mgt-service-3kjm)
-- [Is Self-Taught Coding Still Worth It?](https://dev.to/random_ti/is-self-taught-coding-still-worth-it-3i43)
-- [Custom Web Development Boosts Your Brand Identity](https://dev.to/websolution/custom-web-development-boosts-your-brand-identity-5fgd)
-- [The Challenges of Coding in Startup Projects](https://dev.to/oganai/the-challenges-of-coding-in-startup-projects-1khp)
+- [From Crypto Rollercoaster to Vibecode Builder -Journeybook #1](https://dev.to/huecki/from-crypto-rollercoaster-to-vibecode-builder-journeybook-1-1bd7)
+- [Why You Should Consider Server-Side Rendering with Vue &lpar;and What It Means for SEO&rpar;](https://dev.to/alifar/why-you-should-consider-server-side-rendering-with-vue-and-what-it-means-for-seo-16k7)
+- [ইতিহাসের সবচেয়ে বড় পাসওয়ার্ড লিক &lpar;১৬ বিলিয়ন একাউন্ট হ্যাক&rpar;](https://dev.to/rironib/infostealer-malware-dumps-16-billion-login-credentials-4j8a)
+- [Custom AMI without cloud-init? Here&#39;s how it broke my EC2-Instance](https://dev.to/manulithic/custom-ami-without-cloud-init-heres-how-it-broke-my-ec2-instance-3olk)
 <!-- BLOG-POST-LIST:END -->
 
 
