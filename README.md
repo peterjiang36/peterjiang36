@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool CodePen Demos &lpar;June 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2025-dme)
-- [Un Agente simple para realizar resumen del contenido de sitios web con Embabel](https://dev.to/abadongutierrez/un-agente-simple-para-realizar-resumen-del-contenido-de-sitios-web-con-embabel-11oj)
-- [Can Technology Save Entertainment Voting? Addressing Fraud, Fairness, and the Future](https://dev.to/teknixcorp/can-technology-save-entertainment-voting-addressing-fraud-fairness-and-the-future-n7g)
-- [When Dragons Go Missing: A Tale of URL Parameter Parsing in Phoenix LiveView](https://dev.to/meksquest/when-dragons-go-missing-a-tale-of-url-parameter-parsing-in-phoenix-liveview-224d)
+- [Multiplayer Tic Tac Toe Game](https://dev.to/harry_tanama_51571ebf90b6/multiplayer-tic-tac-toe-game-mpn)
+- [Working with DatePicker in Power Pages](https://dev.to/power365tips/working-with-datepicker-in-power-pages-58j)
+- [Shared space for AI builders? We are open to your thoughts!](https://dev.to/agape_aurora_4b5303956dc6/shared-space-for-ai-builders-we-are-open-to-your-thoughts-327p)
+- [Getting Started with Red Hat OpenShift Container Platform for Developers](https://dev.to/sindhuja_ns_1e491ce1088d/getting-started-with-red-hat-openshift-container-platform-for-developers-17a9)
 <!-- BLOG-POST-LIST:END -->
 
 
