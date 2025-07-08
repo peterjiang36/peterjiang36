@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anyone know when Dev++ members are able to claim the 2-month Warp Pro offer?](https://dev.to/p5n/anyone-know-when-dev-members-are-able-to-claim-the-2-month-warp-pro-offer-5ddi)
-- [Umemura Farm Website – Devlog #29: Lighthouse-Informed Refactoring and Optimization](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-29-lighthouse-informed-refactoring-and-optimization-512i)
-- [Zero to Production App in 22 Days?! 🤯](https://dev.to/seanmccurdy/zero-to-production-app-in-22-days-2kdk)
-- [Daily JavaScript Challenge #JS-221: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-221-convert-snake-case-to-camel-case-1453)
+- [7 Basic Git Commands](https://dev.to/aerabi/7-basic-git-commands-4h6n)
+- [AI Managed My Job: Here&#39;s What Changed Fast](https://dev.to/sebastian_reid999/ai-managed-my-job-heres-what-changed-fast-58m)
+- [🧮 Don’t Let Outliers Fool You: Introducing `robust-average` for Reliable Price Analysis](https://dev.to/bensha93/dont-let-outliers-fool-you-introducing-robust-average-for-reliable-price-analysis-5fi8)
+- [Pesticides: Separating Fact from Fiction](https://dev.to/sysmaya/pesticides-separating-fact-from-fiction-355j)
 <!-- BLOG-POST-LIST:END -->
 
 
