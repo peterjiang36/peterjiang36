@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Counting Magic: Converting Counter Values to Variables](https://dev.to/rezi/css-counting-magic-converting-counter-values-to-variables-e9m)
-- [Transforming AI Interaction Through Personalization](https://dev.to/agape_aurora_4b5303956dc6/transforming-ai-interaction-through-personalization-39m7)
-- [Introducing Deforge, the Visual, No-Code Builder](https://dev.to/deforge_io/introducing-deforge-the-visual-no-code-builder-dg2)
-- [FRONTEND &lpar;HTML&rpar;](https://dev.to/vignesh_m_4971f2f8dfa54/frontend-html-3imd)
+- [The Current State of AI: How It’s Changing Our Lives](https://dev.to/elfreda/the-current-state-of-ai-how-its-changing-our-lives-37na)
+- [Behind the Scenes: How We Built a High-Performance Charting Library in React](https://dev.to/devexperts/behind-the-scenes-how-we-built-a-high-performance-charting-library-in-react-cdc)
+- [[Boost]](https://dev.to/rezi/-4bdg)
+- [Understanding Annotations, Beans, Spring Container &amp; Dependency Injection in Spring Boot](https://dev.to/elayaraj31/understanding-annotations-beans-spring-container-dependency-injection-in-spring-boot-20c3)
 <!-- BLOG-POST-LIST:END -->
 
 
