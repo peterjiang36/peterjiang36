@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3/100: Assembling the Toolkit on a Shoestring Budget 🛠️💰](https://dev.to/khuepm/day-3100-assembling-the-toolkit-on-a-shoestring-budget-3a45)
-- [How To Synchronize threads In Go.](https://dev.to/sfundomhlungu/how-to-synchronize-threads-in-go-1elo)
-- [Your First Claude Integration Using MCP-Style Tooling](https://dev.to/aun_aideveloper/your-first-claude-integration-using-mcp-style-tooling-3081)
-- [AI For Beginners](https://dev.to/ali_e97e4fa82de1024780940/-4273)
+- [How to Train an AI Model to Understand Time, Date &amp; Location Requests](https://dev.to/olalekan_oladiran_d74b7a6/how-to-train-an-ai-model-to-understand-time-date-location-requests-1197)
+- [Build Your Own Temp Mail Website in Minutes with Our Open-Source Project &amp; API!](https://dev.to/dishis/build-your-own-temp-mail-website-in-minutes-with-our-open-source-project-api-1hcd)
+- [🕵🏽‍♀️ Uncovering the Unseen: My Digital Forensics Journey with Deleted File Recovery](https://dev.to/shirmali/uncovering-the-unseen-my-digital-forensics-journey-with-deleted-file-recovery-50j5)
+- [Update to Apps Script advanced services, Sheets API, and more!](https://dev.to/googleworkspace/update-to-apps-script-advanced-services-sheets-api-and-more-1g2e)
 <!-- BLOG-POST-LIST:END -->
 
 
