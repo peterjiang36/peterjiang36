@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Front End Language Feature Matrix](https://dev.to/gdotdesign/front-end-language-feature-matrix-n4b)
-- [Do you need to be a programmer to contribute to open source projects?](https://dev.to/szabgab/do-you-need-to-be-a-programmer-to-contribute-to-open-source-projects-29i9)
-- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-32o1)
-- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-14fl)
+- [At the request of South Korea, Valve pulled a mod from Steam that glorified the country&#39;s military dictatorship](https://dev.to/gg_news/at-the-request-of-south-korea-valve-pulled-a-mod-from-steam-that-glorified-the-countrys-military-5d2o)
+- [EA Japan President Calls Out Microsoft for Chasing Short-Term Results Amid Mass Layoffs](https://dev.to/gg_news/ea-japan-president-calls-out-microsoft-for-chasing-short-term-results-amid-mass-layoffs-3nk7)
+- [Brazilian Agency Formally Notifies Nintendo Over Console Bricking EULA Clause](https://dev.to/gg_news/brazilian-agency-formally-notifies-nintendo-over-console-bricking-eula-clause-3ohk)
+- [Over 6,000 people have lost their jobs at Xbox in less than two years](https://dev.to/gg_news/over-6000-people-have-lost-their-jobs-at-xbox-in-less-than-two-years-1gd9)
 <!-- BLOG-POST-LIST:END -->
 
 
