@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [At the request of South Korea, Valve pulled a mod from Steam that glorified the country&#39;s military dictatorship](https://dev.to/gg_news/at-the-request-of-south-korea-valve-pulled-a-mod-from-steam-that-glorified-the-countrys-military-5d2o)
-- [EA Japan President Calls Out Microsoft for Chasing Short-Term Results Amid Mass Layoffs](https://dev.to/gg_news/ea-japan-president-calls-out-microsoft-for-chasing-short-term-results-amid-mass-layoffs-3nk7)
-- [Brazilian Agency Formally Notifies Nintendo Over Console Bricking EULA Clause](https://dev.to/gg_news/brazilian-agency-formally-notifies-nintendo-over-console-bricking-eula-clause-3ohk)
-- [Over 6,000 people have lost their jobs at Xbox in less than two years](https://dev.to/gg_news/over-6000-people-have-lost-their-jobs-at-xbox-in-less-than-two-years-1gd9)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3pi8)
+- [Unlock Go&#39;s HTTP Potential: See Our Performance Benchmarks ✨](https://dev.to/evilmagics/unlock-gos-http-potential-see-our-performance-benchmarks-3ooc)
+- [Is GPT-5 Arriving This Summer? What the AI World Is Whispering](https://dev.to/jovin_george_733dcfc16291/is-gpt-5-arriving-this-summer-what-the-ai-world-is-whispering-2e18)
+- [Golf With Aimee: Stop Losing Power &amp; Direction – Fix Your Lead Foot!](https://dev.to/youtube_golf/golf-with-aimee-stop-losing-power-direction-fix-your-lead-foot-3coh)
 <!-- BLOG-POST-LIST:END -->
 
 
