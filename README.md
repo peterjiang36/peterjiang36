@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Detox Week](https://dev.to/cargdev/detox-week-4k6h)
-- [Building a Slack AI Chatbot to Process PDF Content with n8n](https://dev.to/aihacks/building-a-slack-ai-chatbot-to-process-pdf-content-with-n8n-14hi)
-- [Built an AI Agent using Strands Agents SDK](https://dev.to/aws-builders/built-an-ai-agent-using-strands-agents-sdk-2o55)
-- [One-Stop Developer Guide to Prompt Engineering Across OpenAI, Anthropic, and Google](https://dev.to/kenangain/one-stop-developer-guide-to-prompt-engineering-across-openai-anthropic-and-google-4bfb)
+- [Anyone know when Dev++ members are able to claim the 2-month Warp Pro offer?](https://dev.to/p5n/anyone-know-when-dev-members-are-able-to-claim-the-2-month-warp-pro-offer-5ddi)
+- [Umemura Farm Website – Devlog #29: Lighthouse-Informed Refactoring and Optimization](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-29-lighthouse-informed-refactoring-and-optimization-512i)
+- [Zero to Production App in 22 Days?! 🤯](https://dev.to/seanmccurdy/zero-to-production-app-in-22-days-2kdk)
+- [Daily JavaScript Challenge #JS-221: Convert Snake Case to Camel Case](https://dev.to/dpc/daily-javascript-challenge-js-221-convert-snake-case-to-camel-case-1453)
 <!-- BLOG-POST-LIST:END -->
 
 
