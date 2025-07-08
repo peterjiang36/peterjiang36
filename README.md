@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How SafeLine WAF Blocks Brute Force Attacks and Protects Your Site](https://dev.to/sharon_42e16b8da44dabde6d/how-safeline-waf-blocks-brute-force-attacks-and-protects-your-site-43k4)
-- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-507h)
-- [Generative AI vs. Deterministic Testing: Why Predictability Matters with Genqe](https://dev.to/anil_csimplifyit_905c/generative-ai-vs-deterministic-testing-why-predictability-matters-with-genqe-2nmi)
-- [WebGPU Engine from Scratch 1: Basic Rendering](https://dev.to/ndesmic/webgpu-engine-from-scratch-1-basic-rendering-51cl)
+- [Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/switch-between-installed-php-versions-on-linux-5752)
+- [How to Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/how-to-switch-between-installed-php-versions-on-linux-jga)
+- [Textractify: AI-Powered Receipt Processing in the Cloud](https://dev.to/omkarsharma2821/textractify-ai-powered-receipt-processing-in-the-cloud-d35)
+- [Terraform Fundamentals: Cognito Identity](https://dev.to/devopsfundamentals/terraform-fundamentals-cognito-identity-3bac)
 <!-- BLOG-POST-LIST:END -->
 
 
