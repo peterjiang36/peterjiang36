@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use JSONB in PostgreSQL](https://dev.to/roxana_haidiner/how-to-use-jsonb-in-postgresql-4lne)
-- [Designing a Distributed Cache: Redis and Memcached at Scale](https://dev.to/sgchris/designing-a-distributed-cache-redis-and-memcached-at-scale-1if3)
-- [C# Records and Pattern Matching: Modern Data Modeling](https://dev.to/chakewitz/c-records-and-pattern-matching-modern-data-modeling-4027)
-- [How to Download and Install RecoveryFox AI for Windows](https://dev.to/sempre_libera_f511ef67c1f/how-to-download-and-install-recoveryfox-ai-for-windows-pd6)
+- [CSS Counting Magic: Converting Counter Values to Variables](https://dev.to/rezi/css-counting-magic-converting-counter-values-to-variables-e9m)
+- [Transforming AI Interaction Through Personalization](https://dev.to/agape_aurora_4b5303956dc6/transforming-ai-interaction-through-personalization-39m7)
+- [Introducing Deforge, the Visual, No-Code Builder](https://dev.to/deforge_io/introducing-deforge-the-visual-no-code-builder-dg2)
+- [FRONTEND &lpar;HTML&rpar;](https://dev.to/vignesh_m_4971f2f8dfa54/frontend-html-3imd)
 <!-- BLOG-POST-LIST:END -->
 
 
