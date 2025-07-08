@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Train an obedient AI! I made a free AI prompt optimizer!](https://dev.to/gagaisyou/train-an-obedient-ai-i-made-a-free-ai-prompt-optimizer-38ln)
-- [Easy Finance AI](https://dev.to/capjud95/easy-finance-ai-10po)
-- [Benefits of Cloud Computing.](https://dev.to/ifeoma_onyegbumark/benefits-of-cloud-computing-137g)
-- [Variáveis em JavaScript](https://dev.to/jeanmfdias/variaveis-em-javascript-1gcp)
+- [Front End Language Feature Matrix](https://dev.to/gdotdesign/front-end-language-feature-matrix-n4b)
+- [Do you need to be a programmer to contribute to open source projects?](https://dev.to/szabgab/do-you-need-to-be-a-programmer-to-contribute-to-open-source-projects-29i9)
+- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-32o1)
+- [🧠 Ethereum : The Rise of the World Computer](https://dev.to/githaiga22/ethereum-the-rise-of-the-world-computer-14fl)
 <!-- BLOG-POST-LIST:END -->
 
 
