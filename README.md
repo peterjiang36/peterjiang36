@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 My Python Journey: Week 3 – The Realm of Operators](https://dev.to/misspresidentcodes/my-python-journey-week-3-the-realm-of-operators-i2)
-- [Colour predictor](https://dev.to/red_star_0412c2cbf4aca263/colour-predictor-246f)
-- [Domain Mapping Architecture](https://dev.to/github-recommend/domain-mapping-architecture-43d7)
-- [🏗️ Real-World Backend Architecture Patterns You Should Know](https://dev.to/padie78/real-world-backend-architecture-patterns-you-should-know-17kd)
+- [Great Vue example project](https://dev.to/dbavedb/great-vue-example-project-51g3)
+- [What is NER in NLP? Real-World Examples and Use Cases Using Python and spaCy](https://dev.to/datatoinfinity/what-is-ner-in-nlp-real-world-examples-and-use-cases-using-python-and-spacy-7ik)
+- [UGC vs. AIGC vs. AI-UGC](https://dev.to/synergy_shock/ugc-vs-aigc-vs-ai-ugc-3anm)
+- [AI-Powered Image Prompt Generator for Faster App Creation](https://dev.to/kakra/ai-powered-image-prompt-generator-for-faster-app-creation-408i)
 <!-- BLOG-POST-LIST:END -->
 
 
