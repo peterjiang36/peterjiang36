@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/switch-between-installed-php-versions-on-linux-5752)
-- [How to Switch Between Installed PHP Versions on Linux](https://dev.to/ibrahimalanshor/how-to-switch-between-installed-php-versions-on-linux-jga)
-- [Textractify: AI-Powered Receipt Processing in the Cloud](https://dev.to/omkarsharma2821/textractify-ai-powered-receipt-processing-in-the-cloud-d35)
-- [Terraform Fundamentals: Cognito Identity](https://dev.to/devopsfundamentals/terraform-fundamentals-cognito-identity-3bac)
+- [10 Cool CodePen Demos &lpar;June 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2025-dme)
+- [Un Agente simple para realizar resumen del contenido de sitios web con Embabel](https://dev.to/abadongutierrez/un-agente-simple-para-realizar-resumen-del-contenido-de-sitios-web-con-embabel-11oj)
+- [Can Technology Save Entertainment Voting? Addressing Fraud, Fairness, and the Future](https://dev.to/teknixcorp/can-technology-save-entertainment-voting-addressing-fraud-fairness-and-the-future-n7g)
+- [When Dragons Go Missing: A Tale of URL Parameter Parsing in Phoenix LiveView](https://dev.to/meksquest/when-dragons-go-missing-a-tale-of-url-parameter-parsing-in-phoenix-liveview-224d)
 <!-- BLOG-POST-LIST:END -->
 
 
