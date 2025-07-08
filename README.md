@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Train an AI Model to Understand Time, Date &amp; Location Requests](https://dev.to/olalekan_oladiran_d74b7a6/how-to-train-an-ai-model-to-understand-time-date-location-requests-1197)
-- [Build Your Own Temp Mail Website in Minutes with Our Open-Source Project &amp; API!](https://dev.to/dishis/build-your-own-temp-mail-website-in-minutes-with-our-open-source-project-api-1hcd)
-- [🕵🏽‍♀️ Uncovering the Unseen: My Digital Forensics Journey with Deleted File Recovery](https://dev.to/shirmali/uncovering-the-unseen-my-digital-forensics-journey-with-deleted-file-recovery-50j5)
-- [Update to Apps Script advanced services, Sheets API, and more!](https://dev.to/googleworkspace/update-to-apps-script-advanced-services-sheets-api-and-more-1g2e)
+- [Train an obedient AI! I made a free AI prompt optimizer!](https://dev.to/gagaisyou/train-an-obedient-ai-i-made-a-free-ai-prompt-optimizer-38ln)
+- [Easy Finance AI](https://dev.to/capjud95/easy-finance-ai-10po)
+- [Benefits of Cloud Computing.](https://dev.to/ifeoma_onyegbumark/benefits-of-cloud-computing-137g)
+- [Variáveis em JavaScript](https://dev.to/jeanmfdias/variaveis-em-javascript-1gcp)
 <!-- BLOG-POST-LIST:END -->
 
 
