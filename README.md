@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiplayer Tic Tac Toe Game](https://dev.to/harry_tanama_51571ebf90b6/multiplayer-tic-tac-toe-game-mpn)
-- [Working with DatePicker in Power Pages](https://dev.to/power365tips/working-with-datepicker-in-power-pages-58j)
-- [Shared space for AI builders? We are open to your thoughts!](https://dev.to/agape_aurora_4b5303956dc6/shared-space-for-ai-builders-we-are-open-to-your-thoughts-327p)
-- [Getting Started with Red Hat OpenShift Container Platform for Developers](https://dev.to/sindhuja_ns_1e491ce1088d/getting-started-with-red-hat-openshift-container-platform-for-developers-17a9)
+- [AI Agents Are Rising: What’s Next?](https://dev.to/alifar/ai-agents-are-rising-whats-next-5h2m)
+- [💳 Build a Realistic Editable VISA Card UI with HTML, CSS &amp; JavaScript &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/learncodewithalex/build-a-realistic-editable-visa-card-ui-with-html-css-javascript-step-by-step-tutorial-3lf2)
+- [# Introducing Helpothon: A New Frontier in Social Good for Developers](https://dev.to/helpothon/-introducing-helpothon-a-new-frontier-in-social-good-for-developers-40c6)
+- [[Boost]](https://dev.to/surya2006/-2d34)
 <!-- BLOG-POST-LIST:END -->
 
 
