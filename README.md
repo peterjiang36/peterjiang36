@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Devlog#18: Developing games is our dream, but Mom is the reason we never gave up](https://dev.to/khaisimon_devgame/devlog18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-ng5)
-- [Remote Work as a Necessity: When Tech Jobs Aren&#39;t Where You Live](https://dev.to/accioprocurement/remote-work-as-a-necessity-when-tech-jobs-arent-where-you-live-2gnj)
-- [Released v1.0.0 of a Spring Batch clustering library — pure DB-based coordination, no Kafka, no ZooKeeper. Feedback welcome!](https://dev.to/jchejarla/released-v100-of-a-spring-batch-clustering-library-pure-db-based-coordination-no-kafka-no-1i69)
-- [🧪 From Frustration to Flow: I Built a 1-Click Unsecured Browser Launcher for Developers](https://dev.to/axvrma/from-frustration-to-flow-i-built-a-1-click-unsecured-browser-launcher-for-developers-1567)
+- [How SafeLine WAF Blocks Brute Force Attacks and Protects Your Site](https://dev.to/sharon_42e16b8da44dabde6d/how-safeline-waf-blocks-brute-force-attacks-and-protects-your-site-43k4)
+- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-507h)
+- [Generative AI vs. Deterministic Testing: Why Predictability Matters with Genqe](https://dev.to/anil_csimplifyit_905c/generative-ai-vs-deterministic-testing-why-predictability-matters-with-genqe-2nmi)
+- [WebGPU Engine from Scratch 1: Basic Rendering](https://dev.to/ndesmic/webgpu-engine-from-scratch-1-basic-rendering-51cl)
 <!-- BLOG-POST-LIST:END -->
 
 
