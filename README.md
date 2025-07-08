@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Basic Git Commands](https://dev.to/aerabi/7-basic-git-commands-4h6n)
-- [AI Managed My Job: Here&#39;s What Changed Fast](https://dev.to/sebastian_reid999/ai-managed-my-job-heres-what-changed-fast-58m)
-- [🧮 Don’t Let Outliers Fool You: Introducing `robust-average` for Reliable Price Analysis](https://dev.to/bensha93/dont-let-outliers-fool-you-introducing-robust-average-for-reliable-price-analysis-5fi8)
-- [Pesticides: Separating Fact from Fiction](https://dev.to/sysmaya/pesticides-separating-fact-from-fiction-355j)
+- [Devlog#18: Developing games is our dream, but Mom is the reason we never gave up](https://dev.to/khaisimon_devgame/devlog18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-ng5)
+- [Remote Work as a Necessity: When Tech Jobs Aren&#39;t Where You Live](https://dev.to/accioprocurement/remote-work-as-a-necessity-when-tech-jobs-arent-where-you-live-2gnj)
+- [Released v1.0.0 of a Spring Batch clustering library — pure DB-based coordination, no Kafka, no ZooKeeper. Feedback welcome!](https://dev.to/jchejarla/released-v100-of-a-spring-batch-clustering-library-pure-db-based-coordination-no-kafka-no-1i69)
+- [🧪 From Frustration to Flow: I Built a 1-Click Unsecured Browser Launcher for Developers](https://dev.to/axvrma/from-frustration-to-flow-i-built-a-1-click-unsecured-browser-launcher-for-developers-1567)
 <!-- BLOG-POST-LIST:END -->
 
 
