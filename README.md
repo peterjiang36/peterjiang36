@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Rising: What’s Next?](https://dev.to/alifar/ai-agents-are-rising-whats-next-5h2m)
-- [💳 Build a Realistic Editable VISA Card UI with HTML, CSS &amp; JavaScript &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/learncodewithalex/build-a-realistic-editable-visa-card-ui-with-html-css-javascript-step-by-step-tutorial-3lf2)
-- [# Introducing Helpothon: A New Frontier in Social Good for Developers](https://dev.to/helpothon/-introducing-helpothon-a-new-frontier-in-social-good-for-developers-40c6)
-- [[Boost]](https://dev.to/surya2006/-2d34)
+- [How to Use JSONB in PostgreSQL](https://dev.to/roxana_haidiner/how-to-use-jsonb-in-postgresql-4lne)
+- [Designing a Distributed Cache: Redis and Memcached at Scale](https://dev.to/sgchris/designing-a-distributed-cache-redis-and-memcached-at-scale-1if3)
+- [C# Records and Pattern Matching: Modern Data Modeling](https://dev.to/chakewitz/c-records-and-pattern-matching-modern-data-modeling-4027)
+- [How to Download and Install RecoveryFox AI for Windows](https://dev.to/sempre_libera_f511ef67c1f/how-to-download-and-install-recoveryfox-ai-for-windows-pd6)
 <!-- BLOG-POST-LIST:END -->
 
 
