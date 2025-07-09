@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cassandra vs PostgreSQL: A Developer’s Guide to Choose the Right Database](https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi)
-- [GitFlow Studio – All-in-One Git + Git Flow + GitHub, right in your terminal](https://dev.to/vision2030/gitflow-studio-all-in-one-git-git-flow-github-right-in-your-terminal-4g85)
-- [Developer Experience Revolution](https://dev.to/github-recommend/developer-experience-revolution-55d5)
-- [Set up github work/company email on mac together with your personal github account](https://dev.to/message/set-up-github-workcompany-email-on-mac-together-with-your-personal-github-account-3lda)
+- [Buying Windows 11 Keys in 2025: Best Sellers Reviewed and Ranked](https://dev.to/product_/buying-windows-11-keys-in-2025-best-sellers-reviewed-and-ranked-57l8)
+- [🏗️ From “Ghost Ideas” to Living Projects: My 5-Step Route to Mastering Python 🐍💥](https://dev.to/jeancarje/from-ghost-ideas-to-living-projects-my-5-step-route-to-mastering-python-5aj3)
+- [🚨 “Google Alert: Someone Just Logged In?” — Don’t Fall for the Phishing Trap](https://dev.to/sybersecure/google-alert-someone-just-logged-in-dont-fall-for-the-phishing-trap-3d6m)
+- [Do you remember the first time you saw a computer? 🤔](https://dev.to/canro91/do-you-remember-the-first-time-you-saw-a-computer-4cem)
 <!-- BLOG-POST-LIST:END -->
 
 
