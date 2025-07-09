@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Enterprise Login Flow with CSRF, JWT, Zod &amp; Playwright in Next.js 15](https://dev.to/cedricheijlman/how-i-built-an-enterprise-login-flow-with-csrf-jwt-zod-playwright-in-nextjs-15-4bgm)
-- [NocoBase Commercial License Activation Guide](https://dev.to/nocobase/nocobase-commercial-license-activation-guide-4d0p)
-- [Functional Programming in Web](https://dev.to/github-recommend/functional-programming-in-web-2d1c)
-- [Vue3 reactivity 的大地雷 – API 在背景偷偷送出新的資料](https://dev.to/kueiapp/vue3-reactivity-de-da-di-lei-api-zai-bei-jing-tou-tou-song-chu-xin-de-zi-liao-5bfg)
+- [Running Cron Jobs by Kamal with the Whenever Gem &lpar;The Simple Way&rpar;](https://dev.to/kevinluo201/running-cron-jobs-in-kamal-with-the-whenever-gem-the-simple-way-1bb7)
+- [Coding with Constant Interruptions: A Parent Developer&#39;s Survival Guide](https://dev.to/raisingpixels/coding-with-constant-interruptions-a-parent-developers-survival-guide-34ba)
+- [Personal Picks: Data Product News &lpar;July 9, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-july-9-2025-1ghk)
+- [Umemura Farm Website – Devlog #30: Fixing Link Errors, Button Unification, and More UI Enhancements in Next.js](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-30-fixing-link-errors-button-unification-and-more-ui-54gp)
 <!-- BLOG-POST-LIST:END -->
 
 
