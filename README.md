@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Build It Better: Real-World AI Coding with GitHub Copilot](https://dev.to/anchildress11/build-it-better-real-world-ai-coding-with-github-copilot-1d47)
-- [Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
-- [How to Handle Forms in JavaScript &lpar;Without Reloading the Page&rpar;](https://dev.to/giftintech/how-to-handle-forms-in-javascript-without-reloading-the-page-2265)
-- [🚀 How I Built, &amp; Deployed My Portfolio Site With Docker, AWS ECR, ECS-FARGATE, Terraform &amp; Spacelift.](https://dev.to/akingbade_omosebi/how-i-built-deployed-my-portfolio-site-with-docker-aws-ecr-ecs-fargate-terraform--34ce)
+- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
+- [AI and Art: Bold New Canvas or Culture Clash?](https://dev.to/sebastian_reid999/ai-and-art-bold-new-canvas-or-culture-clash-17fm)
+- [Linus Torvalds – The Reluctant Revolutionary Who Changed Everything](https://dev.to/jliter/linus-torvalds-the-reluctant-revolutionary-who-changed-everything-9n6)
+- [Less Javascript. More Performance - Have you wondered ever on this topic? Just posted my thoughts on how Astro can help you achieve that in a true sense](https://dev.to/istealersn_dev/less-javascript-more-performance-have-you-wondered-ever-on-this-topic-just-posted-my-thoughts-10if)
 <!-- BLOG-POST-LIST:END -->
 
 
