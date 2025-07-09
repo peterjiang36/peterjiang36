@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v334](https://dev.to/devteam/welcome-thread-v334-53mp)
-- [🐨Beginner-Friendly Guide &quot;Maximize Free Time by Rescheduling Meetings&quot; – LeetCode 3439 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-free-time-by-rescheduling-meetings-leetcode-3439-c--299l)
-- [Time Intelligence Functions &lpar;DAX&rpar;](https://dev.to/johnkyalo/time-intelligence-functions-dax-5h6d)
-- [CSS `color-mix&lpar;&rpar;` Function](https://dev.to/drprime01/css-color-mix-function-34jh)
+- [VPS Management made easy with Nixopus](https://dev.to/zhravan/vps-management-made-easy-with-nixopus-1fop)
+- [Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams](https://dev.to/pratham_naik_project_manager/-5ca8)
+- [Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams](https://dev.to/teamcamp/async-first-how-7-remote-dev-teams-ship-faster-than-office-teams-1jil)
+- [Development Environment Optimization](https://dev.to/github-recommend/development-environment-optimization-2650)
 <!-- BLOG-POST-LIST:END -->
 
 
