@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Security Checklist I Use for Every Website I Build](https://dev.to/arbythecoder/the-security-checklist-i-use-for-every-website-i-build-4321)
-- [Ulance, NothingNess; Expectance %%](https://dev.to/taste_crafter/ulance-nothingness-expectance--2k7k)
-- [Brevity](https://dev.to/oculus42/brevity-2ljp)
-- [Programming Entry Level: beginner text editor](https://dev.to/devopsfundamentals/programming-entry-level-beginner-text-editor-58b3)
+- [My first day!](https://dev.to/darwintech/my-first-day-416b)
+- [Distributed Computing Framework](https://dev.to/github-recommend/distributed-computing-framework-3l9e)
+- [Perfect Combination of Message Queue and Real-Time Communication Distributed Practice](https://dev.to/github-recommend/perfect-combination-of-message-queue-and-real-time-communication-distributed-practice-5a46)
+- [Build &amp; Launch SPL Tokens Instantly on Solana – My Dev Journey with Token-2022](https://dev.to/_rishu_raj/build-launch-spl-tokens-instantly-on-solana-my-dev-journey-with-token-2022-4ao8)
 <!-- BLOG-POST-LIST:END -->
 
 
