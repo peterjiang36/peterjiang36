@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ASIC Miner vs PC Build: Why They&#39;re More Alike Than You Think](https://dev.to/rune8bit/asic-miner-vs-pc-build-why-theyre-more-alike-than-you-think-3j6j)
-- [Student Project Management Guide](https://dev.to/github-recommend/student-project-management-guide-4l33)
-- [# Wireshark: The Basics — TryHackMe Walkthrough](https://dev.to/lucky-cyber3008/-wireshark-the-basics-tryhackme-walkthrough-1546)
-- [AI Tools Every Developer Should Know in 2025](https://dev.to/alifar/ai-tools-every-developer-should-know-in-2025-3h3o)
+- [Scraping Twitter in 2025: A Developer&#39;s Guide to Surviving the API Apocalypse](https://dev.to/sivarampg/scraping-twitter-in-2025-a-developers-guide-to-surviving-the-api-apocalypse-5bbd)
+- [Why delaying your CMS Upgrade costs more than you think](https://dev.to/flotiq/why-delaying-your-cms-upgrade-costs-more-than-you-think-c1k)
+- [Devlog#1 SlideMD](https://dev.to/kongsakchai/devlog1-slidemd-422f)
+- [✨ Build Your Own Developer Avatar with Google AI Studio — My Submission for the DEV Education Track](https://dev.to/om_shree_0709/build-your-own-developer-avatar-with-google-ai-studio-my-submission-for-the-dev-education-track-3hj4)
 <!-- BLOG-POST-LIST:END -->
 
 
