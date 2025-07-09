@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Gemini Figure Out the Ultimate Question: 100 Men Versus a Gorilla — Who Would Win?](https://dev.to/ansellmaximilian/can-gemini-figure-out-the-ultimate-question-100-men-versus-a-gorilla-who-would-win-475h)
-- [Speed Up Your Next.js App: Optimizing S3 Images with Cloudflare Images](https://dev.to/u11d/speed-up-your-nextjs-app-optimizing-s3-images-with-cloudflare-images-1h67)
-- [Hello, World!](https://dev.to/lucaster/hello-world-2cjl)
-- [Benefits of Working From Home: Why Remote Work Is the Future of Productivity](https://dev.to/teamcamp/benefits-of-working-from-home-why-remote-work-is-the-future-of-productivity-16f2)
+- [ASIC Miner vs PC Build: Why They&#39;re More Alike Than You Think](https://dev.to/rune8bit/asic-miner-vs-pc-build-why-theyre-more-alike-than-you-think-3j6j)
+- [Student Project Management Guide](https://dev.to/github-recommend/student-project-management-guide-4l33)
+- [# Wireshark: The Basics — TryHackMe Walkthrough](https://dev.to/lucky-cyber3008/-wireshark-the-basics-tryhackme-walkthrough-1546)
+- [AI Tools Every Developer Should Know in 2025](https://dev.to/alifar/ai-tools-every-developer-should-know-in-2025-3h3o)
 <!-- BLOG-POST-LIST:END -->
 
 
