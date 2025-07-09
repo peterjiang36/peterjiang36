@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My config pain turned into a micro SaaS: the story behind togglit](https://dev.to/guna_sheelan_0b5b852779a1/my-config-pain-turned-into-a-micro-saas-the-story-behind-togglit-5c57)
-- [AI and Art: Bold New Canvas or Culture Clash?](https://dev.to/sebastian_reid999/ai-and-art-bold-new-canvas-or-culture-clash-17fm)
-- [Linus Torvalds – The Reluctant Revolutionary Who Changed Everything](https://dev.to/jliter/linus-torvalds-the-reluctant-revolutionary-who-changed-everything-9n6)
-- [Less Javascript. More Performance - Have you wondered ever on this topic? Just posted my thoughts on how Astro can help you achieve that in a true sense](https://dev.to/istealersn_dev/less-javascript-more-performance-have-you-wondered-ever-on-this-topic-just-posted-my-thoughts-10if)
+- [&quot;Operator overload? Not Anymore - JS Operators Made Easy!&quot;](https://dev.to/praveena_2109/operator-overload-not-anymore-js-operators-made-easy-3514)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-n98)
+- [Compiled Vs Interpreted Language](https://dev.to/sevaki_rajasekar_700822f9/compiled-vs-interpreted-language-5am3)
+- [Bidirectional Communication Protocols](https://dev.to/github-recommend/bidirectional-communication-protocols-n8c)
 <!-- BLOG-POST-LIST:END -->
 
 
