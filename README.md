@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Twitter in 2025: A Developer&#39;s Guide to Surviving the API Apocalypse](https://dev.to/sivarampg/scraping-twitter-in-2025-a-developers-guide-to-surviving-the-api-apocalypse-5bbd)
-- [Why delaying your CMS Upgrade costs more than you think](https://dev.to/flotiq/why-delaying-your-cms-upgrade-costs-more-than-you-think-c1k)
-- [Devlog#1 SlideMD](https://dev.to/kongsakchai/devlog1-slidemd-422f)
-- [✨ Build Your Own Developer Avatar with Google AI Studio — My Submission for the DEV Education Track](https://dev.to/om_shree_0709/build-your-own-developer-avatar-with-google-ai-studio-my-submission-for-the-dev-education-track-3hj4)
+- [🤖 What is Artificial Intelligence? A Simple Guide for Beginners](https://dev.to/ai_explainedpro/what-is-artificial-intelligence-a-simple-guide-for-beginners-1im0)
+- [[Boost]](https://dev.to/asphalt_gaming_a303c6ecf5/-13c8)
+- [Microservices Architecture Design](https://dev.to/github-recommend/microservices-architecture-design-a30)
+- [MVI Architecture in SwiftUI: A Complete Guide to Model-View-Intent Pattern &lpar;2025&rpar;](https://dev.to/swift_pal/mvi-architecture-in-swiftui-a-complete-guide-to-model-view-intent-pattern-2025-4c8)
 <!-- BLOG-POST-LIST:END -->
 
 
