@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Agency Internships for Social Media Marketing Training](https://dev.to/techverdi/top-agency-internships-for-social-media-marketing-training-6oe)
-- [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
-- [Send Automated SMS Alerts Using Net2Phone and Python](https://dev.to/alex_deg/send-automated-sms-alerts-using-net2phone-and-python-28ej)
-- [Serverless Mastery: A Comprehensive Guide to AWS Lambda and Snapshot](https://dev.to/christiana_orji/serverless-mastery-a-comprehensive-guide-to-aws-lambda-and-snapshot-369)
+- [⚙️ Build It Better: Real-World AI Coding with GitHub Copilot](https://dev.to/anchildress11/build-it-better-real-world-ai-coding-with-github-copilot-1d47)
+- [Sonar Exporter: Solving SonarQube&#39;s Report Export Problem with Next.js](https://dev.to/fonteeboa/sonar-exporter-solving-sonarqubes-report-export-problem-with-nextjs-a5e)
+- [How to Handle Forms in JavaScript &lpar;Without Reloading the Page&rpar;](https://dev.to/giftintech/how-to-handle-forms-in-javascript-without-reloading-the-page-2265)
+- [🚀 How I Built, &amp; Deployed My Portfolio Site With Docker, AWS ECR, ECS-FARGATE, Terraform &amp; Spacelift.](https://dev.to/akingbade_omosebi/how-i-built-deployed-my-portfolio-site-with-docker-aws-ecr-ecs-fargate-terraform--34ce)
 <!-- BLOG-POST-LIST:END -->
 
 
