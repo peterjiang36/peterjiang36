@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v334](https://dev.to/devteam/welcome-thread-v334-53mp)
+- [🐨Beginner-Friendly Guide &quot;Maximize Free Time by Rescheduling Meetings&quot; – LeetCode 3439 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximize-free-time-by-rescheduling-meetings-leetcode-3439-c--299l)
+- [Time Intelligence Functions &lpar;DAX&rpar;](https://dev.to/johnkyalo/time-intelligence-functions-dax-5h6d)
 - [CSS `color-mix&lpar;&rpar;` Function](https://dev.to/drprime01/css-color-mix-function-34jh)
-- [How does using asynchronous I/O improve the speed of applications that frequently write data to disk, and what are the pitfalls?](https://dev.to/adityabhuyan/how-does-using-asynchronous-io-improve-the-speed-of-applications-that-frequently-write-data-to-47k)
-- [How to choose language programming for tech interview](https://dev.to/harisalghifary/how-to-choose-language-programming-for-tech-interview-4oh7)
-- [Configuration Management Evolution](https://dev.to/github-recommend/configuration-management-evolution-13jo)
 <!-- BLOG-POST-LIST:END -->
 
 
