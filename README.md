@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Operator overload? Not Anymore - JS Operators Made Easy!&quot;](https://dev.to/praveena_2109/operator-overload-not-anymore-js-operators-made-easy-3514)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-n98)
-- [Compiled Vs Interpreted Language](https://dev.to/sevaki_rajasekar_700822f9/compiled-vs-interpreted-language-5am3)
-- [Bidirectional Communication Protocols](https://dev.to/github-recommend/bidirectional-communication-protocols-n8c)
+- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2ngi)
+- [CinemaSins: Is that REALLY the old-fashioned way? #roadhouse #cinemasins](https://dev.to/popcorn_movies/cinemasins-is-that-really-the-old-fashioned-way-roadhouse-cinemasins-3gba)
+- [CinemaSins: Disgusting! #austinpowers #cinemasins](https://dev.to/popcorn_movies/cinemasins-disgusting-austinpowers-cinemasins-31ha)
+- [CinemaSins: Remember the 2015 Super Bowl? #nimona #cinemasins](https://dev.to/popcorn_movies/cinemasins-remember-the-2015-super-bowl-nimona-cinemasins-5g1j)
 <!-- BLOG-POST-LIST:END -->
 
 
