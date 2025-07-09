@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Jaws 2&#39; With Bill Simmons, Chris Ryan, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-jaws-2-with-bill-simmons-chris-ryan-and-sean-fennessey-the-rewatchables-2ngi)
-- [CinemaSins: Is that REALLY the old-fashioned way? #roadhouse #cinemasins](https://dev.to/popcorn_movies/cinemasins-is-that-really-the-old-fashioned-way-roadhouse-cinemasins-3gba)
-- [CinemaSins: Disgusting! #austinpowers #cinemasins](https://dev.to/popcorn_movies/cinemasins-disgusting-austinpowers-cinemasins-31ha)
-- [CinemaSins: Remember the 2015 Super Bowl? #nimona #cinemasins](https://dev.to/popcorn_movies/cinemasins-remember-the-2015-super-bowl-nimona-cinemasins-5g1j)
+- [Cassandra vs PostgreSQL: A Developer’s Guide to Choose the Right Database](https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi)
+- [GitFlow Studio – All-in-One Git + Git Flow + GitHub, right in your terminal](https://dev.to/vision2030/gitflow-studio-all-in-one-git-git-flow-github-right-in-your-terminal-4g85)
+- [Developer Experience Revolution](https://dev.to/github-recommend/developer-experience-revolution-55d5)
+- [Set up github work/company email on mac together with your personal github account](https://dev.to/message/set-up-github-workcompany-email-on-mac-together-with-your-personal-github-account-3lda)
 <!-- BLOG-POST-LIST:END -->
 
 
