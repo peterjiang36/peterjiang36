@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My first day!](https://dev.to/darwintech/my-first-day-416b)
-- [Distributed Computing Framework](https://dev.to/github-recommend/distributed-computing-framework-3l9e)
-- [Perfect Combination of Message Queue and Real-Time Communication Distributed Practice](https://dev.to/github-recommend/perfect-combination-of-message-queue-and-real-time-communication-distributed-practice-5a46)
-- [Build &amp; Launch SPL Tokens Instantly on Solana – My Dev Journey with Token-2022](https://dev.to/_rishu_raj/build-launch-spl-tokens-instantly-on-solana-my-dev-journey-with-token-2022-4ao8)
+- [How I Built an Enterprise Login Flow with CSRF, JWT, Zod &amp; Playwright in Next.js 15](https://dev.to/cedricheijlman/how-i-built-an-enterprise-login-flow-with-csrf-jwt-zod-playwright-in-nextjs-15-4bgm)
+- [NocoBase Commercial License Activation Guide](https://dev.to/nocobase/nocobase-commercial-license-activation-guide-4d0p)
+- [Functional Programming in Web](https://dev.to/github-recommend/functional-programming-in-web-2d1c)
+- [Vue3 reactivity 的大地雷 – API 在背景偷偷送出新的資料](https://dev.to/kueiapp/vue3-reactivity-de-da-di-lei-api-zai-bei-jing-tou-tou-song-chu-xin-de-zi-liao-5bfg)
 <!-- BLOG-POST-LIST:END -->
 
 
