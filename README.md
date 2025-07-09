@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Cron Jobs by Kamal with the Whenever Gem &lpar;The Simple Way&rpar;](https://dev.to/kevinluo201/running-cron-jobs-in-kamal-with-the-whenever-gem-the-simple-way-1bb7)
-- [Coding with Constant Interruptions: A Parent Developer&#39;s Survival Guide](https://dev.to/raisingpixels/coding-with-constant-interruptions-a-parent-developers-survival-guide-34ba)
-- [Personal Picks: Data Product News &lpar;July 9, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-july-9-2025-1ghk)
-- [Umemura Farm Website – Devlog #30: Fixing Link Errors, Button Unification, and More UI Enhancements in Next.js](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-30-fixing-link-errors-button-unification-and-more-ui-54gp)
+- [CSS `color-mix&lpar;&rpar;` Function](https://dev.to/drprime01/css-color-mix-function-34jh)
+- [How does using asynchronous I/O improve the speed of applications that frequently write data to disk, and what are the pitfalls?](https://dev.to/adityabhuyan/how-does-using-asynchronous-io-improve-the-speed-of-applications-that-frequently-write-data-to-47k)
+- [How to choose language programming for tech interview](https://dev.to/harisalghifary/how-to-choose-language-programming-for-tech-interview-4oh7)
+- [Configuration Management Evolution](https://dev.to/github-recommend/configuration-management-evolution-13jo)
 <!-- BLOG-POST-LIST:END -->
 
 
