@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐢 Slow is Smooth, Smooth is Fast](https://dev.to/cdownard/slow-is-smooth-smooth-is-fast-3mfe)
-- [IEx: Elixir&#39;s Interactive Shell](https://dev.to/muzhawir/iex-elixirs-interactive-shell-1hbk)
-- [🚀Building with Bolt: How I Created Smile2Earn](https://dev.to/shree_chavan_62c390737b6e/building-with-bolt-how-i-created-smile2earn-3e8g)
-- [🚀 Wrapping Up My GitLab CI/CD Journey with 2 Real Projects](https://dev.to/vishal_09/wrapping-up-my-gitlab-cicd-journey-with-2-real-projects-iog)
+- [From Chaos to Control: GitHub Rule Sets and Workflows for Safer AWS Deployments](https://dev.to/domderrien/from-chaos-to-control-github-rule-sets-and-workflows-for-safer-aws-deployments-3jm0)
+- [🚀 Convert JSON to Clean HTML Instantly – Feedback Wanted!](https://dev.to/devops_aladin_3d1a9d005ab/convert-json-to-clean-html-instantly-feedback-wanted-486)
+- [Full Stack Learning : Day 2 Insights](https://dev.to/vidya_varshini/full-stack-learning-day-2-insights-30mh)
+- [logical programming exercises](https://dev.to/_cblas/logical-programming-exercises-4ka0)
 <!-- BLOG-POST-LIST:END -->
 
 
