@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# How to Investigate a Compromised Linux Server](https://dev.to/farzandev13/-how-to-investigate-a-compromised-linux-server-1f78)
-- [Top 5 Code-Level Techniques to Handle High Traffic in Spring Boot: Part 1](https://dev.to/abhijithzero/top-5-code-level-techniques-to-handle-high-traffic-in-spring-boot-part-1-29en)
-- [JavaScript Map - Explicação detalhada, casos e exemplos de uso](https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j)
-- [Platform Engineering Hands-on Lab #1: Creating Crossplane Configuration Packages for Keycloak on AWS](https://dev.to/segoja7/platform-engineering-hands-on-lab-1-creating-crossplane-configuration-packages-for-keycloak-on-aws-boe)
+- [DiParrot: The Low-Maintenance Pet Skill](https://dev.to/owly/diparrot-the-low-maintenance-pet-skill-35hf)
+- [If Kubernetes Runs in F-16 Fighter Jets, Why Are You Still Scared to Use It in Your Business?](https://dev.to/donjay/if-kubernetes-runs-in-f-16-fighter-jets-why-are-you-still-scared-to-use-it-in-your-business-54ea)
+- [Build an AI Agent for Airbnb Hosting with n8n - Read the Full Article](https://dev.to/corpcubite/build-an-ai-agent-for-airbnb-hosting-with-n8n-read-the-full-article-29n6)
+- [Thanos TSDB: How Default Configurations Can Lead to Silent Data Loss](https://dev.to/julienlau/thanos-tsdb-how-default-configurations-can-lead-to-silent-data-loss-57jh)
 <!-- BLOG-POST-LIST:END -->
 
 
