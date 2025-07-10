@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Asynchronous JavaScript Interview Questions &lpar;2025&rpar;](https://dev.to/wynnt3o/top-asynchronous-javascript-interview-questions-2025-16ak)
-- [☣︎ Beginner-Friendly Guide: &quot;Reschedule Meetings for Maximum Free Time II&quot; – LeetCode 3440 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reschedule-meetings-for-maximum-free-time-ii-leetcode-3440-c--12me)
-- [The Builder Design Pattern in Java](https://dev.to/wkreuch/the-builder-design-pattern-in-java-167l)
-- [🚀 404ffice: The Time-Traveling Intranet](https://dev.to/tanvirmulla11/404ffice-the-time-traveling-intranet-reimagining-office-culture-through-the-decades-28da)
+- [🔥 How to Stay Relevant in 2025: Mastering Modern Skills for the Future Job Market](https://dev.to/er-raj-aryan/how-to-stay-relevant-in-2025-mastering-modern-skills-for-the-future-job-market-3nc2)
+- [Umemura Farm Website – Devlog #31: Performance Optimization and Code Refinement in My Next.js Project](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-31-performance-optimization-and-code-refinement-in-my-nextjs-561g)
+- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-2dmp)
+- [Tornando as portas do DevContainer disponíveis localmente com forwardPorts](https://dev.to/videosdeti/tornando-as-portas-do-devcontainer-disponiveis-localmente-com-forwardports-453f)
 <!-- BLOG-POST-LIST:END -->
 
 
