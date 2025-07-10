@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs: Own your growth — or regret it later](https://dev.to/_ndeyefatoudiop/devs-own-your-growth-or-regret-it-later-ooj)
-- [Token Delegation and MCP server orchestration for multi-user AI systems](https://dev.to/stacklok/token-delegation-and-mcp-server-orchestration-for-multi-user-ai-systems-3gbi)
-- [The Downside of Poorly Designed Delivery Agent Apps: Slower, Inaccurate &amp; Inefficient](https://dev.to/cqlsystechnologies/the-downside-of-poorly-designed-delivery-agent-apps-slower-inaccurate-inefficient-1n72)
-- [The Next Evolution of BI: From Dashboards to Vibe Interfaces](https://dev.to/powerdrill_ai/the-next-evolution-of-bi-from-dashboards-to-vibe-interfaces-2b08)
+- [Asset Tracking: Knowing Where Everything Is](https://dev.to/prapti_b7389e1e574f41f40a/asset-tracking-knowing-where-everything-is-1ikd)
+- [Google Play Console Rejects Flutter App with targetSdkVersion 34](https://dev.to/flavdev23/google-play-console-rejects-flutter-app-with-targetsdkversion-34-1nno)
+- [Email API Integration Assistant](https://dev.to/emailguru/email-api-integration-assistant-3ah8)
+- [Asynchronous programming in Javascript](https://dev.to/bilal_haider_697f82e123f3/asynchronous-programming-in-javascript-32fl)
 <!-- BLOG-POST-LIST:END -->
 
 
