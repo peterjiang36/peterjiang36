@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ever wondered how AI is quietly reshaping the world of software testing?](https://dev.to/shrinithi/ever-wondered-how-ai-is-quietly-reshaping-the-world-of-software-testing-2a3d)
-- [My Project: &quot;EcoRoute - Sustainable Navigation&quot;](https://dev.to/cuervo279/my-project-ecoroute-sustainable-navigation-3pap)
-- [Building AI VoiceCoach with Bolt.new: My Hackathon Journey](https://dev.to/shiva_shanker_k/building-ai-voicecoach-with-boltnew-my-hackathon-journey-4kj7)
-- [🧠 2 Easy Ways to Rename a Git Commit Message &lpar;GUI or CLI&rpar;](https://dev.to/kaleemelahi/2-easy-ways-to-rename-a-git-commit-message-gui-or-cli-5fbk)
+- [🎉 Clasyn just got its first 3 users — and that’s honestly wild to me](https://dev.to/elias_djama_539903ef886ad/clasyn-just-got-its-first-3-users-and-thats-honestly-wild-to-me-48j8)
+- [What does Bloody Mary taste like? I wrote an educational scaremonger virus for cybersecurity specialists.](https://dev.to/toxy4ny/what-does-bloody-mary-taste-like-i-wrote-an-educational-scaremonger-virus-for-cybersecurity-1kfj)
+- [ASP.NET Core 8 + Angular 20 + SQL Server: Full Stack App Tutorial](https://dev.to/djamware_tutorial_eba1a61/aspnet-core-8-angular-20-sql-server-full-stack-app-tutorial-56mb)
+- [From Zero to Deployed: A Step-by-Step Guide to Building a Full-Stack App with React Router and Cloudflare](https://dev.to/atman33/from-zero-to-deployed-a-step-by-step-guide-to-building-a-full-stack-app-with-react-router-and-3efl)
 <!-- BLOG-POST-LIST:END -->
 
 
