@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create ER Diagrams for PostgreSQL with a Free Design Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-postgresql-with-a-free-design-tool-4pjo)
-- [SQL REPLACE Function: Quick Guide with Real Examples](https://dev.to/dbvismarketing/sql-replace-function-quick-guide-with-real-examples-l6j)
-- [STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management](https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4)
-- [Behind Every High-Performing Magento Store Is an Invisible Dev Team](https://dev.to/navigate_commerce/behind-every-high-performing-magento-store-is-an-invisible-dev-team-569g)
+- [Is an All-in-One Docker Image Really a Bad Idea?](https://dev.to/adam-banaszkiewicz/is-an-all-in-one-docker-image-really-a-bad-idea-26a8)
+- [I Left My 9–5 to Freelance — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/muzammil_mughal_18d97e834/i-left-my-9-5-to-freelance-heres-what-i-wish-i-knew-before-starting-dg7)
+- [Angular Basics: How To Get the Value of a Selected Dropdown Menu Item](https://dev.to/progresstelerik/angular-basics-how-to-get-the-value-of-a-selected-dropdown-menu-item-18ea)
+- [Google&#39;s Next-Gen Most Capable Gemma 3 Model That Runs on a Single GPU - Proje Defteri](https://dev.to/projedefteri/googles-next-gen-most-capable-gemma-3-model-that-runs-on-a-single-gpu-proje-defteri-16ke)
 <!-- BLOG-POST-LIST:END -->
 
 
