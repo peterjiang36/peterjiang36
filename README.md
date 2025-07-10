@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity Comet, Dia Browser, and Opera Neon - How Agentic Browsers Will Change The Web](https://dev.to/pullflow/perplexity-comet-dia-browser-and-opera-neon-how-agentic-browsers-will-change-the-web-3cbc)
-- [No Laying Up Podcast: Everyone Only: The Gimme Golf Club Origin Story | NLU Pod, Ep 1033](https://dev.to/youtube_golf/no-laying-up-podcast-everyone-only-the-gimme-golf-club-origin-story-nlu-pod-ep-1033-i7k)
-- [No Laying Up Podcast: 2025 Mid-Year Goals Check-In | Trap Draw, Ep 348](https://dev.to/youtube_golf/no-laying-up-podcast-2025-mid-year-goals-check-in-trap-draw-ep-348-55ei)
-- [No Laying Up Podcast: 2025 Mid-Year GHIN Rewind | NLU Pod, Ep 1034](https://dev.to/youtube_golf/no-laying-up-podcast-2025-mid-year-ghin-rewind-nlu-pod-ep-1034-4j32)
+- [How API client automation can save you hours in development](https://dev.to/logrocket/how-api-client-automation-can-save-you-hours-in-development-3gbh)
+- [YouTube channel mirror on Jekyll - part 4](https://dev.to/solvecomputerscience/youtube-channel-mirror-on-jekyll-part-4-4jbm)
+- [How to Bridge Networks in Docker Compose &lpar;`docker-compose.yml`&rpar;](https://dev.to/lovestaco/how-to-bridge-networks-in-docker-compose-docker-composeyml-1i03)
+- [How to Deploy a Windows Server 2022 Domain Controller with VirtualBox Manager](https://dev.to/ibrahimbioabu/how-to-deploy-a-windows-server-2022-domain-controller-with-virtualbox-manager-5dpn)
 <!-- BLOG-POST-LIST:END -->
 
 
