@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to contribute to Moodle?](https://dev.to/szabgab/how-to-contribute-to-moodle-2494)
-- [AI Agent Frameworks Are Blowing Up — Here Are the Top 10 for Developers in 2025](https://dev.to/therealmrmumba/ai-agent-frameworks-are-blowing-up-here-are-the-top-10-for-developers-in-2025-9aj)
-- [[Boost]](https://dev.to/pintusingh28/-8pp)
-- [Must Read Blog](https://dev.to/codewithsuhani/-22pj)
+- [Create ER Diagrams for PostgreSQL with a Free Design Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-postgresql-with-a-free-design-tool-4pjo)
+- [SQL REPLACE Function: Quick Guide with Real Examples](https://dev.to/dbvismarketing/sql-replace-function-quick-guide-with-real-examples-l6j)
+- [STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management](https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4)
+- [Behind Every High-Performing Magento Store Is an Invisible Dev Team](https://dev.to/navigate_commerce/behind-every-high-performing-magento-store-is-an-invisible-dev-team-569g)
 <!-- BLOG-POST-LIST:END -->
 
 
