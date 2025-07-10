@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Cyberpunk: Edgerunners&#39; Season 2 Announced](https://dev.to/popcorn_tv/cyberpunk-edgerunners-season-2-announced-574o)
-- [Craig Robinson Makes Surprise Announcement: “I&#39;m Officially Quitting Comedy”](https://dev.to/popcorn_tv/craig-robinson-makes-surprise-announcement-im-officially-quitting-comedy-5h7c)
-- [&#39;Tiny Chef Show&#39; “saved” after viral cancellation and fundraising efforts as creators confirm return](https://dev.to/popcorn_tv/tiny-chef-show-saved-after-viral-cancellation-and-fundraising-efforts-as-creators-confirm-return-3hbd)
-- [Peak went from a canceled game that couldn&#39;t get funding to selling millions on Steam](https://dev.to/gg_news/peak-went-from-a-canceled-game-that-couldnt-get-funding-to-selling-millions-on-steam-i40)
+- [⚖️ Proof of Stake Explained: Ethereum’s Guardians of the Blockchain](https://dev.to/githaiga22/proof-of-stake-explained-ethereums-guardians-of-the-blockchain-fpn)
+- [The Rise of AI Testing in Modern QA](https://dev.to/ronika_kashyap/the-rise-of-ai-testing-in-modern-qa-db2)
+- [How to Scale Content Creation Without Hiring a Full Team](https://dev.to/dux-soup-coupons/how-to-scale-content-creation-without-hiring-a-full-team-43hp)
+- [Hello Mage rattaram yaluwe](https://dev.to/indunil/hello-mage-rattaram-yaluwe-5ef5)
 <!-- BLOG-POST-LIST:END -->
 
 
