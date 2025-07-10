@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Clasyn just got its first 3 users — and that’s honestly wild to me](https://dev.to/elias_djama_539903ef886ad/clasyn-just-got-its-first-3-users-and-thats-honestly-wild-to-me-48j8)
-- [What does Bloody Mary taste like? I wrote an educational scaremonger virus for cybersecurity specialists.](https://dev.to/toxy4ny/what-does-bloody-mary-taste-like-i-wrote-an-educational-scaremonger-virus-for-cybersecurity-1kfj)
-- [ASP.NET Core 8 + Angular 20 + SQL Server: Full Stack App Tutorial](https://dev.to/djamware_tutorial_eba1a61/aspnet-core-8-angular-20-sql-server-full-stack-app-tutorial-56mb)
-- [From Zero to Deployed: A Step-by-Step Guide to Building a Full-Stack App with React Router and Cloudflare](https://dev.to/atman33/from-zero-to-deployed-a-step-by-step-guide-to-building-a-full-stack-app-with-react-router-and-3efl)
+- [&#39;Cyberpunk: Edgerunners&#39; Season 2 Announced](https://dev.to/popcorn_tv/cyberpunk-edgerunners-season-2-announced-574o)
+- [Craig Robinson Makes Surprise Announcement: “I&#39;m Officially Quitting Comedy”](https://dev.to/popcorn_tv/craig-robinson-makes-surprise-announcement-im-officially-quitting-comedy-5h7c)
+- [&#39;Tiny Chef Show&#39; “saved” after viral cancellation and fundraising efforts as creators confirm return](https://dev.to/popcorn_tv/tiny-chef-show-saved-after-viral-cancellation-and-fundraising-efforts-as-creators-confirm-return-3hbd)
+- [Peak went from a canceled game that couldn&#39;t get funding to selling millions on Steam](https://dev.to/gg_news/peak-went-from-a-canceled-game-that-couldnt-get-funding-to-selling-millions-on-steam-i40)
 <!-- BLOG-POST-LIST:END -->
 
 
