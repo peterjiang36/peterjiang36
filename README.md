@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is an All-in-One Docker Image Really a Bad Idea?](https://dev.to/adam-banaszkiewicz/is-an-all-in-one-docker-image-really-a-bad-idea-26a8)
-- [I Left My 9–5 to Freelance — Here&#39;s What I Wish I Knew Before Starting](https://dev.to/muzammil_mughal_18d97e834/i-left-my-9-5-to-freelance-heres-what-i-wish-i-knew-before-starting-dg7)
-- [Angular Basics: How To Get the Value of a Selected Dropdown Menu Item](https://dev.to/progresstelerik/angular-basics-how-to-get-the-value-of-a-selected-dropdown-menu-item-18ea)
-- [Google&#39;s Next-Gen Most Capable Gemma 3 Model That Runs on a Single GPU - Proje Defteri](https://dev.to/projedefteri/googles-next-gen-most-capable-gemma-3-model-that-runs-on-a-single-gpu-proje-defteri-16ke)
+- [Creative Full-Screen Photography Slider](https://dev.to/creative_salahu/creative-full-screen-photography-slider-3155)
+- [Come ho creato TrovaMi.pro con l’AI &lpar;in 48 ore&rpar;](https://dev.to/drilonhametaj25/come-ho-creato-trovamipro-con-lai-in-48-ore-kbo)
+- [How did you manage to create graphs or visuals back in the day with limited resources like line printers and FORTRAN?](https://dev.to/adityabhuyan/how-did-you-manage-to-create-graphs-or-visuals-back-in-the-day-with-limited-resources-like-line-3ole)
+- [When Millions Need Answers: Building Sub-50ms Search for Unstructured Data](https://dev.to/schiffer_kate_18420bf9766/when-millions-need-answers-building-sub-50ms-search-for-unstructured-data-3p2k)
 <!-- BLOG-POST-LIST:END -->
 
 
