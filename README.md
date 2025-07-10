@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use](https://dev.to/tatcode/dashboard-template-with-html-css-js-bootstrap-5-clean-modular-ready-to-use-1do9)
-- [Build Your First Web Page](https://dev.to/joyobaidu/build-your-first-web-page-5hn8)
-- [9 Open Source Tools Every Developer Should Know🔥](https://dev.to/anthonymax/9-open-source-tools-every-developer-should-know-25b2)
-- [Docker Deep Dive Workshop at WeAreDevelopers](https://dev.to/docker/docker-deep-dive-workshop-at-wearedevelopers-110c)
+- [Faculdade ou Certificação? O Melhor Caminho na Área de TI](https://dev.to/edesantomaz/faculdade-ou-certificacao-o-melhor-caminho-na-area-de-ti-29el)
+- [Stop Waiting on Windows Explorer: Meet snub — A Suspiciously Fast Recursive File Search Tool](https://dev.to/seeyebe/stop-waiting-on-windows-explorer-meet-snub-a-suspiciously-fast-recursive-file-search-tool-2gha)
+- [Qual a importância da Certificação? 💼](https://dev.to/edesantomaz/qual-a-importancia-da-certificacao-3p62)
+- [Single Inheritence](https://dev.to/infanta_mano_0c36865b3d79/single-inheritence-3idb)
 <!-- BLOG-POST-LIST:END -->
 
 
