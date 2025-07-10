@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 How to Stay Relevant in 2025: Mastering Modern Skills for the Future Job Market](https://dev.to/er-raj-aryan/how-to-stay-relevant-in-2025-mastering-modern-skills-for-the-future-job-market-3nc2)
-- [Umemura Farm Website – Devlog #31: Performance Optimization and Code Refinement in My Next.js Project](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-31-performance-optimization-and-code-refinement-in-my-nextjs-561g)
-- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-2dmp)
-- [Tornando as portas do DevContainer disponíveis localmente com forwardPorts](https://dev.to/videosdeti/tornando-as-portas-do-devcontainer-disponiveis-localmente-com-forwardports-453f)
+- [Inspirational Quotes](https://dev.to/jruetas/inspirational-quotes-20mh)
+- [Stuff You Need to Know If You Plan to Become a Technical Writer](https://dev.to/amoreno/stuff-you-need-to-know-if-you-plan-to-become-a-technical-writer-4oin)
+- [A2A ADK Expense Reimbursement Agent](https://dev.to/czmilo/a2a-adk-expense-reimbursement-agent-cp0)
+- [Terraform Fundamentals: Comprehend](https://dev.to/devopsfundamentals/terraform-fundamentals-comprehend-2379)
 <!-- BLOG-POST-LIST:END -->
 
 
