@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Integration in VS Code Using MongoDB MCP: A Step-by-Step Tutorial](https://dev.to/om_shree_0709/mongodb-integration-in-vs-code-using-mongodb-mcp-a-step-by-step-tutorial-44p5)
-- [Day 30/180 of Frontend Dev: Understanding CSS Float and Clear Properties](https://dev.to/code_2/day-30180-of-frontend-dev-understanding-css-float-and-clear-properties-4o8b)
-- [INTRODUCTION OF CONDTIONAL STATEMENT](https://dev.to/arulak/introduction-of-condtional-statement-nc0)
-- [Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research](https://dev.to/lidianycs/using-the-dev-community-as-a-data-source-for-human-aspects-in-software-engineering-research-h56)
+- [How I Built and Deployed My Portfolio Site From Scratch &lpar;With Failures, Fixes, and a Domain&rpar;](https://dev.to/econdev/how-i-built-and-deployed-my-portfolio-site-from-scratch-with-failures-fixes-and-a-domain-4166)
+- [Dynamic Dropdown Filtering in JSP Using AJAX and Custom Tags](https://dev.to/galisetty_priyatham_c1a49/dynamic-dropdown-filtering-in-jsp-using-ajax-and-custom-tags-55il)
+- [An Introduction To Immer in React](https://dev.to/ashishsimplecoder/an-introduction-to-immer-in-react-4397)
+- [What is POS tagging in NLP? Real-World example and Use Cases with Python using Spacy](https://dev.to/datatoinfinity/what-is-pos-tagging-in-nlp-real-world-example-and-use-cases-with-python-using-spacy-18ef)
 <!-- BLOG-POST-LIST:END -->
 
 
