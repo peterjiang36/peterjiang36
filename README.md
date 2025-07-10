@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How does the app generate encryption keystrings?](https://dev.to/liamloof_9d7b8c6dfc21b27a/how-does-the-app-generate-encryption-keystrings-1132)
-- [AWS Fundamentals: Elasticbeanstalk](https://dev.to/devopsfundamentals/aws-fundamentals-elasticbeanstalk-3mbk)
-- [[Boost]](https://dev.to/mohamed_arshath_b5ee96731/-1lek)
-- [We Built an AI That Catches Every Mental Thread You Drop!](https://dev.to/arina_graza/we-built-an-ai-that-catches-every-mental-thread-you-drop-1i4e)
+- [Top Asynchronous JavaScript Interview Questions &lpar;2025&rpar;](https://dev.to/wynnt3o/top-asynchronous-javascript-interview-questions-2025-16ak)
+- [☣︎ Beginner-Friendly Guide: &quot;Reschedule Meetings for Maximum Free Time II&quot; – LeetCode 3440 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reschedule-meetings-for-maximum-free-time-ii-leetcode-3440-c--12me)
+- [The Builder Design Pattern in Java](https://dev.to/wkreuch/the-builder-design-pattern-in-java-167l)
+- [🚀 404ffice: The Time-Traveling Intranet](https://dev.to/tanvirmulla11/404ffice-the-time-traveling-intranet-reimagining-office-culture-through-the-decades-28da)
 <!-- BLOG-POST-LIST:END -->
 
 
