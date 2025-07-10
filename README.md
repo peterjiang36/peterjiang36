@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Faculdade ou Certificação? O Melhor Caminho na Área de TI](https://dev.to/edesantomaz/faculdade-ou-certificacao-o-melhor-caminho-na-area-de-ti-29el)
-- [Stop Waiting on Windows Explorer: Meet snub — A Suspiciously Fast Recursive File Search Tool](https://dev.to/seeyebe/stop-waiting-on-windows-explorer-meet-snub-a-suspiciously-fast-recursive-file-search-tool-2gha)
-- [Qual a importância da Certificação? 💼](https://dev.to/edesantomaz/qual-a-importancia-da-certificacao-3p62)
-- [Single Inheritence](https://dev.to/infanta_mano_0c36865b3d79/single-inheritence-3idb)
+- [How does the app generate encryption keystrings?](https://dev.to/liamloof_9d7b8c6dfc21b27a/how-does-the-app-generate-encryption-keystrings-1132)
+- [AWS Fundamentals: Elasticbeanstalk](https://dev.to/devopsfundamentals/aws-fundamentals-elasticbeanstalk-3mbk)
+- [[Boost]](https://dev.to/mohamed_arshath_b5ee96731/-1lek)
+- [We Built an AI That Catches Every Mental Thread You Drop!](https://dev.to/arina_graza/we-built-an-ai-that-catches-every-mental-thread-you-drop-1i4e)
 <!-- BLOG-POST-LIST:END -->
 
 
