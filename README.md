@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚖️ Proof of Stake Explained: Ethereum’s Guardians of the Blockchain](https://dev.to/githaiga22/proof-of-stake-explained-ethereums-guardians-of-the-blockchain-fpn)
-- [The Rise of AI Testing in Modern QA](https://dev.to/ronika_kashyap/the-rise-of-ai-testing-in-modern-qa-db2)
-- [How to Scale Content Creation Without Hiring a Full Team](https://dev.to/dux-soup-coupons/how-to-scale-content-creation-without-hiring-a-full-team-43hp)
-- [Hello Mage rattaram yaluwe](https://dev.to/indunil/hello-mage-rattaram-yaluwe-5ef5)
+- [Perplexity Comet, Dia Browser, and Opera Neon - How Agentic Browsers Will Change The Web](https://dev.to/pullflow/perplexity-comet-dia-browser-and-opera-neon-how-agentic-browsers-will-change-the-web-3cbc)
+- [No Laying Up Podcast: Everyone Only: The Gimme Golf Club Origin Story | NLU Pod, Ep 1033](https://dev.to/youtube_golf/no-laying-up-podcast-everyone-only-the-gimme-golf-club-origin-story-nlu-pod-ep-1033-i7k)
+- [No Laying Up Podcast: 2025 Mid-Year Goals Check-In | Trap Draw, Ep 348](https://dev.to/youtube_golf/no-laying-up-podcast-2025-mid-year-goals-check-in-trap-draw-ep-348-55ei)
+- [No Laying Up Podcast: 2025 Mid-Year GHIN Rewind | NLU Pod, Ep 1034](https://dev.to/youtube_golf/no-laying-up-podcast-2025-mid-year-ghin-rewind-nlu-pod-ep-1034-4j32)
 <!-- BLOG-POST-LIST:END -->
 
 
