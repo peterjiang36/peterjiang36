@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Blog Website in Minutes Using ChatGPT — Here&#39;s the Exact Workflow](https://dev.to/nitinfab/i-built-a-blog-website-in-minutes-using-chatgpt-heres-the-exact-workflow-388b)
-- [DYNAMIC BINDING](https://dev.to/infanta_mano_0c36865b3d79/dynamic-binding-51fc)
-- [How to Build and Launch AI SaaS Product Faster with AI Starter Kit](https://dev.to/vinishbhaskar/how-to-build-and-launch-ai-saas-product-faster-with-ai-starter-kit-3d6k)
-- [[06 | CSS 05] A Comprehensive Guide to Setting Up and Using Tailwind CSS with Vite](https://dev.to/anikpaul/06-css-05-a-comprehensive-guide-to-setting-up-and-using-tailwind-css-with-vite-47d0)
+- [How to contribute to Moodle?](https://dev.to/szabgab/how-to-contribute-to-moodle-2494)
+- [AI Agent Frameworks Are Blowing Up — Here Are the Top 10 for Developers in 2025](https://dev.to/therealmrmumba/ai-agent-frameworks-are-blowing-up-here-are-the-top-10-for-developers-in-2025-9aj)
+- [[Boost]](https://dev.to/pintusingh28/-8pp)
+- [Must Read Blog](https://dev.to/codewithsuhani/-22pj)
 <!-- BLOG-POST-LIST:END -->
 
 
