@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built and Deployed My Portfolio Site From Scratch &lpar;With Failures, Fixes, and a Domain&rpar;](https://dev.to/econdev/how-i-built-and-deployed-my-portfolio-site-from-scratch-with-failures-fixes-and-a-domain-4166)
-- [Dynamic Dropdown Filtering in JSP Using AJAX and Custom Tags](https://dev.to/galisetty_priyatham_c1a49/dynamic-dropdown-filtering-in-jsp-using-ajax-and-custom-tags-55il)
-- [An Introduction To Immer in React](https://dev.to/ashishsimplecoder/an-introduction-to-immer-in-react-4397)
-- [What is POS tagging in NLP? Real-World example and Use Cases with Python using Spacy](https://dev.to/datatoinfinity/what-is-pos-tagging-in-nlp-real-world-example-and-use-cases-with-python-using-spacy-18ef)
+- [SQL Server Stored Procedure Design for Flexible Record Lookup](https://dev.to/seanmdrew/sql-server-stored-procedure-design-for-flexible-record-lookup-2h97)
+- [🪙 Coin Change: Understanding the Problem with Two Dynamic Programming Approaches](https://dev.to/gaurikhanolkar1/coin-change-understanding-the-problem-with-two-dynamic-programming-approaches-3fn3)
+- [Pasos para desplegar aplicacion Flask con mod_wsgi y Apache.](https://dev.to/hpollack/pasos-para-desplegar-aplicacion-flask-con-modwsgi-y-apache-1f8d)
+- [Rust Query Builder for SQL an SurrealDB](https://dev.to/romaninsh/rust-query-builder-for-sql-an-surrealdb-32pf)
 <!-- BLOG-POST-LIST:END -->
 
 
