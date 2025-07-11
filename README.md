@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [When your home network lies to you](https://dev.to/czekaj/when-your-home-network-lies-to-you-28a6)
 - [Prompt Engineering: From Basic Principles to Science-Based Strategies](https://dev.to/cursedknowledge/prompt-engineering-from-basic-principles-to-science-based-strategies-41kd)
 - [When Versions Divide: The Break Isn&#39;t Always in the Code](https://dev.to/tonystpierre/when-versions-divide-the-break-isnt-always-in-the-code-24k6)
 - [String in Python &lpar;17&rpar;](https://dev.to/hyperkai/string-in-python-17-p3m)
-- [The way I see DDD &lpar;from a still-learning POV&rpar;](https://dev.to/leonardo_solisdark_astr/the-way-i-see-ddd-from-a-still-learning-pov-4nha)
 <!-- BLOG-POST-LIST:END -->
 
 
