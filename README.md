@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to attach files to a PDF in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-attach-files-to-a-pdf-in-java-tutorial-5gk6)
-- [Unit test CHILD component from PARENT component&#39;s test case](https://dev.to/md_ashraf_dev_to/unit-test-child-component-from-parent-components-test-case-od2)
-- [JWT, Tokens, and an Express App — My Fullstack Girly Era Unlocked &lpar;Part 01&rpar; 💅🏻🛠️](https://dev.to/khushimehappy/jwt-tokens-and-an-express-app-my-fullstack-girly-era-unlocked-part-01-524p)
-- [XPath in Power Automate - diagrams](https://dev.to/kkazala/xpath-in-power-automate-diagrams-4he7)
+- [Unveiling the Power of Classification Algorithms in Machine Learning](https://dev.to/vjnvisakh/unveiling-the-power-of-classification-algorithms-in-machine-learning-3i7n)
+- [⚔️ Kotlin vs Java: Is Kotlin *Really* Better?](https://dev.to/hmzas/kotlin-vs-java-is-kotlin-really-better-8fb)
+- [Zentro Garden](https://dev.to/s_hadowheart/zentro-garden-3ed9)
+- [StarNet Forum](https://dev.to/s_hadowheart/starnet-forum-3n7a)
 <!-- BLOG-POST-LIST:END -->
 
 
