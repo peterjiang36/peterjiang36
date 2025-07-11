@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Guide: Top 10 Postman Alternatives for API Testing](https://dev.to/fallon_jimmy/2025-guide-top-postman-alternatives-for-api-testing-22l6)
-- [Troubleshooting Real-World AWS EKS Issues in Production](https://dev.to/mustkhim_inamdar/troubleshooting-real-world-aws-eks-issues-in-production-3331)
-- [100K QPS Web Server Design4565](https://dev.to/member_d50fddd8/100k-qps-web-server-design4565-54k1)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-23li)
+- [Hot Reloading in Ruby](https://dev.to/yet_anotherdev/hot-reloading-in-ruby-5gac)
+- [Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions](https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1)
+- [[Boost]](https://dev.to/rajesh_patel/-m9l)
+- [[Boost]](https://dev.to/aryan_panwala/-156a)
 <!-- BLOG-POST-LIST:END -->
 
 
