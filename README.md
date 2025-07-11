@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development](https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op)
-- [My First Day In JAVA, introduction and JDK, JRE, JVM and Features.](https://dev.to/seenuvasan_p/my-first-day-in-java-introduction-and-jdk-jre-jvm-and-features-4c8i)
-- [The Importance of Security Testing for QA Engineers](https://dev.to/hazrat-ali9/the-importance-of-security-testing-for-qa-engineers-31lj)
-- [I built a multilingual AI tool directory to simplify discovery](https://dev.to/halotool/i-built-a-multilingual-ai-tool-directory-to-simplify-discovery-20eh)
+- [Handling Deep Links, Deferred Deep Links &amp; User Invites in React Native using AppsFlyer](https://dev.to/amitkumar13/handling-deep-links-deferred-deep-links-user-invites-in-react-native-using-appsflyer-58bg)
+- [WWDC 2025 - SceneKit Deprecation and RealityKit Migration: A Comprehensive Guide for iOS Developers](https://dev.to/arshtechpro/wwdc-2025-scenekit-deprecation-and-realitykit-migration-a-comprehensive-guide-for-ios-developers-o26)
+- [Why Competing on Google Feels Like Fighting a Losing Battle 🥀](https://dev.to/herimaxsi/why-competing-on-google-feels-like-fighting-a-losing-battle-jb4)
+- [Google AI Studio - The Game of WAR!](https://dev.to/mccordinator/google-ai-studio-the-game-of-war-3fb8)
 <!-- BLOG-POST-LIST:END -->
 
 
