@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀](https://dev.to/dpvasani56/docker-custom-images-node-server-dockerization-cheatsheet-2na1)
-- [🧾 Dockerfile Command Reference](https://dev.to/dpvasani56/dockerfile-command-reference-2h47)
-- [🐳 Docker Cheatsheet for Node.js App](https://dev.to/dpvasani56/docker-cheatsheet-for-nodejs-app-40pc)
-- [Case Study: How Chris Houston Built a BI Tool with Anvil](https://dev.to/anvil/case-study-how-chris-houston-built-a-bi-tool-with-anvil-4l7n)
+- [Little adventure in pursuit of errors. The Battle for Wesnoth!](https://dev.to/pvsdev/little-adventure-in-pursuit-of-errors-the-battle-for-wesnoth-3cae)
+- [What was you win of the Week?](https://dev.to/ashishsimplecoder/what-was-you-win-of-the-week-2obp)
+- [What’s the Best Approach to Building a Website: WordPress or Programming Languages?](https://dev.to/capjud95/whats-the-best-approach-to-building-a-website-wordpress-or-programming-languages-2n7o)
+- [One Input, Multiple AI Minds: Meet the New MultiMindSDK LLM Router](https://dev.to/multimindsdk/one-input-multiple-ai-minds-meet-the-new-multimindsdk-llm-router-14g4)
 <!-- BLOG-POST-LIST:END -->
 
 
