@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Resident Evil: Survival Unit - Official Announcement &lpar;Multi-Language Audio&rpar;](https://dev.to/gg_news/ign-resident-evil-survival-unit-official-announcement-multi-language-audio-25mb)
-- [IGN: Pets on a Train - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-pets-on-a-train-official-trailer-2025-4lki)
-- [IGN: DC Worlds Collide - Official Superman &lpar;DCU&rpar; Trailer](https://dev.to/gg_news/ign-dc-worlds-collide-official-superman-dcu-trailer-35n8)
-- [IGN: Sakamoto Days - Official Part 2 Trailer &lpar;English Dub&rpar;](https://dev.to/gg_news/ign-sakamoto-days-official-part-2-trailer-english-dub-4j6h)
+- [A Day in the Life of a DevOps Engineer](https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba)
+- [Why Numpy is faster than Pure Python: A Speed Comparison](https://dev.to/uwintwalijean/why-numpy-is-faster-than-pure-python-a-speed-comparison-57mj)
+- [How to Get the Best Out of Notion MCP Server with Cursor and Claude?](https://dev.to/composiodev/how-to-get-the-best-out-of-notion-mcp-server-with-cursor-and-claude-1lc9)
+- [Cash Flow Forecasting Mistakes to Avoid: Lessons from Real Businesses](https://dev.to/modelreef/cash-flow-forecasting-mistakes-to-avoid-lessons-from-real-businesses-3phj)
 <!-- BLOG-POST-LIST:END -->
 
 
