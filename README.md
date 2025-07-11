@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Little adventure in pursuit of errors. The Battle for Wesnoth!](https://dev.to/pvsdev/little-adventure-in-pursuit-of-errors-the-battle-for-wesnoth-3cae)
-- [What was you win of the Week?](https://dev.to/ashishsimplecoder/what-was-you-win-of-the-week-2obp)
-- [What’s the Best Approach to Building a Website: WordPress or Programming Languages?](https://dev.to/capjud95/whats-the-best-approach-to-building-a-website-wordpress-or-programming-languages-2n7o)
-- [One Input, Multiple AI Minds: Meet the New MultiMindSDK LLM Router](https://dev.to/multimindsdk/one-input-multiple-ai-minds-meet-the-new-multimindsdk-llm-router-14g4)
+- [Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development](https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op)
+- [My First Day In JAVA, introduction and JDK, JRE, JVM and Features.](https://dev.to/seenuvasan_p/my-first-day-in-java-introduction-and-jdk-jre-jvm-and-features-4c8i)
+- [The Importance of Security Testing for QA Engineers](https://dev.to/hazrat-ali9/the-importance-of-security-testing-for-qa-engineers-31lj)
+- [I built a multilingual AI tool directory to simplify discovery](https://dev.to/halotool/i-built-a-multilingual-ai-tool-directory-to-simplify-discovery-20eh)
 <!-- BLOG-POST-LIST:END -->
 
 
