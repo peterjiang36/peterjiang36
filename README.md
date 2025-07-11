@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Deep Links, Deferred Deep Links &amp; User Invites in React Native using AppsFlyer](https://dev.to/amitkumar13/handling-deep-links-deferred-deep-links-user-invites-in-react-native-using-appsflyer-58bg)
-- [WWDC 2025 - SceneKit Deprecation and RealityKit Migration: A Comprehensive Guide for iOS Developers](https://dev.to/arshtechpro/wwdc-2025-scenekit-deprecation-and-realitykit-migration-a-comprehensive-guide-for-ios-developers-o26)
-- [Why Competing on Google Feels Like Fighting a Losing Battle 🥀](https://dev.to/herimaxsi/why-competing-on-google-feels-like-fighting-a-losing-battle-jb4)
-- [Google AI Studio - The Game of WAR!](https://dev.to/mccordinator/google-ai-studio-the-game-of-war-3fb8)
+- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
+- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
+- [Building Quantum Maze with Amazon Q Developer CLI - My Build Games Challenge Journey](https://dev.to/j_49d950a33e76f1ee3e55449/building-quantum-maze-with-amazon-q-developer-cli-my-build-games-challenge-journey-4nf9)
+- [Hackerrank - SQL - Japanese Cities&#39; Names](https://dev.to/mrpunkdasilva/hackerrank-sql-japanese-cities-names-49a3)
 <!-- BLOG-POST-LIST:END -->
 
 
