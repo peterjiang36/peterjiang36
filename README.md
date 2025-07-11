@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From VPS to Home: How I Built My €90 Development Server That&#39;s Been Running for Almost a Year](https://dev.to/abdallahaho/from-vps-to-home-how-i-built-my-eu90-development-server-thats-been-running-for-almost-a-year-c8a)
-- [Hey ,](https://dev.to/mohamed_ramzy_b49de7b23d1/hey--2lkn)
-- [🔄 Uniface forlist...endfor: Mastering List Loops](https://dev.to/zuuwn21/uniface-forlistendfor-mastering-list-loops-kaj)
-- [CSS in 2025–2026: It’s Getting Too Powerful and I’m Scared](https://dev.to/pixelperfect_pro/css-in-2025-2026-its-getting-too-powerful-and-im-scared-2ej8)
+- [21.7.2021](https://dev.to/ramas__18621f48f2602fbbc/2172021-3d08)
+- [I wrote up a post about how to easily build A2A-style agents. I also talk a bit about why I like A2A more than MCP.](https://dev.to/technosophos/i-wrote-up-a-post-about-how-to-easily-build-a2a-style-agents-i-also-talk-a-bit-about-why-i-like-j0j)
+- [Dev Setup - dbt Core 1.9.0 with Airflow 3.0 Orchestration](https://dev.to/sanjayio/dev-setup-dbt-core-190-with-airflow-30-orchestration-1fgf)
+- [Number Guessing Game](https://dev.to/ameh_mathias/number-guessing-game-107e)
 <!-- BLOG-POST-LIST:END -->
 
 
