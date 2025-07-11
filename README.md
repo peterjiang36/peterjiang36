@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Basic Docker Commands](https://dev.to/sajjadrahman56/basic-docker-commands-omo)
-- [Understanding that app you vibe coded](https://dev.to/suesmith/understanding-that-app-you-vibe-coded-5hig)
-- [🚢 Docker কী? কেন শিখবে? POST -01](https://dev.to/sajjadrahman56/docker-kii-ken-shikhbe-post-01-5ecl)
-- [Is It Over for `localStorage`? Was It Ever That Good?](https://dev.to/werliton/is-it-over-for-localstorage-was-it-ever-that-good-3jak)
+- [Getting started with MCP Desktop Extensions &lpar;DXT&rpar; in Claude Desktop](https://dev.to/om_shree_0709/getting-started-with-mcp-desktop-extensions-dxt-in-claude-desktop-40hj)
+- [# 🚀 Uniface call Statement: Executing Functions and ProcScript Modules](https://dev.to/zu2824/-uniface-call-statement-executing-functions-and-procscript-modules-3mkm)
+- [Getting Started with Playwright — Introduction to Web Testing Automation](https://dev.to/rodrigoobc/getting-started-with-playwright-introduction-to-web-testing-automation-1fdh)
+- [The Underrated Power of Consistency](https://dev.to/umairarshad-dev/the-underrated-power-of-consistency-11hf)
 <!-- BLOG-POST-LIST:END -->
 
 
