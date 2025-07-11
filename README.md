@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bhindi AI: Transforming Text into Action with Intelligent Automation](https://dev.to/kalash_shah_2dc42e379be0d/bhindi-ai-transforming-text-into-action-with-intelligent-automation-57m0)
-- [Getting Started with ClickHouse in TypeScript using hypequery.](https://dev.to/lureilly1/getting-started-with-clickhouse-in-typescript-using-hypequery-15k4)
-- [Building Quantum Maze with Amazon Q Developer CLI - My Build Games Challenge Journey](https://dev.to/j_49d950a33e76f1ee3e55449/building-quantum-maze-with-amazon-q-developer-cli-my-build-games-challenge-journey-4nf9)
-- [Hackerrank - SQL - Japanese Cities&#39; Names](https://dev.to/mrpunkdasilva/hackerrank-sql-japanese-cities-names-49a3)
+- [⚙️ Basic Docker Commands](https://dev.to/sajjadrahman56/basic-docker-commands-omo)
+- [Understanding that app you vibe coded](https://dev.to/suesmith/understanding-that-app-you-vibe-coded-5hig)
+- [🚢 Docker কী? কেন শিখবে? POST -01](https://dev.to/sajjadrahman56/docker-kii-ken-shikhbe-post-01-5ecl)
+- [Is It Over for `localStorage`? Was It Ever That Good?](https://dev.to/werliton/is-it-over-for-localstorage-was-it-ever-that-good-3jak)
 <!-- BLOG-POST-LIST:END -->
 
 
