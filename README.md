@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
-- [🚀 Grok 4 Has Arrived: A New Era in AI Reasoning, Coding, and Real-Time Insight](https://dev.to/hmzas/grok-4-has-arrived-a-new-era-in-ai-reasoning-coding-and-real-time-insight-30e7)
-- [🐍 Setting Up a Python &amp; Django Dev Environment &lpar;Beginner Friendly&rpar;](https://dev.to/hmzas/setting-up-a-python-django-dev-environment-beginner-friendly-143g)
-- [Stream AI Responses in Real-Time with AWS Lambda and Vercel AI SDK](https://dev.to/andreascaldewei/stream-ai-responses-in-real-time-with-aws-lambda-and-vercel-ai-sdk-30na)
+- [IGN: Resident Evil: Survival Unit - Official Announcement &lpar;Multi-Language Audio&rpar;](https://dev.to/gg_news/ign-resident-evil-survival-unit-official-announcement-multi-language-audio-25mb)
+- [IGN: Pets on a Train - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-pets-on-a-train-official-trailer-2025-4lki)
+- [IGN: DC Worlds Collide - Official Superman &lpar;DCU&rpar; Trailer](https://dev.to/gg_news/ign-dc-worlds-collide-official-superman-dcu-trailer-35n8)
+- [IGN: Sakamoto Days - Official Part 2 Trailer &lpar;English Dub&rpar;](https://dev.to/gg_news/ign-sakamoto-days-official-part-2-trailer-english-dub-4j6h)
 <!-- BLOG-POST-LIST:END -->
 
 
