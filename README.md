@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to provide private storage for internal company documents.](https://dev.to/onyemuche/how-to-provide-private-storage-for-internal-company-documents-2k53)
-- [DynamoDB in AWS](https://dev.to/aws_1_27d6cbc9e944aa228ef/dynamodb-in-aws-5851)
-- [Parsing 1 Billion Rows in Bun/Typescript](https://dev.to/taehkimmm/parsing-1-billion-rows-in-buntypescript-3cfl)
-- [The next update is here for my system design diagram builder](https://dev.to/sroy8091/the-next-update-is-here-for-my-system-design-diagram-builder-2nfi)
+- [AI-Generated Code: Finding the Right Percentage for Your Development Team](https://dev.to/pantoai/ai-generated-code-finding-the-right-percentage-for-your-development-team-5f83)
+- [Model Mondays S2E04 - AI Developer Experiences](https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf)
+- [Constructor](https://dev.to/infanta_mano_0c36865b3d79/constructor-2ili)
+- [Real-Time Data Stream Processing8995](https://dev.to/member_d50fddd8/real-time-data-stream-processing8995-2ap4)
 <!-- BLOG-POST-LIST:END -->
 
 
