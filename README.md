@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Code: Finding the Right Percentage for Your Development Team](https://dev.to/pantoai/ai-generated-code-finding-the-right-percentage-for-your-development-team-5f83)
-- [Model Mondays S2E04 - AI Developer Experiences](https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf)
-- [Constructor](https://dev.to/infanta_mano_0c36865b3d79/constructor-2ili)
-- [Real-Time Data Stream Processing8995](https://dev.to/member_d50fddd8/real-time-data-stream-processing8995-2ap4)
+- [2025 Guide: Top 10 Postman Alternatives for API Testing](https://dev.to/fallon_jimmy/2025-guide-top-postman-alternatives-for-api-testing-22l6)
+- [Troubleshooting Real-World AWS EKS Issues in Production](https://dev.to/mustkhim_inamdar/troubleshooting-real-world-aws-eks-issues-in-production-3331)
+- [100K QPS Web Server Design4565](https://dev.to/member_d50fddd8/100k-qps-web-server-design4565-54k1)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-23li)
 <!-- BLOG-POST-LIST:END -->
 
 
