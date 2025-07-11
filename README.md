@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hot Reloading in Ruby](https://dev.to/yet_anotherdev/hot-reloading-in-ruby-5gac)
-- [Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions](https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1)
-- [[Boost]](https://dev.to/rajesh_patel/-m9l)
-- [[Boost]](https://dev.to/aryan_panwala/-156a)
+- [Find the cycle section for infinite cyclic decimals](https://dev.to/esproc_spl/find-the-cycle-section-for-infinite-cyclic-decimals-1app)
+- [👨‍💻 Why Developers Should Care About Interactive Learning UX](https://dev.to/buildvr/why-developers-should-care-about-interactive-learning-ux-2ffa)
+- [C# Minimal APIs: Building Lightweight Web Services](https://dev.to/chakewitz/c-minimal-apis-building-lightweight-web-services-36ii)
+- [Building Reactive Applications with C# and Rx.NET](https://dev.to/chakewitz/building-reactive-applications-with-c-and-rxnet-4lom)
 <!-- BLOG-POST-LIST:END -->
 
 
