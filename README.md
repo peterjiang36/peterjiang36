@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations](https://dev.to/daswu/juicefs-community-13-python-sdk-faster-backup-sql-windows-optimizations-4l8e)
-- [LeRobot 机械臂操作教程](https://dev.to/jambochen/lerobot-ji-jie-bi-cao-zuo-jiao-cheng-78i)
-- [LeetCode 30 Days of JavaScript — Day 1: Closures &amp; Counter Function](https://dev.to/iam_kyei/leetcode-30-days-of-javascript-day-1-closures-counter-function-4on3)
-- [Single Core High Concurrency5344](https://dev.to/member_d50fddd8/single-core-high-concurrency5344-4cok)
+- [How to attach files to a PDF in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-attach-files-to-a-pdf-in-java-tutorial-5gk6)
+- [Unit test CHILD component from PARENT component&#39;s test case](https://dev.to/md_ashraf_dev_to/unit-test-child-component-from-parent-components-test-case-od2)
+- [JWT, Tokens, and an Express App — My Fullstack Girly Era Unlocked &lpar;Part 01&rpar; 💅🏻🛠️](https://dev.to/khushimehappy/jwt-tokens-and-an-express-app-my-fullstack-girly-era-unlocked-part-01-524p)
+- [XPath in Power Automate - diagrams](https://dev.to/kkazala/xpath-in-power-automate-diagrams-4he7)
 <!-- BLOG-POST-LIST:END -->
 
 
