@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Power of Classification Algorithms in Machine Learning](https://dev.to/vjnvisakh/unveiling-the-power-of-classification-algorithms-in-machine-learning-3i7n)
-- [⚔️ Kotlin vs Java: Is Kotlin *Really* Better?](https://dev.to/hmzas/kotlin-vs-java-is-kotlin-really-better-8fb)
-- [Zentro Garden](https://dev.to/s_hadowheart/zentro-garden-3ed9)
-- [StarNet Forum](https://dev.to/s_hadowheart/starnet-forum-3n7a)
+- [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
+- [🚀 Grok 4 Has Arrived: A New Era in AI Reasoning, Coding, and Real-Time Insight](https://dev.to/hmzas/grok-4-has-arrived-a-new-era-in-ai-reasoning-coding-and-real-time-insight-30e7)
+- [🐍 Setting Up a Python &amp; Django Dev Environment &lpar;Beginner Friendly&rpar;](https://dev.to/hmzas/setting-up-a-python-django-dev-environment-beginner-friendly-143g)
+- [Stream AI Responses in Real-Time with AWS Lambda and Vercel AI SDK](https://dev.to/andreascaldewei/stream-ai-responses-in-real-time-with-aws-lambda-and-vercel-ai-sdk-30na)
 <!-- BLOG-POST-LIST:END -->
 
 
