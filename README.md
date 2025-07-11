@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain-Driven Design in Web7452](https://dev.to/member_d50fddd8/domain-driven-design-in-web7452-4dof)
-- [TikCopy – A Minimal Clipboard History Tool for Linux Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/tikcopy-a-minimal-clipboard-history-tool-for-linux-built-in-rust-365j)
-- [Exception Handling In Java](https://dev.to/akamzchidi/exception-handling-in-java-3app)
-- [Network Programming Guide1892](https://dev.to/member_d50fddd8/network-programming-guide1892-1aa9)
+- [📦 Docker Custom Images + Node Server Dockerization Cheatsheet 🚀](https://dev.to/dpvasani56/docker-custom-images-node-server-dockerization-cheatsheet-2na1)
+- [🧾 Dockerfile Command Reference](https://dev.to/dpvasani56/dockerfile-command-reference-2h47)
+- [🐳 Docker Cheatsheet for Node.js App](https://dev.to/dpvasani56/docker-cheatsheet-for-nodejs-app-40pc)
+- [Case Study: How Chris Houston Built a BI Tool with Anvil](https://dev.to/anvil/case-study-how-chris-houston-built-a-bi-tool-with-anvil-4l7n)
 <!-- BLOG-POST-LIST:END -->
 
 
