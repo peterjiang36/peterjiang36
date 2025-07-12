@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Instantly expose a server behind cgnat with a public URL - Bypass cgnat port forwarding restrictions](https://dev.to/robbiecahill/instantly-expose-a-server-behind-cgnat-with-a-public-url-bypass-cgnat-port-forwarding-restrictions-33d7)
-- [How to Give Your RHEL Server a Public URL with Tunnelmole](https://dev.to/robbiecahill/how-to-give-your-rhel-server-a-public-url-with-tunnelmole-pjn)
-- [Install PostgreSQL 16 with pgaudit Support on Ubuntu 24.04 LTS](https://dev.to/chittrmahto/install-postgresql-16-with-pgaudit-support-on-ubuntu-2404-lts-4bhc)
-- [Building Jardinains using Amazon-q](https://dev.to/gambhirsharma/building-jardinains-using-amazon-q-18d8)
+- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-2ipd)
+- [DEV HELL: FRAUD OR F*CKING GENIUS](https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km)
+- [Remotely Access an IoT Device Instantly with Tunnelmole](https://dev.to/robbiecahill/remotely-access-an-iot-device-instantly-with-tunnelmole-4f4o)
+- [GCP Fundamentals: Document AI Warehouse API](https://dev.to/devopsfundamentals/gcp-fundamentals-document-ai-warehouse-api-70g)
 <!-- BLOG-POST-LIST:END -->
 
 
