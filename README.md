@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Safest Walk through the grid](https://dev.to/prashantrmishra/safest-walk-through-the-grid-2gj7)
-- [Application of Async Programming in Web Development&lpar;5421&rpar;](https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development5421-2m34)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;6736&rpar;](https://dev.to/member_c4991035/latency-optimization-secrets-for-millisecond-response-times6736-4mj5)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;1529&rpar;](https://dev.to/member_bf115bc6/http-request-processing-with-zero-copy-optimization1529-2ahl)
+- [Rust Async Web Framework Performance Breakthrough&lpar;9317&rpar;](https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough9317-ln6)
+- [Kubernetes Workshop1 : Step6 : Deployment](https://dev.to/cross1308/kubernetes-workshop1-step6-deployment-5d3e)
+- [TCP Optimization Techniques for Web Server Performance&lpar;2398&rpar;](https://dev.to/member_bb466cd7/tcp-optimization-techniques-for-web-server-performance2398-2ni)
+- [🎯 Vegeta Load Testing: Your API&#39;s Ultimate Training Partner](https://dev.to/tavernetech/vegeta-load-testing-your-apis-ultimate-training-partner-noe)
 <!-- BLOG-POST-LIST:END -->
 
 
