@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Async Web Framework Performance Breakthrough&lpar;8093&rpar;](https://dev.to/member_8a2272d3/rust-async-web-framework-performance-breakthrough8093-3493)
-- [Microservices Architecture with Lightweight Framework Design&lpar;6842&rpar;](https://dev.to/member_bf115bc6/microservices-architecture-with-lightweight-framework-design6842-424k)
-- [Efficient WebSocket Server-Side Processing&lpar;9936&rpar;](https://dev.to/member_bb466cd7/efficient-websocket-server-side-processing9936-2ckc)
-- [Why Your NodeJs/NestJS JWT Authentication is Probably Broken](https://dev.to/theadeyemiolayinka/why-your-nodejsnestjs-jwt-authentication-is-probably-broken-73e)
+- [Self-Documenting MCP: One-Step Algolia Setup via MCP Server in Cursor IDE](https://dev.to/axrisi/self-documenting-mcp-one-step-algolia-setup-via-mcp-server-in-cursor-ide-1cm5)
+- [Don’t Learn These Tech Skills in 2025 &lpar;Unless You Want to Stay Broke&rpar;](https://dev.to/arkhan/dont-learn-these-tech-skills-in-2025-unless-you-want-to-stay-broke-4cpn)
+- [The Context Update: We Finally Solved AI Memory Loss.](https://dev.to/rareniches/the-context-update-we-finally-solved-ai-memory-loss-117b)
+- [🚀 RinaWarp Terminal v1.0.9 Beta Access - NOW AVAILABLE!](https://dev.to/bigsgotchu/rinawarp-terminal-v109-beta-access-now-available-1gah)
 <!-- BLOG-POST-LIST:END -->
 
 
