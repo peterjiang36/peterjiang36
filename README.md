@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Learning Rust Through Building a Linear Regression Model](https://dev.to/nosegfault/i-tried-learning-rust-through-building-a-linear-regression-model-4m0b)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;2767&rpar;](https://dev.to/member_3bd028d5/latency-optimization-secrets-for-millisecond-response-times2767-31pd)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;1150&rpar;](https://dev.to/member_bf115bc6/production-deployment-strategies-for-high-performance-web-services1150-40ep)
-- [New Choice for Cross-Platform Web Service Development&lpar;4523&rpar;](https://dev.to/member_8a2272d3/new-choice-for-cross-platform-web-service-development4523-4kja)
+- [Middleware Architecture Patterns for Request Processing&lpar;3755&rpar;](https://dev.to/member_fdfd31bf/middleware-architecture-patterns-for-request-processing3755-5g7c)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;3735&rpar;](https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6)
+- [How to Create A Telegram Bot with BuilderEngine.](https://dev.to/a_rjun_m/how-to-create-a-telegram-bot-with-builderengine-1716)
+- [High-Performance Routing System Design and Implementation&lpar;5600&rpar;](https://dev.to/member_3bd028d5/high-performance-routing-system-design-and-implementation5600-2o53)
 <!-- BLOG-POST-LIST:END -->
 
 
