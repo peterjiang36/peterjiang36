@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.](https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add)
-- [Top 3 Free Hosting Alternatives in 2025](https://dev.to/grayson_campbell_500515f0/top-3-free-hosting-alternatives-in-2025-512p)
-- [QRTrust: Privacy-First QR Scanner with Phishing Detection](https://dev.to/mrmemory/qrtrust-privacy-first-qr-scanner-with-phishing-detection-94m)
-- [Designing Robust Rate Limiters for Multi-Agent AI Systems: Architectures, Challenges, and Best Practices](https://dev.to/satyam_chourasiya_99ea2e4/designing-robust-rate-limiters-for-multi-agent-ai-systems-architectures-challenges-and-best-48g7)
+- [Instantly expose a server behind cgnat with a public URL - Bypass cgnat port forwarding restrictions](https://dev.to/robbiecahill/instantly-expose-a-server-behind-cgnat-with-a-public-url-bypass-cgnat-port-forwarding-restrictions-33d7)
+- [How to Give Your RHEL Server a Public URL with Tunnelmole](https://dev.to/robbiecahill/how-to-give-your-rhel-server-a-public-url-with-tunnelmole-pjn)
+- [Install PostgreSQL 16 with pgaudit Support on Ubuntu 24.04 LTS](https://dev.to/chittrmahto/install-postgresql-16-with-pgaudit-support-on-ubuntu-2404-lts-4bhc)
+- [Building Jardinains using Amazon-q](https://dev.to/gambhirsharma/building-jardinains-using-amazon-q-18d8)
 <!-- BLOG-POST-LIST:END -->
 
 
