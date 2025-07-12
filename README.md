@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I was terrified of speaking English in meetings, so I built an AI coach in Telegram to fix my pronunciation](https://dev.to/cursedknowledge/i-was-terrified-of-speaking-english-in-meetings-so-i-built-an-ai-coach-in-telegram-to-fix-my-1g4b)
-- [method hiding and method overriding in C#](https://dev.to/renukapatil/method-hiding-and-method-overriding-in-c-14b4)
-- [🚀 Java Streams Explained Like You’re Five &lpar;But With Pro-Level Depth&rpar;](https://dev.to/deadpoolx7/java-streams-explained-like-youre-five-but-with-pro-level-depth-37an)
-- [Contributing to PyPI](https://dev.to/szabgab/contributing-to-pypi-e3)
+- [How to kill the idea of Perfection](https://dev.to/redbugmilk/how-to-kill-the-idea-of-perfection-50c6)
+- [Modern Server-Side Event Implementation&lpar;3816&rpar;](https://dev.to/member_3bd028d5/modern-server-side-event-implementation3816-3bh8)
+- [Rust Implementation for High Concurrency Processing&lpar;2519&rpar;](https://dev.to/member_bf115bc6/rust-implementation-for-high-concurrency-processing2519-446g)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;1694&rpar;](https://dev.to/member_c4991035/production-deployment-strategies-for-high-performance-web-services1694-5520)
 <!-- BLOG-POST-LIST:END -->
 
 
