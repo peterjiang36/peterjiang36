@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring 030 - Inline Attributes](https://dev.to/mcsee/refactoring-030-inline-attributes-45mo)
-- [I Supercharged My UserScript Template: Now with ESLint, Prettier, and Full Mobile Support! 🚀](https://dev.to/josunlp/i-supercharged-my-userscript-template-now-with-eslint-prettier-and-full-mobile-support-5ddc)
-- [Tip: ask your agent to create a /debug page](https://dev.to/peter/tip-ask-your-agent-to-create-a-debug-page-57ek)
-- [21.7.2021](https://dev.to/ramas__18621f48f2602fbbc/2172021-3d08)
+- [Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.](https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add)
+- [Top 3 Free Hosting Alternatives in 2025](https://dev.to/grayson_campbell_500515f0/top-3-free-hosting-alternatives-in-2025-512p)
+- [QRTrust: Privacy-First QR Scanner with Phishing Detection](https://dev.to/mrmemory/qrtrust-privacy-first-qr-scanner-with-phishing-detection-94m)
+- [Designing Robust Rate Limiters for Multi-Agent AI Systems: Architectures, Challenges, and Best Practices](https://dev.to/satyam_chourasiya_99ea2e4/designing-robust-rate-limiters-for-multi-agent-ai-systems-architectures-challenges-and-best-48g7)
 <!-- BLOG-POST-LIST:END -->
 
 
