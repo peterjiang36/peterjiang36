@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-2ipd)
-- [DEV HELL: FRAUD OR F*CKING GENIUS](https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km)
-- [Remotely Access an IoT Device Instantly with Tunnelmole](https://dev.to/robbiecahill/remotely-access-an-iot-device-instantly-with-tunnelmole-4f4o)
-- [GCP Fundamentals: Document AI Warehouse API](https://dev.to/devopsfundamentals/gcp-fundamentals-document-ai-warehouse-api-70g)
+- [Terraform Fundamentals: Config](https://dev.to/devopsfundamentals/terraform-fundamentals-config-3jkf)
+- [LuCI on MGMT - Day 04](https://dev.to/projectlaguardia/luci-on-mgmt-day-04-10eh)
+- [Why Rockchip RK3566 Android SBC Is Gaining Attention in Industrial IoT](https://dev.to/tonyhe8688/why-rockchip-rk3566-android-sbc-is-gaining-attention-in-industrial-iot-2974)
+- [🔥 Blazing Fast Markdown Rendering for React – Benchmarked &amp; Battle-Tested](https://dev.to/mayank1513/blazing-fast-markdown-rendering-for-react-benchmarked-battle-tested-4748)
 <!-- BLOG-POST-LIST:END -->
 
 
