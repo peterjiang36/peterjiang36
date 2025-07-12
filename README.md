@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;5345&rpar;](https://dev.to/member_3bd028d5/memory-safety-meets-extreme-performance-in-web-servers5345-4dla)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;6644&rpar;](https://dev.to/member_c4991035/ultimate-optimization-of-lightweight-server-architecture6644-524j)
-- [Rust Async Web Framework Performance Breakthrough&lpar;2807&rpar;](https://dev.to/member_bb466cd7/rust-async-web-framework-performance-breakthrough2807-3d12)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;2009&rpar;](https://dev.to/member_bf115bc6/http-request-processing-with-zero-copy-optimization2009-26g1)
+- [Visualizing Decoder Layer Gradients](https://dev.to/kylepena/visualizing-decoder-layer-gradients-4nko)
+- [Rust Async Web Framework Performance Breakthrough&lpar;5886&rpar;](https://dev.to/member_8a2272d3/rust-async-web-framework-performance-breakthrough5886-1mm7)
+- [WebSocket Revolution in Real-Time Communication&lpar;5302&rpar;](https://dev.to/member_bb466cd7/websocket-revolution-in-real-time-communication5302-34oo)
+- [Microservices Architecture with Lightweight Framework Design&lpar;2228&rpar;](https://dev.to/member_c4991035/microservices-architecture-with-lightweight-framework-design2228-2hbk)
 <!-- BLOG-POST-LIST:END -->
 
 
