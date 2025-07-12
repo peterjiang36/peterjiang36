@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;2314&rpar;](https://dev.to/member_8a2272d3/dynamic-routing-systems-for-scalable-web-applications2314-21fo)
-- [Microservices Architecture with Lightweight Framework Design&lpar;8255&rpar;](https://dev.to/member_bb466cd7/microservices-architecture-with-lightweight-framework-design8255-5n0)
-- [Python Trending Weekly #110: JIT Compiler Two-Year Retrospective, AI Agent Tools Explosion](https://dev.to/pythoncat/python-trending-weekly-110-jit-compiler-two-year-retrospective-ai-agent-tools-explosion-5d7b)
-- [TurboTranscript: The Ultimate AI Tool for Video Transcription, Summarization, and Subtitles](https://dev.to/marry_jonas_71b02f2823a04/turbotranscript-the-ultimate-ai-tool-for-video-transcription-summarization-and-subtitles-4j75)
+- [The Power of Idiomatic Go: What Makes It Different from Java and C#](https://dev.to/jjpinto/the-power-of-idiomatic-go-what-makes-it-different-from-java-and-c-529h)
+- [Context Management and Request Lifecycle Optimization&lpar;3134&rpar;](https://dev.to/member_8a2272d3/context-management-and-request-lifecycle-optimization3134-k2n)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;4994&rpar;](https://dev.to/member_8a2272d3/resource-management-and-memory-efficiency-in-web-servers4994-2lg9)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;8759&rpar;](https://dev.to/member_fdfd31bf/concurrency-mastery-through-advanced-async-programming8759-c1g)
 <!-- BLOG-POST-LIST:END -->
 
 
