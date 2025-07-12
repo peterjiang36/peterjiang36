@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Vibe Coding🤔? Here&#39;s To Do It.](https://dev.to/soumyadeepdey/what-is-vibe-coding-how-to-do-it-4e9j)
-- [Microservices Architecture with Lightweight Framework Design&lpar;8637&rpar;](https://dev.to/member_3bd028d5/microservices-architecture-with-lightweight-framework-design8637-4dc5)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;9874&rpar;](https://dev.to/member_fdfd31bf/dynamic-routing-systems-for-scalable-web-applications9874-29id)
-- [THE JAVASCRIPT NEEDED TO BE TOP 1% REACT NATIVE DEVELOPER](https://dev.to/fonyuygita/the-javascript-needed-to-be-top-1-react-native-developer-1lad)
+- [I was terrified of speaking English in meetings, so I built an AI coach in Telegram to fix my pronunciation](https://dev.to/cursedknowledge/i-was-terrified-of-speaking-english-in-meetings-so-i-built-an-ai-coach-in-telegram-to-fix-my-1g4b)
+- [method hiding and method overriding in C#](https://dev.to/renukapatil/method-hiding-and-method-overriding-in-c-14b4)
+- [🚀 Java Streams Explained Like You’re Five &lpar;But With Pro-Level Depth&rpar;](https://dev.to/deadpoolx7/java-streams-explained-like-youre-five-but-with-pro-level-depth-37an)
+- [Contributing to PyPI](https://dev.to/szabgab/contributing-to-pypi-e3)
 <!-- BLOG-POST-LIST:END -->
 
 
