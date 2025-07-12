@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to kill the idea of Perfection](https://dev.to/redbugmilk/how-to-kill-the-idea-of-perfection-50c6)
-- [Modern Server-Side Event Implementation&lpar;3816&rpar;](https://dev.to/member_3bd028d5/modern-server-side-event-implementation3816-3bh8)
-- [Rust Implementation for High Concurrency Processing&lpar;2519&rpar;](https://dev.to/member_bf115bc6/rust-implementation-for-high-concurrency-processing2519-446g)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;1694&rpar;](https://dev.to/member_c4991035/production-deployment-strategies-for-high-performance-web-services1694-5520)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;2314&rpar;](https://dev.to/member_8a2272d3/dynamic-routing-systems-for-scalable-web-applications2314-21fo)
+- [Microservices Architecture with Lightweight Framework Design&lpar;8255&rpar;](https://dev.to/member_bb466cd7/microservices-architecture-with-lightweight-framework-design8255-5n0)
+- [Python Trending Weekly #110: JIT Compiler Two-Year Retrospective, AI Agent Tools Explosion](https://dev.to/pythoncat/python-trending-weekly-110-jit-compiler-two-year-retrospective-ai-agent-tools-explosion-5d7b)
+- [TurboTranscript: The Ultimate AI Tool for Video Transcription, Summarization, and Subtitles](https://dev.to/marry_jonas_71b02f2823a04/turbotranscript-the-ultimate-ai-tool-for-video-transcription-summarization-and-subtitles-4j75)
 <!-- BLOG-POST-LIST:END -->
 
 
