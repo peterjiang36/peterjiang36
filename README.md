@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Revolution in Real-Time Communication&lpar;2827&rpar;](https://dev.to/member_c4991035/websocket-revolution-in-real-time-communication2827-29bd)
-- [Amazon Q CLI Games challenge - Flappy qUfo](https://dev.to/srgchrksv/amazon-q-cli-games-challenge-flappy-qufo-38ig)
-- [🚀 Integrating Video Calls in React Native with Jitsi Meet](https://dev.to/stephen_adebayo_df57fd4ea/integrating-video-calls-in-react-native-with-jitsi-meet-4907)
-- [Middleware Architecture Patterns for Request Processing&lpar;3991&rpar;](https://dev.to/member_c4991035/middleware-architecture-patterns-for-request-processing3991-297c)
+- [Safest Walk through the grid](https://dev.to/prashantrmishra/safest-walk-through-the-grid-2gj7)
+- [Application of Async Programming in Web Development&lpar;5421&rpar;](https://dev.to/member_bb466cd7/application-of-async-programming-in-web-development5421-2m34)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;6736&rpar;](https://dev.to/member_c4991035/latency-optimization-secrets-for-millisecond-response-times6736-4mj5)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;1529&rpar;](https://dev.to/member_bf115bc6/http-request-processing-with-zero-copy-optimization1529-2ahl)
 <!-- BLOG-POST-LIST:END -->
 
 
