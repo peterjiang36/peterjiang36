@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Idiomatic Go: What Makes It Different from Java and C#](https://dev.to/jjpinto/the-power-of-idiomatic-go-what-makes-it-different-from-java-and-c-529h)
-- [Context Management and Request Lifecycle Optimization&lpar;3134&rpar;](https://dev.to/member_8a2272d3/context-management-and-request-lifecycle-optimization3134-k2n)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;4994&rpar;](https://dev.to/member_8a2272d3/resource-management-and-memory-efficiency-in-web-servers4994-2lg9)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;8759&rpar;](https://dev.to/member_fdfd31bf/concurrency-mastery-through-advanced-async-programming8759-c1g)
+- [[Boost]](https://dev.to/prasannsitani/-6fi)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;3908&rpar;](https://dev.to/member_c4991035/server-side-events-implementation-for-real-time-applications3908-2f3b)
+- [Boosting Svelte Performance: Real-World Techniques You Can Use in 2025](https://dev.to/prasannsitani/boosting-svelte-performance-real-world-techniques-you-can-use-in-2025-3nca)
+- [High-Performance Routing System Design and Implementation&lpar;8797&rpar;](https://dev.to/member_bb466cd7/high-performance-routing-system-design-and-implementation8797-2icc)
 <!-- BLOG-POST-LIST:END -->
 
 
