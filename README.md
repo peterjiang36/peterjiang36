@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing Decoder Layer Gradients](https://dev.to/kylepena/visualizing-decoder-layer-gradients-4nko)
-- [Rust Async Web Framework Performance Breakthrough&lpar;5886&rpar;](https://dev.to/member_8a2272d3/rust-async-web-framework-performance-breakthrough5886-1mm7)
-- [WebSocket Revolution in Real-Time Communication&lpar;5302&rpar;](https://dev.to/member_bb466cd7/websocket-revolution-in-real-time-communication5302-34oo)
-- [Microservices Architecture with Lightweight Framework Design&lpar;2228&rpar;](https://dev.to/member_c4991035/microservices-architecture-with-lightweight-framework-design2228-2hbk)
+- [I Tried Learning Rust Through Building a Linear Regression Model](https://dev.to/nosegfault/i-tried-learning-rust-through-building-a-linear-regression-model-4m0b)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;2767&rpar;](https://dev.to/member_3bd028d5/latency-optimization-secrets-for-millisecond-response-times2767-31pd)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;1150&rpar;](https://dev.to/member_bf115bc6/production-deployment-strategies-for-high-performance-web-services1150-40ep)
+- [New Choice for Cross-Platform Web Service Development&lpar;4523&rpar;](https://dev.to/member_8a2272d3/new-choice-for-cross-platform-web-service-development4523-4kja)
 <!-- BLOG-POST-LIST:END -->
 
 
