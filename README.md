@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Can Stay Essential in the Age of AI Business Tools](https://dev.to/accioprocurement/how-developers-can-stay-essential-in-the-age-of-ai-business-tools-j5g)
-- [Dear Diary, Do I Belong Here?](https://dev.to/crispective/dear-diary-do-i-belong-here-ib1)
-- [Flutter vs React Native vs Native 2025: Which is Better? &lpar;Salary &amp; Job Comparison&rpar;](https://dev.to/arshtechpro/flutter-vs-react-native-vs-native-2025-which-is-better-salary-job-comparison-3bpc)
-- [AWS Fundamentals: Elasticmapreduce](https://dev.to/devopsfundamentals/aws-fundamentals-elasticmapreduce-2plp)
+- [[memo]SafeVLA: Towards Safety Alignment of VisionLanguage-Action Model via Constrained Learning](https://dev.to/taniguchitakara/memosafevla-towards-safety-alignment-of-visionlanguage-action-model-via-constrained-learning-4pf5)
+- [Hulo: Write clean, modern code that compiles to VBScript](https://dev.to/ansurfen/hulo-write-clean-modern-code-that-compiles-to-vbscript-532n)
+- [Dream Tour Management Backend Development – Part 1: Foundational Setup](https://dev.to/alifa_ara_heya/dreamtourmanagement-backend-part-1-progress-recap-nog)
+- [The Software Engineer&#39;s Guide to Prompt Engineering](https://dev.to/dehemi_fabio/the-software-engineers-guide-to-prompt-engineering-3j1a)
 <!-- BLOG-POST-LIST:END -->
 
 
