@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Backup System from Dropbox to Google Drive using n8n](https://dev.to/aihacks/automated-backup-system-from-dropbox-to-google-drive-using-n8n-41aa)
-- [Boost Productivity with AI Gamification!](https://dev.to/sebastian_reid999/boost-productivity-with-ai-gamification-3lcd)
-- [From Code to Prompt: How Bolt.new Revolutionized My App Development Journey](https://dev.to/pr135t/from-code-to-prompt-how-boltnew-revolutionized-my-app-development-journey-54jd)
-- [Daily JavaScript Challenge #JS-225: Height Checker](https://dev.to/dpc/daily-javascript-challenge-js-225-height-checker-2igc)
+- [How Developers Can Stay Essential in the Age of AI Business Tools](https://dev.to/accioprocurement/how-developers-can-stay-essential-in-the-age-of-ai-business-tools-j5g)
+- [Dear Diary, Do I Belong Here?](https://dev.to/crispective/dear-diary-do-i-belong-here-ib1)
+- [Flutter vs React Native vs Native 2025: Which is Better? &lpar;Salary &amp; Job Comparison&rpar;](https://dev.to/arshtechpro/flutter-vs-react-native-vs-native-2025-which-is-better-salary-job-comparison-3bpc)
+- [AWS Fundamentals: Elasticmapreduce](https://dev.to/devopsfundamentals/aws-fundamentals-elasticmapreduce-2plp)
 <!-- BLOG-POST-LIST:END -->
 
 
