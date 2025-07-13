@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting](https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `42`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-42-22ha)
-- [🚀 DevOps Journey – Week 4 &amp; 5: Deep Dive into Linux](https://dev.to/azmatahmed786/devops-journey-week-4-5-deep-dive-into-linux-404m)
-- [How to Escape Tutorial Hell: 5 Steps to Finally Becoming a Real Developer](https://dev.to/nirmitkotadiya/how-to-escape-tutorial-hell-5-steps-to-finally-becoming-a-real-developer-5e2f)
+- [Understanding Tech Debt](https://dev.to/clifford_otieno/understanding-tech-debt-5e2f)
+- [Why Standalone Components and Signals Are Game-Changers for Angular Developers](https://dev.to/karol_modelski/why-standalone-components-and-signals-are-game-changers-for-angular-developers-5228)
+- [Sunrise](https://dev.to/preetha_vaishnavi_2b82358/sunrise-59lc)
+- [Looking for a full-stack Django project idea that’s actually useful, and looks amazing in your portfolio?](https://dev.to/iamrealzippo/looking-for-a-full-stack-django-project-idea-thats-actually-useful-and-looks-amazing-in-your-1flk)
 <!-- BLOG-POST-LIST:END -->
 
 
