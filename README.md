@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/theorienet/-8d2)
-- [🚀 5 AI Tools That Saved Me 20+ Hours Last Month](https://dev.to/theorienet/5-ai-tools-that-saved-me-20-hours-last-month-52i8)
-- [Why Not Implement HMR with Static Analysis?](https://dev.to/muspi-merol/why-not-implement-hmr-with-static-analysis-2l5d)
-- [Building HelpMe webapp – Part 2: Core Ticket Routes with Express &amp; Mongoose](https://dev.to/abhijeet_sachan_34f5d10dc/building-helpme-webapp-part-2-core-ticket-routes-with-express-mongoose-3fdm)
+- [Automated Backup System from Dropbox to Google Drive using n8n](https://dev.to/aihacks/automated-backup-system-from-dropbox-to-google-drive-using-n8n-41aa)
+- [Boost Productivity with AI Gamification!](https://dev.to/sebastian_reid999/boost-productivity-with-ai-gamification-3lcd)
+- [From Code to Prompt: How Bolt.new Revolutionized My App Development Journey](https://dev.to/pr135t/from-code-to-prompt-how-boltnew-revolutionized-my-app-development-journey-54jd)
+- [Daily JavaScript Challenge #JS-225: Height Checker](https://dev.to/dpc/daily-javascript-challenge-js-225-height-checker-2igc)
 <!-- BLOG-POST-LIST:END -->
 
 
