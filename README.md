@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Office Edition Animated Frontend HomePage for Axero](https://dev.to/volde/office-edition-animated-frontend-homepage-for-axero-333f)
-- [Sliding Window: A Simple Yet Powerful Technique](https://dev.to/sneha_grian_cfca240a95d41/sliding-window-a-simple-yet-powerful-technique-16hj)
-- [Lotus&lpar;Animation&rpar;](https://dev.to/preetha_vaishnavi_2b82358/lotusanimation-2bp5)
-- [# 02 - Understanding eBPF Core Building Blocks](https://dev.to/maheshrayas/-02-understanding-ebpf-core-building-blocks-1221)
+- [🧹 Mastering Uniface&#39;s Clear Statement: A Complete Guide](https://dev.to/petercode/mastering-unifaces-clear-statement-a-complete-guide-1n1h)
+- [🔖 Building a Bookmark Manager with AI Integration: My Journey with Model Context Protocol](https://dev.to/mindriftfall2infinitepiio/building-a-bookmark-manager-with-ai-integration-my-journey-with-model-context-protocol-2j32)
+- [Is Angular Right for Your Project? A Framework Fit Guide](https://dev.to/preethi_r_eecc1107f906ec6/is-angular-right-for-your-project-a-framework-fit-guide-2p6n)
+- [Building a podcast generation app](https://dev.to/luis_novo/building-a-podcast-generation-app-2n65)
 <!-- BLOG-POST-LIST:END -->
 
 
