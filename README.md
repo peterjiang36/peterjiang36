@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5)
-- [Three-Fund Investment Portfolio](https://dev.to/preetha_vaishnavi_2b82358/three-fund-investment-portfolio-1d2)
-- [Design Patterns Simplified: Part 3 – Observer Pattern &lpar;a.k.a. “Don’t Call Me, I’ll Call You 📞”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-3-observer-pattern-aka-dont-call-me-ill-call-you--38m3)
-- [Swift program to convert an integer to a Roman numeral — a classic LeetCode problem: &quot;Integer to Roman&quot; &lpar;Problem #12&rpar;.](https://dev.to/harshpdev/swift-program-to-convert-an-integer-to-a-roman-numeral-a-classic-leetcode-problem-integer-to-33l9)
+- [Office Edition Animated Frontend HomePage for Axero](https://dev.to/volde/office-edition-animated-frontend-homepage-for-axero-333f)
+- [Sliding Window: A Simple Yet Powerful Technique](https://dev.to/sneha_grian_cfca240a95d41/sliding-window-a-simple-yet-powerful-technique-16hj)
+- [Lotus&lpar;Animation&rpar;](https://dev.to/preetha_vaishnavi_2b82358/lotusanimation-2bp5)
+- [# 02 - Understanding eBPF Core Building Blocks](https://dev.to/maheshrayas/-02-understanding-ebpf-core-building-blocks-1221)
 <!-- BLOG-POST-LIST:END -->
 
 
