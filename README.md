@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🟢 How to Launch an Ubuntu EC2 Instance on AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/augustine_okwaraebuzie_4e/how-to-launch-an-ubuntu-ec2-instance-on-aws-step-by-step-guide-59al)
-- [How to Avoid TLE &lpar;Time Limit Exceeded&rpar; Errors in Coding Problems](https://dev.to/pratikshya_behera_/how-to-avoid-tle-time-limit-exceeded-errors-in-coding-problems-1df2)
-- [🧩 When to Use NoSQL and SQL?](https://dev.to/sajidurshajib/when-to-use-nosql-and-sql-a1m)
-- [[Boost]](https://dev.to/maradwan/-1mpd)
+- [Ubuntu Fundamentals: groupadd](https://dev.to/devopsfundamentals/ubuntu-fundamentals-groupadd-1ba)
+- [React Native Revolution: Instantly Build Mobile Apps from Figma](https://dev.to/atforeveryoung/react-native-revolution-instantly-build-mobile-apps-from-figma-3kem)
+- [How to Detect Corporate Events with 8-K Filings | FinFeedAPI Guide](https://dev.to/finfeedapi/how-to-detect-corporate-events-with-8-k-filings-finfeedapi-guide-5fij)
+- [Story Telling AI](https://dev.to/yash_tiwari_abb8918e0bb49/story-telling-ai-73o)
 <!-- BLOG-POST-LIST:END -->
 
 
