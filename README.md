@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧹 Mastering Uniface&#39;s Clear Statement: A Complete Guide](https://dev.to/petercode/mastering-unifaces-clear-statement-a-complete-guide-1n1h)
-- [🔖 Building a Bookmark Manager with AI Integration: My Journey with Model Context Protocol](https://dev.to/mindriftfall2infinitepiio/building-a-bookmark-manager-with-ai-integration-my-journey-with-model-context-protocol-2j32)
-- [Is Angular Right for Your Project? A Framework Fit Guide](https://dev.to/preethi_r_eecc1107f906ec6/is-angular-right-for-your-project-a-framework-fit-guide-2p6n)
-- [Building a podcast generation app](https://dev.to/luis_novo/building-a-podcast-generation-app-2n65)
+- [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
+- [🚀 Introducing CodeWhiz: Your AI-Powered Code Commenting Sidekick for VS Code 🧠✨](https://dev.to/puneetkumar2010/introducing-codewhiz-your-ai-powered-code-commenting-sidekick-for-vs-code-1nhc)
+- [How to create a simple waitlist form in Next.js using Supabase to collect responses](https://dev.to/charanx/how-to-create-a-simple-waitlist-form-in-nextjs-using-supabase-to-collect-responses-4dpe)
+- [How to rate limit your Next.js APIs using Upstash](https://dev.to/charanx/how-to-rate-limit-your-nextjs-apis-using-upstash-1d82)
 <!-- BLOG-POST-LIST:END -->
 
 
