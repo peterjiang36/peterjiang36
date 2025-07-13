@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Convention over configuration in the age of AI. &lpar; Happy accident ? &rpar;](https://dev.to/w3ndo/convention-over-configuration-in-the-age-of-ai-happy-accident--1b9j)
-- [Mission 7: Update Your Portfolio Part Two](https://dev.to/theoriginalbpc/mission-7-update-your-portfolio-part-two-4bkc)
-- [Understanding of Deep Copy and Shallow Copy in JavaScript](https://dev.to/kannan_ravi/understanding-of-deep-copy-and-shallow-copy-in-javascript-h3i)
-- [Why Your Flutter App Rebuilds Too Much — And How to Fix It](https://dev.to/alaminkarno/why-your-flutter-app-rebuilds-too-much-and-how-to-fix-it-bpi)
+- [Setting Up Clerk Authentication with NestJS and Next.js](https://dev.to/satoshi_9a44c57cd2e96fbff/setting-up-clerk-authentication-with-nestjs-and-nextjs-3nai)
+- [How Do You Manage PHP Dependencies Effectively in Your Projects?](https://dev.to/thecodeliner/how-do-you-manage-php-dependencies-effectively-in-your-projects-2opj)
+- [Azure Landing Zone Deployment: Private VNETs, Self-Hosted Agents &amp; Service Connections](https://dev.to/florianlenz/azure-landing-zone-deployment-private-vnets-self-hosted-agents-service-connections-3ld5)
+- [🛠️ I built DevTool360 – A privacy-first toolbox for developers &lpar;GraphQL, Docker, API Testing &amp; more&rpar;](https://dev.to/devtool360_146dd3c2afd04c/i-built-devtool360-a-privacy-first-toolbox-for-developers-graphql-docker-api-testing-more-3a30)
 <!-- BLOG-POST-LIST:END -->
 
 
