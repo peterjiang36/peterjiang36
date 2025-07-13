@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built JavaScript&#39;s fastest &quot;deep equals&quot; function](https://dev.to/ahrjarrett/how-i-built-javascripts-fastest-deep-equals-function-51n8)
-- [From URL to React: What Happens When You Type URL and Press Enter?](https://dev.to/shubham_ghule_e94e88f98ce/from-url-to-react-what-happens-when-you-press-enter-40n8)
-- [Day 3 of Java Full Stack Learning](https://dev.to/vidya_varshini/day-3-of-java-full-stack-learning-103p)
-- [🚀 LookAtni File Markers — Invisible Markers to Structure Your Files Like Magic](https://dev.to/rafael_mori/lookatni-file-markers-invisible-markers-to-structure-your-files-like-magic-mfl)
+- [Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting](https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `42`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-42-22ha)
+- [🚀 DevOps Journey – Week 4 &amp; 5: Deep Dive into Linux](https://dev.to/azmatahmed786/devops-journey-week-4-5-deep-dive-into-linux-404m)
+- [How to Escape Tutorial Hell: 5 Steps to Finally Becoming a Real Developer](https://dev.to/nirmitkotadiya/how-to-escape-tutorial-hell-5-steps-to-finally-becoming-a-real-developer-5e2f)
 <!-- BLOG-POST-LIST:END -->
 
 
