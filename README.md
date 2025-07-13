@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Fundamentals: groupadd](https://dev.to/devopsfundamentals/ubuntu-fundamentals-groupadd-1ba)
-- [React Native Revolution: Instantly Build Mobile Apps from Figma](https://dev.to/atforeveryoung/react-native-revolution-instantly-build-mobile-apps-from-figma-3kem)
-- [How to Detect Corporate Events with 8-K Filings | FinFeedAPI Guide](https://dev.to/finfeedapi/how-to-detect-corporate-events-with-8-k-filings-finfeedapi-guide-5fij)
-- [Story Telling AI](https://dev.to/yash_tiwari_abb8918e0bb49/story-telling-ai-73o)
+- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
+- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
+- [Escalabilidade DE ZERO A MILHÕES DE USUÁRIOS](https://dev.to/fumagallilaura/escalabilidade-de-zero-a-milhoes-de-usuarios-452d)
+- [🔹 Peek: A Fast, Colorful, Tree-Based ls Alternative Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/peek-a-fast-colorful-tree-based-ls-alternative-built-in-rust-1pal)
 <!-- BLOG-POST-LIST:END -->
 
 
