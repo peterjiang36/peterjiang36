@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]](https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8)
-- [A Plug and Play Auth API](https://dev.to/thesbd/a-plug-and-play-auth-api-59bi)
-- [Escalabilidade DE ZERO A MILHÕES DE USUÁRIOS](https://dev.to/fumagallilaura/escalabilidade-de-zero-a-milhoes-de-usuarios-452d)
-- [🔹 Peek: A Fast, Colorful, Tree-Based ls Alternative Built in Rust](https://dev.to/tikrack_0b5ca7f793d07d3db/peek-a-fast-colorful-tree-based-ls-alternative-built-in-rust-1pal)
+- [Deploy of Application from S3 Bucket Using AWS Amplify](https://dev.to/aws-builders/deploy-of-application-from-s3-bucket-using-aws-amplify-bpf)
+- [How Jekyll almost killed our vitepress docs](https://dev.to/raghavyuva/how-jkyll-almost-killed-our-vitepress-docs-3ph8)
+- [Help me fix the error code](https://dev.to/huy_nguyn_95e81095b82a7b/help-me-fix-the-error-code-2cp9)
+- [Lazy about leaving the comfort zone](https://dev.to/mdohr07/lazy-about-leaving-the-comfort-zone-1f2k)
 <!-- BLOG-POST-LIST:END -->
 
 
