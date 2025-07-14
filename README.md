@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MovieMood is a React Native app built with Expo that lets you discover and explore movies using the TMDb API.](https://dev.to/saidmounaim/moviemood-is-a-react-native-app-built-with-expo-that-lets-you-discover-and-explore-movies-using-the-12cp)
-- [Axero Digital Workspace](https://dev.to/nebiyu_girma_007d227cbd12/this-is-a-submission-for-frontend-challenge-office-1ndd)
-- [Broken API Documentation: Why Developers Can&#39;t Integrate Successfully](https://dev.to/arbythecoder/broken-api-documentation-why-developers-cant-integrate-successfully-1cg)
-- [Programming Entry Level: how to error handling](https://dev.to/devopsfundamentals/programming-entry-level-how-to-error-handling-5593)
+- [Ilari Protocol](https://dev.to/j3rryh0well/ilari-protocol-4b95)
+- [Introducing Search For Organics: A Certified-Organic Search Engine &amp; Knowledge Hub](https://dev.to/marielandryceo/introducing-search-for-organics-a-certified-organic-search-engine-knowledge-hub-5ai)
+- [The Future of AI-Driven Infrastructure](https://dev.to/nigel10122/the-future-of-ai-driven-infrastructure-3cd3)
+- [my whois site &lpar;after a lot of years&rpar; is down dockerizing... $ docker run mbootgithub/whoisdomain -d bibliosistemas.com -j | jq -r .](https://dev.to/horaciodegiorgi/my-whois-site-after-a-lot-of-years-is-down-dockerizing-docker-run-115b)
 <!-- BLOG-POST-LIST:END -->
 
 
