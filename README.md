@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Mojo? 🔥🐍](https://dev.to/hmzas/what-is-mojo-2346)
-- [What is Git | Explained in under a minute](https://dev.to/ravgeetdhillon/what-is-git-explained-in-under-a-minute-50d4)
-- [I Tried Tons of AI Tattoo Generators — Here Are the Ones That Gave Me Jaw-Dropping Results](https://dev.to/nitinfab/i-tried-tons-of-ai-tattoo-generators-here-are-the-ones-that-gave-me-jaw-dropping-results-2761)
-- [I Built a DevOps CLI Tool in Go – Meet Codewise-CLI](https://dev.to/aryansharma9917/i-built-a-devops-cli-tool-in-go-meet-codewise-cli-5149)
+- [Asparagos vs Potato Bugs: Can He Detect the Cycle in O&lpar;1&rpar; Space?](https://dev.to/asparagos/asparagos-vs-potato-bugs-can-he-detect-the-cycle-in-o1-space-1dll)
+- [Seamlessly integrate strongly-typed primitives into your Umbraco apis](https://dev.to/d_inventor/seamlessly-integrate-strongly-typed-primitives-into-your-umbraco-apis-4jeb)
+- [Web Font Performance Checklist](https://dev.to/jacobandrewsky/web-font-performance-checklist-12i6)
+- [Data Normalization Explained: Why It Matters in IT Asset Management](https://dev.to/teresa_tran/data-normalization-explained-why-it-matters-in-it-asset-management-36ed)
 <!-- BLOG-POST-LIST:END -->
 
 
