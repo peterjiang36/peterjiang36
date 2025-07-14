@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Started Learning System Design Day 1.](https://dev.to/rachitsinghh/started-learning-system-design-day-1-136d)
-- [Top Free ER Diagram Tools for PostgreSQL in 2025](https://dev.to/roxana_haidiner/top-free-er-diagram-tools-for-postgresql-in-2025-22ga)
-- [Reverse k Segments in Linked List](https://dev.to/carlosrambles/reverse-k-segments-in-linked-list-2hfo)
-- [Revolutionize Your Customer Engagement: Unlock the Power of Customer Insights with the Customer Card Add-in for Dynamics 365](https://dev.to/array_platforms/revolutionize-your-customer-engagement-unlock-the-power-of-customer-insights-with-the-customer-34l7)
+- [Introduction to Cloud Native ☁️](https://dev.to/riteshkokam/introduction-to-cloud-native-4i82)
+- [Time Data Series: Written In Our Stars](https://dev.to/adatole/time-data-series-written-in-our-stars-2f6d)
+- [When Machines Meet Meaning A Look at SEO’s Evolving Role](https://dev.to/aaliyah_connolly_e7a40e85/when-machines-meet-meaning-a-look-at-seos-evolving-role-32og)
+- [Building a Dumb Sensor Simulator in C &lpar;That Taught Me How I Took Python For Granted&rpar;](https://dev.to/asimbuilds/building-a-dumb-sensor-simulator-in-c-that-taught-me-how-i-took-python-for-granted-49f5)
 <!-- BLOG-POST-LIST:END -->
 
 
