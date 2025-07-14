@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [17 things you absolutely should know about Grok 4](https://dev.to/muhtalhakhan/17-things-you-absolutely-should-know-about-grok-4-eph)
-- [DevLog 20250713: Development Speeds](https://dev.to/nfc-charles/devlog-20250713-development-speeds-2o1a)
-- [How We Built A Secure Multi-Account AWS Environment with IAM and Identity Center](https://dev.to/sainticon/building-a-secure-multi-account-aws-environment-with-iam-and-identity-center-5c1g)
-- [A Single-Case Study: Using Grok 4 to Reframe a “Beauty Analysis” Prompt for ChatGPT o3](https://dev.to/farukalpay/a-single-case-study-using-grok-4-to-reframe-a-beauty-analysis-prompt-for-chatgpt-o3-5em4)
+- [Boost Your Web Performance: Mastering JavaScript Scheduling Methods](https://dev.to/codewithrajat/boost-your-web-performance-mastering-javascript-scheduling-methods-56eh)
+- [Umemura Farm Website – Devlog #35: Deploying to Netlify and Performance Improvements with Video Compression](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-35-deploying-to-netlify-and-performance-improvements-with-video-1ma4)
+- [Angular Reactive Forms-Login Form Made Simple](https://dev.to/vetriselvan_11/angular-reactive-forms-login-form-made-simple-10dc)
+- [Is Spanner Really That Expensive? The Surprising Break-Even Point with Firestore](https://dev.to/apstndb/is-spanner-really-that-expensive-the-surprising-break-even-point-with-firestore-2ma9)
 <!-- BLOG-POST-LIST:END -->
 
 
