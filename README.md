@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase UI: Platform Kit](https://dev.to/supabase/supabase-ui-platform-kit-k12)
-- [MCP Project Update &lpar;Part 2&rpar;: Ecosystem, Registries &amp; Governance](https://dev.to/om_shree_0709/mcp-project-update-part-2-ecosystem-registries-governance-38b9)
-- [MCP Project Update &lpar;Part 1&rpar;: Protocol Evolution &amp; Technical Insights](https://dev.to/om_shree_0709/mcp-project-update-part-1-protocol-evolution-technical-insights-5c0l)
-- [🔐 Mastering AWS IAM: How to Control EC2 Access Like a Pro [Part-5]](https://dev.to/suvrajeet/mastering-aws-iam-how-to-control-ec2-access-like-a-pro-part-5-4gd0)
+- [WebGPU Engine from Scratch Part 2: Geometry](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-2-geometry-553p)
+- [Is Node.js JavaScript?](https://dev.to/kiani0x01/is-nodejs-javascript-nll)
+- [Getting better](https://dev.to/ishibak/getting-better-4beg)
+- [Why I Switched from Supabase to Gadget for My Replit Projects](https://dev.to/nate_sharma_/why-i-switched-from-supabase-to-gadget-for-my-replit-projects-3pgi)
 <!-- BLOG-POST-LIST:END -->
 
 
