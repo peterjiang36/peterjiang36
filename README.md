@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to do webhook testing quickly and easily with Tunnelmole](https://dev.to/robbiecahill/how-to-do-webhook-testing-quickly-and-easily-with-tunnelmole-3bdi)
-- [Everything You Need to Know About Strings in Python](https://dev.to/maulik-0207/everything-you-need-to-know-about-strings-in-python-28c0)
-- [I’ve Been Trying to Build a SaaS for Years — Still No Sales, But I’m Not Giving Up](https://dev.to/damonclark/ive-been-trying-to-build-a-saas-for-years-still-no-sales-but-im-not-giving-up-4j5b)
-- [[Boost]](https://dev.to/rajesh_patel/-3fp5)
+- [Started Learning System Design Day 1.](https://dev.to/rachitsinghh/started-learning-system-design-day-1-136d)
+- [Top Free ER Diagram Tools for PostgreSQL in 2025](https://dev.to/roxana_haidiner/top-free-er-diagram-tools-for-postgresql-in-2025-22ga)
+- [Reverse k Segments in Linked List](https://dev.to/carlosrambles/reverse-k-segments-in-linked-list-2hfo)
+- [Revolutionize Your Customer Engagement: Unlock the Power of Customer Insights with the Customer Card Add-in for Dynamics 365](https://dev.to/array_platforms/revolutionize-your-customer-engagement-unlock-the-power-of-customer-insights-with-the-customer-34l7)
 <!-- BLOG-POST-LIST:END -->
 
 
