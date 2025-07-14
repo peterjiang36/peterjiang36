@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# 🎙️ Building Voice Agents: The Revolutionary Future of Customer Support is Here!](https://dev.to/pradipbhor/-building-voice-agents-the-revolutionary-future-of-customer-support-is-here-1pe)
-- [Manage user cookie consent with Google Tag Manager: a step-by-step guide](https://dev.to/u11d/manage-user-cookie-consent-with-google-tag-manager-a-step-by-step-guide-313e)
-- [SQL CASE Statement Explained with Real-World Examples](https://dev.to/dbvismarketing/sql-case-statement-explained-with-real-world-examples-1pid)
-- [Quark’s Outlines: Python Numbers](https://dev.to/mike-vincent/quarks-outlines-python-numbers-g6c)
+- [What Is Mojo? 🔥🐍](https://dev.to/hmzas/what-is-mojo-2346)
+- [What is Git | Explained in under a minute](https://dev.to/ravgeetdhillon/what-is-git-explained-in-under-a-minute-50d4)
+- [I Tried Tons of AI Tattoo Generators — Here Are the Ones That Gave Me Jaw-Dropping Results](https://dev.to/nitinfab/i-tried-tons-of-ai-tattoo-generators-here-are-the-ones-that-gave-me-jaw-dropping-results-2761)
+- [I Built a DevOps CLI Tool in Go – Meet Codewise-CLI](https://dev.to/aryansharma9917/i-built-a-devops-cli-tool-in-go-meet-codewise-cli-5149)
 <!-- BLOG-POST-LIST:END -->
 
 
