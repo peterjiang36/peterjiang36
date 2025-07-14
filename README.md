@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ilari Protocol](https://dev.to/j3rryh0well/ilari-protocol-4b95)
-- [Introducing Search For Organics: A Certified-Organic Search Engine &amp; Knowledge Hub](https://dev.to/marielandryceo/introducing-search-for-organics-a-certified-organic-search-engine-knowledge-hub-5ai)
-- [The Future of AI-Driven Infrastructure](https://dev.to/nigel10122/the-future-of-ai-driven-infrastructure-3cd3)
-- [my whois site &lpar;after a lot of years&rpar; is down dockerizing... $ docker run mbootgithub/whoisdomain -d bibliosistemas.com -j | jq -r .](https://dev.to/horaciodegiorgi/my-whois-site-after-a-lot-of-years-is-down-dockerizing-docker-run-115b)
+- [17 things you absolutely should know about Grok 4](https://dev.to/muhtalhakhan/17-things-you-absolutely-should-know-about-grok-4-eph)
+- [DevLog 20250713: Development Speeds](https://dev.to/nfc-charles/devlog-20250713-development-speeds-2o1a)
+- [How We Built A Secure Multi-Account AWS Environment with IAM and Identity Center](https://dev.to/sainticon/building-a-secure-multi-account-aws-environment-with-iam-and-identity-center-5c1g)
+- [A Single-Case Study: Using Grok 4 to Reframe a “Beauty Analysis” Prompt for ChatGPT o3](https://dev.to/farukalpay/a-single-case-study-using-grok-4-to-reframe-a-beauty-analysis-prompt-for-chatgpt-o3-5em4)
 <!-- BLOG-POST-LIST:END -->
 
 
