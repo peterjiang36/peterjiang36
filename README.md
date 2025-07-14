@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Cloud Native ☁️](https://dev.to/riteshkokam/introduction-to-cloud-native-4i82)
-- [Time Data Series: Written In Our Stars](https://dev.to/adatole/time-data-series-written-in-our-stars-2f6d)
-- [When Machines Meet Meaning A Look at SEO’s Evolving Role](https://dev.to/aaliyah_connolly_e7a40e85/when-machines-meet-meaning-a-look-at-seos-evolving-role-32og)
-- [Building a Dumb Sensor Simulator in C &lpar;That Taught Me How I Took Python For Granted&rpar;](https://dev.to/asimbuilds/building-a-dumb-sensor-simulator-in-c-that-taught-me-how-i-took-python-for-granted-49f5)
+- [Sean Astin To Run For SAG-AFTRA President](https://dev.to/popcorn_tv/sean-astin-to-run-for-sag-aftra-president-o29)
+- [HBO Max is officially HBO Max again | The Max app switched back to HBO Max today.](https://dev.to/popcorn_tv/hbo-max-is-officially-hbo-max-again-the-max-app-switched-back-to-hbo-max-today-4jp0)
+- [‘Murderbot&#39; Lands Season 2 Renewal at Apple TV+](https://dev.to/popcorn_tv/murderbot-lands-season-2-renewal-at-apple-tv-1eo2)
+- [‘Scrubs&#39; Reboot Scores ABC Series Order With Donald Faison &amp;amp; Sarah Chalke Joining Zach Braff](https://dev.to/popcorn_tv/scrubs-reboot-scores-abc-series-order-with-donald-faison-amp-sarah-chalke-joining-zach-braff-26e4)
 <!-- BLOG-POST-LIST:END -->
 
 
