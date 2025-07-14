@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Ben Evans](https://dev.to/alvaromontoro/interview-with-ben-evans-3o3b)
-- [Made my first project using google ai](https://dev.to/anishnagubandi/made-my-first-project-using-google-ai-2kop)
-- [Caching Mechanism Integration With Spring Boot](https://dev.to/nashmin_hasan/caching-mechanism-integration-with-spring-boot-5eck)
-- [Perl 🐪 Weekly #729 - Videos from TPRC](https://dev.to/szabgab/perl-weekly-729-videos-from-tprc-2c21)
+- [15 Tiny Python Scripts to Supercharge Your Social Media Workflow](https://dev.to/xinjie_zou_d67d2805538130/15-tiny-python-scripts-to-supercharge-your-social-media-workflow-4l2a)
+- [Tailwind CSS – Utility-First CSS in Action](https://dev.to/letanure/tailwind-css-utility-first-css-in-action-4c0a)
+- [The Transformative Role of AI Agents in Business Automation by 2025](https://dev.to/paras_test/the-transformative-role-of-ai-agents-in-business-automation-by-2025-5c2k)
+- [Web Accessibility Checklist – Building Inclusive Web Apps](https://dev.to/letanure/web-accessibility-checklist-building-inclusive-web-apps-l1l)
 <!-- BLOG-POST-LIST:END -->
 
 
