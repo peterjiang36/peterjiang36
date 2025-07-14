@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sean Astin To Run For SAG-AFTRA President](https://dev.to/popcorn_tv/sean-astin-to-run-for-sag-aftra-president-o29)
-- [HBO Max is officially HBO Max again | The Max app switched back to HBO Max today.](https://dev.to/popcorn_tv/hbo-max-is-officially-hbo-max-again-the-max-app-switched-back-to-hbo-max-today-4jp0)
-- [‘Murderbot&#39; Lands Season 2 Renewal at Apple TV+](https://dev.to/popcorn_tv/murderbot-lands-season-2-renewal-at-apple-tv-1eo2)
-- [‘Scrubs&#39; Reboot Scores ABC Series Order With Donald Faison &amp;amp; Sarah Chalke Joining Zach Braff](https://dev.to/popcorn_tv/scrubs-reboot-scores-abc-series-order-with-donald-faison-amp-sarah-chalke-joining-zach-braff-26e4)
+- [Implementasi Autoscaling VM di Azure](https://dev.to/bisacloud/implementasi-autoscaling-vm-di-azure-3kc1)
+- [Build a Real-Time Chat App with WebSockets](https://dev.to/gingermuffn/build-a-real-time-chat-app-with-websockets-1om8)
+- [Got Obsessed with AI Flower Backdrops — Then Prompt Chaos Hit Me](https://dev.to/junxiao_mai_6ebd738502862/got-obsessed-with-ai-flower-backdrops-then-prompt-chaos-hit-me-45go)
+- [From Disruptions to Opportunities: Failing and Emerging Businesses Under Climate-Induced Droughts](https://dev.to/mimran/from-disruptions-to-opportunities-failing-and-emerging-businesses-under-climate-induced-droughts-5bcg)
 <!-- BLOG-POST-LIST:END -->
 
 
