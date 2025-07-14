@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [We Write Code for Two Audiences—with Two Different Priorities](https://dev.to/canro91/we-write-code-for-two-audiences-with-two-different-priorities-l02)
+- [Why Your Development Team Is 40% Slower Than Your Competitors &lpar;And How to Fix It&rpar;](https://dev.to/teamcamp/why-your-development-team-is-40-slower-than-your-competitors-and-how-to-fix-it-7on)
 - [Prompting Techniques: How to Talk to AI &lpar;and Get What You Want&rpar;](https://dev.to/shanedsouza4/prompting-techniques-how-to-talk-to-ai-and-get-what-you-want-5f9e)
-- [The Trust Challenge: Safe Infrastructure Previews in Forked Workflows](https://dev.to/domderrien/the-trust-challenge-safe-infrastructure-previews-in-forked-workflows-24pf)
-- [Secure Code Review: Branch Protection and Automated Security Scanning](https://dev.to/domderrien/secure-code-review-branch-protection-and-automated-security-scanning-5h9h)
-- [🔊Building a Real-Time Scream Detection System with Python and Machine Learning](https://dev.to/varun310/building-a-real-time-scream-detection-system-with-python-and-machine-learning-3bl9)
+- [Lessons Learned: Building Secure Pipelines in Practice](https://dev.to/domderrien/lessons-learned-building-secure-pipelines-in-practice-36ef)
 <!-- BLOG-POST-LIST:END -->
 
 
