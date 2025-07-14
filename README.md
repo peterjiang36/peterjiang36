@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Write Code for Two Audiences—with Two Different Priorities](https://dev.to/canro91/we-write-code-for-two-audiences-with-two-different-priorities-l02)
-- [Why Your Development Team Is 40% Slower Than Your Competitors &lpar;And How to Fix It&rpar;](https://dev.to/teamcamp/why-your-development-team-is-40-slower-than-your-competitors-and-how-to-fix-it-7on)
-- [Prompting Techniques: How to Talk to AI &lpar;and Get What You Want&rpar;](https://dev.to/shanedsouza4/prompting-techniques-how-to-talk-to-ai-and-get-what-you-want-5f9e)
-- [Lessons Learned: Building Secure Pipelines in Practice](https://dev.to/domderrien/lessons-learned-building-secure-pipelines-in-practice-36ef)
+- [Dataverse Row Level Security](https://dev.to/wyattdave/dataverse-row-level-security-54if)
+- [Build Visual Workflows with n8n and Automate Everything](https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3)
+- [[Boost]](https://dev.to/srushti/-1aem)
+- [💰 From Side Project to Revenue: GMB Booking Monetization Journey](https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267)
 <!-- BLOG-POST-LIST:END -->
 
 
