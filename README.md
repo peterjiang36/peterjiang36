@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Web Performance: Mastering JavaScript Scheduling Methods](https://dev.to/codewithrajat/boost-your-web-performance-mastering-javascript-scheduling-methods-56eh)
-- [Umemura Farm Website – Devlog #35: Deploying to Netlify and Performance Improvements with Video Compression](https://dev.to/ri_ki_251ca3db361b527f552/umemura-farm-website-devlog-35-deploying-to-netlify-and-performance-improvements-with-video-1ma4)
-- [Angular Reactive Forms-Login Form Made Simple](https://dev.to/vetriselvan_11/angular-reactive-forms-login-form-made-simple-10dc)
-- [Is Spanner Really That Expensive? The Surprising Break-Even Point with Firestore](https://dev.to/apstndb/is-spanner-really-that-expensive-the-surprising-break-even-point-with-firestore-2ma9)
+- [Vertical SaaS Explained: Tailored Software for Specific Industries](https://dev.to/lollypopdesign/vertical-saas-explained-tailored-software-for-specific-industries-4eld)
+- [Remote-Starting My Ford Maverick with Termux, Tailscale, and No Root](https://dev.to/mastershoe08/remote-starting-my-ford-maverick-with-termux-tailscale-and-no-root-38jd)
+- [1290. Convert Binary Number in a Linked List to Integer](https://dev.to/mdarifulhaque/1290-convert-binary-number-in-a-linked-list-to-integer-71m)
+- [Advanced Form Handling Angular 20 - Dynamic Portfolio Builder and File Upload System](https://dev.to/prasunchakra/advanced-form-handling-angular-20-dynamic-portfolio-builder-and-file-upload-system-5bd3)
 <!-- BLOG-POST-LIST:END -->
 
 
