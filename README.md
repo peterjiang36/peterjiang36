@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing JWT Signing Keys](https://dev.to/supabase/introducing-jwt-signing-keys-4h3g)
-- [How I Got Started — Why We Shouldn&#39;t Give Up❗](https://dev.to/cristea_theodora_6200140b/how-i-got-started-why-we-shouldnt-give-up-1dl3)
-- [How to Set Up a High-Availability Azure Blob Storage for a Public Website &lpar;With Versioning &amp; Recovery&rpar;](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-a-high-availability-azure-blob-storage-for-a-public-website-with-versioning--4p7g)
-- [I Just Launched My Developer Portfolio — Here&#39;s What I Built and What I Learned](https://dev.to/ankush_shukla_015b57b4120/i-just-launched-my-developer-portfolio-heres-what-i-built-and-what-i-learned-460g)
+- [Supabase UI: Platform Kit](https://dev.to/supabase/supabase-ui-platform-kit-k12)
+- [MCP Project Update &lpar;Part 2&rpar;: Ecosystem, Registries &amp; Governance](https://dev.to/om_shree_0709/mcp-project-update-part-2-ecosystem-registries-governance-38b9)
+- [MCP Project Update &lpar;Part 1&rpar;: Protocol Evolution &amp; Technical Insights](https://dev.to/om_shree_0709/mcp-project-update-part-1-protocol-evolution-technical-insights-5c0l)
+- [🔐 Mastering AWS IAM: How to Control EC2 Access Like a Pro [Part-5]](https://dev.to/suvrajeet/mastering-aws-iam-how-to-control-ec2-access-like-a-pro-part-5-4gd0)
 <!-- BLOG-POST-LIST:END -->
 
 
