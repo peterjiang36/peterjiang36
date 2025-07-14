@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Tiny Python Scripts to Supercharge Your Social Media Workflow](https://dev.to/xinjie_zou_d67d2805538130/15-tiny-python-scripts-to-supercharge-your-social-media-workflow-4l2a)
-- [Tailwind CSS – Utility-First CSS in Action](https://dev.to/letanure/tailwind-css-utility-first-css-in-action-4c0a)
-- [The Transformative Role of AI Agents in Business Automation by 2025](https://dev.to/paras_test/the-transformative-role-of-ai-agents-in-business-automation-by-2025-5c2k)
-- [Web Accessibility Checklist – Building Inclusive Web Apps](https://dev.to/letanure/web-accessibility-checklist-building-inclusive-web-apps-l1l)
+- [How to do webhook testing quickly and easily with Tunnelmole](https://dev.to/robbiecahill/how-to-do-webhook-testing-quickly-and-easily-with-tunnelmole-3bdi)
+- [Everything You Need to Know About Strings in Python](https://dev.to/maulik-0207/everything-you-need-to-know-about-strings-in-python-28c0)
+- [I’ve Been Trying to Build a SaaS for Years — Still No Sales, But I’m Not Giving Up](https://dev.to/damonclark/ive-been-trying-to-build-a-saas-for-years-still-no-sales-but-im-not-giving-up-4j5b)
+- [[Boost]](https://dev.to/rajesh_patel/-3fp5)
 <!-- BLOG-POST-LIST:END -->
 
 
