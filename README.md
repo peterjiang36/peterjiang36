@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vertical SaaS Explained: Tailored Software for Specific Industries](https://dev.to/lollypopdesign/vertical-saas-explained-tailored-software-for-specific-industries-4eld)
-- [Remote-Starting My Ford Maverick with Termux, Tailscale, and No Root](https://dev.to/mastershoe08/remote-starting-my-ford-maverick-with-termux-tailscale-and-no-root-38jd)
-- [1290. Convert Binary Number in a Linked List to Integer](https://dev.to/mdarifulhaque/1290-convert-binary-number-in-a-linked-list-to-integer-71m)
-- [Advanced Form Handling Angular 20 - Dynamic Portfolio Builder and File Upload System](https://dev.to/prasunchakra/advanced-form-handling-angular-20-dynamic-portfolio-builder-and-file-upload-system-5bd3)
+- [Prompting Techniques: How to Talk to AI &lpar;and Get What You Want&rpar;](https://dev.to/shanedsouza4/prompting-techniques-how-to-talk-to-ai-and-get-what-you-want-5f9e)
+- [The Trust Challenge: Safe Infrastructure Previews in Forked Workflows](https://dev.to/domderrien/the-trust-challenge-safe-infrastructure-previews-in-forked-workflows-24pf)
+- [Secure Code Review: Branch Protection and Automated Security Scanning](https://dev.to/domderrien/secure-code-review-branch-protection-and-automated-security-scanning-5h9h)
+- [🔊Building a Real-Time Scream Detection System with Python and Machine Learning](https://dev.to/varun310/building-a-real-time-scream-detection-system-with-python-and-machine-learning-3bl9)
 <!-- BLOG-POST-LIST:END -->
 
 
