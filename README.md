@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Asparagos vs Potato Bugs: Can He Detect the Cycle in O&lpar;1&rpar; Space?](https://dev.to/asparagos/asparagos-vs-potato-bugs-can-he-detect-the-cycle-in-o1-space-1dll)
-- [Seamlessly integrate strongly-typed primitives into your Umbraco apis](https://dev.to/d_inventor/seamlessly-integrate-strongly-typed-primitives-into-your-umbraco-apis-4jeb)
-- [Web Font Performance Checklist](https://dev.to/jacobandrewsky/web-font-performance-checklist-12i6)
-- [Data Normalization Explained: Why It Matters in IT Asset Management](https://dev.to/teresa_tran/data-normalization-explained-why-it-matters-in-it-asset-management-36ed)
+- [Interview with Ben Evans](https://dev.to/alvaromontoro/interview-with-ben-evans-3o3b)
+- [Made my first project using google ai](https://dev.to/anishnagubandi/made-my-first-project-using-google-ai-2kop)
+- [Caching Mechanism Integration With Spring Boot](https://dev.to/nashmin_hasan/caching-mechanism-integration-with-spring-boot-5eck)
+- [Perl 🐪 Weekly #729 - Videos from TPRC](https://dev.to/szabgab/perl-weekly-729-videos-from-tprc-2c21)
 <!-- BLOG-POST-LIST:END -->
 
 
