@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch Part 2: Geometry](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-2-geometry-553p)
-- [Is Node.js JavaScript?](https://dev.to/kiani0x01/is-nodejs-javascript-nll)
-- [Getting better](https://dev.to/ishibak/getting-better-4beg)
-- [Why I Switched from Supabase to Gadget for My Replit Projects](https://dev.to/nate_sharma_/why-i-switched-from-supabase-to-gadget-for-my-replit-projects-3pgi)
+- [Data Culture in the Tech Era](https://dev.to/julsr_mx/data-culture-in-the-tech-era-54l5)
+- [Filtering Out Rows Using LEFT JOIN: A Clean Alternative to NOT IN](https://dev.to/drorata/filtering-out-rows-using-left-join-a-clean-alternative-to-not-in-2lk8)
+- [Kicking off another week featuring Excalidraw!](https://dev.to/riyanapatel/kicking-off-another-week-featuring-excalidraw-45fh)
+- [Reducing Risk, Fueling Growth: A Government-Backed Credit Scheme MSMEs Should Know About](https://dev.to/gov01/reducing-risk-fueling-growth-a-government-backed-credit-scheme-msmes-should-know-about-d2k)
 <!-- BLOG-POST-LIST:END -->
 
 
