@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dataverse Row Level Security](https://dev.to/wyattdave/dataverse-row-level-security-54if)
-- [Build Visual Workflows with n8n and Automate Everything](https://dev.to/dilumdarshana/build-visual-workflows-with-n8n-and-automate-everything-2hk3)
-- [[Boost]](https://dev.to/srushti/-1aem)
-- [💰 From Side Project to Revenue: GMB Booking Monetization Journey](https://dev.to/webiatic/from-side-project-to-revenue-gmb-booking-monetization-journey-5267)
+- [# 🎙️ Building Voice Agents: The Revolutionary Future of Customer Support is Here!](https://dev.to/pradipbhor/-building-voice-agents-the-revolutionary-future-of-customer-support-is-here-1pe)
+- [Manage user cookie consent with Google Tag Manager: a step-by-step guide](https://dev.to/u11d/manage-user-cookie-consent-with-google-tag-manager-a-step-by-step-guide-313e)
+- [SQL CASE Statement Explained with Real-World Examples](https://dev.to/dbvismarketing/sql-case-statement-explained-with-real-world-examples-1pid)
+- [Quark’s Outlines: Python Numbers](https://dev.to/mike-vincent/quarks-outlines-python-numbers-g6c)
 <!-- BLOG-POST-LIST:END -->
 
 
