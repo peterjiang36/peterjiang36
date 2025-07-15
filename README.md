@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Playwright MCP Server in VS Code](https://dev.to/debs_obrien/install-playwright-mcp-server-in-vs-code-4o91)
-- [How to Build Your Own AI Mascot in Golang.](https://dev.to/sfundomhlungu/how-to-build-your-own-ai-mascot-in-golang-38m0)
-- [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
-- [Modern Server-Side Event Implementation&lpar;7573&rpar;](https://dev.to/member_466da0bd/modern-server-side-event-implementation7573-25jk)
+- [No Laying Up Podcast: 1039: 2025 Open Championship Preview](https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb)
+- [No Laying Up Podcast: Seamsters Union: All-Star Break | Trap Draw, Ep 350](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-all-star-break-trap-draw-ep-350-afl)
+- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-10b4)
+- [Bryan Bros Golf: Can We Make Major Cut @ Royal Portrush? &lpar;The Open&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-major-cut-royal-portrush-the-open-2fdp)
 <!-- BLOG-POST-LIST:END -->
 
 
