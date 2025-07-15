@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 AirDrop: You Can Make $100,000 From &lpar;2025&rpar;](https://dev.to/scofieldidehen/10-airdrop-you-can-make-100000-from-2025-3b2j)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2g90)
-- [`wrangler deploy` usage in git-mcp codebase.](https://dev.to/ramunarasinga-11/wrangler-deploy-usage-in-git-mcp-codebase-4np8)
-- [It took me this many days to realize that Docker Captains is A Thing and I just love the commitment in the naming.](https://dev.to/jess/it-took-me-this-many-days-to-realize-that-docker-captains-is-a-thing-and-i-just-love-the-commitment-1bga)
+- [Newsway.ai News Summary](https://dev.to/corywboris/newswayai-news-summary-11gm)
+- [📧 How to Validate Email Addresses in PHP: A Practical Guide](https://dev.to/lion_reach_01821425fd0125/how-to-validate-email-addresses-in-php-a-practical-guide-1i2f)
+- [Keyword,Return type,Method,Objects,Void&amp;Variables...](https://dev.to/paviarunachalam/keywordreturn-typemethodobjectsvoidvariables-31jn)
+- [Create a Supabase backend using Figma Make](https://dev.to/supabase/create-a-supabase-backend-using-figma-make-334o)
 <!-- BLOG-POST-LIST:END -->
 
 
