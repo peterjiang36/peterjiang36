@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Styling with Props in Styled-Components](https://dev.to/faraib/dynamic-styling-with-props-in-styled-components-2p7k)
-- [Software Terminology](https://dev.to/ajeasmith/software-terminology-310i)
-- [Responsive Navigation Bar with Hamburger Menu](https://dev.to/musa379/responsive-navigation-bar-with-hamburger-menu-2c2o)
-- [Designing for Sustainability: The Rise of Green Software](https://dev.to/arjun_mullick_e734b4da656/designing-for-sustainability-the-rise-of-green-software-1ko0)
+- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-20d8)
+- [🔐 Amazon S3 Now Shows External Access Summary — Powered by IAM Access Analyzer](https://dev.to/latchudevops/amazon-s3-now-shows-external-access-summary-powered-by-iam-access-analyzer-525n)
+- [Инструменты пентестера: nmap, sqlmap, netcat – Исследование, Эксплуатация, Взаимодействие](https://dev.to/cybersecpro_online/instrumienty-pientiestiera-nmap-sqlmap-netcat-issliedovaniie-ekspluatatsiia-vzaimodieistviie-3849)
+- [We Tested 6 Free WAFs. Here&#39;s How They Actually Perform.](https://dev.to/sharon_42e16b8da44dabde6d/we-tested-6-free-wafs-heres-how-they-actually-perform-14fd)
 <!-- BLOG-POST-LIST:END -->
 
 
