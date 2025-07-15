@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Summer of Security: How Google’s AI-Led Cybersecurity Push Is Changing the Game](https://dev.to/grenishrai/a-summer-of-security-how-googles-ai-led-cybersecurity-push-is-changing-the-game-1e1p)
-- [Swift 6.2 WebAssembly Revolution: Redefining Platform Boundaries](https://dev.to/arshtechpro/swift-62s-webassembly-revolution-redefining-platform-boundaries-fi4)
-- [StudyZen Built Using Kiro!](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)
-- [Another Special Way to Learn JS](https://dev.to/lehonglong2411/another-special-way-to-learn-js-3ddb)
+- [10 AirDrop: You Can Make $100,000 From &lpar;2025&rpar;](https://dev.to/scofieldidehen/10-airdrop-you-can-make-100000-from-2025-3b2j)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2g90)
+- [`wrangler deploy` usage in git-mcp codebase.](https://dev.to/ramunarasinga-11/wrangler-deploy-usage-in-git-mcp-codebase-4np8)
+- [It took me this many days to realize that Docker Captains is A Thing and I just love the commitment in the naming.](https://dev.to/jess/it-took-me-this-many-days-to-realize-that-docker-captains-is-a-thing-and-i-just-love-the-commitment-1bga)
 <!-- BLOG-POST-LIST:END -->
 
 
