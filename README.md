@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-20d8)
-- [🔐 Amazon S3 Now Shows External Access Summary — Powered by IAM Access Analyzer](https://dev.to/latchudevops/amazon-s3-now-shows-external-access-summary-powered-by-iam-access-analyzer-525n)
-- [Инструменты пентестера: nmap, sqlmap, netcat – Исследование, Эксплуатация, Взаимодействие](https://dev.to/cybersecpro_online/instrumienty-pientiestiera-nmap-sqlmap-netcat-issliedovaniie-ekspluatatsiia-vzaimodieistviie-3849)
-- [We Tested 6 Free WAFs. Here&#39;s How They Actually Perform.](https://dev.to/sharon_42e16b8da44dabde6d/we-tested-6-free-wafs-heres-how-they-actually-perform-14fd)
+- [How AI is Changing Procurement &lpar;And Why It&#39;s More Interesting Than You Think&rpar;](https://dev.to/accioprocurement/how-ai-is-changing-procurement-and-why-its-more-interesting-than-you-think-24d2)
+- [Terraform Fundamentals: Control Tower](https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j)
+- [EduVerse](https://dev.to/imdeveloperjay/eduverse-3f87)
+- [最强Cloudflare过验证](https://dev.to/dragon72463399/zui-qiang-cloudflareguo-yan-zheng-17jd)
 <!-- BLOG-POST-LIST:END -->
 
 
