@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide: How to Implement Shopify POS UI Extensions](https://dev.to/tirth_godhani/complete-guide-how-to-implement-shopify-pos-ui-extensions-3no9)
-- [React useRef Explained: Real-World Examples for Beginners and Pros](https://dev.to/spyvarade/react-useref-explained-real-world-examples-for-beginners-and-pros-egf)
-- [Day 18 of Java Mastery: Data Type: float](https://dev.to/spyde/day-18-of-java-mastery-data-type-float-4lf8)
-- [🔥 Compression vs. Cognition: Why Simulated Thought Is Not Real Thinking](https://dev.to/marcosomma/compression-vs-cognition-why-simulated-thought-is-not-real-thinking-4jkj)
+- [5 Laravel Best Practices That Reduced My Bugs by 30%](https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn)
+- [ChatGPT Code Interpreter: The Future of Programming?](https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc)
+- [Top Polywork Alternatives in 2025](https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6)
+- [Kiro vs Copilot: This Could Change the Way You Code Forever](https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa)
 <!-- BLOG-POST-LIST:END -->
 
 
