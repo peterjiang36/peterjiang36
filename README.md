@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Kimi K2 the 1 Trillion Parameter AI to Challenge Claude Opus?](https://dev.to/jovin_george_733dcfc16291/is-kimi-k2-the-1-trillion-parameter-ai-to-challenge-claude-opus-3co)
-- [Rust Async Web Framework Performance Breakthrough&lpar;7070&rpar;](https://dev.to/member_466da0bd/rust-async-web-framework-performance-breakthrough7070-5729)
-- [Introducing Kiro – An AI IDE That Thinks Like a Developer](https://dev.to/aws-builders/introducing-kiro-an-ai-ide-that-thinks-like-a-developer-42jp)
-- [Context Management and Request Lifecycle Optimization&lpar;4955&rpar;](https://dev.to/member_466da0bd/context-management-and-request-lifecycle-optimization4955-33p3)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;6962&rpar;](https://dev.to/member_466da0bd/resource-management-and-memory-efficiency-in-web-servers6962-4kh5)
+- [Top 7 Advantages and Disadvantages of R Programming](https://dev.to/markwayne/top-7-advantages-and-disadvantages-of-r-programming-j91)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;4392&rpar;](https://dev.to/member_02ee4941/latency-optimization-secrets-for-millisecond-response-times4392-10j4)
+- [I’m Not a Genius — Just Simply Ambitious &lpar;And That’s Enough&rpar;](https://dev.to/rupali2005/im-not-a-genius-just-simply-ambitious-and-thats-enough-3hoa)
 <!-- BLOG-POST-LIST:END -->
 
 
