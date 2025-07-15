@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Google APIs in Your Next.js Project](https://dev.to/julimancan/how-to-integrate-google-apis-in-your-nextjs-project-gi4)
-- [What did I Learn from AWS Community Day Colombia 2025?](https://dev.to/sebastian_cerqueracarvaj/what-did-i-learn-from-aws-community-day-colombia-2025-435d)
-- [Supercharge Your CLI Workflow: Never Lose a Genius AI-Powered Idea Again with ai-cli-log](https://dev.to/alingse/supercharge-your-cli-workflow-never-lose-a-genius-ai-powered-idea-again-with-ai-cli-log-38pj)
-- [Advanced Use of Predicate, Function, Consumer, and Comparator in Java](https://dev.to/wkreuch/advanced-use-of-predicate-function-consumer-and-comparator-in-java-3dim)
+- [Dynamic Styling with Props in Styled-Components](https://dev.to/faraib/dynamic-styling-with-props-in-styled-components-2p7k)
+- [Software Terminology](https://dev.to/ajeasmith/software-terminology-310i)
+- [Responsive Navigation Bar with Hamburger Menu](https://dev.to/musa379/responsive-navigation-bar-with-hamburger-menu-2c2o)
+- [Designing for Sustainability: The Rise of Green Software](https://dev.to/arjun_mullick_e734b4da656/designing-for-sustainability-the-rise-of-green-software-1ko0)
 <!-- BLOG-POST-LIST:END -->
 
 
