@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript vs TypeScript: Complete Guide for Developers](https://dev.to/prachiguptaaaaaaaaaa/javascript-vs-typescript-complete-guide-for-developers-2dm9)
-- [Mastering JSX to Write Cleaner React Code](https://dev.to/abdelaziz_moustakim_45a4c/mastering-jsx-to-write-cleaner-react-code-59gc)
-- [Unraveling Code Changes: A Deep Dive into FOSS Diff Tools](https://dev.to/shrsv/unraveling-code-changes-a-deep-dive-into-foss-diff-tools-3jbc)
-- [iOS Interview Prep](https://dev.to/harshpdev/ios-interview-prep-38am)
+- [Stripe-To-Postgres Sync Engine as standalone Library](https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd)
+- [Installing Tailwind CSS v4.0 with Vite 🚀](https://dev.to/tenelabs/installing-tailwind-css-v40-with-vite-24ih)
+- [SwiftUI’s property wrappers](https://dev.to/harshpdev/swiftuis-property-wrappers-2b4c)
+- [S3-Driven DevOps: Event-Driven Deployments Triggered Entirely by Object Storage](https://dev.to/jatin_goel_dac08bb6728f1e/s3-driven-devops-event-driven-deployments-triggered-entirely-by-object-storage-4bb0)
 <!-- BLOG-POST-LIST:END -->
 
 
