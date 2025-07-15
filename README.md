@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Jenkins Pipeline for Python Applications: A Complete Guide](https://dev.to/caffinecoder54/creating-a-jenkins-pipeline-for-python-applications-a-complete-guide-35f6)
-- [The Zoom Fatigue Fix: How Top Remote Devs Run 90% Fewer Meetings](https://dev.to/teamcamp/the-zoom-fatigue-fix-how-top-remote-devs-run-90-fewer-meetings-20l9)
-- [Tired of Copy-Pasting the Same Code Snippets or Messages?](https://dev.to/aftabulsamudro/tired-of-copy-pasting-the-same-code-snippets-or-messages-32bc)
-- [AI for Business: Boosting Efficiency &amp; Innovation Today](https://dev.to/matilda_smith_13e07f45833/ai-for-business-boosting-efficiency-innovation-today-1c0n)
+- [Complete Guide: How to Implement Shopify POS UI Extensions](https://dev.to/tirth_godhani/complete-guide-how-to-implement-shopify-pos-ui-extensions-3no9)
+- [React useRef Explained: Real-World Examples for Beginners and Pros](https://dev.to/spyvarade/react-useref-explained-real-world-examples-for-beginners-and-pros-egf)
+- [Day 18 of Java Mastery: Data Type: float](https://dev.to/spyde/day-18-of-java-mastery-data-type-float-4lf8)
+- [🔥 Compression vs. Cognition: Why Simulated Thought Is Not Real Thinking](https://dev.to/marcosomma/compression-vs-cognition-why-simulated-thought-is-not-real-thinking-4jkj)
 <!-- BLOG-POST-LIST:END -->
 
 
