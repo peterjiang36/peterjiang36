@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elzaksspro/-1897)
-- [How to capture data changes in DynamoDB using Streams and Lambda &lpar;Node.js + AWS CDK&rpar;](https://dev.to/iamsherif/how-to-capture-data-changes-in-dynamodb-using-streams-and-lambda-nodejs-aws-cdk-4n9n)
-- [LinguaClip: The Extension That Turns Your Browser into a Language Learning Tool Combining Pomodoro with Flashcards](https://dev.to/jeancarje/linguaclip-the-extension-that-turns-your-browser-into-a-language-learning-tool-combining-pomodoro-370d)
-- [Rails 8’s JavaScript: Goodbye Node, Hello Ruby?](https://dev.to/alex_aslam/rails-8s-javascript-goodbye-node-hello-ruby-mll)
+- [How to Integrate Google APIs in Your Next.js Project](https://dev.to/julimancan/how-to-integrate-google-apis-in-your-nextjs-project-gi4)
+- [What did I Learn from AWS Community Day Colombia 2025?](https://dev.to/sebastian_cerqueracarvaj/what-did-i-learn-from-aws-community-day-colombia-2025-435d)
+- [Supercharge Your CLI Workflow: Never Lose a Genius AI-Powered Idea Again with ai-cli-log](https://dev.to/alingse/supercharge-your-cli-workflow-never-lose-a-genius-ai-powered-idea-again-with-ai-cli-log-38pj)
+- [Advanced Use of Predicate, Function, Consumer, and Comparator in Java](https://dev.to/wkreuch/advanced-use-of-predicate-function-consumer-and-comparator-in-java-3dim)
 <!-- BLOG-POST-LIST:END -->
 
 
