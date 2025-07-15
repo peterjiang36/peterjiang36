@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: 1039: 2025 Open Championship Preview](https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb)
-- [No Laying Up Podcast: Seamsters Union: All-Star Break | Trap Draw, Ep 350](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-all-star-break-trap-draw-ep-350-afl)
-- [Golf.com: Shane Lowry&#39;s Epic Portrush Return | 2025 Open](https://dev.to/youtube_golf/golfcom-shane-lowrys-epic-portrush-return-2025-open-10b4)
-- [Bryan Bros Golf: Can We Make Major Cut @ Royal Portrush? &lpar;The Open&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-major-cut-royal-portrush-the-open-2fdp)
+- [Is Kimi K2 the 1 Trillion Parameter AI to Challenge Claude Opus?](https://dev.to/jovin_george_733dcfc16291/is-kimi-k2-the-1-trillion-parameter-ai-to-challenge-claude-opus-3co)
+- [Rust Async Web Framework Performance Breakthrough&lpar;7070&rpar;](https://dev.to/member_466da0bd/rust-async-web-framework-performance-breakthrough7070-5729)
+- [Introducing Kiro – An AI IDE That Thinks Like a Developer](https://dev.to/aws-builders/introducing-kiro-an-ai-ide-that-thinks-like-a-developer-42jp)
+- [Context Management and Request Lifecycle Optimization&lpar;4955&rpar;](https://dev.to/member_466da0bd/context-management-and-request-lifecycle-optimization4955-33p3)
 <!-- BLOG-POST-LIST:END -->
 
 
