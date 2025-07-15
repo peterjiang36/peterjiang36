@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Changing Procurement &lpar;And Why It&#39;s More Interesting Than You Think&rpar;](https://dev.to/accioprocurement/how-ai-is-changing-procurement-and-why-its-more-interesting-than-you-think-24d2)
-- [Terraform Fundamentals: Control Tower](https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j)
-- [EduVerse](https://dev.to/imdeveloperjay/eduverse-3f87)
-- [最强Cloudflare过验证](https://dev.to/dragon72463399/zui-qiang-cloudflareguo-yan-zheng-17jd)
+- [Creating a Jenkins Pipeline for Python Applications: A Complete Guide](https://dev.to/caffinecoder54/creating-a-jenkins-pipeline-for-python-applications-a-complete-guide-35f6)
+- [The Zoom Fatigue Fix: How Top Remote Devs Run 90% Fewer Meetings](https://dev.to/teamcamp/the-zoom-fatigue-fix-how-top-remote-devs-run-90-fewer-meetings-20l9)
+- [Tired of Copy-Pasting the Same Code Snippets or Messages?](https://dev.to/aftabulsamudro/tired-of-copy-pasting-the-same-code-snippets-or-messages-32bc)
+- [AI for Business: Boosting Efficiency &amp; Innovation Today](https://dev.to/matilda_smith_13e07f45833/ai-for-business-boosting-efficiency-innovation-today-1c0n)
 <!-- BLOG-POST-LIST:END -->
 
 
