@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain](https://dev.to/newcoder789/blockchain-16nl)
-- [How to Calculate Total Cost of Ownership &lpar;TCO&rpar;?](https://dev.to/teresa_tran/how-to-calculate-total-cost-of-ownership-tco-d6)
-- [Why I Ditched the &#39;Move Fast and Break Things&#39; Mentality for &#39;Move Fast and Save Users Money&#39;.](https://dev.to/ybeybeybe/why-i-ditched-the-move-fast-and-break-things-mentality-for-move-fast-and-save-users-money-32ic)
-- [PL SQL Tutorial: A Complete Guide for Beginners](https://dev.to/suraj_kumar_fb57ae0928df2/pl-sql-tutorial-a-complete-guide-for-beginners-2iib)
+- [The Importance of AI Ready Data for Effective AI Implementation](https://dev.to/kapusto/the-importance-of-ai-ready-data-for-effective-ai-implementation-24im)
+- [A practical guide to frontend System Design](https://dev.to/fahimulhaq/a-practical-guide-to-frontend-system-design-fnb)
+- [TOP-10 Most Common Resume Mistakes](https://dev.to/remoteteamleadership/top-10-most-common-resume-mistakes-1bkk)
+- [What are the system requirements for NAPS2?](https://dev.to/naps2/what-are-the-system-requirements-for-naps2-38i1)
 <!-- BLOG-POST-LIST:END -->
 
 
