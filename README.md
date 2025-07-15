@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Laravel Best Practices That Reduced My Bugs by 30%](https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn)
-- [ChatGPT Code Interpreter: The Future of Programming?](https://dev.to/naima6_/chatgpt-code-interpreter-the-future-of-programming-57lc)
-- [Top Polywork Alternatives in 2025](https://dev.to/n4ze3m/top-polywork-alternatives-in-2025-51n6)
-- [Kiro vs Copilot: This Could Change the Way You Code Forever](https://dev.to/alifar/kiro-vs-copilot-this-could-change-the-way-you-code-forever-4kaa)
+- [🧠 Part 10 — Why You Should Learn Ruby on Rails in 2025](https://dev.to/hmzas/part-10-why-you-should-learn-ruby-on-rails-in-2025-53l8)
+- [🚀 Part 9 — Deployment: Taking Your Rails App Live](https://dev.to/hmzas/part-9-deployment-taking-your-rails-app-live-1b2c)
+- [🧪 Part 8 — Testing in Rails: Built-in and Battle-Tested](https://dev.to/hmzas/part-8-testing-in-rails-built-in-and-battle-tested-33m7)
+- [🔐 Part 7 — Authentication &amp; Authorization in Rails](https://dev.to/hmzas/part-7-authentication-authorization-in-rails-5hm0)
 <!-- BLOG-POST-LIST:END -->
 
 
