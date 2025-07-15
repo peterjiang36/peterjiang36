@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resource Management and Memory Efficiency in Web Servers&lpar;6962&rpar;](https://dev.to/member_466da0bd/resource-management-and-memory-efficiency-in-web-servers6962-4kh5)
-- [Top 7 Advantages and Disadvantages of R Programming](https://dev.to/markwayne/top-7-advantages-and-disadvantages-of-r-programming-j91)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;4392&rpar;](https://dev.to/member_02ee4941/latency-optimization-secrets-for-millisecond-response-times4392-10j4)
-- [I’m Not a Genius — Just Simply Ambitious &lpar;And That’s Enough&rpar;](https://dev.to/rupali2005/im-not-a-genius-just-simply-ambitious-and-thats-enough-3hoa)
+- [A Summer of Security: How Google’s AI-Led Cybersecurity Push Is Changing the Game](https://dev.to/grenishrai/a-summer-of-security-how-googles-ai-led-cybersecurity-push-is-changing-the-game-1e1p)
+- [Swift 6.2 WebAssembly Revolution: Redefining Platform Boundaries](https://dev.to/arshtechpro/swift-62s-webassembly-revolution-redefining-platform-boundaries-fi4)
+- [StudyZen Built Using Kiro!](https://dev.to/kirodotdev/studyzen-built-using-kiro-2p7i)
+- [Another Special Way to Learn JS](https://dev.to/lehonglong2411/another-special-way-to-learn-js-3ddb)
 <!-- BLOG-POST-LIST:END -->
 
 
