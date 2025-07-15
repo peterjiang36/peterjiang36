@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a VPC with Public and Private Subnets, Multi-AZ, IGW, and NAT Gateway on AWS in Seconds](https://dev.to/rebase-ai/how-to-set-up-a-vpc-with-public-and-private-subnets-multi-az-igw-and-nat-gateway-on-aws-in-3h1g)
-- [🚀 Call for Collaborators: Help Bring a 2 and 3-Column Note-Taking App to Market &lpar;Flutter, Equity/Portfolio&rpar;](https://dev.to/phillip_young_467f5aa2cf7/call-for-collaborators-help-bring-a-2-and-3-column-note-taking-app-to-market-flutter-57f3)
-- [Unlocking the Future of AI: A Deep Dive into the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/hardiksankhla/unlocking-the-future-of-ai-a-deep-dive-into-the-model-context-protocol-mcp-1b1o)
-- [Programming Entry Level: project ideas terminal](https://dev.to/devopsfundamentals/programming-entry-level-project-ideas-terminal-2nbf)
+- [[Boost]](https://dev.to/elzaksspro/-1897)
+- [How to capture data changes in DynamoDB using Streams and Lambda &lpar;Node.js + AWS CDK&rpar;](https://dev.to/iamsherif/how-to-capture-data-changes-in-dynamodb-using-streams-and-lambda-nodejs-aws-cdk-4n9n)
+- [LinguaClip: The Extension That Turns Your Browser into a Language Learning Tool Combining Pomodoro with Flashcards](https://dev.to/jeancarje/linguaclip-the-extension-that-turns-your-browser-into-a-language-learning-tool-combining-pomodoro-370d)
+- [Rails 8’s JavaScript: Goodbye Node, Hello Ruby?](https://dev.to/alex_aslam/rails-8s-javascript-goodbye-node-hello-ruby-mll)
 <!-- BLOG-POST-LIST:END -->
 
 
