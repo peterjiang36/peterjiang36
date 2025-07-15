@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of AI Ready Data for Effective AI Implementation](https://dev.to/kapusto/the-importance-of-ai-ready-data-for-effective-ai-implementation-24im)
-- [A practical guide to frontend System Design](https://dev.to/fahimulhaq/a-practical-guide-to-frontend-system-design-fnb)
-- [TOP-10 Most Common Resume Mistakes](https://dev.to/remoteteamleadership/top-10-most-common-resume-mistakes-1bkk)
-- [What are the system requirements for NAPS2?](https://dev.to/naps2/what-are-the-system-requirements-for-naps2-38i1)
+- [Install Playwright MCP Server in VS Code](https://dev.to/debs_obrien/install-playwright-mcp-server-in-vs-code-4o91)
+- [How to Build Your Own AI Mascot in Golang.](https://dev.to/sfundomhlungu/how-to-build-your-own-ai-mascot-in-golang-38m0)
+- [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
+- [Modern Server-Side Event Implementation&lpar;7573&rpar;](https://dev.to/member_466da0bd/modern-server-side-event-implementation7573-25jk)
 <!-- BLOG-POST-LIST:END -->
 
 
