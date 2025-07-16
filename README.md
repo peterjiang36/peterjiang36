@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Programming Fundamentals: A Complete Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/fonyuygita/python-programming-fundamentals-a-complete-beginners-guide-part-2-1k1j)
 - [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
 - [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
 - [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
-- [Solving the Enter Key Frustration in AI Chat: &quot;Chat-Key-Changer&quot; Chrome Extension](https://dev.to/deer-hunt/solving-the-enter-key-frustration-in-ai-chat-chat-key-changer-chrome-extension-1o2o)
 <!-- BLOG-POST-LIST:END -->
 
 
