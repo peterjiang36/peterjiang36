@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Performance Routing System Design and Implementation&lpar;5852&rpar;](https://dev.to/member_02ee4941/high-performance-routing-system-design-and-implementation5852-1il4)
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;4973&rpar;](https://dev.to/member_466da0bd/revolutionary-performance-breakthrough-in-modern-web-development4973-4b7d)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;1793&rpar;](https://dev.to/member_02ee4941/dynamic-routing-systems-for-scalable-web-applications1793-gk2)
-- [Automated Backup from Dropbox to Google Drive Using n8n](https://dev.to/aihacks/automated-backup-from-dropbox-to-google-drive-using-n8n-2303)
+- [📢 Blog: Top 5 Mistakes Small Businesses Make with ChatGPT &lpar;and How to Fix Them&rpar;](https://dev.to/renai/blog-top-5-mistakes-small-businesses-make-with-chatgpt-and-how-to-fix-them-2fm6)
+- [⚙️ Dual GPU Setup on Fedora: NVIDIA + Intel &lpar;Optimus&rpar; with Offloading](https://dev.to/kamran1819g/dual-gpu-setup-on-fedora-nvidia-intel-optimus-with-offloading-2o06)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;9084&rpar;](https://dev.to/member_02ee4941/server-side-events-implementation-for-real-time-applications9084-5bjd)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;5620&rpar;](https://dev.to/member_466da0bd/revolutionary-performance-breakthrough-in-modern-web-development5620-27ln)
 <!-- BLOG-POST-LIST:END -->
 
 
