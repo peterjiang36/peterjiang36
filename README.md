@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React &amp; TypeScript: 10 patterns for writing better code](https://dev.to/logrocket/react-typescript-10-patterns-for-writing-better-code-224l)
-- [Solvaldr: The Sun Tyrant – Devlog &amp; Concept Showcase](https://dev.to/hejhdiss/solvaldr-the-sun-tyrant-devlog-concept-showcase-1860)
-- [Best practice for building an e-commerce system with React Native, Django Admin, and FastAPI](https://dev.to/axioray/best-practice-for-building-an-e-commerce-system-with-react-native-django-admin-and-fastapi-3l2g)
-- [Click to See How I Made PWAs in Next.js Stupidly Simple](https://dev.to/devfamdk/click-to-see-how-i-made-pwas-in-nextjs-stupidly-simple-5hji)
+- [Nintendo Is Reportedly Cracking Down On &quot;Sexual Content&quot; On The eShop](https://dev.to/gg_news/nintendo-is-reportedly-cracking-down-on-sexual-content-on-the-eshop-2959)
+- [Splitgate 2 Reportedly Shelled Out $400K For Streamers, But Game Is Gasping For Air Now](https://dev.to/gg_news/splitgate-2-reportedly-shelled-out-400k-for-streamers-but-game-is-gasping-for-air-now-3hpg)
+- [The FBI has seized a major Nintendo Switch piracy site](https://dev.to/gg_news/the-fbi-has-seized-a-major-nintendo-switch-piracy-site-kk2)
+- [Why 80% of Tutorials Are Lying to You &lpar;And What I Do Instead&rpar; 🤯](https://dev.to/0x7b-shop/why-80-of-tutorials-are-lying-to-you-and-what-i-do-instead-4o3o)
 <!-- BLOG-POST-LIST:END -->
 
 
