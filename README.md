@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Top FREE JSON API Platform for Developers – AquaScript | Fastest, Easiest, Zero Limits 🌍](https://dev.to/hanzla-baig/top-free-json-api-platform-for-developers-aquascript-fastest-easiest-zero-limits-91k)
-- [🌟 AquaScript - The Fastest Free JSON APIs for Developers | No API Key, No Signup, Just Build 🚀](https://dev.to/hanzla-baig/aquascript-the-fastest-free-json-apis-for-developers-no-api-key-no-signup-just-build-2dp7)
-- [🚀 AquaScript – The Ultimate Developer’s Paradise for Free JSON APIs 🌐⚡](https://dev.to/hanzla-baig/aquascript-the-ultimate-developers-paradise-for-free-json-apis-30hd)
-- [What are Matrix Operations?](https://dev.to/dev_patel_35864ca1db6093c/what-are-matrix-operations-5cgi)
+- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-1h17)
+- [🚀 AWS Free Tier Just Got Better – $200 in Credits + 6-Month Free Plan!](https://dev.to/latchudevops/aws-free-tier-just-got-better-200-in-credits-6-month-free-plan-2b9)
+- [10+ Free AI Apps for Android That Will Blow Your Mind in 2025](https://dev.to/samen_pal_2fae3839f9dc9ed/10-free-ai-apps-for-android-that-will-blow-your-mind-in-2025-55g3)
+- [Microservices Architecture with Lightweight Framework Design&lpar;4238&rpar;](https://dev.to/member_02ee4941/microservices-architecture-with-lightweight-framework-design4238-5blf)
 <!-- BLOG-POST-LIST:END -->
 
 
