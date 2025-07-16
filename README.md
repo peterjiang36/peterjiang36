@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Larger Runners in GitHub Actions for Faster Workflows](https://dev.to/shayy/how-to-use-larger-runners-in-github-actions-for-faster-workflows-1df0)
-- [📁 Mastering File Operations in Uniface: A Complete Guide to fileload](https://dev.to/petercode/mastering-file-operations-in-uniface-a-complete-guide-to-fileload-1078)
-- [When You&#39;re The Entire Development Team 🤝](https://dev.to/shiva_shanker_k/when-youre-the-entire-development-team-4p70)
-- [📁 Mastering File Operations in Uniface: The filecopy Statement Deep Dive 🚀](https://dev.to/petercode/mastering-file-operations-in-uniface-the-filecopy-statement-deep-dive-25ed)
+- [My Honest Take of Kiro, AI IDE from AWS](https://dev.to/aws-builders/my-honest-take-of-kiro-ai-ide-from-aws-487f)
+- [QGIS DevTools plugin for easier plugin development](https://dev.to/karavanjo/qgis-devtools-plugin-for-easier-plugin-development-2ib)
+- [Nebula CSS - A Galactic Office Scene Crafted Purely with CSS ✨](https://dev.to/yaldakhoshpey/nebula-css-a-galactic-office-scene-crafted-purely-with-css-36oa)
+- [DigitalOcean Explained: Droplets, Databases, and Developer Tools](https://dev.to/rijultp/digitalocean-explained-droplets-databases-and-developer-tools-47ie)
 <!-- BLOG-POST-LIST:END -->
 
 
