@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;9415&rpar;](https://dev.to/member_466da0bd/bidirectional-communication-patterns-in-modern-web-apps9415-41fe)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;9190&rpar;](https://dev.to/member_466da0bd/server-side-events-implementation-for-real-time-applications9190-237i)
-- [🦊 Lynx Keymap: Boost Your Productivity in VSCode... with Custom Shortcuts — &lpar; AI &rpar;](https://dev.to/bastndev/lynx-keymap-boost-your-productivity-in-vscode-with-custom-shortcuts-ai--3dj)
-- [Application of Async Programming in Web Development&lpar;7115&rpar;](https://dev.to/member_02ee4941/application-of-async-programming-in-web-development7115-ekm)
+- [High-Performance Routing System Design and Implementation&lpar;5852&rpar;](https://dev.to/member_02ee4941/high-performance-routing-system-design-and-implementation5852-1il4)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;4973&rpar;](https://dev.to/member_466da0bd/revolutionary-performance-breakthrough-in-modern-web-development4973-4b7d)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;1793&rpar;](https://dev.to/member_02ee4941/dynamic-routing-systems-for-scalable-web-applications1793-gk2)
+- [Automated Backup from Dropbox to Google Drive Using n8n](https://dev.to/aihacks/automated-backup-from-dropbox-to-google-drive-using-n8n-2303)
 <!-- BLOG-POST-LIST:END -->
 
 
