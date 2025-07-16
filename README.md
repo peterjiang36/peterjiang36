@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Microsoft.AAD](https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-1h17)
-- [🚀 AWS Free Tier Just Got Better – $200 in Credits + 6-Month Free Plan!](https://dev.to/latchudevops/aws-free-tier-just-got-better-200-in-credits-6-month-free-plan-2b9)
-- [10+ Free AI Apps for Android That Will Blow Your Mind in 2025](https://dev.to/samen_pal_2fae3839f9dc9ed/10-free-ai-apps-for-android-that-will-blow-your-mind-in-2025-55g3)
-- [Microservices Architecture with Lightweight Framework Design&lpar;4238&rpar;](https://dev.to/member_02ee4941/microservices-architecture-with-lightweight-framework-design4238-5blf)
+- [🚀 Why DevOps is a Superset of Cloud — Not the Other Way Around](https://dev.to/latchudevops/why-devops-is-a-superset-of-cloud-not-the-other-way-around-4obk)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;2924&rpar;](https://dev.to/member_466da0bd/ultimate-optimization-of-lightweight-server-architecture2924-pd5)
+- [String in Python &lpar;28&rpar;](https://dev.to/hyperkai/string-in-python-28-4bid)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;3817&rpar;](https://dev.to/member_02ee4941/zero-dependency-architecture-for-maximum-performance3817-31f9)
 <!-- BLOG-POST-LIST:END -->
 
 
