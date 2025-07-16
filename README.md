@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring Remote Employees That Fit Your Culture: A Practical Playbook](https://dev.to/teamcamp/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-192o)
-- [Why Structured Data Is the Hidden Backbone of AI Search](https://dev.to/alifar/why-structured-data-is-the-hidden-backbone-of-ai-search-2l42)
-- [The Hidden Economics of Image Optimization: Why Your CDN Bill is Just the Beginning](https://dev.to/hardik_b2d8f0bca/the-hidden-economics-of-image-optimization-why-your-cdn-bill-is-just-the-beginning-4bl8)
-- [How to setup the Supabase authentication with Tanstack Router in Vite React.](https://dev.to/your-ehsan/how-to-setup-the-supabase-authentication-with-tanstack-router-in-vite-react-1bhf)
+- [SwiftUI List Complete Guide: Move, Delete, Pin &amp; Custom Actions &lpar;2025 Edition&rpar;](https://dev.to/swift_pal/swiftui-list-complete-guide-move-delete-pin-custom-actions-2025-edition-429o)
+- [I am beginning to start learn Front-end Developing, What advice do you have for me 😊](https://dev.to/ernest_benjaminampoe_3bc/i-am-beginning-to-start-learn-front-end-developing-what-advice-do-you-have-for-me-anb)
+- [Method Overloading in Java...](https://dev.to/chithra_priya/method-overloading-in-java-4dnh)
+- [The JavaScript Runtime Handbook - Deno, Bun and Node.js in 10 minutes](https://dev.to/sfundomhlungu/the-javascript-runtime-handbook-deno-bun-and-nodejs-in-5-minutes-8bh)
 <!-- BLOG-POST-LIST:END -->
 
 
