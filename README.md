@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
-- [NestJS Multi-tenancy API Key Authorization](https://dev.to/u11d/nestjs-multi-tenancy-api-key-authorization-4p7j)
-- [Step-by-Step Guide to Resolving SafeLine WAF License Errors](https://dev.to/sharon_42e16b8da44dabde6d/step-by-step-guide-to-resolving-safeline-waf-license-errors-21k9)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;0260&rpar;](https://dev.to/member_466da0bd/memory-safety-meets-extreme-performance-in-web-servers0260-5cgo)
+- [The Tab Chaos: How Too Many Chrome Tabs Almost Broke Me &lpar;And How I Fixed It&rpar;](https://dev.to/parthajy/the-tab-chaos-how-too-many-chrome-tabs-almost-broke-me-and-how-i-fixed-it-gee)
+- [Why I Chose Tailwind CSS as a Frontend Developer — And Never Looked Back](https://dev.to/harsh_p30/why-i-chose-tailwind-css-as-a-frontend-developer-and-never-looked-back-1b0p)
+- [What are the key components of a Lessons Learned Document?](https://dev.to/writegenic/what-are-the-key-components-of-a-lessons-learned-document-1nk)
+- [Cross-Platform Web Development Without Compromise&lpar;1799&rpar;](https://dev.to/member_466da0bd/cross-platform-web-development-without-compromise1799-34n6)
 <!-- BLOG-POST-LIST:END -->
 
 
