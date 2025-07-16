@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Programming Fundamentals: A Complete Beginner&#39;s Guide &lpar;Part 2&rpar;](https://dev.to/fonyuygita/python-programming-fundamentals-a-complete-beginners-guide-part-2-1k1j)
-- [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
-- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
-- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
+- [Procesamiento de Contenido Multimodal con Strands Agent y solo unas pocas líneas de código](https://dev.to/aws-espanol/procesamiento-de-contenido-multimodal-con-strands-agent-y-solo-unas-pocas-lineas-de-codigo-4mkk)
+- [Build Docker Image Remotely and Run It Locally Using DOCKER_HOST + rsync](https://dev.to/lovestaco/build-docker-image-remotely-and-run-it-locally-using-dockerhost-rsync-2j22)
+- [AWS lanza su nueva capa gratuita: lo que debes saber, lo que nadie te dice y por qué es buena &lpar;aunque imperfecta&rpar;](https://dev.to/aws-heroes/aws-lanza-su-nueva-capa-gratuita-lo-que-debes-saber-lo-que-nadie-te-dice-y-por-que-es-buena-1b9)
+- [🚀 I Finally Launched My Developer Portfolio Website!](https://dev.to/aishwarya2701/i-finally-launched-my-developer-portfolio-website-302c)
 <!-- BLOG-POST-LIST:END -->
 
 
