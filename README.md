@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Procesamiento de Contenido Multimodal con Strands Agent y solo unas pocas líneas de código](https://dev.to/aws-espanol/procesamiento-de-contenido-multimodal-con-strands-agent-y-solo-unas-pocas-lineas-de-codigo-4mkk)
-- [Build Docker Image Remotely and Run It Locally Using DOCKER_HOST + rsync](https://dev.to/lovestaco/build-docker-image-remotely-and-run-it-locally-using-dockerhost-rsync-2j22)
-- [AWS lanza su nueva capa gratuita: lo que debes saber, lo que nadie te dice y por qué es buena &lpar;aunque imperfecta&rpar;](https://dev.to/aws-heroes/aws-lanza-su-nueva-capa-gratuita-lo-que-debes-saber-lo-que-nadie-te-dice-y-por-que-es-buena-1b9)
-- [🚀 I Finally Launched My Developer Portfolio Website!](https://dev.to/aishwarya2701/i-finally-launched-my-developer-portfolio-website-302c)
+- [Indie Game Dev Looking for Team Members](https://dev.to/tolongames/indie-game-dev-looking-for-team-members-20ko)
+- [Applicazione semplice ed immediata Project List](https://dev.to/montanasoftware2025/applicazione-semplice-ed-immediataproject-list-42e3)
+- [El Examen Final de la Humanidad &lpar;HLE&rpar;](https://dev.to/michelnovellino/el-examen-final-de-la-humanidad-hle-55ki)
+- [Frontend Challenge Solution: Office Edition – CoreSync Intranet Dashboard &lpar;HTML, CSS &amp; JS&rpar;](https://dev.to/graceo7/frontend-challenge-solution-office-edition-coresync-intranet-dashboard-html-css-js-4cjd)
 <!-- BLOG-POST-LIST:END -->
 
 
