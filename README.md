@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI List Complete Guide: Move, Delete, Pin &amp; Custom Actions &lpar;2025 Edition&rpar;](https://dev.to/swift_pal/swiftui-list-complete-guide-move-delete-pin-custom-actions-2025-edition-429o)
-- [I am beginning to start learn Front-end Developing, What advice do you have for me 😊](https://dev.to/ernest_benjaminampoe_3bc/i-am-beginning-to-start-learn-front-end-developing-what-advice-do-you-have-for-me-anb)
-- [Method Overloading in Java...](https://dev.to/chithra_priya/method-overloading-in-java-4dnh)
-- [The JavaScript Runtime Handbook - Deno, Bun and Node.js in 10 minutes](https://dev.to/sfundomhlungu/the-javascript-runtime-handbook-deno-bun-and-nodejs-in-5-minutes-8bh)
+- [How I Used ChatGPT to Send Emails with Mailgun in 3 Minutes](https://dev.to/emailguru/how-i-used-chatgpt-to-send-emails-with-mailgun-in-3-minutes-1711)
+- [🇩🇪 *Einbürgerungstest* / Naturalization Test — Made Easy](https://dev.to/alialp/einburgerungstest-naturalization-test-made-easy-436c)
+- [🛋️ Code, Sleep, Repeat: Why Your Space Might Be Undermining Your Focus &lpar;And Rest&rpar; As developers, we tend to optimize everything — from code to keyboard layouts to workflow automation. But there’s one thing we often overlook: the environment we build all](https://dev.to/emma_thomas_b908e593a080d/code-sleep-repeat-why-your-space-might-be-undermining-your-focus-and-rest-as-developers-22b8)
+- [What the Heck Are EIPs and ERCs? A Beginner’s Guide to 4 Ethereum Upgrades You’ve Never Heard Of](https://dev.to/githaiga22/what-the-heck-are-eips-and-ercs-a-beginners-guide-to-4-ethereum-upgrades-youve-never-heard-of-c75)
 <!-- BLOG-POST-LIST:END -->
 
 
