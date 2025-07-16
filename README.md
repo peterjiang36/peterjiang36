@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nintendo Is Reportedly Cracking Down On &quot;Sexual Content&quot; On The eShop](https://dev.to/gg_news/nintendo-is-reportedly-cracking-down-on-sexual-content-on-the-eshop-2959)
-- [Splitgate 2 Reportedly Shelled Out $400K For Streamers, But Game Is Gasping For Air Now](https://dev.to/gg_news/splitgate-2-reportedly-shelled-out-400k-for-streamers-but-game-is-gasping-for-air-now-3hpg)
-- [The FBI has seized a major Nintendo Switch piracy site](https://dev.to/gg_news/the-fbi-has-seized-a-major-nintendo-switch-piracy-site-kk2)
-- [Why 80% of Tutorials Are Lying to You &lpar;And What I Do Instead&rpar; 🤯](https://dev.to/0x7b-shop/why-80-of-tutorials-are-lying-to-you-and-what-i-do-instead-4o3o)
+- [10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development](https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji)
+- [Grok 4 vs. Claude Opus 4 vs. Gemini 2.5 Pro Coding Comparison 🚀](https://dev.to/composiodev/grok-4-vs-claude-opus-4-vs-gemini-25-pro-coding-comparison-35ed)
+- [Migrating Classic LangChain Agents to LangGraph a How To](https://dev.to/austinbv/migrating-classic-langchain-agents-to-langgraph-a-how-to-nea)
+- [Solving the Enter Key Frustration in AI Chat: &quot;Chat-Key-Changer&quot; Chrome Extension](https://dev.to/deer-hunt/solving-the-enter-key-frustration-in-ai-chat-chat-key-changer-chrome-extension-1o2o)
 <!-- BLOG-POST-LIST:END -->
 
 
