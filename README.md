@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used ChatGPT to Send Emails with Mailgun in 3 Minutes](https://dev.to/emailguru/how-i-used-chatgpt-to-send-emails-with-mailgun-in-3-minutes-1711)
-- [🇩🇪 *Einbürgerungstest* / Naturalization Test — Made Easy](https://dev.to/alialp/einburgerungstest-naturalization-test-made-easy-436c)
-- [🛋️ Code, Sleep, Repeat: Why Your Space Might Be Undermining Your Focus &lpar;And Rest&rpar; As developers, we tend to optimize everything — from code to keyboard layouts to workflow automation. But there’s one thing we often overlook: the environment we build all](https://dev.to/emma_thomas_b908e593a080d/code-sleep-repeat-why-your-space-might-be-undermining-your-focus-and-rest-as-developers-22b8)
-- [What the Heck Are EIPs and ERCs? A Beginner’s Guide to 4 Ethereum Upgrades You’ve Never Heard Of](https://dev.to/githaiga22/what-the-heck-are-eips-and-ercs-a-beginners-guide-to-4-ethereum-upgrades-youve-never-heard-of-c75)
+- [React &amp; TypeScript: 10 patterns for writing better code](https://dev.to/logrocket/react-typescript-10-patterns-for-writing-better-code-224l)
+- [Solvaldr: The Sun Tyrant – Devlog &amp; Concept Showcase](https://dev.to/hejhdiss/solvaldr-the-sun-tyrant-devlog-concept-showcase-1860)
+- [Best practice for building an e-commerce system with React Native, Django Admin, and FastAPI](https://dev.to/axioray/best-practice-for-building-an-e-commerce-system-with-react-native-django-admin-and-fastapi-3l2g)
+- [Click to See How I Made PWAs in Next.js Stupidly Simple](https://dev.to/devfamdk/click-to-see-how-i-made-pwas-in-nextjs-stupidly-simple-5hji)
 <!-- BLOG-POST-LIST:END -->
 
 
