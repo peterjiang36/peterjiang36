@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Type Assertion in TypeScript: Unleashing the Power of Type Safety](https://dev.to/vjnvisakh/mastering-type-assertion-in-typescript-unleashing-the-power-of-type-safety-364h)
-- [Implementing Redis Caching in NestJS using Docker and @keyv/redis](https://dev.to/mukesh_rajbanshi/implementing-redis-caching-in-nestjs-using-docker-and-keyvredis-1gmn)
-- [Thanks for the support. I will edit this with more details https://dev.to/sid_rdj_bc998504b31f86326/why-your-azure-sql-dtu-database-might-be-charging-you-for-more-than-24-hours-a-day-5ddg](https://dev.to/sid_rdj_bc998504b31f86326/thanks-for-the-support-i-will-edit-this-with-more-details-268p)
-- [I vibe coded an online visitors counter for my blog](https://dev.to/this-is-learning/i-vibe-coded-an-online-visitors-counter-for-my-blog-i31)
+- [Hiring Remote Employees That Fit Your Culture: A Practical Playbook](https://dev.to/teamcamp/hiring-remote-employees-that-fit-your-culture-a-practical-playbook-192o)
+- [Why Structured Data Is the Hidden Backbone of AI Search](https://dev.to/alifar/why-structured-data-is-the-hidden-backbone-of-ai-search-2l42)
+- [The Hidden Economics of Image Optimization: Why Your CDN Bill is Just the Beginning](https://dev.to/hardik_b2d8f0bca/the-hidden-economics-of-image-optimization-why-your-cdn-bill-is-just-the-beginning-4bl8)
+- [How to setup the Supabase authentication with Tanstack Router in Vite React.](https://dev.to/your-ehsan/how-to-setup-the-supabase-authentication-with-tanstack-router-in-vite-react-1bhf)
 <!-- BLOG-POST-LIST:END -->
 
 
