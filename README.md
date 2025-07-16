@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why DevOps is a Superset of Cloud — Not the Other Way Around](https://dev.to/latchudevops/why-devops-is-a-superset-of-cloud-not-the-other-way-around-4obk)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;2924&rpar;](https://dev.to/member_466da0bd/ultimate-optimization-of-lightweight-server-architecture2924-pd5)
-- [String in Python &lpar;28&rpar;](https://dev.to/hyperkai/string-in-python-28-4bid)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;3817&rpar;](https://dev.to/member_02ee4941/zero-dependency-architecture-for-maximum-performance3817-31f9)
+- [🔥 De‑constructing Cognition and Why LLMs Can’t Replicate It](https://dev.to/marcosomma/de-constructing-cognition-and-why-llms-cant-replicate-it-2e7a)
+- [From Zero to Python: A Beginner&#39;s Guide to Starting Your Journey](https://dev.to/joy_nyambura_0973be467329/from-zero-to-python-a-beginners-guide-to-starting-your-journey-ljo)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;1354&rpar;](https://dev.to/member_466da0bd/revolutionary-performance-breakthrough-in-modern-web-development1354-37bh)
+- [Gemini 2.5 API Missing Manual: How to get started &lpar;or upgrade from Gemini 1.0/1.5&rpar;](https://dev.to/wescpy/gemini-25-api-missing-manual-how-to-get-started-or-upgrade-from-gemini-1015-1el6)
 <!-- BLOG-POST-LIST:END -->
 
 
