@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tab Chaos: How Too Many Chrome Tabs Almost Broke Me &lpar;And How I Fixed It&rpar;](https://dev.to/parthajy/the-tab-chaos-how-too-many-chrome-tabs-almost-broke-me-and-how-i-fixed-it-gee)
-- [Why I Chose Tailwind CSS as a Frontend Developer — And Never Looked Back](https://dev.to/harsh_p30/why-i-chose-tailwind-css-as-a-frontend-developer-and-never-looked-back-1b0p)
-- [What are the key components of a Lessons Learned Document?](https://dev.to/writegenic/what-are-the-key-components-of-a-lessons-learned-document-1nk)
-- [Cross-Platform Web Development Without Compromise&lpar;1799&rpar;](https://dev.to/member_466da0bd/cross-platform-web-development-without-compromise1799-34n6)
+- [Cross-Platform Web Development Without Compromise&lpar;4406&rpar;](https://dev.to/member_02ee4941/cross-platform-web-development-without-compromise4406-1b6j)
+- [Is Traditional Backend Development Still a Viable Career Path in 2025?](https://dev.to/shreebhandare/is-traditional-backend-development-still-a-viable-career-path-in-2025-70j)
+- [How to Improve Intuition: Effective Strategies to Trust Your Gut](https://dev.to/lifepurposeapp/how-to-improve-intuition-effective-strategies-to-trust-your-gut-3hhk)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;6223&rpar;](https://dev.to/member_02ee4941/zero-dependency-architecture-for-maximum-performance6223-2ppo)
 <!-- BLOG-POST-LIST:END -->
 
 
