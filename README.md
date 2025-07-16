@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Honest Take of Kiro, AI IDE from AWS](https://dev.to/aws-builders/my-honest-take-of-kiro-ai-ide-from-aws-487f)
-- [QGIS DevTools plugin for easier plugin development](https://dev.to/karavanjo/qgis-devtools-plugin-for-easier-plugin-development-2ib)
-- [Nebula CSS - A Galactic Office Scene Crafted Purely with CSS ✨](https://dev.to/yaldakhoshpey/nebula-css-a-galactic-office-scene-crafted-purely-with-css-36oa)
-- [DigitalOcean Explained: Droplets, Databases, and Developer Tools](https://dev.to/rijultp/digitalocean-explained-droplets-databases-and-developer-tools-47ie)
+- [From Zero to NPM: Building the React Component of My Dreams](https://dev.to/alishirani/from-zero-to-npm-building-the-react-component-of-my-dreams-59ma)
+- [Understanding SOLID once and for all | Part 02 - &lpar;OCP&rpar;](https://dev.to/rafahs/understanding-solid-once-and-for-all-part-02-ocp-1llc)
+- [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
+- [Log Viewer for Streamer.bot](https://dev.to/mmcleod/log-viewer-for-streamerbot-7n0)
 <!-- BLOG-POST-LIST:END -->
 
 
