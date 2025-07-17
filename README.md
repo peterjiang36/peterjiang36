@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Which AI IDE Is Revolutionizing Your Development Workflow in 2025?](https://dev.to/respect17/-which-ai-ide-is-revolutionizing-your-development-workflow-in-2025-1c20)
-- [What It’s Like to Co-Build With AI](https://dev.to/mr_hicksman_3747669cea09a/what-its-like-to-co-build-with-ai-2in3)
-- [Understanding Async Context Managers in Python](https://dev.to/hevalhazalkurt/understanding-async-context-managers-in-python-1928)
-- [Raspberry Pi Cooling: Does Fan Direction Matter? I Put It to the Test](https://dev.to/wlepczynski/raspberry-pi-cooling-does-fan-direction-matter-i-put-it-to-the-test-4ihl)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;0412&rpar;](https://dev.to/member_a26aac70/dynamic-routing-systems-for-scalable-web-applications0412-2547)
+- [Day 37: When Your Body Rebels Against Medical Advice](https://dev.to/casperday11/day-37-when-your-body-rebels-against-medical-advice-4iib)
+- [How YouTube Helped Me Become a Web Developer &lpar;No Paid Courses, No Bootcamps&rpar;](https://dev.to/indravathi_botcha_286347f/how-youtube-helped-me-become-a-web-developer-no-paid-courses-no-bootcamps-266o)
+- [We&#39;re adding prizes to the World&#39;s Largest Hackathon Writing Challenge!](https://dev.to/jess/were-adding-prizes-to-the-worlds-largest-hackathon-writing-challenge-26je)
 <!-- BLOG-POST-LIST:END -->
 
 
