@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT Security Updates](https://dev.to/embedthis/iot-security-updates-3c8e)
-- [What If Ruby Didn’t Have Syntactic Sugar?](https://dev.to/jessalejo/what-if-ruby-didnt-have-syntactic-sugar-4fm)
-- [IoT AI with Ioto](https://dev.to/embedthis/iot-ai-with-ioto-2jb0)
-- [The Future of IoT AI in 2025 and Beyond](https://dev.to/embedthis/the-future-of-iot-ai-in-2025-and-beyond-4j9)
+- [Graph or Chain? Choosing the Right Engine for Your AI App](https://dev.to/moni121189/graph-or-chain-choosing-the-right-engine-for-your-ai-app-3fo0)
+- [Use Slice, not Substring](https://dev.to/oculus42/use-slice-not-substring-javascript-quick-bits-2ci)
+- [Efficient WebSocket Server-Side Processing&lpar;2259&rpar;](https://dev.to/member_214bcde5/efficient-websocket-server-side-processing2259-348c)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;4305&rpar;](https://dev.to/member_a26aac70/dynamic-routing-systems-for-scalable-web-applications4305-3m4h)
 <!-- BLOG-POST-LIST:END -->
 
 
