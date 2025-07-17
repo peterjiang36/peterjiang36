@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Pair Programmer is Better Than Yours: A Cursor, Kiro, &amp; Granite Showdown](https://dev.to/mgonzalezo/my-ai-pair-programmer-is-better-than-yours-a-cursor-kiro-granite-showdown-2kdj)
-- [Dealing with AI in the SWE hiring process](https://dev.to/wynteres/dealing-with-ai-in-the-swe-hiring-process-3n8l)
-- [Build a Reliable Hacker News Deep Research AI Agent](https://dev.to/dbos/build-a-reliable-hacker-news-deep-research-ai-agent-365a)
-- [Getting Started with Gutenberg: WordPress Block Development Essentials](https://dev.to/austinwdigital/getting-started-with-gutenberg-wordpress-block-development-essentials-e5e)
+- [WebSocket Revolution in Real-Time Communication&lpar;0746&rpar;](https://dev.to/member_a26aac70/websocket-revolution-in-real-time-communication0746-40po)
+- [How to push your code on new github/gitlab account?](https://dev.to/arbab529/how-to-add-push-your-code-on-new-githubgitlab-account-2723)
+- [Understanding the Basics: Linear Equations and Matrices](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-basics-linear-equations-and-matrices-355)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;1431&rpar;](https://dev.to/member_214bcde5/dynamic-routing-systems-for-scalable-web-applications1431-4e8l)
 <!-- BLOG-POST-LIST:END -->
 
 
