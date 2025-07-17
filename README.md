@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph or Chain? Choosing the Right Engine for Your AI App](https://dev.to/moni121189/graph-or-chain-choosing-the-right-engine-for-your-ai-app-3fo0)
-- [Use Slice, not Substring](https://dev.to/oculus42/use-slice-not-substring-javascript-quick-bits-2ci)
-- [Efficient WebSocket Server-Side Processing&lpar;2259&rpar;](https://dev.to/member_214bcde5/efficient-websocket-server-side-processing2259-348c)
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;4305&rpar;](https://dev.to/member_a26aac70/dynamic-routing-systems-for-scalable-web-applications4305-3m4h)
+- [cookie session threadlocal](https://dev.to/woodyxin/cookie-session-threadlocal-5bnb)
+- [My Journey: Discovering the Relationship Between Kali Linux and Black Arch](https://dev.to/kalyan-dev/my-journey-discovering-the-relationship-between-kali-linux-and-black-arch-4n88)
+- [Rust Series : Borrow Checker Part 5 | as Design Partner - Concurrency, Async, and Mastery](https://dev.to/triggerak/rust-series-borrow-checker-part-5-as-design-partner-concurrency-async-and-mastery-5h8n)
+- [4 Day Work week Experiment how 3 IT companies Boosted Developer output](https://dev.to/rajesh_patel/4-day-work-week-experiment-how-3-it-companies-boosted-developer-output-1jkn)
 <!-- BLOG-POST-LIST:END -->
 
 
