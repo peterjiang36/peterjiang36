@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [“Killed In Less Than A Day”: Ark: Survival Evolved&#39;s Aquatica Update Has Completely Broken The Game](https://dev.to/gg_news/killed-in-less-than-a-day-ark-survival-evolveds-aquatica-update-has-completely-broken-the-game-3827)
-- [Tony Hawk&#39;s Pro Skater 3 + 4 dev says it&#39;s removing a cheeky Guitar Hero reference and ‘investigating&#39; how it happened](https://dev.to/gg_news/tony-hawks-pro-skater-3-4-dev-says-its-removing-a-cheeky-guitar-hero-reference-and-229c)
-- [Scale AI lays off 200 employees: ‘We ramped up our GenAI capacity too quickly&#39;](https://dev.to/future_ai/scale-ai-lays-off-200-employees-we-ramped-up-our-genai-capacity-too-quickly-li8)
-- [Grok will no longer call itself Hitler or base its opinions on Elon Musk&#39;s, promises xAI](https://dev.to/future_ai/grok-will-no-longer-call-itself-hitler-or-base-its-opinions-on-elon-musks-promises-xai-5615)
+- [Desk of a Dev – CSS Art](https://dev.to/prashant_gohel_321/desk-of-a-dev-css-art-45jk)
+- [What’s Missing With AI-Generated Code? Refactoring](https://dev.to/_steve_fenton_/whats-missing-with-ai-generated-code-refactoring-20h6)
+- [AJAX vs Livewire](https://dev.to/nasrulhazim/ajax-vs-livewire-2p33)
+- [Azure DevOps MCP Server: What It Is and Why It Matters](https://dev.to/mehul_budasana/azure-devops-mcp-server-what-it-is-and-why-it-matters-42p1)
 <!-- BLOG-POST-LIST:END -->
 
 
