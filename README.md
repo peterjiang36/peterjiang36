@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to NPM: Building the React Component of My Dreams](https://dev.to/alishirani/from-zero-to-npm-building-the-react-component-of-my-dreams-59ma)
-- [Understanding SOLID once and for all | Part 02 - &lpar;OCP&rpar;](https://dev.to/rafahs/understanding-solid-once-and-for-all-part-02-ocp-1llc)
-- [Snowflake](https://dev.to/byteknight/snowflake-1d1k)
-- [Log Viewer for Streamer.bot](https://dev.to/mmcleod/log-viewer-for-streamerbot-7n0)
+- [My AI Pair Programmer is Better Than Yours: A Cursor, Kiro, &amp; Granite Showdown](https://dev.to/mgonzalezo/my-ai-pair-programmer-is-better-than-yours-a-cursor-kiro-granite-showdown-2kdj)
+- [Dealing with AI in the SWE hiring process](https://dev.to/wynteres/dealing-with-ai-in-the-swe-hiring-process-3n8l)
+- [Build a Reliable Hacker News Deep Research AI Agent](https://dev.to/dbos/build-a-reliable-hacker-news-deep-research-ai-agent-365a)
+- [Getting Started with Gutenberg: WordPress Block Development Essentials](https://dev.to/austinwdigital/getting-started-with-gutenberg-wordpress-block-development-essentials-e5e)
 <!-- BLOG-POST-LIST:END -->
 
 
