@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate GitHub stats reporting with scheduled pipelines](https://dev.to/ravgeetdhillon/automate-github-stats-reporting-with-scheduled-pipelines-1jo3)
-- [Why Women in Tech isn&#39;t enough](https://dev.to/whitep4nth3r/why-women-in-tech-isnt-enough-2cah)
-- [Kiro or Amazon Q? How Amazon’s AI Strategy is Splitting for Devs and Ops](https://dev.to/alifar/kiro-or-amazon-q-how-amazons-ai-strategy-is-splitting-for-devs-and-ops-3f91)
-- [What are the key elements of a good Mission Statement?](https://dev.to/writegenic/what-are-the-key-elements-of-a-good-mission-statement-1f6d)
+- [Building a Stock Trading System: High-Frequency Trading Architecture](https://dev.to/sgchris/building-a-stock-trading-system-high-frequency-trading-architecture-e2f)
+- [Microservices Architecture with Lightweight Framework Design&lpar;0731&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design0731-30hc)
+- [Multinational Marketing: How to Improve Translations](https://dev.to/liamcorwin/multinational-marketing-how-to-improve-translations-49p9)
+- [Database Design Errors to Avoid &amp; How To Fix Them](https://dev.to/roxana_haidiner/database-design-errors-to-avoid-how-to-fix-them-45lk)
 <!-- BLOG-POST-LIST:END -->
 
 
