@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📄 Architecture That Delivers Real Value — Not Just Diagrams](https://dev.to/tmorin/architecture-that-delivers-real-value-not-just-diagrams-3ldm)
-- [HomeWhisper: Beyond the Code – Building a Human-Centered Smart Home Experience](https://dev.to/aniruddhaadak/homewhisper-beyond-the-code-building-a-human-centered-smart-home-experience-4f5o)
-- [How to Explain Technical Concepts to Non-Technical Teams Without Losing Them](https://dev.to/kraizy_amy_a80dacf26d203d/how-to-explain-technical-concepts-to-non-technical-teams-without-losing-them-2j8a)
-- [Low-Level Design &lpar;LLD&rpar; :Interview Framework](https://dev.to/devcorner/low-level-design-lld-interview-framework-5b77)
+- [Manual Testing with AI: Using Playwright MCP for No-Code Testing](https://dev.to/debs_obrien/manual-testing-with-ai-using-playwright-mcp-for-no-code-testing-1f8h)
+- [What is an AMBU Bag? A Life-Saving Emergency Resuscitation Tool](https://dev.to/physio_shop_54dbe3d2995c9/what-is-an-ambu-bag-a-life-saving-emergency-resuscitation-tool-51pl)
+- [Inject Meme Into Your VsCode WorkSpace 🤪](https://dev.to/jayantur13/inject-meme-into-your-vscode-workspace-2g62)
+- [WebSocket Revolution in Real-Time Communication&lpar;2045&rpar;](https://dev.to/member_214bcde5/websocket-revolution-in-real-time-communication2045-2a48)
 <!-- BLOG-POST-LIST:END -->
 
 
