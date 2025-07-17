@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling Strategies in High-Performance Web Servers&lpar;8496&rpar;](https://dev.to/member_aa44a2ae/error-handling-strategies-in-high-performance-web-servers8496-51ad)
-- [Microservices Architecture with Lightweight Framework Design&lpar;3725&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design3725-4f2e)
-- [Install the Docker in OpenSUSE](https://dev.to/jeanmfdias/install-the-docker-in-opensuse-4ia8)
-- [Hello everyone!](https://dev.to/reuben_yee_25e6d885c6c6b5/hello-everyone-4k2p)
+- [IoT Security Updates](https://dev.to/embedthis/iot-security-updates-3c8e)
+- [What If Ruby Didn’t Have Syntactic Sugar?](https://dev.to/jessalejo/what-if-ruby-didnt-have-syntactic-sugar-4fm)
+- [IoT AI with Ioto](https://dev.to/embedthis/iot-ai-with-ioto-2jb0)
+- [The Future of IoT AI in 2025 and Beyond](https://dev.to/embedthis/the-future-of-iot-ai-in-2025-and-beyond-4j9)
 <!-- BLOG-POST-LIST:END -->
 
 
