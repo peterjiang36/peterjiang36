@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Stock Trading System: High-Frequency Trading Architecture](https://dev.to/sgchris/building-a-stock-trading-system-high-frequency-trading-architecture-e2f)
-- [Microservices Architecture with Lightweight Framework Design&lpar;0731&rpar;](https://dev.to/member_214bcde5/microservices-architecture-with-lightweight-framework-design0731-30hc)
-- [Multinational Marketing: How to Improve Translations](https://dev.to/liamcorwin/multinational-marketing-how-to-improve-translations-49p9)
-- [Database Design Errors to Avoid &amp; How To Fix Them](https://dev.to/roxana_haidiner/database-design-errors-to-avoid-how-to-fix-them-45lk)
+- [Loosely coupled configuration for Home Assistant](https://dev.to/nfrankel/loosely-coupled-configuration-for-home-assistant-1noh)
+- [9 Powerful Time Management Techniques for 2025](https://dev.to/fluidwave/9-powerful-time-management-techniques-for-2025-5512)
+- [Elegant Middleware Architecture Implementation&lpar;4113&rpar;](https://dev.to/member_aa44a2ae/elegant-middleware-architecture-implementation4113-22o3)
+- [Advanced PDF Optimization Techniques - 1752741](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752741-5b7j)
 <!-- BLOG-POST-LIST:END -->
 
 
