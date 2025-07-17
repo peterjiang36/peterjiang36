@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Desk of a Dev – CSS Art](https://dev.to/prashant_gohel_321/desk-of-a-dev-css-art-45jk)
-- [What’s Missing With AI-Generated Code? Refactoring](https://dev.to/_steve_fenton_/whats-missing-with-ai-generated-code-refactoring-20h6)
-- [AJAX vs Livewire](https://dev.to/nasrulhazim/ajax-vs-livewire-2p33)
-- [Azure DevOps MCP Server: What It Is and Why It Matters](https://dev.to/mehul_budasana/azure-devops-mcp-server-what-it-is-and-why-it-matters-42p1)
+- [Ethereum’s Next Leap: Scaling Growth at a Tipping Point](https://dev.to/kaankaya/ethereums-next-leap-scaling-growth-at-a-tipping-point-lkc)
+- [🟥 Must Have Discord Role ! Drosera Network Hoodi](https://dev.to/izmers/must-have-discord-role-drosera-network-hoodi-5b0d)
+- [Step-by-Step Guide: How to Configure Secure Azure Storage with Encryption and Access Control](https://dev.to/subair09/step-by-step-guide-how-to-configure-secure-azure-storage-with-encryption-and-access-control-3p5k)
+- [New series or camp starting!](https://dev.to/aspxone-official/new-series-or-camp-starting-b6c)
 <!-- BLOG-POST-LIST:END -->
 
 
