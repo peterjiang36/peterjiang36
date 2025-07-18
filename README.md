@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [First post and first learning tract](https://dev.to/rockshandy/first-post-and-first-learning-tract-4bg5)
-- [Building an Accessible School Management Portal: Lessons from My Web Dev Journey](https://dev.to/tayo4christ/building-an-accessible-school-management-portal-lessons-from-my-web-dev-journey-1023)
-- [Exploring Parameter Reduction in ResNeXt Architectures](https://dev.to/ramazanturan/exploring-parameter-reduction-in-resnext-architectures-3704)
-- [🔒 Understanding Uniface&#39;s Lock Statement: A Developer&#39;s Guide](https://dev.to/petercode/understanding-unifaces-lock-statement-a-developers-guide-ff7)
+- [Security isn&#39;t a feature. It&#39;s a mindset.](https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5)
+- [Set custom configuration in AWS EKS CoreDNS Addon](https://dev.to/aws-builders/set-custom-configuration-in-aws-eks-coredns-addon-fh2)
+- [The Zero-Effort AI Millionaire Club: Membership Exploded in 2025!](https://dev.to/cemre_bks/the-zero-effort-ai-millionaire-club-membership-exploded-in-2025-1d7c)
+- [SQL CASE Statements: The Order Matters!](https://dev.to/drorata/sql-case-statements-the-order-matters-545f)
 <!-- BLOG-POST-LIST:END -->
 
 
