@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fixup a Commit](https://dev.to/aerabi/how-to-fixup-a-commit-4ngk)
-- [🚨 Stop Using ChatGPT Agents Until You Read This First!](https://dev.to/alifar/stop-using-chatgpt-agents-until-you-read-this-first-5gab)
-- [“Fake It Till You Make It” vs. Building Real Tech](https://dev.to/js402/fake-it-till-you-make-it-vs-building-real-tech-50p8)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;5521&rpar;](https://dev.to/member_a26aac70/zero-dependency-architecture-for-maximum-performance5521-10gb)
+- [Setting up proper documentation with Sphinx docs — Building stocksimpy 1](https://dev.to/suleyman_sade/setting-up-proper-documentation-with-sphinx-docs-building-stocksimpy-1-4gfg)
+- [Mastering Uniface getitem: Your Guide to List Manipulation 📋](https://dev.to/petercode/mastering-uniface-getitem-your-guide-to-list-manipulation-3pkp)
+- [How I Built a RAG System in Rails Using Nomic Embeddings and OpenAI](https://dev.to/travelingwilbur/how-i-built-a-rag-system-in-rails-using-nomic-embeddings-and-openai-154e)
+- [Excited to Join the Dev Community: Ready to Learn and Grow Together!](https://dev.to/ebsomie/excited-to-join-the-dev-community-ready-to-learn-and-grow-together-5ic)
 <!-- BLOG-POST-LIST:END -->
 
 
