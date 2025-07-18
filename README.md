@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Implementation for High Concurrency Processing&lpar;3595&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing3595-53j8)
-- [Building the second project Resume using HTML AND CSS](https://dev.to/selvakumar_r_4bac08f5eaa6/building-the-second-project-resume-using-html-and-css-5184)
-- [New Choice for Cross-Platform Web Service Development&lpar;9282&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development9282-3b6j)
-- [Cross-Platform Web Development Without Compromise&lpar;1842&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise1842-8i6)
+- [🚀Stop Struggling with Angular Routes: The Complete Data Passing Handbook with Live Examples](https://dev.to/codewithrajat/stop-struggling-with-angular-routes-the-complete-data-passing-handbook-with-live-examples-2don)
+- [Browser MCP](https://dev.to/thedeepseeker/browser-mcp-14mn)
+- [💂Beginner&#39;s Guide to &quot;Meeting Rooms III&quot; - LeetCode 2163 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-meeting-rooms-iii-leetcode-2163-c-python-javascript-264h)
+- [Efficient WebSocket Server-Side Processing&lpar;3001&rpar;](https://dev.to/member_a26aac70/efficient-websocket-server-side-processing3001-1p8h)
 <!-- BLOG-POST-LIST:END -->
 
 
