@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Implementation for High Concurrency Processing&lpar;7286&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing7286-515h)
-- [Teaching My 8-Year-Old About Image Optimization: How Parenting Changed My Perspective on Performance](https://dev.to/hardik_b2d8f0bca/teaching-my-8-year-old-about-image-optimization-how-parenting-changed-my-perspective-on-472m)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;1507&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services1507-4m8m)
-- [Binary Quantization: the 1-bit trick that turns terabytes of vectors into pocket-sized fingerprints](https://dev.to/abhishek_gautam-01/binary-quantization-the-1-bit-trick-that-turns-terabytes-of-vectors-into-pocket-sized-fingerprints-1e0j)
+- [High-Performance Routing System Design and Implementation&lpar;7884&rpar;](https://dev.to/member_a26aac70/high-performance-routing-system-design-and-implementation7884-83d)
+- [The Hidden Cost of Always-On Environments: How to Reduce Cloud Waste](https://dev.to/zopdev/the-hidden-cost-of-always-on-environments-how-to-reduce-cloud-waste-5b0c)
+- [Using Azure IaaS for Scalable AI Workloads](https://dev.to/ryan_foster/using-azure-iaas-for-scalable-ai-workloads-1e86)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;5800&rpar;](https://dev.to/member_aa44a2ae/server-side-events-implementation-for-real-time-applications5800-5fje)
 <!-- BLOG-POST-LIST:END -->
 
 
