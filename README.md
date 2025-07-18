@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Stop Struggling with Angular Routes: The Complete Data Passing Handbook with Live Examples](https://dev.to/codewithrajat/stop-struggling-with-angular-routes-the-complete-data-passing-handbook-with-live-examples-2don)
-- [Browser MCP](https://dev.to/thedeepseeker/browser-mcp-14mn)
-- [💂Beginner&#39;s Guide to &quot;Meeting Rooms III&quot; - LeetCode 2163 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-meeting-rooms-iii-leetcode-2163-c-python-javascript-264h)
-- [Efficient WebSocket Server-Side Processing&lpar;3001&rpar;](https://dev.to/member_a26aac70/efficient-websocket-server-side-processing3001-1p8h)
+- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
+- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
+- [Day 28/100: List Comprehensions in Python](https://dev.to/therahul_gupta/day-28100-list-comprehensions-in-python-1498)
+- [Gothic Lolita AI... okay, I&#39;m intrigued.](https://dev.to/benlin/gothic-lolita-ai-okay-im-intrigued-cmm)
 <!-- BLOG-POST-LIST:END -->
 
 
