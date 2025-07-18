@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Mastering Business Acumen, People Skills, and Sales Expertise](https://dev.to/devcorner/the-ultimate-guide-to-mastering-business-acumen-people-skills-and-sales-expertise-5ggj)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;1343&rpar;](https://dev.to/member_a26aac70/http-request-processing-with-zero-copy-optimization1343-3eg)
-- [Discover WaveRecon: Your Ultimate Web Reconnaissance Tool for Security Testing](https://dev.to/ronit_paikray_c98c5bf84b8/discover-waverecon-your-ultimate-web-reconnaissance-tool-for-security-testing-1im0)
-- [The Explosive Rise of Agentic AI in 2025: Trends That Will Redefine Your World](https://dev.to/farukalpay/the-explosive-rise-of-agentic-ai-in-2025-trends-that-will-redefine-your-world-147o)
+- [Why No One Will Be Using JavaScript in 5 Years](https://dev.to/abubakersiddique761/why-no-one-will-be-using-javascript-in-5-years-2pec)
+- [The One Programming Skill That&#39;ll Be Obsolete by 2026](https://dev.to/abubakersiddique761/the-one-programming-skill-thatll-be-obsolete-by-2026-5f58)
+- [Rust Implementation for High Concurrency Processing&lpar;4734&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4734-1map)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;6047&rpar;](https://dev.to/member_214bcde5/bidirectional-communication-patterns-in-modern-web-apps6047-264j)
 <!-- BLOG-POST-LIST:END -->
 
 
