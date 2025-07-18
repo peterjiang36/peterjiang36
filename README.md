@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why No One Will Be Using JavaScript in 5 Years](https://dev.to/abubakersiddique761/why-no-one-will-be-using-javascript-in-5-years-2pec)
-- [The One Programming Skill That&#39;ll Be Obsolete by 2026](https://dev.to/abubakersiddique761/the-one-programming-skill-thatll-be-obsolete-by-2026-5f58)
-- [Rust Implementation for High Concurrency Processing&lpar;4734&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing4734-1map)
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;6047&rpar;](https://dev.to/member_214bcde5/bidirectional-communication-patterns-in-modern-web-apps6047-264j)
+- [Storage: 10x Larger Uploads, 3x Cheaper Cached Egress, and 2x Egress Quota](https://dev.to/supabase/storage-10x-larger-uploads-3x-cheaper-cached-egress-and-2x-egress-quota-46ed)
+- [Dump and Sync PostgreSQL Schema with Python &lpar;No Data, No BS&rpar;](https://dev.to/lovestaco/dump-and-sync-postgresql-schema-with-python-no-data-no-bs-3c1c)
+- [viboxai: After the Hack - WLH Challenge](https://dev.to/ariondev/viboxai-after-the-hack-wlh-challenge-2jk7)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;3662&rpar;](https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers3662-2fca)
 <!-- BLOG-POST-LIST:END -->
 
 
