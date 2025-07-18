@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock’s AgentCore: How It Powers the Next Generation of AI Agents](https://dev.to/alifar/amazon-bedrocks-agentcore-how-it-powers-the-next-generation-of-ai-agents-2ea0)
-- [9 JavaScript Function Types You Should Know as a Beginner](https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad)
-- [Images from the Road: How Digital Nomadism Changed My Approach to Image Optimization](https://dev.to/hardik_b2d8f0bca/images-from-the-road-how-digital-nomadism-changed-my-approach-to-image-optimization-hjl)
-- [Rust Async Web Framework Performance Breakthrough&lpar;1606&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough1606-3831)
+- [Rust Implementation for High Concurrency Processing&lpar;7286&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing7286-515h)
+- [Teaching My 8-Year-Old About Image Optimization: How Parenting Changed My Perspective on Performance](https://dev.to/hardik_b2d8f0bca/teaching-my-8-year-old-about-image-optimization-how-parenting-changed-my-perspective-on-472m)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;1507&rpar;](https://dev.to/member_214bcde5/production-deployment-strategies-for-high-performance-web-services1507-4m8m)
+- [Binary Quantization: the 1-bit trick that turns terabytes of vectors into pocket-sized fingerprints](https://dev.to/abhishek_gautam-01/binary-quantization-the-1-bit-trick-that-turns-terabytes-of-vectors-into-pocket-sized-fingerprints-1e0j)
 <!-- BLOG-POST-LIST:END -->
 
 
