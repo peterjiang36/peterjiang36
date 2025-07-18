@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [50+ Tips For Big Unity Games](https://dev.to/dumboprogrammer/50-tips-for-big-unity-games-1lpa)
-- [Automate Like a Pro: Flutter Meets n8n for Real-Time Hacker News Search + Auto-Posting](https://dev.to/shamnad_sherief/automate-like-a-pro-flutter-meets-n8n-for-real-time-hacker-news-search-auto-posting-1hk0)
-- [🧩 Why Less Is More: The Power of Soft Interactions in Web Game Development](https://dev.to/tarif_hossain_4ce2d31e35c/why-less-is-more-the-power-of-soft-interactions-in-web-game-development-4oah)
-- [Difference between &quot;min SDK version&quot;, &quot;target SDK version&quot; and &quot;compile SDK&quot; version?](https://dev.to/shamnad_sherief/difference-between-min-sdk-version-target-sdk-version-and-compile-sdk-version-5bib)
+- [Elegant Middleware Architecture Implementation&lpar;6494&rpar;](https://dev.to/member_214bcde5/elegant-middleware-architecture-implementation6494-386)
+- [React notes](https://dev.to/himanimehra/react-notes-2mp9)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;3502&rpar;](https://dev.to/member_aa44a2ae/ultimate-optimization-of-lightweight-server-architecture3502-5gif)
+- [13 Principles of Information Architecture Every Web Designer Should Know✅](https://dev.to/margishpatel/13-principles-of-information-architecture-every-web-designer-should-know-4jd1)
 <!-- BLOG-POST-LIST:END -->
 
 
