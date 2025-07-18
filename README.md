@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Performance Routing System Design and Implementation&lpar;7884&rpar;](https://dev.to/member_a26aac70/high-performance-routing-system-design-and-implementation7884-83d)
-- [The Hidden Cost of Always-On Environments: How to Reduce Cloud Waste](https://dev.to/zopdev/the-hidden-cost-of-always-on-environments-how-to-reduce-cloud-waste-5b0c)
-- [Using Azure IaaS for Scalable AI Workloads](https://dev.to/ryan_foster/using-azure-iaas-for-scalable-ai-workloads-1e86)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;5800&rpar;](https://dev.to/member_aa44a2ae/server-side-events-implementation-for-real-time-applications5800-5fje)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `47`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-47-4jpl)
+- [I Tried Replacing JavaScript with Rust + WASM for Frontend. Here&#39;s What Happened.](https://dev.to/xinjie_zou_d67d2805538130/i-tried-replacing-javascript-with-rust-wasm-for-frontend-heres-what-happened-47f1)
+- [New Choice for Cross-Platform Web Service Development&lpar;9452&rpar;](https://dev.to/member_a26aac70/new-choice-for-cross-platform-web-service-development9452-3m9k)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;2070&rpar;](https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf)
 <!-- BLOG-POST-LIST:END -->
 
 
