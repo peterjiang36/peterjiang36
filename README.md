@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is LDAP Port [A Complete Guide for Beginners]](https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp)
-- [Deploying Your First Smart Contract Using KID: Step-by-Step](https://dev.to/kalpstudio/deploying-your-first-smart-contract-using-kid-step-by-step-276p)
-- [Rust Implementation for High Concurrency Processing&lpar;9863&rpar;](https://dev.to/member_aa44a2ae/rust-implementation-for-high-concurrency-processing9863-3aof)
-- [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
+- [Google Cloud VMs and Networking](https://dev.to/lxmwaniky/google-cloud-vms-and-networking-1gl)
+- [Building a Text-to-SQL AI Assistant with lightweight LLM, and Semantic Kernel in C#: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/building-a-text-to-sql-ai-assistant-with-lightweight-llm-and-semantic-kernel-in-c-a-fun-3m4o)
+- [Case Study: How I Helped UK Healthcare Clients Save 30% on Microsoft 365 Licensing](https://dev.to/tetherednetwork/case-study-how-i-helped-uk-healthcare-clients-save-30-on-microsoft-365-licensing-2li2)
+- [String](https://dev.to/flevia/string-50ni)
 <!-- BLOG-POST-LIST:END -->
 
 
