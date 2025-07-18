@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSR vs SSR in Next.js](https://dev.to/khaledsaeed18/csr-vs-ssr-in-nextjs-34o8)
-- [Google Analytics not sending different pages aside from home page in ReactJS&lpar;Vite&rpar;](https://dev.to/highcenburg/google-analytics-not-sending-different-pages-aside-from-home-page-in-reactjsvite-4bpn)
-- [Catalangate and Pegasus: How technology was used to stop a referendum](https://dev.to/josep_miquel_3dbc331656de/catalangate-and-pegasus-how-technology-was-used-to-stop-a-referendum-51fj)
-- [Office Space: Actual Office Space](https://dev.to/ansellmaximilian/office-space-actual-office-space-23d4)
+- [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
+- [What makes Anvil so easy to learn?](https://dev.to/anvil/what-makes-anvil-so-easy-to-learn-3ggi)
+- [SoftoSync: The Leading Custom Software &amp; Flutter App Development Company](https://dev.to/softosync/softosync-the-leading-custom-software-flutter-app-development-company-4hkn)
+- [From Terminal to Transcendence: The Cyberpunk Future of Operating Systems](https://dev.to/voidos/from-terminal-to-transcendence-the-cyberpunk-future-of-operating-systems-4eip)
 <!-- BLOG-POST-LIST:END -->
 
 
