@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Assassin&#39;s Creed Live-Action Series Will Be About &#39;Power, Sex, Greed, Vengeance&#39; - IGN Daily Fix](https://dev.to/gg_news/ign-assassins-creed-live-action-series-will-be-about-power-sex-greed-vengeance-ign-daily-4m0n)
-- [IGN: Rooster Fighter - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-trailer-english-subtitles-4jn1)
-- [IGN: Wretch: Divine Ascent - Official Release Window Trailer](https://dev.to/gg_news/ign-wretch-divine-ascent-official-release-window-trailer-2gl1)
-- [IGN: Echoes of the End - Official Extended Gameplay Trailer](https://dev.to/gg_news/ign-echoes-of-the-end-official-extended-gameplay-trailer-9f3)
+- [2163. Minimum Difference in Sums After Removal of Elements](https://dev.to/mdarifulhaque/2163-minimum-difference-in-sums-after-removal-of-elements-aa2)
+- [Not Everyone Gets Into FAANG — and That’s Okay](https://dev.to/algo_sync/not-everyone-gets-into-faang-and-thats-okay-40b7)
+- [🧹 Clean Your JavaScript Objects Like a Pro with clean-object-keys](https://dev.to/manukumar07/clean-your-javascript-objects-like-a-pro-with-clean-object-keys-4c4j)
+- [Elegant Middleware Architecture Implementation&lpar;3177&rpar;](https://dev.to/member_a26aac70/elegant-middleware-architecture-implementation3177-2n1p)
 <!-- BLOG-POST-LIST:END -->
 
 
