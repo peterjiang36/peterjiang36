@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up proper documentation with Sphinx docs — Building stocksimpy 1](https://dev.to/suleyman_sade/setting-up-proper-documentation-with-sphinx-docs-building-stocksimpy-1-4gfg)
-- [Mastering Uniface getitem: Your Guide to List Manipulation 📋](https://dev.to/petercode/mastering-uniface-getitem-your-guide-to-list-manipulation-3pkp)
-- [How I Built a RAG System in Rails Using Nomic Embeddings and OpenAI](https://dev.to/travelingwilbur/how-i-built-a-rag-system-in-rails-using-nomic-embeddings-and-openai-154e)
-- [Excited to Join the Dev Community: Ready to Learn and Grow Together!](https://dev.to/ebsomie/excited-to-join-the-dev-community-ready-to-learn-and-grow-together-5ic)
+- [First post and first learning tract](https://dev.to/rockshandy/first-post-and-first-learning-tract-4bg5)
+- [Building an Accessible School Management Portal: Lessons from My Web Dev Journey](https://dev.to/tayo4christ/building-an-accessible-school-management-portal-lessons-from-my-web-dev-journey-1023)
+- [Exploring Parameter Reduction in ResNeXt Architectures](https://dev.to/ramazanturan/exploring-parameter-reduction-in-resnext-architectures-3704)
+- [🔒 Understanding Uniface&#39;s Lock Statement: A Developer&#39;s Guide](https://dev.to/petercode/understanding-unifaces-lock-statement-a-developers-guide-ff7)
 <!-- BLOG-POST-LIST:END -->
 
 
