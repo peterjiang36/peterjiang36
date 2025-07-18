@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [What is LDAP Port [A Complete Guide for Beginners]](https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp)
+- [Deploying Your First Smart Contract Using KID: Step-by-Step](https://dev.to/kalpstudio/deploying-your-first-smart-contract-using-kid-step-by-step-276p)
+- [Rust Implementation for High Concurrency Processing&lpar;9863&rpar;](https://dev.to/member_aa44a2ae/rust-implementation-for-high-concurrency-processing9863-3aof)
 - [My First JavaScript DOM Project](https://dev.to/demestrine/my-first-javascript-dom-project-e58)
-- [What makes Anvil so easy to learn?](https://dev.to/anvil/what-makes-anvil-so-easy-to-learn-3ggi)
-- [SoftoSync: The Leading Custom Software &amp; Flutter App Development Company](https://dev.to/softosync/softosync-the-leading-custom-software-flutter-app-development-company-4hkn)
-- [From Terminal to Transcendence: The Cyberpunk Future of Operating Systems](https://dev.to/voidos/from-terminal-to-transcendence-the-cyberpunk-future-of-operating-systems-4eip)
 <!-- BLOG-POST-LIST:END -->
 
 
