@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud VMs and Networking](https://dev.to/lxmwaniky/google-cloud-vms-and-networking-1gl)
-- [Building a Text-to-SQL AI Assistant with lightweight LLM, and Semantic Kernel in C#: A Fun Experiment](https://dev.to/auyeungdavid_2847435260/building-a-text-to-sql-ai-assistant-with-lightweight-llm-and-semantic-kernel-in-c-a-fun-3m4o)
-- [Case Study: How I Helped UK Healthcare Clients Save 30% on Microsoft 365 Licensing](https://dev.to/tetherednetwork/case-study-how-i-helped-uk-healthcare-clients-save-30-on-microsoft-365-licensing-2li2)
-- [String](https://dev.to/flevia/string-50ni)
+- [IGN: Assassin&#39;s Creed Live-Action Series Will Be About &#39;Power, Sex, Greed, Vengeance&#39; - IGN Daily Fix](https://dev.to/gg_news/ign-assassins-creed-live-action-series-will-be-about-power-sex-greed-vengeance-ign-daily-4m0n)
+- [IGN: Rooster Fighter - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-trailer-english-subtitles-4jn1)
+- [IGN: Wretch: Divine Ascent - Official Release Window Trailer](https://dev.to/gg_news/ign-wretch-divine-ascent-official-release-window-trailer-2gl1)
+- [IGN: Echoes of the End - Official Extended Gameplay Trailer](https://dev.to/gg_news/ign-echoes-of-the-end-official-extended-gameplay-trailer-9f3)
 <!-- BLOG-POST-LIST:END -->
 
 
