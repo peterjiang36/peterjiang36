@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Platform Web Development Without Compromise&lpar;2042&rpar;](https://dev.to/member_214bcde5/cross-platform-web-development-without-compromise2042-3kkd)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;0098&rpar;](https://dev.to/member_a26aac70/resource-management-and-memory-efficiency-in-web-servers0098-k7k)
-- [Server-Side Events Implementation for Real-Time Applications&lpar;1277&rpar;](https://dev.to/member_a26aac70/server-side-events-implementation-for-real-time-applications1277-3b5a)
-- [More Than a Bug: How Root Cause Analysis Helped Payroll](https://dev.to/julianomoreno/more-than-a-bug-how-root-cause-analysis-helped-payroll-2fd5)
+- [Rust Implementation for High Concurrency Processing&lpar;3595&rpar;](https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing3595-53j8)
+- [Building the second project Resume using HTML AND CSS](https://dev.to/selvakumar_r_4bac08f5eaa6/building-the-second-project-resume-using-html-and-css-5184)
+- [New Choice for Cross-Platform Web Service Development&lpar;9282&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development9282-3b6j)
+- [Cross-Platform Web Development Without Compromise&lpar;1842&rpar;](https://dev.to/member_a26aac70/cross-platform-web-development-without-compromise1842-8i6)
 <!-- BLOG-POST-LIST:END -->
 
 
