@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 29/100: Dictionary and Set Comprehensions in Python](https://dev.to/therahul_gupta/day-29100-dictionary-and-set-comprehensions-in-python-3m9l)
-- [Code Smell 307 - Naive Time Assumptions](https://dev.to/mcsee/code-smell-307-naive-time-assumptions-42g8)
-- [Day 28/100: List Comprehensions in Python](https://dev.to/therahul_gupta/day-28100-list-comprehensions-in-python-1498)
-- [Gothic Lolita AI... okay, I&#39;m intrigued.](https://dev.to/benlin/gothic-lolita-ai-okay-im-intrigued-cmm)
+- [50+ Tips For Big Unity Games](https://dev.to/dumboprogrammer/50-tips-for-big-unity-games-1lpa)
+- [Automate Like a Pro: Flutter Meets n8n for Real-Time Hacker News Search + Auto-Posting](https://dev.to/shamnad_sherief/automate-like-a-pro-flutter-meets-n8n-for-real-time-hacker-news-search-auto-posting-1hk0)
+- [🧩 Why Less Is More: The Power of Soft Interactions in Web Game Development](https://dev.to/tarif_hossain_4ce2d31e35c/why-less-is-more-the-power-of-soft-interactions-in-web-game-development-4oah)
+- [Difference between &quot;min SDK version&quot;, &quot;target SDK version&quot; and &quot;compile SDK&quot; version?](https://dev.to/shamnad_sherief/difference-between-min-sdk-version-target-sdk-version-and-compile-sdk-version-5bib)
 <!-- BLOG-POST-LIST:END -->
 
 
