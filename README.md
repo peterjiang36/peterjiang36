@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Storage: 10x Larger Uploads, 3x Cheaper Cached Egress, and 2x Egress Quota](https://dev.to/supabase/storage-10x-larger-uploads-3x-cheaper-cached-egress-and-2x-egress-quota-46ed)
-- [Dump and Sync PostgreSQL Schema with Python &lpar;No Data, No BS&rpar;](https://dev.to/lovestaco/dump-and-sync-postgresql-schema-with-python-no-data-no-bs-3c1c)
-- [viboxai: After the Hack - WLH Challenge](https://dev.to/ariondev/viboxai-after-the-hack-wlh-challenge-2jk7)
-- [Memory Safety Meets Extreme Performance in Web Servers&lpar;3662&rpar;](https://dev.to/member_a26aac70/memory-safety-meets-extreme-performance-in-web-servers3662-2fca)
+- [How to Fixup a Commit](https://dev.to/aerabi/how-to-fixup-a-commit-4ngk)
+- [🚨 Stop Using ChatGPT Agents Until You Read This First!](https://dev.to/alifar/stop-using-chatgpt-agents-until-you-read-this-first-5gab)
+- [“Fake It Till You Make It” vs. Building Real Tech](https://dev.to/js402/fake-it-till-you-make-it-vs-building-real-tech-50p8)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;5521&rpar;](https://dev.to/member_a26aac70/zero-dependency-architecture-for-maximum-performance5521-10gb)
 <!-- BLOG-POST-LIST:END -->
 
 
