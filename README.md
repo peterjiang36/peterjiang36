@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Choice for Cross-Platform Web Service Development&lpar;5643&rpar;](https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development5643-625)
-- [Rust Async Web Framework Performance Breakthrough&lpar;6768&rpar;](https://dev.to/member_a26aac70/rust-async-web-framework-performance-breakthrough6768-9hc)
-- [Cross-Platform Web Development Without Compromise&lpar;4632&rpar;](https://dev.to/member_214bcde5/cross-platform-web-development-without-compromise4632-2nl2)
-- [Claude Code Replaced My Need for Copilot and Now Writes 95% of My Code](https://dev.to/jmd_is_me/claude-code-replaced-my-need-for-copilot-and-now-writes-95-of-my-code-2ao7)
+- [Cross-Platform Web Development Without Compromise&lpar;2042&rpar;](https://dev.to/member_214bcde5/cross-platform-web-development-without-compromise2042-3kkd)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;0098&rpar;](https://dev.to/member_a26aac70/resource-management-and-memory-efficiency-in-web-servers0098-k7k)
+- [Server-Side Events Implementation for Real-Time Applications&lpar;1277&rpar;](https://dev.to/member_a26aac70/server-side-events-implementation-for-real-time-applications1277-3b5a)
+- [More Than a Bug: How Root Cause Analysis Helped Payroll](https://dev.to/julianomoreno/more-than-a-bug-how-root-cause-analysis-helped-payroll-2fd5)
 <!-- BLOG-POST-LIST:END -->
 
 
