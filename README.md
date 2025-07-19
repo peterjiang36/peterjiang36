@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Backup Android](https://dev.to/ahasanpapon/data-backup-android-4fgf)
-- [The digital future of industrial and operational work](https://dev.to/yagyaraj_sharma_6cd410179/the-digital-future-of-industrial-and-operational-work-45f3)
-- [Javascript Unplugged: History, Power, and the Quirky Magic That Runs the Web](https://dev.to/sansk/javascript-unplugged-history-power-and-the-quirky-magic-that-runs-the-web-2979)
-- [Integration Testing .NET Web API Using Testcontainers](https://dev.to/chewryl/integration-testing-aspnet-core-web-api-using-testcontainers-2429)
+- [How i make the first AI fake product DETECTOR :&rpar;](https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7)
+- [I Got My First Dev Job. I Was Not Ready.](https://dev.to/rich_park/i-got-my-first-dev-job-i-was-not-ready-4171)
+- [Building an Open Floor Parrot Agent](https://dev.to/azettl/building-an-open-floor-parrot-agent-3e79)
+- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
 <!-- BLOG-POST-LIST:END -->
 
 
