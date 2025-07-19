@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Save an Hour of Figma Work Using Webcrumbs](https://dev.to/astrodevil/how-to-save-an-hour-of-figma-work-using-webcrumbs-25j0)
-- [Why I am Sharing Veko Ecosystem Publicly and for Free](https://dev.to/vekoo111/why-i-am-sharing-veko-ecosystem-publicly-and-for-free-5150)
-- [Introducing Veko Ecosystem: A Complete Solution for Privacy, Load Testing, and Secure Data Storage](https://dev.to/vekoo111/introducing-veko-ecosystem-a-complete-solution-for-privacy-load-testing-and-secure-data-storage-1alo)
-- [DevVoice: Real-Time Voice Coding Assistant](https://dev.to/extinctsion/devvoice-real-time-voice-coding-assistant-dj0)
+- [DhaScan: Level Up Your Web Security with AI 🛡️ - Think Like an Attacker, Defend Like a Pro.](https://dev.to/ronit_paikray_c98c5bf84b8/dhascan-level-up-your-web-security-with-ai-think-like-an-attacker-defend-like-a-pro-4d0f)
+- [🕵️‍♂️ Social Media First Post Finder](https://dev.to/akbak/social-media-first-post-finder-2jbp)
+- [🎭 Solivagus](https://dev.to/akbak/solivagus-1ld5)
+- [Comunicação entre a Camada Application e a API no .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-application-e-a-api-no-net-moderno-47oj)
 <!-- BLOG-POST-LIST:END -->
 
 
