@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Match &amp; Merge Behaves Differently in Cloud MDM &lpar;And What Most People Miss&rpar;](https://dev.to/inventmodel/why-match-merge-behaves-differently-in-cloud-mdm-and-what-most-people-miss-336n)
-- [Advanced PDF Optimization Techniques - 1752914](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752914-26ip)
-- [How to Add Authentication to Your Next.js App with Auth.js](https://dev.to/kpeale/how-to-add-authentication-to-your-nextjs-app-with-authjs-2j20)
-- [Duplicating Rows in MySQL](https://dev.to/ibrahimalanshor/duplicating-rows-in-mysql-l28)
+- [Your API is Cute, But Where&#39;s the Real Backend? 🤔](https://dev.to/dhaval_agrvat_6e65394a83/your-api-is-cute-but-wheres-the-real-backend-5088)
+- [future ready learning with timeless values](https://dev.to/sumit_gariya_e6073d17e62b/future-ready-learning-with-timeless-values-gn)
+- [180 Days of Frontend Development Challenge: Day 35 CSS Pseudo-classes and Pseudo-elements](https://dev.to/code_2/180-days-of-frontend-development-challenge-day-35-css-pseudo-classes-and-pseudo-elements-56pf)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and What are the benefits of using it ?](https://dev.to/rgunasekaran/what-is-infrastructure-as-code-iac-and-what-are-the-benefits-of-using-it--38gk)
 <!-- BLOG-POST-LIST:END -->
 
 
