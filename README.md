@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
-- [I Tested 5 CLI Coding Agents &amp; Here’s What Surprised Me!](https://dev.to/forgecode/i-tested-5-cli-coding-agents-heres-what-surprised-me-28i)
-- [20 Rules for Becoming THAT Manager &lpar;From a Principal Engineer’s Perspective&rpar;](https://dev.to/georgekobaidze/20-rules-for-becoming-that-manager-from-a-principal-engineers-perspective-58n3)
-- [Should I Encourage People to Learn Programming in 2025? I Don’t Think So.](https://dev.to/pranta/should-i-encourage-people-to-learn-programming-in-2025-i-dont-think-so-1a38)
+- [Top 25 JavaScript Array Methods Every Developer Should Learn](https://dev.to/gouranga-das-khulna/top-25-javascript-array-methods-every-developer-should-learn-2jc1)
+- [codesafe npm package](https://dev.to/codewizard123/codesafe-npm-package-23la)
+- [Stop Showing Your Database Schema to the World: A Better Way to Handle Errors in Express + Prisma](https://dev.to/rosahadi/stop-showing-your-database-schema-to-the-world-a-better-way-to-handle-errors-in-express-prisma-3i0)
+- [How to Use NestJS as SSR Server for Angular v20 | POC](https://dev.to/xsip/how-to-use-nestjs-as-ssr-server-for-angular-v20-poc-5897)
 <!-- BLOG-POST-LIST:END -->
 
 
