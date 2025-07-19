@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Temperament Matters When Choosing a Legal Career](https://dev.to/dalton_abreshears/why-your-temperament-matters-when-choosing-a-legal-career-h26)
-- [How to Scrape Image Data From a Website Programmatically?](https://dev.to/cristianalex_17/how-to-scrape-image-data-from-a-website-programmatically-29o5)
-- [Construindo o Jogo Arkanoid em C++](https://dev.to/mrpunkdasilva/construindo-o-jogo-arkanoid-em-c-n5c)
-- [Leveling Up as a Developer in 2025 Isn’t Just About Code Anymore](https://dev.to/raimundos_marques/leveling-up-as-a-developer-in-2025-isnt-just-about-code-anymore-18l8)
+- [[Boost]](https://dev.to/little_coding_things/-2jn0)
+- [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
+- [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
+- [Imposter Syndrome Is Lying to You—Don’t Let It Run Your Career](https://dev.to/dalton_abreshears/imposter-syndrome-is-lying-to-you-dont-let-it-run-your-career-1af4)
 <!-- BLOG-POST-LIST:END -->
 
 
