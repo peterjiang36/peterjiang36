@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack Application Deployment Guide Using Docker, Kubernetes, Jenkins, and Prometheus Monitoring](https://dev.to/prodevopsguytech/full-stack-application-deployment-guide-using-docker-kubernetes-jenkins-and-prometheus-monitoring-275c)
-- [.env vs .toml for Config in Go: What Should You Use?](https://dev.to/lovestaco/env-vs-toml-for-config-in-go-what-should-you-use-564l)
-- [Python For beginners](https://dev.to/kemboijebby/python-for-beginners-4khh)
-- [Africa’s Tech Boom Needs a Security Backbone — Not Just AI Hype](https://dev.to/masta-sox/africas-tech-boom-needs-a-security-backbone-not-just-ai-hype-5fm)
+- [Implementing OpenDAL with Filesystem &lpar;FS&rpar; In Rust](https://dev.to/mukhtar_onif/implementing-opendal-with-filesystem-fs-in-rust-2ha8)
+- [SwiftUI Performance and Stability: Avoiding the Most Costly Mistakes](https://dev.to/arshtechpro/swiftui-performance-and-stability-avoiding-the-most-costly-mistakes-234c)
+- [Youtube video summarizer with linkedin post creation](https://dev.to/prasenjit_debnath/youtube-video-summarizer-with-linkedin-post-creation-4icm)
+- [AI Agents Are Getting Smarter Than You Think — And That’s Changing Everything](https://dev.to/arkhan/ai-agents-are-getting-smarter-than-you-think-and-thats-changing-everything-dao)
 <!-- BLOG-POST-LIST:END -->
 
 
