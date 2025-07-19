@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing OpenDAL with Filesystem &lpar;FS&rpar; In Rust](https://dev.to/mukhtar_onif/implementing-opendal-with-filesystem-fs-in-rust-2ha8)
-- [SwiftUI Performance and Stability: Avoiding the Most Costly Mistakes](https://dev.to/arshtechpro/swiftui-performance-and-stability-avoiding-the-most-costly-mistakes-234c)
-- [Youtube video summarizer with linkedin post creation](https://dev.to/prasenjit_debnath/youtube-video-summarizer-with-linkedin-post-creation-4icm)
-- [AI Agents Are Getting Smarter Than You Think — And That’s Changing Everything](https://dev.to/arkhan/ai-agents-are-getting-smarter-than-you-think-and-thats-changing-everything-dao)
+- [DevSolve — Earn by Solving Code &amp; Selling Pre-Built Modules](https://dev.to/gulsher_50044cd38a2d9e954/devsolve-earn-by-solving-code-selling-pre-built-modules-1e95)
+- [Laravel Events and Listeners: Building Decoupled Applications](https://dev.to/arasosman/laravel-events-and-listeners-building-decoupled-applications-e91)
+- [30 Days Of Code- Day 3](https://dev.to/akshitaexe/30-days-of-code-day-3-4c9d)
+- [The best AI headshot generator - my personal and honest review](https://dev.to/laurentiu_raducu_27fc6f79/the-best-ai-headshot-generator-my-personal-and-honest-review-4lo1)
 <!-- BLOG-POST-LIST:END -->
 
 
