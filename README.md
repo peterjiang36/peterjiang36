@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DhaScan: Level Up Your Web Security with AI 🛡️ - Think Like an Attacker, Defend Like a Pro.](https://dev.to/ronit_paikray_c98c5bf84b8/dhascan-level-up-your-web-security-with-ai-think-like-an-attacker-defend-like-a-pro-4d0f)
-- [🕵️‍♂️ Social Media First Post Finder](https://dev.to/akbak/social-media-first-post-finder-2jbp)
-- [🎭 Solivagus](https://dev.to/akbak/solivagus-1ld5)
-- [Comunicação entre a Camada Application e a API no .NET Moderno](https://dev.to/daniloopinheiro/comunicacao-entre-a-camada-application-e-a-api-no-net-moderno-47oj)
+- [Full-Stack Application Deployment Guide Using Docker, Kubernetes, Jenkins, and Prometheus Monitoring](https://dev.to/prodevopsguytech/full-stack-application-deployment-guide-using-docker-kubernetes-jenkins-and-prometheus-monitoring-275c)
+- [.env vs .toml for Config in Go: What Should You Use?](https://dev.to/lovestaco/env-vs-toml-for-config-in-go-what-should-you-use-564l)
+- [Python For beginners](https://dev.to/kemboijebby/python-for-beginners-4khh)
+- [Africa’s Tech Boom Needs a Security Backbone — Not Just AI Hype](https://dev.to/masta-sox/africas-tech-boom-needs-a-security-backbone-not-just-ai-hype-5fm)
 <!-- BLOG-POST-LIST:END -->
 
 
