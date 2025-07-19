@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Derivatives: The Slope of Change](https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f)
-- [Advanced PDF Optimization Techniques - 1752893](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752893-5h97)
-- [🎬 Introducing Ravgeek: Dev Concepts in 60 Seconds](https://dev.to/ravgeetdhillon/introducing-ravgeek-dev-concepts-in-60-seconds-54nj)
-- [Most people are using ChatGPT the wrong way. Here&#39;s how to learn any skill faster](https://dev.to/manasi_patil_/most-people-are-using-chatgpt-the-wrong-way-heres-how-to-learn-any-skill-faster-10bm)
+- [Conectando Backend e Frontend - Next Js + Nest Js](https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo)
+- [AWS Support: &quot;We&#39;re here to help&quot;](https://dev.to/bishal_cpgn/aws-support-were-here-to-help-2dhp)
+- [lertWise — Free Web Push Notifications for Websites &amp; Blogs](https://dev.to/alertwise_bfd760b9a52d098/lertwise-free-web-push-notifications-for-websites-blogs-1c00)
+- [Software Engineers, are you ready for the next‑gen challenge?](https://dev.to/onlineeric/software-engineers-are-you-ready-for-the-next-gen-challenge-4g5f)
 <!-- BLOG-POST-LIST:END -->
 
 
