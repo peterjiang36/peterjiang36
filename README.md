@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Acme Corp Intranet – A Clean &amp; Responsive Office Homepage | DEV Challenge](https://dev.to/makendrang/acme-corp-intranet-a-clean-responsive-office-homepage-dev-challenge-4g3l)
-- [Alice: Your AI Desktop Companion is Here!](https://dev.to/githubopensource/alice-your-ai-desktop-companion-is-here-ae1)
-- [Good to use](https://dev.to/mo3badah/good-to-use-jhd)
-- [Containerized Deployments: A Step-by-Step Guide to Deploying A Docker Image Using ECS and 2048 Game Application using EKS](https://dev.to/christiana_orji/containerized-deployments-a-step-by-step-guide-to-deploying-a-docker-image-using-ecs-and-2048-game-1me8)
+- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
+- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
+- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
+- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
 <!-- BLOG-POST-LIST:END -->
 
 
