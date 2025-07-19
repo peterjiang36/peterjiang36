@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic HTML: Why It Matters for SEO and Accessibility](https://dev.to/haseebmirza/semantic-html-why-it-matters-for-seo-and-accessibility-1924)
-- [Test: URL Tracking System](https://dev.to/pponali/test-url-tracking-system-1i3h)
-- [Explore Generative AI with the Gemini API in Vertex AI](https://dev.to/abinesh_m_3f4afdc983f8e3/explore-generative-ai-with-the-gemini-api-in-vertex-ai-a71)
-- [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG](https://dev.to/abinesh_m_3f4afdc983f8e3/inspect-rich-documents-with-gemini-multimodality-and-multimodal-rag-4a1b)
+- [Why Match &amp; Merge Behaves Differently in Cloud MDM &lpar;And What Most People Miss&rpar;](https://dev.to/inventmodel/why-match-merge-behaves-differently-in-cloud-mdm-and-what-most-people-miss-336n)
+- [Advanced PDF Optimization Techniques - 1752914](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752914-26ip)
+- [How to Add Authentication to Your Next.js App with Auth.js](https://dev.to/kpeale/how-to-add-authentication-to-your-nextjs-app-with-authjs-2j20)
+- [Duplicating Rows in MySQL](https://dev.to/ibrahimalanshor/duplicating-rows-in-mysql-l28)
 <!-- BLOG-POST-LIST:END -->
 
 
