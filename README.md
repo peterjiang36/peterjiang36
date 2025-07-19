@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Mastering Responsive Typography in Tailwind CSS](https://dev.to/ruqaiya_beguwala/day-6-mastering-responsive-typography-in-tailwind-css-27np)
-- [Centralized vs Decentralized Identity tradeoffs: Twitter/X, YouTube, Mastodon, ActivityPub and NOSTR](https://dev.to/binaryigor/centralized-vs-decentralized-identity-tradeoffs-twitterx-youtube-mastodon-activitypub-and-nostr-3ab5)
-- [Why &quot;USED&quot; Condition Fails in eBay Inventory API &lpar;Action Figure Category&rpar;](https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6)
-- [My programming environment journey](https://dev.to/veer66/my-programming-environment-journey-5748)
+- [Semantic HTML: Why It Matters for SEO and Accessibility](https://dev.to/haseebmirza/semantic-html-why-it-matters-for-seo-and-accessibility-1924)
+- [Test: URL Tracking System](https://dev.to/pponali/test-url-tracking-system-1i3h)
+- [Explore Generative AI with the Gemini API in Vertex AI](https://dev.to/abinesh_m_3f4afdc983f8e3/explore-generative-ai-with-the-gemini-api-in-vertex-ai-a71)
+- [Inspect Rich Documents with Gemini Multimodality and Multimodal RAG](https://dev.to/abinesh_m_3f4afdc983f8e3/inspect-rich-documents-with-gemini-multimodality-and-multimodal-rag-4a1b)
 <!-- BLOG-POST-LIST:END -->
 
 
