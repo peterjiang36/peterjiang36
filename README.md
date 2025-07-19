@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Table v8: Complete Interactive Data Grid Demo](https://dev.to/abhirup99/tanstack-table-v8-complete-interactive-data-grid-demo-1eo0)
-- [From Requirements to a Data Model in MSSQL](https://dev.to/samit_paudel_5d330ffcfb22/from-requirements-to-a-data-model-in-mssql-3927)
-- [From Requirements to a Data Model in MSSQL](https://dev.to/samit_paudel_5d330ffcfb22/from-requirements-to-a-data-model-in-mssql-3n5j)
-- [Building a Dashboard People Actually Want to Use](https://dev.to/k0msenapati/building-a-dashboard-people-actually-want-to-use-5al2)
+- [🚀 Acme Corp Intranet – A Clean &amp; Responsive Office Homepage | DEV Challenge](https://dev.to/makendrang/acme-corp-intranet-a-clean-responsive-office-homepage-dev-challenge-4g3l)
+- [Alice: Your AI Desktop Companion is Here!](https://dev.to/githubopensource/alice-your-ai-desktop-companion-is-here-ae1)
+- [Good to use](https://dev.to/mo3badah/good-to-use-jhd)
+- [Containerized Deployments: A Step-by-Step Guide to Deploying A Docker Image Using ECS and 2048 Game Application using EKS](https://dev.to/christiana_orji/containerized-deployments-a-step-by-step-guide-to-deploying-a-docker-image-using-ecs-and-2048-game-1me8)
 <!-- BLOG-POST-LIST:END -->
 
 
