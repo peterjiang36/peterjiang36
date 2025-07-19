@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Go Performance Tricks I Learned the Hard Way](https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h)
-- [Restart Unhealthy Docker Containers Automatically](https://dev.to/binarypatrick/restart-unhealthy-docker-containers-automatically-4c00)
-- [Think Like an Attacker, Defend Like a Technician: The Cybersecurity Mindset + Toolkit You Actually Need](https://dev.to/nullc0d3/think-like-an-attacker-defend-like-a-technician-the-cybersecurity-mindset-toolkit-you-actually-4jo9)
-- [Debugging AI&#39;s Most Frustrating Habit: The Abandoned Answer](https://dev.to/accioprocurement/why-do-ais-start-answers-they-cant-finish-2hf0)
+- [Understanding Derivatives: The Slope of Change](https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f)
+- [Advanced PDF Optimization Techniques - 1752893](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752893-5h97)
+- [🎬 Introducing Ravgeek: Dev Concepts in 60 Seconds](https://dev.to/ravgeetdhillon/introducing-ravgeek-dev-concepts-in-60-seconds-54nj)
+- [Most people are using ChatGPT the wrong way. Here&#39;s how to learn any skill faster](https://dev.to/manasi_patil_/most-people-are-using-chatgpt-the-wrong-way-heres-how-to-learn-any-skill-faster-10bm)
 <!-- BLOG-POST-LIST:END -->
 
 
