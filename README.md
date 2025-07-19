@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why &quot;USED&quot; Condition Fails in eBay Inventory API &lpar;Action Figure Category&rpar;](https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6)
+- [My programming environment journey](https://dev.to/veer66/my-programming-environment-journey-5748)
 - [Conectando Backend e Frontend - Next Js + Nest Js](https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo)
 - [AWS Support: &quot;We&#39;re here to help&quot;](https://dev.to/bishal_cpgn/aws-support-were-here-to-help-2dhp)
-- [lertWise — Free Web Push Notifications for Websites &amp; Blogs](https://dev.to/alertwise_bfd760b9a52d098/lertwise-free-web-push-notifications-for-websites-blogs-1c00)
-- [Software Engineers, are you ready for the next‑gen challenge?](https://dev.to/onlineeric/software-engineers-are-you-ready-for-the-next-gen-challenge-4g5f)
 <!-- BLOG-POST-LIST:END -->
 
 
