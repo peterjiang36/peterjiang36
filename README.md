@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How i make the first AI fake product DETECTOR :&rpar;](https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7)
-- [I Got My First Dev Job. I Was Not Ready.](https://dev.to/rich_park/i-got-my-first-dev-job-i-was-not-ready-4171)
-- [Building an Open Floor Parrot Agent](https://dev.to/azettl/building-an-open-floor-parrot-agent-3e79)
-- [Promises em Nodejs Paralelo, Sequencial e Corrida – Qual usar?](https://dev.to/h1bertobarbosa/promises-em-nodejs-paralelo-sequencial-e-corrida-qual-usar-1g3g)
+- [20 Go Performance Tricks I Learned the Hard Way](https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h)
+- [Restart Unhealthy Docker Containers Automatically](https://dev.to/binarypatrick/restart-unhealthy-docker-containers-automatically-4c00)
+- [Think Like an Attacker, Defend Like a Technician: The Cybersecurity Mindset + Toolkit You Actually Need](https://dev.to/nullc0d3/think-like-an-attacker-defend-like-a-technician-the-cybersecurity-mindset-toolkit-you-actually-4jo9)
+- [Debugging AI&#39;s Most Frustrating Habit: The Abandoned Answer](https://dev.to/accioprocurement/why-do-ais-start-answers-they-cant-finish-2hf0)
 <!-- BLOG-POST-LIST:END -->
 
 
