@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 25 JavaScript Array Methods Every Developer Should Learn](https://dev.to/gouranga-das-khulna/top-25-javascript-array-methods-every-developer-should-learn-2jc1)
-- [codesafe npm package](https://dev.to/codewizard123/codesafe-npm-package-23la)
-- [Stop Showing Your Database Schema to the World: A Better Way to Handle Errors in Express + Prisma](https://dev.to/rosahadi/stop-showing-your-database-schema-to-the-world-a-better-way-to-handle-errors-in-express-prisma-3i0)
-- [How to Use NestJS as SSR Server for Angular v20 | POC](https://dev.to/xsip/how-to-use-nestjs-as-ssr-server-for-angular-v20-poc-5897)
+- [TanStack Table v8: Complete Interactive Data Grid Demo](https://dev.to/abhirup99/tanstack-table-v8-complete-interactive-data-grid-demo-1eo0)
+- [From Requirements to a Data Model in MSSQL](https://dev.to/samit_paudel_5d330ffcfb22/from-requirements-to-a-data-model-in-mssql-3927)
+- [From Requirements to a Data Model in MSSQL](https://dev.to/samit_paudel_5d330ffcfb22/from-requirements-to-a-data-model-in-mssql-3n5j)
+- [Building a Dashboard People Actually Want to Use](https://dev.to/k0msenapati/building-a-dashboard-people-actually-want-to-use-5al2)
 <!-- BLOG-POST-LIST:END -->
 
 
