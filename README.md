@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Launches of Launch Week 15](https://dev.to/supabase/top-10-launches-of-launch-week-15-225n)
-- [How Aptos&#39; Quorum Store Unlocks True Scalability](https://dev.to/danielkestrel/how-aptos-quorum-store-unlocks-true-scalability-28l9)
-- [Avoiding Lifetime Annotations with Structs](https://dev.to/sgchris/avoiding-lifetime-annotations-with-structs-16ni)
-- [Building CLI Tools with clap and structopt](https://dev.to/sgchris/building-cli-tools-with-clap-and-structopt-62j)
+- [Data Backup Android](https://dev.to/ahasanpapon/data-backup-android-4fgf)
+- [The digital future of industrial and operational work](https://dev.to/yagyaraj_sharma_6cd410179/the-digital-future-of-industrial-and-operational-work-45f3)
+- [Javascript Unplugged: History, Power, and the Quirky Magic That Runs the Web](https://dev.to/sansk/javascript-unplugged-history-power-and-the-quirky-magic-that-runs-the-web-2979)
+- [Integration Testing .NET Web API Using Testcontainers](https://dev.to/chewryl/integration-testing-aspnet-core-web-api-using-testcontainers-2429)
 <!-- BLOG-POST-LIST:END -->
 
 
