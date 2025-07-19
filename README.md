@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding - Conversational Software Development - Part 2 In Practice](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-2-in-practice-2f9o)
 - [[Boost]](https://dev.to/little_coding_things/-2jn0)
 - [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
 - [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
-- [Imposter Syndrome Is Lying to You—Don’t Let It Run Your Career](https://dev.to/dalton_abreshears/imposter-syndrome-is-lying-to-you-dont-let-it-run-your-career-1af4)
 <!-- BLOG-POST-LIST:END -->
 
 
