@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 JavaScript.info — The Modern JavaScript Tutorial](https://dev.to/ml318097/javascriptinfo-the-modern-javascript-tutorial-4lgp)
-- [How to provide storage for the IT department testing and training](https://dev.to/zube/how-to-provide-storage-for-the-it-department-testing-and-training-2517)
-- [Horizon World Tutorial – Player Management – Part 2 – Double Jump](https://dev.to/lnationorg/horizon-world-tutorial-player-management-part-2-double-jump-474k)
-- [Advanced PDF Optimization Techniques - 1752936](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752936-1j5m)
+- [How to Save an Hour of Figma Work Using Webcrumbs](https://dev.to/astrodevil/how-to-save-an-hour-of-figma-work-using-webcrumbs-25j0)
+- [Why I am Sharing Veko Ecosystem Publicly and for Free](https://dev.to/vekoo111/why-i-am-sharing-veko-ecosystem-publicly-and-for-free-5150)
+- [Introducing Veko Ecosystem: A Complete Solution for Privacy, Load Testing, and Secure Data Storage](https://dev.to/vekoo111/introducing-veko-ecosystem-a-complete-solution-for-privacy-load-testing-and-secure-data-storage-1alo)
+- [DevVoice: Real-Time Voice Coding Assistant](https://dev.to/extinctsion/devvoice-real-time-voice-coding-assistant-dj0)
 <!-- BLOG-POST-LIST:END -->
 
 
