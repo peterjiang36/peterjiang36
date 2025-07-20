@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding - Conversational Software Development - Part 2 In Practice](https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-2-in-practice-2f9o)
-- [[Boost]](https://dev.to/little_coding_things/-2jn0)
-- [My Dream Intranet Home Page Inspired by Axero](https://dev.to/tech-vexy/my-dream-intranet-home-page-inspired-by-axero-2p1e)
-- [&quot;End-to-End SonarQube Integration with GitLab CI/CD for DevSecOps Pipelines&quot;](https://dev.to/aniket_agarkar_27c0f3b330/end-to-end-sonarqube-integration-with-gitlab-cicd-for-devsecops-pipelines-28aa)
+- [Go&#39;s Last Words on Error Handling Syntax](https://dev.to/leapcell/gos-last-words-on-error-handling-syntax-1e14)
+- [Building Modular AWS Infrastructure with Terraform: Inside the tfbox Project](https://dev.to/aws-builders/building-modular-aws-infrastructure-with-terraform-inside-the-tfbox-project-4fc2)
+- [Building a Mini SIEM with ELK Stack, Filebeat &amp; Winlogbeat &lpar;Step-by-Step Guide&rpar;](https://dev.to/susheelthapa/building-a-mini-siem-with-elk-stack-filebeat-winlogbeat-step-by-step-guide-4j9a)
+- [🧠 What is Machine Learning? Your First Step into the World of AI](https://dev.to/randhir_kumar_6ccab967a14/what-is-machine-learning-your-first-step-into-the-world-of-ai-5175)
 <!-- BLOG-POST-LIST:END -->
 
 
