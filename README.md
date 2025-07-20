@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
-- [🚀 The Complete Guide to Prompt Engineering: From Zero-Shot to AI Agents](https://dev.to/warayus/the-complete-guide-to-prompt-engineering-from-zero-shot-to-ai-agents-35bk)
-- [The Power of HTML - Part 4: Multimedia Magic: Embedding Audio, Video, and Images](https://dev.to/karthikeyans21/the-power-of-html-part-4-multimedia-magic-embedding-audio-video-and-images-49f)
-- [Why Use a Status Page Aggregator?](https://dev.to/isdown/why-use-a-status-page-aggregator-5670)
+- [The Power of HTML - Part 22: The Future of HTML: WebAssembly, AI Integration, and Predictions](https://dev.to/karthikeyans21/the-power-of-html-part-22-the-future-of-html-webassembly-ai-integration-and-predictions-4ngi)
+- [The Power of HTML - Part 21: HTML for AI Web Apps: Rendering Models and Data Viz](https://dev.to/karthikeyans21/the-power-of-html-part-21-html-for-ai-web-apps-rendering-models-and-data-viz-1km3)
+- [Office Culture Through the Decades: A Pure CSS Time Machine 🕰️](https://dev.to/prateekk07/office-culture-through-the-decades-a-pure-css-time-machine-lnh)
+- [The Power of HTML - Part 20: AI-Generated HTML: Tools and Best Practices](https://dev.to/karthikeyans21/the-power-of-html-part-20-ai-generated-html-tools-and-best-practices-3onf)
 <!-- BLOG-POST-LIST:END -->
 
 
