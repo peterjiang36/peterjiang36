@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Visual Roadmap Builder with a Twist – AI + Drag &amp; Drop Planning!](https://dev.to/bugblitz98/i-built-a-visual-roadmap-builder-with-a-twist-ai-drag-drop-planning-1217)
 - [Ranking Microsoft Windows versions - 2025 Edition](https://dev.to/visnalize/ranking-microsoft-windows-versions-2025-edition-14g0)
 - [I Built an Open-Source Alternative to Expensive Software Licensing Platforms 🚀](https://dev.to/vetheon/i-built-an-open-source-alternative-to-expensive-software-licensing-platforms-4561)
 - [How to Create a Fully-Featured ChatBot with Observability Tools to Monitor and Optimize your AI Models](https://dev.to/ajeetraina/how-to-create-ai-chatbot-from-scratch-using-docker-3kcf)
-- [PayGenius HR : Payslip Generator](https://dev.to/capjud95/paygenius-hr-payslip-generator-3l3g)
 <!-- BLOG-POST-LIST:END -->
 
 
