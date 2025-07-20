@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-implemented IFTTT Pro&#39;s RSS feed notification feature with AWS serverless architecture](https://dev.to/masutaka/self-implemented-ifttt-pros-rss-feed-notification-feature-with-aws-serverless-architecture-2ope)
-- [تفاوت مدیر پروژه و مدیر محصول: نقش‌ها و وظایف](https://dev.to/parizad/tfwt-mdyr-prwjh-w-mdyr-mhswl-nqshh-w-wzyf-2g72)
-- [Elicitation in Modern AI Agents: How Smart Agents Ask the Right Questions](https://dev.to/sreeni5018/elicitation-in-modern-ai-agents-how-smart-agents-ask-the-right-questions-j4h)
-- [State Monad](https://dev.to/depa_reddy_5e0e3025aa6eed/state-monad-2ic4)
+- [The Power of HTML - Part 5: Accessibility Unleashed: Inclusive Design with HTML](https://dev.to/karthikeyans21/the-power-of-html-part-5-accessibility-unleashed-inclusive-design-with-html-4566)
+- [🚀 The Complete Guide to Prompt Engineering: From Zero-Shot to AI Agents](https://dev.to/warayus/the-complete-guide-to-prompt-engineering-from-zero-shot-to-ai-agents-35bk)
+- [The Power of HTML - Part 4: Multimedia Magic: Embedding Audio, Video, and Images](https://dev.to/karthikeyans21/the-power-of-html-part-4-multimedia-magic-embedding-audio-video-and-images-49f)
+- [Why Use a Status Page Aggregator?](https://dev.to/isdown/why-use-a-status-page-aggregator-5670)
 <!-- BLOG-POST-LIST:END -->
 
 
