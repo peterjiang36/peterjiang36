@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #29-2025: Smarter Testing, Simple Solutions, Playful Coding, Age in Tech, &amp; SaaS Choices](https://dev.to/weekly/weekly-29-2025-smarter-testing-simple-solutions-playful-coding-age-in-tech-saas-choices-2iih)
-- [React DevTools: Debug Like a Pro!🛠️👨‍💻](https://dev.to/aman_kureshi_/react-devtools-debug-like-a-pro-852)
-- [Solving the Error - &quot;fatal: refusing to merge unrelated histories&quot;](https://dev.to/omesha/solving-the-error-fatal-refusing-to-merge-unrelated-histories-491h)
-- [Integration of Technical Indicators into the DCA Bot: RSI, SMA, and etc.](https://dev.to/zmey56/integration-of-technical-indicators-into-the-dca-bot-rsi-sma-and-etc-1pbf)
+- [🧩 Docker Layer Caching](https://dev.to/dpvasani56/docker-layer-caching-2i84)
+- [The Microprocessor Revolution: Understanding the Fourth Generation of Computers and Its Lasting Impact](https://dev.to/adityabhuyan/the-microprocessor-revolution-understanding-the-fourth-generation-of-computers-and-its-lasting-5a6n)
+- [Building a Mini DBaaS with Kubernetes in One Week - Part 2: Environment Setup &amp; Basic API Server](https://dev.to/_a3742acef86a9239f63/building-a-mini-dbaas-with-kubernetes-in-one-week-part-2-environment-setup-basic-api-server-4djg)
+- [Swap Variable Values in One Line Using Destructuring — JavaScript Trick](https://dev.to/khaled17/swap-variable-values-in-one-line-using-destructuring-javascript-trick-11a3)
 <!-- BLOG-POST-LIST:END -->
 
 
