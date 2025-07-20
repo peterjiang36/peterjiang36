@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Mind: React useState Made Simple - Part 1](https://dev.to/srushti/state-of-mind-react-usestate-made-simple-part-1-4j73)
-- [Installation, Configuration &amp; Tuning of PostgreSQL 17 and pgAdmin4 in Ubuntu 24.04 LTS](https://dev.to/chittrmahto/installation-configuration-tuning-of-postgresql-17-and-pgadmin4-in-ubuntu-2404-lts-1ibj)
-- [SSKCalc](https://dev.to/atsada_samsee_a760ab89907/sskcalc-1jnk)
-- [[Boost]](https://dev.to/srushti/-86c)
+- [4.0-Inch TFT LCD for Smart Home Applications: A Perfect Fit for the 86 Box Standard](https://dev.to/jasonliu112/40-inch-tft-lcd-for-smart-home-applications-a-perfect-fit-for-the-86-box-standard-3oei)
+- [DevOps Journey – Week 6: Completed Shell Scripting with a Server Backup Automation Project&quot;](https://dev.to/azmatahmed/devops-journey-week-6-completed-shell-scripting-with-a-server-backup-automation-project-197j)
+- [Streamflow: From Vision to Velocity](https://dev.to/shastraa_430/built-streamflow-for-the-scaler-internship-challenge-from-vision-to-velocity-b1)
+- [Advanced PDF Optimization Techniques - 1752979](https://dev.to/revisepdf/advanced-pdf-optimization-techniques-1752979-4okd)
 <!-- BLOG-POST-LIST:END -->
 
 
