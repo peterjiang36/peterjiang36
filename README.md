@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The SQL Renaissance: More Than Just Tables](https://dev.to/farlamo/the-sql-renaissance-more-than-just-tables-2ckd)
-- [How Browsers Parse a URL](https://dev.to/kanta1207/how-browsers-parse-a-url-5764)
-- [Office Culture Through the Decades: A Pure CSS Time Machine 🕰️](https://dev.to/prateekk07/office-culture-through-the-decades-a-pure-css-time-machine-47e)
-- [Decoding No-Code: When to Let Go of the Code](https://dev.to/calderbughunter/decoding-no-code-when-to-let-go-of-the-code-5ap1)
+- [Exploring Amazon&#39;s Kiro AI: A New Era in AI-Driven Development](https://dev.to/rajeshkumaryadavdotcom/exploring-amazons-kira-a-new-era-in-ai-driven-development-16k8)
+- [⚡ Hogwarts Spell Caster: Real-Time Voice Magic with AssemblyAI Universal-Streaming](https://dev.to/axrisi/hogwarts-spell-caster-real-time-voice-magic-with-assemblyai-universal-streaming-e3e)
+- [Understanding Next.js 15: A Complete Guide for React Developers &lpar;PART 2&rpar;](https://dev.to/fonyuygita/understanding-nextjs-15-a-complete-guide-for-react-developers-part-2-cpd)
+- [Resuming Binary Search Tree](https://dev.to/codecara/resuming-binary-search-tree-57nh)
 <!-- BLOG-POST-LIST:END -->
 
 
