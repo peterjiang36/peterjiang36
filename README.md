@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [UTL_FILE – Practical Guide | mrcaption49](https://dev.to/mrcaption49/utlfile-practical-guide-mrcaption49-4492)
-- [Building Doclyft: An AI-Powered Documentation Generator for Devs](https://dev.to/obed_lorisson_98012922da7/building-doclyft-an-ai-powered-documentation-generator-for-devs-2e1m)
-- [How New AI Breakthroughs Could Change Business Automation](https://dev.to/accioprocurement/how-new-ai-breakthroughs-could-change-business-automation-2lai)
-- [ECS Native Blue/Green is Here! With Strong Hooks and Dark Canary](https://dev.to/t-kikuc/ecs-native-bluegreen-is-here-with-strong-hooks-and-dark-canary-8ff)
+- [Weekly #29-2025: Smarter Testing, Simple Solutions, Playful Coding, Age in Tech, &amp; SaaS Choices](https://dev.to/weekly/weekly-29-2025-smarter-testing-simple-solutions-playful-coding-age-in-tech-saas-choices-2iih)
+- [React DevTools: Debug Like a Pro!🛠️👨‍💻](https://dev.to/aman_kureshi_/react-devtools-debug-like-a-pro-852)
+- [Solving the Error - &quot;fatal: refusing to merge unrelated histories&quot;](https://dev.to/omesha/solving-the-error-fatal-refusing-to-merge-unrelated-histories-491h)
+- [Integration of Technical Indicators into the DCA Bot: RSI, SMA, and etc.](https://dev.to/zmey56/integration-of-technical-indicators-into-the-dca-bot-rsi-sma-and-etc-1pbf)
 <!-- BLOG-POST-LIST:END -->
 
 
