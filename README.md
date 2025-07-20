@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go&#39;s Last Words on Error Handling Syntax](https://dev.to/leapcell/gos-last-words-on-error-handling-syntax-1e14)
-- [Building Modular AWS Infrastructure with Terraform: Inside the tfbox Project](https://dev.to/aws-builders/building-modular-aws-infrastructure-with-terraform-inside-the-tfbox-project-4fc2)
-- [Building a Mini SIEM with ELK Stack, Filebeat &amp; Winlogbeat &lpar;Step-by-Step Guide&rpar;](https://dev.to/susheelthapa/building-a-mini-siem-with-elk-stack-filebeat-winlogbeat-step-by-step-guide-4j9a)
-- [🧠 What is Machine Learning? Your First Step into the World of AI](https://dev.to/randhir_kumar_6ccab967a14/what-is-machine-learning-your-first-step-into-the-world-of-ai-5175)
+- [How I Built a Secure Terraform Module to Deploy EKS on AWS &lpar;and Launched It as a Product&rpar;](https://dev.to/michael_karengera/how-i-built-a-secure-terraform-module-to-deploy-eks-on-aws-and-launched-it-as-a-product-1kbc)
+- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #2&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-2-55d0)
+- [Jekyll, Cloudflare Pages &amp; Workers: A Guide to Dynamic Image Compression &amp; Delivery &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/jekyll-cloudflare-pages-workers-a-guide-to-dynamic-image-compression-delivery-part-1-11ih)
+- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
 <!-- BLOG-POST-LIST:END -->
 
 
