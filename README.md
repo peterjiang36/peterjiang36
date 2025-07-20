@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Amazon&#39;s Kiro AI: A New Era in AI-Driven Development](https://dev.to/rajeshkumaryadavdotcom/exploring-amazons-kira-a-new-era-in-ai-driven-development-16k8)
-- [⚡ Hogwarts Spell Caster: Real-Time Voice Magic with AssemblyAI Universal-Streaming](https://dev.to/axrisi/hogwarts-spell-caster-real-time-voice-magic-with-assemblyai-universal-streaming-e3e)
-- [Understanding Next.js 15: A Complete Guide for React Developers &lpar;PART 2&rpar;](https://dev.to/fonyuygita/understanding-nextjs-15-a-complete-guide-for-react-developers-part-2-cpd)
-- [Resuming Binary Search Tree](https://dev.to/codecara/resuming-binary-search-tree-57nh)
+- [How Kinde Billing Actually Works](https://dev.to/sholajegede/how-kinde-billing-actually-works-8fc)
+- [Something I made to keep my extensions organized](https://dev.to/modcoretech/something-i-made-to-keep-my-extensions-organized-5fh9)
+- [Add Billing to Your SaaS in Under 10 Minutes &lpar;With Kinde&rpar;](https://dev.to/sholajegede/add-billing-to-your-saas-in-under-10-minutes-with-kinde-20md)
+- [Entering Web3: Build Your First dApp on Ethereum in 30 Minutes](https://dev.to/darkiepinkman/entering-web3-build-your-first-dapp-on-ethereum-in-30-minutes-1c2b)
 <!-- BLOG-POST-LIST:END -->
 
 
