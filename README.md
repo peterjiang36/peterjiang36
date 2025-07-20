@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Secure Terraform Module to Deploy EKS on AWS &lpar;and Launched It as a Product&rpar;](https://dev.to/michael_karengera/how-i-built-a-secure-terraform-module-to-deploy-eks-on-aws-and-launched-it-as-a-product-1kbc)
-- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #2&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-2-55d0)
-- [Jekyll, Cloudflare Pages &amp; Workers: A Guide to Dynamic Image Compression &amp; Delivery &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/jekyll-cloudflare-pages-workers-a-guide-to-dynamic-image-compression-delivery-part-1-11ih)
-- [Fixing OutOfMemoryError in Spring Boot: Implementing Pagination &lpar;With Angular Example&rpar;](https://dev.to/shahidfoy/fixing-outofmemoryerror-in-spring-boot-implementing-pagination-with-angular-example-lp)
+- [State of Mind: React useState Made Simple - Part 1](https://dev.to/srushti/state-of-mind-react-usestate-made-simple-part-1-4j73)
+- [Installation, Configuration &amp; Tuning of PostgreSQL 17 and pgAdmin4 in Ubuntu 24.04 LTS](https://dev.to/chittrmahto/installation-configuration-tuning-of-postgresql-17-and-pgadmin4-in-ubuntu-2404-lts-1ibj)
+- [SSKCalc](https://dev.to/atsada_samsee_a760ab89907/sskcalc-1jnk)
+- [[Boost]](https://dev.to/srushti/-86c)
 <!-- BLOG-POST-LIST:END -->
 
 
