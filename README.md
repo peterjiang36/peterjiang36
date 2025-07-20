@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K2 is the BEST coding agent, Next.js 16 sneak peek, Nuxt 4.0 is here, and more](https://dev.to/thisweekinjavascript/kimi-k2-is-the-best-coding-agent-nextjs-16-sneak-peek-nuxt-40-is-here-and-more-22fm)
-- [How to Use minio-go for S3-Compatible Storage in Go](https://dev.to/lovestaco/how-to-use-minio-go-for-s3-compatible-storage-in-go-5eai)
-- [Navigating the React Jungle: A Deep Dive into Routing Types with Examples](https://dev.to/shrsv/navigating-the-react-jungle-a-deep-dive-into-routing-types-with-examples-1l01)
-- [From 0 to $1.5k MRR: lessons from our first year building BlackTwist](https://dev.to/ikoichi/from-0-to-15k-mrr-lessons-from-our-first-year-building-blacktwist-11id)
+- [TechElevate Office – A Modern Intranet Dashboard for Hybrid Teams](https://dev.to/aishika3/techelevate-office-a-modern-intranet-dashboard-for-hybrid-teams-4j24)
+- [AWS Well-Architected Framework: Ultimate Cheat Sheet for Solutions Architect Associate 2025](https://dev.to/nageshrajcodes/aws-well-architected-framework-ultimate-cheat-sheet-for-solutions-architect-associate-2025-lhm)
+- [Split Changes into Multiple Commits](https://dev.to/bphogan/split-changes-into-multiple-commits-4pmi)
+- [Jump to Git Repository Root](https://dev.to/bphogan/jump-to-git-repository-root-1dk4)
 <!-- BLOG-POST-LIST:END -->
 
 
