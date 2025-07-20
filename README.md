@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 4 of Hustle2Grand: Burnout, Freelancing, and a Mental Reset](https://dev.to/vulcanwm/week-4-of-hustle2grand-burnout-freelancing-and-a-mental-reset-a3o)
-- [Recreating the Windows Settings Page UI with Search – Pure HTML, CSS, and JavaScript](https://dev.to/melody_kelly_n/recreating-the-windows-settings-page-ui-with-search-pure-html-css-and-javascript-4m19)
-- [Why are there software bugs?](https://dev.to/devto-articles/why-are-there-software-bugs-43ci)
-- [You are the pilot: How to stand out in the vibe coding era](https://dev.to/neilton_rocha_dev/you-are-the-pilot-how-to-stand-out-in-the-vibe-coding-era-2n41)
+- [CURD Operation in java using JDBC](https://dev.to/neelakandan_ravi/curd-operation-in-java-using-jdbc-3ll5)
+- [🚀 My Dev Journey Begins + Swapping Genders in SQL &lpar;LeetCode Problem&rpar;](https://dev.to/nithya_dharshini_a5a4075f/my-dev-journey-begins-swapping-genders-in-sql-leetcode-problem-3l5h)
+- [🚀 FlexLogger v1.1 Released – Smarter Android Logging](https://dev.to/goodluck3301/flexlogger-v11-released-smarter-android-logging-5887)
+- [[Boost]](https://dev.to/sayed_ali_alkamel/-4ch6)
 <!-- BLOG-POST-LIST:END -->
 
 
