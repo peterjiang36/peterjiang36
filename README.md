@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Light/Dark Theme - My Struggles and Tips](https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon)
-- [How to Build a Real-time AI Multiplayer Quiz App with Flutter &amp; Firebase](https://dev.to/awsmasim/how-to-build-a-real-time-ai-multiplayer-quiz-app-with-flutter-firebase-2m39)
-- [Setting up a React Typescript Solution with Vite: A Practical Guide](https://dev.to/anuj_u/setting-up-react-typescript-solution-with-vite-1ndd)
-- [Final Hackops Writeup](https://dev.to/reva_revathatikonda_004b3/final-hackops-writeup-3n93)
+- [From UI Images to React Components in a Snap](https://dev.to/atforeveryoung/from-ui-images-to-react-components-in-a-snap-2hh0)
+- [Building and Deploying a MEAN Stack Application on Azure](https://dev.to/ezekiel_umesi_5bd2fa6069c/building-and-deploying-a-mean-stack-application-on-azure-31c6)
+- [Choosing The Right Deployment Strategy for Smart Contracts on Near](https://dev.to/denbite/choosing-right-deployment-strategy-for-smart-contracts-on-near-48ah)
+- [Why IHttpClientFactory Will Save Your .NET App &lpar;and Your TCP Ports!&rpar;](https://dev.to/ibrahimsow/why-ihttpclientfactory-will-save-your-net-app-and-your-tcp-ports-50p7)
 <!-- BLOG-POST-LIST:END -->
 
 
