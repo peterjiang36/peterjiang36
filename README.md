@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Docker Layer Caching](https://dev.to/dpvasani56/docker-layer-caching-2i84)
-- [The Microprocessor Revolution: Understanding the Fourth Generation of Computers and Its Lasting Impact](https://dev.to/adityabhuyan/the-microprocessor-revolution-understanding-the-fourth-generation-of-computers-and-its-lasting-5a6n)
-- [Building a Mini DBaaS with Kubernetes in One Week - Part 2: Environment Setup &amp; Basic API Server](https://dev.to/_a3742acef86a9239f63/building-a-mini-dbaas-with-kubernetes-in-one-week-part-2-environment-setup-basic-api-server-4djg)
-- [Swap Variable Values in One Line Using Destructuring — JavaScript Trick](https://dev.to/khaled17/swap-variable-values-in-one-line-using-destructuring-javascript-trick-11a3)
+- [🚀 Looking for Feedback: Building a Self-Hosted n8n + LLM Setup with MCP &lpar;without Claude&rpar;](https://dev.to/neo457_eab636c701319c68ca/looking-for-feedback-building-a-self-hosted-n8n-llm-setup-with-mcp-without-claude-517h)
+- [[Boost]](https://dev.to/srushti/-1285)
+- [35 Free Platforms to Boost Your Startup’s SEO &amp; Visibility](https://dev.to/gokayburuc/35-free-platforms-to-boost-your-startups-seo-visibility-2275)
+- [Mastering Algorithm Analysis: Leveraging Lower Bounds in Java Searching Algorithms](https://dev.to/adityabhuyan/mastering-algorithm-analysis-leveraging-lower-bounds-in-java-searching-algorithms-1kpn)
 <!-- BLOG-POST-LIST:END -->
 
 
