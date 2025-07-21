@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids](https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je)
-- [How to Distribute a Statically Linked Crystal Binary on macOS with GitHub Actions](https://dev.to/kojix2/how-to-distribute-a-statically-linked-crystal-binary-on-macos-with-github-actions-1gc6)
-- [The Future of Brand Design: Merging Creativity with AI Tools](https://dev.to/awaishashmi/the-future-of-brand-design-merging-creativity-with-ai-tools-2p1a)
-- [Advanced Angular Testing: 10+ Real-World Mocking Scenarios That Actually Work](https://dev.to/codewithrajat/advanced-angular-testing-10-real-world-mocking-scenarios-that-actually-work-1no4)
+- [🚀 Build AI Agents from a Prompt — Meet Nexent, the Open-Source Agent Platform](https://dev.to/nexent/build-ai-agents-from-a-prompt-meet-nexent-the-open-source-agent-platform-4029)
+- [The Most Underrated Way AI Helps Developers &lpar;That Almost Nobody&#39;s Talking About&rpar;](https://dev.to/pantoai/the-most-underrated-way-ai-helps-developers-that-almost-nobodys-talking-about-5c59)
+- [CVE-2025-53770: Microsoft SharePoint Deserialization of Untrusted Data Vulnerability](https://dev.to/freedom_coder/cve-2025-53770-microsoft-sharepoint-deserialization-of-untrusted-data-vulnerability-9gc)
+- [Agent vs Workflow: What Do Customers Actually Pay For?](https://dev.to/maybe_ai/agent-vs-workflow-what-do-customers-actually-pay-for-4835)
 <!-- BLOG-POST-LIST:END -->
 
 
