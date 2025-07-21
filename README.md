@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiro is amazing](https://dev.to/sake/kiro-is-amazing-2ia0)
-- [AI Code Generation, Smarter and More Cost-Efficient with Context Engineering](https://dev.to/unfor19/ai-code-generation-smarter-and-more-cost-efficient-with-context-engineering-1bjh)
-- [I Finally Understand .gitkeep](https://dev.to/ibrahimalanshor/i-finally-understand-gitkeep-48ln)
-- [Common JS library import in ES Module](https://dev.to/pulimoodan/common-js-library-import-in-es-module-57i7)
+- [Best Downdetector Alternatives for Outage Monitoring in 2025](https://dev.to/isdown/best-downdetector-alternatives-for-outage-monitoring-in-2025-4ck5)
+- [🚀 Build a HackerNews Clone Using Svelte and Supabase](https://dev.to/hmzas/build-a-hackernews-clone-using-svelte-and-supabase-2cm9)
+- [AI 101 for Frontend Devs: LLMs, Transformers, RAG Explained Simply](https://dev.to/shrutikapoor08/ai-101-for-frontend-devs-llms-transformers-rag-explained-simply-1n8k)
+- [Performant Vue applications with Vapor](https://dev.to/jacobandrewsky/performant-vue-applications-with-vapor-56f0)
 <!-- BLOG-POST-LIST:END -->
 
 
