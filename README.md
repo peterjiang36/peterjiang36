@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [14 Essential React Concepts Every Developer Must Know](https://dev.to/devshefali/14-essential-react-concepts-every-developer-must-know-5dog)
-- [Run Code in Your Power Automate Flow](https://dev.to/wyattdave/run-code-in-your-power-automate-flow-2mk2)
-- [🌐 Manage a Multicluster Kubernetes Architecture with OpenShift Platform Plus](https://dev.to/sindhuja_ns_1e491ce1088d/manage-a-multicluster-kubernetes-architecture-with-openshift-platform-plus-44jh)
-- [What is the Difference Between JDK, JRE, and JVM in Java?](https://dev.to/priya_yadav_f24ec65b0518b/what-is-the-difference-between-jdk-jre-and-jvm-in-java-1197)
+- [Large Language Models in 2025: The Ultimate Comparison Guide](https://dev.to/onirestart/large-language-models-in-2025-the-ultimate-comparison-guide-4fpm)
+- [Day-61 Java – Constructor Overloading and Key Concepts](https://dev.to/tamilselvan1812/day-61-java-constructor-overloading-and-key-concepts-57i2)
+- [Best Open Source Gradient Website 🌀](https://dev.to/baraa/best-open-source-gradient-website-22oc)
+- [One Year Since the Cyberattack: What WazirX Got Right — A Milestone in Crypto Recovery](https://dev.to/kianashekhar/one-year-since-the-cyberattack-what-wazirx-got-right-a-milestone-in-crypto-recovery-587c)
 <!-- BLOG-POST-LIST:END -->
 
 
