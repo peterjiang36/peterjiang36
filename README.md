@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Resilience Backfires: Retry and Circuit Breaker in Spring Boot](https://dev.to/akdevcraft/when-resilience-backfires-retry-and-circuit-breaker-in-spring-boot-10m)
-- [Veja o histórico do Terminal de forma interativa](https://dev.to/marcosplusplus/veja-o-historico-do-terminal-de-forma-interativa-4pl9)
-- [The new best way to master LeetCode fast is with this free &amp; open source application](https://dev.to/hussiii/the-new-best-way-to-master-leetcode-fast-is-with-this-free-open-source-application-12eo)
-- [Developing your first AI Agent for a Task Organizer with Still.js and Groq Infrastructure](https://dev.to/nakassony_bernardo_1d8896/developing-your-first-ai-agent-for-a-task-organizer-with-stilljs-and-groq-infrastructure-3ag2)
+- [Serverless Scaling: Deploying Strands + MCP on AWS](https://dev.to/om_shree_0709/serverless-scaling-deploying-strands-mcp-on-aws-2o54)
+- [How to Interactively Retrieve Terminal History](https://dev.to/marcosplusplus/how-to-interactively-retrieve-terminal-history-3f6n)
+- [From Darkness to Light: How a Final Chance Reignited My Dream](https://dev.to/__8ffb969b14cef9/from-darkness-to-light-how-a-final-chance-reignited-my-dream-5e67)
+- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-5gk)
 <!-- BLOG-POST-LIST:END -->
 
 
