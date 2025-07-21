@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Trainee to Software Engineer: A 5 Year Journey Through Code, Growth, and AI](https://dev.to/jsandaruwan/from-trainee-to-software-engineer-a-5-year-journey-through-code-growth-and-ai-53f4)
-- [Firebase Project Setup: Your Complete Getting Started Guide 🔥](https://dev.to/this-is-learning/firebase-project-setup-your-complete-getting-started-guide-3k23)
-- [Ingress and ingress controller](https://dev.to/srinivas_ettedi_a91e6d53a/ingress-and-ingress-controller-25ni)
-- [What Are the Career Paths After Learning SAP FICO?](https://dev.to/blog012/what-are-the-career-paths-after-learning-sap-fico-9d8)
+- [The 10 Most Common DevOps Mistakes &lpar;And How to Avoid Them in 2025&rpar;](https://dev.to/devopsdaily/the-10-most-common-devops-mistakes-and-how-to-avoid-them-in-2025-52gi)
+- [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
+- [Building Custom Artisan Commands with Advanced Features](https://dev.to/addwebsolutionpvtltd/building-custom-artisan-commands-with-advanced-features-15cp)
+- [The Impact of Warranty Management Software on Supply Chain Operations](https://dev.to/digiwarr/the-impact-of-warranty-management-software-on-supply-chain-operations-2h6c)
 <!-- BLOG-POST-LIST:END -->
 
 
