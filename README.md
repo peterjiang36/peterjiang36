@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;: Teaching K8s New Tricks ✨](https://dev.to/hritikraj8804/kubernetes-custom-resource-definitions-crds-teaching-k8s-new-tricks-1gj6)
-- [The Complete Guide to Virtual Onboarding for Remote Employees](https://dev.to/teamcamp/the-complete-guide-to-virtual-onboarding-for-remote-employees-3k9p)
-- [How to Install and Use Virtualenv on Linux](https://dev.to/yogsec/how-to-install-and-use-virtualenv-on-linux-34g0)
-- [Is Terraform for Kubernetes Applications Flawed? For Kubernetes, GitOps is The Way](https://dev.to/sarony11/is-terraform-for-kubernetes-applications-flawed-the-case-for-a-gitops-native-future-49ce)
+- [Working on the sidebar that connects subforems — close to making this more of a first-class feature.](https://dev.to/ben/working-on-the-sidebar-that-connects-subforems-close-to-making-this-more-of-a-first-class-feature-42jn)
+- [Kiro vs Cursor: How Amazon’s AI IDE Is Redefining Developer Productivity](https://dev.to/aws-builders/kiro-vs-cursor-how-amazons-ai-ide-is-redefining-developer-productivity-3eg8)
+- [Golf.com: Scheffler Dominates Royal Portrush | Inside Scottie&#39;s Triumph at The Open](https://dev.to/youtube_golf/golfcom-scheffler-dominates-royal-portrush-inside-scotties-triumph-at-the-open-4gf7)
+- [How to Send Email Alerts for Failures in Spring Boot Using Prometheus and Alertmanager](https://dev.to/mspilari/how-to-send-email-alerts-for-circuit-breaker-failures-in-spring-boot-using-prometheus-and-dp2)
 <!-- BLOG-POST-LIST:END -->
 
 
