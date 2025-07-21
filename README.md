@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Downdetector Alternatives for Outage Monitoring in 2025](https://dev.to/isdown/best-downdetector-alternatives-for-outage-monitoring-in-2025-4ck5)
-- [🚀 Build a HackerNews Clone Using Svelte and Supabase](https://dev.to/hmzas/build-a-hackernews-clone-using-svelte-and-supabase-2cm9)
-- [AI 101 for Frontend Devs: LLMs, Transformers, RAG Explained Simply](https://dev.to/shrutikapoor08/ai-101-for-frontend-devs-llms-transformers-rag-explained-simply-1n8k)
-- [Performant Vue applications with Vapor](https://dev.to/jacobandrewsky/performant-vue-applications-with-vapor-56f0)
+- [From Trainee to Software Engineer: A 5 Year Journey Through Code, Growth, and AI](https://dev.to/jsandaruwan/from-trainee-to-software-engineer-a-5-year-journey-through-code-growth-and-ai-53f4)
+- [Firebase Project Setup: Your Complete Getting Started Guide 🔥](https://dev.to/this-is-learning/firebase-project-setup-your-complete-getting-started-guide-3k23)
+- [Ingress and ingress controller](https://dev.to/srinivas_ettedi_a91e6d53a/ingress-and-ingress-controller-25ni)
+- [What Are the Career Paths After Learning SAP FICO?](https://dev.to/blog012/what-are-the-career-paths-after-learning-sap-fico-9d8)
 <!-- BLOG-POST-LIST:END -->
 
 
