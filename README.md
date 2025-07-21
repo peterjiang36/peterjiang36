@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading and Writing RFID Cards with Raspberry Pi](https://dev.to/admantium/reading-and-writing-rfid-cards-with-raspberry-pi-9di)
-- [How I Built an AI-Powered Face Recognition App from Scratch](https://dev.to/wasihf/how-i-built-an-ai-powered-face-recognition-app-from-scratch-1k18)
-- [The Hacker Had a Playbook - So I Built My Own](https://dev.to/nullc0d3/the-hacker-had-a-playbook-so-i-built-my-own-1ong)
-- [How to Demotivate Your Development Team And Make Them Leave &lpar;Guaranteed Results&rpar;](https://dev.to/canro91/how-to-demotivate-your-development-team-and-make-them-leave-guaranteed-results-6ha)
+- [14 Essential React Concepts Every Developer Must Know](https://dev.to/devshefali/14-essential-react-concepts-every-developer-must-know-5dog)
+- [Run Code in Your Power Automate Flow](https://dev.to/wyattdave/run-code-in-your-power-automate-flow-2mk2)
+- [🌐 Manage a Multicluster Kubernetes Architecture with OpenShift Platform Plus](https://dev.to/sindhuja_ns_1e491ce1088d/manage-a-multicluster-kubernetes-architecture-with-openshift-platform-plus-44jh)
+- [What is the Difference Between JDK, JRE, and JVM in Java?](https://dev.to/priya_yadav_f24ec65b0518b/what-is-the-difference-between-jdk-jre-and-jvm-in-java-1197)
 <!-- BLOG-POST-LIST:END -->
 
 
