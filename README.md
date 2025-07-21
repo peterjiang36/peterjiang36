@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 Most Common DevOps Mistakes &lpar;And How to Avoid Them in 2025&rpar;](https://dev.to/devopsdaily/the-10-most-common-devops-mistakes-and-how-to-avoid-them-in-2025-52gi)
-- [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
-- [Building Custom Artisan Commands with Advanced Features](https://dev.to/addwebsolutionpvtltd/building-custom-artisan-commands-with-advanced-features-15cp)
-- [The Impact of Warranty Management Software on Supply Chain Operations](https://dev.to/digiwarr/the-impact-of-warranty-management-software-on-supply-chain-operations-2h6c)
+- [🎨 Kubernetes Custom Resource Definitions &lpar;CRDs&rpar;: Teaching K8s New Tricks ✨](https://dev.to/hritikraj8804/kubernetes-custom-resource-definitions-crds-teaching-k8s-new-tricks-1gj6)
+- [The Complete Guide to Virtual Onboarding for Remote Employees](https://dev.to/teamcamp/the-complete-guide-to-virtual-onboarding-for-remote-employees-3k9p)
+- [How to Install and Use Virtualenv on Linux](https://dev.to/yogsec/how-to-install-and-use-virtualenv-on-linux-34g0)
+- [Is Terraform for Kubernetes Applications Flawed? For Kubernetes, GitOps is The Way](https://dev.to/sarony11/is-terraform-for-kubernetes-applications-flawed-the-case-for-a-gitops-native-future-49ce)
 <!-- BLOG-POST-LIST:END -->
 
 
