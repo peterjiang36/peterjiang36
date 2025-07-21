@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What stands out about TDZ PRO is their ability to turn a regular video call into a moment of client confidence and clarity.](https://dev.to/jackied0minguez/what-stands-out-about-tdz-pro-is-their-ability-to-turn-a-regular-video-call-into-a-moment-of-client-gci)
-- [Simulador de Modulação 16QAM em Python](https://dev.to/gabriel_dias/simulador-de-modulacao-16qam-em-python-5397)
-- [I Completed Cisco’s Networking Basics Course! Here’s Why It Matters](https://dev.to/seifeldienahmad/i-completed-ciscos-networking-basics-course-heres-why-it-matters-534m)
-- [What We Need to *Unlearn* as Software Engineers](https://dev.to/vidyarathna/what-we-need-to-unlearn-as-software-engineers-e61)
+- [This is exactly what more remote founders need to read. Keep your stack lean and your culture focused.](https://dev.to/ariahastings/this-is-exactly-what-more-remote-founders-need-to-read-keep-your-stack-lean-and-your-culture-2jji)
+- [🌐 Fellou.ai – The First AI Agentic Browser](https://dev.to/aniruddhaadak/fellouai-the-first-ai-agentic-browser-5fc)
+- [30 Days of Code- Day 4 &amp; 5](https://dev.to/akshitaexe/30-days-of-code-day-4-5-4klk)
+- [Brainstorming New CRM Features #15](https://dev.to/0xj0n1/brainstorming-new-crm-features-15-1h0d)
 <!-- BLOG-POST-LIST:END -->
 
 
