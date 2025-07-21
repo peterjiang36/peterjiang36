@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [“How I Fixed ‘No NIC Except Loopback’ on CentOS Stream Minimal in VMware”](https://dev.to/khurammurad/how-i-fixed-no-nic-except-loopback-on-centos-stream-minimal-in-vmware-1cg5)
-- [A Tale of Two Threads &lpar;APIs&rpar;](https://dev.to/pauljlucas/a-tale-of-two-threads-apis-2m32)
-- [The Unsent Project Reimagined: Build Thoughtful Messages with PaperGen AI](https://dev.to/brynlee_kate/the-unsent-project-reimagined-build-thoughtful-messages-with-papergen-ai-35ck)
-- [How docker build Really Works?](https://dev.to/abdelino17/how-docker-build-really-works-21id)
+- [What stands out about TDZ PRO is their ability to turn a regular video call into a moment of client confidence and clarity.](https://dev.to/jackied0minguez/what-stands-out-about-tdz-pro-is-their-ability-to-turn-a-regular-video-call-into-a-moment-of-client-gci)
+- [Simulador de Modulação 16QAM em Python](https://dev.to/gabriel_dias/simulador-de-modulacao-16qam-em-python-5397)
+- [I Completed Cisco’s Networking Basics Course! Here’s Why It Matters](https://dev.to/seifeldienahmad/i-completed-ciscos-networking-basics-course-heres-why-it-matters-534m)
+- [What We Need to *Unlearn* as Software Engineers](https://dev.to/vidyarathna/what-we-need-to-unlearn-as-software-engineers-e61)
 <!-- BLOG-POST-LIST:END -->
 
 
