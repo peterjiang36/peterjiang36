@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kinde Billing Actually Works](https://dev.to/sholajegede/how-kinde-billing-actually-works-8fc)
-- [Something I made to keep my extensions organized](https://dev.to/modcoretech/something-i-made-to-keep-my-extensions-organized-5fh9)
-- [Add Billing to Your SaaS in Under 10 Minutes &lpar;With Kinde&rpar;](https://dev.to/sholajegede/add-billing-to-your-saas-in-under-10-minutes-with-kinde-20md)
-- [Entering Web3: Build Your First dApp on Ethereum in 30 Minutes](https://dev.to/darkiepinkman/entering-web3-build-your-first-dapp-on-ethereum-in-30-minutes-1c2b)
+- [When Resilience Backfires: Retry and Circuit Breaker in Spring Boot](https://dev.to/akdevcraft/when-resilience-backfires-retry-and-circuit-breaker-in-spring-boot-10m)
+- [Veja o histórico do Terminal de forma interativa](https://dev.to/marcosplusplus/veja-o-historico-do-terminal-de-forma-interativa-4pl9)
+- [The new best way to master LeetCode fast is with this free &amp; open source application](https://dev.to/hussiii/the-new-best-way-to-master-leetcode-fast-is-with-this-free-open-source-application-12eo)
+- [Developing your first AI Agent for a Task Organizer with Still.js and Groq Infrastructure](https://dev.to/nakassony_bernardo_1d8896/developing-your-first-ai-agent-for-a-task-organizer-with-stilljs-and-groq-infrastructure-3ag2)
 <!-- BLOG-POST-LIST:END -->
 
 
