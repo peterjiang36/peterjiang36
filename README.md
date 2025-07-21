@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build AI Agents from a Prompt — Meet Nexent, the Open-Source Agent Platform](https://dev.to/nexent/build-ai-agents-from-a-prompt-meet-nexent-the-open-source-agent-platform-4029)
-- [The Most Underrated Way AI Helps Developers &lpar;That Almost Nobody&#39;s Talking About&rpar;](https://dev.to/pantoai/the-most-underrated-way-ai-helps-developers-that-almost-nobodys-talking-about-5c59)
-- [CVE-2025-53770: Microsoft SharePoint Deserialization of Untrusted Data Vulnerability](https://dev.to/freedom_coder/cve-2025-53770-microsoft-sharepoint-deserialization-of-untrusted-data-vulnerability-9gc)
-- [Agent vs Workflow: What Do Customers Actually Pay For?](https://dev.to/maybe_ai/agent-vs-workflow-what-do-customers-actually-pay-for-4835)
+- [Reading and Writing RFID Cards with Raspberry Pi](https://dev.to/admantium/reading-and-writing-rfid-cards-with-raspberry-pi-9di)
+- [How I Built an AI-Powered Face Recognition App from Scratch](https://dev.to/wasihf/how-i-built-an-ai-powered-face-recognition-app-from-scratch-1k18)
+- [The Hacker Had a Playbook - So I Built My Own](https://dev.to/nullc0d3/the-hacker-had-a-playbook-so-i-built-my-own-1ong)
+- [How to Demotivate Your Development Team And Make Them Leave &lpar;Guaranteed Results&rpar;](https://dev.to/canro91/how-to-demotivate-your-development-team-and-make-them-leave-guaranteed-results-6ha)
 <!-- BLOG-POST-LIST:END -->
 
 
