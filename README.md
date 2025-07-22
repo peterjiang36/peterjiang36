@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Grub in ubuntu](https://dev.to/surajvatsya/grub-in-ubuntu-5b8k)
-- [The Last Developer Standing: Image Optimization in the Post-Apocalyptic Internet](https://dev.to/hardik_b2d8f0bca/the-last-developer-standing-image-optimization-in-the-post-apocalyptic-internet-4ejp)
-- [🛠️ After the Hack: What’s Next for Promptle &lpar;and Me&rpar;](https://dev.to/nithya_subramaniam_223c76/after-the-hack-whats-next-for-promptle-and-me-225e)
-- [Instance Instance ID VS Instance ARN](https://dev.to/surajvatsya/instance-instance-id-vs-instance-arn-394)
+- [Digital Detective: How Image Optimization Became My Forensic Superpower](https://dev.to/hardik_b2d8f0bca/digital-detective-how-image-optimization-became-my-forensic-superpower-342n)
+- [Persisting Pinia State](https://dev.to/ibrahimalanshor/persisting-pinia-state-5bd4)
+- [How to Persist Pinia State](https://dev.to/ibrahimalanshor/how-to-persist-pinia-state-9e8)
+- [Automatic PR creation on GitHub for database schema change](https://dev.to/bobur/automatic-pr-creation-on-github-for-database-schema-change-2cpn)
 <!-- BLOG-POST-LIST:END -->
 
 
