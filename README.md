@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [97% drop in traffic. No code changes. Just added a package.](https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba)
-- [The AI tool no one talks about is secretly winning](https://dev.to/sanket_gawas_3d0381846af2/the-ai-tool-no-one-talks-about-is-secretly-winning-3n16)
-- [Build a Production-Ready Crypto Alert System in 20 Minutes](https://dev.to/dbatson/build-a-production-ready-crypto-alert-system-in-20-minutes-3ja1)
-- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4mog)
+- [📢 New Docs: How We Revamped HMPL Documentation with Astro Starlight 🌌](https://dev.to/hmpljs/new-docs-how-we-revamped-hmpl-documentation-with-astro-starlight-19ce)
+- [Ferramentas e rotina nos meus estudos com IA](https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj)
+- [Getting Started with YINI: A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/getting-started-with-yini-a-modern-human-friendly-config-format-4n6p)
+- [Robots-AI: Free Multi-Agent AI Platform](https://dev.to/wissam_metawee_c320c2e1d8/robots-ai-free-multi-agent-ai-platform-1od6)
 <!-- BLOG-POST-LIST:END -->
 
 
