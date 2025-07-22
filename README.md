@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A simple responsive navbar component with Juris](https://dev.to/artyprog/a-simple-responsive-navbar-component-with-juris-cn8)
-- [How to Build a Headless Shopify Store with React.js &amp; Next.js](https://dev.to/ryan_caldwell/how-to-build-a-headless-shopify-store-with-reactjs-nextjs-2lc7)
-- [How to use php with base path with nginx.](https://dev.to/nl_p_/how-to-use-php-with-base-path-with-nginx-1o7d)
-- [What Architectural Style Should You Use? — a Guide to Tactical DDD Decision Tree](https://dev.to/karvozavr/what-architectural-style-should-you-use-a-guide-to-tactical-ddd-decision-tree-1gf7)
+- [USPTO to Launch AI Image-Based Prior-Art Search Tool for Design Patents in October 2025](https://dev.to/ytosko/uspto-to-launch-ai-image-based-prior-art-search-tool-for-design-patents-in-october-2025-26o6)
+- [Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors](https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8)
+- [Access Control](https://dev.to/cyberwizd/access-control-16nb)
+- [How to add loading spinner to Angular material button](https://dev.to/dhutaryan/how-to-add-loading-spinner-to-angular-material-button-1eok)
 <!-- BLOG-POST-LIST:END -->
 
 
