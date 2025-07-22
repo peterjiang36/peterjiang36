@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sheets API has access to Google Drive and People chips](https://dev.to/googleworkspace/sheets-api-has-access-to-google-drive-and-people-chips-5d5b)
-- [Coloring Book Generators](https://dev.to/freepalestine/coloring-book-generators-2aoj)
-- [Coloring Book Generator](https://dev.to/freepalestine/coloring-book-generator-7kf)
-- [Passive Income in Crypto: A Business Strategy for Liquidity Management](https://dev.to/philip_crypto92/passive-income-in-crypto-a-business-strategy-for-liquidity-management-48jc)
+- [A simple responsive navbar component with Juris](https://dev.to/artyprog/a-simple-responsive-navbar-component-with-juris-cn8)
+- [How to Build a Headless Shopify Store with React.js &amp; Next.js](https://dev.to/ryan_caldwell/how-to-build-a-headless-shopify-store-with-reactjs-nextjs-2lc7)
+- [How to use php with base path with nginx.](https://dev.to/nl_p_/how-to-use-php-with-base-path-with-nginx-1o7d)
+- [What Architectural Style Should You Use? — a Guide to Tactical DDD Decision Tree](https://dev.to/karvozavr/what-architectural-style-should-you-use-a-guide-to-tactical-ddd-decision-tree-1gf7)
 <!-- BLOG-POST-LIST:END -->
 
 
