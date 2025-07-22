@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guides To Python Web App on AWS Lightsail](https://dev.to/haroffcode/guides-to-python-web-app-on-aws-lightsail-i9a)
-- [Is your Vector Database Really Fast?](https://dev.to/redis/is-your-vector-database-really-fast-i62)
-- [Python is DEAD](https://dev.to/thetechpreneur/python-is-dead-58b0)
-- [Tailwind in Reality: Bringing CSS Classes to Life with AI Videos!](https://dev.to/alimobasheri/tailwind-in-reality-bringing-css-classes-to-life-with-ai-videos-40li)
+- [WORLD HACKATHON EXPERIENCE SERIES 1](https://dev.to/theneverdone/world-hackathon-experience-series-1-237)
+- [No Laying Up Podcast: Chop Session with DJ Pie | Trap Draw, Ep 351](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-pie-trap-draw-ep-351-2gd9)
+- [Golf.com: Overnight at Bethpage Black: Behind the scenes at golf&#39;s most sought-after muni](https://dev.to/youtube_golf/golfcom-overnight-at-bethpage-black-behind-the-scenes-at-golfs-most-sought-after-muni-2oca)
+- [Grant Horvat: Can I Break 50 with Collin Morikawa?](https://dev.to/youtube_golf/grant-horvat-can-i-break-50-with-collin-morikawa-4085)
 <!-- BLOG-POST-LIST:END -->
 
 
