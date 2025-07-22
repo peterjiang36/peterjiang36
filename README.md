@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yijay_2f9a8b167feb8f/-25i5)
-- [Harry&#39;s Cell Phone Flashlight](https://dev.to/alansdead/harrys-cell-phone-flashlight-3lkj)
-- [Chapter 8 : Measuring Product Success and Learning from Outcomes](https://dev.to/taskframe/chapter-8-measuring-product-success-and-learning-from-outcomes-1p02)
-- [PixLab Vision Workspace - Best Productivity App](https://dev.to/unqlite_db/pixlab-vision-workspace-best-productivity-app-47el)
+- [5 Python Scripts to Instantly Automate Boring Tasks &lpar;Free Toolkit&rpar;](https://dev.to/autohackers9/5-python-scripts-to-instantly-automate-boring-tasks-free-toolkit-5pf)
+- [Understanding AWS Agents: Strands, Bedrock Agents, and AgentCore with MCP](https://dev.to/om_shree_0709/understanding-aws-agents-strands-bedrock-agents-and-agentcore-with-mcp-4862)
+- [Implement a lexical parser](https://dev.to/taey/implement-a-lexical-parser-1fcn)
+- [Introduction](https://dev.to/taey/introduction-4j3l)
 <!-- BLOG-POST-LIST:END -->
 
 
