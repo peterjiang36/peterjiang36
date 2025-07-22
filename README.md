@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Detective: How Image Optimization Became My Forensic Superpower](https://dev.to/hardik_b2d8f0bca/digital-detective-how-image-optimization-became-my-forensic-superpower-342n)
-- [Persisting Pinia State](https://dev.to/ibrahimalanshor/persisting-pinia-state-5bd4)
-- [How to Persist Pinia State](https://dev.to/ibrahimalanshor/how-to-persist-pinia-state-9e8)
-- [Automatic PR creation on GitHub for database schema change](https://dev.to/bobur/automatic-pr-creation-on-github-for-database-schema-change-2cpn)
+- [I Tested 25+ &lpar;Free &amp; Paid&rpar; Web Scraping Tools - These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-25-free-paid-web-scraping-tools-these-8-are-the-absolute-best-2a4p)
+- [Create a GOOD game as a beginner](https://dev.to/dumboprogrammer/create-a-good-game-as-a-beginner-48ea)
+- [Build a WhatsApp Chatbot with OpenAI, Twilio and Airtable](https://dev.to/alifar/build-a-whatsapp-chatbot-with-openai-twilio-and-airtable-4350)
+- [Angular 20.1.0 – What’s new? Binary Assignment Operators with Angular v20.1.0](https://dev.to/iamvibhakar/angular-2010-whats-new-binary-assignment-operators-with-angular-v2010-2j4o)
 <!-- BLOG-POST-LIST:END -->
 
 
