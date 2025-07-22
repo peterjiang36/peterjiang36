@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
-- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
-- [Routing in Laravel](https://dev.to/younes_nz/routing-in-laravel-1lk7)
-- [CLI vs IDE Coding Agents: Choose the Right One for 10x Productivity!](https://dev.to/forgecode/cli-vs-ide-coding-agents-choose-the-right-one-for-10x-productivity-5gkc)
+- [Measures of central tendency and their significance in the field of data science](https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76)
+- [Teaching the Toaster: What We Get Wrong About AI &quot;Learning&quot;](https://dev.to/darcee/teaching-the-toaster-what-we-get-wrong-about-ai-learning-2ka8)
+- [Understanding LLMs: A Beginner’s Guide for Non-AI Folks](https://dev.to/madhumanti_majumdar_5dd94/understanding-llms-a-beginners-guide-for-non-ai-folks-4m7j)
+- [Implementing Transactional Tests with MySQL](https://dev.to/kamaev/implementing-transactional-tests-with-mysql-3m02)
 <!-- BLOG-POST-LIST:END -->
 
 
