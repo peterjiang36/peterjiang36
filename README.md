@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: using import, and some hidden pitfalls](https://dev.to/setevoy/terraform-using-import-and-some-hidden-pitfalls-4348)
-- [My 2-Year-Old Built His First Video Game in 8 Minutes Using AI &lpar;Complete Setup Guide&rpar;](https://dev.to/raisingpixels/my-2-year-old-built-his-first-video-game-in-8-minutes-using-ai-complete-setup-guide-3amo)
-- [AWS Auto Scaling Groups: A Fundamental Mistake &lpar;Beginner Edition&rpar;](https://dev.to/deepaksonii/aws-auto-scaling-groups-a-fundamental-mistake-beginner-edition-13k9)
-- [Securing Your Internal Tools: Implementing Identity-Aware Proxy &lpar;IAP&rpar; for GKE Resources with CDKTF](https://dev.to/cloudiepad/securing-your-internal-tools-implementing-identity-aware-proxy-iap-for-gke-resources-with-cdktf-gm5)
+- [Sheets API has access to Google Drive and People chips](https://dev.to/googleworkspace/sheets-api-has-access-to-google-drive-and-people-chips-5d5b)
+- [Coloring Book Generators](https://dev.to/freepalestine/coloring-book-generators-2aoj)
+- [Coloring Book Generator](https://dev.to/freepalestine/coloring-book-generator-7kf)
+- [Passive Income in Crypto: A Business Strategy for Liquidity Management](https://dev.to/philip_crypto92/passive-income-in-crypto-a-business-strategy-for-liquidity-management-48jc)
 <!-- BLOG-POST-LIST:END -->
 
 
