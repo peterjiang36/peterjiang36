@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/yijay_2f9a8b167feb8f/-25i5)
+- [Harry&#39;s Cell Phone Flashlight](https://dev.to/alansdead/harrys-cell-phone-flashlight-3lkj)
 - [Chapter 8 : Measuring Product Success and Learning from Outcomes](https://dev.to/taskframe/chapter-8-measuring-product-success-and-learning-from-outcomes-1p02)
 - [PixLab Vision Workspace - Best Productivity App](https://dev.to/unqlite_db/pixlab-vision-workspace-best-productivity-app-47el)
-- [Hackerrank - SQL - The PADS](https://dev.to/mrpunkdasilva/hackerrank-sql-the-pads-2ob6)
-- [Hackerrank - SQL - Select By ID](https://dev.to/mrpunkdasilva/hackerrank-sql-select-by-id-22oe)
 <!-- BLOG-POST-LIST:END -->
 
 
