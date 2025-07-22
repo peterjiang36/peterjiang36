@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 25+ &lpar;Free &amp; Paid&rpar; Web Scraping Tools - These 8 Are the Absolute Best](https://dev.to/nitinfab/i-tested-25-free-paid-web-scraping-tools-these-8-are-the-absolute-best-2a4p)
-- [Create a GOOD game as a beginner](https://dev.to/dumboprogrammer/create-a-good-game-as-a-beginner-48ea)
-- [Build a WhatsApp Chatbot with OpenAI, Twilio and Airtable](https://dev.to/alifar/build-a-whatsapp-chatbot-with-openai-twilio-and-airtable-4350)
-- [Angular 20.1.0 – What’s new? Binary Assignment Operators with Angular v20.1.0](https://dev.to/iamvibhakar/angular-2010-whats-new-binary-assignment-operators-with-angular-v2010-2j4o)
+- [The API Apocalypse: When Third-Party Services Turn into Supervillains](https://dev.to/vibhuvibes/the-api-apocalypse-when-third-party-services-turn-into-supervillains-395m)
+- [How to Deploy a Tetris Game on AWS ECS with Terraform](https://dev.to/aws-builders/how-to-deploy-a-tetris-game-on-aws-ecs-with-terraform-59hf)
+- [Best Practices for Ensuring AI Agent Performance and Reliability](https://dev.to/kuldeep_paul/best-practices-for-ensuring-ai-agent-performance-and-reliability-4ok0)
+- [3 TypeScript Playgrounds You Should Definitely Try](https://dev.to/md_motiurrahman/3-typescript-playgrounds-you-should-definitely-try-mfh)
 <!-- BLOG-POST-LIST:END -->
 
 
