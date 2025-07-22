@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Virtual Office – CSS Art Inspired by Workplace Culture](https://dev.to/apoorvtomar/the-virtual-office-css-art-inspired-by-workplace-culture-2dg9)
-- [Behind the Upload: Building a Zero-Trust File Inspection API with FastAPI](https://dev.to/rahul_kumarthakur_58c6a8/behind-the-upload-building-a-zero-trust-file-inspection-api-with-fastapi-1g3k)
-- [Just tried a tool that shows where your name or pics get misused.](https://dev.to/liam_h_5d315b55a833b41b6c/just-tried-a-tool-that-shows-where-your-name-or-pics-get-misused-gko)
-- [🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent](https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27)
+- [The Complete Guide to Virtual Onboarding for Remote Employees](https://dev.to/kruti12/the-complete-guide-to-virtual-onboarding-for-remote-employees-5ao8)
+- [Supabase vs AWS: Database Pricing 🛢️💰 Comparison in 2025](https://dev.to/bytebase/supabase-vs-aws-database-pricing-comparison-in-2025-3ah3)
+- [The Complete Guide to Virtual Onboarding for Remote Employees](https://dev.to/devmakasana/the-complete-guide-to-virtual-onboarding-for-remote-employees-47ij)
+- [RAG Systems Model &lpar;MongoDB&rpar;](https://dev.to/charlie_barajas_353e28103/rag-systems-model-mongodb-3hl0)
 <!-- BLOG-POST-LIST:END -->
 
 
