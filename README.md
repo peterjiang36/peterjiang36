@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Python Scripts to Instantly Automate Boring Tasks &lpar;Free Toolkit&rpar;](https://dev.to/autohackers9/5-python-scripts-to-instantly-automate-boring-tasks-free-toolkit-5pf)
-- [Understanding AWS Agents: Strands, Bedrock Agents, and AgentCore with MCP](https://dev.to/om_shree_0709/understanding-aws-agents-strands-bedrock-agents-and-agentcore-with-mcp-4862)
-- [Implement a lexical parser](https://dev.to/taey/implement-a-lexical-parser-1fcn)
-- [Introduction](https://dev.to/taey/introduction-4j3l)
+- [The Virtual Office – CSS Art Inspired by Workplace Culture](https://dev.to/apoorvtomar/the-virtual-office-css-art-inspired-by-workplace-culture-2dg9)
+- [Behind the Upload: Building a Zero-Trust File Inspection API with FastAPI](https://dev.to/rahul_kumarthakur_58c6a8/behind-the-upload-building-a-zero-trust-file-inspection-api-with-fastapi-1g3k)
+- [Just tried a tool that shows where your name or pics get misused.](https://dev.to/liam_h_5d315b55a833b41b6c/just-tried-a-tool-that-shows-where-your-name-or-pics-get-misused-gko)
+- [🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent](https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27)
 <!-- BLOG-POST-LIST:END -->
 
 
