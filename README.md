@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a medical chatbot using GraphRAG with SurrealDB + LangChain](https://dev.to/surrealdb/make-a-medical-chatbot-using-graphrag-with-surrealdb-langchain-2oa)
-- [What started as a wild idea in a hackathon has now become my mission. 🚫 Say goodbye to luxury fakes. 🔍 Say hello to GetFake.ai built with GPT-4 Vision to see beyond the human eye. Let’s build tools that actually protect people. #devchallenge #wlhc](https://dev.to/getappsai/what-started-as-a-wild-idea-in-a-hackathon-has-now-become-my-mission-say-goodbye-to-luxury-265h)
-- [Quick Tip: How I Compare Dates Properly in React &lpar;JavaScript Date Gotcha&rpar;](https://dev.to/prs-dev/quick-tip-how-i-compare-dates-properly-in-react-javascript-date-gotcha-4mg8)
-- [Environment Variables: A Guide to Configuration Management](https://dev.to/nasrulhazim/environment-variables-a-guide-to-configuration-management-469k)
+- [Grub in ubuntu](https://dev.to/surajvatsya/grub-in-ubuntu-5b8k)
+- [The Last Developer Standing: Image Optimization in the Post-Apocalyptic Internet](https://dev.to/hardik_b2d8f0bca/the-last-developer-standing-image-optimization-in-the-post-apocalyptic-internet-4ejp)
+- [🛠️ After the Hack: What’s Next for Promptle &lpar;and Me&rpar;](https://dev.to/nithya_subramaniam_223c76/after-the-hack-whats-next-for-promptle-and-me-225e)
+- [Instance Instance ID VS Instance ARN](https://dev.to/surajvatsya/instance-instance-id-vs-instance-arn-394)
 <!-- BLOG-POST-LIST:END -->
 
 
