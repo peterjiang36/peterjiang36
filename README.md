@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulse - The Living Workplace Dashboard](https://dev.to/vivek-aws/pulse-the-living-workplace-dashboard-5af2)
-- [How to Integrate OpenAI in a React App &lpar;Step-by-Step&rpar;](https://dev.to/aneeqakhan/how-to-integrate-openai-in-a-react-app-step-by-step-2k3)
-- [Understanding Statements vs. Expressions in JavaScript](https://dev.to/wisdomudo/understanding-statements-vs-expressions-in-javascript-3acn)
-- [Human Coder Defeats OpenAI in Tokyo—What It Means for the Future of AI Development](https://dev.to/arkhan/human-coder-defeats-openai-in-tokyo-what-it-means-for-the-future-of-ai-development-3b6i)
+- [I just typed &quot;big&quot; instead of &quot;git&quot; ????](https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55)
+- [Building Bod.Coach: LLM Lessons Learned The Hard Way.](https://dev.to/justinschroeder/building-bodcoach-llm-lessons-learned-the-hard-way-59kf)
+- [Routing in Laravel](https://dev.to/younes_nz/routing-in-laravel-1lk7)
+- [CLI vs IDE Coding Agents: Choose the Right One for 10x Productivity!](https://dev.to/forgecode/cli-vs-ide-coding-agents-choose-the-right-one-for-10x-productivity-5gkc)
 <!-- BLOG-POST-LIST:END -->
 
 
