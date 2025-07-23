@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [bed](https://dev.to/armaankhan8270/bed-3e7l)
-- [What Are the Main Steps in Problem Solving?](https://dev.to/writegenic/what-are-the-main-steps-in-problem-solving-1367)
-- [Byte string in Python &lpar;1&rpar;](https://dev.to/hyperkai/byte-string-in-python-1-5a7i)
-- [DolphinScheduler 3.1.9 Dev Setup Guide for Custom Development](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-319-dev-setup-guide-for-custom-development-2dnh)
+- [A FREE and Open Source Airtable Alternative - How to Spin Up NocoDB Using Docker](https://dev.to/wimadev/a-free-and-open-source-airtable-alternative-how-to-spin-up-nocodb-using-docker-510a)
+- [Migrating to Brighter V10 with MS SQL](https://dev.to/actor-dev/migrating-to-brighter-v10-with-ms-sql-11mm)
+- [Migração para Brighter V10 com MS SQL Server](https://dev.to/actor-dev/migracao-para-brighter-v10-com-ms-sql-server-3knb)
+- [Excel for Asset Inventory: Why It’s Time for an Upgrade](https://dev.to/teresa_tran/excel-for-asset-inventory-why-its-time-for-an-upgrade-3jj2)
 <!-- BLOG-POST-LIST:END -->
 
 
