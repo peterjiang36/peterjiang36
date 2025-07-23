@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing a financial charting library for your trading app: 7 things to look for](https://dev.to/devexperts/choosing-a-financial-charting-library-for-your-trading-app-7-things-to-look-for-4436)
-- [How to vectorize your code for faster performance 🚀](https://dev.to/absterdabster/how-to-vectorize-your-code-for-faster-performance-1flp)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;3564&rpar;](https://dev.to/member_8c78b76f/latency-optimization-secrets-for-millisecond-response-times3564-3ahc)
-- [How to Stop Wasting Months on Startup Ideas Nobody Wants](https://dev.to/jealousgx/how-to-stop-wasting-months-on-startup-ideas-nobody-wants-4god)
+- [bed](https://dev.to/armaankhan8270/bed-3e7l)
+- [What Are the Main Steps in Problem Solving?](https://dev.to/writegenic/what-are-the-main-steps-in-problem-solving-1367)
+- [Byte string in Python &lpar;1&rpar;](https://dev.to/hyperkai/byte-string-in-python-1-5a7i)
+- [DolphinScheduler 3.1.9 Dev Setup Guide for Custom Development](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-319-dev-setup-guide-for-custom-development-2dnh)
 <!-- BLOG-POST-LIST:END -->
 
 
