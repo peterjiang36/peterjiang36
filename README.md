@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/philipjohnbasile/-384f)
-- [Please Make Jarvis So I Don’t Have To – Vision from Kent C. Dodds](https://dev.to/om_shree_0709/please-make-jarvis-so-i-dont-have-to-vision-from-kent-c-dodds-564i)
-- [lynnx Theme Pro](https://dev.to/bastndev/lynnx-theme-pro-4gg5)
-- [Middleware Architecture Patterns for Request Processing&lpar;6044&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing6044-1h2n)
+- [Rust Implementation for High Concurrency Processing&lpar;0506&rpar;](https://dev.to/member_8c78b76f/rust-implementation-for-high-concurrency-processing0506-4pf3)
+- [Welcome Thread - v336](https://dev.to/devteam/welcome-thread-v336-1jd8)
+- [Top 10 Context Engineering Tools Powering Next-Gen AI](https://dev.to/contextspace_/top-10-context-engineering-tools-powering-next-gen-ai-22da)
+- [Rheomesh now supports Recordings](https://dev.to/h3poteto/rheomesh-now-supports-recordings-1ndl)
 <!-- BLOG-POST-LIST:END -->
 
 
