@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes + FinOps = OpenCost 🔍💰](https://dev.to/ibrahimsi/kubernetes-finops-opencost-5b4b)
-- [Navigating the React Ecosystem in 2025: Trends, Technologies, and Best Practices](https://dev.to/shamolah/navigating-the-react-ecosystem-in-2025-trends-technologies-and-best-practices-1047)
-- [Introducing AI For Developers Project: The Home for AI-Powered Development](https://dev.to/tokyodal/introducing-ai-for-developers-project-the-home-for-ai-powered-development-31o5)
-- [NoChill.AI – Built During Exams, Celebrated With a Community](https://dev.to/yaser-123/nochillai-built-during-exams-celebrated-with-a-community-fc)
+- [Docker Volumes Explained with docker-compose](https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f)
+- [Redux From the Ground Up &lpar;Elementary to Advanced&rpar;&quot;](https://dev.to/shrsv/redux-from-the-ground-up-elementary-to-advanced-2aec)
+- [Tracing the Internet — Part 1: ICMP, TTL, Ping &amp; Tracert](https://dev.to/kishi_/tracing-the-internet-part-1-icmp-ttl-ping-tracert-2dlj)
+- [How to Write Effective Comments in JavaScript Code](https://dev.to/wisdomudo/how-to-write-effective-comments-in-javascript-code-5emb)
 <!-- BLOG-POST-LIST:END -->
 
 
