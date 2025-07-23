@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Bayes&#39; Theorem?](https://dev.to/dev_patel_35864ca1db6093c/what-is-bayes-theorem-5c3c)
-- [UK Laptop Imports vs Exports &lpar;2019–2025&rpar;: A Power BI Data Story](https://dev.to/ammar_asif_3c3127599c360f/uk-laptop-imports-vs-exports-2019-2025-a-power-bi-data-story-49k5)
-- [TCP Optimization Techniques for Web Server Performance&lpar;9497&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance9497-eia)
-- [🛡 How to Prevent IAM Password Reuse in AWS](https://dev.to/aws-builders/how-to-prevent-iam-password-reuse-in-aws-36db)
+- [[Boost]](https://dev.to/philipjohnbasile/-384f)
+- [Please Make Jarvis So I Don’t Have To – Vision from Kent C. Dodds](https://dev.to/om_shree_0709/please-make-jarvis-so-i-dont-have-to-vision-from-kent-c-dodds-564i)
+- [lynnx Theme Pro](https://dev.to/bastndev/lynnx-theme-pro-4gg5)
+- [Middleware Architecture Patterns for Request Processing&lpar;6044&rpar;](https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing6044-1h2n)
 <!-- BLOG-POST-LIST:END -->
 
 
