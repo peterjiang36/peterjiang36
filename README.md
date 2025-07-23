@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building React Kiro Starter: A Journey Through Modern Web Development](https://dev.to/uratmangun/building-react-kiro-starter-a-journey-through-modern-web-development-43jm)
-- [High-Performance Routing System Design and Implementation&lpar;3821&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation3821-12oa)
-- [Modern Server-Side Event Implementation&lpar;1093&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation1093-bgf)
-- [Practical Insights into Building High-Concurrency API Servers with Go](https://dev.to/jones_charles_ad50858dbc0/practical-insights-into-building-high-concurrency-api-servers-with-go-44f1)
+- [What is Bayes&#39; Theorem?](https://dev.to/dev_patel_35864ca1db6093c/what-is-bayes-theorem-5c3c)
+- [UK Laptop Imports vs Exports &lpar;2019–2025&rpar;: A Power BI Data Story](https://dev.to/ammar_asif_3c3127599c360f/uk-laptop-imports-vs-exports-2019-2025-a-power-bi-data-story-49k5)
+- [TCP Optimization Techniques for Web Server Performance&lpar;9497&rpar;](https://dev.to/member_8c78b76f/tcp-optimization-techniques-for-web-server-performance9497-eia)
+- [🛡 How to Prevent IAM Password Reuse in AWS](https://dev.to/aws-builders/how-to-prevent-iam-password-reuse-in-aws-36db)
 <!-- BLOG-POST-LIST:END -->
 
 
