@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 New Docs: How We Revamped HMPL Documentation with Astro Starlight 🌌](https://dev.to/hmpljs/new-docs-how-we-revamped-hmpl-documentation-with-astro-starlight-19ce)
-- [Ferramentas e rotina nos meus estudos com IA](https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj)
-- [Getting Started with YINI: A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/getting-started-with-yini-a-modern-human-friendly-config-format-4n6p)
-- [Robots-AI: Free Multi-Agent AI Platform](https://dev.to/wissam_metawee_c320c2e1d8/robots-ai-free-multi-agent-ai-platform-1od6)
+- [Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1)
+- [Which speeds up development more: AI Coding Agents or Pair Programming?](https://dev.to/mrlarson2007/which-speeds-up-development-more-ai-coding-agents-or-pair-programming-5030)
+- [My First Hackathon – 24 Hours, 1 Fintech App, 0 Sleep &lpar;Spoiler: We won a Special Mention too 🏆&rpar;](https://dev.to/zenoguy/my-first-hackathon-24-hours-1-fintech-app-0-sleepspoiler-we-won-a-special-mention-too--3pho)
+- [Step by Step Guide: how to provide storage for a new company app](https://dev.to/adeyemo/step-by-step-guide-how-to-provide-storage-for-a-new-company-app-107b)
 <!-- BLOG-POST-LIST:END -->
 
 
