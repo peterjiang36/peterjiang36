@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes Explained with docker-compose](https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f)
-- [Redux From the Ground Up &lpar;Elementary to Advanced&rpar;&quot;](https://dev.to/shrsv/redux-from-the-ground-up-elementary-to-advanced-2aec)
-- [Tracing the Internet — Part 1: ICMP, TTL, Ping &amp; Tracert](https://dev.to/kishi_/tracing-the-internet-part-1-icmp-ttl-ping-tracert-2dlj)
-- [How to Write Effective Comments in JavaScript Code](https://dev.to/wisdomudo/how-to-write-effective-comments-in-javascript-code-5emb)
+- [Variable, Immutability, And Garbage Collection](https://dev.to/muzhawir/variable-immutability-and-garbage-collection-ef2)
+- [Lock-Free Wait-on-Conflict and Fail-on-Conflict in MongoDB](https://dev.to/franckpachot/lock-free-wait-on-conflict-and-fail-on-conflict-in-mongodb-372h)
+- [From Junior to Confident Frontend Developer: Lessons from My Angular &amp; React Journey](https://dev.to/stephen_42/from-junior-to-confident-frontend-developer-lessons-from-my-angular-react-journey-oh5)
+- [Build a Spotify Desk Widget with Raspberry Pi and e-Paper Display](https://dev.to/johnmollar12/build-a-spotify-desk-widget-with-raspberry-pi-and-e-paper-display-127f)
 <!-- BLOG-POST-LIST:END -->
 
 
