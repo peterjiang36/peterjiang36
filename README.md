@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WireGuard vs OpenVPN — Which VPN Protocol Fits Your Self-Hosting Needs?](https://dev.to/lightningdev123/wireguard-vs-openvpn-which-vpn-protocol-fits-your-self-hosting-needs-2pop)
-- [ELSA &lpar;Emulated Learning and Speech Assistant&rpar;](https://dev.to/vihanga_anuththara_0a402f/elsa-emulated-learning-and-speech-assistant-1kej)
-- [Executando uma aplicação Spring Boot + MySQL no Kubernetes](https://dev.to/wagnernegrao/executando-uma-aplicacao-spring-boot-mysql-no-kubernetes-32ck)
-- [What Is Agentic AI And Why It Changes Everything in Automation](https://dev.to/alifar/what-is-agentic-ai-and-why-it-changes-everything-in-automation-525c)
+- [Zup: The Self-Healing CLI That Automates Your Dev Environment](https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb)
+- [Wired for Innovation: Lessons from Bolt.New hackathon](https://dev.to/ecogetaway_b3a2518c89c057/wired-for-innovation-lessons-from-boltnew-hackathon-2nlo)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;3530&rpar;](https://dev.to/member_8c78b76f/latency-optimization-secrets-for-millisecond-response-times3530-4j5l)
+- [Claude Code Tip: Claude Code architecture tip: ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-architecture-tip--4ocb)
 <!-- BLOG-POST-LIST:END -->
 
 
