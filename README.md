@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Variable, Immutability, And Garbage Collection](https://dev.to/muzhawir/variable-immutability-and-garbage-collection-ef2)
-- [Lock-Free Wait-on-Conflict and Fail-on-Conflict in MongoDB](https://dev.to/franckpachot/lock-free-wait-on-conflict-and-fail-on-conflict-in-mongodb-372h)
-- [From Junior to Confident Frontend Developer: Lessons from My Angular &amp; React Journey](https://dev.to/stephen_42/from-junior-to-confident-frontend-developer-lessons-from-my-angular-react-journey-oh5)
-- [Build a Spotify Desk Widget with Raspberry Pi and e-Paper Display](https://dev.to/johnmollar12/build-a-spotify-desk-widget-with-raspberry-pi-and-e-paper-display-127f)
+- [A really good and comprehensive list of open source softwares!](https://dev.to/rinsama77/-3o2b)
+- [30 Days of Code- Day 7](https://dev.to/akshitaexe/30-days-of-code-day-7-4bln)
+- [ToDo Today - After the Hack](https://dev.to/lumo1987/todo-today-after-the-hack-1ggb)
+- [Video - Using WebForms Core in Razor Pages](https://dev.to/elanatframework/video-using-webforms-core-in-razor-pages-4f22)
 <!-- BLOG-POST-LIST:END -->
 
 
