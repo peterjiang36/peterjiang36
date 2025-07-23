@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zup: The Self-Healing CLI That Automates Your Dev Environment](https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb)
-- [Wired for Innovation: Lessons from Bolt.New hackathon](https://dev.to/ecogetaway_b3a2518c89c057/wired-for-innovation-lessons-from-boltnew-hackathon-2nlo)
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;3530&rpar;](https://dev.to/member_8c78b76f/latency-optimization-secrets-for-millisecond-response-times3530-4j5l)
-- [Claude Code Tip: Claude Code architecture tip: ...](https://dev.to/igorganapolsky/claude-code-tip-claude-code-architecture-tip--4ocb)
+- [🚀 Introducing AI Assistant Pro – An Open Source Chatbot with a Brain 🧠💬](https://dev.to/mahmud-r-farhan/introducing-ai-assistant-pro-an-open-source-chatbot-with-a-brain-3813)
+- [Rust 🦀 for JavaScript Developers: A Super Simple Guide.](https://dev.to/ihssmaheel/rust-for-javascript-developers-a-super-simple-guide-2a8a)
+- [Dissecting a Complex Patent Invalidation Search: A Case Study](https://dev.to/patentscanai/dissecting-a-complex-patent-invalidation-search-a-case-study-f5j)
+- [Web Developer Travis McCracken on Build Pipelines That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-build-pipelines-that-dont-suck-23dh)
 <!-- BLOG-POST-LIST:END -->
 
 
