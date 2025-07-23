@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using FireCrawl MCP Server with Claude for Web Scraping](https://dev.to/composiodev/using-firecrawl-mcp-server-with-claude-for-web-scraping-18ig)
-- [JavaScript Private Elements Trump Compile-Time Illusion](https://dev.to/itzsaga/javascript-private-elements-trump-compile-time-illusion-3k7a)
-- [GhostLayer - AI Text Humanization - My first app launching](https://dev.to/hectorta/ghostlayer-ai-text-humanization-my-first-app-launching-2ih1)
-- [Join the Redis AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-redis-ai-challenge-3000-in-prizes-3oj2)
+- [Kubernetes + FinOps = OpenCost 🔍💰](https://dev.to/ibrahimsi/kubernetes-finops-opencost-5b4b)
+- [Navigating the React Ecosystem in 2025: Trends, Technologies, and Best Practices](https://dev.to/shamolah/navigating-the-react-ecosystem-in-2025-trends-technologies-and-best-practices-1047)
+- [Introducing AI For Developers Project: The Home for AI-Powered Development](https://dev.to/tokyodal/introducing-ai-for-developers-project-the-home-for-ai-powered-development-31o5)
+- [NoChill.AI – Built During Exams, Celebrated With a Community](https://dev.to/yaser-123/nochillai-built-during-exams-celebrated-with-a-community-fc)
 <!-- BLOG-POST-LIST:END -->
 
 
