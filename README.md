@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural Networks: Developing a Really Simple Neuron in TypeScript](https://dev.to/joehoppe/neural-networks-developing-a-really-simple-neuron-in-typescript-4fc1)
-- [Which speeds up development more: AI Coding Agents or Pair Programming?](https://dev.to/mrlarson2007/which-speeds-up-development-more-ai-coding-agents-or-pair-programming-5030)
-- [My First Hackathon – 24 Hours, 1 Fintech App, 0 Sleep &lpar;Spoiler: We won a Special Mention too 🏆&rpar;](https://dev.to/zenoguy/my-first-hackathon-24-hours-1-fintech-app-0-sleepspoiler-we-won-a-special-mention-too--3pho)
-- [Step by Step Guide: how to provide storage for a new company app](https://dev.to/adeyemo/step-by-step-guide-how-to-provide-storage-for-a-new-company-app-107b)
+- [Building React Kiro Starter: A Journey Through Modern Web Development](https://dev.to/uratmangun/building-react-kiro-starter-a-journey-through-modern-web-development-43jm)
+- [High-Performance Routing System Design and Implementation&lpar;3821&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation3821-12oa)
+- [Modern Server-Side Event Implementation&lpar;1093&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation1093-bgf)
+- [Practical Insights into Building High-Concurrency API Servers with Go](https://dev.to/jones_charles_ad50858dbc0/practical-insights-into-building-high-concurrency-api-servers-with-go-44f1)
 <!-- BLOG-POST-LIST:END -->
 
 
