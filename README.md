@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A really good and comprehensive list of open source softwares!](https://dev.to/rinsama77/-3o2b)
-- [30 Days of Code- Day 7](https://dev.to/akshitaexe/30-days-of-code-day-7-4bln)
-- [ToDo Today - After the Hack](https://dev.to/lumo1987/todo-today-after-the-hack-1ggb)
-- [Video - Using WebForms Core in Razor Pages](https://dev.to/elanatframework/video-using-webforms-core-in-razor-pages-4f22)
+- [Arduino library has few delay function: 1. delay&lpar;&rpar; - as a parameter you should pass a value on milliseconds; 2. delayMicroseconds&lpar;&rpar; - as a parameter you should pass a value on microseconds. I see that really first time.](https://dev.to/snorri1986/arduino-library-has-few-delay-function-1-delay-as-a-parameter-you-should-pass-a-value-on-4m1i)
+- [Advices needed!](https://dev.to/p_abhi110249/advices-needed-4ifo)
+- [How Edge Computing Made Me a Better Programmer: My library now is 10x faster.](https://dev.to/araldhafeeri/how-edge-computing-made-me-a-better-programmer-my-library-now-is-200-faster-50me)
+- [Enforcing Go coding conventions and best practices with Cursor](https://dev.to/sht5/enforcing-go-coding-conventions-and-best-practices-with-cursor-139l)
 <!-- BLOG-POST-LIST:END -->
 
 
