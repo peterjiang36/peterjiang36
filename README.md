@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Server-Side Event Implementation&lpar;4424&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation4424-18dk)
-- [Write a Programming Language in a Weekend &lpar;Seriously&rpar; With Python](https://dev.to/devasservice/write-a-programming-language-in-a-weekend-seriously-with-python-3k70)
-- [XCTest: A Complete Guide](https://dev.to/grjoeay/xctest-a-complete-guide-b5e)
-- [NPX or NPM what to use?](https://dev.to/mohammad-umar-here/npx-or-npm-what-to-use-12o1)
+- [Emotional Design: The Secret to Impactful Storytelling](https://dev.to/lollypopdesign/emotional-design-the-secret-to-impactful-storytelling-5gj2)
+- [Steps to Migrate to Google Play App Signing](https://dev.to/ayon_ssp/steps-to-migrate-to-google-play-app-signing-770)
+- [Pattern matching across different languages](https://dev.to/nfrankel/pattern-matching-across-different-languages-1c1n)
+- [A Preview of Python 3.14 Release: 7 Major New Features You Must Know](https://dev.to/platypus98/a-preview-of-python-314-release-7-major-new-features-you-must-know-2cil)
 <!-- BLOG-POST-LIST:END -->
 
 
