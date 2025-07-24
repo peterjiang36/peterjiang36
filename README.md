@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 When a System Notices Itself](https://dev.to/marcosomma/when-a-system-notices-itself-4acm)
-- [How to Use Appwrite in Android Jetpack Compose](https://dev.to/ansellmaximilian/how-to-use-appwrite-in-android-jetpack-compose-j0l)
-- [Day 44: When &quot;Tomorrow&quot; Becomes a Weekly Subscription](https://dev.to/casperday11/day-44-when-tomorrow-becomes-a-weekly-subscription-3no6)
-- [Efficient WebSocket Server-Side Processing&lpar;8056&rpar;](https://dev.to/member_8c78b76f/efficient-websocket-server-side-processing8056-4ck9)
+- [Algolia-RoboCluster: AI-Powered Robot Management System](https://dev.to/prema_ananda/algolia-robocluster-ai-powered-robot-management-system-2c4k)
+- [Orka-Reasoning](https://dev.to/marcosomma/orka-reasoning-5fce)
+- [Integration testing for Go applications using Testcontainers and containerized databases](https://dev.to/abhirockzz/integration-testing-for-go-applications-using-testcontainers-and-containerized-databases-3bfp)
+- [How to Create ER Diagrams for SQLite with a Free Tool](https://dev.to/roxana_haidiner/how-to-create-er-diagrams-for-sqlite-with-a-free-tool-51e)
 <!-- BLOG-POST-LIST:END -->
 
 
