@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Cybersecurity Careers](https://dev.to/__52904/the-future-of-cybersecurity-careers-1i)
-- [playwright打开指定的CDP端口](https://dev.to/dragon72463399/playwrightda-kai-zhi-ding-de-cdpduan-kou-31he)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;4012&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization4012-5a5b)
-- [How Do Signatures and Malleability Impact Web3 Security?](https://dev.to/metana/how-do-signatures-and-malleability-impact-web3-security-4fgd)
+- [🧠 When a System Notices Itself](https://dev.to/marcosomma/when-a-system-notices-itself-4acm)
+- [How to Use Appwrite in Android Jetpack Compose](https://dev.to/ansellmaximilian/how-to-use-appwrite-in-android-jetpack-compose-j0l)
+- [Day 44: When &quot;Tomorrow&quot; Becomes a Weekly Subscription](https://dev.to/casperday11/day-44-when-tomorrow-becomes-a-weekly-subscription-3no6)
+- [Efficient WebSocket Server-Side Processing&lpar;8056&rpar;](https://dev.to/member_8c78b76f/efficient-websocket-server-side-processing8056-4ck9)
 <!-- BLOG-POST-LIST:END -->
 
 
