@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Emotional Design: The Secret to Impactful Storytelling](https://dev.to/lollypopdesign/emotional-design-the-secret-to-impactful-storytelling-5gj2)
-- [Steps to Migrate to Google Play App Signing](https://dev.to/ayon_ssp/steps-to-migrate-to-google-play-app-signing-770)
-- [Pattern matching across different languages](https://dev.to/nfrankel/pattern-matching-across-different-languages-1c1n)
-- [A Preview of Python 3.14 Release: 7 Major New Features You Must Know](https://dev.to/platypus98/a-preview-of-python-314-release-7-major-new-features-you-must-know-2cil)
+- [FSCSS @fun Guide](https://dev.to/fscss/fscss-fun-guide-5de2)
+- [HTTP Response Optimization and Streaming Techniques&lpar;0639&rpar;](https://dev.to/member_8c78b76f/http-response-optimization-and-streaming-techniques0639-p3f)
+- [I spent 6 months creating something that already exists - but in better](https://dev.to/canyslypys/i-spent-6-months-creating-something-that-already-exists-but-in-better-1jjf)
+- [Asynchronous Programming Patterns for Web Development&lpar;8905&rpar;](https://dev.to/member_8c78b76f/asynchronous-programming-patterns-for-web-development8905-3556)
 <!-- BLOG-POST-LIST:END -->
 
 
