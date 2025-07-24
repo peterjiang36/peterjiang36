@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hacker&#39;s Edge: Why Mindset Beats Tools in Cybersecurity &lpar;Every Time&rpar;](https://dev.to/nullc0d3/the-hackers-edge-why-mindset-beats-tools-in-cybersecurity-every-time-4gpp)
-- [The Rise of Deepfake Threats in Cybersecurity](https://dev.to/__52904/the-rise-of-deepfake-threats-in-cybersecurity-1nm5)
-- [How to Protect an Application from Cyber Attacks](https://dev.to/carrie_luo1/how-to-protect-an-application-from-cyber-attacks-1j42)
-- [New 0day RCE in Apache OFBiz &lpar;CVE-2023-51467&rpar;: Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/new-0day-rce-in-apache-ofbiz-cve-2023-51467-patch-now-p53)
+- [The Future of Cybersecurity Careers](https://dev.to/__52904/the-future-of-cybersecurity-careers-1i)
+- [playwright打开指定的CDP端口](https://dev.to/dragon72463399/playwrightda-kai-zhi-ding-de-cdpduan-kou-31he)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;4012&rpar;](https://dev.to/member_8c78b76f/http-request-processing-with-zero-copy-optimization4012-5a5b)
+- [How Do Signatures and Malleability Impact Web3 Security?](https://dev.to/metana/how-do-signatures-and-malleability-impact-web3-security-4fgd)
 <!-- BLOG-POST-LIST:END -->
 
 
