@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools That Apply to Jobs for You in 2025](https://dev.to/claradev32/best-ai-tools-that-apply-to-jobs-for-you-in-2025-akg)
-- [[Boost]](https://dev.to/binyam/-3ge4)
-- [How a Simple SSH to Localhost Taught Me Real Network Debugging](https://dev.to/sysdiver/how-a-simple-ssh-to-localhost-taught-me-real-network-debugging-4p50)
-- [Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM](https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701)
+- [Rethinking UI in Agent Driven Systems](https://dev.to/infoxicator/rethinking-ui-in-agent-driven-systems-10nd)
+- [AI Agents: From Tools to Teammates](https://dev.to/gamepill/ai-agents-from-tools-to-teammates-2c7h)
+- [How I Built a Global NGO Website on AWS S3 for Pennies – A Practical Step-by-Step Guide](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-global-ngo-website-on-aws-s3-for-pennies-a-practical-step-by-step-guide-256)
+- [Why I Built My Own Markup Language for AI-Powered Video Editing](https://dev.to/idrees_a/why-i-built-my-own-markup-language-for-ai-powered-video-editing-5925)
 <!-- BLOG-POST-LIST:END -->
 
 
