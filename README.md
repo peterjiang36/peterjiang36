@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Algolia-RoboCluster: AI-Powered Robot Management System](https://dev.to/prema_ananda/algolia-robocluster-ai-powered-robot-management-system-2c4k)
-- [Orka-Reasoning](https://dev.to/marcosomma/orka-reasoning-5fce)
-- [Integration testing for Go applications using Testcontainers and containerized databases](https://dev.to/abhirockzz/integration-testing-for-go-applications-using-testcontainers-and-containerized-databases-3bfp)
-- [How to Create ER Diagrams for SQLite with a Free Tool](https://dev.to/roxana_haidiner/how-to-create-er-diagrams-for-sqlite-with-a-free-tool-51e)
+- [The Little Prince’s Ballast Resistor: Taming the Wild Electrons of the Stars](https://dev.to/ersajay/the-little-princes-ballast-resistor-taming-the-wild-electrons-of-the-stars-5ada)
+- [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/imranparthib/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
+- [HTTP Response Optimization and Streaming Techniques&lpar;1638&rpar;](https://dev.to/member_8c78b76f/http-response-optimization-and-streaming-techniques1638-1coi)
+- [Learn Dart in 3 Videos – Free Crash Course for Beginners &amp; Flutter Devs](https://dev.to/build2beyond_technologies/learn-dart-in-3-videos-free-crash-course-for-beginners-flutter-devs-318k)
 <!-- BLOG-POST-LIST:END -->
 
 
