@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Frontend Tools I Learned At My Job](https://dev.to/surajondev/5-essential-frontend-tools-i-learned-at-job-127h)
-- [Building Venomous Vortex: A Life-Saving Toxin Education Platform with Bolt.new](https://dev.to/bharath_kumarj_d2d349d6c/building-venomous-vortex-a-life-saving-toxin-education-platform-with-boltnew-p74)
-- [When Optimism Becomes Delusion: Why Feedback Matters in Agile](https://dev.to/dileeparanawake/when-optimism-becomes-delusion-why-feedback-matters-in-agile-11c1)
-- [If it Ain’t Broke… Fix it Until it is](https://dev.to/linkbenjamin/if-it-aint-broke-fix-it-until-it-is-3iml)
+- [Meta prompt; Why your prompt alone may be limiting your LLM](https://dev.to/joshtom/meta-prompt-why-your-prompt-alone-may-be-limiting-your-llm-4co5)
+- [GitHub Spark Has Arrived - Dream It, See It, Ship It](https://dev.to/iampraveen/github-spark-has-arrived-dream-it-see-it-ship-it-2294)
+- [Azure Free Tier: What Can You Actually Build?](https://dev.to/skilltech/azure-free-tier-what-can-you-actually-build-3n3l)
+- [Application of Async Programming in Web Development&lpar;8530&rpar;](https://dev.to/member_8c78b76f/application-of-async-programming-in-web-development8530-238l)
 <!-- BLOG-POST-LIST:END -->
 
 
