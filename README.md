@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Perspectives on Development Speed](https://dev.to/evan_dickinson_7437ea81b9/new-perspectives-on-development-speed-5g29)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;5066&rpar;](https://dev.to/member_8c78b76f/design-philosophy-of-zero-dependency-web-framework5066-539c)
-- [How to Implement Video Casting in Flutter](https://dev.to/cristovoxdgm/how-to-implement-video-casting-in-flutter-2j28)
-- [AI-Driven Cyber Attacks: The Next Evolution of Hacking](https://dev.to/__52904/ai-driven-cyber-attacks-the-next-evolution-of-hacking-n6j)
+- [The Hacker&#39;s Edge: Why Mindset Beats Tools in Cybersecurity &lpar;Every Time&rpar;](https://dev.to/nullc0d3/the-hackers-edge-why-mindset-beats-tools-in-cybersecurity-every-time-4gpp)
+- [The Rise of Deepfake Threats in Cybersecurity](https://dev.to/__52904/the-rise-of-deepfake-threats-in-cybersecurity-1nm5)
+- [How to Protect an Application from Cyber Attacks](https://dev.to/carrie_luo1/how-to-protect-an-application-from-cyber-attacks-1j42)
+- [New 0day RCE in Apache OFBiz &lpar;CVE-2023-51467&rpar;: Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/new-0day-rce-in-apache-ofbiz-cve-2023-51467-patch-now-p53)
 <!-- BLOG-POST-LIST:END -->
 
 
