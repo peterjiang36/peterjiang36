@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte string in Python &lpar;2&rpar;](https://dev.to/hyperkai/byte-string-in-python-2-4b20)
-- [Title: Social Security&#39;s AI Phone Glitches and Long Call Times: A Customer Service Audit](https://dev.to/yagyaraj_sharma_6cd410179/title-social-securitys-ai-phone-glitches-and-long-call-times-a-customer-service-audit-2j30)
-- [GUIA PRÁTICO DE COMANDOS DO DOCKER #1](https://dev.to/heyglonfabio/guia-pratico-de-comandos-do-docker-1-42fj)
-- [Modern Server-Side Event Implementation&lpar;3804&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation3804-15i1)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;1534&rpar;](https://dev.to/member_8c78b76f/zero-dependency-architecture-for-maximum-performance1534-d4l)
+- [A Web2 developer’s journey into Web3: How I struggled to get ttarted](https://dev.to/doanlonghau/a-web2-developers-journey-into-web3-how-i-struggled-to-get-ttarted-mof)
+- [What are Probability Distributions?](https://dev.to/dev_patel_35864ca1db6093c/what-are-probability-distributions-3gj)
+- [How MCP Inspector Works: A Simple Look at Its Architecture and Setup](https://dev.to/om_shree_0709/how-mcp-inspector-works-a-simple-look-at-its-architecture-and-setup-cgl)
 <!-- BLOG-POST-LIST:END -->
 
 
