@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Dependency Architecture for Maximum Performance&lpar;1534&rpar;](https://dev.to/member_8c78b76f/zero-dependency-architecture-for-maximum-performance1534-d4l)
-- [A Web2 developer’s journey into Web3: How I struggled to get ttarted](https://dev.to/doanlonghau/a-web2-developers-journey-into-web3-how-i-struggled-to-get-ttarted-mof)
-- [What are Probability Distributions?](https://dev.to/dev_patel_35864ca1db6093c/what-are-probability-distributions-3gj)
-- [How MCP Inspector Works: A Simple Look at Its Architecture and Setup](https://dev.to/om_shree_0709/how-mcp-inspector-works-a-simple-look-at-its-architecture-and-setup-cgl)
+- [New Perspectives on Development Speed](https://dev.to/evan_dickinson_7437ea81b9/new-perspectives-on-development-speed-5g29)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;5066&rpar;](https://dev.to/member_8c78b76f/design-philosophy-of-zero-dependency-web-framework5066-539c)
+- [How to Implement Video Casting in Flutter](https://dev.to/cristovoxdgm/how-to-implement-video-casting-in-flutter-2j28)
+- [AI-Driven Cyber Attacks: The Next Evolution of Hacking](https://dev.to/__52904/ai-driven-cyber-attacks-the-next-evolution-of-hacking-n6j)
 <!-- BLOG-POST-LIST:END -->
 
 
