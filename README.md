@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
-- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
-- [Get started on building AI Automations in Salesforce with Agentforce](https://dev.to/hemantj/get-started-on-building-ai-automations-in-salesforce-with-agentforce-3oh6)
-- [Design Philosophy of Zero-Dependency Web Framework&lpar;2786&rpar;](https://dev.to/member_8c78b76f/design-philosophy-of-zero-dependency-web-framework2786-22gf)
+- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4781)
+- [Mastering RESTful API Integration: Your Guide to Seamless Connections](https://dev.to/farlamo/mastering-restful-api-integration-your-guide-to-seamless-connections-1472)
+- [Multi-Modal Content Processing with strands agent and FAISS Memory](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-faiss-memory-39hg)
+- [Benefits and pitfalls of Vibe coding: navigating the AI-assisted era](https://dev.to/brudda345/benefits-and-pitfalls-of-vibe-coding-navigating-the-ai-assisted-era-246j)
 <!-- BLOG-POST-LIST:END -->
 
 
