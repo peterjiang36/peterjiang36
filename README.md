@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Tip: Game changer: Ask Claude Code ...](https://dev.to/igorganapolsky/claude-code-tip-game-changer-ask-claude-code--4781)
-- [Mastering RESTful API Integration: Your Guide to Seamless Connections](https://dev.to/farlamo/mastering-restful-api-integration-your-guide-to-seamless-connections-1472)
-- [Multi-Modal Content Processing with strands agent and FAISS Memory](https://dev.to/aws/multi-modal-content-processing-with-strands-agent-and-faiss-memory-39hg)
-- [Benefits and pitfalls of Vibe coding: navigating the AI-assisted era](https://dev.to/brudda345/benefits-and-pitfalls-of-vibe-coding-navigating-the-ai-assisted-era-246j)
+- [Best AI Tools That Apply to Jobs for You in 2025](https://dev.to/claradev32/best-ai-tools-that-apply-to-jobs-for-you-in-2025-akg)
+- [[Boost]](https://dev.to/binyam/-3ge4)
+- [How a Simple SSH to Localhost Taught Me Real Network Debugging](https://dev.to/sysdiver/how-a-simple-ssh-to-localhost-taught-me-real-network-debugging-4p50)
+- [Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM](https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701)
 <!-- BLOG-POST-LIST:END -->
 
 
