@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next-Level Intranet: OfficeSpace with Dark Mode &amp; Widgets](https://dev.to/adonaitechnologies/next-level-intranet-officespace-with-dark-mode-widgets-de7)
-- [Designing Smart Multi-Agent Workflows with Agno &amp; LangDB](https://dev.to/langdb/designing-smart-multi-agent-workflows-with-agno-langdb-nic)
-- [B4Ugo: Beyond the Code - WLH Challenge](https://dev.to/ariondev/b4ugo-beyond-the-code-wlh-challenge-3l39)
-- [Measures of central tendencies](https://dev.to/maureen_mukami_4268d10eac/measures-of-central-tendencies-41g7)
+- [We’re live on Product Hunt today! Support us here https://www.producthunt.com/products/microtica-ai-agents-for-devops](https://dev.to/mmarulka/were-live-on-product-hunt-today-support-us-here--2kmk)
+- [Entiende el Aspect Ratio en CSS](https://dev.to/byandrev/entiende-el-aspect-ratio-en-css-3314)
+- [为什么我讨厌与马来西亚的软件公司合作？](https://dev.to/ctkqiang/wei-shi-yao-wo-tao-yan-yu-ma-lai-xi-ya-de-ruan-jian-gong-si-he-zuo--3l6j)
+- [Ultimate Optimization of Lightweight Server Architecture&lpar;7006&rpar;](https://dev.to/member_8c78b76f/ultimate-optimization-of-lightweight-server-architecture7006-f11)
 <!-- BLOG-POST-LIST:END -->
 
 
