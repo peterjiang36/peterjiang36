@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Platform Web Development Without Compromise&lpar;6096&rpar;](https://dev.to/member_8c78b76f/cross-platform-web-development-without-compromise6096-800)
-- [🚀 Uploading Files to Anthropic AI Using Node.js](https://dev.to/princeaden1/uploading-files-to-anthropic-ai-using-nodejs-1g44)
-- [Coffee culture = office culture](https://dev.to/ulrikedetective/coffee-culture-office-culture-ljd)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;1531&rpar;](https://dev.to/member_8c78b76f/ultimate-optimization-of-lightweight-server-architecture1531-4dpk)
+- [Dein Code ist brillant, aber deine Texte sind..](https://dev.to/ivo_sa/dein-code-ist-brillant-aber-deine-texte-sind-48pa)
+- [My First Experience as a Feature Lead in Technology✅](https://dev.to/patrickbastosdeveloper/my-first-experience-as-a-feature-lead-in-technology-k1k)
+- [[Boost]](https://dev.to/uliyahoo/-nl1)
+- [How Criteo scaled 290M QPS and cut its server footprint by 78%](https://dev.to/aerospike/how-criteo-scaled-290m-qps-and-cut-its-server-footprint-by-78-e80)
 <!-- BLOG-POST-LIST:END -->
 
 
