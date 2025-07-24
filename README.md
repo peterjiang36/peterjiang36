@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Hosting: DIY Flexibility vs. Stormkit’s Streamlined Power](https://dev.to/stormkit/nodejs-hosting-diy-flexibility-vs-stormkits-streamlined-power-5bkj)
-- [Web Developer Travis McCracken on Writing Middleware in Go for Fun &amp; Profit](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-writing-middleware-in-go-for-fun-profit-4l53)
-- [Layer-Zero Wars: Cosmos, Polkadot, and Avalanche Compete to Define Web3’s Core Infrastructure](https://dev.to/philip_crypto92/layer-zero-wars-cosmos-polkadot-and-avalanche-compete-to-define-web3s-core-infrastructure-334a)
-- [Modern Server-Side Event Implementation&lpar;9537&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation9537-m5b)
+- [Next-Level Intranet: OfficeSpace with Dark Mode &amp; Widgets](https://dev.to/adonaitechnologies/next-level-intranet-officespace-with-dark-mode-widgets-de7)
+- [Designing Smart Multi-Agent Workflows with Agno &amp; LangDB](https://dev.to/langdb/designing-smart-multi-agent-workflows-with-agno-langdb-nic)
+- [B4Ugo: Beyond the Code - WLH Challenge](https://dev.to/ariondev/b4ugo-beyond-the-code-wlh-challenge-3l39)
+- [Measures of central tendencies](https://dev.to/maureen_mukami_4268d10eac/measures-of-central-tendencies-41g7)
 <!-- BLOG-POST-LIST:END -->
 
 
