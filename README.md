@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re live on Product Hunt today! Support us here https://www.producthunt.com/products/microtica-ai-agents-for-devops](https://dev.to/mmarulka/were-live-on-product-hunt-today-support-us-here--2kmk)
-- [Entiende el Aspect Ratio en CSS](https://dev.to/byandrev/entiende-el-aspect-ratio-en-css-3314)
-- [为什么我讨厌与马来西亚的软件公司合作？](https://dev.to/ctkqiang/wei-shi-yao-wo-tao-yan-yu-ma-lai-xi-ya-de-ruan-jian-gong-si-he-zuo--3l6j)
-- [Ultimate Optimization of Lightweight Server Architecture&lpar;7006&rpar;](https://dev.to/member_8c78b76f/ultimate-optimization-of-lightweight-server-architecture7006-f11)
+- [New Project](https://dev.to/harith_y_a97ea256afe8255f/new-project-564e)
+- [RAG Chatbot - MoviesGPT](https://dev.to/harith_y_a97ea256afe8255f/rag-chatbot-moviesgpt-15mm)
+- [Get started on building AI Automations in Salesforce with Agentforce](https://dev.to/hemantj/get-started-on-building-ai-automations-in-salesforce-with-agentforce-3oh6)
+- [Design Philosophy of Zero-Dependency Web Framework&lpar;2786&rpar;](https://dev.to/member_8c78b76f/design-philosophy-of-zero-dependency-web-framework2786-22gf)
 <!-- BLOG-POST-LIST:END -->
 
 
