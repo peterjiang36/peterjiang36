@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dreaming of Jupiter - Three.js](https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc)
-- [Building a TypeScript Library in 2025](https://dev.to/arshadyaseen/building-a-typescript-library-in-2025-2h0i)
-- [How I make teams productive](https://dev.to/bookofcooks/how-i-make-teams-productive-4603)
-- [WebGL Distortion Slider](https://dev.to/blancmonarch/webgl-distortion-slider-49f4)
+- [Byte string in Python &lpar;2&rpar;](https://dev.to/hyperkai/byte-string-in-python-2-4b20)
+- [Title: Social Security&#39;s AI Phone Glitches and Long Call Times: A Customer Service Audit](https://dev.to/yagyaraj_sharma_6cd410179/title-social-securitys-ai-phone-glitches-and-long-call-times-a-customer-service-audit-2j30)
+- [GUIA PRÁTICO DE COMANDOS DO DOCKER #1](https://dev.to/heyglonfabio/guia-pratico-de-comandos-do-docker-1-42fj)
+- [Modern Server-Side Event Implementation&lpar;3804&rpar;](https://dev.to/member_8c78b76f/modern-server-side-event-implementation3804-15i1)
 <!-- BLOG-POST-LIST:END -->
 
 
