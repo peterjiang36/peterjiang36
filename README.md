@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built My Own AI Voice Assistant with Jarvis Vibes &lpar;Using ChatGPT + Gemini + ElevenLabs&rpar;](https://dev.to/rajguru_yadav_56d13a7b8fc/i-built-my-own-ai-voice-assistant-with-jarvis-vibes-using-chatgpt-gemini-elevenlabs-600)
-- [Control storage access](https://dev.to/zube/control-storage-access-4708)
-- [The Right Kind of Bond. Designing Avatars That Empower](https://dev.to/gamepill/the-right-kind-of-bond-designing-avatars-that-empower-3f78)
-- [Build Smarter Trading Tools with Finage’s New Forex Signal API](https://dev.to/gokhanuck/build-smarter-trading-tools-with-finages-new-forex-signal-api-4934)
+- [Overcoming AWS Security Alert Fatigue](https://dev.to/aws-builders/overcoming-aws-security-alert-fatigue-e28)
+- [Keeping MCP Inspector Safe: Lessons from CVE‑2025‑49596](https://dev.to/om_shree_0709/keeping-mcp-inspector-safe-lessons-from-cve-2025-49596-547d)
+- [Why AI Hallucinations Cost Businesses Millions and How BAML Prevents Them](https://dev.to/talweezy/why-ai-hallucinations-cost-businesses-millions-and-how-baml-prevents-them-49bm)
+- [Benefits of OLAP and OLTP in Data Management.](https://dev.to/erickaranja17/benefits-of-olap-and-oltp-in-data-management-26cl)
 <!-- BLOG-POST-LIST:END -->
 
 
