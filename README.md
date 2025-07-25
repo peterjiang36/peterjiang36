@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Qwen3-MT the Game-Changing Translation Model We&#39;ve Been Waiting For?](https://dev.to/ashinno/is-qwen3-mt-the-game-changing-translation-model-weve-been-waiting-for-1k2m)
-- [NeuroStream - Real-Time Brain-Computer Interface Analytics Platform](https://dev.to/poowagg/neurostream-real-time-brain-computer-interface-analytics-platform-4o3g)
-- [Is it worth taking HashiCorp&#39;s Terraform Associate exam?](https://dev.to/smgestupa/is-it-worth-taking-hashicorps-terraform-associate-exam-4n2i)
-- [⚡ Optimize Like a Pro: Memoization, Suspense, and Beyond](https://dev.to/manukumar07/optimize-like-a-pro-memoization-suspense-and-beyond-4209)
+- [OOP is the middle ages, FP is the enlightenment, FRP is impressionism, SOP is the modern minimalism](https://dev.to/dariomannu/oop-is-the-middle-ages-fp-is-the-enlightenment-frp-is-impressionism-sop-is-the-modern-minimalism-487j)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
+- [EM78P458APJ-G Datasheet: Features, Pinout, and Applications](https://dev.to/xecor_company/em78p458apj-g-datasheet-features-pinout-and-applications-1028)
+- [Backtesting lib Hi devs and traders I recently built a lightweight, backtesting library in Python, aimed at helping devs quickly test trading strategies using historical data – whether you&#39;re building a trading dashboard or running simulations. 🔗 GitHub](https://dev.to/ung_nguyen_20a9419b702370/backtesting-lib-hi-devs-and-traders-i-recently-built-a-lightweight-backtesting-library-in-e55)
 <!-- BLOG-POST-LIST:END -->
 
 
