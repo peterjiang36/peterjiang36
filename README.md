@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Overcoming SIEM Integration and Security Challenges](https://dev.to/kapusto/best-practices-for-overcoming-siem-integration-and-security-challenges-531l)
-- [So Cool!](https://dev.to/assosam_ocr/so-cool-11ka)
-- [3487. Maximum Unique Subarray Sum After Deletion](https://dev.to/mdarifulhaque/3487-maximum-unique-subarray-sum-after-deletion-5d7g)
-- [Introduction to Grafana Cloud &amp; Account Creation](https://dev.to/srinivasuluparanduru/introduction-to-grafana-cloud-account-creation-514)
+- [How to Change Hostname on Linux](https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l)
+- [How Web3 Projects Plan to Challenge Big Tech in the AI Arms Race](https://dev.to/philip_crypto92/how-web3-projects-plan-to-challenge-big-tech-in-the-ai-arms-race-3d80)
+- [Managed Cloud Services: Your Secret Weapon or a Costly Mistake?](https://dev.to/ryan_foster/managed-cloud-services-your-secret-weapon-or-a-costly-mistake-293b)
+- [The Business of Bypassing &quot;I&#39;m not a robot&quot;: Who Profits From the War on CAPTCHA - Сomparison of CAPTCHA Solving Services](https://dev.to/markus009/the-business-of-bypassing-im-not-a-robot-who-profits-from-the-war-on-captcha-somparison-of-17a)
 <!-- BLOG-POST-LIST:END -->
 
 
