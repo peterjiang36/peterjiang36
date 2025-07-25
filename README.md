@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trained a CycleGAN Model for Real ↔ Painting Image Style Transfer Using PyTorch](https://dev.to/hitendraa/trained-a-cyclegan-model-for-real-painting-image-style-transfer-using-pytorch-bfo)
-- [What Are the Basic Tools for Software Development?](https://dev.to/cloudestersoftware/what-are-the-basic-tools-for-software-development-2coi)
-- [[Boost]](https://dev.to/wimadev/-1bec)
-- [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
+- [Best AI Code Generators You Should Know If You Want To Stay Ahead🚀](https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k)
+- [Python Izoh](https://dev.to/muhamadayubuzbdev/python-izoh-181l)
+- [Camshaft Sensor: Hogwarts&#39; Engine Whisperer](https://dev.to/ersajay/camshaft-sensor-hogwarts-engine-whisperer-57nf)
+- [Meta prompt; Why your prompt alone may be limiting your LLM](https://dev.to/robertthomas/meta-prompt-why-your-prompt-alone-may-be-limiting-your-llm-4kmf)
 <!-- BLOG-POST-LIST:END -->
 
 
