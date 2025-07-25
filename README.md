@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OOP is the middle ages, FP is the enlightenment, FRP is impressionism, SOP is the modern minimalism](https://dev.to/dariomannu/oop-is-the-middle-ages-fp-is-the-enlightenment-frp-is-impressionism-sop-is-the-modern-minimalism-487j)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51ja)
-- [EM78P458APJ-G Datasheet: Features, Pinout, and Applications](https://dev.to/xecor_company/em78p458apj-g-datasheet-features-pinout-and-applications-1028)
-- [Backtesting lib Hi devs and traders I recently built a lightweight, backtesting library in Python, aimed at helping devs quickly test trading strategies using historical data – whether you&#39;re building a trading dashboard or running simulations. 🔗 GitHub](https://dev.to/ung_nguyen_20a9419b702370/backtesting-lib-hi-devs-and-traders-i-recently-built-a-lightweight-backtesting-library-in-e55)
+- [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
+- [Breaking Down Epics into Actionable User Stories: A Step-by-Step Guide](https://dev.to/dct_technology/breaking-down-epics-into-actionable-user-stories-a-step-by-step-guide-4o2j)
+- [AI: No longer an exception. It is the norm.](https://dev.to/urbanisierung/ai-no-longer-an-exception-it-is-the-norm-99b)
+- [The 10 Best Context Engineering Open Source Projects in 2025](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94)
 <!-- BLOG-POST-LIST:END -->
 
 
