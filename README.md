@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines on Providing Storage for a New Company App Part 2](https://dev.to/aneneemmanuel_1/guidelines-on-providing-storage-for-a-new-company-app-part-2-1j37)
-- [Building and learning at lightning speed with Bolt!](https://dev.to/kirittanna/building-and-learning-at-lightning-speed-with-bolt-30jd)
-- [🚀 The Rise of Adapters: Reimagining JavaScript Tooling in 2025](https://dev.to/the-modern-web/the-rise-of-adapters-reimagining-javascript-tooling-in-2025-52el)
-- [SnippetSearch: Code Snippets Discovery Engine for Developers](https://dev.to/imkarthikeyan/snippetsearch-code-snippets-discovery-engine-for-developers-3gld)
+- [Security news weekly round-up - 25th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5)
+- [LearnSync – A Unified Knowledge Explorer](https://dev.to/pulkitgovrani/learnsync-a-unified-knowledge-explorer-322k)
+- [Test title](https://dev.to/hiagoscierry/test-title-149h)
+- [Clipper: Orchestrating Amazon Q with Algolia MCP for Read-Later Link Management](https://dev.to/ykimura/clipper-orchestrating-amazon-q-with-algolia-mcp-for-read-later-link-management-40oi)
 <!-- BLOG-POST-LIST:END -->
 
 
