@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter V10: Utilizando PostgreSQL como Gateway de Mensagens Leve](https://dev.to/actor-dev/brighter-v10-utilizando-postgresql-como-gateway-de-mensagens-leve-1gff)
-- [Brighter V10: Using PostgreSQL as a Lightweight Messaging Gateway](https://dev.to/actor-dev/brighter-v10-using-postgresql-as-a-lightweight-messaging-gateway-3747)
-- [How can Developers 💪help💪 or 💥hurt💥 the Daily Scrum?](https://dev.to/starkmapper/how-can-developers-help-or-hurt-the-daily-scrum-4knp)
-- [7 Image Conversion Mistakes That Are Killing Your App Performance &lpar;And How to Fix Them&rpar;](https://dev.to/hardik_b2d8f0bca/7-image-conversion-mistakes-that-are-killing-your-app-performance-and-how-to-fix-them-1lgd)
+- [Best Practices for Overcoming SIEM Integration and Security Challenges](https://dev.to/kapusto/best-practices-for-overcoming-siem-integration-and-security-challenges-531l)
+- [So Cool!](https://dev.to/assosam_ocr/so-cool-11ka)
+- [3487. Maximum Unique Subarray Sum After Deletion](https://dev.to/mdarifulhaque/3487-maximum-unique-subarray-sum-after-deletion-5d7g)
+- [Introduction to Grafana Cloud &amp; Account Creation](https://dev.to/srinivasuluparanduru/introduction-to-grafana-cloud-account-creation-514)
 <!-- BLOG-POST-LIST:END -->
 
 
