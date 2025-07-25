@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making blockchain data sane with smarter tools](https://dev.to/rocknblock/making-blockchain-data-sane-with-smarter-tools-3e7a)
-- [Compilation and Execution of Static and Instance Members in C# &lpar;article&rpar;](https://dev.to/eylifyucel/compilation-and-execution-of-static-and-instance-members-in-c-article-fgf)
-- [Find out max and min value in array](https://dev.to/flevia/find-out-max-and-min-value-in-array-1606)
-- [Padrões de Commits &lpar;Commit Patterns&rpar;](https://dev.to/doccaio/padroes-de-commits-commit-patterns-356p)
+- [Building a Modern Image Pipeline: From Upload to Optimization in 2025](https://dev.to/hardik_b2d8f0bca/building-a-modern-image-pipeline-from-upload-to-optimization-in-2025-219j)
+- [Filtering Lines with `grep` in Helix Editor](https://dev.to/gokayburuc/filtering-lines-with-grep-in-helix-editor-pnb)
+- [Why Go’s Simplicity Is Its Greatest Engineering Strength](https://dev.to/xinjie_zou_d67d2805538130/why-gos-simplicity-is-its-greatest-engineering-strength-33k)
+- [Your Money, Their Syntax: How LLMs Write Trust into Empty Crypto Promises](https://dev.to/agustin_v_startari/your-money-their-syntax-how-llms-write-trust-into-empty-crypto-promises-4bdg)
 <!-- BLOG-POST-LIST:END -->
 
 
