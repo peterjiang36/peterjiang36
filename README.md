@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zeigarnik Effect &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/zeigarnik-effect-bite-size-article-4mh1)
-- [CSS Transforms and Transitions: Bringing Motion to the Web](https://dev.to/maximlogunov/css-transforms-and-transitions-bringing-motion-to-the-web-oji)
-- [VoiceFlow Pro - AI-Powered Business Process Discovery &amp; Automation Voice Agent](https://dev.to/poowagg/voiceflow-pro-ai-powered-business-process-discovery-automation-voice-agent-2m5k)
-- [no code](https://dev.to/john_stonecypher_7e4dec76/no-code-2955)
+- [Here comes the troll &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656)
+- [Behind the Scenes of Microservices: Load Balancers &amp; API Gateways Explained](https://dev.to/omkarsharma2821/behind-the-scenes-of-microservices-load-balancers-api-gateways-explained-2cce)
+- [Build a Microservice to Monitor SSL](https://dev.to/ivanrochacardoso/build-a-microservice-to-monitor-ssl-1af)
+- [Merge 2 Sorted LinkedLists!](https://dev.to/spiderbird/merge-2-sorted-linkedlists-2414)
 <!-- BLOG-POST-LIST:END -->
 
 
