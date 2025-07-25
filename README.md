@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Skimming Documentation](https://dev.to/kurealnum/stop-skimming-documentation-mbk)
-- [Massgrave Activation Scripts Deep Dive Origin Technology and Usage Guide](https://dev.to/windows11key/massgrave-activation-scripts-deep-dive-origin-technology-and-usage-guide-2oeb)
-- [How AI is Changing Mobile and Web Apps?](https://dev.to/alberthiltonn/how-ai-is-changing-mobile-and-web-apps-2e43)
-- [🚀 Amazon S3 Adds Native Vector Search — A Game-Changer for GenAI Builders &lpar;Especially Students&rpar;](https://dev.to/im_vishal_7f385279556073/amazon-s3-adds-native-vector-search-a-game-changer-for-genai-builders-especially-students-45mf)
+- [How to build better AI apps in React with MediaPipe’s latest APIs](https://dev.to/logrocket/how-to-build-better-ai-apps-in-react-with-mediapipes-latest-apis-8e3)
+- [Project of the Week: Clerk](https://dev.to/pullflow/project-of-the-week-clerk-cl8)
+- [Stop Saying &quot;It Just Works.&quot; Save Your Credibility as a Senior and Say This Instead](https://dev.to/medunes/stop-saying-it-just-works-save-your-credibility-as-a-senior-and-say-this-instead-1cpm)
+- [Frontend Challenge: Office Edition sponsored by Axero, Holistic Webdev: Office Space](https://dev.to/abualiy/frontend-challenge-office-edition-sponsored-by-axero-holistic-webdev-office-space-381l)
 <!-- BLOG-POST-LIST:END -->
 
 
