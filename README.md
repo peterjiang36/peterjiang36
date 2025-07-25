@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a High-Traffic Free Calculators Website Using ChatGPT &amp; AI — And Turned It Into Revenue](https://dev.to/freecalculator/how-i-built-a-high-traffic-free-calculators-website-using-chatgpt-ai-and-turned-it-into-revenue-3idd)
 - [MicroVMs Over Containers: A Safer Execution Path for AI Agents](https://dev.to/om_shree_0709/microvms-over-containers-a-safer-execution-path-for-ai-agents-3clj)
 - [Unveiling the Secrets of Your Data: A Deep Dive into Descriptive Statistics](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-secrets-of-your-data-a-deep-dive-into-descriptive-statistics-4hh4)
-- [🚀 Starting my journey to master Kotlin!](https://dev.to/hitesh_motsra/starting-my-journey-to-master-kotlin-57ki)
-- [Bolt.new top 50 AI driven app builders &lpar;until 51 go live&rpar;](https://dev.to/derrick_meredith_0ce6fc8b/boltnew-top-50-ai-driven-app-builders-until-51-go-live-2b4p)
+- [Nuxt 4: EASY Starting Fresh with a New Project &lpar;Not Upgrading from Nuxt 3&rpar;](https://dev.to/mikixit/nuxt-4-easy-starting-fresh-with-a-new-project-not-upgrading-from-nuxt-3-3fnc)
 <!-- BLOG-POST-LIST:END -->
 
 
