@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Elegant Middleware Architecture Implementation&lpar;4257&rpar;](https://dev.to/member_8c78b76f/elegant-middleware-architecture-implementation4257-50pf)
-- [Title: Making the Big Move to the U.K.: Should I Invest My $30K Savings or Pay Down My Mortgage?](https://dev.to/yagyaraj_sharma_6cd410179/title-making-the-big-move-to-the-uk-should-i-invest-my-30k-savings-or-pay-down-my-mortgage-2m1i)
-- [I Built an Tool to AI Agent Testing](https://dev.to/lfrichter/i-built-an-tool-to-ai-agent-testing-3co8)
-- [High-Performance Routing System Design and Implementation&lpar;9420&rpar;](https://dev.to/member_8c78b76f/high-performance-routing-system-design-and-implementation9420-24l3)
+- [MicroVMs Over Containers: A Safer Execution Path for AI Agents](https://dev.to/om_shree_0709/microvms-over-containers-a-safer-execution-path-for-ai-agents-3clj)
+- [Unveiling the Secrets of Your Data: A Deep Dive into Descriptive Statistics](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-secrets-of-your-data-a-deep-dive-into-descriptive-statistics-4hh4)
+- [🚀 Starting my journey to master Kotlin!](https://dev.to/hitesh_motsra/starting-my-journey-to-master-kotlin-57ki)
+- [Bolt.new top 50 AI driven app builders &lpar;until 51 go live&rpar;](https://dev.to/derrick_meredith_0ce6fc8b/boltnew-top-50-ai-driven-app-builders-until-51-go-live-2b4p)
 <!-- BLOG-POST-LIST:END -->
 
 
