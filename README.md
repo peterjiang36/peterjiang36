@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a High-Traffic Free Calculators Website Using ChatGPT &amp; AI — And Turned It Into Revenue](https://dev.to/freecalculator/how-i-built-a-high-traffic-free-calculators-website-using-chatgpt-ai-and-turned-it-into-revenue-3idd)
-- [MicroVMs Over Containers: A Safer Execution Path for AI Agents](https://dev.to/om_shree_0709/microvms-over-containers-a-safer-execution-path-for-ai-agents-3clj)
-- [Unveiling the Secrets of Your Data: A Deep Dive into Descriptive Statistics](https://dev.to/dev_patel_35864ca1db6093c/unveiling-the-secrets-of-your-data-a-deep-dive-into-descriptive-statistics-4hh4)
-- [Nuxt 4: EASY Starting Fresh with a New Project &lpar;Not Upgrading from Nuxt 3&rpar;](https://dev.to/mikixit/nuxt-4-easy-starting-fresh-with-a-new-project-not-upgrading-from-nuxt-3-3fnc)
+- [Is Qwen3-MT the Game-Changing Translation Model We&#39;ve Been Waiting For?](https://dev.to/ashinno/is-qwen3-mt-the-game-changing-translation-model-weve-been-waiting-for-1k2m)
+- [NeuroStream - Real-Time Brain-Computer Interface Analytics Platform](https://dev.to/poowagg/neurostream-real-time-brain-computer-interface-analytics-platform-4o3g)
+- [Is it worth taking HashiCorp&#39;s Terraform Associate exam?](https://dev.to/smgestupa/is-it-worth-taking-hashicorps-terraform-associate-exam-4n2i)
+- [⚡ Optimize Like a Pro: Memoization, Suspense, and Beyond](https://dev.to/manukumar07/optimize-like-a-pro-memoization-suspense-and-beyond-4209)
 <!-- BLOG-POST-LIST:END -->
 
 
