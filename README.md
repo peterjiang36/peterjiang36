@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging MATLAB Scripts Like a Pro: Common Mistakes and How to Fix Them](https://dev.to/dumboprogrammer/debugging-matlab-scripts-like-a-pro-common-mistakes-and-how-to-fix-them-1on)
-- [Day 3 of My React Journey: Why Hooks Exist + Built a Counter App with useState](https://dev.to/usman_butt_dev/day-3-of-my-react-journey-why-hooks-exist-built-a-counter-app-with-usestate-19oj)
-- [Top 5 Python Libraries Every Control Engineer Should Know](https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl)
-- [How Engineers Can Use MATLAB and Python Together: A Programmer’s Guide](https://dev.to/dumboprogrammer/how-engineers-can-use-matlab-and-python-together-a-programmers-guide-h2)
+- [Zeigarnik Effect &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/zeigarnik-effect-bite-size-article-4mh1)
+- [CSS Transforms and Transitions: Bringing Motion to the Web](https://dev.to/maximlogunov/css-transforms-and-transitions-bringing-motion-to-the-web-oji)
+- [VoiceFlow Pro - AI-Powered Business Process Discovery &amp; Automation Voice Agent](https://dev.to/poowagg/voiceflow-pro-ai-powered-business-process-discovery-automation-voice-agent-2m5k)
+- [no code](https://dev.to/john_stonecypher_7e4dec76/no-code-2955)
 <!-- BLOG-POST-LIST:END -->
 
 
