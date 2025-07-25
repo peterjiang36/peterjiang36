@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build better AI apps in React with MediaPipe’s latest APIs](https://dev.to/logrocket/how-to-build-better-ai-apps-in-react-with-mediapipes-latest-apis-8e3)
-- [Project of the Week: Clerk](https://dev.to/pullflow/project-of-the-week-clerk-cl8)
-- [Stop Saying &quot;It Just Works.&quot; Save Your Credibility as a Senior and Say This Instead](https://dev.to/medunes/stop-saying-it-just-works-save-your-credibility-as-a-senior-and-say-this-instead-1cpm)
-- [Frontend Challenge: Office Edition sponsored by Axero, Holistic Webdev: Office Space](https://dev.to/abualiy/frontend-challenge-office-edition-sponsored-by-axero-holistic-webdev-office-space-381l)
+- [🎓 KnowledgeHut — Learn Tech Skills that Get You Job-Ready, Fast](https://dev.to/ml318097/knowledgehut-learn-tech-skills-that-get-you-job-ready-fast-mh6)
+- [SoloStack: The Toolkit for Solo Founders &lpar;Share Your Story with Us&rpar;](https://dev.to/yash_man/solostack-the-toolkit-for-solo-founders-share-your-story-with-us-40kf)
+- [Overriding in Java](https://dev.to/sundar_joseph_94059a3e7a6/overriding-in-java-l7f)
+- [On my way to Master ASP.Net Core](https://dev.to/abdullahhh/on-my-way-to-master-aspnet-core-2gci)
 <!-- BLOG-POST-LIST:END -->
 
 
