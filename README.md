@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Trained a CycleGAN Model for Real ↔ Painting Image Style Transfer Using PyTorch](https://dev.to/hitendraa/trained-a-cyclegan-model-for-real-painting-image-style-transfer-using-pytorch-bfo)
+- [What Are the Basic Tools for Software Development?](https://dev.to/cloudestersoftware/what-are-the-basic-tools-for-software-development-2coi)
+- [[Boost]](https://dev.to/wimadev/-1bec)
 - [Vibe Coding: Why You Shouldn&#39;t Trust AI-Generated Code in Production](https://dev.to/brnmzzz/vibe-coding-why-you-shouldnt-trust-ai-generated-code-in-production-1iak)
-- [Breaking Down Epics into Actionable User Stories: A Step-by-Step Guide](https://dev.to/dct_technology/breaking-down-epics-into-actionable-user-stories-a-step-by-step-guide-4o2j)
-- [AI: No longer an exception. It is the norm.](https://dev.to/urbanisierung/ai-no-longer-an-exception-it-is-the-norm-99b)
-- [The 10 Best Context Engineering Open Source Projects in 2025](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94)
 <!-- BLOG-POST-LIST:END -->
 
 
