@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Team Collaboration Made Easy: 8 Strategies for Better Results](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
-- [Precision Engineering in Lithography: Behind the Semiconductor Machines](https://dev.to/aleemalrazeetonoy/precision-engineering-in-lithography-behind-the-semiconductor-machines-2cg6)
-- [What I Wish I Knew Earlier About Clean Architecture &lpar;from a PHP/Laravel Dev&rpar;](https://dev.to/emimaldo/what-i-wish-i-knew-earlier-about-clean-architecture-from-a-phplaravel-dev-5hn6)
-- [As Heurísticas de Nielsen](https://dev.to/edalves/as-heuristicas-de-nielsen-41p0)
+- [Hybrid Intrane -Modern PWA Dashboard](https://dev.to/paulo_abbcba03b4df70572fc/hybrid-intrane-modern-pwa-dashboard-4e08)
+- [Between Doing and Doing Well: A Quest for Effectiveness and Excellence](https://dev.to/gstxxx/between-doing-and-doing-well-a-quest-for-effectiveness-and-excellence-j78)
+- [Novalink System](https://dev.to/melody_kelly_n/novalink-system-jc2)
+- [Remote Team Collaboration Made Easy](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
 <!-- BLOG-POST-LIST:END -->
 
 
