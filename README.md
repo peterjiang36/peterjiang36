@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Servers That I Use as a Technical Founder](https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6)
-- [Integrated Circuits: How Tiny Chips Power Modern Electronics](https://dev.to/frank_1871bc3c55f35370df3/integrated-circuits-how-tiny-chips-power-modern-electronics-be0)
-- [Desvendando a Hierarquia de Títulos HTML: Fundamentos, Semântica e Melhores Práticas](https://dev.to/edalves/desvendando-a-hierarquia-de-titulos-html-fundamentos-semantica-e-melhores-praticas-5gcp)
-- [Who Built It? How Proof of Attribution Gives Credit Where It’s Due?](https://dev.to/joinwithken/who-built-it-how-proof-of-attribution-gives-credit-where-its-due-14ee)
+- [Holistic Webdev: Office Space](https://dev.to/aditya_007/holistic-webdev-office-space-32gg)
+- [[Boost]](https://dev.to/pouyanjazini/-58g7)
+- [DEV Frontend Challenge](https://dev.to/aws_1_27d6cbc9e944aa228ef/dev-frontend-challenge-2321)
+- [Revenue Sharing Model: A Powerful Marketing Strategy for Token Presales](https://dev.to/marksantiago02/revenue-sharing-model-a-powerful-marketing-strategy-for-token-presales-3k48)
 <!-- BLOG-POST-LIST:END -->
 
 
