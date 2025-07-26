@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Node.js app anywhere with TurboCloud](https://dev.to/turbocloud_dev/deploy-nodejs-app-anywhere-with-turbocloud-2pji)
-- [Um...... I don&#39;t know what to do with my hands.](https://dev.to/duck13/um-i-dont-know-what-to-do-with-my-hands-24o8)
-- [The Rise of No-Code and Low-Code Platforms: How They’re Disrupting Web Development and Empowering Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-rise-of-no-code-and-low-code-platforms-how-theyre-disrupting-web-development-and-empowering-3mbe)
-- [How I Built My Job-Ready Developer Resume with Real Projects &lpar;And Why You Should Too&rpar;🤯](https://dev.to/robertthomas/how-i-built-my-job-ready-developer-resume-with-real-projects-and-why-you-should-too-1mkh)
+- [Locally Weighted Linear Regression: When One Line Isn&#39;t Enough &lpar;and Why It&#39;s Non-Parametric!&rpar; ✨🗺️](https://dev.to/randhir_kumar_6ccab967a14/locally-weighted-linear-regression-when-one-line-isnt-enough-and-why-its-non-parametric-3kca)
+- [🔄 Introducing Galus: A Lightweight and Blazing-Fast Live Reload Tool for Go Developers](https://dev.to/aliftech/introducing-galus-a-lightweight-and-blazing-fast-live-reload-tool-for-go-developers-1glg)
+- [Code Splitting, Dynamic Imports &amp; Bundle Analysis](https://dev.to/maurya-sachin/code-splitting-dynamic-imports-bundle-analysis-3an2)
+- [How Do Great Developers Manage Their Time Without Using 10 Different Tools?](https://dev.to/pratham_naik_project_manager/how-do-great-developers-manage-their-time-without-using-10-different-tools-35a5)
 <!-- BLOG-POST-LIST:END -->
 
 
