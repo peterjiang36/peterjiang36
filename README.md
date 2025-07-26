@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Evaluation-as-a-Service &lpar;EaaS&rpar;: Is It the Future of AI Testing?](https://dev.to/anil_csimplifyit_905c/the-rise-of-evaluation-as-a-service-eaas-is-it-the-future-of-ai-testing-2i9l)
-- [Setting up AWS Client VPN with CloudFormation and AWS CLI](https://dev.to/aws-builders/setting-up-aws-client-vpn-with-cloudformation-and-aws-cli-1nnf)
-- [🧠 talk2browser – Browser automation with everyday Language &lpar;Powered by LangGraph&rpar;](https://dev.to/thusharaj/talk2browser-browser-automation-with-everyday-language-powered-by-langgraph-4nd4)
-- [Scaling in Microservices Architecture: Vertical vs Horizontal](https://dev.to/siswoyo/scaling-in-microservices-architecture-vertical-vs-horizontal-37ma)
+- [Creating a Secure Subnet for FTP Traffic in Azure — My First Network Task](https://dev.to/peter_samuel_052b9056e236/creating-a-secure-subnet-for-ftp-traffic-in-azure-my-first-network-task-2o6f)
+- [The Hidden Challenge of Contradictory Requirements in Development Projects](https://dev.to/accioprocurement/the-hidden-challenge-of-contradictory-requirements-in-development-projects-109f)
+- [Spring Boot Server Admin](https://dev.to/said_olano/spring-boot-server-admin-5f40)
+- [Best React Native Icon Libraries in 2025](https://dev.to/masumparvej/best-react-native-icon-libraries-in-2025-55m5)
 <!-- BLOG-POST-LIST:END -->
 
 
