@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Holistic Webdev: Office Space](https://dev.to/aditya_007/holistic-webdev-office-space-32gg)
-- [[Boost]](https://dev.to/pouyanjazini/-58g7)
-- [DEV Frontend Challenge](https://dev.to/aws_1_27d6cbc9e944aa228ef/dev-frontend-challenge-2321)
-- [Revenue Sharing Model: A Powerful Marketing Strategy for Token Presales](https://dev.to/marksantiago02/revenue-sharing-model-a-powerful-marketing-strategy-for-token-presales-3k48)
+- [🔀 Maintaining a Linear Commit History in Git](https://dev.to/rashidpbi/maintaining-a-linear-commit-history-in-git-4gff)
+- [Introducing Bluebox: A Free Cloud Storage Built for Developers, by Developers](https://dev.to/alagba/introducing-bluebox-a-free-cloud-storage-built-for-developers-by-developers-4iba)
+- [Setting Up a Firewall with Ansible and UFW](https://dev.to/lovestaco/setting-up-a-firewall-with-ansible-and-ufw-3p9j)
+- [Build Easy to Use CLIs in Python with Click](https://dev.to/shrsv/build-easy-to-use-clis-in-python-with-click-23ah)
 <!-- BLOG-POST-LIST:END -->
 
 
