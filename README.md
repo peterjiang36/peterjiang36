@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compilers and How They Work](https://dev.to/mohanseetha/compilers-and-how-they-work-4ol9)
-- [AlgorithmO #11 — Решето на Ератостен](https://dev.to/dvt32/algorithmo-11-rieshieto-na-ieratostien-79a)
-- [Networking Series 1: Build a Virtual Private Cloud](https://dev.to/maven_h/networking-series-1-build-a-virtual-private-cloud-1lpl)
-- [10 Open Source Tools To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/10-open-source-tools-to-become-the-ultimate-developer-3jph)
+- [Understanding Browser Networking: CORS, Connections, and Security](https://dev.to/timmydee/understanding-browser-networking-cors-connections-and-security-54n)
+- [How Hybrid Testing Teams Balance Manual and Automation Seamlessly](https://dev.to/david_786/how-hybrid-testing-teams-balance-manual-and-automation-seamlessly-2g17)
+- [3 Microservices, 1 YAML File, 1 Command: The Power of Docker Compose](https://dev.to/sovannaro/3-microservices-1-yaml-file-1-command-the-power-of-docker-compose-p9)
+- [Inheritance in Java ;](https://dev.to/sundar_joseph_94059a3e7a6/inheritance-in-java--2bhj)
 <!-- BLOG-POST-LIST:END -->
 
 
