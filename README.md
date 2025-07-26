@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔀 Maintaining a Linear Commit History in Git](https://dev.to/rashidpbi/maintaining-a-linear-commit-history-in-git-4gff)
-- [Introducing Bluebox: A Free Cloud Storage Built for Developers, by Developers](https://dev.to/alagba/introducing-bluebox-a-free-cloud-storage-built-for-developers-by-developers-4iba)
-- [Setting Up a Firewall with Ansible and UFW](https://dev.to/lovestaco/setting-up-a-firewall-with-ansible-and-ufw-3p9j)
-- [Build Easy to Use CLIs in Python with Click](https://dev.to/shrsv/build-easy-to-use-clis-in-python-with-click-23ah)
+- [Remote Team Collaboration Made Easy: 8 Strategies for Better Results](https://dev.to/anuragbhagsain/remote-team-collaboration-made-easy-8-strategies-for-better-results-3ga)
+- [Precision Engineering in Lithography: Behind the Semiconductor Machines](https://dev.to/aleemalrazeetonoy/precision-engineering-in-lithography-behind-the-semiconductor-machines-2cg6)
+- [What I Wish I Knew Earlier About Clean Architecture &lpar;from a PHP/Laravel Dev&rpar;](https://dev.to/emimaldo/what-i-wish-i-knew-earlier-about-clean-architecture-from-a-phplaravel-dev-5hn6)
+- [As Heurísticas de Nielsen](https://dev.to/edalves/as-heuristicas-de-nielsen-41p0)
 <!-- BLOG-POST-LIST:END -->
 
 
