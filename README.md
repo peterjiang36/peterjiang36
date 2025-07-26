@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Multiple Columns: Build Layouts Like a Magazine](https://dev.to/er-raj-aryan/css-multiple-columns-build-layouts-like-a-magazine-5c04)
-- [Skeleton loading with dynamic search results from API response](https://dev.to/alejandrobovino/skeleton-loading-with-dynamic-search-results-from-api-response-2cmm)
-- [From Cajon Jams to Code: Learning m3u8 and Subtitles with My Kids](https://dev.to/shinya_yoshida_640f423ef2/from-cajon-jams-to-code-learning-m3u8-and-subtitles-with-my-kids-1k78)
-- [Building Developer Tools for Context Engineering: What Manus Taught Us and What We&#39;re Building](https://dev.to/contextspace_/building-developer-tools-for-context-engineering-what-manus-taught-us-and-what-were-building-23pn)
+- [Top 8 React Component Libraries You Should Know](https://dev.to/devshefali/top-8-react-component-libraries-you-should-know-d7e)
+- [I proved ChatGPT wrong for the first time!](https://dev.to/vishal_narayan_75221d21cc/i-proved-chatgpt-wrong-for-the-first-time-4i54)
+- [Tube Magic Alternative That Actually Delivers: Why I Switched to Pictory AI](https://dev.to/aidencarter55/tube-magic-alternative-that-actually-delivers-why-i-switched-to-pictory-ai-17ld)
+- [Module 3: Testing Framework - Quality Assurance with Bazel](https://dev.to/sushilbaligar/module-3-testing-framework-quality-assurance-with-bazel-2056)
 <!-- BLOG-POST-LIST:END -->
 
 
