@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built Zero-Knowledge Encryption in the Browser &lpar;So We Can&#39;t Read Your Notes&rpar;](https://dev.to/typelets/how-we-built-zero-knowledge-encryption-in-the-browser-so-we-cant-read-your-notes-3c7a)
-- [Late Night Work #20](https://dev.to/0xj0n1/late-night-work-20-39pe)
-- [Git Guide to Delete Old Commits and Clear Sensitive Info from Git History](https://dev.to/chefgs/git-guide-to-delete-old-commits-and-clear-sensitive-files-from-git-history-4l71)
-- [the easiest dark mode for beginners](https://dev.to/amr2010m/the-easiest-dark-mode-for-beginners-a1j)
+- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-1cgp)
+- [REST vs gRPC – When to Use What](https://dev.to/yash007_95/rest-vs-grpc-when-to-use-what-18f)
+- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-4jaa)
+- [📈 Code quality improvement after switching to keyboard short](https://dev.to/igorganapolsky/code-quality-improvement-after-switching-to-keyboard-short-ip)
 <!-- BLOG-POST-LIST:END -->
 
 
