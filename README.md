@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coze 开源了！所有人都可以免费使用了](https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef)
-- [Understanding IMAP and SMTP Mail Protocols](https://dev.to/woovi/understanding-imap-and-smtp-mail-protocols-1bch)
-- [Code Quality Check with PHPStan](https://dev.to/nasrulhazim/code-quality-check-with-phpstan-4b0a)
-- [AI Recommendation Engine with Redis](https://dev.to/cliffordisaboke/ai-recommendation-engine-with-redis-4ei2)
+- [The Rise of Evaluation-as-a-Service &lpar;EaaS&rpar;: Is It the Future of AI Testing?](https://dev.to/anil_csimplifyit_905c/the-rise-of-evaluation-as-a-service-eaas-is-it-the-future-of-ai-testing-2i9l)
+- [Setting up AWS Client VPN with CloudFormation and AWS CLI](https://dev.to/aws-builders/setting-up-aws-client-vpn-with-cloudformation-and-aws-cli-1nnf)
+- [🧠 talk2browser – Browser automation with everyday Language &lpar;Powered by LangGraph&rpar;](https://dev.to/thusharaj/talk2browser-browser-automation-with-everyday-language-powered-by-langgraph-4nd4)
+- [Scaling in Microservices Architecture: Vertical vs Horizontal](https://dev.to/siswoyo/scaling-in-microservices-architecture-vertical-vs-horizontal-37ma)
 <!-- BLOG-POST-LIST:END -->
 
 
