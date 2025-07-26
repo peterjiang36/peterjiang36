@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Blueprint &amp; Borders: How My Unconventional Journey Fuels My Data Science Drive &lpar;From DH to Welder to Dev&rpar; 🚀🇵🇭](https://dev.to/cottoncandy1217/beyond-the-blueprint-borders-how-my-unconventional-journey-fuels-my-data-science-drive-from-dh-dd6)
-- [AlterLang InterCode: A Native Intercomprehension Paradigm in Programming, Powered by GuruDev](https://dev.to/guilhermemachadoceo/alterlang-intercode-a-native-intercomprehension-paradigm-in-programming-powered-by-gurudev-3h53)
-- [The Is Palindrome Algorithm](https://dev.to/rubenoalvarado/the-is-palindrome-algorithm-559i)
-- [Image Creator](https://dev.to/najeeaa/image-creator-4p9n)
+- [Coze 开源了！所有人都可以免费使用了](https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef)
+- [Understanding IMAP and SMTP Mail Protocols](https://dev.to/woovi/understanding-imap-and-smtp-mail-protocols-1bch)
+- [Code Quality Check with PHPStan](https://dev.to/nasrulhazim/code-quality-check-with-phpstan-4b0a)
+- [AI Recommendation Engine with Redis](https://dev.to/cliffordisaboke/ai-recommendation-engine-with-redis-4ei2)
 <!-- BLOG-POST-LIST:END -->
 
 
