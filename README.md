@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Browser Networking: CORS, Connections, and Security](https://dev.to/timmydee/understanding-browser-networking-cors-connections-and-security-54n)
-- [How Hybrid Testing Teams Balance Manual and Automation Seamlessly](https://dev.to/david_786/how-hybrid-testing-teams-balance-manual-and-automation-seamlessly-2g17)
-- [3 Microservices, 1 YAML File, 1 Command: The Power of Docker Compose](https://dev.to/sovannaro/3-microservices-1-yaml-file-1-command-the-power-of-docker-compose-p9)
-- [Inheritance in Java ;](https://dev.to/sundar_joseph_94059a3e7a6/inheritance-in-java--2bhj)
+- [Making React Apps Delightful with Confetti Effects](https://dev.to/dangote/making-react-apps-delightful-with-confetti-effects-1ag5)
+- [From Frustration to Innovation: How Building a Dyslexia-Friendly Worksheet Creator Changed Everything](https://dev.to/gabbardumps/from-frustration-to-innovation-how-building-a-dyslexia-friendly-worksheet-creator-changed-mh8)
+- [How I Built a Full Quiz App with Leaderboard and Timer](https://dev.to/ritish_saini_94e2916cfeab/how-i-built-a-full-quiz-app-with-leaderboard-and-timer-2m82)
+- [Using Phlex helps me be a better programmer](https://dev.to/janmpeterka/using-phlex-helps-me-be-a-better-programmer-16ce)
 <!-- BLOG-POST-LIST:END -->
 
 
