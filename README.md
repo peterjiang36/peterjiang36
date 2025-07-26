@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-1cgp)
-- [REST vs gRPC – When to Use What](https://dev.to/yash007_95/rest-vs-grpc-when-to-use-what-18f)
-- [Claude Code Debugging Magic](https://dev.to/igorganapolsky/claude-code-debugging-magic-4jaa)
-- [📈 Code quality improvement after switching to keyboard short](https://dev.to/igorganapolsky/code-quality-improvement-after-switching-to-keyboard-short-ip)
+- [💎 Hidden Claude Code feature 90% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-90-of-devs-miss-2ph8)
+- [UI Improvements Pt. 1](https://dev.to/macglencoe/ui-improvements-pt-1-114n)
+- [💎 Hidden Claude Code feature 95% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-95-of-devs-miss-p39)
+- [🧑‍⚕️CareSetu AI: Instant Appointments, Intelligent Health Advice, and 24/7 Support Through Voice](https://dev.to/saket_jha_a89aca5daba5e8c/caresetu-ai-instant-appointments-intelligent-health-advice-and-247-support-through-voice-4o8a)
 <!-- BLOG-POST-LIST:END -->
 
 
