@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sostenibilidad no es solo una etiqueta es ventaja competitiva y sostenible. Arquitectos, diseñadores tenemos una gran responsabilidad nuestras decisiones afectan no solo el diseño la seguridad, también la economía y el ambiente](https://dev.to/dcastrocordero22/sostenibilidad-no-es-solo-una-etiqueta-es-ventaja-competitiva-y-sostenible-arquitectos-3jm3)
-- [Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF](https://dev.to/aws-builders/rumbo-aws-certified-security-specialty-bitacora-de-vuelo-de-una-builder-asff-ac1)
-- [Post-Hackathon Blue Is Real😔](https://dev.to/yanleong1027/post-hackathon-blue-is-real-3dbp)
-- [What Traffic Lights Can Teach Us About Computer Deadlocks](https://dev.to/djunehor/what-traffic-lights-can-teach-us-about-computer-deadlocks-19ok)
+- [Beyond the Blueprint &amp; Borders: How My Unconventional Journey Fuels My Data Science Drive &lpar;From DH to Welder to Dev&rpar; 🚀🇵🇭](https://dev.to/cottoncandy1217/beyond-the-blueprint-borders-how-my-unconventional-journey-fuels-my-data-science-drive-from-dh-dd6)
+- [AlterLang InterCode: A Native Intercomprehension Paradigm in Programming, Powered by GuruDev](https://dev.to/guilhermemachadoceo/alterlang-intercode-a-native-intercomprehension-paradigm-in-programming-powered-by-gurudev-3h53)
+- [The Is Palindrome Algorithm](https://dev.to/rubenoalvarado/the-is-palindrome-algorithm-559i)
+- [Image Creator](https://dev.to/najeeaa/image-creator-4p9n)
 <!-- BLOG-POST-LIST:END -->
 
 
