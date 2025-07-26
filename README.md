@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 25th July 2025](https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5)
-- [LearnSync – A Unified Knowledge Explorer](https://dev.to/pulkitgovrani/learnsync-a-unified-knowledge-explorer-322k)
-- [Test title](https://dev.to/hiagoscierry/test-title-149h)
-- [Clipper: Orchestrating Amazon Q with Algolia MCP for Read-Later Link Management](https://dev.to/ykimura/clipper-orchestrating-amazon-q-with-algolia-mcp-for-read-later-link-management-40oi)
+- [Sostenibilidad no es solo una etiqueta es ventaja competitiva y sostenible. Arquitectos, diseñadores tenemos una gran responsabilidad nuestras decisiones afectan no solo el diseño la seguridad, también la economía y el ambiente](https://dev.to/dcastrocordero22/sostenibilidad-no-es-solo-una-etiqueta-es-ventaja-competitiva-y-sostenible-arquitectos-3jm3)
+- [Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF](https://dev.to/aws-builders/rumbo-aws-certified-security-specialty-bitacora-de-vuelo-de-una-builder-asff-ac1)
+- [Post-Hackathon Blue Is Real😔](https://dev.to/yanleong1027/post-hackathon-blue-is-real-3dbp)
+- [What Traffic Lights Can Teach Us About Computer Deadlocks](https://dev.to/djunehor/what-traffic-lights-can-teach-us-about-computer-deadlocks-19ok)
 <!-- BLOG-POST-LIST:END -->
 
 
