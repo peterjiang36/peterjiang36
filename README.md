@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making React Apps Delightful with Confetti Effects](https://dev.to/dangote/making-react-apps-delightful-with-confetti-effects-1ag5)
-- [From Frustration to Innovation: How Building a Dyslexia-Friendly Worksheet Creator Changed Everything](https://dev.to/gabbardumps/from-frustration-to-innovation-how-building-a-dyslexia-friendly-worksheet-creator-changed-mh8)
-- [How I Built a Full Quiz App with Leaderboard and Timer](https://dev.to/ritish_saini_94e2916cfeab/how-i-built-a-full-quiz-app-with-leaderboard-and-timer-2m82)
-- [Using Phlex helps me be a better programmer](https://dev.to/janmpeterka/using-phlex-helps-me-be-a-better-programmer-16ce)
+- [How to Set Up a Next.js Project with TypeScript and Tailwind CSS](https://dev.to/rhythmsaha/how-to-set-up-a-nextjs-project-with-typescript-and-tailwind-css-2hk7)
+- [RealtimeAI Assistant - Voice-Powered Semantic Search with Redis Vector Engine](https://dev.to/ariondev/realtimeai-assistant-voice-powered-semantic-search-with-redis-vector-engine-2k7d)
+- [🧠 AI-Powered Quote Finder – Discover the Wisdom of Your Favorite Characters](https://dev.to/imkarthikeyan/ai-powered-quote-finder-discover-the-wisdom-of-your-favorite-characters-k68)
+- [Python Trending Weekly #112: Welcoming the New Generation of AI-Era Programmers](https://dev.to/pythoncat/python-trending-weekly-112-welcoming-the-new-generation-of-ai-era-programmers-1ig4)
 <!-- BLOG-POST-LIST:END -->
 
 
