@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Polymath Tool for All Your Audio and Document Needs](https://dev.to/watninja68/the-polymath-tool-for-all-your-audio-and-document-needs-1ej)
-- [🐳 Docker Multi-Stage Build - Complete Documentation](https://dev.to/dpvasani56/docker-multi-stage-build-complete-documentation-4990)
-- [Notes &amp; Cheatsheet: “Dockerizing an App – CKA Series #2”](https://dev.to/dpvasani56/notes-cheatsheet-dockerizing-an-app-cka-series-2-mo6)
-- [Beyond Git: Tools That Make Senior Developers Insanely Productive](https://dev.to/dct_technology/beyond-git-tools-that-make-senior-developers-insanely-productive-1d6m)
+- [Deploy Node.js app anywhere with TurboCloud](https://dev.to/turbocloud_dev/deploy-nodejs-app-anywhere-with-turbocloud-2pji)
+- [Um...... I don&#39;t know what to do with my hands.](https://dev.to/duck13/um-i-dont-know-what-to-do-with-my-hands-24o8)
+- [The Rise of No-Code and Low-Code Platforms: How They’re Disrupting Web Development and Empowering Everyone](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-rise-of-no-code-and-low-code-platforms-how-theyre-disrupting-web-development-and-empowering-3mbe)
+- [How I Built My Job-Ready Developer Resume with Real Projects &lpar;And Why You Should Too&rpar;🤯](https://dev.to/robertthomas/how-i-built-my-job-ready-developer-resume-with-real-projects-and-why-you-should-too-1mkh)
 <!-- BLOG-POST-LIST:END -->
 
 
