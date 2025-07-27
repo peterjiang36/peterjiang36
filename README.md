@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎫 Awesome self-hosted discord ticket bots &lpar;2025&rpar;](https://dev.to/djj123dj/awesome-self-hosted-discord-ticket-bots-2025-568h)
-- [How &amp; why I created a UI component library?](https://dev.to/swastikyadav/how-why-i-created-a-ui-component-library-3a1a)
-- [Bubble Sort: A JavaScript Implementation Guide](https://dev.to/tochi_/bubble-sort-a-javascript-implementation-guide-1bgj)
-- [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
+- [Quick Update: My Bookmark Extension Hits 500 Users! 🎉](https://dev.to/sheep_/quick-update-my-bookmark-extension-hits-500-users-4f86)
+- [Which is better: Healthcare Software as a Service &lpar;SaaS&rpar; or a professional license?](https://dev.to/nzcares/which-is-better-healthcare-software-as-a-service-saas-or-a-professional-license-549d)
+- [Building IntelliCV: An AI Resume Tool That Actually Helps 🚀](https://dev.to/himanshujain112/building-intellicv-an-ai-resume-tool-that-actually-helps-1n7m)
+- [MCP - The &quot;USB-C Port&quot; for AI Apps](https://dev.to/ashishsimplecoder/mcp-the-usb-c-port-for-ai-apps-22pg)
 <!-- BLOG-POST-LIST:END -->
 
 
