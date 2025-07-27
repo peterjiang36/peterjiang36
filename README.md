@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Patreon Doesn’t Show Your Total Spending. So I Did.](https://dev.to/realvorl/patreon-doesnt-show-your-total-spending-so-i-did-1bo5)
-- [AI&#39;s Bold Future in Cybersecurity Threats](https://dev.to/sebastian_reid999/ais-bold-future-in-cybersecurity-threats-ed1)
-- [CSS Inheritance](https://dev.to/anthonybanion/css-inheritance-5de2)
-- [Daily JavaScript Challenge #JS-236: Validate Parentheses Sequence](https://dev.to/dpc/daily-javascript-challenge-js-236-validate-parentheses-sequence-1p08)
+- [What is Machine Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-machine-learning-4fpe)
+- [Understanding `kube-system` in Kubernetes: A City Analogy You’ll Never Forget](https://dev.to/deekay99/understanding-kube-system-in-kubernetes-a-city-analogy-youll-never-forget-2ek7)
+- [The Rise of Adapters in the JavaScript Ecosystem](https://dev.to/the-modern-web/the-rise-of-adapters-in-the-javascript-ecosystem-2c76)
+- [Rails 8 + Bun: The New Default Stack?](https://dev.to/alex_aslam/rails-8-bun-the-new-default-stack-nin)
 <!-- BLOG-POST-LIST:END -->
 
 
