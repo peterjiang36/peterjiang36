@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients](https://dev.to/nganggurdev/how-to-set-colors-and-backgrounds-in-css-from-named-colors-to-gradients-2fgo)
-- [Your personal Blockchain tutor powered by AssemblyAI](https://dev.to/julsr_mx/your-personal-blockchain-tutor-powered-by-assemblyai-1dek)
-- [Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation](https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j)
-- [Hello, Dev Community — I’m Masum Billah &lpar;aka @billahdotdev&rpar;](https://dev.to/billahdotdev/hello-dev-community-im-masum-billah-aka-billahdotdev-5en2)
+- [How to Encrypt Files Online Securely: A Step-by-Step Guide](https://dev.to/trixsec/how-to-encrypt-files-online-securely-a-step-by-step-guide-423f)
+- [Introducing Jengo React Starter Kit – Build CI4 Apps with React &amp; Inertia.js Effortlessly](https://dev.to/gilads-otiannoh24/introducing-jengo-react-starter-kit-build-ci4-apps-with-react-inertiajs-effortlessly-p8i)
+- [Vocalize HR Screen: AI-Powered Voice Screening Agent for Professional Interviews](https://dev.to/0xrichardh/vocalize-hr-screen-ai-powered-voice-screening-agent-for-professional-interviews-gbk)
+- [Fixing Microservice Dependencies with Self-Contained Events &lpar;aka ECST&rpar;](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-dependencies-with-self-contained-events-aka-ecst-2l39)
 <!-- BLOG-POST-LIST:END -->
 
 
