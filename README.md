@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients](https://dev.to/nganggurdev/how-to-set-colors-and-backgrounds-in-css-from-named-colors-to-gradients-2fgo)
+- [Your personal Blockchain tutor powered by AssemblyAI](https://dev.to/julsr_mx/your-personal-blockchain-tutor-powered-by-assemblyai-1dek)
 - [Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation](https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j)
 - [Hello, Dev Community — I’m Masum Billah &lpar;aka @billahdotdev&rpar;](https://dev.to/billahdotdev/hello-dev-community-im-masum-billah-aka-billahdotdev-5en2)
-- [How to manage virtual machine in Azure.](https://dev.to/onyemuche/how-to-manage-virtual-machine-in-azure-1hog)
-- [Web Design for Hospitality Industry: Boost Bookings &amp; Engagement](https://dev.to/ismailco96/web-design-for-hospitality-industry-boost-bookings-engagement-33o4)
 <!-- BLOG-POST-LIST:END -->
 
 
