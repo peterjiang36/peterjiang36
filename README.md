@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Nothing: Exploring Go&#39;s Empty Struct](https://dev.to/leapcell/the-power-of-nothing-exploring-gos-empty-struct-mj3)
-- [Beginner&#39;s Guide to SQL for Data Analysis](https://dev.to/nginacloud/beginners-guide-to-sql-for-data-analysis-27lg)
-- [great use of AI!](https://dev.to/techgirl1908/great-use-of-ai-6be)
-- [AI Hiring Bias: When Technology Perpetuates Inequality](https://dev.to/nour_elabed_998c5cf6add1/ai-hiring-bias-when-technology-perpetuates-inequality-3e9n)
+- [Beyond the Code: My Hackathon Journey with MyMealMind at the World&#39;s Largest Hackathon](https://dev.to/devraiks/beyond-the-code-my-hackathon-journey-with-mymealmind-at-the-worlds-largest-hackathon-1126)
+- [🔍 What is White-Hat SEO? [2025 Guide]](https://dev.to/kashif-mukhtar/what-is-white-hat-seo-2025-guide-2ef4)
+- [The AI coding pattern spreading through engineering teams](https://dev.to/sanket_gawas_3d0381846af2/the-ai-coding-pattern-spreading-through-engineering-teams-3mfh)
+- [How I Built MyMealMind — A Full Recipe Platform in Just Weeks with Bolt](https://dev.to/devraiks/how-i-built-mymealmind-a-full-recipe-platform-in-just-weeks-with-bolt-10gh)
 <!-- BLOG-POST-LIST:END -->
 
 
