@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💎 Hidden Claude Code feature 90% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-90-of-devs-miss-2ph8)
-- [UI Improvements Pt. 1](https://dev.to/macglencoe/ui-improvements-pt-1-114n)
-- [💎 Hidden Claude Code feature 95% of devs miss:](https://dev.to/igorganapolsky/hidden-claude-code-feature-95-of-devs-miss-p39)
-- [🧑‍⚕️CareSetu AI: Instant Appointments, Intelligent Health Advice, and 24/7 Support Through Voice](https://dev.to/saket_jha_a89aca5daba5e8c/caresetu-ai-instant-appointments-intelligent-health-advice-and-247-support-through-voice-4o8a)
+- [Patreon Doesn’t Show Your Total Spending. So I Did.](https://dev.to/realvorl/patreon-doesnt-show-your-total-spending-so-i-did-1bo5)
+- [AI&#39;s Bold Future in Cybersecurity Threats](https://dev.to/sebastian_reid999/ais-bold-future-in-cybersecurity-threats-ed1)
+- [CSS Inheritance](https://dev.to/anthonybanion/css-inheritance-5de2)
+- [Daily JavaScript Challenge #JS-236: Validate Parentheses Sequence](https://dev.to/dpc/daily-javascript-challenge-js-236-validate-parentheses-sequence-1p08)
 <!-- BLOG-POST-LIST:END -->
 
 
