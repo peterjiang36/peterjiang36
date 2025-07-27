@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Long Day, Slow Progress – But Still Moving #21](https://dev.to/0xj0n1/long-day-slow-progress-but-still-moving-21-co0)
-- [Mission 8: Interview Prep Part Two](https://dev.to/theoriginalbpc/mission-8-interview-prep-part-two-2i0k)
-- [Building OfficeTeamBoard: A Modern Kanban Solution for Remote Teams](https://dev.to/ai_agi/building-officeteamboard-a-modern-kanban-solution-for-remote-teams-11ae)
-- [Building a Smart Recipe Discovery Platform with Algolia MCP Server](https://dev.to/ai_agi/building-a-smart-recipe-discovery-platform-with-algolia-mcp-server-4b70)
+- [The Power of Nothing: Exploring Go&#39;s Empty Struct](https://dev.to/leapcell/the-power-of-nothing-exploring-gos-empty-struct-mj3)
+- [Beginner&#39;s Guide to SQL for Data Analysis](https://dev.to/nginacloud/beginners-guide-to-sql-for-data-analysis-27lg)
+- [great use of AI!](https://dev.to/techgirl1908/great-use-of-ai-6be)
+- [AI Hiring Bias: When Technology Perpetuates Inequality](https://dev.to/nour_elabed_998c5cf6add1/ai-hiring-bias-when-technology-perpetuates-inequality-3e9n)
 <!-- BLOG-POST-LIST:END -->
 
 
