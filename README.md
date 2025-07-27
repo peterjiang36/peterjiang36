@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [🎫 Awesome self-hosted discord ticket bots &lpar;2025&rpar;](https://dev.to/djj123dj/awesome-self-hosted-discord-ticket-bots-2025-568h)
+- [How &amp; why I created a UI component library?](https://dev.to/swastikyadav/how-why-i-created-a-ui-component-library-3a1a)
+- [Bubble Sort: A JavaScript Implementation Guide](https://dev.to/tochi_/bubble-sort-a-javascript-implementation-guide-1bgj)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
-- [DevStash: AI-Powered Developer Knowledge Management with Algolia MCP](https://dev.to/cached_engineer/devstash-ai-powered-developer-knowledge-management-with-algolia-mcp-4n76)
-- [🚀 Real-time data isn’t just for big tech — learn how to harness it with plain, powerful SQL! ⚡ #SQL #DataEngineering #RealTime](https://dev.to/meenakshi052003/real-time-data-isnt-just-for-big-tech-learn-how-to-harness-it-with-plain-powerful-sql-sql-i3d)
-- [TypeScript &amp; Express Headaches: Lessons from A Day of Nightmare](https://dev.to/uzzy412_73/typescript-express-headaches-lessons-from-a-day-of-nightmare-2me1)
 <!-- BLOG-POST-LIST:END -->
 
 
