@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Update: My Bookmark Extension Hits 500 Users! 🎉](https://dev.to/sheep_/quick-update-my-bookmark-extension-hits-500-users-4f86)
-- [Which is better: Healthcare Software as a Service &lpar;SaaS&rpar; or a professional license?](https://dev.to/nzcares/which-is-better-healthcare-software-as-a-service-saas-or-a-professional-license-549d)
-- [Building IntelliCV: An AI Resume Tool That Actually Helps 🚀](https://dev.to/himanshujain112/building-intellicv-an-ai-resume-tool-that-actually-helps-1n7m)
-- [MCP - The &quot;USB-C Port&quot; for AI Apps](https://dev.to/ashishsimplecoder/mcp-the-usb-c-port-for-ai-apps-22pg)
+- [Why TypeScript Won &lpar;and You Should Just Give In Already&rpar;](https://dev.to/pranta/why-typescript-won-and-you-should-just-give-in-already-49k4)
+- [From Challenge to Comprehensive App, My Frontend Development Journey](https://dev.to/robot254/from-challenge-to-comprehensive-app-my-frontend-development-journey-54dp)
+- [How to Solve MySQL and Redis Cache Inconsistency Like a Pro](https://dev.to/xinjie_zou_d67d2805538130/how-to-solve-mysql-and-redis-cache-inconsistency-like-a-pro-2d7i)
+- [Microsoft Azure Static Web Apps: The Art of Sucking, Web App Horror Story](https://dev.to/ezhil_sivarajsr/microsoft-azure-static-web-apps-the-art-of-sucking-web-app-horror-story-4jg1)
 <!-- BLOG-POST-LIST:END -->
 
 
