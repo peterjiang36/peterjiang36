@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Everyone Is Talking About Edge Functions](https://dev.to/dumboprogrammer/why-everyone-is-talking-about-edge-functions-25bl)
-- [⚖️ Chapter 4: Merits &amp; Demerits — The Duality of Intelligence](https://dev.to/pjdeveloper896/chapter-4-merits-demerits-the-duality-of-intelligence-4cng)
-- [The New Stack for AI Builders：Memory + Emotion + Context](https://dev.to/contextspace_/the-new-stack-for-ai-buildersmemory-emotion-context-2ldo)
-- [The Hvala Algorithm combines linear-time efficiency with an approximation ratio better than 2. Disproving the Unique Games Conjecture, thereby overcoming a fundamental barrier in approximation algorithm complexity. Available as the &#39;hvala&#39; package on PyPI.](https://dev.to/frank_vega_987689489099bf/the-hvala-algorithm-combines-linear-time-efficiency-with-an-approximation-ratio-better-than-2-8g9)
+- [After the Hack: What Comes Next When the Build is Just the Beginning](https://dev.to/pr135t/after-the-hack-what-comes-next-when-the-build-is-just-the-beginning-4p29)
+- [ChezElle Intranet : Frontend Challenge Office Edition](https://dev.to/capjud95/chezelle-intranet-frontend-challenge-office-edition-ckp)
+- [Beyond the Code: What the World&#39;s Largest Hackathon Taught Me About People](https://dev.to/pr135t/beyond-the-code-what-the-worlds-largest-hackathon-taught-me-about-people-45bj)
+- [Is Wildcard SSL Worth It for Securing Unlimited Subdomains?](https://dev.to/hardy_mervana/is-wildcard-ssl-worth-it-for-securing-unlimited-subdomains-3n43)
 <!-- BLOG-POST-LIST:END -->
 
 
