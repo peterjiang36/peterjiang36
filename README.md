@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [After the Hack: What Comes Next When the Build is Just the Beginning](https://dev.to/pr135t/after-the-hack-what-comes-next-when-the-build-is-just-the-beginning-4p29)
-- [ChezElle Intranet : Frontend Challenge Office Edition](https://dev.to/capjud95/chezelle-intranet-frontend-challenge-office-edition-ckp)
-- [Beyond the Code: What the World&#39;s Largest Hackathon Taught Me About People](https://dev.to/pr135t/beyond-the-code-what-the-worlds-largest-hackathon-taught-me-about-people-45bj)
-- [Is Wildcard SSL Worth It for Securing Unlimited Subdomains?](https://dev.to/hardy_mervana/is-wildcard-ssl-worth-it-for-securing-unlimited-subdomains-3n43)
+- [State Management Showdown: Signals, NgRx, RxJS - What to Choose and Why](https://dev.to/karol_modelski/state-management-showdown-signals-ngrx-rxjs-what-to-choose-and-why-9g4)
+- [🤖Understanding systemctl: The Heartbeat of Modern Linux](https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5)
+- [🎓 7 Smart ChatGPT Prompts Every Student Should Be Using in 2025!](https://dev.to/manasi_patil_/7-smart-chatgpt-prompts-every-student-should-be-using-in-2025-25od)
+- [3 Groundbreaking AI Developer Tools That Are Redefining Software Automation](https://dev.to/modalqa/3-groundbreaking-ai-developer-tools-that-are-redefining-software-automation-1ng8)
 <!-- BLOG-POST-LIST:END -->
 
 
