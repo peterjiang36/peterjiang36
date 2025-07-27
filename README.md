@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Encrypt Files Online Securely: A Step-by-Step Guide](https://dev.to/trixsec/how-to-encrypt-files-online-securely-a-step-by-step-guide-423f)
-- [Introducing Jengo React Starter Kit – Build CI4 Apps with React &amp; Inertia.js Effortlessly](https://dev.to/gilads-otiannoh24/introducing-jengo-react-starter-kit-build-ci4-apps-with-react-inertiajs-effortlessly-p8i)
-- [Vocalize HR Screen: AI-Powered Voice Screening Agent for Professional Interviews](https://dev.to/0xrichardh/vocalize-hr-screen-ai-powered-voice-screening-agent-for-professional-interviews-gbk)
-- [Fixing Microservice Dependencies with Self-Contained Events &lpar;aka ECST&rpar;](https://dev.to/dinesh_dunukedeniya_539a3/fixing-microservice-dependencies-with-self-contained-events-aka-ecst-2l39)
+- [Why Everyone Is Talking About Edge Functions](https://dev.to/dumboprogrammer/why-everyone-is-talking-about-edge-functions-25bl)
+- [⚖️ Chapter 4: Merits &amp; Demerits — The Duality of Intelligence](https://dev.to/pjdeveloper896/chapter-4-merits-demerits-the-duality-of-intelligence-4cng)
+- [The New Stack for AI Builders：Memory + Emotion + Context](https://dev.to/contextspace_/the-new-stack-for-ai-buildersmemory-emotion-context-2ldo)
+- [The Hvala Algorithm combines linear-time efficiency with an approximation ratio better than 2. Disproving the Unique Games Conjecture, thereby overcoming a fundamental barrier in approximation algorithm complexity. Available as the &#39;hvala&#39; package on PyPI.](https://dev.to/frank_vega_987689489099bf/the-hvala-algorithm-combines-linear-time-efficiency-with-an-approximation-ratio-better-than-2-8g9)
 <!-- BLOG-POST-LIST:END -->
 
 
