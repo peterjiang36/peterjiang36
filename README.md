@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LazyCats Intranet Portal](https://dev.to/ivan_manernyi/lazycats-intranet-portal-5d72)
-- [“Build Features, Not Folders”: Scalable React Architecture](https://dev.to/siddhesh_shirdhankar_902f/build-features-not-folders-scalable-react-architecture-6ng)
-- [Programing in fast day](https://dev.to/soikot026/programing-in-fast-day-3i9n)
-- [As a coder who appreciates good documentation I wholeheartedly agree.](https://dev.to/grexe/as-a-coder-who-appreciates-good-documentation-i-wholeheartedly-agree-56nb)
+- [Threat Advisory: Security Flaw Defense](https://dev.to/rafalw3bcraft/threat-advisory-security-flaw-defense-53h9)
+- [Your Guide to the Laws of the Spirit](https://dev.to/lifepurposeapp/your-guide-to-the-laws-of-the-spirit-11h2)
+- [Threat Intelligence: Security Flaw Exploitation](https://dev.to/rafalw3bcraft/threat-intelligence-security-flaw-exploitation-fi5)
+- [ASP.NET Refactoring: Map Domain Results into HTTP Responses](https://dev.to/alexdevfx/aspnet-refactoring-map-domain-results-into-http-responses-3j7i)
 <!-- BLOG-POST-LIST:END -->
 
 
