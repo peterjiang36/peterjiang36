@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Office Art: The Work](https://dev.to/cruxcodes/css-office-art-the-work-3nk5)
-- [🎨 Office Coolors: A Colorful Intranet for Creative Productivity](https://dev.to/jamesrmoro/office-coolors-a-colorful-intranet-for-creative-productivity-4aic)
-- [From Beira to the World: My Journey as a Fullstack Developer](https://dev.to/arnaldo/from-beira-to-the-world-my-journey-as-a-fullstack-developer-33l9)
-- [Da Beira para o Mundo: Minha Jornada como Desenvolvedor Fullstack](https://dev.to/arnaldo/da-beira-para-o-mundo-minha-jornada-como-desenvolvedor-fullstack-21p8)
+- [Synapse](https://dev.to/haseebarshad/synapse-2l5l)
+- [Visual Studio custom project templates](https://dev.to/karenpayneoregon/visual-studio-custom-project-templates-5c5o)
+- [Symbiote](https://dev.to/haseebarshad/symbiote-1ahd)
+- [Getting Started with Tensorflow using Python](https://dev.to/achinike_chigozie/getting-started-with-tensorflow-using-python-1jec)
 <!-- BLOG-POST-LIST:END -->
 
 
