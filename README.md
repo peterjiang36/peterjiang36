@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Code: The Human Story Behind Ouch! - Feel Every Dollar](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-ouch-feel-every-dollar-43bn)
-- [After the Hack: What&#39;s Next for Ouch! - Feel Every Dollar and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-ouch-feel-every-dollar-and-my-journey-3jhb)
-- [Schema Evolution in Kafka: How to Design Resilient Event Contracts in Go](https://dev.to/noting59/schema-evolution-in-kafka-how-to-design-resilient-event-contracts-in-go-1lla)
-- [Building with Bolt: How I Created Five Star Finder App. in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-five-star-finder-app-in-record-time-7gn)
+- [How to Build Custom Open WebUI Themes](https://dev.to/code42cate/how-to-build-custom-open-webui-themes-55hh)
+- [Google admits it failed to warn 10 million of Turkey earthquake](https://dev.to/ndmckay/google-admits-it-failed-to-warn-10-million-of-turkey-earthquake-20f5)
+- [Blockchain Technology in Data Collection: A New Era of Trust and Transparency](https://dev.to/vermeulen/blockchain-technology-in-data-collection-a-new-era-of-trust-and-transparency-am)
+- [Building a GraphQL API with Fermyon Wasm Functions](https://dev.to/fermyon/building-a-graphql-api-with-fermyon-wasm-functions-ae7)
 <!-- BLOG-POST-LIST:END -->
 
 
