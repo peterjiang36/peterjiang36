@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Tearing in React Concurrent Mode](https://dev.to/childrentime/what-is-tearing-in-react-concurrent-mode-ebn)
-- [🔍 ArtExplorer - An Interactive and Inspiring Way to Explore Works of Art](https://dev.to/jamesrmoro/artexplorer-an-interactive-and-inspiring-way-to-explore-works-of-art-4bjb)
-- [Joker Visual Coding IDE Update Log - July 27, 2025](https://dev.to/zhangchuanhui/joker-visual-coding-ide-update-log-july-27-2025-d5h)
-- [AI-Powered Real Estate Intelligence Platform](https://dev.to/aws-builders/ai-powered-real-estate-intelligence-platform-31ho)
+- [🎙️ Turning Microsoft Teams Meetings into Actionable AI Reports with AssemblyAI 🧠💼](https://dev.to/aravind_d/turning-microsoft-teams-meetings-into-actionable-ai-reports-with-assemblyai-5dck)
+- [DAY 01 - I Setup my SDK Project and Created the Entry Point!](https://dev.to/estrolabz/day-01-i-setup-my-sdk-project-and-created-the-entry-point-1gnn)
+- [10 Real-World Problems I Solved Using Just ChatGPT Prompts](https://dev.to/jaideepparashar/10-real-world-problems-i-solved-using-just-chatgpt-prompts-4pcl)
+- [Introducing Vyoma UI. My own Component Library Built on top of shadcn/ui.](https://dev.to/srijanbaniyal/introducing-vyoma-ui-my-own-component-library-built-on-top-of-shadcnui-26kn)
 <!-- BLOG-POST-LIST:END -->
 
 
