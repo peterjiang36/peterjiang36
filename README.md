@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Synapse](https://dev.to/haseebarshad/synapse-2l5l)
-- [Visual Studio custom project templates](https://dev.to/karenpayneoregon/visual-studio-custom-project-templates-5c5o)
-- [Symbiote](https://dev.to/haseebarshad/symbiote-1ahd)
-- [Getting Started with Tensorflow using Python](https://dev.to/achinike_chigozie/getting-started-with-tensorflow-using-python-1jec)
+- [Build AI Chat Assistant App Using ReactJS &amp; NodeJS Within 15 Minutes Using Automated AI Coding SaaS API From Your Browser](https://dev.to/shanelarson/build-ai-chat-assistant-app-using-reactjs-nodejs-within-15-minutes-using-automated-ai-coding-saas-2p2f)
+- [Menu written in Objective-C, for GLtron.](https://dev.to/mprog10/menu-written-in-objective-c-for-gltron-ob7)
+- [Stock Search and Insights Using Algolia and n8n](https://dev.to/apoorv_dev07/stock-search-and-insights-using-algolia-and-n8n-569m)
+- [Full Stack Developer Roadmap for 2025](https://dev.to/metana/full-stack-developer-roadmap-for-2025-1ml2)
 <!-- BLOG-POST-LIST:END -->
 
 
