@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How IoT and Sensor Data Are Revolutionizing HVAC Monitoring](https://dev.to/dev_tech/how-iot-and-sensor-data-are-revolutionizing-hvac-monitoring-10nl)
-- [How the Windows MCP Registry &amp; Security Model Works in Windows 11](https://dev.to/om_shree_0709/how-the-windows-mcp-registry-security-model-works-in-windows-11-1mg6)
-- [Retail-GPT: Hyper-Personalized Offer Engine](https://dev.to/paulo_abbcba03b4df70572fc/retail-gpt-hyper-personalized-offer-engine-44f4)
-- [Malware Detection and Removal from WooCommerce Checkout Page](https://dev.to/md_pabel_fe07e07449db7326/malware-detection-and-removal-from-woocommerce-checkout-page-5fol)
+- [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
+- [I Automated My Entire Dev Workflow with AI &lpar;You Won&#39;t Believe How Easy It Is&rpar;](https://dev.to/shayy/i-automated-my-entire-dev-workflow-with-ai-you-wont-believe-how-easy-it-is-45n0)
+- [Why I Chose &#39;ForgeCode&#39; as #1 AI Coding Assistant in 2025?](https://dev.to/forgecode/why-i-chose-forgecode-as-1-ai-coding-assistant-in-2025-325l)
+- [CreativePro: Building with Bolt - WLH Challenge](https://dev.to/ariondev/creativepro-building-with-bolt-wlh-challenge-1aje)
 <!-- BLOG-POST-LIST:END -->
 
 
