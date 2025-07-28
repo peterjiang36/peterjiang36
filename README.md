@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Cybersecurity Is Vital for Critical National Infrastructure in 2025?](https://dev.to/micromindercybersecurity/why-cybersecurity-is-vital-for-critical-national-infrastructure-in-2025-96b)
-- [Mastering AI-Assisted Software Development: From Prompts to Production-Ready Code](https://dev.to/dimeloper/mastering-ai-assisted-software-development-from-prompts-to-production-ready-code-54n8)
-- [10 Open Source AI Tools Every Developer Should Know](https://dev.to/therealmrmumba/httpsdevtotariqdotdev10-open-source-ai-tools-every-developer-should-know-5cgk-1il9)
-- [🚀 Introducing ToolBox Hub – Your All-in-One Suite of Free Online Tools](https://dev.to/sreeappt/introducing-toolbox-hub-your-all-in-one-suite-of-free-online-tools-p8n)
+- [Why TikTok&#39;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App](https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a)
+- [Translating Tech Speak into Business Value Stories](https://dev.to/duy_cao/translating-tech-speak-into-business-value-stories-1i51)
+- [Take me under your eagle wings!](https://dev.to/marathon3k/take-me-under-your-eagle-wings-3c9m)
+- [🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions🚀 10 AI Tools Every Developer Should Try in 2025](https://dev.to/robertthomas/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-10-ai-tools-every-2nki)
 <!-- BLOG-POST-LIST:END -->
 
 
