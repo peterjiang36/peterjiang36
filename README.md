@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why TikTok&#39;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App](https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a)
-- [Translating Tech Speak into Business Value Stories](https://dev.to/duy_cao/translating-tech-speak-into-business-value-stories-1i51)
-- [Take me under your eagle wings!](https://dev.to/marathon3k/take-me-under-your-eagle-wings-3c9m)
-- [🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions🚀 10 AI Tools Every Developer Should Try in 2025](https://dev.to/robertthomas/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-10-ai-tools-every-2nki)
+- [Unleashing the Power of React with Custom Hooks](https://dev.to/vjnvisakh/unleashing-the-power-of-react-with-custom-hooks-5aof)
+- [Firebase Authentication: From Zero to Hero 🔐](https://dev.to/this-is-learning/firebase-authentication-from-zero-to-hero-4mj8)
+- [HTTP/3 &amp; QUIC: Faster Entry for Cross-Border Businesses in China](https://dev.to/ksea0309/http3-quic-faster-entry-for-cross-border-businesses-in-china-58l9)
+- [Co‑Marketing Through Partnered Webinars: A Smart Strategy for Expanding Reach and Building Trust](https://dev.to/jack_davis_72eff1ff3e4afd/co-marketing-through-partnered-webinars-a-smart-strategy-for-expanding-reach-and-building-trust-ae7)
 <!-- BLOG-POST-LIST:END -->
 
 
