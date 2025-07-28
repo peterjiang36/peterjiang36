@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Custom Open WebUI Themes](https://dev.to/code42cate/how-to-build-custom-open-webui-themes-55hh)
-- [Google admits it failed to warn 10 million of Turkey earthquake](https://dev.to/ndmckay/google-admits-it-failed-to-warn-10-million-of-turkey-earthquake-20f5)
-- [Blockchain Technology in Data Collection: A New Era of Trust and Transparency](https://dev.to/vermeulen/blockchain-technology-in-data-collection-a-new-era-of-trust-and-transparency-am)
-- [Building a GraphQL API with Fermyon Wasm Functions](https://dev.to/fermyon/building-a-graphql-api-with-fermyon-wasm-functions-ae7)
+- [@classmethod and @staticmethod](https://dev.to/ganesan_krishnan_dc888df2/classmethod-and-staticmethod-2a35)
+- [Why I’m building SimGate: An SMS API without per-message fees](https://dev.to/nikola_mitrovic_922e2665f/why-im-building-simgate-an-sms-api-without-per-message-fees-16mm)
+- [Understanding Components and Props in React.](https://dev.to/shadow_14d29c92635eef8efd/understanding-components-and-props-in-react-4jg)
+- [Creating a Facial Recognition Fence Opening System with Python](https://dev.to/gissel_claus_f37fa582135d/creating-a-facial-recognition-fence-opening-system-with-python-5clm)
 <!-- BLOG-POST-LIST:END -->
 
 
