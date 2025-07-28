@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Go&#39;s Type System: A Complete Guide to Interfaces, Structs, and Composition [2025]](https://dev.to/arasosman/understanding-gos-type-system-a-complete-guide-to-interfaces-structs-and-composition-2025-3an)
-- [The Complete Guide to Finding the Best PHP Hosting in 2025 [Top 10 Providers Compared]](https://dev.to/arasosman/the-complete-guide-to-finding-the-best-php-hosting-in-2025-top-10-providers-compared-3h1n)
-- [How to Localize Multiplatform Apps with Localazy CLI: Tips and Tricks](https://dev.to/engroso/how-to-localize-multiplatform-apps-with-localazy-cli-tips-and-tricks-2p3c)
-- [GitHub](https://dev.to/msx31/github-43m6)
+- [How IoT and Sensor Data Are Revolutionizing HVAC Monitoring](https://dev.to/dev_tech/how-iot-and-sensor-data-are-revolutionizing-hvac-monitoring-10nl)
+- [How the Windows MCP Registry &amp; Security Model Works in Windows 11](https://dev.to/om_shree_0709/how-the-windows-mcp-registry-security-model-works-in-windows-11-1mg6)
+- [Retail-GPT: Hyper-Personalized Offer Engine](https://dev.to/paulo_abbcba03b4df70572fc/retail-gpt-hyper-personalized-offer-engine-44f4)
+- [Malware Detection and Removal from WooCommerce Checkout Page](https://dev.to/md_pabel_fe07e07449db7326/malware-detection-and-removal-from-woocommerce-checkout-page-5fol)
 <!-- BLOG-POST-LIST:END -->
 
 
