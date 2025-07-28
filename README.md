@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [URL Shorteners Uncovered: How They Work and Why You Should Use Them](https://dev.to/trixsec/url-shorteners-uncovered-how-they-work-and-why-you-should-use-them-44j6)
-- [Cursor AI Tips and tricks on Medium](https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln)
-- [Provide Storage for IT Department Testing and Training](https://dev.to/biola_lawaljr_d5dc2882c89/provide-storage-for-it-department-testing-and-training-299e)
-- [⚽ Calculating Premier League Win Probabilities Using Python and the Football-Data.org API](https://dev.to/sudoruss/calculating-premier-league-win-probabilities-using-python-and-the-football-dataorg-api-11bl)
+- [Supercharging Your Database: A Look into Indexing](https://dev.to/farlamo/supercharging-your-database-a-look-into-indexing-4iam)
+- [Using Tailwind CSS with Shopify Hydrogen: Clean, Fast &amp; Fully Custom](https://dev.to/lucy1/using-tailwind-css-with-shopify-hydrogen-clean-fast-fully-custom-3i73)
+- [🛠️ Wrote a beginner-friendly guide on debugging AI apps like ChatGPT &amp; LangChain — real fixes, simple words, copy-paste tips. Check it out &amp; share your thoughts!](https://dev.to/meenakshi052003/wrote-a-beginner-friendly-guide-on-debugging-ai-apps-like-chatgpt-langchain-real-fixes-1h4e)
+- [Helping Clients Shape Their Vision: Practical Tips for Freelance Devs](https://dev.to/tlorent/helping-clients-shape-their-vision-practical-tips-for-freelance-devs-5fpf)
 <!-- BLOG-POST-LIST:END -->
 
 
