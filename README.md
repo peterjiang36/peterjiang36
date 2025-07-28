@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Congratulations to the World&#39;s Largest Hackathon Winners! Now it&#39;s time to share your full reflection.](https://dev.to/devteam/congratulations-to-the-worlds-largest-hackathon-winners-now-its-time-to-share-your-full-3df8)
-- [I Automated My Entire Dev Workflow with AI &lpar;You Won&#39;t Believe How Easy It Is&rpar;](https://dev.to/shayy/i-automated-my-entire-dev-workflow-with-ai-you-wont-believe-how-easy-it-is-45n0)
-- [Why I Chose &#39;ForgeCode&#39; as #1 AI Coding Assistant in 2025?](https://dev.to/forgecode/why-i-chose-forgecode-as-1-ai-coding-assistant-in-2025-325l)
-- [CreativePro: Building with Bolt - WLH Challenge](https://dev.to/ariondev/creativepro-building-with-bolt-wlh-challenge-1aje)
+- [Beyond the Code: The Human Story Behind Ouch! - Feel Every Dollar](https://dev.to/ariondev/beyond-the-code-the-human-story-behind-ouch-feel-every-dollar-43bn)
+- [After the Hack: What&#39;s Next for Ouch! - Feel Every Dollar and My Journey](https://dev.to/ariondev/after-the-hack-whats-next-for-ouch-feel-every-dollar-and-my-journey-3jhb)
+- [Schema Evolution in Kafka: How to Design Resilient Event Contracts in Go](https://dev.to/noting59/schema-evolution-in-kafka-how-to-design-resilient-event-contracts-in-go-1lla)
+- [Building with Bolt: How I Created Five Star Finder App. in Record Time](https://dev.to/ariondev/building-with-bolt-how-i-created-five-star-finder-app-in-record-time-7gn)
 <!-- BLOG-POST-LIST:END -->
 
 
