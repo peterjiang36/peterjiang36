@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build AI Chat Assistant App Using ReactJS &amp; NodeJS Within 15 Minutes Using Automated AI Coding SaaS API From Your Browser](https://dev.to/shanelarson/build-ai-chat-assistant-app-using-reactjs-nodejs-within-15-minutes-using-automated-ai-coding-saas-2p2f)
-- [Menu written in Objective-C, for GLtron.](https://dev.to/mprog10/menu-written-in-objective-c-for-gltron-ob7)
-- [Stock Search and Insights Using Algolia and n8n](https://dev.to/apoorv_dev07/stock-search-and-insights-using-algolia-and-n8n-569m)
-- [Full Stack Developer Roadmap for 2025](https://dev.to/metana/full-stack-developer-roadmap-for-2025-1ml2)
+- [Communicate, Colaborate and Connect: A Holistic View](https://dev.to/kailera/communicate-colaborate-and-connect-a-holistic-view-1a)
+- [Wynnie 🦄 — 𝘠𝘰𝘶𝘳 𝘚𝘩𝘰𝘱𝘱𝘪𝘯𝘨, 𝘯𝘰𝘸 𝘰𝘯 𝘈𝘶𝘵𝘰𝘱𝘪𝘭𝘰𝘵!](https://dev.to/neilblaze/wynnie--4po3)
+- [Hello Monday](https://dev.to/louis7/hello-monday-88l)
+- [🔒 Top 7 Security Practices Every Backend Developer Must Know](https://dev.to/manukumar07/top-7-security-practices-every-backend-developer-must-know-3ppk)
 <!-- BLOG-POST-LIST:END -->
 
 
