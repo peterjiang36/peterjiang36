@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Your Database: A Look into Indexing](https://dev.to/farlamo/supercharging-your-database-a-look-into-indexing-4iam)
-- [Using Tailwind CSS with Shopify Hydrogen: Clean, Fast &amp; Fully Custom](https://dev.to/lucy1/using-tailwind-css-with-shopify-hydrogen-clean-fast-fully-custom-3i73)
-- [🛠️ Wrote a beginner-friendly guide on debugging AI apps like ChatGPT &amp; LangChain — real fixes, simple words, copy-paste tips. Check it out &amp; share your thoughts!](https://dev.to/meenakshi052003/wrote-a-beginner-friendly-guide-on-debugging-ai-apps-like-chatgpt-langchain-real-fixes-1h4e)
-- [Helping Clients Shape Their Vision: Practical Tips for Freelance Devs](https://dev.to/tlorent/helping-clients-shape-their-vision-practical-tips-for-freelance-devs-5fpf)
+- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
+- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
+- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
+- [Avalanche Node Peculiarities and Benefits](https://dev.to/getblockapi/avalanche-node-peculiarities-and-benefits-50k)
 <!-- BLOG-POST-LIST:END -->
 
 
