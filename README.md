@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Instantly Post to X with MCP Server! 🐦](https://dev.to/buildandcodewithraman/instantly-post-to-x-with-mcp-server-1j69)
-- [💻 How to Reference Values in Terraform Lists &amp; Maps &lpar;And Why It’s Like Picking Items by Name or Number&rpar;](https://dev.to/1suleyman/how-to-reference-values-in-terraform-lists-maps-and-why-its-like-picking-items-by-name-or-54fb)
-- [GridSheet v2 – A Modern, Extensible Spreadsheet Engine for the Web](https://dev.to/righ_48/gridsheet-v2-a-modern-extensible-spreadsheet-engine-for-the-web-1a69)
-- [Serverless Is Not A Primary](https://dev.to/aws-builders/serverless-is-not-a-primary-4ap9)
+- [🎨 CSS-Tricks — Your Go-To Resource for Frontend Development](https://dev.to/ml318097/css-tricks-your-go-to-resource-for-frontend-development-3k75)
+- [What are your goals for the week? #137](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-137-3ia3)
+- [Building Production-Ready SSR Applications with Analog.js - Lessons from TechLeadPilot](https://dev.to/dalenguyen/building-production-ready-ssr-applications-with-analogjs-lessons-from-techleadpilot-142a)
+- [A lightweight go-cron &lpar;v1.1.0&rpar;](https://dev.to/pardnchiu/a-lightweight-go-cron-v110-5boi)
 <!-- BLOG-POST-LIST:END -->
 
 
