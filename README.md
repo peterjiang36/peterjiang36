@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Communicate, Colaborate and Connect: A Holistic View](https://dev.to/kailera/communicate-colaborate-and-connect-a-holistic-view-1a)
-- [Wynnie 🦄 — 𝘠𝘰𝘶𝘳 𝘚𝘩𝘰𝘱𝘱𝘪𝘯𝘨, 𝘯𝘰𝘸 𝘰𝘯 𝘈𝘶𝘵𝘰𝘱𝘪𝘭𝘰𝘵!](https://dev.to/neilblaze/wynnie--4po3)
-- [Hello Monday](https://dev.to/louis7/hello-monday-88l)
-- [🔒 Top 7 Security Practices Every Backend Developer Must Know](https://dev.to/manukumar07/top-7-security-practices-every-backend-developer-must-know-3ppk)
+- [What is Tearing in React Concurrent Mode](https://dev.to/childrentime/what-is-tearing-in-react-concurrent-mode-ebn)
+- [🔍 ArtExplorer - An Interactive and Inspiring Way to Explore Works of Art](https://dev.to/jamesrmoro/artexplorer-an-interactive-and-inspiring-way-to-explore-works-of-art-4bjb)
+- [Joker Visual Coding IDE Update Log - July 27, 2025](https://dev.to/zhangchuanhui/joker-visual-coding-ide-update-log-july-27-2025-d5h)
+- [AI-Powered Real Estate Intelligence Platform](https://dev.to/aws-builders/ai-powered-real-estate-intelligence-platform-31ho)
 <!-- BLOG-POST-LIST:END -->
 
 
