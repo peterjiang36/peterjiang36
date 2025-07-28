@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Shell: Essential Commands and their Uses](https://dev.to/christiana_orji/mastering-the-shell-essential-commands-and-their-uses-4313)
-- [Building With Symfony: Scaling Surfshark’s Backend](https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf)
-- [Observability 101: Metrics, Logs, and Traces. What’s the Difference ?](https://dev.to/mspilari/observability-101-metrics-logs-and-traces-whats-the-difference--3kbc)
-- [Avalanche Node Peculiarities and Benefits](https://dev.to/getblockapi/avalanche-node-peculiarities-and-benefits-50k)
+- [🚀 Instantly Post to X with MCP Server! 🐦](https://dev.to/buildandcodewithraman/instantly-post-to-x-with-mcp-server-1j69)
+- [💻 How to Reference Values in Terraform Lists &amp; Maps &lpar;And Why It’s Like Picking Items by Name or Number&rpar;](https://dev.to/1suleyman/how-to-reference-values-in-terraform-lists-maps-and-why-its-like-picking-items-by-name-or-54fb)
+- [GridSheet v2 – A Modern, Extensible Spreadsheet Engine for the Web](https://dev.to/righ_48/gridsheet-v2-a-modern-extensible-spreadsheet-engine-for-the-web-1a69)
+- [Serverless Is Not A Primary](https://dev.to/aws-builders/serverless-is-not-a-primary-4ap9)
 <!-- BLOG-POST-LIST:END -->
 
 
