@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Code Better After 2 PM &lpar;and How I Stopped Fighting It&rpar;](https://dev.to/vadym_info_polus/why-i-code-better-after-2-pm-and-how-i-stopped-fighting-it-25i8)
-- [The compare&lpar;&rpar; method in Java](https://dev.to/charlie_barajas_353e28103/the-compare-method-in-java-2080)
-- [Power Up Your Go Apps: Using PostgreSQL as a Job Queue with River](https://dev.to/shrsv/power-up-your-go-apps-using-postgresql-as-a-job-queue-with-river-2e3g)
-- [Test for Attachment Style: Are You Anxious, Avoidant, Disorganized, or Secure?](https://dev.to/the_personaldevelopment/test-for-attachment-style-are-you-anxious-avoidant-disorganized-or-secure-48ko)
+- [CDNs Explained: Push vs Pull and How They Speed Up Your Website](https://dev.to/rijultp/cdns-explained-push-vs-pull-and-how-they-speed-up-your-website-4i4f)
+- [nvm-manager: The Node.js Version Manager That Exists Because Someone Wanted It](https://dev.to/akhil16/nvm-manager-the-nodejs-version-manager-that-exists-because-someone-wanted-it-4m99)
+- [The Complete Guide to Scaling with MLOps](https://dev.to/marufhossain/the-complete-guide-to-scaling-with-mlops-gdh)
+- [How To Deploy a WordPress Blog with AWS](https://dev.to/hamdivazim/how-to-deploy-a-wordpress-blog-with-aws-1pcb)
 <!-- BLOG-POST-LIST:END -->
 
 
