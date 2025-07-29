@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy KRC Tokens Using KID &lpar;KRC‑20, KRC‑721 &amp; KRC‑1155&rpar;](https://dev.to/kalpstudio/how-to-deploy-krc-tokens-using-kid-krc-20-krc-721-krc-1155-56eb)
-- [The five rules I would follow to find a startup idea in 2025](https://dev.to/alex_deg/the-five-rules-i-would-follow-to-find-a-startup-idea-in-2025-149d)
-- [AWS in 30 Days: Your Ultimate Cloud Skill Upgrade](https://dev.to/yash_sonawane25/aws-in-30-days-your-ultimate-cloud-skill-upgrade-32ii)
-- [Day 49: When Bureaucracy Finally Releases Its Death Grip](https://dev.to/casperday11/day-49-when-bureaucracy-finally-releases-its-death-grip-1li6)
+- [Looking for a job. Please help me.](https://dev.to/sebastiandevelops/looking-for-a-job-please-help-me-5an7)
+- [How Computers Keep Track of Time: The Story of NTP](https://dev.to/faizanfirdousi/how-computers-keep-track-of-time-the-story-of-ntp-23i5)
+- [Meme Coin Tokenomics vs Traditional Token Models: Which Converts Better?](https://dev.to/shelly_jackson_c6aec6426b/meme-coin-tokenomics-vs-traditional-token-models-which-converts-better-2h9n)
+- [How I Audited My Portfolio Website Like a Pro &lpar;As a Developer&rpar;](https://dev.to/primereview4u_b93531c96c2/how-i-audited-my-portfolio-website-like-a-pro-as-a-developer-1i8h)
 <!-- BLOG-POST-LIST:END -->
 
 
