@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do One Thing: Mastering Prioritization for High-Performing Teams](https://dev.to/victoria/do-one-thing-mastering-prioritization-for-high-performing-teams-4091)
-- [Building Telegram Automation Workflows with n8n and Pinggy Webhooks](https://dev.to/lightningdev123/building-telegram-automation-workflows-with-n8n-and-pinggy-webhooks-12co)
-- [Protecting Against Open Source Malicious Packages: What Does &lpar;Not&rpar; Work](https://dev.to/xygenisecurity/protecting-against-open-source-malicious-packages-what-does-not-work-iaj)
-- [The Evolution of Large Language Models: From Rule-Based Systems to Modern AI](https://dev.to/anshuman_ojha_/the-evolution-of-large-language-models-from-rule-based-systems-to-modern-ai-2bnn)
+- [Cloudflare Pages + Deno Deploy Full-Stack Boilerplate](https://dev.to/kirodotdev/cloudflare-pages-deno-deploy-full-stack-boilerplate-kj9)
+- [From DevOps to DevSecOps: How Secure Software Development Evolved](https://dev.to/mitchelljhonson/from-devops-to-devsecops-how-secure-software-development-evolved-17e0)
+- [What Scares Companies in 2025?](https://dev.to/martedva/what-scares-companies-in-2025-9ff)
+- [Supercharge Your Git Workflow with Laravel Commit‑Lint](https://dev.to/mubbi/supercharge-your-git-workflow-with-laravel-commit-lint-482n)
 <!-- BLOG-POST-LIST:END -->
 
 
