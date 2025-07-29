@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why bridges keep getting hacked &amp; Why Modular Interoperability is the way out](https://dev.to/doanlonghau/why-bridges-keep-getting-hacked-why-modular-interoperability-is-the-way-out-185p)
-- [Why Most Accounting Systems Suck &lpar;and How to Not Build One That Does&rpar;](https://dev.to/abyssalbalde110/why-most-accounting-systems-suck-and-how-to-not-build-one-that-does-16ho)
-- [Using GCP Load Balancer to Handle 301 Redirects to Other Domains](https://dev.to/charlottetowell/using-gcp-load-balancer-to-handle-301-redirects-to-other-domains-3go6)
-- [Is Data Science is machine learning?](https://dev.to/danyearl/is-data-science-is-machine-learning-262d)
+- [Open Source, Open Minds: My Participation in TOSSCON @ Menporul Manadu](https://dev.to/2021_cse_gayathrir_e733/open-source-open-minds-my-participation-in-tosscon-menporul-manadu-19jj)
+- [Programming on the Kiwi 3 Ultra: A Powerful Single-Board Computer with RK3568](https://dev.to/dongpei_liao_8092a14d7c50/programming-on-the-kiwi-3-ultra-a-powerful-single-board-computer-with-rk3568-570l)
+- [Understanding Hoisting: How JavaScript Handles Declarations](https://dev.to/2021_cse_gayathrir_e733/understanding-hoisting-how-javascript-handles-declarations-3lkk)
+- [Modern Systems Are More Fragile: The more intricate a system is, the more potential points of failure it can present](https://dev.to/jeandevbr/modern-systems-are-more-fragile-the-more-intricate-a-system-is-the-more-potential-points-of-2fkg)
 <!-- BLOG-POST-LIST:END -->
 
 
