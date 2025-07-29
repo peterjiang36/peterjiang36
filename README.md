@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 14 - ‘Moneyball&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-14-moneyball-the-big-picture-8mh)
-- [Ringer Movies: ‘Brokeback Mountain&#39; With Bill Simmons and Wesley Morris | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-brokeback-mountain-with-bill-simmons-and-wesley-morris-the-rewatchables-391i)
-- [The Game Theorists: Game Theory: FNAF, What is MXES? &lpar;Secret of the Mimic&rpar;](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-what-is-mxes-secret-of-the-mimic-5b1p)
-- [The Game Theorists: Game Theory: The Detail Everyone Missed from Kindergarten 3](https://dev.to/gg_news/the-game-theorists-game-theory-the-detail-everyone-missed-from-kindergarten-3-50lp)
+- [Why I’m Learning Web3](https://dev.to/loading_blocks/why-im-learning-web3-4pnl)
+- [Is AI Vibe Coding Destroying Your Future?](https://dev.to/freepalestine/is-ai-vibe-coding-destroying-your-future-4llb)
+- [How to Control a Robot Vacuum Cleaner from Your Python App](https://dev.to/natalia_ruiz_420d9ae89633/how-to-control-a-robot-vacuum-cleaner-from-your-python-app-5hc3)
+- [AI in Analytics: It’s Not Just for the Big Guys Anymore](https://dev.to/amit_a38d4acb31af98937d82/ai-in-analytics-its-not-just-for-the-big-guys-anymore-15jn)
 <!-- BLOG-POST-LIST:END -->
 
 
