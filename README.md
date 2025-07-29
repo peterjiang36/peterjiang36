@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# algorithm](https://dev.to/abner_lopezruiz_5f448ef1/c-algorithm-6jo)
-- [Beat the Learning Curve with One-on-One Java Job Support](https://dev.to/rkit-labs/beat-the-learning-curve-with-one-on-one-java-job-support-1kol)
-- [Building Medical AI – Technical Architecture Lessons](https://dev.to/daya_shankar_01/building-medical-ai-technical-architecture-lessons-4naj)
-- [Getting Started with C# for Unity](https://dev.to/dumboprogrammer/c-for-unity-4l8m)
+- [The Role of Red Teaming in Cyber Resilience Planning](https://dev.to/elly_anderson_9e359c03670/the-role-of-red-teaming-in-cyber-resilience-planning-55ae)
+- [Devise with Ruby on Rails 💡](https://dev.to/ritumka/devise-with-ruby-on-rails-51nf)
+- [Grid DP / Pathfinding Template](https://dev.to/rock_win_c053fa5fb2399067/grid-dp-pathfinding-template-2lmb)
+- [🧠 MASTER TEMPLATE #2: DP on Strings / Sequences](https://dev.to/rock_win_c053fa5fb2399067/master-template-2-dp-on-strings-sequences-54a6)
 <!-- BLOG-POST-LIST:END -->
 
 
