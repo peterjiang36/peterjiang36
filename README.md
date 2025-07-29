@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Aerospike Graph Database 3.0: Faster, simpler, and built for the terabyte scale era](https://dev.to/aerospike/introducing-aerospike-graph-database-30-faster-simpler-and-built-for-the-terabyte-scale-era-4g2l)
-- [Bringing Your iOS App to Siri with Apple Intelligence](https://dev.to/arshtechpro/bringing-your-ios-app-to-siri-with-apple-intelligence-2ebp)
-- [How to Clean Up Resources in Azure](https://dev.to/arctaiwo/how-to-clean-up-resources-in-azure-47bn)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/fredy921/css-blossoming-flowers-at-magical-night-586e)
+- [Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations](https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9)
+- [Take Out优化](https://dev.to/woodyxin/take-outyou-hua-19o9)
+- [Take Out](https://dev.to/woodyxin/take-out-5b2)
+- [Perplexity as a determinant of text quality.](https://dev.to/rotimi_ajigboye/perplexity-as-a-determinant-of-text-quality-2i5b)
 <!-- BLOG-POST-LIST:END -->
 
 
