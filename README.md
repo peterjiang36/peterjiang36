@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Awesome AI Coding Tools Repo Has a New Home — and a Bigger Mission](https://dev.to/aifordevelopers/the-awesome-ai-coding-tools-repo-has-a-new-home-and-a-bigger-mission-4bj6)
-- [10 AI Skills Companies Are Looking for in 2025](https://dev.to/finalroundai/10-ai-skills-companies-are-looking-for-in-2025-2jl9)
-- [How to Install Docker Engine on Windows Server 2025 VPS &lpar;No Hyper-V&rpar;](https://dev.to/rajeshkumaryadavdotcom/how-to-install-docker-engine-on-windows-server-2025-vps-no-hyper-v-3578)
-- [Make to n8n 🙌](https://dev.to/alifar/make-to-n8n-5409)
+- [How to Deploy KRC Tokens Using KID &lpar;KRC‑20, KRC‑721 &amp; KRC‑1155&rpar;](https://dev.to/kalpstudio/how-to-deploy-krc-tokens-using-kid-krc-20-krc-721-krc-1155-56eb)
+- [The five rules I would follow to find a startup idea in 2025](https://dev.to/alex_deg/the-five-rules-i-would-follow-to-find-a-startup-idea-in-2025-149d)
+- [AWS in 30 Days: Your Ultimate Cloud Skill Upgrade](https://dev.to/yash_sonawane25/aws-in-30-days-your-ultimate-cloud-skill-upgrade-32ii)
+- [Day 49: When Bureaucracy Finally Releases Its Death Grip](https://dev.to/casperday11/day-49-when-bureaucracy-finally-releases-its-death-grip-1li6)
 <!-- BLOG-POST-LIST:END -->
 
 
