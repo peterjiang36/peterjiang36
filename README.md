@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source, Open Minds: My Participation in TOSSCON @ Menporul Manadu](https://dev.to/2021_cse_gayathrir_e733/open-source-open-minds-my-participation-in-tosscon-menporul-manadu-19jj)
-- [Programming on the Kiwi 3 Ultra: A Powerful Single-Board Computer with RK3568](https://dev.to/dongpei_liao_8092a14d7c50/programming-on-the-kiwi-3-ultra-a-powerful-single-board-computer-with-rk3568-570l)
-- [Understanding Hoisting: How JavaScript Handles Declarations](https://dev.to/2021_cse_gayathrir_e733/understanding-hoisting-how-javascript-handles-declarations-3lkk)
-- [Modern Systems Are More Fragile: The more intricate a system is, the more potential points of failure it can present](https://dev.to/jeandevbr/modern-systems-are-more-fragile-the-more-intricate-a-system-is-the-more-potential-points-of-2fkg)
+- [Building an MCP Server/Client in Windows 11](https://dev.to/om_shree_0709/building-an-mcp-serverclient-in-windows-11-51f0)
+- [First Contributions: learn how to contribute to open source projects](https://dev.to/thedevcristian/first-contributions-learn-how-to-contribute-to-open-source-projects-d8a)
+- [ANN: omniauth-identity v3.1.4](https://dev.to/galtzo/ann-omniauth-identity-v314-2371)
+- [Demystifying the JS Event Loop: A ByteDance Interview Question to Deeply Understand async/await, Promise, and RAF](https://dev.to/childrentime/demystifying-the-js-event-loop-a-bytedance-interview-question-to-deeply-understand-asyncawait-326g)
 <!-- BLOG-POST-LIST:END -->
 
 
