@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Pages + Deno Deploy Full-Stack Boilerplate](https://dev.to/kirodotdev/cloudflare-pages-deno-deploy-full-stack-boilerplate-kj9)
-- [From DevOps to DevSecOps: How Secure Software Development Evolved](https://dev.to/mitchelljhonson/from-devops-to-devsecops-how-secure-software-development-evolved-17e0)
-- [What Scares Companies in 2025?](https://dev.to/martedva/what-scares-companies-in-2025-9ff)
-- [Supercharge Your Git Workflow with Laravel Commit‑Lint](https://dev.to/mubbi/supercharge-your-git-workflow-with-laravel-commit-lint-482n)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 14 - ‘Moneyball&#39; | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-14-moneyball-the-big-picture-8mh)
+- [Ringer Movies: ‘Brokeback Mountain&#39; With Bill Simmons and Wesley Morris | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-brokeback-mountain-with-bill-simmons-and-wesley-morris-the-rewatchables-391i)
+- [The Game Theorists: Game Theory: FNAF, What is MXES? &lpar;Secret of the Mimic&rpar;](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-what-is-mxes-secret-of-the-mimic-5b1p)
+- [The Game Theorists: Game Theory: The Detail Everyone Missed from Kindergarten 3](https://dev.to/gg_news/the-game-theorists-game-theory-the-detail-everyone-missed-from-kindergarten-3-50lp)
 <!-- BLOG-POST-LIST:END -->
 
 
