@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Merge Conflicts to Team Harmony: AI Mediation for Dev Teams](https://dev.to/underlabs_inc/from-merge-conflicts-to-team-harmony-ai-mediation-for-dev-teams-oii)
-- [Day 48: When College Becomes an Exercise in Patience](https://dev.to/casperday11/day-48-when-college-becomes-an-exercise-in-patience-2d89)
-- [How I Found a Hidden Reverse Shell Running as www-data &lpar;And What I Did About It&rpar; | by Faruk Ahmed | Jul, 2025](https://dev.to/cyberwebpen/how-i-found-a-hidden-reverse-shell-running-as-www-data-and-what-i-did-about-it-by-faruk-ahmed--40f0)
-- [How I Found a Hidden Backdoor User Account on My Ubuntu Server &lpar;And What I Did About It&rpar; | by Faruk Ahmed | Jun, 2025](https://dev.to/cyberwebpen/how-i-found-a-hidden-backdoor-user-account-on-my-ubuntu-server-and-what-i-did-about-it-by-faruk-390d)
+- [C# algorithm](https://dev.to/abner_lopezruiz_5f448ef1/c-algorithm-6jo)
+- [Beat the Learning Curve with One-on-One Java Job Support](https://dev.to/rkit-labs/beat-the-learning-curve-with-one-on-one-java-job-support-1kol)
+- [Building Medical AI – Technical Architecture Lessons](https://dev.to/daya_shankar_01/building-medical-ai-technical-architecture-lessons-4naj)
+- [Getting Started with C# for Unity](https://dev.to/dumboprogrammer/c-for-unity-4l8m)
 <!-- BLOG-POST-LIST:END -->
 
 
