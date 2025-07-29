@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Learning Web3](https://dev.to/loading_blocks/why-im-learning-web3-4pnl)
-- [Is AI Vibe Coding Destroying Your Future?](https://dev.to/freepalestine/is-ai-vibe-coding-destroying-your-future-4llb)
-- [How to Control a Robot Vacuum Cleaner from Your Python App](https://dev.to/natalia_ruiz_420d9ae89633/how-to-control-a-robot-vacuum-cleaner-from-your-python-app-5hc3)
-- [AI in Analytics: It’s Not Just for the Big Guys Anymore](https://dev.to/amit_a38d4acb31af98937d82/ai-in-analytics-its-not-just-for-the-big-guys-anymore-15jn)
+- [Why I Code Better After 2 PM &lpar;and How I Stopped Fighting It&rpar;](https://dev.to/vadym_info_polus/why-i-code-better-after-2-pm-and-how-i-stopped-fighting-it-25i8)
+- [The compare&lpar;&rpar; method in Java](https://dev.to/charlie_barajas_353e28103/the-compare-method-in-java-2080)
+- [Power Up Your Go Apps: Using PostgreSQL as a Job Queue with River](https://dev.to/shrsv/power-up-your-go-apps-using-postgresql-as-a-job-queue-with-river-2e3g)
+- [Test for Attachment Style: Are You Anxious, Avoidant, Disorganized, or Secure?](https://dev.to/the_personaldevelopment/test-for-attachment-style-are-you-anxious-avoidant-disorganized-or-secure-48ko)
 <!-- BLOG-POST-LIST:END -->
 
 
