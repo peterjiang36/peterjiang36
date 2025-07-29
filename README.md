@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Opening the &quot;Black Box&quot;: A Journey into Vector Search and Spam Protection](https://dev.to/prema_ananda/opening-the-black-box-a-journey-into-vector-search-and-spam-protection-1kmd)
-- [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
-- [Top 20 Rising GitHub Projects with the Most Stars in 2025](https://dev.to/therealmrmumba/top-20-rising-github-projects-with-the-most-stars-in-2025-3idf)
-- [🧠 I Burned Out Trying to Balance Leetcode, OOP, and System Design — Here’s What Finally Worked](https://dev.to/huynhnguyen/i-burned-out-trying-to-balance-leetcode-oop-and-system-design-heres-what-finally-worked-c2j)
+- [&quot;Suspense&quot; with a Promise and an Attribute Mixin](https://dev.to/dariomannu/suspense-with-a-promise-and-an-attribute-mixin-3ldn)
+- [Embeddings &amp; Cosine Similarity Explained Simply](https://dev.to/busycaesar/embeddings-cosine-similarity-4541)
+- [Venmo App Development: Creating the Next Generation of Seamless Payment Apps](https://dev.to/encodedots/venmo-app-development-creating-the-next-generation-of-seamless-payment-apps-1p30)
+- [Deploy of MySQL to DRF&lpar;Django Rest Framework&rpar;](https://dev.to/lanqi_gao/deploy-of-mysql-to-drfdjango-rest-framework-5d15)
 <!-- BLOG-POST-LIST:END -->
 
 
