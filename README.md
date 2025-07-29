@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CDNs Explained: Push vs Pull and How They Speed Up Your Website](https://dev.to/rijultp/cdns-explained-push-vs-pull-and-how-they-speed-up-your-website-4i4f)
-- [nvm-manager: The Node.js Version Manager That Exists Because Someone Wanted It](https://dev.to/akhil16/nvm-manager-the-nodejs-version-manager-that-exists-because-someone-wanted-it-4m99)
-- [The Complete Guide to Scaling with MLOps](https://dev.to/marufhossain/the-complete-guide-to-scaling-with-mlops-gdh)
-- [How To Deploy a WordPress Blog with AWS](https://dev.to/hamdivazim/how-to-deploy-a-wordpress-blog-with-aws-1pcb)
+- [Agent Development Kit: Making it easy to build multi-agent applications](https://dev.to/googleai/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594)
+- [Injecting Environment Variables in Webpack Projects](https://dev.to/lovestaco/injecting-environment-variables-in-webpack-projects-2p2f)
+- [10 DevOps Tasks I’ve Stopped Doing Manually &lpar;Kudos to &#39;This&#39; CLI Agent&rpar;](https://dev.to/forgecode/10-devops-tasks-ive-stopped-doing-manually-kudos-to-this-cli-agent-1gc4)
+- [Hey Dev Community 👋 🚀 LaraCopilot is live on Product Hunt! Your AI Laravel engineer — turn plain English into full-stack MVPs. Show some love and upvote our launch ❤️ 👉 https://www.producthunt.com/products/laracopilot](https://dev.to/avinashvagh/hey-dev-community-laracopilot-is-live-on-product-hunt-your-ai-laravel-engineer-turn-16ok)
 <!-- BLOG-POST-LIST:END -->
 
 
