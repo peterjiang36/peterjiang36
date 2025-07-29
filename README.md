@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Red Teaming in Cyber Resilience Planning](https://dev.to/elly_anderson_9e359c03670/the-role-of-red-teaming-in-cyber-resilience-planning-55ae)
-- [Devise with Ruby on Rails 💡](https://dev.to/ritumka/devise-with-ruby-on-rails-51nf)
-- [Grid DP / Pathfinding Template](https://dev.to/rock_win_c053fa5fb2399067/grid-dp-pathfinding-template-2lmb)
-- [🧠 MASTER TEMPLATE #2: DP on Strings / Sequences](https://dev.to/rock_win_c053fa5fb2399067/master-template-2-dp-on-strings-sequences-54a6)
+- [Visual Database Management &amp; Design Tool for IBM Db2](https://dev.to/roxana_haidiner/visual-database-management-design-tool-for-ibm-db2-1gbn)
+- [Games X Education: How EdTech Is Partnering with Game Devs to Redefine Learning](https://dev.to/red_apple_technologies/games-x-education-how-edtech-is-partnering-with-game-devs-to-redefine-learning-knc)
+- [Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️](https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3)
+- [Why Every Developer Needs 5-Minute Breaks &lpar;And My Favorite Stress-Buster Game!&rpar;](https://dev.to/ravinder_e30de87b53f67bdc/why-every-developer-needs-5-minute-breaks-and-my-favorite-stress-buster-game-31on)
 <!-- BLOG-POST-LIST:END -->
 
 
