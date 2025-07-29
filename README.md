@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Any Picture into a Spreadsheet with FileConvertFree &lpar;Image to Excel Tool&rpar;](https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9)
-- [Say Goodbye to Unfair Performance Reviews with Team Vertex](https://dev.to/bhupinderjeet_singh_c3a7f/say-goodbye-to-unfair-performance-reviews-with-team-vertex-2nle)
-- [An Ode to Clarity — Bitcoin’s White Paper Could Have Launched Sooner &lpar;and We Missed the Rocket&rpar;.](https://dev.to/quetzalquant/an-ode-to-clarity-bitcoins-white-paper-could-have-launched-sooner-and-we-missed-the-rocket-59do)
-- [¿Por dónde empezarías un proyecto? No, no es solo por la lógica](https://dev.to/altaskur/por-donde-empezarias-un-proyecto-no-no-es-solo-por-la-logica-1dao)
+- [Custom Domain for Web Apps on Cloud Run - How to Set Up Application Load Balancer on GCP](https://dev.to/charlottetowell/custom-domain-for-web-apps-on-cloud-run-how-to-set-up-application-load-balancer-on-gcp-4kn0)
+- [Part 6: ERC-20 Tokens with web3.py - Balances, Transfers, and Approvals](https://dev.to/divine_igbinoba_fb6de7207/part-6-erc-20-tokens-with-web3py-balances-transfers-and-approvals-166c)
+- [How AI Fuels Our Dream of Living on Mars](https://dev.to/sebastian_reid999/how-ai-fuels-our-dream-of-living-on-mars-3bgk)
+- [The side project that made me love shell scripting](https://dev.to/samyorel/the-side-project-that-made-me-love-shell-scripting-4e1i)
 <!-- BLOG-POST-LIST:END -->
 
 
