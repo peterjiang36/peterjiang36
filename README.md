@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Suspense&quot; with a Promise and an Attribute Mixin](https://dev.to/dariomannu/suspense-with-a-promise-and-an-attribute-mixin-3ldn)
-- [Embeddings &amp; Cosine Similarity Explained Simply](https://dev.to/busycaesar/embeddings-cosine-similarity-4541)
-- [Venmo App Development: Creating the Next Generation of Seamless Payment Apps](https://dev.to/encodedots/venmo-app-development-creating-the-next-generation-of-seamless-payment-apps-1p30)
-- [Deploy of MySQL to DRF&lpar;Django Rest Framework&rpar;](https://dev.to/lanqi_gao/deploy-of-mysql-to-drfdjango-rest-framework-5d15)
+- [Do One Thing: Mastering Prioritization for High-Performing Teams](https://dev.to/victoria/do-one-thing-mastering-prioritization-for-high-performing-teams-4091)
+- [Building Telegram Automation Workflows with n8n and Pinggy Webhooks](https://dev.to/lightningdev123/building-telegram-automation-workflows-with-n8n-and-pinggy-webhooks-12co)
+- [Protecting Against Open Source Malicious Packages: What Does &lpar;Not&rpar; Work](https://dev.to/xygenisecurity/protecting-against-open-source-malicious-packages-what-does-not-work-iaj)
+- [The Evolution of Large Language Models: From Rule-Based Systems to Modern AI](https://dev.to/anshuman_ojha_/the-evolution-of-large-language-models-from-rule-based-systems-to-modern-ai-2bnn)
 <!-- BLOG-POST-LIST:END -->
 
 
