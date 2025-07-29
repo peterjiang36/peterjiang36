@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Domain for Web Apps on Cloud Run - How to Set Up Application Load Balancer on GCP](https://dev.to/charlottetowell/custom-domain-for-web-apps-on-cloud-run-how-to-set-up-application-load-balancer-on-gcp-4kn0)
-- [Part 6: ERC-20 Tokens with web3.py - Balances, Transfers, and Approvals](https://dev.to/divine_igbinoba_fb6de7207/part-6-erc-20-tokens-with-web3py-balances-transfers-and-approvals-166c)
-- [How AI Fuels Our Dream of Living on Mars](https://dev.to/sebastian_reid999/how-ai-fuels-our-dream-of-living-on-mars-3bgk)
-- [The side project that made me love shell scripting](https://dev.to/samyorel/the-side-project-that-made-me-love-shell-scripting-4e1i)
+- [Why bridges keep getting hacked &amp; Why Modular Interoperability is the way out](https://dev.to/doanlonghau/why-bridges-keep-getting-hacked-why-modular-interoperability-is-the-way-out-185p)
+- [Why Most Accounting Systems Suck &lpar;and How to Not Build One That Does&rpar;](https://dev.to/abyssalbalde110/why-most-accounting-systems-suck-and-how-to-not-build-one-that-does-16ho)
+- [Using GCP Load Balancer to Handle 301 Redirects to Other Domains](https://dev.to/charlottetowell/using-gcp-load-balancer-to-handle-301-redirects-to-other-domains-3go6)
+- [Is Data Science is machine learning?](https://dev.to/danyearl/is-data-science-is-machine-learning-262d)
 <!-- BLOG-POST-LIST:END -->
 
 
