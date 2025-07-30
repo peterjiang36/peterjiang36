@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You cannot miss this!!](https://dev.to/alifar/you-cannot-miss-this-1bk7)
-- [AI-Generated Workflows: Automate Complex Processes from Plain Text](https://dev.to/alifar/ai-generated-workflows-automate-complex-processes-from-plain-text-1d1k)
-- [What Is Steganography? Hidden Messages in Images Explained](https://dev.to/trixsec/what-is-steganography-hidden-messages-in-images-explained-5h7g)
-- [Writing the 4 basic SQL Queries](https://dev.to/raman_butta/writing-the-4-basic-sql-queries-4l24)
+- [Day 50: When College Systems Work Against Students](https://dev.to/casperday11/day-50-when-college-systems-work-against-students-11d9)
+- [The Good and the Bad of GraphQL Explained](https://dev.to/engroso/the-good-and-the-bad-of-graphql-explained-1dd1)
+- [Building 2048 with ArkTS 2](https://dev.to/harmonyos/building-2048-with-arkts-2-527g)
+- [Build a Fullstack Stock Portfolio Agent with Mastra and AG-UI](https://dev.to/copilotkit/build-a-fullstack-stock-portfolio-agent-with-mastra-and-ag-ui-1ci2)
 <!-- BLOG-POST-LIST:END -->
 
 
