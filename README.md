@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Ways Google NotebookLM Can Make Your Workday Smarter](https://dev.to/alifar/boost-productivity-with-notebooklm-7-smart-use-cases-for-smarter-work-4o2l)
-- [A guide to optimizing performance and security for MCP servers](https://dev.to/nishantbijani/a-guide-to-optimizing-performance-and-security-for-mcp-servers-1pm9)
-- [🔮 Top 5 Future-Proof Tech Skills Every Developer Should Learn](https://dev.to/pjdeveloper896/top-5-future-proof-tech-skills-every-developer-should-learn-3a5m)
-- [The Developer&#39;s Context Switch Tax: How to Minimize Mental Overhead](https://dev.to/pratham_naik_project_manager/the-developers-context-switch-tax-how-to-minimize-mental-overhead-29g)
+- [Dev Thought of the Day](https://dev.to/i_am_yaseen/dev-thought-of-the-day-1mh1)
+- [How AI Changed 3D Printing](https://dev.to/planke/how-ai-changed-3d-printing-1mi3)
+- [From React to the Canvas: My First Creative Build with React Konva](https://dev.to/ilsa_shaikh_089e2bfab0bf4/from-react-to-the-canvas-my-first-creative-build-with-react-konva-285h)
+- [How I Automated My Photo Backup &lpar;So I Don’t Have to Pay for Cloud Storage or Manually Upload Every Time&rpar;](https://dev.to/mukuls1107/how-i-automated-my-photo-backup-so-i-dont-have-to-pay-for-cloud-storage-or-manually-upload-every-4n32)
 <!-- BLOG-POST-LIST:END -->
 
 
