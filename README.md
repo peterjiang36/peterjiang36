@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix &quot;Cannot Read Property of Undefined&quot; with Stack Overflow API](https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i)
-- [Combine ChatGPT with Stack Overflow API for Better Code](https://dev.to/talon_neely_23a3526f51ebc/combine-chatgpt-with-stack-overflow-api-for-better-code-i09)
-- [Build Copilot Alternative with Stack Overflow API](https://dev.to/talon_neely_23a3526f51ebc/build-copilot-alternative-with-stack-overflow-api-27a2)
-- [🌐 Semantic HTML: Dando Significado ao Seu Código](https://dev.to/wandersonchaves/semantic-html-dando-significado-ao-seu-codigo-3cjo)
+- [Mastering Pointers in Doubly Linked Lists: Challenges and Solutions](https://dev.to/adityabhuyan/mastering-pointers-in-doubly-linked-lists-challenges-and-solutions-bo7)
+- [Mastering Git for Beginners – Start Your Dev Journey with Confidence!](https://dev.to/rohit_kumar_0193e4393f4bb/mastering-git-for-beginners-start-your-dev-journey-with-confidence-22dp)
+- [What is JSON.stringify&lpar;&rpar;? A Beginner’s Guide with Examples](https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn)
+- [Google Maps TMS Service Parameter Analysis](https://dev.to/yangholmes/google-maps-tms-service-parameter-analysis-1blb)
 <!-- BLOG-POST-LIST:END -->
 
 
