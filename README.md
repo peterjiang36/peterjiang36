@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 50: When College Systems Work Against Students](https://dev.to/casperday11/day-50-when-college-systems-work-against-students-11d9)
-- [The Good and the Bad of GraphQL Explained](https://dev.to/engroso/the-good-and-the-bad-of-graphql-explained-1dd1)
-- [Building 2048 with ArkTS 2](https://dev.to/harmonyos/building-2048-with-arkts-2-527g)
-- [Build a Fullstack Stock Portfolio Agent with Mastra and AG-UI](https://dev.to/copilotkit/build-a-fullstack-stock-portfolio-agent-with-mastra-and-ag-ui-1ci2)
+- [What&#39;s the One DevOps &quot;Best Practice&quot; You Secretly Ignore &lpar;and Why&rpar;?](https://dev.to/devopsdaily/whats-the-one-devops-best-practice-you-secretly-ignore-and-why-2460)
+- [How OpenRouter Unlocked Our Workshop Strategy](https://dev.to/blockopensource/how-openrouter-unlocked-our-workshop-strategy-5082)
+- [Migrate Your App to Swift 6: A Comprehensive Guide](https://dev.to/arshtechpro/migrate-your-app-to-swift-6-a-comprehensive-guide-14df)
+- [7 Ways to Use AI to Build a Minimum Viable Product &lpar;MVP&rpar; Fast](https://dev.to/sk_tbak/7-ways-to-use-ai-to-build-a-minimum-viable-product-mvp-fast-ji0)
 <!-- BLOG-POST-LIST:END -->
 
 
