@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Street Fighter 6 - Official Character Guide: Sagat Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-character-guide-sagat-trailer-2big)
-- [IGN: WWE&#39;s Dominik Mysterio Reacts to The Best Dominik Mysterio Memes](https://dev.to/gg_news/ign-wwes-dominik-mysterio-reacts-to-the-best-dominik-mysterio-memes-46p0)
-- [IGN: Drag x Drive - Official Nintendo Switch 2 Overview Trailer](https://dev.to/gg_news/ign-drag-x-drive-official-nintendo-switch-2-overview-trailer-3jif)
-- [Ringer Movies: ‘The Fantastic Four: First Steps&#39; Is Here. Plus: Our Fall Film Festival Preview. | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-fantastic-four-first-steps-is-here-plus-our-fall-film-festival-preview--1cdd)
+- [IGN: Hell is Us - Official &#39;Diving into the Dungeons&#39; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-diving-into-the-dungeons-overview-trailer-2nef)
+- [IGN: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-review-3do)
+- [IGN: Plushes - Official Teaser Trailer](https://dev.to/gg_news/ign-plushes-official-teaser-trailer-1m77)
+- [IGN: Rainbow Six Siege X - Official Rengoku 3 Gameplay Trailer](https://dev.to/gg_news/ign-rainbow-six-siege-x-official-rengoku-3-gameplay-trailer-e99)
 <!-- BLOG-POST-LIST:END -->
 
 
