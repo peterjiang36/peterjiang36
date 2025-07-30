@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Test Deployment: Terraform + AWS Free Tier: A 30‑Minute Playground](https://dev.to/venuziano/from-zero-to-test-deployment-terraform-aws-free-tier-a-30-minute-playground-599)
-- [Hands-On Guide: Launching a WordPress Blog Using AWS Lightsail &lpar;For Beginners&rpar;](https://dev.to/peter_samuel_052b9056e236/hands-on-guide-launching-a-wordpress-blog-using-aws-lightsail-for-beginners-gkl)
-- [Level Up Your GitHub Repo with Professional Documentation 🔥](https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p)
-- [☁️ EC2: AWS-Elastic Compute Cloud &lpar;Real-World Friendly &rpar;](https://dev.to/0xas1fsec404/ec2-aws-elastic-compute-cloud-real-world-friendly--1mk1)
+- [Why TCS Is Letting Go of ~12,000 Employees: The Inside Story and What Comes Next](https://dev.to/nikhilwagh/why-tcs-is-letting-go-of-12000-employees-the-inside-story-and-what-comes-next-3jj4)
+- [How to Split a Python String into Characters](https://dev.to/kiani0x01/how-to-split-a-python-string-into-characters-18ej)
+- [Guide pratique pour sécuriser votre PME contre les cybermenaces](https://dev.to/robin_boucher_4a5559d1b96/guide-pratique-pour-securiser-votre-pme-contre-les-cybermenaces-2i0n)
+- [Deactivating Python venv](https://dev.to/kiani0x01/deactivating-python-venv-8ih)
 <!-- BLOG-POST-LIST:END -->
 
 
