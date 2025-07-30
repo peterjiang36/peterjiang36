@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI helps you log into the server and locate and fix problems. It’s cool, but you need to pay attention to setting the rules!](https://dev.to/mkstudio/ai-helps-you-log-into-the-server-and-locate-and-fix-problems-its-cool-but-you-need-to-pay-3gkg)
-- [From Clunky Notes to Clean Markdown: I Built the Editor I Always Wanted](https://dev.to/emmanueln07/from-clunky-notes-to-clean-markdown-i-built-the-editor-i-always-wanted-3e15)
-- [Never Sleep Again: How I Built AwakeLock, a Robust, Multi-Layered Solution for Web Wake Locks](https://dev.to/emmanueln07/never-sleep-again-how-i-built-awakelock-a-robust-multi-layered-solution-for-web-wake-locks-o5i)
-- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #5&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-5-3o19)
+- [Fix &quot;Cannot Read Property of Undefined&quot; with Stack Overflow API](https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i)
+- [Combine ChatGPT with Stack Overflow API for Better Code](https://dev.to/talon_neely_23a3526f51ebc/combine-chatgpt-with-stack-overflow-api-for-better-code-i09)
+- [Build Copilot Alternative with Stack Overflow API](https://dev.to/talon_neely_23a3526f51ebc/build-copilot-alternative-with-stack-overflow-api-27a2)
+- [🌐 Semantic HTML: Dando Significado ao Seu Código](https://dev.to/wandersonchaves/semantic-html-dando-significado-ao-seu-codigo-3cjo)
 <!-- BLOG-POST-LIST:END -->
 
 
