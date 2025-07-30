@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Meta&#39;s AI-Driven Interviews Are Transforming Software Engineering Recruitment](https://dev.to/jay_all_day/how-metas-ai-driven-interviews-are-transforming-software-engineering-recruitment-l0l)
-- [How Laravel Loads and Caches Translation Files in Localization](https://dev.to/yasserelgammal/how-laravel-loads-and-caches-translation-files-in-localization-4gk)
-- [Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years](https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4)
-- [Gareth David Studio: Effortlessly CONVERT Images to Greyscale In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-effortlessly-convert-images-to-greyscale-in-indesign-design-tutorial-37mj)
+- [Ask In Bio - Linktree Killer: After the Hack - WLH Challenge](https://dev.to/ariondev/ask-in-bio-linktree-killer-after-the-hack-wlh-challenge-59pe)
+- [Open World Tours - Gamified Tourism Quest App: Beyond the Code - WLH Challenge](https://dev.to/ariondev/open-world-tours-gamified-tourism-quest-app-beyond-the-code-wlh-challenge-47af)
+- [What To Do if Your Web Site Is as Slow as Molasses in January](https://dev.to/cloudinary/what-to-do-if-your-web-site-is-as-slow-as-molasses-in-january-2j4f)
+- [[Boost]](https://dev.to/krono12/-39nn)
 <!-- BLOG-POST-LIST:END -->
 
 
