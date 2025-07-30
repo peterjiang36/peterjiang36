@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WT Yandex map items v.2.0.5 Joomla module has been released](https://dev.to/sergeytolkachyov/wt-yandex-map-items-v205-joomla-module-has-been-released-1350)
-- [10 Most Common Concrete Tests &amp; the Equipment You Need](https://dev.to/engineering_solution_cfcf/10-most-common-concrete-tests-the-equipment-you-need-1k52)
-- [Top 8 Open Source MCP Projects with the Most GitHub Stars](https://dev.to/nocobase/top-8-open-source-mcp-projects-with-the-most-github-stars-167d)
-- [Mastering CSS Container Queries: A New Era of Responsive Design](https://dev.to/vasanthadeepikaoff/mastering-css-container-queries-a-new-era-of-responsive-design-17o2)
+- [Take Control: Manage Hybrid Cloud Environment Using Azure Arc](https://dev.to/testree/take-control-manage-hybrid-cloud-environment-using-azure-arc-1m5l)
+- [Best Translation Software for PC](https://dev.to/colinreed/best-translation-software-for-pc-35ci)
+- [bbb](https://dev.to/armaankhan8270/bbb-14h)
+- [Build a Local Server to Sync Your Contacts and Calendars](https://dev.to/vihanga_anuththara_0a402f/build-a-local-server-to-sync-your-contacts-and-calendars-3aen)
 <!-- BLOG-POST-LIST:END -->
 
 
