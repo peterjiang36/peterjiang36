@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Top 25 Chrome Extensions for DEVs🧑‍💻](https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a)
-- [Project KARL](https://dev.to/theaniketraj/project-karl-27e)
-- [Laravel Filament Multipanel Starter - Build your app fast](https://dev.to/filamentmastery/laravel-filament-multipanel-starter-build-your-app-fast-1g73)
-- [Claude 4 Drops, AI Gets Scary Smart, and Why Your Next Job Interview Might Be Against a Bot](https://dev.to/shiva_shanker_k/claude-4-drops-ai-gets-scary-smart-and-why-your-next-job-interview-might-be-against-a-bot-3mfo)
+- [Top 7 AI Headshot Generators &lpar;Tested &amp; Compared&rpar;](https://dev.to/nitinfab/top-7-ai-headshot-generators-tested-compared-g5o)
+- [First Thoughts on Azure vs Aws as a young dev](https://dev.to/aksh11/first-thoughts-on-azure-vs-aws-as-a-young-dev-46pb)
+- [Why Are More Projects Embracing Hybrid Development?](https://dev.to/xinjie_zou_d67d2805538130/why-are-more-projects-embracing-hybrid-development-4ogl)
+- [Stop abusing .env files 🔒](https://dev.to/abiji-2020/stop-abusing-env-files-3amj)
 <!-- BLOG-POST-LIST:END -->
 
 
