@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 AI Headshot Generators &lpar;Tested &amp; Compared&rpar;](https://dev.to/nitinfab/top-7-ai-headshot-generators-tested-compared-g5o)
-- [First Thoughts on Azure vs Aws as a young dev](https://dev.to/aksh11/first-thoughts-on-azure-vs-aws-as-a-young-dev-46pb)
-- [Why Are More Projects Embracing Hybrid Development?](https://dev.to/xinjie_zou_d67d2805538130/why-are-more-projects-embracing-hybrid-development-4ogl)
-- [Stop abusing .env files 🔒](https://dev.to/abiji-2020/stop-abusing-env-files-3amj)
+- [You cannot miss this!!](https://dev.to/alifar/you-cannot-miss-this-1bk7)
+- [AI-Generated Workflows: Automate Complex Processes from Plain Text](https://dev.to/alifar/ai-generated-workflows-automate-complex-processes-from-plain-text-1d1k)
+- [What Is Steganography? Hidden Messages in Images Explained](https://dev.to/trixsec/what-is-steganography-hidden-messages-in-images-explained-5h7g)
+- [Writing the 4 basic SQL Queries](https://dev.to/raman_butta/writing-the-4-basic-sql-queries-4l24)
 <!-- BLOG-POST-LIST:END -->
 
 
