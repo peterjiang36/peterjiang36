@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Thought of the Day](https://dev.to/i_am_yaseen/dev-thought-of-the-day-1mh1)
-- [How AI Changed 3D Printing](https://dev.to/planke/how-ai-changed-3d-printing-1mi3)
-- [From React to the Canvas: My First Creative Build with React Konva](https://dev.to/ilsa_shaikh_089e2bfab0bf4/from-react-to-the-canvas-my-first-creative-build-with-react-konva-285h)
-- [How I Automated My Photo Backup &lpar;So I Don’t Have to Pay for Cloud Storage or Manually Upload Every Time&rpar;](https://dev.to/mukuls1107/how-i-automated-my-photo-backup-so-i-dont-have-to-pay-for-cloud-storage-or-manually-upload-every-4n32)
+- [ArkTS Best Practices: How to Build a Modular Theme Management System in 2025](https://dev.to/harmonyos/arkts-best-practices-how-to-build-a-modular-theme-management-system-in-2025-4e4p)
+- [The Two Generals’ Problem: A Fundamental Communication Paradox](https://dev.to/grenishrai/the-two-generals-problem-a-fundamental-communication-paradox-2oh8)
+- [Announcing APISIX Integration with AI/ML API](https://dev.to/apisix/announcing-apisix-integration-with-aiml-api-20gm)
+- [Introducing 2Perks: The collaborative perks platform for businesses](https://dev.to/aledb/introducing-2perks-the-collaborative-perks-platform-for-businesses-2m6n)
 <!-- BLOG-POST-LIST:END -->
 
 
