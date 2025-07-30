@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Legacy Insurance with Neo4J,Redis and AI — robust, scalable, low latency — Smart Crawling Legacy Portal.](https://dev.to/roy777rajat/transforming-legacy-insurance-with-neo4jredis-and-ai-robust-scalable-low-latency-smart-2cle)
-- [Beyond the Spread: **`structuredClone`** vs `{ ...obj }` — Deep-Copy Tactics Every React + TypeScript Engineer Should Master](https://dev.to/cristiansifuentes/beyond-the-spread-structuredclone-vs-obj-deep-copy-tactics-every-react--4pip)
-- [[Boost]](https://dev.to/rakeshv675/-43cl)
-- [How to use One UI Sans in your website](https://dev.to/f_daamazon_92ebb96fd22e/how-to-use-one-ui-sans-in-your-website-55mk)
+- [AI helps you log into the server and locate and fix problems. It’s cool, but you need to pay attention to setting the rules!](https://dev.to/mkstudio/ai-helps-you-log-into-the-server-and-locate-and-fix-problems-its-cool-but-you-need-to-pay-3gkg)
+- [From Clunky Notes to Clean Markdown: I Built the Editor I Always Wanted](https://dev.to/emmanueln07/from-clunky-notes-to-clean-markdown-i-built-the-editor-i-always-wanted-3e15)
+- [Never Sleep Again: How I Built AwakeLock, a Robust, Multi-Layered Solution for Web Wake Locks](https://dev.to/emmanueln07/never-sleep-again-how-i-built-awakelock-a-robust-multi-layered-solution-for-web-wake-locks-o5i)
+- [Creating Blog Tutorial Using Next.JS 15 &amp; TailwindCSS 4.0 &lpar;Part #5&rpar;](https://dev.to/gerryleonugroho/creating-blog-tutorial-using-nextjs-15-tailwindcss-40-part-5-3o19)
 <!-- BLOG-POST-LIST:END -->
 
 
