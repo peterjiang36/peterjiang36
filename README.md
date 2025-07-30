@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask In Bio - Linktree Killer: After the Hack - WLH Challenge](https://dev.to/ariondev/ask-in-bio-linktree-killer-after-the-hack-wlh-challenge-59pe)
-- [Open World Tours - Gamified Tourism Quest App: Beyond the Code - WLH Challenge](https://dev.to/ariondev/open-world-tours-gamified-tourism-quest-app-beyond-the-code-wlh-challenge-47af)
-- [What To Do if Your Web Site Is as Slow as Molasses in January](https://dev.to/cloudinary/what-to-do-if-your-web-site-is-as-slow-as-molasses-in-january-2j4f)
-- [[Boost]](https://dev.to/krono12/-39nn)
+- [From Zero to Test Deployment: Terraform + AWS Free Tier: A 30‑Minute Playground](https://dev.to/venuziano/from-zero-to-test-deployment-terraform-aws-free-tier-a-30-minute-playground-599)
+- [Hands-On Guide: Launching a WordPress Blog Using AWS Lightsail &lpar;For Beginners&rpar;](https://dev.to/peter_samuel_052b9056e236/hands-on-guide-launching-a-wordpress-blog-using-aws-lightsail-for-beginners-gkl)
+- [Level Up Your GitHub Repo with Professional Documentation 🔥](https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p)
+- [☁️ EC2: AWS-Elastic Compute Cloud &lpar;Real-World Friendly &rpar;](https://dev.to/0xas1fsec404/ec2-aws-elastic-compute-cloud-real-world-friendly--1mk1)
 <!-- BLOG-POST-LIST:END -->
 
 
