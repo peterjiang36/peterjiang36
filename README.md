@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal Face Recognition Pipeline with CocoIndex: Real-Time Image and Vector Search](https://dev.to/cocoindex/multimodal-face-recognition-pipeline-with-cocoindex-real-time-image-and-vector-search-19hi)
-- [🎮 I Built a Python Games Bundle — 3 Games + EXE + Mockups + Docs &lpar;Arabic &amp; English&rpar;](https://dev.to/codewithabdel/i-built-a-python-games-bundle-3-games-exe-mockups-docs-arabic-english-16cp)
-- [Modernizing Legacy Systems with AWS: Scalable, Secure &amp; AI-Ready](https://dev.to/emmao/modernizing-legacy-systems-with-aws-scalable-secure-ai-ready-403a)
-- [Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations](https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9)
+- [Transforming Legacy Insurance with Neo4J,Redis and AI — robust, scalable, low latency — Smart Crawling Legacy Portal.](https://dev.to/roy777rajat/transforming-legacy-insurance-with-neo4jredis-and-ai-robust-scalable-low-latency-smart-2cle)
+- [Beyond the Spread: **`structuredClone`** vs `{ ...obj }` — Deep-Copy Tactics Every React + TypeScript Engineer Should Master](https://dev.to/cristiansifuentes/beyond-the-spread-structuredclone-vs-obj-deep-copy-tactics-every-react--4pip)
+- [[Boost]](https://dev.to/rakeshv675/-43cl)
+- [How to use One UI Sans in your website](https://dev.to/f_daamazon_92ebb96fd22e/how-to-use-one-ui-sans-in-your-website-55mk)
 <!-- BLOG-POST-LIST:END -->
 
 
