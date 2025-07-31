@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [IGN: Mario Kart World - Does Version 1.2.0 Fix Online Play? Patch Breakdown](https://dev.to/gg_news/ign-mario-kart-world-does-version-120-fix-online-play-patch-breakdown-4oaj)
+- [🤖 YOGA AI ASSISTANT-BOT✨](https://dev.to/yoga0022/yoga-ai-assistant-bot-5feg)
 - [TIL - My First Dive into Ruby!](https://dev.to/arsalanbardsiri/til-my-first-dive-into-ruby-d28)
 - [Pick Up The Power Of Array Method &lpar;Part 1&rpar;](https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do)
-- [S3 vs EBS vs EFS – AWS Storage Simplified with Real-Life Use Cases 📦](https://dev.to/yash_sonawane25/s3-vs-ebs-vs-efs-aws-storage-simplified-with-real-life-use-cases-2o09)
-- [Untitled](https://dev.to/ms_kennedy_576288bcc6de88/untitled-415e)
 <!-- BLOG-POST-LIST:END -->
 
 
