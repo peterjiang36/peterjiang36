@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [. isn&#39;t needed at the end of ALT attributes](https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf)
-- [Charlex WebOS](https://dev.to/pyshwaa/charlex-webos-13hd)
-- [Regular Expressions &lpar;REGEX&rpar;: A Quick Refresher](https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh)
-- [The Double-Edged Sword of AI in Software Engineering: Balancing Power and Peril](https://dev.to/nikhilgoud/the-double-edged-sword-of-ai-in-software-engineering-balancing-power-and-peril-12d6)
+- [Clean and Compare Strings in SQL with TRIM](https://dev.to/dbvismarketing/clean-and-compare-strings-in-sql-with-trim-3j9h)
+- [LangChain.js with Node.js: Build AI-Powered Apps Fast](https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj)
+- [Skyline Queries for Non-Academics](https://dev.to/gkoos/skyline-queries-for-non-academics-49am)
+- [LeetCode #. Contains Duplicate](https://dev.to/desiato/leetcode-contains-duplicate-5bjb)
 <!-- BLOG-POST-LIST:END -->
 
 
