@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Glitches to Glory: Crafting Give with Bolt](https://dev.to/somtochukwu_umehdaniel_3/from-glitches-to-glory-crafting-give-with-bolt-8c6)
-- [How to Build an AI-Based Quiz Maker App with Flask – EdTech Project for Beginners](https://dev.to/niveshbansal07/how-to-build-an-ai-based-quiz-maker-app-with-flask-edtech-project-for-beginners-352k)
-- [HI THERE!!!](https://dev.to/fletcher254/hi-there-1ogg)
-- [Why 2-Phase Commit Fails in Microservices — And How the Saga Pattern Saves the Day](https://dev.to/akshay161099/why-2-phase-commit-fails-in-microservices-and-how-the-saga-pattern-saves-the-day-3f9p)
+- [Wrap Once, Run Everywhere_ Integrating Python with .NET, Java, and Node.js using Javonet](https://dev.to/javonet/wrap-once-run-everywhere-integrating-python-with-net-java-and-nodejs-using-javonet-b0n)
+- [Bongo Cat Takes Over Your Wayland Desktop: A Delightful Open-Source Project](https://dev.to/githubopensource/bongo-cat-takes-over-your-wayland-desktop-a-delightful-open-source-project-29m0)
+- [BrandForge AI-generates business logos](https://dev.to/vernard_sharbney_4c39f22b/brandforge-ai-generates-business-logos-2k6k)
+- [ByteAether.Ulid v1.3.0: Enhanced ULID Generation Control and Security](https://dev.to/gigaherz/byteaetherulid-v130-enhanced-ulid-generation-control-and-security-3mbh)
 <!-- BLOG-POST-LIST:END -->
 
 
