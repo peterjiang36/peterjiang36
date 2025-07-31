@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #212](https://dev.to/aws/aws-open-source-newsletter-212-1l55)
-- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
-- [Choosing a UK Application Development Company in 2025](https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p)
-- [What is Schedule Variance in Project Management?](https://dev.to/oodlesplatform/what-is-schedule-variance-in-project-management-2oi8)
+- [Boas práticas para criar prompts - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/boas-praticas-para-criar-prompts-joao-claudio-nunes-carvalho-n7d)
+- [What Is Schedule Variance in Project Management?](https://dev.to/oodles-platform/what-is-schedule-variance-in-project-management-17ee)
+- [Mr Sunday Movies: Bulletproof Monk - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-bulletproof-monk-caravan-of-garbage-191j)
+- [Conway&#39;s Law: The Organizational Frame your Architecture will not escape from](https://dev.to/alvarolorentedev/conways-law-the-organizational-frame-your-architecture-will-not-escape-from-4oaf)
 <!-- BLOG-POST-LIST:END -->
 
 
