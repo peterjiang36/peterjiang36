@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git default options](https://dev.to/nfrankel/git-default-options-59pc)
-- [It&#39;s 2025: Your Python Toolbox Is More Than Just PyCharm](https://dev.to/platypus98/its-2025-your-python-toolbox-is-more-than-just-pycharm-5fa)
-- [Calculating the Win Probabilities of Premier League Teams&lpar;2024&rpar;](https://dev.to/faith_cheptoo_799c7f28353/calculating-the-win-probabilities-of-premier-league-teams2024-ega)
-- [How We Automated Project Administration with Jira, Make and Airtable](https://dev.to/alifar/how-we-automated-project-administration-with-jira-make-and-airtable-4i3g)
+- [I couldn’t come up with a title](https://dev.to/fredrick_oladipupo/i-couldnt-come-up-with-a-title-1887)
+- [Save time and focus on the right part with this hack](https://dev.to/sroy8091/save-time-and-focus-on-the-right-part-with-this-hack-5735)
+- [Gemini Live API: Cycle Tour 🚴🏽](https://dev.to/googleworkspace/gemini-live-api-cycle-tour-1kf2)
+- [How AI Technology is Impacting the Sales Process](https://dev.to/joywinter90/how-ai-technology-is-impacting-the-sales-process-62)
 <!-- BLOG-POST-LIST:END -->
 
 
