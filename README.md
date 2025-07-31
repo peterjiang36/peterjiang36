@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I knew RSC was a rake but I stepped on it anyway](https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9)
-- [Title: XRP Price Analysis: Technical Surge and Short-Term Consolidation Risk](https://dev.to/yagyaraj_sharma_6cd410179/title-xrp-price-analysis-technical-surge-and-short-term-consolidation-risk-1hhp)
-- [Title: Goldman Sachs and BNY Mellon Partner to Launch Tokenized Money Market Funds](https://dev.to/yagyaraj_sharma_6cd410179/title-goldman-sachs-and-bny-mellon-partner-to-launch-tokenized-money-market-funds-10ig)
-- [What is Layout, Paint, Composite? and How Do They Affect Web Performance?](https://dev.to/timjat/what-is-layout-paint-composite-and-how-do-they-affect-web-performance-48ml)
+- [How to Use innerHTML, innerText, and textContent Correctly in JavaScript](https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-use-innerhtml-innertext-and-textcontent-correctly-in-javascript-b4b)
+- [No Laying Up Podcast: Ben Griffin | NLU Pod, Ep 1049](https://dev.to/youtube_golf/no-laying-up-podcast-ben-griffin-nlu-pod-ep-1049-298k)
+- [IGN: Borderlands 4 - Official Rafa &#39;YOLT&#39; Character Story Trailer](https://dev.to/gg_news/ign-borderlands-4-official-rafa-yolt-character-story-trailer-5a68)
+- [IGN: The Lost Bus - Official Trailer &lpar;2025&rpar; Matthew McConaughey, America Ferrera](https://dev.to/gg_news/ign-the-lost-bus-official-trailer-2025-matthew-mcconaughey-america-ferrera-37hh)
 <!-- BLOG-POST-LIST:END -->
 
 
