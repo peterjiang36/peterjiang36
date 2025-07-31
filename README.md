@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Machine Maintenance Software and ITAM Software](https://dev.to/teresa_tran/difference-between-machine-maintenance-software-and-itam-software-182k)
-- [🔧 How to Debug containerd Like a Pro](https://dev.to/hexshift/how-to-debug-containerd-like-a-pro-254o)
-- [State Management Showdown – Redux Toolkit vs Zustand vs React Query](https://dev.to/maurya-sachin/state-management-showdown-redux-toolkit-vs-zustand-vs-react-query-p44)
-- [🚀 Speed Up containerd Image Pulls with These Proven Techniques](https://dev.to/hexshift/speed-up-containerd-image-pulls-with-these-proven-techniques-1jna)
+- [. isn&#39;t needed at the end of ALT attributes](https://dev.to/devy/-isnt-needed-at-the-end-of-alt-attributes-52cf)
+- [Charlex WebOS](https://dev.to/pyshwaa/charlex-webos-13hd)
+- [Regular Expressions &lpar;REGEX&rpar;: A Quick Refresher](https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh)
+- [The Double-Edged Sword of AI in Software Engineering: Balancing Power and Peril](https://dev.to/nikhilgoud/the-double-edged-sword-of-ai-in-software-engineering-balancing-power-and-peril-12d6)
 <!-- BLOG-POST-LIST:END -->
 
 
