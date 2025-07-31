@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I couldn’t come up with a title](https://dev.to/fredrick_oladipupo/i-couldnt-come-up-with-a-title-1887)
-- [Save time and focus on the right part with this hack](https://dev.to/sroy8091/save-time-and-focus-on-the-right-part-with-this-hack-5735)
-- [Gemini Live API: Cycle Tour 🚴🏽](https://dev.to/googleworkspace/gemini-live-api-cycle-tour-1kf2)
-- [How AI Technology is Impacting the Sales Process](https://dev.to/joywinter90/how-ai-technology-is-impacting-the-sales-process-62)
+- [AWS open source newsletter, #212](https://dev.to/aws/aws-open-source-newsletter-212-1l55)
+- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
+- [Choosing a UK Application Development Company in 2025](https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p)
+- [What is Schedule Variance in Project Management?](https://dev.to/oodlesplatform/what-is-schedule-variance-in-project-management-2oi8)
 <!-- BLOG-POST-LIST:END -->
 
 
