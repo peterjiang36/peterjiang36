@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wrap Once, Run Everywhere_ Integrating Python with .NET, Java, and Node.js using Javonet](https://dev.to/javonet/wrap-once-run-everywhere-integrating-python-with-net-java-and-nodejs-using-javonet-b0n)
-- [Bongo Cat Takes Over Your Wayland Desktop: A Delightful Open-Source Project](https://dev.to/githubopensource/bongo-cat-takes-over-your-wayland-desktop-a-delightful-open-source-project-29m0)
-- [BrandForge AI-generates business logos](https://dev.to/vernard_sharbney_4c39f22b/brandforge-ai-generates-business-logos-2k6k)
-- [ByteAether.Ulid v1.3.0: Enhanced ULID Generation Control and Security](https://dev.to/gigaherz/byteaetherulid-v130-enhanced-ulid-generation-control-and-security-3mbh)
+- [20 Million Users in 3 Months: What This Means for AI Coding Competition](https://dev.to/jay_all_day/20-million-users-in-3-months-what-this-means-for-ai-coding-competition-41k3)
+- [High-Performance Code Analysis Engine for Claude Code in C++17](https://dev.to/charmpic/niyacheng-zhi-itasimasitaniya-nekocode-cnoji-shu-gai-yao-nituite-ding-zhu-niying-yi-simasuniya-high-performance-code-analysis-engine-for-claude-1pci)
+- [Cost Breakdown: Outsourcing Rates by Region in 2025 &lpar;vs 2020–2025&rpar;](https://dev.to/pavel_buyeu/cost-breakdown-outsourcing-rates-by-region-in-2025-vs-2020-2025-4h01)
+- [Write Code Like Sherlock Holmes: The Art of Deductive Development 🔍](https://dev.to/vontajohnson/write-code-like-sherlock-holmes-the-art-of-deductive-development-3ghp)
 <!-- BLOG-POST-LIST:END -->
 
 
