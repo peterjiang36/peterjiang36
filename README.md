@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean and Compare Strings in SQL with TRIM](https://dev.to/dbvismarketing/clean-and-compare-strings-in-sql-with-trim-3j9h)
-- [LangChain.js with Node.js: Build AI-Powered Apps Fast](https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj)
-- [Skyline Queries for Non-Academics](https://dev.to/gkoos/skyline-queries-for-non-academics-49am)
-- [LeetCode #. Contains Duplicate](https://dev.to/desiato/leetcode-contains-duplicate-5bjb)
+- [Escaping the Dopamine Trap with Super Productivity](https://dev.to/johannesjo/escaping-the-dopamine-trap-with-super-productivity-1b4b)
+- [Javascript](https://dev.to/ehtesham19/javascript-32g3)
+- [My journey building with Bolt during the World&#39;s Largest Hackathon](https://dev.to/goldenekpendu/my-journey-building-with-bolt-during-the-worlds-largest-hackathon-2p5b)
+- [Found Critical Bugs in Lovense - They Ignored Researchers for 2 Years Until I Went Public](https://dev.to/bobdahacker/found-critical-bugs-in-lovense-they-ignored-researchers-for-2-years-until-i-went-public-32g1)
 <!-- BLOG-POST-LIST:END -->
 
 
