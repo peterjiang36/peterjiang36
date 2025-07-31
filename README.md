@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Secrets to Production-Ready LLM Architectures: Overcoming Key Challenges](https://dev.to/jay_all_day/unlocking-the-secrets-to-production-ready-llm-architectures-overcoming-key-challenges-g2a)
-- [Valtio: The Proxy-Based State That Makes React State Management Feel Like Magic](https://dev.to/genildocs/valtio-the-proxy-based-state-that-makes-react-state-management-feel-like-magic-5c0l)
-- [Unbelievable: China Dominates Top 10 Open-Source Models on HuggingFace](https://dev.to/ndmckay/unbelievable-china-dominates-top-10-open-source-models-on-huggingface-4774)
-- [Predicting win probabilities of premier league teams based on last seasons performance using Python](https://dev.to/cherotich/predicting-win-probabilities-of-premier-league-teams-based-on-last-seasons-performance-using-python-73c)
+- [Concordia: The Open-Source .NET Mediator You’ve Been Waiting For](https://dev.to/lucafabbri/concordia-the-open-source-net-mediator-youve-been-waiting-for-3ihh)
+- [I Deployed a .NET App Without DevOps Headaches — Here&#39;s How](https://dev.to/cosminirimescu/i-deployed-a-net-app-without-devops-headaches-heres-how-1ikj)
+- [⚙️🚀Complete CI/CD Guide with YAML Pipelines &lpar;Azure DevOps, Jenkins, GitHub Actions&rpar;](https://dev.to/fonteeboa/complete-cicd-guide-with-yaml-pipelines-azure-devops-jenkins-github-actions-319g)
+- [What Comes After a VPC? Routing, Firewalls, and Security Rules in AWS](https://dev.to/_eve_/what-comes-after-a-vpc-routing-firewalls-and-security-rules-in-aws-462e)
 <!-- BLOG-POST-LIST:END -->
 
 
