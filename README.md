@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mario Kart World - Does Version 1.2.0 Fix Online Play? Patch Breakdown](https://dev.to/gg_news/ign-mario-kart-world-does-version-120-fix-online-play-patch-breakdown-4oaj)
-- [🤖 YOGA AI ASSISTANT-BOT✨](https://dev.to/yoga0022/yoga-ai-assistant-bot-5feg)
-- [TIL - My First Dive into Ruby!](https://dev.to/arsalanbardsiri/til-my-first-dive-into-ruby-d28)
-- [Pick Up The Power Of Array Method &lpar;Part 1&rpar;](https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do)
+- [Difference Between Machine Maintenance Software and ITAM Software](https://dev.to/teresa_tran/difference-between-machine-maintenance-software-and-itam-software-182k)
+- [🔧 How to Debug containerd Like a Pro](https://dev.to/hexshift/how-to-debug-containerd-like-a-pro-254o)
+- [State Management Showdown – Redux Toolkit vs Zustand vs React Query](https://dev.to/maurya-sachin/state-management-showdown-redux-toolkit-vs-zustand-vs-react-query-p44)
+- [🚀 Speed Up containerd Image Pulls with These Proven Techniques](https://dev.to/hexshift/speed-up-containerd-image-pulls-with-these-proven-techniques-1jna)
 <!-- BLOG-POST-LIST:END -->
 
 
