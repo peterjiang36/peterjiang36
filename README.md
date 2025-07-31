@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Rust Programming Language Became the Most Loved Developer Choice &lpar;5 Years Running!&rpar;](https://dev.to/zblack/why-rust-programming-language-became-the-most-loved-developer-choice-5-years-running-2ao1)
-- [How I did not participate in the World&#39;s Largest Hackathon](https://dev.to/sarahokolo/how-i-did-not-participate-in-the-worlds-largest-hackathon-5403)
-- [Será que eu sei mesmo programar?](https://dev.to/filipi_firmino_dev/sera-que-eu-sei-mesmo-programar-jbg)
-- [What are the Differences Between JSP And Thymeleaf?](https://dev.to/shriyansh_iot_98734929139/what-are-the-differences-between-jsp-and-thymeleaf-8hh)
+- [I knew RSC was a rake but I stepped on it anyway](https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9)
+- [Title: XRP Price Analysis: Technical Surge and Short-Term Consolidation Risk](https://dev.to/yagyaraj_sharma_6cd410179/title-xrp-price-analysis-technical-surge-and-short-term-consolidation-risk-1hhp)
+- [Title: Goldman Sachs and BNY Mellon Partner to Launch Tokenized Money Market Funds](https://dev.to/yagyaraj_sharma_6cd410179/title-goldman-sachs-and-bny-mellon-partner-to-launch-tokenized-money-market-funds-10ig)
+- [What is Layout, Paint, Composite? and How Do They Affect Web Performance?](https://dev.to/timjat/what-is-layout-paint-composite-and-how-do-they-affect-web-performance-48ml)
 <!-- BLOG-POST-LIST:END -->
 
 
