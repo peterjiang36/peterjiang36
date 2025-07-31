@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context engineering for production-grade web agents](https://dev.to/skarpoor12/context-engineering-for-production-grade-web-agents-150a)
-- [🧠 My Personal Bash Scripts Repository on GitHub](https://dev.to/seifeldienahmad/-my-personal-bash-scripts-repository-on-github-101o)
-- [🎬 CineFlow: A Self-Hosted Workflow to Automate Jellyfin + Jackett + Transmission](https://dev.to/sandor_szilagyi/cineflow-a-self-hosted-workflow-to-automate-jellyfin-jackett-transmission-2pmi)
-- [Common Challenges in Migration Projects and How to Overcome Them](https://dev.to/fred_rodrigues_996451110b/common-challenges-in-migration-projects-and-how-to-overcome-them-4k1n)
+- [Why Rust Programming Language Became the Most Loved Developer Choice &lpar;5 Years Running!&rpar;](https://dev.to/zblack/why-rust-programming-language-became-the-most-loved-developer-choice-5-years-running-2ao1)
+- [How I did not participate in the World&#39;s Largest Hackathon](https://dev.to/sarahokolo/how-i-did-not-participate-in-the-worlds-largest-hackathon-5403)
+- [Será que eu sei mesmo programar?](https://dev.to/filipi_firmino_dev/sera-que-eu-sei-mesmo-programar-jbg)
+- [What are the Differences Between JSP And Thymeleaf?](https://dev.to/shriyansh_iot_98734929139/what-are-the-differences-between-jsp-and-thymeleaf-8hh)
 <!-- BLOG-POST-LIST:END -->
 
 
