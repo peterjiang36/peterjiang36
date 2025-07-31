@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boas práticas para criar prompts - João Cláudio Nunes Carvalho](https://dev.to/joo_cludiojoaoclaudio/boas-praticas-para-criar-prompts-joao-claudio-nunes-carvalho-n7d)
-- [What Is Schedule Variance in Project Management?](https://dev.to/oodles-platform/what-is-schedule-variance-in-project-management-17ee)
-- [Mr Sunday Movies: Bulletproof Monk - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-bulletproof-monk-caravan-of-garbage-191j)
-- [Conway&#39;s Law: The Organizational Frame your Architecture will not escape from](https://dev.to/alvarolorentedev/conways-law-the-organizational-frame-your-architecture-will-not-escape-from-4oaf)
+- [From Glitches to Glory: Crafting Give with Bolt](https://dev.to/somtochukwu_umehdaniel_3/from-glitches-to-glory-crafting-give-with-bolt-8c6)
+- [How to Build an AI-Based Quiz Maker App with Flask – EdTech Project for Beginners](https://dev.to/niveshbansal07/how-to-build-an-ai-based-quiz-maker-app-with-flask-edtech-project-for-beginners-352k)
+- [HI THERE!!!](https://dev.to/fletcher254/hi-there-1ogg)
+- [Why 2-Phase Commit Fails in Microservices — And How the Saga Pattern Saves the Day](https://dev.to/akshay161099/why-2-phase-commit-fails-in-microservices-and-how-the-saga-pattern-saves-the-day-3f9p)
 <!-- BLOG-POST-LIST:END -->
 
 
