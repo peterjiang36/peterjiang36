@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Indexes in MySQL: How long do you wait before calling an index &quot;unused&quot;?](https://dev.to/drupaladmin/indexes-in-mysql-how-long-do-you-wait-before-calling-an-index-unused-1do8)
-- [AI Agents for DevOps: Architect, Deploy, and Automate Like a Pro — Book Launch](https://dev.to/theopskart/ai-agents-for-devops-architect-deploy-and-automate-like-a-pro-book-launch-1n1o)
-- [Getting Started with AWS Auto Scaling: Automatically Handle Your EC2 Load Like a Pro](https://dev.to/oluwatobiloba_oludare1/getting-started-with-aws-auto-scaling-automatically-handle-your-ec2-load-like-a-pro-26c7)
-- [From Nope to &quot;Yes, Mom, I Applied.&quot; Or almost.](https://dev.to/imcoul/from-nope-to-yes-mom-i-applied-or-almost-mcp)
+- [ROFL Is Live on Mainnet — Confidential Compute Meets Web3](https://dev.to/caerlower/rofl-is-live-on-mainnet-confidential-compute-meets-web3-4plk)
+- [IGN: Marvel Tokon: Fighting Souls - Official Beginners Guide Overview](https://dev.to/gg_news/ign-marvel-tokon-fighting-souls-official-beginners-guide-overview-k8a)
+- [🏗️ Why 2026 Will Be the Year of Micro-SaaS](https://dev.to/resource_bunk_1077cab07da/why-2026-will-be-the-year-of-micro-saas-394l)
+- [IGN: Exiledge - Official Gameplay Trailer](https://dev.to/gg_news/ign-exiledge-official-gameplay-trailer-1m7m)
 <!-- BLOG-POST-LIST:END -->
 
 
