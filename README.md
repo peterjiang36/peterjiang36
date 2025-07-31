@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I hated React, so I created my own web framework, Nijor !](https://dev.to/debaxom/i-hated-react-so-i-created-my-own-web-framework-nijor--8cl)
-- [👋 What is SqueHub?](https://dev.to/squehub/what-is-squehub-100k)
-- [Securing REST APIs in Go &lpar;Echo Framework Edition&rpar;](https://dev.to/lovestaco/securing-rest-apis-in-go-echo-framework-edition-259g)
-- [React Native Storybook Toggle](https://dev.to/steckdev/react-native-storybook-toggle-44cp)
+- [IGN: Hela - Official Release Window Announcement Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-hela-official-release-window-announcement-trailer-nintendo-direct-partner-showcase-2025-2hdb)
+- [IGN: Just Dance 2026 Edition - Official Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-just-dance-2026-edition-official-reveal-trailer-nintendo-direct-partner-showcase-2025-4158)
+- [IGN: NBA Bounce - Official Gameplay Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-nba-bounce-official-gameplay-reveal-trailer-nintendo-direct-partner-showcase-2025-221a)
+- [IGN: Romancing Saga 2: Revenge of the Seven - Official Nintendo Switch 2 Trailer | Nintendo Direct 2025](https://dev.to/gg_news/ign-romancing-saga-2-revenge-of-the-seven-official-nintendo-switch-2-trailer-nintendo-direct-39g5)
 <!-- BLOG-POST-LIST:END -->
 
 
