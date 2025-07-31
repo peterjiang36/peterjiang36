@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the Dopamine Trap with Super Productivity](https://dev.to/johannesjo/escaping-the-dopamine-trap-with-super-productivity-1b4b)
-- [Javascript](https://dev.to/ehtesham19/javascript-32g3)
-- [My journey building with Bolt during the World&#39;s Largest Hackathon](https://dev.to/goldenekpendu/my-journey-building-with-bolt-during-the-worlds-largest-hackathon-2p5b)
-- [Found Critical Bugs in Lovense - They Ignored Researchers for 2 Years Until I Went Public](https://dev.to/bobdahacker/found-critical-bugs-in-lovense-they-ignored-researchers-for-2-years-until-i-went-public-32g1)
+- [Git default options](https://dev.to/nfrankel/git-default-options-59pc)
+- [It&#39;s 2025: Your Python Toolbox Is More Than Just PyCharm](https://dev.to/platypus98/its-2025-your-python-toolbox-is-more-than-just-pycharm-5fa)
+- [Calculating the Win Probabilities of Premier League Teams&lpar;2024&rpar;](https://dev.to/faith_cheptoo_799c7f28353/calculating-the-win-probabilities-of-premier-league-teams2024-ega)
+- [How We Automated Project Administration with Jira, Make and Airtable](https://dev.to/alifar/how-we-automated-project-administration-with-jira-make-and-airtable-4i3g)
 <!-- BLOG-POST-LIST:END -->
 
 
