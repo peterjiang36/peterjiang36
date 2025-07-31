@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Concordia: The Open-Source .NET Mediator You’ve Been Waiting For](https://dev.to/lucafabbri/concordia-the-open-source-net-mediator-youve-been-waiting-for-3ihh)
-- [I Deployed a .NET App Without DevOps Headaches — Here&#39;s How](https://dev.to/cosminirimescu/i-deployed-a-net-app-without-devops-headaches-heres-how-1ikj)
-- [⚙️🚀Complete CI/CD Guide with YAML Pipelines &lpar;Azure DevOps, Jenkins, GitHub Actions&rpar;](https://dev.to/fonteeboa/complete-cicd-guide-with-yaml-pipelines-azure-devops-jenkins-github-actions-319g)
-- [What Comes After a VPC? Routing, Firewalls, and Security Rules in AWS](https://dev.to/_eve_/what-comes-after-a-vpc-routing-firewalls-and-security-rules-in-aws-462e)
+- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
+- [3D Cosine Relationship Graph](https://dev.to/dan52242644dan/3d-cosine-relationship-graph-4l9h)
+- [3 Mistakes I Made Shipping My AI MVP Too Fast — and How I Fixed Them](https://dev.to/sholajegede/3-mistakes-i-made-shipping-my-ai-mvp-too-fast-and-how-i-fixed-them-300m)
+- [ShellGuard: Building an AI-Assisted Command Approval System for SSH Security](https://dev.to/rob_d_2c0d55e14e7037f2/shellguard-building-an-ai-assisted-command-approval-system-for-ssh-security-36h3)
 <!-- BLOG-POST-LIST:END -->
 
 
