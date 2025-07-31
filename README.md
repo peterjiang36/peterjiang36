@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hela - Official Release Window Announcement Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-hela-official-release-window-announcement-trailer-nintendo-direct-partner-showcase-2025-2hdb)
-- [IGN: Just Dance 2026 Edition - Official Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-just-dance-2026-edition-official-reveal-trailer-nintendo-direct-partner-showcase-2025-4158)
-- [IGN: NBA Bounce - Official Gameplay Reveal Trailer | Nintendo Direct Partner Showcase 2025](https://dev.to/gg_news/ign-nba-bounce-official-gameplay-reveal-trailer-nintendo-direct-partner-showcase-2025-221a)
-- [IGN: Romancing Saga 2: Revenge of the Seven - Official Nintendo Switch 2 Trailer | Nintendo Direct 2025](https://dev.to/gg_news/ign-romancing-saga-2-revenge-of-the-seven-official-nintendo-switch-2-trailer-nintendo-direct-39g5)
+- [Indexes in MySQL: How long do you wait before calling an index &quot;unused&quot;?](https://dev.to/drupaladmin/indexes-in-mysql-how-long-do-you-wait-before-calling-an-index-unused-1do8)
+- [AI Agents for DevOps: Architect, Deploy, and Automate Like a Pro — Book Launch](https://dev.to/theopskart/ai-agents-for-devops-architect-deploy-and-automate-like-a-pro-book-launch-1n1o)
+- [Getting Started with AWS Auto Scaling: Automatically Handle Your EC2 Load Like a Pro](https://dev.to/oluwatobiloba_oludare1/getting-started-with-aws-auto-scaling-automatically-handle-your-ec2-load-like-a-pro-26c7)
+- [From Nope to &quot;Yes, Mom, I Applied.&quot; Or almost.](https://dev.to/imcoul/from-nope-to-yes-mom-i-applied-or-almost-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 
