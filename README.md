@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Serverless? A Simple Explanation for Beginners](https://dev.to/rhythmsaha/what-is-serverless-a-simple-explanation-for-beginners-ja6)
-- [Building a Redis AI Vector Search Boilerplate with Spec-Driven Development](https://dev.to/kirodotdev/building-a-redis-ai-vector-search-boilerplate-with-spec-driven-development-1gm2)
-- [Introduction to Wave v0.1.4-pre-beta: Add optimization, method chaining, and image file build](https://dev.to/lunastev/introduction-to-wave-v014-pre-beta-add-optimization-method-chaining-and-image-file-build-317k)
-- [Building AI-Powered Semantic Search with Redis Vector Similarity and Deno](https://dev.to/uratmangun/building-ai-powered-semantic-search-with-redis-vector-similarity-and-deno-33mp)
+- [Could Qwen Be the Best Alternative to Claude Code for Developers?](https://dev.to/luc_36689a31b94d68d29f9e9/could-qwen-be-the-best-alternative-to-claude-code-for-developers-3024)
+- [SVGs rock!](https://dev.to/urbanisierung/svgs-rock-e5l)
+- [My Journey Building the Smart HVAC Optimizer for Data Centers in Kenya](https://dev.to/maina_murage/my-journey-building-the-smart-hvac-optimizer-for-data-centers-in-kenya-24jk)
+- [How AI-First Tools Are Changing the Way We Do Research](https://dev.to/luc_36689a31b94d68d29f9e9/how-ai-first-tools-are-changing-the-way-we-do-research-35im)
 <!-- BLOG-POST-LIST:END -->
 
 
