@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 for Beginners: Launch, SSH, and Host a Website in 15 Minutes 🚀](https://dev.to/yash_sonawane25/ec2-for-beginners-launch-ssh-and-host-a-website-in-15-minutes-161k)
-- [The Future of Angular: 10 Trends Shaping 2025](https://dev.to/codewithrajat/the-future-of-angular-10-trends-shaping-2025-2364)
-- [Mastering JavaScript Assignment Operators — The Complete Guide](https://dev.to/er-raj-aryan/mastering-javascript-assignment-operators-the-complete-guide-d2k)
-- [Difference between null and undefined in JavaScript](https://dev.to/nandhini_v/difference-between-null-and-undefined-in-javascript-gjb)
+- [What is Serverless? A Simple Explanation for Beginners](https://dev.to/rhythmsaha/what-is-serverless-a-simple-explanation-for-beginners-ja6)
+- [Building a Redis AI Vector Search Boilerplate with Spec-Driven Development](https://dev.to/kirodotdev/building-a-redis-ai-vector-search-boilerplate-with-spec-driven-development-1gm2)
+- [Introduction to Wave v0.1.4-pre-beta: Add optimization, method chaining, and image file build](https://dev.to/lunastev/introduction-to-wave-v014-pre-beta-add-optimization-method-chaining-and-image-file-build-317k)
+- [Building AI-Powered Semantic Search with Redis Vector Similarity and Deno](https://dev.to/uratmangun/building-ai-powered-semantic-search-with-redis-vector-similarity-and-deno-33mp)
 <!-- BLOG-POST-LIST:END -->
 
 
