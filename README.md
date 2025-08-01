@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI Reigns? GPT‑4, Claude, LLaMA, Perplexity &amp; AI Studio](https://dev.to/jenny_miller_c752792bfea9/which-ai-reigns-gpt-4-claude-llama-perplexity-ai-studio-1m9p)
-- [What Is a Foreign Key Constraint in SQL?](https://dev.to/roxana_haidiner/what-is-a-foreign-key-constraint-in-sql-2mj7)
-- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 3: Sonarqube](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-3-sonarqube-b7a)
-- [Building a React Todo App: Complete AbcD Guide..!](https://dev.to/nevil_bhayani_40d9b65421d/building-a-react-todo-app-complete-abcd-guide-1pid)
+- [KEXP: Deep Sea Diver - Emergency &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-emergency-live-on-kexp-378e)
+- [KEXP: Deep Sea Diver - Tiny Threads &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-tiny-threads-live-on-kexp-36d2)
+- [KEXP: Deep Sea Diver - Billboard Heart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-billboard-heart-live-on-kexp-4im8)
+- [KEXP: Deep Sea Diver - What Do I Know &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-what-do-i-know-live-on-kexp-4lp6)
 <!-- BLOG-POST-LIST:END -->
 
 
