@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Something Mind-Blowing — And I Need Your Help](https://dev.to/convai_f3d87c6ddd92378c02/building-something-mind-blowing-and-i-need-your-help-1ibh)
-- [Decoding the Magic: Logistic Regression, Cross-Entropy, and Optimization](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-magic-logistic-regression-cross-entropy-and-optimization-3bkk)
-- [From Zero to Redis Hero: Your First Redis Container with Docker](https://dev.to/moni121189/from-zero-to-redis-hero-your-first-redis-container-with-docker-602)
-- [[Boost]](https://dev.to/yuvaraj_e761e05ea460fa203/-32d2)
+- [EC2 for Beginners: Launch, SSH, and Host a Website in 15 Minutes 🚀](https://dev.to/yash_sonawane25/ec2-for-beginners-launch-ssh-and-host-a-website-in-15-minutes-161k)
+- [The Future of Angular: 10 Trends Shaping 2025](https://dev.to/codewithrajat/the-future-of-angular-10-trends-shaping-2025-2364)
+- [Mastering JavaScript Assignment Operators — The Complete Guide](https://dev.to/er-raj-aryan/mastering-javascript-assignment-operators-the-complete-guide-d2k)
+- [Difference between null and undefined in JavaScript](https://dev.to/nandhini_v/difference-between-null-and-undefined-in-javascript-gjb)
 <!-- BLOG-POST-LIST:END -->
 
 
