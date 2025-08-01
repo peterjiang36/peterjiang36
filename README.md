@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Silent Hill f: What We Think After Playing 5 Hours](https://dev.to/gg_news/ign-silent-hill-f-what-we-think-after-playing-5-hours-1n96)
-- [Test creation methods on steroids with named parameters](https://dev.to/danrot90/test-creation-methods-on-steroids-with-named-parameters-5gn6)
-- [Lightweight Flutter Development Environment Setup for Beginners](https://dev.to/mr_nova/lightweight-flutter-development-environment-setup-for-beginners-411b)
-- [How can Developers 💪help💪 or 💥hurt💥 Sprint Planning?](https://dev.to/starkmapper/how-can-developers-help-or-hurt-sprint-planning-1m15)
+- [WTF is Supabase?](https://dev.to/dailybugle33/wtf-is-supabase-1o28)
+- [How I Deal With Burnout Before It Starts](https://dev.to/vadym_info_polus/how-i-deal-with-burnout-before-it-starts-40f1)
+- [AI Workflow vs Agent: What’s Best for Your Business Automation?](https://dev.to/karthik_parameswaran_5251/ai-workflow-vs-agent-whats-best-for-your-business-automation-2ajj)
+- [OSE: The End of Programming Language Silos?](https://dev.to/codigger/ose-the-end-of-programming-language-silos-473p)
 <!-- BLOG-POST-LIST:END -->
 
 
