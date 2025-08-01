@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing in Zephyr RTOS Projects with Ceedling: A Developer’s Guide](https://dev.to/einfochips/unit-testing-in-zephyr-rtos-projects-with-ceedling-a-developers-guide-1o6f)
-- [🧑‍💻 What&#39;s New in Visual Studio Code &lpar;2025 Edition&rpar; &amp; How to Use It](https://dev.to/hamidrazadev/whats-new-in-visual-studio-code-2025-edition-how-to-use-it-2809)
-- [Thinking SEO from the Mockup Stage: An Underestimated Power Move](https://dev.to/capjud95/thinking-seo-from-the-mockup-stage-an-underestimated-power-move-6cg)
-- [Mastering Flexbox in CSS: The Easiest Way to Build Responsive Layouts](https://dev.to/nganggurdev/learn-css-for-beginners-9-flexible-box-layout-in-css-easy-and-powerful-responsive-layout-24m3)
+- [The Hacksmith: The Power Armor Legs Are Complete! ⚡| Real Life Power Armor &lpar;Part 7/6&rpar;](https://dev.to/maker_youtube/the-hacksmith-the-power-armor-legs-are-complete-real-life-power-armor-part-76-11d8)
+- [Laura Kampf: What can you make with an old traffic light? Janitor of LA](https://dev.to/maker_youtube/laura-kampf-what-can-you-make-with-an-old-traffic-light-janitor-of-la-40c4)
+- [Alec Steele: More Forging Barrels Like It&#39;s 1718](https://dev.to/maker_youtube/alec-steele-more-forging-barrels-like-its-1718-32ph)
+- [Alec Steele: I Turned a Picture of My Dog into Damascus Steel](https://dev.to/maker_youtube/alec-steele-i-turned-a-picture-of-my-dog-into-damascus-steel-1pei)
 <!-- BLOG-POST-LIST:END -->
 
 
