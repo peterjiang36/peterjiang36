@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Supabase?](https://dev.to/dailybugle33/wtf-is-supabase-1o28)
-- [How I Deal With Burnout Before It Starts](https://dev.to/vadym_info_polus/how-i-deal-with-burnout-before-it-starts-40f1)
-- [AI Workflow vs Agent: What’s Best for Your Business Automation?](https://dev.to/karthik_parameswaran_5251/ai-workflow-vs-agent-whats-best-for-your-business-automation-2ajj)
-- [OSE: The End of Programming Language Silos?](https://dev.to/codigger/ose-the-end-of-programming-language-silos-473p)
+- [NPR Music: Sierra Hull: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-sierra-hull-tiny-desk-concert-1h5o)
+- [Exploring Real-Time Communication with WebRTC in JavaScript](https://dev.to/vjnvisakh/exploring-real-time-communication-with-webrtc-in-javascript-1dd9)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 1: Getting Started with GitLab CI/CD and Docker-in-Docker](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-1-getting-started-with-gitlab-56f5)
+- [Commit Patterns](https://dev.to/doccaio/commit-patterns-2dep)
 <!-- BLOG-POST-LIST:END -->
 
 
