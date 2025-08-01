@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Update the virtual network](https://dev.to/isaiah_izibili_7a39b7d627/update-the-virtual-network-3pf2)
-- [Troubleshooting Bicep Updates on Windows Self-Hosted Agents](https://dev.to/ihechi_okere/troubleshooting-bicep-updates-on-windows-self-hosted-agents-4h7g)
-- [Day 11 : Error Handling in Shell Scripting](https://dev.to/udoh_deborah_b1e484c474bf/day-11-error-handling-in-shell-scripting-3eb)
-- [AI Translation: Transforming Global Business](https://dev.to/sebastian_reid999/ai-translation-transforming-global-business-3dgc)
+- [Building Something Mind-Blowing — And I Need Your Help](https://dev.to/convai_f3d87c6ddd92378c02/building-something-mind-blowing-and-i-need-your-help-1ibh)
+- [Decoding the Magic: Logistic Regression, Cross-Entropy, and Optimization](https://dev.to/dev_patel_35864ca1db6093c/decoding-the-magic-logistic-regression-cross-entropy-and-optimization-3bkk)
+- [From Zero to Redis Hero: Your First Redis Container with Docker](https://dev.to/moni121189/from-zero-to-redis-hero-your-first-redis-container-with-docker-602)
+- [[Boost]](https://dev.to/yuvaraj_e761e05ea460fa203/-32d2)
 <!-- BLOG-POST-LIST:END -->
 
 
