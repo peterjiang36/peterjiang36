@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PKI With No Headache &lpar;Part 1&rpar;: A Real World Example](https://dev.to/tarique-mirza/pki-with-no-headache-part-1-a-real-world-example-453d)
-- [RELAX NGとSchematronを組み合わせたTEI XMLスキーマの実装ガイド](https://dev.to/_1cdfa8d07c5ded0d81c41/relax-ngtoschematronwozu-mihe-wasetatei-xmlsukimanoshi-zhuang-gaido-2mjc)
-- [Rozwiązania zadań egzaminacyjnych INF.03 &lpar;HTML, CSS, PHP, SQL&rpar;](https://dev.to/jay_be_9ef3309da8c701acdd/rozwiazania-zadan-egzaminacyjnych-inf03-html-css-php-sql-449b)
-- [CSS oklch&lpar;&rpar; color function](https://dev.to/karenbarbe/css-oklch-color-function-959)
+- [IGN: Shinobi: Art of Vengeance - The First 26 Minutes of Gameplay](https://dev.to/gg_news/ign-shinobi-art-of-vengeance-the-first-26-minutes-of-gameplay-2gbi)
+- [IoT Applications for Predictive Maintenance in Composite Structures](https://dev.to/emily_johnson_dev/iot-applications-for-predictive-maintenance-in-composite-structures-11j4)
+- [🌅 How Waking Up Early Helped Me Code More, Play with My Son, and Support My Wife](https://dev.to/huynhnguyen/how-waking-up-early-helped-me-code-more-play-with-my-son-and-support-my-wife-2gf6)
+- [🎮 Learn Design Patterns: Build a “Monster Arena” Game and Master TypeScript Design Patterns &lpar;Part 1&rpar;](https://dev.to/robinviktorsson/learn-design-patterns-build-a-monster-arena-game-and-master-typescript-design-patterns-part-1-2fp5)
 <!-- BLOG-POST-LIST:END -->
 
 
