@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Deep Sea Diver - Emergency &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-emergency-live-on-kexp-378e)
-- [KEXP: Deep Sea Diver - Tiny Threads &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-tiny-threads-live-on-kexp-36d2)
-- [KEXP: Deep Sea Diver - Billboard Heart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-billboard-heart-live-on-kexp-4im8)
-- [KEXP: Deep Sea Diver - What Do I Know &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-what-do-i-know-live-on-kexp-4lp6)
+- [Unit Testing in Zephyr RTOS Projects with Ceedling: A Developer’s Guide](https://dev.to/einfochips/unit-testing-in-zephyr-rtos-projects-with-ceedling-a-developers-guide-1o6f)
+- [🧑‍💻 What&#39;s New in Visual Studio Code &lpar;2025 Edition&rpar; &amp; How to Use It](https://dev.to/hamidrazadev/whats-new-in-visual-studio-code-2025-edition-how-to-use-it-2809)
+- [Thinking SEO from the Mockup Stage: An Underestimated Power Move](https://dev.to/capjud95/thinking-seo-from-the-mockup-stage-an-underestimated-power-move-6cg)
+- [Mastering Flexbox in CSS: The Easiest Way to Build Responsive Layouts](https://dev.to/nganggurdev/learn-css-for-beginners-9-flexible-box-layout-in-css-easy-and-powerful-responsive-layout-24m3)
 <!-- BLOG-POST-LIST:END -->
 
 
