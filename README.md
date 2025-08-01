@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Rober: Making MrBeast Drink His Own Pee &lpar;w/Science&rpar;](https://dev.to/maker_youtube/mark-rober-making-mrbeast-drink-his-own-pee-wscience-cm0)
-- [Class, Object, Instance](https://dev.to/emmakang123/class-object-instance-3pel)
-- [IGN: EA Sports Madden NFL 26 - Official Live-Action Launch Trailer](https://dev.to/gg_news/ign-ea-sports-madden-nfl-26-official-live-action-launch-trailer-3npk)
-- [Explain Error Plugin: Let AI Explain Your Build Failures in Jenkins](https://dev.to/shenxianpeng/new-jenkins-plugin-let-ai-explain-your-build-failures-26lo)
+- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
+- [Business Analyst Interview Questions with Answers:](https://dev.to/marrmorgan/business-analyst-interview-questions-with-answers-4ndp)
+- [🚀 RS Calculator v0.2.0: Safer, Smarter, and Now Supports Full Math Expressions!](https://dev.to/rasa8877/rs-calculator-v020-safer-smarter-and-now-supports-full-math-expressions-2ic1)
+- [Building a Paid MCP Server](https://dev.to/eugene_lobachev/building-a-paid-mcp-service-2nh4)
 <!-- BLOG-POST-LIST:END -->
 
 
