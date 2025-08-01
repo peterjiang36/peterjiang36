@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Shinobi: Art of Vengeance - The First 26 Minutes of Gameplay](https://dev.to/gg_news/ign-shinobi-art-of-vengeance-the-first-26-minutes-of-gameplay-2gbi)
-- [IoT Applications for Predictive Maintenance in Composite Structures](https://dev.to/emily_johnson_dev/iot-applications-for-predictive-maintenance-in-composite-structures-11j4)
-- [🌅 How Waking Up Early Helped Me Code More, Play with My Son, and Support My Wife](https://dev.to/huynhnguyen/how-waking-up-early-helped-me-code-more-play-with-my-son-and-support-my-wife-2gf6)
-- [🎮 Learn Design Patterns: Build a “Monster Arena” Game and Master TypeScript Design Patterns &lpar;Part 1&rpar;](https://dev.to/robinviktorsson/learn-design-patterns-build-a-monster-arena-game-and-master-typescript-design-patterns-part-1-2fp5)
+- [The 5 MB Homework Limit That Turned Me Into an App-Builder](https://dev.to/3nginuity_/the-5-mb-homework-limit-that-turned-me-into-an-app-builder-222a)
+- [Best Lightweight Docusaurus Alternative? I Think It’s &quot;docmd&quot; - A Refreshingly Minimal Docs Generator](https://dev.to/bsprout431/best-lightweight-docusaurus-alternative-i-think-its-docmd-a-refreshingly-minimal-docs-47da)
+- [Toward Understanding &amp; Rethinking ITSM in the Age of AI](https://dev.to/kevinasutton/toward-understanding-rethinking-itsm-in-the-age-of-ai-939)
+- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 8/6/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-862025-3g8m)
 <!-- BLOG-POST-LIST:END -->
 
 
