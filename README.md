@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Sierra Hull: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-sierra-hull-tiny-desk-concert-1h5o)
-- [Exploring Real-Time Communication with WebRTC in JavaScript](https://dev.to/vjnvisakh/exploring-real-time-communication-with-webrtc-in-javascript-1dd9)
-- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 1: Getting Started with GitLab CI/CD and Docker-in-Docker](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-1-getting-started-with-gitlab-56f5)
-- [Commit Patterns](https://dev.to/doccaio/commit-patterns-2dep)
+- [Which AI Reigns? GPT‑4, Claude, LLaMA, Perplexity &amp; AI Studio](https://dev.to/jenny_miller_c752792bfea9/which-ai-reigns-gpt-4-claude-llama-perplexity-ai-studio-1m9p)
+- [What Is a Foreign Key Constraint in SQL?](https://dev.to/roxana_haidiner/what-is-a-foreign-key-constraint-in-sql-2mj7)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 3: Sonarqube](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-3-sonarqube-b7a)
+- [Building a React Todo App: Complete AbcD Guide..!](https://dev.to/nevil_bhayani_40d9b65421d/building-a-react-todo-app-complete-abcd-guide-1pid)
 <!-- BLOG-POST-LIST:END -->
 
 
