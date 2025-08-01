@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hacksmith: The Power Armor Legs Are Complete! ⚡| Real Life Power Armor &lpar;Part 7/6&rpar;](https://dev.to/maker_youtube/the-hacksmith-the-power-armor-legs-are-complete-real-life-power-armor-part-76-11d8)
-- [Laura Kampf: What can you make with an old traffic light? Janitor of LA](https://dev.to/maker_youtube/laura-kampf-what-can-you-make-with-an-old-traffic-light-janitor-of-la-40c4)
-- [Alec Steele: More Forging Barrels Like It&#39;s 1718](https://dev.to/maker_youtube/alec-steele-more-forging-barrels-like-its-1718-32ph)
-- [Alec Steele: I Turned a Picture of My Dog into Damascus Steel](https://dev.to/maker_youtube/alec-steele-i-turned-a-picture-of-my-dog-into-damascus-steel-1pei)
+- [INSTALLATION OF POSTGRESQL AND INTIAL SET UP ON A LINUX SERVER.](https://dev.to/shinyanzwa_5fb2a5691434db/installation-of-postgresql-and-intial-set-up-on-a-linux-server-14k9)
+- [Day 1 ~ Learning DevOps In Public](https://dev.to/dharun_496b52d76f8f606a96/day-1-learning-devops-in-public-4dfg)
+- [The Midnight Community Board: Building *With* the Community, Not Just For It](https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo)
+- [🍃 MongoDB in 2025: Beyond the NoSQL Hype](https://dev.to/hamidrazadev/mongodb-in-2025-beyond-the-nosql-hype-mn4)
 <!-- BLOG-POST-LIST:END -->
 
 
