@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Could Qwen Be the Best Alternative to Claude Code for Developers?](https://dev.to/luc_36689a31b94d68d29f9e9/could-qwen-be-the-best-alternative-to-claude-code-for-developers-3024)
-- [SVGs rock!](https://dev.to/urbanisierung/svgs-rock-e5l)
-- [My Journey Building the Smart HVAC Optimizer for Data Centers in Kenya](https://dev.to/maina_murage/my-journey-building-the-smart-hvac-optimizer-for-data-centers-in-kenya-24jk)
-- [How AI-First Tools Are Changing the Way We Do Research](https://dev.to/luc_36689a31b94d68d29f9e9/how-ai-first-tools-are-changing-the-way-we-do-research-35im)
+- [Correcting The Court: When Legal Errors Demand A Second Look](https://dev.to/daryl_royer/correcting-the-court-when-legal-errors-demand-a-second-look-3b0p)
+- [Essential best practices for real user monitoring &lpar;RUM&rpar;](https://dev.to/manageengineapm/essential-best-practices-for-real-user-monitoring-rum-1l9k)
+- [How Docker MCP helps discover containerized MCP serviers](https://dev.to/sirivarma/how-docker-mcp-helps-discover-containerized-mcp-serviers-394e)
+- [🚀 I’m Launching My First Startup — Biz Tracker &lpar;at 16!&rpar;](https://dev.to/pjdeveloper896/im-launching-my-first-startup-biz-tracker-at-16-3bl5)
 <!-- BLOG-POST-LIST:END -->
 
 
