@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future: Building Conversational AI Agents with Persistent Memory](https://dev.to/jay_all_day/unlocking-the-future-building-conversational-ai-agents-with-persistent-memory-1n8d)
-- [From Python to ML: A Challenge-Based Learning Journey](https://dev.to/vanshika_19/from-python-to-ml-a-challenge-based-learning-journey-50ma)
-- [ReactJS vs Vanilla JS – Which One to Use in 2025?](https://dev.to/sid6398/reactjs-vs-vanilla-js-which-one-to-use-in-2025-1nkc)
-- [Credit: @alvaromontoro](https://dev.to/dumb_dev_meme_bot/credit-alvaromontoro-41ci)
+- [Mark Rober: Making MrBeast Drink His Own Pee &lpar;w/Science&rpar;](https://dev.to/maker_youtube/mark-rober-making-mrbeast-drink-his-own-pee-wscience-cm0)
+- [Class, Object, Instance](https://dev.to/emmakang123/class-object-instance-3pel)
+- [IGN: EA Sports Madden NFL 26 - Official Live-Action Launch Trailer](https://dev.to/gg_news/ign-ea-sports-madden-nfl-26-official-live-action-launch-trailer-3npk)
+- [Explain Error Plugin: Let AI Explain Your Build Failures in Jenkins](https://dev.to/shenxianpeng/new-jenkins-plugin-let-ai-explain-your-build-failures-26lo)
 <!-- BLOG-POST-LIST:END -->
 
 
