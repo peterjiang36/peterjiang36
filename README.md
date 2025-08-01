@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of](https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n)
-- [3D Cosine Relationship Graph](https://dev.to/dan52242644dan/3d-cosine-relationship-graph-4l9h)
-- [3 Mistakes I Made Shipping My AI MVP Too Fast — and How I Fixed Them](https://dev.to/sholajegede/3-mistakes-i-made-shipping-my-ai-mvp-too-fast-and-how-i-fixed-them-300m)
-- [ShellGuard: Building an AI-Assisted Command Approval System for SSH Security](https://dev.to/rob_d_2c0d55e14e7037f2/shellguard-building-an-ai-assisted-command-approval-system-for-ssh-security-36h3)
+- [Update the virtual network](https://dev.to/isaiah_izibili_7a39b7d627/update-the-virtual-network-3pf2)
+- [Troubleshooting Bicep Updates on Windows Self-Hosted Agents](https://dev.to/ihechi_okere/troubleshooting-bicep-updates-on-windows-self-hosted-agents-4h7g)
+- [Day 11 : Error Handling in Shell Scripting](https://dev.to/udoh_deborah_b1e484c474bf/day-11-error-handling-in-shell-scripting-3eb)
+- [AI Translation: Transforming Global Business](https://dev.to/sebastian_reid999/ai-translation-transforming-global-business-3dgc)
 <!-- BLOG-POST-LIST:END -->
 
 
