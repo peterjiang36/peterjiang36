@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Deep Sea Diver - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-deep-sea-diver-full-performance-live-on-kexp-50n)
-- [Rick Shiels Golf: TEAM UK vs TEAM USA for $250,000 | The Duels: UK Edition](https://dev.to/youtube_golf/rick-shiels-golf-team-uk-vs-team-usa-for-250000-the-duels-uk-edition-4215)
-- [IGN: Haikyu!! Fly High! - Official Launch Trailer](https://dev.to/gg_news/ign-haikyu-fly-high-official-launch-trailer-5fih)
-- [IGN: The Midnight Walkers: Official Gameplay Explainer](https://dev.to/gg_news/ign-the-midnight-walkers-official-gameplay-explainer-36np)
+- [Unlocking the Future: Building Conversational AI Agents with Persistent Memory](https://dev.to/jay_all_day/unlocking-the-future-building-conversational-ai-agents-with-persistent-memory-1n8d)
+- [From Python to ML: A Challenge-Based Learning Journey](https://dev.to/vanshika_19/from-python-to-ml-a-challenge-based-learning-journey-50ma)
+- [ReactJS vs Vanilla JS – Which One to Use in 2025?](https://dev.to/sid6398/reactjs-vs-vanilla-js-which-one-to-use-in-2025-1nkc)
+- [Credit: @alvaromontoro](https://dev.to/dumb_dev_meme_bot/credit-alvaromontoro-41ci)
 <!-- BLOG-POST-LIST:END -->
 
 
