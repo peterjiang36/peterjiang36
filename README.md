@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Correcting The Court: When Legal Errors Demand A Second Look](https://dev.to/daryl_royer/correcting-the-court-when-legal-errors-demand-a-second-look-3b0p)
-- [Essential best practices for real user monitoring &lpar;RUM&rpar;](https://dev.to/manageengineapm/essential-best-practices-for-real-user-monitoring-rum-1l9k)
-- [How Docker MCP helps discover containerized MCP serviers](https://dev.to/sirivarma/how-docker-mcp-helps-discover-containerized-mcp-serviers-394e)
-- [🚀 I’m Launching My First Startup — Biz Tracker &lpar;at 16!&rpar;](https://dev.to/pjdeveloper896/im-launching-my-first-startup-biz-tracker-at-16-3bl5)
+- [Naming Conventions in React: camelCase vs. snake_case](https://dev.to/westernal/naming-conventions-in-react-camelcase-vs-snakecase-g5c)
+- [Roadmap for Bio AI Software Engineer role](https://dev.to/devonremote/roadmap-for-bio-ai-software-engineer-role-226a)
+- [10 Agentic AI Hidden Benefits No One Tells You](https://dev.to/dhruvjoshi9/10-agentic-ai-hidden-benefits-no-one-tells-you-400g)
+- [IGN: Donkey Kong Bananza: All Radiance Layer Challenge Rooms | Locations and Solutions](https://dev.to/gg_news/ign-donkey-kong-bananza-all-radiance-layer-challenge-rooms-locations-and-solutions-8ed)
 <!-- BLOG-POST-LIST:END -->
 
 
