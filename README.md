@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React&#39;s useCallback Hook for Optimal Performance](https://dev.to/vjnvisakh/mastering-reacts-usecallback-hook-for-optimal-performance-20bb)
-- [AI Will Replace 90% of Programmers &lpar;And Why That&#39;s a Good Thing&rpar;](https://dev.to/nitinfab/ai-will-replace-90-of-programmers-and-why-thats-a-good-thing-2opf)
-- [How Developers Can Use Digital Marketing to Launch and Grow Side Projects 🚀](https://dev.to/dash_media_619c37650210c8/how-developers-can-use-digital-marketing-to-launch-and-grow-side-projects-5b0)
-- [How Languages Talk to Each Other: The Science of Cross-Linguistic Influence](https://dev.to/nimihosmith/how-languages-talk-to-each-other-the-science-of-cross-linguistic-influence-58jf)
+- [Day 53: React, Umbrellas, and Digital Nostalgia](https://dev.to/casperday11/day-53-react-umbrellas-and-digital-nostalgia-1kd7)
+- [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
+- [Expedition of Async Programming in JavaScript](https://dev.to/zhravan/expedition-of-async-programming-in-javascript-136a)
+- [Top 10 Python Libraries Every DevOps Engineer Should Master &lpar;With Use Cases &amp; Code&rpar;](https://dev.to/prodevopsguytech/top-10-python-libraries-every-devops-engineer-should-master-with-use-cases-code-kag)
 <!-- BLOG-POST-LIST:END -->
 
 
