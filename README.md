@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Software Developer? - I](https://dev.to/oliver_butler_a52c1be144d/what-is-software-developer-i-40lc)
-- [Creating Materialized View with FAST REFRESH](https://dev.to/mrcaption49/creating-materialized-view-with-fast-refresh-4e8p)
-- [IGN: Aggelos 2 - Official Publisher Announcement Trailer](https://dev.to/gg_news/ign-aggelos-2-official-publisher-announcement-trailer-563c)
-- [When &quot;Private&quot; Isn’t: The Security Risks of GPT Chats Leaking to Search Engines](https://dev.to/snyk/when-private-isnt-the-security-risks-of-gpt-chats-leaking-to-search-engines-443k)
+- [We Built a Platform That Respects You](https://dev.to/saynedbread/we-built-a-platform-that-respects-you-2n3j)
+- [Building GitHub-Style Contribution Grids for dev.to Articles with Kiro AI IDE](https://dev.to/kirodotdev/building-github-style-contribution-grids-for-devto-articles-with-ai-3fpn)
+- [How to grant access to Firebase Cloud Messaging &lpar;v1 API&rpar;](https://dev.to/seongbae/how-to-grant-access-to-firebase-cloud-messaging-v1-api-58ei)
+- [❤️ Beginners guide to &quot;Leetcode 2561: Rearranging Fruits&quot;&lpar;C++ | JavaScript | Python&rpar;](https://dev.to/om_shree_0709/beginners-guide-to-leetcode-2561-rearranging-fruitsc-javascript-python-1on3)
 <!-- BLOG-POST-LIST:END -->
 
 
