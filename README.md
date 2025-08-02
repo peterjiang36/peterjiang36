@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [javascript30 journey - day 1](https://dev.to/still_fatolu/javascript30-journey-day-1-2cl9)
-- [Is the Metaverse Dead? Why 2025 Marks a Sustainable Growth Phase](https://dev.to/ethermuse_7/is-the-metaverse-dead-why-2025-marks-a-sustainable-growth-phase-2ljb)
-- [Can everyone post the four best pictures they&#39;ve ever generated](https://dev.to/ndmckay/can-everyone-post-the-four-best-pictures-theyve-ever-generated-58db)
-- [3 Ways To Create Middleware In ASP.NET Core](https://dev.to/shiv_darshanrathore_402a/3-ways-to-create-middleware-in-aspnet-core-2703)
+- [Exploring the Philosophical Impact of AI: ChatGPT&#39;s Influence on Human Thought](https://dev.to/ndmckay/exploring-the-philosophical-impact-of-ai-chatgpts-influence-on-human-thought-2327)
+- [Setup ESLint and Prettier in Nuxt 4](https://dev.to/matisbag/setup-eslint-and-prettier-in-nuxt-4-5ccm)
+- [Building a Full-Stack Chatbot with Next.js + Supabase](https://dev.to/umairarshad-dev/building-a-full-stack-chatbot-with-nextjs-supabase-b3p)
+- [AI and Staking: Optimizing Validator Performance in 2025](https://dev.to/defidiver21/ai-and-staking-optimizing-validator-performance-in-2025-2gk9)
 <!-- BLOG-POST-LIST:END -->
 
 
