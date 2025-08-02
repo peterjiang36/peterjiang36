@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover the Best Productivity Tools with SaaS Tools Dir](https://dev.to/jesus_camacho_45d1dd529cf/discover-the-best-productivity-tools-with-saas-tools-dir-1565)
-- [Basic Linux command &lpar;tree&rpar;](https://dev.to/cheulong/basic-linux-command-tree-jfm)
-- [Earl bahasa yang memudahkan](https://dev.to/dev_nazwashabrina/earl-bahasa-yang-memudahkan-4e63)
-- [Apple ][ Text on Mini Micro!](https://dev.to/joestrout/apple-text-on-mini-micro-337)
+- [Untitled](https://dev.to/barsik_ingush_34702a56847/untitled-5b41)
+- [How I Built a Serverless Contact Form and Scalable Backend with AWS Lambda, Fargate, and Batch](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-serverless-contact-form-and-scalable-backend-with-aws-lambda-fargate-and-batch-27i6)
+- [DevLog 2025801: Procedural Context Type](https://dev.to/methodox/devlog-2025801-procedural-context-type-338k)
+- [Humanizing Visual Studio: A Call to Speak to Real People](https://dev.to/ljvasquezr/humanizing-visual-studio-a-call-to-speak-to-real-people-46i4)
 <!-- BLOG-POST-LIST:END -->
 
 
