@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Node.js template engine](https://dev.to/greenflag31/new-nodejs-template-engine-4jjd)
-- [PesudoCLI - your AI man pages.](https://dev.to/abiji-2020/pesudocli-your-ai-man-pages-104a)
-- [Building an Automated Book Price Monitoring Scraper with Python](https://dev.to/sahani_rajapakshe_33559b9/building-an-automated-book-price-monitoring-scraper-with-python-20i5)
-- [🧠 List of Free AI Chatbots for Coding &lpar;That Won’t Steal Your Job&rpar;](https://dev.to/hamidrazadev/list-of-free-ai-chatbots-for-coding-j0i)
+- [Krish Naik: Step By Step Process To Build MultiModal RAG With Langchain&lpar;PDF And Images&rpar;](https://dev.to/vibe_youtube/krish-naik-step-by-step-process-to-build-multimodal-rag-with-langchainpdf-and-images-2bno)
+- [Get Real-Time Bangladeshi Taka Exchange Rates Without an API Key](https://dev.to/devparvez/get-real-time-bangladeshi-taka-exchange-rates-without-an-api-key-je4)
+- [🤖 What is a Parameterized Job in Jenkins?](https://dev.to/yash1307/what-is-a-parameterized-job-in-jenkins-137e)
+- [EventStream Hub - Real-Time Event Processing with Redis as Primary Database](https://dev.to/ariondev/eventstream-hub-real-time-event-processing-with-redis-as-primary-database-5ba5)
 <!-- BLOG-POST-LIST:END -->
 
 
