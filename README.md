@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Verizon is upping its fees again](https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0)
-- [Add AI features to your application with Genkit](https://dev.to/abukavictor/add-ai-features-to-your-application-with-genkit-28gn)
-- [API Security with Access Control: Best Practices for a Safer Backend](https://dev.to/lovestaco/api-security-with-access-control-best-practices-for-a-safer-backend-4fpf)
-- [Fake Hacker Simulation Screen](https://dev.to/ruaa201100svg/fake-hacker-simulation-screen-4261)
+- [The Game Theorists: Game Theory: FNAF, How to STOP the Mimic... For Good!](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-how-to-stop-the-mimic-for-good-1g98)
+- [Redis AI Trading Assistant: Real-Time Market Intelligence with Human-Controlled Execution](https://dev.to/ctj01/redis-ai-trading-assistant-real-time-market-intelligence-with-human-controlled-execution-4m46)
+- [Hungover But Still Showed Up #27](https://dev.to/0xj0n1/hungover-but-still-showed-up-27-5dpg)
+- [Dependency Injection in the JavaScript Ecosystem: Challenges and Benefits](https://dev.to/wroud/dependency-injection-in-the-javascript-ecosystem-challenges-and-benefits-1b31)
 <!-- BLOG-POST-LIST:END -->
 
 
