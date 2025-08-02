@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 53: React, Umbrellas, and Digital Nostalgia](https://dev.to/casperday11/day-53-react-umbrellas-and-digital-nostalgia-1kd7)
-- [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
-- [Expedition of Async Programming in JavaScript](https://dev.to/zhravan/expedition-of-async-programming-in-javascript-136a)
-- [Top 10 Python Libraries Every DevOps Engineer Should Master &lpar;With Use Cases &amp; Code&rpar;](https://dev.to/prodevopsguytech/top-10-python-libraries-every-devops-engineer-should-master-with-use-cases-code-kag)
+- [5 Surprising Facts About LocalStorage You Probably Didn’t Know](https://dev.to/gouranga-das-khulna/5-surprising-facts-about-localstorage-you-probably-didnt-know-33o0)
+- [RELEASING KARL DOCS](https://dev.to/theaniketraj/releasing-karl-docs-32o1)
+- [Flex or Grid: Which is Better? &lpar;1D vs 2D Layouts&rpar;](https://dev.to/dehemi_fabio/flex-or-grid-which-is-better-1d-vs-2d-layouts-8n9)
+- [Simple Java Project: Temperature Converter &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-temperature-converter-with-detailed-explanation-3k6l)
 <!-- BLOG-POST-LIST:END -->
 
 
