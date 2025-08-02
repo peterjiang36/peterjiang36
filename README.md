@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Philosophical Impact of AI: ChatGPT&#39;s Influence on Human Thought](https://dev.to/ndmckay/exploring-the-philosophical-impact-of-ai-chatgpts-influence-on-human-thought-2327)
-- [Setup ESLint and Prettier in Nuxt 4](https://dev.to/matisbag/setup-eslint-and-prettier-in-nuxt-4-5ccm)
-- [Building a Full-Stack Chatbot with Next.js + Supabase](https://dev.to/umairarshad-dev/building-a-full-stack-chatbot-with-nextjs-supabase-b3p)
-- [AI and Staking: Optimizing Validator Performance in 2025](https://dev.to/defidiver21/ai-and-staking-optimizing-validator-performance-in-2025-2gk9)
+- [Dev Diary #2: Cloud Security plugin for JetBrains IDE](https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo)
+- [Registration Form](https://dev.to/_ruchi_kumari_/registration-form-20pg)
+- [Interesting.](https://dev.to/mgks/interesting-2jmd)
+- [Navigating the AI Revolution: McKinsey&#39;s Existential Challenge in Consulting](https://dev.to/ndmckay/navigating-the-ai-revolution-mckinseys-existential-challenge-in-consulting-1jo7)
 <!-- BLOG-POST-LIST:END -->
 
 
