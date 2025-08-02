@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [About Me](https://dev.to/hamdivazim/about-me-5a77)
-- [Transform Your Web Experience: Premier CSS Animation Libraries for 2025](https://dev.to/yakhilesh/transform-your-web-experience-premier-css-animation-libraries-for-2025-41o3)
-- [Understanding Linear Regression Inside-Out: Practical Implementation with scikit-learn and TensorFlow](https://dev.to/jioophoenix/understanding-linear-regression-inside-out-practical-implementation-with-scikit-learn-and-110k)
-- [Create Objective-C Apps with Simple Commands](https://dev.to/atforeveryoung/create-objective-c-apps-with-simple-commands-4la5)
+- [Verizon is upping its fees again](https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0)
+- [Add AI features to your application with Genkit](https://dev.to/abukavictor/add-ai-features-to-your-application-with-genkit-28gn)
+- [API Security with Access Control: Best Practices for a Safer Backend](https://dev.to/lovestaco/api-security-with-access-control-best-practices-for-a-safer-backend-4fpf)
+- [Fake Hacker Simulation Screen](https://dev.to/ruaa201100svg/fake-hacker-simulation-screen-4261)
 <!-- BLOG-POST-LIST:END -->
 
 
