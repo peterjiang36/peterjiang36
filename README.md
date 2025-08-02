@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: Step By Step Process To Build MultiModal RAG With Langchain&lpar;PDF And Images&rpar;](https://dev.to/vibe_youtube/krish-naik-step-by-step-process-to-build-multimodal-rag-with-langchainpdf-and-images-2bno)
-- [Get Real-Time Bangladeshi Taka Exchange Rates Without an API Key](https://dev.to/devparvez/get-real-time-bangladeshi-taka-exchange-rates-without-an-api-key-je4)
-- [🤖 What is a Parameterized Job in Jenkins?](https://dev.to/yash1307/what-is-a-parameterized-job-in-jenkins-137e)
-- [EventStream Hub - Real-Time Event Processing with Redis as Primary Database](https://dev.to/ariondev/eventstream-hub-real-time-event-processing-with-redis-as-primary-database-5ba5)
+- [How Pseudocode Programming Process Leveled Up My Software Engineering Skills](https://dev.to/bikodes/how-pseudocode-programming-process-leveled-up-my-software-engineering-skills-ob3)
+- [The Honest Roadmap to Learning Machine Learning](https://dev.to/fridaycandours/the-honest-roadmap-to-learning-machine-learning-49al)
+- [Building an AI FAQ Assistant with Redis 8 and OpenAI](https://dev.to/dilumdarshana/building-an-ai-faq-assistant-with-redis-8-and-openai-5o9)
+- [PostgreSQL Installation Guide for Linux Servers](https://dev.to/brenda_mutai_8a282e86666a/postgresql-installation-guide-for-linux-servers-21m4)
 <!-- BLOG-POST-LIST:END -->
 
 
