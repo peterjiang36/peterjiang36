@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Surprising Facts About LocalStorage You Probably Didn’t Know](https://dev.to/gouranga-das-khulna/5-surprising-facts-about-localstorage-you-probably-didnt-know-33o0)
-- [RELEASING KARL DOCS](https://dev.to/theaniketraj/releasing-karl-docs-32o1)
-- [Flex or Grid: Which is Better? &lpar;1D vs 2D Layouts&rpar;](https://dev.to/dehemi_fabio/flex-or-grid-which-is-better-1d-vs-2d-layouts-8n9)
-- [Simple Java Project: Temperature Converter &lpar;with Detailed Explanation&rpar;](https://dev.to/sharique_siddiqui_8242dad/simple-java-project-temperature-converter-with-detailed-explanation-3k6l)
+- [New Node.js template engine](https://dev.to/greenflag31/new-nodejs-template-engine-4jjd)
+- [PesudoCLI - your AI man pages.](https://dev.to/abiji-2020/pesudocli-your-ai-man-pages-104a)
+- [Building an Automated Book Price Monitoring Scraper with Python](https://dev.to/sahani_rajapakshe_33559b9/building-an-automated-book-price-monitoring-scraper-with-python-20i5)
+- [🧠 List of Free AI Chatbots for Coding &lpar;That Won’t Steal Your Job&rpar;](https://dev.to/hamidrazadev/list-of-free-ai-chatbots-for-coding-j0i)
 <!-- BLOG-POST-LIST:END -->
 
 
