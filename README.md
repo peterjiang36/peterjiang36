@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: FNAF, How to STOP the Mimic... For Good!](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-how-to-stop-the-mimic-for-good-1g98)
-- [Redis AI Trading Assistant: Real-Time Market Intelligence with Human-Controlled Execution](https://dev.to/ctj01/redis-ai-trading-assistant-real-time-market-intelligence-with-human-controlled-execution-4m46)
-- [Hungover But Still Showed Up #27](https://dev.to/0xj0n1/hungover-but-still-showed-up-27-5dpg)
-- [Dependency Injection in the JavaScript Ecosystem: Challenges and Benefits](https://dev.to/wroud/dependency-injection-in-the-javascript-ecosystem-challenges-and-benefits-1b31)
+- [javascript30 journey - day 1](https://dev.to/still_fatolu/javascript30-journey-day-1-2cl9)
+- [Is the Metaverse Dead? Why 2025 Marks a Sustainable Growth Phase](https://dev.to/ethermuse_7/is-the-metaverse-dead-why-2025-marks-a-sustainable-growth-phase-2ljb)
+- [Can everyone post the four best pictures they&#39;ve ever generated](https://dev.to/ndmckay/can-everyone-post-the-four-best-pictures-theyve-ever-generated-58db)
+- [3 Ways To Create Middleware In ASP.NET Core](https://dev.to/shiv_darshanrathore_402a/3-ways-to-create-middleware-in-aspnet-core-2703)
 <!-- BLOG-POST-LIST:END -->
 
 
