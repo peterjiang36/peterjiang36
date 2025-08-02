@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Implemented GitHub OAuth2 into My Spring Boot + Angular App N1netails](https://dev.to/shahidfoy/how-i-implemented-github-oauth2-into-my-spring-boot-angular-app-n1netails-5bo)
-- [How I Automated My Excel Workflow Using ChatGPT &lpar;And Wrote a Bestselling Book About It&rpar;](https://dev.to/jaideepparashar/how-i-automated-my-excel-workflow-using-chatgpt-and-wrote-a-bestselling-book-about-it-cmm)
-- [IGN: Ninja Gaiden: Ragebound | The First 20 Minutes of Gameplay | 4k 60FPS](https://dev.to/gg_news/ign-ninja-gaiden-ragebound-the-first-20-minutes-of-gameplay-4k-60fps-451c)
-- [IGN: Killing Floor 3 - Official Gameplay Trailer](https://dev.to/gg_news/ign-killing-floor-3-official-gameplay-trailer-582p)
+- [Introducing Niceshot - Turn your boring screenshots or images into stunning visuals](https://dev.to/bhataasim/introducing-niceshot-turn-your-boring-screenshots-or-images-into-stunning-visuals-44ic)
+- [Secure Your Android App with Biometric SDK in 5 Minutes 🔐 &lpar;Kotlin&rpar;](https://dev.to/noncoderf/secure-your-android-app-with-biometric-sdk-in-5-minutes-kotlin-4boh)
+- [Mastering the Scrum Framework: Roles, Events &amp; Artifacts](https://dev.to/dct_technology/mastering-the-scrum-framework-roles-events-artifacts-4556)
+- [The Silent War on Cash: Why We Must Fight for Our Right to Pay Anonymously](https://dev.to/jonasfroeller/the-silent-war-on-cash-why-we-must-fight-for-our-right-to-pay-anonymously-hlo)
 <!-- BLOG-POST-LIST:END -->
 
 
