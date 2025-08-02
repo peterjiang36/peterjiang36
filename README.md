@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 MB Homework Limit That Turned Me Into an App-Builder](https://dev.to/3nginuity_/the-5-mb-homework-limit-that-turned-me-into-an-app-builder-222a)
-- [Best Lightweight Docusaurus Alternative? I Think It’s &quot;docmd&quot; - A Refreshingly Minimal Docs Generator](https://dev.to/bsprout431/best-lightweight-docusaurus-alternative-i-think-its-docmd-a-refreshingly-minimal-docs-47da)
-- [Toward Understanding &amp; Rethinking ITSM in the Age of AI](https://dev.to/kevinasutton/toward-understanding-rethinking-itsm-in-the-age-of-ai-939)
-- [Mix with the Masters: Mixing Night with Ken Lewis - DAW TRICKS NIGHT - 8/6/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-daw-tricks-night-862025-3g8m)
+- [Discover the Best Productivity Tools with SaaS Tools Dir](https://dev.to/jesus_camacho_45d1dd529cf/discover-the-best-productivity-tools-with-saas-tools-dir-1565)
+- [Basic Linux command &lpar;tree&rpar;](https://dev.to/cheulong/basic-linux-command-tree-jfm)
+- [Earl bahasa yang memudahkan](https://dev.to/dev_nazwashabrina/earl-bahasa-yang-memudahkan-4e63)
+- [Apple ][ Text on Mini Micro!](https://dev.to/joestrout/apple-text-on-mini-micro-337)
 <!-- BLOG-POST-LIST:END -->
 
 
