@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/barsik_ingush_34702a56847/untitled-5b41)
-- [How I Built a Serverless Contact Form and Scalable Backend with AWS Lambda, Fargate, and Batch](https://dev.to/peter_samuel_052b9056e236/how-i-built-a-serverless-contact-form-and-scalable-backend-with-aws-lambda-fargate-and-batch-27i6)
-- [DevLog 2025801: Procedural Context Type](https://dev.to/methodox/devlog-2025801-procedural-context-type-338k)
-- [Humanizing Visual Studio: A Call to Speak to Real People](https://dev.to/ljvasquezr/humanizing-visual-studio-a-call-to-speak-to-real-people-46i4)
+- [What is Software Developer? - I](https://dev.to/oliver_butler_a52c1be144d/what-is-software-developer-i-40lc)
+- [Creating Materialized View with FAST REFRESH](https://dev.to/mrcaption49/creating-materialized-view-with-fast-refresh-4e8p)
+- [IGN: Aggelos 2 - Official Publisher Announcement Trailer](https://dev.to/gg_news/ign-aggelos-2-official-publisher-announcement-trailer-563c)
+- [When &quot;Private&quot; Isn’t: The Security Risks of GPT Chats Leaking to Search Engines](https://dev.to/snyk/when-private-isnt-the-security-risks-of-gpt-chats-leaking-to-search-engines-443k)
 <!-- BLOG-POST-LIST:END -->
 
 
