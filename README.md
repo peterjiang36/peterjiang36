@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: Before You Hit a Bunker Shot, Do This &lpar;Takes 5 Seconds&rpar;](https://dev.to/youtube_golf/danny-maude-before-you-hit-a-bunker-shot-do-this-takes-5-seconds-2iom)
-- [Manual Testing Guide for Product Testing](https://dev.to/srinidhi_gowda_fa6e884617/manual-testing-guide-for-product-testing-522p)
-- [Voice News Summary - AI-Powered News Summaries Read Aloud in Seconds with Redis](https://dev.to/irwanphan/voice-news-summary-ai-powered-news-summaries-read-aloud-in-seconds-with-redis-1lhi)
-- [A Guide for Creating a Linux Server VM on Azure &amp; Installing PostgreSQL](https://dev.to/loi2008/a-guide-for-creating-a-linux-server-vm-on-azure-installing-postgresql-1dnh)
+- [Double force reboot](https://dev.to/amarao/double-force-reboot-1j2c)
+- [The Self-Improving Prompt System That Gets Smarter With Every Use - And Anyone Can Master](https://dev.to/with_attitude/the-self-improving-prompt-system-that-gets-smarter-with-every-use-and-anyone-can-master-162a)
+- [WTF is Temporal Tables?](https://dev.to/dailybugle33/wtf-is-temporal-tables-6cc)
+- [Why Agentic AI Will Replace 80% of Low-Level Automation Tools](https://dev.to/dhruvjoshi9/why-agentic-ai-will-replace-80-of-low-level-automation-tools-3kd2)
 <!-- BLOG-POST-LIST:END -->
 
 
