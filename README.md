@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the N+1 Query Problem and How to Solve it?](https://dev.to/namit2111/what-is-the-n1-query-problem-and-how-to-solve-it-1amg)
-- [Easy SSL Certificates for Your Homelab Services &lpar;Using Nginx Proxy Manager &amp; Cloudflare&rpar;](https://dev.to/tossthedev/easy-ssl-certificates-for-your-homelab-services-using-nginx-proxy-manager-cloudflare-aep)
-- [Cycle Detection using Union-Find C++: Story](https://dev.to/harshm03/cycle-detection-using-union-find-c-story-127h)
-- [Top 5 Mistakes JavaScript Beginners Make in Interviews &lpar;And How to Avoid Them&rpar;](https://dev.to/sid6398/top-5-mistakes-javascript-beginners-make-in-interviews-and-how-to-avoid-them-2lk8)
+- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
+- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
+- [How to Create a Secure Subnet and Network Security Group in Azure](https://dev.to/peter_samuel_052b9056e236/how-to-create-a-secure-subnet-and-network-security-group-in-azure-2g2b)
+- [Music Player - Finally](https://dev.to/tarlue_alphanso_57a6d2915/music-player-finally-214b)
 <!-- BLOG-POST-LIST:END -->
 
 
