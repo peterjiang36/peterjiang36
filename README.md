@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Coding](https://dev.to/nandinishinduja/ai-in-coding-18j1)
-- [Snowflake AI_SENTIMENT - Industry-Leading Sentiment Analysis with 0.92 Accuracy and Multi-Aspect Support](https://dev.to/tsubasa_tech/snowflake-aisentiment-industry-leading-sentiment-analysis-with-092-accuracy-and-multi-aspect-49k3)
-- [GLM 4.5 vs. Promptfoo: A Playbook for Systematic LLM Security Audits](https://dev.to/ayush7614/glm-45-vs-promptfoo-a-playbook-for-systematic-llm-security-audits-27ln)
-- [AI Workshop](https://dev.to/nandinishinduja/ai-workshop-3ha3)
+- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
+- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
+- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
+- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
 <!-- BLOG-POST-LIST:END -->
 
 
