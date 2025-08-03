@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [isupper, islower &amp; istitle in Python](https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7)
-- [🚀 How I Built a Frontend-Only Telemetry Dashboard with React &amp; EdgeOne Pages](https://dev.to/soumyendu_dey_2b0d1a71bbf/how-i-built-a-frontend-only-telemetry-dashboard-with-react-edgeone-pages-54o5)
-- [swapcase, title &amp; capitalize in Python](https://dev.to/hyperkai/swapcase-title-capitalize-in-python-4e99)
-- [Close the Door Behind You: Why Properly Logging off RDP Matters](https://dev.to/saravana_gautham_g/close-the-door-behind-you-why-properly-logging-off-rdp-matters-1jie)
+- [Best tips to learn music?](https://dev.to/thomasbnt/best-tips-to-learn-music-4e36)
+- [Laura Kampf: What can I make with the most boring chair in the world?](https://dev.to/maker_youtube/laura-kampf-what-can-i-make-with-the-most-boring-chair-in-the-world-27lc)
+- [Auth and Billing in One API Call: A Pattern Worth Betting On](https://dev.to/sholajegede/auth-and-billing-in-one-api-call-a-pattern-worth-betting-on-57jl)
+- [Adam Savage&#39;s Tested: How Adam Savage Is Good AND Bad at Prioritization](https://dev.to/maker_youtube/adam-savages-tested-how-adam-savage-is-good-and-bad-at-prioritization-24dj)
 <!-- BLOG-POST-LIST:END -->
 
 
