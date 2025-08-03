@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
-- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
-- [🚀 August 2025 Developer Update: React 19, AI-Powered Tools, and Big Tech’s $155B AI Playbook](https://dev.to/jasgigli/august-2025-developer-update-react-19-ai-powered-tools-and-big-techs-155b-ai-playbook-4mk)
-- [Demystifying Java Records: A Developer&#39;s Guide](https://dev.to/ankit_sood_66861d56d8e42a/demystifying-java-records-a-developers-guide-h0d)
+- [Nicholas Renotte: How to Build a Stock Screener AGENT with LangGraph in 30 Minutes &lpar;LangGraph Crash Course&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-how-to-build-a-stock-screener-agent-with-langgraph-in-30-minutes-langgraph-crash-5dfe)
+- [Unlocking Nature&#39;s Secrets: How Ant Colonies Inspire Cutting-Edge AI Solutions](https://dev.to/jay_all_day/unlocking-natures-secrets-how-ant-colonies-inspire-cutting-edge-ai-solutions-bn5)
+- [Getting Started with Laravel: A Beginner&#39;s Guide](https://dev.to/mogenaidy/getting-started-with-laravel-a-beginners-guide-3onc)
+- [Weekly Challenge: I sent my date a letter](https://dev.to/simongreennet/weekly-challenge-i-sent-my-date-a-letter-1ppg)
 <!-- BLOG-POST-LIST:END -->
 
 
