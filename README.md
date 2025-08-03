@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding @preconcurrency in Swift](https://dev.to/arshtechpro/understanding-preconcurrency-in-swift-33ml)
-- [From Silence to Sound: Fixing Audio on Samsung Galaxy Book running Ubuntu Linux](https://dev.to/topzyray/from-silence-to-sound-fixing-audio-on-samsung-galaxy-book-running-ubuntu-linux-4kgc)
-- [How to Launch a Scalable WordPress Site on AWS Lightsail in Under 10 Minutes](https://dev.to/fys/how-to-launch-a-scalable-wordpress-site-on-aws-lightsail-in-under-10-minutes-230p)
-- [How I Built a Chrome Extension That Connects Securely to a Flask Backend &lpar;with Google OAuth + Cloud Run&rpar;](https://dev.to/saloni28/how-i-built-a-chrome-extension-that-connects-securely-to-a-flask-backend-with-google-oauth-cloud-1307)
+- [How to Use NLP to Extract Business Insights from Chat Data](https://dev.to/stephanie_ozor_1e7b693226/how-to-use-nlp-to-extract-business-insights-from-chat-data-197a)
+- [Daily JavaScript Challenge #JS-241: Rotate Matrix by 90 Degrees Clockwise](https://dev.to/dpc/daily-javascript-challenge-js-241-rotate-matrix-by-90-degrees-clockwise-1gcm)
+- [Modular Snip Recorder: A Data Collection Tool for Behavior Cloning &lpar;2/2&rpar;](https://dev.to/ertugrulmutlu/modular-snip-recorder-a-data-collection-tool-for-behavior-cloning-22-1lgl)
+- [AWS Cloud Path Week 13: AWS Networking Workshop Part 3 - Security Controls Deep Dive](https://dev.to/aws-builders/aws-cloud-path-week-13-aws-networking-workshop-part-3-security-controls-deep-dive-dkg)
 <!-- BLOG-POST-LIST:END -->
 
 
