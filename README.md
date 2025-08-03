@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda](https://dev.to/tapskuy/rahasia-efisiensi-ai-terungkap-ini-cara-llm-routing-memilih-llm-paling-cerdas-untuk-kebutuhan-anda-109o)
-- [The Importance of Exoskeletons in Medical Rehabilitation and Mobility for the Disabled](https://dev.to/mdmozammelhaquejasem/the-importance-of-exoskeletons-in-medical-rehabilitation-and-mobility-for-the-disabled-3ng2)
-- [Why .env and .env.local Files Are Crucial in Modern Development Projects](https://dev.to/nk2552003/why-env-and-envlocal-files-are-crucial-in-modern-development-projects-3jop)
-- [The Science Behind Nuclear Bombs: How the Most Powerful Weapons on Earth Work](https://dev.to/xbze3/the-science-behind-nuclear-bombs-how-the-most-powerful-weapons-on-earth-work-5d1n)
+- [Amazon Q Developer Custom Agents](https://dev.to/peepeepopapapeepeepo/amazon-q-developer-custom-agents-pbl)
+- [Dart Lesson 6: Advanced Functions - Higher-Order Functions and Closures](https://dev.to/jige2025/dart-lesson-6-advanced-functions-higher-order-functions-and-closures-3cmb)
+- [[Share Data / Python Lib] Thư viện chuẩn hóa &amp; chuyển đổi đơn vị hành chính Việt Nam](https://dev.to/tranngocminhhieu/share-data-python-lib-thu-vien-chuan-hoa-chuyen-doi-don-vi-hanh-chinh-viet-nam-k7b)
+- [How to Configure SSL Certificates in Nginx for Secure HTTPS Connections](https://dev.to/freedom_coder/how-to-configure-ssl-certificates-in-nginx-for-secure-https-connections-10f4)
 <!-- BLOG-POST-LIST:END -->
 
 
