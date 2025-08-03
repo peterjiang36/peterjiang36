@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Project](https://dev.to/jostin_soza_20/spring-boot-project-4gbb)
-- [AWS Cloud Path Week 14: AWS Networking Workshop Part 4 - Advanced Networking with Transit Gateway and VPN](https://dev.to/aws-builders/aws-cloud-path-week-14-aws-networking-workshop-part-4-advanced-networking-with-transit-gateway-417a)
-- [Introducing TourCompose: The Easiest Way to Add Interactive Tours to Your Android Compose App &lpar;Without Losing Your Sanity&rpar;](https://dev.to/tonyakitori/introducing-tourcompose-the-easiest-way-to-add-interactive-tours-to-your-android-compose-app-3k2j)
-- [Unlocking the Power of Support Vector Machines: Hyperplanes and Margin Maximization](https://dev.to/dev_patel_35864ca1db6093c/unlocking-the-power-of-support-vector-machines-hyperplanes-and-margin-maximization-4ag8)
+- [Dart Lesson 5: function base - the smallest unit of code reuse](https://dev.to/jige2025/dart-lesson-5-function-base-the-smallest-unit-of-code-reuse-36b9)
+- [I Wasted a Day on My AI&#39;s Bad Idea, And It Was Worth It](https://dev.to/mrlarson2007/i-wasted-a-day-on-my-ais-bad-idea-and-it-was-worth-it-4bao)
+- [FREE Bulletproof Supabase Backups: With AWS Lambda and S3](https://dev.to/nicobistolfi/free-bulletproof-supabase-backups-with-aws-lambda-and-s3-4b1i)
+- [TIL - Html and CSS](https://dev.to/arsalanbardsiri/til-html-and-css-2g56)
 <!-- BLOG-POST-LIST:END -->
 
 
