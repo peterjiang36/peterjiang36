@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use NLP to Extract Business Insights from Chat Data](https://dev.to/stephanie_ozor_1e7b693226/how-to-use-nlp-to-extract-business-insights-from-chat-data-197a)
-- [Daily JavaScript Challenge #JS-241: Rotate Matrix by 90 Degrees Clockwise](https://dev.to/dpc/daily-javascript-challenge-js-241-rotate-matrix-by-90-degrees-clockwise-1gcm)
-- [Modular Snip Recorder: A Data Collection Tool for Behavior Cloning &lpar;2/2&rpar;](https://dev.to/ertugrulmutlu/modular-snip-recorder-a-data-collection-tool-for-behavior-cloning-22-1lgl)
-- [AWS Cloud Path Week 13: AWS Networking Workshop Part 3 - Security Controls Deep Dive](https://dev.to/aws-builders/aws-cloud-path-week-13-aws-networking-workshop-part-3-security-controls-deep-dive-dkg)
+- [Spring Boot Project](https://dev.to/jostin_soza_20/spring-boot-project-4gbb)
+- [AWS Cloud Path Week 14: AWS Networking Workshop Part 4 - Advanced Networking with Transit Gateway and VPN](https://dev.to/aws-builders/aws-cloud-path-week-14-aws-networking-workshop-part-4-advanced-networking-with-transit-gateway-417a)
+- [Introducing TourCompose: The Easiest Way to Add Interactive Tours to Your Android Compose App &lpar;Without Losing Your Sanity&rpar;](https://dev.to/tonyakitori/introducing-tourcompose-the-easiest-way-to-add-interactive-tours-to-your-android-compose-app-3k2j)
+- [Unlocking the Power of Support Vector Machines: Hyperplanes and Margin Maximization](https://dev.to/dev_patel_35864ca1db6093c/unlocking-the-power-of-support-vector-machines-hyperplanes-and-margin-maximization-4ag8)
 <!-- BLOG-POST-LIST:END -->
 
 
