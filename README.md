@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Shouldn’t Define a Component Inside Another Component in React](https://dev.to/newtonfdz/why-you-shouldnt-define-a-component-inside-another-component-in-react-30h3)
-- [Kubernetes Ingress Playlist Part 1 - Understanding Ingress Controllers](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-1-understanding-ingress-controllers-1mjj)
-- [Java Inheritance](https://dev.to/a_ramesh/java-inheritance-3lcl)
-- [Turn History PDF Books into AI-Ready Q&amp;A Datasets with This Python Tool!](https://dev.to/ayabongaqwabi/turn-history-pdf-books-into-ai-ready-qa-datasets-with-this-python-tool-5dh6)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-2ami)
+- [IGN: Street Fighter 6 - Official C. Viper Teaser Trailer](https://dev.to/gg_news/ign-street-fighter-6-official-c-viper-teaser-trailer-2a5l)
+- [The Future of Machine Learning: Why CPUs, GPUs, NPUs, and TPUs Are Essential for AI Success](https://dev.to/jay_all_day/the-future-of-machine-learning-why-cpus-gpus-npus-and-tpus-are-essential-for-ai-success-47hk)
+- [Hook Studio](https://dev.to/jxlee007/hook-studio-2m6)
 <!-- BLOG-POST-LIST:END -->
 
 
