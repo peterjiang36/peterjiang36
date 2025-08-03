@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tea app data breach: What really happened?](https://dev.to/harishankarr7/the-tea-app-data-breach-what-really-happened-3amh)
-- [Socialite ReCall](https://dev.to/nasrulhazim/socialite-recall-1066)
-- [🧱 Building a Modular ERP System with Laravel 10](https://dev.to/firexcore/building-a-modular-erp-system-with-laravel-10-1joc)
-- [Getting your product to the right people](https://dev.to/wdp/getting-your-product-to-the-right-people-5c90)
+- [Adam Savage&#39;s Tested: How Adam Is Hansi But Martina Is Jamie &lpar;with @nerdforge!&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-adam-is-hansi-but-martina-is-jamie-with-nerdforge-13j6)
+- [Why Every New Framework Feels the Same &lpar;And Why That’s a Good Thing&rpar;](https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4)
+- [Unlocking Git&#39;s Power: Go Beyond git push &amp; git pull](https://dev.to/rohit_kumar_0193e4393f4bb/unlocking-gits-power-go-beyond-git-push-git-pull-1fih)
+- [The Foundations of Web3: Cryptocurrency, Ethereum, and Smart Contracts Concepts Explained](https://dev.to/loading_blocks/the-foundations-of-web3-cryptocurrency-ethereum-and-smart-contracts-concepts-explained-427g)
 <!-- BLOG-POST-LIST:END -->
 
 
