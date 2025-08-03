@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Workplace Ethics](https://dev.to/nandinishinduja/workplace-ethics-3e11)
-- [Revolutionize Your AI Projects: Harness the Power of the PEER Pattern for Multi-Agent Systems](https://dev.to/jay_all_day/revolutionize-your-ai-projects-harness-the-power-of-the-peer-pattern-for-multi-agent-systems-kc3)
-- [Accelerate Your React &amp; Next.js Development with Themedevhub: UI Kits, Tools &amp; Templates](https://dev.to/sh_sazib/accelerate-your-react-nextjs-development-with-themedevhub-ui-kits-tools-templates-58e0)
-- [Postman vs Apidog: Which One Deserves a Spot in Your Dev Toolkit?](https://dev.to/mahmud-r-farhan/postman-vs-apidog-which-one-deserves-a-spot-in-your-dev-toolkit-30na)
+- [AI in Coding](https://dev.to/nandinishinduja/ai-in-coding-18j1)
+- [Snowflake AI_SENTIMENT - Industry-Leading Sentiment Analysis with 0.92 Accuracy and Multi-Aspect Support](https://dev.to/tsubasa_tech/snowflake-aisentiment-industry-leading-sentiment-analysis-with-092-accuracy-and-multi-aspect-49k3)
+- [GLM 4.5 vs. Promptfoo: A Playbook for Systematic LLM Security Audits](https://dev.to/ayush7614/glm-45-vs-promptfoo-a-playbook-for-systematic-llm-security-audits-27ln)
+- [AI Workshop](https://dev.to/nandinishinduja/ai-workshop-3ha3)
 <!-- BLOG-POST-LIST:END -->
 
 
