@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple](https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5)
-- [CloudQuotation by Alibaba Cloud](https://dev.to/subhamray/cloudquotation-by-alibaba-cloud-5cg)
-- [How to Create a Secure Subnet and Network Security Group in Azure](https://dev.to/peter_samuel_052b9056e236/how-to-create-a-secure-subnet-and-network-security-group-in-azure-2g2b)
-- [Music Player - Finally](https://dev.to/tarlue_alphanso_57a6d2915/music-player-finally-214b)
+- [Mock Interview Questions :](https://dev.to/vigneshwaralingam/mock-interview-questions--2p9i)
+- [Mr Sunday Movies: 4 BIG changes Four Fantastic: First Steps makes to the MCU](https://dev.to/popcorn_movies/mr-sunday-movies-4-big-changes-four-fantastic-first-steps-makes-to-the-mcu-4n60)
+- [AWS Free Tier &lpar;2025&rpar;: What&#39;s Free &amp; For How Long](https://dev.to/alonshrestha/aws-free-tier-2025-whats-free-for-how-long-356i)
+- [HTMX is hard, so let&#39;s get it right](https://dev.to/bookofcooks/htmx-is-hard-so-lets-get-it-right-3flc)
 <!-- BLOG-POST-LIST:END -->
 
 
