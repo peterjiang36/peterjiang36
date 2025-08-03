@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuking AWS Resources Safely with aws-nuke](https://dev.to/lovestaco/nuking-aws-resources-safely-with-aws-nuke-4ndd)
-- [HTML Lab: Create &amp; Style Div Elements, CSS Box Shadows, and Basic Structure](https://dev.to/labex/html-lab-create-style-div-elements-css-box-shadows-and-basic-structure-3me4)
-- [TypeScript 5.9 is here, GLM 4.5 is EPIC for Programming, Node.js 22.18 LTS, and more](https://dev.to/thisweekinjavascript/typescript-59-is-here-glm-45-is-epic-for-programming-nodejs-2218-lts-and-more-48h8)
-- [Tagasaurus, desktop ml photo search](https://dev.to/avmantzaris/tagasaurus-desktop-ml-photo-search-5ee7)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-446o)
+- [IGN: Invincible VS High-Level Gameplay | EVO 2025](https://dev.to/gg_news/ign-invincible-vs-high-level-gameplay-evo-2025-3f18)
+- [IGN: Mortal Kombat Legacy Kollection - Developer Interview | EVO 2025](https://dev.to/gg_news/ign-mortal-kombat-legacy-kollection-developer-interview-evo-2025-1o80)
+- [Unlocking AI Potential: How Contextualized Evaluations Transform Model Assessments](https://dev.to/jay_all_day/unlocking-ai-potential-how-contextualized-evaluations-transform-model-assessments-5d9i)
 <!-- BLOG-POST-LIST:END -->
 
 
