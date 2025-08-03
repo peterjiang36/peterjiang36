@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GORM as an ORM in Go: A Quick Overview](https://dev.to/diogojlq/using-gorm-as-an-orm-in-go-a-quick-overview-1ja2)
-- [Harnessing Ant Behavior: Secrets to Cutting-Edge Tech Solutions](https://dev.to/jay_all_day/harnessing-ant-behavior-secrets-to-cutting-edge-tech-solutions-30ed)
-- [NuPack v17.2 released](https://dev.to/cnsharp/nupack-v172-released-1aep)
-- [BFS Graph Traversal C++: Story](https://dev.to/harshm03/bfs-graph-traversal-c-story-3c5l)
+- [What is the N+1 Query Problem and How to Solve it?](https://dev.to/namit2111/what-is-the-n1-query-problem-and-how-to-solve-it-1amg)
+- [Easy SSL Certificates for Your Homelab Services &lpar;Using Nginx Proxy Manager &amp; Cloudflare&rpar;](https://dev.to/tossthedev/easy-ssl-certificates-for-your-homelab-services-using-nginx-proxy-manager-cloudflare-aep)
+- [Cycle Detection using Union-Find C++: Story](https://dev.to/harshm03/cycle-detection-using-union-find-c-story-127h)
+- [Top 5 Mistakes JavaScript Beginners Make in Interviews &lpar;And How to Avoid Them&rpar;](https://dev.to/sid6398/top-5-mistakes-javascript-beginners-make-in-interviews-and-how-to-avoid-them-2lk8)
 <!-- BLOG-POST-LIST:END -->
 
 
