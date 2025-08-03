@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dart Lesson 5: function base - the smallest unit of code reuse](https://dev.to/jige2025/dart-lesson-5-function-base-the-smallest-unit-of-code-reuse-36b9)
-- [I Wasted a Day on My AI&#39;s Bad Idea, And It Was Worth It](https://dev.to/mrlarson2007/i-wasted-a-day-on-my-ais-bad-idea-and-it-was-worth-it-4bao)
-- [FREE Bulletproof Supabase Backups: With AWS Lambda and S3](https://dev.to/nicobistolfi/free-bulletproof-supabase-backups-with-aws-lambda-and-s3-4b1i)
-- [TIL - Html and CSS](https://dev.to/arsalanbardsiri/til-html-and-css-2g56)
+- [Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda](https://dev.to/tapskuy/rahasia-efisiensi-ai-terungkap-ini-cara-llm-routing-memilih-llm-paling-cerdas-untuk-kebutuhan-anda-109o)
+- [The Importance of Exoskeletons in Medical Rehabilitation and Mobility for the Disabled](https://dev.to/mdmozammelhaquejasem/the-importance-of-exoskeletons-in-medical-rehabilitation-and-mobility-for-the-disabled-3ng2)
+- [Why .env and .env.local Files Are Crucial in Modern Development Projects](https://dev.to/nk2552003/why-env-and-envlocal-files-are-crucial-in-modern-development-projects-3jop)
+- [The Science Behind Nuclear Bombs: How the Most Powerful Weapons on Earth Work](https://dev.to/xbze3/the-science-behind-nuclear-bombs-how-the-most-powerful-weapons-on-earth-work-5d1n)
 <!-- BLOG-POST-LIST:END -->
 
 
