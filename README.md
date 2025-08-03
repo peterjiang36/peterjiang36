@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: How Adam Is Hansi But Martina Is Jamie &lpar;with @nerdforge!&rpar;](https://dev.to/maker_youtube/adam-savages-tested-how-adam-is-hansi-but-martina-is-jamie-with-nerdforge-13j6)
-- [Why Every New Framework Feels the Same &lpar;And Why That’s a Good Thing&rpar;](https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4)
-- [Unlocking Git&#39;s Power: Go Beyond git push &amp; git pull](https://dev.to/rohit_kumar_0193e4393f4bb/unlocking-gits-power-go-beyond-git-push-git-pull-1fih)
-- [The Foundations of Web3: Cryptocurrency, Ethereum, and Smart Contracts Concepts Explained](https://dev.to/loading_blocks/the-foundations-of-web3-cryptocurrency-ethereum-and-smart-contracts-concepts-explained-427g)
+- [Laravel Octane: 15 Advanced Configuration Techniques for Maximum Performance](https://dev.to/arasosman/laravel-octane-15-advanced-configuration-techniques-for-maximum-performance-5974)
+- [TypeScript Tricks Every Angular Developer Should Know](https://dev.to/karol_modelski/typescript-tricks-every-angular-developer-should-know-16dp)
+- [🚀 August 2025 Developer Update: React 19, AI-Powered Tools, and Big Tech’s $155B AI Playbook](https://dev.to/jasgigli/august-2025-developer-update-react-19-ai-powered-tools-and-big-techs-155b-ai-playbook-4mk)
+- [Demystifying Java Records: A Developer&#39;s Guide](https://dev.to/ankit_sood_66861d56d8e42a/demystifying-java-records-a-developers-guide-h0d)
 <!-- BLOG-POST-LIST:END -->
 
 
