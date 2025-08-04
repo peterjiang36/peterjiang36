@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Designed a Credit System That Actually Makes Users Upgrade](https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5)
-- [A Hands-On Guide to Supercharging Your Go Apps with pprof](https://dev.to/jones_charles_ad50858dbc0/a-hands-on-guide-to-supercharging-your-go-apps-with-pprof-57m2)
-- [Title: Instagram Introduces New Live Streaming Requirements: 1,000 Followers and More](https://dev.to/yagyaraj_sharma_6cd410179/title-instagram-introduces-new-live-streaming-requirements-1000-followers-and-more-4k24)
-- [Why Every Coder Should Understand Ethical Hacking — A Beginner’s Guide](https://dev.to/jameswsparker/why-every-coder-should-understand-ethical-hacking-a-beginners-guide-6gf)
+- [Part 3 - Scaling the Outlet Pattern with Multiple Named Outlets in React](https://dev.to/talissoncosta/part-3-scaling-the-outlet-pattern-with-multiple-named-outlets-in-react-3nej)
+- [Deploy a Spring Boot app to EKS](https://dev.to/said_olano/deploy-a-spring-boot-app-to-eks-48ki)
+- [The Almighty PLAYWRIGHT-SCHEMA-VALIDATOR: The Unstoppable Triumvirate Playwright + AJV + Zod](https://dev.to/sebastianclavijo/the-almighty-playwright-schema-validator-the-unstoppable-triumvirate-playwright-ajv-zod-3jno)
+- [✨ Drive Efficiency and Consistency: The Benefits of a Design System](https://dev.to/ryarturogi/drive-efficiency-and-consistency-the-benefits-of-a-design-system-18gg)
 <!-- BLOG-POST-LIST:END -->
 
 
