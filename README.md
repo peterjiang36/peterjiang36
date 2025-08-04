@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Advance Git &amp; GitHub for DevOps Engineers](https://dev.to/udoh_deborah_b1e484c474bf/day-13-advance-git-github-for-devops-engineers-22h1)
-- [Learning CS By Building A Computer #0 - An Intro](https://dev.to/nipunattri/relearning-cs-by-building-a-computer-0-an-intro-18b2)
-- [QEMU QAPI Client for Go — Native Code-Gen Straight from QEMU](https://dev.to/krjakbrjak/qemu-qapi-client-for-go-native-code-gen-straight-from-qemu-4m13)
-- [rpartition in Python](https://dev.to/hyperkai/rpartition-in-python-1me1)
+- [How I Designed a Credit System That Actually Makes Users Upgrade](https://dev.to/sholajegede/how-i-designed-a-credit-system-that-actually-makes-users-upgrade-59h5)
+- [A Hands-On Guide to Supercharging Your Go Apps with pprof](https://dev.to/jones_charles_ad50858dbc0/a-hands-on-guide-to-supercharging-your-go-apps-with-pprof-57m2)
+- [Title: Instagram Introduces New Live Streaming Requirements: 1,000 Followers and More](https://dev.to/yagyaraj_sharma_6cd410179/title-instagram-introduces-new-live-streaming-requirements-1000-followers-and-more-4k24)
+- [Why Every Coder Should Understand Ethical Hacking — A Beginner’s Guide](https://dev.to/jameswsparker/why-every-coder-should-understand-ethical-hacking-a-beginners-guide-6gf)
 <!-- BLOG-POST-LIST:END -->
 
 
