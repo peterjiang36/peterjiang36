@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Mocking in Backend Tests](https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm)
-- [I Discovered a ‘Secret’ Citation Tag in My AI Answers—Here’s Why It Matters](https://dev.to/yash_man/i-discovered-a-secret-citation-tag-in-my-ai-answers-heres-why-it-matters-j27)
-- [Is anyone interested in vibe coding on your phone?](https://dev.to/nickqiao/is-anyone-interested-in-vibe-coding-on-your-phone-5f3o)
-- [How Data Fetching Works in Next.js: Server vs Client Components](https://dev.to/sudiip__17/how-data-fetching-works-in-nextjs-server-vs-client-components-3779)
+- [Firestore Database: Your NoSQL Best Friend 🔥](https://dev.to/this-is-learning/firestore-database-your-nosql-best-friend-1c9a)
+- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 5: Container Image Scanning with Trivy in GitLab CI/CD](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-5-container-image-scanning-with-anb)
+- [Dev-Client Communication that Builds Trust](https://dev.to/duy_cao/dev-client-communication-that-builds-trust-3bbd)
+- [Fix WCAG Errors Faster with Accessibility Automation](https://dev.to/maria_bueno/fix-wcag-errors-faster-with-accessibility-automation-3ic8)
 <!-- BLOG-POST-LIST:END -->
 
 
