@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Back links?](https://dev.to/e77/what-are-back-links-5e5o)
-- [PageMind, Real-Time Collaborative Web Summarization Powered by Redis 8&#39;s Lightning-Fast Cache](https://dev.to/depapp/pagemind-real-time-collaborative-web-summarization-powered-by-redis-8s-lightning-fast-cache-2a6h)
-- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-49m2)
-- [Secure Drupal: Best Practices for Enterprise Sites](https://dev.to/addwebsolutionpvtltd/secure-drupal-best-practices-for-enterprise-sites-37mi)
+- [Write Clean SQL: Tools That Format Your Queries for You](https://dev.to/dbvismarketing/write-clean-sql-tools-that-format-your-queries-for-you-2jl)
+- [The Future of AI: What Anthropic&#39;s Move Against OpenAI Means for the Industry](https://dev.to/jay_all_day/the-future-of-ai-what-anthropics-move-against-openai-means-for-the-industry-2216)
+- [Enabling Power Platform in a Pro-Code IT World](https://dev.to/wyattdave/enabling-power-platform-in-a-pro-code-it-world-10lj)
+- [How to find projects that are easy to contribute to?](https://dev.to/szabgab/how-to-find-projects-that-are-easy-to-contribute-to-1659)
 <!-- BLOG-POST-LIST:END -->
 
 
