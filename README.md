@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [removeprefix &amp; removesuffix in Python](https://dev.to/hyperkai/removeprefix-removesuffix-in-python-45hf)
-- [A Mind Meld for the Modern Enterprise: Breaking Down Knowledge Silos with MCP](https://dev.to/stacklok/a-mind-meld-for-the-modern-enterprise-breaking-down-knowledge-silos-with-mcp-3enf)
-- [Built My First AI Tool with Next.js + Cloudflare](https://dev.to/zac_qiz_1b252900fa5c62d2b/built-my-first-ai-tool-with-nextjs-cloudflare-3a34)
-- [Offensive security - Testing for Broken Access Control &lpar;OWASP&rpar;](https://dev.to/hills/offensive-security-testing-for-broken-access-control-owasp-4llg)
+- [How to Validate Request Body with express-validator](https://dev.to/arasosman/how-to-validate-request-body-with-express-validator-29lo)
+- [How Voice Input Transformed My Solo Development Workflow](https://dev.to/benenewton/how-voice-input-transformed-my-solo-development-workflow-371b)
+- [startswith in Python](https://dev.to/hyperkai/startswith-in-python-2c43)
+- [🔥 10 Prompt Engineering Hacks Every Developer Should Know](https://dev.to/manukumar07/10-prompt-engineering-hacks-every-developer-should-know-gpk)
 <!-- BLOG-POST-LIST:END -->
 
 
