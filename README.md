@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
-- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
-- [Your Files Just Vanished... And Amazon S3 Could Have Saved You!](https://dev.to/stoicdavi/your-files-just-vanished-and-amazon-s3-could-have-saved-you-1dm6)
-- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-3mgo)
+- [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
+- [C# LeetCode 69: Sqrt&lpar;x&rpar;](https://dev.to/grantdotdev/c-leetcode-69-sqrtx-e8e)
+- [Hardening Básico de Servidor Ubuntu/Debian: Acesso SSH e Firewall](https://dev.to/joaoprd/hardening-basico-de-servidor-ubuntudebian-acesso-ssh-e-firewall-5lm)
+- [Return a response or write to the response?](https://dev.to/livioribeiro/return-a-response-or-write-to-the-response-4n7p)
 <!-- BLOG-POST-LIST:END -->
 
 
