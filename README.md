@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Firestore Database: Your NoSQL Best Friend 🔥](https://dev.to/this-is-learning/firestore-database-your-nosql-best-friend-1c9a)
-- [Building, Securing, and Deploying a Go App with GitLab CI/CD EP 5: Container Image Scanning with Trivy in GitLab CI/CD](https://dev.to/mirrorsan/building-securing-and-deploying-a-go-app-with-gitlab-cicd-ep-5-container-image-scanning-with-anb)
-- [Dev-Client Communication that Builds Trust](https://dev.to/duy_cao/dev-client-communication-that-builds-trust-3bbd)
-- [Fix WCAG Errors Faster with Accessibility Automation](https://dev.to/maria_bueno/fix-wcag-errors-faster-with-accessibility-automation-3ic8)
+- [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
+- [I Built a Cyberpunk Story About Meta&#39;s AI Future Using AI as My Pair Programmer](https://dev.to/bioinfo/i-built-a-cyberpunk-story-about-metas-ai-future-using-ai-as-my-pair-programmer-5c3m)
+- [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
+- [Why localhost:3000 Became the Home Base of Modern Web Development](https://dev.to/lightningdev123/why-localhost3000-became-the-home-base-of-modern-web-development-3i67)
 <!-- BLOG-POST-LIST:END -->
 
 
