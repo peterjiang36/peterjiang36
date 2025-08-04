@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Verify Git Commits on GitHub Using GPG Keychain Mac OS](https://dev.to/yasindehfuli/how-to-verify-git-commits-on-github-using-gpg-keychain-mac-os-272c)
-- [What NYT Crosswords Teach Us About Debugging](https://dev.to/abubakersiddique771/what-nyt-crosswords-teach-us-about-debugging-569)
-- [🧠 What “Biased Sports Fan” Taught Me About Pattern Recognition &lpar;Yes, From a NYT Crossword&rpar;](https://dev.to/abubakersiddique771/what-biased-sports-fan-taught-me-about-pattern-recognition-yes-from-a-nyt-crossword-230d)
-- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
+- [Areas in ASP.NET Core: The Architectural Feature You&#39;re Probably Missing](https://dev.to/rumendimov/areas-in-aspnet-core-the-architectural-feature-youre-probably-missing-11bi)
+- [Swift Task Local Storage with @TaskLocal](https://dev.to/arshtechpro/swift-task-local-storage-with-tasklocal-3286)
+- [Your Files Just Vanished... And Amazon S3 Could Have Saved You!](https://dev.to/stoicdavi/your-files-just-vanished-and-amazon-s3-could-have-saved-you-1dm6)
+- [Terraform or OpenTofu? What You Need to Know About the Split](https://dev.to/mukhilpadmanabhan/terraform-or-opentofu-what-you-need-to-know-about-the-split-3mgo)
 <!-- BLOG-POST-LIST:END -->
 
 
