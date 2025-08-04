@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Fatal Fury: City of the Wolves - Official Fatal Fury x Street Fighter Animated Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-fatal-fury-x-street-fighter-animated-trailer-jc)
-- [IGN: HUNTERxHUNTER NENxIMPACT - Official Season Pass Trailer](https://dev.to/gg_news/ign-hunterxhunter-nenximpact-official-season-pass-trailer-2hdh)
-- [IGN: Fatal Fury: City of the Wolves - Official Ken Character Breakdown](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-ken-character-breakdown-35d6)
-- [IGN: Dynasty Warriors - Official 25th Anniversary Trailer](https://dev.to/gg_news/ign-dynasty-warriors-official-25th-anniversary-trailer-43lh)
+- [How to Verify Git Commits on GitHub Using GPG Keychain Mac OS](https://dev.to/yasindehfuli/how-to-verify-git-commits-on-github-using-gpg-keychain-mac-os-272c)
+- [What NYT Crosswords Teach Us About Debugging](https://dev.to/abubakersiddique771/what-nyt-crosswords-teach-us-about-debugging-569)
+- [🧠 What “Biased Sports Fan” Taught Me About Pattern Recognition &lpar;Yes, From a NYT Crossword&rpar;](https://dev.to/abubakersiddique771/what-biased-sports-fan-taught-me-about-pattern-recognition-yes-from-a-nyt-crossword-230d)
+- [Cloud SaaS Secrets: Launch Your $99 App in 10 Days](https://dev.to/resource_bunk_1077cab07da/cloud-saas-secrets-launch-your-99-app-in-10-days-22b8)
 <!-- BLOG-POST-LIST:END -->
 
 
