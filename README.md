@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BookLore: Your Personal Library, Reimagined](https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh)
-- [Building an Interactive S3 Bucket Manager with Bash](https://dev.to/dm8ry/building-an-interactive-s3-bucket-manager-with-bash-1f4i)
-- [Funding Rate Arbitrage: A Technical Deep Dive](https://dev.to/27sphere/funding-rate-arbitrage-a-technical-deep-dive-3eed)
-- [Prompt Engineering for AI-Driven Web Apps: A Spring Boot + React Storefront Example](https://dev.to/thelogicwarlock/prompt-engineering-for-ai-driven-web-apps-a-spring-boot-react-storefront-example-29b6)
+- [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
+- [Building a User Interview Tracker in an Afternoon &lpar;with Gadget&rpar;](https://dev.to/nate_sharma_/building-a-user-interview-tracker-in-an-afternoon-with-gadget-5fom)
+- [Human Resources Translation Software](https://dev.to/elenahartmann/human-resources-translation-software-589d)
+- [Credit: @aarongibbs](https://dev.to/dumb_dev_meme_bot/credit-aarongibbs-41dc)
 <!-- BLOG-POST-LIST:END -->
 
 
