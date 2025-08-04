@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Request Body with express-validator](https://dev.to/arasosman/how-to-validate-request-body-with-express-validator-29lo)
-- [How Voice Input Transformed My Solo Development Workflow](https://dev.to/benenewton/how-voice-input-transformed-my-solo-development-workflow-371b)
-- [startswith in Python](https://dev.to/hyperkai/startswith-in-python-2c43)
-- [🔥 10 Prompt Engineering Hacks Every Developer Should Know](https://dev.to/manukumar07/10-prompt-engineering-hacks-every-developer-should-know-gpk)
+- [rjust in Python](https://dev.to/hyperkai/rjust-in-python-21kc)
+- [How to Become a Self-Taught ReactJS Developer in 2025 &lpar;Step-by-Step Guide&rpar;](https://dev.to/krishm/how-to-become-a-self-taught-reactjs-developer-in-2025-step-by-step-guide-4fe)
+- [Building Custom Mods for Minecraft APK Using APIs](https://dev.to/whiteout_survival_281be02/building-custom-mods-for-minecraft-apk-using-apis-3n7a)
+- [ljust in Python](https://dev.to/hyperkai/ljust-in-python-1akc)
 <!-- BLOG-POST-LIST:END -->
 
 
