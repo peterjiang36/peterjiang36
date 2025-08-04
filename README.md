@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If a Veteran Coder Is Skeptical About AI, We Shouldn&#39;t Worry About Our Coding Jobs](https://dev.to/canro91/if-a-veteran-coder-is-skeptical-about-ai-we-shouldnt-worry-about-our-coding-jobs-2hmg)
-- [lstrip in Python](https://dev.to/hyperkai/lstrip-in-python-49i5)
-- [🚀 Spring Boot Microservice Orchestration with Temporal](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-microservice-orchestration-with-temporal-hnp)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-5769)
+- [What are Back links?](https://dev.to/e77/what-are-back-links-5e5o)
+- [PageMind, Real-Time Collaborative Web Summarization Powered by Redis 8&#39;s Lightning-Fast Cache](https://dev.to/depapp/pagemind-real-time-collaborative-web-summarization-powered-by-redis-8s-lightning-fast-cache-2a6h)
+- [IGN: Lost Soul Aside - Official Weapons Trailer](https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-49m2)
+- [Secure Drupal: Best Practices for Enterprise Sites](https://dev.to/addwebsolutionpvtltd/secure-drupal-best-practices-for-enterprise-sites-37mi)
 <!-- BLOG-POST-LIST:END -->
 
 
