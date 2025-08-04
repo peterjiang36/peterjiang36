@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Tutorial:The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/laravel-tutorialthe-ultimate-guide-2023-1hn5)
-- [I Built a Cyberpunk Story About Meta&#39;s AI Future Using AI as My Pair Programmer](https://dev.to/bioinfo/i-built-a-cyberpunk-story-about-metas-ai-future-using-ai-as-my-pair-programmer-5c3m)
-- [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
-- [Why localhost:3000 Became the Home Base of Modern Web Development](https://dev.to/lightningdev123/why-localhost3000-became-the-home-base-of-modern-web-development-3i67)
+- [quies](https://dev.to/armaankhan8270/quies-47el)
+- [How to Create a virtual machine In azure](https://dev.to/ajayid10/how-to-create-a-virtual-machine-in-azure-1ibh)
+- [What is an Oracle in Blockchain?](https://dev.to/metana/what-is-an-oracle-in-blockchain-1kd4)
+- [Building a Real-Time Movie Sync App with React, Firebase, and WebSockets](https://dev.to/bytesize/building-a-real-time-movie-sync-app-with-react-firebase-and-websockets-45dj)
 <!-- BLOG-POST-LIST:END -->
 
 
