@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is LLM Tokenization and Why Is It Important?](https://dev.to/uhasker/what-is-llm-tokenization-and-why-is-it-important-40jp)
-- [Day 5 of #30DaysOfCode](https://dev.to/justacoder_0x/day-5-of-30daysofcode-1m6j)
-- [Unlocking the Secrets of Collaborative Coding: Insights from a Reddit Discussion](https://dev.to/mikeover/unlocking-the-secrets-of-collaborative-coding-insights-from-a-reddit-discussion-4kom)
-- [I Tried NixOS for a Week So You Don&#39;t Have To](https://dev.to/branden-hernandez/i-tried-nixos-for-a-week-so-you-dont-have-to-10gm)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd)
+- [Strategy design pattern](https://dev.to/abhishek_ahlawat_2b5d6d6d/strategy-design-pattern-3g1k)
+- [🐍 How I Built a Terminal Knowledge Crawler in Pure Python &lpar;No Frameworks&rpar;](https://dev.to/1fahadshah/how-i-built-a-terminal-knowledge-crawler-in-pure-python-no-frameworks-53hf)
+- [Grey Morality: After the Hack - WLH Challenge](https://dev.to/ariondev/grey-morality-after-the-hack-wlh-challenge-99n)
 <!-- BLOG-POST-LIST:END -->
 
 
