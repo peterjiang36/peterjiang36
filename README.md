@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #138 back to school.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-v138-back-to-school-12ic)
-- [How I’m Using AI &lpar;as an AI Skeptic&rpar;](https://dev.to/kathryngrayson/how-im-using-ai-as-an-ai-skeptic-3j5m)
-- [One Small UX Fix That Actually Helps](https://dev.to/sholajegede/one-small-ux-fix-that-actually-helps-5551)
-- [Apple’s AI Power Move: Why AKI “Answers” Might Be Bigger Than ChatGPT](https://dev.to/alifar/apples-ai-power-move-why-aki-answers-might-be-bigger-than-chatgpt-d80)
+- [What is LLM Tokenization and Why Is It Important?](https://dev.to/uhasker/what-is-llm-tokenization-and-why-is-it-important-40jp)
+- [Day 5 of #30DaysOfCode](https://dev.to/justacoder_0x/day-5-of-30daysofcode-1m6j)
+- [Unlocking the Secrets of Collaborative Coding: Insights from a Reddit Discussion](https://dev.to/mikeover/unlocking-the-secrets-of-collaborative-coding-insights-from-a-reddit-discussion-4kom)
+- [I Tried NixOS for a Week So You Don&#39;t Have To](https://dev.to/branden-hernandez/i-tried-nixos-for-a-week-so-you-dont-have-to-10gm)
 <!-- BLOG-POST-LIST:END -->
 
 
