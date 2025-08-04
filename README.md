@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unboxing the Black Box: Understanding AI with Reverse Mechanistic Localization](https://dev.to/rijultp/unboxing-the-black-box-understanding-ai-with-reverse-mechanistic-localization-ac9)
-- [20 Questions to Ask an LLM About Your Codebase &lpar;That You Probably Won&#39;t Like the Answers To&rpar;](https://dev.to/sebs/20-questions-to-ask-an-llm-about-your-codebase-that-you-probably-wont-like-the-answers-to-2h9k)
-- [🎨 A Arte e Ciência da Arquitetura Front-end](https://dev.to/wanderleycabral-dev/a-arte-e-ciencia-da-arquitetura-front-end-419p)
-- [🍯 Riverpod Sugar: From Verbose to Revolutionary - How I Cut Flutter State Management Code by 80%](https://dev.to/mukhbit/riverpod-sugar-from-verbose-to-revolutionary-how-i-cut-flutter-state-management-code-by-80-41f2)
+- [IGN: Fatal Fury: City of the Wolves - Official Fatal Fury x Street Fighter Animated Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-fatal-fury-x-street-fighter-animated-trailer-jc)
+- [IGN: HUNTERxHUNTER NENxIMPACT - Official Season Pass Trailer](https://dev.to/gg_news/ign-hunterxhunter-nenximpact-official-season-pass-trailer-2hdh)
+- [IGN: Fatal Fury: City of the Wolves - Official Ken Character Breakdown](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-ken-character-breakdown-35d6)
+- [IGN: Dynasty Warriors - Official 25th Anniversary Trailer](https://dev.to/gg_news/ign-dynasty-warriors-official-25th-anniversary-trailer-43lh)
 <!-- BLOG-POST-LIST:END -->
 
 
