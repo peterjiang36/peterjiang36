@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [quies](https://dev.to/armaankhan8270/quies-47el)
-- [How to Create a virtual machine In azure](https://dev.to/ajayid10/how-to-create-a-virtual-machine-in-azure-1ibh)
-- [What is an Oracle in Blockchain?](https://dev.to/metana/what-is-an-oracle-in-blockchain-1kd4)
-- [Building a Real-Time Movie Sync App with React, Firebase, and WebSockets](https://dev.to/bytesize/building-a-real-time-movie-sync-app-with-react-firebase-and-websockets-45dj)
+- [We&#39;re removing the new sidebar from the compose flow to preserve the minimalism there.](https://dev.to/ben/were-removing-the-new-sidebar-from-the-compose-flow-to-preserve-the-minimalism-there-4ja5)
+- [Build a Signal Clone with React Native and Stream - Part One](https://dev.to/tropicolx/build-a-signal-clone-with-react-native-and-stream-part-one-5a47)
+- [Creating Log-Based Alerts with Grafana, Loki, and Promtail](https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo)
+- [[Boost]](https://dev.to/ben/-11g9)
 <!-- BLOG-POST-LIST:END -->
 
 
