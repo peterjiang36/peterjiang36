@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
-- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
-- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
-- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
+- [How to Choose a Great Tech Hire: Beyond Algorithm Tests and Whiteboard Coding](https://dev.to/victoria/how-to-choose-a-great-tech-hire-beyond-algorithm-tests-and-whiteboard-coding-4mk9)
+- [Introduction To Selenium Software Testing](https://dev.to/shubhra_srivastava_2612f1/introduction-to-selenium-software-testing-526m)
+- [🚀 My Journey to Passing the AWS Solutions Architect Associate Exam](https://dev.to/aws-builders/my-journey-to-passing-the-aws-solutions-architect-associate-exam-1588)
+- [KEXP: Suzzallo - Constellations &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-constellations-live-on-kexp-10ai)
 <!-- BLOG-POST-LIST:END -->
 
 
