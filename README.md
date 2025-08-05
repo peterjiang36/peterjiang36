@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.1 Is Here And What It Means for AI Development](https://dev.to/alifar/claude-opus-41-is-here-what-it-means-for-ai-development-40da)
-- [Onda de Palavras com C++ e SFML](https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3)
-- [Weekly update #3](https://dev.to/abytebybyte/weekly-update-3-5c5d)
-- [Securing a VPS: Essential Hardening Steps for Web Developers &lpar;Part 1&rpar;](https://dev.to/tomas223/securing-a-vps-essential-hardening-steps-for-web-developers-part-1-242j)
+- [What&#39;s New in C# 14: User-Defined Compound Assignments](https://dev.to/ivankahl/whats-new-in-c-14-user-defined-compound-assignments-5eb5)
+- [How I Built an Offline AI-Powered NPC System with Godot and Gemma 3n](https://dev.to/code-forge-temple/how-i-built-an-offline-ai-powered-npc-system-with-godot-and-gemma-3n-3n8g)
+- [How My Approach to Product Has Changed &lpar;and Why I No Longer Start in Figma&rpar;](https://dev.to/supeergabs/how-my-approach-to-product-has-changed-and-why-i-no-longer-start-in-figma-15f8)
+- [How We’re Building a Social Media Empire with Rails and Sidekiq](https://dev.to/shahershamroukh/how-were-building-a-social-media-empire-with-rails-and-sidekiq-5p0)
 <!-- BLOG-POST-LIST:END -->
 
 
