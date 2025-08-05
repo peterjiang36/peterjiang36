@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Bref Lambda Layers Terraform module](https://dev.to/aws-builders/introducing-bref-lambda-layers-terraform-module-1n1f)
-- [How I Finally Cracked the Code on Finding Side Hustle Ideas &lpar;Spoiler: I Was Doing It All Wrong&rpar;](https://dev.to/freeourdays/how-i-finally-cracked-the-code-on-finding-side-hustle-ideas-spoiler-i-was-doing-it-all-wrong-4e62)
-- [Setting Up EMR with Iceberg support and Integration with DBT Core](https://dev.to/ankursri/setting-up-emr-with-iceberg-support-and-integration-with-dbt-core-180i)
-- [Understanding Image APIs: What are They All About?](https://dev.to/giladmaayan/understanding-image-apis-what-are-they-all-about-4fp6)
+- [KEXP: Suzzallo - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-full-performance-live-on-kexp-1jgh)
+- [No Laying Up Podcast: The State of Men&#39;s Pro Golf with Josh Carpenter | NLU Pod, Ep 1052](https://dev.to/youtube_golf/no-laying-up-podcast-the-state-of-mens-pro-golf-with-josh-carpenter-nlu-pod-ep-1052-2g8h)
+- [Rick Shiels Golf: Rick Shiels Vs GM Golf &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-rick-shiels-vs-gm-golf-stroke-play-o4)
+- [IGN: Beat Brush - Official Announcement Trailer](https://dev.to/gg_news/ign-beat-brush-official-announcement-trailer-4h5c)
 <!-- BLOG-POST-LIST:END -->
 
 
