@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/paulo_meraki_a28ed4839662/untitled-122e)
-- [Title: Understanding LayerNorm and RMS Norm in Transformer Models](https://dev.to/yagyaraj_sharma_6cd410179/title-understanding-layernorm-and-rms-norm-in-transformer-models-3ahl)
-- [How I Built a Browser-Based Retro Emulator Platform &lpar;No Downloads, No Logins&rpar; — The Moboretro Approach](https://dev.to/game_bros_aba4298ebcecbae2/how-i-built-a-browser-based-retro-emulator-platform-no-downloads-no-logins-the-moboretro-53ff)
-- [How AI Revolutionizes Social Media Tactics](https://dev.to/sebastian_reid999/how-ai-revolutionizes-social-media-tactics-1iic)
+- [LLMs are the End of Serverless](https://dev.to/code42cate/llms-are-the-end-of-serverless-48ea)
+- [Improve LCP in Elementor: Defer YouTube Background Videos with a Free Plugin](https://dev.to/davidre9/improve-lcp-in-elementor-defer-youtube-background-videos-with-a-free-plugin-4o87)
+- [AI code review panel in Gitlab Merge requests chrome extension](https://dev.to/jay_elsheikh_59b14ad67922/ai-code-review-panel-in-gitlab-merge-requests-chrome-extension-1hke)
+- [Understanding Decision Trees](https://dev.to/dev_patel_35864ca1db6093c/understanding-decision-trees-5l7)
 <!-- BLOG-POST-LIST:END -->
 
 
