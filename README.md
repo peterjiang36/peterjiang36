@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
-- [Coding Agents are here: Is your team ready for AI devs?](https://dev.to/leading-edje/coding-agents-are-here-is-your-team-ready-for-ai-devs-3dk2)
-- [Exception Generation is Pure Evil](https://dev.to/m0n0x41d/exception-generation-is-pure-evil-5bda)
-- [Auto-Dismiss Toast Notification UI &lpar;HTML/CSS/JS&rpar;](https://dev.to/musa379/auto-dismiss-toast-notification-ui-htmlcssjs-453n)
+- [GameSpot: Ninja Gaiden: Ragebound Review](https://dev.to/gg_news/gamespot-ninja-gaiden-ragebound-review-ega)
+- [IGN: Rental Family - Official Trailer &lpar;2025&rpar; Brendan Fraser, Takehiro Hira, Mari Yamamoto](https://dev.to/gg_news/ign-rental-family-official-trailer-2025-brendan-fraser-takehiro-hira-mari-yamamoto-147o)
+- [IGN: Nicktoons &amp; The Dice of Destiny - Official Danny Phantom Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-danny-phantom-reveal-trailer-1h4k)
+- [IGN: Stormgate Review](https://dev.to/gg_news/ign-stormgate-review-53ko)
 <!-- BLOG-POST-LIST:END -->
 
 
