@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are the End of Serverless](https://dev.to/code42cate/llms-are-the-end-of-serverless-48ea)
-- [Improve LCP in Elementor: Defer YouTube Background Videos with a Free Plugin](https://dev.to/davidre9/improve-lcp-in-elementor-defer-youtube-background-videos-with-a-free-plugin-4o87)
-- [AI code review panel in Gitlab Merge requests chrome extension](https://dev.to/jay_elsheikh_59b14ad67922/ai-code-review-panel-in-gitlab-merge-requests-chrome-extension-1hke)
-- [Understanding Decision Trees](https://dev.to/dev_patel_35864ca1db6093c/understanding-decision-trees-5l7)
+- [15 Rendering patterns for Web Application](https://dev.to/nozibul_islam_113b1d5334f/15-rendering-patterns-for-web-application-1jbk)
+- [3D Printing Nerd: Birthday Stream - WIN A CREALITY K2 PRO!](https://dev.to/maker_youtube/3d-printing-nerd-birthday-stream-win-a-creality-k2-pro-jf6)
+- [Jesse Showalter: IPO&#39;s, AI Magic, and the State of Design](https://dev.to/design_youtube/jesse-showalter-ipos-ai-magic-and-the-state-of-design-1pf8)
+- [IGN: The 40-Year-Old Virgin - Official 20th Anniversary Trailer](https://dev.to/gg_news/ign-the-40-year-old-virgin-official-20th-anniversary-trailer-5h6k)
 <!-- BLOG-POST-LIST:END -->
 
 
