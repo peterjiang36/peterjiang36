@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Fundamentals: Scikit-Learn, Model Selection, Pandas Bfill &amp; Kernel Ridge Regression](https://dev.to/labex/machine-learning-fundamentals-scikit-learn-model-selection-pandas-bfill-kernel-ridge-regression-54le)
-- [Finding My Way in Computer Science](https://dev.to/paritoshparashar/finding-my-way-in-computer-science-a-public-journey-begins-hpm)
-- [Day 56: When Your Nap Has Main Character Energy](https://dev.to/casperday11/day-56-when-your-nap-has-main-character-energy-26ep)
-- [Galileo Unleashed: How NASA&#39;s Open-Source AI is Transforming Earth Observation](https://dev.to/jay_all_day/galileo-unleashed-how-nasas-open-source-ai-is-transforming-earth-observation-1hgm)
+- [I need some help with my Flutter App](https://dev.to/raky_/i-need-some-help-with-my-flutter-app-12k2)
+- [IGN: Fortnite x Power Rangers - Official Live Action Trailer](https://dev.to/gg_news/ign-fortnite-x-power-rangers-official-live-action-trailer-5fb8)
+- [IGN: Mobile Suit Gundam Battle Operation 2 - Official Crossbone Gundam X-2 Kai Trailer](https://dev.to/gg_news/ign-mobile-suit-gundam-battle-operation-2-official-crossbone-gundam-x-2-kai-trailer-56jh)
+- [IGN: Teenage Mutant Ninja Turtles 35th Anniversary Re-Release - &quot;Find Them&quot; Theatrical Run Trailer](https://dev.to/gg_news/ign-teenage-mutant-ninja-turtles-35th-anniversary-re-release-find-them-theatrical-run-trailer-3mko)
 <!-- BLOG-POST-LIST:END -->
 
 
