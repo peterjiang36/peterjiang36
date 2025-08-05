@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose a Great Tech Hire: Beyond Algorithm Tests and Whiteboard Coding](https://dev.to/victoria/how-to-choose-a-great-tech-hire-beyond-algorithm-tests-and-whiteboard-coding-4mk9)
-- [Introduction To Selenium Software Testing](https://dev.to/shubhra_srivastava_2612f1/introduction-to-selenium-software-testing-526m)
-- [🚀 My Journey to Passing the AWS Solutions Architect Associate Exam](https://dev.to/aws-builders/my-journey-to-passing-the-aws-solutions-architect-associate-exam-1588)
-- [KEXP: Suzzallo - Constellations &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-constellations-live-on-kexp-10ai)
+- [Introduction to System Design for Interviews](https://dev.to/ravi_kantshukla_c7e639d4/introduction-to-system-design-for-interviews-3d3k)
+- [My 2-Year-Old Shipped His First Game. I&#39;m Not Teaching Him to Code.](https://dev.to/meimakes/my-2-year-old-shipped-his-first-game-im-not-teaching-him-to-code-19bm)
+- [How Game Developer King Conquered Casual Gaming](https://dev.to/techverdi/how-game-developer-king-conquered-casual-gaming-141f)
+- [Introducing TransBase Social.](https://dev.to/prestigeflight/introducing-transbase-social-3heo)
 <!-- BLOG-POST-LIST:END -->
 
 
