@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to System Design for Interviews](https://dev.to/ravi_kantshukla_c7e639d4/introduction-to-system-design-for-interviews-3d3k)
-- [My 2-Year-Old Shipped His First Game. I&#39;m Not Teaching Him to Code.](https://dev.to/meimakes/my-2-year-old-shipped-his-first-game-im-not-teaching-him-to-code-19bm)
-- [How Game Developer King Conquered Casual Gaming](https://dev.to/techverdi/how-game-developer-king-conquered-casual-gaming-141f)
-- [Introducing TransBase Social.](https://dev.to/prestigeflight/introducing-transbase-social-3heo)
+- [🚀 Deploy and Manage Policies Across Multiple Clusters with RHACM – No Code Needed!](https://dev.to/sindhuja_ns_1e491ce1088d/deploy-and-manage-policies-across-multiple-clusters-with-rhacm-no-code-needed-2hpg)
+- [IGN: Alien: Earth | Full Season, Non-Spoiler Review](https://dev.to/gg_news/ign-alien-earth-full-season-non-spoiler-review-51lj)
+- [IGN: The First Descendant - Official Nell Character Reveal Trailer](https://dev.to/gg_news/ign-the-first-descendant-official-nell-character-reveal-trailer-19im)
+- [Kimi K2 vs Grok 4: Which AI Model Codes Better?](https://dev.to/forgecode/kimi-k2-vs-grok-4-which-ai-model-codes-better-31nb)
 <!-- BLOG-POST-LIST:END -->
 
 
