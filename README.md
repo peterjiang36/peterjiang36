@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 DSA: The 8-Week Grind – Join Me in This Challenge! &lpar;Week 1, Day 1 Recap&rpar;](https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o)
-- [IT Asset Allocation Models Explained](https://dev.to/teresa_tran/it-asset-allocation-models-explained-3b0l)
-- [Ringer Movies: ‘RoboCop’ &lpar;1987&rpar; With Bill Simmons and Kyle Brandt | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-robocop-1987-with-bill-simmons-and-kyle-brandt-the-rewatchables-4nlb)
-- [Aurora DSQL: Cómo controlar el tiempo](https://dev.to/aws-espanol/aurora-dsql-como-controlar-el-tiempo-cbb)
+- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
+- [CitizenssApp: A Platform for Digital Rights and Empowerment Through Table-First Software Design](https://dev.to/bhuvaness/citizenssapp-a-platform-for-digital-rights-and-empowerment-through-table-first-software-design-c88)
+- [Prompts](https://dev.to/ayoubzulfiqar/prompts-pi3)
+- [Optical Bonding for Embedded Displays: Enhanced Visibility and Durability](https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571)
 <!-- BLOG-POST-LIST:END -->
 
 
