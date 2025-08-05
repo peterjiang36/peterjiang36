@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python LeetCode 70: Climbing Stairs - &lpar;Easy&rpar;](https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb)
-- [C# LeetCode 69: Sqrt&lpar;x&rpar;](https://dev.to/grantdotdev/c-leetcode-69-sqrtx-e8e)
-- [Hardening Básico de Servidor Ubuntu/Debian: Acesso SSH e Firewall](https://dev.to/joaoprd/hardening-basico-de-servidor-ubuntudebian-acesso-ssh-e-firewall-5lm)
-- [Return a response or write to the response?](https://dev.to/livioribeiro/return-a-response-or-write-to-the-response-4n7p)
+- [Untitled](https://dev.to/paulo_meraki_a28ed4839662/untitled-122e)
+- [Title: Understanding LayerNorm and RMS Norm in Transformer Models](https://dev.to/yagyaraj_sharma_6cd410179/title-understanding-layernorm-and-rms-norm-in-transformer-models-3ahl)
+- [How I Built a Browser-Based Retro Emulator Platform &lpar;No Downloads, No Logins&rpar; — The Moboretro Approach](https://dev.to/game_bros_aba4298ebcecbae2/how-i-built-a-browser-based-retro-emulator-platform-no-downloads-no-logins-the-moboretro-53ff)
+- [How AI Revolutionizes Social Media Tactics](https://dev.to/sebastian_reid999/how-ai-revolutionizes-social-media-tactics-1iic)
 <!-- BLOG-POST-LIST:END -->
 
 
