@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Polygon RPC: Fast, Scalable Blockchain Infrastructure for Web3 Development](https://dev.to/leo_liu_8cc5a35cb84611923/unlocking-the-power-of-polygon-rpc-fast-scalable-blockchain-infrastructure-for-web3-development-ld5)
-- [[AWS] Get BackLog issues via the MCP tool and have Kiro fix them [Kiro]](https://dev.to/aws-builders/aws-get-backlog-issues-via-the-mcp-tool-and-have-kiro-fix-them-kiro-59p7)
-- [S e r v i c e N o w: Oversimplification](https://dev.to/syncrofosatron/s-e-r-v-i-c-e-n-o-w-oversimplification-3ea8)
-- [Building a Powerful Geocoding Solution with OpenCage and Thunderforest Maps](https://dev.to/tsamaya/building-a-powerful-geocoding-solution-with-opencage-and-thunderforest-maps-2e1n)
+- [Common MVP UX Mistakes That Make Users Quit, and How to Avoid Them](https://dev.to/obceylan/common-mvp-ux-mistakes-that-make-users-quit-and-how-to-avoid-them-3e6m)
+- [Common pitfalls in Java multithreading](https://dev.to/sharique_siddiqui_8242dad/common-pitfalls-in-java-multithreading-289j)
+- [🚀 MERN Stack: Everything You Need to Know](https://dev.to/hamidrazadev/mern-stack-everything-you-need-to-know-220m)
+- [Why Teamwork Is Important For Developers](https://dev.to/nhgjob/why-teamwork-is-important-for-developers-495o)
 <!-- BLOG-POST-LIST:END -->
 
 
