@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resources and Roadmap for Mastering Java as a Beginner](https://dev.to/sharique_siddiqui_8242dad/resources-and-roadmap-for-mastering-java-as-a-beginner-2gg6)
-- [qureus](https://dev.to/armaankhan8270/qureus-o2g)
-- [React for Web Development in 2025: Advantages, Use Cases, and Top Examples](https://dev.to/nencywilliams/react-for-web-development-in-2025-advantages-use-cases-and-top-examples-226o)
-- [Adaptive Contact Force Control of Multi-Body Systems via Hybrid Model Predictive Control and Reinforcement Learning](https://dev.to/freederia-research/adaptive-contact-force-control-of-multi-body-systems-via-hybrid-model-predictive-control-and-8kj)
+- [🚀 DSA: The 8-Week Grind – Join Me in This Challenge! &lpar;Week 1, Day 1 Recap&rpar;](https://dev.to/gouthique/dsa-the-8-week-grind-join-me-in-this-challenge-week-1-day-1-recap-k1o)
+- [IT Asset Allocation Models Explained](https://dev.to/teresa_tran/it-asset-allocation-models-explained-3b0l)
+- [Ringer Movies: ‘RoboCop’ &lpar;1987&rpar; With Bill Simmons and Kyle Brandt | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-robocop-1987-with-bill-simmons-and-kyle-brandt-the-rewatchables-4nlb)
+- [Aurora DSQL: Cómo controlar el tiempo](https://dev.to/aws-espanol/aurora-dsql-como-controlar-el-tiempo-cbb)
 <!-- BLOG-POST-LIST:END -->
 
 
