@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Actions and Services](https://dev.to/tegos/laravel-actions-and-services-360d)
-- [8 No-Code Tools to Build a CRM（Open Source &amp; SaaS Compared）](https://dev.to/nocobase/8-no-code-tools-to-build-a-crmopen-source-saas-compared-3eii)
-- [Leetcode - 210. Course Schedule II](https://dev.to/rakeshreddy512/leetcode-210-course-schedule-ii-1mcg)
-- [What’s the Most Underrated DevOps Skill You’ve Learned &lpar;and How Did You Learn It&rpar;?](https://dev.to/devopsdaily/whats-the-most-underrated-devops-skill-youve-learned-and-how-did-you-learn-it-5a7i)
+- [Unlocking the Power of Polygon RPC: Fast, Scalable Blockchain Infrastructure for Web3 Development](https://dev.to/leo_liu_8cc5a35cb84611923/unlocking-the-power-of-polygon-rpc-fast-scalable-blockchain-infrastructure-for-web3-development-ld5)
+- [[AWS] Get BackLog issues via the MCP tool and have Kiro fix them [Kiro]](https://dev.to/aws-builders/aws-get-backlog-issues-via-the-mcp-tool-and-have-kiro-fix-them-kiro-59p7)
+- [S e r v i c e N o w: Oversimplification](https://dev.to/syncrofosatron/s-e-r-v-i-c-e-n-o-w-oversimplification-3ea8)
+- [Building a Powerful Geocoding Solution with OpenCage and Thunderforest Maps](https://dev.to/tsamaya/building-a-powerful-geocoding-solution-with-opencage-and-thunderforest-maps-2e1n)
 <!-- BLOG-POST-LIST:END -->
 
 
