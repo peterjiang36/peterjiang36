@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Suzzallo - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-suzzallo-full-performance-live-on-kexp-1jgh)
-- [No Laying Up Podcast: The State of Men&#39;s Pro Golf with Josh Carpenter | NLU Pod, Ep 1052](https://dev.to/youtube_golf/no-laying-up-podcast-the-state-of-mens-pro-golf-with-josh-carpenter-nlu-pod-ep-1052-2g8h)
-- [Rick Shiels Golf: Rick Shiels Vs GM Golf &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-rick-shiels-vs-gm-golf-stroke-play-o4)
-- [IGN: Beat Brush - Official Announcement Trailer](https://dev.to/gg_news/ign-beat-brush-official-announcement-trailer-4h5c)
+- [Machine Learning Fundamentals: Scikit-Learn, Model Selection, Pandas Bfill &amp; Kernel Ridge Regression](https://dev.to/labex/machine-learning-fundamentals-scikit-learn-model-selection-pandas-bfill-kernel-ridge-regression-54le)
+- [Finding My Way in Computer Science](https://dev.to/paritoshparashar/finding-my-way-in-computer-science-a-public-journey-begins-hpm)
+- [Day 56: When Your Nap Has Main Character Energy](https://dev.to/casperday11/day-56-when-your-nap-has-main-character-energy-26ep)
+- [Galileo Unleashed: How NASA&#39;s Open-Source AI is Transforming Earth Observation](https://dev.to/jay_all_day/galileo-unleashed-how-nasas-open-source-ai-is-transforming-earth-observation-1hgm)
 <!-- BLOG-POST-LIST:END -->
 
 
