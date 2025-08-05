@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I deployed my first project for my devops portfolio: Minikube and Deployment](https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf)
-- [CitizenssApp: A Platform for Digital Rights and Empowerment Through Table-First Software Design](https://dev.to/bhuvaness/citizenssapp-a-platform-for-digital-rights-and-empowerment-through-table-first-software-design-c88)
-- [Prompts](https://dev.to/ayoubzulfiqar/prompts-pi3)
-- [Optical Bonding for Embedded Displays: Enhanced Visibility and Durability](https://dev.to/kevinzhang109/optical-bonding-for-embedded-displays-enhanced-visibility-and-durability-3571)
+- [Laravel Actions and Services](https://dev.to/tegos/laravel-actions-and-services-360d)
+- [8 No-Code Tools to Build a CRM（Open Source &amp; SaaS Compared）](https://dev.to/nocobase/8-no-code-tools-to-build-a-crmopen-source-saas-compared-3eii)
+- [Leetcode - 210. Course Schedule II](https://dev.to/rakeshreddy512/leetcode-210-course-schedule-ii-1mcg)
+- [What’s the Most Underrated DevOps Skill You’ve Learned &lpar;and How Did You Learn It&rpar;?](https://dev.to/devopsdaily/whats-the-most-underrated-devops-skill-youve-learned-and-how-did-you-learn-it-5a7i)
 <!-- BLOG-POST-LIST:END -->
 
 
