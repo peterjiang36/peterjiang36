@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I need some help with my Flutter App](https://dev.to/raky_/i-need-some-help-with-my-flutter-app-12k2)
-- [IGN: Fortnite x Power Rangers - Official Live Action Trailer](https://dev.to/gg_news/ign-fortnite-x-power-rangers-official-live-action-trailer-5fb8)
-- [IGN: Mobile Suit Gundam Battle Operation 2 - Official Crossbone Gundam X-2 Kai Trailer](https://dev.to/gg_news/ign-mobile-suit-gundam-battle-operation-2-official-crossbone-gundam-x-2-kai-trailer-56jh)
-- [IGN: Teenage Mutant Ninja Turtles 35th Anniversary Re-Release - &quot;Find Them&quot; Theatrical Run Trailer](https://dev.to/gg_news/ign-teenage-mutant-ninja-turtles-35th-anniversary-re-release-find-them-theatrical-run-trailer-3mko)
+- [Building NeuroStash - V](https://dev.to/devunderdog/building-neurostash-v-ad5)
+- [Coding Agents are here: Is your team ready for AI devs?](https://dev.to/leading-edje/coding-agents-are-here-is-your-team-ready-for-ai-devs-3dk2)
+- [Exception Generation is Pure Evil](https://dev.to/m0n0x41d/exception-generation-is-pure-evil-5bda)
+- [Auto-Dismiss Toast Notification UI &lpar;HTML/CSS/JS&rpar;](https://dev.to/musa379/auto-dismiss-toast-notification-ui-htmlcssjs-453n)
 <!-- BLOG-POST-LIST:END -->
 
 
