@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common MVP UX Mistakes That Make Users Quit, and How to Avoid Them](https://dev.to/obceylan/common-mvp-ux-mistakes-that-make-users-quit-and-how-to-avoid-them-3e6m)
-- [Common pitfalls in Java multithreading](https://dev.to/sharique_siddiqui_8242dad/common-pitfalls-in-java-multithreading-289j)
-- [🚀 MERN Stack: Everything You Need to Know](https://dev.to/hamidrazadev/mern-stack-everything-you-need-to-know-220m)
-- [Why Teamwork Is Important For Developers](https://dev.to/nhgjob/why-teamwork-is-important-for-developers-495o)
+- [Building REST APIs That Play Nice with Excel](https://dev.to/saudibytes/building-rest-apis-that-play-nice-with-excel-l3d)
+- [idnex4](https://dev.to/armaankhan8270/idnex4-2443)
+- [UTF-16 to UTF-8 in Javascript](https://dev.to/vincent_corbee/utf-16-to-utf-8-in-javascript-17j7)
+- [The Tradeoffs of Technical Ownership](https://dev.to/remejuan/the-tradeoffs-of-technical-ownership-47dc)
 <!-- BLOG-POST-LIST:END -->
 
 
