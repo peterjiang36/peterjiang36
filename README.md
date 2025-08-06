@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Information Gain: Choosing the Right Questions](https://dev.to/dev_patel_35864ca1db6093c/understanding-information-gain-choosing-the-right-questions-1mj4)
-- [Java Quickstart Guide](https://dev.to/zrm9901/java-quickstart-guide-47nb)
-- [Unlocking the Power of Collaboration: How to Foster Better Team Dynamics in Software Development](https://dev.to/mikeover/unlocking-the-power-of-collaboration-how-to-foster-better-team-dynamics-in-software-development-46pl)
-- [OpenAI GPT-OSS Complete Guide 2025: First Reasoning Model That Runs on Laptops](https://dev.to/czmilo/openai-gpt-oss-complete-guide-2025-first-reasoning-model-that-runs-on-laptops-285f)
+- [Primeros pasos con AJAX: XMLHttpRequest](https://dev.to/ulisesafcdev/primeros-pasos-con-ajax-xmlhttprequest-1j7)
+- [My Dev Agency Website in Progress – Would Love Your Feedback!](https://dev.to/akram-hani/my-dev-agency-website-in-progress-would-love-your-feedback-2icj)
+- [Alec Steele: Turning a Picture into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-into-a-damascus-pattern-1m3o)
+- [BrandSpark AI](https://dev.to/ik_8a78062fd65be769dd835/brandspark-ai-3pb0)
 <!-- BLOG-POST-LIST:END -->
 
 
