@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: The Bouncing Souls - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-full-performance-live-on-kexp-2g6b)
-- [Tech With Tim: Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://dev.to/vibe_youtube/tech-with-tim-learn-pandas-in-30-minutes-python-pandas-tutorial-25df)
-- [Test post with upgraded context note](https://dev.to/ben/test-post-with-upgraded-context-note-17k4)
-- [GameSpot: I Was Wrong About Elden Ring: Nightreign...](https://dev.to/gg_news/gamespot-i-was-wrong-about-elden-ring-nightreign-1f2)
+- [Most AI Agents Are Just Fancy If Statements and That’s Fine](https://dev.to/vadym_info_polus/most-ai-agents-are-just-fancy-if-statements-and-thats-fine-29jo)
+- [Build an analytics agent to analyze your Ghost blog traffic with the Vercel AI SDK and Tinybird](https://dev.to/tinybirdco/build-an-analytics-agent-to-analyze-your-ghost-blog-traffic-with-the-vercel-ai-sdk-and-tinybird-38ni)
+- [JWT Security Best Practices](https://dev.to/lovestaco/jwt-security-best-practices-3g94)
+- [Data Analytics Week 2 Notes](https://dev.to/raja_sekaran_a1319259e6f1/data-analytics-week-2-notes-mbj)
 <!-- BLOG-POST-LIST:END -->
 
 
