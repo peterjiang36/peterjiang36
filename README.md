@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Host N8N in heroku and now I want to update n8n who I update n8n in heroku without losing data](https://dev.to/member_b807d9bf/i-host-n8n-in-heroku-and-now-i-want-to-update-n8n-who-i-update-n8n-in-heroku-without-losing-data-mkj)
-- [Why Home Elevators Aren’t Just For Mansions Anymore](https://dev.to/eurobuild_construction/why-home-elevators-arent-just-for-mansions-anymore-3fjf)
-- [How to add auth-flow between your webapp and extension](https://dev.to/agent_69/how-to-add-auth-flow-between-your-webapp-and-extension-242p)
-- [Wazuh 4.12 Slack Alert Integration](https://dev.to/0xdolan/wazuh-412-slack-alert-integration-3fm9)
+- [Do You Know The LATERAL JOIN In SQL?](https://dev.to/mayallo/do-you-know-the-lateral-join-in-sql-489l)
+- [What Is a Soft Launch? A Beginner’s Guide to Testing New Ideas](https://dev.to/uisaleh/what-is-a-soft-launch-a-beginners-guide-to-testing-new-ideas-5da2)
+- [📱 Optimizing React Apps for Mobile Performance: A Practical Guide](https://dev.to/aamna_majid/optimizing-react-apps-for-mobile-performance-a-practical-guide-1dco)
+- [Refactoring Complex Conditional Logic with State Machines: Online Survey Form Improvement Case Study](https://dev.to/0rok/refactoring-complex-conditional-logic-with-state-machines-online-survey-form-improvement-case-study-36lp)
 <!-- BLOG-POST-LIST:END -->
 
 
