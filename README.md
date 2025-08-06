@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choropleth Maps in R , still hold the importance check them out today!!](https://dev.to/dipti_m_2e7ba36c478d1a48a/choropleth-maps-in-r-still-hold-the-importance-check-them-out-today-28id)
-- [Gmail API developer intro: spotting chatty threads](https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp)
-- [[ForgeCode x OpenAI&#39;s Open Model]: Our First Impression with OpenAI’s GPT‑OSS Models](https://dev.to/forgecode/forgecode-x-openais-open-model-our-first-impression-with-openais-gpt-oss-models-48d2)
-- [Integrating a Payment Gateway in India: A 2025 Developer’s Guide](https://dev.to/shridhar_itolikar_3371c61/integrating-a-payment-gateway-in-india-a-2025-developers-guide-47ik)
+- [Exploring `localhost:8080`: The Developer’s Gateway to the Web](https://dev.to/lightningdev123/exploring-localhost8080-the-developers-gateway-to-the-web-4f45)
+- [CouchDB Data Modelling: Prefer Smaller Documents](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-documents-4585)
+- [Why I Quit Overengineering: 3 Simple Wins That Skyrocketed My Productivity](https://dev.to/paulthedev/why-i-quit-overengineering-3-simple-wins-that-skyrocketed-my-productivity-b68)
+- [How Enterprises Can Achieve AWS Cloud Security](https://dev.to/oodlesplatform/how-enterprises-can-achieve-aws-cloud-security-34ff)
 <!-- BLOG-POST-LIST:END -->
 
 
