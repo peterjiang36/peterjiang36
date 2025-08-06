@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript - Operators](https://dev.to/dharshinieswaran/javascript-operators-fc1)
-- [Best Practices in Software Development to Elevate Code Quality](https://dev.to/nencywilliams/best-practices-in-software-development-to-elevate-code-quality-1361)
-- [Functional Strategy Pattern: Unlocking Clean Code with Higher-Order Functions and Callbacks](https://dev.to/adityabhuyan/functional-strategy-pattern-unlocking-clean-code-with-higher-order-functions-and-callbacks-46ha)
-- [Top PowerBuilder Alternatives in 2025](https://dev.to/flynnjones/top-powerbuilder-alternatives-in-2025-5ah5)
+- [I Host N8N in heroku and now I want to update n8n who I update n8n in heroku without losing data](https://dev.to/member_b807d9bf/i-host-n8n-in-heroku-and-now-i-want-to-update-n8n-who-i-update-n8n-in-heroku-without-losing-data-mkj)
+- [Why Home Elevators Aren’t Just For Mansions Anymore](https://dev.to/eurobuild_construction/why-home-elevators-arent-just-for-mansions-anymore-3fjf)
+- [How to add auth-flow between your webapp and extension](https://dev.to/agent_69/how-to-add-auth-flow-between-your-webapp-and-extension-242p)
+- [Wazuh 4.12 Slack Alert Integration](https://dev.to/0xdolan/wazuh-412-slack-alert-integration-3fm9)
 <!-- BLOG-POST-LIST:END -->
 
 
