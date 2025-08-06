@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
-- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
-- [📦 Understanding Props in React &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/himanayk/understanding-props-in-react-beginner-friendly-guide-1dbn)
-- [JavaScript Question Part 2](https://dev.to/shubhamkhatik/javascript-question-part-2-1km8)
+- [KEXP: The Bouncing Souls - United &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-united-live-on-kexp-5e44)
+- [KEXP: The Bouncing Souls - Sing Along Forever &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-sing-along-forever-live-on-kexp-5aka)
+- [KEXP: The Bouncing Souls - Hopeless Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-hopeless-romantic-live-on-kexp-12ce)
+- [KEXP: The Bouncing Souls - Lean On Sheena &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-lean-on-sheena-live-on-kexp-4e3m)
 <!-- BLOG-POST-LIST:END -->
 
 
