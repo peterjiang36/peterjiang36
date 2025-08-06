@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeros pasos con AJAX: XMLHttpRequest](https://dev.to/ulisesafcdev/primeros-pasos-con-ajax-xmlhttprequest-1j7)
-- [My Dev Agency Website in Progress – Would Love Your Feedback!](https://dev.to/akram-hani/my-dev-agency-website-in-progress-would-love-your-feedback-2icj)
-- [Alec Steele: Turning a Picture into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-into-a-damascus-pattern-1m3o)
-- [BrandSpark AI](https://dev.to/ik_8a78062fd65be769dd835/brandspark-ai-3pb0)
+- [The One Thing I Wish All Tech Recruiters Understood](https://dev.to/rhythmsaha/the-one-thing-i-wish-all-tech-recruiters-understood-2hj3)
+- [&quot;Build Your First Portfolio with React: A Beginner&#39;s Ultimate Guide&quot;](https://dev.to/abdul_fadiga_1f402d165920/build-your-first-portfolio-with-react-a-beginners-ultimate-guide-490f)
+- [🔍 Introducing AI-Powered Semantic Search in `react-data-grid-lite`](https://dev.to/sharmaricky/introducing-ai-powered-semantic-search-in-react-data-grid-lite-2jf8)
+- [Combine Blazor WebAssembly Client and Server Logs: Two-way log streaming with NLog and SignalR](https://dev.to/stewartcelani/combine-blazor-webassembly-client-and-server-logs-two-way-log-streaming-with-nlog-and-signalr-1bd9)
 <!-- BLOG-POST-LIST:END -->
 
 
