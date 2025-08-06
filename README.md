@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can We Be More Efficient as Developers](https://dev.to/hoseinsedaqat/how-can-we-be-more-efficient-as-developers-51he)
-- [Git &amp; GitHub Demystified: A Complete Beginner’s Guide with Real-World Use Cases](https://dev.to/theaccessibleaihub/git-github-demystified-a-complete-beginners-guide-with-real-world-use-cases-46d0)
-- [PHP Meets AI – Integrating OpenAI or Gemini APIs in Your PHP Stack](https://dev.to/patoliyainfotech/php-meets-ai-integrating-openai-or-gemini-apis-in-your-php-stack-59j3)
-- [Basic CI/CD Pipeline &lpar;For a Web App&rpar;](https://dev.to/jioke/basic-cicd-pipeline-for-a-web-app-2d5i)
+- [🧠 Day 26 of Learning DSA: Solved Two LeetCode Problems &lpar;Plus One &amp; Reverse String&rpar;](https://dev.to/abhishek-nexgen-dev/day-26-of-learning-dsa-solved-two-leetcode-problems-plus-one-reverse-string-5dpo)
+- [Implementing symbolic-statistical hybrids for operational AI reasoning in process plants](https://dev.to/danialgauhar/implementing-symbolic-statistical-hybrids-for-operational-ai-reasoning-in-process-plants-4dho)
+- [C# LeetCode 104: Maximum Depth of Binary Tree - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-104-maximum-depth-of-binary-tree-easy-40nd)
+- [JavaScript in 2 Day – Operators](https://dev.to/swetha_palani_1547914a082/javascript-in-2-day-operators-28ae)
 <!-- BLOG-POST-LIST:END -->
 
 
