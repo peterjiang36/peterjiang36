@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Meets Cloud: My Experience Passing Oracle’s AI Foundations Associate Exam](https://dev.to/kamaumbuguadev/ai-meets-cloud-my-experience-passing-oracles-ai-foundations-associate-exam-379)
-- [I Was Tired of Proving I Wasn’t Lying So I Built Devlog!](https://dev.to/ashutoshbhandari5/i-was-tired-of-proving-i-wasnt-lying-so-i-built-devlog-2hg5)
-- [PopOS - How to Update NVIDIA Driver](https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453)
-- [UV Mapping in Mini Micro](https://dev.to/joestrout/uv-mapping-in-mini-micro-2eoa)
+- [Taming Go’s Garbage Collector with Memory Pools: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/taming-gos-garbage-collector-with-memory-pools-a-practical-guide-3h29)
+- [Building Rich Domain Models: A Practical Guide to DDD in .NET](https://dev.to/cristofima/building-rich-domain-models-a-practical-guide-to-ddd-in-net-5952)
+- [Title: Character.AI: Enhancing Social Interaction with AI-Powered Chatbots](https://dev.to/yagyaraj_sharma_6cd410179/title-characterai-enhancing-social-interaction-with-ai-powered-chatbots-10ph)
+- [Resolving Terraform AWS Provider Conflicts with LocalStack](https://dev.to/aaron_rose_0787cc8b4775a0/resolving-terraform-aws-provider-conflicts-with-localstack-g4d)
 <!-- BLOG-POST-LIST:END -->
 
 
