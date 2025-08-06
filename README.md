@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Online Exam Portal](https://dev.to/siddharth2k14/online-exam-portal-2njo)
-- [Eatease Build in public](https://dev.to/vedanix/eatease-build-in-public-50a5)
-- [Discover the Power of Productivity with The Key Tools](https://dev.to/jesus_camacho_d5e25966c83/discover-the-power-of-productivity-with-the-key-tools-2jop)
-- [How to Build a Telegram Bot That Tracks Token Unlocks Using DropsTab API](https://dev.to/krisvarley/how-to-build-a-telegram-bot-that-tracks-token-unlocks-using-dropstab-api-21al)
+- [Automated Mineralogical Classification via Hyperspectral Data Fusion &amp; Bayesian Inference](https://dev.to/freederia-research/automated-mineralogical-classification-via-hyperspectral-data-fusion-bayesian-inference-3kob)
+- [How to Reset Your WSL Password: A Beginner&#39;s Guide to Getting Back Into Your Linux Environment](https://dev.to/analystgatitu/how-to-reset-your-wsl-password-a-beginners-guide-to-getting-back-into-your-linux-environment-269k)
+- [Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python](https://dev.to/om_shree_0709/using-mcp-with-jupyter-notebooks-agent-driven-workflow-in-python-1d4f)
+- [LocalStorage vs SessionStorage vs Cookies: A Complete Guide 🗄️](https://dev.to/hmpljs/localstorage-vs-sessionstorage-vs-cookies-a-complete-guide-3m6d)
 <!-- BLOG-POST-LIST:END -->
 
 
