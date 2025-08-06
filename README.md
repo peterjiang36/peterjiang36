@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
-- [IGN: Eden - Official Trailer &lpar;2025&rpar; Jude Law, Ana de Armas, Vanessa Kirby](https://dev.to/gg_news/ign-eden-official-trailer-2025-jude-law-ana-de-armas-vanessa-kirby-4bj)
-- [IGN: Ashes of the Singularity 2 - Official Announcement Trailer](https://dev.to/gg_news/ign-ashes-of-the-singularity-2-official-announcement-trailer-1e12)
-- [IGN: One Punch Man Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-one-punch-man-season-3-official-trailer-english-subtitles-1p11)
+- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
+- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
+- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
+- [The AI Discovery Surge of 2025: SEO Rewritten](https://dev.to/kashif-mukhtar/the-ai-discovery-surge-of-2025-seo-rewritten-28ph)
 <!-- BLOG-POST-LIST:END -->
 
 
