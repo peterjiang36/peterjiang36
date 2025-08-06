@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dirty bit in NTFS](https://dev.to/abhijit105/dirty-bit-in-ntfs-dif)
-- [📝 Como Criar Documentação em .NET com TypeSpec](https://dev.to/daniloopinheiro/como-criar-documentacao-em-net-com-typespec-32io)
-- [New Member](https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a)
-- [Amazon Elastic VMware Service &lpar;EVS&rpar; is Now GA — Run VMware Cloud Foundation Natively in AWS](https://dev.to/aws-builders/amazon-elastic-vmware-service-evs-is-now-ga-run-vmware-cloud-foundation-natively-in-aws-3c8o)
+- [KEXP: The Bouncing Souls - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-full-performance-live-on-kexp-2g6b)
+- [Tech With Tim: Learn Pandas in 30 Minutes - Python Pandas Tutorial](https://dev.to/vibe_youtube/tech-with-tim-learn-pandas-in-30-minutes-python-pandas-tutorial-25df)
+- [Test post with upgraded context note](https://dev.to/ben/test-post-with-upgraded-context-note-17k4)
+- [GameSpot: I Was Wrong About Elden Ring: Nightreign...](https://dev.to/gg_news/gamespot-i-was-wrong-about-elden-ring-nightreign-1f2)
 <!-- BLOG-POST-LIST:END -->
 
 
