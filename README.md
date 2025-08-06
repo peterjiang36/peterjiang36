@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring `localhost:8080`: The Developer’s Gateway to the Web](https://dev.to/lightningdev123/exploring-localhost8080-the-developers-gateway-to-the-web-4f45)
-- [CouchDB Data Modelling: Prefer Smaller Documents](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-documents-4585)
-- [Why I Quit Overengineering: 3 Simple Wins That Skyrocketed My Productivity](https://dev.to/paulthedev/why-i-quit-overengineering-3-simple-wins-that-skyrocketed-my-productivity-b68)
-- [How Enterprises Can Achieve AWS Cloud Security](https://dev.to/oodlesplatform/how-enterprises-can-achieve-aws-cloud-security-34ff)
+- [OctoberCMS Deploy Made Simple: Fast Setup for Any Environment](https://dev.to/serveravatar/octobercms-deploy-made-simple-fast-setup-for-any-environment-1449)
+- [Kubernetes Ingress Playlist – Part 6: Securing the Kubernetes Ingress Using Cert-Manager with HTTPS](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-6-securing-the-kubernetes-ingress-using-cert-manager-with-https-cde)
+- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch)
+- [Kubernetes Ingress Playlist – Part 5: Secure Your App with HTTPS using Self-Signed TLS Certificates](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-5-secure-your-app-with-https-using-self-signed-tls-certificates-5aa8)
 <!-- BLOG-POST-LIST:END -->
 
 
