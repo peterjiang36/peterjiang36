@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Go’s Garbage Collector with Memory Pools: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/taming-gos-garbage-collector-with-memory-pools-a-practical-guide-3h29)
-- [Building Rich Domain Models: A Practical Guide to DDD in .NET](https://dev.to/cristofima/building-rich-domain-models-a-practical-guide-to-ddd-in-net-5952)
-- [Title: Character.AI: Enhancing Social Interaction with AI-Powered Chatbots](https://dev.to/yagyaraj_sharma_6cd410179/title-characterai-enhancing-social-interaction-with-ai-powered-chatbots-10ph)
-- [Resolving Terraform AWS Provider Conflicts with LocalStack](https://dev.to/aaron_rose_0787cc8b4775a0/resolving-terraform-aws-provider-conflicts-with-localstack-g4d)
+- [Understanding Information Gain: Choosing the Right Questions](https://dev.to/dev_patel_35864ca1db6093c/understanding-information-gain-choosing-the-right-questions-1mj4)
+- [Java Quickstart Guide](https://dev.to/zrm9901/java-quickstart-guide-47nb)
+- [Unlocking the Power of Collaboration: How to Foster Better Team Dynamics in Software Development](https://dev.to/mikeover/unlocking-the-power-of-collaboration-how-to-foster-better-team-dynamics-in-software-development-46pl)
+- [OpenAI GPT-OSS Complete Guide 2025: First Reasoning Model That Runs on Laptops](https://dev.to/czmilo/openai-gpt-oss-complete-guide-2025-first-reasoning-model-that-runs-on-laptops-285f)
 <!-- BLOG-POST-LIST:END -->
 
 
