@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Know The LATERAL JOIN In SQL?](https://dev.to/mayallo/do-you-know-the-lateral-join-in-sql-489l)
-- [What Is a Soft Launch? A Beginner’s Guide to Testing New Ideas](https://dev.to/uisaleh/what-is-a-soft-launch-a-beginners-guide-to-testing-new-ideas-5da2)
-- [📱 Optimizing React Apps for Mobile Performance: A Practical Guide](https://dev.to/aamna_majid/optimizing-react-apps-for-mobile-performance-a-practical-guide-1dco)
-- [Refactoring Complex Conditional Logic with State Machines: Online Survey Form Improvement Case Study](https://dev.to/0rok/refactoring-complex-conditional-logic-with-state-machines-online-survey-form-improvement-case-study-36lp)
+- [Choropleth Maps in R , still hold the importance check them out today!!](https://dev.to/dipti_m_2e7ba36c478d1a48a/choropleth-maps-in-r-still-hold-the-importance-check-them-out-today-28id)
+- [Gmail API developer intro: spotting chatty threads](https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp)
+- [[ForgeCode x OpenAI&#39;s Open Model]: Our First Impression with OpenAI’s GPT‑OSS Models](https://dev.to/forgecode/forgecode-x-openais-open-model-our-first-impression-with-openais-gpt-oss-models-48d2)
+- [Integrating a Payment Gateway in India: A 2025 Developer’s Guide](https://dev.to/shridhar_itolikar_3371c61/integrating-a-payment-gateway-in-india-a-2025-developers-guide-47ik)
 <!-- BLOG-POST-LIST:END -->
 
 
