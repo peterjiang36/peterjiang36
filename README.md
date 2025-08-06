@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: The Bouncing Souls - United &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-united-live-on-kexp-5e44)
-- [KEXP: The Bouncing Souls - Sing Along Forever &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-sing-along-forever-live-on-kexp-5aka)
-- [KEXP: The Bouncing Souls - Hopeless Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-hopeless-romantic-live-on-kexp-12ce)
-- [KEXP: The Bouncing Souls - Lean On Sheena &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-bouncing-souls-lean-on-sheena-live-on-kexp-4e3m)
+- [How Can We Be More Efficient as Developers](https://dev.to/hoseinsedaqat/how-can-we-be-more-efficient-as-developers-51he)
+- [Git &amp; GitHub Demystified: A Complete Beginner’s Guide with Real-World Use Cases](https://dev.to/theaccessibleaihub/git-github-demystified-a-complete-beginners-guide-with-real-world-use-cases-46d0)
+- [PHP Meets AI – Integrating OpenAI or Gemini APIs in Your PHP Stack](https://dev.to/patoliyainfotech/php-meets-ai-integrating-openai-or-gemini-apis-in-your-php-stack-59j3)
+- [Basic CI/CD Pipeline &lpar;For a Web App&rpar;](https://dev.to/jioke/basic-cicd-pipeline-for-a-web-app-2d5i)
 <!-- BLOG-POST-LIST:END -->
 
 
