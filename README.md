@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Coding: Why Developers Avoid Planning &lpar;and How AI Planning Tools Like Continue Fix It&rpar;](https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083)
-- [SuperOptiX Now Supports OpenAI&#39;s GPT-OSS Models!](https://dev.to/shashikant86/superoptix-now-supports-openais-gpt-oss-models-55i0)
-- [Introducing Fotoria.com – Professional Headshots Without the Studio](https://dev.to/mihai_be8b9db037a344368f6/introducing-fotoriacom-professional-headshots-without-the-studio-52g)
-- [Flask Web + DB on Kubernetes](https://dev.to/jioke/flask-web-db-on-kubernetes-23k2)
+- [Adobe Creative Cloud: From Studio Mess to Cinematic Magic 🎥 | Adobe Stock Workflow Hack](https://dev.to/design_youtube/adobe-creative-cloud-from-studio-mess-to-cinematic-magic-adobe-stock-workflow-hack-egg)
+- [IGN: Eden - Official Trailer &lpar;2025&rpar; Jude Law, Ana de Armas, Vanessa Kirby](https://dev.to/gg_news/ign-eden-official-trailer-2025-jude-law-ana-de-armas-vanessa-kirby-4bj)
+- [IGN: Ashes of the Singularity 2 - Official Announcement Trailer](https://dev.to/gg_news/ign-ashes-of-the-singularity-2-official-announcement-trailer-1e12)
+- [IGN: One Punch Man Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-one-punch-man-season-3-official-trailer-english-subtitles-1p11)
 <!-- BLOG-POST-LIST:END -->
 
 
