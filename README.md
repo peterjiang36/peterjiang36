@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OctoberCMS Deploy Made Simple: Fast Setup for Any Environment](https://dev.to/serveravatar/octobercms-deploy-made-simple-fast-setup-for-any-environment-1449)
-- [Kubernetes Ingress Playlist – Part 6: Securing the Kubernetes Ingress Using Cert-Manager with HTTPS](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-6-securing-the-kubernetes-ingress-using-cert-manager-with-https-cde)
-- [Virtual Meetings in 2025: A Developer&#39;s Guide to Remote Meeting Success](https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch)
-- [Kubernetes Ingress Playlist – Part 5: Secure Your App with HTTPS using Self-Signed TLS Certificates](https://dev.to/aws-builders/kubernetes-ingress-playlist-part-5-secure-your-app-with-https-using-self-signed-tls-certificates-5aa8)
+- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
+- [🚨 The UX Research Revolution Is Already Here](https://dev.to/adam/the-ux-research-revolution-is-already-here-ib0)
+- [📦 Understanding Props in React &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/himanayk/understanding-props-in-react-beginner-friendly-guide-1dbn)
+- [JavaScript Question Part 2](https://dev.to/shubhamkhatik/javascript-question-part-2-1km8)
 <!-- BLOG-POST-LIST:END -->
 
 
