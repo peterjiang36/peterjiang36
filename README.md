@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern ReactJS Tutorial](https://dev.to/rahucode/modern-reactjs-tutorial-28jm)
-- [How Cloud Storage Works Behind the Scenes &lpar;Object vs Block vs File - A Backend Developer&#39;s Guide&rpar;](https://dev.to/lyushher/how-cloud-storage-works-behind-the-scenes-object-vs-block-vs-file-a-backend-developers-guide-gh6)
-- [Iniciando Meus Estudos no Bootcamp Suzano pela DIO 🚀](https://dev.to/esthevamnascimento/iniciando-meus-estudos-no-bootcamp-suzano-pela-dio-4f6i)
-- [The AI Discovery Surge of 2025: SEO Rewritten](https://dev.to/kashif-mukhtar/the-ai-discovery-surge-of-2025-seo-rewritten-28ph)
+- [Online Exam Portal](https://dev.to/siddharth2k14/online-exam-portal-2njo)
+- [Eatease Build in public](https://dev.to/vedanix/eatease-build-in-public-50a5)
+- [Discover the Power of Productivity with The Key Tools](https://dev.to/jesus_camacho_d5e25966c83/discover-the-power-of-productivity-with-the-key-tools-2jop)
+- [How to Build a Telegram Bot That Tracks Token Unlocks Using DropsTab API](https://dev.to/krisvarley/how-to-build-a-telegram-bot-that-tracks-token-unlocks-using-dropstab-api-21al)
 <!-- BLOG-POST-LIST:END -->
 
 
