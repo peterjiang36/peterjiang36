@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Most AI Agents Are Just Fancy If Statements and That’s Fine](https://dev.to/vadym_info_polus/most-ai-agents-are-just-fancy-if-statements-and-thats-fine-29jo)
-- [Build an analytics agent to analyze your Ghost blog traffic with the Vercel AI SDK and Tinybird](https://dev.to/tinybirdco/build-an-analytics-agent-to-analyze-your-ghost-blog-traffic-with-the-vercel-ai-sdk-and-tinybird-38ni)
-- [JWT Security Best Practices](https://dev.to/lovestaco/jwt-security-best-practices-3g94)
-- [Data Analytics Week 2 Notes](https://dev.to/raja_sekaran_a1319259e6f1/data-analytics-week-2-notes-mbj)
+- [Adam Savage&#39;s Tested: The Men in Black Neuralyzer: What You Never Noticed!](https://dev.to/maker_youtube/adam-savages-tested-the-men-in-black-neuralyzer-what-you-never-noticed-16cc)
+- [Rick Beato: Our Record Label Told Us These Legendary Producers Sucked](https://dev.to/music_youtube/rick-beato-our-record-label-told-us-these-legendary-producers-sucked-442j)
+- [Jesse Showalter: Framer&#39;s Game-Changing On-Page Editor Revealed](https://dev.to/design_youtube/jesse-showalter-framers-game-changing-on-page-editor-revealed-58di)
+- [Peter Finch Golf: Can a YOUTUBER beat 6 PGA Tour Pros?](https://dev.to/youtube_golf/peter-finch-golf-can-a-youtuber-beat-6-pga-tour-pros-12hl)
 <!-- BLOG-POST-LIST:END -->
 
 
