@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Day 26 of Learning DSA: Solved Two LeetCode Problems &lpar;Plus One &amp; Reverse String&rpar;](https://dev.to/abhishek-nexgen-dev/day-26-of-learning-dsa-solved-two-leetcode-problems-plus-one-reverse-string-5dpo)
-- [Implementing symbolic-statistical hybrids for operational AI reasoning in process plants](https://dev.to/danialgauhar/implementing-symbolic-statistical-hybrids-for-operational-ai-reasoning-in-process-plants-4dho)
-- [C# LeetCode 104: Maximum Depth of Binary Tree - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-104-maximum-depth-of-binary-tree-easy-40nd)
-- [JavaScript in 2 Day – Operators](https://dev.to/swetha_palani_1547914a082/javascript-in-2-day-operators-28ae)
+- [Dirty bit in NTFS](https://dev.to/abhijit105/dirty-bit-in-ntfs-dif)
+- [📝 Como Criar Documentação em .NET com TypeSpec](https://dev.to/daniloopinheiro/como-criar-documentacao-em-net-com-typespec-32io)
+- [New Member](https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a)
+- [Amazon Elastic VMware Service &lpar;EVS&rpar; is Now GA — Run VMware Cloud Foundation Natively in AWS](https://dev.to/aws-builders/amazon-elastic-vmware-service-evs-is-now-ga-run-vmware-cloud-foundation-natively-in-aws-3c8o)
 <!-- BLOG-POST-LIST:END -->
 
 
