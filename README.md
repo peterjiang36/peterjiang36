@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Am I Getting Lazy with AI? A Software Engineer’s Honest Reflection](https://dev.to/luke_tong_d4f228249f32d86/am-i-getting-lazy-with-ai-a-software-engineers-honest-reflection-4c4f)
-- [From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future](https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn)
-- [Preventing Industrial Accidents Through Data: How Predictive Maintenance is Transforming Energy Terminals](https://dev.to/adarchowdhury/preventing-industrial-accidents-through-data-how-predictive-maintenance-is-transforming-energy-409n)
-- [No Laying Up Podcast: Chop Session with TC, Neil, and DJ | Trap Draw, Ep 353](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-tc-neil-and-dj-trap-draw-ep-353-5583)
+- [JavaScript - Operators](https://dev.to/dharshinieswaran/javascript-operators-fc1)
+- [Best Practices in Software Development to Elevate Code Quality](https://dev.to/nencywilliams/best-practices-in-software-development-to-elevate-code-quality-1361)
+- [Functional Strategy Pattern: Unlocking Clean Code with Higher-Order Functions and Callbacks](https://dev.to/adityabhuyan/functional-strategy-pattern-unlocking-clean-code-with-higher-order-functions-and-callbacks-46ha)
+- [Top PowerBuilder Alternatives in 2025](https://dev.to/flynnjones/top-powerbuilder-alternatives-in-2025-5ah5)
 <!-- BLOG-POST-LIST:END -->
 
 
