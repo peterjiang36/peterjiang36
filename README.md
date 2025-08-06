@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Thing I Wish All Tech Recruiters Understood](https://dev.to/rhythmsaha/the-one-thing-i-wish-all-tech-recruiters-understood-2hj3)
-- [&quot;Build Your First Portfolio with React: A Beginner&#39;s Ultimate Guide&quot;](https://dev.to/abdul_fadiga_1f402d165920/build-your-first-portfolio-with-react-a-beginners-ultimate-guide-490f)
-- [🔍 Introducing AI-Powered Semantic Search in `react-data-grid-lite`](https://dev.to/sharmaricky/introducing-ai-powered-semantic-search-in-react-data-grid-lite-2jf8)
-- [Combine Blazor WebAssembly Client and Server Logs: Two-way log streaming with NLog and SignalR](https://dev.to/stewartcelani/combine-blazor-webassembly-client-and-server-logs-two-way-log-streaming-with-nlog-and-signalr-1bd9)
+- [Am I Getting Lazy with AI? A Software Engineer’s Honest Reflection](https://dev.to/luke_tong_d4f228249f32d86/am-i-getting-lazy-with-ai-a-software-engineers-honest-reflection-4c4f)
+- [From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future](https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn)
+- [Preventing Industrial Accidents Through Data: How Predictive Maintenance is Transforming Energy Terminals](https://dev.to/adarchowdhury/preventing-industrial-accidents-through-data-how-predictive-maintenance-is-transforming-energy-409n)
+- [No Laying Up Podcast: Chop Session with TC, Neil, and DJ | Trap Draw, Ep 353](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-tc-neil-and-dj-trap-draw-ep-353-5583)
 <!-- BLOG-POST-LIST:END -->
 
 
