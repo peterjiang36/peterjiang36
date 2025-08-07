@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Tracing on the JVM](https://dev.to/nfrankel/opentelemetry-tracing-on-the-jvm-2p1d)
-- [Playwright openshift pods error](https://dev.to/murat_karaaa_0ff1df3c0c/playwright-openshift-pods-error-2hd7)
-- [2025’s API Management Winners: Which Tools Make the List?](https://dev.to/fallon_jimmy/2025s-api-management-winners-which-tools-make-the-list-81n)
-- [Understanding Tanstack Query: A Brief Guide](https://dev.to/muchai_joseph/understanding-tanstack-query-a-brief-guide-4dj5)
+- [NPR Music: MIKE: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mike-tiny-desk-concert-64k)
+- [Roof Repair in Bellingham, WA: Protecting Homes from the Elements](https://dev.to/abeniabara8912/roof-repair-in-bellingham-wa-protecting-homes-from-the-elements-5fg6)
+- [Safe Exploration via Constrained Bayesian Optimization with Multi-Objective Reward Shaping](https://dev.to/freederia-research/safe-exploration-via-constrained-bayesian-optimization-with-multi-objective-reward-shaping-48ph)
+- [Decoding the Futuristic Frontiers of Web Security: The Art of Session Management](https://dev.to/vjnvisakh/decoding-the-futuristic-frontiers-of-web-security-the-art-of-session-management-30jh)
 <!-- BLOG-POST-LIST:END -->
 
 
