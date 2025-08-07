@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
-- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
-- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
-- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
+- [📨 Mocking Emails in a Spring Boot App Using MailHog – How I Integrated Email Testing into N1netails](https://dev.to/shahidfoy/mocking-emails-in-a-spring-boot-app-using-mailhog-how-i-integrated-email-testing-into-n1netails-1p5)
+- [Congrats to the Algolia MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-mcp-challenge-winners-2ccd)
+- [🚀 Lessons learnt: What Being an SDET Taught Me About Test Automation](https://dev.to/suseelak/lessons-learnt-what-being-an-sdet-taught-me-about-test-automation-4fcd)
+- [1 RN Thing a Day – Day 3: What Is Babel](https://dev.to/ola_1313/1-rn-thing-a-day-day-3-what-is-babel-k0n)
 <!-- BLOG-POST-LIST:END -->
 
 
