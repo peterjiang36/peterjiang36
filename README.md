@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: MIKE: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mike-tiny-desk-concert-64k)
-- [Roof Repair in Bellingham, WA: Protecting Homes from the Elements](https://dev.to/abeniabara8912/roof-repair-in-bellingham-wa-protecting-homes-from-the-elements-5fg6)
-- [Safe Exploration via Constrained Bayesian Optimization with Multi-Objective Reward Shaping](https://dev.to/freederia-research/safe-exploration-via-constrained-bayesian-optimization-with-multi-objective-reward-shaping-48ph)
-- [Decoding the Futuristic Frontiers of Web Security: The Art of Session Management](https://dev.to/vjnvisakh/decoding-the-futuristic-frontiers-of-web-security-the-art-of-session-management-30jh)
+- [Taming Goroutines - Efficient Concurrency with a Worker Pool in Go](https://dev.to/gkoos/taming-goroutines-efficient-concurrency-with-a-worker-pool-in-go-jag)
+- [AI Agent Promised Me a Website in One Prompt. It Forgot to Mention the PTSD of Working on a Legacy Codebas](https://dev.to/biswa_rizal_10c60a4ef3c5b/ai-agent-promised-me-a-website-in-one-prompt-it-forgot-to-mention-the-ptsd-of-working-on-a-legacy-21g6)
+- [This is a great article on design systems.](https://dev.to/mustyy/this-is-a-great-article-on-design-systems-4343)
+- [How to Switch Between Node Versions Using NVM](https://dev.to/lucy1/how-to-switch-between-node-versions-using-nvm-5ac5)
 <!-- BLOG-POST-LIST:END -->
 
 
