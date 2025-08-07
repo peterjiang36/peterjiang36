@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Safe String Keys in TypeScript — No More Silent Failures](https://dev.to/aleksei_aleinikov/safe-string-keys-in-typescript-no-more-silent-failures-46ll)
-- [🚀 Scaling With Go in 2025: Concurrency That Works](https://dev.to/aleksei_aleinikov/scaling-with-go-in-2025-concurrency-that-works-536f)
-- [Soap Isn’t Just Soap: Choosing The Right Industrial Formula For Your Facility](https://dev.to/sunrise_industrialcleane/soap-isnt-just-soap-choosing-the-right-industrial-formula-for-your-facility-4mi6)
-- [LiftKit: React/Next.js UI Components with Golden Ratio Spacing](https://dev.to/jqueryscript/liftkit-reactnextjs-ui-components-with-golden-ratio-spacing-4llg)
+- [Aurora DSQL: How to Control Time](https://dev.to/aws-builders/aurora-dsql-how-to-control-time-1kh5)
+- [test1](https://dev.to/armaankhan8270/test1-3ep8)
+- [Understanding Constructors in Java: The House-Building Analogy](https://dev.to/sharique_siddiqui_8242dad/understanding-constructors-in-java-the-house-building-analogy-23oc)
+- [Adaptive Real-Time Current Limiting via Predictive Battery Degradation Modeling in Cordless Power Tools](https://dev.to/freederia-research/adaptive-real-time-current-limiting-via-predictive-battery-degradation-modeling-in-cordless-power-3933)
 <!-- BLOG-POST-LIST:END -->
 
 
