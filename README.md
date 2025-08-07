@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Farlight 84 - Official Relaunch Trailer](https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp)
-- [Access Private ec2 instances without Public IP using Instance Connect Endpoint](https://dev.to/ashraf-minhaj/access-private-ec2-instances-without-public-ip-using-instance-connect-endpoint-274k)
-- [[Boost]](https://dev.to/rajesh_patel/-f7)
-- [Mina Scheduler: Feature-rich React/shadcn/ui Calendar Component](https://dev.to/jqueryscript/mina-scheduler-feature-rich-reactshadcnui-calendar-component-21lb)
+- [🔐 Safe String Keys in TypeScript — No More Silent Failures](https://dev.to/aleksei_aleinikov/safe-string-keys-in-typescript-no-more-silent-failures-46ll)
+- [🚀 Scaling With Go in 2025: Concurrency That Works](https://dev.to/aleksei_aleinikov/scaling-with-go-in-2025-concurrency-that-works-536f)
+- [Soap Isn’t Just Soap: Choosing The Right Industrial Formula For Your Facility](https://dev.to/sunrise_industrialcleane/soap-isnt-just-soap-choosing-the-right-industrial-formula-for-your-facility-4mi6)
+- [LiftKit: React/Next.js UI Components with Golden Ratio Spacing](https://dev.to/jqueryscript/liftkit-reactnextjs-ui-components-with-golden-ratio-spacing-4llg)
 <!-- BLOG-POST-LIST:END -->
 
 
