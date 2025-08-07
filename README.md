@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase ⚡️ vs. Firebase 🔥: a Complete Comparison ⚔️ in 2025](https://dev.to/bytebase/supabase-vs-firebase-a-complete-comparison-in-2025-1k80)
-- [Peter Finch Golf: Peter Finch vs 6 PGA TOUR Pro Golfers!](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-6-pga-tour-pro-golfers-29mh)
-- [🚀🎯 Speak Your Logic, Get Hired: The AI-Powered DSA Prep Aid You Didn’t Know You Needed 🎙️🤖🔥](https://dev.to/divyasinghdev/speak-your-logic-get-hired-the-ai-powered-dsa-prep-aid-you-didnt-know-you-needed-3ioi)
-- [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
+- [OpenTelemetry Tracing on the JVM](https://dev.to/nfrankel/opentelemetry-tracing-on-the-jvm-2p1d)
+- [Playwright openshift pods error](https://dev.to/murat_karaaa_0ff1df3c0c/playwright-openshift-pods-error-2hd7)
+- [2025’s API Management Winners: Which Tools Make the List?](https://dev.to/fallon_jimmy/2025s-api-management-winners-which-tools-make-the-list-81n)
+- [Understanding Tanstack Query: A Brief Guide](https://dev.to/muchai_joseph/understanding-tanstack-query-a-brief-guide-4dj5)
 <!-- BLOG-POST-LIST:END -->
 
 
