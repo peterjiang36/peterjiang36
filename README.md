@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis vs RAG Speed Test: Sub-5ms Vector Search vs 500ms+ LLM Q&amp;A](https://dev.to/axrisi/redis-vs-rag-speed-test-sub-5ms-vector-search-vs-500ms-llm-qa-2hag)
-- [The Reality of Academic Publishing: Why the System Is Rigged](https://dev.to/owly/the-reality-of-academic-publishing-why-the-system-is-rigged-2e6)
-- [The Power of Accessibility Testing: Empowering Inclusivity in Digital Experiences](https://dev.to/devassure/the-power-of-accessibility-testing-empowering-inclusivity-in-digital-experiences-360g)
-- [A Simple Explanation: What Do 7B, 70B, and 175B Parameters in AI Models Mean?](https://dev.to/tube_you_16497efa22401797/a-simple-explanation-what-do-7b-70b-and-175b-parameters-in-ai-models-mean-17f)
+- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
+- [IGN: Mafia: The Old Country | The First 28 Minutes of Gameplay 4K 60FPS](https://dev.to/gg_news/ign-mafia-the-old-country-the-first-28-minutes-of-gameplay-4k-60fps-46ge)
+- [IGN: Disciples: Domination - Official Announcement Trailer](https://dev.to/gg_news/ign-disciples-domination-official-announcement-trailer-fmg)
+- [IGN: Wednesday Season 2: Part 1 Review](https://dev.to/gg_news/ign-wednesday-season-2-part-1-review-2m02)
 <!-- BLOG-POST-LIST:END -->
 
 
