@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Seth MacFarlane Applauds the ‘Incredible&#39; Timeliness of ‘South Park&#39; – Despite Years-Long Feud With Its Creators](https://dev.to/popcorn_tv/seth-macfarlane-applauds-the-incredible-timeliness-of-south-park-despite-years-long-feud-with-7ai)
-- [After Devil May Cry 5 outsells Monster Hunter Wilds in Capcom&#39;s latest financial quarter, publisher&#39;s share prices tumble](https://dev.to/gg_news/after-devil-may-cry-5-outsells-monster-hunter-wilds-in-capcoms-latest-financial-quarter-16ll)
-- [League Of Legends: Wild Rift Comes Under Fire For &quot;Diabolical&quot; AI Generated Cinematic](https://dev.to/gg_news/league-of-legends-wild-rift-comes-under-fire-for-diabolical-ai-generated-cinematic-498a)
-- [Yes, Reality Labs is still losing billions](https://dev.to/gg_news/yes-reality-labs-is-still-losing-billions-30cp)
+- [IGN: Is This Seat Taken? - Official Launch Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-is-this-seat-taken-official-launch-trailer-nintendo-indie-world-2025-4p)
+- [IGN: Traumatika Exclusive Trailer &lpar;2025&rpar; Rebekah Kennedy, Ranen Navat, Susan Gayle Watts](https://dev.to/gg_news/ign-traumatika-exclusive-trailer-2025-rebekah-kennedy-ranen-navat-susan-gayle-watts-49dj)
+- [IGN: Ranger&#39;s Path: National Park Simulator - Official Announcement Trailer](https://dev.to/gg_news/ign-rangers-path-national-park-simulator-official-announcement-trailer-303h)
+- [IGN: Stronghold Crusader: Definitive Edition - Official First Major Update Reveal Trailer](https://dev.to/gg_news/ign-stronghold-crusader-definitive-edition-official-first-major-update-reveal-trailer-3ik0)
 <!-- BLOG-POST-LIST:END -->
 
 
