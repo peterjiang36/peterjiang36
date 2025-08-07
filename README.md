@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiro and Spec-Driven Development: A Quick Refresher](https://dev.to/beagle_dog_inu/kiro-and-spec-driven-development-a-quick-refresher-752)
-- [Submodules = Bunny Rabbits](https://dev.to/annavi11arrea1/submodules-bunny-rabbits-4ndl)
-- [I Built a Members-Only Messaging Platform](https://dev.to/sushitr4sh/i-built-a-members-only-messaging-platform-c0h)
-- [🚀 I Built a Privacy-First, Open-Source Resume Builder &lpar;No Login, No Tracking&rpar;](https://dev.to/muhammed_rashidv_22cca04/i-built-a-privacy-first-open-source-resume-builder-no-login-no-tracking-4lke)
+- [Day 4 of Javascript](https://dev.to/bhuvanasri/day-4-of-javascript-f92)
+- [Terbongkar! Rahasia Setup SSH Server Anti-Hack: Panduan Lengkap dari Nol yang Wajib Anda Tahu!](https://dev.to/dhandy_anadry_04a7448a767/terbongkar-rahasia-setup-ssh-server-anti-hack-panduan-lengkap-dari-nol-yang-wajib-anda-tahu-4m2c)
+- [What Exactly Are Import Attributes in JavaScript?](https://dev.to/codeguage/what-exactly-are-import-attributes-in-javascript-1n21)
+- [🏗️ Designing Your Modern Data Platform &lpar;Cloud-Native Edition&rpar;](https://dev.to/qvfagundes/designing-your-modern-data-platform-cloud-native-edition-23ea)
 <!-- BLOG-POST-LIST:END -->
 
 
