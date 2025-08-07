@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenapa Earl Saya ciptakan dan kenapa ada GNUC?](https://dev.to/dev_nazwashabrina/kenapa-earl-saya-ciptakan-dan-kenapa-ada-gnuc-4aa1)
-- [Writing SIMD in Crystal with Inline Assembly](https://dev.to/kojix2/writing-simd-in-crystal-with-inline-assembly-1lkp)
-- [Install and Configure LLM Experience](https://dev.to/seno21/install-and-configure-llm-experience-8pg)
-- [Migrate your data directly to SurrealDB using Surreal Sync](https://dev.to/surrealdb/migrate-your-data-directly-to-surrealdb-using-surreal-sync-5f6g)
+- [Kiro and Spec-Driven Development: A Quick Refresher](https://dev.to/beagle_dog_inu/kiro-and-spec-driven-development-a-quick-refresher-752)
+- [Submodules = Bunny Rabbits](https://dev.to/annavi11arrea1/submodules-bunny-rabbits-4ndl)
+- [I Built a Members-Only Messaging Platform](https://dev.to/sushitr4sh/i-built-a-members-only-messaging-platform-c0h)
+- [🚀 I Built a Privacy-First, Open-Source Resume Builder &lpar;No Login, No Tracking&rpar;](https://dev.to/muhammed_rashidv_22cca04/i-built-a-privacy-first-open-source-resume-builder-no-login-no-tracking-4lke)
 <!-- BLOG-POST-LIST:END -->
 
 
