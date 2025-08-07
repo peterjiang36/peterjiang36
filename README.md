@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabase ⚡️ vs. Firebase 🔥: a Complete Comparison ⚔️ in 2025](https://dev.to/bytebase/supabase-vs-firebase-a-complete-comparison-in-2025-1k80)
+- [Peter Finch Golf: Peter Finch vs 6 PGA TOUR Pro Golfers!](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-vs-6-pga-tour-pro-golfers-29mh)
+- [🚀🎯 Speak Your Logic, Get Hired: The AI-Powered DSA Prep Aid You Didn’t Know You Needed 🎙️🤖🔥](https://dev.to/divyasinghdev/speak-your-logic-get-hired-the-ai-powered-dsa-prep-aid-you-didnt-know-you-needed-3ioi)
 - [SQL INTERSECT Explained: Find Shared Rows Easily](https://dev.to/dbvismarketing/sql-intersect-explained-find-shared-rows-easily-1km6)
-- [At OWASP Cornucopia we have long stated that we will create more decks, and now we will!](https://dev.to/sydseter/at-owasp-cornucopia-we-have-long-stated-that-we-will-create-more-decks-and-now-we-will-4488)
-- [Learning intervals on the guitar](https://dev.to/highcenburg/learning-intervals-on-the-guitar-59k5)
-- [Automated Refractive Index Matching in Gels via Deep Learning Optimization](https://dev.to/freederia-research/automated-refractive-index-matching-in-gels-via-deep-learning-optimization-5ce0)
 <!-- BLOG-POST-LIST:END -->
 
 
