@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Is This Seat Taken? - Official Launch Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-is-this-seat-taken-official-launch-trailer-nintendo-indie-world-2025-4p)
-- [IGN: Traumatika Exclusive Trailer &lpar;2025&rpar; Rebekah Kennedy, Ranen Navat, Susan Gayle Watts](https://dev.to/gg_news/ign-traumatika-exclusive-trailer-2025-rebekah-kennedy-ranen-navat-susan-gayle-watts-49dj)
-- [IGN: Ranger&#39;s Path: National Park Simulator - Official Announcement Trailer](https://dev.to/gg_news/ign-rangers-path-national-park-simulator-official-announcement-trailer-303h)
-- [IGN: Stronghold Crusader: Definitive Edition - Official First Major Update Reveal Trailer](https://dev.to/gg_news/ign-stronghold-crusader-definitive-edition-official-first-major-update-reveal-trailer-3ik0)
+- [Small Language Models: A better way to Agentic AI](https://dev.to/coralprotocol/small-language-models-a-better-way-to-agentic-ai-4o7)
+- [Why We Don’t Need Kubernetes for Services That Only Require a Couple of Servers](https://dev.to/tracywhodoesnot/why-we-dont-need-kubernetes-for-services-that-only-require-a-couple-of-servers-1o7k)
+- [GPT-5 Just Dropped. Here&#39;s Why Your Automation Stack Is Already Outdated](https://dev.to/alifar/gpt-5-just-dropped-heres-why-your-automation-stack-is-already-outdated-2lmj)
+- [Building an Intelligent Task Router for Multi-Model AI Systems with ML.NET](https://dev.to/auyeungdavid_2847435260/building-an-intelligent-task-router-for-multi-model-ai-systems-with-mlnet-hbo)
 <!-- BLOG-POST-LIST:END -->
 
 
