@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Goroutines - Efficient Concurrency with a Worker Pool in Go](https://dev.to/gkoos/taming-goroutines-efficient-concurrency-with-a-worker-pool-in-go-jag)
-- [AI Agent Promised Me a Website in One Prompt. It Forgot to Mention the PTSD of Working on a Legacy Codebas](https://dev.to/biswa_rizal_10c60a4ef3c5b/ai-agent-promised-me-a-website-in-one-prompt-it-forgot-to-mention-the-ptsd-of-working-on-a-legacy-21g6)
-- [This is a great article on design systems.](https://dev.to/mustyy/this-is-a-great-article-on-design-systems-4343)
-- [How to Switch Between Node Versions Using NVM](https://dev.to/lucy1/how-to-switch-between-node-versions-using-nvm-5ac5)
+- [KEXP: fish narc - old band &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-old-band-live-on-kexp-5d8d)
+- [KEXP: fish narc - opposites &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-opposites-live-on-kexp-1pgj)
+- [KEXP: fish narc - boxy volvo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-boxy-volvo-live-on-kexp-1d7h)
+- [KEXP: fish narc - my ceiling &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-my-ceiling-live-on-kexp-4l6n)
 <!-- BLOG-POST-LIST:END -->
 
 
