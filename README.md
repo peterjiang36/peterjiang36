@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Deep Dive: Why and How Projects Use Multiple Programming Languages](https://dev.to/aadarsh-nagrath/the-deep-dive-why-and-how-projects-use-multiple-programming-languages-ej8)
-- [GPT 5](https://dev.to/avanichols_dev/gpt-5-513f)
-- [How to build a self-improving agent that updates your UI in real time](https://dev.to/oliver_s_516239543d897f1d/how-to-build-a-self-improving-agent-that-updates-your-ui-in-real-time-1588)
-- [Empacotando programas com Nix](https://dev.to/jjoaoll/empacotando-programas-com-nix-4g3g)
+- [The Complete Nginx Mastery Series: From Zero to Production Hero](https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg)
+- [GPT-5 Is Here — And It’s Built for Devs Who Build with Tools](https://dev.to/ialijr/gpt-5-is-here-and-its-built-for-devs-who-build-with-tools-ccg)
+- [The Art of Coding with AI: Blending Human Vision with Machine Power](https://dev.to/phil-whittaker/the-art-of-coding-with-ai-blending-human-vision-with-machine-power-4i65)
+- [[Beta] We built an API for creating and simulating AI personas and are looking for developers to give us feedback.](https://dev.to/pavel_lzhirnovskiy_3e5e8/beta-we-built-an-api-for-creating-and-simulating-ai-personas-and-are-looking-for-developers-to-4jnf)
 <!-- BLOG-POST-LIST:END -->
 
 
