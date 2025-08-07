@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Cognition Announces Staff Exits and Buyout Options Following Windsurf Acquisition](https://dev.to/yagyaraj_sharma_6cd410179/title-cognition-announces-staff-exits-and-buyout-options-following-windsurf-acquisition-33c1)
-- [Advanced Git Commands: Master Rebase, Cherry-Pick &amp; Bisect](https://dev.to/arasosman/advanced-git-commands-master-rebase-cherry-pick-bisect-11nl)
-- [Git Hooks for Automated Code Quality Checks Guide 2025](https://dev.to/arasosman/git-hooks-for-automated-code-quality-checks-guide-2025-372f)
-- [PHP Attributes in Laravel: Complete Guide 2025](https://dev.to/arasosman/php-attributes-in-laravel-complete-guide-2025-3bh8)
+- [Kenapa Earl Saya ciptakan dan kenapa ada GNUC?](https://dev.to/dev_nazwashabrina/kenapa-earl-saya-ciptakan-dan-kenapa-ada-gnuc-4aa1)
+- [Writing SIMD in Crystal with Inline Assembly](https://dev.to/kojix2/writing-simd-in-crystal-with-inline-assembly-1lkp)
+- [Install and Configure LLM Experience](https://dev.to/seno21/install-and-configure-llm-experience-8pg)
+- [Migrate your data directly to SurrealDB using Surreal Sync](https://dev.to/surrealdb/migrate-your-data-directly-to-surrealdb-using-surreal-sync-5f6g)
 <!-- BLOG-POST-LIST:END -->
 
 
