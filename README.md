@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: fish narc - old band &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-old-band-live-on-kexp-5d8d)
-- [KEXP: fish narc - opposites &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-opposites-live-on-kexp-1pgj)
-- [KEXP: fish narc - boxy volvo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-boxy-volvo-live-on-kexp-1d7h)
-- [KEXP: fish narc - my ceiling &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fish-narc-my-ceiling-live-on-kexp-4l6n)
+- [Redis vs RAG Speed Test: Sub-5ms Vector Search vs 500ms+ LLM Q&amp;A](https://dev.to/axrisi/redis-vs-rag-speed-test-sub-5ms-vector-search-vs-500ms-llm-qa-2hag)
+- [The Reality of Academic Publishing: Why the System Is Rigged](https://dev.to/owly/the-reality-of-academic-publishing-why-the-system-is-rigged-2e6)
+- [The Power of Accessibility Testing: Empowering Inclusivity in Digital Experiences](https://dev.to/devassure/the-power-of-accessibility-testing-empowering-inclusivity-in-digital-experiences-360g)
+- [A Simple Explanation: What Do 7B, 70B, and 175B Parameters in AI Models Mean?](https://dev.to/tube_you_16497efa22401797/a-simple-explanation-what-do-7b-70b-and-175b-parameters-in-ai-models-mean-17f)
 <!-- BLOG-POST-LIST:END -->
 
 
