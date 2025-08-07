@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Nginx Mastery Series: From Zero to Production Hero](https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg)
-- [GPT-5 Is Here — And It’s Built for Devs Who Build with Tools](https://dev.to/ialijr/gpt-5-is-here-and-its-built-for-devs-who-build-with-tools-ccg)
-- [The Art of Coding with AI: Blending Human Vision with Machine Power](https://dev.to/phil-whittaker/the-art-of-coding-with-ai-blending-human-vision-with-machine-power-4i65)
-- [[Beta] We built an API for creating and simulating AI personas and are looking for developers to give us feedback.](https://dev.to/pavel_lzhirnovskiy_3e5e8/beta-we-built-an-api-for-creating-and-simulating-ai-personas-and-are-looking-for-developers-to-4jnf)
+- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-2amg)
+- [Byte Pair Encoding &lpar;BPE&rpar; Tokenizer](https://dev.to/nilavya2000/byte-pair-encoding-bpe-tokenizer-381j)
+- [React Server Components: What Problems Do They Actually Solve?](https://dev.to/abhishekkrpand1/react-server-components-what-problems-do-they-actually-solve-48m6)
+- [I Built an API, Left It for Years, Then Someone Subscribed — Here&#39;s What I Learned](https://dev.to/thosedev/i-built-an-api-left-it-for-years-then-someone-subscribed-heres-what-i-learned-4ab6)
 <!-- BLOG-POST-LIST:END -->
 
 
