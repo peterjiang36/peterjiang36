@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Language Models: A better way to Agentic AI](https://dev.to/coralprotocol/small-language-models-a-better-way-to-agentic-ai-4o7)
-- [Why We Don’t Need Kubernetes for Services That Only Require a Couple of Servers](https://dev.to/tracywhodoesnot/why-we-dont-need-kubernetes-for-services-that-only-require-a-couple-of-servers-1o7k)
-- [GPT-5 Just Dropped. Here&#39;s Why Your Automation Stack Is Already Outdated](https://dev.to/alifar/gpt-5-just-dropped-heres-why-your-automation-stack-is-already-outdated-2lmj)
-- [Building an Intelligent Task Router for Multi-Model AI Systems with ML.NET](https://dev.to/auyeungdavid_2847435260/building-an-intelligent-task-router-for-multi-model-ai-systems-with-mlnet-hbo)
+- [Go Basics: How to Use Enums, Structs, and Interfaces Effectively](https://dev.to/lovestaco/go-basics-how-to-use-enums-structs-and-interfaces-effectively-2bi0)
+- [IGN: Glaciered - Official Nintendo Switch 2 Release Window Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-glaciered-official-nintendo-switch-2-release-window-trailer-nintendo-indie-world-2025-46ji)
+- [IGN: Content Warning - Official Nintendo Switch Announcement Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-content-warning-official-nintendo-switch-announcement-trailer-nintendo-indie-world-2025-5ap4)
+- [IGN: Winter Burrow - Official Release Window Reveal Trailer | Nintendo Indie World 2025](https://dev.to/gg_news/ign-winter-burrow-official-release-window-reveal-trailer-nintendo-indie-world-2025-15ik)
 <!-- BLOG-POST-LIST:END -->
 
 
