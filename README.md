@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: Turning a Picture of My Dog into a Damascus Pattern](https://dev.to/maker_youtube/alec-steele-turning-a-picture-of-my-dog-into-a-damascus-pattern-10o7)
-- [IGN: Mafia: The Old Country | The First 28 Minutes of Gameplay 4K 60FPS](https://dev.to/gg_news/ign-mafia-the-old-country-the-first-28-minutes-of-gameplay-4k-60fps-46ge)
-- [IGN: Disciples: Domination - Official Announcement Trailer](https://dev.to/gg_news/ign-disciples-domination-official-announcement-trailer-fmg)
-- [IGN: Wednesday Season 2: Part 1 Review](https://dev.to/gg_news/ign-wednesday-season-2-part-1-review-2m02)
+- [Seth MacFarlane Applauds the ‘Incredible&#39; Timeliness of ‘South Park&#39; – Despite Years-Long Feud With Its Creators](https://dev.to/popcorn_tv/seth-macfarlane-applauds-the-incredible-timeliness-of-south-park-despite-years-long-feud-with-7ai)
+- [After Devil May Cry 5 outsells Monster Hunter Wilds in Capcom&#39;s latest financial quarter, publisher&#39;s share prices tumble](https://dev.to/gg_news/after-devil-may-cry-5-outsells-monster-hunter-wilds-in-capcoms-latest-financial-quarter-16ll)
+- [League Of Legends: Wild Rift Comes Under Fire For &quot;Diabolical&quot; AI Generated Cinematic](https://dev.to/gg_news/league-of-legends-wild-rift-comes-under-fire-for-diabolical-ai-generated-cinematic-498a)
+- [Yes, Reality Labs is still losing billions](https://dev.to/gg_news/yes-reality-labs-is-still-losing-billions-30cp)
 <!-- BLOG-POST-LIST:END -->
 
 
