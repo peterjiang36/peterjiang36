@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Senua&#39;s Saga: Hellblade 2 - 44 Minutes of PS5 Pro Gameplay &lpar;Performance Mode 4K 60FPS&rpar;](https://dev.to/gg_news/ign-senuas-saga-hellblade-2-44-minutes-of-ps5-pro-gameplay-performance-mode-4k-60fps-2lf8)
-- [AI Is Winning Developers, But Losing Their Trust](https://dev.to/smartterss/ai-is-winning-developers-but-losing-their-trust-5h24)
-- [Safe and Version-Agnostic Deployment to Consistent Addresses Across EVM Networks](https://dev.to/andriian_chestnykh_5cd2de/safe-and-version-agnostic-deployment-to-consistent-addresses-across-evm-networks-2dhi)
-- [I Built a Website for Mission BBQ Lovers – Here&#39;s Why and How](https://dev.to/shehla_shah_1f25af4301b31/i-built-a-website-for-mission-bbq-lovers-heres-why-and-how-ko5)
+- [⚡️10 Claude Code Subagents Every Developer Needs in 2025](https://dev.to/necatiozmen/10-claude-code-subagents-every-developer-needs-in-2025-2ho)
+- [Learn Smarter with Personal Tutors](https://dev.to/eshikshahub/learn-smarter-with-personal-tutors-2khh)
+- [Static and Non-Static Methods in Java: A Detailed Guide](https://dev.to/sharique_siddiqui_8242dad/static-and-non-static-methods-in-java-a-detailed-guide-4b5j)
+- [WTF is Micro Frontends?](https://dev.to/dailybugle33/wtf-is-micro-frontends-3lnn)
 <!-- BLOG-POST-LIST:END -->
 
 
