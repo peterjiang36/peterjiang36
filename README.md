@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of AI with AI X Collection: Your Ultimate Hub for Advanced AI Tools](https://dev.to/jesus_camacho_11bb0567ecf/exploring-the-future-of-ai-with-ai-x-collection-your-ultimate-hub-for-advanced-ai-tools-4em3)
-- [How I Tracked a Real-World Web Assailant Using Firebase + Cloudflare](https://dev.to/formantaudio/how-i-tracked-a-real-world-web-assailant-using-firebase-cloudflare-31h9)
-- [What are Ensemble Methods, Bagging, and Random Forests?](https://dev.to/dev_patel_35864ca1db6093c/what-are-ensemble-methods-bagging-and-random-forests-42j9)
-- [LLMs Crawled Me. Google Didn’t. What I Did Next](https://dev.to/engineeredai/llms-crawled-me-google-didnt-what-i-did-next-32n8)
+- [Mastering APP_INITIALIZER in Angular’s Standalone Architecture — With Real-World Example](https://dev.to/vetriselvan_11/mastering-appinitializer-in-angulars-standalone-architecture-with-real-world-example-55dp)
+- [How to Identify a Trusted Platform for Buying Verified OnlyFans Accounts](https://dev.to/marsha_rose_f4ba2d2d1d360/how-to-identify-a-trusted-platform-for-buying-verified-onlyfans-accounts-2o4h)
+- [Nivelamento em Programação de Computadores](https://dev.to/alsetchannel/nivelamento-em-programacao-de-computadores-mgl)
+- [Flutter Lesson 4: Layout Fundamentals: Row, Column, Stack](https://dev.to/jige2025/flutter-lesson-4-layout-fundamentals-row-column-stack-2659)
 <!-- BLOG-POST-LIST:END -->
 
 
