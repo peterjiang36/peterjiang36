@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [INSTALLING NODE.JS](https://dev.to/asran_2025/installing-nodejs-4ba0)
-- [Agile Unified Process &lpar;AUP&rpar;: Combining Agile with Unified Modeling](https://dev.to/dct_technology/agile-unified-process-aup-combining-agile-with-unified-modeling-27kk)
-- [Practice#1: Regular Filtering and Grouping &amp; Aggregation](https://dev.to/esproc_spl/practice1-regular-filtering-and-grouping-aggregation-5e9n)
-- [Dapr support with Postgres](https://dev.to/sirivarma/dapr-support-with-postgres-1e3b)
+- [Scaling to Millions: Proven System Design Strategies for High-Traffic Apps](https://dev.to/muhayminbinmehmood/scaling-to-millions-proven-system-design-strategies-for-high-traffic-apps-1c3a)
+- [The 4-Day Work Week for Developers: 12 Companies Sharing Real Data](https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl)
+- [Monitoring Your App with Prometheus and Grafana](https://dev.to/addwebsolutionpvtltd/monitoring-your-app-with-prometheus-and-grafana-3p97)
+- [Angular Signals + RxJS: объединяем два реактивных мира в одном стейт-менеджере](https://dev.to/del4k1/angular-signals-rxjs-obiediniaiem-dva-rieaktivnykh-mira-v-odnom-stieit-mieniedzhierie-4o3n)
 <!-- BLOG-POST-LIST:END -->
 
 
