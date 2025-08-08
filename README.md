@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
-- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
-- [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
-- [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
+- [KEXP: Black Country, New Road - For The Cold Country &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-for-the-cold-country-live-on-kexp-59e2)
+- [KEXP: Black Country, New Road - Forever Howlong &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-forever-howlong-live-on-kexp-m7f)
+- [KEXP: Black Country, New Road - Happy Birthday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-happy-birthday-live-on-kexp-b6h)
+- [KEXP: Black Country, New Road - Besties &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-besties-live-on-kexp-86c)
 <!-- BLOG-POST-LIST:END -->
 
 
