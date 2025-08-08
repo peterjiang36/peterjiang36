@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Printing Nerd: BIG PRINTS on SMALL PLATES](https://dev.to/maker_youtube/3d-printing-nerd-big-prints-on-small-plates-f8a)
-- [Mastering Go File Wizardry 🧙‍♂️📁](https://dev.to/tavernetech/mastering-go-file-wizardry-3nnc)
-- [What GPT-5 Means for Software Developers](https://dev.to/therealmrmumba/what-gpt-5-means-for-software-developers-34jg)
-- [GameSpot: Mafia: The Old Country Review](https://dev.to/gg_news/gamespot-mafia-the-old-country-review-4pd8)
+- [As a 15 year old, I built an AI Bot to Beat Four Pattern-Based Rock-Paper-Scissors Bots!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-an-ai-bot-to-beat-four-pattern-based-rock-paper-scissors-bots-1fdn)
+- [As a 15 year old, I built a Simple Amazon-Style Webpage Project replica!](https://dev.to/prajwal_m_3fa9dda58483e91/as-a-15-year-old-i-built-a-simple-amazon-style-webpage-project-replica-1m26)
+- [Adaptive Lens Profile Generation via Multi-Modal Data Fusion &amp; Bayesian Optimization](https://dev.to/freederia-research/adaptive-lens-profile-generation-via-multi-modal-data-fusion-bayesian-optimization-39d3)
+- [The Next Wave of Serverless: Cutting-Edge Strategies for 2025](https://dev.to/adrea_berry_96ce0f56c31eb/the-next-wave-of-serverless-cutting-edge-strategies-for-2025-4ghc)
 <!-- BLOG-POST-LIST:END -->
 
 
