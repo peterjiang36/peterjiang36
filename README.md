@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Ninja Gaiden 4 - The Final Preview - A Pure Action Dream](https://dev.to/gg_news/ign-ninja-gaiden-4-the-final-preview-a-pure-action-dream-31i)
-- [IGN: ’83 - Official Game Overview Trailer](https://dev.to/gg_news/ign-83-official-game-overview-trailer-40ad)
-- [IGN: Warhammer 40,000: Dawn of War - Definitive Edition - Official Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-warhammer-40000-dawn-of-war-definitive-edition-official-developer-gameplay-commentary-590a)
-- [IGN: Xbox Stops Work on Contraband After Four Years of Development - IGN Daily Fix](https://dev.to/gg_news/ign-xbox-stops-work-on-contraband-after-four-years-of-development-ign-daily-fix-m0f)
+- [Exploring the Future of AI with AI X Collection: Your Ultimate Hub for Advanced AI Tools](https://dev.to/jesus_camacho_11bb0567ecf/exploring-the-future-of-ai-with-ai-x-collection-your-ultimate-hub-for-advanced-ai-tools-4em3)
+- [How I Tracked a Real-World Web Assailant Using Firebase + Cloudflare](https://dev.to/formantaudio/how-i-tracked-a-real-world-web-assailant-using-firebase-cloudflare-31h9)
+- [What are Ensemble Methods, Bagging, and Random Forests?](https://dev.to/dev_patel_35864ca1db6093c/what-are-ensemble-methods-bagging-and-random-forests-42j9)
+- [LLMs Crawled Me. Google Didn’t. What I Did Next](https://dev.to/engineeredai/llms-crawled-me-google-didnt-what-i-did-next-32n8)
 <!-- BLOG-POST-LIST:END -->
 
 
