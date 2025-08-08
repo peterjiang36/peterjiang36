@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/ben/-55h)
-- [&quot;Just Starting Out – My Machine Learning Journey 🚀&quot;](https://dev.to/muskanverma024/just-starting-out-my-machine-learning-journey--2c7h)
-- [Create the React App](https://dev.to/m_ramavel_8d478add09a105c/create-the-react-app-543)
-- [Beginner&#39;s AWS Guide: Containers and Infrastructure as Code &lpar;Part 8&rpar;](https://dev.to/meshclan1/beginners-aws-guide-containers-and-infrastructure-as-code-part-8-1d19)
+- [3D Printing Nerd: BIG PRINTS on SMALL PLATES](https://dev.to/maker_youtube/3d-printing-nerd-big-prints-on-small-plates-f8a)
+- [Mastering Go File Wizardry 🧙‍♂️📁](https://dev.to/tavernetech/mastering-go-file-wizardry-3nnc)
+- [What GPT-5 Means for Software Developers](https://dev.to/therealmrmumba/what-gpt-5-means-for-software-developers-34jg)
+- [GameSpot: Mafia: The Old Country Review](https://dev.to/gg_news/gamespot-mafia-the-old-country-review-4pd8)
 <!-- BLOG-POST-LIST:END -->
 
 
