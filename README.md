@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Strands Agents with a few lines of code: Agent-to-Agent &lpar;A2A&rpar; Communication](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1)
-- [Blazing Toukon HTML! A Game Born from GPT-5&#39;s Magic and Deployed Worldwide via Firebase](https://dev.to/torifukukaiou/blazing-toukon-html-a-game-born-from-gpt-5s-magic-and-deployed-worldwide-via-firebase-3fdc)
-- [Zrozumiec hooki](https://dev.to/itachiszep/zrozumiec-hooki-15j6)
-- [Como criei um protocolo descentralizado que transforma APIs em tokens reais com Proof-of-Work](https://dev.to/gustavodeoli/como-criei-um-protocolo-descentralizado-que-transforma-apis-em-tokens-reais-com-proof-of-work-2i4f)
+- [IGN: Ninja Gaiden 4 - The Final Preview - A Pure Action Dream](https://dev.to/gg_news/ign-ninja-gaiden-4-the-final-preview-a-pure-action-dream-31i)
+- [IGN: ’83 - Official Game Overview Trailer](https://dev.to/gg_news/ign-83-official-game-overview-trailer-40ad)
+- [IGN: Warhammer 40,000: Dawn of War - Definitive Edition - Official Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-warhammer-40000-dawn-of-war-definitive-edition-official-developer-gameplay-commentary-590a)
+- [IGN: Xbox Stops Work on Contraband After Four Years of Development - IGN Daily Fix](https://dev.to/gg_news/ign-xbox-stops-work-on-contraband-after-four-years-of-development-ign-daily-fix-m0f)
 <!-- BLOG-POST-LIST:END -->
 
 
