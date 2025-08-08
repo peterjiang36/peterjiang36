@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
-- [Numerology Based on Birthdate Your Personal Code](https://dev.to/lifepurposeapp/numerology-based-on-birthdate-your-personal-code-10j)
-- [How to translate PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-translate-pdf-files-in-java-tutorial-2gfe)
-- [💼🚀 Top AI Tools Small Businesses Should Use in 2025 &lpar;With Real Use Cases!&rpar;](https://dev.to/tahamjp/top-ai-tools-small-businesses-should-use-in-2025-with-real-use-cases-318f)
+- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
+- [Claude 3.7 vs 3.5 Sonnet: Key Differences You Should Know](https://dev.to/wisdomplexus_70a379ff4482/claude-37-vs-35-sonnet-key-differences-you-should-know-591n)
+- [How Machine Learning Helps Marketers Predict ABM Success](https://dev.to/leo_johnson_e34af4a6d9bd9/how-machine-learning-helps-marketers-predict-abm-success-2gpe)
+- [What is on-demand app development?](https://dev.to/maxtratechnology/-need-to-launch-an-app-like-zomato-uber-or-urbanclap-g0b)
 <!-- BLOG-POST-LIST:END -->
 
 
