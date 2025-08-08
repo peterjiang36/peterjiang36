@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Appwrite](https://dev.to/pullflow/project-of-the-week-appwrite-pcc)
-- [Investigating with Splunk - TryHackMe Write-up](https://dev.to/forrestcaffray/investigating-with-splunk-tryhackme-write-up-3h5e)
-- [Azure Web Apps - frontend token to work with backend](https://dev.to/andrewelans/azure-web-apps-frontend-token-to-work-with-backend-93i)
-- [What Is a Primary Key in SQL? Learn with Examples](https://dev.to/roxana_haidiner/what-is-a-primary-key-in-sql-learn-with-examples-4bbl)
+- [Adam Savage&#39;s Tested: Why There&#39;s a Saree at Smithsonian&#39;s @airandspace Museum](https://dev.to/maker_youtube/adam-savages-tested-why-theres-a-saree-at-smithsonians-airandspace-museum-1l6j)
+- [KEXP: Black Country, New Road - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-full-performance-live-on-kexp-5epn)
+- [Rick Shiels Golf: This was the WEIRDEST Round of Golf ever!](https://dev.to/youtube_golf/rick-shiels-golf-this-was-the-weirdest-round-of-golf-ever-3a6b)
+- [IGN: Weapons: How Zach Cregger Uses Nightmares and Non-Linear Storytelling to Explore Tragedy](https://dev.to/gg_news/ign-weapons-how-zach-cregger-uses-nightmares-and-non-linear-storytelling-to-explore-tragedy-1p7g)
 <!-- BLOG-POST-LIST:END -->
 
 
