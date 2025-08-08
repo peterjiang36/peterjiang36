@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18: Docker for DevOps Engineers pt 2](https://dev.to/udoh_deborah_b1e484c474bf/day-18-docker-for-devops-engineers-pt-2-3a01)
-- [Security news weekly round-up - 8th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-8th-august-2025-ll0)
-- [Social Media Moderation Guide: Tools, Examples, &amp; Best Practices](https://dev.to/sarahlindauer/social-media-moderation-guide-tools-examples-best-practices-71h)
-- [Mastering Python’s Magical Data Structures: A Spellbinding Journey](https://dev.to/suseelak/mastering-pythons-magical-data-structures-a-spellbinding-journey-3mdh)
+- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
+- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
+- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
+- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
 <!-- BLOG-POST-LIST:END -->
 
 
