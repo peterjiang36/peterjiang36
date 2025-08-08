@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling to Millions: Proven System Design Strategies for High-Traffic Apps](https://dev.to/muhayminbinmehmood/scaling-to-millions-proven-system-design-strategies-for-high-traffic-apps-1c3a)
-- [The 4-Day Work Week for Developers: 12 Companies Sharing Real Data](https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl)
-- [Monitoring Your App with Prometheus and Grafana](https://dev.to/addwebsolutionpvtltd/monitoring-your-app-with-prometheus-and-grafana-3p97)
-- [Angular Signals + RxJS: объединяем два реактивных мира в одном стейт-менеджере](https://dev.to/del4k1/angular-signals-rxjs-obiediniaiem-dva-rieaktivnykh-mira-v-odnom-stieit-mieniedzhierie-4o3n)
+- [IGN: Senua&#39;s Saga: Hellblade 2 - 44 Minutes of PS5 Pro Gameplay &lpar;Performance Mode 4K 60FPS&rpar;](https://dev.to/gg_news/ign-senuas-saga-hellblade-2-44-minutes-of-ps5-pro-gameplay-performance-mode-4k-60fps-2lf8)
+- [AI Is Winning Developers, But Losing Their Trust](https://dev.to/smartterss/ai-is-winning-developers-but-losing-their-trust-5h24)
+- [Safe and Version-Agnostic Deployment to Consistent Addresses Across EVM Networks](https://dev.to/andriian_chestnykh_5cd2de/safe-and-version-agnostic-deployment-to-consistent-addresses-across-evm-networks-2dhi)
+- [I Built a Website for Mission BBQ Lovers – Here&#39;s Why and How](https://dev.to/shehla_shah_1f25af4301b31/i-built-a-website-for-mission-bbq-lovers-heres-why-and-how-ko5)
 <!-- BLOG-POST-LIST:END -->
 
 
