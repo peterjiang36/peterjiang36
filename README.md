@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Foundry leaves IGN](https://dev.to/gg_news/digital-foundry-leaves-ign-m48)
-- [League Of Legends: Wild Rift Comes Under Fire For &quot;Diabolical&quot; AI Generated Cinematic](https://dev.to/gg_news/league-of-legends-wild-rift-comes-under-fire-for-diabolical-ai-generated-cinematic-1eo1)
-- [3D Printing Nerd: Slicing for Artificial Lightning! with Plasma Channel!](https://dev.to/maker_youtube/3d-printing-nerd-slicing-for-artificial-lightning-with-plasma-channel-4j4)
-- [I Animated Every Major Design Pattern &lpar;The Only Video You Need&rpar;](https://dev.to/alishirani/i-animated-every-major-design-pattern-the-only-video-you-need-2lm4)
+- [Project of the Week: Appwrite](https://dev.to/pullflow/project-of-the-week-appwrite-pcc)
+- [Investigating with Splunk - TryHackMe Write-up](https://dev.to/forrestcaffray/investigating-with-splunk-tryhackme-write-up-3h5e)
+- [Azure Web Apps - frontend token to work with backend](https://dev.to/andrewelans/azure-web-apps-frontend-token-to-work-with-backend-93i)
+- [What Is a Primary Key in SQL? Learn with Examples](https://dev.to/roxana_haidiner/what-is-a-primary-key-in-sql-learn-with-examples-4bbl)
 <!-- BLOG-POST-LIST:END -->
 
 
