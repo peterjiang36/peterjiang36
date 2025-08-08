@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering APP_INITIALIZER in Angular’s Standalone Architecture — With Real-World Example](https://dev.to/vetriselvan_11/mastering-appinitializer-in-angulars-standalone-architecture-with-real-world-example-55dp)
-- [How to Identify a Trusted Platform for Buying Verified OnlyFans Accounts](https://dev.to/marsha_rose_f4ba2d2d1d360/how-to-identify-a-trusted-platform-for-buying-verified-onlyfans-accounts-2o4h)
-- [Nivelamento em Programação de Computadores](https://dev.to/alsetchannel/nivelamento-em-programacao-de-computadores-mgl)
-- [Flutter Lesson 4: Layout Fundamentals: Row, Column, Stack](https://dev.to/jige2025/flutter-lesson-4-layout-fundamentals-row-column-stack-2659)
+- [Starting My IT Journey](https://dev.to/ajayr18/starting-my-it-journey-286n)
+- [Kingdee ERP Zero-Day? ScpSupRegHandler File Upload Exploit Explained](https://dev.to/sharon_42e16b8da44dabde6d/kingdee-erp-zero-day-scpsupreghandler-file-upload-exploit-explained-1jen)
+- [How to Create Your First Lambda Function &lpar;No DevOps Needed&rpar; ⚡🧑‍💻](https://dev.to/yash_sonawane25/how-to-create-your-first-lambda-function-no-devops-needed-166h)
+- [Unsupervised machine learning: Kmeans &lpar;3 blobs&rpar;](https://dev.to/ashwani_kumar_a70ee558a2c/unsupervised-machine-learning-kmeans-3-blobs-a65)
 <!-- BLOG-POST-LIST:END -->
 
 
