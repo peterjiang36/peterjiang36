@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Launched my iOS app - Tuneo Offline Music Player](https://dev.to/arcadebuilds/launched-my-ios-app-tuneo-offline-music-player-c13)
-- [There&#39;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems.](https://dev.to/bitox/theres-a-new-king-in-crypto-salaries-usdc-is-replacing-usdt-and-this-is-more-significant-than-it-4jk7)
-- [The Backbone of IT: Understanding the Role of a System Administrator](https://dev.to/christiana_orji/the-backbone-of-it-understanding-the-role-of-a-system-administrator-4mg7)
-- [The Complete Guide to ElevenLabs Plans Overages and Usage Based Pricing](https://dev.to/flexprice_8116ed925/the-complete-guide-to-elevenlabs-plans-overages-and-usage-based-pricing-3jam)
+- [Digital Foundry leaves IGN](https://dev.to/gg_news/digital-foundry-leaves-ign-m48)
+- [League Of Legends: Wild Rift Comes Under Fire For &quot;Diabolical&quot; AI Generated Cinematic](https://dev.to/gg_news/league-of-legends-wild-rift-comes-under-fire-for-diabolical-ai-generated-cinematic-1eo1)
+- [3D Printing Nerd: Slicing for Artificial Lightning! with Plasma Channel!](https://dev.to/maker_youtube/3d-printing-nerd-slicing-for-artificial-lightning-with-plasma-channel-4j4)
+- [I Animated Every Major Design Pattern &lpar;The Only Video You Need&rpar;](https://dev.to/alishirani/i-animated-every-major-design-pattern-the-only-video-you-need-2lm4)
 <!-- BLOG-POST-LIST:END -->
 
 
