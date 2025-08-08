@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Why There&#39;s a Saree at Smithsonian&#39;s @airandspace Museum](https://dev.to/maker_youtube/adam-savages-tested-why-theres-a-saree-at-smithsonians-airandspace-museum-1l6j)
-- [KEXP: Black Country, New Road - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-full-performance-live-on-kexp-5epn)
-- [Rick Shiels Golf: This was the WEIRDEST Round of Golf ever!](https://dev.to/youtube_golf/rick-shiels-golf-this-was-the-weirdest-round-of-golf-ever-3a6b)
-- [IGN: Weapons: How Zach Cregger Uses Nightmares and Non-Linear Storytelling to Explore Tragedy](https://dev.to/gg_news/ign-weapons-how-zach-cregger-uses-nightmares-and-non-linear-storytelling-to-explore-tragedy-1p7g)
+- [[Boost]](https://dev.to/ben/-55h)
+- [&quot;Just Starting Out – My Machine Learning Journey 🚀&quot;](https://dev.to/muskanverma024/just-starting-out-my-machine-learning-journey--2c7h)
+- [Create the React App](https://dev.to/m_ramavel_8d478add09a105c/create-the-react-app-543)
+- [Beginner&#39;s AWS Guide: Containers and Infrastructure as Code &lpar;Part 8&rpar;](https://dev.to/meshclan1/beginners-aws-guide-containers-and-infrastructure-as-code-part-8-1d19)
 <!-- BLOG-POST-LIST:END -->
 
 
