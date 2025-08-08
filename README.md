@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️10 Claude Code Subagents Every Developer Needs in 2025](https://dev.to/necatiozmen/10-claude-code-subagents-every-developer-needs-in-2025-2ho)
-- [Learn Smarter with Personal Tutors](https://dev.to/eshikshahub/learn-smarter-with-personal-tutors-2khh)
-- [Static and Non-Static Methods in Java: A Detailed Guide](https://dev.to/sharique_siddiqui_8242dad/static-and-non-static-methods-in-java-a-detailed-guide-4b5j)
-- [WTF is Micro Frontends?](https://dev.to/dailybugle33/wtf-is-micro-frontends-3lnn)
+- [Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC](https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00)
+- [Numerology Based on Birthdate Your Personal Code](https://dev.to/lifepurposeapp/numerology-based-on-birthdate-your-personal-code-10j)
+- [How to translate PDF files in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-translate-pdf-files-in-java-tutorial-2gfe)
+- [💼🚀 Top AI Tools Small Businesses Should Use in 2025 &lpar;With Real Use Cases!&rpar;](https://dev.to/tahamjp/top-ai-tools-small-businesses-should-use-in-2025-with-real-use-cases-318f)
 <!-- BLOG-POST-LIST:END -->
 
 
