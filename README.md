@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in GPT 5 That Benefits Developers?](https://dev.to/dhruvjoshi9/whats-new-in-gpt-5-that-benefits-developers-4kdn)
-- [Practical lessons from building production agentic systems](https://dev.to/urbanisierung/practical-lessons-from-building-production-agentic-systems-5ea6)
-- [AI-Powered Data Engineering Pipelines: Smarter, Faster, Scalable](https://dev.to/santosh_ronanki_9438d5944/ai-powered-data-engineering-pipelines-smarter-faster-scalable-l5e)
-- [𝗦𝗺𝗮𝗿𝘁 𝗔𝗹𝗲𝗿𝘁𝘀: 𝗘𝗺𝗮𝗶𝗹 𝗡𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗖𝗜/𝗖𝗗 𝗙𝗮𝗶𝗹𝘂𝗿𝗲𝘀](https://dev.to/supraja_tangella_b7f0738e/--6dc)
+- [Harnessing Dynamic Graph Neural Networks for Real-Time Anomaly Detection in O-연결 당사슬 Logistics](https://dev.to/freederia-research/harnessing-dynamic-graph-neural-networks-for-real-time-anomaly-detection-in-o-yeongyeol-dangsaseul-logistics-1ic)
+- [7 Ready-Made Layouts &amp; UI for SaaS Dashboards and Data Viz](https://dev.to/jqueryscript/7-ready-made-layouts-ui-for-saas-dashboards-and-data-viz-lj5)
+- [Test 12 Clickup Alternative and Filter this 5 Clickup alternatives](https://dev.to/pratham_naik_project_manager/test-12-clickup-alternative-and-filter-this-5-clickup-alternatives-3k4g)
+- [Tested 12 ClickUp Alternatives - Only These 5 Truly Fit U.S. Agencies](https://dev.to/teamcamp/tested-12-clickup-alternatives-only-these-5-truly-fit-us-agencies-bp5)
 <!-- BLOG-POST-LIST:END -->
 
 
