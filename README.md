@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Black Country, New Road - For The Cold Country &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-for-the-cold-country-live-on-kexp-59e2)
-- [KEXP: Black Country, New Road - Forever Howlong &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-forever-howlong-live-on-kexp-m7f)
-- [KEXP: Black Country, New Road - Happy Birthday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-happy-birthday-live-on-kexp-b6h)
-- [KEXP: Black Country, New Road - Besties &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-black-country-new-road-besties-live-on-kexp-86c)
+- [Launched my iOS app - Tuneo Offline Music Player](https://dev.to/arcadebuilds/launched-my-ios-app-tuneo-offline-music-player-c13)
+- [There&#39;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems.](https://dev.to/bitox/theres-a-new-king-in-crypto-salaries-usdc-is-replacing-usdt-and-this-is-more-significant-than-it-4jk7)
+- [The Backbone of IT: Understanding the Role of a System Administrator](https://dev.to/christiana_orji/the-backbone-of-it-understanding-the-role-of-a-system-administrator-4mg7)
+- [The Complete Guide to ElevenLabs Plans Overages and Usage Based Pricing](https://dev.to/flexprice_8116ed925/the-complete-guide-to-elevenlabs-plans-overages-and-usage-based-pricing-3jam)
 <!-- BLOG-POST-LIST:END -->
 
 
