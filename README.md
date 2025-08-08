@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mafia: The Old Country - Official Accolades Trailer](https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf)
-- [IGN: Peak - Official &#39;The Mesa Update&#39; Release Date Teaser Trailer](https://dev.to/gg_news/ign-peak-official-the-mesa-update-release-date-teaser-trailer-46ng)
-- [IGN: Noah Hawley Reveals His Process in Creating FX’s Alien: Earth | SDCC 2025](https://dev.to/gg_news/ign-noah-hawley-reveals-his-process-in-creating-fxs-alien-earth-sdcc-2025-3dmn)
-- [Create API with NestJS using TDD approach, part 3!!](https://dev.to/joedev090/create-api-with-nestjs-using-tdd-approach-part-3-4j2a)
+- [Day 18: Docker for DevOps Engineers pt 2](https://dev.to/udoh_deborah_b1e484c474bf/day-18-docker-for-devops-engineers-pt-2-3a01)
+- [Security news weekly round-up - 8th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-8th-august-2025-ll0)
+- [Social Media Moderation Guide: Tools, Examples, &amp; Best Practices](https://dev.to/sarahlindauer/social-media-moderation-guide-tools-examples-best-practices-71h)
+- [Mastering Python’s Magical Data Structures: A Spellbinding Journey](https://dev.to/suseelak/mastering-pythons-magical-data-structures-a-spellbinding-journey-3mdh)
 <!-- BLOG-POST-LIST:END -->
 
 
