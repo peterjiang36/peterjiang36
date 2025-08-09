@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis-Powered Multi-Agent AI Workflow: Orchestrating Claude Code Instances for Concurrent Software Development](https://dev.to/fooooorrest/redis-powered-multi-agent-ai-workflow-orchestrating-claude-code-instances-for-concurrent-software-dbh)
-- [NOTGPT.NET - Premium AI for Everyone](https://dev.to/jaron_79b2943d7acc9e3c74e/notgptnet-premium-ai-for-everyone-1ge1)
-- [SuperClaude 核心命令快捷键指南](https://dev.to/dragon72463399/superclaude-he-xin-ming-ling-kuai-jie-jian-zhi-nan-4ckj)
-- [Flutter Lesson 8: Routing and Navigation](https://dev.to/jige2025/flutter-lesson-8-routing-and-navigation-4hgl)
+- [🔍 I recently attended a DevOps interview – here are the questions they asked me:](https://dev.to/iragani_vamsisai_5a349cc/i-recently-attended-a-devops-interview-here-are-the-questions-they-asked-me-3k25)
+- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/cloning-a-website-taught-me-more-than-tutorials-did-3bgg)
+- [Rick Shiels Golf: My Golf Improved!!!](https://dev.to/youtube_golf/rick-shiels-golf-my-golf-improved-4k4o)
+- [Cybersecurity Learning Journey: Reposting with Clarity](https://dev.to/hills/cybersecurity-learning-journey-reposting-with-clarity-50nc)
 <!-- BLOG-POST-LIST:END -->
 
 
