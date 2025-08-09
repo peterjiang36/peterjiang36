@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: If You Want to Hit Driver Longer, I&#39;d Always Start Here](https://dev.to/youtube_golf/danny-maude-if-you-want-to-hit-driver-longer-id-always-start-here-56fb)
-- [🚀 From Developer to AI Authority: How to Position Yourself as an Expert in AI-Driven Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/from-developer-to-ai-authority-how-to-position-yourself-as-an-expert-in-ai-driven-development-13hi)
-- [Redis 8 beyond caching to uniquely powerful traffic management system.](https://dev.to/dirsebastian/redis-8-beyond-caching-to-uniquely-powerful-traffic-management-system-2c1h)
-- [GPT-5&#39;s Quiet Upgrades That Supercharge Agent Development](https://dev.to/catuai/gpt-5s-quiet-upgrades-that-supercharge-agent-development-31i0)
+- [📄 How to Write a PRD &lpar;Product Requirement Document&rpar; — and Why It’s Your Project’s Best Friend](https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2)
+- [Celebrating 1 Year of QAlogy: From Idea to Reality](https://dev.to/qalogy/celebrating-1-year-of-qalogy-from-idea-to-reality-2kp3)
+- [🚀 Understanding the Docker Lifecycle with a Simple App](https://dev.to/latchudevops/understanding-the-docker-lifecycle-with-a-simple-app-3a5e)
+- [WTF is Component-Driven Architecture?](https://dev.to/dailybugle33/wtf-is-component-driven-architecture-l51)
 <!-- BLOG-POST-LIST:END -->
 
 
