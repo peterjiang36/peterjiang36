@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
-- [Part 6:Collecting Data Without Overcomplication](https://dev.to/sanaipei001/part-6collecting-data-without-overcomplication-2g67)
-- [Part 5:Beginner-Friendly Data Tools](https://dev.to/sanaipei001/part-5beginner-friendly-data-tools-2idb)
-- [My first day in Payilagam](https://dev.to/abishek_44a09d1e1af19b4ca/my-first-day-in-payilagam-36am)
+- [Local MongoDB Replica Set Cluster for Real-Time Container Apps &lpar;with Mongo Express&rpar;](https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi)
+- [Compiling Docker in RISC-V](https://dev.to/danielmx/compiling-docker-in-risc-v-5100)
+- [Understanding Programming Paradigms: Structured, Functional, and Object-Oriented Programming](https://dev.to/lovestaco/understanding-programming-paradigms-structured-functional-and-object-oriented-programming-11j5)
+- [100 Days of DevOps: Day 6](https://dev.to/wycliffealphus/100-days-of-devops-day-6-53hb)
 <!-- BLOG-POST-LIST:END -->
 
 
