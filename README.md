@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Formulation Optimization for Targeted Immunoadjuvant Peptide Delivery in Injectable Immunotherapy](https://dev.to/freederia-research/automated-formulation-optimization-for-targeted-immunoadjuvant-peptide-delivery-in-injectable-48bg)
-- [&lpar;Low&rpar;Code Maturity Model](https://dev.to/ggondim/lowcode-maturity-model-105e)
-- [NautilusTrader: The Open-Source Trading Platform](https://dev.to/kpcofgs/nautilustrader-the-open-source-trading-platform-5dji)
-- [A Beginner-Friendly Guide to Docs as Code &amp; CI/CD Pipelines](https://dev.to/uzukwu_michael_91a95b823b/a-beginner-friendly-guide-to-docs-as-code-cicd-pipelines-470l)
+- [printfy - printf, vprintf, sprintf, vsprintf](https://dev.to/indianmodassir/printfy-printf-vprintf-sprintf-vsprintf-2fmo)
+- [Protect Privacy Against Deepfakes Now!](https://dev.to/sebastian_reid999/protect-privacy-against-deepfakes-now-2p1i)
+- [Daily JavaScript Challenge #JS-246: Binary to Decimal Converter](https://dev.to/dpc/daily-javascript-challenge-js-246-binary-to-decimal-converter-3353)
+- [IGN: Super Robot Wars Y - Official Demo Trailer](https://dev.to/gg_news/ign-super-robot-wars-y-official-demo-trailer-3mj3)
 <!-- BLOG-POST-LIST:END -->
 
 
