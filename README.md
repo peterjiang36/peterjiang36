@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: A Simple Twist Of Fate](https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go)
-- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 4&rpar; – Authentication Logic](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag)
-- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-iec)
-- [How to create a deployment in Kubernetes](https://dev.to/said_olano/how-to-create-a-deployment-in-kubernetes-mn5)
+- [Take me with you &lpar;My AI Song&rpar;](https://dev.to/jacklehamster/take-me-with-you-my-ai-song-55ep)
+- [راهنمای جامع و کامل تنظیم پروژه در جیرا &lpar;Jira&rpar; از صفر تا صد](https://dev.to/parizad/rhnmy-jm-w-khml-tnzym-prwjh-dr-jyr-jira-z-sfr-t-sd-1hp8)
+- [Why Vibe Coding Isn&#39;t the AI Utopia You Think It Is](https://dev.to/hiruthicsha/why-vibe-coding-isnt-the-ai-utopia-you-think-it-is-1kf9)
+- [Optimize Next.js Performance with Smart Code Splitting: What to Load, When, and Why](https://dev.to/boopykiki/optimize-nextjs-performance-with-smart-code-splitting-what-to-load-when-and-why-9l1)
 <!-- BLOG-POST-LIST:END -->
 
 
