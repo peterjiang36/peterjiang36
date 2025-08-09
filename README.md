@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 I recently attended a DevOps interview – here are the questions they asked me:](https://dev.to/iragani_vamsisai_5a349cc/i-recently-attended-a-devops-interview-here-are-the-questions-they-asked-me-3k25)
-- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/cloning-a-website-taught-me-more-than-tutorials-did-3bgg)
-- [Rick Shiels Golf: My Golf Improved!!!](https://dev.to/youtube_golf/rick-shiels-golf-my-golf-improved-4k4o)
-- [Cybersecurity Learning Journey: Reposting with Clarity](https://dev.to/hills/cybersecurity-learning-journey-reposting-with-clarity-50nc)
+- [How to setup Airtable MCP for effective work manahement 💻📊](https://dev.to/composiodev/how-to-setup-airtable-mcp-for-effective-work-manahement-1akm)
+- [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
+- [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
 <!-- BLOG-POST-LIST:END -->
 
 
