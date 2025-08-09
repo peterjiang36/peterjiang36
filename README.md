@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Truth About AI&#39;s Impact on New Developers](https://dev.to/beyond-code/the-truth-about-ais-impact-on-new-developers-2b99)
-- [Solomon Protocol: Job/Recruiter Game Changer with Redis AI](https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon)
-- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://dev.to/neerajlovecyber/brazil-hit-by-ai-phishing-and-efimer-crypto-trojan-1oc2)
-- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
+- [Cloning a website taught me more than tutorials did.](https://dev.to/dshree/css-basics-you-must-master-box-model-display-property-inline-vs-block-and-making-circles-fbj)
+- [Why Android SBCs Are Gaining Momentum in Embedded Applications](https://dev.to/jasonliu112/why-android-sbcs-are-gaining-momentum-in-embedded-applications-29m7)
+- [Beyond WordPress: Lightweight PHP CMS Alternatives for Fitness Equipment E-Commerce](https://dev.to/ntaifitness/beyond-wordpress-lightweight-php-cms-alternatives-for-fitness-equipment-e-commerce-2h62)
+- [Your OOP code looks fine: The Liskov Violation SILENTLY Breaking Production!](https://dev.to/xuan_56087d315ff4f52254e6/your-oop-code-looks-fine-the-liskov-violation-silently-breaking-production-3m4k)
 <!-- BLOG-POST-LIST:END -->
 
 
