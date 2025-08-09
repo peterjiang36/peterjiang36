@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [printfy - printf, vprintf, sprintf, vsprintf](https://dev.to/indianmodassir/printfy-printf-vprintf-sprintf-vsprintf-2fmo)
-- [Protect Privacy Against Deepfakes Now!](https://dev.to/sebastian_reid999/protect-privacy-against-deepfakes-now-2p1i)
-- [Daily JavaScript Challenge #JS-246: Binary to Decimal Converter](https://dev.to/dpc/daily-javascript-challenge-js-246-binary-to-decimal-converter-3353)
-- [IGN: Super Robot Wars Y - Official Demo Trailer](https://dev.to/gg_news/ign-super-robot-wars-y-official-demo-trailer-3mj3)
+- [The Truth About AI&#39;s Impact on New Developers](https://dev.to/beyond-code/the-truth-about-ais-impact-on-new-developers-2b99)
+- [Solomon Protocol: Job/Recruiter Game Changer with Redis AI](https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon)
+- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://dev.to/neerajlovecyber/brazil-hit-by-ai-phishing-and-efimer-crypto-trojan-1oc2)
+- [Day 15 - Add a Coffee Plan Form](https://dev.to/railsstudent/day-15-add-a-coffee-plan-form-5aa2)
 <!-- BLOG-POST-LIST:END -->
 
 
