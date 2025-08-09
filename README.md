@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: How to Enable SecureBoot for PC &lpar;for Battlefield 6&rpar;](https://dev.to/gg_news/ign-how-to-enable-secureboot-for-pc-for-battlefield-6-k39)
-- [Is GenAI Making Us Mentally Lazy ?](https://dev.to/sushil2k4/is-genai-making-us-mentally-lazy--4jmo)
-- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
-- [Part 2: Web Server Mastery - Serving Static Content Like a Pro](https://dev.to/unkletayo/part-2-web-server-mastery-serving-static-content-like-a-pro-1m0i)
+- [More Thoughts on My Mental Model for Understanding Data Structures and Algorithms](https://dev.to/lusayo_ny/more-thoughts-on-my-mental-model-for-understanding-data-structures-and-algorithms-2e90)
+- [Bankrupt Clock: After the Hack - WLH Challenge](https://dev.to/ariondev/bankrupt-clock-after-the-hack-wlh-challenge-4bhb)
+- [Trixie has arrived!](https://dev.to/tracywhodoesnot/trixie-has-arrived-2299)
+- [The Shell Safety Net I Wanted GPT-5 to Be - So I Built It](https://dev.to/gitswhy/the-shell-safety-net-i-wanted-gpt-5-to-be-so-i-built-it-4h8)
 <!-- BLOG-POST-LIST:END -->
 
 
