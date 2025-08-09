@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Agile: Best Practices for Success](https://dev.to/vjnvisakh/mastering-agile-best-practices-for-success-2he2)
-- [Wear OS apps with Flutter &lpar;3/4&rpar;: Using Platform Channels to implement custom functionality &lpar;location &amp; user text input&rpar;](https://dev.to/shu8/wear-os-apps-with-flutter-34-using-platform-channels-to-implement-custom-functionality-2c4g)
-- [Implementing Offline-First Architecture in Flutter: Part 1 - Local Storage with Conflict Resolution](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-1-local-storage-with-conflict-resolution-4mdl)
-- [AI Agentic Kiro- Empowering Intelligent Agents](https://dev.to/adelinemakokha/ai-agentic-kiro-empowering-intelligent-agents-426h)
+- [OUTLINE: TIPS BELAJAR MENGHAFAL DENGAN CEPAT](https://dev.to/gunadarma/outline-tips-belajar-menghafal-dengan-cepat-4hik)
+- [🫆SUDO AND ACL: Basics](https://dev.to/sahillearninglinux/sudo-and-acl-basics-5cm9)
+- [The Day My Flutter IDE Went Silent](https://dev.to/bestaoui_aymen/the-day-my-flutter-ide-went-silent-3f4l)
+- [Aprendendo TI de Graça](https://dev.to/vitormours/aprendendo-ti-de-graca-34a2)
 <!-- BLOG-POST-LIST:END -->
 
 
