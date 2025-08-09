@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refining Ideas &amp; Structuring the Plan #34](https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n)
-- [Linear Regression with Gradient Descent](https://dev.to/alvbarros/linear-regression-with-gradient-descent-39p1)
-- [Untitled](https://dev.to/travis_schwartz_6aa3b4bb2/untitled-522a)
-- [CDKTF: Empowering Developers with Infrastructure through CDKTF](https://dev.to/dilldall/cdktf-empowering-developers-with-infrastructure-through-cdktf-53j7)
+- [TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack](https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2)
+- [Save yourself some hours!!!](https://dev.to/asmadi/save-yourself-some-hours-51cf)
+- [🚀 New: EasyTool Downloadable Kits for Shopify Devs](https://dev.to/major19/new-easytool-downloadable-kits-for-shopify-devs-2epo)
+- [Quick Overview of Popular CAD Tools for 2025](https://dev.to/hr21don/quick-overview-of-popular-cad-tools-for-2025-5eep)
 <!-- BLOG-POST-LIST:END -->
 
 
