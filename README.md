@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My New Post](https://dev.to/gokul_nathan_b9552b3fb35b/my-new-post-33h)
-- [Getting pure output from Ansible](https://dev.to/amarao/getting-pure-output-from-ansible-4g5a)
-- [Securing Your Code with AWS Inspector: A Comprehensive Guide to Code Security Scanning](https://dev.to/aws-builders/securing-your-code-with-aws-inspector-a-comprehensive-guide-to-code-security-scanning-499n)
-- [Detailed on Manual Testing ,BVA,Decision Table Testing,Future Of Manual Testing in the Age of AI](https://dev.to/kn_m_0d1ed0f47501b32f0832/detailed-on-manual-testing-bvadecision-table-testingfuture-of-manual-testing-in-the-age-of-ai-23n3)
+- [IGN: How to Enable SecureBoot for PC &lpar;for Battlefield 6&rpar;](https://dev.to/gg_news/ign-how-to-enable-secureboot-for-pc-for-battlefield-6-k39)
+- [Is GenAI Making Us Mentally Lazy ?](https://dev.to/sushil2k4/is-genai-making-us-mentally-lazy--4jmo)
+- [Beyond the Build: How Hackathons Fuel Soft Skills and Personal Growth](https://dev.to/tamyrah/beyond-the-build-how-hackathons-fuel-soft-skills-and-personal-growth-3565)
+- [Part 2: Web Server Mastery - Serving Static Content Like a Pro](https://dev.to/unkletayo/part-2-web-server-mastery-serving-static-content-like-a-pro-1m0i)
 <!-- BLOG-POST-LIST:END -->
 
 
