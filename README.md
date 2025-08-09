@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📄 How to Write a PRD &lpar;Product Requirement Document&rpar; — and Why It’s Your Project’s Best Friend](https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2)
-- [Celebrating 1 Year of QAlogy: From Idea to Reality](https://dev.to/qalogy/celebrating-1-year-of-qalogy-from-idea-to-reality-2kp3)
-- [🚀 Understanding the Docker Lifecycle with a Simple App](https://dev.to/latchudevops/understanding-the-docker-lifecycle-with-a-simple-app-3a5e)
-- [WTF is Component-Driven Architecture?](https://dev.to/dailybugle33/wtf-is-component-driven-architecture-l51)
+- [Mastering Agile: Best Practices for Success](https://dev.to/vjnvisakh/mastering-agile-best-practices-for-success-2he2)
+- [Wear OS apps with Flutter &lpar;3/4&rpar;: Using Platform Channels to implement custom functionality &lpar;location &amp; user text input&rpar;](https://dev.to/shu8/wear-os-apps-with-flutter-34-using-platform-channels-to-implement-custom-functionality-2c4g)
+- [Implementing Offline-First Architecture in Flutter: Part 1 - Local Storage with Conflict Resolution](https://dev.to/anurag_dev/implementing-offline-first-architecture-in-flutter-part-1-local-storage-with-conflict-resolution-4mdl)
+- [AI Agentic Kiro- Empowering Intelligent Agents](https://dev.to/adelinemakokha/ai-agentic-kiro-empowering-intelligent-agents-426h)
 <!-- BLOG-POST-LIST:END -->
 
 
