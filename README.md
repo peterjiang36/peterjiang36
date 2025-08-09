@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Different Types of Data](https://dev.to/sanaipei001/the-different-types-of-data-15l6)
-- [How to Build a Fully Responsive Website with Bubble](https://dev.to/ebereplenty/how-to-build-a-fully-responsive-website-with-bubble-4ffj)
-- [Understanding useRef in React: What It Is and Why It’s Useful](https://dev.to/safal_bhandari/understanding-useref-in-react-what-it-is-and-why-its-useful-d3g)
-- [What Exactly Is Data?](https://dev.to/sanaipei001/what-exactly-is-data-1le)
+- [The Game Theorists: Game Theory: Can ANYONE Save Amanda the Adventurer?](https://dev.to/gg_news/the-game-theorists-game-theory-can-anyone-save-amanda-the-adventurer-39mi)
+- [Part 6:Collecting Data Without Overcomplication](https://dev.to/sanaipei001/part-6collecting-data-without-overcomplication-2g67)
+- [Part 5:Beginner-Friendly Data Tools](https://dev.to/sanaipei001/part-5beginner-friendly-data-tools-2idb)
+- [My first day in Payilagam](https://dev.to/abishek_44a09d1e1af19b4ca/my-first-day-in-payilagam-36am)
 <!-- BLOG-POST-LIST:END -->
 
 
