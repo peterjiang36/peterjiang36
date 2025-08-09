@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack](https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2)
-- [Save yourself some hours!!!](https://dev.to/asmadi/save-yourself-some-hours-51cf)
-- [🚀 New: EasyTool Downloadable Kits for Shopify Devs](https://dev.to/major19/new-easytool-downloadable-kits-for-shopify-devs-2epo)
-- [Quick Overview of Popular CAD Tools for 2025](https://dev.to/hr21don/quick-overview-of-popular-cad-tools-for-2025-5eep)
+- [🧠 MindMirror: Real-time Mental Health Analysis with RedisAI](https://dev.to/looneyrichie/mindmirror-real-time-mental-health-analysis-with-redisai-2c9p)
+- [How .aggregate&lpar;&rpar; Powered Our Learner &amp; Income Analytics in MongoDB](https://dev.to/dorcie-dee/how-aggregate-powered-our-learner-income-analytics-in-mongodb-jdg)
+- [Turning My Notes Into Audio with AWS &lpar;Serverless + Terraform&rpar;](https://dev.to/sherif_san/turning-my-notes-into-audio-with-aws-serverless-terraform-572c)
+- [🧠 GenAI as a Backend Engineer: Part 2 - Vector DBs](https://dev.to/yuvraj2112/genai-as-a-backend-engineer-part-2-vector-dbs-2n66)
 <!-- BLOG-POST-LIST:END -->
 
 
