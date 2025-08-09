@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Airtable MCP for effective work manahement 💻📊](https://dev.to/composiodev/how-to-setup-airtable-mcp-for-effective-work-manahement-1akm)
-- [Starting The Cloud Resume Challenge](https://dev.to/vishal_ghoshroy/starting-the-cloud-resume-challenge-31cl)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `54`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-54-42b6)
-- [DevOps Skills Alone Aren’t Enough - Here’s Why](https://dev.to/yoshik_karnawat/devops-skills-alone-arent-enough-heres-why-4kb5)
+- [Rick Beato: A Simple Twist Of Fate](https://dev.to/music_youtube/rick-beato-a-simple-twist-of-fate-42go)
+- [Building Cursor Powered App: A Devlog Series, Powered by Cursor &lpar;Part 4&rpar; – Authentication Logic](https://dev.to/hrnlrsyd/building-cursor-powered-app-a-devlog-series-powered-by-cursor-part-4-authentication-logic-39ag)
+- [Understanding SQL Commands in a Customer-Sales Database](https://dev.to/lagat_josiah_f024a2c855bc/understanding-sql-commands-in-a-customer-sales-database-iec)
+- [How to create a deployment in Kubernetes](https://dev.to/said_olano/how-to-create-a-deployment-in-kubernetes-mn5)
 <!-- BLOG-POST-LIST:END -->
 
 
