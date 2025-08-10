@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Towards more accountability of Raku programs](https://dev.to/lizmat/towards-more-accountability-of-raku-programs-3g2)
-- [Lexis Link](https://dev.to/nadinev/lexis-link-185l)
-- [Amazon S3 – Pre-Signed URLs: My Experience Making File Sharing Easier](https://dev.to/aws-builders/amazon-s3-pre-signed-urls-my-experience-making-file-sharing-easier-3i4p)
-- [Designing for Sustainability: The Rise of Green Software](https://dev.to/arjun_mullick_e734b4da656/designing-for-sustainability-the-rise-of-green-software-41op)
+- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
+- [Elegant Middleware Architecture Implementation&lpar;7420&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation7420-5746)
+- [The Real Way New Developers Should Be Using AI Tools](https://dev.to/beyond-code/the-real-way-new-developers-should-be-using-ai-tools-1bem)
+- [Defining 15 Common Data Engineering Concepts](https://dev.to/elvis_mwangi_/defining-15-common-data-engineering-concepts-1d34)
 <!-- BLOG-POST-LIST:END -->
 
 
