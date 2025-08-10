@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Beginner Coding Projects That Instantly Level Up Your Skills 🔥](https://dev.to/beyond-code/7-beginner-coding-projects-that-instantly-level-up-your-skills-15jm)
-- [AI Threats: Facing Smart Cyber Attacks Today](https://dev.to/sebastian_reid999/ai-threats-facing-smart-cyber-attacks-today-1p3j)
-- [Daily JavaScript Challenge #JS-247: Find the Largest Integer Per Row in a Matrix](https://dev.to/dpc/daily-javascript-challenge-js-247-find-the-largest-integer-per-row-in-a-matrix-cd0)
-- [Tokens &amp; Tokenization: The Science Behind LLM Costs, Quality, and Output](https://dev.to/cristiansifuentes/tokens-tokenization-the-science-behind-llm-costs-quality-and-output-577h)
+- [AI Governance: Why It Matters Now More Than Ever for Our Digital Future](https://dev.to/jay_all_day/ai-governance-why-it-matters-now-more-than-ever-for-our-digital-future-f5c)
+- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-4l6j)
+- [How Technology Is Transforming Hospitality Careers: The Role of Online Platforms and AI in Job Matching](https://dev.to/israt_jahan_brisy/how-technology-is-transforming-hospitality-careers-the-role-of-online-platforms-and-ai-in-job-3m3h)
+- [Destroy Builds Device - UEFN verse](https://dev.to/kingcalc/destroy-builds-device-uefn-verse-51nk)
 <!-- BLOG-POST-LIST:END -->
 
 
