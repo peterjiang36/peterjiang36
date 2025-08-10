@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
-- [_$t$ out of $n$_ with `dcipher` and without](https://dev.to/skaunov/t-out-of-n-with-dcipher-and-without-19he)
-- [🌟 Evolution in Tech: Moving from Monolith to Microservices 🚀](https://dev.to/varun_gor_d8556a6135dfcf5/evolution-in-tech-moving-from-monolith-to-microservices-37gm)
-- [claude code](https://dev.to/peak_tom_7fe2ed1d11aefd01/claude-code-o05)
+- [Stop Using TypeScript Types This Way - Opt for the Map Pattern Instead](https://dev.to/gouranga-das-khulna/stop-using-typescript-types-this-way-opt-for-the-map-pattern-instead-1aoi)
+- [Cross-Platform Web Development Without Compromise&lpar;5849&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise5849-lio)
+- [Angular 20: Everything You Need to Know It](https://dev.to/kodmatrix/angular-20-everything-you-need-to-know-it-2f56)
+- [NEAR vs. Polkadot: The Parachain Paradox](https://dev.to/kerofitton/near-vs-polkadot-the-parachain-paradox-2pd9)
 <!-- BLOG-POST-LIST:END -->
 
 
