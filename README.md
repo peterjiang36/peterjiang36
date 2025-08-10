@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 12:Your First Data Project &lpar;A Step-by-Step Guide&rpar;](https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj)
-- [Part 11:Avoiding Common Beginner Mistakes](https://dev.to/sanaipei001/part-11avoiding-common-beginner-mistakes-2f9h)
-- [Part 10:Storytelling With Data](https://dev.to/sanaipei001/part-10storytelling-with-data-3l7p)
-- [GitPod For Developer Workspace](https://dev.to/giridharan_devops/gitpod-for-developer-workspace-5do1)
+- [Zero-Bundle Angular: Exploring Standalone Components and Tree-Shaking Techniques](https://dev.to/karol_modelski/zero-bundle-angular-exploring-standalone-components-and-tree-shaking-techniques-2gfc)
+- [ESS Utumishi – Making Government Services Simple and Accessible](https://dev.to/zubizubi/ess-utumishi-making-government-services-simple-and-accessible-2nd1)
+- [Smart Routing &amp; Auto Scaling with ALB and ASG in AWS - Part 2](https://dev.to/akashabish/smart-routing-auto-scaling-with-alb-and-asg-in-aws-part-2-448e)
+- [Commonly Confused AWS Services](https://dev.to/fazly_fathhy/commonly-confused-aws-services-2l8b)
 <!-- BLOG-POST-LIST:END -->
 
 
