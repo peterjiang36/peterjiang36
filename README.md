@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CamSecure V2 – Advanced Web-Based Surveillance for Modern Security Needs](https://dev.to/mayankchawdhari/camsecure-v2-advanced-web-based-surveillance-for-modern-security-needs-o70)
-- [Serverless and Microservices Architecture](https://dev.to/shivam_malik_9dc6cb90e9e2/serverless-and-microservices-architecture-9fh)
-- [WTF is Autonomous Systems?](https://dev.to/dailybugle33/wtf-is-autonomous-systems-43d)
-- [The Trixzon Protocol: Turning Caffeine and Chaos into Capital](https://dev.to/jack_higar_f9b07d182558d2/the-trixzon-protocol-turning-caffeine-and-chaos-into-capital-1g2)
+- [Supply Chain Security: Third-Party Risk Assessment Framework](https://dev.to/rafalw3bcraft/supply-chain-security-third-party-risk-assessment-framework-3jkm)
+- [Cryptographic Implementation Flaws: Modern Encryption Analysis](https://dev.to/rafalw3bcraft/cryptographic-implementation-flaws-modern-encryption-analysis-2jjj)
+- [API Security Testing: GraphQL and REST Vulnerability Assessment](https://dev.to/rafalw3bcraft/api-security-testing-graphql-and-rest-vulnerability-assessment-3md1)
+- [Cloud Security Architecture: Multi-Cloud Protection Strategies](https://dev.to/rafalw3bcraft/cloud-security-architecture-multi-cloud-protection-strategies-2h48)
 <!-- BLOG-POST-LIST:END -->
 
 
