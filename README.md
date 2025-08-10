@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Latency Optimization Secrets for Millisecond Response Times&lpar;5074&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times5074-3olh)
-- [The 3 React Concepts You Must Master &lpar;The Definitive Guide&rpar;](https://dev.to/abdul_fadiga_1f402d165920/the-3-react-concepts-you-must-master-the-definitive-guide-3ng5)
-- [A Scalable Route Optimization System for School &amp; Staff Transportation](https://dev.to/emrahg/a-scalable-route-optimization-system-for-school-staff-transportation-2pb2)
-- [Building an AI-Powered Anomaly Detection System with Redis 8: Beyond Traditional Caching](https://dev.to/ntanwir10/building-an-ai-powered-anomaly-detection-system-with-redis-8-beyond-traditional-caching-1j7i)
+- [💬 From Rejection to Revolution: The Engineering Brilliance Behind WhatsApp](https://dev.to/alifa_ara_heya/from-rejection-to-revolution-the-engineering-brilliance-behind-whatsapp-1ij)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;1887&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers1887-3dhp)
+- [To-do App with React Native: What I Built &amp; What I Learned](https://dev.to/akcumeh/to-do-app-with-react-native-what-i-built-what-i-learned-4hej)
+- [15 Must-Know Data Engineering Tricks](https://dev.to/hilary_wambwa_dd49d0404fa/15-must-know-data-engineering-tricks-18ec)
 <!-- BLOG-POST-LIST:END -->
 
 
