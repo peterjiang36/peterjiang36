@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 MindMirror: Real-time Mental Health Analysis with RedisAI](https://dev.to/looneyrichie/mindmirror-real-time-mental-health-analysis-with-redisai-2c9p)
-- [How .aggregate&lpar;&rpar; Powered Our Learner &amp; Income Analytics in MongoDB](https://dev.to/dorcie-dee/how-aggregate-powered-our-learner-income-analytics-in-mongodb-jdg)
-- [Turning My Notes Into Audio with AWS &lpar;Serverless + Terraform&rpar;](https://dev.to/sherif_san/turning-my-notes-into-audio-with-aws-serverless-terraform-572c)
-- [🧠 GenAI as a Backend Engineer: Part 2 - Vector DBs](https://dev.to/yuvraj2112/genai-as-a-backend-engineer-part-2-vector-dbs-2n66)
+- [7 Beginner Coding Projects That Instantly Level Up Your Skills 🔥](https://dev.to/beyond-code/7-beginner-coding-projects-that-instantly-level-up-your-skills-15jm)
+- [AI Threats: Facing Smart Cyber Attacks Today](https://dev.to/sebastian_reid999/ai-threats-facing-smart-cyber-attacks-today-1p3j)
+- [Daily JavaScript Challenge #JS-247: Find the Largest Integer Per Row in a Matrix](https://dev.to/dpc/daily-javascript-challenge-js-247-find-the-largest-integer-per-row-in-a-matrix-cd0)
+- [Tokens &amp; Tokenization: The Science Behind LLM Costs, Quality, and Output](https://dev.to/cristiansifuentes/tokens-tokenization-the-science-behind-llm-costs-quality-and-output-577h)
 <!-- BLOG-POST-LIST:END -->
 
 
