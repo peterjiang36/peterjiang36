@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Security: Third-Party Risk Assessment Framework](https://dev.to/rafalw3bcraft/supply-chain-security-third-party-risk-assessment-framework-3jkm)
-- [Cryptographic Implementation Flaws: Modern Encryption Analysis](https://dev.to/rafalw3bcraft/cryptographic-implementation-flaws-modern-encryption-analysis-2jjj)
-- [API Security Testing: GraphQL and REST Vulnerability Assessment](https://dev.to/rafalw3bcraft/api-security-testing-graphql-and-rest-vulnerability-assessment-3md1)
-- [Cloud Security Architecture: Multi-Cloud Protection Strategies](https://dev.to/rafalw3bcraft/cloud-security-architecture-multi-cloud-protection-strategies-2h48)
+- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
+- [_$t$ out of $n$_ with `dcipher` and without](https://dev.to/skaunov/t-out-of-n-with-dcipher-and-without-19he)
+- [🌟 Evolution in Tech: Moving from Monolith to Microservices 🚀](https://dev.to/varun_gor_d8556a6135dfcf5/evolution-in-tech-moving-from-monolith-to-microservices-37gm)
+- [claude code](https://dev.to/peak_tom_7fe2ed1d11aefd01/claude-code-o05)
 <!-- BLOG-POST-LIST:END -->
 
 
