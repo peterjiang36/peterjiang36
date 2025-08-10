@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using TypeScript Types This Way - Opt for the Map Pattern Instead](https://dev.to/gouranga-das-khulna/stop-using-typescript-types-this-way-opt-for-the-map-pattern-instead-1aoi)
-- [Cross-Platform Web Development Without Compromise&lpar;5849&rpar;](https://dev.to/socket-use/cross-platform-web-development-without-compromise5849-lio)
-- [Angular 20: Everything You Need to Know It](https://dev.to/kodmatrix/angular-20-everything-you-need-to-know-it-2f56)
-- [NEAR vs. Polkadot: The Parachain Paradox](https://dev.to/kerofitton/near-vs-polkadot-the-parachain-paradox-2pd9)
+- [📬 Automate Email Attachments to Telegram with Python + Render.com](https://dev.to/pavithranp12/automate-email-attachments-to-telegram-with-python-rendercom-3p7j)
+- [Part 1 - High Volume Ticket Booking System using C#, EF Core, Redis Cache and SQL Server](https://dev.to/bigboybamo/part-1-high-volume-ticket-booking-system-using-c-ef-core-redis-cache-and-sql-server-3oc)
+- [I Built a Flutter Theme Generator to Automate Material 3 Theming. Here’s How.](https://dev.to/mukhbit/i-built-a-flutter-theme-generator-to-automate-material-3-theming-heres-how-2fbj)
+- [Making Time](https://dev.to/adamghill/making-time-4ij0)
 <!-- BLOG-POST-LIST:END -->
 
 
