@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-53ae)
-- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-23f6)
-- [HTTP Request Processing with Zero-Copy Optimization&lpar;2129&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization2129-3c5h)
-- [Problem Solving Misunderstood](https://dev.to/oliver_butler_a52c1be144d/problem-solving-misunderstood-5hm4)
+- [Krish Naik: In 2025 What Should You Learn In AI ?](https://dev.to/vibe_youtube/krish-naik-in-2025-what-should-you-learn-in-ai--3i91)
+- [Writing AI prompts felt like writing essays](https://dev.to/miguelaeh/writing-ai-prompts-felt-like-writing-essays-3h6n)
+- [Day 29 Of Dsa Problem Solving](https://dev.to/abhishek-nexgen-dev/day-29-of-dsa-problem-solving-3m11)
+- [Ngrok - Your Localhost’s Passport to the Internet](https://dev.to/azad_e0b5646e18c4b167685a/ngrok-your-localhosts-passport-to-the-internet-40i1)
 <!-- BLOG-POST-LIST:END -->
 
 
