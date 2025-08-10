@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Go&#39;s CSP Model: Goroutines and Channels](https://dev.to/leapcell/understanding-gos-csp-model-goroutines-and-channels-4i87)
-- [Elegant Middleware Architecture Implementation&lpar;7420&rpar;](https://dev.to/socket-use/elegant-middleware-architecture-implementation7420-5746)
-- [The Real Way New Developers Should Be Using AI Tools](https://dev.to/beyond-code/the-real-way-new-developers-should-be-using-ai-tools-1bem)
-- [Defining 15 Common Data Engineering Concepts](https://dev.to/elvis_mwangi_/defining-15-common-data-engineering-concepts-1d34)
+- [Latency Optimization Secrets for Millisecond Response Times&lpar;5074&rpar;](https://dev.to/socket-use/latency-optimization-secrets-for-millisecond-response-times5074-3olh)
+- [The 3 React Concepts You Must Master &lpar;The Definitive Guide&rpar;](https://dev.to/abdul_fadiga_1f402d165920/the-3-react-concepts-you-must-master-the-definitive-guide-3ng5)
+- [A Scalable Route Optimization System for School &amp; Staff Transportation](https://dev.to/emrahg/a-scalable-route-optimization-system-for-school-staff-transportation-2pb2)
+- [Building an AI-Powered Anomaly Detection System with Redis 8: Beyond Traditional Caching](https://dev.to/ntanwir10/building-an-ai-powered-anomaly-detection-system-with-redis-8-beyond-traditional-caching-1j7i)
 <!-- BLOG-POST-LIST:END -->
 
 
