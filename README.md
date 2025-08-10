@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Bundle Angular: Exploring Standalone Components and Tree-Shaking Techniques](https://dev.to/karol_modelski/zero-bundle-angular-exploring-standalone-components-and-tree-shaking-techniques-2gfc)
-- [ESS Utumishi – Making Government Services Simple and Accessible](https://dev.to/zubizubi/ess-utumishi-making-government-services-simple-and-accessible-2nd1)
-- [Smart Routing &amp; Auto Scaling with ALB and ASG in AWS - Part 2](https://dev.to/akashabish/smart-routing-auto-scaling-with-alb-and-asg-in-aws-part-2-448e)
-- [Commonly Confused AWS Services](https://dev.to/fazly_fathhy/commonly-confused-aws-services-2l8b)
+- [Creating a Dice in TailwindCSS and ReactJs](https://dev.to/dakshim/creating-a-dice-in-tailwindcss-and-reactjs-2fgg)
+- [What’s New in GPT-5: Features, Updates &amp; Why It’s a Game-Changer](https://dev.to/codewithsimon/whats-new-in-gpt-5-features-updates-why-its-a-game-changer-2m50)
+- [The 10-Second Morning Habit That Helps Me Code With More Focus](https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f)
+- [HTML Editors: Choosing and Using Them](https://dev.to/sharique_siddiqui_8242dad/html-editors-choosing-and-using-them-51fh)
 <!-- BLOG-POST-LIST:END -->
 
 
