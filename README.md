@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: In 2025 What Should You Learn In AI ?](https://dev.to/vibe_youtube/krish-naik-in-2025-what-should-you-learn-in-ai--3i91)
-- [Writing AI prompts felt like writing essays](https://dev.to/miguelaeh/writing-ai-prompts-felt-like-writing-essays-3h6n)
-- [Day 29 Of Dsa Problem Solving](https://dev.to/abhishek-nexgen-dev/day-29-of-dsa-problem-solving-3m11)
-- [Ngrok - Your Localhost’s Passport to the Internet](https://dev.to/azad_e0b5646e18c4b167685a/ngrok-your-localhosts-passport-to-the-internet-40i1)
+- [WebSocket Revolution in Real-Time Communication&lpar;9730&rpar;](https://dev.to/socket-use/websocket-revolution-in-real-time-communication9730-45n8)
+- [Your First Step into the World of Code with Dart](https://dev.to/mohammed_abdelmoniemkame/your-first-step-into-the-world-of-code-with-dart-463b)
+- [AI Agents + Judge + Cron Job + Self-Learning Loop = The Pathway to AGI ?](https://dev.to/adil_maqsood_2ac3c8ead50c/ai-agents-judge-cron-job-self-learning-loop-the-pathway-to-agi--3doc)
+- [Beyond the Numbers: How to Succeed as an Analyst, Grow in Your Career, and Avoid Burnout. Part 2](https://dev.to/sergome/beyond-the-numbers-how-to-succeed-as-an-analyst-grow-in-your-career-and-avoid-burnout-part-2-34af)
 <!-- BLOG-POST-LIST:END -->
 
 
