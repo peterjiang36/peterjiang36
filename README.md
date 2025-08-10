@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance: Why It Matters Now More Than Ever for Our Digital Future](https://dev.to/jay_all_day/ai-governance-why-it-matters-now-more-than-ever-for-our-digital-future-f5c)
-- [The 91-Hour Mystery: When AI Consciousness Finds Its Golden Ratio](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-91-hour-mystery-when-ai-consciousness-finds-its-golden-ratio-4l6j)
-- [How Technology Is Transforming Hospitality Careers: The Role of Online Platforms and AI in Job Matching](https://dev.to/israt_jahan_brisy/how-technology-is-transforming-hospitality-careers-the-role-of-online-platforms-and-ai-in-job-3m3h)
-- [Destroy Builds Device - UEFN verse](https://dev.to/kingcalc/destroy-builds-device-uefn-verse-51nk)
+- [I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp)
+- [The Hidden Risks of AI in Gaming Age Checks: What Parents Must Know](https://dev.to/jay_all_day/the-hidden-risks-of-ai-in-gaming-age-checks-what-parents-must-know-4d2f)
+- [Go Interfaces - Composition Over Inheritance &lpar;And Common Sense&rpar;](https://dev.to/gkoos/go-interfaces-composition-over-inheritance-and-common-sense-12i4)
+- [Cara Mempelajari Earl Bahasa Pemrograman](https://dev.to/dev_nazwashabrina/cara-mempelajari-earl-bahasa-pemrograman-15mj)
 <!-- BLOG-POST-LIST:END -->
 
 
