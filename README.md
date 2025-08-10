@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Git Commands You Probably Don’t Know &lpar;But Should&rpar;](https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl)
-- [MY FAST PROGRAMMING , html,css,nextjs . and before python](https://dev.to/vivek_kumar_7590376/my-fast-programming-htmlcssnextjs-and-before-python-3lpk)
-- [INSTALL QEMU KVM On Linux &lpar;i.e. Debian/Ubuntu Like Distro&rpar;](https://dev.to/harry_tanama_51571ebf90b6/install-qemu-kvm-on-linux-ie-debianubuntu-like-distro-2816)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4dj0)
+- [Part 12:Your First Data Project &lpar;A Step-by-Step Guide&rpar;](https://dev.to/sanaipei001/part-12your-first-data-project-a-step-by-step-guide-3knj)
+- [Part 11:Avoiding Common Beginner Mistakes](https://dev.to/sanaipei001/part-11avoiding-common-beginner-mistakes-2f9h)
+- [Part 10:Storytelling With Data](https://dev.to/sanaipei001/part-10storytelling-with-data-3l7p)
+- [GitPod For Developer Workspace](https://dev.to/giridharan_devops/gitpod-for-developer-workspace-5do1)
 <!-- BLOG-POST-LIST:END -->
 
 
