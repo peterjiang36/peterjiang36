@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📬 Automate Email Attachments to Telegram with Python + Render.com](https://dev.to/pavithranp12/automate-email-attachments-to-telegram-with-python-rendercom-3p7j)
-- [Part 1 - High Volume Ticket Booking System using C#, EF Core, Redis Cache and SQL Server](https://dev.to/bigboybamo/part-1-high-volume-ticket-booking-system-using-c-ef-core-redis-cache-and-sql-server-3oc)
-- [I Built a Flutter Theme Generator to Automate Material 3 Theming. Here’s How.](https://dev.to/mukhbit/i-built-a-flutter-theme-generator-to-automate-material-3-theming-heres-how-2fbj)
-- [Making Time](https://dev.to/adamghill/making-time-4ij0)
+- [Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar](https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l)
+- [Build a Social Media Automation Tool Using SMM Panel API](https://dev.to/techdude/build-a-social-media-automation-tool-using-smm-panel-api-2m8c)
+- [Skills Over Papers: Embracing Practical Knowledge and AI in Modern Software Development](https://dev.to/master_ngunezi_c689b59032/skills-over-papers-embracing-practical-knowledge-and-ai-in-modern-software-development-1ekg)
+- [Middleware Architecture Patterns for Request Processing&lpar;1333&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing1333-26b4)
 <!-- BLOG-POST-LIST:END -->
 
 
