@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dice in TailwindCSS and ReactJs](https://dev.to/dakshim/creating-a-dice-in-tailwindcss-and-reactjs-2fgg)
-- [What’s New in GPT-5: Features, Updates &amp; Why It’s a Game-Changer](https://dev.to/codewithsimon/whats-new-in-gpt-5-features-updates-why-its-a-game-changer-2m50)
-- [The 10-Second Morning Habit That Helps Me Code With More Focus](https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f)
-- [HTML Editors: Choosing and Using Them](https://dev.to/sharique_siddiqui_8242dad/html-editors-choosing-and-using-them-51fh)
+- [CamSecure V2 – Advanced Web-Based Surveillance for Modern Security Needs](https://dev.to/mayankchawdhari/camsecure-v2-advanced-web-based-surveillance-for-modern-security-needs-o70)
+- [Serverless and Microservices Architecture](https://dev.to/shivam_malik_9dc6cb90e9e2/serverless-and-microservices-architecture-9fh)
+- [WTF is Autonomous Systems?](https://dev.to/dailybugle33/wtf-is-autonomous-systems-43d)
+- [The Trixzon Protocol: Turning Caffeine and Chaos into Capital](https://dev.to/jack_higar_f9b07d182558d2/the-trixzon-protocol-turning-caffeine-and-chaos-into-capital-1g2)
 <!-- BLOG-POST-LIST:END -->
 
 
