@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar](https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l)
-- [Build a Social Media Automation Tool Using SMM Panel API](https://dev.to/techdude/build-a-social-media-automation-tool-using-smm-panel-api-2m8c)
-- [Skills Over Papers: Embracing Practical Knowledge and AI in Modern Software Development](https://dev.to/master_ngunezi_c689b59032/skills-over-papers-embracing-practical-knowledge-and-ai-in-modern-software-development-1ekg)
-- [Middleware Architecture Patterns for Request Processing&lpar;1333&rpar;](https://dev.to/socket-use/middleware-architecture-patterns-for-request-processing1333-26b4)
+- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-53ae)
+- [Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability](https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-23f6)
+- [HTTP Request Processing with Zero-Copy Optimization&lpar;2129&rpar;](https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization2129-3c5h)
+- [Problem Solving Misunderstood](https://dev.to/oliver_butler_a52c1be144d/problem-solving-misunderstood-5hm4)
 <!-- BLOG-POST-LIST:END -->
 
 
