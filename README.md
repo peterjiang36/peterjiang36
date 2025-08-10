@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Speech-to-Text System with Fine-Tuned Whisper](https://dev.to/afrologicinsect/building-a-production-ready-speech-to-text-system-with-fine-tuned-whisper-132)
-- [Here&#39;s Guide on Support Vector Regression using R](https://dev.to/dipti_m_2e7ba36c478d1a48a/heres-guide-on-support-vector-regression-using-r-1p97)
-- [Building Regression Models in R using Support Vector Regression](https://dev.to/dipti_m_2e7ba36c478d1a48a/building-regression-models-in-r-using-support-vector-regression-3jgp)
-- [Control Points Finder – Real-Time Geospatial Intelligence for Field Engineers Powered by Redis Cloud](https://dev.to/kingisaactt/control-points-finder-real-time-geospatial-intelligence-for-field-engineers-powered-by-redis-cloud-4b93)
+- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;7583&rpar;](https://dev.to/socket-use/revolutionary-performance-breakthrough-in-modern-web-development7583-1240)
+- [OrKa onboarding: example suite, guided tour, and trace replay](https://dev.to/marcosomma/orka-onboarding-example-suite-guided-tour-and-trace-replay-2egf)
+- [From Punch Cards to AI Coders: The Unseen Journey of Software Creation](https://dev.to/arkhan/from-punch-cards-to-ai-coders-the-unseen-journey-of-software-creation-48g8)
+- [Essential Cybersecurity Practices for Small Businesses Without a Tech Team](https://dev.to/terminaltools/essential-cybersecurity-practices-for-small-businesses-without-a-tech-team-2blm)
 <!-- BLOG-POST-LIST:END -->
 
 
