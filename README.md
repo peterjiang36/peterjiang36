@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Routing Systems for Scalable Web Applications&lpar;6442&rpar;](https://dev.to/socket-use/dynamic-routing-systems-for-scalable-web-applications6442-4mfk)
-- [DEBIX Camera Support for ROS2](https://dev.to/debix_computers/debix-camera-support-for-ros2-44a4)
-- [FlashFeed AI News Summarizer](https://dev.to/suleiman_alhajimohammed_/flashfeed-ai-news-summarizer-438i)
-- [Menggunakan OWASP ZAP di Docker untuk DevSecOps Workflow](https://dev.to/ezzeddinp/menggunakan-owasp-zap-di-docker-untuk-devsecops-workflow-24n2)
+- [Cloud-Native AI: Leveraging MCP for Scalable Integrations](https://dev.to/om_shree_0709/cloud-native-ai-leveraging-mcp-for-scalable-integrations-1p9p)
+- [Basics of Investment](https://dev.to/madgan95/basics-of-investment-287d)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;1496&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1496-1j9l)
+- [Resource Management and Memory Efficiency in Web Servers&lpar;3569&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers3569-2e0n)
 <!-- BLOG-POST-LIST:END -->
 
 
