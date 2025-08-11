@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CFC: Context Flow Control – The Next Step Beyond MCP](https://dev.to/grenishrai/cfc-context-flow-control-the-next-step-beyond-mcp-1917)
-- [Rick Shiels Golf: One of the BEST USA public courses I’ve ever played!](https://dev.to/youtube_golf/rick-shiels-golf-one-of-the-best-usa-public-courses-ive-ever-played-5d0f)
-- [IGN: Henry Halfhead - Official Release Date Trailer](https://dev.to/gg_news/ign-henry-halfhead-official-release-date-trailer-1npa)
-- [Dynamics 365 + SharePoint Integration](https://dev.to/aiswaryanambia3/dynamics-365-sharepoint-integration-26hf)
+- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
+- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
+- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
+- [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
 <!-- BLOG-POST-LIST:END -->
 
 
