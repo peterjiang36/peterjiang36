@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Background Fixed Slider with Pure JavaScript IE9+](https://dev.to/istockmarket/background-fixed-slider-with-pure-javascript-ie9-29o)
+- [Reverse-Engineering a Solar Power Station During War: Our Survival Tech Story](https://dev.to/dmytro_novoselskiy_f6de67/reverse-engineering-a-solar-power-station-during-war-our-survival-tech-story-151i)
 - [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
 - [Peter Finch Golf: Scratch Golfer Vs LONGEST DRIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-drivers-in-the-world-peter-finch-vs-martin-borgmeier-4kjh)
-- [IGN: Dungeon Stalkers - Official Launch Story Trailer](https://dev.to/gg_news/ign-dungeon-stalkers-official-launch-story-trailer-1749)
-- [IGN: Don&#39;t Miss These Awesome Indie Fighting Games From Evo 2025 - Indie Game Roundup](https://dev.to/gg_news/ign-dont-miss-these-awesome-indie-fighting-games-from-evo-2025-indie-game-roundup-403i)
 <!-- BLOG-POST-LIST:END -->
 
 
