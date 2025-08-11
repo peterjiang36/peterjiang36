@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Knowledge OS — Turning Any File into Instant, Cited Answers with Redis 8](https://dev.to/jcloud/knowledge-os-turning-any-file-into-instant-cited-answers-with-redis-8-3o1k)
-- [Title: The SWE-Lancer Benchmark: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://dev.to/yagyaraj_sharma_6cd410179/title-the-swe-lancer-benchmark-can-frontier-llms-earn-1-million-from-real-world-freelance-1e0f)
-- [Blog Article:](https://dev.to/yagyaraj_sharma_6cd410179/blog-article-1a3)
-- [Efficient WebSocket Server-Side Processing&lpar;4105&rpar;](https://dev.to/socket-use/efficient-websocket-server-side-processing4105-4jma)
+- [Redact - Real-Time AI-Powered Prompt Security Platform](https://dev.to/vaishakhvipin/redact-real-time-ai-powered-prompt-security-platform-5cl2)
+- [Redact: Real-Time AI-Powered Prompt Security Platform](https://dev.to/vaishakhvipin/redact-real-time-ai-powered-prompt-security-platform-5126)
+- [The Dunning-Kruger Effect - Why Beginners Feel Like Experts](https://dev.to/bharathvaj_ganesan/the-dunning-kruger-effect-why-beginners-feel-like-experts-5f45)
+- [Real-Time Multi-Agent AI Orchestrator for Climate Disaster Response](https://dev.to/haseebarshad/real-time-multi-agent-ai-orchestrator-for-climate-disaster-response-21lc)
 <!-- BLOG-POST-LIST:END -->
 
 
