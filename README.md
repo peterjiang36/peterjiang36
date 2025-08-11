@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Sam Altman Believes Gen Z is the Luckiest Generation in AI Era](https://dev.to/ndmckay/why-sam-altman-believes-gen-z-is-the-luckiest-generation-in-ai-era-gm0)
-- [Bidirectional Communication Patterns in Modern Web Apps&lpar;5757&rpar;](https://dev.to/socket-use/bidirectional-communication-patterns-in-modern-web-apps5757-c5e)
-- [Why We Aren&#39;t Building Another Workflow Tool: Our First-Principles Approach](https://dev.to/maybe_ai/why-we-arent-building-another-workflow-tool-our-first-principles-approach-2dil)
-- [What is AWS Aurora Serverless v2 and why we didn&#39;t use it](https://dev.to/kinde/what-is-aws-aurora-serverless-v2-and-why-we-didnt-use-it-102b)
+- [5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On](https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1)
+- [AWS Timestream Live Analytics for New Users](https://dev.to/aaron_rose_0787cc8b4775a0/aws-timestream-live-analytics-for-new-users-5147)
+- [Home Assistant: Integrating Raspberry Pico Boards](https://dev.to/admantium/home-assistant-integrating-raspberry-pico-boards-29n1)
+- [Vertalk — Real-Time AI Call Agent Powered by Redis 8](https://dev.to/voprp/vertalk-real-time-ai-call-agent-powered-by-redis-8-59b3)
 <!-- BLOG-POST-LIST:END -->
 
 
