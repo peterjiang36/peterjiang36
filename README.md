@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Vitals Optimization Strategies for HTTP/3 and QUIC](https://dev.to/mukhilpadmanabhan/web-vitals-optimization-strategies-for-http3-and-quic-506i)
-- [Understanding Object-Oriented Programming Features in JavaScript](https://dev.to/lovestaco/understanding-object-oriented-programming-features-in-javascript-1472)
-- [The AI Code Generation Security Crisis &lpar;And How We&#39;re Failing to Address It&rpar;](https://dev.to/metaclosure/the-ai-code-generation-security-crisis-and-how-were-failing-to-address-it-3a0g)
-- [Errors V/s Exceptions In Java:](https://dev.to/sundar_joseph_94059a3e7a6/errors-vs-exceptions-in-java-2mdf)
+- [I Like To Make Stuff: I’ve Finally Had Success Aluminum Welding!](https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-had-success-aluminum-welding-8ek)
+- [COLORS: Theo Croker - Wrapped in the Weight | A COLORS SHOW](https://dev.to/music_youtube/colors-theo-croker-wrapped-in-the-weight-a-colors-show-4mi5)
+- [Grant Horvat: The Major Cut @ Pebble Beach](https://dev.to/youtube_golf/grant-horvat-the-major-cut-pebble-beach-4nb7)
+- [Peter Finch Golf: I take on the LONGEST HITTERS in the world!](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-hitters-in-the-world-2hfb)
 <!-- BLOG-POST-LIST:END -->
 
 
