@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Webdock CLI: Say hello to infrastructure as code](https://dev.to/web_learning_4de0b1e0557/introducing-the-webdock-cli-say-hello-to-infrastructure-as-code-5801)
-- [Taking The Cloud Resume Challenge: GCP Style](https://dev.to/smgestupa/taking-the-cloud-resume-challenge-gcp-style-23md)
-- [Smart Image Tagger](https://dev.to/aju21/smart-image-tagger-5afh)
-- [KEXP: Hermanos Gutiérrez - Until We Meet Again &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hermanos-gutierrez-until-we-meet-again-live-on-kexp-1m7a)
+- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
+- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
+- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
+- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
 <!-- BLOG-POST-LIST:END -->
 
 
