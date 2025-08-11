@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vertalk : Supercharge E-cormmerce with Real-Time AI Calls Powered by Redis 8](https://dev.to/abraham_root/vertalk-supercharge-e-cormmerce-with-real-time-ai-calls-powered-by-redis-8-11ka)
-- [Error Handling Strategies in High-Performance Web Servers&lpar;3988&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers3988-49hh)
-- [Part Two - Navigating the Network Maze](https://dev.to/blazebrain/mastering-the-art-of-debugging-in-flutter-part-two-36gf)
-- [&quot;In 2025, cyberattacks are projected to cost the world $10.5 trillion annually — but blockchain could change everything.&quot;](https://dev.to/vidushhi/in-2025-cyberattacks-are-projected-to-cost-the-world-105-trillion-annually-but-blockchain-5dal)
+- [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga)
+- [Perl 🐪 Weekly #733 - Perl using AI](https://dev.to/szabgab/perl-weekly-733-perl-using-ai-4kp0)
+- [Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example](https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh)
+- [SQL HAVING Explained: Filter Grouped Data With Ease](https://dev.to/dbvismarketing/sql-having-explained-filter-grouped-data-with-ease-5fjd)
 <!-- BLOG-POST-LIST:END -->
 
 
