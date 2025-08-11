@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud-Native AI: Leveraging MCP for Scalable Integrations](https://dev.to/om_shree_0709/cloud-native-ai-leveraging-mcp-for-scalable-integrations-1p9p)
-- [Basics of Investment](https://dev.to/madgan95/basics-of-investment-287d)
-- [Zero-Dependency Architecture for Maximum Performance&lpar;1496&rpar;](https://dev.to/socket-use/zero-dependency-architecture-for-maximum-performance1496-1j9l)
-- [Resource Management and Memory Efficiency in Web Servers&lpar;3569&rpar;](https://dev.to/socket-use/resource-management-and-memory-efficiency-in-web-servers3569-2e0n)
+- [Why Sam Altman Believes Gen Z is the Luckiest Generation in AI Era](https://dev.to/ndmckay/why-sam-altman-believes-gen-z-is-the-luckiest-generation-in-ai-era-gm0)
+- [Bidirectional Communication Patterns in Modern Web Apps&lpar;5757&rpar;](https://dev.to/socket-use/bidirectional-communication-patterns-in-modern-web-apps5757-c5e)
+- [Why We Aren&#39;t Building Another Workflow Tool: Our First-Principles Approach](https://dev.to/maybe_ai/why-we-arent-building-another-workflow-tool-our-first-principles-approach-2dil)
+- [What is AWS Aurora Serverless v2 and why we didn&#39;t use it](https://dev.to/kinde/what-is-aws-aurora-serverless-v2-and-why-we-didnt-use-it-102b)
 <!-- BLOG-POST-LIST:END -->
 
 
