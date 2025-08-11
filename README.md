@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga)
-- [Perl 🐪 Weekly #733 - Perl using AI](https://dev.to/szabgab/perl-weekly-733-perl-using-ai-4kp0)
-- [Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example](https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh)
-- [SQL HAVING Explained: Filter Grouped Data With Ease](https://dev.to/dbvismarketing/sql-having-explained-filter-grouped-data-with-ease-5fjd)
+- [Brighter V10 Release Candidate 2 - What is new?](https://dev.to/actor-dev/brighter-v10-release-candidate-v2-what-is-new-21n2)
+- [Brighter V10 RC2: Novos Recursos, Aperfeiçoamentos e Correções de Bugs](https://dev.to/actor-dev/brighter-v10-rc2-novos-recursos-aperfeicoamentos-e-correcoes-de-bugs-5cm6)
+- [TCP Optimization Techniques for Web Server Performance&lpar;8044&rpar;](https://dev.to/socket-use/tcp-optimization-techniques-for-web-server-performance8044-1pb2)
+- [HTML to PDF API Tutorial – Generate Fillable PDFs from HTML in Minutes](https://dev.to/demetrat/html-to-pdf-api-tutorial-generate-fillable-pdfs-from-html-in-minutes-129n)
 <!-- BLOG-POST-LIST:END -->
 
 
