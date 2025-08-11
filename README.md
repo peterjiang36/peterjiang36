@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a SaaS in Railway&#39;s Way](https://dev.to/r4k3labs/building-a-saas-in-railways-way-42p7)
-- [Building an Express API with Logging and Rate Limiting](https://dev.to/mohammed_jobairhossain_c/building-an-express-api-with-logging-and-rate-limiting-3f24)
-- [Mastering tsconfig.json in TypeScript](https://dev.to/zorrr/mastering-tsconfigjson-in-typescript-5bk)
-- [AI](https://dev.to/1075213/ai-4gje)
+- [Web Vitals Optimization Strategies for HTTP/3 and QUIC](https://dev.to/mukhilpadmanabhan/web-vitals-optimization-strategies-for-http3-and-quic-506i)
+- [Understanding Object-Oriented Programming Features in JavaScript](https://dev.to/lovestaco/understanding-object-oriented-programming-features-in-javascript-1472)
+- [The AI Code Generation Security Crisis &lpar;And How We&#39;re Failing to Address It&rpar;](https://dev.to/metaclosure/the-ai-code-generation-security-crisis-and-how-were-failing-to-address-it-3a0g)
+- [Errors V/s Exceptions In Java:](https://dev.to/sundar_joseph_94059a3e7a6/errors-vs-exceptions-in-java-2mdf)
 <!-- BLOG-POST-LIST:END -->
 
 
