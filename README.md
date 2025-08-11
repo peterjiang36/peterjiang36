@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Excel’s Strengths and Weaknesses in Predictive Analysis and the Role of Excel in Making Data-Driven Business Decisions](https://dev.to/njeri_kimaru_07fe792621ff/excels-strengths-and-weaknesses-in-predictive-analysis-and-the-role-of-excel-in-making-data-driven-12if)
-- [Generative AI and No-Code App Builders: Crafting the Next Generation of SEO-Driven Web Experiences](https://dev.to/ankit_baed43884a710a9241e/generative-ai-and-no-code-app-builders-crafting-the-next-generation-of-seo-driven-web-experiences-3k8)
-- [ProjekHarusJadi — Hari 2: Merakit UI Kit di Figma](https://dev.to/zidanpahrudin/projekharusjadi-hari-2-merakit-ui-kit-di-figma-4d58)
-- [Conectando Dois Bancos PostgreSQL com FDW &lpar;DataLink do Heroku&rpar;](https://dev.to/renatosuero/conectando-dois-bancos-postgresql-com-fdw-datalink-do-heroku-43kn)
+- [Introducing the Webdock CLI: Say hello to infrastructure as code](https://dev.to/web_learning_4de0b1e0557/introducing-the-webdock-cli-say-hello-to-infrastructure-as-code-5801)
+- [Taking The Cloud Resume Challenge: GCP Style](https://dev.to/smgestupa/taking-the-cloud-resume-challenge-gcp-style-23md)
+- [Smart Image Tagger](https://dev.to/aju21/smart-image-tagger-5afh)
+- [KEXP: Hermanos Gutiérrez - Until We Meet Again &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hermanos-gutierrez-until-we-meet-again-live-on-kexp-1m7a)
 <!-- BLOG-POST-LIST:END -->
 
 
