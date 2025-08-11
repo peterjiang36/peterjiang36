@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On](https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1)
-- [AWS Timestream Live Analytics for New Users](https://dev.to/aaron_rose_0787cc8b4775a0/aws-timestream-live-analytics-for-new-users-5147)
-- [Home Assistant: Integrating Raspberry Pico Boards](https://dev.to/admantium/home-assistant-integrating-raspberry-pico-boards-29n1)
-- [Vertalk — Real-Time AI Call Agent Powered by Redis 8](https://dev.to/voprp/vertalk-real-time-ai-call-agent-powered-by-redis-8-59b3)
+- [Vertalk : Supercharge E-cormmerce with Real-Time AI Calls Powered by Redis 8](https://dev.to/abraham_root/vertalk-supercharge-e-cormmerce-with-real-time-ai-calls-powered-by-redis-8-11ka)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;3988&rpar;](https://dev.to/socket-use/error-handling-strategies-in-high-performance-web-servers3988-49hh)
+- [Part Two - Navigating the Network Maze](https://dev.to/blazebrain/mastering-the-art-of-debugging-in-flutter-part-two-36gf)
+- [&quot;In 2025, cyberattacks are projected to cost the world $10.5 trillion annually — but blockchain could change everything.&quot;](https://dev.to/vidushhi/in-2025-cyberattacks-are-projected-to-cost-the-world-105-trillion-annually-but-blockchain-5dal)
 <!-- BLOG-POST-LIST:END -->
 
 
