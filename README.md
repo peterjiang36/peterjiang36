@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is bad](https://dev.to/hermergray/this-is-bad-4cm1)
-- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
-- [Next.js &quot;Getting Started&quot; Stack](https://dev.to/jtakahashi0604/nextjs-getting-started-stack-4ihm)
-- [Application of Async Programming in Web Development&lpar;1222&rpar;](https://dev.to/socket-use/application-of-async-programming-in-web-development1222-5gcn)
+- [CFC: Context Flow Control – The Next Step Beyond MCP](https://dev.to/grenishrai/cfc-context-flow-control-the-next-step-beyond-mcp-1917)
+- [Rick Shiels Golf: One of the BEST USA public courses I’ve ever played!](https://dev.to/youtube_golf/rick-shiels-golf-one-of-the-best-usa-public-courses-ive-ever-played-5d0f)
+- [IGN: Henry Halfhead - Official Release Date Trailer](https://dev.to/gg_news/ign-henry-halfhead-official-release-date-trailer-1npa)
+- [Dynamics 365 + SharePoint Integration](https://dev.to/aiswaryanambia3/dynamics-365-sharepoint-integration-26hf)
 <!-- BLOG-POST-LIST:END -->
 
 
