@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redact - Real-Time AI-Powered Prompt Security Platform](https://dev.to/vaishakhvipin/redact-real-time-ai-powered-prompt-security-platform-5cl2)
-- [Redact: Real-Time AI-Powered Prompt Security Platform](https://dev.to/vaishakhvipin/redact-real-time-ai-powered-prompt-security-platform-5126)
-- [The Dunning-Kruger Effect - Why Beginners Feel Like Experts](https://dev.to/bharathvaj_ganesan/the-dunning-kruger-effect-why-beginners-feel-like-experts-5f45)
-- [Real-Time Multi-Agent AI Orchestrator for Climate Disaster Response](https://dev.to/haseebarshad/real-time-multi-agent-ai-orchestrator-for-climate-disaster-response-21lc)
+- [Dynamic Routing Systems for Scalable Web Applications&lpar;6442&rpar;](https://dev.to/socket-use/dynamic-routing-systems-for-scalable-web-applications6442-4mfk)
+- [DEBIX Camera Support for ROS2](https://dev.to/debix_computers/debix-camera-support-for-ros2-44a4)
+- [FlashFeed AI News Summarizer](https://dev.to/suleiman_alhajimohammed_/flashfeed-ai-news-summarizer-438i)
+- [Menggunakan OWASP ZAP di Docker untuk DevSecOps Workflow](https://dev.to/ezzeddinp/menggunakan-owasp-zap-di-docker-untuk-devsecops-workflow-24n2)
 <!-- BLOG-POST-LIST:END -->
 
 
