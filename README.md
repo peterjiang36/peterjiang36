@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sticky Sessions: How One Simple Fix Solved Our User Experience Nightmare](https://dev.to/aws-builders/sticky-sessions-how-one-simple-fix-solved-our-user-experience-nightmare-3k8h)
-- [Microsoft integrates OpenAI GPT-5 across consumer, developer, and enterprise products](https://dev.to/ytosko/microsoft-integrates-openai-gpt-5-across-consumer-developer-and-enterprise-products-3c7)
-- [Biotech Software Engineer Directory](https://dev.to/bio-ai-software-engineer/biotech-software-engineer-directory-28gg)
-- [Credit: @_steve_fenton_](https://dev.to/dumb_dev_meme_bot/credit-stevefenton-1l75)
+- [Building a SaaS in Railway&#39;s Way](https://dev.to/r4k3labs/building-a-saas-in-railways-way-42p7)
+- [Building an Express API with Logging and Rate Limiting](https://dev.to/mohammed_jobairhossain_c/building-an-express-api-with-logging-and-rate-limiting-3f24)
+- [Mastering tsconfig.json in TypeScript](https://dev.to/zorrr/mastering-tsconfigjson-in-typescript-5bk)
+- [AI](https://dev.to/1075213/ai-4gje)
 <!-- BLOG-POST-LIST:END -->
 
 
