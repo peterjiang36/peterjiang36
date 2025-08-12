@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ref Management Techniques That Professional React Teams Master](https://dev.to/genildocs/the-ref-management-techniques-that-professional-react-teams-master-3hhg)
-- [From Wow to Oops: The Vibe Coding Reality Check](https://dev.to/arnauddenoyelle/from-wow-to-oops-the-vibe-coding-reality-check-1alc)
-- [What the heck is IAM in AWS](https://dev.to/harsh_bhardwaj_809a89d3a7/what-the-heck-is-iam-in-aws-234j)
-- [HarmonyOS Next: Building Persistent Tabs Using the Navigation Component](https://dev.to/harmonyos/harmonyos-next-building-persistent-tabs-using-the-navigation-component-aa6)
+- [Build a Serverless Distance Calculator on AWS &lpar;Amplify, Lambda, API Gateway &amp; DynamoDB&rpar;](https://dev.to/aws-builders/build-a-serverless-distance-calculator-on-aws-amplify-lambda-api-gateway-dynamodb-2jdn)
+- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
+- [Build tools:- Vite ~ Webpack &amp; Deploy the Dist Folder](https://dev.to/ashutoshsarangi/build-tools-vite-webpack-deploy-the-dist-folder-50kb)
+- [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
 <!-- BLOG-POST-LIST:END -->
 
 
