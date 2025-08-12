@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for Ultra‑Low Power: TinyML, Ambient IoT &amp; Tracker Tech](https://dev.to/applekoiot/designing-for-ultra-low-power-tinyml-ambient-iot-tracker-tech-1p29)
-- [Evaluating Excel for Predictive Analytics and Data-Driven Business Decision Making](https://dev.to/mugambi_gladwell_ec0181e5/evaluating-excel-for-predictive-analytics-and-data-driven-decision-making-139)
-- [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
-- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
+- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
+- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
+- [[Boost]](https://dev.to/torresroberto05/-3gok)
+- [Custom BMS for Energy Storage Batteries: Firmware, Hardware, and Real-World Insights](https://dev.to/isabella_yee_2711f063e447/custom-bms-for-energy-storage-batteries-firmware-hardware-and-real-world-insights-1349)
 <!-- BLOG-POST-LIST:END -->
 
 
