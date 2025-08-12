@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Marvel Tokon Looks Set To Become The Next Big Fighting Game | Hands-On Impressions](https://dev.to/gg_news/gamespot-marvel-tokon-looks-set-to-become-the-next-big-fighting-game-hands-on-impressions-2n31)
-- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-5blp)
-- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-3elf)
-- [IGN: VR Games Showcase - August 2025](https://dev.to/gg_news/ign-vr-games-showcase-august-2025-4gl9)
+- [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
+- [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
+- [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
+- [Testing post](https://dev.to/openaicookbook/testing-post-59ml)
 <!-- BLOG-POST-LIST:END -->
 
 
