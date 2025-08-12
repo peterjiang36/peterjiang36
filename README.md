@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Earl Lokal Namun Semangat Global](https://dev.to/dev_nazwashabrina/earl-lokal-namun-semangat-global-296c)
-- [Understanding the Core Concepts: From Data Mountains to Informative Peaks](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-core-concepts-from-data-mountains-to-informative-peaks-172c)
-- [Getting Started with Spec-Driven Development Using Kiro + Jules + Cursor + GPT-5](https://dev.to/beagle_dog_inu/getting-started-with-spec-driven-development-using-kiro-jules-cursor-gpt-5-505k)
-- [My Second Round Interview Experience at Flextronics](https://dev.to/seenuvasan_p/my-second-round-interview-experience-at-flextronics-4970)
+- [Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?](https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn)
+- [A Weather Comparison App Built with React and AWS SAM](https://dev.to/a-k-0047/a-weather-comparison-app-built-with-react-and-aws-sam-1iin)
+- [Old aesthetics in modern web dev](https://dev.to/lucas_guilherme_9880b42f0/old-aesthetics-in-modern-web-dev-jkf)
+- [Erlang OTP SSH Exploits Target OT Firewalls](https://dev.to/neerajlovecyber/erlang-otp-ssh-exploits-target-ot-firewalls-22n4)
 <!-- BLOG-POST-LIST:END -->
 
 
