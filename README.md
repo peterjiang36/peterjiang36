@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LEAKED: Senior Developer&#39;s $200K Code Review Template - Used by FAANG Companies](https://dev.to/itshayder/leaked-senior-developers-200k-code-review-template-used-by-faang-companies-2nlf)
-- [AMD vs Nvidia in AI Chips: The Open Ecosystem That&#39;s Reshaping Cloud AI](https://dev.to/jay_all_day/amd-vs-nvidia-in-ai-chips-the-open-ecosystem-thats-reshaping-cloud-ai-1fa7)
-- [The Future of Storage Devices; Trends and Innovations for 2025 and Beyond](https://dev.to/michael_withrow_7a6966755/the-future-of-storage-devices-trends-and-innovations-for-2025-and-beyond-118k)
-- [The hidden cost of evaluation loops](https://dev.to/vrinda_damani/the-hidden-cost-of-evaluation-loops-34ha)
+- [Bryan Bros Golf: Can We Make Major Cut @ Pebble Beach?!](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-major-cut-pebble-beach-79n)
+- [Rick Shiels Golf: Can’t believe this is a public golf course](https://dev.to/youtube_golf/rick-shiels-golf-cant-believe-this-is-a-public-golf-course-2528)
+- [IGN: Echoes of the End - Official Launch Trailer](https://dev.to/gg_news/ign-echoes-of-the-end-official-launch-trailer-44bi)
+- [IGN: Sausage Party: Foodtopia, Season 2 - Exclusive Clip &lpar;2025&rpar; Michael Cera, Marion Cotillard](https://dev.to/gg_news/ign-sausage-party-foodtopia-season-2-exclusive-clip-2025-michael-cera-marion-cotillard-dc9)
 <!-- BLOG-POST-LIST:END -->
 
 
