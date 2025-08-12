@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Travis Kelce’s Lost Putter, NFL Bombshells &amp; Fantasy Sleepers | Ian Rapoport](https://dev.to/youtube_golf/golfcom-travis-kelces-lost-putter-nfl-bombshells-fantasy-sleepers-ian-rapoport-576p)
-- [Rick Shiels Golf: How to hit MORE fairways……It’s Easier Than You Think](https://dev.to/youtube_golf/rick-shiels-golf-how-to-hit-more-fairwaysits-easier-than-you-think-4mf4)
-- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-5261)
-- [IGN: Magic: The Gathering x Avatar: The Last Airbender - Official Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-avatar-the-last-airbender-official-trailer-5a20)
+- [Beyond Automation: The Role of AI and Gen AI in Modern Software Testing](https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1)
+- [Batch Transaction Performance Testing Report](https://dev.to/ripplexdev/batch-transaction-performance-testing-report-13j8)
+- [Excited to Join Dev.to — Sharing 3+ Years of UI/UX Passion!](https://dev.to/enas_almajdoub_26b1223ca2/excited-to-join-devto-sharing-3-years-of-uiux-passion-5a0f)
+- [AWS VPC and EC2 basic setup &lpar;manual&rpar;](https://dev.to/zach_beecher/aws-vpc-and-ec2-basic-setup-manual-59f4)
 <!-- BLOG-POST-LIST:END -->
 
 
