@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Background Fixed Slider with Pure JavaScript IE9+](https://dev.to/istockmarket/background-fixed-slider-with-pure-javascript-ie9-29o)
-- [Reverse-Engineering a Solar Power Station During War: Our Survival Tech Story](https://dev.to/dmytro_novoselskiy_f6de67/reverse-engineering-a-solar-power-station-during-war-our-survival-tech-story-151i)
-- [Adam Savage&#39;s Tested: Sauron&#39;s Helmet from Lord of the Rings Has a Magical Paint Finish](https://dev.to/maker_youtube/adam-savages-tested-saurons-helmet-from-lord-of-the-rings-has-a-magical-paint-finish-2k27)
-- [Peter Finch Golf: Scratch Golfer Vs LONGEST DRIVERS in the WORLD! &lpar;Peter Finch vs Martin Borgmeier &amp; Cass Meyer&rpar;](https://dev.to/youtube_golf/peter-finch-golf-scratch-golfer-vs-longest-drivers-in-the-world-peter-finch-vs-martin-borgmeier-4kjh)
+- [📡 Como Comunicar Múltiplas APIs com .NET](https://dev.to/daniloopinheiro/como-comunicar-multiplas-apis-com-net-50nl)
+- [Title: Unlocking the Potential of AI: Real-World Applications and Use Cases](https://dev.to/yagyaraj_sharma_6cd410179/title-unlocking-the-potential-of-ai-real-world-applications-and-use-cases-190d)
+- [[Boost]](https://dev.to/rics/-2o6l)
+- [🎉 ¡ImagePickerKMP v1.0.21 ya está aquí! 🚀](https://dev.to/ismoy/imagepickerkmp-v1021-ya-esta-aqui-3lh1)
 <!-- BLOG-POST-LIST:END -->
 
 
