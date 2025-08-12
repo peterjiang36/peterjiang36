@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shrunk 1,000 lines of AI agent code to 50 lines.](https://dev.to/oscarw18/shrunk-1000-lines-of-ai-agent-code-with-50-lines-pla)
-- [Mastering AWS IAM: Creating Users in Groups, Assigning EC2 &amp; S3 Permissions, and Setting Custom Passwords](https://dev.to/saumya_singh_4e5b0e2aacba/mastering-aws-iam-creating-users-in-groups-assigning-ec2-s3-permissions-and-setting-custom-hd)
-- [Deploying an HTML‑to‑PDF API on Vercel with Puppeteer](https://dev.to/ivanalemunioz/deploying-an-html-to-pdf-api-on-vercel-with-puppeteer-2jp9)
-- [Spring Boot Logging to File with Pattern Layout, Package-specific Levels, and Rolling Policies](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-logging-to-file-with-pattern-layout-package-specific-levels-and-rolling-policies-e4a)
+- [Bring Your Own Laptop: Free Figma UX Design UI Essentials Course | 2025](https://dev.to/design_youtube/bring-your-own-laptop-free-figma-ux-design-ui-essentials-course-2025-3jpn)
+- [Seth MacFarlane Wishes TV Was Less “Dystopian” And “Pessimistic”: “Give People Hope”](https://dev.to/popcorn_tv/seth-macfarlane-wishes-tv-was-less-dystopian-and-pessimistic-give-people-hope-566b)
+- [‘South Park&#39; Doubles Down on Kristi Noem With Paramount+ End Credits Scene Featuring Her on Shooting Spree at a Pet Store](https://dev.to/popcorn_tv/south-park-doubles-down-on-kristi-noem-with-paramount-end-credits-scene-featuring-her-on-5emn)
+- [Jeff Su: If you can use ChatGPT, you can build this AI Agent](https://dev.to/future_ai/jeff-su-if-you-can-use-chatgpt-you-can-build-this-ai-agent-1k7k)
 <!-- BLOG-POST-LIST:END -->
 
 
