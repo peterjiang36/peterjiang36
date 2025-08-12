@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📡 Como Comunicar Múltiplas APIs com .NET](https://dev.to/daniloopinheiro/como-comunicar-multiplas-apis-com-net-50nl)
-- [Title: Unlocking the Potential of AI: Real-World Applications and Use Cases](https://dev.to/yagyaraj_sharma_6cd410179/title-unlocking-the-potential-of-ai-real-world-applications-and-use-cases-190d)
-- [[Boost]](https://dev.to/rics/-2o6l)
-- [🎉 ¡ImagePickerKMP v1.0.21 ya está aquí! 🚀](https://dev.to/ismoy/imagepickerkmp-v1021-ya-esta-aqui-3lh1)
+- [Earl Lokal Namun Semangat Global](https://dev.to/dev_nazwashabrina/earl-lokal-namun-semangat-global-296c)
+- [Understanding the Core Concepts: From Data Mountains to Informative Peaks](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-core-concepts-from-data-mountains-to-informative-peaks-172c)
+- [Getting Started with Spec-Driven Development Using Kiro + Jules + Cursor + GPT-5](https://dev.to/beagle_dog_inu/getting-started-with-spec-driven-development-using-kiro-jules-cursor-gpt-5-505k)
+- [My Second Round Interview Experience at Flextronics](https://dev.to/seenuvasan_p/my-second-round-interview-experience-at-flextronics-4970)
 <!-- BLOG-POST-LIST:END -->
 
 
