@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Serverless Distance Calculator on AWS &lpar;Amplify, Lambda, API Gateway &amp; DynamoDB&rpar;](https://dev.to/aws-builders/build-a-serverless-distance-calculator-on-aws-amplify-lambda-api-gateway-dynamodb-2jdn)
-- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
-- [Build tools:- Vite ~ Webpack &amp; Deploy the Dist Folder](https://dev.to/ashutoshsarangi/build-tools-vite-webpack-deploy-the-dist-folder-50kb)
-- [Stop Wasting Money on the Wrong Robot Parts: The Essential Starter Kit](https://dev.to/robotisim_76f72fc9b6cb/stop-wasting-money-on-the-wrong-robot-parts-the-essential-starter-kit-1mbj)
+- [KEXP: Cumulus - Lose Your Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-lose-your-mind-live-on-kexp-ipp)
+- [KEXP: Cumulus - Dad Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-dad-song-live-on-kexp-18ek)
+- [KEXP: Cumulus - Boxes And Letters &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-boxes-and-letters-live-on-kexp-cfn)
+- [KEXP: Cumulus - Simple &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-simple-live-on-kexp-5n9)
 <!-- BLOG-POST-LIST:END -->
 
 
