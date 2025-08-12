@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀](https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4)
-- [Motorcycle Battery: The Little Prince’s Tiny Power Star](https://dev.to/ersajay/motorcycle-battery-the-little-princes-tiny-power-star-cpo)
-- [The Best Full Stack Development Courses You Can Take in 2025](https://dev.to/ankita_singh_hob/the-best-full-stack-development-courses-you-can-take-in-2025-2p9n)
-- [The Most Powerful Free AI Models in 2025 — What Developers Can Build with Them &lpar;and How to Get Started&rpar;](https://dev.to/dthiwanka/the-latest-free-ai-models-august-2025-what-they-can-do-and-how-you-can-use-thema-4219)
+- [Truth About Data Engineering Myths in 2025](https://dev.to/prepzee/truth-about-data-engineering-myths-in-2025-3dkc)
+- [How to Choose the Perfect Embedded SBC for Your Next Project: 5 Essential Factors](https://dev.to/lauraaa/how-to-choose-the-perfect-embedded-sbc-for-your-next-project-5-essential-factors-5fbb)
+- [AI in Everyday Objects: The Coming Wave of Ambient Intelligence](https://dev.to/koolkamalkishor/ai-in-everyday-objects-the-coming-wave-of-ambient-intelligence-d9)
+- [MOD-CSS v4 — Now Fully Compatible with React &lpar;and Most Modern JS/TS Frameworks&rpar; 🚀](https://dev.to/dev_geos/mod-css-v4-now-fully-compatible-with-react-and-most-modern-jsts-frameworks-2o7a)
 <!-- BLOG-POST-LIST:END -->
 
 
