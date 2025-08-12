@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Automation: The Role of AI and Gen AI in Modern Software Testing](https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1)
-- [Batch Transaction Performance Testing Report](https://dev.to/ripplexdev/batch-transaction-performance-testing-report-13j8)
-- [Excited to Join Dev.to — Sharing 3+ Years of UI/UX Passion!](https://dev.to/enas_almajdoub_26b1223ca2/excited-to-join-devto-sharing-3-years-of-uiux-passion-5a0f)
-- [AWS VPC and EC2 basic setup &lpar;manual&rpar;](https://dev.to/zach_beecher/aws-vpc-and-ec2-basic-setup-manual-59f4)
+- [GameSpot: Marvel Tokon Looks Set To Become The Next Big Fighting Game | Hands-On Impressions](https://dev.to/gg_news/gamespot-marvel-tokon-looks-set-to-become-the-next-big-fighting-game-hands-on-impressions-2n31)
+- [IGN: One Piece Pirate Warriors 4 - Official Character Pass 3 Launch Trailer](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-character-pass-3-launch-trailer-5blp)
+- [IGN: Witchboard: Exclusive Clip &lpar;2025&rpar; Directed by Chuck Russell](https://dev.to/gg_news/ign-witchboard-exclusive-clip-2025-directed-by-chuck-russell-3elf)
+- [IGN: VR Games Showcase - August 2025](https://dev.to/gg_news/ign-vr-games-showcase-august-2025-4gl9)
 <!-- BLOG-POST-LIST:END -->
 
 
