@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS](https://dev.to/edersonbrilhante/forgemt-github-actions-at-scale-with-security-and-multi-tenancy-on-aws-3no9)
-- [From 0 to 500 GitHub Stars in 60 Days: Fixing RAG Hallucination with a Symbolic Layer](https://dev.to/onestardao/from-0-to-500-github-stars-in-60-days-fixing-rag-hallucination-with-a-symbolic-layer-2h3e)
-- [Day 63: When Constraints Force Clarity](https://dev.to/casperday11/day-63-when-constraints-force-clarity-4h9m)
-- [📘 Cracking the Coding Interview — Master Technical Interviews](https://dev.to/ml318097/cracking-the-coding-interview-master-technical-interviews-2439)
+- [IGN: Jurassic World Evolution 3 - Official Psittacosaurus Dinosaur Showcase Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-psittacosaurus-dinosaur-showcase-trailer-513e)
+- [IGN: Viewfinder - Official Xbox Launch Trailer](https://dev.to/gg_news/ign-viewfinder-official-xbox-launch-trailer-1gp3)
+- [IGN: Mission: Impossible - The Final Reckoning: Exclusive Deleted Scene &lpar;2025&rpar; Christopher McQuarrie](https://dev.to/gg_news/ign-mission-impossible-the-final-reckoning-exclusive-deleted-scene-2025-christopher-mcquarrie-8pp)
+- [IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j)
 <!-- BLOG-POST-LIST:END -->
 
 
