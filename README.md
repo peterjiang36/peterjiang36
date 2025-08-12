@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.](https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk)
-- [AI Wisdom: The #1 Belief That Built My Business](https://dev.to/jaideepparashar/ai-wisdom-the-1-belief-that-built-my-business-e40)
-- [[Boost]](https://dev.to/torresroberto05/-3gok)
-- [Custom BMS for Energy Storage Batteries: Firmware, Hardware, and Real-World Insights](https://dev.to/isabella_yee_2711f063e447/custom-bms-for-energy-storage-batteries-firmware-hardware-and-real-world-insights-1349)
+- [Wait a minute, where&#39;s this week&#39;s Meme Monday post?! 😱](https://dev.to/fyodorio/wait-a-minute-wheres-this-weeks-meme-monday-post-2cmh)
+- [Virtualization for Large Lists](https://dev.to/maurya-sachin/virtualization-for-large-lists-in8)
+- [Top 12 Companies Using Vite JS](https://dev.to/nube_colectiva_nc/top-12-companies-using-vite-js-4mh1)
+- [Necessary Tech for XR Environment](https://dev.to/mark_lee_7ae4941a0726788e/necessary-tech-for-xr-environment-e85)
 <!-- BLOG-POST-LIST:END -->
 
 
