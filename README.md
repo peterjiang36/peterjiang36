@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Jurassic World Evolution 3 - Official Psittacosaurus Dinosaur Showcase Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-psittacosaurus-dinosaur-showcase-trailer-513e)
-- [IGN: Viewfinder - Official Xbox Launch Trailer](https://dev.to/gg_news/ign-viewfinder-official-xbox-launch-trailer-1gp3)
-- [IGN: Mission: Impossible - The Final Reckoning: Exclusive Deleted Scene &lpar;2025&rpar; Christopher McQuarrie](https://dev.to/gg_news/ign-mission-impossible-the-final-reckoning-exclusive-deleted-scene-2025-christopher-mcquarrie-8pp)
-- [IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer](https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j)
+- [LEAKED: Senior Developer&#39;s $200K Code Review Template - Used by FAANG Companies](https://dev.to/itshayder/leaked-senior-developers-200k-code-review-template-used-by-faang-companies-2nlf)
+- [AMD vs Nvidia in AI Chips: The Open Ecosystem That&#39;s Reshaping Cloud AI](https://dev.to/jay_all_day/amd-vs-nvidia-in-ai-chips-the-open-ecosystem-thats-reshaping-cloud-ai-1fa7)
+- [The Future of Storage Devices; Trends and Innovations for 2025 and Beyond](https://dev.to/michael_withrow_7a6966755/the-future-of-storage-devices-trends-and-innovations-for-2025-and-beyond-118k)
+- [The hidden cost of evaluation loops](https://dev.to/vrinda_damani/the-hidden-cost-of-evaluation-loops-34ha)
 <!-- BLOG-POST-LIST:END -->
 
 
