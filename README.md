@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bring Your Own Laptop: Free Figma UX Design UI Essentials Course | 2025](https://dev.to/design_youtube/bring-your-own-laptop-free-figma-ux-design-ui-essentials-course-2025-3jpn)
-- [Seth MacFarlane Wishes TV Was Less “Dystopian” And “Pessimistic”: “Give People Hope”](https://dev.to/popcorn_tv/seth-macfarlane-wishes-tv-was-less-dystopian-and-pessimistic-give-people-hope-566b)
-- [‘South Park&#39; Doubles Down on Kristi Noem With Paramount+ End Credits Scene Featuring Her on Shooting Spree at a Pet Store](https://dev.to/popcorn_tv/south-park-doubles-down-on-kristi-noem-with-paramount-end-credits-scene-featuring-her-on-5emn)
-- [Jeff Su: If you can use ChatGPT, you can build this AI Agent](https://dev.to/future_ai/jeff-su-if-you-can-use-chatgpt-you-can-build-this-ai-agent-1k7k)
+- [ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS](https://dev.to/edersonbrilhante/forgemt-github-actions-at-scale-with-security-and-multi-tenancy-on-aws-3no9)
+- [From 0 to 500 GitHub Stars in 60 Days: Fixing RAG Hallucination with a Symbolic Layer](https://dev.to/onestardao/from-0-to-500-github-stars-in-60-days-fixing-rag-hallucination-with-a-symbolic-layer-2h3e)
+- [Day 63: When Constraints Force Clarity](https://dev.to/casperday11/day-63-when-constraints-force-clarity-4h9m)
+- [📘 Cracking the Coding Interview — Master Technical Interviews](https://dev.to/ml318097/cracking-the-coding-interview-master-technical-interviews-2439)
 <!-- BLOG-POST-LIST:END -->
 
 
