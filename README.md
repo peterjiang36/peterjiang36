@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ever wondered how Amazon or Flipkart handles millions of orders in a single day? Here’s the system design magic behind Black Friday &amp; Big Billion Day.](https://dev.to/ravikantshukla/ever-wondered-how-amazon-or-flipkart-handles-millions-of-orders-in-a-single-day-heres-the-system-5d6g)
-- [🦀 Rust for Beginners: Going Beyond &quot;Hello, World!&quot; &lpar;Formatting &amp; Debugging Basics&rpar;](https://dev.to/vinecksie_50/rust-for-beginners-going-beyond-hello-world-formatting-debugging-basics-58e0)
-- [MongoDB Replica Set Compose OS independent](https://dev.to/user_10d6776b9ce140/mongodb-replica-set-compose-os-independent-1p8h)
-- [Scaling for Surges: How E-Commerce Giants Handle Black Friday &amp; Big Billion Day Traffic](https://dev.to/ravikantshukla/scaling-for-surges-how-e-commerce-giants-handle-black-friday-big-billion-day-traffic-32o4)
+- [The Ref Management Techniques That Professional React Teams Master](https://dev.to/genildocs/the-ref-management-techniques-that-professional-react-teams-master-3hhg)
+- [From Wow to Oops: The Vibe Coding Reality Check](https://dev.to/arnauddenoyelle/from-wow-to-oops-the-vibe-coding-reality-check-1alc)
+- [What the heck is IAM in AWS](https://dev.to/harsh_bhardwaj_809a89d3a7/what-the-heck-is-iam-in-aws-234j)
+- [HarmonyOS Next: Building Persistent Tabs Using the Navigation Component](https://dev.to/harmonyos/harmonyos-next-building-persistent-tabs-using-the-navigation-component-aa6)
 <!-- BLOG-POST-LIST:END -->
 
 
