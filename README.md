@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Truth About Data Engineering Myths in 2025](https://dev.to/prepzee/truth-about-data-engineering-myths-in-2025-3dkc)
-- [How to Choose the Perfect Embedded SBC for Your Next Project: 5 Essential Factors](https://dev.to/lauraaa/how-to-choose-the-perfect-embedded-sbc-for-your-next-project-5-essential-factors-5fbb)
-- [AI in Everyday Objects: The Coming Wave of Ambient Intelligence](https://dev.to/koolkamalkishor/ai-in-everyday-objects-the-coming-wave-of-ambient-intelligence-d9)
-- [MOD-CSS v4 — Now Fully Compatible with React &lpar;and Most Modern JS/TS Frameworks&rpar; 🚀](https://dev.to/dev_geos/mod-css-v4-now-fully-compatible-with-react-and-most-modern-jsts-frameworks-2o7a)
+- [Ever wondered how Amazon or Flipkart handles millions of orders in a single day? Here’s the system design magic behind Black Friday &amp; Big Billion Day.](https://dev.to/ravikantshukla/ever-wondered-how-amazon-or-flipkart-handles-millions-of-orders-in-a-single-day-heres-the-system-5d6g)
+- [🦀 Rust for Beginners: Going Beyond &quot;Hello, World!&quot; &lpar;Formatting &amp; Debugging Basics&rpar;](https://dev.to/vinecksie_50/rust-for-beginners-going-beyond-hello-world-formatting-debugging-basics-58e0)
+- [MongoDB Replica Set Compose OS independent](https://dev.to/user_10d6776b9ce140/mongodb-replica-set-compose-os-independent-1p8h)
+- [Scaling for Surges: How E-Commerce Giants Handle Black Friday &amp; Big Billion Day Traffic](https://dev.to/ravikantshukla/scaling-for-surges-how-e-commerce-giants-handle-black-friday-big-billion-day-traffic-32o4)
 <!-- BLOG-POST-LIST:END -->
 
 
