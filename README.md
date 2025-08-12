@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Cumulus - Lose Your Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-lose-your-mind-live-on-kexp-ipp)
-- [KEXP: Cumulus - Dad Song &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-dad-song-live-on-kexp-18ek)
-- [KEXP: Cumulus - Boxes And Letters &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-boxes-and-letters-live-on-kexp-cfn)
-- [KEXP: Cumulus - Simple &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cumulus-simple-live-on-kexp-5n9)
+- [Shrunk 1,000 lines of AI agent code to 50 lines.](https://dev.to/oscarw18/shrunk-1000-lines-of-ai-agent-code-with-50-lines-pla)
+- [Mastering AWS IAM: Creating Users in Groups, Assigning EC2 &amp; S3 Permissions, and Setting Custom Passwords](https://dev.to/saumya_singh_4e5b0e2aacba/mastering-aws-iam-creating-users-in-groups-assigning-ec2-s3-permissions-and-setting-custom-hd)
+- [Deploying an HTML‑to‑PDF API on Vercel with Puppeteer](https://dev.to/ivanalemunioz/deploying-an-html-to-pdf-api-on-vercel-with-puppeteer-2jp9)
+- [Spring Boot Logging to File with Pattern Layout, Package-specific Levels, and Rolling Policies](https://dev.to/rock_win_c053fa5fb2399067/spring-boot-logging-to-file-with-pattern-layout-package-specific-levels-and-rolling-policies-e4a)
 <!-- BLOG-POST-LIST:END -->
 
 
