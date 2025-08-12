@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Make Major Cut @ Pebble Beach?!](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-major-cut-pebble-beach-79n)
-- [Rick Shiels Golf: Can’t believe this is a public golf course](https://dev.to/youtube_golf/rick-shiels-golf-cant-believe-this-is-a-public-golf-course-2528)
-- [IGN: Echoes of the End - Official Launch Trailer](https://dev.to/gg_news/ign-echoes-of-the-end-official-launch-trailer-44bi)
-- [IGN: Sausage Party: Foodtopia, Season 2 - Exclusive Clip &lpar;2025&rpar; Michael Cera, Marion Cotillard](https://dev.to/gg_news/ign-sausage-party-foodtopia-season-2-exclusive-clip-2025-michael-cera-marion-cotillard-dc9)
+- [Machine learning](https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6)
+- [From Doubts to Done - How I hosted my first fullstack webapp](https://dev.to/bolaji-writes/from-doubts-to-done-how-i-hosted-my-first-fullstack-webapp-44b4)
+- [How Junior and Senior Developers Use Git: A Story of Two Mindsets](https://dev.to/er-raj-aryan/how-junior-and-senior-developers-use-git-a-story-of-two-mindsets-2g4j)
+- [This &quot;Clean&quot; Java Code Hides a Bug! 🐛](https://dev.to/code_crafter_14/this-clean-java-code-hides-a-bug-24if)
 <!-- BLOG-POST-LIST:END -->
 
 
