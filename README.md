@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-28o6)
-- [Ringer Movies: ‘Rollerball’ &lpar;1975&rpar; With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-rollerball-1975-with-bill-simmons-and-brian-koppelman-the-rewatchables-47nn)
-- [Binary Search on Answers — Crack the Hardest Problems in Log Time](https://dev.to/umair01/binary-search-on-answers-crack-the-hardest-problems-in-log-time-h5b)
-- [How to monitor Claude code token usage?](https://dev.to/saif_khan_67333bd574c6c8c/how-to-monitor-claude-code-token-usage-2en3)
+- [The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀](https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4)
+- [Motorcycle Battery: The Little Prince’s Tiny Power Star](https://dev.to/ersajay/motorcycle-battery-the-little-princes-tiny-power-star-cpo)
+- [The Best Full Stack Development Courses You Can Take in 2025](https://dev.to/ankita_singh_hob/the-best-full-stack-development-courses-you-can-take-in-2025-2p9n)
+- [The Most Powerful Free AI Models in 2025 — What Developers Can Build with Them &lpar;and How to Get Started&rpar;](https://dev.to/dthiwanka/the-latest-free-ai-models-august-2025-what-they-can-do-and-how-you-can-use-thema-4219)
 <!-- BLOG-POST-LIST:END -->
 
 
