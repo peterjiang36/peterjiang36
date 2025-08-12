@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wait a minute, where&#39;s this week&#39;s Meme Monday post?! 😱](https://dev.to/fyodorio/wait-a-minute-wheres-this-weeks-meme-monday-post-2cmh)
-- [Virtualization for Large Lists](https://dev.to/maurya-sachin/virtualization-for-large-lists-in8)
-- [Top 12 Companies Using Vite JS](https://dev.to/nube_colectiva_nc/top-12-companies-using-vite-js-4mh1)
-- [Necessary Tech for XR Environment](https://dev.to/mark_lee_7ae4941a0726788e/necessary-tech-for-xr-environment-e85)
+- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-28o6)
+- [Ringer Movies: ‘Rollerball’ &lpar;1975&rpar; With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-rollerball-1975-with-bill-simmons-and-brian-koppelman-the-rewatchables-47nn)
+- [Binary Search on Answers — Crack the Hardest Problems in Log Time](https://dev.to/umair01/binary-search-on-answers-crack-the-hardest-problems-in-log-time-h5b)
+- [How to monitor Claude code token usage?](https://dev.to/saif_khan_67333bd574c6c8c/how-to-monitor-claude-code-token-usage-2en3)
 <!-- BLOG-POST-LIST:END -->
 
 
