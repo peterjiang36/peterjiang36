@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?](https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn)
-- [A Weather Comparison App Built with React and AWS SAM](https://dev.to/a-k-0047/a-weather-comparison-app-built-with-react-and-aws-sam-1iin)
-- [Old aesthetics in modern web dev](https://dev.to/lucas_guilherme_9880b42f0/old-aesthetics-in-modern-web-dev-jkf)
-- [Erlang OTP SSH Exploits Target OT Firewalls](https://dev.to/neerajlovecyber/erlang-otp-ssh-exploits-target-ot-firewalls-22n4)
+- [Designing for Ultra‑Low Power: TinyML, Ambient IoT &amp; Tracker Tech](https://dev.to/applekoiot/designing-for-ultra-low-power-tinyml-ambient-iot-tracker-tech-1p29)
+- [Evaluating Excel for Predictive Analytics and Data-Driven Business Decision Making](https://dev.to/mugambi_gladwell_ec0181e5/evaluating-excel-for-predictive-analytics-and-data-driven-decision-making-139)
+- [📄🤖 Tesseract - submission for Google AI Studio](https://dev.to/fonteeboa/tesseract-submission-for-google-ai-studio-22od)
+- [From Image to Text in Seconds — Tesseract OCR in a Docker Container](https://dev.to/moni121189/from-image-to-text-in-seconds-tesseract-ocr-in-a-docker-container-1ohi)
 <!-- BLOG-POST-LIST:END -->
 
 
