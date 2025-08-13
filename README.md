@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Lila Iké - Scatter | A COLORS MOMENT](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-moment-2mab)
-- [Linus Tech Tips &lpar;LTT&rpar;: Linus REALLY Should have Been Here… AMD $5000 Ultimate Tech Upgrade](https://dev.to/future_youtube/linus-tech-tips-ltt-linus-really-should-have-been-here-amd-5000-ultimate-tech-upgrade-ne8)
-- [IGN: Marty Supreme - Official Trailer &lpar;2025&rpar; Timothée Chalamet, Gwyneth Paltrow, Odessa A&#39;zion](https://dev.to/gg_news/ign-marty-supreme-official-trailer-2025-timothee-chalamet-gwyneth-paltrow-odessa-azion-1e1o)
-- [IGN: Marvel Rivals - Official Cloak and Dagger Polarity Bond Costume Reveal Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-cloak-and-dagger-polarity-bond-costume-reveal-trailer-59h4)
+- [Blockchain Beyond Cryptocurrency](https://dev.to/pratheep_raj_d22ff9512a88/blockchain-beyond-cryptocurrency-4k4n)
+- [A Fast, Privacy-Focused Base64 Encoder/Decoder for Developers &lpar;Free&rpar;](https://dev.to/neemesh/a-fast-privacy-focused-base64-encoderdecoder-for-developers-free-3jpb)
+- [Introduction to REST Catalogs for Apache Iceberg](https://dev.to/datastrato/introduction-to-rest-catalogs-for-apache-iceberg-5a7l)
+- [Just released TiLoKit - a multi-framework CLI project generator 🚀](https://dev.to/taylor_tien_79fd681dd7c57/just-released-tilokit-a-multi-framework-cli-project-generator-4p1p)
 <!-- BLOG-POST-LIST:END -->
 
 
