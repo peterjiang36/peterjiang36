@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AI in Business Analytics: A Game-Changer for Smarter Decisions 🚀](https://dev.to/business_pulse_777d1c0c45/leveraging-ai-in-business-analytics-a-game-changer-for-smarter-decisions-1545)
-- [How to setup Tailwind css to your Expo project](https://dev.to/agent_69/how-to-setup-tailwind-css-to-your-expo-project-2l4i)
-- [How I Hit $1k MRR With Redesignr.ai &lpar;After Paying $400 for a Design I Didn’t Like&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/how-i-hit-1k-mrr-with-redesignrai-after-paying-400-for-a-design-i-didnt-like-2ag2)
-- [Claude Sonnet 4 vs Kimi K2 vs Gemini 2.5 Pro: Which AI actually ships production code?⛵](https://dev.to/forgecode/claude-sonnet-4-vs-kimi-k2-vs-gemini-25-pro-which-ai-actually-ships-production-code-30j7)
+- [KEXP: The Wedding Present - Take Me! &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-take-me-live-on-kexp-4b92)
+- [KEXP: The Wedding Present - It’s A Gas &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-its-a-gas-live-on-kexp-496d)
+- [KEXP: The Wedding Present - Science Fiction &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-science-fiction-live-on-kexp-3e27)
+- [KEXP: The Wedding Present - Two For The Road &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-two-for-the-road-live-on-kexp-27m7)
 <!-- BLOG-POST-LIST:END -->
 
 
