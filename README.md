@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Features in Chrome DevTools Every Web Developer Should Know](https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51)
-- [Role of Excel in Making Data-Driven Business Decisions.](https://dev.to/emanuel88/role-of-excel-in-making-data-driven-business-decisions-i5n)
-- [High-Performance Routing System Design and Implementation&lpar;5488&rpar;](https://dev.to/member_fa85c472/high-performance-routing-system-design-and-implementation5488-noi)
-- [React Performance Profiling: Finding and Fixing Bottlenecks](https://dev.to/maurya-sachin/react-performance-profiling-finding-and-fixing-bottlenecks-ja5)
+- [Kurzgesagt - In a Nutshell: Dear Alcohol...](https://dev.to/future_youtube/kurzgesagt-in-a-nutshell-dear-alcohol-19ke)
+- [IGN: VR Games Showcase - August 2025](https://dev.to/gg_news/ign-vr-games-showcase-august-2025-a82)
+- [IGN: Butterfly - Exclusive &#39;Pull Over&#39; Clip &lpar;2025&rpar; Daniel Dae Kim, Reina Hardesty](https://dev.to/gg_news/ign-butterfly-exclusive-pull-over-clip-2025-daniel-dae-kim-reina-hardesty-3341)
+- [IGN: State of Survival x Terminator - Official Collaboration Trailer](https://dev.to/gg_news/ign-state-of-survival-x-terminator-official-collaboration-trailer-8fi)
 <!-- BLOG-POST-LIST:END -->
 
 
