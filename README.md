@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The Voice of Rock: Matt Pinfield Returns](https://dev.to/music_youtube/rick-beato-the-voice-of-rock-matt-pinfield-returns-496d)
-- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-37n9)
-- [IGN: Steve - Official Trailer &lpar;2025&rpar; Cillian Murphy, Jay Lycurgo](https://dev.to/gg_news/ign-steve-official-trailer-2025-cillian-murphy-jay-lycurgo-2d2o)
-- [IGN: Krypto Saves the Day! - Official Clip &lpar;2025&rpar;](https://dev.to/gg_news/ign-krypto-saves-the-day-official-clip-2025-4cdc)
+- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
+- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
+- [Arnaldo Tomo – Engenheiro de Software, Criador do Laravel Lusophone](https://dev.to/arnaldo/arnaldo-tomo-engenheiro-de-software-criador-do-laravel-lusophone-48j8)
+- [🌟 Laravel Lusophone: Moçambique no mapa da comunidade Laravel 🚀](https://dev.to/arnaldo/laravel-lusophone-mocambique-no-mapa-da-comunidade-laravel-4ckp)
 <!-- BLOG-POST-LIST:END -->
 
 
