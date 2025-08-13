@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Collegiate Game Challenge 2025](https://dev.to/gg_news/ign-collegiate-game-challenge-2025-3g56)
-- [Welcome Thread - v339](https://dev.to/devteam/welcome-thread-v339-2fao)
-- [Practice #3: Foreign-key-based Dimension Table Join--A Lightweight Solution to Speed up Queries by Dumping Data to Files](https://dev.to/esproc_spl/practice-3-foreign-key-based-dimension-table-join-a-lightweight-solution-to-speed-up-queries-by-404l)
-- [Day 45/100 – Reading/Writing JSON in Python](https://dev.to/therahul_gupta/day-45100-readingwriting-json-in-python-2ep1)
+- [Top 10 Features in Chrome DevTools Every Web Developer Should Know](https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51)
+- [Role of Excel in Making Data-Driven Business Decisions.](https://dev.to/emanuel88/role-of-excel-in-making-data-driven-business-decisions-i5n)
+- [High-Performance Routing System Design and Implementation&lpar;5488&rpar;](https://dev.to/member_fa85c472/high-performance-routing-system-design-and-implementation5488-noi)
+- [React Performance Profiling: Finding and Fixing Bottlenecks](https://dev.to/maurya-sachin/react-performance-profiling-finding-and-fixing-bottlenecks-ja5)
 <!-- BLOG-POST-LIST:END -->
 
 
