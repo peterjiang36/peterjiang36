@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
-- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
-- [CouchDB Data Modelling: Prefer Smaller Attachments](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-attachments-51hi)
-- [Python vs JavaScript Keywords Comparison](https://dev.to/mcheremnov/python-vs-javascript-keywords-comparison-2966)
+- [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-e7l)
+- [IGN: Star Trek: Khan - Official Podcast Trailer &lpar;2025&rpar; Naveen Andrews, Wrenn Schmidt](https://dev.to/gg_news/ign-star-trek-khan-official-podcast-trailer-2025-naveen-andrews-wrenn-schmidt-5clj)
+- [Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier](https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa)
+- [Learn How to Use SelfCAD’s Move Tool](https://dev.to/julia970/learn-how-to-use-selfcads-move-tool-5e4k)
 <!-- BLOG-POST-LIST:END -->
 
 
