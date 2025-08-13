@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a CI/CD Pipeline on AWS with CodePipeline + GitHub 🚀](https://dev.to/yash_sonawane25/how-to-build-a-cicd-pipeline-on-aws-with-codepipeline-github-4ho6)
 - [GameSpot: VR Games Showcase | August 2025](https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-4ihm)
 - [OpenAI’s New Open Models](https://dev.to/dexxtorrrr/openais-new-open-models-3ljo)
 - [Dipping Your Toes into AI? Here&#39;s What You Should Read.](https://dev.to/happycoding753/dipping-your-toes-into-ai-heres-what-you-should-read-c65)
-- [Elegant Middleware Architecture Implementation&lpar;2545&rpar;](https://dev.to/member_fa85c472/elegant-middleware-architecture-implementation2545-5124)
 <!-- BLOG-POST-LIST:END -->
 
 
