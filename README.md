@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JuggleBee’s Great Leap - Rebuilding a Rails 4 App in Rails 8 &lpar;Part 1&rpar;](https://dev.to/brazenbraden/jugglebees-great-leap-rebuilding-a-rails-4-app-in-rails-8-part-1-1goj)
-- [Criando MCP Server de Clima Production-Ready com Clean Architecture, Cache Redis e Princípios SOLID | Guia Completo](https://dev.to/glaucia86/criando-mcp-server-de-clima-production-ready-com-clean-architecture-cache-redis-e-principios-solid-58i3)
-- [TCP Optimization Techniques for Web Server Performance&lpar;5029&rpar;](https://dev.to/member_fa85c472/tcp-optimization-techniques-for-web-server-performance5029-2k1l)
-- [nginx: useful basic auth](https://dev.to/gbhorwood/nginx-useful-basic-auth-8a1)
+- [Adam Savage&#39;s Tested: Adam Savage Builds a Giant Book with @Nerdforge!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-a-giant-book-with-nerdforge-3pn4)
+- [COLORS: Lila Iké - Scatter | A COLORS SHOW](https://dev.to/music_youtube/colors-lila-ike-scatter-a-colors-show-4okb)
+- [KEXP: The Wedding Present - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-full-performance-live-on-kexp-ojh)
+- [Tech With Tim: Advanced Vibe Coding Tutorial w/ Warp &lpar;Build &amp; Deploy Apps&rpar;](https://dev.to/vibe_youtube/tech-with-tim-advanced-vibe-coding-tutorial-w-warp-build-deploy-apps-178j)
 <!-- BLOG-POST-LIST:END -->
 
 
