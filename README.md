@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API calls and Testing](https://dev.to/tangerinetrain/api-calls-and-testing-2def)
-- [Rethinking the Test Pyramid: A Balanced View from Code to Customer](https://dev.to/mhossen/rethinking-the-test-pyramid-a-balanced-view-from-code-to-customer-5bhl)
-- [The Anatomy of a Good Azure Pipeline](https://dev.to/muhammad_mustafa_813cb4fb/the-anatomy-of-a-good-azure-pipeline-3m8k)
-- [Testing post](https://dev.to/openaicookbook/testing-post-59ml)
+- [Linus Tech Tips &lpar;LTT&rpar;: The BIGGEST one yet! - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-the-biggest-one-yet-scrapyard-wars-x-home-theater-edition-part-1-5bc7)
+- [IGN: Collegiate Game Challenge 2025](https://dev.to/gg_news/ign-collegiate-game-challenge-2025-172i)
+- [IGN: Star Trek: Khan - Official Podcast Trailer &lpar;2025&rpar; Naveen Andrews, Wrenn Schmidt](https://dev.to/gg_news/ign-star-trek-khan-official-podcast-trailer-2025-naveen-andrews-wrenn-schmidt-1bd2)
+- [IGN: Abyssus - Official Launch Trailer](https://dev.to/gg_news/ign-abyssus-official-launch-trailer-57fj)
 <!-- BLOG-POST-LIST:END -->
 
 
