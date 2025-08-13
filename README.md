@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
-- [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
-- [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
-- [Parasite SEO vs. Traditional SEO: Which Is Better for Fast Results in 2025?](https://dev.to/bloggrai/parasite-seo-vs-traditional-seo-which-is-better-for-fast-results-in-2025-1388)
+- [Building &quot;Memory Lane&quot; - Turning Memories into Art with Google AI Studio](https://dev.to/varshithvhegde/building-memory-lane-turning-memories-into-art-with-google-ai-studio-3ba9)
+- [Quick research on challenges Android developers face](https://dev.to/raza_taiab_477b5707b53a16/quick-research-on-challenges-android-developers-face-3j6f)
+- [I Built the Markdown Editor I Always Wanted with Next.js and AI](https://dev.to/abubakr_alsheikh/i-built-the-markdown-editor-i-always-wanted-with-nextjs-and-ai-20bd)
+- [🚀How to Set Up a RHEL 9 VM in AWS EC2 and Connect with PuTTY &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/ldwit/how-to-set-up-a-rhel-9-vm-in-aws-ec2-and-connect-with-putty-beginner-friendly-guide-17b0)
 <!-- BLOG-POST-LIST:END -->
 
 
