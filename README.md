@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The AI Agent Tutorial That Should&#39;ve Been Your First &lpar;no code&rpar;](https://dev.to/future_ai/jeff-su-the-ai-agent-tutorial-that-shouldve-been-your-first-no-code-33oi)
-- [LeetCode #88. Merge Sorted Array](https://dev.to/desiato/leetcode-88-merge-sorted-array-2p47)
-- [GitHub Profilimi Görsel Bir Manifestoya Dönüştürdüm / I Turned My GitHub Profile into a Visual Manifesto](https://dev.to/ahmet_salih_8292ac732eaf9/github-profilimi-gorsel-bir-manifestoya-donusturdum-i-turned-my-github-profile-into-a-visual-2dke)
-- [Hiring &gt;&gt; Senior Software Engineer &lpar;Go&rpar;](https://dev.to/sashaklimova/hiring-senior-software-engineer-go-4kkm)
+- [Outil de Cybersécurité du Jour - Aug 13, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-aug-13-2025-21k7)
+- [AI Apps with memory or without](https://dev.to/bobur/ai-apps-with-memory-or-without-46k4)
+- [CouchDB Data Modelling: Prefer Smaller Attachments](https://dev.to/neighbourhoodie/couchdb-data-modelling-prefer-smaller-attachments-51hi)
+- [Python vs JavaScript Keywords Comparison](https://dev.to/mcheremnov/python-vs-javascript-keywords-comparison-2966)
 <!-- BLOG-POST-LIST:END -->
 
 
