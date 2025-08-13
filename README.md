@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Al Tools Driving the Future of Work‼️ 🔥](https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7)
-- [# I Built 16 Developer Tools in One App - Here&#39;s What I Learned](https://dev.to/abhisekmallik/-i-built-16-developer-tools-in-one-app-heres-what-i-learned-1a6d)
-- [Building Production-Ready AI Agents with Semantic Kernel](https://dev.to/sebastiandevelops/building-production-ready-ai-agents-with-semantic-kernel-and-clean-net-architecture-4oeg)
-- [Scout AI: Transforming Supply Chains with Predictive Analytics and Anomaly Detection](https://dev.to/gpx_intelligence_096db842/scout-ai-transforming-supply-chains-with-predictive-analytics-and-anomaly-detection-3j47)
+- [How we saved $300 using GraphQL, Apollo and Nginx](https://dev.to/rodrigoeloyc/how-i-saved-300-using-graphql-apollo-and-nginx-215f)
+- [Dev Log 04](https://dev.to/asx/dev-log-04-49dg)
+- [This Open Source Python Tool Replaces Your $2,000/Month Portfolio Tracker](https://dev.to/fintechwarrior/how-i-created-a-24000-bloomberg-terminal-for-free-open-source-381l)
+- [Building the Next Generation of AI-Enabled Recruitment and a Talent Relationship Platform](https://dev.to/delaine_grace/building-the-next-generation-of-ai-enabled-recruitment-and-a-talent-relationship-platform-10bn)
 <!-- BLOG-POST-LIST:END -->
 
 
