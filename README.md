@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips &lpar;LTT&rpar;: The BIGGEST one yet! - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-the-biggest-one-yet-scrapyard-wars-x-home-theater-edition-part-1-5bc7)
-- [IGN: Collegiate Game Challenge 2025](https://dev.to/gg_news/ign-collegiate-game-challenge-2025-172i)
-- [IGN: Star Trek: Khan - Official Podcast Trailer &lpar;2025&rpar; Naveen Andrews, Wrenn Schmidt](https://dev.to/gg_news/ign-star-trek-khan-official-podcast-trailer-2025-naveen-andrews-wrenn-schmidt-1bd2)
-- [IGN: Abyssus - Official Launch Trailer](https://dev.to/gg_news/ign-abyssus-official-launch-trailer-57fj)
+- [Dipping Your Toes into AI? Here&#39;s What You Should Read.](https://dev.to/happycoding753/dipping-your-toes-into-ai-heres-what-you-should-read-c65)
+- [Elegant Middleware Architecture Implementation&lpar;2545&rpar;](https://dev.to/member_fa85c472/elegant-middleware-architecture-implementation2545-5124)
+- [5 Signs You’re Ready to Apply for Coding Jobs &lpar;Even if You Don’t Feel Ready&rpar;](https://dev.to/beyond-code/5-signs-youre-ready-to-apply-for-coding-jobs-even-if-you-dont-feel-ready-4ngp)
+- [OOP - Abstract Classes](https://dev.to/carlbeattie2000/oop-abstract-classes-bf)
 <!-- BLOG-POST-LIST:END -->
 
 
