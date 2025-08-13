@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: The Wedding Present - Take Me! &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-take-me-live-on-kexp-4b92)
-- [KEXP: The Wedding Present - It’s A Gas &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-its-a-gas-live-on-kexp-496d)
-- [KEXP: The Wedding Present - Science Fiction &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-science-fiction-live-on-kexp-3e27)
-- [KEXP: The Wedding Present - Two For The Road &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-wedding-present-two-for-the-road-live-on-kexp-27m7)
+- [Error Handling Strategies in High-Performance Web Servers&lpar;7837&rpar;](https://dev.to/member_fa85c472/error-handling-strategies-in-high-performance-web-servers7837-529j)
+- [Best Frameworks for RAG Observability](https://dev.to/debmckinney/best-frameworks-for-rag-observability-42e3)
+- [接手 AI 项目 5 步流程](https://dev.to/tuo_cheng_68980dbefbe1e75/jie-shou-ai-xiang-mu-5-bu-liu-cheng-2p4a)
+- [Parasite SEO vs. Traditional SEO: Which Is Better for Fast Results in 2025?](https://dev.to/bloggrai/parasite-seo-vs-traditional-seo-which-is-better-for-fast-results-in-2025-1388)
 <!-- BLOG-POST-LIST:END -->
 
 
