@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Beyond Cryptocurrency](https://dev.to/pratheep_raj_d22ff9512a88/blockchain-beyond-cryptocurrency-4k4n)
-- [A Fast, Privacy-Focused Base64 Encoder/Decoder for Developers &lpar;Free&rpar;](https://dev.to/neemesh/a-fast-privacy-focused-base64-encoderdecoder-for-developers-free-3jpb)
-- [Introduction to REST Catalogs for Apache Iceberg](https://dev.to/datastrato/introduction-to-rest-catalogs-for-apache-iceberg-5a7l)
-- [Just released TiLoKit - a multi-framework CLI project generator 🚀](https://dev.to/taylor_tien_79fd681dd7c57/just-released-tilokit-a-multi-framework-cli-project-generator-4p1p)
+- [Top Al Tools Driving the Future of Work‼️ 🔥](https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7)
+- [# I Built 16 Developer Tools in One App - Here&#39;s What I Learned](https://dev.to/abhisekmallik/-i-built-16-developer-tools-in-one-app-heres-what-i-learned-1a6d)
+- [Building Production-Ready AI Agents with Semantic Kernel](https://dev.to/sebastiandevelops/building-production-ready-ai-agents-with-semantic-kernel-and-clean-net-architecture-4oeg)
+- [Scout AI: Transforming Supply Chains with Predictive Analytics and Anomaly Detection](https://dev.to/gpx_intelligence_096db842/scout-ai-transforming-supply-chains-with-predictive-analytics-and-anomaly-detection-3j47)
 <!-- BLOG-POST-LIST:END -->
 
 
