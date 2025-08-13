@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building &quot;Memory Lane&quot; - Turning Memories into Art with Google AI Studio](https://dev.to/varshithvhegde/building-memory-lane-turning-memories-into-art-with-google-ai-studio-3ba9)
-- [Quick research on challenges Android developers face](https://dev.to/raza_taiab_477b5707b53a16/quick-research-on-challenges-android-developers-face-3j6f)
-- [I Built the Markdown Editor I Always Wanted with Next.js and AI](https://dev.to/abubakr_alsheikh/i-built-the-markdown-editor-i-always-wanted-with-nextjs-and-ai-20bd)
-- [🚀How to Set Up a RHEL 9 VM in AWS EC2 and Connect with PuTTY &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/ldwit/how-to-set-up-a-rhel-9-vm-in-aws-ec2-and-connect-with-putty-beginner-friendly-guide-17b0)
+- [JuggleBee’s Great Leap - Rebuilding a Rails 4 App in Rails 8 &lpar;Part 1&rpar;](https://dev.to/brazenbraden/jugglebees-great-leap-rebuilding-a-rails-4-app-in-rails-8-part-1-1goj)
+- [Criando MCP Server de Clima Production-Ready com Clean Architecture, Cache Redis e Princípios SOLID | Guia Completo](https://dev.to/glaucia86/criando-mcp-server-de-clima-production-ready-com-clean-architecture-cache-redis-e-principios-solid-58i3)
+- [TCP Optimization Techniques for Web Server Performance&lpar;5029&rpar;](https://dev.to/member_fa85c472/tcp-optimization-techniques-for-web-server-performance5029-2k1l)
+- [nginx: useful basic auth](https://dev.to/gbhorwood/nginx-useful-basic-auth-8a1)
 <!-- BLOG-POST-LIST:END -->
 
 
