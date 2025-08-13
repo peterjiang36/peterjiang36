@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Terraform refresh-only to prevent state drift and ensure accurate resource management](https://dev.to/techielass/how-to-use-terraform-refresh-only-to-prevent-state-drift-and-ensure-accurate-resource-management-23n7)
-- [Unicode-Gen: TypeScript Library for Random Emoji Generation](https://dev.to/jqueryscript/unicode-gen-typescript-library-for-random-emoji-generation-30kc)
-- [7 Tech Pain Points Every Startup Faces While Working With A Software Development Agency](https://dev.to/betterhq/7-tech-pain-points-every-startup-faces-while-working-with-a-software-development-agency-2g0o)
-- [Building a Ragnarok Online Server in Elixir - Part 2](https://dev.to/ygorcastor/building-a-ragnarok-online-server-in-elixir-part-2-4pn5)
+- [Jeff Su: The AI Agent Tutorial That Should&#39;ve Been Your First &lpar;no code&rpar;](https://dev.to/future_ai/jeff-su-the-ai-agent-tutorial-that-shouldve-been-your-first-no-code-33oi)
+- [LeetCode #88. Merge Sorted Array](https://dev.to/desiato/leetcode-88-merge-sorted-array-2p47)
+- [GitHub Profilimi Görsel Bir Manifestoya Dönüştürdüm / I Turned My GitHub Profile into a Visual Manifesto](https://dev.to/ahmet_salih_8292ac732eaf9/github-profilimi-gorsel-bir-manifestoya-donusturdum-i-turned-my-github-profile-into-a-visual-2dke)
+- [Hiring &gt;&gt; Senior Software Engineer &lpar;Go&rpar;](https://dev.to/sashaklimova/hiring-senior-software-engineer-go-4kkm)
 <!-- BLOG-POST-LIST:END -->
 
 
