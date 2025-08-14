@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Can Make You a 10x Software Engineer](https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje)
-- [Killing cold starts with Lambda SnapStart](https://dev.to/aws-builders/killing-cold-starts-with-lambda-snapstart-1h77)
-- [Automatización de alertas y recordatorios para limpiezas energéticas usando Python y APIs](https://dev.to/carmen_lopezlopeza_31258/automatizacion-de-alertas-y-recordatorios-para-limpiezas-energeticas-usando-python-y-apis-hhj)
-- [Dev Log 05](https://dev.to/asx/dev-log-05-2g7o)
+- [IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips](https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf)
+- [IGN: Neo Berlin 2087 - Official Gamescom 2025 Gameplay Trailer](https://dev.to/gg_news/ign-neo-berlin-2087-official-gamescom-2025-gameplay-trailer-4bmc)
+- [¿Qué es el Sistema Operativo Ubuntu?](https://dev.to/juniormendoza3044/que-es-el-sistema-operativo-ubuntu-352n)
+- [I Built an Honest AI Agent to Fight Hallucinations. Here&#39;s How It Works.](https://dev.to/xzdes/i-built-an-honest-ai-agent-to-fight-hallucinations-heres-how-it-works-2p7e)
 <!-- BLOG-POST-LIST:END -->
 
 
