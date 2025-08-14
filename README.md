@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tunnelmole: An Open Source Tunneling Tool for Secure and Easy Access](https://dev.to/robbiecahill/tunnelmole-an-open-source-tunneling-tool-for-secure-and-easy-access-2ogi)
-- [KEXP: The Tubs - Wretched Lie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-wretched-lie-live-on-kexp-51oh)
-- [KEXP: The Tubs - Freak Mode &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-freak-mode-live-on-kexp-j70)
-- [KEXP: The Tubs - Round The Bend / Dead Meat &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-round-the-bend-dead-meat-live-on-kexp-2ka5)
+- [How to Prevent Screenshots on a Specific Page in HarmonyOS Next](https://dev.to/harmonyos/how-to-prevent-screenshots-on-a-specific-page-in-harmonyos-next-2e4l)
+- [🔍 Web3 in 2025 — The Signals Developers Shouldn’t Ignore](https://dev.to/digitaldime/web3-in-2025-the-signals-developers-shouldnt-ignore-4p4i)
+- [Stop Coding Everything by Hand: Supercharge Your Go Development with These 6 Libraries](https://dev.to/tomastomas/stop-coding-everything-by-hand-supercharge-your-go-development-with-these-6-libraries-4l3o)
+- [How to Improve Logging in ArkTS: A Better Alternative to hilog with LogManager?](https://dev.to/harmonyos/how-to-improve-logging-in-arkts-a-better-alternative-to-hilog-with-logmanager-4ke5)
 <!-- BLOG-POST-LIST:END -->
 
 
