@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [generate-sitemap 1.10.3 Released](https://dev.to/cicirello/generate-sitemap-1103-released-4b4b)
-- [Programação quântica com JavaScript e Qiskit](https://dev.to/lucaspereiradesouzat/programacao-quantica-com-javascript-e-qiskit-2b1a)
-- [Are Modern Development Tools Making Us Better or Different Programmers?](https://dev.to/pullflow/are-modern-development-tools-making-us-better-or-different-programmers-4kg4)
-- [TAB:- The Assistant Bot](https://dev.to/aakashredy/tab-the-assistant-bot-4pak)
+- [Peter Finch Golf: I take on the LONGEST golf course in the world &lpar;insane challenge&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-golf-course-in-the-world-insane-challenge-344o)
+- [IGN: NBA 2K26 - Official MyTEAM Trailer](https://dev.to/gg_news/ign-nba-2k26-official-myteam-trailer-1eeg)
+- [IGN: Disney Speedstorm - Official Dale Trailer](https://dev.to/gg_news/ign-disney-speedstorm-official-dale-trailer-48g7)
+- [IGN: Dark Deity 2 - Official Nintendo Switch Release Date Announcement Trailer](https://dev.to/gg_news/ign-dark-deity-2-official-nintendo-switch-release-date-announcement-trailer-144f)
 <!-- BLOG-POST-LIST:END -->
 
 
