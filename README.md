@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Iterable unpacking in Python &lpar;2&rpar;](https://dev.to/hyperkai/iterable-unpacking-in-python-2-19ie)
-- [Create a Stunning 3D Cube with Pure CSS....](https://dev.to/sid6398/create-a-stunning-3d-cube-with-pure-css-1dim)
-- [Logging in with SSO via AWS CLI](https://dev.to/tangerinetrain/logging-in-with-sso-via-aws-cli-1b0)
-- [How I Created My First Portfolio Website Using GitHub Pages](https://dev.to/tejaswini_teju_e483076783/how-i-created-my-first-portfolio-website-using-github-pages-jp4)
+- [How AI Can Make You a 10x Software Engineer](https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje)
+- [Killing cold starts with Lambda SnapStart](https://dev.to/aws-builders/killing-cold-starts-with-lambda-snapstart-1h77)
+- [Automatización de alertas y recordatorios para limpiezas energéticas usando Python y APIs](https://dev.to/carmen_lopezlopeza_31258/automatizacion-de-alertas-y-recordatorios-para-limpiezas-energeticas-usando-python-y-apis-hhj)
+- [Dev Log 05](https://dev.to/asx/dev-log-05-2g7o)
 <!-- BLOG-POST-LIST:END -->
 
 
