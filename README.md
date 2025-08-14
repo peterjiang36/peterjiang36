@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Cross-Platform Dev Environment in Termux &lpar;2025 Edition&rpar;](https://dev.to/terminaltools/how-to-set-up-a-cross-platform-dev-environment-in-termux-2025-edition-19lp)
-- [What is Automated Functional Testing: Types, Benefits &amp; Tools](https://dev.to/morrismoses149/what-is-automated-functional-testing-types-benefits-tools-1ga0)
-- [Data Engineering Concepts](https://dev.to/susan_waweru_a4fd6b337288/concepts-of-data-engineering-54l6)
-- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/vincenzo_bianco_2a3b1e91d/introducing-steelthread-evals-observability-for-reliable-agents-5ebe)
+- [IGN: Chicken Run: Eggstraction - Official Release Date Announcement Trailer](https://dev.to/gg_news/ign-chicken-run-eggstraction-official-release-date-announcement-trailer-5fmg)
+- [CinemaSins: Everything Wrong With American Wedding](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-american-wedding-pg3)
+- [Untitled](https://dev.to/marcelinaredocindo14/untitled-418h)
+- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/portia-ai/introducing-steelthread-evals-observability-for-reliable-agents-1bc7)
 <!-- BLOG-POST-LIST:END -->
 
 
