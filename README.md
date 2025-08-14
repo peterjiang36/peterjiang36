@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Unforeseen Weather Conditions Cause Last-Minute Delay in Astronaut Launch to the ISS](https://dev.to/yagyaraj_sharma_6cd410179/title-unforeseen-weather-conditions-cause-last-minute-delay-in-astronaut-launch-to-the-iss-2810)
-- [AI &amp; VR: Transforming Future Gaming Worlds](https://dev.to/sebastian_reid999/ai-vr-transforming-future-gaming-worlds-1h6o)
-- [Marques Brownlee &lpar;MKBHD&rpar;: Sports Tech I Actually Use &lpar;As a Professional Athlete&rpar;](https://dev.to/future_youtube/marques-brownlee-mkbhd-sports-tech-i-actually-use-as-a-professional-athlete-566c)
-- [Daily JavaScript Challenge #JS-251: Calculate Sum of Prime Numbers Below a Given Number](https://dev.to/dpc/daily-javascript-challenge-js-251-calculate-sum-of-prime-numbers-below-a-given-number-igp)
+- [We’re Still In the Augmentation Era and That’s Not a Bad Thing](https://dev.to/agape_aurora_4b5303956dc6/were-still-in-the-augmentation-era-and-thats-not-a-bad-thing-4f8i)
+- [Building a Unified AI Safety Platform](https://dev.to/sgriffiths/building-a-unified-ai-safety-platform-53l1)
+- [Build a Real-World IROPS Re-accommodation Workflow with KaibanJS](https://dev.to/kaibanjs/build-a-real-world-irops-re-accommodation-workflow-with-kaibanjs-i3n)
+- [Demi: Building a Language From the Metal Up](https://dev.to/bobrossrtx/demi-building-a-language-from-the-metal-up-5ahc)
 <!-- BLOG-POST-LIST:END -->
 
 
