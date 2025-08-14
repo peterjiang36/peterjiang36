@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Still In the Augmentation Era and That’s Not a Bad Thing](https://dev.to/agape_aurora_4b5303956dc6/were-still-in-the-augmentation-era-and-thats-not-a-bad-thing-4f8i)
-- [Building a Unified AI Safety Platform](https://dev.to/sgriffiths/building-a-unified-ai-safety-platform-53l1)
-- [Build a Real-World IROPS Re-accommodation Workflow with KaibanJS](https://dev.to/kaibanjs/build-a-real-world-irops-re-accommodation-workflow-with-kaibanjs-i3n)
-- [Demi: Building a Language From the Metal Up](https://dev.to/bobrossrtx/demi-building-a-language-from-the-metal-up-5ahc)
+- [How to Run gpt-oss Locally in NativeMind &lpar;Setup Guide&rpar;](https://dev.to/nativemind/how-to-run-gpt-oss-locally-in-nativemind-setup-guide-2d08)
+- [Gemini CLI Major August 2025 Update: VSCode Integration &amp; MCP Protocol Enhancements](https://dev.to/czmilo/gemini-cli-major-august-2025-update-vscode-integration-mcp-protocol-enhancements-1gf9)
+- [Building an AWS DevOps AI Agent with Strands SDK - using Kiro vibe sessions](https://dev.to/sigitp/building-an-aws-devops-ai-agent-with-strands-sdk-using-kiro-vibe-sessions-8me)
+- [How good is Gen AI at providing estimates — and then holding itself accountable for meeting them?](https://dev.to/dmitryame/how-good-is-gen-ai-at-providing-estimates-and-then-holding-itself-accountable-for-meeting-them-3pee)
 <!-- BLOG-POST-LIST:END -->
 
 
