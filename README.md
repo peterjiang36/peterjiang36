@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
-- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
-- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
-- [🚀 Advanced Implementation and Production Excellence](https://dev.to/abdelrahman_adnan/advanced-implementation-and-production-excellence-4619)
+- [Iterable unpacking in Python &lpar;2&rpar;](https://dev.to/hyperkai/iterable-unpacking-in-python-2-19ie)
+- [Create a Stunning 3D Cube with Pure CSS....](https://dev.to/sid6398/create-a-stunning-3d-cube-with-pure-css-1dim)
+- [Logging in with SSO via AWS CLI](https://dev.to/tangerinetrain/logging-in-with-sso-via-aws-cli-1b0)
+- [How I Created My First Portfolio Website Using GitHub Pages](https://dev.to/tejaswini_teju_e483076783/how-i-created-my-first-portfolio-website-using-github-pages-jp4)
 <!-- BLOG-POST-LIST:END -->
 
 
