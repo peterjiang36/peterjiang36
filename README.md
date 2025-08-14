@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry configuration gotchas](https://dev.to/nfrankel/opentelemetry-configuration-gotchas-462a)
-- [Boring Cybersecurity Theory: Security Domains From CISSP](https://dev.to/dharbachou/boring-cybersecurity-theory-security-domains-from-cissp-3c9d)
-- [SQL Learning...](https://dev.to/sourav_mahato_3900/sql-learning-1fk1)
-- [Why MCP Uses JSON-RPC Instead of REST or gRPC](https://dev.to/om_shree_0709/why-mcp-uses-json-rpc-instead-of-rest-or-grpc-1gpo)
+- [NPR Music: Omar: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-omar-tiny-desk-concert-57hk)
+- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-nk7)
+- [JavaScript’s Most Misunderstood Feature: The Event Loop Isn’t What You Think](https://dev.to/idioseph/javascripts-most-misunderstood-feature-the-event-loop-isnt-what-you-think-4n15)
+- [Hilirisasi Fiber di PHP dapat Membuka 19 juta Lapangan Lambo](https://dev.to/hibiscusht/hilirisasi-fiber-di-php-dapat-membuka-19-juta-lapangan-lambo-44p7)
 <!-- BLOG-POST-LIST:END -->
 
 
