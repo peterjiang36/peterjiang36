@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Chicken Run: Eggstraction - Official Release Date Announcement Trailer](https://dev.to/gg_news/ign-chicken-run-eggstraction-official-release-date-announcement-trailer-5fmg)
-- [CinemaSins: Everything Wrong With American Wedding](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-american-wedding-pg3)
-- [Untitled](https://dev.to/marcelinaredocindo14/untitled-418h)
-- [Introducing SteelThread: Evals &amp; Observability for Reliable Agents](https://dev.to/portia-ai/introducing-steelthread-evals-observability-for-reliable-agents-1bc7)
+- [generate-sitemap 1.10.3 Released](https://dev.to/cicirello/generate-sitemap-1103-released-4b4b)
+- [Programação quântica com JavaScript e Qiskit](https://dev.to/lucaspereiradesouzat/programacao-quantica-com-javascript-e-qiskit-2b1a)
+- [Are Modern Development Tools Making Us Better or Different Programmers?](https://dev.to/pullflow/are-modern-development-tools-making-us-better-or-different-programmers-4kg4)
+- [TAB:- The Assistant Bot](https://dev.to/aakashredy/tab-the-assistant-bot-4pak)
 <!-- BLOG-POST-LIST:END -->
 
 
