@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of Poor Project Tracking: Why 70% of Dev Agencies Fail in Year Two](https://dev.to/teamcamp/the-hidden-costs-of-poor-project-tracking-why-70-of-dev-agencies-fail-in-year-two-1faf)
-- [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
-- [Introducing WtfCode.dev: Learn from the Worst Code Examples](https://dev.to/cavewebs/introducing-wtfcodedev-learn-from-the-worst-code-examples-58o8)
-- [KDE Gear 25.08 Released with Key Improvements](https://dev.to/neerajlovecyber/kde-gear-2508-released-with-key-improvements-5hln)
+- [Tunnelmole: An Open Source Tunneling Tool for Secure and Easy Access](https://dev.to/robbiecahill/tunnelmole-an-open-source-tunneling-tool-for-secure-and-easy-access-2ogi)
+- [KEXP: The Tubs - Wretched Lie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-wretched-lie-live-on-kexp-51oh)
+- [KEXP: The Tubs - Freak Mode &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-freak-mode-live-on-kexp-j70)
+- [KEXP: The Tubs - Round The Bend / Dead Meat &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-the-tubs-round-the-bend-dead-meat-live-on-kexp-2ka5)
 <!-- BLOG-POST-LIST:END -->
 
 
