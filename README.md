@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is GitHub Copilot and How Can It Boost Your Productivity?](https://dev.to/codewithsimon/what-is-github-copilot-and-how-can-it-boost-your-productivity-14gg)
-- [How I Built ArchonCLI: A Free, Lightweight AI Coding CLI Tool for Developers on a Budget](https://dev.to/bitzdev/how-i-built-archoncli-a-free-lightweight-ai-coding-cli-tool-for-developers-on-a-budget-k0i)
-- [Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article.](https://dev.to/jaideepparashar/algorithms-reward-only-those-who-stay-consistent-and-not-those-who-show-up-when-they-feel-1l13)
-- [🌍 Understanding Google Cloud Regions, Zones &amp; Cluster](https://dev.to/latchudevops/understanding-google-cloud-regions-zones-cluster-with-simple-examples-3fb3)
+- [Krish Naik: Ultimate RAG Bootcamp Using Langchain,LangGraph &amp; Langsmith Course](https://dev.to/vibe_youtube/krish-naik-ultimate-rag-bootcamp-using-langchainlanggraph-langsmith-course-2o21)
+- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-476)
+- [IGN: Of Peaks and Tides - Official Announcement Trailer | Reclaim](https://dev.to/gg_news/ign-of-peaks-and-tides-official-announcement-trailer-reclaim-24en)
+- [IGN: Of Peaks and Tides - Official Animated Trailer](https://dev.to/gg_news/ign-of-peaks-and-tides-official-animated-trailer-1ao5)
 <!-- BLOG-POST-LIST:END -->
 
 
