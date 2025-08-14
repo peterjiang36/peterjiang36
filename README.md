@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for the Best React Data Grid &lpar;Table&rpar;? It&#39;s Probably on This List](https://dev.to/pmbanugo/looking-for-the-best-react-data-grid-table-its-probably-on-this-list-1ied)
-- [The Nyash programming language introduced in this article is a newborn language with 0 GitHub Stars](https://dev.to/charmpic/the-nyash-programming-language-introduced-in-this-article-is-a-newborn-language-with-0-github-stars-5gjb)
-- [Arnaldo Tomo – Engenheiro de Software, Criador do Laravel Lusophone](https://dev.to/arnaldo/arnaldo-tomo-engenheiro-de-software-criador-do-laravel-lusophone-48j8)
-- [🌟 Laravel Lusophone: Moçambique no mapa da comunidade Laravel 🚀](https://dev.to/arnaldo/laravel-lusophone-mocambique-no-mapa-da-comunidade-laravel-4ckp)
+- [Title: Unforeseen Weather Conditions Cause Last-Minute Delay in Astronaut Launch to the ISS](https://dev.to/yagyaraj_sharma_6cd410179/title-unforeseen-weather-conditions-cause-last-minute-delay-in-astronaut-launch-to-the-iss-2810)
+- [AI &amp; VR: Transforming Future Gaming Worlds](https://dev.to/sebastian_reid999/ai-vr-transforming-future-gaming-worlds-1h6o)
+- [Marques Brownlee &lpar;MKBHD&rpar;: Sports Tech I Actually Use &lpar;As a Professional Athlete&rpar;](https://dev.to/future_youtube/marques-brownlee-mkbhd-sports-tech-i-actually-use-as-a-professional-athlete-566c)
+- [Daily JavaScript Challenge #JS-251: Calculate Sum of Prime Numbers Below a Given Number](https://dev.to/dpc/daily-javascript-challenge-js-251-calculate-sum-of-prime-numbers-below-a-given-number-igp)
 <!-- BLOG-POST-LIST:END -->
 
 
