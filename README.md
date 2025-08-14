@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Screenshots on a Specific Page in HarmonyOS Next](https://dev.to/harmonyos/how-to-prevent-screenshots-on-a-specific-page-in-harmonyos-next-2e4l)
-- [🔍 Web3 in 2025 — The Signals Developers Shouldn’t Ignore](https://dev.to/digitaldime/web3-in-2025-the-signals-developers-shouldnt-ignore-4p4i)
-- [Stop Coding Everything by Hand: Supercharge Your Go Development with These 6 Libraries](https://dev.to/tomastomas/stop-coding-everything-by-hand-supercharge-your-go-development-with-these-6-libraries-4l3o)
-- [How to Improve Logging in ArkTS: A Better Alternative to hilog with LogManager?](https://dev.to/harmonyos/how-to-improve-logging-in-arkts-a-better-alternative-to-hilog-with-logmanager-4ke5)
+- [IGN: Jurassic Park: Survival - Official Behind the Scenes Featurette](https://dev.to/gg_news/ign-jurassic-park-survival-official-behind-the-scenes-featurette-824)
+- [IGN: Crosswind - Official Early Access Announcement Trailer](https://dev.to/gg_news/ign-crosswind-official-early-access-announcement-trailer-90p)
+- [IGN: Kristala - Official Dev Diary #1: The Fractured World of Ailur Video](https://dev.to/gg_news/ign-kristala-official-dev-diary-1-the-fractured-world-of-ailur-video-4l9k)
+- [IGN: Nobody 2 Review](https://dev.to/gg_news/ign-nobody-2-review-2gm9)
 <!-- BLOG-POST-LIST:END -->
 
 
