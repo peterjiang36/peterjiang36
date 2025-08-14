@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I take on the LONGEST golf course in the world &lpar;insane challenge&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-take-on-the-longest-golf-course-in-the-world-insane-challenge-344o)
-- [IGN: NBA 2K26 - Official MyTEAM Trailer](https://dev.to/gg_news/ign-nba-2k26-official-myteam-trailer-1eeg)
-- [IGN: Disney Speedstorm - Official Dale Trailer](https://dev.to/gg_news/ign-disney-speedstorm-official-dale-trailer-48g7)
-- [IGN: Dark Deity 2 - Official Nintendo Switch Release Date Announcement Trailer](https://dev.to/gg_news/ign-dark-deity-2-official-nintendo-switch-release-date-announcement-trailer-144f)
+- [🚀 From Zero to Secure: Deploying a Hardened Azure Environment with Terraform &amp; Azure CLI](https://dev.to/achref_rhouma_b019c220e57/from-zero-to-secure-deploying-a-hardened-azure-environment-with-terraform-azure-cli-33pf)
+- [Introduction to Fetching Data with JavaScript and APIs — For Programmers](https://dev.to/youngjoshua248/introduction-to-fetching-data-with-javascript-and-apis-for-programmers-10nh)
+- [I Gave ChatGPT a Face — And Everything Changed](https://dev.to/epic_programmer_55489f708/i-gave-chatgpt-a-face-and-everything-changed-16ie)
+- [🚀 Advanced Implementation and Production Excellence](https://dev.to/abdelrahman_adnan/advanced-implementation-and-production-excellence-4619)
 <!-- BLOG-POST-LIST:END -->
 
 
