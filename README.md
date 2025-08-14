@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
-- [Simplifying SQL Date Data Types with Practical Tips](https://dev.to/dbvismarketing/simplifying-sql-date-data-types-with-practical-tips-528p)
-- [Building Four Dog Paws: the story, the code, the challenges, and the roadmap](https://dev.to/urbanpawspecialist/building-four-dog-paws-the-story-the-code-the-challenges-and-the-roadmap-43gn)
-- [Schedule Override: The Safety Valve Your Cloud Automation Has Been Missing](https://dev.to/zopdev/schedule-override-the-safety-valve-your-cloud-automation-has-been-missing-4njl)
+- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-4gfp)
+- [The Rise of Specialized AI Agents: How to Architect, Deploy, and Manage Them on AWS](https://dev.to/tarunsinghofficial/the-rise-of-specialized-ai-agents-how-to-architect-deploy-and-manage-them-on-aws-2hm7)
+- [ADA Title II Adopting The WCAG 2.1 AA Standard](https://dev.to/thetanweerali/ada-title-ii-adopting-the-wcag-21-aa-standard-pjj)
+- [Unlocking SEO Success: 5 Essential Tools for Better Rankings](https://dev.to/mdkawsharul_islamroyal_/unlocking-seo-success-5-essential-tools-for-better-rankings-11bn)
 <!-- BLOG-POST-LIST:END -->
 
 
