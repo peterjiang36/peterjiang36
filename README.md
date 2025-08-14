@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: Ultimate RAG Bootcamp Using Langchain,LangGraph &amp; Langsmith Course](https://dev.to/vibe_youtube/krish-naik-ultimate-rag-bootcamp-using-langchainlanggraph-langsmith-course-2o21)
-- [GameSpot: Visit McDonaldLand, A New Map Created in Fortnite &lpar;Featuring Khleo Thomas&rpar;](https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-476)
-- [IGN: Of Peaks and Tides - Official Announcement Trailer | Reclaim](https://dev.to/gg_news/ign-of-peaks-and-tides-official-announcement-trailer-reclaim-24en)
-- [IGN: Of Peaks and Tides - Official Animated Trailer](https://dev.to/gg_news/ign-of-peaks-and-tides-official-animated-trailer-1ao5)
+- [Terraform Data Sources: What They Are &amp; How to Use Them Effectively](https://dev.to/techielass/terraform-data-sources-what-they-are-how-to-use-them-effectively-33o6)
+- [Simplifying SQL Date Data Types with Practical Tips](https://dev.to/dbvismarketing/simplifying-sql-date-data-types-with-practical-tips-528p)
+- [Building Four Dog Paws: the story, the code, the challenges, and the roadmap](https://dev.to/urbanpawspecialist/building-four-dog-paws-the-story-the-code-the-challenges-and-the-roadmap-43gn)
+- [Schedule Override: The Safety Valve Your Cloud Automation Has Been Missing](https://dev.to/zopdev/schedule-override-the-safety-valve-your-cloud-automation-has-been-missing-4njl)
 <!-- BLOG-POST-LIST:END -->
 
 
