@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run gpt-oss Locally in NativeMind &lpar;Setup Guide&rpar;](https://dev.to/nativemind/how-to-run-gpt-oss-locally-in-nativemind-setup-guide-2d08)
-- [Gemini CLI Major August 2025 Update: VSCode Integration &amp; MCP Protocol Enhancements](https://dev.to/czmilo/gemini-cli-major-august-2025-update-vscode-integration-mcp-protocol-enhancements-1gf9)
-- [Building an AWS DevOps AI Agent with Strands SDK - using Kiro vibe sessions](https://dev.to/sigitp/building-an-aws-devops-ai-agent-with-strands-sdk-using-kiro-vibe-sessions-8me)
-- [How good is Gen AI at providing estimates — and then holding itself accountable for meeting them?](https://dev.to/dmitryame/how-good-is-gen-ai-at-providing-estimates-and-then-holding-itself-accountable-for-meeting-them-3pee)
+- [Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome](https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d)
+- [JavaScript Interview Question: Compute the Sum of a List of Numbers, Recursively](https://dev.to/codeguage/javascript-interview-question-compute-the-sum-of-a-list-of-numbers-recursively-1fml)
+- [Snowflake RBAC 101 – Episode 2: Role Hierarchies &amp; Least Privilege](https://dev.to/qvfagundes/snowflake-rbac-101-episode-2-role-hierarchies-least-privilege-4fge)
+- [Bridging the Gap Between LLMs and Enterprise APIs using FastMCP: How to Auto-Generate AI Tools from OpenAPI Specs](https://dev.to/sreeni5018/bridging-the-gap-between-llms-and-enterprise-apis-using-fastmcp-how-to-auto-generate-ai-tools-from-4cf9)
 <!-- BLOG-POST-LIST:END -->
 
 
