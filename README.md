@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Objects at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-objects-at-smithsonians-airandspace-57b1)
-- [COLORS: Isabella Lovestory - Telenovela | A COLORS SHOW](https://dev.to/music_youtube/colors-isabella-lovestory-telenovela-a-colors-show-h9g)
-- [KEXP: Sunflower Bean - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-full-performance-live-on-kexp-1366)
-- [Tech With Tim: Python programming roadmap - what skills should you learn first](https://dev.to/vibe_youtube/tech-with-tim-python-programming-roadmap-what-skills-should-you-learn-first-2j2e)
+- [🚀 I Built a Mobile-First Expense Tracker in Angular + Tailwind — Works 100% Offline](https://dev.to/devnamdev2003/i-built-a-mobile-first-expense-tracker-in-angular-tailwind-works-100-offline-5fhh)
+- [From Hackathon to Production: Shipping Under Pressure Without Burning Out](https://dev.to/vadym_info_polus/from-hackathon-to-production-shipping-under-pressure-without-burning-out-1ppf)
+- [The Spirit of 15th August at Payilagam](https://dev.to/kirubagaran_k_438a86c991/the-spirit-of-15th-august-at-payilagam-10pi)
+- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
 <!-- BLOG-POST-LIST:END -->
 
 
