@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reasonably Simple, Secure Password Scheme](https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890)
-- [SIEM &lpar;Security Information and Event Management system&rpar; - overview](https://dev.to/moh4med404/siem-security-information-and-event-management-system-overview-3la4)
-- [From JavaScript to Python: A Smooth Transition for Web Developers](https://dev.to/labreu00/from-javascript-to-python-a-smooth-transition-for-web-developers-1o4g)
-- [VPS Deployment Guide &lpar;NEXT JS/REACT JS + GITHUB ACTIONS&rpar;](https://dev.to/heyitsuzair/vps-deployment-guide-next-jsreact-js-github-actions-ff5)
+- [180 Days of Frontend Development Challenge Day 43 – Design a Landing Page from a Mockup](https://dev.to/code_2/180-days-of-frontend-development-challengeday-43-design-a-landing-page-from-a-mockup-4513)
+- [EVENTS IN JAVASCRIPT](https://dev.to/gustavo_ax/events-in-javascript-3f49)
+- [Hypothesis Testing in a Medical Scenario](https://dev.to/victoria_irungu_985e96a2b/hypothesis-testing-in-a-medical-scenario-1b4e)
+- [Building a Node.js Auth API: JWT, Bcrypt &amp; Cookies](https://dev.to/imrancodes/building-a-nodejs-auth-api-jwt-bcrypt-cookies-354n)
 <!-- BLOG-POST-LIST:END -->
 
 
