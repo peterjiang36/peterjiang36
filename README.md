@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# ES6 Modules in Node.js: Your Gateway to Modern JavaScript Development](https://dev.to/sudiip__17/-es6-modules-in-nodejs-your-gateway-to-modern-javascript-development-4bh1)
-- [How GPT Can Assist in Bloodstream Infection Management: AI as a Clinician’s Helper](https://dev.to/xinjie_zou_d67d2805538130/how-gpt-can-assist-in-bloodstream-infection-management-ai-as-a-clinicians-helper-39ce)
-- [Day 1 Data Analytics Progress📈](https://dev.to/vengat2505/day-1-data-analytics-progress-4k25)
-- [Putting AWS Skills to Work: Building an AB Testing Tracker](https://dev.to/ajithmanmu/putting-aws-skills-to-work-building-an-ab-testing-tracker-34c)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Objects at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-objects-at-smithsonians-airandspace-57b1)
+- [COLORS: Isabella Lovestory - Telenovela | A COLORS SHOW](https://dev.to/music_youtube/colors-isabella-lovestory-telenovela-a-colors-show-h9g)
+- [KEXP: Sunflower Bean - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-full-performance-live-on-kexp-1366)
+- [Tech With Tim: Python programming roadmap - what skills should you learn first](https://dev.to/vibe_youtube/tech-with-tim-python-programming-roadmap-what-skills-should-you-learn-first-2j2e)
 <!-- BLOG-POST-LIST:END -->
 
 
