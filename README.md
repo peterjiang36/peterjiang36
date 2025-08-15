@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
-- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
-- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4ko5)
+- [Getting error , npm run build please help](https://dev.to/tech_talents_a9911b47de44/getting-error-npm-run-build-please-help-4g8b)
+- [How to Learn Faster Than Everyone You Know](https://dev.to/leena_malhotra_355340d89c/how-to-learn-faster-than-everyone-you-know-3649)
+- [When everyone has access to the same DevOps tool and coding options, then our personal brand will help us stand out. AI has made personal branding mandatory instead of optional.](https://dev.to/jaideepparashar/when-everyone-has-access-to-the-same-devops-tool-and-coding-options-then-our-personal-brand-will-404a)
+- [Happy Independence Day, India! 🇮🇳 | Exciting BizKhata Apps Coming Soon](https://dev.to/pjdeveloper896/happy-independence-day-india-exciting-bizkhata-apps-coming-soon-55c)
 <!-- BLOG-POST-LIST:END -->
 
 
