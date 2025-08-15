@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [class &amp;object](https://dev.to/ranjith_ranjith_6851c8e0a/class-object-528f)
-- [IGN: Former Sony Exec Says Gaming Sub Services Turn Devs Into &#39;Wage Slaves&#39; - IGN Daily Fix](https://dev.to/gg_news/ign-former-sony-exec-says-gaming-sub-services-turn-devs-into-wage-slaves-ign-daily-fix-439f)
-- [JavaScript Implicit Conversion](https://dev.to/yangholmes/javascript-implicit-conversion-1hij)
-- [Terraform vs CloudFormation: Which AWS IaC Tool Should You Use? 🤔](https://dev.to/yash_sonawane25/terraform-vs-cloudformation-which-aws-iac-tool-should-you-use-2h3i)
+- [Introduction to Banks](https://dev.to/madgan95/introduction-to-banks-4b3i)
+- [Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach](https://dev.to/sharon_42e16b8da44dabde6d/citrix-netscaler-adcgateway-session-token-leak-patch-now-or-risk-a-breach-kgb)
+- [The Flexibility Trap: How Remote Work Destroyed My Most Productive Team](https://dev.to/michealwilhite/the-flexibility-trap-how-remote-work-destroyed-my-most-productive-team-31g1)
+- [Junior vs Senior Developers: How They Use ChatGPT for Coding](https://dev.to/er-raj-aryan/junior-vs-senior-developers-how-they-use-chatgpt-for-coding-38ci)
 <!-- BLOG-POST-LIST:END -->
 
 
