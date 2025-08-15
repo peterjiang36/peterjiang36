@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Ai Studio to create Crypto News &amp; Blog websites](https://dev.to/kunlexcity42/using-ai-studio-to-create-crypto-news-blog-websites-38kj)
-- [🔔How to send notifications to user while app is running on background?🔔](https://dev.to/harmonyos/how-to-send-notifications-to-user-while-app-is-running-on-background-1a8i)
-- [Copy &amp; Paste PostgreSQL Query Results into Google Sheets &lpar;No CSV Needed&rpar;](https://dev.to/montells/copy-paste-postgresql-query-results-into-google-sheets-no-csv-needed-3omb)
-- [SASE vs. SSE: What Is the Difference?](https://dev.to/clouddefenseai/sase-vs-sse-what-is-the-difference-2h8o)
+- [KEXP: Sunflower Bean - Sunshine &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-sunshine-live-on-kexp-2df9)
+- [KEXP: Sunflower Bean - I Knew Love &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-i-knew-love-live-on-kexp-16me)
+- [KEXP: Sunflower Bean - Nothing Romantic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-nothing-romantic-live-on-kexp-21i1)
+- [KEXP: Sunflower Bean - Champagne Taste &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sunflower-bean-champagne-taste-live-on-kexp-lg2)
 <!-- BLOG-POST-LIST:END -->
 
 
