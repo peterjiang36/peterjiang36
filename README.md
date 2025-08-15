@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices or Micro-progress? The Perils of Pre-Scaling Too Soon](https://dev.to/mtsammy40/microservices-or-micro-progress-the-perils-of-pre-scaling-too-soon-1049)
-- [Top 10 Open-Source AI Projects You Can Clone Today](https://dev.to/robort_gabriel_b93dd3d140/top-10-open-source-ai-projects-you-can-clone-today-1i4c)
-- [How to Improve Product Quality Using Business Central &lpar;Let Power BI and Excel Show You&rpar;](https://dev.to/insight_works/how-to-improve-product-quality-using-business-central-let-power-bi-and-excel-show-you-59md)
-- [Diving Deeper into Automations #40](https://dev.to/0xj0n1/diving-deeper-into-automations-40-3574)
+- [AI Assistant ChatBot — Full Control: My WordPress Plugin](https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5)
+- [Connecting AI to the Real World: Understanding Model Context Protocol &lpar;MCP&rpar; by Anthropic](https://dev.to/iamfaham/connecting-ai-to-the-real-world-understanding-model-context-protocol-mcp-by-anthropic-39hd)
+- [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
+- [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
 <!-- BLOG-POST-LIST:END -->
 
 
