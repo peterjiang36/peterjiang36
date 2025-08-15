@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting error , npm run build please help](https://dev.to/tech_talents_a9911b47de44/getting-error-npm-run-build-please-help-4g8b)
-- [How to Learn Faster Than Everyone You Know](https://dev.to/leena_malhotra_355340d89c/how-to-learn-faster-than-everyone-you-know-3649)
-- [When everyone has access to the same DevOps tool and coding options, then our personal brand will help us stand out. AI has made personal branding mandatory instead of optional.](https://dev.to/jaideepparashar/when-everyone-has-access-to-the-same-devops-tool-and-coding-options-then-our-personal-brand-will-404a)
-- [Happy Independence Day, India! 🇮🇳 | Exciting BizKhata Apps Coming Soon](https://dev.to/pjdeveloper896/happy-independence-day-india-exciting-bizkhata-apps-coming-soon-55c)
+- [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
+- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-86m)
+- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-2d3c)
+- [Introducing Dashy Simple: Your Private, Modern, and Browser-Based Start Page](https://dev.to/kingyou/introducing-dashy-simple-your-private-modern-and-browser-based-start-page-c62)
 <!-- BLOG-POST-LIST:END -->
 
 
