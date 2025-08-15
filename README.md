@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Founded Cognix: Creating Reliable AI Tools](https://dev.to/cognix-dev/why-i-founded-cognix-creating-reliable-ai-tools-1be5)
-- [Deploy SafeLine WAF with Docker — A Step-by-Step Guide](https://dev.to/sharon_42e16b8da44dabde6d/deploy-safeline-waf-with-docker-a-step-by-step-guide-dgj)
-- [NEAR vs Solana: A Developer&#39;s Real-World Comparison - What I Wish I&#39;d Known Before Building My First DApp](https://dev.to/losnero6/near-vs-solana-a-developers-real-world-comparison-what-i-wish-id-known-before-building-my-2poc)
-- [Мои приложения из Microsoft Store](https://dev.to/linuxgik/moi-prilozhieniia-iz-microsoft-store-275b)
+- [Brighter RC2: Mudanças na configuração dos Messaging Broker](https://dev.to/actor-dev/brighter-rc2-mudancas-na-configuracao-dos-messaging-broker-3oc5)
+- [Workshop: One Minute Art](https://dev.to/starkmapper/workshop-one-minute-art-443e)
+- [Brighter V10 RC2: Messaging Gateway](https://dev.to/actor-dev/brighter-v10-rc2-messaging-gateway-1pfe)
+- [What are Build Tools ?](https://dev.to/mashoodhimself/what-are-build-tools--4364)
 <!-- BLOG-POST-LIST:END -->
 
 
