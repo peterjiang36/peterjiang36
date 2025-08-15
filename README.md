@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wisp – A Modern, Secure One-Time Secret Sharing App Built with Laravel 12, Vue 3 and Inertia.js](https://dev.to/thavarshan/wisp-a-modern-secure-one-time-secret-sharing-app-built-with-laravel-12-vue-3-and-inertiajs-39e4)
-- [🎨 Making Long Coding Sessions More Pleasant — The Story Behind Harmonia Theme](https://dev.to/agusrdz/making-long-coding-sessions-more-pleasant-the-story-behind-harmonia-theme-2390)
-- [342. Power of Four](https://dev.to/mdarifulhaque/342-power-of-four-55o2)
-- [Confusion between html and css learning](https://dev.to/ravi_arora_60fb71443a1d01/confusion-between-html-and-css-learninh-34d6)
+- [class &amp;object](https://dev.to/ranjith_ranjith_6851c8e0a/class-object-528f)
+- [IGN: Former Sony Exec Says Gaming Sub Services Turn Devs Into &#39;Wage Slaves&#39; - IGN Daily Fix](https://dev.to/gg_news/ign-former-sony-exec-says-gaming-sub-services-turn-devs-into-wage-slaves-ign-daily-fix-439f)
+- [JavaScript Implicit Conversion](https://dev.to/yangholmes/javascript-implicit-conversion-1hij)
+- [Terraform vs CloudFormation: Which AWS IaC Tool Should You Use? 🤔](https://dev.to/yash_sonawane25/terraform-vs-cloudformation-which-aws-iac-tool-should-you-use-2h3i)
 <!-- BLOG-POST-LIST:END -->
 
 
