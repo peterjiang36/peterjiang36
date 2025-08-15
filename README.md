@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to implement multitasking scheduling mechanism on a microcontroller?](https://dev.to/carolineee/how-to-implement-multitasking-scheduling-mechanism-on-a-microcontroller-2n9k)
-- [Goravel v1.17 Preview: Sending emails supports rendering with view templates](https://dev.to/bowenhan/goravel-v117-preview-sending-emails-supports-rendering-with-view-templates-19ge)
-- [SQL vs. NoSQL: Will the Wrong Data Store Destroy your Transaction Records?](https://dev.to/flutterwaveeng/sql-vs-nosql-will-the-wrong-data-store-destroy-your-transaction-records-46lj)
-- [How to Install and Use Emacs or Micro Editor in Termux](https://dev.to/terminaltools/how-to-install-and-use-emacs-or-micro-editor-in-termux-32ga)
+- [Linus Tech Tips &lpar;LTT&rpar;: Building a Gamer Living Room on a Budget - Scrapyard Wars X Home Theater Edition - Part 1](https://dev.to/future_youtube/linus-tech-tips-ltt-building-a-gamer-living-room-on-a-budget-scrapyard-wars-x-home-theater-4j7c)
+- [IGN: Ghost of Yōtei - Official Yari Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-yari-gameplay-trailer-5f93)
+- [🏁🍭Lollypop Designathon 2025 - The Ultimate 24-hour UI/UX Design Competition is BACK!](https://dev.to/lollypopdesign/lollypop-designathon-2025-the-ultimate-24-hour-uiux-design-competition-is-back-ng7)
+- [The Role of ICT Testers in PCB Manufacturing](https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8)
 <!-- BLOG-POST-LIST:END -->
 
 
