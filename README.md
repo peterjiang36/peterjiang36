@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Banks](https://dev.to/madgan95/introduction-to-banks-4b3i)
-- [Citrix NetScaler ADC/Gateway Session Token Leak — Patch Now or Risk a Breach](https://dev.to/sharon_42e16b8da44dabde6d/citrix-netscaler-adcgateway-session-token-leak-patch-now-or-risk-a-breach-kgb)
-- [The Flexibility Trap: How Remote Work Destroyed My Most Productive Team](https://dev.to/michealwilhite/the-flexibility-trap-how-remote-work-destroyed-my-most-productive-team-31g1)
-- [Junior vs Senior Developers: How They Use ChatGPT for Coding](https://dev.to/er-raj-aryan/junior-vs-senior-developers-how-they-use-chatgpt-for-coding-38ci)
+- [Como criar uma VPS no Brasil?](https://dev.to/letscloud_team/como-criar-uma-vps-no-brasil-3lib)
+- [Automatically Generate .env.example from Your Code—No More Guesswork!](https://dev.to/silentwatcher_95/automatically-generate-envexample-from-your-code-no-more-guesswork-8i5)
+- [How to Create a VPS in Brazil?](https://dev.to/letscloud_team/how-to-create-a-vps-in-brazil-6b3)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-4ko5)
 <!-- BLOG-POST-LIST:END -->
 
 
