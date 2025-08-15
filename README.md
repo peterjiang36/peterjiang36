@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brighter RC2: Mudanças na configuração dos Messaging Broker](https://dev.to/actor-dev/brighter-rc2-mudancas-na-configuracao-dos-messaging-broker-3oc5)
-- [Workshop: One Minute Art](https://dev.to/starkmapper/workshop-one-minute-art-443e)
-- [Brighter V10 RC2: Messaging Gateway](https://dev.to/actor-dev/brighter-v10-rc2-messaging-gateway-1pfe)
-- [What are Build Tools ?](https://dev.to/mashoodhimself/what-are-build-tools--4364)
+- [How to implement multitasking scheduling mechanism on a microcontroller?](https://dev.to/carolineee/how-to-implement-multitasking-scheduling-mechanism-on-a-microcontroller-2n9k)
+- [Goravel v1.17 Preview: Sending emails supports rendering with view templates](https://dev.to/bowenhan/goravel-v117-preview-sending-emails-supports-rendering-with-view-templates-19ge)
+- [SQL vs. NoSQL: Will the Wrong Data Store Destroy your Transaction Records?](https://dev.to/flutterwaveeng/sql-vs-nosql-will-the-wrong-data-store-destroy-your-transaction-records-46lj)
+- [How to Install and Use Emacs or Micro Editor in Termux](https://dev.to/terminaltools/how-to-install-and-use-emacs-or-micro-editor-in-termux-32ga)
 <!-- BLOG-POST-LIST:END -->
 
 
