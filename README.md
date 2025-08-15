@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
-- [I Gave My LLM a Promotion: Now It Delegates Its Own Work](https://dev.to/xzdes/i-gave-my-llm-a-promotion-now-it-delegates-its-own-work-2loe)
-- [Security news weekly round-up - 15th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-15th-august-2025-446i)
-- [fsMate A modular collection of file system utilities for Node.js](https://dev.to/indianmodassir/fsmate-a-modular-collection-of-file-system-utilities-for-nodejs-172g)
+- [Microservices or Micro-progress? The Perils of Pre-Scaling Too Soon](https://dev.to/mtsammy40/microservices-or-micro-progress-the-perils-of-pre-scaling-too-soon-1049)
+- [Top 10 Open-Source AI Projects You Can Clone Today](https://dev.to/robort_gabriel_b93dd3d140/top-10-open-source-ai-projects-you-can-clone-today-1i4c)
+- [How to Improve Product Quality Using Business Central &lpar;Let Power BI and Excel Show You&rpar;](https://dev.to/insight_works/how-to-improve-product-quality-using-business-central-let-power-bi-and-excel-show-you-59md)
+- [Diving Deeper into Automations #40](https://dev.to/0xj0n1/diving-deeper-into-automations-40-3574)
 <!-- BLOG-POST-LIST:END -->
 
 
