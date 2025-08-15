@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built a Mobile-First Expense Tracker in Angular + Tailwind — Works 100% Offline](https://dev.to/devnamdev2003/i-built-a-mobile-first-expense-tracker-in-angular-tailwind-works-100-offline-5fhh)
-- [From Hackathon to Production: Shipping Under Pressure Without Burning Out](https://dev.to/vadym_info_polus/from-hackathon-to-production-shipping-under-pressure-without-burning-out-1ppf)
-- [The Spirit of 15th August at Payilagam](https://dev.to/kirubagaran_k_438a86c991/the-spirit-of-15th-august-at-payilagam-10pi)
-- [Adobe Creative Cloud: Make a Basic Product Shot Look Like a Movie Trailer](https://dev.to/design_youtube/adobe-creative-cloud-make-a-basic-product-shot-look-like-a-movie-trailer-i56)
+- [3D Printing Nerd: From Broken to Better Than New – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-from-broken-to-better-than-new-how-to-design-4gah)
+- [Adam Savage&#39;s Tested: Five Reasons Adam Savage Loves Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-five-reasons-adam-savage-loves-smithsonians-airandspace-352i)
+- [Marques Brownlee &lpar;MKBHD&rpar;: Top 5 Sports Tech I Actually Use!](https://dev.to/future_youtube/marques-brownlee-mkbhd-top-5-sports-tech-i-actually-use-17be)
+- [GameSpot: gamescom Opening Night Live 2025 &lpar;Black Ops 7, Resident Evil Requiem&rpar;](https://dev.to/gg_news/gamespot-gamescom-opening-night-live-2025-black-ops-7-resident-evil-requiem-e6i)
 <!-- BLOG-POST-LIST:END -->
 
 
