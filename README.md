@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: Making a Mini Knob](https://dev.to/maker_youtube/alec-steele-making-a-mini-knob-58e5)
-- [3D Printing Nerd: Fix ANYTHING with 3D Printing – How To Design](https://dev.to/maker_youtube/3d-printing-nerd-fix-anything-with-3d-printing-how-to-design-41gc)
-- [Veritasium: The Perfect Battery Material Is DANGEROUS](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-23dc)
-- [GameSpot: Pokemon Legends Z-A Hands On - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-hands-on-the-biggest-pokemon-shake-up-in-decades-3l12)
+- [I am just starting these Functional Programming Lectures. What are your guys’ thought about it? https://github.com/seandinwiddie/lectures/blob/main/index.md](https://dev.to/seandinwiddie/i-am-just-starting-these-functional-programming-lectures-what-are-your-guys-thought-about-it-39in)
+- [I Gave My LLM a Promotion: Now It Delegates Its Own Work](https://dev.to/xzdes/i-gave-my-llm-a-promotion-now-it-delegates-its-own-work-2loe)
+- [Security news weekly round-up - 15th August 2025](https://dev.to/ziizium/security-news-weekly-round-up-15th-august-2025-446i)
+- [fsMate A modular collection of file system utilities for Node.js](https://dev.to/indianmodassir/fsmate-a-modular-collection-of-file-system-utilities-for-nodejs-172g)
 <!-- BLOG-POST-LIST:END -->
 
 
