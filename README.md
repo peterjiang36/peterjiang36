@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Pokemon Legends Z-A - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-the-biggest-pokemon-shake-up-in-decades-3bp8)
-- [IGN: Crimson Desert - 13 Minutes of Gameplay](https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9)
-- [IGN: The Terminal List: Dark Wolf - Exclusive Behind the Scenes Clip &lpar;2025&rpar; Chris Pratt](https://dev.to/gg_news/ign-the-terminal-list-dark-wolf-exclusive-behind-the-scenes-clip-2025-chris-pratt-52c3)
-- [Creating Text Shadows in CSS: Simple to Advanced Techniques](https://dev.to/highflyer910/creating-text-shadows-in-css-simple-to-advanced-techniques-59j2)
+- [# ES6 Modules in Node.js: Your Gateway to Modern JavaScript Development](https://dev.to/sudiip__17/-es6-modules-in-nodejs-your-gateway-to-modern-javascript-development-4bh1)
+- [How GPT Can Assist in Bloodstream Infection Management: AI as a Clinician’s Helper](https://dev.to/xinjie_zou_d67d2805538130/how-gpt-can-assist-in-bloodstream-infection-management-ai-as-a-clinicians-helper-39ce)
+- [Day 1 Data Analytics Progress📈](https://dev.to/vengat2505/day-1-data-analytics-progress-4k25)
+- [Putting AWS Skills to Work: Building an AB Testing Tracker](https://dev.to/ajithmanmu/putting-aws-skills-to-work-building-an-ab-testing-tracker-34c)
 <!-- BLOG-POST-LIST:END -->
 
 
