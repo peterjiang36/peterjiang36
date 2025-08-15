@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Founding full stack engineer](https://dev.to/timalb/founding-full-stack-engineer-43da)
-- [From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI](https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj)
-- [Why Developers Still Choose Python, Even If It’s “Slow”](https://dev.to/grenishrai/why-developers-still-choose-python-even-if-its-slow-2hlc)
-- [From Code Reviews to Culture Reviews: Leadership Lessons for Dev Teams](https://dev.to/joe_anthony_c718780b8bf32/from-code-reviews-to-culture-reviews-leadership-lessons-for-dev-teams-5h76)
+- [GameSpot: Pokemon Legends Z-A - The Biggest Pokemon Shake Up In Decades!](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-the-biggest-pokemon-shake-up-in-decades-3bp8)
+- [IGN: Crimson Desert - 13 Minutes of Gameplay](https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9)
+- [IGN: The Terminal List: Dark Wolf - Exclusive Behind the Scenes Clip &lpar;2025&rpar; Chris Pratt](https://dev.to/gg_news/ign-the-terminal-list-dark-wolf-exclusive-behind-the-scenes-clip-2025-chris-pratt-52c3)
+- [Creating Text Shadows in CSS: Simple to Advanced Techniques](https://dev.to/highflyer910/creating-text-shadows-in-css-simple-to-advanced-techniques-59j2)
 <!-- BLOG-POST-LIST:END -->
 
 
