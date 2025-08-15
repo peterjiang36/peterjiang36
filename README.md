@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nardwuar the Human Serviette: Nardwuar vs. Kaytranada](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-kaytranada-3opg)
-- [[Boost]](https://dev.to/klaudia_kovov_bf17561f/-86m)
-- [[Boost]](https://dev.to/furudo_erika_7633eee4afa5/-2d3c)
-- [Introducing Dashy Simple: Your Private, Modern, and Browser-Based Start Page](https://dev.to/kingyou/introducing-dashy-simple-your-private-modern-and-browser-based-start-page-c62)
+- [Why I Founded Cognix: Creating Reliable AI Tools](https://dev.to/cognix-dev/why-i-founded-cognix-creating-reliable-ai-tools-1be5)
+- [Deploy SafeLine WAF with Docker — A Step-by-Step Guide](https://dev.to/sharon_42e16b8da44dabde6d/deploy-safeline-waf-with-docker-a-step-by-step-guide-dgj)
+- [NEAR vs Solana: A Developer&#39;s Real-World Comparison - What I Wish I&#39;d Known Before Building My First DApp](https://dev.to/losnero6/near-vs-solana-a-developers-real-world-comparison-what-i-wish-id-known-before-building-my-2poc)
+- [Мои приложения из Microsoft Store](https://dev.to/linuxgik/moi-prilozhieniia-iz-microsoft-store-275b)
 <!-- BLOG-POST-LIST:END -->
 
 
