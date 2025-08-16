@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/noodle/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-405k)
-- [Week 9: DevOps Meets Cloud – AWS Skills for Modern Engineering](https://dev.to/dev_dave_26/week-9-devops-meets-cloud-aws-skills-for-modern-engineering-1b7h)
-- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
-- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
+- [Linus Tech Tips &lpar;LTT&rpar;: My Haters will Hate this](https://dev.to/future_youtube/linus-tech-tips-ltt-my-haters-will-hate-this-396p)
+- [The Game Theorists: Game Theory: FNAF, Did Fazbear REALLY Steal Everything?](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-did-fazbear-really-steal-everything-gen)
+- [GameSpot: Marvel Tokon Gameplay Mechanics Discussion And Things We Found](https://dev.to/gg_news/gamespot-marvel-tokon-gameplay-mechanics-discussion-and-things-we-found-aan)
+- [New improvements for neural web](https://dev.to/okerew/new-improvements-for-neural-web-3gi6)
 <!-- BLOG-POST-LIST:END -->
 
 
