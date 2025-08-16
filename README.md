@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Generative AI with JavaScript – Full Course](https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7)
-- [Public vs. Private LLMs: Another One Rides the Bus](https://dev.to/doctorew/public-vs-private-llms-another-one-rides-the-bus-37a7)
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - memoria ram](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-memoria-ram-39jp)
-- [Battling the Silent Threat: A Practical Guide to Preventing CSRF Attacks](https://dev.to/freedom-coder/battling-the-silent-threat-a-practical-guide-to-preventing-csrf-attacks-1ked)
+- [Como construir um computador do zero &lpar;usando Logisim&rpar; - controler](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-controler-4lb)
+- [Integration of LLM and Traditional Parsing Technologies: Evolution and Best Practices in Web Data Extraction](https://dev.to/zhangzib123/integration-of-llm-and-traditional-parsing-technologies-evolution-and-best-practices-in-web-data-4mm0)
+- [Como construir um computador do zero &lpar;usando Logisim&rpar; - output](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-output-3o85)
+- [Day 17 of My Data Analytics Journey !](https://dev.to/ramyacse/day-17-of-my-data-analytics-journey--pm8)
 <!-- BLOG-POST-LIST:END -->
 
 
