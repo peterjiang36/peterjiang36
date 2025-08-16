@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Workload Identity Federation Explained in 2 Minutes &lpar;with a School Trip Analogy&rpar;](https://dev.to/mmk4mmk/workload-identity-federation-explained-in-2-minutes-with-a-school-trip-analogy-hdf)
-- [React 19 useReducer Deep Dive — From Basics to Complex State Patterns](https://dev.to/a1guy/react-19-usereducer-deep-dive-from-basics-to-complex-state-patterns-3fpi)
-- [Python Behind the Scenes - Understanding Code Execution Flow](https://dev.to/prakash_vinukonda_363ed4b/python-behind-the-scenes-understanding-code-execution-flow-1o07)
-- [Building a smart, agentic email assistant](https://dev.to/dsense/building-a-smart-agentic-email-assistant-4m70)
+- [Adam Savage&#39;s Tested: This Myth Generated the Most Personal Backlash Against Adam Savage and Jamie](https://dev.to/maker_youtube/adam-savages-tested-this-myth-generated-the-most-personal-backlash-against-adam-savage-and-jamie-292a)
+- [Burke Holland: GPT-5 Mini is a good model....if you like orbs](https://dev.to/vibe_youtube/burke-holland-gpt-5-mini-is-a-good-modelif-you-like-orbs-32do)
+- [Veritasium: The Perfect Battery Material Is Dangerous](https://dev.to/future_youtube/veritasium-the-perfect-battery-material-is-dangerous-48ap)
+- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
 <!-- BLOG-POST-LIST:END -->
 
 
