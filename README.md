@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial](https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26)
-- [Smart Contract Core Theory](https://dev.to/loading_blocks/smart-contract-core-theory-ea9)
-- [Custom Sudoku generator app &lpar;Python&rpar;.](https://dev.to/radu985/custom-sudoku-generator-app-python-107l)
-- [Tutorial Presentation on CI/CD with GitHub Actions](https://dev.to/goodluck_ekeoma_2c98866d0/tutorial-presentation-on-cicd-with-github-actions-5820)
+- [React Native : comment une simple mise à jour fait tout s&#39;écrouler](https://dev.to/noodle/react-native-comment-une-simple-mise-a-jour-fait-tout-secrouler-405k)
+- [Week 9: DevOps Meets Cloud – AWS Skills for Modern Engineering](https://dev.to/dev_dave_26/week-9-devops-meets-cloud-aws-skills-for-modern-engineering-1b7h)
+- [Introduction to Gang of Four &lpar;GoF&rpar; Design Patterns](https://dev.to/lovestaco/introduction-to-gang-of-four-gof-design-patterns-57m0)
+- [Building AI CI/CD Pipelines with MCP](https://dev.to/om_shree_0709/building-ai-cicd-pipelines-with-mcp-42cg)
 <!-- BLOG-POST-LIST:END -->
 
 
