@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
-- [Burn down the town &lpar;My AI song&rpar;](https://dev.to/jacklehamster/burn-down-the-town-my-ai-song-1b76)
-- [Understanding AtomFamily in Recoil](https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-4pd0)
-- [🚀 Thrilled to kick off my SECOND year as an IBM Z Student Ambassador!](https://dev.to/retro788/thrilled-to-kick-off-my-second-year-as-an-ibm-z-student-ambassador-38pd)
+- [Danny Maude: This One Move Takes You from Amateur to Pro Ball Striking in 5 minutes](https://dev.to/youtube_golf/danny-maude-this-one-move-takes-you-from-amateur-to-pro-ball-striking-in-5-minutes-3ae3)
+- [🚀 How to Seamlessly Switch Between Browsers in Your Web App with browser-switcher](https://dev.to/jakkimcfly/how-to-seamlessly-switch-between-browsers-in-your-web-app-with-browser-switcher-54lo)
+- [Writing Once, Publishing Everywhere](https://dev.to/alexcloudstar/writing-once-publishing-everywhere-261g)
+- [🧠Can AI Learn to Care?](https://dev.to/marcosomma/can-ai-learn-to-care-41lc)
 <!-- BLOG-POST-LIST:END -->
 
 
