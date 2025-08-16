@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Movibe: Mobile + vibe coding](https://dev.to/rn404/movibe-mobile-vibe-coding-5de1)
-- [Finally testing the solution](https://dev.to/darkedges/finally-testing-the-solution-3bkb)
-- [Deploying the AWS API Gateway V2 to LocalStack](https://dev.to/darkedges/deploying-the-aws-api-gateway-v2-to-localstack-49ab)
-- [Just Launched: ProxiesThatWork.com - Simple, Affordable Proxies That Actually Work](https://dev.to/proxiesthatwork/just-launched-proxiesthatworkcom-simple-affordable-proxies-that-actually-work-jc8)
+- [🧠 Generative AI with JavaScript – Full Course](https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7)
+- [Public vs. Private LLMs: Another One Rides the Bus](https://dev.to/doctorew/public-vs-private-llms-another-one-rides-the-bus-37a7)
+- [Como construir um computador do zero &lpar;usando Logisim&rpar; - memoria ram](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-memoria-ram-39jp)
+- [Battling the Silent Threat: A Practical Guide to Preventing CSRF Attacks](https://dev.to/freedom-coder/battling-the-silent-threat-a-practical-guide-to-preventing-csrf-attacks-1ked)
 <!-- BLOG-POST-LIST:END -->
 
 
