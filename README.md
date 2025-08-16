@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Assistant ChatBot — Full Control: My WordPress Plugin](https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5)
-- [Connecting AI to the Real World: Understanding Model Context Protocol &lpar;MCP&rpar; by Anthropic](https://dev.to/iamfaham/connecting-ai-to-the-real-world-understanding-model-context-protocol-mcp-by-anthropic-39hd)
-- [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://dev.to/zerozulu/vibe-coding-why-ai-powered-development-is-reshaping-software-creation-pom)
-- [How to Configure Container App jobs as GitHub Action runners](https://dev.to/tuan_saad_bd99b8fecac2e88/how-to-configure-container-app-jobs-as-github-runners-2m29)
+- [Title: Bluesky&#39;s Community Guidelines and Policy Revamp: Shaping a More Positive Online Space](https://dev.to/yagyaraj_sharma_6cd410179/title-blueskys-community-guidelines-and-policy-revamp-shaping-a-more-positive-online-space-1ile)
+- [AI Transforms Haute Couture: Fashion&#39;s New Era](https://dev.to/sebastian_reid999/ai-transforms-haute-couture-fashions-new-era-1ea0)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Artifacts at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-artifacts-at-smithsonians-airandspace-12f)
+- [Linus Tech Tips &lpar;LTT&rpar;: Why Is Roblox Shielding Child Predators? - WAN Show August 15, 2025](https://dev.to/future_youtube/linus-tech-tips-ltt-why-is-roblox-shielding-child-predators-wan-show-august-15-2025-ob6)
 <!-- BLOG-POST-LIST:END -->
 
 
