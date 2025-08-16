@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looked Into Kiro’s New Pricing Plan and Found My Welcome Bonus Quietly Used Up](https://dev.to/kennytakaki/looked-into-kiros-new-pricing-plan-and-found-my-welcome-bonus-quietly-used-up-4i0n)
-- [VIRTUAL MACHIHE SCALE SET](https://dev.to/isaiah_izibili_7a39b7d627/virtual-machihe-scale-set-86n)
-- [Deploying an Private ALB to LocalStack](https://dev.to/darkedges/deploying-an-alb-to-localstack-4b01)
-- [Day 17 - Render Dynamic Content in HTML Template](https://dev.to/railsstudent/day-17-render-dynamic-content-in-html-template-3c28)
+- [Movibe: Mobile + vibe coding](https://dev.to/rn404/movibe-mobile-vibe-coding-5de1)
+- [Finally testing the solution](https://dev.to/darkedges/finally-testing-the-solution-3bkb)
+- [Deploying the AWS API Gateway V2 to LocalStack](https://dev.to/darkedges/deploying-the-aws-api-gateway-v2-to-localstack-49ab)
+- [Just Launched: ProxiesThatWork.com - Simple, Affordable Proxies That Actually Work](https://dev.to/proxiesthatwork/just-launched-proxiesthatworkcom-simple-affordable-proxies-that-actually-work-jc8)
 <!-- BLOG-POST-LIST:END -->
 
 
