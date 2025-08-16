@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 67: When Your Bed Becomes Your Enemy and Other Developer Chronicles](https://dev.to/casperday11/day-67-when-your-bed-becomes-your-enemy-and-other-developer-chronicles-4p3a)
-- [Why Top Engineers Are Moving to Serverless &lpar;and How You Can Build One with AWS&rpar;](https://dev.to/lyushher/why-top-engineers-are-moving-to-serverless-and-how-you-can-build-one-with-aws-650)
-- [Rogers PCB: The PTFE Advantage for High-Speed, Reliable Electronics](https://dev.to/frank_1871bc3c55f35370df3/rogers-pcb-the-ptfe-advantage-for-high-speed-reliable-electronics-8bm)
-- [Database Setup for Smart Village Project: A Complete Windows Guide](https://dev.to/royson_menezes_479ed50941/database-setup-for-smart-village-project-a-complete-windows-guide-45m0)
+- [CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial](https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26)
+- [Smart Contract Core Theory](https://dev.to/loading_blocks/smart-contract-core-theory-ea9)
+- [Custom Sudoku generator app &lpar;Python&rpar;.](https://dev.to/radu985/custom-sudoku-generator-app-python-107l)
+- [Tutorial Presentation on CI/CD with GitHub Actions](https://dev.to/goodluck_ekeoma_2c98866d0/tutorial-presentation-on-cicd-with-github-actions-5820)
 <!-- BLOG-POST-LIST:END -->
 
 
