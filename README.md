@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - controler](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-controler-4lb)
-- [Integration of LLM and Traditional Parsing Technologies: Evolution and Best Practices in Web Data Extraction](https://dev.to/zhangzib123/integration-of-llm-and-traditional-parsing-technologies-evolution-and-best-practices-in-web-data-4mm0)
-- [Como construir um computador do zero &lpar;usando Logisim&rpar; - output](https://dev.to/renan_marquetti_9d8acb2b1/como-construir-um-computador-do-zero-usando-logisim-output-3o85)
-- [Day 17 of My Data Analytics Journey !](https://dev.to/ramyacse/day-17-of-my-data-analytics-journey--pm8)
+- [Twitter is an ultimate platform for DevOps to show their work and get the attention of big companies, including MAANG+AI. Don&#39;t leave your code to chance; showcase directly to Executives and CXOs.](https://dev.to/jaideepparashar/twitter-is-an-ultimate-platform-for-devops-to-show-their-work-and-get-the-attention-of-big-4kma)
+- [IA en las aulas y mundo laboral](https://dev.to/erickvasm/ia-en-las-aulas-y-mundo-laboral-3l0l)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4lah)
+- [7 Twitter Prompts That Grew My AI Audience](https://dev.to/jaideepparashar/7-twitter-prompts-that-grew-my-ai-audience-5g01)
 <!-- BLOG-POST-LIST:END -->
 
 
