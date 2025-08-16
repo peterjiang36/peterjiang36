@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
-- [Building True Micro-Frontends: Beyond iFrames with Module Federation](https://dev.to/abdebek/building-true-micro-frontends-beyond-iframes-with-module-federation-3jen)
-- [Adam Optimizer in Deep Learning – A Beginner’s Guide](https://dev.to/bharathprasad/adam-optimizer-in-deep-learning-a-beginners-guide-26i4)
-- [Day-80 JDBC in Java](https://dev.to/tamilselvan1812/day-80-jdbc-in-java-3afc)
+- [NEAR vs Avalanche: The Developer&#39;s Truth &lpar;From Someone Who&#39;s Been There&rpar; 🔥](https://dev.to/majizzy/near-vs-avalanche-the-developers-truth-from-someone-whos-been-there-4553)
+- [Burn down the town &lpar;My AI song&rpar;](https://dev.to/jacklehamster/burn-down-the-town-my-ai-song-1b76)
+- [Understanding AtomFamily in Recoil](https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-4pd0)
+- [🚀 Thrilled to kick off my SECOND year as an IBM Z Student Ambassador!](https://dev.to/retro788/thrilled-to-kick-off-my-second-year-as-an-ibm-z-student-ambassador-38pd)
 <!-- BLOG-POST-LIST:END -->
 
 
