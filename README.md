@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips &lpar;LTT&rpar;: My Haters will Hate this](https://dev.to/future_youtube/linus-tech-tips-ltt-my-haters-will-hate-this-396p)
-- [The Game Theorists: Game Theory: FNAF, Did Fazbear REALLY Steal Everything?](https://dev.to/gg_news/the-game-theorists-game-theory-fnaf-did-fazbear-really-steal-everything-gen)
-- [GameSpot: Marvel Tokon Gameplay Mechanics Discussion And Things We Found](https://dev.to/gg_news/gamespot-marvel-tokon-gameplay-mechanics-discussion-and-things-we-found-aan)
-- [New improvements for neural web](https://dev.to/okerew/new-improvements-for-neural-web-3gi6)
+- [OpenAI&#39;s GPT-OSS LLM Models: Unlocking the Future of Open AI](https://dev.to/vishva_murthy_4480fcb3d83/openais-gpt-oss-llm-models-unlocking-the-future-of-open-ai-29c0)
+- [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
+- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern — Explained](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-explained-1cla)
+- [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
 <!-- BLOG-POST-LIST:END -->
 
 
