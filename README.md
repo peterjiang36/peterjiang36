@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s GPT-OSS LLM Models: Unlocking the Future of Open AI](https://dev.to/vishva_murthy_4480fcb3d83/openais-gpt-oss-llm-models-unlocking-the-future-of-open-ai-29c0)
-- [Practice Makes Perfect: How AI Interview Simulation Changed My Go Game](https://dev.to/rezasi/practice-makes-perfect-how-ai-interview-simulation-changed-my-go-game-40d2)
-- [Atomic Query Construction &lpar;AQC&rpar; Design Pattern — Explained](https://dev.to/raheelshan/atomic-query-construction-aqc-design-pattern-explained-1cla)
-- [Master Your Raspberry Pi: Set a Static IP for Rock-Solid Networking](https://dev.to/messin_tom/master-your-raspberry-pi-set-a-static-ip-for-rock-solid-networking-58kk)
+- [The Game Theorists: 🔴What WAS the True Secret of the Mimic? | Ft. @Dawko @FuhNaff @RyeToast @HyperDroid @IDsFantasy](https://dev.to/gg_news/the-game-theorists-what-was-the-true-secret-of-the-mimic-ft-dawko-fuhnaff-ryetoast-fg2)
+- [The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us?](https://dev.to/devtechinsights/the-looming-threat-of-ai-powered-malware-could-machines-out-hack-us-2pec)
+- [Cilium CIDR overlap issue](https://dev.to/dhyanioo/cilium-cidr-overlap-issue-54d)
+- [🎯 Cracking Cyfrin&#39;s NFT Challenge: Guessing Pseudo-Randomness Like a Pro](https://dev.to/kode-n-rolla/cracking-cyfrins-nft-challenge-guessing-pseudo-randomness-like-a-pro-1mp5)
 <!-- BLOG-POST-LIST:END -->
 
 
