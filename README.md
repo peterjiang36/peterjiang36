@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: 🔴What WAS the True Secret of the Mimic? | Ft. @Dawko @FuhNaff @RyeToast @HyperDroid @IDsFantasy](https://dev.to/gg_news/the-game-theorists-what-was-the-true-secret-of-the-mimic-ft-dawko-fuhnaff-ryetoast-fg2)
-- [The Looming Threat of AI-Powered Malware: Could Machines Out-Hack Us?](https://dev.to/devtechinsights/the-looming-threat-of-ai-powered-malware-could-machines-out-hack-us-2pec)
-- [Cilium CIDR overlap issue](https://dev.to/dhyanioo/cilium-cidr-overlap-issue-54d)
-- [🎯 Cracking Cyfrin&#39;s NFT Challenge: Guessing Pseudo-Randomness Like a Pro](https://dev.to/kode-n-rolla/cracking-cyfrins-nft-challenge-guessing-pseudo-randomness-like-a-pro-1mp5)
+- [Beyond Prompt Engineering: Envision a Framework for Interactive AI-Assisted Development](https://dev.to/ziv_kfir_aa0a372cec2e1e4b/beyond-prompt-engineering-envision-a-framework-for-interactive-ai-assisted-development-34oj)
+- [Day 26: Jenkins Declarative Pipeline](https://dev.to/udoh_deborah_b1e484c474bf/day-26-jenkins-declarative-pipeline-25kl)
+- [Day 16 of #30DaysOfCode](https://dev.to/justacoder_0x/day-16-of-30daysofcode-2m78)
+- [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
 <!-- BLOG-POST-LIST:END -->
 
 
