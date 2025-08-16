@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Prompt Engineering: Envision a Framework for Interactive AI-Assisted Development](https://dev.to/ziv_kfir_aa0a372cec2e1e4b/beyond-prompt-engineering-envision-a-framework-for-interactive-ai-assisted-development-34oj)
-- [Day 26: Jenkins Declarative Pipeline](https://dev.to/udoh_deborah_b1e484c474bf/day-26-jenkins-declarative-pipeline-25kl)
-- [Day 16 of #30DaysOfCode](https://dev.to/justacoder_0x/day-16-of-30daysofcode-2m78)
-- [Fear of AI: Why College Students Are Dropping Out](https://dev.to/nsoro_allan/fear-of-ai-why-college-students-are-dropping-out-2akp)
+- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n)
+- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-46b3)
+- [Note API: Authentication, Authorization &amp; CRUD](https://dev.to/imrancodes/note-api-authentication-authorization-crud-2gki)
+- [Projetos de impacto: o trabalho de Arnaldo Tomo na comunidade Laravel e mobile](https://dev.to/arnaldo/projetos-de-impacto-o-trabalho-de-arnaldo-tomo-na-comunidade-laravel-e-mobile-3h4k)
 <!-- BLOG-POST-LIST:END -->
 
 
