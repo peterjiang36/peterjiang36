@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter is an ultimate platform for DevOps to show their work and get the attention of big companies, including MAANG+AI. Don&#39;t leave your code to chance; showcase directly to Executives and CXOs.](https://dev.to/jaideepparashar/twitter-is-an-ultimate-platform-for-devops-to-show-their-work-and-get-the-attention-of-big-4kma)
-- [IA en las aulas y mundo laboral](https://dev.to/erickvasm/ia-en-las-aulas-y-mundo-laboral-3l0l)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-4lah)
-- [7 Twitter Prompts That Grew My AI Audience](https://dev.to/jaideepparashar/7-twitter-prompts-that-grew-my-ai-audience-5g01)
+- [🌍 Google Maps Platform Awards 2025](https://dev.to/kavyatrivedi/google-maps-platform-awards-2025-261o)
+- [Building True Micro-Frontends: Beyond iFrames with Module Federation](https://dev.to/abdebek/building-true-micro-frontends-beyond-iframes-with-module-federation-3jen)
+- [Adam Optimizer in Deep Learning – A Beginner’s Guide](https://dev.to/bharathprasad/adam-optimizer-in-deep-learning-a-beginners-guide-26i4)
+- [Day-80 JDBC in Java](https://dev.to/tamilselvan1812/day-80-jdbc-in-java-3afc)
 <!-- BLOG-POST-LIST:END -->
 
 
