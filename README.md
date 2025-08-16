@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Bluesky&#39;s Community Guidelines and Policy Revamp: Shaping a More Positive Online Space](https://dev.to/yagyaraj_sharma_6cd410179/title-blueskys-community-guidelines-and-policy-revamp-shaping-a-more-positive-online-space-1ile)
-- [AI Transforms Haute Couture: Fashion&#39;s New Era](https://dev.to/sebastian_reid999/ai-transforms-haute-couture-fashions-new-era-1ea0)
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Top 5 Artifacts at Smithsonian&#39;s @airandspace](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-top-5-artifacts-at-smithsonians-airandspace-12f)
-- [Linus Tech Tips &lpar;LTT&rpar;: Why Is Roblox Shielding Child Predators? - WAN Show August 15, 2025](https://dev.to/future_youtube/linus-tech-tips-ltt-why-is-roblox-shielding-child-predators-wan-show-august-15-2025-ob6)
+- [Looked Into Kiro’s New Pricing Plan and Found My Welcome Bonus Quietly Used Up](https://dev.to/kennytakaki/looked-into-kiros-new-pricing-plan-and-found-my-welcome-bonus-quietly-used-up-4i0n)
+- [VIRTUAL MACHIHE SCALE SET](https://dev.to/isaiah_izibili_7a39b7d627/virtual-machihe-scale-set-86n)
+- [Deploying an Private ALB to LocalStack](https://dev.to/darkedges/deploying-an-alb-to-localstack-4b01)
+- [Day 17 - Render Dynamic Content in HTML Template](https://dev.to/railsstudent/day-17-render-dynamic-content-in-html-template-3c28)
 <!-- BLOG-POST-LIST:END -->
 
 
