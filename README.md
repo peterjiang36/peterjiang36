@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Wuthering Waves - Version 2.6 Official Release Date Trailer](https://dev.to/gg_news/ign-wuthering-waves-version-26-official-release-date-trailer-4m93)
-- [🚀 Leveling Up in Generative AI](https://dev.to/usama_ali_a6a59f380053582/leveling-up-in-generative-ai-47pn)
-- [Parallel Development with ClaudeCode and Git Worktrees](https://dev.to/yooi/parallel-development-with-claudecode-and-git-worktrees-305a)
-- [I&#39;m a php developer. Someone who wants to get a website made by me should contact me.](https://dev.to/abdulsaboor_e/im-a-php-developer-someone-who-wants-to-get-a-website-made-by-me-should-contact-me-52c1)
+- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
+- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
+- [Building a Virtual Cloud Lab with Ansible, KVM, and Libvirt](https://dev.to/ahmed_marzougui_4f08a0e78/building-a-virtual-cloud-lab-with-ansible-kvm-and-libvirt-48k8)
+- [RAG with LLMs: The Complete Guide to Retrieval-Augmented Generation](https://dev.to/vishva_murthy_4480fcb3d83/rag-with-llms-the-complete-guide-to-retrieval-augmented-generation-21k0)
 <!-- BLOG-POST-LIST:END -->
 
 
