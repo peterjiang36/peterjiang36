@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comet Review: The First True AI-Native Browser?](https://dev.to/myopicoracle/comet-review-the-first-true-ai-native-browser-3e26)
-- [☁️ Part-8: Google Cloud SDK: The gcloud Command-line Tool in GCP](https://dev.to/latchudevops/part-8-google-cloud-sdk-the-gcloud-command-line-tool-in-gcp-532a)
-- [Rust Implementation for High Concurrency Processing&lpar;8840&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing8840-57ll)
-- [10 Latest GitHub Repos for AI Engineers in 2025](https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;0026&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj)
+- [Vibe Coding and the MVP Revolution: Buy Back Your Time, Impress Investors](https://dev.to/yadellopez/vibe-coding-and-the-mvp-revolution-buy-back-your-time-impress-investors-1749)
+- [Zero-Dependency Architecture for Maximum Performance&lpar;7981&rpar;](https://dev.to/ltpp_universe/zero-dependency-architecture-for-maximum-performance7981-1ac3)
+- [Your API is Cute, But Where&#39;s the Reliability Layer?](https://dev.to/dhaval_agrvat_6e65394a83/your-api-is-cute-but-wheres-the-reliability-layer-2d2h)
 <!-- BLOG-POST-LIST:END -->
 
 
