@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Down Estimates for Accurate Project Forecasting](https://dev.to/microestimates/top-down-estimates-for-accurate-project-forecasting-1e13)
-- [bindableとno-unnecessary-condition](https://dev.to/suzulabo/bindabletono-unnecessary-condition-36kb)
-- [Rust Async Web Framework Performance Breakthrough&lpar;6240&rpar;](https://dev.to/ltpp_universe/rust-async-web-framework-performance-breakthrough6240-2bob)
-- [API Development Best Practices: Building Secure and Scalable APIs](https://dev.to/okoye_ndidiamaka_5e3b7d30/api-development-best-practices-building-secure-and-scalable-apis-4oa3)
+- [5 Things I Wish I Knew Earlier When Self-Studying Programming &lpar;Especially #5&rpar;](https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n)
+- [The Definitive React 19 useCallback Guide — Patterns, Pitfalls, and Performance Wins](https://dev.to/a1guy/the-definitive-react-19-usecallback-guide-patterns-pitfalls-and-performance-wins-ce4)
+- [Context Management and Request Lifecycle Optimization&lpar;5664&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5664-3gi9)
+- [&quot;Container&quot; with OCI runtime](https://dev.to/kination/container-with-oci-runtime-1m3g)
 <!-- BLOG-POST-LIST:END -->
 
 
