@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Events Implementation for Real-Time Applications&lpar;7776&rpar;](https://dev.to/ltpp_universe/server-side-events-implementation-for-real-time-applications7776-3483)
-- [Complete Guide: Installing and Configuring Neovim on macOS](https://dev.to/ajtech0001/complete-guide-installing-and-configuring-neovim-on-macos-4a9e)
-- [AWS ALB vs NLB vs CLB – Load Balancers Explained with Use Cases ⚖️☁️](https://dev.to/yash_sonawane25/aws-alb-vs-nlb-vs-clb-load-balancers-explained-with-use-cases-1fln)
-- [Revolutionary Performance Breakthrough in Modern Web Development&lpar;6277&rpar;](https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development6277-550d)
+- [Top Down Estimates for Accurate Project Forecasting](https://dev.to/microestimates/top-down-estimates-for-accurate-project-forecasting-1e13)
+- [bindableとno-unnecessary-condition](https://dev.to/suzulabo/bindabletono-unnecessary-condition-36kb)
+- [Rust Async Web Framework Performance Breakthrough&lpar;6240&rpar;](https://dev.to/ltpp_universe/rust-async-web-framework-performance-breakthrough6240-2bob)
+- [API Development Best Practices: Building Secure and Scalable APIs](https://dev.to/okoye_ndidiamaka_5e3b7d30/api-development-best-practices-building-secure-and-scalable-apis-4oa3)
 <!-- BLOG-POST-LIST:END -->
 
 
