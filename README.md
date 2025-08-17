@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n)
-- [MCP/Tools Are Not REST API: Here&#39;s a Better Design](https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-46b3)
-- [Note API: Authentication, Authorization &amp; CRUD](https://dev.to/imrancodes/note-api-authentication-authorization-crud-2gki)
-- [Projetos de impacto: o trabalho de Arnaldo Tomo na comunidade Laravel e mobile](https://dev.to/arnaldo/projetos-de-impacto-o-trabalho-de-arnaldo-tomo-na-comunidade-laravel-e-mobile-3h4k)
+- [Title: Unleashing the Power of Open-Weight Language Models: A Look at OpenAI&#39;s Latest Release and the Future of Internet Search](https://dev.to/yagyaraj_sharma_6cd410179/title-unleashing-the-power-of-open-weight-language-models-a-look-at-openais-latest-release-and-4n81)
+- [AI in Social Media: Transform Engagement Now!](https://dev.to/sebastian_reid999/ai-in-social-media-transform-engagement-now-33pk)
+- [Daily JavaScript Challenge #JS-254: Find the Longest Substring Without Repeating Characters](https://dev.to/dpc/daily-javascript-challenge-js-254-find-the-longest-substring-without-repeating-characters-5c3j)
+- [Linus Tech Tips &lpar;LTT&rpar;: They Said my Gaming &amp; Badminton Club Would Never OPEN!](https://dev.to/future_youtube/linus-tech-tips-ltt-they-said-my-gaming-badminton-club-would-never-open-1bng)
 <!-- BLOG-POST-LIST:END -->
 
 
