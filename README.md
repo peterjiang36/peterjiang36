@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [LEANN: The World&#39;s Most Lightweight Semantic Search Backend for RAG Everything 🎉](https://dev.to/yichuan_wang_fcf06c22a529/leann-the-worlds-most-lightweight-semantic-search-backend-for-rag-everything-57l9)
+- [Title: Meta&#39;s Approach to Superintelligence: Keeping Control with AI Models](https://dev.to/yagyaraj_sharma_6cd410179/title-metas-approach-to-superintelligence-keeping-control-with-ai-models-a6e)
+- [Title: The Fusion of Human and Machine: US Nuclear Weapons and Materials Research](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fusion-of-human-and-machine-us-nuclear-weapons-and-materials-research-2g01)
 - [Title: Unleashing the Power of Open-Weight Language Models: A Look at OpenAI&#39;s Latest Release and the Future of Internet Search](https://dev.to/yagyaraj_sharma_6cd410179/title-unleashing-the-power-of-open-weight-language-models-a-look-at-openais-latest-release-and-4n81)
-- [AI in Social Media: Transform Engagement Now!](https://dev.to/sebastian_reid999/ai-in-social-media-transform-engagement-now-33pk)
-- [Daily JavaScript Challenge #JS-254: Find the Longest Substring Without Repeating Characters](https://dev.to/dpc/daily-javascript-challenge-js-254-find-the-longest-substring-without-repeating-characters-5c3j)
-- [Linus Tech Tips &lpar;LTT&rpar;: They Said my Gaming &amp; Badminton Club Would Never OPEN!](https://dev.to/future_youtube/linus-tech-tips-ltt-they-said-my-gaming-badminton-club-would-never-open-1bng)
 <!-- BLOG-POST-LIST:END -->
 
 
