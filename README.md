@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nicholas Renotte: I trained a Sign Language Detection Transformer &lpar;here&#39;s how you can do it too!&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-i-trained-a-sign-language-detection-transformer-heres-how-you-can-do-it-too-1h53)
-- [Production Deployment Strategies for High-Performance Web Services&lpar;6576&rpar;](https://dev.to/ltpp_universe/production-deployment-strategies-for-high-performance-web-services6576-1k0b)
-- [# Future of AI Coding Tools: Claude AI&#39;s Reign Challenged by Alibaba Generative AI](https://dev.to/zulnourain_muhammad_4026c/-future-of-ai-coding-tools-claude-ais-reign-challenged-by-alibaba-generative-ai-13og)
-- [Gemma 3 270M: The Ultimate Guide to Compact AI Power](https://dev.to/vishva_murthy_4480fcb3d83/gemma-3-270m-the-ultimate-guide-to-compact-ai-power-fmm)
+- [Untitled](https://dev.to/_nnnot_931f4db4f2e/untitled-4nbf)
+- [Seeking Advice for Building an Android App Using Prompt-Driven AI Agents](https://dev.to/ahmed_zaoui_0667f609d4493/seeking-advice-for-building-an-android-app-using-prompt-driven-ai-agents-558p)
+- [PURL Support](https://dev.to/lizmat/purl-support-4m8h)
+- [AWS VPC to ECS - Day 4: Security Groups, Load Balancer &amp; CodeBuild Setup](https://dev.to/aws-builders/aws-vpc-to-ecs-day-4-security-groups-load-balancer-codebuild-setup-2h4d)
 <!-- BLOG-POST-LIST:END -->
 
 
