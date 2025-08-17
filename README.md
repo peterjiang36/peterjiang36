@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Application of Async Programming in Web Development&lpar;7505&rpar;](https://dev.to/ltpp_universe/application-of-async-programming-in-web-development7505-p1b)
-- [A Guide to the World of Version Control Systems &lpar;VCS&rpar;](https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23)
-- [Hey Recruiters 👋, I Broke the Resume. Then I Rebuilt It with AI.](https://dev.to/frosty_fucker_7d06058f3d8/hey-recruiters-i-broke-the-resume-then-i-rebuilt-it-with-ai-1cd3)
-- [QR Codes: Static vs Dynamic — Which do you actually use?](https://dev.to/valentin_mirchev_4eab18ee/qr-codes-static-vs-dynamic-which-do-you-actually-use-c7p)
+- [# Why Every Developer Should Use GitHub 🚀](https://dev.to/sami_ammar_fb38e674b4a49e/-why-every-developer-should-use-github-fe6)
+- [HELP ME - An Error bothers me](https://dev.to/lucasbrdt268/help-me-errors-bothers-me-37a8)
+- [CI/CD on Jenkins of Java web App and deployment to ECS with DevSecOps best Practices](https://dev.to/kluivert_anyang_fdba58d96/cicd-on-jenkins-of-java-web-app-and-deployment-to-ecs-with-devsecops-best-practices-2082)
+- [Stop Using Your Laptop Speakers: Bluetooth Speakers That Actually Improve Your Coding Flow](https://dev.to/tiberius1023/stop-using-your-laptop-speakers-bluetooth-speakers-that-actually-improve-your-coding-flow-4g6f)
 <!-- BLOG-POST-LIST:END -->
 
 
