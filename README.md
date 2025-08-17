@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cozy Up with the Command Line on a PC](https://dev.to/theoriginalbpc/cozy-up-with-the-command-line-on-a-pc-9j8)
-- [Concurrency Mastery Through Advanced Async Programming&lpar;8530&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming8530-m5i)
-- [Proxy DataFast with Firebase Hosting](https://dev.to/eugene_gusarov/proxy-datafast-with-firebase-hosting-4552)
-- [Hulo is here](https://dev.to/hul0/hulo-is-here-1off)
+- [Memory Safety Meets Extreme Performance in Web Servers&lpar;8758&rpar;](https://dev.to/ltpp_universe/memory-safety-meets-extreme-performance-in-web-servers8758-lh)
+- [Stop using CSS Class Selectors in Jasmine Tests: Here&#39;s a Better Way](https://dev.to/andreas_nicolaou_b3b60f17/stop-using-css-class-selectors-in-jasmine-tests-heres-a-better-way-37jd)
+- [How I Built VolunteerManiac with Kiro](https://dev.to/hongtran/how-i-built-volunteermaniac-with-kiro-186o)
+- [Transform DevOps with AI: Practical MLOps and Generative AI Pipeline Strategies](https://dev.to/srinivasamcjf/transform-devops-with-ai-practical-mlops-and-generative-ai-pipeline-strategies-gb1)
 <!-- BLOG-POST-LIST:END -->
 
 
