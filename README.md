@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Blade Icons in Laravel Projects](https://dev.to/masumparvej/how-to-use-blade-icons-in-laravel-projects-3ga9)
-- [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
-- [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
-- [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
+- [Comet Review: The First True AI-Native Browser?](https://dev.to/myopicoracle/comet-review-the-first-true-ai-native-browser-3e26)
+- [☁️ Part-8: Google Cloud SDK: The gcloud Command-line Tool in GCP](https://dev.to/latchudevops/part-8-google-cloud-sdk-the-gcloud-command-line-tool-in-gcp-532a)
+- [Rust Implementation for High Concurrency Processing&lpar;8840&rpar;](https://dev.to/ltpp_universe/rust-implementation-for-high-concurrency-processing8840-57ll)
+- [10 Latest GitHub Repos for AI Engineers in 2025](https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1)
 <!-- BLOG-POST-LIST:END -->
 
 
