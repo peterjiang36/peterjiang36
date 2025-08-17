@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 1](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-1-30g6)
-- [Understanding Server-Sent Events &lpar;SSE&rpar; and Why HTTP/2 Matters](https://dev.to/abhivyaktii/understanding-server-sent-events-sse-and-why-http2-matters-1cj7)
-- [How to Run a Very Large SQL Script Without Opening It in SSMS](https://dev.to/morteza-jangjoo/how-to-run-a-very-large-sql-script-without-opening-it-in-ssms-150b)
-- [Component-Based Design in Software Architecture](https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf)
+- [IGN: Wuthering Waves - Version 2.6 Official Release Date Trailer](https://dev.to/gg_news/ign-wuthering-waves-version-26-official-release-date-trailer-4m93)
+- [🚀 Leveling Up in Generative AI](https://dev.to/usama_ali_a6a59f380053582/leveling-up-in-generative-ai-47pn)
+- [Parallel Development with ClaudeCode and Git Worktrees](https://dev.to/yooi/parallel-development-with-claudecode-and-git-worktrees-305a)
+- [I&#39;m a php developer. Someone who wants to get a website made by me should contact me.](https://dev.to/abdulsaboor_e/im-a-php-developer-someone-who-wants-to-get-a-website-made-by-me-should-contact-me-52c1)
 <!-- BLOG-POST-LIST:END -->
 
 
