@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Yeah I&#39;m Vibe Coding](https://dev.to/frankfont/yeah-im-vibe-coding-i8l)
-- [Built P2P file transfer tool for browsers](https://dev.to/andrew_dyster_c88ccbb5180/built-p2p-file-transfer-tool-for-browsers-34g5)
-- [My First Encounter with Zabbix &lpar;Or should I say… “Jepix”?&rpar;](https://dev.to/karthikkorrayi/my-first-encounter-with-zabbix-or-should-i-say-jepix-opl)
-- [Automating DNS with ExternalDNS on EKS and Istio: Lessons From Real-World Gotchas](https://dev.to/nitesh_more_e363f24a1270e/automating-dns-with-externaldns-on-eks-and-istio-lessons-from-real-world-gotchas-12fa)
+- [Rick Beato: The ONE Thing AI Will Never Understand About Music](https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej)
+- [Tim Cook Highlights Apple’s Vision for Groundbreaking Technology Advancements](https://dev.to/max_mayer/tim-cook-highlights-apples-vision-for-groundbreaking-technology-advancements-16fh)
+- [Weekly #33-2025:Patch Tuesday, AI &amp; Careers, Core Fundamentals, Cloud Era](https://dev.to/weekly/weekly-33-2025patch-tuesday-ai-careers-core-fundamentals-cloud-era-443e)
+- [It&#39;s the ideal time to start building your AI business, even if you don&#39;t come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
 <!-- BLOG-POST-LIST:END -->
 
 
