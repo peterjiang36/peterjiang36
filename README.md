@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
-- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
-- [Fixing Bluetooth Issues in Kali Linux](https://dev.to/sivolko/fixing-bluetooth-issues-in-kali-linux-3enn)
-- [# Unlocking Hidden Laravel Eloquent Features for Pro-Level Query Optimization 🚀](https://dev.to/farman_alygorayah_d56b73/-unlocking-hidden-laravel-eloquent-features-for-pro-level-query-optimization-1le)
+- [Nicholas Renotte: I trained a Sign Language Detection Transformer &lpar;here&#39;s how you can do it too!&rpar;](https://dev.to/vibe_youtube/nicholas-renotte-i-trained-a-sign-language-detection-transformer-heres-how-you-can-do-it-too-1h53)
+- [Production Deployment Strategies for High-Performance Web Services&lpar;6576&rpar;](https://dev.to/ltpp_universe/production-deployment-strategies-for-high-performance-web-services6576-1k0b)
+- [# Future of AI Coding Tools: Claude AI&#39;s Reign Challenged by Alibaba Generative AI](https://dev.to/zulnourain_muhammad_4026c/-future-of-ai-coding-tools-claude-ais-reign-challenged-by-alibaba-generative-ai-13og)
+- [Gemma 3 270M: The Ultimate Guide to Compact AI Power](https://dev.to/vishva_murthy_4480fcb3d83/gemma-3-270m-the-ultimate-guide-to-compact-ai-power-fmm)
 <!-- BLOG-POST-LIST:END -->
 
 
