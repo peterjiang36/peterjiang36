@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Management and Request Lifecycle Optimization&lpar;5804&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73)
-- [🚀 Turning Cybersecurity Into a Career Opportunity 🚀](https://dev.to/retro788/turning-cybersecurity-into-a-career-opportunity-1ha9)
-- [Building a Virtual Cloud Lab with Ansible, KVM, and Libvirt](https://dev.to/ahmed_marzougui_4f08a0e78/building-a-virtual-cloud-lab-with-ansible-kvm-and-libvirt-48k8)
-- [RAG with LLMs: The Complete Guide to Retrieval-Augmented Generation](https://dev.to/vishva_murthy_4480fcb3d83/rag-with-llms-the-complete-guide-to-retrieval-augmented-generation-21k0)
+- [Cozy Up with the Command Line on a PC](https://dev.to/theoriginalbpc/cozy-up-with-the-command-line-on-a-pc-9j8)
+- [Concurrency Mastery Through Advanced Async Programming&lpar;8530&rpar;](https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming8530-m5i)
+- [Proxy DataFast with Firebase Hosting](https://dev.to/eugene_gusarov/proxy-datafast-with-firebase-hosting-4552)
+- [Hulo is here](https://dev.to/hul0/hulo-is-here-1off)
 <!-- BLOG-POST-LIST:END -->
 
 
