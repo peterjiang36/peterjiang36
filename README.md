@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Wish I Knew Earlier When Self-Studying Programming &lpar;Especially #5&rpar;](https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n)
-- [The Definitive React 19 useCallback Guide — Patterns, Pitfalls, and Performance Wins](https://dev.to/a1guy/the-definitive-react-19-usecallback-guide-patterns-pitfalls-and-performance-wins-ce4)
-- [Context Management and Request Lifecycle Optimization&lpar;5664&rpar;](https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5664-3gi9)
-- [&quot;Container&quot; with OCI runtime](https://dev.to/kination/container-with-oci-runtime-1m3g)
+- [🚀 Day 18 of My Data Analytics Journey !](https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1)
+- [The Hidden Engineering Behind Building Massive Software Images](https://dev.to/priyanshuverma/the-hidden-engineering-behind-building-massive-software-images-6j6)
+- [Fixing Bluetooth Issues in Kali Linux](https://dev.to/sivolko/fixing-bluetooth-issues-in-kali-linux-3enn)
+- [# Unlocking Hidden Laravel Eloquent Features for Pro-Level Query Optimization 🚀](https://dev.to/farman_alygorayah_d56b73/-unlocking-hidden-laravel-eloquent-features-for-pro-level-query-optimization-1le)
 <!-- BLOG-POST-LIST:END -->
 
 
