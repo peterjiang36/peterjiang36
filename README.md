@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Is Bad at Random](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-is-bad-at-random-2cn4)
-- [COLORS: Rodney Chrome | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-a-colors-show-4knn)
-- [Translating Business Needs into Technical Solutions](https://dev.to/igorfragadev/translating-business-needs-into-technical-solutions-3gld)
-- [GPT-5 Finally Arrives](https://dev.to/sathish/gpt-5-finally-arrives-4m11)
+- [You&#39;re Already Using Distributed Systems &lpar;You Just Don&#39;t Know It&rpar; - Part 1](https://dev.to/beyondthecode/youre-already-using-distributed-systems-you-just-dont-know-it-part-1-30g6)
+- [Understanding Server-Sent Events &lpar;SSE&rpar; and Why HTTP/2 Matters](https://dev.to/abhivyaktii/understanding-server-sent-events-sse-and-why-http2-matters-1cj7)
+- [How to Run a Very Large SQL Script Without Opening It in SSMS](https://dev.to/morteza-jangjoo/how-to-run-a-very-large-sql-script-without-opening-it-in-ssms-150b)
+- [Component-Based Design in Software Architecture](https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf)
 <!-- BLOG-POST-LIST:END -->
 
 
