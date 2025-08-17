@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/_nnnot_931f4db4f2e/untitled-4nbf)
-- [Seeking Advice for Building an Android App Using Prompt-Driven AI Agents](https://dev.to/ahmed_zaoui_0667f609d4493/seeking-advice-for-building-an-android-app-using-prompt-driven-ai-agents-558p)
-- [PURL Support](https://dev.to/lizmat/purl-support-4m8h)
-- [AWS VPC to ECS - Day 4: Security Groups, Load Balancer &amp; CodeBuild Setup](https://dev.to/aws-builders/aws-vpc-to-ecs-day-4-security-groups-load-balancer-codebuild-setup-2h4d)
+- [Laura Kampf: I invited 400 people to my shop and sold EVERYTHING](https://dev.to/maker_youtube/laura-kampf-i-invited-400-people-to-my-shop-and-sold-everything-1o7k)
+- [HTTP Response Optimization and Streaming Techniques&lpar;1023&rpar;](https://dev.to/ltpp_universe/http-response-optimization-and-streaming-techniques1023-26ae)
+- [Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning](https://dev.to/tutti/enhancing-domain-specific-knowledge-graph-reasoning-via-metapath-based-large-model-prompt-learning-4cog)
+- [WebSocket Revolution in Real-Time Communication&lpar;9388&rpar;](https://dev.to/ltpp_universe/websocket-revolution-in-real-time-communication9388-d95)
 <!-- BLOG-POST-LIST:END -->
 
 
