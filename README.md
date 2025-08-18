@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
-- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
-- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
-- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
+- [NPR Music: Nduduzo Makhathini: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nduduzo-makhathini-tiny-desk-concert-h7p)
+- [Unveiling the Power of Node.js Process Object: Your Gateway to Runtime Control](https://dev.to/vjnvisakh/unveiling-the-power-of-nodejs-process-object-your-gateway-to-runtime-control-59kp)
+- [🚀 How to Set Up a Virtual Host in XAMPP &lpar;C:&rpar; to Run WordPress from Another Drive &lpar;G:&rpar;](https://dev.to/prantomollick/how-to-set-up-a-virtual-host-in-xampp-c-to-run-wordpress-from-another-drive-g-150m)
+- [Expert Guide to Healthy Lifestyle: Tips, Insights,and Steps](https://dev.to/harlan_5ab353c41e0d38ba0f/expert-guide-to-healthy-lifestyle-tips-insightsand-steps-43i8)
 <!-- BLOG-POST-LIST:END -->
 
 
