@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Rodney Chrome - BBL | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-bbl-a-colors-show-5df6)
-- [GameSpot: Marvel Tokon Hands-On: What the Game is Like &lpar;Gameplay Mechanics Discussion&rpar;](https://dev.to/gg_news/gamespot-marvel-tokon-hands-on-what-the-game-is-like-gameplay-mechanics-discussion-375b)
-- [IGN: Comix Zero - Official Demo Release Trailer](https://dev.to/gg_news/ign-comix-zero-official-demo-release-trailer-1o7d)
-- [IGN: Primitive War - Official Trailer | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-trailer-in-theaters-august-21-3e5o)
+- [WebGPU Engine from Scratch Part 5: More Pipeline Improvements](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-5-more-pipeline-improvements-370j)
+- [I will show you how to reduce AI hallucination and get the best result from your agent](https://dev.to/connectalamin/i-will-show-you-how-to-reduce-ai-hallucination-and-get-the-best-result-from-your-agent-5fdc)
+- [Dev Setup on Autopilot](https://dev.to/deadlock/dev-setup-on-autopilot-3ok0)
+- [Why did I build a transparent, account-free, open-source URL shortener?](https://dev.to/anwitars/why-did-i-build-a-transparent-account-free-open-source-url-shortener-45cm)
 <!-- BLOG-POST-LIST:END -->
 
 
