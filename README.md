@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazing post!](https://dev.to/davejs136/amazing-post-3g1a)
-- [&lpar;Part 3&rpar; Build a Simple Chat Character Gallery: Creating Card Component](https://dev.to/jte0711/part-3-build-a-simple-chat-character-gallery-creating-card-component-10bh)
-- [What Are the First Steps to Integrating Predictive Data Analytics into Your Infrastructure?](https://dev.to/arbisoftcompany/what-are-the-first-steps-to-integrating-predictive-data-analytics-into-your-infrastructure-e8h)
-- [Architecture in Single Page Applications — The meal you are always ready to consume](https://dev.to/zmar/architecture-in-single-page-applications-the-meal-you-are-always-ready-to-consume-4ldh)
+- [COLORS: Rodney Chrome - BBL | A COLORS SHOW](https://dev.to/music_youtube/colors-rodney-chrome-bbl-a-colors-show-5df6)
+- [GameSpot: Marvel Tokon Hands-On: What the Game is Like &lpar;Gameplay Mechanics Discussion&rpar;](https://dev.to/gg_news/gamespot-marvel-tokon-hands-on-what-the-game-is-like-gameplay-mechanics-discussion-375b)
+- [IGN: Comix Zero - Official Demo Release Trailer](https://dev.to/gg_news/ign-comix-zero-official-demo-release-trailer-1o7d)
+- [IGN: Primitive War - Official Trailer | In Theaters August 21](https://dev.to/gg_news/ign-primitive-war-official-trailer-in-theaters-august-21-3e5o)
 <!-- BLOG-POST-LIST:END -->
 
 
