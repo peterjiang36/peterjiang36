@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Meeting Notes with Whisper Transcription + Ollama Summaries &lpar;Gemma3n, LLaMA, Mistral&rpar; — Meetily AI](https://dev.to/zackriya/local-meeting-notes-with-whisper-transcription-ollama-summaries-gemma3n-llama-mistral--2i3n)
-- [The Future of Dev Workflows in Web3](https://dev.to/vadym_info_polus/the-future-of-dev-workflows-in-web3-12n5)
-- [Incremental Static Regeneration &lpar;ISR&rpar; in Web Development](https://dev.to/hillaryprosper_wahua_604/incremental-static-regeneration-isr-in-web-development-1a55)
-- [Cloud App Journey - Ep. 2: Publishing My Frontend to the Cloud](https://dev.to/osvaldofa/cloud-app-journey-ep-3-publishing-my-frontend-to-the-cloud-18nl)
+- [CosmoTalker Wins Best Project at TASS from YASSC 🎉](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-3i0g)
+- [IGN: WW1: Gallipoli – Official Reveal Trailer](https://dev.to/gg_news/ign-ww1-gallipoli-official-reveal-trailer-3gp2)
+- [IGN: Billie Bust Up: Official Pirate Queen Cutscene](https://dev.to/gg_news/ign-billie-bust-up-official-pirate-queen-cutscene-35a7)
 <!-- BLOG-POST-LIST:END -->
 
 
