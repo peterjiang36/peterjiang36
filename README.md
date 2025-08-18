@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing Go API and Caddy](https://dev.to/danielcristho/dockerizing-go-api-and-caddy-ge4)
-- [🚀 Building Real-World AI: From Colab Pipelines to Desktop Apps](https://dev.to/ryanboscobanze/building-real-world-ai-from-colab-pipelines-to-desktop-apps-47ia)
-- [AI/ML OPS-Learning Road Map](https://dev.to/srinivasamcjf/aimlops-learning-road-map-2app)
-- [Declutter Your JavaScript and TypeScript Projects.](https://dev.to/zxcodes/declutter-your-javascript-and-typescript-projects-34k7)
+- [Building a Document QA System with Supavec and Gaia](https://dev.to/gaiaai/building-a-document-qa-system-with-supavec-and-gaia-35bl)
+- [Fixing Slow Shopify Stores: Performance Optimization Tips for Developers](https://dev.to/harbor_sourcing_feb429754/fixing-slow-shopify-stores-performance-optimization-tips-for-developers-5334)
+- [Are You a Boiling Frog? 🐸](https://dev.to/ayush_kumawat_72c6f9b7225/are-you-a-boiling-frog-l8b)
+- [🧊 Snowflake RBAC 101 – Episode 3: Ongoing Access Management](https://dev.to/qvfagundes/snowflake-rbac-101-episode-3-ongoing-access-management-4pmi)
 <!-- BLOG-POST-LIST:END -->
 
 
