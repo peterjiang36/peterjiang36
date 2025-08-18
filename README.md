@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-4mi7)
-- [Peter Finch Golf: Peter Finch LIVE from 2025 Creator Classic at East Lake presented by YouTube](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-live-from-2025-creator-classic-at-east-lake-presented-by-youtube-5n8)
-- [Linus Tech Tips &lpar;LTT&rpar;: I almost got Scammed TWICE!](https://dev.to/future_youtube/linus-tech-tips-ltt-i-almost-got-scammed-twice-59cg)
-- [GameSpot: Guilty Gear Strive - 9 Minutes Of NEW Lucy Gameplay](https://dev.to/gg_news/gamespot-guilty-gear-strive-9-minutes-of-new-lucy-gameplay-4ano)
+- [Probably Secure: A Look At The Security Concerns Of Deterministic Vs Probabilistic Systems](https://dev.to/gitguardian/probably-secure-a-look-at-the-security-concerns-of-deterministic-vs-probabilistic-systems-9od)
+- [Recovery of Microsoft Dynamics NAV 2002 R2 and SQL Server](https://dev.to/ivajofranc/recovery-of-microsoft-dynamics-nav-2002-r2-and-sql-server-1n07)
+- [What is Apache Kafka, Why and When to use Kafka. Lesson 1](https://dev.to/itamartati/what-is-apache-kafka-why-and-when-to-use-kafka-lesson-1-1gkd)
+- [SaaS Had a Good Run. AI Is About to Rewrite the Playbook.](https://dev.to/paultowers/saas-had-a-good-run-ai-is-about-to-rewrite-the-playbook-nn0)
 <!-- BLOG-POST-LIST:END -->
 
 
