@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building AI Agents! Start Building Real AI Software Instead](https://dev.to/isaachagoel/stop-building-ai-agents-start-building-real-ai-software-instead-4ppd)
-- [Using AI to transcribe YT videos into structured notes](https://dev.to/ameliapond129/using-ai-to-transcribe-yt-videos-into-structured-notes-2kgc)
-- [Imagen 4 API: Bringing Google’s Text-to-Image Power Into Your Projects](https://dev.to/alifar/imagen-4-api-bringing-googles-text-to-image-power-into-your-projects-3a8f)
-- [How to connect sensors with Raspberry Pi GPIO?](https://dev.to/carolineee/how-to-connect-sensors-with-raspberry-pi-gpio-3l28)
+- [AWS re/Start – My Week 1 Experience](https://dev.to/ijay/aws-restart-my-week-1-experience-182h)
+- [Boring Cybersecurity Theory: Frameworks &lpar;NIST&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-frameworks-nist-5cl5)
+- [EKS Auto Mode: Simplify Kubernetes Operations](https://dev.to/spacelift/eks-auto-mode-simplify-kubernetes-operations-i6g)
+- [WTF is API Gateway Pattern?](https://dev.to/dailybugle33/wtf-is-api-gateway-pattern-55ph)
 <!-- BLOG-POST-LIST:END -->
 
 
