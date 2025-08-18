@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Probably Secure: A Look At The Security Concerns Of Deterministic Vs Probabilistic Systems](https://dev.to/gitguardian/probably-secure-a-look-at-the-security-concerns-of-deterministic-vs-probabilistic-systems-9od)
-- [Recovery of Microsoft Dynamics NAV 2002 R2 and SQL Server](https://dev.to/ivajofranc/recovery-of-microsoft-dynamics-nav-2002-r2-and-sql-server-1n07)
-- [What is Apache Kafka, Why and When to use Kafka. Lesson 1](https://dev.to/itamartati/what-is-apache-kafka-why-and-when-to-use-kafka-lesson-1-1gkd)
-- [SaaS Had a Good Run. AI Is About to Rewrite the Playbook.](https://dev.to/paultowers/saas-had-a-good-run-ai-is-about-to-rewrite-the-playbook-nn0)
+- [[Boost]](https://dev.to/carlosdamota/-1n18)
+- [E-mails de verificação com AWS SES + Lambda &lpar;Node.js&rpar; e Terraform — do zero ao envio](https://dev.to/sertaoseracloud/e-mails-de-verificacao-com-aws-ses-lambda-nodejs-e-terraform-do-zero-ao-envio-20fo)
+- [DaaS &lpar;Desktop as a Service&rpar;](https://dev.to/programadriano/daas-desktop-as-a-service-5bj9)
+- [Analisis de bloques de codigo en programacion](https://dev.to/devtesseract1/analisis-de-bloques-de-codigo-en-programacion-339k)
 <!-- BLOG-POST-LIST:END -->
 
 
