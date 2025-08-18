@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PixiJS: Implementing Core Gaming Concepts](https://dev.to/rubemfsv/pixijs-implementing-core-gaming-concepts-438j)
-- [DevOps Setting](https://dev.to/operarioribeiro/devops-setting-4lc0)
-- [Building Progressive Web Apps with Advanced HTML Features](https://dev.to/sharique_siddiqui_8242dad/building-progressive-web-apps-with-advanced-html-features-4h88)
-- [HTML Debugging &amp; Validation Tools: Ensuring Clean, Error-Free Web Development](https://dev.to/sharique_siddiqui_8242dad/html-debugging-validation-tools-ensuring-clean-error-free-web-development-1bcc)
+- [Dockerizing Go API and Caddy](https://dev.to/danielcristho/dockerizing-go-api-and-caddy-ge4)
+- [🚀 Building Real-World AI: From Colab Pipelines to Desktop Apps](https://dev.to/ryanboscobanze/building-real-world-ai-from-colab-pipelines-to-desktop-apps-47ia)
+- [AI/ML OPS-Learning Road Map](https://dev.to/srinivasamcjf/aimlops-learning-road-map-2app)
+- [Declutter Your JavaScript and TypeScript Projects.](https://dev.to/zxcodes/declutter-your-javascript-and-typescript-projects-34k7)
 <!-- BLOG-POST-LIST:END -->
 
 
