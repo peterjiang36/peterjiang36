@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU Engine from Scratch Part 5: More Pipeline Improvements](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-5-more-pipeline-improvements-370j)
-- [I will show you how to reduce AI hallucination and get the best result from your agent](https://dev.to/connectalamin/i-will-show-you-how-to-reduce-ai-hallucination-and-get-the-best-result-from-your-agent-5fdc)
-- [Dev Setup on Autopilot](https://dev.to/deadlock/dev-setup-on-autopilot-3ok0)
-- [Why did I build a transparent, account-free, open-source URL shortener?](https://dev.to/anwitars/why-did-i-build-a-transparent-account-free-open-source-url-shortener-45cm)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-4mi7)
+- [Peter Finch Golf: Peter Finch LIVE from 2025 Creator Classic at East Lake presented by YouTube](https://dev.to/youtube_golf/peter-finch-golf-peter-finch-live-from-2025-creator-classic-at-east-lake-presented-by-youtube-5n8)
+- [Linus Tech Tips &lpar;LTT&rpar;: I almost got Scammed TWICE!](https://dev.to/future_youtube/linus-tech-tips-ltt-i-almost-got-scammed-twice-59cg)
+- [GameSpot: Guilty Gear Strive - 9 Minutes Of NEW Lucy Gameplay](https://dev.to/gg_news/gamespot-guilty-gear-strive-9-minutes-of-new-lucy-gameplay-4ano)
 <!-- BLOG-POST-LIST:END -->
 
 
