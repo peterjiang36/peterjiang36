@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/lee_rodgers_05/-37i7)
-- [🚀 A nossa live sobre compiladores vai começar em breve, as 21:00hs! 👉 Venha acompanhar com a gente e participar ao vivo: https://www.youtube.com/live/GAfQukDTVIo](https://dev.to/angelobelchior/a-nossa-live-sobre-compiladores-vai-comecar-em-breve-as-2100hs-venha-acompanhar-com-a-gente-bhg)
-- [Plug, Play, and Think: The LivinGrimoire Personality Structure Explained](https://dev.to/owly/plug-play-and-think-the-livingrimoire-personality-structure-explained-4enf)
-- [Observing Cardano: patience, community, network resilience](https://dev.to/martin_call/observing-cardano-patience-community-network-resilience-18gb)
+- [PixiJS: Implementing Core Gaming Concepts](https://dev.to/rubemfsv/pixijs-implementing-core-gaming-concepts-438j)
+- [DevOps Setting](https://dev.to/operarioribeiro/devops-setting-4lc0)
+- [Building Progressive Web Apps with Advanced HTML Features](https://dev.to/sharique_siddiqui_8242dad/building-progressive-web-apps-with-advanced-html-features-4h88)
+- [HTML Debugging &amp; Validation Tools: Ensuring Clean, Error-Free Web Development](https://dev.to/sharique_siddiqui_8242dad/html-debugging-validation-tools-ensuring-clean-error-free-web-development-1bcc)
 <!-- BLOG-POST-LIST:END -->
 
 
