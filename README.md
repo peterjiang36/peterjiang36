@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Restoring the Iconic Space Shuttle Countdown Clock &lpar;at @airandspace&rpar;](https://dev.to/maker_youtube/adam-savages-tested-restoring-the-iconic-space-shuttle-countdown-clock-at-airandspace-22eh)
-- [KEXP: GIFT - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gift-full-performance-live-on-kexp-4noj)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-19ej)
-- [IGN: Comix Zero - Official Demo Release Trailer](https://dev.to/gg_news/ign-comix-zero-official-demo-release-trailer-4gh8)
+- [Amazing post!](https://dev.to/davejs136/amazing-post-3g1a)
+- [&lpar;Part 3&rpar; Build a Simple Chat Character Gallery: Creating Card Component](https://dev.to/jte0711/part-3-build-a-simple-chat-character-gallery-creating-card-component-10bh)
+- [What Are the First Steps to Integrating Predictive Data Analytics into Your Infrastructure?](https://dev.to/arbisoftcompany/what-are-the-first-steps-to-integrating-predictive-data-analytics-into-your-infrastructure-e8h)
+- [Architecture in Single Page Applications — The meal you are always ready to consume](https://dev.to/zmar/architecture-in-single-page-applications-the-meal-you-are-always-ready-to-consume-4ldh)
 <!-- BLOG-POST-LIST:END -->
 
 
