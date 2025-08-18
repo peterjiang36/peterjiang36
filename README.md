@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
-- [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
-- [React 19 Concurrency Deep Dive — Mastering `useTransition` and `startTransition` for Smoother UIs](https://dev.to/a1guy/react-19-concurrency-deep-dive-mastering-usetransition-and-starttransition-for-smoother-uis-51eo)
-- [React 19 Server Components Deep Dive — What They Are, How They Work, and When to Use Them](https://dev.to/a1guy/react-19-server-components-deep-dive-what-they-are-how-they-work-and-when-to-use-them-2h2e)
+- [Stop Building AI Agents! Start Building Real AI Software Instead](https://dev.to/isaachagoel/stop-building-ai-agents-start-building-real-ai-software-instead-4ppd)
+- [Using AI to transcribe YT videos into structured notes](https://dev.to/ameliapond129/using-ai-to-transcribe-yt-videos-into-structured-notes-2kgc)
+- [Imagen 4 API: Bringing Google’s Text-to-Image Power Into Your Projects](https://dev.to/alifar/imagen-4-api-bringing-googles-text-to-image-power-into-your-projects-3a8f)
+- [How to connect sensors with Raspberry Pi GPIO?](https://dev.to/carolineee/how-to-connect-sensors-with-raspberry-pi-gpio-3l28)
 <!-- BLOG-POST-LIST:END -->
 
 
