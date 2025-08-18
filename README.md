@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Document QA System with Supavec and Gaia](https://dev.to/gaiaai/building-a-document-qa-system-with-supavec-and-gaia-35bl)
-- [Fixing Slow Shopify Stores: Performance Optimization Tips for Developers](https://dev.to/harbor_sourcing_feb429754/fixing-slow-shopify-stores-performance-optimization-tips-for-developers-5334)
-- [Are You a Boiling Frog? 🐸](https://dev.to/ayush_kumawat_72c6f9b7225/are-you-a-boiling-frog-l8b)
-- [🧊 Snowflake RBAC 101 – Episode 3: Ongoing Access Management](https://dev.to/qvfagundes/snowflake-rbac-101-episode-3-ongoing-access-management-4pmi)
+- [&quot;Introducing BNL: A New Meta-Language for Programming&quot;](https://dev.to/pjdeveloper896/introducing-bnl-a-new-meta-language-for-programming-4fdo)
+- [100 Days of DevOps: Day 15](https://dev.to/wycliffealphus/100-days-of-devops-day-15-1ck4)
+- [Discover Qwen Image — Next-Level AI Text-to-Image Mastery](https://dev.to/carol_ryman/discover-qwen-image-next-level-ai-text-to-image-mastery-2j9d)
+- [Will AI Replace Developers?](https://dev.to/sushrutkm/will-ai-replace-developers-340e)
 <!-- BLOG-POST-LIST:END -->
 
 
