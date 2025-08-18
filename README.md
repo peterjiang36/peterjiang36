@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Why Every Developer Should Use GitHub 🚀](https://dev.to/sami_ammar_fb38e674b4a49e/-why-every-developer-should-use-github-fe6)
-- [HELP ME - An Error bothers me](https://dev.to/lucasbrdt268/help-me-errors-bothers-me-37a8)
-- [CI/CD on Jenkins of Java web App and deployment to ECS with DevSecOps best Practices](https://dev.to/kluivert_anyang_fdba58d96/cicd-on-jenkins-of-java-web-app-and-deployment-to-ecs-with-devsecops-best-practices-2082)
-- [Stop Using Your Laptop Speakers: Bluetooth Speakers That Actually Improve Your Coding Flow](https://dev.to/tiberius1023/stop-using-your-laptop-speakers-bluetooth-speakers-that-actually-improve-your-coding-flow-4g6f)
+- [[Boost]](https://dev.to/lee_rodgers_05/-37i7)
+- [🚀 A nossa live sobre compiladores vai começar em breve, as 21:00hs! 👉 Venha acompanhar com a gente e participar ao vivo: https://www.youtube.com/live/GAfQukDTVIo](https://dev.to/angelobelchior/a-nossa-live-sobre-compiladores-vai-comecar-em-breve-as-2100hs-venha-acompanhar-com-a-gente-bhg)
+- [Plug, Play, and Think: The LivinGrimoire Personality Structure Explained](https://dev.to/owly/plug-play-and-think-the-livingrimoire-personality-structure-explained-4enf)
+- [Observing Cardano: patience, community, network resilience](https://dev.to/martin_call/observing-cardano-patience-community-network-resilience-18gb)
 <!-- BLOG-POST-LIST:END -->
 
 
