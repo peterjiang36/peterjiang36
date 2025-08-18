@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RK3588S2: A High-Performance ARM SoC](https://dev.to/dongpei_liao_8092a14d7c50/rk3588s2-a-high-performance-arm-soc-406l)
-- [Ringer Movies: ‘Sinners’ = An Instant ‘Rewatchable’ | The Rewatchables w/ Bill Simmons, Van Lathan &amp; Wesley Morris](https://dev.to/popcorn_movies/ringer-movies-sinners-an-instant-rewatchable-the-rewatchables-w-bill-simmons-van-lathan-57e4)
-- [Building Command-Line Tools with C# and System.CommandLine](https://dev.to/chakewitz/building-command-line-tools-with-c-and-systemcommandline-gb7)
-- [Using LangGraph.js SDK to create Agents](https://dev.to/buildandcodewithraman/using-langgraphjs-sdk-to-create-agents-494n)
+- [What is Azure File Sync? Features, use cases and costs explained](https://dev.to/techielass/what-is-azure-file-sync-features-use-cases-and-costs-explained-5e24)
+- [Not Just Drones, Systems: Why Better Software Focuses on Full-Stack AI Integration](https://dev.to/betterhq/not-just-drones-systems-why-better-software-focuses-on-full-stack-ai-integration-nb9)
+- [React 19 Concurrency Deep Dive — Mastering `useTransition` and `startTransition` for Smoother UIs](https://dev.to/a1guy/react-19-concurrency-deep-dive-mastering-usetransition-and-starttransition-for-smoother-uis-51eo)
+- [React 19 Server Components Deep Dive — What They Are, How They Work, and When to Use Them](https://dev.to/a1guy/react-19-server-components-deep-dive-what-they-are-how-they-work-and-when-to-use-them-2h2e)
 <!-- BLOG-POST-LIST:END -->
 
 
