@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Profitable AI Freelancing &lpar;Tips, Tools &amp; Knowledge You Need in 2025&rpar;](https://dev.to/smartaidrop/how-to-find-profitable-ai-freelancing-tips-tools-knowledge-you-need-in-2025-4n3c)
-- [10 Best Kiosk Software Solutions for Kiosk Computers](https://dev.to/vantage-mdm/10-best-kiosk-software-solutions-for-kiosk-computers-3cgm)
-- [How to Monetize Your Startup from the First Release](https://dev.to/freshtech/how-to-monetize-your-startup-from-the-first-release-38ih)
-- [15 Web Development Project Ideas for Your Portfolio](https://dev.to/avishek_chandradas_7e892/15-web-development-project-ideas-for-your-portfolio-30jl)
+- [From Concrete to Cloud: A Developer&#39;s Guide to the Physical Hardware Behind OCI](https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3)
+- [Games as Model Eval: 1-Click Deploy AI Town on Fly.io](https://dev.to/flyio/games-as-model-eval-1-click-deploy-ai-town-on-flyio-13n)
+- [WTF is Bloom Filters?](https://dev.to/dailybugle33/wtf-is-bloom-filters-54fi)
+- [Trust Calibration for AI Software Builders](https://dev.to/flyio/trust-calibration-for-ai-software-builders-1ifj)
 <!-- BLOG-POST-LIST:END -->
 
 
