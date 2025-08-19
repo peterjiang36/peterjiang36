@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Testing for Web Apps with Cypress](https://dev.to/keith_mark_441c6f16e803a6/automated-testing-for-web-apps-with-cypress-2omb)
-- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Tuesday, Aug. 19, at 3 pm PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-tuesday-aug-19-at-3-pm-pt-5g7a)
-- [COLORS: Venna | A COLORS ENCORE](https://dev.to/music_youtube/colors-venna-a-colors-encore-11e3)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-mh6)
+- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
+- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
+- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
+- [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
 <!-- BLOG-POST-LIST:END -->
 
 
