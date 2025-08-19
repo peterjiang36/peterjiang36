@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
-- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
-- [Building Code Retrieval for Claude Code from Scratch](https://dev.to/chen_zhang_bac430bc7f6b95/building-code-retrieval-for-claude-code-from-scratch-3n8c)
-- [2025 Latest: Complete Guide to Qwen-Image-Edit Image Editing Model](https://dev.to/czmilo/2025-latest-complete-guide-to-qwen-image-edit-image-editing-model-2kd5)
+- [Crack the Code: Building a Real-Time Multiplayer Game with AI](https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i)
+- [Cannot find module &#39;cloudflare:workers&#39;](https://dev.to/suzulabo/cannot-find-module-cloudflareworkers-1oh9)
+- [API Documentation - Webhook Apotek Online](https://dev.to/ahmadasroni38/api-documentation-webhook-apotek-online-1d5l)
+- [📝 Mapeando Logs do .NET com Grafana](https://dev.to/daniloopinheiro/mapeando-logs-do-net-com-grafana-12fb)
 <!-- BLOG-POST-LIST:END -->
 
 
