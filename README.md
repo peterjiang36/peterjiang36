@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Crack the Code: Building a Real-Time Multiplayer Game with AI](https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i)
-- [Cannot find module &#39;cloudflare:workers&#39;](https://dev.to/suzulabo/cannot-find-module-cloudflareworkers-1oh9)
-- [API Documentation - Webhook Apotek Online](https://dev.to/ahmadasroni38/api-documentation-webhook-apotek-online-1d5l)
-- [📝 Mapeando Logs do .NET com Grafana](https://dev.to/daniloopinheiro/mapeando-logs-do-net-com-grafana-12fb)
+- [🏁Lollypop Designathon 2025 – Where Design Bridges Technology to Users](https://dev.to/lollypopdesign/lollypop-designathon-2025-where-design-bridges-technology-to-users-4gb7)
+- [Prompt engineering is a mindset, a way of thinking that allows you to translate human needs into clear instructions AI can understand. Even if you don’t code, you can think like a prompt engineer and unlock 10x better results with AI. Here’s how.](https://dev.to/jaideepparashar/prompt-engineering-is-a-mindset-a-way-of-thinking-that-allows-you-to-translate-human-needs-into-476i)
+- [How to Think Like a Prompt Engineer &lpar;Even Without Coding&rpar;](https://dev.to/jaideepparashar/how-to-think-like-a-prompt-engineer-even-without-coding-769)
+- [SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-the-self-hosted-firewall-every-homelab-needs-3peo)
 <!-- BLOG-POST-LIST:END -->
 
 
