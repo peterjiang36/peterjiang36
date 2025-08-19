@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why ChatGPT’s Current State Honestly Freaks Me Out..](https://dev.to/phantom0121/why-chatgpts-current-state-honestly-freaks-me-out-1f5j)
-- [Kotlin:&#39;Generics&#39; Questions](https://dev.to/raji_ac_547dee39c0395e6bf/kotlingenerics-questions-228c)
-- [Stop wasting hours on i18n – I built a CLI that does it in seconds](https://dev.to/asad_rafi1221/stop-wasting-hours-on-i18n-i-built-a-cli-that-does-it-in-seconds-1ffk)
-- [How MNC React Developer](https://dev.to/tahir_rafique/how-mnc-react-developer-127l)
+- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
+- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
+- [ん, and?](https://dev.to/yowise/n-and-3mn1)
+- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
 <!-- BLOG-POST-LIST:END -->
 
 
