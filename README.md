@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Concrete to Cloud: A Developer&#39;s Guide to the Physical Hardware Behind OCI](https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3)
-- [Games as Model Eval: 1-Click Deploy AI Town on Fly.io](https://dev.to/flyio/games-as-model-eval-1-click-deploy-ai-town-on-flyio-13n)
-- [WTF is Bloom Filters?](https://dev.to/dailybugle33/wtf-is-bloom-filters-54fi)
-- [Trust Calibration for AI Software Builders](https://dev.to/flyio/trust-calibration-for-ai-software-builders-1ifj)
+- [Krish Naik: Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources](https://dev.to/vibe_youtube/krish-naik-complete-detailed-roadmap-to-learn-ai-in-2025-with-free-videos-and-resources-4539)
+- [𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀 𝗠𝗮𝘁𝘁𝗲𝗿: 𝗟𝗲𝘃𝗲𝗹 𝗨𝗽 𝗬𝗼𝘂𝗿 𝗗𝗲𝘃 𝗚𝗿𝗼𝘄𝘁𝗵](https://dev.to/supraja_tangella_b7f0738e/-1id8)
+- [Building a Robust Backend with Effect, GraphQL, and Drizzle](https://dev.to/martinpersson/building-a-robust-backend-with-effect-graphql-and-drizzle-k4j)
+- [How Much Does It Cost to Build a Flight Booking Engine?](https://dev.to/anshikaila/how-much-does-it-cost-to-build-a-flight-booking-engine-551c)
 <!-- BLOG-POST-LIST:END -->
 
 
