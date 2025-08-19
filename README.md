@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Silent Hill f - Official Story Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-story-trailer-33kl)
-- [GameSpot: Vampire: the Masquerade - Bloodlines 2 | Official Release Date Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-official-release-date-reveal-gameplay-trailer-49nd)
-- [IGN: World of Tanks - Update 2.0 Trailer | gamescom 2025](https://dev.to/gg_news/ign-world-of-tanks-update-20-trailer-gamescom-2025-1fbb)
-- [IGN: Europa Universalis V - Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-europa-universalis-v-reveal-trailer-gamescom-2025-3hgd)
+- [Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?](https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n)
+- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-1edh)
+- [BootstrapVueNext: strengths, limitations, and adoption](https://dev.to/marxon/bootstrapvuenext-strengths-limitations-and-adoption-2p27)
+- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/etienneburdet/theres-something-off-in-the-dev-with-ai-or-die-narrative-1975)
 <!-- BLOG-POST-LIST:END -->
 
 
