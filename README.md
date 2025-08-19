@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Blondshell - Event Of A Fire &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-event-of-a-fire-live-on-kexp-5a21)
-- [KEXP: Blondshell - Toy &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-toy-live-on-kexp-1enm)
-- [KEXP: Blondshell - T&amp;A &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-ta-live-on-kexp-286h)
-- [KEXP: Blondshell - 23&#39;s A Baby &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-blondshell-23s-a-baby-live-on-kexp-3bel)
+- [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
+- [Building an Advanced AI Agent: A Step-by-Step Guide to Integrating MCP Servers with LangGraph](https://dev.to/amol_kavitkar/building-an-advanced-ai-agent-a-step-by-step-guide-to-integrating-mcp-servers-with-langgraph-4ocf)
+- [Unlocking Hidden Cloud Superpowers: GKE Topology Manager GA &amp; Node Swap — DevOps Game Changers You Haven’t Tried](https://dev.to/lakshmikanth_reddy/unlocking-hidden-cloud-superpowers-gke-topology-manager-ga-node-swap-devops-game-changers-you-3d1g)
+- [React 19 `use` Hook Deep Dive — Using Promises Directly in Your Components](https://dev.to/a1guy/react-19-use-hook-deep-dive-using-promises-directly-in-your-components-1plp)
 <!-- BLOG-POST-LIST:END -->
 
 
