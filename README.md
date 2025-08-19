@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/glenn_trojan_1e79e881c2b7/-4lg0)
-- [How to Run a Java Program in Linux Terminal](https://dev.to/kirubagaran_k_438a86c991/how-to-run-a-java-program-in-linux-terminal-4fo6)
-- [Remediación Automática con AWS Config y Systems Manager: Seguridad Proactiva en la Nube](https://dev.to/pangoro24/remediacion-automatica-con-aws-config-y-systems-manager-seguridad-proactiva-en-la-nube-4pbi)
-- [It&#39;s a super interesting post.](https://dev.to/juanperez/its-a-super-interesting-post-n47)
+- [The Blackboard Pattern: A Framework for Complex Problem Solving](https://dev.to/lovestaco/the-blackboard-pattern-a-framework-for-complex-problem-solving-4o1p)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-54fg)
+- [Zero-Touch Bare Metal at Scale](https://dev.to/sarah-railway/zero-touch-bare-metal-at-scale-56e4)
+- [New Add-on for -Form Choice Limiter](https://dev.to/bahodir_amerbekov_97d36e8/new-add-on-for-form-choice-limiter-134b)
 <!-- BLOG-POST-LIST:END -->
 
 
