@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech With Tim: Lovable FULL Tutorial - For COMPLETE Beginners &lpar;No Experience Needed&rpar;](https://dev.to/vibe_youtube/tech-with-tim-lovable-full-tutorial-for-complete-beginners-no-experience-needed-3bmg)
-- [IGN: Helldivers 2 x Halo - Official ODST Legendary Warbond Trailer](https://dev.to/gg_news/ign-helldivers-2-x-halo-official-odst-legendary-warbond-trailer-52lo)
-- [Bring Your Angular App to Life with Anime.js](https://dev.to/williamjuan27/bring-your-angular-app-to-life-with-animejs-4kkc)
-- [Detecting Depression Using Deep Learning on Facial Expression Images -Mini Project](https://dev.to/micheal_quelazar_bd7163e2/detecting-depression-using-deep-learning-on-facial-expression-images-mini-project-l01)
+- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
+- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
+- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
+- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
 <!-- BLOG-POST-LIST:END -->
 
 
