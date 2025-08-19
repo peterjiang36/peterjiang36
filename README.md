@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BigQuery AI - Building the Future of Data:Day1](https://dev.to/nk_maker/bigquery-ai-building-the-future-of-dataday1-54k)
-- [flow-run: LLM Orchestration, Prompt Testing &amp; Cost Monitoring](https://dev.to/vitaliihonchar/flow-run-llm-orchestration-prompt-testing-cost-monitoring-5836)
-- [Day1: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day1-sql-54g5)
-- [How to Craft Effective Prompts Using PARTS](https://dev.to/mariohhd/how-to-craft-effective-prompts-using-parts-2587)
+- [[Boost]](https://dev.to/glenn_trojan_1e79e881c2b7/-4lg0)
+- [How to Run a Java Program in Linux Terminal](https://dev.to/kirubagaran_k_438a86c991/how-to-run-a-java-program-in-linux-terminal-4fo6)
+- [Remediación Automática con AWS Config y Systems Manager: Seguridad Proactiva en la Nube](https://dev.to/pangoro24/remediacion-automatica-con-aws-config-y-systems-manager-seguridad-proactiva-en-la-nube-4pbi)
+- [It&#39;s a super interesting post.](https://dev.to/juanperez/its-a-super-interesting-post-n47)
 <!-- BLOG-POST-LIST:END -->
 
 
