@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: How Autonomous Agents Are Transforming Enterprise Workflows](https://dev.to/koolkamalkishor/agentic-ai-how-autonomous-agents-are-transforming-enterprise-workflows-4oi6)
-- [JDK vs JRE vs JVM &lpar;JAVA&rpar;](https://dev.to/ligouri_stittus_416c7cee/jdk-vs-jre-vs-jvm-java-2lh4)
-- [Image-to-Pixel: Convert Images to Pixel Art with JavaScript Dithering](https://dev.to/jqueryscript/image-to-pixel-convert-images-to-pixel-art-with-javascript-dithering-4mp)
-- [Unlocking Business Intelligence with Power BI](https://dev.to/kaviya_m_4f9b86f1f4500fd8/unlocking-business-intelligence-with-power-bi-6)
+- [How to Find Profitable AI Freelancing &lpar;Tips, Tools &amp; Knowledge You Need in 2025&rpar;](https://dev.to/smartaidrop/how-to-find-profitable-ai-freelancing-tips-tools-knowledge-you-need-in-2025-4n3c)
+- [10 Best Kiosk Software Solutions for Kiosk Computers](https://dev.to/vantage-mdm/10-best-kiosk-software-solutions-for-kiosk-computers-3cgm)
+- [How to Monetize Your Startup from the First Release](https://dev.to/freshtech/how-to-monetize-your-startup-from-the-first-release-38ih)
+- [15 Web Development Project Ideas for Your Portfolio](https://dev.to/avishek_chandradas_7e892/15-web-development-project-ideas-for-your-portfolio-30jl)
 <!-- BLOG-POST-LIST:END -->
 
 
