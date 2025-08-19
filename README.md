@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch Your First Serverless API: Hands-On with AWS Chalice on AWS Lambda](https://dev.to/shrsv/launch-your-first-serverless-api-hands-on-with-aws-chalice-on-aws-lambda-3712)
-- [Creativity Isn’t a Gift—It’s a Bank Account. Here’s How to Make Withdrawals](https://dev.to/praisejamesx/creativity-isnt-a-gift-its-a-bank-account-heres-how-to-make-withdrawals-d0k)
-- [Chrome Extension](https://dev.to/rohan2596/-4lo7)
-- [Beginner’s Guide to Wordlists and Crunch for Password Testing](https://dev.to/rijultp/beginners-guide-to-wordlists-and-crunch-for-password-testing-4j14)
+- [GameSpot: Silent Hill f - Official Story Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-story-trailer-33kl)
+- [GameSpot: Vampire: the Masquerade - Bloodlines 2 | Official Release Date Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-official-release-date-reveal-gameplay-trailer-49nd)
+- [IGN: World of Tanks - Update 2.0 Trailer | gamescom 2025](https://dev.to/gg_news/ign-world-of-tanks-update-20-trailer-gamescom-2025-1fbb)
+- [IGN: Europa Universalis V - Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-europa-universalis-v-reveal-trailer-gamescom-2025-3hgd)
 <!-- BLOG-POST-LIST:END -->
 
 
