@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pyker: A Modern PM2 Alternative for Python Developers](https://dev.to/mrvi0/pyker-a-modern-pm2-alternative-for-python-developers-e8m)
-- [IGN: Inferius - Official Announcement Trailer](https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec)
-- [IGN: Into the Infinite Showcase 2025](https://dev.to/gg_news/ign-into-the-infinite-showcase-2025-6j)
-- [IGN: Vampires: Bloodlord Rising - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-vampires-bloodlord-rising-official-trailer-gamescom-2025-c29)
+- [Deploy a WordPress Blog on AWS with RDS &amp; EC2 📰☁️](https://dev.to/yash_sonawane25/deploy-a-wordpress-blog-on-aws-with-rds-ec2-292b)
+- [Earl Sebagai Bahasa Menyusahkan Orang](https://dev.to/dev_nazwashabrina/earl-sebagai-bahasa-menyusahkan-orang-5gek)
+- [Pi-hole in Docker on macOS for newbies](https://dev.to/ylub/pi-hole-in-docker-on-macos-for-newbies-55ig)
+- [🚀 Day 1: My First Steps in C++ &lpar;#100DaysOfCode&rpar;](https://dev.to/munin_borah/day-1-my-first-steps-in-c-100daysofcode-m47)
 <!-- BLOG-POST-LIST:END -->
 
 
