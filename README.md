@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching My Open-Source Blog App](https://dev.to/kiraaziz/launching-my-open-source-blog-app-4dej)
-- [Building InboxHiiv: Event-Driven Podcast Processing with Firebase Functions and Gemini AI](https://dev.to/akhilcjacob/building-inboxhiiv-event-driven-podcast-processing-with-firebase-functions-and-gemini-ai-53ff)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/immanol_jhuniorbaltazar/css-blossoming-flowers-at-magical-night-5600)
-- [Writing Maintainable AI Prompts in Rails with Promptly](https://dev.to/travelingwilbur/writing-maintainable-ai-prompts-in-rails-with-promptly-1dnf)
+- [Pyker: A Modern PM2 Alternative for Python Developers](https://dev.to/mrvi0/pyker-a-modern-pm2-alternative-for-python-developers-e8m)
+- [IGN: Inferius - Official Announcement Trailer](https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec)
+- [IGN: Into the Infinite Showcase 2025](https://dev.to/gg_news/ign-into-the-infinite-showcase-2025-6j)
+- [IGN: Vampires: Bloodlord Rising - Official Trailer | gamescom 2025](https://dev.to/gg_news/ign-vampires-bloodlord-rising-official-trailer-gamescom-2025-c29)
 <!-- BLOG-POST-LIST:END -->
 
 
