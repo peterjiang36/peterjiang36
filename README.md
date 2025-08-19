@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Evolution:From Agile to Continuous Everything](https://dev.to/dct_technology/the-next-evolutionfrom-agile-to-continuous-everything-1a0e)
-- [Using IF nodes for conditional logic](https://dev.to/brook_051cd08713006b/using-if-nodes-for-conditional-logic-4m96)
-- [Deploying Express.js App on Vercel](https://dev.to/buildandcodewithraman/deploying-expressjs-app-on-vercel-1e4n)
-- [Effective Sprint Planning: Avoiding the Overcommitment Trap](https://dev.to/dct_technology/effective-sprint-planning-avoiding-the-overcommitment-trap-1fc5)
+- [Agentic AI: How Autonomous Agents Are Transforming Enterprise Workflows](https://dev.to/koolkamalkishor/agentic-ai-how-autonomous-agents-are-transforming-enterprise-workflows-4oi6)
+- [JDK vs JRE vs JVM &lpar;JAVA&rpar;](https://dev.to/ligouri_stittus_416c7cee/jdk-vs-jre-vs-jvm-java-2lh4)
+- [Image-to-Pixel: Convert Images to Pixel Art with JavaScript Dithering](https://dev.to/jqueryscript/image-to-pixel-convert-images-to-pixel-art-with-javascript-dithering-4mp)
+- [Unlocking Business Intelligence with Power BI](https://dev.to/kaviya_m_4f9b86f1f4500fd8/unlocking-business-intelligence-with-power-bi-6)
 <!-- BLOG-POST-LIST:END -->
 
 
