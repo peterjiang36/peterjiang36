@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a WordPress Blog on AWS with RDS &amp; EC2 📰☁️](https://dev.to/yash_sonawane25/deploy-a-wordpress-blog-on-aws-with-rds-ec2-292b)
-- [Earl Sebagai Bahasa Menyusahkan Orang](https://dev.to/dev_nazwashabrina/earl-sebagai-bahasa-menyusahkan-orang-5gek)
-- [Pi-hole in Docker on macOS for newbies](https://dev.to/ylub/pi-hole-in-docker-on-macos-for-newbies-55ig)
-- [🚀 Day 1: My First Steps in C++ &lpar;#100DaysOfCode&rpar;](https://dev.to/munin_borah/day-1-my-first-steps-in-c-100daysofcode-m47)
+- [Diving Deep: K-Fold Cross-Validation](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-k-fold-cross-validation-3f23)
+- [Learning about MP4 and stumbled upon this great article! 😄](https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6)
+- [Building Code Retrieval for Claude Code from Scratch](https://dev.to/chen_zhang_bac430bc7f6b95/building-code-retrieval-for-claude-code-from-scratch-3n8c)
+- [2025 Latest: Complete Guide to Qwen-Image-Edit Image Editing Model](https://dev.to/czmilo/2025-latest-complete-guide-to-qwen-image-edit-image-editing-model-2kd5)
 <!-- BLOG-POST-LIST:END -->
 
 
