@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Barrington Levy - A FI YUH &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-a-fi-yuh-live-on-kexp-22ac)
-- [KEXP: Barrington Levy - Black Roses / Here I Come &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-black-roses-here-i-come-live-on-kexp-2od2)
-- [KEXP: Barrington Levy - Too Experienced &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-too-experienced-live-on-kexp-3l8o)
-- [Kurzgesagt - In a Nutshell: The Drug To Master Reality](https://dev.to/future_youtube/kurzgesagt-in-a-nutshell-the-drug-to-master-reality-jh)
+- [Why Now Is the Right Time to Build a Babysitter App](https://dev.to/inna_lebedeva_36049c4f899/why-now-is-the-right-time-to-build-a-babysitter-app-4oma)
+- [Angular Signals Tutorial: Crafting a Custom Star Rating Component with Accessibility](https://dev.to/codewithrajat/angular-signals-tutorial-crafting-a-custom-star-rating-component-with-accessibility-576)
+- [🐝 BusyBee: Fast &amp; Observable Background Job Processing for .NET](https://dev.to/kaminski/busybee-fast-observable-background-job-processing-for-net-40a8)
+- [How AI Agent Development Powers Digital Transformation](https://dev.to/martina_016d89d1530e344e5/how-ai-agent-development-powers-digital-transformation-k7e)
 <!-- BLOG-POST-LIST:END -->
 
 
