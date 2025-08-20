@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
-- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
-- [Build an AR React App](https://dev.to/murcoder/build-an-ar-react-app-17i5)
-- [A series that is hype free, optimistic and cautious, but most of all written accessibly no matter your current level. All things dev&#39;s should understand about #ai fast. Thanks Dev. This should be a book &amp; course next. @dev_patel_35864ca1db6093c](https://dev.to/leogopal/a-series-that-is-hype-free-optimistic-and-cautious-but-most-of-all-written-accessibly-no-matter-1mi5)
+- [Stop Burning Money on AI Tests: Build a Smart Mock System in 15 Minutes](https://dev.to/dpelleri/stop-burning-money-on-ai-tests-build-a-smart-mock-system-in-15-minutes-4c21)
+- [Choosing the Best AI Voice Agent in 2025 &lpar;Community Thoughts&rpar;](https://dev.to/clickit_devops/choosing-the-best-ai-voice-agent-in-2025-community-thoughts-2o33)
+- [⚡ Understanding React Keys and Why They Matter](https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl)
+- [Aug__20:&rpar;Java Classes and Objects](https://dev.to/ajayr18/aug20java-classes-and-objects-58jb)
 <!-- BLOG-POST-LIST:END -->
 
 
