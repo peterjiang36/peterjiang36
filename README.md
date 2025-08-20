@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI for the Clueless, Learning AWS CLI Through Interactive Gaming](https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l)
-- [Introducing wasp-lib: A TypeScript Library for Simplified WebAssembly Memory Management](https://dev.to/ptprashanttripathi/introducing-wasp-lib-a-typescript-library-for-simplified-webassembly-memory-management-171l)
-- [ん, and?](https://dev.to/yowise/n-and-3mn1)
-- [Embedding Emotion: Emoji Integration with Froala Editor](https://dev.to/ideradevtools/embedding-emotion-emoji-integration-with-froala-editor-4i09)
+- [KEDA to build Event-Driven Applications on EKS](https://dev.to/aws-builders/keda-to-build-event-driven-applications-on-eks-4gci)
+- [Debugging JavaScript in Dynamics 365 CE: Forms, Ribbons, and PCFs](https://dev.to/nikhildynamicsce/debugging-javascript-in-dynamics-365-ce-forms-ribbons-and-pcfs-10g9)
+- [Title: The Unseen Impact of Nighttime Artificial Light on Brain Function, Mood, and Metabolism](https://dev.to/yagyaraj_sharma_6cd410179/title-the-unseen-impact-of-nighttime-artificial-light-on-brain-function-mood-and-metabolism-4253)
+- [Cracking Open the Magic of React Native + C++ for JSI Bindings](https://dev.to/samuel_onireti_0e7ea18c79/cracking-open-the-magic-of-react-native-c-for-jsi-bindings-17i4)
 <!-- BLOG-POST-LIST:END -->
 
 
