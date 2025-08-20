@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
-- [Demystifying Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2)
-- [Day 22 of My Data Analytics Journey !](https://dev.to/ramyacse/day-22-of-my-data-analytics-journey--4ki7)
-- [Sweating the Small Stuff: UX Decisions That Matter ✨](https://dev.to/vijay431/sweating-the-small-stuff-ux-decisions-that-matter-56g4)
+- [GameSpot: Call of Duty Black Ops 7: First Impressions](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-first-impressions-d80)
+- [IGN: Dune: Awakening - Official Chapter 2 Update Overview Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-dune-awakening-official-chapter-2-update-overview-trailer-into-the-infinite-2025-2c7l)
+- [IGN: Den of Wolves - Official Pre-Alpha Trailer | Into the Infinite 2025](https://dev.to/gg_news/ign-den-of-wolves-official-pre-alpha-trailer-into-the-infinite-2025-206o)
+- [IGN: The Expanse: Osiris Reborn - Official Environment Showcase Trailer](https://dev.to/gg_news/ign-the-expanse-osiris-reborn-official-environment-showcase-trailer-4h6c)
 <!-- BLOG-POST-LIST:END -->
 
 
