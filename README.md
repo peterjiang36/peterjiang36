@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [役員変更登記](https://dev.to/suzulabo/yi-yuan-bian-geng-deng-ji-237g)
-- [🚀 Introducing ngxsmk-stripe: A Modern Angular Stripe Plugin](https://dev.to/toozuuu/introducing-ngxsmk-stripe-a-modern-angular-stripe-plugin-2klp)
-- [React 19 Suspense Deep Dive — Data Fetching, Streaming, and Error Handling Like a Pro](https://dev.to/a1guy/react-19-suspense-deep-dive-data-fetching-streaming-and-error-handling-like-a-pro-3k74)
-- [Untitled](https://dev.to/luis_torres_310e67efe3934/untitled-1i49)
+- [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
+- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
+- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
+- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
 <!-- BLOG-POST-LIST:END -->
 
 
