@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Burning Money on AI Tests: Build a Smart Mock System in 15 Minutes](https://dev.to/dpelleri/stop-burning-money-on-ai-tests-build-a-smart-mock-system-in-15-minutes-4c21)
-- [Choosing the Best AI Voice Agent in 2025 &lpar;Community Thoughts&rpar;](https://dev.to/clickit_devops/choosing-the-best-ai-voice-agent-in-2025-community-thoughts-2o33)
-- [⚡ Understanding React Keys and Why They Matter](https://dev.to/aman_kureshi_/understanding-react-keys-and-why-they-matter-56kl)
-- [Aug__20:&rpar;Java Classes and Objects](https://dev.to/ajayr18/aug20java-classes-and-objects-58jb)
+- [The Neanderthal in the Machine](https://dev.to/ai_deckard/the-neanderthal-in-the-machine-4pc1)
+- [Demystifying Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2)
+- [Day 22 of My Data Analytics Journey !](https://dev.to/ramyacse/day-22-of-my-data-analytics-journey--4ki7)
+- [Sweating the Small Stuff: UX Decisions That Matter ✨](https://dev.to/vijay431/sweating-the-small-stuff-ux-decisions-that-matter-56g4)
 <!-- BLOG-POST-LIST:END -->
 
 
