@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Black Ops 7 Preview](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-preview-140j)
-- [GameSpot: Halloween The Game - Official Announcement Trailer](https://dev.to/gg_news/gamespot-halloween-the-game-official-announcement-trailer-4n0k)
-- [IGN: Frostpunk 2 - Official Console Gameplay Trailer](https://dev.to/gg_news/ign-frostpunk-2-official-console-gameplay-trailer-1ain)
-- [IGN: Black Ops 7 Devs Respond to &#39;Lazy&#39; Call of Duty Accusations - IGN Daily Fix](https://dev.to/gg_news/ign-black-ops-7-devs-respond-to-lazy-call-of-duty-accusations-ign-daily-fix-1jbp)
+- [Step-by-Step Guide: Building a Smart Fence Cost Estimator Using Node.js](https://dev.to/emily_johnson_dev/step-by-step-guide-building-a-smart-fence-cost-estimator-using-nodejs-507)
+- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-530b)
+- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
 <!-- BLOG-POST-LIST:END -->
 
 
