@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Intuition Into Evidence: The Power of Data in Project Management](https://dev.to/chimannamadim/turning-intuition-into-evidence-the-power-of-data-in-project-management-4b07)
-- [frontend](https://dev.to/devnyang/frontend-49m9)
-- [What is the Bias-Variance Trade-off?](https://dev.to/dev_patel_35864ca1db6093c/what-is-the-bias-variance-trade-off-1bkn)
-- [Optimizing Memory Allocation in Go: Small and Large Objects Made Simple](https://dev.to/jones_charles_ad50858dbc0/optimizing-memory-allocation-in-go-small-and-large-objects-made-simple-4ica)
+- [Rumbo AWS Certified Security Specialty. Bitácora de vuelo de una builder - AWS Directory Services y Federation](https://dev.to/aws-builders/rumbo-aws-certified-security-specialty-bitacora-de-vuelo-de-una-builder-aws-directory-services-y-5h03)
+- [SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry](https://dev.to/censtry/sp3232een-reliable-rs-232-transceiver-for-embedded-communication-censtry-4mp7)
+- [CI/CD Pipeline for React App on S3 + CloudFront using GitHub Actions 🚀](https://dev.to/yash_sonawane25/cicd-pipeline-for-react-app-on-s3-cloudfront-using-github-actions-2973)
+- [Mastering curl: The Swiss Army Knife of the Command Line](https://dev.to/kmsaifullah/mastering-curl-the-swiss-army-knife-of-the-command-line-4077)
 <!-- BLOG-POST-LIST:END -->
 
 
