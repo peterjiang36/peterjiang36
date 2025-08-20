@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEDA to build Event-Driven Applications on EKS](https://dev.to/aws-builders/keda-to-build-event-driven-applications-on-eks-4gci)
-- [Debugging JavaScript in Dynamics 365 CE: Forms, Ribbons, and PCFs](https://dev.to/nikhildynamicsce/debugging-javascript-in-dynamics-365-ce-forms-ribbons-and-pcfs-10g9)
-- [Title: The Unseen Impact of Nighttime Artificial Light on Brain Function, Mood, and Metabolism](https://dev.to/yagyaraj_sharma_6cd410179/title-the-unseen-impact-of-nighttime-artificial-light-on-brain-function-mood-and-metabolism-4253)
-- [Cracking Open the Magic of React Native + C++ for JSI Bindings](https://dev.to/samuel_onireti_0e7ea18c79/cracking-open-the-magic-of-react-native-c-for-jsi-bindings-17i4)
+- [Turning Intuition Into Evidence: The Power of Data in Project Management](https://dev.to/chimannamadim/turning-intuition-into-evidence-the-power-of-data-in-project-management-4b07)
+- [frontend](https://dev.to/devnyang/frontend-49m9)
+- [What is the Bias-Variance Trade-off?](https://dev.to/dev_patel_35864ca1db6093c/what-is-the-bias-variance-trade-off-1bkn)
+- [Optimizing Memory Allocation in Go: Small and Large Objects Made Simple](https://dev.to/jones_charles_ad50858dbc0/optimizing-memory-allocation-in-go-small-and-large-objects-made-simple-4ica)
 <!-- BLOG-POST-LIST:END -->
 
 
