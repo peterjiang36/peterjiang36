@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey with text input example](https://dev.to/ben/survey-with-text-input-example-142p)
-- [How do I separate myself from most entry level devs?](https://dev.to/ej_salga_af7c7ffbf288c3d7/how-do-i-separate-myself-from-most-entry-level-devs-20m0)
-- [KotlinLesson 2: Kotlin Basic Syntax: Mastering Variables, Data Types, and Operators](https://dev.to/jige2025/kotlinlesson-2-kotlin-basic-syntax-mastering-variables-data-types-and-operators-4hej)
-- [Pivoting from Auth0 to PHP Symfony](https://dev.to/browsely_a899a03e6654ba38/pivoting-from-auth0-to-php-symfony-39h)
+- [IGN: Onimusha Could be as Sharp as Sekiro Without the Soulslike Difficulty | gamescom 2025](https://dev.to/gg_news/ign-onimusha-could-be-as-sharp-as-sekiro-without-the-soulslike-difficulty-gamescom-2025-3f38)
+- [IGN: Borderlands 4 Has The Weirdest Weapons You&#39;ll Ever See | gamescom 2025](https://dev.to/gg_news/ign-borderlands-4-has-the-weirdest-weapons-youll-ever-see-gamescom-2025-2llc)
+- [IGN: Invincible VS - Official Omni-Man Developer Fighter Deep Dive Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-invincible-vs-official-omni-man-developer-fighter-deep-dive-trailer-xbox-gamescom-2025-4jh0)
+- [IGN: How Ninja Garden 4 Continues Ryu&#39;s Legacy in New Ways | gamescom 2025](https://dev.to/gg_news/ign-how-ninja-garden-4-continues-ryus-legacy-in-new-ways-gamescom-2025-ann)
 <!-- BLOG-POST-LIST:END -->
 
 
