@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
-- [Few projects up https://vicentereyes.org/works](https://dev.to/highcenburg/few-projects-up-httpsvicentereyesorgworks-3jik)
-- [AI-Powered Data Engineering &amp; Analytics Solutions for Enterprises](https://dev.to/razorpod_seo_0a69ce36e98f/ai-powered-data-engineering-analytics-solutions-for-enterprises-p8l)
-- [Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7](https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh)
+- [KEXP: Barrington Levy - A FI YUH &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-a-fi-yuh-live-on-kexp-22ac)
+- [KEXP: Barrington Levy - Black Roses / Here I Come &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-black-roses-here-i-come-live-on-kexp-2od2)
+- [KEXP: Barrington Levy - Too Experienced &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-barrington-levy-too-experienced-live-on-kexp-3l8o)
+- [Kurzgesagt - In a Nutshell: The Drug To Master Reality](https://dev.to/future_youtube/kurzgesagt-in-a-nutshell-the-drug-to-master-reality-jh)
 <!-- BLOG-POST-LIST:END -->
 
 
