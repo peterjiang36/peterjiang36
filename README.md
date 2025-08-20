@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I automated typing for coding tutorials with C# &lpar;introducing ChoreoTyper&rpar;](https://dev.to/sarmis/how-i-automated-typing-for-coding-tutorials-with-c-introducing-choreotyper-2f6f)
-- [Learn about 11 hidden HTML tags that can make your web development easier, improve your website&#39;s functionality, and boost SEO. Great for beginners and experts!](https://dev.to/web_dev-usman/learn-about-11-hidden-html-tags-that-can-make-your-web-development-easier-improve-your-websites-1459)
-- [My Attempt at Neobrutalism with Svelte: Redesigning my Website](https://dev.to/pbouillon/my-attempt-at-neobrutalism-with-svelte-redesigning-my-website-12hl)
-- [IGN: BioShock 4 Status Update: There&#39;s Good News and Bad News...](https://dev.to/gg_news/ign-bioshock-4-status-update-theres-good-news-and-bad-news-3f1n)
+- [Boring Cybersecurity Theory: Ethics &lpar;Make Your Choice&rpar;](https://dev.to/dharbachou/boring-cybersecurity-theory-ethics-make-your-choice-4ic1)
+- [How to Build a Full-Spectrum API Testing Strategy with the Quadrant &amp; Pyramid](https://dev.to/dmitrybaraishuk/how-to-build-a-full-spectrum-api-testing-strategy-with-the-quadrant-pyramid-5439)
+- [Amazon Interview Experience: Rejected After Four Rounds of Interviews!](https://dev.to/_1c38abf3f8630eeac6180/amazon-interview-experience-rejected-after-four-rounds-of-interviews-5bb2)
+- [WSGI vs ASGI: Complete Guide](https://dev.to/mcheremnov/wsgi-vs-asgi-complete-guide-466f)
 <!-- BLOG-POST-LIST:END -->
 
 
