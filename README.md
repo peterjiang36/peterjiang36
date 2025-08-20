@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Onimusha Could be as Sharp as Sekiro Without the Soulslike Difficulty | gamescom 2025](https://dev.to/gg_news/ign-onimusha-could-be-as-sharp-as-sekiro-without-the-soulslike-difficulty-gamescom-2025-3f38)
-- [IGN: Borderlands 4 Has The Weirdest Weapons You&#39;ll Ever See | gamescom 2025](https://dev.to/gg_news/ign-borderlands-4-has-the-weirdest-weapons-youll-ever-see-gamescom-2025-2llc)
-- [IGN: Invincible VS - Official Omni-Man Developer Fighter Deep Dive Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-invincible-vs-official-omni-man-developer-fighter-deep-dive-trailer-xbox-gamescom-2025-4jh0)
-- [IGN: How Ninja Garden 4 Continues Ryu&#39;s Legacy in New Ways | gamescom 2025](https://dev.to/gg_news/ign-how-ninja-garden-4-continues-ryus-legacy-in-new-ways-gamescom-2025-ann)
+- [SQL,PostgreSQL, Database RDBMS, Sql NoSql farqi](https://dev.to/elshoddev/sqlpostgresql-database-rdbms-sql-nosql-farqi-5gi)
+- [Notes I Have Learning](https://dev.to/abishek_44a09d1e1af19b4ca/notes-i-have-learning-11ki)
+- [Build an AR React App](https://dev.to/murcoder/build-an-ar-react-app-17i5)
+- [A series that is hype free, optimistic and cautious, but most of all written accessibly no matter your current level. All things dev&#39;s should understand about #ai fast. Thanks Dev. This should be a book &amp; course next. @dev_patel_35864ca1db6093c](https://dev.to/leogopal/a-series-that-is-hype-free-optimistic-and-cautious-but-most-of-all-written-accessibly-no-matter-1mi5)
 <!-- BLOG-POST-LIST:END -->
 
 
