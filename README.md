@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built distributed systems at Meta. I still recommend starting with web dev.](https://dev.to/fahimulhaq/i-built-distributed-systems-at-meta-i-still-recommend-starting-with-web-dev-5aa9)
-- [Why I’d Never Let AI Rewrite It](https://dev.to/pratapkute/why-id-never-let-ai-rewrite-it-4f9p)
-- [Launch Your React Website on Netlify for Free: The Lazy Dev’s Guide 😪](https://dev.to/naiqor/launch-your-react-website-on-netlify-for-free-the-lazy-devs-guide-2f5k)
-- [A Minimalist Changelog Template for Next.js 15](https://dev.to/jqueryscript/a-minimalist-changelog-template-for-nextjs-15-53b9)
+- [5 Killer Habits - Be a Rebel](https://dev.to/ananaya_narula_fb3766d6c2/5-killer-habits-be-a-rebel-2434)
+- [Make Google Search Clean Again!](https://dev.to/nandkishorjadoun/make-google-search-clean-again-404g)
+- [Beyond Code: The Soft Skills That Make You a 10x Teammate](https://dev.to/david_dasilva_6199bc8724a/beyond-code-the-soft-skills-that-make-you-a-10x-teammate-3579)
+- [How to Build a Qt Barcode Scanner with MSVC and Dynamsoft C++ Barcode SDK on Windows](https://dev.to/yushulx/how-to-build-a-qt-barcode-scanner-with-msvc-and-dynamsoft-c-barcode-sdk-on-windows-333c)
 <!-- BLOG-POST-LIST:END -->
 
 
