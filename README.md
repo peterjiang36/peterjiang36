@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will AI Replace Data Analysts?](https://dev.to/kapusto/will-ai-replace-data-analysts-48ic)
-- [Anypoint MQ: Enabling Robust Messaging for Modern Integration](https://dev.to/kapusto/anypoint-mq-enabling-robust-messaging-for-modern-integration-360)
-- [Why Pure Functions Are the Secret Weapon of Scalable Code in 2025](https://dev.to/arkhan/why-pure-functions-are-the-secret-weapon-of-scalable-code-in-2025-4h41)
-- [Running Managed Apache Flink with Java 17: Why Your Job Fails &lpar;and How to Fix It&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/running-managed-apache-flink-with-java-17-why-your-job-fails-and-how-to-fix-it-2j0a)
+- [GameSpot: Call of Duty Black Ops 7 Preview](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-preview-140j)
+- [GameSpot: Halloween The Game - Official Announcement Trailer](https://dev.to/gg_news/gamespot-halloween-the-game-official-announcement-trailer-4n0k)
+- [IGN: Frostpunk 2 - Official Console Gameplay Trailer](https://dev.to/gg_news/ign-frostpunk-2-official-console-gameplay-trailer-1ain)
+- [IGN: Black Ops 7 Devs Respond to &#39;Lazy&#39; Call of Duty Accusations - IGN Daily Fix](https://dev.to/gg_news/ign-black-ops-7-devs-respond-to-lazy-call-of-duty-accusations-ign-daily-fix-1jbp)
 <!-- BLOG-POST-LIST:END -->
 
 
