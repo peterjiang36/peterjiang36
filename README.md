@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
-- [IGN: Borderlands 4 Gameplay &lpar;RTX 5090, 4K 60FPS&rpar;](https://dev.to/gg_news/ign-borderlands-4-gameplay-rtx-5090-4k-60fps-2m7b)
-- [Untitled](https://dev.to/jhoniiier/untitled-50jj)
-- [Adding interactive charts for browsers and mobile devices.](https://dev.to/pineshpatel/adding-interactive-charts-for-browsers-and-mobile-devices-4enk)
+- [Best AI Tools for Coding in 2025: A Developer’s Perspective](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2025-a-developers-perspective-3h6d)
+- [💻What is HarmonyOS Next? How is it Different from Android?](https://dev.to/harmonyos/what-is-harmonyos-next-how-is-it-different-from-android-12g)
+- [The Hidden Costs of AI APIs &lpar;and How to Avoid Them&rpar;](https://dev.to/anyapi/the-hidden-costs-of-ai-apis-and-how-to-avoid-them-2e2k)
+- [WTF is GPT-4 Coding Assistants?](https://dev.to/dailybugle33/wtf-is-gpt-4-coding-assistants-2jal)
 <!-- BLOG-POST-LIST:END -->
 
 
