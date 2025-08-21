@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API &lpar;with Code Samples&rpar;](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
-- [KEXP: Khu éex&#39; - Music Heals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-music-heals-live-on-kexp-4cn4)
-- [KEXP: Khu éex&#39; - T Funk &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-t-funk-live-on-kexp-1470)
-- [KEXP: Khu éex&#39; - Lovebirds &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-lovebirds-live-on-kexp-3dn7)
+- [Show us your open-source project](https://dev.to/antoniofromlitlyx/show-us-your-open-source-project-2gom)
+- [New SFTP vs FTPS benchmarks: well, I didn’t expect that](https://dev.to/lauraann_burgesss/new-sftp-vs-ftps-benchmarks-well-i-didnt-expect-that-4od6)
+- [AI or Obsolete: Why Developers Need AI in Their Workflow](https://dev.to/devbyrayray/ai-or-obsolete-why-developers-need-ai-in-their-workflow-4gh4)
+- [Git](https://dev.to/mukesh_singh/git-462h)
 <!-- BLOG-POST-LIST:END -->
 
 
