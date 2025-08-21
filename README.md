@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
-- [GameSpot: Kirby Air Riders City Trial Meta Knight Gameplay &lpar;Off Screen Filmed Footage&rpar;](https://dev.to/gg_news/gamespot-kirby-air-riders-city-trial-meta-knight-gameplay-off-screen-filmed-footage-218f)
-- [IGN: Hollow Knight: Silksong Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-gameplay-off-screen-gamescom-2025-2nem)
-- [IGN: Hollow Knight: Silksong - We&#39;ve Played It! | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-weve-played-it-gamescom-2025-2ol1)
+- [AI Comic Studio app using Google AI Studio](https://dev.to/raulster24/ai-comic-studio-35ep)
+- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
+- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
+- [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
 <!-- BLOG-POST-LIST:END -->
 
 
