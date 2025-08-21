@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
-- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
-- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
-- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
+- [GameSpot: Keeper is Double Fine Getting Weird with Microsoft&#39;s Money | First Impressions](https://dev.to/gg_news/gamespot-keeper-is-double-fine-getting-weird-with-microsofts-money-first-impressions-26lp)
+- [IGN: Borderlands 4 Gameplay &lpar;RTX 5090, 4K 60FPS&rpar;](https://dev.to/gg_news/ign-borderlands-4-gameplay-rtx-5090-4k-60fps-2m7b)
+- [Untitled](https://dev.to/jhoniiier/untitled-50jj)
+- [Adding interactive charts for browsers and mobile devices.](https://dev.to/pineshpatel/adding-interactive-charts-for-browsers-and-mobile-devices-4enk)
 <!-- BLOG-POST-LIST:END -->
 
 
