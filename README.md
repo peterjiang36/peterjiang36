@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Comic Studio app using Google AI Studio](https://dev.to/raulster24/ai-comic-studio-35ep)
-- [Waterfall Model](https://dev.to/outsourcedigest/waterfall-model-2ip4)
-- [The Journey of a 2.0 Newbie](https://dev.to/irene_githundi_fc0fcb5d1c/the-journey-of-a-20-newbie-5263)
-- [&quot;Data Analytics as the Catalyst for Business Evolution&quot;](https://dev.to/ashwin_pps_365864ef843ec2/data-analytics-as-the-catalyst-for-business-evolution-825)
+- [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API &lpar;with Code Samples&rpar;](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
+- [KEXP: Khu éex&#39; - Music Heals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-music-heals-live-on-kexp-4cn4)
+- [KEXP: Khu éex&#39; - T Funk &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-t-funk-live-on-kexp-1470)
+- [KEXP: Khu éex&#39; - Lovebirds &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-lovebirds-live-on-kexp-3dn7)
 <!-- BLOG-POST-LIST:END -->
 
 
