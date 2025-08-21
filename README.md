@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Mistfall Hunter - Official BETA 3 Announcement Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-mistfall-hunter-official-beta-3-announcement-trailer-xbox-gamescom-2025-ppe)
-- [IGN: Valor Mortis - Developer Interview | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-valor-mortis-developer-interview-xbox-gamescom-2025-2p35)
-- [IGN: Age of Empires 4: Dynasties of the East - Game Overview | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-age-of-empires-4-dynasties-of-the-east-game-overview-xbox-gamescom-2025-49k4)
-- [IGN: How Anno 117: Pax Romana Brings Britannia to Life | gamescom 2025](https://dev.to/gg_news/ign-how-anno-117-pax-romana-brings-britannia-to-life-gamescom-2025-3ih3)
+- [Technical Sales &amp; Presales 101: The very basics](https://dev.to/lukasniessen/technical-sales-presales-101-the-very-basics-49nh)
+- [Simple Website Using HTML and CSS Only – Step by Step Tutorial &lpar;With Code&rpar;](https://dev.to/alizehcodes/simple-website-using-html-and-css-only-step-by-step-tutorial-with-code-1645)
+- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
+- [Peter Finch Golf: Can I BREAK 60 with Iona Stephen?!](https://dev.to/youtube_golf/peter-finch-golf-can-i-break-60-with-iona-stephen-1fd0)
 <!-- BLOG-POST-LIST:END -->
 
 
