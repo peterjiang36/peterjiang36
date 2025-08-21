@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Show us your open-source project](https://dev.to/antoniofromlitlyx/show-us-your-open-source-project-2gom)
-- [New SFTP vs FTPS benchmarks: well, I didn’t expect that](https://dev.to/lauraann_burgesss/new-sftp-vs-ftps-benchmarks-well-i-didnt-expect-that-4od6)
-- [AI or Obsolete: Why Developers Need AI in Their Workflow](https://dev.to/devbyrayray/ai-or-obsolete-why-developers-need-ai-in-their-workflow-4gh4)
-- [Git](https://dev.to/mukesh_singh/git-462h)
+- [GameSpot: Onimusha Way of the Sword Ganryu Boss Fight | gamescom 2025](https://dev.to/gg_news/gamespot-onimusha-way-of-the-sword-ganryu-boss-fight-gamescom-2025-k0g)
+- [GameSpot: Phantom Blade 0 Hardest Difficulty Gameplay | gamescom 2025](https://dev.to/gg_news/gamespot-phantom-blade-0-hardest-difficulty-gameplay-gamescom-2025-53op)
+- [IGN: Why You Should be Excited About Crimson Desert&#39;s Open World | gamescom 2025](https://dev.to/gg_news/ign-why-you-should-be-excited-about-crimson-deserts-open-world-gamescom-2025-507l)
+- [IGN: Pokemon Legends: Z-A - Official &#39;The Case of the Sweet Scent Incident&#39; Trailer](https://dev.to/gg_news/ign-pokemon-legends-z-a-official-the-case-of-the-sweet-scent-incident-trailer-44gh)
 <!-- BLOG-POST-LIST:END -->
 
 
