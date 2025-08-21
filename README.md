@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Building a Smart Fence Cost Estimator Using Node.js](https://dev.to/emily_johnson_dev/step-by-step-guide-building-a-smart-fence-cost-estimator-using-nodejs-507)
-- [This was great! Had to share it.](https://dev.to/juanperez/this-was-great-had-to-share-it-530b)
-- [RustMailer: A Self-Hosted IMAP/SMTP Middleware for Developers](https://dev.to/rustmailer_39a575ac86abbf/rustmailer-a-self-hosted-imapsmtp-middleware-for-developers-27o)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-5ff6)
+- [KIB in Batch](https://dev.to/benja2998/kib-in-batch-1n1)
+- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-35dl)
+- [IGN: Kaidan - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-kaidan-official-reveal-trailer-gamescom-2025-14k)
+- [IGN: Nikke x Resident Evil - Official Full Collaboration Teaser Trailer | gamescom 2025](https://dev.to/gg_news/ign-nikke-x-resident-evil-official-full-collaboration-teaser-trailer-gamescom-2025-10fl)
 <!-- BLOG-POST-LIST:END -->
 
 
