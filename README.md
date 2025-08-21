@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been dancing around this idea for a long time now. Regardless of my title, how the industry is shaping, how tech evolves, the core of why I love this industry is because it&#39;s really all about learning...and I&#39;m a learning nerd 🤓](https://dev.to/drguthals/ive-been-dancing-around-this-idea-for-a-long-time-now-regardless-of-my-title-how-the-industry-is-36h6)
-- [Best Alternative for v0, Lovable, Cursor — Fully Local &lpar;Dyad.sh&rpar;](https://dev.to/jayasurya_mailsamy/best-alternative-for-v0-lovable-cursor-fully-local-dyadsh-39f1)
-- [git create branch from main](https://dev.to/pheak_pheasa/git-create-branch-from-main-3f98)
-- [🚀 Why Every Developer Needs DevToys: The Swiss Army Knife You Didn’t Know You Needed](https://dev.to/jakpren/why-every-developer-needs-devtoys-the-swiss-army-knife-you-didnt-know-you-needed-3bo4)
+- [Setting up local Supabase when migration scripts error out](https://dev.to/tomokat/setting-up-local-supabase-when-migration-scripts-error-out-4k60)
+- [The Rise of Open AI Models: Privacy, Control, and a New Era](https://dev.to/semiautomatix/the-rise-of-open-ai-models-privacy-control-and-a-new-era-26j1)
+- [WebAssembly 基础（一）](https://dev.to/yangholmes/webassembly-ji-chu--32kb)
+- [Build a Serverless Contact Form with Lambda + API Gateway + SES 📩](https://dev.to/yash_sonawane25/build-a-serverless-contact-form-with-lambda-api-gateway-ses-22on)
 <!-- BLOG-POST-LIST:END -->
 
 
