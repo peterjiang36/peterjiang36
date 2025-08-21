@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Coding in 2025: A Developer’s Perspective](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2025-a-developers-perspective-3h6d)
-- [💻What is HarmonyOS Next? How is it Different from Android?](https://dev.to/harmonyos/what-is-harmonyos-next-how-is-it-different-from-android-12g)
-- [The Hidden Costs of AI APIs &lpar;and How to Avoid Them&rpar;](https://dev.to/anyapi/the-hidden-costs-of-ai-apis-and-how-to-avoid-them-2e2k)
-- [WTF is GPT-4 Coding Assistants?](https://dev.to/dailybugle33/wtf-is-gpt-4-coding-assistants-2jal)
+- [GameSpot: Zero Parades &lpar;Project C4&rpar; Preview: ZA/UM’s Latest Is A Spy Fantasy](https://dev.to/gg_news/gamespot-zero-parades-project-c4-preview-zaums-latest-is-a-spy-fantasy-36ia)
+- [GameSpot: Kirby Air Riders City Trial Meta Knight Gameplay &lpar;Off Screen Filmed Footage&rpar;](https://dev.to/gg_news/gamespot-kirby-air-riders-city-trial-meta-knight-gameplay-off-screen-filmed-footage-218f)
+- [IGN: Hollow Knight: Silksong Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-gameplay-off-screen-gamescom-2025-2nem)
+- [IGN: Hollow Knight: Silksong - We&#39;ve Played It! | gamescom 2025](https://dev.to/gg_news/ign-hollow-knight-silksong-weve-played-it-gamescom-2025-2ol1)
 <!-- BLOG-POST-LIST:END -->
 
 
