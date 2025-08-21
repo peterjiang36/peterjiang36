@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Zero Parades: First Impressions &lpar;From The Creators of Disco Elysium&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-from-the-creators-of-disco-elysium-31hd)
-- [Devlog #2](https://dev.to/blankchannn/devlog-2-37o7)
-- [Gu](https://dev.to/gchar/gu-5a18)
-- [🚀 How I Added SegWit to My Rust Bitcoin Wallet &lpar;and Why You Should Too&rpar;](https://dev.to/_56d7718cea8fe00ec1610/how-i-added-segwit-to-my-rust-bitcoin-wallet-and-why-you-should-too-1b2k)
+- [Microsoft 365 vs. Azure: Choosing the Right Service for High-Volume Emails](https://dev.to/techielass/microsoft-365-vs-azure-choosing-the-right-service-for-high-volume-emails-1c3)
+- [The Rust Journey of a JavaScript Developer • Day 1](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-1-2e1l)
+- [How to Back Up and Restore MySQL Using mysqldump](https://dev.to/dbvismarketing/how-to-back-up-and-restore-mysql-using-mysqldump-n1g)
+- [Getting Started with Mobile App Development Using Flutter — Step by Step Guide](https://dev.to/jayesh_prajapati/getting-started-with-mobile-app-development-using-flutter-step-by-step-guide-1l22)
 <!-- BLOG-POST-LIST:END -->
 
 
