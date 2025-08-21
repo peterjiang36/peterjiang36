@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KIB in Batch](https://dev.to/benja2998/kib-in-batch-1n1)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-35dl)
-- [IGN: Kaidan - Official Reveal Trailer | gamescom 2025](https://dev.to/gg_news/ign-kaidan-official-reveal-trailer-gamescom-2025-14k)
-- [IGN: Nikke x Resident Evil - Official Full Collaboration Teaser Trailer | gamescom 2025](https://dev.to/gg_news/ign-nikke-x-resident-evil-official-full-collaboration-teaser-trailer-gamescom-2025-10fl)
+- [2025 Complete Guide: ByteDance Seed-OSS-36B Open Source LLM In-Depth Analysis](https://dev.to/czmilo/2025-complete-guide-bytedance-seed-oss-36b-open-source-llm-in-depth-analysis-1bo7)
+- [Diving Deep: Understanding the Mechanics](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-understanding-the-mechanics-453c)
+- [Smart Contracts Showdown: NEAR vs. Ethereum, Who’s Got the Edge?](https://dev.to/success_65769608047ae3b47/smart-contracts-showdown-near-vs-ethereum-whos-got-the-edge-50f0)
+- [How I Built a Social Network with AI &lpar;and a 3-Person Team&rpar;](https://dev.to/sampseiol1/how-i-built-a-social-network-with-ai-and-a-3-person-team-2cnk)
 <!-- BLOG-POST-LIST:END -->
 
 
