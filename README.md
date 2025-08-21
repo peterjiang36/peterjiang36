@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Complete Guide: ByteDance Seed-OSS-36B Open Source LLM In-Depth Analysis](https://dev.to/czmilo/2025-complete-guide-bytedance-seed-oss-36b-open-source-llm-in-depth-analysis-1bo7)
-- [Diving Deep: Understanding the Mechanics](https://dev.to/dev_patel_35864ca1db6093c/diving-deep-understanding-the-mechanics-453c)
-- [Smart Contracts Showdown: NEAR vs. Ethereum, Who’s Got the Edge?](https://dev.to/success_65769608047ae3b47/smart-contracts-showdown-near-vs-ethereum-whos-got-the-edge-50f0)
-- [How I Built a Social Network with AI &lpar;and a 3-Person Team&rpar;](https://dev.to/sampseiol1/how-i-built-a-social-network-with-ai-and-a-3-person-team-2cnk)
+- [I&#39;ve been dancing around this idea for a long time now. Regardless of my title, how the industry is shaping, how tech evolves, the core of why I love this industry is because it&#39;s really all about learning...and I&#39;m a learning nerd 🤓](https://dev.to/drguthals/ive-been-dancing-around-this-idea-for-a-long-time-now-regardless-of-my-title-how-the-industry-is-36h6)
+- [Best Alternative for v0, Lovable, Cursor — Fully Local &lpar;Dyad.sh&rpar;](https://dev.to/jayasurya_mailsamy/best-alternative-for-v0-lovable-cursor-fully-local-dyadsh-39f1)
+- [git create branch from main](https://dev.to/pheak_pheasa/git-create-branch-from-main-3f98)
+- [🚀 Why Every Developer Needs DevToys: The Swiss Army Knife You Didn’t Know You Needed](https://dev.to/jakpren/why-every-developer-needs-devtoys-the-swiss-army-knife-you-didnt-know-you-needed-3bo4)
 <!-- BLOG-POST-LIST:END -->
 
 
