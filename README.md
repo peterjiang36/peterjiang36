@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Sales &amp; Presales 101: The very basics](https://dev.to/lukasniessen/technical-sales-presales-101-the-very-basics-49nh)
-- [Simple Website Using HTML and CSS Only – Step by Step Tutorial &lpar;With Code&rpar;](https://dev.to/alizehcodes/simple-website-using-html-and-css-only-step-by-step-tutorial-with-code-1645)
-- [Bryan Bros Golf: Youtube Golf ALT Shot Championship](https://dev.to/youtube_golf/bryan-bros-golf-youtube-golf-alt-shot-championship-4o5l)
-- [Peter Finch Golf: Can I BREAK 60 with Iona Stephen?!](https://dev.to/youtube_golf/peter-finch-golf-can-i-break-60-with-iona-stephen-1fd0)
+- [IGN: Directive 8020 - Official 13 Minutes of Prologue Gameplay | gamescom 2025](https://dev.to/gg_news/ign-directive-8020-official-13-minutes-of-prologue-gameplay-gamescom-2025-hoj)
+- [IGN: Lunar Strike - Official Reveal Trailer](https://dev.to/gg_news/ign-lunar-strike-official-reveal-trailer-2d8i)
+- [IGN: God Save Birmingham - Official Pre-Alpha Trailer](https://dev.to/gg_news/ign-god-save-birmingham-official-pre-alpha-trailer-1dl0)
+- [IGN: Den of Wolves - Official Gameplay Trailer](https://dev.to/gg_news/ign-den-of-wolves-official-gameplay-trailer-44bj)
 <!-- BLOG-POST-LIST:END -->
 
 
