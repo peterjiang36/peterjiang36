@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Directive 8020 - Official 13 Minutes of Prologue Gameplay | gamescom 2025](https://dev.to/gg_news/ign-directive-8020-official-13-minutes-of-prologue-gameplay-gamescom-2025-hoj)
-- [IGN: Lunar Strike - Official Reveal Trailer](https://dev.to/gg_news/ign-lunar-strike-official-reveal-trailer-2d8i)
-- [IGN: God Save Birmingham - Official Pre-Alpha Trailer](https://dev.to/gg_news/ign-god-save-birmingham-official-pre-alpha-trailer-1dl0)
-- [IGN: Den of Wolves - Official Gameplay Trailer](https://dev.to/gg_news/ign-den-of-wolves-official-gameplay-trailer-44bj)
+- [Congrats to the World&#39;s Largest Hackathon Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-worlds-largest-hackathon-writing-challenge-winners-4fa3)
+- [My Solo GameDev Toolkit](https://dev.to/trentpolack/my-solo-gamedev-toolkit-50k3)
+- [Linus Tech Tips &lpar;LTT&rpar;: It&#39;s Finally Complete! And it only took 45 days...](https://dev.to/future_youtube/linus-tech-tips-ltt-its-finally-complete-and-it-only-took-45-days-h5n)
+- [IGN: Battlestar Galactica: Scattered Hopes Aims to Deliver an FTL-Like Roguelike](https://dev.to/gg_news/ign-battlestar-galactica-scattered-hopes-aims-to-deliver-an-ftl-like-roguelike-3dm1)
 <!-- BLOG-POST-LIST:END -->
 
 
