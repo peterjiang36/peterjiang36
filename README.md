@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation That Scales: Building Knowledge Systems for Growing Dev Agencies](https://dev.to/teamcamp/documentation-that-scales-building-knowledge-systems-for-growing-dev-agencies-5685)
-- [Optimizing HTML for Performance and Security](https://dev.to/sharique_siddiqui_8242dad/optimizing-html-for-performance-and-security-i3d)
-- [Gareth David Studio: Design CAROUSEL Social Media Posts In InDesign | Design Tutorial](https://dev.to/design_youtube/gareth-david-studio-design-carousel-social-media-posts-in-indesign-design-tutorial-1c77)
-- [GameSpot: Zero Parades: First Impressions &lpar;The Disco Elysium Sequel&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-the-disco-elysium-sequel-4p32)
+- [GameSpot: Zero Parades: First Impressions &lpar;From The Creators of Disco Elysium&rpar;](https://dev.to/gg_news/gamespot-zero-parades-first-impressions-from-the-creators-of-disco-elysium-31hd)
+- [Devlog #2](https://dev.to/blankchannn/devlog-2-37o7)
+- [Gu](https://dev.to/gchar/gu-5a18)
+- [🚀 How I Added SegWit to My Rust Bitcoin Wallet &lpar;and Why You Should Too&rpar;](https://dev.to/_56d7718cea8fe00ec1610/how-i-added-segwit-to-my-rust-bitcoin-wallet-and-why-you-should-too-1b2k)
 <!-- BLOG-POST-LIST:END -->
 
 
