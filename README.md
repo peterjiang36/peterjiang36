@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing “Did you mean ...?” Suggestions](https://dev.to/pauljlucas/implementing-did-you-mean-suggestions-52ek)
-- [Real-World Use Cases: Smart Home &amp; Industrial IoT with MCP](https://dev.to/om_shree_0709/real-world-use-cases-smart-home-industrial-iot-with-mcp-2ahm)
-- [Adam Savage&#39;s Tested: Adam Savage Finds a Hidden Leak With a Sound Beacon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-finds-a-hidden-leak-with-a-sound-beacon-17bk)
-- [KEXP: Khu éex&#39; - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-khu-eex-full-performance-live-on-kexp-h6e)
+- [IGN: Mistfall Hunter - Official BETA 3 Announcement Trailer | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-mistfall-hunter-official-beta-3-announcement-trailer-xbox-gamescom-2025-ppe)
+- [IGN: Valor Mortis - Developer Interview | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-valor-mortis-developer-interview-xbox-gamescom-2025-2p35)
+- [IGN: Age of Empires 4: Dynasties of the East - Game Overview | Xbox @ gamescom 2025](https://dev.to/gg_news/ign-age-of-empires-4-dynasties-of-the-east-game-overview-xbox-gamescom-2025-49k4)
+- [IGN: How Anno 117: Pax Romana Brings Britannia to Life | gamescom 2025](https://dev.to/gg_news/ign-how-anno-117-pax-romana-brings-britannia-to-life-gamescom-2025-3ih3)
 <!-- BLOG-POST-LIST:END -->
 
 
