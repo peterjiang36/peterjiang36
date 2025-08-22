@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: They Might Be Giants - The Darlings Of Lumberland &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-the-darlings-of-lumberland-live-on-kexp-16pj)
-- [KEXP: They Might Be Giants - Particle Man &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-particle-man-live-on-kexp-1ia3)
-- [&quot;I Won&#39;t Use Algorithms in My Job&quot;](https://dev.to/sebastiandevelops/i-wont-use-algorithms-in-my-job-2n8f)
-- [Learn Serverless on AWS: Live Demo &amp; Walkthrough – Wednesday, Aug 27](https://dev.to/alizgheib/learn-serverless-on-aws-live-demo-walkthrough-wednesday-aug-27-4jep)
+- [Project of the Week: n8n](https://dev.to/pullflow/project-of-the-week-n8n-12g6)
+- [[Boost]](https://dev.to/ben/-3poc)
+- [Nest.js deep dive series: The simplest Nest application with JavaScript](https://dev.to/ivadyhabimana/nestjs-deep-dive-series-the-simplest-nest-application-with-javascript-27ed)
+- [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
 <!-- BLOG-POST-LIST:END -->
 
 
