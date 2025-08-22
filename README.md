@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: n8n](https://dev.to/pullflow/project-of-the-week-n8n-12g6)
-- [[Boost]](https://dev.to/ben/-3poc)
-- [Nest.js deep dive series: The simplest Nest application with JavaScript](https://dev.to/ivadyhabimana/nestjs-deep-dive-series-the-simplest-nest-application-with-javascript-27ed)
-- [Build a RAG application with LangChain and Local LLMs powered by Ollama](https://dev.to/abhirockzz/build-a-rag-application-with-langchain-and-local-llms-powered-by-ollama-3el5)
+- [KEXP: They Might Be Giants - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-full-performance-live-on-kexp-bgl)
+- [Rick Shiels Golf: The FINAL Break 75!](https://dev.to/youtube_golf/rick-shiels-golf-the-final-break-75-4l4m)
+- [IGN: ReAnimal Takes the Horror of Little Nightmares to the Next Level | gamescom 2025](https://dev.to/gg_news/ign-reanimal-takes-the-horror-of-little-nightmares-to-the-next-level-gamescom-2025-28hg)
+- [IGN: Helldivers 2 - Official &#39;Join the Helldivers!&#39; Trailer](https://dev.to/gg_news/ign-helldivers-2-official-join-the-helldivers-trailer-2da)
 <!-- BLOG-POST-LIST:END -->
 
 
