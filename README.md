@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 22nd August 2025](https://dev.to/ziizium/security-news-weekly-round-up-22nd-august-2025-3a7h)
-- [Day 73: When &quot;Break Days&quot; Become Build Days](https://dev.to/casperday11/day-73-when-break-days-become-build-days-57nh)
-- [3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!](https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m)
-- [IGN: Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025](https://dev.to/gg_news/ign-replaced-is-a-beautiful-brilliant-25d-cyberpunk-thriller-gamescom-2025-2b3h)
+- [Lightweight ETL with AWS Lambda, DuckDB, and delta-rs](https://dev.to/aws-builders/lightweight-etl-with-aws-lambda-duckdb-and-delta-rs-1cmm)
+- [Create C# nested files in Visual Studio](https://dev.to/karenpayneoregon/create-c-nested-files-in-visual-studio-3j20)
+- [3D Printing Nerd: WORLDS LARGEST Transparent LTT Screwdriver is 3D PRINTED!](https://dev.to/maker_youtube/3d-printing-nerd-worlds-largest-transparent-ltt-screwdriver-is-3d-printed-4gji)
+- [IGN: Borderlands 4 - Official Harlowe Gameplay Overview Trailer](https://dev.to/gg_news/ign-borderlands-4-official-harlowe-gameplay-overview-trailer-22k2)
 <!-- BLOG-POST-LIST:END -->
 
 
