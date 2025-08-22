@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/elizabethfuentes12/-mhh)
 - [Bryan Bros Golf: The Greatest Youtube Golf ALT Shot!](https://dev.to/youtube_golf/bryan-bros-golf-the-greatest-youtube-golf-alt-shot-1kc)
 - [IGN: Metal Eden - New Gameplay Trailer](https://dev.to/gg_news/ign-metal-eden-new-gameplay-trailer-1dea)
 - [IGN: Anno 117: Pax Romana - Albion Preview](https://dev.to/gg_news/ign-anno-117-pax-romana-albion-preview-1587)
-- [IGN: Son of Thanjai - Official Announcement Teaser Trailer &lpar;English Subtitles&rpar; | gamescom 2025](https://dev.to/gg_news/ign-son-of-thanjai-official-announcement-teaser-trailer-english-subtitles-gamescom-2025-303e)
 <!-- BLOG-POST-LIST:END -->
 
 
