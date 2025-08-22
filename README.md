@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟🔥 The Ultimate DEV Community on WhatsApp](https://dev.to/hanzla-baig/the-ultimate-dev-community-on-whatsapp-4lpf)
-- [🌍✨ Welcome to the DEV Community – WhatsApp Edition](https://dev.to/hanzla-baig/welcome-to-the-dev-community-whatsapp-edition-2gf8)
-- [🚀✨ Welcome to DEV Community on WhatsApp!](https://dev.to/hanzla-baig/welcome-to-dev-community-on-whatsapp-2f6o)
-- [Does Claude Generate Accessible Apps](https://dev.to/eevajonnapanula/does-claude-generate-accessible-apps-5759)
+- [KEXP: They Might Be Giants - The Darlings Of Lumberland &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-the-darlings-of-lumberland-live-on-kexp-16pj)
+- [KEXP: They Might Be Giants - Particle Man &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-particle-man-live-on-kexp-1ia3)
+- [&quot;I Won&#39;t Use Algorithms in My Job&quot;](https://dev.to/sebastiandevelops/i-wont-use-algorithms-in-my-job-2n8f)
+- [Learn Serverless on AWS: Live Demo &amp; Walkthrough – Wednesday, Aug 27](https://dev.to/alizgheib/learn-serverless-on-aws-live-demo-walkthrough-wednesday-aug-27-4jep)
 <!-- BLOG-POST-LIST:END -->
 
 
