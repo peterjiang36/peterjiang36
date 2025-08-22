@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: They Might Be Giants - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-they-might-be-giants-full-performance-live-on-kexp-bgl)
-- [Rick Shiels Golf: The FINAL Break 75!](https://dev.to/youtube_golf/rick-shiels-golf-the-final-break-75-4l4m)
-- [IGN: ReAnimal Takes the Horror of Little Nightmares to the Next Level | gamescom 2025](https://dev.to/gg_news/ign-reanimal-takes-the-horror-of-little-nightmares-to-the-next-level-gamescom-2025-28hg)
-- [IGN: Helldivers 2 - Official &#39;Join the Helldivers!&#39; Trailer](https://dev.to/gg_news/ign-helldivers-2-official-join-the-helldivers-trailer-2da)
+- [New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!](https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3)
+- [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
+- [NDC Conferences: Navigating through the Azure Messaging &lpar;over&rpar;choice -](https://dev.to/scale_youtube/ndc-conferences-navigating-through-the-azure-messaging-overchoice--5die)
+- [NDC Conferences: IaC Forged in Code: ARM/Bicep vs Terraform vs Pulumi - Mike Benkovich - NDC Oslo 2025](https://dev.to/scale_youtube/ndc-conferences-iac-forged-in-code-armbicep-vs-terraform-vs-pulumi-mike-benkovich-ndc-oslo-1k13)
 <!-- BLOG-POST-LIST:END -->
 
 
