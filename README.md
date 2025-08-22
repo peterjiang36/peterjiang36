@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Tailwind CSS in Turborepo Packages](https://dev.to/ippatev/managing-tailwind-css-in-turborepo-packages-4j34)
+- [AWS Interview Series: Top Questions with Simple Answers ✅](https://dev.to/yash_sonawane25/aws-interview-series-top-questions-with-simple-answers-3l39)
+- [Building Strands Agents with a few lines of code: Evaluating Performance with RAGAs](https://dev.to/aws/building-strands-agents-with-a-few-lines-of-code-evaluating-performance-with-ragas-gme)
 - [How to display different images for GitHub light mode and dark mode](https://dev.to/srbhr/how-to-display-different-images-for-github-light-mode-and-dark-mode-edg)
-- [Meet MIC: The Digital Security Guard in Your Wi-Fi](https://dev.to/rijultp/meet-mic-the-digital-security-guard-in-your-wi-fi-541a)
-- [No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060](https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697)
-- [GameSpot: Dawn of War 4 Wants To Revitalize The RTS Genre and I think it can](https://dev.to/gg_news/gamespot-dawn-of-war-4-wants-to-revitalize-the-rts-genre-and-i-think-it-can-2egn)
 <!-- BLOG-POST-LIST:END -->
 
 
