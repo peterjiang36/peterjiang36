@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-mhh)
-- [Bryan Bros Golf: The Greatest Youtube Golf ALT Shot!](https://dev.to/youtube_golf/bryan-bros-golf-the-greatest-youtube-golf-alt-shot-1kc)
-- [IGN: Metal Eden - New Gameplay Trailer](https://dev.to/gg_news/ign-metal-eden-new-gameplay-trailer-1dea)
-- [IGN: Anno 117: Pax Romana - Albion Preview](https://dev.to/gg_news/ign-anno-117-pax-romana-albion-preview-1587)
+- [How to display different images for GitHub light mode and dark mode](https://dev.to/srbhr/how-to-display-different-images-for-github-light-mode-and-dark-mode-edg)
+- [Meet MIC: The Digital Security Guard in Your Wi-Fi](https://dev.to/rijultp/meet-mic-the-digital-security-guard-in-your-wi-fi-541a)
+- [No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060](https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697)
+- [GameSpot: Dawn of War 4 Wants To Revitalize The RTS Genre and I think it can](https://dev.to/gg_news/gamespot-dawn-of-war-4-wants-to-revitalize-the-rts-genre-and-i-think-it-can-2egn)
 <!-- BLOG-POST-LIST:END -->
 
 
