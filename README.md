@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fabiothiroki/-52il)
-- [How to Deploy SafeLine WAF on a Hestia Control Panel VPS](https://dev.to/maxim_cravtov/how-to-deploy-safeline-waf-on-a-hestia-control-panel-vps-5f5o)
-- [Open Source Software Foundations](https://dev.to/szabgab/open-source-software-foundations-4ka9)
-- [The OCR Model That Outranks GPT-4o](https://dev.to/nodeshiftcloud/the-ocr-model-that-outranks-gpt-4o-586b)
+- [GameSpot: Metal Gear Solid Delta Gameplay: Snake Eater Guy Savage Snake&#39;s Nightmare](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-gameplay-snake-eater-guy-savage-snakes-nightmare-4kd5)
+- [GameSpot: Metal Gear Solid Delta: Snake Eater Review](https://dev.to/gg_news/gamespot-metal-gear-solid-delta-snake-eater-review-19kh)
+- [IGN: Metal Gear Solid Delta: Snake Eater - The First 50 Minutes &lpar; RTX 5090 4K 60FPS Ultra Settings&rpar;](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-the-first-50-minutes-rtx-5090-4k-60fps-ultra-settings-45hm)
+- [IGN: Metal Gear Solid Delta: Snake Eater Review](https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-review-32h5)
 <!-- BLOG-POST-LIST:END -->
 
 
