@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [test test test](https://dev.to/ben/test-test-test-3dag)
-- [We&#39;ll try to zero out the open pull requests inbox soon to make things more organized and get a fresh start.](https://dev.to/ben/well-try-to-zero-out-the-open-pull-requests-inbox-soon-to-make-things-more-organized-and-get-a-4ieh)
-- [⚡ Understanding React Keys: Why They Matter in Lists](https://dev.to/aman_kureshi_/understanding-react-keys-why-they-matter-in-lists-4en4)
-- [Right-Sizing Kubernetes Resources with VPA and Karpenter](https://dev.to/devopsdaily/right-sizing-kubernetes-resources-with-vpa-and-karpenter-22ah)
+- [What’s Your Flex Level? 🐸💪](https://dev.to/lovestaco/whats-your-flex-level-5459)
+- [&#39;Doglabbing&#39; ngrok: A serverless URL shortener](https://dev.to/ngrok/doglabbing-ngrok-a-serverless-url-shortener-lgc)
+- [🚀 Linux for DevOps [Week 1]: Mastering the Essentials](https://dev.to/suvrajeet/linux-for-devops-week-1-mastering-the-essentials-198m)
+- [COLORS: Alice Duport-Percier x Lorien Testard - Alicia | A COLORS SHOW](https://dev.to/music_youtube/colors-alice-duport-percier-x-lorien-testard-alicia-a-colors-show-576n)
 <!-- BLOG-POST-LIST:END -->
 
 
