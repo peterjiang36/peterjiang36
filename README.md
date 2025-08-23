@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Service Virtualization Tools: Detailed Comparison](https://dev.to/artibol/best-service-virtualization-tools-detailed-comparison-m49)
-- [Um Primeiro Olhar no Eclipse JNoSQL: Oracle NoSQL e Quarkus para Quem Está Começando](https://dev.to/dellamas/um-primeiro-olhar-no-eclipse-jnosql-oracle-nosql-e-quarkus-para-quem-esta-comecando-23c8)
-- [Day 74: When Rest Days Become Learning Days](https://dev.to/casperday11/day-74-when-rest-days-become-learning-days-3cnp)
-- [Linus Tech Tips &lpar;LTT&rpar;: Who can Build the Best $1000 Gaming PC?](https://dev.to/future_youtube/linus-tech-tips-ltt-who-can-build-the-best-1000-gaming-pc-2n5h)
+- [Oracle Database 23ai: AI Vector Search, JSON Duality e o Futuro dos Bancos](https://dev.to/dellamas/oracle-database-23ai-ai-vector-search-json-duality-e-o-futuro-dos-bancos-3mh0)
+- [Grant Horvat: Can I Break a Course Record with Garrett Clark?](https://dev.to/youtube_golf/grant-horvat-can-i-break-a-course-record-with-garrett-clark-5c23)
+- [GameSpot: Valor Mortis Hands-On Impressions](https://dev.to/gg_news/gamespot-valor-mortis-hands-on-impressions-5a65)
+- [IGN: Hollow Knight Reaches New Franchise Record on Steam - IGN Daily Fix](https://dev.to/gg_news/ign-hollow-knight-reaches-new-franchise-record-on-steam-ign-daily-fix-45ii)
 <!-- BLOG-POST-LIST:END -->
 
 
