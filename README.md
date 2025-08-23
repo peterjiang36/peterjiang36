@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Blocks Alert: A Huge Collection of Tables!](https://dev.to/ngmaterialdev/new-blocks-alert-a-huge-collection-of-tables-1n34)
-- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-24a7)
-- [IGN: Metroid Prime 4: Beyond Gameplay &lpar;Off-Screen&rpar; | gamescom 2025](https://dev.to/gg_news/ign-metroid-prime-4-beyond-gameplay-off-screen-gamescom-2025-3fc9)
-- [IGN: An Inside look at gamescom 2025 with gamescom Director, Stefan Heikhaus](https://dev.to/gg_news/ign-an-inside-look-at-gamescom-2025-with-gamescom-director-stefan-heikhaus-39o5)
+- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-1g3e)
+- [IGN: Crimson Desert - 30 minutes of 4K Gameplay | gamescom 2025](https://dev.to/gg_news/ign-crimson-desert-30-minutes-of-4k-gameplay-gamescom-2025-591h)
+- [IGN: Playing Hollow Knight Before Silksong? Use These 12 Helpful Tips](https://dev.to/gg_news/ign-playing-hollow-knight-before-silksong-use-these-12-helpful-tips-mj6)
+- [✨7 React.js Hacks Every Beginner Dev Needs to Know &lpar;No Fluff, Just Gold&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/7-reactjs-hacks-every-beginner-dev-needs-to-know-no-fluff-just-gold-3fmc)
 <!-- BLOG-POST-LIST:END -->
 
 
