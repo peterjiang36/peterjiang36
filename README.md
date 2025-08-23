@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Metal Gear Solid Delta - 12 Biggest Changes From the Original](https://dev.to/gg_news/ign-metal-gear-solid-delta-12-biggest-changes-from-the-original-5d02)
-- [IGN: How Dying Light: The Beast Cranks The Brutality Up to 11 | gamescom 2025](https://dev.to/gg_news/ign-how-dying-light-the-beast-cranks-the-brutality-up-to-11-gamescom-2025-3bk2)
-- [IGN: Here&#39;s Why You Shouldn&#39;t Be Scared Of Silent Hill f&#39;s Combat | gamescom 2025](https://dev.to/gg_news/ign-heres-why-you-shouldnt-be-scared-of-silent-hill-fs-combat-gamescom-2025-1hol)
-- [IGN: Routine: We Finally Played After 13 Years of Waiting! | gamescom 2025](https://dev.to/gg_news/ign-routine-we-finally-played-after-13-years-of-waiting-gamescom-2025-2bk9)
+- [The Evening I Chose Code Over a Match😂](https://dev.to/fonyuygita/the-evening-i-chose-code-over-a-match-3h9e)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Hands-On With Star Trek Klingon Battlecruiser Model!](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-hands-on-with-star-trek-klingon-battlecruiser-model-56b)
+- [No Laying Up Podcast: Seamsters Union: Brew Crew On Top | Trap Draw, Ep 355](https://dev.to/youtube_golf/no-laying-up-podcast-seamsters-union-brew-crew-on-top-trap-draw-ep-355-4002)
+- [Golf.com: Behind Closed Doors: The Olympic Club&#39;s Two Homes](https://dev.to/youtube_golf/golfcom-behind-closed-doors-the-olympic-clubs-two-homes-2bo3)
 <!-- BLOG-POST-LIST:END -->
 
 
