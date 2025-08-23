@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-3-44cf)
 - [Node Cmd Exe](https://dev.to/dhanushnehru/node-cmd-exe-16i7)
 - [The 5-Minute Agency Health Check: Daily Logs That Predict Project Success](https://dev.to/teamcamp/the-5-minute-agency-health-check-daily-logs-that-predict-project-success-1p43)
 - [🚀 From Manual Builds to Multi-Platform Magic: How GoReleaser Transformed My OpenTelemetry Sandbox](https://dev.to/akshitzatakia/from-manual-builds-to-multi-platform-magic-how-goreleaser-transformed-my-opentelemetry-sandbox-h36)
-- [Building GitNarrative: How I Parse Git History with Python to Extract Development Patterns](https://dev.to/grudged/building-gitnarrative-how-i-parse-git-history-with-python-to-extract-development-patterns-52lm)
 <!-- BLOG-POST-LIST:END -->
 
 
