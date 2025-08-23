@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [My One-Month Journey with the Cursor Editor: An Honest Review](https://dev.to/sagar/my-one-month-journey-with-the-cursor-editor-an-honest-review-idk)
+- [Danny Maude: 90% of Golfers Miss This One Move That Adds Effortless Distance](https://dev.to/youtube_golf/danny-maude-90-of-golfers-miss-this-one-move-that-adds-effortless-distance-nek)
+- [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-5bjm)
 - [AltSchool Of Engineering Tinyuka’24 Month 6 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-3-44cf)
-- [Node Cmd Exe](https://dev.to/dhanushnehru/node-cmd-exe-16i7)
-- [The 5-Minute Agency Health Check: Daily Logs That Predict Project Success](https://dev.to/teamcamp/the-5-minute-agency-health-check-daily-logs-that-predict-project-success-1p43)
-- [🚀 From Manual Builds to Multi-Platform Magic: How GoReleaser Transformed My OpenTelemetry Sandbox](https://dev.to/akshitzatakia/from-manual-builds-to-multi-platform-magic-how-goreleaser-transformed-my-opentelemetry-sandbox-h36)
 <!-- BLOG-POST-LIST:END -->
 
 
