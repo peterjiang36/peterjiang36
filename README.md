@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [SEO Starter Guide: How to Get Your Website Found on Google](https://dev.to/lovestaco/seo-starter-guide-how-to-get-your-website-found-on-google-14ia)
+- [5 Best GitHub AI Repos to Master AI Like a Pro](https://dev.to/kumarmanish/5-best-github-ai-repos-to-master-ai-like-a-pro-4o82)
+- [Building a Serverless Todo API with AWS and Terraform: A Complete Learning Guide](https://dev.to/bansikah/building-a-serverless-todo-api-with-aws-and-terraform-a-complete-learning-guide-11jh)
 - [IGN: Dragon Quest 1+2 HD 2D Remake: Game Length, Princess of Cannock, &amp; Tombola | gamescom 2025](https://dev.to/gg_news/ign-dragon-quest-12-hd-2d-remake-game-length-princess-of-cannock-tombola-gamescom-2025-1g3e)
-- [IGN: Crimson Desert - 30 minutes of 4K Gameplay | gamescom 2025](https://dev.to/gg_news/ign-crimson-desert-30-minutes-of-4k-gameplay-gamescom-2025-591h)
-- [IGN: Playing Hollow Knight Before Silksong? Use These 12 Helpful Tips](https://dev.to/gg_news/ign-playing-hollow-knight-before-silksong-use-these-12-helpful-tips-mj6)
-- [✨7 React.js Hacks Every Beginner Dev Needs to Know &lpar;No Fluff, Just Gold&rpar;](https://dev.to/ilsa_shaikh_089e2bfab0bf4/7-reactjs-hacks-every-beginner-dev-needs-to-know-no-fluff-just-gold-3fmc)
 <!-- BLOG-POST-LIST:END -->
 
 
