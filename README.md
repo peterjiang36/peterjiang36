@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Sprint Name Generator 🤖✍️🏃](https://dev.to/mattlewandowski93/free-sprint-name-generator-25o9)
+- [Linus Tech Tips &lpar;LTT&rpar;: I Challenged 4 Tech YouTubers to Build the Best $1000 Gaming PC](https://dev.to/future_youtube/linus-tech-tips-ltt-i-challenged-4-tech-youtubers-to-build-the-best-1000-gaming-pc-5aof)
 - [flowerrr](https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90)
 - [Open source tool to get some SOL for FREE.](https://dev.to/blockexperts/open-source-tool-to-get-some-sol-for-free-2j19)
-- [Importação de Dados em Rails: Do Jeito Menos Indicado ao Otimizado 🚀🇧🇷](https://dev.to/videosdeti/importacao-de-dados-em-rails-do-jeito-menos-indicado-ao-otimizado-11pf)
-- [Why Do AI Crawlers Keep Hitting robots.txt Instead of My Content?](https://dev.to/sip/why-do-ai-crawlers-keep-hitting-robotstxt-instead-of-my-content-aif)
 <!-- BLOG-POST-LIST:END -->
 
 
