@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Physical to Digital: The Shift in PLM Technologies](https://dev.to/hr21don/from-physical-to-digital-the-shift-in-plm-technologies-54bm)
-- [21 Fantastic React Design Patterns and When to Use Them](https://dev.to/perssondennis/21-fantastic-react-design-patterns-and-when-to-use-them-7bb)
-- [Building Your First CLI Tool](https://dev.to/anuradha9712/building-your-first-cli-tool-98h)
-- [Refactoring 032 - Apply Consistent Style Rules](https://dev.to/mcsee/refactoring-032-apply-consistent-style-rules-4fhf)
+- [Frontend Performance Optimization: Best Practices for Faster Websites](https://dev.to/lovestaco/frontend-performance-optimization-best-practices-for-faster-websites-3aji)
+- [When Code Starts Talking Back: A Love-Hate Story](https://dev.to/trojanmocx/when-code-starts-talking-back-a-love-hate-story-3ml)
+- [I’m 16 and starting a 2-year challenge to make £100k before uni](https://dev.to/vulcanwm/im-16-and-starting-a-2-year-challenge-to-make-ps100k-before-uni-2i6h)
+- [GitHub Copilot&#39;s Latest Game-Changers: What Developers Need to Know Right Now](https://dev.to/gangatharan_gurusamy_22fb/github-copilots-latest-game-changers-what-developers-need-to-know-right-now-1i42)
 <!-- BLOG-POST-LIST:END -->
 
 
