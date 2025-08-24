@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Custom Themes in Tailwind CSS v4 – @custom-variant &lpar;1/2&rpar;](https://dev.to/vrauuss_softwares/-create-custom-themes-in-tailwind-css-v4-custom-variant-12-2nf0)
 - [The Origin of Why 🤔](https://dev.to/dhaval_agrvat_6e65394a83/the-origin-of-why-52dk)
 - [I Tried 20+ Python Courses on Udemy: Here are 5 Courses I recommend](https://dev.to/somadevtoo/i-tried-20-python-courses-on-udemy-here-are-5-courses-i-recommend-1pba)
 - [Neural Network in R](https://dev.to/thedatageek/neural-network-in-r-4lki)
-- [The Pain of Building My Own Fully-Featured Locally Hosted ChatGPT Out of Open Source Tools And a Franken Laptop](https://dev.to/ghotet/the-pain-of-building-my-own-fully-featured-locally-hosted-chatgpt-out-of-open-source-tools-and-a-4dca)
 <!-- BLOG-POST-LIST:END -->
 
 
