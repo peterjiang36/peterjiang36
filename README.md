@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly #34-2025: AI Coding Reality, Performance ROI, and Faster Shortest Paths](https://dev.to/weekly/weekly-34-2025-ai-coding-reality-performance-roi-and-faster-shortest-paths-4gi0)
+- [Why JSON-Serializable Rules Changed Everything: From Code Chaos to Configuration Clarity](https://dev.to/crafts69guy/why-json-serializable-rules-changed-everything-from-code-chaos-to-configuration-clarity-2c9)
+- [🛳️ Docker Series: Episode 2 — Installing Docker Without Crying &lpar;Cross-Platform Setup Guide&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-2-installing-docker-without-crying-cross-platform-setup-guide-45ha)
 - [Free Sprint Name Generator 🤖✍️🏃](https://dev.to/mattlewandowski93/free-sprint-name-generator-25o9)
-- [Linus Tech Tips &lpar;LTT&rpar;: I Challenged 4 Tech YouTubers to Build the Best $1000 Gaming PC](https://dev.to/future_youtube/linus-tech-tips-ltt-i-challenged-4-tech-youtubers-to-build-the-best-1000-gaming-pc-5aof)
-- [flowerrr](https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90)
-- [Open source tool to get some SOL for FREE.](https://dev.to/blockexperts/open-source-tool-to-get-some-sol-for-free-2j19)
 <!-- BLOG-POST-LIST:END -->
 
 
