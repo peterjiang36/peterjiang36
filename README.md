@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix mobile keyboard overlap with VisualViewport](https://dev.to/franciscomoretti/fix-mobile-keyboard-overlap-with-visualviewport-3a4a)
-- [NPR Music: John Oates: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-john-oates-field-recordings-x-aspen-ideas-festival-17fn)
-- [Firebase Storage: Your File Upload Superhero 📁](https://dev.to/this-is-learning/firebase-storage-your-file-upload-superhero-81o)
-- [Perl 🐪 Weekly #735 - Perl-related events](https://dev.to/szabgab/perl-weekly-735-perl-related-events-2bb1)
+- [KEXP: Sofie Royer - Feeling Bad Forsyth Street &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-feeling-bad-forsyth-street-live-on-kexp-4k1c)
+- [KEXP: Sofie Royer - Babydoll &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-babydoll-live-on-kexp-199o)
+- [KEXP: Sofie Royer - Young Girl &lpar;Illusion&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-young-girl-illusion-live-on-kexp-565b)
+- [KEXP: Sofie Royer - Tennis Bracelet &lpar;feat. Rebounder&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sofie-royer-tennis-bracelet-feat-rebounder-live-on-kexp-4h7c)
 <!-- BLOG-POST-LIST:END -->
 
 
