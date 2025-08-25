@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering TypeScript from Scratch – Part 2: Intermediate Concepts](https://dev.to/usman_awan/mastering-typescript-from-scratch-part-2-intermediate-concepts-pi5)
-- [Thoughts on using AI for software development](https://dev.to/sapegin/thoughts-on-using-ai-for-software-development-539b)
-- [Optimizing Nuxt Apps for Core Web Vitals](https://dev.to/jacobandrewsky/optimizing-nuxt-apps-for-core-web-vitals-106j)
-- [Why Developers Should Care About Access Control](https://dev.to/alex_deg/why-developers-should-care-about-access-control-31b2)
+- [NPR Music: John Oates: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-john-oates-field-recordings-x-aspen-ideas-festival-17fn)
+- [Firebase Storage: Your File Upload Superhero 📁](https://dev.to/this-is-learning/firebase-storage-your-file-upload-superhero-81o)
+- [Perl 🐪 Weekly #735 - Perl-related events](https://dev.to/szabgab/perl-weekly-735-perl-related-events-2bb1)
+- [At 33, Baby on the Way, No Plan: How I Became a Developer](https://dev.to/ospehlivano/at-33-baby-on-the-way-no-plan-how-i-became-a-developer-7n3)
 <!-- BLOG-POST-LIST:END -->
 
 
