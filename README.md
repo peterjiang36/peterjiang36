@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Now AWS Marketplace is Coming to India: What Does it means for businesses and SaaS 🇮🇳☁️](https://dev.to/nishath_jp/now-aws-marketplace-is-coming-to-india-what-does-it-means-for-businesses-and-saas-1f9i)
-- [Why We’re Moving on From Nix](https://dev.to/sarah-railway/why-were-moving-on-from-nix-3cb1)
-- [The Importance of an AI Strategy](https://dev.to/aws-builders/the-importance-of-an-ai-strategy-i6m)
-- [What are your goals for the week? #141.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-141-1880)
+- [Day 76: When Your Brain Runs on 2% Battery But You Keep Coding](https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf)
+- [Agentic AI news round‑up &lpar;Aug 17–23 2025&rpar;](https://dev.to/alexmercedcoder/agentic-ai-news-round-up-aug-17-23-2025-27k6)
+- [10 AI Tools That Took My SaaS Website from Zero to Launch!](https://dev.to/forgecode/10-ai-tools-that-took-my-saas-website-from-zero-to-launch-45d0)
+- [Snowflake Cortex Completion API + LaunchDarkly SDK Integration](https://dev.to/launchdarkly/snowflake-cortex-completion-api-launchdarkly-sdk-integration-5021)
 <!-- BLOG-POST-LIST:END -->
 
 
