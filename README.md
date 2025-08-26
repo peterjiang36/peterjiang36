@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Student-Teacher Distillation: A Complete Guide for Model Compression](https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed)
-- [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
-- [Trials and tribulations of learning how to code and navigate databases in an AI world](https://dev.to/bcornils/trials-and-tribulations-of-learning-how-to-code-and-navigate-databases-in-an-ai-world-12fo)
-- [Day 77: When Apple Service Breaks More Than Your Laptop](https://dev.to/casperday11/day-77-when-apple-service-breaks-more-than-your-laptop-2956)
+- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
+- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
+- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
+- [Angular 19 — What’s up with Signals?](https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80)
 <!-- BLOG-POST-LIST:END -->
 
 
