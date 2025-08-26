@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Coral Grief - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-full-performance-live-on-kexp-3jhf)
-- [What Makes a Good Website? Lessons From the Edge](https://dev.to/lewiskori/what-makes-a-good-website-lessons-from-the-edge-3aoa)
-- [No Laying Up Podcast: BallKnowers: 2025 NFL Season Preview | Trap Draw, Ep 356](https://dev.to/youtube_golf/no-laying-up-podcast-ballknowers-2025-nfl-season-preview-trap-draw-ep-356-22mc)
-- [Rick Shiels Golf: Follow this video and NEVER 3 putt again!](https://dev.to/youtube_golf/rick-shiels-golf-follow-this-video-and-never-3-putt-again-1icl)
+- [This week&#39;s ship: Expensely 🪙](https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f)
+- [My honest take a year into building AI copilots for top YC startups](https://dev.to/jesseliii/my-honest-take-a-year-into-building-ai-copilots-for-top-yc-startups-1o7l)
+- [is RAG dead? nope—it learned to drive](https://dev.to/prkskrs/is-rag-dead-nope-it-learned-to-drive-1kih)
+- [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
 <!-- BLOG-POST-LIST:END -->
 
 
