@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Live Demo] Automate a Viral Newsletter Using n8n + Real-Time Web Data](https://dev.to/n8n/live-demo-automate-a-viral-newsletter-using-n8n-real-time-web-data-34jc)
-- [Laravel Project Backup to Azure Blob with Bash Script](https://dev.to/edgaras/laravel-project-backup-to-azure-blob-with-bash-script-3ke)
-- [How to Use Weak Pointers in Go 1.24](https://dev.to/leapcell/how-to-use-weak-pointers-in-go-124-2i6j)
-- [Mutiny is Live: Where Ideas Find Their People and Capital Finds Its Purpose](https://dev.to/casperday11/mutiny-is-live-where-ideas-find-their-people-and-capital-finds-its-purpose-5e05)
+- [When is the next Gemini model coming! https://x.com/OfficialLoganK/status/1960114265810997616](https://dev.to/ben/when-is-the-next-gemini-model-coming-httpsxcomofficiallogankstatus1960114265810997616-4kdc)
+- [3D Globe with UX &lpar;Mobile&rpar;](https://dev.to/onegod/3d-globe-with-ux-mobile-2b40)
+- [102 files changed in this PR, Portuguese i18n files are now integrated into Forem https://github.com/forem/forem/pull/22243 — still some general translation bugs, but making strides!](https://dev.to/ben/102-files-changed-in-this-pr-portuguese-i18n-files-are-now-integrated-into-forem-ie1)
+- [Daily JavaScript Challenge #JS-263: Determine If Array is Monotonic](https://dev.to/dpc/daily-javascript-challenge-js-263-determine-if-array-is-monotonic-44be)
 <!-- BLOG-POST-LIST:END -->
 
 
