@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Code Do You Actually Own? 🤔](https://dev.to/umang_suthar_9bad6f345a8a/how-much-code-do-you-actually-own-30il)
-- [I Rebuilt the Ergast F1 Database with Live Data &lpar;and Here&#39;s What I Learned&rpar;](https://dev.to/raceoptidata/i-rebuilt-the-ergast-f1-database-with-live-data-and-heres-what-i-learned-4bnj)
-- [How To Configure Microsoft Defender for Cloud Enhanced Security Features for Servers](https://dev.to/ajayid10/how-to-configure-microsoft-defender-for-cloud-enhanced-security-features-for-servers-4j58)
-- [🚀 30+ AWS Lab Challenge – Part 1: Hosting with Elastic Beanstalk](https://dev.to/centdxv/30-aws-lab-challenge-part-1-hosting-with-elastic-beanstalk-2mio)
+- [JavaScript Project: Random Hex Color Generator](https://dev.to/s_mathavi_2fa1e3ea8514f34/javascript-project-random-hex-color-generator-53gl)
+- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
+- [Meet Surveilr: The SQL-First Platform That Turns Any Resource Into Compliance Gold](https://dev.to/mukhtar_onif/meet-surveilr-the-sql-first-platform-that-turns-any-resource-into-compliance-gold-2cn3)
+- [The Complete Guide to AI-SEO in 2026](https://dev.to/shubhamkhatik/the-complete-guide-to-ai-seo-in-2026-1j54)
 <!-- BLOG-POST-LIST:END -->
 
 
