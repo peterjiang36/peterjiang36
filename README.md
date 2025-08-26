@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
-- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
-- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
-- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
+- [Infrastructure pipelines: the core of Continuous Integration](https://dev.to/u11d/infrastructure-pipelines-the-core-of-continuous-integration-2emb)
+- [NestJS @Cron jobs stop firing when app runs as Windows service](https://dev.to/dhil_rohith_ec2e0e9793ea6/nestjs-cron-jobs-stop-firing-when-app-runs-as-windows-service-49k0)
+- [Innovative Case Studies of Generative AI Transforming Healthcare Services](https://dev.to/ravi_teja_4/innovative-case-studies-of-generative-ai-transforming-healthcare-services-1n39)
+- [AI Mock Interview：Real-time AI mock interviews enhance interview skills](https://dev.to/jackm_345442a09fb53b/ai-mock-interviewreal-time-ai-mock-interviews-enhance-interview-skills-43b7)
 <!-- BLOG-POST-LIST:END -->
 
 
