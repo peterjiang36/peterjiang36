@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure pipelines: the core of Continuous Integration](https://dev.to/u11d/infrastructure-pipelines-the-core-of-continuous-integration-2emb)
-- [NestJS @Cron jobs stop firing when app runs as Windows service](https://dev.to/dhil_rohith_ec2e0e9793ea6/nestjs-cron-jobs-stop-firing-when-app-runs-as-windows-service-49k0)
-- [Innovative Case Studies of Generative AI Transforming Healthcare Services](https://dev.to/ravi_teja_4/innovative-case-studies-of-generative-ai-transforming-healthcare-services-1n39)
-- [AI Mock Interview：Real-time AI mock interviews enhance interview skills](https://dev.to/jackm_345442a09fb53b/ai-mock-interviewreal-time-ai-mock-interviews-enhance-interview-skills-43b7)
+- [Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow](https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om)
+- [🚀 Blog 12: Dynamic Programming &lpar;Mega Edition&rpar; — DSA Prep](https://dev.to/rock_win_c053fa5fb2399067/blog-12-dynamic-programming-mega-edition-expedia-dsa-prep-298h)
+- [Caching Strategies and Optimization in Laravel](https://dev.to/oluwajubelo1/caching-strategies-and-optimization-in-laravel-1h5e)
+- [🚀 Blog 11: Graph Algorithms — DSA Prep &lpar;Mega Edition&rpar;](https://dev.to/rock_win_c053fa5fb2399067/blog-11-graph-algorithms-dsa-prep-mega-edition-27f0)
 <!-- BLOG-POST-LIST:END -->
 
 
