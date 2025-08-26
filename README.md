@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini 2.5 Flash-Image: How Google Is Pushing AI Boundaries](https://dev.to/alifar/google-gemini-25-flash-image-how-google-is-pushing-ai-boundaries-2dkh)
-- [Grant Horvat: Grant Horvat Vs Dude Perfect &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/grant-horvat-grant-horvat-vs-dude-perfect-stroke-play-m6g)
-- [GameSpot: Kingdom Come: Deliverance 2&#39;s DLC Lets You Be A Dentist By Punching A Guy&#39;s Tooth Out](https://dev.to/gg_news/gamespot-kingdom-come-deliverance-2s-dlc-lets-you-be-a-dentist-by-punching-a-guys-tooth-out-1kmn)
-- [GameSpot: skate. | Early Access Release Date Reveal Trailer](https://dev.to/gg_news/gamespot-skate-early-access-release-date-reveal-trailer-1fdd)
+- [Student-Teacher Distillation: A Complete Guide for Model Compression](https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed)
+- [🚀 Meu primeiro projeto com IA e NLP em Português no Hugging Face Spaces!](https://dev.to/gpsxpc/meu-primeiro-projeto-com-ia-e-nlp-em-portugues-no-hugging-face-spaces-4i1g)
+- [Trials and tribulations of learning how to code and navigate databases in an AI world](https://dev.to/bcornils/trials-and-tribulations-of-learning-how-to-code-and-navigate-databases-in-an-ai-world-12fo)
+- [Day 77: When Apple Service Breaks More Than Your Laptop](https://dev.to/casperday11/day-77-when-apple-service-breaks-more-than-your-laptop-2956)
 <!-- BLOG-POST-LIST:END -->
 
 
