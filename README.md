@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your i18next Workflow with a Real-Time, Persistent Cache](https://dev.to/adrai/supercharge-your-i18next-workflow-with-a-real-time-persistent-cache-32eb)
-- [Favorece composición sobre herencia](https://dev.to/elias404/favorece-composicion-sobre-herencia-11ie)
-- [Real-Time Sync Alternatives: Vaultrice vs. localStorage, DIY, Firebase, Pusher](https://dev.to/adrai/real-time-sync-alternatives-vaultrice-vs-localstorage-diy-firebase-pusher-36o4)
-- [How to Test Zapier Webhooks Locally with Tunnelmole](https://dev.to/robbiecahill/how-to-test-zapier-webhooks-locally-with-tunnelmole-1g0)
+- [Como criar seu primeiro Copilot usando o Copilot Studio &lpar;em 10 minutos&rpar;](https://dev.to/angelo_matias/como-criar-seu-primeiro-copilot-usando-o-copilot-studio-em-10-minutos-51ph)
+- [Segurança e governança no Copilot Studio — o que o dev precisa sabe](https://dev.to/angelo_matias/seguranca-e-governanca-no-copilot-studio-o-que-o-dev-precisa-sabe-1900)
+- [AI Visual Testing Success Story: Building QA Accuracy &amp; User Trust in Investment Apps](https://dev.to/morrismoses149/ai-visual-testing-success-story-building-qa-accuracy-user-trust-in-investment-apps-20pm)
+- [Microsoft Azure Services Explained: Simplifying Cloud for Businesses](https://dev.to/jackryan365/microsoft-azure-services-explained-simplifying-cloud-for-businesses-3fi9)
 <!-- BLOG-POST-LIST:END -->
 
 
