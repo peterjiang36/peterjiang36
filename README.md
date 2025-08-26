@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Sequential Nature of Data](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-sequential-nature-of-data-1fh3)
-- [Authorization 101: What I Learned from Oso’s “What is Authorization?” Guide](https://dev.to/hi_meghan/authorization-101-what-i-learned-from-osos-what-is-authorization-guide-5079)
-- [First Project after restarting my learning journey](https://dev.to/leocoding0326/first-project-after-restarting-my-learning-journey-4p3g)
-- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
+- [Visualize XML Files with JSON Viewer Tool](https://dev.to/bugblitz98/visualize-xml-files-with-json-viewer-tool-24nl)
+- [From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups](https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_74898956/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-25a)
+- [Olá a todos! Fiz um artigo passo a passo para configurar ferramentas de arquitetura para o angular 20, como o prettier, ESlint e o husky!](https://dev.to/devgustavus/ola-a-todos-fiz-um-artigo-passo-a-passo-para-configurar-ferramentas-de-arquitetura-para-o-angular-260d)
 <!-- BLOG-POST-LIST:END -->
 
 
