@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Blog](https://dev.to/twisha_gami_f310d22de9a0e/my-ai-blog-14mp)
-- [Keystore Lost = App Dead? Not Anymore. Here’s the Play Store Fix You Need in 2025](https://dev.to/vaibhav_shakya_e6b352bfc4/keystore-lost-app-dead-not-anymore-heres-the-play-store-fix-you-need-in-2025-12ok)
-- [Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You](https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_74898956/you-might-not-need-websockets-the-simple-power-of-server-sent-events-4o1g)
+- [First Blog](https://dev.to/harsh_sanghavi_25a7dc69dc/first-blog-4h0h)
+- [11+ V0 Alternatives That Every Developer Must Try](https://dev.to/vinishbhaskar/v0-alternatives-4c8n)
+- [Building Autonomy Without Losing Accountability](https://dev.to/dct_technology/building-autonomy-without-losing-accountability-3c3g)
+- [How to Book Flights Using the Galileo API: A Developer’s Guide for OTAs](https://dev.to/anshikaila/how-to-book-flights-using-the-galileo-api-a-developers-guide-for-otas-187o)
 <!-- BLOG-POST-LIST:END -->
 
 
