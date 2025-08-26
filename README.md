@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [First Blog](https://dev.to/harsh_sanghavi_25a7dc69dc/first-blog-4h0h)
-- [11+ V0 Alternatives That Every Developer Must Try](https://dev.to/vinishbhaskar/v0-alternatives-4c8n)
-- [Building Autonomy Without Losing Accountability](https://dev.to/dct_technology/building-autonomy-without-losing-accountability-3c3g)
-- [How to Book Flights Using the Galileo API: A Developer’s Guide for OTAs](https://dev.to/anshikaila/how-to-book-flights-using-the-galileo-api-a-developers-guide-for-otas-187o)
+- [GitOps and DevOps: Are they the same thing?](https://dev.to/techielass/gitops-and-devops-are-they-the-same-thing-2kcn)
+- [The Awareness Paradox — How Attention Makes Us Brilliant and Blind🧠🔦🤹](https://dev.to/abhishek_gautam-01/the-awareness-paradox-how-attention-makes-us-brilliant-and-blind-4icc)
+- [JustSimple.tools – A Curated Directory of Simple Tools for Indie Hackers](https://dev.to/killer_scofield_d2f41df11/justsimpletools-a-curated-directory-of-simple-tools-for-indie-hackers-4o35)
+- [Building EUDR Compliance Made Simple: A Complete Guide to www.eudr-api.eu](https://dev.to/marko_frnti_4a64e26156fc/building-eudr-compliance-made-simple-a-complete-guide-to-wwweudr-apieu-8ml)
 <!-- BLOG-POST-LIST:END -->
 
 
