@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: I Became a Leatherworker for a Day.](https://dev.to/maker_youtube/alec-steele-i-became-a-leatherworker-for-a-day-1hg1)
-- [IGN: Captured - Official Console Release Date Trailer](https://dev.to/gg_news/ign-captured-official-console-release-date-trailer-56mb)
-- [IGN: Onimusha: Way of the Sword - Official Event Demo Gameplay](https://dev.to/gg_news/ign-onimusha-way-of-the-sword-official-event-demo-gameplay-3c3m)
-- [Wie ich meine Webseite zur KI-Antwortmaschine umgebaut habe &lpar;und warum du das auch tun solltest&rpar;](https://dev.to/ivo_sa/wie-ich-meine-webseite-zur-ki-antwortmaschine-umgebaut-habe-und-warum-du-das-auch-tun-solltest-n4h)
+- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/farukh/theres-something-off-in-the-dev-with-ai-or-die-narrative-4j77)
+- [[Boost]](https://dev.to/bdougieyo/-3eda)
+- [How to Set Up an AWS Application Load Balancer for Your EC2 Instances](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-an-aws-application-load-balancer-for-your-ec2-instances-8fo)
+- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
 <!-- BLOG-POST-LIST:END -->
 
 
