@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When is the next Gemini model coming! https://x.com/OfficialLoganK/status/1960114265810997616](https://dev.to/ben/when-is-the-next-gemini-model-coming-httpsxcomofficiallogankstatus1960114265810997616-4kdc)
-- [3D Globe with UX &lpar;Mobile&rpar;](https://dev.to/onegod/3d-globe-with-ux-mobile-2b40)
-- [102 files changed in this PR, Portuguese i18n files are now integrated into Forem https://github.com/forem/forem/pull/22243 — still some general translation bugs, but making strides!](https://dev.to/ben/102-files-changed-in-this-pr-portuguese-i18n-files-are-now-integrated-into-forem-ie1)
-- [Daily JavaScript Challenge #JS-263: Determine If Array is Monotonic](https://dev.to/dpc/daily-javascript-challenge-js-263-determine-if-array-is-monotonic-44be)
+- [Understanding the Sequential Nature of Data](https://dev.to/dev_patel_35864ca1db6093c/understanding-the-sequential-nature-of-data-1fh3)
+- [Authorization 101: What I Learned from Oso’s “What is Authorization?” Guide](https://dev.to/hi_meghan/authorization-101-what-i-learned-from-osos-what-is-authorization-guide-5079)
+- [First Project after restarting my learning journey](https://dev.to/leocoding0326/first-project-after-restarting-my-learning-journey-4p3g)
+- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
 <!-- BLOG-POST-LIST:END -->
 
 
