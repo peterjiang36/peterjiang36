@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow](https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om)
-- [🚀 Blog 12: Dynamic Programming &lpar;Mega Edition&rpar; — DSA Prep](https://dev.to/rock_win_c053fa5fb2399067/blog-12-dynamic-programming-mega-edition-expedia-dsa-prep-298h)
-- [Caching Strategies and Optimization in Laravel](https://dev.to/oluwajubelo1/caching-strategies-and-optimization-in-laravel-1h5e)
-- [🚀 Blog 11: Graph Algorithms — DSA Prep &lpar;Mega Edition&rpar;](https://dev.to/rock_win_c053fa5fb2399067/blog-11-graph-algorithms-dsa-prep-mega-edition-27f0)
+- [How Much Code Do You Actually Own? 🤔](https://dev.to/umang_suthar_9bad6f345a8a/how-much-code-do-you-actually-own-30il)
+- [I Rebuilt the Ergast F1 Database with Live Data &lpar;and Here&#39;s What I Learned&rpar;](https://dev.to/raceoptidata/i-rebuilt-the-ergast-f1-database-with-live-data-and-heres-what-i-learned-4bnj)
+- [How To Configure Microsoft Defender for Cloud Enhanced Security Features for Servers](https://dev.to/ajayid10/how-to-configure-microsoft-defender-for-cloud-enhanced-security-features-for-servers-4j58)
+- [🚀 30+ AWS Lab Challenge – Part 1: Hosting with Elastic Beanstalk](https://dev.to/centdxv/30-aws-lab-challenge-part-1-hosting-with-elastic-beanstalk-2mio)
 <!-- BLOG-POST-LIST:END -->
 
 
