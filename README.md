@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Play Dirty - Official Trailer &lpar;2025&rpar; Mark Wahlberg, LaKeith Stanfield, Rosa Salazar](https://dev.to/gg_news/ign-play-dirty-official-trailer-2025-mark-wahlberg-lakeith-stanfield-rosa-salazar-5af0)
-- [Day 25 of #30DaysOfCode](https://dev.to/justacoder_0x/day-25-of-30daysofcode-5a8i)
-- [Profiling in Go: A Practical Guide to Finding Performance Bottlenecks](https://dev.to/seyedahmaddv/profiling-in-go-a-practical-guide-to-finding-performance-bottlenecks-32e7)
-- [Angular 19 — What’s up with Signals?](https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80)
+- [Introduction to Docker and Docker Compose: Beginners Guide](https://dev.to/walnold/introduction-to-docker-and-docker-compose-beginners-guide-3k2h)
+- [Open Source RN Animated Glows, highly performant, with 20+ free presets](https://dev.to/steven_baltay_fe45cb6047b/open-source-rn-animated-glows-highly-performant-with-20-free-presets-48bl)
+- [I’m glad to share that I have successfully completed the main technical track of the Cybersecurity Academy scholarship](https://dev.to/seifeldienahmad/im-glad-to-share-that-i-have-successfully-completed-the-main-technical-track-of-the-cybersecurity-3d2)
+- [The Struggle Between AI Automation and Developer Creativity](https://dev.to/kevinasutton/the-struggle-between-ai-automation-and-developer-creativity-4c9j)
 <!-- BLOG-POST-LIST:END -->
 
 
