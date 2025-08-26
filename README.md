@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar seu primeiro Copilot usando o Copilot Studio &lpar;em 10 minutos&rpar;](https://dev.to/angelo_matias/como-criar-seu-primeiro-copilot-usando-o-copilot-studio-em-10-minutos-51ph)
-- [Segurança e governança no Copilot Studio — o que o dev precisa sabe](https://dev.to/angelo_matias/seguranca-e-governanca-no-copilot-studio-o-que-o-dev-precisa-sabe-1900)
-- [AI Visual Testing Success Story: Building QA Accuracy &amp; User Trust in Investment Apps](https://dev.to/morrismoses149/ai-visual-testing-success-story-building-qa-accuracy-user-trust-in-investment-apps-20pm)
-- [Microsoft Azure Services Explained: Simplifying Cloud for Businesses](https://dev.to/jackryan365/microsoft-azure-services-explained-simplifying-cloud-for-businesses-3fi9)
+- [Adam Savage&#39;s Tested: The Last Surviving Batsuits from Batman &lpar;1989&rpar;](https://dev.to/maker_youtube/adam-savages-tested-the-last-surviving-batsuits-from-batman-1989-2jbj)
+- [Adam Savage&#39;s Tested: Bambu Lab H2S 3D Printer Review: $1250 Beast!](https://dev.to/maker_youtube/adam-savages-tested-bambu-lab-h2s-3d-printer-review-1250-beast-3ad8)
+- [Scalable ML Deployments Made Simple with KitOps and Kubernetes &lpar;No Hardware Required&rpar;](https://dev.to/jozu/scalable-ml-deployments-made-simple-with-kitops-and-kubernetes-no-hardware-required-5hao)
+- [KEXP: Coral Grief - Outback &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-coral-grief-outback-live-on-kexp-3il)
 <!-- BLOG-POST-LIST:END -->
 
 
