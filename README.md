@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This week&#39;s ship: Expensely 🪙](https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f)
-- [My honest take a year into building AI copilots for top YC startups](https://dev.to/jesseliii/my-honest-take-a-year-into-building-ai-copilots-for-top-yc-startups-1o7l)
-- [is RAG dead? nope—it learned to drive](https://dev.to/prkskrs/is-rag-dead-nope-it-learned-to-drive-1kih)
-- [Track Your Developer Advocate Impact Like a Pro with DevRel MCP](https://dev.to/labeveryday/track-your-developer-advocate-impact-like-a-pro-with-devrel-mcp-32k6)
+- [Google Gemini 2.5 Flash-Image: How Google Is Pushing AI Boundaries](https://dev.to/alifar/google-gemini-25-flash-image-how-google-is-pushing-ai-boundaries-2dkh)
+- [Grant Horvat: Grant Horvat Vs Dude Perfect &lpar;Stroke Play&rpar;](https://dev.to/youtube_golf/grant-horvat-grant-horvat-vs-dude-perfect-stroke-play-m6g)
+- [GameSpot: Kingdom Come: Deliverance 2&#39;s DLC Lets You Be A Dentist By Punching A Guy&#39;s Tooth Out](https://dev.to/gg_news/gamespot-kingdom-come-deliverance-2s-dlc-lets-you-be-a-dentist-by-punching-a-guys-tooth-out-1kmn)
+- [GameSpot: skate. | Early Access Release Date Reveal Trailer](https://dev.to/gg_news/gamespot-skate-early-access-release-date-reveal-trailer-1fdd)
 <!-- BLOG-POST-LIST:END -->
 
 
