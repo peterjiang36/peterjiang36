@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord Fonts Generator](https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f)
-- [High-Brightness IPS Displays: Solving the Outdoor and Industrial Visibility Problem](https://dev.to/lauraaa/high-brightness-ips-displays-solving-the-outdoor-and-industrial-visibility-problem-apm)
-- [Why I Gave Up on Functional Programming — Twice — and Still Grateful for It](https://dev.to/xinjie_zou_d67d2805538130/why-i-gave-up-on-functional-programming-twice-and-still-grateful-for-it-4opk)
-- [Visualize XML Files with JSON Viewer Tool](https://dev.to/bugblitz98/visualize-xml-files-with-json-viewer-tool-24nl)
+- [College Student &amp; Course Management System](https://dev.to/krithikraja_fcc802ca9bb16/college-student-course-management-system-2am0)
+- [Kimi K2: The Game-Changing Open-Source AI That&#39;s Rewriting the Rules of Intelligent Development](https://dev.to/yashddesai/kimi-k2-the-game-changing-open-source-ai-thats-rewriting-the-rules-of-intelligent-development-2jka)
+- [Part-24: 🚀Google Compute Engine Persistent Disks &lpar;PD&rpar; Explained](https://dev.to/latchudevops/part-24-google-compute-engine-persistent-disks-pd-explained-2jo1)
+- [Walter Writes AI Review](https://dev.to/cblitz/walter-writes-ai-review-3i1l)
 <!-- BLOG-POST-LIST:END -->
 
 
