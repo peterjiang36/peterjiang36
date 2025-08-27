@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Zod and what does it bring over typescript type definitions](https://dev.to/websilvercraft/what-is-zod-and-what-does-it-bring-over-typescript-type-definitions-a94)
-- [Design Patterns Simplified: Part 22 — Interpreter Pattern &lpar;a.k.a. “The Rule Engine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-22-interpreter-pattern-aka-the-rule-engine-45bc)
-- [The Cloud Isn&#39;t Magic, It&#39;s a Metaphor: From VMs to Kubernetes on OCI](https://dev.to/smyekh/the-cloud-isnt-magic-its-a-metaphor-from-vms-to-kubernetes-on-oci-8ee)
-- [Weekly Update #6](https://dev.to/abytebybyte/weekly-update-6-3oj9)
+- [Krish Naik: Build Your Own AI Personal Assistant – No Code Required!](https://dev.to/vibe_youtube/krish-naik-build-your-own-ai-personal-assistant-no-code-required-b7i)
+- [Grant Horvat: The Greatest Golf Match of My Life. &lpar;No Joke&rpar;](https://dev.to/youtube_golf/grant-horvat-the-greatest-golf-match-of-my-life-no-joke-3ojl)
+- [IGN: Dead As Disco - Arkham&#39;s Combat Meets Hi-Fi Rush | gamescom 2025](https://dev.to/gg_news/ign-dead-as-disco-arkhams-combat-meets-hi-fi-rush-gamescom-2025-2da6)
+- [Dependency Injection in CodeBehind Framework](https://dev.to/elanatframework/dependency-injection-in-codebehind-framework-5846)
 <!-- BLOG-POST-LIST:END -->
 
 
