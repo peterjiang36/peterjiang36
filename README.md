@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/collhar/-28eb)
-- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
-- [When the Creator Becomes the Target: A Human Tale in the Age of AI](https://dev.to/singhrahulbly123/when-the-creator-becomes-the-target-a-human-tale-in-the-age-of-ai-27gc)
-- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
+- [AI fluff generation](https://dev.to/sarabadu/ai-fluff-generation-34gb)
+- [Docker Compose: Speed Up Your Workflow with Profiles, Extends and Depends_on](https://dev.to/altairlage/docker-compose-speed-up-your-workflow-with-profiles-extends-and-dependson-4df8)
+- [[Boost]](https://dev.to/er/-4h53)
+- [What is AGI? A Simple Guide to Artificial General Intelligence](https://dev.to/pratyushnirwan/what-is-agi-a-simple-guide-to-artificial-general-intelligence-29ib)
 <!-- BLOG-POST-LIST:END -->
 
 
