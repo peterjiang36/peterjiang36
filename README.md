@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: Build Your Own AI Personal Assistant – No Code Required!](https://dev.to/vibe_youtube/krish-naik-build-your-own-ai-personal-assistant-no-code-required-b7i)
-- [Grant Horvat: The Greatest Golf Match of My Life. &lpar;No Joke&rpar;](https://dev.to/youtube_golf/grant-horvat-the-greatest-golf-match-of-my-life-no-joke-3ojl)
-- [IGN: Dead As Disco - Arkham&#39;s Combat Meets Hi-Fi Rush | gamescom 2025](https://dev.to/gg_news/ign-dead-as-disco-arkhams-combat-meets-hi-fi-rush-gamescom-2025-2da6)
-- [Dependency Injection in CodeBehind Framework](https://dev.to/elanatframework/dependency-injection-in-codebehind-framework-5846)
+- [What in the World Is GitHub Coding Agent?](https://dev.to/anchildress1/what-in-the-world-is-github-coding-agent-2m8p)
+- [SOC-CERT: Automated Threat Intelligence System with n8n &amp; AI](https://dev.to/joupify/soc-cert-automated-threat-intelligence-system-with-n8n-ai-5722)
+- [What Happens When You Type a URL in the Browser?](https://dev.to/arnavsharma2711/what-happens-when-you-type-a-url-in-the-browser-5dno)
+- [Do Caos à Orquestração: Como o DataOps Está Transformando Dados em Valor](https://dev.to/guigasque/do-caos-a-orquestracao-como-o-dataops-esta-transformando-dados-em-valor-5f1)
 <!-- BLOG-POST-LIST:END -->
 
 
