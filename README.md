@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alec Steele: How the Finest Leather Bags Are Handmade in England](https://dev.to/maker_youtube/alec-steele-how-the-finest-leather-bags-are-handmade-in-england-4jek)
-- [Create ER Diagrams for MySQL with a Free GUI Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-mysql-with-a-free-gui-tool-2j4o)
-- [3D Printing Nerd: THIS PRINT BROKE My Bambu H2S!](https://dev.to/maker_youtube/3d-printing-nerd-this-print-broke-my-bambu-h2s-27lm)
-- [KEXP: Gordi - Lunch At Dune &lpar;feat. S. Carey&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-lunch-at-dune-feat-s-carey-live-on-kexp-5e0j)
+- [Parameter__in__java](https://dev.to/ajayr18/parameterinjava-2ea1)
+- [The Software Is Always Broken &lpar;And AI Is Just Broken Faster&rpar;](https://dev.to/copyleftdev/the-software-is-always-broken-and-ai-is-just-broken-faster-4ia)
+- [Set Up Cloudflare Tunnel on Linux for Secure Remote Access to Your Apps](https://dev.to/marin84719/set-up-cloudflare-tunnel-on-linux-for-secure-remote-access-to-your-apps-54fc)
+- [SkyAccess](https://dev.to/skyaccess/skyaccess-4ccp)
 <!-- BLOG-POST-LIST:END -->
 
 
