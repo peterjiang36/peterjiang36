@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parameter__in__java](https://dev.to/ajayr18/parameterinjava-2ea1)
-- [The Software Is Always Broken &lpar;And AI Is Just Broken Faster&rpar;](https://dev.to/copyleftdev/the-software-is-always-broken-and-ai-is-just-broken-faster-4ia)
-- [Set Up Cloudflare Tunnel on Linux for Secure Remote Access to Your Apps](https://dev.to/marin84719/set-up-cloudflare-tunnel-on-linux-for-secure-remote-access-to-your-apps-54fc)
-- [SkyAccess](https://dev.to/skyaccess/skyaccess-4ccp)
+- [COLORS: Isaia Huron - I CHOSE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-isaia-huron-i-chose-you-a-colors-show-24li)
+- [KEXP: Gordi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-full-performance-live-on-kexp-1ljl)
+- [No Laying Up Podcast: 1062: Captain Keegan&#39;s Picks](https://dev.to/youtube_golf/no-laying-up-podcast-1062-captain-keegans-picks-4aom)
+- [Grant Horvat: Can We Break a Difficult Course Record?](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-difficult-course-record-4c30)
 <!-- BLOG-POST-LIST:END -->
 
 
