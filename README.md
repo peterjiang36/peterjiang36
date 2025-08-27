@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s something off in the &quot;dev with AI or die&quot; narrative](https://dev.to/farukh/theres-something-off-in-the-dev-with-ai-or-die-narrative-4j77)
-- [[Boost]](https://dev.to/bdougieyo/-3eda)
-- [How to Set Up an AWS Application Load Balancer for Your EC2 Instances](https://dev.to/peter_samuel_052b9056e236/how-to-set-up-an-aws-application-load-balancer-for-your-ec2-instances-8fo)
-- [Bedrock Knowledge Bases with S3 Vectors: A [Preview] CDK Quickstart](https://dev.to/michael_flanagan_red/bedrock-knowledge-bases-with-s3-vectors-a-preview-cdk-quickstart-1d8p)
+- [Responsive Envelope and Love Letter - Valentine&#39;s Day](https://dev.to/erick_andrestop_f1aac2f2/responsive-envelope-and-love-letter-valentines-day-1jfe)
+- [IGN: Return to Silent Hill - Official Teaser Trailer &lpar;2025&rpar; Jeremy Irvine, Hannah Emily Anderson](https://dev.to/gg_news/ign-return-to-silent-hill-official-teaser-trailer-2025-jeremy-irvine-hannah-emily-anderson-36p)
+- [Daily JavaScript Challenge #JS-264: Unique Anagrams Generator](https://dev.to/dpc/daily-javascript-challenge-js-264-unique-anagrams-generator-dip)
+- [Semantic HTML for SEO and Accessibility: A Practical Guide for Developers](https://dev.to/alfred27/semantic-html-for-seo-and-accessibility-a-practical-guide-for-developers-5gkg)
 <!-- BLOG-POST-LIST:END -->
 
 
