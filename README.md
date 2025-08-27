@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: MILCK: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-milck-field-recordings-x-aspen-ideas-festival-2ihk)
-- [Why Learn Computer Science in 2025](https://dev.to/olatejuthedev/why-learn-computer-science-in-2025-4410)
-- [Decision Matrix To Navigate Technology Choices](https://dev.to/meet08/decision-matrix-to-navigate-technology-choices-4ojn)
-- [[Boost]](https://dev.to/jeffdev03/-28l)
+- [What is Zod and what does it bring over typescript type definitions](https://dev.to/websilvercraft/what-is-zod-and-what-does-it-bring-over-typescript-type-definitions-a94)
+- [Design Patterns Simplified: Part 22 — Interpreter Pattern &lpar;a.k.a. “The Rule Engine”&rpar;](https://dev.to/prateekprabhakar/design-patterns-simplified-part-22-interpreter-pattern-aka-the-rule-engine-45bc)
+- [The Cloud Isn&#39;t Magic, It&#39;s a Metaphor: From VMs to Kubernetes on OCI](https://dev.to/smyekh/the-cloud-isnt-magic-its-a-metaphor-from-vms-to-kubernetes-on-oci-8ee)
+- [Weekly Update #6](https://dev.to/abytebybyte/weekly-update-6-3oj9)
 <!-- BLOG-POST-LIST:END -->
 
 
