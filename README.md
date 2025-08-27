@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Isaia Huron - I CHOSE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-isaia-huron-i-chose-you-a-colors-show-24li)
-- [KEXP: Gordi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-full-performance-live-on-kexp-1ljl)
-- [No Laying Up Podcast: 1062: Captain Keegan&#39;s Picks](https://dev.to/youtube_golf/no-laying-up-podcast-1062-captain-keegans-picks-4aom)
-- [Grant Horvat: Can We Break a Difficult Course Record?](https://dev.to/youtube_golf/grant-horvat-can-we-break-a-difficult-course-record-4c30)
+- [SEMENTIC HTML](https://dev.to/72iamvinnie/sementic-html-e7b)
+- [Building a Simple Server Monitoring Script in My Homelab](https://dev.to/trenation/building-a-simple-server-monitoring-script-in-my-homelab-4d97)
+- [&lpar;Part 7&rpar; Build a Simple Chat Character Gallery: Implementing the Chat Page UI](https://dev.to/jte0711/part-7-build-a-simple-chat-character-gallery-implementing-the-chat-page-ui-hb8)
+- [How to Create a Bootable USB Windows 10 Using Rufus](https://dev.to/siswoyo/how-to-create-a-bootable-usb-windows-10-using-rufus-1876)
 <!-- BLOG-POST-LIST:END -->
 
 
