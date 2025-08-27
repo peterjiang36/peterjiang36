@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding MongoDB Metrics: A Practical Guide for DBAs, Developers and DevOps Engineers](https://dev.to/herjean7/decoding-mongodb-metrics-a-practical-guide-for-dbas-developers-and-devops-engineers-e3n)
-- [Welcome Thread - v341](https://dev.to/devteam/welcome-thread-v341-47g8)
-- [Postman vs Bruno: What Are the Key Differences?](https://dev.to/fallon_jimmy/postman-vs-bruno-what-are-the-key-differences-5ba7)
-- [ANN: stone_checksums v1.0.2](https://dev.to/galtzo/ann-stonechecksums-v102-1cl7)
+- [Preparing for your upcoming System Design interview? This guide will get you hired.](https://dev.to/fahimulhaq/preparing-for-your-upcoming-system-design-interview-this-guide-will-get-you-hired-18ha)
+- [Automating Complex Workflows with N8n: A Practical Guide for Regular Users](https://dev.to/onlineproxy/automating-complex-workflows-with-n8n-a-practical-guide-for-regular-users-479f)
+- [Google’s Secret Sauce: Privacy-Safe AI That Amplifies Rare Signals](https://dev.to/aiwithapex/googles-secret-sauce-privacy-safe-ai-that-amplifies-rare-signals-2mce)
+- [Hands-On with MongoDB: Storing, Querying, and Analyzing Data](https://dev.to/sugithaa_k/hands-on-with-mongodb-storing-querying-and-analyzing-data-d01)
 <!-- BLOG-POST-LIST:END -->
 
 
