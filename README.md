@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo incorporar IA generativa de manera estratégica: metodología para transformar ideas en resultados reales](https://dev.to/aws-builders/como-incorporar-ia-generativa-de-manera-estrategica-metodologia-para-transformar-ideas-en-1od0)
-- [How much money is your business losing on Black Friday and Cyber Monday](https://dev.to/davedavies/how-much-money-is-your-business-losing-on-black-friday-and-cyber-monday-137f)
-- [How to Build AI-Generated Loading Messages in Rails 8 with Hotwire &amp; Stimulus](https://dev.to/untaught/how-to-build-ai-generated-loading-messages-in-rails-8-with-hotwire-stimulus-3c0o)
-- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-46db)
+- [[Boost]](https://dev.to/collhar/-28eb)
+- [Complete Guide to Claude Code Templates](https://dev.to/dani_avila7/complete-guide-to-claude-code-templates-1pnp)
+- [When the Creator Becomes the Target: A Human Tale in the Age of AI](https://dev.to/singhrahulbly123/when-the-creator-becomes-the-target-a-human-tale-in-the-age-of-ai-27gc)
+- [GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads](https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a)
 <!-- BLOG-POST-LIST:END -->
 
 
