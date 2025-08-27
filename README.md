@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI fluff generation](https://dev.to/sarabadu/ai-fluff-generation-34gb)
-- [Docker Compose: Speed Up Your Workflow with Profiles, Extends and Depends_on](https://dev.to/altairlage/docker-compose-speed-up-your-workflow-with-profiles-extends-and-dependson-4df8)
-- [[Boost]](https://dev.to/er/-4h53)
-- [What is AGI? A Simple Guide to Artificial General Intelligence](https://dev.to/pratyushnirwan/what-is-agi-a-simple-guide-to-artificial-general-intelligence-29ib)
+- [Dev Log 12](https://dev.to/asx/dev-log-12-4c0f)
+- [Chaque bug est une opportunité. Chaque app, une solution](https://dev.to/prince_b_one/chaque-bug-est-une-opportunite-chaque-app-une-solution-190l)
+- [Multi-Environment GCP Web Application Infrastructure with Auto-Scaling](https://dev.to/benn1440/multi-environment-gcp-web-application-infrastructure-with-auto-scaling-2gf9)
+- [My Next Certification Journey Starts Not with Code, but with Logic](https://dev.to/mzunairtariq/my-next-certification-journey-starts-not-with-code-but-with-logic-1bb9)
 <!-- BLOG-POST-LIST:END -->
 
 
