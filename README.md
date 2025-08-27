@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SynthWorks – Why Should Our Team be Using VHDL + OSVVM for Verification](https://dev.to/alpinumblogs/synthworks-why-should-our-team-be-using-vhdl-osvvm-for-verification-408m)
-- [A Guide to Enterprise Web Application Development](https://dev.to/seo_lilac_/a-guide-to-enterprise-web-application-development-5a88)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_74898956/your-error-handling-is-a-mess-and-its-costing-you--34mm)
-- [How I Help Businesses Turn Static Websites into Dynamic CMS Platforms](https://dev.to/mumbere_darius_ed30fc85dc/how-i-help-businesses-turn-static-websites-into-dynamic-cms-platforms-23gg)
+- [What is Agile Project Management?](https://dev.to/stan8086/what-is-agile-project-management-7mk)
+- [The best platform to learn programming for beginners, builders, and career changers](https://dev.to/stack_overflowed/the-best-platform-to-learn-programming-for-beginners-builders-and-career-changers-1a1e)
+- [Oracle SQL Plan Management - 23ai features backported to 19.22](https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51)
+- [🚀 Introducing flexi-cache-node: A Modern, Zero-Dependency Replacement for node-cache](https://dev.to/subhadip_pahari_1cd6ddc60/introducing-flexi-cache-node-a-modern-zero-dependency-replacement-for-node-cache-35g2)
 <!-- BLOG-POST-LIST:END -->
 
 
