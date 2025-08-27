@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What in the World Is GitHub Coding Agent?](https://dev.to/anchildress1/what-in-the-world-is-github-coding-agent-2m8p)
-- [SOC-CERT: Automated Threat Intelligence System with n8n &amp; AI](https://dev.to/joupify/soc-cert-automated-threat-intelligence-system-with-n8n-ai-5722)
-- [What Happens When You Type a URL in the Browser?](https://dev.to/arnavsharma2711/what-happens-when-you-type-a-url-in-the-browser-5dno)
-- [Do Caos à Orquestração: Como o DataOps Está Transformando Dados em Valor](https://dev.to/guigasque/do-caos-a-orquestracao-como-o-dataops-esta-transformando-dados-em-valor-5f1)
+- [Alec Steele: How the Finest Leather Bags Are Handmade in England](https://dev.to/maker_youtube/alec-steele-how-the-finest-leather-bags-are-handmade-in-england-4jek)
+- [Create ER Diagrams for MySQL with a Free GUI Tool](https://dev.to/roxana_haidiner/create-er-diagrams-for-mysql-with-a-free-gui-tool-2j4o)
+- [3D Printing Nerd: THIS PRINT BROKE My Bambu H2S!](https://dev.to/maker_youtube/3d-printing-nerd-this-print-broke-my-bambu-h2s-27lm)
+- [KEXP: Gordi - Lunch At Dune &lpar;feat. S. Carey&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gordi-lunch-at-dune-feat-s-carey-live-on-kexp-5e0j)
 <!-- BLOG-POST-LIST:END -->
 
 
