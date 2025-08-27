@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SEMENTIC HTML](https://dev.to/72iamvinnie/sementic-html-e7b)
-- [Building a Simple Server Monitoring Script in My Homelab](https://dev.to/trenation/building-a-simple-server-monitoring-script-in-my-homelab-4d97)
-- [&lpar;Part 7&rpar; Build a Simple Chat Character Gallery: Implementing the Chat Page UI](https://dev.to/jte0711/part-7-build-a-simple-chat-character-gallery-implementing-the-chat-page-ui-hb8)
-- [How to Create a Bootable USB Windows 10 Using Rufus](https://dev.to/siswoyo/how-to-create-a-bootable-usb-windows-10-using-rufus-1876)
+- [Adam Savage&#39;s Tested: Adam Savage Builds an Evil Dead Necronomicon!](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-builds-an-evil-dead-necronomicon-4io8)
+- [Bryan Bros Golf: We Played Golf At #1 Course In World!](https://dev.to/youtube_golf/bryan-bros-golf-we-played-golf-at-1-course-in-world-1g0n)
+- [Noclip: The Origins of MachineGames &lpar;Riddick, The Darkness&rpar; - Noclip Documentary](https://dev.to/gg_news/noclip-the-origins-of-machinegames-riddick-the-darkness-noclip-documentary-2bm9)
+- [GameSpot: Kingdom Come: Deliverance 2&#39;s DLC Lets You Be A Dentist By Punching A Guy&#39;s Tooth Out | Hands-On](https://dev.to/gg_news/gamespot-kingdom-come-deliverance-2s-dlc-lets-you-be-a-dentist-by-punching-a-guys-tooth-out--4hng)
 <!-- BLOG-POST-LIST:END -->
 
 
