@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Preparing for your upcoming System Design interview? This guide will get you hired.](https://dev.to/fahimulhaq/preparing-for-your-upcoming-system-design-interview-this-guide-will-get-you-hired-18ha)
-- [Automating Complex Workflows with N8n: A Practical Guide for Regular Users](https://dev.to/onlineproxy/automating-complex-workflows-with-n8n-a-practical-guide-for-regular-users-479f)
-- [Google’s Secret Sauce: Privacy-Safe AI That Amplifies Rare Signals](https://dev.to/aiwithapex/googles-secret-sauce-privacy-safe-ai-that-amplifies-rare-signals-2mce)
-- [Hands-On with MongoDB: Storing, Querying, and Analyzing Data](https://dev.to/sugithaa_k/hands-on-with-mongodb-storing-querying-and-analyzing-data-d01)
+- [Alec Steele: How Fine Leather Bags Are Handmade In Great Britain](https://dev.to/maker_youtube/alec-steele-how-fine-leather-bags-are-handmade-in-great-britain-1oc3)
+- [Rick Beato: Am I The Only One Who Gives A Sh*t?](https://dev.to/music_youtube/rick-beato-am-i-the-only-one-who-gives-a-sht-4b5n)
+- [GameSpot: Come Visit McDonaldland in Fortnite LIVE with Dagwummy](https://dev.to/gg_news/gamespot-come-visit-mcdonaldland-in-fortnite-live-with-dagwummy-2f8j)
+- [IGN: Sonic Racing: CrossWorlds - Official Open Network Test Primer Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-open-network-test-primer-trailer-10f5)
 <!-- BLOG-POST-LIST:END -->
 
 
