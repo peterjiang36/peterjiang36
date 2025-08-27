@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Envelope and Love Letter - Valentine&#39;s Day](https://dev.to/erick_andrestop_f1aac2f2/responsive-envelope-and-love-letter-valentines-day-1jfe)
-- [IGN: Return to Silent Hill - Official Teaser Trailer &lpar;2025&rpar; Jeremy Irvine, Hannah Emily Anderson](https://dev.to/gg_news/ign-return-to-silent-hill-official-teaser-trailer-2025-jeremy-irvine-hannah-emily-anderson-36p)
-- [Daily JavaScript Challenge #JS-264: Unique Anagrams Generator](https://dev.to/dpc/daily-javascript-challenge-js-264-unique-anagrams-generator-dip)
-- [Semantic HTML for SEO and Accessibility: A Practical Guide for Developers](https://dev.to/alfred27/semantic-html-for-seo-and-accessibility-a-practical-guide-for-developers-5gkg)
+- [IA e Segurança de Software: Automação ou Novo Vetor de Ataques?](https://dev.to/targanski/ia-e-seguranca-de-software-automacao-ou-novo-vetor-de-ataques-1l99)
+- [Event-Driven Architecture &lpar;EDA&rpar;](https://dev.to/programadriano/event-driven-architecture-eda-arquitetura-orientada-a-eventos-5ckb)
+- [O que é Clean Architecture?](https://dev.to/nathanndos/o-que-e-clean-architecture-36h4)
+- [Vibe coding agents- good or bad?](https://dev.to/peteteaa/vibe-coding-agents-good-or-bad-5cf0)
 <!-- BLOG-POST-LIST:END -->
 
 
