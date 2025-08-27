@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Made Simple: A Step-by-Step Guide to Starting in 2025](https://dev.to/mrigankwastaken/devops-made-simple-a-step-by-step-guide-to-starting-in-2025-594m)
-- [Unlock Your Audience: The Ultimate Guide to SEO-Driven Content Creation 🚀](https://dev.to/rohith200589/unlock-your-audience-the-ultimate-guide-to-seo-driven-content-creation-2eif)
-- [3 Things I Learned Building a Database from Scratch &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/pauletart/3-things-i-learned-building-a-database-from-scratch-and-what-id-do-differently-339m)
-- [Generate Mock JSON APIs Instantly with JSONToAll.Tools – Free Online Tool](https://dev.to/sourav_halder_5da9b618537/generate-mock-json-apis-instantly-with-jsontoalltools-free-online-tool-4b55)
+- [Cómo incorporar IA generativa de manera estratégica: metodología para transformar ideas en resultados reales](https://dev.to/aws-builders/como-incorporar-ia-generativa-de-manera-estrategica-metodologia-para-transformar-ideas-en-1od0)
+- [How much money is your business losing on Black Friday and Cyber Monday](https://dev.to/davedavies/how-much-money-is-your-business-losing-on-black-friday-and-cyber-monday-137f)
+- [How to Build AI-Generated Loading Messages in Rails 8 with Hotwire &amp; Stimulus](https://dev.to/untaught/how-to-build-ai-generated-loading-messages-in-rails-8-with-hotwire-stimulus-3c0o)
+- [IGN: Infinity Nikki Stardew Valley - Official Collaboration Trailer](https://dev.to/gg_news/ign-infinity-nikki-x-stardew-valley-official-collaboration-trailer-46db)
 <!-- BLOG-POST-LIST:END -->
 
 
