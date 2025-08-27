@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code 101: Sort an Array using Recursion](https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79)
-- [Mining Data Out of Minecraft](https://dev.to/mateusriff/mining-data-out-of-minecraft-541f)
-- [Critical Vulnerability Alert: Weaver e-Office Remote Code Execution &lpar;RCE&rpar; – Patch Now](https://dev.to/sharon_42e16b8da44dabde6d/critical-vulnerability-alert-weaver-e-office-remote-code-execution-rce-patch-now-10d8)
-- [FOSSAI: An Open-Source Manifesto Against Digital Inequality — v0.1](https://dev.to/paladini/fossai-an-open-source-manifesto-against-digital-inequality-v01-4jlk)
+- [Decoding MongoDB Metrics: A Practical Guide for DBAs, Developers and DevOps Engineers](https://dev.to/herjean7/decoding-mongodb-metrics-a-practical-guide-for-dbas-developers-and-devops-engineers-e3n)
+- [Welcome Thread - v341](https://dev.to/devteam/welcome-thread-v341-47g8)
+- [Postman vs Bruno: What Are the Key Differences?](https://dev.to/fallon_jimmy/postman-vs-bruno-what-are-the-key-differences-5ba7)
+- [ANN: stone_checksums v1.0.2](https://dev.to/galtzo/ann-stonechecksums-v102-1cl7)
 <!-- BLOG-POST-LIST:END -->
 
 
