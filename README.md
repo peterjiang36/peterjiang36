@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Tool to Read Invoices and Predict GST — Without Losing My Mind](https://dev.to/trojanmocx/how-i-built-an-ai-tool-to-read-invoices-and-predict-gst-without-losing-my-mind-14i3)
-- [Code Generation with ‘Graph RAG’, AstraDB and gpt-oss](https://dev.to/aairom/code-generation-with-graph-rag-astradb-and-gpt-oss-o01)
-- [Install n8n on Windows with Docker &lpar;Step-by-Step&rpar;](https://dev.to/swapnil-ahmmed-shishir/install-n8n-on-windows-with-docker-step-by-step-3dc3)
-- [🖥 Install n8n Locally on Windows – Step by Step](https://dev.to/swapnil-ahmmed-shishir/install-n8n-locally-on-windows-step-by-step-5aj2)
+- [DeFAI is Coming: How AI Agents Will Reshape DeFi &lpar;And Why They Need Privacy&rpar;](https://dev.to/savvysid/defai-is-coming-how-ai-agents-will-reshape-defi-and-why-they-need-privacy-3gki)
+- [SOLID Principles In 2025 In Practice With Python And UML Examples](https://dev.to/alinsky/solid-principles-in-2025-in-practice-with-python-and-uml-examples-34l6)
+- [SEMANTIC HTML](https://dev.to/zakayo_mepetu_ded34b09bb1/semantic-html-2cig)
+- [10 Common XAML UI Problems &lpar;and How Hot Design Fixes Them&rpar;](https://dev.to/uno-platform/10-common-xaml-ui-problems-and-how-hot-design-fixes-them-5a0f)
 <!-- BLOG-POST-LIST:END -->
 
 
