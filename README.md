@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code:Implement RAG engine with semantic search_Service](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-searchservice-26l9)
-- [Never Lose Coding Progress Again: How I Built a Hybrid Auto-Logger for VS Code](https://dev.to/tracywhodoesnot/never-lose-coding-progress-again-how-i-built-a-hybrid-auto-logger-for-vs-code-4i7i)
-- [Code:Implement RAG engine with semantic search_Manager](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-search-2lcg)
-- [Task:Integrate semiconductor domain knowledge](https://dev.to/yc_lee_53e583a776a9c56e3/taskintegrate-semiconductor-domain-knowledge-3941)
+- [Top 7 WordPress Icon Plugins You Should Try](https://dev.to/masumparvej/top-7-wordpress-icon-plugins-you-should-try-49ed)
+- [Understanding Classification in Supervised Learning](https://dev.to/datawithnaomi/understanding-classification-in-supervised-learning-1h7e)
+- [Docker Explained: How It Really Works Under the Hood](https://dev.to/itsabhiyan/docker-explained-how-it-really-works-under-the-hood-56np)
+- [Task:Create equipment predictive maintenance models](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-equipment-predictive-maintenance-models-4imo)
 <!-- BLOG-POST-LIST:END -->
 
 
