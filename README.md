@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
-- [🚀 Node.js + TypeScript dev](https://dev.to/dcdeploy/nodejs-typescript-dev-44m6)
-- [[SOLVED] &quot;evm: execution reverted&quot; Error](https://dev.to/metana/solved-evm-execution-reverted-error-d2)
-- [A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts.](https://dev.to/jaideepparashar/a-single-word-tone-shift-or-framing-in-the-prompt-can-completely-change-the-quality-of-your-26kk)
+- [Code:Implement RAG engine with semantic search_Service](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-searchservice-26l9)
+- [Never Lose Coding Progress Again: How I Built a Hybrid Auto-Logger for VS Code](https://dev.to/tracywhodoesnot/never-lose-coding-progress-again-how-i-built-a-hybrid-auto-logger-for-vs-code-4i7i)
+- [Code:Implement RAG engine with semantic search_Manager](https://dev.to/yc_lee_53e583a776a9c56e3/codeimplement-rag-engine-with-semantic-search-2lcg)
+- [Task:Integrate semiconductor domain knowledge](https://dev.to/yc_lee_53e583a776a9c56e3/taskintegrate-semiconductor-domain-knowledge-3941)
 <!-- BLOG-POST-LIST:END -->
 
 
