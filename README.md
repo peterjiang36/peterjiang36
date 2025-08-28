@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying KISS, DRY, and LOD Principles in Go](https://dev.to/leapcell/applying-kiss-dry-and-lod-principles-in-go-1ikf)
-- [Hosting Private AI with Railway - Tech Breakdown](https://dev.to/loudbook/hosting-private-ai-with-railway-tech-breakdown-460o)
-- [Flutter app AI centric architecture for small startups. Part 3 - Stages 3–5](https://dev.to/arenukvern/flutter-app-ai-centric-architecture-for-small-startups-part-3-stages-3-5-4jd9)
-- [Hosting Private AI with Railway](https://dev.to/itsnoahd/hosting-private-ai-with-railway-1jim)
+- [Task:Create ETL pipeline service skeleton](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd)
+- [What is Transfer Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-transfer-learning-47a1)
+- [Action.hpp — Lightweight, memory-efficient C++ callback library](https://dev.to/shigami_yune/actionhpp-lightweight-memory-efficient-c-callback-library-1f84)
+- [check out this tutorial on building your own full-stack AI web app to analyze travel images!](https://dev.to/taiwocodes/check-out-this-tutorial-on-building-your-own-full-stack-ai-web-app-to-analyze-travel-images-300p)
 <!-- BLOG-POST-LIST:END -->
 
 
