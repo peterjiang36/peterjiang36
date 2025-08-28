@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantas cartas tem em uma torre de cartas com N andares?](https://dev.to/renan_marquetti_9d8acb2b1/quantas-cartas-tem-em-uma-torre-de-cartas-com-n-andares-3l1n)
-- [Task:Set up data warehouse schema and connections using the Greenplum](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-data-warehouse-schema-and-connections-using-the-greenplum-515d)
-- [AWS Savings Plans doesn&#39;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!](https://dev.to/aws-builders/aws-savings-plans-doesnt-assure-cost-savings-tracking-amending-with-aws-budgets-does--261i)
-- [The Hidden Complexity of Web Authentication: Why Every Developer Should Build Their Own &lpar;At Least Once&rpar;](https://dev.to/rashidpbi/the-hidden-complexity-of-web-authentication-why-every-developer-should-build-their-own-at-least-2al1)
+- [Task:Implement data lake storage with Apache Iceberg](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-data-lake-storage-with-apache-iceberg-2ii5)
+- [Zero-Downtime Deployments on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/kazeem_mohammed/zero-downtime-deployments-on-kubernetes-step-by-step-10c)
+- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
+- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
 <!-- BLOG-POST-LIST:END -->
 
 
