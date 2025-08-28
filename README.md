@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Create model monitoring and observability](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-model-monitoring-and-observability-722)
-- [🪄 Scopes, Closures, and Decorators in Python: A Deep Dive Adventure](https://dev.to/anik_sikder_313/scopes-closures-and-decorators-in-python-a-deep-dive-adventure-14ob)
-- [Healthcare Meets Blockchain: Why HIPAA-Compliant DApps Need More Than Encryption](https://dev.to/savvysid/healthcare-meets-blockchain-why-hipaa-compliant-dapps-need-more-than-encryption-5cbk)
-- [8 AI Productivity Tools You Should Be Exploring Right Now ⚡️👌](https://dev.to/madza/8-ai-productivity-tools-you-should-be-exploring-right-now-188d)
+- [Xlorin API](https://dev.to/melody_kelly_n/xlorin-api-12j2)
+- [Interesting Thing That I Learned !!](https://dev.to/abishek_44a09d1e1af19b4ca/interesting-thing-that-i-learned--42ej)
+- [Smart_Store: A C++ Library for Dynamic Data Management and Automatic Type Registration](https://dev.to/gem_vic_5c08c5a528c1513e7/smartstore-a-c-library-for-dynamic-data-management-and-automatic-type-registration-22jk)
+- [Rethinking Responsibility: Empowering Engineers](https://dev.to/graemegeorge/rethinking-responsibility-empowering-engineers-d9h)
 <!-- BLOG-POST-LIST:END -->
 
 
