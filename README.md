@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Powerful AI Tools with Laravel: A Complete Guide to MCP Integration](https://dev.to/blamsa0mine/building-powerful-ai-tools-with-laravel-a-complete-guide-to-mcp-integration-2bk0)
-- [Beyond CRUD: System Design Lessons From a Video Re-Streaming Control Platform](https://dev.to/sidharthd/beyond-crud-system-design-lessons-from-a-video-re-streaming-control-platform-1n5i)
-- [WTF is Finetuning Large Language Models?](https://dev.to/dailybugle33/wtf-is-finetuning-large-language-models-1hmh)
-- [How to use Cargo to cross compile Rust programs for Raspberry Pi?](https://dev.to/carolineee/how-to-use-cargo-to-cross-compile-rust-programs-for-raspberry-pi-26l)
+- [🛡 CrowdSec: Open‑Source, Crowd‑Powered Defense](https://dev.to/byteknight/crowdsec-open-source-crowd-powered-defense-14c3)
+- [NPR Music: Lucius: Field Recordings x Aspen Ideas Festival](https://dev.to/music_youtube/npr-music-lucius-field-recordings-x-aspen-ideas-festival-4p8e)
+- [The Backend Finally Makes Sense, Why I&#39;m Loving Motia](https://dev.to/jealousgx/the-backend-finally-makes-sense-why-im-loving-motia-59kb)
+- [Engineering Tomorrow, Today](https://dev.to/titto-stackobea/engineering-tomorrow-today-4cli)
 <!-- BLOG-POST-LIST:END -->
 
 
