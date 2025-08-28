@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Revamping Real-Time Data Ingestion for Scalable Media Intelligence](https://dev.to/navedha_sadhan_caaa090549/revamping-real-time-data-ingestion-for-scalable-media-intelligence-15gc)
-- [Tech With Tim: Python is Changing – Here’s What’s Coming](https://dev.to/vibe_youtube/tech-with-tim-python-is-changing-heres-whats-coming-5bb4)
-- [GameSpot: Pokemon Legends: Z-A | Hawlucha vs. Machamp FULL MATCH | Cinematic Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-hawlucha-vs-machamp-full-match-cinematic-trailer-41pj)
-- [GameSpot: Helldivers 2 - Dust Devils Warbond Gameplay Trailer](https://dev.to/gg_news/gamespot-helldivers-2-dust-devils-warbond-gameplay-trailer-1onj)
+- [Task:Create model monitoring and observability](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-model-monitoring-and-observability-722)
+- [🪄 Scopes, Closures, and Decorators in Python: A Deep Dive Adventure](https://dev.to/anik_sikder_313/scopes-closures-and-decorators-in-python-a-deep-dive-adventure-14ob)
+- [Healthcare Meets Blockchain: Why HIPAA-Compliant DApps Need More Than Encryption](https://dev.to/savvysid/healthcare-meets-blockchain-why-hipaa-compliant-dapps-need-more-than-encryption-5cbk)
+- [8 AI Productivity Tools You Should Be Exploring Right Now ⚡️👌](https://dev.to/madza/8-ai-productivity-tools-you-should-be-exploring-right-now-188d)
 <!-- BLOG-POST-LIST:END -->
 
 
