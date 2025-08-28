@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Bedrock&#39;s Nova Pro Model for High-Traffic Workloads](https://dev.to/aaron_rose_0787cc8b4775a0/scaling-bedrocks-nova-pro-model-for-high-traffic-workloads-2l6k)
-- [Strengthening Libre: Security and Optimization Updates](https://dev.to/libre_anti_social/strengthening-libre-security-and-optimization-updates-5hb2)
-- [LangGraph: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8)
-- [You don’t need 20 tools. Just use Postgres &lpar;seriously!&rpar;](https://dev.to/dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-4be7)
+- [This Async Microservice Design Flaw IS Destroying Your Data Integrity!](https://dev.to/xuan_56087d315ff4f52254e6/this-async-microservice-design-flaw-is-destroying-your-data-integrity-jf9)
+- [What is google&#39;s nano banana and how it solved the biggest problem in ai image editing](https://dev.to/syedharis/what-is-googles-nano-banana-and-how-it-solved-the-biggest-problem-in-ai-image-editing-28ih)
+- [Day 37: Kubernetes Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-37-kubernetes-interview-questions-7ac)
+- [25 chunking tricks for RAG that devs actually use](https://dev.to/dev_tips/25-chunking-tricks-for-rag-that-devs-actually-use-2ndg)
 <!-- BLOG-POST-LIST:END -->
 
 
