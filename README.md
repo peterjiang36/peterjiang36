@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Create ETL pipeline service skeleton](https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd)
-- [What is Transfer Learning?](https://dev.to/dev_patel_35864ca1db6093c/what-is-transfer-learning-47a1)
-- [Action.hpp — Lightweight, memory-efficient C++ callback library](https://dev.to/shigami_yune/actionhpp-lightweight-memory-efficient-c-callback-library-1f84)
-- [check out this tutorial on building your own full-stack AI web app to analyze travel images!](https://dev.to/taiwocodes/check-out-this-tutorial-on-building-your-own-full-stack-ai-web-app-to-analyze-travel-images-300p)
+- [Quantas cartas tem em uma torre de cartas com N andares?](https://dev.to/renan_marquetti_9d8acb2b1/quantas-cartas-tem-em-uma-torre-de-cartas-com-n-andares-3l1n)
+- [Task:Set up data warehouse schema and connections using the Greenplum](https://dev.to/yc_lee_53e583a776a9c56e3/taskset-up-data-warehouse-schema-and-connections-using-the-greenplum-515d)
+- [AWS Savings Plans doesn&#39;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!](https://dev.to/aws-builders/aws-savings-plans-doesnt-assure-cost-savings-tracking-amending-with-aws-budgets-does--261i)
+- [The Hidden Complexity of Web Authentication: Why Every Developer Should Build Their Own &lpar;At Least Once&rpar;](https://dev.to/rashidpbi/the-hidden-complexity-of-web-authentication-why-every-developer-should-build-their-own-at-least-2al1)
 <!-- BLOG-POST-LIST:END -->
 
 
