@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The complete guide to Docker Offload. Beta mode was just launched.](https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8)
-- [📚 My Python Roadmap Journey #1 - Basics](https://dev.to/polakk0/my-python-roadmap-journey-1-basics-i9c)
-- [Next.js on Cloudflare vs. Vercel: Why Pretty Deploys Don’t Scale](https://dev.to/dev_tips/nextjs-on-cloudflare-vs-vercel-why-pretty-deploys-dont-scale-2m9a)
-- [Preparing Your Data for the ARIMA Model: The Secret Step to Reliable Forecasts](https://dev.to/moubarakmohame4/preparing-your-data-for-the-arima-model-the-secret-step-to-reliable-forecasts-2h9)
+- [5 Testing Patterns That Will Save Your Startup&#39;s Budget](https://dev.to/atechajay/5-testing-patterns-that-will-save-your-startups-budget-4phg)
+- [Have you created one yet ? Here&#39;s a simple tutorial for you to Start Now](https://dev.to/masterdevsabith/have-you-created-one-yet-heres-a-simple-tutorial-for-you-to-start-now-ndm)
+- [How to create a CLI tool in Python](https://dev.to/masterdevsabith/how-to-create-a-cli-tool-in-python-2f52)
+- [KEXP: Annahstasia - Silk And Velvet &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-silk-and-velvet-live-on-kexp-53aj)
 <!-- BLOG-POST-LIST:END -->
 
 
