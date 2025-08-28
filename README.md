@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeFAI is Coming: How AI Agents Will Reshape DeFi &lpar;And Why They Need Privacy&rpar;](https://dev.to/savvysid/defai-is-coming-how-ai-agents-will-reshape-defi-and-why-they-need-privacy-3gki)
-- [SOLID Principles In 2025 In Practice With Python And UML Examples](https://dev.to/alinsky/solid-principles-in-2025-in-practice-with-python-and-uml-examples-34l6)
-- [SEMANTIC HTML](https://dev.to/zakayo_mepetu_ded34b09bb1/semantic-html-2cig)
-- [10 Common XAML UI Problems &lpar;and How Hot Design Fixes Them&rpar;](https://dev.to/uno-platform/10-common-xaml-ui-problems-and-how-hot-design-fixes-them-5a0f)
+- [Scaling Bedrock&#39;s Nova Pro Model for High-Traffic Workloads](https://dev.to/aaron_rose_0787cc8b4775a0/scaling-bedrocks-nova-pro-model-for-high-traffic-workloads-2l6k)
+- [Strengthening Libre: Security and Optimization Updates](https://dev.to/libre_anti_social/strengthening-libre-security-and-optimization-updates-5hb2)
+- [LangGraph: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8)
+- [You don’t need 20 tools. Just use Postgres &lpar;seriously!&rpar;](https://dev.to/dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-4be7)
 <!-- BLOG-POST-LIST:END -->
 
 
