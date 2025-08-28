@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Testing Patterns That Will Save Your Startup&#39;s Budget](https://dev.to/atechajay/5-testing-patterns-that-will-save-your-startups-budget-4phg)
-- [Have you created one yet ? Here&#39;s a simple tutorial for you to Start Now](https://dev.to/masterdevsabith/have-you-created-one-yet-heres-a-simple-tutorial-for-you-to-start-now-ndm)
-- [How to create a CLI tool in Python](https://dev.to/masterdevsabith/how-to-create-a-cli-tool-in-python-2f52)
-- [KEXP: Annahstasia - Silk And Velvet &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-annahstasia-silk-and-velvet-live-on-kexp-53aj)
+- [From HTML to 3D: Why I Rebuild My Portfolio with React, Vite, Tailwind &amp; FrontQL](https://dev.to/rtnjt_bot/from-html-to-3d-why-i-rebuild-my-portfolio-with-react-vite-tailwind-frontql-a4m)
+- [The death of cloud centralization: Last decade’s internet had a gravity problem](https://dev.to/dev_tips/the-death-of-cloud-centralization-last-decades-internet-had-a-gravity-problem-28pf)
+- [Keep your system healthy with 20 cron jobs every DevOps engineer needs.](https://dev.to/dev_tips/keep-your-system-healthy-with-20-cron-jobs-every-devops-engineer-needs-5ec)
+- [[Boost]](https://dev.to/developia/-3hbl)
 <!-- BLOG-POST-LIST:END -->
 
 
