@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MAX1659ESA: Low-Dropout Linear Regulator for Efficient Power Management](https://dev.to/etei/max1659esa-low-dropout-linear-regulator-for-efficient-power-management-1705)
-- [Product Research with Target Shopping Scraper API: Identifying Top-Selling Products](https://dev.to/mcatee/product-research-with-target-shopping-scraper-api-identifying-top-selling-products-46am)
-- [The Hidden Cost of Docker Images: Why Multi-Stage Builds Are Essential in 2025](https://dev.to/klaus82/the-hidden-cost-of-docker-images-why-multi-stage-builds-are-essential-in-2025-3knk)
-- [Deep Dive: Browser Rendering and HTML Parsing](https://dev.to/sharique_siddiqui_8242dad/deep-dive-browser-rendering-and-html-parsing-34k8)
+- [Building Powerful AI Tools with Laravel: A Complete Guide to MCP Integration](https://dev.to/blamsa0mine/building-powerful-ai-tools-with-laravel-a-complete-guide-to-mcp-integration-2bk0)
+- [Beyond CRUD: System Design Lessons From a Video Re-Streaming Control Platform](https://dev.to/sidharthd/beyond-crud-system-design-lessons-from-a-video-re-streaming-control-platform-1n5i)
+- [WTF is Finetuning Large Language Models?](https://dev.to/dailybugle33/wtf-is-finetuning-large-language-models-1hmh)
+- [How to use Cargo to cross compile Rust programs for Raspberry Pi?](https://dev.to/carolineee/how-to-use-cargo-to-cross-compile-rust-programs-for-raspberry-pi-26l)
 <!-- BLOG-POST-LIST:END -->
 
 
