@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Task:Implement data lake storage with Apache Iceberg](https://dev.to/yc_lee_53e583a776a9c56e3/taskimplement-data-lake-storage-with-apache-iceberg-2ii5)
-- [Zero-Downtime Deployments on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/kazeem_mohammed/zero-downtime-deployments-on-kubernetes-step-by-step-10c)
-- [Transform Your Content Game with AI-Powered Video](https://dev.to/ethan_parkx_09fc0c31cddf/transform-your-content-game-with-ai-powered-video-2em7)
-- [🛳️ Docker Series: Episode 6 — Docker Volumes: The Secret to Saving Your Data](https://dev.to/yash_sonawane25/docker-series-episode-6-docker-volumes-the-secret-to-saving-your-data-5467)
+- [GameSpot: The Outer Worlds 2 Hands-on Impressions](https://dev.to/gg_news/gamespot-the-outer-worlds-2-hands-on-impressions-2c18)
+- [🚀 Node.js + TypeScript dev](https://dev.to/dcdeploy/nodejs-typescript-dev-44m6)
+- [[SOLVED] &quot;evm: execution reverted&quot; Error](https://dev.to/metana/solved-evm-execution-reverted-error-d2)
+- [A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts.](https://dev.to/jaideepparashar/a-single-word-tone-shift-or-framing-in-the-prompt-can-completely-change-the-quality-of-your-26kk)
 <!-- BLOG-POST-LIST:END -->
 
 
