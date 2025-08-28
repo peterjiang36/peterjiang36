@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Xlorin API](https://dev.to/melody_kelly_n/xlorin-api-12j2)
-- [Interesting Thing That I Learned !!](https://dev.to/abishek_44a09d1e1af19b4ca/interesting-thing-that-i-learned--42ej)
-- [Smart_Store: A C++ Library for Dynamic Data Management and Automatic Type Registration](https://dev.to/gem_vic_5c08c5a528c1513e7/smartstore-a-c-library-for-dynamic-data-management-and-automatic-type-registration-22jk)
-- [Rethinking Responsibility: Empowering Engineers](https://dev.to/graemegeorge/rethinking-responsibility-empowering-engineers-d9h)
+- [Puppet Continuous Delivery: New Releases!](https://dev.to/puppet/puppet-continuous-delivery-new-releases-14na)
+- [Why Human APIs fail as MCP tools &lpar;and how to fix them&rpar;](https://dev.to/arman08/why-human-apis-fail-as-mcp-tools-and-how-to-fix-them-10hm)
+- [Distributed Business Logic with Laravel Observers: Let Models Mind Their Own Business](https://dev.to/raheelshan/distributed-business-logic-with-laravel-observers-let-models-mind-their-own-business-2837)
+- [Building High-Performance Time Series on SQLite with Go: UUIDv7, sqlc, and libSQL](https://dev.to/zanzythebar/building-high-performance-time-series-on-sqlite-with-go-uuidv7-sqlc-and-libsql-3ejb)
 <!-- BLOG-POST-LIST:END -->
 
 
