@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
-- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
-- [IGN: Honkai: Nexus Anima - Official &#39;Side by Side&#39; Teaser Trailer](https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22)
-- [Saving Plans e Instancias Reservadas en AWS](https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef)
+- [The Multiple Personalities of Angular’s viewChild &lpar;the Read Parameter&rpar;](https://dev.to/brianmtreese/the-multiple-personalities-of-angulars-viewchild-the-read-parameter-2c2j)
+- [When we&#39;re together &lpar;My AI song&rpar;](https://dev.to/jacklehamster/when-were-together-my-ai-song-3n4c)
+- [Launch a Polished Domain Showcase in 5 Minutes](https://dev.to/evantop/launch-a-polished-domain-showcase-in-5-minutes-4125)
+- [WebdriverIO Visual Click Service](https://dev.to/agileactors/webdriverio-visual-click-service-bpe)
 <!-- BLOG-POST-LIST:END -->
 
 
