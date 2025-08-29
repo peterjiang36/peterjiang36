@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;3 RSS for learning](https://dev.to/johntellsall/3-rss-for-learning-720)
-- [Implementing Semantic HTML Effectively](https://dev.to/stateman_7/implementing-semantic-html-effectively-2jg1)
-- [Spring Boot Fundamentals &lpar;Deep dive for beginners&rpar;](https://dev.to/jps27cse/spring-boot-fundamentals-deep-dive-for-beginners-641)
-- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/ajay_patidar_33430369efeb/flowiseai-the-open-source-visual-builder-for-ai-agents-64m)
+- [KEXP: Valerie June - Life I Used To Live &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-life-i-used-to-live-live-on-kexp-10kp)
+- [KEXP: Valerie June - All I Really Wanna Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-all-i-really-wanna-do-live-on-kexp-1810)
+- [Log013 - AWS, Debian 13, Fail2ban, Logrotate, Docker, AlmaLinux, Apache, AWS S3, CloudFront, AWS CLI.](https://dev.to/aka_artem_dd17be93c/log013-aws-debian-13-fail2ban-logrotate-docker-almalinux-apache-aws-s3-cloudfront-aws-34j)
+- [The System Didn’t Ask, It Just Made You Comply](https://dev.to/agustin_v_startari/the-system-didnt-ask-it-just-made-you-comply-2h69)
 <!-- BLOG-POST-LIST:END -->
 
 
