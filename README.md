@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Provide Light and Dark Theme Color Variants in PWA](https://dev.to/fedtti/how-to-provide-light-and-dark-theme-color-variants-in-pwa-1mml)
-- [Code is Dead. Long Live Context! Introducing AOKL — The Lingua Franca for the Human+AI Development Era](https://dev.to/evpolov/code-is-dead-long-live-context-introducing-aokl-the-lingua-franca-for-the-humanai-development-2g46)
-- [Centralized Error Handling in Go &lpar;Like Laravel&rpar;](https://dev.to/hrrydgls/centralized-error-handling-in-go-like-laravel-8je)
-- [Emerging Trends in Personal Branding for Developers: How to Stand Out in Tech Today](https://dev.to/okoye_ndidiamaka_5e3b7d30/emerging-trends-in-personal-branding-for-developers-how-to-stand-out-in-tech-today-8g3)
+- [Demystifying Promises, Async, and Await in JavaScript/TypeScript with Playwright and Cypress](https://dev.to/anirseven/demystifying-promises-async-and-await-in-javascripttypescript-with-playwright-and-cypress-2g3i)
+- [🗓 Daily LeetCode Progress – Day 13](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
+- [How do small teams catch bugs in CI/CD?](https://dev.to/maxify_55555/how-do-small-teams-catch-bugs-in-cicd-fh5)
+- [Production Ready VPS in Minutes](https://dev.to/infms/production-ready-vps-in-minutes-34mn)
 <!-- BLOG-POST-LIST:END -->
 
 
