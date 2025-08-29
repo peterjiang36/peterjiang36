@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
-- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
-- [I Built a 6-Headed AI Intelligence System &lpar;No Subscriptions Required!&rpar;](https://dev.to/jcloud/i-built-a-6-headed-ai-intelligence-system-no-subscriptions-required-a89)
-- [JavaScript One-Liners That Actually Slap 🚀 &lpar;And One That Doesn&#39;t 👀&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6)
+- [Build a Context-Retaining Chatbot with Langchain-Python](https://dev.to/tapobanray/build-a-context-retaining-chatbot-with-langchain-python-6k7)
+- [Why Signal to Noise Ratio Matters When Building Audio Features on the Web](https://dev.to/rijultp/why-signal-to-noise-ratio-matters-when-building-audio-features-on-the-web-3oi7)
+- [What is the Modern Data Stack?](https://dev.to/24mwangi/modern-data-stack-3p6l)
+- [Building an Edge AI Sound Classifier &lpar;Part 3&rpar;: Pico Firmware &amp; Live Demo](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-3-pico-firmware-live-demo-571g)
 <!-- BLOG-POST-LIST:END -->
 
 
