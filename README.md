@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1 - Setting Up A Client Website](https://dev.to/cecilionavarro/1-setting-up-a-client-website-p7l)
-- [SEMANTIC HTML](https://dev.to/jackie-yins/semantic-html-3i0i)
-- [How to Stop Getting Lost in Endless Resources and Stay Focused as a Developer](https://dev.to/kerkox/how-to-stop-getting-lost-in-endless-resources-and-stay-focused-as-a-developer-201m)
-- [Hello gays, I am Patrick. I am looking for a beginner frontend developer to study with. I am a beginner backend developer, welcome anytime](https://dev.to/patrick_sisyph/hello-gays-i-am-patrick-i-am-looking-for-a-beginner-frontend-developer-to-study-with-i-am-a-3495)
+- [Pen Testing Your Mobile Application &lpar;and Its API&rpar;](https://dev.to/jrap/pen-testing-your-mobile-application-and-its-api-4hf2)
+- [🗓️ Do You Struggle With Non-Uniform Date Formats?](https://dev.to/tomjstone/do-you-struggle-with-non-uniform-date-formats-1kk2)
+- [Spot2 CTO&#39;s Tips for Developing](https://dev.to/spot2stackmaster/spot2-ctos-tips-for-developing-587b)
+- [Adam Savage&#39;s Tested: Adam Savage&#39;s Live Streams: Friday, Aug. 29, 2025, at 11 am PT](https://dev.to/maker_youtube/adam-savages-tested-adam-savages-live-streams-friday-aug-29-2025-at-11-am-pt-47me)
 <!-- BLOG-POST-LIST:END -->
 
 
