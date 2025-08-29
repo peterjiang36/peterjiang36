@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bahasa Pemrograman yang Mudah Dipahami Adalah Earl](https://dev.to/dev_nazwashabrina/bahasa-pemrograman-yang-mudah-dipahami-adalah-earl-1d4p)
-- [[Boost]](https://dev.to/rudra_kotak_a5384c2bde19a/-2598)
-- [Core Concepts: Decoding Human Language](https://dev.to/dev_patel_35864ca1db6093c/core-concepts-decoding-human-language-e9i)
-- [Understanding Polymorphism in JavaScript](https://dev.to/henry_messiahtmt_099ca84/understanding-polymorphism-in-javascript-i7n)
+- [SOP:Grafana Dashboard Demo - Windows 11 SOP &amp; Scripts](https://dev.to/yc_lee_53e583a776a9c56e3/sopgrafana-dashboard-demo-windows-11-sop-scripts-5dd3)
+- [Custom WordPress Plugin Development for Ultra High Purity Gas Delivery System Website &lpar;Jewellok&rpar;](https://dev.to/emmaharper20/custom-wordpress-plugin-development-for-ultra-high-purity-gas-delivery-system-website-jewellok-4e9i)
+- [Template Literals Just Landed in Angular 19 — Here’s How to Use Them](https://dev.to/vetriselvan_11/-5h2i)
+- [ActivityResultContract 안전하게 사용하기](https://dev.to/kingori/activityresultcontract-anjeonhage-sayonghagi-34ga)
 <!-- BLOG-POST-LIST:END -->
 
 
