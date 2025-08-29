@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [L&#39;IA dans l&#39;industrie agroalimentaire : Focus sur les PME mondiales &lpar;FR VERSION&rpar;](https://dev.to/vendkura/lia-dans-lindustrie-alimentaire-version-francaise-34gh)
-- [Google&#39;s Guardrailed-AMIE: Human-Guarded AI That Clinicians Trust](https://dev.to/aiwithapex/googles-guardrailed-amie-human-guarded-ai-that-clinicians-trust-mbp)
-- [AI in Food Industry &amp; Hospitality: Global SME Focus &lpar;ENG VERSION&rpar;](https://dev.to/vendkura/ai-in-food-industry-hospitality-global-sme-focus-eng-version-1mga)
-- [Beyond CAP: Understanding the PACELC Theorem in Distributed Systems](https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3)
+- [What is GitHub Actions? A Beginner-Friendly Guide with Examples](https://dev.to/a-k-0047/what-is-github-actions-a-beginner-friendly-guide-with-examples-me)
+- [IGN: Acecraft x Tom and Jerry - Official Crossover Gameplay Trailer](https://dev.to/gg_news/ign-acecraft-x-tom-and-jerry-official-crossover-gameplay-trailer-4kd1)
+- [IGN: Honkai: Nexus Anima - Official &#39;Side by Side&#39; Teaser Trailer](https://dev.to/gg_news/ign-honkai-nexus-anima-official-side-by-side-teaser-trailer-1o22)
+- [Saving Plans e Instancias Reservadas en AWS](https://dev.to/barbara_gaspar/saving-plans-e-instancias-reservadas-en-aws-4jef)
 <!-- BLOG-POST-LIST:END -->
 
 
