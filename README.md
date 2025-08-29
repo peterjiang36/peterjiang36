@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Docker in 3 hours.](https://dev.to/morning_redemption_3940af/learn-docker-in-3-hours-91p)
-- [Part 2: How to Measure Your GPU Utilization](https://dev.to/shohams/part-2-how-to-measure-your-gpu-utilization-nfd)
-- [From Idea to Production: Building a Secure Image Crawler with Kiro&#39;s AI-Powered Development](https://dev.to/amarpreetbhatia/from-idea-to-production-building-a-secure-image-crawler-with-kiros-ai-powered-development-12lc)
-- [Why Error States Define the Quality of Your UI](https://dev.to/maurya-sachin/why-error-states-define-the-quality-of-your-ui-11lc)
+- [GameSpot: Phantom Blade 0 - 29 Minutes of Gameplay &lpar;Gamescom 2025 Demo&rpar;](https://dev.to/gg_news/gamespot-phantom-blade-0-29-minutes-of-gameplay-gamescom-2025-demo-3fjf)
+- [🔥 Stop Writing Boilerplate! How Formik + React Hooks Can Save You 500 Hours This Year 🔥](https://dev.to/ekwoster/stop-writing-boilerplate-how-formik-react-hooks-can-save-you-500-hours-this-year-480c)
+- [AI just killed the coding interview: Why LeetCode won’t get you hired anymore](https://dev.to/dev_tips/ai-just-killed-the-coding-interview-why-leetcode-wont-get-you-hired-anymore-1fd)
+- [This is a submission for the [Midnight Network &quot;Privacy First&quot; Challenge]](https://dev.to/davinceleecode/this-is-a-submission-for-the-midnight-network-privacy-first-challenge-41m1)
 <!-- BLOG-POST-LIST:END -->
 
 
