@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes](https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak)
-- [🎨 Prompt Engineering for Beginners: How to Get Better AI Images](https://dev.to/raksbisht/prompt-engineering-for-beginners-how-to-get-better-ai-images-35c9)
-- [How to Manage Message History in a Chat with React](https://dev.to/werliton/how-to-manage-message-history-in-a-chat-with-react-pl1)
-- [How to Build an Accordion Component in React](https://dev.to/pradnya_hegde_060984c4c23/how-to-build-an-accordion-component-in-react-1ia9)
+- [When people hear I’ve written 40+ books on AI in just over a year, the first question is always: “How do you write so much without burning out?” The answer isn’t coffee or late nights. It’s systems + AI. Here’s my exact behind-the-scenes workflow:](https://dev.to/jaideepparashar/when-people-hear-ive-written-40-books-on-ai-in-just-over-a-year-the-first-question-is-always-11m3)
+- [No Laying Up Podcast: 1063: Mic&#39;d up with Matt Ryan at the Creator Classic](https://dev.to/youtube_golf/no-laying-up-podcast-1063-micd-up-with-matt-ryan-at-the-creator-classic-49b9)
+- [How I Write 2,000+ Words a Day with AI](https://dev.to/jaideepparashar/how-i-write-2000-words-a-day-with-ai-2l30)
+- [A2A &lpar;Agent to Agent&rpar;: Core Concepts](https://dev.to/farhan_khan_41ec7ff11ac1d/a2a-agent-to-agent-core-concepts-2gp2)
 <!-- BLOG-POST-LIST:END -->
 
 
