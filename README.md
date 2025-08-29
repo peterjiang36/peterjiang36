@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Valerie June - Life I Used To Live &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-life-i-used-to-live-live-on-kexp-10kp)
-- [KEXP: Valerie June - All I Really Wanna Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-valerie-june-all-i-really-wanna-do-live-on-kexp-1810)
-- [Log013 - AWS, Debian 13, Fail2ban, Logrotate, Docker, AlmaLinux, Apache, AWS S3, CloudFront, AWS CLI.](https://dev.to/aka_artem_dd17be93c/log013-aws-debian-13-fail2ban-logrotate-docker-almalinux-apache-aws-s3-cloudfront-aws-34j)
-- [The System Didn’t Ask, It Just Made You Comply](https://dev.to/agustin_v_startari/the-system-didnt-ask-it-just-made-you-comply-2h69)
+- [Learn Docker in 3 hours.](https://dev.to/morning_redemption_3940af/learn-docker-in-3-hours-91p)
+- [Part 2: How to Measure Your GPU Utilization](https://dev.to/shohams/part-2-how-to-measure-your-gpu-utilization-nfd)
+- [From Idea to Production: Building a Secure Image Crawler with Kiro&#39;s AI-Powered Development](https://dev.to/amarpreetbhatia/from-idea-to-production-building-a-secure-image-crawler-with-kiros-ai-powered-development-12lc)
+- [Why Error States Define the Quality of Your UI](https://dev.to/maurya-sachin/why-error-states-define-the-quality-of-your-ui-11lc)
 <!-- BLOG-POST-LIST:END -->
 
 
