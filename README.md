@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone want to form a hobby opensource project group for beginners in C# with me?](https://dev.to/ripetide1229/does-anyone-want-to-form-a-hobby-opensource-project-group-for-beginners-in-c-with-me-2jmp)
-- [Angular Migrate To New Control Flow Syntax](https://dev.to/nagarlalit/angular-migrate-to-new-control-flow-syntax-421n)
-- [From Side Project to Full-Fledged Platform: Lessons from Building Modeldraw](https://dev.to/martin-staufcik/from-side-project-to-full-fledged-platform-lessons-from-building-modeldraw-1ep1)
-- [Deploy SvelteKit node servers with docker](https://dev.to/lukehagar/deploy-sveltekit-node-servers-with-docker-1ep7)
+- [Day 16: Halfway Point Victory - Production-Ready CI/CD with Strategic Browser Testing](https://dev.to/clayroach/day-16-halfway-point-victory-production-ready-cicd-with-strategic-browser-testing-2824)
+- [🧠 Using Deductive Reasoning in Programming: Debugging, Design, and Data Logic](https://dev.to/mzunairtariq/using-deductive-reasoning-in-programming-debugging-design-and-data-logic-18hd)
+- [A Dev&#39;s Reflections on AI](https://dev.to/jeffotoni/a-devs-reflections-on-ai-1dp1)
+- [Ética em Inteligência Artificial ?](https://dev.to/jeffotoni/etica-em-inteligencia-artificial--5agl)
 <!-- BLOG-POST-LIST:END -->
 
 
