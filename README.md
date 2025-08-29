@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
-- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
-- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
-- [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
+- [ZK-ID: Privacy-First Identity Verification](https://dev.to/mechon70x7/zk-id-privacy-first-identity-verification-4pgf)
+- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/ajay_patidar_33430369efeb/flowiseai-the-open-source-visual-builder-for-ai-agents-3lkp)
+- [The EU just rolled out the AI Office. Your AI product is now on its compliance radar.](https://dev.to/dev_tips/the-eu-just-rolled-out-the-ai-office-your-ai-product-is-now-on-its-compliance-radar-4c6m)
+- [From Friction to Function: The Real Impact of Adaptive AI Systems](https://dev.to/talweezy/from-friction-to-function-the-real-impact-of-adaptive-ai-systems-4136)
 <!-- BLOG-POST-LIST:END -->
 
 
