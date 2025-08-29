@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Promises, Async, and Await in JavaScript/TypeScript with Playwright and Cypress](https://dev.to/anirseven/demystifying-promises-async-and-await-in-javascripttypescript-with-playwright-and-cypress-2g3i)
-- [🗓 Daily LeetCode Progress – Day 13](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-13-a6o)
-- [How do small teams catch bugs in CI/CD?](https://dev.to/maxify_55555/how-do-small-teams-catch-bugs-in-cicd-fh5)
-- [Production Ready VPS in Minutes](https://dev.to/infms/production-ready-vps-in-minutes-34mn)
+- [⚙️ From Code to Cloud: My DevOps + DevSecOps Journey](https://dev.to/akingbade_omosebi/from-code-to-cloud-my-devops-devsecops-journey-18ca)
+- [How to Securely Connect to Medusa.js Production Database on AWS?](https://dev.to/u11d/how-to-securely-connect-to-medusajs-production-database-on-aws-5efh)
+- [Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler](https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh)
+- [🧠 Solving LeetCode Until I Become Top 1% — Day `70`](https://dev.to/therealrishat/solving-leetcode-until-i-become-top-1-day-70-3o1m)
 <!-- BLOG-POST-LIST:END -->
 
 
