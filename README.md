@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ZK-ID: Privacy-First Identity Verification](https://dev.to/mechon70x7/zk-id-privacy-first-identity-verification-4pgf)
-- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/ajay_patidar_33430369efeb/flowiseai-the-open-source-visual-builder-for-ai-agents-3lkp)
-- [The EU just rolled out the AI Office. Your AI product is now on its compliance radar.](https://dev.to/dev_tips/the-eu-just-rolled-out-the-ai-office-your-ai-product-is-now-on-its-compliance-radar-4c6m)
-- [From Friction to Function: The Real Impact of Adaptive AI Systems](https://dev.to/talweezy/from-friction-to-function-the-real-impact-of-adaptive-ai-systems-4136)
+- [&lt;3 RSS for learning](https://dev.to/johntellsall/3-rss-for-learning-720)
+- [Implementing Semantic HTML Effectively](https://dev.to/stateman_7/implementing-semantic-html-effectively-2jg1)
+- [Spring Boot Fundamentals &lpar;Deep dive for beginners&rpar;](https://dev.to/jps27cse/spring-boot-fundamentals-deep-dive-for-beginners-641)
+- [FlowiseAI - The Open Source Visual Builder for AI Agents](https://dev.to/ajay_patidar_33430369efeb/flowiseai-the-open-source-visual-builder-for-ai-agents-64m)
 <!-- BLOG-POST-LIST:END -->
 
 
