@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16: Halfway Point Victory - Production-Ready CI/CD with Strategic Browser Testing](https://dev.to/clayroach/day-16-halfway-point-victory-production-ready-cicd-with-strategic-browser-testing-2824)
-- [🧠 Using Deductive Reasoning in Programming: Debugging, Design, and Data Logic](https://dev.to/mzunairtariq/using-deductive-reasoning-in-programming-debugging-design-and-data-logic-18hd)
-- [A Dev&#39;s Reflections on AI](https://dev.to/jeffotoni/a-devs-reflections-on-ai-1dp1)
-- [Ética em Inteligência Artificial ?](https://dev.to/jeffotoni/etica-em-inteligencia-artificial--5agl)
+- [Supercharging Your Workflows with Local GitHub Actions](https://dev.to/codenamegrant/supercharging-your-workflows-with-local-github-actions-2o23)
+- [🔄 ETL vs ELT: The Backbone of Data Engineering](https://dev.to/parth_maniar_3012/etl-vs-elt-the-backbone-of-data-engineering-58il)
+- [I Built a 6-Headed AI Intelligence System &lpar;No Subscriptions Required!&rpar;](https://dev.to/jcloud/i-built-a-6-headed-ai-intelligence-system-no-subscriptions-required-a89)
+- [JavaScript One-Liners That Actually Slap 🚀 &lpar;And One That Doesn&#39;t 👀&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6)
 <!-- BLOG-POST-LIST:END -->
 
 
