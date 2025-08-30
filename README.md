@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [揭秘 Nano Banana新玩法：Google 的 AI 图像编辑新王炸](https://dev.to/yang_ella_f2a3e16ccb54550/jie-mi-nano-bananaxin-wan-fa-google-de-ai-tu-xiang-bian-ji-xin-wang-zha-42ml)
-- [Can Minimal APIs use trusted connections?](https://dev.to/rodf/can-minimal-apis-use-trusted-connections-lia)
-- [IGN: Tron: Ares - Official Soldier Teaser Trailer &lpar;2025&rpar; Jared Leto, Greta Lee, Jeff Bridges](https://dev.to/gg_news/ign-tron-ares-official-soldier-teaser-trailer-2025-jared-leto-greta-lee-jeff-bridges-2mc)
-- [IGN: Sonic Racing: CrossWorlds - Official Cinematic Animation Trailer &lpar;Warning: Flashing Lights&rpar;](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-cinematic-animation-trailer-warning-flashing-lights-4ab5)
+- [Meet Bugsy, Your AI Web Bug Hunter](https://dev.to/isah_alamin_93d4e4d2ab01f/meet-bugsy-your-ai-web-bug-hunter-4dm3)
+- [Day 12 — Do well by doing good](https://dev.to/nando_rama_67753ecb8e0e6d/day-12-do-well-by-doing-good-16ei)
+- [Cloudformation Custom Resources &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-custom-resources-en-espanol-sencillo-1p17)
+- [🤯 Ditch Redux: Meet redux-lite — the Lightweight, Type-Safe, High-Performance, and Super Easy-to-Use/test State Manager](https://dev.to/old_big_06ee00ac2bb68f727/ditch-redux-meet-redux-lite-the-lightweight-type-safe-high-performance-and-super-2l2a)
 <!-- BLOG-POST-LIST:END -->
 
 
