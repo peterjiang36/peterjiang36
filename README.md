@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
-- [Dojo Models Fundamentals](https://dev.to/sandeep_chauhan_f5476f312/dojo-models-fundamentals-4nkd)
-- [Auto Trend Lines Indicator for MetaTrader 4 &amp; 5](https://dev.to/tradingfindercom/auto-trend-lines-indicator-for-metatrader-4-5-2hi6)
-- [Hello DEV Community – I Build AI Tools &amp; Automations at PixelM Studio](https://dev.to/pixlem_studio_5ba2a926614/hello-dev-community-i-build-ai-tools-automations-at-pixelm-studio-1de4)
+- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
+- [From Arrays to Collections: A Developer’s Guide to Smarter Data Handling in Java](https://dev.to/palak_singla/from-arrays-to-collections-a-developers-guide-to-smarter-data-handling-in-java-3fih)
+- [Building Robust Error Handling in FastAPI – and avoiding rookie mistakes](https://dev.to/buffolander/building-robust-error-handling-in-fastapi-and-avoiding-rookie-mistakes-ifg)
+- [need help with chatgpt](https://dev.to/bg3ananas/need-help-with-chatgpt-344p)
 <!-- BLOG-POST-LIST:END -->
 
 
