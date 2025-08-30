@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Instagram Identify Abnormal Environments by Detecting Browser Plugins, Extensions, or Debugging Tools](https://dev.to/kagome/does-instagram-identify-abnormal-environments-by-detecting-browser-plugins-extensions-or-4gbd)
-- [Integrating BDD with Microservices Testing: A Practical, Human-First Walkthrough](https://dev.to/ronika_kashyap/integrating-bdd-with-microservices-testing-a-practical-human-first-walkthrough-598c)
-- [Step-by-Step Guide to Bypass SSL Pinning with Frida](https://dev.to/r0x5r/step-by-step-guide-to-bypass-ssl-pinning-with-frida-3bpl)
-- [AyeWatch - AI Internet Monitor Agent, for any sources or website with custom alert rules](https://dev.to/raj_savaliya/ayewatch-ai-internet-monitor-scrape-and-monitor-data-from-any-sources-or-website-reliably-at-213e)
+- [Best CSS Tutorial: Roadmap, Tips, and Common Mistakes to Avoid](https://dev.to/tpointtechblog/best-css-tutorial-roadmap-tips-and-common-mistakes-to-avoid-1982)
+- [SECURITY ALERT: Hacker Used AI to Automate $500K Cybercrime Spree - Every Developer Needs to Read This](https://dev.to/shiva_shanker_k/security-alert-hacker-used-ai-to-automate-500k-cybercrime-spree-every-developer-needs-to-read-34ea)
+- [Microsoft Teams Just Dropped 26 Game-Changing Features - Here&#39;s What Developers Need to Know](https://dev.to/shiva_shanker_k/microsoft-teams-just-dropped-26-game-changing-features-heres-what-developers-need-to-know-8c4)
+- [Leetcode - 39. Combination Sum](https://dev.to/rakeshreddy512/leetcode-39-combination-sum-598j)
 <!-- BLOG-POST-LIST:END -->
 
 
