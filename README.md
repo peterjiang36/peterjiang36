@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn Profile Deep Research with Insights + Bright Data Agent Analysis + n8n with Google Gemini](https://dev.to/ranjancse/linkedin-profile-deep-research-with-insights-bright-data-agent-analysis-n8n-with-google-gemini-3i7p)
-- [IGN: The Best GTA Characters, Ranked](https://dev.to/gg_news/ign-the-best-gta-characters-ranked-4ldf)
-- [Essential JavaScript Built-in Functions Every Developer Should Know](https://dev.to/gouranga-das-khulna/essential-javascript-built-in-functions-every-developer-should-know-40gf)
-- [How I Recreated Keynote&#39;s Magic Move with Svelte Snippets](https://dev.to/retrotheft/how-i-recreated-keynotes-magic-move-with-svelte-snippets-2p5)
+- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
+- [Understanding `@State` in SwiftUI: How It Works Under the Hood](https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o)
+- [From C# to Rust: Porting MathFlow to Create MathCore - A Symbolic Math Library Journey](https://dev.to/nonanti/from-c-to-rust-porting-mathflow-to-create-mathcore-a-symbolic-math-library-journey-23gi)
+- [vibe coders welcome](https://dev.to/lukehinds/vibe-coders-welcome-4cfp)
 <!-- BLOG-POST-LIST:END -->
 
 
