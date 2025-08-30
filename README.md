@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Üzerinde RBAC ile Kullanıcı Olusturma ve Yetkilendirme](https://dev.to/suleymanakturk/kubernetes-uzerinde-rbac-ile-kullanici-olusturma-ve-yetkilendirme-4jep)
-- [🔐 Understanding Checksums in Data Transmission with a Real-World API Example](https://dev.to/janmejayswain/understanding-checksums-in-data-transmission-with-a-real-world-api-example-1ff8)
-- [GPT-OSS 20B: The Game-Changing Open AI Model That Runs on Your Laptop](https://dev.to/anandsingh01/gpt-oss-20b-the-game-changing-open-ai-model-that-runs-on-your-laptop-18ha)
-- [Python Journey Log #1](https://dev.to/ramoyald/python-journey-log-1-1f77)
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
+- [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud and DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-and-devops-workflows-16gm)
+- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-29l6)
 <!-- BLOG-POST-LIST:END -->
 
 
