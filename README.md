@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
-- [5 Signs It&#39;s Time to Replace Your PC Instead of Upgrading to Windows 11](https://dev.to/theitserviceblog/5-signs-its-time-to-replace-your-pc-instead-of-upgrading-to-windows-11-3k53)
-- [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
-- [[Boost]](https://dev.to/bekbrace/-51m9)
+- [Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline](https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150)
+- [Dojo Models Fundamentals](https://dev.to/sandeep_chauhan_f5476f312/dojo-models-fundamentals-4nkd)
+- [Auto Trend Lines Indicator for MetaTrader 4 &amp; 5](https://dev.to/tradingfindercom/auto-trend-lines-indicator-for-metatrader-4-5-2hi6)
+- [Hello DEV Community – I Build AI Tools &amp; Automations at PixelM Studio](https://dev.to/pixlem_studio_5ba2a926614/hello-dev-community-i-build-ai-tools-automations-at-pixelm-studio-1de4)
 <!-- BLOG-POST-LIST:END -->
 
 
