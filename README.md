@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Content Security Policy &lpar;CSP&rpar;: A Complete Guide for Developers](https://dev.to/fazal_mansuri_/content-security-policy-csp-a-complete-guide-for-developers-56lp)
-- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
-- [AnyProxy: Redirect Network Requests Without Server Modifications](https://dev.to/youngluo/anyproxy-redirect-network-requests-without-server-modifications-8np)
-- [Retries, Dead Letter Queues &amp; Parking Lot: API Integration Essentials](https://dev.to/dakshim/retries-dead-letter-queues-parking-lot-api-integration-essentials-2g8d)
+- [LinkedIn Profile Deep Research with Insights + Bright Data Agent Analysis + n8n with Google Gemini](https://dev.to/ranjancse/linkedin-profile-deep-research-with-insights-bright-data-agent-analysis-n8n-with-google-gemini-3i7p)
+- [IGN: The Best GTA Characters, Ranked](https://dev.to/gg_news/ign-the-best-gta-characters-ranked-4ldf)
+- [Essential JavaScript Built-in Functions Every Developer Should Know](https://dev.to/gouranga-das-khulna/essential-javascript-built-in-functions-every-developer-should-know-40gf)
+- [How I Recreated Keynote&#39;s Magic Move with Svelte Snippets](https://dev.to/retrotheft/how-i-recreated-keynotes-magic-move-with-svelte-snippets-2p5)
 <!-- BLOG-POST-LIST:END -->
 
 
