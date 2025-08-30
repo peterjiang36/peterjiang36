@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
-- [Agile Is Broken—But Here’s How We Fixed It](https://dev.to/kizilcakartugce/agile-is-broken-but-heres-how-we-fixed-it-41h5)
-- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud and DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-and-devops-workflows-16gm)
-- [DevOps Prerequisites: Mastering Linux Basics for Effective Cloud &amp; DevOps Workflows](https://dev.to/anusha_kuppili/devops-prerequisites-mastering-linux-basics-for-effective-cloud-devops-workflows-29l6)
+- [Creating a dynamic website in 45mins using HTML, CSS and Javascript](https://dev.to/jay-x/creating-a-dynamic-website-in-45mins-using-html-css-and-javascript-21m4)
+- [Generative AI for Business: Beyond ChatGPT - Innovation, Compliance &amp; Use Cases](https://dev.to/zestminds_technologies_c1/generative-ai-for-business-beyond-chatgpt-innovation-compliance-use-cases-34od)
+- [Spring Boot Scheduling Best Practices](https://dev.to/dixitgurv/spring-boot-scheduling-best-practices-503h)
+- [Best Way to Add Schema Markup for Real Estate in Laravel?](https://dev.to/nipe_rich_c693a63904ce877/best-way-to-add-schema-markup-for-real-estate-in-laravel-4e44)
 <!-- BLOG-POST-LIST:END -->
 
 
