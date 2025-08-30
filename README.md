@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: One Move To Help You Pure Every Iron &amp; Hybrid Shot You Hit](https://dev.to/youtube_golf/danny-maude-one-move-to-help-you-pure-every-iron-hybrid-shot-you-hit-7of)
-- [I built an app for travelers to explore dishes from around the world. Would love feedback!](https://dev.to/slim_bold/i-built-an-app-for-travelers-to-explore-dishes-from-around-the-world-would-love-feedback-2i66)
-- [Industry 4.0 for SMEs: Making Digital Transformation Affordable](https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc)
-- [Getting higher accuracy with deep learning models](https://dev.to/perfex_uiop/getting-higher-accuracy-with-deep-learning-models-94n)
+- [Does Instagram Identify Abnormal Environments by Detecting Browser Plugins, Extensions, or Debugging Tools](https://dev.to/kagome/does-instagram-identify-abnormal-environments-by-detecting-browser-plugins-extensions-or-4gbd)
+- [Integrating BDD with Microservices Testing: A Practical, Human-First Walkthrough](https://dev.to/ronika_kashyap/integrating-bdd-with-microservices-testing-a-practical-human-first-walkthrough-598c)
+- [Step-by-Step Guide to Bypass SSL Pinning with Frida](https://dev.to/r0x5r/step-by-step-guide-to-bypass-ssl-pinning-with-frida-3bpl)
+- [AyeWatch - AI Internet Monitor Agent, for any sources or website with custom alert rules](https://dev.to/raj_savaliya/ayewatch-ai-internet-monitor-scrape-and-monitor-data-from-any-sources-or-website-reliably-at-213e)
 <!-- BLOG-POST-LIST:END -->
 
 
