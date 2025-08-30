@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Bugsy, Your AI Web Bug Hunter](https://dev.to/isah_alamin_93d4e4d2ab01f/meet-bugsy-your-ai-web-bug-hunter-4dm3)
-- [Day 12 — Do well by doing good](https://dev.to/nando_rama_67753ecb8e0e6d/day-12-do-well-by-doing-good-16ei)
-- [Cloudformation Custom Resources &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/cloudformation-custom-resources-en-espanol-sencillo-1p17)
-- [🤯 Ditch Redux: Meet redux-lite — the Lightweight, Type-Safe, High-Performance, and Super Easy-to-Use/test State Manager](https://dev.to/old_big_06ee00ac2bb68f727/ditch-redux-meet-redux-lite-the-lightweight-type-safe-high-performance-and-super-2l2a)
+- [How to Identify Recursion Problems in Coding Interviews](https://dev.to/devcorner/how-to-identify-recursion-problems-in-coding-interviews-5d03)
+- [Recursion vs Dynamic Programming: How to Identify the Right Approach](https://dev.to/devcorner/recursion-vs-dynamic-programming-how-to-identify-the-right-approach-3f60)
+- [GameSpot: Phantom Blade 0 - Hard Mode, Combat, And More Explained](https://dev.to/gg_news/gamespot-phantom-blade-0-hard-mode-combat-and-more-explained-36mo)
+- [IGN: Walker - Official Announcement Trailer](https://dev.to/gg_news/ign-walker-official-announcement-trailer-28pj)
 <!-- BLOG-POST-LIST:END -->
 
 
