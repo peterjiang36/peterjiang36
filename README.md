@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a dynamic website in 45mins using HTML, CSS and Javascript](https://dev.to/jay-x/creating-a-dynamic-website-in-45mins-using-html-css-and-javascript-21m4)
-- [Generative AI for Business: Beyond ChatGPT - Innovation, Compliance &amp; Use Cases](https://dev.to/zestminds_technologies_c1/generative-ai-for-business-beyond-chatgpt-innovation-compliance-use-cases-34od)
-- [Spring Boot Scheduling Best Practices](https://dev.to/dixitgurv/spring-boot-scheduling-best-practices-503h)
-- [Best Way to Add Schema Markup for Real Estate in Laravel?](https://dev.to/nipe_rich_c693a63904ce877/best-way-to-add-schema-markup-for-real-estate-in-laravel-4e44)
+- [Semantic html for Search Engine Optimization&lpar;SEO&rpar; and Accessibility.](https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm)
+- [🔥Major Update !](https://dev.to/asad_rafi1221/major-update--25dc)
+- [A version control tutorial with jj: Submit and Perfect Your PR](https://dev.to/altariarite/a-version-control-workflow-with-jj-submit-and-perfect-your-pr-3l63)
+- [&quot;Rust and TypeScript&quot;](https://dev.to/gautammanak1/rust-and-typescript-4h3d)
 <!-- BLOG-POST-LIST:END -->
 
 
