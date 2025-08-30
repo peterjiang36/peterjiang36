@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MetalEAGLLayer](https://dev.to/maxnxi/metaleagllayer-5d0l)
-- [From Arrays to Collections: A Developer’s Guide to Smarter Data Handling in Java](https://dev.to/palak_singla/from-arrays-to-collections-a-developers-guide-to-smarter-data-handling-in-java-3fih)
-- [Building Robust Error Handling in FastAPI – and avoiding rookie mistakes](https://dev.to/buffolander/building-robust-error-handling-in-fastapi-and-avoiding-rookie-mistakes-ifg)
-- [need help with chatgpt](https://dev.to/bg3ananas/need-help-with-chatgpt-344p)
+- [Kubernetes Üzerinde RBAC ile Kullanıcı Olusturma ve Yetkilendirme](https://dev.to/suleymanakturk/kubernetes-uzerinde-rbac-ile-kullanici-olusturma-ve-yetkilendirme-4jep)
+- [🔐 Understanding Checksums in Data Transmission with a Real-World API Example](https://dev.to/janmejayswain/understanding-checksums-in-data-transmission-with-a-real-world-api-example-1ff8)
+- [GPT-OSS 20B: The Game-Changing Open AI Model That Runs on Your Laptop](https://dev.to/anandsingh01/gpt-oss-20b-the-game-changing-open-ai-model-that-runs-on-your-laptop-18ha)
+- [Python Journey Log #1](https://dev.to/ramoyald/python-journey-log-1-1f77)
 <!-- BLOG-POST-LIST:END -->
 
 
