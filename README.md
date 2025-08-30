@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: The Conjuring Universe Timeline in Chronological Order &lpar;2025 Edition&rpar;](https://dev.to/gg_news/ign-the-conjuring-universe-timeline-in-chronological-order-2025-edition-1adn)
-- [IGN: Comix Zero - 26 Minutes of Gameplay](https://dev.to/gg_news/ign-comix-zero-26-minutes-of-gameplay-4b97)
-- [Implement keyboard shortcuts in your react app](https://dev.to/lalitkhu/implement-keyboard-shortcuts-in-your-react-app-475c)
-- [Continuous Feedback with Digma: How to Enhance Your Development in IntelliJ IDEA](https://dev.to/janmejay_swain/continuous-feedback-with-digma-how-to-enhance-your-development-in-intellij-idea-17gn)
+- [AI vs ML vs MLOps: A Developer’s Roadmap to Getting Started](https://dev.to/hellonehha/ai-vs-ml-vs-mlops-a-developers-roadmap-to-getting-started-14pi)
+- [5 Signs It&#39;s Time to Replace Your PC Instead of Upgrading to Windows 11](https://dev.to/theitserviceblog/5-signs-its-time-to-replace-your-pc-instead-of-upgrading-to-windows-11-3k53)
+- [why do developers leave coding today altogether ?](https://dev.to/bekbrace/why-do-developers-leave-coding-today-altogether--2f56)
+- [[Boost]](https://dev.to/bekbrace/-51m9)
 <!-- BLOG-POST-LIST:END -->
 
 
