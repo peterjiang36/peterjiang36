@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with AWS: Building and Securing a 3-Tier Web App](https://dev.to/ajithmanmu/hands-on-with-aws-building-and-securing-a-3-tier-web-app-1fjb)
-- [Deconstructing gin.Context: More Than Just a Context](https://dev.to/leapcell/deconstructing-gincontext-more-than-just-a-context-4nd0)
-- [Daily DSA and System Design Journal - 2](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-2-52c7)
-- [10 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/10-open-source-tools-every-developer-should-know-559p)
+- [揭秘 Nano Banana新玩法：Google 的 AI 图像编辑新王炸](https://dev.to/yang_ella_f2a3e16ccb54550/jie-mi-nano-bananaxin-wan-fa-google-de-ai-tu-xiang-bian-ji-xin-wang-zha-42ml)
+- [Can Minimal APIs use trusted connections?](https://dev.to/rodf/can-minimal-apis-use-trusted-connections-lia)
+- [IGN: Tron: Ares - Official Soldier Teaser Trailer &lpar;2025&rpar; Jared Leto, Greta Lee, Jeff Bridges](https://dev.to/gg_news/ign-tron-ares-official-soldier-teaser-trailer-2025-jared-leto-greta-lee-jeff-bridges-2mc)
+- [IGN: Sonic Racing: CrossWorlds - Official Cinematic Animation Trailer &lpar;Warning: Flashing Lights&rpar;](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-cinematic-animation-trailer-warning-flashing-lights-4ab5)
 <!-- BLOG-POST-LIST:END -->
 
 
