@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #213](https://dev.to/aws/aws-open-source-newsletter-213-33g5)
-- [Understanding `@State` in SwiftUI: How It Works Under the Hood](https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o)
-- [From C# to Rust: Porting MathFlow to Create MathCore - A Symbolic Math Library Journey](https://dev.to/nonanti/from-c-to-rust-porting-mathflow-to-create-mathcore-a-symbolic-math-library-journey-23gi)
-- [vibe coders welcome](https://dev.to/lukehinds/vibe-coders-welcome-4cfp)
+- [IGN: The Conjuring Universe Timeline in Chronological Order &lpar;2025 Edition&rpar;](https://dev.to/gg_news/ign-the-conjuring-universe-timeline-in-chronological-order-2025-edition-1adn)
+- [IGN: Comix Zero - 26 Minutes of Gameplay](https://dev.to/gg_news/ign-comix-zero-26-minutes-of-gameplay-4b97)
+- [Implement keyboard shortcuts in your react app](https://dev.to/lalitkhu/implement-keyboard-shortcuts-in-your-react-app-475c)
+- [Continuous Feedback with Digma: How to Enhance Your Development in IntelliJ IDEA](https://dev.to/janmejay_swain/continuous-feedback-with-digma-how-to-enhance-your-development-in-intellij-idea-17gn)
 <!-- BLOG-POST-LIST:END -->
 
 
