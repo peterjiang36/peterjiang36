@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily DSA and System Design Journal - 3](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-3-2ech)
-- [Find the Next Instagram Stars Before They Explode: AI-Powered Growth Predictor](https://dev.to/vec21/find-the-next-instagram-stars-before-they-explode-ai-powered-growth-predictor-4f7c)
-- [Horizon World Tutorial - Maze Runner - Part 2 - Game and Player Controller](https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-2-game-and-player-controller-fo7)
-- [AltSchool Of Engineering Tinyuka’24 Month 6 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-6-week-4-5057)
+- [I Like To Make Stuff: Making a Mobile Gear Library from JUNK!](https://dev.to/maker_youtube/i-like-to-make-stuff-making-a-mobile-gear-library-from-junk-lnf)
+- [The sunctuary](https://dev.to/amara_olive_f3a0fd962cd40/the-sunctuary-32dh)
+- [The COUNT&lpar;DISTINCT&rpar; Problem in Postgres &lpar;and How HLL Fixes It&rpar;](https://dev.to/ismaelvacco/the-countdistinct-problem-in-postgres-and-how-hll-fixes-it-121f)
+- [Top 10 AWS Services Every Developer Should Know in 2025](https://dev.to/mariehposa/top-10-aws-services-every-developer-should-know-in-2025-f1h)
 <!-- BLOG-POST-LIST:END -->
 
 
