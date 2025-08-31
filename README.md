@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/alain_alvarezcaignet_148/hello-peg)
-- [Understanding Rate Limiting: 5 Essential Algorithms for Protecting Your APIs day 41 of sytem design Basics](https://dev.to/vincenttommi/understanding-rate-limiting-5-essential-algorithms-for-protecting-your-apis-day-41-of-sytem-design-b54)
-- [The Chadstrum: Rethinking Compiled vs Interpreted Languages](https://dev.to/m13ha/the-chadstrum-rethinking-compiled-vs-interpreted-languages-43ha)
-- [RealEstate Intelligence Agent - Property Market Monitor Powered by n8n &amp; Bright Data](https://dev.to/abhinandan-r/realestate-intelligence-agent-property-market-monitor-powered-by-n8n-bright-data-4240)
+- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
+- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
+- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
+- [Ton IA, c&#39;est comme une pote sortie du congélo !](https://dev.to/oclka/ton-ia-cest-comme-une-pote-sortie-du-congelo--e99)
 <!-- BLOG-POST-LIST:END -->
 
 
