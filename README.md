@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Like To Make Stuff: Making a Mobile Gear Library from JUNK!](https://dev.to/maker_youtube/i-like-to-make-stuff-making-a-mobile-gear-library-from-junk-lnf)
-- [The sunctuary](https://dev.to/amara_olive_f3a0fd962cd40/the-sunctuary-32dh)
-- [The COUNT&lpar;DISTINCT&rpar; Problem in Postgres &lpar;and How HLL Fixes It&rpar;](https://dev.to/ismaelvacco/the-countdistinct-problem-in-postgres-and-how-hll-fixes-it-121f)
-- [Top 10 AWS Services Every Developer Should Know in 2025](https://dev.to/mariehposa/top-10-aws-services-every-developer-should-know-in-2025-f1h)
+- [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
+- [Mengenal Perintah jika dan tanya di Earl](https://dev.to/dev_nazwashabrina/mengenal-perintah-jika-dan-tanya-di-earl-4c74)
+- [Shopify Webhooks: The Complete Guide for Developers](https://dev.to/robbiecahill/shopify-webhooks-the-complete-guide-for-developers-3919)
+- [GitHub Webhook: A Complete Guide to Automation](https://dev.to/robbiecahill/github-webhook-a-complete-guide-to-automation-3dg7)
 <!-- BLOG-POST-LIST:END -->
 
 
