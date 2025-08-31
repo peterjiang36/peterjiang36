@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Scrolling — This AI Agent Delivers the News &amp; What’s Next](https://dev.to/revis047/stop-scrolling-this-ai-agent-delivers-the-news-whats-next-2ea6)
-- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
-- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
-- [Solving “No Space Left on Device” with a Little Bit of AWS Trick](https://dev.to/lovestaco/solving-no-space-left-on-device-with-a-little-bit-of-aws-trick-ced)
+- [Automating Travel Planning with n8n and Real-time scrape using Bright Data](https://dev.to/masud_ali_cc66779de0c2b2/automating-travel-planning-with-n8n-and-real-time-scrape-using-bright-data-2ao4)
+- [Core JavaScript - Expert Level Revision](https://dev.to/anmshpndy/core-javascript-expert-level-revision-42a2)
+- [Build a .NET Core Web API in minutes with AKSCodeNavAI &lpar;Visual Studio Extension&rpar;](https://dev.to/anup_kumar_51d4c4360384d4/build-a-net-core-web-api-in-minutes-with-akscodenavai-visual-studio-extension-3gok)
+- [LLMOps vs MLOps: What Every Developer Needs to Know in 2025](https://dev.to/gangatharan_gurusamy_22fb/llmops-vs-mlops-what-every-developer-needs-to-know-in-2025-24k4)
 <!-- BLOG-POST-LIST:END -->
 
 
