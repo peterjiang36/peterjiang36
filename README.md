@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built my own note-taking app as a student — now I’d love to build it further with you](https://dev.to/smaug6739/i-built-my-own-note-taking-app-as-a-student-now-id-love-to-build-it-further-with-you-3pnp)
-- [IGN: Stalker 2 On PS5 Vs. Xbox - How Different Are They?](https://dev.to/gg_news/ign-stalker-2-on-ps5-vs-xbox-how-different-are-they-2hbm)
-- [Introduction to MongoDB and NoSQL — Day 1](https://dev.to/shifa_2/introduction-to-mongodb-and-nosql-day-1-210i)
-- [13 Game-Changing Performance Fixes Every Front-End Developer Should Know](https://dev.to/gouranga-das-khulna/13-game-changing-performance-fixes-every-front-end-developer-should-know-3gj8)
+- [Implement @solana/kit in React + Wallet Standard](https://dev.to/propratik1405/implement-solanakit-in-react-wallet-standard-2lnj)
+- [Using Claude Sonnet 4&#39;s 1M Context Window on Amazon Bedrock](https://dev.to/zhizhiarv/using-claude-sonnet-4s-1m-context-window-on-amazon-bedrock-3eld)
+- [আমার বিজনেস](https://dev.to/mdashraful_haqedulon_ed/aamaar-bijnes-did)
+- [Zero Trust Architecture: The Future of Cybersecurity](https://dev.to/aasik_20409e3305686b324ec/zero-trust-architecture-the-future-of-cybersecurity-560b)
 <!-- BLOG-POST-LIST:END -->
 
 
