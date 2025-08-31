@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Figma-to-n8n “Ninja Move”: Zero-Touch Asset Sync &lpar;with Chat Commands + AI Quality Checks&rpar;](https://dev.to/benbenjamin/the-figma-to-n8n-ninja-move-zero-touch-asset-sync-with-chat-commands-ai-quality-checks-50m8)
-- [5 Things I Wish I Knew Before Studying for CompTIA Security+](https://dev.to/leonardkachi/5-things-i-wish-i-knew-before-studying-for-comptia-security-19i)
-- [Purelymail – The Most Cost-Effective Email Provider for Custom Domains](https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56)
-- [DePIN: The Web3 Movement Bringing Blockchain Into the Real World](https://dev.to/digitaldime/depin-the-web3-movement-bringing-blockchain-into-the-real-world-1h0c)
+- [🔍⭐What is a JOIN operation? What’s the difference between INNER JOIN and LEFT JOIN?](https://dev.to/rencberakman/what-is-a-join-operation-whats-the-difference-between-inner-join-and-left-join-2917)
+- [C++ Templates: From Code Duplication to Generic Programming](https://dev.to/bashtech1/c-templates-from-code-duplication-to-generic-programming-h2o)
+- [Fixing User Input Issue in VS Code &lpar;Java&rpar;](https://dev.to/aasik_20409e3305686b324ec/cannot-edit-in-read-only-editor-vs-code-23l1)
+- [Top 7 Digital Finance Innovations in Banking &amp; Payments](https://dev.to/theo_blogs/top-7-digital-finance-innovations-in-banking-payments-172i)
 <!-- BLOG-POST-LIST:END -->
 
 
