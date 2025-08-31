@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
-- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
-- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
-- [Hands On Large Language Model](https://dev.to/aditya_gupta_22e13c9f63a1/hands-on-large-language-model-2nam)
+- [Stop Scrolling — This AI Agent Delivers the News &amp; What’s Next](https://dev.to/revis047/stop-scrolling-this-ai-agent-delivers-the-news-whats-next-2ea6)
+- [Secure Your .NET 8 APIs in Minutes with OpenIddict: A Minimalist&#39;s Guide](https://dev.to/abdecoder/secure-your-net-8-apis-in-minutes-with-openiddict-a-minimalists-guide-2bog)
+- [Who is a senior developer?](https://dev.to/dobrenteiistvan/who-is-a-senior-developer-5di8)
+- [Solving “No Space Left on Device” with a Little Bit of AWS Trick](https://dev.to/lovestaco/solving-no-space-left-on-device-with-a-little-bit-of-aws-trick-ced)
 <!-- BLOG-POST-LIST:END -->
 
 
