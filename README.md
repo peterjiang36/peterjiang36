@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
-- [GZip in Rest APi](https://dev.to/sadiul_hakim/gzip-in-rest-api-4k0e)
-- [Can You Recognize a Deepfake? Here’s What You Need to Know!](https://dev.to/hr21don/can-you-recognize-a-deepfake-heres-what-you-need-to-know-3jp4)
-- [Kubernetes to RDS: secure connections via IAM roles without passwords](https://dev.to/aws-builders/kubernetes-to-rds-secure-connections-via-iam-roles-without-passwords-44hd)
+- [I built my own note-taking app as a student — now I’d love to build it further with you](https://dev.to/smaug6739/i-built-my-own-note-taking-app-as-a-student-now-id-love-to-build-it-further-with-you-3pnp)
+- [IGN: Stalker 2 On PS5 Vs. Xbox - How Different Are They?](https://dev.to/gg_news/ign-stalker-2-on-ps5-vs-xbox-how-different-are-they-2hbm)
+- [Introduction to MongoDB and NoSQL — Day 1](https://dev.to/shifa_2/introduction-to-mongodb-and-nosql-day-1-210i)
+- [13 Game-Changing Performance Fixes Every Front-End Developer Should Know](https://dev.to/gouranga-das-khulna/13-game-changing-performance-fixes-every-front-end-developer-should-know-3gj8)
 <!-- BLOG-POST-LIST:END -->
 
 
