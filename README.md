@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello everybody out there using React](https://dev.to/jonmatum/hello-everybody-out-there-using-react-7p0)
-- [Mengenal Perintah jika dan tanya di Earl](https://dev.to/dev_nazwashabrina/mengenal-perintah-jika-dan-tanya-di-earl-4c74)
-- [Shopify Webhooks: The Complete Guide for Developers](https://dev.to/robbiecahill/shopify-webhooks-the-complete-guide-for-developers-3919)
-- [GitHub Webhook: A Complete Guide to Automation](https://dev.to/robbiecahill/github-webhook-a-complete-guide-to-automation-3dg7)
+- [Backend Logic Made Easy: How I Built a Clean User Registration API](https://dev.to/yuktisays/backend-logic-made-easy-how-i-built-a-clean-user-registration-api-4io6)
+- [The Moral Machine: Ethics in AI and the Rise of MLOps](https://dev.to/dev_patel_35864ca1db6093c/the-moral-machine-ethics-in-ai-and-the-rise-of-mlops-2of1)
+- [The Rise of Hugging Face: How One Company Democratized AI and Transformed Machine Learning](https://dev.to/philipjohnbasile/the-rise-of-hugging-face-how-one-company-democratized-ai-and-transformed-machine-learning-2lmp)
+- [The truth is, AI isn’t here to replace developers; it’s here to accelerate it. If used correctly, developers can learn faster, deeper, and with more confidence.](https://dev.to/jaideepparashar/the-truth-is-ai-isnt-here-to-replace-developers-its-here-to-accelerate-it-if-used-correctly-pi9)
 <!-- BLOG-POST-LIST:END -->
 
 
