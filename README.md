@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
-- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
-- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
-- [Attack of the Messy Queries: Rise of the Query Builder](https://dev.to/killallskywalker/attack-of-the-messy-queries-rise-of-the-query-builder-4ljf)
+- [Unity vs Unreal vs Godot: Finding Your Perfect Game Engine in 2025](https://dev.to/philipjohnbasile/unity-vs-unreal-vs-godot-finding-your-perfect-game-engine-in-2025-1ck9)
+- [30 Days Of Code- Day 30](https://dev.to/akshitaexe/30-days-of-code-day-30-3kdd)
+- [Instant AI Text Enhancements in React with prompt-my-client-react](https://dev.to/rajanlagah/instant-ai-text-enhancements-in-react-with-prompt-my-client-react-4gpp)
+- [Hands On Large Language Model](https://dev.to/aditya_gupta_22e13c9f63a1/hands-on-large-language-model-2nam)
 <!-- BLOG-POST-LIST:END -->
 
 
