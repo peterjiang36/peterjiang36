@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar; Explained in 20 Minutes](https://dev.to/shyam_sundermittal_4242c/model-context-protocol-mcp-explained-in-20-minutes-o17)
-- [Introduction to Loans](https://dev.to/madgan95/introduction-to-loans-2n1a)
-- [From Python Developer to SaaS Founder: My Next Move](https://dev.to/code_2/from-python-developer-to-saas-founder-my-next-move-n90)
-- [Life as a Software Engineer Today: Balancing Work, Learning, and Life](https://dev.to/janmejayswain/life-as-a-software-engineer-today-balancing-work-learning-and-life-1nc4)
+- [Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations](https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3)
+- [RankGap: Multi-Agent Amazon SEO &amp; Product Visibility Analyzer](https://dev.to/better-boy/rankgap-multi-agent-amazon-seo-product-visibility-analyzer-2h81)
+- [Furniture Image Classification Using TypeScript + BilberryDB SDK vs. No-Code Approach](https://dev.to/ravinthiran_partheepan_4e/furniture-image-classification-using-typescript-bilberrydb-sdk-vs-no-code-approach-2a4g)
+- [SQL 注入、权限提升与 WebShell实战](https://dev.to/ctkqiang/sql-zhu-ru-quan-xian-ti-sheng-yu-webshellshi-zhan-5d0m)
 <!-- BLOG-POST-LIST:END -->
 
 
