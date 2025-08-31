@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Human–Computer Interaction: A Developer’s Perspective](https://dev.to/smmaruph/human-computer-interaction-a-developers-perspective-27m)
-- [⚡️ Angular 20 : Vitest natif &lpar;zoneless&rpar; - remplacez Jasmine/Karma](https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3)
-- [Trading Guide: Crypto, Forex, &amp; Saham untuk Pemula](https://dev.to/andinugroho/trading-guide-crypto-forex-saham-untuk-pemula-2lnh)
-- [AI in Software Development: Boosting or Slowing Your Productivity](https://dev.to/empiree/ai-in-software-development-boosting-or-slowing-your-productivity-fkl)
+- [Adam Savage&#39;s Tested: Adam Savage Wishes the News Would Cover This Subject](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-wishes-the-news-would-cover-this-subject-1d8h)
+- [🔥 DOM is Dead? How React&#39;s New Compiler Will Change Everything &lpar;And What You Should Do Now&rpar;](https://dev.to/ekwoster/dom-is-dead-how-reacts-new-compiler-will-change-everything-and-what-you-should-do-now-ph)
+- [IGN: Donkey Kong Bananza - All Style Options and Outfits &lpar;4K&rpar;](https://dev.to/gg_news/ign-donkey-kong-bananza-all-style-options-and-outfits-4k-4a52)
+- [Attack of the Messy Queries: Rise of the Query Builder](https://dev.to/killallskywalker/attack-of-the-messy-queries-rise-of-the-query-builder-4ljf)
 <!-- BLOG-POST-LIST:END -->
 
 
