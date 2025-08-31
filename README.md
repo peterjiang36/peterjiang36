@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍⭐What is a JOIN operation? What’s the difference between INNER JOIN and LEFT JOIN?](https://dev.to/rencberakman/what-is-a-join-operation-whats-the-difference-between-inner-join-and-left-join-2917)
-- [C++ Templates: From Code Duplication to Generic Programming](https://dev.to/bashtech1/c-templates-from-code-duplication-to-generic-programming-h2o)
-- [Fixing User Input Issue in VS Code &lpar;Java&rpar;](https://dev.to/aasik_20409e3305686b324ec/cannot-edit-in-read-only-editor-vs-code-23l1)
-- [Top 7 Digital Finance Innovations in Banking &amp; Payments](https://dev.to/theo_blogs/top-7-digital-finance-innovations-in-banking-payments-172i)
+- [Throughput vs. Latency: The Optimization Dilemma](https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h)
+- [GZip in Rest APi](https://dev.to/sadiul_hakim/gzip-in-rest-api-4k0e)
+- [Can You Recognize a Deepfake? Here’s What You Need to Know!](https://dev.to/hr21don/can-you-recognize-a-deepfake-heres-what-you-need-to-know-3jp4)
+- [Kubernetes to RDS: secure connections via IAM roles without passwords](https://dev.to/aws-builders/kubernetes-to-rds-secure-connections-via-iam-roles-without-passwords-44hd)
 <!-- BLOG-POST-LIST:END -->
 
 
