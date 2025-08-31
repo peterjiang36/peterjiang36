@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Automated Publishing to dev.to](https://dev.to/zhizhiarv/testing-automated-publishing-to-devto-38h2)
-- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-27fn)
-- [30D2R - August: Active Directory](https://dev.to/sshad0w/30d2r-august-active-directory-2c8b)
-- [React Conditional Rendering](https://dev.to/nouribram/react-conditional-rendering-4odn)
+- [How I created a research agent with langflow](https://dev.to/anuroopvj/how-i-created-a-research-agent-with-langflow-4e1g)
+- [🧐How to AI code review for free &lpar;PR-Agent&rpar;🧠](https://dev.to/webdeveloperhyper/how-to-ai-code-review-for-free-pr-agent-1i8n)
+- [How to Persist Tool Permissions in Amazon Q Developer CLI](https://dev.to/zhizhiarv/how-to-persist-tool-permissions-in-amazon-q-developer-cli-18fl)
+- [✨ From Groceries to Game Arcs ✨](https://dev.to/cutieyunnytech/from-groceries-to-game-arcs-41fp)
 <!-- BLOG-POST-LIST:END -->
 
 
