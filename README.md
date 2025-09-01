@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
-- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
-- [[Boost]](https://dev.to/semmat/-821)
-- [How I put clouds in my portfolio and why?](https://dev.to/akashleo/how-i-put-clouds-in-my-portfolio-and-why-b9m)
+- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
+- [Getting Started with SvelteKit: Setup, Project Structure &amp; First App](https://dev.to/a1guy/getting-started-with-sveltekit-setup-project-structure-first-app-2jea)
+- [GameSpot: Hell Is Us Review](https://dev.to/gg_news/gamespot-hell-is-us-review-ppm)
+- [Ringer Movies: How To Save Movies With the CEO of AMC Theaters | The Town](https://dev.to/popcorn_movies/ringer-movies-how-to-save-movies-with-the-ceo-of-amc-theaters-the-town-399m)
 <!-- BLOG-POST-LIST:END -->
 
 
