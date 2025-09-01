@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go 1.25: The Container-Native Release](https://dev.to/klaus82/go-125-the-container-native-release-5dfd)
-- [🔍⭐What is a Primary Key and a Foreign Key in a Database?](https://dev.to/rencberakman/what-is-a-primary-key-and-a-foreign-key-in-a-database-1mmk)
-- [Integration Digest for August 2025](https://dev.to/stn1slv/integration-digest-for-august-2025-l1f)
-- [Encrypt secrets stored in etcd with a Key Vault key](https://dev.to/goodluck_ekeoma_2c98866d0/encrypt-secrets-stored-in-etcd-with-a-key-vault-key-j9)
+- [Gen Z and сrypto: a daily ritual](https://dev.to/kubo_sk/gen-z-and-srypto-a-daily-ritual-1jad)
+- [🧠 Understanding Large Language Models &lpar;LLMs&rpar;](https://dev.to/techstuff/understanding-large-language-models-llms-20c0)
+- [[Boost]](https://dev.to/semmat/-821)
+- [How I put clouds in my portfolio and why?](https://dev.to/akashleo/how-i-put-clouds-in-my-portfolio-and-why-b9m)
 <!-- BLOG-POST-LIST:END -->
 
 
