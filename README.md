@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
-- [Enhancing Git Security and Workflow: A Comprehensive Guide to Signed Commits and a Linear History](https://dev.to/it-wibrc/enhancing-git-security-and-workflow-a-comprehensive-guide-to-signed-commits-and-a-linear-history-4ih0)
-- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
-- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
+- [Meme Monday](https://dev.to/ben/meme-monday-4532)
+- [KEXP: Optometry - Comets &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-comets-live-on-kexp-1i8p)
+- [KEXP: Optometry - Not What You Expected &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-not-what-you-expected-live-on-kexp-18io)
+- [KEXP: Optometry - 99 &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-99-live-on-kexp-54o9)
 <!-- BLOG-POST-LIST:END -->
 
 
