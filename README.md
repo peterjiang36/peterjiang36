@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inheritance@1](https://dev.to/ajayr18/inheritance1-54o2)
-- [Qwen Code v0.0.8 Major Release: Deep Integration with VS Code](https://dev.to/lamri_abdellahramdane_15/qwen-code-v008-major-release-deep-integration-with-vs-code-if4)
-- [DOM Methods and Properties](https://dev.to/dev_anantharul_1746a25af/dom-methods-and-properties-h5a)
-- [Restic vs Rclone vs Rsync: Choosing the Right Tool for Backups](https://dev.to/lovestaco/restic-vs-rclone-vs-rsync-choosing-the-right-tool-for-backups-gn9)
+- [An Introduction to n8n and AI Agents for Practical Automation](https://dev.to/rijultp/an-introduction-to-n8n-and-ai-agents-for-practical-automation-27f9)
+- [Pruning open PRs, trying to get to inbox zero on the project.](https://dev.to/ben/pruning-open-prs-trying-to-get-to-inbox-zero-on-the-project-3l8p)
+- [Use `chan os.Signal` to Manage OS Signals in Go](https://dev.to/leapcell/use-chan-ossignal-to-manage-os-signals-in-go-2na6)
+- [I Turned My 2-Year-Old GitHub PR into This Blog Post &lpar;Using My Own Tool&rpar;](https://dev.to/kaan_karakoc_dev/i-turned-my-2-year-old-github-pr-into-this-blog-post-using-my-own-tool-2iaf)
 <!-- BLOG-POST-LIST:END -->
 
 
