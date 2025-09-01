@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to n8n and AI Agents for Practical Automation](https://dev.to/rijultp/an-introduction-to-n8n-and-ai-agents-for-practical-automation-27f9)
-- [Pruning open PRs, trying to get to inbox zero on the project.](https://dev.to/ben/pruning-open-prs-trying-to-get-to-inbox-zero-on-the-project-3l8p)
-- [Use `chan os.Signal` to Manage OS Signals in Go](https://dev.to/leapcell/use-chan-ossignal-to-manage-os-signals-in-go-2na6)
-- [I Turned My 2-Year-Old GitHub PR into This Blog Post &lpar;Using My Own Tool&rpar;](https://dev.to/kaan_karakoc_dev/i-turned-my-2-year-old-github-pr-into-this-blog-post-using-my-own-tool-2iaf)
+- [AI Repos Hub](https://dev.to/fahadabid545/ai-repos-hub-258)
+- [Mix with the Masters: Mixing Night with Ken Lewis - HARDWARE NIGHT - 9/3/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-hardware-night-932025-37m1)
+- [🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices](https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib)
+- [UNLOCKING THE WEB:HOW SEMANTIC HTML SUPERCHARGES SEO AND ACCESSIBILITY](https://dev.to/ica/unlocking-the-webhow-semantic-html-supercharges-seo-and-accessibility-2j8i)
 <!-- BLOG-POST-LIST:END -->
 
 
