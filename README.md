@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IdeaBot — a YouTube-driven Viral Topic Generator.](https://dev.to/shah_pourazadi_5da55a8db5/ideabot-a-youtube-driven-viral-topic-generator-14bn)
-- [n8n daily email insight generator](https://dev.to/matheusdsantossi/n8n-daily-email-insight-generator-4986)
-- [From Iron Man to n8n: Creating a JARVIS-Like AI Assistant](https://dev.to/victor_lakra_e1910abe17fc/from-iron-man-to-n8n-creating-a-jarvis-like-ai-assistant-37hj)
-- [You Can Now Save Prompts On Cubent](https://dev.to/cubent/you-can-now-save-prompts-on-cubent-4499)
+- [AI SEO Content Brief Agent powered by BrightData &amp; n8n](https://dev.to/tandivina/ai-seo-content-brief-agent-powered-by-brightdata-n8n-1ndb)
+- [💎 ANN: oauth2 v2.0.14](https://dev.to/galtzo/ann-oauth2-v2014-2g52)
+- [Building a Kubernetes Cluster on Raspberry Pi for Home Lab Learning](https://dev.to/caffinecoder54/building-a-kubernetes-cluster-on-raspberry-pi-for-home-lab-learning-39n3)
+- [How to Use a Simple All-in-One Update Script for SafeLine](https://dev.to/carrie_luo1/how-to-use-a-simple-all-in-one-update-script-for-safeline-354f)
 <!-- BLOG-POST-LIST:END -->
 
 
