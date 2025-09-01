@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: The Practical Special Effects of Batman&#39;s Gadgets!](https://dev.to/maker_youtube/adam-savages-tested-the-practical-special-effects-of-batmans-gadgets-480l)
-- [KEXP: Optometry - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-full-performance-live-on-kexp-2e2d)
-- [IGN: Hell is Us - Official &quot;This is Hell Is Us&quot; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-this-is-hell-is-us-overview-trailer-8hp)
-- [IGN: Aegis Force: The Scorian War – Official Demo Announcement Trailer](https://dev.to/gg_news/ign-aegis-force-the-scorian-war-official-demo-announcement-trailer-4dk3)
+- [Setup and Configure SSH on Ubuntu 22.04](https://dev.to/divyanshutiwari_13/setup-and-configure-ssh-on-ubuntu-2204-5d6e)
+- [USE OF SEMANTIC HTML](https://dev.to/iamimani/use-of-semantic-html-1lm)
+- [JavaScript Object Methods — Quick Revision ✨](https://dev.to/usama_dev/javascript-object-methods-quick-revision-588b)
+- [🏰 Легенда о пяти рыцарях SOLID](https://dev.to/easycat/lieghienda-o-piati-rytsariakh-solid-lj2)
 <!-- BLOG-POST-LIST:END -->
 
 
