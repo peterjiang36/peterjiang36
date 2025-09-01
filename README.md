@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI SEO Content Brief Agent powered by BrightData &amp; n8n](https://dev.to/tandivina/ai-seo-content-brief-agent-powered-by-brightdata-n8n-1ndb)
-- [💎 ANN: oauth2 v2.0.14](https://dev.to/galtzo/ann-oauth2-v2014-2g52)
-- [Building a Kubernetes Cluster on Raspberry Pi for Home Lab Learning](https://dev.to/caffinecoder54/building-a-kubernetes-cluster-on-raspberry-pi-for-home-lab-learning-39n3)
-- [How to Use a Simple All-in-One Update Script for SafeLine](https://dev.to/carrie_luo1/how-to-use-a-simple-all-in-one-update-script-for-safeline-354f)
+- [Mark Cuban: AI Implementation Challenges Create Opportunities for Gen Z Innovators](https://dev.to/max_mayer/mark-cuban-ai-implementation-challenges-create-opportunities-for-gen-z-innovators-281g)
+- [🚀 Vyoma for Students – Built by Us, for Us](https://dev.to/pjdeveloper896/vyoma-for-students-built-by-us-for-us-2lg0)
+- [Software development has always been about speed, accuracy, and problem-solving. But today, AI is transforming the way developers work, helping them ship faster, debug smarter, and deliver more value in less time.](https://dev.to/jaideepparashar/software-development-has-always-been-about-speed-accuracy-and-problem-solving-but-today-ai-is-1h40)
+- [How Developers Are Using AI to Deliver More Value in Less Time](https://dev.to/jaideepparashar/how-developers-are-using-ai-to-deliver-more-value-in-less-time-4dmg)
 <!-- BLOG-POST-LIST:END -->
 
 
