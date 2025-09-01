@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Blog 6: Minimum Spanning Tree &lpar;MST&rpar; 🌉](https://dev.to/devcorner/blog-6-minimum-spanning-tree-mst-2hfd)
-- [🏗️ Topological Sort &amp; DAG Problems](https://dev.to/devcorner/topological-sort-dag-problems-1al7)
-- [📘 Blog 3: DFS Pattern &lpar;Path Exploration, Connectivity, Components&rpar; 🌐](https://dev.to/devcorner/blog-3-dfs-pattern-path-exploration-connectivity-components-47af)
-- [📘 Blog 2: BFS Pattern &lpar;Level Order, Shortest Path in Unweighted Graphs&rpar; 🌐](https://dev.to/devcorner/blog-2-bfs-pattern-level-order-shortest-path-in-unweighted-graphs-581m)
+- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
+- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
+- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
+- [KEXP: Optometry - Star Crossed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80)
 <!-- BLOG-POST-LIST:END -->
 
 
