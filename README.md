@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Teach AI to Remember and Share Knowledge?](https://dev.to/kagvi13/how-to-teach-ai-to-remember-and-share-knowledge-3hd9)
-- [Why Building Scalable and Resilient Systems Matters! day 42 of system design basics](https://dev.to/vincenttommi/why-building-scalable-and-resilient-systems-matters-gp5)
-- [A Decade Journey Of A Senior Software Engineer](https://dev.to/holpa/a-decade-journey-of-a-senior-software-engineer-49l7)
-- [Ton IA, c&#39;est comme une pote sortie du congélo !](https://dev.to/oclka/ton-ia-cest-comme-une-pote-sortie-du-congelo--e99)
+- [Auto-Deploy React App with GitHub Actions + AWS](https://dev.to/manujb25/auto-deploy-react-app-with-github-actions-aws-1f59)
+- [Gráfico no Power Apps 📊](https://dev.to/ana_andradegonsalves/grafico-no-power-apps-40d2)
+- [React Design Pattern /Client-side Rendering](https://dev.to/kkr0423/react-design-pattern-client-side-rendering-c3b)
+- [Refactoring 033 - Strip Annotations](https://dev.to/mcsee/refactoring-033-strip-annotations-46mi)
 <!-- BLOG-POST-LIST:END -->
 
 
