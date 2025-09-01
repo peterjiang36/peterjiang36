@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Just Open-Sourced Their Brain &lpar;And It&#39;s Breaking Everything&rpar;](https://dev.to/shiva_shanker_k/openai-just-open-sourced-their-brain-and-its-breaking-everything-4n9)
-- [Flutter 3.35 Just Broke the Web &lpar;In a Good Way&rpar;](https://dev.to/shiva_shanker_k/flutter-335-just-broke-the-web-in-a-good-way-523g)
-- [Perl 🐪 Weekly #736 - NICEPERL](https://dev.to/szabgab/perl-weekly-736-niceperl-hpg)
-- [What Technology Will Replace AI in the Future?](https://dev.to/jahangir_/what-technology-will-replace-ai-in-the-future-1ll3)
+- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
+- [Underfoot: The ChatPot for Hidden Places &lpar;and Why I Don’t Do Hackathons&rpar;](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684)
+- [White Label Telemedicine App: Build Care Faster, Safer, and Under Your Brand](https://dev.to/silvio_dante/white-label-telemedicine-app-build-care-faster-safer-and-under-your-brand-38b)
+- [Brand Perception Monitoring &amp; Sentiment Analysisℹ️](https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1)
 <!-- BLOG-POST-LIST:END -->
 
 
