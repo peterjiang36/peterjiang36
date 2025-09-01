@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Github](https://dev.to/theoriginalbpc/working-with-github-34mm)
-- [Spring AI with Amazon Bedrock - Part 3 Exploring Model Context Protocol SSE transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah)
-- [Django vs Flask vs FastAPI](https://dev.to/atifwattoo/django-vs-flask-vs-fastapi-37n4)
-- [Turn Your Photos into String Art with Code and Creativity 🎨🧵](https://dev.to/_a4789b89e909d6bcb171e/turn-your-photos-into-string-art-with-code-and-creativity-acb)
+- [Adam Savage&#39;s Tested: The Practical Special Effects of Batman&#39;s Gadgets!](https://dev.to/maker_youtube/adam-savages-tested-the-practical-special-effects-of-batmans-gadgets-480l)
+- [KEXP: Optometry - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-full-performance-live-on-kexp-2e2d)
+- [IGN: Hell is Us - Official &quot;This is Hell Is Us&quot; Overview Trailer](https://dev.to/gg_news/ign-hell-is-us-official-this-is-hell-is-us-overview-trailer-8hp)
+- [IGN: Aegis Force: The Scorian War – Official Demo Announcement Trailer](https://dev.to/gg_news/ign-aegis-force-the-scorian-war-official-demo-announcement-trailer-4dk3)
 <!-- BLOG-POST-LIST:END -->
 
 
