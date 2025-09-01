@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maker&#39;s Muse: Building a machine to test 3D printed gears to destruction](https://dev.to/maker_youtube/makers-muse-building-a-machine-to-test-3d-printed-gears-to-destruction-435i)
-- [Maker&#39;s Muse: 3D printing tips I wish I knew when I started](https://dev.to/maker_youtube/makers-muse-3d-printing-tips-i-wish-i-knew-when-i-started-215l)
-- [KEXP: Optometry - Surrender &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-surrender-live-on-kexp-2fed)
-- [KEXP: Optometry - Star Crossed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80)
+- [Working with Github](https://dev.to/theoriginalbpc/working-with-github-34mm)
+- [Spring AI with Amazon Bedrock - Part 3 Exploring Model Context Protocol SSE transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-3-exploring-model-context-protocol-sse-transport-48ah)
+- [Django vs Flask vs FastAPI](https://dev.to/atifwattoo/django-vs-flask-vs-fastapi-37n4)
+- [Turn Your Photos into String Art with Code and Creativity 🎨🧵](https://dev.to/_a4789b89e909d6bcb171e/turn-your-photos-into-string-art-with-code-and-creativity-acb)
 <!-- BLOG-POST-LIST:END -->
 
 
