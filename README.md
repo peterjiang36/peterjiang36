@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy PostgreSQL on a VPS using Docker](https://dev.to/dmdboi/deploy-postgresql-on-a-vps-using-docker-22ej)
-- [Underfoot: The ChatPot for Hidden Places &lpar;and Why I Don’t Do Hackathons&rpar;](https://dev.to/anchildress1/underfoot-the-chatpot-for-hidden-places-and-why-i-dont-do-hackathons-2684)
-- [White Label Telemedicine App: Build Care Faster, Safer, and Under Your Brand](https://dev.to/silvio_dante/white-label-telemedicine-app-build-care-faster-safer-and-under-your-brand-38b)
-- [Brand Perception Monitoring &amp; Sentiment Analysisℹ️](https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1)
+- [Go 1.25: The Container-Native Release](https://dev.to/klaus82/go-125-the-container-native-release-5dfd)
+- [🔍⭐What is a Primary Key and a Foreign Key in a Database?](https://dev.to/rencberakman/what-is-a-primary-key-and-a-foreign-key-in-a-database-1mmk)
+- [Integration Digest for August 2025](https://dev.to/stn1slv/integration-digest-for-august-2025-l1f)
+- [Encrypt secrets stored in etcd with a Key Vault key](https://dev.to/goodluck_ekeoma_2c98866d0/encrypt-secrets-stored-in-etcd-with-a-key-vault-key-j9)
 <!-- BLOG-POST-LIST:END -->
 
 
