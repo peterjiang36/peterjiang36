@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka)
-- [Unsupervised learning: Clustering](https://dev.to/sumeya/unsupervised-learning-clustering-3k61)
-- [The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity](https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-5hda)
-- [Series: From Zero to Hero – DevOps Workflow on Termux](https://dev.to/terminaltools/series-from-zero-to-hero-devops-workflow-on-termux-mcg)
+- [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
+- [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
+- [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
+- [Standardizing API Responses in Django REST Framework with a Custom Response Wrapper](https://dev.to/vincenttommi/standardizing-api-responses-in-django-rest-framework-with-a-custom-response-wrapper-8ii)
 <!-- BLOG-POST-LIST:END -->
 
 
