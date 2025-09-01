@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Cuban: AI Implementation Challenges Create Opportunities for Gen Z Innovators](https://dev.to/max_mayer/mark-cuban-ai-implementation-challenges-create-opportunities-for-gen-z-innovators-281g)
-- [🚀 Vyoma for Students – Built by Us, for Us](https://dev.to/pjdeveloper896/vyoma-for-students-built-by-us-for-us-2lg0)
-- [Software development has always been about speed, accuracy, and problem-solving. But today, AI is transforming the way developers work, helping them ship faster, debug smarter, and deliver more value in less time.](https://dev.to/jaideepparashar/software-development-has-always-been-about-speed-accuracy-and-problem-solving-but-today-ai-is-1h40)
-- [How Developers Are Using AI to Deliver More Value in Less Time](https://dev.to/jaideepparashar/how-developers-are-using-ai-to-deliver-more-value-in-less-time-4dmg)
+- [Understanding DOM Selection Methods in JavaScript](https://dev.to/lakshmi_g_74c225d5ca0b272/understanding-dom-selection-methods-in-javascript-3kj0)
+- [14Forge: League of Legends Analytics Platform Built with n8n AI Agents and BrightData Web Scraping](https://dev.to/ryoto_miyake/14forge-league-of-legends-analytics-platform-built-with-n8n-ai-agents-and-brightdata-web-scraping-573o)
+- [Sales-Ready Company Research Automation using n8n &amp; Bright Data](https://dev.to/himanshi_tolani_4d8c47c84/sales-ready-company-research-automation-using-n8n-bright-data-fbn)
+- [Challenges to adapt AI-based Video Codecs](https://dev.to/rameshanaparti/challenges-to-adapt-ai-based-video-codecs-45dp)
 <!-- BLOG-POST-LIST:END -->
 
 
