@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Launch a High-Performing Website Fast as a Developer](https://dev.to/mehmet_hakantatlici_b3d7/how-to-launch-a-high-performing-website-fast-as-a-developer-o31)
-- [Cracking the Opus: Red Teaming Anthropic’s Giant with Promptfoo](https://dev.to/ayush7614/cracking-the-opus-red-teaming-anthropics-giant-with-promptfoo-jj8)
-- [Day 11 · When Your Chain of Thought Collapses &lpar;ProblemMap No.6&rpar;](https://dev.to/onestardao/day-11-when-your-chain-of-thought-collapses-problemmap-no6-2b7n)
-- [Released Loom v1.0.0 Beta - A fast, minimal text editor.](https://dev.to/trish-xd/released-loom-v100-beta-a-fast-minimal-text-editor-1ang)
+- [IdeaBot — a YouTube-driven Viral Topic Generator.](https://dev.to/shah_pourazadi_5da55a8db5/ideabot-a-youtube-driven-viral-topic-generator-14bn)
+- [n8n daily email insight generator](https://dev.to/matheusdsantossi/n8n-daily-email-insight-generator-4986)
+- [From Iron Man to n8n: Creating a JARVIS-Like AI Assistant](https://dev.to/victor_lakra_e1910abe17fc/from-iron-man-to-n8n-creating-a-jarvis-like-ai-assistant-37hj)
+- [You Can Now Save Prompts On Cubent](https://dev.to/cubent/you-can-now-save-prompts-on-cubent-4499)
 <!-- BLOG-POST-LIST:END -->
 
 
