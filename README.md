@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Your Command Line: A Developer&#39;s Guide to Essential Commands](https://dev.to/vickdapro/master-your-command-line-a-developers-guide-to-essential-commands-443f)
-- [Getting Started with SvelteKit: Setup, Project Structure &amp; First App](https://dev.to/a1guy/getting-started-with-sveltekit-setup-project-structure-first-app-2jea)
-- [GameSpot: Hell Is Us Review](https://dev.to/gg_news/gamespot-hell-is-us-review-ppm)
-- [Ringer Movies: How To Save Movies With the CEO of AMC Theaters | The Town](https://dev.to/popcorn_movies/ringer-movies-how-to-save-movies-with-the-ceo-of-amc-theaters-the-town-399m)
+- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
+- [Enhancing Git Security and Workflow: A Comprehensive Guide to Signed Commits and a Linear History](https://dev.to/it-wibrc/enhancing-git-security-and-workflow-a-comprehensive-guide-to-signed-commits-and-a-linear-history-4ih0)
+- [I Built faynoSync: A Self-Hosted API for Automatic App Updates](https://dev.to/faynosync/i-built-faynosync-a-self-hosted-api-for-automatic-app-updates-4ocg)
+- [# The TCP 3-Way Handshake: How Connections Begin Their Life](https://dev.to/naval_kishorupadhyay_3e9/-the-tcp-3-way-handshake-how-connections-begin-their-life-4mf1)
 <!-- BLOG-POST-LIST:END -->
 
 
