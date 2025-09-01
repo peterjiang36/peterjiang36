@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup and Configure SSH on Ubuntu 22.04](https://dev.to/divyanshutiwari_13/setup-and-configure-ssh-on-ubuntu-2204-5d6e)
-- [USE OF SEMANTIC HTML](https://dev.to/iamimani/use-of-semantic-html-1lm)
-- [JavaScript Object Methods — Quick Revision ✨](https://dev.to/usama_dev/javascript-object-methods-quick-revision-588b)
-- [🏰 Легенда о пяти рыцарях SOLID](https://dev.to/easycat/lieghienda-o-piati-rytsariakh-solid-lj2)
+- [Inheritance@1](https://dev.to/ajayr18/inheritance1-54o2)
+- [Qwen Code v0.0.8 Major Release: Deep Integration with VS Code](https://dev.to/lamri_abdellahramdane_15/qwen-code-v008-major-release-deep-integration-with-vs-code-if4)
+- [DOM Methods and Properties](https://dev.to/dev_anantharul_1746a25af/dom-methods-and-properties-h5a)
+- [Restic vs Rclone vs Rsync: Choosing the Right Tool for Backups](https://dev.to/lovestaco/restic-vs-rclone-vs-rsync-choosing-the-right-tool-for-backups-gn9)
 <!-- BLOG-POST-LIST:END -->
 
 
