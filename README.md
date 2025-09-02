@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Displaying User’s Local Time with DST Adjustment via IP2Location.io](https://dev.to/ip2location/displaying-users-local-time-with-dst-adjustment-via-ip2locationio-12cd)
-- [テトリス 3](https://dev.to/_7848d33420a38c40d/tetorisu-3-14p2)
-- [How to get a stripe MCC &lpar;Merchant code&rpar; with Python](https://dev.to/sayrolivares/how-to-get-a-stripe-mcc-merchant-code-with-python-4m70)
-- [テトリス 2](https://dev.to/_7848d33420a38c40d/tetorisu-2-28nh)
+- [The 10-Line Architecture That Scaled to 50+ Pages](https://dev.to/maurya-sachin/the-10-line-architecture-that-scaled-to-50-pages-4na0)
+- [PostgreSQL vs MySQL: Which One Handles High-Concurrency Continuous Authentication Systems Better?](https://dev.to/xinjie_zou_d67d2805538130/postgresql-vs-mysql-which-one-handles-high-concurrency-continuous-authentication-systems-better-1nab)
+- [Python Lesson 8: From Portal Architect to Soul Forger - Mastering Persistent State with SQLAlchemy](https://dev.to/mysterious_xuanwu_5a00815/python-lesson-8-from-portal-architect-to-soul-forger-mastering-persistent-state-with-sqlalchemy-4669)
+- [🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners](https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20)
 <!-- BLOG-POST-LIST:END -->
 
 
