@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10-Line Architecture That Scaled to 50+ Pages](https://dev.to/maurya-sachin/the-10-line-architecture-that-scaled-to-50-pages-4na0)
-- [PostgreSQL vs MySQL: Which One Handles High-Concurrency Continuous Authentication Systems Better?](https://dev.to/xinjie_zou_d67d2805538130/postgresql-vs-mysql-which-one-handles-high-concurrency-continuous-authentication-systems-better-1nab)
-- [Python Lesson 8: From Portal Architect to Soul Forger - Mastering Persistent State with SQLAlchemy](https://dev.to/mysterious_xuanwu_5a00815/python-lesson-8-from-portal-architect-to-soul-forger-mastering-persistent-state-with-sqlalchemy-4669)
-- [🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners](https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20)
+- [EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ](https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf)
+- [Inside the Hacker’s Playbook: How Your Passwords Are Cracked in 2025](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-how-your-passwords-are-cracked-in-2025-5egk)
+- [Glances vs Top: Which Is the Best Monitoring Tool for Linux Servers?](https://dev.to/letscloud/glances-vs-top-which-is-the-best-monitoring-tool-for-linux-servers-1m4g)
+- [BFF no NestJS: só DTOs, sem entities por favor](https://dev.to/3jacksonsmith/bff-no-nestjs-so-dtos-sem-entities-por-favor-1f62)
 <!-- BLOG-POST-LIST:END -->
 
 
