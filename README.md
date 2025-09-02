@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up SSH Keys on Windows: A Step-by-Step Guide](https://dev.to/duubemmm/set-up-ssh-keys-on-windows-a-step-by-step-guide-43d5)
-- [Software Engineering is Reality Engineering](https://dev.to/kiddo4lyf/software-engineering-is-reality-engineering-2cdn)
-- [AI on Autopilot: Automating Your AI Agents with Symfony Scheduler](https://dev.to/mattleads/ai-on-autopilot-automating-your-ai-agents-with-symfony-scheduler-55f9)
-- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
+- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
+- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
+- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
+- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
 <!-- BLOG-POST-LIST:END -->
 
 
