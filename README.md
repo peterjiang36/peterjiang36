@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Angular 20 Selector-less Components Will Transform Your Development Workflow](https://dev.to/codewithrajat/why-angular-20-selector-less-components-will-transform-your-development-workflow-2edl)
-- [Excited to Join the dev.to Community!](https://dev.to/19ece129_saikatmondal_/excited-to-join-the-devto-community-1c1e)
-- [I Hate Dark Mode !!!!!!!](https://dev.to/masterdevsabith/i-hate-dark-mode--jn7)
-- [The Ultimate Guide to HTTP Status Codes in REST APIs](https://dev.to/gianfcop98/the-ultimate-guide-to-http-status-codes-in-rest-apis-40cp)
+- [Set Up SSH Keys on Windows: A Step-by-Step Guide](https://dev.to/duubemmm/set-up-ssh-keys-on-windows-a-step-by-step-guide-43d5)
+- [Software Engineering is Reality Engineering](https://dev.to/kiddo4lyf/software-engineering-is-reality-engineering-2cdn)
+- [AI on Autopilot: Automating Your AI Agents with Symfony Scheduler](https://dev.to/mattleads/ai-on-autopilot-automating-your-ai-agents-with-symfony-scheduler-55f9)
+- [Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function](https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en)
 <!-- BLOG-POST-LIST:END -->
 
 
