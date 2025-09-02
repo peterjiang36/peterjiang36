@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AtomVM: Setup with Prebuilt Firmware &lpar;ESP32-S3, September 2025&rpar;](https://dev.to/mnishiguchi/getting-started-with-atomvm-setup-with-prebuilt-firmware-esp32-s3-september-2025-4lkj)
-- [AI vs Human Creativity: Pros and Cons for the Future of Memecoins](https://dev.to/good_dev_89ae84ab594b44cf/ai-vs-human-creativity-pros-and-cons-for-the-future-of-memecoins-4p54)
-- [AI-Enhanced Network Monitoring with Python: Detecting Anomalies Before They Become Threats](https://dev.to/jessica_taylor_57f692d5f6/ai-enhanced-network-monitoring-with-python-detecting-anomalies-before-they-become-threats-1686)
-- [Advanced Network Monitoring with Python: Detection, Scoring, and Visualization](https://dev.to/jessica_taylor_57f692d5f6/advanced-network-monitoring-with-python-detection-scoring-and-visualization-h40)
+- [Displaying User’s Local Time with DST Adjustment via IP2Location.io](https://dev.to/ip2location/displaying-users-local-time-with-dst-adjustment-via-ip2locationio-12cd)
+- [テトリス 3](https://dev.to/_7848d33420a38c40d/tetorisu-3-14p2)
+- [How to get a stripe MCC &lpar;Merchant code&rpar; with Python](https://dev.to/sayrolivares/how-to-get-a-stripe-mcc-merchant-code-with-python-4m70)
+- [テトリス 2](https://dev.to/_7848d33420a38c40d/tetorisu-2-28nh)
 <!-- BLOG-POST-LIST:END -->
 
 
