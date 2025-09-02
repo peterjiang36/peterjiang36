@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
-- [Compile-Time and Runtime Polymorphism in Java](https://dev.to/arun_kumar_98/compile-time-and-runtime-polymorphism-in-java-1bch)
-- [Polymorphism](https://dev.to/ajayr18/polymorphism-43ik)
-- [The problem with current API documentation](https://dev.to/chilarai/the-problem-with-current-api-documentation-16h)
+- [Part 3: How to Fix Your GPU Utilization](https://dev.to/shohams/part-3-how-to-fix-your-gpu-utilization-52d4)
+- [How AWS DevOps Can 10x Your Shipping Speed and Turbocharge Team Growth](https://dev.to/heyjoshlee/how-aws-devops-can-10x-your-shipping-speed-and-turbocharge-team-growth-5f8g)
+- [a complete CI/CD learning project for DevOps beginners!](https://dev.to/mohamedelaassal/a-complete-cicd-learning-project-for-devops-beginners-52g7)
+- [Top 6 MySQL Database Management Struggles for Laravel Developers &lpar;And Smart Fixes&rpar;](https://dev.to/drupaladmin/top-6-mysql-database-management-struggles-for-laravel-developers-and-smart-fixes-37cg)
 <!-- BLOG-POST-LIST:END -->
 
 
