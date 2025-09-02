@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily DSA and System Design Journal - 4](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-4-2dn4)
-- [The &quot;Ordinariness&quot; of Tech](https://dev.to/marvinoka4/the-ordinariness-of-tech-33jp)
-- [BDD: Make the Business Write Your Tests](https://dev.to/jerrettdavis/bdd-make-the-business-write-your-tests-27c9)
-- [Standardizing API Responses in Django REST Framework with a Custom Response Wrapper](https://dev.to/vincenttommi/standardizing-api-responses-in-django-rest-framework-with-a-custom-response-wrapper-8ii)
+- [Terraform CDK + Go: Building a Complete Serverless API Project &lpar;Part 1&rpar;](https://dev.to/markgerald/terraform-cdk-go-building-a-complete-serverless-api-project-part-1-1hml)
+- [3D Printing Nerd: FIRST LOOK at the Bambu Lab H2S!](https://dev.to/maker_youtube/3d-printing-nerd-first-look-at-the-bambu-lab-h2s-2h41)
+- [5 AI Startups Reshaping Tech in 2025](https://dev.to/sebastian_reid999/5-ai-startups-reshaping-tech-in-2025-5d61)
+- [Introduction to KEP-5339: Plugin for Credentials in ClusterProfile](https://dev.to/kahirokunn/introduction-to-kep-5339-plugin-for-credentials-in-clusterprofile-36a4)
 <!-- BLOG-POST-LIST:END -->
 
 
