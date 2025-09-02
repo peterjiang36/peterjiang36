@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Eventual Consistency: The CRITICAL Data Loss Trap NO ONE Talks About!](https://dev.to/xuan_56087d315ff4f52254e6/eventual-consistency-the-critical-data-loss-trap-no-one-talks-about-2hon)
-- [IGN: Astro Bot - Official Joyful Limited Edition DualSense Controller Reveal Trailer](https://dev.to/gg_news/ign-astro-bot-official-joyful-limited-edition-dualsense-controller-reveal-trailer-3fhh)
-- [Create a minimal site with Elucid8](https://dev.to/finanalyst/create-a-minimal-site-with-elucid8-1gf8)
-- [Learn Bash Scripting With Me 🚀 - Day 1](https://dev.to/babsarena/learn-bash-scripting-with-me-day-1-1ekd)
+- [PromptOp – Your AI Lab in One Platform](https://dev.to/mourad_baazi_99a44ccf44e5/promptop-your-ai-lab-in-one-platform-2ani)
+- [Making Historical Context Easily Discoverable from Slack with AI - Building slack-explorer-mcp](https://dev.to/shibayu36/making-historical-context-easily-discoverable-from-slack-with-ai-building-slack-explorer-mcp-54jj)
+- [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
+- [Monitoring the Cloud: Learning CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
 <!-- BLOG-POST-LIST:END -->
 
 
