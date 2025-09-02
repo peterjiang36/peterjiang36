@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MY new game i just made for school so i and you can play and have some fun and you can play at home](https://dev.to/redgamer4133/my-new-game-i-just-made-for-school-so-i-can-ply-and-have-some-fun-and-you-can-play-at-home-2nmd)
-- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-1dnm)
-- [Pixels, Tokens, and Grids: Speaking the Same Language in Design and Code](https://dev.to/message/pixels-tokens-and-grids-speaking-the-same-language-in-design-and-code-fc7)
-- [Which Should You Focus on for Placements: DSA or Development?](https://dev.to/avinash201199/which-should-you-focus-on-for-placements-dsa-or-development-4a7o)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4)
+- [ChatGPT Safety: Parental Controls, GPT-5 Routing, and Crisis Handling](https://dev.to/alifar/chatgpt-safety-parental-controls-gpt-5-routing-and-crisis-handling-57n4)
+- [🧪 Test Automation Meetup – September 2025 Karate Beyond API Testing &amp; RPA in Test Automation](https://dev.to/testomatio/test-automation-meetup-september-2025karate-beyond-api-testing-rpa-in-test-automation-136h)
+- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
 <!-- BLOG-POST-LIST:END -->
 
 
