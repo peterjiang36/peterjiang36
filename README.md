@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Samantha Crain - Gumshoe &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-gumshoe-live-on-kexp-aag)
-- [KEXP: Samantha Crain - Dragonfly &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dragonfly-live-on-kexp-p2l)
-- [KEXP: Samantha Crain - Dart &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-dart-live-on-kexp-1f32)
-- [KEXP: Samantha Crain - B-Attitudes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-b-attitudes-live-on-kexp-50dl)
+- [Comparing MCP vs LangChain/ReAct for Chatbots](https://dev.to/om_shree_0709/comparing-mcp-vs-langchainreact-for-chatbots-4ci5)
+- [Literally Everything You Need to Know About System Design](https://dev.to/zorous/literally-everything-you-need-to-know-about-system-design-3a8)
+- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
+- [When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes](https://dev.to/dinindu_suriyamudali_e604/when-your-ai-agent-needs-a-scalpel-not-a-sledgehammer-claude-code-sdk-vs-aws-strands-for-surgical-468l)
 <!-- BLOG-POST-LIST:END -->
 
 
