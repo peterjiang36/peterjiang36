@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform CDK + Go: Building a Complete Serverless API Project &lpar;Part 1&rpar;](https://dev.to/markgerald/terraform-cdk-go-building-a-complete-serverless-api-project-part-1-1hml)
-- [3D Printing Nerd: FIRST LOOK at the Bambu Lab H2S!](https://dev.to/maker_youtube/3d-printing-nerd-first-look-at-the-bambu-lab-h2s-2h41)
-- [5 AI Startups Reshaping Tech in 2025](https://dev.to/sebastian_reid999/5-ai-startups-reshaping-tech-in-2025-5d61)
-- [Introduction to KEP-5339: Plugin for Credentials in ClusterProfile](https://dev.to/kahirokunn/introduction-to-kep-5339-plugin-for-credentials-in-clusterprofile-36a4)
+- [Getting Started with AtomVM: Setup with Prebuilt Firmware &lpar;ESP32-S3, September 2025&rpar;](https://dev.to/mnishiguchi/getting-started-with-atomvm-setup-with-prebuilt-firmware-esp32-s3-september-2025-4lkj)
+- [AI vs Human Creativity: Pros and Cons for the Future of Memecoins](https://dev.to/good_dev_89ae84ab594b44cf/ai-vs-human-creativity-pros-and-cons-for-the-future-of-memecoins-4p54)
+- [AI-Enhanced Network Monitoring with Python: Detecting Anomalies Before They Become Threats](https://dev.to/jessica_taylor_57f692d5f6/ai-enhanced-network-monitoring-with-python-detecting-anomalies-before-they-become-threats-1686)
+- [Advanced Network Monitoring with Python: Detection, Scoring, and Visualization](https://dev.to/jessica_taylor_57f692d5f6/advanced-network-monitoring-with-python-detection-scoring-and-visualization-h40)
 <!-- BLOG-POST-LIST:END -->
 
 
