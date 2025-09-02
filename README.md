@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced Detection System Configuration Guide](https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e)
-- [TensorRT Engine Model Fixes Implementation](https://dev.to/cag000/tensorrt-engine-model-fixes-implementation-296e)
-- [This is why your GitHub account could be reducing your chances of getting a job](https://dev.to/codenaveen/this-is-why-your-github-account-could-be-reducing-your-chances-of-getting-a-job-2hnk)
-- [Why Atomic Design and Component-Driven Development Are the Perfect Match 🧬](https://dev.to/tahamjp/why-atomic-design-and-component-driven-development-are-the-perfect-match-3ki3)
+- [Automate Cloud Resource Management for Scheduled Events](https://dev.to/guillaume_marchand_paris/automate-cloud-resource-management-for-scheduled-events-7nj)
+- [From Losing Millions in Crypto to Launching a Wholesale Supplier Platform](https://dev.to/sokurenko/from-losing-millions-in-crypto-to-launching-a-wholesale-supplier-platform-7e3)
+- [Reducing Errors in High-Traffic Node.js Applications with APM](https://dev.to/olivia_madison_b0ad7090ad/reducing-errors-in-high-traffic-nodejs-applications-with-apm-2imn)
+- [Test CodeNewbie](https://dev.to/ahmed_richdale_33038aaed4/test-codenewbie-33i1)
 <!-- BLOG-POST-LIST:END -->
 
 
