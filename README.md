@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing MCP vs LangChain/ReAct for Chatbots](https://dev.to/om_shree_0709/comparing-mcp-vs-langchainreact-for-chatbots-4ci5)
-- [Literally Everything You Need to Know About System Design](https://dev.to/zorous/literally-everything-you-need-to-know-about-system-design-3a8)
-- [Introducing: @traversable/zod](https://dev.to/ahrjarrett/introducing-traversablezod-5dd4)
-- [When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes](https://dev.to/dinindu_suriyamudali_e604/when-your-ai-agent-needs-a-scalpel-not-a-sledgehammer-claude-code-sdk-vs-aws-strands-for-surgical-468l)
+- [Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More](https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj)
+- [Compile-Time and Runtime Polymorphism in Java](https://dev.to/arun_kumar_98/compile-time-and-runtime-polymorphism-in-java-1bch)
+- [Polymorphism](https://dev.to/ajayr18/polymorphism-43ik)
+- [The problem with current API documentation](https://dev.to/chilarai/the-problem-with-current-api-documentation-16h)
 <!-- BLOG-POST-LIST:END -->
 
 
