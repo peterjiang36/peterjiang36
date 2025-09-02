@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Cloud Resource Management for Scheduled Events](https://dev.to/guillaume_marchand_paris/automate-cloud-resource-management-for-scheduled-events-7nj)
-- [From Losing Millions in Crypto to Launching a Wholesale Supplier Platform](https://dev.to/sokurenko/from-losing-millions-in-crypto-to-launching-a-wholesale-supplier-platform-7e3)
-- [Reducing Errors in High-Traffic Node.js Applications with APM](https://dev.to/olivia_madison_b0ad7090ad/reducing-errors-in-high-traffic-nodejs-applications-with-apm-2imn)
-- [Test CodeNewbie](https://dev.to/ahmed_richdale_33038aaed4/test-codenewbie-33i1)
+- [Building React Apps with Bun: A Modern Development Experience](https://dev.to/pmbanugo/building-react-apps-with-bun-a-modern-development-experience-3gn2)
+- [Data Extraction in Automated Workflows: The Competitive Edge](https://dev.to/alifar/data-extraction-in-automated-workflows-the-competitive-edge-5c5i)
+- [GPT-5 vs GPT-4: Why Awareness Beats Accuracy](https://dev.to/dev-rashedin/gpt-5-vs-gpt-4-why-awareness-beats-accuracy-348m)
+- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-55gb)
 <!-- BLOG-POST-LIST:END -->
 
 
