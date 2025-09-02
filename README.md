@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
-- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
-- [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
-- [Eulerian Paths Explained: From Königsberg to Hierholzer’s Algorithm](https://dev.to/muhammad_taaha_90438c47f1/eulerian-paths-explained-from-konigsberg-to-hierholzers-algorithm-3p53)
+- [MY new game i just made for school so i and you can play and have some fun and you can play at home](https://dev.to/redgamer4133/my-new-game-i-just-made-for-school-so-i-can-ply-and-have-some-fun-and-you-can-play-at-home-2nmd)
+- [My Java Full Stack Journey Learning in JavaScript](https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-1dnm)
+- [Pixels, Tokens, and Grids: Speaking the Same Language in Design and Code](https://dev.to/message/pixels-tokens-and-grids-speaking-the-same-language-in-design-and-code-fc7)
+- [Which Should You Focus on for Placements: DSA or Development?](https://dev.to/avinash201199/which-should-you-focus-on-for-placements-dsa-or-development-4a7o)
 <!-- BLOG-POST-LIST:END -->
 
 
