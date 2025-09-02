@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Savage&#39;s Tested: Adam Savage Bathes a 157-Year-Old Newspaper! &lpar;at @NationalParkService Museum Conservation Lab&rpar;](https://dev.to/maker_youtube/adam-savages-tested-adam-savage-bathes-a-157-year-old-newspaper-at-nationalparkservice-museum-54p5)
-- [KEXP: Samantha Crain - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-samantha-crain-full-performance-live-on-kexp-fdg)
-- [Rick Shiels Golf: I play one of the BEST Golf Courses in America 🇺🇸 &lpar;Whistling Straits&rpar;](https://dev.to/youtube_golf/rick-shiels-golf-i-play-one-of-the-best-golf-courses-in-america-whistling-straits-2en6)
-- [GameSpot: 2XKO - Blitzcrank Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-2xko-blitzcrank-character-gameplay-reveal-trailer-1bmi)
+- [Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db](https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log)
+- [OCR and summarizer app](https://dev.to/crimsonkn1ght/ocr-and-summarizer-app-56o4)
+- [Hack The Box -Preignition Write-up &lpar;dir busting&rpar;](https://dev.to/er/hack-the-box-preignition-write-up-dir-busting-3eip)
+- [Eulerian Paths Explained: From Königsberg to Hierholzer’s Algorithm](https://dev.to/muhammad_taaha_90438c47f1/eulerian-paths-explained-from-konigsberg-to-hierholzers-algorithm-3p53)
 <!-- BLOG-POST-LIST:END -->
 
 
