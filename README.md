@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Bash: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-a-complete-guide-1n8m)
-- [Como escrever uma documentação técnica que realmente funciona](https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1)
-- [The MCP Future: When AI Agents Run Your Entire Business](https://dev.to/leomarsh/the-mcp-future-when-ai-agents-run-your-entire-business-285g)
-- [TeCambio is a personal project that I would like to grow](https://dev.to/martin_adolfobravomonta/tecambio-is-a-personal-project-that-i-would-like-to-grow-l4g)
+- [The Database Isn&#39;t Magic: Why Indexing Matters](https://dev.to/usmanzahidcode/the-database-isnt-magic-why-indexing-matters-1cef)
+- [Your Java App Is Leaking Memory! The Hidden Classloader Trap You&#39;re Missing.](https://dev.to/xuan_56087d315ff4f52254e6/your-java-app-is-leaking-memory-the-hidden-classloader-trap-youre-missing-3obj)
+- [IGN: Xbox Wireless Controller - Official Breaker Special Edition Series Trailer](https://dev.to/gg_news/ign-xbox-wireless-controller-official-breaker-special-edition-series-trailer-n86)
+- [Two Years of Microsoft Fabric: Game Changer or Still Leveling Up? 🚀](https://dev.to/narayan_f8f2c91c99dfd33e6/two-years-of-microsoft-fabric-game-changer-or-still-leveling-up-165e)
 <!-- BLOG-POST-LIST:END -->
 
 
