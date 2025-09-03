@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You May Need an Anti-Corruption Layer](https://dev.to/jesterxl/you-may-need-an-anti-corruption-layer-52pm)
-- [Daily JavaScript Challenge #JS-269: Calculate Sum of Odd-indexed Elements](https://dev.to/dpc/daily-javascript-challenge-js-269-calculate-sum-of-odd-indexed-elements-21li)
-- [Daily DSA and System Design Journal - 5](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-5-3pm7)
-- [Manage Your Python Environment Variables Like a Pro with Stela](https://dev.to/megalus/manage-your-python-environment-variables-like-a-pro-with-stela-3kkl)
+- [Erdus](https://dev.to/tobiager/erdus-jia)
+- [Install NVM for Windows Without Administrator](https://dev.to/chuongmep/install-nvm-for-windows-without-administrator-3c1e)
+- [Virtual Knobs: Making human-machine interaction more intuitive and efficient](https://dev.to/ben_wu_3ff99644999594b3e8/virtual-knobs-making-human-machine-interaction-more-intuitive-and-efficient-247j)
+- [I Built an AI That Judges Your Drawings](https://dev.to/adzhydra/i-built-an-ai-that-judges-your-drawings-44o4)
 <!-- BLOG-POST-LIST:END -->
 
 
