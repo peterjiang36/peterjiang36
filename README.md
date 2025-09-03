@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovered how easy can traceability in test become with smart&lpar;not just good&rpar; reporting tools.](https://dev.to/kevi019/discovered-how-easy-can-traceability-in-test-become-with-good-reporting-tools-418m)
-- [Migrating DolphinScheduler into K8s: A Field Report on Pitfalls and Lessons Learned from 900 Days of Qihoo 360’s Practice](https://dev.to/chen_debra_3060b21d12b1b0/migrating-dolphinscheduler-into-k8s-a-field-report-on-pitfalls-and-lessons-learned-from-900-days-97p)
-- [SQL Server Paging: Which Method is Fastest?](https://dev.to/sqlflash1024/sql-server-paging-which-method-is-fastest-c5f)
-- [Multi-NIC in Linux: What They Are, Why They Exist, and How Traffic Flows](https://dev.to/naval_kishorupadhyay_2493/multi-nic-in-linux-what-they-are-why-they-exist-and-how-traffic-flows-2dpk)
+- [No “resume” in Codex CLI, so I built one: quickly “continue” with `codex-history-list`](https://dev.to/shinshin86/no-resume-in-codex-cli-so-i-built-one-quickly-continue-with-codex-history-list-50be)
+- [NPR Music: Mustafa: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-mustafa-tiny-desk-concert-1hfb)
+- [Building an Enterprise-Grade Tags Input Component with ShadCN UI + React](https://dev.to/muhammadaqib86/building-an-enterprise-grade-tags-input-component-with-shadcn-ui-react-39la)
+- [Just finished day 1 of Networking Fundamentals. Learnt switches and hubs. Hubs sent message to everyone connected, while switches not, hubs work with IP while switches MAC address. Am I wrong?](https://dev.to/masterdevsabith/just-finished-day-1-of-networking-fundamentals-learnt-switches-and-hubs-hubs-sent-message-to-4fgf)
 <!-- BLOG-POST-LIST:END -->
 
 
