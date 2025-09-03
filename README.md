@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
-- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
-- [C++ 20 - concurrency - stop_token in jthread - politely interrupting the thread...](https://dev.to/sommukhopadhyay/c-20-concurrency-stoptoken-in-jthread-politely-interrupting-the-thread-79j)
-- [⚡ Automating Workflows with n8n and AI](https://dev.to/techstuff/automating-workflows-with-n8n-and-ai-4j3e)
+- [You are 1 post away...](https://dev.to/masterdevsabith/you-are-1-post-away-1kdf)
+- [AI-Powered Ghosts: Securing Your Smart Factory&#39;s IP](https://dev.to/arvindsundararajan/ai-powered-ghosts-securing-your-smart-factorys-ip-3ndj)
+- [Why API tooling needs a reset &lpar;and what we&#39;re doing about it&rpar;](https://dev.to/kiselitza/why-api-tooling-needs-a-reset-and-what-were-doing-about-it-3dn6)
+- [REST API in RUST with ntex](https://dev.to/0xle0ne/rest-api-in-rust-with-ntex-6a8)
 <!-- BLOG-POST-LIST:END -->
 
 
