@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside an agent’s brain: Why AI Needs Open Orchestration](https://dev.to/genai-works/inside-an-agents-brain-why-ai-needs-open-orchestration-69j)
-- [Leetcode 189: Rotate Array JavaScript Solution.](https://dev.to/tochi_/leetcode-189-rotate-array-javascript-solution-2fb6)
-- [Maia - Multi-AI Agent Test Framework](https://dev.to/radoslawsz/maia-multi-ai-agent-test-framework-2opn)
-- [Ringer Movies: The Best Movies at Telluride and Venice, and the 10 Most Anticipated Fall Films | The Big Picture](https://dev.to/popcorn_movies/ringer-movies-the-best-movies-at-telluride-and-venice-and-the-10-most-anticipated-fall-films--2k39)
+- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
+- [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
+- [Const Assertions en TypeScript 🤔](https://dev.to/duxtech/const-assertions-en-typescript-57jf)
+- [The Hackathon I Swore Off — and the Exhaustion That Mostly Compiled](https://dev.to/anchildress1/the-hackathon-i-swore-off-and-the-exhaustion-that-mostly-compiled-c4l)
 <!-- BLOG-POST-LIST:END -->
 
 
