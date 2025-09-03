@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You are 1 post away...](https://dev.to/masterdevsabith/you-are-1-post-away-1kdf)
-- [AI-Powered Ghosts: Securing Your Smart Factory&#39;s IP](https://dev.to/arvindsundararajan/ai-powered-ghosts-securing-your-smart-factorys-ip-3ndj)
-- [Why API tooling needs a reset &lpar;and what we&#39;re doing about it&rpar;](https://dev.to/kiselitza/why-api-tooling-needs-a-reset-and-what-were-doing-about-it-3dn6)
-- [REST API in RUST with ntex](https://dev.to/0xle0ne/rest-api-in-rust-with-ntex-6a8)
+- [Discovered how easy can traceability in test become with smart&lpar;not just good&rpar; reporting tools.](https://dev.to/kevi019/discovered-how-easy-can-traceability-in-test-become-with-good-reporting-tools-418m)
+- [Migrating DolphinScheduler into K8s: A Field Report on Pitfalls and Lessons Learned from 900 Days of Qihoo 360’s Practice](https://dev.to/chen_debra_3060b21d12b1b0/migrating-dolphinscheduler-into-k8s-a-field-report-on-pitfalls-and-lessons-learned-from-900-days-97p)
+- [SQL Server Paging: Which Method is Fastest?](https://dev.to/sqlflash1024/sql-server-paging-which-method-is-fastest-c5f)
+- [Multi-NIC in Linux: What They Are, Why They Exist, and How Traffic Flows](https://dev.to/naval_kishorupadhyay_2493/multi-nic-in-linux-what-they-are-why-they-exist-and-how-traffic-flows-2dpk)
 <!-- BLOG-POST-LIST:END -->
 
 
