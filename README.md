@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dapper no .NET: simplicidade e performance no acesso a dados](https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1)
-- [Angular 20&#39;s Game-Changing Features: Mastering Tagged Template Literals and the Revolutionary &quot;in&quot; Operator](https://dev.to/codewithrajat/angular-20s-game-changing-features-mastering-tagged-template-literals-and-the-revolutionary-2njf)
-- [Const Assertions en TypeScript 🤔](https://dev.to/duxtech/const-assertions-en-typescript-57jf)
-- [The Hackathon I Swore Off — and the Exhaustion That Mostly Compiled](https://dev.to/anchildress1/the-hackathon-i-swore-off-and-the-exhaustion-that-mostly-compiled-c4l)
+- [KEXP: Tropical Fuck Storm - You Let My Tyres Down &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-you-let-my-tyres-down-live-on-kexp-1k2m)
+- [KEXP: Tropical Fuck Storm - Braindrops &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-braindrops-live-on-kexp-232b)
+- [KEXP: Tropical Fuck Storm - Irukandji Syndrome &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-irukandji-syndrome-live-on-kexp-2ecm)
+- [KEXP: Tropical Fuck Storm - Bloodsport &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-bloodsport-live-on-kexp-2k6n)
 <!-- BLOG-POST-LIST:END -->
 
 
