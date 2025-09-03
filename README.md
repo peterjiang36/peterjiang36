@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: GPU Security and Isolation](https://dev.to/shohams/part-4-gpu-security-and-isolation-4bmd)
-- [Not Just Scraping: OSINTGraph Turns Your Target’s Instagram Network into an Investigable Graph with an Integrated AI Agent](https://dev.to/justin_lol_a756619fd64361/not-just-scraping-osintgraph-turns-your-targets-instagram-network-into-an-investigable-graph-with-241l)
-- [HTTP Status Codes: A Developer&#39;s Real-World Guide🚦](https://dev.to/sidharth_sangelia/http-status-codes-a-developers-real-world-guide-3gd4)
-- [Make RAG Provable: Page + BBox Citations for All Extracted Data](https://dev.to/tensorlake/make-rag-provable-page-bbox-citations-for-all-extracted-data-4ipc)
+- [I Replaced Redis Locks with Database Atomicity and You Should Too](https://dev.to/gaw/i-replaced-redis-locks-with-database-atomicity-and-you-should-too-3i0m)
+- [Peter Finch Golf: First Round With My New Clubs &lpar;JUST FITTED!&rpar;](https://dev.to/youtube_golf/peter-finch-golf-first-round-with-my-new-clubs-just-fitted-49d8)
+- [IGN: Nioh 3 - Exclusive Takeda Shingen Boss Reveal Gameplay | IGN First](https://dev.to/gg_news/ign-nioh-3-exclusive-takeda-shingen-boss-reveal-gameplay-ign-first-4mae)
+- [IGN: Macabre - Official Launch Trailer](https://dev.to/gg_news/ign-macabre-official-launch-trailer-adh)
 <!-- BLOG-POST-LIST:END -->
 
 
