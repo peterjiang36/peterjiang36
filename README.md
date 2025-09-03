@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PromptOp – Your AI Lab in One Platform](https://dev.to/mourad_baazi_99a44ccf44e5/promptop-your-ai-lab-in-one-platform-2ani)
-- [Making Historical Context Easily Discoverable from Slack with AI - Building slack-explorer-mcp](https://dev.to/shibayu36/making-historical-context-easily-discoverable-from-slack-with-ai-building-slack-explorer-mcp-54jj)
-- [How AI Is Changing the Way I Prototype](https://dev.to/osmangunescizmeci/how-ai-is-changing-the-way-i-prototype-4c11)
-- [Monitoring the Cloud: Learning CloudWatch](https://dev.to/arishsingh99/week-1-exploring-cloud-computing-getting-started-with-cloudwatch-13np)
+- [You May Need an Anti-Corruption Layer](https://dev.to/jesterxl/you-may-need-an-anti-corruption-layer-52pm)
+- [Daily JavaScript Challenge #JS-269: Calculate Sum of Odd-indexed Elements](https://dev.to/dpc/daily-javascript-challenge-js-269-calculate-sum-of-odd-indexed-elements-21li)
+- [Daily DSA and System Design Journal - 5](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-5-3pm7)
+- [Manage Your Python Environment Variables Like a Pro with Stela](https://dev.to/megalus/manage-your-python-environment-variables-like-a-pro-with-stela-3kkl)
 <!-- BLOG-POST-LIST:END -->
 
 
