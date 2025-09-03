@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Maintenance Sub-Workflow to Use on n8n for MySQL](https://dev.to/fedtti/how-to-build-maintenance-sub-workflow-to-use-on-n8n-for-mysql-28ag)
-- [Fixing DuckDB Extension Deadlock: From Query Strings to LIST Types](https://dev.to/nk_maker/fixing-duckdb-extension-deadlock-from-query-strings-to-list-types-10c2)
-- [How I Used Claude and Gemini to Build a Commercial Company Search Tool](https://dev.to/alingse/how-i-used-claude-and-gemini-to-build-a-commercial-company-search-tool-3of3)
-- [Authorization in Laravel](https://dev.to/ashrakt_amin/authorization-in-laravel-4j94)
+- [KEXP: Tropical Fuck Storm - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-full-performance-live-on-kexp-1lbi)
+- [No more wasting time...](https://dev.to/masterdevsabith/no-more-wasting-time-3nj6)
+- [GameSpot: Cronos: The New Dawn Review](https://dev.to/gg_news/gamespot-cronos-the-new-dawn-review-9if)
+- [IGN: 28 Years Later: The Bone Temple - Official Trailer &lpar;2026&rpar; Ralph Fiennes, Jack O&#39;Connell,](https://dev.to/gg_news/ign-28-years-later-the-bone-temple-official-trailer-2026-ralph-fiennes-jack-oconnell-4nki)
 <!-- BLOG-POST-LIST:END -->
 
 
