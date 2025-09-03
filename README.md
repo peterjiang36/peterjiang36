@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust for Beginners: 8 Practical Tips to Get Started](https://dev.to/iolivia/rust-for-beginners-8-practical-tips-to-get-started-1jd)
-- [&quot;Starting Small, Dreaming Big : My Web Dev Dairy&quot;](https://dev.to/sharifa_ahmad_af2e7b39b15/starting-small-dreaming-big-my-web-dev-dairy-131d)
-- [GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream](https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil)
-- [IGN: Mewgenics - 50-Minute Developer Gameplay Commentary Video](https://dev.to/gg_news/ign-mewgenics-50-minute-developer-gameplay-commentary-video-286)
+- [Understanding AI: Common terms and acronyms made simple](https://dev.to/techielass/understanding-ai-common-terms-and-acronyms-made-simple-444a)
+- [Meaning of education to me...](https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na)
+- [C++ 20 - concurrency - stop_token in jthread - politely interrupting the thread...](https://dev.to/sommukhopadhyay/c-20-concurrency-stoptoken-in-jthread-politely-interrupting-the-thread-79j)
+- [⚡ Automating Workflows with n8n and AI](https://dev.to/techstuff/automating-workflows-with-n8n-and-ai-4j3e)
 <!-- BLOG-POST-LIST:END -->
 
 
