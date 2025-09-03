@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Marvel Rivals - Official Season 4: Heart of The Dragon Overview](https://dev.to/gg_news/ign-marvel-rivals-official-season-4-heart-of-the-dragon-overview-op8)
-- [WordPress vs Next.js: A Developer&#39;s Technical Decision Framework for 2025](https://dev.to/n9ka/wordpress-vs-nextjs-a-developers-technical-decision-framework-for-2025-16i6)
-- [Daily DSA and System Design Journal - 6](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-6-2h8c)
-- [Turning Entire Blogs into Short Summaries: Map-Reduce for LLMs](https://dev.to/grzegorz_dubiel_db99203fe/turning-entire-blogs-into-short-summaries-map-reduce-for-llms-66j)
+- [Mastering Bash: A Complete Guide](https://dev.to/mcheremnov/mastering-bash-a-complete-guide-1n8m)
+- [Como escrever uma documentação técnica que realmente funciona](https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1)
+- [The MCP Future: When AI Agents Run Your Entire Business](https://dev.to/leomarsh/the-mcp-future-when-ai-agents-run-your-entire-business-285g)
+- [TeCambio is a personal project that I would like to grow](https://dev.to/martin_adolfobravomonta/tecambio-is-a-personal-project-that-i-would-like-to-grow-l4g)
 <!-- BLOG-POST-LIST:END -->
 
 
