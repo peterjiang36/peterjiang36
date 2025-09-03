@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Tropical Fuck Storm - You Let My Tyres Down &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-you-let-my-tyres-down-live-on-kexp-1k2m)
-- [KEXP: Tropical Fuck Storm - Braindrops &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-braindrops-live-on-kexp-232b)
-- [KEXP: Tropical Fuck Storm - Irukandji Syndrome &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-irukandji-syndrome-live-on-kexp-2ecm)
-- [KEXP: Tropical Fuck Storm - Bloodsport &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tropical-fuck-storm-bloodsport-live-on-kexp-2k6n)
+- [How to Build Maintenance Sub-Workflow to Use on n8n for MySQL](https://dev.to/fedtti/how-to-build-maintenance-sub-workflow-to-use-on-n8n-for-mysql-28ag)
+- [Fixing DuckDB Extension Deadlock: From Query Strings to LIST Types](https://dev.to/nk_maker/fixing-duckdb-extension-deadlock-from-query-strings-to-list-types-10c2)
+- [How I Used Claude and Gemini to Build a Commercial Company Search Tool](https://dev.to/alingse/how-i-used-claude-and-gemini-to-build-a-commercial-company-search-tool-3of3)
+- [Authorization in Laravel](https://dev.to/ashrakt_amin/authorization-in-laravel-4j94)
 <!-- BLOG-POST-LIST:END -->
 
 
