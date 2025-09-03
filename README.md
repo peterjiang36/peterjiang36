@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is ACP ?](https://dev.to/sreeni5018/what-is-acp--3hh1)
-- [Angular in 2025- Still Relevant?](https://dev.to/metana/angular-in-2025-still-relevant-2kg3)
-- [The Art of Beautiful Functions in TypeScript](https://dev.to/xtareq/the-art-of-beautiful-functions-in-typescript-1eb7)
-- [How to Deploy Karpenter on Google Cloud](https://dev.to/cloudpilot-ai/how-to-deploy-karpenter-on-google-cloud-44fd)
+- [Fargate + Lambda are better together](https://dev.to/aws-builders/fargate-lambda-are-better-together-2clf)
+- [Use Lazy Routing with React Suspense to Optimize Performance](https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh)
+- [Day 13 – Multi-agent Chaos in AI Pipelines &lpar;ProblemMap No.13&rpar;](https://dev.to/onestardao/day-13-multi-agent-chaos-in-ai-pipelines-problemmap-no13-33fa)
+- [Lessons from Building a Global AI Brand from Scratch](https://dev.to/jaideepparashar/lessons-from-building-a-global-ai-brand-from-scratch-f1g)
 <!-- BLOG-POST-LIST:END -->
 
 
