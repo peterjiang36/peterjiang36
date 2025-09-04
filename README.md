@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Break a Course Record at the Cheapest Public Course?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-break-a-course-record-at-the-cheapest-public-course-2mg9)
-- [GameSpot: 007 First Light Preview: License to Thrill](https://dev.to/gg_news/gamespot-007-first-light-preview-license-to-thrill-548e)
-- [IGN: James Gunn Announces Man of Tomorrow as the Next Superman Saga Film - IGN Daily Fix](https://dev.to/gg_news/ign-james-gunn-announces-man-of-tomorrow-as-the-next-superman-saga-film-ign-daily-fix-3o3n)
-- [IGN: Witchspire - Official Announcement Trailer](https://dev.to/gg_news/ign-witchspire-official-announcement-trailer-50pd)
+- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
+- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
+- [Why Every Developer Should Master Async/Await and Promises](https://dev.to/code_2/why-every-developer-should-master-asyncawait-and-promises-370k)
+- [Understanding SwiftUI Stacks: HStack, VStack, and ZStack - A Deep Dive](https://dev.to/arshtechpro/understanding-swiftui-stacks-hstack-vstack-and-zstack-a-deep-dive-3m3c)
 <!-- BLOG-POST-LIST:END -->
 
 
