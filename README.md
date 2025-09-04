@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Transition from SOAP to REST APIs](https://dev.to/zuplo/how-to-transition-from-soap-to-rest-apis-ok8)
-- [From Newspapers to Code Reviews: A Gratitude Story](https://dev.to/dakshim/from-newspapers-to-code-reviews-a-gratitude-story-il7)
-- [Creating SOAP APIs in Python](https://dev.to/zuplo/creating-soap-apis-in-python-ebj)
-- [Documenting Your Rails API Shouldn’t Be Painful &lpar;Rails + OasRails&rpar;](https://dev.to/zuplo/documenting-your-rails-api-shouldnt-be-painful-rails-oasrails-23in)
+- [Flutter Apps and Android&#39;s 16KB Page Size Requirement: A Complete Developer Guide](https://dev.to/mikeyolang/flutter-apps-and-androids-16kb-page-size-requirement-a-complete-developer-guide-1p71)
+- [[Google AI Studio Multimodal Challenge] Whispurr the ghost diner](https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch)
+- [How Does SeaTunnel Perform &quot;Precise Sharding&quot; for MySQL Tables?](https://dev.to/seatunnel/how-does-seatunnel-perform-precise-sharding-for-mysql-tables-c94)
+- [The Role of Service Maps in Optimizing PHP Application Performance](https://dev.to/olivia_madison_b0ad7090ad/the-role-of-service-maps-in-optimizing-php-application-performance-1hja)
 <!-- BLOG-POST-LIST:END -->
 
 
