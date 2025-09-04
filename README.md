@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Best Programming Mentor Might Be in Pajamas](https://dev.to/pullflow/why-your-best-programming-mentor-might-be-in-pajamas-4lah)
-- [The Human Truths of Database Migration](https://dev.to/codelink/the-human-truths-of-database-migration-cml)
-- [How to Standardize Commit Messages with Commitlint and Custom Rules](https://dev.to/werliton/how-to-standardize-commit-messages-with-commitlint-and-custom-rules-4l64)
-- [AI in Healthcare: How LLMs are Transforming Medical Documentation and Decision Making](https://dev.to/aun_aideveloper/ai-in-healthcare-how-llms-are-transforming-medical-documentation-and-decision-m-4615)
+- [KEXP: Yuma Abe - Friends &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-friends-live-on-kexp-1jpn)
+- [KEXP: Yuma Abe - Sayonara &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-sayonara-live-on-kexp-c0c)
+- [KEXP: Yuma Abe - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-full-performance-live-on-kexp-4h9p)
+- [GameSpot: Octopath Traveler 0 Looks Massive, Even By Octopath Standards](https://dev.to/gg_news/gamespot-octopath-traveler-0-looks-massive-even-by-octopath-standards-25on)
 <!-- BLOG-POST-LIST:END -->
 
 
