@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Totally expected - Fishing World - Devlog #2](https://dev.to/doormatt_/totally-expected-fishing-world-devlog-2-399m)
-- [Common Lisp: read password on a terminal &lpar;by hiding its input&rpar;](https://dev.to/vindarel/common-lisp-read-password-on-a-terminal-by-hiding-its-input-2e3j)
-- [ChatGPT Branch Conversations: Nonlinear Prompting for Developers](https://dev.to/alifar/chatgpt-branch-conversations-nonlinear-prompting-for-developers-1an9)
-- [Taming Laravel Blade with Fully Typed Views, Autocomplete, and Type Safety](https://dev.to/raheelshan/taming-laravel-blade-with-fully-typed-views-autocomplete-and-type-safety-4obe)
+- [GameSpot: Marvel Rivals - Angela Character Gameplay Reveal Trailer | The Hand of Heven Descends](https://dev.to/gg_news/gamespot-marvel-rivals-angela-character-gameplay-reveal-trailer-the-hand-of-heven-descends-3c80)
+- [IGN: RoadCraft - Official Rebuild Expansion Trailer](https://dev.to/gg_news/ign-roadcraft-official-rebuild-expansion-trailer-44ae)
+- [IGN: For Honor - Official Year 9 Season 3 Downfall Gameplay Trailer](https://dev.to/gg_news/ign-for-honor-official-year-9-season-3-downfall-gameplay-trailer-3jf1)
+- [IGN: The Dino Run 2 - Official Early Access Kickstarter Trailer](https://dev.to/gg_news/ign-the-dino-run-2-official-early-access-kickstarter-trailer-483p)
 <!-- BLOG-POST-LIST:END -->
 
 
