@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Announcing polyfront-scaffold: Scaffold React &amp; Angular Apps in Minutes](https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04)
-- [IGN: ARC Raiders - Official Soundscapes Showcase Trailer](https://dev.to/gg_news/ign-arc-raiders-official-soundscapes-showcase-trailer-2cg0)
-- [Vue School Certification: My Experience, Tips, and Final Thoughts](https://dev.to/aletorres1102/vue-school-certification-my-experience-tips-and-final-thoughts-5cf5)
-- [Static and Dynamic and IP addresses: Assigning a static ip address to an AWS EC2 instance](https://dev.to/waptik/static-and-dynamic-and-ip-addresses-assigning-a-static-ip-address-to-an-aws-ec2-instance-1p91)
+- [When Asked How to Learn Programming, This Is My Answer](https://dev.to/ma2mori/when-asked-how-to-learn-programming-this-is-my-answer-49bh)
+- [How to Design Quality APIs](https://dev.to/elliot_brenya/how-to-design-quality-apis-3lli)
+- [My Journey with Firebase Authentication](https://dev.to/grace_kuti_e6a0d8b96b7a0f/my-journey-with-firebase-authentication-dbp)
+- [Set Up Your Own Personal AI Frankenstack: Summarized Version](https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l)
 <!-- BLOG-POST-LIST:END -->
 
 
