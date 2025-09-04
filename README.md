@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Yuma Abe - Let&#39;s Dream &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-lets-dream-live-on-kexp-53l0)
-- [KEXP: Yuma Abe - That Feels Good &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-that-feels-good-live-on-kexp-3ae0)
-- [KEXP: Yuma Abe - Omaemo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-omaemo-live-on-kexp-27d0)
-- [KEXP: Yuma Abe - Many Strange Things &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-many-strange-things-live-on-kexp-1i46)
+- [Getting Started with Gaia: A Developer&#39;s Guide to Building AI Agents with Gaia](https://dev.to/gaiaai/getting-started-with-gaia-a-developers-guide-to-building-ai-agents-4ji8)
+- [Ada Lovelace and the Story of the World&#39;s First Algorithm](https://dev.to/toviszsolt/ada-lovelace-and-the-story-of-the-worlds-first-algorithm-39f7)
+- [How do I make my Shopify cookie banner less annoying but still compliant?](https://dev.to/mehwish_malik_4f29ff7fb04/how-do-i-make-my-shopify-cookie-banner-less-annoying-but-still-compliant-3o3d)
+- [9 Practical Online Resources to Learn Coding in 2025 📚👨‍💻](https://dev.to/madza/9-practical-online-resources-to-learn-coding-in-2025-30m3)
 <!-- BLOG-POST-LIST:END -->
 
 
