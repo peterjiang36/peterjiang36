@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why devs need AI-powered e2e test automation](https://dev.to/daniel-octomind/why-devs-need-ai-powered-e2e-test-automation-2ded)
-- [How to globally hide currency/amount fields in a React + Rails app based on user permissions?](https://dev.to/sabari_s_a6c4e0ae7cb90aab/how-to-globally-hide-currencyamount-fields-in-a-react-rails-app-based-on-user-permissions-2o82)
-- [Upgrade Umbraco 13 to 16: Localization](https://dev.to/luukpeters/upgrade-umbraco-13-to-16-localization-133n)
-- [Svelte Components Explained: Props &amp; Composition Made Simple](https://dev.to/a1guy/svelte-components-explained-props-composition-made-simple-55a5)
+- [Wrote a new blog!](https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c)
+- [New Features We Find Exciting in the Kubernetes 1.34 Release](https://dev.to/metalbear/new-features-we-find-exciting-in-the-kubernetes-134-release-2mhl)
+- [My Path in the Frontend](https://dev.to/aleksandr_ryzhikov/my-path-in-the-frontend-39fn)
+- [Two Days, One App: How AI Turned Me into an Under‑8 Tennis Umpire](https://dev.to/cfarrugia/two-days-one-app-how-ai-turned-me-into-an-under-8-tennis-umpire-op9)
 <!-- BLOG-POST-LIST:END -->
 
 
