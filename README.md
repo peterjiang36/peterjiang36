@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
-- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
-- [CPK: A Philosophical Practice of Returning to the Essence of Software Packaging and Distribution](https://dev.to/lengjingzju/cpk-a-philosophical-practice-of-returning-to-the-essence-of-software-packaging-and-distribution-3546)
-- [Multimodal AI: Teaching Machines to See, Hear, and Understand](https://dev.to/iamfaham/multimodal-ai-teaching-machines-to-see-hear-and-understand-30ob)
+- [How to Transition from SOAP to REST APIs](https://dev.to/zuplo/how-to-transition-from-soap-to-rest-apis-ok8)
+- [From Newspapers to Code Reviews: A Gratitude Story](https://dev.to/dakshim/from-newspapers-to-code-reviews-a-gratitude-story-il7)
+- [Creating SOAP APIs in Python](https://dev.to/zuplo/creating-soap-apis-in-python-ebj)
+- [Documenting Your Rails API Shouldn’t Be Painful &lpar;Rails + OasRails&rpar;](https://dev.to/zuplo/documenting-your-rails-api-shouldnt-be-painful-rails-oasrails-23in)
 <!-- BLOG-POST-LIST:END -->
 
 
