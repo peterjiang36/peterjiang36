@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
-- [The N+1 Query Hangover: Curing Your Laravel Database Woes](https://dev.to/usmanzahidcode/the-n1-query-hangover-curing-your-laravel-database-woes-4oda)
-- [Learn with Daily Mastery - From AI Generation to Email Delivery](https://dev.to/dalenguyen/learn-with-daily-mastery-from-ai-generation-to-email-delivery-1jk1)
-- [IGN: Mars Attracts - Official Early Access Release Date Trailer](https://dev.to/gg_news/ign-mars-attracts-official-early-access-release-date-trailer-4f17)
+- [Step-Audio 2 Mini: Open Speech AI You Can Deploy Today](https://dev.to/aiwithapex/step-audio-2-mini-open-speech-ai-you-can-deploy-today-26c8)
+- [🔔 Django Signals: Supercharging Your App with Event-Driven Architecture](https://dev.to/diveshkumar/django-signals-supercharging-your-app-with-event-driven-architecture-e5l)
+- [CPK: A Philosophical Practice of Returning to the Essence of Software Packaging and Distribution](https://dev.to/lengjingzju/cpk-a-philosophical-practice-of-returning-to-the-essence-of-software-packaging-and-distribution-3546)
+- [Multimodal AI: Teaching Machines to See, Hear, and Understand](https://dev.to/iamfaham/multimodal-ai-teaching-machines-to-see-hear-and-understand-30ob)
 <!-- BLOG-POST-LIST:END -->
 
 
