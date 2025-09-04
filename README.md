@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoi, an advanced package manager](https://dev.to/zillowez/zoi-an-advanced-package-manager-27gd)
-- [My First Steps on Dev.to 🚀](https://dev.to/prakash_maheshwaran/my-first-steps-on-devto-jcn)
-- [Enhance the Ecosystem: npm package to initialize react app with midnight lace wallet connection.](https://dev.to/hlee18lee46/enhance-the-ecosystem-npm-package-to-initialize-react-app-with-midnight-lace-wallet-connection-f1j)
-- [A importância de um HTML semântico](https://dev.to/stherzada/a-importancia-de-um-html-semantico-58j9)
+- [🚀 Announcing polyfront-scaffold: Scaffold React &amp; Angular Apps in Minutes](https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04)
+- [IGN: ARC Raiders - Official Soundscapes Showcase Trailer](https://dev.to/gg_news/ign-arc-raiders-official-soundscapes-showcase-trailer-2cg0)
+- [Vue School Certification: My Experience, Tips, and Final Thoughts](https://dev.to/aletorres1102/vue-school-certification-my-experience-tips-and-final-thoughts-5cf5)
+- [Static and Dynamic and IP addresses: Assigning a static ip address to an AWS EC2 instance](https://dev.to/waptik/static-and-dynamic-and-ip-addresses-assigning-a-static-ip-address-to-an-aws-ec2-instance-1p91)
 <!-- BLOG-POST-LIST:END -->
 
 
