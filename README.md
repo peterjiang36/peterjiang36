@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Yonyou U8 Cloud RCE: File Upload Bypass Confirmed](https://dev.to/sharon_42e16b8da44dabde6d/yonyou-u8-cloud-rce-flaw-file-upload-bypass-security-advisory-36ki)
-- [🚀 Day 4 of My DevOps Journey: Bash Scripting for DevOps](https://dev.to/dankbhardwaj/day-4-of-my-devops-journey-bash-scripting-for-devops-49go)
-- [🚀 StackOpsys: Part 3-Automating Kubernetes Infrastructure on Proxmox with Packer, Terraform and Ansible](https://dev.to/rtaparay/stackopsys-part-3-automating-kubernetes-infrastructure-on-proxmox-with-packer-terraform-5fl2)
-- [DaemonSet vs Deployment in Kubernetes: Key Differences Explained with Docker](https://dev.to/moni121189/daemonset-vs-deployment-in-kubernetes-key-differences-explained-with-docker-57n7)
+- [Part-37: 🚀 Google Compute Engine – Managed Instance Groups &lpar;Stateful&rpar; in Google Cloud Platform &lpar;GCP&rpar;](https://dev.to/latchudevops/part-37-google-compute-engine-managed-instance-groups-stateful-in-google-cloud-platform-gcp-2ib4)
+- [The N+1 Query Hangover: Curing Your Laravel Database Woes](https://dev.to/usmanzahidcode/the-n1-query-hangover-curing-your-laravel-database-woes-4oda)
+- [Learn with Daily Mastery - From AI Generation to Email Delivery](https://dev.to/dalenguyen/learn-with-daily-mastery-from-ai-generation-to-email-delivery-1jk1)
+- [IGN: Mars Attracts - Official Early Access Release Date Trailer](https://dev.to/gg_news/ign-mars-attracts-official-early-access-release-date-trailer-4f17)
 <!-- BLOG-POST-LIST:END -->
 
 
