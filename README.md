@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on object creation](https://dev.to/nfrankel/thoughts-on-object-creation-1cgi)
-- [RADIUS is 30+ Years Old: Why Are We Still Building the Future on It?](https://dev.to/leonardkachi/radius-is-30-years-old-why-are-we-still-building-the-future-on-it-2gmh)
-- [Why Every Developer Should Master Async/Await and Promises](https://dev.to/code_2/why-every-developer-should-master-asyncawait-and-promises-370k)
-- [Understanding SwiftUI Stacks: HStack, VStack, and ZStack - A Deep Dive](https://dev.to/arshtechpro/understanding-swiftui-stacks-hstack-vstack-and-zstack-a-deep-dive-3m3c)
+- [Why devs need AI-powered e2e test automation](https://dev.to/daniel-octomind/why-devs-need-ai-powered-e2e-test-automation-2ded)
+- [How to globally hide currency/amount fields in a React + Rails app based on user permissions?](https://dev.to/sabari_s_a6c4e0ae7cb90aab/how-to-globally-hide-currencyamount-fields-in-a-react-rails-app-based-on-user-permissions-2o82)
+- [Upgrade Umbraco 13 to 16: Localization](https://dev.to/luukpeters/upgrade-umbraco-13-to-16-localization-133n)
+- [Svelte Components Explained: Props &amp; Composition Made Simple](https://dev.to/a1guy/svelte-components-explained-props-composition-made-simple-55a5)
 <!-- BLOG-POST-LIST:END -->
 
 
