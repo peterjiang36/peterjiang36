@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wrote a new blog!](https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c)
-- [New Features We Find Exciting in the Kubernetes 1.34 Release](https://dev.to/metalbear/new-features-we-find-exciting-in-the-kubernetes-134-release-2mhl)
-- [My Path in the Frontend](https://dev.to/aleksandr_ryzhikov/my-path-in-the-frontend-39fn)
-- [Two Days, One App: How AI Turned Me into an Under‑8 Tennis Umpire](https://dev.to/cfarrugia/two-days-one-app-how-ai-turned-me-into-an-under-8-tennis-umpire-op9)
+- [KEXP: Yuma Abe - Let&#39;s Dream &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-lets-dream-live-on-kexp-53l0)
+- [KEXP: Yuma Abe - That Feels Good &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-that-feels-good-live-on-kexp-3ae0)
+- [KEXP: Yuma Abe - Omaemo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-omaemo-live-on-kexp-27d0)
+- [KEXP: Yuma Abe - Many Strange Things &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-yuma-abe-many-strange-things-live-on-kexp-1i46)
 <!-- BLOG-POST-LIST:END -->
 
 
