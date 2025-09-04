@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a text based, online TUI-RPG in Rust](https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc)
-- [AI LinkedIn Profile Generator](https://dev.to/aniruddhaadak/ai-linkedin-profile-generator-40b2)
-- [Understanding High Availability day 44 of system design basics](https://dev.to/vincenttommi/understanding-high-availability-14he)
-- [14 CS fundamental questions to prepare for your next interview &amp; not sound like a vibe-coder!](https://dev.to/shreyastaware/14-cs-fundamental-questions-to-prepare-for-your-next-interview-not-sound-like-a-vibe-coder-47ho)
+- [These are really cool!](https://dev.to/eastermukora/these-are-really-cool-kjc)
+- [Andrew Huang: 4 PRODUCERS FLIP THE SAME SAMPLE w/ JP Waksman, nyco nemesis, Haphaz7ard](https://dev.to/music_youtube/andrew-huang-4-producers-flip-the-same-sample-w-jp-waksman-nyco-nemesis-haphaz7ard-57gh)
+- [COLORS: Amie Blu - legs | A COLORS SHOW](https://dev.to/music_youtube/colors-amie-blu-legs-a-colors-show-34id)
+- [DevOps Lifecycle](https://dev.to/suvrajeet/devops-lifecycle-5dgp)
 <!-- BLOG-POST-LIST:END -->
 
 
