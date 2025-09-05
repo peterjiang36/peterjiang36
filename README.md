@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting the Centrifugo in laravel](https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78)
-- [Should you learn Rust NOW? My contribution to the Rust community - State Pattern in Rust...](https://dev.to/sommukhopadhyay/should-you-learn-rust-now-my-contribution-to-the-rust-community-state-pattern-in-rust-h1h)
-- [🚀 nuxt4-elsolya: مكتبة Nuxt 4 متكاملة بـ +130 مكون جاهز](https://dev.to/ahmed_niazy/nuxt4-elsolya-mktb-nuxt-4-mtkml-b-130-mkwn-jhz-2mll)
-- [Mastering VPS For Frontend Engineer - Part 2](https://dev.to/joseph42a/vps-for-frontend-engineer-part-2-7h5)
+- [One more test](https://dev.to/ben/one-more-test-4p3j)
+- [Unlocking the Power of Agentic AI with Apache Iceberg and Dremio](https://dev.to/alexmercedcoder/unlocking-the-power-of-agentic-ai-with-apache-iceberg-and-dremio-5be0)
+- [This is a test!!](https://dev.to/ben/this-is-a-test-47p2)
+- [Sveltos vs Terraform: Friends, Not Rivals, in the Cloud-Native World](https://dev.to/simone_morellato/sveltos-vs-terraform-friends-not-rivals-in-the-cloud-native-world-8jk)
 <!-- BLOG-POST-LIST:END -->
 
 
