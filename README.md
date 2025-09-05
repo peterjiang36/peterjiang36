@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of DevOps: Day 33](https://dev.to/wycliffealphus/100-days-of-devops-day-34-5bia)
-- [How to Train a YOLO Segmentation Model with MIDV500 Dataset for ID Document Detection](https://dev.to/yushulx/how-to-train-a-yolo-segmentation-model-with-midv500-dataset-for-id-document-detection-25m5)
-- [Solution Layers in Power Automate Flows: Why Solution Upgrades Don’t Remove Active Layers](https://dev.to/nikhildynamicsce/solution-layers-in-power-automate-flows-why-solution-upgrades-dont-remove-active-layers-2n94)
-- [📏 Guide CursorAI with a `.prompt-rules.md` File](https://dev.to/devgaurav/-guide-cursorai-with-a-prompt-rulesmd-file-143m)
+- [NFTs beyond art: 5 industries feeling the shift](https://dev.to/martin_call/nfts-beyond-art-5-industries-feeling-the-shift-2dce)
+- [Skellar Dev Log #2: Backpack System](https://dev.to/ridcorix/skellar-dev-log-2-backpack-system-494e)
+- [Event-Driven Architectures on AWS: Beyond Lambda](https://dev.to/nidhi_0105/event-driven-architectures-on-aws-beyond-lambda-295a)
+- [Simplify Validation in Golang— No Struct Tags, No Reflection, TypeSafety: Meet GoValidator](https://dev.to/rezakhademix/simplify-validation-in-golang-no-struct-tags-no-reflection-typesafety-meet-govalidator-2e53)
 <!-- BLOG-POST-LIST:END -->
 
 
