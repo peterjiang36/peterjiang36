@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Next Step in Cybersecurity: Internship at Young Cyber Knights Foundation](https://dev.to/seifeldienahmad/my-next-step-in-cybersecurity-internship-at-young-cyber-knights-foundation-3i1g)
-- [The Git Workflow That Will Make Your Code Reviews Actually Enjoyable 🔥](https://dev.to/c_6b7a8e65d067ddc62/the-git-workflow-that-will-make-your-code-reviews-actually-enjoyable-4gp3)
-- [13 Best GitHub Repositories Every Developer Should Bookmark 🚀](https://dev.to/kamrul_arafin/13-best-github-repositories-every-developer-should-bookmark-55lh)
-- [Yoo the v1 is suuuper amazing 🤩😻](https://dev.to/masterdevsabith/yoo-the-v1-is-suuuper-amazing-2gi9)
+- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
+- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
+- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
+- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
 <!-- BLOG-POST-LIST:END -->
 
 
