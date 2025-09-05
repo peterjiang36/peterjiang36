@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My OpenMRS Journey: Why I&#39;m Diving Into Legacy Medical Software](https://dev.to/rooney_dev/starting-my-openmrs-journey-why-im-diving-into-legacy-medical-software-49b2)
-- [Automation in Practice: Partner Onboarding Case Study](https://dev.to/kumar111222rohit/automation-in-practice-partner-onboarding-case-study-obb)
-- [My OSD600 Journey](https://dev.to/oleksandrakordonets/my-osd600-journey-3bhf)
-- [My DevOps Journey: Part 1 — Learning Linux Through Real-World Tasks](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-1-learning-linux-through-real-world-tasks-4c41)
+- [Security news weekly round-up - 5th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-september-2025-2b6i)
+- [Create a Pull request into another repository using github actions.](https://dev.to/pcmagas/create-a-pull-request-into-another-repository-using-github-actions-e04)
+- [📅 Week 1 Recap: System Design + DSA Journey](https://dev.to/ik_8a78062fd65be769dd835/week-1-recap-system-design-dsa-journey-1c34)
+- [AI vs Machine Learning vs Deep Learning: What&#39;s the Difference?](https://dev.to/susender_r_42cbe314979e66/ai-vs-machine-learning-vs-deep-learning-whats-the-difference-153h)
 <!-- BLOG-POST-LIST:END -->
 
 
