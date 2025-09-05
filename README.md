@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Flutter Custom Multi-Select Dialog Package](https://dev.to/vrushali_dev_15/how-i-built-a-flutter-custom-multi-select-dialog-package-17co)
-- [Kotlin Interview Puzzle: Who Wins the Tie? Loops, Reduce &amp; Functional Surprises](https://dev.to/vrushali_dev_15/kotlin-interview-puzzle-who-wins-the-tie-loops-reduce-functional-surprises-3fga)
-- [Mockando Endpoints com MSW em Testes com Jest e React Query](https://dev.to/vitorrios1001/mockando-endpoints-com-msw-em-testes-com-jest-e-react-query-10l0)
-- [How to build an API Gateway with a custom domain using AWS CDK](https://dev.to/aws-builders/how-to-build-an-api-gateway-with-a-custom-domain-using-aws-cdk-o99)
+- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
+- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
+- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
+- [Svelte Events &amp; Bindings Tutorial: Master Parent-Child Communication](https://dev.to/a1guy/svelte-events-bindings-tutorial-master-parent-child-communication-4o5o)
 <!-- BLOG-POST-LIST:END -->
 
 
