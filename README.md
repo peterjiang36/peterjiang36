@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
-- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
-- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
-- [Beyond Pretty Print: 8 JSON Workflows Using OnTheGoTools’ 20+ Utilities](https://dev.to/vimal-patel/beyond-pretty-print-8-json-workflows-using-onthegotools-20-utilities-5gd)
+- [Golf.com: The Soul of Cypress Point | Inside Golf&#39;s Most Mystical Club](https://dev.to/youtube_golf/golfcom-the-soul-of-cypress-point-inside-golfs-most-mystical-club-4220)
+- [Noclip: The Making of Wolfenstein - Noclip Documentary](https://dev.to/gg_news/noclip-the-making-of-wolfenstein-noclip-documentary-ldh)
+- [GameSpot: Borderlands 4 | Official Launch Week Trailer](https://dev.to/gg_news/gamespot-borderlands-4-official-launch-week-trailer-3a3k)
+- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Official Enhanced Opening Movie](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-official-enhanced-opening-movie-2kbd)
 <!-- BLOG-POST-LIST:END -->
 
 
