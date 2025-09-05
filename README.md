@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NFTs beyond art: 5 industries feeling the shift](https://dev.to/martin_call/nfts-beyond-art-5-industries-feeling-the-shift-2dce)
-- [Skellar Dev Log #2: Backpack System](https://dev.to/ridcorix/skellar-dev-log-2-backpack-system-494e)
-- [Event-Driven Architectures on AWS: Beyond Lambda](https://dev.to/nidhi_0105/event-driven-architectures-on-aws-beyond-lambda-295a)
-- [Simplify Validation in Golang— No Struct Tags, No Reflection, TypeSafety: Meet GoValidator](https://dev.to/rezakhademix/simplify-validation-in-golang-no-struct-tags-no-reflection-typesafety-meet-govalidator-2e53)
+- [How I Built a Flutter Custom Multi-Select Dialog Package](https://dev.to/vrushali_dev_15/how-i-built-a-flutter-custom-multi-select-dialog-package-17co)
+- [Kotlin Interview Puzzle: Who Wins the Tie? Loops, Reduce &amp; Functional Surprises](https://dev.to/vrushali_dev_15/kotlin-interview-puzzle-who-wins-the-tie-loops-reduce-functional-surprises-3fga)
+- [Mockando Endpoints com MSW em Testes com Jest e React Query](https://dev.to/vitorrios1001/mockando-endpoints-com-msw-em-testes-com-jest-e-react-query-10l0)
+- [How to build an API Gateway with a custom domain using AWS CDK](https://dev.to/aws-builders/how-to-build-an-api-gateway-with-a-custom-domain-using-aws-cdk-o99)
 <!-- BLOG-POST-LIST:END -->
 
 
