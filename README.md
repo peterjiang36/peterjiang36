@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Crumb - Ghostride &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ghostride-live-on-kexp-30ol)
-- [Part 5: Tips for Optimizing GPU Utilization in Kubernetes](https://dev.to/shohams/part-5-tips-for-optimizing-gpu-utilization-in-kubernetes-2of5)
-- [IGN: Hell is Us Isn&#39;t a Soulslike, But It Plays Like a FromSoft Game in Other Ways - Beyond Clips](https://dev.to/gg_news/ign-hell-is-us-isnt-a-soulslike-but-it-plays-like-a-fromsoft-game-in-other-ways-beyond-clips-3fpl)
-- [IGN: PS6: The Return of the PSP? - Next-Gen Console Watch](https://dev.to/gg_news/ign-ps6-the-return-of-the-psp-next-gen-console-watch-3mg5)
+- [Connecting the Centrifugo in laravel](https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78)
+- [Should you learn Rust NOW? My contribution to the Rust community - State Pattern in Rust...](https://dev.to/sommukhopadhyay/should-you-learn-rust-now-my-contribution-to-the-rust-community-state-pattern-in-rust-h1h)
+- [🚀 nuxt4-elsolya: مكتبة Nuxt 4 متكاملة بـ +130 مكون جاهز](https://dev.to/ahmed_niazy/nuxt4-elsolya-mktb-nuxt-4-mtkml-b-130-mkwn-jhz-2mll)
+- [Mastering VPS For Frontend Engineer - Part 2](https://dev.to/joseph42a/vps-for-frontend-engineer-part-2-7h5)
 <!-- BLOG-POST-LIST:END -->
 
 
