@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One more test](https://dev.to/ben/one-more-test-4p3j)
-- [Unlocking the Power of Agentic AI with Apache Iceberg and Dremio](https://dev.to/alexmercedcoder/unlocking-the-power-of-agentic-ai-with-apache-iceberg-and-dremio-5be0)
-- [This is a test!!](https://dev.to/ben/this-is-a-test-47p2)
-- [Sveltos vs Terraform: Friends, Not Rivals, in the Cloud-Native World](https://dev.to/simone_morellato/sveltos-vs-terraform-friends-not-rivals-in-the-cloud-native-world-8jk)
+- [Why I’m Excited About Open Source](https://dev.to/hsachdeva9/why-im-excited-about-open-source-2hj2)
+- [My Code Works… But I Don’t Know Why](https://dev.to/trojanmocx/my-code-works-but-i-dont-know-why-3g5k)
+- [How to Connect to Your VPN on macOS Using Tunnelblick and a Certificate](https://dev.to/icyy_bee/how-to-connect-to-your-vpn-on-macos-using-tunnelblick-and-a-certificate-5hig)
+- [Beyond Pretty Print: 8 JSON Workflows Using OnTheGoTools’ 20+ Utilities](https://dev.to/vimal-patel/beyond-pretty-print-8-json-workflows-using-onthegotools-20-utilities-5gd)
 <!-- BLOG-POST-LIST:END -->
 
 
