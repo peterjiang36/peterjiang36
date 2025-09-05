@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Angular Animations: Ditch the DSL, Keep the Power](https://dev.to/brianmtreese/modern-angular-animations-ditch-the-dsl-keep-the-power-76d)
-- [Command Pattern in Rust - absolutely driven by intrinsic motivation...](https://dev.to/sommukhopadhyay/command-pattern-in-rust-absolutely-driven-by-intrinsic-motivation-2gk2)
-- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
-- [Should You Learn Perl in 2025?](https://dev.to/lbvf50mobile/should-you-learn-perl-in-2025-1909)
+- [100 Days of DevOps: Day 33](https://dev.to/wycliffealphus/100-days-of-devops-day-34-5bia)
+- [How to Train a YOLO Segmentation Model with MIDV500 Dataset for ID Document Detection](https://dev.to/yushulx/how-to-train-a-yolo-segmentation-model-with-midv500-dataset-for-id-document-detection-25m5)
+- [Solution Layers in Power Automate Flows: Why Solution Upgrades Don’t Remove Active Layers](https://dev.to/nikhildynamicsce/solution-layers-in-power-automate-flows-why-solution-upgrades-dont-remove-active-layers-2n94)
+- [📏 Guide CursorAI with a `.prompt-rules.md` File](https://dev.to/devgaurav/-guide-cursorai-with-a-prompt-rulesmd-file-143m)
 <!-- BLOG-POST-LIST:END -->
 
 
