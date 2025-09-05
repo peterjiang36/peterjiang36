@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Advanced Tips and Tricks for GitHub Gists &lpar;Part 1: Unlocking the Power of Gists&rpar;](https://dev.to/this-is-learning/advanced-tips-and-tricks-for-github-gists-part-1-unlocking-the-power-of-gists-22h5)
-- [IGN: Hell is Us Review](https://dev.to/gg_news/ign-hell-is-us-review-104l)
-- [IGN: How to Get The Crest of Wanderer in Hollow Knight: Silksong](https://dev.to/gg_news/ign-how-to-get-the-crest-of-wanderer-in-hollow-knight-silksong-5c82)
-- [Postage calculation --SPL Programming Practice](https://dev.to/esproc_spl/postage-calculation-spl-programming-practice-320f)
+- [Modern Angular Animations: Ditch the DSL, Keep the Power](https://dev.to/brianmtreese/modern-angular-animations-ditch-the-dsl-keep-the-power-76d)
+- [Command Pattern in Rust - absolutely driven by intrinsic motivation...](https://dev.to/sommukhopadhyay/command-pattern-in-rust-absolutely-driven-by-intrinsic-motivation-2gk2)
+- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
+- [Should You Learn Perl in 2025?](https://dev.to/lbvf50mobile/should-you-learn-perl-in-2025-1909)
 <!-- BLOG-POST-LIST:END -->
 
 
