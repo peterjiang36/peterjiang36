@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
-- [Project of the Week: Emotion-js](https://dev.to/pullflow/project-of-the-week-emotion-js-3lkh)
-- [Draw to find a location anywhere](https://dev.to/coderhema/draw-to-find-a-location-anywhere-22op)
-- [Svelte Events &amp; Bindings Tutorial: Master Parent-Child Communication](https://dev.to/a1guy/svelte-events-bindings-tutorial-master-parent-child-communication-4o5o)
+- [Backend Implementation: From &#39;It Works on My Machine&#39; to Production-Ready API](https://dev.to/klasniyparen/backend-implementation-from-it-works-on-my-machine-to-production-ready-api-f36)
+- [KEXP: Crumb - Ice Melt &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ice-melt-live-on-kexp-4h11)
+- [KEXP: Crumb - Genie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-genie-live-on-kexp-41mh)
+- [KEXP: Crumb - AMAMA &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-amama-live-on-kexp-51d8)
 <!-- BLOG-POST-LIST:END -->
 
 
