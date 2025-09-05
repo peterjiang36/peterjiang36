@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside React Query: What’s Really Going On](https://dev.to/mohamad_msalme_38f2508ea2/inside-react-query-whats-really-going-on-31md)
-- [RC4: From Ubiquity to Collapse — and What It Taught Us About Trust](https://dev.to/dmytro_huz/rc4-from-ubiquity-to-collapse-and-what-it-taught-us-about-trust-45ld)
-- [Running Machine Learning Models in the Browser Using onnxruntime-web](https://dev.to/dinakajoy/running-machine-learning-models-in-the-browser-using-onnxruntime-web-3klc)
-- [Open Source? Open Mind!](https://dev.to/jongwan93/open-source-open-mind-2k6d)
+- [Starting My OpenMRS Journey: Why I&#39;m Diving Into Legacy Medical Software](https://dev.to/rooney_dev/starting-my-openmrs-journey-why-im-diving-into-legacy-medical-software-49b2)
+- [Automation in Practice: Partner Onboarding Case Study](https://dev.to/kumar111222rohit/automation-in-practice-partner-onboarding-case-study-obb)
+- [My OSD600 Journey](https://dev.to/oleksandrakordonets/my-osd600-journey-3bhf)
+- [My DevOps Journey: Part 1 — Learning Linux Through Real-World Tasks](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-1-learning-linux-through-real-world-tasks-4c41)
 <!-- BLOG-POST-LIST:END -->
 
 
