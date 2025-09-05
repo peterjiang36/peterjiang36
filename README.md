@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Wildcard SSL Setup is a Security Nightmare &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/certkit/your-wildcard-ssl-setup-is-a-security-nightmare-and-you-dont-even-know-it-317c)
-- [Understanding MongoDB $lookup performance](https://dev.to/lusqua/understanding-mongodb-lookup-performance-1l15)
-- [DevOps from the Driver&#39;s seat part 1](https://dev.to/robert_scott_339c35174a4d/devops-from-the-drivers-seat-part-1-k60)
-- [Exploring the Magic of Python’s dataclass Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-dataclass-module-20mf)
+- [No Laying Up Podcast: Chop Session with DJ Pie | Trap Draw, Ep 357](https://dev.to/youtube_golf/no-laying-up-podcast-chop-session-with-dj-pie-trap-draw-ep-357-4gcj)
+- [IGN: We played the Resident Evil: Requiem Demo | PAX West 2025](https://dev.to/gg_news/ign-we-played-the-resident-evil-requiem-demo-pax-west-2025-5g6g)
+- [IGN: Hell is Us Reveiw](https://dev.to/gg_news/ign-hell-is-us-reveiw-j8n)
+- [AI 编程与传统开发的系统性比较](https://dev.to/tuo_cheng_68980dbefbe1e75/ai-bian-cheng-yu-chuan-tong-kai-fa-de-xi-tong-xing-bi-jiao-354c)
 <!-- BLOG-POST-LIST:END -->
 
 
