@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Implementation: From &#39;It Works on My Machine&#39; to Production-Ready API](https://dev.to/klasniyparen/backend-implementation-from-it-works-on-my-machine-to-production-ready-api-f36)
-- [KEXP: Crumb - Ice Melt &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-ice-melt-live-on-kexp-4h11)
-- [KEXP: Crumb - Genie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-genie-live-on-kexp-41mh)
-- [KEXP: Crumb - AMAMA &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-crumb-amama-live-on-kexp-51d8)
+- [My Next Step in Cybersecurity: Internship at Young Cyber Knights Foundation](https://dev.to/seifeldienahmad/my-next-step-in-cybersecurity-internship-at-young-cyber-knights-foundation-3i1g)
+- [The Git Workflow That Will Make Your Code Reviews Actually Enjoyable 🔥](https://dev.to/c_6b7a8e65d067ddc62/the-git-workflow-that-will-make-your-code-reviews-actually-enjoyable-4gp3)
+- [13 Best GitHub Repositories Every Developer Should Bookmark 🚀](https://dev.to/kamrul_arafin/13-best-github-repositories-every-developer-should-bookmark-55lh)
+- [Yoo the v1 is suuuper amazing 🤩😻](https://dev.to/masterdevsabith/yoo-the-v1-is-suuuper-amazing-2gi9)
 <!-- BLOG-POST-LIST:END -->
 
 
