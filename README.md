@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Plough: How to Thrive When AI Rewrites the Job](https://dev.to/black-ib/beyond-the-plough-how-to-thrive-when-ai-rewrites-the-job-3p33)
-- [The Philosophical Choice Between SQLite and DuckDB for Flutter Developers](https://dev.to/sayed_ali_alkamel/the-philosophical-choice-between-sqlite-and-duckdb-for-flutter-developers-43hj)
-- [CompTIA Network+ N10-009 Notes: A Simple Guide to IPv4](https://dev.to/andrew_despres/comptia-network-n10-009-notes-a-simple-guide-to-ipv4-3mad)
-- [More Adventures in Vibe Coding...](https://dev.to/themindfulmerge/more-adventures-in-vibe-coding-1ggp)
+- [IGN: The COOLEST Tabletop Games and Accessories | PAX West 2025](https://dev.to/gg_news/ign-the-coolest-tabletop-games-and-accessories-pax-west-2025-4fc0)
+- [The Silent Siege: An Artisan&#39;s Guide to Hunting Memory Leaks in Long-Running Rails Processes](https://dev.to/alex_aslam/the-silent-siege-an-artisans-guide-to-hunting-memory-leaks-in-long-running-rails-processes-19c4)
+- [Sacred Pause: A Third State for AI Accountability](https://dev.to/lev_goukassian_5fe7ea654a/sacred-pause-a-third-state-for-ai-accountability-49mm)
+- [SDLC and AI](https://dev.to/lloydmc/sdlc-and-ai-1342)
 <!-- BLOG-POST-LIST:END -->
 
 
