@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 5th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-september-2025-2b6i)
-- [Create a Pull request into another repository using github actions.](https://dev.to/pcmagas/create-a-pull-request-into-another-repository-using-github-actions-e04)
-- [📅 Week 1 Recap: System Design + DSA Journey](https://dev.to/ik_8a78062fd65be769dd835/week-1-recap-system-design-dsa-journey-1c34)
-- [AI vs Machine Learning vs Deep Learning: What&#39;s the Difference?](https://dev.to/susender_r_42cbe314979e66/ai-vs-machine-learning-vs-deep-learning-whats-the-difference-153h)
+- [🏆⚛️React Roadmap Guide for Beginners 2025 &lpar;Updated&rpar;](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2025-updated-2050)
+- [How to Work with Files in Python &lpar;Read, Write, Append&rpar; 📂🐍](https://dev.to/menocode/how-to-work-with-files-in-python-read-write-append-2c9i)
+- [Hetzner Alternatives for 2025 &lpar;DigitalOcean, Linode, Vultr, OVHcloud&rpar;](https://dev.to/alakkadshaw/hetzner-alternatives-for-2025-digitalocean-linode-vultr-ovhcloud-5936)
+- [Subsets of AI - AI, Machine Learning, Deep Learning &amp; Gen AI](https://dev.to/shajam/subsets-of-ai-ai-machine-learning-deep-learning-gen-ai-4c2l)
 <!-- BLOG-POST-LIST:END -->
 
 
