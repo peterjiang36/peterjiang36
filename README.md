@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Content Creation Side Hustle Using AI and Made $5,000 in a Month](https://dev.to/walker876/how-i-built-a-content-creation-side-hustle-using-ai-and-made-5000-in-a-month-ofb)
-- [🎿“Minimum Operations to Make the Integer Zero” LeetCode: 2749 [C++, JavaScript, Python]](https://dev.to/om_shree_0709/minimum-operations-to-make-the-integer-zero-leetcode-2749-c-javascript-python-4a23)
-- [Agentic AI vs Infrastructure as Code: The Future of DevOps](https://dev.to/mechcloud_academy/agentic-ai-vs-infrastructure-as-code-the-future-of-devops-2kki)
-- [Docker Series — Episode 14: Docker Networking Deep Dive &lpar;Bridge, Host, Overlay&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78)
+- [A Factory Reset on Factory Functions](https://dev.to/senken18/a-factory-reset-on-factory-functions-22nl)
+- [Carbonyl: Forking Chromium to Render Live in a Terminal](https://dev.to/mrpunkdasilva/carbonyl-forking-chromium-to-render-live-in-a-terminal-2j9o)
+- [Building a Video-to-MP3 Converter with FastAPI Microservices](https://dev.to/fury17/building-a-video-to-mp3-converter-with-fastapi-microservices-57bm)
+- [Tempo.xyz: A Time-First Productivity Platform Rethinking How We Work](https://dev.to/mrpunkdasilva/tempoxyz-a-time-first-productivity-platform-rethinking-how-we-work-105c)
 <!-- BLOG-POST-LIST:END -->
 
 
