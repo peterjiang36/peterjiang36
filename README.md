@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Danny Maude: This Technique Makes Fairway Woods &amp; Hybrids So Easy!](https://dev.to/youtube_golf/danny-maude-this-technique-makes-fairway-woods-hybrids-so-easy-371e)
-- [My Cloud Resume: Built on Azure](https://dev.to/asimmakes/my-cloud-resume-built-on-azure-47o0)
-- [Zero Trust in Practice: A Blueprint for Architecting a Truly Defensible Network](https://dev.to/gagreatprogrammer/zero-trust-in-practice-a-blueprint-for-architecting-a-truly-defensible-network-2ho0)
-- [Ever wished programming languages spoke more like humans?](https://dev.to/emmanuel_lijo_6fa821ceec8/ever-wished-programming-languages-spoke-more-like-humans-57o1)
+- [Understanding Foundation Model](https://dev.to/shajam/understanding-foundation-model-1o0g)
+- [One-Day Builds: From Stagnation to Skill Mastery](https://dev.to/th3n0m4d/one-day-builds-from-stagnation-to-skill-mastery-igc)
+- [Passed the Hackviser CAPT Certification – My Module-by-Module Experience 🎯](https://dev.to/prateek_pulastya_9975efac/passed-the-hackviser-capt-certification-my-module-by-module-experience-1877)
+- [CrashLoopBackOff: Warrom Je Pods Blijven Crashen?](https://dev.to/shubhcloud/crashloopbackoff-warrom-je-pods-blijven-crashen-3imn)
 <!-- BLOG-POST-LIST:END -->
 
 
