@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🏆⚛️React Roadmap Guide for Beginners 2025 &lpar;Updated&rpar;](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2025-updated-2050)
-- [How to Work with Files in Python &lpar;Read, Write, Append&rpar; 📂🐍](https://dev.to/menocode/how-to-work-with-files-in-python-read-write-append-2c9i)
-- [Hetzner Alternatives for 2025 &lpar;DigitalOcean, Linode, Vultr, OVHcloud&rpar;](https://dev.to/alakkadshaw/hetzner-alternatives-for-2025-digitalocean-linode-vultr-ovhcloud-5936)
-- [Subsets of AI - AI, Machine Learning, Deep Learning &amp; Gen AI](https://dev.to/shajam/subsets-of-ai-ai-machine-learning-deep-learning-gen-ai-4c2l)
+- [Your Database is Your API: Auto-generate a FastAPI Backend in Seconds](https://dev.to/yrrrrrf/your-database-is-your-api-auto-generate-a-fastapi-backend-in-seconds-2hip)
+- [Deploying A Dockerized Golang App To AWS App Runner](https://dev.to/aws-builders/deploying-a-dockerized-golang-app-to-aws-app-runner-1hnn)
+- [Animalette, nature&#39;s palettes, reimagined.](https://dev.to/arefvc/animalette-natures-palettes-reimagined-4f0j)
+- [Taking Angulars Signal Forms for a Test Drive, Exploring the Experimental API](https://dev.to/luishcastroc/taking-angulars-signal-forms-for-a-test-drive-exploring-the-experimental-api-4aa1)
 <!-- BLOG-POST-LIST:END -->
 
 
