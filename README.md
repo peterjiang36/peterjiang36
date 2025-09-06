@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PasteSense – Take Control of Your Clipboard on Windows](https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7)
-- [Finite State Machines - the Universal Unit of Work](https://dev.to/trent_best_ca8617e4911baf/finite-state-machines-the-universal-unit-of-work-313p)
-- [Pare agora mesmo de utilizar alinhamento justificado!](https://dev.to/niagalves_/pare-agora-mesmo-de-utilizar-alinhamento-justificado-5cp1)
-- [Scaffold React &amp; Angular Apps in Minutes — Meet polyfront scaffold 🚀](https://dev.to/nirmalsamaranayaka/scaffold-react-angular-apps-in-minutes-meet-polyfront-scaffold-160i)
+- [My AI/ML learning journey &lpar;so far...&rpar;](https://dev.to/javitech_co/my-aiml-learning-journey-so-far-5691)
+- [Dashboards are the control centre of any business. They tell you what’s working, what’s broken, and where to focus. The problem? Building them in Excel can be time-consuming — formulas, pivot tables, formatting… it adds up. That’s where AI steps in.](https://dev.to/jaideepparashar/dashboards-are-the-control-centre-of-any-business-they-tell-you-whats-working-whats-broken-and-38go)
+- [🎉 **Major milestone: Just pushed my first project to GitHub!**](https://dev.to/carloshernandez1021/major-milestone-just-pushed-my-first-project-to-github-2a5i)
+- [How to Create AI-Powered Dashboards with ChatGPT + Excel](https://dev.to/jaideepparashar/how-to-create-ai-powered-dashboards-with-chatgpt-excel-3mb0)
 <!-- BLOG-POST-LIST:END -->
 
 
