@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-Audio 2 Mini: Open-Source Voice AI Outperforms GPT-4o-Audio](https://dev.to/aiwithapex/step-audio-2-mini-open-source-voice-ai-outperforms-gpt-4o-audio-pb1)
-- [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
-- [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
-- [Episode 15: Docker Networking — Custom Networks &amp; Real-World Use Cases](https://dev.to/yash_sonawane25/episode-15-docker-networking-custom-networks-real-world-use-cases-29l0)
+- [My Command Reference](https://dev.to/ktauchathuranga/my-command-reference-56ne)
+- [🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy &lpar;CBT&rpar;: A Practical Guide](https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0)
+- [Not Every Tech Business is a Startup: Understanding the Real Differences](https://dev.to/shipitsoon/not-every-tech-business-is-a-startup-understanding-the-real-differences-29)
+- [Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200)
 <!-- BLOG-POST-LIST:END -->
 
 
