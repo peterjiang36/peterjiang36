@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e)
-- [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p)
-- [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed)
-- [Complete Seaborn Tutorial &lpar;Day 01 &amp; Day 02&rpar; — Master Data Visualization with Python, Data Analytics, AI &amp; Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2)
+- [How to Actually Hit $10K MRR in 2025 &lpar;No BS, Just What Works&rpar;](https://dev.to/shayy/how-to-actually-hit-10k-mrr-in-2025-no-bs-just-what-works-204k)
+- [Day 2 of #30DaysOfCode](https://dev.to/justacoder_0x/day-2-of-30daysofcode-3aba)
+- [Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA](https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm)
+- [Hack The Box — Mongod &lpar;MongoDB&rpar;](https://dev.to/er/hack-the-box-mongod-mongodb-3o12)
 <!-- BLOG-POST-LIST:END -->
 
 
