@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;2/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-25-28je)
-- [Follower count](https://dev.to/masterdevsabith/follower-count-3j82)
-- [Not a VPN: A Two-Peer RAM-Only Tunnel &lpar;Cluddy&rpar;](https://dev.to/dimbiy/not-a-vpn-a-two-peer-ram-only-tunnel-cluddy-1m7j)
-- [Django-Clickify: The Complete Click Tracking Solution for Django](https://dev.to/romjanxr/django-clickify-the-complete-click-tracking-solution-for-django-3a2a)
+- [The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence](https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o)
+- [Building an AI-Powered Expense Tracker with Spring Boot, Spring AI, and Google Gemini](https://dev.to/swapniltake1/building-an-ai-powered-expense-tracker-with-spring-boot-spring-ai-and-google-gemini-5f48)
+- [🚀 AWS August 2025 Recap: AI Guardrails, VMware on AWS, Marketplace in India &amp; Prime Day Scale](https://dev.to/nishath_jp/aws-august-2025-recap-ai-guardrails-vmware-on-aws-marketplace-in-india-prime-day-scale-43a4)
+- [🚀 Mini Monitoring App in Go with Prometheus, Grafana &amp; CI/CD](https://dev.to/negin/mini-monitoring-app-in-go-with-prometheus-grafana-cicd-f50)
 <!-- BLOG-POST-LIST:END -->
 
 
