@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Foundation Model](https://dev.to/shajam/understanding-foundation-model-1o0g)
-- [One-Day Builds: From Stagnation to Skill Mastery](https://dev.to/th3n0m4d/one-day-builds-from-stagnation-to-skill-mastery-igc)
-- [Passed the Hackviser CAPT Certification – My Module-by-Module Experience 🎯](https://dev.to/prateek_pulastya_9975efac/passed-the-hackviser-capt-certification-my-module-by-module-experience-1877)
-- [CrashLoopBackOff: Warrom Je Pods Blijven Crashen?](https://dev.to/shubhcloud/crashloopbackoff-warrom-je-pods-blijven-crashen-3imn)
+- [The Syntax Scroll by Maria: A Developer&#39;s Weekly Digest](https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l)
+- [Notes on Using wabt](https://dev.to/yangholmes/notes-on-using-wabt-1ag0)
+- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/vanichitkara/building-personaprep-an-ai-personality-coach-with-kiro-2f62)
+- [Anthropic Just Paid $1.5B for Using Pirated Books to Train Claude - Here&#39;s What This Means for Developers](https://dev.to/shiva_shanker_k/anthropic-just-paid-15b-for-using-pirated-books-to-train-claude-heres-what-this-means-for-2g8e)
 <!-- BLOG-POST-LIST:END -->
 
 
