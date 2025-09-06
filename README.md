@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Command Reference](https://dev.to/ktauchathuranga/my-command-reference-56ne)
-- [🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy &lpar;CBT&rpar;: A Practical Guide](https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0)
-- [Not Every Tech Business is a Startup: Understanding the Real Differences](https://dev.to/shipitsoon/not-every-tech-business-is-a-startup-understanding-the-real-differences-29)
-- [Why Svelte 5 is Redefining Frontend Performance in 2025: A Deep Dive into Reactivity and Bundle Size Wins 🧑‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/why-svelte-5-is-redefining-frontend-performance-in-2025-a-deep-dive-into-reactivity-and-bundle-5200)
+- [Docker Hardened Images for Python: How I Eliminated 152 Vulnerabilities in One Simple Switch](https://dev.to/ajeetraina/docker-hardened-images-for-python-how-i-eliminated-152-vulnerabilities-in-one-simple-switch-2p1b)
+- [100 Days of DevOps, Day 1: Understanding Linux User Management and Shells](https://dev.to/olymahmud/100-days-of-devops-day-1-understanding-linux-user-management-and-shells-4f8n)
+- [Install pgAdmin on Ubuntu And connect RDS with pgAdmin](https://dev.to/tech_2e11d899e5893ff/install-pgadmin-on-ubuntu-and-connect-rds-with-pgadmin-enj)
+- [Expo + Maestro CI Pipeline Overviews &lpar;EAS Custom Builds, Maestro Cloud&rpar;](https://dev.to/isaacaddis/expo-maestro-ci-pipeline-overviews-eas-custom-builds-maestro-cloud-142n)
 <!-- BLOG-POST-LIST:END -->
 
 
