@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hard Truth About DevOps Learning: Practical Experience Over Presentations](https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g)
-- [The Hard Truth About Real-World DevOps: What Most Engineers Are Missing](https://dev.to/srinivasamcjf/the-hard-truth-about-real-world-devops-what-most-engineers-are-missing-15cm)
-- [Why Developer Advocacy Matters in India: A Guide for Aspiring Advocates](https://dev.to/nimit2801/why-developer-advocacy-matters-in-india-a-guide-for-aspiring-advocates-4pcn)
-- [Starting Nix](https://dev.to/tsusheel/starting-nix-33hh)
+- [🚀 Dapper vs. EF Core: Performance Showdown in 2025](https://dev.to/dev_saeid_ghaderi/dapper-vs-ef-core-performance-showdown-in-2025-4j32)
+- [What is Programming ?](https://dev.to/xetri/what-is-programming--218o)
+- [Top 5 Web Tools for URL Decode](https://dev.to/devtoolreview/top-5-web-tools-for-url-decode-2c62)
+- [Exporting Google docs to Markdown and HTML](https://dev.to/faisal_software/exporting-google-docs-to-markdown-and-html-4eno)
 <!-- BLOG-POST-LIST:END -->
 
 
