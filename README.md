@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Database is Your API: Auto-generate a FastAPI Backend in Seconds](https://dev.to/yrrrrrf/your-database-is-your-api-auto-generate-a-fastapi-backend-in-seconds-2hip)
-- [Deploying A Dockerized Golang App To AWS App Runner](https://dev.to/aws-builders/deploying-a-dockerized-golang-app-to-aws-app-runner-1hnn)
-- [Animalette, nature&#39;s palettes, reimagined.](https://dev.to/arefvc/animalette-natures-palettes-reimagined-4f0j)
-- [Taking Angulars Signal Forms for a Test Drive, Exploring the Experimental API](https://dev.to/luishcastroc/taking-angulars-signal-forms-for-a-test-drive-exploring-the-experimental-api-4aa1)
+- [How to Setup a LAMP Server at Home Using AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/alanvarghese-dev/how-to-setup-a-lamp-server-at-home-using-aws-step-by-step-guide-5904)
+- [Day 20 - Github Card project Part 3 - Styling](https://dev.to/railsstudent/day-20-github-card-project-part-3-styling-371d)
+- [The Fake That Makes Us Real: How GANs Are Rewiring Imagination](https://dev.to/naresh_82de734ade4c1c66d9/the-fake-that-makes-us-real-how-gans-are-rewiring-imagination-3kam)
+- [TRAVEL360 : Explore, Selfie, Share — Boosted by Gemini Nano Banana](https://dev.to/amine_zamani_c29c02303ef9/travel360-by-amine-zamani-4m6p)
 <!-- BLOG-POST-LIST:END -->
 
 
