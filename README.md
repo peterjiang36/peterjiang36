@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI/ML learning journey &lpar;so far...&rpar;](https://dev.to/javitech_co/my-aiml-learning-journey-so-far-5691)
-- [Dashboards are the control centre of any business. They tell you what’s working, what’s broken, and where to focus. The problem? Building them in Excel can be time-consuming — formulas, pivot tables, formatting… it adds up. That’s where AI steps in.](https://dev.to/jaideepparashar/dashboards-are-the-control-centre-of-any-business-they-tell-you-whats-working-whats-broken-and-38go)
-- [🎉 **Major milestone: Just pushed my first project to GitHub!**](https://dev.to/carloshernandez1021/major-milestone-just-pushed-my-first-project-to-github-2a5i)
-- [How to Create AI-Powered Dashboards with ChatGPT + Excel](https://dev.to/jaideepparashar/how-to-create-ai-powered-dashboards-with-chatgpt-excel-3mb0)
+- [Step-Audio 2 Mini: Open-Source Voice AI Outperforms GPT-4o-Audio](https://dev.to/aiwithapex/step-audio-2-mini-open-source-voice-ai-outperforms-gpt-4o-audio-pb1)
+- [How to Set Up a Jenkins CI/CD Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
+- [SupaWP Storage Filter Hooks - Seamless Supabase Storage Integration for WordPress](https://dev.to/dalenguyen/supawp-storage-filter-hooks-seamless-supabase-storage-integration-for-wordpress-1ana)
+- [Episode 15: Docker Networking — Custom Networks &amp; Real-World Use Cases](https://dev.to/yash_sonawane25/episode-15-docker-networking-custom-networks-real-world-use-cases-29l0)
 <!-- BLOG-POST-LIST:END -->
 
 
