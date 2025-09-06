@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Syntax Scroll by Maria: A Developer&#39;s Weekly Digest](https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l)
-- [Notes on Using wabt](https://dev.to/yangholmes/notes-on-using-wabt-1ag0)
-- [Building PersonaPrep: An AI Personality Coach with Kiro](https://dev.to/vanichitkara/building-personaprep-an-ai-personality-coach-with-kiro-2f62)
-- [Anthropic Just Paid $1.5B for Using Pirated Books to Train Claude - Here&#39;s What This Means for Developers](https://dev.to/shiva_shanker_k/anthropic-just-paid-15b-for-using-pirated-books-to-train-claude-heres-what-this-means-for-2g8e)
+- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
+- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
+- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
+- [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
 <!-- BLOG-POST-LIST:END -->
 
 
