@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guess My Drawing: Can Gemini Read Your Mind in One Line?](https://dev.to/olgabraginskaya/guess-my-drawing-can-gemini-read-your-mind-in-one-line-1e36)
-- [SQLite Dot command: Once](https://dev.to/mr_destructive/sqlite-dot-command-once-cfo)
-- [Wear OS Accessibility Considerations](https://dev.to/eevajonnapanula/wear-os-accessibility-considerations-32i1)
-- [Day 87: When Productivity Meets Sleep Deprivation](https://dev.to/casperday11/day-87-when-productivity-meets-sleep-deprivation-24e4)
+- [Nahre Sol: Fly Me to the Moon in the Styles of 6 Classical Composers](https://dev.to/music_youtube/nahre-sol-fly-me-to-the-moon-in-the-styles-of-6-classical-composers-ib4)
+- [Hibernate Performance: Boost High-Volume Queries with Read-Only Sessions](https://dev.to/vishad_patel_f54e007e16e5/hibernate-performance-boost-high-volume-queries-with-read-only-sessions-2jpn)
+- [🗓 Daily LeetCode Progress – Day 19](https://dev.to/ertugrulmutlu/daily-leetcode-progress-day-19-3074)
+- [Building a Multi-Language Code Integration Component with React &amp; TypeScript 🚀](https://dev.to/alaaio/building-a-multi-language-code-integration-component-with-react-typescript-5ehp)
 <!-- BLOG-POST-LIST:END -->
 
 
