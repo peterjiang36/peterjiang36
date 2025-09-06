@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your PostgreSQL Queries with Materialized Views! 🚀](https://dev.to/alexrivers/supercharge-your-postgresql-queries-with-materialized-views-4g02)
-- [Futuristic Dashboards: Designing with Data, Animation, and Prediction](https://dev.to/arunacha_dinesh/futuristic-dashboards-designing-with-data-animation-and-prediction-2j6d)
-- [Learning Coding from High Skilled Professional Programmers](https://dev.to/rudolfolah/learning-coding-from-high-skilled-professional-programmers-28cj)
-- [Using React Native Components in a Next.js Web App &lpar;via @expo/next-adapter&rpar;](https://dev.to/isaacaddis/using-react-native-components-in-a-nextjs-web-app-via-exponext-adapter-3497)
+- [The Rust Journey of a JavaScript Developer • Day 4 &lpar;2/5&rpar;](https://dev.to/fedtti/the-rust-journey-of-a-javascript-developer-day-4-25-28je)
+- [Follower count](https://dev.to/masterdevsabith/follower-count-3j82)
+- [Not a VPN: A Two-Peer RAM-Only Tunnel &lpar;Cluddy&rpar;](https://dev.to/dimbiy/not-a-vpn-a-two-peer-ram-only-tunnel-cluddy-1m7j)
+- [Django-Clickify: The Complete Click Tracking Solution for Django](https://dev.to/romjanxr/django-clickify-the-complete-click-tracking-solution-for-django-3a2a)
 <!-- BLOG-POST-LIST:END -->
 
 
