@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 7 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh)
-- [JavaScript Array Methods: A Guide with Examples](https://dev.to/mohammedtaysser/javascript-array-methods-a-guide-with-examples-3a16)
-- [Goal - To build the best brand generator.](https://dev.to/chromaticautomatic/goal-to-build-the-best-brand-generator-3phi)
-- [Inside the $1 Trillion Tech Summit: What Trump&#39;s White House Dinner Means for Developers](https://dev.to/shiva_shanker_k/inside-the-1-trillion-tech-summit-what-trumps-white-house-dinner-means-for-developers-1ef3)
+- [How to Create &amp; Self-Publish a Children&#39;s Book on Amazon KDP Using AI &lpar;Step-by-Step Guide&rpar;](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
+- [barK: A Lightweight Logging Library for Android](https://dev.to/ivangarzab/bark-a-lightweight-logging-library-for-android-49i6)
+- [Island Ghost Midnight tools for the XRPL Community](https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min)
+- [FlashAttention by hand](https://dev.to/lewis_won/flashattention-by-hand-34im)
 <!-- BLOG-POST-LIST:END -->
 
 
