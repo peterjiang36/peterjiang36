@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup a LAMP Server at Home Using AWS &lpar;Step-by-Step Guide&rpar;](https://dev.to/alanvarghese-dev/how-to-setup-a-lamp-server-at-home-using-aws-step-by-step-guide-5904)
-- [Day 20 - Github Card project Part 3 - Styling](https://dev.to/railsstudent/day-20-github-card-project-part-3-styling-371d)
-- [The Fake That Makes Us Real: How GANs Are Rewiring Imagination](https://dev.to/naresh_82de734ade4c1c66d9/the-fake-that-makes-us-real-how-gans-are-rewiring-imagination-3kam)
-- [TRAVEL360 : Explore, Selfie, Share — Boosted by Gemini Nano Banana](https://dev.to/amine_zamani_c29c02303ef9/travel360-by-amine-zamani-4m6p)
+- [Before Kamal: How to Set Up a VM, Domain, and Dockerfile the Easy Way](https://dev.to/kevinluo201/before-kamal-how-to-set-up-a-vm-domain-and-dockerfile-the-easy-way-3ih7)
+- [🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification](https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1)
+- [Hollow Knight: Silksong derruba as lojas digitais e até combate a pirataria com preço justo](https://dev.to/iamthiago/hollow-knight-silksong-derruba-as-lojas-digitais-e-ate-combate-a-pirataria-com-preco-justo-2d4a)
+- [NPR Music: AMERICANAFEST Day Stage 2025: Wednesday, Sept. 10](https://dev.to/music_youtube/npr-music-americanafest-day-stage-2025-wednesday-sept-10-5bek)
 <!-- BLOG-POST-LIST:END -->
 
 
