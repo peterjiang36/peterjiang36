@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: DC3 | A COLORS SHOW](https://dev.to/music_youtube/colors-dc3-a-colors-show-3ean)
-- [IGN: Dreadcore: Locked Unit – Official Gameplay Trailer](https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8)
-- [How to Use Semantic Versioning and Conventional Commits With Husky](https://dev.to/fedtti/how-to-use-semantic-versioning-and-conventional-commits-with-husky-1g6i)
-- [The Staging Strikes Back: Safer Emails in Laravel with Mailpit](https://dev.to/killallskywalker/the-staging-strikes-back-safer-emails-in-laravel-with-mailpit-2bp5)
+- [The Untold Story of Comet Browser](https://dev.to/dhrn/the-untold-story-of-comet-browser-1k3e)
+- [All about Big O Notation](https://dev.to/extinctsion/all-about-big-o-notation-20j8)
+- [AWS Toronto Summit 2025 - My Experience at DEV202 session](https://dev.to/aws-builders/aws-toronto-summit-2025-my-experience-at-dev202-session-29pd)
+- [Getting Started with GoLogin and Puppeteer: A Beginner’s Guide to Browser Fingerprinting in Node.js &lpar;TypeScript&rpar;](https://dev.to/vaibhav_pushpad_08503e0ba/getting-started-with-gologin-and-puppeteer-a-beginners-guide-to-browser-fingerprinting-in-nodejs-12l2)
 <!-- BLOG-POST-LIST:END -->
 
 
