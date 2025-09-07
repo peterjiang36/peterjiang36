@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Selectorless Components: Angular&#39;s Approach to Boilerplate-Free UIs](https://dev.to/karol_modelski/building-selectorless-components-angulars-approach-to-boilerplate-free-uis-i29)
-- [𝐖𝐡𝐲 𝐰𝐨𝐮𝐥𝐝 𝐚 𝐜𝐥𝐨𝐮𝐝 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐠𝐨 𝐛𝐚𝐜𝐤 𝐭𝐨 𝐭𝐡𝐞 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠?](https://dev.to/figueroaeandres/-5agh)
-- [Mediator Design Pattern in Python...](https://dev.to/sommukhopadhyay/mediator-design-pattern-in-python-4gm4)
-- [From Object Oriented Analysis and Design to Language like Rust - a major paradigm shift in the programming world...](https://dev.to/sommukhopadhyay/from-object-oriented-analysis-and-design-to-language-like-rust-a-major-paradigm-shift-in-the-1fie)
+- [Styling in Svelte &lpar;Scoped CSS, :global, and Class Directives&rpar;](https://dev.to/a1guy/styling-in-svelte-scoped-css-global-and-class-directives-1mna)
+- [【Vite Error Resolution】How to Fix the “vite-tsconfig-paths Not Found” Issue](https://dev.to/kazutora_hattori_66972c88/vite-error-resolution-how-to-fix-the-vite-tsconfig-paths-not-found-issue-492p)
+- [AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini](https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb)
+- [How I help a huge enterprise React project run dev 5x times faster](https://dev.to/tuannq/how-i-help-a-huge-enterprise-react-project-run-dev-5x-times-faster-2mj4)
 <!-- BLOG-POST-LIST:END -->
 
 
