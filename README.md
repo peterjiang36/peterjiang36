@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Github&#39;s Missing Feature : Folder Download](https://dev.to/fact_king_2b3f0de5ca7b3d3/githubs-missing-feature-folder-download-4g6n)
-- [Smart Logging in .NET with Serilog](https://dev.to/gaatif/smart-logging-in-net-with-serilog-6n3)
-- [Handling Massive Excel Files in Angular: From Upload to IndexedDB with Lightning-Fast Search](https://dev.to/aniruddha_deb_ng/handling-massive-excel-files-in-angular-from-upload-to-indexeddb-with-lightning-fast-search-p8n)
-- [Migrating from Kubernetes Ingress to Gateway API: A Step-by-Step Guide](https://dev.to/kelvinmanavar/migrating-from-kubernetes-ingress-to-gateway-api-a-step-by-step-guide-5bhi)
+- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np)
+- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d)
+- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj)
+- [The Reality Check: Are We Building for Comfort or for Change?](https://dev.to/jimmyshoe85/the-reality-check-are-we-building-for-comfort-or-for-change-480b)
 <!-- BLOG-POST-LIST:END -->
 
 
