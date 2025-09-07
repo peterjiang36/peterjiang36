@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ataulfo: The RWA Marketplace Committed to Your Privacy](https://dev.to/bochaco_bc80539/ataulfo-the-rwa-marketplace-committed-to-your-privacy-27dd)
-- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
-- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
-- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
+- [Cracking Consensus Algorithms for System Design Interviews](https://dev.to/codewithved/cracking-consensus-algorithms-for-system-design-interviews-2872)
+- [Mastering Kubernetes for System Design Interviews](https://dev.to/codewithved/mastering-kubernetes-for-system-design-interviews-hp7)
+- [Conquering the CAP Theorem for System Design Interviews](https://dev.to/codewithved/conquering-the-cap-theorem-for-system-design-interviews-5faa)
+- [Unlocking Message Queues for System Design Interviews](https://dev.to/codewithved/unlocking-message-queues-for-system-design-interviews-1o2o)
 <!-- BLOG-POST-LIST:END -->
 
 
