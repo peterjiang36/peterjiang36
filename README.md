@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
-- [Why I Switched From Google Fonts CDN to Self-Hosting &lpar;and Never Looked Back&rpar;](https://dev.to/web_dev-usman/why-i-switched-from-google-fonts-cdn-to-self-hosting-and-never-looked-back-3fbh)
-- [Anatomy Illustrator AI](https://dev.to/ha3k/anatomy-illustrator-ai-2a9e)
-- [Weekly #36-2025: OpenAI Hiring, FastSearch Speed, AI Coding Reality, Trendy Hiring Risks, Illegible Work](https://dev.to/weekly/weekly-36-2025-openai-hiring-fastsearch-speed-ai-coding-reality-trendy-hiring-risks-illegible-109f)
+- [3 Tier appilcation -Day 4](https://dev.to/dev_saini_ce708cfac6b9562/3-tier-appilcation-day-4-dpb)
+- [Django Without the Mess: Repositories for Data, Services for Rules](https://dev.to/soldatov-ss/django-without-the-mess-repositories-for-data-services-for-rules-k8e)
+- [Why Your `@Transform` Decorator Doesn’t Run in class-transformer &lpar;and How to Fix It&rpar;](https://dev.to/deko39/why-your-transform-decorator-doesnt-run-in-class-transformer-and-how-to-fix-it-3ka6)
+- [Not Just Storage: The Hidden Logic Behind Bucket Types](https://dev.to/jatin_goel_dac08bb6728f1e/not-just-storage-the-hidden-logic-behind-bucket-types-2a5j)
 <!-- BLOG-POST-LIST:END -->
 
 
