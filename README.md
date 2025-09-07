@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship small, ship often: Practical Kubernetes CI/CD on a budget &lpar;GitHub Actions + Helm&rpar;](https://dev.to/digitalpollution/ship-small-ship-often-practical-kubernetes-cicd-on-a-budget-github-actions-helm-3bnl)
-- [HOW TO CREATE A KEYVAULT ON AZURE WITH CMD STEP BY STEP GUIDE](https://dev.to/ajayid10/how-to-create-a-keyvault-on-azure-with-cmd-step-by-step-guide-4jfp)
-- [FestFund: Private Contributions &amp; Public Recognition - A Zero-Knowledge Fundraising Solution](https://dev.to/aryprogrammer/festfund-private-contributions-public-recognition-a-zero-knowledge-fundraising-solution-g79)
-- [Step-by-Step Guide: Setting Up and Running evi-run on DigitalOcean or Other VPS &lpar;for Beginners&rpar;](https://dev.to/evi-run/step-by-step-guide-setting-up-and-running-evi-run-on-digitalocean-or-other-vps-for-beginners-hde)
+- [Building a simple Crypto Portfolio Tracker with PyQt6](https://dev.to/kolyaiks/building-a-simple-crypto-portfolio-tracker-with-pyqt6-1mbk)
+- [[Boost]](https://dev.to/mahinshanazeer/-9gl)
+- [Kickstart Your Web Projects with ProXtyle: A Lightweight CSS Framework](https://dev.to/programmerkr/kickstart-your-web-projects-with-proxtyle-a-lightweight-css-framework-5d4n)
+- [One of the most common questions I get is: “How do you consistently turn ideas into full-length articles without burning out?”](https://dev.to/jaideepparashar/one-of-the-most-common-questions-i-get-is-how-do-you-consistently-turn-ideas-into-full-length-4ghk)
 <!-- BLOG-POST-LIST:END -->
 
 
