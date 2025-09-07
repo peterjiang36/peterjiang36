@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Best Free Planning Poker Tools for Agile Teams in 2025](https://dev.to/mattlewandowski93/5-best-free-planning-poker-tools-for-agile-teams-in-2025-2i02)
+- [Build Faster, Lighter, Smarter Websites with Astro](https://dev.to/muhammad_moon_a4f4d3197cb/build-faster-lighter-smarter-websites-with-astro-26h3)
 - [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng)
-- [Article 1 : Intro to Gen AI ,LLMS and LangChain Frameworks&lpar;Part B&rpar;](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-b-1f84)
-- [IGN: Hollow Knight: Silksong - How to Get the Crest of Beast | Savage Beastfly Boss Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-crest-of-beast-savage-beastfly-boss-guide-k4h)
-- [I Realized I Spend 30% of My Terminal Time in Chrome Tabs](https://dev.to/alen_mangattu_24317d21636/i-realized-i-spend-30-of-my-terminal-time-in-chrome-tabs-1001)
+- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859)
 <!-- BLOG-POST-LIST:END -->
 
 
