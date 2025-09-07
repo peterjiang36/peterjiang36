@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Apache Airflow is the Cornerstone of Modern Data Engineering](https://dev.to/augo_amos/why-apache-airflow-is-the-cornerstone-of-modern-data-engineering-bhh)
-- [Look &amp; Learn: a Google AI Multimodal Challenge Entry](https://dev.to/_bigblind/look-learn-a-google-ai-multimodal-challenge-entry-34lk)
-- [Malik&#39;s experience with code](https://dev.to/malik_daliet/maliks-experience-with-code-1oh0)
-- [Notifications in JavaScript: Introducing notify-zh 🔔](https://dev.to/xavivzla/notifications-in-javascript-introducing-notify-zh-5bi6)
+- [AWS Blogs by Hasan Poonawala](https://dev.to/hasanp87/aws-blogs-by-hasan-poonawala-2h60)
+- [The Guide to Safe &amp; Modern C Memory Allocation Strategy](https://dev.to/lwdjohari/the-guide-to-safe-modern-c-memory-allocation-strategy-1akn)
+- [gemini-cli: el nuevo aliado para l@s devs](https://dev.to/iblancasa/gemini-cli-el-nuevo-aliado-para-ls-devs-2hf4)
+- [Setting Up Shopify App + NestJS Backend: A Step-by-Step Local Development Guide](https://dev.to/georges_heloussato_d6ff14/setting-up-shopify-app-nestjs-backend-a-step-by-step-local-development-guide-2ca9)
 <!-- BLOG-POST-LIST:END -->
 
 
