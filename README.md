@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Atomica- Turn Science into understandable concepts](https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj)
-- [Checkout PacGuard.](https://dev.to/sensurajit/checkout-pacguard-27aj)
-- [🧠Loop of Truth: From Loose Tricks to Structured Reasoning](https://dev.to/marcosomma/loop-of-truth-from-loose-tricks-to-structured-reasoning-2lh)
-- [Tailwind CSS + Svelte: Utility-First Styling at Scale](https://dev.to/a1guy/tailwind-css-svelte-utility-first-styling-at-scale-acb)
+- [Is this Vibe Coding?](https://dev.to/matt_pass/is-this-vibe-coding-30e3)
+- [APIs 101: What They Are and Why They Matter](https://dev.to/devdami/apis-101-what-they-are-and-why-they-matter-9bg)
+- [Zero-Downtime Database Migration: The Definitive Guide](https://dev.to/ari-ghosh/zero-downtime-database-migration-the-definitive-guide-5672)
+- [MinIO Distributed Storage](https://dev.to/hamza_erradi/minio-distributed-storage-3237)
 <!-- BLOG-POST-LIST:END -->
 
 
