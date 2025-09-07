@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Payout based on Private Information: Golf Barbecue Coin &lpar;GBC&rpar;](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5)
-- [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0)
-- [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp)
-- [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm)
+- [Ataulfo: The RWA Marketplace Committed to Your Privacy](https://dev.to/bochaco_bc80539/ataulfo-the-rwa-marketplace-committed-to-your-privacy-27dd)
+- [Can We Set the Record Straight? AI, Content, and a Bit of Sanity 🙏](https://dev.to/anchildress1/can-we-set-the-record-straight-ai-content-and-a-bit-of-sanity-1inj)
+- [What is Redis Cache ?](https://dev.to/satyabrata_dd224dce47e7bc/what-is-redis-cache--435h)
+- [&quot;useMemoization&quot; in reactjs](https://dev.to/avinashmahlawat/usememoization-in-reactjs-286n)
 <!-- BLOG-POST-LIST:END -->
 
 
