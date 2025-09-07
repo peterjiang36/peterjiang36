@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Free Planning Poker Tools for Agile Teams in 2025](https://dev.to/mattlewandowski93/5-best-free-planning-poker-tools-for-agile-teams-in-2025-2i02)
-- [Build Faster, Lighter, Smarter Websites with Astro](https://dev.to/muhammad_moon_a4f4d3197cb/build-faster-lighter-smarter-websites-with-astro-26h3)
-- [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng)
-- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859)
+- [Ship small, ship often: Practical Kubernetes CI/CD on a budget &lpar;GitHub Actions + Helm&rpar;](https://dev.to/digitalpollution/ship-small-ship-often-practical-kubernetes-cicd-on-a-budget-github-actions-helm-3bnl)
+- [HOW TO CREATE A KEYVAULT ON AZURE WITH CMD STEP BY STEP GUIDE](https://dev.to/ajayid10/how-to-create-a-keyvault-on-azure-with-cmd-step-by-step-guide-4jfp)
+- [FestFund: Private Contributions &amp; Public Recognition - A Zero-Knowledge Fundraising Solution](https://dev.to/aryprogrammer/festfund-private-contributions-public-recognition-a-zero-knowledge-fundraising-solution-g79)
+- [Step-by-Step Guide: Setting Up and Running evi-run on DigitalOcean or Other VPS &lpar;for Beginners&rpar;](https://dev.to/evi-run/step-by-step-guide-setting-up-and-running-evi-run-on-digitalocean-or-other-vps-for-beginners-hde)
 <!-- BLOG-POST-LIST:END -->
 
 
