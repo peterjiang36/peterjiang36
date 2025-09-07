@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this Vibe Coding?](https://dev.to/matt_pass/is-this-vibe-coding-30e3)
-- [APIs 101: What They Are and Why They Matter](https://dev.to/devdami/apis-101-what-they-are-and-why-they-matter-9bg)
-- [Zero-Downtime Database Migration: The Definitive Guide](https://dev.to/ari-ghosh/zero-downtime-database-migration-the-definitive-guide-5672)
-- [MinIO Distributed Storage](https://dev.to/hamza_erradi/minio-distributed-storage-3237)
+- [DNS 101: The Internet’s GPS for Websites](https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj)
+- [Why I Switched From Google Fonts CDN to Self-Hosting &lpar;and Never Looked Back&rpar;](https://dev.to/web_dev-usman/why-i-switched-from-google-fonts-cdn-to-self-hosting-and-never-looked-back-3fbh)
+- [Anatomy Illustrator AI](https://dev.to/ha3k/anatomy-illustrator-ai-2a9e)
+- [Weekly #36-2025: OpenAI Hiring, FastSearch Speed, AI Coding Reality, Trendy Hiring Risks, Illegible Work](https://dev.to/weekly/weekly-36-2025-openai-hiring-fastsearch-speed-ai-coding-reality-trendy-hiring-risks-illegible-109f)
 <!-- BLOG-POST-LIST:END -->
 
 
