@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in Python 🚀](https://dev.to/khaoula612/my-first-steps-in-python-27ak)
-- [How to Generate PDFs from HTML with Express and PDF Echo](https://dev.to/itomasi/how-to-generate-pdfs-from-html-with-express-and-pdf-echo-2dlm)
-- [🩺 NephroPredict: Machine Learning for Chronic Kidney Disease Detection](https://dev.to/abubakar_shabbir/nephropredict-machine-learning-for-chronic-kidney-disease-detection-2nc8)
-- [Day 44: Relational Database Service in AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-44-relational-database-service-in-aws-9j5)
+- [Why Apache Airflow is the Cornerstone of Modern Data Engineering](https://dev.to/augo_amos/why-apache-airflow-is-the-cornerstone-of-modern-data-engineering-bhh)
+- [Look &amp; Learn: a Google AI Multimodal Challenge Entry](https://dev.to/_bigblind/look-learn-a-google-ai-multimodal-challenge-entry-34lk)
+- [Malik&#39;s experience with code](https://dev.to/malik_daliet/maliks-experience-with-code-1oh0)
+- [Notifications in JavaScript: Introducing notify-zh 🔔](https://dev.to/xavivzla/notifications-in-javascript-introducing-notify-zh-5bi6)
 <!-- BLOG-POST-LIST:END -->
 
 
