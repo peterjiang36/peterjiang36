@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Core: Deep Dive](https://dev.to/aialvi/wordpress-core-deep-dive-mgc)
-- [Cost-Efficient ETL for Small Datasets using AWS Lambda, S3, Wrangler, and Glue](https://dev.to/charlesuneze/cost-efficient-etl-for-small-datasets-using-aws-lambda-s3-wrangler-and-glue-4o79)
-- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
-- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
+- [NPR Music: Michael Mayo: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-michael-mayo-tiny-desk-concert-1a5j)
+- [Mr Sunday Movies: How Disney lost Gen Z](https://dev.to/popcorn_movies/mr-sunday-movies-how-disney-lost-gen-z-ien)
+- [Famous Five Next.js SaaS Templates for Your Startup &amp; Products](https://dev.to/isanjayjoshi/top-nextjs-saas-templates-for-your-next-startup-products-m0n)
+- [How to Write Cleaner Code by Thinking Like an Architect](https://dev.to/leena_malhotra/how-to-write-cleaner-code-by-thinking-like-an-architect-1nci)
 <!-- BLOG-POST-LIST:END -->
 
 
