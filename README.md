@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Bonds](https://dev.to/madgan95/introduction-to-bonds-3816)
-- [The Ultimate Guide to SQL Joins and Subqueries Explained](https://dev.to/datalane/the-ultimate-guide-to-sql-joins-and-subqueries-explained-a48)
-- [Copilot Was Watching — Entrusting Research Materials to AI](https://dev.to/hanamaruki_ai/copilot-was-watching-entrusting-research-materials-to-ai-1dn4)
-- [Understanding SQL Constructs: Subqueries, CTEs, and Stored Procedures](https://dev.to/gregory42266270/understanding-sql-constructs-subqueries-ctes-and-stored-procedures-1glb)
+- [Passing Dynamic Environment Variables Between GitLab CI Matrix Jobs: AWS OIDC Example](https://dev.to/u11d/passing-dynamic-environment-variables-between-gitlab-ci-matrix-jobs-aws-oidc-example-1h9c)
+- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
+- [Kubernetes Workload Types: When to Use What](https://dev.to/shohams/kubernetes-workload-types-when-to-use-what-292h)
+- [PrivJob: ZK-Verified Job Board](https://dev.to/abraham_root/privjob-zk-verified-job-board-1k66)
 <!-- BLOG-POST-LIST:END -->
 
 
