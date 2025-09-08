@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chef Tips and Tricks](https://dev.to/mvaldes/chef-tips-and-tricks-3kj8)
-- [Xcode Yerine Cursor: macOS Varsayılan Editör Değiştirme](https://dev.to/yemreak/xcode-yerine-cursor-macos-varsayilan-editor-degistirme-58f6)
-- [My SaaS Infrastructure as a Solo Founder](https://dev.to/shayy/my-saas-infrastructure-as-a-solo-founder-2ghl)
-- [Day 30 of My Data Analytics Journey !](https://dev.to/ramyacse/day-30-of-my-data-analytics-journey--5f4a)
+- [GameSpot: Destiny 2: Renegades + Ash &amp; Iron Update | Developer Livestream](https://dev.to/gg_news/gamespot-destiny-2-renegades-ash-iron-update-developer-livestream-3dnk)
+- [IGN: Winnie-the-Pooh: Black Honey - Official Announcement Trailer](https://dev.to/gg_news/ign-winnie-the-pooh-black-honey-official-announcement-trailer-12ea)
+- [IGN: Super Pocket NEOGEO Edition - Official Launch Trailer](https://dev.to/gg_news/ign-super-pocket-neogeo-edition-official-launch-trailer-ccg)
+- [Transformers: The Silent Revolution That Changed AI &lpar;and It’s Not Michael Bay’s Robots&rpar;](https://dev.to/alexandre_almeida_59b72b5/transformers-the-silent-revolution-that-changed-ai-and-its-not-michael-bays-robots-36fp)
 <!-- BLOG-POST-LIST:END -->
 
 
