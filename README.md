@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
+- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
 - [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
 - [🚀 From 2–5 Minutes to &lt; 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j)
-- [Laura Kampf: A Carry On Suitcase Made From Trash &lpar;ONE DAY BUILD&rpar;](https://dev.to/maker_youtube/laura-kampf-a-carry-on-suitcase-made-from-trash-one-day-build-knk)
-- [IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer](https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g)
 <!-- BLOG-POST-LIST:END -->
 
 
