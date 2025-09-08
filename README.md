@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Brittany Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-full-performance-live-on-kexp-4adl)
-- [IGN: Ghost of Yotei - Official &#39;Journey Through The Edge of Japan&#39; Flyover](https://dev.to/gg_news/ign-ghost-of-yotei-official-journey-through-the-edge-of-japan-flyover-fmp)
-- [IGN: Digimon Story Time Stranger: Our Thoughts After Playing 4 Hours](https://dev.to/gg_news/ign-digimon-story-time-stranger-our-thoughts-after-playing-4-hours-59ec)
-- [IGN: War Mechanic - Official Re-reveal Trailer](https://dev.to/gg_news/ign-war-mechanic-official-re-reveal-trailer-2id2)
+- [Chef Tips and Tricks](https://dev.to/mvaldes/chef-tips-and-tricks-3kj8)
+- [Xcode Yerine Cursor: macOS Varsayılan Editör Değiştirme](https://dev.to/yemreak/xcode-yerine-cursor-macos-varsayilan-editor-degistirme-58f6)
+- [My SaaS Infrastructure as a Solo Founder](https://dev.to/shayy/my-saas-infrastructure-as-a-solo-founder-2ghl)
+- [Day 30 of My Data Analytics Journey !](https://dev.to/ramyacse/day-30-of-my-data-analytics-journey--5f4a)
 <!-- BLOG-POST-LIST:END -->
 
 
