@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
-- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
-- [Root Cause Analysis &lpar;RCA&rpar;: entendendo a causa raiz de incidentes](https://dev.to/marcos_vile/root-cause-analysis-rca-entendendo-a-causa-raiz-de-incidentes-37pp)
-- [RavenDB Launches the First Database-Native AI Agent Creator: The Missing Piece for Secure, Integrated AI](https://dev.to/om_shree_0709/ravendb-launches-the-first-database-native-ai-agent-creator-the-missing-piece-for-secure-2847)
+- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
+- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
+- [From 49 to 95: How Prompt Engineering Boosted Gemini MCP Image Generation](https://dev.to/shinpr/from-49-to-95-how-prompt-engineering-boosted-gemini-mcp-image-generation-19n8)
+- [Day 1: Summon Your QuestBot 🤖⚡](https://dev.to/creator_x/day-1-summon-your-questbot-2nij)
 <!-- BLOG-POST-LIST:END -->
 
 
