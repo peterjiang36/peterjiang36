@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Destiny 2: Renegades + Ash &amp; Iron Update | Developer Livestream](https://dev.to/gg_news/gamespot-destiny-2-renegades-ash-iron-update-developer-livestream-3dnk)
-- [IGN: Winnie-the-Pooh: Black Honey - Official Announcement Trailer](https://dev.to/gg_news/ign-winnie-the-pooh-black-honey-official-announcement-trailer-12ea)
-- [IGN: Super Pocket NEOGEO Edition - Official Launch Trailer](https://dev.to/gg_news/ign-super-pocket-neogeo-edition-official-launch-trailer-ccg)
-- [Transformers: The Silent Revolution That Changed AI &lpar;and It’s Not Michael Bay’s Robots&rpar;](https://dev.to/alexandre_almeida_59b72b5/transformers-the-silent-revolution-that-changed-ai-and-its-not-michael-bays-robots-36fp)
+- [WebGPU Engine from Scratch Part 8: Physically Based Lighting &lpar;PBR&rpar;](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-8-physically-based-lighting-pbr-5gpf)
+- [[Boost]](https://dev.to/ben/-3p32)
+- [Day 89: When the Universe Decides to Test Your Multitasking Skills](https://dev.to/casperday11/day-89-when-the-universe-decides-to-test-your-multitasking-skills-1lhi)
+- [Using Docker + Traefik + WordPress on Hostinger VPS](https://dev.to/gu1lh3rm3_x/using-docker-traefik-wordpress-on-hostinger-vps-1jfb)
 <!-- BLOG-POST-LIST:END -->
 
 
