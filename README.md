@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways New Coders Can Use AI Without Generating Code](https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o)
-- [Google’s Nano-Banana: The Mind-Blowing AI That Edits Images on Command](https://dev.to/aiwithapex/googles-nano-banana-the-mind-blowing-ai-that-edits-images-on-command-4i64)
-- [Kubernetes Storage Playlist - Part 1: Storage on an Amazon EKS Cluster](https://dev.to/aws-builders/kubernetes-storage-playlist-part-1-storage-on-an-amazon-eks-cluster-b6m)
-- [Git Stash: A Developer&#39;s Temporary Shelf](https://dev.to/siswoyo/git-stash-a-developers-temporary-shelf-2ofg)
+- [Introduction to Bonds](https://dev.to/madgan95/introduction-to-bonds-3816)
+- [The Ultimate Guide to SQL Joins and Subqueries Explained](https://dev.to/datalane/the-ultimate-guide-to-sql-joins-and-subqueries-explained-a48)
+- [Copilot Was Watching — Entrusting Research Materials to AI](https://dev.to/hanamaruki_ai/copilot-was-watching-entrusting-research-materials-to-ai-1dn4)
+- [Understanding SQL Constructs: Subqueries, CTEs, and Stored Procedures](https://dev.to/gregory42266270/understanding-sql-constructs-subqueries-ctes-and-stored-procedures-1glb)
 <!-- BLOG-POST-LIST:END -->
 
 
