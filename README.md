@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing Dynamic Environment Variables Between GitLab CI Matrix Jobs: AWS OIDC Example](https://dev.to/u11d/passing-dynamic-environment-variables-between-gitlab-ci-matrix-jobs-aws-oidc-example-1h9c)
-- [Quark’s Outlines: Python Strings](https://dev.to/mike-vincent/quarks-outlines-python-strings-30kh)
-- [Kubernetes Workload Types: When to Use What](https://dev.to/shohams/kubernetes-workload-types-when-to-use-what-292h)
-- [PrivJob: ZK-Verified Job Board](https://dev.to/abraham_root/privjob-zk-verified-job-board-1k66)
+- [WICK-A11Y v2.3.0: A Dazzling New Report, WCAG 2.2 AAA, and More Goodies](https://dev.to/sebastianclavijo/wick-a11y-v230-a-dazzling-new-report-wcag-22-aaa-and-more-goodies-hd0)
+- [Kaspa &amp; Smart Contracts: A Personal Discovery That Started with a Simple DAO Project](https://dev.to/m_c8cfdd8a63ea1b5334/kaspa-smart-contracts-a-personal-discovery-that-started-with-a-simple-dao-project-2blg)
+- [Part-43: How to Configure Cloud Run Jobs, Cloud Scheduler to trigger Screenshot job in GCP](https://dev.to/latchudevops/part-43-how-to-configure-cloud-run-jobs-cloud-scheduler-to-trigger-screenshot-job-in-gcp-2j36)
+- [Web Components in Angular: The Good and Bad of Web Components](https://dev.to/bytebantz/web-components-in-angular-the-good-and-bad-of-web-components-h64)
 <!-- BLOG-POST-LIST:END -->
 
 
