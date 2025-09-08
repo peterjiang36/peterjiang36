@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Brittany Davis - Sun And Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe)
-- [KEXP: Brittany Davis - Black Thunder &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7)
-- [KEXP: Brittany Davis - Amid The Blackout Of The Night &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-amid-the-blackout-of-the-night-live-on-kexp-45f6)
-- [KEXP: Brittany Davis - Mirrors &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-mirrors-live-on-kexp-13j4)
+- [Turn Any Image into a Blog Post with AI &lpar;React, Cloudinary &amp; OpenAI&rpar;](https://dev.to/cloudinary/turn-any-image-into-a-blog-post-with-ai-react-cloudinary-openai-3cb6)
+- [The Engineering Challenge of Creating a Drone-Based Emergency Wi-Fi Network](https://dev.to/dror_rofe_272e70cf3a16b05/the-engineering-challenge-of-creating-a-drone-based-emergency-wi-fi-network-362k)
+- [Root Cause Analysis &lpar;RCA&rpar;: entendendo a causa raiz de incidentes](https://dev.to/marcos_vile/root-cause-analysis-rca-entendendo-a-causa-raiz-de-incidentes-37pp)
+- [RavenDB Launches the First Database-Native AI Agent Creator: The Missing Piece for Secure, Integrated AI](https://dev.to/om_shree_0709/ravendb-launches-the-first-database-native-ai-agent-creator-the-missing-piece-for-secure-2847)
 <!-- BLOG-POST-LIST:END -->
 
 
