@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Blogs by Hasan Poonawala](https://dev.to/hasanp87/aws-blogs-by-hasan-poonawala-2h60)
-- [The Guide to Safe &amp; Modern C Memory Allocation Strategy](https://dev.to/lwdjohari/the-guide-to-safe-modern-c-memory-allocation-strategy-1akn)
-- [gemini-cli: el nuevo aliado para l@s devs](https://dev.to/iblancasa/gemini-cli-el-nuevo-aliado-para-ls-devs-2hf4)
-- [Setting Up Shopify App + NestJS Backend: A Step-by-Step Local Development Guide](https://dev.to/georges_heloussato_d6ff14/setting-up-shopify-app-nestjs-backend-a-step-by-step-local-development-guide-2ca9)
+- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
+- [🚀 From 2–5 Minutes to &lt; 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j)
+- [Laura Kampf: A Carry On Suitcase Made From Trash &lpar;ONE DAY BUILD&rpar;](https://dev.to/maker_youtube/laura-kampf-a-carry-on-suitcase-made-from-trash-one-day-build-knk)
+- [IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer](https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g)
 <!-- BLOG-POST-LIST:END -->
 
 
