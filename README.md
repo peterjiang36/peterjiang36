@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #206: 08 Sept 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4)
-- [a11yAuditHelper – or why Excel spreadsheets were no longer enough for my accessibility audits](https://dev.to/sataru/a11yaudithelper-or-why-excel-spreadsheets-were-no-longer-enough-for-my-accessibility-audits-4k39)
-- [From 49 to 95: How Prompt Engineering Boosted Gemini MCP Image Generation](https://dev.to/shinpr/from-49-to-95-how-prompt-engineering-boosted-gemini-mcp-image-generation-19n8)
-- [Day 1: Summon Your QuestBot 🤖⚡](https://dev.to/creator_x/day-1-summon-your-questbot-2nij)
+- [My 49-Year Journey: From a 1976 IBM 5100 to Building an AI-Powered BASIC](https://dev.to/atomijd/my-49-year-journey-from-a-1976-ibm-5100-to-building-an-ai-powered-basic-9hh)
+- [The True Cost of an AI Engineer: A Deep Dive into Replit Agent vs. Lovable.dev](https://dev.to/aaronksaunders/the-true-cost-of-an-ai-engineer-a-deep-dive-into-replit-agent-vs-lovabledev-2djh)
+- [Beyond the terminal: Gemini CLI comes to Zed](https://dev.to/googleai/beyond-the-terminal-gemini-cli-comes-to-zed-3o43)
+- [🥋 Codewars — Achieve Mastery Through Challenge](https://dev.to/ml318097/codewars-achieve-mastery-through-challenge-57ni)
 <!-- BLOG-POST-LIST:END -->
 
 
