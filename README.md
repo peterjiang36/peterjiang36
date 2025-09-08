@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Docling Application on ECS with Application Load Balancer](https://dev.to/bikash119/deploying-docling-application-on-ecs-with-application-load-balancer-59k3)
-- [Surfing with FP Java - Mastering Function&lt;T, R&gt;](https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf)
-- [Global Product Security Strategy: A Multi-Layered Framework &lpar;I.P. developed&rpar;](https://dev.to/d3one/global-product-security-strategy-a-multi-layered-framework-ip-developed-cb1)
-- [Effective Handling of Geospatial Data in DynamoDB](https://dev.to/ianbrumby/effective-handling-of-geospatial-data-in-dynamodb-1hmn)
+- [KEXP: Brittany Davis - Sun And Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe)
+- [KEXP: Brittany Davis - Black Thunder &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7)
+- [KEXP: Brittany Davis - Amid The Blackout Of The Night &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-amid-the-blackout-of-the-night-live-on-kexp-45f6)
+- [KEXP: Brittany Davis - Mirrors &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-brittany-davis-mirrors-live-on-kexp-13j4)
 <!-- BLOG-POST-LIST:END -->
 
 
