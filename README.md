@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WICK-A11Y v2.3.0: A Dazzling New Report, WCAG 2.2 AAA, and More Goodies](https://dev.to/sebastianclavijo/wick-a11y-v230-a-dazzling-new-report-wcag-22-aaa-and-more-goodies-hd0)
-- [Kaspa &amp; Smart Contracts: A Personal Discovery That Started with a Simple DAO Project](https://dev.to/m_c8cfdd8a63ea1b5334/kaspa-smart-contracts-a-personal-discovery-that-started-with-a-simple-dao-project-2blg)
-- [Part-43: How to Configure Cloud Run Jobs, Cloud Scheduler to trigger Screenshot job in GCP](https://dev.to/latchudevops/part-43-how-to-configure-cloud-run-jobs-cloud-scheduler-to-trigger-screenshot-job-in-gcp-2j36)
-- [Web Components in Angular: The Good and Bad of Web Components](https://dev.to/bytebantz/web-components-in-angular-the-good-and-bad-of-web-components-h64)
+- [WordPress Core: Deep Dive](https://dev.to/aialvi/wordpress-core-deep-dive-mgc)
+- [Cost-Efficient ETL for Small Datasets using AWS Lambda, S3, Wrangler, and Glue](https://dev.to/charlesuneze/cost-efficient-etl-for-small-datasets-using-aws-lambda-s3-wrangler-and-glue-4o79)
+- [AWS CI/CD Made Easy: Build, Deploy, Repeat.](https://dev.to/imash24/aws-cicd-made-easy-build-deploy-repeat-4fc9)
+- [Designing APIs for the AI Era with Spring AI and MCP](https://dev.to/thedavestack/designing-apis-for-the-ai-era-with-spring-ai-and-mcp-3ahg)
 <!-- BLOG-POST-LIST:END -->
 
 
