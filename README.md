@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About 800G/1.6T Optical Transceiver and Co-Package Module](https://dev.to/lsolink/everything-you-need-to-know-about-800g16t-optical-transceiver-and-co-package-module-1m6o)
-- [Are tag follows not used for the home page feeds?](https://dev.to/_bigblind/are-tag-follows-not-used-for-the-home-page-feeds-288k)
-- [Fixing AOS and Tailwind CSS Compatibility Issues in Nuxt 4: A Developer&#39;s Journey](https://dev.to/utitofon_udoekong/fixing-aos-and-tailwind-css-compatibility-issues-in-nuxt-4-a-developers-journey-1hpc)
-- [🚀 Day 8 of My DevOps Journey: Docker Networking &amp; Volumes](https://dev.to/dankbhardwaj/day-8-of-my-devops-journey-docker-networking-volumes-3232)
+- [🔥 10 NPM Packages That Will Save You Hours in Backend Development](https://dev.to/manukumar07/10-npm-packages-that-will-save-you-hours-in-backend-development-26ba)
+- [Is Cloud SQL Enterprise Plus Worth It? Evaluating the MySQL upgrade at SpareRoom](https://dev.to/dkechag/is-cloud-sql-enterprise-plus-worth-it-evaluating-the-mysql-upgrade-at-spareroom-2m1p)
+- [Why Do 70–80% of LMS Implementations Fail? Lessons for Tech and HR Teams](https://dev.to/khnh_lynguyn_3005/why-do-70-80-of-lms-implementations-fail-lessons-for-tech-and-hr-teams-2af2)
+- [Docker Series: Episode 17 - Advanced Docker Compose &lpar;Scaling, Dependencies, Overrides&rpar;](https://dev.to/yash_sonawane25/docker-series-episode-17-advanced-docker-compose-scaling-dependencies-overrides-277d)
 <!-- BLOG-POST-LIST:END -->
 
 
