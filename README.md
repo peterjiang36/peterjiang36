@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiro Workflow for Copilot, Claude &amp; More](https://dev.to/lazypro/kiro-workflow-for-copilot-claude-more-4ihp)
-- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6)
-- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj)
-- [🚀 From 2–5 Minutes to &lt; 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j)
+- [Everything You Need to Know About 800G/1.6T Optical Transceiver and Co-Package Module](https://dev.to/lsolink/everything-you-need-to-know-about-800g16t-optical-transceiver-and-co-package-module-1m6o)
+- [Are tag follows not used for the home page feeds?](https://dev.to/_bigblind/are-tag-follows-not-used-for-the-home-page-feeds-288k)
+- [Fixing AOS and Tailwind CSS Compatibility Issues in Nuxt 4: A Developer&#39;s Journey](https://dev.to/utitofon_udoekong/fixing-aos-and-tailwind-css-compatibility-issues-in-nuxt-4-a-developers-journey-1hpc)
+- [🚀 Day 8 of My DevOps Journey: Docker Networking &amp; Volumes](https://dev.to/dankbhardwaj/day-8-of-my-devops-journey-docker-networking-volumes-3232)
 <!-- BLOG-POST-LIST:END -->
 
 
