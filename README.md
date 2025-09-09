@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Golang Interfaces: Why Your Struct Fits an Interface It Never Met](https://dev.to/ishmam_abir/decoding-golang-interfaces-why-your-struct-fits-an-interface-it-never-met-481b)
-- [Headless CMS Guide 2025, Part 2: Top platforms and how to choose the right one](https://dev.to/flotiq/headless-cms-guide-2025-part-2-top-platforms-and-how-to-choose-the-right-one-5anc)
-- [AI Receptionists Explained: Technical Architecture, Features, and Use Cases](https://dev.to/alifar/ai-receptionists-explained-technical-architecture-features-and-use-cases-3c9b)
-- [Master Your Workflow with GitFlow: A Branching Strategy for Seamless Development](https://dev.to/durrello/master-your-workflow-with-gitflow-a-branching-strategy-for-seamless-development-cob)
+- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
+- [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
+- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
+- [在 WebAssembly 中使用 SIMD（二）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simder--25bo)
 <!-- BLOG-POST-LIST:END -->
 
 
