@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IaC for Startups: Terraform + AWS in a Weekend](https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji)
-- [Stop Writing Repetitive Tests: How Keploy Generates Them Automatically](https://dev.to/mettasurendhar/stop-writing-repetitive-tests-how-keploy-generates-them-automatically-cim)
-- [Instant Game Show Host](https://dev.to/aiden_aistar_8943549b9646/instant-game-show-host-4fae)
-- [Anatomy of a Supply Chain Heist: The Day &#39;chalk&#39; and &#39;debug&#39; Became Crypto-Thieves](https://dev.to/figsify/anatomy-of-a-supply-chain-heist-the-day-chalk-and-debug-became-crypto-thieves-4fb)
+- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
+- [Redux desde cero](https://dev.to/pwalvarado/redux-desde-cero-5ekc)
+- [Application Streamlit Gemini Marketing Pro Plus](https://dev.to/sofiane_chehboune_ed94b4c/application-streamlit-gemini-marketing-pro-plus-p84)
+- [Day 46: Set-up CloudWatch alarms and SNS topics on AWS](https://dev.to/udoh_deborah_b1e484c474bf/day-46-set-up-cloudwatch-alarms-and-sns-topics-on-aws-173b)
 <!-- BLOG-POST-LIST:END -->
 
 
