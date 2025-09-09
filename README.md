@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
-- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
-- [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
-- [Creational Design Patterns in Python. Part II](https://dev.to/mcheremnov/creational-design-patterns-in-python-part-ii-1a7o)
+- [Decoding Golang Interfaces: Why Your Struct Fits an Interface It Never Met](https://dev.to/ishmam_abir/decoding-golang-interfaces-why-your-struct-fits-an-interface-it-never-met-481b)
+- [Headless CMS Guide 2025, Part 2: Top platforms and how to choose the right one](https://dev.to/flotiq/headless-cms-guide-2025-part-2-top-platforms-and-how-to-choose-the-right-one-5anc)
+- [AI Receptionists Explained: Technical Architecture, Features, and Use Cases](https://dev.to/alifar/ai-receptionists-explained-technical-architecture-features-and-use-cases-3c9b)
+- [Master Your Workflow with GitFlow: A Branching Strategy for Seamless Development](https://dev.to/durrello/master-your-workflow-with-gitflow-a-branching-strategy-for-seamless-development-cob)
 <!-- BLOG-POST-LIST:END -->
 
 
