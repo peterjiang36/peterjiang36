@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hot Lapping with Cold Blood](https://dev.to/jessangelo/hot-lapping-with-cold-blood-fp9)
-- [Charlex Operating System &lpar;Charlex OS&rpar;](https://dev.to/amzyei/charlex-operating-system-charlex-os-260d)
-- [The journey to complete the docker+kubernetes pair](https://dev.to/robert_scott_339c35174a4d/the-journey-to-complete-the-dockerkubernetes-pair-5h9g)
-- [IGN: Marvel Rivals: Angela Gameplay - Full Move Set Breakdown &lpar;Season 4&rpar;](https://dev.to/gg_news/ign-marvel-rivals-angela-gameplay-full-move-set-breakdown-season-4-1kmk)
+- [Pasteclean revamped ui.](https://dev.to/iblockedthem/pasteclean-revamped-ui-4kgi)
+- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
+- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
+- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
 <!-- BLOG-POST-LIST:END -->
 
 
