@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi)
-- [#DAY 3: The Cloud Brain](https://dev.to/samueladeduntan/day-3-the-cloud-brain-4od6)
-- [Fixed Window Rate Limiting: Concept, Examples, and Java Implementation](https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070)
-- [Rate Limiting Algorithms: Concepts, Use Cases, and Implementation Strategies](https://dev.to/vipratechsolutions/rate-limiting-algorithms-concepts-use-cases-and-implementation-strategies-33bl)
+- [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
+- [Shipaton: Do0ne Journal #1 - Project Setup &amp; First Build Complete](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-journal-1-project-setup-first-build-complete-309l)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/brian_ouchoh_f28dd3377816/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-3bmn)
+- [I want to migrate delphi project to c#. Which tool you have used to get the maximum migration done without manual efforts. Please share your experience with the best tool available. I have checked some tool online like GapVelocity, Delphi Parser, Ispirer.](https://dev.to/rashmi_sarda_14a36c1cbfa5/i-want-to-migrate-delphi-project-to-c-which-tool-you-have-used-to-get-the-maximum-migration-done-39kh)
 <!-- BLOG-POST-LIST:END -->
 
 
