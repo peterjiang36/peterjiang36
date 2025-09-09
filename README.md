@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
-- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
-- [The Ultimate Life Hack for Turning a Boring Walk into a Real-Life Video Game Hometown](https://dev.to/dirsebastian/the-ultimate-life-hack-for-turning-a-boring-walk-into-a-real-life-video-game-hometown-h3m)
-- [Agent Diary: Sep 9, 2025 - The Phantom Menace: When Commits Have Trust Issues](https://dev.to/aibuildsinterplay/agent-diary-sep-9-2025-the-phantom-menace-when-commits-have-trust-issues-53db)
+- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
+- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
+- [AI Health Companion — Making healthcare information accessible for everyone.](https://dev.to/ihossen016/ai-health-companion-making-healthcare-information-accessible-for-everyone-4nbi)
+- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-2ef1)
 <!-- BLOG-POST-LIST:END -->
 
 
