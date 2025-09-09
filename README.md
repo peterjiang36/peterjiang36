@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers&#39; Toolkit: Integrating Onboarding Buddy APIs for Seamless Compliance](https://dev.to/onboardingbuddy/developers-toolkit-integrating-onboarding-buddy-apis-for-seamless-compliance-2mc2)
-- [How to revert a committed &amp; pushed file](https://dev.to/viktorle1294/how-to-revert-a-committed-pushed-file-3508)
-- [## Understanding Access Token and Refresh Token Flow](https://dev.to/jjammeso/-understanding-authentication-and-refresh-token-flow-15hi)
-- [AI-Powered Social Media Engagement Manager](https://dev.to/deniskisina/ai-powered-social-media-engagement-manager-3pjl)
+- [Zoi, an advanced package manager v5 beta release](https://dev.to/zillowez/zoi-an-advanced-package-manager-v5-beta-release-4p4f)
+- [RK3588: A SoC for next-gen SBCs, but we&#39;re waiting for RK3688](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-a-soc-for-next-gen-sbcs-but-were-waiting-for-rk3688-2hig)
+- [CSS Container Queries Complete Guide: Say Goodbye to Media Query Pain Points](https://dev.to/blues-2025/css-container-queries-complete-guide-say-goodbye-to-media-query-pain-points-3m9m)
+- [Javascript - arrow function](https://dev.to/dharshinieswaran/javascript-arrow-function-13mb)
 <!-- BLOG-POST-LIST:END -->
 
 
