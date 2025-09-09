@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Prompting Secrets: What Big Techs Know About Talking to AI](https://dev.to/werliton/5-ai-prompting-secrets-what-big-techs-know-about-talking-to-ai-46k5)
-- [🔢 Today I Learned: Counting Digits in Java](https://dev.to/its_renuka_/today-i-learned-counting-digits-in-java-2e9n)
-- [Practical Approach to Network Security Group Setup](https://dev.to/ajayid10/practical-approach-to-network-security-group-setup-4j26)
-- [What Happens When You Type a URL in Your Browser?](https://dev.to/libintombaby/what-happens-when-you-type-a-url-in-your-browser-1npd)
+- [The Phantom Records: Hiding Sensitive Data for Debugging](https://dev.to/killallskywalker/the-phantom-records-hiding-sensitive-data-for-debugging-g80)
+- [Beware of npm Packages: The Largest Supply Chain Attack in History](https://dev.to/rebecagoisdev/beware-of-npm-packages-the-largest-supply-chain-attack-in-history-7ke)
+- [🚀 CI/CD for Terraform with GitHub Actions: Deploying a Node.js + Redis App on AWS](https://dev.to/aws-builders/cicd-for-terraform-with-github-actions-deploying-a-nodejs-redis-app-on-aws-24c4)
+- [K2 Think: Abu Dhabi&#39;s Efficient AI Model Challenges Industry Giants](https://dev.to/yathin_chandra_649b921cc6/k2-think-abu-dhabis-efficient-ai-model-challenges-industry-giants-79)
 <!-- BLOG-POST-LIST:END -->
 
 
