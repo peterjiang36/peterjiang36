@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing PostgreSQL Replication and Automated Cloud Backups Using Docker and Rclone](https://dev.to/bharat_solanke_8e45411fa6/implementing-postgresql-replication-and-automated-cloud-backups-using-docker-and-rclone-115)
-- [Shipaton: Do0ne Journal #1 - Project Setup &amp; First Build Complete](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-journal-1-project-setup-first-build-complete-309l)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/brian_ouchoh_f28dd3377816/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-3bmn)
-- [I want to migrate delphi project to c#. Which tool you have used to get the maximum migration done without manual efforts. Please share your experience with the best tool available. I have checked some tool online like GapVelocity, Delphi Parser, Ispirer.](https://dev.to/rashmi_sarda_14a36c1cbfa5/i-want-to-migrate-delphi-project-to-c-which-tool-you-have-used-to-get-the-maximum-migration-done-39kh)
+- [How to Create an AI MVP: A Full Development Guide](https://dev.to/raftlabs/how-to-create-an-ai-mvp-a-full-development-guide-19hb)
+- [Building Semantic Search That Actually Works: Beyond Basic Vector Similarity](https://dev.to/mrdubey/building-semantic-search-that-actually-works-beyond-basic-vector-similarity-1a62)
+- [From Jira Ticket to Live Server: My Week 3 DevOps Sprint](https://dev.to/okeke_chima_4d4acd8f61e67/from-jira-ticket-to-live-server-my-week-3-devops-sprint-3ln4)
+- [IoT performance testing: Navigating the connected device challenge](https://dev.to/gatling/iot-performance-testing-navigating-the-connected-device-challenge-49ia)
 <!-- BLOG-POST-LIST:END -->
 
 
