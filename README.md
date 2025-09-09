@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
-- [How to Become a Bio AI Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-bio-ai-software-engineer-community-maintained-1e14)
-- [How to Become a Biotech Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-biotech-software-engineer-community-maintained-2n1n)
-- [php: a curl cheatsheet](https://dev.to/gbhorwood/php-a-curl-cheatsheet-37em)
+- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
+- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
+- [IGN: Top 25 Best PS1 Games of All Time](https://dev.to/gg_news/ign-top-25-best-ps1-games-of-all-time-4adh)
+- [IGN: Nioh 3 - 19 Minutes of Open Exploration Gameplay - IGN First](https://dev.to/gg_news/ign-nioh-3-19-minutes-of-open-exploration-gameplay-ign-first-j8c)
 <!-- BLOG-POST-LIST:END -->
 
 
