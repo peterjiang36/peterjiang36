@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code](https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27)
-- [Load Testing Microservices With C# and NBomber](https://dev.to/antonmartyniuk/load-testing-microservices-with-c-and-nbomber-dc2)
-- [How to be cited by ChatGPT, Gemini or Perplexity? 👾](https://dev.to/bio-ai-software-engineer/how-to-be-cited-by-chatgpt-gemini-or-perplexity-1pi5)
-- [在 WebAssembly 中使用 SIMD（二）](https://dev.to/yangholmes/zai-webassembly-zhong-shi-yong-simder--25bo)
+- [KEXP: Gyedu-Blay Ambolley - U Like Or U No Like &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-u-like-or-u-no-like-live-on-kexp-5bja)
+- [KEXP: Gyedu-Blay Ambolley - Teacher &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-teacher-live-on-kexp-jij)
+- [KEXP: Gyedu-Blay Ambolley - Simigwa-Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-simigwa-do-live-on-kexp-4dbc)
+- [KEXP: Gyedu-Blay Ambolley - Afrika Yie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-afrika-yie-live-on-kexp-3608)
 <!-- BLOG-POST-LIST:END -->
 
 
