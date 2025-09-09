@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pasteclean revamped ui.](https://dev.to/iblockedthem/pasteclean-revamped-ui-4kgi)
-- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125)
-- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2)
-- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5)
+- [Developers&#39; Toolkit: Integrating Onboarding Buddy APIs for Seamless Compliance](https://dev.to/onboardingbuddy/developers-toolkit-integrating-onboarding-buddy-apis-for-seamless-compliance-2mc2)
+- [How to revert a committed &amp; pushed file](https://dev.to/viktorle1294/how-to-revert-a-committed-pushed-file-3508)
+- [## Understanding Access Token and Refresh Token Flow](https://dev.to/jjammeso/-understanding-authentication-and-refresh-token-flow-15hi)
+- [AI-Powered Social Media Engagement Manager](https://dev.to/deniskisina/ai-powered-social-media-engagement-manager-3pjl)
 <!-- BLOG-POST-LIST:END -->
 
 
