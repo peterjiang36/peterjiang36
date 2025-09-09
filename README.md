@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente &lpar;A2A&rpar;](https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk)
-- [Gemini Marketing Pro Plus &lpar;Nano Banana Edition&rpar;](https://dev.to/sofiane_chehboune_ed94b4c/gemini-marketing-pro-plus-nano-banana-edition-5g44)
-- [How to easily create a CLI in Rust using clap and clap_mangen](https://dev.to/0xle0ne/how-to-easily-create-a-cli-in-rust-using-clap-and-clapmangen-37g1)
-- [How We Cut Our AI API Costs by 90% Without Changing Code Quality](https://dev.to/apicrusher/how-we-cut-our-ai-api-costs-by-90-without-changing-code-quality-3oeh)
+- [MCP Basics - Understanding the Model Context Protocol](https://dev.to/bansikah/mcp-basics-understanding-the-model-context-protocol-566g)
+- [Do I need HDMI 2.1 for PS5/Xbox &lpar;4K/120, VRR, ALLM&rpar;?](https://dev.to/tiberius1023/do-i-need-hdmi-21-for-ps5xbox-4k120-vrr-allm-1c71)
+- [Cooking with Google AI](https://dev.to/ulrikedetective/cooking-with-google-ai-3fmn)
+- [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
 <!-- BLOG-POST-LIST:END -->
 
 
