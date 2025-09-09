@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu 25.10 &lpar;Questing Quokka&rpar; Will Use Rust to Provide Sudo](https://dev.to/fedtti/ubuntu-2510-questing-quokka-will-use-rust-to-provide-sudo-5aib)
-- [Building an AI-Powered Web3 Voting DApp with Gaia](https://dev.to/gaiaai/building-an-ai-powered-web3-voting-dapp-with-gaia-4ebd)
-- [🚀 Vyoma is Coming Soon on Product Hunt – October 10](https://dev.to/pjdeveloper896/vyoma-is-coming-soon-on-product-hunt-october-10-2jbi)
-- [Beyond the Monolith vs Microservices Debate: A Practical Guide to Deployment-Agnostic Services](https://dev.to/maksim_matlakhov/beyond-the-monolith-vs-microservices-debate-a-practical-guide-to-deployment-agnostic-services-3l41)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/fredmunjogu/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-549d)
+- [SvelteKit Routing Tutorial: Layouts, Nested Routes &amp; Multi-Page Apps](https://dev.to/a1guy/sveltekit-routing-tutorial-layouts-nested-routes-multi-page-apps-4bfm)
+- [Microservices Security: From Fundamentals to Advanced Patterns](https://dev.to/randazraik/microservices-security-from-fundamentals-to-advanced-patterns-2h2k)
+- [Truly Reactive Cloud Native AI Agents with Kagent and Khook](https://dev.to/antweiss/truly-reactive-cloud-native-ai-agents-with-kagent-and-khook-4knj)
 <!-- BLOG-POST-LIST:END -->
 
 
