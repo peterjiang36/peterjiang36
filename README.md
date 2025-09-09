@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Basics - Understanding the Model Context Protocol](https://dev.to/bansikah/mcp-basics-understanding-the-model-context-protocol-566g)
-- [Do I need HDMI 2.1 for PS5/Xbox &lpar;4K/120, VRR, ALLM&rpar;?](https://dev.to/tiberius1023/do-i-need-hdmi-21-for-ps5xbox-4k120-vrr-allm-1c71)
-- [Cooking with Google AI](https://dev.to/ulrikedetective/cooking-with-google-ai-3fmn)
-- [🚀Git + Databricks: Why Both Are Essential for Modern Data Engineering](https://dev.to/shagun_khandelwal/git-databricks-why-both-are-essential-for-modern-data-engineering-46ph)
+- [Mapping a Full Stack Application](https://dev.to/kadenwildauer/mapping-a-full-stack-application-25ff)
+- [From SysOps to CloudOps : Breaking Down the New SOA-C03 Exam from AWS](https://dev.to/aws-heroes/from-sysops-to-cloudops-breaking-down-the-new-soa-c03-exam-from-aws-518c)
+- [React Relay: State Management and Intelligent Caching](https://dev.to/jgcmarins/react-relay-state-management-and-intelligent-caching-lfn)
+- [Bash Solutions: NUF and process substitutions](https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2)
 <!-- BLOG-POST-LIST:END -->
 
 
