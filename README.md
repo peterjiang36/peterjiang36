@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Gyedu-Blay Ambolley - U Like Or U No Like &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-u-like-or-u-no-like-live-on-kexp-5bja)
-- [KEXP: Gyedu-Blay Ambolley - Teacher &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-teacher-live-on-kexp-jij)
-- [KEXP: Gyedu-Blay Ambolley - Simigwa-Do &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-simigwa-do-live-on-kexp-4dbc)
-- [KEXP: Gyedu-Blay Ambolley - Afrika Yie &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gyedu-blay-ambolley-afrika-yie-live-on-kexp-3608)
+- [Ubuntu 25.10 &lpar;Questing Quokka&rpar; Will Use Rust to Provide Sudo](https://dev.to/fedtti/ubuntu-2510-questing-quokka-will-use-rust-to-provide-sudo-5aib)
+- [Building an AI-Powered Web3 Voting DApp with Gaia](https://dev.to/gaiaai/building-an-ai-powered-web3-voting-dapp-with-gaia-4ebd)
+- [🚀 Vyoma is Coming Soon on Product Hunt – October 10](https://dev.to/pjdeveloper896/vyoma-is-coming-soon-on-product-hunt-october-10-2jbi)
+- [Beyond the Monolith vs Microservices Debate: A Practical Guide to Deployment-Agnostic Services](https://dev.to/maksim_matlakhov/beyond-the-monolith-vs-microservices-debate-a-practical-guide-to-deployment-agnostic-services-3l41)
 <!-- BLOG-POST-LIST:END -->
 
 
