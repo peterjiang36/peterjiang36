@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/fredmunjogu/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-549d)
-- [SvelteKit Routing Tutorial: Layouts, Nested Routes &amp; Multi-Page Apps](https://dev.to/a1guy/sveltekit-routing-tutorial-layouts-nested-routes-multi-page-apps-4bfm)
-- [Microservices Security: From Fundamentals to Advanced Patterns](https://dev.to/randazraik/microservices-security-from-fundamentals-to-advanced-patterns-2h2k)
-- [Truly Reactive Cloud Native AI Agents with Kagent and Khook](https://dev.to/antweiss/truly-reactive-cloud-native-ai-agents-with-kagent-and-khook-4knj)
+- [5 AI Prompting Secrets: What Big Techs Know About Talking to AI](https://dev.to/werliton/5-ai-prompting-secrets-what-big-techs-know-about-talking-to-ai-46k5)
+- [🔢 Today I Learned: Counting Digits in Java](https://dev.to/its_renuka_/today-i-learned-counting-digits-in-java-2e9n)
+- [Practical Approach to Network Security Group Setup](https://dev.to/ajayid10/practical-approach-to-network-security-group-setup-4j26)
+- [What Happens When You Type a URL in Your Browser?](https://dev.to/libintombaby/what-happens-when-you-type-a-url-in-your-browser-1npd)
 <!-- BLOG-POST-LIST:END -->
 
 
