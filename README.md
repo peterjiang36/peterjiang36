@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an AI MVP: A Full Development Guide](https://dev.to/raftlabs/how-to-create-an-ai-mvp-a-full-development-guide-19hb)
-- [Building Semantic Search That Actually Works: Beyond Basic Vector Similarity](https://dev.to/mrdubey/building-semantic-search-that-actually-works-beyond-basic-vector-similarity-1a62)
-- [From Jira Ticket to Live Server: My Week 3 DevOps Sprint](https://dev.to/okeke_chima_4d4acd8f61e67/from-jira-ticket-to-live-server-my-week-3-devops-sprint-3ln4)
-- [IoT performance testing: Navigating the connected device challenge](https://dev.to/gatling/iot-performance-testing-navigating-the-connected-device-challenge-49ia)
+- [5 Best Job Boards for Remote Work in 2025](https://dev.to/moope/5-best-job-boards-for-remote-work-in-2025-3ben)
+- [JavaScript30 — 30 Days of Vanilla JS Fun](https://dev.to/ml318097/javascript30-30-days-of-vanilla-js-fun-2mbc)
+- [Convertir YouTube a MP3 online con FastAPI, yt-dlp y FFmpeg](https://dev.to/whario/convertir-youtube-a-mp3-online-con-fastapi-yt-dlp-y-ffmpeg-1622)
+- [Creational Design Patterns in Python. Part II](https://dev.to/mcheremnov/creational-design-patterns-in-python-part-ii-1a7o)
 <!-- BLOG-POST-LIST:END -->
 
 
