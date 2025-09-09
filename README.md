@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o)
-- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam)
-- [IGN: Top 25 Best PS1 Games of All Time](https://dev.to/gg_news/ign-top-25-best-ps1-games-of-all-time-4adh)
-- [IGN: Nioh 3 - 19 Minutes of Open Exploration Gameplay - IGN First](https://dev.to/gg_news/ign-nioh-3-19-minutes-of-open-exploration-gameplay-ign-first-j8c)
+- [Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente &lpar;A2A&rpar;](https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk)
+- [Gemini Marketing Pro Plus &lpar;Nano Banana Edition&rpar;](https://dev.to/sofiane_chehboune_ed94b4c/gemini-marketing-pro-plus-nano-banana-edition-5g44)
+- [How to easily create a CLI in Rust using clap and clap_mangen](https://dev.to/0xle0ne/how-to-easily-create-a-cli-in-rust-using-clap-and-clapmangen-37g1)
+- [How We Cut Our AI API Costs by 90% Without Changing Code Quality](https://dev.to/apicrusher/how-we-cut-our-ai-api-costs-by-90-without-changing-code-quality-3oeh)
 <!-- BLOG-POST-LIST:END -->
 
 
