@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoi, an advanced package manager v5 beta release](https://dev.to/zillowez/zoi-an-advanced-package-manager-v5-beta-release-4p4f)
-- [RK3588: A SoC for next-gen SBCs, but we&#39;re waiting for RK3688](https://dev.to/dongpei_liao_8092a14d7c50/rk3588-a-soc-for-next-gen-sbcs-but-were-waiting-for-rk3688-2hig)
-- [CSS Container Queries Complete Guide: Say Goodbye to Media Query Pain Points](https://dev.to/blues-2025/css-container-queries-complete-guide-say-goodbye-to-media-query-pain-points-3m9m)
-- [Javascript - arrow function](https://dev.to/dharshinieswaran/javascript-arrow-function-13mb)
+- [Navigating the Modern Job Market: AI&#39;s Role in Recruitment and Applications](https://dev.to/max_mayer/navigating-the-modern-job-market-ais-role-in-recruitment-and-applications-5d69)
+- [Feeling Stuck in Your AI Video Side Hustle? Here&#39;s a Quick Reset](https://dev.to/walker876/feeling-stuck-in-your-ai-video-side-hustle-heres-a-quick-reset-g5i)
+- [The Ultimate Life Hack for Turning a Boring Walk into a Real-Life Video Game Hometown](https://dev.to/dirsebastian/the-ultimate-life-hack-for-turning-a-boring-walk-into-a-real-life-video-game-hometown-h3m)
+- [Agent Diary: Sep 9, 2025 - The Phantom Menace: When Commits Have Trust Issues](https://dev.to/aibuildsinterplay/agent-diary-sep-9-2025-the-phantom-menace-when-commits-have-trust-issues-53db)
 <!-- BLOG-POST-LIST:END -->
 
 
