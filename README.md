@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [11 System Design Interview Questions Every Engineer Should Master &lpar;With Real-World Answers 🚀&rpar;](https://dev.to/renukapatil/11-system-design-interview-questions-every-engineer-should-master-with-real-world-answers--iej)
-- [99.9% Uptime with Self-Healing Components: Building Bulletproof React Applications](https://dev.to/maurya-sachin/999-uptime-with-self-healing-components-building-bulletproof-react-applications-4kpb)
-- [AI Health Companion — Making healthcare information accessible for everyone.](https://dev.to/ihossen016/ai-health-companion-making-healthcare-information-accessible-for-everyone-4nbi)
-- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-2ef1)
+- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi)
+- [#DAY 3: The Cloud Brain](https://dev.to/samueladeduntan/day-3-the-cloud-brain-4od6)
+- [Fixed Window Rate Limiting: Concept, Examples, and Java Implementation](https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070)
+- [Rate Limiting Algorithms: Concepts, Use Cases, and Implementation Strategies](https://dev.to/vipratechsolutions/rate-limiting-algorithms-concepts-use-cases-and-implementation-strategies-33bl)
 <!-- BLOG-POST-LIST:END -->
 
 
