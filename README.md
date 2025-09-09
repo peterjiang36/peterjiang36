@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Phantom Records: Hiding Sensitive Data for Debugging](https://dev.to/killallskywalker/the-phantom-records-hiding-sensitive-data-for-debugging-g80)
-- [Beware of npm Packages: The Largest Supply Chain Attack in History](https://dev.to/rebecagoisdev/beware-of-npm-packages-the-largest-supply-chain-attack-in-history-7ke)
-- [🚀 CI/CD for Terraform with GitHub Actions: Deploying a Node.js + Redis App on AWS](https://dev.to/aws-builders/cicd-for-terraform-with-github-actions-deploying-a-nodejs-redis-app-on-aws-24c4)
-- [K2 Think: Abu Dhabi&#39;s Efficient AI Model Challenges Industry Giants](https://dev.to/yathin_chandra_649b921cc6/k2-think-abu-dhabis-efficient-ai-model-challenges-industry-giants-79)
+- [Your Logs Contain Secrets: Why We Built a Zero-Knowledge Log Platform](https://dev.to/logflux/your-logs-contain-secrets-why-we-built-a-zero-knowledge-log-platform-3igj)
+- [How to Become a Bio AI Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-bio-ai-software-engineer-community-maintained-1e14)
+- [How to Become a Biotech Software Engineer? &lpar;Community-Maintained&rpar;](https://dev.to/bio-ai-software-engineer/how-to-become-a-biotech-software-engineer-community-maintained-2n1n)
+- [php: a curl cheatsheet](https://dev.to/gbhorwood/php-a-curl-cheatsheet-37em)
 <!-- BLOG-POST-LIST:END -->
 
 
