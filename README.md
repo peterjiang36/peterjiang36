@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your Node.js API: Rate Limiting with Fixed Window, Sliding Window, and Token Bucket](https://dev.to/odunayo_dada/protect-your-nodejs-api-rate-limiting-with-fixed-window-sliding-window-and-token-bucket-4278)
-- [Docker Best Practices: Reduce Image Size + Common Interview Questions](https://dev.to/suavebajaj/docker-best-practices-reduce-image-size-common-interview-questions-4hen)
-- [🎨 Building a Random Gradient Generator with React &lpar;Step-by-Step Guide&rpar;](https://dev.to/vishalthapaliya/building-a-random-gradient-generator-with-react-step-by-step-guide-16co)
-- [Creating a Practical Project Plan for SDLC](https://dev.to/th33k/creating-a-practical-project-plan-for-sdlc-3dh2)
+- [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
+- [From Prompt to Planet: A Martian RPG Generator](https://dev.to/vero-code/from-prompt-to-planet-a-martian-rpg-generator-26o9)
+- [uv: Cargo-like Python Tool That Replaces pipx, pyenv, and more](https://dev.to/akrisanov/uv-cargo-like-python-tool-that-replaces-pipx-pyenv-and-more-543m)
+- [Day 3: Unleash QuestBot&#39;s Power🎯](https://dev.to/creator_x/day-3-unleash-questbots-power-2p3c)
 <!-- BLOG-POST-LIST:END -->
 
 
