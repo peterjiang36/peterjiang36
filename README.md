@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Rendering Strategies](https://dev.to/anthonybanion/understanding-web-rendering-strategies-2j56)
-- [Numbee &lpar;Number Arrange Puzzle&rpar;](https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1)
-- [Apple Intelligence vs Google Gemini: A Technical Comparison](https://dev.to/alifar/apple-intelligence-vs-google-gemini-a-technical-comparison-4a8a)
-- [Cursor pagination con Redux Toolkit](https://dev.to/pwalvarado/ejemplo-completo-de-redux-toolkit-con-cursor-pagination-2l05)
+- [Don’t Fear the Command Line](https://dev.to/amoreno/dont-fear-the-command-line-2b8k)
+- [The Other Side of OpenAI 12 Surprising Stories You Haven’t Heard](https://dev.to/programmerraja/the-other-side-of-openai-12-surprising-stories-you-havent-heard-c9)
+- [git clone Like a Pro: From -b develop to Partial &amp; Sparse Clones &lpar;Basic Expert&rpar;](https://dev.to/cristiansifuentes/git-clone-like-a-pro-from-b-develop-to-partial-sparse-clones-basic-expert-dnc)
+- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
 <!-- BLOG-POST-LIST:END -->
 
 
