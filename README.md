@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFront ECDSA Signed URLs: 91% Faster Generation, 53% Shorter URLs](https://dev.to/aws-builders/cloudfront-ecdsa-signed-urls-91-faster-generation-53-shorter-urls-54nf)
-- [GameSpot: ELDEN RING NIGHTREIGN | Deep of Night Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-elden-ring-nightreign-deep-of-night-gameplay-overview-trailer-45jk)
-- [IGN: Chainsaw Man - The Movie: Reze Arc - Official Trailer #2 &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-the-movie-reze-arc-official-trailer-2-sub-2kaj)
-- [Documentation Release Notes - August 2025](https://dev.to/pubnub/documentation-release-notes-august-2025-3odn)
+- [From Static Forms to Dynamic Configurator: Our Journey in PLM](https://dev.to/i_abhiseka/from-static-forms-to-dynamic-configurator-our-journey-in-plm-3n9i)
+- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
+- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
+- [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
 <!-- BLOG-POST-LIST:END -->
 
 
