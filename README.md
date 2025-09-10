@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Fear the Command Line](https://dev.to/amoreno/dont-fear-the-command-line-2b8k)
-- [The Other Side of OpenAI 12 Surprising Stories You Haven’t Heard](https://dev.to/programmerraja/the-other-side-of-openai-12-surprising-stories-you-havent-heard-c9)
-- [git clone Like a Pro: From -b develop to Partial &amp; Sparse Clones &lpar;Basic Expert&rpar;](https://dev.to/cristiansifuentes/git-clone-like-a-pro-from-b-develop-to-partial-sparse-clones-basic-expert-dnc)
-- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn)
+- [Implementing OWIN Authentication with Microsoft Entra ID in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-with-microsoft-entra-id-in-aspnet-framework-5g4i)
+- [Visualize XML Data Online with Ease — No Setup Required](https://dev.to/bugblitz98/visualize-xml-data-online-with-ease-no-setup-required-2kni)
+- [IGN: 100 METERS - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-100-meters-official-trailer-english-subtitles-4pi8)
+- [Mac Headaches: External Monitors](https://dev.to/oculus42/mac-headaches-external-monitors-1ni7)
 <!-- BLOG-POST-LIST:END -->
 
 
