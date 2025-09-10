@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-3a5l)
-- [Waving the Red Flag: Avoiding a 9-to-5 Nightmare, pt. 1](https://dev.to/jessangelo/waving-the-red-flag-avoiding-a-9-to-5-nightmare-pt-1-2n57)
-- [The Ultimate Guide to Self-Hosting n8n for Free using Render and Nhost](https://dev.to/singhamandeep007/the-ultimate-guide-to-self-hosting-n8n-for-free-using-render-and-nhost-2d69)
-- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-sub-5683)
+- [Why Users Act or Don’t: Lessons from the CREATE Action Funnel](https://dev.to/lovestaco/why-users-act-or-dont-lessons-from-the-create-action-funnel-4bne)
+- [TDD and AI-enabled engineering](https://dev.to/bain_forge/tdd-and-ai-enabled-engineering-chl)
+- [How to Provide a Swagger UI Interface in Plain HTML That Works](https://dev.to/fedtti/how-to-provide-a-swagger-ui-interface-in-plain-html-that-works-3lll)
+- [The Backwards Way to $10K MRR: Build SEO First, Product Second](https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82)
 <!-- BLOG-POST-LIST:END -->
 
 
