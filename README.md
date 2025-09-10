@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
-- [From Prompt to Planet: A Martian RPG Generator](https://dev.to/vero-code/from-prompt-to-planet-a-martian-rpg-generator-26o9)
-- [uv: Cargo-like Python Tool That Replaces pipx, pyenv, and more](https://dev.to/akrisanov/uv-cargo-like-python-tool-that-replaces-pipx-pyenv-and-more-543m)
-- [Day 3: Unleash QuestBot&#39;s Power🎯](https://dev.to/creator_x/day-3-unleash-questbots-power-2p3c)
+- [The Largest NPM Supply Chain Attack of 2025: A Deep Dive into the Compromise of Billions of Downloads](https://dev.to/om_shree_0709/the-largest-npm-supply-chain-attack-of-2025-a-deep-dive-into-the-compromise-of-billions-of-3f45)
+- [KEXP: THIS WILL DESTROY YOU - Dustism &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-dustism-live-on-kexp-2fdp)
+- [KEXP: THIS WILL DESTROY YOU - The World Is Our ____ &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-the-world-is-our-live-on-kexp-1m54)
+- [KEXP: THIS WILL DESTROY YOU - A Three-Legged Workhorse &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-a-three-legged-workhorse-live-on-kexp-44co)
 <!-- BLOG-POST-LIST:END -->
 
 
