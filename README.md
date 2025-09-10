@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI won’t simply replace jobs; it will reshape them. Here are the top 5 jobs already evolving, and how they’ll look by 2030.](https://dev.to/jaideepparashar/ai-wont-simply-replace-jobs-it-will-reshape-them-here-are-the-top-5-jobs-already-evolving-and-487e)
-- [The Future of Work: 5 Jobs AI Will Redefine by 2030](https://dev.to/jaideepparashar/the-future-of-work-5-jobs-ai-will-redefine-by-2030-me3)
-- [Hugging Face FineVision: 24M-Sample, 10B-Token Open Dataset Changing Vision-Language Training](https://dev.to/aiwithapex/hugging-face-finevision-24m-sample-10b-token-open-dataset-changing-vision-language-training-35oj)
-- [How I fixed 403 error in Laravel](https://dev.to/seongbae/how-i-fixed-403-error-in-laravel-2eg3)
+- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd)
+- [I Didn&#39;t Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf)
+- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1)
+- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice &amp; Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan)
 <!-- BLOG-POST-LIST:END -->
 
 
