@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One tool for both registration and editing! Basic Techniques for Reusing Forms in React](https://dev.to/kazutora_hattori_66972c88/one-tool-for-both-registration-and-editing-basic-techniques-for-reusing-forms-in-react-5f81)
-- [Release - CherryPick 3.x](https://dev.to/pese/release-cherrypick-3x-1jga)
-- [AI in Finance and Banking Exploring the Emerging Role of the Internet of Behaviors &lpar;IoB&rpar;](https://dev.to/vendkura/ai-in-finance-and-banking-exploring-the-emerging-role-of-the-internet-of-behaviors-iob-eng-version-34j5)
-- [Turning a Photo into a 1/7 Scale PVC Figurine with Bandai-Style Packaging](https://dev.to/safdarali25/turning-a-photo-into-a-17-scale-pvc-figurine-with-bandai-style-packaging-587k)
+- [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
+- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
+- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
+- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
 <!-- BLOG-POST-LIST:END -->
 
 
