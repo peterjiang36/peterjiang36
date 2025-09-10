@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Anik Khan - Infinite NETIC &lpar;ft. Netic&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-anik-khan-infinite-netic-ft-netic-a-colors-show-l7l)
-- [Peter Finch Golf: Even the pros CAN&#39;T break par at this course!](https://dev.to/youtube_golf/peter-finch-golf-even-the-pros-cant-break-par-at-this-course-468a)
-- [GameSpot: HyperYuki: Snowboard Syndicate – Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-hyperyuki-snowboard-syndicate-official-gameplay-reveal-trailer-27lp)
-- [IGN: Marvel Rivals - Official &#39;Fruits of Immortality&#39; Season 4 Battle Pass Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-fruits-of-immortality-season-4-battle-pass-trailer-nm6)
+- [I Built a Banking System That Talks COBOL… and My Boss Didn&#39;t Notice](https://dev.to/obinexus/i-built-a-banking-system-that-talks-cobol-and-my-boss-didnt-notice-4gm3)
+- [Blind coding](https://dev.to/dyfet/blind-coding-70b)
+- [How to Delete and Recover a Virtual Machine Using OS Disk](https://dev.to/jic/how-to-delete-and-recover-a-virtual-machine-using-os-disk-3p2e)
+- [Awesome Robots Digest - Issue #2 - September 5, 2025](https://dev.to/bobjiang/awesome-robots-digest-issue-2-september-5-2025-8dl)
 <!-- BLOG-POST-LIST:END -->
 
 
