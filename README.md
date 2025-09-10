@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering: The Security Reality Check Every Developer Needs](https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13)
-- [🚀 Looking for Feedback on ClearWork: Real-World Process Mapping, Future-State Design &amp; Agentic Workflows](https://dev.to/avery_brooks_9532c2ed2452/looking-for-feedback-on-clearwork-real-world-process-mapping-future-state-design-agentic-fc)
-- [Python Mystery Quiz: Can You Crack This Code?](https://dev.to/aaron_rose_0787cc8b4775a0/python-mystery-quiz-can-you-crack-this-code-3o53)
-- [Best markup to use in GitHub as a writer based on work-flow](https://dev.to/somadinag/best-markup-to-use-in-github-as-a-writer-based-on-work-flow-3ma)
+- [COLORS: Anik Khan - Infinite NETIC &lpar;ft. Netic&rpar; | A COLORS SHOW](https://dev.to/music_youtube/colors-anik-khan-infinite-netic-ft-netic-a-colors-show-l7l)
+- [Peter Finch Golf: Even the pros CAN&#39;T break par at this course!](https://dev.to/youtube_golf/peter-finch-golf-even-the-pros-cant-break-par-at-this-course-468a)
+- [GameSpot: HyperYuki: Snowboard Syndicate – Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-hyperyuki-snowboard-syndicate-official-gameplay-reveal-trailer-27lp)
+- [IGN: Marvel Rivals - Official &#39;Fruits of Immortality&#39; Season 4 Battle Pass Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-fruits-of-immortality-season-4-battle-pass-trailer-nm6)
 <!-- BLOG-POST-LIST:END -->
 
 
