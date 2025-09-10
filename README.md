@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Largest NPM Supply Chain Attack of 2025: A Deep Dive into the Compromise of Billions of Downloads](https://dev.to/om_shree_0709/the-largest-npm-supply-chain-attack-of-2025-a-deep-dive-into-the-compromise-of-billions-of-3f45)
-- [KEXP: THIS WILL DESTROY YOU - Dustism &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-dustism-live-on-kexp-2fdp)
-- [KEXP: THIS WILL DESTROY YOU - The World Is Our ____ &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-the-world-is-our-live-on-kexp-1m54)
-- [KEXP: THIS WILL DESTROY YOU - A Three-Legged Workhorse &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-this-will-destroy-you-a-three-legged-workhorse-live-on-kexp-44co)
+- [The Missing Link in Cloud Learning: Experience](https://dev.to/yoga0022/the-missing-link-in-cloud-learning-experience-1ibk)
+- [Queues, Buses, and Streams](https://dev.to/aws-builders/queues-buses-and-streams-49g2)
+- [AI-Powered SEO Research Agent with OpenAI &amp; SerpApi](https://dev.to/james_collins/ai-powered-seo-research-agent-with-openai-serpapi-390g)
+- [AI is amazing — but let&#39;s keep our critical thinking on](https://dev.to/shaman-apprentice/ai-is-amazing-but-lets-keep-our-critical-thinking-on-10b1)
 <!-- BLOG-POST-LIST:END -->
 
 
