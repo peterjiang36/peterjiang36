@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Theory to Practice: A Complete Guide to Kubernetes In-Place Pod Resizing](https://dev.to/cloudpilot-ai/from-theory-to-practice-a-complete-guide-to-kubernetes-in-place-pod-resizing-4glk)
-- [Vibe Coding Best Practices](https://dev.to/jolanglinais/vibe-coding-best-practices-4go7)
-- [How I Built String Art Generator: Turning Photos Into Creative Patterns](https://dev.to/lili_zheng_3b046c3bf8ed58/how-i-built-string-art-generator-turning-photos-into-creative-patterns-2apk)
-- [Part 1: The 5-Minute Setup That Turns ChatGPT Into Your Real Assistant](https://dev.to/semiautomatix/part-1-the-5-minute-setup-that-turns-chatgpt-into-your-real-assistant-5gai)
+- [NPR Music: 2025 Americana Music Honors &amp; Awards](https://dev.to/music_youtube/npr-music-2025-americana-music-honors-awards-345n)
+- [Jeff Su: These 5 iPhone AI Tips Changed How I Work](https://dev.to/future_ai/jeff-su-these-5-iphone-ai-tips-changed-how-i-work-i2l)
+- [How One Phishing Email Just Compromised 2.6 Billion NPM Downloads &lpar;And Why Every Dev Should Care&rpar;](https://dev.to/shiva_shanker_k/how-one-phishing-email-just-compromised-26-billion-npm-downloads-and-why-every-dev-should-care-3g0h)
+- [GameSpot: Play Acclaim Showcase Livestream](https://dev.to/gg_news/gamespot-play-acclaim-showcase-livestream-21ng)
 <!-- BLOG-POST-LIST:END -->
 
 
