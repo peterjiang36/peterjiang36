@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing OWIN Authentication with Microsoft Entra ID in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-with-microsoft-entra-id-in-aspnet-framework-5g4i)
-- [Visualize XML Data Online with Ease — No Setup Required](https://dev.to/bugblitz98/visualize-xml-data-online-with-ease-no-setup-required-2kni)
-- [IGN: 100 METERS - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-100-meters-official-trailer-english-subtitles-4pi8)
-- [Mac Headaches: External Monitors](https://dev.to/oculus42/mac-headaches-external-monitors-1ni7)
+- [From Theory to Practice: A Complete Guide to Kubernetes In-Place Pod Resizing](https://dev.to/cloudpilot-ai/from-theory-to-practice-a-complete-guide-to-kubernetes-in-place-pod-resizing-4glk)
+- [Vibe Coding Best Practices](https://dev.to/jolanglinais/vibe-coding-best-practices-4go7)
+- [How I Built String Art Generator: Turning Photos Into Creative Patterns](https://dev.to/lili_zheng_3b046c3bf8ed58/how-i-built-string-art-generator-turning-photos-into-creative-patterns-2apk)
+- [Part 1: The 5-Minute Setup That Turns ChatGPT Into Your Real Assistant](https://dev.to/semiautomatix/part-1-the-5-minute-setup-that-turns-chatgpt-into-your-real-assistant-5gai)
 <!-- BLOG-POST-LIST:END -->
 
 
