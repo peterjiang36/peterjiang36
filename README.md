@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Static Forms to Dynamic Configurator: Our Journey in PLM](https://dev.to/i_abhiseka/from-static-forms-to-dynamic-configurator-our-journey-in-plm-3n9i)
-- [How to Monitor and Save Server Disk Space in Laravel](https://dev.to/yasserelgammal/how-to-monitor-and-save-server-disk-space-in-laravel-52g9)
-- [The thing is I love programming ...](https://dev.to/bekbrace/the-thing-is-i-love-programming--49m8)
-- [Rethinking Tool Calling: Towards a Scalable Standard](https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe)
+- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-3a5l)
+- [Waving the Red Flag: Avoiding a 9-to-5 Nightmare, pt. 1](https://dev.to/jessangelo/waving-the-red-flag-avoiding-a-9-to-5-nightmare-pt-1-2n57)
+- [The Ultimate Guide to Self-Hosting n8n for Free using Render and Nhost](https://dev.to/singhamandeep007/the-ultimate-guide-to-self-hosting-n8n-for-free-using-render-and-nhost-2d69)
+- [IGN: Chainsaw Man - Official Series Recap Video &lpar;Sub&rpar;](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-sub-5683)
 <!-- BLOG-POST-LIST:END -->
 
 
