@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cadenas de caracteres... en el BASIC del ZX Spectrum](https://dev.to/baltasarq/cadenas-de-caracteres-en-el-basic-del-zx-spectrum-25mc)
-- [Prompting GPT-5: How to write clear, effective prompts for maximum results](https://dev.to/techielass/prompting-gpt-5-how-to-write-clear-effective-prompts-for-maximum-results-46dc)
-- [Tired of Regex Gibberish? This CLI Tool Decodes It Like Magic. ✨](https://dev.to/silentwatcher_95/tired-of-regex-gibberish-this-cli-tool-decodes-it-like-magic-374i)
-- [Tsonnet #23 - Mirror, mirror on the wall, who&#39;s the most self-referential of them all?](https://dev.to/bitmaybewise/tsonnet-23-mirror-mirror-on-the-wall-whos-the-most-self-referential-of-them-all-2212)
+- [Protect Your Node.js API: Rate Limiting with Fixed Window, Sliding Window, and Token Bucket](https://dev.to/odunayo_dada/protect-your-nodejs-api-rate-limiting-with-fixed-window-sliding-window-and-token-bucket-4278)
+- [Docker Best Practices: Reduce Image Size + Common Interview Questions](https://dev.to/suavebajaj/docker-best-practices-reduce-image-size-common-interview-questions-4hen)
+- [🎨 Building a Random Gradient Generator with React &lpar;Step-by-Step Guide&rpar;](https://dev.to/vishalthapaliya/building-a-random-gradient-generator-with-react-step-by-step-guide-16co)
+- [Creating a Practical Project Plan for SDLC](https://dev.to/th33k/creating-a-practical-project-plan-for-sdlc-3dh2)
 <!-- BLOG-POST-LIST:END -->
 
 
