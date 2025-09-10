@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Users Act or Don’t: Lessons from the CREATE Action Funnel](https://dev.to/lovestaco/why-users-act-or-dont-lessons-from-the-create-action-funnel-4bne)
-- [TDD and AI-enabled engineering](https://dev.to/bain_forge/tdd-and-ai-enabled-engineering-chl)
-- [How to Provide a Swagger UI Interface in Plain HTML That Works](https://dev.to/fedtti/how-to-provide-a-swagger-ui-interface-in-plain-html-that-works-3lll)
-- [The Backwards Way to $10K MRR: Build SEO First, Product Second](https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82)
+- [Apprenticeship and the Importance of Community](https://dev.to/jakesvoid/apprenticeship-and-the-importance-of-community-1phc)
+- [Grant Horvat: Can I Break 60 with Bronny James?](https://dev.to/youtube_golf/grant-horvat-can-i-break-60-with-bronny-james-5bph)
+- [IGN: Spinal Tap React to the Greatest Rock &amp; Roll Moments In Movie History](https://dev.to/gg_news/ign-spinal-tap-react-to-the-greatest-rock-roll-moments-in-movie-history-87e)
+- [IGN: Little Nightmares 3: The Final Preview](https://dev.to/gg_news/ign-little-nightmares-3-the-final-preview-eb2)
 <!-- BLOG-POST-LIST:END -->
 
 
