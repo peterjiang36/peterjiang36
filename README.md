@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
-- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
-- [How to create an Oracle Autonomous Database@Google Cloud](https://dev.to/farisdurrani/how-to-create-an-oracle-autonomous-databasegoogle-cloud-380o)
-- [How to Build Sales Battlecards Your Reps Will Actually Use &lpar;and Win With&rpar;](https://dev.to/paultowers/how-to-build-sales-battlecards-your-reps-will-actually-use-and-win-with-573a)
+- [GameSpot: Borderlands 4 | Things I Wish I Knew Before Playing](https://dev.to/gg_news/gamespot-borderlands-4-things-i-wish-i-knew-before-playing-1np8)
+- [IGN: Arena Breakout: Infinite - Official Full Release Update Overview Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-full-release-update-overview-trailer-3he7)
+- [IGN: Hollow Knight: Silksong Boss Fight - Fourth Chorus &lpar;Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-fourth-chorus-far-fields-m1k)
+- [IGN: Dying Light: The Beast - Official Part 3: Monsters Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-part-3-monsters-trailer-40i4)
 <!-- BLOG-POST-LIST:END -->
 
 
