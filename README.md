@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Sea Lemon - Cynical &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-cynical-live-on-kexp-f3e)
-- [KEXP: Sea Lemon - Crystals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-crystals-live-on-kexp-m4b)
-- [KEXP: Sea Lemon - Stay &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-stay-live-on-kexp-5cah)
-- [KEXP: Sea Lemon - Sunken Cost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-sunken-cost-live-on-kexp-1dmc)
+- [Building CodeMapRT: Rethinking Regression Testing with Change-Mapping](https://dev.to/yuliadrogunova/building-codemaprt-rethinking-regression-testing-with-change-mapping-2hbb)
+- [Effective Java &lpar;3rd Edition&rpar; - Chapter 2: Creating and Destroying Objects with Java and Kotlin](https://dev.to/inajar/effective-java-3rd-edition-chapter-2-creating-and-destroying-objects-with-java-and-kotlin-5965)
+- [Why the Principle of Least Privilege Is Critical for Non-Human Identities](https://dev.to/gitguardian/why-the-principle-of-least-privilege-is-critical-for-non-human-identities-3kg3)
+- [ChatGPT Developer Mode: Full MCP client access](https://dev.to/technoblogger14o3/chatgpt-developer-mode-full-mcp-client-access-3c4i)
 <!-- BLOG-POST-LIST:END -->
 
 
