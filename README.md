@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
-- [One line of code caused the SeaTunnel Kafka connector to eat 12GB of memory in 5 mins!](https://dev.to/seatunnel/one-line-of-code-caused-the-seatunnel-kafka-connector-to-eat-12gb-of-memory-in-5-mins-j5f)
-- [11 Highest Paying Remote Coding Jobs in 2025 &lpar;Up to $367K&rpar;](https://dev.to/metana/11-highest-paying-remote-coding-jobs-in-2025-up-to-367k-5295)
-- [SQL LIKE Operator: What It Is, How It Works, and Best Practices](https://dev.to/dbvismarketing/sql-like-operator-what-it-is-how-it-works-and-best-practices-261p)
+- [How Do You Fix the Missing Texture Error in Blender &lpar;2025 Guide&rpar;?](https://dev.to/irender_gpu_cloud/how-do-you-fix-the-missing-texture-error-in-blender-2025-guide-1100)
+- [A Complete Picture to Make Laravel Blade Files Alive](https://dev.to/raheelshan/a-complete-picture-to-make-laravel-blade-files-alive-4go3)
+- [Ccza – Premium Credit Card Solutions for Secure Online Transactions in London](https://dev.to/cczauvr/ccza-premium-credit-card-solutions-for-secure-online-transactions-in-london-1mj9)
+- [Why I built Servy – a modern open-source alternative to NSSM/WinSW](https://dev.to/aelassas/why-i-built-servy-a-modern-open-source-alternative-to-nssmwinsw-kbm)
 <!-- BLOG-POST-LIST:END -->
 
 
