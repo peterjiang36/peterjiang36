@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: you, infinite &lpar;THIS WILL DESTROY YOU&rpar; - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-this-will-destroy-you-throughlines-live-on-kexp-2098)
-- [SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-hands-on-the-free-security-tool-you-didnt-know-you-needed-2o4j)
-- [How to show multi-quality video streaming &lpar;HD, SD, FHD&rpar;](https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3)
-- [Canonical Tags: When to Use Them and Common Mistakes](https://dev.to/ivanjarkov/canonical-tags-when-to-use-them-and-common-mistakes-59cm)
+- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
+- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
+- [Using IP2Location Dart in console project](https://dev.to/ip2location/using-ip2location-dart-in-console-project-f0n)
+- [The 30-Second Problem That Took Me 3 Weeks to Solve](https://dev.to/thatonearab/the-30-second-problem-that-took-me-3-weeks-to-solve-1odf)
 <!-- BLOG-POST-LIST:END -->
 
 
