@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j)
-- [Compile-Time vs Runtime Safety in React &lpar;TSX&rpar;: The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
-- [Ng-News 25/36: Q&amp;A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
-- [7 Smart Ways to Turn Your Portfolio Visitors into Paying Clients](https://dev.to/imtaslim/7-smart-ways-to-turn-your-portfolio-visitors-into-paying-clients-aif)
+- [Nx, Turborepo, Lerna… Which Monorepo Tool Wins for New Projects?](https://dev.to/marek_kregiel_d6361c8268f/nx-turborepo-lerna-which-monorepo-tool-wins-for-new-projects-2efn)
+- [One line of code caused the SeaTunnel Kafka connector to eat 12GB of memory in 5 mins!](https://dev.to/seatunnel/one-line-of-code-caused-the-seatunnel-kafka-connector-to-eat-12gb-of-memory-in-5-mins-j5f)
+- [11 Highest Paying Remote Coding Jobs in 2025 &lpar;Up to $367K&rpar;](https://dev.to/metana/11-highest-paying-remote-coding-jobs-in-2025-up-to-367k-5295)
+- [SQL LIKE Operator: What It Is, How It Works, and Best Practices](https://dev.to/dbvismarketing/sql-like-operator-what-it-is-how-it-works-and-best-practices-261p)
 <!-- BLOG-POST-LIST:END -->
 
 
