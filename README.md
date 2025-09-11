@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship real‑time alerts without WebSocket&#39;s: Web Push for enterprise constraints 🔔](https://dev.to/ayushsrtv/ship-real-time-alerts-without-websockets-web-push-for-enterprise-constraints-nbe)
-- [Spring AI with Amazon Bedrock - Part 4 Exploring Model Context Protocol Streamable HTTP transport](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-4-exploring-model-context-protocol-streamable-http-transport-2o5h)
-- [📦 How JavaScript Imports Really Work &lpar;and Why It Matters for Scalable Code&rpar;](https://dev.to/anik_sikder_313/how-javascript-imports-really-work-and-why-it-matters-for-scalable-code-3fpm)
-- [How I Built a Storytelling App That Turns Drawings into Tales with Gemini 2.5 Flash](https://dev.to/chilupa/how-i-built-a-storytelling-app-that-turns-drawings-into-tales-with-gemini-25-flash-298e)
+- [IGN: Borderlands 4 - Which Character &lpar;or Class&rpar; Should You Choose?](https://dev.to/gg_news/ign-borderlands-4-which-character-or-class-should-you-choose-10i4)
+- [IGN: Easy Delivery Co. - Official Release Date Trailer](https://dev.to/gg_news/ign-easy-delivery-co-official-release-date-trailer-224c)
+- [IGN: Dead Reset - Official Launch Trailer](https://dev.to/gg_news/ign-dead-reset-official-launch-trailer-5h34)
+- [IGN: Dune: Awakening - Official Explore Arrakis Trailer](https://dev.to/gg_news/ign-dune-awakening-official-explore-arrakis-trailer-5ala)
 <!-- BLOG-POST-LIST:END -->
 
 
