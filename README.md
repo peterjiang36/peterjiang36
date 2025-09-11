@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Pesapal API 3.0 on Django](https://dev.to/joy_nyayieka/integrating-pesapal-api-30-on-django-58i0)
-- [Building a License Plate Recognition System with Deep Learning and Edge Deployment](https://dev.to/aneesafolio3/building-a-license-plate-recognition-system-with-deep-learning-and-edge-deployment-ack)
-- [5 Common Performance Pitfalls in Mobile Apps &lpar;And How to Fix Them&rpar;](https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h)
-- [Master MERN Stack Development with CoderCrafter: Building a User Authentication System](https://dev.to/himanshu_anand_b6a7606f82/master-mern-stack-development-with-codercrafter-building-a-user-authentication-system-3873)
+- [Deploying a Honeypot SOC with Microsoft Sentinel](https://dev.to/quincy_ouko/deploying-a-honeypot-soc-with-microsoft-sentinel-1l22)
+- [🎨 Specifishity — CSS Specificity Made Simple 🐟](https://dev.to/ml318097/specifishity-css-specificity-made-simple-inf)
+- [Starlark-Powered Pipelines in Woodpecker CI](https://dev.to/jankaritech/starlark-powered-pipelines-in-woodpecker-ci-3ogf)
+- [Dev tools: Debug WebSocket Connections Fast](https://dev.to/hreuven/dev-tools-debug-websocket-connections-fast-5393)
 <!-- BLOG-POST-LIST:END -->
 
 
