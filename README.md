@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Radar Charts: Seeing Priorities in Every Dimension](https://dev.to/datastudies/radar-charts-seeing-priorities-in-every-dimension-1onj)
-- [🌊 Be the Rising Tide: The Multiplying Effect of Lifting &lpar;and Pushing&rpar; Others](https://dev.to/dvddpl/be-the-rising-tide-the-multiplying-effect-of-lifting-and-pushing-others-n1h)
-- [10 Handy Online Utilities Every Developer &lpar;and Writer&rpar; Should Bookmark](https://dev.to/designpro_8c25215be381e3c/10-handy-online-utilities-every-developer-and-writer-should-bookmark-p0f)
-- [The Ultimate Ranking of Fruit-Inspired .com Brand Names](https://dev.to/flippp/the-ultimate-ranking-of-fruit-inspired-com-brand-names-2p7o)
+- [Conversations That Mattered: My Journey Mentoring a Senior into Leadership](https://dev.to/berlin-tech-blog/conversations-that-mattered-my-journey-mentoring-a-senior-into-leadership-2p4m)
+- [Types vs Interfaces in TypeScript: A Clear Guide for Developers](https://dev.to/rijultp/types-vs-interfaces-in-typescript-a-clear-guide-for-developers-13kf)
+- [Stop Writing SQL by Hand: Building My MVP to Chat With Databases](https://dev.to/arseniydev/stop-writing-sql-by-hand-building-my-mvp-to-chat-with-databases-3fhg)
+- [Job board Platform](https://dev.to/alain_kwishima/job-board-platform-28pc)
 <!-- BLOG-POST-LIST:END -->
 
 
