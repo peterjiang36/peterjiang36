@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Art: How Creators Can Navigate the Evolving Landscape](https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4)
-- [The biggest opportunities in 2025 won’t go to those who can write the most prompts. They’ll go to those who can turn prompts into products, systems, and sustainable business models.](https://dev.to/jaideepparashar/the-biggest-opportunities-in-2025-wont-go-to-those-who-can-write-the-most-prompts-theyll-go-to-4obe)
-- [How I Use AI to Build Real Business Models &lpar;Not Just Content&rpar;](https://dev.to/jaideepparashar/how-i-use-ai-to-build-real-business-models-not-just-content-1n66)
-- [Quick Fix: My MCP Tools Were Showing as Write Tools in ChatGPT Dev Mode](https://dev.to/nickytonline/quick-fix-my-mcp-tools-were-showing-as-write-tools-in-chatgpt-dev-mode-3id9)
+- [KEXP: you, infinite &lpar;THIS WILL DESTROY YOU&rpar; - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-this-will-destroy-you-throughlines-live-on-kexp-2098)
+- [SafeLine WAF Hands-On: The Free Security Tool You Didn’t Know You Needed](https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-hands-on-the-free-security-tool-you-didnt-know-you-needed-2o4j)
+- [How to show multi-quality video streaming &lpar;HD, SD, FHD&rpar;](https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3)
+- [Canonical Tags: When to Use Them and Common Mistakes](https://dev.to/ivanjarkov/canonical-tags-when-to-use-them-and-common-mistakes-59cm)
 <!-- BLOG-POST-LIST:END -->
 
 
