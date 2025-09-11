@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Borderlands 4 | Things I Wish I Knew Before Playing](https://dev.to/gg_news/gamespot-borderlands-4-things-i-wish-i-knew-before-playing-1np8)
-- [IGN: Arena Breakout: Infinite - Official Full Release Update Overview Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-full-release-update-overview-trailer-3he7)
-- [IGN: Hollow Knight: Silksong Boss Fight - Fourth Chorus &lpar;Far Fields&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-fourth-chorus-far-fields-m1k)
-- [IGN: Dying Light: The Beast - Official Part 3: Monsters Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-part-3-monsters-trailer-40i4)
+- [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
+- [Forging Data Symphonies: The Art of the ETL Pipeline in Rails](https://dev.to/alex_aslam/forging-data-symphonies-the-art-of-the-etl-pipeline-in-rails-5bno)
+- [Filtering and Searching Transactions](https://dev.to/hermitcommitscode/filtering-and-searching-transactions-2eaf)
+- [🔌 Native Channels in Flutter — A Complete Guide](https://dev.to/omar_elsadany_f3e48cab5b9/native-channels-in-flutter-a-complete-guide-52h1)
 <!-- BLOG-POST-LIST:END -->
 
 
