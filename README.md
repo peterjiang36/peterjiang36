@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CallBack,CallBack Hell](https://dev.to/kavya_s/callbackcallback-hell-10cd)
-- [Spaces in FinderBee: Organized, Secure AI Service Management](https://dev.to/babluritheesh/spaces-in-finderbee-organized-secure-ai-service-management-21jf)
-- [How to Properly Configure robots.txt and Why It Matters for SEO](https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb)
-- [Build a Fullstack Modern System with Amazon Kiro](https://dev.to/angelomao/build-a-fullstack-modern-system-with-amazon-kiro-1f3e)
+- [Quick Fix: My MCP Tools Were Showing as Write Tools in ChatGPT Dev Mode](https://dev.to/nickytonline/quick-fix-my-mcp-tools-were-showing-as-write-tools-in-chatgpt-dev-mode-3id9)
+- [KEXP: you, infinite - Throughlines &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-you-infinite-throughlines-live-on-kexp-5flb)
+- [Golf With Aimee: This Just Broke the Launch Monitor Game | Meet the Neo-E ⛳🔥](https://dev.to/youtube_golf/golf-with-aimee-this-just-broke-the-launch-monitor-game-meet-the-neo-e-4ahm)
+- [GameSpot: 7 Things I Wish I Knew Before Playing Hollow Knight: Silksong](https://dev.to/gg_news/gamespot-7-things-i-wish-i-knew-before-playing-hollow-knight-silksong-4ckn)
 <!-- BLOG-POST-LIST:END -->
 
 
