@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um malware em Rust 🦀](https://dev.to/otavio_onoue/criando-um-malware-em-rust-10go)
-- [Micro-Business Digital Assistant — Track Sales &amp; Expenses with AI](https://dev.to/ihossen016/micro-business-digital-assistant-track-sales-expenses-with-ai-86j)
-- [Using IP2Location Dart in console project](https://dev.to/ip2location/using-ip2location-dart-in-console-project-f0n)
-- [The 30-Second Problem That Took Me 3 Weeks to Solve](https://dev.to/thatonearab/the-30-second-problem-that-took-me-3-weeks-to-solve-1odf)
+- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j)
+- [Compile-Time vs Runtime Safety in React &lpar;TSX&rpar;: The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k)
+- [Ng-News 25/36: Q&amp;A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c)
+- [7 Smart Ways to Turn Your Portfolio Visitors into Paying Clients](https://dev.to/imtaslim/7-smart-ways-to-turn-your-portfolio-visitors-into-paying-clients-aif)
 <!-- BLOG-POST-LIST:END -->
 
 
