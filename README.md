@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Conversations That Mattered: My Journey Mentoring a Senior into Leadership](https://dev.to/berlin-tech-blog/conversations-that-mattered-my-journey-mentoring-a-senior-into-leadership-2p4m)
-- [Types vs Interfaces in TypeScript: A Clear Guide for Developers](https://dev.to/rijultp/types-vs-interfaces-in-typescript-a-clear-guide-for-developers-13kf)
-- [Stop Writing SQL by Hand: Building My MVP to Chat With Databases](https://dev.to/arseniydev/stop-writing-sql-by-hand-building-my-mvp-to-chat-with-databases-3fhg)
-- [Job board Platform](https://dev.to/alain_kwishima/job-board-platform-28pc)
+- [Get to know me :&rpar;](https://dev.to/codingsayed/get-to-know-me-m29)
+- [The Plough Audit: Before you upgrade the farm, you must first inspect the plough.](https://dev.to/black-ib/the-plough-audit-before-you-upgrade-the-farm-you-must-first-inspect-the-plough-3964)
+- [How to create an Oracle Autonomous Database@Google Cloud](https://dev.to/farisdurrani/how-to-create-an-oracle-autonomous-databasegoogle-cloud-380o)
+- [How to Build Sales Battlecards Your Reps Will Actually Use &lpar;and Win With&rpar;](https://dev.to/paultowers/how-to-build-sales-battlecards-your-reps-will-actually-use-and-win-with-573a)
 <!-- BLOG-POST-LIST:END -->
 
 
