@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Fix the Missing Texture Error in Blender &lpar;2025 Guide&rpar;?](https://dev.to/irender_gpu_cloud/how-do-you-fix-the-missing-texture-error-in-blender-2025-guide-1100)
-- [A Complete Picture to Make Laravel Blade Files Alive](https://dev.to/raheelshan/a-complete-picture-to-make-laravel-blade-files-alive-4go3)
-- [Ccza – Premium Credit Card Solutions for Secure Online Transactions in London](https://dev.to/cczauvr/ccza-premium-credit-card-solutions-for-secure-online-transactions-in-london-1mj9)
-- [Why I built Servy – a modern open-source alternative to NSSM/WinSW](https://dev.to/aelassas/why-i-built-servy-a-modern-open-source-alternative-to-nssmwinsw-kbm)
+- [AI Ransomware Army: How 80% of Cyberattacks Are Powered by Artificial Intelligence](https://dev.to/axrisi/ai-ransomware-army-how-80-of-cyberattacks-are-powered-by-artificial-intelligence-1d69)
+- [⚡ Lightning Network: Rust, LDK, and the Future of Bitcoin Payments](https://dev.to/_56d7718cea8fe00ec1610/lightning-network-rust-ldk-and-the-future-of-bitcoin-payments-c7l)
+- [[Boost]](https://dev.to/revis047/-17am)
+- [How a Birthday Cake Accidentally Taught Me DOM 🎂](https://dev.to/lokesh_keswani/how-a-birthday-cake-accidentally-taught-me-dom-g40)
 <!-- BLOG-POST-LIST:END -->
 
 
