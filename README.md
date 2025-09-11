@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Borderlands 4 - Which Character &lpar;or Class&rpar; Should You Choose?](https://dev.to/gg_news/ign-borderlands-4-which-character-or-class-should-you-choose-10i4)
-- [IGN: Easy Delivery Co. - Official Release Date Trailer](https://dev.to/gg_news/ign-easy-delivery-co-official-release-date-trailer-224c)
-- [IGN: Dead Reset - Official Launch Trailer](https://dev.to/gg_news/ign-dead-reset-official-launch-trailer-5h34)
-- [IGN: Dune: Awakening - Official Explore Arrakis Trailer](https://dev.to/gg_news/ign-dune-awakening-official-explore-arrakis-trailer-5ala)
+- [Building a Portfolio while you Chat: My TamboHack Project](https://dev.to/fudailzafar/building-a-portfolio-while-you-chat-my-tambohack-project-14m3)
+- [Redis Hands-On: Master Hashes, Persistence, Lua, &amp; HyperLogLog with 5 Practical Labs](https://dev.to/labex/redis-hands-on-master-hashes-persistence-lua-hyperloglog-with-5-practical-labs-47li)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production](https://dev.to/dgaro/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-513m)
+- [Cracking the Code: A Senior&#39;s Guide to Advanced JavaScript Interviews](https://dev.to/jackm_345442a09fb53b/cracking-the-code-a-seniors-guide-to-advanced-javascript-interviews-2mc9)
 <!-- BLOG-POST-LIST:END -->
 
 
