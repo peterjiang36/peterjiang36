@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello everyone!](https://dev.to/esdk/hello-everyone-165f)
-- [GameSpot: Hollow Knight: Silksong 7 Things I Wish I Knew](https://dev.to/gg_news/gamespot-hollow-knight-silksong-7-things-i-wish-i-knew-5d25)
-- [IGN: GTA 6 Delay Wasn&#39;t Bad for Everyone - IGN Daily Fix](https://dev.to/gg_news/ign-gta-6-delay-wasnt-bad-for-everyone-ign-daily-fix-2e5e)
-- [IGN: Hollow Knight Silksong - How to Upgrade Your Needle in Act 1](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-upgrade-your-needle-in-act-1-4ep0)
+- [CallBack,CallBack Hell](https://dev.to/kavya_s/callbackcallback-hell-10cd)
+- [Spaces in FinderBee: Organized, Secure AI Service Management](https://dev.to/babluritheesh/spaces-in-finderbee-organized-secure-ai-service-management-21jf)
+- [How to Properly Configure robots.txt and Why It Matters for SEO](https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb)
+- [Build a Fullstack Modern System with Amazon Kiro](https://dev.to/angelomao/build-a-fullstack-modern-system-with-amazon-kiro-1f3e)
 <!-- BLOG-POST-LIST:END -->
 
 
