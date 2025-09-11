@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Honeypot SOC with Microsoft Sentinel](https://dev.to/quincy_ouko/deploying-a-honeypot-soc-with-microsoft-sentinel-1l22)
-- [🎨 Specifishity — CSS Specificity Made Simple 🐟](https://dev.to/ml318097/specifishity-css-specificity-made-simple-inf)
-- [Starlark-Powered Pipelines in Woodpecker CI](https://dev.to/jankaritech/starlark-powered-pipelines-in-woodpecker-ci-3ogf)
-- [Dev tools: Debug WebSocket Connections Fast](https://dev.to/hreuven/dev-tools-debug-websocket-connections-fast-5393)
+- [KEXP: Sea Lemon - Cynical &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-cynical-live-on-kexp-f3e)
+- [KEXP: Sea Lemon - Crystals &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-crystals-live-on-kexp-m4b)
+- [KEXP: Sea Lemon - Stay &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-stay-live-on-kexp-5cah)
+- [KEXP: Sea Lemon - Sunken Cost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sea-lemon-sunken-cost-live-on-kexp-1dmc)
 <!-- BLOG-POST-LIST:END -->
 
 
