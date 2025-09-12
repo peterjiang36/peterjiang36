@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Workouts for Developers Who Sit All Day](https://dev.to/alexahayes/best-workouts-for-developers-who-sit-all-day-20jm)
-- [From Rules to Router: Teaching AI Your Language, Not Laws](https://dev.to/yemreak/from-rules-to-router-teaching-ai-your-language-not-laws-5cj2)
-- [Mock SDET Interview: What Every Junior QA Should Know](https://dev.to/_codemify_b9533112d373/mock-sdet-interview-what-every-junior-qa-should-know-442)
-- [JIGSAW PHOTO](https://dev.to/saurabhj9/jigsaw-photo-cc9)
+- [Cloud Resume Challenge - Chunk 1 - Building the Front-End](https://dev.to/tlklein/cloud-resume-challenge-chunk-1-building-the-front-end-49hi)
+- [Accepted Into Enye Cohort 5](https://dev.to/orimdominic/accepted-into-enye-cohort-5-55ib)
+- [Beyond the Fields: A Data-Driven Look at Kenya’s Agricultural Productivity](https://dev.to/loi2008/beyond-the-fields-a-data-driven-look-at-kenyas-agricultural-productivity-4n8n)
+- [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
 <!-- BLOG-POST-LIST:END -->
 
 
