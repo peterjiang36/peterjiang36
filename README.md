@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Tomodachi Life Living The Dream - Official Release Window Reveal Gameplay Trailer](https://dev.to/gg_news/gamespot-tomodachi-life-living-the-dream-official-release-window-reveal-gameplay-trailer-2fnm)
-- [GameSpot: Donkey Kong Bananza - DK Island and Emerald Rush Launch Trailer](https://dev.to/gg_news/gamespot-donkey-kong-bananza-dk-island-and-emerald-rush-launch-trailer-1lc4)
-- [GameSpot: Resident Evil Requiem &lpar;RE9&rpar; - Official 2nd Trailer](https://dev.to/gg_news/gamespot-resident-evil-requiem-re9-official-2nd-trailer-3ol)
-- [GameSpot: Donkey Kong Bananza Emerald Rush Turns The Game Into A Roguelite And It&#39;s Awesome](https://dev.to/gg_news/gamespot-donkey-kong-bananza-emerald-rush-turns-the-game-into-a-roguelite-and-its-awesome-20i7)
+- [I wish we could use a filter on job boards: &quot;companies that use Gather Town&quot; 😪](https://dev.to/ferdaousbouzaiene/i-wish-we-could-use-a-filter-on-job-boards-companies-that-use-gather-town-1f91)
+- [# Master Node.js Stream Types in 10 Minutes](https://dev.to/sudiip__17/-master-nodejs-stream-types-in-10-minutes-4ef1)
+- [# Why Node.js Streams Will Save Your Server&#39;s Memory](https://dev.to/sudiip__17/-why-nodejs-streams-will-save-your-servers-memory-4ced)
+- [Informative](https://dev.to/mingzhao/informative-392p)
 <!-- BLOG-POST-LIST:END -->
 
 
