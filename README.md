@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Japanese Breakfast - My Baby &lpar;Got Nothing At All&rpar; &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3)
-- [KEXP: Japanese Breakfast - Honey Water &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d)
-- [KEXP: Japanese Breakfast - Picture Window &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod)
-- [KEXP: Japanese Breakfast - Mega Circuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-mega-circuit-live-on-kexp-11ni)
+- [Best Workouts for Developers Who Sit All Day](https://dev.to/alexahayes/best-workouts-for-developers-who-sit-all-day-20jm)
+- [From Rules to Router: Teaching AI Your Language, Not Laws](https://dev.to/yemreak/from-rules-to-router-teaching-ai-your-language-not-laws-5cj2)
+- [Mock SDET Interview: What Every Junior QA Should Know](https://dev.to/_codemify_b9533112d373/mock-sdet-interview-what-every-junior-qa-should-know-442)
+- [JIGSAW PHOTO](https://dev.to/saurabhj9/jigsaw-photo-cc9)
 <!-- BLOG-POST-LIST:END -->
 
 
