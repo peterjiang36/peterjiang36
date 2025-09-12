@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Star Realism](https://dev.to/brianbot/red-star-realism-pd6)
-- [Test from dev.to to GitHub](https://dev.to/medvedev013/test-from-devto-to-github-o0p)
-- [GameSpot: Battlefield 6 Battle Royale Everything We Know So Far](https://dev.to/gg_news/gamespot-battlefield-6-battle-royale-everything-we-know-so-far-280j)
-- [IGN: Hollow Knight: Silksong Boss Fight - Sister Splinter &lpar;Shellwood&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-sister-splinter-shellwood-58cb)
+- [The Swift Android Setup I Always Wanted](https://dev.to/swiftstream/the-swift-android-setup-i-always-wanted-285d)
+- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
+- [The sad truth 😞](https://dev.to/masterdevsabith/the-sad-truth-4d8e)
+- [Let’s unlock Synthetic Presence with SadTalker in Google Colab And Bring Images to Life](https://dev.to/ryanboscobanze/lets-unlock-synthetic-presence-with-sadtalker-in-google-colaband-bring-images-to-life-1dp3)
 <!-- BLOG-POST-LIST:END -->
 
 
