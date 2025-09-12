@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is jsx? when we use jsx? why we use jsx?how we use jsx? difference b/w js and jsx?](https://dev.to/lakshmi_g_74c225d5ca0b272/what-is-jsx-when-we-use-jsx-why-we-use-jsxhow-we-use-jsx-difference-bw-js-and-jsx-5b9)
-- [Hiring: Full-Stack Developer – Remote, 6+ Month Contract &lpar;$10–$15/hr&rpar;](https://dev.to/dev_vd_7144a5b0f61f5ce9de/hiring-full-stack-developer-remote-6-month-contract-10-15hr-409g)
-- [XMLHttpRequest in JavaScript](https://dev.to/bhuvanasri/xmlhttprequest-in-javascript-3ac8)
-- [Mastering Angular Pipes: Types, Examples, and Performance Best Practices](https://dev.to/rohit_singh_ee84e64941db7/mastering-angular-pipes-types-examples-and-performance-best-practices-21k7)
+- [Registering a vCluster Kubernetes clusters with Sveltos: A Quick Start Guide](https://dev.to/simone_morellato/registering-a-vcluster-kubernetes-clusters-with-sveltos-a-quick-start-guide-i3p)
+- [Data Anxiety? Stop Hoarding Insights. Start Systemizing Them.](https://dev.to/uspeedoai/data-anxiety-stop-hoarding-insights-start-systemizing-them-160p)
+- [Using attr&lpar;&rpar; with types](https://dev.to/alvaromontoro/using-attr-with-types-38ff)
+- [&lpar;实时&rpar;贵金属行情接口 详细接入指南【2025最新教程】](https://dev.to/peakline/shi-shi-gui-jin-shu-xing-qing-jie-kou-xiang-xi-jie-ru-zhi-nan-2025zui-xin-jiao-cheng--6ki)
 <!-- BLOG-POST-LIST:END -->
 
 
