@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
-- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
-- [IGN: Borderlands 4 - Official &#39;Claptrap Needs Friends&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-claptrap-needs-friends-trailer-306d)
-- [Create a sample resume and Push to GitHub Pages.](https://dev.to/onyemuche/create-a-sample-resume-and-push-to-github-pages-3l2h)
+- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
+- [Shout out to those who come into my life along the way and make me the most brilliant gem puji diri sendiri wpon cheater genius](https://dev.to/cutieyunnytech/shout-out-to-those-who-come-into-my-life-along-the-way-and-make-me-the-most-brilliant-gem-puji-diri-4j44)
+- [Title: Breaking the Norm: “Rojakness of Nadhirah” – My Indie Dev Journey](https://dev.to/cutieyunnytech/title-breaking-the-norm-rojakness-of-nadhirah-my-indie-dev-journey-6jk)
+- [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
 <!-- BLOG-POST-LIST:END -->
 
 
