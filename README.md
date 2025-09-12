@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
-- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
-- [Traceroute Command: Diagnose Network Issues Fast](https://dev.to/serveravatar/traceroute-command-diagnose-network-issues-fast-1kcn)
-- [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
+- [[For Beginners] Quickly Fix Jest Crashing with import.meta in Vite+React+TypeScript &lpar;Supabase Compatible&rpar;](https://dev.to/kazutora_hattori_66972c88/for-beginners-quickly-fix-jest-crashing-with-importmeta-in-vitereacttypescript-supabase-4b0g)
+- [MVC vs MVVM: what&#39;s the difference? &lpar;C# example&rpar;](https://dev.to/dimension-zero/mvc-vs-mvvm-whats-the-difference-c-example-45ah)
+- [⚡ DMG – Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/dmg-round-1-javascript-knd)
+- [I interviewed for 6 random jobs before the one I really wanted. Here’s what I did wrong.](https://dev.to/fahimulhaq/i-interviewed-for-6-random-jobs-before-the-one-i-really-wanted-heres-what-i-did-wrong-hn1)
 <!-- BLOG-POST-LIST:END -->
 
 
