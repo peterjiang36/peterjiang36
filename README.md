@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
-- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
-- [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
-- [Choosing Technologies: The Beauty and the Beast Trap](https://dev.to/igorfragadev/choosing-technologies-the-beauty-and-the-beast-trap-2b0e)
+- [GameSpot: CRITICAL REFLEX TIME Showcase](https://dev.to/gg_news/gamespot-critical-reflex-time-showcase-3dje)
+- [IGN: Nioh 3 Takes the Fastest Soulslike and Speeds it Up Even More](https://dev.to/gg_news/ign-nioh-3-takes-the-fastest-soulslike-and-speeds-it-up-even-more-5g48)
+- [IGN: Borderlands 4 - Official &#39;Claptrap Needs Friends&#39; Trailer](https://dev.to/gg_news/ign-borderlands-4-official-claptrap-needs-friends-trailer-306d)
+- [Create a sample resume and Push to GitHub Pages.](https://dev.to/onyemuche/create-a-sample-resume-and-push-to-github-pages-3l2h)
 <!-- BLOG-POST-LIST:END -->
 
 
