@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jodhpur – The New Hub for Digital Marketing Learning](https://dev.to/teckey_edu_555f8ce19aba8e/jodhpur-the-new-hub-for-digital-marketing-learning-29b)
-- [The sooner you let these 3 myths go, the sooner you can move from AI fear to AI fluency.](https://dev.to/jaideepparashar/the-sooner-you-let-these-3-myths-go-the-sooner-you-can-move-from-ai-fear-to-ai-fluency-2kfj)
-- [3 Myths About AI That Are Holding People Back](https://dev.to/jaideepparashar/3-myths-about-ai-that-are-holding-people-back-417p)
-- [Kiro for Productivity and Workflow](https://dev.to/friday_posvib_8673cb67db1/kiro-for-productivity-and-workflow-1pn4)
+- [Can You Even Use Jump Links in Angular? &lpar;Yes… Here’s How&rpar;](https://dev.to/brianmtreese/can-you-even-use-jump-links-in-angular-yes-heres-how-1lb2)
+- [LLM Prompting Techniques](https://dev.to/shajam/llm-prompting-techniques-3clf)
+- [Traceroute Command: Diagnose Network Issues Fast](https://dev.to/serveravatar/traceroute-command-diagnose-network-issues-fast-1kcn)
+- [Let the Agent Fly: How kiro’s Spec-Driven Loop Turns “Documentation Absolutism” into Velocity](https://dev.to/subara3/let-the-agent-fly-how-kiros-spec-driven-loop-turns-documentation-absolutism-into-velocity-38ac)
 <!-- BLOG-POST-LIST:END -->
 
 
