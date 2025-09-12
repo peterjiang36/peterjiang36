@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Registering a vCluster Kubernetes clusters with Sveltos: A Quick Start Guide](https://dev.to/simone_morellato/registering-a-vcluster-kubernetes-clusters-with-sveltos-a-quick-start-guide-i3p)
-- [Data Anxiety? Stop Hoarding Insights. Start Systemizing Them.](https://dev.to/uspeedoai/data-anxiety-stop-hoarding-insights-start-systemizing-them-160p)
-- [Using attr&lpar;&rpar; with types](https://dev.to/alvaromontoro/using-attr-with-types-38ff)
-- [&lpar;实时&rpar;贵金属行情接口 详细接入指南【2025最新教程】](https://dev.to/peakline/shi-shi-gui-jin-shu-xing-qing-jie-kou-xiang-xi-jie-ru-zhi-nan-2025zui-xin-jiao-cheng--6ki)
+- [Implementing Security in Front-End Applications &lpar;React&rpar;](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
+- [🏢 Enterprise Design Patterns: From Fowler’s Catalog to Real Code](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-from-fowlers-catalog-to-real-code-58d8)
+- [ParaThinker: AI Breaks Through with Parallel Thought](https://dev.to/aiwithapex/parathinker-ai-breaks-through-with-parallel-thought-3hic)
+- [Setup of react native cli 0.81](https://dev.to/iamdeveshsingh/setup-of-react-native-cli-081-3ja)
 <!-- BLOG-POST-LIST:END -->
 
 
