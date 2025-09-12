@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Swift Android Setup I Always Wanted](https://dev.to/swiftstream/the-swift-android-setup-i-always-wanted-285d)
-- [Code Smell 309 - Query Parameter API Versioning](https://dev.to/mcsee/code-smell-309-query-parameter-api-versioning-2opb)
-- [The sad truth 😞](https://dev.to/masterdevsabith/the-sad-truth-4d8e)
-- [Let’s unlock Synthetic Presence with SadTalker in Google Colab And Bring Images to Life](https://dev.to/ryanboscobanze/lets-unlock-synthetic-presence-with-sadtalker-in-google-colaband-bring-images-to-life-1dp3)
+- [How to Join a PC to Active Directory—My Lazy Guide](https://dev.to/fakestandard/how-to-join-a-pc-to-active-directory-my-lazy-guide-5eee)
+- [What is Shadow DOM and How It’s Used in Chrome Extensions](https://dev.to/learcise_health/what-is-shadow-dom-and-how-its-used-in-chrome-extensions-5e7e)
+- [Seeing the Unseeable: AI Unlocks Neutrino Secrets by Arvind Sundararajan](https://dev.to/arvindsundararajan/seeing-the-unseeable-ai-unlocks-neutrino-secrets-by-arvind-sundararajan-25m4)
+- [How a Web Browser Works: Inside Modern Browsers](https://dev.to/giovanni786/how-a-web-browser-works-inside-modern-browsers-3j8d)
 <!-- BLOG-POST-LIST:END -->
 
 
