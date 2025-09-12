@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Resume Challenge - Chunk 1 - Building the Front-End](https://dev.to/tlklein/cloud-resume-challenge-chunk-1-building-the-front-end-49hi)
-- [Accepted Into Enye Cohort 5](https://dev.to/orimdominic/accepted-into-enye-cohort-5-55ib)
-- [Beyond the Fields: A Data-Driven Look at Kenya’s Agricultural Productivity](https://dev.to/loi2008/beyond-the-fields-a-data-driven-look-at-kenyas-agricultural-productivity-4n8n)
-- [Vegi: Vegetables are not Aliens](https://dev.to/mikkel_frimerrasmussen_9/vegi-vegetables-are-not-aliens-1587)
+- [Rust vs. Your Next JavaScript Framework: Which Should You Learn?](https://dev.to/francescoxx/rust-vs-your-next-javascript-framework-which-should-you-learn-24pj)
+- [Project of the Week: Chainguard](https://dev.to/pullflow/project-of-the-week-chainguard-37cm)
+- [Struggling to Connect with Developers? Copywriting Can Transform Your Results Today! &lpar;with Practical Examples&rpar;](https://dev.to/werliton/struggling-to-connect-with-developers-copywriting-can-transform-your-results-today-with-4a3)
+- [Forward Networks - Round 1 &lpar;JavaScript&rpar;](https://dev.to/ml318097/forward-networks-round-1-javascript-310k)
 <!-- BLOG-POST-LIST:END -->
 
 
