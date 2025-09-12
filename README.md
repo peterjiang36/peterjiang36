@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Airline Revenue Management Systems with KaibanJS: A Developer&#39;s Guide](https://dev.to/kaibanjs/building-ai-powered-revenue-management-systems-with-kaibanjs-a-developers-guide-1el4)
-- [Forging Data Symphonies: The Art of the ETL Pipeline in Rails](https://dev.to/alex_aslam/forging-data-symphonies-the-art-of-the-etl-pipeline-in-rails-5bno)
-- [Filtering and Searching Transactions](https://dev.to/hermitcommitscode/filtering-and-searching-transactions-2eaf)
-- [🔌 Native Channels in Flutter — A Complete Guide](https://dev.to/omar_elsadany_f3e48cab5b9/native-channels-in-flutter-a-complete-guide-52h1)
+- [Red Star Realism](https://dev.to/brianbot/red-star-realism-pd6)
+- [Test from dev.to to GitHub](https://dev.to/medvedev013/test-from-devto-to-github-o0p)
+- [GameSpot: Battlefield 6 Battle Royale Everything We Know So Far](https://dev.to/gg_news/gamespot-battlefield-6-battle-royale-everything-we-know-so-far-280j)
+- [IGN: Hollow Knight: Silksong Boss Fight - Sister Splinter &lpar;Shellwood&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-sister-splinter-shellwood-58cb)
 <!-- BLOG-POST-LIST:END -->
 
 
