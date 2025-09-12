@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: Is SINNERS a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-1n95)
-- [IGN: One Piece: Pirate Warriors 4 - Official Next Gen Update Trailer | Nintendo Direct](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-next-gen-update-trailer-nintendo-direct-2fab)
-- [IGN: Nintendo Switch 2 Enhanced Games Montage - EA FC 26, Persona 3 Reload, and More! | Nintendo Direct](https://dev.to/gg_news/ign-nintendo-switch-2-enhanced-games-montage-ea-fc-26-persona-3-reload-and-more-nintendo-2h1h)
-- [IGN: Everything Announced at the Nintendo Direct &lpar;September 2025&rpar;](https://dev.to/gg_news/ign-everything-announced-at-the-nintendo-direct-september-2025-47pa)
+- [Unlocking the Future with AI Agents: A New Era of Automation and Innovation](https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77)
+- [Security news weekly round-up - 12th September 2025](https://dev.to/ziizium/security-news-weekly-round-up-12th-september-2025-183f)
+- [🔐 My DevOps Journey: Part 3 — Linux Users, Groups, Permissions &amp; Package Managers](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-3-linux-users-groups-permissions-package-managers-3go9)
+- [Choosing Technologies: The Beauty and the Beast Trap](https://dev.to/igorfragadev/choosing-technologies-the-beauty-and-the-beast-trap-2b0e)
 <!-- BLOG-POST-LIST:END -->
 
 
