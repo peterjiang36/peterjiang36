@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a)
-- [KEXP: Japanese Breakfast - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk)
-- [Noclip: Announcing /noclip&#39;s Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2)
-- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9)
+- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
+- [5 Killer Habits: Be A Rebel — A Book That Changed My Life](https://dev.to/ayush_ec125a40d4cf6595065/5-killer-habits-be-a-rebel-a-book-that-changed-my-life-4e3m)
+- [🚀 Super excited for HackSpire’25! 25 hours of coding, fun, food, goodies, T-shirts &amp; learning with brilliant minds. 💻✨](https://dev.to/debkanta_dey_09b98f7eebb9/super-excited-for-hackspire25-25-hours-of-coding-fun-food-goodies-t-shirts-learning-with-col)
+- [My Excitement for HackSpire’25 HackSpire’25 is just around the corner, and I couldn’t be more excited! 🚀✨ A 25-hour hackathon like this is not just about coding—it’s about pushing boundaries, collaborating with brilliant minds, and creating something imp](https://dev.to/debkanta_dey_09b98f7eebb9/my-excitement-for-hackspire25-hackspire25-is-just-around-the-corner-and-i-couldnt-be-more-1p09)
 <!-- BLOG-POST-LIST:END -->
 
 
