@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Security in Front-End Applications &lpar;React&rpar;](https://dev.to/ashutoshsarangi/implementing-security-in-front-end-applications-react-5a33)
-- [🏢 Enterprise Design Patterns: From Fowler’s Catalog to Real Code](https://dev.to/cesar_nikolascamacmelen/enterprise-design-patterns-from-fowlers-catalog-to-real-code-58d8)
-- [ParaThinker: AI Breaks Through with Parallel Thought](https://dev.to/aiwithapex/parathinker-ai-breaks-through-with-parallel-thought-3hic)
-- [Setup of react native cli 0.81](https://dev.to/iamdeveshsingh/setup-of-react-native-cli-081-3ja)
+- [Jodhpur – The New Hub for Digital Marketing Learning](https://dev.to/teckey_edu_555f8ce19aba8e/jodhpur-the-new-hub-for-digital-marketing-learning-29b)
+- [The sooner you let these 3 myths go, the sooner you can move from AI fear to AI fluency.](https://dev.to/jaideepparashar/the-sooner-you-let-these-3-myths-go-the-sooner-you-can-move-from-ai-fear-to-ai-fluency-2kfj)
+- [3 Myths About AI That Are Holding People Back](https://dev.to/jaideepparashar/3-myths-about-ai-that-are-holding-people-back-417p)
+- [Kiro for Productivity and Workflow](https://dev.to/friday_posvib_8673cb67db1/kiro-for-productivity-and-workflow-1pn4)
 <!-- BLOG-POST-LIST:END -->
 
 
