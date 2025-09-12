@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pet Wallpaper Creator: Outfit Transfer Between Pets](https://dev.to/parul_pandey_0650ddaaba58/pet-wallpaper-creator-outfit-transfer-between-pets-3j1f)
-- [5 Killer Habits: Be A Rebel — A Book That Changed My Life](https://dev.to/ayush_ec125a40d4cf6595065/5-killer-habits-be-a-rebel-a-book-that-changed-my-life-4e3m)
-- [🚀 Super excited for HackSpire’25! 25 hours of coding, fun, food, goodies, T-shirts &amp; learning with brilliant minds. 💻✨](https://dev.to/debkanta_dey_09b98f7eebb9/super-excited-for-hackspire25-25-hours-of-coding-fun-food-goodies-t-shirts-learning-with-col)
-- [My Excitement for HackSpire’25 HackSpire’25 is just around the corner, and I couldn’t be more excited! 🚀✨ A 25-hour hackathon like this is not just about coding—it’s about pushing boundaries, collaborating with brilliant minds, and creating something imp](https://dev.to/debkanta_dey_09b98f7eebb9/my-excitement-for-hackspire25-hackspire25-is-just-around-the-corner-and-i-couldnt-be-more-1p09)
+- [Polyphonic: Is SINNERS a Musical?](https://dev.to/music_youtube/polyphonic-is-sinners-a-musical-1n95)
+- [IGN: One Piece: Pirate Warriors 4 - Official Next Gen Update Trailer | Nintendo Direct](https://dev.to/gg_news/ign-one-piece-pirate-warriors-4-official-next-gen-update-trailer-nintendo-direct-2fab)
+- [IGN: Nintendo Switch 2 Enhanced Games Montage - EA FC 26, Persona 3 Reload, and More! | Nintendo Direct](https://dev.to/gg_news/ign-nintendo-switch-2-enhanced-games-montage-ea-fc-26-persona-3-reload-and-more-nintendo-2h1h)
+- [IGN: Everything Announced at the Nintendo Direct &lpar;September 2025&rpar;](https://dev.to/gg_news/ign-everything-announced-at-the-nintendo-direct-september-2025-47pa)
 <!-- BLOG-POST-LIST:END -->
 
 
