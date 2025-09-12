@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TestSprite Review: AI-Powered Testing Tool — Promise vs. Reality](https://dev.to/govinda_s/testsprite-review-ai-powered-testing-tool-promise-vs-reality-58k8)
-- [WebSocket vs Web Push vs Server-Sent Events: When to Use What?](https://dev.to/ayushsrtv/websocket-vs-web-push-vs-server-sent-events-when-to-use-what-3214)
-- [SSV Network — Distributed Validator Technology for Ethereum Staking](https://dev.to/kevin_zhang_3828fe216a384/ssv-network-distributed-validator-technology-for-ethereum-staking-56me)
-- [🐞 Troubleshooting 16 KB Page Size Issues](https://dev.to/dainyjose/troubleshooting-16-kb-page-size-issues-2pfe)
+- [Mastering AI Logo Creation: My Proven Prompt Framework and Community Tips Exchange](https://dev.to/aariff/mastering-ai-logo-creation-my-proven-prompt-framework-and-community-tips-exchange-2ban)
+- [Adding Cache to NestJS Services Made Easy](https://dev.to/antkl/adding-cache-to-nestjs-services-made-easy-448b)
+- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
+- [Why I Switched from Burp Suite to ZeroThreat for App Security](https://dev.to/sambishop/why-i-switched-from-burp-suite-to-zerothreat-for-app-security-p2p)
 <!-- BLOG-POST-LIST:END -->
 
 
