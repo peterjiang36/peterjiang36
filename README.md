@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Generic Visuals? 5 AI Tools Everybody Should Be Using Today](https://dev.to/werliton/tired-of-generic-visuals-5-ai-tools-everybody-should-be-using-today-4c9m)
-- [Card Beam Animation](https://dev.to/ist-github/card-beam-animation-4lpo)
-- [&lpar;4/4&rpar; LLM: In-Context Learning, Hype, and the Road Ahead](https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229)
-- [🧪 LiteWorkspace: Minimal Context Loading for Faster Spring Tests](https://dev.to/our16/liteworkspace-minimal-context-loading-for-faster-spring-tests-4ad1)
+- [Tideman Voting Algorithm: A Graph-Based Approach to Elections](https://dev.to/vivekvohra/tideman-voting-algorithm-a-graph-based-approach-to-elections-330c)
+- [IGN: Emotionless: The Last Ticket – Official New Release Date Trailer](https://dev.to/gg_news/ign-emotionless-the-last-ticket-official-new-release-date-trailer-bk6)
+- [IGN: Borderlands 4: All 9 Vault Key Fragment Locations](https://dev.to/gg_news/ign-borderlands-4-all-9-vault-key-fragment-locations-2hg3)
+- [logger.ts in mcp-mermaid codebase.](https://dev.to/ramunarasinga-11/loggerts-in-mcp-mermaid-codebase-3kcp)
 <!-- BLOG-POST-LIST:END -->
 
 
