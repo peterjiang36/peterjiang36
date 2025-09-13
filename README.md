@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💰 Why Every Full Stack Developer Should Learn Financial Systems](https://dev.to/pjdeveloper896/why-every-full-stack-developer-should-learn-financial-systems-46m4)
-- [Smarter Error Handling in JavaScript: Group, Don’t Panic](https://dev.to/gouranga-das-khulna/smarter-error-handling-in-javascript-group-dont-panic-5c0)
-- [Groovy Shell Scripts for Everyday Development Tasks](https://dev.to/djamware_tutorial_eba1a61/groovy-shell-scripts-for-everyday-development-tasks-3dml)
-- [⚛️ React 19 Is Coming: What’s New &amp; How to Prepare &lpar;2025 Guide&rpar; 🚀](https://dev.to/zeescriptdev/react-19-is-coming-whats-new-how-to-prepare-2025-guide-1ng9)
+- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
+- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
+- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
+- [Anatomy of Initial Access: A Deep Dive into the Modern Hacker&#39;s First Move](https://dev.to/gagreatprogrammer/anatomy-of-initial-access-a-deep-dive-into-the-modern-hackers-first-move-24fc)
 <!-- BLOG-POST-LIST:END -->
 
 
