@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 94: When Pitch Preparation Becomes Self-Discovery](https://dev.to/casperday11/day-94-when-pitch-preparation-becomes-self-discovery-3m3i)
-- [🏥 Loop Health – Round 2 &lpar;JavaScript&rpar;](https://dev.to/ml318097/loop-health-round-2-javascript-21m9)
-- [Unreal Engine Coding with Neovim Plugins: Revolutionize Your UE Development Workflow](https://dev.to/taku25/unreal-engine-coding-with-neovim-plugins-revolutionize-your-ue-development-workflow-1mke)
-- [Anatomy of Initial Access: A Deep Dive into the Modern Hacker&#39;s First Move](https://dev.to/gagreatprogrammer/anatomy-of-initial-access-a-deep-dive-into-the-modern-hackers-first-move-24fc)
+- [I built FireScope: a Chrome DevTools panel for Firestore &lpar;open-source&rpar;](https://dev.to/omardulaimi/i-built-firescope-a-chrome-devtools-panel-for-firestore-open-source-48g0)
+- [Image Compression Tool Comparison: Zippic vs. TinyPNG](https://dev.to/kelen/image-compression-tool-comparison-zippic-vs-tinypng-4bdc)
+- [How an Email Travels Across the Network](https://dev.to/tahsin000/how-an-email-travels-across-the-network-ggb)
+- [I Built a Custom Python Logger Module without OOP &lpar;Console, File &amp; DB Logging&rpar;](https://dev.to/estrosec/i-built-a-custom-python-logger-module-without-oop-console-file-db-logging-310e)
 <!-- BLOG-POST-LIST:END -->
 
 
