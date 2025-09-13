@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Auth0 Authentication with NestJS Using Organizations &lpar;Multi-Tenant Setup&rpar;](https://dev.to/gad_ishimwe/integrating-auth0-authentication-with-nestjs-using-organizations-multi-tenant-setup-1567)
-- [Shout out to those who come into my life along the way and make me the most brilliant gem puji diri sendiri wpon cheater genius](https://dev.to/cutieyunnytech/shout-out-to-those-who-come-into-my-life-along-the-way-and-make-me-the-most-brilliant-gem-puji-diri-4j44)
-- [Title: Breaking the Norm: “Rojakness of Nadhirah” – My Indie Dev Journey](https://dev.to/cutieyunnytech/title-breaking-the-norm-rojakness-of-nadhirah-my-indie-dev-journey-6jk)
-- [AI Digital Twin for Manufacturing: How Darkonium Builds Adaptive Simulations with AI](https://dev.to/urbanhawktech/how-we-build-ai-powered-digital-twins-for-manufacturing-at-darkonium-3nhi)
+- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a)
+- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54)
+- [How to Simulate God Proofs with React &amp; TypeScript](https://dev.to/aelassas/how-to-simulate-god-proofs-with-react-typescript-opc)
+- [Updating But Not Reflecting!? React’s Common State &#39;Stale Closure&#39; Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
 <!-- BLOG-POST-LIST:END -->
 
 
