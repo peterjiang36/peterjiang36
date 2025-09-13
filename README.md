@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
-- [The Future of Applied AI Engineers](https://dev.to/jackm_345442a09fb53b/the-future-of-applied-ai-engineers-5gl5)
-- [From Brittle to Brilliant: A Developer&#39;s Guide to Building Trustworthy Graph RAG with Local LLMs](https://dev.to/bibinprathap/from-brittle-to-brilliant-a-developers-guide-to-building-trustworthy-graph-rag-with-local-llms-1217)
-- [React&#39;s Component Revolution: How Closures Became the Foundation of Modern UI Components](https://dev.to/franson33/reacts-component-revolution-how-closures-became-the-foundation-of-modern-ui-components-3nia)
+- [💰 Why Every Full Stack Developer Should Learn Financial Systems](https://dev.to/pjdeveloper896/why-every-full-stack-developer-should-learn-financial-systems-46m4)
+- [Smarter Error Handling in JavaScript: Group, Don’t Panic](https://dev.to/gouranga-das-khulna/smarter-error-handling-in-javascript-group-dont-panic-5c0)
+- [Groovy Shell Scripts for Everyday Development Tasks](https://dev.to/djamware_tutorial_eba1a61/groovy-shell-scripts-for-everyday-development-tasks-3dml)
+- [⚛️ React 19 Is Coming: What’s New &amp; How to Prepare &lpar;2025 Guide&rpar; 🚀](https://dev.to/zeescriptdev/react-19-is-coming-whats-new-how-to-prepare-2025-guide-1ng9)
 <!-- BLOG-POST-LIST:END -->
 
 
