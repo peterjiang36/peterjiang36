@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Challenge: Can You Spot the Bug? 🔎🐛](https://dev.to/beyond-code/coding-challenge-can-you-spot-the-bug-3ffi)
-- [Flow Fields: The Secret to Naturally Intelligent Motion](https://dev.to/arvindsundararajan/flow-fields-the-secret-to-naturally-intelligent-motion-54em)
-- [Making Your Fetch Requests Production-Ready with ffetch](https://dev.to/gkoos/making-your-fetch-requests-production-ready-with-ffetch-537o)
-- [Buildstash Product Update - Metadata artifacts, custom targets, RTOS platforms..](https://dev.to/buildstash/buildstash-product-update-metadata-artifacts-custom-targets-rtos-platforms-2a4p)
+- [From Prototype to Production: How Promptfoo and Vitest Made podcast-it Reliable](https://dev.to/logarithmicspirals/from-prototype-to-production-how-promptfoo-and-vitest-made-podcast-it-reliable-5md)
+- [From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps](https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h)
+- [🚀 Upgrading &amp; Utilising My Model &lpar;ML/AI Integration Series&rpar;](https://dev.to/hassamdev/upgrading-utilising-my-model-mlai-integration-series-3hj9)
+- [🚀 How to Upload Environment Variables to GitLab CI/CD](https://dev.to/ralvaracode/how-to-upload-environment-variables-to-gitlab-cicd-mo3)
 <!-- BLOG-POST-LIST:END -->
 
 
