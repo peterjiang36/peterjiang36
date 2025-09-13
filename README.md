@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enigma Machine : How a step on its rotor change the mapping](https://dev.to/heavenhunter/enigma-machine-how-a-step-on-its-rotor-change-the-mapping-24nf)
-- [Assetmaster](https://dev.to/prashant_kushwaha_a5c7fe9/assetmaster-65o)
-- [Take Control of your Logs: Top 10 ways using the OpenTelemetry Collector](https://dev.to/agardnerit/take-control-of-your-logs-top-10-ways-using-the-opentelemetry-collector-2d3f)
-- [Connecting Headless WordPress RSS to Next.js: Building a Scalable Newsletter System](https://dev.to/khaledw/connecting-headless-wordpress-rss-to-nextjs-building-a-scalable-newsletter-system-2ngd)
+- [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
+- [The Future of Applied AI Engineers](https://dev.to/jackm_345442a09fb53b/the-future-of-applied-ai-engineers-5gl5)
+- [From Brittle to Brilliant: A Developer&#39;s Guide to Building Trustworthy Graph RAG with Local LLMs](https://dev.to/bibinprathap/from-brittle-to-brilliant-a-developers-guide-to-building-trustworthy-graph-rag-with-local-llms-1217)
+- [React&#39;s Component Revolution: How Closures Became the Foundation of Modern UI Components](https://dev.to/franson33/reacts-component-revolution-how-closures-became-the-foundation-of-modern-ui-components-3nia)
 <!-- BLOG-POST-LIST:END -->
 
 
