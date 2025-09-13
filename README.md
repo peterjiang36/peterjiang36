@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Component Libraries vs Design Systems: What’s Best for Your Project in 2025? 🏗️](https://dev.to/tahamjp/component-libraries-vs-design-systems-whats-best-for-your-project-in-2025-1hph)
-- [Part-47: Trigger a Cloud Function based on the Cloud Storage Events in GCP](https://dev.to/latchudevops/part-47-trigger-a-cloud-function-based-on-the-cloud-storage-events-in-gcp-28hh)
-- [Prompt-to-Puzzle: Generating Infinite &#39;Spot the Difference&#39; Games with Gemini](https://dev.to/seehiong/prompt-to-puzzle-generating-infinite-spot-the-difference-games-with-gemini-1o8j)
-- [🚀 Getting Started with Python: A Beginner’s Guide](https://dev.to/kunal_sirohi_b049a8915083/getting-started-with-python-a-beginners-guide-2pkf)
+- [Building Rock-Solid Express.js Middleware: A Guide That Actually Works in Production](https://dev.to/sisproid/building-rock-solid-expressjs-middleware-a-guide-that-actually-works-in-production-25oh)
+- [Country Flags Widget](https://dev.to/joel_streich_646bdeadb455/country-flags-widget-23e)
+- [USA’s Leading Laravel Development Companies You Can Trust](https://dev.to/zubairpateljiwala/usas-leading-laravel-development-companies-you-can-trust-558h)
+- [Day 4/365 Days of Full Stack Challenge: Bringing Your Page to Life - Inserting Images in HTML](https://dev.to/code_2/day-4365-days-of-full-stack-challenge-bringing-your-page-to-life-inserting-images-in-html-1j3p)
 <!-- BLOG-POST-LIST:END -->
 
 
