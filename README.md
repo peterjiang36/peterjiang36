@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Review and Testing – Lessons Learned &lpar;OSD600LAB_1&rpar;](https://dev.to/hsachdeva9/code-review-and-testing-lessons-learned-osd600lab1-11p8)
-- [Beyond the Label: How Python Variables Really Work with Memory](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-the-label-how-python-variables-really-work-with-memory-41d1)
-- [🏆001. Wins of my week🏆](https://dev.to/0xvalacor/001-wins-of-my-week-227o)
-- [how to view dark image mask with class labels in rgb?](https://dev.to/nl_p_/how-to-view-dark-image-mask-with-class-labels-in-rgb-1kdf)
+- [Docker Series: Episode 22 — Docker Networking Advanced: Multi-Host &amp; Overlay Networks 🌐](https://dev.to/yash_sonawane25/docker-series-episode-22-docker-networking-advanced-multi-host-overlay-networks-4jg3)
+- [🚀 Day 13 of My DevOps Journey: Jenkins — Powering CI/CD Pipelines ⚙️](https://dev.to/dankbhardwaj/day-13-of-my-devops-journey-jenkins-powering-cicd-pipelines-1icc)
+- [Building Contextr: A CLI Tool to Package Repository Context for LLMs](https://dev.to/dharam_ghevariya_0d946c37/building-contextr-a-cli-tool-to-package-repository-context-for-llms-j9g)
+- [I wish every young businessperson could learn this...](https://dev.to/jaideepparashar/i-wish-every-young-businessperson-could-learn-this-21f)
 <!-- BLOG-POST-LIST:END -->
 
 
