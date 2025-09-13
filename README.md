@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Tooling #006](https://dev.to/patinthehat/developer-tooling-006-4g55)
-- [วิธีแก้ git conflict เบื้องต้นใน Virtual Studio Code](https://dev.to/teampat/withiiaek-git-conflict-ebuuengtnain-vs-code-3325)
-- [AI Assistants and Data Privacy: Who Trains on Your Data, Who Doesn’t](https://dev.to/alifar/ai-assistants-and-data-privacy-who-trains-on-your-data-who-doesnt-njj)
-- [Introducing db2lake: A Lightweight and Powerful ETL Framework for Node.js](https://dev.to/bahador_r/introducing-db2lake-a-lightweight-and-powerful-etl-framework-for-nodejs-12b6)
+- [Enigma Machine : How a step on its rotor change the mapping](https://dev.to/heavenhunter/enigma-machine-how-a-step-on-its-rotor-change-the-mapping-24nf)
+- [Assetmaster](https://dev.to/prashant_kushwaha_a5c7fe9/assetmaster-65o)
+- [Take Control of your Logs: Top 10 ways using the OpenTelemetry Collector](https://dev.to/agardnerit/take-control-of-your-logs-top-10-ways-using-the-opentelemetry-collector-2d3f)
+- [Connecting Headless WordPress RSS to Next.js: Building a Scalable Newsletter System](https://dev.to/khaledw/connecting-headless-wordpress-rss-to-nextjs-building-a-scalable-newsletter-system-2ngd)
 <!-- BLOG-POST-LIST:END -->
 
 
