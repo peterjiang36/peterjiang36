@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy NiceGUI Apps with Docker on Sliplane](https://dev.to/code42cate/how-to-deploy-nicegui-apps-with-docker-on-sliplane-38c8)
-- [How to Add GitHub Secrets Easily &lpar;Step-by-Step Guide&rpar;](https://dev.to/msnmongare/how-to-add-github-secrets-easily-step-by-step-guide-3cmh)
-- [NutriLens AI: Personalized Nutrition Analyzer Using Gemini&#39;s Multimodal Magic 🍎✨](https://dev.to/anish_deokate_c6d085d7da3/nutrilens-ai-personalized-nutrition-analyzer-using-geminis-multimodal-magic-published-true-43i)
-- [Missing Reports in Nightwatch with GGR + Selenoid](https://dev.to/will_drygla/missing-reports-in-nightwatch-with-ggr-selenoid-378)
+- [Use ML5 with ZIM for Integrated Hand Tracking and More on the Canvas!](https://dev.to/zimlearn/use-ml5-with-zim-for-integrated-hand-tracking-and-more-on-the-canvas-4nkl)
+- [Build Apps with Google AI Studio: AI-Powered Ingredient Analysis for Smarter Shopping](https://dev.to/hossainfoysalt/build-apps-with-google-ai-studio-ai-powered-ingredient-analysis-for-smarter-shopping-47mg)
+- [Part 2: Automating News Alerts with AWS Lambda, SNS, and Event Bridge!](https://dev.to/bhatiagirish/part-2-automating-news-alerts-with-aws-lambda-sns-and-event-bridge-5f94)
+- [Videos to Notes App – Productivity Boost with Multimodal AI](https://dev.to/aayuamor/videos-to-notes-app-productivity-boost-with-multimodal-ai-4fi0)
 <!-- BLOG-POST-LIST:END -->
 
 
