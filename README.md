@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a)
-- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54)
-- [How to Simulate God Proofs with React &amp; TypeScript](https://dev.to/aelassas/how-to-simulate-god-proofs-with-react-typescript-opc)
-- [Updating But Not Reflecting!? React’s Common State &#39;Stale Closure&#39; Pitfall](https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d)
+- [Code Review and Testing – Lessons Learned &lpar;OSD600LAB_1&rpar;](https://dev.to/hsachdeva9/code-review-and-testing-lessons-learned-osd600lab1-11p8)
+- [Beyond the Label: How Python Variables Really Work with Memory](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-the-label-how-python-variables-really-work-with-memory-41d1)
+- [🏆001. Wins of my week🏆](https://dev.to/0xvalacor/001-wins-of-my-week-227o)
+- [how to view dark image mask with class labels in rgb?](https://dev.to/nl_p_/how-to-view-dark-image-mask-with-class-labels-in-rgb-1kdf)
 <!-- BLOG-POST-LIST:END -->
 
 
