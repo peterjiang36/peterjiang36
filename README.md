@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Use ML5 with ZIM for Integrated Hand Tracking and More on the Canvas!](https://dev.to/zimlearn/use-ml5-with-zim-for-integrated-hand-tracking-and-more-on-the-canvas-4nkl)
-- [Build Apps with Google AI Studio: AI-Powered Ingredient Analysis for Smarter Shopping](https://dev.to/hossainfoysalt/build-apps-with-google-ai-studio-ai-powered-ingredient-analysis-for-smarter-shopping-47mg)
-- [Part 2: Automating News Alerts with AWS Lambda, SNS, and Event Bridge!](https://dev.to/bhatiagirish/part-2-automating-news-alerts-with-aws-lambda-sns-and-event-bridge-5f94)
-- [Videos to Notes App – Productivity Boost with Multimodal AI](https://dev.to/aayuamor/videos-to-notes-app-productivity-boost-with-multimodal-ai-4fi0)
+- [Coding Challenge: Can You Spot the Bug? 🔎🐛](https://dev.to/beyond-code/coding-challenge-can-you-spot-the-bug-3ffi)
+- [Flow Fields: The Secret to Naturally Intelligent Motion](https://dev.to/arvindsundararajan/flow-fields-the-secret-to-naturally-intelligent-motion-54em)
+- [Making Your Fetch Requests Production-Ready with ffetch](https://dev.to/gkoos/making-your-fetch-requests-production-ready-with-ffetch-537o)
+- [Buildstash Product Update - Metadata artifacts, custom targets, RTOS platforms..](https://dev.to/buildstash/buildstash-product-update-metadata-artifacts-custom-targets-rtos-platforms-2a4p)
 <!-- BLOG-POST-LIST:END -->
 
 
