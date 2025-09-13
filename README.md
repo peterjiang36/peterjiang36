@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practice API Response JSON Ringkas, Konsisten, dan Mudah Ditelusuri](https://dev.to/naandan/best-practice-api-response-ringkas-konsisten-dan-mudah-ditelusuri-21bi)
-- [**HackSpire’25: More Than Just Code – It&#39;s Where Ideas Take Flight **🚀](https://dev.to/debaditya_saha_5b45172210/hackspire25-more-than-just-code-its-where-ideas-take-flight--lll)
-- [Memory Integrity Enforcement: Apple&#39;s New Security Feature for iOS](https://dev.to/arshtechpro/memory-integrity-enforcement-apples-new-security-feature-for-ios-320b)
-- [Mastering Svelte Custom Stores](https://dev.to/a1guy/mastering-svelte-custom-stores-5c1g)
+- [Component Libraries vs Design Systems: What’s Best for Your Project in 2025? 🏗️](https://dev.to/tahamjp/component-libraries-vs-design-systems-whats-best-for-your-project-in-2025-1hph)
+- [Part-47: Trigger a Cloud Function based on the Cloud Storage Events in GCP](https://dev.to/latchudevops/part-47-trigger-a-cloud-function-based-on-the-cloud-storage-events-in-gcp-28hh)
+- [Prompt-to-Puzzle: Generating Infinite &#39;Spot the Difference&#39; Games with Gemini](https://dev.to/seehiong/prompt-to-puzzle-generating-infinite-spot-the-difference-games-with-gemini-1o8j)
+- [🚀 Getting Started with Python: A Beginner’s Guide](https://dev.to/kunal_sirohi_b049a8915083/getting-started-with-python-a-beginners-guide-2pkf)
 <!-- BLOG-POST-LIST:END -->
 
 
