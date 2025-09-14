@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 49 - AWS Interview Questions](https://dev.to/udoh_deborah_b1e484c474bf/day-49-aws-interview-questions-44mk)
-- [AI-Powered Virtual Biopsy: Visualizing the Invisible in Bone Implants](https://dev.to/arvindsundararajan/ai-powered-virtual-biopsy-visualizing-the-invisible-in-bone-implants-5a24)
-- [hello business world.](https://dev.to/pattee_green_write/hello-business-world-21m5)
-- [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
+- [OmniLearn: Multi-Agent AI School Bots for Universal Childhood Education](https://dev.to/maani_k/omnilearn-multi-agent-ai-school-bots-for-universal-childhood-education-4lic)
+- [Gemini Bots for humanity](https://dev.to/maani_k/gemini-bots-for-humanity-5b62)
+- [Top 5 Online Tools for Base64 Decode](https://dev.to/devtoolreview/top-5-online-tools-for-base64-decode-p0)
+- [Ancient Scripts, Modern AI: Bridging the Divide with Morphology-Aware Tokenization by Arvind Sundararajan](https://dev.to/arvindsundararajan/ancient-scripts-modern-ai-bridging-the-divide-with-morphology-aware-tokenization-by-arvind-b28)
 <!-- BLOG-POST-LIST:END -->
 
 
