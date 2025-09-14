@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises](https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4)
-- [BrandSight - AI Brand Monitoring](https://dev.to/eric_chung_57abfc96a45806/brandsight-ai-brand-monitoring-1cc1)
-- [Docker Series: Episode 23 — Docker Swarm Advanced: Services, Secrets &amp; Configs 🔐](https://dev.to/yash_sonawane25/docker-series-episode-23-docker-swarm-advanced-services-secrets-configs-44b0)
-- [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
+- [🚀 My 3-Day Hackathon Journey: Building a CI/CD Pipeline from Scratch](https://dev.to/hasan_ashab/my-3-day-hackathon-journey-building-a-cicd-pipeline-from-scratch-4ifp)
+- [Kubernetes cluster marathon!](https://dev.to/robert_scott_339c35174a4d/kubernetes-cluster-marathon-2m70)
+- [Part-53: 🚀Google Cloud VPC Firewall Rules with Target as Service Account](https://dev.to/latchudevops/part-53-google-cloud-vpc-firewall-rules-with-target-as-service-account-4eke)
+- [Concurrency is a pattern, not execution.](https://dev.to/lbvf50mobile/concurrency-is-a-pattern-not-execution-5b7e)
 <!-- BLOG-POST-LIST:END -->
 
 
