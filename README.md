@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: A Go package to reduce err boilerplate](https://dev.to/winstonpuckett/introducing-a-go-package-to-reduce-err-boilerplate-3o6a)
-- [From Word Predictor to Thinking Partner: The Rise of Thinking Models](https://dev.to/jiminlee/from-word-predictor-to-thinking-partner-the-rise-of-thinking-models-34e9)
-- [AI Dev Tools I Use Everyday](https://dev.to/ali_haider_3e2f954c5c0bb0/ai-dev-tools-i-use-everyday-44hd)
-- [Quantum Imagination: Teaching AI to Think Like an Artist](https://dev.to/arvindsundararajan/quantum-imagination-teaching-ai-to-think-like-an-artist-540g)
+- [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
+- [Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh &lpar;with Code Examples and Cloud Deployment&rpar;](https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8)
+- [Software Design Principles: Building Robust Applications in Python](https://dev.to/sebastianfuentesavalos/-software-design-principles-building-robust-applications-in-python-jik)
+- [The case against social media is stronger than you think](https://dev.to/technoblogger14o3/the-case-against-social-media-is-stronger-than-you-think-54h3)
 <!-- BLOG-POST-LIST:END -->
 
 
