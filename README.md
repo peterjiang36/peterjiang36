@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nitro Enclaves: Your Cloud&#39;s Ultimate Digital Clean Room](https://dev.to/leonardkachi/nitro-enclaves-your-clouds-ultimate-digital-clean-room-34gd)
-- [10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes](https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795)
-- [Chatbots vs Support Humain : faut-il choisir entre les deux ?](https://dev.to/service_maxsell_64ece3f66/chatbots-vs-support-humain-faut-il-choisir-entre-les-deux--5bm2)
-- [The Learning Loop: From Software Dev to Game Neophyte [#1]](https://dev.to/marjenta/the-learning-loop-from-software-dev-to-game-neophyte-1-dle)
+- [MeridianDB Architecting for Scale and Developer Experience](https://dev.to/araldhafeeri/meridiandb-architecting-for-scale-29go)
+- [Crystal Vision AI](https://dev.to/arunavmaitra/crystal-vision-ai-50hg)
+- [👤👗👖🧥AI Avatars &amp; Virtual Try-On: Redefining Online Fashion🌐](https://dev.to/dipanita_dev47/ai-avatars-virtual-try-on-redefining-online-fashion-1plg)
+- [The Code Behind Dubai&#39;s Delivery Empire: AI, Automation, and $720M in Annual Revenue](https://dev.to/ramdas/the-code-behind-dubais-delivery-empire-ai-automation-and-720m-in-annual-revenue-2gbe)
 <!-- BLOG-POST-LIST:END -->
 
 
