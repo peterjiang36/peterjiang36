@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The Steely Dan Parts You&#39;ve Never Actually Heard](https://dev.to/music_youtube/rick-beato-the-steely-dan-parts-youve-never-actually-heard-43a9)
-- [How I Mastered SwiftUI After Years of Jetpack Compose: Tips for Android Devs](https://dev.to/ibtiikhhn/how-i-mastered-swiftui-after-years-of-jetpack-compose-tips-for-android-devs-307n)
-- [Spooky Smart AI That Designs Your Halloween Look](https://dev.to/robot254/spooky-smart-ai-that-designs-your-halloween-look-2dil)
-- [Cracking the Wireless Code: Essential CompTIA Network+ N10-009 Insights for Smarter Networking](https://dev.to/andrew_despres/cracking-the-wireless-code-essential-comptia-network-n10-009-insights-for-smarter-networking-3d4a)
+- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
+- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-m9)
+- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
+- [Spatial AI: Building Minds that Understand Space Like We Do](https://dev.to/arvindsundararajan/spatial-ai-building-minds-that-understand-space-like-we-do-18bk)
 <!-- BLOG-POST-LIST:END -->
 
 
