@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
+- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
+- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
 - [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
-- [Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh &lpar;with Code Examples and Cloud Deployment&rpar;](https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8)
-- [Software Design Principles: Building Robust Applications in Python](https://dev.to/sebastianfuentesavalos/-software-design-principles-building-robust-applications-in-python-jik)
-- [The case against social media is stronger than you think](https://dev.to/technoblogger14o3/the-case-against-social-media-is-stronger-than-you-think-54h3)
 <!-- BLOG-POST-LIST:END -->
 
 
