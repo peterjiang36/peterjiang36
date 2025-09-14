@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MeridianDB Architecting for Scale and Developer Experience](https://dev.to/araldhafeeri/meridiandb-architecting-for-scale-29go)
-- [Crystal Vision AI](https://dev.to/arunavmaitra/crystal-vision-ai-50hg)
-- [👤👗👖🧥AI Avatars &amp; Virtual Try-On: Redefining Online Fashion🌐](https://dev.to/dipanita_dev47/ai-avatars-virtual-try-on-redefining-online-fashion-1plg)
-- [The Code Behind Dubai&#39;s Delivery Empire: AI, Automation, and $720M in Annual Revenue](https://dev.to/ramdas/the-code-behind-dubais-delivery-empire-ai-automation-and-720m-in-annual-revenue-2gbe)
+- [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
+- [How to build reactive voice avatars in React with GlasatarJS](https://dev.to/jimhill/how-to-build-reactive-voice-avatars-in-react-with-glasatarjs-4pjm)
+- [Retrieval Augmented Generation &lpar;RAG&rpar; for Dummies](https://dev.to/sharon_otieno/retrieval-augmented-generation-rag-for-dummies-2lc2)
+- [🚀 Zoneless Change Detection in Angular: The Future of High-Performance Apps](https://dev.to/rohit_singh_ee84e64941db7/zoneless-change-detection-in-angular-the-future-of-high-performance-apps-4j00)
 <!-- BLOG-POST-LIST:END -->
 
 
