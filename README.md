@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise Design Patterns: Applying Catalog Patterns for Robust Applications 👨‍🏫](https://dev.to/sebastianfuentesavalos/enterprise-design-patterns-applying-catalog-patterns-for-robust-applications-2hph)
-- [Introducing my new PHP CLI Utility for Database Management](https://dev.to/tamedevelopers/introducing-my-new-php-cli-utility-for-database-management-3gk)
-- [Rediscovering the Basics: My Week 1 Journey into Design Principles at Flexisaf](https://dev.to/jamesgotech/rediscovering-the-basics-my-week-1-journey-into-design-principles-at-flexisaf-36cb)
-- [The Ultimate high-performance HTTP library for WEB](https://dev.to/haikelfazzani/the-ultimate-typescript-fetch-wrapper-for-modern-web-applications-51io)
+- [Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises](https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4)
+- [BrandSight - AI Brand Monitoring](https://dev.to/eric_chung_57abfc96a45806/brandsight-ai-brand-monitoring-1cc1)
+- [Docker Series: Episode 23 — Docker Swarm Advanced: Services, Secrets &amp; Configs 🔐](https://dev.to/yash_sonawane25/docker-series-episode-23-docker-swarm-advanced-services-secrets-configs-44b0)
+- [📊Beyond the Standard: Exploring Modern Python Visualization Tools](https://dev.to/brunoenr/beyond-the-standard-exploring-modern-python-visualization-tools-3epn)
 <!-- BLOG-POST-LIST:END -->
 
 
