@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 1](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-1-eb0)
-- [Use SVG Sprites to Make Your React App Load Faster](https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a)
-- [Resume Crafting Guide - PLSQL dev](https://dev.to/mrcaption49/resume-crafting-guide-plsql-dev-2gk8)
-- [concat&lpar;&rpar; vs Group_concat&lpar;&rpar;](https://dev.to/ashok_kumar_564581944e3ef/concat-vs-groupconcat-4nj6)
+- [Discover The SSL/TLS Security Analyzer API](https://dev.to/dakidarts/discover-the-ssltls-security-analyzer-api-58jc)
+- [🔓 Unlocking Efficient Data Management: A Deep Dive into Data Partitioning Strategies](https://dev.to/sabaristacksurge/unlocking-efficient-data-management-a-deep-dive-into-data-partitioning-strategies-2d21)
+- [Solving LeetCode&#39;s &quot;Add Two Numbers&quot; Iteratively and Recursively - Part 1](https://dev.to/h_mjabedomurrifat_2b/solving-leetcodes-add-two-numbers-iteratively-and-recursively-part-1-41j5)
+- [New developer seeking feedback - am I on the right track?](https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7)
 <!-- BLOG-POST-LIST:END -->
 
 
