@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
-- [This is a submission for the Google AI Studio Multimodal Challenge](https://dev.to/nishanth_abimanyu_001/this-is-a-submission-for-the-google-ai-studio-multimodal-challenge-mkc)
-- [My Journey into Agentic AI Development: AI Newsroom](https://dev.to/jimmyhott/my-journey-into-agentic-ai-development-ai-newsroom-1khn)
-- [Flight Tracker AI](https://dev.to/snm2824/flight-tracker-ai-39l8)
+- [Kong Cluster](https://dev.to/mirrorsan/kong-cluster-1cg6)
+- [Piano Hero🎹](https://dev.to/fanghaoming/piano-hero-4n4g)
+- [# 🛠️ Complete Utility App — The Multi-Tool Desktop Madness I Dropped &lpar;And Forgot About&rpar;](https://dev.to/swagking/-complete-utility-app-the-multi-tool-desktop-madness-i-dropped-and-forgot-about-2gj9)
+- [Frontend Internationalization &lpar;i18n&rpar; Strategies and Tools](https://dev.to/tianyaschool/frontend-internationalization-i18n-strategies-and-tools-117c)
 <!-- BLOG-POST-LIST:END -->
 
 
