@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kong Cluster](https://dev.to/mirrorsan/kong-cluster-1cg6)
-- [Piano Hero🎹](https://dev.to/fanghaoming/piano-hero-4n4g)
-- [# 🛠️ Complete Utility App — The Multi-Tool Desktop Madness I Dropped &lpar;And Forgot About&rpar;](https://dev.to/swagking/-complete-utility-app-the-multi-tool-desktop-madness-i-dropped-and-forgot-about-2gj9)
-- [Frontend Internationalization &lpar;i18n&rpar; Strategies and Tools](https://dev.to/tianyaschool/frontend-internationalization-i18n-strategies-and-tools-117c)
+- [AppWeaver AI](https://dev.to/ha3k/appweaver-ai-5a1m)
+- [Unlocking the Unthinkable: Convergent Flow Fields for Next-Gen Robotics](https://dev.to/arvindsundararajan/unlocking-the-unthinkable-convergent-flow-fields-for-next-gen-robotics-5oj)
+- [Understand how AI Agents work, with AWS Strands](https://dev.to/welcloud-io/understand-how-ai-agents-work-with-aws-strands-51g6)
+- [I built Element Fusion](https://dev.to/arunavmaitra/i-built-element-fusion-5ed6)
 <!-- BLOG-POST-LIST:END -->
 
 
