@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg)
-- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55)
-- [Git &amp; GitHub: Theoretical concepts](https://dev.to/tapobanray/git-github-theoretical-concepts-3974)
-- [Transaction Script: Patrón simple para lógica de negocio &lpar;Catalog of Patterns of EAA — Martin Fowler&rpar;](https://dev.to/ahmed_a_o/transaction-script-patron-simple-para-logica-de-negocio-catalog-of-patterns-of-eaa-martin-558d)
+- [Harnessing Zoneless Change Detection in Angular 20+](https://dev.to/karol_modelski/harnessing-zoneless-change-detection-in-angular-20-48e7)
+- [Sample EU AI Act checkist](https://dev.to/vishalendu/sample-eu-ai-act-checkist-pgg)
+- [Rock, Paper, Scissors Python Tutorial 2025](https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf)
+- [🎮 New Prototype: School Syndicate Mystery](https://dev.to/cutieyunnytech/new-prototype-school-syndicate-mystery-26io)
 <!-- BLOG-POST-LIST:END -->
 
 
