@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Change Data Capture &lpar;CDC&rpar; in Data Engineering: Concepts, Tools, and Real-World Implementation Strategies](https://dev.to/joy_akinyi_115689d7dff92f/change-data-capture-cdc-in-data-engineering-concepts-tools-and-real-world-implementation-22bm)
-- [AI can be a great augmentation tool, for code-review or AI-assisted coding, but all engineers need to have strong critical thinking skills, in my opinion. In this post, I share how I&#39;m using it along with my own opinions so far.](https://dev.to/bolt04/ai-can-be-a-great-augmentation-tool-for-code-review-or-ai-assisted-coding-but-all-engineers-need-22lj)
-- [Meet Embedible: Your AI Hardware Copilot Microcontrollers](https://dev.to/denys_malykhin/meet-embedible-your-ai-hardware-copilot-microcontrollers-2214)
-- [Becoming augmented by AI](https://dev.to/bolt04/becoming-augmented-by-ai-3f1)
+- [Built a 40k Line AI Platform by Having Conversations](https://dev.to/ryszardrzepa/built-a-40k-line-ai-platform-by-having-conversations-4k9b)
+- [This is a submission for the Google AI Studio Multimodal Challenge](https://dev.to/nishanth_abimanyu_001/this-is-a-submission-for-the-google-ai-studio-multimodal-challenge-mkc)
+- [My Journey into Agentic AI Development: AI Newsroom](https://dev.to/jimmyhott/my-journey-into-agentic-ai-development-ai-newsroom-1khn)
+- [Flight Tracker AI](https://dev.to/snm2824/flight-tracker-ai-39l8)
 <!-- BLOG-POST-LIST:END -->
 
 
