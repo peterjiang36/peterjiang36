@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s what ISO 27001 Is - and Why You Should Care About Your Data Security](https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb)
-- [Implemented User Auth, OTP verification, Audio Recording w BG, SMS, Cloud Integration.](https://dev.to/sakib_shaikh_9e7ea8dd9ec7/implemented-user-auth-otp-verification-audio-recording-w-bg-sms-cloud-integration-23n5)
-- [Kiro Agent Orchestration Patterns](https://dev.to/member_7b664256/asdfadsf-2cie)
-- [Segundo fim de semana de Preptember 2025: GitFichas trilingüe](https://dev.to/jesstemporal/segundo-fim-de-semana-de-preptember-2025-gitfichas-trilingue-71b)
+- [KEXP: Kevin Kaarl - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8)
+- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk)
+- [IGN: RoboCop: Rogue City - Official Collection Announcement Trailer](https://dev.to/gg_news/ign-robocop-rogue-city-official-collection-announcement-trailer-2g4n)
+- [IGN: Gen V Season 2 Review](https://dev.to/gg_news/ign-gen-v-season-2-review-4fgg)
 <!-- BLOG-POST-LIST:END -->
 
 
