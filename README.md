@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn)
-- [✨ Gemini Facets: Forge a Digital Soul 🤖💬🎨](https://dev.to/auraforgehq/gemini-facets-forge-a-digital-soul-1o1o)
-- [Learning things with projects](https://dev.to/yuktisays/learning-things-with-projects-37ih)
-- [Demystifying React Hooks with a Fun Password Generator](https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g)
+- [Wordsketcher: Drawing with Words](https://dev.to/eltcation/wordsketcher-drawing-with-words-c65)
+- [🌱 Flora Friend Multimodal AI Plant Care &amp; Diagnosis](https://dev.to/mohammad_usmani_d3a9bdba5/flora-friend-multimodal-ai-plant-care-diagnosis-4g9b)
+- [EcommView AI: From a single image to e-commerce-ready product photos, model shots &amp; 360 views.](https://dev.to/drashya/ecommview-ai-from-a-single-image-to-e-commerce-ready-product-photos-model-shots-360-views-1dgg)
+- [Higgsfield.ai Clone - Draw to Edit](https://dev.to/byebyu/higgsfieldai-clone-draw-to-edit-4786)
 <!-- BLOG-POST-LIST:END -->
 
 
