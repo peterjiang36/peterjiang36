@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Kevin Kaarl - San Lucas &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-san-lucas-live-on-kexp-4dc8)
-- [KEXP: Kevin Kaarl - no me culpes por sentir &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-no-me-culpes-por-sentir-live-on-kexp-1g6o)
-- [KEXP: Kevin Kaarl - que pasa si me voy? &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-que-pasa-si-me-voy-live-on-kexp-dkl)
-- [KEXP: Kevin Kaarl - dime &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-dime-live-on-kexp-587o)
+- [When Dinosaurs Survived the Meteor: From Python to Deno](https://dev.to/jjghali/when-dinosaurs-survived-the-meteor-from-python-to-deno-2oga)
+- [Building AI-Powered Developer Tools: Lessons from Creating a Code Fortune Teller 🔮](https://dev.to/jhon_magdalena_d1a1c2c9ee/building-ai-powered-developer-tools-lessons-from-creating-a-code-fortune-teller-435m)
+- [📊 Day 36 of My Data Analytics Journey – Normalization !](https://dev.to/ramyacse/day-36-of-my-data-analytics-journey-normalization--1hn0)
+- [Building Production-Ready AI Agents with Pydantic AI and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-pydantic-ai-and-amazon-bedrock-agentcore-738)
 <!-- BLOG-POST-LIST:END -->
 
 
