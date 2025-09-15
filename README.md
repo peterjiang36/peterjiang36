@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
-- [The OCI Developer&#39;s Workflow: Bridging Your Mac and Local VM with a Shared Folder](https://dev.to/smyekh/the-oci-developers-workflow-bridging-your-mac-and-local-vm-with-a-shared-folder-34ic)
-- [Bringing Open JTalk to Elixir/Nerves: Make Your Pi Speak Japanese 🇯🇵](https://dev.to/mnishiguchi/bringing-open-jtalk-to-elixirnerves-make-your-pi-speak-japanese-ml3)
-- [Why DevOps Teams Overlook Dependency Analysis &lpar;and Why You Shouldn’t&rpar;](https://dev.to/srinivasamcjf/why-devops-teams-overlook-dependency-analysis-and-why-you-shouldnt-6a0)
+- [KEXP: Kevin Kaarl - San Lucas &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-san-lucas-live-on-kexp-4dc8)
+- [KEXP: Kevin Kaarl - no me culpes por sentir &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-no-me-culpes-por-sentir-live-on-kexp-1g6o)
+- [KEXP: Kevin Kaarl - que pasa si me voy? &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-que-pasa-si-me-voy-live-on-kexp-dkl)
+- [KEXP: Kevin Kaarl - dime &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-dime-live-on-kexp-587o)
 <!-- BLOG-POST-LIST:END -->
 
 
