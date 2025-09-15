@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight: Silksong Boss Fight - Double Moss Mother &lpar;Weavenest Atla&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-double-moss-mother-weavenest-atla-3igi)
-- [IGN: The Last Time a Game Truly Surprised Us - Game Scoop! Clip](https://dev.to/gg_news/ign-the-last-time-a-game-truly-surprised-us-game-scoop-clip-5ame)
-- [IGN: Marvel Rivals - Official The Aqua Arsenal Punisher Costume Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-the-aqua-arsenal-punisher-costume-trailer-koo)
-- [IGN: Gearbox CEO Claps Back At Borderlands 4 Player Complaints - IGN Daily Fix](https://dev.to/gg_news/ign-gearbox-ceo-claps-back-at-borderlands-4-player-complaints-ign-daily-fix-22k2)
+- [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
+- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
+- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
+- [Kubernetes: Kubernetes API, API groups, CRDs, and the etcd](https://dev.to/setevoy/kubernetes-kubernetes-api-api-groups-crds-and-the-etcd-1can)
 <!-- BLOG-POST-LIST:END -->
 
 
