@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Dinosaurs Survived the Meteor: From Python to Deno](https://dev.to/jjghali/when-dinosaurs-survived-the-meteor-from-python-to-deno-2oga)
-- [Building AI-Powered Developer Tools: Lessons from Creating a Code Fortune Teller 🔮](https://dev.to/jhon_magdalena_d1a1c2c9ee/building-ai-powered-developer-tools-lessons-from-creating-a-code-fortune-teller-435m)
-- [📊 Day 36 of My Data Analytics Journey – Normalization !](https://dev.to/ramyacse/day-36-of-my-data-analytics-journey-normalization--1hn0)
-- [Building Production-Ready AI Agents with Pydantic AI and Amazon Bedrock AgentCore](https://dev.to/aws/building-production-ready-ai-agents-with-pydantic-ai-and-amazon-bedrock-agentcore-738)
+- [Apache Polaris dev list digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-8-12-2025-5ggo)
+- [Apache Iceberg dev list digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-8-12-2025-4cb5)
+- [What is threading in Python?](https://dev.to/atifwattoo/what-is-threading-in-python-5eog)
+- [Code Security Scanning in 2025: A Practical Guide](https://dev.to/clouddefenseai/code-security-scanning-in-2025-a-practical-guide-366a)
 <!-- BLOG-POST-LIST:END -->
 
 
