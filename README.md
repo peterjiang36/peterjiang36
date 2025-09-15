@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kinetix Fitness AI](https://dev.to/aortega/kinetix-fitness-ai-1d63)
-- [Claude Code vs Codex: Dev Workflow Comparison](https://dev.to/composiodev/claude-code-vs-codex-dev-workflow-comparison-4jjf)
-- [Core Concepts of MCP](https://dev.to/farhan_khan_41ec7ff11ac1d/mcp-server-core-concepts-18i8)
-- [Transform Lectures into Summaries, Questions, and Blog Ideas with Lecture lab AI](https://dev.to/techsplot/transform-lectures-into-summaries-questions-and-blog-ideas-with-lecture-lab-ai-2e80)
+- [15 Takeaways From &quot;Breaking in the Mindset That Gets You Hired&quot; With ALX Community](https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei)
+- [Python Multiprocessing: Start Methods, Pools, and Communication](https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d)
+- [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
+- [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
 <!-- BLOG-POST-LIST:END -->
 
 
