@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CookFlow+: Turn Any YouTube Recipe Into a Hands-Free, Voice-Guided Cooking Experience](https://dev.to/otnotorious/cookflow-turn-any-youtube-recipe-into-a-hands-free-voice-guided-cooking-experience-3ce1)
-- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-m9)
-- [TypeScript devs, don’t let your OpenAPI client generator lie to you.](https://dev.to/danilo_spinelli_cf3d44822/typescript-devs-dont-let-your-openapi-client-generator-lie-to-you-47d6)
-- [Spatial AI: Building Minds that Understand Space Like We Do](https://dev.to/arvindsundararajan/spatial-ai-building-minds-that-understand-space-like-we-do-18bk)
+- [Pro Developer&#39;s Guide to Local LLMs with LLaMA.cpp, Qwen Coder &amp; QwenCode on Linux](https://dev.to/avatsaev/pro-developers-guide-to-local-llms-with-llamacpp-qwen-coder-qwencode-on-linux-15h)
+- [AI Workout Analyzer🏋️‍♀️](https://dev.to/cloutboi/ai-workout-analyzer-4jdd)
+- [HomeVista Remodeler: Instantly Visualize Home Renovations with AI Design](https://dev.to/abhinandan-r/homevista-remodeler-instantly-visualize-home-renovations-with-ai-design-834)
+- [An Engineer’s Answer to the HR Black Hole](https://dev.to/dmitryd/an-engineers-answer-to-the-hr-black-hole-4kkg)
 <!-- BLOG-POST-LIST:END -->
 
 
