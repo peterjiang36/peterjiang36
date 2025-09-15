@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
-- [The Workforce of Tomorrow: Skills Needed for the Solar + AI Energy Revolution](https://dev.to/fozlurrayhan98/the-workforce-of-tomorrow-skills-needed-for-the-solar-ai-energy-revolution-6eg)
-- [Part-58: Google Cloud VPC – Internal and External Static IP Addresses - Demo](https://dev.to/latchudevops/part-58-google-cloud-vpc-internal-and-external-static-ip-addresses-demo-1c22)
-- [Unlocking Boolean Clarity: Visualize Logic with State Algebra by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-boolean-clarity-visualize-logic-with-state-algebra-by-arvind-sundararajan-58k4)
+- [NPR Music: Fito Páez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-fito-paez-tiny-desk-concert-4ef2)
+- [Building an AI SQL Translator with Java, Spring Boot, and OpenAI](https://dev.to/masteringbackend/building-an-ai-sql-translator-with-java-spring-boot-and-openai-18gk)
+- [Unlocking the Future: Top 50 DevOps Interview Questions You Must Know](https://dev.to/vjnvisakh/unlocking-the-future-top-50-devops-interview-questions-you-must-know-25gi)
+- [DEBIX SOM A Testing TSN Clock Synchronization with PTP](https://dev.to/debix_computers/debix-som-a-testing-tsn-clock-synchronization-with-ptp-1eln)
 <!-- BLOG-POST-LIST:END -->
 
 
