@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fullstack Next.js &amp; Cloudflare Template for SaaS MVP](https://dev.to/jqueryscript/fullstack-nextjs-cloudflare-template-for-saas-mvp-3iij)
-- [Securing Sessions in Spring Boot](https://dev.to/dhanush9952/securing-sessions-in-spring-boot-5d0c)
-- [Just more modelling](https://dev.to/magipunk/just-more-modelling-2k8)
-- [Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯](https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7)
+- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
+- [Kiwi Pi Pro 5: Just another SBC?](https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5)
+- [Docker Series: Episode 24 — Docker Compose + Swarm Integration: Multi-Host Deployments 🌍](https://dev.to/yash_sonawane25/docker-series-episode-24-docker-compose-swarm-integration-multi-host-deployments-2lhh)
+- [🎉 Completed AWS Generative AI Applications Specialization!](https://dev.to/devraiks/completed-aws-generative-ai-applications-specialization-1e32)
 <!-- BLOG-POST-LIST:END -->
 
 
