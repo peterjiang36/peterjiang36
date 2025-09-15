@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React+ Typescript: Deep Dive into &quot;readonly&quot;](https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7)
-- [Learning TDD by doing: Is Umbraco&#39;s management API the answer to acceptance testing?](https://dev.to/d_inventor/learning-tdd-by-doing-is-umbracos-management-api-the-answer-to-acceptance-testing-3lpp)
-- [From Panic to Pull Request: The Developer’s Confidence Changelog](https://dev.to/dev_tips/from-panic-to-pull-request-the-developers-confidence-changelog-3lne)
-- [Real-Time Systems: Making Data Flow Live](https://dev.to/sibasishm/real-time-systems-making-data-flow-live-37m9)
+- [Find The Longest Word In A Sentence: A JavaScript Solution](https://dev.to/tochi_/find-the-longest-word-in-a-sentence-a-javascript-solution-1a7n)
+- [The Workforce of Tomorrow: Skills Needed for the Solar + AI Energy Revolution](https://dev.to/fozlurrayhan98/the-workforce-of-tomorrow-skills-needed-for-the-solar-ai-energy-revolution-6eg)
+- [Part-58: Google Cloud VPC – Internal and External Static IP Addresses - Demo](https://dev.to/latchudevops/part-58-google-cloud-vpc-internal-and-external-static-ip-addresses-demo-1c22)
+- [Unlocking Boolean Clarity: Visualize Logic with State Algebra by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-boolean-clarity-visualize-logic-with-state-algebra-by-arvind-sundararajan-58k4)
 <!-- BLOG-POST-LIST:END -->
 
 
