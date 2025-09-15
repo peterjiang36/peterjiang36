@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio Deepfakes: The Illusion of Security in Voice Biometrics](https://dev.to/arvindsundararajan/audio-deepfakes-the-illusion-of-security-in-voice-biometrics-48jo)
-- [Kiwi Pi Pro 5: Just another SBC?](https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5)
-- [Docker Series: Episode 24 — Docker Compose + Swarm Integration: Multi-Host Deployments 🌍](https://dev.to/yash_sonawane25/docker-series-episode-24-docker-compose-swarm-integration-multi-host-deployments-2lhh)
-- [🎉 Completed AWS Generative AI Applications Specialization!](https://dev.to/devraiks/completed-aws-generative-ai-applications-specialization-1e32)
+- [1935. Maximum Number of Words You Can Type |](https://dev.to/siddhyaop/1935-maximum-number-of-words-you-can-type--24md)
+- [Boosting C# Performance with [MethodImpl&lpar;AggressiveInlining&rpar;]](https://dev.to/morteza-jangjoo/boosting-c-performance-with-methodimplaggressiveinlining-2plf)
+- [🚀 Day 15 of My DevOps Journey: GitLab CI — Powerful Pipelines for Modern DevOps 🦊](https://dev.to/dankbhardwaj/day-15-of-my-devops-journey-gitlab-ci-powerful-pipelines-for-modern-devops-346)
+- [Managing Reference and Configuration Data in E-Commerce Data Platforms](https://dev.to/qvfagundes/managing-reference-and-configuration-data-in-e-commerce-data-platforms-1369)
 <!-- BLOG-POST-LIST:END -->
 
 
