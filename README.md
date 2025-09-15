@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pro Developer&#39;s Guide to Local LLMs with LLaMA.cpp, Qwen Coder &amp; QwenCode on Linux](https://dev.to/avatsaev/pro-developers-guide-to-local-llms-with-llamacpp-qwen-coder-qwencode-on-linux-15h)
-- [AI Workout Analyzer🏋️‍♀️](https://dev.to/cloutboi/ai-workout-analyzer-4jdd)
-- [HomeVista Remodeler: Instantly Visualize Home Renovations with AI Design](https://dev.to/abhinandan-r/homevista-remodeler-instantly-visualize-home-renovations-with-ai-design-834)
-- [An Engineer’s Answer to the HR Black Hole](https://dev.to/dmitryd/an-engineers-answer-to-the-hr-black-hole-4kkg)
+- [Fullstack Next.js &amp; Cloudflare Template for SaaS MVP](https://dev.to/jqueryscript/fullstack-nextjs-cloudflare-template-for-saas-mvp-3iij)
+- [Securing Sessions in Spring Boot](https://dev.to/dhanush9952/securing-sessions-in-spring-boot-5d0c)
+- [Just more modelling](https://dev.to/magipunk/just-more-modelling-2k8)
+- [Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯](https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7)
 <!-- BLOG-POST-LIST:END -->
 
 
