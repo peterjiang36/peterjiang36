@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wordsketcher: Drawing with Words](https://dev.to/eltcation/wordsketcher-drawing-with-words-c65)
-- [🌱 Flora Friend Multimodal AI Plant Care &amp; Diagnosis](https://dev.to/mohammad_usmani_d3a9bdba5/flora-friend-multimodal-ai-plant-care-diagnosis-4g9b)
-- [EcommView AI: From a single image to e-commerce-ready product photos, model shots &amp; 360 views.](https://dev.to/drashya/ecommview-ai-from-a-single-image-to-e-commerce-ready-product-photos-model-shots-360-views-1dgg)
-- [Higgsfield.ai Clone - Draw to Edit](https://dev.to/byebyu/higgsfieldai-clone-draw-to-edit-4786)
+- [React+ Typescript: Deep Dive into &quot;readonly&quot;](https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7)
+- [Learning TDD by doing: Is Umbraco&#39;s management API the answer to acceptance testing?](https://dev.to/d_inventor/learning-tdd-by-doing-is-umbracos-management-api-the-answer-to-acceptance-testing-3lpp)
+- [From Panic to Pull Request: The Developer’s Confidence Changelog](https://dev.to/dev_tips/from-panic-to-pull-request-the-developers-confidence-changelog-3lne)
+- [Real-Time Systems: Making Data Flow Live](https://dev.to/sibasishm/real-time-systems-making-data-flow-live-37m9)
 <!-- BLOG-POST-LIST:END -->
 
 
