@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📦 My DevOps Journey: Part 4 — Archiving, Scheduling, Remote Access &amp; System Administration Essentials](https://dev.to/sheersh_sinha_1ac2bb28045/my-devops-journey-part-4-archiving-scheduling-remote-access-system-administration-5apf)
-- [What I Learned from Studying SEO: Notes, Checklist, and Developer Takeaways](https://dev.to/_945813d63f317d087894d/what-i-learned-from-studying-seo-notes-checklist-and-developer-takeaways-3ej6)
-- [Xcode 26 Key Features for Developers](https://dev.to/arshtechpro/xcode-26-release-notes-summary-key-features-for-developers-5ck0)
-- [Flores Amarillas para my best friend luhana](https://dev.to/diego_franciscolopezasp/flores-amarillas-para-my-best-friend-luhana-li7)
+- [IGN: Hollow Knight: Silksong Boss Fight - Double Moss Mother &lpar;Weavenest Atla&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-boss-fight-double-moss-mother-weavenest-atla-3igi)
+- [IGN: The Last Time a Game Truly Surprised Us - Game Scoop! Clip](https://dev.to/gg_news/ign-the-last-time-a-game-truly-surprised-us-game-scoop-clip-5ame)
+- [IGN: Marvel Rivals - Official The Aqua Arsenal Punisher Costume Trailer](https://dev.to/gg_news/ign-marvel-rivals-official-the-aqua-arsenal-punisher-costume-trailer-koo)
+- [IGN: Gearbox CEO Claps Back At Borderlands 4 Player Complaints - IGN Daily Fix](https://dev.to/gg_news/ign-gearbox-ceo-claps-back-at-borderlands-4-player-complaints-ign-daily-fix-22k2)
 <!-- BLOG-POST-LIST:END -->
 
 
