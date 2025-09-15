@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Kevin Kaarl - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8)
-- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk)
-- [IGN: RoboCop: Rogue City - Official Collection Announcement Trailer](https://dev.to/gg_news/ign-robocop-rogue-city-official-collection-announcement-trailer-2g4n)
-- [IGN: Gen V Season 2 Review](https://dev.to/gg_news/ign-gen-v-season-2-review-4fgg)
+- [WebGPU Engine from Scratch Part 9: Shadow Maps](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-9-shadow-maps-11d9)
+- [Beyond Code Checkout: Optimizing DevOps Deployments for Performance, Cost, and Sustainability](https://dev.to/srinivasamcjf/beyond-code-checkout-optimizing-devops-deployments-for-performance-cost-and-sustainability-37d0)
+- [How Kiro Supercharged the Development of My AI-Powered Health Coach App](https://dev.to/49_pips_2c2d69a412fd4d922/how-kiro-supercharged-the-development-of-my-ai-powered-health-coach-app-14i6)
+- [The prompt I used to have ChatGPT act as my Python tutor](https://dev.to/bredscc/the-prompt-i-used-to-have-chatgpt-act-as-my-python-tutor-4n84)
 <!-- BLOG-POST-LIST:END -->
 
 
