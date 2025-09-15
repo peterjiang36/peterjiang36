@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1935. Maximum Number of Words You Can Type |](https://dev.to/siddhyaop/1935-maximum-number-of-words-you-can-type--24md)
-- [Boosting C# Performance with [MethodImpl&lpar;AggressiveInlining&rpar;]](https://dev.to/morteza-jangjoo/boosting-c-performance-with-methodimplaggressiveinlining-2plf)
-- [🚀 Day 15 of My DevOps Journey: GitLab CI — Powerful Pipelines for Modern DevOps 🦊](https://dev.to/dankbhardwaj/day-15-of-my-devops-journey-gitlab-ci-powerful-pipelines-for-modern-devops-346)
-- [Managing Reference and Configuration Data in E-Commerce Data Platforms](https://dev.to/qvfagundes/managing-reference-and-configuration-data-in-e-commerce-data-platforms-1369)
+- [Kinetix Fitness AI](https://dev.to/aortega/kinetix-fitness-ai-1d63)
+- [Claude Code vs Codex: Dev Workflow Comparison](https://dev.to/composiodev/claude-code-vs-codex-dev-workflow-comparison-4jjf)
+- [Core Concepts of MCP](https://dev.to/farhan_khan_41ec7ff11ac1d/mcp-server-core-concepts-18i8)
+- [Transform Lectures into Summaries, Questions, and Blog Ideas with Lecture lab AI](https://dev.to/techsplot/transform-lectures-into-summaries-questions-and-blog-ideas-with-lecture-lab-ai-2e80)
 <!-- BLOG-POST-LIST:END -->
 
 
