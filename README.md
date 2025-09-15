@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Polaris dev list digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-8-12-2025-5ggo)
-- [Apache Iceberg dev list digest &lpar;Sept 8–12, 2025&rpar;](https://dev.to/alexmercedcoder/apache-iceberg-dev-list-digest-sept-8-12-2025-4cb5)
-- [What is threading in Python?](https://dev.to/atifwattoo/what-is-threading-in-python-5eog)
-- [Code Security Scanning in 2025: A Practical Guide](https://dev.to/clouddefenseai/code-security-scanning-in-2025-a-practical-guide-366a)
+- [Amazon Bedrock AgentCore Runtime - Part 5 Using Custom Agent with Spring AI](https://dev.to/aws-heroes/amazon-bedrock-agentcore-runtime-part-5-using-custom-agent-with-spring-ai-4n71)
+- [How I Handled Scope Creep on a Client Project](https://dev.to/debugger360/how-i-handled-scope-creep-on-a-client-project-3fpe)
+- [Tired of Generic Visuals? These Are the 5 Most-Used AI Prompt Generators Everybody Should Know](https://dev.to/werliton/tired-of-generic-visuals-these-are-the-5-most-used-ai-prompt-generators-everybody-should-know-f6p)
+- [The B2B SaaS Plateau: Breaking Through the $10K MRR Ceiling](https://dev.to/osamame_igbinosa/the-b2b-saas-plateau-breaking-through-the-10k-mrr-ceiling-401d)
 <!-- BLOG-POST-LIST:END -->
 
 
