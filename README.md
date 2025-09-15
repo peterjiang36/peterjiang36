@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Takeaways From &quot;Breaking in the Mindset That Gets You Hired&quot; With ALX Community](https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei)
-- [Python Multiprocessing: Start Methods, Pools, and Communication](https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d)
-- [Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro&#39;s Spec-Driven Development](https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4)
-- [[UE] ClassRedirects](https://dev.to/seongcheoljeon/ue-classredirects-3l70)
+- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn)
+- [✨ Gemini Facets: Forge a Digital Soul 🤖💬🎨](https://dev.to/auraforgehq/gemini-facets-forge-a-digital-soul-1o1o)
+- [Learning things with projects](https://dev.to/yuktisays/learning-things-with-projects-37ih)
+- [Demystifying React Hooks with a Fun Password Generator](https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g)
 <!-- BLOG-POST-LIST:END -->
 
 
