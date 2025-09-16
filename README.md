@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Series: Episode 25 — Docker Troubleshooting &amp; Debugging: Common Issues &amp; Fixes 🛠️](https://dev.to/yash_sonawane25/docker-series-episode-25-docker-troubleshooting-debugging-common-issues-fixes-3i8i)
-- [opencode context manager](https://dev.to/hungthai1401/opencode-context-manager-1h9c)
-- [Raw Sound as Building Blocks: Next-Gen AI Speech Creation](https://dev.to/hejhdiss/raw-sound-as-building-blocks-next-gen-ai-speech-creation-fpb)
-- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-bm)
+- [Agricultural Quantum AI: Predicting Crop Yields with Subatomic Precision](https://dev.to/kushvanth_chowdarynagabh/agricultural-quantum-ai-predicting-crop-yields-with-subatomic-precision-59l3)
+- [Async Await Delay](https://dev.to/elshoddev/async-await-delay-gh7)
+- [Introduction to US Stock Market](https://dev.to/madgan95/introduction-to-us-stock-market-5g32)
+- [🎮 Fun Fact from My AR Mini-Game Experiment](https://dev.to/cutieyunnytech/fun-fact-from-my-ar-mini-game-experiment-5f6l)
 <!-- BLOG-POST-LIST:END -->
 
 
