@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
-- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
-- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
-- [[Boost]](https://dev.to/uliyahoo/-ng7)
+- [SEO for Developers: A Technical Guide](https://dev.to/stasxreal/seo-for-developers-a-technical-guide-2com)
+- [How Large Language Models &lpar;LLMs&rpar; Work: A Complete Overview](https://dev.to/stasxreal/how-large-language-models-llms-work-a-complete-overview-4gfc)
+- [GameSpot: Call of Duty: Black Ops 7 - Ashes of the Damned Zombies Cinematic Trailer](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-ashes-of-the-damned-zombies-cinematic-trailer-4dhb)
+- [IGN: Jurassic World Evolution 3 - Official Megalodon Dinosaur Showcase Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-megalodon-dinosaur-showcase-trailer-7gm)
 <!-- BLOG-POST-LIST:END -->
 
 
