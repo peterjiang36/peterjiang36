@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All About Change Data Capture CDC](https://dev.to/prudiec/all-about-change-data-capture-cdc-3apn)
-- [A quick guide on the Python and R](https://dev.to/anshuman_816f8012be0c9b6c/a-quick-guide-on-the-python-and-r-45ih)
-- [cloud computing.](https://dev.to/nyandiatech/cloud-computing-53oe)
-- [How to Stay Motivated When Preparing for a Cloud Certification?](https://dev.to/abdelino17/how-to-stay-motivated-when-preparing-for-a-cloud-certification-2pch)
+- [Building a Legal Document Intelligence Platform with BigQuery AI: 99% Efficiency Implementation Guide](https://dev.to/jaycrys/building-a-legal-document-intelligence-platform-with-bigquery-ai-99-efficiency-implementation-5ajo)
+- [CDN Cache Mastery: an engineer’s checklist you can ship with](https://dev.to/t2c/cdn-cache-mastery-an-engineers-checklist-you-can-ship-with-5078)
+- [Guide to Deploying TeslaMate on a cloud server](https://dev.to/yekk/guide-to-deploying-teslamate-on-a-cloud-server-30md)
+- [How to Write a Great README for Your GitHub Project](https://dev.to/eva_clari_289d85ecc68da48/how-to-write-a-great-readme-for-your-github-project-555p)
 <!-- BLOG-POST-LIST:END -->
 
 
