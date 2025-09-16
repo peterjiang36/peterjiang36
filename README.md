@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
-- [IGN: Dragon Ball Xenoverse 2 - Official Future Saga Chapter 3 Trailer](https://dev.to/gg_news/ign-dragon-ball-xenoverse-2-official-future-saga-chapter-3-trailer-ln)
-- [NestJS Authentication with Stytch: Complete Starter Guide](https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon)
-- [Associações polimórficas no Rails: como fazer, prós e contras](https://dev.to/pedroleo/associacoes-polimorficas-no-rails-como-fazer-pros-e-contras-450m)
+- [Build Once and Teach Forever: Scaling Developer Content Creation with GitHub](https://dev.to/shieldstring/build-once-and-teach-forever-scaling-developer-content-creation-with-github-1a55)
+- [Como implementar um Ledger](https://dev.to/dvorlandi/como-implementar-um-ledger-5hn9)
+- [The Job Pilot Chronicles: 94 Commits, 27 Days, and the Brutal Reality of AI-Assisted Development](https://dev.to/alexretana/the-job-pilot-chronicles-94-commits-27-days-and-the-brutal-reality-of-ai-assisted-development-2cek)
+- [Guia de Python PT-BR #3: Loops &lpar;for e while&rpar; 🔄](https://dev.to/vgermanndev/guia-de-python-pt-br-3-loops-for-e-while-1gll)
 <!-- BLOG-POST-LIST:END -->
 
 
