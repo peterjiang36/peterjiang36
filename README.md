@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1)
-- [EZMother: Devlog #1](https://dev.to/longchau/ezmother-devlog-1-348f)
-- [Never Trust, Always Verify: Zero Trust in Action with Microsoft Security](https://dev.to/ibbus/never-trust-always-verify-zero-trust-in-action-with-microsoft-security-ome)
-- [Automate GitHub Issues with AI and n8n to Get More Time for Coding](https://dev.to/hankadev/automate-github-issues-with-ai-and-n8n-to-get-more-time-for-coding-115a)
+- [CI/CD Reimagined: End Staging Chaos with Ephemeral Infrastructure](https://dev.to/signadot/cicd-reimagined-end-staging-chaos-with-ephemeral-infrastructure-4hak)
+- [MultiAgent Architecture Practice: Building ComfyUI-Copilot V2.0 with 3k GitHub Stars](https://dev.to/_615564fae9eccc7753711/multiagent-architecture-practice-building-comfyui-copilot-v20-with-3k-github-stars-595)
+- [🔹 Multidimensional Arrays in Java](https://dev.to/mohamad_mhana/multidimensional-arrays-in-java-5h5g)
+- [Announcing Swiftide 0.31](https://dev.to/timonv/announcing-swiftide-031-16g8)
 <!-- BLOG-POST-LIST:END -->
 
 
