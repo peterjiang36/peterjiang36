@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
-- [Why Distributed Caches Can Become Single Points of Failure](https://dev.to/dct_technology/why-distributed-caches-can-become-single-points-of-failure-5a88)
-- [When Machines Learn to Delete: An 8-Week Experiment in AI Autonomy](https://dev.to/jetthoughts/when-machines-learn-to-delete-an-8-week-experiment-in-ai-autonomy-2ak)
-- [&quot;Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App&quot;](https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg)
+- [Day 97: When Your Operating System Crashes](https://dev.to/casperday11/day-97-when-your-operating-system-crashes-253a)
+- [KEXP: Gouge Away - Consider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-consider-live-on-kexp-4805)
+- [KEXP: Gouge Away - Maybe Blue &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-maybe-blue-live-on-kexp-29ah)
+- [KEXP: Gouge Away - Deep Sage / Idealized &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-deep-sage-idealized-live-on-kexp-3lba)
 <!-- BLOG-POST-LIST:END -->
 
 
