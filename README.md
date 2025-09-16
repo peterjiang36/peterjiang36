@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is me for the past few Months- growth is not linear 🧨](https://dev.to/congomusah/this-is-me-for-the-past-few-months-growth-is-not-linear-4dna)
-- [That $47K AWS Bill? Yeah, It Should Be $8K](https://dev.to/arbythecoder/that-47k-aws-bill-yeah-it-should-be-8k-43ki)
-- [Maintaining Arch Linux AUR Packages: A Dual Update for Python-zconfig and Python-reparser](https://dev.to/secbyshresth/maintaining-arch-linux-aur-packages-a-dual-update-for-python-zconfig-and-python-reparser-4fdm)
-- [Kubernetes: Kubernetes API, API groups, CRDs, and the etcd](https://dev.to/setevoy/kubernetes-kubernetes-api-api-groups-crds-and-the-etcd-1can)
+- [Wemos D1 Mini w/ Waveshare e-Paper 2.13 HAT](https://dev.to/hubschrauber/wemos-d1-mini-w-waveshare-e-paper-213-hat-laf)
+- [The Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
+- [🧠 Top-Down vs Bottom-Up: Comprehensive Strategies for Problem Solving in Software Development](https://dev.to/mzunairtariq/top-down-vs-bottom-up-comprehensive-strategies-for-problem-solving-in-software-development-5g78)
+- [AI Revolutionizing Our Healthcare Today](https://dev.to/sebastian_reid999/ai-revolutionizing-our-healthcare-today-1hii)
 <!-- BLOG-POST-LIST:END -->
 
 
