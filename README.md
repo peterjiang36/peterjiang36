@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
-- [Auto Embeddings in Manticore Search: AI-Powered Search Made Simple](https://dev.to/sanikolaev/auto-embeddings-in-manticore-search-ai-powered-search-made-simple-op2)
-- [Why Testing Multi-Agent AI Systems is Hard &lpar;and Why It Matters&rpar;](https://dev.to/radoslawsz/why-testing-multi-agent-ai-systems-is-hard-and-why-it-matters-2d3l)
-- [Check out this article on Markov Chains](https://dev.to/thedatageek/check-out-this-article-on-markov-chains-2h0p)
+- [All About Change Data Capture CDC](https://dev.to/prudiec/all-about-change-data-capture-cdc-3apn)
+- [A quick guide on the Python and R](https://dev.to/anshuman_816f8012be0c9b6c/a-quick-guide-on-the-python-and-r-45ih)
+- [cloud computing.](https://dev.to/nyandiatech/cloud-computing-53oe)
+- [How to Stay Motivated When Preparing for a Cloud Certification?](https://dev.to/abdelino17/how-to-stay-motivated-when-preparing-for-a-cloud-certification-2pch)
 <!-- BLOG-POST-LIST:END -->
 
 
