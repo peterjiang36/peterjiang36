@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO for Developers: A Technical Guide](https://dev.to/stasxreal/seo-for-developers-a-technical-guide-2com)
-- [How Large Language Models &lpar;LLMs&rpar; Work: A Complete Overview](https://dev.to/stasxreal/how-large-language-models-llms-work-a-complete-overview-4gfc)
-- [GameSpot: Call of Duty: Black Ops 7 - Ashes of the Damned Zombies Cinematic Trailer](https://dev.to/gg_news/gamespot-call-of-duty-black-ops-7-ashes-of-the-damned-zombies-cinematic-trailer-4dhb)
-- [IGN: Jurassic World Evolution 3 - Official Megalodon Dinosaur Showcase Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-megalodon-dinosaur-showcase-trailer-7gm)
+- [A Pod with Public IP](https://dev.to/abhijeetmohanan/a-pod-with-public-ip-59m7)
+- [From Zero to CRUD - A Tiny Spring Boot H2 Boilerplate You’ll Actually Use](https://dev.to/boiler_agents/from-zero-to-crud-a-tiny-spring-boot-h2-boilerplate-youll-actually-use-15k6)
+- [Vectorization in Python for Machine Learning](https://dev.to/stephcrown/vectorization-in-python-for-machine-learning-5hne)
+- [5 Mistakes Scrum Masters Make When Using Zenhub &lpar;and How to Avoid Them&rpar;](https://dev.to/gsauzande/5-mistakes-scrum-masters-make-when-using-zenhub-and-how-to-avoid-them-4fbh)
 <!-- BLOG-POST-LIST:END -->
 
 
