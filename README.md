@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare&#39;s Self-DDoS Outage: How a Simple React Bug Knocked Out the Dashboard](https://dev.to/pantoai/cloudflares-self-ddos-outage-how-a-simple-react-bug-knocked-out-the-dashboard-2onc)
-- [Stop Memorizing, Start Scripting: My Journey to cli-bits](https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h)
-- [GB/s Level Editable DOM JSON Engine: The Architectural Philosophy Behind LJSON](https://dev.to/lengjingzju/gbs-level-editable-dom-json-engine-the-architectural-philosophy-behind-ljson-4gdb)
-- [Mastering BDD with Cucumber &amp; Java for Test Automation](https://dev.to/jignect-technologies/mastering-bdd-with-cucumber-java-for-test-automation-4dh3)
+- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
+- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o)
+- [It helps beginners in ML not just preprocess data &lpar;missing values, encoding, scaling, outliers&rpar; but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp)
+- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-37c2)
 <!-- BLOG-POST-LIST:END -->
 
 
