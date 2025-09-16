@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Basics and How They Work](https://dev.to/leowood/api-basics-and-how-they-work-5aof)
-- [The Lifecycle of useEffect: Synchronization in React](https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6)
-- [Cost-Optimized Three-Tier Architecture on AWS with DevOps](https://dev.to/hasan_ashab/cost-optimized-three-tier-architecture-on-aws-with-devops-15h2)
-- [🔄 CSS Unit Converter – Instantly Convert px, rem, em, %, vh, vw](https://dev.to/frontendtoolstech/css-unit-converter-instantly-convert-px-rem-em-vh-vw-2h3h)
+- [Docker Series: Episode 25 — Docker Troubleshooting &amp; Debugging: Common Issues &amp; Fixes 🛠️](https://dev.to/yash_sonawane25/docker-series-episode-25-docker-troubleshooting-debugging-common-issues-fixes-3i8i)
+- [opencode context manager](https://dev.to/hungthai1401/opencode-context-manager-1h9c)
+- [Raw Sound as Building Blocks: Next-Gen AI Speech Creation](https://dev.to/hejhdiss/raw-sound-as-building-blocks-next-gen-ai-speech-creation-fpb)
+- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-bm)
 <!-- BLOG-POST-LIST:END -->
 
 
