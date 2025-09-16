@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Legal Document Intelligence Platform with BigQuery AI: 99% Efficiency Implementation Guide](https://dev.to/jaycrys/building-a-legal-document-intelligence-platform-with-bigquery-ai-99-efficiency-implementation-5ajo)
-- [CDN Cache Mastery: an engineer’s checklist you can ship with](https://dev.to/t2c/cdn-cache-mastery-an-engineers-checklist-you-can-ship-with-5078)
-- [Guide to Deploying TeslaMate on a cloud server](https://dev.to/yekk/guide-to-deploying-teslamate-on-a-cloud-server-30md)
-- [How to Write a Great README for Your GitHub Project](https://dev.to/eva_clari_289d85ecc68da48/how-to-write-a-great-readme-for-your-github-project-555p)
+- [FastAPI Authentication Fundamentals](https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn)
+- [Optimizing the Ever-Growing Balance in the War Robots Project](https://dev.to/mygames/optimizing-the-ever-growing-balance-in-the-war-robots-project-18p)
+- [Unveiling the Top 50 Cloud Computing Interview Questions](https://dev.to/vjnvisakh/unveiling-the-top-50-cloud-computing-interview-questions-4n94)
+- [How to Install Ubuntu 25.10 &lpar;Questing Quokka&rpar; on macOS With VirtualBox](https://dev.to/fedtti/how-to-install-ubuntu-2510-questing-quokka-on-macos-with-virtualbox-2fnf)
 <!-- BLOG-POST-LIST:END -->
 
 
