@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Reimagined: End Staging Chaos with Ephemeral Infrastructure](https://dev.to/signadot/cicd-reimagined-end-staging-chaos-with-ephemeral-infrastructure-4hak)
-- [MultiAgent Architecture Practice: Building ComfyUI-Copilot V2.0 with 3k GitHub Stars](https://dev.to/_615564fae9eccc7753711/multiagent-architecture-practice-building-comfyui-copilot-v20-with-3k-github-stars-595)
-- [🔹 Multidimensional Arrays in Java](https://dev.to/mohamad_mhana/multidimensional-arrays-in-java-5h5g)
-- [Announcing Swiftide 0.31](https://dev.to/timonv/announcing-swiftide-031-16g8)
+- [Simple MCP tool using NodeJS](https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm)
+- [Deployments in the Agentic Era](https://dev.to/defanglabs/deployments-in-the-agentic-era-1m2h)
+- [SQLite dot commands: run system shell commands](https://dev.to/mr_destructive/sqlite-dot-commands-run-system-shell-commands-3ao4)
+- [[Boost]](https://dev.to/uliyahoo/-ng7)
 <!-- BLOG-POST-LIST:END -->
 
 
