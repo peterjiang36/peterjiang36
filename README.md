@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM](https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p)
-- [How Modern Supply Chains Are Embracing Cloud-Based EDI Integration](https://dev.to/rosieschuck/how-modern-supply-chains-are-embracing-cloud-based-edi-integration-18p7)
-- [SSH Key Authentication in Linux](https://dev.to/ijas9118/ssh-key-authentication-in-linux-3aoo)
-- [Wikipedia Is Rigged: How Big Tech Silences Independent Developers](https://dev.to/owly/wikipedia-is-rigged-how-big-tech-silences-independent-developers-10fb)
+- [Cloudflare&#39;s Self-DDoS Outage: How a Simple React Bug Knocked Out the Dashboard](https://dev.to/pantoai/cloudflares-self-ddos-outage-how-a-simple-react-bug-knocked-out-the-dashboard-2onc)
+- [Stop Memorizing, Start Scripting: My Journey to cli-bits](https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h)
+- [GB/s Level Editable DOM JSON Engine: The Architectural Philosophy Behind LJSON](https://dev.to/lengjingzju/gbs-level-editable-dom-json-engine-the-architectural-philosophy-behind-ljson-4gdb)
+- [Mastering BDD with Cucumber &amp; Java for Test Automation](https://dev.to/jignect-technologies/mastering-bdd-with-cucumber-java-for-test-automation-4dh3)
 <!-- BLOG-POST-LIST:END -->
 
 
