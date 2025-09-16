@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 97: When Your Operating System Crashes](https://dev.to/casperday11/day-97-when-your-operating-system-crashes-253a)
-- [KEXP: Gouge Away - Consider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-consider-live-on-kexp-4805)
-- [KEXP: Gouge Away - Maybe Blue &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-maybe-blue-live-on-kexp-29ah)
-- [KEXP: Gouge Away - Deep Sage / Idealized &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gouge-away-deep-sage-idealized-live-on-kexp-3lba)
+- [Building a CLI for the Ecosyste.ms API](https://dev.to/sebs/building-a-cli-for-the-ecosystems-api-1d4a)
+- [Lightroom Mod APK: Exploring Features, Risks, and Safer Choices for Developers and Creators](https://dev.to/jackson_alban_515fef53c1c/lightroom-mod-apk-exploring-features-risks-and-safer-choices-for-developers-and-creators-9p)
+- [𝗙𝗿𝗼𝗺 𝗧𝘄𝗲𝗲𝘁𝘀 𝘁𝗼 𝗜𝗻𝗯𝗼𝘅](https://dev.to/supraja_tangella_b7f0738e/-4oof)
+- [Thank you for sharing the Conventional Branch.](https://dev.to/shenxianpeng/thank-you-for-sharing-the-conventional-branch-2pfm)
 <!-- BLOG-POST-LIST:END -->
 
 
