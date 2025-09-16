@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Freestyle to Pipeline as Code: Modern CI/CD with Jenkins](https://dev.to/umaid777/from-freestyle-to-pipeline-as-code-modern-cicd-with-jenkins-447d)
-- [Loops avançados e recursividade](https://dev.to/andresdossantos/loops-avancados-e-recursividade-4afp)
-- [Mastering Slicing and Indexing in Python: Access Data with Precision](https://dev.to/aaron_rose_0787cc8b4775a0/mastering-slicing-and-indexing-in-python-access-data-with-precision-4alp)
-- [#DAY 10: Retrospective &amp; Tuning](https://dev.to/samueladeduntan/day-10-retrospective-tuning-3obg)
+- [IGN: Valheim - Official PlayStation Announcement Trailer &lpar;ft. Neil Newbon&rpar;](https://dev.to/gg_news/ign-valheim-official-playstation-announcement-trailer-ft-neil-newbon-5865)
+- [IGN: Dragon Ball Xenoverse 2 - Official Future Saga Chapter 3 Trailer](https://dev.to/gg_news/ign-dragon-ball-xenoverse-2-official-future-saga-chapter-3-trailer-ln)
+- [NestJS Authentication with Stytch: Complete Starter Guide](https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon)
+- [Associações polimórficas no Rails: como fazer, prós e contras](https://dev.to/pedroleo/associacoes-polimorficas-no-rails-como-fazer-pros-e-contras-450m)
 <!-- BLOG-POST-LIST:END -->
 
 
