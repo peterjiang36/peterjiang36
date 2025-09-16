@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wemos D1 Mini w/ Waveshare e-Paper 2.13 HAT](https://dev.to/hubschrauber/wemos-d1-mini-w-waveshare-e-paper-213-hat-laf)
-- [The Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
-- [🧠 Top-Down vs Bottom-Up: Comprehensive Strategies for Problem Solving in Software Development](https://dev.to/mzunairtariq/top-down-vs-bottom-up-comprehensive-strategies-for-problem-solving-in-software-development-5g78)
-- [AI Revolutionizing Our Healthcare Today](https://dev.to/sebastian_reid999/ai-revolutionizing-our-healthcare-today-1hii)
+- [API Basics and How They Work](https://dev.to/leowood/api-basics-and-how-they-work-5aof)
+- [The Lifecycle of useEffect: Synchronization in React](https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6)
+- [Cost-Optimized Three-Tier Architecture on AWS with DevOps](https://dev.to/hasan_ashab/cost-optimized-three-tier-architecture-on-aws-with-devops-15h2)
+- [🔄 CSS Unit Converter – Instantly Convert px, rem, em, %, vh, vw](https://dev.to/frontendtoolstech/css-unit-converter-instantly-convert-px-rem-em-vh-vw-2h3h)
 <!-- BLOG-POST-LIST:END -->
 
 
