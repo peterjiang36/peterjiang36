@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal)
-- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o)
-- [It helps beginners in ML not just preprocess data &lpar;missing values, encoding, scaling, outliers&rpar; but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-37c2)
+- [React + TypeScript: async functions](https://dev.to/itsmearka/react-typescript-async-functions-1307)
+- [Auto Embeddings in Manticore Search: AI-Powered Search Made Simple](https://dev.to/sanikolaev/auto-embeddings-in-manticore-search-ai-powered-search-made-simple-op2)
+- [Why Testing Multi-Agent AI Systems is Hard &lpar;and Why It Matters&rpar;](https://dev.to/radoslawsz/why-testing-multi-agent-ai-systems-is-hard-and-why-it-matters-2d3l)
+- [Check out this article on Markov Chains](https://dev.to/thedatageek/check-out-this-article-on-markov-chains-2h0p)
 <!-- BLOG-POST-LIST:END -->
 
 
