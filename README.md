@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
-- [How to Search Electronic Components and Where to Find Them](https://dev.to/dongpei_liao_8092a14d7c50/how-to-search-electronic-components-and-where-to-find-them-2apk)
-- [What was your win this week?](https://dev.to/tar455/what-was-your-win-this-week-11fj)
-- [Which Brand of Keycap O-Rings Offers the Best Value for Money? A Market Comparison](https://dev.to/mysticcoder/which-brand-of-keycap-o-rings-offers-the-best-value-for-money-a-market-comparison-1m2i)
+- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
+- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
+- [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
+- [Writing a high-performance viewport for a messenger](https://dev.to/djonnyx/writing-a-high-performance-viewport-for-a-messenger-50f)
 <!-- BLOG-POST-LIST:END -->
 
 
