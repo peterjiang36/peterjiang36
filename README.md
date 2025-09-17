@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Single Assignment &lpar;SSA&rpar;](https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3)
-- [Excited to Join the DEV Community – Here’s My Intro](https://dev.to/afzal_hossain/excited-to-join-the-dev-community-heres-my-intro-425g)
-- [Automated Visual Testing with Selenium &amp; Applitools](https://dev.to/jignect-technologies/automated-visual-testing-with-selenium-applitools-192k)
-- [Writing a high-performance viewport for a messenger](https://dev.to/djonnyx/writing-a-high-performance-viewport-for-a-messenger-50f)
+- [Best Practices for Code Reviews: A Comprehensive Guide](https://dev.to/manonaga2188/best-practices-for-code-reviews-a-comprehensive-guide-2af9)
+- [Understanding Actions in Salesforce Agentforce: The Complete Guide](https://dev.to/salesforcecodex/understanding-actions-in-salesforce-agentforce-the-complete-guide-5hnn)
+- [Oracle Forms to APEX Migration? Why Java or .NET May Fit Better](https://dev.to/flynnjones/oracle-forms-to-apex-migration-why-java-or-net-may-fit-better-3mkg)
+- [Factory Method: Teoria e Prática do Design Pattern com Java](https://dev.to/soncastro/factory-method-teoria-e-pratica-do-design-pattern-com-java-4bk7)
 <!-- BLOG-POST-LIST:END -->
 
 
