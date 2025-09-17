@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️](https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j)
-- [Managing URL parameters as state in React](https://dev.to/axtk/managing-url-parameters-as-state-in-react-3903)
-- [Mi propio procesador de textos en ZX Sinclair BASIC](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-2ln4)
-- [Accelerate Your Growth with LinkNova](https://dev.to/blogstory/accelerate-your-growth-with-linknova-37p3)
+- [No Laying Up Podcast: NLU Presents - Does The Ryder Cup Captain Matter | NLU Pod, Ep 1070](https://dev.to/youtube_golf/no-laying-up-podcast-nlu-presents-does-the-ryder-cup-captain-matter-nlu-pod-ep-1070-21j9)
+- [Part-63: Google Cloud Networking – VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-63-google-cloud-networking-vpc-network-peering-in-gcp-cloud-b5l)
+- [Accept Bank Transfers Easily with the Bank Transfer BACS through Stripe Plugin](https://dev.to/aroob_widaad_b018cd08a8e8/accept-bank-transfers-easily-with-the-bank-transfer-bacs-through-stripe-plugin-1ll1)
+- [My First Graphics Post: From DX11 to Vulkan &lpar;aka “Why I Ditched Training Wheels”&rpar;](https://dev.to/saswatdash65/my-first-graphics-post-from-dx11-to-vulkan-aka-why-i-ditched-training-wheels-4joc)
 <!-- BLOG-POST-LIST:END -->
 
 
