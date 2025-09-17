@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hyrule Warriors: Age of Imprisonment - Official &#39;Fight the Epic Imprisoning War&#39; Trailer](https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne)
-- [IGN: Arkheron - Official Reveal Trailer](https://dev.to/gg_news/ign-arkheron-official-reveal-trailer-416)
-- [IGN: Marvel Rivals - Official Technically Speaking Vol. 01](https://dev.to/gg_news/ign-marvel-rivals-official-technically-speaking-vol-01-1go3)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 12 - &#39;The Royal Tenenbaums’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-12-the-royal-tenenbaums-31gp)
+- [Smart Contract Upgradeability Patterns: A Developer&#39;s Guide](https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo)
+- [🔎 Kubernetes Architecture Demystified: A Beginner-Friendly Guide](https://dev.to/abhishek_korde_31/understanding-kubernetes-architecture-a-complete-guide-h7n)
+- [Exploring Discrete-Time Signals with MATLAB](https://dev.to/sajibpra/exploring-discrete-time-signals-with-matlab-6j)
+- [Hackeando o Data Engineering: Os Padrões que Todo Engenheiro Precisa Conhecer](https://dev.to/guigasque/hackeando-o-data-engineering-os-padroes-que-todo-engenheiro-precisa-conhecer-334d)
 <!-- BLOG-POST-LIST:END -->
 
 
