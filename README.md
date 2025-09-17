@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
-- [Descubriendo Supabase: mi mejor aliada para proyectos pequeños — en Flik](https://dev.to/barrerasaezgonzalo/descubriendo-supabase-mi-mejor-aliada-para-proyectos-pequenos-en-flik-31o2)
-- [🚀 Mastering Monorepos with Lerna + Yarn Workspaces](https://dev.to/gimhantharuke4565/mastering-monorepos-with-lerna-yarn-workspaces-597p)
-- [What Programming Language Is Used for Raspberry Pi? &lpar;A Practical, No-Nonsense Guide&rpar;](https://dev.to/alexmo/what-programming-language-is-used-for-raspberry-pi-a-practical-no-nonsense-guide-4f3n)
+- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
+- [How to Search Electronic Components and Where to Find Them](https://dev.to/dongpei_liao_8092a14d7c50/how-to-search-electronic-components-and-where-to-find-them-2apk)
+- [What was your win this week?](https://dev.to/tar455/what-was-your-win-this-week-11fj)
+- [Which Brand of Keycap O-Rings Offers the Best Value for Money? A Market Comparison](https://dev.to/mysticcoder/which-brand-of-keycap-o-rings-offers-the-best-value-for-money-a-market-comparison-1m2i)
 <!-- BLOG-POST-LIST:END -->
 
 
