@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resize Disk on VM Proxmox Non-LVM](https://dev.to/seno21/resize-disk-on-vm-proxmox-non-lvm-24oo)
-- [Deploy Vaultwarden on Nanocl](https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1)
-- [Is That Painting Real? Unveiling the Magic of Generative AI for Beginners](https://dev.to/karthik_n/is-that-painting-real-unveiling-the-magic-of-generative-ai-for-beginners-1cah)
-- [Top ServiceNow Trends for 2025: What’s Worth Your Time &lpar;and What’s Just Hype&rpar;](https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe)
+- [Check this guide on the Handling Missing Data in R](https://dev.to/anshuman_816f8012be0c9b6c/check-this-guide-on-the-handling-missing-data-in-r-4eke)
+- [DKM, Multichain Wallet Control Are ROFL Benefits Every Web3 Dev Should Explore For Future With Autonomous Agents](https://dev.to/dc600/dkm-multichain-wallet-control-are-rofl-benefits-every-web3-dev-should-explore-for-future-with-3nog)
+- [Handling Missing Data in R: A Complete Guide to Imputation with MICE](https://dev.to/anshuman_816f8012be0c9b6c/handling-missing-data-in-r-a-complete-guide-to-imputation-with-mice-2o85)
+- [EventBridge to SQS when cross region and cross account](https://dev.to/aws-builders/eventbridge-to-sqs-when-cross-region-and-cross-account-1jgd)
 <!-- BLOG-POST-LIST:END -->
 
 
