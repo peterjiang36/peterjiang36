@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Security in 2025: Essential Best Practices for Developers Building Production-Ready Systems](https://dev.to/sajan_kumarsingh_b556129/api-security-in-2025-essential-best-practices-for-developers-building-production-ready-systems-878)
-- [Beyond Keywords: Hybrid Search With Atlas and Vector Search &lpar;Part 3&rpar;](https://dev.to/mongodb/beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3-5fp3)
-- [Unit Testing vs End-to-End Testing: Striking the Right Balance in Software Quality](https://dev.to/alok_e75d0463248211c2ca56/unit-testing-vs-end-to-end-testing-striking-the-right-balance-in-software-quality-1op5)
-- [Comment automatiser vos relances téléphoniques avec un agent vocal IA](https://dev.to/matthieu_hubert_0db2c1fe4/comment-automatiser-vos-relances-telephoniques-avec-un-agent-vocal-ia-3cgf)
+- [Comprehensive Apache POI Tutorial: Excel File Handling in Java](https://dev.to/sadiul_hakim/comprehensive-apache-poi-tutorial-excel-file-handling-in-java-7mf)
+- [My journey on AWS Region Migration: What I wished I had aware of](https://dev.to/aws-builders/my-journey-on-aws-region-migration-what-i-wished-i-had-aware-of-2dk9)
+- [How to Integrate KCB M-PESA STK Push API](https://dev.to/msnmongare/how-to-integrate-kcb-m-pesa-stk-push-api-n8j)
+- [4 Ways to Supercharge Your HLS Live Streaming App with AI-Powered Analysis](https://dev.to/aws/4-ways-to-supercharge-your-hls-live-streaming-app-with-ai-powered-analysis-4mob)
 <!-- BLOG-POST-LIST:END -->
 
 
