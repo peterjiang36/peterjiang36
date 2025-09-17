@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [From 1.2GB to 54MB: My Docker Image Went on a Diet](https://dev.to/hasan_ashab/from-12gb-to-54mb-my-docker-image-went-on-a-diet-apj)
+- [Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh](https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed)
+- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-3h15)
 - [[Boost]](https://dev.to/clsource/-1k7p)
-- [Authentication Using Better-Auth &lpar;Basics Tutorial&rpar;](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1)
-- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea)
-- [git rebase and squash before opening merge requests](https://dev.to/choibits/git-rebase-and-squash-before-opening-merge-requests-3o3e)
 <!-- BLOG-POST-LIST:END -->
 
 
