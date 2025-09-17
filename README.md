@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Window, explain like i&#39;m five](https://dev.to/koha/context-window-explain-like-im-five-2c92)
-- [KEXP: Gold Celeste - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-full-performance-live-on-kexp-3ano)
-- [GameSpot: 20 Minutes of Battlefield 6 Operation Firestorm Gameplay](https://dev.to/gg_news/gamespot-20-minutes-of-battlefield-6-operation-firestorm-gameplay-14h9)
-- [IGN: Subnautica 2 - Official &#39;Creating the Collector Leviathan&#39; Developer Overview Video](https://dev.to/gg_news/ign-subnautica-2-official-creating-the-collector-leviathan-developer-overview-video-222b)
+- [Run Payload Jobs on Vercel &lpar;Serverless&rpar; — Step‑by‑Step Migration](https://dev.to/aaronksaunders/run-payload-jobs-on-vercel-serverless-step-by-step-migration-aj9)
+- [Typology of Prediction &amp; Forecasting Projects - A Technical Guide](https://dev.to/bigdexter/typology-of-prediction-forecasting-projects-a-technical-guide-1402)
+- [PWC 339 Max Diff: Sorting for the win](https://dev.to/boblied/pwc-339-max-diff-sorting-for-the-win-43c8)
+- [What is an AI Trust Framework? Top 3 Pillars of Macaron&#39;s Governance Model in 2025](https://dev.to/sande_isido_5f25353ee9e68/what-is-an-ai-trust-framework-top-3-pillars-of-macarons-governance-model-in-2025-3383)
 <!-- BLOG-POST-LIST:END -->
 
 
