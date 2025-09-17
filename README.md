@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check this guide on the Handling Missing Data in R](https://dev.to/anshuman_816f8012be0c9b6c/check-this-guide-on-the-handling-missing-data-in-r-4eke)
-- [DKM, Multichain Wallet Control Are ROFL Benefits Every Web3 Dev Should Explore For Future With Autonomous Agents](https://dev.to/dc600/dkm-multichain-wallet-control-are-rofl-benefits-every-web3-dev-should-explore-for-future-with-3nog)
-- [Handling Missing Data in R: A Complete Guide to Imputation with MICE](https://dev.to/anshuman_816f8012be0c9b6c/handling-missing-data-in-r-a-complete-guide-to-imputation-with-mice-2o85)
-- [EventBridge to SQS when cross region and cross account](https://dev.to/aws-builders/eventbridge-to-sqs-when-cross-region-and-cross-account-1jgd)
+- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
+- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
+- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
+- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
 <!-- BLOG-POST-LIST:END -->
 
 
