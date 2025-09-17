@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: the pipeline framework](https://dev.to/mbarcia/introducing-the-pipeline-framework-44i)
-- [Composable Analytics with Agents: Leveraging Virtual Datasets and the Semantic Layer](https://dev.to/alexmercedcoder/composable-analytics-with-agents-leveraging-virtual-datasets-and-the-semantic-layer-535h)
-- [Nim Credit Loan App CUSTOMER Care Helpline Number ♻️ 91&rpar;&rpar;8167795701/+8167795701/+Call](https://dev.to/ram_kumar_a6321e6c46bf7a6/nim-credit-loan-app-customer-care-helpline-number-9181677957018167795701call-25o0)
-- [lessmsi](https://dev.to/matanuki/lessmsi-5g1m)
+- [Context Window, explain like i&#39;m five](https://dev.to/koha/context-window-explain-like-im-five-2c92)
+- [KEXP: Gold Celeste - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-gold-celeste-full-performance-live-on-kexp-3ano)
+- [GameSpot: 20 Minutes of Battlefield 6 Operation Firestorm Gameplay](https://dev.to/gg_news/gamespot-20-minutes-of-battlefield-6-operation-firestorm-gameplay-14h9)
+- [IGN: Subnautica 2 - Official &#39;Creating the Collector Leviathan&#39; Developer Overview Video](https://dev.to/gg_news/ign-subnautica-2-official-creating-the-collector-leviathan-developer-overview-video-222b)
 <!-- BLOG-POST-LIST:END -->
 
 
