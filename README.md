@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contract Upgradeability Patterns: A Developer&#39;s Guide](https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo)
-- [🔎 Kubernetes Architecture Demystified: A Beginner-Friendly Guide](https://dev.to/abhishek_korde_31/understanding-kubernetes-architecture-a-complete-guide-h7n)
-- [Exploring Discrete-Time Signals with MATLAB](https://dev.to/sajibpra/exploring-discrete-time-signals-with-matlab-6j)
-- [Hackeando o Data Engineering: Os Padrões que Todo Engenheiro Precisa Conhecer](https://dev.to/guigasque/hackeando-o-data-engineering-os-padroes-que-todo-engenheiro-precisa-conhecer-334d)
+- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
+- [IGN: Nicktoons &amp; The Dice of Destiny - Official Jimmy Neutron Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-jimmy-neutron-reveal-trailer-2pdo)
+- [IGN: The Housemaid - Official Trailer &lpar;2025&rpar; Sydney Sweeney, Amanda Seyfried](https://dev.to/gg_news/ign-the-housemaid-official-trailer-2025-sydney-sweeney-amanda-seyfried-49om)
+- [What&#39;s The Biggest Project You&#39;ve Ever Taken?](https://dev.to/javanteb23/whats-the-biggest-project-youve-ever-taken-2od6)
 <!-- BLOG-POST-LIST:END -->
 
 
