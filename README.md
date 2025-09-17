@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Server Ledger Tables: Complete Guide with Banking Example](https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65)
-- [Applying Any SAST Tools for an Infrastructure as Code Application in Terraform](https://dev.to/r3d_cr0wn/applying-any-sast-tools-for-an-infrastructure-as-code-application-in-terraform-58m8)
-- [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://dev.to/technoblogger14o3/shai-hulud-malware-attack-tinycolor-and-over-40-npm-packages-compromised-309h)
-- [Lambda Explained: A Visual Journey from Init to Invoke](https://dev.to/mayaankvad/lambda-explained-a-visual-journey-from-init-to-invoke-3cb8)
+- [Automating Business Intelligence: How We Built a Multi-Agent AI System for Business Data Extraction](https://dev.to/haneeshraj/automating-business-intelligence-how-we-built-a-multi-agent-ai-system-for-business-data-extraction-jd1)
+- [Descubriendo Supabase: mi mejor aliada para proyectos pequeños — en Flik](https://dev.to/barrerasaezgonzalo/descubriendo-supabase-mi-mejor-aliada-para-proyectos-pequenos-en-flik-31o2)
+- [🚀 Mastering Monorepos with Lerna + Yarn Workspaces](https://dev.to/gimhantharuke4565/mastering-monorepos-with-lerna-yarn-workspaces-597p)
+- [What Programming Language Is Used for Raspberry Pi? &lpar;A Practical, No-Nonsense Guide&rpar;](https://dev.to/alexmo/what-programming-language-is-used-for-raspberry-pi-a-practical-no-nonsense-guide-4f3n)
 <!-- BLOG-POST-LIST:END -->
 
 
