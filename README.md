@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Strongest Vex Build in Borderlands 4 – Blood Letter Infinite Damage Guide](https://dev.to/gg_news/ign-strongest-vex-build-in-borderlands-4-blood-letter-infinite-damage-guide-2gdp)
-- [IGN: Nicktoons &amp; The Dice of Destiny - Official Jimmy Neutron Reveal Trailer](https://dev.to/gg_news/ign-nicktoons-the-dice-of-destiny-official-jimmy-neutron-reveal-trailer-2pdo)
-- [IGN: The Housemaid - Official Trailer &lpar;2025&rpar; Sydney Sweeney, Amanda Seyfried](https://dev.to/gg_news/ign-the-housemaid-official-trailer-2025-sydney-sweeney-amanda-seyfried-49om)
-- [What&#39;s The Biggest Project You&#39;ve Ever Taken?](https://dev.to/javanteb23/whats-the-biggest-project-youve-ever-taken-2od6)
+- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
+- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
+- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
+- [Why Everyone Says .NET Can’t Handle High Concurrency &lpar;And Why That’s Outdated&rpar;](https://dev.to/lamri_abdellahramdane_15/why-everyone-says-net-cant-handle-high-concurrency-and-why-thats-outdated-14m7)
 <!-- BLOG-POST-LIST:END -->
 
 
