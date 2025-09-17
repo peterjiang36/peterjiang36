@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Code Reviews: A Comprehensive Guide](https://dev.to/manonaga2188/best-practices-for-code-reviews-a-comprehensive-guide-2af9)
-- [Understanding Actions in Salesforce Agentforce: The Complete Guide](https://dev.to/salesforcecodex/understanding-actions-in-salesforce-agentforce-the-complete-guide-5hnn)
-- [Oracle Forms to APEX Migration? Why Java or .NET May Fit Better](https://dev.to/flynnjones/oracle-forms-to-apex-migration-why-java-or-net-may-fit-better-3mkg)
-- [Factory Method: Teoria e Prática do Design Pattern com Java](https://dev.to/soncastro/factory-method-teoria-e-pratica-do-design-pattern-com-java-4bk7)
+- [Resize Disk on VM Proxmox Non-LVM](https://dev.to/seno21/resize-disk-on-vm-proxmox-non-lvm-24oo)
+- [Deploy Vaultwarden on Nanocl](https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1)
+- [Is That Painting Real? Unveiling the Magic of Generative AI for Beginners](https://dev.to/karthik_n/is-that-painting-real-unveiling-the-magic-of-generative-ai-for-beginners-1cah)
+- [Top ServiceNow Trends for 2025: What’s Worth Your Time &lpar;and What’s Just Hype&rpar;](https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe)
 <!-- BLOG-POST-LIST:END -->
 
 
