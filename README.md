@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Luiza Brina: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-luiza-brina-tiny-desk-concert-38j6)
-- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
-- [PromptCraft: Mini AI Prompt Generator App Spring AI and Spring Boot](https://dev.to/masteringbackend/promptcraft-mini-ai-prompt-generator-app-spring-ai-and-spring-boot-58dc)
-- [Unleashing the Power of Python File Handling: A Deep Dive into Reading and Writing Files](https://dev.to/vjnvisakh/unleashing-the-power-of-python-file-handling-a-deep-dive-into-reading-and-writing-files-41m8)
+- [Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️](https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j)
+- [Managing URL parameters as state in React](https://dev.to/axtk/managing-url-parameters-as-state-in-react-3903)
+- [Mi propio procesador de textos en ZX Sinclair BASIC](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-2ln4)
+- [Accelerate Your Growth with LinkNova](https://dev.to/blogstory/accelerate-your-growth-with-linknova-37p3)
 <!-- BLOG-POST-LIST:END -->
 
 
