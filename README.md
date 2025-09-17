@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: NLU Presents - Does The Ryder Cup Captain Matter | NLU Pod, Ep 1070](https://dev.to/youtube_golf/no-laying-up-podcast-nlu-presents-does-the-ryder-cup-captain-matter-nlu-pod-ep-1070-21j9)
-- [Part-63: Google Cloud Networking – VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-63-google-cloud-networking-vpc-network-peering-in-gcp-cloud-b5l)
-- [Accept Bank Transfers Easily with the Bank Transfer BACS through Stripe Plugin](https://dev.to/aroob_widaad_b018cd08a8e8/accept-bank-transfers-easily-with-the-bank-transfer-bacs-through-stripe-plugin-1ll1)
-- [My First Graphics Post: From DX11 to Vulkan &lpar;aka “Why I Ditched Training Wheels”&rpar;](https://dev.to/saswatdash65/my-first-graphics-post-from-dx11-to-vulkan-aka-why-i-ditched-training-wheels-4joc)
+- [API Security in 2025: Essential Best Practices for Developers Building Production-Ready Systems](https://dev.to/sajan_kumarsingh_b556129/api-security-in-2025-essential-best-practices-for-developers-building-production-ready-systems-878)
+- [Beyond Keywords: Hybrid Search With Atlas and Vector Search &lpar;Part 3&rpar;](https://dev.to/mongodb/beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3-5fp3)
+- [Unit Testing vs End-to-End Testing: Striking the Right Balance in Software Quality](https://dev.to/alok_e75d0463248211c2ca56/unit-testing-vs-end-to-end-testing-striking-the-right-balance-in-software-quality-1op5)
+- [Comment automatiser vos relances téléphoniques avec un agent vocal IA](https://dev.to/matthieu_hubert_0db2c1fe4/comment-automatiser-vos-relances-telephoniques-avec-un-agent-vocal-ia-3cgf)
 <!-- BLOG-POST-LIST:END -->
 
 
