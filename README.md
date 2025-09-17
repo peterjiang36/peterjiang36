@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CLEANING MESSY DATA: Why is it 80% of the job](https://dev.to/herniqness/cleaning-messy-data-why-is-it-80-of-the-job-fh3)
-- [How To Suppress Build Errors in Next.js with TypeScript](https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl)
-- [Day 2:Variables in Python](https://dev.to/sanaipei001/day-2variables-in-python-2m7k)
-- [Hey DEV community! Tired of Git chaos? My new YouTube video, 10X Your Git Workflow: 7 Pro Tips, shares advanced hacks to save time https://youtu.be/d_xZgcRJ--Q #git #versioncontrol #developerproductivity #programming #coding](https://dev.to/urvvil/hey-dev-community-tired-of-git-chaos-my-new-youtube-video-10x-your-git-workflow-7-pro-tips-2n5h)
+- [NPR Music: Luiza Brina: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-luiza-brina-tiny-desk-concert-38j6)
+- [No Laying Up Podcast: 2025 Airports - Pete Buttigieg | Trap Draw, Ep 359](https://dev.to/youtube_golf/no-laying-up-podcast-2025-airports-pete-buttigieg-trap-draw-ep-359-5h0k)
+- [PromptCraft: Mini AI Prompt Generator App Spring AI and Spring Boot](https://dev.to/masteringbackend/promptcraft-mini-ai-prompt-generator-app-spring-ai-and-spring-boot-58dc)
+- [Unleashing the Power of Python File Handling: A Deep Dive into Reading and Writing Files](https://dev.to/vjnvisakh/unleashing-the-power-of-python-file-handling-a-deep-dive-into-reading-and-writing-files-41m8)
 <!-- BLOG-POST-LIST:END -->
 
 
