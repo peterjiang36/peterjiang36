@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 1.2GB to 54MB: My Docker Image Went on a Diet](https://dev.to/hasan_ashab/from-12gb-to-54mb-my-docker-image-went-on-a-diet-apj)
-- [Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh](https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed)
-- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-3h15)
-- [[Boost]](https://dev.to/clsource/-1k7p)
+- [SQL Server Ledger Tables: Complete Guide with Banking Example](https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65)
+- [Applying Any SAST Tools for an Infrastructure as Code Application in Terraform](https://dev.to/r3d_cr0wn/applying-any-sast-tools-for-an-infrastructure-as-code-application-in-terraform-58m8)
+- [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://dev.to/technoblogger14o3/shai-hulud-malware-attack-tinycolor-and-over-40-npm-packages-compromised-309h)
+- [Lambda Explained: A Visual Journey from Init to Invoke](https://dev.to/mayaankvad/lambda-explained-a-visual-journey-from-init-to-invoke-3cb8)
 <!-- BLOG-POST-LIST:END -->
 
 
