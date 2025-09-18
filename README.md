@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Ray Lozano | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-a-colors-show-506c)
-- [KEXP: Alien Boy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-full-performance-live-on-kexp-oo9)
-- [🔐 Fixing the LinkedIn OAuth Login Issue — The OpenID Connect Update](https://dev.to/affectionate_code/fixing-the-linkedin-oauth-login-issue-the-openid-connect-update-4p9b)
-- [[Boost]](https://dev.to/eunice-js/-i4)
+- [Treat ChatGPT Like a Junior Dev: Helpful, But Needs Review](https://dev.to/heyradcode/treat-chatgpt-like-a-junior-dev-helpful-but-needs-review-88j)
+- [How EC2 Instance in Private Subnet Connects to the Internet in AWS](https://dev.to/alonshrestha/how-ec2-instance-in-private-subnet-connects-to-the-internet-in-aws-obk)
+- [Sliding Window Visualization using “KitikiPlot”, a novel Python Library](https://dev.to/boddu_sripavan_5b6c8d66d4/sliding-window-visualization-using-kitikiplot-a-novel-python-library-38in)
+- [Self-Signed TLS ile Private Docker Registry Kurulumu ve Rancher Entegrasyonu](https://dev.to/erenalpteksen/self-signed-tls-ile-private-docker-registry-kurulumu-ve-rancher-entegrasyonu-1ppc)
 <!-- BLOG-POST-LIST:END -->
 
 
