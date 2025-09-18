@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
-- [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
-- [Mastering Whitespace and Newlines in Django Templates: The Ultimate Guide 🎯](https://dev.to/bharat_solanke_8e45411fa6/mastering-whitespace-and-newlines-in-django-templates-the-ultimate-guide-5eii)
-- [Who We Are – Deonics.in](https://dev.to/deonics2025/who-we-are-deonicsin-4doe)
+- [Navigating the Landscape of AI Risk Management in 2025](https://dev.to/devstark_media/navigating-the-landscape-of-ai-risk-management-in-2025-3j3a)
+- [Vibe Coding with Elixir/Phoenix](https://dev.to/manhvanvu/vibe-coding-with-elixirphoenix-3o7i)
+- [Python Web Scraping: Practical Ways to Bypass Anti-Bot Protection &lpar;Proxy Rotation, CAPTCHA Services&rpar;](https://dev.to/markus009/python-web-scraping-practical-ways-to-bypass-anti-bot-protection-proxy-rotation-captcha-services-4lm)
+- [React Props: How to Pass Data between Components?](https://dev.to/tpointtech/react-props-how-to-pass-data-between-components-2h2a)
 <!-- BLOG-POST-LIST:END -->
 
 
