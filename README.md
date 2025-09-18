@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
-- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
-- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
-- [Left my Product Director Job and created a Product Learning app &lpar;Like Duolingo&rpar;. WDYT?](https://dev.to/andrea_mezzadra/left-my-product-director-job-and-created-a-product-learning-app-like-duolingo-wdyt-4jg9)
+- [Understanding Margin Collapse: The Invisible Force Breaking Your Layout](https://dev.to/mahmoudzaid/understanding-margin-collapse-the-invisible-force-breaking-your-layout-ljo)
+- [🔥🌲 DIAMANTS - Project 🌲🔥](https://dev.to/lololem/diamants-project-22oo)
+- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
+- [AWS Networking, End to End: a production blueprint with diagrams and checklists](https://dev.to/t2c/aws-networking-end-to-end-a-production-blueprint-with-diagrams-and-checklists-3gmo)
 <!-- BLOG-POST-LIST:END -->
 
 
