@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/building-mcp-tools-a-pdf-processing-server-1k38)
-- [Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce](https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc)
-- [Using Effects Effectively in React: Stop Misusing useEffect Once and For All](https://dev.to/paripsky/using-effects-effectively-in-react-stop-misusing-useeffect-once-and-for-all-5fpm)
-- [Why Everyone Says .NET Can’t Handle High Concurrency &lpar;And Why That’s Outdated&rpar;](https://dev.to/lamri_abdellahramdane_15/why-everyone-says-net-cant-handle-high-concurrency-and-why-thats-outdated-14m7)
+- [The next step in privacy: A messenger that doesn&#39;t send data and doesn&#39;t keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4)
+- [AI in Art: Revolution or Creative Fad?](https://dev.to/sebastian_reid999/ai-in-art-revolution-or-creative-fad-glg)
+- [Why We Built HuTouch: Automating Figma to Flutter Without “Vibe Coding”](https://dev.to/wehadit/why-we-built-hutouch-automating-figma-to-flutter-without-vibe-coding-1k58)
+- [IGN: Six One Indie Showcase - September 2025](https://dev.to/gg_news/ign-six-one-indie-showcase-september-2025-28ml)
 <!-- BLOG-POST-LIST:END -->
 
 
