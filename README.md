@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Buscador de Estatus Becas Benito Juárez 2025 &lpar;Actualizado&rpar;](https://dev.to/ilyas_khan_14e88f67b6657a/buscador-de-estatus-becas-benito-juarez-2025-actualizado-168m)
-- [How To Detect Hidden Cracks In Aircraft Exhaust Before They Fail Mid-Flight](https://dev.to/acornwelding_ca_4fb63d76c/how-to-detect-hidden-cracks-in-aircraft-exhaust-before-they-fail-mid-flight-3bgk)
-- [Mastering PHP Interviews: Common Questions and Expert Answers](https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki)
-- [🚀 Join Hacktoberfest 2025: Contribute to Our DSA Code Repository!](https://dev.to/karanjot786/join-hacktoberfest-2025-contribute-to-our-dsa-code-repository-7nb)
+- [Understanding Security Concerns with Generative AI](https://dev.to/shajam/understanding-security-concerns-with-generative-ai-1pd8)
+- [“The First Step: How Small Actions Build Big Startups”](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-first-step-how-small-actions-build-big-startups-mn8)
+- [Mac Patch Management Tool Recommendations &lpar;2025&rpar;](https://dev.to/emily_assetloom/mac-patch-management-tool-recommendations-2025-3hd9)
+- [The Offset Reset Dilemma: Avoiding Surprise Replays in Kafka](https://dev.to/imlucky883/the-offset-reset-dilemma-avoiding-surprise-replays-in-kafka-5hc6)
 <!-- BLOG-POST-LIST:END -->
 
 
