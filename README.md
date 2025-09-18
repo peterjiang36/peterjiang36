@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Data People: Simplifying Development with Containers](https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g)
-- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
-- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
-- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0)
+- [SQL Rewriting vs. Indexing: How AI-Powered Structural Optimization Achieves 20x Scalability Gains](https://dev.to/sqlflash1024/sql-rewriting-vs-indexing-how-ai-powered-structural-optimization-achieves-20x-scalability-gains-4g36)
+- [Building the Heart of Your Java MCP Client: The MCPService Core](https://dev.to/gazolla/building-the-heart-of-your-java-mcp-client-the-mcpservice-core-1i2k)
+- [IGN: Borderlands 4 - Elemental Damage and Weaknesses Explained](https://dev.to/gg_news/ign-borderlands-4-elemental-damage-and-weaknesses-explained-516c)
+- [IGN: Battlefield 6: All-Out Warfare &lpar;and One Iconic Map&rpar; Returns – and it Rocks](https://dev.to/gg_news/ign-battlefield-6-all-out-warfare-and-one-iconic-map-returns-and-it-rocks-18cn)
 <!-- BLOG-POST-LIST:END -->
 
 
