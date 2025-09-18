@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The next step in privacy: A messenger that doesn&#39;t send data and doesn&#39;t keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4)
-- [AI in Art: Revolution or Creative Fad?](https://dev.to/sebastian_reid999/ai-in-art-revolution-or-creative-fad-glg)
-- [Why We Built HuTouch: Automating Figma to Flutter Without “Vibe Coding”](https://dev.to/wehadit/why-we-built-hutouch-automating-figma-to-flutter-without-vibe-coding-1k58)
-- [IGN: Six One Indie Showcase - September 2025](https://dev.to/gg_news/ign-six-one-indie-showcase-september-2025-28ml)
+- [Docker for Data People: Simplifying Development with Containers](https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g)
+- [Avoiding Symbol Block-Pass &lpar;&amp;:to_s&rpar; in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap)
+- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd)
+- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0)
 <!-- BLOG-POST-LIST:END -->
 
 
