@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Landscape of AI Risk Management in 2025](https://dev.to/devstark_media/navigating-the-landscape-of-ai-risk-management-in-2025-3j3a)
-- [Vibe Coding with Elixir/Phoenix](https://dev.to/manhvanvu/vibe-coding-with-elixirphoenix-3o7i)
-- [Python Web Scraping: Practical Ways to Bypass Anti-Bot Protection &lpar;Proxy Rotation, CAPTCHA Services&rpar;](https://dev.to/markus009/python-web-scraping-practical-ways-to-bypass-anti-bot-protection-proxy-rotation-captcha-services-4lm)
-- [React Props: How to Pass Data between Components?](https://dev.to/tpointtech/react-props-how-to-pass-data-between-components-2h2a)
+- [How to Build Fillable PDF Forms in .NET — Without Fighting the PDF Beast](https://dev.to/combit/how-to-build-fillable-pdf-forms-in-net-without-fighting-the-pdf-beast-1l76)
+- [Terraform: AWS EKS Terraform module update from version 20.x to version 21.x](https://dev.to/setevoy/terraform-aws-eks-terraform-module-update-from-version-20x-to-version-21x-52im)
+- [How to Optimize Your LinkedIn as a Backend Developer](https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm)
+- [Left my Product Director Job and created a Product Learning app &lpar;Like Duolingo&rpar;. WDYT?](https://dev.to/andrea_mezzadra/left-my-product-director-job-and-created-a-product-learning-app-like-duolingo-wdyt-4jg9)
 <!-- BLOG-POST-LIST:END -->
 
 
