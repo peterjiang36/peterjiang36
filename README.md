@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Spanish Version&rpar; Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/spanish-version-building-mcp-tools-a-pdf-processing-server-efk)
-- [Part-64: 🌐 Google Cloud Networking – Hands-on with VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-64-google-cloud-networking-hands-on-with-vpc-network-peering-in-gcp-cloud-54fh)
-- [Supply Chain Management Parts: Key Components Driving Business Efficiency](https://dev.to/tushar_zoringa/supply-chain-management-parts-key-components-driving-business-efficiency-206n)
-- [Lab 2](https://dev.to/kkrishnan10/lab-2-43hi)
+- [Set Up AWS Alerts to catch Cost Spikes and Security Risks](https://dev.to/secesther/set-up-aws-alerts-to-catch-cost-spikes-and-security-risks-54o3)
+- [✨ When a Community Event Turns Into a Festival of Learning – AWS Community Day Vadodara 2025](https://dev.to/aricpandya_security/when-a-community-event-turns-into-a-festival-of-learning-aws-community-day-vadodara-2025-4k8a)
+- [Groq Secures $750M: The AI Chip Startup Taking on Nvidia](https://dev.to/shiva_shanker_k/groq-secures-750m-the-ai-chip-startup-taking-on-nvidia-j5p)
+- [[gsap/physics2D] 8-Bit Snake Game - Challenge #4](https://dev.to/sathish26062004/gsapphysics2d-8-bit-snake-game-challenge-4-36eb)
 <!-- BLOG-POST-LIST:END -->
 
 
