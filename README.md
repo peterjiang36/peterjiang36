@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Google AP2 Protocol : Step by Step Guide with Examples](https://dev.to/vishalmysore/what-is-google-ap2-protocol-step-by-step-guide-with-examples-2lcp)
-- [How Writing Articles and Joining Communities Can Transform Your Journey as a Developer](https://dev.to/brunompp/how-writing-articles-and-joining-communities-can-transform-your-journey-as-a-developer-2ekm)
-- [Protecting our EKS Nodes with Wazuh](https://dev.to/aws-builders/protecting-our-eks-nodes-with-wazuh-3k7f)
-- [Como escrever artigos e participar de comunidades pode transformar sua jornada como desenvolvedor](https://dev.to/brunompp/como-escrever-artigos-e-participar-de-comunidades-pode-transformar-sua-jornada-como-desenvolvedor-dje)
+- [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
+- [Mechanised Learning — When the Plough Gives Way to Precision Gears, What Harvest Will the Mind Yield?](https://dev.to/black-ib/mechanised-learning-when-the-plough-gives-way-to-precision-gears-what-harvest-will-the-mind-dfa)
+- [6 .NET ORM Frameworks Worth Bookmarking](https://dev.to/lamri_abdellahramdane_15/6-net-orm-frameworks-worth-bookmarking-d3e)
+- [IA Generativa: Un Nuevo Paradigma en la Inteligencia Artificial](https://dev.to/franciscojeg78/ia-generativa-un-nuevo-paradigma-en-la-inteligencia-artificial-ck4)
 <!-- BLOG-POST-LIST:END -->
 
 
