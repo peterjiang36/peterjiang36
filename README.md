@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s SGE is Here: How Should Independent Foreign Trade Websites Adapt Their SEO?](https://dev.to/_49b14aad3410ba54aee47/googles-sge-is-here-how-should-independent-foreign-trade-websites-adapt-their-seo-43b5)
-- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
-- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
-- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
+- [&lpar;Spanish Version&rpar; Building MCP Tools: A PDF Processing Server](https://dev.to/gabrielmrojas/spanish-version-building-mcp-tools-a-pdf-processing-server-efk)
+- [Part-64: 🌐 Google Cloud Networking – Hands-on with VPC Network Peering in GCP Cloud](https://dev.to/latchudevops/part-64-google-cloud-networking-hands-on-with-vpc-network-peering-in-gcp-cloud-54fh)
+- [Supply Chain Management Parts: Key Components Driving Business Efficiency](https://dev.to/tushar_zoringa/supply-chain-management-parts-key-components-driving-business-efficiency-206n)
+- [Lab 2](https://dev.to/kkrishnan10/lab-2-43hi)
 <!-- BLOG-POST-LIST:END -->
 
 
