@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Rewriting vs. Indexing: How AI-Powered Structural Optimization Achieves 20x Scalability Gains](https://dev.to/sqlflash1024/sql-rewriting-vs-indexing-how-ai-powered-structural-optimization-achieves-20x-scalability-gains-4g36)
-- [Building the Heart of Your Java MCP Client: The MCPService Core](https://dev.to/gazolla/building-the-heart-of-your-java-mcp-client-the-mcpservice-core-1i2k)
-- [IGN: Borderlands 4 - Elemental Damage and Weaknesses Explained](https://dev.to/gg_news/ign-borderlands-4-elemental-damage-and-weaknesses-explained-516c)
-- [IGN: Battlefield 6: All-Out Warfare &lpar;and One Iconic Map&rpar; Returns – and it Rocks](https://dev.to/gg_news/ign-battlefield-6-all-out-warfare-and-one-iconic-map-returns-and-it-rocks-18cn)
+- [Google&#39;s SGE is Here: How Should Independent Foreign Trade Websites Adapt Their SEO?](https://dev.to/_49b14aad3410ba54aee47/googles-sge-is-here-how-should-independent-foreign-trade-websites-adapt-their-seo-43b5)
+- [AI-Generated Portfolios: Hype or the Future of Freelancing?](https://dev.to/imtaslim/ai-generated-portfolios-hype-or-the-future-of-freelancing-3i8o)
+- [Step 7: Design a Rate Limiter - Conclusion-Summary with FAQ&#39;s](https://dev.to/zeeshanali0704/step-7-design-a-rate-limiter-conclusion-summary-with-faqs-4j75)
+- [Unlocking the Potential of Vector Databases for AI Agents](https://dev.to/giasuddin90/unlocking-the-potential-of-vector-databases-for-ai-agents-40pd)
 <!-- BLOG-POST-LIST:END -->
 
 
