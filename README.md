@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Security Concerns with Generative AI](https://dev.to/shajam/understanding-security-concerns-with-generative-ai-1pd8)
-- [“The First Step: How Small Actions Build Big Startups”](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-first-step-how-small-actions-build-big-startups-mn8)
-- [Mac Patch Management Tool Recommendations &lpar;2025&rpar;](https://dev.to/emily_assetloom/mac-patch-management-tool-recommendations-2025-3hd9)
-- [The Offset Reset Dilemma: Avoiding Surprise Replays in Kafka](https://dev.to/imlucky883/the-offset-reset-dilemma-avoiding-surprise-replays-in-kafka-5hc6)
+- [Why Ripplix is Better UI Animation Inspiration](https://dev.to/tamim_ahmed_412f3d75a7fc0/why-ripplix-is-better-ui-animation-inspiration-4fc1)
+- [Quantum Computing and Its Emerging Influence on Data Science and AI in 2025](https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2)
+- [Mastering Whitespace and Newlines in Django Templates: The Ultimate Guide 🎯](https://dev.to/bharat_solanke_8e45411fa6/mastering-whitespace-and-newlines-in-django-templates-the-ultimate-guide-5eii)
+- [Who We Are – Deonics.in](https://dev.to/deonics2025/who-we-are-deonicsin-4doe)
 <!-- BLOG-POST-LIST:END -->
 
 
