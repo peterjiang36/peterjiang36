@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Examining the impact of npm supply chain attacks on MCP](https://dev.to/stacklok/examining-the-impact-of-npm-supply-chain-attacks-on-mcp-edo)
-- [Iterables in Python, The Buffet Table 🍽️](https://dev.to/anik_sikder_313/iterables-in-python-the-buffet-table-3jn5)
-- [Has Gemini 3.0 been secretly released? A look at the latest truth &amp; forecast](https://dev.to/_37bbf0c253c0b3edec531e/has-gemini-30-been-secretly-released-a-look-at-the-latest-truth-forecast-1kfd)
-- [Why Every Android Dev Should Master Arrays Before Anything Else](https://dev.to/vrushali_dev_15/why-every-android-dev-should-master-arrays-before-anything-else-3of6)
+- [COLORS: Ray Lozano | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-a-colors-show-506c)
+- [KEXP: Alien Boy - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-full-performance-live-on-kexp-oo9)
+- [🔐 Fixing the LinkedIn OAuth Login Issue — The OpenID Connect Update](https://dev.to/affectionate_code/fixing-the-linkedin-oauth-login-issue-the-openid-connect-update-4p9b)
+- [[Boost]](https://dev.to/eunice-js/-i4)
 <!-- BLOG-POST-LIST:END -->
 
 
