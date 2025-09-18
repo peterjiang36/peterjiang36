@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day - 2 of Learning Web Development](https://dev.to/prakash_b/day-2-of-learning-web-development-1nm6)
-- [How Long Does a Typical ERP Integration Take? Stats from 50+ Projects](https://dev.to/vovance/how-long-does-a-typical-erp-integration-take-stats-from-50-projects-39n7)
-- [[Boost]](https://dev.to/ben/-1gbo)
-- [If You Have a Single Mum - Read This](https://dev.to/scofieldidehen/if-you-have-a-single-mum-read-this-5bm8)
+- [GameSpot: Sonic Racing: Crossworlds Review](https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe)
+- [GameSpot: S Rank Sonic Racing: CrossWorlds Super Sonic Speed Market Street Gameplay](https://dev.to/gg_news/gamespot-s-rank-sonic-racing-crossworlds-super-sonic-speed-market-street-gameplay-3m1a)
+- [IGN: Baby Steps: The First 15 Minutes of Gameplay](https://dev.to/gg_news/ign-baby-steps-the-first-15-minutes-of-gameplay-3ebi)
+- [IGN: How GTA 6 Could Take Over Pop Culture - Unlocked Clips](https://dev.to/gg_news/ign-how-gta-6-could-take-over-pop-culture-unlocked-clips-15k1)
 <!-- BLOG-POST-LIST:END -->
 
 
