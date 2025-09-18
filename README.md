@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Up AWS Alerts to catch Cost Spikes and Security Risks](https://dev.to/secesther/set-up-aws-alerts-to-catch-cost-spikes-and-security-risks-54o3)
-- [✨ When a Community Event Turns Into a Festival of Learning – AWS Community Day Vadodara 2025](https://dev.to/aricpandya_security/when-a-community-event-turns-into-a-festival-of-learning-aws-community-day-vadodara-2025-4k8a)
-- [Groq Secures $750M: The AI Chip Startup Taking on Nvidia](https://dev.to/shiva_shanker_k/groq-secures-750m-the-ai-chip-startup-taking-on-nvidia-j5p)
-- [[gsap/physics2D] 8-Bit Snake Game - Challenge #4](https://dev.to/sathish26062004/gsapphysics2d-8-bit-snake-game-challenge-4-36eb)
+- [Buscador de Estatus Becas Benito Juárez 2025 &lpar;Actualizado&rpar;](https://dev.to/ilyas_khan_14e88f67b6657a/buscador-de-estatus-becas-benito-juarez-2025-actualizado-168m)
+- [How To Detect Hidden Cracks In Aircraft Exhaust Before They Fail Mid-Flight](https://dev.to/acornwelding_ca_4fb63d76c/how-to-detect-hidden-cracks-in-aircraft-exhaust-before-they-fail-mid-flight-3bgk)
+- [Mastering PHP Interviews: Common Questions and Expert Answers](https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki)
+- [🚀 Join Hacktoberfest 2025: Contribute to Our DSA Code Repository!](https://dev.to/karanjot786/join-hacktoberfest-2025-contribute-to-our-dsa-code-repository-7nb)
 <!-- BLOG-POST-LIST:END -->
 
 
