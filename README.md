@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building NJTRX-Style Bitcoin Price Prediction Models: A Developer&#39;s Guide to $118K Analysis](https://dev.to/njtrx/building-njtrx-style-bitcoin-price-prediction-models-a-developers-guide-to-118k-analysis-3p8a)
-- [Is AI Pushing Software Engineers to the Next Efficiency Test?](https://dev.to/louis7/is-ai-pushing-software-engineers-to-the-next-efficiency-test-52de)
-- [Automating Old Partition Cleanup in Oracle with PL/SQL](https://dev.to/mrcaption49/automating-old-partition-cleanup-in-oracle-with-plsql-2hhh)
-- [KEXP: Alien Boy - Changes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-alien-boy-changes-live-on-kexp-3igc)
+- [Day - 2 of Learning Web Development](https://dev.to/prakash_b/day-2-of-learning-web-development-1nm6)
+- [How Long Does a Typical ERP Integration Take? Stats from 50+ Projects](https://dev.to/vovance/how-long-does-a-typical-erp-integration-take-stats-from-50-projects-39n7)
+- [[Boost]](https://dev.to/ben/-1gbo)
+- [If You Have a Single Mum - Read This](https://dev.to/scofieldidehen/if-you-have-a-single-mum-read-this-5bm8)
 <!-- BLOG-POST-LIST:END -->
 
 
