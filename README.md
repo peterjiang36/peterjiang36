@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Video Streaming Platform with HTML, CSS, JS, and Skapi](https://dev.to/skapi_api/how-to-create-a-video-streaming-platform-with-html-css-js-and-skapi-2f23)
-- [Build a Serverless FAQ Bot with Skapi + Vanilla JS &lpar;No Backend Needed!&rpar;](https://dev.to/skapi_api/build-a-serverless-faq-bot-with-skapi-vanilla-js-no-backend-needed-20cj)
-- [OIDC: The Web&#39;s Universal Passport for Secure Logins](https://dev.to/leonardkachi/oidc-the-webs-universal-passport-for-secure-logins-20c5)
-- [Navigate back with results in Jetpack Compose Navigation](https://dev.to/rockandnull/navigate-back-with-results-in-jetpack-compose-navigation-46hn)
+- [Shai-Hulud: a self-propagating npm worm hits @ctrl/tinycolor and dozens more packages](https://dev.to/clouddefenseai/shai-hulud-a-self-propagating-npm-worm-hits-ctrltinycolor-and-dozens-more-packages-4j93)
+- [Why Debian packages are saver then NPM and PyPi](https://dev.to/jverhoeks/why-debian-packages-are-saver-then-npm-and-pypi-4j21)
+- [How to Migrate Your On-Premise Database to Google Cloud SQL? A Detailed Guide](https://dev.to/mehul_budasana/how-to-migrate-your-on-premise-database-to-google-cloud-sql-a-detailed-guide-21op)
+- [Data Privacy in Web3: Meeting 2025 Consumer Expectation](https://dev.to/intelisync_technology_51d/data-privacy-in-web3-meeting-2025-consumer-expectation-47mn)
 <!-- BLOG-POST-LIST:END -->
 
 
