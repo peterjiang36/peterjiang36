@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Roop model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5)
-- [使用 Zhparser 插件实现 PostgreSQL 中文全文检索](https://dev.to/axum/shi-yong-zhparser-cha-jian-shi-xian-postgresql-zhong-wen-quan-wen-jian-suo-92j)
-- [GameSpot: Dying Light: The Beast 11 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-dying-light-the-beast-11-tips-we-wish-we-knew-before-playing-40co)
-- [IGN: 3 Minutes of Psychonauts Dev&#39;s Newest Game, Keeper](https://dev.to/gg_news/ign-3-minutes-of-psychonauts-devs-newest-game-keeper-1675)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-2fom)
+- [Concurrent programming in Java: ThreadPoolExecutor](https://dev.to/chanhlt/concurrent-programming-in-java-threadpoolexecutor-9e2)
+- [Families with sum of ages of a couple over 70 years old--SPL Programming Practice](https://dev.to/esproc_spl/families-with-sum-of-ages-of-a-couple-over-70-years-old-spl-programming-practice-4gfe)
+- [Excel Grid: jQuery Plugin for Interactive Data Table](https://dev.to/jqueryscript/excel-grid-jquery-plugin-for-interactive-data-table-5ahn)
 <!-- BLOG-POST-LIST:END -->
 
 
