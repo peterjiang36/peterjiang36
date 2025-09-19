@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project of the Week: Dify](https://dev.to/pullflow/project-of-the-week-dify-5d3l)
-- [Security Hardening for Nginx: TLS, Firewalls, and Fail2Ban Basics](https://dev.to/ramer_lacida_2b58cbe46bc8/security-hardening-for-nginx-tls-firewalls-and-fail2ban-basics-22ln)
-- [The Ultimate Checklist for Building a Secure Docker CI/CD Pipeline](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-building-a-secure-docker-cicd-pipeline-4l8j)
-- [Is Apple Using Figma to Build iOS 26?](https://dev.to/hashbyt/is-apple-using-figma-to-build-ios-26-4897)
+- [That Time a Certificate Took Down Production: A DevOps Trauma Bond](https://dev.to/certkit/that-time-a-certificate-took-down-production-a-devops-trauma-bond-498e)
+- [How I built an AI-powered API to fix bugs, optimize code, and generate docs in seconds](https://dev.to/mimi800debug/how-i-built-an-ai-powered-api-to-fix-bugs-optimize-code-and-generate-docs-in-seconds-39l6)
+- [Fintech and SWIFT: How Fintech and Traditional Finance Work Together](https://dev.to/rapyd/fintech-and-swift-how-fintech-and-traditional-finance-work-together-3jk)
+- [Good Boy &lpar;v1.0&rpar; Release: Bringing a Lovable Desktop Pet to Life](https://dev.to/beginarjun/good-boy-v10-release-bringing-a-lovable-desktop-pet-to-life-239j)
 <!-- BLOG-POST-LIST:END -->
 
 
