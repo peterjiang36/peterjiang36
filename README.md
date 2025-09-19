@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a static file server in Java with sockets](https://dev.to/sadiul_hakim/building-a-static-file-server-in-java-with-sockets-p19)
-- [This week in react #250 : Activity, React Router, CSS-in-J | Expo, iOS blur, AI, Lynx, Squircle, | TC39, pnpm, Bun](https://dev.to/sebastienlorber/this-week-in-react-250-activity-react-router-css-in-j-expo-ios-blur-ai-lynx-squircle--1m3f)
-- [AOT: .NET vs Java](https://dev.to/mehrandvd/aot-net-vs-java-3e4m)
-- [O código perfeito NÃO existe - e está na hora de aceitar isso](https://dev.to/gustavo_darosaoliveira_/o-codigo-perfeito-nao-existe-e-esta-na-hora-de-aceitar-isso-3pee)
+- [Composite Design Pattern in Python....](https://dev.to/sommukhopadhyay/composite-design-pattern-in-python-4oh5)
+- [IGN: It’s Expensive Being a Nintendo Fan in 2025 - NVC Clips](https://dev.to/gg_news/ign-its-expensive-being-a-nintendo-fan-in-2025-nvc-clips-lni)
+- [IGN: Goddess of Victory: Nikke x Resident Evil - Official Reborn Evil Trailer](https://dev.to/gg_news/ign-goddess-of-victory-nikke-x-resident-evil-official-reborn-evil-trailer-2i10)
+- [Cloud Resume Challenge - Chunk 2 - Building the API](https://dev.to/tlklein/cloud-resume-challenge-chunk-2-building-the-api-4dgn)
 <!-- BLOG-POST-LIST:END -->
 
 
