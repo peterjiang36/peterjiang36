@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7-Layer Dip of State](https://dev.to/duplessisvanaswegen/the-7-layer-dip-of-state-24d2)
-- [The Dangerous Comfort of the Checkbox: Why Compliance is Not Security](https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4)
-- [Next.js App Router Deep Dive: Evolution from Pages Router and Its Latest Features](https://dev.to/learcise_health/nextjs-app-router-deep-dive-evolution-from-pages-router-and-its-latest-features-55pk)
-- [PWA in iPadOS 26 is a joke](https://dev.to/reinhart1010/pwa-in-ipados-26-is-a-joke-38g1)
+- [A beginner&#39;s guide to the Roop model by Okaris on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5)
+- [使用 Zhparser 插件实现 PostgreSQL 中文全文检索](https://dev.to/axum/shi-yong-zhparser-cha-jian-shi-xian-postgresql-zhong-wen-quan-wen-jian-suo-92j)
+- [GameSpot: Dying Light: The Beast 11 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-dying-light-the-beast-11-tips-we-wish-we-knew-before-playing-40co)
+- [IGN: 3 Minutes of Psychonauts Dev&#39;s Newest Game, Keeper](https://dev.to/gg_news/ign-3-minutes-of-psychonauts-devs-newest-game-keeper-1675)
 <!-- BLOG-POST-LIST:END -->
 
 
