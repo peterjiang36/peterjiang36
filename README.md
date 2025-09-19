@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs. C++ : An Unbiased Comparison](https://dev.to/aliaryani-security/rust-vs-c-an-unbiased-comparison-4jcg)
-- [KEXP: Mei Semones - Tora Moyo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-tora-moyo-live-on-kexp-2ojj)
-- [KEXP: Mei Semones - Kodoku &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-kodoku-live-on-kexp-pmi)
-- [KEXP: Mei Semones - Dumb Feeling &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-dumb-feeling-live-on-kexp-1dk4)
+- [Building a static file server in Java with sockets](https://dev.to/sadiul_hakim/building-a-static-file-server-in-java-with-sockets-p19)
+- [This week in react #250 : Activity, React Router, CSS-in-J | Expo, iOS blur, AI, Lynx, Squircle, | TC39, pnpm, Bun](https://dev.to/sebastienlorber/this-week-in-react-250-activity-react-router-css-in-j-expo-ios-blur-ai-lynx-squircle--1m3f)
+- [AOT: .NET vs Java](https://dev.to/mehrandvd/aot-net-vs-java-3e4m)
+- [O código perfeito NÃO existe - e está na hora de aceitar isso](https://dev.to/gustavo_darosaoliveira_/o-codigo-perfeito-nao-existe-e-esta-na-hora-de-aceitar-isso-3pee)
 <!-- BLOG-POST-LIST:END -->
 
 
