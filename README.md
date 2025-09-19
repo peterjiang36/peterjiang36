@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting to LLMs: Building a Simple HTTP Client for AI Integration](https://dev.to/gazolla/connecting-to-llms-building-a-simple-http-client-for-ai-integration-p4o)
-- [A guide to using Graphite&#39;s stacked PRs for GitHub users](https://dev.to/mjambon/a-guide-to-using-graphites-stacked-prs-for-github-users-5c47)
-- [Ultimate AI Writing Tools for Content Creators 2025](https://dev.to/coding180/ultimate-ai-writing-tools-for-content-creators-2025-42gd)
-- [IGN: Tencent Defends Horizon Clone, Claiming Sony Copied Ninja Theory First - IGN Daily Fix](https://dev.to/gg_news/ign-tencent-defends-horizon-clone-claiming-sony-copied-ninja-theory-first-ign-daily-fix-3j9a)
+- [The 7-Layer Dip of State](https://dev.to/duplessisvanaswegen/the-7-layer-dip-of-state-24d2)
+- [The Dangerous Comfort of the Checkbox: Why Compliance is Not Security](https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4)
+- [Next.js App Router Deep Dive: Evolution from Pages Router and Its Latest Features](https://dev.to/learcise_health/nextjs-app-router-deep-dive-evolution-from-pages-router-and-its-latest-features-55pk)
+- [PWA in iPadOS 26 is a joke](https://dev.to/reinhart1010/pwa-in-ipados-26-is-a-joke-38g1)
 <!-- BLOG-POST-LIST:END -->
 
 
