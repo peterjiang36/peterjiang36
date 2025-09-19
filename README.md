@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💣 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗯𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗟𝗼𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗱](https://dev.to/yaseer_arafat/-57n0)
-- [Using JSON-LD for SEO in Free DevTools &amp; Icon Websites](https://dev.to/lovestaco/using-json-ld-for-seo-in-free-devtools-icon-websites-5g3e)
-- [My experience in building the repository-context-packager tool](https://dev.to/kphero/my-experience-in-building-the-context-repository-packager-tool-4l5b)
-- [Balancing Frontend &amp; Backend: What’s the Hardest Part of Going Full-Stack Solo?](https://dev.to/kingbyno/balancing-frontend-backend-whats-the-hardest-part-of-going-full-stack-solo-3c20)
+- [Small Swoole Rx Events](https://dev.to/sebk69/small-swoole-rx-events-475g)
+- [Why You Need to Learn Functional Programming: And What It Is](https://dev.to/mahdi_javidi_2a7ecfb53faa/why-you-need-to-learn-functional-programming-and-what-it-is-5762)
+- [Release 0.1](https://dev.to/kkrishnan10/release-01-2eo0)
+- [The Hidden Empire of AI Grammar: Power Without Politicians](https://dev.to/agustin_v_startari/the-hidden-empire-of-ai-grammar-power-without-politicians-4on8)
 <!-- BLOG-POST-LIST:END -->
 
 
