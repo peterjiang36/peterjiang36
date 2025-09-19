@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shai-Hulud: a self-propagating npm worm hits @ctrl/tinycolor and dozens more packages](https://dev.to/clouddefenseai/shai-hulud-a-self-propagating-npm-worm-hits-ctrltinycolor-and-dozens-more-packages-4j93)
-- [Why Debian packages are saver then NPM and PyPi](https://dev.to/jverhoeks/why-debian-packages-are-saver-then-npm-and-pypi-4j21)
-- [How to Migrate Your On-Premise Database to Google Cloud SQL? A Detailed Guide](https://dev.to/mehul_budasana/how-to-migrate-your-on-premise-database-to-google-cloud-sql-a-detailed-guide-21op)
-- [Data Privacy in Web3: Meeting 2025 Consumer Expectation](https://dev.to/intelisync_technology_51d/data-privacy-in-web3-meeting-2025-consumer-expectation-47mn)
+- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
+- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
+- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
+- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
 <!-- BLOG-POST-LIST:END -->
 
 
