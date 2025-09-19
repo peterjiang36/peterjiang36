@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
-- [Day 11 of #90DaysOfCode – Python Name Generator 🎉](https://dev.to/momina_raheelmoona_c59/day-11-of-90daysofcode-python-name-generator-1fej)
-- [Day 52: CI/CD pipeline on AWS pt 3](https://dev.to/udoh_deborah_b1e484c474bf/day-52-cicd-pipeline-on-aws-pt-3-318g)
-- [How to Boost Remote Work Productivity: A Developer-Friendly Guide for 2025](https://dev.to/teamcamp/how-to-boost-remote-work-productivity-a-developer-friendly-guide-for-2025-2bbk)
+- [Rust vs. C++ : An Unbiased Comparison](https://dev.to/aliaryani-security/rust-vs-c-an-unbiased-comparison-4jcg)
+- [KEXP: Mei Semones - Tora Moyo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-tora-moyo-live-on-kexp-2ojj)
+- [KEXP: Mei Semones - Kodoku &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-kodoku-live-on-kexp-pmi)
+- [KEXP: Mei Semones - Dumb Feeling &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mei-semones-dumb-feeling-live-on-kexp-1dk4)
 <!-- BLOG-POST-LIST:END -->
 
 
