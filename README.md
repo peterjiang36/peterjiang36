@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Ray Lozano - HiYA | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-hiya-a-colors-show-59a)
-- [Trash Theory: The 7 Songs To Blame For Stomp Clap Hey](https://dev.to/music_youtube/trash-theory-the-7-songs-to-blame-for-stomp-clap-hey-dg0)
-- [8-Bit Music Theory: Live Transcribe Stean Gardens from Super Mario Odyssey](https://dev.to/music_youtube/8-bit-music-theory-live-transcribe-stean-gardens-from-super-mario-odyssey-2jc2)
-- [GameSpot: Ghost of Yotei Everything To Know](https://dev.to/gg_news/gamespot-ghost-of-yotei-everything-to-know-55na)
+- [The Repo Packager: My OSD600 CLI That Helps Me Learn Faster](https://dev.to/oleksandrakordonets/the-repo-packager-my-osd600-cli-that-helps-me-learn-faster-213i)
+- [Installing Openshift: The hard way!](https://dev.to/andre_rocha_b9cf185456d05/installing-openshift-the-hard-way-4oie)
+- [Supercharge Your AI Agents with a Custom RAG Pipeline Powered by Live Web Data](https://dev.to/extractdata/supercharge-your-ai-agents-with-a-custom-rag-pipeline-powered-by-live-web-data-57fl)
+- [Behavioral interview Preparation](https://dev.to/ashutoshsarangi/behavioral-interview-preparation-93e)
 <!-- BLOG-POST-LIST:END -->
 
 
