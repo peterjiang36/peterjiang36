@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Repo Packager: My OSD600 CLI That Helps Me Learn Faster](https://dev.to/oleksandrakordonets/the-repo-packager-my-osd600-cli-that-helps-me-learn-faster-213i)
-- [Installing Openshift: The hard way!](https://dev.to/andre_rocha_b9cf185456d05/installing-openshift-the-hard-way-4oie)
-- [Supercharge Your AI Agents with a Custom RAG Pipeline Powered by Live Web Data](https://dev.to/extractdata/supercharge-your-ai-agents-with-a-custom-rag-pipeline-powered-by-live-web-data-57fl)
-- [Behavioral interview Preparation](https://dev.to/ashutoshsarangi/behavioral-interview-preparation-93e)
+- [💣 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗯𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗟𝗼𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗱](https://dev.to/yaseer_arafat/-57n0)
+- [Using JSON-LD for SEO in Free DevTools &amp; Icon Websites](https://dev.to/lovestaco/using-json-ld-for-seo-in-free-devtools-icon-websites-5g3e)
+- [My experience in building the repository-context-packager tool](https://dev.to/kphero/my-experience-in-building-the-context-repository-packager-tool-4l5b)
+- [Balancing Frontend &amp; Backend: What’s the Hardest Part of Going Full-Stack Solo?](https://dev.to/kingbyno/balancing-frontend-backend-whats-the-hardest-part-of-going-full-stack-solo-3c20)
 <!-- BLOG-POST-LIST:END -->
 
 
