@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pick a Translation API Without Regrets in 2025](https://dev.to/naitsirhc/pick-a-translation-api-without-regrets-in-2025-3fa6)
-- [IGN: Dying Light: The Beast - Tutorial, First Boss, &amp; First Open World Moments](https://dev.to/gg_news/ign-dying-light-the-beast-tutorial-first-boss-first-open-world-moments-2k4e)
-- [IGN: Donkey Kong Bananza: DK Island and Emerald Rush Review](https://dev.to/gg_news/ign-donkey-kong-bananza-dk-island-and-emerald-rush-review-4gmo)
-- [All I need is ... the laptop screen!](https://dev.to/bekbrace/all-i-need-is-the-laptop-screen-4kfn)
+- [U.S. vs. China: The Rivalry for AI Supremacy](https://dev.to/trigma25/us-vs-china-the-rivalry-for-ai-supremacy-3mk9)
+- [Teleport a Component in Angular &lpar;and Keep Its State&rpar;](https://dev.to/brianmtreese/teleport-a-component-in-angular-and-keep-its-state-590e)
+- [Bugs wear data. Let&#39;s check Apache NiFi](https://dev.to/pvsdev/bugs-wear-data-lets-check-apache-nifi-2ehk)
+- [Shad cn vue Like Nuxt/Vue Librarys :fire:](https://dev.to/leamsigc/shad-cn-vue-like-nuxtvue-librarys-fire-23k8)
 <!-- BLOG-POST-LIST:END -->
 
 
