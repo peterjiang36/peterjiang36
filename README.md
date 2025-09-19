@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ 20 multi threaded programming - the introduction of std::atomic...](https://dev.to/sommukhopadhyay/c-20-multi-threaded-programming-the-introduction-of-stdatomic-1cog)
-- [Mastering Laravel 12 Events: How to Define and Control Listener Execution Order with O&lpar;1&rpar; Complexity](https://dev.to/cmmishra9/mastering-laravel-12-events-how-to-define-and-control-listener-execution-order-with-o1-complexity-4id2)
-- [Spring AOP and Kotlin coroutines - What is wrong with Kotlin + SpringBoot](https://dev.to/vishesh/learning-spring-aop-and-kotlin-coroutines-what-is-wrong-with-kotlin-springboot-5417)
-- [Modernize Open Source Bootstrap 5 Admin Dashboard Template](https://dev.to/vaibhavg/modernize-open-source-bootstrap-5-admin-dashboard-template-bao)
+- [Pick a Translation API Without Regrets in 2025](https://dev.to/naitsirhc/pick-a-translation-api-without-regrets-in-2025-3fa6)
+- [IGN: Dying Light: The Beast - Tutorial, First Boss, &amp; First Open World Moments](https://dev.to/gg_news/ign-dying-light-the-beast-tutorial-first-boss-first-open-world-moments-2k4e)
+- [IGN: Donkey Kong Bananza: DK Island and Emerald Rush Review](https://dev.to/gg_news/ign-donkey-kong-bananza-dk-island-and-emerald-rush-review-4gmo)
+- [All I need is ... the laptop screen!](https://dev.to/bekbrace/all-i-need-is-the-laptop-screen-4kfn)
 <!-- BLOG-POST-LIST:END -->
 
 
