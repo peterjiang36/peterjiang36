@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [That Time a Certificate Took Down Production: A DevOps Trauma Bond](https://dev.to/certkit/that-time-a-certificate-took-down-production-a-devops-trauma-bond-498e)
-- [How I built an AI-powered API to fix bugs, optimize code, and generate docs in seconds](https://dev.to/mimi800debug/how-i-built-an-ai-powered-api-to-fix-bugs-optimize-code-and-generate-docs-in-seconds-39l6)
-- [Fintech and SWIFT: How Fintech and Traditional Finance Work Together](https://dev.to/rapyd/fintech-and-swift-how-fintech-and-traditional-finance-work-together-3jk)
-- [Good Boy &lpar;v1.0&rpar; Release: Bringing a Lovable Desktop Pet to Life](https://dev.to/beginarjun/good-boy-v10-release-bringing-a-lovable-desktop-pet-to-life-239j)
+- [From Zero to Java: Day 2 of My Backend Development Journey](https://dev.to/chandana_prabhakar/from-zero-to-java-day-2-of-my-backend-development-journey-4go6)
+- [Manual Testing in the AI Era](https://dev.to/pooja_shyam_643fff420b3a8/manual-testing-in-the-ai-era-2273)
+- [Virtualization vs. Containerization: The Ultimate Showdown](https://dev.to/raj_singhal/virtualization-vs-containerization-the-ultimate-showdown-gij)
+- [The Evolution of AI Technology: Opportunities, Challenges, and the Road Ahead](https://dev.to/keya_khatun_b0884129bc101/the-evolution-of-ai-technology-opportunities-challenges-and-the-road-ahead-1a89)
 <!-- BLOG-POST-LIST:END -->
 
 
