@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Sampling: Everything you need to know about Head and Tail Sampling](https://dev.to/agardnerit/opentelemetry-sampling-everything-you-need-to-know-about-head-and-tail-sampling-3cjo)
-- [Why I Chose Rust for My OSD600 Project &lpar;And What I Learned&rpar;](https://dev.to/david_rivera_8d845b35931e/why-i-chose-rust-for-my-osd600-project-and-what-i-learned-5gh1)
-- [Converting IAM Users to Roles: A Complete Web-Based Solution](https://dev.to/gajjarashish/converting-iam-users-to-roles-a-complete-web-based-solution-1e0g)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-1h05)
+- [Contributing a Code Change to an Open Source Project](https://dev.to/hsachdeva9/contributing-a-code-change-to-an-open-source-project-188l)
+- [IGN: Sonic Racing: CrossWorlds Review](https://dev.to/gg_news/ign-sonic-racing-crossworlds-review-2180)
+- [I put together 16,223 Free n8n Workflows for Everyone to Use](https://dev.to/vicckylove/i-put-together-16223-free-n8nworkflows-for-everyone-to-use-3djp)
+- [Design Patterns MCP Server: Give Your Project a Professional Touch](https://dev.to/einarcesar/design-patterns-mcp-server-give-your-project-a-professional-touch-3pjc)
 <!-- BLOG-POST-LIST:END -->
 
 
