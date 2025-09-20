@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python’s rules for hashing](https://dev.to/vivis_dev/understanding-pythons-rules-for-hashing-3jl)
-- [Understanding Context Window Size in LLMs](https://dev.to/jiminlee/understanding-context-window-size-in-llms-3aof)
-- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://dev.to/technoblogger14o3/less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks-1j2p)
-- [Top 10 JavaScript Tips Every Developer Should Know](https://dev.to/pjdeveloper896/top-10-javascript-tips-every-developer-should-know-478h)
+- [IGN: Sonic Racing: CrossWorlds - Blazing Fast Super Sonic and Hatsune Miku Gameplay](https://dev.to/gg_news/ign-sonic-racing-crossworlds-blazing-fast-super-sonic-and-hatsune-miku-gameplay-5h7m)
+- [IGN: Nintendo Switch 2’s First 100 Days Report Card - Next-Gen Console Watch](https://dev.to/gg_news/ign-nintendo-switch-2s-first-100-days-report-card-next-gen-console-watch-aod)
+- [IGN: Hollow Knight: Silksong - How to Make It Through Bilewater](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-make-it-through-bilewater-1n17)
+- [IGN: Is Nintendo Switch 2 Off to a Good Start? - NVC Clips](https://dev.to/gg_news/ign-is-nintendo-switch-2-off-to-a-good-start-nvc-clips-3j0a)
 <!-- BLOG-POST-LIST:END -->
 
 
