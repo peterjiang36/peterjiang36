@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Guía de Estudio para el Certificado AWS AI Practitioner](https://dev.to/franciscojeg78/guia-de-estudio-para-el-certificado-aws-ai-practitioner-4kna)
-- [Welcome to the World of Embedded Systems with Python](https://dev.to/avid_coders/welcome-to-the-world-of-embedded-systems-with-python-7l1)
-- [IGN: To Your Eternity Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-to-your-eternity-season-3-official-trailer-english-subtitles-3da)
-- [IGN: Trails in the Sky 1st Chapter - The First 20 Minutes](https://dev.to/gg_news/ign-trails-in-the-sky-1st-chapter-the-first-20-minutes-61)
+- [OpenTelemetry Sampling: Everything you need to know about Head and Tail Sampling](https://dev.to/agardnerit/opentelemetry-sampling-everything-you-need-to-know-about-head-and-tail-sampling-3cjo)
+- [Why I Chose Rust for My OSD600 Project &lpar;And What I Learned&rpar;](https://dev.to/david_rivera_8d845b35931e/why-i-chose-rust-for-my-osd600-project-and-what-i-learned-5gh1)
+- [Converting IAM Users to Roles: A Complete Web-Based Solution](https://dev.to/gajjarashish/converting-iam-users-to-roles-a-complete-web-based-solution-1e0g)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer_lacida_2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-1h05)
 <!-- BLOG-POST-LIST:END -->
 
 
