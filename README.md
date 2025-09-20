@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
-- [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
-- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
-- [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
+- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674)
+- [Full Guide: Integrating MongoDB with Spring Boot &lpar;CRUD, Lombok, Transactions, Atlas&rpar;](https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46)
+- [Blockchain as a Database: Hype or a Real Alternative?](https://dev.to/dct_technology/blockchain-as-a-database-hype-or-a-real-alternative-5c39)
+- [Ethical UX: Should Designers Be Responsible for User Addiction?](https://dev.to/dct_technology/ethical-ux-should-designers-be-responsible-for-user-addiction-1jnd)
 <!-- BLOG-POST-LIST:END -->
 
 
