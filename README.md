@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b)
-- [IGN: GTA 6 and Witcher 4 Prove the Console Wars Are Over, Base PS5 Won.](https://dev.to/gg_news/ign-gta-6-and-witcher-4-prove-the-console-wars-are-over-base-ps5-won-4mjp)
-- [Setting Up Your Local Development Environment &lpar;Part 2&rpar;](https://dev.to/prashant/setting-up-your-local-development-environment-part-2-5808)
-- [SQLite dot commands: Output mode separator command](https://dev.to/mr_destructive/sqlite-dot-commands-output-mode-separator-command-4656)
+- [Understanding Python’s rules for hashing](https://dev.to/vivis_dev/understanding-pythons-rules-for-hashing-3jl)
+- [Understanding Context Window Size in LLMs](https://dev.to/jiminlee/understanding-context-window-size-in-llms-3aof)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://dev.to/technoblogger14o3/less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks-1j2p)
+- [Top 10 JavaScript Tips Every Developer Should Know](https://dev.to/pjdeveloper896/top-10-javascript-tips-every-developer-should-know-478h)
 <!-- BLOG-POST-LIST:END -->
 
 
