@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I play the FIRST EVER Ryder Cup Course...](https://dev.to/youtube_golf/peter-finch-golf-i-play-the-first-ever-ryder-cup-course-509n)
-- [Criando uma simples API RESTful com PHP e CodeIgniter](https://dev.to/matheussesso/criando-uma-api-restful-com-codeigniter-4-56b)
-- [From 0 to 0.1](https://dev.to/abhinavintech/from-0-to-01-4ki6)
-- [AI Agents in QA: Revolution or Risk?](https://dev.to/tanvi_mittal_9996387d280/ai-agents-in-qa-revolution-or-risk-24of)
+- [Battle of the AI Titans: Claude vs. ChatGPT—Who’s Winning the Upgrade War?](https://dev.to/aiwithapex/battle-of-the-ai-titans-claude-vs-chatgpt-whos-winning-the-upgrade-war-2ok9)
+- [Boosting Page Speed with HTML, CSS, and JS Minifiers — A Developer’s Guide](https://dev.to/jaybarker/boosting-page-speed-with-html-css-and-js-minifiers-a-developers-guide-d03)
+- [Income Tax Return Filing &lpar;ITR&rpar;](https://dev.to/madgan95/income-tax-return-filing-itr-33lh)
+- [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
 <!-- BLOG-POST-LIST:END -->
 
 
