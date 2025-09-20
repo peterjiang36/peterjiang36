@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8)
-- [GameSpot: LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer](https://dev.to/gg_news/gamespot-lego-batman-legacy-of-the-dark-knight-official-batman-day-behind-the-scenes-trailer-4a44)
-- [IGN: LEGO Batman: Legacy of the Dark Knight - Official &#39;Batman Day 2025&#39; Behind the Scenes Clip](https://dev.to/gg_news/ign-lego-batman-legacy-of-the-dark-knight-official-batman-day-2025-behind-the-scenes-clip-9o9)
-- [Google Play Store Validation: When Good Apps Meet Bad Processes](https://dev.to/hiromis_rosamartinezmar/google-play-store-validation-when-good-apps-meet-bad-processes-3o7o)
+- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
+- [From SVG to PNG: Copy &amp; Download with Konva.js](https://dev.to/lovestaco/from-svg-to-png-copy-download-with-konvajs-1ab2)
+- [The Unseen Conductor: Orchestrating App Notifications with EventBus](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
+- [How I Transformed My Old Gaming PC into a Powerful Home Server](https://dev.to/kushagrakasbi/how-i-transformed-my-old-gaming-pc-into-a-powerful-home-server-12gn)
 <!-- BLOG-POST-LIST:END -->
 
 
