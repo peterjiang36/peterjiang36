@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CardDOM in C++: Ownership, Cycles, and Smart Pointers](https://dev.to/karol11/carddom-in-c-ownership-cycles-and-smart-pointers-5fdj)
-- [Object-Oriented JavaScript: A Practical Guide with Examples](https://dev.to/hellonehha/object-oriented-javascript-a-practical-guide-with-examples-10d)
-- [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
-- [Cracking System Design Interviews: A Tactical Deep-Dive for Developers](https://dev.to/satyam_chourasiya_99ea2e4/cracking-system-design-interviews-a-tactical-deep-dive-for-developers-1ffm)
+- [IGN: Renown - Official Early Access Launch Trailer](https://dev.to/gg_news/ign-renown-official-early-access-launch-trailer-5ac5)
+- [IGN: Diablo 4 - Official Class Updates Developer Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-class-updates-developer-overview-trailer-1e0b)
+- [Setting Up Kubernetes on Windows with Minikube &lpar;Step-by-Step Guide&rpar;](https://dev.to/abhishek_korde_31/setting-up-kubernetes-on-windows-with-minikube-step-by-step-guide-460j)
+- [Backend Development Roadmap &lpar;Beginner to Advanced&rpar;](https://dev.to/tech_girllll/backend-development-roadmap-beginner-to-advanced-2nja)
 <!-- BLOG-POST-LIST:END -->
 
 
