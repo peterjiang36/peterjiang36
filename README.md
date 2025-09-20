@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [tauri-helper: A Rust Utility to Auto-Collect Tauri Commands](https://dev.to/riadyan/tauri-helper-a-rust-utility-to-auto-collect-tauri-commands-32b4)
-- [From SVG to PNG: Copy &amp; Download with Konva.js](https://dev.to/lovestaco/from-svg-to-png-copy-download-with-konvajs-1ab2)
-- [The Unseen Conductor: Orchestrating App Notifications with EventBus](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
-- [How I Transformed My Old Gaming PC into a Powerful Home Server](https://dev.to/kushagrakasbi/how-i-transformed-my-old-gaming-pc-into-a-powerful-home-server-12gn)
+- [Git &amp; GitHub: A Beginner’s Complete Guide](https://dev.to/tapobanray/git-github-a-complete-beginners-guide-47on)
+- [Text Joiner – Join Texts with Delimiter](https://dev.to/tadatools/text-joiner-join-texts-with-delimiter-pha)
+- [Exploring Neo4j for E-commerce: Building a Connected Data Graph](https://dev.to/aditya_kumar_d7224b52f098/exploring-neo4j-for-e-commerce-building-a-connected-data-graph-emf)
+- [Number Remover – Remove Numbers from Text](https://dev.to/tadatools/number-remover-remove-numbers-from-text-4j20)
 <!-- BLOG-POST-LIST:END -->
 
 
