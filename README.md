@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Sonic Racing: CrossWorlds - Blazing Fast Super Sonic and Hatsune Miku Gameplay](https://dev.to/gg_news/ign-sonic-racing-crossworlds-blazing-fast-super-sonic-and-hatsune-miku-gameplay-5h7m)
-- [IGN: Nintendo Switch 2’s First 100 Days Report Card - Next-Gen Console Watch](https://dev.to/gg_news/ign-nintendo-switch-2s-first-100-days-report-card-next-gen-console-watch-aod)
-- [IGN: Hollow Knight: Silksong - How to Make It Through Bilewater](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-make-it-through-bilewater-1n17)
-- [IGN: Is Nintendo Switch 2 Off to a Good Start? - NVC Clips](https://dev.to/gg_news/ign-is-nintendo-switch-2-off-to-a-good-start-nvc-clips-3j0a)
+- [Научи се кога да СПРЕШ с проучването и търсенето на решения, когато програмираш!](https://dev.to/dvt32/nauchi-sie-kogha-da-spriesh-s-prouchvanieto-i-trsienieto-na-rieshieniia-koghato-proghramirash-3gk5)
+- [Client-Side Storage: Types and Usage](https://dev.to/the_realteckyguy/client-side-storage-types-and-usage-10c1)
+- [Coding Challenge Practice - Question 11](https://dev.to/tomivan/coding-challenge-practice-question-11-gfl)
+- [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-45d3)
 <!-- BLOG-POST-LIST:END -->
 
 
