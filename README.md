@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments](https://dev.to/johnbulla/alloydb-omni-postgresql-optimized-for-hybrid-and-multicloud-environments-4991)
-- [How I Built a Serverless Data Analytics Pipeline for Customer Churn with S3, Glue, Athena, and QuickSight](https://dev.to/ajithmanmu/how-i-built-a-serverless-data-analytics-pipeline-for-customer-churn-with-s3-glue-athena-and-bfk)
-- [Next-Gen Auditing: Unlocking AWS CloudTrail with MCP Server](https://dev.to/aws-builders/next-gen-auditing-unlocking-aws-cloudtrail-with-mcp-server-5dll)
-- [Nushell: paradigm shift in shells](https://dev.to/mcheremnov/nushell-paradigm-shift-in-shells-pna)
+- [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8)
+- [GameSpot: LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer](https://dev.to/gg_news/gamespot-lego-batman-legacy-of-the-dark-knight-official-batman-day-behind-the-scenes-trailer-4a44)
+- [IGN: LEGO Batman: Legacy of the Dark Knight - Official &#39;Batman Day 2025&#39; Behind the Scenes Clip](https://dev.to/gg_news/ign-lego-batman-legacy-of-the-dark-knight-official-batman-day-2025-behind-the-scenes-clip-9o9)
+- [Google Play Store Validation: When Good Apps Meet Bad Processes](https://dev.to/hiromis_rosamartinezmar/google-play-store-validation-when-good-apps-meet-bad-processes-3o7o)
 <!-- BLOG-POST-LIST:END -->
 
 
