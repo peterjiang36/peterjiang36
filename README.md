@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS to n8n: A Developer&#39;s Guide to Smarter Workflow Automation](https://dev.to/shieldstring/nodejs-to-n8n-a-developers-guide-to-smarter-workflow-automation-2bjc)
-- [Compiling LLVM and Running Your First Dummy Pass](https://dev.to/cppchedy/compiling-llvm-and-running-your-first-dummy-pass-2an5)
-- [10 Common JavaScript Pitfalls &lpar;and How to Avoid Them&rpar;](https://dev.to/baransel/10-common-javascript-pitfalls-and-how-to-avoid-them-40i)
-- [Running Gemma 2B on Kubernetes &lpar;k3d&rpar; with Ollama: A Complete Local AI Setup](https://dev.to/sumit_roy9007/running-gemma-2b-on-kubernetes-k3d-with-ollama-a-complete-local-ai-setup-2knp)
+- [🤖 Guía de Estudio para el Certificado AWS AI Practitioner](https://dev.to/franciscojeg78/guia-de-estudio-para-el-certificado-aws-ai-practitioner-4kna)
+- [Welcome to the World of Embedded Systems with Python](https://dev.to/avid_coders/welcome-to-the-world-of-embedded-systems-with-python-7l1)
+- [IGN: To Your Eternity Season 3 - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-to-your-eternity-season-3-official-trailer-english-subtitles-3da)
+- [IGN: Trails in the Sky 1st Chapter - The First 20 Minutes](https://dev.to/gg_news/ign-trails-in-the-sky-1st-chapter-the-first-20-minutes-61)
 <!-- BLOG-POST-LIST:END -->
 
 
