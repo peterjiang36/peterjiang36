@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Научи се кога да СПРЕШ с проучването и търсенето на решения, когато програмираш!](https://dev.to/dvt32/nauchi-sie-kogha-da-spriesh-s-prouchvanieto-i-trsienieto-na-rieshieniia-koghato-proghramirash-3gk5)
-- [Client-Side Storage: Types and Usage](https://dev.to/the_realteckyguy/client-side-storage-types-and-usage-10c1)
-- [Coding Challenge Practice - Question 11](https://dev.to/tomivan/coding-challenge-practice-question-11-gfl)
-- [# Introduction](https://dev.to/maria_adde_3cdb7ecaeb3d56/-introduction-45d3)
+- [Golf.com: A Night in the Life of Bethpage Black Overnighters](https://dev.to/youtube_golf/golfcom-a-night-in-the-life-of-bethpage-black-overnighters-2olf)
+- [IGN: Our Biggest Bails and Goofiest Fails In Skate](https://dev.to/gg_news/ign-our-biggest-bails-and-goofiest-fails-in-skate-lm5)
+- [IGN: One Battle After Another Stars on Paul Thomas Anderson&#39;s Best Movies](https://dev.to/gg_news/ign-one-battle-after-another-stars-on-paul-thomas-andersons-best-movies-40gc)
+- [IGN: Endless Legend 2 - 24 Minutes of Necrophage Developer Gameplay Overview](https://dev.to/gg_news/ign-endless-legend-2-24-minutes-of-necrophage-developer-gameplay-overview-503b)
 <!-- BLOG-POST-LIST:END -->
 
 
