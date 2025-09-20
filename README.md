@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Frontend Teams: Lessons Learned](https://dev.to/aleksandr_ryzhikov/building-scalable-frontend-teams-lessons-learned-124i)
-- [How to Setup Secure Email Server](https://dev.to/firatkiral/how-to-setup-secure-email-server-2i1p)
-- [Apache Kafka &amp; Amazon MSK: The Beating Heart of Real-Time Data](https://dev.to/leonardkachi/apache-kafka-amazon-msk-the-beating-heart-of-real-time-data-4e95)
-- [Proxy Design Pattern in Java: Your Middleman for Performance &amp; Security!](https://dev.to/priyankbhardwaj1199/proxy-design-pattern-in-java-your-middleman-for-performance-security-3ch9)
+- [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
+- [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
+- [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
+- [Clprolf Docs #6 — The underst Method Modifier](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-6-the-underst-method-modifier-55pf)
 <!-- BLOG-POST-LIST:END -->
 
 
