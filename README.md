@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer](https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h)
-- [Things to do when bored for artists during a break](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-artists-during-a-break-2j0d)
-- [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
-- [Clprolf Docs #6 — The underst Method Modifier](https://dev.to/charles_koffler_bcabc582b/clprolf-docs-6-the-underst-method-modifier-55pf)
+- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
+- [Django REST Framework Authentication: JWT, OAuth2, and Session](https://dev.to/djamware_tutorial_eba1a61/django-rest-framework-authentication-jwt-oauth2-and-session-npk)
+- [Event-Driven Architecture with Blockchain: Use Kafka/MSK and Blockchain Logs](https://dev.to/smritisatyan/event-driven-architecture-with-blockchain-use-kafkamsk-and-blockchain-logs-f5n)
+- [Getting fields from a &quot;linked&quot; Sitecore rendering parameter - good news, bad news](https://dev.to/kmac23va/need-fields-in-a-linked-rendering-parameter-so-close-2lo4)
 <!-- BLOG-POST-LIST:END -->
 
 
