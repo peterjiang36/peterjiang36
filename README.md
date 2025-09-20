@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your CEO Says &#39;Let&#39;s Use AI&#39;: A Technology Selection Survival Guide](https://dev.to/_768dd7ab130016ab8b0a/when-your-ceo-says-lets-use-ai-a-technology-selection-survival-guide-4m6h)
-- [🧠How to use AI more efficiently for free &lpar;Serena MCP&rpar;🧐](https://dev.to/webdeveloperhyper/how-to-use-ai-more-efficiently-for-free-serena-mcp-5gj6)
-- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
-- [Beyond the Firewall: Why Every Developer Needs an Adversarial Mindset](https://dev.to/gnomeman4201/beyond-the-firewall-why-every-developer-needs-an-adversarial-mindset-3hk)
+- [Peter Finch Golf: I play the FIRST EVER Ryder Cup Course...](https://dev.to/youtube_golf/peter-finch-golf-i-play-the-first-ever-ryder-cup-course-509n)
+- [Criando uma simples API RESTful com PHP e CodeIgniter](https://dev.to/matheussesso/criando-uma-api-restful-com-codeigniter-4-56b)
+- [From 0 to 0.1](https://dev.to/abhinavintech/from-0-to-01-4ki6)
+- [AI Agents in QA: Revolution or Risk?](https://dev.to/tanvi_mittal_9996387d280/ai-agents-in-qa-revolution-or-risk-24of)
 <!-- BLOG-POST-LIST:END -->
 
 
