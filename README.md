@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Architected CockroachDB the Wrong Way &lpar;And It Works](https://dev.to/omnarayan/we-architected-cockroachdb-the-wrong-way-and-it-works-28fm)
-- [Danny Maude: Strike Your Irons Pure - Do This Before You Swing](https://dev.to/youtube_golf/danny-maude-strike-your-irons-pure-do-this-before-you-swing-1di7)
-- [How to Launch a Newspaper Website Using a PHP Script](https://dev.to/azizur_rahman/how-to-launch-a-newspaper-website-using-a-php-script-1mdc)
-- [Kafka Made Simple: A Hands-On Quickstart with Docker and Spring Boot](https://dev.to/aratax/kafka-made-simple-a-hands-on-quickstart-with-docker-and-spring-boot-180i)
+- [Building Scalable Frontend Teams: Lessons Learned](https://dev.to/aleksandr_ryzhikov/building-scalable-frontend-teams-lessons-learned-124i)
+- [How to Setup Secure Email Server](https://dev.to/firatkiral/how-to-setup-secure-email-server-2i1p)
+- [Apache Kafka &amp; Amazon MSK: The Beating Heart of Real-Time Data](https://dev.to/leonardkachi/apache-kafka-amazon-msk-the-beating-heart-of-real-time-data-4e95)
+- [Proxy Design Pattern in Java: Your Middleman for Performance &amp; Security!](https://dev.to/priyankbhardwaj1199/proxy-design-pattern-in-java-your-middleman-for-performance-security-3ch9)
 <!-- BLOG-POST-LIST:END -->
 
 
