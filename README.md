@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git &amp; GitHub: A Beginner’s Complete Guide](https://dev.to/tapobanray/git-github-a-complete-beginners-guide-47on)
-- [Text Joiner – Join Texts with Delimiter](https://dev.to/tadatools/text-joiner-join-texts-with-delimiter-pha)
-- [Exploring Neo4j for E-commerce: Building a Connected Data Graph](https://dev.to/aditya_kumar_d7224b52f098/exploring-neo4j-for-e-commerce-building-a-connected-data-graph-emf)
-- [Number Remover – Remove Numbers from Text](https://dev.to/tadatools/number-remover-remove-numbers-from-text-4j20)
+- [CardDOM in C++: Ownership, Cycles, and Smart Pointers](https://dev.to/karol11/carddom-in-c-ownership-cycles-and-smart-pointers-5fdj)
+- [Object-Oriented JavaScript: A Practical Guide with Examples](https://dev.to/hellonehha/object-oriented-javascript-a-practical-guide-with-examples-10d)
+- [Event Adapters in Rimmel.js: Decoupling View &amp; Model for Clean, Testable UI](https://dev.to/draco_the_drake/event-adapters-in-rimmeljs-decoupling-view-model-for-clean-testable-ui-1e6a)
+- [Cracking System Design Interviews: A Tactical Deep-Dive for Developers](https://dev.to/satyam_chourasiya_99ea2e4/cracking-system-design-interviews-a-tactical-deep-dive-for-developers-1ffm)
 <!-- BLOG-POST-LIST:END -->
 
 
