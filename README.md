@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
-- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
-- [Turning Free Users into Paying Customers &lpar;With Code-Like Thinking&rpar;](https://dev.to/soasme/turning-free-users-into-paying-customers-with-code-like-thinking-2fjb)
-- [🎉 Thank You for 4K Followers on Dev.to 🚀](https://dev.to/pjdeveloper896/thank-you-for-4k-followers-on-devto-9jj)
+- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh)
+- [🎭✨ Bringing Interfaces to Life with Theatre.js ✨🎭](https://dev.to/dmsmenula/bringing-interfaces-to-life-with-theatrejs-3apm)
+- [Part-74: Implement a Regional External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-74-implement-a-regional-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-5a5k)
+- [🚀 My Event at GTU: Learning About GenAI, Vector Databases, RAG &amp; MCP with AWS](https://dev.to/dhavalmojidra/my-event-at-gtu-learning-about-genai-vector-databases-rag-mcp-with-aws-4e99)
 <!-- BLOG-POST-LIST:END -->
 
 
