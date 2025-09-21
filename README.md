@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with the Perfect Bitcoin Wallet](https://dev.to/krikri2025/my-experience-with-the-perfect-bitcoin-wallet-1f6f)
-- [My private cloud in my Homelab](https://dev.to/0xjeanpierre/my-private-cloud-in-my-homelab-4em)
-- [Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation.](https://dev.to/jaideepparashar/most-developers-still-think-of-ai-as-just-a-code-generator-but-the-real-power-lies-in-using-ai-3ba)
-- [AI for Developers: 5 Workflows That Cut Coding Time in Half](https://dev.to/jaideepparashar/ai-for-developers-5-workflows-that-cut-coding-time-in-half-1enc)
+- [My Journey to the Ideal Operating System: From Ubuntu to Manjaro](https://dev.to/krikri2025/my-journey-to-the-ideal-operating-system-from-ubuntu-to-manjaro-1pej)
+- [What Does being a Human mean and why?](https://dev.to/francis_galarza_3f4d79a87/what-does-being-a-human-mean-and-why-2ni)
+- [LetsCloud anuncia segunda expansão em Fortaleza e é destaque no iMasters](https://dev.to/letscloud/letscloud-anuncia-segunda-expansao-em-fortaleza-e-e-destaque-no-imasters-1a40)
+- [The future of HPC is C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
 <!-- BLOG-POST-LIST:END -->
 
 
