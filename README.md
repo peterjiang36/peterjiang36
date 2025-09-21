@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Big O Notation: Examples](https://dev.to/talaamm/big-o-notation-examples-4ej)
-- [Building Production-Ready AWS Three-Tier Architecture with Terraform and GitOps](https://dev.to/rmendoza/building-production-ready-aws-three-tier-architecture-with-terraform-and-gitops-1kfn)
-- [What is Elastic Fabric Adapter EFA &lpar;Tightly-Coupled HPC&rpar;](https://dev.to/wakeup_flower_8591a6cb6a9/what-is-elastic-fabric-adapter-efa-tightly-coupled-hpc-c4o)
-- [Automating CAPA Report Generation from Images Using n8n 🤖📸](https://dev.to/sagar_jariwala_30fafe8395/automating-capa-report-generation-from-images-using-n8n-43d1)
+- [Resourcing Plan: Aligning People and Resources for Project Success](https://dev.to/writegenic/resourcing-plan-aligning-people-and-resources-for-project-success-1k9e)
+- [To Cache or Not to Cache: A Practical Decision Tree for Engineers](https://dev.to/zaheetdev/to-cache-or-not-to-cache-a-practical-decision-tree-for-engineers-2pfi)
+- [Four Disaster Recovery &lpar;DR&rpar; strategies in AWS explained](https://dev.to/wakeup_flower_8591a6cb6a9/four-disaster-recovery-dr-strategies-in-aws-explained-22ph)
+- [Getting Started with Python](https://dev.to/willwritescode/getting-started-with-python-2o9f)
 <!-- BLOG-POST-LIST:END -->
 
 
