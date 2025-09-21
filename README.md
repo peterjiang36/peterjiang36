@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Git: Features Every Young Professional Should Know in 2025](https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb)
-- [🎯 Master the Move Zeros Algorithm:](https://dev.to/mohamad_mhana/master-the-move-zeros-algorithm-46aa)
-- [Deep Web vs Dark Web - What&#39;s Real and What&#39;s Myth?](https://dev.to/mohamed_essam_27afebce427/deep-web-vs-dark-web-whats-real-and-whats-myth-415a)
-- [5 Advanced Solidity Modifier Tricks](https://dev.to/loading_blocks/5-advanced-solidity-modifier-tricks-lbg)
+- [C# HTML to PDF: Puppeteer Sharp Alternatives &lpar;A Comparison&rpar;](https://dev.to/mhamzap10/c-html-to-pdf-puppeteer-sharp-alternatives-a-comparison-4oll)
+- [🔐 Enabling Easy Auth for Azure Logic Apps &lpar;Standard&rpar;](https://dev.to/imdj/enabling-easy-auth-for-azure-logic-apps-standard-1m2i)
+- [CMD Linux-Like Toolkit &lpar;Batch + PowerShell&rpar;](https://dev.to/techy4shri/linux-command-aliases-for-windows--3oh6)
+- [Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code](https://dev.to/abdul_shamim/building-smarter-project-models-how-we-handle-complex-cashflow-calculations-in-code-2nmg)
 <!-- BLOG-POST-LIST:END -->
 
 
