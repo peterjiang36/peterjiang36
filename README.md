@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics](https://dev.to/gagreatprogrammer/the-psychology-of-social-engineering-a-deep-dive-into-modern-manipulation-tactics-3bid)
-- [Things to do when bored for students when you are watching tv](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-students-when-you-are-watching-tv-330f)
-- [[Boost]](https://dev.to/amrosama57/-59di)
-- [Dokploy is such a breath of fresh air in the overcrowded cloud hosting space. perfect for small projects that don&#39;t need the scale up-front.](https://dev.to/squishy/dokploy-is-such-a-breath-of-fresh-air-in-the-overcrowded-cloud-hosting-space-perfect-for-small-26le)
+- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
+- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
+- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
+- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
 <!-- BLOG-POST-LIST:END -->
 
 
