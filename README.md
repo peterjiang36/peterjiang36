@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to the Ideal Operating System: From Ubuntu to Manjaro](https://dev.to/krikri2025/my-journey-to-the-ideal-operating-system-from-ubuntu-to-manjaro-1pej)
-- [What Does being a Human mean and why?](https://dev.to/francis_galarza_3f4d79a87/what-does-being-a-human-mean-and-why-2ni)
-- [LetsCloud anuncia segunda expansão em Fortaleza e é destaque no iMasters](https://dev.to/letscloud/letscloud-anuncia-segunda-expansao-em-fortaleza-e-e-destaque-no-imasters-1a40)
-- [The future of HPC is C++](https://dev.to/dyfet/the-future-of-hpc-c-i2h)
+- [3 Reasons You&#39;re in Tech Post-Layoff Shock &lpar;Based on personal experience&rpar;](https://dev.to/mlimonczenko/3-reasons-youre-in-tech-post-layoff-shock-based-on-personal-experience-2mpj)
+- [Part-72: To Create a Zonal MIG&#39;s and Implement a Regional External Load balancer in GCP Cloud](https://dev.to/latchudevops/part-72-to-create-a-zonal-migs-and-implement-a-regional-external-load-balancer-in-gcp-cloud-5g0b)
+- [Turning Free Users into Paying Customers &lpar;With Code-Like Thinking&rpar;](https://dev.to/soasme/turning-free-users-into-paying-customers-with-code-like-thinking-2fjb)
+- [🎉 Thank You for 4K Followers on Dev.to 🚀](https://dev.to/pjdeveloper896/thank-you-for-4k-followers-on-devto-9jj)
 <!-- BLOG-POST-LIST:END -->
 
 
