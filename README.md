@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
-- [Introduction to TrueReviewer: A Product Review Package for Laravel 🚀](https://dev.to/lakm/introduction-to-truereviewer-a-product-review-package-for-laravel-5cd7)
-- [Introduction au CSS &quot;utile&quot;](https://dev.to/lcsga/introduction-au-css-utile-49)
-- [Day 13 of 90 day python series....](https://dev.to/momina_raheelmoona_c59/day-13-of-90-day-python-series-648)
+- [A no-login time tracker that calculates earnings live &lpar;browser-only&rpar;](https://dev.to/ro_lax/a-no-login-time-tracker-that-calculates-earnings-live-browser-only-16bo)
+- [Unlock Full Control of Your CSS with Revert-Layer](https://dev.to/gouranga-das-khulna/unlock-full-control-of-your-css-with-revert-layer-4ia4)
+- [Stop Blogging, Start Architecting: How to Build a B2B Content Hub That Generates Leads](https://dev.to/michaelaiglobal/stop-blogging-start-architecting-how-to-build-a-b2b-content-hub-that-generates-leads-2k07)
+- [REST API and Common HTTP Methods](https://dev.to/arunagri82/rest-api-and-common-http-methods-1i2l)
 <!-- BLOG-POST-LIST:END -->
 
 
