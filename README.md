@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Ways to Earn Extra Cash as a Developer 💰](https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk)
-- [How to Rank at Scale: Engineering Search Systems for Millions of Users](https://dev.to/satyam_chourasiya_99ea2e4/how-to-rank-at-scale-engineering-search-systems-for-millions-of-users-gh7)
-- [Configuring AWS Vault with the Wincred Backend for Secure Credential Management on Windows](https://dev.to/jajera/configuring-aws-vault-with-the-wincred-backend-for-secure-credential-management-on-windows-2d05)
-- [Navigating RAG System Architecture: Trade-offs and Best Practices for Scalable, Reliable AI Applications](https://dev.to/satyam_chourasiya_99ea2e4/navigating-rag-system-architecture-trade-offs-and-best-practices-for-scalable-reliable-ai-3ppm)
+- [BEST BATTLESHIP TERMINAL GAME TO DATE!!! I THINK?!!!](https://dev.to/charlesdmghash/best-battleship-terminal-game-to-date-i-think-l93)
+- [Using drones for good with AWS Agentic AI - Part 1](https://dev.to/aws-builders/using-drones-for-good-with-aws-agentic-ai-part-1-poc)
+- [Sticky Spheres](https://dev.to/istockmarket/sticky-spheres-57dj)
+- [Flores amarillas para amig@](https://dev.to/garciaalferezdanielstivenart/flores-amarillas-para-amig-39fh)
 <!-- BLOG-POST-LIST:END -->
 
 
