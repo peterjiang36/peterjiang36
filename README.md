@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Livewire: Understanding How Livewire Works Under the Hood](https://dev.to/raheelshan/laravel-livewire-understanding-how-livewire-works-under-the-hood-1f53)
-- [Skip Livewire? Why Laravel Blade + AQC + Alpine Might Be All You Need](https://dev.to/raheelshan/skip-livewire-why-laravel-blade-aqc-alpine-might-be-all-you-need-399i)
-- [Git Config](https://dev.to/faruks/git-config-epf)
-- [[Boost]](https://dev.to/felixaschultz/-10hg)
+- [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
+- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
+- [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
+- [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
 <!-- BLOG-POST-LIST:END -->
 
 
