@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BEST BATTLESHIP TERMINAL GAME TO DATE!!! I THINK?!!!](https://dev.to/charlesdmghash/best-battleship-terminal-game-to-date-i-think-l93)
-- [Using drones for good with AWS Agentic AI - Part 1](https://dev.to/aws-builders/using-drones-for-good-with-aws-agentic-ai-part-1-poc)
-- [Sticky Spheres](https://dev.to/istockmarket/sticky-spheres-57dj)
-- [Flores amarillas para amig@](https://dev.to/garciaalferezdanielstivenart/flores-amarillas-para-amig-39fh)
+- [La fin des reves &lpar;Original song ingredient&rpar;](https://dev.to/jacklehamster/la-fin-des-reves-original-song-ingredient-16c5)
+- [Terraform for DevOps Engineers: Complete Beginner’s Guide](https://dev.to/srinivasamcjf/terraform-for-devops-engineers-complete-beginners-guide-j86)
+- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 4: Standalone Components, Angular Elements &amp; Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g)
 <!-- BLOG-POST-LIST:END -->
 
 
