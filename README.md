@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RAGs for Dummies: The Game-Changing Power of RAG](https://dev.to/maureen_mukami_4268d10eac/rags-for-dummies-the-game-changing-power-of-rag-2j86)
-- [FormEngineer evolves into... AppMaker!](https://dev.to/_neronotte/formengineer-evolves-into-appmaker-10di)
-- [Things I Wish I Knew Before Getting Into Tech](https://dev.to/jackline_kaunda/things-i-wish-i-knew-before-getting-into-tech-2c6f)
-- [I used Python to Analyze Customer Payment Behavior](https://dev.to/bekbrace/i-used-python-to-analyze-customer-payment-behavior-1dh)
+- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g)
+- [📅 Week 2 – Spring Boot Web &amp; REST API Fundamentals](https://dev.to/tejasvi_urkande/week-2-spring-boot-web-rest-api-fundamentals-19ah)
+- [IGN: S.A.N.D.Y. - Beach Cleaner - Official Announcement Trailer](https://dev.to/gg_news/ign-sandy-beach-cleaner-official-announcement-trailer-9p5)
+- [IGN: Heartopia - Official Gameplay Trailer](https://dev.to/gg_news/ign-heartopia-official-gameplay-trailer-4k31)
 <!-- BLOG-POST-LIST:END -->
 
 
