@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Command Sheet - My Go-To Dev Environment](https://dev.to/roydevashish/docker-command-sheet-my-go-to-dev-environment-2kpg)
-- [WebOS Day 3 at CodeHubbers](https://dev.to/dailker/webos-day-3-at-codehubbers-3fe)
-- [Mi reina](https://dev.to/fidelernesto_laracruz_6/mi-reina-pca)
-- [Flores amarillas](https://dev.to/leonardo_pereiraquispe_a/flores-amarillas-oaj)
+- [Beyond Git: Features Every Young Professional Should Know in 2025](https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb)
+- [🎯 Master the Move Zeros Algorithm:](https://dev.to/mohamad_mhana/master-the-move-zeros-algorithm-46aa)
+- [Deep Web vs Dark Web - What&#39;s Real and What&#39;s Myth?](https://dev.to/mohamed_essam_27afebce427/deep-web-vs-dark-web-whats-real-and-whats-myth-415a)
+- [5 Advanced Solidity Modifier Tricks](https://dev.to/loading_blocks/5-advanced-solidity-modifier-tricks-lbg)
 <!-- BLOG-POST-LIST:END -->
 
 
