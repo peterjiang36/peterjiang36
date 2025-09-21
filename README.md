@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resourcing Plan: Aligning People and Resources for Project Success](https://dev.to/writegenic/resourcing-plan-aligning-people-and-resources-for-project-success-1k9e)
-- [To Cache or Not to Cache: A Practical Decision Tree for Engineers](https://dev.to/zaheetdev/to-cache-or-not-to-cache-a-practical-decision-tree-for-engineers-2pfi)
-- [Four Disaster Recovery &lpar;DR&rpar; strategies in AWS explained](https://dev.to/wakeup_flower_8591a6cb6a9/four-disaster-recovery-dr-strategies-in-aws-explained-22ph)
-- [Getting Started with Python](https://dev.to/willwritescode/getting-started-with-python-2o9f)
+- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
+- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
+- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
+- [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
 <!-- BLOG-POST-LIST:END -->
 
 
