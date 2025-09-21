@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ETL: The Unsung Hero of Data-Driven Decisions](https://dev.to/leonardkachi/etl-the-unsung-hero-of-data-driven-decisions-igc)
-- [Unleashing the Power of Agentic AI: How Autonomous Agents are transforming Cybersecurity and Application Security](https://dev.to/rollbrace0/unleashing-the-power-of-agentic-ai-how-autonomous-agents-are-transforming-cybersecurity-and-2n3d)
-- [Enable Bash-Style History Search and Suggestions in PowerShell](https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52)
-- [Why do we even need change-data-capture to begin with?](https://dev.to/paragparalikar/why-do-we-even-need-change-data-capture-to-begin-with-3nj9)
+- [The Psychology of Social Engineering: A Deep Dive into Modern Manipulation Tactics](https://dev.to/gagreatprogrammer/the-psychology-of-social-engineering-a-deep-dive-into-modern-manipulation-tactics-3bid)
+- [Things to do when bored for students when you are watching tv](https://dev.to/khoa_hanh_4ea7a77cb4d26f5/things-to-do-when-bored-for-students-when-you-are-watching-tv-330f)
+- [[Boost]](https://dev.to/amrosama57/-59di)
+- [Dokploy is such a breath of fresh air in the overcrowded cloud hosting space. perfect for small projects that don&#39;t need the scale up-front.](https://dev.to/squishy/dokploy-is-such-a-breath-of-fresh-air-in-the-overcrowded-cloud-hosting-space-perfect-for-small-26le)
 <!-- BLOG-POST-LIST:END -->
 
 
