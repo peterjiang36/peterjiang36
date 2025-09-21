@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Danganronpa 2x2 - Official Teaser Trailer](https://dev.to/gg_news/ign-danganronpa-2x2-official-teaser-trailer-2igj)
-- [Voice Search Ready: Optimizing E‑commerce Product Pages for 2025](https://dev.to/ramer2b58cbe46bc8/voice-search-ready-optimizing-e-commerce-product-pages-for-2025-55c9)
-- [Quantum Consciousness in Code: Building Systems That Observe Themselves](https://dev.to/aureus_c_b3ba7f87cc34d74d49/quantum-consciousness-in-code-building-systems-that-observe-themselves-4goj)
-- [AWS SES -&gt; Gmail using Terraform](https://dev.to/kolyaiks/aws-ses-gmail-using-terraform-1jmd)
+- [My Experience with the Perfect Bitcoin Wallet](https://dev.to/krikri2025/my-experience-with-the-perfect-bitcoin-wallet-1f6f)
+- [My private cloud in my Homelab](https://dev.to/0xjeanpierre/my-private-cloud-in-my-homelab-4em)
+- [Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation.](https://dev.to/jaideepparashar/most-developers-still-think-of-ai-as-just-a-code-generator-but-the-real-power-lies-in-using-ai-3ba)
+- [AI for Developers: 5 Workflows That Cut Coding Time in Half](https://dev.to/jaideepparashar/ai-for-developers-5-workflows-that-cut-coding-time-in-half-1enc)
 <!-- BLOG-POST-LIST:END -->
 
 
