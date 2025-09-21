@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Tips for Hardening Nginx and Linux Servers in Environments](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-and-linux-servers-in-environments-33j)
-- [You don’t need NPM to ship fully-featured apps.](https://dev.to/derstruct/you-dont-need-npm-to-ship-fully-featured-apps-17ak)
-- [Big O Notation pt.1: Time Complexity](https://dev.to/talaamm/big-o-notation-pt1-time-complexity-3676)
-- [Geeks for Geeks MERN Full Stack Web Development course](https://dev.to/harsh_jain_db0c27cf5e18ff/geeks-for-geeks-mern-full-stack-web-development-course-cd9)
+- [IGN: Unpetrified: Echoes of Nature - Official Release Date Trailer](https://dev.to/gg_news/ign-unpetrified-echoes-of-nature-official-release-date-trailer-4kob)
+- [IGN: Cut That Wire - Official Reveal Trailer](https://dev.to/gg_news/ign-cut-that-wire-official-reveal-trailer-4c3c)
+- [🌱 Building Zyro: From Solo Project to Unified Growth Engine](https://dev.to/eddie_glush_60e960e585bf8/building-zyro-from-solo-project-to-unified-growth-engine-4cjk)
+- [MatrixOS v0.1.0: The Swarm Gets Its Operating System](https://dev.to/matrixswarm/matrixos-v010-the-swarm-gets-its-operating-system-4ffk)
 <!-- BLOG-POST-LIST:END -->
 
 
