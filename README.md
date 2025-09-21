@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flores amarillas](https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg)
-- [Master tmux Like a Pro: Boost Your Terminal Workflow 🚀](https://dev.to/masoomjethwa/master-tmux-like-a-pro-boost-your-terminal-workflow-5a4a)
-- [Setting Up a Scalable JupyterHub Classroom on Debian 12 LTS with DockerSpawner](https://dev.to/masoomjethwa/setting-up-a-scalable-jupyterhub-classroom-on-debian-12-lts-with-dockerspawner-2k9f)
-- [Modulax Launch Blueprint: Building with Purpose from Day One](https://dev.to/modulaxorg/modulax-launch-blueprint-building-with-purpose-from-day-one-ko1)
+- [Laravel Livewire: Understanding How Livewire Works Under the Hood](https://dev.to/raheelshan/laravel-livewire-understanding-how-livewire-works-under-the-hood-1f53)
+- [Skip Livewire? Why Laravel Blade + AQC + Alpine Might Be All You Need](https://dev.to/raheelshan/skip-livewire-why-laravel-blade-aqc-alpine-might-be-all-you-need-399i)
+- [Git Config](https://dev.to/faruks/git-config-epf)
+- [[Boost]](https://dev.to/felixaschultz/-10hg)
 <!-- BLOG-POST-LIST:END -->
 
 
