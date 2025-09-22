@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Capcom Online Special Program TGS 2025 Livestream](https://dev.to/gg_news/gamespot-capcom-online-special-program-tgs-2025-livestream-33fe)
-- [IGN: Sonic Racing: CrossWorlds - Official Launch Trailer](https://dev.to/gg_news/ign-sonic-racing-crossworlds-official-launch-trailer-2192)
-- [IGN: Hollow Knight: Silksong Simple Key Guide | How to Find All Simple Keys and Their Locks](https://dev.to/gg_news/ign-hollow-knight-silksong-simple-key-guide-how-to-find-all-simple-keys-and-their-locks-27je)
-- [IGN: Diablo 4 - Official Season of Infernal Chaos Overview Trailer](https://dev.to/gg_news/ign-diablo-4-official-season-of-infernal-chaos-overview-trailer-2kc6)
+- [[Boost]](https://dev.to/alazsel/-a8a)
+- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
+- [🚀 Install and Use FSCSS](https://dev.to/fscss-ttr/install-and-use-fscss-o05)
+- [Challenge React](https://dev.to/bronx1337/challenge-react-3kf1)
 <!-- BLOG-POST-LIST:END -->
 
 
