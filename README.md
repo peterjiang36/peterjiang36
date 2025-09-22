@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Construindo um Agentic usando o google ADK](https://dev.to/israeljrs/construindo-um-agentic-usando-o-google-adk-2h6o)
-- [Integrating Nano Banana Try‑On into a Polyglot Microservices Demo &lpar;gRPC, Skaffold, K8s&rpar;](https://dev.to/lahfir_ac22d8714d76cfd31e/integrating-nano-banana-try-on-into-a-polyglot-microservices-demo-grpc-skaffold-k8s-14m4)
-- [Fireworks](https://dev.to/jorge_daluz_95988de19625/fireworks-4h7o)
-- [My Obsidian + Syncthing Setup: A Self-Hosted Cloud for Notes, Backups, and More](https://dev.to/matsch1/my-obsidian-syncthing-setup-a-self-hosted-cloud-for-notes-backups-and-more-59ic)
+- [[Boost]](https://dev.to/batunpc/-21j4)
+- [From 10-Week Project to Long-Term Partnership](https://dev.to/saminarp/from-10-week-project-to-long-term-partnership-551p)
+- [The Cost of Inconsistency &lpar;And the Power of Predictability&rpar;](https://dev.to/duplessisvanaswegen/the-cost-of-inconsistency-and-the-power-of-predictability-57bg)
+- [I Built a Simple Feature Flag Service Because I Was Tired of Being Afraid to Deploy](https://dev.to/el_yt/i-built-a-simple-feature-flag-service-because-i-was-tired-of-being-afraid-to-deploy-5ci)
 <!-- BLOG-POST-LIST:END -->
 
 
