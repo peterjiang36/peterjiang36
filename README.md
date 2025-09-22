@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Bootstrap and Tailwind CSS Don’t Work With Web Components](https://dev.to/fedtti/why-bootstrap-and-tailwind-css-dont-work-with-web-components-4b6c)
-- [Connecting AI Agents to Factory Data with MCP, Node.js &amp; TypeScript](https://dev.to/gins_cyriac/connecting-ai-agents-to-factory-data-with-mcp-nodejs-typescript-44e)
-- [Containerization Without the Cloud: Running Docker Locally for Fun and Speed](https://dev.to/bennay1990/containerization-without-the-cloud-running-docker-locally-for-fun-and-speed-53dl)
-- [What the COW? Understanding Docker&#39;s Smart Storage Secret](https://dev.to/harsh_raj_934dd76b12195ee/what-the-cow-understanding-dockers-smart-storage-secret-37k0)
+- [Construindo um Agentic usando o google ADK](https://dev.to/israeljrs/construindo-um-agentic-usando-o-google-adk-2h6o)
+- [Integrating Nano Banana Try‑On into a Polyglot Microservices Demo &lpar;gRPC, Skaffold, K8s&rpar;](https://dev.to/lahfir_ac22d8714d76cfd31e/integrating-nano-banana-try-on-into-a-polyglot-microservices-demo-grpc-skaffold-k8s-14m4)
+- [Fireworks](https://dev.to/jorge_daluz_95988de19625/fireworks-4h7o)
+- [My Obsidian + Syncthing Setup: A Self-Hosted Cloud for Notes, Backups, and More](https://dev.to/matsch1/my-obsidian-syncthing-setup-a-self-hosted-cloud-for-notes-backups-and-more-59ic)
 <!-- BLOG-POST-LIST:END -->
 
 
