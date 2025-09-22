@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Cardiel - Skaterock México &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-skaterock-mexico-live-on-kexp-37bp)
-- [KEXP: Cardiel - Antiglesia &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-antiglesia-live-on-kexp-17i2)
-- [KEXP: Cardiel - Destino Bowl Secreto &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-destino-bowl-secreto-live-on-kexp-48ci)
-- [How I Built an Evidence-Based Developer Assessment Platform](https://dev.to/exiqus/how-i-built-an-evidence-based-developer-assessment-platform-1of3)
+- [How To Hide Secrets &amp; Exe Payloads In Images &lpar;Guide&rpar;](https://dev.to/scofieldidehen/how-to-hide-secrets-exe-payloads-in-images-guide-294k)
+- [My Tech Journey: From Developer to DevOps and Cybersecurity Enthusiast](https://dev.to/dhanushnehru/my-tech-journey-from-developer-to-devops-and-cybersecurity-enthusiast-234f)
+- [MCP-OpenStack-Ops : MCP-Server for OpenStack Cluster](https://dev.to/call518/mcp-openstack-ops-mcp-server-for-openstack-cluster-4h7g)
+- [Here&#39;s how to pick a SIEM: Cloud-focused tools, uses, and pros/cons from my experience](https://dev.to/heyjoshlee/heres-how-to-pick-a-siem-cloud-focused-tools-uses-and-proscons-from-my-experience-ogb)
 <!-- BLOG-POST-LIST:END -->
 
 
