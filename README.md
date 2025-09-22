@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Hide Secrets &amp; Exe Payloads In Images &lpar;Guide&rpar;](https://dev.to/scofieldidehen/how-to-hide-secrets-exe-payloads-in-images-guide-294k)
-- [My Tech Journey: From Developer to DevOps and Cybersecurity Enthusiast](https://dev.to/dhanushnehru/my-tech-journey-from-developer-to-devops-and-cybersecurity-enthusiast-234f)
-- [MCP-OpenStack-Ops : MCP-Server for OpenStack Cluster](https://dev.to/call518/mcp-openstack-ops-mcp-server-for-openstack-cluster-4h7g)
-- [Here&#39;s how to pick a SIEM: Cloud-focused tools, uses, and pros/cons from my experience](https://dev.to/heyjoshlee/heres-how-to-pick-a-siem-cloud-focused-tools-uses-and-proscons-from-my-experience-ogb)
+- [🔐 Fine-Grained Role Control for MCP Tools with APIM](https://dev.to/imdj/fine-grained-role-control-for-mcp-tools-with-apim-2pn7)
+- [KEXP: Cardiel - Perros &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-perros-live-on-kexp-482h)
+- [The Game Theorists: Game Theory: What is Minecraft&#39;s Suspicious Stew?](https://dev.to/gg_news/the-game-theorists-game-theory-what-is-minecrafts-suspicious-stew-39d0)
+- [IGN: Fatal Fury: City of the Wolves - Official Joe Higashi Trailer](https://dev.to/gg_news/ign-fatal-fury-city-of-the-wolves-official-joe-higashi-trailer-54g2)
 <!-- BLOG-POST-LIST:END -->
 
 
