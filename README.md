@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
-- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
-- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
-- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
+- [KEXP: Cardiel - Skaterock México &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-skaterock-mexico-live-on-kexp-37bp)
+- [KEXP: Cardiel - Antiglesia &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-antiglesia-live-on-kexp-17i2)
+- [KEXP: Cardiel - Destino Bowl Secreto &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-destino-bowl-secreto-live-on-kexp-48ci)
+- [How I Built an Evidence-Based Developer Assessment Platform](https://dev.to/exiqus/how-i-built-an-evidence-based-developer-assessment-platform-1of3)
 <!-- BLOG-POST-LIST:END -->
 
 
