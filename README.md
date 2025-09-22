@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tableau Filtering Actions Made Easy: A Complete Guide for Analysts](https://dev.to/dipti_moryani_185c244d578/tableau-filtering-actions-made-easy-a-complete-guide-for-analysts-4oik)
-- [Complete Overview of Generative &amp; Predictive AI for Application Security](https://dev.to/lynxfelony1/complete-overview-of-generative-predictive-ai-for-application-security-2i1c)
-- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-1im7)
-- [MySQL ALTER TABLE: A Developer’s Guide to Schema Changes](https://dev.to/dbvismarketing/mysql-alter-table-a-developers-guide-to-schema-changes-3b2l)
+- [Supabase with Supabase CLI, React + TypeScript – Part 2: APIs and Edge Functions](https://dev.to/sukanta47/supabase-with-supabase-cli-react-typescript-part-2-apis-and-edge-functions-3k65)
+- [How Can I Make My Event Invitations Look More Professional?](https://dev.to/aamir_khan_c46082b6e804c0/how-can-i-make-my-event-invitations-look-more-professional-4k41)
+- [GameSpot: Silent Hill F Review](https://dev.to/gg_news/gamespot-silent-hill-f-review-2j66)
+- [GameSpot: 15 Minutes of Silent Hill F Gameplay](https://dev.to/gg_news/gamespot-15-minutes-of-silent-hill-f-gameplay-4mob)
 <!-- BLOG-POST-LIST:END -->
 
 
