@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠GraphScout: Self-Discovering Paths in OrKA](https://dev.to/marcosomma/graphscout-self-discovering-paths-in-orka-348k)
-- [We, Coders, Often Don&#39;t Get To Solve Problems—And That&#39;s Boring](https://dev.to/canro91/we-coders-often-dont-get-to-solve-problems-and-thats-boring-8jb)
-- [Stay ahead in web development: latest news, tools, and insights #103](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-103-2p39)
-- [Building Powerful APIs in Symfony: A Complete Guide for Modern Frontend Integration](https://dev.to/addwebsolutionpvtltd/building-powerful-apis-in-symfony-a-complete-guide-for-modern-frontend-integration-59am)
+- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55)
+- [AWS OpenSearch Full Documents Reindexing: When? Why? How?](https://dev.to/aws-builders/aws-opensearch-full-documents-reindexing-when-why-how-20c3)
+- [AWS-nuke controlled resources cleanup in multiple aws accounts](https://dev.to/aws-builders/aws-nuke-controlled-resources-cleanup-in-multiple-aws-accounts-313d)
+- [AWS CSM Mode: Advanced monitoring of AWS client](https://dev.to/aws-builders/aws-csm-mode-advanced-monitoring-of-aws-client-ph7)
 <!-- BLOG-POST-LIST:END -->
 
 
