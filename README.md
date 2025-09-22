@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure AWS Access in Kubernetes: Transitioning from Secrets to IRSA or Pod Identity](https://dev.to/u11d/secure-aws-access-in-kubernetes-transitioning-from-secrets-to-irsa-or-pod-identity-4i68)
-- [Building an AI Sales Infrastructure with Claude, n8n, and Apollo](https://dev.to/alifar/building-an-ai-sales-infrastructure-with-claude-n8n-and-apollo-4jih)
-- [What Is a Weak Pointer in Rust &lpar;and Why It Matters&rpar;?](https://dev.to/masteringbackend/what-is-a-weak-pointer-in-rust-and-why-it-matters-29m5)
-- [Máquina de hielo tubular comercial, ¿por qué elegir primero un modelo integrado?](https://dev.to/maqhielotubos/maquina-de-hielo-tubular-comercial-por-que-elegir-primero-un-modelo-integrado-4mdm)
+- [New in EasyAdmin: Custom Admin Routes](https://dev.to/javiereguiluz/new-in-easyadmin-custom-admin-routes-1176)
+- [Oracle Autonomous Database Management: User Administration, Elastic Pools, and Cloning Strategies](https://dev.to/derrickryangiggs/oracle-autonomous-database-management-user-administration-elastic-pools-and-cloning-strategies-594d)
+- [7 Tips for Securing Your Nginx Server with TLS and Fail2Ban](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-your-nginx-server-with-tls-and-fail2ban-1alp)
+- [Optimizing Testing Efficiency: Best Practices for Comprehensive Testing Strategies](https://dev.to/vjnvisakh/optimizing-testing-efficiency-best-practices-for-comprehensive-testing-strategies-82d)
 <!-- BLOG-POST-LIST:END -->
 
 
