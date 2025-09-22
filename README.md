@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 5: PWA, SSR, Zone.js &amp; Optimization](https://dev.to/parthraval01/angular-20-interview-questions-and-answers-2025-part-5-pwa-ssr-zonejs-optimization-2n94)
-- [Diseñando un Sistema Completo de Smart Cards y RFID: Primeros Pasos y Componentes Clave](https://dev.to/antonio_socorro_95e3ff086/disenando-un-sistema-completo-de-smart-cards-y-rfid-primeros-pasos-y-componentes-clave-3e53)
-- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn)
-- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e)
+- [Enforce Module Imports in FSD &lpar;using eslint-plugin-import&rpar;](https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72)
+- [Using the gyroscope to detect wrist gestures with ArkTS](https://dev.to/harmonyos/using-the-gyroscope-to-detect-wrist-gestures-with-arkts-261e)
+- [My Kids Built 3 Apps in 3 Days - Here&#39;s What I Learned About](https://dev.to/aabyzov/my-kids-built-3-apps-in-3-days-heres-what-i-learned-about-2h6e)
+- [it’s not just a tool—it’s a companion that supports every phase of the development cycle, from ideation to deployment.](https://dev.to/monahidalgo/its-not-just-a-tool-its-a-companion-that-supports-every-phase-of-the-development-cycle-from-2h34)
 <!-- BLOG-POST-LIST:END -->
 
 
