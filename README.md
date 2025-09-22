@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enforce Module Imports in FSD &lpar;using eslint-plugin-import&rpar;](https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72)
-- [Using the gyroscope to detect wrist gestures with ArkTS](https://dev.to/harmonyos/using-the-gyroscope-to-detect-wrist-gestures-with-arkts-261e)
-- [My Kids Built 3 Apps in 3 Days - Here&#39;s What I Learned About](https://dev.to/aabyzov/my-kids-built-3-apps-in-3-days-heres-what-i-learned-about-2h6e)
-- [it’s not just a tool—it’s a companion that supports every phase of the development cycle, from ideation to deployment.](https://dev.to/monahidalgo/its-not-just-a-tool-its-a-companion-that-supports-every-phase-of-the-development-cycle-from-2h34)
+- [Building Better On-Ramps: Why 2025 Is About UX in Crypto, Not Just Price](https://dev.to/piwa_lin_8b3155c3dd85f0f9/building-better-on-ramps-why-2025-is-about-ux-in-crypto-not-just-price-14cc)
+- [Ray3 AI Video: Revolutionizing Video Creation with Reasoning-Based AI](https://dev.to/juddiy/ray3-ai-video-revolutionizing-video-creation-with-reasoning-based-ai-1je8)
+- [Isn&#39;t it strange that developers waste hours every week on repetitive coding tasks, things that don’t need creativity but still eat up time? That’s where AI comes in to automate the boring parts and focus on building smarter, faster, and cleaner code.](https://dev.to/jaideepparashar/isnt-it-strange-that-developers-waste-hours-every-week-on-repetitive-coding-tasks-things-that-229k)
+- [5 Everyday Coding Tasks You Should Automate with AI](https://dev.to/jaideepparashar/5-everyday-coding-tasks-you-should-automate-with-ai-3c13)
 <!-- BLOG-POST-LIST:END -->
 
 
