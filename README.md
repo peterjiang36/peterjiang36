@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2)
-- [Supercharge E‑commerce SEO: Master Core Web Vitals for 2025](https://dev.to/ramer2b58cbe46bc8/supercharge-e-commerce-seo-master-core-web-vitals-for-2025-2p4p)
-- [How I Built a Blockchain Voting System &lpar;And What I Learned in 4 Days&rpar;](https://dev.to/nulfacedesigner/how-i-built-a-blockchain-voting-system-and-what-i-learned-in-4-days-18p)
-- [Load Balancer vs Reverse Proxy vs API Gateway — Explained Simply](https://dev.to/gimhantharuke4565/load-balancer-vs-reverse-proxy-vs-api-gateway-explained-simply-5a3)
+- [Angular 20 Interview Questions and Answers &lpar;2025&rpar; – Part 5: PWA, SSR, Zone.js &amp; Optimization](https://dev.to/parthraval01/angular-20-interview-questions-and-answers-2025-part-5-pwa-ssr-zonejs-optimization-2n94)
+- [Diseñando un Sistema Completo de Smart Cards y RFID: Primeros Pasos y Componentes Clave](https://dev.to/antonio_socorro_95e3ff086/disenando-un-sistema-completo-de-smart-cards-y-rfid-primeros-pasos-y-componentes-clave-3e53)
+- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn)
+- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e)
 <!-- BLOG-POST-LIST:END -->
 
 
