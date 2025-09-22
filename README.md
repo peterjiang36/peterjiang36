@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A supposedly fun interview I&#39;ll never do again*](https://dev.to/luc4587/a-supposedly-fun-interview-ill-never-do-again-3d60)
-- [Solidity Libraries](https://dev.to/loading_blocks/solidity-libraries-4ceo)
-- [Spring AI: Empowering Java Developers with Generative AI](https://dev.to/devcorner/spring-ai-empowering-java-developers-with-generative-ai-14p3)
-- [Advanced Strands Agents with MCP Servers: Real-World Automation Examples](https://dev.to/chetan_hirapara_c3830e396/advanced-strands-agents-with-mcp-servers-real-world-automation-examples-1i83)
+- [Day 23 - Alert Component Part 2 - Dynamic Rendering of SVG Icons](https://dev.to/railsstudent/day-23-alert-component-part-2-dynamic-rendering-of-svg-icons-3ofm)
+- [COLORS: Souly - Motte | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-motte-a-colors-show-59bj)
+- [KEXP: Cardiel - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cardiel-full-performance-live-on-kexp-4iap)
+- [🚀 Building &amp; Deploying My Next.js Portfolio with Docker, AWS, and CI/CD&quot;](https://dev.to/ritesh355/building-deploying-my-nextjs-portfolio-with-docker-aws-and-cicd-54cf)
 <!-- BLOG-POST-LIST:END -->
 
 
