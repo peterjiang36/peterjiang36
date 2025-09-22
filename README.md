@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New AI Trinity](https://dev.to/shieldstring/the-new-ai-trinity-a9c)
-- [Desto: A Web Dashboard for Long-Running Background Processes](https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2)
-- [React Native Version Matrix: The Hidden Upgrade Path](https://dev.to/qbit/react-native-version-matrix-the-hidden-upgrade-path-1p3m)
-- [Building an AI Conversation Practice App: Part 3- From Simple Prompts to Database-Driven Dynamic AI Characters](https://dev.to/yfkiwi/building-an-ai-conversation-practice-app-part-3-from-simple-prompts-to-database-driven-dynamic-ai-npg)
+- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2)
+- [Supercharge E‑commerce SEO: Master Core Web Vitals for 2025](https://dev.to/ramer2b58cbe46bc8/supercharge-e-commerce-seo-master-core-web-vitals-for-2025-2p4p)
+- [How I Built a Blockchain Voting System &lpar;And What I Learned in 4 Days&rpar;](https://dev.to/nulfacedesigner/how-i-built-a-blockchain-voting-system-and-what-i-learned-in-4-days-18p)
+- [Load Balancer vs Reverse Proxy vs API Gateway — Explained Simply](https://dev.to/gimhantharuke4565/load-balancer-vs-reverse-proxy-vs-api-gateway-explained-simply-5a3)
 <!-- BLOG-POST-LIST:END -->
 
 
