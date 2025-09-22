@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New in EasyAdmin: Custom Admin Routes](https://dev.to/javiereguiluz/new-in-easyadmin-custom-admin-routes-1176)
-- [Oracle Autonomous Database Management: User Administration, Elastic Pools, and Cloning Strategies](https://dev.to/derrickryangiggs/oracle-autonomous-database-management-user-administration-elastic-pools-and-cloning-strategies-594d)
-- [7 Tips for Securing Your Nginx Server with TLS and Fail2Ban](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-your-nginx-server-with-tls-and-fail2ban-1alp)
-- [Optimizing Testing Efficiency: Best Practices for Comprehensive Testing Strategies](https://dev.to/vjnvisakh/optimizing-testing-efficiency-best-practices-for-comprehensive-testing-strategies-82d)
+- [Máquina de hielo tubular, ¿cómo se convierte el agua en hielo tubular?](https://dev.to/eficientehielotubo/maquina-de-hielo-tubular-como-se-convierte-el-agua-en-hielo-tubular-oi6)
+- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
+- [Git: From Zero to First Commit - Developer Journey Begins](https://dev.to/swathi_macha/git-from-zero-to-first-commit-developer-journey-begins-170d)
+- [Mi propio procesador de textos en ZX Sinclair BASIC &lpar;y II&rpar;](https://dev.to/baltasarq/mi-propio-procesador-de-textos-en-zx-sinclair-basic-y-ii-309e)
 <!-- BLOG-POST-LIST:END -->
 
 
