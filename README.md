@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Missing in Modern C++: Event Synchronization Primitive — with Working Examples](https://dev.to/aregtech/missing-in-modern-c-event-synchronization-primitive-with-working-examples-56h9)
-- [How to Rescue a Broken Ubuntu System](https://dev.to/farzandev13/how-to-rescue-a-broken-ubuntu-system-53b2)
-- [GameSpot: Final Fantasy Tactics: The Ivalice Chronicles - Everything To Know](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-everything-to-know-49nk)
-- [IGN: Warhammer 40,000: Darktide - Official Bound by Duty Update Trailer](https://dev.to/gg_news/ign-warhammer-40000-darktide-official-bound-by-duty-update-trailer-3b9a)
+- [How can developers build a dynamic, state-driven and fully customized UI using Canvas?](https://dev.to/harmonyos/how-can-developers-build-a-dynamic-state-driven-and-fully-customized-ui-using-canvas-5500)
+- [Build Agentic Video RAG with Strands Agents and Amazon Aurora PostgreSQL - Local Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-amazon-aurora-postgresql-local-infrastructure-3b2f)
+- [The Great RWA Privacy Problem: Why Real-World Asset Tokenization is Broken](https://dev.to/savvysid/the-great-rwa-privacy-problem-why-real-world-asset-tokenization-is-broken-3d68)
+- [Porting MiniScript to Cosmopolitan Libc](https://dev.to/minerobber9000/porting-miniscript-to-cosmopolitan-libc-4jp3)
 <!-- BLOG-POST-LIST:END -->
 
 
