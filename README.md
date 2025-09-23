@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IoT Core Starter with Esp32, MQTT, Rust &amp; Terraform](https://dev.to/rammaths/aws-iot-core-starter-with-esp32-mqtt-rust-terraform-2bb)
-- [7 Tips for Securing Nginx with TLS and Fail2Ban on Production Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-fail2ban-on-production-servers-31ph)
-- [Subnetting in AWS](https://dev.to/devzeuz/subnetting-in-aws-pip)
-- [React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀](https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh)
+- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
+- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
+- [Headless CMS in 2025: Balancing Flexibility, SEO, and Developer Experience](https://dev.to/arkhan/headless-cms-in-2025-balancing-flexibility-seo-and-developer-experience-25lo)
+- [RAG vs fine-tuning vs prompt engineering](https://dev.to/thisismairaj/rag-vs-fine-tuning-vs-prompt-engineering-fcg)
 <!-- BLOG-POST-LIST:END -->
 
 
