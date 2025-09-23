@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Aws health dashboards SHD or PHD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-health-dashboards-shd-or-phd-5e39)
-- [Big O sem mistério: meu primeiro contato com performance no C#](https://dev.to/brunompp/big-o-sem-misterio-meu-primeiro-contato-com-performance-no-c-3n0i)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/kiplangatjaphet/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-2mjg)
-- [Network+ N10-009 4.1 Study Guide: Security Concepts and Practices](https://dev.to/andrew_despres/network-n10-009-41-study-guide-security-concepts-and-practices-2ifl)
+- [IGN: Painkiller - Official Rogue Angel &lpar;Roguelike Mode&rpar; Trailer](https://dev.to/gg_news/ign-painkiller-official-rogue-angel-roguelike-mode-trailer-4nki)
+- [IGN: Silent Hill f: 8 Tips for Early Survival](https://dev.to/gg_news/ign-silent-hill-f-8-tips-for-early-survival-1cll)
+- [Performance Tuning for Nginx: 7 Tips to Slash TTFB and Boost Speed](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nginx-7-tips-to-slash-ttfb-and-boost-speed-4moa)
+- [Evergreen Content: Warum deine Tech-Inhalte auch in 5 Jahren noch rocken sollten](https://dev.to/ivo_sa/evergreen-content-warum-deine-tech-inhalte-auch-in-5-jahren-noch-rocken-sollten-12io)
 <!-- BLOG-POST-LIST:END -->
 
 
