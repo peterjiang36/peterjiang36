@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs](https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10)
-- [Unpacking Git&#39;s Branching: A Look at the Internals](https://dev.to/shrsv/unpacking-gits-branching-a-look-at-the-internals-b4a)
-- [Headless CMS in 2025: Balancing Flexibility, SEO, and Developer Experience](https://dev.to/arkhan/headless-cms-in-2025-balancing-flexibility-seo-and-developer-experience-25lo)
-- [RAG vs fine-tuning vs prompt engineering](https://dev.to/thisismairaj/rag-vs-fine-tuning-vs-prompt-engineering-fcg)
+- [Aws health dashboards SHD or PHD](https://dev.to/wakeup_flower_8591a6cb6a9/aws-health-dashboards-shd-or-phd-5e39)
+- [Big O sem mistério: meu primeiro contato com performance no C#](https://dev.to/brunompp/big-o-sem-misterio-meu-primeiro-contato-com-performance-no-c-3n0i)
+- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/kiplangatjaphet/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-2mjg)
+- [Network+ N10-009 4.1 Study Guide: Security Concepts and Practices](https://dev.to/andrew_despres/network-n10-009-41-study-guide-security-concepts-and-practices-2ifl)
 <!-- BLOG-POST-LIST:END -->
 
 
