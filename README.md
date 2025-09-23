@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
-- [Global Exception Handling in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/global-exception-handling-in-net-web-api-3aln)
-- [Writing Unit Tests for Python Code &lpar;unittest &amp; doctest&rpar;](https://dev.to/ashutoshsarangi/writing-unit-tests-for-python-code-unittest-doctest-iob)
-- [From MVP to Enterprise: Why Boilerplates Scale Better Than Scratch Builds](https://dev.to/jigar_online/from-mvp-to-enterprise-why-boilerplates-scale-better-than-scratch-builds-44ob)
+- [IGN: OD - &#39;Knock&#39; Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333)
+- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f)
+- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45)
+- [SPF Record Example Guide: Secure Your Domain Against Spoofing](https://dev.to/inspireme_labs_e6af6b7b69/spf-record-example-guide-secure-your-domain-against-spoofing-glb)
 <!-- BLOG-POST-LIST:END -->
 
 
