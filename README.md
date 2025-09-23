@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you use codex? Don&#39;t forget this:](https://dev.to/daslavcl/do-you-use-codex-dont-forget-this-2jm8)
-- [GameSpot: ANANTA - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-ananta-official-gameplay-reveal-trailer-1nmd)
-- [IGN: Ananta - Official Gameplay Trailer #2](https://dev.to/gg_news/ign-ananta-official-gameplay-trailer-2-2jj5)
-- [La IA no reemplazará a los desarrolladores de software](https://dev.to/boceto1/la-ia-no-reemplazara-a-los-desarrolladores-de-software-13ed)
+- [Computer Fundamentals - 12](https://dev.to/learneveryday_cs/computer-fundamentals-12-3278)
+- [Global Exception Handling in .NET Web API](https://dev.to/harpreet_singh_c4ea4af253/global-exception-handling-in-net-web-api-3aln)
+- [Writing Unit Tests for Python Code &lpar;unittest &amp; doctest&rpar;](https://dev.to/ashutoshsarangi/writing-unit-tests-for-python-code-unittest-doctest-iob)
+- [From MVP to Enterprise: Why Boilerplates Scale Better Than Scratch Builds](https://dev.to/jigar_online/from-mvp-to-enterprise-why-boilerplates-scale-better-than-scratch-builds-44ob)
 <!-- BLOG-POST-LIST:END -->
 
 
