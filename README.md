@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How can developers build a dynamic, state-driven and fully customized UI using Canvas?](https://dev.to/harmonyos/how-can-developers-build-a-dynamic-state-driven-and-fully-customized-ui-using-canvas-5500)
-- [Build Agentic Video RAG with Strands Agents and Amazon Aurora PostgreSQL - Local Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-amazon-aurora-postgresql-local-infrastructure-3b2f)
-- [The Great RWA Privacy Problem: Why Real-World Asset Tokenization is Broken](https://dev.to/savvysid/the-great-rwa-privacy-problem-why-real-world-asset-tokenization-is-broken-3d68)
-- [Porting MiniScript to Cosmopolitan Libc](https://dev.to/minerobber9000/porting-miniscript-to-cosmopolitan-libc-4jp3)
+- [The CSS Box Model: Margin, Border, Padding &amp; Content](https://dev.to/sharique_siddiqui_8242dad/the-css-box-model-margin-border-padding-content-4e78)
+- [Are We Really Ready for the Next Silicon Savannah?](https://dev.to/gregory42266270/are-we-really-ready-for-the-next-silicon-savannah-11ch)
+- [MERN Stack Alternatives in Golang](https://dev.to/unsafezero/mern-stack-alternatives-in-golang-3n5n)
+- [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://dev.to/technoblogger14o3/openai-and-nvidia-announce-partnership-to-deploy-10gw-of-nvidia-systems-2m96)
 <!-- BLOG-POST-LIST:END -->
 
 
