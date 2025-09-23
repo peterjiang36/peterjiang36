@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The CSS Box Model: Margin, Border, Padding &amp; Content](https://dev.to/sharique_siddiqui_8242dad/the-css-box-model-margin-border-padding-content-4e78)
-- [Are We Really Ready for the Next Silicon Savannah?](https://dev.to/gregory42266270/are-we-really-ready-for-the-next-silicon-savannah-11ch)
-- [MERN Stack Alternatives in Golang](https://dev.to/unsafezero/mern-stack-alternatives-in-golang-3n5n)
-- [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://dev.to/technoblogger14o3/openai-and-nvidia-announce-partnership-to-deploy-10gw-of-nvidia-systems-2m96)
+- [Post 0/10 — Foundations: Zero to Base Setup](https://dev.to/cloud-sky-ops/post-010-foundations-zero-to-base-setup-58ni)
+- [Top 3 Pillars of a Trustworthy AI Governance Framework for 2025](https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210)
+- [How to Build a Privacy-First AI Agent: The 2025 Engineering Blueprint](https://dev.to/boyte_conwa_60f60127bd416/how-to-build-a-privacy-first-ai-agent-the-2025-engineering-blueprint-4ic5)
+- [How to set up Interconnect / FastConnect between GCP and OCI](https://dev.to/farisdurrani/how-to-set-up-interconnect-fastconnect-between-gcp-and-oci-4813)
 <!-- BLOG-POST-LIST:END -->
 
 
