@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox VM Templates and Cloud-Init](https://dev.to/codecave_pro/proxmox-vm-templates-and-cloud-init-1364)
-- [What Are Design Tokens, and Why Should You Care?](https://dev.to/fylgja/what-are-design-tokens-and-why-should-you-care-289c)
-- [Kiro: Primeras impresiones y configuración de MCPs](https://dev.to/aws-espanol/kiro-primeras-impresiones-y-configuracion-de-mcps-4nfc)
-- [Taming Stateful at the Edge: A Real-Time API with Cloudflare Durable Objects](https://dev.to/adrai/taming-stateful-at-the-edge-a-real-time-api-with-cloudflare-durable-objects-57dm)
+- [Your Top 10 Claude Code Subagents for Instant Productivity](https://dev.to/necatiozmen/your-top-10-claude-code-subagents-for-instant-productivity-4nh3)
+- [ACID vs. BASE: The Ultimate Showdown for Database Reliability](https://dev.to/leonardkachi/acid-vs-base-the-ultimate-showdown-for-database-reliability-500c)
+- [AWS re/Start – My Week 6 Experience](https://dev.to/ijay/aws-restart-my-week-6-experience-heo)
+- [Building a Proactive AI Travel Agent on AWS Bedrock AgentCore &lpar;Final Part &rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-bedrock-agentcore-final-part--p5n)
 <!-- BLOG-POST-LIST:END -->
 
 
