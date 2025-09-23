@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: 1073: 2025 Ryder Cup Preview](https://dev.to/youtube_golf/no-laying-up-podcast-1073-2025-ryder-cup-preview-58jg)
-- [GoLang Project Template](https://dev.to/ticatwolves/golang-project-template-4iib)
-- [Jeff Su: 95% of People STILL Prompt ChatGPT-5 Wrong](https://dev.to/future_ai/jeff-su-95-of-people-still-prompt-chatgpt-5-wrong-382)
-- [GameSpot: DEATH STRANDING MOSQUITO &lpar;Working Title&rpar; | Animated Film Project Teaser Trailer](https://dev.to/gg_news/gamespot-death-stranding-mosquito-working-title-animated-film-project-teaser-trailer-1g7p)
+- [Code Review Therapy: How to Give Feedback Without Breaking Hearts &lpar;or Code&rpar;💔](https://dev.to/pullflow/code-review-therapy-how-to-give-feedback-without-breaking-hearts-or-code-4dm8)
+- [[Boost]](https://dev.to/anakin_developer/-1699)
+- [Introduction to Prisma: An ORM for Type-Safe and Efficient Database Operations](https://dev.to/learcise_health/introduction-to-prisma-an-orm-for-type-safe-and-efficient-database-operations-4334)
+- [Access Wi-Fi password from a PC](https://dev.to/noorejannatnafia/access-wi-fi-password-from-a-pc-k1e)
 <!-- BLOG-POST-LIST:END -->
 
 
