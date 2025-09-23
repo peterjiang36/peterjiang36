@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Melhores Livros para Aprender Eletrônica Digital e Arduino](https://dev.to/marcosplusplus/top-10-melhores-livros-para-aprender-eletronica-digital-e-arduino-5egn)
-- [Building a Free, Lightweight PWA: Store Manager / Sales + Stock + Customers](https://dev.to/george-hernz/building-a-free-lightweight-pwa-store-manager-sales-stock-customers-49b4)
-- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-2ach)
-- [Boost Your Workflow: 12 Free Figma Plugins That Save Hours of Design &amp; Dev Time](https://dev.to/hashbyt/boost-your-workflow-12-free-figma-plugins-that-save-hours-of-design-dev-time-1c7e)
+- [No Laying Up Podcast: 1073: 2025 Ryder Cup Preview](https://dev.to/youtube_golf/no-laying-up-podcast-1073-2025-ryder-cup-preview-58jg)
+- [GoLang Project Template](https://dev.to/ticatwolves/golang-project-template-4iib)
+- [Jeff Su: 95% of People STILL Prompt ChatGPT-5 Wrong](https://dev.to/future_ai/jeff-su-95-of-people-still-prompt-chatgpt-5-wrong-382)
+- [GameSpot: DEATH STRANDING MOSQUITO &lpar;Working Title&rpar; | Animated Film Project Teaser Trailer](https://dev.to/gg_news/gamespot-death-stranding-mosquito-working-title-animated-film-project-teaser-trailer-1g7p)
 <!-- BLOG-POST-LIST:END -->
 
 
