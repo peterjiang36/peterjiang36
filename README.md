@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Multi-Threading with Worker Threads](https://dev.to/dushmanta/nodejs-multi-threading-with-worker-threads-1nmj)
-- [Complete Ansible Guide](https://dev.to/mcheremnov/complete-ansible-guide-omf)
-- [Unlock More FPS with Object Pooling](https://dev.to/rahul_barate_e965377330fe/unlock-more-fps-with-object-pooling-3e3f)
-- [GameSpot: Xbox Tokyo Game Show 2025 Livestream](https://dev.to/gg_news/gamespot-xbox-tokyo-game-show-2025-livestream-52cd)
+- [AWS IoT Core Starter with Esp32, MQTT, Rust &amp; Terraform](https://dev.to/rammaths/aws-iot-core-starter-with-esp32-mqtt-rust-terraform-2bb)
+- [7 Tips for Securing Nginx with TLS and Fail2Ban on Production Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-fail2ban-on-production-servers-31ph)
+- [Subnetting in AWS](https://dev.to/devzeuz/subnetting-in-aws-pip)
+- [React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀](https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh)
 <!-- BLOG-POST-LIST:END -->
 
 
