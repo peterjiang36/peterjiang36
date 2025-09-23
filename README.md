@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
-- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
-- [The Reality Check: Why AI Coding Assistants Still Need Human Oversight](https://dev.to/heyradcode/the-reality-check-why-ai-coding-assistants-still-need-human-oversight-32l5)
-- [A Developer&#39;s Guide to Cloud Computing](https://dev.to/muhabbat_dev/a-developers-guide-to-cloud-computing-5511)
+- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
+- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
+- [اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI](https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci)
+- [Optimizing Video in B2B Lead Gen: Trends Formats and Tips](https://dev.to/leo_johnson_e34af4a6d9bd9/optimizing-video-in-b2b-lead-gen-trends-formats-and-tips-1kil)
 <!-- BLOG-POST-LIST:END -->
 
 
