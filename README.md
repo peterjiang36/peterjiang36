@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Post 0/10 — Foundations: Zero to Base Setup](https://dev.to/cloud-sky-ops/post-010-foundations-zero-to-base-setup-58ni)
-- [Top 3 Pillars of a Trustworthy AI Governance Framework for 2025](https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210)
-- [How to Build a Privacy-First AI Agent: The 2025 Engineering Blueprint](https://dev.to/boyte_conwa_60f60127bd416/how-to-build-a-privacy-first-ai-agent-the-2025-engineering-blueprint-4ic5)
-- [How to set up Interconnect / FastConnect between GCP and OCI](https://dev.to/farisdurrani/how-to-set-up-interconnect-fastconnect-between-gcp-and-oci-4813)
+- [Do you use codex? Don&#39;t forget this:](https://dev.to/daslavcl/do-you-use-codex-dont-forget-this-2jm8)
+- [GameSpot: ANANTA - Official Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-ananta-official-gameplay-reveal-trailer-1nmd)
+- [IGN: Ananta - Official Gameplay Trailer #2](https://dev.to/gg_news/ign-ananta-official-gameplay-trailer-2-2jj5)
+- [La IA no reemplazará a los desarrolladores de software](https://dev.to/boceto1/la-ia-no-reemplazara-a-los-desarrolladores-de-software-13ed)
 <!-- BLOG-POST-LIST:END -->
 
 
