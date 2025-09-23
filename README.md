@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Top 10 Claude Code Subagents for Instant Productivity](https://dev.to/necatiozmen/your-top-10-claude-code-subagents-for-instant-productivity-4nh3)
-- [ACID vs. BASE: The Ultimate Showdown for Database Reliability](https://dev.to/leonardkachi/acid-vs-base-the-ultimate-showdown-for-database-reliability-500c)
-- [AWS re/Start – My Week 6 Experience](https://dev.to/ijay/aws-restart-my-week-6-experience-heo)
-- [Building a Proactive AI Travel Agent on AWS Bedrock AgentCore &lpar;Final Part &rpar;](https://dev.to/aws-builders/building-a-proactive-ai-travel-agent-on-aws-bedrock-agentcore-final-part--p5n)
+- [NPR Music: Carlos Vives: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-carlos-vives-tiny-desk-concert-2960)
+- [Why I Ditched SSMS for VS Code&#39;s MSSQL Extension &lpar;And Never Looked Back&rpar;](https://dev.to/shiva_shanker_k/why-i-ditched-ssms-for-vs-codes-mssql-extension-and-never-looked-back-4d52)
+- [The Reality Check: Why AI Coding Assistants Still Need Human Oversight](https://dev.to/heyradcode/the-reality-check-why-ai-coding-assistants-still-need-human-oversight-32l5)
+- [A Developer&#39;s Guide to Cloud Computing](https://dev.to/muhabbat_dev/a-developers-guide-to-cloud-computing-5511)
 <!-- BLOG-POST-LIST:END -->
 
 
