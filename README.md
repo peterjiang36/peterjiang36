@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/alazsel/-a8a)
-- [System Design Basics 🍕 + Spring Boot](https://dev.to/wastech/system-design-basics-spring-boot-2dbo)
-- [🚀 Install and Use FSCSS](https://dev.to/fscss-ttr/install-and-use-fscss-o05)
-- [Challenge React](https://dev.to/bronx1337/challenge-react-3kf1)
+- [Missing in Modern C++: Event Synchronization Primitive — with Working Examples](https://dev.to/aregtech/missing-in-modern-c-event-synchronization-primitive-with-working-examples-56h9)
+- [How to Rescue a Broken Ubuntu System](https://dev.to/farzandev13/how-to-rescue-a-broken-ubuntu-system-53b2)
+- [GameSpot: Final Fantasy Tactics: The Ivalice Chronicles - Everything To Know](https://dev.to/gg_news/gamespot-final-fantasy-tactics-the-ivalice-chronicles-everything-to-know-49nk)
+- [IGN: Warhammer 40,000: Darktide - Official Bound by Duty Update Trailer](https://dev.to/gg_news/ign-warhammer-40000-darktide-official-bound-by-duty-update-trailer-3b9a)
 <!-- BLOG-POST-LIST:END -->
 
 
