@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Distributed Transactions with Orchestrator Pattern &lpar;Withdrawal &amp; Deposit Example&rpar;](https://dev.to/mahmoudabbasi/handling-distributed-transactions-with-orchestrator-pattern-withdrawal-deposit-example-dap)
-- [KEXP: Rosali - Change Is In The Form &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-change-is-in-the-form-live-on-kexp-2a9k)
-- [KEXP: Rosali - Hopeless &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-hopeless-live-on-kexp-4652)
-- [KEXP: Rosali - Rewind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-rewind-live-on-kexp-33hb)
+- [Top 10 Melhores Livros para Aprender Eletrônica Digital e Arduino](https://dev.to/marcosplusplus/top-10-melhores-livros-para-aprender-eletronica-digital-e-arduino-5egn)
+- [Building a Free, Lightweight PWA: Store Manager / Sales + Stock + Customers](https://dev.to/george-hernz/building-a-free-lightweight-pwa-store-manager-sales-stock-customers-49b4)
+- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-2ach)
+- [Boost Your Workflow: 12 Free Figma Plugins That Save Hours of Design &amp; Dev Time](https://dev.to/hashbyt/boost-your-workflow-12-free-figma-plugins-that-save-hours-of-design-dev-time-1c7e)
 <!-- BLOG-POST-LIST:END -->
 
 
