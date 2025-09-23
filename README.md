@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Rosali - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-full-performance-live-on-kexp-3hgi)
-- [Golf.com: The Unsolved Mystery Behind Bethpage Black&#39;s Famous Warning Sign](https://dev.to/youtube_golf/golfcom-the-unsolved-mystery-behind-bethpage-blacks-famous-warning-sign-1njl)
-- [IGN: Fortnite x Daft Punk Experience - Official Trailer](https://dev.to/gg_news/ign-fortnite-x-daft-punk-experience-official-trailer-4g04)
-- [IGN: Stalker 2: Heart of Chornobyl - Official &#39;Night of the Hunter Update&#39; Update 1.6 Trailer](https://dev.to/gg_news/ign-stalker-2-heart-of-chornobyl-official-night-of-the-hunter-update-update-16-trailer-1idm)
+- [Nanobot by Obot.ai: Architecting Real MCP Agents with MCP-UI, Stateful Threads &amp; Agent-to-Agent Patterns](https://dev.to/om_shree_0709/nanobot-by-obotai-architecting-real-mcp-agents-with-mcp-ui-stateful-threads-agent-to-agent-477d)
+- [I just finished a beginner project combining a BMI calculator, a live clock, and a GitHub profile card using the GitHub API.](https://dev.to/sufalthakre/i-just-finished-a-beginner-project-combining-a-bmi-calculator-a-live-clock-and-a-github-profile-1629)
+- [AdminWind: Free Admin Dashboard Template + 10 More TailwindCSS Templates You Need in 2025](https://dev.to/saim_t8/adminwind-free-admin-dashboard-template-10-more-tailwindcss-templates-you-need-in-2025-5f0g)
+- [The C-Suite API: 5 Endpoints for Writing B2B Content That Gets a 200 OK](https://dev.to/michaelaiglobal/the-c-suite-api-5-endpoints-for-writing-b2b-content-that-gets-a-200-ok-418o)
 <!-- BLOG-POST-LIST:END -->
 
 
