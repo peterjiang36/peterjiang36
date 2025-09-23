@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blockchain Trilemma: Pick Two, Lose One](https://dev.to/dhis_is_jj/the-blockchain-trilemma-pick-two-lose-one-51op)
-- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
-- [اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI](https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci)
-- [Optimizing Video in B2B Lead Gen: Trends Formats and Tips](https://dev.to/leo_johnson_e34af4a6d9bd9/optimizing-video-in-b2b-lead-gen-trends-formats-and-tips-1kil)
+- [Handling Distributed Transactions with Orchestrator Pattern &lpar;Withdrawal &amp; Deposit Example&rpar;](https://dev.to/mahmoudabbasi/handling-distributed-transactions-with-orchestrator-pattern-withdrawal-deposit-example-dap)
+- [KEXP: Rosali - Change Is In The Form &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-change-is-in-the-form-live-on-kexp-2a9k)
+- [KEXP: Rosali - Hopeless &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-hopeless-live-on-kexp-4652)
+- [KEXP: Rosali - Rewind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-rosali-rewind-live-on-kexp-33hb)
 <!-- BLOG-POST-LIST:END -->
 
 
