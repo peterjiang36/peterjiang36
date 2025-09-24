@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Ultimate Smart Home: APIs Every Interior Designer &lpar;and Developer&rpar; Should Know](https://dev.to/hardik_b2d8f0bca/building-the-ultimate-smart-home-apis-every-interior-designer-and-developer-should-know-371p)
-- [From Code to Color: How I Built My Home Decor Blog and What Developers Can Learn](https://dev.to/hardik_b2d8f0bca/from-code-to-color-how-i-built-my-home-decor-blog-and-what-developers-can-learn-59g1)
-- [What is the benefit of learning JavaScript?](https://dev.to/kamalhinduja/what-is-the-benefit-of-learning-javascript-3dd5)
-- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 1/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-13-2od4)
+- [How I Built a FastAPI App with MongoDB: A Step-by-Step Guide](https://dev.to/sarbajitacharjee/how-i-built-a-fastapi-app-with-mongodb-a-step-by-step-guide-3a80)
+- [API Platform Con 2025 - Day 2](https://dev.to/sensiolabs/api-platform-con-2025-day-2-ebd)
+- [My First Tauri CI/CD Pipeline: Lessons from Building VaultNote with SvelteKit](https://dev.to/dev_michael/my-first-tauri-cicd-pipeline-lessons-from-building-vaultnote-with-sveltekit-17mp)
+- [The conspiracy is so blatant it almost looks like a case study in corruption. How did the courts even allow this to go unchecked?](https://dev.to/edwardvinke/the-conspiracy-is-so-blatant-it-almost-looks-like-a-case-study-in-corruption-how-did-the-courts-2pdg)
 <!-- BLOG-POST-LIST:END -->
 
 
