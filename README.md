@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying Bandit SAST Tool to Secure Python Applications](https://dev.to/jefferson_rosas/applying-bandit-sast-tool-to-secure-python-applications-3ci2)
-- [Day 20 of my 60-Day Game Dev On Android Challenge 🎮📱](https://dev.to/calchiwo/day-20-of-my-60-day-game-dev-on-android-challenge-4lhm)
-- [Day 19 of my 60-Day Game Dev On Android Challenge](https://dev.to/calchiwo/day-19-of-my-60-day-game-dev-on-android-challenge-2pk4)
-- [Shipping Words: How I Use Dev Habits to Finish Writing Contests](https://dev.to/javis_frederick_0da9bc020/shipping-words-how-i-use-dev-habits-to-finish-writing-contests-19ne)
+- [🚀 Bytedocs: A Modern Alternative to Swagger](https://dev.to/aibnuhibban/bytedocs-a-modern-alternative-to-swagger-312d)
+- [El escándalo Milei y el “mercado total”: cuando el Estado pierde terreno](https://dev.to/applesophie98/el-escandalo-milei-y-el-mercado-total-cuando-el-estado-pierde-terreno-fn0)
+- [Building a Real-Time Compass App on HarmonyOS NEXT Wearables with ArkTS](https://dev.to/harmonyos/building-a-real-time-compass-app-on-harmonyos-next-wearables-with-arkts-11je)
+- [Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.](https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6)
 <!-- BLOG-POST-LIST:END -->
 
 
