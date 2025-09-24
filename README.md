@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
-- [Lazy vs Eager Evaluation in JavaScript: Performance Trade-offs](https://dev.to/patoliyainfotech/lazy-vs-eager-evaluation-in-javascript-performance-trade-offs-3m7j)
-- [AI Revolution Is Redesigning UX Forever](https://dev.to/dev_resources/ai-revolution-is-redesigning-ux-forever-14e3)
-- [Boosting SaaS Performance: Speed, Uptime, and Growth at Scale](https://dev.to/aditya_c90047909cf234c949/boosting-saas-performance-speed-uptime-and-growth-at-scale-57de)
+- [From Enchantment to Disenchantment - How companies are dealing with the new costs of AI](https://dev.to/douglas_mor/from-enchantment-to-disenchantment-how-companies-are-dealing-with-the-new-costs-of-ai-4pmc)
+- [Assignment by Value vs Assignment by Reference in JavaScript](https://dev.to/rowleks/assignment-by-value-vs-assignment-by-reference-in-javascript-d64)
+- [Not Just Their Story, It’s Ours](https://dev.to/albert_hadi_b49c135537451/not-just-their-story-its-ours-142k)
+- [🚀 Contribute to MDX Editor — An Open-Source, AI-Powered Markdown + JSX Experience](https://dev.to/rafatalam/contribute-to-mdx-editor-an-open-source-ai-powered-markdown-jsx-experience-47n7)
 <!-- BLOG-POST-LIST:END -->
 
 
