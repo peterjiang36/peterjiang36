@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternatives to Bank Loans for Students and Youth: Exploring Smarter Financing Options](https://dev.to/gov01/alternatives-to-bank-loans-for-students-and-youth-exploring-smarter-financing-options-48m3)
-- [7 Tips for Securing Nginx with TLS and Firewall Rules Today](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-nginx-with-tls-and-firewall-rules-today-366c)
-- [Day 01 Theory behind java](https://dev.to/rohit_juyal_c93b63c3dcf9c/day-01-theory-behind-java-59id)
-- [A new lesson from my recent interview experience](https://dev.to/manikandan_a8f99e0153ef77/a-new-lesson-from-my-recent-interview-experience-1dhn)
+- [From Curious Coder to Confident AI Engineer: Building Real-World AI Agents](https://dev.to/onlineproxy/from-curious-coder-to-confident-ai-engineer-building-real-world-ai-agents-17l6)
+- [Why Poetry Contests Feel Like Daily Coding Challenges](https://dev.to/writing_contests_bf65ae77/why-poetry-contests-feel-like-daily-coding-challenges-24a)
+- [Setting Up a New Shop in Shopware: Multi-Sales-Channel Decisions Explained](https://dev.to/stefan-freelancer/setting-up-a-new-shop-in-shopware-multi-sales-channel-decisions-explained-13lp)
+- [AI-powered back-to-school assistant](https://dev.to/aniruddhaadak/ai-powered-back-to-school-assistant-23dm)
 <!-- BLOG-POST-LIST:END -->
 
 
