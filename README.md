@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Dashboard Architecture Using AWS Lambda, API Gateway, and GitHub Actions](https://dev.to/asimmakes/serverless-dashboard-architecture-using-aws-lambda-api-gateway-and-github-actions-3enn)
-- [Markov chains are the original language models](https://dev.to/technoblogger14o3/markov-chains-are-the-original-language-models-2a65)
-- [COLORS: The Favors | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-a-colors-show-f4b)
-- [Rick Beato: The John Fogerty Interview](https://dev.to/music_youtube/rick-beato-the-john-fogerty-interview-16oi)
+- [One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform](https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk)
+- [The Hidden Revenue Leak in Manual QA](https://dev.to/radha_4c842d8e4362a7cdd9c/the-hidden-revenue-leak-in-manual-qa-3po7)
+- [How to Use Huawei Core-Speech Kit for English and Japanese Text-to-Speech &lpar;TTS&rpar;](https://dev.to/harmonyos/how-to-use-huawei-core-speech-kit-for-english-and-japanese-text-to-speech-tts-1nk6)
+- [billboard.js 3.17.0: ✨ New Axis Customization, Label Styling &amp; Image Labels!](https://dev.to/netil/billboardjs-3170-new-axis-customization-label-styling-image-labels-5ao7)
 <!-- BLOG-POST-LIST:END -->
 
 
