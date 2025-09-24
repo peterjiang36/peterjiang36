@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Sketch Identity: Authentication vs. Authorization](https://dev.to/auth0/lets-sketch-identity-authentication-vs-authorization-48kb)
-- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
-- [JsonX: Mapping JSON to C Structs on Embedded Systems](https://dev.to/mihail_asd/jsonx-mapping-json-to-c-structs-on-embedded-systems-5e0o)
-- [Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices](https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Cool Hand &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-cool-hand-live-on-kexp-nib)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Bal &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-bal-live-on-kexp-362k)
+- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Hop Bico &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-hop-bico-live-on-kexp-4hd8)
+- [Why Plan Matters in Coding AI Agent: Fixing Misaligned Prompts](https://dev.to/chenverdent/why-plan-matters-in-coding-ai-agent-fixing-misaligned-prompts-1d74)
 <!-- BLOG-POST-LIST:END -->
 
 
