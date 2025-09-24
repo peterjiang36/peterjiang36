@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Bytedocs: A Modern Alternative to Swagger](https://dev.to/aibnuhibban/bytedocs-a-modern-alternative-to-swagger-312d)
-- [El escándalo Milei y el “mercado total”: cuando el Estado pierde terreno](https://dev.to/applesophie98/el-escandalo-milei-y-el-mercado-total-cuando-el-estado-pierde-terreno-fn0)
-- [Building a Real-Time Compass App on HarmonyOS NEXT Wearables with ArkTS](https://dev.to/harmonyos/building-a-real-time-compass-app-on-harmonyos-next-wearables-with-arkts-11je)
-- [Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.](https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6)
+- [Serverless Dashboard Architecture Using AWS Lambda, API Gateway, and GitHub Actions](https://dev.to/asimmakes/serverless-dashboard-architecture-using-aws-lambda-api-gateway-and-github-actions-3enn)
+- [Markov chains are the original language models](https://dev.to/technoblogger14o3/markov-chains-are-the-original-language-models-2a65)
+- [COLORS: The Favors | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-a-colors-show-f4b)
+- [Rick Beato: The John Fogerty Interview](https://dev.to/music_youtube/rick-beato-the-john-fogerty-interview-16oi)
 <!-- BLOG-POST-LIST:END -->
 
 
