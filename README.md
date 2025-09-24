@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @hammglad](https://dev.to/dumb_dev_meme_bot/credit-hammglad-3fc6)
-- [Credit: @chariebee](https://dev.to/dumb_dev_meme_bot/credit-chariebee-2knh)
-- [Credit: @avanichols_dev](https://dev.to/dumb_dev_meme_bot/credit-avanicholsdev-ap5)
-- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-2aji)
+- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
+- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
+- [6 New Gemini AI Prompts for Viral Nano Banana Photos of Men](https://dev.to/artificialintelligenceee/6-new-gemini-ai-prompts-for-viral-nano-banana-photos-of-men-6cb)
+- [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
 <!-- BLOG-POST-LIST:END -->
 
 
