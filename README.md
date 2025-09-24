@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Would love your feedback on my Portfolio 😊](https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7)
-- [Day 009 on My journey to becoming a CSS Pro with Keith Grant](https://dev.to/ffff0000h/day-009-on-my-journey-to-becoming-a-css-pro-with-keith-grant-1o15)
-- [Retrieval Augmented Generation – Generative AI Tool](https://dev.to/logicalwings/retrieval-augmented-generation-generative-ai-tool-4g5)
-- [Ted talks that everyone should hear - part 1](https://dev.to/oryaacov/ted-talks-that-everyone-should-hear-part-1-424o)
+- [Applying Bandit SAST Tool to Secure Python Applications](https://dev.to/jefferson_rosas/applying-bandit-sast-tool-to-secure-python-applications-3ci2)
+- [Day 20 of my 60-Day Game Dev On Android Challenge 🎮📱](https://dev.to/calchiwo/day-20-of-my-60-day-game-dev-on-android-challenge-4lhm)
+- [Day 19 of my 60-Day Game Dev On Android Challenge](https://dev.to/calchiwo/day-19-of-my-60-day-game-dev-on-android-challenge-2pk4)
+- [Shipping Words: How I Use Dev Habits to Finish Writing Contests](https://dev.to/javis_frederick_0da9bc020/shipping-words-how-i-use-dev-habits-to-finish-writing-contests-19ne)
 <!-- BLOG-POST-LIST:END -->
 
 
