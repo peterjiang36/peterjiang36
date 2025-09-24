@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Curious Coder to Confident AI Engineer: Building Real-World AI Agents](https://dev.to/onlineproxy/from-curious-coder-to-confident-ai-engineer-building-real-world-ai-agents-17l6)
-- [Why Poetry Contests Feel Like Daily Coding Challenges](https://dev.to/writing_contests_bf65ae77/why-poetry-contests-feel-like-daily-coding-challenges-24a)
-- [Setting Up a New Shop in Shopware: Multi-Sales-Channel Decisions Explained](https://dev.to/stefan-freelancer/setting-up-a-new-shop-in-shopware-multi-sales-channel-decisions-explained-13lp)
-- [AI-powered back-to-school assistant](https://dev.to/aniruddhaadak/ai-powered-back-to-school-assistant-23dm)
+- [Build High Quality Reasoning Datasets in Minutes Using Natural Prompts](https://dev.to/lukehinds/build-chain-of-thought-datasets-in-minutes-using-natural-prompts-4jae)
+- [Why Every Developer Needs a Portfolio in 2026](https://dev.to/aureathemes/why-every-developer-needs-a-portfolio-in-2026-40f)
+- [**Unlocking the Power of Reinforcement Learning: Discovering](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-reinforcement-learning-discovering-l82)
+- [How to prompt Gemini CLI to improve your Dockerfile](https://dev.to/shipyard/how-to-prompt-gemini-cli-to-improve-your-dockerfile-2ofg)
 <!-- BLOG-POST-LIST:END -->
 
 
