@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Enchantment to Disenchantment - How companies are dealing with the new costs of AI](https://dev.to/douglas_mor/from-enchantment-to-disenchantment-how-companies-are-dealing-with-the-new-costs-of-ai-4pmc)
-- [Assignment by Value vs Assignment by Reference in JavaScript](https://dev.to/rowleks/assignment-by-value-vs-assignment-by-reference-in-javascript-d64)
-- [Not Just Their Story, It’s Ours](https://dev.to/albert_hadi_b49c135537451/not-just-their-story-its-ours-142k)
-- [🚀 Contribute to MDX Editor — An Open-Source, AI-Powered Markdown + JSX Experience](https://dev.to/rafatalam/contribute-to-mdx-editor-an-open-source-ai-powered-markdown-jsx-experience-47n7)
+- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
+- [IA para escritores independentes: transforme sua escrita com inteligência artificial](https://dev.to/no_codestartup/ia-para-escritores-independentes-transforme-sua-escrita-com-inteligencia-artificial-4mfd)
+- [Build an Ollama LLM software engineering language bot](https://dev.to/austincunningham/build-an-ollama-llm-software-engineering-language-bot-292k)
+- [🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+](https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a)
 <!-- BLOG-POST-LIST:END -->
 
 
