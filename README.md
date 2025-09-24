@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Cool Hand &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-cool-hand-live-on-kexp-nib)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Bal &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-bal-live-on-kexp-362k)
-- [KEXP: Derya Yıldırım &amp; Grup Şimşek - Hop Bico &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-derya-yildirim-grup-simsek-hop-bico-live-on-kexp-4hd8)
-- [Why Plan Matters in Coding AI Agent: Fixing Misaligned Prompts](https://dev.to/chenverdent/why-plan-matters-in-coding-ai-agent-fixing-misaligned-prompts-1d74)
+- [Authentication Tokens: Your Digital VIP Pass 🎫](https://dev.to/vishdevwork/authentication-tokens-your-digital-vip-pass-3cem)
+- [Lazy vs Eager Evaluation in JavaScript: Performance Trade-offs](https://dev.to/patoliyainfotech/lazy-vs-eager-evaluation-in-javascript-performance-trade-offs-3m7j)
+- [AI Revolution Is Redesigning UX Forever](https://dev.to/dev_resources/ai-revolution-is-redesigning-ux-forever-14e3)
+- [Boosting SaaS Performance: Speed, Uptime, and Growth at Scale](https://dev.to/aditya_c90047909cf234c949/boosting-saas-performance-speed-uptime-and-growth-at-scale-57de)
 <!-- BLOG-POST-LIST:END -->
 
 
