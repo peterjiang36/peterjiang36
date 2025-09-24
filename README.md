@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to the Algorithm Age](https://dev.to/sheep_dev/welcome-to-the-algorithm-age-2f5n)
-- [Keeping branches in sync in a Monorepo: The Pre-Push hook solution](https://dev.to/pratiktalreja/keeping-branches-in-sync-in-a-monorepo-the-pre-push-hook-solution-3c0f)
-- [Build High Quality Reasoning Datasets in Minutes Using Natural Prompts](https://dev.to/lukehinds/build-chain-of-thought-datasets-in-minutes-using-natural-prompts-4jae)
-- [About Web 3.0](https://dev.to/humbertoromanojr/about-web-30-pk5)
+- [Building a Scalable AI-Powered Fintech Platform: Architecture with Java Spring Boot and Amazon Bedrock](https://dev.to/shiv-centcapital/building-a-scalable-ai-powered-fintech-platform-architecture-with-java-spring-boot-and-amazon-25kl)
+- [Built a Discord Bot to transform your community into business value and promote your socials](https://dev.to/romo_ivaldy_49821ae91768/built-a-discord-bot-to-transform-your-community-into-business-value-and-promote-your-socials-2p1p)
+- [**Unlocking the World of Artificial Intelligence: Agents and](https://dev.to/drcarlosruizviquez/unlocking-the-world-of-artificial-intelligence-agents-and-5hl4)
+- [Cómo los perfiles JSON me ayudaron a que la IA me entendiera](https://dev.to/iblancasa/como-los-perfiles-json-me-ayudaron-a-que-la-ia-me-entendiera-12)
 <!-- BLOG-POST-LIST:END -->
 
 
