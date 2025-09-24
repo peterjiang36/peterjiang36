@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Obscura: la nueva y oscura variante de ransomware que pone en jaque a las empresas](https://dev.to/lucatonyraudales/obscura-la-nueva-y-oscura-variante-de-ransomware-que-pone-en-jaque-a-las-empresas-2op0)
-- [ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor &lpar;Step-by-Step&rpar;](https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd)
-- [6 New Gemini AI Prompts for Viral Nano Banana Photos of Men](https://dev.to/artificialintelligenceee/6-new-gemini-ai-prompts-for-viral-nano-banana-photos-of-men-6cb)
-- [O Código Aberto e a Arquitetura da Ideia: Uma Análise dos Movimentos Open Source e Software Livre](https://dev.to/mrpunkdasilva/o-codigo-aberto-e-a-arquitetura-da-ideia-uma-analise-dos-movimentos-open-source-e-software-livre-4hep)
+- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb)
+- [Workspace on Demand in i3wm](https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki)
+- [Bryan Bros Golf: We Played With the #1 Junior Golfer in the Country](https://dev.to/youtube_golf/bryan-bros-golf-we-played-with-the-1-junior-golfer-in-the-country-2k6k)
+- [Peter Finch Golf: I’ve wanted to play here all my life...](https://dev.to/youtube_golf/peter-finch-golf-ive-wanted-to-play-here-all-my-life-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 
