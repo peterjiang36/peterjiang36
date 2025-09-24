@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Yakuza Kiwami 3 Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-trailer-rgg-summit-2025-c76)
-- [IGN: Skate Early Access Review](https://dev.to/gg_news/ign-skate-early-access-review-4b5p)
-- [Welcome Thread - v344](https://dev.to/devteam/welcome-thread-v344-42b3)
-- [Guia de Python PT-BR #4: Funções &lpar;def&rpar; 🛠️](https://dev.to/vgermanndev/guia-de-python-pt-br-4-funcoes-def-3bmd)
+- [🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender &lpar;Java&rpar;](https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm)
+- [The Coming Shift From AI Models to AI Infrastructure](https://dev.to/leena_malhotra/the-coming-shift-from-ai-models-to-ai-infrastructure-4p2g)
+- [MiMo-Audio: Voice and Language Just Merged](https://dev.to/aiwithapex/mimo-audio-voice-and-language-just-merged-3727)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1lf9)
 <!-- BLOG-POST-LIST:END -->
 
 
