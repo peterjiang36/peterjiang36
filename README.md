@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender &lpar;Java&rpar;](https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm)
-- [The Coming Shift From AI Models to AI Infrastructure](https://dev.to/leena_malhotra/the-coming-shift-from-ai-models-to-ai-infrastructure-4p2g)
-- [MiMo-Audio: Voice and Language Just Merged](https://dev.to/aiwithapex/mimo-audio-voice-and-language-just-merged-3727)
-- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-1lf9)
+- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
+- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi)
+- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60)
+- [IGN: Hollow Knight Silksong - How to Reach Act 3 and Get on the Path to the True End](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-reach-act-3-and-get-on-the-path-to-the-true-end-316p)
 <!-- BLOG-POST-LIST:END -->
 
 
