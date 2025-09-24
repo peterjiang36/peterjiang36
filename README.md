@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb)
-- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi)
-- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60)
-- [IGN: Hollow Knight Silksong - How to Reach Act 3 and Get on the Path to the True End](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-reach-act-3-and-get-on-the-path-to-the-true-end-316p)
+- [Building the Ultimate Smart Home: APIs Every Interior Designer &lpar;and Developer&rpar; Should Know](https://dev.to/hardik_b2d8f0bca/building-the-ultimate-smart-home-apis-every-interior-designer-and-developer-should-know-371p)
+- [From Code to Color: How I Built My Home Decor Blog and What Developers Can Learn](https://dev.to/hardik_b2d8f0bca/from-code-to-color-how-i-built-my-home-decor-blog-and-what-developers-can-learn-59g1)
+- [What is the benefit of learning JavaScript?](https://dev.to/kamalhinduja/what-is-the-benefit-of-learning-javascript-3dd5)
+- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 1/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-13-2od4)
 <!-- BLOG-POST-LIST:END -->
 
 
