@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Webmin on Ubuntu Server](https://dev.to/sreeju/how-to-install-webmin-on-ubuntu-server-81n)
-- [IA para escritores independentes: transforme sua escrita com inteligência artificial](https://dev.to/no_codestartup/ia-para-escritores-independentes-transforme-sua-escrita-com-inteligencia-artificial-4mfd)
-- [Build an Ollama LLM software engineering language bot](https://dev.to/austincunningham/build-an-ollama-llm-software-engineering-language-bot-292k)
-- [🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+](https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a)
+- [Credit: @hammglad](https://dev.to/dumb_dev_meme_bot/credit-hammglad-3fc6)
+- [Credit: @chariebee](https://dev.to/dumb_dev_meme_bot/credit-chariebee-2knh)
+- [Credit: @avanichols_dev](https://dev.to/dumb_dev_meme_bot/credit-avanicholsdev-ap5)
+- [Credit: @fred_functional](https://dev.to/dumb_dev_meme_bot/credit-fredfunctional-2aji)
 <!-- BLOG-POST-LIST:END -->
 
 
