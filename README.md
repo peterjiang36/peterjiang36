@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a JavaScript Bundler?](https://dev.to/izmroen/what-is-a-javascript-bundler-16h2)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-b3d)
-- [KEXP: Thee Marloes - Not Today &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-not-today-live-on-kexp-26fb)
-- [KEXP: Thee Marloes - Logika &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-logika-live-on-kexp-2jdl)
+- [🧠 Demystifying Java Memory: How Strings Really Work](https://dev.to/mohamad_mhana/demystifying-java-memory-1im5)
+- [Best Cursor AI Alternatives for Developers in 2025](https://dev.to/sharonv/best-cursor-ai-alternatives-for-developers-in-2025-4gho)
+- [Top 8 LLM Observability Tools for Production-Ready Applications](https://dev.to/kuldeep_paul/top-8-llm-observability-tools-for-production-ready-applications-6ah)
+- [🚀 Modernizing Verlet.js with TypeScript and React Wrapper](https://dev.to/franklinhyriol/modernizing-verletjs-with-typescript-and-react-wrapper-2f25)
 <!-- BLOG-POST-LIST:END -->
 
 
