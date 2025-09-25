@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design an Engaging Splash Page with Practical Examples](https://dev.to/lollypopdesign/how-to-design-an-engaging-splash-page-with-practical-examples-528j)
-- [NPR Music: Chuwi: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-chuwi-tiny-desk-concert-1koo)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-50cb)
-- [Agentic AI Observability with Amazon CloudWatch: Transforming Enterprise AI Monitoring](https://dev.to/acmopm/agentic-ai-observability-with-amazon-cloudwatch-transforming-enterprise-ai-monitoring-for-the-28k6)
+- [Proof Before Promises: A Human-Centered Release Method for Small Engineering Teams](https://dev.to/sonia_bobrik_1939cdddd79d/proof-before-promises-a-human-centered-release-method-for-small-engineering-teams-10nn)
+- [Next.js: React’dan Keyingi Qadam &lpar;Yangi Boshlovchilar Uchun Tajriba&rpar;](https://dev.to/rivojiddin_f9740e8fb02701/nextjs-reactdan-keyingi-qadam-yangi-boshlovchilar-uchun-tajriba-386j)
+- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
+- [Experimenting with Terraform in YAML](https://dev.to/totegamma/experimenting-with-terraform-in-yaml-1h37)
 <!-- BLOG-POST-LIST:END -->
 
 
