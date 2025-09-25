@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Process killer CLI project using Java Process API](https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi)
-- [Coding Agent Template: A Template for Building AI Coding Agents](https://dev.to/jqueryscript/coding-agent-template-a-template-for-building-ai-coding-agents-56m2)
-- [How to Use AI to Generate Unit Tests &lpar;That Actually Work&rpar;](https://dev.to/jaideepparashar/how-to-use-ai-to-generate-unit-tests-that-actually-work-35pf)
-- [Quicksort explained IKEA-style](https://dev.to/technoblogger14o3/quicksort-explained-ikea-style-31p4)
+- [TCJSGame Movement Utilities: Complete Reference Guide](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-movement-utilities-complete-reference-guide-30o5)
+- [Enhancing quantum factorization through adaptive period finding](https://dev.to/stevenrugg/enhancing-quantum-factorization-through-adaptive-period-finding-4dil)
+- [🚀 Building a Sandbox Data Warehouse with Snowflake + GitHub Actions &lpar;Part 2&rpar;](https://dev.to/qvfagundes/building-a-sandbox-data-warehouse-with-snowflake-github-actions-part-2-51dn)
+- [AI-RateMyProfessors App](https://dev.to/tohmze/ai-ratemyprofessors-app-nfp)
 <!-- BLOG-POST-LIST:END -->
 
 
