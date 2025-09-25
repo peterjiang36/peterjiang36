@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CDK Environment Management: Static vs Dynamic Stack Creation](https://dev.to/aws-heroes/cdk-environment-management-static-vs-dynamic-stack-creation-383l)
-- [GameSpot: Marvel’s Wolverine - Behind The Claws | PS5 Games](https://dev.to/gg_news/gamespot-marvels-wolverine-behind-the-claws-ps5-games-4io8)
-- [GameSpot: Halloween - Gameplay and Release Date Reveal | PS5 Games](https://dev.to/gg_news/gamespot-halloween-gameplay-and-release-date-reveal-ps5-games-3nb2)
-- [GameSpot: Best PlayStation State of Play Trailers &lpar;September 2025&rpar;](https://dev.to/gg_news/gamespot-best-playstation-state-of-play-trailers-september-2025-1dil)
+- [Programação funcional - primeiras impressões com Clojure](https://dev.to/fumagallilaura/programacao-funcional-primeiras-impressoes-com-clojure-10dc)
+- [Entendendo o Problema N+1: Um Guia Prático para Desenvolvedores](https://dev.to/danielcamucatto/entendendo-o-problema-n1-um-guia-pratico-para-desenvolvedores-4ocb)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl)
+- [How to Harden Nginx with TLS, Fail2Ban, and Security Headers](https://dev.to/ramer2b58cbe46bc8/how-to-harden-nginx-with-tls-fail2ban-and-security-headers-2m26)
 <!-- BLOG-POST-LIST:END -->
 
 
