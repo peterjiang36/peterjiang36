@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Tuning for Node.js APIs: Caching, Indexes &amp; Async](https://dev.to/ramer2b58cbe46bc8/performance-tuning-for-nodejs-apis-caching-indexes-async-40p3)
-- [IGN: Petit Planet - Official Announcement Trailer](https://dev.to/gg_news/ign-petit-planet-official-announcement-trailer-4ge1)
-- [7 Tips for Hardened Nginx TLS Deployments on High‑Traffic Sites](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardened-nginx-tls-deployments-on-high-traffic-sites-56jc)
-- [AI coding anti-patterns: 6 things to avoid for better AI coding](https://dev.to/lingodotdev/ai-coding-anti-patterns-6-things-to-avoid-for-better-ai-coding-f3e)
+- [11+ Best Replit AI Alternatives in 2025](https://dev.to/vinishbhaskar/best-replit-ai-alternatives-175h)
+- [What is object](https://dev.to/2021_cse_gayathrir_e733/what-is-object-3pd0)
+- [REST vs GraphQL: Side-by-Side Analysis with Real-World Examples &amp; Proven Best Practices](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
+- [What is CSS](https://dev.to/2021_cse_gayathrir_e733/what-is-css-477)
 <!-- BLOG-POST-LIST:END -->
 
 
