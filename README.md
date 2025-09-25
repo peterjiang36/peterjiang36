@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [11+ Best Replit AI Alternatives in 2025](https://dev.to/vinishbhaskar/best-replit-ai-alternatives-175h)
-- [What is object](https://dev.to/2021_cse_gayathrir_e733/what-is-object-3pd0)
-- [REST vs GraphQL: Side-by-Side Analysis with Real-World Examples &amp; Proven Best Practices](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
-- [What is CSS](https://dev.to/2021_cse_gayathrir_e733/what-is-css-477)
+- [GameSpot: Ananta | Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-gameplay-trailer-2kjf)
+- [GameSpot: Monster Hunters Stories 3: Twisted Reflection Gameplay](https://dev.to/gg_news/gamespot-monster-hunters-stories-3-twisted-reflection-gameplay-156b)
+- [GameSpot: Monster Hunter Wilds x Final Fantasy XIV Omega Planetes Gameplay](https://dev.to/gg_news/gamespot-monster-hunter-wilds-x-final-fantasy-xiv-omega-planetes-gameplay-54be)
+- [NestJS - Circular Dependency Hell and How to Avoid it](https://dev.to/smolinari/nestjs-circular-dependency-hell-and-how-to-avoid-it-4lfp)
 <!-- BLOG-POST-LIST:END -->
 
 
