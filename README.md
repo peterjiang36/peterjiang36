@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-57im)
-- [7 Tips for Hardening Nginx: TLS, Fail2Ban, and WAF Configuration](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-tls-fail2ban-and-waf-configuration-3kfg)
-- [BEAM: In Plain English](https://dev.to/adamanq/beam-in-plain-english-2n1o)
-- [BEAM: Простыми словами](https://dev.to/adamanq/beam-prostymi-slovami-3104)
+- [Part-82: Kubernetes Service — LoadBalancer](https://dev.to/latchudevops/part-82-kubernetes-service-loadbalancer-468h)
+- [How to dockerize a node.js application with a custom dockerfile](https://dev.to/deborahemeni1/how-to-dockerize-a-nodejs-application-with-a-custom-dockerfile-7ji)
+- [How to Create Histograms in R: A Comprehensive Guide](https://dev.to/anshuman_816f8012be0c9b6c/how-to-create-histograms-in-r-a-comprehensive-guide-3hb0)
+- [Shaming people for using AI, but...](https://dev.to/mdohr07/shaming-people-for-using-ai-but-1gif)
 <!-- BLOG-POST-LIST:END -->
 
 
