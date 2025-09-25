@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof Before Promises: A Human-Centered Release Method for Small Engineering Teams](https://dev.to/sonia_bobrik_1939cdddd79d/proof-before-promises-a-human-centered-release-method-for-small-engineering-teams-10nn)
-- [Next.js: React’dan Keyingi Qadam &lpar;Yangi Boshlovchilar Uchun Tajriba&rpar;](https://dev.to/rivojiddin_f9740e8fb02701/nextjs-reactdan-keyingi-qadam-yangi-boshlovchilar-uchun-tajriba-386j)
-- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
-- [Experimenting with Terraform in YAML](https://dev.to/totegamma/experimenting-with-terraform-in-yaml-1h37)
+- [What is a JavaScript Bundler?](https://dev.to/izmroen/what-is-a-javascript-bundler-16h2)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-b3d)
+- [KEXP: Thee Marloes - Not Today &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-not-today-live-on-kexp-26fb)
+- [KEXP: Thee Marloes - Logika &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-logika-live-on-kexp-2jdl)
 <!-- BLOG-POST-LIST:END -->
 
 
