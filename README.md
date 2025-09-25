@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for VMs: &quot;Works on all Machines&quot; with eryph](https://dev.to/frank_wagner_db8544544684/docker-for-vms-works-on-all-machines-with-eryph-3ce6)
-- [Linux Fundamentals for DevOps &amp; SRE: The Only Guide You&#39;ll Ever Need](https://dev.to/mohammed_yasirkhan_9fc2d/linux-fundamentals-for-devops-sre-the-only-guide-youll-ever-need-2de6)
-- [Building a GUI Tool to Easily Tune Dynamsoft Barcode Reader Parameters](https://dev.to/yushulx/building-a-gui-tool-to-easily-tune-dynamsoft-barcode-reader-parameters-5b1f)
-- [How to connect Raspberry Pi to wifi using ssh in command line?](https://dev.to/carolineee/how-to-connect-raspberry-pi-to-wifi-using-ssh-in-command-line-2bm8)
+- [How to Design an Engaging Splash Page with Practical Examples](https://dev.to/lollypopdesign/how-to-design-an-engaging-splash-page-with-practical-examples-528j)
+- [NPR Music: Chuwi: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-chuwi-tiny-desk-concert-1koo)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-50cb)
+- [Agentic AI Observability with Amazon CloudWatch: Transforming Enterprise AI Monitoring](https://dev.to/acmopm/agentic-ai-observability-with-amazon-cloudwatch-transforming-enterprise-ai-monitoring-for-the-28k6)
 <!-- BLOG-POST-LIST:END -->
 
 
