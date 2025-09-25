@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Getting Started with Django – A Beginner-Friendly Guide](https://dev.to/gopal_ghate_5bda01b730e45/getting-started-with-django-a-beginner-friendly-guide-4j4a)
-- [Evolução da linguagem Java &lpar;parte 2&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-2-mff)
-- [5 Website Mistakes That Cost Plumbing Companies New Customers](https://dev.to/abdul_rehmandev/5-website-mistakes-that-cost-plumbing-companies-new-customers-5gc9)
-- [How I Built a Lightning-Fast Excel-Like Spreadsheet in React &lpar;That Renders 100,000+ Cells!&rpar;](https://dev.to/sojinantony01/how-i-built-a-lightning-fast-excel-like-spreadsheet-in-react-that-renders-100000-cells-1jkk)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-10ei)
+- [GameSpot: Hyrule Warriors: Age of Imprisonment Hands-On Preview](https://dev.to/gg_news/gamespot-hyrule-warriors-age-of-imprisonment-hands-on-preview-46g)
+- [GameSpot: Monster Hunter Wilds x Final Fantasy XIV Omega Planetes Gameplay](https://dev.to/gg_news/gamespot-monster-hunter-wilds-x-final-fantasy-xiv-omega-planetes-gameplay-3kk9)
+- [GameSpot: Forza Horizon 6 - Official Announcement Teaser Trailer | TGS 2025](https://dev.to/gg_news/gamespot-forza-horizon-6-official-announcement-teaser-trailer-tgs-2025-1gai)
 <!-- BLOG-POST-LIST:END -->
 
 
