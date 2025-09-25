@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-10ei)
-- [GameSpot: Hyrule Warriors: Age of Imprisonment Hands-On Preview](https://dev.to/gg_news/gamespot-hyrule-warriors-age-of-imprisonment-hands-on-preview-46g)
-- [GameSpot: Monster Hunter Wilds x Final Fantasy XIV Omega Planetes Gameplay](https://dev.to/gg_news/gamespot-monster-hunter-wilds-x-final-fantasy-xiv-omega-planetes-gameplay-3kk9)
-- [GameSpot: Forza Horizon 6 - Official Announcement Teaser Trailer | TGS 2025](https://dev.to/gg_news/gamespot-forza-horizon-6-official-announcement-teaser-trailer-tgs-2025-1gai)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-2f99)
+- [7 Tips for Hardening TLS on Nginx for Secure Web Traffic and Performance](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-tls-on-nginx-for-secure-web-traffic-and-performance-12o8)
+- [Why Choose Next.js? A Beginner&#39;s Guide to Modern Web Development 🚀](https://dev.to/xzyvron/why-choose-nextjs-a-beginners-guide-to-modern-web-development-267h)
+- [How to Save Money with Amazon S3: Storage Classes, Use Cases, and Optimization Tips](https://dev.to/brayanarrieta/how-to-save-money-with-amazon-s3-storage-classes-use-cases-and-optimization-tips-c88)
 <!-- BLOG-POST-LIST:END -->
 
 
