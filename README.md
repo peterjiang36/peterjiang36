@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-82: Kubernetes Service — LoadBalancer](https://dev.to/latchudevops/part-82-kubernetes-service-loadbalancer-468h)
-- [How to dockerize a node.js application with a custom dockerfile](https://dev.to/deborahemeni1/how-to-dockerize-a-nodejs-application-with-a-custom-dockerfile-7ji)
-- [How to Create Histograms in R: A Comprehensive Guide](https://dev.to/anshuman_816f8012be0c9b6c/how-to-create-histograms-in-r-a-comprehensive-guide-3hb0)
-- [Shaming people for using AI, but...](https://dev.to/mdohr07/shaming-people-for-using-ai-but-1gif)
+- [Docker for VMs: &quot;Works on all Machines&quot; with eryph](https://dev.to/frank_wagner_db8544544684/docker-for-vms-works-on-all-machines-with-eryph-3ce6)
+- [Linux Fundamentals for DevOps &amp; SRE: The Only Guide You&#39;ll Ever Need](https://dev.to/mohammed_yasirkhan_9fc2d/linux-fundamentals-for-devops-sre-the-only-guide-youll-ever-need-2de6)
+- [Building a GUI Tool to Easily Tune Dynamsoft Barcode Reader Parameters](https://dev.to/yushulx/building-a-gui-tool-to-easily-tune-dynamsoft-barcode-reader-parameters-5b1f)
+- [How to connect Raspberry Pi to wifi using ssh in command line?](https://dev.to/carolineee/how-to-connect-raspberry-pi-to-wifi-using-ssh-in-command-line-2bm8)
 <!-- BLOG-POST-LIST:END -->
 
 
