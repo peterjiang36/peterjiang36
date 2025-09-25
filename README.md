@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ananta | Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-gameplay-trailer-2kjf)
-- [GameSpot: Monster Hunters Stories 3: Twisted Reflection Gameplay](https://dev.to/gg_news/gamespot-monster-hunters-stories-3-twisted-reflection-gameplay-156b)
-- [GameSpot: Monster Hunter Wilds x Final Fantasy XIV Omega Planetes Gameplay](https://dev.to/gg_news/gamespot-monster-hunter-wilds-x-final-fantasy-xiv-omega-planetes-gameplay-54be)
-- [NestJS - Circular Dependency Hell and How to Avoid it](https://dev.to/smolinari/nestjs-circular-dependency-hell-and-how-to-avoid-it-4lfp)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-57im)
+- [7 Tips for Hardening Nginx: TLS, Fail2Ban, and WAF Configuration](https://dev.to/ramer2b58cbe46bc8/7-tips-for-hardening-nginx-tls-fail2ban-and-waf-configuration-3kfg)
+- [BEAM: In Plain English](https://dev.to/adamanq/beam-in-plain-english-2n1o)
+- [BEAM: Простыми словами](https://dev.to/adamanq/beam-prostymi-slovami-3104)
 <!-- BLOG-POST-LIST:END -->
 
 
