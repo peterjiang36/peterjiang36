@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# LeetCode 268: Missing Number - &lpar;Easy&rpar;](https://dev.to/grantdotdev/c-leetcode-268-missing-number-easy-2ogc)
-- [ChatGPT Pulse: Turning AI into a Proactive Assistant for Developers](https://dev.to/alifar/chatgpt-pulse-turning-ai-into-a-proactive-assistant-for-developers-3hk8)
-- [From Chaos to Clarity: How I Built CrammAI, the AI Study Copilot I Wish I Had in University](https://dev.to/kareemblessed/from-chaos-to-clarity-how-i-built-crammai-the-ai-study-copilot-i-wish-i-had-in-university-64m)
-- [Stategraph: Terraform state as a distributed systems problem](https://dev.to/josh_pollara_2f8bb369b3f3/stategraph-terraform-state-as-a-distributed-systems-problem-hlm)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1n1a)
+- [KEXP: Thee Marloes - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-3a11)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-om6)
+- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-12nl)
 <!-- BLOG-POST-LIST:END -->
 
 
