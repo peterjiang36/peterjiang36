@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-23kd)
+- [Using iTerm2&#39;s new AI Chat features with Azure OpenAI](https://dev.to/vlad_iliescu/using-iterm2s-new-ai-chat-features-with-azure-openai-87f)
+- [Why is GraphQL gaining adoption?](https://dev.to/ankit_kumar_cfb7221a73fcb/why-is-graphql-gaining-adoption-1imc)
+- [Building a Secure Gmail CLI: From Development to Production 🚀](https://dev.to/vishwaraja_pathivishwa/building-a-secure-gmail-cli-from-development-to-production-1g17)
+- [Is Your Brain the Next Password? Diving into the World of Brain-Computer Interfaces](https://dev.to/karthik_n/is-your-brain-the-next-password-diving-into-the-world-of-brain-computer-interfaces-17i1)
 <!-- BLOG-POST-LIST:END -->
 
 
