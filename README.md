@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Branch para deploy de validação](https://dev.to/eduardoklosowski/branch-para-deploy-de-validacao-441p)
-- [It’s one thing to represent a client. It’s another to join the conspiracy and profit from it.](https://dev.to/michbrowning/its-one-thing-to-represent-a-client-its-another-to-join-the-conspiracy-and-profit-from-it-fpf)
-- [The public deserves to know that Talentcrowd is a company born from stolen property, fraudulent orders, and bankruptcy abuse.](https://dev.to/michbrowning/the-public-deserves-to-know-that-talentcrowd-is-a-company-born-from-stolen-property-fraudulent-4b30)
-- [Stop Writing Boilerplate Code: Let AI Do It for You](https://dev.to/jaideepparashar/stop-writing-boilerplate-code-let-ai-do-it-for-you-24aj)
+- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
+- [libui and Garbage Collection - Challenges in Creating Ruby and Crystal Bindings](https://dev.to/kojix2/libui-and-garbage-collection-challenges-in-creating-ruby-and-crystal-bindings-9m6)
+- [Cloudflare Email Service: private beta](https://dev.to/technoblogger14o3/cloudflare-email-service-private-beta-3b9a)
+- [DLSS 4 — What’s new, how it works, and what it means for games and real-time graphics](https://dev.to/philipwinston2/dlss-4-whats-new-how-it-works-and-what-it-means-for-games-and-real-time-graphics-5ggd)
 <!-- BLOG-POST-LIST:END -->
 
 
