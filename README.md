@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Install and use Microsoft AI Shell](https://dev.to/techielass/install-and-use-microsoft-ai-shell-4c28)
-- [MCP Builder Breakfast: Toast and Tools](https://dev.to/fiberplane/mcp-builder-breakfast-toast-and-tools-258m)
-- [Mini Web Socket](https://dev.to/arthurdev_amoserdev/mini-web-socket-15af)
-- [LeetCode AI Assistant: A Smarter Way to Prepare for Coding Interviews](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-ai-assistant-a-smarter-way-to-prepare-for-coding-interviews-5ga4)
+- [The best &lpar;free - cheap&rpar; AI friendly Cli and Coding environments](https://dev.to/soulentheo/the-best-free-cheap-ai-friendly-cli-and-coding-environments-16m6)
+- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
+- [Evolução da linguagem Java &lpar;parte 3&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-3-2koo)
+- [‍ Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-4828)
 <!-- BLOG-POST-LIST:END -->
 
 
