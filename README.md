@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The best &lpar;free - cheap&rpar; AI friendly Cli and Coding environments](https://dev.to/soulentheo/the-best-free-cheap-ai-friendly-cli-and-coding-environments-16m6)
-- [Arquitetura REST: Conceitos e Aplicações](https://dev.to/gustavo_dias_8fec767000ad/arquitetura-rest-conceitos-e-aplicacoes-3pca)
-- [Evolução da linguagem Java &lpar;parte 3&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-3-2koo)
-- [‍ Plasma Foundation | Over USD 2.4B TVL &amp; 54.02% APY, XPL and Staking Rewards](https://dev.to/plasmafdn/plasma-foundation-over-usd-24b-tvl-5402-apy-xpl-and-staking-rewards-4828)
+- [Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer](https://dev.to/taiwoadeleke12/unlocking-visual-aws-infrastructure-design-with-aws-infrastructure-composer-3nah)
+- [Indirect Prompt Injection: A New Security Concern in MCP Servers](https://dev.to/extinctsion/indirect-prompt-injection-a-new-security-concern-in-mcp-servers-211f)
+- [The Technical Challenges of Data Annotation in Computer Vision](https://dev.to/joe09/the-technical-challenges-of-data-annotation-in-computer-vision-4fk5)
+- [Orchestrating AI multi-agent infrastructure with AWS Bedrock, OpenAI and n8n](https://dev.to/aws-builders/orchestrating-ai-multi-agent-infrastructure-with-aws-bedrock-openai-and-n8n-28p6)
 <!-- BLOG-POST-LIST:END -->
 
 
