@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding static, final, super, super&lpar;&rpar;, this&lpar;&rpar; and this](https://dev.to/masteringbackend/understanding-static-final-super-super-this-and-this-lco)
-- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 3/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-33-4ec6)
-- [Building a Comprehensive Reddit CLI Tool: From Basic Posting to Full Reddit Management with 33+ Commands](https://dev.to/vishwaraja_pathivishwa/building-a-comprehensive-reddit-cli-tool-from-basic-posting-to-full-reddit-management-with-33-533f)
-- [A Few Simple Introductions to ZoomEye Pages](https://dev.to/rrrowan/a-few-simple-introductions-to-zoomeye-pages-5174)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-2ahb)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-37g0)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3897)
+- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-23kd)
 <!-- BLOG-POST-LIST:END -->
 
 
