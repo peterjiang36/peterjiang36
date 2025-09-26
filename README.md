@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
-- [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
-- [Deploying a MedusaJS 2.0 Store on AN AWS EC2 Instance.](https://dev.to/israeldotcom/deploying-a-medusajs-20-store-on-an-aws-ec2-instance-5ba5)
-- [Developing Two Features at Once with Git Branches. &lpar;merge&rpar;](https://dev.to/jongwan93/developing-two-features-at-once-with-git-branches-merge-2l0m)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-1150)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4m2a)
+- [GameSpot: Gungrave GORE Blood Heat – Official Announcement Trailer | TGS 2025](https://dev.to/gg_news/gamespot-gungrave-gore-blood-heat-official-announcement-trailer-tgs-2025-nol)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-4ijd)
 <!-- BLOG-POST-LIST:END -->
 
 
