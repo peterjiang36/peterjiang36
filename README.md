@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Hyrule Warriors: Age of Imprisonment Hands-On Preview](https://dev.to/gg_news/gamespot-hyrule-warriors-age-of-imprisonment-hands-on-preview-kjj)
-- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-2cch)
-- [GameSpot: Gungrave GORE Blood Heat – Official Announcement Trailer | TGS 2025](https://dev.to/gg_news/gamespot-gungrave-gore-blood-heat-official-announcement-trailer-tgs-2025-54m4)
-- [GameSpot: NINJA GAIDEN 4 - Gameplay Overview Trailer | TGS 2025](https://dev.to/gg_news/gamespot-ninja-gaiden-4-gameplay-overview-trailer-tgs-2025-2c7n)
+- [AI Titans Battle for the Next Generation: Freebies Flood College Campuses](https://dev.to/aiwithapex/ai-titans-battle-for-the-next-generation-freebies-flood-college-campuses-2749)
+- [The 5-3-1 Code Review Rule: Senior Developer&#39;s Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
+- [A TypeScript Journey: When Type Safety Feels Like a Safety Harness… and Sometimes a 10 kg Stone on Your Feet](https://dev.to/nadkarnigaurav/a-typescript-journey-when-type-safety-feels-like-a-safety-harness-and-sometimes-a-10-kg-stone-on-35kn)
+- [Useful MYSQL functions](https://dev.to/sadiul_hakim/useful-mysql-functions-4gl9)
 <!-- BLOG-POST-LIST:END -->
 
 
