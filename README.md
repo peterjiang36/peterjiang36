@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-f5h)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-13kd)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3pln)
+- [Branch para deploy de validação](https://dev.to/eduardoklosowski/branch-para-deploy-de-validacao-441p)
+- [It’s one thing to represent a client. It’s another to join the conspiracy and profit from it.](https://dev.to/michbrowning/its-one-thing-to-represent-a-client-its-another-to-join-the-conspiracy-and-profit-from-it-fpf)
+- [The public deserves to know that Talentcrowd is a company born from stolen property, fraudulent orders, and bankruptcy abuse.](https://dev.to/michbrowning/the-public-deserves-to-know-that-talentcrowd-is-a-company-born-from-stolen-property-fraudulent-4b30)
+- [Stop Writing Boilerplate Code: Let AI Do It for You](https://dev.to/jaideepparashar/stop-writing-boilerplate-code-let-ai-do-it-for-you-24aj)
 <!-- BLOG-POST-LIST:END -->
 
 
