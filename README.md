@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
-- [🃏 A Tiny Card Game in Java](https://dev.to/mohamad_mhana/a-tiny-card-game-in-java-4gih)
-- [Handling types in JavaScript](https://dev.to/brendon_oneill__/handling-types-in-javascript-1cg)
-- [Why do we depend on slack for user story and backlog item context? Doesn&#39;t it make more sense to keep it in the story or backlog item? https://imdone.io](https://dev.to/saxmanjes/why-do-we-depend-on-slack-for-user-story-and-backlog-item-context-doesnt-it-make-more-sense-to-308)
+- [Install and use Microsoft AI Shell](https://dev.to/techielass/install-and-use-microsoft-ai-shell-4c28)
+- [MCP Builder Breakfast: Toast and Tools](https://dev.to/fiberplane/mcp-builder-breakfast-toast-and-tools-258m)
+- [Mini Web Socket](https://dev.to/arthurdev_amoserdev/mini-web-socket-15af)
+- [LeetCode AI Assistant: A Smarter Way to Prepare for Coding Interviews](https://dev.to/alex_hunter_44f4c9ed6671e/leetcode-ai-assistant-a-smarter-way-to-prepare-for-coding-interviews-5ga4)
 <!-- BLOG-POST-LIST:END -->
 
 
