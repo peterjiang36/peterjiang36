@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Tips for Enhancing Signup/Login UX](https://dev.to/hashbyt/15-tips-for-enhancing-signuplogin-ux-5di7)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-1edb)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-1omk)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-5852)
+- [Understanding static, final, super, super&lpar;&rpar;, this&lpar;&rpar; and this](https://dev.to/masteringbackend/understanding-static-final-super-super-this-and-this-lco)
+- [How to Build a Minesweeper CLI Game in Node.js &lpar;Part 3/3&rpar;](https://dev.to/learnbackenddotdev/how-to-build-a-minesweeper-cli-game-in-nodejs-part-33-4ec6)
+- [Building a Comprehensive Reddit CLI Tool: From Basic Posting to Full Reddit Management with 33+ Commands](https://dev.to/vishwaraja_pathivishwa/building-a-comprehensive-reddit-cli-tool-from-basic-posting-to-full-reddit-management-with-33-533f)
+- [A Few Simple Introductions to ZoomEye Pages](https://dev.to/rrrowan/a-few-simple-introductions-to-zoomeye-pages-5174)
 <!-- BLOG-POST-LIST:END -->
 
 
