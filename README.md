@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-22fc)
-- [The Big AI Hype: What’s Really Behind the Name](https://dev.to/marikinyo/the-big-ai-hype-whats-really-behind-the-name-1bem)
-- [Ng-News 25/38: Angular + AI Developer Event, S1ngularity Strikes Again](https://dev.to/this-is-angular/ng-news-2538-angular-ai-developer-event-s1ngularity-strikes-again-3bah)
-- [Gradle Isn’t Slow… It’s Leveling Up Your Patience as an Android Dev](https://dev.to/vrushali_dev_15/gradle-isnt-slow-its-leveling-up-your-patience-as-an-android-dev-4gal)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-404)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1358)
+- [GameSpot: Hyrule Warriors: Age of Imprisonment Hands-On Preview](https://dev.to/gg_news/gamespot-hyrule-warriors-age-of-imprisonment-hands-on-preview-1p1o)
+- [GameSpot: NINJA GAIDEN 4 - Gameplay Overview Trailer | TGS 2025](https://dev.to/gg_news/gamespot-ninja-gaiden-4-gameplay-overview-trailer-tgs-2025-3lfe)
 <!-- BLOG-POST-LIST:END -->
 
 
