@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-4abm)
-- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-3dl3)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3ela)
-- [KEXP: Thee Marloes - I&#39;d Be Lost &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-id-be-lost-live-on-kexp-1c7h)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker and Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-and-nginx-22fc)
+- [The Big AI Hype: What’s Really Behind the Name](https://dev.to/marikinyo/the-big-ai-hype-whats-really-behind-the-name-1bem)
+- [Ng-News 25/38: Angular + AI Developer Event, S1ngularity Strikes Again](https://dev.to/this-is-angular/ng-news-2538-angular-ai-developer-event-s1ngularity-strikes-again-3bah)
+- [Gradle Isn’t Slow… It’s Leveling Up Your Patience as an Android Dev](https://dev.to/vrushali_dev_15/gradle-isnt-slow-its-leveling-up-your-patience-as-an-android-dev-4gal)
 <!-- BLOG-POST-LIST:END -->
 
 
