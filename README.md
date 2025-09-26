@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer](https://dev.to/taiwoadeleke12/unlocking-visual-aws-infrastructure-design-with-aws-infrastructure-composer-3nah)
-- [Indirect Prompt Injection: A New Security Concern in MCP Servers](https://dev.to/extinctsion/indirect-prompt-injection-a-new-security-concern-in-mcp-servers-211f)
-- [The Technical Challenges of Data Annotation in Computer Vision](https://dev.to/joe09/the-technical-challenges-of-data-annotation-in-computer-vision-4fk5)
-- [Orchestrating AI multi-agent infrastructure with AWS Bedrock, OpenAI and n8n](https://dev.to/aws-builders/orchestrating-ai-multi-agent-infrastructure-with-aws-bedrock-openai-and-n8n-28p6)
+- [Kadane&#39;s Algorithm](https://dev.to/zeyadeissa/kadanes-algorithm-3om7)
+- [Introduction to CI/CD](https://dev.to/locnguyenpv/introduction-to-cicd-2nfg)
+- [Random Refection](https://dev.to/bugsite_melancholy/random-refection-d74)
+- [How to Find the Right Keywords That Drive Results](https://dev.to/lovestaco/how-to-find-the-right-keywords-that-drive-results-3o7i)
 <!-- BLOG-POST-LIST:END -->
 
 
