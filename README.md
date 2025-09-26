@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-404)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1358)
-- [GameSpot: Hyrule Warriors: Age of Imprisonment Hands-On Preview](https://dev.to/gg_news/gamespot-hyrule-warriors-age-of-imprisonment-hands-on-preview-1p1o)
-- [GameSpot: NINJA GAIDEN 4 - Gameplay Overview Trailer | TGS 2025](https://dev.to/gg_news/gamespot-ninja-gaiden-4-gameplay-overview-trailer-tgs-2025-3lfe)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-3hke)
+- [🃏 A Tiny Card Game in Java](https://dev.to/mohamad_mhana/a-tiny-card-game-in-java-4gih)
+- [Handling types in JavaScript](https://dev.to/brendon_oneill__/handling-types-in-javascript-1cg)
+- [Why do we depend on slack for user story and backlog item context? Doesn&#39;t it make more sense to keep it in the story or backlog item? https://imdone.io](https://dev.to/saxmanjes/why-do-we-depend-on-slack-for-user-story-and-backlog-item-context-doesnt-it-make-more-sense-to-308)
 <!-- BLOG-POST-LIST:END -->
 
 
