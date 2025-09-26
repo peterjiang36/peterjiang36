@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Slow Uploads? Transfer Files Instantly Over LAN with This Simple Tool](https://dev.to/__adab353d48e057eb1a1e7/tired-of-slow-uploads-transfer-files-instantly-over-lan-with-this-simple-tool-1ikd)
-- [A Vontade do Dev: Como o Open Source Está Unindo Tripulações para Encontrar o &quot;One Piece&quot; da Tecnologia](https://dev.to/melettz1/a-vontade-do-dev-como-o-open-source-esta-unindo-tripulacoes-para-encontrar-o-one-piece-da-22i3)
-- [USA Announces Thousands of New Work Visas for 2025 — What It Means](https://dev.to/trenzy360world/usa-announces-thousands-of-new-work-visas-for-2025-what-it-means-10jo)
-- [GitKraken MCP: Supercharging Your AI Development Workflow](https://dev.to/manjushsh/gitkraken-mcp-supercharging-your-ai-development-workflow-29if)
+- [GameSpot: Hyrule Warriors: Age of Imprisonment Hands-On Preview](https://dev.to/gg_news/gamespot-hyrule-warriors-age-of-imprisonment-hands-on-preview-kjj)
+- [GameSpot: Ananta | Official 10 Minute Gameplay Trailer](https://dev.to/gg_news/gamespot-ananta-official-10-minute-gameplay-trailer-2cch)
+- [GameSpot: Gungrave GORE Blood Heat – Official Announcement Trailer | TGS 2025](https://dev.to/gg_news/gamespot-gungrave-gore-blood-heat-official-announcement-trailer-tgs-2025-54m4)
+- [GameSpot: NINJA GAIDEN 4 - Gameplay Overview Trailer | TGS 2025](https://dev.to/gg_news/gamespot-ninja-gaiden-4-gameplay-overview-trailer-tgs-2025-2c7n)
 <!-- BLOG-POST-LIST:END -->
 
 
