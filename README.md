@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Bias Risks in Multi-Tool AI Agents](https://dev.to/shieldstring/understanding-bias-risks-in-multi-tool-ai-agents-4m84)
-- [Blooket Bot](https://dev.to/zegham_ali_87389465b32f38/blooket-bot-63c)
-- [Why Gyms Need AI Personal Trainers: The Future of Fitness Coaching](https://dev.to/drcarlosruizviquez/why-gyms-need-ai-personal-trainers-the-future-of-fitness-coaching-56l7)
-- [Learn Bash Scripting With Me 🚀 - Day 7](https://dev.to/babsarena/learn-bash-scripting-with-me-day-7-40nc)
+- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-f5h)
+- [KEXP: Thee Marloes - Mungkin Saja &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-13kd)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3pln)
 <!-- BLOG-POST-LIST:END -->
 
 
