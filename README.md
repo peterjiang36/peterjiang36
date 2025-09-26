@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kadane&#39;s Algorithm](https://dev.to/zeyadeissa/kadanes-algorithm-3om7)
-- [Introduction to CI/CD](https://dev.to/locnguyenpv/introduction-to-cicd-2nfg)
-- [Random Refection](https://dev.to/bugsite_melancholy/random-refection-d74)
-- [How to Find the Right Keywords That Drive Results](https://dev.to/lovestaco/how-to-find-the-right-keywords-that-drive-results-3o7i)
+- [IGN: Possessor&lpar;s&rpar; - Official Release Date and Gameplay Overview Trailer](https://dev.to/gg_news/ign-possessors-official-release-date-and-gameplay-overview-trailer-4o5j)
+- [IGN: Silent Hill f - Endings Explained](https://dev.to/gg_news/ign-silent-hill-f-endings-explained-15cf)
+- [IGN: Asus ROG Xbox Ally - Official Pre-Order Trailer](https://dev.to/gg_news/ign-asus-rog-xbox-ally-official-pre-order-trailer-4548)
+- [IGN: 2XKO - Official Yasuo Gameplay Trailer](https://dev.to/gg_news/ign-2xko-official-yasuo-gameplay-trailer-mhg)
 <!-- BLOG-POST-LIST:END -->
 
 
