@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-1150)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4m2a)
-- [GameSpot: Gungrave GORE Blood Heat – Official Announcement Trailer | TGS 2025](https://dev.to/gg_news/gamespot-gungrave-gore-blood-heat-official-announcement-trailer-tgs-2025-nol)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-4ijd)
+- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
+- [Good Practices Now That Your Future Senior Self Will Thank You For](https://dev.to/amoreno/good-practices-now-that-your-future-senior-self-will-thank-you-for-3p3a)
+- [AI Sees the Forest for the Trees: Revolutionizing Plant Counting for a Greener Future](https://dev.to/arvind_sundararajan/ai-sees-the-forest-for-the-trees-revolutionizing-plant-counting-for-a-greener-future-3oh4)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-20i5)
 <!-- BLOG-POST-LIST:END -->
 
 
