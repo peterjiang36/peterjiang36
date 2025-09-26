@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Possessor&lpar;s&rpar; - Official Release Date and Gameplay Overview Trailer](https://dev.to/gg_news/ign-possessors-official-release-date-and-gameplay-overview-trailer-4o5j)
-- [IGN: Silent Hill f - Endings Explained](https://dev.to/gg_news/ign-silent-hill-f-endings-explained-15cf)
-- [IGN: Asus ROG Xbox Ally - Official Pre-Order Trailer](https://dev.to/gg_news/ign-asus-rog-xbox-ally-official-pre-order-trailer-4548)
-- [IGN: 2XKO - Official Yasuo Gameplay Trailer](https://dev.to/gg_news/ign-2xko-official-yasuo-gameplay-trailer-mhg)
+- [TERRAFORM ACTIONS : The HashiConf &#39;25 Drop We’ve All Been Waiting For!!!!](https://dev.to/puneet_gavri_e5944e2c7cee/terraform-actions-the-hashiconf-25-drop-weve-all-been-waiting-for-3g9)
+- [🐳 Docker Demystified: Survival Guide for Lost Developers](https://dev.to/tavernetech/docker-demystified-survival-guide-for-lost-developers-5hmd)
+- [Deploying a MedusaJS 2.0 Store on AN AWS EC2 Instance.](https://dev.to/israeldotcom/deploying-a-medusajs-20-store-on-an-aws-ec2-instance-5ba5)
+- [Developing Two Features at Once with Git Branches. &lpar;merge&rpar;](https://dev.to/jongwan93/developing-two-features-at-once-with-git-branches-merge-2l0m)
 <!-- BLOG-POST-LIST:END -->
 
 
