@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-ljp)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3fkb)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1cc3)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-kef)
+- [Connecting to the Ethereum Blockchain](https://dev.to/loading_blocks/connecting-to-the-ethereum-blockchain-3cl0)
+- [Tally: The Liveability Dashboard](https://dev.to/richk21/tally-the-liveability-dashboard-4ha8)
+- [6. CSS Properties](https://dev.to/avery_/6-css-properties-8hp)
+- [From Messy to Modular: A Better Way to Write Production-Ready Terraform - Part 1](https://dev.to/aws-builders/from-messy-to-modular-a-better-way-to-write-production-ready-terraform-for-aws-part-1-39b8)
 <!-- BLOG-POST-LIST:END -->
 
 
