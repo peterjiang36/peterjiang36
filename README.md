@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dm2)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-52of)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-2kpj)
-- [GameSpot: PC Gaming Show Tokyo Direct 2025 Livestream](https://dev.to/gg_news/gamespot-pc-gaming-show-tokyo-direct-2025-livestream-4om8)
+- [AI powered Code compiler, viewer, editor and enhancer](https://dev.to/girishlade/ai-powered-code-compiler-viewer-editor-and-enhancer-46h3)
+- [Days 98-106: Exam Week Chaos and Coming Back to Reality](https://dev.to/casperday11/days-98-106-exam-week-chaos-and-coming-back-to-reality-51bn)
+- [Vibe Ensemble - Your Personal Development Team](https://dev.to/siy/vibe-ensemble-your-personal-development-team-5efm)
+- [Meta-Author&#39;s Notes: Codie&#39;s Cognitive Chronicles](https://dev.to/izzyfuller/meta-authors-notes-codies-cognitive-chronicles-5gno)
 <!-- BLOG-POST-LIST:END -->
 
 
