@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building a Portfolio Clone with HTML, CSS, JavaScript, and GSAP](https://dev.to/sufalthakre/building-a-portfolio-clone-with-html-css-javascript-and-gsap-5f84)
-- [Building a Privacy-First Code Formatter: My Architecture Decisions](https://dev.to/jeanlinux/building-a-privacy-first-code-formatter-my-architecture-decisions-4fap)
-- [Tech News 26th Sept](https://dev.to/thedeepseeker/tech-news-26th-sept-271j)
-- [📰 Major Tech News: September 26, 2025](https://dev.to/om_shree_0709/major-tech-news-september-26-2025-3e9n)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-1mcg)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-42pk)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-2i23)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-2f5)
 <!-- BLOG-POST-LIST:END -->
 
 
