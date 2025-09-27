@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
-- [Part-88: 🔄 Kubernetes Deployment Updates &amp; Rollout Verification in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-88-kubernetes-deployment-updates-rollout-verification-in-gcp-google-kubernetes-engine-1920)
-- [LLM Observability with OpenTelemetry: A Practical Guide](https://dev.to/kartikdudeja21/llm-observability-with-opentelemetry-a-practical-guide-3clo)
-- [“pip install patience? Nah, Try uv Instead.”](https://dev.to/offpremisecloud/pip-install-patience-nah-try-uv-instead-487p)
+- [IGN: Dying Light: The Beast - Official Accolades Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-accolades-trailer-1nee)
+- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-1nl7)
+- [IGN: Magic: The Gathering x Star Trek - Official Teaser Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-star-trek-official-teaser-trailer-4adm)
+- [IGN: Diablo 4 x StarCraft - Official Trailer](https://dev.to/gg_news/ign-diablo-4-x-starcraft-official-trailer-12m3)
 <!-- BLOG-POST-LIST:END -->
 
 
