@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Dying Light: The Beast - Official Accolades Trailer](https://dev.to/gg_news/ign-dying-light-the-beast-official-accolades-trailer-1nee)
-- [IGN: Hollow Knight Silksong - How to Beat the Last Judge &lpar;Or Skip Him Entirely!&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-beat-the-last-judge-or-skip-him-entirely-1nl7)
-- [IGN: Magic: The Gathering x Star Trek - Official Teaser Trailer](https://dev.to/gg_news/ign-magic-the-gathering-x-star-trek-official-teaser-trailer-4adm)
-- [IGN: Diablo 4 x StarCraft - Official Trailer](https://dev.to/gg_news/ign-diablo-4-x-starcraft-official-trailer-12m3)
+- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
+- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
+- [Check out my app called pdf snippets](https://dev.to/abhishek_hadpad_6b54a621f/check-out-my-app-called-pdf-snippets-861)
+- [How to use useNavigate to transition from a button in React](https://dev.to/kazutora_hattori_66972c88/how-to-use-usenavigate-to-transition-from-a-button-in-react-4026)
 <!-- BLOG-POST-LIST:END -->
 
 
