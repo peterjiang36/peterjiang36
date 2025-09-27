@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s in new Kubernetes v1.34 Of Wind &amp; Will](https://dev.to/kaustubhyerkade/whats-in-new-kubernetes-v134-of-wind-will-22b0)
-- [Migration Guru – Manage Laravel Migrations from a Web UI](https://dev.to/nikelioum/introducing-migration-guru-manage-laravel-migrations-from-a-web-ui-26pl)
-- [RAGgle](https://dev.to/nadinev/raggle-36o9)
-- [Laravel Boost](https://dev.to/agussudarmanto/laravel-boost-5h3o)
+- [Django Project &amp; App Structure Explained](https://dev.to/gopal_ghate_5bda01b730e45/django-project-app-structure-explained-353p)
+- [NeoComp: new framework with a new paradigm](https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f)
+- [Test Automation Meets AI — Smarter QA with Playwright + LLMs](https://dev.to/soumikdhar/test-automation-meets-ai-smarter-qa-with-playwright-llms-50f0)
+- [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
 <!-- BLOG-POST-LIST:END -->
 
 
