@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Store Persistent Data Across Workflows Executions in n8n](https://dev.to/fedtti/how-to-store-persistent-data-across-workflows-executions-in-n8n-1fan)
-- [The Beauty of Programming &lpar;2001&rpar;](https://dev.to/technoblogger14o3/the-beauty-of-programming-2001-4c6p)
-- [Free Cryptocurrency Price APIs: Complete Guide 2025](https://dev.to/saira_zeeshan_35fc05971fd/free-cryptocurrency-price-apis-complete-guide-2025-430c)
-- [Mastering RestTemplate in Spring Boot](https://dev.to/pallavi_kamble_07/mastering-resttemplate-in-spring-boot-2i84)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-ljp)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3fkb)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1cc3)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-kef)
 <!-- BLOG-POST-LIST:END -->
 
 
