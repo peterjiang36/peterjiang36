@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
-- [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
-- [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
-- [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
+- [What&#39;s in new Kubernetes v1.34 Of Wind &amp; Will](https://dev.to/kaustubhyerkade/whats-in-new-kubernetes-v134-of-wind-will-22b0)
+- [Migration Guru – Manage Laravel Migrations from a Web UI](https://dev.to/nikelioum/introducing-migration-guru-manage-laravel-migrations-from-a-web-ui-26pl)
+- [RAGgle](https://dev.to/nadinev/raggle-36o9)
+- [Laravel Boost](https://dev.to/agussudarmanto/laravel-boost-5h3o)
 <!-- BLOG-POST-LIST:END -->
 
 
