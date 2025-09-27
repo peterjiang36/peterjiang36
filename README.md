@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Project &amp; App Structure Explained](https://dev.to/gopal_ghate_5bda01b730e45/django-project-app-structure-explained-353p)
-- [NeoComp: new framework with a new paradigm](https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f)
-- [Test Automation Meets AI — Smarter QA with Playwright + LLMs](https://dev.to/soumikdhar/test-automation-meets-ai-smarter-qa-with-playwright-llms-50f0)
-- [LocalStorage vs IndexedDB: JavaScript Guide &lpar;Storage, Limits &amp; Best Practices&rpar;](https://dev.to/tenelabs/localstorage-vs-indexeddb-javascript-guide-storage-limits-best-practices-5g4l)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dm2)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-52of)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-2kpj)
+- [GameSpot: PC Gaming Show Tokyo Direct 2025 Livestream](https://dev.to/gg_news/gamespot-pc-gaming-show-tokyo-direct-2025-livestream-4om8)
 <!-- BLOG-POST-LIST:END -->
 
 
