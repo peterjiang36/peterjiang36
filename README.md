@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-24ej)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1mlo)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-1968)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-58jl)
+- [JupyterLab Kendo Grid Extension for Pandas DataFrames](https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk)
+- [Part-88: 🔄 Kubernetes Deployment Updates &amp; Rollout Verification in GCP &lpar;Google Kubernetes Engine&rpar;](https://dev.to/latchudevops/part-88-kubernetes-deployment-updates-rollout-verification-in-gcp-google-kubernetes-engine-1920)
+- [LLM Observability with OpenTelemetry: A Practical Guide](https://dev.to/kartikdudeja21/llm-observability-with-opentelemetry-a-practical-guide-3clo)
+- [“pip install patience? Nah, Try uv Instead.”](https://dev.to/offpremisecloud/pip-install-patience-nah-try-uv-instead-487p)
 <!-- BLOG-POST-LIST:END -->
 
 
