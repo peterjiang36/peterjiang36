@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Technical Writing is a Superpower in 2025](https://dev.to/envitab/why-technical-writing-is-a-superpower-in-2025-3ep1)
-- [🌐 Understanding CORS &lpar;Cross-Origin Resource Sharing&rpar;: A Complete Guide](https://dev.to/fazal_mansuri_/understanding-cors-cross-origin-resource-sharing-a-complete-guide-5gbg)
-- [Check out my app called pdf snippets](https://dev.to/abhishek_hadpad_6b54a621f/check-out-my-app-called-pdf-snippets-861)
-- [How to use useNavigate to transition from a button in React](https://dev.to/kazutora_hattori_66972c88/how-to-use-usenavigate-to-transition-from-a-button-in-react-4026)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1df1)
+- [KEXP: Nation of Language - I&#39;m Not Ready For The Change &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-26oh)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3obg)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-cah)
 <!-- BLOG-POST-LIST:END -->
 
 
