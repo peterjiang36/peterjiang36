@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Observabilidade em aplicações móveis](https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi)
-- [Good Practices Now That Your Future Senior Self Will Thank You For](https://dev.to/amoreno/good-practices-now-that-your-future-senior-self-will-thank-you-for-3p3a)
-- [AI Sees the Forest for the Trees: Revolutionizing Plant Counting for a Greener Future](https://dev.to/arvind_sundararajan/ai-sees-the-forest-for-the-trees-revolutionizing-plant-counting-for-a-greener-future-3oh4)
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker &amp; Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-20i5)
+- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2004)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-2bj)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-587d)
 <!-- BLOG-POST-LIST:END -->
 
 
