@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
+- [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
 - [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
 - [Digital IDs Are the Trap—UBI Coins Are the Escape Plan](https://dev.to/owly/digital-ids-are-the-trap-ubi-coins-are-the-escape-plan-55ac)
-- [Privacy-Preserving AI: 7 Techniques to Protect Training Data in Cloud AI Systems](https://dev.to/abin_/privacy-preserving-ai-7-techniques-to-protect-training-data-in-cloud-ai-systems-5963)
-- [Speaking Directly To Your GPU](https://dev.to/davidcanhelp/speaking-directly-to-your-gpu-4kml)
 <!-- BLOG-POST-LIST:END -->
 
 
