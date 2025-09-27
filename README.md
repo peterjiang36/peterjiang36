@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-3p35)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4mb5)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-3l30)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-4hd1)
+- [Token Bucket Algorithm Explained](https://dev.to/0xtanzim/token-bucket-algorithm-explained-4ceo)
+- [LLMs do know what they&#39;re going to say](https://dev.to/nicklucas/llms-do-know-what-theyre-going-to-say-54mh)
+- [Pure Responsive CSS Accordion Tutorial: Interactive, Fast &amp; No JS!](https://dev.to/siddheshcodes/pure-responsive-css-accordion-tutorial-interactive-fast-no-js-12pb)
+- [What if India Replaced Google, Facebook &amp; YouTube? A 50 Million Job Hypothetical 🇮🇳💼](https://dev.to/utkvishwas/what-if-india-replaced-google-facebook-youtube-a-50-million-job-hypothetical-4m35)
 <!-- BLOG-POST-LIST:END -->
 
 
