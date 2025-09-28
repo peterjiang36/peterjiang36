@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless Dungeon Master Agent on AWS](https://dev.to/aws-builders/building-a-serverless-dungeon-master-agent-on-aws-3j7k)
-- [Genesis DB - The GDPR-ready event-sourcing database engine](https://dev.to/patriceckhart/genesis-db-the-gdpr-ready-event-sourcing-database-engine-jj1)
-- [How to Automate Sitemap Generation in Next.js](https://dev.to/lovestaco/how-to-automate-sitemap-generation-in-nextjs-3l0i)
-- [#DAY 3 - Monitoring Internal Services: FTP &amp; SSH](https://dev.to/samueladeduntan/day-3-monitoring-internal-services-ftp-ssh-31ee)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-o8k)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-h6c)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-2oao)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-2k21)
 <!-- BLOG-POST-LIST:END -->
 
 
