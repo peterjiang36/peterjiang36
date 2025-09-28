@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why GraphQL is gaining adoption](https://dev.to/popoolatopzy/why-graphql-is-gaining-adoption-17p)
-- [Post 1/10 — Multi-Tenancy &amp; Security Baseline with Namespaces, Quotas, NetworkPolicies, and Pod Security Admission](https://dev.to/cloud-sky-ops/post-110-multi-tenancy-security-baseline-with-namespaces-quotas-networkpolicies-and-pod-2mfj)
-- [Your SOC 2 Compliance Won&#39;t Stop Supply Chain Attacks &lpar;And I Have the Data to Prove It&rpar;](https://dev.to/arbythecoder/your-soc-2-compliance-wont-stop-supply-chain-attacks-and-i-have-the-data-to-prove-it-4nid)
-- [Digital IDs Are the Trap—UBI Coins Are the Escape Plan](https://dev.to/owly/digital-ids-are-the-trap-ubi-coins-are-the-escape-plan-55ac)
+- [Crolite: filling the &quot;Mojolicious::Lite&quot; gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi)
+- [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j)
+- [[Boost]](https://dev.to/wayne_gakuo/-4340)
+- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-1e7k)
 <!-- BLOG-POST-LIST:END -->
 
 
