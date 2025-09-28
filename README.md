@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Printing with CUPS](https://dev.to/sebos/linux-printing-with-cups-39h5)
-- [Developer&#39;s View: Technical Deep Dive into RWA Protocols &lpar;Ethereum, Solana, Layer-2s&rpar;](https://dev.to/creatoruche/developers-view-technical-deep-dive-into-rwa-protocols-ethereum-solana-layer-2s-dph)
-- [WiredTigerHS.wt: MongoDB MVCC Durable History Store](https://dev.to/franckpachot/mongodb-mvcc-durable-history-store-wiredtigerhswt-mn2)
-- [A Quick Dive into Kubernetes Operators - Part 4](https://dev.to/mhmxs/a-quick-dive-into-kubernetes-operators-part-4-3ldb)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-26an)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-39oi)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-50e9)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-169p)
 <!-- BLOG-POST-LIST:END -->
 
 
