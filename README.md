@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [But what is “contextual search” — case study of KENDO-RAG and how it beats Google for private data](https://dev.to/aryprogrammer/but-what-is-contextual-search-case-study-of-kendo-rag-and-how-it-beats-google-for-private-data-2f4a)
-- [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
-- [I Built a Complete Desktop Banking System with Electron and Node.js](https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p)
-- [The function not dispatched](https://dev.to/omanfk/the-function-not-dispatched-548a)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h4j)
 <!-- BLOG-POST-LIST:END -->
 
 
