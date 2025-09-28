@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoy-Hunter: Technical Enhancement for Verifiable Evidence and Stateful Protocol Probes.](https://dev.to/antonio_socorro_95e3ff086/decoy-hunter-technical-enhancement-for-verifiable-evidence-and-stateful-protocol-probes-2pi4)
-- [Cloud HPC: How Google Scales High-Performance Computing](https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922)
-- [Terraform Gotchas: Data Sources and depends_on](https://dev.to/dev_abdul/terraform-gotchas-data-sources-and-dependson-2b3h)
-- [The Rise of Offensive AI: How Adversaries are Weaponizing Machine Learning](https://dev.to/gagreatprogrammer/the-rise-of-offensive-ai-how-adversaries-are-weaponizing-machine-learning-25g1)
+- [Dev Log #1 — Mirage / Apate: Field Notes from the First Brick](https://dev.to/hrisheekesh_pv_cc89484f09/dev-log-1-mirage-apate-field-notes-from-the-first-brick-3c91)
+- [Why Software Developers/Engineers Don’t Matter Anymore](https://dev.to/mosbat/why-software-developersengineers-dont-matter-anymore-j1p)
+- [Arquitetura em camadas](https://dev.to/luiz_ad03ef35bcbb722a0c44/arquitetura-em-camadas-31j4)
+- [😎5 Quick LinkedIn Hacks to Find Jobs Faster &lpar;Step-by-Step&rpar;](https://dev.to/joyobaidu/5-quick-linkedin-hacks-to-find-jobs-faster-step-by-step-8m4)
 <!-- BLOG-POST-LIST:END -->
 
 
