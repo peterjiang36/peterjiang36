@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5hp)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-4na6)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-18om)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-109k)
+- [But what is “contextual search” — case study of KENDO-RAG and how it beats Google for private data](https://dev.to/aryprogrammer/but-what-is-contextual-search-case-study-of-kendo-rag-and-how-it-beats-google-for-private-data-2f4a)
+- [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
+- [I Built a Complete Desktop Banking System with Electron and Node.js](https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p)
+- [The function not dispatched](https://dev.to/omanfk/the-function-not-dispatched-548a)
 <!-- BLOG-POST-LIST:END -->
 
 
