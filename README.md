@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4gel)
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-a9c)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2na3)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-242i)
+- [How to set up SFTP in Azure](https://dev.to/techielass/how-to-set-up-sftp-in-azure-2knh)
+- [Why Hacktoberfest Matters &lpar;and You Should Participate&rpar;](https://dev.to/fedtti/why-hacktoberfest-matters-and-you-should-participate-hhd)
+- [Environment Setup v1.0 - Production-Ready macOS Development Environment](https://dev.to/david_1d47a807f7674275e5d/environment-setup-v10-production-ready-macos-development-environment-4b0p)
+- [전역 상태 업데이트로 인한 성능 병목에 관한 고찰](https://dev.to/algoorgoal/jeonyeog-sangtae-eobdeiteuro-inhan-seongneung-byeongmoge-gwanhan-gocal-22ca)
 <!-- BLOG-POST-LIST:END -->
 
 
