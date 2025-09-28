@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Streams de Dados: Processamento de Informações em Tempo Real](https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm)
+- [Maximizing Your Development Skills: Proven Strategies for Continuous Learning](https://dev.to/mikeover/maximizing-your-development-skills-proven-strategies-for-continuous-learning-527l)
 - [Crolite: filling the &quot;Mojolicious::Lite&quot; gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi)
 - [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j)
-- [[Boost]](https://dev.to/wayne_gakuo/-4340)
-- [Adam Savage&#39;s Tested: Advice on Weathering Today&#39;s Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-1e7k)
 <!-- BLOG-POST-LIST:END -->
 
 
