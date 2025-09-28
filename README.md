@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4cik)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-492n)
-- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-7m0)
-- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-38k5)
+- [Title: How I Adapted My Custom Parser for the New nvim-treesitter `main` Branch](https://dev.to/taku25/title-how-i-adapted-my-custom-parser-for-the-new-nvim-treesitter-main-branch-57l7)
+- [How to Migrate from WordPress to Gatsby &lpar;Without Losing Your Sanity&rpar;](https://dev.to/armanalahi/how-to-migrate-from-wordpress-to-gatsby-without-losing-your-sanity-155a)
+- [Dynamics 365 &amp; Power Platform: What Developers Should Watch in 2025 Release Wave 2](https://dev.to/nikhildynamicsce/dynamics-365-power-platform-what-developers-should-watch-in-2025-release-wave-2-37e7)
+- [🚀 The Rise of Student Entrepreneurship in India](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-rise-of-student-entrepreneurship-in-india-36no)
 <!-- BLOG-POST-LIST:END -->
 
 
