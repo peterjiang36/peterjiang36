@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: How I Adapted My Custom Parser for the New nvim-treesitter `main` Branch](https://dev.to/taku25/title-how-i-adapted-my-custom-parser-for-the-new-nvim-treesitter-main-branch-57l7)
-- [How to Migrate from WordPress to Gatsby &lpar;Without Losing Your Sanity&rpar;](https://dev.to/armanalahi/how-to-migrate-from-wordpress-to-gatsby-without-losing-your-sanity-155a)
-- [Dynamics 365 &amp; Power Platform: What Developers Should Watch in 2025 Release Wave 2](https://dev.to/nikhildynamicsce/dynamics-365-power-platform-what-developers-should-watch-in-2025-release-wave-2-37e7)
-- [🚀 The Rise of Student Entrepreneurship in India](https://dev.to/aws_1_27d6cbc9e944aa228ef/the-rise-of-student-entrepreneurship-in-india-36no)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-10hd)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-4dc9)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5025)
 <!-- BLOG-POST-LIST:END -->
 
 
