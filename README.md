@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streams de Dados: Processamento de Informações em Tempo Real](https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm)
-- [Maximizing Your Development Skills: Proven Strategies for Continuous Learning](https://dev.to/mikeover/maximizing-your-development-skills-proven-strategies-for-continuous-learning-527l)
-- [Crolite: filling the &quot;Mojolicious::Lite&quot; gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi)
-- [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j)
+- [Machine Learning Model Optimization at Scale: From Theory to Production](https://dev.to/rikinptl/machine-learning-model-optimization-at-scale-from-theory-to-production-2al2)
+- [Mastering Ubuntu: The Essential Commands You Need to Know](https://dev.to/isaiah_izibili_7a39b7d627/mastering-ubuntu-the-essential-commands-you-need-to-know-5097)
+- [What’s the one online utility you use most often? I&#39;m curious to know what other small tools people would love to see added.](https://dev.to/asifnawaz1220/whats-the-one-online-utility-you-use-most-often-im-curious-to-know-what-other-small-tools-259c)
+- [Your New Pair Programmer: The AI Assistant](https://dev.to/rgbos/your-new-pair-programmer-the-ai-assistant-4e98)
 <!-- BLOG-POST-LIST:END -->
 
 
