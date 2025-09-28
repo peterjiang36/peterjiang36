@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Hooks Rules: From Basics to Expert-Level](https://dev.to/cristiansifuentes/mastering-react-hooks-rules-from-basics-to-expert-level-53pa)
-- [Implementing Emergent Tool Use in Multi-Agent AI Systems Through Meta-Learning and Environment Scaffolding](https://dev.to/rikinptl/implementing-emergent-tool-use-in-multi-agent-ai-systems-through-meta-learning-and-environment-3h90)
-- [6 Open Source Alternatives to Microsoft Access](https://dev.to/nocobase/6-open-source-alternatives-to-microsoft-access-2b8o)
-- [Understanding the Leaky Bucket Algorithm for System Design](https://dev.to/0xtanzim/understanding-the-leaky-bucket-algorithm-for-system-design-4fpo)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-4cik)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-492n)
+- [GameSpot: Ghost of Yōtei Review](https://dev.to/gg_news/gamespot-ghost-of-yotei-review-7m0)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-38k5)
 <!-- BLOG-POST-LIST:END -->
 
 
