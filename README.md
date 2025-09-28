@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up SFTP in Azure](https://dev.to/techielass/how-to-set-up-sftp-in-azure-2knh)
-- [Why Hacktoberfest Matters &lpar;and You Should Participate&rpar;](https://dev.to/fedtti/why-hacktoberfest-matters-and-you-should-participate-hhd)
-- [Environment Setup v1.0 - Production-Ready macOS Development Environment](https://dev.to/david_1d47a807f7674275e5d/environment-setup-v10-production-ready-macos-development-environment-4b0p)
-- [전역 상태 업데이트로 인한 성능 병목에 관한 고찰](https://dev.to/algoorgoal/jeonyeog-sangtae-eobdeiteuro-inhan-seongneung-byeongmoge-gwanhan-gocal-22ca)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-5hp)
+- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-4na6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-18om)
+- [Golf.com: The Ryder Cup&#39;s Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-109k)
 <!-- BLOG-POST-LIST:END -->
 
 
