@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l)
-- [KEXP: Thee Marloes - Over &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h4j)
+- [Decoy-Hunter: Technical Enhancement for Verifiable Evidence and Stateful Protocol Probes.](https://dev.to/antonio_socorro_95e3ff086/decoy-hunter-technical-enhancement-for-verifiable-evidence-and-stateful-protocol-probes-2pi4)
+- [Cloud HPC: How Google Scales High-Performance Computing](https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922)
+- [Terraform Gotchas: Data Sources and depends_on](https://dev.to/dev_abdul/terraform-gotchas-data-sources-and-dependson-2b3h)
+- [The Rise of Offensive AI: How Adversaries are Weaponizing Machine Learning](https://dev.to/gagreatprogrammer/the-rise-of-offensive-ai-how-adversaries-are-weaponizing-machine-learning-25g1)
 <!-- BLOG-POST-LIST:END -->
 
 
