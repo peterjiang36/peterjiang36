@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kendo React Crypto Tracker](https://dev.to/sandromirr/kendo-react-crypto-tracker-4250)
-- [🌍✨ Avocado Programming Language – now in 23 languages! ✨🌍](https://dev.to/programista_art_pl/avocado-programming-language-now-in-23-languages-4g18)
-- [The AI coding trap](https://dev.to/technoblogger14o3/the-ai-coding-trap-3kj1)
-- [MLZC25-05. Análisis Exploratorio de Datos &lpar;EDA&rpar;: El Arte de Descubrir Historias Ocultas](https://dev.to/jesus_oviedoriquelme_084/mlzc25-05-analisis-exploratorio-de-datos-eda-el-arte-de-descubrir-historias-ocultas-4f7)
+- [📊 Analyzing Manufacturing Downtime: Insights From My Dashboard](https://dev.to/koinpoin/analyzing-manufacturing-downtime-insights-from-my-dashboard-160c)
+- [Progressive Web Apps: Bringing App-like Experiences to the Web](https://dev.to/rgbos/progressive-web-apps-bringing-app-like-experiences-to-the-web-4fak)
+- [Building the Campfire: My Custom CMS for &#39;Campfire Logs&#39;](https://dev.to/dlseitz/building-the-campfire-my-custom-cms-for-campfire-logs-3dgb)
+- [Automating EBS Volume Upsizing on AWS](https://dev.to/davidshaek/automating-ebs-volume-upsizing-on-aws-ok0)
 <!-- BLOG-POST-LIST:END -->
 
 
