@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tired of messy repos and unclear project structures? Check out CodeTree at code-tree.dev ! 🌲 Visualize your codebase, explore structure fast, and onboard like a pro. Perfect for devs, teams &amp; open source. #DevTools #CodeReview](https://dev.to/trukes/tired-of-messy-repos-and-unclear-project-structures-check-out-codetree-at-code-treedev--3ffh)
-- [From Sheets to Quizzes: Automating Google Forms Like a Pro](https://dev.to/rajinh24/from-sheets-to-quizzes-automating-google-forms-like-a-pro-5gbj)
-- [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
-- [[Boost]](https://dev.to/trukes/-2nam)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3nk6)
+- [I Built an AI Meme Generator to Be Cheaper and Faster with a Frontend Hack](https://dev.to/hemant_manwani_4a460bde7a/i-built-an-ai-meme-generator-to-be-cheaper-and-faster-with-a-frontend-hack-3ggn)
+- [Jest: Writing Composable Tests](https://dev.to/ysfaran/jest-writing-composable-tests-2c3m)
+- [IGN: Megabonk Gameplay: The Goofy Vampire Survivors You Always Wanted](https://dev.to/gg_news/ign-megabonk-gameplay-the-goofy-vampire-survivors-you-always-wanted-111k)
 <!-- BLOG-POST-LIST:END -->
 
 
