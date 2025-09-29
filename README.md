@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a VS Code Extension That Stops Me From Writing Terrible AI Prompts &lpar;and it&#39;s kinda working&rpar;](https://dev.to/ntanwir10/i-built-a-vs-code-extension-that-stops-me-from-writing-terrible-ai-prompts-and-its-kinda-working-529i)
-- [Shipping Fast, Not Perfect](https://dev.to/thekarlesi/shipping-fast-not-perfect-18ef)
-- [The Specialized Archives: defaultdict, Counter, and OrderedDict](https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah)
-- [Navigating the AI Revolution: Coping with Job Stress and Uncertainty](https://dev.to/rgbos/navigating-the-ai-revolution-coping-with-job-stress-and-uncertainty-1c73)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-8b1)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-5ci)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-4kj1)
+- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-19oi)
 <!-- BLOG-POST-LIST:END -->
 
 
