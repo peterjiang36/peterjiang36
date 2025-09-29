@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MLZC25-04. Python para Machine Learning: Más que un Lenguaje de Programación](https://dev.to/jesus_oviedoriquelme_084/mlzc25-04-python-para-machine-learning-mas-que-un-lenguaje-de-programacion-18a6)
-- [Secrets Behind 3 Years of Automation Success!](https://dev.to/nikolayadvolodkin/secrets-behind-3-years-of-automation-success-261l)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2kin)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3807)
+- [🌤️Weather Forecast Application Utilizing Deferred Background Tasks by HarmonyOS Next](https://dev.to/harmonyos/weather-forecast-application-utilizing-deferred-background-tasks-by-harmonyos-next-2ocg)
+- [What is Remote Configuration? Why do we need it?🚀](https://dev.to/harmonyos/what-is-remote-configuration-why-do-we-need-it-2i2k)
+- [Recipe Manager with React &amp; KendoReact – CRUD, Categories, and Dark Mode](https://dev.to/the_duchess_of_hackers/recipe-manager-with-react-kendoreact-crud-categories-and-dark-mode-353n)
+- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
 <!-- BLOG-POST-LIST:END -->
 
 
