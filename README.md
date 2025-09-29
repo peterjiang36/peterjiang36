@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)
-- [3 Tool Rule To Avoid Context Switching](https://dev.to/pratham_naik_project_manager/3-tool-rule-to-avoid-context-switching-4m9k)
-- [The 3-Tool Rule: How Senior Devs Eliminate Tool Switching and Boost Focus Time](https://dev.to/teamcamp/the-3-tool-rule-how-senior-devs-eliminate-tool-switching-and-boost-focus-time-4a8f)
-- [10+ Pieces of Tech You Use Before Breakfast Without Even Realizing It](https://dev.to/canro91/10-pieces-of-tech-you-use-before-breakfast-without-even-realizing-it-3kpe)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4mni)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-383e)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-7ep)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-50j4)
 <!-- BLOG-POST-LIST:END -->
 
 
