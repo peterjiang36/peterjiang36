@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize your website to get more AI citations](https://dev.to/michalrogowski/optimize-your-website-to-get-more-ai-citations-32d5)
-- [Beyond `i` and `tmp`: Writing Code for Humans, Inspired by Grace Hopper](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-i-and-tmp-writing-code-for-humans-inspired-by-grace-hopper-34ap)
-- [## Supervised learning — focus on classification](https://dev.to/gacherimutua/-supervised-learning-focus-on-classification-8pj)
-- [Technology Updates: Innovations Shaping the Future](https://dev.to/rapidcellphone/technology-updates-innovations-shaping-the-future-305b)
+- [I Built a VS Code Extension That Stops Me From Writing Terrible AI Prompts &lpar;and it&#39;s kinda working&rpar;](https://dev.to/ntanwir10/i-built-a-vs-code-extension-that-stops-me-from-writing-terrible-ai-prompts-and-its-kinda-working-529i)
+- [Shipping Fast, Not Perfect](https://dev.to/thekarlesi/shipping-fast-not-perfect-18ef)
+- [The Specialized Archives: defaultdict, Counter, and OrderedDict](https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah)
+- [Navigating the AI Revolution: Coping with Job Stress and Uncertainty](https://dev.to/rgbos/navigating-the-ai-revolution-coping-with-job-stress-and-uncertainty-1c73)
 <!-- BLOG-POST-LIST:END -->
 
 
