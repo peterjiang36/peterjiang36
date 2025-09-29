@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
-- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
-- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
-- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-4j9e)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-ohk)
+- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-360b)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-31pg)
 <!-- BLOG-POST-LIST:END -->
 
 
