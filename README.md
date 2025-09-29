@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/samyak112/-paf)
-- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
-- [Email Testing Made Simple: AI Tools Every Developer Should Know](https://dev.to/atechajay/email-testing-made-simple-ai-tools-every-developer-should-know-50m1)
-- [Conversion Rate Optimization Using a Maturity Model: A Deep-Dive with Case Studies](https://dev.to/dipti_moryani_185c244d578/conversion-rate-optimization-using-a-maturity-model-a-deep-dive-with-case-studies-4m3d)
+- [OverlayFS — The Magic Behind Docker](https://dev.to/hrrydgls/overlayfs-the-magic-behind-docker-52c6)
+- [The .NET Language Buffet: Which One Should You Pick?](https://dev.to/lamri_abdellahramdane_15/the-net-language-buffet-which-one-should-you-pick-31fn)
+- [Big Data Analytics with PySpark: A Beginner-Friendly Guide](https://dev.to/j_m47/big-data-analytics-with-pyspark-a-beginner-friendly-guide-59nf)
+- [Navigating the Ascent: Why the AI Value Curve is the Most Important Business Map of Our Time](https://dev.to/mcleanforresterllc/navigating-the-ascent-why-the-ai-value-curve-is-the-most-important-business-map-of-our-time-3e0n)
 <!-- BLOG-POST-LIST:END -->
 
 
