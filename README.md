@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Meku: AI Web Apps Builder for Developers](https://dev.to/meku/introducing-meku-ai-web-apps-builder-for-developers-4cii)
-- [‎Writing Blog Posts That Demonstrate Your Problem-Solving Skills ‎ ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-blog-posts-that-demonstrate-your-problem-solving-skills-1cgm)
-- [Building an All-in-One Automotive Data API - Looking for Developer Feedback](https://dev.to/janferko/building-an-all-in-one-automotive-data-api-looking-for-developer-feedback-3ae8)
-- [FTSE 100 Today Live: Market Overview and Key Insights](https://dev.to/bella_stewart_1e038c004d3/ftse-100-today-live-market-overview-and-key-insights-4723)
+- [IGN: Blood: Refreshed Supply - Official Announcement Trailer](https://dev.to/gg_news/ign-blood-refreshed-supply-official-announcement-trailer-37i9)
+- [IGN: Threads of Time - Official TGS 2025 Gameplay Trailer](https://dev.to/gg_news/ign-threads-of-time-official-tgs-2025-gameplay-trailer-1455)
+- [IGN: The Relic: First Guardian - Official Gameplay Trailer](https://dev.to/gg_news/ign-the-relic-first-guardian-official-gameplay-trailer-17il)
+- [IGN: Alien Rogue Incursion Gameplay: Non-VR VR Game](https://dev.to/gg_news/ign-alien-rogue-incursion-gameplay-non-vr-vr-game-54bc)
 <!-- BLOG-POST-LIST:END -->
 
 
