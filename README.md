@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From VM Chaos to Serverless Zen: My GitHub Webhook Journey 🚀](https://dev.to/techwithhari/from-vm-chaos-to-serverless-zen-my-github-webhook-journey-323h)
-- [even Pop!_OS now uses Rust for its desktop environment](https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5)
-- [Setting Up PostgreSQL in Docker on Hetzner with SSL Certificates from Certbot](https://dev.to/damir_maham/setting-up-postgresql-in-docker-on-hetzner-with-ssl-certificates-from-certbot-3le3)
-- [Mastering BeautifulSoup: Parsing, Navigating, and Extracting Data Like a Pro](https://dev.to/nelson_orina_a538ba52e9ed/mastering-beautifulsoup-parsing-navigating-and-extracting-data-like-a-pro-enl)
+- [Optimize your website to get more AI citations](https://dev.to/michalrogowski/optimize-your-website-to-get-more-ai-citations-32d5)
+- [Beyond `i` and `tmp`: Writing Code for Humans, Inspired by Grace Hopper](https://dev.to/aaron_rose_0787cc8b4775a0/beyond-i-and-tmp-writing-code-for-humans-inspired-by-grace-hopper-34ap)
+- [## Supervised learning — focus on classification](https://dev.to/gacherimutua/-supervised-learning-focus-on-classification-8pj)
+- [Technology Updates: Innovations Shaping the Future](https://dev.to/rapidcellphone/technology-updates-innovations-shaping-the-future-305b)
 <!-- BLOG-POST-LIST:END -->
 
 
