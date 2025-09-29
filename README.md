@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Isolando ambientes de dev com perfis de navegador virtuais](https://dev.to/multiloginbrasil/isolando-ambientes-de-dev-com-perfis-de-navegador-virtuais-43pi)
-- [AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore](https://dev.to/hung____/aws-agent-built-with-strand-agent-framework-and-deployed-to-bedrock-agentcore-3h24)
-- [Taming the &quot;It Works on My Machine&quot; Monster with Docker](https://dev.to/learn_with_santosh/taming-the-it-works-on-my-machine-monster-with-docker-4c4a)
-- [28th Sept Tech Newzzz](https://dev.to/barak_codes/28th-sept-tech-newzzz-2lj8)
+- [The Future is Tiny: Introducing My Vision for a Micro MCP Server](https://dev.to/mabualzait/the-future-is-tiny-introducing-my-vision-for-a-micro-mcp-server-22k9)
+- [3 Tool Rule To Avoid Context Switching](https://dev.to/pratham_naik_project_manager/3-tool-rule-to-avoid-context-switching-4m9k)
+- [The 3-Tool Rule: How Senior Devs Eliminate Tool Switching and Boost Focus Time](https://dev.to/teamcamp/the-3-tool-rule-how-senior-devs-eliminate-tool-switching-and-boost-focus-time-4a8f)
+- [10+ Pieces of Tech You Use Before Breakfast Without Even Realizing It](https://dev.to/canro91/10-pieces-of-tech-you-use-before-breakfast-without-even-realizing-it-3kpe)
 <!-- BLOG-POST-LIST:END -->
 
 
