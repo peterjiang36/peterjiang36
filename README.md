@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-4f1h)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1893)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58ee)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3a8g)
+- [React Synthetic Events Explained: Complete Guide for Developers ⚡](https://dev.to/yorgie7/react-synthetic-events-explained-complete-guide-for-developers-3o2j)
+- [[Boost]](https://dev.to/farjas/-1ak)
+- [Introduction to Equity Investments](https://dev.to/madgan95/introduction-to-equity-investments-1d2h)
+- [Vedaacademy is a leading online education platform dedicated to providing NCERT Solutions for Classes 6 to 12, along with expert guidance for CBSE Board Exams. Visit us for more info:-https://vedaacademy.in/](https://dev.to/veda_academy_b7192f0a3388/vedaacademy-is-a-leading-online-education-platform-dedicated-to-providing-ncert-solutions-for-1o33)
 <!-- BLOG-POST-LIST:END -->
 
 
