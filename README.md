@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OverlayFS — The Magic Behind Docker](https://dev.to/hrrydgls/overlayfs-the-magic-behind-docker-52c6)
-- [The .NET Language Buffet: Which One Should You Pick?](https://dev.to/lamri_abdellahramdane_15/the-net-language-buffet-which-one-should-you-pick-31fn)
-- [Big Data Analytics with PySpark: A Beginner-Friendly Guide](https://dev.to/j_m47/big-data-analytics-with-pyspark-a-beginner-friendly-guide-59nf)
-- [Navigating the Ascent: Why the AI Value Curve is the Most Important Business Map of Our Time](https://dev.to/mcleanforresterllc/navigating-the-ascent-why-the-ai-value-curve-is-the-most-important-business-map-of-our-time-3e0n)
+- [Docker Best Practices to Secure and Optimize Your Containers](https://dev.to/protsenko/docker-best-practices-to-secure-and-optimize-your-containers-2e7a)
+- [Stop Chasing Velocity: What to Measure in Zenhub Instead](https://dev.to/gsauzande/stop-chasing-velocity-what-to-measure-in-zenhub-instead-1hjf)
+- [Prioritize Support Tickets with Text Sentiment &lpar;and a Clean UI&rpar;](https://dev.to/ideradevtools/prioritize-support-tickets-with-text-sentiment-and-a-clean-ui-29mn)
+- [[Boost]](https://dev.to/alex_hunter_44f4c9ed6671e/-55de)
 <!-- BLOG-POST-LIST:END -->
 
 
