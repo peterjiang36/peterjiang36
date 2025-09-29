@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Blood: Refreshed Supply - Official Announcement Trailer](https://dev.to/gg_news/ign-blood-refreshed-supply-official-announcement-trailer-37i9)
-- [IGN: Threads of Time - Official TGS 2025 Gameplay Trailer](https://dev.to/gg_news/ign-threads-of-time-official-tgs-2025-gameplay-trailer-1455)
-- [IGN: The Relic: First Guardian - Official Gameplay Trailer](https://dev.to/gg_news/ign-the-relic-first-guardian-official-gameplay-trailer-17il)
-- [IGN: Alien Rogue Incursion Gameplay: Non-VR VR Game](https://dev.to/gg_news/ign-alien-rogue-incursion-gameplay-non-vr-vr-game-54bc)
+- [[Boost]](https://dev.to/samyak112/-paf)
+- [I Was Wrong About Being Wrong About Social Media](https://dev.to/dnskwork/i-was-wrong-about-being-wrong-about-social-media-52hc)
+- [Email Testing Made Simple: AI Tools Every Developer Should Know](https://dev.to/atechajay/email-testing-made-simple-ai-tools-every-developer-should-know-50m1)
+- [Conversion Rate Optimization Using a Maturity Model: A Deep-Dive with Case Studies](https://dev.to/dipti_moryani_185c244d578/conversion-rate-optimization-using-a-maturity-model-a-deep-dive-with-case-studies-4m3d)
 <!-- BLOG-POST-LIST:END -->
 
 
