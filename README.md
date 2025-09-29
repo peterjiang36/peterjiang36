@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3nk6)
-- [I Built an AI Meme Generator to Be Cheaper and Faster with a Frontend Hack](https://dev.to/hemant_manwani_4a460bde7a/i-built-an-ai-meme-generator-to-be-cheaper-and-faster-with-a-frontend-hack-3ggn)
-- [Jest: Writing Composable Tests](https://dev.to/ysfaran/jest-writing-composable-tests-2c3m)
-- [IGN: Megabonk Gameplay: The Goofy Vampire Survivors You Always Wanted](https://dev.to/gg_news/ign-megabonk-gameplay-the-goofy-vampire-survivors-you-always-wanted-111k)
+- [Introducing Meku: AI Web Apps Builder for Developers](https://dev.to/meku/introducing-meku-ai-web-apps-builder-for-developers-4cii)
+- [‎Writing Blog Posts That Demonstrate Your Problem-Solving Skills ‎ ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/writing-blog-posts-that-demonstrate-your-problem-solving-skills-1cgm)
+- [Building an All-in-One Automotive Data API - Looking for Developer Feedback](https://dev.to/janferko/building-an-all-in-one-automotive-data-api-looking-for-developer-feedback-3ae8)
+- [FTSE 100 Today Live: Market Overview and Key Insights](https://dev.to/bella_stewart_1e038c004d3/ftse-100-today-live-market-overview-and-key-insights-4723)
 <!-- BLOG-POST-LIST:END -->
 
 
