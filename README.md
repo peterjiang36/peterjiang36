@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Synthetic Events Explained: Complete Guide for Developers ⚡](https://dev.to/yorgie7/react-synthetic-events-explained-complete-guide-for-developers-3o2j)
-- [[Boost]](https://dev.to/farjas/-1ak)
-- [Introduction to Equity Investments](https://dev.to/madgan95/introduction-to-equity-investments-1d2h)
-- [Vedaacademy is a leading online education platform dedicated to providing NCERT Solutions for Classes 6 to 12, along with expert guidance for CBSE Board Exams. Visit us for more info:-https://vedaacademy.in/](https://dev.to/veda_academy_b7192f0a3388/vedaacademy-is-a-leading-online-education-platform-dedicated-to-providing-ncert-solutions-for-1o33)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-gb3)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-3jpn)
+- [GameSpot: Solving This REAL Silent Hill f Puzzle Box](https://dev.to/gg_news/gamespot-solving-this-real-silent-hill-f-puzzle-box-38g1)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-2ng7)
 <!-- BLOG-POST-LIST:END -->
 
 
