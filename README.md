@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌤️Weather Forecast Application Utilizing Deferred Background Tasks by HarmonyOS Next](https://dev.to/harmonyos/weather-forecast-application-utilizing-deferred-background-tasks-by-harmonyos-next-2ocg)
-- [What is Remote Configuration? Why do we need it?🚀](https://dev.to/harmonyos/what-is-remote-configuration-why-do-we-need-it-2i2k)
-- [Recipe Manager with React &amp; KendoReact – CRUD, Categories, and Dark Mode](https://dev.to/the_duchess_of_hackers/recipe-manager-with-react-kendoreact-crud-categories-and-dark-mode-353n)
-- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io)
+- [Kendo React Crypto Tracker](https://dev.to/sandromirr/kendo-react-crypto-tracker-4250)
+- [🌍✨ Avocado Programming Language – now in 23 languages! ✨🌍](https://dev.to/programista_art_pl/avocado-programming-language-now-in-23-languages-4g18)
+- [The AI coding trap](https://dev.to/technoblogger14o3/the-ai-coding-trap-3kj1)
+- [MLZC25-05. Análisis Exploratorio de Datos &lpar;EDA&rpar;: El Arte de Descubrir Historias Ocultas](https://dev.to/jesus_oviedoriquelme_084/mlzc25-05-analisis-exploratorio-de-datos-eda-el-arte-de-descubrir-historias-ocultas-4f7)
 <!-- BLOG-POST-LIST:END -->
 
 
