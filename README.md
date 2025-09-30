@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a $15K/Month Lifestyle Blog Using GitHub Actions, Webhooks &amp; Serverless Functions](https://dev.to/hardik_b2d8f0bca/i-built-a-15kmonth-lifestyle-blog-using-github-actions-webhooks-serverless-functions-3fkb)
-- [JWT vs JWS vs JWE: What’s the Difference &amp; When to Use Each](https://dev.to/mayank_tamrkar/jwt-vs-jws-vs-jwe-whats-the-difference-when-to-use-each-16l2)
-- [My personal toolkit for open-source knowledge graphs](https://dev.to/e_lisowski/my-personal-toolkit-for-open-source-knowledge-graphs-4m1h)
-- [Designing for Security, Scalability, and Performance](https://dev.to/th33k/designing-for-security-scalability-and-performance-2dld)
+- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
+- [Stop Guessing, Start Proving: A Developer&#39;s Guide to Calculating Content Marketing ROI](https://dev.to/michaelaiglobal/stop-guessing-start-proving-a-developers-guide-to-calculating-content-marketing-roi-1gdj)
+- [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
+- [Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations](https://dev.to/jurgitamotus/automating-data-quality-checks-a-practical-guide-using-dagster-and-great-expectations-2c83)
 <!-- BLOG-POST-LIST:END -->
 
 
