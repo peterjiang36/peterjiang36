@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-45ie)
-- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-24fh)
-- [IGN: Minecraft - Official The Copper Age Trailer](https://dev.to/gg_news/ign-minecraft-official-the-copper-age-trailer-2029)
-- [IGN: Call of Duty: Black Ops 7 - Official Launch Multiplayer Maps Flythrough Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-7-official-launch-multiplayer-maps-flythrough-trailer-3hf1)
+- [Hardening Your AI Agent Against Prompt Injection via MCP](https://dev.to/lovestaco/hardening-your-ai-agent-against-prompt-injection-via-mcp-bd7)
+- [Business value &gt; Shiny tech](https://dev.to/sylwia-lask/business-value-shiny-tech-5egj)
+- [Over the last 9 months, I built a generative video model that can take any image and build a playable world around it ✨](https://dev.to/lilshake/over-the-last-9-months-i-built-a-generative-video-model-that-can-take-any-image-and-build-a-452p)
+- [Post‑Evaluation Action Plan for AI Agents](https://dev.to/kamya_shah_e69d5dd78f831c/post-evaluation-action-plan-for-ai-agents-4ee6)
 <!-- BLOG-POST-LIST:END -->
 
 
