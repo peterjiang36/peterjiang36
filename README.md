@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
-- [Strategic Assessment of myHerb&#39;s Eco-Innovation and Sustainability Guidance Platform](https://dev.to/myherb/strategic-assessment-of-myherbs-eco-innovation-and-sustainability-guidance-platform-28ma)
-- [10 Reasons Why Python is Still the Best Programming Language in 2025 &lpar;and Beyond&rpar;](https://dev.to/brentwash35/10-reasons-why-python-is-still-the-best-programming-language-in-2025-and-beyond-442d)
-- [Why Mining Industry Why Mining Industry Software Solutions Are Essential](https://dev.to/dits_marketing_5a30d3f55f/why-mining-industry-why-mining-industry-software-solutions-are-essential-4a9l)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-25l0)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1p26)
+- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-pdh)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-10of)
 <!-- BLOG-POST-LIST:END -->
 
 
