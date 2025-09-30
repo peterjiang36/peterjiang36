@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Call of Duty Next Showcase Livestream](https://dev.to/gg_news/ign-call-of-duty-next-showcase-livestream-3o06)
-- [IGN: The Horror Game Awards Halloween Showcase 2025 Livestream](https://dev.to/gg_news/ign-the-horror-game-awards-halloween-showcase-2025-livestream-2dhc)
-- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Best Abilities to Learn First](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-best-abilities-to-learn-first-5dp7)
-- [IGN: Huntsman - Official Gameplay Demo and Release Window Trailer](https://dev.to/gg_news/ign-huntsman-official-gameplay-demo-and-release-window-trailer-21d3)
+- [AI Features to Add to Your Software Solutions](https://dev.to/sunny7899/ai-features-to-add-to-your-software-solutions-2n31)
+- [Strategic Assessment of myHerb&#39;s Eco-Innovation and Sustainability Guidance Platform](https://dev.to/myherb/strategic-assessment-of-myherbs-eco-innovation-and-sustainability-guidance-platform-28ma)
+- [10 Reasons Why Python is Still the Best Programming Language in 2025 &lpar;and Beyond&rpar;](https://dev.to/brentwash35/10-reasons-why-python-is-still-the-best-programming-language-in-2025-and-beyond-442d)
+- [Why Mining Industry Why Mining Industry Software Solutions Are Essential](https://dev.to/dits_marketing_5a30d3f55f/why-mining-industry-why-mining-industry-software-solutions-are-essential-4a9l)
 <!-- BLOG-POST-LIST:END -->
 
 
