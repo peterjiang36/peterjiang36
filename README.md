@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-108b)
-- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-51i5)
-- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-4pbi)
-- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-1881)
+- [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
+- [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
+- [I Tried Kombai in My IDE: Here’s Why It Outperforms Cursor, Claude, and Copilot for Frontend](https://dev.to/envitab/i-tried-kombai-in-my-ide-heres-why-it-outperforms-cursor-claude-and-copilot-for-frontend-26cg)
+- [The AI Revolution in Development Is Here: Introducing the AI-Driven Development &lpar;AIDD&rpar; Course](https://dev.to/chiara_porcelli_df7ef20dc/the-ai-revolution-in-development-is-here-introducing-the-ai-driven-development-aidd-course-5829)
 <!-- BLOG-POST-LIST:END -->
 
 
