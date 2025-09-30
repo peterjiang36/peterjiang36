@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ New on Code-Tree.dev — Discover Suggested Profiles!](https://dev.to/trukes/new-on-code-treedev-discover-suggested-profiles-133d)
-- [Automating AWS Lambda Deployment using GitHub Actions](https://dev.to/olamyde/automating-aws-lambda-deployment-using-github-actions-1f43)
-- [Building a Full Stack Web App from scratch: First Steps](https://dev.to/constanza_diaz_dev/building-a-full-stack-web-app-from-scratch-first-steps-gi8)
-- [Zero to Cloud: 12 Weeks of AWS re/Start + Free AWS CCP Exam](https://dev.to/nyairopetronilla/zero-to-cloud-12-weeks-of-aws-restart-free-aws-ccp-exam-47ff)
+- [📘 Highest and Lowest Find in ক্যান্ডেলস্টিক প্যাটার্ন &lpar; সহজ বাংলা গাইড &rpar;](https://dev.to/ts2025/kyaanddelsttik-pyaattaarn-green-red-red-green-shj-baanlaa-gaaidd-doh)
+- [LLPY-02: Configurando un Entorno de Desarrollo Moderno con UV](https://dev.to/jesus_oviedoriquelme_084/llpy-02-configurando-un-entorno-de-desarrollo-moderno-con-uv-3j0o)
+- [Sunlight-Readable LCDs: Technology, Challenges, and Industrial Applications](https://dev.to/jasonliu112/sunlight-readable-lcds-technology-challenges-and-industrial-applications-3lfl)
+- [Javascript Video Generator](https://dev.to/sysmaya/javascript-video-generator-2ojc)
 <!-- BLOG-POST-LIST:END -->
 
 
