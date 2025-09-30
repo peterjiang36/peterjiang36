@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-37a0)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-4k65)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-10f6)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2g0i)
+- [Exploring Fresh &lpar;Deno Framework&rpar; for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
+- [TalentCrowd Fraud Exposed: The Hidden Story of Topdevs](https://dev.to/tobylokii/talentcrowd-fraud-exposed-the-hidden-story-of-topdevs-1o97)
+- [AI Code Reviews System so how can you automate this review System](https://dev.to/pratham_naik_project_manager/ai-code-reviews-system-so-how-can-you-automate-this-review-system-2bh4)
+- [যারা স্পোর্টস/চ্যানেল স্ট্রিম দেখেন তাদের জন্য ছোট্ট একটা টিপস](https://dev.to/shafiemoji/yaaraa-sporttscyaanel-sttrim-dekhen-taader-jny-chotttt-ekttaa-ttips-243i)
 <!-- BLOG-POST-LIST:END -->
 
 
