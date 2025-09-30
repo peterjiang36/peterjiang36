@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-3679)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-e5g)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-48m5)
-- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-36m)
+- [TypeScript Core Concepts Every Developer Should Know &lpar;Bengali&rpar;](https://dev.to/mehedihasan1102/typescript-core-concepts-every-developer-should-know-bengali-3ji8)
+- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
+- [Mastering TCJSGame TileMap System: Building Complex Game Worlds](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-tilemap-system-building-complex-game-worlds-3g0f)
+- [Sparse Models and the Efficiency Revolution in AI](https://dev.to/maurizio_morri_f7f4bd128c/sparse-models-and-the-efficiency-revolution-in-ai-32ep)
 <!-- BLOG-POST-LIST:END -->
 
 
