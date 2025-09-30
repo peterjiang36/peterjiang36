@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Technology Stack for Generative AI Development](https://dev.to/divyang_sharma_1b370c4986/best-technology-stack-for-generative-ai-development-5f4l)
-- [Stop Guessing, Start Proving: A Developer&#39;s Guide to Calculating Content Marketing ROI](https://dev.to/michaelaiglobal/stop-guessing-start-proving-a-developers-guide-to-calculating-content-marketing-roi-1gdj)
-- [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
-- [Automating Data Quality Checks: A Practical Guide Using Dagster and Great Expectations](https://dev.to/jurgitamotus/automating-data-quality-checks-a-practical-guide-using-dagster-and-great-expectations-2c83)
+- [IGN: Hollow Knight: Silksong - Great Taste of Pharloom Sidequest Guide &lpar;Second Pale Oil Upgrade&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-great-taste-of-pharloom-sidequest-guide-second-pale-oil-upgrade-206e)
+- [IGN: Carnival Hunt - Official Steam Open Playtest Trailer](https://dev.to/gg_news/ign-carnival-hunt-official-steam-open-playtest-trailer-528)
+- [IGN: Join Us - Official Reveal Trailer](https://dev.to/gg_news/ign-join-us-official-reveal-trailer-3mo4)
+- [IGN: Rudolph The Red-Nosed Reindeer - Official Launch Trailer](https://dev.to/gg_news/ign-rudolph-the-red-nosed-reindeer-official-launch-trailer-227n)
 <!-- BLOG-POST-LIST:END -->
 
 
