@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Software Design Patterns Matter for Cybersecurity](https://dev.to/ihonchar/why-software-design-patterns-matter-for-cybersecurity-377e)
+- [Stop Your UMAP From Moving: The Pipeline Randomness You&#39;re Missing](https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje)
+- [How to Sell QA Without Talking About Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/how-to-sell-qa-without-talking-about-testing-3he7)
 - [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
-- [Beyond Components and Design Tokens](https://dev.to/willyelm/beyond-components-and-design-tokens-52im)
-- [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2ea9)
 <!-- BLOG-POST-LIST:END -->
 
 
