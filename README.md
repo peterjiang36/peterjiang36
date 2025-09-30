@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Fresh &lpar;Deno Framework&rpar; for the First Time: My Beginner’s Journey](https://dev.to/pjdeveloper896/exploring-fresh-deno-framework-for-the-first-time-my-beginners-journey-5ff0)
-- [TalentCrowd Fraud Exposed: The Hidden Story of Topdevs](https://dev.to/tobylokii/talentcrowd-fraud-exposed-the-hidden-story-of-topdevs-1o97)
-- [AI Code Reviews System so how can you automate this review System](https://dev.to/pratham_naik_project_manager/ai-code-reviews-system-so-how-can-you-automate-this-review-system-2bh4)
-- [যারা স্পোর্টস/চ্যানেল স্ট্রিম দেখেন তাদের জন্য ছোট্ট একটা টিপস](https://dev.to/shafiemoji/yaaraa-sporttscyaanel-sttrim-dekhen-taader-jny-chotttt-ekttaa-ttips-243i)
+- [IGN: Call of Duty Next Showcase Livestream](https://dev.to/gg_news/ign-call-of-duty-next-showcase-livestream-3o06)
+- [IGN: The Horror Game Awards Halloween Showcase 2025 Livestream](https://dev.to/gg_news/ign-the-horror-game-awards-halloween-showcase-2025-livestream-2dhc)
+- [IGN: Final Fantasy Tactics: The Ivalice Chronicles - Best Abilities to Learn First](https://dev.to/gg_news/ign-final-fantasy-tactics-the-ivalice-chronicles-best-abilities-to-learn-first-5dp7)
+- [IGN: Huntsman - Official Gameplay Demo and Release Window Trailer](https://dev.to/gg_news/ign-huntsman-official-gameplay-demo-and-release-window-trailer-21d3)
 <!-- BLOG-POST-LIST:END -->
 
 
