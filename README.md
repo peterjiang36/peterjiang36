@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-25l0)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1p26)
-- [KEXP: Cory Hanson - Texas Weather &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-texas-weather-live-on-kexp-pdh)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-10of)
+- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
+- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
+- [Understanding Laravel Blade Components and Slots](https://dev.to/addwebsolutionpvtltd/understanding-laravel-blade-components-and-slots-5fbd)
+- [Why HackSpire&#39;25 Has Me Buzzing with Excitement! 🎯](https://dev.to/debaditya_saha_5b45172210/why-hackspire25-has-me-buzzing-with-excitement-22jd)
 <!-- BLOG-POST-LIST:END -->
 
 
