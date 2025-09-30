@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Agentic Video RAG with Strands Agents and Containerized Infrastructure](https://dev.to/aws/build-agentic-video-rag-with-strands-agents-and-containerized-infrastructure-4ibc)
-- [Hello World!](https://dev.to/sumitmarandi/hello-world-3ah)
-- [Behind the Scenes: How We Judge DEV Challenge Submissions](https://dev.to/devteam/behind-the-scenes-how-we-judge-dev-challenge-submissions-ki2)
-- [Shallow copy &amp; Deep copy in Python &lpar;11&rpar;](https://dev.to/hyperkai/shallow-copy-deep-copy-in-python-11-4ib)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-45ie)
+- [GameSpot: C. Viper High-Level CPU Street Fighter 6 Gameplay](https://dev.to/gg_news/gamespot-c-viper-high-level-cpu-street-fighter-6-gameplay-24fh)
+- [IGN: Minecraft - Official The Copper Age Trailer](https://dev.to/gg_news/ign-minecraft-official-the-copper-age-trailer-2029)
+- [IGN: Call of Duty: Black Ops 7 - Official Launch Multiplayer Maps Flythrough Trailer](https://dev.to/gg_news/ign-call-of-duty-black-ops-7-official-launch-multiplayer-maps-flythrough-trailer-3hf1)
 <!-- BLOG-POST-LIST:END -->
 
 
