@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1g24)
-- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-1df2)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-35bj)
-- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-e1f)
+- [From Zero to .glb: Building a Serverless 3D Asset Pipeline in with Rust and Cloudflare](https://dev.to/abraham_thomas_674162cfda/from-zero-to-glb-building-a-serverless-3d-asset-pipeline-in-with-rust-and-cloudflare-454l)
+- [Agentic AI Revolutionizing Cybersecurity &amp; Application Security](https://dev.to/rollbrace0/agentic-ai-revolutionizing-cybersecurity-application-security-3mn0)
+- [🌱 Environment Variables: The Secret Sauce of Modern Apps](https://dev.to/charan_gutti_cf60c6185074/environment-variables-the-secret-sauce-of-modern-apps-59i8)
+- [Your Sealed Class Cookbook: 3 Production-Ready Android Recipes](https://dev.to/kavearhasi_viswanathan/your-sealed-class-cookbook-3-production-ready-android-recipes-2l3o)
 <!-- BLOG-POST-LIST:END -->
 
 
