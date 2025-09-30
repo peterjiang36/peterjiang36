@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Design Patterns Matter for Cybersecurity](https://dev.to/ihonchar/why-software-design-patterns-matter-for-cybersecurity-377e)
-- [Stop Your UMAP From Moving: The Pipeline Randomness You&#39;re Missing](https://dev.to/afujihara/stop-your-umap-from-moving-the-pipeline-randomness-youre-missing-gje)
-- [How to Sell QA Without Talking About Testing](https://dev.to/radha_4c842d8e4362a7cdd9c/how-to-sell-qa-without-talking-about-testing-3he7)
-- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-37a0)
+- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-4k65)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-10f6)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2g0i)
 <!-- BLOG-POST-LIST:END -->
 
 
