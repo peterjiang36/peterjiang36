@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers&#39; library for React, Next templates](https://dev.to/shreyvijayvargiya/developers-library-for-react-next-templates-4cmh)
-- [How we moved Crawlee for Python out of Beta](https://dev.to/crawlee/how-we-moved-crawlee-for-python-out-of-beta-33bi)
-- [Understanding Laravel Blade Components and Slots](https://dev.to/addwebsolutionpvtltd/understanding-laravel-blade-components-and-slots-5fbd)
-- [Why HackSpire&#39;25 Has Me Buzzing with Excitement! 🎯](https://dev.to/debaditya_saha_5b45172210/why-hackspire25-has-me-buzzing-with-excitement-22jd)
+- [I Built a $15K/Month Lifestyle Blog Using GitHub Actions, Webhooks &amp; Serverless Functions](https://dev.to/hardik_b2d8f0bca/i-built-a-15kmonth-lifestyle-blog-using-github-actions-webhooks-serverless-functions-3fkb)
+- [JWT vs JWS vs JWE: What’s the Difference &amp; When to Use Each](https://dev.to/mayank_tamrkar/jwt-vs-jws-vs-jwe-whats-the-difference-when-to-use-each-16l2)
+- [My personal toolkit for open-source knowledge graphs](https://dev.to/e_lisowski/my-personal-toolkit-for-open-source-knowledge-graphs-4m1h)
+- [Designing for Security, Scalability, and Performance](https://dev.to/th33k/designing-for-security-scalability-and-performance-2dld)
 <!-- BLOG-POST-LIST:END -->
 
 
