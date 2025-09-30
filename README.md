@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight: Silksong - Great Taste of Pharloom Sidequest Guide &lpar;Second Pale Oil Upgrade&rpar;](https://dev.to/gg_news/ign-hollow-knight-silksong-great-taste-of-pharloom-sidequest-guide-second-pale-oil-upgrade-206e)
-- [IGN: Carnival Hunt - Official Steam Open Playtest Trailer](https://dev.to/gg_news/ign-carnival-hunt-official-steam-open-playtest-trailer-528)
-- [IGN: Join Us - Official Reveal Trailer](https://dev.to/gg_news/ign-join-us-official-reveal-trailer-3mo4)
-- [IGN: Rudolph The Red-Nosed Reindeer - Official Launch Trailer](https://dev.to/gg_news/ign-rudolph-the-red-nosed-reindeer-official-launch-trailer-227n)
+- [How to build Personal Blog Application Using React | TailwindCSS | TypeScript](https://dev.to/codewithsadee/how-to-build-personal-blog-application-using-react-tailwindcss-typescript-3c3e)
+- [🎯 The Challenge: Processing TBs of S3 Data Without Breaking the Bank](https://dev.to/qvfagundes/the-challenge-processing-tbs-of-s3-data-without-breaking-the-bank-bfl)
+- [AWS IAM POLICIES Deep Dive](https://dev.to/ntsezenelvis/aws-iam-policies-deep-dive-nm4)
+- [Master PDF-to-PNG Rendering in Java with Cloud REST API](https://dev.to/shahzad_ashraf_5ea18e2b2d/master-pdf-to-png-rendering-in-java-with-cloud-rest-api-1mk5)
 <!-- BLOG-POST-LIST:END -->
 
 
