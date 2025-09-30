@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
-- [Unlocking the Power of Developer Tools: Transforming Your Workflow with Modern Solutions](https://dev.to/mikeover/unlocking-the-power-of-developer-tools-transforming-your-workflow-with-modern-solutions-21d5)
-- [Slack Relay Agent — Swarm Alerts to Slack](https://dev.to/matrixswarm/slack-relay-agent-swarm-alerts-to-slack-1dp5)
-- [Radiomics in Breast Cancer – Part 1: Exploring the CBIS-DDSM Dataset](https://dev.to/helloerika__/radiomics-in-breast-cancer-part-1-exploring-the-cbis-ddsm-dataset-1ece)
+- [Automating SBOM Generation and Vulnerability Analysis](https://dev.to/mdabir1203/automating-sbom-generation-and-vulnerability-analysis-54pi)
+- [Beyond Components and Design Tokens](https://dev.to/willyelm/beyond-components-and-design-tokens-52im)
+- [An Instruction Analysis MCP Usage Case](https://dev.to/xiaodao/an-instruction-analysis-mcp-usage-case-4eel)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2ea9)
 <!-- BLOG-POST-LIST:END -->
 
 
