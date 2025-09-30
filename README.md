@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Highest and Lowest Find in ক্যান্ডেলস্টিক প্যাটার্ন &lpar; সহজ বাংলা গাইড &rpar;](https://dev.to/ts2025/kyaanddelsttik-pyaattaarn-green-red-red-green-shj-baanlaa-gaaidd-doh)
-- [LLPY-02: Configurando un Entorno de Desarrollo Moderno con UV](https://dev.to/jesus_oviedoriquelme_084/llpy-02-configurando-un-entorno-de-desarrollo-moderno-con-uv-3j0o)
-- [Sunlight-Readable LCDs: Technology, Challenges, and Industrial Applications](https://dev.to/jasonliu112/sunlight-readable-lcds-technology-challenges-and-industrial-applications-3lfl)
-- [Javascript Video Generator](https://dev.to/sysmaya/javascript-video-generator-2ojc)
+- [An Experiment with AI Assisted Web Development](https://dev.to/cultureamp/an-experiment-with-ai-assisted-web-development-45gk)
+- [Unlocking the Power of Developer Tools: Transforming Your Workflow with Modern Solutions](https://dev.to/mikeover/unlocking-the-power-of-developer-tools-transforming-your-workflow-with-modern-solutions-21d5)
+- [Slack Relay Agent — Swarm Alerts to Slack](https://dev.to/matrixswarm/slack-relay-agent-swarm-alerts-to-slack-1dp5)
+- [Radiomics in Breast Cancer – Part 1: Exploring the CBIS-DDSM Dataset](https://dev.to/helloerika__/radiomics-in-breast-cancer-part-1-exploring-the-cbis-ddsm-dataset-1ece)
 <!-- BLOG-POST-LIST:END -->
 
 
