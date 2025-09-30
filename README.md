@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript revision blew my mind today.](https://dev.to/yashi_srivastava_9166487c/javascript-revision-blew-my-mind-today-3db)
-- [Decorator Pattern in Clprolf — Example with Coffee](https://dev.to/charles_koffler_bcabc582b/decorator-pattern-in-clprolf-example-with-coffee-3pol)
-- [I Tried Kombai in My IDE: Here’s Why It Outperforms Cursor, Claude, and Copilot for Frontend](https://dev.to/envitab/i-tried-kombai-in-my-ide-heres-why-it-outperforms-cursor-claude-and-copilot-for-frontend-26cg)
-- [The AI Revolution in Development Is Here: Introducing the AI-Driven Development &lpar;AIDD&rpar; Course](https://dev.to/chiara_porcelli_df7ef20dc/the-ai-revolution-in-development-is-here-introducing-the-ai-driven-development-aidd-course-5829)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1527)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-1d34)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-5hgk)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-2eg3)
 <!-- BLOG-POST-LIST:END -->
 
 
