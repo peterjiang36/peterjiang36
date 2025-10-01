@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Coding with Asparagos: Mushroom Soup for everyone!](https://dev.to/asparagos/go-coding-with-asparagos-mushroom-soup-for-everyone-55a3)
-- [Tyler Davis and Joshua Lintz worked hand in hand to defraud the founder of Topdevs and the United States government.](https://dev.to/portablewalkman/tyler-davis-and-joshua-lintz-worked-hand-in-hand-to-defraud-the-founder-of-topdevs-and-the-united-2e9m)
-- [Fraud on the court is unforgivable. Scott R. Carpenter used void orders to keep a conspiracy alive. That is criminal.](https://dev.to/portablewalkman/fraud-on-the-court-is-unforgivable-scott-r-carpenter-used-void-orders-to-keep-a-conspiracy-alive-4e36)
-- [The founder of Topdevs built something real. Amanda Frye and her conspirators destroyed it to cover up their crimes and steal legitimacy.](https://dev.to/portablewalkman/the-founder-of-topdevs-built-something-real-amanda-frye-and-her-conspirators-destroyed-it-to-cover-2mda)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-49ph)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-3c3c)
+- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-2eao)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-55j5)
 <!-- BLOG-POST-LIST:END -->
 
 
