@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-318b)
-- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-23c5)
+- [Database Normalization in MySQL &lpar;1NF 2NF 3NF&rpar; – Simple Example](https://dev.to/pranav_aadithya_36edf63cb/database-normalization-in-mysql-1nf-2nf-3nf-simple-example-314p)
+- [Common Documentation Mistakes During AS 9100 Implementation](https://dev.to/joy1/common-documentation-mistakes-during-as-9100-implementation-4ajc)
+- [Day-102,103 Connecting Spring Boot with PostgreSQL Database](https://dev.to/tamilselvan1812/day-102103-connecting-spring-boot-with-postgresql-database-3nkm)
+- [SQL Commands Explained: DDL vs DML vs DQL vs DCL vs TCL](https://dev.to/ahmed_kadiwala/sql-commands-explained-ddl-vs-dml-vs-dql-vs-dcl-vs-tcl-1pdi)
 <!-- BLOG-POST-LIST:END -->
 
 
