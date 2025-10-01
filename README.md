@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nothing like waking up to a bot attack.
-
-Can&#39;t they at least wait til I&#39;ve had my coffee?](https://dev.to/ben/nothing-like-waking-up-to-a-bot-attackcant-they-at-least-wait-til-ive-had-my-coffee-228j)
-- [MapLibre GL Markers: Custom Icons, Popups &amp; Events with Geoapify](https://dev.to/geoapify-maps-api/maplibre-gl-markers-custom-icons-popups-events-with-geoapify-gm8)
-- [3 Weeks Left: PlotSenseAI Hackathon 2025 🚀](https://dev.to/havilahacademy/3-weeks-left-plotsenseai-hackathon-2025-3pm8)
-- [🔑MultiLock in Areg SDK: Portable, Efficient Mixed Synchronization in C++](https://dev.to/aregtech/multilock-in-areg-sdk-portable-efficient-mixed-synchronization-in-c-4oa0)
+- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
+- [Exploring the Latest AI Models and Tools for Developers](https://dev.to/rinonten/exploring-the-latest-ai-models-and-tools-for-developers-3cac)
+- [How to Check if Code Was Made by AI](https://dev.to/marcosplusplus/how-to-check-if-code-was-made-by-ai-4n23)
+- [The Open Source World Is About to Get a Surprise 👀](https://dev.to/renderatlorg/the-open-source-world-is-about-to-get-a-surprise-5cpk)
 <!-- BLOG-POST-LIST:END -->
 
 
