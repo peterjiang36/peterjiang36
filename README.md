@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RBAC in Kubernetes: Understanding Roles, and RoleBindings 🔐](https://dev.to/imlucky883/rbac-in-kubernetes-understanding-roles-and-rolebindings-4nj3)
-- [Developers Learning Stack: learn how you can master new Technologies in 30 days](https://dev.to/pratham_naik_project_manager/developers-learning-stack-learn-how-you-can-master-new-technologies-in-30-days-50i3)
-- [LUCA: A Modern Architecture for SwiftUI Development](https://dev.to/kyome22/luca-a-modern-architecture-for-swiftui-development-3g2i)
-- [&quot;Why Distributed Systems Break — and Still Work&quot;](https://dev.to/yash_khillare_392e62d251a/why-distributed-systems-break-and-still-work-1jl8)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-318b)
+- [KEXP: Cory Hanson - Lou Reed &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-lou-reed-live-on-kexp-23c5)
 <!-- BLOG-POST-LIST:END -->
 
 
