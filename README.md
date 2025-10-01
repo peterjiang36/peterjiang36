@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-49ph)
-- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-3c3c)
-- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-2eao)
-- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-55j5)
+- [The Illusions of Quality—Episode 8: 📏 Measuring What Actually Matters: Quality Metrics That Don’t Lie 🤥](https://dev.to/abdulosman/the-illusions-of-quality-episode-8-measuring-what-actually-matters-quality-metrics-that-dont-3144)
+- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
+- [🚀 Fugindo do CRUD com PHP — Crypto Discord Monitor](https://dev.to/henriquesombisa/fugindo-do-crud-com-php-crypto-discord-monitor-4f28)
+- [When Brushstrokes Meet Bytes: Finding Data in Everyday Art 🎨💾](https://dev.to/l_zia_l/when-brushstrokes-meet-bytes-finding-data-in-everyday-art-36ad)
 <!-- BLOG-POST-LIST:END -->
 
 
