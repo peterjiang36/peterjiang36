@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Development Coaches Help Unlock Hidden Potential in Professionals](https://dev.to/toby-patrick/how-development-coaches-help-unlock-hidden-potential-in-professionals-1l2c)
-- [Day 1 of 30 Days of Solidity Challenge: Build Your First Click Counter Smart Contract 🚀](https://dev.to/sauravkumar8178/day-1-of-30-days-of-solidity-challenge-build-your-first-click-counter-smart-contract-ipj)
-- [I Built an AI Resume Agent That 6x&#39;d My Interview Rate &lpar;Claude Sonnet 4.5&rpar;](https://dev.to/aabyzov/i-built-an-ai-resume-agent-that-6xd-my-interview-rate-claude-sonnet-45-4c77)
-- [TechWorld with Nana: Apache Kafka Complete Course for Beginners](https://dev.to/scale_youtube/techworld-with-nana-apache-kafka-complete-course-for-beginners-2cd3)
+- [Cargando imágenes responsive con CSS](https://dev.to/dezkareid/cargando-imagenes-responsive-con-css-5bkk)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-323c)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-2k0e)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1jgc)
 <!-- BLOG-POST-LIST:END -->
 
 
