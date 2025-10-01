@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/pachicodes/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
-- [O Valor de uma Comunidade: Seis pilares tangíveis para o crescimento da sua empresa](https://dev.to/pachicodes/o-valor-de-uma-comunidade-seis-pilares-tangiveis-para-o-crescimento-da-sua-empresa-3i4g)
-- [I Tested Side Hustle for 30 Days. Here&#39;s What Happened.](https://dev.to/novatayler/i-tested-side-hustle-for-30-days-heres-what-happened-9i5)
-- [Avoiding the &#39;Common&#39; Trap: How I Structure Shared Packages at HoneyDrunk](https://dev.to/tatted_dev/avoiding-the-common-trap-how-i-structure-shared-packages-at-honeydrunk-4agi)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-3djg)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1do3)
+- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--3bd)
+- [IGN: Marvel Cosmic Invasion - Official Demo Launch Trailer](https://dev.to/gg_news/ign-marvel-cosmic-invasion-official-demo-launch-trailer-47nk)
 <!-- BLOG-POST-LIST:END -->
 
 
