@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-55o5)
-- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-o6e)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1490)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-75c)
+- [🚀 Azure Functions Deployment Simplified: Mastering Publish Profiles &amp; The Isolated Model](https://dev.to/pavan296/azure-functions-deployment-simplified-mastering-publish-profiles-the-isolated-model-464f)
+- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
+- [a](https://dev.to/killux/a-pm8)
+- [Performance Bottlenecks in Backend Development and How to Handle Them](https://dev.to/yasserelgammal/performance-bottlenecks-in-backend-development-and-how-to-handle-them-fmo)
 <!-- BLOG-POST-LIST:END -->
 
 
