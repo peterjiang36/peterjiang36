@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1nae)
-- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
-- [Getting Started with Tuist: Manage iOS Projects with ease](https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg)
-- [POR QUÉ UN FONDO DE EMERGENCIA PUEDE SALVAR TUS FINANZAS](https://dev.to/sergiomejia/por-que-un-fondo-de-emergencia-puede-salvar-tus-finanzas-3dd5)
+- [RBAC in Kubernetes: Understanding Roles, and RoleBindings 🔐](https://dev.to/imlucky883/rbac-in-kubernetes-understanding-roles-and-rolebindings-4nj3)
+- [Developers Learning Stack: learn how you can master new Technologies in 30 days](https://dev.to/pratham_naik_project_manager/developers-learning-stack-learn-how-you-can-master-new-technologies-in-30-days-50i3)
+- [LUCA: A Modern Architecture for SwiftUI Development](https://dev.to/kyome22/luca-a-modern-architecture-for-swiftui-development-3g2i)
+- [&quot;Why Distributed Systems Break — and Still Work&quot;](https://dev.to/yash_khillare_392e62d251a/why-distributed-systems-break-and-still-work-1jl8)
 <!-- BLOG-POST-LIST:END -->
 
 
