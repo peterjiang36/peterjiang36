@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sleutel vergeten in huis: Praktische oplossingen zonder schade](https://dev.to/slotenmakerhulp-locksmith/sleutel-vergeten-in-huis-praktische-oplossingen-zonder-schade-2lld)
-- [How AI Is Transforming B2B Lead Generation and Account Targeting](https://dev.to/noah_jones_vm/how-ai-is-transforming-b2b-lead-generation-and-account-targeting-30mm)
-- [Script Writing Software: Why Studiovity Stands Out for Writers &amp; Filmmakers](https://dev.to/studiovity_production/script-writing-software-why-studiovity-stands-out-for-writers-filmmakers-4b0p)
-- [Type Theory and Functional Programming &lpar;1999&rpar; [pdf]](https://dev.to/technoblogger14o3/type-theory-and-functional-programming-1999-pdf-25ab)
+- [Nothing like waking up to a bot attack.
+
+Can&#39;t they at least wait til I&#39;ve had my coffee?](https://dev.to/ben/nothing-like-waking-up-to-a-bot-attackcant-they-at-least-wait-til-ive-had-my-coffee-228j)
+- [MapLibre GL Markers: Custom Icons, Popups &amp; Events with Geoapify](https://dev.to/geoapify-maps-api/maplibre-gl-markers-custom-icons-popups-events-with-geoapify-gm8)
+- [3 Weeks Left: PlotSenseAI Hackathon 2025 🚀](https://dev.to/havilahacademy/3-weeks-left-plotsenseai-hackathon-2025-3pm8)
+- [🔑MultiLock in Areg SDK: Portable, Efficient Mixed Synchronization in C++](https://dev.to/aregtech/multilock-in-areg-sdk-portable-efficient-mixed-synchronization-in-c-4oa0)
 <!-- BLOG-POST-LIST:END -->
 
 
