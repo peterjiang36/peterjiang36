@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-l5f)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1i33)
-- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2pc0)
-- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-1f8p)
+- [Go Coding with Asparagos: Mushroom Soup for everyone!](https://dev.to/asparagos/go-coding-with-asparagos-mushroom-soup-for-everyone-55a3)
+- [Tyler Davis and Joshua Lintz worked hand in hand to defraud the founder of Topdevs and the United States government.](https://dev.to/portablewalkman/tyler-davis-and-joshua-lintz-worked-hand-in-hand-to-defraud-the-founder-of-topdevs-and-the-united-2e9m)
+- [Fraud on the court is unforgivable. Scott R. Carpenter used void orders to keep a conspiracy alive. That is criminal.](https://dev.to/portablewalkman/fraud-on-the-court-is-unforgivable-scott-r-carpenter-used-void-orders-to-keep-a-conspiracy-alive-4e36)
+- [The founder of Topdevs built something real. Amanda Frye and her conspirators destroyed it to cover up their crimes and steal legitimacy.](https://dev.to/portablewalkman/the-founder-of-topdevs-built-something-real-amanda-frye-and-her-conspirators-destroyed-it-to-cover-2mda)
 <!-- BLOG-POST-LIST:END -->
 
 
