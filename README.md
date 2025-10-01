@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡](https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702)
-- [monitor network, CPU, RAM, disk with persistent overlay using Rainmeter.](https://dev.to/nl_p_/monitor-network-cpu-ram-disk-with-persistent-overlay-using-rainmeter-na3)
-- [DIY Holding Tank Sensors Part 1: Or &quot;Mommy, the AI made me code in C&quot;](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-1-or-mommy-the-ai-made-me-code-in-c-4llg)
-- [Mapping CSV Airtable &lpar;or Notion&rpar; without tears &lpar;template inside&rpar;](https://dev.to/xxbricksquadxx/mapping-csv-airtable-or-notion-without-tears-template-inside-2lnd)
+- [Personal Picks: Data Product News &lpar;October 1, 2025&rpar;](https://dev.to/sagara/personal-picks-data-product-news-october-1-2025-2p0a)
+- [Building Hayao AI: How We Created a Next-Gen AI Photo Editor](https://dev.to/jianping_liu/building-hayao-ai-how-we-created-a-next-gen-ai-photo-editor-1di7)
+- [My League of Legends Based Developer Portfolio](https://dev.to/ctrlaltbachata/my-league-of-legends-based-developer-portfolio-5fdb)
+- [Designing agentic loops](https://dev.to/technoblogger14o3/designing-agentic-loops-4f3k)
 <!-- BLOG-POST-LIST:END -->
 
 
