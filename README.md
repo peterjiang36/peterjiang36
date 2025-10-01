@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My first Dev post](https://dev.to/henark/my-first-dev-post-2k0o)
-- [Beyond Circles: Smart Geofencing with Data-Driven Shapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-circles-smart-geofencing-with-data-driven-shapes-by-arvind-sundararajan-3amp)
-- [IGN: Grounded 2 - Official Hairy and Scary Update Trailer](https://dev.to/gg_news/ign-grounded-2-official-hairy-and-scary-update-trailer-367e)
-- [I Tried Building a Hand Gesture Mouse Controller in Python](https://dev.to/narednra_reddyyadama_d64/i-tried-building-a-hand-gesture-mouse-controller-in-python-491m)
+- [🏁 ASPICE Literacy: Episode 7 — Management Buy-In: Why ASPICE Fails Without Leadership Courage 💡](https://dev.to/abdulosman/aspice-literacy-episode-7-management-buy-in-why-aspice-fails-without-leadership-courage-1702)
+- [monitor network, CPU, RAM, disk with persistent overlay using Rainmeter.](https://dev.to/nl_p_/monitor-network-cpu-ram-disk-with-persistent-overlay-using-rainmeter-na3)
+- [DIY Holding Tank Sensors Part 1: Or &quot;Mommy, the AI made me code in C&quot;](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-1-or-mommy-the-ai-made-me-code-in-c-4llg)
+- [Mapping CSV Airtable &lpar;or Notion&rpar; without tears &lpar;template inside&rpar;](https://dev.to/xxbricksquadxx/mapping-csv-airtable-or-notion-without-tears-template-inside-2lnd)
 <!-- BLOG-POST-LIST:END -->
 
 
