@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ConfigMaps and Secrets: Managing Configuration and Sensitive Data in Kubernetes 🔐](https://dev.to/imlucky883/configmaps-and-secrets-managing-configuration-and-sensitive-data-in-kubernetes-25am)
-- [Mastering EF Core Pagination: Efficient Data Retrieval](https://dev.to/rgbos/mastering-ef-core-pagination-efficient-data-retrieval-7b8)
-- [Connecting Node.js to MongoDB: A Complete Developer&#39;s Guide](https://dev.to/satyam_gupta_0d1ff2152dcc/connecting-nodejs-to-mongodb-a-complete-developers-guide-2cfg)
-- [Steps to Transform ASP.NET Core API into AWS Lambda Functions](https://dev.to/naimulkarim/steps-to-transform-aspnet-core-api-into-aws-lambda-functions-7eb)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-1nae)
+- [Welcome Thread - v345](https://dev.to/devteam/welcome-thread-v345-2bjh)
+- [Getting Started with Tuist: Manage iOS Projects with ease](https://dev.to/arshtechpro/getting-started-with-tuist-manage-ios-projects-with-ease-3omg)
+- [POR QUÉ UN FONDO DE EMERGENCIA PUEDE SALVAR TUS FINANZAS](https://dev.to/sergiomejia/por-que-un-fondo-de-emergencia-puede-salvar-tus-finanzas-3dd5)
 <!-- BLOG-POST-LIST:END -->
 
 
