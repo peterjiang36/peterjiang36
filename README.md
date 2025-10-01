@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Normalization in MySQL &lpar;1NF 2NF 3NF&rpar; – Simple Example](https://dev.to/pranav_aadithya_36edf63cb/database-normalization-in-mysql-1nf-2nf-3nf-simple-example-314p)
-- [Common Documentation Mistakes During AS 9100 Implementation](https://dev.to/joy1/common-documentation-mistakes-during-as-9100-implementation-4ajc)
-- [Day-102,103 Connecting Spring Boot with PostgreSQL Database](https://dev.to/tamilselvan1812/day-102103-connecting-spring-boot-with-postgresql-database-3nkm)
-- [SQL Commands Explained: DDL vs DML vs DQL vs DCL vs TCL](https://dev.to/ahmed_kadiwala/sql-commands-explained-ddl-vs-dml-vs-dql-vs-dcl-vs-tcl-1pdi)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-l5f)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1i33)
+- [KEXP: Cory Hanson - Bad Miracles &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-cory-hanson-bad-miracles-live-on-kexp-2pc0)
+- [KEXP: Fishbone - Party At Ground Zero &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-fishbone-party-at-ground-zero-live-on-kexp-1f8p)
 <!-- BLOG-POST-LIST:END -->
 
 
