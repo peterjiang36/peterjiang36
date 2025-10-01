@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built a Block-Based AI Prompt Builder with Next.js and Supabase - Here&#39;s What I Learned](https://dev.to/jaber-said/i-built-a-block-based-ai-prompt-builder-with-nextjs-and-supabase-heres-what-i-learned-1ne1)
-- [Exploring the Latest AI Models and Tools for Developers](https://dev.to/rinonten/exploring-the-latest-ai-models-and-tools-for-developers-3cac)
-- [How to Check if Code Was Made by AI](https://dev.to/marcosplusplus/how-to-check-if-code-was-made-by-ai-4n23)
-- [The Open Source World Is About to Get a Surprise 👀](https://dev.to/renderatlorg/the-open-source-world-is-about-to-get-a-surprise-5cpk)
+- [No Laying Up Podcast: Ryder Cup Autopsy Report with Duncan Carey and Jamie Kennedy | NLU Pod, Ep 1078](https://dev.to/youtube_golf/no-laying-up-podcast-ryder-cup-autopsy-report-with-duncan-carey-and-jamie-kennedy-nlu-pod-ep-55o5)
+- [Golf.com: Secret Envelopes, Unruly Fans, Europe Domination: Unpacking the 2025 Ryder Cup](https://dev.to/youtube_golf/golfcom-secret-envelopes-unruly-fans-europe-domination-unpacking-the-2025-ryder-cup-o6e)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-1490)
+- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-75c)
 <!-- BLOG-POST-LIST:END -->
 
 
