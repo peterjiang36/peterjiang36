@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Azure Functions Deployment Simplified: Mastering Publish Profiles &amp; The Isolated Model](https://dev.to/pavan296/azure-functions-deployment-simplified-mastering-publish-profiles-the-isolated-model-464f)
-- [SCE 2.5.0 for Linux Released – Featuring New CIS Benchmarks](https://dev.to/puppet/sce-250-for-linux-released-featuring-new-cis-benchmarks-3a8i)
-- [a](https://dev.to/killux/a-pm8)
-- [Performance Bottlenecks in Backend Development and How to Handle Them](https://dev.to/yasserelgammal/performance-bottlenecks-in-backend-development-and-how-to-handle-them-fmo)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-2nm8)
+- [GameSpot: Silent Hill f - All Endings With Boss Fights](https://dev.to/gg_news/gamespot-silent-hill-f-all-endings-with-boss-fights-3bm9)
+- [GameSpot: Borderlands 4 - C4SH Vault Hunter Reveal Trailer](https://dev.to/gg_news/gamespot-borderlands-4-c4sh-vault-hunter-reveal-trailer-eaf)
+- [GameSpot: Battlefield 6: Official Launch Live Action Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-live-action-trailer-3m6f)
 <!-- BLOG-POST-LIST:END -->
 
 
