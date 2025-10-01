@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Core Concepts Every Developer Should Know &lpar;Bengali&rpar;](https://dev.to/mehedihasan1102/typescript-core-concepts-every-developer-should-know-bengali-3ji8)
-- [Top 7 SEO Tips for Developers Writing Technical Blogs](https://dev.to/justin-green/top-7-seo-tips-for-developers-writing-technical-blogs-m6g)
-- [Mastering TCJSGame TileMap System: Building Complex Game Worlds](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-tilemap-system-building-complex-game-worlds-3g0f)
-- [Sparse Models and the Efficiency Revolution in AI](https://dev.to/maurizio_morri_f7f4bd128c/sparse-models-and-the-efficiency-revolution-in-ai-32ep)
+- [My first Dev post](https://dev.to/henark/my-first-dev-post-2k0o)
+- [Beyond Circles: Smart Geofencing with Data-Driven Shapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/beyond-circles-smart-geofencing-with-data-driven-shapes-by-arvind-sundararajan-3amp)
+- [IGN: Grounded 2 - Official Hairy and Scary Update Trailer](https://dev.to/gg_news/ign-grounded-2-official-hairy-and-scary-update-trailer-367e)
+- [I Tried Building a Hand Gesture Mouse Controller in Python](https://dev.to/narednra_reddyyadama_d64/i-tried-building-a-hand-gesture-mouse-controller-in-python-491m)
 <!-- BLOG-POST-LIST:END -->
 
 
