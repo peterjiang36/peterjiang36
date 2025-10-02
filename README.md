@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Formats Every Data Analyst Should Know](https://dev.to/mukhil_77/data-formats-every-data-analyst-should-know-4f72)
-- [“The AI Investment Bubble: Boom, Risks &amp; Reality Check”](https://dev.to/mourya_modugula/the-ai-investment-bubble-boom-risks-reality-check-pgj)
-- [learn documentation like Project managers](https://dev.to/rajesh_patel/learn-documentation-like-project-managers-132)
-- [How developers document like Project managers](https://dev.to/bhavy_k_5a3b6c88887b58c92/how-developers-document-like-project-managers-dfg)
+- [Stop Writing Bad Commit Messages: Use Conventional Commits Instead](https://dev.to/richa-parekh/stop-writing-bad-commit-messages-use-conventional-commits-instead-32jd)
+- [Ten postgres tricks that&#39;ll make your colleagues 😯](https://dev.to/simonhorlick/ten-postgres-tricks-thatll-make-your-colleagues-2aok)
+- [TIL: Builder Design Pattern](https://dev.to/vishnukn01/til-builder-design-pattern-272c)
+- [Part-96: ⚙️Implementing Job backoffLimit in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-96-implementing-job-backofflimit-in-google-kubernetes-engine-gke-3mdb)
 <!-- BLOG-POST-LIST:END -->
 
 
