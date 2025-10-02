@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--4ajg)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-58n9)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-5787)
-- [GameSpot: Ghost of Yōtei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-1kk9)
+- [🚀 I Built an Enterprise-Grade Data Table for Next.js - Now Available via Shadcn Registry!](https://dev.to/jacksonkasi/i-built-an-enterprise-grade-data-table-for-nextjs-now-available-via-shadcn-registry-406h)
+- [My First Open Source PR — Done During Hacktoberfest 2025!](https://dev.to/tpmsh/my-first-open-source-pr-done-during-hacktoberfest-2025-14p6)
+- [Report-Tutorial: Installing and Compiling u2vpodcast on an Oracle Linux VM &lpar;ARM64&rpar;](https://dev.to/ivajofranc/report-tutorial-installing-and-compiling-u2vpodcast-on-an-oracle-linux-vm-arm64-c15)
+- [Java language evolution &lpar;part 1&rpar;](https://dev.to/cesarpaulomp/java-language-evolution-part-1-52gh)
 <!-- BLOG-POST-LIST:END -->
 
 
