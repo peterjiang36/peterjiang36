@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Movement-events on Mini Micro &lpar;part 1&rpar;](https://dev.to/sebnozzi/movement-events-on-mini-micro-part-1-3gm7)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-2cb1)
-- [Why Most RAG Pipelines Fail in Production &lpar;and How to Fix Them&rpar;](https://dev.to/piyooshrai/why-most-rag-pipelines-fail-in-production-and-how-to-fix-them-3858)
-- [Untitled](https://dev.to/aer_abdelkader_88125fbfa5/untitled-p58)
+- [Title: NASA&#39;s Wildlife: An Alligator&#39;s Swim in Space](https://dev.to/yagyaraj_sharma_6cd410179/title-nasas-wildlife-an-alligators-swim-in-space-404h)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-2j1i)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-2f3c)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-3165)
 <!-- BLOG-POST-LIST:END -->
 
 
