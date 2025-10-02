@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-g13)
-- [Bryan Bros Golf: Golf Match with Llama Caddies &lpar;1v1 Strokeplay&rpar;](https://dev.to/youtube_golf/bryan-bros-golf-golf-match-with-llama-caddies-1v1-strokeplay-56n)
-- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-37le)
-- [Danny Maude: How To Learn Golf So Fast It Feels Illegal](https://dev.to/youtube_golf/danny-maude-how-to-learn-golf-so-fast-it-feels-illegal-7e8)
+- [Privacy for subdomains: the solution](https://dev.to/nfrankel/privacy-for-subdomains-the-solution-3gbc)
+- [How to Hire Backend Developers in 2025: A Comprehensive Guide](https://dev.to/masteringbackend/how-to-hire-backend-developers-in-2025-a-comprehensive-guide-25ki)
+- [Audits Decoded: Your Guide to Not Panicking When the Clipboard People Arrive](https://dev.to/leonardkachi/audits-decoded-your-guide-to-not-panicking-when-the-clipboard-people-arrive-1o7a)
+- [Web3 Development Toolchain](https://dev.to/loading_blocks/web3-development-toolchain-2d8)
 <!-- BLOG-POST-LIST:END -->
 
 
