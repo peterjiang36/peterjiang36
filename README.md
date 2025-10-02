@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Eloquent on Steroids: From 3s to 300ms](https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc)
-- [Accessibility: FashionNova fined $5.15M, Vueling Airlines €90,000](https://dev.to/chris_devto/fashionnova-fined-515m-vueling-airlines-eu90000-48he)
-- [AWS Networking: SSL/TLS with Load Balancers](https://dev.to/aws-builders/aws-networking-ssltls-with-load-balancers-5gpa)
-- [Why does big tech not run Accessibility bug bounties?](https://dev.to/chris_devto/why-does-big-tech-not-run-accessibility-bug-bounties-1n1k)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-1ml4)
+- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-ibb)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-170e)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-anh)
 <!-- BLOG-POST-LIST:END -->
 
 
