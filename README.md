@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-28c4)
-- [GameSpot: Call of Duty NEXT Showcase 2025 Livestream &lpar;Black Ops 7 Multiplayer, Zombies, Warzone &amp; more&rpar;](https://dev.to/gg_news/gamespot-call-of-duty-next-showcase-2025-livestream-black-ops-7-multiplayer-zombies-warzone--1ppn)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-5ajc)
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-3gl6)
+- [AI Forces What Rails Teams Already Knew: Small Teams Ship Faster](https://dev.to/jetthoughts/ai-forces-what-rails-teams-already-knew-small-teams-ship-faster-3k3g)
+- [My Battle Tested React Hooks Are Now Open Source](https://dev.to/dayvster/my-battle-tested-react-hooks-are-now-open-source-13l0)
+- [How AI Is Disrupting The Legal Field Changing Past Practices and Shaping the Future](https://dev.to/heyjoshlee/how-ai-is-disrupting-the-legal-field-changing-past-practices-and-shaping-the-future-ek9)
+- [My Monthly 1:1 Formula: 4 Health Checks + PM Feedback](https://dev.to/razoorka/my-monthly-11-formula-4-health-checks-pm-feedback-4c19)
 <!-- BLOG-POST-LIST:END -->
 
 
