@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Bad Commit Messages: Use Conventional Commits Instead](https://dev.to/richa-parekh/stop-writing-bad-commit-messages-use-conventional-commits-instead-32jd)
-- [Ten postgres tricks that&#39;ll make your colleagues 😯](https://dev.to/simonhorlick/ten-postgres-tricks-thatll-make-your-colleagues-2aok)
-- [TIL: Builder Design Pattern](https://dev.to/vishnukn01/til-builder-design-pattern-272c)
-- [Part-96: ⚙️Implementing Job backoffLimit in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-96-implementing-job-backofflimit-in-google-kubernetes-engine-gke-3mdb)
+- [Building, Testing, and Publishing Go Packages: Best Practices](https://dev.to/ticatwolves/building-testing-and-publishing-go-packages-best-practices-8k)
+- [Building a Custom NLP Model from Scratch: From Idea to Real-World Impact](https://dev.to/sunny7899/building-a-custom-nlp-model-from-scratch-from-idea-to-real-world-impact-1ojl)
+- [How to Design a Creative Towel Hook using 3D CAD Software](https://dev.to/julia970/how-to-design-a-creative-towel-hook-using-3d-cad-software-hj1)
+- [Claude Code: Unix Philosophy Makes It Amazing](https://dev.to/klement_gunndu_e16216829c/claude-code-unix-philosophy-makes-it-amazing-34c4)
 <!-- BLOG-POST-LIST:END -->
 
 
