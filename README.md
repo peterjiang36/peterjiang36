@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-5bc8)
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-2p57)
-- [IGN: OBEX - Official Trailer &lpar;2025&rpar; Albert Birney, Callie Hernandez, Paisley Isaacs](https://dev.to/gg_news/ign-obex-official-trailer-2025-albert-birney-callie-hernandez-paisley-isaacs-3i79)
-- [IGN: Dragon Ball: Sparking! Zero - Official &#39;Over 200 Characters&#39; Anniversary Trailer](https://dev.to/gg_news/ign-dragon-ball-sparking-zero-official-over-200-characters-anniversary-trailer-3djo)
+- [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
+- [Mastering Cypress Retries: How to Efficiently Re-Run Only Failed Tests with Mochawesome &amp; Dynamic…](https://dev.to/mohamedsaidibrahim/mastering-cypress-retries-how-to-efficiently-re-run-only-failed-tests-with-mochawesome-dynamic-1o6p)
+- [JSON Schema with AJV: Implementation Deep Dive ⚡](https://dev.to/vishdevwork/json-schema-with-ajv-implementation-deep-dive-1cnn)
+- [Unmasking the Ghost in the Machine: How a Translation API Error Nearly Broke Our Cypress E2E Tests](https://dev.to/mohamedsaidibrahim/unmasking-the-ghost-in-the-machine-how-a-translation-api-error-nearly-broke-our-cypress-e2e-tests-2fa4)
 <!-- BLOG-POST-LIST:END -->
 
 
