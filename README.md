@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Senior Engineer&#39;s Guide to Sending EVM Transactions in Python](https://dev.to/onlineproxy/a-senior-engineers-guide-to-sending-evm-transactions-in-python-2p0f)
-- [Adding TOML Config Support to a CLI Tool](https://dev.to/oleksandrakordonets/adding-toml-config-support-to-a-cli-tool-556)
-- [How Does a Website Actually Load in Your Browser?](https://dev.to/parthi_rp/how-does-a-website-actually-load-in-your-browser-2483)
-- [Untitled](https://dev.to/sl_suddabot_757323936cc4/untitled-3opj)
+- [How I ended up creating my own programming font...](https://dev.to/psudo-dev/how-i-ended-up-creating-my-own-programming-font-117p)
+- [My First Pull Request for Open Source Project](https://dev.to/jongwan93/my-first-pull-request-for-open-source-project-3jp4)
+- [📢 HMPL is participating in Hacktoberfest 2025!](https://dev.to/hmpljs/hmpl-is-participating-in-hacktoberfest-2025-1bn1)
+- [Mastering Google Gemini AI: A Complete Guide to Building Intelligent Applications](https://dev.to/vipascal99/mastering-google-gemini-ai-a-complete-guide-to-building-intelligent-applications-401f)
 <!-- BLOG-POST-LIST:END -->
 
 
