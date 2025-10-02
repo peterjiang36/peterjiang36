@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-m69)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-b5h)
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-1e62)
-- [IGN: The Carpenter&#39;s Son - Official Trailer &lpar;2025&rpar; Nicolas Cage, FKA twigs](https://dev.to/gg_news/ign-the-carpenters-son-official-trailer-2025-nicolas-cage-fka-twigs-1phi)
+- [Laravel Eloquent on Steroids: From 3s to 300ms](https://dev.to/japhethjoepari/laravel-eloquent-on-steroids-from-3s-to-300ms-ghc)
+- [Accessibility: FashionNova fined $5.15M, Vueling Airlines €90,000](https://dev.to/chris_devto/fashionnova-fined-515m-vueling-airlines-eu90000-48he)
+- [AWS Networking: SSL/TLS with Load Balancers](https://dev.to/aws-builders/aws-networking-ssltls-with-load-balancers-5gpa)
+- [Why does big tech not run Accessibility bug bounties?](https://dev.to/chris_devto/why-does-big-tech-not-run-accessibility-bug-bounties-1n1k)
 <!-- BLOG-POST-LIST:END -->
 
 
