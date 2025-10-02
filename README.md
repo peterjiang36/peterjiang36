@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: NASA&#39;s Wildlife: An Alligator&#39;s Swim in Space](https://dev.to/yagyaraj_sharma_6cd410179/title-nasas-wildlife-an-alligators-swim-in-space-404h)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-2j1i)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-2f3c)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-3165)
+- [📰 Major Tech News: Oct 1st, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-1st-2025-20d6)
+- [Core Concepts of Kafka](https://dev.to/farhan_khan_41ec7ff11ac1d/core-concepts-of-kafka-760)
+- [Introducing Gofsen: A Clean &amp; Minimalist Web API Framework for Go](https://dev.to/bakemonosan/introducing-gofsen-a-clean-minimalist-web-api-framework-for-go-4p3k)
+- [devchallenge for googleaichallenge and it is an ai powered app that allows you to get summary fom video and questions to answer based on that video also there is the amazing feature for writer and also generate blog ideas from the video](https://dev.to/techsplot/devchallenge-for-googleaichallenge-and-it-is-an-ai-powered-app-that-allows-you-to-get-summary-fom-11f7)
 <!-- BLOG-POST-LIST:END -->
 
 
