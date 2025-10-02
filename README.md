@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-402h)
-- [COLORS: Jon Batiste | A COLORS SHOW](https://dev.to/music_youtube/colors-jon-batiste-a-colors-show-50l6)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-1mfp)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-301k)
+- [The future of full-stack development is AI. Full-stack development doesn’t have to mean exhaustion. It means rewarding and fast delivery.](https://dev.to/jaideepparashar/the-future-of-full-stack-development-is-ai-full-stack-development-doesnt-have-to-mean-exhaustion-in6)
+- [How to Build a Responsive CSS Grid from Scratch &lpar;And When to Just Use a Template&rpar;](https://dev.to/mrk_/how-to-build-a-responsive-css-grid-from-scratch-and-when-to-just-use-a-template-if0)
+- [How Full-Stack Developers Can Use AI for Faster Delivery](https://dev.to/jaideepparashar/how-full-stack-developers-can-use-ai-for-faster-delivery-14cn)
+- [Regex di CSS](https://dev.to/sejutaimpian/regex-di-css-5fp9)
 <!-- BLOG-POST-LIST:END -->
 
 
