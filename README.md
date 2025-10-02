@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I ended up creating my own programming font...](https://dev.to/psudo-dev/how-i-ended-up-creating-my-own-programming-font-117p)
-- [My First Pull Request for Open Source Project](https://dev.to/jongwan93/my-first-pull-request-for-open-source-project-3jp4)
-- [📢 HMPL is participating in Hacktoberfest 2025!](https://dev.to/hmpljs/hmpl-is-participating-in-hacktoberfest-2025-1bn1)
-- [Mastering Google Gemini AI: A Complete Guide to Building Intelligent Applications](https://dev.to/vipascal99/mastering-google-gemini-ai-a-complete-guide-to-building-intelligent-applications-401f)
+- [Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey](https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1)
+- [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
+- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
 <!-- BLOG-POST-LIST:END -->
 
 
