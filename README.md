@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smarter Notifications with Edge AI: A Kotlin + Koog + MediaPipes Journey](https://dev.to/monda8am/smarter-notifications-with-edge-ai-a-kotlin-koog-mediapipes-journey-5h1)
-- [What Are Kafka Common Advanced Problem Solutions in 2025?](https://dev.to/rociogarciavf/what-are-kafka-common-advanced-problem-solutions-in-2025-4pij)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-37f0)
-- [Beginner’s Guide #1: if &lpar;data&rpar; vs if &lpar;!!data&rpar; in JavaScript 🤔](https://dev.to/sylwia-lask/beginners-guide-1-if-data-vs-if-data-in-javascript-14bc)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-5bc8)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-2p57)
+- [IGN: OBEX - Official Trailer &lpar;2025&rpar; Albert Birney, Callie Hernandez, Paisley Isaacs](https://dev.to/gg_news/ign-obex-official-trailer-2025-albert-birney-callie-hernandez-paisley-isaacs-3i79)
+- [IGN: Dragon Ball: Sparking! Zero - Official &#39;Over 200 Characters&#39; Anniversary Trailer](https://dev.to/gg_news/ign-dragon-ball-sparking-zero-official-over-200-characters-anniversary-trailer-3djo)
 <!-- BLOG-POST-LIST:END -->
 
 
