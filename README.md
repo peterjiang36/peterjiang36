@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Cypress to Playwright: Solving 5 Common Test Automation Challenges](https://dev.to/mohamedsaidibrahim/from-cypress-to-playwright-solving-5-common-test-automation-challenges-46l5)
-- [Mastering Cypress Retries: How to Efficiently Re-Run Only Failed Tests with Mochawesome &amp; Dynamic…](https://dev.to/mohamedsaidibrahim/mastering-cypress-retries-how-to-efficiently-re-run-only-failed-tests-with-mochawesome-dynamic-1o6p)
-- [JSON Schema with AJV: Implementation Deep Dive ⚡](https://dev.to/vishdevwork/json-schema-with-ajv-implementation-deep-dive-1cnn)
-- [Unmasking the Ghost in the Machine: How a Translation API Error Nearly Broke Our Cypress E2E Tests](https://dev.to/mohamedsaidibrahim/unmasking-the-ghost-in-the-machine-how-a-translation-api-error-nearly-broke-our-cypress-e2e-tests-2fa4)
+- [With AI, I’ve been able to cut API integration time drastically, turning what used to take hours into a process of minutes. The result: faster integrations, cleaner code, and fewer headaches.](https://dev.to/jaideepparashar/with-ai-ive-been-able-to-cut-api-integration-time-drastically-turning-what-used-to-take-hours-2oo7)
+- [AI for APIs: Integrating Services Without Wasting Hours](https://dev.to/jaideepparashar/ai-for-apis-integrating-services-without-wasting-hours-2cp9)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2295)
+- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-30cj)
 <!-- BLOG-POST-LIST:END -->
 
 
