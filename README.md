@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The RFP Dropped. Now We Panic – Strategically](https://dev.to/bid_solution/the-rfp-dropped-now-we-panic-strategically-39mp)
-- [📰 Major Tech News: Oct 2nd, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-2nd-2025-500l)
-- [Skip Elasticsearch: Build Blazing-Fast Full-Text Search Right in Supabase](https://dev.to/reclusivecoder/skip-elasticsearch-build-blazing-fast-full-text-search-right-in-supabase-58pf)
-- [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
+- [KEXP: strongboi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-full-performance-live-on-kexp-2a18)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-h6f)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-koh)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2a7i)
 <!-- BLOG-POST-LIST:END -->
 
 
