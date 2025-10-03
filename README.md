@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Disney Twisted-Wonderland: The Animation - Official &#39;Episode of Heartslabyul&#39; Trailer &lpar;English Sub&rpar;](https://dev.to/gg_news/ign-disney-twisted-wonderland-the-animation-official-episode-of-heartslabyul-trailer-english-2f3h)
-- [CinemaSins: Everything Wrong With Grown Ups In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-grown-ups-in-18-minutes-or-less-4kop)
-- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-496b)
-- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-35kh)
+- [🔒 Node.js Security Best Practices](https://dev.to/rohit_singh_ee84e64941db7/nodejs-security-best-practices-84d)
+- [Hindsight at Bethpage: The Principles Keegan Looked Past](https://dev.to/ben/hindsight-at-bethpage-the-principles-keegan-usa-looked-past-j8k)
+- [Tired of AI Hallucinations? I Built a RAG App to Keep My Research Grounded.](https://dev.to/noel_alex_b235542c0cfc62a/tired-of-ai-hallucinations-i-built-a-rag-app-to-keep-my-research-grounded-40k3)
+- [The Evolving Role of Excel: A Complement to Power BI and Python.](https://dev.to/joykyalo/the-evolving-role-of-excel-a-complement-to-power-bi-and-python-27d6)
 <!-- BLOG-POST-LIST:END -->
 
 
