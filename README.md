@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating AWS Neptune Graph with AI](https://dev.to/aws-builders/navigating-aws-neptune-graph-with-ai-55cm)
-- [What is React? A Beginner&#39;s Guide to the Most Popular UI Library](https://dev.to/dehemi_fabio/what-is-react-a-beginners-guide-to-the-most-popular-ui-library-3bgl)
-- [🧐 Do You Really Need Redux?](https://dev.to/mourya_modugula/do-you-really-need-redux-nig)
-- [Github Draft Pull Request is Interesting](https://dev.to/whyang9701/github-draft-pull-request-is-interesting-216d)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-3nbp)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4bob)
+- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-1ig5)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2mpf)
 <!-- BLOG-POST-LIST:END -->
 
 
