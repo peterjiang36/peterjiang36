@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo gestionar la memoria de ChatGPT sin borrar tus chats](https://dev.to/samvuc/como-gestionar-la-memoria-de-chatgpt-sin-borrar-tus-chats-3cim)
-- [Automating My Pinterest Content Pipeline with n8n + AI &lpar;Free Setup&rpar;](https://dev.to/medpydev/automating-my-pinterest-content-pipeline-with-n8n-ai-free-setup-20nm)
-- [Deploying a Full-Stack App with Vercel vs Render: What You Need to Know](https://dev.to/wahee/deploying-a-full-stack-app-with-vercel-vs-render-what-you-need-to-know-3lm8)
-- [Learning Rust with Dev Containers and Rustlings](https://dev.to/florianheringa/learning-rust-with-dev-containers-and-rustlings-2g1p)
+- [Votre site charge-t-il en moins de 2 s ?](https://dev.to/jmegnidro/votre-site-charge-t-il-en-moins-de-2-s--4mdd)
+- [C# &lpar;Maybe&rpar; Joins the Motia Family: Building Multi-Language Workflows with .NET 9](https://dev.to/solutionsjon/c-maybe-joins-the-motia-family-building-multi-language-workflows-with-net-9-5h2l)
+- [Day 1248 : Open Fields](https://dev.to/dwane/day-1248-open-fields-1fl4)
+- [Automate YouTube Engagement with youtube-bot](https://dev.to/zegham_ali_87389465b32f38/automate-youtube-engagement-with-youtube-bot-2oa2)
 <!-- BLOG-POST-LIST:END -->
 
 
