@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-3nbp)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4bob)
-- [GameSpot: 21 Minutes of COD: Black Ops 7 Zombies Gameplay on Vandorn Farm](https://dev.to/gg_news/gamespot-21-minutes-of-cod-black-ops-7-zombies-gameplay-on-vandorn-farm-1ig5)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2mpf)
+- [The RFP Dropped. Now We Panic – Strategically](https://dev.to/bid_solution/the-rfp-dropped-now-we-panic-strategically-39mp)
+- [📰 Major Tech News: Oct 2nd, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-2nd-2025-500l)
+- [Skip Elasticsearch: Build Blazing-Fast Full-Text Search Right in Supabase](https://dev.to/reclusivecoder/skip-elasticsearch-build-blazing-fast-full-text-search-right-in-supabase-58pf)
+- [What It’s Like Moving from TD to Chase](https://dev.to/kareem_itani_e51fee03fb7a/what-its-like-moving-from-td-to-chase-559h)
 <!-- BLOG-POST-LIST:END -->
 
 
