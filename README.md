@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - honey thighs &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-honey-thighs-live-on-kexp-240k)
-- [KEXP: Waxahatchee - Where&#39;s Your Love Now &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-wheres-your-love-now-live-on-kexp-1gic)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-189b)
-- [KEXP: Waxahatchee - Crowbar &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-crowbar-live-on-kexp-1nbk)
+- [i made a free list of 80 places where you can promote your app/starup](https://dev.to/krzysztof_fromlaunchdire/i-made-a-free-list-of-80-places-where-you-can-promote-your-appstarup-2j0d)
+- [MLOps - What It Is and Why It Matters for Companies Leading with AI](https://dev.to/heyjoshlee/mlops-what-it-is-and-why-it-matters-for-companies-leading-with-ai-4and)
+- [Potential issues in curl found using AI assisted tools](https://dev.to/technoblogger14o3/potential-issues-in-curl-found-using-ai-assisted-tools-53be)
+- [From Setup to Role-Based Access — Building a Platform for Two Worlds](https://dev.to/isme_kastrati_76f4b128b63/from-setup-to-role-based-access-building-a-platform-for-two-worlds-1gj5)
 <!-- BLOG-POST-LIST:END -->
 
 
