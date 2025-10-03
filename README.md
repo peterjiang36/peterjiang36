@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [i made a free list of 80 places where you can promote your app/starup](https://dev.to/krzysztof_fromlaunchdire/i-made-a-free-list-of-80-places-where-you-can-promote-your-appstarup-2j0d)
-- [MLOps - What It Is and Why It Matters for Companies Leading with AI](https://dev.to/heyjoshlee/mlops-what-it-is-and-why-it-matters-for-companies-leading-with-ai-4and)
-- [Potential issues in curl found using AI assisted tools](https://dev.to/technoblogger14o3/potential-issues-in-curl-found-using-ai-assisted-tools-53be)
-- [From Setup to Role-Based Access — Building a Platform for Two Worlds](https://dev.to/isme_kastrati_76f4b128b63/from-setup-to-role-based-access-building-a-platform-for-two-worlds-1gj5)
+- [IGN: Mario Kart World VS Sonic Racing CrossWorlds - NVC Clips](https://dev.to/gg_news/ign-mario-kart-world-vs-sonic-racing-crossworlds-nvc-clips-40f9)
+- [IGN: Ghost of Yotei - Official Watanabe Mode Gameplay Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-watanabe-mode-gameplay-trailer-n1j)
+- [IGN: Jurassic World Evolution 3 - Official &#39;Control the Chaos&#39; Feature Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-control-the-chaos-feature-trailer-33j1)
+- [Ringer Movies: ‘The Smashing Machine’ is The Rock’s Oscar Bid](https://dev.to/popcorn_movies/ringer-movies-the-smashing-machine-is-the-rocks-oscar-bid-1627)
 <!-- BLOG-POST-LIST:END -->
 
 
