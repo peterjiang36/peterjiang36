@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [With AI, I’ve been able to cut API integration time drastically, turning what used to take hours into a process of minutes. The result: faster integrations, cleaner code, and fewer headaches.](https://dev.to/jaideepparashar/with-ai-ive-been-able-to-cut-api-integration-time-drastically-turning-what-used-to-take-hours-2oo7)
-- [AI for APIs: Integrating Services Without Wasting Hours](https://dev.to/jaideepparashar/ai-for-apis-integrating-services-without-wasting-hours-2cp9)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-2295)
-- [KEXP: Tunde Adebimpe - God Knows &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-30cj)
+- [C# Developer làm gì khi làm việc với PLC đã lập trình sẵn?](https://dev.to/kimhieuwork/c-developer-lam-gi-khi-lam-viec-voi-plc-da-lap-trinh-san-42m8)
+- [Chat with My Digital Twin: How I Built a Personal Website With a Local AI Chatbot!](https://dev.to/aws-builders/chat-with-my-digital-twin-how-i-built-a-personal-website-with-a-local-ai-chatbot-55m2)
+- [Why I Still Choose C# &lpar;Even After Trying Everything Else&rpar;](https://dev.to/csharp-programming/why-i-still-choose-c-even-after-trying-everything-else-4o53)
+- [Setting Up an Express TypeScript Server: A Step-by-Step Guide](https://dev.to/justwonder/setting-up-an-express-typescript-server-a-step-by-step-guide-gic)
 <!-- BLOG-POST-LIST:END -->
 
 
