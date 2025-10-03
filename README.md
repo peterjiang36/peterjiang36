@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby and Cybersecurity: Essential Security Practices for Modern Applications](https://dev.to/daviducolo/ruby-and-cybersecurity-essential-security-practices-for-modern-applications-4166)
-- [Animation Start/Done? Dead. Long Live CSS + DOM Events](https://dev.to/brianmtreese/animation-startdone-dead-long-live-css-dom-events-47hj)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4oah)
-- [Master Process Management with PM2: A Complete Guide for Node.js Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-process-management-with-pm2-a-complete-guide-for-nodejs-developers-20l7)
+- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-22eo)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-nee)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-20j8)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4gff)
 <!-- BLOG-POST-LIST:END -->
 
 
