@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-3a0f)
-- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-244k)
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-3ilh)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-29g1)
+- [Should a web development beginner focus on building a complete project or learn individual technologies?](https://dev.to/hxccoder/should-a-web-development-beginner-focus-on-building-a-complete-project-or-learn-individual-3bd5)
+- [cPanel in 2025 — Still the King of Hosting, or Time to Move On?](https://dev.to/hugovalters/cpanel-in-2025-still-the-king-of-hosting-or-time-to-move-on-3j1p)
+- [AI Trends You Must Know in 2025](https://dev.to/golamkibria/ai-trends-you-must-know-in-2025-2g4p)
+- [Build an Aspire API Using Microsoft OpenAI, Scalar, OpenRouter, Structured Output, and Custom Headers](https://dev.to/victorioberra/build-an-aspire-api-using-microsoft-openai-scalar-openrouter-structured-output-and-custom-3a6)
 <!-- BLOG-POST-LIST:END -->
 
 
