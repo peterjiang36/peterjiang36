@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Votre site charge-t-il en moins de 2 s ?](https://dev.to/jmegnidro/votre-site-charge-t-il-en-moins-de-2-s--4mdd)
-- [C# &lpar;Maybe&rpar; Joins the Motia Family: Building Multi-Language Workflows with .NET 9](https://dev.to/solutionsjon/c-maybe-joins-the-motia-family-building-multi-language-workflows-with-net-9-5h2l)
-- [Day 1248 : Open Fields](https://dev.to/dwane/day-1248-open-fields-1fl4)
-- [Automate YouTube Engagement with youtube-bot](https://dev.to/zegham_ali_87389465b32f38/automate-youtube-engagement-with-youtube-bot-2oa2)
+- [50 Most Useful React Snippets](https://dev.to/jsdev01/50-most-useful-react-snippets-20oc)
+- [How I Made My First Successful Hacktoberfest Pull Request](https://dev.to/elsad_humbetli_0971c995ce/how-i-made-my-first-successful-hacktoberfest-pull-request-50a2)
+- [Supabase config in your Expo project - the proper way](https://dev.to/cathylai/supabase-config-in-your-expo-project-the-proper-way-kp0)
+- [Adding a New TOML Feature, using Git Remotes and Merges on a repository.](https://dev.to/cynthia_f/adding-a-new-toml-feature-using-git-remotes-and-merges-on-a-repository-2mjn)
 <!-- BLOG-POST-LIST:END -->
 
 
