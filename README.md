@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
-- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4)
-- [Part-106: 🚀Implementing Headless Services in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-106-implementing-headless-services-in-google-kubernetes-engine-gke-2690)
+- [Creating A Lambda Function in AWS](https://dev.to/devzeuz/creating-a-lambda-function-in-aws-1di0)
+- [Leveraging MLOps for Scalable AI Deployment](https://dev.to/taniya1004/leveraging-mlops-for-scalable-ai-deployment-27kl)
+- [Green Technology: Building a Sustainable Tomorrow](https://dev.to/phoneexits/green-technology-building-a-sustainable-tomorrow-57ka)
+- [A Practical Guide to Chrome DevTools MCP in AI Agents](https://dev.to/proflead/a-practical-guide-to-chrome-devtools-mcp-in-ai-agents-hpf)
 <!-- BLOG-POST-LIST:END -->
 
 
