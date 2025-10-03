@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: The most jaw-dropping course in Scotland...](https://dev.to/youtube_golf/peter-finch-golf-the-most-jaw-dropping-course-in-scotland-22eo)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-nee)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-20j8)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4gff)
+- [Part-107: Kubernetes Ingress in Google Kubernetes Engine](https://dev.to/latchudevops/part-107-kubernetes-ingress-in-google-kubernetes-engine-121f)
+- [How to Set Up Recurring Payments in Your Online Business](https://dev.to/flutterwaveeng/how-to-set-up-recurring-payments-in-your-online-business-b6k)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_06022d8b/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1ln4)
+- [Part-106: 🚀Implementing Headless Services in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-106-implementing-headless-services-in-google-kubernetes-engine-gke-2690)
 <!-- BLOG-POST-LIST:END -->
 
 
