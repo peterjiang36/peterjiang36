@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: strongboi - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-full-performance-live-on-kexp-2a18)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-h6f)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-koh)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2a7i)
+- [Ruby and Cybersecurity: Essential Security Practices for Modern Applications](https://dev.to/daviducolo/ruby-and-cybersecurity-essential-security-practices-for-modern-applications-4166)
+- [Animation Start/Done? Dead. Long Live CSS + DOM Events](https://dev.to/brianmtreese/animation-startdone-dead-long-live-css-dom-events-47hj)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_f8c307c5/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4oah)
+- [Master Process Management with PM2: A Complete Guide for Node.js Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/master-process-management-with-pm2-a-complete-guide-for-nodejs-developers-20l7)
 <!-- BLOG-POST-LIST:END -->
 
 
