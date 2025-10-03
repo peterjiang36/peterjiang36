@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating A Lambda Function in AWS](https://dev.to/devzeuz/creating-a-lambda-function-in-aws-1di0)
-- [Leveraging MLOps for Scalable AI Deployment](https://dev.to/taniya1004/leveraging-mlops-for-scalable-ai-deployment-27kl)
-- [Green Technology: Building a Sustainable Tomorrow](https://dev.to/phoneexits/green-technology-building-a-sustainable-tomorrow-57ka)
-- [A Practical Guide to Chrome DevTools MCP in AI Agents](https://dev.to/proflead/a-practical-guide-to-chrome-devtools-mcp-in-ai-agents-hpf)
+- [We made an opensource project, check it out!](https://dev.to/gunner_andersen_36e65c71e/we-made-an-opensource-project-check-it-out-3moc)
+- [Tired of Rewriting Web3 Integrations? Help us grow M3S, the New Modular Open-Source Standard](https://dev.to/gunner_andersen_36e65c71e/tired-of-rewriting-web3-integrations-help-us-grow-m3s-the-new-modular-open-source-standard-bkj)
+- [Rising AI Workloads Are Reshaping Asia Pacific Data Centers](https://dev.to/michael_keller_9d83ef0ce5/rising-ai-workloads-are-reshaping-asia-pacific-data-centers-48km)
+- [Building a simple TCP port scanner in C](https://dev.to/qms85/building-a-simple-tcp-port-scanner-in-c-3a6o)
 <!-- BLOG-POST-LIST:END -->
 
 
