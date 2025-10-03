@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Exactly Is Product Management? A Simple Guide for Everyone](https://dev.to/azirotechnologies/what-exactly-is-product-management-a-simple-guide-for-everyone-3mn4)
-- [git init ~/repos/cathedral](https://dev.to/bwfiq/git-init-reposcathedral-4efe)
-- [Seamless Synergy: Hosting Your Angular App on Firebase](https://dev.to/gioboa/seamless-synergy-hosting-your-angular-app-on-firebase-144i)
-- [Not everything needs fancy](https://dev.to/peterwitham/not-everything-needs-fancy-ioc)
+- [IGN: Disney Twisted-Wonderland: The Animation - Official &#39;Episode of Heartslabyul&#39; Trailer &lpar;English Sub&rpar;](https://dev.to/gg_news/ign-disney-twisted-wonderland-the-animation-official-episode-of-heartslabyul-trailer-english-2f3h)
+- [CinemaSins: Everything Wrong With Grown Ups In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-grown-ups-in-18-minutes-or-less-4kop)
+- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-496b)
+- [Mr Sunday Movies: The Mummy 2017 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-mummy-2017-caravan-of-garbage-35kh)
 <!-- BLOG-POST-LIST:END -->
 
 
