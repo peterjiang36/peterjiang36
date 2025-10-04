@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1)
-- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-2ole)
+- [Why Feature Flags Shouldn’t Be an Enterprise-Only Tool](https://dev.to/koreflags/why-feature-flags-shouldnt-be-an-enterprise-only-tool-51il)
+- [[Boost]](https://dev.to/jasper_go/-38b7)
+- [Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/transactions-deadlocks-log-based-recovery-in-sql-42nm)
+- [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
 <!-- BLOG-POST-LIST:END -->
 
 
