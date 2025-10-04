@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Waxahatchee - Much Ado About Nothing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-54fe)
-- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-3po7)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-6ni)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-1oe2)
+- [Git Adventures &amp;&amp; TOML Config](https://dev.to/elsad_humbetli_0971c995ce/git-adventures-toml-config-24il)
+- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-17en)
+- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-4bo5)
+- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-4e2b)
 <!-- BLOG-POST-LIST:END -->
 
 
