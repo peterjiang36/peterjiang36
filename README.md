@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-5h5m)
-- [IGN: Hollow Knight: Silksong - All Flea Locations | Fleafriend Achievement Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-all-flea-locations-fleafriend-achievement-guide-pmo)
-- [IGN: Mexican Ninja - Official Demo Launch Teaser Trailer](https://dev.to/gg_news/ign-mexican-ninja-official-demo-launch-teaser-trailer-27f)
-- [IGN: Kaiju No. 8 The Game - Official Soshiro Hoshina Character Trailer](https://dev.to/gg_news/ign-kaiju-no-8-the-game-official-soshiro-hoshina-character-trailer-5)
+- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
+- [Build Powerful CLI Tools with Node.js: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/build-powerful-cli-tools-with-nodejs-a-complete-guide-for-developers-56k)
+- [Asked to do something illegal at work? Here&#39;s what these software engineers did](https://dev.to/technoblogger14o3/asked-to-do-something-illegal-at-work-heres-what-these-software-engineers-did-4ekp)
+- [HackSpire’25: The Hackathon That Sparks Innovation and Connection 🚀.](https://dev.to/debkanta_dey_09b98f7eebb9/hackspire25-the-hackathon-that-sparks-innovation-and-connection--2336)
 <!-- BLOG-POST-LIST:END -->
 
 
