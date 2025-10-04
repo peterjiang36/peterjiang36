@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Adventures &amp;&amp; TOML Config](https://dev.to/elsad_humbetli_0971c995ce/git-adventures-toml-config-24il)
-- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-17en)
-- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-4bo5)
-- [OSDLab4-Draft Pull Request &amp; New Feature with TOML](https://dev.to/slyang08/osdlab4-draft-pull-request-new-feature-with-toml-4e2b)
+- [Understanding ACID Properties with SQL Transactions](https://dev.to/boopathys_8ff57c77ea5a5e/understanding-acid-properties-with-sql-transactions-43k5)
+- [Cercle: Parra for Cuva - Nightjar &lpar;Live Version&rpar; | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-35oj)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4647)
+- [How to prevent duplicate charges, orders, and form submissions in Node.js/Express using express-idempotency-middleware.](https://dev.to/yevhen_mykhailenko/how-to-prevent-duplicate-charges-orders-and-form-submissions-in-nodejsexpress-using-1j49)
 <!-- BLOG-POST-LIST:END -->
 
 
