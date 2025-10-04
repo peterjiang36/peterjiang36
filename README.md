@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Large JSON Files in Python: Efficient Read, Write, and Update Strategies](https://dev.to/lovestaco/handling-large-json-files-in-python-efficient-read-write-and-update-strategies-3jgg)
-- [Build Powerful CLI Tools with Node.js: A Complete Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/build-powerful-cli-tools-with-nodejs-a-complete-guide-for-developers-56k)
-- [Asked to do something illegal at work? Here&#39;s what these software engineers did](https://dev.to/technoblogger14o3/asked-to-do-something-illegal-at-work-heres-what-these-software-engineers-did-4ekp)
-- [HackSpire’25: The Hackathon That Sparks Innovation and Connection 🚀.](https://dev.to/debkanta_dey_09b98f7eebb9/hackspire25-the-hackathon-that-sparks-innovation-and-connection--2336)
+- [🧠 The Complete Guide to Validations in Rails](https://dev.to/bibimbop123/the-complete-guide-to-validations-in-rails-1o60)
+- [⚡ Mastering Indexing, Hashing &amp; Query Optimization in SQL](https://dev.to/sanchayaa_s24cb052_9f4dd/mastering-indexing-hashing-query-optimization-in-sql-87o)
+- [Tanzeem file](https://dev.to/md_tanzeemalam_c91f93ca6/tanzeem-file-1m9l)
+- [Trust-by-Design: A Practical Playbook for Shipping AI Features Without Burning Your Users](https://dev.to/sonia_bobrik_1939cdddd79d/trust-by-design-a-practical-playbook-for-shipping-ai-features-without-burning-your-users-57c5)
 <!-- BLOG-POST-LIST:END -->
 
 
