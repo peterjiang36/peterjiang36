@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Latent Space in LLMs: A Deep Dive](https://dev.to/kuldeep_paul/understanding-the-latent-space-in-llms-a-deep-dive-7e5)
-- [JavaScript Arrow Functions Explained: Guide to ES6+ Syntax](https://dev.to/om_u101/javascript-arrow-functions-explained-guide-to-es6-syntax-17i4)
-- [Indexing, Hashing &amp; Query Optimization in DBMS](https://dev.to/jerlin_vanessavincentpa/indexing-hashing-query-optimization-in-dbms-61m)
-- [Excel in the Era of Power BI &amp; Python](https://dev.to/maureenmuthonihue/excel-in-the-era-of-power-bi-python-o1a)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-bcc)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-327k)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-56f7)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-37hg)
 <!-- BLOG-POST-LIST:END -->
 
 
