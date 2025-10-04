@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture That Lets Us Sleep: Scalable Uploads with S3 presigned URLs](https://dev.to/oliverke/the-architecture-that-lets-us-sleep-scalable-uploads-with-s3-presigned-urls-1jf3)
-- [Top 50 Java Interview Questions and Answers](https://dev.to/narednra_reddyyadama_d64/top-50-java-interview-questions-and-answers-3e12)
-- [Cybersecurity Awareness Month: The Year in Breach](https://dev.to/toxsec/cybersecurity-awareness-month-the-year-in-breach-toxsec-68f)
-- [printed hello world, lol](https://dev.to/sammy_24/first-accomplishment-3737)
+- [Building a Complete AWS VPC with Load Balancer: A Step-by-Step Journey](https://dev.to/deepanshub09/building-a-complete-aws-vpc-with-load-balancer-a-step-by-step-journey-2oj8)
+- [Managing Prompts Without the Chaos: Simplifying AI Agent Development with Dakora](https://dev.to/mihai_lucianandrone_7564/managing-prompts-without-the-chaos-simplifying-ai-agent-development-with-dakora-l3n)
+- [Ingest data with a pipeline in Microsoft Fabric](https://dev.to/lotanna_obianefo/ingest-data-with-a-pipeline-in-microsoft-fabric-2cfo)
+- [#DAY 10:Adding an API JSON Query Monitor in Uptime Kuma](https://dev.to/samueladeduntan/day-10adding-an-api-json-query-monitor-in-uptime-kuma-5ggm)
 <!-- BLOG-POST-LIST:END -->
 
 
