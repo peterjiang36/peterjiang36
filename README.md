@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rosario Tech Week - Primera Edición](https://dev.to/jpgallegos1/rosario-tech-week-primera-edicion-l3k)
-- [Odoo Pricing in Germany: Everything You Should Know](https://dev.to/vibha_05/odoo-pricing-in-germany-everything-you-should-know-db7)
-- [🚀 Mastering NestJS Concepts: Decorators, Dependency Injection, DTOs &amp; More](https://dev.to/fazal_mansuri_/mastering-nestjs-concepts-decorators-dependency-injection-dtos-more-2c1f)
-- [BIG NEWS: Oxbow UI is now free &amp; MIT! Tailwind CSS &amp; Alpine JS blocks and components.](https://dev.to/mike_andreuzza/big-news-oxbow-ui-is-now-free-mit-tailwind-css-alpine-js-blocks-and-components-5g9m)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-njm)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-5gfh)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-ldn)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2ce0)
 <!-- BLOG-POST-LIST:END -->
 
 
