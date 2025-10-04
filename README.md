@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Feature Flags Shouldn’t Be an Enterprise-Only Tool](https://dev.to/koreflags/why-feature-flags-shouldnt-be-an-enterprise-only-tool-51il)
-- [[Boost]](https://dev.to/jasper_go/-38b7)
-- [Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/ilakkiya_99033c7a7246d48b/transactions-deadlocks-log-based-recovery-in-sql-42nm)
-- [CSS Cheat Sheet: Everything You Need to Know in One Place](https://dev.to/tenelabs/css-cheat-sheet-everything-you-need-to-know-in-one-place-12no)
+- [The Architecture That Lets Us Sleep: Scalable Uploads with S3 presigned URLs](https://dev.to/oliverke/the-architecture-that-lets-us-sleep-scalable-uploads-with-s3-presigned-urls-1jf3)
+- [Top 50 Java Interview Questions and Answers](https://dev.to/narednra_reddyyadama_d64/top-50-java-interview-questions-and-answers-3e12)
+- [Cybersecurity Awareness Month: The Year in Breach](https://dev.to/toxsec/cybersecurity-awareness-month-the-year-in-breach-toxsec-68f)
+- [printed hello world, lol](https://dev.to/sammy_24/first-accomplishment-3737)
 <!-- BLOG-POST-LIST:END -->
 
 
