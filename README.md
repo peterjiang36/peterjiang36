@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [圖片壓縮：用 Compressor.js 自動調整品質壓縮至指定大小](https://dev.to/letswrite/tu-pian-ya-suo-yong-compressorjs-zi-dong-diao-zheng-pin-zhi-ya-suo-zhi-zhi-ding-da-xiao-2j18)
-- [HTML5 Canvas Testing with CanvasGrid and Playwright 🎭](https://dev.to/fonzi/testing-html5-canvas-with-canvasgrid-and-playwright-5h4c)
-- [Cursor &amp; Trigger in SQL with Examples](https://dev.to/nethra_loganathan_98e5233/cursor-trigger-in-sql-with-examples-amg)
-- [🚀 First Responsive Landing Page — Completed! 🚀](https://dev.to/leocoding0326/first-responsive-landing-page-completed-31hf)
+- [How to sync iOS build numbers &lpar;Expo + EAS + App Store Connect&rpar;](https://dev.to/cathylai/how-to-sync-ios-build-numbers-expo-eas-app-store-connect-2ldg)
+- [What is a Cronjob and understanding syntax](https://dev.to/aasik_20409e3305686b324ec/what-is-a-cronjob-and-understanding-syntax-2p6p)
+- [How Nexy Makes Sure Nothing Slips Through the Cracks](https://dev.to/nexy/how-nexy-makes-sure-nothing-slips-through-the-cracks-lpk)
+- [Day 3 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-3-of-100-days-dsa-coding-challenge-3280)
 <!-- BLOG-POST-LIST:END -->
 
 
