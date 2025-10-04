@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a multi-tenant PaaS application: Part 1 &lpar;Architecture &amp; Initial Design&rpar;](https://dev.to/ahnafzamil/building-a-multi-tenant-paas-application-part-1-architecture-initial-design-4d49)
-- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
-- [🚀 JavaScript Optional Chaining &lpar;`?.`&rpar; – A Beginner’s Note](https://dev.to/usama_dev/javascript-optional-chaining-a-beginners-note-1o30)
-- [&quot;AI makes it cheaper, right?&quot; - Is this happening in your country too?](https://dev.to/_768dd7ab130016ab8b0a/ai-makes-it-cheaper-right-is-this-happening-in-your-country-too-4lgk)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-5h5m)
+- [IGN: Hollow Knight: Silksong - All Flea Locations | Fleafriend Achievement Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-all-flea-locations-fleafriend-achievement-guide-pmo)
+- [IGN: Mexican Ninja - Official Demo Launch Teaser Trailer](https://dev.to/gg_news/ign-mexican-ninja-official-demo-launch-teaser-trailer-27f)
+- [IGN: Kaiju No. 8 The Game - Official Soshiro Hoshina Character Trailer](https://dev.to/gg_news/ign-kaiju-no-8-the-game-official-soshiro-hoshina-character-trailer-5)
 <!-- BLOG-POST-LIST:END -->
 
 
