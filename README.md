@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ACID PROPERTIES](https://dev.to/srivishal_b2975898351fa2b/acid-properties-551h)
-- [Understanding Deep Learning: The Basics of Neural Networks](https://dev.to/hammadishaq/understanding-deep-learning-the-basics-of-neural-networks-4le3)
-- [Forgotten Email Accounts: The Hidden Security Trap Developers Overlook](https://dev.to/devtechinsights/forgotten-email-accounts-the-hidden-security-trap-developers-overlook-3j3g)
-- [Microsoft’s “Agent Mode” in Office: The Start of Vibe Working](https://dev.to/nikhilwagh/microsofts-agent-mode-in-office-the-start-of-vibe-working-5c8o)
+- [How to Serve Multiple Themes in Rails Using Sass and esbuild](https://dev.to/hersoftsyntax/how-to-serve-multiple-themes-in-rails-using-sass-and-esbuild-5a68)
+- [Sleek &amp; Modern WPF: Build a Real-Time Word Counter Dashboard &lpar;C# Tutorial&rpar;](https://dev.to/vectoart_a497c516fac199bd/sleek-modern-wpf-build-a-real-time-word-counter-dashboard-c-tutorial-58dh)
+- [Understanding Transactions, Deadlocks &amp; Log-Based Recovery in SQL](https://dev.to/vishnupriya_k_678c3b9ea11/understanding-transactions-deadlocks-log-based-recovery-in-sql-1m83)
+- [SvelteKit RPC with Hono](https://dev.to/tolu/sveltekit-rpc-with-hono-mje)
 <!-- BLOG-POST-LIST:END -->
 
 
