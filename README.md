@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP .NET Core FluentValidation](https://dev.to/karenpayneoregon/aspnet-core-fluentvalidation-16nc)
-- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he)
-- [Hack&#39;spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco)
-- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi)
+- [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://dev.to/technoblogger14o3/proofofthought-llm-based-reasoning-using-z3-theorem-proving-1jkh)
+- [Testing the product as an end user.](https://dev.to/saikrishna_oggu/testing-the-product-as-an-end-user-2hll)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-1c8)
+- [KEXP: Waxahatchee - Evil Spawn &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-35i5)
 <!-- BLOG-POST-LIST:END -->
 
 
