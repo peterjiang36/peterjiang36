@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tezion: My Digital Studio as an Embodiment of Learned Technologies](https://dev.to/izyus/tezion-my-digital-studio-as-an-embodiment-of-learned-technologies-3pj7)
-- [Indexing, Hashing &amp; Query Optimization](https://dev.to/terera_faithtanaka24cb0/indexing-hashing-query-optimization-53po)
-- [Lecciones aprendidas de la certificación AWS Security Specialty 🥇](https://dev.to/pangoro24/lecciones-aprendidas-de-la-certificacion-aws-security-specialty-21gg)
-- [Database Normalization](https://dev.to/mbewe_catherine24cb068_6/database-normalization-571c)
+- [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
+- [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
+- [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
+- [Wtf is Docker🐳?](https://dev.to/erlan_akbar/wtf-is-docker-2bej)
 <!-- BLOG-POST-LIST:END -->
 
 
