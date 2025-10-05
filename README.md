@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful TypeScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-typescript-snippets-5c1p)
-- [Most developers end up spending time on repetitive tasks, while the best developers focus on optimisation. If you are not optimising, you are leaving space for creative work.](https://dev.to/jaideepparashar/most-developers-end-up-spending-time-on-repetitive-tasks-while-the-best-developers-focus-on-jol)
-- [Scaling Projects: How AI Transforms DevOps &amp; Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
-- [What Hetzner Is &lpar;and Why Developers Love It&rpar;](https://dev.to/thekarlesi/what-hetzner-is-and-why-developers-love-it-l35)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4486)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-kfb)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-2aa7)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4peo)
 <!-- BLOG-POST-LIST:END -->
 
 
