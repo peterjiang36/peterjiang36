@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
-- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
-- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
-- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
+- [Tezion: My Digital Studio as an Embodiment of Learned Technologies](https://dev.to/izyus/tezion-my-digital-studio-as-an-embodiment-of-learned-technologies-3pj7)
+- [Indexing, Hashing &amp; Query Optimization](https://dev.to/terera_faithtanaka24cb0/indexing-hashing-query-optimization-53po)
+- [Lecciones aprendidas de la certificación AWS Security Specialty 🥇](https://dev.to/pangoro24/lecciones-aprendidas-de-la-certificacion-aws-security-specialty-21gg)
+- [Database Normalization](https://dev.to/mbewe_catherine24cb068_6/database-normalization-571c)
 <!-- BLOG-POST-LIST:END -->
 
 
