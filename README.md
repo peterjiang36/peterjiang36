@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Replaced Go’s Scheduler — And You Should Too &lpar;Here’s How&rpar;](https://dev.to/jiil07/i-replaced-gos-scheduler-and-you-should-too-heres-how-5f1l)
-- [Stop the Mess: Structuring Your First Node.js Application](https://dev.to/salehahmedmahin/stop-the-mess-structuring-your-first-nodejs-application-3131)
-- [Cursor and Trigger in DBMS](https://dev.to/mbewe_catherine24cb068_6/cursor-and-trigger-in-dbms-4fl3)
-- [Wtf is Docker🐳?](https://dev.to/erlan_akbar/wtf-is-docker-2bej)
+- [ACID PROPERTIES](https://dev.to/srivishal_b2975898351fa2b/acid-properties-551h)
+- [Understanding Deep Learning: The Basics of Neural Networks](https://dev.to/hammadishaq/understanding-deep-learning-the-basics-of-neural-networks-4le3)
+- [Forgotten Email Accounts: The Hidden Security Trap Developers Overlook](https://dev.to/devtechinsights/forgotten-email-accounts-the-hidden-security-trap-developers-overlook-3j3g)
+- [Microsoft’s “Agent Mode” in Office: The Start of Vibe Working](https://dev.to/nikhilwagh/microsofts-agent-mode-in-office-the-start-of-vibe-working-5c8o)
 <!-- BLOG-POST-LIST:END -->
 
 
