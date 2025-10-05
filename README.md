@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Uma hipótese para os layoffs do Itaú](https://dev.to/talking-about-testing/uma-hipotese-para-os-layoffs-do-itau-304f)
-- [From LLMs to Liability: How Agents Grow Up](https://dev.to/narednra_reddyyadama_d64/from-llms-to-liability-how-agents-grow-up-3ndi)
-- [Working with Cursors and Triggers in Oracle Live SQL](https://dev.to/lohita_blue_d6409977eec4c/working-with-cursors-and-triggers-in-oracle-live-sql-i72)
-- [&quot;this&quot; Key word in java script](https://dev.to/arokiya_kithiyon_1f2bad36/this-key-word-in-java-script-gda)
+- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-plg)
+- [IGN: SHELL - Official Trailer &lpar;2025&rpar; Elisabeth Moss, Kate Hudson](https://dev.to/gg_news/ign-shell-official-trailer-2025-elisabeth-moss-kate-hudson-3pah)
+- [IGN: Game Pass Joins the Price Hike - Unlocked Clips](https://dev.to/gg_news/ign-game-pass-joins-the-price-hike-unlocked-clips-2a93)
+- [IGN: Megabonk - Official Launch Trailer](https://dev.to/gg_news/ign-megabonk-official-launch-trailer-3cj3)
 <!-- BLOG-POST-LIST:END -->
 
 
