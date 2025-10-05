@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Most Useful JavaScript Snippets](https://dev.to/softwaredeveloper01/50-most-useful-javascript-snippets-59on)
-- [AWS Security Token Service STS and usage](https://dev.to/wakeup_flower_8591a6cb6a9/aws-security-token-service-sts-and-usage-4f3c)
-- [AI Dealers: When Technology Meets Human Intuition](https://dev.to/vvvnetwork/ai-dealers-when-technology-meets-human-intuition-k4d)
-- [Devoxx: Investing for geeks v1.1.0 by Foivos Zakkak](https://dev.to/scale_youtube/devoxx-investing-for-geeks-v110-by-foivos-zakkak-2h1f)
+- [OrKa 0.9.4: cleaner logs, full GraphScout paths, ISO timestamps](https://dev.to/marcosomma/orka-094-cleaner-logs-full-graphscout-paths-iso-timestamps-125c)
+- [AWS re:Invent 2025: 2000+ Sessions, 5 Days, One You!](https://dev.to/bhatiagirish/aws-reinvent-2025-2000-sessions-5-days-one-you-168e)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-ole)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-g1g)
 <!-- BLOG-POST-LIST:END -->
 
 
