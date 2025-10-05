@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
-- [The Trust-First Playbook for Web3 Communications &lpar;That Actually Works&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-playbook-for-web3-communications-that-actually-works-54ih)
-- [The Password is Dead. Long Live the Password? A Look at FIDO2, Passkeys, and the Post-SMS Future](https://dev.to/yanix_yanix_d22423595186a/the-password-is-dead-long-live-the-password-a-look-at-fido2-passkeys-and-the-post-sms-future-5fnk)
-- [How AI slop impacted content creators](https://dev.to/richard_taujenis_16dc2678/how-ai-slop-impacted-content-creators-ia2)
+- [KEXP: strongboi - magic &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-1fc7)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2f51)
 <!-- BLOG-POST-LIST:END -->
 
 
