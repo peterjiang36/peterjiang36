@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5f6c)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-3014)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4ipj)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-9dm)
+- [Diffium found 4 great Golang contributors during Hacktoberfest!](https://dev.to/kubeden/diffium-found-4-great-golang-contributors-during-hacktoberfest-2f94)
+- [1000+ Free APIs For Developers](https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc)
+- [Project Ideas](https://dev.to/muhammad_ammar_42be750b7c/project-ideas-12cb)
+- [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 1&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)
 <!-- BLOG-POST-LIST:END -->
 
 
