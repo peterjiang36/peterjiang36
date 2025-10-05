@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ACID Properties with SQL Transactions in DBMS](https://dev.to/arun_prasath_fa013c5e6085/acid-properties-with-sql-transactions-in-dbms-4ped)
-- [Weekly #40-2025: Rethinking How We Build, Secure, and Simplify Software](https://dev.to/weekly/weekly-40-2025-rethinking-how-we-build-secure-and-simplify-software-c4b)
-- [🚀 Creating Global ProcScripts in Uniface 10.4: A Simple Guide](https://dev.to/petercode/creating-global-procscripts-in-uniface-104-a-simple-guide-cjj)
-- [🚀 Understanding Global ProcScripts in Uniface 10.4](https://dev.to/petercode/understanding-global-procscripts-in-uniface-104-2bah)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5f6c)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-3014)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4ipj)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-9dm)
 <!-- BLOG-POST-LIST:END -->
 
 
