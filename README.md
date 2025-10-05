@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [☀️ WeatherApp MVC — When Clprolf Meets Spring MVC Philosophy](https://dev.to/charles_koffler_bcabc582b/weatherapp-mvc-when-clprolf-meets-spring-mvc-philosophy-22j0)
-- [The Secret to Secure Cloud Access from Restricted Regions: Reverse Proxy Everything](https://dev.to/salim_adedeji_233f2fcf315/the-secret-to-secure-cloud-access-from-restricted-regions-reverse-proxy-everything-15lc)
-- [How I Built a Reminder System for Senior Care Centers Using Raspberry Pi and RFID](https://dev.to/bragadheshwaran_kk_0a9839/how-i-built-a-reminder-system-for-senior-care-centers-using-raspberry-pi-and-rfid-5g3n)
-- [How the Internet Works &lpar;Simplified for Developers&rpar;](https://dev.to/abdul_basitmuhyideen_278/how-the-internet-works-simplified-for-developers-3078)
+- [How to Create an IoT App in Kotlin Multiplatform](https://dev.to/koral/how-to-create-an-iot-app-in-kotlin-multiplatform-204m)
+- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
+- [AI Agents for Marketing: A Real-World Content Automation Case Study](https://dev.to/jucelinux/ai-agents-for-marketing-a-real-world-content-automation-case-study-24kn)
+- [How to Deploy n8n with Defang](https://dev.to/toki_hossain/how-to-deploy-n8n-with-defang-34n5)
 <!-- BLOG-POST-LIST:END -->
 
 
