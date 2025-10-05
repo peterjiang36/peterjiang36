@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19.2&#39;s useEffectEvent vs our Custom useEventCallback](https://dev.to/hashcode01/react-192s-useeffectevent-vs-our-custom-useeventcallback-i45)
-- [Share us your project for Hacktoberfest 2025! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2025-59h2)
-- [The Power Platform – An Introduction for Beginners](https://dev.to/jocke_sjlin_4ca0d80beae0/the-power-platform-an-introduction-for-beginners-4d6o)
-- [How I Built PageRadar: The SEO Alert Tracker](https://dev.to/samir_belabbes_ac480c34ab/how-i-built-pageradar-the-seo-alert-tracker-54ef)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-159m)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5cfn)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4cf1)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-2m2i)
 <!-- BLOG-POST-LIST:END -->
 
 
