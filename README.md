@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diffium found 4 great Golang contributors during Hacktoberfest!](https://dev.to/kubeden/diffium-found-4-great-golang-contributors-during-hacktoberfest-2f94)
-- [1000+ Free APIs For Developers](https://dev.to/we-the-developers/1000-free-apis-for-developers-49kc)
-- [Project Ideas](https://dev.to/muhammad_ammar_42be750b7c/project-ideas-12cb)
-- [Go Microservices Boilerplate Series: From Hello World to Production &lpar;Part 1&rpar;](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)
+- [IGN: Springsteen: Deliver Me From Nowhere - Official &#39;I Think We Got That&#39; Clip &lpar;2025&rpar; Jeremy Allen White](https://dev.to/gg_news/ign-springsteen-deliver-me-from-nowhere-official-i-think-we-got-that-clip-2025-jeremy-allen-6ml)
+- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-3h9j)
+- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-328g)
+- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2eo9)
 <!-- BLOG-POST-LIST:END -->
 
 
