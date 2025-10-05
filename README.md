@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check it out](https://dev.to/masterdevsabith/check-it-out-18kg)
-- [🔁 Idempotency in System Design](https://dev.to/nk_sk_6f24fdd730188b284bf/idempotency-in-system-design-2jcj)
-- [Custom AI Solutions vs Off-the-Shelf AI: Which Is Right for You?](https://dev.to/nayeem79/custom-ai-solutions-vs-off-the-shelf-ai-which-is-right-for-you-5ffj)
-- [#DAY 11: High Availability – Deploying a Reverse Proxy &lpar;Nginx&rpar;](https://dev.to/samueladeduntan/day-11-high-availability-deploying-a-reverse-proxy-nginx-mn4)
+- [The State of Security Protocols in Agent 2 Agent&lpar;A2A&rpar; Systems.](https://dev.to/sten/the-state-of-security-protocols-in-agent-2-agenta2a-systems-29km)
+- [Understanding SSL/TLS](https://dev.to/parthi_rp/understanding-ssltls-3obh)
+- [What DAW are you using?](https://dev.to/highcenburg/what-daw-are-you-using-2cl4)
+- [Why You Should Use AWS Backup Instead of Custom Lambda Solutions](https://dev.to/hasan_ashab/why-you-should-use-aws-backup-instead-of-custom-lambda-solutions-3n02)
 <!-- BLOG-POST-LIST:END -->
 
 
