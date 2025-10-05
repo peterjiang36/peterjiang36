@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The State of Security Protocols in Agent 2 Agent&lpar;A2A&rpar; Systems.](https://dev.to/sten/the-state-of-security-protocols-in-agent-2-agenta2a-systems-29km)
-- [Understanding SSL/TLS](https://dev.to/parthi_rp/understanding-ssltls-3obh)
-- [What DAW are you using?](https://dev.to/highcenburg/what-daw-are-you-using-2cl4)
-- [Why You Should Use AWS Backup Instead of Custom Lambda Solutions](https://dev.to/hasan_ashab/why-you-should-use-aws-backup-instead-of-custom-lambda-solutions-3n02)
+- [ACID Properties with SQL Transactions in DBMS](https://dev.to/arun_prasath_fa013c5e6085/acid-properties-with-sql-transactions-in-dbms-4ped)
+- [Weekly #40-2025: Rethinking How We Build, Secure, and Simplify Software](https://dev.to/weekly/weekly-40-2025-rethinking-how-we-build-secure-and-simplify-software-c4b)
+- [🚀 Creating Global ProcScripts in Uniface 10.4: A Simple Guide](https://dev.to/petercode/creating-global-procscripts-in-uniface-104-a-simple-guide-cjj)
+- [🚀 Understanding Global ProcScripts in Uniface 10.4](https://dev.to/petercode/understanding-global-procscripts-in-uniface-104-2bah)
 <!-- BLOG-POST-LIST:END -->
 
 
