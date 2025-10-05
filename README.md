@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-plg)
-- [IGN: SHELL - Official Trailer &lpar;2025&rpar; Elisabeth Moss, Kate Hudson](https://dev.to/gg_news/ign-shell-official-trailer-2025-elisabeth-moss-kate-hudson-3pah)
-- [IGN: Game Pass Joins the Price Hike - Unlocked Clips](https://dev.to/gg_news/ign-game-pass-joins-the-price-hike-unlocked-clips-2a93)
-- [IGN: Megabonk - Official Launch Trailer](https://dev.to/gg_news/ign-megabonk-official-launch-trailer-3cj3)
+- [Golang เรื่องที่อาจผิดพลาดกับ Array, Slice และ Map](https://dev.to/jameinprogress/golang-eruuengthiiaacchphidphlaadkab-array-slice-aela-map-42gc)
+- [Showcase skill icons badge for GitHub README profile](https://dev.to/thuongtruong/showcase-skill-icons-badge-for-github-readme-profile-8bg)
+- [The Day I Automated Web Check-in: A Tale of Wonder and Worry](https://dev.to/ankur_bansal_d7487ae561e7/the-day-i-automated-web-check-in-a-tale-of-wonder-and-worry-3fem)
+- [LUXARG](https://dev.to/amzy31/luxarg-2efb)
 <!-- BLOG-POST-LIST:END -->
 
 
