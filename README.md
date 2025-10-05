@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Springsteen: Deliver Me From Nowhere - Official &#39;I Think We Got That&#39; Clip &lpar;2025&rpar; Jeremy Allen White](https://dev.to/gg_news/ign-springsteen-deliver-me-from-nowhere-official-i-think-we-got-that-clip-2025-jeremy-allen-6ml)
-- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-3h9j)
-- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-328g)
-- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2eo9)
+- [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
+- [The Trust-First Playbook for Web3 Communications &lpar;That Actually Works&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/the-trust-first-playbook-for-web3-communications-that-actually-works-54ih)
+- [The Password is Dead. Long Live the Password? A Look at FIDO2, Passkeys, and the Post-SMS Future](https://dev.to/yanix_yanix_d22423595186a/the-password-is-dead-long-live-the-password-a-look-at-fido2-passkeys-and-the-post-sms-future-5fnk)
+- [How AI slop impacted content creators](https://dev.to/richard_taujenis_16dc2678/how-ai-slop-impacted-content-creators-ia2)
 <!-- BLOG-POST-LIST:END -->
 
 
