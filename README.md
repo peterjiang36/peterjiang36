@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-c48)
-- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-2276)
-- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-4cj2)
-- [IGN: SHELL - Official Trailer &lpar;2025&rpar; Elisabeth Moss, Kate Hudson](https://dev.to/gg_news/ign-shell-official-trailer-2025-elisabeth-moss-kate-hudson-58k5)
+- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
+- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
+- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
+- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
 <!-- BLOG-POST-LIST:END -->
 
 
