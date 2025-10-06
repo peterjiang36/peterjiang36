@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-i0d)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2k50)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-42n)
-- [IGN: Ghost Vanguard - Official Kickstarter Trailer](https://dev.to/gg_news/ign-ghost-vanguard-official-kickstarter-trailer-2ng7)
+- [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
+
+No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
+- [Apple vs. The CAs: The Day One Company Changed Internet Security Forever](https://dev.to/certkit/apple-vs-the-cas-the-day-one-company-changed-internet-security-forever-2bc4)
+- [The Parameter Laboratory: Decorators with Arguments](https://dev.to/aaron_rose_0787cc8b4775a0/the-parameter-laboratory-decorators-with-arguments-40mp)
+- [UI Optimista: El Secreto de las Apps que se Sienten Instantáneas](https://dev.to/dariohg/ui-optimista-el-secreto-de-las-apps-que-se-sienten-instantaneas-2i5d)
 <!-- BLOG-POST-LIST:END -->
 
 
