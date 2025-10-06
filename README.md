@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal milestone: 30,000 followers! Thank you!](https://dev.to/fmerian/personal-milestone-30000-followers-thank-you-2k8)
-- [Chat Smarter, Not Harder: Building an AI Chat Interface in Your Angular App](https://dev.to/sunny7899/chat-smarter-not-harder-building-an-ai-chat-interface-in-your-angular-app-57hf)
-- [List in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-in-python-2-3jji)
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-39nd)
+- [Inspiring Google Developers video retrospective](https://dev.to/wescpy/inspiring-google-developers-video-retrospective-4c15)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--4k1d)
+- [Mastering TCJSGame Audio System: Creating Immersive Soundscapes](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-audio-system-creating-immersive-soundscapes-og2)
+- [🚀 Free RAG Learning Path: From Basic to Multi-Agent Systems &lpar;143 Files, 70+ Technologies&rpar;](https://dev.to/klement_gunndu_e16216829c/free-rag-learning-path-from-basic-to-multi-agent-systems-143-files-70-technologies-5e5l)
 <!-- BLOG-POST-LIST:END -->
 
 
