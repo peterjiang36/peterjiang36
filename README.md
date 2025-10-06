@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Understanding the Client–Server Model, HTTP, and State Management in Web Apps](https://dev.to/digvijay-bhakuni/understanding-the-client-server-model-http-and-state-management-in-web-apps-3ogj)
-- [The Science of Speed Reading: What Happens to Your Comprehension?](https://dev.to/brain_athlete/the-science-of-speed-reading-what-happens-to-your-comprehension-23b9)
-- [A Beginner&#39;s Guide to AWS MSK: From Cluster Setup to Your First Message](https://dev.to/aws-builders/a-beginners-guide-to-aws-msk-from-cluster-setup-to-your-first-message-3j05)
-- [Files file manager: folder full of bugs](https://dev.to/pvsdev/files-file-manager-folder-full-of-bugs-58a0)
+- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
+- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
+- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
+- [The Evolution of Slot Game Engines: From Mechanical to Digital](https://dev.to/bob_packer_7c9018a4d1a1f1/the-evolution-of-slot-game-engines-from-mechanical-to-digital-2a70)
 <!-- BLOG-POST-LIST:END -->
 
 
