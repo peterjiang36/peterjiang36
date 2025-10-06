@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing MonkeysMail: A Developer-First Email Platform](https://dev.to/yorchperaza/introducing-monkeysmail-a-developer-first-email-platform-394l)
-- [Creating a CLI Tool with Node.js](https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k)
-- [Why I Built Things-Kit: A Spring Boot Alternative for Go](https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4)
-- [How to Activate SSL and Security Headers for WordPress in 2 Clicks](https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44)
+- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-49nj)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-1i0a)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2nh4)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-59in)
 <!-- BLOG-POST-LIST:END -->
 
 
