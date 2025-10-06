@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Effective September 1, 2020, certificates valid for more than 398 days will not be trusted.&quot;
-
-No vote. No consensus. Just done.](https://dev.to/toddhgardner/effective-september-1-2020-certificates-valid-for-more-than-398-days-will-not-be-trusted-no-2o67)
-- [Apple vs. The CAs: The Day One Company Changed Internet Security Forever](https://dev.to/certkit/apple-vs-the-cas-the-day-one-company-changed-internet-security-forever-2bc4)
-- [The Parameter Laboratory: Decorators with Arguments](https://dev.to/aaron_rose_0787cc8b4775a0/the-parameter-laboratory-decorators-with-arguments-40mp)
-- [UI Optimista: El Secreto de las Apps que se Sienten Instantáneas](https://dev.to/dariohg/ui-optimista-el-secreto-de-las-apps-que-se-sienten-instantaneas-2i5d)
+- [Personal milestone: 30,000 followers! Thank you!](https://dev.to/fmerian/personal-milestone-30000-followers-thank-you-2k8)
+- [Chat Smarter, Not Harder: Building an AI Chat Interface in Your Angular App](https://dev.to/sunny7899/chat-smarter-not-harder-building-an-ai-chat-interface-in-your-angular-app-57hf)
+- [List in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-in-python-2-3jji)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_f8c307c5/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-39nd)
 <!-- BLOG-POST-LIST:END -->
 
 
