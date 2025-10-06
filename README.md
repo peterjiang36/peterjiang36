@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
-- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
-- [🟠 Bitcoin Breaks New ATH &lpar;$125,700+&rpar; Over the Weekend — What Does It Mean for the Market?](https://dev.to/dan_keller/bitcoin-breaks-new-ath-125700-over-the-weekend-what-does-it-mean-for-the-market-5np)
-- [Self-Adapting Data Pipelines: The Intelligent Future of Data Engineering](https://dev.to/devnotes/self-adapting-data-pipelines-the-intelligent-future-of-data-engineering-b3d)
+- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-c48)
+- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-2276)
+- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-4cj2)
+- [IGN: SHELL - Official Trailer &lpar;2025&rpar; Elisabeth Moss, Kate Hudson](https://dev.to/gg_news/ign-shell-official-trailer-2025-elisabeth-moss-kate-hudson-58k5)
 <!-- BLOG-POST-LIST:END -->
 
 
