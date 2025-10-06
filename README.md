@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3o0n)
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-4415)
-- [A so a Sauglump! - Game Prototypes](https://dev.to/sebs/a-so-a-sauglump-game-prototypes-2mjc)
-- [Ringer Movies: ‘One Battle After Another’: A Second Opinion With Van Lathan](https://dev.to/popcorn_movies/ringer-movies-one-battle-after-another-a-second-opinion-with-van-lathan-1pbh)
+- [Part-111: 🧱Understanding Kubernetes StatefulSets — The Right Way!](https://dev.to/latchudevops/part-111-understanding-kubernetes-statefulsets-the-right-way-331l)
+- [Building a Beautiful macOS Cleaner with Python and Rich UI](https://dev.to/qdenka/building-a-beautiful-macos-cleaner-with-python-and-rich-ui-2139)
+- [🟠 Bitcoin Breaks New ATH &lpar;$125,700+&rpar; Over the Weekend — What Does It Mean for the Market?](https://dev.to/dan_keller/bitcoin-breaks-new-ath-125700-over-the-weekend-what-does-it-mean-for-the-market-5np)
+- [Self-Adapting Data Pipelines: The Intelligent Future of Data Engineering](https://dev.to/devnotes/self-adapting-data-pipelines-the-intelligent-future-of-data-engineering-b3d)
 <!-- BLOG-POST-LIST:END -->
 
 
