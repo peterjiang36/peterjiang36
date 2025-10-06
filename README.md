@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-2g8k)
-- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-2p)
-- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-3a7i)
-- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2npb)
+- [How MedAI Will Transform Hospitals and Patient Care by 2035: My Predictions](https://dev.to/canro91/how-medai-will-transform-hospitals-and-patient-care-by-2035-my-predictions-3e1a)
+- [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
+- [Unit Testing is Overrated and Won&#39;t Help You Write Better Code](https://dev.to/teamcamp/unit-testing-is-overrated-and-wont-help-you-write-better-code-347p)
+- [Perl 🐪 Weekly #741 - Money to TPRF 💰](https://dev.to/szabgab/perl-weekly-741-money-to-tprf-17p6)
 <!-- BLOG-POST-LIST:END -->
 
 
