@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Top 10 Make alternatives for building AI automation 🤖](https://dev.to/composiodev/top-10-make-alternatives-for-building-ai-automation-1jgc)
-- [แก้ปัญหาภาษาไทยใน Git Log | Git Diff](https://dev.to/anuchito/aekpayhaaphaasaaaithyain-git-log-git-diff-4d14)
-- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-3h82)
-- [Need advice on improving filtering page performance NEXT](https://dev.to/mastermindlegion/need-advice-on-improving-filtering-page-performance-next-460n)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4n7k)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2ah2)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-3ik3)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-2f6i)
 <!-- BLOG-POST-LIST:END -->
 
 
