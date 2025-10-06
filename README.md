@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Register: How to Store and Reuse Task Output](https://dev.to/spacelift/ansible-register-how-to-store-and-reuse-task-output-15c0)
-- [Badkamer renovatie Utrecht: Wat zijn de kosten per type afwerking?](https://dev.to/wwloodgietersbedrijf/badkamer-renovatie-utrecht-wat-zijn-de-kosten-per-type-afwerking-394j)
-- [Trust Engineering for Builders: A No-Fluff PR Playbook That Actually Works](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-builders-a-no-fluff-pr-playbook-that-actually-works-2eal)
-- [The Evolution of Slot Game Engines: From Mechanical to Digital](https://dev.to/bob_packer_7c9018a4d1a1f1/the-evolution-of-slot-game-engines-from-mechanical-to-digital-2a70)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3o0n)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-4415)
+- [A so a Sauglump! - Game Prototypes](https://dev.to/sebs/a-so-a-sauglump-game-prototypes-2mjc)
+- [Ringer Movies: ‘One Battle After Another’: A Second Opinion With Van Lathan](https://dev.to/popcorn_movies/ringer-movies-one-battle-after-another-a-second-opinion-with-van-lathan-1pbh)
 <!-- BLOG-POST-LIST:END -->
 
 
