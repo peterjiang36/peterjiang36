@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re/Start – My Week 8 Experience](https://dev.to/ijay/aws-restart-my-week-8-experience-1g76)
-- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-1jae)
-- [Web3 Attribution Explained | The Onchain Growth Guide for Web3 Marketing Teams](https://dev.to/yos/web3-attribution-explained-the-onchain-growth-guide-for-web3-marketing-teams-5fha)
-- [Web3 Event Analytics | The Complete Guide to Analytics &amp; Attribution for Web3](https://dev.to/yos/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3-j2h)
+- [🌐 Understanding the Client–Server Model, HTTP, and State Management in Web Apps](https://dev.to/digvijay-bhakuni/understanding-the-client-server-model-http-and-state-management-in-web-apps-3ogj)
+- [The Science of Speed Reading: What Happens to Your Comprehension?](https://dev.to/brain_athlete/the-science-of-speed-reading-what-happens-to-your-comprehension-23b9)
+- [A Beginner&#39;s Guide to AWS MSK: From Cluster Setup to Your First Message](https://dev.to/aws-builders/a-beginners-guide-to-aws-msk-from-cluster-setup-to-your-first-message-3j05)
+- [Files file manager: folder full of bugs](https://dev.to/pvsdev/files-file-manager-folder-full-of-bugs-58a0)
 <!-- BLOG-POST-LIST:END -->
 
 
