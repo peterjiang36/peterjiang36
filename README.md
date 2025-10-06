@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2pa8)
-- [How to Use Wget to Mirror Websites for Offline Browsing](https://dev.to/rijultp/how-to-use-wget-to-mirror-websites-for-offline-browsing-48l4)
-- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-38c3)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-3ifl)
+- [Chat with Apps in ChatGPT: The Future of Connected Work](https://dev.to/alifar/chat-with-apps-in-chatgpt-the-future-of-connected-work-1ja2)
+- [CVE-2021-22555: Linux Kernel Heap Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2021-22555-linux-kernel-heap-out-of-bounds-write-vulnerability-4po8)
+- [WebGPU Engine from Scratch Part 10: Markup Language and Scene Graph](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-10-markup-language-1n2g)
+- [Setup Production Sederhana yang Aman dan Efisien](https://dev.to/naandan/setup-production-sederhana-yang-aman-dan-efisien-3cna)
 <!-- BLOG-POST-LIST:END -->
 
 
