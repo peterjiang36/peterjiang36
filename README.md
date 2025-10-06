@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat with Apps in ChatGPT: The Future of Connected Work](https://dev.to/alifar/chat-with-apps-in-chatgpt-the-future-of-connected-work-1ja2)
-- [CVE-2021-22555: Linux Kernel Heap Out-of-Bounds Write Vulnerability](https://dev.to/freedom-coder/cve-2021-22555-linux-kernel-heap-out-of-bounds-write-vulnerability-4po8)
-- [WebGPU Engine from Scratch Part 10: Markup Language and Scene Graph](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-10-markup-language-1n2g)
-- [Setup Production Sederhana yang Aman dan Efisien](https://dev.to/naandan/setup-production-sederhana-yang-aman-dan-efisien-3cna)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-i0d)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-2k50)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-42n)
+- [IGN: Ghost Vanguard - Official Kickstarter Trailer](https://dev.to/gg_news/ign-ghost-vanguard-official-kickstarter-trailer-2ng7)
 <!-- BLOG-POST-LIST:END -->
 
 
