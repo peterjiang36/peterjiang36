@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Expert Series – Part 5: API Gateway and Service Communication](https://dev.to/devto_with_yog/nestjs-expert-series-part-5-api-gateway-and-service-communication-o10)
-- [**Unlocking the Power of Personalization: How Netflix&#39;s AI D](https://dev.to/drcarlosruizviquez/unlocking-the-power-of-personalization-how-netflixs-ai-d-403j)
-- [🔹 CRUD Operations in MongoDB – A Hands-on College Student Example](https://dev.to/deepana_ee9087276132ad19f/crud-operations-in-mongodb-a-hands-on-college-student-example-3gjg)
-- [⚠️ **Overfitting to Data with Temporal Correlations: A Perva](https://dev.to/drcarlosruizviquez/overfitting-to-data-with-temporal-correlations-a-perva-6g1)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2pa8)
+- [How to Use Wget to Mirror Websites for Offline Browsing](https://dev.to/rijultp/how-to-use-wget-to-mirror-websites-for-offline-browsing-48l4)
+- [GameSpot: Battlefield 6 Everything To Know](https://dev.to/gg_news/gamespot-battlefield-6-everything-to-know-38c3)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-3ifl)
 <!-- BLOG-POST-LIST:END -->
 
 
