@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add custom badges on Shopify products without app](https://dev.to/saadsaif97/add-custom-badges-on-shopify-products-without-app-hnh)
-- [COLORS: SABRI | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-a-colors-show-27el)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-ee5)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-18cj)
+- [AWS re/Start – My Week 8 Experience](https://dev.to/ijay/aws-restart-my-week-8-experience-1g76)
+- [Resume Scan AI app built with Next.js 15, Tailwind CSS, BetterAuth, Open AI, Inngest, and Shadcn/ui](https://dev.to/saidmounaim/resume-scan-ai-app-built-with-nextjs-15-tailwind-css-betterauth-open-ai-inngest-and-shadcnui-1jae)
+- [Web3 Attribution Explained | The Onchain Growth Guide for Web3 Marketing Teams](https://dev.to/yos/web3-attribution-explained-the-onchain-growth-guide-for-web3-marketing-teams-5fha)
+- [Web3 Event Analytics | The Complete Guide to Analytics &amp; Attribution for Web3](https://dev.to/yos/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3-j2h)
 <!-- BLOG-POST-LIST:END -->
 
 
