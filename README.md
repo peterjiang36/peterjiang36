@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How MedAI Will Transform Hospitals and Patient Care by 2035: My Predictions](https://dev.to/canro91/how-medai-will-transform-hospitals-and-patient-care-by-2035-my-predictions-3e1a)
-- [Data Formats](https://dev.to/vignesh_k_165855f8c465905/data-formats-217i)
-- [Unit Testing is Overrated and Won&#39;t Help You Write Better Code](https://dev.to/teamcamp/unit-testing-is-overrated-and-wont-help-you-write-better-code-347p)
-- [Perl 🐪 Weekly #741 - Money to TPRF 💰](https://dev.to/szabgab/perl-weekly-741-money-to-tprf-17p6)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-kjp)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-2o0g)
 <!-- BLOG-POST-LIST:END -->
 
 
