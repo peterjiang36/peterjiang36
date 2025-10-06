@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless File Conversion for Developers: Free Online Tools You’ll Actually Use](https://dev.to/formalex/effortless-file-conversion-for-developers-free-online-tools-youll-actually-use-476f)
-- [💬 Waaku: Manage Multiple WhatsApp Sessions with One Dashboard](https://dev.to/ilhamsabir/waaku-manage-multiple-whatsapp-sessions-with-one-dashboard-1d54)
-- [Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/codies-cognitive-chronicals-3kd8)
-- [CSS Sizing Units: The Complete Guide to Numbers, Percentages, and Relative Lengths](https://dev.to/er-raj-aryan/css-sizing-units-the-complete-guide-to-numbers-percentages-and-relative-lengths-14dl)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-2g8k)
+- [IGN: Hollow Knight: Silksong - All Mask Shard Locations](https://dev.to/gg_news/ign-hollow-knight-silksong-all-mask-shard-locations-2p)
+- [IGN: Lootbane - Official Announce Trailer](https://dev.to/gg_news/ign-lootbane-official-announce-trailer-3a7i)
+- [IGN: Lost Contact: UFOs After Wartime - Official Trailer &lpar;2025&rpar; Documentary](https://dev.to/gg_news/ign-lost-contact-ufos-after-wartime-official-trailer-2025-documentary-2npb)
 <!-- BLOG-POST-LIST:END -->
 
 
