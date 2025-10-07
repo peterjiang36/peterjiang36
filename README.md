@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Enterprise AI Needs Agentic Messaging Platforms](https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd)
+- [#DAY 8: Monitoring, Logs &amp; Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d)
+- [#DAY 7: Users &amp; Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm)
 - [#DAY 6: Security Profiles: Web Filtering &amp; Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j)
-- [#DAY 5: Firewall Policies, NAT &amp; Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj)
-- [#DAY 4: Interfaces &amp; Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176)
-- [#DAY 3: Accessing GUI, Licensing and Patching](https://dev.to/samueladeduntan/day-3-accessing-gui-licensing-and-patching-dl7)
 <!-- BLOG-POST-LIST:END -->
 
 
