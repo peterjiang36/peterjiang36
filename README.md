@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Laravel Edge Cases Every Developer Should Know &lpar;Before They Hit Production&rpar;](https://dev.to/kalam714/10-laravel-edge-cases-every-developer-should-know-before-they-hit-production-14c1)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-2fmd)
-- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-55oj)
-- [IGN: Nintendo - Official &#39;Close to You&#39; Short Film](https://dev.to/gg_news/ign-nintendo-official-close-to-you-short-film-3eok)
+- [El Futuro de la Mensajería Privada | Análisis Completo y Guía de Uso](https://dev.to/oliverholiveros/el-futuro-de-la-mensajeria-privada-analisis-completo-y-guia-de-uso-3b84)
+- [Quick Debugging Techniques for Playwright Tests](https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg)
+- [please give it a read](https://dev.to/guna01/please-give-it-a-read-3n8b)
+- [Agentic AI: How LLMs Really Work Behind the Scenes](https://dev.to/gayathri_mangalarapu/agentic-ai-how-llms-really-work-behind-the-scenes-31ap)
 <!-- BLOG-POST-LIST:END -->
 
 
