@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-2egp)
-- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-4g3f)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-32f0)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-47h0)
+- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
+- [Saving Game Data in Unity — Part 1: PlayerPrefs](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-1-playerprefs-22hb)
+- [Stream Postgres WAL to AWS SQS: A Lightweight Approach](https://dev.to/alik-pgwalk/stream-postgres-wal-to-aws-sqs-a-lightweight-approach-2dgm)
+- [Building the Enterprise DAL Foundation: Database Structure and ULIDs](https://dev.to/gigaherz/building-the-enterprise-dal-foundation-database-structure-and-ulids-5b80)
 <!-- BLOG-POST-LIST:END -->
 
 
