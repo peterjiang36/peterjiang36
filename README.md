@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [🧩 A Complete Guide to React Testing: From Unit Tests to E2E, Snapshots, and Test Doubles](https://dev.to/learcise_health/a-complete-guide-to-react-testing-from-unit-tests-to-e2e-snapshots-and-test-doubles-31c3)
+- [Camadas de aplicação e transporte](https://dev.to/andresdossantos/camadas-de-aplicacao-e-transporte-2doi)
+- [Automate Your Database Design Audits](https://dev.to/nasrulhazim/automate-your-database-design-audits-42c2)
 - [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
-- [Who owns Express VPN, Nord, Surfshark? VPN relationships explained &lpar;2024&rpar;](https://dev.to/technoblogger14o3/who-owns-express-vpn-nord-surfshark-vpn-relationships-explained-2024-36o)
-- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-38ja)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-2b0h)
 <!-- BLOG-POST-LIST:END -->
 
 
