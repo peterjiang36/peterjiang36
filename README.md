@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervising an AI Engineer: Lessons from 212 Sessions](https://dev.to/razoorka/supervising-an-ai-engineer-lessons-from-212-sessions-4gaa)
-- [Refactoring 034 - Reify Parameters](https://dev.to/mcsee/refactoring-034-reify-parameters-49ml)
-- [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
-- [Trust Engineering for Startups: How to Build Credibility the Way You Ship Code](https://dev.to/sonia_bobrik_1939cdddd79d/trust-engineering-for-startups-how-to-build-credibility-the-way-you-ship-code-1683)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-2egp)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-4g3f)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-32f0)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-47h0)
 <!-- BLOG-POST-LIST:END -->
 
 
