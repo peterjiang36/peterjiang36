@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [El Futuro de la Mensajería Privada | Análisis Completo y Guía de Uso](https://dev.to/oliverholiveros/el-futuro-de-la-mensajeria-privada-analisis-completo-y-guia-de-uso-3b84)
-- [Quick Debugging Techniques for Playwright Tests](https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg)
-- [please give it a read](https://dev.to/guna01/please-give-it-a-read-3n8b)
-- [Agentic AI: How LLMs Really Work Behind the Scenes](https://dev.to/gayathri_mangalarapu/agentic-ai-how-llms-really-work-behind-the-scenes-31ap)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-36g3)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3bca)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4mc0)
+- [GameSpot: 2XKO - Official Ties That Bind Cinematic Intro Trailer | ft. Courtney LaPlante of Spiritbox](https://dev.to/gg_news/gamespot-2xko-official-ties-that-bind-cinematic-intro-trailer-ft-courtney-laplante-of-1n5e)
 <!-- BLOG-POST-LIST:END -->
 
 
