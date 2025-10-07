@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4)
+- [Dubai Tourism-Pocket Watch](https://dev.to/vamsi_nakireddi_711f6ecd0/dubai-tourism-pocket-watch-44fg)
+- [Thailand Tourism Website](https://dev.to/vamsi_nakireddi_711f6ecd0/thailand-tourism-website-2m02)
+- [Instancio : la révolution dans la gestion des jeux de données pour les tests en Java](https://dev.to/onepoint/instancio-la-revolution-dans-la-gestion-des-jeux-de-donnees-pour-les-tests-en-java-1bg7)
+- [Understanding ACID Properties in SQL with Examples](https://dev.to/abitha_n24cb001_9847d321/understanding-acid-properties-in-sql-with-examples-4263)
 <!-- BLOG-POST-LIST:END -->
 
 
