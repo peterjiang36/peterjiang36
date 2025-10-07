@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025 - First post](https://dev.to/musaddiq625/hacktoberfest-2025-first-post-363m)
-- [How to Create Effective Termbase Glossaries for Machine Translation](https://dev.to/testjace/how-to-create-effective-termbase-glossaries-for-machine-translation-4718)
-- [A Simple Way to Grasp Dependency Injection](https://dev.to/duskoperic/a-simple-way-to-grasp-dependency-injection-41ef)
-- [ปลดล็อกพลัง ElizaOS: สร้างปลั๊กอิน AI แปลงข้อความเป็นวิดีโอ &lpar;ฉบับรวบรัด&rpar;](https://dev.to/ubinix_warun/pldlkphlang-elizaos-sraangplakin-ai-aeplngkhkhwaamepnwidiio-chbabrwbrad-47oo)
+- [Level Up Your PRs: 20 Reviewer-Friendly C# One-Liners](https://dev.to/csharp-programming/level-up-your-prs-20-reviewer-friendly-c-one-liners-26a6)
+- [Laravel Core Things You Must Know Before Using Any AI Code Assistant](https://dev.to/kalam714/laravel-core-things-you-must-know-before-using-any-ai-code-assistant-51fc)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-23mm)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-555c)
 <!-- BLOG-POST-LIST:END -->
 
 
