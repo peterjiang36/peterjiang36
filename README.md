@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-36g3)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3bca)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4mc0)
-- [GameSpot: 2XKO - Official Ties That Bind Cinematic Intro Trailer | ft. Courtney LaPlante of Spiritbox](https://dev.to/gg_news/gamespot-2xko-official-ties-that-bind-cinematic-intro-trailer-ft-courtney-laplante-of-1n5e)
+- [Golang Dependency Inversion — A Java Developer&#39;s Point of View](https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4)
+- [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
+- [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
+- [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
 <!-- BLOG-POST-LIST:END -->
 
 
