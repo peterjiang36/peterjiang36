@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-112: 🚀 Deploy StatefulSet with Headless Service in Google Kubernetes Engine &lpar;GKE&rpar;](https://dev.to/latchudevops/part-112-deploy-statefulset-with-headless-service-in-google-kubernetes-engine-gke-4ijn)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-2l5n)
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-3nkl)
-- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-5j)
+- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
+- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
+- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
+- [Day 03 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-03-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3c6f)
 <!-- BLOG-POST-LIST:END -->
 
 
