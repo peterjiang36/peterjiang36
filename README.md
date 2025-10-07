@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Enterprise AI Needs Agentic Messaging Platforms](https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd)
-- [#DAY 8: Monitoring, Logs &amp; Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d)
-- [#DAY 7: Users &amp; Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm)
-- [#DAY 6: Security Profiles: Web Filtering &amp; Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-368n)
+- [Who owns Express VPN, Nord, Surfshark? VPN relationships explained &lpar;2024&rpar;](https://dev.to/technoblogger14o3/who-owns-express-vpn-nord-surfshark-vpn-relationships-explained-2024-36o)
+- [KEXP: NewDad - Entertainer &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-38ja)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-2b0h)
 <!-- BLOG-POST-LIST:END -->
 
 
