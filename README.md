@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-4n7e)
-- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4hg2)
-- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-2alm)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-3436)
+- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
+- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
+- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
+- [Build Voice Agents Faster with ElevenLabs UI Components](https://dev.to/jqueryscript/build-voice-agents-faster-with-elevenlabs-ui-components-62d)
 <!-- BLOG-POST-LIST:END -->
 
 
