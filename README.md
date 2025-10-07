@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Monitoring with PRTG](https://dev.to/samueladeduntan/network-monitoring-with-prtg-3fd5)
-- [MCP servers have issues, so I built &#39;lootbox&#39; &lpar;inspired by Cloudflare&#39;s Code Mode&rpar;](https://dev.to/jm-codes/mcp-servers-have-issues-so-i-built-lootbox-inspired-by-cloudflares-code-mode-16gb)
-- [Mobile tables](https://dev.to/rossangus/mobile-tables-fj8)
-- [Build Voice Agents Faster with ElevenLabs UI Components](https://dev.to/jqueryscript/build-voice-agents-faster-with-elevenlabs-ui-components-62d)
+- [10 Laravel Edge Cases Every Developer Should Know &lpar;Before They Hit Production&rpar;](https://dev.to/kalam714/10-laravel-edge-cases-every-developer-should-know-before-they-hit-production-14c1)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-2fmd)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-55oj)
+- [IGN: Nintendo - Official &#39;Close to You&#39; Short Film](https://dev.to/gg_news/ign-nintendo-official-close-to-you-short-film-3eok)
 <!-- BLOG-POST-LIST:END -->
 
 
