@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang Dependency Inversion — A Java Developer&#39;s Point of View](https://dev.to/kirekov/golang-dependency-inversion-a-java-developers-point-of-view-pj4)
-- [Automating EC2 Instance Management with Go](https://dev.to/copubah/automating-ec2-instance-management-with-go-10nh)
-- [5 Tools That Make My Life Instantly Better 🚀](https://dev.to/lovestaco/5-tools-that-make-my-life-instantly-better-2i5l)
-- [Pipe operator is coming to PHP !](https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838)
+- [IGN: Father - Official Demo Trailer](https://dev.to/gg_news/ign-father-official-demo-trailer-1al4)
+- [IGN: Daemons of the Shadow Realm - Official Trailer 2 &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-daemons-of-the-shadow-realm-official-trailer-2-english-subtitles-4gng)
+- [IGN: Dragon Raja 2: The Mourner&#39;s Eyes - Official Trailer &lpar;English Subtitles&rpar;](https://dev.to/gg_news/ign-dragon-raja-2-the-mourners-eyes-official-trailer-english-subtitles-23dp)
+- [Beyond Transformers: Can MLPs Unlock the Potential of In-Context Learning?](https://dev.to/shifa_noorulain_2c5f713e9/beyond-transformers-can-mlps-unlock-the-potential-of-in-context-learning-2jbl)
 <!-- BLOG-POST-LIST:END -->
 
 
