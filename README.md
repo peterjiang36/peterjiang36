@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inspiring Google Developers video retrospective](https://dev.to/wescpy/inspiring-google-developers-video-retrospective-4c15)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_f8c307c5/your-error-handling-is-a-mess-and-its-costing-you--4k1d)
-- [Mastering TCJSGame Audio System: Creating Immersive Soundscapes](https://dev.to/kehinde_owolabi_e2e54567a/mastering-tcjsgame-audio-system-creating-immersive-soundscapes-og2)
-- [🚀 Free RAG Learning Path: From Basic to Multi-Agent Systems &lpar;143 Files, 70+ Technologies&rpar;](https://dev.to/klement_gunndu_e16216829c/free-rag-learning-path-from-basic-to-multi-agent-systems-143-files-70-technologies-5e5l)
+- [#DAY 6: Security Profiles: Web Filtering &amp; Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j)
+- [#DAY 5: Firewall Policies, NAT &amp; Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj)
+- [#DAY 4: Interfaces &amp; Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176)
+- [#DAY 3: Accessing GUI, Licensing and Patching](https://dev.to/samueladeduntan/day-3-accessing-gui-licensing-and-patching-dl7)
 <!-- BLOG-POST-LIST:END -->
 
 
