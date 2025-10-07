@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Beta Open] One-click 3D optimization in your browser — PM AutoTwin &lpar;Free&rpar;](https://dev.to/pmautotwin/beta-open-one-click-3d-optimization-in-your-browser-pm-autotwin-free-2c6e)
-- [GEO + SEO for Devs: Make Your Content Discoverable in Google and AI Engines](https://dev.to/digitaldominationmktg/geo-seo-for-devs-make-your-content-discoverable-in-google-and-ai-engines-41lg)
-- [What is Proxmox VE?](https://dev.to/rosgluk/what-is-proxmox-ve-231l)
-- [Day 03 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-03-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3c6f)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4)
 <!-- BLOG-POST-LIST:END -->
 
 
