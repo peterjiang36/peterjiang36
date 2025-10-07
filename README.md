@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dubai Tourism-Pocket Watch](https://dev.to/vamsi_nakireddi_711f6ecd0/dubai-tourism-pocket-watch-44fg)
-- [Thailand Tourism Website](https://dev.to/vamsi_nakireddi_711f6ecd0/thailand-tourism-website-2m02)
-- [Instancio : la révolution dans la gestion des jeux de données pour les tests en Java](https://dev.to/onepoint/instancio-la-revolution-dans-la-gestion-des-jeux-de-donnees-pour-les-tests-en-java-1bg7)
-- [Understanding ACID Properties in SQL with Examples](https://dev.to/abitha_n24cb001_9847d321/understanding-acid-properties-in-sql-with-examples-4263)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2jca)
+- [KEXP: NewDad - Roobosh &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-newdad-roobosh-live-on-kexp-51f1)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-597p)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-jc2)
 <!-- BLOG-POST-LIST:END -->
 
 
