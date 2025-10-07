@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built a Bridge Between VS Code and My Phone — VSCoder Copilot](https://dev.to/kalinux/how-i-built-a-bridge-between-vs-code-and-my-phone-vscoder-copilot-2jk0)
-- [Saving Game Data in Unity — Part 1: PlayerPrefs](https://dev.to/rahul_barate_e965377330fe/saving-game-data-in-unity-part-1-playerprefs-22hb)
-- [Stream Postgres WAL to AWS SQS: A Lightweight Approach](https://dev.to/alik-pgwalk/stream-postgres-wal-to-aws-sqs-a-lightweight-approach-2dgm)
-- [Building the Enterprise DAL Foundation: Database Structure and ULIDs](https://dev.to/gigaherz/building-the-enterprise-dal-foundation-database-structure-and-ulids-5b80)
+- [GameSpot: How Silent Hill F Is Connected To The Rest Of The Series](https://dev.to/gg_news/gamespot-how-silent-hill-f-is-connected-to-the-rest-of-the-series-4n7e)
+- [GameSpot: Which Ghost of Yotei Mode Should You Play?](https://dev.to/gg_news/gamespot-which-ghost-of-yotei-mode-should-you-play-4hg2)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-2alm)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-3436)
 <!-- BLOG-POST-LIST:END -->
 
 
