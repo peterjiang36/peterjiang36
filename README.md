@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying An Azure Virtual Machine Scale Set Using Terraform And Pushing It To GitHub.](https://dev.to/nelson_akpa01/deploying-an-azure-virtual-machine-scale-set-using-terraform-and-pushing-it-to-github-2kh4)
-- [Ensuring Quality Control in Mechanical Manufacturing: Best Practices](https://dev.to/ayesha-diaz/ensuring-quality-control-in-mechanical-manufacturing-best-practices-23hn)
-- [From Crypto Mining to Folding@Home: Using GPU Power for Something Good](https://dev.to/michal_cichon/from-crypto-mining-to-foldinghome-using-gpu-power-for-something-good-3321)
-- [🛡️ Fix dark patterns in signup/cancel](https://dev.to/adam/fix-dark-patterns-in-signupcancel-1app)
+- [TIL… would be fun to see it evolve indeed.](https://dev.to/fyodorio/til-would-be-fun-to-see-it-evolve-indeed-5b58)
+- [Unlocking the Power of AI in Performance Testing](https://dev.to/jamescantor38/unlocking-the-power-of-ai-in-performance-testing-2d98)
+- [EXPLORING NORMALIZATION](https://dev.to/ramya_ae121b08c2e0f9e215c/exploring-normalization-28gb)
+- [Raw string literals in .NET, both useful and entertaining](https://dev.to/costinmanda/raw-string-literals-in-net-both-useful-and-entertaining-1o7f)
 <!-- BLOG-POST-LIST:END -->
 
 
