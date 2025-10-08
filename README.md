@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Speed: Why Quality Code is as Critical as Efficiency in Software Development](https://dev.to/rgbos/beyond-speed-why-quality-code-is-as-critical-as-efficiency-in-software-development-4ajj)
-- [🚀 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐂𝐡𝐚𝐭𝐊𝐢𝐭 𝐰𝐢𝐭𝐡 𝐅𝐚𝐬𝐭𝐀𝐏𝐈: 𝐀 𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐡𝐚𝐭 𝐀𝐠𝐞𝐧𝐭𝐬](https://dev.to/rajeev_3ce9f280cbae73b234/--3hhn)
-- [AI-Driven Data Engineering: Building Real-Time Intelligence Pipelines](https://dev.to/harsh9410/ai-driven-data-engineering-building-real-time-intelligence-pipelines-5an6)
-- [A Quick Look at OpenAI’s New Visual Agent Toolkit 🚀](https://dev.to/adit/a-quick-look-at-openais-new-visual-agent-toolkit-2152)
+- [Designing Simplicity: How Developers Can Bridge the UX Gap in Crypto](https://dev.to/chikieabby/designing-simplicity-how-developers-can-bridge-the-ux-gap-in-crypto-j1a)
+- [Arquitetura em Camadas &lpar;Layered architecture&rpar;](https://dev.to/yuripeixinho/arquitetura-em-camadas-layered-architecture-a68)
+- [Code Reviews with AI: Making Feedback Fast, Fair, and Effective](https://dev.to/jaideepparashar/code-reviews-with-ai-making-feedback-fast-fair-and-effective-4aa8)
+- [RISC-V Lockstep Co-Simulation: Retirement-Level Step-and-Compare for Faster Verification &amp; Debug](https://dev.to/alpinumblogs/risc-v-lockstep-co-simulation-retirement-level-step-and-compare-for-faster-verification-debug-gpe)
 <!-- BLOG-POST-LIST:END -->
 
 
