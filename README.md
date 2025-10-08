@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JIT vs. AOT Compilation in Java: A Comparative Analysis with Benchmarks](https://dev.to/adrian_nowosielski_7bd282/jit-vs-aot-compilation-in-java-a-comparative-analysis-with-benchmarks-4152)
-- [CRUD &lpar;Create, Read, Update, Delete&rpar; operations in MongoDB using a simple college student schema.](https://dev.to/lohita_blue_d6409977eec4c/crud-create-read-update-delete-operations-in-mongodb-using-a-simple-college-student-schema-4lj8)
-- [Sealed Classes in Java 21 – Controlling Class Hierarchies](https://dev.to/adrian_nowosielski_7bd282/sealed-classes-in-java-21-controlling-class-hierarchies-1moo)
-- [AWS CloudFront Security Implementation Guide](https://dev.to/harshhp/aws-cloudfront-security-implementation-guide-bjm)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2573)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-2big)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-8mh)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-30ii)
 <!-- BLOG-POST-LIST:END -->
 
 
