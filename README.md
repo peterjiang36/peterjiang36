@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-27bn)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3fo6)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-2gh1)
-- [Cursor and Trigger in DBMS](https://dev.to/kausi_tarun_77e6874368465/cursor-and-trigger-in-dbms-f08)
+- [Deploying An Azure Virtual Machine Scale Set Using Terraform And Pushing It To GitHub.](https://dev.to/nelson_akpa01/deploying-an-azure-virtual-machine-scale-set-using-terraform-and-pushing-it-to-github-2kh4)
+- [Ensuring Quality Control in Mechanical Manufacturing: Best Practices](https://dev.to/ayesha-diaz/ensuring-quality-control-in-mechanical-manufacturing-best-practices-23hn)
+- [From Crypto Mining to Folding@Home: Using GPU Power for Something Good](https://dev.to/michal_cichon/from-crypto-mining-to-foldinghome-using-gpu-power-for-something-good-3321)
+- [🛡️ Fix dark patterns in signup/cancel](https://dev.to/adam/fix-dark-patterns-in-signupcancel-1app)
 <!-- BLOG-POST-LIST:END -->
 
 
