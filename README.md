@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pictera.co — Generate clean Open Graph images for your links](https://dev.to/hamza_chebbah_0fe9e67a52a/picteraco-generate-clean-open-graph-images-for-your-links-150f)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2p84)
-- [Adam Neely: Sungazer - Whisky and Mes [Bass Playthrough]](https://dev.to/music_youtube/adam-neely-sungazer-whisky-and-mes-bass-playthrough-1359)
-- [Reviving Lost Tongues: AI-Powered Grammar for Language Preservation](https://dev.to/arvind_sundararajan/reviving-lost-tongues-ai-powered-grammar-for-language-preservation-4km)
+- [From Rust to Multi-Language: Litho&#39;s Plugin-Based Extensible Architecture Design](https://dev.to/sopaco/from-rust-to-multi-language-lithos-plugin-based-extensible-architecture-design-b8b)
+- [Cost-Controllable AI Applications: Litho&#39;s Cache Optimization and Cost Control Strategies](https://dev.to/sopaco/cost-controllable-ai-applications-lithos-cache-optimization-and-cost-control-strategies-2291)
+- [[Book Review] Build a Large Language Model &lpar;From Scratch&rpar; by Sebastian Raschka](https://dev.to/uponthesky/book-review-build-a-large-language-model-from-scratch-by-sebastian-raschka-1286)
+- [Thinking About Switching to Omarchy — Is It Worth It?](https://dev.to/shaq_attack/thinking-about-switching-to-omarchy-is-it-worth-it-3c3o)
 <!-- BLOG-POST-LIST:END -->
 
 
