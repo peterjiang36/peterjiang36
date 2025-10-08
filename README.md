@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2gd6)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-2k8p)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-3448)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-1iih)
+- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 9](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-9-12dl)
+- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 8](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-8-2ppl)
+- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 7](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-7-3adl)
+- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 6](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-6-1b5e)
 <!-- BLOG-POST-LIST:END -->
 
 
