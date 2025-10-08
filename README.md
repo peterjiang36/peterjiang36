@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4bek)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1o41)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-59d2)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4ebl)
+- [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
+- [n8n and OpenAI API: Creating Simple Text Processing Automations](https://dev.to/addwebsolutionpvtltd/n8n-and-openai-api-creating-simple-text-processing-automations-1i0f)
+- [How Vijil built a trust layer for my first AI agent](https://dev.to/ngrok/how-vijil-built-a-trust-layer-for-my-first-ai-agent-2fki)
+- [My Favorite Frontend Setup Libraries &lpar;Project Foundation Edition&rpar;](https://dev.to/nyaomaru/my-favorite-frontend-setup-libraries-project-foundation-edition-2j4k)
 <!-- BLOG-POST-LIST:END -->
 
 
