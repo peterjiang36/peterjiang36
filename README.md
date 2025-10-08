@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-33a2)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4b1c)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-4gie)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-3c8i)
+- [Optimize Website Performance for 2025 Sales Boost](https://dev.to/addalign/optimize-website-performance-for-2025-sales-boost-31o7)
+- [Deploy to Azure Kubernetes Service &lpar;AKS&rpar; using Azure Pipelines](https://dev.to/akash_roy_3bc76e473db5e40/deploy-to-azure-kubernetes-service-aks-using-azure-pipelines-3127)
+- [Stop Over-Engineering: Use Tampermonkey for Rapid UI Prototyping &amp; Debugging](https://dev.to/saadmaqsood/stop-over-engineering-use-tampermonkey-for-rapid-ui-prototyping-debugging-365)
+- [linux - cd,ls,Hard&amp;Soft Link](https://dev.to/nivethithaa_saravanavel_3/linux-cdlshardsoft-link-330g)
 <!-- BLOG-POST-LIST:END -->
 
 
