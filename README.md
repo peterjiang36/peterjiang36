@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-2573)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-2big)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-8mh)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-30ii)
+- [Fully Configurable Open Source Audio Spectrum Analyzer](https://dev.to/sylwekkominek/fully-configurable-open-source-audio-spectrum-analyzer-25h5)
+- [Cloud Run Full Screen Test](https://dev.to/ben/cloud-run-full-screen-test-2ee0)
+- [Guía rápida SDKMAN!](https://dev.to/gekyzo/sdkman-ioe)
+- [Stacking PRs &amp; Squashing Merges](https://dev.to/sleepingpotato/stacking-prs-squashing-merges-4ogg)
 <!-- BLOG-POST-LIST:END -->
 
 
