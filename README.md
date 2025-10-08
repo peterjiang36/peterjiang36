@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sailnote - A MIDI Media](https://dev.to/splotdev/sailnote-a-midi-media-37p0)
-- [CQRS &lpar;Command Query Responsibility Segregation&rpar;](https://dev.to/yuripeixinho/cqrs-command-query-responsibility-segregation-4idd)
-- [WinForms in 2025? Here&#39;s the Slick MSSQL Monitoring App I Built](https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf)
-- [Coding Challenge Practice - Question 23](https://dev.to/tomivan/coding-challenge-practice-question-23-2fn6)
+- [Pictera.co — Generate clean Open Graph images for your links](https://dev.to/hamza_chebbah_0fe9e67a52a/picteraco-generate-clean-open-graph-images-for-your-links-150f)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2p84)
+- [Adam Neely: Sungazer - Whisky and Mes [Bass Playthrough]](https://dev.to/music_youtube/adam-neely-sungazer-whisky-and-mes-bass-playthrough-1359)
+- [Reviving Lost Tongues: AI-Powered Grammar for Language Preservation](https://dev.to/arvind_sundararajan/reviving-lost-tongues-ai-powered-grammar-for-language-preservation-4km)
 <!-- BLOG-POST-LIST:END -->
 
 
