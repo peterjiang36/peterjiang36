@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dictionary in Python &lpar;4&rpar;](https://dev.to/hyperkai/dictionary-in-python-4-20p5)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-koe)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-2amg)
-- [KEXP: Babe Rainbow - What is ashwagandha &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-40o6)
+- [Build a Task-Running AI Agent with the New ChatGPT AgentKit: A Step-by-Step Guide](https://dev.to/dhruvjoshi9/build-a-task-running-ai-agent-with-the-new-chatgpt-agentkit-a-step-by-step-guide-55nd)
+- [Practical AI Use Cases That Are Actually Transforming Law Firms With Real Examples and Measurable ROI](https://dev.to/heyjoshlee/practical-ai-use-cases-that-are-actually-transforming-law-firms-with-real-examples-and-measurable-31og)
+- [Devlog: Building the **Price Pipeline Health** Card &lpar;so you know when data is fresh or fallback&rpar;](https://dev.to/pocketportfolioapp/devlog-building-the-price-pipeline-health-card-so-you-know-when-data-is-fresh-or-fallback-57p2)
+- [How to Find, Prevent And Solve Java.lang.NullPointerException in Mobile Apps](https://dev.to/shubham_joshi_expert/how-to-find-prevent-and-solve-javalangnullpointerexception-in-mobile-apps-4304)
 <!-- BLOG-POST-LIST:END -->
 
 
