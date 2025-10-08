@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Website Performance for 2025 Sales Boost](https://dev.to/addalign/optimize-website-performance-for-2025-sales-boost-31o7)
-- [Deploy to Azure Kubernetes Service &lpar;AKS&rpar; using Azure Pipelines](https://dev.to/akash_roy_3bc76e473db5e40/deploy-to-azure-kubernetes-service-aks-using-azure-pipelines-3127)
-- [Stop Over-Engineering: Use Tampermonkey for Rapid UI Prototyping &amp; Debugging](https://dev.to/saadmaqsood/stop-over-engineering-use-tampermonkey-for-rapid-ui-prototyping-debugging-365)
-- [linux - cd,ls,Hard&amp;Soft Link](https://dev.to/nivethithaa_saravanavel_3/linux-cdlshardsoft-link-330g)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong&#39;s Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-4bek)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1o41)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-59d2)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-4ebl)
 <!-- BLOG-POST-LIST:END -->
 
 
