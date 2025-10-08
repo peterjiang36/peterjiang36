@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL… would be fun to see it evolve indeed.](https://dev.to/fyodorio/til-would-be-fun-to-see-it-evolve-indeed-5b58)
-- [Unlocking the Power of AI in Performance Testing](https://dev.to/jamescantor38/unlocking-the-power-of-ai-in-performance-testing-2d98)
-- [EXPLORING NORMALIZATION](https://dev.to/ramya_ae121b08c2e0f9e215c/exploring-normalization-28gb)
-- [Raw string literals in .NET, both useful and entertaining](https://dev.to/costinmanda/raw-string-literals-in-net-both-useful-and-entertaining-1o7f)
+- [ACID PROPERTIES WITH SQL TRNSACTIONS](https://dev.to/lohita_blue_d6409977eec4c/acid-properties-with-sql-trnsactions-4ji8)
+- [I Built an Offline Voice Typing App for Linux - Speak to AI](https://dev.to/ashbuk/i-built-an-offline-voice-typing-app-for-linux-speak-to-ai-3ab5)
+- [Why Developers Should Care About AI Workflow Automation in 2025](https://dev.to/amanda_brooks_62bc9e0d44d/why-developers-should-care-about-ai-workflow-automation-in-2025-5g5a)
+- [Weekly Update #12](https://dev.to/abytebybyte/weekly-update-12-2d65)
 <!-- BLOG-POST-LIST:END -->
 
 
