@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI&#39;s Rapid Evolution: Models, Markets, and Mounting Ethical Concerns](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-evolution-models-markets-and-mounting-ethical-concerns-2hj5)
-- [How Technical SEO Shapes SaaS Growth in 2025](https://dev.to/zhngryn/how-technical-seo-shapes-saas-growth-in-2025-6d)
-- [Setting up Automatic Deployment from one repository to another](https://dev.to/tousifizaz/setting-up-automatic-deployment-from-one-repository-to-another-33ce)
-- [App](https://dev.to/rushikesh_pundkar_913318c/app-2k4b)
+- [[Boost]](https://dev.to/bujang/-23kf)
+- [DEV.to API v1 自动发布测试](https://dev.to/_85a948a4d50d6306d7ea9/devto-api-v1-zi-dong-fa-bu-ce-shi-fk5)
+- [Part-117: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; — Vertical Pod Autoscaling &lpar;VPA&rpar;](https://dev.to/latchudevops/part-117-google-kubernetes-engine-gke-vertical-pod-autoscaling-vpa-3750)
+- [🚀 Why Docker, Kubernetes, and Microservices Are the Foundation of Scalable Applications](https://dev.to/steven_nguyen/why-docker-kubernetes-and-microservices-are-the-foundation-of-scalable-applications-291p)
 <!-- BLOG-POST-LIST:END -->
 
 
