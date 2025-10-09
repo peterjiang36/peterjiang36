@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ko3)
-- [A Universal File Format N Times Faster Than CSV](https://dev.to/esproc_spl/a-universal-file-format-n-times-faster-than-csv-3k2b)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5472)
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-ga3)
+- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
+- [Free JSON to Dart Model Generator for Flutter Developers Save Hours of Coding](https://dev.to/maulikthakrar/free-json-to-dart-model-generator-for-flutter-developers-save-hours-of-coding-24a7)
+- [Indexing, Hashing](https://dev.to/mugiil_b_dc9b71601cba396/indexing-hashing-4j0i)
+- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
 <!-- BLOG-POST-LIST:END -->
 
 
