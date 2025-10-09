@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5896)
-- [Title: Best Practices for Variable Naming in Python](https://dev.to/yagyaraj_sharma_6cd410179/title-best-practices-for-variable-naming-in-python-dc4)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_06022d8b/beyond-env-a-grown-ups-guide-to-application-configuration-1em9)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3d9p)
+- [Normalization](https://dev.to/lokhitha_s_4/normalization-1i0m)
+- [🚀 Complete Guide: Hiring Challenge Paradigm](https://dev.to/soorya54/complete-guide-hiring-challenge-paradigm-4o17)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_40446303/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4goi)
+- [Cursor + Trigger](https://dev.to/lokhitha_s_4/cursor-trigger-2fho)
 <!-- BLOG-POST-LIST:END -->
 
 
