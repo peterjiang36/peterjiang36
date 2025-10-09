@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring ESP8266 Wi-Fi Network Connection Through A Web Page](https://dev.to/ibrahimgunduz34/configuring-esp8266-wi-fi-network-connection-through-a-web-page-562l)
-- [OCR vs ADE: Mechanisms Behind the Methods](https://dev.to/maigaridavid/ocr-vs-ade-mechanisms-behind-the-methods-5c45)
-- [Building a Shapes Learning Exercise in Blazor with Radzen Components](https://dev.to/benjaminsqlserver/building-a-shapes-learning-exercise-in-blazor-with-radzen-components-hfc)
-- [EFS full guide](https://dev.to/jumptotech/efs-full-guide-1ae3)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2gob)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-2cde)
+- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-7j1)
+- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-5e46)
 <!-- BLOG-POST-LIST:END -->
 
 
