@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-3hkm)
-- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-31lk)
-- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-4kcm)
-- [GameSpot: Absolum Review: A Sleeper Hit](https://dev.to/gg_news/gamespot-absolum-review-a-sleeper-hit-2e20)
+- [🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler &amp; Priority Lanes Explained](https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk)
+- [🌟 Understanding Generics in TypeScript: The Key to Reusable, Type-Safe Code](https://dev.to/srashtigupta/understanding-generics-in-typescript-the-key-to-reusable-type-safe-code-2963)
+- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
+- [Organizing Tests with Clarity: the Unfolding Tests Technique](https://dev.to/augustohub-br/organizing-tests-with-clarity-the-unfolding-tests-technique-195d)
 <!-- BLOG-POST-LIST:END -->
 
 
