@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-2cb3)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-31)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-1k8h)
-- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3o9j)
+- [10 Most Common Terminal Commands Explained To A Beginner 😎](https://dev.to/kevmongare/10-most-common-terminal-commands-explained-to-a-beginner-2i78)
+- [Anonio — Anonymous E2E Chat with Voice &amp; Video](https://dev.to/m6jo9/anonio-anonymous-e2e-chat-with-voice-video-56ki)
+- [Smartwatch vs Fitness Tracker: Making the Right Choice](https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2)
+- [🚀 Rive Presentation Mode — The Smart Fix for Embed Hosting 🎥](https://dev.to/uianimation/rive-presentation-mode-the-smart-fix-for-embed-hosting-2jje)
 <!-- BLOG-POST-LIST:END -->
 
 
