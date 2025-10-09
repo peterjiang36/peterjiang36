@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How React Keeps Your UI Smooth: Fiber Architecture, Scheduler &amp; Priority Lanes Explained](https://dev.to/yorgie7/react-scheduler-lanes-the-ultimate-guide-to-smooth-ui-1gmk)
-- [🌟 Understanding Generics in TypeScript: The Key to Reusable, Type-Safe Code](https://dev.to/srashtigupta/understanding-generics-in-typescript-the-key-to-reusable-type-safe-code-2963)
-- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
-- [Organizing Tests with Clarity: the Unfolding Tests Technique](https://dev.to/augustohub-br/organizing-tests-with-clarity-the-unfolding-tests-technique-195d)
+- [KEXP: Babe Rainbow - Sunday &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-2cb3)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-31)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-1k8h)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3o9j)
 <!-- BLOG-POST-LIST:END -->
 
 
