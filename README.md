@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-36c0)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-5gkb)
-- [IGN: How Absolum Mixes Beat-Em-Up and Roguelite Gameplay Loops To Get You Hooked - Beyond Clips](https://dev.to/gg_news/ign-how-absolum-mixes-beat-em-up-and-roguelite-gameplay-loops-to-get-you-hooked-beyond-clips-ifh)
-- [IGN: Battlefield 6 Campaign Review](https://dev.to/gg_news/ign-battlefield-6-campaign-review-296j)
+- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
+- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
+- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
+- [Vibe Coding](https://dev.to/aly_route_37d926a408b137f/vibe-coding-1cd)
 <!-- BLOG-POST-LIST:END -->
 
 
