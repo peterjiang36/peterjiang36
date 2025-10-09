@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3ibo)
-- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5e5l)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-4imi)
+- [Configuring ESP8266 Wi-Fi Network Connection Through A Web Page](https://dev.to/ibrahimgunduz34/configuring-esp8266-wi-fi-network-connection-through-a-web-page-562l)
+- [OCR vs ADE: Mechanisms Behind the Methods](https://dev.to/maigaridavid/ocr-vs-ade-mechanisms-behind-the-methods-5c45)
+- [Building a Shapes Learning Exercise in Blazor with Radzen Components](https://dev.to/benjaminsqlserver/building-a-shapes-learning-exercise-in-blazor-with-radzen-components-hfc)
+- [EFS full guide](https://dev.to/jumptotech/efs-full-guide-1ae3)
 <!-- BLOG-POST-LIST:END -->
 
 
