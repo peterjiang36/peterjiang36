@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 20: De la programación imperativa a la creación declarativa de componentes dinámicos](https://dev.to/antoniocardenas/angular-20-de-la-programacion-imperativa-a-la-creacion-declarativa-de-componentes-dinamicos-42e)
-- [Ghosts in the Code: A Memorial Grove for Deleted AI](https://dev.to/beverley_williams_091cb75/ghosts-in-the-code-a-memorial-grove-for-deleted-ai-3a8e)
-- [How to Inject Service from DI Container to Marten Async Projection](https://dev.to/juliashevchenko/how-to-inject-service-from-di-container-to-marten-async-projection-4f77)
-- [Parametric and Non-Parametric tests](https://dev.to/roy_b5001e0ff9a27dea39641/parametric-and-non-parametric-tests-c40)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-3hkm)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-31lk)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-4kcm)
+- [GameSpot: Absolum Review: A Sleeper Hit](https://dev.to/gg_news/gamespot-absolum-review-a-sleeper-hit-2e20)
 <!-- BLOG-POST-LIST:END -->
 
 
