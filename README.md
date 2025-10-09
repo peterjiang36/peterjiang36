@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 9](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-9-12dl)
-- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 8](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-8-2ppl)
-- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 7](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-7-3adl)
-- [Dart Object Oriented For Beginner : Expense Manager Case Study Part 6](https://dev.to/dosenngoding/dart-object-oriented-for-beginner-expense-manager-case-study-part-6-1b5e)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-5896)
+- [Title: Best Practices for Variable Naming in Python](https://dev.to/yagyaraj_sharma_6cd410179/title-best-practices-for-variable-naming-in-python-dc4)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_06022d8b/beyond-env-a-grown-ups-guide-to-application-configuration-1em9)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3d9p)
 <!-- BLOG-POST-LIST:END -->
 
 
