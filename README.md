@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Most Common Terminal Commands Explained To A Beginner 😎](https://dev.to/kevmongare/10-most-common-terminal-commands-explained-to-a-beginner-2i78)
-- [Anonio — Anonymous E2E Chat with Voice &amp; Video](https://dev.to/m6jo9/anonio-anonymous-e2e-chat-with-voice-video-56ki)
-- [Smartwatch vs Fitness Tracker: Making the Right Choice](https://dev.to/phoneexits/smartwatch-vs-fitness-tracker-making-the-right-choice-4ai2)
-- [🚀 Rive Presentation Mode — The Smart Fix for Embed Hosting 🎥](https://dev.to/uianimation/rive-presentation-mode-the-smart-fix-for-embed-hosting-2jje)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-36c0)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-5gkb)
+- [IGN: How Absolum Mixes Beat-Em-Up and Roguelite Gameplay Loops To Get You Hooked - Beyond Clips](https://dev.to/gg_news/ign-how-absolum-mixes-beat-em-up-and-roguelite-gameplay-loops-to-get-you-hooked-beyond-clips-ifh)
+- [IGN: Battlefield 6 Campaign Review](https://dev.to/gg_news/ign-battlefield-6-campaign-review-296j)
 <!-- BLOG-POST-LIST:END -->
 
 
