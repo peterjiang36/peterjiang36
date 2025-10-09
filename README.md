@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with SQL Date Comparisons](https://dev.to/dbvismarketing/working-with-sql-date-comparisons-4a9e)
-- [Free JSON to Dart Model Generator for Flutter Developers Save Hours of Coding](https://dev.to/maulikthakrar/free-json-to-dart-model-generator-for-flutter-developers-save-hours-of-coding-24a7)
-- [Indexing, Hashing](https://dev.to/mugiil_b_dc9b71601cba396/indexing-hashing-4j0i)
-- [ListOn - Directory &amp; Listing HTML Template](https://dev.to/packmycode/liston-directory-listing-html-template-dhc)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-g81)
+- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-3ibo)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-5e5l)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-4imi)
 <!-- BLOG-POST-LIST:END -->
 
 
