@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Latest in Railroad Industry News: Updates and Analysis](https://dev.to/ayesha-diaz/the-latest-in-railroad-industry-news-updates-and-analysis-37k2)
-- [Why Most African Websites Fail — And How to Succeed in 2025](https://dev.to/service_maxsell_64ece3f66/why-most-african-websites-fail-and-how-to-succeed-in-2025-e53)
-- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
-- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4me2)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-1l3c)
+- [KEXP: Hunx and His Punx - Wild Boys &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-wild-boys-live-on-kexp-9em)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4174)
 <!-- BLOG-POST-LIST:END -->
 
 
