@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/bujang/-23kf)
-- [DEV.to API v1 自动发布测试](https://dev.to/_85a948a4d50d6306d7ea9/devto-api-v1-zi-dong-fa-bu-ce-shi-fk5)
-- [Part-117: 🚀 Google Kubernetes Engine &lpar;GKE&rpar; — Vertical Pod Autoscaling &lpar;VPA&rpar;](https://dev.to/latchudevops/part-117-google-kubernetes-engine-gke-vertical-pod-autoscaling-vpa-3750)
-- [🚀 Why Docker, Kubernetes, and Microservices Are the Foundation of Scalable Applications](https://dev.to/steven_nguyen/why-docker-kubernetes-and-microservices-are-the-foundation-of-scalable-applications-291p)
+- [💥 Myth #14: Architecture work must follow a fixed, waterfall-like sequence](https://dev.to/tmorin/myth-14-architecture-work-must-follow-a-fixed-waterfall-like-sequence-lo6)
+- [Unlock the Power of AI for Financial Forecasting: Smarter Decisions, Faster Growth](https://dev.to/fozia_tabasum_3084025d051/unlock-the-power-of-ai-for-financial-forecasting-smarter-decisions-faster-growth-gb)
+- [Vibe Coding: When to Use It, When to Be Careful](https://dev.to/rio14/vibe-coding-when-to-use-it-when-to-be-careful-17c4)
+- [Database Normalization: From 1NF to 3NF Explained](https://dev.to/mugiil_b_dc9b71601cba396/database-normalization-from-1nf-to-3nf-explained-7nl)
 <!-- BLOG-POST-LIST:END -->
 
 
