@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2gob)
-- [GameSpot: ThE BeST DEal iN GAmiNG](https://dev.to/gg_news/gamespot-the-best-deal-in-gaming-2cde)
-- [GameSpot: Pokémon Legends Z-A Everything To Know](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-everything-to-know-7j1)
-- [GameSpot: $100 to Craft the Best Steam Sale Cart](https://dev.to/gg_news/gamespot-100-to-craft-the-best-steam-sale-cart-5e46)
+- [The Latest in Railroad Industry News: Updates and Analysis](https://dev.to/ayesha-diaz/the-latest-in-railroad-industry-news-updates-and-analysis-37k2)
+- [Why Most African Websites Fail — And How to Succeed in 2025](https://dev.to/service_maxsell_64ece3f66/why-most-african-websites-fail-and-how-to-succeed-in-2025-e53)
+- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
+- [B2B Service](https://dev.to/arjun_pandit_d2609ad8e672/b2b-service-16n5)
 <!-- BLOG-POST-LIST:END -->
 
 
