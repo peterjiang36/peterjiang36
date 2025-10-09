@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-3c6a)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-3j96)
-- [IGN: How Absolum Mixes Beat-Em-Up and Roguelite Gameplay Loops To Get You Hooked - Beyond Clips](https://dev.to/gg_news/ign-how-absolum-mixes-beat-em-up-and-roguelite-gameplay-loops-to-get-you-hooked-beyond-clips-1958)
-- [IGN: Vicious - Official &#39;A Vicious Look&#39; Behind the Scenes Clip &lpar;2025&rpar; Dakota Fanning, Kathryn Hunter](https://dev.to/gg_news/ign-vicious-official-a-vicious-look-behind-the-scenes-clip-2025-dakota-fanning-kathryn-3o4m)
+- [TCJSGame Speed.js: The 60 FPS Game Loop Revolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-speedjs-the-60-fps-game-loop-revolution-1ffo)
+- [The Custom Alarm Codes: Creating Your Own Exceptions](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-alarm-codes-creating-your-own-exceptions-8oo)
+- [Is Web Development Fragmenting Into Too Many Stacks?](https://dev.to/lamri_abdellahramdane_15/is-web-development-fragmenting-into-too-many-stacks-3949)
+- [Sobre os critérios a serem usados na decomposição de Interfaces em Componentes e Módulos](https://dev.to/gurigraphics/sobre-os-criterios-a-serem-usados-na-decomposicao-de-interfaces-em-componentes-e-modulos-111a)
 <!-- BLOG-POST-LIST:END -->
 
 
