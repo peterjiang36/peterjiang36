@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Myth #14: Architecture work must follow a fixed, waterfall-like sequence](https://dev.to/tmorin/myth-14-architecture-work-must-follow-a-fixed-waterfall-like-sequence-lo6)
-- [Unlock the Power of AI for Financial Forecasting: Smarter Decisions, Faster Growth](https://dev.to/fozia_tabasum_3084025d051/unlock-the-power-of-ai-for-financial-forecasting-smarter-decisions-faster-growth-gb)
-- [Vibe Coding: When to Use It, When to Be Careful](https://dev.to/rio14/vibe-coding-when-to-use-it-when-to-be-careful-17c4)
-- [Database Normalization: From 1NF to 3NF Explained](https://dev.to/mugiil_b_dc9b71601cba396/database-normalization-from-1nf-to-3nf-explained-7nl)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3ko3)
+- [A Universal File Format N Times Faster Than CSV](https://dev.to/esproc_spl/a-universal-file-format-n-times-faster-than-csv-3k2b)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-5472)
+- [GameSpot: Call of Duty Developers Share Their Favorite Loadouts in Call of Duty: Black Ops 7](https://dev.to/gg_news/gamespot-call-of-duty-developers-share-their-favorite-loadouts-in-call-of-duty-black-ops-7-ga3)
 <!-- BLOG-POST-LIST:END -->
 
 
