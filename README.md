@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing API Docs Twice: Introducing @restdocs for Next.js](https://dev.to/charlie_1bafbc034dd4d9b0d/stop-writing-api-docs-twice-introducing-restdocs-for-nextjs-270k)
-- [Your Complete Event Sourcing Toolkit: The Genesis DB VS Code Extension](https://dev.to/patriceckhart/your-complete-event-sourcing-toolkit-the-genesis-db-vs-code-extension-36d2)
-- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_06022d8b/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-ife)
-- [Components in react](https://dev.to/swetha_palani_1547914a082/components-in-react-443d)
+- [GameSpot: Battlefield 6 - Official Launch Hype Trailer](https://dev.to/gg_news/gamespot-battlefield-6-official-launch-hype-trailer-2nj9)
+- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-56g5)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-lo3)
+- [GameSpot: Absolum Review: A Sleeper Hit](https://dev.to/gg_news/gamespot-absolum-review-a-sleeper-hit-5cb5)
 <!-- BLOG-POST-LIST:END -->
 
 
