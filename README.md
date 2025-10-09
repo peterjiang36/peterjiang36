@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Disaster Strikes, Be the First Call: Branding Lessons for Restoration Pros](https://dev.to/angela_ash_6da09e1fd957c1/when-disaster-strikes-be-the-first-call-branding-lessons-for-restoration-pros-25cl)
-- [Google Veo 3.1 is on the way...](https://dev.to/ahmetmertugrul/google-veo-31-is-on-the-way-4jd0)
-- [Silence Can Be Golden &lpar;If You Learn How To Paint&rpar;](https://dev.to/duplessisvanaswegen/silence-can-be-golden-if-you-learn-how-to-paint-4eb4)
-- [Vibe Coding](https://dev.to/aly_route_37d926a408b137f/vibe-coding-1cd)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-3c6a)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-3j96)
+- [IGN: How Absolum Mixes Beat-Em-Up and Roguelite Gameplay Loops To Get You Hooked - Beyond Clips](https://dev.to/gg_news/ign-how-absolum-mixes-beat-em-up-and-roguelite-gameplay-loops-to-get-you-hooked-beyond-clips-1958)
+- [IGN: Vicious - Official &#39;A Vicious Look&#39; Behind the Scenes Clip &lpar;2025&rpar; Dakota Fanning, Kathryn Hunter](https://dev.to/gg_news/ign-vicious-official-a-vicious-look-behind-the-scenes-clip-2025-dakota-fanning-kathryn-3o4m)
 <!-- BLOG-POST-LIST:END -->
 
 
