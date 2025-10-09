@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I created a Java e-commerce platform when I just wanted to help my brother](https://dev.to/ruslan5t/how-i-created-a-java-e-commerce-platform-when-i-just-wanted-to-help-my-brother-3pmo)
-- [AI Innovations Drive Economic Shifts Amidst Growing Ethical Scrutiny](https://dev.to/antony_brahin_f47b663f3a0/ai-innovations-drive-economic-shifts-amidst-growing-ethical-scrutiny-6li)
-- [shadcn/ui Map: Interactive map component for shadcn/ui projects](https://dev.to/jqueryscript/shadcnui-map-interactive-map-component-for-shadcnui-projects-3ejh)
-- [The Custom Portal Design: Building Your Own Context Managers](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-portal-design-building-your-own-context-managers-npl)
+- [AI&#39;s Rapid Evolution: Models, Markets, and Mounting Ethical Concerns](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-evolution-models-markets-and-mounting-ethical-concerns-2hj5)
+- [How Technical SEO Shapes SaaS Growth in 2025](https://dev.to/zhngryn/how-technical-seo-shapes-saas-growth-in-2025-6d)
+- [Setting up Automatic Deployment from one repository to another](https://dev.to/tousifizaz/setting-up-automatic-deployment-from-one-repository-to-another-33ce)
+- [App](https://dev.to/rushikesh_pundkar_913318c/app-2k4b)
 <!-- BLOG-POST-LIST:END -->
 
 
