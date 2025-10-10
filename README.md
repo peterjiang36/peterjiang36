@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Library Method: Understanding @cache](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-cache-57l1)
-- [Hacktoberfest Week 1](https://dev.to/kphero/hacktoberfest-week-1-53mh)
-- [Understanding `&#39;PropsWithChildren&#39;` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie)
-- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c)
+- [Pipeline em Go - Compondo operações de forma elegante e simples](https://dev.to/renanbastos93/pipeline-em-go-compondo-operacoes-de-forma-elegante-e-simples-16p3)
+- [Controlling Concurrency in Go with the Semaphore Pattern](https://dev.to/siffiyan_assauri_51ec6d1b/controlling-concurrency-in-go-with-the-semaphore-pattern-24in)
+- [A small number of samples can poison LLMs of any size](https://dev.to/technoblogger14o3/a-small-number-of-samples-can-poison-llms-of-any-size-1i87)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-3cmn)
 <!-- BLOG-POST-LIST:END -->
 
 
