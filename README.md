@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From CAP to GAP?](https://dev.to/omanfk/from-cap-to-gap-269h)
-- [Make Any Angular List Draggable in Minutes](https://dev.to/brianmtreese/make-any-angular-list-draggable-in-minutes-3fmb)
-- [Building Production-Ready AI Agents with Amazon Bedrock AgentCore.](https://dev.to/kraisorn_prasoetsang/building-production-ready-ai-agents-with-amazon-bedrock-agentcore-hdn)
-- [Every Line of Code Is a Philosophy in Disguise](https://dev.to/rohit_gavali_0c2ad84fe4e0/every-line-of-code-is-a-philosophy-in-disguise-51lf)
+- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-43go)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-5e74)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-58e7)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3ckm)
 <!-- BLOG-POST-LIST:END -->
 
 
