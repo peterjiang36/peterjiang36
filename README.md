@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline em Go - Compondo operações de forma elegante e simples](https://dev.to/renanbastos93/pipeline-em-go-compondo-operacoes-de-forma-elegante-e-simples-16p3)
-- [Controlling Concurrency in Go with the Semaphore Pattern](https://dev.to/siffiyan_assauri_51ec6d1b/controlling-concurrency-in-go-with-the-semaphore-pattern-24in)
-- [A small number of samples can poison LLMs of any size](https://dev.to/technoblogger14o3/a-small-number-of-samples-can-poison-llms-of-any-size-1i87)
-- [COLORS: Ray Vaughn | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-a-colors-show-3cmn)
+- [Building Smarter Embedded Devices with TFT LCDs and Android SBCs](https://dev.to/lauraaa/building-smarter-embedded-devices-with-tft-lcds-and-android-sbcs-25ke)
+- [🚀 Building a Serverless TODO App with AWS + Vercel — My First AWS Project](https://dev.to/balaji_sivakumar_e7a4b07a/building-a-serverless-todo-app-with-aws-vercel-my-first-aws-project-1h1m)
+- [From Script Chaos to AI-Powered Efficiency: How EchoAPI Transforms Dynamic Variable Generation in API Testing](https://dev.to/eleanor_fairfax_5ce95399d/from-script-chaos-to-ai-powered-efficiency-how-echoapi-transforms-dynamic-variable-generation-in-37k4)
+- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
 <!-- BLOG-POST-LIST:END -->
 
 
