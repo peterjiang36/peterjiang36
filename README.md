@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Smarter Embedded Devices with TFT LCDs and Android SBCs](https://dev.to/lauraaa/building-smarter-embedded-devices-with-tft-lcds-and-android-sbcs-25ke)
-- [🚀 Building a Serverless TODO App with AWS + Vercel — My First AWS Project](https://dev.to/balaji_sivakumar_e7a4b07a/building-a-serverless-todo-app-with-aws-vercel-my-first-aws-project-1h1m)
-- [From Script Chaos to AI-Powered Efficiency: How EchoAPI Transforms Dynamic Variable Generation in API Testing](https://dev.to/eleanor_fairfax_5ce95399d/from-script-chaos-to-ai-powered-efficiency-how-echoapi-transforms-dynamic-variable-generation-in-37k4)
-- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
+- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-4hj9)
+- [GameSpot: Absolum Review: A Sleeper Hit](https://dev.to/gg_news/gamespot-absolum-review-a-sleeper-hit-160g)
+- [GameSpot: What is the BEST non-GTA/Red Dead Rockstar Game?](https://dev.to/gg_news/gamespot-what-is-the-best-non-gtared-dead-rockstar-game-4oin)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-59ha)
 <!-- BLOG-POST-LIST:END -->
 
 
