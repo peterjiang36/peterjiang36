@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-lej)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-4km1)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-4e04)
-- [IGN: Now You See Me: Now You Don’t - Official &#39;Magic Showdown&#39; Clip &lpar;2025&rpar; Jesse Eisenberg](https://dev.to/gg_news/ign-now-you-see-me-now-you-dont-official-magic-showdown-clip-2025-jesse-eisenberg-4874)
+- [TLDR; Google Auth in ReactJS using Supabase](https://dev.to/thechaudhrysab/tldr-google-auth-in-reactjs-using-supabase-h16)
+- [js13kGames 2025 criteria rankings](https://dev.to/js13kgames/js13kgames-2025-criteria-rankings-3ao0)
+- [How static analysis encourages developers to refactor code: Another look at Source SDK](https://dev.to/pvsdev/how-static-analysis-encourages-developers-to-refactor-code-another-look-at-source-sdk-2mjn)
+- [RecGen: a powerful tool to create recommendation systems](https://dev.to/rec_gen_project/recgen-a-powerful-tool-to-create-recommendation-systems-2h5m)
 <!-- BLOG-POST-LIST:END -->
 
 
