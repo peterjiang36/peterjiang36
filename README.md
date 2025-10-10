@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
-- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4co9)
-- [NPR Music: Macario Martinez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-macario-martinez-tiny-desk-concert-20ef)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-559i)
+- [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
+- [How to Migrate from Sanity to Strapi: Complete Step-by-Step Guide](https://dev.to/strapi/how-to-migrate-from-sanity-to-strapi-complete-step-by-step-guide-16nm)
+- [Building Scalable Multi-Tenant Integrations: Lessons from Real-World SaaS Projects](https://dev.to/genesis_technologies/building-scalable-multi-tenant-integrations-lessons-from-real-world-saas-projects-43cl)
+- [An AI Literally Attempted Murder To Avoid Shutdown:](https://dev.to/dehemi_fabio/an-ai-literally-attempted-murder-to-avoid-shutdown-716)
 <!-- BLOG-POST-LIST:END -->
 
 
