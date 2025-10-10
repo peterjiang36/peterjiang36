@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2kl4)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-538f)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-4a8k)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-424j)
+- [ZKP](https://dev.to/nairsreya/zkp-2o8j)
+- [5 Most Used Excel Functions by Data Analysts &lpar;And Why You Should Master Them&rpar;](https://dev.to/imliami0dev/5-most-used-excel-functions-by-data-analysts-and-why-you-should-master-them-3ahp)
+- [My First PR into the Hactoberfest...](https://dev.to/hsachdeva9/my-first-pr-into-the-hactoberfest-3da3)
+- [LatamBoard: Building Open, Transparent AI Evaluation for Latin America](https://dev.to/mauro_ibaez_f9e7f91f932a/latamboard-building-open-transparent-ai-evaluation-for-latin-america-2kp7)
 <!-- BLOG-POST-LIST:END -->
 
 
