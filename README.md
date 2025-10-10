@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-3ono)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-2ao5)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4e5h)
-- [IGN: Why Xbox Can’t Give Up on Hardware - Next-Gen Console Watch](https://dev.to/gg_news/ign-why-xbox-cant-give-up-on-hardware-next-gen-console-watch-3n1g)
+- [🚀 Week 3 – Spring Data JPA &amp; CRUD Operations in Spring Boot](https://dev.to/tejasvi_urkande/week-3-spring-data-jpa-crud-operations-in-spring-boot-26bg)
+- [Building a Task Management MCP Server with Laravel](https://dev.to/blamsa0mine/building-a-task-management-mcp-server-with-laravel-1eed)
+- [AWS EC2 Series](https://dev.to/ntsezenelvis/aws-ec2-series-53i5)
+- [What is a Large Language Model &lpar;LLM&rpar;](https://dev.to/snehalkadwe/what-is-a-large-language-model-llm-2gca)
 <!-- BLOG-POST-LIST:END -->
 
 
