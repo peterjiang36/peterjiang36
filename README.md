@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TCJSGame Speed.js: The 60 FPS Game Loop Revolution](https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-speedjs-the-60-fps-game-loop-revolution-1ffo)
-- [The Custom Alarm Codes: Creating Your Own Exceptions](https://dev.to/aaron_rose_0787cc8b4775a0/the-custom-alarm-codes-creating-your-own-exceptions-8oo)
-- [Is Web Development Fragmenting Into Too Many Stacks?](https://dev.to/lamri_abdellahramdane_15/is-web-development-fragmenting-into-too-many-stacks-3949)
-- [Sobre os critérios a serem usados na decomposição de Interfaces em Componentes e Módulos](https://dev.to/gurigraphics/sobre-os-criterios-a-serem-usados-na-decomposicao-de-interfaces-em-componentes-e-modulos-111a)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-noh)
+- [KEXP: Hunx and His Punx - Mud In Your Eyes &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-mud-in-your-eyes-live-on-kexp-394b)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-17mi)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-260h)
 <!-- BLOG-POST-LIST:END -->
 
 
