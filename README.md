@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-lkk)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-4g8e)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-ngc)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-13p4)
+- [[Fix] Burp Suite crashing on Kali ARM64 &lpar;Apple Silicon / QEMU&rpar;](https://dev.to/yarkhan02/fix-burp-suite-crashing-on-kali-arm64-apple-silicon-qemu-3d99)
+- [Splitting a Number into Digits](https://dev.to/ayush_mishra_be0655d6b0d6/splitting-a-number-into-digits-3a4m)
+- [50 Most Useful SASS Snippets](https://dev.to/softwaredeveloper01/50-most-useful-sass-snippets-3m8o)
+- [Getting Started with Docker Compose: A Hands-On Guide to Multi-Container Applications](https://dev.to/theodora_e6f61d02577a5f06/getting-started-with-docker-compose-a-hands-on-guide-to-multi-container-applications-4lom)
 <!-- BLOG-POST-LIST:END -->
 
 
