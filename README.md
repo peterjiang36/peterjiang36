@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring .NET Dependency Injection Lifetimes with Real Examples](https://dev.to/fakestandard/exploring-net-dependency-injection-lifetimes-with-real-examples-49do)
-- [React Native&#39;s Hidden Gem: useMemo &amp; useCallback - Stop Re-rendering Everything! 🚀](https://dev.to/aman_hussain_shaikh/react-natives-hidden-gem-usememo-usecallback-stop-re-rendering-everything-1fnp)
-- [Ansible automation with AWX: an overview and how to get started](https://dev.to/atixag/ansible-automation-with-awx-an-overview-and-how-to-get-started-3m7n)
-- [I Got My Windows-Only Unreal Engine Plugins Running on Linux! Here&#39;s the Full Story 🐧🚀](https://dev.to/taku25/i-got-my-windows-only-unreal-engine-plugins-running-on-linux-heres-the-full-story-2ob)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2e9b)
+- [KEXP: Hunx and His Punx - No Way Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-4co9)
+- [NPR Music: Macario Martinez: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-macario-martinez-tiny-desk-concert-20ef)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don&#39;t Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-559i)
 <!-- BLOG-POST-LIST:END -->
 
 
