@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3efl)
-- [Mastering In-Sprint Quality for Faster Releases - CI, Code Reviews &amp; Collaboration](https://dev.to/idavidov13/mastering-in-sprint-quality-for-faster-releases-ci-code-reviews-collaboration-4pmd)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1io0)
-- [GameSpot: ROG Xbox Ally and Ally X: Everything To Know](https://dev.to/gg_news/gamespot-rog-xbox-ally-and-ally-x-everything-to-know-1po2)
+- [Building a Real-Time YouTube Analytics Platform with Airflow, PostgreSQL &amp; Grafana](https://dev.to/augo_amos/building-a-real-time-youtube-analytics-platform-with-airflow-postgresql-grafana-1k12)
+- [Condiciones y devoluciones](https://dev.to/taxialicante/condiciones-y-devoluciones-547g)
+- [Bulk WhatsApp Messaging](https://dev.to/sourabh_sharma_7b8b8679e5/bulk-whatsapp-messaging-1ep4)
+- [Mastering Bulk Messaging with Triochat](https://dev.to/sourabh_sharma_7b8b8679e5/mastering-bulk-messaging-with-triochat-1bjo)
 <!-- BLOG-POST-LIST:END -->
 
 
