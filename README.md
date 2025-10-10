@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Will Halo be Saved or Destroyed?](https://dev.to/gg_news/gamespot-will-halo-be-saved-or-destroyed-4hj9)
-- [GameSpot: Absolum Review: A Sleeper Hit](https://dev.to/gg_news/gamespot-absolum-review-a-sleeper-hit-160g)
-- [GameSpot: What is the BEST non-GTA/Red Dead Rockstar Game?](https://dev.to/gg_news/gamespot-what-is-the-best-non-gtared-dead-rockstar-game-4oin)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-59ha)
+- [Part-2: AWS Global Infrastructure | Amazon Web Services](https://dev.to/olymahmud/part-2-aws-global-infrastructure-amazon-web-services-2n2f)
+- [How We Built KudiPod - A Fast, Modern Business Management App for Everyday Entrepreneurs](https://dev.to/cizonet/how-we-built-kudipod-a-fast-modern-business-management-app-for-everyday-entrepreneurs-54a6)
+- [Why QA Should Be Involved Early in the Software Development Lifecycle](https://dev.to/misterankit/why-qa-should-be-involved-early-in-the-software-development-lifecycle-169g)
+- [11 Best App Development Courses to Take in 2026](https://dev.to/stack_overflowed/11-best-app-development-courses-to-take-in-2026-54m4)
 <!-- BLOG-POST-LIST:END -->
 
 
