@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025](https://dev.to/angelodotnet/hacktoberfest-2025-5549)
-- [Battle-Tested Coroutines: Advanced Tactics &amp; Common Traps](https://dev.to/kavearhasi_viswanathan/battle-tested-coroutines-advanced-tactics-common-traps-31e9)
-- [From Dashboards to Decisions: Building Self Service BI That Scales with AI](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-self-service-bi-that-scales-with-ai-2ica)
-- [Understanding Callbacks in JavaScript: A Beginner’s Guide to Asynchronous Programming](https://dev.to/wisdomudo/understanding-callbacks-in-javascript-a-beginners-guide-to-asynchronous-programming-5hb6)
+- [GameSpot: Why The Warriors is Rockstars BEST &lpar;non-GTA/Red Dead&rpar; Game](https://dev.to/gg_news/gamespot-why-the-warriors-is-rockstars-best-non-gtared-dead-game-4dnl)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-2onb)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4jih)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-42b1)
 <!-- BLOG-POST-LIST:END -->
 
 
