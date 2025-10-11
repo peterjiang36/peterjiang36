@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
-- [Groups in Filament v4](https://dev.to/johndivam/groups-in-filament-v4-3m6k)
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-2-5a3f)
-- [Building a clean Energy Data Pipeline for Africa&lpar; from raw CSVs to MongoDB&rpar;](https://dev.to/anangwemike/building-a-clean-energy-data-pipeline-for-africa-from-raw-csvs-to-mongodb-23l2)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2kh3)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-5j7)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-11pb)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-fbh)
 <!-- BLOG-POST-LIST:END -->
 
 
