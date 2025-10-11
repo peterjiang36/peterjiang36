@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-j9j)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-22n4)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-4bj8)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-2lbg)
+- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia)
+- [Introducing Honey Nudger, and Why We&#39;re Launching with a Founder&#39;s Circle](https://dev.to/honeynudger/introducing-honey-nudger-and-why-were-launching-with-a-founders-circle-2o1c)
+- [Wild and Dangling Pointers in C](https://dev.to/godinhojoao/wild-and-dangling-pointers-in-c-3kj5)
+- [Day 3 – Understanding HTTP &amp; HTTPS: The Backbone of the Web](https://dev.to/bblackwind/day-3-understanding-http-https-the-backbone-of-the-web-34ad)
 <!-- BLOG-POST-LIST:END -->
 
 
