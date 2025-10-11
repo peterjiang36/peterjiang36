@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4hm6)
-- [The Game Theorists: Game Theory: Is Silksong ACTUALLY Too Hard?](https://dev.to/gg_news/the-game-theorists-game-theory-is-silksong-actually-too-hard-1ckb)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-5jg)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3f50)
+- [[Boost]](https://dev.to/fmerian/-n16)
+- [Why I&#39;m Building My Own Distributed Database &lpar;And Why You Should Too&rpar;](https://dev.to/namanvashistha/why-im-building-my-own-distributed-database-and-why-you-should-too-32p5)
+- [Leveling Up in Back-End Development with Meta’s Coursera Course 🚀](https://dev.to/thiyagu26v/leveling-up-in-back-end-development-with-metas-coursera-course-37h0)
+- [Simplifiez vos workflows DevOps avec Task, le &quot;Makefile&quot; moderne](https://dev.to/laformulenuagique/simplifiez-vos-workflows-devops-avec-task-le-makefile-moderne-1coa)
 <!-- BLOG-POST-LIST:END -->
 
 
