@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Why The Warriors is Rockstars BEST &lpar;non-GTA/Red Dead&rpar; Game](https://dev.to/gg_news/gamespot-why-the-warriors-is-rockstars-best-non-gtared-dead-game-4dnl)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-2onb)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4jih)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-42b1)
+- [Built Vitality — An AI Wellness App That Actually Feels Useful](https://dev.to/kapillamba4/built-vitality-an-ai-wellness-app-that-actually-feels-useful-3m99)
+- [PSHCkS ARTICLES BY FLEXI DEV STUDIO ;TRUTH HACKS](https://dev.to/flexi_dev_4c0ce990523a164/pshcks-articles-by-flexi-dev-studio-truth-hacks-ill)
+- [FlexGlance; The weather reimagined✨](https://dev.to/flexi_dev_4c0ce990523a164/flexglance-the-weather-reimagined-36a)
+- [When I tell people I&#39;ve written 42 AI books using ChatGPT as my co-pilot, their first reaction is usually:
+
+“Which tool did you use?”
+
+But here’s the truth: &quot;The tool doesn’t matter. The prompting system does.&quot;](https://dev.to/jaideepparashar/when-i-tell-people-ive-written-42-ai-books-using-chatgpt-as-my-co-pilot-their-first-reaction-is-3cn7)
 <!-- BLOG-POST-LIST:END -->
 
 
