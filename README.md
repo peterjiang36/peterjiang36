@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How Small Daily Habits Improve Mental Health &lpar;NIMH-Backed Self-Care Strategies&rpar;](https://dev.to/nvelup_e92618d5196e8d9f43/how-small-daily-habits-improve-mental-health-nimh-backed-self-care-strategies-56nf)
-- [ColorBooks AI: Coloring Books &amp; 3D FlipBooks Maker AI App Review](https://dev.to/sahabul_alam_9cb27ddc3cab/colorbooks-ai-coloring-books-3d-flipbooks-maker-ai-app-review-74g)
-- [Deploy Decentralized AI with VoltageGPU: Benchmarks vs AWS and API Guide](https://dev.to/voltage_gpu_db08b707ad8be/deploy-decentralized-ai-with-voltagegpu-benchmarks-vs-aws-and-api-guide-22f2)
-- [🏦 Day 11 of #30DaysOfSolidity — Building a Secure Vault with Ownable + VaultMaster 🔐](https://dev.to/sauravkumar8178/day-11-of-30daysofsolidity-building-a-secure-vault-with-ownable-vaultmaster-4d2m)
+- [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
+- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
+- [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
+- [Selectorless Components in Angular 20+: The Secret Agents of the Modern Framework](https://dev.to/nurrehman/selectorless-components-in-angular-20-the-secret-agents-of-the-modern-framework-4dfk)
 <!-- BLOG-POST-LIST:END -->
 
 
