@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2kh3)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-5j7)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-11pb)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-fbh)
+- [A tangled web of deals stokes AI bubble fears in Silicon Valley](https://dev.to/mabualzait/a-tangled-web-of-deals-stokes-ai-bubble-fears-in-silicon-valley-1ll4)
+- [AI268: Developing &amp; Deploying AI/ML on OpenShift AI &lpar;with Exam&rpar;](https://dev.to/sindhuja_ns_1e491ce1088d/ai268-developing-deploying-aiml-on-openshift-ai-with-exam-21kj)
+- [AMD and Sony&#39;s PS6 chipset aims to rethink the current graphics pipeline](https://dev.to/technoblogger14o3/amd-and-sonys-ps6-chipset-aims-to-rethink-the-current-graphics-pipeline-12lm)
+- [How I Built a Sweet Niche Site About Chocolate Spreads Using WordPress + SEO Tools](https://dev.to/atif_e707a02c32c940bde497/how-i-built-a-sweet-niche-site-about-chocolate-spreads-using-wordpress-seo-tools-251j)
 <!-- BLOG-POST-LIST:END -->
 
 
