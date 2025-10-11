@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategy Design Pattern in Java](https://dev.to/akshay161099/strategy-design-pattern-in-java-3402)
-- [# Grammar &amp; Punctuation Practice for Kids: Why It Matters &amp; How to Make It Fun](https://dev.to/mind_oriented_8b9d3b2c009/-grammar-punctuation-practice-for-kids-why-it-matters-how-to-make-it-fun-c4o)
-- [Why You Should Avoid Nested Try-Catch Statements](https://dev.to/mcheremnov/why-you-should-avoid-nested-try-catch-statements-2doa)
-- [文章_1760175764](https://dev.to/_2c78f2211e58fb9c5f4cf/wen-zhang-1760175764-8ie)
+- [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
+- [Groups in Filament v4](https://dev.to/johndivam/groups-in-filament-v4-3m6k)
+- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 2](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-2-5a3f)
+- [Building a clean Energy Data Pipeline for Africa&lpar; from raw CSVs to MongoDB&rpar;](https://dev.to/anangwemike/building-a-clean-energy-data-pipeline-for-africa-from-raw-csvs-to-mongodb-23l2)
 <!-- BLOG-POST-LIST:END -->
 
 
