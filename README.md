@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis: The Unsung Hero of Modern Software Architecture](https://dev.to/igornosatov_15/redis-the-unsung-hero-of-modern-software-architecture-1866)
-- [Review of the Substack platform in 2019](https://dev.to/leon_lin_s/review-of-the-substack-platform-in-2019-59pe)
-- [HOW EMBEDDINGS POWER DAILY SYSTEMS](https://dev.to/geo-hack/how-embeddings-power-daily-systems-1jnb)
-- [Day 2: Starting of MERN stack journey from the prerequisites &lpar;CSS&rpar;](https://dev.to/niladri_banerjee_98/day-2-starting-of-mern-stack-journey-from-the-prerequisites-css-4i7e)
+- [🧠 How Small Daily Habits Improve Mental Health &lpar;NIMH-Backed Self-Care Strategies&rpar;](https://dev.to/nvelup_e92618d5196e8d9f43/how-small-daily-habits-improve-mental-health-nimh-backed-self-care-strategies-56nf)
+- [ColorBooks AI: Coloring Books &amp; 3D FlipBooks Maker AI App Review](https://dev.to/sahabul_alam_9cb27ddc3cab/colorbooks-ai-coloring-books-3d-flipbooks-maker-ai-app-review-74g)
+- [Deploy Decentralized AI with VoltageGPU: Benchmarks vs AWS and API Guide](https://dev.to/voltage_gpu_db08b707ad8be/deploy-decentralized-ai-with-voltagegpu-benchmarks-vs-aws-and-api-guide-22f2)
+- [🏦 Day 11 of #30DaysOfSolidity — Building a Secure Vault with Ownable + VaultMaster 🔐](https://dev.to/sauravkumar8178/day-11-of-30daysofsolidity-building-a-secure-vault-with-ownable-vaultmaster-4d2m)
 <!-- BLOG-POST-LIST:END -->
 
 
