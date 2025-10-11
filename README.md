@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Mail Automation in Python](https://dev.to/nazanin_ashrafi/basic-mail-automation-in-python-22ll)
-- [The Tech Stack That&#39;s Dying in 2025 &lpar;Stop Wasting Time on It&rpar;](https://dev.to/zakriakhanx/the-tech-stack-thats-dying-in-2025-stop-wasting-time-on-it-1k57)
-- [Understanding Latent Space: How Meaning Is Represented by AI](https://dev.to/kaanrkaraman/understanding-latent-space-how-meaning-is-represented-by-ai-35ci)
-- [ML Learning #1 : Linear Regression](https://dev.to/thatmlguy/ml-learning-1-linear-regression-hm0)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4hm6)
+- [The Game Theorists: Game Theory: Is Silksong ACTUALLY Too Hard?](https://dev.to/gg_news/the-game-theorists-game-theory-is-silksong-actually-too-hard-1ckb)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-5jg)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3f50)
 <!-- BLOG-POST-LIST:END -->
 
 
