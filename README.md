@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Almost Backed Out: Being the Only Woman Speaker at AWS Cloud Day Philippines&#39; Developer Lounge](https://dev.to/urielalonso/the-day-i-almost-backed-out-being-the-only-woman-speaker-at-aws-cloud-day-philippines-developer-2jb)
-- [Building a Multi-Region Disaster Recovery Setup on AWS with Terraform](https://dev.to/copubah/building-a-multi-region-disaster-recovery-setup-on-aws-with-terraform-l69)
-- [Modern Bundlers Are Moving Beyond Webpack](https://dev.to/ad99526/modern-bundlers-are-moving-beyond-webpack-3pj6)
-- [Selectorless Components in Angular 20+: The Secret Agents of the Modern Framework](https://dev.to/nurrehman/selectorless-components-in-angular-20-the-secret-agents-of-the-modern-framework-4dfk)
+- [The Game Theorists: Game Theory: Is Silksong ACTUALLY Too Hard?](https://dev.to/gg_news/the-game-theorists-game-theory-is-silksong-actually-too-hard-35ok)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-3j3)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-4n95)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-4bej)
 <!-- BLOG-POST-LIST:END -->
 
 
