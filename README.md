@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Just Killed Traditional Coding - Here&#39;s What&#39;s Next](https://dev.to/ilsa_shaikh_089e2bfab0bf4/ai-just-killed-traditional-coding-heres-whats-next-4pia)
-- [Introducing Honey Nudger, and Why We&#39;re Launching with a Founder&#39;s Circle](https://dev.to/honeynudger/introducing-honey-nudger-and-why-were-launching-with-a-founders-circle-2o1c)
-- [Wild and Dangling Pointers in C](https://dev.to/godinhojoao/wild-and-dangling-pointers-in-c-3kj5)
-- [Day 3 – Understanding HTTP &amp; HTTPS: The Backbone of the Web](https://dev.to/bblackwind/day-3-understanding-http-https-the-backbone-of-the-web-34ad)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5)
+- [KEXP: Wet Leg - davina mccall &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna)
 <!-- BLOG-POST-LIST:END -->
 
 
