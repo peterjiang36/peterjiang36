@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Persistent Solana Docker Environment on Windows &lpar;Without WSL&rpar;](https://dev.to/heyradcode/building-a-persistent-solana-docker-environment-on-windows-without-wsl-388l)
-- [Securing the DevOps Pipeline: Best Practices for DevSecOps in 2025](https://dev.to/ryan-mathews/securing-the-devops-pipeline-best-practices-for-devsecops-in-2025-84)
-- [Refactoring Codes for Maintainability](https://dev.to/denisc96/refactoring-codes-for-maintainability-4gj7)
-- [From Development to Deployment: How DevOps Automation Is Speeding Up Software Releases](https://dev.to/ryan-mathews/from-development-to-deployment-how-devops-automation-is-speeding-up-software-releases-59d1)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-j9j)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-22n4)
+- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-4bj8)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-2lbg)
 <!-- BLOG-POST-LIST:END -->
 
 
