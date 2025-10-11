@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing this for the product design and strategy folks here. While the article is about AI strategy, it&#39;s really a story about product vision.](https://dev.to/shiv-centcapital/sharing-this-for-the-product-design-and-strategy-folks-here-while-the-article-is-about-ai-4ngf)
-- [Reposting this for all the makers and builders. This is a founder&#39;s story and a playbook sharing the lessons from my AWS journey that led me to build my own fintech startup, Cent Capital.](https://dev.to/shiv-centcapital/reposting-this-for-all-the-makers-and-builders-this-is-a-founders-story-and-a-playbook-sharing-4a0l)
-- [Thought the &#39;Future&#39; community would find this interesting. I&#39;m sharing a playbook based on my experience as Head of Gen AI Marketing at AWS, exploring what I believe is the &#39;next act&#39; of the AI revolution.](https://dev.to/shiv-centcapital/thought-the-future-community-would-find-this-interesting-im-sharing-a-playbook-based-on-my-2l80)
-- [Sharing this here from the main DEV feed as the discussion is all about scale. My post digs into the challenges of moving AI from a cool PoC to a cost-effective, enterprise-scale solution, using lessons from my time at AWS.](https://dev.to/shiv-centcapital/sharing-this-here-from-the-main-dev-feed-as-the-discussion-is-all-about-scale-my-post-digs-into-eci)
+- [COLORS: Ray Vaughn - 3PM @ DAIRY | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-vaughn-3pm-dairy-a-colors-show-1geb)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-18o1)
+- [KEXP: Hunx and His Punx - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-30hb)
+- [KEXP: Wet Leg - catch these fists &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-catch-these-fists-live-on-kexp-3347)
 <!-- BLOG-POST-LIST:END -->
 
 
