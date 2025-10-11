@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built Vitality — An AI Wellness App That Actually Feels Useful](https://dev.to/kapillamba4/built-vitality-an-ai-wellness-app-that-actually-feels-useful-3m99)
-- [PSHCkS ARTICLES BY FLEXI DEV STUDIO ;TRUTH HACKS](https://dev.to/flexi_dev_4c0ce990523a164/pshcks-articles-by-flexi-dev-studio-truth-hacks-ill)
-- [FlexGlance; The weather reimagined✨](https://dev.to/flexi_dev_4c0ce990523a164/flexglance-the-weather-reimagined-36a)
-- [When I tell people I&#39;ve written 42 AI books using ChatGPT as my co-pilot, their first reaction is usually:
-
-“Which tool did you use?”
-
-But here’s the truth: &quot;The tool doesn’t matter. The prompting system does.&quot;](https://dev.to/jaideepparashar/when-i-tell-people-ive-written-42-ai-books-using-chatgpt-as-my-co-pilot-their-first-reaction-is-3cn7)
+- [Strategy Design Pattern in Java](https://dev.to/akshay161099/strategy-design-pattern-in-java-3402)
+- [# Grammar &amp; Punctuation Practice for Kids: Why It Matters &amp; How to Make It Fun](https://dev.to/mind_oriented_8b9d3b2c009/-grammar-punctuation-practice-for-kids-why-it-matters-how-to-make-it-fun-c4o)
+- [Why You Should Avoid Nested Try-Catch Statements](https://dev.to/mcheremnov/why-you-should-avoid-nested-try-catch-statements-2doa)
+- [文章_1760175764](https://dev.to/_2c78f2211e58fb9c5f4cf/wen-zhang-1760175764-8ie)
 <!-- BLOG-POST-LIST:END -->
 
 
