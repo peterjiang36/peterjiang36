@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Why The Warriors is Rockstars BEST &lpar;non-GTA/Red Dead&rpar; Game](https://dev.to/gg_news/gamespot-why-the-warriors-is-rockstars-best-non-gtared-dead-game-462b)
-- [GameSpot: Invincible VS. - Cecil Stedman Character Gameplay Reveal Trailer](https://dev.to/gg_news/gamespot-invincible-vs-cecil-stedman-character-gameplay-reveal-trailer-1nio)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-147l)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-1ab0)
+- [Redis: The Unsung Hero of Modern Software Architecture](https://dev.to/igornosatov_15/redis-the-unsung-hero-of-modern-software-architecture-1866)
+- [Review of the Substack platform in 2019](https://dev.to/leon_lin_s/review-of-the-substack-platform-in-2019-59pe)
+- [HOW EMBEDDINGS POWER DAILY SYSTEMS](https://dev.to/geo-hack/how-embeddings-power-daily-systems-1jnb)
+- [Day 2: Starting of MERN stack journey from the prerequisites &lpar;CSS&rpar;](https://dev.to/niladri_banerjee_98/day-2-starting-of-mern-stack-journey-from-the-prerequisites-css-4i7e)
 <!-- BLOG-POST-LIST:END -->
 
 
