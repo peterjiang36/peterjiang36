@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheat Sheet for Git](https://dev.to/jsha/cheat-sheet-for-git-59i7)
-- [ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡](https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2)
-- [A Neat Example of Practical Python Automation](https://dev.to/shahrouzlogs/this-tutorial-by-nazaninashrafi-explains-the-logic-behind-automating-personalized-emails-in-2f14)
-- [What’s the difference between AddScoped, AddTransient, and AddSingleton in dependency injection?](https://dev.to/sachin_ghatage/whats-the-difference-between-addscoped-addtransient-and-addsingleton-in-dependency-injection-221i)
+- [Compass](https://dev.to/frosty_fucker_7d06058f3d8/compass-3mnm)
+- [WTF is WebRTC?](https://dev.to/dailybugle33/wtf-is-webrtc-53e1)
+- [Software Safety Consent Declaration – A simple security standard for developers](https://dev.to/yahiagaming495/software-safety-consent-declaration-a-simple-security-standard-for-developers-6bn)
+- [Why “Not Enough” Kills SaaS Growth](https://dev.to/sonu_goswami/why-not-enough-kills-saas-growth-374g)
 <!-- BLOG-POST-LIST:END -->
 
 
