@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compass](https://dev.to/frosty_fucker_7d06058f3d8/compass-3mnm)
-- [WTF is WebRTC?](https://dev.to/dailybugle33/wtf-is-webrtc-53e1)
-- [Software Safety Consent Declaration – A simple security standard for developers](https://dev.to/yahiagaming495/software-safety-consent-declaration-a-simple-security-standard-for-developers-6bn)
-- [Why “Not Enough” Kills SaaS Growth](https://dev.to/sonu_goswami/why-not-enough-kills-saas-growth-374g)
+- [Meet AI: Introduction to the World of Artificial Intelligence](https://dev.to/mariustechie/meet-ai-introduction-to-the-world-of-artificial-intelligence-284d)
+- [How to Build Modular AI Personalities with LuminoraCore v1.0](https://dev.to/rulyaltamirano/how-to-build-modular-ai-personalities-with-luminoracore-v10-1k14)
+- [Become a 1% Developer: Create a REST API Without Any Framework &lpar;No Spring Boot, No Spring!&rpar;](https://dev.to/ritik_kumar_9883dbfcef054/become-a-1-developer-create-a-rest-api-without-any-framework-no-spring-boot-no-spring-445g)
+- [Understanding Degrees of Freedom: Why They Matter in Statistics](https://dev.to/dilan_bosire/understanding-degrees-of-freedom-why-they-matter-in-statistics-438o)
 <!-- BLOG-POST-LIST:END -->
 
 
