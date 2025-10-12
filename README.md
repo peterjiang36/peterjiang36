@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App](https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je)
-- [October 2025 Crypto Pulse: Bullish Vibes, DeFi Surges, and Market Shifts](https://dev.to/om_shree_0709/october-2025-crypto-pulse-bullish-vibes-defi-surges-and-market-shifts-48i8)
-- [October 2025 Forem Core Update: Hacktoberfest Momentum, PR Cleanups, and Self-Hosting Tweaks](https://dev.to/om_shree_0709/october-2025-forem-core-update-hacktoberfest-momentum-pr-cleanups-and-self-hosting-tweaks-ii2)
-- [October 2025 Scale Engineering Digest: AI Shifts, Event Buzz, and SRE Evolutions](https://dev.to/om_shree_0709/october-2025-scale-engineering-digest-ai-shifts-event-buzz-and-sre-evolutions-5cdf)
+- [Researching Litho&#39;s Intelligent Caching and Performance Optimization Strategies](https://dev.to/sopaco/researching-lithos-intelligent-caching-and-performance-optimization-strategies-5h5p)
+- [The Human Algorithm: Why Our Next Code Will Be Emotional](https://dev.to/vvvnetwork/the-human-algorithm-why-our-next-code-will-be-emotional-4e86)
+- [Can AI Tools Implement Designs Perfectly?](https://dev.to/oikon/can-ai-tools-implement-designs-perfectly-h36)
+- [🧭 Programming Philosophies Explained &lpar;How to Think Like a Polyglot Developer&rpar;](https://dev.to/bibimbop123/programming-philosophies-explained-how-to-think-like-a-polyglot-developer-49f6)
 <!-- BLOG-POST-LIST:END -->
 
 
