@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 51 of My Data Analytics Journey !](https://dev.to/ramyacse/day-51-of-my-data-analytics-journey--2og3)
-- [From Local Laptop to Team Collaboration: How Remote Git Repositories Work](https://dev.to/swathi_macha/from-local-laptop-to-team-collaboration-how-remote-git-repositories-work-21mk)
-- [The Growing Relevance of Operating Systems in Today’s Tech Landscape 💻✨](https://dev.to/karthikkorrayi/the-growing-relevance-of-operating-systems-in-todays-tech-landscape-2o09)
-- [Building a Web Search Workflow Using Microsoft Agent Framework &lpar;Without Any AI Services&rpar; -Part II](https://dev.to/sreeni5018/building-a-web-search-workflow-using-microsoft-agent-framework-without-any-ai-services-part-ii-50l3)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1d8m)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-329c)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-2g8p)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-4j82)
 <!-- BLOG-POST-LIST:END -->
 
 
