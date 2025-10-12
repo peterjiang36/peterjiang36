@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React useFormStatus Hook , Complete Guide &lpar;Beginner to Advanced&rpar;](https://dev.to/homayunmmdy/react-useformstatus-hook-complete-guide-beginner-to-advanced-3gcg)
-- [Concurrency and Row Versioning - Part 1](https://dev.to/arturampilogov/concurrency-and-row-versioning-part-1-39hn)
-- [The Ultimate Betrayal: How Pakistan’s 50-Year Friendship Backfired Spectacularly](https://dev.to/mariasaleh/the-ultimate-betrayal-how-pakistans-50-year-friendship-backfired-spectacularly-apg)
-- [What&#39;s &quot;AWS Local Zones&quot;](https://dev.to/wakeup_flower_8591a6cb6a9/whats-aws-local-zones-474)
+- [Mastering Python&#39;s Iteration Protocol: Iterables, Iterators, and Generators](https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e)
+- [📚 Should I Bunk?](https://dev.to/nikunj_maheshwari/should-i-bunk-4jph)
+- [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://dev.to/skullzarmy/vibealive-cleaning-up-the-code-chaos-of-ai-assisted-development-100l)
+- [🚀 OSMEA — Open Source Flutter Architecture for Modern E-commerce](https://dev.to/nurhayat_yurtaslan_d3d456/osmea-open-source-flutter-architecture-for-modern-e-commerce-5fn0)
 <!-- BLOG-POST-LIST:END -->
 
 
