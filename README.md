@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlocking Productivity: AI Tools Every Angular Developer Should Know](https://dev.to/karol_modelski/unlocking-productivity-ai-tools-every-angular-developer-should-know-1fj)
-- [Parallel PHP SOAP Client Requests](https://dev.to/andreistsiapanau/parallel-php-soap-client-requests-5glg)
-- [Evaluating Network Security With Amazon VPC Network Access Analyzer](https://dev.to/aws-builders/evaluating-network-security-with-amazon-vpc-network-access-analyzer-2h41)
-- [🚀 From Excel to Web App: How I Built a Smart Assignment Management System for 125 Students](https://dev.to/anticoder03/from-excel-to-web-app-how-i-built-a-smart-assignment-management-system-for-125-students-3jac)
+- [Cheat Sheet for Git](https://dev.to/jsha/cheat-sheet-for-git-59i7)
+- [ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡](https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2)
+- [A Neat Example of Practical Python Automation](https://dev.to/shahrouzlogs/this-tutorial-by-nazaninashrafi-explains-the-logic-behind-automating-personalized-emails-in-2f14)
+- [What’s the difference between AddScoped, AddTransient, and AddSingleton in dependency injection?](https://dev.to/sachin_ghatage/whats-the-difference-between-addscoped-addtransient-and-addsingleton-in-dependency-injection-221i)
 <!-- BLOG-POST-LIST:END -->
 
 
