@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1phc)
+- [Python 3.14 Has Arrived: A Deep Dive into the New Features](https://dev.to/mechcloud_academy/python-314-has-arrived-a-deep-dive-into-the-new-features-56pn)
+- [Backwards Clock Fever Dream](https://dev.to/orvillechomer/backwards-clock-fever-dream-4g7m)
+- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://dev.to/technoblogger14o3/microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year-92l)
 - [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1a74)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-4pfl)
-- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-2846)
 <!-- BLOG-POST-LIST:END -->
 
 
