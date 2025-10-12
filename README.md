@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python&#39;s Iteration Protocol: Iterables, Iterators, and Generators](https://dev.to/somedood/mastering-pythons-iteration-protocol-iterables-iterators-and-generators-f9e)
-- [📚 Should I Bunk?](https://dev.to/nikunj_maheshwari/should-i-bunk-4jph)
-- [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://dev.to/skullzarmy/vibealive-cleaning-up-the-code-chaos-of-ai-assisted-development-100l)
-- [🚀 OSMEA — Open Source Flutter Architecture for Modern E-commerce](https://dev.to/nurhayat_yurtaslan_d3d456/osmea-open-source-flutter-architecture-for-modern-e-commerce-5fn0)
+- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
+- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
+- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
+- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
 <!-- BLOG-POST-LIST:END -->
 
 
