@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Researching Litho&#39;s Intelligent Caching and Performance Optimization Strategies](https://dev.to/sopaco/researching-lithos-intelligent-caching-and-performance-optimization-strategies-5h5p)
-- [The Human Algorithm: Why Our Next Code Will Be Emotional](https://dev.to/vvvnetwork/the-human-algorithm-why-our-next-code-will-be-emotional-4e86)
-- [Can AI Tools Implement Designs Perfectly?](https://dev.to/oikon/can-ai-tools-implement-designs-perfectly-h36)
-- [🧭 Programming Philosophies Explained &lpar;How to Think Like a Polyglot Developer&rpar;](https://dev.to/bibimbop123/programming-philosophies-explained-how-to-think-like-a-polyglot-developer-49f6)
+- [🚀 Unlocking Productivity: AI Tools Every Angular Developer Should Know](https://dev.to/karol_modelski/unlocking-productivity-ai-tools-every-angular-developer-should-know-1fj)
+- [Parallel PHP SOAP Client Requests](https://dev.to/andreistsiapanau/parallel-php-soap-client-requests-5glg)
+- [Evaluating Network Security With Amazon VPC Network Access Analyzer](https://dev.to/aws-builders/evaluating-network-security-with-amazon-vpc-network-access-analyzer-2h41)
+- [🚀 From Excel to Web App: How I Built a Smart Assignment Management System for 125 Students](https://dev.to/anticoder03/from-excel-to-web-app-how-i-built-a-smart-assignment-management-system-for-125-students-3jac)
 <!-- BLOG-POST-LIST:END -->
 
 
