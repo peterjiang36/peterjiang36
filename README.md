@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling 100+ Website Scrapers with Python&#39;s asyncio](https://dev.to/pradippanjiyar/handling-100-website-scrapers-with-pythons-asyncio-4905)
-- [Tutorial: Selenium WebDriver + Reqnroll](https://dev.to/emmanuelsalazar92/tutorial-selenium-webdriver-reqnroll-186i)
-- [Basic Linux Command Using Ubuntu terminal environment.](https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie)
-- [Tome in the Valley](https://dev.to/shepherd_1ec15ed8e8d85ced/tome-in-the-valley-2f5a)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2bd3)
+- [KEXP: Babe Rainbow - Aquarium cowgirl &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-12m5)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-a04)
+- [KEXP: Wet Leg - mangetout &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4la4)
 <!-- BLOG-POST-LIST:END -->
 
 
