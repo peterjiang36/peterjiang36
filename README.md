@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2dbd)
-- [The Game Theorists: Game Theory: Is Silksong ACTUALLY Too Hard?](https://dev.to/gg_news/the-game-theorists-game-theory-is-silksong-actually-too-hard-31h5)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-1la2)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-3473)
+- [Part-122: 🚀Step-by-Step Guide: Create a GKE Private Cluster with Cloud NAT and Deploy an App](https://dev.to/latchudevops/part-122-step-by-step-guide-create-a-gke-private-cluster-with-cloud-nat-and-deploy-an-app-17je)
+- [October 2025 Crypto Pulse: Bullish Vibes, DeFi Surges, and Market Shifts](https://dev.to/om_shree_0709/october-2025-crypto-pulse-bullish-vibes-defi-surges-and-market-shifts-48i8)
+- [October 2025 Forem Core Update: Hacktoberfest Momentum, PR Cleanups, and Self-Hosting Tweaks](https://dev.to/om_shree_0709/october-2025-forem-core-update-hacktoberfest-momentum-pr-cleanups-and-self-hosting-tweaks-ii2)
+- [October 2025 Scale Engineering Digest: AI Shifts, Event Buzz, and SRE Evolutions](https://dev.to/om_shree_0709/october-2025-scale-engineering-digest-ai-shifts-event-buzz-and-sre-evolutions-5cdf)
 <!-- BLOG-POST-LIST:END -->
 
 
