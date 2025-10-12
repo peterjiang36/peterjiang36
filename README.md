@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-5ac3)
-- [K8 Monitoring](https://dev.to/vb_nair/k8-monitoring-16m7)
-- [Como criar um menu hambúrguer acessível com a &quot;armadilha de foco&quot; &lpar;Focus Trap&rpar;](https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i)
-- [Finished Knights Travails while I was AWOL](https://dev.to/codecara/finished-knights-travails-while-i-was-awol-kio)
+- [Day 51 of My Data Analytics Journey !](https://dev.to/ramyacse/day-51-of-my-data-analytics-journey--2og3)
+- [From Local Laptop to Team Collaboration: How Remote Git Repositories Work](https://dev.to/swathi_macha/from-local-laptop-to-team-collaboration-how-remote-git-repositories-work-21mk)
+- [The Growing Relevance of Operating Systems in Today’s Tech Landscape 💻✨](https://dev.to/karthikkorrayi/the-growing-relevance-of-operating-systems-in-todays-tech-landscape-2o09)
+- [Building a Web Search Workflow Using Microsoft Agent Framework &lpar;Without Any AI Services&rpar; -Part II](https://dev.to/sreeni5018/building-a-web-search-workflow-using-microsoft-agent-framework-without-any-ai-services-part-ii-50l3)
 <!-- BLOG-POST-LIST:END -->
 
 
