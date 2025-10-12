@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Baby Steps is Death Stranding for Masochists](https://dev.to/gg_news/ign-baby-steps-is-death-stranding-for-masochists-426h)
-- [IGN: Tekken 8 - Official Miary Zo Gameplay Trailer](https://dev.to/gg_news/ign-tekken-8-official-miary-zo-gameplay-trailer-691)
-- [Ringer Movies: The Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-the-best-picture-power-rankings-3kea)
-- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-4ee7)
+- [Test installs in a clean Ubuntu sandbox](https://dev.to/walodja1987/test-installs-in-a-clean-ubuntu-sandbox-p7p)
+- [Reinforcement Learning](https://dev.to/deba_49653f8896e5b940dbfe/reinforcement-learning-4f2f)
+- [Boost your terminal workflow with aliases](https://dev.to/walodja1987/boost-your-terminal-workflow-with-aliases-42cg)
+- [Building a Serverless Image Resizer on AWS](https://dev.to/copubah/building-a-serverless-image-resizer-on-aws-28ac)
 <!-- BLOG-POST-LIST:END -->
 
 
