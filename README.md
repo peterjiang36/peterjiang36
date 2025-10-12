@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Terraform Reference Repository &lpar;So You Don&#39;t Have to Bang Your Head Against the Wall&rpar;](https://dev.to/chafroudtarek/i-built-a-terraform-reference-repository-so-you-dont-have-to-bang-your-head-against-the-wall-3po1)
-- [50 Most Useful Vue.js Snippets](https://dev.to/softwaredeveloper01/50-most-useful-vuejs-snippets-17bh)
-- [🧱 The SOLID Principles Explained &lpar;Like You’re a Developer Who Actually Writes Code&rpar;](https://dev.to/charan_gutti_cf60c6185074/the-solid-principles-explained-like-youre-a-developer-who-actually-writes-code-4jon)
-- [From Shelves to Pixels: Library Aesthetic Prompts for AI Art Creators](https://dev.to/graphicstrees/from-shelves-to-pixels-library-aesthetic-prompts-for-ai-art-creators-1hc7)
+- [IGN: Baby Steps is Death Stranding for Masochists](https://dev.to/gg_news/ign-baby-steps-is-death-stranding-for-masochists-426h)
+- [IGN: Tekken 8 - Official Miary Zo Gameplay Trailer](https://dev.to/gg_news/ign-tekken-8-official-miary-zo-gameplay-trailer-691)
+- [Ringer Movies: The Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-the-best-picture-power-rankings-3kea)
+- [CinemaSins: Everything Wrong With The Mummy: The Tomb of the Dragon Emperor In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-mummy-the-tomb-of-the-dragon-emperor-in-15-minutes-or-less-4ee7)
 <!-- BLOG-POST-LIST:END -->
 
 
