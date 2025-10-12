@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test installs in a clean Ubuntu sandbox](https://dev.to/walodja1987/test-installs-in-a-clean-ubuntu-sandbox-p7p)
-- [Reinforcement Learning](https://dev.to/deba_49653f8896e5b940dbfe/reinforcement-learning-4f2f)
-- [Boost your terminal workflow with aliases](https://dev.to/walodja1987/boost-your-terminal-workflow-with-aliases-42cg)
-- [Building a Serverless Image Resizer on AWS](https://dev.to/copubah/building-a-serverless-image-resizer-on-aws-28ac)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-5ac3)
+- [K8 Monitoring](https://dev.to/vb_nair/k8-monitoring-16m7)
+- [Como criar um menu hambúrguer acessível com a &quot;armadilha de foco&quot; &lpar;Focus Trap&rpar;](https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i)
+- [Finished Knights Travails while I was AWOL](https://dev.to/codecara/finished-knights-travails-while-i-was-awol-kio)
 <!-- BLOG-POST-LIST:END -->
 
 
