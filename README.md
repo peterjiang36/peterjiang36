@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet AI: Introduction to the World of Artificial Intelligence](https://dev.to/mariustechie/meet-ai-introduction-to-the-world-of-artificial-intelligence-284d)
-- [How to Build Modular AI Personalities with LuminoraCore v1.0](https://dev.to/rulyaltamirano/how-to-build-modular-ai-personalities-with-luminoracore-v10-1k14)
-- [Become a 1% Developer: Create a REST API Without Any Framework &lpar;No Spring Boot, No Spring!&rpar;](https://dev.to/ritik_kumar_9883dbfcef054/become-a-1-developer-create-a-rest-api-without-any-framework-no-spring-boot-no-spring-445g)
-- [Understanding Degrees of Freedom: Why They Matter in Statistics](https://dev.to/dilan_bosire/understanding-degrees-of-freedom-why-they-matter-in-statistics-438o)
+- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
+- [The Journey That Just Began — From Feeling Like a Beginner to Receiving My First Stipend](https://dev.to/23aditi/the-journey-that-just-began-from-feeling-like-a-beginner-to-receiving-my-first-stipend-njn)
+- [Day 29 of python code series..](https://dev.to/momina_raheelmoona_c59/day-29-of-python-code-series-5die)
+- [Is Your Fridge About To Order Groceries For You? Demystifying the Metaverse&#39;s Sibling: The Internet of Things &lpar;IoT&rpar;](https://dev.to/karthik_n/is-your-fridge-about-to-order-groceries-for-you-demystifying-the-metaverses-sibling-the-internet-525d)
 <!-- BLOG-POST-LIST:END -->
 
 
