@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Code Vein 2 Preview: New Moon, Same Blood](https://dev.to/gg_news/ign-code-vein-2-preview-new-moon-same-blood-37hb)
-- [IGN: The Running Man - Official Trailer #2 &lpar;2025&rpar; Glen Powell, William H. Macy, Lee Pace](https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-563l)
-- [Deploy n8n with Coolify: Self-Hosted Automation in Minutes](https://dev.to/jaskarandeogan/deploy-n8n-with-coolify-self-hosted-automation-in-minutes-457g)
-- [How I Built an Oreo Generator with 1.1 Sextillion Combinations](https://dev.to/codypearce/how-i-built-an-oreo-generator-with-11-sextillion-combinations-de7)
+- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
+- [When you can&#39;t use serverless DMS](https://dev.to/wakeup_flower_8591a6cb6a9/when-you-cant-use-serverless-dms-430j)
+- [Daily Artificial Intelligence Digest - Oct 13, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-13-2025-d6c)
+- [Ad targeting myths](https://dev.to/leon_lin_s/ad-targeting-myths-2lcf)
 <!-- BLOG-POST-LIST:END -->
 
 
