@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
-- [Monolith First, Services Later: A Phased Architecture Playbook](https://dev.to/igor_a_voronin/monolith-first-services-later-a-phased-architecture-playbook-k36)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-eli)
-- [Speak Freely: Private Language Models on a Shoestring Budget by Arvind Sundararajan](https://dev.to/arvind_sundararajan/speak-freely-private-language-models-on-a-shoestring-budget-by-arvind-sundararajan-21e2)
+- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
+- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
+- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
+- [Understand __name__==&#39;main&#39; with two python files](https://dev.to/srinivasuluparanduru/understand-namemain-with-two-python-files-141d)
 <!-- BLOG-POST-LIST:END -->
 
 
