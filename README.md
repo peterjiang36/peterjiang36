@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-69d)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-146a)
-- [IGN: Limit Zero Breakers - Official Gameplay Trailer](https://dev.to/gg_news/ign-limit-zero-breakers-official-gameplay-trailer-1e6c)
-- [IGN: Of Ash and Steel - Official Demo and Release Date Trailer](https://dev.to/gg_news/ign-of-ash-and-steel-official-demo-and-release-date-trailer-4h08)
+- [Unlocking the Oracle ACE Program: From Contribution to Recognition](https://dev.to/demasy/unlocking-the-oracle-ace-program-from-contribution-to-recognition-4731)
+- [AWS Cost Reporting: Why Parquet Data Doesn&#39;t Match Your Console &lpar;And How to Fix It&rpar;](https://dev.to/gurudev_prasadteketi/aws-cost-reporting-why-parquet-data-doesnt-match-your-console-and-how-to-fix-it-5dlh)
+- [How I Built a Mini C Compiler to Understand How Compilers Work](https://dev.to/ironrinox/how-i-built-a-mini-c-compiler-to-understand-how-compilers-work-1jb7)
+- [Did you know that a well-crafted prompt can make AI models m](https://dev.to/drcarlosruizviquez/did-you-know-that-a-well-crafted-prompt-can-make-ai-models-m-4ecb)
 <!-- BLOG-POST-LIST:END -->
 
 
