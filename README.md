@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-1a2f)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-1195)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2cnb)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-219b)
+- [Using Translation Memory in Software Projects: A Beginner’s Guide](https://dev.to/gerry_criner/using-translation-memory-in-software-projects-a-beginners-guide-1lhg)
+- [The &lt;template&gt; Tag: A core HTML Feature That Simplified My JS](https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o)
+- [Perl 🐪 Weekly #742 - Support TPRF](https://dev.to/szabgab/perl-weekly-742-support-tprf-gpa)
+- [Magic: The Gathering Explained With JavaScript Classes](https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2)
 <!-- BLOG-POST-LIST:END -->
 
 
