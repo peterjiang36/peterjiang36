@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💥 Myth #15: Internal priorities are all that matter](https://dev.to/tmorin/myth-15-internal-priorities-are-all-that-matter-2ea2)
-- [3 Code Reading Techniques No Course Will Teach You](https://dev.to/canro91/3-code-reading-techniques-no-course-will-teach-you-12in)
-- [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
-- [Revisiting an Old Project — and the Endless Spiral of Dependencies](https://dev.to/olegelantsev/revisiting-an-old-project-and-the-endless-spiral-of-dependencies-4gf6)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-1a2f)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-1195)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2cnb)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-219b)
 <!-- BLOG-POST-LIST:END -->
 
 
