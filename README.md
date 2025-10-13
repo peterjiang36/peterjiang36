@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-13ca)
-- [Linux Fundamentals for DevOps](https://dev.to/whispernet/linux-fundamentals-for-devops-44ca)
-- [Portfolio First, Social Media Second: Why Platforms Come and Go but Your Website Stays](https://dev.to/imtaslim/portfolio-first-social-media-second-why-platforms-come-and-go-but-your-website-stays-4d8d)
-- [SSR vs CSR: Why Your Website Loads Like a Potato &lpar;and How to Fix It&rpar;](https://dev.to/lucasbrdt268/ssr-vs-csr-why-your-website-loads-like-a-potato-and-how-to-fix-it-1bo)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-69d)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-146a)
+- [IGN: Limit Zero Breakers - Official Gameplay Trailer](https://dev.to/gg_news/ign-limit-zero-breakers-official-gameplay-trailer-1e6c)
+- [IGN: Of Ash and Steel - Official Demo and Release Date Trailer](https://dev.to/gg_news/ign-of-ash-and-steel-official-demo-and-release-date-trailer-4h08)
 <!-- BLOG-POST-LIST:END -->
 
 
