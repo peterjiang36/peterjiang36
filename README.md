@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Guidance to Growth: My Hacktoberfest 2025 Journey](https://dev.to/leslie_fernando_4e70b4c7b/from-guidance-to-growth-my-hacktoberfest-2025-journey-94g)
-- [Mall Customer Segmentation using ML — A Step-by-Step Tutorial](https://dev.to/naman_2004/-mall-customer-segmentation-streamlit-app-a-step-by-step-tutorial-4pm2)
-- [Incident Event Pipelines for Real-Time Notifications with Windmill and Checkly](https://dev.to/coderoflagos/incident-event-pipelines-for-real-time-notifications-with-windmill-and-checkly-2290)
-- [AWS re/Start – My Week 9 Experience](https://dev.to/ijay/aws-restart-my-week-9-experience-4pp6)
+- [💡 “Stop Copying Regex!” — Manage, Validate, and Extract All Your Regex with regex-center](https://dev.to/jamie_wang_5a76e661ad80fa/stop-copying-regex-manage-validate-and-extract-all-your-regex-with-regex-center-3o91)
+- [Monolith First, Services Later: A Phased Architecture Playbook](https://dev.to/igor_a_voronin/monolith-first-services-later-a-phased-architecture-playbook-k36)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-eli)
+- [Speak Freely: Private Language Models on a Shoestring Budget by Arvind Sundararajan](https://dev.to/arvind_sundararajan/speak-freely-private-language-models-on-a-shoestring-budget-by-arvind-sundararajan-21e2)
 <!-- BLOG-POST-LIST:END -->
 
 
