@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2fam)
-- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-20em)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-785)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3k3c)
+- [💥 Myth #15: Internal priorities are all that matter](https://dev.to/tmorin/myth-15-internal-priorities-are-all-that-matter-2ea2)
+- [3 Code Reading Techniques No Course Will Teach You](https://dev.to/canro91/3-code-reading-techniques-no-course-will-teach-you-12in)
+- [The Power of Shared Definitions](https://dev.to/branden-hernandez/the-power-of-shared-definitions-3j3p)
+- [Revisiting an Old Project — and the Endless Spiral of Dependencies](https://dev.to/olegelantsev/revisiting-an-old-project-and-the-endless-spiral-of-dependencies-4gf6)
 <!-- BLOG-POST-LIST:END -->
 
 
