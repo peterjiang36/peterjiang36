@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn)
-- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows.](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-j89)
-- [Reimagine Libraries management as Apps using Agentic Executable framework](https://dev.to/arenukvern/reimagine-libraries-management-as-apps-using-agentic-executable-framework-ami)
-- [10 ChatGPT Prompt Templates That Saved Me 100+ Hours of Work](https://dev.to/jaideepparashar/10-chatgpt-prompt-templates-that-saved-me-100-hours-of-work-1n2g)
+- [Hands-On: Despliega una base de datos PostgreSQL + Bastion + VPC con AWS CDK y Python](https://dev.to/chainiz/hands-on-despliega-una-base-de-datos-postgresql-bastion-vpc-con-aws-cdk-y-python-1a38)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-54jp)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2mk9)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-9g)
 <!-- BLOG-POST-LIST:END -->
 
 
