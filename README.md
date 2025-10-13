@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-18lp)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-55do)
-- [The Background Remove API Devs Actually Ship🚀](https://dev.to/dev_kiran/the-background-remove-api-devs-actually-ship-lbe)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-43aj)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-13ca)
+- [Linux Fundamentals for DevOps](https://dev.to/whispernet/linux-fundamentals-for-devops-44ca)
+- [Portfolio First, Social Media Second: Why Platforms Come and Go but Your Website Stays](https://dev.to/imtaslim/portfolio-first-social-media-second-why-platforms-come-and-go-but-your-website-stays-4d8d)
+- [SSR vs CSR: Why Your Website Loads Like a Potato &lpar;and How to Fix It&rpar;](https://dev.to/lucasbrdt268/ssr-vs-csr-why-your-website-loads-like-a-potato-and-how-to-fix-it-1bo)
 <!-- BLOG-POST-LIST:END -->
 
 
