@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-43ef)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3536)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-57jn)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-560j)
+- [From Guidance to Growth: My Hacktoberfest 2025 Journey](https://dev.to/leslie_fernando_4e70b4c7b/from-guidance-to-growth-my-hacktoberfest-2025-journey-94g)
+- [Mall Customer Segmentation using ML — A Step-by-Step Tutorial](https://dev.to/naman_2004/-mall-customer-segmentation-streamlit-app-a-step-by-step-tutorial-4pm2)
+- [Incident Event Pipelines for Real-Time Notifications with Windmill and Checkly](https://dev.to/coderoflagos/incident-event-pipelines-for-real-time-notifications-with-windmill-and-checkly-2290)
+- [AWS re/Start – My Week 9 Experience](https://dev.to/ijay/aws-restart-my-week-9-experience-4pp6)
 <!-- BLOG-POST-LIST:END -->
 
 
