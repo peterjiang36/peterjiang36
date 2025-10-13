@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Trading Myths Every Developer Should Know](https://dev.to/tradelinkpro/crypto-trading-myths-every-developer-should-know-abd)
-- [When you can&#39;t use serverless DMS](https://dev.to/wakeup_flower_8591a6cb6a9/when-you-cant-use-serverless-dms-430j)
-- [Daily Artificial Intelligence Digest - Oct 13, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-13-2025-d6c)
-- [Ad targeting myths](https://dev.to/leon_lin_s/ad-targeting-myths-2lcf)
+- [Know the History of AI: Build Your Own Rule-Based Expert System in C#](https://dev.to/auyeungdavid_2847435260/know-the-history-of-ai-build-your-own-rule-based-expert-system-in-c-490a)
+- [🪙 Day 13 of #30DaysOfSolidity — Building a Token Sale &lpar;Sell Your ERC-20 for ETH with Foundry&rpar;](https://dev.to/sauravkumar8178/day-13-of-30daysofsolidity-building-a-token-sale-sell-your-erc-20-for-eth-with-foundry-1o3h)
+- [Compare Glue, Data Pipeline &amp; Step functions](https://dev.to/wakeup_flower_8591a6cb6a9/compare-glue-data-pipeline-step-functions-4h6c)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4i5d)
 <!-- BLOG-POST-LIST:END -->
 
 
