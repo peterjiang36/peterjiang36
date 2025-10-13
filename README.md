@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-26ml)
-- [NPR Music: Gloria Estefan: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-gloria-estefan-tiny-desk-concert-4k4e)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-76f)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-23le)
+- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
+- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
+- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
+- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
 <!-- BLOG-POST-LIST:END -->
 
 
