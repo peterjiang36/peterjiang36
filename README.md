@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discomfort isn’t the enemy: Lessons from 3 times I cried at work](https://dev.to/dvddpl/discomfort-isnt-the-enemy-lessons-from-3-times-i-cried-at-work-h51)
-- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
-- [ChatGPT Alternative for SQL Query Optimization](https://dev.to/drupaladmin/chatgpt-alternative-for-sql-query-optimization-2mbi)
-- [Understand __name__==&#39;main&#39; with two python files](https://dev.to/srinivasuluparanduru/understand-namemain-with-two-python-files-141d)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-26ml)
+- [NPR Music: Gloria Estefan: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-gloria-estefan-tiny-desk-concert-4k4e)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-76f)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-23le)
 <!-- BLOG-POST-LIST:END -->
 
 
