@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
-- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
-- [I built a Terraform Navigator because I was sick of looking for resources](https://dev.to/owenrumney/i-built-a-terraform-navigator-because-i-was-sick-of-looking-for-resources-16kj)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--288g)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-18lp)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-55do)
+- [The Background Remove API Devs Actually Ship🚀](https://dev.to/dev_kiran/the-background-remove-api-devs-actually-ship-lbe)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-43aj)
 <!-- BLOG-POST-LIST:END -->
 
 
