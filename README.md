@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Free Tools I Built Because I Couldn&#39;t Find Good Ones](https://dev.to/kristjan_retter_9f19b3176/3-free-tools-i-built-because-i-couldnt-find-good-ones-5ebk)
-- [AI Fundamentals: Puerta a la Inteligencia Artificial](https://dev.to/karinaaquinoc/ai-fundamentals-puerta-a-la-inteligencia-artificial-5b4g)
-- [Building a Redis Clone in Zig—Part 1](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-1-3fk)
-- [What Building Employee Atlas Taught Me About Real Full-Stack Development](https://dev.to/haris_sejmenovic/what-building-employee-atlas-taught-me-about-real-full-stack-development-2a83)
+- [Code Deconstruction: The Nested List Comprehension](https://dev.to/aaron_rose_0787cc8b4775a0/code-deconstruction-the-nested-list-comprehension-4jh8)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5b4)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-3em)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3n7l)
 <!-- BLOG-POST-LIST:END -->
 
 
