@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CanKit: a unified c# API for CAN bus &lpar;looking for testers &amp; feedback&rpar;](https://dev.to/pkuyo/cankit-a-unified-c-api-for-can-bus-looking-for-testers-feedback-2m8k)
-- [Building a Reliable USB-to-UART Bridge for Your Embedded Projects with FT232HQ-REEL](https://dev.to/xecor_company/building-a-reliable-usb-to-uart-bridge-for-your-embedded-projects-with-ft232hq-reel-436g)
-- [Unlocking Low-Frequency RFID Magic: Integrating ATA5577M1330C-DDB into Your IoT Projects](https://dev.to/censtry/unlocking-low-frequency-rfid-magic-integrating-ata5577m1330c-ddb-into-your-iot-projects-1nf1)
-- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2fam)
+- [GameSpot: Battlefield 6 - Good Company &lpar;Review-In-Progress&rpar;](https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-20em)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-785)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3k3c)
 <!-- BLOG-POST-LIST:END -->
 
 
