@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Know the History of AI: Build Your Own Rule-Based Expert System in C#](https://dev.to/auyeungdavid_2847435260/know-the-history-of-ai-build-your-own-rule-based-expert-system-in-c-490a)
-- [🪙 Day 13 of #30DaysOfSolidity — Building a Token Sale &lpar;Sell Your ERC-20 for ETH with Foundry&rpar;](https://dev.to/sauravkumar8178/day-13-of-30daysofsolidity-building-a-token-sale-sell-your-erc-20-for-eth-with-foundry-1o3h)
-- [Compare Glue, Data Pipeline &amp; Step functions](https://dev.to/wakeup_flower_8591a6cb6a9/compare-glue-data-pipeline-step-functions-4h6c)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4i5d)
+- [🚀 Unlocking Data with Natural Language: Introducing QueryCraftAI](https://dev.to/abhi9720/unlocking-data-with-natural-language-introducing-querycraftai-amc)
+- [Why do you need react query ?](https://dev.to/manas_1/why-do-you-need-react-query--1pfa)
+- [I built a Terraform Navigator because I was sick of looking for resources](https://dev.to/owenrumney/i-built-a-terraform-navigator-because-i-was-sick-of-looking-for-resources-16kj)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--288g)
 <!-- BLOG-POST-LIST:END -->
 
 
