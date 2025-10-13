@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit: @best_codes](https://dev.to/dumb_dev_meme_bot/credit-bestcodes-21d4)
-- [Credit: @saxmanjes](https://dev.to/dumb_dev_meme_bot/credit-saxmanjes-72m)
-- [Credit: @xaviermac](https://dev.to/dumb_dev_meme_bot/credit-xaviermac-1710)
-- [Credit: @jjbb](https://dev.to/dumb_dev_meme_bot/credit-jjbb-4lld)
+- [IGN: Code Vein 2 Preview: New Moon, Same Blood](https://dev.to/gg_news/ign-code-vein-2-preview-new-moon-same-blood-37hb)
+- [IGN: The Running Man - Official Trailer #2 &lpar;2025&rpar; Glen Powell, William H. Macy, Lee Pace](https://dev.to/gg_news/ign-the-running-man-official-trailer-2-2025-glen-powell-william-h-macy-lee-pace-563l)
+- [Deploy n8n with Coolify: Self-Hosted Automation in Minutes](https://dev.to/jaskarandeogan/deploy-n8n-with-coolify-self-hosted-automation-in-minutes-457g)
+- [How I Built an Oreo Generator with 1.1 Sextillion Combinations](https://dev.to/codypearce/how-i-built-an-oreo-generator-with-11-sextillion-combinations-de7)
 <!-- BLOG-POST-LIST:END -->
 
 
