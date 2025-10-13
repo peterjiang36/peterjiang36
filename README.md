@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On: Despliega una base de datos PostgreSQL + Bastion + VPC con AWS CDK y Python](https://dev.to/chainiz/hands-on-despliega-una-base-de-datos-postgresql-bastion-vpc-con-aws-cdk-y-python-1a38)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-54jp)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2mk9)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-9g)
+- [CanKit: a unified c# API for CAN bus &lpar;looking for testers &amp; feedback&rpar;](https://dev.to/pkuyo/cankit-a-unified-c-api-for-can-bus-looking-for-testers-feedback-2m8k)
+- [Building a Reliable USB-to-UART Bridge for Your Embedded Projects with FT232HQ-REEL](https://dev.to/xecor_company/building-a-reliable-usb-to-uart-bridge-for-your-embedded-projects-with-ft232hq-reel-436g)
+- [Unlocking Low-Frequency RFID Magic: Integrating ATA5577M1330C-DDB into Your IoT Projects](https://dev.to/censtry/unlocking-low-frequency-rfid-magic-integrating-ata5577m1330c-ddb-into-your-iot-projects-1nf1)
+- [Image to URL Service Comparison - Ultimate Drag-and-Drop Convenience](https://dev.to/tony_chase_83955825282edc/image-to-url-service-comparison-ultimate-drag-and-drop-convenience-4a6m)
 <!-- BLOG-POST-LIST:END -->
 
 
