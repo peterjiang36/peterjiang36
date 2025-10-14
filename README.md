@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Artificial Intelligence Digest - Oct 14, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1)
-- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_fafe1668/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-9o4)
-- [The Cryptocurrency Market: Lessons from Downturns and Fundamentals](https://dev.to/krikri2025/the-cryptocurrency-market-lessons-from-downturns-and-fundamentals-474m)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_02ee41d0/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ogc)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-obk)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-2b84)
+- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-1fi7)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4iek)
 <!-- BLOG-POST-LIST:END -->
 
 
