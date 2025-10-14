@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Práticas para projetos javascript robustos](https://dev.to/dotmendes/praticas-para-projetos-javascript-robustos-2hge)
-- [What’s the Difference Between Paid and Free Backlink Generator Tools?](https://dev.to/mai_vyly_ee49a19af579f4d/whats-the-difference-between-paid-and-free-backlink-generator-tools-nd1)
-- [CORS Almost Broke Me But Preflight Saved the Day](https://dev.to/techwithhari/cors-almost-broke-me-but-preflight-saved-the-day-21mk)
-- [Development of Real-Time Remote Desktop App](https://dev.to/yukiohira0416/development-of-real-time-remote-desktop-app-4eak)
+- [Unlocking Seamless Authentication with ForgeRock AM and Security Token Service &lpar;STS&rpar;](https://dev.to/iamdevbox/unlocking-seamless-authentication-with-forgerock-am-and-security-token-service-sts-5dia)
+- [XOX Untitled](https://dev.to/harendra_godara_007/xox-untitled-58o8)
+- [Testing Oxide CMS End-to-End - Medium Export](https://dev.to/richet/testing-oxide-cms-end-to-end-medium-export-3i2o)
+- [🧪 The Anatomy of a Successful A/B Test at Scale](https://dev.to/mujtabat/the-anatomy-of-a-successful-ab-test-at-scale-371e)
 <!-- BLOG-POST-LIST:END -->
 
 
