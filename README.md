@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM&#39;ler &quot;Soru Cevaplama&quot; konusunda kabiliyetlidirler](https://dev.to/cihad/an-example-about-structuring-data-progress-by-ai-1en8)
-- [Essential Strategies for Building Accessible Web Applications That Welcome All Users](https://dev.to/aaravjoshi/essential-strategies-for-building-accessible-web-applications-that-welcome-all-users-3hfd)
-- [Best Time Tracking Software to Stay Productive](https://dev.to/tmetric_timer_2b3a575fc8b/best-time-tracking-software-to-stay-productive-5h97)
-- [🚀 Introducing JPlus – The Java Superset Language You&#39;ve Been Waiting For!](https://dev.to/cheol_jeon_9e29b98fdb7e1e/introducing-jplus-the-java-superset-language-youve-been-waiting-for-248)
+- [Práticas para projetos javascript robustos](https://dev.to/dotmendes/praticas-para-projetos-javascript-robustos-2hge)
+- [What’s the Difference Between Paid and Free Backlink Generator Tools?](https://dev.to/mai_vyly_ee49a19af579f4d/whats-the-difference-between-paid-and-free-backlink-generator-tools-nd1)
+- [CORS Almost Broke Me But Preflight Saved the Day](https://dev.to/techwithhari/cors-almost-broke-me-but-preflight-saved-the-day-21mk)
+- [Development of Real-Time Remote Desktop App](https://dev.to/yukiohira0416/development-of-real-time-remote-desktop-app-4eak)
 <!-- BLOG-POST-LIST:END -->
 
 
