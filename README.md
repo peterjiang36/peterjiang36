@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-obk)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-2b84)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-1fi7)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4iek)
+- [Beyond Workarounds: A Journey to Refine Reactive Data Models](https://dev.to/tobi_augenstein/beyond-workarounds-a-journey-to-refine-reactive-data-models-3gdb)
+- [The Unspoken Truths of Dev Work: How I Wrestled My Data Science Project onto GitHub &lpar;and learned some secrets&rpar;](https://dev.to/daniel_githinji_6e1e402c3/the-unspoken-truths-of-dev-work-how-i-wrestled-my-data-science-project-onto-github-and-learned-5g5d)
+- [Part-126: 🔐Understanding Google Cloud IAM — Roles, Permissions, and Access Explained](https://dev.to/latchudevops/part-126-understanding-google-cloud-iam-roles-permissions-and-access-explained-2li3)
+- [CSS Animations Tutorial: A Beginner&#39;s Guide](https://dev.to/themrsami/css-animations-tutorial-a-beginners-guide-1e4j)
 <!-- BLOG-POST-LIST:END -->
 
 
