@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Portable Power Stations: Power on the Go](https://dev.to/eveliamaya/understanding-portable-power-stations-power-on-the-go-531b)
-- [Part 1 - MySQL vs PostgreSQL: Connection Architecture](https://dev.to/harry_do/part-1-mysql-vs-postgresql-connection-architecture-1nk9)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--4ii3)
-- [MySQL vs PostgreSQL: Understanding the differences](https://dev.to/harry_do/mysql-vs-postgresql-understanding-the-differences-167k)
+- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
+- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
+- [Modern Warfare 2 HWID Spoofer: DON&#39;T Use One Before You Read This!](https://dev.to/tun_hunh_6164f4c1d2daf6/modern-warfare-2-hwid-spoofer-dont-use-one-before-you-read-this-f9o)
+- [AI is disable your Critical Thinking.](https://dev.to/farhad_rahimi_klie/ai-is-disable-your-critical-thinking-1p7m)
 <!-- BLOG-POST-LIST:END -->
 
 
