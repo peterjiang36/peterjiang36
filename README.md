@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Green Building Practices: Pathways to LEED and WELL Certification in Modern Architecture](https://dev.to/mdshoagspace/green-building-practices-pathways-to-leed-and-well-certification-in-modern-architecture-3mod)
-- [SFP Cable Explained: Top 10G Solutions for Reliable Network Connectivity](https://dev.to/lsolink/sfp-cable-explained-top-10g-solutions-for-reliable-network-connectivity-16hm)
-- [🚀 Stop Uploading Files to S3 the Wrong Way](https://dev.to/vavilov2212/stop-uploading-files-to-s3-the-wrong-way-50le)
-- [ML Zoomcamp Week 3](https://dev.to/ladys/ml-zoomcamp-week-3-aep)
+- [Trek to the Roof of the World: Witness Everest and Gokyo Lakes from the Majestic Gokyo Ri Viewpoint](https://dev.to/alice_jenkins_2a2980b9d4f/trek-to-the-roof-of-the-world-witness-everest-and-gokyo-lakes-from-the-majestic-gokyo-ri-viewpoint-ld4)
+- [Beautiful Lies About Software Development](https://dev.to/developerpartners/beautiful-lies-about-software-development-736)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8n8)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-57j8)
 <!-- BLOG-POST-LIST:END -->
 
 
