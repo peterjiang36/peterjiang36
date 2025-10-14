@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tree Shaking in JavaScript - A Practical Guide](https://dev.to/md_isfaruddin_65557809e/tree-shaking-in-javascript-a-practical-guide-4bk7)
-- [Named Params in C](https://dev.to/jmatth11/named-params-in-c-2a2n)
-- [Your Website Speaks to Humans, But Does AI Understand It? A Deep Dive into the Dual Web Strategy](https://dev.to/thedavestack/your-website-speaks-to-humans-but-does-ai-understand-it-a-deep-dive-into-the-dual-web-strategy-4bp1)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3ajg)
+- [Some notes about the right usage of memoization in Python](https://dev.to/xba/some-notes-about-the-right-usage-of-memoization-in-python-1pdp)
+- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-446p)
+- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-d12)
+- [How to build your own file-system MCP server &lpar;A step-by-step guide&rpar;](https://dev.to/jefreesujit/how-to-build-your-own-file-system-mcp-server-a-step-by-step-guide-5g07)
 <!-- BLOG-POST-LIST:END -->
 
 
