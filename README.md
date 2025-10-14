@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-50cc)
-- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-21he)
-- [IGN: Dissidia Duellum Final Fantasy - Official Announcement Trailer](https://dev.to/gg_news/ign-dissidia-duellum-final-fantasy-official-announcement-trailer-1oon)
-- [CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-7k1)
+- [How YouTube Tracks Your Location Even with GPS and History Turned Off](https://dev.to/aman_kumar_bdd40f1b711c15/how-youtube-tracks-your-location-even-with-gps-and-history-turned-off-1gk)
+- [What is Hoisting in JavaScript? Explained for Beginners](https://dev.to/saurav_dev_2022/what-is-hoisting-in-javascript-explained-for-beginners-1147)
+- [I Built Clueoai Because Every AI App Is a Security Nightmare Waiting to Happen](https://dev.to/blackocra/i-built-clueoai-because-every-ai-app-is-a-security-nightmare-waiting-to-happen-na3)
+- [Building With Patterns: Document Versioning for Financial Services](https://dev.to/mongodb/building-with-patterns-document-versioning-for-financial-services-3d0p)
 <!-- BLOG-POST-LIST:END -->
 
 
