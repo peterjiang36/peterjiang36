@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How YouTube Tracks Your Location Even with GPS and History Turned Off](https://dev.to/aman_kumar_bdd40f1b711c15/how-youtube-tracks-your-location-even-with-gps-and-history-turned-off-1gk)
-- [What is Hoisting in JavaScript? Explained for Beginners](https://dev.to/saurav_dev_2022/what-is-hoisting-in-javascript-explained-for-beginners-1147)
-- [I Built Clueoai Because Every AI App Is a Security Nightmare Waiting to Happen](https://dev.to/blackocra/i-built-clueoai-because-every-ai-app-is-a-security-nightmare-waiting-to-happen-na3)
-- [Building With Patterns: Document Versioning for Financial Services](https://dev.to/mongodb/building-with-patterns-document-versioning-for-financial-services-3d0p)
+- [IGN: Black Phone 2 Review](https://dev.to/gg_news/ign-black-phone-2-review-phm)
+- [IGN: Send Help - Official Trailer &lpar;2026&rpar; Rachel McAdams, Dylan O&#39;Brien](https://dev.to/gg_news/ign-send-help-official-trailer-2026-rachel-mcadams-dylan-obrien-5318)
+- [Bridging Worlds: AI&#39;s Breakthrough in Nepali Sign Language](https://dev.to/arvind_sundararajan/bridging-worlds-ais-breakthrough-in-nepali-sign-language-2c5l)
+- [Dynamic Styling with calc&lpar;&rpar; in TailwindCSS](https://dev.to/devarshishimpi/dynamic-styling-with-calc-in-tailwindcss-5pp)
 <!-- BLOG-POST-LIST:END -->
 
 
