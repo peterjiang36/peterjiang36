@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-22od)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4gmi)
-- [KEXP: Ezra Furman - Power Of The Moon &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-3340)
-- [KEXP: Ezra Furman - Jump Out &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-41h)
+- [Green Building Practices: Pathways to LEED and WELL Certification in Modern Architecture](https://dev.to/mdshoagspace/green-building-practices-pathways-to-leed-and-well-certification-in-modern-architecture-3mod)
+- [SFP Cable Explained: Top 10G Solutions for Reliable Network Connectivity](https://dev.to/lsolink/sfp-cable-explained-top-10g-solutions-for-reliable-network-connectivity-16hm)
+- [🚀 Stop Uploading Files to S3 the Wrong Way](https://dev.to/vavilov2212/stop-uploading-files-to-s3-the-wrong-way-50le)
+- [ML Zoomcamp Week 3](https://dev.to/ladys/ml-zoomcamp-week-3-aep)
 <!-- BLOG-POST-LIST:END -->
 
 
