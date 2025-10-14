@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
-- [Refactoring 035 - Separate Exception Types](https://dev.to/mcsee/refactoring-035-separate-exception-types-179j)
-- [Modern Warfare 2 HWID Spoofer: DON&#39;T Use One Before You Read This!](https://dev.to/tun_hunh_6164f4c1d2daf6/modern-warfare-2-hwid-spoofer-dont-use-one-before-you-read-this-f9o)
-- [AI is disable your Critical Thinking.](https://dev.to/farhad_rahimi_klie/ai-is-disable-your-critical-thinking-1p7m)
+- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-59dn)
+- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-22cc)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-4cl1)
+- [IGN: IGN Fan Fest 2025: Fall Edition Livestream – Predator: Badlands, WWE 2K25, The Witcher, and More](https://dev.to/gg_news/ign-ign-fan-fest-2025-fall-edition-livestream-predator-badlands-wwe-2k25-the-witcher-and-mjo)
 <!-- BLOG-POST-LIST:END -->
 
 
