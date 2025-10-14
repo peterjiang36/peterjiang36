@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to maximize security as a SMB for your entire business operations](https://dev.to/estrosec/how-to-maximize-security-as-a-smb-for-your-entire-business-operations-165n)
-- [Lake Formation workflow of RDS &amp; S3](https://dev.to/wakeup_flower_8591a6cb6a9/lake-formation-workflow-of-rds-s3-5g7f)
-- [Python 3.14 Deep Dive: Revolutionary Error Messages &amp; Advanced Debugging &lpar;Part 2 - Chapter 2/3&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/python-314-deep-dive-revolutionary-error-messages-advanced-debugging-part-2-chapter-23-1med)
-- [The Future of Front-End Development: Component-Driven in 2025 and Beyond 🌐](https://dev.to/tahamjp/the-future-of-front-end-development-component-driven-in-2025-and-beyond-4mni)
+- [Understanding Portable Power Stations: Power on the Go](https://dev.to/eveliamaya/understanding-portable-power-stations-power-on-the-go-531b)
+- [Part 1 - MySQL vs PostgreSQL: Connection Architecture](https://dev.to/harry_do/part-1-mysql-vs-postgresql-connection-architecture-1nk9)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_c329f31b/your-error-handling-is-a-mess-and-its-costing-you--4ii3)
+- [MySQL vs PostgreSQL: Understanding the differences](https://dev.to/harry_do/mysql-vs-postgresql-understanding-the-differences-167k)
 <!-- BLOG-POST-LIST:END -->
 
 
