@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1p5p)
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-575f)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-4a2l)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3j4m)
+- [Are you hacked?](https://dev.to/shivakshi_rawat_e69cf6990/are-you-hacked-1e1h)
+- [Fixing the Half-Transaction Problem in Real-Time CDC](https://dev.to/__354f265b41dafa0d901b/fixing-the-half-transaction-problem-in-real-time-cdc-57o4)
+- [Reading the filings made me angry and sad at the same time. The law is supposed to protect, not destroy. Attorney Ed Hays’ actions are a disgrace to his profession.](https://dev.to/darlenefayever/reading-the-filings-made-me-angry-and-sad-at-the-same-time-the-law-is-supposed-to-protect-not-2kb7)
+- [Java Add or Remove Worksheet from Excel](https://dev.to/lu_liu_e3fc806354d9a952b7/java-add-or-remove-worksheet-from-excel-5ha4)
 <!-- BLOG-POST-LIST:END -->
 
 
