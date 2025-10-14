@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trek to the Roof of the World: Witness Everest and Gokyo Lakes from the Majestic Gokyo Ri Viewpoint](https://dev.to/alice_jenkins_2a2980b9d4f/trek-to-the-roof-of-the-world-witness-everest-and-gokyo-lakes-from-the-majestic-gokyo-ri-viewpoint-ld4)
-- [Beautiful Lies About Software Development](https://dev.to/developerpartners/beautiful-lies-about-software-development-736)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8n8)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-57j8)
+- [Daily Artificial Intelligence Digest - Oct 14, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-14-2025-1ba1)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_fafe1668/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-9o4)
+- [The Cryptocurrency Market: Lessons from Downturns and Fundamentals](https://dev.to/krikri2025/the-cryptocurrency-market-lessons-from-downturns-and-fundamentals-474m)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_02ee41d0/your-projects-a-mess-its-not-you-its-your-frameworks-fault-ogc)
 <!-- BLOG-POST-LIST:END -->
 
 
