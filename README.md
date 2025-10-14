@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiler for &quot;Easy&quot; language from &quot;Etudes for Programmers&quot; book &lpar;1978&rpar;](https://dev.to/begoon/compiler-for-easy-language-from-etudes-for-programmers-book-1978-4nb1)
-- [Master Node.js &amp; Express.js: A Comprehensive Collection of Coding Challenges](https://dev.to/mohinsheikh/master-nodejs-expressjs-a-comprehensive-collection-of-coding-challenges-4aba)
-- [From Raw Leads to Predictive Insights: My Logistic Regression Assignment Journey](https://dev.to/vinanoliefo/from-raw-leads-to-predictive-insights-my-logistic-regression-assignment-journey-4dm2)
-- [Welcome to Parenting!](https://dev.to/jess/welcome-to-parenting-4afm)
+- [Tree Shaking in JavaScript - A Practical Guide](https://dev.to/md_isfaruddin_65557809e/tree-shaking-in-javascript-a-practical-guide-4bk7)
+- [Named Params in C](https://dev.to/jmatth11/named-params-in-c-2a2n)
+- [Your Website Speaks to Humans, But Does AI Understand It? A Deep Dive into the Dual Web Strategy](https://dev.to/thedavestack/your-website-speaks-to-humans-but-does-ai-understand-it-a-deep-dive-into-the-dual-web-strategy-4bp1)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3ajg)
 <!-- BLOG-POST-LIST:END -->
 
 
