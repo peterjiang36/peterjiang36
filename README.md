@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Some notes about the right usage of memoization in Python](https://dev.to/xba/some-notes-about-the-right-usage-of-memoization-in-python-1pdp)
-- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-446p)
-- [I Built a SaaS Without Looking at a Single Competitor. Here’s What I Learned](https://dev.to/wwenioaguiar/i-built-a-saas-without-looking-at-a-single-competitor-heres-what-i-learned-d12)
-- [How to build your own file-system MCP server &lpar;A step-by-step guide&rpar;](https://dev.to/jefreesujit/how-to-build-your-own-file-system-mcp-server-a-step-by-step-guide-5g07)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-50cc)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-21he)
+- [IGN: Dissidia Duellum Final Fantasy - Official Announcement Trailer](https://dev.to/gg_news/ign-dissidia-duellum-final-fantasy-official-announcement-trailer-1oon)
+- [CinemaSins: Everything Wrong With Gladiator II In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-gladiator-ii-in-15-minutes-or-less-7k1)
 <!-- BLOG-POST-LIST:END -->
 
 
