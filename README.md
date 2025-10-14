@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Seamless Authentication with ForgeRock AM and Security Token Service &lpar;STS&rpar;](https://dev.to/iamdevbox/unlocking-seamless-authentication-with-forgerock-am-and-security-token-service-sts-5dia)
-- [XOX Untitled](https://dev.to/harendra_godara_007/xox-untitled-58o8)
-- [Testing Oxide CMS End-to-End - Medium Export](https://dev.to/richet/testing-oxide-cms-end-to-end-medium-export-3i2o)
-- [🧪 The Anatomy of a Successful A/B Test at Scale](https://dev.to/mujtabat/the-anatomy-of-a-successful-ab-test-at-scale-371e)
+- [RealFi is the financial revolution we need](https://dev.to/bydotun/realfi-is-the-financial-revolution-we-need-4ad6)
+- [The AI Industry&#39;s Trillion-Dollar Infrastructure Problem](https://dev.to/techsparklive/the-ai-industrys-trillion-dollar-infrastructure-problem-17h9)
+- [Private Graphs, Public Insights: Feature Propagation with a Twist by Arvind Sundararajan](https://dev.to/arvind_sundararajan/private-graphs-public-insights-feature-propagation-with-a-twist-by-arvind-sundararajan-1065)
+- [Building Event-Driven Architectures on AWS: A Modern Approach to Scalability and Decoupling](https://dev.to/brayanarrieta/building-event-driven-architectures-on-aws-a-modern-approach-to-scalability-and-decoupling-50lg)
 <!-- BLOG-POST-LIST:END -->
 
 
