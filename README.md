@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-4ee6)
-- [IGN: SpongeBob SquarePants: Titans of the Tide - Official Steam Next Fest Demo Trailer](https://dev.to/gg_news/ign-spongebob-squarepants-titans-of-the-tide-official-steam-next-fest-demo-trailer-3b2m)
-- [IGN: The Outer Worlds 2 - Official Live Action Focus Group Trailer &lpar;Ft. Ben Schwartz, Marc Evan Jackson&rpar;](https://dev.to/gg_news/ign-the-outer-worlds-2-official-live-action-focus-group-trailer-ft-ben-schwartz-marc-evan-g7f)
-- [IGN: Tron: Ares - Official &#39;Light Skimmer&#39; Clip &lpar;2025&rpar; Jared Leto, Greta Lee](https://dev.to/gg_news/ign-tron-ares-official-light-skimmer-clip-2025-jared-leto-greta-lee-2fib)
+- [How to maximize security as a SMB for your entire business operations](https://dev.to/estrosec/how-to-maximize-security-as-a-smb-for-your-entire-business-operations-165n)
+- [Lake Formation workflow of RDS &amp; S3](https://dev.to/wakeup_flower_8591a6cb6a9/lake-formation-workflow-of-rds-s3-5g7f)
+- [Python 3.14 Deep Dive: Revolutionary Error Messages &amp; Advanced Debugging &lpar;Part 2 - Chapter 2/3&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/python-314-deep-dive-revolutionary-error-messages-advanced-debugging-part-2-chapter-23-1med)
+- [The Future of Front-End Development: Component-Driven in 2025 and Beyond 🌐](https://dev.to/tahamjp/the-future-of-front-end-development-component-driven-in-2025-and-beyond-4mni)
 <!-- BLOG-POST-LIST:END -->
 
 
