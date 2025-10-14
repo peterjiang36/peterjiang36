@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 Essential Beginner Guide](https://dev.to/gg_news/gamespot-battlefield-6-essential-beginner-guide-59dn)
-- [GameSpot: We Are So Back, It&#39;s So Over | Spot On Returns!](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-spot-on-returns-22cc)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-4cl1)
-- [IGN: IGN Fan Fest 2025: Fall Edition Livestream – Predator: Badlands, WWE 2K25, The Witcher, and More](https://dev.to/gg_news/ign-ign-fan-fest-2025-fall-edition-livestream-predator-badlands-wwe-2k25-the-witcher-and-mjo)
+- [LLM&#39;ler &quot;Soru Cevaplama&quot; konusunda kabiliyetlidirler](https://dev.to/cihad/an-example-about-structuring-data-progress-by-ai-1en8)
+- [Essential Strategies for Building Accessible Web Applications That Welcome All Users](https://dev.to/aaravjoshi/essential-strategies-for-building-accessible-web-applications-that-welcome-all-users-3hfd)
+- [Best Time Tracking Software to Stay Productive](https://dev.to/tmetric_timer_2b3a575fc8b/best-time-tracking-software-to-stay-productive-5h97)
+- [🚀 Introducing JPlus – The Java Superset Language You&#39;ve Been Waiting For!](https://dev.to/cheol_jeon_9e29b98fdb7e1e/introducing-jplus-the-java-superset-language-youve-been-waiting-for-248)
 <!-- BLOG-POST-LIST:END -->
 
 
