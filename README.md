@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you hacked?](https://dev.to/shivakshi_rawat_e69cf6990/are-you-hacked-1e1h)
-- [Fixing the Half-Transaction Problem in Real-Time CDC](https://dev.to/__354f265b41dafa0d901b/fixing-the-half-transaction-problem-in-real-time-cdc-57o4)
-- [Reading the filings made me angry and sad at the same time. The law is supposed to protect, not destroy. Attorney Ed Hays’ actions are a disgrace to his profession.](https://dev.to/darlenefayever/reading-the-filings-made-me-angry-and-sad-at-the-same-time-the-law-is-supposed-to-protect-not-2kb7)
-- [Java Add or Remove Worksheet from Excel](https://dev.to/lu_liu_e3fc806354d9a952b7/java-add-or-remove-worksheet-from-excel-5ha4)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-4ee6)
+- [IGN: SpongeBob SquarePants: Titans of the Tide - Official Steam Next Fest Demo Trailer](https://dev.to/gg_news/ign-spongebob-squarepants-titans-of-the-tide-official-steam-next-fest-demo-trailer-3b2m)
+- [IGN: The Outer Worlds 2 - Official Live Action Focus Group Trailer &lpar;Ft. Ben Schwartz, Marc Evan Jackson&rpar;](https://dev.to/gg_news/ign-the-outer-worlds-2-official-live-action-focus-group-trailer-ft-ben-schwartz-marc-evan-g7f)
+- [IGN: Tron: Ares - Official &#39;Light Skimmer&#39; Clip &lpar;2025&rpar; Jared Leto, Greta Lee](https://dev.to/gg_news/ign-tron-ares-official-light-skimmer-clip-2025-jared-leto-greta-lee-2fib)
 <!-- BLOG-POST-LIST:END -->
 
 
