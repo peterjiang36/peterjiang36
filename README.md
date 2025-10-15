@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ah)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3lib)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-3286)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-4moh)
+- [Build vs. Buy: Pre-Built Templates vs. Custom Middleware for SAP-Salesforce Integration](https://dev.to/buildert/build-vs-buy-pre-built-templates-vs-custom-middleware-for-sap-salesforce-integration-2fg1)
+- [Using zstandard on-the-fly &lpar;de&rpar;compression in Elixir](https://dev.to/ndrean/using-zstandard-on-the-fly-decompression-in-elixir-84k)
+- [Orchestrating and Observing Data Pipelines with Airflow, PostgreSQL, and Polar](https://dev.to/ctrix/orchestrating-and-observing-data-pipelines-with-airflow-postgresql-and-polar-nig)
+- [Unlocking the Power of AI in Software Development: A Comprehensive Guide](https://dev.to/mikeover/unlocking-the-power-of-ai-in-software-development-a-comprehensive-guide-7n9)
 <!-- BLOG-POST-LIST:END -->
 
 
