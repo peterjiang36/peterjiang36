@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding as Poetry: Why Every Engineer Should Write Readable Code](https://dev.to/themustaphatijani/coding-as-poetry-why-every-engineer-should-write-readable-code-4j91)
-- [The Art of the Map: Navigating the Modern ORM Landscape](https://dev.to/alex_aslam/the-art-of-the-map-navigating-the-modern-orm-landscape-3ijc)
-- [Sharing TypeScript Types in a Monorepo/BFF](https://dev.to/wantedhorizon1/sharing-typescript-types-in-a-monorepobff-2k8a)
-- [The Artisan&#39;s Journey: Sculpting JSON in Rails](https://dev.to/alex_aslam/the-artisans-journey-sculpting-json-in-rails-32ei)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2gk2)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-21kf)
+- [Why I changed to Cloudflare and you should too](https://dev.to/majdizlitni/why-i-changed-to-cloudflare-and-you-should-too-4544)
+- [Decoding the LLM Cipher: Unlocking AI Behavior Through Geometric Insights](https://dev.to/arvind_sundararajan/decoding-the-llm-cipher-unlocking-ai-behavior-through-geometric-insights-510i)
 <!-- BLOG-POST-LIST:END -->
 
 
