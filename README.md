@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-349b)
-- [IGN: IT: Welcome To Derry Exclusive Teaser | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-it-welcome-to-derry-exclusive-teaser-ign-fall-fan-fest-2025-3ek6)
-- [IGN: Keeper - Exclusive Clip | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-keeper-exclusive-clip-ign-fall-fan-fest-2025-3l53)
-- [IGN: Shark Dentist - Official Gameplay Trailer | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-shark-dentist-official-gameplay-trailer-ign-fall-fan-fest-2025-4o88)
+- [DevOps Days Philadelphia 2025: Security As A Control Loop, Resilience, Runtime Risks, And How AI Is Changing It](https://dev.to/gitguardian/devops-days-philadelphia-2025-security-as-a-control-loop-resilience-runtime-risks-and-how-ai-is-404g)
+- [Explore Chrome 140: Modern CSS Counters, Variable Fonts &amp; Popover Events](https://dev.to/raviranjan98210/explore-chrome-140-modern-css-counters-variable-fonts-popover-events-57ii)
+- [Kotlin Coroutines Cheat Sheet](https://dev.to/bpivoto/kotlin-coroutines-cheat-sheet-a95)
+- [Serving the World: Why CDNs Are Essential for Global Audiences](https://dev.to/rijultp/serving-the-world-why-cdns-are-essential-for-global-audiences-4meb)
 <!-- BLOG-POST-LIST:END -->
 
 
