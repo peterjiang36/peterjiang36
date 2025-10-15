@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Scanned 50 Web Agency Websites &amp; Most Failed Basic Security](https://dev.to/richard_angapin/i-scanned-50-web-agency-websites-most-failed-basic-security-pjb)
-- [ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It](https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4)
-- [Role of AI in Elementary Education: A Focus on Personalized Learning and Enhanced Engagement](https://dev.to/nikhilkapoor0919/role-of-ai-in-elementary-education-a-focus-on-personalized-learning-and-enhanced-engagement-b1i)
-- [Swipe-to-Delete with ArkUI on HarmonyOS Next: Intuitive UX for Wearable Devices](https://dev.to/harmonyos/swipe-to-delete-with-arkui-on-harmonyos-next-intuitive-ux-for-wearable-devices-2eg8)
+- [WTH is openFGA and implementing Role-Based Access Control in GO servers.](https://dev.to/yashraj10/wth-is-openfga-and-implementing-role-based-access-control-in-go-servers-5ahj)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-36nn)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2h85)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-44bk)
 <!-- BLOG-POST-LIST:END -->
 
 
