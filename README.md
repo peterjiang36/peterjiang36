@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Github Actions Locally??](https://dev.to/bupd/how-to-run-github-actions-locally-398c)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-132b)
-- [GameSpot: Which Battlefield 6 Class is Right For You](https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-3po5)
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-564)
+- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
+- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
+- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
+- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
 <!-- BLOG-POST-LIST:END -->
 
 
