@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Deep Understanding of JSX in React](https://dev.to/usama_dev/deep-understanding-of-jsx-in-react-2n9p)
-- [Monitorea Tus Agentes en Tiempo Real: Implementando Observabilidad con LangFuse en Strands Agents](https://dev.to/aws-espanol/monitorea-tus-agentes-en-tiempo-real-implementando-observabilidad-con-langfuse-en-strands-agents-412)
-- [12 Billion Parameters vs One Shoe: Taming FLUX.1 Kontext AI for E-commerce](https://dev.to/igornosatov_15/12-billion-parameters-vs-one-shoe-taming-flux1-kontext-ai-for-e-commerce-4b24)
-- [🤖 Convert XML to JSON Instantly — Because Who Has Time for Angle Brackets? ⚙️](https://dev.to/akashbijwe/convert-xml-to-json-instantly-because-who-has-time-for-angle-brackets-554j)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-349b)
+- [IGN: IT: Welcome To Derry Exclusive Teaser | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-it-welcome-to-derry-exclusive-teaser-ign-fall-fan-fest-2025-3ek6)
+- [IGN: Keeper - Exclusive Clip | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-keeper-exclusive-clip-ign-fall-fan-fest-2025-3l53)
+- [IGN: Shark Dentist - Official Gameplay Trailer | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-shark-dentist-official-gameplay-trailer-ign-fall-fan-fest-2025-4o88)
 <!-- BLOG-POST-LIST:END -->
 
 
