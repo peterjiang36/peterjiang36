@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Days Philadelphia 2025: Security As A Control Loop, Resilience, Runtime Risks, And How AI Is Changing It](https://dev.to/gitguardian/devops-days-philadelphia-2025-security-as-a-control-loop-resilience-runtime-risks-and-how-ai-is-404g)
-- [Explore Chrome 140: Modern CSS Counters, Variable Fonts &amp; Popover Events](https://dev.to/raviranjan98210/explore-chrome-140-modern-css-counters-variable-fonts-popover-events-57ii)
-- [Kotlin Coroutines Cheat Sheet](https://dev.to/bpivoto/kotlin-coroutines-cheat-sheet-a95)
-- [Serving the World: Why CDNs Are Essential for Global Audiences](https://dev.to/rijultp/serving-the-world-why-cdns-are-essential-for-global-audiences-4meb)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-3k8c)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-4hf0)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-2ono)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-3lfo)
 <!-- BLOG-POST-LIST:END -->
 
 
