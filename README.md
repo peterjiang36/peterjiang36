@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: The Family Plan 2 - Official Trailer &lpar;2025&rpar; Mark Wahlberg, Michelle Monaghan, Kit Harington](https://dev.to/gg_news/ign-the-family-plan-2-official-trailer-2025-mark-wahlberg-michelle-monaghan-kit-harington-f9n)
-- [IGN: Jurassic World Evolution 3 - Official Nevada Campaign Teaser Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-nevada-campaign-teaser-trailer-2pmj)
-- [IGN: Amanda The Adventurer 2 - Official Console Release Date Trailer](https://dev.to/gg_news/ign-amanda-the-adventurer-2-official-console-release-date-trailer-1ngp)
-- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-1gp)
+- [Vibe Coding Course in Telugu: Build Your First Project with Confidence](https://dev.to/padmaja_ch_f19982ca2d7e6b/vibe-coding-course-in-telugu-build-your-first-project-with-confidence-522o)
+- [🩺 Best Varicose Vein Treatment in Delhi: Discover Advanced Vascular Care with Dr. Tapish Sahu](https://dev.to/vascularcareindia/best-varicose-vein-treatment-in-delhi-discover-advanced-vascular-care-with-dr-tapish-sahu-19h9)
+- [Why ‘Pulses’ Beat Channels: Rethinking Digital Collaboration from the Ground Up](https://dev.to/nexy/why-pulses-beat-channels-rethinking-digital-collaboration-from-the-ground-up-2da9)
+- [Round TFT LCDs: What They Are and Why Designers Are Choosing Them](https://dev.to/liz_chen_8b314fa53cedea52/round-tft-lcds-what-they-are-and-why-designers-are-choosing-them-2f90)
 <!-- BLOG-POST-LIST:END -->
 
 
