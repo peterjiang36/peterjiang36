@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Production-Ready AI-Native MCP Server in TypeScript](https://dev.to/sholajegede/build-a-production-ready-ai-native-mcp-server-in-typescript-2034)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-4kpj)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-4bb6)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-1di3)
+- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
+- [Getting Started with Strands Agents: A Simple Guide to Building AI Agents the Easy Way](https://dev.to/abhinav_2510/getting-started-with-strands-agents-a-simple-guide-to-building-ai-agents-the-easy-way-976)
+- [Announcing InsForge’s Hacktoberfest 2025 — Contribute, build, and win](https://dev.to/hang_huang/announcing-insforges-hacktoberfest-2025-contribute-build-and-win-1cl2)
+- [Day 1251 : I need a break](https://dev.to/dwane/day-1251-i-need-a-break-k71)
 <!-- BLOG-POST-LIST:END -->
 
 
