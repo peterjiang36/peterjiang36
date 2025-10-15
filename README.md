@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Course in Telugu: Build Your First Project with Confidence](https://dev.to/padmaja_ch_f19982ca2d7e6b/vibe-coding-course-in-telugu-build-your-first-project-with-confidence-522o)
-- [🩺 Best Varicose Vein Treatment in Delhi: Discover Advanced Vascular Care with Dr. Tapish Sahu](https://dev.to/vascularcareindia/best-varicose-vein-treatment-in-delhi-discover-advanced-vascular-care-with-dr-tapish-sahu-19h9)
-- [Why ‘Pulses’ Beat Channels: Rethinking Digital Collaboration from the Ground Up](https://dev.to/nexy/why-pulses-beat-channels-rethinking-digital-collaboration-from-the-ground-up-2da9)
-- [Round TFT LCDs: What They Are and Why Designers Are Choosing Them](https://dev.to/liz_chen_8b314fa53cedea52/round-tft-lcds-what-they-are-and-why-designers-are-choosing-them-2f90)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ah)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-3lib)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-3286)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-4moh)
 <!-- BLOG-POST-LIST:END -->
 
 
