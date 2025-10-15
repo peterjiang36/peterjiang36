@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Auth and Role-Based Routing with Stack.Protected in Expo Router](https://dev.to/aaronksaunders/simplifying-auth-and-role-based-routing-with-stackprotected-in-expo-router-592m)
-- [Learning OpenGL Part 3:](https://dev.to/noticeablesmeh/opengl-part-3-4f05)
-- [Hiring in the Age of Agents: Why Culture Fit Will Be Decided by AI](https://dev.to/dassh_ai_d7d1d9701f089432/hiring-in-the-age-of-agents-why-culture-fit-will-be-decided-by-ai-n4k)
-- [Automation with Playwright: Building a Scalable Testing Architecture](https://dev.to/gustavomeilus/automation-with-playwright-building-a-scalable-testing-architecture-4cbo)
+- [Shipixy.com – Fast, Transparent, and Smarter Shipping for Everyone](https://dev.to/michael_rigney_aeaad1ab1f/shipixycom-fast-transparent-and-smarter-shipping-for-everyone-54a5)
+- [What is Type of?](https://dev.to/aj_arul/what-is-type-of-50h9)
+- [Untitled](https://dev.to/spotify_artist_00a5349d54/untitled-17f3)
+- [🧩 Understanding npm, Yarn, Bun &amp; Deno — The Secret Life of Package Managers &lpar;and Why Vite Loves Them&rpar;](https://dev.to/charan_gutti_cf60c6185074/understanding-npm-yarn-bun-deno-the-secret-life-of-package-managers-and-why-vite-loves-gdk)
 <!-- BLOG-POST-LIST:END -->
 
 
