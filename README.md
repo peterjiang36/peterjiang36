@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Vite + React App to Firebase with Staging and Production Environments](https://dev.to/aqibnawazdev/deploying-vite-react-app-to-firebase-with-staging-and-production-environments-4ekm)
-- [Lessons Learnt Building a Frontend Mentor Project](https://dev.to/kansoldev/lessons-learnt-building-a-frontend-mentor-project-1mhh)
-- [How I Hosted a WordPress Blog on a Subdomain While Keeping My Main Domain on Render](https://dev.to/haastrupea/how-i-hosted-a-wordpress-blog-on-a-subdomain-while-keeping-my-main-domain-on-render-4h9d)
-- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4jfi)
+- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4k4p)
+- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-2me5)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5goa)
 <!-- BLOG-POST-LIST:END -->
 
 
