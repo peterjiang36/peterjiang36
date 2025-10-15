@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
-- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
-- [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
-- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
+- [IGN: The Family Plan 2 - Official Trailer &lpar;2025&rpar; Mark Wahlberg, Michelle Monaghan, Kit Harington](https://dev.to/gg_news/ign-the-family-plan-2-official-trailer-2025-mark-wahlberg-michelle-monaghan-kit-harington-f9n)
+- [IGN: Jurassic World Evolution 3 - Official Nevada Campaign Teaser Trailer](https://dev.to/gg_news/ign-jurassic-world-evolution-3-official-nevada-campaign-teaser-trailer-2pmj)
+- [IGN: Amanda The Adventurer 2 - Official Console Release Date Trailer](https://dev.to/gg_news/ign-amanda-the-adventurer-2-official-console-release-date-trailer-1ngp)
+- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-1gp)
 <!-- BLOG-POST-LIST:END -->
 
 
