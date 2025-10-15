@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js in Modern Frontend Technology with Tailwind CSS](https://dev.to/sunny_sahu_f5201e84adb64a/nextjs-in-modern-frontend-technology-with-tailwind-css-2g2d)
-- [My First Dev Project](https://dev.to/marcin_zgola_b14ff1d580dc/my-first-dev-project-1e3a)
-- [How Stripe ToS Violations Can Quietly Kill Your SaaS &lpar;and How to Avoid It&rpar;](https://dev.to/stefant/how-stripe-tos-violations-can-quietly-kill-your-saas-and-how-to-avoid-it-4744)
-- [AI pump energy-saving control](https://dev.to/allen_liu_e88acb5147122d1/ai-pump-energy-saving-control-2ggl)
+- [IGN: Amanda The Adventurer 2 - Official Console Release Date Trailer](https://dev.to/gg_news/ign-amanda-the-adventurer-2-official-console-release-date-trailer-43pp)
+- [IGN: The Walking Dead Could Go On for Another 15 Years - IGN Daily Fix](https://dev.to/gg_news/ign-the-walking-dead-could-go-on-for-another-15-years-ign-daily-fix-2o2g)
+- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-5d45)
+- [IGN: Megabonk: Vlad Build Guide – Ultimate Lifesteal and AFK Power Setup](https://dev.to/gg_news/ign-megabonk-vlad-build-guide-ultimate-lifesteal-and-afk-power-setup-4fb6)
 <!-- BLOG-POST-LIST:END -->
 
 
