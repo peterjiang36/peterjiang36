@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4jfi)
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4k4p)
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-2me5)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5goa)
+- [The Linux Programming Interface - Time](https://dev.to/cangulmez/the-linux-programming-interface-time-2hbk)
+- [The #1 Cloud Security Mistake Law Firms Make: Not Protecting Client Data](https://dev.to/heyjoshlee/the-1-cloud-security-mistake-law-firms-make-protect-client-data-3i03)
+- [📰 Major Tech News: Oct 15th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-15th-2025-2g52)
+- [Generated Content](https://dev.to/iankhanfuturist/generated-content-34lp)
 <!-- BLOG-POST-LIST:END -->
 
 
