@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Engine for Your Codebase](https://dev.to/claire_rosenfeld_e29a8e1a/understanding-engine-for-your-codebase-dka)
-- [No Code Chrome Extension Builder: Create Extensions in Seconds](https://dev.to/kromio/no-code-chrome-extension-builder-create-extensions-in-seconds-54n1)
-- [The Complete Guide to Testing React &amp; Next.js Applications with Cypress](https://dev.to/mohamedsaidibrahim/the-complete-guide-to-testing-react-nextjs-applications-with-cypress-1e05)
-- [Core Technical Topics to Master in Cypress for Effective E2E Testing](https://dev.to/mohamedsaidibrahim/core-technical-topics-to-master-in-cypress-for-effective-e2e-testing-25fm)
+- [Build a Production-Ready AI-Native MCP Server in TypeScript](https://dev.to/sholajegede/build-a-production-ready-ai-native-mcp-server-in-typescript-2034)
+- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-4kpj)
+- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-4bb6)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-1di3)
 <!-- BLOG-POST-LIST:END -->
 
 
