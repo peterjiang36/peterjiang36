@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipixy.com – Fast, Transparent, and Smarter Shipping for Everyone](https://dev.to/michael_rigney_aeaad1ab1f/shipixycom-fast-transparent-and-smarter-shipping-for-everyone-54a5)
-- [What is Type of?](https://dev.to/aj_arul/what-is-type-of-50h9)
-- [Untitled](https://dev.to/spotify_artist_00a5349d54/untitled-17f3)
-- [🧩 Understanding npm, Yarn, Bun &amp; Deno — The Secret Life of Package Managers &lpar;and Why Vite Loves Them&rpar;](https://dev.to/charan_gutti_cf60c6185074/understanding-npm-yarn-bun-deno-the-secret-life-of-package-managers-and-why-vite-loves-gdk)
+- [🧠 Deep Understanding of JSX in React](https://dev.to/usama_dev/deep-understanding-of-jsx-in-react-2n9p)
+- [Monitorea Tus Agentes en Tiempo Real: Implementando Observabilidad con LangFuse en Strands Agents](https://dev.to/aws-espanol/monitorea-tus-agentes-en-tiempo-real-implementando-observabilidad-con-langfuse-en-strands-agents-412)
+- [12 Billion Parameters vs One Shoe: Taming FLUX.1 Kontext AI for E-commerce](https://dev.to/igornosatov_15/12-billion-parameters-vs-one-shoe-taming-flux1-kontext-ai-for-e-commerce-4b24)
+- [🤖 Convert XML to JSON Instantly — Because Who Has Time for Angle Brackets? ⚙️](https://dev.to/akashbijwe/convert-xml-to-json-instantly-because-who-has-time-for-angle-brackets-554j)
 <!-- BLOG-POST-LIST:END -->
 
 
