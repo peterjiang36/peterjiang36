@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: My Thoughts on Rush&#39;s NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-2gk2)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-21kf)
-- [Why I changed to Cloudflare and you should too](https://dev.to/majdizlitni/why-i-changed-to-cloudflare-and-you-should-too-4544)
-- [Decoding the LLM Cipher: Unlocking AI Behavior Through Geometric Insights](https://dev.to/arvind_sundararajan/decoding-the-llm-cipher-unlocking-ai-behavior-through-geometric-insights-510i)
+- [I Scanned 50 Web Agency Websites &amp; Most Failed Basic Security](https://dev.to/richard_angapin/i-scanned-50-web-agency-websites-most-failed-basic-security-pjb)
+- [ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It](https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4)
+- [Role of AI in Elementary Education: A Focus on Personalized Learning and Enhanced Engagement](https://dev.to/nikhilkapoor0919/role-of-ai-in-elementary-education-a-focus-on-personalized-learning-and-enhanced-engagement-b1i)
+- [Swipe-to-Delete with ArkUI on HarmonyOS Next: Intuitive UX for Wearable Devices](https://dev.to/harmonyos/swipe-to-delete-with-arkui-on-harmonyos-next-intuitive-ux-for-wearable-devices-2eg8)
 <!-- BLOG-POST-LIST:END -->
 
 
