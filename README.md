@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Amanda The Adventurer 2 - Official Console Release Date Trailer](https://dev.to/gg_news/ign-amanda-the-adventurer-2-official-console-release-date-trailer-43pp)
-- [IGN: The Walking Dead Could Go On for Another 15 Years - IGN Daily Fix](https://dev.to/gg_news/ign-the-walking-dead-could-go-on-for-another-15-years-ign-daily-fix-2o2g)
-- [IGN: Plants vs. Zombies: Replanted - Official Gameplay Deep Dive Trailer](https://dev.to/gg_news/ign-plants-vs-zombies-replanted-official-gameplay-deep-dive-trailer-5d45)
-- [IGN: Megabonk: Vlad Build Guide – Ultimate Lifesteal and AFK Power Setup](https://dev.to/gg_news/ign-megabonk-vlad-build-guide-ultimate-lifesteal-and-afk-power-setup-4fb6)
+- [The Science of First Impressions in UX Design](https://dev.to/dct_technology/the-science-of-first-impressions-in-ux-design-3lo1)
+- [Think Agile: Build a Smart QA Testing Strategy](https://dev.to/jignect-technologies/think-agile-build-a-smart-qa-testing-strategy-1a70)
+- [Day 09 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-09-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3oi2)
+- [🧠 How I Stay Motivated to Code When Projects Fail](https://dev.to/pjdeveloper896/how-i-stay-motivated-to-code-when-projects-fail-1l2k)
 <!-- BLOG-POST-LIST:END -->
 
 
