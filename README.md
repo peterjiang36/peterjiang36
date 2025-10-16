@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-56og)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-lp4)
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-44m7)
-- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-4pn)
+- [On dependencies in objects](https://dev.to/nfrankel/on-dependencies-in-objects-2m2k)
+- [10+ Best SEO Subreddits for Marketers and SEO Pros](https://dev.to/ann_f00ffa9f6314572da655d/10-best-seo-subreddits-for-marketers-and-seo-pros-371h)
+- [12 Innovative Data Science Projects for 2024: Transforming Ideas into Reality](https://dev.to/directdata_education_83e6/12-innovative-data-science-projects-for-2024-transforming-ideas-into-reality-3kcm)
+- [Lessons from Working with the OpenTelemetry Collector [Part 3]](https://dev.to/tomjohnson3/lessons-from-working-with-the-opentelemetry-collector-part-3-551l)
 <!-- BLOG-POST-LIST:END -->
 
 
