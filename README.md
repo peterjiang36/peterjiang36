@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
-- [You’re Not Alone — You Have an Army](https://dev.to/adegiamb/youre-not-alone-you-have-an-army-328e)
-- [Share Your Dev Projects Smarter, Not Harder](https://dev.to/rishi_gupta_978b32690ee39/share-your-dev-projects-smarter-not-harder-1614)
-- [From Manual API to AI Agent: Automating High-Stakes Art Storage Brokerage](https://dev.to/stockage-oeuvres-dart/from-manual-api-to-ai-agent-automating-high-stakes-art-storage-brokerage-203m)
+- [Mengembangkan Bahasa Pemrograman Baru, Apakah Masih Relevan Saat Ini?](https://dev.to/ketutdana/mengembangkan-bahasa-pemrograman-baru-apakah-masih-relevan-saat-ini-13o7)
+- [The Complete SORA 2 Guide: iOS, Web, API &amp; Automation &lpar;October 2025&rpar;](https://dev.to/aabyzov/the-complete-sora-2-guide-ios-web-api-automation-october-2025-15hc)
+- [Mina Rich Editor – A Block-Based Rich Text Editor Built With shadcn/ui and Tailwind CSS](https://dev.to/jqueryscript/mina-rich-editor-a-block-based-rich-text-editor-built-with-shadcnui-and-tailwind-css-3ig6)
+- [《LightGBM: 一种高效的梯度提升决策树算法》论文（A Highly Efficient Gradient Boosting Decision Tree）](https://dev.to/mangoquant/-lun-wen-a-highly-efficient-gradient-boosting-decision-tree-3g8b)
 <!-- BLOG-POST-LIST:END -->
 
 
