@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: OpenAI Introduces Lower-Cost Models to Compete with Meta, Mistral, and DeepSeek](https://dev.to/yagyaraj_sharma_6cd410179/title-openai-introduces-lower-cost-models-to-compete-with-meta-mistral-and-deepseek-3h0a)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-462p)
-- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-4c2d)
-- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-6ja)
+- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6)
+- [You’re Not Alone — You Have an Army](https://dev.to/adegiamb/youre-not-alone-you-have-an-army-328e)
+- [Share Your Dev Projects Smarter, Not Harder](https://dev.to/rishi_gupta_978b32690ee39/share-your-dev-projects-smarter-not-harder-1614)
+- [From Manual API to AI Agent: Automating High-Stakes Art Storage Brokerage](https://dev.to/stockage-oeuvres-dart/from-manual-api-to-ai-agent-automating-high-stakes-art-storage-brokerage-203m)
 <!-- BLOG-POST-LIST:END -->
 
 
