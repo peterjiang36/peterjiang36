@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-2pk5)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-i39)
-- [IGN: Battlefield 6 Multiplayer Review](https://dev.to/gg_news/ign-battlefield-6-multiplayer-review-6i0)
-- [IGN: Pokemon Legends: Z-A - First 14 Minutes of Gameplay](https://dev.to/gg_news/ign-pokemon-legends-z-a-first-14-minutes-of-gameplay-20bg)
+- [Complete Guide to Jest.spyOn for Unit Testing](https://dev.to/devin-rosario/complete-guide-to-jestspyon-for-unit-testing-4io6)
+- [Design Patterns for a Multi-Agent Future](https://dev.to/rohit_gavali_0c2ad84fe4e0/design-patterns-for-a-multi-agent-future-3jpe)
+- [Java Architecture](https://dev.to/dharshinieswaran/java-architecture-81l)
+- [How I Built My Website for Free Using GitHub Pages](https://dev.to/inzammam_ulhaq_794681107/how-i-built-my-website-for-free-using-github-pages-56ed)
 <!-- BLOG-POST-LIST:END -->
 
 
