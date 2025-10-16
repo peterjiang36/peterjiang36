@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Argo CD: Previewing Pull Requests changes in SECONDS! 🥵⚡️⏰](https://dev.to/dag-andersen/argo-cd-previewing-pull-requests-changes-in-seconds-241g)
-- [From Chaos to Clarity: How I Finally Stopped Hating State Management](https://dev.to/sepehrshapouri/from-chaos-to-clarity-how-i-finally-stopped-hating-state-management-2m87)
-- [Python Projects With Less Pain: Beginner&#39;s Guide to Virtual Environments](https://dev.to/julielinx/python-projects-with-less-pain-beginners-guide-to-virtual-environments-4o5a)
-- [What are the Javascript Data Types?](https://dev.to/aj_arul/what-are-the-javascript-data-types-1f5h)
+- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-4b7h)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-383p)
+- [The Edge Case Hunter&#39;s Guide: Comprehensive Unit Testing Beyond the Happy Path](https://dev.to/shreyas1009/the-edge-case-hunters-guide-comprehensive-unit-testing-beyond-the-happy-path-1nm8)
+- [IGN: Pokemon Legends: Z-A - First 14 Minutes of Gameplay](https://dev.to/gg_news/ign-pokemon-legends-z-a-first-14-minutes-of-gameplay-4k3o)
 <!-- BLOG-POST-LIST:END -->
 
 
