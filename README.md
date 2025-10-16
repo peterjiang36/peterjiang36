@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BAYESIAN AND FREQUENTISTS](https://dev.to/njeri_kimaru/bayesian-and-frequentists-o98)
-- [OpenAI Codex Launch: The Era of Workflow-Native Coding Agents](https://dev.to/kielp_riche_79dd07697340c/openai-codex-launch-the-era-of-workflow-native-coding-agents-2hhk)
-- [🧠 SnapMind — Bringing AI to One Keystroke](https://dev.to/louis7/snapmind-bringing-ai-to-one-keystroke-fmg)
-- [Been building AI agents for a year… but this small script blew my mind🫨👏](https://dev.to/chaitrali_kakde/been-building-ai-agents-for-a-year-but-this-small-script-blew-my-mind-1kpk)
+- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-1502)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-1m86)
+- [Day 5: Iteration vs. Recursion – The Safe Factorial Calculator](https://dev.to/shahrouzlogs/day-5-iteration-vs-recursion-the-safe-factorial-calculator-1n53)
+- [Mr Sunday Movies: Tron - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-caravan-of-garbage-2gnb)
 <!-- BLOG-POST-LIST:END -->
 
 
