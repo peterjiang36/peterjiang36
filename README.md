@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Battlefield 6 is Here And So Are We | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-is-here-and-so-are-we-kurt-lucy-gotcha-covered-35fk)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-4d9h)
-- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-42l0)
-- [GameSpot: Anno 117: Pax Romana - Official Game Overview Walkthrough Trailer](https://dev.to/gg_news/gamespot-anno-117-pax-romana-official-game-overview-walkthrough-trailer-4lhp)
+- [DNS Records Explained: Types, Purpose, and Failure Scenarios](https://dev.to/rijultp/dns-records-explained-types-purpose-and-failure-scenarios-139g)
+- [[Boost]](https://dev.to/rshivakumar/-9b)
+- [The Case Study as an API: A Developer&#39;s Blueprint for Converting B2B Leads](https://dev.to/michaelaiglobal/the-case-study-as-an-api-a-developers-blueprint-for-converting-b2b-leads-hnh)
+- [i made this](https://dev.to/aelshennawy/i-made-this-c8k)
 <!-- BLOG-POST-LIST:END -->
 
 
