@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
-- [How File Transfer Works: From Packets to Protocols](https://dev.to/lovestaco/how-file-transfer-works-from-packets-to-protocols-18f8)
-- [What Happens When You Click a Link](https://dev.to/aditi_deshmukh/what-happens-when-you-click-a-link-3ca5)
-- [Intro to Playwright &amp; Cypress: Choosing the Right Tool](https://dev.to/walltech/intro-to-playwright-cypress-choosing-the-right-tool-4kjp)
+- [GameSpot: Battlefield 6 Launches + Future of Xbox Unclear | Kurt &amp; Lucy Gotcha Covered](https://dev.to/gg_news/gamespot-battlefield-6-launches-future-of-xbox-unclear-kurt-lucy-gotcha-covered-3g07)
+- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-4829)
+- [IGN: Crimson Desert: How the Golden Star Dragon Boss Was Created](https://dev.to/gg_news/ign-crimson-desert-how-the-golden-star-dragon-boss-was-created-2d4h)
+- [IGN: Arena Breakout: Infinite - Official Forgotten Clan Trailer](https://dev.to/gg_news/ign-arena-breakout-infinite-official-forgotten-clan-trailer-1np8)
 <!-- BLOG-POST-LIST:END -->
 
 
