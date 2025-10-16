@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38)
-- [IGN: Escape From Duckov - Official Launch Trailer](https://dev.to/gg_news/ign-escape-from-duckov-official-launch-trailer-2n33)
-- [IGN: ROG Xbox Ally - Official Launch Trailer](https://dev.to/gg_news/ign-rog-xbox-ally-official-launch-trailer-ne7)
-- [IGN: Warhammer 40,000: Tacticus - Official &#39;The Space Hulk&#39; Events Trailer](https://dev.to/gg_news/ign-warhammer-40000-tacticus-official-the-space-hulk-events-trailer-41od)
+- [A Guide to Modern Browser Storage And Data Sharing Capabilities](https://dev.to/mrajaeim/a-guide-to-modern-browser-storage-and-data-sharing-capabilities-4eb8)
+- [How File Transfer Works: From Packets to Protocols](https://dev.to/lovestaco/how-file-transfer-works-from-packets-to-protocols-18f8)
+- [What Happens When You Click a Link](https://dev.to/aditi_deshmukh/what-happens-when-you-click-a-link-3ca5)
+- [Intro to Playwright &amp; Cypress: Choosing the Right Tool](https://dev.to/walltech/intro-to-playwright-cypress-choosing-the-right-tool-4kjp)
 <!-- BLOG-POST-LIST:END -->
 
 
