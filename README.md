@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS Records Explained: Types, Purpose, and Failure Scenarios](https://dev.to/rijultp/dns-records-explained-types-purpose-and-failure-scenarios-139g)
-- [[Boost]](https://dev.to/rshivakumar/-9b)
-- [The Case Study as an API: A Developer&#39;s Blueprint for Converting B2B Leads](https://dev.to/michaelaiglobal/the-case-study-as-an-api-a-developers-blueprint-for-converting-b2b-leads-hnh)
-- [i made this](https://dev.to/aelshennawy/i-made-this-c8k)
+- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-38)
+- [IGN: Escape From Duckov - Official Launch Trailer](https://dev.to/gg_news/ign-escape-from-duckov-official-launch-trailer-2n33)
+- [IGN: ROG Xbox Ally - Official Launch Trailer](https://dev.to/gg_news/ign-rog-xbox-ally-official-launch-trailer-ne7)
+- [IGN: Warhammer 40,000: Tacticus - Official &#39;The Space Hulk&#39; Events Trailer](https://dev.to/gg_news/ign-warhammer-40000-tacticus-official-the-space-hulk-events-trailer-41od)
 <!-- BLOG-POST-LIST:END -->
 
 
