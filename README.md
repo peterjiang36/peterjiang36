@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
-- [Distributed Applications. Part 1 - Overview](https://dev.to/lostghost/distributed-applications-part-1-overview-6g8)
-- [Handling Challenges in Cloud Migration: Tools for Ensuring Data Integrity and Speed](https://dev.to/oli_john_087e42c8f84/handling-challenges-in-cloud-migration-tools-for-ensuring-data-integrity-and-speed-3962)
-- [🎬 VORAvideo: How We Turn Text, Images &amp; Speech Into Cinematic Videos](https://dev.to/nico_hayes_f441fd59f0b0ff/voravideo-how-we-turn-text-images-speech-into-cinematic-videos-6l5)
+- [KEXP: Jorja Smith - With You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1i28)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-4hd8)
+- [KEXP: Jorja Smith - Try Me &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-35gp)
+- [KEXP: Jorja Smith - Be Honest &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-2bim)
 <!-- BLOG-POST-LIST:END -->
 
 
