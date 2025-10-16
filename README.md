@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O Valor do Qualis na Ciência Brasileira: Uma Doença Coletiva? &lpar;episódio de 2023&rpar;](https://dev.to/fronteirases/o-valor-do-qualis-na-ciencia-brasileira-uma-doenca-coletiva-episodio-de-2023-3mh5)
-- [Getting Started with Strands Agents: A Simple Guide to Building AI Agents the Easy Way](https://dev.to/abhinav_2510/getting-started-with-strands-agents-a-simple-guide-to-building-ai-agents-the-easy-way-976)
-- [Announcing InsForge’s Hacktoberfest 2025 — Contribute, build, and win](https://dev.to/hang_huang/announcing-insforges-hacktoberfest-2025-contribute-build-and-win-1cl2)
-- [Day 1251 : I need a break](https://dev.to/dwane/day-1251-i-need-a-break-k71)
+- [Title: OpenAI Introduces Lower-Cost Models to Compete with Meta, Mistral, and DeepSeek](https://dev.to/yagyaraj_sharma_6cd410179/title-openai-introduces-lower-cost-models-to-compete-with-meta-mistral-and-deepseek-3h0a)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-462p)
+- [KEXP: Ezra Furman - Submission &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-4c2d)
+- [KEXP: Ezra Furman - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-ezra-furman-full-performance-live-on-kexp-6ja)
 <!-- BLOG-POST-LIST:END -->
 
 
