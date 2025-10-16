@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: What is the Dream Lord of the Rings Game?](https://dev.to/gg_news/gamespot-what-is-the-dream-lord-of-the-rings-game-4a8i)
-- [GameSpot: We Are So Back, It&#39;s So Over | 5 Industry Trends You Should Care About](https://dev.to/gg_news/gamespot-we-are-so-back-its-so-over-5-industry-trends-you-should-care-about-lb5)
-- [IGN: CRKD x Gibson - Official Les Paul Cherry Sunburst CE Trailer | IGN Fall Fan Fest 2025](https://dev.to/gg_news/ign-crkd-x-gibson-official-les-paul-cherry-sunburst-ce-trailer-ign-fall-fan-fest-2025-1bnm)
-- [IGN: Sonic Rumble - Official Release Window Trailer](https://dev.to/gg_news/ign-sonic-rumble-official-release-window-trailer-2mgl)
+- [💥 Myth #16: Technical constraints are decided later](https://dev.to/tmorin/myth-16-technical-constraints-are-decided-later-28ha)
+- [Day 15 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-15-of-100-days-dsa-coding-challenge-36aj)
+- [Day 10 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-10-of-my-ai-data-mastery-journey-from-python-to-generative-ai-287)
+- [My personal blog built with Go and React](https://dev.to/joybtw/my-personal-blog-built-with-go-and-react-1pg7)
 <!-- BLOG-POST-LIST:END -->
 
 
