@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mengembangkan Bahasa Pemrograman Baru, Apakah Masih Relevan Saat Ini?](https://dev.to/ketutdana/mengembangkan-bahasa-pemrograman-baru-apakah-masih-relevan-saat-ini-13o7)
-- [The Complete SORA 2 Guide: iOS, Web, API &amp; Automation &lpar;October 2025&rpar;](https://dev.to/aabyzov/the-complete-sora-2-guide-ios-web-api-automation-october-2025-15hc)
-- [Mina Rich Editor – A Block-Based Rich Text Editor Built With shadcn/ui and Tailwind CSS](https://dev.to/jqueryscript/mina-rich-editor-a-block-based-rich-text-editor-built-with-shadcnui-and-tailwind-css-3ig6)
-- [《LightGBM: 一种高效的梯度提升决策树算法》论文（A Highly Efficient Gradient Boosting Decision Tree）](https://dev.to/mangoquant/-lun-wen-a-highly-efficient-gradient-boosting-decision-tree-3g8b)
+- [Playdate-Inspired Portfolio Template Using Next.js and TypeScript](https://dev.to/jqueryscript/playdate-inspired-portfolio-template-using-nextjs-and-typescript-3nhj)
+- [Aimslate：Ai Image Translator](https://dev.to/demetrius_hilpert/aimslateai-image-translator-2lah)
+- [Native Mapping in .NET: Take Control with Extension Methods](https://dev.to/joaooliveiratech/native-mapping-in-net-take-control-with-extension-methods-21dh)
+- [Building Dynamic Documents Content with Placeholdify](https://dev.to/nasrulhazim/building-dynamic-documents-content-with-placeholdify-l1i)
 <!-- BLOG-POST-LIST:END -->
 
 
