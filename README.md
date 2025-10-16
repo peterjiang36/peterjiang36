@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-4b7h)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-383p)
-- [The Edge Case Hunter&#39;s Guide: Comprehensive Unit Testing Beyond the Happy Path](https://dev.to/shreyas1009/the-edge-case-hunters-guide-comprehensive-unit-testing-beyond-the-happy-path-1nm8)
-- [IGN: Pokemon Legends: Z-A - First 14 Minutes of Gameplay](https://dev.to/gg_news/ign-pokemon-legends-z-a-first-14-minutes-of-gameplay-4k3o)
+- [How I Built a Blog for SynkPay with Next.js and BlogNow &lpar;and Went from 85 to 100 on PageSpeed&rpar;](https://dev.to/nagendra402/how-i-built-a-blog-for-synkpay-with-nextjs-and-blognow-and-went-from-85-to-100-on-pagespeed-2ie8)
+- [How Much Do We Really Lose to Video Game Piracy?](https://dev.to/guardingpearsoftware/how-much-do-we-really-lose-to-video-game-piracy-b22)
+- [Personal Wallet Warning Signal – Stopping Crypto Scams Before They Happen](https://dev.to/umirzokabduraxmanov606dotcom/personal-wallet-warning-signal-stopping-crypto-scams-before-they-happen-go7)
+- [Six Sigma Certification: Levels, Process, and Career Scope](https://dev.to/writegenic/six-sigma-certification-levels-process-and-career-scope-45e6)
 <!-- BLOG-POST-LIST:END -->
 
 
