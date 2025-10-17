@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Omniscience &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/omniscience-bite-size-article-5fc8)
-- [How I Fixed Lighthouse Score Drops Caused by Google Tag Manager &amp; Analytics](https://dev.to/lovestaco/how-i-fixed-lighthouse-score-drops-caused-by-google-tag-manager-analytics-2anm)
-- [e o tal do Microserviço?](https://dev.to/gabriela_mendes_428db6bb6/e-o-tal-do-microservico-51fa)
-- [Raw XPath is Dead: How XPathy&#39;s Fluent API Solves Your Flaky Test Problem](https://dev.to/volta_jebaprashanth_ac7af/raw-xpath-is-dead-how-xpathys-fluent-api-solves-your-flaky-test-problem-4h7g)
+- [IGN: Call of Duty vs. Battlefield: The Last Great Gaming Rivalry](https://dev.to/gg_news/ign-call-of-duty-vs-battlefield-the-last-great-gaming-rivalry-4lod)
+- [Swarm Intelligence: Unlocking AI Understanding Through Mimicry](https://dev.to/arvind_sundararajan/swarm-intelligence-unlocking-ai-understanding-through-mimicry-ei3)
+- [Build an AI Concierge App in ChatGPT](https://dev.to/gabeb03/build-an-ai-concierge-app-in-chatgpt-4gei)
+- [Understanding SSL and TLS Certificates, Verification, and Exportable Certificates](https://dev.to/rijultp/understanding-ssl-and-tls-certificates-verification-and-exportable-certificates-4k4i)
 <!-- BLOG-POST-LIST:END -->
 
 
