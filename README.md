@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10+ Best Dashboard Designs for 2025 &lpar;Free &amp; Paid&rpar;](https://dev.to/wrap-pixel/10-best-dashboard-designs-for-2025-free-paid-4epf)
-- [12 Productive tips for Backend Developers](https://dev.to/masteringbackend/12-productive-tips-for-backend-developers-353f)
-- [From Local to Global: How Portfolios Help You Get International Clients](https://dev.to/imtaslim/from-local-to-global-how-portfolios-help-you-get-international-clients-1k2j)
-- [Understanding Truthy and Falsy Values in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-truthy-and-falsy-values-in-javascript-beginners-guide-318k)
+- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-2jpb)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-13a3)
+- [✨ Supercharge Your Unreal Engine Workflow in Neovim: This Week&#39;s HUGE Update!](https://dev.to/taku25/supercharge-your-unreal-engine-workflow-in-neovim-this-weeks-huge-update-3c9g)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-16lb)
 <!-- BLOG-POST-LIST:END -->
 
 
