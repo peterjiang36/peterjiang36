@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Concurrency Made Simple and Safe in Go with go-pool](https://dev.to/rubengp99/concurrency-made-simple-and-safe-in-go-with-go-pool-2i59)
-- [3 Easy Geotargeting Options In SFMC &lpar;Including Postal Code Radius&rpar;](https://dev.to/ampscript-ninja/3-ridiculously-easy-ways-to-geotarget-in-sfmc-4n5k)
-- [Handling Large Payloads in Event-Driven Architectures on AWS &lpar;with CDK + TypeScript&rpar;](https://dev.to/andreparis/handling-large-payloads-in-event-driven-architectures-on-aws-with-cdk-typescript-1hck)
-- [Building with LLMs at Scale: Part 2 - Ergonomics and Observability](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-2-ergonomics-and-observability-1521)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-57p1)
+- [IGN: LEGO Disney Frozen: Operation Puffins - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-lego-disney-frozen-operation-puffins-official-trailer-2025-2npj)
+- [IGN: Pokemon Legends: Z-A - How to Find the Revitalizing Twig for Fennekin](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-find-the-revitalizing-twig-for-fennekin-35b3)
+- [IGN: Path of Exile: Keepers of the Flame - Official Announcement Teaser Trailer](https://dev.to/gg_news/ign-path-of-exile-keepers-of-the-flame-official-announcement-teaser-trailer-110p)
 <!-- BLOG-POST-LIST:END -->
 
 
