@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate Reactive Forms to Signal Forms](https://dev.to/brianmtreese/migrate-reactive-forms-to-signal-forms-132l)
-- [Competition of data processing languages on JVM: Kotlin, Scala and SPL](https://dev.to/esproc_spl/competition-of-data-processing-languages-on-jvm-kotlin-scala-and-spl-2pgc)
-- [🔥 Wow. This investigation exposes how PPP loan fraud has gone unchecked for too long. Tyler Davis and those involved should be held accountable for misusing taxpayer money.](https://dev.to/kierwolf20/wow-this-investigation-exposes-how-ppp-loan-fraud-has-gone-unchecked-for-too-long-tyler-davis-pgf)
-- [Retirement Planning In Pasadena, CA: A Clear, Local Guide You Can Actually Use](https://dev.to/markwayns/retirement-planning-in-pasadena-ca-a-clear-local-guide-you-can-actually-use-48)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3o57)
+- [KEXP: Circles Around the Sun - Hot Pursuit &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-12mp)
+- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-20fh)
+- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-1hj6)
 <!-- BLOG-POST-LIST:END -->
 
 
