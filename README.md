@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Circles Around the Sun &amp; Mikaela Davis - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-5e2g)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-3l)
-- [KEXP: Jorja Smith - On My Mind &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-5fkf)
-- [KEXP: Car Seat Headrest - Gethsemane &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-gethsemane-live-on-kexp-1njj)
+- [This Week In React #254: Next.js, Remix, Compiler, Async React | VirtualView, DevTools, Radon, Harness | Bun, Vite](https://dev.to/sebastienlorber/this-week-in-react-254-nextjs-remix-compiler-async-react-virtualview-devtools-radon-5cfp)
+- [What I Learned From Shutting Down My VC-Backed Startup](https://dev.to/jamie_davenport/what-i-learned-from-shutting-down-my-vc-backed-startup-2je0)
+- [From Grappling with AI to Commanding a Digital Workforce: Agentic AI on AWS](https://dev.to/taiwoadeleke12/from-grappling-with-ai-to-commanding-a-digital-workforce-agentic-ai-on-aws-1cji)
+- [The &quot;Shift-Left&quot; Imperative: Implementing Data Contracts in CI/CD Pipeline](https://dev.to/nabindebnath/the-shift-left-imperative-implementing-data-contracts-in-cicd-pipeline-40cl)
 <!-- BLOG-POST-LIST:END -->
 
 
