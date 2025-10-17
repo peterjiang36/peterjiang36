@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
-- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
-- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
-- [Creating API](https://dev.to/oseniadewale/creating-api-1c91)
+- [GameSpot: DISSIDIA DUELLUM FINAL FANTASY | Official Announcement Trailer](https://dev.to/gg_news/gamespot-dissidia-duellum-final-fantasy-official-announcement-trailer-310f)
+- [GameSpot: Ninja Gaiden 4 Everything To Know](https://dev.to/gg_news/gamespot-ninja-gaiden-4-everything-to-know-4gip)
+- [Quick Guide to SSH Login on Windows](https://dev.to/himanshu_dev/quick-guide-to-ssh-login-on-windows-4dc6)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-h2n)
 <!-- BLOG-POST-LIST:END -->
 
 
