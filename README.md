@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Event bubbling and Capturing in Java script](https://dev.to/arokiya_kithiyon_1f2bad36/event-bubbling-and-propagation-in-java-script-h2n)
-- [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://dev.to/technoblogger14o3/doordash-and-waymo-launch-autonomous-delivery-service-in-phoenix-3ikf)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-9ld)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-230o)
+- [🚀 Concurrency Made Simple and Safe in Go with go-pool](https://dev.to/rubengp99/concurrency-made-simple-and-safe-in-go-with-go-pool-2i59)
+- [3 Easy Geotargeting Options In SFMC &lpar;Including Postal Code Radius&rpar;](https://dev.to/ampscript-ninja/3-ridiculously-easy-ways-to-geotarget-in-sfmc-4n5k)
+- [Handling Large Payloads in Event-Driven Architectures on AWS &lpar;with CDK + TypeScript&rpar;](https://dev.to/andreparis/handling-large-payloads-in-event-driven-architectures-on-aws-with-cdk-typescript-1hck)
+- [Building with LLMs at Scale: Part 2 - Ergonomics and Observability](https://dev.to/laurent_charignon/building-with-llms-at-scale-part-2-ergonomics-and-observability-1521)
 <!-- BLOG-POST-LIST:END -->
 
 
