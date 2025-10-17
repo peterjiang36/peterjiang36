@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflections from InfoQ Munich 2025 -Platforms, People, and the Path to Sovereignty](https://dev.to/dvddpl/reflections-from-infoq-munich-2025-platforms-people-and-the-path-to-sovereignty-33ob)
-- [Best Vibecoding Blog Post With Tips &amp; Tricks From Across The Web &lpar;October 2025 Edition&rpar;](https://dev.to/with_attitude/best-vibecoding-blog-post-with-tips-tricks-from-across-the-web-october-2025-edition-55i0)
-- [Why We Built a Frontend That Outlives the Project](https://dev.to/jonas_landgrd_0ebeafe758/why-we-built-a-frontend-that-outlives-the-project-4ehp)
-- [GameSpot: Pokemon Legends: Z-A Review - A Battle Revolution](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-a-battle-revolution-2dpl)
+- [LobeChat: Where Bots Write 23% of the Code and Reviews Take 42 Seconds](https://dev.to/pullflow/lobechat-where-bots-write-23-of-the-code-and-reviews-take-42-seconds-25in)
+- [Amazon Athena: análises SQL diretas no S3 – quando usar, quanto custa e quais os limites](https://dev.to/thiagosagara/amazon-athena-analises-sql-diretas-no-s3-quando-usar-quanto-custa-e-quais-os-limites-4lie)
+- [AI Chatbot Developers: What&#39;s the &quot;Other Safety&quot; We Should Be Thinking About Now? User Protection.](https://dev.to/_768dd7ab130016ab8b0a/ai-chatbot-developers-whats-the-other-safety-we-should-be-thinking-about-now-user-protection-38pa)
+- [Creating API](https://dev.to/oseniadewale/creating-api-1c91)
 <!-- BLOG-POST-LIST:END -->
 
 
