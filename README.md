@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sign your AWS Lambda Code](https://dev.to/shajam/sign-your-aws-lambda-code-5cdh)
-- [Here&#39;s How to Change GNOME Fractal&#39;s Font Size](https://dev.to/archerallstars/heres-how-to-change-gnome-fractals-font-size-392j)
-- [Daily Artificial Intelligence Digest - Oct 17, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-17-2025-1p2e)
-- [🧠OrKa docs grew up: a YAML-first reference for Agents, Nodes, and Tools](https://dev.to/marcosomma/orka-docs-grew-up-a-yaml-first-reference-for-agents-nodes-and-tools-51ed)
+- [Event bubbling and Capturing in Java script](https://dev.to/arokiya_kithiyon_1f2bad36/event-bubbling-and-propagation-in-java-script-h2n)
+- [DoorDash and Waymo launch autonomous delivery service in Phoenix](https://dev.to/technoblogger14o3/doordash-and-waymo-launch-autonomous-delivery-service-in-phoenix-3ikf)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-9ld)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-230o)
 <!-- BLOG-POST-LIST:END -->
 
 
