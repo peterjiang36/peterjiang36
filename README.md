@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Is There Anything Bumblefoot Can&#39;t Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-245b)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-4kf3)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-55o9)
-- [GameSpot: You NEED to play Megabonk](https://dev.to/gg_news/gamespot-you-need-to-play-megabonk-9jg)
+- [Migrate Reactive Forms to Signal Forms](https://dev.to/brianmtreese/migrate-reactive-forms-to-signal-forms-132l)
+- [Competition of data processing languages on JVM: Kotlin, Scala and SPL](https://dev.to/esproc_spl/competition-of-data-processing-languages-on-jvm-kotlin-scala-and-spl-2pgc)
+- [🔥 Wow. This investigation exposes how PPP loan fraud has gone unchecked for too long. Tyler Davis and those involved should be held accountable for misusing taxpayer money.](https://dev.to/kierwolf20/wow-this-investigation-exposes-how-ppp-loan-fraud-has-gone-unchecked-for-too-long-tyler-davis-pgf)
+- [Retirement Planning In Pasadena, CA: A Clear, Local Guide You Can Actually Use](https://dev.to/markwayns/retirement-planning-in-pasadena-ca-a-clear-local-guide-you-can-actually-use-48)
 <!-- BLOG-POST-LIST:END -->
 
 
