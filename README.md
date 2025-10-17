@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-57p1)
-- [IGN: LEGO Disney Frozen: Operation Puffins - Official Trailer &lpar;2025&rpar;](https://dev.to/gg_news/ign-lego-disney-frozen-operation-puffins-official-trailer-2025-2npj)
-- [IGN: Pokemon Legends: Z-A - How to Find the Revitalizing Twig for Fennekin](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-find-the-revitalizing-twig-for-fennekin-35b3)
-- [IGN: Path of Exile: Keepers of the Flame - Official Announcement Teaser Trailer](https://dev.to/gg_news/ign-path-of-exile-keepers-of-the-flame-official-announcement-teaser-trailer-110p)
+- [Librephone: The Free Software Foundation’s Plan to Reclaim Mobile Freedom](https://dev.to/karan51ngh/librephone-the-free-software-foundations-plan-to-reclaim-mobile-freedom-1le5)
+- [11 Best Express.js Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-expressjs-courses-to-learn-in-2026-1g5a)
+- [Creating a Libras Recognizer with Artificial Intelligence and Teachable Machine](https://dev.to/giovanni786/creating-a-libras-recognizer-with-artificial-intelligence-and-teachable-machine-4npa)
+- [Excelize 2.10.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-2100-released-powerful-open-source-library-for-spreadsheet-excel-document-4pb7)
 <!-- BLOG-POST-LIST:END -->
 
 
