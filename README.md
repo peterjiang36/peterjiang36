@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #254: Next.js, Remix, Compiler, Async React | VirtualView, DevTools, Radon, Harness | Bun, Vite](https://dev.to/sebastienlorber/this-week-in-react-254-nextjs-remix-compiler-async-react-virtualview-devtools-radon-5cfp)
-- [What I Learned From Shutting Down My VC-Backed Startup](https://dev.to/jamie_davenport/what-i-learned-from-shutting-down-my-vc-backed-startup-2je0)
-- [From Grappling with AI to Commanding a Digital Workforce: Agentic AI on AWS](https://dev.to/taiwoadeleke12/from-grappling-with-ai-to-commanding-a-digital-workforce-agentic-ai-on-aws-1cji)
-- [The &quot;Shift-Left&quot; Imperative: Implementing Data Contracts in CI/CD Pipeline](https://dev.to/nabindebnath/the-shift-left-imperative-implementing-data-contracts-in-cicd-pipeline-40cl)
+- [Reflections from InfoQ Munich 2025 -Platforms, People, and the Path to Sovereignty](https://dev.to/dvddpl/reflections-from-infoq-munich-2025-platforms-people-and-the-path-to-sovereignty-33ob)
+- [Best Vibecoding Blog Post With Tips &amp; Tricks From Across The Web &lpar;October 2025 Edition&rpar;](https://dev.to/with_attitude/best-vibecoding-blog-post-with-tips-tricks-from-across-the-web-october-2025-edition-55i0)
+- [Why We Built a Frontend That Outlives the Project](https://dev.to/jonas_landgrd_0ebeafe758/why-we-built-a-frontend-that-outlives-the-project-4ehp)
+- [GameSpot: Pokemon Legends: Z-A Review - A Battle Revolution](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-a-battle-revolution-2dpl)
 <!-- BLOG-POST-LIST:END -->
 
 
