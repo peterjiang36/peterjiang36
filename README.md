@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistakes Were Made](https://dev.to/johannesmogashoa/mistakes-were-made-2p8n)
-- [Implementing a Language Server with Language Server Protocol - Basic Completion &lpar;Part 5&rpar;](https://dev.to/mistrysamvid/implementing-a-language-server-with-language-server-protocol-basic-completion-part-5-2apd)
-- [The Talent War Myth: Why Great IT Recruiters Are Building Communities, Not Hunting Candidates](https://dev.to/alex-john/the-talent-war-myth-why-great-it-recruiters-are-building-communities-not-hunting-candidates-527)
-- [Beyond the Layer: Unveiling the Power of a Well-Chosen Men&#39;s Coat](https://dev.to/keira_henry/beyond-the-layer-unveiling-the-power-of-a-well-chosen-mens-coat-327e)
+- [GameSpot: ROG Xbox Ally X Is Good, But Has Issues](https://dev.to/gg_news/gamespot-rog-xbox-ally-x-is-good-but-has-issues-338j)
+- [GameSpot: GameSpot Sports Is Here! Watch The All-New YouTube Channel](https://dev.to/gg_news/gamespot-gamespot-sports-is-here-watch-the-all-new-youtube-channel-4idp)
+- [IGN: Pokemon Legends: Z-A - How to Get a Kanto Starter &lpar;Charmander, Bulbasaur, Squirtle&rpar;](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-get-a-kanto-starter-charmander-bulbasaur-squirtle-3ojm)
+- [IGN: Baahubali: The Epic - Official Trailer #2 &lpar;2025&rpar;](https://dev.to/gg_news/ign-baahubali-the-epic-official-trailer-2-2025-2ap9)
 <!-- BLOG-POST-LIST:END -->
 
 
