@@ -74,13 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [QubesOS A Hypervisor as a Desktop](https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972)
-- [The future developer is not just a coder; they are an AI Operator.
-Someone who thinks in systems, speaks in prompts, and ships earlier.
-
-If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
-- [CodeHUB](https://dev.to/alexandre_braatzjunior_9/codehub-2el8)
-- [From Developer to AI Operator](https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5)
+- [Hot-Reload de Configurações de Portal Manager via /actuator/refresh no Spring Boot](https://dev.to/gilsonsilvati/hot-reload-de-configuracoes-de-portal-manager-via-actuatorrefresh-no-spring-boot-2p14)
+- [GNU Autoconf Archive &amp; Portability Library](https://dev.to/pauljlucas/gnu-autoconf-archive-portability-library-45o2)
+- [Set Up Flutter + FVM + Create Project on a New Computer](https://dev.to/ahasanpapon/set-up-flutter-fvm-create-project-on-a-new-computer-291g)
+- [KEXP: Car Seat Headrest - Lady Gay Approximately &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-lady-gay-approximately-live-on-kexp-12jn)
 <!-- BLOG-POST-LIST:END -->
 
 
