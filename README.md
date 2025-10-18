@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future Isn&#39;t Machines. It&#39;s Algorithms](https://dev.to/marikinyo/the-future-isnt-machines-its-algorithms-3d74)
-- [My First API Just Broke &lpar;And That Was the Point&rpar;](https://dev.to/titilola_olaitan/my-first-api-just-broke-and-that-was-the-point-337k)
-- [Untitled](https://dev.to/dennis_bc46e72066dfbe72a4/untitled-5om)
-- [Why Darkweb Marketplace Reviews Cannot Always Be Trusted](https://dev.to/tor_bbb/why-darkweb-marketplace-reviews-cannot-always-be-trusted-dga)
+- [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
+- [Developer Tooling #007](https://dev.to/patinthehat/developer-tooling-007-5a0p)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-pl3)
+- [NPR Music: Tame Impala: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-tame-impala-tiny-desk-concert-2n64)
 <!-- BLOG-POST-LIST:END -->
 
 
