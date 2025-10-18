@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Финальный тест обложки 987654321](https://dev.to/api_troll/finalnyi-tiest-oblozhki-987654321-368k)
-- [Frontend Developer Survival Kit 2025: Tools, Skills &amp; Trends You Need](https://dev.to/frontendtoolstech/frontend-developer-survival-kit-2025-tools-skills-trends-you-need-1bn3)
-- [I have started learning C#](https://dev.to/yloa/i-have-started-learning-c-4ck)
-- [Understanding CSRF: How Cross‑Site Request Forgery Works and How to Prevent It](https://dev.to/samleung/web-security-101-understanding-csrf-how-cross-site-request-forgery-works-and-how-to-prevent-it-3a06)
+- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-46je)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-2k2p)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-5b73)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Aged, But Still A Fine Wine - Review](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-aged-but-still-a-fine-wine-review-2pd0)
 <!-- BLOG-POST-LIST:END -->
 
 
