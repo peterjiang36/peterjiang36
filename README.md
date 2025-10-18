@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-35cf)
-- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-355e)
-- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-51hi)
-- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-27i9)
+- [🚀 Building a Dynamic Profile API — My HNG Backend Internship Stage 0 Experience](https://dev.to/queen_codes/building-a-dynamic-profile-api-my-hng-backend-internship-stage-0-experience-2e9c)
+- [A Token of My Affliction: The Hidden Pain Behind Every LLM](https://dev.to/learnwithadvi/a-token-of-my-affliction-the-hidden-pain-behind-every-llm-3ecl)
+- [Andrej Karpathy – It will take a decade to work through the issues with agents](https://dev.to/technoblogger14o3/andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents-315a)
+- [A Liberdade da Contenção Deliberada](https://dev.to/rdeavila/a-liberdade-da-contencao-deliberada-4kob)
 <!-- BLOG-POST-LIST:END -->
 
 
