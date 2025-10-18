@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GameSpot: ROG Xbox Ally X Is Good, But Has Issues](https://dev.to/gg_news/gamespot-rog-xbox-ally-x-is-good-but-has-issues-338j)
-- [GameSpot: GameSpot Sports Is Here! Watch The All-New YouTube Channel](https://dev.to/gg_news/gamespot-gamespot-sports-is-here-watch-the-all-new-youtube-channel-4idp)
-- [IGN: Pokemon Legends: Z-A - How to Get a Kanto Starter &lpar;Charmander, Bulbasaur, Squirtle&rpar;](https://dev.to/gg_news/ign-pokemon-legends-z-a-how-to-get-a-kanto-starter-charmander-bulbasaur-squirtle-3ojm)
-- [IGN: Baahubali: The Epic - Official Trailer #2 &lpar;2025&rpar;](https://dev.to/gg_news/ign-baahubali-the-epic-official-trailer-2-2025-2ap9)
+- [Practical Next.js Form Validation with @teonord/validator](https://dev.to/jeanduppont/practical-nextjs-form-validation-with-teonordvalidator-30hl)
+- [Supercharge Your Power Query Transformations: A Flexible Function for Changing Column Types](https://dev.to/essam404/supercharge-your-power-query-transformations-a-flexible-function-for-changing-column-types-4e4e)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4aoh)
+- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-1eln)
 <!-- BLOG-POST-LIST:END -->
 
 
