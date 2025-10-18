@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity 101 : data sanitization](https://dev.to/hexfloor/cybersecurity-101-data-sanitization-cgo)
-- [Invisible Tech: The Stuff You Don&#39;t See but Can&#39;t Live Without](https://dev.to/iste-vit/invisible-tech-the-stuff-you-dont-see-but-cant-live-without-n5o)
-- [Workwear Washing Guide: Correct Temperature, Detergent, and Care Steps](https://dev.to/disiplin_forml_e60c4755/workwear-washing-guide-correct-temperature-detergent-and-care-steps-59gp)
-- [Inside Google Jobs Series &lpar;Part 6&rpar;: AI &amp; Machine Learning Research](https://dev.to/jackm_345442a09fb53b/inside-google-jobs-series-part-6-ai-machine-learning-research-4h63)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-11ea)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1p1b)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-139a)
+- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-4ip0)
 <!-- BLOG-POST-LIST:END -->
 
 
