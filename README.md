@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IGN: Rooster Fighter - Official Anime Opening &lpar;What&#39;s a Hero? by Daruma ROLLIN&#39;&rpar;](https://dev.to/gg_news/ign-rooster-fighter-official-anime-opening-whats-a-hero-by-daruma-rollin-2215)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4b4p)
-- [Can My Ex Still See My Photos After I Deleted Them?](https://dev.to/yogsec/can-my-ex-still-see-my-photos-after-i-deleted-them-15o9)
-- [Turning a 10.1&quot; netbook to a somewhat usable PC.](https://dev.to/joepornillos/turning-a-101-netbook-to-a-somewhat-usable-pc-3mb)
+- [Say Goodbye to console.time&lpar;&rpar; and Hello to performance.mark&lpar;&rpar;!](https://dev.to/greenteaisgreat/say-goodbye-to-consoletime-and-hello-to-performancemark-5eom)
+- [Children with Autism: Powerful Ways to Support Them](https://dev.to/junecool/children-with-autism-powerful-ways-to-support-them-4kgj)
+- [Building a Real-Time Aircraft Landing Tracker for Kisumu Airport with AWS and OpenSky API](https://dev.to/copubah/building-a-real-time-aircraft-landing-tracker-for-kisumu-airport-with-aws-and-opensky-api-d9g)
+- [How DRBench Stress-Tests AI Agents for Real-World Enterprise Research](https://dev.to/aiwithapex/how-drbench-stress-tests-ai-agents-for-real-world-enterprise-research-d9)
 <!-- BLOG-POST-LIST:END -->
 
 
