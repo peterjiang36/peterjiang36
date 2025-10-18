@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hot-Reload de Configurações de Portal Manager via /actuator/refresh no Spring Boot](https://dev.to/gilsonsilvati/hot-reload-de-configuracoes-de-portal-manager-via-actuatorrefresh-no-spring-boot-2p14)
-- [GNU Autoconf Archive &amp; Portability Library](https://dev.to/pauljlucas/gnu-autoconf-archive-portability-library-45o2)
-- [Set Up Flutter + FVM + Create Project on a New Computer](https://dev.to/ahasanpapon/set-up-flutter-fvm-create-project-on-a-new-computer-291g)
-- [KEXP: Car Seat Headrest - Lady Gay Approximately &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-lady-gay-approximately-live-on-kexp-12jn)
+- [My Tech &amp; Coding Journey](https://dev.to/ekopteach/my-tech-coding-journey-1ad3)
+- [🗂️ Accessing Remote Files Seamlessly with SSHFS](https://dev.to/ernesto_malave_285068a60e/accessing-remote-files-seamlessly-with-sshfs-46bl)
+- [Team project 1](https://dev.to/johnphan2408/team-project-1-6c1)
+- [The Special Protocols Room: Magic Methods and Operator Overloading](https://dev.to/aaron_rose_0787cc8b4775a0/the-special-protocols-room-magic-methods-and-operator-overloading-4amk)
 <!-- BLOG-POST-LIST:END -->
 
 
