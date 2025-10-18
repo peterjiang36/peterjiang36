@@ -74,10 +74,13 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React](https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc)
-- [Developer Tooling #007](https://dev.to/patinthehat/developer-tooling-007-5a0p)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-pl3)
-- [NPR Music: Tame Impala: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-tame-impala-tiny-desk-concert-2n64)
+- [QubesOS A Hypervisor as a Desktop](https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972)
+- [The future developer is not just a coder; they are an AI Operator.
+Someone who thinks in systems, speaks in prompts, and ships earlier.
+
+If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
+- [CodeHUB](https://dev.to/alexandre_braatzjunior_9/codehub-2el8)
+- [From Developer to AI Operator](https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5)
 <!-- BLOG-POST-LIST:END -->
 
 
