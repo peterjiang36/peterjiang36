@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hourglass Concord — Scientific Hypothesis](https://dev.to/it_junior_theory_new/hourglass-concord-scientific-hypothesis-4o11)
-- [Linear regression Algorithm](https://dev.to/codeneuron/classification-of-machine-learning-algorithms-53ac)
-- [How I Built My Developer Portfolio — Step by Step](https://dev.to/fabianlou1s/how-i-built-my-developer-portfolio-step-by-step-21kc)
-- [AI Checkout and Agent Commerce: The Future of How We Shop](https://dev.to/gruve_abby_2bb4e7e1499283/ai-checkout-and-agent-commerce-the-future-of-how-we-shop-4a45)
+- [GameSpot: Vampire: The Masquerade - Bloodlines 2 Everything To Know](https://dev.to/gg_news/gamespot-vampire-the-masquerade-bloodlines-2-everything-to-know-46ee)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-d4n)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-59od)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-dob)
 <!-- BLOG-POST-LIST:END -->
 
 
