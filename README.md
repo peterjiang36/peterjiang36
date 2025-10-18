@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built &quot;recipeshare&quot; using nextjs - would love feedback](https://dev.to/vivekvemula21/i-built-recipeshare-using-nextjs-would-love-feedback-go0)
-- [LimeDB: Streamlined Deployment with New Docker Configurations for Dev &amp; Prod](https://dev.to/namanvashistha/limedb-streamlined-deployment-with-new-docker-configurations-for-dev-prod-7gh)
-- [Why curl and Your Browser Sometimes See Different Results](https://dev.to/rijultp/why-curl-and-your-browser-sometimes-see-different-results-3h2l)
-- [Building a Self-Healing Parking Detection System: MLOps on Autopilot 🚗](https://dev.to/kareemblessed/building-a-self-healing-parking-detection-system-mlops-on-autopilot-2gd8)
+- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-k21)
+- [GameSpot: Pokemon Legends: Z-A Review](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-review-2ap2)
+- [GameSpot: Battlefield 6: Full Review](https://dev.to/gg_news/gamespot-battlefield-6-full-review-2emj)
+- [GameSpot: Ghost of Yotei Ending Explained With Creative Director and Co-Director](https://dev.to/gg_news/gamespot-ghost-of-yotei-ending-explained-with-creative-director-and-co-director-1482)
 <!-- BLOG-POST-LIST:END -->
 
 
