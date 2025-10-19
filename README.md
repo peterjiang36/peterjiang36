@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
-- [How to Check If Random Forests Work for Your Dataset](https://dev.to/codeneuron/how-to-check-if-random-forests-work-for-your-dataset-23e0)
-- [Level Up Your Coding: Build Your Own AI Assistant!](https://dev.to/karthik_n/level-up-your-coding-build-your-own-ai-assistant-33f2)
-- [Building My First Backend API: A Dynamic Profile Endpoint HNG 13](https://dev.to/iyktech22/building-my-first-backend-api-a-dynamic-profile-endpoint-hng-13-3mjm)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-dhh)
+- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1nhn)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-11fc)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3j70)
 <!-- BLOG-POST-LIST:END -->
 
 
