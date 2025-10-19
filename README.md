@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [El cambio declarativo de Angular:](https://dev.to/angularfirebase/el-cambio-declarativo-de-angular-27ai)
-- [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
-- [Build Your Own Social Network in Under a Minute: The Ultimate Guide](https://dev.to/web4/build-your-own-social-network-in-under-a-minute-the-ultimate-guide-179i)
-- [Building My First RESTful API: Backend Wizards Stage 0 Journey 🚀](https://dev.to/luvie/building-my-first-restful-api-backend-wizards-stage-0-journey-2n51)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2ic7)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3o4e)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1f28)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-b6h)
 <!-- BLOG-POST-LIST:END -->
 
 
