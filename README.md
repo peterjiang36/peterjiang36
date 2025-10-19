@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как настроить свой OpenVPN сервер](https://dev.to/ovpn/kak-nastroit-svoi-openvpn-siervier-oke)
-- [Wordcamp Dhaka 2025 এর থেকে যা শিখলাম তার OSTA &lpar;Overly Simplified Take Away&rpar;](https://dev.to/sakib3201/wordcamp-dhaka-2025-er-theke-yaa-shikhlaam-taar-osta-2af)
-- [Resume AI Creator: Building an Intelligent Resume Platform with MCP and Auth0](https://dev.to/uratmangun/resume-ai-creator-building-an-intelligent-resume-platform-with-mcp-and-auth0-4039)
-- [Deep dive Tainted Grail [3] - Medusa - blazing fast cliffs rendering](https://dev.to/kamilvdono/deep-dive-tainted-grail-3-medusa-blazing-fast-cliffs-rendering-4pi1)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3o9i)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-13nf)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-p85)
+- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-5np)
 <!-- BLOG-POST-LIST:END -->
 
 
