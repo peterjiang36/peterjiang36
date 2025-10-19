@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3o9i)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-13nf)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-p85)
-- [Mr Sunday Movies: Why is Tron: Ares bombing?](https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-5np)
+- [Laravel APP_KEY vs Password Hashing: What Every Developer Should Know About Encryption &amp; Hashing.](https://dev.to/eldeeno/laravel-appkey-vs-password-hashing-what-every-developer-should-know-about-encryption-hashing-2d7d)
+- [I Tried Beating LeetCode Like a Game. It Actually Worked.](https://dev.to/trojanmocx/i-tried-beating-leetcode-like-a-game-it-actually-worked-2dh3)
+- [📰 Major Tech News: Oct 19th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-19th-2025-3o9d)
+- [UI Finder: The One-Stop Solution for Finding UI Libraries](https://dev.to/alexovn/ui-finder-the-one-stop-solution-for-finding-ui-libraries-25f)
 <!-- BLOG-POST-LIST:END -->
 
 
