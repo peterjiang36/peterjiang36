@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mohsenshahbazi/-40lj)
-- [What role does energy efficiency play in the performance of tube ice machines?](https://dev.to/maqhielotubo_prem/what-role-does-energy-efficiency-play-in-the-performance-of-tube-ice-machines-5gl3)
-- [Article 2: Start Live Trading or Paper Trading? Freqtrade trade Command Explained](https://dev.to/itrade_icu_ae8778833e3e8c/article-2-start-live-trading-or-paper-trading-freqtrade-trade-command-explained-586k)
-- [[2023-06-25 Sun] I learned how to write tests in pytest](https://dev.to/anoncheg/2023-06-25-sun-i-learned-how-to-write-tests-in-pytest-47e7)
+- [Building an AI Agent That Commits and Raises PRs from Your Phone](https://dev.to/ponikar/building-an-ai-agent-that-commits-and-raises-prs-from-your-phone-1n78)
+- [⚡ Mastering React Performance Optimization: Speed Up Your Apps Like a Pro](https://dev.to/aryan_jain/mastering-react-performance-optimization-speed-up-your-apps-like-a-pro-ecl)
+- [How Razorpay Ensures Your Payment Succeeds — Even If Your Internet Drops](https://dev.to/zeeshanali0704/how-razorpay-ensures-your-payment-succeeds-even-if-your-internet-drops-3aji)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-49ko)
 <!-- BLOG-POST-LIST:END -->
 
 
