@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Introduction to PostgreSQL - Your Journey Begins](https://dev.to/hardik_kanajariya/day-1-introduction-to-postgresql-your-journey-begins-hn7)
-- [Understanding the Event Loop and Concurrency in JavaScript &lpar;Beginner’s Guide&rpar;](https://dev.to/wisdomudo/understanding-the-event-loop-and-concurrency-in-javascript-beginners-guide-5ob)
-- [Laughing Through the Code: Dev&#39;s Guide to October 19&#39;s Tech Qwirks](https://dev.to/om_shree_0709/laughing-through-the-code-devs-guide-to-october-19s-tech-qwirks-1h1f)
-- [I built a real-time trading simulator with Next.js and Socket.IO](https://dev.to/midodev/i-built-a-real-time-trading-simulator-with-nextjs-and-socketio-5goj)
+- [From Permanent Access to Just-in-Time: A Startup&#39;s IAM Journey Part 3](https://dev.to/ccscaesar/from-permanent-access-to-just-in-time-a-startups-iam-journey-part-3-5c5a)
+- [HC05 / XBee First Steps](https://dev.to/danielmx/hc05-xbee-first-steps-3h48)
+- [Unlocking JavaScript Prototypes: A Real-World Guide with a Tasty Example 🍰](https://dev.to/rohit_singh_ee84e64941db7/unlocking-javascript-prototypes-a-real-world-guide-with-a-tasty-example-2bc2)
+- [Simulador do Setun, o computador Soviético Ternário Balanceado](https://dev.to/robsoncassiano-software/simulador-do-setun-o-computador-sovietico-ternario-balanceado-3j7b)
 <!-- BLOG-POST-LIST:END -->
 
 
