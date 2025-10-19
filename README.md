@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4)
-- [The Staging Ground Symbiote: A Deep Dive into Monkey Patching for Bug and Exception Simulation &lpar;Part 1: Foundations &amp; Risks&rpar;](https://dev.to/viniciuspuerto/the-staging-ground-symbiote-a-deep-dive-into-monkey-patching-for-bug-and-exception-simulation-36fn)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3afg)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3bkd)
+- [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
+
+The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb)
+- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
+- [** &quot;Ian Khan - Top Keynote Speaker in Belo Horizonte, Brazil](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-belo-horizonte-brazil-1anj)
+- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e)
 <!-- BLOG-POST-LIST:END -->
 
 
