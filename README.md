@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Next.js Form Validation with @teonord/validator](https://dev.to/jeanduppont/practical-nextjs-form-validation-with-teonordvalidator-30hl)
-- [Supercharge Your Power Query Transformations: A Flexible Function for Changing Column Types](https://dev.to/essam404/supercharge-your-power-query-transformations-a-flexible-function-for-changing-column-types-4e4e)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4aoh)
-- [KEXP: Jorja Smith - The Way I Love You &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-1eln)
+- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4)
+- [The Staging Ground Symbiote: A Deep Dive into Monkey Patching for Bug and Exception Simulation &lpar;Part 1: Foundations &amp; Risks&rpar;](https://dev.to/viniciuspuerto/the-staging-ground-symbiote-a-deep-dive-into-monkey-patching-for-bug-and-exception-simulation-36fn)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3afg)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-3bkd)
 <!-- BLOG-POST-LIST:END -->
 
 
