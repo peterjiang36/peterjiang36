@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Agent That Commits and Raises PRs from Your Phone](https://dev.to/ponikar/building-an-ai-agent-that-commits-and-raises-prs-from-your-phone-1n78)
-- [⚡ Mastering React Performance Optimization: Speed Up Your Apps Like a Pro](https://dev.to/aryan_jain/mastering-react-performance-optimization-speed-up-your-apps-like-a-pro-ecl)
-- [How Razorpay Ensures Your Payment Succeeds — Even If Your Internet Drops](https://dev.to/zeeshanali0704/how-razorpay-ensures-your-payment-succeeds-even-if-your-internet-drops-3aji)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-49ko)
+- [El cambio declarativo de Angular:](https://dev.to/angularfirebase/el-cambio-declarativo-de-angular-27ai)
+- [This was a feature not a bug🐞](https://dev.to/jeet_singh_63644d9175a9f6/this-was-a-feature-not-a-bug-mc3)
+- [Build Your Own Social Network in Under a Minute: The Ultimate Guide](https://dev.to/web4/build-your-own-social-network-in-under-a-minute-the-ultimate-guide-179i)
+- [Building My First RESTful API: Backend Wizards Stage 0 Journey 🚀](https://dev.to/luvie/building-my-first-restful-api-backend-wizards-stage-0-journey-2n51)
 <!-- BLOG-POST-LIST:END -->
 
 
