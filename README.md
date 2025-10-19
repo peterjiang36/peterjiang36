@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
-- [Learning Chinese Philosophy the Tech Way: A Practical Approach to the I Ching &lpar;易經&rpar; - Concepts, Culture, and a C# Console App3](https://dev.to/auyeungdavid_2847435260/learning-chinese-philosophy-the-tech-way-a-practical-approach-to-the-i-ching-yi-jing-concepts-4f5o)
-- [The writer and the bot](https://dev.to/jesstemporal/the-writer-and-the-bot-4ebm)
-- [Why is industrial application crucial when choosing a tube ice machine?](https://dev.to/maqtubohielo_auto/why-is-industrial-application-crucial-when-choosing-a-tube-ice-machine-1mca)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-5h42)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1abg)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-22o5)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-1ehp)
 <!-- BLOG-POST-LIST:END -->
 
 
