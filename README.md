@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-dhh)
-- [Rick Beato: Justin Hawkins Isn&#39;t Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-1nhn)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-11fc)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3j70)
+- [How to Build an Agent &lpar;in JavaScript&rpar;](https://dev.to/murthyug/how-to-build-an-agent-in-javascript-5hgp)
+- [Learning Chinese Philosophy the Tech Way: A Practical Approach to the I Ching &lpar;易經&rpar; - Concepts, Culture, and a C# Console App3](https://dev.to/auyeungdavid_2847435260/learning-chinese-philosophy-the-tech-way-a-practical-approach-to-the-i-ching-yi-jing-concepts-4f5o)
+- [The writer and the bot](https://dev.to/jesstemporal/the-writer-and-the-bot-4ebm)
+- [Why is industrial application crucial when choosing a tube ice machine?](https://dev.to/maqtubohielo_auto/why-is-industrial-application-crucial-when-choosing-a-tube-ice-machine-1mca)
 <!-- BLOG-POST-LIST:END -->
 
 
