@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SREday SF 2025: Human Centered SRE In An AI World](https://dev.to/dwayne_mcdaniel/sreday-sf-2025-human-centered-sre-in-an-ai-world-4a6k)
-- [Web Development Discord Server](https://dev.to/faraba2000_8c9cacc0f8d3ae/web-development-discord-server-4m0j)
-- [Generated Content](https://dev.to/iankhanfuturist/generated-content-44b1)
-- [Multi-Agent Systems with Strands Agents](https://dev.to/aws/multi-agent-systems-with-strands-agents-from-theory-to-swarm-intelligence-1nm6)
+- [Tu primer sitio web estático con AWS CDK y Python](https://dev.to/chainiz/tu-primer-sitio-web-estatico-con-aws-cdk-y-python-179i)
+- [Claude Code Windows Shortcuts Plan Mode/Edit Mode](https://dev.to/adzhydra/claude-code-windows-shortcuts-plan-modeedit-mode-85d)
+- [🗂️ Clprolf Directory Explorer — When Breadth-First Becomes Intuitive](https://dev.to/charles_koffler_bcabc582b/clprolf-directory-explorer-when-breadth-first-becomes-intuitive-5a0f)
+- [Building The Apothecary: Learning Database Versioning Through Medieval Fantasy](https://dev.to/rami_gharbi/building-the-apothecary-learning-database-versioning-through-medieval-fantasy-4d2l)
 <!-- BLOG-POST-LIST:END -->
 
 
