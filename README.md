@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Equillar Uses PHP-Stellar SDK for Soroban Operations](https://dev.to/icolomina/how-equillar-uses-php-stellar-sdk-for-soroban-operations-38a4)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3m0f)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-nph)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2jbl)
+- [Introduction to Python Module Three Part One: Control Flow](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-one-control-flow-52pj)
+- [iFlow CLI](https://dev.to/with_attitude/iflow-cli-232i)
+- [Welcome to My post](https://dev.to/kuldeep_kuldeep/welcome-to-my-post-1f2c)
+- [Docker for Content Pipelines: A Pragmatic Playbook for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/docker-for-content-pipelines-a-pragmatic-playbook-for-small-teams-1ma9)
 <!-- BLOG-POST-LIST:END -->
 
 
