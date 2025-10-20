@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances](https://dev.to/theodora_e6f61d02577a5f06/creating-and-deploying-a-custom-docker-image-with-azure-container-registry-and-azure-container-3d80)
-- [My DevOps Journey: Part 10 - Deep Dive into AWS EC2 &lpar;Elastic Compute Cloud&rpar;](https://dev.to/sheershsinha/my-devops-journey-part-10-deep-dive-into-aws-ec2-elastic-compute-cloud-2d2n)
-- [How I Used Azure AI + Python to Build My Own Smart Community Assistant](https://dev.to/pavan_kumarmukkera_527ab/how-i-used-azure-ai-python-to-build-my-own-smart-community-assistant-ejk)
-- [Meetup: Refactor Like a Pro: Clean Code Meets DDD](https://dev.to/getjv/meetup-refactor-like-a-pro-clean-code-meets-ddd-5fkn)
+- [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
+- [Understanding Constructors in Java](https://dev.to/masteringbackend/understanding-constructors-in-java-4p1g)
+- [The Final Showdown: Choosing the Right Rendering Strategy Without Losing Your Mind](https://dev.to/lucasbrdt268/the-final-showdown-choosing-the-right-rendering-strategy-without-losing-your-mind-15i9)
+- [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
 <!-- BLOG-POST-LIST:END -->
 
 
