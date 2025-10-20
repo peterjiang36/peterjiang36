@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AI Roadmap Visualizer — turning engineering plans into pixel-perfect art](https://dev.to/kasiakab/ai-roadmap-visualizer-turning-engineering-plans-into-pixel-perfect-art-1f7o)
-- [Smart Water Pump Controller using ESP32 and Firebase &lpar;IoT Project&rpar;](https://dev.to/yugeshweb/smart-water-pump-controller-using-esp32-and-firebase-iot-project-3flj)
-- [How to Create a Firmware Version System in Zephyr RTOS](https://dev.to/ripan030/how-to-create-a-firmware-version-system-in-zephyr-rtos-i7o)
-- [CDEvents in Action #4: Webhook Transformers and Passive Monitoring](https://dev.to/davidb31/cdevents-in-action-4-webhook-transformers-and-passive-monitoring-ha0)
+- [Day 7 | 50 Projects in 50 Days](https://dev.to/augusta08/day-7-50-projects-in-50-days-4ga2)
+- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-3m53)
+- [Beyond Basic Chunks: Supercharge Your RAG with Docling and OpenSearch](https://dev.to/aairom/beyond-basic-chunks-supercharge-your-rag-with-docling-and-opensearch-294b)
+- [🧠 RAG &lpar;Retrieval-Augmented Generation&rpar;: The Secret Sauce Behind Smarter AI](https://dev.to/charan_gutti_cf60c6185074/rag-retrieval-augmented-generation-the-secret-sauce-behind-smarter-ai-4gdb)
 <!-- BLOG-POST-LIST:END -->
 
 
