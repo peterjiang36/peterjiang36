@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-7a)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-3ofa)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1pgb)
+- [Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You](https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c)
+- [Transition from Angular to Flutter](https://dev.to/beo_dan_4b44e99852f48ddb3/transition-from-angular-to-flutter-11gj)
+- [Daily Artificial Intelligence Digest - Oct 20, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-20-2025-4an6)
+- [requestPermissionsFromUser&lpar;&rpar; does not work or directly returns without asking the user.](https://dev.to/harmonyos/requestpermissionsfromuser-does-not-work-or-directly-returns-without-asking-the-user-mdn)
 <!-- BLOG-POST-LIST:END -->
 
 
