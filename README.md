@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
-- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
-- [Day 68 — Scaling with Terraform](https://dev.to/udoh_deborah_b1e484c474bf/day-68-scaling-with-terraform-4ig1)
-- [Why Clean Code Matters: Lessons from Uncle Bob](https://dev.to/dionarodrigues/why-clean-code-matters-lessons-from-uncle-bob-137l)
+- [How Equillar Uses PHP-Stellar SDK for Soroban Operations](https://dev.to/icolomina/how-equillar-uses-php-stellar-sdk-for-soroban-operations-38a4)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-3m0f)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-nph)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2jbl)
 <!-- BLOG-POST-LIST:END -->
 
 
