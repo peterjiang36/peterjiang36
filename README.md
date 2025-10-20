@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [So what is Open Source Software in a Source Available Software world?](https://dev.to/unsungnovelty/so-what-is-open-source-software-in-a-source-available-software-world-3cib)
-- [Automating Cross-Region Backups with AWS Backup for Disaster Recovery](https://dev.to/sudoconsultants/automating-cross-region-backups-with-aws-backup-for-disaster-recovery-4kem)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1p)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-41c1)
+- [🚀 AI Roadmap Visualizer — turning engineering plans into pixel-perfect art](https://dev.to/kasiakab/ai-roadmap-visualizer-turning-engineering-plans-into-pixel-perfect-art-1f7o)
+- [Smart Water Pump Controller using ESP32 and Firebase &lpar;IoT Project&rpar;](https://dev.to/yugeshweb/smart-water-pump-controller-using-esp32-and-firebase-iot-project-3flj)
+- [How to Create a Firmware Version System in Zephyr RTOS](https://dev.to/ripan030/how-to-create-a-firmware-version-system-in-zephyr-rtos-i7o)
+- [CDEvents in Action #4: Webhook Transformers and Passive Monitoring](https://dev.to/davidb31/cdevents-in-action-4-webhook-transformers-and-passive-monitoring-ha0)
 <!-- BLOG-POST-LIST:END -->
 
 
