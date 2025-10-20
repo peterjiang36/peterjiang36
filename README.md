@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pages Services In-Depth Analysis: Why Regional Niche Providers Might Be Better for You](https://dev.to/tony_chase_83955825282edc/pages-services-in-depth-analysis-why-regional-niche-providers-might-be-better-for-you-36c)
-- [Transition from Angular to Flutter](https://dev.to/beo_dan_4b44e99852f48ddb3/transition-from-angular-to-flutter-11gj)
-- [Daily Artificial Intelligence Digest - Oct 20, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-20-2025-4an6)
-- [requestPermissionsFromUser&lpar;&rpar; does not work or directly returns without asking the user.](https://dev.to/harmonyos/requestpermissionsfromuser-does-not-work-or-directly-returns-without-asking-the-user-mdn)
+- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-3b3i)
+- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4lg8)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4722)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-261c)
 <!-- BLOG-POST-LIST:END -->
 
 
