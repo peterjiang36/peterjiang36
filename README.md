@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Lesson I Wish I&#39;d Known 10 Years Ago to Become a Better Developer](https://dev.to/canro91/the-one-lesson-i-wish-id-known-10-years-ago-to-become-a-better-developer-5a8b)
-- [Using a Non-Deterministic System to Find Climate Patterns](https://dev.to/bcornils/using-a-non-deterministic-system-to-find-climate-patterns-4l43)
-- [Sora Isn&#39;t the Problem: It&#39;s the Mirror](https://dev.to/kahwee/sora-isnt-the-problem-its-the-mirror-hd8)
-- [Migrating from Remix to React Router v7](https://dev.to/kahwee/migrating-from-remix-to-react-router-v7-4gfo)
+- [Choosing Between Copilot Studio Full and Lite Experiences – A Design Thinking Perspective](https://dev.to/balagmadhu/choosing-between-copilot-studio-full-and-lite-experiences-a-design-thinking-perspective-5bn8)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3nl)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-2mil)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-2pb6)
 <!-- BLOG-POST-LIST:END -->
 
 
