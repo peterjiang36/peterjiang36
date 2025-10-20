@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7 | 50 Projects in 50 Days](https://dev.to/augusta08/day-7-50-projects-in-50-days-4ga2)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-3m53)
-- [Beyond Basic Chunks: Supercharge Your RAG with Docling and OpenSearch](https://dev.to/aairom/beyond-basic-chunks-supercharge-your-rag-with-docling-and-opensearch-294b)
-- [🧠 RAG &lpar;Retrieval-Augmented Generation&rpar;: The Secret Sauce Behind Smarter AI](https://dev.to/charan_gutti_cf60c6185074/rag-retrieval-augmented-generation-the-secret-sauce-behind-smarter-ai-4gdb)
+- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
+- [Cultivating Psychological Safety in Distributed Engineering Teams](https://dev.to/stormdjent/cultivating-psychological-safety-in-distributed-engineering-teams-1kjf)
+- [Idempotence in System Design: Full example](https://dev.to/lukasniessen/idempotence-in-system-design-full-example-2acb)
+- [Turning Financial Goals into Smart Mutual Fund Recommendations](https://dev.to/emilp/turning-financial-goals-into-smart-mutual-fund-recommendations-18ig)
 <!-- BLOG-POST-LIST:END -->
 
 
