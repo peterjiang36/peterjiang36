@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #212: 20 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k)
-- [How I Use Claude Code on My Phone with Termux and Tailscale](https://dev.to/skeptrune/how-i-use-claude-code-on-my-phone-with-termux-and-tailscale-nge)
-- [Why Engine Mount Inspections Matter in Aviation](https://dev.to/acornwelding_ca_4fb63d76c/why-engine-mount-inspections-matter-in-aviation-37io)
-- [Automating Network Devices with NETCONF and YANG in Puppet Edge](https://dev.to/puppet/automating-network-devices-with-netconf-and-yang-in-puppet-edge-3f04)
+- [Multi-Layer Cinematic Scroll Scene in Pure CSS](https://dev.to/prahalad/multi-layer-cinematic-scroll-scene-in-pure-css-11dk)
+- [Introduction of Dynamic Programming](https://dev.to/rubenhtun/introduction-of-dynamic-programming-1i18)
+- [Day 68 — Scaling with Terraform](https://dev.to/udoh_deborah_b1e484c474bf/day-68-scaling-with-terraform-4ig1)
+- [Why Clean Code Matters: Lessons from Uncle Bob](https://dev.to/dionarodrigues/why-clean-code-matters-lessons-from-uncle-bob-137l)
 <!-- BLOG-POST-LIST:END -->
 
 
