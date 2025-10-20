@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #743 - Writing Perl with LLMs](https://dev.to/szabgab/perl-weekly-743-writing-perl-with-llms-3d7o)
-- [Fundamentals of Document Databases](https://dev.to/danielphilipjohnson/fundamentals-of-document-databases-41dk)
-- [Manage Multiple Terraform Versions with tfswitch](https://dev.to/sahithi_v_ea2d0f17149bf0a/manage-multiple-terraform-versions-with-tfswitch-339n)
-- [From Linear to Systems Thinking: Solving Complex Tech Challenges](https://dev.to/danielphilipjohnson/from-linear-to-systems-thinking-solving-complex-tech-challenges-4nik)
+- [🛍️ 5 Things You Can Actually Buy with a Crypto Card &lpar;and 1 You Probably Shouldn’t&rpar;](https://dev.to/tanelith/5-things-you-can-actually-buy-with-a-crypto-card-and-1-you-probably-shouldnt-2hk0)
+- [Just Launched: Easy Teleprompter for Creators 🎥📱](https://dev.to/manoj_pedvi/just-launched-easy-teleprompter-for-creators-475)
+- [create Linux Virtual Machine on Azure in one minute](https://dev.to/jplazaro/create-linux-virtual-machine-on-azure-in-one-minute-1i0i)
+- [Beyond the Blues: Understanding the Complex Reality of Depression](https://dev.to/_2c78f2211e58fb9c5f4cf/beyond-the-blues-understanding-the-complex-reality-of-depression-5bpb)
 <!-- BLOG-POST-LIST:END -->
 
 
