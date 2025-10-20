@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Word Document Creation with Python: A Practical Guide](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-creation-with-python-a-practical-guide-21lf)
-- [Quark’s Outlines: Python Dictionaries](https://dev.to/mike-vincent/quarks-outlines-python-dictionaries-38m)
-- [Commenting in MySQL: Syntax, Hints, and Practical Examples](https://dev.to/dbvismarketing/commenting-in-mysql-syntax-hints-and-practical-examples-2895)
-- [The average dwell time of a certain type of product in the supermarket--SPL Programming Practice](https://dev.to/esproc_spl/the-average-dwell-time-of-a-certain-type-of-product-in-the-supermarket-spl-programming-practice-3if9)
+- [I hacked Sonoff RF Bridge to control my ceiling fan lights](https://dev.to/allentcm/i-hacked-sonoff-rf-bridge-to-control-my-ceiling-fan-lights-5hbd)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-4j5e)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1d14)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4bh4)
 <!-- BLOG-POST-LIST:END -->
 
 
