@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2da4)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-21a7)
-- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-5hj9)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5g73)
+- [Navigating the .NET Ecosystem: My Take on a Practical Roadmap](https://dev.to/eli77rhm/navigating-the-net-ecosystem-my-take-on-a-practical-roadmap-463o)
+- [Selenium Navigation and Page Interaction](https://dev.to/hasdata_com/selenium-navigation-and-page-interaction-5a3f)
+- [🧠 System Design: Foundations, Scaling Strategies, and Resilience Patterns](https://dev.to/matheusgomes062/system-design-foundations-scaling-strategies-and-resilience-patterns-1b79)
+- [[MATERIAL]- Taller Manos a la obra con git y github](https://dev.to/doncarmone/material-taller-manos-a-la-obra-con-git-y-github-4hfj)
 <!-- BLOG-POST-LIST:END -->
 
 
