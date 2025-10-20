@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the .NET Ecosystem: My Take on a Practical Roadmap](https://dev.to/eli77rhm/navigating-the-net-ecosystem-my-take-on-a-practical-roadmap-463o)
-- [Selenium Navigation and Page Interaction](https://dev.to/hasdata_com/selenium-navigation-and-page-interaction-5a3f)
-- [🧠 System Design: Foundations, Scaling Strategies, and Resilience Patterns](https://dev.to/matheusgomes062/system-design-foundations-scaling-strategies-and-resilience-patterns-1b79)
-- [[MATERIAL]- Taller Manos a la obra con git y github](https://dev.to/doncarmone/material-taller-manos-a-la-obra-con-git-y-github-4hfj)
+- [Creating and Deploying a Custom Docker Image with Azure Container Registry and Azure Container Instances](https://dev.to/theodora_e6f61d02577a5f06/creating-and-deploying-a-custom-docker-image-with-azure-container-registry-and-azure-container-3d80)
+- [My DevOps Journey: Part 10 - Deep Dive into AWS EC2 &lpar;Elastic Compute Cloud&rpar;](https://dev.to/sheershsinha/my-devops-journey-part-10-deep-dive-into-aws-ec2-elastic-compute-cloud-2d2n)
+- [How I Used Azure AI + Python to Build My Own Smart Community Assistant](https://dev.to/pavan_kumarmukkera_527ab/how-i-used-azure-ai-python-to-build-my-own-smart-community-assistant-ejk)
+- [Meetup: Refactor Like a Pro: Clean Code Meets DDD](https://dev.to/getjv/meetup-refactor-like-a-pro-clean-code-meets-ddd-5fkn)
 <!-- BLOG-POST-LIST:END -->
 
 
