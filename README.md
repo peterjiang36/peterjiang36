@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-47ed)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-36bh)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-50j1)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4362)
+- [Day 19 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-19-of-100-days-dsa-coding-challenge-42n5)
+- [List functions in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-functions-in-python-2-1nf2)
+- [Reativar automations específicas após update da aplicação no Oracle APEX](https://dev.to/valter_filho_24448308265f/reativar-automations-especificas-apos-update-da-aplicacao-no-oracle-apex-2cnj)
+- [Why Choose Go for Development?](https://dev.to/hugohenrick/why-choose-go-for-development-3kj0)
 <!-- BLOG-POST-LIST:END -->
 
 
