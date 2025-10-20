@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Car Seat Headrest - Planet Desperation &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-car-seat-headrest-planet-desperation-live-on-kexp-3b3i)
-- [Polyphonic: When artists don&#39;t write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-4lg8)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4722)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-261c)
+- [The One Lesson I Wish I&#39;d Known 10 Years Ago to Become a Better Developer](https://dev.to/canro91/the-one-lesson-i-wish-id-known-10-years-ago-to-become-a-better-developer-5a8b)
+- [Using a Non-Deterministic System to Find Climate Patterns](https://dev.to/bcornils/using-a-non-deterministic-system-to-find-climate-patterns-4l43)
+- [Sora Isn&#39;t the Problem: It&#39;s the Mirror](https://dev.to/kahwee/sora-isnt-the-problem-its-the-mirror-hd8)
+- [Migrating from Remix to React Router v7](https://dev.to/kahwee/migrating-from-remix-to-react-router-v7-4gfo)
 <!-- BLOG-POST-LIST:END -->
 
 
