@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 19 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-19-of-100-days-dsa-coding-challenge-42n5)
-- [List functions in Python &lpar;2&rpar;](https://dev.to/hyperkai/list-functions-in-python-2-1nf2)
-- [Reativar automations específicas após update da aplicação no Oracle APEX](https://dev.to/valter_filho_24448308265f/reativar-automations-especificas-apos-update-da-aplicacao-no-oracle-apex-2cnj)
-- [Why Choose Go for Development?](https://dev.to/hugohenrick/why-choose-go-for-development-3kj0)
+- [Day 2: Installing PostgreSQL and Setting Up Your Environment](https://dev.to/hardik_kanajariya/day-2-installing-postgresql-and-setting-up-your-environment-2l4c)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-7a)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-3ofa)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1pgb)
 <!-- BLOG-POST-LIST:END -->
 
 
