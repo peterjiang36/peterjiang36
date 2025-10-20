@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛍️ 5 Things You Can Actually Buy with a Crypto Card &lpar;and 1 You Probably Shouldn’t&rpar;](https://dev.to/tanelith/5-things-you-can-actually-buy-with-a-crypto-card-and-1-you-probably-shouldnt-2hk0)
-- [Just Launched: Easy Teleprompter for Creators 🎥📱](https://dev.to/manoj_pedvi/just-launched-easy-teleprompter-for-creators-475)
-- [create Linux Virtual Machine on Azure in one minute](https://dev.to/jplazaro/create-linux-virtual-machine-on-azure-in-one-minute-1i0i)
-- [Beyond the Blues: Understanding the Complex Reality of Depression](https://dev.to/_2c78f2211e58fb9c5f4cf/beyond-the-blues-understanding-the-complex-reality-of-depression-5bpb)
+- [Navigating Flyway&#39;s Unexpected Behavior in Database Evolution](https://dev.to/ijuren/navigating-flyways-unexpected-behavior-in-database-evolution-12cf)
+- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
+- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
+- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
 <!-- BLOG-POST-LIST:END -->
 
 
