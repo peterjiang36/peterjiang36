@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I hacked Sonoff RF Bridge to control my ceiling fan lights](https://dev.to/allentcm/i-hacked-sonoff-rf-bridge-to-control-my-ceiling-fan-lights-5hbd)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-4j5e)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1d14)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4bh4)
+- [Perl 🐪 Weekly #743 - Writing Perl with LLMs](https://dev.to/szabgab/perl-weekly-743-writing-perl-with-llms-3d7o)
+- [Fundamentals of Document Databases](https://dev.to/danielphilipjohnson/fundamentals-of-document-databases-41dk)
+- [Manage Multiple Terraform Versions with tfswitch](https://dev.to/sahithi_v_ea2d0f17149bf0a/manage-multiple-terraform-versions-with-tfswitch-339n)
+- [From Linear to Systems Thinking: Solving Complex Tech Challenges](https://dev.to/danielphilipjohnson/from-linear-to-systems-thinking-solving-complex-tech-challenges-4nik)
 <!-- BLOG-POST-LIST:END -->
 
 
