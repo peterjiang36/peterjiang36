@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Flyway&#39;s Unexpected Behavior in Database Evolution](https://dev.to/ijuren/navigating-flyways-unexpected-behavior-in-database-evolution-12cf)
-- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
-- [There’s a difference between being respected and being liked. But there’s a special kind of power in being both.](https://dev.to/themustaphatijani/theres-a-difference-between-being-respected-and-being-liked-but-theres-a-special-kind-of-power-357i)
-- [¿Herencia múltiple?](https://dev.to/baltasarq/herencia-multiple-497l)
+- [So what is Open Source Software in a Source Available Software world?](https://dev.to/unsungnovelty/so-what-is-open-source-software-in-a-source-available-software-world-3cib)
+- [Automating Cross-Region Backups with AWS Backup for Disaster Recovery](https://dev.to/sudoconsultants/automating-cross-region-backups-with-aws-backup-for-disaster-recovery-4kem)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-1p)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-41c1)
 <!-- BLOG-POST-LIST:END -->
 
 
