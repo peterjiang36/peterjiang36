@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Module Three Part One: Control Flow](https://dev.to/theoriginalbpc/introduction-to-python-module-three-part-one-control-flow-52pj)
-- [iFlow CLI](https://dev.to/with_attitude/iflow-cli-232i)
-- [Welcome to My post](https://dev.to/kuldeep_kuldeep/welcome-to-my-post-1f2c)
-- [Docker for Content Pipelines: A Pragmatic Playbook for Small Teams](https://dev.to/sonia_bobrik_1939cdddd79d/docker-for-content-pipelines-a-pragmatic-playbook-for-small-teams-1ma9)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2da4)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-21a7)
+- [Mr Sunday Movies: Tron: Legacy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-5hj9)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5g73)
 <!-- BLOG-POST-LIST:END -->
 
 
