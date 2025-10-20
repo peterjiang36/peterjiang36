@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💎 Introducing round_robin_assignment: A Reliable Round-Robin Assignment Gem for Rails](https://dev.to/mustafa_duranovic_b25293f/introducing-roundrobinassignment-a-reliable-round-robin-assignment-gem-for-rails-1dmc)
-- [Cultivating Psychological Safety in Distributed Engineering Teams](https://dev.to/stormdjent/cultivating-psychological-safety-in-distributed-engineering-teams-1kjf)
-- [Idempotence in System Design: Full example](https://dev.to/lukasniessen/idempotence-in-system-design-full-example-2acb)
-- [Turning Financial Goals into Smart Mutual Fund Recommendations](https://dev.to/emilp/turning-financial-goals-into-smart-mutual-fund-recommendations-18ig)
+- [All Data and AI Weekly #212: 20 Oct 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-212-20-oct-2025-3h6k)
+- [How I Use Claude Code on My Phone with Termux and Tailscale](https://dev.to/skeptrune/how-i-use-claude-code-on-my-phone-with-termux-and-tailscale-nge)
+- [Why Engine Mount Inspections Matter in Aviation](https://dev.to/acornwelding_ca_4fb63d76c/why-engine-mount-inspections-matter-in-aviation-37io)
+- [Automating Network Devices with NETCONF and YANG in Puppet Edge](https://dev.to/puppet/automating-network-devices-with-netconf-and-yang-in-puppet-edge-3f04)
 <!-- BLOG-POST-LIST:END -->
 
 
