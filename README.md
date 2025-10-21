@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-hcb)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-55o0)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3njp)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1e3c)
+- [I Built FRIDAY on My Phone to Stop Me From Scrolling. Devlog #1](https://dev.to/jackalgoespro/i-built-friday-on-my-phone-to-stop-me-from-scrolling-devlog-1-49fm)
+- [Ho visto abbastanza per capire che mi mancava un pezzo](https://dev.to/francesca_d_ami/ho-visto-abbastanza-per-capire-che-mi-mancava-un-pezzo-4322)
+- [AWS re/Start – My Week 10 Experience](https://dev.to/ijay/aws-restart-my-week-10-experience-12jb)
+- [What is Adobe Experience Manager &lpar;AEM&rpar;?](https://dev.to/viktorlazar/what-is-adobe-experience-manager-aem-316i)
 <!-- BLOG-POST-LIST:END -->
 
 
