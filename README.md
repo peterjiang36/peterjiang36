@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡10 JavaScript Concepts You Thought You Knew &lpar;But Didn’t&rpar;](https://dev.to/kushyarr7/10-javascript-concepts-you-thought-you-knew-but-didnt-23mb)
-- [[Boost]](https://dev.to/bekalu_adane_20c3cc020599/-1c0k)
-- [Understanding the Arduino IDE build process](https://dev.to/embeddedk8/understanding-the-arduino-ide-build-process-step-by-step-g61)
-- [AI can transform the way we developers think, build, and grow.](https://dev.to/jaideepparashar/ai-can-transform-the-way-we-developers-think-build-and-grow-3a5m)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-hcb)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-55o0)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3njp)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1e3c)
 <!-- BLOG-POST-LIST:END -->
 
 
