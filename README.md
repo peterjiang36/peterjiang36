@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
-- [Learning OpenGL Part 5: Lighting](https://dev.to/noticeablesmeh/learning-opengl-part-5-lightinting-2be7)
-- [When AWS Went Down: Lessons in Cloud Resilience from the Real World](https://dev.to/chioma_nwosu_99d57862fb18/when-aws-went-down-lessons-in-cloud-resilience-from-the-real-world-1a4k)
-- [How Distributed Tracing Really Works](https://dev.to/agardnerit/how-distributed-tracing-really-works-15b8)
+- [Simply Order &lpar;Part 5&rpar; — Hands-On: Building the Outbox Pattern for Reliable Event](https://dev.to/hassan314159/simply-order-part-5-hands-on-building-the-outbox-pattern-for-reliable-event-60n)
+- [Automata Alchemists: Transmuting Reinforcement Learning into State Machines by Arvind Sundararajan](https://dev.to/arvind_sundararajan/automata-alchemists-transmuting-reinforcement-learning-into-state-machines-by-arvind-sundararajan-4pjd)
+- [Configurar un CDN gratuito con GitHub y jsDelivr](https://dev.to/gekyzo/configurar-un-cdn-gratuito-con-github-y-jsdelivr-28al)
+- [FastMCP + Claude Desktop: When Optional[X] Type Hints Break Validation](https://dev.to/scott_raisbeck_24ea5fbc1e/fastmcp-claude-desktop-when-optionalx-type-hints-break-validation-3bmp)
 <!-- BLOG-POST-LIST:END -->
 
 
