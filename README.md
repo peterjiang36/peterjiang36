@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding and Updating Items in React Arrays](https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa)
-- [[Boost]](https://dev.to/ben/-1l4n)
-- [The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State](https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50)
-- [Dabs dev](https://dev.to/drake_bourque_36281e691a4/dabs-dev-4kif)
+- [Automating Code Reviews with Junie by JetBrains](https://dev.to/mteheran/automating-code-reviews-with-junie-by-jetbrains-jh2)
+- [Understanding Rate Limiting — Keeping APIs Fair, Fast, and Friendly](https://dev.to/cathylai/understanding-rate-limiting-keeping-apis-fair-fast-and-friendly-1lij)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2l6p)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-2mei)
 <!-- BLOG-POST-LIST:END -->
 
 
