@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 La Evolución de los Pagos con Criptomonedas: Por Qué el 2025 Se Trata de Integración, No de Especulación](https://dev.to/paddy_e4d3d274ebc7/la-evolucion-de-los-pagos-con-criptomonedas-por-que-el-2025-se-trata-de-integracion-no-de-15c5)
-- [A Complete Guide to Unit Testing in .NET Core &lpar;with xUnit, Moq, and FluentAssertions&rpar;](https://dev.to/morteza-jangjoo/a-complete-guide-to-unit-testing-in-net-core-with-xunit-moq-and-fluentassertions-3lkb)
-- [#01 - Me reciclando como dev](https://dev.to/whoisclebs/01-me-reciclando-como-dev-3f8a)
-- [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
+- [Claude Skills is the future](https://dev.to/horo_ursa/claude-skills-is-the-future-1b8b)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-47df)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-40jb)
+- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1aj4)
 <!-- BLOG-POST-LIST:END -->
 
 
