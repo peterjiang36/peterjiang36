@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: Testing out Donald Trump&#39;s new golf course &lpar;18 hole vlog&rpar;](https://dev.to/youtube_golf/peter-finch-golf-testing-out-donald-trumps-new-golf-course-18-hole-vlog-kfd)
-- [How I Became a Layout Manager from a Junior Frontend Developer in Just 8 Months](https://dev.to/usman_awan/how-i-became-a-layout-manager-from-a-junior-frontend-developer-in-just-8-months-407d)
-- [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4)
-- [AWS Outage Exposed Your SaaS Stack — Here’s How to Make It Resilient](https://dev.to/indika_wimalasuriya/aws-outage-exposed-your-saas-stack-heres-how-to-make-it-resilient-40gj)
+- [AWS : une panne « mondiale » ?](https://dev.to/aws-builders/aws-une-panne-mondiale--37n3)
+- [Build a Discord bot to expose Raindrop.io instances](https://dev.to/gregholmes/build-a-discord-bot-to-expose-raindropio-instances-2079)
+- [⚡ Qdrant: The Engine Powering Smart Search and Production-Ready AI](https://dev.to/charan_gutti_cf60c6185074/qdrant-the-engine-powering-smart-search-and-production-ready-ai-ebn)
+- [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://dev.to/technoblogger14o3/alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system-3eg0)
 <!-- BLOG-POST-LIST:END -->
 
 
