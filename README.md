@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Skills is the future](https://dev.to/horo_ursa/claude-skills-is-the-future-1b8b)
-- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-47df)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-40jb)
-- [CinemaSins: Everything Wrong With The Human Centipede 2 &lpar;Full Sequence&rpar; In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-1aj4)
+- [Hacktoberfest 2025: My Open Source Story as an AI Developer](https://dev.to/aniruddhaadak/hacktoberfest-2025-my-open-source-story-as-an-ai-developer-54aa)
+- [Kickstarting Our DSA Journey: Learning and Growing Together](https://dev.to/we_are_broken_compilers/kickstarting-our-dsa-journey-learning-and-growing-together-2pf9)
+- [NGINX API Authentication/Authorization](https://dev.to/terngr/nginx-api-authenticationauthorization-5hdg)
+- [Node.js fetch with proxy](https://dev.to/tincastle/nodejs-fetch-with-proxy-16nl)
 <!-- BLOG-POST-LIST:END -->
 
 
