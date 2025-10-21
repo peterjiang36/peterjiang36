@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS : une panne « mondiale » ?](https://dev.to/aws-builders/aws-une-panne-mondiale--37n3)
-- [Build a Discord bot to expose Raindrop.io instances](https://dev.to/gregholmes/build-a-discord-bot-to-expose-raindropio-instances-2079)
-- [⚡ Qdrant: The Engine Powering Smart Search and Production-Ready AI](https://dev.to/charan_gutti_cf60c6185074/qdrant-the-engine-powering-smart-search-and-production-ready-ai-ebn)
-- [Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system](https://dev.to/technoblogger14o3/alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system-3eg0)
+- [October 2025 AI Tool Roundup: A Developer&#39;s Perspective](https://dev.to/jdkhan/october-2025-ai-tool-roundup-a-developers-perspective-3ifh)
+- [I built a &quot;WOW&quot; factor portfolio template to stand out from the boring ones &lpar;HTML/CSS/JS&rpar;](https://dev.to/emrans99/i-built-a-wow-factor-portfolio-template-to-stand-out-from-the-boring-ones-htmlcssjs-3c7n)
+- [How to Implement Cookie Consent in Shopify the Right Way &lpar;With Zero Code Breaks&rpar;](https://dev.to/mehwish_malik_4f29ff7fb04/how-to-implement-cookie-consent-in-shopify-the-right-way-with-zero-code-breaks-1n8e)
+- [🧱 Lesson 2B -Implementing Domain Entities in Clean Architecture &lpar;.NET 8&rpar;](https://dev.to/farrukh_rehman/lesson-2b-implementing-domain-entities-in-clean-architecture-net-8-5485)
 <!-- BLOG-POST-LIST:END -->
 
 
