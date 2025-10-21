@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [October 2025 AI Tool Roundup: A Developer&#39;s Perspective](https://dev.to/jdkhan/october-2025-ai-tool-roundup-a-developers-perspective-3ifh)
-- [I built a &quot;WOW&quot; factor portfolio template to stand out from the boring ones &lpar;HTML/CSS/JS&rpar;](https://dev.to/emrans99/i-built-a-wow-factor-portfolio-template-to-stand-out-from-the-boring-ones-htmlcssjs-3c7n)
-- [How to Implement Cookie Consent in Shopify the Right Way &lpar;With Zero Code Breaks&rpar;](https://dev.to/mehwish_malik_4f29ff7fb04/how-to-implement-cookie-consent-in-shopify-the-right-way-with-zero-code-breaks-1n8e)
-- [🧱 Lesson 2B -Implementing Domain Entities in Clean Architecture &lpar;.NET 8&rpar;](https://dev.to/farrukh_rehman/lesson-2b-implementing-domain-entities-in-clean-architecture-net-8-5485)
+- [How to Tackle Numpy Matrix Operations in 2025?](https://dev.to/rociogarciavf/how-to-tackle-numpy-matrix-operations-in-2025-35g6)
+- [Common Naming Case Types](https://dev.to/michael-gokey/common-naming-case-types-14bo)
+- [A Straightforward Guide for B+Trees](https://dev.to/eyochen/a-straightforward-guide-for-btrees-33h9)
+- [Java Debugging Complete Guide 2024 - Master Bug Detection &amp; Resolution](https://dev.to/satyam_gupta_0d1ff2152dcc/java-debugging-complete-guide-2024-master-bug-detection-resolution-152m)
 <!-- BLOG-POST-LIST:END -->
 
 
