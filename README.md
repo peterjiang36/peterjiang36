@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SendGrid Killed Their Free Plan So I Built a $1/Month SendGrid Alternative Instead](https://dev.to/babu_munavarbasha/sendgrid-killed-their-free-plan-so-i-built-a-1month-sendgrid-alternative-instead-5750)
-- [Complete guide for router and controller with debugging](https://dev.to/nimra_kosar_9885e391ac9a2/complete-guide-for-router-and-controller-with-debugging-kp9)
-- [Writing your first LLVM plugin pass - add Instruction counter](https://dev.to/cppchedy/writing-your-first-llvm-plugin-pass-add-instruction-counter-25ib)
-- [Radial Explosion Zoom Gallery Effect](https://dev.to/prahalad/radial-explosion-zoom-gallery-effect-4fg5)
+- [Peter Finch Golf: Testing out Donald Trump&#39;s new golf course &lpar;18 hole vlog&rpar;](https://dev.to/youtube_golf/peter-finch-golf-testing-out-donald-trumps-new-golf-course-18-hole-vlog-kfd)
+- [How I Became a Layout Manager from a Junior Frontend Developer in Just 8 Months](https://dev.to/usman_awan/how-i-became-a-layout-manager-from-a-junior-frontend-developer-in-just-8-months-407d)
+- [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4)
+- [AWS Outage Exposed Your SaaS Stack — Here’s How to Make It Resilient](https://dev.to/indika_wimalasuriya/aws-outage-exposed-your-saas-stack-heres-how-to-make-it-resilient-40gj)
 <!-- BLOG-POST-LIST:END -->
 
 
