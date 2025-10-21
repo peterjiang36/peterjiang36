@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discriminated unions in C#](https://dev.to/ivansphoto/discriminated-unions-in-c-2gn2)
-- [Understanding Constructors in Java](https://dev.to/masteringbackend/understanding-constructors-in-java-4p1g)
-- [The Final Showdown: Choosing the Right Rendering Strategy Without Losing Your Mind](https://dev.to/lucasbrdt268/the-final-showdown-choosing-the-right-rendering-strategy-without-losing-your-mind-15i9)
-- [The Composition Workshop: Building with &quot;Has-A&quot; Relationships](https://dev.to/aaron_rose_0787cc8b4775a0/the-composition-workshop-building-with-has-a-relationships-3iah)
+- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystalpure-water-company-business-plan-development-3jla)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-ap)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-31o3)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5ajg)
 <!-- BLOG-POST-LIST:END -->
 
 
