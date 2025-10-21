@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Code Reviews with Junie by JetBrains](https://dev.to/mteheran/automating-code-reviews-with-junie-by-jetbrains-jh2)
-- [Understanding Rate Limiting — Keeping APIs Fair, Fast, and Friendly](https://dev.to/cathylai/understanding-rate-limiting-keeping-apis-fair-fast-and-friendly-1lij)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2l6p)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-2mei)
+- [🚀 La Evolución de los Pagos con Criptomonedas: Por Qué el 2025 Se Trata de Integración, No de Especulación](https://dev.to/paddy_e4d3d274ebc7/la-evolucion-de-los-pagos-con-criptomonedas-por-que-el-2025-se-trata-de-integracion-no-de-15c5)
+- [A Complete Guide to Unit Testing in .NET Core &lpar;with xUnit, Moq, and FluentAssertions&rpar;](https://dev.to/morteza-jangjoo/a-complete-guide-to-unit-testing-in-net-core-with-xunit-moq-and-fluentassertions-3lkb)
+- [#01 - Me reciclando como dev](https://dev.to/whoisclebs/01-me-reciclando-como-dev-3f8a)
+- [Warum sich Krypto-Apps noch immer „kaputt“ anfühlen – und wie wir das als Entwickler ändern können](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-sich-krypto-apps-noch-immer-kaputt-anfuhlen-und-wie-wir-das-als-entwickler-andern-konnen-1ohi)
 <!-- BLOG-POST-LIST:END -->
 
 
