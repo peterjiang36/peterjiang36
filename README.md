@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 20 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-20-of-100-days-dsa-coding-challenge-13ad)
-- [SimpleW](https://dev.to/stratdev_99e0066103e51dc1/simplew-fog)
-- [How to Build a Thread-Safe Rate Limiter with FastAPI and Atomic Redis](https://dev.to/aris_georgatos/how-to-build-a-thread-safe-rate-limiter-with-fastapi-and-atomic-redis-454f)
-- [Build a Physics-Based RagDoll with Pixalo Engine](https://dev.to/salarizadi/build-a-physics-based-ragdoll-with-pixalo-engine-38ng)
+- [🧩 Minha Primeira Comunicação com MCP e .NET – Parte 5](https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-5-2n19)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-2p3d)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-4h7a)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2401)
 <!-- BLOG-POST-LIST:END -->
 
 
