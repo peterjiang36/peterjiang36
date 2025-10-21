@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Capture Heap Snapshots in Node.js on Kubernetes](https://dev.to/alessandro-grosselle/step-by-step-guide-to-capture-heap-snapshots-in-nodejs-on-kubernetes-1i2h)
-- [Actions, Not Just Chat](https://dev.to/philrez/actions-not-just-chat-14n4)
-- [How to Launch Your Startup MVP in 5 Weeks in 2025: A Step-by-Step Guide](https://dev.to/eulerhive/how-to-launch-your-startup-mvp-in-5-weeks-in-2025-a-step-by-step-guide-9ld)
-- [Our Git Workflow for Client Projects: Branching Strategy for Agencies](https://dev.to/michelle_turner/our-git-workflow-for-client-projects-branching-strategy-for-agencies-21ag)
+- [I Was Vibe Coding Before It Was Cool](https://dev.to/junothreadborne/i-was-vibe-coding-before-it-was-cool-3o75)
+- [Learning OpenGL Part 5: Lighting](https://dev.to/noticeablesmeh/learning-opengl-part-5-lightinting-2be7)
+- [When AWS Went Down: Lessons in Cloud Resilience from the Real World](https://dev.to/chioma_nwosu_99d57862fb18/when-aws-went-down-lessons-in-cloud-resilience-from-the-real-world-1a4k)
+- [How Distributed Tracing Really Works](https://dev.to/agardnerit/how-distributed-tracing-really-works-15b8)
 <!-- BLOG-POST-LIST:END -->
 
 
