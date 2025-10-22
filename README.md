@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the basics: 21 TypeScript features you might not know about](https://dev.to/lingodotdev/beyond-the-basics-21-typescript-features-you-might-not-know-about-1dbn)
-- [equals, hashcode, hashmap](https://dev.to/jaumdev1/equals-hashcode-hashmap-5ah2)
-- [&quot;Contextualized Embeddings&quot; have revolutionized text represe](https://dev.to/drcarlosruizviquez/contextualized-embeddings-have-revolutionized-text-represe-2c31)
-- [Froala Shortcut Secrets That Supercharge Your Productivity](https://dev.to/froala_e3824d66439393cbce/froala-shortcut-secrets-that-supercharge-your-productivity-fkn)
+- [Evolution of Processing: SPL One-Click Acceleration for Log-to-Metric Conversion](https://dev.to/observabilityguy/evolution-of-processing-spl-one-click-acceleration-for-log-to-metric-conversion-2g5j)
+- [Day 4: Inserting Data and Basic CRUD Operations](https://dev.to/hardik_kanajariya/day-4-inserting-data-and-basic-crud-operations-3h04)
+- [ChatGPT Atlas](https://dev.to/technoblogger14o3/chatgpt-atlas-49eo)
+- [🌍 AI OS — The First Operating System Built by Humanity, for Humanity](https://dev.to/rohit19060/ai-os-the-first-operating-system-built-by-humanity-for-humanity-1okf)
 <!-- BLOG-POST-LIST:END -->
 
 
