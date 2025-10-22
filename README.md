@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
-- [Rowboat: The open-source alternative to Notion&#39;s new custom agents with native MCP support](https://dev.to/arjun_m_10e75b369465a68b7/the-open-source-alternative-to-notions-new-custom-agents-with-native-mcp-support-2og2)
-- [Marketing Forecasting Methods for 2025: Budgeting and ROI](https://dev.to/ryansiney1/marketing-forecasting-methods-for-2025-budgeting-and-roi-2jf5)
-- [[Help] How to collect multi-platform game pricing data &lpar;Steam, PlayStation, Nintendo eShop&rpar;](https://dev.to/hyeongkeun_park_1da913a46/help-how-to-collect-multi-platform-game-pricing-data-steam-playstation-nintendo-eshop-je9)
+- [Codemotion Milan 2025: Why Large Tech Conferences Matter](https://dev.to/this-is-learning/codemotion-milan-2025-why-large-tech-conferences-matter-5e5j)
+- [Know your tendencies - Questioning yourself &lpar;and others&rpar;- The 4 Tendencies Framework](https://dev.to/dvddpl/know-your-tendencies-questioning-yourself-and-others-the-4-tendencies-framework-1afg)
+- [Building BeaconOS From Scratch](https://dev.to/raymondmwaura-dev/building-beaconos-from-scratch-3hg7)
+- [💻 10 Computer Skills That Show Our Generation Masters Tech](https://dev.to/axel_lof_c1926cd654c8b5a6/10-computer-skills-that-show-our-generation-masters-tech-4imn)
 <!-- BLOG-POST-LIST:END -->
 
 
