@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Timestamp Difference between shutdown and systemctl poweroff](https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l)
-- [🚀 Simplify ZKTeco Biometric Device Integration in PHP — No SDK Needed!](https://dev.to/mrzstack/simplify-zkteco-biometric-device-integration-in-php-no-sdk-needed-5f9b)
-- [Beyond Human Bias](https://dev.to/vesta12389/beyond-human-bias-230c)
-- [Database Design](https://dev.to/francesca_d_ami/database-design-3a4)
+- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
+- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
+- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
+- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
 <!-- BLOG-POST-LIST:END -->
 
 
