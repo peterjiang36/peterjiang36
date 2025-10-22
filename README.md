@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
-- [Going Beyond Accuracy: Understanding the Balanced Accuracy, Precision, Recall and F1-score.](https://dev.to/juniorcl/going-beyond-accuracy-understanding-the-balanced-accuracy-precision-recall-and-f1-score-4kl2)
-- [Beyond the Hype: 5 Counter-Intuitive Truths About AI from Andrej Karpathy](https://dev.to/amananandrai/beyond-the-hype-5-counter-intuitive-truths-about-ai-from-andrej-karpathy-afk)
-- [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm)
+- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-5a38)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-dol)
 <!-- BLOG-POST-LIST:END -->
 
 
