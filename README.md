@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Self-Hosted Push Notifications Part-6](https://dev.to/bunty9/-self-hosted-push-notifications-part-6-4jc0)
-- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-3mei)
-- [# Self-Hosted Push Notifications Part-5](https://dev.to/bunty9/-self-hosted-push-notifications-part-5-126h)
-- [# Self-Hosted Push Notifications Part-4](https://dev.to/bunty9/-self-hosted-push-notifications-part-4-3il2)
+- [Integrating SAPs](https://dev.to/ornella_fabbri/integrating-sap-51k4)
+- [From 3 Hours of Debugging to 8 Lines of Code: How I Built and Upgraded OpenLoom for Java File I/O](https://dev.to/raghul-tech/from-3-hours-of-debugging-to-8-lines-of-code-how-i-built-and-upgraded-openloom-for-java-file-io-1bn8)
+- [This Free Rails Pre-Upgrade Checklist Might Save Your Next Release](https://dev.to/raisa_kanagaraj/this-free-rails-pre-upgrade-checklist-might-save-your-next-release-cl2)
+- [Premium Courses You Can Access for Free as a Student](https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh)
 <!-- BLOG-POST-LIST:END -->
 
 
