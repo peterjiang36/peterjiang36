@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman: The Unsung Hero of Everyday API Development](https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h)
-- [AlgoSync — a new social media platform for developers, founders, and tech creators](https://dev.to/kevv_ly/algosync-a-new-social-media-platform-for-developers-founders-and-tech-creators-1i6c)
-- [IntelliNode Generate HTML Pages Directly from the browser](https://dev.to/barqawiz/intellinode-generate-html-pages-directly-from-the-browser-3n9j)
-- [Dev Log 35 - Equip Hands Tooltips](https://dev.to/asx/dev-log-35-equip-hands-tooltips-2k51)
+- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
+- [Integrating Shopify with Wix: A Step-by-Step Guide](https://dev.to/api_troll/integrating-shopify-with-wix-a-step-by-step-guide-4i6m)
+- [The Artisan&#39;s Trail: Maintaining a Legacy Node.js Monolith with the Boy Scout Rule](https://dev.to/alex_aslam/the-artisans-trail-maintaining-a-legacy-nodejs-monolith-with-the-boy-scout-rule-pnd)
+- [Building Streaky: A GitHub Streak Guardian &lpar;Part 1 - The Journey&rpar;](https://dev.to/0xrelogic/building-streaky-a-github-streak-guardian-part-1-the-journey-40ek)
 <!-- BLOG-POST-LIST:END -->
 
 
