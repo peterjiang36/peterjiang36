@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [First Steps: Sharding in CouchDB](https://dev.to/neighbourhoodie/first-steps-sharding-in-couchdb-g57)
-- [𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/zamirul_kabir/-2j60)
-- [Shipping products fast should be the #1 tech leaders&#39; priority. Why?](https://dev.to/meirdavv/shipping-products-fast-should-be-the-1-tech-leaders-prioritywhy-1o0i)
-- [Monitoring EDB BigAnimal console](https://dev.to/aravinlinux/monitoring-edb-biganimal-console-2fec)
+- [Goliat Dashboard: Mi nueva aventura en la gestión de recursos Cloud](https://dev.to/danieljsaldana/goliat-dashboard-mi-nueva-aventura-en-la-gestion-de-recursos-cloud-27gc)
+- [The MCP Server Crisis: How &#39;Open Standard&#39; Created a Wild West of Broken Implementations](https://dev.to/neopotato/the-mcp-server-crisis-how-open-standard-created-a-wild-west-of-broken-implementations-115n)
+- [Ringer Movies: The 10 Best Horror Movies of 2025](https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-20ok)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-2124)
 <!-- BLOG-POST-LIST:END -->
 
 
