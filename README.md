@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Okay If Your Biggest Hobby Isn&#39;t Coding](https://dev.to/_boweii/its-okay-if-your-biggest-hobby-isnt-coding-4bk2)
-- [Crea tu propio chat con Claude en AWS Bedrock usando AWS CDK &lpar;guía paso a paso para principiantes&rpar;](https://dev.to/chainiz/crea-tu-propio-chat-con-claude-en-aws-bedrock-usando-aws-cdk-guia-paso-a-paso-para-principiantes-20ag)
-- [Understanding Model Evaluation in Lead Scoring: A Practical Walkthrough](https://dev.to/techkene/understanding-model-evaluation-in-lead-scoring-a-practical-walkthrough-14lm)
-- [The Proxy Pattern: A Masterpiece of Control and Illusion in Node.js](https://dev.to/alex_aslam/the-proxy-pattern-a-masterpiece-of-control-and-illusion-in-nodejs-6dg)
+- [Building an Interactive Product Search App with JavaScript and a Mock API](https://dev.to/boo_c_74859f1424363da0bb9/building-an-interactive-product-search-app-with-javascript-and-a-mock-api-51c)
+- [Building an Interactive Product Search App with JavaScript and a Mock API](https://dev.to/boo_c_74859f1424363da0bb9/building-an-interactive-product-search-app-with-javascript-and-a-mock-api-44p2)
+- [20+ signs you&#39;re a real programmer &lpar;using 2 monitors isn&#39;t one&rpar;](https://dev.to/canro91/20-signs-youre-a-real-programmer-using-2-monitors-isnt-one-53m4)
+- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2m3n)
 <!-- BLOG-POST-LIST:END -->
 
 
