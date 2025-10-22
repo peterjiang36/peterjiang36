@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Codemotion Milan 2025: Why Large Tech Conferences Matter](https://dev.to/this-is-learning/codemotion-milan-2025-why-large-tech-conferences-matter-5e5j)
-- [Know your tendencies - Questioning yourself &lpar;and others&rpar;- The 4 Tendencies Framework](https://dev.to/dvddpl/know-your-tendencies-questioning-yourself-and-others-the-4-tendencies-framework-1afg)
-- [Building BeaconOS From Scratch](https://dev.to/raymondmwaura-dev/building-beaconos-from-scratch-3hg7)
-- [💻 10 Computer Skills That Show Our Generation Masters Tech](https://dev.to/axel_lof_c1926cd654c8b5a6/10-computer-skills-that-show-our-generation-masters-tech-4imn)
+- [Windows in 2025 for Work and Creativity: How to Build a Fast, Secure, and Comfortable System](https://dev.to/_eb7ede481eac3d7c3/windows-in-2025-for-work-and-creativity-how-to-build-a-fast-secure-and-comfortable-system-1f0a)
+- [Going Beyond Accuracy: Understanding the Balanced Accuracy, Precision, Recall and F1-score.](https://dev.to/juniorcl/going-beyond-accuracy-understanding-the-balanced-accuracy-precision-recall-and-f1-score-4kl2)
+- [Beyond the Hype: 5 Counter-Intuitive Truths About AI from Andrej Karpathy](https://dev.to/amananandrai/beyond-the-hype-5-counter-intuitive-truths-about-ai-from-andrej-karpathy-afk)
+- [What better way to understand deeply media apis provided by modern browsers than to build something cool?](https://dev.to/professor12/what-better-way-to-understand-deeply-media-apis-provided-by-modern-browsers-than-to-build-something-1733)
 <!-- BLOG-POST-LIST:END -->
 
 
