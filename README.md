@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Alchemy: Turning Ideas into Interactive Worlds with AI](https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37)
-- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-4p8m)
-- [🚀 Next.js 16 — A Huge Leap in Web Development](https://dev.to/shaahzaibrehman/nextjs-16-a-huge-leap-in-web-development-5fli)
-- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-3md)
+- [First Steps: Sharding in CouchDB](https://dev.to/neighbourhoodie/first-steps-sharding-in-couchdb-g57)
+- [𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬 𝐨𝐟 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/zamirul_kabir/-2j60)
+- [Shipping products fast should be the #1 tech leaders&#39; priority. Why?](https://dev.to/meirdavv/shipping-products-fast-should-be-the-1-tech-leaders-prioritywhy-1o0i)
+- [Monitoring EDB BigAnimal console](https://dev.to/aravinlinux/monitoring-edb-biganimal-console-2fec)
 <!-- BLOG-POST-LIST:END -->
 
 
