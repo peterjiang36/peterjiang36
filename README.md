@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BlackRock Quant Interview Guide: Full Breakdown + Tips to Avoid Mistakes](https://dev.to/net_programhelp_e160eef28/blackrock-quant-interview-guide-jk5)
-- [The Best Self-Hosted Web Application Firewalls &lpar;WAFs&rpar; in 2026](https://dev.to/carrie_luo1/the-best-self-hosted-web-application-firewalls-wafs-in-2026-4gnj)
-- [WTF is Virtual Machine Introspection?](https://dev.to/dailybugle33/wtf-is-virtual-machine-introspection-2763)
-- [Polymorphic Relationships Matter &lpar;and My ADHD Agrees&rpar;](https://dev.to/develaper/polymorphic-relationships-matter-and-my-adhd-agrees-236f)
+- [Understanding Timestamp Difference between shutdown and systemctl poweroff](https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l)
+- [🚀 Simplify ZKTeco Biometric Device Integration in PHP — No SDK Needed!](https://dev.to/mrzstack/simplify-zkteco-biometric-device-integration-in-php-no-sdk-needed-5f9b)
+- [Beyond Human Bias](https://dev.to/vesta12389/beyond-human-bias-230c)
+- [Database Design](https://dev.to/francesca_d_ami/database-design-3a4)
 <!-- BLOG-POST-LIST:END -->
 
 
