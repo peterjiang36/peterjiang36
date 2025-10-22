@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of Processing: SPL One-Click Acceleration for Log-to-Metric Conversion](https://dev.to/observabilityguy/evolution-of-processing-spl-one-click-acceleration-for-log-to-metric-conversion-2g5j)
-- [Day 4: Inserting Data and Basic CRUD Operations](https://dev.to/hardik_kanajariya/day-4-inserting-data-and-basic-crud-operations-3h04)
-- [ChatGPT Atlas](https://dev.to/technoblogger14o3/chatgpt-atlas-49eo)
-- [🌍 AI OS — The First Operating System Built by Humanity, for Humanity](https://dev.to/rohit19060/ai-os-the-first-operating-system-built-by-humanity-for-humanity-1okf)
+- [Blockchain in 2025: Evolving Beyond Cryptocurrencies](https://dev.to/defremont/blockchain-in-2025-evolving-beyond-cryptocurrencies-185m)
+- [3347. Maximum Frequency of an Element After Performing Operations II](https://dev.to/mdarifulhaque/3347-maximum-frequency-of-an-element-after-performing-operations-ii-2nd9)
+- [🏗️ Vector Database Architecture: How to Structure Your Data for Production RAG Systems](https://dev.to/qvfagundes/vector-database-architecture-how-to-structure-your-data-for-production-rag-systems-2f4a)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_4890a1e6/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-10ac)
 <!-- BLOG-POST-LIST:END -->
 
 
