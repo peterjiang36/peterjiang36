@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Vegetarian Sources of Protein](https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp)
-- [Servo: The Exp Web Browser Engine Written in Rust](https://dev.to/lovestaco/servo-the-exp-web-browser-engine-written-in-rust-4ehe)
-- [Δυναμική Εφαρμογή Επιχειρησιακών Κανόνων σε C# με JSON και Func](https://dev.to/__b63657/dunamike-epharmoge-epikheiresiakon-kanonon-se-c-me-json-kai-func-46ml)
-- [Designing the User Experience](https://dev.to/eliona_salihu_08d2b246767/designing-the-user-experience-4fj8)
+- [Postman: The Unsung Hero of Everyday API Development](https://dev.to/nuccithegreat/postman-the-unsung-hero-of-everyday-api-development-273h)
+- [AlgoSync — a new social media platform for developers, founders, and tech creators](https://dev.to/kevv_ly/algosync-a-new-social-media-platform-for-developers-founders-and-tech-creators-1i6c)
+- [IntelliNode Generate HTML Pages Directly from the browser](https://dev.to/barqawiz/intellinode-generate-html-pages-directly-from-the-browser-3n9j)
+- [Dev Log 35 - Equip Hands Tooltips](https://dev.to/asx/dev-log-35-equip-hands-tooltips-2k51)
 <!-- BLOG-POST-LIST:END -->
 
 
