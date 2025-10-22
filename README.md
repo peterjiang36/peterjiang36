@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your GitHub Commits Are A Goldmine For Social Media &lpar;But You&#39;re Doing It Wrong&rpar;](https://dev.to/brilliantmakanju/why-your-github-commits-are-a-goldmine-for-social-media-but-youre-doing-it-wrong-3j2)
-- [Modules, and Java, and Windows, Oh My!](https://dev.to/leeca/modules-and-java-and-windows-oh-my-2o94)
-- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-4d3h)
-- [The Blueprint Factory: Dataclasses and Automated Design](https://dev.to/aaron_rose_0787cc8b4775a0/the-blueprint-factory-dataclasses-and-automated-design-40fb)
+- [A tiny Spring Boot &#39;profile&#39; microservice — Stage‑0 HNG backend](https://dev.to/sherif_san/a-tiny-spring-boot-profile-microservice-stage-0-hng-backend-26k1)
+- [The Centralized Core of Decentralization: Rethinking Web3’s Infrastructure](https://dev.to/rohit_bhardwaj_94db62db7b/the-centralized-core-of-decentralization-rethinking-web3s-infrastructure-40da)
+- [Stop &#39;Chatting&#39; with Your AI. Start &#39;Directing&#39; It.](https://dev.to/mdasif-me/stop-chatting-with-your-ai-start-directing-it-50li)
+- [Stop Waiting for the Alarm: Why You Need to Go Hunting for Hackers Yourself](https://dev.to/terminaltools/stop-waiting-for-the-alarm-why-you-need-to-go-hunting-for-hackers-yourself-2ef0)
 <!-- BLOG-POST-LIST:END -->
 
 
