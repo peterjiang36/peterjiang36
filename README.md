@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chingu.io: Build, Collaborate, Learn: Remote Projects V57 Showcase](https://dev.to/chingu/chinguio-build-collaborate-learn-remote-projects-v57-showcase-mmh)
-- [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
-- [What Are the Common Risks Businesses Face and How Can Risk Management Keep You Compliant?](https://dev.to/kibe_christine_bc01e93c1a/what-are-the-common-risks-businesses-face-and-how-can-risk-management-keep-you-compliant-444)
-- [[Boost]](https://dev.to/adamthedeveloper/-mj8)
+- [# Self-Hosted Push Notifications Part-6](https://dev.to/bunty9/-self-hosted-push-notifications-part-6-4jc0)
+- [No Laying Up Podcast: The Wild Life of Joey Ferrari | NLU Pod, Ep 1084](https://dev.to/youtube_golf/no-laying-up-podcast-the-wild-life-of-joey-ferrari-nlu-pod-ep-1084-3mei)
+- [# Self-Hosted Push Notifications Part-5](https://dev.to/bunty9/-self-hosted-push-notifications-part-5-126h)
+- [# Self-Hosted Push Notifications Part-4](https://dev.to/bunty9/-self-hosted-push-notifications-part-4-3il2)
 <!-- BLOG-POST-LIST:END -->
 
 
