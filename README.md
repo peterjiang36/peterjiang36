@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A tiny Spring Boot &#39;profile&#39; microservice — Stage‑0 HNG backend](https://dev.to/sherif_san/a-tiny-spring-boot-profile-microservice-stage-0-hng-backend-26k1)
-- [The Centralized Core of Decentralization: Rethinking Web3’s Infrastructure](https://dev.to/rohit_bhardwaj_94db62db7b/the-centralized-core-of-decentralization-rethinking-web3s-infrastructure-40da)
-- [Stop &#39;Chatting&#39; with Your AI. Start &#39;Directing&#39; It.](https://dev.to/mdasif-me/stop-chatting-with-your-ai-start-directing-it-50li)
-- [Stop Waiting for the Alarm: Why You Need to Go Hunting for Hackers Yourself](https://dev.to/terminaltools/stop-waiting-for-the-alarm-why-you-need-to-go-hunting-for-hackers-yourself-2ef0)
+- [The Best Vegetarian Sources of Protein](https://dev.to/nutritionthree/the-best-vegetarian-sources-of-protein-7hp)
+- [Servo: The Exp Web Browser Engine Written in Rust](https://dev.to/lovestaco/servo-the-exp-web-browser-engine-written-in-rust-4ehe)
+- [Δυναμική Εφαρμογή Επιχειρησιακών Κανόνων σε C# με JSON και Func](https://dev.to/__b63657/dunamike-epharmoge-epikheiresiakon-kanonon-se-c-me-json-kai-func-46ml)
+- [Designing the User Experience](https://dev.to/eliona_salihu_08d2b246767/designing-the-user-experience-4fj8)
 <!-- BLOG-POST-LIST:END -->
 
 
