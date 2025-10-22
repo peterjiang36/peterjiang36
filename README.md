@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Two “AllowedHosts” Every Developer Should Know](https://dev.to/kleinhouzin/two-allowedhosts-every-developer-should-know-ehe)
-- [Welcome Thread - v348](https://dev.to/devteam/welcome-thread-v348-29i2)
-- [How to use a non-mac mouse to move between spaces and open Mission Control on MacOS](https://dev.to/husteadrobert/how-to-use-a-non-mac-mouse-to-move-between-spaces-and-open-mission-control-on-macos-3pe7)
-- [Banana Pi — Como Habilitar o SSH no Raspbian](https://dev.to/henriqueotogami/banana-pi-como-habilitar-o-ssh-no-raspbian-15n9)
+- [Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://dev.to/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)
+- [Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity](https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh)
+- [Simplifying API Testing — Why Sometimes You Don’t Need Postman](https://dev.to/javediqbal8381/simplifying-api-testing-why-sometimes-you-dont-need-postman-598g)
+- [Polkadot: Streaming Parachain events with Polkadot-API &lpar;PAPI&rpar; library; a Paseo Asset-Hub case study.](https://dev.to/0xtemi/polkadot-streaming-parachain-events-with-polkadot-api-papi-library-a-paseo-asset-hub-case-study-ejg)
 <!-- BLOG-POST-LIST:END -->
 
 
