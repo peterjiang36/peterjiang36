@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can We Tame the Beast? Royal Couple Joins Push for AI Superintelligenve Morat...](https://dev.to/mabualzait/can-we-tame-the-beast-royal-couple-joins-push-for-ai-superintelligenve-morat-5ek5)
-- [Reclaim Your Tech: Why Microsoft’s Windows 10 EOL Is Linux’s Golden Opportunity](https://dev.to/shostarsson/reclaim-your-tech-why-microsofts-windows-10-eol-is-linuxs-golden-opportunity-6mh)
-- [Simplifying API Testing — Why Sometimes You Don’t Need Postman](https://dev.to/javediqbal8381/simplifying-api-testing-why-sometimes-you-dont-need-postman-598g)
-- [Polkadot: Streaming Parachain events with Polkadot-API &lpar;PAPI&rpar; library; a Paseo Asset-Hub case study.](https://dev.to/0xtemi/polkadot-streaming-parachain-events-with-polkadot-api-papi-library-a-paseo-asset-hub-case-study-ejg)
+- [Digital Alchemy: Turning Ideas into Interactive Worlds with AI](https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37)
+- [Ringer Movies: ‘Quiz Show’ With Bill Simmons and Brian Koppelman | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-quiz-show-with-bill-simmons-and-brian-koppelman-the-rewatchables-4p8m)
+- [🚀 Next.js 16 — A Huge Leap in Web Development](https://dev.to/shaahzaibrehman/nextjs-16-a-huge-leap-in-web-development-5fli)
+- [Something Could Double the Development Efficiency of Java Programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-3md)
 <!-- BLOG-POST-LIST:END -->
 
 
