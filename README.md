@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming AI Monetization: The Future of LLM-Powered Applications](https://dev.to/monetzly/transforming-ai-monetization-the-future-of-llm-powered-applications-4i2g)
-- [🔗 Why Crypto Exchange APIs Matter: A Developer’s Perspective](https://dev.to/dan_keller/why-crypto-exchange-apis-matter-a-developers-perspective-1eo6)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_4890a1e6/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3chg)
-- [useeffect on react](https://dev.to/anaol216/useeffect-on-react-1kjb)
+- [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
+- [Rowboat: The open-source alternative to Notion&#39;s new custom agents with native MCP support](https://dev.to/arjun_m_10e75b369465a68b7/the-open-source-alternative-to-notions-new-custom-agents-with-native-mcp-support-2og2)
+- [Marketing Forecasting Methods for 2025: Budgeting and ROI](https://dev.to/ryansiney1/marketing-forecasting-methods-for-2025-budgeting-and-roi-2jf5)
+- [[Help] How to collect multi-platform game pricing data &lpar;Steam, PlayStation, Nintendo eShop&rpar;](https://dev.to/hyeongkeun_park_1da913a46/help-how-to-collect-multi-platform-game-pricing-data-steam-playstation-nintendo-eshop-je9)
 <!-- BLOG-POST-LIST:END -->
 
 
