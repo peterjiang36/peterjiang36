@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Interactive Product Search App with JavaScript and a Mock API](https://dev.to/boo_c_74859f1424363da0bb9/building-an-interactive-product-search-app-with-javascript-and-a-mock-api-51c)
-- [Building an Interactive Product Search App with JavaScript and a Mock API](https://dev.to/boo_c_74859f1424363da0bb9/building-an-interactive-product-search-app-with-javascript-and-a-mock-api-44p2)
-- [20+ signs you&#39;re a real programmer &lpar;using 2 monitors isn&#39;t one&rpar;](https://dev.to/canro91/20-signs-youre-a-real-programmer-using-2-monitors-isnt-one-53m4)
-- [Andrew Huang: Beautiful new music making environment! &lpar;GRM Atelier&rpar;](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-2m3n)
+- [Beyond the basics: 21 TypeScript features you might not know about](https://dev.to/lingodotdev/beyond-the-basics-21-typescript-features-you-might-not-know-about-1dbn)
+- [equals, hashcode, hashmap](https://dev.to/jaumdev1/equals-hashcode-hashmap-5ah2)
+- [&quot;Contextualized Embeddings&quot; have revolutionized text represe](https://dev.to/drcarlosruizviquez/contextualized-embeddings-have-revolutionized-text-represe-2c31)
+- [Froala Shortcut Secrets That Supercharge Your Productivity](https://dev.to/froala_e3824d66439393cbce/froala-shortcut-secrets-that-supercharge-your-productivity-fkn)
 <!-- BLOG-POST-LIST:END -->
 
 
