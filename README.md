@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk)
-- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0)
-- [Harmonic RSI — Measuring Logical Resonance and Stability in AI Reasoning](https://dev.to/damjan_akelj_be1aab4a715/harmonic-rsi-measuring-logical-resonance-and-stability-in-ai-reasoning-20l7)
-- [Bubble Sort for Kids: Sorting Made Fun! 🧒✨](https://dev.to/mahmoudessam/bubble-sort-for-kids-sorting-made-fun-3bj2)
+- [RISC-V Test Generation: Using Random and Directed Stimulus to Achieve Coverage Closure](https://dev.to/alpinumblogs/risc-v-test-generation-using-random-and-directed-stimulus-to-achieve-coverage-closure-221d)
+- [When you train AI to think with your logic, you don’t just save time; you multiply your focus across industries.
+
+AI isn’t replacing assistants; it’s redefining what one assistant can achieve.](https://dev.to/jaideepparashar/when-you-train-ai-to-think-with-your-logic-you-dont-just-save-time-you-multiply-your-focus-blm)
+- [How I Run 3 Brands With 1 AI Assistant: My ChatGPT Workflow](https://dev.to/jaideepparashar/how-i-run-3-brands-with-1-ai-assistant-my-chatgpt-workflow-3dka)
+- [Mengenal Protokol Komunikasi pada Aplikasi Modern](https://dev.to/naandan/mengenal-protokol-komunikasi-pada-aplikasi-modern-15n1)
 <!-- BLOG-POST-LIST:END -->
 
 
