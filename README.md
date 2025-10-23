@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
-- [Exception Handling in java &lpar;try, catch &amp; finally&rpar;](https://dev.to/masteringbackend/exception-handling-in-java-try-catch-finally-1paa)
-- [🧠 Git Learning — My Structured Handbook for Mastering Git](https://dev.to/kurtpetrola/git-learning-my-structured-handbook-for-mastering-git-2cp5)
-- [Android Accessibility Guidelines: Building Inclusive Apps](https://dev.to/lucy1/android-accessibility-guidelines-building-inclusive-apps-12om)
+- [How the Dark Web Actually Works: The Tech Behind the Curtain&lpar;part2&rpar;](https://dev.to/mohamed_cybersec/how-the-dark-web-actually-works-the-tech-behind-the-curtainpart2-f2e)
+- [Deploy Mutliple NGINX Ingress on EKS](https://dev.to/santhosh_004/deploy-mutliple-nginx-ingress-on-eks-2nc5)
+- [Unleashing Developer Potential: Balancing Cognitive Load for Peak Productivity](https://dev.to/george_udonte/unleashing-developer-potential-balancing-cognitive-load-for-peak-productivity-1636)
+- [Building a Season-Smart Ramen Chef Agent with Ruby + OpenAI](https://dev.to/stevenwallace/building-a-season-smart-ramen-chef-agent-with-ruby-openai-43ei)
 <!-- BLOG-POST-LIST:END -->
 
 
