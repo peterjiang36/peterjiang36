@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Skills Every QA Should Learn in 2026](https://dev.to/dasha_tsion/ai-skills-every-qa-should-learn-in-2026-1f91)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2bhb)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5987)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2hba)
+- [The Artisan&#39;s Forge: Extending Node.js with the Power of Native Addons](https://dev.to/alex_aslam/the-artisans-forge-extending-nodejs-with-the-power-of-native-addons-5hk1)
+- [Web Design in the AI Era &lpar;2025&rpar;: Trends, Tools &amp; How We Can Help](https://dev.to/badhonaub/web-design-in-the-ai-era-2025-trends-tools-how-we-can-help-102o)
+- [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
+- [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
 <!-- BLOG-POST-LIST:END -->
 
 
