@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Intersite Connectivity in Azure: Seamless Communication Across Virtual Networks](https://dev.to/sudaisib/implementing-intersite-connectivity-in-azure-seamless-communication-across-virtual-networks-2jhh)
-- [LitmusChaos Community Highlights - September 2025 Recap](https://dev.to/priteshkiri/litmuschaos-community-highlights-september-2025-recap-e0c)
-- [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
-- [Full-Stack Mobile Development with Flutter &amp; Serverpod #1 - What is Serverpod? Why go Full-Stack?](https://dev.to/techwithsam/full-stack-mobile-development-with-flutter-serverpod-1-what-is-serverpod-why-go-full-stack-1lbn)
+- [From Beginner to Codex CLI Pro](https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3)
+- [Developers Spend Just 1% of Coding Time Using VS Code&#39;s Debugger &lpar;11,805 Sessions Analyzed&rpar;](https://dev.to/floustate/developers-spend-just-1-of-coding-time-using-vs-codes-debugger-11805-sessions-analyzed-2b84)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-5997)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4k17)
 <!-- BLOG-POST-LIST:END -->
 
 
