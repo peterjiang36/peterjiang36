@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dr. Barbara Knox Explains 5 Common Myths About Child Abuse](https://dev.to/barbaraknoxmd/dr-barbara-knox-explains-5-common-myths-about-child-abuse-5en)
-- [Show/Hide Form Fields Conditionally with Form Show If Component](https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph)
-- [S3 fileExists &lpar;HeadObject&rpar; fails only in Alpine Docker &lpar;PHP-FPM&rpar; with &quot;Error parsing XML&quot;, but GetObject works](https://dev.to/nidhin_np_3149cf667964a3c/s3-fileexists-headobject-fails-only-in-alpine-docker-php-fpm-with-error-parsing-xml-but-176m)
-- [Create a PROMPT.md](https://dev.to/ydnaklementine/create-a-promptmd-e2f)
+- [11 Best iOS Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho)
+- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
+- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-59ok)
+- [Taming AI Chaos: From Wild West to Code-Driven Governance](https://dev.to/mabualzait/taming-ai-chaos-from-wild-west-to-code-driven-governance-2172)
 <!-- BLOG-POST-LIST:END -->
 
 
