@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Good people or bad people ?](https://dev.to/grzegorzgrzegorz/good-people-or-bad-people--4h03)
-- [From Excel to a Full-Stack Application: A Low-Code Development Workflow](https://dev.to/canonical/from-excel-to-a-full-stack-application-a-low-code-development-workflow-4b8a)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-37p3)
-- [Dynamic Lightpaths: Blazing-Fast Collective Communication Through Adaptive Optics](https://dev.to/arvind_sundararajan/dynamic-lightpaths-blazing-fast-collective-communication-through-adaptive-optics-4955)
+- [This Is What Fandom Feels Like](https://dev.to/junothreadborne/this-is-what-fandom-feels-like-4f0)
+- [Debugging Production: How to Fix Bugs Without Breaking Everything 🌐](https://dev.to/chaitanyarai3/debugging-production-how-to-fix-bugs-without-breaking-everything-5cg7)
+- [PWC 344, Task 2: Pick Up the Pieces](https://dev.to/boblied/pwc-344-task-2-pick-up-the-pieces-3391)
+- [React Tiny Store](https://dev.to/anirudhchintha95/react-tiny-store-2b8)
 <!-- BLOG-POST-LIST:END -->
 
 
