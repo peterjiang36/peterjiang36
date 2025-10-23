@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RNG-Aliasing: Synthetic DVFS-Driven RNG Obfuscation](https://dev.to/raghubathi_rajatk_6f274/rng-aliasing-synthetic-dvfs-driven-rng-obfuscation-5d58)
-- [Building Digital Sovereignty in the Philippines: Open-Source Solutions for Transparent, Secure Government](https://dev.to/alvinveroy/building-digital-sovereignty-in-the-philippines-open-source-solutions-for-transparent-secure-23c9)
-- [🧩 Testing Feature Support for Modern CSS — The Smart Developer’s Guide](https://dev.to/er-raj-aryan/testing-feature-support-for-modern-css-the-smart-developers-guide-56h4)
-- [**Revolutionizing Entertainment: The Rise of AI-Powered &#39;Dre](https://dev.to/drcarlosruizviquez/revolutionizing-entertainment-the-rise-of-ai-powered-dre-228m)
+- [Cómo logré montar mi primer clúster K3s &lpar;sin morir en el intento&rpar;](https://dev.to/0511cynthia/como-logre-montar-mi-primer-cluster-k3s-sin-morir-en-el-intento-5be2)
+- [Day 9 | 50 Projects in 50 Days](https://dev.to/augusta08/day-9-50-projects-in-50-days-2ih1)
+- [Automating Transit Gateway Attachment Tagging Using EventBridge and Lambda](https://dev.to/santanu_das/automating-transit-gateway-attachment-tagging-using-eventbridge-and-lambda-10lh)
+- [Part 4: Payments and Ticket Issuance](https://dev.to/sumedhbala/part-4-payments-and-ticket-issuance-3h7h)
 <!-- BLOG-POST-LIST:END -->
 
 
