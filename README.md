@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Dark Web Actually Works: The Tech Behind the Curtain&lpar;part2&rpar;](https://dev.to/mohamed_cybersec/how-the-dark-web-actually-works-the-tech-behind-the-curtainpart2-f2e)
-- [Deploy Mutliple NGINX Ingress on EKS](https://dev.to/santhosh_004/deploy-mutliple-nginx-ingress-on-eks-2nc5)
-- [Unleashing Developer Potential: Balancing Cognitive Load for Peak Productivity](https://dev.to/george_udonte/unleashing-developer-potential-balancing-cognitive-load-for-peak-productivity-1636)
-- [Building a Season-Smart Ramen Chef Agent with Ruby + OpenAI](https://dev.to/stevenwallace/building-a-season-smart-ramen-chef-agent-with-ruby-openai-43ei)
+- [Implementing Intersite Connectivity in Azure: Seamless Communication Across Virtual Networks](https://dev.to/sudaisib/implementing-intersite-connectivity-in-azure-seamless-communication-across-virtual-networks-2jhh)
+- [LitmusChaos Community Highlights - September 2025 Recap](https://dev.to/priteshkiri/litmuschaos-community-highlights-september-2025-recap-e0c)
+- [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
+- [Full-Stack Mobile Development with Flutter &amp; Serverpod #1 - What is Serverpod? Why go Full-Stack?](https://dev.to/techwithsam/full-stack-mobile-development-with-flutter-serverpod-1-what-is-serverpod-why-go-full-stack-1lbn)
 <!-- BLOG-POST-LIST:END -->
 
 
