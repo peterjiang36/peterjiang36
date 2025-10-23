@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cartographer&#39;s Guide to Rails: Mapping Domains with Bounded Contexts](https://dev.to/alex_aslam/the-cartographers-guide-to-rails-mapping-domains-with-bounded-contexts-4982)
-- [Integrating Shopify with Wix: A Step-by-Step Guide](https://dev.to/api_troll/integrating-shopify-with-wix-a-step-by-step-guide-4i6m)
-- [The Artisan&#39;s Trail: Maintaining a Legacy Node.js Monolith with the Boy Scout Rule](https://dev.to/alex_aslam/the-artisans-trail-maintaining-a-legacy-nodejs-monolith-with-the-boy-scout-rule-pnd)
-- [Building Streaky: A GitHub Streak Guardian &lpar;Part 1 - The Journey&rpar;](https://dev.to/0xrelogic/building-streaky-a-github-streak-guardian-part-1-the-journey-40ek)
+- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk)
+- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0)
+- [Harmonic RSI — Measuring Logical Resonance and Stability in AI Reasoning](https://dev.to/damjan_akelj_be1aab4a715/harmonic-rsi-measuring-logical-resonance-and-stability-in-ai-reasoning-20l7)
+- [Bubble Sort for Kids: Sorting Made Fun! 🧒✨](https://dev.to/mahmoudessam/bubble-sort-for-kids-sorting-made-fun-3bj2)
 <!-- BLOG-POST-LIST:END -->
 
 
