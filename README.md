@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RISC-V Test Generation: Using Random and Directed Stimulus to Achieve Coverage Closure](https://dev.to/alpinumblogs/risc-v-test-generation-using-random-and-directed-stimulus-to-achieve-coverage-closure-221d)
-- [When you train AI to think with your logic, you don’t just save time; you multiply your focus across industries.
-
-AI isn’t replacing assistants; it’s redefining what one assistant can achieve.](https://dev.to/jaideepparashar/when-you-train-ai-to-think-with-your-logic-you-dont-just-save-time-you-multiply-your-focus-blm)
-- [How I Run 3 Brands With 1 AI Assistant: My ChatGPT Workflow](https://dev.to/jaideepparashar/how-i-run-3-brands-with-1-ai-assistant-my-chatgpt-workflow-3dka)
-- [Mengenal Protokol Komunikasi pada Aplikasi Modern](https://dev.to/naandan/mengenal-protokol-komunikasi-pada-aplikasi-modern-15n1)
+- [Day 5: Advanced SELECT Queries and JOINs](https://dev.to/hardik_kanajariya/day-5-advanced-select-queries-and-joins-45ob)
+- [Two Databases, No Drama: The Story of a Calm Migration](https://dev.to/debojit_kaushik_cc7d957b2/two-databases-no-drama-the-story-of-a-calm-migration-3o72)
+- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://dev.to/technoblogger14o3/ovi-twin-backbone-cross-modal-fusion-for-audio-video-generation-21ce)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-omi)
 <!-- BLOG-POST-LIST:END -->
 
 
