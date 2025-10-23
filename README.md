@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Best iOS Development Courses to Learn in 2026](https://dev.to/stack_overflowed/11-best-ios-development-courses-to-learn-in-2026-2iho)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-21n9)
-- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-59ok)
-- [Taming AI Chaos: From Wild West to Code-Driven Governance](https://dev.to/mabualzait/taming-ai-chaos-from-wild-west-to-code-driven-governance-2172)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-p9n)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-43im)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-56gd)
 <!-- BLOG-POST-LIST:END -->
 
 
