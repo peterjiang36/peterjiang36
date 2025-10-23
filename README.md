@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [print tree3](https://dev.to/query_filter_591122b53770/print-tree3-3795)
-- [print tree2](https://dev.to/query_filter_591122b53770/print-tree2-2pjc)
-- [5 Resume Mistakes You MUST Avoid](https://dev.to/thenishantmodi/5-resume-mistakes-you-must-avoid-18a0)
-- [Supercomputers: The Giants of Computation Driving Our Future](https://dev.to/sergio_snchezfuentes_6a/supercomputers-the-giants-of-computation-driving-our-future-m43)
+- [AI Skills Every QA Should Learn in 2026](https://dev.to/dasha_tsion/ai-skills-every-qa-should-learn-in-2026-1f91)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2bhb)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5987)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2hba)
 <!-- BLOG-POST-LIST:END -->
 
 
