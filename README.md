@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Oasis Launches “TEE Break Challenge”, One Bitcoin Bounty for Breaking Their Secure Enclave](https://dev.to/caerlower/oasis-launches-tee-break-challenge-one-bitcoin-bounty-for-breaking-their-secure-enclave-2ea8)
-- [‎Building a Team That Resembles Your Brand Values and Vision ‎](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-a-team-that-resembles-your-brand-values-and-vision-2l0j)
-- [Streamline Your Test Automation with Azure Test Track VS Code Extension](https://dev.to/araujosnathan/streamline-your-test-automation-with-azure-test-track-vs-code-extension-1en0)
-- [Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?](https://dev.to/technoblogger14o3/karpathy-on-deepseek-ocr-paper-are-pixels-better-inputs-to-llms-than-text-521e)
+- [Good people or bad people ?](https://dev.to/grzegorzgrzegorz/good-people-or-bad-people--4h03)
+- [From Excel to a Full-Stack Application: A Low-Code Development Workflow](https://dev.to/canonical/from-excel-to-a-full-stack-application-a-low-code-development-workflow-4b8a)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-37p3)
+- [Dynamic Lightpaths: Blazing-Fast Collective Communication Through Adaptive Optics](https://dev.to/arvind_sundararajan/dynamic-lightpaths-blazing-fast-collective-communication-through-adaptive-optics-4955)
 <!-- BLOG-POST-LIST:END -->
 
 
