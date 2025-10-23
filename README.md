@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: Advanced SELECT Queries and JOINs](https://dev.to/hardik_kanajariya/day-5-advanced-select-queries-and-joins-45ob)
-- [Two Databases, No Drama: The Story of a Calm Migration](https://dev.to/debojit_kaushik_cc7d957b2/two-databases-no-drama-the-story-of-a-calm-migration-3o72)
-- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://dev.to/technoblogger14o3/ovi-twin-backbone-cross-modal-fusion-for-audio-video-generation-21ce)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-omi)
+- [React, Git[Hub], and VS Code for Beginners - Video 2](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g)
+- [React, Git[Hub], and VS Code for Beginners - Video 1](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9)
+- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
+- [Android Serial Control Screens: The Smart HMI Solution for Modern Devices](https://dev.to/tonyhe8688/android-serial-control-screens-the-smart-hmi-solution-for-modern-devices-2kn4)
 <!-- BLOG-POST-LIST:END -->
 
 
