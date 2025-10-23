@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-2g94)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-43f9)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-3ofh)
-- [Running Asynchronous Setup Side Effects in `@Test` with Swift Testing](https://dev.to/yimajo/running-asynchronous-setup-side-effects-in-test-with-swift-testing-13e6)
+- [Testing the untestable](https://dev.to/nfrankel/testing-the-untestable-49k4)
+- [Exception Handling in java &lpar;try, catch &amp; finally&rpar;](https://dev.to/masteringbackend/exception-handling-in-java-try-catch-finally-1paa)
+- [🧠 Git Learning — My Structured Handbook for Mastering Git](https://dev.to/kurtpetrola/git-learning-my-structured-handbook-for-mastering-git-2cp5)
+- [Android Accessibility Guidelines: Building Inclusive Apps](https://dev.to/lucy1/android-accessibility-guidelines-building-inclusive-apps-12om)
 <!-- BLOG-POST-LIST:END -->
 
 
