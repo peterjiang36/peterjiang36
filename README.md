@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This Is What Fandom Feels Like](https://dev.to/junothreadborne/this-is-what-fandom-feels-like-4f0)
-- [Debugging Production: How to Fix Bugs Without Breaking Everything 🌐](https://dev.to/chaitanyarai3/debugging-production-how-to-fix-bugs-without-breaking-everything-5cg7)
-- [PWC 344, Task 2: Pick Up the Pieces](https://dev.to/boblied/pwc-344-task-2-pick-up-the-pieces-3391)
-- [React Tiny Store](https://dev.to/anirudhchintha95/react-tiny-store-2b8)
+- [Load testing vs stress testing: How to scale performance practices with confidence](https://dev.to/gatling/load-testing-vs-stress-testing-how-to-scale-performance-practices-with-confidence-1cpl)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3lkm)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-41ek)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2bgo)
 <!-- BLOG-POST-LIST:END -->
 
 
