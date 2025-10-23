@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React, Git[Hub], and VS Code for Beginners - Video 2](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-2-485g)
-- [React, Git[Hub], and VS Code for Beginners - Video 1](https://dev.to/paxfeline/react-github-and-vs-code-for-beginners-video-1-18h9)
-- [Remember2Pack](https://dev.to/kuljit_aujla/remember2pack-1dk4)
-- [Android Serial Control Screens: The Smart HMI Solution for Modern Devices](https://dev.to/tonyhe8688/android-serial-control-screens-the-smart-hmi-solution-for-modern-devices-2kn4)
+- [Dr. Barbara Knox Explains 5 Common Myths About Child Abuse](https://dev.to/barbaraknoxmd/dr-barbara-knox-explains-5-common-myths-about-child-abuse-5en)
+- [Show/Hide Form Fields Conditionally with Form Show If Component](https://dev.to/jqueryscript/showhide-form-fields-conditionally-with-form-show-if-component-2bph)
+- [S3 fileExists &lpar;HeadObject&rpar; fails only in Alpine Docker &lpar;PHP-FPM&rpar; with &quot;Error parsing XML&quot;, but GetObject works](https://dev.to/nidhin_np_3149cf667964a3c/s3-fileexists-headobject-fails-only-in-alpine-docker-php-fpm-with-error-parsing-xml-but-176m)
+- [Create a PROMPT.md](https://dev.to/ydnaklementine/create-a-promptmd-e2f)
 <!-- BLOG-POST-LIST:END -->
 
 
