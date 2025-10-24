@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokenization vs. Encryption for Payment Data Security](https://dev.to/flutterwaveeng/tokenization-vs-encryption-for-payment-data-security-1185)
-- [Releasing LightningChart .NET 12.4.1](https://dev.to/omar_lightningchart/releasing-lightningchart-net-1241-28dm)
-- [Users could act as both Buyers and Sellers — and they could switch roles instantly from the navbar](https://dev.to/shawon0c/users-could-act-as-both-buyers-and-sellers-and-they-could-switch-roles-instantly-from-the-navbar-4olh)
-- [Building a zero-knowledge secrets manager with zero crypto knowledge](https://dev.to/degecko/building-a-zero-knowledge-secrets-manager-with-zero-crypto-knowledge-3kne)
+- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
+- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
+- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
+- [Auth0 AI Agent](https://dev.to/sipho_motau_4b58f8ae6caa1/auth0-ai-agent-25kg)
 <!-- BLOG-POST-LIST:END -->
 
 
