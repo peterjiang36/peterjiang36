@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta, AI &amp; the Future of Digital Experiences — Where Are We Heading?](https://dev.to/sandeep_03j/meta-ai-the-future-of-digital-experiences-where-are-we-heading-1ko1)
-- [ABM as an Algorithm: A Developer&#39;s Guide to Hacking B2B Sales](https://dev.to/michaelaiglobal/abm-as-an-algorithm-a-developers-guide-to-hacking-b2b-sales-2kgl)
-- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
-- [Auth0 AI Agent](https://dev.to/sipho_motau_4b58f8ae6caa1/auth0-ai-agent-25kg)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-f5m)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-27h3)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-3hmk)
+- [My Experience During the QA stage 1 Task Internship Journey with HNGi13](https://dev.to/mozee/my-experience-during-the-qa-stage-1-task-internship-journey-with-hngi13-4i92)
 <!-- BLOG-POST-LIST:END -->
 
 
