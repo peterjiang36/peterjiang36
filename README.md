@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-bi4)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4p1i)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-16do)
+- [Rust Part 1](https://dev.to/masterdevsabith/rust-part-1-ai8)
+- [The Observer Effect in Neural Networks: When Measurement Creates Reality](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-observer-effect-in-neural-networks-when-measurement-creates-reality-c2h)
+- [💔 Love in the Time of Microservices](https://dev.to/madhukashyap/love-in-the-time-of-microservices-3c2n)
+- [Game Dev Digest — Issue #303 - Profiling, Level Design,, Terrain, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-303-profiling-level-design-terrain-and-more-1f4d)
 <!-- BLOG-POST-LIST:END -->
 
 
