@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-26k2)
-- [Why Developers Can’t Stop Talking About PHP 8.5’s New Pipe Operator?
-
-https://medium.com/@pixicstudio/why-developers-cant-stop-talking-about-php-8-5-s-new-pipe-operator-9aaa0a6062d2](https://dev.to/web_dev-usman/why-developers-cant-stop-talking-about-php-85s-new-pipe-operator-32dn)
-- [The salesperson with the highest sales during the promotion period--SPL Programming Practice](https://dev.to/esproc_spl/the-salesperson-with-the-highest-sales-during-the-promotion-period-spl-programming-practice-3io2)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4hcg)
+- [Deploying Laravel to Heroku](https://dev.to/masteringbackend/deploying-laravel-to-heroku-5d3m)
+- [Why I Ditched React &lpar;And Why You Should Too&rpar;: A Self-Taught Dev&#39;s Rant](https://dev.to/dev_michael/why-i-ditched-react-and-why-you-should-too-a-self-taught-devs-rant-dj3)
+- [Starting My API Journey 🚀](https://dev.to/soma_mathew_f5fe0e6eb1ef5/starting-my-api-journey-5dc)
+- [Quick Guide: Seamless Data Integration into Amazon S3 Tables with Apache SeaTunnel](https://dev.to/seatunnel/quick-guide-seamless-data-integration-into-amazon-s3-tables-with-apache-seatunnel-3jdk)
 <!-- BLOG-POST-LIST:END -->
 
 
