@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Laravel to Heroku](https://dev.to/masteringbackend/deploying-laravel-to-heroku-5d3m)
-- [Why I Ditched React &lpar;And Why You Should Too&rpar;: A Self-Taught Dev&#39;s Rant](https://dev.to/dev_michael/why-i-ditched-react-and-why-you-should-too-a-self-taught-devs-rant-dj3)
-- [Starting My API Journey 🚀](https://dev.to/soma_mathew_f5fe0e6eb1ef5/starting-my-api-journey-5dc)
-- [Quick Guide: Seamless Data Integration into Amazon S3 Tables with Apache SeaTunnel](https://dev.to/seatunnel/quick-guide-seamless-data-integration-into-amazon-s3-tables-with-apache-seatunnel-3jdk)
+- [Tokenization vs. Encryption for Payment Data Security](https://dev.to/flutterwaveeng/tokenization-vs-encryption-for-payment-data-security-1185)
+- [Releasing LightningChart .NET 12.4.1](https://dev.to/omar_lightningchart/releasing-lightningchart-net-1241-28dm)
+- [Users could act as both Buyers and Sellers — and they could switch roles instantly from the navbar](https://dev.to/shawon0c/users-could-act-as-both-buyers-and-sellers-and-they-could-switch-roles-instantly-from-the-navbar-4olh)
+- [Building a zero-knowledge secrets manager with zero crypto knowledge](https://dev.to/degecko/building-a-zero-knowledge-secrets-manager-with-zero-crypto-knowledge-3kne)
 <!-- BLOG-POST-LIST:END -->
 
 
