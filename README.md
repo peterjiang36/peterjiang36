@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out this text-code blogs](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-text-code-blogs-9nb)
-- [🎲Binary Search Explained – A Beginner’s Guide](https://dev.to/om_shree_0709/binary-search-explained-a-beginners-guide-1i6c)
-- [Solve alias problem in Elixir](https://dev.to/manhvanvu/solve-alias-problem-in-elixir-ml9)
-- [After the Happy New Year: Time to Reboot, Like a True Engineer](https://dev.to/mx_tech/after-the-happy-new-year-time-to-reboot-like-a-true-engineer-48mg)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4e42)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1985)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5847)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4g4j)
 <!-- BLOG-POST-LIST:END -->
 
 
