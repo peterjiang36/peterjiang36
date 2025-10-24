@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tech Behind Successful Brand Activations Sydney Campaigns: How Data and Digital Tools Drive Engagement](https://dev.to/amelia_brown04/the-tech-behind-successful-brand-activations-sydney-campaigns-how-data-and-digital-tools-drive-cg6)
-- [Top 5 Zendesk Chat Alternatives in 2025: Features, Pricing, and Use Cases](https://dev.to/vamsi_mullapudi_0bd8d1a49/top-5-zendesk-chat-alternatives-in-2025-features-pricing-and-use-cases-85a)
-- [The Semantic Gap in Data Quality: Why Your Monitoring is Lying to You](https://dev.to/vivekjami/the-semantic-gap-in-data-quality-why-your-monitoring-is-lying-to-you-af4)
-- [Debian Technical Committee overrides systemd change](https://dev.to/technoblogger14o3/debian-technical-committee-overrides-systemd-change-1k4m)
+- [Ringer Movies: ‘Springsteen: Deliver Me From Nowhere’ and the ‘Music Biopic’ Mount Rushmore](https://dev.to/popcorn_movies/ringer-movies-springsteen-deliver-me-from-nowhere-and-the-music-biopic-mount-rushmore-5a5f)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-bi4)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4p1i)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-16do)
 <!-- BLOG-POST-LIST:END -->
 
 
