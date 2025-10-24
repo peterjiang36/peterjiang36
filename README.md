@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-2ah5)
-- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-566o)
-- [Gestione moderna dei frontend con micro frontend, shell e Leaflet](https://dev.to/fedecroletti/gestione-moderna-dei-frontend-con-micro-frontend-shell-e-leaflet-1901)
-- [SoraStrip: Building a Sora Watermark Removal Tool with API-First Architecture](https://dev.to/aadarsh-nagrath/sorastrip-building-a-sora-watermark-removal-tool-with-api-first-architecture-563c)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
+- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-m7n)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5c5)
 <!-- BLOG-POST-LIST:END -->
 
 
