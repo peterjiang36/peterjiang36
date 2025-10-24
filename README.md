@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to my Journey Everyone!!](https://dev.to/jeffrey_payne_19b04db1d78/welcome-to-my-journey-everyone-1am0)
-- [Unlocking AI&#39;s Inner Voice: Simulating Personalized Cognition by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-ais-inner-voice-simulating-personalized-cognition-by-arvind-sundararajan-4p21)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5h5h)
-- [Is the AI Boom Just Another Bubble? Probably — But Not in the Way You Think](https://dev.to/shivam_e4e7992c2aaa237191/is-the-ai-boom-just-another-bubble-probably-but-not-in-the-way-you-think-4pjf)
+- [Longest Substring Without Repeating Characters](https://dev.to/gurpreet_d921f9fff6fa7442/longest-substring-without-repeating-characters-306o)
+- [Evolução da linguagem Java &lpar;parte 5&rpar;](https://dev.to/cesarpaulomp/evolucao-da-linguagem-java-parte-5-5cl2)
+- [PaddleOCR VL + RAG: Revolutionize Complex Data Extraction &lpar;Open-Source&rpar;](https://dev.to/gaodalie_ai/paddleocr-vl-rag-revolutionize-complex-data-extraction-open-source-lja)
+- [Gang of Three: Pragmatic Operations Design Patterns](https://dev.to/rosesecurity/gang-of-three-pragmatic-operations-design-patterns-a40)
 <!-- BLOG-POST-LIST:END -->
 
 
