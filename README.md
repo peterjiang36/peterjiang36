@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JMeter Testing: A Practical Guide to Load and Performance Engineering](https://dev.to/anish-anantharaman/understanding-jmeter-testing-a-practical-guide-to-load-and-performance-engineering-53bm)
-- [How To Use An SPF Record Generator To Protect Your Domain](https://dev.to/inspireme_labs_e6af6b7b69/how-to-use-an-spf-record-generator-to-protect-your-domain-4f3k)
-- [I Deleted Half My Code When I Switched to Signal Forms](https://dev.to/brianmtreese/i-deleted-half-my-code-when-i-switched-to-signal-forms-3737)
-- [BINFLOW: Authenticated AI Agents for a Living Web3 Data Economy](https://dev.to/p_thabiwa_0ca34c2f83/binflow-authenticated-ai-agents-for-a-living-web3-data-economy-32ef)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-26k2)
+- [Why Developers Can’t Stop Talking About PHP 8.5’s New Pipe Operator?
+
+https://medium.com/@pixicstudio/why-developers-cant-stop-talking-about-php-8-5-s-new-pipe-operator-9aaa0a6062d2](https://dev.to/web_dev-usman/why-developers-cant-stop-talking-about-php-85s-new-pipe-operator-32dn)
+- [The salesperson with the highest sales during the promotion period--SPL Programming Practice](https://dev.to/esproc_spl/the-salesperson-with-the-highest-sales-during-the-promotion-period-spl-programming-practice-3io2)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4hcg)
 <!-- BLOG-POST-LIST:END -->
 
 
