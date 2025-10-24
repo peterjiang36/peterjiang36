@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1l1f)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-25g1)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-3pn9)
-- [🧩 How LLMs Would Solve Classic Mysteries: Sherlock Holmes vs. GPT-5](https://dev.to/pracode_2503/how-llms-would-solve-classic-mysteries-sherlock-holmes-vs-gpt-5-4lld)
+- [Protege tu dominio con DNSSEC en Amazon Route 53: Guía paso a paso](https://dev.to/cbecerra/protege-tu-dominio-con-dnssec-en-amazon-route-53-guia-paso-a-paso-2ah5)
+- [Secure Your Domain with DNSSEC in Amazon Route 53: A Step-by-Step Guide](https://dev.to/cbecerra/secure-your-domain-with-dnssec-in-amazon-route-53-a-step-by-step-guide-566o)
+- [Gestione moderna dei frontend con micro frontend, shell e Leaflet](https://dev.to/fedecroletti/gestione-moderna-dei-frontend-con-micro-frontend-shell-e-leaflet-1901)
+- [SoraStrip: Building a Sora Watermark Removal Tool with API-First Architecture](https://dev.to/aadarsh-nagrath/sorastrip-building-a-sora-watermark-removal-tool-with-api-first-architecture-563c)
 <!-- BLOG-POST-LIST:END -->
 
 
