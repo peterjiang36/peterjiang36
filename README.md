@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Artisan&#39;s Forge: Extending Node.js with the Power of Native Addons](https://dev.to/alex_aslam/the-artisans-forge-extending-nodejs-with-the-power-of-native-addons-5hk1)
-- [Web Design in the AI Era &lpar;2025&rpar;: Trends, Tools &amp; How We Can Help](https://dev.to/badhonaub/web-design-in-the-ai-era-2025-trends-tools-how-we-can-help-102o)
-- [The Artisan&#39;s Pursuit: Conquering the Silent Performance Killer in GraphQL and REST](https://dev.to/alex_aslam/the-artisans-pursuit-conquering-the-silent-performance-killer-in-graphql-and-rest-316m)
-- [If we want to distinguish multiple plots in the same figure in matplotlib, we use the legend function&lpar;&rpar;](https://dev.to/onaolapo11/if-we-want-to-distinguish-multiple-plots-in-the-same-figure-in-matplotlib-we-use-the-legend-98n)
+- [Tired of Waiting for the Backend? How Frontend Developers Can Keep Building with MockAPIHub.](https://dev.to/mockapihub/tired-of-waiting-for-the-backend-how-frontend-developers-can-keep-building-with-mockapihub-1n33)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-51a5)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-1f3)
+- [Module 1 Quiz and Glossary](https://dev.to/onaolapo11/module-1-quiz-and-glossary-54oj)
 <!-- BLOG-POST-LIST:END -->
 
 
