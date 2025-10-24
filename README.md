@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out](https://dev.to/jaideepparashar/how-i-manage-my-brand-podcast-music-and-ai-company-without-burning-out-2mpe)
-- [Introduction to Github](https://dev.to/demilade/introduction-to-github-2hd9)
-- [ai in speech therapy?? explore the other side of genai. a personal story..](https://dev.to/ujjavala/ai-in-speech-therapy-explore-the-other-side-of-genai-a-personal-story-53gh)
-- [dive into quirks, surprises, all about claude code](https://dev.to/ujjavala/dive-into-quirks-surprises-all-about-claude-code-5ho0)
+- [2048. Next Greater Numerically Balanced Number](https://dev.to/mdarifulhaque/2048-next-greater-numerically-balanced-number-2df7)
+- [How ChatGPT Apps Really Work: Inside the OpenAI Apps SDK](https://dev.to/zach_park_8558d8374a08a58/how-chatgpt-apps-really-work-inside-the-openai-apps-sdk-2k83)
+- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5h0n)
 <!-- BLOG-POST-LIST:END -->
 
 
