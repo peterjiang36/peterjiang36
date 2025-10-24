@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Part 1](https://dev.to/masterdevsabith/rust-part-1-ai8)
-- [The Observer Effect in Neural Networks: When Measurement Creates Reality](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-observer-effect-in-neural-networks-when-measurement-creates-reality-c2h)
-- [💔 Love in the Time of Microservices](https://dev.to/madhukashyap/love-in-the-time-of-microservices-3c2n)
-- [Game Dev Digest — Issue #303 - Profiling, Level Design,, Terrain, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-303-profiling-level-design-terrain-and-more-1f4d)
+- [Welcome to my Journey Everyone!!](https://dev.to/jeffrey_payne_19b04db1d78/welcome-to-my-journey-everyone-1am0)
+- [Unlocking AI&#39;s Inner Voice: Simulating Personalized Cognition by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-ais-inner-voice-simulating-personalized-cognition-by-arvind-sundararajan-4p21)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5h5h)
+- [Is the AI Boom Just Another Bubble? Probably — But Not in the Way You Think](https://dev.to/shivam_e4e7992c2aaa237191/is-the-ai-boom-just-another-bubble-probably-but-not-in-the-way-you-think-4pjf)
 <!-- BLOG-POST-LIST:END -->
 
 
