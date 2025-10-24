@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Waiting for the Backend? How Frontend Developers Can Keep Building with MockAPIHub.](https://dev.to/mockapihub/tired-of-waiting-for-the-backend-how-frontend-developers-can-keep-building-with-mockapihub-1n33)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 1 – Heswall GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-51a5)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-1f3)
-- [Module 1 Quiz and Glossary](https://dev.to/onaolapo11/module-1-quiz-and-glossary-54oj)
+- [How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out](https://dev.to/jaideepparashar/how-i-manage-my-brand-podcast-music-and-ai-company-without-burning-out-2mpe)
+- [Introduction to Github](https://dev.to/demilade/introduction-to-github-2hd9)
+- [ai in speech therapy?? explore the other side of genai. a personal story..](https://dev.to/ujjavala/ai-in-speech-therapy-explore-the-other-side-of-genai-a-personal-story-53gh)
+- [dive into quirks, surprises, all about claude code](https://dev.to/ujjavala/dive-into-quirks-surprises-all-about-claude-code-5ho0)
 <!-- BLOG-POST-LIST:END -->
 
 
