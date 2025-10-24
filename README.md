@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3pce)
-- [Day 1258 : Street Clothes](https://dev.to/dwane/day-1258-street-clothes-1kna)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-m7n)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5c5)
+- [Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content](https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92)
+- [[Boost]](https://dev.to/rodcordeiro/-h3j)
+- [The Library Method: Understanding Context Managers](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-context-managers-4cdp)
+- [List and Tuples are Compound Data types](https://dev.to/onaolapo11/list-and-tuples-are-compound-data-types-34lg)
 <!-- BLOG-POST-LIST:END -->
 
 
