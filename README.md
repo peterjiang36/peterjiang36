@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2048. Next Greater Numerically Balanced Number](https://dev.to/mdarifulhaque/2048-next-greater-numerically-balanced-number-2df7)
-- [How ChatGPT Apps Really Work: Inside the OpenAI Apps SDK](https://dev.to/zach_park_8558d8374a08a58/how-chatgpt-apps-really-work-inside-the-openai-apps-sdk-2k83)
-- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://dev.to/technoblogger14o3/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-4nfg)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-5h0n)
+- [Check out this text-code blogs](https://dev.to/dipti_m_2e7ba36c478d1a48a/check-out-this-text-code-blogs-9nb)
+- [🎲Binary Search Explained – A Beginner’s Guide](https://dev.to/om_shree_0709/binary-search-explained-a-beginners-guide-1i6c)
+- [Solve alias problem in Elixir](https://dev.to/manhvanvu/solve-alias-problem-in-elixir-ml9)
+- [After the Happy New Year: Time to Reboot, Like a True Engineer](https://dev.to/mx_tech/after-the-happy-new-year-time-to-reboot-like-a-true-engineer-48mg)
 <!-- BLOG-POST-LIST:END -->
 
 
