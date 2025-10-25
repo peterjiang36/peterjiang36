@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3e3)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-3hgk)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-52ip)
+- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-21gp)
+- [The Man Who Thought He Was Smarter Than Time](https://dev.to/nirajkvinit1/the-man-who-thought-he-was-smarter-than-time-38hp)
+- [Sometimes small ideas teach you the biggest lessons.](https://dev.to/satyam_shree_087caef77512/sometimes-small-ideas-teach-you-the-biggest-lessons-356m)
+- [Account Abstraction in Web3: Unlocking Gasless Transactions and Seamless User Experience - 101 Blockchains #203725](https://dev.to/calgo_62400343865ec0ae72a/account-abstraction-in-web3-unlocking-gasless-transactions-and-seamless-user-experience-101-45ab)
 <!-- BLOG-POST-LIST:END -->
 
 
