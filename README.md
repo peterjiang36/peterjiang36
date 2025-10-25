@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GDG on Campus, Graphic Era Dehradun](https://dev.to/gdg-geu/gdg-on-campus-graphic-era-dehradun-570j)
-- [How to fix Ubuntu 24.04 NVIDIA RTX 4050 graphics driver issue in ASUS TUF A15](https://dev.to/shaikhalamin/how-to-fix-ubuntu-2404-nvidia-4050-graphics-driver-issue-in-asus-tuf-a15-34ic)
-- [Container Networking Demystified: A Deep Dive into Linux Network Namespaces](https://dev.to/ajinkya_singh_2c02bd40423/container-networking-demystified-a-deep-dive-into-linux-network-namespaces-3gll)
-- [🐍 Mastering Python Logging: A Beginner&#39;s Guide](https://dev.to/codeneuron/mastering-python-logging-a-beginners-guide-5bai)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2k3g)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1m3a)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-hml)
+- [How I Built a Secret Agent](https://dev.to/nadinev/how-i-built-a-secret-agent-4p48)
 <!-- BLOG-POST-LIST:END -->
 
 
