@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 8 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-8-week-4-41le)
-- [Daily DSA and System Design Journal - 11](https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-11-51m0)
-- [StateFlow vs. SharedFlow: Thinking in &quot;State&quot; vs. &quot;Event&quot;](https://dev.to/kavearhasi_viswanathan/stateflow-vs-sharedflow-thinking-in-state-vs-event-2jdb)
-- [🔥 JavaScript Interview Series&lpar;9&rpar;: Working with Arrays and Objects Like a Pro](https://dev.to/jackm_345442a09fb53b/javascript-interview-series9-working-with-arrays-and-objects-like-a-pro-5c5i)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak)
+- [ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0](https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l)
 <!-- BLOG-POST-LIST:END -->
 
 
