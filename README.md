@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2025: A Journey Through Multiple Perspectives](https://dev.to/mcruvinel/hacktoberfest-2025-a-journey-through-multiple-perspectives-51l6)
-- [📰 Major Tech News: Oct 25th, 2025](https://dev.to/om_shree_0709/major-tech-news-oct-25th-2025-3pc2)
-- [3 مسیر ورود به اقتصاد خالقان محتوا](https://dev.to/dorify/3-msyr-wrwd-bh-qtsd-khlqn-mhtw-2b0o)
-- [Accelerating Cloud App Development: Render&#39;s Implementation of the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/om_shree_0709/accelerating-cloud-app-development-renders-implementation-of-the-model-context-protocol-mcp-2bdo)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-ifi)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3e3)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-3hgk)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-52ip)
 <!-- BLOG-POST-LIST:END -->
 
 
