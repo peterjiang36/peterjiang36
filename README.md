@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#2 Small Apps Update&lpar;CSS&rpar;](https://dev.to/koichi_yoshikawa_dbd33319/2-small-apps-updatecss-411j)
-- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm)
-- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2)
-- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f)
+- [Day 7: Subqueries and Nested Queries](https://dev.to/hardik_kanajariya/day-7-subqueries-and-nested-queries-goh)
+- [Applying API testing frameworks: real-world code examples](https://dev.to/brant_antonychatachoque/applying-api-testing-frameworks-real-world-code-examples-9g7)
+- [The concept of facial recognition AI bias is a pressing conc](https://dev.to/drcarlosruizviquez/the-concept-of-facial-recognition-ai-bias-is-a-pressing-conc-3l4i)
+- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://dev.to/technoblogger14o3/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients-2kc7)
 <!-- BLOG-POST-LIST:END -->
 
 
