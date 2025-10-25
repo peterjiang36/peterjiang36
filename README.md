@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
-- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
-- [10 Essential AI Prompts Every SEO Needs to Master](https://dev.to/natepatel/10-essential-ai-prompts-every-seo-needs-to-master-bpn)
-- [Top 10 SaaS Development Companies in 2025](https://dev.to/technource/top-10-saas-development-companies-in-2025-4153)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-2gfp)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-44oc)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-17ai)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-3jec)
 <!-- BLOG-POST-LIST:END -->
 
 
