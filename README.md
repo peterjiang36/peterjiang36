@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ [29] - 🔥 Setup Auto Login &lpar;Token Auth&rpar; and Cart API with Redux Saga in React Native](https://dev.to/skipperhoa/29-setup-auto-login-token-auth-and-cart-api-with-redux-saga-in-react-native-1f67)
-- [The XSLT Debugging Problem for Logic Apps Developers](https://dev.to/imdj/the-xslt-debugging-problem-for-logic-apps-developers-nba)
-- [The Future of Laravel and PHP: Navigating Challenges and Opportunities in 2025](https://dev.to/alnahian2003/the-future-of-laravel-and-php-navigating-challenges-and-opportunities-in-2025-370j)
-- [TCS34725 RGB Color Sensor: Precision Color Detection for IoT &amp; Embedded Systems](https://dev.to/graham_ad39d948da72c53e4a/tcs34725-rgb-color-sensor-precision-color-detection-for-iot-embedded-systems-42p2)
+- [🎨 Mood Gradient Generator: Colors &amp; Quotes That Match Your Feelings](https://dev.to/naman_sachdeva/mood-gradient-generator-colors-quotes-that-match-your-feelings-57g4)
+- [💻 Leveling Up My Python Skills – 3 Weeks, 150 Problems!](https://dev.to/thiyagu26v/leveling-up-my-python-skills-3-weeks-150-problems-35gp)
+- [Linux Scripting in 10 Minutes](https://dev.to/frank_a_64393c6f49a90e428/linux-scripting-in-10-minutes-1719)
+- [Getting Started with Your First Investment Portfolio](https://dev.to/globridge-tech/getting-started-with-your-first-investment-portfolio-4596)
 <!-- BLOG-POST-LIST:END -->
 
 
