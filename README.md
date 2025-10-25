@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4j45)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-24m2)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-45g2)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-34p1)
+- [✨ [29] - 🔥 Setup Auto Login &lpar;Token Auth&rpar; and Cart API with Redux Saga in React Native](https://dev.to/skipperhoa/29-setup-auto-login-token-auth-and-cart-api-with-redux-saga-in-react-native-1f67)
+- [The XSLT Debugging Problem for Logic Apps Developers](https://dev.to/imdj/the-xslt-debugging-problem-for-logic-apps-developers-nba)
+- [The Future of Laravel and PHP: Navigating Challenges and Opportunities in 2025](https://dev.to/alnahian2003/the-future-of-laravel-and-php-navigating-challenges-and-opportunities-in-2025-370j)
+- [TCS34725 RGB Color Sensor: Precision Color Detection for IoT &amp; Embedded Systems](https://dev.to/graham_ad39d948da72c53e4a/tcs34725-rgb-color-sensor-precision-color-detection-for-iot-embedded-systems-42p2)
 <!-- BLOG-POST-LIST:END -->
 
 
