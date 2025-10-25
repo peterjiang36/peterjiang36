@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-gde)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-58j9)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-ea7)
-- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1pg1)
+- [Fun, simple, NOT scalable background worker based on Django Cache](https://dev.to/climentea/fun-simple-not-scalable-background-worker-based-on-django-cache-7f5)
+- [Modern JavaScript Concurrency - 2025 Edition](https://dev.to/gkoos/modern-javascript-concurrency-2025-edition-h84)
+- [New in Vue - October 2025](https://dev.to/aloisseckar/new-in-vue-october-2025-6i7)
+- [Learning to Code like Crafting in an MMORPG](https://dev.to/skriptmonkey/learning-to-code-like-crafting-in-an-mmorpg-1ckl)
 <!-- BLOG-POST-LIST:END -->
 
 
