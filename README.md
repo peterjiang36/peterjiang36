@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-21gp)
-- [The Man Who Thought He Was Smarter Than Time](https://dev.to/nirajkvinit1/the-man-who-thought-he-was-smarter-than-time-38hp)
-- [Sometimes small ideas teach you the biggest lessons.](https://dev.to/satyam_shree_087caef77512/sometimes-small-ideas-teach-you-the-biggest-lessons-356m)
-- [Account Abstraction in Web3: Unlocking Gasless Transactions and Seamless User Experience - 101 Blockchains #203725](https://dev.to/calgo_62400343865ec0ae72a/account-abstraction-in-web3-unlocking-gasless-transactions-and-seamless-user-experience-101-45ab)
+- [The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke)
+- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_875c0744/beyond-env-a-grown-ups-guide-to-application-configuration-3j5h)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-11f4)
 <!-- BLOG-POST-LIST:END -->
 
 
