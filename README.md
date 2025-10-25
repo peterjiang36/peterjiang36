@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke)
-- [Beyond-env-A-Grown-Ups-Guide-to-Application-Configuration](https://dev.to/member_875c0744/beyond-env-a-grown-ups-guide-to-application-configuration-3j5h)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-11f4)
+- [Why Use Google Cloud Run for Your MVP?](https://dev.to/ynwd/why-use-google-cloud-run-for-your-mvp-4476)
+- [How to Design and Develop a Bidding App for Mobile and Web](https://dev.to/aartijangid23/how-to-design-and-develop-a-bidding-app-for-mobile-and-web-4lip)
+- [Haunted Halloween | Frontend Challenge](https://dev.to/deepak_singh_fa1c5e26bd82/haunted-halloween-frontend-challenge-4e92)
+- [ChatGPT Atlas: The Beginning of AI-Powered Browsing](https://dev.to/ibne_sabidsaikat_1443282/chatgpt-atlas-the-beginning-of-ai-powered-browsing-498d)
 <!-- BLOG-POST-LIST:END -->
 
 
