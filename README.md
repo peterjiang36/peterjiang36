@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Popular Memes: The Ultimate AI-Powered Meme Generator for Viral Content](https://dev.to/raymond_zhao_2270803eb9c8/create-popular-memes-the-ultimate-ai-powered-meme-generator-for-viral-content-1k92)
-- [[Boost]](https://dev.to/rodcordeiro/-h3j)
-- [The Library Method: Understanding Context Managers](https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-context-managers-4cdp)
-- [List and Tuples are Compound Data types](https://dev.to/onaolapo11/list-and-tuples-are-compound-data-types-34lg)
+- [Rick Shiels Golf: Our FUNNIEST Golf Match EVER!](https://dev.to/youtube_golf/rick-shiels-golf-our-funniest-golf-match-ever-3aji)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4hb)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-45do)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-4bbj)
 <!-- BLOG-POST-LIST:END -->
 
 
