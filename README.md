@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Mood Gradient Generator: Colors &amp; Quotes That Match Your Feelings](https://dev.to/naman_sachdeva/mood-gradient-generator-colors-quotes-that-match-your-feelings-57g4)
-- [💻 Leveling Up My Python Skills – 3 Weeks, 150 Problems!](https://dev.to/thiyagu26v/leveling-up-my-python-skills-3-weeks-150-problems-35gp)
-- [Linux Scripting in 10 Minutes](https://dev.to/frank_a_64393c6f49a90e428/linux-scripting-in-10-minutes-1719)
-- [Getting Started with Your First Investment Portfolio](https://dev.to/globridge-tech/getting-started-with-your-first-investment-portfolio-4596)
+- [How Game Dev Assets Supercharged My Workflow — and Why Low-Poly 3D Packs Are a Game Changer](https://dev.to/ahmedamirdev/how-game-dev-assets-supercharged-my-workflow-and-why-low-poly-3d-packs-are-a-game-changer-341o)
+- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
+- [10 Essential AI Prompts Every SEO Needs to Master](https://dev.to/natepatel/10-essential-ai-prompts-every-seo-needs-to-master-bpn)
+- [Top 10 SaaS Development Companies in 2025](https://dev.to/technource/top-10-saas-development-companies-in-2025-4153)
 <!-- BLOG-POST-LIST:END -->
 
 
