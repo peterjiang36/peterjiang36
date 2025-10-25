@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use Google Cloud Run for Your MVP?](https://dev.to/ynwd/why-use-google-cloud-run-for-your-mvp-4476)
-- [How to Design and Develop a Bidding App for Mobile and Web](https://dev.to/aartijangid23/how-to-design-and-develop-a-bidding-app-for-mobile-and-web-4lip)
-- [Haunted Halloween | Frontend Challenge](https://dev.to/deepak_singh_fa1c5e26bd82/haunted-halloween-frontend-challenge-4e92)
-- [ChatGPT Atlas: The Beginning of AI-Powered Browsing](https://dev.to/ibne_sabidsaikat_1443282/chatgpt-atlas-the-beginning-of-ai-powered-browsing-498d)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4j45)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-24m2)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-45g2)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-34p1)
 <!-- BLOG-POST-LIST:END -->
 
 
