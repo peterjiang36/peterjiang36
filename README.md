@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintenance Releases 0.53.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-releases-0530-of-the-github-action-for-checking-spelling-23fk)
-- [🎃 My Hacktoberfest 2025 Journey: Discovering the Power of Documentation](https://dev.to/makendrang/my-hacktoberfest-2025-journey-discovering-the-power-of-documentation-bk6)
-- [A worker fell into a nuclear reactor pool](https://dev.to/technoblogger14o3/a-worker-fell-into-a-nuclear-reactor-pool-10f9)
-- [One Dockerfile to Rule Them All: Building a DevSecOps Container You&#39;ll Actually Love](https://dev.to/jaydeep_gohel_d5e2b6d1144/one-dockerfile-to-rule-them-all-building-a-devsecops-container-youll-actually-love-hfi)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-16ic)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-311)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-226)
+- [BINFLOW ML Cloud Synergy Flow — Ava &lpar;GCP&rpar; Noah &lpar;AWS&rpar; Sage &lpar;Observer&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/binflow-ml-cloud-synergy-flow-ava-gcp-x-noah-aws-x-sage-observer-2455)
 <!-- BLOG-POST-LIST:END -->
 
 
