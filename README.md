@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Just Launched Our Chrome Extension – And It&#39;s Completely Free! 🎉](https://dev.to/wordcounterplusapp/we-just-launched-our-chrome-extension-and-its-completely-free-4f06)
-- [Security Considerations for Multi-Cluster Cloud Architecture &lpar;HA EKS with Databases&rpar;](https://dev.to/aws-builders/security-considerations-for-multi-cluster-cloud-architecture-ha-eks-with-databases-1edp)
-- [Phantom.Coin – an absolutely deterministic, rule-based L1 &lpar;DAG + aBFT, eUTXO&rpar;. First building block of an open ecosystem.](https://dev.to/hakan_onder/phantomcoin-an-absolutely-deterministic-rule-based-l1-dag-abft-eutxo-first-building-block-1id5)
-- [Looking for a Startup-Oriented Teammate for Microsoft Imagine Cup 2026](https://dev.to/mlwithharsh/looking-for-a-startup-oriented-teammate-for-microsoft-imagine-cup-2026-1b9k)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-42gj)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-44p5)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-fo8)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-5chm)
 <!-- BLOG-POST-LIST:END -->
 
 
