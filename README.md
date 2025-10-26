@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with C# as a programming language.](https://dev.to/onyemuche/getting-started-with-c-as-a-programming-language-4h82)
-- [🐳 Working with Docker? Don’t Let Your Disk Explode!](https://dev.to/sara_hajbi/working-with-docker-dont-let-your-disk-explode-35lb)
-- [DeepSeek-OCR: When a Picture Is Actually Worth 10 Fewer Tokens](https://dev.to/0xrelogic/deepseek-ocr-when-a-picture-is-actually-worth-10x-fewer-tokens-19p6)
-- [Optimizing Cloud Infrastructure Performance Through Open-Source Innovation](https://dev.to/kapusto/optimizing-cloud-infrastructure-performance-through-open-source-innovation-f9p)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-1a13)
+- [Samba on Linux - File Sharing for Mixed Environments](https://dev.to/sebos/samba-on-linux-file-sharing-for-mixed-environments-5022)
+- [How we test NPM packages before publishing with npm pack](https://dev.to/yoriiis/how-we-test-npm-packages-before-publishing-with-npm-pack-57bo)
+- [Building Agentic Workflow: Auto Banking Customer Service with MindsDB](https://dev.to/jiaqicheng1998/building-agentic-workflow-auto-banking-customer-service-with-mindsdb-484p)
 <!-- BLOG-POST-LIST:END -->
 
 
