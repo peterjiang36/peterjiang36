@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tool to stop writing custom copilot configs from scratch](https://dev.to/joshthedevguy/i-built-a-tool-to-stop-writing-custom-copilot-from-scratch-1c6j)
-- [Haunted Loop: A Pure-CSS Halloween Scene](https://dev.to/p_thabiwa_0ca34c2f83/haunted-loop-a-pure-css-halloween-scene-5bam)
-- [[Boost]](https://dev.to/nefedov-dm/-1fo3)
-- [BINLFOW Quantum-Inspired Cloud ML Framework &lpar;Expanded Edition&rpar;](https://dev.to/p_thabiwa_0ca34c2f83/binlfow-quantum-inspired-cloud-ml-framework-expanded-edition-4lil)
+- [Post 2 — Contribution Chronicles](https://dev.to/p_thabiwa_0ca34c2f83/post-2-contribution-chronicles-3ago)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2be4)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-ci0)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1k48)
 <!-- BLOG-POST-LIST:END -->
 
 
