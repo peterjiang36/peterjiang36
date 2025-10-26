@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-1a13)
-- [Samba on Linux - File Sharing for Mixed Environments](https://dev.to/sebos/samba-on-linux-file-sharing-for-mixed-environments-5022)
-- [How we test NPM packages before publishing with npm pack](https://dev.to/yoriiis/how-we-test-npm-packages-before-publishing-with-npm-pack-57bo)
-- [Building Agentic Workflow: Auto Banking Customer Service with MindsDB](https://dev.to/jiaqicheng1998/building-agentic-workflow-auto-banking-customer-service-with-mindsdb-484p)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--bk5)
+- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
+- [SmartSpend - Agentic Expense Management with Auth0 FGA](https://dev.to/thedreamsaver/smartspend-agentic-expense-management-with-auth0-fga-4ejf)
+- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
 <!-- BLOG-POST-LIST:END -->
 
 
