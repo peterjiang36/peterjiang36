@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions](https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b)
-- [Rust for JavaScript Developers: A Complete Roadmap](https://dev.to/mayu2008/rust-for-javascript-developers-a-complete-roadmap-232p)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)
-- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)
+- [The Journey Before main&lpar;&rpar;](https://dev.to/technoblogger14o3/the-journey-before-main-58jm)
+- [PulseGrid: The Living Data Center](https://dev.to/p_thabiwa_0ca34c2f83/pulsegrid-the-living-data-center-3n93)
+- [Daily Artificial Intelligence Digest - Oct 26, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-26-2025-jk0)
+- [SynthFlow: The End of Task Lists](https://dev.to/p_thabiwa_0ca34c2f83/synthflow-the-end-of-task-lists-34b0)
 <!-- BLOG-POST-LIST:END -->
 
 
