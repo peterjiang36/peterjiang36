@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FlowML — Time-Labeled Programming for Machine Learning](https://dev.to/p_thabiwa_0ca34c2f83/flowml-time-labeled-programming-for-machine-learning-4l8n)
-- [EchoVerse: The Self-Generating Universe](https://dev.to/p_thabiwa_0ca34c2f83/echoverse-the-self-generating-universe-34j)
-- [EchoVerse: The Self-Generating Universe](https://dev.to/p_thabiwa_0ca34c2f83/echoverse-the-self-generating-universe-18en)
-- [Building cargo-sane: A Better Way to Manage Rust Dependencies](https://dev.to/chronocoders/building-cargo-sane-a-better-way-to-manage-rust-dependencies-50j6)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1pbm)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-21ec)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-32kc)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-4b5b)
 <!-- BLOG-POST-LIST:END -->
 
 
