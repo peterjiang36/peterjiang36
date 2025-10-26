@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TFT-LCD Interfaces: Technical Comparison for Embedded and Industrial Applications](https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-interfaces-technical-comparison-for-embedded-and-industrial-applications-4o9m)
-- [AI Session Memory: How Far Should It Go Before Privacy Breaks?](https://dev.to/alifar/ai-session-memory-how-far-should-it-go-before-privacy-breaks-3ao7)
-- [Real-Time Streaming Platform with Pulsar, Flink &amp; ClickHouse](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-streaming-platform-with-pulsar-flink-clickhouse-1oac)
-- [Merge Two Sorted Linked Lists](https://dev.to/we_are_broken_compilers/merge-two-sorted-linked-lists-6il)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_083ff294/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-1f2f)
+- [AWS EKS Enterprise Deployment: Real-Time Data Streaming Platform - 1 Million Events/Sec](https://dev.to/vijaya_bhaskarv_ba95adf9/aws-eks-enterprise-deployment-real-time-data-streaming-platform-1-million-eventssec-p2g)
+- [[Boost]](https://dev.to/tu_nguyenquang_074177947/-4506)
+- [One Package, Two Formats: Publishing npm Libraries with Nx](https://dev.to/sudokar/one-package-two-formats-publishing-npm-libraries-with-nx-3hho)
 <!-- BLOG-POST-LIST:END -->
 
 
