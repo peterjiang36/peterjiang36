@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kuku FM se 499 cut jaaye to kya Karen](https://dev.to/munna_kumar_a4c97c55d2ee2/kuku-fm-se-499-cut-jaaye-to-kya-karen-ldp)
-- [How to upload the object in S3 | How to public the object | How to access the object](https://dev.to/sachin841/how-to-upload-the-object-in-s3-how-to-public-the-object-how-to-access-the-object-5g8h)
-- [Master Your Social Media Marketing Strategy in 2025: The Ultimate Guide](https://dev.to/gooday_marlon_5cf7e1f4841/master-your-social-media-marketing-strategy-in-2025-the-ultimate-guide-44m8)
-- [IELTS step-by-step](https://dev.to/elshod_ibodullayev_c4cbdc/ielts-step-by-step-kaa)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-3g1l)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5dld)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-kee)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1amh)
 <!-- BLOG-POST-LIST:END -->
 
 
