@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey Before main&lpar;&rpar;](https://dev.to/technoblogger14o3/the-journey-before-main-58jm)
-- [PulseGrid: The Living Data Center](https://dev.to/p_thabiwa_0ca34c2f83/pulsegrid-the-living-data-center-3n93)
-- [Daily Artificial Intelligence Digest - Oct 26, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-26-2025-jk0)
-- [SynthFlow: The End of Task Lists](https://dev.to/p_thabiwa_0ca34c2f83/synthflow-the-end-of-task-lists-34b0)
+- [FlowML — Time-Labeled Programming for Machine Learning](https://dev.to/p_thabiwa_0ca34c2f83/flowml-time-labeled-programming-for-machine-learning-4l8n)
+- [EchoVerse: The Self-Generating Universe](https://dev.to/p_thabiwa_0ca34c2f83/echoverse-the-self-generating-universe-34j)
+- [EchoVerse: The Self-Generating Universe](https://dev.to/p_thabiwa_0ca34c2f83/echoverse-the-self-generating-universe-18en)
+- [Building cargo-sane: A Better Way to Manage Rust Dependencies](https://dev.to/chronocoders/building-cargo-sane-a-better-way-to-manage-rust-dependencies-50j6)
 <!-- BLOG-POST-LIST:END -->
 
 
