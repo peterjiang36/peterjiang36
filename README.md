@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Token Count Optimization in repo-contextr](https://dev.to/dharam_ghevariya_0d946c37/implementing-token-count-optimization-in-repo-contextr-1bkg)
-- [How ChatGPT Was Made: Behind the Scenes of a Large Language Model](https://dev.to/mhamadelitawi/how-chatgpt-was-made-behind-the-scenes-of-a-large-language-model-38gd)
-- [String Analysis RESTful API](https://dev.to/ameh_mathias/string-analysis-restful-api-1fgp)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_3bfe2e68/your-projects-a-mess-its-not-you-its-your-frameworks-fault-404j)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mba)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-44ji)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1cfd)
+- [“SysNova Toolkit: Ethical Diagnostics for Windows &amp; macOS — Built by a Self-Taught Technician”](https://dev.to/mentalistops/sysnova-toolkit-ethical-diagnostics-for-windows-macos-built-by-a-self-taught-technician-3dec)
 <!-- BLOG-POST-LIST:END -->
 
 
