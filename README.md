@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolving Battlefield: AI vs. AI in Network Security by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-evolving-battlefield-ai-vs-ai-in-network-security-by-arvind-sundararajan-3pmd)
-- [Policy-Bound Personas in SaijinOS — How AI Grows Through Boundaries](https://dev.to/kato_masato_c5593c81af5c6/policy-bound-personas-in-saijinos-how-ai-grows-through-boundaries-432l)
-- [java ArrayList Guide: Your Ultimate Handbook for Dynamic Data](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraylist-guide-your-ultimate-handbook-for-dynamic-data-1np8)
-- [I Built A Free Developer Toolkit with 20+ Developer Tools](https://dev.to/technical_leap_53b6f15370/i-built-a-free-developer-toolkit-with-20-developer-tools-1k9a)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-2i97)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1ofl)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-epi)
+- [Lazy Loading Like a Pro: Angular&#39;s Secrets to Blazing Performance](https://dev.to/karol_modelski/lazy-loading-like-a-pro-angulars-secrets-to-blazing-performance-423m)
 <!-- BLOG-POST-LIST:END -->
 
 
