@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Post 2 — Contribution Chronicles](https://dev.to/p_thabiwa_0ca34c2f83/post-2-contribution-chronicles-3ago)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2be4)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-ci0)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-1k48)
+- [Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions](https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b)
+- [Rust for JavaScript Developers: A Complete Roadmap](https://dev.to/mayu2008/rust-for-javascript-developers-a-complete-roadmap-232p)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8)
+- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd)
 <!-- BLOG-POST-LIST:END -->
 
 
