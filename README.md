@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Draw a Spiral with JavaScript](https://dev.to/codingdudecom/how-to-draw-a-spiral-with-javascript-4n9a)
-- [How a Freelance Graphic Designer Streamlined Her Business Operations with Free Digital Tools](https://dev.to/royalaccount_24fe3bccf48d/how-a-freelance-graphic-designer-streamlined-her-business-operations-with-free-digital-tools-cec)
-- [&quot;It’s easy to get discouraged when your projects feel small. But here’s the secret: those small projects are not wasted time. They’re your grind. They’re your XP.&quot;](https://dev.to/dejavuudev/its-easy-to-get-discouraged-when-your-projects-feel-small-but-heres-the-secret-those-small-2efd)
-- [RouteWise AI](https://dev.to/binarygarage/routewise-ai-590)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5go2)
+- [Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-57oe)
+- [The Healing Power of Nature: Why Water and the Ocean Refresh the Soul](https://dev.to/adeolaogunkola/the-healing-power-of-nature-why-water-and-the-ocean-refresh-the-soul-1f42)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1028)
 <!-- BLOG-POST-LIST:END -->
 
 
