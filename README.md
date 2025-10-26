@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Text to PDF Instantly — A Simple, Privacy-Focused Tool](https://dev.to/torik2025/convert-text-to-pdf-instantly-a-simple-privacy-focused-tool-3fc7)
-- [How I Reduced Docker Pull Time from 3 Minutes to 3 Seconds](https://dev.to/sandeepkomal/how-i-reduced-docker-pull-time-from-3-minutes-to-3-seconds-b54)
-- [Day 15: Uncovering Spending Habits with Semester Averages](https://dev.to/shahrouzlogs/day-15-uncovering-spending-habits-with-semester-averages-19p3)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-fge)
+- [TFT-LCD Interfaces: Technical Comparison for Embedded and Industrial Applications](https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-interfaces-technical-comparison-for-embedded-and-industrial-applications-4o9m)
+- [AI Session Memory: How Far Should It Go Before Privacy Breaks?](https://dev.to/alifar/ai-session-memory-how-far-should-it-go-before-privacy-breaks-3ao7)
+- [Real-Time Streaming Platform with Pulsar, Flink &amp; ClickHouse](https://dev.to/vijaya_bhaskarv_ba95adf9/real-time-streaming-platform-with-pulsar-flink-clickhouse-1oac)
+- [Merge Two Sorted Linked Lists](https://dev.to/we_are_broken_compilers/merge-two-sorted-linked-lists-6il)
 <!-- BLOG-POST-LIST:END -->
 
 
