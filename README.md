@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-f47)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-5aj5)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5f0a)
-- [Beyond MVC: A Deep Dive into the Codigger Application Framework&#39;s Performance Engine and Full-Stack Playbook](https://dev.to/codigger/beyond-mvc-a-deep-dive-into-the-codigger-application-frameworks-performance-engine-and-full-stack-5gdf)
+- [AgentKit: How Efficient Laziness Fixes Fragile LLM Workflows](https://dev.to/pascal_cescato_692b7a8a20/agentkit-how-efficient-laziness-fixes-fragile-llm-workflows-3291)
+- [Media Generation with Go Graphics &lpar;GG Package&rpar;](https://dev.to/beryldev/media-generation-with-go-graphics-gg-package-lj)
+- [Which month is best for Langtang Trek?](https://dev.to/khusi_khan_afb3dcf7fe41e4/which-month-is-best-for-langtang-trek-2ej8)
+- [WTF is DevOps as Code?](https://dev.to/dailybugle33/wtf-is-devops-as-code-1l4i)
 <!-- BLOG-POST-LIST:END -->
 
 
