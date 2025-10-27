@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Training a Neural Network to Detect Coffee First Crack from Audio - An Agentic Development Journey with Warp](https://dev.to/syamaner/part-1-training-a-neural-network-to-detect-coffee-first-crack-from-audio-an-agentic-development-1jei)
-- [The Silent Symphony: Scaling Read-Heavy Rails Apps with Read Replicas](https://dev.to/alex_aslam/the-silent-symphony-scaling-read-heavy-rails-apps-with-read-replicas-5di2)
-- [GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](https://dev.to/paperium/gyroswin-5d-surrogates-for-gyrokinetic-plasma-turbulence-simulations-27i8)
-- [Async Programming in C#](https://dev.to/eli77rhm/async-programming-in-c-13jg)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fji)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-pkd)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4o65)
+- [Instalación de Brave en Parrot/Kali/Linux](https://dev.to/mister_keto/instalacion-de-brave-en-parrotlinux-4kkn)
 <!-- BLOG-POST-LIST:END -->
 
 
