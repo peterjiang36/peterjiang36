@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AgentKit: How Efficient Laziness Fixes Fragile LLM Workflows](https://dev.to/pascal_cescato_692b7a8a20/agentkit-how-efficient-laziness-fixes-fragile-llm-workflows-3291)
-- [Media Generation with Go Graphics &lpar;GG Package&rpar;](https://dev.to/beryldev/media-generation-with-go-graphics-gg-package-lj)
-- [Which month is best for Langtang Trek?](https://dev.to/khusi_khan_afb3dcf7fe41e4/which-month-is-best-for-langtang-trek-2ej8)
-- [WTF is DevOps as Code?](https://dev.to/dailybugle33/wtf-is-devops-as-code-1l4i)
+- [React 19.2’s &lt;Activity /&gt;: Because ‘display: none’ Shouldn’t Mean ‘Memory Loss’](https://dev.to/i_abhiseka/react-192s-because-display-none-shouldnt-mean-memory-loss-12o)
+- [🔐 Cyber Awareness Month Special: Why Security is Everyone’s Responsibility! Beyond Roles and Job Titles...](https://dev.to/amit_ambekar_c022e6732f8d/cyber-awareness-month-special-why-security-is-everyones-responsibility-beyond-roles-and-job-1ic4)
+- [Unlocking the Power of Soft Skills: Mastering Communication in the Digital Age](https://dev.to/vjnvisakh/unlocking-the-power-of-soft-skills-mastering-communication-in-the-digital-age-88c)
+- [Learning TDD by doing: Acceptance testing with Umbraco&#39;s management API](https://dev.to/d_inventor/learning-tdd-by-doing-acceptance-testing-with-umbracos-management-api-4bff)
 <!-- BLOG-POST-LIST:END -->
 
 
