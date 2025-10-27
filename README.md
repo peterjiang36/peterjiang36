@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #150.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-150-4119)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-54lo)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-p37)
-- [🔐 JWT Tokens with Cookies and Redis/in-Memory in One Line — The Magic of auth-verify](https://dev.to/jahongir2007/jwt-tokens-with-cookies-and-redisin-memory-in-one-line-the-magic-of-auth-verify-4di0)
+- [Swift SDK for Android is Here: Build Native Android Apps with Swift](https://dev.to/arshtechpro/swift-sdk-for-android-is-here-build-native-android-apps-with-swift-1372)
+- [The Dangers of Dynamic Method Calls in PHP](https://dev.to/ashallendesign/the-dangers-of-dynamic-method-calls-in-php-5amn)
+- [Front End Meta Course](https://dev.to/hughbenmoore/front-end-meta-course-4d1p)
+- [Les développeurs au cœur de la révolution blockchain : du code à la confiance](https://dev.to/nicomiayo/les-developpeurs-au-coeur-de-la-revolution-blockchain-du-code-a-la-confiance-alm)
 <!-- BLOG-POST-LIST:END -->
 
 
