@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular&#39;s Testing Revolution: Vitest, Fake Timers &amp; Testronaut](https://dev.to/rainerhahnekamp/angulars-testing-revolution-vitest-fake-timers-testronaut-2bnj)
-- [AI Can Code, But It Can&#39;t Build Software](https://dev.to/matias_heikkil_f56f8f0fb/ai-can-code-but-it-cant-build-software-477d)
-- [How to add Splashscreen and Presplash screen in Renpy](https://dev.to/rachelombok/how-to-add-splashscreen-and-presplash-screen-in-renpy-4bl6)
-- [Decompression in C/C++: Virtual Files and Memory I/O Principles and Techniques](https://dev.to/stefor07/decompression-in-c-virtual-files-and-memory-io-principles-and-techniques-1pih)
+- [Part 1: Training a Neural Network to Detect Coffee First Crack from Audio - An Agentic Development Journey with Warp](https://dev.to/syamaner/part-1-training-a-neural-network-to-detect-coffee-first-crack-from-audio-an-agentic-development-1jei)
+- [The Silent Symphony: Scaling Read-Heavy Rails Apps with Read Replicas](https://dev.to/alex_aslam/the-silent-symphony-scaling-read-heavy-rails-apps-with-read-replicas-5di2)
+- [GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](https://dev.to/paperium/gyroswin-5d-surrogates-for-gyrokinetic-plasma-turbulence-simulations-27i8)
+- [Async Programming in C#](https://dev.to/eli77rhm/async-programming-in-c-13jg)
 <!-- BLOG-POST-LIST:END -->
 
 
