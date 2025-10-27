@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem-Solving in Software Engineering](https://dev.to/epklein/problem-solving-in-software-engineering-3il9)
-- [Day 9: Window Functions — Analytics Without Aggregation](https://dev.to/hardik_kanajariya/day-9-window-functions-analytics-without-aggregation-5ec4)
-- [Swift on Android: JNIKit 2.11.0: Automatic Memory &amp; 2D Arrays](https://dev.to/imike/swift-on-android-jnikit-2110-automatic-memory-2d-arrays-31k4)
-- [Como Construí uma Calculadora de Horas e Por Que Todo Freelancer Precisa de Uma](https://dev.to/james-smithh/como-construi-uma-calculadora-de-horas-e-por-que-todo-freelancer-precisa-de-uma-184p)
+- [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
+- [Flutter Migration Guide: Preparing Your Android App for Google Play’s 16 KB Page-Size Requirement](https://dev.to/michaelchiew08/flutter-migration-guide-preparing-your-android-app-for-google-plays-16-kb-page-size-requirement-10j0)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_083ff294/security-is-not-a-feature-its-a-foundation-105f)
+- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
 <!-- BLOG-POST-LIST:END -->
 
 
