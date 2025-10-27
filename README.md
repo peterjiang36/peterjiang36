@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [conway-errors: Bringing Order to Errors as Part of Your Projects Architecture](https://dev.to/ivklgn/conway-errors-bringing-order-to-errors-as-part-of-your-projects-architecture-e10)
-- [AI, Fundamentals and the Future of Software Engineering: Reflections from an Engineer](https://dev.to/tiago_fernandesdecampos/ai-fundamentals-and-the-future-of-software-engineering-reflections-from-an-engineer-5gl2)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2769)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-6ca)
+- [Nano Banana vs. Seedream 4.0: The Full-Stack Showdown – Which AI Image API Wins for Your Next SaaS Application?](https://dev.to/prashant_sharma_2558e2093/nano-banana-vs-seedream-40-the-full-stack-showdown-which-ai-image-api-wins-for-your-next-saas-k30)
+- [Build Tasks for Network Devices Faster with Code Assistance and Puppet Edge](https://dev.to/puppet/build-tasks-for-network-devices-faster-with-code-assistance-and-puppet-edge-2e8e)
+- [Build and Host a Website from a Prompt Using Orchids.app](https://dev.to/badass_tech-ae2025/build-and-host-a-website-from-a-prompt-using-orchidsapp-2obg)
+- [MongoDB aggregation Pipelines simplified](https://dev.to/keshav___dev/mongodb-aggregation-pipelines-simplified-53mp)
 <!-- BLOG-POST-LIST:END -->
 
 
