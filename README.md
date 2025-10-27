@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
-- [⚛️ Master React, The Pure Way](https://dev.to/ml318097/master-react-the-pure-way-49l7)
-- [Serverless vs. Containers: Picking the Right Tech for Your 2025 Project](https://dev.to/karthik_n/serverless-vs-containers-picking-the-right-tech-for-your-2025-project-1mdn)
-- [How to Use ClamAV and Malware Scanners on Your Server](https://dev.to/serveravatar/how-to-use-clamav-and-malware-scanners-on-your-server-28hg)
+- [How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)
+- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--obk)
+- [What iOS Devs Need to Know About FairPlay Streaming SDK 26](https://dev.to/arshtechpro/what-ios-devs-need-to-know-about-fairplay-streaming-sdk-26-4l60)
+- [[Boost]](https://dev.to/martinpersson/-13kd)
 <!-- BLOG-POST-LIST:END -->
 
 
