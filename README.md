@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude.ai Has Built-In Superpowers &lpar;And You Probably Didn&#39;t Know&rpar;](https://dev.to/nunc/claudeai-has-built-in-superpowers-and-you-probably-didnt-know-1haa)
-- [Claude Code Skills vs Subagents - When to Use What?](https://dev.to/nunc/claude-code-skills-vs-subagents-when-to-use-what-4d12)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_ece4a271/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-m57)
-- [Why Business Literacy Matters for DevRel &lpar;And Why You Can&#39;t Skip This Step&rpar;](https://dev.to/mattstratton/why-business-literacy-matters-for-devrel-and-why-you-cant-skip-this-step-30p1)
+- [Angular&#39;s Testing Revolution: Vitest, Fake Timers &amp; Testronaut](https://dev.to/rainerhahnekamp/angulars-testing-revolution-vitest-fake-timers-testronaut-2bnj)
+- [AI Can Code, But It Can&#39;t Build Software](https://dev.to/matias_heikkil_f56f8f0fb/ai-can-code-but-it-cant-build-software-477d)
+- [How to add Splashscreen and Presplash screen in Renpy](https://dev.to/rachelombok/how-to-add-splashscreen-and-presplash-screen-in-renpy-4bl6)
+- [Decompression in C/C++: Virtual Files and Memory I/O Principles and Techniques](https://dev.to/stefor07/decompression-in-c-virtual-files-and-memory-io-principles-and-techniques-1pih)
 <!-- BLOG-POST-LIST:END -->
 
 
