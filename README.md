@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift SDK for Android is Here: Build Native Android Apps with Swift](https://dev.to/arshtechpro/swift-sdk-for-android-is-here-build-native-android-apps-with-swift-1372)
-- [The Dangers of Dynamic Method Calls in PHP](https://dev.to/ashallendesign/the-dangers-of-dynamic-method-calls-in-php-5amn)
-- [Front End Meta Course](https://dev.to/hughbenmoore/front-end-meta-course-4d1p)
-- [Les développeurs au cœur de la révolution blockchain : du code à la confiance](https://dev.to/nicomiayo/les-developpeurs-au-coeur-de-la-revolution-blockchain-du-code-a-la-confiance-alm)
+- [conway-errors: Bringing Order to Errors as Part of Your Projects Architecture](https://dev.to/ivklgn/conway-errors-bringing-order-to-errors-as-part-of-your-projects-architecture-e10)
+- [AI, Fundamentals and the Future of Software Engineering: Reflections from an Engineer](https://dev.to/tiago_fernandesdecampos/ai-fundamentals-and-the-future-of-software-engineering-reflections-from-an-engineer-5gl2)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2769)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-6ca)
 <!-- BLOG-POST-LIST:END -->
 
 
