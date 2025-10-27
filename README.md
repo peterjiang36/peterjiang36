@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Portfolio as a Fresher Developer](https://dev.to/iteyonikservices/how-to-build-a-portfolio-as-a-fresher-developer-41do)
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--obk)
-- [What iOS Devs Need to Know About FairPlay Streaming SDK 26](https://dev.to/arshtechpro/what-ios-devs-need-to-know-about-fairplay-streaming-sdk-26-4l60)
-- [[Boost]](https://dev.to/martinpersson/-13kd)
+- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
+- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
+- [MongoDB Vector Search With EF Core](https://dev.to/mongodb/mongodb-vector-search-with-ef-core-3dbh)
+- [IAm AWS guide](https://dev.to/sachin841/iam-aws-guide-o32)
 <!-- BLOG-POST-LIST:END -->
 
 
