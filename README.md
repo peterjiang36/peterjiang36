@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark’s Outlines: Python Classes](https://dev.to/mike-vincent/quarks-outlines-python-classes-kk9)
-- [Paywall Optimization: How Better Design Drives Higher Subscription Conversion](https://dev.to/paywallpro/paywall-optimization-how-better-design-drives-higher-subscription-conversion-4moo)
-- [Assistant0 - Secure AI Personal Assistant](https://dev.to/async_dime/assistant0-secure-ai-personal-assistant-l11)
-- [What The Pack - AI Mission Control for D2C Logistics](https://dev.to/rokimiftah/what-the-pack-ai-mission-control-for-d2c-logistics-13a6)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-f47)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-5aj5)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5f0a)
+- [Beyond MVC: A Deep Dive into the Codigger Application Framework&#39;s Performance Engine and Full-Stack Playbook](https://dev.to/codigger/beyond-mvc-a-deep-dive-into-the-codigger-application-frameworks-performance-engine-and-full-stack-5gdf)
 <!-- BLOG-POST-LIST:END -->
 
 
