@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--bk5)
-- [How to Integrate MTN Mobile Money in PHP - Complete Guide](https://dev.to/lepresk/how-to-integrate-mtn-mobile-money-in-php-complete-guide-j81)
-- [SmartSpend - Agentic Expense Management with Auth0 FGA](https://dev.to/thedreamsaver/smartspend-agentic-expense-management-with-auth0-fga-4ejf)
-- [The First AI-Powered URL Shortener - Shrinkify](https://dev.to/jordan_t/the-first-ai-powered-url-shortener-shrinkify-mah)
+- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-12gf)
+- [🧠 The Blueprint for Building Smart Small-Business Websites](https://dev.to/dominic-codeflux/the-blueprint-for-building-smart-small-business-websites-h2d)
+- [GEO : Generative Engine Optimization - Explained](https://dev.to/nerajno/geo-generative-engine-optimization-explained-35n5)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4kha)
 <!-- BLOG-POST-LIST:END -->
 
 
