@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19.2’s &lt;Activity /&gt;: Because ‘display: none’ Shouldn’t Mean ‘Memory Loss’](https://dev.to/i_abhiseka/react-192s-because-display-none-shouldnt-mean-memory-loss-12o)
-- [🔐 Cyber Awareness Month Special: Why Security is Everyone’s Responsibility! Beyond Roles and Job Titles...](https://dev.to/amit_ambekar_c022e6732f8d/cyber-awareness-month-special-why-security-is-everyones-responsibility-beyond-roles-and-job-1ic4)
-- [Unlocking the Power of Soft Skills: Mastering Communication in the Digital Age](https://dev.to/vjnvisakh/unlocking-the-power-of-soft-skills-mastering-communication-in-the-digital-age-88c)
-- [Learning TDD by doing: Acceptance testing with Umbraco&#39;s management API](https://dev.to/d_inventor/learning-tdd-by-doing-acceptance-testing-with-umbracos-management-api-4bff)
+- [AI’s Trap: Settling for Boilerplate Over Elegant Code](https://dev.to/dayvster/ais-trap-settling-for-boilerplate-over-elegant-code-n32)
+- [⚛️ Master React, The Pure Way](https://dev.to/ml318097/master-react-the-pure-way-49l7)
+- [Serverless vs. Containers: Picking the Right Tech for Your 2025 Project](https://dev.to/karthik_n/serverless-vs-containers-picking-the-right-tech-for-your-2025-project-1mdn)
+- [How to Use ClamAV and Malware Scanners on Your Server](https://dev.to/serveravatar/how-to-use-clamav-and-malware-scanners-on-your-server-28hg)
 <!-- BLOG-POST-LIST:END -->
 
 
