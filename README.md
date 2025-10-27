@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Vault: A Nostalgic Hack at Zero Nights 2017 🚪💻](https://dev.to/d3one/cracking-the-vault-a-nostalgic-hack-at-zero-nights-2017-ejk)
-- [Flutter Migration Guide: Preparing Your Android App for Google Play’s 16 KB Page-Size Requirement](https://dev.to/michaelchiew08/flutter-migration-guide-preparing-your-android-app-for-google-plays-16-kb-page-size-requirement-10j0)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_083ff294/security-is-not-a-feature-its-a-foundation-105f)
-- [I Spent 2 Days Migrating to TypeScript So I Could Write JavaScript Anyway](https://dev.to/adamthedeveloper/i-spent-2-days-migrating-to-typescript-so-i-could-write-javascript-anyway-bgc)
+- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4kea)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2l3)
+- [Affiliate Marketing Bio for Instagram: Craft the Perfect First Impression](https://dev.to/sudevm/affiliate-marketing-bio-for-instagram-craft-the-perfect-first-impression-4kh5)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER &lpar;That We&#39;ve Sinned So Far&rpar;](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-4n54)
 <!-- BLOG-POST-LIST:END -->
 
 
