@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart](https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-12gf)
-- [🧠 The Blueprint for Building Smart Small-Business Websites](https://dev.to/dominic-codeflux/the-blueprint-for-building-smart-small-business-websites-h2d)
-- [GEO : Generative Engine Optimization - Explained](https://dev.to/nerajno/geo-generative-engine-optimization-explained-35n5)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-4kha)
+- [VaultMind: Your AI Calendar Assistant with Auth0-Powered Security](https://dev.to/cuongnp/vaultmind-your-ai-calendar-assistant-with-auth0-powered-security-11m9)
+- [Como construí meu próprio sistema OTA &lpar;Over-the-Air Updates&rpar; para o Nutrilow com ExpressJS e Expo](https://dev.to/bendevoficial/como-construi-meu-proprio-sistema-ota-over-the-air-updates-para-o-nutrilow-com-expressjs-e-expo-38bi)
+- [Automation + Time Travel Agent](https://dev.to/barak_codes/automation-time-travel-agent-37pj)
+- [How I Crushed Advent of Code And Solved Hard Problems Using Autogen Jupyter Executor and Qwen3](https://dev.to/qtalen/how-i-crushed-advent-of-code-and-solved-hard-problems-using-autogen-jupyter-executor-and-qwen3-14gp)
 <!-- BLOG-POST-LIST:END -->
 
 
