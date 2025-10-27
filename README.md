@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A quiet rewrite of the Web: PureScript on the rooftops of JavaScript](https://dev.to/0x1/a-quiet-rewrite-of-the-web-purescript-on-the-rooftops-of-javascript-c61)
-- [Create Animated Borders Using Only CSS.](https://dev.to/bittokks/create-animated-borders-using-only-css-3id3)
-- [MongoDB Vector Search With EF Core](https://dev.to/mongodb/mongodb-vector-search-with-ef-core-3dbh)
-- [IAm AWS guide](https://dev.to/sachin841/iam-aws-guide-o32)
+- [What are your goals for the week? #150.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-150-4119)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-54lo)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-p37)
+- [🔐 JWT Tokens with Cookies and Redis/in-Memory in One Line — The Magic of auth-verify](https://dev.to/jahongir2007/jwt-tokens-with-cookies-and-redisin-memory-in-one-line-the-magic-of-auth-verify-4di0)
 <!-- BLOG-POST-LIST:END -->
 
 
