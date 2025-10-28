@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Elon Musk Announces the Return of Vine&#39;s Archive](https://dev.to/yagyaraj_sharma_6cd410179/title-elon-musk-announces-the-return-of-vines-archive-d90)
-- [Tradicional T.I Overview: Entendendo as Bases Antes da Nuvem](https://dev.to/sinngjpeg/tradicional-ti-overview-entendendo-as-bases-antes-da-nuvem-5del)
-- [Migrate from Material Icons to Material Symbols](https://dev.to/zijianhuang/migrating-from-material-icons-to-material-symbols-1mn)
-- [Adding Elastic Read Scaling to Your Supabase Database](https://dev.to/george-at-springtail/adding-elastic-read-scaling-to-your-supabase-database-5691)
+- [História e Visão Geral da AWS Cloud](https://dev.to/sinngjpeg/historia-e-visao-geral-da-aws-cloud-1l9l)
+- [Building a Redis Clone in Zig—Part 3](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-3-meg)
+- [The Hidden Cost of Tool Switching](https://dev.to/bekahhw/the-hidden-cost-of-tool-switching-2nkh)
+- [Mastering JavaScript&#39;s URL&lpar;&rpar; and URLSearchParams: A Complete Guide](https://dev.to/codingsimba/mastering-javascripts-url-and-urlsearchparams-a-complete-guide-15l5)
 <!-- BLOG-POST-LIST:END -->
 
 
