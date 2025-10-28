@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Stop Explaining Your Project to AI — Let It Learn with Vibe Kit](https://dev.to/nolrm/stop-explaining-your-project-to-ai-let-it-learn-with-vibe-kit-40fh)
-- [CSS Typography: Advanced Text Styling and Font Features](https://dev.to/sharique_siddiqui_8242dad/css-typography-advanced-text-styling-and-font-features-2kl2)
-- [Day 10: Indexes and Performance Optimization](https://dev.to/hardik_kanajariya/day-10-indexes-and-performance-optimization-1ajk)
-- [When your ideas help someone solve a real problem, they share them not because you asked, but because it helped.
-That’s why the Dev Community appreciate writing frameworks, lessons, and prompts that people can use, not just read.](https://dev.to/jaideepparashar/when-your-ideas-help-someone-solve-a-real-problem-they-share-them-not-because-you-asked-but-kie)
+- [OSD600: Lab 6 — Repomix&#39;s token count tree feature and its prototyping in Rust](https://dev.to/david_rivera_8d845b35931e/osd600-lab-6-repomixs-token-count-tree-feature-and-its-prototyping-in-rust-2a2m)
+- [From Dashboards to Decisions: Building Scalable Self-Service BI for Real Impact](https://dev.to/laxmivanam/from-dashboards-to-decisions-building-scalable-self-service-bi-for-real-impact-a27)
+- [Convert Excel to SVG in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/convert-excel-to-svg-in-java-a-comprehensive-guide-41m1)
+- [Secure by Design in the Age of GenAI: How Devs Must Shift Their Software Security Practices in 2025](https://dev.to/ihonchar/secure-by-design-in-the-age-of-genai-how-devs-must-shift-their-software-security-practices-in-2025-1c96)
 <!-- BLOG-POST-LIST:END -->
 
 
