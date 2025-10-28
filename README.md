@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Planetary Data into Your Astrology App](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-integrate-planetary-data-into-your-astrology-app-2cgo)
-- [PNG to BMP: Understanding Legacy Format Conversion for Windows Development](https://dev.to/hardik_b2d8f0bca/png-to-bmp-understanding-legacy-format-conversion-for-windows-development-cjp)
-- [This article explores how KPIT Technologies collaborated with a design agency to revamp their digital identity using UX strategy, design thinking, and 3D animation powered by Three.js.](https://dev.to/kunj1234/this-article-explores-how-kpit-technologies-collaborated-with-a-design-agency-to-revamp-their-2mm1)
-- [Finding the Best Platform to Learn Swift in 2025 — A Developer’s Take](https://dev.to/dev_loops/finding-the-best-platform-to-learn-swift-in-2025-a-developers-take-2mf7)
+- [SPF Permerror Solutions: Ensure Your Emails Are Delivered Safely](https://dev.to/inspireme_labs_e6af6b7b69/spf-permerror-solutions-ensure-your-emails-are-delivered-safely-47k2)
+- [Day 17: Converting Numeric Grades to Letters with Robustness and Clarity](https://dev.to/shahrouzlogs/day-17-converting-numeric-grades-to-letters-with-robustness-and-clarity-eal)
+- [[Tutorial] WhatsApp Order AI Agent](https://dev.to/necatiozmen/tutorial-whatsapp-order-ai-agent-3kph)
+- [From Chaos to Clarity: How We Made Workday Data 70% Faster to Retrieve — Without Breaking Its APIs](https://dev.to/genesis_technologies/from-chaos-to-clarity-how-we-made-workday-data-70-faster-to-retrieve-without-breaking-its-apis-48h2)
 <!-- BLOG-POST-LIST:END -->
 
 
