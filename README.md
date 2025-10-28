@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
-- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
-- [Putting It All Together: Speaking Business as a DevRel Professional](https://dev.to/mattstratton/putting-it-all-together-speaking-business-as-a-devrel-professional-2kfj)
-- [Effect Maps: How Stream-Oriented Programming rethinks effect management](https://dev.to/dariomannu/effect-maps-how-stream-oriented-programming-rethinks-effect-management-1d7o)
+- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
+- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
+- [Looking Beyond Cline? Here&#39;s The 7 Best Cline Alternatives to Check Out!](https://dev.to/matt_tanner_f9c36595644ad/looking-beyond-cline-heres-the-7-best-cline-alternatives-to-check-out-43a1)
+- [APIs, Agility, and Edge: Inside the Rise of Product-First Telcos](https://dev.to/rishabhsharma123/apis-agility-and-edge-inside-the-rise-of-product-first-telcos-40a)
 <!-- BLOG-POST-LIST:END -->
 
 
