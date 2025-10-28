@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your SLA &lpar;maybe?&rpar; is a Lie: Why most companies get RTO, RPO and Service Level Agreements wrong](https://dev.to/anderson_leite/your-sla-maybe-is-a-lie-why-most-companies-get-rto-rpo-and-service-level-agreements-wrong-229c)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-11gb)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1ol8)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5e9j)
+- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
+- [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
+- [The Digital Detox Trend: What Developers Can Learn from Slowing Down Through Tarcutta Tourist Activities](https://dev.to/amelia_brown04/the-digital-detox-trend-what-developers-can-learn-from-slowing-down-through-tarcutta-tourist-259k)
+- [Step-by-Step Guide to Configure OneLogin for SSO in BoldSign](https://dev.to/boldsign/step-by-step-guide-to-configure-onelogin-for-sso-in-boldsign-e62)
 <!-- BLOG-POST-LIST:END -->
 
 
