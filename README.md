@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [S3](https://dev.to/jumptotech/s3-1mp7)
-- [My favourite Web API - Webgl](https://dev.to/justin_mayhew_eb3e90b50bc/my-favourite-web-api-webgl-519c)
-- [2WHAV: The Executable Prompting Framework Built on LLM-First Principles](https://dev.to/francesco_marconi_282058b/2whav-the-executable-prompting-framework-built-on-llm-first-principles-3760)
-- [Code Analysis - Repomix](https://dev.to/elsad_humbetli_0971c995ce/code-analysis-repomix-3pbg)
+- [Title: Elon Musk Announces the Return of Vine&#39;s Archive](https://dev.to/yagyaraj_sharma_6cd410179/title-elon-musk-announces-the-return-of-vines-archive-d90)
+- [Tradicional T.I Overview: Entendendo as Bases Antes da Nuvem](https://dev.to/sinngjpeg/tradicional-ti-overview-entendendo-as-bases-antes-da-nuvem-5del)
+- [Migrate from Material Icons to Material Symbols](https://dev.to/zijianhuang/migrating-from-material-icons-to-material-symbols-1mn)
+- [Adding Elastic Read Scaling to Your Supabase Database](https://dev.to/george-at-springtail/adding-elastic-read-scaling-to-your-supabase-database-5691)
 <!-- BLOG-POST-LIST:END -->
 
 
