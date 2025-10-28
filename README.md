@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SPF Permerror Solutions: Ensure Your Emails Are Delivered Safely](https://dev.to/inspireme_labs_e6af6b7b69/spf-permerror-solutions-ensure-your-emails-are-delivered-safely-47k2)
-- [Day 17: Converting Numeric Grades to Letters with Robustness and Clarity](https://dev.to/shahrouzlogs/day-17-converting-numeric-grades-to-letters-with-robustness-and-clarity-eal)
-- [[Tutorial] WhatsApp Order AI Agent](https://dev.to/necatiozmen/tutorial-whatsapp-order-ai-agent-3kph)
-- [From Chaos to Clarity: How We Made Workday Data 70% Faster to Retrieve — Without Breaking Its APIs](https://dev.to/genesis_technologies/from-chaos-to-clarity-how-we-made-workday-data-70-faster-to-retrieve-without-breaking-its-apis-48h2)
+- [Designing Deployable Voice-AI Playbooks &lpar;p95 &lt; 300 ms, preflight blue/green&rpar;](https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh)
+- [Automating the Employee Journey: A Guide to Managing the Hire-to-Retire Lifecycle with Power Automate](https://dev.to/shubhojeet2001/automating-the-employee-journey-a-guide-to-managing-the-hire-to-retire-lifecycle-with-power-1iml)
+- [New AI Agent Example](https://dev.to/necatiozmen/new-ai-agent-example-f8i)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-44la)
 <!-- BLOG-POST-LIST:END -->
 
 
