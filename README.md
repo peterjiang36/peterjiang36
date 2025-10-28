@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FlashVSR: Real-Time Video Super-Resolution Made Simple](https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc)
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-3h9l)
-- [What kind of ORM engine does a low-code platform need? &lpar;2&rpar;](https://dev.to/canonical/what-kind-of-orm-engine-does-a-low-code-platform-need-2-mfj)
-- [[Template] ChatGPT Apps starter kit &lpar;Vite + React + HMR&rpar;](https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4pli)
+- [Stop writing authorization code for your FHIR-based app](https://dev.to/health_samurai/stop-writing-authorization-code-for-your-fhir-based-app-3flo)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-6ca)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4i72)
 <!-- BLOG-POST-LIST:END -->
 
 
