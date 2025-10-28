@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 312 - Too Many Asserts](https://dev.to/mcsee/code-smell-312-too-many-asserts-1lej)
-- [What is Laravel Telescope?](https://dev.to/ethanleetech/what-is-laravel-telescope-2iaf)
-- [The Digital Detox Trend: What Developers Can Learn from Slowing Down Through Tarcutta Tourist Activities](https://dev.to/amelia_brown04/the-digital-detox-trend-what-developers-can-learn-from-slowing-down-through-tarcutta-tourist-259k)
-- [Step-by-Step Guide to Configure OneLogin for SSO in BoldSign](https://dev.to/boldsign/step-by-step-guide-to-configure-onelogin-for-sso-in-boldsign-e62)
+- [From 70K to 2K Tokens: Optimizing SQL Generation with RAG Architecture](https://dev.to/daniel_marques_8020831cd9/from-70k-to-2k-tokens-optimizing-sql-generation-with-rag-architecture-3nki)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2i78)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5dad)
+- [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
 <!-- BLOG-POST-LIST:END -->
 
 
