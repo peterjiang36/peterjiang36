@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Deployable Voice-AI Playbooks &lpar;p95 &lt; 300 ms, preflight blue/green&rpar;](https://dev.to/ayoolasolomon/designing-deployable-voice-ai-playbooks-p95-300-ms-preflight-bluegreen-55eh)
-- [Automating the Employee Journey: A Guide to Managing the Hire-to-Retire Lifecycle with Power Automate](https://dev.to/shubhojeet2001/automating-the-employee-journey-a-guide-to-managing-the-hire-to-retire-lifecycle-with-power-1iml)
-- [New AI Agent Example](https://dev.to/necatiozmen/new-ai-agent-example-f8i)
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-44la)
+- [Your SLA &lpar;maybe?&rpar; is a Lie: Why most companies get RTO, RPO and Service Level Agreements wrong](https://dev.to/anderson_leite/your-sla-maybe-is-a-lie-why-most-companies-get-rto-rpo-and-service-level-agreements-wrong-229c)
+- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-11gb)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1ol8)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5e9j)
 <!-- BLOG-POST-LIST:END -->
 
 
