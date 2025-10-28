@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2c5c)
-- [Unlocking User Value in SaaS by Triggering the Aha Moment](https://dev.to/lollypopdesign/unlocking-user-value-in-saas-by-triggering-the-aha-moment-42ee)
-- [Ringer Movies: ‘A House of Dynamite’ Is Ready to Explode](https://dev.to/popcorn_movies/ringer-movies-a-house-of-dynamite-is-ready-to-explode-4o52)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-34m4)
+- [OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modelingand LLM Alignment](https://dev.to/paperium/openrubrics-towards-scalable-synthetic-rubric-generation-for-reward-modelingand-llm-alignment-4nkf)
+- [That-Real-Time-Headache-Its-Not-The-WebSockets-Its-Your-Framework](https://dev.to/member_ece4a271/that-real-time-headache-its-not-the-websockets-its-your-framework-542o)
+- [The Package Architecture: Building Importable Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-package-architecture-building-importable-code-263)
+- [I Tried This New AI Art Generator… The Results Left Me Speechless!](https://dev.to/mrpraise/i-tried-this-new-ai-art-generator-the-results-left-me-speechless-4in5)
 <!-- BLOG-POST-LIST:END -->
 
 
