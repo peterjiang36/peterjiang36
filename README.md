@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
-- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
-- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
-- [Beyond the Hype: Are AI Agents Just Fancy State Machines?](https://dev.to/arvind_sundararajan/beyond-the-hype-are-ai-agents-just-fancy-state-machines-4gma)
+- [Before You Learn Closures, Understand Context](https://dev.to/elfaidighassen/before-you-learn-closures-understand-context-gfd)
+- [Classic solutions architecture discussions](https://dev.to/jumptotech/classic-solutions-architecture-discussions-15bb)
+- [Migrating to a Multimodal AI Framework: A Step-by-Step Guide for C# Developers](https://dev.to/lofcz/migrating-to-a-multimodal-ai-framework-a-step-by-step-guide-for-c-developers-4k84)
+- [RAG Pipelines Made Simple: Ballerina for AI-Powered Search](https://dev.to/better-boy/rag-pipelines-made-simple-ballerina-for-ai-powered-search-3lpi)
 <!-- BLOG-POST-LIST:END -->
 
 
