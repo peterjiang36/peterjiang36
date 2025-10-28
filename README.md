@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2cgl)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-558a)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2p4)
-- [Firebase SQL with Data Connect](https://dev.to/codingcatdev/firebase-sql-with-data-connect-3i1k)
+- [The Hidden Work Behind Gzip: How it compresses so well](https://dev.to/rijultp/the-hidden-work-behind-gzip-how-it-compresses-so-well-5ejk)
+- [Turn off AI code completion](https://dev.to/jarne/turn-off-ai-code-completion-3f9g)
+- [Putting It All Together: Speaking Business as a DevRel Professional](https://dev.to/mattstratton/putting-it-all-together-speaking-business-as-a-devrel-professional-2kfj)
+- [Effect Maps: How Stream-Oriented Programming rethinks effect management](https://dev.to/dariomannu/effect-maps-how-stream-oriented-programming-rethinks-effect-management-1d7o)
 <!-- BLOG-POST-LIST:END -->
 
 
