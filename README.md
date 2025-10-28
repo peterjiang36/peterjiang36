@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why developers are leaving Next.js for TanStack Start, and loving it](https://dev.to/tessamero/why-developers-are-leaving-nextjs-for-tanstack-start-and-loving-it-459a)
-- [Remote Development Team Building Software for Remote Locations](https://dev.to/richardsandown/remote-development-team-building-software-for-remote-locations-3d45)
-- [Looking Beyond Cline? Here&#39;s The 7 Best Cline Alternatives to Check Out!](https://dev.to/matt_tanner_f9c36595644ad/looking-beyond-cline-heres-the-7-best-cline-alternatives-to-check-out-43a1)
-- [APIs, Agility, and Edge: Inside the Rise of Product-First Telcos](https://dev.to/rishabhsharma123/apis-agility-and-edge-inside-the-rise-of-product-first-telcos-40a)
+- [Coding Scalable UIs In Cursor With Kombai](https://dev.to/cesscode/coding-scalable-uis-in-cursor-with-kombai-475d)
+- [Tools That Make Coding a LOT Easier](https://dev.to/rylan/tools-that-make-coding-a-lot-easier-5017)
+- [Flutter Basics](https://dev.to/ideategudy/flutter-basics-4l2f)
+- [Beyond the Hype: Are AI Agents Just Fancy State Machines?](https://dev.to/arvind_sundararajan/beyond-the-hype-are-ai-agents-just-fancy-state-machines-4gma)
 <!-- BLOG-POST-LIST:END -->
 
 
