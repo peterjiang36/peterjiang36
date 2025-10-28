@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 70K to 2K Tokens: Optimizing SQL Generation with RAG Architecture](https://dev.to/daniel_marques_8020831cd9/from-70k-to-2k-tokens-optimizing-sql-generation-with-rag-architecture-3nki)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2i78)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-5dad)
-- [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
+- [FlashVSR: Real-Time Video Super-Resolution Made Simple](https://dev.to/localfaceswap/flashvsr-real-time-video-super-resolution-made-simple-2fjc)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-3h9l)
+- [What kind of ORM engine does a low-code platform need? &lpar;2&rpar;](https://dev.to/canonical/what-kind-of-orm-engine-does-a-low-code-platform-need-2-mfj)
+- [[Template] ChatGPT Apps starter kit &lpar;Vite + React + HMR&rpar;](https://dev.to/erica_beavers_3cbeab30b6f/template-chatgpt-apps-starter-kit-vite-react-hmr-3lpj)
 <!-- BLOG-POST-LIST:END -->
 
 
