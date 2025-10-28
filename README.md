@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Maintainer to Contributor - Building, Collaborating, and Reflecting this Hacktoberfest 🌿](https://dev.to/eccentriccoder01/from-maintainer-to-contributor-building-collaborating-and-reflecting-this-hacktoberfest-2oih)
-- [Por qué los desarrolladores que pasan a tech lead fracasan…](https://dev.to/bezael/por-que-los-desarrolladores-que-pasan-a-tech-lead-fracasan-305k)
-- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-12mo)
-- [🚫 Divs Are Not Buttons , Here’s Why &lpar;and How to Fix It&rpar;](https://dev.to/homayunmmdy/divs-are-not-buttons-heres-why-and-how-to-fix-it-48lh)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2cgl)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-558a)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-2p4)
+- [Firebase SQL with Data Connect](https://dev.to/codingcatdev/firebase-sql-with-data-connect-3i1k)
 <!-- BLOG-POST-LIST:END -->
 
 
