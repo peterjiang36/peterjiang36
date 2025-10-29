@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Descomplicando Simple Factory Method](https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk)
-- [Docker Containers Unable to Access Internet? Check Your VPS Private Network](https://dev.to/bisark/docker-containers-unable-to-access-internet-check-your-vps-private-network-3jf1)
-- [Debian First Aid Kit](https://dev.to/divsmart/debian-first-aid-kit-2llm)
-- [Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98)
+- [What “Work on Yourself” Means to Me as a Founder](https://dev.to/jaideepparashar/what-work-on-yourself-means-to-me-as-a-founder-5hno)
+- [Day 11: Functions, Procedures, and Control Flow](https://dev.to/hardik_kanajariya/day-11-functions-procedures-and-control-flow-59m5)
+- [Using AI to negotiate a $195k hospital bill down to $33k](https://dev.to/technoblogger14o3/using-ai-to-negotiate-a-195k-hospital-bill-down-to-33k-582j)
+- [Implementing Pagination with ArkTS Using Remote Communication Kit](https://dev.to/harmonyos/implementing-pagination-with-arkts-using-remote-communication-kit-omi)
 <!-- BLOG-POST-LIST:END -->
 
 
