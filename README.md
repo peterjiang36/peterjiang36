@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 How to Build a Flip Animation in React](https://dev.to/ml318097/how-to-build-a-flip-animation-in-react-kkm)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4o20)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-4o54)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-kfo)
+- [From Chaos to Clarity: How We Realized We Needed a Design System](https://dev.to/denis_bratchikov/from-chaos-to-clarity-how-we-realized-we-needed-a-design-system-3964)
+- [Top 5 Rust Frameworks &lpar;2025&rpar;](https://dev.to/masteringbackend/top-5-rust-frameworks-2025-3jnc)
+- [Explainability integrity. Anchoring model/input/output hashes on-chain gives verifiable provenance. Are you planning ZK attestations for “f&lpar;x&rpar;=y” without revealing x or f?](https://dev.to/mahima_chhatwani_e8d6fd3f/explainability-integrity-anchoring-modelinputoutput-hashes-on-chain-gives-verifiable-591j)
+- [Technique Avancée d&#39;OpenRewrite : Orchestrer des refactorings complexes avec les `ScanningRecipe`](https://dev.to/onepoint/technique-avancee-dopenrewrite-orchestrer-des-refactorings-complexes-avec-les-scanningrecipe-2onf)
 <!-- BLOG-POST-LIST:END -->
 
 
