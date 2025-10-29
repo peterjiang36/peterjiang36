@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1d43)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4fd1)
-- [Why DevSecOps Isn&#39;t a Role. It&#39;s a Responsibility](https://dev.to/anderson_leite/why-devsecops-isnt-a-role-its-a-responsibility-69m)
-- [🛡️ What Makes Linux Secure &lpar;and Where It&#39;s Weak - Plus How to Fix It&rpar;](https://dev.to/secbyshresth/what-makes-linux-secure-and-where-its-weak-plus-how-to-fix-it-2kpi)
+- [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
+- [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
+- [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
+- [Unlocking Developer Revenue: AI Monetization and Dual Earnings for LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-ai-monetization-and-dual-earnings-for-llm-apps-2m20)
 <!-- BLOG-POST-LIST:END -->
 
 
