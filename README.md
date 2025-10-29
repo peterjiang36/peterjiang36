@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Static PDF to Dynamic HTML with Python](https://dev.to/allen_yang_f905170c5a197b/how-to-convert-static-pdf-to-dynamic-html-with-python-55i2)
-- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
-- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-186j)
-- [AI Prompt Organizer &lpar;Free and No Sign-up Needed&rpar;](https://dev.to/foxinfotech/ai-prompt-organizer-free-and-no-sign-up-needed-3llg)
+- [Gathering User Requirements Through Prototyping: Why It Works](https://dev.to/yusdirman/gathering-user-requirements-through-prototyping-why-it-works-2go8)
+- [Why You Should Use 310,000+ Iterations with PBKDF2 in 2025](https://dev.to/securebitchat/why-you-should-use-310000-iterations-with-pbkdf2-in-2025-3o1e)
+- [Welcome Thread - v349](https://dev.to/devteam/welcome-thread-v349-446k)
+- [The Patchbay Principle: How Audio Engineering Taught Me to Code](https://dev.to/calebstein1/the-patchbay-principle-how-audio-engineering-taught-me-to-code-1haf)
 <!-- BLOG-POST-LIST:END -->
 
 
