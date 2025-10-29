@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HNG stage 2 task, we go harder](https://dev.to/ujunwa27/hng-stage-2-task-we-go-harder-3l29)
-- [Wix vs Shopify: Which is the Best Platform for Your Online Store?](https://dev.to/api_troll/wix-vs-shopify-which-is-the-best-platform-for-your-online-store-44bi)
-- [🏆 Agile FC: Το Scrum μέσα από το Ποδόσφαιρ](https://dev.to/__b63657/agile-fc-to-scrum-mesa-apo-to-podosphair-30ik)
-- [Day 4: Learning JavaScript by Step By Step](https://dev.to/niladri_banerjee_98/day-4-learning-javascript-by-step-by-step-35n6)
+- [When Terraform Taught Me a Version Lesson, Not a Python One](https://dev.to/techwithhari/when-terraform-taught-me-a-version-lesson-not-a-python-one-3beo)
+- [My First Responsive Website – Built with HTML &amp; CSS](https://dev.to/zonish_zahid/my-first-responsive-website-built-with-html-css-4467)
+- [Mastering the Apply Family of Functions in R: A Complete Guide to Efficient Data Iteration](https://dev.to/anshuman_816f8012be0c9b6c/mastering-the-apply-family-of-functions-in-r-a-complete-guide-to-efficient-data-iteration-1obn)
+- [Power up your integrations: ONLYOFFICE API updates in Docs 9.1 &amp; DocSpace 3.5](https://dev.to/onlyoffice/power-up-your-integrations-onlyoffice-api-updates-in-docs-91-docspace-35-2d1g)
 <!-- BLOG-POST-LIST:END -->
 
 
