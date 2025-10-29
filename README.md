@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creepy Helloween Party Invitation card - Helloween Css Art](https://dev.to/asifa_azad_codex/creepy-helloween-party-invitation-card-helloween-css-art-46mf)
-- [RAG Explained: How AI Systems Got Smarter by Learning to Look Things Up](https://dev.to/manav_sutar_d86f7312465e6/rag-explained-how-ai-systems-got-smarter-by-learning-to-look-things-up-65k)
-- [Building, Learning, and Growing as a Developer — Hello DEV!](https://dev.to/nandhutee/building-learning-and-growing-as-a-developer-hello-dev-4o0)
-- [Geographic in Zync: PostGIS-Inspired Spatial Utilities for SQL Server](https://dev.to/mirshahreza/geographic-in-zync-postgis-inspired-spatial-utilities-for-sql-server-25gf)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1p9o)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4l2l)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1km)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-5871)
 <!-- BLOG-POST-LIST:END -->
 
 
