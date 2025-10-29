@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Terraform Taught Me a Version Lesson, Not a Python One](https://dev.to/techwithhari/when-terraform-taught-me-a-version-lesson-not-a-python-one-3beo)
-- [My First Responsive Website – Built with HTML &amp; CSS](https://dev.to/zonish_zahid/my-first-responsive-website-built-with-html-css-4467)
-- [Mastering the Apply Family of Functions in R: A Complete Guide to Efficient Data Iteration](https://dev.to/anshuman_816f8012be0c9b6c/mastering-the-apply-family-of-functions-in-r-a-complete-guide-to-efficient-data-iteration-1obn)
-- [Power up your integrations: ONLYOFFICE API updates in Docs 9.1 &amp; DocSpace 3.5](https://dev.to/onlyoffice/power-up-your-integrations-onlyoffice-api-updates-in-docs-91-docspace-35-2d1g)
+- [Rethinking Security Resilience And Getting Back To Basics At CornCon 11](https://dev.to/gitguardian/rethinking-security-resilience-and-getting-back-to-basics-at-corncon-11-4lec)
+- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://dev.to/technoblogger14o3/eurollm-llm-made-in-europe-built-to-support-all-24-official-eu-languages-4fcj)
+- [9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️](https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111)
+- [Hello World!](https://dev.to/lag_lagendary/hello-world-4okg)
 <!-- BLOG-POST-LIST:END -->
 
 
