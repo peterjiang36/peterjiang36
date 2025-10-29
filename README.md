@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello folks, recently I found out about this community would love to be updated on Android tech and will try help others.](https://dev.to/denver1234/hello-folks-recently-i-found-out-about-this-community-would-love-to-be-updated-on-android-tech-and-33i2)
-- [Java Wrapper Classes Explained: Why, How, and When to Use Them](https://dev.to/satyam_gupta_0d1ff2152dcc/java-wrapper-classes-explained-why-how-and-when-to-use-them-2n80)
-- [Mastering the Java Collections Framework: A Senior Developer&#39;s Deep Dive](https://dev.to/amrut_p_51ca0dd7c54b9/mastering-the-java-collections-framework-a-senior-developers-deep-dive-m5l)
-- [The Unreal Arbitrage: 100x Opportunity in the Age of Instant Intelligence](https://dev.to/ankk98/the-unreal-arbitrage-100x-opportunity-in-the-age-of-instant-intelligence-2bf9)
+- [🔄 How to Build a Flip Animation in React](https://dev.to/ml318097/how-to-build-a-flip-animation-in-react-kkm)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4o20)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-4o54)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-kfo)
 <!-- BLOG-POST-LIST:END -->
 
 
