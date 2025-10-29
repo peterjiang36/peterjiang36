@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k)
-- [Meetup: Show Your Stack! TypeScript Community](https://dev.to/getjv/meetup-show-your-stack-typescript-community-5587)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4623)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1603)
+- [How to Create the &quot;Apple Liquid Glass&quot; Effect with CSS and SVG](https://dev.to/fabiosleal/how-to-create-the-apple-liquid-glass-effect-with-css-and-svg-2o06)
+- [Unlocking Success: Your Ultimate Guide to Shopify Ecommerce](https://dev.to/api_troll/unlocking-success-your-ultimate-guide-to-shopify-ecommerce-1e04)
+- [Master YAML in 2024: Complete Learning Guide for DevOps Engineers](https://dev.to/yuvrajkarna/master-yaml-in-2024-complete-learning-guide-for-devops-engineers-4f4e)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_25c2e834/files-are-not-just-data-a-guide-to-robust-file-handling-c61)
 <!-- BLOG-POST-LIST:END -->
 
 
