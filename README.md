@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-37je)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-49n7)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-m08)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-1bga)
+- [HNG stage 2 task, we go harder](https://dev.to/ujunwa27/hng-stage-2-task-we-go-harder-3l29)
+- [Wix vs Shopify: Which is the Best Platform for Your Online Store?](https://dev.to/api_troll/wix-vs-shopify-which-is-the-best-platform-for-your-online-store-44bi)
+- [🏆 Agile FC: Το Scrum μέσα από το Ποδόσφαιρ](https://dev.to/__b63657/agile-fc-to-scrum-mesa-apo-to-podosphair-30ik)
+- [Day 4: Learning JavaScript by Step By Step](https://dev.to/niladri_banerjee_98/day-4-learning-javascript-by-step-by-step-35n6)
 <!-- BLOG-POST-LIST:END -->
 
 
