@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What “Work on Yourself” Means to Me as a Founder](https://dev.to/jaideepparashar/what-work-on-yourself-means-to-me-as-a-founder-5hno)
-- [Day 11: Functions, Procedures, and Control Flow](https://dev.to/hardik_kanajariya/day-11-functions-procedures-and-control-flow-59m5)
-- [Using AI to negotiate a $195k hospital bill down to $33k](https://dev.to/technoblogger14o3/using-ai-to-negotiate-a-195k-hospital-bill-down-to-33k-582j)
-- [Implementing Pagination with ArkTS Using Remote Communication Kit](https://dev.to/harmonyos/implementing-pagination-with-arkts-using-remote-communication-kit-omi)
+- [How to Convert Static PDF to Dynamic HTML with Python](https://dev.to/allen_yang_f905170c5a197b/how-to-convert-static-pdf-to-dynamic-html-with-python-55i2)
+- [Claude Code is a Beast – Tips from 6 Months of Hardcore Use](https://dev.to/diet-code103/claude-code-is-a-beast-tips-from-6-months-of-hardcore-use-572n)
+- [Security-is-Not-a-Feature-Its-a-Foundation](https://dev.to/member_25c2e834/security-is-not-a-feature-its-a-foundation-186j)
+- [AI Prompt Organizer &lpar;Free and No Sign-up Needed&rpar;](https://dev.to/foxinfotech/ai-prompt-organizer-free-and-no-sign-up-needed-3llg)
 <!-- BLOG-POST-LIST:END -->
 
 
