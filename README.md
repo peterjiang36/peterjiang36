@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Prem Test Intra Tools: The Complete Guide to Self-Hosted Testing Platforms](https://dev.to/jamescantor38/on-prem-test-intra-tools-the-complete-guide-to-self-hosted-testing-platforms-11np)
-- [easy-query: A Modern, Type-Safe ORM for Java That Actually Makes Sense](https://dev.to/dev-jack/easy-query-a-modern-type-safe-orm-for-java-that-actually-makes-sense-19n8)
-- [One of the most underrated skills to stand out as a coder:](https://dev.to/canro91/one-of-the-most-underrated-skills-to-stand-out-as-a-coder-2gkp)
-- [🚀 Introducing the ChatGPT Connection from Gadget](https://dev.to/gadget/introducing-the-chatgpt-connection-from-gadget-12no)
+- [How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k)
+- [Meetup: Show Your Stack! TypeScript Community](https://dev.to/getjv/meetup-show-your-stack-typescript-community-5587)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4623)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1603)
 <!-- BLOG-POST-LIST:END -->
 
 
