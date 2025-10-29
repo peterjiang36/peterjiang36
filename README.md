@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HactoberFest&#39;s Week 3: Fixing a Type-Casting Issue in Kestra’s Chunk Pebble Filter](https://dev.to/hsachdeva9/hactoberfests-week-3-fixing-a-type-casting-issue-in-kestras-chunk-pebble-filter-124f)
-- [Quantum Circuits: Can AI Design Better Entanglement Networks? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-circuits-can-ai-design-better-entanglement-networks-by-arvind-sundararajan-4nao)
-- [The Hidden Costs of Common AI SDKs in 2025: What Developers Need to Know](https://dev.to/lofcz/the-hidden-costs-of-common-ai-sdks-in-2025-what-developers-need-to-know-4b0)
-- [Building a Production Kubernetes Cluster for $15/Month In Four Days](https://dev.to/araldhafeeri/building-a-production-kubernetes-cluster-for-15month-in-four-days-5ehf)
+- [Node.js Stream এবং Buffer](https://dev.to/tanvir_ahamed/nodejs-stream-ebn-buffer-dg0)
+- [Playable Ads: The Secret Weapon Boosting Mobile Game Success](https://dev.to/gamepill/playable-ads-the-secret-weapon-boosting-mobile-game-success-2iab)
+- [The Search Path Mystery: Where Python Finds Modules](https://dev.to/aaron_rose_0787cc8b4775a0/the-search-path-mystery-where-python-finds-modules-585l)
+- [🦄 AI Skills That Matter—And the Product Fundamentals That Don’t Change](https://dev.to/adam/ai-skills-that-matter-and-the-product-fundamentals-that-dont-change-pek)
 <!-- BLOG-POST-LIST:END -->
 
 
