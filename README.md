@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Security Resilience And Getting Back To Basics At CornCon 11](https://dev.to/gitguardian/rethinking-security-resilience-and-getting-back-to-basics-at-corncon-11-4lec)
-- [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://dev.to/technoblogger14o3/eurollm-llm-made-in-europe-built-to-support-all-24-official-eu-languages-4fcj)
-- [9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️](https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111)
-- [Hello World!](https://dev.to/lag_lagendary/hello-world-4okg)
+- [Unveiling Hidden Patterns: Understanding Exploratory Factor Analysis in R](https://dev.to/dipti_moryani_9137d0a2e44/unveiling-hidden-patterns-understanding-exploratory-factor-analysis-in-r-1m37)
+- [Why JWT login breaks in WooCommerce — and how to fix it cleanly](https://dev.to/maysker/why-jwt-login-breaks-in-woocommerce-and-how-to-fix-it-cleanly-5m2)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-534o)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-4lm0)
 <!-- BLOG-POST-LIST:END -->
 
 
