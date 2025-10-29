@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Stream এবং Buffer](https://dev.to/tanvir_ahamed/nodejs-stream-ebn-buffer-dg0)
-- [Playable Ads: The Secret Weapon Boosting Mobile Game Success](https://dev.to/gamepill/playable-ads-the-secret-weapon-boosting-mobile-game-success-2iab)
-- [The Search Path Mystery: Where Python Finds Modules](https://dev.to/aaron_rose_0787cc8b4775a0/the-search-path-mystery-where-python-finds-modules-585l)
-- [🦄 AI Skills That Matter—And the Product Fundamentals That Don’t Change](https://dev.to/adam/ai-skills-that-matter-and-the-product-fundamentals-that-dont-change-pek)
+- [Descomplicando Simple Factory Method](https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk)
+- [Docker Containers Unable to Access Internet? Check Your VPS Private Network](https://dev.to/bisark/docker-containers-unable-to-access-internet-check-your-vps-private-network-3jf1)
+- [Debian First Aid Kit](https://dev.to/divsmart/debian-first-aid-kit-2llm)
+- [Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98)
 <!-- BLOG-POST-LIST:END -->
 
 
