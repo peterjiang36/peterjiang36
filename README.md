@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-48e7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 7 - &#39;In The Mood for Love’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-7-in-the-mood-for-love-4j6f)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-3hk6)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-fjg)
+- [I Think Game Dev Isn’t My Thing &lpar;And That’s Okay&rpar;](https://dev.to/vulcanwm/i-think-game-dev-isnt-my-thing-and-thats-okay-3h5j)
+- [⏳geol, the cli to efficiently manage EOLs like a boss](https://dev.to/adriens/geol-the-cli-to-efficiently-manage-eols-like-a-boss-3hne)
+- [48 hours date with Kiro IDE](https://dev.to/nishtha_8ff779c03ba37e7d4/48-hours-date-with-kiro-ide-20f7)
+- [🗳️ Day 28 of #30DaysOfSolidity — Build a DAO Voting System &lpar;Decentralized Governance&rpar;](https://dev.to/sauravkumar8178/day-28-of-30daysofsolidity-build-a-dao-voting-system-decentralized-governance-3kg1)
 <!-- BLOG-POST-LIST:END -->
 
 
