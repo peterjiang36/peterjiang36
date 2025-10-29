@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3l8j)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1gp4)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-4m8)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-g0f)
+- [100+ Builders Signed Up for the ScrumBuddy Beta - Here’s Why](https://dev.to/scrumbuddyai/100-builders-signed-up-for-the-scrumbuddy-beta-heres-why-47l9)
+- [Best Ways to Use Collection Runners for API Workflows](https://dev.to/requestly/best-ways-to-use-collection-runners-for-api-workflows-2l7k)
+- [Kubernetes at the Edge: Is Your Data Ready to Leave the Nest?](https://dev.to/karthik_n/kubernetes-at-the-edge-is-your-data-ready-to-leave-the-nest-210h)
+- [VLESS Protocol: How It Bypasses Censorship in Russia and Why It Works](https://dev.to/__2ea5fee000c/vless-protocol-how-it-bypasses-censorship-in-russia-and-why-it-works-4o9d)
 <!-- BLOG-POST-LIST:END -->
 
 
