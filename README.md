@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Large Language Models &lpar;LLMs&rpar; actually work](https://dev.to/wdp/how-large-language-models-llms-actually-work-37d5)
-- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3)
-- [The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n)
-- [Automate Resume Parsing with n8n, Thordata Universal API &amp; OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5)
+- [When I started building AI prompts and frameworks, I realised something:
+
+To make it accessible and reusable for developers, I built a structured system using GitHub as my AI prompt library hub.
+
+This article walks you through exactly how I did it.](https://dev.to/jaideepparashar/when-i-started-building-ai-prompts-and-frameworks-i-realised-something-to-make-it-accessible-3i1e)
+- [How I Use GitHub to Host My AI Prompt Libraries](https://dev.to/jaideepparashar/how-i-use-github-to-host-my-ai-prompt-libraries-2592)
+- [Codie&#39;s Cognitive Chronicles: The Three-Phase Ritual That Preserves Identity Across Disruption](https://dev.to/izzyfuller/codies-cognitive-chronicles-the-three-phase-ritual-that-preserves-identity-across-disruption-29d3)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2lhk)
 <!-- BLOG-POST-LIST:END -->
 
 
