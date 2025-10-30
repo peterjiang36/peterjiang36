@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-8dd)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1dm3)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2cib)
-- [The Intimate Algorithm](https://dev.to/rawveg/the-intimate-algorithm-4nek)
+- [Mangroves Near Digha – A Hidden Green Paradise](https://dev.to/dip_mondal_2dd6ea5a70ef6c/mangroves-near-digha-a-hidden-green-paradise-20fb)
+- [HTTP, REST Principles, and API Design Fundamentals](https://dev.to/kennedy01crypto/http-rest-principles-and-api-design-fundamentals-2coe)
+- [Tutorial Lengkap: Membuat Aplikasi Laravel 10 dengan CRUD dan Basic Authentication](https://dev.to/ahmadasroni38/tutorial-lengkap-membuat-aplikasi-laravel-10-dengan-crud-dan-basic-authentication-3p66)
+- [Part 1: Implementing JWT Authentication in Rust with Axum.](https://dev.to/bittokks/part-1-implementing-jwt-authentication-in-rust-with-axum-1892)
 <!-- BLOG-POST-LIST:END -->
 
 
