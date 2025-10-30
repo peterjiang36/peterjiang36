@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Prepzilla: How I Made CEED Exam Practice Free for Everyone &lpar;And What I Learned&rpar;](https://dev.to/randomchikbum/building-prepzilla-how-i-made-ceed-exam-practice-free-for-everyone-and-what-i-learned-4n12)
-- [Smart Test Skipping: Building a Lightweight Playwright Dependency Analyzer](https://dev.to/gustavomeilus/smart-test-skipping-building-a-lightweight-playwright-dependency-analyzer-13bk)
-- [A Senior Developer’s Guide to Vibe Coding and Deep AI Integration in Cursor](https://dev.to/onlineproxy/a-senior-developers-guide-to-vibe-coding-and-deep-ai-integration-in-cursor-5eg)
-- [QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs](https://dev.to/paperium/qerl-beyond-efficiency-quantization-enhanced-reinforcement-learning-for-llms-197n)
+- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
+- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
+- [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
+- [Hacktoberfest Last Pull Request - Writing Test](https://dev.to/denisc96/hacktoberfest-last-pull-request-writing-test-3ljj)
 <!-- BLOG-POST-LIST:END -->
 
 
