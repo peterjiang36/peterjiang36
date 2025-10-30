@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution in Form Validators: Goodbye customError, Hello Plain Objects](https://dev.to/damiansiredev/evolution-in-form-validators-goodbye-customerror-hello-plain-objects-4c35)
-- [Hacktoberfest - Recap](https://dev.to/denisc96/hacktoberfest-recap-4p9p)
-- [The Network in QubesOS – Architecture, Routing, and Real-World Tests](https://dev.to/sebos/the-network-in-qubesos-architecture-routing-and-real-world-tests-3kjd)
-- [Hacktoberfest Last Pull Request - Writing Test](https://dev.to/denisc96/hacktoberfest-last-pull-request-writing-test-3ljj)
+- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
+- [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
+- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
+- [The Context Variable Vault: Advanced Patterns and Framework Integration](https://dev.to/aaron_rose_0787cc8b4775a0/the-context-variable-vault-advanced-patterns-and-framework-integration-5foj)
 <!-- BLOG-POST-LIST:END -->
 
 
