@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Η Σημασία του README σε Ένα Πρότζεκτ .NET](https://dev.to/__b63657/e-semasia-tou-readme-se-ena-protzekt-net-10kb)
-- [Final Sprint: Just 1 Day Left!](https://dev.to/havilahacademy/final-sprint-just-1-day-left-36np)
-- [Supercharge Your APIs: Building Blazing-Fast Backends with Rust](https://dev.to/karthik_n/supercharge-your-apis-building-blazing-fast-backends-with-rust-27ik)
-- [Staged vs. Non Staged Payloads](https://dev.to/shivamchamoli18/staged-vs-non-staged-payloads-1jj8)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-8dd)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1dm3)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2cib)
+- [The Intimate Algorithm](https://dev.to/rawveg/the-intimate-algorithm-4nek)
 <!-- BLOG-POST-LIST:END -->
 
 
