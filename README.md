@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Αρχιτεκτονική Ανάλυση του MySchool System: Από Μονολιθική Προσέγγιση σε Microservices](https://dev.to/__b63657/arkhitektonike-analuse-tou-myschool-system-apo-monolithike-proseggise-se-microservices-33cf)
-- [Leveling with cluster analysis in Python](https://dev.to/hilton_fernandes_eaac26ab/leveling-with-cluster-analysis-in-python-400p)
-- [I Built my own UI Library on Top of shadcn/ui](https://dev.to/akshaywritescode/i-built-my-own-ui-library-on-top-of-shadcnui-2d05)
-- [The data lakehouse evolution](https://dev.to/apachedoris/the-data-lakehouse-evolution-3a7e)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4efe)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1l0h)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4965)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2kn2)
 <!-- BLOG-POST-LIST:END -->
 
 
