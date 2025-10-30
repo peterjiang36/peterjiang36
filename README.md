@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io)
-- [The GIL Revealed: Why Python Threading Isn&#39;t Really Parallel](https://dev.to/aaron_rose_0787cc8b4775a0/the-gil-revealed-why-python-threading-isnt-really-parallel-59f0)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-32c7)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4l13)
+- [How Large Language Models &lpar;LLMs&rpar; actually work](https://dev.to/wdp/how-large-language-models-llms-actually-work-37d5)
+- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3)
+- [The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n)
+- [Automate Resume Parsing with n8n, Thordata Universal API &amp; OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5)
 <!-- BLOG-POST-LIST:END -->
 
 
