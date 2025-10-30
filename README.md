@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-5gd2)
-- [Beyond the Training Data: Why RAG is the AI Superpower You Need](https://dev.to/danial_razi/beyond-the-training-data-why-rag-is-the-ai-superpower-you-need-3474)
-- [🎃 Halloween Edition 🎃](https://dev.to/alfredo_barrera_48a140492/frontend-challenge-halloween-edition-235e)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5hef)
+- [Asciidoc over Markdown](https://dev.to/nfrankel/asciidoc-over-markdown-4eam)
+- [MUI Search - Smart, Flexible Search for Modern React Apps](https://dev.to/boilerplate/mui-search-smart-flexible-search-for-modern-react-apps-36ba)
+- [🔥 .𝗡𝗘𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝘃𝘀 .𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 — 𝗞𝗲𝘆 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://dev.to/supraja_tangella_b7f0738e/--461a)
+- [AI Recipe Generator: Turn Food Photos into Instant Recipes with AI 🍳✨](https://dev.to/nithiin7/ai-recipe-generator-turn-food-photos-into-instant-recipes-with-ai-1aib)
 <!-- BLOG-POST-LIST:END -->
 
 
