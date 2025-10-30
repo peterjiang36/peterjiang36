@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest Journey: From &quot;Maybe Later&quot; to &quot;Merge Successful!&quot;](https://dev.to/sheefa_nigarsyed_61642e7/my-hacktoberfest-journey-from-maybe-later-to-merge-successful-40hd)
-- [How to Connect with the HubSpot API](https://dev.to/apideck/how-to-connect-with-the-hubspot-api-8hk)
-- [How to deploy PocketBase on AWS with Docker](https://dev.to/fabienmartin/how-to-deploy-pocketbase-on-aws-with-docker-1o6g)
-- [HTML Selects Are Actually Styleable Now](https://dev.to/salehmubashar/html-selects-are-actually-styleable-now-49bn)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3eap)
+- [🔐 Advanced IAM for the AWS Solutions Architect – Associate &lpar;SAA-C03&rpar; Exam](https://dev.to/nishath_jp/advanced-iam-for-the-aws-solutions-architect-associate-saa-c03-exam-4m8)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4pho)
+- [Added a /community endpoint as sort of an info hub for every subforem. It&#39;s kind of just a proof of concept at the moment but can be refined. Ideally it&#39;s customizable so we can link off to places like /challenges etc. but keeping it dynamic vs static.](https://dev.to/ben/added-a-community-endpoint-as-sort-of-an-info-hub-for-every-subforem-its-kind-of-just-a-proof-of-3b90)
 <!-- BLOG-POST-LIST:END -->
 
 
