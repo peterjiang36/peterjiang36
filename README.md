@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress 6.9: New Features and What’s Next](https://dev.to/medha_bhatt_21b7dc4cc53e7/wordpress-69-new-features-and-whats-next-2824)
-- [Why Map Lookups Are Slower Than Object Lookups in JavaScript](https://dev.to/mehedibangladeshi/why-map-lookups-are-slower-than-object-lookups-in-javascript-33g8)
-- [A Modern, Immutable, and Zero-Dependency Library for IP Addresses in JavaScript](https://dev.to/shahrad/a-modern-immutable-and-zero-dependency-library-for-ip-addresses-in-javascript-1g1o)
-- [Revolutionizing Code Completion with AI](https://dev.to/mabualzait/revolutionizing-code-completion-with-ai-1en)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can&#39;t Strike Their Irons &amp; Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4hbb)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4he1)
 <!-- BLOG-POST-LIST:END -->
 
 
