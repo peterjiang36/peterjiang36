@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4efe)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1l0h)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4965)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2kn2)
+- [Building Prepzilla: How I Made CEED Exam Practice Free for Everyone &lpar;And What I Learned&rpar;](https://dev.to/randomchikbum/building-prepzilla-how-i-made-ceed-exam-practice-free-for-everyone-and-what-i-learned-4n12)
+- [Smart Test Skipping: Building a Lightweight Playwright Dependency Analyzer](https://dev.to/gustavomeilus/smart-test-skipping-building-a-lightweight-playwright-dependency-analyzer-13bk)
+- [A Senior Developer’s Guide to Vibe Coding and Deep AI Integration in Cursor](https://dev.to/onlineproxy/a-senior-developers-guide-to-vibe-coding-and-deep-ai-integration-in-cursor-5eg)
+- [QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs](https://dev.to/paperium/qerl-beyond-efficiency-quantization-enhanced-reinforcement-learning-for-llms-197n)
 <!-- BLOG-POST-LIST:END -->
 
 
