@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Superhuman Classification: Train on Positives Alone by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlock-superhuman-classification-train-on-positives-alone-by-arvind-sundararajan-1mb9)
-- [Day 8 – CSS Basics Explained: Styling Your First Webpage](https://dev.to/bblackwind/day-8-css-basics-explained-styling-your-first-webpage-2a9f)
-- [Making React Work on Smart TVs: Behind the Scenes of the Sportworld App](https://dev.to/ivan_kuten/making-react-work-on-smart-tvs-behind-the-scenes-of-the-sportworld-app-2ahi)
-- [Quantum Beetle: Making Marketing Smarter with AI](https://dev.to/prerna_gogoi_68aa23d70588/quantum-beetle-making-marketing-smarter-with-ai-3a44)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3aap)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-53p0)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-56p2)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4l1c)
 <!-- BLOG-POST-LIST:END -->
 
 
