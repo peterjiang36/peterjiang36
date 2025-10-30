@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us at Atlassian&#39;s Developer Day: Bellevue](https://dev.to/livsa/join-us-at-atlassians-developer-day-bellevue-51d5)
-- [[Boost]](https://dev.to/tobilobaogundiyan/-3p0h)
-- [Cryptography for developers](https://dev.to/andres_fernandez_05a8738d/cryptography-for-developers-1aj)
-- [Unlocking Developer Revenue: AI Monetization and Dual Earnings for LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-ai-monetization-and-dual-earnings-for-llm-apps-2m20)
+- [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io)
+- [The GIL Revealed: Why Python Threading Isn&#39;t Really Parallel](https://dev.to/aaron_rose_0787cc8b4775a0/the-gil-revealed-why-python-threading-isnt-really-parallel-59f0)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-32c7)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4l13)
 <!-- BLOG-POST-LIST:END -->
 
 
