@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide: How to Quickly Download Online Images to the Gallery in HarmonyOS](https://dev.to/harmonyos/practical-guide-how-to-quickly-download-online-images-to-the-gallery-in-harmonyos-338a)
-- [Generating a Custom Chakra UI v3 Theme from Design Tokens: A Complete Guide](https://dev.to/kiranmantha/generating-a-custom-chakra-ui-v3-theme-from-design-tokens-a-complete-guide-1085)
-- [Tencent&#39;s AI Revolution: How AI Development Is Done Right](https://dev.to/harris001/tencents-ai-revolution-how-ai-development-is-done-right-1mgc)
-- [Less is More: 4 design patterns for building better MCP servers](https://dev.to/klavisai/less-is-more-4-design-patterns-for-building-better-mcp-servers-3gpf)
+- [What was your win this week?!!](https://dev.to/devteam/what-was-your-win-this-week-4ec5)
+- [The AWS Outage of October 20, 2025: What Happened, Who Was Affected, and Lessons Learned](https://dev.to/cloud_man/the-aws-outage-of-october-20-2025-what-happened-who-was-affected-and-lessons-learned-5b35)
+- [Beyond the API: Building a Real-time Depth Chart Tracking System with Web Scraping &amp; AI](https://dev.to/ffteamnames/beyond-the-api-building-a-real-time-depth-chart-tracking-system-with-web-scraping-ai-1lpe)
+- [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://dev.to/paperium/avocado-an-audiovisual-video-captioner-driven-by-temporal-orchestration-19mn)
 <!-- BLOG-POST-LIST:END -->
 
 
