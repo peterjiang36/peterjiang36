@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strands Multi-Agent Systems: Graph](https://dev.to/aws/strands-multi-agent-systems-graph-4h7f)
-- [Frontend System Design: CSS, CSSOM, and DOM Rendering in Browser](https://dev.to/zeeshanali0704/frontend-system-design-css-cssom-and-dom-rendering-in-browser-3fjm)
-- [Hacktoberfest 2025](https://dev.to/lowla/hacktoberfest-2025-9fj)
-- [**Breaking Free from Bias: AI Revolution Heats Up!** 🚀 The](https://dev.to/drcarlosruizviquez/breaking-free-from-bias-ai-revolution-heats-up-the-5a4g)
+- [Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I](https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-50c5)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-19cc)
+- [Scaling is the New “Just Add More RAM” — Why AI Needs a New Algorithm, Not a Bigger Wallet](https://dev.to/hotfixhero/scaling-is-the-new-just-add-more-ram-why-ai-needs-a-new-algorithm-not-a-bigger-wallet-44mg)
 <!-- BLOG-POST-LIST:END -->
 
 
