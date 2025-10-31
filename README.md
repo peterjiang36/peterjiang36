@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Intelligent AI Agents with Modular Reinforcement Learning](https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c)
-- [Data-Driven Development: Leveraging Big Data for Smarter Coding](https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n)
-- [From Beginner to Cyber-Aware: Lessons from My First Cybersecurity Course](https://dev.to/cessamaeeee/from-beginner-to-cyber-aware-lessons-from-my-first-cybersecurity-course-469l)
-- [Terraform Module MCP Server](https://dev.to/zloeber/terraform-module-mcp-server-m1p)
+- [Enabling Compiler Warnings in Autotools](https://dev.to/pauljlucas/enabling-compiler-warnings-in-autotools-5bng)
+- [CSS Art Museum: Where Creativity Meets Code 🎨 || Maintainer Spotlight](https://dev.to/shamli_singhyadav_9f295d/css-art-museum-where-creativity-meets-code-maintainer-spotlight-30bl)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-53o9)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-5fn)
 <!-- BLOG-POST-LIST:END -->
 
 
