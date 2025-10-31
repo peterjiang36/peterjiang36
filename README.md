@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Video Trimmer Tools for Fast Editing](https://dev.to/gerrit_cole/top-10-video-trimmer-tools-for-fast-editing-3c3)
-- [Master Rust Pattern Matching: Build Safer, More Expressive Code with Advanced Techniques](https://dev.to/aaravjoshi/master-rust-pattern-matching-build-safer-more-expressive-code-with-advanced-techniques-5b02)
-- [Top 10 AI Video Makers from YouTube Links](https://dev.to/gerrit_cole/top-10-ai-video-makers-from-youtube-links-70c)
-- [The Context Variable Vault: Advanced Patterns and Framework Integration](https://dev.to/aaron_rose_0787cc8b4775a0/the-context-variable-vault-advanced-patterns-and-framework-integration-5foj)
+- [Stop Doing Business Logic in Webhook Endpoints. I Don&#39;t Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0)
+- [5 Best Go Libraries for Uploading Files to MinIO &lpar;Without Losing Your Mind&rpar;](https://dev.to/lamri_abdellahramdane_15/5-best-go-libraries-for-uploading-files-to-minio-without-losing-your-mind-5616)
+- [Spring Boot Container Kubernetes Prometheus Grafana Alerting Secrets CI/CD](https://dev.to/jumptotech/spring-boot-container-kubernetes-prometheus-grafana-alerting-secrets-cicd-5d05)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3b4p)
 <!-- BLOG-POST-LIST:END -->
 
 
