@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
-- [Modern C# Development: Target-Typed `new`](https://dev.to/lovelacecoding/modern-c-development-target-typed-new-468k)
-- [🎃 10 Scary Lines of Code I Wish I Never Wrote 💀](https://dev.to/sylwia-lask/10-scary-lines-of-code-i-wish-i-never-wrote-4h47)
-- [🧠 Learn Flexbox the Fun Way — Flexbox Zombies](https://dev.to/ml318097/learn-flexbox-the-fun-way-flexbox-zombies-5l3)
+- [Differences between ArrayList and LinkedList in Java](https://dev.to/realnamehidden1_61/differences-between-arraylist-and-linkedlist-in-java-37mn)
+- [Medium Hid My Subscribers: Why You Must Own Your Audience](https://dev.to/meysam81/medium-hid-my-subscribers-why-you-must-own-your-audience-4p1h)
+- [3289. The Two Sneaky Numbers of Digitville](https://dev.to/mdarifulhaque/3289-the-two-sneaky-numbers-of-digitville-1ocb)
+- [Which AI Interview Copilot Boosts Your Job Offers the Most?](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-5e81)
 <!-- BLOG-POST-LIST:END -->
 
 
