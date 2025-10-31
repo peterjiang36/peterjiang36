@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1hmf)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-25l8)
-- [⚛️ React Testing in 2025: Stop Mocking, Start Trusting Your Components](https://dev.to/tahamjp/react-testing-in-2025-stop-mocking-start-trusting-your-components-3h4f)
-- [7 Best Hoppscotch Alternatives in 2025: Complete Developer&#39;s Guide to API Testing Tools](https://dev.to/apilover/7-best-hoppscotch-alternatives-in-2025-complete-developers-guide-to-api-testing-tools-3ji3)
+- [Creating a Maintenance Page using a Cloudflare Worker](https://dev.to/madsstoumann/creating-a-maintenance-page-using-a-cloudflare-worker-8m6)
+- [7 AI Study Workflows Developers Use to Learn Faster &lpar;Prompt Recipes Included&rpar;](https://dev.to/jamespatterson25/7-ai-study-workflows-developers-use-to-learn-faster-prompt-recipes-included-3goj)
+- [Never Forget a Thing: Building AI Agents with Hybrid Memory Using Strands Agents](https://dev.to/aws/never-forget-a-thing-building-ai-agents-with-hybrid-memory-using-strands-agents-2g66)
+- [Mastering Full-Text Search: Why Tools Like OpenSearch, Elasticsearch, and Meilisearch Matter](https://dev.to/bjthecod3r/mastering-full-text-search-why-tools-like-opensearch-elasticsearch-and-meilisearch-matter-31ao)
 <!-- BLOG-POST-LIST:END -->
 
 
