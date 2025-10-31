@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-277e)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-ej2)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-kem)
-- [Ringer Movies: Is &#39;Bugonia&#39; A Best Picture Contender?](https://dev.to/popcorn_movies/ringer-movies-is-bugonia-a-best-picture-contender-4j2)
+- [Check this Xlorin AI 🤖](https://dev.to/we-the-developers/check-this-xlorin-ai-1pck)
+- [Modern C# Development: Target-Typed `new`](https://dev.to/lovelacecoding/modern-c-development-target-typed-new-468k)
+- [🎃 10 Scary Lines of Code I Wish I Never Wrote 💀](https://dev.to/sylwia-lask/10-scary-lines-of-code-i-wish-i-never-wrote-4h47)
+- [🧠 Learn Flexbox the Fun Way — Flexbox Zombies](https://dev.to/ml318097/learn-flexbox-the-fun-way-flexbox-zombies-5l3)
 <!-- BLOG-POST-LIST:END -->
 
 
