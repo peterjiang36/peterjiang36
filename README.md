@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5di3)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-20f2)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-166b)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-n5o)
+- [How to Convert Excel to PDF with Python](https://dev.to/codingco/how-to-convert-excel-to-pdf-with-python-3b33)
+- [Goodbye FormArray. Hello Signal Forms.](https://dev.to/brianmtreese/goodbye-formarray-hello-signal-forms-2haa)
+- [How the Linux Kernel Expands Its List of Display Vendors](https://dev.to/jasonliu112/how-the-linux-kernel-expands-its-list-of-display-vendors-31e1)
+- [Understanding Primary Keys in Relational Databases: A Key to Data Integrity and Fast Lookups](https://dev.to/pdobadb/understanding-primary-keys-in-relational-databases-a-key-to-data-integrity-and-fast-lookups-2cka)
 <!-- BLOG-POST-LIST:END -->
 
 
