@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Registrars, Name Servers, and DNS Records: How They All Work Together to Serve Your Page](https://dev.to/rijultp/registrars-name-servers-and-dns-records-how-they-all-work-together-to-serve-your-page-5hdo)
-- [From YAML to Glory: Mastering Infrastructure as Code 🎯](https://dev.to/tavernetech/from-yaml-to-glory-mastering-infrastructure-as-code-3eob)
-- [**Caution: Synthetic Data Oversight - Overfitting to Noise**](https://dev.to/drcarlosruizviquez/caution-synthetic-data-oversight-overfitting-to-noise-2m0b)
-- [First contribution in hacktoberfest](https://dev.to/slyang08/first-contribution-in-hacktoberfest-5eh7)
+- [On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in LargeVision-Language Models](https://dev.to/paperium/on-epistemic-uncertainty-of-visual-tokens-for-object-hallucinations-in-largevision-language-models-67k)
+- [Are coders still getting hired now that AI can write code?](https://dev.to/cavitnation/are-coders-still-getting-hired-now-that-ai-can-write-code-3oa6)
+- [A Beginner&#39;s Guide to Stablecoins and Why They Matter](https://dev.to/jozzie33/a-beginners-guide-to-stablecoins-and-why-they-matter-1hek)
+- [1% 0 — Sobre la improbabilidad estadística de conservar la conciencia en un sistema que la penaliza](https://dev.to/bernarduriza/1-0-sobre-la-improbabilidad-estadistica-de-conservar-la-conciencia-en-un-sistema-que-la-2jcn)
 <!-- BLOG-POST-LIST:END -->
 
 
