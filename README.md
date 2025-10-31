@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 20 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-20-of-my-ai-data-mastery-journey-from-python-to-generative-ai-551n)
-- [How to Use TipTap Editor with Vue 3](https://dev.to/jsandaruwan/how-to-use-tiptap-editor-with-vue-3-4n3l)
-- [Building Smarter Apps: The Rise of AI Agent Frameworks in 2025](https://dev.to/ganesh_tidake/building-smarter-apps-the-rise-of-ai-agent-frameworks-in-2025-293a)
-- [BGP - The Guy Who Knows Every Shortcut on the Internet](https://dev.to/arjunshajitech/bgp-the-guy-who-knows-every-shortcut-on-the-internet-26c6)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-5di3)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-20f2)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-166b)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-n5o)
 <!-- BLOG-POST-LIST:END -->
 
 
