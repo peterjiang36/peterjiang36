@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between ArrayList and LinkedList in Java](https://dev.to/realnamehidden1_61/differences-between-arraylist-and-linkedlist-in-java-37mn)
-- [Medium Hid My Subscribers: Why You Must Own Your Audience](https://dev.to/meysam81/medium-hid-my-subscribers-why-you-must-own-your-audience-4p1h)
-- [3289. The Two Sneaky Numbers of Digitville](https://dev.to/mdarifulhaque/3289-the-two-sneaky-numbers-of-digitville-1ocb)
-- [Which AI Interview Copilot Boosts Your Job Offers the Most?](https://dev.to/hadil/which-ai-interview-copilot-boosts-your-job-offers-the-most-5e81)
+- [Aurora DSQL, una alternativa a PostgreSQL](https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25)
+- [Contribution Chronicles: My Epic Hacktoberfest 2025 Adventure 🚀](https://dev.to/aniruddhaadak/contribution-chronicles-my-epic-hacktoberfest-2025-adventure-4i5d)
+- [Rouille – Rust Programming, in French](https://dev.to/technoblogger14o3/rouille-rust-programming-in-french-5hmk)
+- [What is switch?](https://dev.to/aj_arul/what-is-switch-oec)
 <!-- BLOG-POST-LIST:END -->
 
 
