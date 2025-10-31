@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1n08)
-- [Media types &lpar;MIME types&rpar; in HTTP explained](https://dev.to/iarchitsharma/media-types-mime-types-in-http-explained-1i26)
-- [My hactoberfest this year](https://dev.to/mannu/my-hactoberfest-this-year-3fii)
-- [Realm: The Dev Environment That Eliminates Terminal Chaos](https://dev.to/wess/realm-the-dev-environment-that-eliminates-terminal-chaos-2c8b)
+- [Strands Multi-Agent Systems: Graph](https://dev.to/aws/strands-multi-agent-systems-graph-4h7f)
+- [Frontend System Design: CSS, CSSOM, and DOM Rendering in Browser](https://dev.to/zeeshanali0704/frontend-system-design-css-cssom-and-dom-rendering-in-browser-3fjm)
+- [Hacktoberfest 2025](https://dev.to/lowla/hacktoberfest-2025-9fj)
+- [**Breaking Free from Bias: AI Revolution Heats Up!** 🚀 The](https://dev.to/drcarlosruizviquez/breaking-free-from-bias-ai-revolution-heats-up-the-5a4g)
 <!-- BLOG-POST-LIST:END -->
 
 
