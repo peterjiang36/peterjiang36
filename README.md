@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora DSQL, una alternativa a PostgreSQL](https://dev.to/kcatucuamba/aurora-dsql-una-alternativa-a-postgresql-4i25)
-- [Contribution Chronicles: My Epic Hacktoberfest 2025 Adventure 🚀](https://dev.to/aniruddhaadak/contribution-chronicles-my-epic-hacktoberfest-2025-adventure-4i5d)
-- [Rouille – Rust Programming, in French](https://dev.to/technoblogger14o3/rouille-rust-programming-in-french-5hmk)
-- [What is switch?](https://dev.to/aj_arul/what-is-switch-oec)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1n08)
+- [Media types &lpar;MIME types&rpar; in HTTP explained](https://dev.to/iarchitsharma/media-types-mime-types-in-http-explained-1i26)
+- [My hactoberfest this year](https://dev.to/mannu/my-hactoberfest-this-year-3fii)
+- [Realm: The Dev Environment That Eliminates Terminal Chaos](https://dev.to/wess/realm-the-dev-environment-that-eliminates-terminal-chaos-2c8b)
 <!-- BLOG-POST-LIST:END -->
 
 
