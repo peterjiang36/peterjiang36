@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I](https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-50c5)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-19cc)
-- [Scaling is the New “Just Add More RAM” — Why AI Needs a New Algorithm, Not a Bigger Wallet](https://dev.to/hotfixhero/scaling-is-the-new-just-add-more-ram-why-ai-needs-a-new-algorithm-not-a-bigger-wallet-44mg)
+- [ROS2 Publisher Node.](https://dev.to/naguballa77/ros2-publisher-node-4758)
+- [How to Stop Time from Expanding: The Real Lesson Behind Parkinson’s Law &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-to-stop-time-from-expanding-the-real-lesson-behind-parkinsons-law-bite-size-article-51l4)
+- [Battle Scars from the Cloud Front](https://dev.to/cheetah100/battle-scars-from-the-cloud-front-34g8)
+- [Luxury Birthday Presents for Boyfriend UK: Elevate His Day with Style &amp; Sentiment](https://dev.to/smithwilliam/luxury-birthday-presents-for-boyfriend-uk-elevate-his-day-with-style-sentiment-179i)
 <!-- BLOG-POST-LIST:END -->
 
 
