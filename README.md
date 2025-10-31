@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in LargeVision-Language Models](https://dev.to/paperium/on-epistemic-uncertainty-of-visual-tokens-for-object-hallucinations-in-largevision-language-models-67k)
-- [Are coders still getting hired now that AI can write code?](https://dev.to/cavitnation/are-coders-still-getting-hired-now-that-ai-can-write-code-3oa6)
-- [A Beginner&#39;s Guide to Stablecoins and Why They Matter](https://dev.to/jozzie33/a-beginners-guide-to-stablecoins-and-why-they-matter-1hek)
-- [1% 0 — Sobre la improbabilidad estadística de conservar la conciencia en un sistema que la penaliza](https://dev.to/bernarduriza/1-0-sobre-la-improbabilidad-estadistica-de-conservar-la-conciencia-en-un-sistema-que-la-2jcn)
+- [The hottest new programming language is English](https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8)
+- [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
+- [Old course getting some changes
+
+https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2j95)
 <!-- BLOG-POST-LIST:END -->
 
 
