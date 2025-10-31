@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Compiler Warnings in Autotools](https://dev.to/pauljlucas/enabling-compiler-warnings-in-autotools-5bng)
-- [CSS Art Museum: Where Creativity Meets Code 🎨 || Maintainer Spotlight](https://dev.to/shamli_singhyadav_9f295d/css-art-museum-where-creativity-meets-code-maintainer-spotlight-30bl)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-53o9)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-5fn)
+- [Practical Guide: How to Quickly Download Online Images to the Gallery in HarmonyOS](https://dev.to/harmonyos/practical-guide-how-to-quickly-download-online-images-to-the-gallery-in-harmonyos-338a)
+- [Generating a Custom Chakra UI v3 Theme from Design Tokens: A Complete Guide](https://dev.to/kiranmantha/generating-a-custom-chakra-ui-v3-theme-from-design-tokens-a-complete-guide-1085)
+- [Tencent&#39;s AI Revolution: How AI Development Is Done Right](https://dev.to/harris001/tencents-ai-revolution-how-ai-development-is-done-right-1mgc)
+- [Less is More: 4 design patterns for building better MCP servers](https://dev.to/klavisai/less-is-more-4-design-patterns-for-building-better-mcp-servers-3gpf)
 <!-- BLOG-POST-LIST:END -->
 
 
