@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!!](https://dev.to/devteam/what-was-your-win-this-week-4ec5)
-- [The AWS Outage of October 20, 2025: What Happened, Who Was Affected, and Lessons Learned](https://dev.to/cloud_man/the-aws-outage-of-october-20-2025-what-happened-who-was-affected-and-lessons-learned-5b35)
-- [Beyond the API: Building a Real-time Depth Chart Tracking System with Web Scraping &amp; AI](https://dev.to/ffteamnames/beyond-the-api-building-a-real-time-depth-chart-tracking-system-with-web-scraping-ai-1lpe)
-- [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://dev.to/paperium/avocado-an-audiovisual-video-captioner-driven-by-temporal-orchestration-19mn)
+- [Day 20 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-20-of-my-ai-data-mastery-journey-from-python-to-generative-ai-551n)
+- [How to Use TipTap Editor with Vue 3](https://dev.to/jsandaruwan/how-to-use-tiptap-editor-with-vue-3-4n3l)
+- [Building Smarter Apps: The Rise of AI Agent Frameworks in 2025](https://dev.to/ganesh_tidake/building-smarter-apps-the-rise-of-ai-agent-frameworks-in-2025-293a)
+- [BGP - The Guy Who Knows Every Shortcut on the Internet](https://dev.to/arjunshajitech/bgp-the-guy-who-knows-every-shortcut-on-the-internet-26c6)
 <!-- BLOG-POST-LIST:END -->
 
 
