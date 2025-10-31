@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Cow&lt;T&gt;: Copy on Write](https://dev.to/masteringbackend/understanding-the-cow-copy-on-write-3km7)
-- [Hacktoberfest PR: Cleaning Up Code](https://dev.to/aubreyddd/hacktoberfest-pr-cleaning-up-code-44d3)
-- [Exhaustive Guide to Generative and Predictive AI in AppSec](https://dev.to/lynxfelony1/exhaustive-guide-to-generative-and-predictive-ai-in-appsec-f4)
-- [How to Add Dark Mode to Your Website Using Tailwind and JavaScript](https://dev.to/aqib_lala_58b9b4e0c90ca6c/how-to-add-dark-mode-to-your-website-using-tailwind-and-javascript-275a)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1hmf)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-25l8)
+- [⚛️ React Testing in 2025: Stop Mocking, Start Trusting Your Components](https://dev.to/tahamjp/react-testing-in-2025-stop-mocking-start-trusting-your-components-3h4f)
+- [7 Best Hoppscotch Alternatives in 2025: Complete Developer&#39;s Guide to API Testing Tools](https://dev.to/apilover/7-best-hoppscotch-alternatives-in-2025-complete-developers-guide-to-api-testing-tools-3ji3)
 <!-- BLOG-POST-LIST:END -->
 
 
