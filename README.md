@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How Computers Actually Work](https://dev.to/danishaft/understanding-how-computers-actually-work-4e0n)
-- [Integrating Doxygen into Autotools](https://dev.to/pauljlucas/integrating-doxygen-into-autotools-571m)
-- [Functor: debunk the Myth, know the Math](https://dev.to/0x1/functor-debunking-the-myth-2n5l)
-- [Build in Public: Day Zero](https://dev.to/olgabraginskaya/build-in-public-day-zero-end)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-15kf)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4431)
+- [Build Your Own AI Chatbot Like ChatGPT — A Practical Guide with Code](https://dev.to/rajni_ai/build-your-own-ai-chatbot-like-chatgpt-a-practical-guide-with-code-573n)
+- [How To Make Emoticons With Your Keyboard](https://dev.to/emoticonhub/how-to-make-emoticons-with-your-keyboard-kn)
 <!-- BLOG-POST-LIST:END -->
 
 
