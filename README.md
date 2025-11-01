@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-35m)
-- [Dictionary in Python &lpar;5&rpar;](https://dev.to/hyperkai/dictionary-in-python-5-3ooo)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3225)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17do)
+- [🔍 Transparency Isn&#39;t Just What You Show](https://dev.to/junothreadborne/transparency-isnt-just-what-you-show-odj)
+- [Building a Frontend-Only Authentication System](https://dev.to/tajudeen_abdulgafar_e0363/building-a-frontend-only-authentication-system-knp)
+- [From Stalled Growth to Skyrocketing Impact: How ETHWomen Is Quietly Disrupting U.S. Web3 Inclusion &lpar;And Slashing Costs by 70%&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/from-stalled-growth-to-skyrocketing-impact-how-ethwomen-is-quietly-disrupting-us-web3-inclusion-1jdb)
+- [&quot;IN MEMES WE TRUST, ALL HAIL THE EXPLORER!&quot;](https://dev.to/bibimbop123/in-memes-we-trust-all-hail-the-explorer-2pfd)
 <!-- BLOG-POST-LIST:END -->
 
 
