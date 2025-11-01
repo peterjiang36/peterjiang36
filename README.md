@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn SQL the Smart Way: My Complete Dev Setup in Docker &amp; VS Code - Part 2](https://dev.to/arasruislam/learn-sql-the-smart-way-my-complete-dev-setup-in-docker-vs-code-part-2-48gg)
-- [Day 21: Turn-Based FizzBuzz Game – Player vs Machine in Python](https://dev.to/shahrouzlogs/day-21-turn-based-fizzbuzz-game-player-vs-machine-in-python-314c)
-- [FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging withDiffusion Decoding](https://dev.to/paperium/fasthmr-accelerating-human-mesh-recovery-via-token-and-layer-merging-withdiffusion-decoding-1hgb)
-- [Azure Data Factory — The Conveyor Belt of Data in the Cloud](https://dev.to/dotnetfullstackdev/azure-data-factory-the-conveyor-belt-of-data-in-the-cloud-2d9d)
+- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923)
+- [How I Ended Up Choosing Cloudflare Workers for My Projects](https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fdo)
 <!-- BLOG-POST-LIST:END -->
 
 
