@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The hottest new programming language is English](https://dev.to/marmariadata/the-hottest-new-programming-language-is-english-20n8)
-- [When the Market Takes Weekends Off - Devlog Stocksimpy](https://dev.to/suleyman_sade/when-the-market-takes-weekends-off-devlog-stocksimpy-2c2b)
-- [Old course getting some changes
-
-https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2j95)
+- [Keeping Your Claude Code Subagents Aligned](https://dev.to/andr_bremer_81c8990da062/keeping-your-claude-code-subagents-aligned-1dlh)
+- [Unleash the Power of LLMs in Rust with Helios Engine](https://dev.to/ammar-alnagar/unleash-the-power-of-llms-in-rust-with-helios-engine-57id)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-lld)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-209)
 <!-- BLOG-POST-LIST:END -->
 
 
