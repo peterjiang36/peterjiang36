@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Hacktoberfest Writing Challeng](https://dev.to/paulofreitas_py/2025-hacktoberfest-writing-challeng-146o)
-- [Open Source Is Our Operating System](https://dev.to/my_god_4ca6d407c2a1fb6cca/open-source-is-our-operating-system-djn)
-- [Myths and Facts about Thread Pool in Node.js](https://dev.to/boika_boy/myths-and-facts-about-thread-pool-in-nodejs-3dl5)
-- [Evaluating the success of generative AI often involves a cru](https://dev.to/drcarlosruizviquez/evaluating-the-success-of-generative-ai-often-involves-a-cru-5hlm)
+- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-26p4)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-n07)
 <!-- BLOG-POST-LIST:END -->
 
 
