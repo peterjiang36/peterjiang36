@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Transparency Isn&#39;t Just What You Show](https://dev.to/junothreadborne/transparency-isnt-just-what-you-show-odj)
-- [Building a Frontend-Only Authentication System](https://dev.to/tajudeen_abdulgafar_e0363/building-a-frontend-only-authentication-system-knp)
-- [From Stalled Growth to Skyrocketing Impact: How ETHWomen Is Quietly Disrupting U.S. Web3 Inclusion &lpar;And Slashing Costs by 70%&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/from-stalled-growth-to-skyrocketing-impact-how-ethwomen-is-quietly-disrupting-us-web3-inclusion-1jdb)
-- [&quot;IN MEMES WE TRUST, ALL HAIL THE EXPLORER!&quot;](https://dev.to/bibimbop123/in-memes-we-trust-all-hail-the-explorer-2pfd)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-15)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5bm0)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-545e)
+- [Hacktoberfest participation: Event Server](https://dev.to/cynthia_f/hacktoberfest-participation-event-server-3932)
 <!-- BLOG-POST-LIST:END -->
 
 
