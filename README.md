@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using Vercel &lpar;And Built My Own Setup Instead&rpar;](https://dev.to/lotfijb/why-i-stopped-using-vercel-and-built-my-own-setup-instead-4b0g)
-- [My First Open Source Journey](https://dev.to/harshaabhi/my-first-open-source-journey-841)
-- [प्रारम्भिक वैदिक काल की राजनीतिक एवं आर्थिक परिस्थितियों का विश्लेषण](https://dev.to/04anilr/praarmbhik-vaidik-kaal-kii-raajniitik-evn-aarthik-pristhitiyon-kaa-vishlessnn-3fja)
-- [भारत की नवपाषाण संस्कृतियों के क्षेत्रीय वितरण तथा विशिष्ट लक्षणों का परीक्षण](https://dev.to/04anilr/bhaart-kii-nvpaassaann-snskrtiyon-ke-kssetriiy-vitrnn-tthaa-vishisstt-lkssnnon-kaa-priikssnn-5bkl)
+- [Beyond the Buzz: 5 B2B Tech Shifts Actually Worth Your Commits](https://dev.to/michaelaiglobal/beyond-the-buzz-5-b2b-tech-shifts-actually-worth-your-commits-47bc)
+- [Why Tailwind CSS Might Be Hurting Your Large-Scale Projects](https://dev.to/gouranga-das-khulna/why-tailwind-css-might-be-hurting-your-large-scale-projects-3k73)
+- [The Intimacy Engine](https://dev.to/rawveg/the-intimacy-engine-4ff7)
+- [Functional Interfaces You Must Know - The Backbone of Java Streams](https://dev.to/priyankbhardwaj1199/functional-interfaces-you-must-know-the-backbone-of-java-streams-2c4o)
 <!-- BLOG-POST-LIST:END -->
 
 
