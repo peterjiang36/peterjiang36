@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Buzz: 5 B2B Tech Shifts Actually Worth Your Commits](https://dev.to/michaelaiglobal/beyond-the-buzz-5-b2b-tech-shifts-actually-worth-your-commits-47bc)
-- [Why Tailwind CSS Might Be Hurting Your Large-Scale Projects](https://dev.to/gouranga-das-khulna/why-tailwind-css-might-be-hurting-your-large-scale-projects-3k73)
-- [The Intimacy Engine](https://dev.to/rawveg/the-intimacy-engine-4ff7)
-- [Functional Interfaces You Must Know - The Backbone of Java Streams](https://dev.to/priyankbhardwaj1199/functional-interfaces-you-must-know-the-backbone-of-java-streams-2c4o)
+- [Understanding How Computers Actually Work](https://dev.to/danishaft/understanding-how-computers-actually-work-4e0n)
+- [Integrating Doxygen into Autotools](https://dev.to/pauljlucas/integrating-doxygen-into-autotools-571m)
+- [Functor: debunk the Myth, know the Math](https://dev.to/0x1/functor-debunking-the-myth-2n5l)
+- [Build in Public: Day Zero](https://dev.to/olgabraginskaya/build-in-public-day-zero-end)
 <!-- BLOG-POST-LIST:END -->
 
 
