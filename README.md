@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Excalidraw - Browser based app for hand drawn like diagrams](https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m)
-- [A Laravel website not proper render on desktop but fine in mobile](https://dev.to/magic_ofit_5656bd6b1eef2/a-laravel-website-not-proper-render-on-desktop-but-fine-in-mobile-2113)
-- [Final Warning - Do not take the mark of the Beast](https://dev.to/renato_bacelardasilveir/final-warning-do-not-take-the-mark-of-the-beast-2pmi)
-- [Startup Skills for Non-Founders: Why Every Business Student Needs Simulation Time](https://dev.to/m_sikandar/startup-skills-for-non-founders-why-every-business-student-needs-simulation-time-2lod)
+- [The infrastructure stack is getting faster. Terraform is not.](https://dev.to/josh_pollara_2f8bb369b3f3/the-infrastructure-stack-is-getting-faster-terraform-is-not-4dga)
+- [iPlusCode - a small Chrome extension to make Codeforces a bit nicer](https://dev.to/vivekvohra/ipluscode-a-small-chrome-extension-to-make-codeforces-a-bit-nicer-4cme)
+- [JavaScript Did not Crash. That Does not Mean It is Fine.](https://dev.to/intelgreatnez/-javascript-didnt-crash-that-doesnt-mean-its-fine-5cnd)
+- [The Digital Inheritance Crisis: A Technical Guide to Passing Crypto Assets &lpar;2026&rpar;](https://dev.to/glorioustechs/the-digital-inheritance-crisis-a-technical-guide-to-passing-crypto-assets-2026-7di)
 <!-- BLOG-POST-LIST:END -->
 
 
