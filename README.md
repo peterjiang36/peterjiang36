@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-15)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-5bm0)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-545e)
-- [Hacktoberfest participation: Event Server](https://dev.to/cynthia_f/hacktoberfest-participation-event-server-3932)
+- [Learn SQL the Smart Way: My Complete Dev Setup in Docker &amp; VS Code - Part 2](https://dev.to/arasruislam/learn-sql-the-smart-way-my-complete-dev-setup-in-docker-vs-code-part-2-48gg)
+- [Day 21: Turn-Based FizzBuzz Game – Player vs Machine in Python](https://dev.to/shahrouzlogs/day-21-turn-based-fizzbuzz-game-player-vs-machine-in-python-314c)
+- [FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging withDiffusion Decoding](https://dev.to/paperium/fasthmr-accelerating-human-mesh-recovery-via-token-and-layer-merging-withdiffusion-decoding-1hgb)
+- [Azure Data Factory — The Conveyor Belt of Data in the Cloud](https://dev.to/dotnetfullstackdev/azure-data-factory-the-conveyor-belt-of-data-in-the-cloud-2d9d)
 <!-- BLOG-POST-LIST:END -->
 
 
