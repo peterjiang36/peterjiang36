@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-26p4)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-n07)
+- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
+- [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
+- [Graph Diffusion Transformers are In-Context Molecular Designers](https://dev.to/paperium/graph-diffusion-transformers-are-in-context-molecular-designers-3h0g)
+- [Infrastructure as Code: Terraform Magic Unleashed ⚡](https://dev.to/tavernetech/infrastructure-as-code-terraform-magic-unleashed-887)
 <!-- BLOG-POST-LIST:END -->
 
 
