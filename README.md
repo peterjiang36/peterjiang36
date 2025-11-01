@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post: Demystifying ZIO&#39;s Dependency Injection: A Practical Guide](https://dev.to/depa_reddy_5e0e3025aa6eed/blog-post-demystifying-zios-dependency-injection-a-practical-guide-5c1g)
-- [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
-- [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
-- [Why I Built LogTaskr: The Search for Simpler Productivity](https://dev.to/vjygour/why-i-built-logtaskr-the-search-for-simpler-productivity-lf)
+- [AI and Data Virtualization: A Symbiotic Relationship For Smart Data Management](https://dev.to/naveen_kolli_a8501e4633c5/ai-and-data-virtualization-a-symbiotic-relationship-for-smart-data-management-2c13)
+- [Why AI Needs a Face: Building Dew, My Duolingo-Inspired AI Character](https://dev.to/uianimation/why-ai-needs-a-face-building-dew-my-duolingo-inspired-ai-character-43go)
+- [What&#39;s Hot in Hiring: Using AI to Predict Your Next Interview Questions](https://dev.to/mectora-official/whats-hot-in-hiring-using-ai-to-predict-your-next-interview-questions-4904)
+- [Building modern Flutter UIs with Hux: A comprehensive guide to Hux widgets](https://dev.to/zoegilbert/building-modern-flutter-uis-with-hux-a-comprehensive-guide-to-hux-widgets-bbg)
 <!-- BLOG-POST-LIST:END -->
 
 
