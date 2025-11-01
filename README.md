@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-15kf)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4431)
-- [Build Your Own AI Chatbot Like ChatGPT — A Practical Guide with Code](https://dev.to/rajni_ai/build-your-own-ai-chatbot-like-chatgpt-a-practical-guide-with-code-573n)
-- [How To Make Emoticons With Your Keyboard](https://dev.to/emoticonhub/how-to-make-emoticons-with-your-keyboard-kn)
+- [Blog Post: Demystifying ZIO&#39;s Dependency Injection: A Practical Guide](https://dev.to/depa_reddy_5e0e3025aa6eed/blog-post-demystifying-zios-dependency-injection-a-practical-guide-5c1g)
+- [⚡Auto-Capture in XSLT Debugger](https://dev.to/imdj/auto-capture-in-xslt-debugger-5gb7)
+- [Saga Pattern: Consistência de Dados em Microsserviços de Verdade](https://dev.to/filipi_firmino_dev/saga-pattern-consistencia-de-dados-em-microsservicos-de-verdade-4h34)
+- [Why I Built LogTaskr: The Search for Simpler Productivity](https://dev.to/vjygour/why-i-built-logtaskr-the-search-for-simpler-productivity-lf)
 <!-- BLOG-POST-LIST:END -->
 
 
