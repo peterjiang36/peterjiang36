@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-34pf)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4ok9)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1kmp)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-18n1)
+- [🤖 The Secret Lives of AI Agents: What Do They ‘Think’ When You’re Not Looking?](https://dev.to/pracode_2503/the-secret-lives-of-ai-agents-what-do-they-think-when-youre-not-looking-523e)
+- [Why You Should Care About Pre-Commit Hooks &lpar;and How Husky Makes It Easier&rpar;](https://dev.to/osalumense/why-you-should-care-about-pre-commit-hooks-and-how-husky-makes-it-easier-4im4)
+- [Securing Private AWS Environments with a Bastion Host — The DevOps Gateway Explained](https://dev.to/srinivasamcjf/securing-private-aws-environments-with-a-bastion-host-the-devops-gateway-explained-13i1)
+- [Why I Fell in Love with Python at 12, and How That Passion Defined the Architecture of My AI Startup](https://dev.to/kesaru_hasun/why-i-fell-in-love-with-python-at-12-and-how-that-passion-defined-the-architecture-of-my-ai-startup-4elh)
 <!-- BLOG-POST-LIST:END -->
 
 
