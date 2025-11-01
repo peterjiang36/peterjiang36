@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Black Box Principle: Decoupling API Clients with OpenAPI and TypeScript](https://dev.to/franciscolunadev82/the-black-box-principle-decoupling-api-clients-with-openapi-and-typescript-m91)
-- [MX, SPF, DKIM, and DMARC: The DNS Stack Behind Every Email](https://dev.to/rijultp/mx-spf-dkim-and-dmarc-the-dns-stack-behind-every-email-4351)
-- [Graph Diffusion Transformers are In-Context Molecular Designers](https://dev.to/paperium/graph-diffusion-transformers-are-in-context-molecular-designers-3h0g)
-- [Infrastructure as Code: Terraform Magic Unleashed ⚡](https://dev.to/tavernetech/infrastructure-as-code-terraform-magic-unleashed-887)
+- [Excalidraw - Browser based app for hand drawn like diagrams](https://dev.to/akaak/excalidraw-browser-based-app-for-hand-drawn-like-diagrams-248m)
+- [A Laravel website not proper render on desktop but fine in mobile](https://dev.to/magic_ofit_5656bd6b1eef2/a-laravel-website-not-proper-render-on-desktop-but-fine-in-mobile-2113)
+- [Final Warning - Do not take the mark of the Beast](https://dev.to/renato_bacelardasilveir/final-warning-do-not-take-the-mark-of-the-beast-2pmi)
+- [Startup Skills for Non-Founders: Why Every Business Student Needs Simulation Time](https://dev.to/m_sikandar/startup-skills-for-non-founders-why-every-business-student-needs-simulation-time-2lod)
 <!-- BLOG-POST-LIST:END -->
 
 
