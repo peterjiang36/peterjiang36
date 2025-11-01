@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Your Claude Code Subagents Aligned](https://dev.to/andr_bremer_81c8990da062/keeping-your-claude-code-subagents-aligned-1dlh)
-- [Unleash the Power of LLMs in Rust with Helios Engine](https://dev.to/ammar-alnagar/unleash-the-power-of-llms-in-rust-with-helios-engine-57id)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-lld)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-209)
+- [Unlocking AI Speed: The Hidden Symmetries in Reinforcement Learning](https://dev.to/arvind_sundararajan/unlocking-ai-speed-the-hidden-symmetries-in-reinforcement-learning-18o2)
+- [Daily Artificial Intelligence Digest - Nov 01, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-01-2025-1a08)
+- [&quot;Unlocking the Musical Secrets of Ancient Civilizations: The](https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2)
+- [第 18 课：Web UI 与 API 使用](https://dev.to/henry_lin_3ac6363747f45b4/di-18-ke-web-ui-yu-api-shi-yong-35do)
 <!-- BLOG-POST-LIST:END -->
 
 
