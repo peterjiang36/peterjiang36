@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI Speed: The Hidden Symmetries in Reinforcement Learning](https://dev.to/arvind_sundararajan/unlocking-ai-speed-the-hidden-symmetries-in-reinforcement-learning-18o2)
-- [Daily Artificial Intelligence Digest - Nov 01, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-01-2025-1a08)
-- [&quot;Unlocking the Musical Secrets of Ancient Civilizations: The](https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2)
-- [第 18 课：Web UI 与 API 使用](https://dev.to/henry_lin_3ac6363747f45b4/di-18-ke-web-ui-yu-api-shi-yong-35do)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-35m)
+- [Dictionary in Python &lpar;5&rpar;](https://dev.to/hyperkai/dictionary-in-python-5-3ooo)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3225)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-17do)
 <!-- BLOG-POST-LIST:END -->
 
 
