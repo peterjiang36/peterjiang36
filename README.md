@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/safal_bhandari/hello-2dne)
-- [Project 2](https://dev.to/johnphan2408/project-2-7c9)
-- [Why Are Data Quality and Governance the Real Foundations for Agentic AI Success?](https://dev.to/jay_all_day/why-are-data-quality-and-governance-the-real-foundations-for-agentic-ai-success-7kj)
-- [Understanding IaaS, PaaS, and SaaS: The Three Pillars of Cloud Computing](https://dev.to/raj_singhal/understanding-iaas-paas-and-saas-the-three-pillars-of-cloud-computing-5in)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... &lpar;Ep. 2 – Carlisle GC&rpar;](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a)
+- [I&#39;m Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-51fd)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2928)
 <!-- BLOG-POST-LIST:END -->
 
 
