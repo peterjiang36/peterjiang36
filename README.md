@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart_Store API Guide: Exporting and Importing with Confidence](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-api-guide-exporting-and-importing-with-confidence-21d5)
-- [Climbing the Ranks: My CSSBattle #37 Journey 🏁](https://dev.to/jitheshpoojari/climbing-the-ranks-my-cssbattle-37-journey-3p90)
-- [Glyph Catalog Launches on Product Hunt 🚀](https://dev.to/jitheshpoojari/glyph-catalog-launches-on-product-hunt-4fj2)
-- [A Quick Guide to Uniface&#39;s `lineartime` Data Type ⏱️](https://dev.to/petercode/a-quick-guide-to-unifaces-lineartime-data-type-4b3p)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-5c58)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3bmn)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-4i8f)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-21nf)
 <!-- BLOG-POST-LIST:END -->
 
 
