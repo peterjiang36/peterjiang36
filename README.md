@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2702)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-17ao)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3djd)
-- [Principles of Privacy by Design: Embedding Ethics and Trust into Every System](https://dev.to/jayita_gulati_654f0451382/principles-of-privacy-by-design-embedding-ethics-and-trust-into-every-system-3d9)
+- [[Boost]](https://dev.to/anamaria/-3dom)
+- [Criar Builds de App RN](https://dev.to/henriquepablo/criar-builds-de-app-rn-27bg)
+- [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully OpenMLLMs](https://dev.to/paperium/bee-a-high-quality-corpus-and-full-stack-suite-to-unlock-advanced-fully-openmllms-478o)
+- [The Last Four PRs for 2025](https://dev.to/gracieamser/the-last-four-prs-for-2025-389j)
 <!-- BLOG-POST-LIST:END -->
 
 
