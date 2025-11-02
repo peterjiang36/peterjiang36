@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reportes de operaciones inusuales y relevantes&quot; son indicado](https://dev.to/drcarlosruizviquez/reportes-de-operaciones-inusuales-y-relevantes-son-indicado-3mm8)
-- [Building Resilient Go Services: Context, Graceful Shutdown, and Retry/Timeout Patterns](https://dev.to/serifcolakel/building-resilient-go-services-context-graceful-shutdown-and-retrytimeout-patterns-21g3)
-- [A Pull Request to Purpose](https://dev.to/suhanisanskriti28oss/a-pull-request-to-purpose-1ofg)
-- [How I Organized My CLAUDE.md in a Monorepo with Too Many Contexts](https://dev.to/anvodev/how-i-organized-my-claudemd-in-a-monorepo-with-too-many-contexts-37k7)
+- [Symlinks](https://dev.to/walodja1987/symlinks-2gjh)
+- [📰 Major Tech News: November 2nd, 2025: Apple Vision Pro Delay, Meta&#39;s Llama 4 Debate, and EU Probes Amazon&#39;s AI Hiring Tools](https://dev.to/om_shree_0709/major-tech-news-november-2nd-2025-apple-vision-pro-delay-metas-llama-4-debate-and-eu-probes-3k6j)
+- [day 70 of 100k-before-uni: lessons, launches + looking ahead](https://dev.to/vulcanwm/day-70-of-100k-before-uni-lessons-launches-looking-ahead-ja2)
+- [The Hidden Cost of Microservices: When Complexity Kills Velocity](https://dev.to/gabrielle_eduarda_776996b/the-hidden-cost-of-microservices-when-complexity-kills-velocity-3mm3)
 <!-- BLOG-POST-LIST:END -->
 
 
