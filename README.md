@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Basics – Week 1: Deploying Your First Azure VM](https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86)
-- [The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer](https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k)
-- [Browser scrollbar color in the Dark mode.](https://dev.to/whyang9701/browser-scrollbar-color-in-the-dark-mode-29db)
-- [Daily Artificial Intelligence Digest - Nov 02, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-02-2025-2o9m)
+- [The Shift Toward Reactive Programming in Modern Web Development](https://dev.to/softwaredeveloper01/the-shift-toward-reactive-programming-in-modern-web-development-10dd)
+- [GMX V1 Exploit Analysis: How a $42M Classic Reentrancy Attack Unfolded](https://dev.to/abdelrahman_elsaheir_11d8/gmx-v1-exploit-analysis-how-a-42m-classic-reentrancy-attack-unfolded-9o1)
+- [How to Create and Publish a Flutter Package on pub.dev](https://dev.to/mouayed_amr_91537efe31bb8/how-to-create-and-publish-a-flutter-package-on-pubdev-1dmh)
+- [Notas Conceptuales: ¿Qué Son los Genéricos?](https://dev.to/fiedric/notas-conceptuales-que-son-los-genericos-5bdd)
 <!-- BLOG-POST-LIST:END -->
 
 
