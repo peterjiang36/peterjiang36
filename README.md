@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-pm9)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-55me)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-53cp)
-- [Stop Struggling with Maps in React Native — Here’s the Complete Guide](https://dev.to/asyncarijit/stop-struggling-with-maps-in-react-native-heres-the-complete-guide-28ii)
+- [Terraform Basics – Week 1: Deploying Your First Azure VM](https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86)
+- [The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer](https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k)
+- [Browser scrollbar color in the Dark mode.](https://dev.to/whyang9701/browser-scrollbar-color-in-the-dark-mode-29db)
+- [Daily Artificial Intelligence Digest - Nov 02, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-02-2025-2o9m)
 <!-- BLOG-POST-LIST:END -->
 
 
