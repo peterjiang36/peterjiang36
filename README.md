@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will Developers Survive AI Takeover? Part 3: What Happens If You Stay Old School?](https://dev.to/georgekobaidze/will-developers-survive-ai-takeover-part-3-what-happens-if-you-stay-old-school-4p5g)
-- [Sistema de Control de Jobs en Tiempo Real con Channels y Background Services en .NET](https://dev.to/isaacojeda/sistema-de-control-de-jobs-en-tiempo-real-con-channels-y-background-services-en-net-529e)
-- [Building Elegant Batch Jobs in Laravel with Clean Architecture](https://dev.to/eashigaev/building-elegant-batch-jobs-in-laravel-with-clean-architecture-431d)
-- [Covering index for $group/$sum in MongoDB aggregation &lpar;with hint&rpar;](https://dev.to/franckpachot/covering-index-for-group-in-mongodb-aggregation-with-hint-4e6m)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-pm9)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-55me)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-53cp)
+- [Stop Struggling with Maps in React Native — Here’s the Complete Guide](https://dev.to/asyncarijit/stop-struggling-with-maps-in-react-native-heres-the-complete-guide-28ii)
 <!-- BLOG-POST-LIST:END -->
 
 
