@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Code, Building Skills: Lessons from My Early JavaScript Errors](https://dev.to/shubhradev/breaking-code-building-skills-lessons-from-my-early-javascript-errors-491n)
-- [PHP vs Node.js: A Real-World Performance Comparison](https://dev.to/sureshr/php-vs-nodejs-a-real-world-performance-comparison-l2)
-- [🚀 Hello, Kubernetes! A Hands-On Guide to Deploying Your First App on GKE description](https://dev.to/jay_sheth/hello-kubernetes-a-hands-on-guide-to-deploying-your-first-app-on-gke-description-28gi)
-- [Level Up Your Code: How AI is Changing the Development Game](https://dev.to/karthik_n/level-up-your-code-how-ai-is-changing-the-development-game-2f7f)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-35n1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-38k3)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-29b4)
+- [✨ From PR Panic to Code Confidence](https://dev.to/gouranga-das-khulna/from-pr-panic-to-code-confidence-i6d)
 <!-- BLOG-POST-LIST:END -->
 
 
