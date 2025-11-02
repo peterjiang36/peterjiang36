@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Building MCP Servers to Control a Home Coffee Roaster - An Agentic Development Journey with Warp Agent](https://dev.to/syamaner/part-2-building-mcp-servers-to-control-a-home-coffee-roaster-an-agentic-development-journey-with-58ik)
-- [The biggest pitfall of React Context - Unwanted re-render](https://dev.to/rdd_d9d31a9bee259e6c/the-biggest-pitfall-of-react-context-unwanted-re-render-2ok0)
-- [AI in Email Marketing: How Artificial Intelligence Is Redefining Customer Communication](https://dev.to/babahakka/ai-in-email-marketing-how-artificial-intelligence-is-redefining-customer-communication-1f53)
-- [How I Crushed Timestamp Storage by 56% with Bit Packing](https://dev.to/danexcodr/how-i-crushed-timestamp-storage-by-56-with-bit-packing-555k)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2702)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-17ao)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3djd)
+- [Principles of Privacy by Design: Embedding Ethics and Trust into Every System](https://dev.to/jayita_gulati_654f0451382/principles-of-privacy-by-design-embedding-ethics-and-trust-into-every-system-3d9)
 <!-- BLOG-POST-LIST:END -->
 
 
