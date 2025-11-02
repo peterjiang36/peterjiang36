@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anamaria/-3dom)
-- [Criar Builds de App RN](https://dev.to/henriquepablo/criar-builds-de-app-rn-27bg)
-- [Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully OpenMLLMs](https://dev.to/paperium/bee-a-high-quality-corpus-and-full-stack-suite-to-unlock-advanced-fully-openmllms-478o)
-- [The Last Four PRs for 2025](https://dev.to/gracieamser/the-last-four-prs-for-2025-389j)
+- [Reportes de operaciones inusuales y relevantes&quot; son indicado](https://dev.to/drcarlosruizviquez/reportes-de-operaciones-inusuales-y-relevantes-son-indicado-3mm8)
+- [Building Resilient Go Services: Context, Graceful Shutdown, and Retry/Timeout Patterns](https://dev.to/serifcolakel/building-resilient-go-services-context-graceful-shutdown-and-retrytimeout-patterns-21g3)
+- [A Pull Request to Purpose](https://dev.to/suhanisanskriti28oss/a-pull-request-to-purpose-1ofg)
+- [How I Organized My CLAUDE.md in a Monorepo with Too Many Contexts](https://dev.to/anvodev/how-i-organized-my-claudemd-in-a-monorepo-with-too-many-contexts-37k7)
 <!-- BLOG-POST-LIST:END -->
 
 
