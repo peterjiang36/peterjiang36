@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-31fa)
-- [My Cloud Journey Begins: Completing My First Azure Fundamentals Module](https://dev.to/akshathashivakumar/my-cloud-journey-begins-completing-my-first-azure-fundamentals-module-235n)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4o6a)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1okm)
+- [Hello](https://dev.to/safal_bhandari/hello-2dne)
+- [Project 2](https://dev.to/johnphan2408/project-2-7c9)
+- [Why Are Data Quality and Governance the Real Foundations for Agentic AI Success?](https://dev.to/jay_all_day/why-are-data-quality-and-governance-the-real-foundations-for-agentic-ai-success-7kj)
+- [Understanding IaaS, PaaS, and SaaS: The Three Pillars of Cloud Computing](https://dev.to/raj_singhal/understanding-iaas-paas-and-saas-the-three-pillars-of-cloud-computing-5in)
 <!-- BLOG-POST-LIST:END -->
 
 
