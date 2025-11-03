@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[UI Design] Markdown Viewer](https://dev.to/shelner/ui-design-markdown-viewer-2a81)
-- [How To Build and Maintain a Risk Register for Professionals](https://dev.to/taskford/how-to-build-and-maintain-a-risk-register-for-professionals-alg)
-- [Finding Today&#39;s Changed Files: A Quick Python Script for File Uploads](https://dev.to/vidyasagarmsc/finding-todays-changed-files-a-quick-python-script-for-file-uploads-13b7)
-- [Collateral Crossroads: Quantum-AI&#39;s Revolution in Risk Mitigation](https://dev.to/arvind_sundararajan/collateral-crossroads-quantum-ais-revolution-in-risk-mitigation-4fia)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-55ak)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-9k7)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5a6n)
+- [Cách viết bài chuẩn SEO website lên top Google - Bí quyết để tăng truy cập và doanh thu](https://dev.to/openaicookbook/cach-viet-bai-chuan-seo-website-len-top-google-bi-quyet-de-tang-truy-cap-va-doanh-thu-4271)
 <!-- BLOG-POST-LIST:END -->
 
 
