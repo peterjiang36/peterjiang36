@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a TI-84 Plus CE Emulator in WebAssembly: Lessons from 100% Browser-Based Calculator Emulation](https://dev.to/frqan/building-a-ti-84-plus-ce-emulator-in-webassembly-lessons-from-100-browser-based-calculator-3mlg)
-- [Beginner’s Guide #6: 🌀 The Event Loop Explained in 3 Minutes &lpar;You’ll Never Forget It&rpar;](https://dev.to/sylwia-lask/beginners-guide-6-the-event-loop-explained-in-3-minutes-youll-never-forget-it-1mk9)
-- [Crawllama – Lightweight Local AI Agent for Web Research 🚀](https://dev.to/arn-c0de/crawllama-lightweight-local-ai-agent-for-web-research-3dd7)
-- [Making AI Models Faster, Cheaper, and Greener — Here’s How](https://dev.to/pruna-ai/making-ai-models-faster-cheaper-and-greener-heres-how-58le)
+- [Understanding the Docker build context](https://dev.to/u11d/understanding-the-docker-build-context-4fmc)
+- [Helios-Engine ,Why I Built Another LLM Agent Framework &lpar;And Why You Might Actually Care&rpar;](https://dev.to/ammar-alnagar/why-i-built-another-llm-agent-framework-and-why-you-might-actually-care-2m6n)
+- [Battle of the Lightweight AI Engines: TensorFlow Lite vs ONNX Runtime Web](https://dev.to/m-a-h-b-u-b/battle-of-the-lightweight-ai-engines-tensorflow-lite-vs-onnx-runtime-web-fch)
+- [50 Best GitHub Repositories That Will Make You a great Developer](https://dev.to/web_dev-usman/50-best-github-repositories-that-will-make-you-a-great-developer-40l1)
 <!-- BLOG-POST-LIST:END -->
 
 
