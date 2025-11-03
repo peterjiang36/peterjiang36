@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Docker build context](https://dev.to/u11d/understanding-the-docker-build-context-4fmc)
-- [Helios-Engine ,Why I Built Another LLM Agent Framework &lpar;And Why You Might Actually Care&rpar;](https://dev.to/ammar-alnagar/why-i-built-another-llm-agent-framework-and-why-you-might-actually-care-2m6n)
-- [Battle of the Lightweight AI Engines: TensorFlow Lite vs ONNX Runtime Web](https://dev.to/m-a-h-b-u-b/battle-of-the-lightweight-ai-engines-tensorflow-lite-vs-onnx-runtime-web-fch)
-- [50 Best GitHub Repositories That Will Make You a great Developer](https://dev.to/web_dev-usman/50-best-github-repositories-that-will-make-you-a-great-developer-40l1)
+- [Next.js 16: A Deep Dive into Cache Components with Real-World Examples](https://dev.to/mina_golzari_dalir/nextjs-16-a-deep-dive-into-cache-components-with-real-world-examples-4bno)
+- [Log Ninja: The Ultimate VS Code Extension for Effortless Debug Logging](https://dev.to/rakeshgombi/log-ninja-the-ultimate-vs-code-extension-for-effortless-debug-logging-47fb)
+- [React Hooks: A Comprehensive Cheatsheet &amp; Guide](https://dev.to/mahdardavari/react-hooks-a-comprehensive-cheatsheet-guide-35f)
+- [Understanding LangChain and LangGraph: A Beginner’s Guide to AI Workflows](https://dev.to/manishmshiva/understanding-langchain-and-langgraph-a-beginners-guide-to-ai-workflows-1aeo)
 <!-- BLOG-POST-LIST:END -->
 
 
