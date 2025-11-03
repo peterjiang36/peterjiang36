@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Interfaces Every C# Developer Should Know](https://dev.to/rasheedmozaffar/the-essential-interfaces-every-c-developer-should-know-2ma4)
-- [I built a WAF in Golang](https://dev.to/1rhino2/i-built-a-waf-in-golang-3i9e)
-- [Secrets in .NET: Why Strings Are Not Safe &lpar;and What to Do Instead&rpar;](https://dev.to/bwi/secrets-in-net-why-strings-are-not-safe-and-what-to-do-instead-3g3p)
-- [ForkQuest - Zork, but you fork the universe](https://dev.to/datadr1ven/forkquest-zork-but-you-fork-the-universe-2n37)
+- [NPM: Package Management Made Easier](https://dev.to/techwithazaria/npm-package-management-made-easier-p9a)
+- [Guided Project - Azure Files and Azure Blobs](https://dev.to/ojosamuel129/guided-project-azure-files-and-azure-blobs-1g16)
+- [**Build Reusable Web Components with JavaScript: Complete Guide to Custom Elements and Shadow DOM**](https://dev.to/aaravjoshi/build-reusable-web-components-with-javascript-complete-guide-to-custom-elements-and-shadow-dom-3aeo)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-222j)
 <!-- BLOG-POST-LIST:END -->
 
 
