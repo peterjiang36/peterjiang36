@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16: A Deep Dive into Cache Components with Real-World Examples](https://dev.to/mina_golzari_dalir/nextjs-16-a-deep-dive-into-cache-components-with-real-world-examples-4bno)
-- [Log Ninja: The Ultimate VS Code Extension for Effortless Debug Logging](https://dev.to/rakeshgombi/log-ninja-the-ultimate-vs-code-extension-for-effortless-debug-logging-47fb)
-- [React Hooks: A Comprehensive Cheatsheet &amp; Guide](https://dev.to/mahdardavari/react-hooks-a-comprehensive-cheatsheet-guide-35f)
-- [Understanding LangChain and LangGraph: A Beginner’s Guide to AI Workflows](https://dev.to/manishmshiva/understanding-langchain-and-langgraph-a-beginners-guide-to-ai-workflows-1aeo)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1jj2)
+- [Event-Driven State Management with NgRx Signal Store](https://dev.to/dimeloper/event-driven-state-management-with-ngrx-signal-store-j8i)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1mbo)
+- [AI in Sensory Branding: Designing Experiences You Can Feel](https://dev.to/princess-ai/ai-in-sensory-branding-designing-experiences-you-can-feel-7o7)
 <!-- BLOG-POST-LIST:END -->
 
 
