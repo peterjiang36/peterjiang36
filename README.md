@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1jj2)
-- [Event-Driven State Management with NgRx Signal Store](https://dev.to/dimeloper/event-driven-state-management-with-ngrx-signal-store-j8i)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1mbo)
-- [AI in Sensory Branding: Designing Experiences You Can Feel](https://dev.to/princess-ai/ai-in-sensory-branding-designing-experiences-you-can-feel-7o7)
+- [Transform web pages at the edge](https://dev.to/fastly/transform-web-pages-at-the-edge-1lop)
+- [EKS Networking Explained: Why am I running out of IPs? &lpar;Part 1&rpar;](https://dev.to/dap0am_/eks-networking-explained-why-am-i-running-out-of-ips-part-1-8f3)
+- [[Boost]](https://dev.to/kyl67899/-1mfa)
+- [🎥 Prototype Design Pattern video just dropped!](https://dev.to/dotnetfullstackdev/prototype-design-pattern-video-just-dropped-314i)
 <!-- BLOG-POST-LIST:END -->
 
 
