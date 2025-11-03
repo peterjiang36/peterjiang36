@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPM: Package Management Made Easier](https://dev.to/techwithazaria/npm-package-management-made-easier-p9a)
-- [Guided Project - Azure Files and Azure Blobs](https://dev.to/ojosamuel129/guided-project-azure-files-and-azure-blobs-1g16)
-- [**Build Reusable Web Components with JavaScript: Complete Guide to Custom Elements and Shadow DOM**](https://dev.to/aaravjoshi/build-reusable-web-components-with-javascript-complete-guide-to-custom-elements-and-shadow-dom-3aeo)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-222j)
+- [The Surprising Twist Behind Alphabet’s Moonshot Spinouts &lpar;And What Every Innovator Gets Wrong&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9)
+- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
+- [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](https://dev.to/paperium/fg-clip-2-a-bilingual-fine-grained-vision-language-alignment-model-g9o)
+- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
 <!-- BLOG-POST-LIST:END -->
 
 
