@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Surprising Twist Behind Alphabet’s Moonshot Spinouts &lpar;And What Every Innovator Gets Wrong&rpar;](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9)
-- [Infinite Worlds, Perfect Recall: AI&#39;s Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512)
-- [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](https://dev.to/paperium/fg-clip-2-a-bilingual-fine-grained-vision-language-alignment-model-g9o)
-- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g)
+- [If someone told me a few years ago that I would publish 40+ books on AI, coding, automation, and productivity, and many would become bestsellers, I would have laughed.
+
+Because I was not a traditional coder!](https://dev.to/jaideepparashar/if-someone-told-me-a-few-years-ago-that-i-would-publish-40-books-on-ai-coding-automation-and-1hm4)
+- [What I Learned Publishing Technical Books on Amazon &lpar;Without Being a Coder&rpar;](https://dev.to/jaideepparashar/what-i-learned-publishing-technical-books-on-amazon-without-being-a-coder-3co3)
+- [Malware analysis - Hancitor Loader](https://dev.to/irmch/malware-analysis-hancitor-loader-2ofn)
+- [How I Integrated an AI Agent into Free GitLab CI/CD](https://dev.to/pavel_mulin_478b0f72cc6c5/how-i-integrated-an-ai-agent-into-free-gitlab-cicd-252o)
 <!-- BLOG-POST-LIST:END -->
 
 
