@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j)
-- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj)
-- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i)
-- [Ringer Movies: The 1989 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-1989-movie-draft-5c83)
+- [Building a TI-84 Plus CE Emulator in WebAssembly: Lessons from 100% Browser-Based Calculator Emulation](https://dev.to/frqan/building-a-ti-84-plus-ce-emulator-in-webassembly-lessons-from-100-browser-based-calculator-3mlg)
+- [Beginner’s Guide #6: 🌀 The Event Loop Explained in 3 Minutes &lpar;You’ll Never Forget It&rpar;](https://dev.to/sylwia-lask/beginners-guide-6-the-event-loop-explained-in-3-minutes-youll-never-forget-it-1mk9)
+- [Crawllama – Lightweight Local AI Agent for Web Research 🚀](https://dev.to/arn-c0de/crawllama-lightweight-local-ai-agent-for-web-research-3dd7)
+- [Making AI Models Faster, Cheaper, and Greener — Here’s How](https://dev.to/pruna-ai/making-ai-models-faster-cheaper-and-greener-heres-how-58le)
 <!-- BLOG-POST-LIST:END -->
 
 
