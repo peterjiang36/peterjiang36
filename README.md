@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
-- [😈 Dare to Commit Secrets to GitHub? With SOPS &amp; GPG, I Do! 🤫](https://dev.to/prateekwayne/dare-to-commit-secrets-to-github-with-sops-gpg-i-do-c7f)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1e3l)
-- [Quark’s Outlines: Python Class Instances](https://dev.to/mike-vincent/quarks-outlines-python-class-instances-23cn)
+- [Announcing Brighter V10: A Major Release with Cloud Events, New Providers, and Enhanced Resilience](https://dev.to/actor-dev/announcing-brighter-v10-a-major-release-with-cloud-events-new-providers-and-enhanced-resilience-kjf)
+- [How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats](https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og)
+- [Perl 🐪 Weekly #745 - Perl IDE Survey](https://dev.to/szabgab/perl-weekly-745-perl-ide-survey-lj6)
+- [WTF is Causal Consistency Models?](https://dev.to/dailybugle33/wtf-is-causal-consistency-models-3oni)
 <!-- BLOG-POST-LIST:END -->
 
 
