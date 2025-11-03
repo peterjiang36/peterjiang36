@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-55ak)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-9k7)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5a6n)
-- [Cách viết bài chuẩn SEO website lên top Google - Bí quyết để tăng truy cập và doanh thu](https://dev.to/openaicookbook/cach-viet-bai-chuan-seo-website-len-top-google-bi-quyet-de-tang-truy-cap-va-doanh-thu-4271)
+- [Introducing metadata.party: your free and open source metadata API](https://dev.to/mr_m_262f9c3501e842103601/introducing-metadataparty-your-free-and-open-source-metadata-api-lp2)
+- [Using GNU toolchain for Windows kernel-mode drivers](https://dev.to/iprosk/using-gnu-toolchain-for-windows-kernel-mode-drivers-5cfd)
+- [Street-Smart Coding—30 Lessons to Help You Code Like a Pro &lpar;My New Book Is Here&rpar;](https://dev.to/canro91/street-smart-coding-30-lessons-to-help-you-code-like-a-pro-my-new-book-is-here-2npd)
+- [One Dockerfile, Two Stages: A 50% Size Reduction Story](https://dev.to/drvcodenta/one-dockerfile-two-stages-a-50-size-reduction-story-l70)
 <!-- BLOG-POST-LIST:END -->
 
 
