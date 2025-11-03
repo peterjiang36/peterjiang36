@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform web pages at the edge](https://dev.to/fastly/transform-web-pages-at-the-edge-1lop)
-- [EKS Networking Explained: Why am I running out of IPs? &lpar;Part 1&rpar;](https://dev.to/dap0am_/eks-networking-explained-why-am-i-running-out-of-ips-part-1-8f3)
-- [[Boost]](https://dev.to/kyl67899/-1mfa)
-- [🎥 Prototype Design Pattern video just dropped!](https://dev.to/dotnetfullstackdev/prototype-design-pattern-video-just-dropped-314i)
+- [Day 23: Python Positive Sum Function – Calculate the Sum of Positive Numbers in a List](https://dev.to/shahrouzlogs/day-23-python-positive-sum-function-calculate-the-sum-of-positive-numbers-in-a-list-30df)
+- [Predicting the FIDE Chess World Cup 2025 — Monte Carlo Analysis](https://dev.to/gowtham_e9296cf2c1012d9c0/predicting-the-fide-chess-world-cup-2025-monte-carlo-analysis-3khm)
+- [Should I wait or should I go?! Quando usar .ConfigureAwait&lpar;&rpar; em Tasks .Net?](https://dev.to/caramelo-ti/should-i-wait-or-should-i-go-quando-usar-configureawait-em-tasks-net-5k2)
+- [⚡ CQRS &amp; Use Cases: Why Your Service Layer is a Mess &lpar;And How to Fix It&rpar;](https://dev.to/igornosatov_15/cqrs-use-cases-why-your-service-layer-is-a-mess-and-how-to-fix-it-2dnm)
 <!-- BLOG-POST-LIST:END -->
 
 
