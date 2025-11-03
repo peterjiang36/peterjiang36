@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay ahead in web development: latest news, tools, and insights #109](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844)
-- [99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster](https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084)
-- [🎃 Quote.Vote Hacktoberfest 2025 — Building Civic Tech, One Pull Request at a Time](https://dev.to/quotevote/quotevote-hacktoberfest-2025-building-civic-tech-one-pull-request-at-a-time-43l1)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1dnb)
+- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
+- [A Tiny Decimal That Caused Big Trouble, Until I Learned About BigDecimal](https://dev.to/marzuk16/a-tiny-decimal-that-caused-big-trouble-until-i-learned-about-bigdecimal-30ji)
+- [Tegen v0.1.0 is live!](https://dev.to/mickyas_tesfaye_551a01694/tegen-v010-is-live-28k4)
+- [Make the “Ghostface” AI photo in 3 easy steps](https://dev.to/ai_annie_5f329cb35e8b61b7/make-the-ghostface-ai-photo-in-3-easy-steps-21nf)
 <!-- BLOG-POST-LIST:END -->
 
 
