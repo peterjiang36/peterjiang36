@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Web Components Finally Ready to Replace Frameworks?](https://dev.to/anisubhra_sarkar/are-web-components-finally-ready-to-replace-frameworks-3fii)
-- [A Tiny Decimal That Caused Big Trouble, Until I Learned About BigDecimal](https://dev.to/marzuk16/a-tiny-decimal-that-caused-big-trouble-until-i-learned-about-bigdecimal-30ji)
-- [Tegen v0.1.0 is live!](https://dev.to/mickyas_tesfaye_551a01694/tegen-v010-is-live-28k4)
-- [Make the “Ghostface” AI photo in 3 easy steps](https://dev.to/ai_annie_5f329cb35e8b61b7/make-the-ghostface-ai-photo-in-3-easy-steps-21nf)
+- [How I Implemented Search for Audit Logs During My Hacktoberfest Journey](https://dev.to/elsad_humbetli_0971c995ce/how-i-implemented-search-for-audit-logs-during-my-hacktoberfest-journey-121h)
+- [😈 Dare to Commit Secrets to GitHub? With SOPS &amp; GPG, I Do! 🤫](https://dev.to/prateekwayne/dare-to-commit-secrets-to-github-with-sops-gpg-i-do-c7f)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1e3l)
+- [Quark’s Outlines: Python Class Instances](https://dev.to/mike-vincent/quarks-outlines-python-class-instances-23cn)
 <!-- BLOG-POST-LIST:END -->
 
 
