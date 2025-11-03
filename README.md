@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
-- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-41go)
+- [Graphing in JavaScript](https://dev.to/eachampagne/graphing-in-javascript-4e86)
+- [Is Your Data Stuck in the Cloud? Edge Computing to the Rescue!](https://dev.to/karthik_n/is-your-data-stuck-in-the-cloud-edge-computing-to-the-rescue-42l5)
+- [Monitor Gemini CLI using OpenTelemetry for realtime usage statistics](https://dev.to/agardnerit/monitor-gemini-cli-using-opentelemetry-for-realtime-usage-statistics-3adi)
+- [CMake study](https://dev.to/minwook/cmake-study-5he3)
 <!-- BLOG-POST-LIST:END -->
 
 
