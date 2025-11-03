@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Brighter V10: A Major Release with Cloud Events, New Providers, and Enhanced Resilience](https://dev.to/actor-dev/announcing-brighter-v10-a-major-release-with-cloud-events-new-providers-and-enhanced-resilience-kjf)
-- [How Penetration Testing Protects FinTech Apps from Evolving Cyber Threats](https://dev.to/sambishop/how-penetration-testing-protects-fintech-apps-from-evolving-cyber-threats-4og)
-- [Perl 🐪 Weekly #745 - Perl IDE Survey](https://dev.to/szabgab/perl-weekly-745-perl-ide-survey-lj6)
-- [WTF is Causal Consistency Models?](https://dev.to/dailybugle33/wtf-is-causal-consistency-models-3oni)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-4eia)
+- [Escape From Duckov Tote Bag](https://dev.to/_8e4fa938c0e4503b3e67d/escape-from-duckov-tote-bag-5cl1)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2ol9)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-41go)
 <!-- BLOG-POST-LIST:END -->
 
 
