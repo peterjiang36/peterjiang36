@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-279p)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-14ce)
-- [Frontend Architecture. Layers &amp; Domain Mindset](https://dev.to/nefedov-dm/frontend-architecture-layers-domain-mindset-35a0)
-- [Cheapest cPanel web hosts I tried in 2025 that don&#39;t suck](https://dev.to/gzac/cheapest-cpanel-web-hosts-i-tried-24p1)
+- [💸 MY BANK ACCOUNT LOOKS ILLEGAL... &lpar;The &quot;Sleeping Salesman&quot; That Deposits $382/Day While I Do NOTHING&rpar; 💸](https://dev.to/we-the-developers/my-bank-account-looks-illegal-the-sleeping-salesman-that-deposits-382day-while-i-do-4egf)
+- [API-Led Connectivity - Practical Questions Answered - Part III](https://dev.to/shandor_sharvari/api-led-connectivity-practical-questions-answered-part-iii-6dl)
+- [🤑 THIS IS ILLEGAL... &lpar;How My &quot;Silent Partner&quot; Generates $7,463/Month While I Sleep&rpar; 🤑](https://dev.to/we-the-developers/this-is-illegal-how-my-silent-partner-generates-7463month-while-i-sleep-1b2f)
+- [I Got Tired of Deceptive Casino Bonuses, So I Built a &quot;Truth Calculator&quot; with Vanilla JavaScript. Here&#39;s How You Can Too.](https://dev.to/alexv_data/i-got-tired-of-deceptive-casino-bonuses-so-i-built-a-truth-calculator-with-vanilla-javascript-2jbl)
 <!-- BLOG-POST-LIST:END -->
 
 
