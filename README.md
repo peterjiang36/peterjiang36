@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PhysicsGPT: Your Free AI-Powered Physics Problem Solver for Every Domain](https://dev.to/support_67fe1816017f203b4/physicsgpt-your-free-ai-powered-physics-problem-solver-for-every-domain-21cf)
-- [Unleash AI Potential: Mastering Automated Data Labeling for Unprecedented Model Accuracy](https://dev.to/sohan_lal_241c2d80b2705e7/unleash-ai-potential-mastering-automated-data-labeling-for-unprecedented-model-accuracy-2gl)
-- [Free AI-Powered Manga Translator - Translate Comics in 20+ Languages](https://dev.to/support_67fe1816017f203b4/free-ai-powered-manga-translator-translate-comics-in-20-languages-2e8h)
-- [What Is a Memory Leak?](https://dev.to/nedajahanfar/what-is-a-memory-leak-5epo)
+- [Code Smell 313 - Workslop Code](https://dev.to/mcsee/code-smell-313-workslop-code-n09)
+- [Things to Avoid in Nainital—Common Tourist Mistakes](https://dev.to/nainitallakeview/things-to-avoid-in-nainital-common-tourist-mistakes-gdk)
+- [Is Quantum Computing the Future? Let&#39;s Demystify It!](https://dev.to/karthik_n/is-quantum-computing-the-future-lets-demystify-it-368d)
+- [How to Solve AWS WAF Challenges with Node.js](https://dev.to/ren_joyce_cd41204d5cb261f/how-to-solve-aws-waf-challenges-with-nodejs-2obe)
 <!-- BLOG-POST-LIST:END -->
 
 
