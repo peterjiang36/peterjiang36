@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of GANs: Train with Tiny Datasets!](https://dev.to/arvind_sundararajan/unlock-the-power-of-gans-train-with-tiny-datasets-3ai5)
-- [The Hidden Challenges Startups Face with Cloud Infrastructure &lpar;From a DevOps Engineer’s Perspective&rpar;](https://dev.to/aleksandr_pliev_d30a01b0d/the-hidden-challenges-startups-face-with-cloud-infrastructure-from-a-devops-engineers-perspective-2ek8)
-- [How to Create a Vendor Management Plan: Step-by-Step Process](https://dev.to/writegenic/how-to-create-a-vendor-management-plan-step-by-step-process-1cfo)
-- [Top Tech Upgrades Developers and Project Leads Must Pursue in 2025](https://dev.to/logicverse_2025/top-tech-upgrades-developers-and-project-leads-must-pursue-in-2025-4kip)
+- [I Timed It: How I Created a 20-Step E2E Test in 6 Minutes &lpar;Using Debuggo&rpar;](https://dev.to/aragossa/i-timed-it-how-i-created-a-20-step-e2e-test-in-6-minutes-using-debuggo-33e8)
+- [The Real State of Helm Chart Reliability &lpar;2025&rpar;: Hidden Risks in 100+ Open‑Source Charts](https://dev.to/lyndon_brown_/the-real-state-of-helm-chart-reliability-2025-hidden-risks-in-100-open-source-charts-2cn1)
+- [🚀 My First Secure CI/CD Pipeline on GitLab: A Beginner&#39;s Walkthrough](https://dev.to/ldwit/my-first-secure-cicd-pipeline-on-gitlab-a-beginners-walkthrough-100i)
+- [Convert Markdown to PDF Online - No Command Line Required](https://dev.to/themrsami/convert-markdown-to-pdf-online-no-command-line-required-3570)
 <!-- BLOG-POST-LIST:END -->
 
 
