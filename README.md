@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building BrandGenie: An AI-Powered Brand Identity Generator with Mastra](https://dev.to/aladetanife/building-brandgenie-an-ai-powered-brand-identity-generator-with-mastra-and-telex-published-true-p6e)
-- [Agentic Entropy-Balanced Policy Optimization](https://dev.to/paperium/agentic-entropy-balanced-policy-optimization-38gm)
-- [Building JobInsightAI: An Intelligent Telex Agent for Career Growth — HNG Stage 3 Backend Task](https://dev.to/kweku_annan/building-jobinsightai-an-intelligent-telex-agent-for-career-growth-hng-stage-3-backend-task-1pa6)
-- [Provide storage for the public website](https://dev.to/daniel_shaibu_49affe8d51e/provide-storage-for-the-public-website-3gha)
+- [How to Build a Simple HTML5 Game Hub Using JavaScript and Responsive Design](https://dev.to/gamh5games/how-to-build-a-simple-html5-game-hub-using-javascript-and-responsive-design-1437)
+- [🚀How I released Chrome Extensions &lpar;💪🧠Muscle Brain v4&rpar;](https://dev.to/webdeveloperhyper/how-i-released-chrome-extensions-muscle-brain-v4-3ijn)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-8nm)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5alj)
 <!-- BLOG-POST-LIST:END -->
 
 
