@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
-- [🎯 Frontend Psychology 101: How Design Choices Convert Users in 2025](https://dev.to/tahamjp/frontend-psychology-101-how-design-choices-convert-users-in-2025-518g)
-- [Generating Application Specific Go Documentation Using Go AST and Antora](https://dev.to/frosnerd/generating-application-specific-go-documentation-using-go-ast-and-antora-aho)
-- [How Indoor Air Quality Affects Sleep &amp; Productivity](https://dev.to/toby-patrick/how-indoor-air-quality-affects-sleep-productivity-4688)
+- [I Replaced ESLint &amp; Prettier with This ⚡](https://dev.to/thatanjan/i-replaced-eslint-prettier-with-this-fkn)
+- [Decoding Kiroween](https://dev.to/brian_mk/decoding-kiroween-4nm)
+- [Looking for a U.S.-Based Developer to Collaborate on Video Call Assistance Project](https://dev.to/evan_santos_6f09b2029c49a/looking-for-a-us-based-developer-to-collaborate-on-video-call-assistance-project-4e5h)
+- [Optimizing HTML5 Action Games for Mobile Devices](https://dev.to/gamh5games/optimizing-html5-action-games-for-mobile-devices-19ce)
 <!-- BLOG-POST-LIST:END -->
 
 
