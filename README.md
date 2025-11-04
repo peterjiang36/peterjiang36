@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Smart Way to Achieve Fast and Secure File Uploads to S3 &lpar;Without a Server&rpar; 💥](https://dev.to/ashrafamer/the-smart-way-to-achieve-fast-and-secure-file-uploads-to-s3-without-a-server-3mbb)
-- [You’ll Learn More in 3 Months on the Job Than 2 Years of Tutorials](https://dev.to/tlorent/youll-learn-more-in-3-months-on-the-job-than-2-years-of-tutorials-5g9f)
-- [Multi-Tenancy Database Patterns with examples in Go](https://dev.to/rosgluk/multi-tenancy-database-patterns-with-examples-in-go-1ga5)
-- [A Rundown on PWAs](https://dev.to/senken18/a-rundown-on-pwas-4pk3)
+- [PhysicsGPT: Your Free AI-Powered Physics Problem Solver for Every Domain](https://dev.to/support_67fe1816017f203b4/physicsgpt-your-free-ai-powered-physics-problem-solver-for-every-domain-21cf)
+- [Unleash AI Potential: Mastering Automated Data Labeling for Unprecedented Model Accuracy](https://dev.to/sohan_lal_241c2d80b2705e7/unleash-ai-potential-mastering-automated-data-labeling-for-unprecedented-model-accuracy-2gl)
+- [Free AI-Powered Manga Translator - Translate Comics in 20+ Languages](https://dev.to/support_67fe1816017f203b4/free-ai-powered-manga-translator-translate-comics-in-20-languages-2e8h)
+- [What Is a Memory Leak?](https://dev.to/nedajahanfar/what-is-a-memory-leak-5epo)
 <!-- BLOG-POST-LIST:END -->
 
 
