@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я разработал фильтр товаров для категории «Промышленные масла» на PiterTrade.ru](https://dev.to/nagibin/kak-ia-razrabotal-filtr-tovarov-dlia-katieghorii-na-pitertraderu-2dc9)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2mh)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-41mk)
-- [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
+- [Automating API Calls Without Losing Control](https://dev.to/nixx/automating-api-calls-without-losing-control-1hk0)
+- [🎯 Frontend Psychology 101: How Design Choices Convert Users in 2025](https://dev.to/tahamjp/frontend-psychology-101-how-design-choices-convert-users-in-2025-518g)
+- [Generating Application Specific Go Documentation Using Go AST and Antora](https://dev.to/frosnerd/generating-application-specific-go-documentation-using-go-ast-and-antora-aho)
+- [How Indoor Air Quality Affects Sleep &amp; Productivity](https://dev.to/toby-patrick/how-indoor-air-quality-affects-sleep-productivity-4688)
 <!-- BLOG-POST-LIST:END -->
 
 
