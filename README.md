@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common LLM Mistakes in Project Management and How to Fix Them](https://dev.to/sahil_aggarwal/common-llm-mistakes-in-project-management-and-how-to-fix-them-2d67)
-- [How JavaScript Works: The Runtime Environment](https://dev.to/adelstiti/how-javascript-works-the-runtime-environment-3e52)
-- [Why Developers Should Study Human Behavior Before Code](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-developers-should-study-human-behavior-before-code-j1n)
-- [A Lightweight Web Component for Building Custom Circular Sliders](https://dev.to/jqueryscript/a-lightweight-web-component-for-building-custom-circular-sliders-3nd4)
+- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
+- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-3gkl)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1fe9)
+- [🎯 Why I Chose BSc &lpar;Hons&rpar; Data Science After My HND in Software Engineering — The Turning Point in My Tech Journey](https://dev.to/mohamed-riham/why-i-chose-bsc-hons-data-science-after-my-hnd-in-software-engineering-the-turning-point-in-1n98)
 <!-- BLOG-POST-LIST:END -->
 
 
