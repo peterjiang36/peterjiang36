@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
-- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
-- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-41m4)
-- [Devoxx: Inspiring the Next Generations](https://dev.to/scale_youtube/devoxx-inspiring-the-next-generations-4cjc)
+- [ESODSAKE : The Snake That Trolls Me with AI and Burns My Ego](https://dev.to/0rb1t4lsn4k3r/esodsake-the-snake-that-trolls-me-with-ai-and-burns-my-ego-485)
+- [10 AI Coding Patterns That&#39;ll Make You Look Like a Wizard 🧙‍♂️](https://dev.to/danishashko/10-ai-coding-patterns-thatll-make-you-look-like-a-wizard-56do)
+- [Run LangChain Locally in 15 Minutes &lpar;Without a Single API Key&rpar;](https://dev.to/fabiothiroki/run-langchain-locally-in-15-minutes-without-a-single-api-key-1j8m)
+- [Making Services Discoverable with ERC-8004: Trustless Agent Registration with Filecoin Pin](https://dev.to/hammertoe/making-services-discoverable-with-erc-8004-trustless-agent-registration-with-filecoin-pin-1al3)
 <!-- BLOG-POST-LIST:END -->
 
 
