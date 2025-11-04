@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Forms and Inputs Styling: From Plain to Polished](https://dev.to/sharique_siddiqui_8242dad/css-forms-and-inputs-styling-from-plain-to-polished-1n96)
-- [Building a Precise Real-Time Clock with Arduino and DS3231MZ+](https://dev.to/censtry/building-a-precise-real-time-clock-with-arduino-and-ds3231mz-1fch)
-- [用代理精准测试全球广告活动](https://dev.to/lopezjessicancmxe_e881660/yong-dai-li-jing-zhun-ce-shi-quan-qiu-yan-gao-huo-dong-2l2j)
-- [Information Gain-based Policy Optimization: A Simple and Effective Approach forMulti-Turn LLM Agents](https://dev.to/paperium/information-gain-based-policy-optimization-a-simple-and-effective-approach-formulti-turn-llm-agents-g4p)
+- [Flip a Coin Online: The Technology Behind Fair Virtual Coin Tosses](https://dev.to/mramzanofficial/flip-a-coin-online-the-technology-behind-fair-virtual-coin-tosses-151o)
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-CompactVision-Language Model](https://dev.to/paperium/paddleocr-vl-boosting-multilingual-document-parsing-via-a-09b-ultra-compactvision-language-model-226l)
+- [The DynamoDB DNS Race Condition That Broke The Internet &lpar;And Why Your Self-Healing Systems Might Be Suicide-Bots&rpar;](https://dev.to/codetestfactory/the-dynamodb-dns-race-condition-that-broke-the-internet-and-why-your-self-healing-systems-might-be-24f5)
+- [Helios Engine v0.4.1: Level Up Your Rust LLM Agents with Smarter Forests and Broader Provider Support](https://dev.to/ammar-alnagar/helios-engine-v041-level-up-your-rust-llm-agents-with-smarter-forests-and-broader-provider-56md)
 <!-- BLOG-POST-LIST:END -->
 
 
