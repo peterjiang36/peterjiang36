@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Interactive Node-Based Diagrams with fg-next-draw-canvas: A React Developer&#39;s Guide](https://dev.to/fabiangftech/build-interactive-node-based-diagrams-with-fg-next-draw-canvas-a-react-developers-guide-3k5a)
-- [Complete API Authentication with Laravel 12 Sanctum](https://dev.to/ashrakt_amin/complete-api-authentication-with-laravel-12-sanctum-56l3)
-- [Teaching My Team How to Build LINQ from Scratch](https://dev.to/reenanms/teaching-my-team-how-to-build-linq-from-scratch-11p9)
-- [Product 101: Your Secret Weapon for Understanding the Business](https://dev.to/mattstratton/product-101-your-secret-weapon-for-understanding-the-business-2m6j)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-279p)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-14ce)
+- [Frontend Architecture. Layers &amp; Domain Mindset](https://dev.to/nefedov-dm/frontend-architecture-layers-domain-mindset-35a0)
+- [Cheapest cPanel web hosts I tried in 2025 that don&#39;t suck](https://dev.to/gzac/cheapest-cpanel-web-hosts-i-tried-24p1)
 <!-- BLOG-POST-LIST:END -->
 
 
