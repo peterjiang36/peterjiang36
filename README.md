@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Azure SFTP deployment with Terraform](https://dev.to/techielass/automating-azure-sftp-deployment-with-terraform-4355)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-3gkl)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1fe9)
-- [🎯 Why I Chose BSc &lpar;Hons&rpar; Data Science After My HND in Software Engineering — The Turning Point in My Tech Journey](https://dev.to/mohamed-riham/why-i-chose-bsc-hons-data-science-after-my-hnd-in-software-engineering-the-turning-point-in-1n98)
+- [The Smart Way to Achieve Fast and Secure File Uploads to S3 &lpar;Without a Server&rpar; 💥](https://dev.to/ashrafamer/the-smart-way-to-achieve-fast-and-secure-file-uploads-to-s3-without-a-server-3mbb)
+- [You’ll Learn More in 3 Months on the Job Than 2 Years of Tutorials](https://dev.to/tlorent/youll-learn-more-in-3-months-on-the-job-than-2-years-of-tutorials-5g9f)
+- [Multi-Tenancy Database Patterns with examples in Go](https://dev.to/rosgluk/multi-tenancy-database-patterns-with-examples-in-go-1ga5)
+- [A Rundown on PWAs](https://dev.to/senken18/a-rundown-on-pwas-4pk3)
 <!-- BLOG-POST-LIST:END -->
 
 
