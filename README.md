@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Simple HTML5 Game Hub Using JavaScript and Responsive Design](https://dev.to/gamh5games/how-to-build-a-simple-html5-game-hub-using-javascript-and-responsive-design-1437)
-- [🚀How I released Chrome Extensions &lpar;💪🧠Muscle Brain v4&rpar;](https://dev.to/webdeveloperhyper/how-i-released-chrome-extensions-muscle-brain-v4-3ijn)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-8nm)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5alj)
+- [Warum die Zukunft der Web3-Entwicklung von der Benutzererfahrung abhängt – nicht nur vom Code](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-die-zukunft-der-web3-entwicklung-von-der-benutzererfahrung-abhangt-nicht-nur-vom-code-jnp)
+- [使用代理解锁区域限定优惠，节省更多购物费用](https://dev.to/lopezjessicancmxe_e881660/shi-yong-dai-li-jie-suo-qu-yu-xian-ding-you-hui-jie-sheng-geng-duo-gou-wu-fei-yong-3ioe)
+- [How I Use Claude and NotebookLM to Accelerate My Learning and Technical Writing Process](https://dev.to/sarah-techwriter/how-i-use-claude-and-notebooklm-to-accelerate-my-learning-and-technical-writing-process-nk)
+- [Mastering Web Internationalization](https://dev.to/xfq/mastering-web-internationalization-i7m)
 <!-- BLOG-POST-LIST:END -->
 
 
