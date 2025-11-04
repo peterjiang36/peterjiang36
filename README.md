@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Timed It: How I Created a 20-Step E2E Test in 6 Minutes &lpar;Using Debuggo&rpar;](https://dev.to/aragossa/i-timed-it-how-i-created-a-20-step-e2e-test-in-6-minutes-using-debuggo-33e8)
-- [The Real State of Helm Chart Reliability &lpar;2025&rpar;: Hidden Risks in 100+ Open‑Source Charts](https://dev.to/lyndon_brown_/the-real-state-of-helm-chart-reliability-2025-hidden-risks-in-100-open-source-charts-2cn1)
-- [🚀 My First Secure CI/CD Pipeline on GitLab: A Beginner&#39;s Walkthrough](https://dev.to/ldwit/my-first-secure-cicd-pipeline-on-gitlab-a-beginners-walkthrough-100i)
-- [Convert Markdown to PDF Online - No Command Line Required](https://dev.to/themrsami/convert-markdown-to-pdf-online-no-command-line-required-3570)
+- [The Problem Space: Why Modern Banking Infrastructure is Broken](https://dev.to/mharris021/the-problem-space-why-modern-banking-infrastructure-is-broken-5g60)
+- [Effortless PostgreSQL Environment in Docker For Windows](https://dev.to/sandipm03/effortless-postgresql-environment-in-docker-for-windows-3i13)
+- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-41m4)
+- [Devoxx: Inspiring the Next Generations](https://dev.to/scale_youtube/devoxx-inspiring-the-next-generations-4cjc)
 <!-- BLOG-POST-LIST:END -->
 
 
