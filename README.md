@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Warum die Zukunft der Web3-Entwicklung von der Benutzererfahrung abhängt – nicht nur vom Code](https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-die-zukunft-der-web3-entwicklung-von-der-benutzererfahrung-abhangt-nicht-nur-vom-code-jnp)
-- [使用代理解锁区域限定优惠，节省更多购物费用](https://dev.to/lopezjessicancmxe_e881660/shi-yong-dai-li-jie-suo-qu-yu-xian-ding-you-hui-jie-sheng-geng-duo-gou-wu-fei-yong-3ioe)
-- [How I Use Claude and NotebookLM to Accelerate My Learning and Technical Writing Process](https://dev.to/sarah-techwriter/how-i-use-claude-and-notebooklm-to-accelerate-my-learning-and-technical-writing-process-nk)
-- [Mastering Web Internationalization](https://dev.to/xfq/mastering-web-internationalization-i7m)
+- [CSS Forms and Inputs Styling: From Plain to Polished](https://dev.to/sharique_siddiqui_8242dad/css-forms-and-inputs-styling-from-plain-to-polished-1n96)
+- [Building a Precise Real-Time Clock with Arduino and DS3231MZ+](https://dev.to/censtry/building-a-precise-real-time-clock-with-arduino-and-ds3231mz-1fch)
+- [用代理精准测试全球广告活动](https://dev.to/lopezjessicancmxe_e881660/yong-dai-li-jing-zhun-ce-shi-quan-qiu-yan-gao-huo-dong-2l2j)
+- [Information Gain-based Policy Optimization: A Simple and Effective Approach forMulti-Turn LLM Agents](https://dev.to/paperium/information-gain-based-policy-optimization-a-simple-and-effective-approach-formulti-turn-llm-agents-g4p)
 <!-- BLOG-POST-LIST:END -->
 
 
