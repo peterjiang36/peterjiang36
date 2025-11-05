@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned From Working on Legacy Codebases &lpar;And How It Made Me a Better Developer&rpar;](https://dev.to/milx/what-i-learned-from-working-on-legacy-codebases-and-how-it-made-me-a-better-developer-1ldg)
-- [Understanding the `this` Keyword in JavaScript](https://dev.to/giftintech/understanding-the-this-keyword-in-javascript-4ipi)
-- [Before there was Kubernetes, there was Borg......](https://dev.to/kaustubhyerkade/before-there-was-kubernetes-there-was-borg-hfa)
-- [To Mars and Beyond: A Coder&#39;s Guide to Modelling the Red Planet&#39;s Ionosphere](https://dev.to/masoomjethwa/to-mars-and-beyond-a-coders-guide-to-modelling-the-red-planets-ionosphere-3pmn)
+- [How-to use a Custom Start Button Image in Linux Mint](https://dev.to/d4rkd0s/how-to-use-a-custom-start-button-image-in-linux-mint-5d77)
+- [Don’t Be Someone People Have to Work With — Be Someone They Want to Work With](https://dev.to/themustaphatijani/dont-be-someone-people-have-to-work-with-be-someone-they-want-to-work-with-4cb2)
+- [iOS 26.1 Released: What Developers Need to Know](https://dev.to/arshtechpro/ios-261-released-what-developers-need-to-know-45b0)
+- [Creación de Peering Connections en AWS.](https://dev.to/cyb3rcloud8888/creacion-de-peering-connections-en-aws-449k)
 <!-- BLOG-POST-LIST:END -->
 
 
