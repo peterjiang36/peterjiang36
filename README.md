@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3ojl)
-- [Why Your Healthcare Organization’s Customer Experience Feels Broken — And How CRM Could Save It](https://dev.to/chillicode/why-your-healthcare-organizations-customer-experience-feels-broken-and-how-crm-could-save-it-jh3)
-- [AI That Shows Its Work: The Transparent Revolution of PALs](https://dev.to/naresh_007/ai-that-shows-its-work-the-transparent-revolution-of-pals-59ia)
-- [Making Java Code Null-Safe With JPlus](https://dev.to/cheol_jeon_9e29b98fdb7e1e/make-java-code-null-safe-with-jplus-3b9h)
+- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
+- [🦄 When ML Models Go Wild: Unintentional Art Created by Neural Networks](https://dev.to/pracode_2503/when-ml-models-go-wild-unintentional-art-created-by-neural-networks-5ga6)
+- [From Postgres to Iceberg](https://dev.to/misachi/from-postgres-to-iceberg-g4)
+- [Why Ruby Devs Keep Mixing Up Symbols and Frozen Strings](https://dev.to/hinokami_dev/why-ruby-devs-keep-mixing-up-symbols-and-frozen-strings-3id8)
 <!-- BLOG-POST-LIST:END -->
 
 
