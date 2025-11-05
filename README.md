@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Machine Learning in CAD to Detect Design Flaws Before They Become Costly](https://dev.to/alona_instandart/using-machine-learning-in-cad-to-detect-design-flaws-before-they-become-costly-3m44)
-- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/ian_mwangi/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-36hc)
-- [Structured prompts: how YAML cut my LLM costs by 30%](https://dev.to/inozem/structured-prompts-how-yaml-cut-my-llm-costs-by-30-3a56)
-- [Mastering End to End testing for Reliable Modern Software](https://dev.to/alok_kumar_6b77341922cec2/mastering-end-to-end-testing-for-reliable-modern-software-2enm)
+- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
+- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
+- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
+- [Gemini CLI Best Practices](https://dev.to/proflead/gemini-cli-best-practices-3i2a)
 <!-- BLOG-POST-LIST:END -->
 
 
