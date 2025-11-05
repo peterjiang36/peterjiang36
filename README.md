@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente](https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f)
-- [Daily Artificial Intelligence Digest - Nov 05, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le)
-- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8)
-- [Angular &amp; RxJS in 2025: The Expert’s Playbook &lpar;Signals, RxJS 8, and Interop&rpar;](https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed)
+- [Building TransMonkey: Lessons Learned from Creating an AI Translation Platform](https://dev.to/charlie_s_c9de68658cfe2a/building-transmonkey-lessons-learned-from-creating-an-ai-translation-platform-466e)
+- [The Secret Life of Python: The Executor - Running Blocking Code Without Blocking](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-executor-running-blocking-code-without-blocking-2nih)
+- [The older I get, the better my code becomes](https://dev.to/dev_tips/the-older-i-get-the-better-my-code-becomes-28hd)
+- [Building Definition Bot: Thinking Simple, Building Smart](https://dev.to/raji_sherifdeenayinla_a3/building-definition-bot-thinking-simple-building-smart-5bdb)
 <!-- BLOG-POST-LIST:END -->
 
 
