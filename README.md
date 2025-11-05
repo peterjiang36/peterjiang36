@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AI Features for Modern WYSIWYG Editors](https://dev.to/froala_e3824d66439393cbce/top-10-ai-features-for-modern-wysiwyg-editors-1bho)
-- [Building PhishNet: An AI Cybersecurity Agent for Detecting Phishing Threats with Mastra](https://dev.to/yazzzzthecreator/building-phishnet-an-ai-cybersecurity-agent-for-detecting-phishing-threats-with-mastra-2nd8)
-- [Hetzner Servers Benchmarks](https://dev.to/xcs/hetzner-servers-benchmarks-28f8)
-- [Unlock clearer Rust dependency insight with dep-insight](https://dev.to/eshanized/unlock-clearer-rust-dependency-insight-with-dep-insight-16kl)
+- [How to Choose the Right Tech Stack for Your SaaS &lpar;Without Overthinking It&rpar;](https://dev.to/thekarlesi/how-to-choose-the-right-tech-stack-for-your-saas-without-overthinking-it-2g9j)
+- [Rasterizer Project - Part 4: Triceratops Wireframe](https://dev.to/noticeablesmeh/rasterizer-project-part-4-triceratops-wireframe-26d1)
+- [Securing Samba at the Global Level – Controlling the Server’s DNA](https://dev.to/sebos/securing-samba-at-the-global-level-controlling-the-servers-dna-1o8g)
+- [Best SaaS Starter Kits for 2025: Skip Setup, Start Shipping](https://dev.to/thekarlesi/best-saas-starter-kits-for-2025-skip-setup-start-shipping-4mfh)
 <!-- BLOG-POST-LIST:END -->
 
 
