@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Custom Context Menu to CanvasJS Charts on Right-Click](https://dev.to/manoj_004d/adding-a-custom-context-menu-to-canvasjs-charts-on-right-click-40k2)
-- [Software Engineering vs Data Science: A Real Talk for Students](https://dev.to/mohamed-riham/software-engineering-vs-data-science-in-2025-a-real-talk-for-students-27c8)
-- [How Self-Attention Actually Works &lpar;Simple Explanation&rpar;](https://dev.to/ajith_kumar_593bb762c09ce/how-self-attention-actually-works-simple-explanation-4086)
-- [Gemini CLI Best Practices](https://dev.to/proflead/gemini-cli-best-practices-3i2a)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-4nfc)
+- [🏗️ Full Stack Open — Modern Web Development, No Cost](https://dev.to/ml318097/full-stack-open-modern-web-development-no-cost-lfd)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1gk5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3lfo)
 <!-- BLOG-POST-LIST:END -->
 
 
