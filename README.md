@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose the Right Tech Stack for Your SaaS &lpar;Without Overthinking It&rpar;](https://dev.to/thekarlesi/how-to-choose-the-right-tech-stack-for-your-saas-without-overthinking-it-2g9j)
-- [Rasterizer Project - Part 4: Triceratops Wireframe](https://dev.to/noticeablesmeh/rasterizer-project-part-4-triceratops-wireframe-26d1)
-- [Securing Samba at the Global Level – Controlling the Server’s DNA](https://dev.to/sebos/securing-samba-at-the-global-level-controlling-the-servers-dna-1o8g)
-- [Best SaaS Starter Kits for 2025: Skip Setup, Start Shipping](https://dev.to/thekarlesi/best-saas-starter-kits-for-2025-skip-setup-start-shipping-4mfh)
+- [WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente](https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f)
+- [Daily Artificial Intelligence Digest - Nov 05, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le)
+- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8)
+- [Angular &amp; RxJS in 2025: The Expert’s Playbook &lpar;Signals, RxJS 8, and Interop&rpar;](https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed)
 <!-- BLOG-POST-LIST:END -->
 
 
