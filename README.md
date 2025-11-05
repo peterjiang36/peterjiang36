@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Access Modifiers &amp; Packages](https://dev.to/masteringbackend/java-access-modifiers-packages-51i)
-- [Begrijpen van Pod Pending States: Waarom je Pods niet plannen?](https://dev.to/shubhcloud/begrijpen-van-pod-pending-states-waarom-je-pods-niet-plannen-51b6)
-- [WTF is HashiCorp Nomad?](https://dev.to/dailybugle33/wtf-is-hashicorp-nomad-3op1)
-- [Building MeridianDB: Solving AI&#39;s Memory Crisis with Multi-Dimensional RAG](https://dev.to/araldhafeeri/building-meridiandb-solving-ais-memory-crisis-with-multi-dimensional-rag-26m5)
+- [Using Machine Learning in CAD to Detect Design Flaws Before They Become Costly](https://dev.to/alona_instandart/using-machine-learning-in-cad-to-detect-design-flaws-before-they-become-costly-3m44)
+- [Similarities Between a Stored Procedure in SQL and a Function in Python](https://dev.to/ian_mwangi/similarities-between-a-stored-procedure-in-sql-and-a-function-in-python-36hc)
+- [Structured prompts: how YAML cut my LLM costs by 30%](https://dev.to/inozem/structured-prompts-how-yaml-cut-my-llm-costs-by-30-3a56)
+- [Mastering End to End testing for Reliable Modern Software](https://dev.to/alok_kumar_6b77341922cec2/mastering-end-to-end-testing-for-reliable-modern-software-2enm)
 <!-- BLOG-POST-LIST:END -->
 
 
