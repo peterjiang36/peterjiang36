@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-4nfc)
-- [🏗️ Full Stack Open — Modern Web Development, No Cost](https://dev.to/ml318097/full-stack-open-modern-web-development-no-cost-lfd)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1gk5)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-3lfo)
+- [jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here&#39;s Why](https://dev.to/sylwia-lask/jquery-will-outlive-half-of-todays-javascript-frameworks-heres-why-2mmd)
+- [KAPLAN — Stealthy Bulk Fetching Over Tor for Red Team Ops](https://dev.to/toxy4ny/kaplan-stealthy-bulk-fetching-over-tor-for-red-team-ops-mnf)
+- [Stop Tagging Docker Images Manually | Automate Docker Tagging full guide](https://dev.to/smoothcode/stop-tagging-docker-images-manually-automate-docker-tagging-full-guide-3682)
+- [Why Most Developers Never Finish Their SaaS &lpar;And How to Fix It&rpar;](https://dev.to/thekarlesi/why-most-developers-never-finish-their-saas-and-how-to-fix-it-25f7)
 <!-- BLOG-POST-LIST:END -->
 
 
