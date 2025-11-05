@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Worshiping Benchmarks: Smarter JS Runtime Picks](https://dev.to/nicholas_fraud_27eb8640e1/stop-worshiping-benchmarks-smarter-js-runtime-picks-5a5k)
-- [🦄 When ML Models Go Wild: Unintentional Art Created by Neural Networks](https://dev.to/pracode_2503/when-ml-models-go-wild-unintentional-art-created-by-neural-networks-5ga6)
-- [From Postgres to Iceberg](https://dev.to/misachi/from-postgres-to-iceberg-g4)
-- [Why Ruby Devs Keep Mixing Up Symbols and Frozen Strings](https://dev.to/hinokami_dev/why-ruby-devs-keep-mixing-up-symbols-and-frozen-strings-3id8)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-2m2h)
+- [It&#39;s time to start measuring accuracy of data extraction with downstream systems and usability in mind, not just vanity metrics for a marketing slide](https://dev.to/drguthals/its-time-to-start-measuring-accuracy-of-data-extraction-with-downstream-systems-and-usability-in-1a2m)
 <!-- BLOG-POST-LIST:END -->
 
 
