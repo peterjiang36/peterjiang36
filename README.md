@@ -74,15 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve recently started using vim as my editor, &lpar;now vim key bindings on vscode.&rpar;
-
-For newcomers, learning vim motions might take some time, so I&#39;ve created a snake game for mastering vim motions.
-
-Here&#39;s the link : 
-https://vim-snake-navy.vercel.app](https://dev.to/masterdevsabith/ive-recently-started-using-vim-as-my-editor-now-vim-key-bindings-on-vscode-for-newcomers-h5a)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-256p)
-- [Why Paying to Learn to Code Makes You 7x More Likely to Finish](https://dev.to/blasterzm/why-paying-to-learn-to-code-makes-you-7x-more-likely-to-finish-3i65)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-acl)
+- [7 technologies qui révolutionnent le monde de la crypto au-delà du Bitcoin](https://dev.to/carlvilla/7-technologies-qui-revolutionnent-le-monde-de-la-crypto-au-dela-du-bitcoin-21c2)
+- [RestlessIDE Enters Public Beta](https://dev.to/restlessmike/restlesside-enters-public-beta-21ke)
+- [Playwright com TypeScript: Construindo um Framework de Automação &lpar;Parte 1&rpar;](https://dev.to/rodrigoobc/playwright-com-typescript-construindo-um-framework-de-automacao-parte-1-3k3h)
+- [Cron Jobs: Why They Matter for Developers](https://dev.to/suruliraajan/cron-jobs-why-they-matter-for-developers-407i)
 <!-- BLOG-POST-LIST:END -->
 
 
