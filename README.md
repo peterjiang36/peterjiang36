@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Own AI Agent — And You Can Too](https://dev.to/debs_obrien/i-built-my-own-ai-agent-and-you-can-too-56l1)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-15b7)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-52h2)
-- [Microsoft just updated their docs on container-based development environments for #msdyn365BC.](https://dev.to/jeffreybulanadi/microsoft-just-updated-their-docs-on-container-based-development-environments-for-msdyn365bc-42c8)
+- [Gemini Deep Research and the New Era of Google Workspace AI Workflows](https://dev.to/alifar/gemini-deep-research-and-the-new-era-of-google-workspace-ai-workflows-30ge)
+- [🧑‍🚀 Choosing the Right Engine to Launch Your LLM &lpar;LM Studio, Ollama, and vLLM&rpar;](https://dev.to/astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-195o)
+- [Building Sortable Tree — A Lightweight Drag &amp; Drop Tree in Vanilla TypeScript](https://dev.to/marcantondahmen/building-sortable-tree-a-lightweight-drag-drop-tree-in-vanilla-typescript-f7l)
+- [Reminder: EOL for Puppet CD 4.x and Puppet Comply 2.x](https://dev.to/puppet/reminder-eol-for-puppet-cd-4x-and-puppet-comply-2x-27h6)
 <!-- BLOG-POST-LIST:END -->
 
 
