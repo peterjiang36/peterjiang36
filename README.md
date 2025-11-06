@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Pipeline: How to Integrate AI-Powered Code Reviews with GitHub Actions](https://dev.to/picoable/supercharge-your-pipeline-how-to-integrate-ai-powered-code-reviews-with-github-actions-1d61)
-- [How to Create a Simple Automated Backup Script with Bash and rsync](https://dev.to/picoable/how-to-create-a-simple-automated-backup-script-with-bash-and-rsync-pba)
-- [Why Was Programming Created? From Passion to Financial Gain](https://dev.to/shamss98/why-was-programming-created-from-passion-to-financial-gain-3bki)
-- [Spring AI RAG, Demystified: From Toy Demos to Production-Grade Retrieval](https://dev.to/superorange0707/spring-ai-rag-demystified-from-toy-demos-to-production-grade-retrieval-1dop)
+- [Vim and I](https://dev.to/taku25/vim-and-i-254g)
+- [How to host a PHP/Laravel app on Google Cloud.](https://dev.to/wediah/how-to-host-a-phplaravel-app-on-google-cloud-2f34)
+- [Daily Artificial Intelligence Digest - Nov 06, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-06-2025-4kha)
+- [Según el Banco de México, en 2022 se identificaron casi 20 m](https://dev.to/drcarlosruizviquez/segun-el-banco-de-mexico-en-2022-se-identificaron-casi-20-m-cdo)
 <!-- BLOG-POST-LIST:END -->
 
 
