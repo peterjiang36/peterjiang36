@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
-- [🎧 The Silent Crisis: Using Speech Recognition and Sentiment AI for Real-Time Emotional Support](https://dev.to/shalinibhavi525sudo/the-silent-crisis-using-speech-recognition-and-sentiment-ai-for-real-time-emotional-support-jn1)
-- [Build an AWESOME React Portfolio Website &lpar;Coding Bootcamp&rpar;](https://dev.to/codewithsadee/build-an-awesome-react-portfolio-website-coding-bootcamp-2mi9)
-- [Automate Your AWS Cost Audits and Cut Cloud Waste](https://dev.to/santanu_das/automate-your-aws-cost-audits-and-cut-cloud-waste-4gmp)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2md0)
+- [Enterprise Data Access: Fully Automated Soft-Delete](https://dev.to/gigaherz/enterprise-data-access-fully-automated-soft-delete-a9b)
+- [Intent-Driven Assertions are Redefining How We Test Software](https://dev.to/shib_itsme/intent-driven-assertions-are-redefining-how-we-test-software-5400)
+- [HTTP/3: Evolução histórica e diferenças nas versões existentes.](https://dev.to/lsbrel/http3-evolucao-historica-e-diferencas-nas-versoes-existentes-36o9)
 <!-- BLOG-POST-LIST:END -->
 
 
