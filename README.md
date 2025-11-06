@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Defending AI Email Assistants Against Prompt Injection: A Forensic-First Framework](https://dev.to/narnaiezzsshaa/defending-ai-email-assistants-against-prompt-injection-a-forensic-first-framework-36hg)
-- [EU Cyber Resilience Act &lpar;CRA&rpar; Explained: What WP Agencies &amp; Developers Need to Know](https://dev.to/medha_bhatt_21b7dc4cc53e7/eu-cyber-resilience-act-cra-explained-what-wp-agencies-developers-need-to-know-p1l)
-- [AI in Frontend Development: Lessons from Testing Modern Design-to-Code Tools like V0, Builder.io, and Kombai](https://dev.to/prankurpandeyy/ai-in-frontend-development-lessons-from-testing-modern-design-to-code-tools-like-v0-builderio-4g2h)
-- [How Race Conditions Can Break Your System?](https://dev.to/_satria_herman/how-race-condition-will-kill-your-system-ef5)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2mo6)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4pd2)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-52b0)
+- [🌐DevOps and Cloud Project: Static Website Hosting with AWS S3 + CloudFront + CI/CD](https://dev.to/ritesh355/devops-and-cloud-project-static-website-hosting-with-aws-s3-cloudfront-cicd-5hhe)
 <!-- BLOG-POST-LIST:END -->
 
 
