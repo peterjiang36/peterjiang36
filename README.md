@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Okta to remotely authenticate to your BigQuery MCP Server](https://dev.to/stacklok/how-to-use-okta-to-remotely-authenticate-to-your-bigquery-mcp-server-5a35)
-- [🚀 Terminator SSH Manager — A Beautiful SSH Connection Plugin for Terminator](https://dev.to/daniel-duc-99/terminator-ssh-manager-a-beautiful-ssh-connection-plugin-for-terminator-38mk)
-- [Turn any of your APIs into a Kubernetes-native citizen](https://dev.to/mhmxs/turn-any-of-your-apis-into-a-kubernetes-native-citizen-1e61)
-- [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
+- [🗺️ Engineering for Emergencies: How to Build a Real-Time Disaster Route Finder with Open Source Mapping](https://dev.to/shalinibhavi525sudo/engineering-for-emergencies-how-to-build-a-real-time-disaster-route-finder-with-open-source-5ep4)
+- [🎧 The Silent Crisis: Using Speech Recognition and Sentiment AI for Real-Time Emotional Support](https://dev.to/shalinibhavi525sudo/the-silent-crisis-using-speech-recognition-and-sentiment-ai-for-real-time-emotional-support-jn1)
+- [Build an AWESOME React Portfolio Website &lpar;Coding Bootcamp&rpar;](https://dev.to/codewithsadee/build-an-awesome-react-portfolio-website-coding-bootcamp-2mi9)
+- [Automate Your AWS Cost Audits and Cut Cloud Waste](https://dev.to/santanu_das/automate-your-aws-cost-audits-and-cut-cloud-waste-4gmp)
 <!-- BLOG-POST-LIST:END -->
 
 
