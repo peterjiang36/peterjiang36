@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Terraforming: Secrets of the Pros](https://dev.to/tavernetech/effective-terraforming-secrets-of-the-pros-54a1)
-- [Laravel Log Cleaner v2.0 - Memory-Efficient Log Management with Compression &amp; Backup](https://dev.to/jiordi_kengne/laravel-log-cleaner-v20-memory-efficient-log-management-with-compression-backup-3643)
-- [Detached agent chains that work like people do](https://dev.to/antti_kaipila/detached-agent-chains-that-work-like-people-do-5h8l)
-- [Why Business Central’s Standard BOM Setup Falls Short for Complex Configurations](https://dev.to/insight_works/why-business-centrals-standard-bom-setup-falls-short-for-complex-configurations-kal)
+- [Supercharge Your Pipeline: How to Integrate AI-Powered Code Reviews with GitHub Actions](https://dev.to/picoable/supercharge-your-pipeline-how-to-integrate-ai-powered-code-reviews-with-github-actions-1d61)
+- [How to Create a Simple Automated Backup Script with Bash and rsync](https://dev.to/picoable/how-to-create-a-simple-automated-backup-script-with-bash-and-rsync-pba)
+- [Why Was Programming Created? From Passion to Financial Gain](https://dev.to/shamss98/why-was-programming-created-from-passion-to-financial-gain-3bki)
+- [Spring AI RAG, Demystified: From Toy Demos to Production-Grade Retrieval](https://dev.to/superorange0707/spring-ai-rag-demystified-from-toy-demos-to-production-grade-retrieval-1dop)
 <!-- BLOG-POST-LIST:END -->
 
 
