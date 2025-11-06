@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why SafeLine is better than traditional WAF](https://dev.to/arina_cholee/why-safeline-is-better-than-traditional-waf-505)
-- [Understanding ARM-Based Android SBCs: Why They’re Shaping the Future of Embedded Computing](https://dev.to/kevinzhang109/understanding-arm-based-android-sbcs-why-theyre-shaping-the-future-of-embedded-computing-388k)
-- [Stop Guessing: Use the Three Tiers of TPS to Improve LLM Adherence and Predictable Output](https://dev.to/teeze_solutions/stop-guessing-use-the-three-tiers-of-tps-to-improve-llm-adherence-and-predictable-output-5e3m)
-- [Beyond Anthropomorphism: Why AI Researchers Need a Latin Taxonomy for LLM Cognitive Phenomena](https://dev.to/teeze_solutions/beyond-anthropomorphism-why-ai-researchers-need-a-latin-taxonomy-for-llm-cognitive-phenomena-2foo)
+- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
+- [3607. Power Grid Maintenance](https://dev.to/mdarifulhaque/3607-power-grid-maintenance-53f3)
+- [Football Betting: Why This Platform Offers a Smarter, Safer, More Exciting Experience](https://dev.to/publish/football-betting-why-this-platform-offers-a-smarter-safer-more-exciting-experience-1bg4)
+- [Asaaju Peter Condemns Unfair Account Suspension Practices On Fiverr, Calls for Digital Rights Protection](https://dev.to/phemight_technologies_281/asaaju-peter-condemns-unfair-account-suspension-practices-on-fiverr-calls-for-digital-rights-1b1)
 <!-- BLOG-POST-LIST:END -->
 
 
