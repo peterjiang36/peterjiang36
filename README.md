@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3hmd)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4gff)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-fab)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4aip)
+- [10 Claude Skills that actually changed how I work](https://dev.to/composiodev/10-claude-skills-that-actually-changed-how-i-work-2b58)
+- [🧑‍🚀 Mission Accomplished: How an Engineer-Astronaut Prepared Meta’s CRAG Benchmark for Launch in Docker](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6)
+- [Promptcraft for Play: Endless Conversational Adventures with ChatGPT](https://dev.to/arturormk/promptcraft-for-play-endless-conversational-adventures-with-chatgpt-5dhg)
+- [DotCompute RC2 — Cross-Backend GPU Compute for .NET](https://dev.to/mivertowski/dotcompute-rc2-cross-backend-gpu-compute-for-net-4dh)
 <!-- BLOG-POST-LIST:END -->
 
 
