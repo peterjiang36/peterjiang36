@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional logic for jQuery formBuilder in 5 minutes](https://dev.to/jaimonorle/conditional-logic-for-jquery-formbuilder-in-5-minutes-2i8n)
-- [3607. Power Grid Maintenance](https://dev.to/mdarifulhaque/3607-power-grid-maintenance-53f3)
-- [Football Betting: Why This Platform Offers a Smarter, Safer, More Exciting Experience](https://dev.to/publish/football-betting-why-this-platform-offers-a-smarter-safer-more-exciting-experience-1bg4)
-- [Asaaju Peter Condemns Unfair Account Suspension Practices On Fiverr, Calls for Digital Rights Protection](https://dev.to/phemight_technologies_281/asaaju-peter-condemns-unfair-account-suspension-practices-on-fiverr-calls-for-digital-rights-1b1)
+- [The Rise of Chatbots and Conversational AI in Customer Service Development](https://dev.to/softwaredeveloper01/the-rise-of-chatbots-and-conversational-ai-in-customer-service-development-4jc)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3302)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-24la)
+- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4636)
 <!-- BLOG-POST-LIST:END -->
 
 
