@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Claude Skills that actually changed how I work](https://dev.to/composiodev/10-claude-skills-that-actually-changed-how-i-work-2b58)
-- [🧑‍🚀 Mission Accomplished: How an Engineer-Astronaut Prepared Meta’s CRAG Benchmark for Launch in Docker](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6)
-- [Promptcraft for Play: Endless Conversational Adventures with ChatGPT](https://dev.to/arturormk/promptcraft-for-play-endless-conversational-adventures-with-chatgpt-5dhg)
-- [DotCompute RC2 — Cross-Backend GPU Compute for .NET](https://dev.to/mivertowski/dotcompute-rc2-cross-backend-gpu-compute-for-net-4dh)
+- [How to use Okta to remotely authenticate to your BigQuery MCP Server](https://dev.to/stacklok/how-to-use-okta-to-remotely-authenticate-to-your-bigquery-mcp-server-5a35)
+- [🚀 Terminator SSH Manager — A Beautiful SSH Connection Plugin for Terminator](https://dev.to/daniel-duc-99/terminator-ssh-manager-a-beautiful-ssh-connection-plugin-for-terminator-38mk)
+- [Turn any of your APIs into a Kubernetes-native citizen](https://dev.to/mhmxs/turn-any-of-your-apis-into-a-kubernetes-native-citizen-1e61)
+- [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
 <!-- BLOG-POST-LIST:END -->
 
 
