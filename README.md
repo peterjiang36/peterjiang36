@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vim and I](https://dev.to/taku25/vim-and-i-254g)
-- [How to host a PHP/Laravel app on Google Cloud.](https://dev.to/wediah/how-to-host-a-phplaravel-app-on-google-cloud-2f34)
-- [Daily Artificial Intelligence Digest - Nov 06, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-06-2025-4kha)
-- [Según el Banco de México, en 2022 se identificaron casi 20 m](https://dev.to/drcarlosruizviquez/segun-el-banco-de-mexico-en-2022-se-identificaron-casi-20-m-cdo)
+- [Why SafeLine is better than traditional WAF](https://dev.to/arina_cholee/why-safeline-is-better-than-traditional-waf-505)
+- [Understanding ARM-Based Android SBCs: Why They’re Shaping the Future of Embedded Computing](https://dev.to/kevinzhang109/understanding-arm-based-android-sbcs-why-theyre-shaping-the-future-of-embedded-computing-388k)
+- [Stop Guessing: Use the Three Tiers of TPS to Improve LLM Adherence and Predictable Output](https://dev.to/teeze_solutions/stop-guessing-use-the-three-tiers-of-tps-to-improve-llm-adherence-and-predictable-output-5e3m)
+- [Beyond Anthropomorphism: Why AI Researchers Need a Latin Taxonomy for LLM Cognitive Phenomena](https://dev.to/teeze_solutions/beyond-anthropomorphism-why-ai-researchers-need-a-latin-taxonomy-for-llm-cognitive-phenomena-2foo)
 <!-- BLOG-POST-LIST:END -->
 
 
