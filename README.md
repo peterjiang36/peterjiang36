@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeckerGUI: Establishing a Hybrid AI Ecosystem for the Next Generation Workforce](https://dev.to/ctaxnagomi/deckergui-establishing-a-hybrid-ai-ecosystem-for-the-next-generation-workforce-1gbk)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-32b8)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-i85)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1218)
+- [Letting the ducks fly: How we’re switching from Redux to React Query](https://dev.to/wecasa/letting-the-ducks-fly-how-were-switching-from-redux-to-react-query-559c)
+- [Vibecoding and the future of code security](https://dev.to/epilogueteam/vibecoding-and-the-future-of-code-security-nbp)
+- [N8N Installation And Configuration](https://dev.to/sudlo2014/n8n-installation-and-configuration-4k00)
+- [if you are still using static keys in your github actions pipeline to access AWS. then you need to read this to fix your workflows](https://dev.to/tobilobaogundiyan/if-you-are-still-using-static-keys-in-your-github-actions-pipeline-to-access-aws-then-you-need-to-ood)
 <!-- BLOG-POST-LIST:END -->
 
 
