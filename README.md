@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: Guillermo del Toro’s ‘Frankenstein’ is Here. Is it Good?](https://dev.to/popcorn_movies/ringer-movies-guillermo-del-toros-frankenstein-is-here-is-it-good-73b)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-7oc)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-48kn)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-1lg2)
+- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
+- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
+- [Build Content Like an Engineer: Systems, Signals, and Checks That Earn Trust](https://dev.to/sonia_bobrik_1939cdddd79d/build-content-like-an-engineer-systems-signals-and-checks-that-earn-trust-3pb3)
+- [How Airline Group Fares Really Work: The Business &amp; Tech Behind &#39;TBA&#39; Passenger Names](https://dev.to/aman_kumar_bdd40f1b711c15/how-airline-group-fares-really-work-the-business-tech-behind-tba-passenger-names-4mo9)
 <!-- BLOG-POST-LIST:END -->
 
 
