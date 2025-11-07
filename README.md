@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FastMinify - Free Client-Side JS/CSS Minifier](https://dev.to/fioul/fastminify-free-client-side-jscss-minifier-2o87)
-- [Mastering CSS Container Queries: Break Free from Viewport Tyranny 👨‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-css-container-queries-break-free-from-viewport-tyranny-2lgo)
-- [First steps with Caddy](https://dev.to/migsarnavarro/first-steps-with-caddy-3bmc)
-- [Storing LLM Context the Laravel Way: EloquentChatHistory in Neuron AI](https://dev.to/inspector/storing-llm-context-the-laravel-way-eloquentchathistory-in-neuron-ai-545e)
+- [PowerBuilder - Custom window for DW properties](https://dev.to/vjonnagadla/powerbuilder-custom-window-for-dw-properties-2dee)
+- [Tailwind CSS Won the War... But We&#39;re the Losers](https://dev.to/elvissautet/tailwind-css-won-the-war-but-were-the-losers-4877)
+- [MCUboot: Bootup Journey](https://dev.to/ripan030/mcuboot-bootup-journey-315m)
+- [Designing smarter caches with Valkey 9.0&#39;s numbered databases](https://dev.to/allenheltondev/designing-smarter-caches-with-valkey-90s-numbered-databases-4d18)
 <!-- BLOG-POST-LIST:END -->
 
 
