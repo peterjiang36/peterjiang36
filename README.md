@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
-- [Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢](https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh)
-- [Untitled](https://dev.to/conrado_arellanobernabe_/untitled-491f)
-- [AI-Powered AWS CloudWatch Alarm Triage Terraform Module](https://dev.to/wayneworkman/ai-powered-aws-cloudwatch-alarm-triage-terraform-module-ac1)
+- [JavaScript Made Easy: Your First Step into Web Development](https://dev.to/suraj_kumar_fb57ae0928df2/javascript-made-easy-your-first-step-into-web-development-1dk2)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039)
+- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-2pea)
 <!-- BLOG-POST-LIST:END -->
 
 
