@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Proven Lead Generation Frameworks Used by Top B2B SaaS Companies](https://dev.to/aayush_sharma_8eb92ed6bbf/5-proven-lead-generation-frameworks-used-by-top-b2b-saas-companies-5hgn)
-- [URL Shortener Using Snowflake IDs and Base62 Encoding](https://dev.to/speaklouder/url-shortener-using-snowflake-ids-and-base62-encoding-4179)
-- [CSS STYLES](https://dev.to/suma_suma/css-styles-2o23)
-- [Debugging Consent: Common Pitfalls in CMP Implementation](https://dev.to/mehwish_malik_4f29ff7fb04/debugging-consent-common-pitfalls-in-cmp-implementation-4hd4)
+- [Mastering Logging in Python](https://dev.to/devasservice/mastering-logging-in-python-5e53)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2mh1)
+- [“Reactive Forms Are Just as Good.” Okay, Watch This.](https://dev.to/brianmtreese/reactive-forms-are-just-as-good-okay-watch-this-3925)
+- [We built an AI Agent on Tiger Cloud](https://dev.to/lin_liang_7f755b0dc2fe65b/we-built-an-ai-agent-on-tiger-cloud-c5b)
 <!-- BLOG-POST-LIST:END -->
 
 
