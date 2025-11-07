@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-3eo8)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-4h9k)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2k05)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-25m9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
+- [Facade Pattern — Catalog of Enterprise Application Architecture Patterns 🏢](https://dev.to/sebastianfuentesavalos/facade-pattern-catalog-of-enterprise-application-architecture-patterns-chh)
+- [Untitled](https://dev.to/conrado_arellanobernabe_/untitled-491f)
+- [AI-Powered AWS CloudWatch Alarm Triage Terraform Module](https://dev.to/wayneworkman/ai-powered-aws-cloudwatch-alarm-triage-terraform-module-ac1)
 <!-- BLOG-POST-LIST:END -->
 
 
