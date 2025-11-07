@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Development Guide: Implementing User Personalized Settings Storage with Preferences](https://dev.to/harmonyos/harmonyos-development-guide-implementing-user-personalized-settings-storage-with-preferences-1ij4)
-- [How to Set Up Config Auto Sync](https://dev.to/arina_cholee/how-to-set-up-config-auto-sync-ool)
-- [🚀 Kubernetes Explained — What It Is, Why It’s Used, and How It Differs from Docker](https://dev.to/kynu4055/kubernetes-explained-what-it-is-why-its-used-and-how-it-differs-from-docker-591m)
-- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/arina_cholee/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-1gdd)
+- [How to Map Technical Requirements in IT Project Management](https://dev.to/taskford/how-to-map-technical-requirements-in-it-project-management-2oj1)
+- [“ChatGPT Navigation Using Default Keyboard Shortcuts &lpar;No Extensions Needed&rpar;”](https://dev.to/sureshsaragadam/chatgpt-navigation-using-default-keyboard-shortcuts-no-extensions-needed-1kfj)
+- [Repository Pattern in Golang: A Practical Guide](https://dev.to/team3/repository-pattern-in-golang-a-practical-guide-1kla)
+- [How I Overlooked the Problem and Shot Myself in the Foot](https://dev.to/aws-builders/how-i-overlooked-the-problem-and-shot-myself-in-the-foot-2ok8)
 <!-- BLOG-POST-LIST:END -->
 
 
