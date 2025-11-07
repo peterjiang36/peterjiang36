@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond SemanticDependency Constraints](https://dev.to/paperium/imagerysearch-adaptive-test-time-search-for-video-generation-beyond-semanticdependency-constraints-4c78)
-- [Top 10 AI Prompts That Helped Me Automate My DevOps Workflows](https://dev.to/harman_diaz/top-10-ai-prompts-that-helped-me-automate-my-devops-workflows-2934)
-- [How to Scale Analytics When You’re Tracking Billions of Events Without Exploding Cost](https://dev.to/pambrus/how-to-scale-analytics-when-youre-tracking-billions-of-events-without-exploding-cost-3c08)
-- [I Sent 1,000 Cold Emails. Here&#39;s Why 950 Failed &lpar;And How AI Fixed It&rpar;](https://dev.to/ng_zixuan_99b5a15db5490e/i-sent-1000-cold-emails-heres-why-950-failed-and-how-ai-fixed-it-432)
+- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
+- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
+- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
+- [Swift Concurrency: Part 2](https://dev.to/nv3212/swift-concurrency-part-2-4cob)
 <!-- BLOG-POST-LIST:END -->
 
 
