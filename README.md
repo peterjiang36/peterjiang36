@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Capabilities by Region](https://dev.to/aws-builders/aws-capabilities-by-region-3ffb)
-- [Nah, the Umbraco Community Hasn&#39;t Lost It&#39;s Spark - We Have](https://dev.to/nanokernel/nah-the-umbraco-community-hasnt-lost-its-spark-we-have-1lj9)
-- [Criei um Micro SaaS de Fala em Inglês em Duas Semanas — com R$ 40,00](https://dev.to/lvsouzadev/criei-um-micro-saas-de-fala-em-ingles-em-duas-semanas-com-r-4000-43g0)
-- [Getting Started with Kubernetes: A Complete Guide](https://dev.to/instadevops/getting-started-with-kubernetes-a-complete-guide-16g8)
+- [AI Development Maturity Model](https://dev.to/ggondim/ai-development-maturity-model-4i47)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-55a8)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-21jj)
+- [I need a Co - developer based in ABUJA NIGERIA, quick to respond, creative, friendly, and quick to catch my webdev vision please. 
+No AWOL
+No unfriendliness 
+No excuses
+Just team work and excellent delivery](https://dev.to/olamide_oluwadipe_b9f0f74/i-need-a-co-developers-based-in-abuja-nigeria-quick-to-respond-creative-friendly-and-quick-to-mdf)
 <!-- BLOG-POST-LIST:END -->
 
 
