@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mikeydorje/-1bk7)
-- [Indie Artists File Class-Action Lawsuit Against Generative AI Music Companies](https://dev.to/mikeydorje/indie-artists-file-class-action-lawsuit-against-generative-ai-music-companies-2k5b)
-- [The Extraordinary Mundane: Your Life, Levelled Up!](https://dev.to/homeweaver/the-extraordinary-mundane-your-life-levelled-up-3gd6)
-- [Cybersecurity Weekly #7: How AI Is Boosting Threat Detection for Freelancers &amp; Small Businesses in 2025](https://dev.to/cyber8080/cybersecurity-weekly-7-how-ai-is-boosting-threat-detection-for-freelancers-small-businesses-in-3g7e)
+- [Building Test Suite for &quot;repo-contextr&quot; using &quot;pytest&quot;](https://dev.to/dharam_ghevariya_0d946c37/building-test-suite-for-repo-contextr-using-pytest-4757)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-1np7)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-14g9)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-11i3)
 <!-- BLOG-POST-LIST:END -->
 
 
