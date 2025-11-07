@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Repetitive Code to Clean Architecture: How the Decorator Pattern Simplified Activity Logging by 70%](https://dev.to/digvijayjadhav98/from-repetitive-code-to-clean-architecture-how-the-decorator-pattern-simplified-activity-logging-1kb3)
-- [from nothing to something](https://dev.to/johngabriel-bit/from-nothing-to-something-4lcp)
-- [The Real AI Bubble Isn’t in Models. It’s in Your Frontend](https://dev.to/hashbyt/the-real-ai-bubble-isnt-in-models-its-in-your-frontend-5cn9)
-- [Swift Concurrency: Part 2](https://dev.to/nv3212/swift-concurrency-part-2-4cob)
+- [Ringer Movies: Guillermo del Toro’s ‘Frankenstein’ is Here. Is it Good?](https://dev.to/popcorn_movies/ringer-movies-guillermo-del-toros-frankenstein-is-here-is-it-good-73b)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-7oc)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-48kn)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-1lg2)
 <!-- BLOG-POST-LIST:END -->
 
 
