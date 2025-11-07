@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Development Maturity Model](https://dev.to/ggondim/ai-development-maturity-model-4i47)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-55a8)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-21jj)
-- [I need a Co - developer based in ABUJA NIGERIA, quick to respond, creative, friendly, and quick to catch my webdev vision please. 
-No AWOL
-No unfriendliness 
-No excuses
-Just team work and excellent delivery](https://dev.to/olamide_oluwadipe_b9f0f74/i-need-a-co-developers-based-in-abuja-nigeria-quick-to-respond-creative-friendly-and-quick-to-mdf)
+- [Adding Unit Tests to repo-context-packager](https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o)
+- [Qartographer: Quantum Chip Design... Reimagined!](https://dev.to/aydosul/qartographer-quantum-chip-design-reimagined-c2i)
+- [Modeling Epidemic Spread on Large Graphs Using CUDA](https://dev.to/timurname/modeling-epidemic-spread-on-large-graphs-using-cuda-32a6)
+- [Building Eventra: My First Hackathon Journey with Hedera The Challenge](https://dev.to/wurldguy/building-eventra-my-first-hackathon-journey-with-hedera-the-challenge-592b)
 <!-- BLOG-POST-LIST:END -->
 
 
