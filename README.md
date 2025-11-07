@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an HTTP Server from TCP Sockets: 250 4,000 RPS](https://dev.to/uthman_dev/building-an-http-server-from-tcp-sockets-250-4000-rps-2m93)
-- [How To Create A macOS 26 Tahoe USB Installation Drive](https://dev.to/dev_neil_a/how-to-create-a-macos-26-tahoe-usb-installation-drive-3fnj)
-- [Build Content Like an Engineer: Systems, Signals, and Checks That Earn Trust](https://dev.to/sonia_bobrik_1939cdddd79d/build-content-like-an-engineer-systems-signals-and-checks-that-earn-trust-3pb3)
-- [How Airline Group Fares Really Work: The Business &amp; Tech Behind &#39;TBA&#39; Passenger Names](https://dev.to/aman_kumar_bdd40f1b711c15/how-airline-group-fares-really-work-the-business-tech-behind-tba-passenger-names-4mo9)
+- [Developing and AI](https://dev.to/gold_roger/developing-and-ai-1ca2)
+- [Java regionMatches&lpar;&rpar; Explained: Your Go-To Guide for Smart String Comparison](https://dev.to/satyam_gupta_0d1ff2152dcc/java-regionmatches-explained-your-go-to-guide-for-smart-string-comparison-1f9)
+- [Launching Formgrid: Open-Source, Privacy-Friendly Form Submission Service](https://dev.to/allenarduino/launching-formgrid-open-source-privacy-friendly-form-submission-service-fdi)
+- [Forked A/B Index Optimizer: Making Database Optimization Accessible to Everyone](https://dev.to/hulyamasharipov/forked-ab-index-optimizer-making-database-optimization-accessible-to-everyone-3641)
 <!-- BLOG-POST-LIST:END -->
 
 
