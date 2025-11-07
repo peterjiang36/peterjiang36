@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Halloween Town Explorer — A Perfect Landing with a Playable 3D Pumpkin Hunt](https://dev.to/charmpic/halloween-town-explorer-a-perfect-landing-with-a-playable-3d-pumpkin-hunt-4mpd)
-- [Achieving Idempotency with the Inbox Pattern](https://dev.to/actor-dev/inbox-pattern-51af)
-- [Garantindo Idempotência com o Padrão Inbox](https://dev.to/actor-dev/garantindo-idempotencia-com-o-padrao-inbox-id1)
-- [Composition vs Inheritance — The Practical Guide Every Developer Should Know](https://dev.to/parthkamal/composition-vs-inheritance-the-practical-guide-every-developer-should-know-3ie)
+- [ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond SemanticDependency Constraints](https://dev.to/paperium/imagerysearch-adaptive-test-time-search-for-video-generation-beyond-semanticdependency-constraints-4c78)
+- [Top 10 AI Prompts That Helped Me Automate My DevOps Workflows](https://dev.to/harman_diaz/top-10-ai-prompts-that-helped-me-automate-my-devops-workflows-2934)
+- [How to Scale Analytics When You’re Tracking Billions of Events Without Exploding Cost](https://dev.to/pambrus/how-to-scale-analytics-when-youre-tracking-billions-of-events-without-exploding-cost-3c08)
+- [I Sent 1,000 Cold Emails. Here&#39;s Why 950 Failed &lpar;And How AI Fixed It&rpar;](https://dev.to/ng_zixuan_99b5a15db5490e/i-sent-1000-cold-emails-heres-why-950-failed-and-how-ai-fixed-it-432)
 <!-- BLOG-POST-LIST:END -->
 
 
