@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Unit Tests to repo-context-packager](https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o)
-- [Qartographer: Quantum Chip Design... Reimagined!](https://dev.to/aydosul/qartographer-quantum-chip-design-reimagined-c2i)
-- [Modeling Epidemic Spread on Large Graphs Using CUDA](https://dev.to/timurname/modeling-epidemic-spread-on-large-graphs-using-cuda-32a6)
-- [Building Eventra: My First Hackathon Journey with Hedera The Challenge](https://dev.to/wurldguy/building-eventra-my-first-hackathon-journey-with-hedera-the-challenge-592b)
+- [HarmonyOS Development Guide: Implementing User Personalized Settings Storage with Preferences](https://dev.to/harmonyos/harmonyos-development-guide-implementing-user-personalized-settings-storage-with-preferences-1ij4)
+- [How to Set Up Config Auto Sync](https://dev.to/arina_cholee/how-to-set-up-config-auto-sync-ool)
+- [🚀 Kubernetes Explained — What It Is, Why It’s Used, and How It Differs from Docker](https://dev.to/kynu4055/kubernetes-explained-what-it-is-why-its-used-and-how-it-differs-from-docker-591m)
+- [How to Configure SafeLine WAF to Correctly Obtain the Source IP](https://dev.to/arina_cholee/how-to-configure-safeline-waf-to-correctly-obtain-the-source-ip-1gdd)
 <!-- BLOG-POST-LIST:END -->
 
 
