@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Journal: This week&#39;s progress](https://dev.to/brendon_oneill__/dev-journal-this-weeks-progress-4ae8)
-- [Why I&#39;m Ditching My Smart Home &lpar;And You Should Too&rpar;](https://dev.to/nadim_ch0wdhury/why-im-ditching-my-smart-home-and-you-should-too-35o9)
-- [Truthful Engineering: How to Build Products People Actually Trust](https://dev.to/sonia_bobrik_1939cdddd79d/truthful-engineering-how-to-build-products-people-actually-trust-3mee)
-- [Waterfall Methodology AI: The Smart Evolution of Traditional Project Management](https://dev.to/writegenic/waterfall-methodology-ai-the-smart-evolution-of-traditional-project-management-3j4b)
+- [FastMinify - Free Client-Side JS/CSS Minifier](https://dev.to/fioul/fastminify-free-client-side-jscss-minifier-2o87)
+- [Mastering CSS Container Queries: Break Free from Viewport Tyranny 👨‍💻](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-css-container-queries-break-free-from-viewport-tyranny-2lgo)
+- [First steps with Caddy](https://dev.to/migsarnavarro/first-steps-with-caddy-3bmc)
+- [Storing LLM Context the Laravel Way: EloquentChatHistory in Neuron AI](https://dev.to/inspector/storing-llm-context-the-laravel-way-eloquentchathistory-in-neuron-ai-545e)
 <!-- BLOG-POST-LIST:END -->
 
 
