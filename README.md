@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure Maintenance Windows for Window and Linux by Using AWS Systems Manager](https://dev.to/thukhakyawe_cloud/how-to-configure-maintenance-windows-for-window-and-linux-by-using-aws-systems-manager-l2m)
-- [Unlocking AI Monetization: How Developers Can Earn with Dual Revenue Streams](https://dev.to/monetzly/unlocking-ai-monetization-how-developers-can-earn-with-dual-revenue-streams-3p0m)
-- [Les nouveaux systèmes de génération IA créative : entre automatisation et précision visuelle](https://dev.to/face_swap_ia_tech/les-nouveaux-systemes-de-generation-ia-creative-entre-automatisation-et-precision-visuelle-1o53)
-- [[Boost]](https://dev.to/windmateus/-ifj)
+- [Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery](https://dev.to/odinkemelu_innocent_3b2f5/building-security-by-design-my-aws-project-showcasing-vpc-nat-gateway-and-private-networking-2la9)
+- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
+- [I’m Aniruddha Adak](https://dev.to/aniruddhaadak/im-aniruddha-adak-op8)
+- [OSD600 Lab 7: Testing](https://dev.to/david_rivera_8d845b35931e/osd600-lab-7-testing-4d5j)
 <!-- BLOG-POST-LIST:END -->
 
 
