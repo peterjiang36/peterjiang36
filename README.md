@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Security by Design: My AWS Project Showcasing VPC, NAT Gateway, and Private Networking Mastery](https://dev.to/odinkemelu_innocent_3b2f5/building-security-by-design-my-aws-project-showcasing-vpc-nat-gateway-and-private-networking-2la9)
-- [I’m Aniruddha Adak, And This Is My YouWare Addiction: 27 Apps In 45 Days &lpar;All Built With Zero Code&rpar;](https://dev.to/aniruddhaadak/im-aniruddha-adak-and-this-is-my-youware-addiction-27-apps-in-45-days-all-built-with-zero-code-c0f)
-- [I’m Aniruddha Adak](https://dev.to/aniruddhaadak/im-aniruddha-adak-op8)
-- [OSD600 Lab 7: Testing](https://dev.to/david_rivera_8d845b35931e/osd600-lab-7-testing-4d5j)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj)
+- [Scenario 1: Deploy a simple NGINX Pod and expose it via a ClusterIP Service in Kubernetes](https://dev.to/latchudevops/scenario-1-deploy-a-simple-nginx-pod-and-expose-it-via-a-clusterip-service-219g)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-51ap)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4pd6)
 <!-- BLOG-POST-LIST:END -->
 
 
