@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5e)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-195c)
-- [More Than Skills: The Human Traits That Build Great Teams](https://dev.to/dobrenteiistvan/more-than-skills-the-human-traits-that-build-great-teams-1bfm)
-- [Nugget iOS - I tried this on my iPhone](https://dev.to/mactechschool/nugget-ios-i-tried-this-on-my-iphone-415b)
+- [Creating Java Streams](https://dev.to/priyankbhardwaj1199/creating-java-streams-1727)
+- [How to Build a Bookstore App with FARM Stack &lpar;FastAPI, React, and MongoDB&rpar;](https://dev.to/masteringbackend/how-to-build-a-bookstore-app-with-farm-stack-fastapi-react-and-mongodb-544j)
+- [Getting started with SQLite using C#/Microsoft Visual Studio](https://dev.to/strangequark/getting-started-with-sqlite-using-cmicrosoft-visual-studio-226p)
+- [Harnessing the Power of Elementor Countdown Widgets: Drive Urgency and Conversions on WordPress](https://dev.to/artarasaneh2025/harnessing-the-power-of-elementor-countdown-widgets-drive-urgency-and-conversions-on-wordpress-29oi)
 <!-- BLOG-POST-LIST:END -->
 
 
