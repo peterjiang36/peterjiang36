@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyshade Debugging: Mastering Workspace Role Tests and API Repair](https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6)
-- [LLMs Whispering Secrets: Vector Translation for AI Communication](https://dev.to/arvind_sundararajan/llms-whispering-secrets-vector-translation-for-ai-communication-2lb9)
-- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
-- [Unlock Dual Revenue Streams: Monetizing LLM Apps with AI-Driven Advertising](https://dev.to/monetzly/unlock-dual-revenue-streams-monetizing-llm-apps-with-ai-driven-advertising-1d1b)
+- [Why it&#39;s time to ditch UUIDv4 and switch to UUIDv7!](https://dev.to/pierre/why-its-time-to-ditch-uuidv4-and-switch-to-uuidv7-2078)
+- [From Manual Testing to AI Agents: A 90-Day Transformation Roadmap](https://dev.to/qa-leaders/from-manual-testing-to-ai-agents-a-90-day-transformation-roadmap-46l1)
+- [role and permission package for Laravel 11/12](https://dev.to/saeedvir/role-and-permission-package-for-laravel-1112-2gcn)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4f1e)
 <!-- BLOG-POST-LIST:END -->
 
 
