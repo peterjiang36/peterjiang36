@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-164k)
-- [I want to share the API I&#39;m using, since it&#39;s hosted on CFWork.](https://dev.to/chinese-tingfeng/i-want-to-share-the-api-im-using-since-its-hosted-on-cfwork-1k8p)
-- [How to install n8n locally on Windows](https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a)
+- [How to Setup Raspberry Pi Camera Module 3 on Ubuntu 24.04](https://dev.to/minindu_pasan_8f0e03c1063/how-to-setup-raspberry-pi-camera-module-3-on-ubuntu-2404-4pme)
+- [Building an Event-Driven Architecture on AWS Using EventBridge and SNS for EC2 State Notifications](https://dev.to/marviecodes/building-an-event-driven-architecture-on-aws-using-eventbridge-and-sns-for-ec2-state-notifications-4jmn)
+- [Introducing TOON for Laravel — A Smarter, Token-Efficient Way to Talk to AI](https://dev.to/sbsaga/introducing-toon-for-laravel-a-smarter-token-efficient-way-to-talk-to-ai-36a3)
+- [Linear and Canary releases in AWS ECS](https://dev.to/ahmedadel/linear-and-canary-releases-in-aws-ecs-fhk)
 <!-- BLOG-POST-LIST:END -->
 
 
