@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DataDog Interview Experience | Full Review from Coding to System Design](https://dev.to/net_programhelp_e160eef28/datadog-interview-experience-full-review-from-coding-to-system-design-2572)
-- [Rust Traits and Generics: Build Flexible Code Without Runtime Overhead](https://dev.to/aaravjoshi/rust-traits-and-generics-build-flexible-code-without-runtime-overhead-3o1n)
-- [🫱🏾‍🫲 Quality Experience: How to Introduce QA Practices to Your Organization](https://dev.to/jmosley/quality-experience-how-to-introduce-qa-practices-to-your-organization-1dg9)
-- [The 5 Steps of Threat Modeling in a Startup](https://dev.to/ccscaesar/the-5-steps-of-threat-modeling-in-a-startup-9e)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-435a)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2hfp)
+- [EnvSecOps: What It Actually Is &lpar;And Why DevSecOps Won&#39;t Cut It&rpar;](https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh)
+- [Building a Serverless Image Processing Pipeline on AWS with Terraform](https://dev.to/copubah/building-a-serverless-image-processing-pipeline-on-aws-with-terraform-1fec)
 <!-- BLOG-POST-LIST:END -->
 
 
