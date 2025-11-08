@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to M3U8 &amp; Resource Sharing](https://dev.to/winter-tengjingshu/introduction-to-m3u8-resource-sharing-o6f)
-- [What is Selenium? Why Do We Use Selenium for Automation? What is the Relevance of Selenium in Automation Testing Using Python?](https://dev.to/boobalan_rk_bce450f873037/what-is-selenium-why-do-we-use-selenium-for-automation-what-is-the-relevance-of-selenium-in-409o)
-- [How We Built a Feature-Rich, Developer-Friendly QR Code Platform](https://dev.to/mementor/how-we-built-a-feature-rich-developer-friendly-qr-code-platform-1iga)
-- [Module_0.0: The Cloud Computing Introduction: Similarities and Differences Between Traditional IT Infrastructures.](https://dev.to/giridharan_devops/module00-the-cloud-computing-introduction-similarities-and-differences-between-traditional-it-hap)
+- [Building Your First MCP Server: A Practical Guide](https://dev.to/raghavajoijode/building-your-first-mcp-server-a-practical-guide-2gd3)
+- [WTF is Streaming Data Integration?](https://dev.to/dailybugle33/wtf-is-streaming-data-integration-51od)
+- [💬 Real-Time Magic: How to Build Live Chat Applications with WebSockets and Socket.io](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-magic-how-to-build-live-chat-applications-with-websockets-and-socketio-4o32)
+- [The file system rabbit hole: Building FSWatcher in Go](https://dev.to/asoseil/the-file-system-rabbit-hole-building-fswatcher-in-go-136o)
 <!-- BLOG-POST-LIST:END -->
 
 
