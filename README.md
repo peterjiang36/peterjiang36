@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud SQL: x86 N2 vs ARM C4A](https://dev.to/dkechag/google-cloud-sql-x86-n2-vs-arm-c4a-4cga)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-38on)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-15e4)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-h8f)
+- [Keyshade Debugging: Mastering Workspace Role Tests and API Repair](https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6)
+- [LLMs Whispering Secrets: Vector Translation for AI Communication](https://dev.to/arvind_sundararajan/llms-whispering-secrets-vector-translation-for-ai-communication-2lb9)
+- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69)
+- [Unlock Dual Revenue Streams: Monetizing LLM Apps with AI-Driven Advertising](https://dev.to/monetzly/unlock-dual-revenue-streams-monetizing-llm-apps-with-ai-driven-advertising-1d1b)
 <!-- BLOG-POST-LIST:END -->
 
 
