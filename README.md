@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SSLCommerz works with frontend, backend, and database](https://dev.to/arfan_hosenovi_10c1a1e52/sslcommerz-works-with-frontend-backend-and-database-4df8)
-- [What I Learned Building a Knowledge Graph for AI Agents](https://dev.to/trentbrew/what-i-learned-building-a-knowledge-graph-for-ai-agents-3e65)
-- [Vitest HTML Report](https://dev.to/whyang9701/vitest-html-report-333o)
-- [Building an AI News Digest Agent with Mastra and Telex.im](https://dev.to/ursulaonyi/building-an-ai-news-digest-agent-with-mastra-and-telexim-3p1h)
+- [Google Cloud SQL: x86 N2 vs ARM C4A](https://dev.to/dkechag/google-cloud-sql-x86-n2-vs-arm-c4a-4cga)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-38on)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - &#39;Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-15e4)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-h8f)
 <!-- BLOG-POST-LIST:END -->
 
 
