@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First MCP Server: A Practical Guide](https://dev.to/raghavajoijode/building-your-first-mcp-server-a-practical-guide-2gd3)
-- [WTF is Streaming Data Integration?](https://dev.to/dailybugle33/wtf-is-streaming-data-integration-51od)
-- [💬 Real-Time Magic: How to Build Live Chat Applications with WebSockets and Socket.io](https://dev.to/okoye_ndidiamaka_5e3b7d30/real-time-magic-how-to-build-live-chat-applications-with-websockets-and-socketio-4o32)
-- [The file system rabbit hole: Building FSWatcher in Go](https://dev.to/asoseil/the-file-system-rabbit-hole-building-fswatcher-in-go-136o)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-p5e)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-195c)
+- [More Than Skills: The Human Traits That Build Great Teams](https://dev.to/dobrenteiistvan/more-than-skills-the-human-traits-that-build-great-teams-1bfm)
+- [Nugget iOS - I tried this on my iPhone](https://dev.to/mactechschool/nugget-ios-i-tried-this-on-my-iphone-415b)
 <!-- BLOG-POST-LIST:END -->
 
 
