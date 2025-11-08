@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-15fk)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-41n5)
-- [🌳 Difference Between HashSet and TreeSet in Java](https://dev.to/realnamehidden1_61/difference-between-hashset-and-treeset-in-java-324l)
-- [Compute Wars: Google’s TPU Push vs Nvidia Blackwell and China’s No‑Sell Moment](https://dev.to/0xrelogic/compute-wars-googles-tpu-push-vs-nvidia-blackwell-and-chinas-no-sell-moment-1g2p)
+- [DataDog Interview Experience | Full Review from Coding to System Design](https://dev.to/net_programhelp_e160eef28/datadog-interview-experience-full-review-from-coding-to-system-design-2572)
+- [Rust Traits and Generics: Build Flexible Code Without Runtime Overhead](https://dev.to/aaravjoshi/rust-traits-and-generics-build-flexible-code-without-runtime-overhead-3o1n)
+- [🫱🏾‍🫲 Quality Experience: How to Introduce QA Practices to Your Organization](https://dev.to/jmosley/quality-experience-how-to-introduce-qa-practices-to-your-organization-1dg9)
+- [The 5 Steps of Threat Modeling in a Startup](https://dev.to/ccscaesar/the-5-steps-of-threat-modeling-in-a-startup-9e)
 <!-- BLOG-POST-LIST:END -->
 
 
