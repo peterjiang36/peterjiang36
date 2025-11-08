@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why it&#39;s time to ditch UUIDv4 and switch to UUIDv7!](https://dev.to/pierre/why-its-time-to-ditch-uuidv4-and-switch-to-uuidv7-2078)
-- [From Manual Testing to AI Agents: A 90-Day Transformation Roadmap](https://dev.to/qa-leaders/from-manual-testing-to-ai-agents-a-90-day-transformation-roadmap-46l1)
-- [role and permission package for Laravel 11/12](https://dev.to/saeedvir/role-and-permission-package-for-laravel-1112-2gcn)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4f1e)
+- [SafeMigrate: Never Fear Database Migrations Again with AI Agents](https://dev.to/depapp/safemigrate-never-fear-database-migrations-again-with-ai-agents-2aon)
+- [Build A Watch Option for TypeScript Runtime in Rust](https://dev.to/whyang9701/build-a-watch-option-for-typescript-runtime-in-rust-1if1)
+- [The JVM’s Greatest Irony: Brilliant Engineering, Painful Scripting](https://dev.to/anand_jaisy_2f7644a12001b/scripting-in-java-nightmare-2pnj)
+- [Writing and running End-to-End Tests in Autotools](https://dev.to/pauljlucas/writing-and-running-end-to-end-tests-in-autotools-1fm7)
 <!-- BLOG-POST-LIST:END -->
 
 
