@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-435a)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2hfp)
-- [EnvSecOps: What It Actually Is &lpar;And Why DevSecOps Won&#39;t Cut It&rpar;](https://dev.to/jl03/envsecops-what-it-actually-is-and-why-devsecops-wont-cut-it-43nh)
-- [Building a Serverless Image Processing Pipeline on AWS with Terraform](https://dev.to/copubah/building-a-serverless-image-processing-pipeline-on-aws-with-terraform-1fec)
+- [Documentation Debt](https://dev.to/priyanshi_naghera/documentation-debt-3d10)
+- [Interfacing with Wasm from Kotlin](https://dev.to/charlietap/interfacing-with-wasm-from-kotlin-2k2c)
+- [I Built an Open-Source SDK to Use Any LLM Provider. Get Started in 2 Minutes.](https://dev.to/undiluted7027/i-built-an-open-source-sdk-to-use-any-llm-provider-get-started-in-2-minutes-3nhg)
+- [Dev Log 36 - Mythic Pause](https://dev.to/asx/dev-log-36-mythic-pause-4apk)
 <!-- BLOG-POST-LIST:END -->
 
 
