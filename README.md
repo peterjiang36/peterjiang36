@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-1hc5)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-48a1)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c5m)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-53fo)
+- [Virtualization — Architecture Series: Part 3](https://dev.to/usman_awan/virtualization-architecture-series-part-3-38bb)
+- [Why Zig is cool and I&#39;m jumping ship to Ziglang](https://dev.to/pmbanugo/why-zig-is-cool-and-im-jumping-ship-to-ziglang-176o)
+- [Ziglang is so cool: Why I&#39;m Going All-In on Zig](https://dev.to/pmbanugo/ziglang-is-so-cool-why-im-going-all-in-on-zig-1nf9)
+- [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel ViewSynthesis](https://dev.to/paperium/scas4d-structural-cascaded-optimization-for-boosting-persistent-4d-novel-viewsynthesis-47ok)
 <!-- BLOG-POST-LIST:END -->
 
 
