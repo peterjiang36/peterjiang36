@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet SkillHunt - a Career Platform for Developers](https://dev.to/m_midas/meet-skillhunt-a-career-platform-for-developers-1eab)
-- [iOS 26.2 Beta is Here: What Devs Need to Know](https://dev.to/arshtechpro/ios-262-beta-is-here-what-devs-need-to-know-1dpn)
-- [Feature Flag Overrides: The Feature Nobody Builds Until They Need It](https://dev.to/arunlakshman/feature-flag-overrides-the-feature-nobody-builds-until-they-need-it-4c9h)
-- [🌟](https://dev.to/thebitforge/-3f95)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-gg9)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-164k)
+- [I want to share the API I&#39;m using, since it&#39;s hosted on CFWork.](https://dev.to/chinese-tingfeng/i-want-to-share-the-api-im-using-since-its-hosted-on-cfwork-1k8p)
+- [How to install n8n locally on Windows](https://dev.to/hbetabessi/how-to-install-n8n-locally-on-windows-306a)
 <!-- BLOG-POST-LIST:END -->
 
 
