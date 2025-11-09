@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4e1c)
-- [Best no-code app builders for startups](https://dev.to/mattwagner/best-no-code-app-builders-for-startups-1k5e)
-- [From Vibe Coder to Vibe Architect: Evolving from Implementation to Strategy](https://dev.to/node/from-vibe-coder-to-vibe-architect-evolving-from-implementation-to-strategy-3nnk)
+- [🎯 Scenario #8 — Deploy a ReplicaSet and Verify Self-Healing of Pods in Kubernetes](https://dev.to/latchudevops/scenario-8-deploy-a-replicaset-and-verify-self-healing-of-pods-in-kubernetes-4n96)
+- [Choosing the correct IaC tool](https://dev.to/kaustubhyerkade/choosing-the-correct-iac-tool-p57)
+- [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
+- [90-Day Proven Post-Quantum TLS Readiness Sprint](https://dev.to/pentest_testing_corp/90-day-proven-post-quantum-tls-readiness-sprint-575i)
 <!-- BLOG-POST-LIST:END -->
 
 
