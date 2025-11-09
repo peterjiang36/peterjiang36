@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/sujitha_selvaraj_af5010c5/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-3g18)
-- [Building a Terminal Calculator That Actually Does Logic: Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
-- [Boost Productivity in Your BPO with AI Voice Agents](https://dev.to/alex_shulyak_dec2b4bf11f9/boost-productivity-in-your-bpo-with-ai-voice-agents-26dp)
-- [AI and Visual Sentiment Prediction: Understanding Emotions Beyond Words](https://dev.to/epd_ksa_f97d6892562645d8b/ai-and-visual-sentiment-prediction-understanding-emotions-beyond-words-2946)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4fhf)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2h4n)
+- [Lexical scope in JavaScript](https://dev.to/beo_dan_4b44e99852f48ddb3/lexical-scope-in-javascript-5559)
+- [How We Solve Problems &lpar;And How Agents Should Too&rpar;](https://dev.to/dinindu_suriyamudali_e604/how-we-solve-problems-and-how-agents-should-too-ce2)
 <!-- BLOG-POST-LIST:END -->
 
 
