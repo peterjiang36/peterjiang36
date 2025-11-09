@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Adventure Games for Mobile and Cross-Device Play](https://dev.to/gamh5games/optimizing-adventure-games-for-mobile-and-cross-device-play-48n8)
-- [2169. Count Operations to Obtain Zero](https://dev.to/mdarifulhaque/2169-count-operations-to-obtain-zero-26nk)
-- [A Practical Guide to LCD Surface Treatments: AG, AR, AF, and UV Protection](https://dev.to/jasonliu112/a-practical-guide-to-lcd-surface-treatments-ag-ar-af-and-uv-protection-2l8b)
-- [A^2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning](https://dev.to/paperium/a2fm-an-adaptive-agent-foundation-model-for-tool-aware-hybrid-reasoning-269o)
+- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
+- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
+- [Interpolate a Video from the First and Last Frames with Veo 3.1 and Nano Banana](https://dev.to/railsstudent/interpolate-a-video-from-the-first-and-last-frames-with-veo-31-and-nano-banana-5121)
+- [Application of API Testing Frameworks in Java Introduction](https://dev.to/nicole_lucianarioscohai/application-of-api-testing-frameworks-in-java-introduction-40g6)
 <!-- BLOG-POST-LIST:END -->
 
 
