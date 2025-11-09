@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: Summing categories](https://dev.to/david_kershaw_b6916404da6/sql-summing-categories-57pp)
-- [🔥 JavaScript Interview Series&lpar;15&rpar;: Inside the JavaScript Engine: V8 &amp; SpiderMonkey Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series15-inside-the-javascript-engine-v8-spidermonkey-explained-1f6c)
-- [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://dev.to/paperium/morphobench-a-benchmark-with-difficulty-adaptive-to-model-reasoning-2lmi)
-- [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
+- [Optimizing Adventure Games for Mobile and Cross-Device Play](https://dev.to/gamh5games/optimizing-adventure-games-for-mobile-and-cross-device-play-48n8)
+- [2169. Count Operations to Obtain Zero](https://dev.to/mdarifulhaque/2169-count-operations-to-obtain-zero-26nk)
+- [A Practical Guide to LCD Surface Treatments: AG, AR, AF, and UV Protection](https://dev.to/jasonliu112/a-practical-guide-to-lcd-surface-treatments-ag-ar-af-and-uv-protection-2l8b)
+- [A^2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning](https://dev.to/paperium/a2fm-an-adaptive-agent-foundation-model-for-tool-aware-hybrid-reasoning-269o)
 <!-- BLOG-POST-LIST:END -->
 
 
