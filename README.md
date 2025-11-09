@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4b98)
-- [Shifting Gears: What TDD Taught Me About Using AI Assistants](https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc)
-- [The Code of Life: What Python&#39;s Data Structures Teach Us About Growth](https://dev.to/sreeni5018/the-code-of-life-what-pythons-data-structures-teach-us-about-growth-2oaf)
-- [Easy Lua Scripts for Roblox Games in 2025?](https://dev.to/nigelsilonero/easy-lua-scripts-for-roblox-games-in-2025-1oo6)
+- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
+- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-3o06)
+- [CSS HALLOWEEN ART - by STEFAN DONOSA](https://dev.to/stefan_donosa141714/css-halloween-art-by-stefan-donosa-597c)
+- [Local RAG with Go, Ollama, and Postgres &lpar;pgvector&rpar;: a minimal guide](https://dev.to/francesco_ciannavei_801e8/local-rag-with-go-ollama-and-postgres-pgvector-a-minimal-guide-3d8d)
 <!-- BLOG-POST-LIST:END -->
 
 
