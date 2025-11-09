@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Immutable Releases Enhance Supply Chain Security for Open Source](https://dev.to/stelixx-insider/github-immutable-releases-enhance-supply-chain-security-for-open-source-2i5p)
-- [TelUI leaves prototype purpose, now for making UIs!](https://dev.to/eotterbeep/telui-leaves-prototype-purpose-now-for-making-uis-24k6)
-- [My first small Project Website.](https://dev.to/didzis_skujevskis_c83d708/my-first-small-project-website-i3c)
-- [Unlocking Cellular Secrets: Precision Alignment for Multi-Stain Bioimages by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-cellular-secrets-precision-alignment-for-multi-stain-bioimages-by-arvind-sundararajan-438l)
+- [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
+- [Fine-Tune Access, Visibility, and Security](https://dev.to/sebos/fine-tune-access-visibility-and-security-1798)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-218b)
+- [MindsEye Agentic — Time-Labeled Cognitive Events on Tiger Cloud](https://dev.to/peacebinflow/mindseye-agentic-time-labeled-cognitive-events-on-tiger-cloud-2dib)
 <!-- BLOG-POST-LIST:END -->
 
 
