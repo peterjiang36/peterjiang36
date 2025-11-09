@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Storage, Multiple Flutter Mobile Apps](https://dev.to/adolesamuel/single-storage-multiple-flutter-mobile-apps-50ha)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2hp6)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-9hl)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1oi5)
+- [GitHub Immutable Releases Enhance Supply Chain Security for Open Source](https://dev.to/stelixx-insider/github-immutable-releases-enhance-supply-chain-security-for-open-source-2i5p)
+- [TelUI leaves prototype purpose, now for making UIs!](https://dev.to/eotterbeep/telui-leaves-prototype-purpose-now-for-making-uis-24k6)
+- [My first small Project Website.](https://dev.to/didzis_skujevskis_c83d708/my-first-small-project-website-i3c)
+- [Unlocking Cellular Secrets: Precision Alignment for Multi-Stain Bioimages by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-cellular-secrets-precision-alignment-for-multi-stain-bioimages-by-arvind-sundararajan-438l)
 <!-- BLOG-POST-LIST:END -->
 
 
