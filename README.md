@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-8a8)
-- [Choosing Between ML-KEM and ML-DSA for Your Post-Quantum Migration [Part 2]](https://dev.to/abraham_arellanotavara_7/choosing-between-ml-kem-and-ml-dsa-for-your-post-quantum-migration-part-2-4dip)
-- [Building an AI-Powered Interactive Storytelling App with Google Cloud Run](https://dev.to/attahj/building-an-ai-powered-interactive-storytelling-app-with-google-cloud-run-ocl)
-- [Why I Check Every Ticket Before Writing Code &lpar;And You Should Too&rpar;](https://dev.to/tlorent/why-i-check-every-ticket-before-writing-code-and-you-should-too-2f29)
+- [Monads in Haskell](https://dev.to/bekbrace/monads-in-haskell-1p8i)
+- [🎃 Halloween Night: A 3D WebGL Spooktacular Landing Page](https://dev.to/minal_prasad_f335e02dfb29/halloween-night-a-3d-webgl-spooktacular-landing-page-5bn0)
+- [Handling Smart Contract Errors in Equillar. From Rust to PHP](https://dev.to/icolomina/handling-smart-contract-errors-in-equillar-from-rust-to-php-3k7o)
+- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
 <!-- BLOG-POST-LIST:END -->
 
 
