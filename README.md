@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Scenario #8 — Deploy a ReplicaSet and Verify Self-Healing of Pods in Kubernetes](https://dev.to/latchudevops/scenario-8-deploy-a-replicaset-and-verify-self-healing-of-pods-in-kubernetes-4n96)
-- [Choosing the correct IaC tool](https://dev.to/kaustubhyerkade/choosing-the-correct-iac-tool-p57)
-- [Building a Unique Developer Portfolio](https://dev.to/adrahi/building-a-unique-developer-portfolio-2b9a)
-- [90-Day Proven Post-Quantum TLS Readiness Sprint](https://dev.to/pentest_testing_corp/90-day-proven-post-quantum-tls-readiness-sprint-575i)
+- [Python Web Frameworks: Crafting the Future of Web Development](https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5)
+- [🚀 Building a Job Search Agent with Mastra, Google Gemini, and A2A Protocol](https://dev.to/ojugo007/building-a-job-search-agent-with-mastra-google-gemini-and-a2a-protocol-1gc1)
+- [🎯 Scenario #10 — Use kubectl diff to Preview Changes Before Applying in Kubernetes](https://dev.to/latchudevops/scenario-10-use-kubectl-diff-to-preview-changes-before-applying-in-kubernetes-jh4)
+- [The Hidden Cost of Outdated Maps: Why Your Connected Car&#39;s Software is Only as Good as its Geospatial Data](https://dev.to/gpsnavigationmaps_eu/the-hidden-cost-of-outdated-maps-why-your-connected-cars-software-is-only-as-good-as-its-527n)
 <!-- BLOG-POST-LIST:END -->
 
 
