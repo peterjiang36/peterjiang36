@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
-- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
-- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
-- [How to understand large typescript codebase](https://dev.to/vkassingh/how-to-understand-large-typescript-codebase-3e9c)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2aa)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4e1c)
+- [Best no-code app builders for startups](https://dev.to/mattwagner/best-no-code-app-builders-for-startups-1k5e)
+- [From Vibe Coder to Vibe Architect: Evolving from Implementation to Strategy](https://dev.to/node/from-vibe-coder-to-vibe-architect-evolving-from-implementation-to-strategy-3nnk)
 <!-- BLOG-POST-LIST:END -->
 
 
