@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c32)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-4hob)
-- [The Human Margin](https://dev.to/rawveg/the-human-margin-409h)
-- [Demystifying Confluent&#39;s Schema Registry Wire Format](https://dev.to/stevenjdh/demystifying-confluents-schema-registry-wire-format-5465)
+- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/sujitha_selvaraj_af5010c5/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-3g18)
+- [Building a Terminal Calculator That Actually Does Logic: Axion](https://dev.to/uthman_dev/building-a-terminal-calculator-that-actually-does-logic-axion-1p0m)
+- [Boost Productivity in Your BPO with AI Voice Agents](https://dev.to/alex_shulyak_dec2b4bf11f9/boost-productivity-in-your-bpo-with-ai-voice-agents-26dp)
+- [AI and Visual Sentiment Prediction: Understanding Emotions Beyond Words](https://dev.to/epd_ksa_f97d6892562645d8b/ai-and-visual-sentiment-prediction-understanding-emotions-beyond-words-2946)
 <!-- BLOG-POST-LIST:END -->
 
 
