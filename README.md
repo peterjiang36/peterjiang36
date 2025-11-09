@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-kpc)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-bhi)
-- [Revisiting Java: Building a Simple Functional Calculator](https://dev.to/phouchens/revisiting-java-building-a-simple-functional-calculator-dkd)
-- [Celestmere Institute of Enchantment: Frontend Challenge - Halloween Edition](https://dev.to/misiekroz/celestmere-institute-of-enchantment-frontend-challenge-halloween-edition-2c50)
+- [الشبح اللي فـ الماكينة ديالك](https://dev.to/zakariaessaoudy/-lshbh-lly-f-lmkyn-dylk-imf)
+- [[Boost]](https://dev.to/m_midas/-5dd5)
+- [Theater Alpha - The Rewind Update](https://dev.to/terrillo/theater-alpha-the-rewind-update-10ji)
+- [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
 <!-- BLOG-POST-LIST:END -->
 
 
