@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4fhf)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2h4n)
-- [Lexical scope in JavaScript](https://dev.to/beo_dan_4b44e99852f48ddb3/lexical-scope-in-javascript-5559)
-- [How We Solve Problems &lpar;And How Agents Should Too&rpar;](https://dev.to/dinindu_suriyamudali_e604/how-we-solve-problems-and-how-agents-should-too-ce2)
+- [🌟](https://dev.to/thebitforge/-43jn)
+- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
+- [&#39;이 언어&#39;로 코딩테스트 준비하는 취업준비생... 심장병 확률 44%⬆](https://dev.to/algoorgoal/i-eoneoro-kodingteseuteu-junbihaneun-cwieobjunbisaeng-simjangbyeong-hwagryul-44-4mmo)
+- [Building a Lightweight Camunda Monitoring Dashboard: From Enterprise Pain to Open Source Solution](https://dev.to/dmitriy_champa_d458cfc7/building-a-lightweight-camunda-monitoring-dashboard-from-enterprise-pain-to-open-source-solution-2ik4)
 <!-- BLOG-POST-LIST:END -->
 
 
