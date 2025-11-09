@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Web Frameworks: Crafting the Future of Web Development](https://dev.to/vjnvisakh/python-web-frameworks-crafting-the-future-of-web-development-1bi5)
-- [🚀 Building a Job Search Agent with Mastra, Google Gemini, and A2A Protocol](https://dev.to/ojugo007/building-a-job-search-agent-with-mastra-google-gemini-and-a2a-protocol-1gc1)
-- [🎯 Scenario #10 — Use kubectl diff to Preview Changes Before Applying in Kubernetes](https://dev.to/latchudevops/scenario-10-use-kubectl-diff-to-preview-changes-before-applying-in-kubernetes-jh4)
-- [The Hidden Cost of Outdated Maps: Why Your Connected Car&#39;s Software is Only as Good as its Geospatial Data](https://dev.to/gpsnavigationmaps_eu/the-hidden-cost-of-outdated-maps-why-your-connected-cars-software-is-only-as-good-as-its-527n)
+- [apimock-rs features: external interfaces and ipv6 support](https://dev.to/nabbisen/apimock-rs-features-external-interfaces-and-ipv6-support-59j5)
+- [GNSS Fix with RTL-SDR &lpar;in Linux!&rpar;](https://dev.to/patatez/gnss-fix-with-rtl-sdr-in-linux-224d)
+- [A free and production-ready event sourcing database engine: Meet Genesis DB CE](https://dev.to/patriceckhart/a-free-and-production-ready-event-sourcing-database-engine-meet-genesis-db-ce-2nk8)
+- [The Real AI Startup Stack: $33M Valuations, $1.2K OpenAI Bills](https://dev.to/dev_tips/the-real-ai-startup-stack-33m-valuations-12k-openai-bills-4j1i)
 <!-- BLOG-POST-LIST:END -->
 
 
