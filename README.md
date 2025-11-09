@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Agent-to-Agent &lpar;A2A&rpar; Communication Protocol on AWS](https://dev.to/suraj_khaitan_f893c243958/building-a-scalable-agent-to-agent-a2a-communication-protocol-on-aws-1g0i)
-- [Scenario #2: Multi-container Pod &lpar;Sidecar pattern&rpar; for logging in Kubernetes](https://dev.to/latchudevops/scenario-2-multi-container-pod-sidecar-pattern-for-logging-in-kubernetes-3mj4)
-- [Interpolate a Video from the First and Last Frames with Veo 3.1 and Nano Banana](https://dev.to/railsstudent/interpolate-a-video-from-the-first-and-last-frames-with-veo-31-and-nano-banana-5121)
-- [Application of API Testing Frameworks in Java Introduction](https://dev.to/nicole_lucianarioscohai/application-of-api-testing-frameworks-in-java-introduction-40g6)
+- [Accelerating LLM Inference: How C++, ONNX, and llama.cpp Power Efficient AI](https://dev.to/dharaneesh_dev/accelerating-llm-inference-how-c-onnx-and-llamacpp-power-efficient-ai-a2j)
+- [SCAR: A High-Trust Operating System for AI Coding Assistants &lpar;Stop Package Hallucinations in Your Repo&rpar;](https://dev.to/deviprasadshetty/scar-a-high-trust-operating-system-for-ai-coding-assistants-stop-package-hallucinations-in-your-2g81)
+- [✅ Scenario #3: Debugging a Running Container in Kubernetes](https://dev.to/latchudevops/scenario-3-debugging-a-running-container-in-kubernetes-2044)
+- [A Production-Ready Laravel Architecture with Traefik and FrankenPHP](https://dev.to/danielpetrica/a-production-ready-laravel-architecture-with-traefik-and-frankenphp-1led)
 <!-- BLOG-POST-LIST:END -->
 
 
