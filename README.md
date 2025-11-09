@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating LLM Inference: How C++, ONNX, and llama.cpp Power Efficient AI](https://dev.to/dharaneesh_dev/accelerating-llm-inference-how-c-onnx-and-llamacpp-power-efficient-ai-a2j)
-- [SCAR: A High-Trust Operating System for AI Coding Assistants &lpar;Stop Package Hallucinations in Your Repo&rpar;](https://dev.to/deviprasadshetty/scar-a-high-trust-operating-system-for-ai-coding-assistants-stop-package-hallucinations-in-your-2g81)
-- [✅ Scenario #3: Debugging a Running Container in Kubernetes](https://dev.to/latchudevops/scenario-3-debugging-a-running-container-in-kubernetes-2044)
-- [A Production-Ready Laravel Architecture with Traefik and FrankenPHP](https://dev.to/danielpetrica/a-production-ready-laravel-architecture-with-traefik-and-frankenphp-1led)
+- [🚀 The Solo Developer&#39;s Choice: Why I Migrated My Backend from Go to Elixir/Phoenix](https://dev.to/asyncnavi/the-solo-developers-choice-why-i-migrated-my-backend-from-go-to-elixirphoenix-3jf7)
+- [⭐ Scenario #5: Configure Environment Variables from ConfigMap in a Pod](https://dev.to/latchudevops/scenario-5-configure-environment-variables-from-configmap-in-a-pod-577h)
+- [TLS For AI Agents? No. Wristbands For The Idiots In Line](https://dev.to/jl03/tls-for-ai-agents-no-wristbands-for-the-idiots-in-line-2cpo)
+- [How to understand large typescript codebase](https://dev.to/vkassingh/how-to-understand-large-typescript-codebase-3e9c)
 <!-- BLOG-POST-LIST:END -->
 
 
