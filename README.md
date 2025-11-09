@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟](https://dev.to/thebitforge/-43jn)
-- [🧠 Circuit Breaker Patterns in Go Microservices](https://dev.to/serifcolakel/circuit-breaker-patterns-in-go-microservices-n3)
-- [&#39;이 언어&#39;로 코딩테스트 준비하는 취업준비생... 심장병 확률 44%⬆](https://dev.to/algoorgoal/i-eoneoro-kodingteseuteu-junbihaneun-cwieobjunbisaeng-simjangbyeong-hwagryul-44-4mmo)
-- [Building a Lightweight Camunda Monitoring Dashboard: From Enterprise Pain to Open Source Solution](https://dev.to/dmitriy_champa_d458cfc7/building-a-lightweight-camunda-monitoring-dashboard-from-enterprise-pain-to-open-source-solution-2ik4)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-8a8)
+- [Choosing Between ML-KEM and ML-DSA for Your Post-Quantum Migration [Part 2]](https://dev.to/abraham_arellanotavara_7/choosing-between-ml-kem-and-ml-dsa-for-your-post-quantum-migration-part-2-4dip)
+- [Building an AI-Powered Interactive Storytelling App with Google Cloud Run](https://dev.to/attahj/building-an-ai-powered-interactive-storytelling-app-with-google-cloud-run-ocl)
+- [Why I Check Every Ticket Before Writing Code &lpar;And You Should Too&rpar;](https://dev.to/tlorent/why-i-check-every-ticket-before-writing-code-and-you-should-too-2f29)
 <!-- BLOG-POST-LIST:END -->
 
 
