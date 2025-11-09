@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [الشبح اللي فـ الماكينة ديالك](https://dev.to/zakariaessaoudy/-lshbh-lly-f-lmkyn-dylk-imf)
-- [[Boost]](https://dev.to/m_midas/-5dd5)
-- [Theater Alpha - The Rewind Update](https://dev.to/terrillo/theater-alpha-the-rewind-update-10ji)
-- [Your SSR Isn’t Fast — Hydration Is Dragging It Down](https://dev.to/byte-sized-news/your-ssr-isnt-fast-hydration-is-dragging-it-down-4437)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4b98)
+- [Shifting Gears: What TDD Taught Me About Using AI Assistants](https://dev.to/trev_the_dev/shifting-gears-what-tdd-taught-me-about-using-ai-assistants-kcc)
+- [The Code of Life: What Python&#39;s Data Structures Teach Us About Growth](https://dev.to/sreeni5018/the-code-of-life-what-pythons-data-structures-teach-us-about-growth-2oaf)
+- [Easy Lua Scripts for Roblox Games in 2025?](https://dev.to/nigelsilonero/easy-lua-scripts-for-roblox-games-in-2025-1oo6)
 <!-- BLOG-POST-LIST:END -->
 
 
