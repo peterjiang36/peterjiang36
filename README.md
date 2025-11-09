@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL: Summing categories](https://dev.to/david_kershaw_b6916404da6/sql-summing-categories-57pp)
+- [🔥 JavaScript Interview Series&lpar;15&rpar;: Inside the JavaScript Engine: V8 &amp; SpiderMonkey Explained](https://dev.to/jackm_345442a09fb53b/javascript-interview-series15-inside-the-javascript-engine-v8-spidermonkey-explained-1f6c)
+- [MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning](https://dev.to/paperium/morphobench-a-benchmark-with-difficulty-adaptive-to-model-reasoning-2lmi)
 - [The New YINI Homepage Is Live — A Modern, Human-Friendly Config Format](https://dev.to/marko_kseppnen_6250a7f/the-yini-homepage-is-live-a-modern-human-friendly-config-format-28al)
-- [Fine-Tune Access, Visibility, and Security](https://dev.to/sebos/fine-tune-access-visibility-and-security-1798)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-218b)
-- [MindsEye Agentic — Time-Labeled Cognitive Events on Tiger Cloud](https://dev.to/peacebinflow/mindseye-agentic-time-labeled-cognitive-events-on-tiger-cloud-2dib)
 <!-- BLOG-POST-LIST:END -->
 
 
