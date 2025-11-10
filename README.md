@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
-- [Intro to Clean Architecture in Android. Example with independent features.](https://dev.to/mardsoul/intro-to-clean-architecture-in-android-example-with-independent-features-bkg)
-- [Testing While Developing &lpar;Part 5&rpar;: Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
-- [Testing While Developing &lpar;Part 4&rpar;: Running Tests in CI](https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op)
+- [An alt-SAGA Pattern for Microservices](https://dev.to/mapteb/an-alt-saga-pattern-for-microservices-2o6b)
+- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
+- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
+- [Glyph: Scaling Context Windows via Visual-Text Compression](https://dev.to/paperium/glyph-scaling-context-windows-via-visual-text-compression-bjc)
 <!-- BLOG-POST-LIST:END -->
 
 
