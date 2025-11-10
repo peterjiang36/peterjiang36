@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf)
-- [The Domestic Turn of Information Warfare: When Democracies Target Their Own Minds](https://dev.to/mrvenom17/the-domestic-turn-of-information-warfare-when-democracies-target-their-own-minds-2gbd)
-- [Hacktoberfest 2025](https://dev.to/whyang9701/hacktoberfest-2025-n3k)
-- [Week 8: Routing, Lazy Loading and more in React!🎨](https://dev.to/nikhilsharma6/week-8-routing-lazy-loading-and-more-in-react-466l)
+- [The Great AWS Outage: The $11 Billion Argument for Kubernetes](https://dev.to/signadot/the-great-aws-outage-the-11-billion-argument-for-kubernetes-5dod)
+- [Is AI Coming for Your Dev Job? The Truth About Code, Creativity, and Career Survival](https://dev.to/blogai/is-ai-coming-for-your-dev-job-the-truth-about-code-creativity-and-career-survival-3l1f)
+- [Understanding Kafka Consumer Lag: Causes, Risks, and How to Fix It](https://dev.to/eric_kahindi_cfbfda3bd0f7/understanding-kafka-consumer-lag-causes-risks-and-how-to-fix-it-33e0)
+- [How Machines See: The Power of Computer Vision in AI &lpar;Explained for Developers&rpar;](https://dev.to/zestminds_technologies_c1/how-machines-see-the-power-of-computer-vision-in-ai-explained-for-developers-2jei)
 <!-- BLOG-POST-LIST:END -->
 
 
