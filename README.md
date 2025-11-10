@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile-First Portal Design: Why It’s Crucial](https://dev.to/kamal_deeppareek_f5bb5d8/mobile-first-portal-design-why-its-crucial-h1p)
-- [1.Create Key Pair Using Terraform by KodeKloud](https://dev.to/thukhakyawe_cloud/1create-key-pair-using-terraform-29ae)
-- [🧱 “Optimizing Angular Apps for Performance — Real Techniques That Work”](https://dev.to/mridudixit15/optimizing-angular-apps-for-performance-real-techniques-that-work-1606)
-- [Automated Appointment Reminder with Voice call and SMS using n8n](https://dev.to/sabbschow/automated-appointment-reminder-with-voice-call-and-sms-using-n8n-10bi)
+- [SQLite Tips - Retrieve Database Metadata](https://dev.to/hungle00/sqlite-tips-retrieve-metadata-2dad)
+- [Fedora 42 Backup script for MongoDB database](https://dev.to/sven_krmer_6f8a15646f686/fedora-42-backup-script-for-mongodb-database-2b73)
+- [GPT-5.1 spotted: What is it like and when is it coming out](https://dev.to/_37bbf0c253c0b3edec531e/gpt-51-spotted-what-is-it-like-and-when-is-it-coming-out-2a3g)
+- [Tableau Data Connectivity: From Sheets to Web Data Connectors](https://dev.to/dipti_m_2e7ba36c478d1a48a/tableau-data-connectivity-from-sheets-to-web-data-connectors-42hj)
 <!-- BLOG-POST-LIST:END -->
 
 
