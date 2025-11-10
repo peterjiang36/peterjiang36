@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Install and use the Microsoft Learn MCP server in VS Code](https://dev.to/omiossec/install-the-microsoft-learn-mcp-server-in-vs-code-265k)
-- [The story of Nnipa, the African business CRM](https://dev.to/aberba/the-story-of-nnipa-the-african-business-crm-m52)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1d5p)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3jjj)
+- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
+- [Personal Responsibility for Sustainability: Building a Greener Future through Individual Action](https://dev.to/bushra_23062_889499abfc6e/personal-responsibility-for-sustainability-building-a-greener-future-through-individual-action-2ca4)
+- [Searching Algorithms Part 1: Binary Search and the Art of Cutting the Search Space](https://dev.to/picciniuscodes/searching-algorithms-part-1-binary-search-and-the-art-of-cutting-the-search-space-2n08)
+- [Code Sharing: The Unsung Hero of Developer Communities and Web Innovation](https://dev.to/buysellshop/code-sharing-the-unsung-hero-of-developer-communities-and-web-innovation-dm)
 <!-- BLOG-POST-LIST:END -->
 
 
