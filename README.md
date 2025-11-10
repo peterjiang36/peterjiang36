@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TIA - Programming a Light Controller State Machine](https://dev.to/calumk/tia-programming-a-light-controller-state-machine-2g4l)
-- [NDC Conferences: &quot;Would YOU Survive the Titanic?&quot;, with ML and .NET - Simon Painter - NDC Copenhagen 2025](https://dev.to/scale_youtube/ndc-conferences-would-you-survive-the-titanic-with-ml-and-net-simon-painter-ndc-3o06)
-- [CSS HALLOWEEN ART - by STEFAN DONOSA](https://dev.to/stefan_donosa141714/css-halloween-art-by-stefan-donosa-597c)
-- [Local RAG with Go, Ollama, and Postgres &lpar;pgvector&rpar;: a minimal guide](https://dev.to/francesco_ciannavei_801e8/local-rag-with-go-ollama-and-postgres-pgvector-a-minimal-guide-3d8d)
+- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh)
+- [Intro to Clean Architecture in Android. Example with independent features.](https://dev.to/mardsoul/intro-to-clean-architecture-in-android-example-with-independent-features-bkg)
+- [Testing While Developing &lpar;Part 5&rpar;: Collecting Coverage](https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom)
+- [Testing While Developing &lpar;Part 4&rpar;: Running Tests in CI](https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op)
 <!-- BLOG-POST-LIST:END -->
 
 
