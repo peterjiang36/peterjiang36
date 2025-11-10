@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Synthetic Data Generator: From Concept to Reality](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
-- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
-- [Role-Based Authorization for Rails: How We Built Rabarber](https://dev.to/enjaku4/role-based-authorization-for-rails-how-we-built-rabarber-ahi)
-- [Understanding Flexbox: A Beginner’s Journey to Perfect CSS Alignment](https://dev.to/shubhradev/understanding-flexbox-a-beginners-journey-to-perfect-css-alignment-h1a)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-40f5)
+- [How to Build Production-Ready RAG Systems &lpar;at Scale, with Low Latency &amp; High Accuracy&rpar;](https://dev.to/qlooptech/how-to-build-production-ready-rag-systems-at-scale-with-low-latency-high-accuracy-819)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4efd)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-11il)
 <!-- BLOG-POST-LIST:END -->
 
 
