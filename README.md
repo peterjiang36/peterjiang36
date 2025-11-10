@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Tips - Retrieve Database Metadata](https://dev.to/hungle00/sqlite-tips-retrieve-metadata-2dad)
-- [Fedora 42 Backup script for MongoDB database](https://dev.to/sven_krmer_6f8a15646f686/fedora-42-backup-script-for-mongodb-database-2b73)
-- [GPT-5.1 spotted: What is it like and when is it coming out](https://dev.to/_37bbf0c253c0b3edec531e/gpt-51-spotted-what-is-it-like-and-when-is-it-coming-out-2a3g)
-- [Tableau Data Connectivity: From Sheets to Web Data Connectors](https://dev.to/dipti_m_2e7ba36c478d1a48a/tableau-data-connectivity-from-sheets-to-web-data-connectors-42hj)
+- [Building a Synthetic Data Generator: From Concept to Reality](https://dev.to/oliver_samuel_028c6f65ad6/building-a-synthetic-data-generator-from-concept-to-reality-63m)
+- [Integrating Pagy with Hanami &lpar;2025 edition&rpar;](https://dev.to/katafrakt/integrating-pagy-with-hanami-2025-edition-20f2)
+- [Role-Based Authorization for Rails: How We Built Rabarber](https://dev.to/enjaku4/role-based-authorization-for-rails-how-we-built-rabarber-ahi)
+- [Understanding Flexbox: A Beginner’s Journey to Perfect CSS Alignment](https://dev.to/shubhradev/understanding-flexbox-a-beginners-journey-to-perfect-css-alignment-h1a)
 <!-- BLOG-POST-LIST:END -->
 
 
