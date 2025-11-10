@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug a NestJS application in WebStorm](https://dev.to/pantpapasavvas/debug-a-nestjs-application-in-webstorm-5990)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2abm)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-11n2)
-- [Fundamental Rewrite of the WebFormsJS Library in WebForms Core 2](https://dev.to/elanatframework/fundamental-rewrite-of-the-webformsjs-library-in-webforms-core-2-1d4o)
+- [Create a Text Editor in Go - Moving the Cursor](https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk)
+- [11 AWS Security Best Practices You Must Implement Now](https://dev.to/kevinasutton/11-aws-security-best-practices-you-must-implement-now-iok)
+- [How to Configure NGINX, and Host Your Local Website on Ubuntu Installed on VMware](https://dev.to/jic/how-to-configure-nginx-and-host-your-local-website-on-ubuntu-installed-on-vmware-pi6)
+- [The Opportunity Card Germany - My First-Hand Experience and Complete Guide](https://dev.to/luca1iu/the-opportunity-card-germany-my-first-hand-experience-and-complete-guide-4i5l)
 <!-- BLOG-POST-LIST:END -->
 
 
