@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-40f5)
-- [How to Build Production-Ready RAG Systems &lpar;at Scale, with Low Latency &amp; High Accuracy&rpar;](https://dev.to/qlooptech/how-to-build-production-ready-rag-systems-at-scale-with-low-latency-high-accuracy-819)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4efd)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-11il)
+- [Cursor Composer 1 vs SWE 1.5 What Surprised Me Most After Testing Both](https://dev.to/composiodev/cursor-composer-1-vs-swe-15-what-surprised-me-most-after-testing-both-25gh)
+- [OpenTelemetry Docker Monitoring with Collector and Docker Stats](https://dev.to/uptrace/opentelemetry-docker-monitoring-with-collector-and-docker-stats-17b1)
+- [Django OpenTelemetry Instrumentation Guide](https://dev.to/uptrace/django-opentelemetry-instrumentation-guide-kgf)
+- [OpenTelemetry database sql [otelsql]](https://dev.to/uptrace/opentelemetry-database-sql-otelsql-4oke)
 <!-- BLOG-POST-LIST:END -->
 
 
