@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Composer 1 vs SWE 1.5 What Surprised Me Most After Testing Both](https://dev.to/composiodev/cursor-composer-1-vs-swe-15-what-surprised-me-most-after-testing-both-25gh)
-- [OpenTelemetry Docker Monitoring with Collector and Docker Stats](https://dev.to/uptrace/opentelemetry-docker-monitoring-with-collector-and-docker-stats-17b1)
-- [Django OpenTelemetry Instrumentation Guide](https://dev.to/uptrace/django-opentelemetry-instrumentation-guide-kgf)
-- [OpenTelemetry database sql [otelsql]](https://dev.to/uptrace/opentelemetry-database-sql-otelsql-4oke)
+- [Guide To Leverage The Built-in Barcode Scanners on Android PDAs with Flutter](https://dev.to/michaelchiew08/guide-to-leverage-the-built-in-barcode-scanners-on-android-pdas-with-flutter-15d8)
+- [OpenMicrofrontends Specification Released](https://dev.to/nonblocking/openmicrofrontends-specification-released-3oh6)
+- [OutcomeOps: The Operating Model for Engineers Who Own the Outcome](https://dev.to/brian_c_d9f4c2cf20a5ee57d/outcomeops-the-operating-model-for-engineers-who-own-the-outcome-4ldp)
+- [How to Think About Games: Godot](https://dev.to/opbright/how-to-think-about-games-godot-2jan)
 <!-- BLOG-POST-LIST:END -->
 
 
