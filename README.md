@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3)
-- [I Built Convodb So You Can Talk to Your Database &lpar;And It Talks Back With 4 AI Agents&rpar;](https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3bek)
-- [Complete Guide: Installing Docker and Docker Compose Step by Step](https://dev.to/kingyou/complete-guide-installing-docker-and-docker-compose-step-by-step-24e1)
+- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
+- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
+- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
+- [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
 <!-- BLOG-POST-LIST:END -->
 
 
