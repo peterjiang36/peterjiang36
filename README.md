@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide To Leverage The Built-in Barcode Scanners on Android PDAs with Flutter](https://dev.to/michaelchiew08/guide-to-leverage-the-built-in-barcode-scanners-on-android-pdas-with-flutter-15d8)
-- [OpenMicrofrontends Specification Released](https://dev.to/nonblocking/openmicrofrontends-specification-released-3oh6)
-- [OutcomeOps: The Operating Model for Engineers Who Own the Outcome](https://dev.to/brian_c_d9f4c2cf20a5ee57d/outcomeops-the-operating-model-for-engineers-who-own-the-outcome-4ldp)
-- [How to Think About Games: Godot](https://dev.to/opbright/how-to-think-about-games-godot-2jan)
+- [Building a Real-Time Crypto Data Pipeline with Debezium CDC](https://dev.to/aineahsimiyu/building-a-real-time-crypto-data-pipeline-with-debezium-cdc-1j41)
+- [Rewind AI Alternative to Windows You Can Trust](https://dev.to/nodminger/rewind-ai-alternative-to-windows-you-can-trust-51a)
+- [Modern License Metadata for Python Packages: An Introduction to PEP 639 and SPDX](https://dev.to/wagenrace/modern-license-metadata-for-python-packages-an-introduction-to-pep-639-and-spdx-2d11)
+- [We wanted Her, instead we got Tinder](https://dev.to/leon_lin_s/we-wanted-her-instead-we-got-tinder-2o8d)
 <!-- BLOG-POST-LIST:END -->
 
 
