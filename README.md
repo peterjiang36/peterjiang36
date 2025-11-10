@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All Data and AI Weekly #215: 10 November 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f)
-- [I Built a URL Metadata API After Wasting Days on Manual Scraping](https://dev.to/fistonuser/i-built-a-url-metadata-api-after-wasting-days-on-manual-scraping-3m81)
-- [When the mv Command “Loses” Your File in Linux — What Really Happened🚀](https://dev.to/chaitanyarai3/when-the-mv-command-loses-your-file-in-linux-what-really-happened-1186)
-- [From Pandas in Python to TabularData in Swift for Data Exploration](https://dev.to/libar/from-pandas-in-python-to-tabulardata-in-swift-for-data-exploration-3cli)
+- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf)
+- [The Domestic Turn of Information Warfare: When Democracies Target Their Own Minds](https://dev.to/mrvenom17/the-domestic-turn-of-information-warfare-when-democracies-target-their-own-minds-2gbd)
+- [Hacktoberfest 2025](https://dev.to/whyang9701/hacktoberfest-2025-n3k)
+- [Week 8: Routing, Lazy Loading and more in React!🎨](https://dev.to/nikhilsharma6/week-8-routing-lazy-loading-and-more-in-react-466l)
 <!-- BLOG-POST-LIST:END -->
 
 
