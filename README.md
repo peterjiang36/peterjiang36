@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3e24)
-- [Weekend Project- Building a Serverless Phishing Detector for Google&#39;s Cloud Run Hackathon](https://dev.to/mrmemory/weekend-project-building-a-serverless-phishing-detector-for-googles-cloud-run-hackathon-3b9b)
-- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-4mj2)
-- [Auth Series: Yet Another Password Authentication Flow.. but hear me out](https://dev.to/iordache/auth-series-yet-another-password-authentication-flow-but-hear-me-out-njb)
+- [Junior Coders: The One Rule You Should Follow to Adopt AI](https://dev.to/canro91/junior-coders-the-one-rule-you-should-follow-to-adopt-ai-n5e)
+- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
+- [Understanding Kafka lag](https://dev.to/robbin_murithi_f75005db58/understanding-kafka-lag-1cj1)
+- [🧠Understanding 6 Common Data Formats in Cloud Data Analytics](https://dev.to/cibin_s/understanding-6-common-data-formats-in-cloud-data-analytics-n9f)
 <!-- BLOG-POST-LIST:END -->
 
 
