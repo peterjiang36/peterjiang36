@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Coders: The One Rule You Should Follow to Adopt AI](https://dev.to/canro91/junior-coders-the-one-rule-you-should-follow-to-adopt-ai-n5e)
-- [Witch POTIONS](https://dev.to/neleh03/witch-potions-6n3)
-- [Understanding Kafka lag](https://dev.to/robbin_murithi_f75005db58/understanding-kafka-lag-1cj1)
-- [🧠Understanding 6 Common Data Formats in Cloud Data Analytics](https://dev.to/cibin_s/understanding-6-common-data-formats-in-cloud-data-analytics-n9f)
+- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3)
+- [I Built Convodb So You Can Talk to Your Database &lpar;And It Talks Back With 4 AI Agents&rpar;](https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3bek)
+- [Complete Guide: Installing Docker and Docker Compose Step by Step](https://dev.to/kingyou/complete-guide-installing-docker-and-docker-compose-step-by-step-24e1)
 <!-- BLOG-POST-LIST:END -->
 
 
