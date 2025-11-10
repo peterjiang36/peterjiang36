@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An alt-SAGA Pattern for Microservices](https://dev.to/mapteb/an-alt-saga-pattern-for-microservices-2o6b)
-- [PiHMP Stack &lpar;v2&rpar; - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f)
-- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8)
-- [Glyph: Scaling Context Windows via Visual-Text Compression](https://dev.to/paperium/glyph-scaling-context-windows-via-visual-text-compression-bjc)
+- [Recommendations for handling spatial processing workflows on the web](https://dev.to/cloudnone/recommendations-for-handling-spatial-processing-workflows-on-the-web-59lf)
+- [⚡ Lightning-Fast Face Recognition with InsightFace + SORT + Qdrant](https://dev.to/tejaspatilblogs/lightning-fast-face-recognition-with-insightface-sort-qdrant-5a85)
+- [Boost Your Website’s Security with SafeLine WAF: The Powerful Open-Source Solution You Need](https://dev.to/arina_cholee/boost-your-websites-security-with-safeline-waf-the-powerful-open-source-solution-you-need-5fdc)
+- [How SafeLine’s Dynamic Protection Safeguards Your Website](https://dev.to/arina_cholee/how-safelines-dynamic-protection-safeguards-your-website-4891)
 <!-- BLOG-POST-LIST:END -->
 
 
