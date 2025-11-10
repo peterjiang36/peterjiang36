@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Classes and Objects in Dart](https://dev.to/kihiro/understanding-classes-and-objects-in-dart-3ml)
-- [SmartPair - An Agent first freelancing platform.](https://dev.to/itsmefminsaf/smartpair-an-agent-first-freelancing-platform-3mod)
-- [The default user in the Docker image](https://dev.to/u11d/the-default-user-in-the-docker-image-17gm)
-- [Perl 🐪 Weekly #746 - YAPC::Fukuoka 2025 🇯🇵](https://dev.to/szabgab/perl-weekly-746-yapcfukuoka-2025-2b83)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0)
+- [Upgrade to Flutter 3.35.7 for Better Speed &amp; UI](https://dev.to/kellythomas/upgrade-to-flutter-3357-for-better-speed-ui-3ki5)
+- [Variantlab](https://dev.to/juliodiaz0209/variantlab-24f8)
+- [Masonry Grid: A 1.4 kB Library That Actually Works](https://dev.to/dangreen/masonry-grid-a-14-kb-library-that-actually-works-341n)
 <!-- BLOG-POST-LIST:END -->
 
 
