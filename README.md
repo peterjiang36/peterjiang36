@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-44o0)
-- [Upgrade to Flutter 3.35.7 for Better Speed &amp; UI](https://dev.to/kellythomas/upgrade-to-flutter-3357-for-better-speed-ui-3ki5)
-- [Variantlab](https://dev.to/juliodiaz0209/variantlab-24f8)
-- [Masonry Grid: A 1.4 kB Library That Actually Works](https://dev.to/dangreen/masonry-grid-a-14-kb-library-that-actually-works-341n)
+- [Mobile-First Portal Design: Why It’s Crucial](https://dev.to/kamal_deeppareek_f5bb5d8/mobile-first-portal-design-why-its-crucial-h1p)
+- [1.Create Key Pair Using Terraform by KodeKloud](https://dev.to/thukhakyawe_cloud/1create-key-pair-using-terraform-29ae)
+- [🧱 “Optimizing Angular Apps for Performance — Real Techniques That Work”](https://dev.to/mridudixit15/optimizing-angular-apps-for-performance-real-techniques-that-work-1606)
+- [Automated Appointment Reminder with Voice call and SMS using n8n](https://dev.to/sabbschow/automated-appointment-reminder-with-voice-call-and-sms-using-n8n-10bi)
 <!-- BLOG-POST-LIST:END -->
 
 
