@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-49kc)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-50ad)
-- [One Country, Two Internets: How Edge Computing Solves Brazil&#39;s Connectivity Crisis](https://dev.to/yevheniia_mala/one-country-two-internets-how-edge-computing-solves-brazils-connectivity-crisis-g70)
+- [Triggering LiveSync in ForgeRock IDM: A Step-by-Step Guide](https://dev.to/iamdevbox/triggering-livesync-in-forgerock-idm-a-step-by-step-guide-o82)
+- [Safe and Secure Software - MISRA C:2012](https://dev.to/cangulmez/safe-and-secure-software-misra-c2012-32c1)
+- [Designing Resilient APIs for Large-Scale Transport &amp; Warehouse Management Systems](https://dev.to/irshadpathan/designing-resilient-apis-for-large-scale-transport-warehouse-management-systems-10mi)
+- [Your Child, Your Guide: A Heart-to-Heart on Ethical Autism Therapy](https://dev.to/mekaywillow/your-child-your-guide-a-heart-to-heart-on-ethical-autism-therapy-22h2)
 <!-- BLOG-POST-LIST:END -->
 
 
