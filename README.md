@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
-- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
-- [Angular Directive that Elegantly Continues Truncated Text](https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h)
-- [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
+- [New to Docker, will try this :&rpar;](https://dev.to/its_nish/new-to-docker-will-try-this--4ggp)
+- [LLD: Food Ordering / Delivery system in Java](https://dev.to/zeeshanali0704/lld-food-ordering-delivery-system-in-java-3ep7)
+- [9 Best Resources to Learn Coding from Scratch: A Developer’s Journey](https://dev.to/stack_overflowed/9-best-resources-to-learn-coding-from-scratch-a-developers-journey-50k5)
+- [The Rise of AI-Powered Cybersecurity: How Machine Learning Is Changing the Game](https://dev.to/itcs11/the-rise-of-ai-powered-cybersecurity-how-machine-learning-is-changing-the-game-4fj7)
 <!-- BLOG-POST-LIST:END -->
 
 
