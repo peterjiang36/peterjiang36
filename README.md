@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design System: Building the Foundations](https://dev.to/denis_bratchikov/design-system-building-the-foundations-1l75)
-- [Mastering 3DS: Balancing Security, UX, and Authentication Rates](https://dev.to/rapyd/mastering-3ds-balancing-security-ux-and-authentication-rates-19pc)
-- [🚀 Introducing Gem Price Estimator &lpar;Open Source &amp; Free!&rpar;](https://dev.to/dmsmenula/introducing-gem-price-estimator-open-source-free-26fi)
-- [Seamless Hyperledger Fabric Network Management Using Docker Commands](https://dev.to/artarasaneh2025/seamless-hyperledger-fabric-network-management-using-docker-commands-2nkh)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3m20)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-26n6)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-idh)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-213a)
 <!-- BLOG-POST-LIST:END -->
 
 
