@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Text Editor in Go - Moving the Cursor](https://dev.to/alcb1310/create-a-text-editor-in-go-moving-the-cursor-2bnk)
-- [11 AWS Security Best Practices You Must Implement Now](https://dev.to/kevinasutton/11-aws-security-best-practices-you-must-implement-now-iok)
-- [How to Configure NGINX, and Host Your Local Website on Ubuntu Installed on VMware](https://dev.to/jic/how-to-configure-nginx-and-host-your-local-website-on-ubuntu-installed-on-vmware-pi6)
-- [The Opportunity Card Germany - My First-Hand Experience and Complete Guide](https://dev.to/luca1iu/the-opportunity-card-germany-my-first-hand-experience-and-complete-guide-4i5l)
+- [Sorting Algorithms Part 1: The Quadratic Sorts — Bubble, Selection, and Insertion](https://dev.to/picciniuscodes/sorting-algorithms-part-1-the-quadratic-sorts-bubble-selection-and-insertion-454e)
+- [Forge Master: Text-to-3D on Cloud Run GPU](https://dev.to/keshraf/forge-master-text-to-3d-on-cloud-run-gpu-4p2i)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-5361)
+- [Ghidra on Linux Zero Fuss Install](https://dev.to/andremmfaria/ghidra-on-linux-zero-fuss-install-1b07)
 <!-- BLOG-POST-LIST:END -->
 
 
