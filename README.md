@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-397b)
-- [🧭 Understanding CORS: Preflight vs Actual API Response](https://dev.to/xceed/understanding-cors-preflight-vs-actual-api-response-202f)
-- [HTTP GET vs POST vs PUT vs PATCH vs DELETE](https://dev.to/xceed/http-get-vs-post-vs-put-vs-patch-vs-delete-hnj)
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3b34)
+- [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
+- [Prometheus + K6 Fusion: Measure API Performance with Real-Time Metrics in Grafana](https://dev.to/asraful_haque/prometheus-k6-fusion-measure-api-performance-with-real-time-metrics-in-grafana-4nl7)
+- [Tom Lee Loves Ethereum—but He’s Ignoring the Elephant in the Room](https://dev.to/bitnet4ever/tom-lee-loves-ethereum-but-hes-ignoring-the-elephant-in-the-room-3kf3)
+- [Why Recruiters Are Switching to AI Interviews for Talent Evaluation](https://dev.to/skillsauce/why-recruiters-are-switching-to-ai-interviews-for-talent-evaluation-4o3b)
 <!-- BLOG-POST-LIST:END -->
 
 
