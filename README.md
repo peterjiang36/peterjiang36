@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Transitions and Animations Basics: Bringing Your UI to Life](https://dev.to/sharique_siddiqui_8242dad/css-transitions-and-animations-basics-bringing-your-ui-to-life-5b6m)
-- [Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.](https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc)
-- [MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large Vision andLanguage Models](https://dev.to/paperium/multiverse-a-multi-turn-conversation-benchmark-for-evaluating-large-vision-andlanguage-models-59c9)
-- [shadcn/ui Async Button with Loading and Error States](https://dev.to/jqueryscript/shadcnui-async-button-with-loading-and-error-states-1hdm)
+- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
+- [Time-Warping Control: Taming Complex Systems with AI](https://dev.to/arvind_sundararajan/time-warping-control-taming-complex-systems-with-ai-22ib)
+- [Here are 10 real problems I solved with ChatGPT in the past month across coding, business, content, and decision-making.](https://dev.to/jaideepparashar/here-are-10-real-problems-i-solved-with-chatgpt-in-the-past-month-across-coding-business-content-2ibk)
+- [474. Ones and Zeroes](https://dev.to/mdarifulhaque/474-ones-and-zeroes-24a2)
 <!-- BLOG-POST-LIST:END -->
 
 
