@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Triggering LiveSync in ForgeRock IDM: A Step-by-Step Guide](https://dev.to/iamdevbox/triggering-livesync-in-forgerock-idm-a-step-by-step-guide-o82)
-- [Safe and Secure Software - MISRA C:2012](https://dev.to/cangulmez/safe-and-secure-software-misra-c2012-32c1)
-- [Designing Resilient APIs for Large-Scale Transport &amp; Warehouse Management Systems](https://dev.to/irshadpathan/designing-resilient-apis-for-large-scale-transport-warehouse-management-systems-10mi)
-- [Your Child, Your Guide: A Heart-to-Heart on Ethical Autism Therapy](https://dev.to/mekaywillow/your-child-your-guide-a-heart-to-heart-on-ethical-autism-therapy-22h2)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
+- [Frontend Architecture. Result Type Pattern](https://dev.to/nefedov-dm/frontend-architecture-result-type-pattern-10ii)
+- [Python To-Do List Application Tutorial Guide 2025](https://dev.to/codingstreets/python-to-do-list-application-tutorial-guide-2025-3g60)
+- [I Found the #1 Cause of Freezes in Your app, and Heres the Proof](https://dev.to/nek12/i-found-the-1-cause-of-freezes-in-your-app-and-heres-the-proof-59h7)
 <!-- BLOG-POST-LIST:END -->
 
 
