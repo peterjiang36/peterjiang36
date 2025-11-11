@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3m20)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-26n6)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-idh)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-213a)
+- [Deploying ML Models to Production: AWS Lambda vs ECS vs EKS - A Data-Driven Comparison](https://dev.to/aws-builders/deploying-ml-models-to-production-aws-lambda-vs-ecs-vs-eks-a-data-driven-comparison-8ib)
+- [Official Statement on Fraudulent “SEEKSEM Token” Crypto Scam](https://dev.to/seeksem/official-statement-on-fraudulent-seeksem-token-crypto-scam-1956)
+- [fastTinker: A Multi-Language Desktop Playground for Rapid Prototyping](https://dev.to/boadusamuel/fasttinker-a-multi-language-desktop-playground-for-rapid-prototyping-3icn)
+- [n8n Self-Hosted vs n8n Cloud: Which One Should You Choose in 2025?](https://dev.to/ciphernutz/n8n-self-hosted-vs-n8n-cloud-which-one-should-you-choose-in-2025-1653)
 <!-- BLOG-POST-LIST:END -->
 
 
