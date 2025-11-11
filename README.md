@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
-- [How to Use AI Models Locally in VS Code with the Continue Plugin &lpar;with Multi-Model Switching Support&rpar;](https://dev.to/manikandan/how-to-use-ai-models-locally-in-vs-code-with-the-continue-plugin-with-multi-model-switching-3na0)
-- [https://youtu.be/LUYxxp5VgU4?si=hjPCd1bSwbqJ1aH5](https://dev.to/techdust/httpsyoutubeluyxxp5vgu4sihjpcd1bswbqj1ah5-24h3)
-- [I used AI for every task for two weeks](https://dev.to/joannaotmianowska/i-used-ai-for-every-task-for-two-weeks-3pgi)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-55m3)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-49kc)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-50ad)
+- [One Country, Two Internets: How Edge Computing Solves Brazil&#39;s Connectivity Crisis](https://dev.to/yevheniia_mala/one-country-two-internets-how-edge-computing-solves-brazils-connectivity-crisis-g70)
 <!-- BLOG-POST-LIST:END -->
 
 
