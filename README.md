@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Educação financeira - aprenda a gerir a sua renda](https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff)
-- [Projeto Sirios - Apache + Python para Acionar LEDs via Web na Banana Pi](https://dev.to/henriqueotogami/projeto-sirios-apache-python-para-acionar-leds-via-web-na-banana-pi-16p4)
-- [From Material 2 to Material You: Everything New in Material 3 for Android Developers](https://dev.to/mohitrajput987/from-material-2-to-material-you-everything-new-in-material-3-for-android-developers-4of2)
-- [How to use React with a VSCode webview.](https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58)
+- [Learning from History: What Other Token Ecosystems Teach Us About Pump.fun&#39;s Future](https://dev.to/hamd_writer_8c77d9c88c188/learning-from-history-what-other-token-ecosystems-teach-us-about-pumpfuns-future-2l2p)
+- [As we delve into the intricacies of Prevención de Lavado de](https://dev.to/drcarlosruizviquez/as-we-delve-into-the-intricacies-of-prevencion-de-lavado-de-ib3)
+- [What I Learned About Trailing Slashes While Migrating to a Static Site](https://dev.to/lovestaco/what-i-learned-about-trailing-slashes-while-migrating-to-a-static-site-aki)
+- [Introducing Layrr - Framer for your Codebase!](https://dev.to/thetronjohnson/introducing-layrr-framer-for-your-codebase-1b3k)
 <!-- BLOG-POST-LIST:END -->
 
 
