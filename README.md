@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting Algorithms Part 2: Divide and Conquer — Merge, Quick, and Heap Sort](https://dev.to/picciniuscodes/sorting-algorithms-part-2-divide-and-conquer-merge-quick-and-heap-sort-4dkk)
-- [Burying Carbon: How AI is Supercharging Subsurface Storage](https://dev.to/arvind_sundararajan/burying-carbon-how-ai-is-supercharging-subsurface-storage-3ada)
-- [Foundational Automatic Evaluators: Scaling Multi-Task Generative EvaluatorTraining for Reasoning-Centric Domains](https://dev.to/paperium/foundational-automatic-evaluators-scaling-multi-task-generative-evaluatortraining-for-529e)
-- [Codex Vitae: Building a Self-Evolving AI Agent Platform on Google Cloud Run](https://dev.to/1433_ibm_e18f9a22f6482440/codex-vitae-building-a-self-evolving-ai-agent-platform-on-google-cloud-run-2no6)
+- [CSS Transitions and Animations Basics: Bringing Your UI to Life](https://dev.to/sharique_siddiqui_8242dad/css-transitions-and-animations-basics-bringing-your-ui-to-life-5b6m)
+- [Battery Cooling Plates: Does Inlet Position Really Matter? I Ran the Model.](https://dev.to/thermal/battery-cooling-plates-does-inlet-position-really-matter-i-ran-the-model-41kc)
+- [MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large Vision andLanguage Models](https://dev.to/paperium/multiverse-a-multi-turn-conversation-benchmark-for-evaluating-large-vision-andlanguage-models-59c9)
+- [shadcn/ui Async Button with Loading and Error States](https://dev.to/jqueryscript/shadcnui-async-button-with-loading-and-error-states-1hdm)
 <!-- BLOG-POST-LIST:END -->
 
 
