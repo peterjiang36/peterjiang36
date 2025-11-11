@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with Azure Files: Storage, Snapshots &amp; Network Security](https://dev.to/ojosamuel129/hands-on-with-azure-files-storage-snapshots-network-security-cj5)
-- [Git Basics: A Beginner&#39;s Guide to Branches](https://dev.to/michaellarocca/git-basics-a-beginners-guide-to-branches-3dnn)
-- [Did I just create the fastest BPMN engine in the world?](https://dev.to/taktx/did-i-just-create-the-fastest-bpmn-engine-in-the-world-1ddp)
-- [Calendario de Adviento IA 2025](https://dev.to/roberto_navarro_mate/calendario-de-adviento-ia-2025-ice)
+- [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
+- [Did I just join a Hackathon](https://dev.to/rlove/did-i-just-join-a-hackathon-2700)
+- [IT Asset Management-Vulnerabilities and Patches.](https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99)
+- [L&#39;Injection de Dépendances &lpar;DI&rpar; : Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera/linjection-de-dependances-di-comment-le-service-container-de-laravel-vous-rend-invincible-eo0)
 <!-- BLOG-POST-LIST:END -->
 
 
