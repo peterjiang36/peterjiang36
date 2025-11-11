@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib)
-- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e)
-- [Making a Read-Only Signal Editable in Your Component](https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8)
-- [Architectural decisions](https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh)
+- [Educação financeira - aprenda a gerir a sua renda](https://dev.to/andersoncontreira/educacao-financeira-aprenda-a-gerir-a-sua-renda-eff)
+- [Projeto Sirios - Apache + Python para Acionar LEDs via Web na Banana Pi](https://dev.to/henriqueotogami/projeto-sirios-apache-python-para-acionar-leds-via-web-na-banana-pi-16p4)
+- [From Material 2 to Material You: Everything New in Material 3 for Android Developers](https://dev.to/mohitrajput987/from-material-2-to-material-you-everything-new-in-material-3-for-android-developers-4of2)
+- [How to use React with a VSCode webview.](https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58)
 <!-- BLOG-POST-LIST:END -->
 
 
