@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
-- [Frontend Architecture. Result Type Pattern](https://dev.to/nefedov-dm/frontend-architecture-result-type-pattern-10ii)
-- [Python To-Do List Application Tutorial Guide 2025](https://dev.to/codingstreets/python-to-do-list-application-tutorial-guide-2025-3g60)
-- [I Found the #1 Cause of Freezes in Your app, and Heres the Proof](https://dev.to/nek12/i-found-the-1-cause-of-freezes-in-your-app-and-heres-the-proof-59h7)
+- [Build a PHP QueryBuilder from scratch!](https://dev.to/l_iadicola/build-a-php-querybuilder-from-scratch-4891)
+- [Clean up in active AD accounts](https://dev.to/thiyagarajan_thangavel/clean-up-in-active-ad-accounts-13ki)
+- [Migration Guide: Microsoft ADCS to Sectigo Certificate Manager](https://dev.to/thiyagarajan_thangavel/migration-guide-microsoft-adcs-to-sectigo-certificate-manager-fdc)
+- [Project Create a Storage Account for Public Use and Private Use](https://dev.to/baris86/project-create-a-storage-account-for-public-use-and-private-use-1hmj)
 <!-- BLOG-POST-LIST:END -->
 
 
