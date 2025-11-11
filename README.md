@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New to Docker, will try this :&rpar;](https://dev.to/its_nish/new-to-docker-will-try-this--4ggp)
-- [LLD: Food Ordering / Delivery system in Java](https://dev.to/zeeshanali0704/lld-food-ordering-delivery-system-in-java-3ep7)
-- [9 Best Resources to Learn Coding from Scratch: A Developer’s Journey](https://dev.to/stack_overflowed/9-best-resources-to-learn-coding-from-scratch-a-developers-journey-50k5)
-- [The Rise of AI-Powered Cybersecurity: How Machine Learning Is Changing the Game](https://dev.to/itcs11/the-rise-of-ai-powered-cybersecurity-how-machine-learning-is-changing-the-game-4fj7)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-397b)
+- [🧭 Understanding CORS: Preflight vs Actual API Response](https://dev.to/xceed/understanding-cors-preflight-vs-actual-api-response-202f)
+- [HTTP GET vs POST vs PUT vs PATCH vs DELETE](https://dev.to/xceed/http-get-vs-post-vs-put-vs-patch-vs-delete-hnj)
+- [Ringer Movies: ‘Predator: Badlands’ and the &#39;Predator&#39; Movie Rankings](https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-3b34)
 <!-- BLOG-POST-LIST:END -->
 
 
