@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Parentheses Matter in Arrow Functions? A TypeScript Deep Dive](https://dev.to/cathylai/do-parentheses-matter-in-arrow-functions-a-typescript-deep-dive-4433)
-- [Time-Warping Control: Taming Complex Systems with AI](https://dev.to/arvind_sundararajan/time-warping-control-taming-complex-systems-with-ai-22ib)
-- [Here are 10 real problems I solved with ChatGPT in the past month across coding, business, content, and decision-making.](https://dev.to/jaideepparashar/here-are-10-real-problems-i-solved-with-chatgpt-in-the-past-month-across-coding-business-content-2ibk)
-- [474. Ones and Zeroes](https://dev.to/mdarifulhaque/474-ones-and-zeroes-24a2)
+- [Get Hasura Ready in 1 hour — A copy-pasteable PROD Framework I wish I had on Hasura Day 1.](https://dev.to/michalelee0609/get-hasura-ready-in-1-hour-a-copy-pasteable-prod-framework-i-wish-i-had-on-hasura-day-1-1173)
+- [Host your first AI Agent on Agentcore](https://dev.to/joshyfruit/host-your-first-ai-agent-on-agentcore-2o06)
+- [Angular Directive that Elegantly Continues Truncated Text](https://dev.to/hosembafer/angular-directive-that-elegantly-continues-truncated-text-1f1h)
+- [🎯 Scenario #13 — Encrypt Secrets Using Sealed Secrets &lpar;Bitnami&rpar; in Kubernetes](https://dev.to/latchudevops/scenario-13-encrypt-secrets-using-sealed-secrets-bitnami-in-kubernetes-32fl)
 <!-- BLOG-POST-LIST:END -->
 
 
