@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting Algorithms Part 1: The Quadratic Sorts — Bubble, Selection, and Insertion](https://dev.to/picciniuscodes/sorting-algorithms-part-1-the-quadratic-sorts-bubble-selection-and-insertion-454e)
-- [Forge Master: Text-to-3D on Cloud Run GPU](https://dev.to/keshraf/forge-master-text-to-3d-on-cloud-run-gpu-4p2i)
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-5361)
-- [Ghidra on Linux Zero Fuss Install](https://dev.to/andremmfaria/ghidra-on-linux-zero-fuss-install-1b07)
+- [Sorting Algorithms Part 2: Divide and Conquer — Merge, Quick, and Heap Sort](https://dev.to/picciniuscodes/sorting-algorithms-part-2-divide-and-conquer-merge-quick-and-heap-sort-4dkk)
+- [Burying Carbon: How AI is Supercharging Subsurface Storage](https://dev.to/arvind_sundararajan/burying-carbon-how-ai-is-supercharging-subsurface-storage-3ada)
+- [Foundational Automatic Evaluators: Scaling Multi-Task Generative EvaluatorTraining for Reasoning-Centric Domains](https://dev.to/paperium/foundational-automatic-evaluators-scaling-multi-task-generative-evaluatortraining-for-529e)
+- [Codex Vitae: Building a Self-Evolving AI Agent Platform on Google Cloud Run](https://dev.to/1433_ibm_e18f9a22f6482440/codex-vitae-building-a-self-evolving-ai-agent-platform-on-google-cloud-run-2no6)
 <!-- BLOG-POST-LIST:END -->
 
 
