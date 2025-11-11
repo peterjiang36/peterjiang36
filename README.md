@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning from History: What Other Token Ecosystems Teach Us About Pump.fun&#39;s Future](https://dev.to/hamd_writer_8c77d9c88c188/learning-from-history-what-other-token-ecosystems-teach-us-about-pumpfuns-future-2l2p)
-- [As we delve into the intricacies of Prevención de Lavado de](https://dev.to/drcarlosruizviquez/as-we-delve-into-the-intricacies-of-prevencion-de-lavado-de-ib3)
-- [What I Learned About Trailing Slashes While Migrating to a Static Site](https://dev.to/lovestaco/what-i-learned-about-trailing-slashes-while-migrating-to-a-static-site-aki)
-- [Introducing Layrr - Framer for your Codebase!](https://dev.to/thetronjohnson/introducing-layrr-framer-for-your-codebase-1b3k)
+- [Construindo um Operador Kubernetes com Go](https://dev.to/gfalves87/construindo-um-operador-kubernetes-com-go-51ld)
+- [💻 Flutter V2Ray Client Desktop Plugin — V2Ray/Xray &amp; Sing-Box VPN for Windows, macOS, Linux](https://dev.to/amirzr/flutter-v2ray-client-desktop-plugin-v2rayxray-sing-box-vpn-for-windows-macos-linux-5h9d)
+- [How To Make A Custom Type Iterable In Rust.](https://dev.to/allwelldotdev/how-to-make-a-custom-type-iterable-in-rust-c0i)
+- [Mastering Cryptography: A Senior&#39;s Guide to Design, Attack, and Defend](https://dev.to/tsaplina_elena/mastering-cryptography-a-seniors-guide-to-design-attack-and-defend-h9c)
 <!-- BLOG-POST-LIST:END -->
 
 
