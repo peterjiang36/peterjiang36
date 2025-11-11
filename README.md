@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70)
-- [Reverse-Engineering Vercel: The Go-to-Market Playbook That Won the Frontend](https://dev.to/michaelaiglobal/reverse-engineering-vercel-the-go-to-market-playbook-that-won-the-frontend-3n5o)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-5acf)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3ec2)
+- [Smooth Page Transitions with Zero Libraries: The View Transitions API](https://dev.to/highflyer910/smooth-page-transitions-with-zero-libraries-the-view-transitions-api-3o0m)
+- [How to Use AI Models Locally in VS Code with the Continue Plugin &lpar;with Multi-Model Switching Support&rpar;](https://dev.to/manikandan/how-to-use-ai-models-locally-in-vs-code-with-the-continue-plugin-with-multi-model-switching-3na0)
+- [https://youtu.be/LUYxxp5VgU4?si=hjPCd1bSwbqJ1aH5](https://dev.to/techdust/httpsyoutubeluyxxp5vgu4sihjpcd1bswbqj1ah5-24h3)
+- [I used AI for every task for two weeks](https://dev.to/joannaotmianowska/i-used-ai-for-every-task-for-two-weeks-3pgi)
 <!-- BLOG-POST-LIST:END -->
 
 
