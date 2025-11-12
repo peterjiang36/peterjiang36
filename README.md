@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
-- [Can Sora 2 generate NSFW content? How can we try it?](https://dev.to/_37bbf0c253c0b3edec531e/can-sora-2-generate-nsfw-content-how-can-we-try-it-40gm)
-- [Deploy an Astro Blog with Cloudflare Pages and Porkbun](https://dev.to/picoable/deploy-an-astro-blog-with-cloudflare-pages-and-porkbun-m5o)
-- [In 2025, AI regulations were established in four major global regions.](https://dev.to/akari_iku/in-2025-ai-regulations-were-established-in-four-major-global-regions-1lbp)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
+- [Git Deep Dive: Mastering rerere](https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm)
+- [Automate Your Astro Blog with GitHub Actions](https://dev.to/picoable/automate-your-astro-blog-with-github-actions-5aic)
 <!-- BLOG-POST-LIST:END -->
 
 
