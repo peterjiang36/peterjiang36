@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
-- [DotCommand 1.3.0 is out. I completely rebuilt the extension.](https://dev.to/freerave/dotcommand-130-is-out-i-completely-rebuilt-the-extension-35j9)
-- [Myth: Training AI models requires enormous energy consumptio](https://dev.to/drcarlosruizviquez/myth-training-ai-models-requires-enormous-energy-consumptio-2ie8)
-- [Why I Built My Own Windows Installer in C#](https://dev.to/iamsopotatoecoder/why-i-built-my-own-windows-installer-in-c-5ap9)
+- [Modern C++: Variadic Templates](https://dev.to/delta456/modern-c-variadic-templates-16nn)
+- [How I Use Cursor As My Daily Coding Partner](https://dev.to/douguiluz/how-i-use-cursor-as-my-daily-coding-partner-4jib)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-340l)
+- [🛠️ The Rise of the Artisan Coder — a New Breed of Developer](https://dev.to/digkill/the-rise-of-the-artisan-coder-a-new-breed-of-developer-352f)
 <!-- BLOG-POST-LIST:END -->
 
 
