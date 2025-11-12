@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing LightningChart JS 8.1](https://dev.to/omar_lightningchart/announcing-lightningchart-js-81-n9j)
-- [Localizing React re-renders: the magic of compositional boundaries](https://dev.to/unsleeping/localizing-react-re-renders-the-magic-of-compositional-boundaries-39og)
-- [🌀 The Circular Profile Showcase Protocol: Amplify Your Online Presence Across GitHub, LinkedIn, Dev.to, WordPress &amp; Hashnode](https://dev.to/akhilkishore/the-circular-profile-showcase-protocol-amplify-your-online-presence-across-github-linkedin-5dn5)
-- [The Prompt Engineer is Dead. Long Live the AI Systems Architect.](https://dev.to/tixu_ai/the-prompt-engineer-is-dead-long-live-the-ai-systems-architect-4oib)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-49c5)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-4h0c)
+- [Run a shell script from a webhook call](https://dev.to/jypelle/run-a-shell-script-from-a-webhook-call-4bc4)
+- [Manticore Search 14.1.0: Force Bigrams and Bug Fixes](https://dev.to/sanikolaev/manticore-search-1410-force-bigrams-and-bug-fixes-k3m)
 <!-- BLOG-POST-LIST:END -->
 
 
