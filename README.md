@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Indie Path](https://dev.to/huynhnhanquoc/the-indie-path-1pa7)
-- [Directive Sync – The “Odd” Story of Kit JS](https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo)
-- [Why Does Kit JS Exist?](https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc)
-- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-4iba)
+- [Robot Immitation: A gentle Intro](https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc)
+- [Building the Future of Customer Interaction with Oodles’ Chatbot Development Services](https://dev.to/oodlesplatform/building-the-future-of-customer-interaction-with-oodles-chatbot-development-services-57cg)
+- [AI Just Scored 37.8% of Human Intelligence — Introducing the AGCI Benchmark](https://dev.to/epic_programmer_55489f708/ai-just-scored-378-of-human-intelligence-introducing-the-agci-benchmark-186f)
+- [Looping in JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/looping-in-javascript-44h2)
 <!-- BLOG-POST-LIST:END -->
 
 
