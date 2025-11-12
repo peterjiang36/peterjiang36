@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQL — From Zero to Hero](https://dev.to/farhad_rahimi_klie/mastering-sql-from-zero-to-hero-3481)
-- [Fix Loading module from ... was blocked because of a disallowed MIME type](https://dev.to/chuongmep/fix-loading-module-from-was-blocked-because-of-a-disallowed-mime-type-543m)
-- [Sridhar Vembu: Redefining Leadership in the Age of Noise](https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6)
-- [The Psychology Behind Powerful Prompts](https://dev.to/jaideepparashar/the-psychology-behind-powerful-prompts-gof)
+- [✅ Scenario #14 – Integrate Kubernetes with Vault to fetch Secrets](https://dev.to/latchudevops/scenario-14-integrate-kubernetes-with-vault-to-fetch-secrets-2jdj)
+- [Conflict Resolution and the Escalation Trap](https://dev.to/epklein/conflict-resolution-and-the-escalation-trap-49gb)
+- [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
+- [Family Sharing: The Retention Strategy That Turns Subscriptions into Shared Value](https://dev.to/paywallpro/family-sharing-the-retention-strategy-that-turns-subscriptions-into-shared-value-57p7)
 <!-- BLOG-POST-LIST:END -->
 
 
