@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Management Courses: Master the Skills to Lead Successful Projects](https://dev.to/ptp_8f8dfa1f68e86d92296b6/project-management-courses-master-the-skills-to-lead-successful-projects-3o00)
-- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
-- [Progressive Web Apps: Building Offline-First UIs – Never Lose Your Users Again!](https://dev.to/karthik_n/progressive-web-apps-building-offline-first-uis-never-lose-your-users-again-2mip)
-- [Day 27 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-27-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3e45)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1423)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3nba)
+- [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
+- [Exploring WebSocket Part 1: Building Minimal Echo WebSocket Server From Scratch &lpar;RFC 6455 Fundamentals&rpar;](https://dev.to/sykrabadi/exploring-websocket-part-1-building-minimal-echo-websocket-server-from-scratch-rfc-6455-5hka)
 <!-- BLOG-POST-LIST:END -->
 
 
