@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Scenario #14 – Integrate Kubernetes with Vault to fetch Secrets](https://dev.to/latchudevops/scenario-14-integrate-kubernetes-with-vault-to-fetch-secrets-2jdj)
-- [Conflict Resolution and the Escalation Trap](https://dev.to/epklein/conflict-resolution-and-the-escalation-trap-49gb)
-- [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
-- [Family Sharing: The Retention Strategy That Turns Subscriptions into Shared Value](https://dev.to/paywallpro/family-sharing-the-retention-strategy-that-turns-subscriptions-into-shared-value-57p7)
+- [Fighting Framework Jank &lpar;What&#39;s Not in the Docs&rpar;](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
+- [Welcome Thread - v351](https://dev.to/devteam/welcome-thread-v351-460h)
+- [TIL: Always Wrap Collections in API Responses](https://dev.to/canro91/til-always-wrap-collections-in-api-responses-1m1j)
+- [faster whisper从多媒体语音材料中抽取出文本-3](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-3-4li3)
 <!-- BLOG-POST-LIST:END -->
 
 
