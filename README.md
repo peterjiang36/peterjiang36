@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Building a Podcast Knowledge Base with the Gemini File Search Tool](https://dev.to/googleai/building-a-podcast-ai-with-the-gemini-file-search-tool-1d4l)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-40dh)
-- [2025](https://dev.to/temporalio/2025-3dmg)
-- [Tines - SOAR Tool](https://dev.to/kuljotbiring/tines-soar-tool-37fh)
+- [My Project: pyquest](https://dev.to/rylan/my-project-pyquest-1d6a)
+- [Image Load Races in React Native - Fix It in One Line](https://dev.to/cathylai/image-load-races-in-react-native-fix-it-in-one-line-53ee)
+- [14 Best In-App Chat Features That Shape Better User Experiences](https://dev.to/getstreamhq/14-best-in-app-chat-features-that-shape-better-user-experiences-2gb8)
+- [I built something for busy parents who want to run](https://dev.to/lexingdailylife/i-built-something-for-busy-parents-who-want-to-run-187g)
 <!-- BLOG-POST-LIST:END -->
 
 
