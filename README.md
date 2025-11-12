@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Python Structure Viewer: A Clear Window into Your Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9)
-- [Setting Up Side-by-Side Python Versions on Azure DevOps Self-Hosted Agents](https://dev.to/rcbevans/setting-up-side-by-side-python-versions-on-azure-devops-self-hosted-agents-15l1)
-- [2025 Complete Guide: Doubao-Seed-Code Model - In-Depth Analysis of ByteDance&#39;s AI Programming Assistant](https://dev.to/sienna/2025-complete-guide-doubao-seed-code-model-in-depth-analysis-of-bytedances-ai-programming-2bo2)
-- [vite-plugin-html和vite-plugin-static-copy 一起使用有bug](https://dev.to/programmerlld/vite-plugin-htmlhe-vite-plugin-static-copy-qi-shi-yong-you-bug-jbh)
+- [5 projets blockchain open source qui façonnent l’avenir du Web3](https://dev.to/carlvilla/5-projets-blockchain-open-source-qui-faconnent-lavenir-du-web3-10p8)
+- [How to Build a Chrome Extension for Scanning Barcode &amp; QR Code with Multiple Input Methods](https://dev.to/yushulx/how-to-build-a-chrome-extension-for-scanning-barcode-qr-code-with-multiple-input-methods-36eo)
+- [Measuring End-to-End Latency for Robots and Cameras Over 5G &lpar;Without RF Gear&rpar;](https://dev.to/yacine_s/measuring-end-to-end-latency-for-robots-and-cameras-over-5g-without-rf-gear-lfj)
+- [i18n SEO checklist: 15 SEO tips to reach a global audience](https://dev.to/lingodotdev/the-i18n-seo-checklist-15-seo-optimization-techniques-to-reach-a-global-audience-59l0)
 <!-- BLOG-POST-LIST:END -->
 
 
