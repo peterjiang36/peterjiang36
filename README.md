@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fighting Framework Jank &lpar;What&#39;s Not in the Docs&rpar;](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
-- [Welcome Thread - v351](https://dev.to/devteam/welcome-thread-v351-460h)
-- [TIL: Always Wrap Collections in API Responses](https://dev.to/canro91/til-always-wrap-collections-in-api-responses-1m1j)
-- [faster whisper从多媒体语音材料中抽取出文本-3](https://dev.to/dragon72463399/faster-whispercong-duo-mei-ti-yu-yin-cai-liao-zhong-chou-qu-chu-wen-ben-3-4li3)
+- [The Indie Path](https://dev.to/huynhnhanquoc/the-indie-path-1pa7)
+- [Directive Sync – The “Odd” Story of Kit JS](https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo)
+- [Why Does Kit JS Exist?](https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-4iba)
 <!-- BLOG-POST-LIST:END -->
 
 
