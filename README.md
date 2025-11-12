@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Disable HTTP Request Logs in Medusa v1 and v2?](https://dev.to/u11d/how-to-disable-http-request-logs-in-medusa-v1-and-v2-4j05)
-- [Did I just join a Hackathon](https://dev.to/rlove/did-i-just-join-a-hackathon-2700)
-- [IT Asset Management-Vulnerabilities and Patches.](https://dev.to/kiran_vedagiri_ae39372758/it-asset-management-vulnerabilities-and-patches-3i99)
-- [L&#39;Injection de Dépendances &lpar;DI&rpar; : Comment le Service Container de Laravel Vous Rend Invincible](https://dev.to/jiordiviera/linjection-de-dependances-di-comment-le-service-container-de-laravel-vous-rend-invincible-eo0)
+- [Cleaner Terraform: Stop Writing Backwards Conditionals](https://dev.to/aws-builders/cleaner-terraform-stop-writing-backwards-conditionals-5862)
+- [Understanding AI Agents: A Comprehensive Guide](https://dev.to/solegaonkar/understanding-ai-agents-a-comprehensive-guide-325c)
+- [Migrating from MediatR to LiteBus](https://dev.to/litenova/migrating-from-mediatr-to-litebus-26hl)
+- [From Pandas to Upstream Control: The Evolution PyData Needs Next](https://dev.to/aronchick/from-pandas-to-upstream-control-the-evolution-pydata-needs-next-19ol)
 <!-- BLOG-POST-LIST:END -->
 
 
