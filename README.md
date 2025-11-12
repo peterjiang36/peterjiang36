@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cleaner Terraform: Stop Writing Backwards Conditionals](https://dev.to/aws-builders/cleaner-terraform-stop-writing-backwards-conditionals-5862)
-- [Understanding AI Agents: A Comprehensive Guide](https://dev.to/solegaonkar/understanding-ai-agents-a-comprehensive-guide-325c)
-- [Migrating from MediatR to LiteBus](https://dev.to/litenova/migrating-from-mediatr-to-litebus-26hl)
-- [From Pandas to Upstream Control: The Evolution PyData Needs Next](https://dev.to/aronchick/from-pandas-to-upstream-control-the-evolution-pydata-needs-next-19ol)
+- [The Python Structure Viewer: A Clear Window into Your Code](https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9)
+- [Setting Up Side-by-Side Python Versions on Azure DevOps Self-Hosted Agents](https://dev.to/rcbevans/setting-up-side-by-side-python-versions-on-azure-devops-self-hosted-agents-15l1)
+- [2025 Complete Guide: Doubao-Seed-Code Model - In-Depth Analysis of ByteDance&#39;s AI Programming Assistant](https://dev.to/sienna/2025-complete-guide-doubao-seed-code-model-in-depth-analysis-of-bytedances-ai-programming-2bo2)
+- [vite-plugin-html和vite-plugin-static-copy 一起使用有bug](https://dev.to/programmerlld/vite-plugin-htmlhe-vite-plugin-static-copy-qi-shi-yong-you-bug-jbh)
 <!-- BLOG-POST-LIST:END -->
 
 
