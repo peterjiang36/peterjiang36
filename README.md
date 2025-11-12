@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern C++: Variadic Templates](https://dev.to/delta456/modern-c-variadic-templates-16nn)
-- [How I Use Cursor As My Daily Coding Partner](https://dev.to/douguiluz/how-i-use-cursor-as-my-daily-coding-partner-4jib)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-340l)
-- [🛠️ The Rise of the Artisan Coder — a New Breed of Developer](https://dev.to/digkill/the-rise-of-the-artisan-coder-a-new-breed-of-developer-352f)
+- [Predicting the Unpredictable: Reproducible BiLSTM Forecasting of Incident Countsin the Global Terrorism Database &lpar;GTD&rpar;](https://dev.to/paperium/predicting-the-unpredictable-reproducible-bilstm-forecasting-of-incident-countsin-the-global-2hka)
+- [Ma première extension Chrome... Synonymes Maison](https://dev.to/maison/ma-premiere-extension-chrome-synonymes-maison-2bi2)
+- [New major HMPL version 3.2.0 🕶](https://dev.to/hmpljs/new-major-version-320-79e)
+- [The Architecture of Traffic Arbitrage: A Professional&#39;s Blueprint](https://dev.to/tsaplina_elena/the-architecture-of-traffic-arbitrage-a-professionals-blueprint-3kpm)
 <!-- BLOG-POST-LIST:END -->
 
 
