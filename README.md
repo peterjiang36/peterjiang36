@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1423)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3nba)
-- [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
-- [Exploring WebSocket Part 1: Building Minimal Echo WebSocket Server From Scratch &lpar;RFC 6455 Fundamentals&rpar;](https://dev.to/sykrabadi/exploring-websocket-part-1-building-minimal-echo-websocket-server-from-scratch-rfc-6455-5hka)
+- [💳 Building a Reusable PayPal Payment Gateway Service in C#](https://dev.to/auyeungdavid_2847435260/building-a-reusable-paypal-payment-gateway-service-in-c-2o91)
+- [Unlocking AI Reasoning: The Power of Hierarchical Skipping](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-hierarchical-skipping-2384)
+- [Animated Gradient Generator App](https://dev.to/shreyvijayvargiya/animated-gradient-generator-app-1486)
+- [XDP: The Kernel-Level Powerhouse Behind Modern Network Defense](https://dev.to/simon_morley/xdp-the-kernel-level-powerhouse-behind-modern-network-defense-222n)
 <!-- BLOG-POST-LIST:END -->
 
 
