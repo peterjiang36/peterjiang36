@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Blaming Doctrine - Start Understanding It](https://dev.to/jszutkowski/stop-blaming-doctrine-start-understanding-it-55k2)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-28b1)
-- [DI containers are dead, long live context containers!](https://dev.to/flix_dubsomeone635_0/di-containers-are-dead-long-live-context-containers-3hna)
-- [What is dom?](https://dev.to/aj_arul/what-is-dom-4p4i)
+- [How Git History Reveals Your Riskiest Code](https://dev.to/huangsam/how-git-history-reveals-your-riskiest-code-n6m)
+- [Can Sora 2 generate NSFW content? How can we try it?](https://dev.to/_37bbf0c253c0b3edec531e/can-sora-2-generate-nsfw-content-how-can-we-try-it-40gm)
+- [Deploy an Astro Blog with Cloudflare Pages and Porkbun](https://dev.to/picoable/deploy-an-astro-blog-with-cloudflare-pages-and-porkbun-m5o)
+- [In 2025, AI regulations were established in four major global regions.](https://dev.to/akari_iku/in-2025-ai-regulations-were-established-in-four-major-global-regions-1lbp)
 <!-- BLOG-POST-LIST:END -->
 
 
