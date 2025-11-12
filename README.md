@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 projets blockchain open source qui façonnent l’avenir du Web3](https://dev.to/carlvilla/5-projets-blockchain-open-source-qui-faconnent-lavenir-du-web3-10p8)
-- [How to Build a Chrome Extension for Scanning Barcode &amp; QR Code with Multiple Input Methods](https://dev.to/yushulx/how-to-build-a-chrome-extension-for-scanning-barcode-qr-code-with-multiple-input-methods-36eo)
-- [Measuring End-to-End Latency for Robots and Cameras Over 5G &lpar;Without RF Gear&rpar;](https://dev.to/yacine_s/measuring-end-to-end-latency-for-robots-and-cameras-over-5g-without-rf-gear-lfj)
-- [i18n SEO checklist: 15 SEO tips to reach a global audience](https://dev.to/lingodotdev/the-i18n-seo-checklist-15-seo-optimization-techniques-to-reach-a-global-audience-59l0)
+- [Mastering SQL — From Zero to Hero](https://dev.to/farhad_rahimi_klie/mastering-sql-from-zero-to-hero-3481)
+- [Fix Loading module from ... was blocked because of a disallowed MIME type](https://dev.to/chuongmep/fix-loading-module-from-was-blocked-because-of-a-disallowed-mime-type-543m)
+- [Sridhar Vembu: Redefining Leadership in the Age of Noise](https://dev.to/solegaonkar/sridhar-vembu-redefining-leadership-in-the-age-of-noise-42n6)
+- [The Psychology Behind Powerful Prompts](https://dev.to/jaideepparashar/the-psychology-behind-powerful-prompts-gof)
 <!-- BLOG-POST-LIST:END -->
 
 
