@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-49c5)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-4h0c)
-- [Run a shell script from a webhook call](https://dev.to/jypelle/run-a-shell-script-from-a-webhook-call-4bc4)
-- [Manticore Search 14.1.0: Force Bigrams and Bug Fixes](https://dev.to/sanikolaev/manticore-search-1410-force-bigrams-and-bug-fixes-k3m)
+- [Project Management Courses: Master the Skills to Lead Successful Projects](https://dev.to/ptp_8f8dfa1f68e86d92296b6/project-management-courses-master-the-skills-to-lead-successful-projects-3o00)
+- [Nx vs. Turborepo: Integrated Ecosystem or High-Speed Task Runner? The Key Decision for Your Monorepo](https://dev.to/thedavestack/nx-vs-turborepo-integrated-ecosystem-or-high-speed-task-runner-the-key-decision-for-your-monorepo-279)
+- [Progressive Web Apps: Building Offline-First UIs – Never Lose Your Users Again!](https://dev.to/karthik_n/progressive-web-apps-building-offline-first-uis-never-lose-your-users-again-2mip)
+- [Day 27 of My AI &amp; Data Mastery Journey: From Python to Generative AI](https://dev.to/nitinbhatt46/day-27-of-my-ai-data-mastery-journey-from-python-to-generative-ai-3e45)
 <!-- BLOG-POST-LIST:END -->
 
 
