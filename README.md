@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot Immitation: A gentle Intro](https://dev.to/nicanor_korir/robot-immitation-a-gentle-intro-30hc)
-- [Building the Future of Customer Interaction with Oodles’ Chatbot Development Services](https://dev.to/oodlesplatform/building-the-future-of-customer-interaction-with-oodles-chatbot-development-services-57cg)
-- [AI Just Scored 37.8% of Human Intelligence — Introducing the AGCI Benchmark](https://dev.to/epic_programmer_55489f708/ai-just-scored-378-of-human-intelligence-introducing-the-agci-benchmark-186f)
-- [Looping in JavaScript](https://dev.to/vidya_cdd37fca763a53a10e2/looping-in-javascript-44h2)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-jlh)
+- [Logz.io vs Datadog &lpar;2025&rpar; - OpenSearch/Prometheus vs Proprietary](https://dev.to/signoz/logzio-vs-datadog-2025-opensearchprometheus-vs-proprietary-ccp)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4a48)
+- [How to Sync Anything: Building a Sync Engine from Scratch — Part 1](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-1-3eal)
 <!-- BLOG-POST-LIST:END -->
 
 
