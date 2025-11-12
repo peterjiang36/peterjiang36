@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-jlh)
-- [Logz.io vs Datadog &lpar;2025&rpar; - OpenSearch/Prometheus vs Proprietary](https://dev.to/signoz/logzio-vs-datadog-2025-opensearchprometheus-vs-proprietary-ccp)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4a48)
-- [How to Sync Anything: Building a Sync Engine from Scratch — Part 1](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-1-3eal)
+- [Announcing LightningChart JS 8.1](https://dev.to/omar_lightningchart/announcing-lightningchart-js-81-n9j)
+- [Localizing React re-renders: the magic of compositional boundaries](https://dev.to/unsleeping/localizing-react-re-renders-the-magic-of-compositional-boundaries-39og)
+- [🌀 The Circular Profile Showcase Protocol: Amplify Your Online Presence Across GitHub, LinkedIn, Dev.to, WordPress &amp; Hashnode](https://dev.to/akhilkishore/the-circular-profile-showcase-protocol-amplify-your-online-presence-across-github-linkedin-5dn5)
+- [The Prompt Engineer is Dead. Long Live the AI Systems Architect.](https://dev.to/tixu_ai/the-prompt-engineer-is-dead-long-live-the-ai-systems-architect-4oib)
 <!-- BLOG-POST-LIST:END -->
 
 
