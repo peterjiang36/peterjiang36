@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1)
-- [Git Deep Dive: Mastering rerere](https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm)
-- [Automate Your Astro Blog with GitHub Actions](https://dev.to/picoable/automate-your-astro-blog-with-github-actions-5aic)
+- [Evolving Minds: Building Adaptable AI Through Strategic Response Learning](https://dev.to/arvind_sundararajan/evolving-minds-building-adaptable-ai-through-strategic-response-learning-2j24)
+- [DotCommand 1.3.0 is out. I completely rebuilt the extension.](https://dev.to/freerave/dotcommand-130-is-out-i-completely-rebuilt-the-extension-35j9)
+- [Myth: Training AI models requires enormous energy consumptio](https://dev.to/drcarlosruizviquez/myth-training-ai-models-requires-enormous-energy-consumptio-2ie8)
+- [Why I Built My Own Windows Installer in C#](https://dev.to/iamsopotatoecoder/why-i-built-my-own-windows-installer-in-c-5ap9)
 <!-- BLOG-POST-LIST:END -->
 
 
