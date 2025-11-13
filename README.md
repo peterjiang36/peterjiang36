@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Text Editor in Go - Text Viewer](https://dev.to/alcb1310/create-a-text-editor-in-go-text-viewer-4akp)
-- [Federated AI&#39;s Achilles&#39; Heel: Can Collaborative Teaching Fix Data Corruption?](https://dev.to/arvind_sundararajan/federated-ais-achilles-heel-can-collaborative-teaching-fix-data-corruption-2hf2)
-- [How We Built Coomia DataGPT — An AI Copilot for Data Analysis](https://dev.to/spancer/how-we-built-coomia-datagpt-an-ai-copilot-for-data-analysis-1k6k)
-- [Monetzly: Boost Developer Revenue with AI Monetization Strategies](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-monetization-strategies-f71)
+- [The most powerful web barcode scanner has just launched on the Edge Add-ons Store. Check it out and start scanning instantly! https://microsoftedge.microsoft.com/addons/detail/barcode-qr-code-scanner/lddfadanimbaiceehkfdngafclpodldj](https://dev.to/yushulx/the-most-powerful-web-barcode-scanner-has-just-launched-on-the-edge-add-ons-store-check-it-out-and-1pbo)
+- [Nano-Banana AI: Next-Level Image Creation with Google Gemini 2.5 Flash](https://dev.to/_9ab6f7649cd899d9b6018/nano-banana-ai-next-level-image-creation-with-google-gemini-25-flash-382e)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-g3k)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1)
 <!-- BLOG-POST-LIST:END -->
 
 
