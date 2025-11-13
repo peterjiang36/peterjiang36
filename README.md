@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
-- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
-- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
-- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-b5a)
+- [Top Security Threats in Blockchain](https://dev.to/coinblocklab/top-security-threats-in-blockchain-409f)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-566i)
+- [Mr Sunday Movies: The Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-predator-caravan-of-garbage-90i)
 <!-- BLOG-POST-LIST:END -->
 
 
