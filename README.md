@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Steps on how to create Virtual Machine](https://dev.to/baris86/steps-on-how-to-create-virtual-machine-571b)
-- [How to Integrate WebAssembly: 7 Practical Patterns for Faster Web Applications](https://dev.to/aaravjoshi/how-to-integrate-webassembly-7-practical-patterns-for-faster-web-applications-1k0h)
-- [We Built an x402 Marketplace for Bookmark Collectors &lpar;That Pays Creators &amp; Curators in USDC&rpar;](https://dev.to/handuo/we-built-an-x402-marketplace-for-bookmark-collectors-3id)
-- [Create Your First Google ADK Agent: A Beginner&#39;s Guide](https://dev.to/ranand12/create-your-first-google-adk-agent-a-beginners-guide-5d41)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-2bj3)
+- [How Duolingo Uses Rive for Their Character Animation — And How You Can Build a Similar Rive Mascot System](https://dev.to/uianimation/how-duolingo-uses-rive-for-their-character-animation-and-how-you-can-build-a-similar-rive-mascot-5d19)
+- [FinSight: Towards Real-World Financial Deep Research](https://dev.to/paperium/finsight-towards-real-world-financial-deep-research-1a07)
+- [How to become a DJ, which tech and software to use for newbies](https://dev.to/egledigital/how-to-become-a-dj-which-tech-and-software-to-use-for-newbies-1kjj)
 <!-- BLOG-POST-LIST:END -->
 
 
