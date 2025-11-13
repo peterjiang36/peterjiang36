@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The future of Mobile Apps in the era of Agentic AI](https://dev.to/priya_negi_9ffd29931ea408/the-future-of-mobile-apps-in-the-era-of-agentic-ai-2fjd)
-- [The Journey of Wowzers: Creativity, Challenges, and Our Future](https://dev.to/carter_flynn_7e3f50b8c386/the-journey-of-wowzers-creativity-challenges-and-our-future-3cfj)
-- [🧠 How User-Space and Kernel-Space Affect Security in Linux](https://dev.to/secbyshresth/how-user-space-and-kernel-space-affect-security-in-linux-18an)
-- [What It Takes to Build a Modern Social Network in Django](https://dev.to/smartlegionlab/what-it-takes-to-build-a-modern-social-network-in-django-24dd)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-58ic)
+- [Serverless Node.js: How to Build Ultra-Fast, Cost-Efficient Backends](https://dev.to/grapestechsolution/serverless-nodejs-how-to-build-ultra-fast-cost-efficient-backends-1h57)
+- [🌀 Introducing Rasengan UI Kit — 100+ React Components powered by Shadcn UI](https://dev.to/dilane3/introducing-rasengan-ui-kit-100-react-components-powered-by-shadcn-ui-4390)
 <!-- BLOG-POST-LIST:END -->
 
 
