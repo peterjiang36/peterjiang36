@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-b5a)
-- [Top Security Threats in Blockchain](https://dev.to/coinblocklab/top-security-threats-in-blockchain-409f)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-566i)
-- [Mr Sunday Movies: The Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-predator-caravan-of-garbage-90i)
+- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
+- [How QBurst Migrated a Luxury Brand from Strapi v4 to Strapi 5](https://dev.to/strapi/how-qburst-migrated-a-luxury-brand-from-strapi-v4-to-strapi-5-1j4m)
+- [The Right Way to Structure a Dedicated Software Development Team](https://dev.to/justinsaran/the-right-way-to-structure-a-dedicated-software-development-team-1pa2)
+- [Build a PDF Generation Engine with Next.js, Puppeteer, and Strapi](https://dev.to/strapi/build-a-pdf-generation-engine-with-nextjs-puppeteer-and-strapi-3f5f)
 <!-- BLOG-POST-LIST:END -->
 
 
