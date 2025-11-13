@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Closures Explained in minutes &lpar;🎒 Backpack Analogy&rpar;](https://dev.to/yahav10/closures-explained-in-minutes-backpack-analogy-54k3)
-- [How QBurst Migrated a Luxury Brand from Strapi v4 to Strapi 5](https://dev.to/strapi/how-qburst-migrated-a-luxury-brand-from-strapi-v4-to-strapi-5-1j4m)
-- [The Right Way to Structure a Dedicated Software Development Team](https://dev.to/justinsaran/the-right-way-to-structure-a-dedicated-software-development-team-1pa2)
-- [Build a PDF Generation Engine with Next.js, Puppeteer, and Strapi](https://dev.to/strapi/build-a-pdf-generation-engine-with-nextjs-puppeteer-and-strapi-3f5f)
+- [Blockchain for Beginner Developers](https://dev.to/np_hacks_code/blockchain-for-beginner-developers-4k0e)
+- [Building a Secure DAL: Composable Multi-Tenancy Filtering with C# and Linq2Db](https://dev.to/gigaherz/building-a-secure-dal-composable-multi-tenancy-filtering-with-c-and-linq2db-19lo)
+- [From Figma to Next.js: How I Built a Functional UI Using Kombai](https://dev.to/tarunsinghofficial/from-figma-to-nextjs-how-i-built-a-functional-ui-using-kombai-335j)
+- [It’s Not the Product Owner - It’s You. “We Don’t Have Time for Refactoring” Is the Most Expensive Lie in Tech](https://dev.to/sylwia-lask/its-not-the-product-owner-its-you-we-dont-have-time-for-refactoring-is-the-most-expensive-adp)
 <!-- BLOG-POST-LIST:END -->
 
 
