@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-58ic)
-- [Serverless Node.js: How to Build Ultra-Fast, Cost-Efficient Backends](https://dev.to/grapestechsolution/serverless-nodejs-how-to-build-ultra-fast-cost-efficient-backends-1h57)
-- [🌀 Introducing Rasengan UI Kit — 100+ React Components powered by Shadcn UI](https://dev.to/dilane3/introducing-rasengan-ui-kit-100-react-components-powered-by-shadcn-ui-4390)
+- [Next.js Server Actions vs API Routes: Don’t Build Your App Until You Read This](https://dev.to/myogeshchavan97/nextjs-server-actions-vs-api-routes-dont-build-your-app-until-you-read-this-4kb9)
+- [Multilingual AI and Its Impact in India](https://dev.to/qwegle_insights/multilingual-ai-and-its-impact-in-india-52a0)
+- [NoteBookLM Tutorial: How to Turn Documents Into AI Podcasts](https://dev.to/siddhartha_vandavasi_5c3a/notebooklm-tutorial-how-to-turn-documents-into-ai-podcasts-37j5)
+- [How to Add WhatsApp Button in Your Automotive App](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-whatsapp-button-in-your-automotive-app-4emf)
 <!-- BLOG-POST-LIST:END -->
 
 
