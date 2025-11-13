@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Your ForgeRock IDM MySQL Repository with these Performance Tuning Best Practices](https://dev.to/iamdevbox/optimize-your-forgerock-idm-mysql-repository-with-these-performance-tuning-best-practices-3e61)
-- [The Production-Ready GenAI Platform: A Complete AWS Architecture for Codified Governance](https://dev.to/dee66/the-production-ready-genai-platform-a-complete-aws-architecture-for-codified-governance-4m5e)
-- [Understanding Kafka Lag: Causes and Mitigation Strategies](https://dev.to/j_m47/understanding-kafka-lag-causes-and-mitigation-strategies-3him)
-- [Why Your SWOT Analysis Is Probably Useless: The AI Template That Changes Everything](https://dev.to/huizhudev/why-your-swot-analysis-is-probably-useless-the-ai-template-that-changes-everything-3cng)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3l2d)
+- [Tipos que programam: construindo um encoder Base64 em tempo de compilação](https://dev.to/iagobelo/tipos-que-programam-construindo-um-encoder-base64-em-tempo-de-compilacao-1b02)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-1695)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1l4b)
 <!-- BLOG-POST-LIST:END -->
 
 
