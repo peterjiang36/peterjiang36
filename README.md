@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Metric Tradeoffs in Data Science: Deciding When One Metric Goes Up and Another Goes Down](https://dev.to/xiaoming_nian_94953c8c9b8/metric-tradeoffs-in-data-science-deciding-when-one-metric-goes-up-and-another-goes-down-1e55)
-- [How to create a timeline: Excel, Word, PowerPoint, Google Sheets, Preceden, and JavaScript](https://dev.to/ritzaco/how-to-create-a-timeline-excel-word-powerpoint-google-sheets-preceden-and-javascript-3126)
-- [How to Configure Swap Memory in Linux](https://dev.to/serveravatar/how-to-configure-swap-memory-in-linux-78i)
-- [Erklärbare KI](https://dev.to/causanova/erklarbare-ki-3bej)
+- [How Angular Signals Transformed My State Management - And Yours Can Too](https://dev.to/karol_modelski/how-angular-signals-transformed-my-state-management-and-yours-can-too-4i93)
+- [How I Built a Thunderbird Translator Without Coding Experience Using AI](https://dev.to/buxarnet/how-i-built-a-thunderbird-translator-without-coding-experience-using-ai-32b0)
+- [🚀 Live Stock Dashboard with Peer Analysis — Built with Streamlit &lpar;python&rpar;.](https://dev.to/dev_ops_python/live-stock-dashboard-with-peer-analysis-built-with-streamlit-python-277i)
+- [WTF is Reverse Debugging?](https://dev.to/dailybugle33/wtf-is-reverse-debugging-4f92)
 <!-- BLOG-POST-LIST:END -->
 
 
