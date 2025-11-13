@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b92)
-- [10 Years in: Why I Still Google Everything &lpar;And Why I’m Finally Okay With It&rpar;](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7)
-- [Building a Production RAG System for Resume Search: What Actually Worked &lpar;and What Didn&#39;t&rpar;](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-47mc)
+- [Create a Text Editor in Go - Text Viewer](https://dev.to/alcb1310/create-a-text-editor-in-go-text-viewer-4akp)
+- [Federated AI&#39;s Achilles&#39; Heel: Can Collaborative Teaching Fix Data Corruption?](https://dev.to/arvind_sundararajan/federated-ais-achilles-heel-can-collaborative-teaching-fix-data-corruption-2hf2)
+- [How We Built Coomia DataGPT — An AI Copilot for Data Analysis](https://dev.to/spancer/how-we-built-coomia-datagpt-an-ai-copilot-for-data-analysis-1k6k)
+- [Monetzly: Boost Developer Revenue with AI Monetization Strategies](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-monetization-strategies-f71)
 <!-- BLOG-POST-LIST:END -->
 
 
