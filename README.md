@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Content Marketing: 2025 Strategies That Actually Work](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategies-that-actually-work-fpm)
-- [A Quick Vibe Code Experiment with Angular&#39;s MCP Server](https://dev.to/angular/a-quick-vibe-code-experiment-with-angulars-mcp-server-3g2h)
-- [Why Every Developer Should Understand the Learning Science Behind AI](https://dev.to/jamespatterson25/why-every-developer-should-understand-the-learning-science-behind-ai-311n)
-- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2f8c)
+- [[Boost]](https://dev.to/uliyahoo/-2o0i)
+- [My DevSecOps Journey: Blending Security, Automation &amp; Passion](https://dev.to/shabbirali_khanushiya/my-devsecops-journey-blending-security-automation-passion-1ppe)
+- [Day 63 of My Data Analytics Journey!](https://dev.to/ramyacse/day-63-of-my-data-analytics-journey-27o3)
 <!-- BLOG-POST-LIST:END -->
 
 
