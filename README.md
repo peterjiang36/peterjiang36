@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Model Context Sizes &lpar;Nov 2025&rpar;](https://dev.to/dr_furqanullah_8819ecd9/github-copilot-model-context-sizes-nov-2025-3nif)
-- [How I Build Books, Brands &amp; Products With ChatGPT](https://dev.to/jaideepparashar/how-i-build-books-brands-products-with-chatgpt-3em5)
-- [🚀 ¡Despídete del Caos de Configs! Mi Viaje con Azure App Configuration: Escalabilidad, Seguridad y 0 Downtimes en Microservicios](https://dev.to/francotel/despidete-del-caos-de-configs-mi-viaje-con-azure-app-configuration-escalabilidad-seguridad-y-52g7)
-- [Build Live Caption Broadcasting for Events with Next.js and Elevenlabs API](https://dev.to/jqueryscript/build-live-caption-broadcasting-for-events-with-nextjs-and-elevenlabs-api-1mbb)
+- [NPR Music: Emily King: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-2l00)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - &#39;Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-24n0)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2b44)
+- [Shock to the System: How We &#39;Hacked&#39; a Tesla at Zero Nights 2017 ⚡🔧](https://dev.to/d3one/shock-to-the-system-how-we-hacked-a-tesla-at-zero-nights-2017-413n)
 <!-- BLOG-POST-LIST:END -->
 
 
