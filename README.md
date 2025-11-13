@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Internet of Things](https://dev.to/solegaonkar/the-internet-of-things-154j)
-- [🚀 Introducing Router-Kit a lightweight, eco-friendly React router for simple routing needs](https://dev.to/mohammedbencheikh/introducing-router-kit-a-lightweight-eco-friendly-react-router-for-simple-routing-needs-1aaj)
-- [boing de mango](https://dev.to/hary_valentinobeltranhe/gh-3kho)
-- [devme.me a puzzle meme-driven mini-game full of silly jokes](https://dev.to/linegel/devmeme-a-puzzle-meme-driven-mini-game-full-of-silly-jokes-1d32)
+- [# I Built a MindsEye x Google AI Stack in 6 Repos &lpar;Without Cloud Credits or API Budget… Yet&rpar;](https://dev.to/peacebinflow/-i-built-a-mindseye-x-google-ai-stack-in-6-repos-without-cloud-credits-or-api-budget-yet-1cep)
+- [Why Developers Need Automated Brag Docs](https://dev.to/nataliaherself/why-developers-need-automated-brag-docs-1gko)
+- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
+- [Setting up CI/CD with GitHub Actions](https://dev.to/jongwan93/setting-up-cicd-with-github-actions-1ap9)
 <!-- BLOG-POST-LIST:END -->
 
 
