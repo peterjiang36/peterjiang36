@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# I Built a MindsEye x Google AI Stack in 6 Repos &lpar;Without Cloud Credits or API Budget… Yet&rpar;](https://dev.to/peacebinflow/-i-built-a-mindseye-x-google-ai-stack-in-6-repos-without-cloud-credits-or-api-budget-yet-1cep)
-- [Why Developers Need Automated Brag Docs](https://dev.to/nataliaherself/why-developers-need-automated-brag-docs-1gko)
-- [Inline editing with custom elements in Rails](https://dev.to/railsdesigner/inline-editing-with-custom-elements-in-rails-10gl)
-- [Setting up CI/CD with GitHub Actions](https://dev.to/jongwan93/setting-up-cicd-with-github-actions-1ap9)
+- [Day 10 Django Learning.](https://dev.to/stackbento/day-10-django-learning-430g)
+- [An ADHD-Friendly Task &amp; Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
+- [Terraform](https://dev.to/jumptotech/terraform-4c0k)
+- [Secure and Efficient Remote File System Mounting with SSHFS: A Practical Guide](https://dev.to/autoescuelaexpres/secure-and-efficient-remote-file-system-mounting-with-sshfs-a-practical-guide-2bin)
 <!-- BLOG-POST-LIST:END -->
 
 
