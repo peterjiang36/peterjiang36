@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Server Actions vs API Routes: Don’t Build Your App Until You Read This](https://dev.to/myogeshchavan97/nextjs-server-actions-vs-api-routes-dont-build-your-app-until-you-read-this-4kb9)
-- [Multilingual AI and Its Impact in India](https://dev.to/qwegle_insights/multilingual-ai-and-its-impact-in-india-52a0)
-- [NoteBookLM Tutorial: How to Turn Documents Into AI Podcasts](https://dev.to/siddhartha_vandavasi_5c3a/notebooklm-tutorial-how-to-turn-documents-into-ai-podcasts-37j5)
-- [How to Add WhatsApp Button in Your Automotive App](https://dev.to/kamal_deeppareek_f5bb5d8/how-to-add-whatsapp-button-in-your-automotive-app-4emf)
+- [Metric Tradeoffs in Data Science: Deciding When One Metric Goes Up and Another Goes Down](https://dev.to/xiaoming_nian_94953c8c9b8/metric-tradeoffs-in-data-science-deciding-when-one-metric-goes-up-and-another-goes-down-1e55)
+- [How to create a timeline: Excel, Word, PowerPoint, Google Sheets, Preceden, and JavaScript](https://dev.to/ritzaco/how-to-create-a-timeline-excel-word-powerpoint-google-sheets-preceden-and-javascript-3126)
+- [How to Configure Swap Memory in Linux](https://dev.to/serveravatar/how-to-configure-swap-memory-in-linux-78i)
+- [Erklärbare KI](https://dev.to/causanova/erklarbare-ki-3bej)
 <!-- BLOG-POST-LIST:END -->
 
 
