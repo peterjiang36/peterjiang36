@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2f8c)
-- [[Boost]](https://dev.to/uliyahoo/-2o0i)
-- [My DevSecOps Journey: Blending Security, Automation &amp; Passion](https://dev.to/shabbirali_khanushiya/my-devsecops-journey-blending-security-automation-passion-1ppe)
-- [Day 63 of My Data Analytics Journey!](https://dev.to/ramyacse/day-63-of-my-data-analytics-journey-27o3)
+- [Steps on how to create Virtual Machine](https://dev.to/baris86/steps-on-how-to-create-virtual-machine-571b)
+- [How to Integrate WebAssembly: 7 Practical Patterns for Faster Web Applications](https://dev.to/aaravjoshi/how-to-integrate-webassembly-7-practical-patterns-for-faster-web-applications-1k0h)
+- [We Built an x402 Marketplace for Bookmark Collectors &lpar;That Pays Creators &amp; Curators in USDC&rpar;](https://dev.to/handuo/we-built-an-x402-marketplace-for-bookmark-collectors-3id)
+- [Create Your First Google ADK Agent: A Beginner&#39;s Guide](https://dev.to/ranand12/create-your-first-google-adk-agent-a-beginners-guide-5d41)
 <!-- BLOG-POST-LIST:END -->
 
 
