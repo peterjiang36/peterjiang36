@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-d6j)
-- [Build a Google Docs-Style Editor with NextJS and Quill](https://dev.to/getstreamhq/build-a-google-docs-style-editor-with-nextjs-and-quill-4fc2)
-- [Why I Use JetBrains Rider for .NET Development](https://dev.to/this-is-learning/why-i-use-jetbrains-rider-for-net-development-2a8k)
-- [I Trained 4 AI Tools on My Work. Now They Remember Everything I Forget.](https://dev.to/sonu_goswami/i-trained-4-ai-tools-on-my-work-now-they-remember-everything-i-forget-15lg)
+- [Fusaka Mainnet Upgrade, Linea’s Exponent Tokenomics, Etherspot’s EIP-7702 Workshop at Devconnect](https://dev.to/etherspot/fusaka-mainnet-upgrade-lineas-exponent-tokenomics-etherspots-eip-7702-workshop-at-devconnect-1kdo)
+- [How to Add Real-Time Web Search to Your LLM Using Tavily](https://dev.to/manishmshiva/how-to-add-real-time-web-search-to-your-llm-using-tavily-37hn)
+- [Setup Your Lightweight Backend in Minutes using PocketBase and Sevalla](https://dev.to/manishmshiva/setup-your-lightweight-backend-in-minutes-using-pocketbase-and-sevalla-20c6)
+- [What I Learned After My First Week Sharing on Dev.to](https://dev.to/itsugo/what-i-learned-after-my-first-week-sharing-on-devto-3ifp)
 <!-- BLOG-POST-LIST:END -->
 
 
