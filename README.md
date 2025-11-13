@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Angular Signals Transformed My State Management - And Yours Can Too](https://dev.to/karol_modelski/how-angular-signals-transformed-my-state-management-and-yours-can-too-4i93)
-- [How I Built a Thunderbird Translator Without Coding Experience Using AI](https://dev.to/buxarnet/how-i-built-a-thunderbird-translator-without-coding-experience-using-ai-32b0)
-- [🚀 Live Stock Dashboard with Peer Analysis — Built with Streamlit &lpar;python&rpar;.](https://dev.to/dev_ops_python/live-stock-dashboard-with-peer-analysis-built-with-streamlit-python-277i)
-- [WTF is Reverse Debugging?](https://dev.to/dailybugle33/wtf-is-reverse-debugging-4f92)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-d6j)
+- [Build a Google Docs-Style Editor with NextJS and Quill](https://dev.to/getstreamhq/build-a-google-docs-style-editor-with-nextjs-and-quill-4fc2)
+- [Why I Use JetBrains Rider for .NET Development](https://dev.to/this-is-learning/why-i-use-jetbrains-rider-for-net-development-2a8k)
+- [I Trained 4 AI Tools on My Work. Now They Remember Everything I Forget.](https://dev.to/sonu_goswami/i-trained-4-ai-tools-on-my-work-now-they-remember-everything-i-forget-15lg)
 <!-- BLOG-POST-LIST:END -->
 
 
