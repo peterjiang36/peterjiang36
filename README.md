@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A real-world example of CsvPath schemas](https://dev.to/david_kershaw_b6916404da6/a-real-world-example-of-csvpath-schemas-1j0p)
-- [Writing Your First Compiler - Part 7: Taking Stock](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-7-taking-stock-403j)
-- [Next.js + Resend APIでお問い合わせフォームを実装した話](https://dev.to/beachone1155/nextjs-resend-apideowen-ihe-wasehuomuwoshi-zhuang-sitahua-1mkm)
-- [Overcoming the Fear of Git for Beginners](https://dev.to/stelixx-insider/overcoming-the-fear-of-git-for-beginners-5hj8)
+- [In-Depth Comparison of LoRaWAN Network Servers: ThinkLink, TTS, ChirpStack, Loriot, and Actility](https://dev.to/manthink/in-depth-comparison-of-lorawan-network-servers-thinklink-tts-chirpstack-loriot-and-actility-45l8)
+- [Create a Text Editor in Go - Status Bar](https://dev.to/alcb1310/create-a-text-editor-in-go-status-bar-2047)
+- [Two Hours to Find a Swapped String](https://dev.to/yrizos/two-hours-to-find-a-swapped-string-4jba)
+- [MySQL COUNT Scalar Subquery Optimization: The Complete Guide](https://dev.to/sqlflash1024/mysql-count-scalar-subquery-optimization-the-complete-guide-45e8)
 <!-- BLOG-POST-LIST:END -->
 
 
