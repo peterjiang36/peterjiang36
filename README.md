@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10 Django Learning.](https://dev.to/stackbento/day-10-django-learning-430g)
-- [An ADHD-Friendly Task &amp; Focus Timer Built in PHP.](https://dev.to/wildshark/an-adhd-friendly-task-focus-timer-built-in-php-563h)
-- [Terraform](https://dev.to/jumptotech/terraform-4c0k)
-- [Secure and Efficient Remote File System Mounting with SSHFS: A Practical Guide](https://dev.to/autoescuelaexpres/secure-and-efficient-remote-file-system-mounting-with-sshfs-a-practical-guide-2bin)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-20e5)
+- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-5cl7)
+- [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
+- [Autotools Miscellany](https://dev.to/pauljlucas/autotools-miscellany-34hn)
 <!-- BLOG-POST-LIST:END -->
 
 
