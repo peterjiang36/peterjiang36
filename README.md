@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔋 10 Hidden Android Battery-Saving Tricks You Probably Don’t Know About](https://dev.to/bharath_vasishtha/10-hidden-android-battery-saving-tricks-you-probably-dont-know-about-16oe)
-- [How I Built a Full SEO Insights Chrome Extension in Just 2 Hours Using AI](https://dev.to/kedar_dangal_92686d6406fa/how-i-built-a-full-seo-insights-chrome-extension-in-just-2-hours-using-ai-76)
-- [Deploying a Flask App Across Multiple AWS Regions](https://dev.to/techwithhari/deploying-a-flask-app-across-multiple-aws-regions-305b)
-- [Bringing the Popular codeSTACKr Theme to IntelliJ IDEA](https://dev.to/imranjankm/bringing-the-popular-codestackr-theme-to-intellij-idea-4c7j)
+- [PHP: Do you need async?](https://dev.to/spo0q/php-do-you-need-async-248f)
+- [Azura: local-first personal assistant &lpar;feedback wanted&rpar;](https://dev.to/criscmd/azura-local-first-personal-assistant-feedback-wanted-56dp)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4nkg)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-n99)
 <!-- BLOG-POST-LIST:END -->
 
 
