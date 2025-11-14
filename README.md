@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java&#39;s Funny Little Heresies](https://dev.to/vulinh64/javas-funny-little-heresies-2cng)
-- [Smarter Testing with AI: How Test Case Creation and Data Management Are Evolving](https://dev.to/aio_tests_903984883a574e9/smarter-testing-with-ai-how-test-case-creation-and-data-management-are-evolving-p1)
-- [Daily Tech News Roundup - 2025-11-14](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-14-372o)
-- [🧠💥 “Linear Algebra Ruined My Life &lpar;and Made Me Better at AI&rpar;”](https://dev.to/abdelazizel7or/linear-algebra-ruined-my-life-and-made-me-better-at-ai-2eii)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m)
+- [From File Chaos to Clean Catalog: How AI Batch Tools Organize &amp; Remove Backgrounds at Scale](https://dev.to/freepixel11/from-file-chaos-to-clean-catalog-how-ai-batch-tools-organize-remove-backgrounds-at-scale-o33)
+- [Next.jsでQiita風の見出しアンカーリンクを実装する方法](https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj)
+- [In this post, I&#39;ll show exactly how I use GitHub Actions as a free, always-on automation engine to support my daily routines, my internal tools, and my one-person company’s operations.](https://dev.to/cheungmanyung/in-this-post-ill-show-exactly-how-i-use-github-actions-as-a-free-always-on-automation-engine-to-1kmp)
 <!-- BLOG-POST-LIST:END -->
 
 
