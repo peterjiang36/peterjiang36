@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2fa1)
-- [Custom Validators in Angular Signal Forms &lpar;You Probably Need This&rpar;](https://dev.to/brianmtreese/custom-validators-in-angular-signal-forms-you-probably-need-this-2lim)
-- [Django 5.2 &lpar;LTS&rpar; Upgrade Guide - Breaking Changes, New Features, and Why You Should Upgrade](https://dev.to/devasservice/django-52-lts-upgrade-guide-breaking-changes-new-features-and-why-you-should-upgrade-1b1b)
+- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
+- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
+- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
+- [Day 4: Understanding Cloud Billing and Pricing Models](https://dev.to/ibbus/day-4-understanding-cloud-billing-and-pricing-models-55n0)
 <!-- BLOG-POST-LIST:END -->
 
 
