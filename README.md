@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Future of Nanotechnology Manufacturing: Trends and Innovations](https://dev.to/jason-robinson/future-of-nanotechnology-manufacturing-trends-and-innovations-45n3)
-- [Get Images For Your XRPL Project](https://dev.to/bithomp/get-images-for-your-xrpl-project-c49)
-- [ByteAether.Ulid 1.3.2: .NET 10 Support, C# 14&#39;s Field, and Engineering Zero-Overhead IDs](https://dev.to/gigaherz/byteaetherulid-132-net-10-support-c-14s-field-and-engineering-zero-overhead-ids-3pn7)
-- [AION CLI: The Figma Your Backend Has Been Waiting For](https://dev.to/shinoj_cm_6b559b3ab51bf47/aion-cli-the-figma-your-backend-has-been-waiting-for-55k)
+- [Elastic Container Service on AWS - How to Get Started Step-by-Step](https://dev.to/heyjoshlee/elastic-container-service-on-aws-how-to-get-started-step-by-step-5eff)
+- [Spring: la Feature que Tardó 6 Años en Llegar &lpar;Y Cómo Cambia Todo&rpar;](https://dev.to/fdherrera/spring-la-feature-que-tardo-6-anos-en-llegar-y-como-cambia-todo-38i0)
+- [Top 5 Aplikasi Terbaik untuk Muslim di 2026 &lpar;Wajib Dicoba!&rpar;](https://dev.to/cas8398/top-5-aplikasi-terbaik-untuk-muslim-di-2026-wajib-dicoba-23n3)
+- [The ideal way to prompt your AI coding assistant for 90% accuracy](https://dev.to/anita_ihuman/the-ideal-way-to-prompt-your-ai-coding-assistant-for-90-accuracy-1f09)
 <!-- BLOG-POST-LIST:END -->
 
 
