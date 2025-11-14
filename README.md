@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Logic Apps Locally with VS Code: HTTP, Blob, Queue &amp; More](https://dev.to/imdj/building-logic-apps-locally-with-vs-code-http-blob-queue-more-1agj)
-- [**Breaking the Data Silos in Federated Learning: The Rise of](https://dev.to/drcarlosruizviquez/breaking-the-data-silos-in-federated-learning-the-rise-of-2mi9)
-- [Sending Emails with Rust, Axum, and Resend: A Complete Guide](https://dev.to/mayu2008/sending-emails-with-rust-axum-and-resend-a-complete-guide-13pa)
-- [What happens when you type console.log&lpar;&rpar;?](https://dev.to/giftintech/what-happens-when-you-type-consolelog-3k4p)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4hjc)
+- [Interoperating Open Table Formats on AWS Using Apache XTable &lpar;Delta Iceberg&rpar;](https://dev.to/aws-builders/interoperating-open-table-formats-on-aws-using-apache-xtable-delta-iceberg-39id)
+- [Self-Propelled Missiles: How To Find and Work with High Achievers](https://dev.to/gamepill/self-propelled-missiles-how-to-find-and-work-with-high-achievers-1903)
+- [[Boost]](https://dev.to/sucodelarangela/-dge)
 <!-- BLOG-POST-LIST:END -->
 
 
