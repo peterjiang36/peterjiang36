@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP: Do you need async?](https://dev.to/spo0q/php-do-you-need-async-248f)
-- [Azura: local-first personal assistant &lpar;feedback wanted&rpar;](https://dev.to/criscmd/azura-local-first-personal-assistant-feedback-wanted-56dp)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-4nkg)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-n99)
+- [Future of Nanotechnology Manufacturing: Trends and Innovations](https://dev.to/jason-robinson/future-of-nanotechnology-manufacturing-trends-and-innovations-45n3)
+- [Get Images For Your XRPL Project](https://dev.to/bithomp/get-images-for-your-xrpl-project-c49)
+- [ByteAether.Ulid 1.3.2: .NET 10 Support, C# 14&#39;s Field, and Engineering Zero-Overhead IDs](https://dev.to/gigaherz/byteaetherulid-132-net-10-support-c-14s-field-and-engineering-zero-overhead-ids-3pn7)
+- [AION CLI: The Figma Your Backend Has Been Waiting For](https://dev.to/shinoj_cm_6b559b3ab51bf47/aion-cli-the-figma-your-backend-has-been-waiting-for-55k)
 <!-- BLOG-POST-LIST:END -->
 
 
