@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adaptability as the Core of Software Design](https://dev.to/leonpennings/adaptability-as-the-core-of-software-design-5ah8)
-- [How To Integrate Native C++ Codes Into Arkts](https://dev.to/harmonyos/how-to-integrate-native-c-codes-into-arkts-3hde)
-- [Getting Marimo Up and Running on Windows with uv](https://dev.to/nazanin_ashrafi/getting-marimo-up-and-running-on-windows-with-uv-4982)
-- [DevOps Engineer to Cloud Architect](https://dev.to/abidaslam892/devops-engineer-to-cloud-architect-57cb)
+- [Which DevOps certs are necessary for a Frontend Lead?](https://dev.to/kelvynthai/which-devops-certs-are-necessary-for-a-frontend-lead-5pn)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2fa1)
+- [Custom Validators in Angular Signal Forms &lpar;You Probably Need This&rpar;](https://dev.to/brianmtreese/custom-validators-in-angular-signal-forms-you-probably-need-this-2lim)
+- [Django 5.2 &lpar;LTS&rpar; Upgrade Guide - Breaking Changes, New Features, and Why You Should Upgrade](https://dev.to/devasservice/django-52-lts-upgrade-guide-breaking-changes-new-features-and-why-you-should-upgrade-1b1b)
 <!-- BLOG-POST-LIST:END -->
 
 
