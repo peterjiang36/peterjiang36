@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trupe: Implementando o Modelo de Atores no .NET](https://dev.to/actor-dev/trupe-implementando-o-modelo-de-atores-no-net-2gmk)
-- [Trupe: Implementing Actor Model in .NET](https://dev.to/actor-dev/trupe-implementing-actor-model-in-net-5hch)
-- [The True Cost of a Data Breach](https://dev.to/guardingpearsoftware/the-true-cost-of-a-data-breach-5bkc)
-- [Day 4: Understanding Cloud Billing and Pricing Models](https://dev.to/ibbus/day-4-understanding-cloud-billing-and-pricing-models-55n0)
+- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c9m)
+- [⚛️ React Suspense in 2025: Beyond Lazy Loading](https://dev.to/tahamjp/react-suspense-in-2025-beyond-lazy-loading-398d)
+- [Essential updates in Xcode 26.1.1 with Swift 6.2.1](https://dev.to/arshtechpro/essential-updates-in-xcode-2611-with-swift-621-2e3i)
+- [Introducing Pale Blue Spring Admin: auto-generated admin UI for Spring Boot](https://dev.to/rockandnull/introducing-pale-blue-spring-admin-auto-generated-admin-ui-for-spring-boot-1ccf)
 <!-- BLOG-POST-LIST:END -->
 
 
