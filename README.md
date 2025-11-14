@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-20e5)
-- [Mr Sunday Movies: A New High? - Predator: Badlands Review](https://dev.to/popcorn_movies/mr-sunday-movies-a-new-high-predator-badlands-review-5cl7)
-- [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
-- [Autotools Miscellany](https://dev.to/pauljlucas/autotools-miscellany-34hn)
+- [A real-world example of CsvPath schemas](https://dev.to/david_kershaw_b6916404da6/a-real-world-example-of-csvpath-schemas-1j0p)
+- [Writing Your First Compiler - Part 7: Taking Stock](https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-7-taking-stock-403j)
+- [Next.js + Resend APIでお問い合わせフォームを実装した話](https://dev.to/beachone1155/nextjs-resend-apideowen-ihe-wasehuomuwoshi-zhuang-sitahua-1mkm)
+- [Overcoming the Fear of Git for Beginners](https://dev.to/stelixx-insider/overcoming-the-fear-of-git-for-beginners-5hj8)
 <!-- BLOG-POST-LIST:END -->
 
 
