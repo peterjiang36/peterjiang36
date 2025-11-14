@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [In-Depth Comparison of LoRaWAN Network Servers: ThinkLink, TTS, ChirpStack, Loriot, and Actility](https://dev.to/manthink/in-depth-comparison-of-lorawan-network-servers-thinklink-tts-chirpstack-loriot-and-actility-45l8)
-- [Create a Text Editor in Go - Status Bar](https://dev.to/alcb1310/create-a-text-editor-in-go-status-bar-2047)
-- [Two Hours to Find a Swapped String](https://dev.to/yrizos/two-hours-to-find-a-swapped-string-4jba)
-- [MySQL COUNT Scalar Subquery Optimization: The Complete Guide](https://dev.to/sqlflash1024/mysql-count-scalar-subquery-optimization-the-complete-guide-45e8)
+- [The Day a Service Worker Held My Entire Site Hostage](https://dev.to/bradleymatera/the-day-a-service-worker-held-my-entire-site-hostage-21d3)
+- [Master Touch Typing: The Complete Guide for Developers and Tech Learners](https://dev.to/farhad_rahimi_klie/master-touch-typing-the-complete-guide-for-developers-and-tech-learners-44jj)
+- [Just like we debug code, we can debug prompts and consistently turn dull outputs into deep, well-reasoned, usable results. But hardly anyone knew how to do it.](https://dev.to/jaideepparashar/just-like-we-debug-code-we-can-debug-prompts-and-consistently-turn-dull-outputs-into-deep-3ibc)
+- [TanStack Starter: Complete Full-Stack Template with Authentication and Database Integration](https://dev.to/jqueryscript/tanstack-starter-complete-full-stack-template-with-authentication-and-database-integration-2g51)
 <!-- BLOG-POST-LIST:END -->
 
 
