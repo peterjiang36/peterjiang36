@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Thunderbolts* &lpar;The New Avengers&rpar; In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5c9m)
-- [⚛️ React Suspense in 2025: Beyond Lazy Loading](https://dev.to/tahamjp/react-suspense-in-2025-beyond-lazy-loading-398d)
-- [Essential updates in Xcode 26.1.1 with Swift 6.2.1](https://dev.to/arshtechpro/essential-updates-in-xcode-2611-with-swift-621-2e3i)
-- [Introducing Pale Blue Spring Admin: auto-generated admin UI for Spring Boot](https://dev.to/rockandnull/introducing-pale-blue-spring-admin-auto-generated-admin-ui-for-spring-boot-1ccf)
+- [🔋 10 Hidden Android Battery-Saving Tricks You Probably Don’t Know About](https://dev.to/bharath_vasishtha/10-hidden-android-battery-saving-tricks-you-probably-dont-know-about-16oe)
+- [How I Built a Full SEO Insights Chrome Extension in Just 2 Hours Using AI](https://dev.to/kedar_dangal_92686d6406fa/how-i-built-a-full-seo-insights-chrome-extension-in-just-2-hours-using-ai-76)
+- [Deploying a Flask App Across Multiple AWS Regions](https://dev.to/techwithhari/deploying-a-flask-app-across-multiple-aws-regions-305b)
+- [Bringing the Popular codeSTACKr Theme to IntelliJ IDEA](https://dev.to/imranjankm/bringing-the-popular-codestackr-theme-to-intellij-idea-4c7j)
 <!-- BLOG-POST-LIST:END -->
 
 
