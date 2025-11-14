@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Elastic Container Service on AWS - How to Get Started Step-by-Step](https://dev.to/heyjoshlee/elastic-container-service-on-aws-how-to-get-started-step-by-step-5eff)
-- [Spring: la Feature que Tardó 6 Años en Llegar &lpar;Y Cómo Cambia Todo&rpar;](https://dev.to/fdherrera/spring-la-feature-que-tardo-6-anos-en-llegar-y-como-cambia-todo-38i0)
-- [Top 5 Aplikasi Terbaik untuk Muslim di 2026 &lpar;Wajib Dicoba!&rpar;](https://dev.to/cas8398/top-5-aplikasi-terbaik-untuk-muslim-di-2026-wajib-dicoba-23n3)
-- [The ideal way to prompt your AI coding assistant for 90% accuracy](https://dev.to/anita_ihuman/the-ideal-way-to-prompt-your-ai-coding-assistant-for-90-accuracy-1f09)
+- [Intelligent Request Queue Management in WebForms Core 2](https://dev.to/elanatframework/intelligent-request-queue-management-in-webforms-core-2-32jk)
+- [Nuxt Tutorial 2 - Components &amp; Pages](https://dev.to/aloisseckar/nuxt-tutorial-2-components-pages-432g)
+- [War of the words](https://dev.to/leon_lin_s/war-of-the-words-a27)
+- [Optical Flow: How Robots &lpar;and maybe your Phone&rpar; See Motion](https://dev.to/nicanor_korir/optical-flow-how-robots-and-maybe-your-phone-see-motion-19ca)
 <!-- BLOG-POST-LIST:END -->
 
 
