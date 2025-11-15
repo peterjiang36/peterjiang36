@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
-- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
-- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
-- [react](https://dev.to/marat_nersesyan_2b61cfda6/react-4993)
+- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n)
+- [Git and GitHub setup for Linux and Windows | Full Guide.](https://dev.to/bekbrace/git-and-github-setup-for-linux-and-windows-full-guide-73)
+- [Meet GitHub Actions](https://dev.to/whyang9701/meet-github-actions-1kop)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-28pe)
 <!-- BLOG-POST-LIST:END -->
 
 
