@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
-- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
-- [Logic Apps Local Dev Tools: Visual Walkthrough](https://dev.to/imdj/logic-apps-local-dev-tools-visual-walkthrough-5gph)
-- [Is Your Frontend Blindfolded? Monitoring &amp; Observability for Beginners](https://dev.to/karthik_n/is-your-frontend-blindfolded-monitoring-observability-for-beginners-4e54)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566)
+- [Stop Casting a Wide Net. Start Spear-Phishing: A Developer&#39;s Guide to Account-Based Marketing](https://dev.to/michaelaiglobal/stop-casting-a-wide-net-start-spear-phishing-a-developers-guide-to-account-based-marketing-15p3)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-5b53)
+- [The Voice Revolution](https://dev.to/rawveg/the-voice-revolution-498)
 <!-- BLOG-POST-LIST:END -->
 
 
