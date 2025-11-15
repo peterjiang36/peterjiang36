@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient S3 File Uploads: Speed &amp; Large File Handling in Spring Boot](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-spring-boot-gil)
-- [Mindmap Ziin: A Free Mindmap SaaS service](https://dev.to/choonho/mindmap-ziin-a-free-mindmap-5340)
-- [[Boost]](https://dev.to/1855git/-465o)
-- [CI/CD on Local Gitlab server| Setup GitLab Runner | Self-hosted GitLab](https://dev.to/ishmam_abir/cicd-on-local-gitlab-server-setup-gitlab-runner-self-hosted-gitlab-37nf)
+- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
+- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
+- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
+- [Why 410 Million Parameters Might Be Consciousness&#39;s Magic Number](https://dev.to/aureus_c_b3ba7f87cc34d74d49/why-410-million-parameters-might-be-consciousnesss-magic-number-5h9f)
 <!-- BLOG-POST-LIST:END -->
 
 
