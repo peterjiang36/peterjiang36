@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Resilience &amp; Routing Reliability: Lessons from Real-World Cloud Systems](https://dev.to/vaibhav_bedi_82eeb9670233/network-resilience-routing-reliability-lessons-from-real-world-cloud-systems-2joe)
-- [What is Hydration in Next.js ⚠️?](https://dev.to/manishsahu001/what-is-hydration-in-nextjs--mh9)
-- [Availability — Throttling &lpar;1&rpar;](https://dev.to/sawantudayan/availability-throttling-1-1an1)
-- [ComfyDeploy Local Development Setup Guide](https://dev.to/ogkai/comfydeploy-local-development-setup-guide-h6m)
+- [Contrary to JAVA, embedded in Python is the idea of Methods and Functions](https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df)
+- [Coding Challenge Practice - Question 56](https://dev.to/tomivan/coding-challenge-practice-question-56-343k)
+- [Cloud Automation: Stop Clicking Buttons and Start Shipping Faster](https://dev.to/vaibhav_bedi_82eeb9670233/cloud-automation-stop-clicking-buttons-and-start-shipping-faster-2ble)
+- [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
 <!-- BLOG-POST-LIST:END -->
 
 
