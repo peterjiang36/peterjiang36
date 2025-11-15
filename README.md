@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n)
-- [Git and GitHub setup for Linux and Windows | Full Guide.](https://dev.to/bekbrace/git-and-github-setup-for-linux-and-windows-full-guide-73)
-- [Meet GitHub Actions](https://dev.to/whyang9701/meet-github-actions-1kop)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-28pe)
+- [Open-Sourcing arkA — A Universal Video Protocol Inspired by RSS](https://dev.to/arka_project_4a91672d6a48/open-sourcing-arka-a-universal-video-protocol-inspired-by-rss-4hip)
+- [Understanding err, stdout, and stderr in Node.js](https://dev.to/tenelabs/understanding-err-stdout-and-stderr-in-nodejs-19em)
+- [Multi-Species Mayhem: Upgrading My Martian Iono-Model from CO Solo to Chemical Choir](https://dev.to/masoomjethwa/multi-species-mayhem-upgrading-my-martian-iono-model-from-co2-solo-to-chemical-choir-31ca)
+- [VS Code vs Visual Studio](https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib)
 <!-- BLOG-POST-LIST:END -->
 
 
