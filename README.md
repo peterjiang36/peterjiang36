@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal Architecture na Prática: Construindo Software Sustentável com Java e Spring Boot](https://dev.to/thrsouza/hexagonal-architecture-na-pratica-construindo-software-sustentavel-com-java-e-spring-boot-2731)
-- [While Zapier/n8n Are Busy &#39;Wrapping APIs&#39;, Flowork Focuses on &#39;Training AI Models&#39; &lpar;A Deep Dive into AITrainingService&rpar;](https://dev.to/tarno_pon_968706448b52563/while-zapiern8n-are-busy-wrapping-apis-flowork-focuses-on-training-ai-models-a-deep-dive-55hj)
-- [Stop Trusting, Start Verifying: How Flowork&#39;s E2EE Backups Define &quot;Zero-Trust&quot; Automation](https://dev.to/tarno_pon_968706448b52563/stop-trusting-start-verifying-how-floworks-e2ee-backups-define-zero-trust-automation-42p2)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-58ha)
+- [Setting Up Continuous Integration Workflow and Running Tests in Another Repository.](https://dev.to/cynthia_f/setting-up-continuous-integration-workflow-and-running-tests-in-another-repository-4d74)
+- [Quantum-Inspired Data Sculpting: Revolutionizing Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-data-sculpting-revolutionizing-offline-reinforcement-learning-20bo)
+- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
+- [Lesson 24: Freqtrade-Trading Monitoring and Adjustment](https://dev.to/henry_lin_3ac6363747f45b4/lesson-24-freqtrade-trading-monitoring-and-adjustment-4cjj)
 <!-- BLOG-POST-LIST:END -->
 
 
