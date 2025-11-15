@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Continuous Integration Workflow and Running Tests in Another Repository.](https://dev.to/cynthia_f/setting-up-continuous-integration-workflow-and-running-tests-in-another-repository-4d74)
-- [Quantum-Inspired Data Sculpting: Revolutionizing Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-data-sculpting-revolutionizing-offline-reinforcement-learning-20bo)
-- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
-- [Lesson 24: Freqtrade-Trading Monitoring and Adjustment](https://dev.to/henry_lin_3ac6363747f45b4/lesson-24-freqtrade-trading-monitoring-and-adjustment-4cjj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-487l)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-3f32)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-47ee)
+- [AI-in-Shell: Secure Linux Management via Telegram and Gemini AI &lpar;Technical Deep Dive&rpar;](https://dev.to/lag_lagendary/ai-in-shell-secure-linux-management-via-telegram-and-gemini-ai-technical-deep-dive-2k8i)
 <!-- BLOG-POST-LIST:END -->
 
 
