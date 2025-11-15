@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
-- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
-- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
-- [Why 410 Million Parameters Might Be Consciousness&#39;s Magic Number](https://dev.to/aureus_c_b3ba7f87cc34d74d49/why-410-million-parameters-might-be-consciousnesss-magic-number-5h9f)
+- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
+- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
+- [Logic Apps Local Dev Tools: Visual Walkthrough](https://dev.to/imdj/logic-apps-local-dev-tools-visual-walkthrough-5gph)
+- [Is Your Frontend Blindfolded? Monitoring &amp; Observability for Beginners](https://dev.to/karthik_n/is-your-frontend-blindfolded-monitoring-observability-for-beginners-4e54)
 <!-- BLOG-POST-LIST:END -->
 
 
