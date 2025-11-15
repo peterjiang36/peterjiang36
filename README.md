@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566)
-- [Stop Casting a Wide Net. Start Spear-Phishing: A Developer&#39;s Guide to Account-Based Marketing](https://dev.to/michaelaiglobal/stop-casting-a-wide-net-start-spear-phishing-a-developers-guide-to-account-based-marketing-15p3)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-5b53)
-- [The Voice Revolution](https://dev.to/rawveg/the-voice-revolution-498)
+- [AI in Hospitality and Tourism: Creating Personalized Guest Experiences at Scale](https://dev.to/arc_support_458635af462f4/ai-in-hospitality-and-tourism-creating-personalized-guest-experiences-at-scale-1i00)
+- [Why We Ditched React and Built Financial Calculators in Vanilla JavaScript &lpar;And How It Made Everything Better&rpar;](https://dev.to/cnivargi/why-we-ditched-react-and-built-financial-calculators-in-vanilla-javascript-and-how-it-made-2nl)
+- [The Future Internet Won’t Run on Centralized Servers — It Will Run on Devices Like Yours, Powered by Neurolov](https://dev.to/neurolov__ai/the-future-internet-wont-run-on-centralized-servers-it-will-run-on-devices-like-yours-powered-4nc0)
+- [The Real Cost of Headless Commerce: Is It Worth the Hype?](https://dev.to/indianwebsiteco/the-real-cost-of-headless-commerce-is-it-worth-the-hype-3pe)
 <!-- BLOG-POST-LIST:END -->
 
 
