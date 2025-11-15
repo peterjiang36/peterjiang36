@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/b5119/-55ml)
-- [Fine-Tuning LLMs: LoRA, Quantization, and Distillation Simplified](https://dev.to/iamfaham/fine-tuning-llms-lora-quantization-and-distillation-simplified-12nf)
-- [Combining Mini Asphalt Plants for Small Construction Enterprises](https://dev.to/macroad/combining-mini-asphalt-plants-for-small-construction-enterprises-4i0n)
-- [My 5-Day AI Agents Intensive Journey — And How I Built a Google-Native MindsEye OS Using 6 Repos](https://dev.to/peacebinflow/my-5-day-ai-agents-intensive-journey-and-how-i-built-a-google-native-mindseye-os-using-6-repos-4igh)
+- [Hexagonal Architecture na Prática: Construindo Software Sustentável com Java e Spring Boot](https://dev.to/thrsouza/hexagonal-architecture-na-pratica-construindo-software-sustentavel-com-java-e-spring-boot-2731)
+- [While Zapier/n8n Are Busy &#39;Wrapping APIs&#39;, Flowork Focuses on &#39;Training AI Models&#39; &lpar;A Deep Dive into AITrainingService&rpar;](https://dev.to/tarno_pon_968706448b52563/while-zapiern8n-are-busy-wrapping-apis-flowork-focuses-on-training-ai-models-a-deep-dive-55hj)
+- [Stop Trusting, Start Verifying: How Flowork&#39;s E2EE Backups Define &quot;Zero-Trust&quot; Automation](https://dev.to/tarno_pon_968706448b52563/stop-trusting-start-verifying-how-floworks-e2ee-backups-define-zero-trust-automation-42p2)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-58ha)
 <!-- BLOG-POST-LIST:END -->
 
 
