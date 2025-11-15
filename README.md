@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 ThinkReview Is Now Open Source — and Now Supports Ollama for Local AI Code Review](https://dev.to/jay_elsheikh_59b14ad67922/thinkreview-is-now-open-source-and-now-supports-ollama-for-local-ai-code-review-44fi)
-- [MindsEye x Google AI Stack, Part 2 — 200 Users, Ledgers as “Soft Blockchain”, and the OS Vision](https://dev.to/peacebinflow/mindseye-x-google-ai-stack-part-2-200-users-ledgers-as-soft-blockchain-and-the-os-vision-3lo9)
-- [Turning Whispers into Code: My Experience Building The Whisperbound Tome with Kiro](https://dev.to/miiussette/turning-whispers-into-code-my-experience-building-the-whisperbound-tome-with-kiro-8fo)
-- [7 Prompts to Make Google&#39;s AI Your Marketing Superpower](https://dev.to/insightful_pipe/7-prompts-to-make-googles-ai-your-marketing-superpower-3636)
+- [[Boost]](https://dev.to/b5119/-55ml)
+- [Fine-Tuning LLMs: LoRA, Quantization, and Distillation Simplified](https://dev.to/iamfaham/fine-tuning-llms-lora-quantization-and-distillation-simplified-12nf)
+- [Combining Mini Asphalt Plants for Small Construction Enterprises](https://dev.to/macroad/combining-mini-asphalt-plants-for-small-construction-enterprises-4i0n)
+- [My 5-Day AI Agents Intensive Journey — And How I Built a Google-Native MindsEye OS Using 6 Repos](https://dev.to/peacebinflow/my-5-day-ai-agents-intensive-journey-and-how-i-built-a-google-native-mindseye-os-using-6-repos-4igh)
 <!-- BLOG-POST-LIST:END -->
 
 
