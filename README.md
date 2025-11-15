@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
-- [AWS VPC: Security and Control from Scratch](https://dev.to/figueroaeandres/aws-vpc-security-and-control-from-scratch-39ml)
-- [What is an e-commerce website and why do you need one?](https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io)
-- [Finding My Writing Routine In The Quiet Hours Of The Cafe](https://dev.to/evanloringiswriting/finding-my-writing-routine-in-the-quiet-hours-of-the-cafe-36j3)
+- [Beyond the Hype: How Apple Intelligence Will Actually Change Your Daily Productivity](https://dev.to/veltrex_labs/beyond-the-hype-how-apple-intelligence-will-actually-change-your-daily-productivity-4ga4)
+- [🚀How My Kubernetes KIND Contribution Got Merged: A Beginner’s Journey Into Real Open Source](https://dev.to/anjalimishra1st/how-my-kubernetes-kind-contribution-got-merged-a-beginners-journey-into-real-open-source-4p3e)
+- [A story is a lie and a story is true](https://dev.to/leon_lin_s/a-story-is-a-lie-and-a-story-is-true-25dj)
+- [Connecting Cassandra with Django: The Complete Guide &lpar;With &amp; Without Docker&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/connecting-cassandra-with-django-the-complete-guide-with-without-docker-4eob)
 <!-- BLOG-POST-LIST:END -->
 
 
