@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The fastest and easiest way to setup React with Bulma and Vite.](https://dev.to/allxsmith/the-fastest-and-easiest-way-to-setup-react-with-bulma-and-vite-37b)
-- [5 Essential Skills Every Software Engineer Needs in 2025](https://dev.to/mehrdadkhodaverdi/5-essential-skills-every-software-engineer-needs-in-2025-3l67)
-- [AI Agents: From Zero to Hero in 5-Days With Kaggle and Google](https://dev.to/fedtti/ai-agents-from-zero-to-hero-in-5-days-with-kaggle-and-google-4ibk)
-- [YubiKey vs Virtual MFA: The Data-Driven Decision for Root Account Security](https://dev.to/carlosinfantes/yubikey-vs-virtual-mfa-the-data-driven-decision-for-root-account-security-56pk)
+- [Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time](https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77)
+- [Understanding Hermes, Fabric, and the New Architecture in React Native](https://dev.to/naderalfakesh/understanding-hermes-fabric-and-the-new-architecture-in-react-native-49gb)
+- [The Data Analytics Lifecycle](https://dev.to/hammoudi_wissem_2a55b8cc2/the-data-analytics-lifecycle-14ph)
+- [Linux for DevOps - The Complete Hands-On Beginner-to-Advanced Guide &lpar;Week 1 Series&rpar;](https://dev.to/ashish0360/linux-for-devops-the-complete-hands-on-beginner-to-advanced-guide-week-1-series-1a68)
 <!-- BLOG-POST-LIST:END -->
 
 
