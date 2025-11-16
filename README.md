@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 How to Choose the Best Domain](https://dev.to/stasxreal/how-to-choose-the-best-domain-3dca)
-- [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
-- [[Apache Iceberg] Iceberg Performance: The Hidden Cost of NULLS FIRST](https://dev.to/cutechuanchuan/apache-iceberg-iceberg-performance-the-hidden-cost-of-nulls-first-20cl)
-- [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-44nk)
+- [Por que usar Softmax com Categorical Cross-Entropy para o problema da flor íris?](https://dev.to/joaopedrov0/por-que-usar-softmax-com-categorical-cross-entropy-para-o-problema-da-flor-iris-2i6j)
+- [Learn Windows CLI Hands-on](https://dev.to/al_rl_262bf3e3f877e3574f3/learn-windows-cli-hands-on-149)
 <!-- BLOG-POST-LIST:END -->
 
 
