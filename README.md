@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Understanding Linux Cgroups](https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1)
-- [When Big O Lies](https://dev.to/kyrylorud/when-big-o-lies-o7l)
-- [Why Trust Matters More Than Any Tool in Technical Work](https://dev.to/sonia_bobrik_1939cdddd79d/why-trust-matters-more-than-any-tool-in-technical-work-4b95)
-- [🧠 Detecting and Preventing Goroutine Leaks in Production &lpar;Leak Detection in Go&rpar;](https://dev.to/serifcolakel/detecting-and-preventing-goroutine-leaks-in-production-leak-detection-in-go-2jjf)
+- [🌐 How to Choose the Best Domain](https://dev.to/stasxreal/how-to-choose-the-best-domain-3dca)
+- [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
+- [[Apache Iceberg] Iceberg Performance: The Hidden Cost of NULLS FIRST](https://dev.to/cutechuanchuan/apache-iceberg-iceberg-performance-the-hidden-cost-of-nulls-first-20cl)
+- [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
 <!-- BLOG-POST-LIST:END -->
 
 
