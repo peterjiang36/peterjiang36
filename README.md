@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-13ii)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4p9b)
-- [Mastering BeanShell Hash Variables in Joget: The Most Basic &amp; Practical Guide](https://dev.to/exploringmylifeworks/mastering-beanshell-hash-variables-in-joget-the-most-basic-practical-guide-5fnc)
-- [One Hot Encoding](https://dev.to/devunderdog/one-hot-encoding-28d)
+- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-142k)
+- [📊NumPy Practice !](https://dev.to/ramyacse/numpy-practice--394g)
+- [📊 Day 64 of My Data Analytics Journey!](https://dev.to/ramyacse/day-64-of-my-data-analytics-journey-4if1)
+- [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
 <!-- BLOG-POST-LIST:END -->
 
 
