@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn)
-- [7 Days of Learning: Surviving the Solidity Speedrun with HackQuest](https://dev.to/azharpratama/7-days-of-learning-surviving-the-solidity-speedrun-with-hackquest-2fdd)
-- [Github setup flow](https://dev.to/misssassypants/github-setup-flow-4fkf)
-- [System setup](https://dev.to/misssassypants/system-setup-411m)
+- [go to visual studio code](https://dev.to/dealajoevincenthash/go-to-visual-studio-code-185)
+- [Maximize API Monetization: How Monetzly Powers AI Conversations](https://dev.to/monetzly/maximize-api-monetization-how-monetzly-powers-ai-conversations-4fcp)
+- [dev diary 20251115](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5)
+- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
 <!-- BLOG-POST-LIST:END -->
 
 
