@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthesizing a project in ChatGPT to create content for my site.](https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n)
-- [Coding Challenge Practice - Question 57](https://dev.to/tomivan/coding-challenge-practice-question-57-40hk)
-- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-1b9g)
-- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-487k)
+- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
+- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
+- [Linux Data Science Stack: Jupyter, Pandas &amp; Tools](https://dev.to/rosgluk/linux-data-science-stack-jupyter-pandas-tools-3fof)
+- [Helm Charts: Kubernetes Package Management](https://dev.to/rosgluk/helm-charts-kubernetes-package-management-2oei)
 <!-- BLOG-POST-LIST:END -->
 
 
