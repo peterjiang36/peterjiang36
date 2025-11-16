@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [go to visual studio code](https://dev.to/dealajoevincenthash/go-to-visual-studio-code-185)
-- [Maximize API Monetization: How Monetzly Powers AI Conversations](https://dev.to/monetzly/maximize-api-monetization-how-monetzly-powers-ai-conversations-4fcp)
-- [dev diary 20251115](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5)
-- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
+- [Building a Real‑Time VWAP Dashboard with Bun, Binance WebSockets &amp; SQLite](https://dev.to/sivarampg/building-a-real-time-vwap-dashboard-with-bun-binance-websockets-sqlite-27c3)
+- [Amazon EC2: Scalable Compute at Your Command](https://dev.to/figueroaeandres/amazon-ec2-scalable-compute-at-your-command-305d)
+- [Group Project 3](https://dev.to/johnphan2408/group-project-3-3513)
+- [Managing Complex Form State in Vue3/Nuxt3: Composition API and State Separation](https://dev.to/taro000/managing-complex-form-state-in-vue3nuxt3-composition-api-and-state-separation-32g)
 <!-- BLOG-POST-LIST:END -->
 
 
