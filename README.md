@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-44nk)
-- [Por que usar Softmax com Categorical Cross-Entropy para o problema da flor íris?](https://dev.to/joaopedrov0/por-que-usar-softmax-com-categorical-cross-entropy-para-o-problema-da-flor-iris-2i6j)
-- [Learn Windows CLI Hands-on](https://dev.to/al_rl_262bf3e3f877e3574f3/learn-windows-cli-hands-on-149)
+- [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
+- [Get Good Git Ninja, don&#39;t Get Got &lpar;눈_눈&rpar; O=&lpar;&#39;-&#39;Q&rpar;](https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83)
+- [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
+- [Part 3: From Neural Networks to Autonomous Coffee Roasting - Orchestrating MCP Servers with .NET Aspire and n8n Agents](https://dev.to/syamaner/part-3-from-neural-networks-to-autonomous-coffee-roasting-orchestrating-mcp-servers-with-net-58pd)
 <!-- BLOG-POST-LIST:END -->
 
 
