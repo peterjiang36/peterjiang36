@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
-- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
-- [A Free OpenAPI 3.2 Editor with Linting and Outline Support](https://dev.to/zeddd/a-free-openapi-32-editor-with-linting-and-outline-support-20mg)
+- [🎮 Understanding Linux Cgroups](https://dev.to/ajinkya_singh_2c02bd40423/understanding-linux-cgroups-2kf1)
+- [When Big O Lies](https://dev.to/kyrylorud/when-big-o-lies-o7l)
+- [Why Trust Matters More Than Any Tool in Technical Work](https://dev.to/sonia_bobrik_1939cdddd79d/why-trust-matters-more-than-any-tool-in-technical-work-4b95)
+- [🧠 Detecting and Preventing Goroutine Leaks in Production &lpar;Leak Detection in Go&rpar;](https://dev.to/serifcolakel/detecting-and-preventing-goroutine-leaks-in-production-leak-detection-in-go-2jjf)
 <!-- BLOG-POST-LIST:END -->
 
 
