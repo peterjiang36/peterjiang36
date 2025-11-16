@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ici)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-43ic)
-- [What is MongoDB? Why use it?](https://dev.to/jaylinjones0/what-is-mongodb-why-use-it-29a1)
-- [Template para mensagens de commit](https://dev.to/dwildt/template-para-mensagens-de-commit-4pdf)
+- [Crafting Precision: Unlocking the Power of AI Prompts](https://dev.to/speed_productsltd_d61c77b/crafting-precision-unlocking-the-power-of-ai-prompts-3o87)
+- [Daily Tech News Roundup - 2025-11-16](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-16-12e6)
+- [Day 45 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-45-of-100-days-dsa-coding-challenge-92k)
+- [Understanding the Godown Wiring Connection Diagram](https://dev.to/polynoteshub/understanding-the-godown-wiring-connection-diagram-lk4)
 <!-- BLOG-POST-LIST:END -->
 
 
