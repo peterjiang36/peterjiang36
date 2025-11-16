@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Contrary to JAVA, embedded in Python is the idea of Methods and Functions](https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df)
-- [Coding Challenge Practice - Question 56](https://dev.to/tomivan/coding-challenge-practice-question-56-343k)
-- [Cloud Automation: Stop Clicking Buttons and Start Shipping Faster](https://dev.to/vaibhav_bedi_82eeb9670233/cloud-automation-stop-clicking-buttons-and-start-shipping-faster-2ble)
-- [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
+- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn)
+- [7 Days of Learning: Surviving the Solidity Speedrun with HackQuest](https://dev.to/azharpratama/7-days-of-learning-surviving-the-solidity-speedrun-with-hackquest-2fdd)
+- [Github setup flow](https://dev.to/misssassypants/github-setup-flow-4fkf)
+- [System setup](https://dev.to/misssassypants/system-setup-411m)
 <!-- BLOG-POST-LIST:END -->
 
 
