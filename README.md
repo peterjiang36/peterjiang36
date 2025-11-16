@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time](https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77)
-- [Understanding Hermes, Fabric, and the New Architecture in React Native](https://dev.to/naderalfakesh/understanding-hermes-fabric-and-the-new-architecture-in-react-native-49gb)
-- [The Data Analytics Lifecycle](https://dev.to/hammoudi_wissem_2a55b8cc2/the-data-analytics-lifecycle-14ph)
-- [Linux for DevOps - The Complete Hands-On Beginner-to-Advanced Guide &lpar;Week 1 Series&rpar;](https://dev.to/ashish0360/linux-for-devops-the-complete-hands-on-beginner-to-advanced-guide-week-1-series-1a68)
+- [Synthesizing a project in ChatGPT to create content for my site.](https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n)
+- [Coding Challenge Practice - Question 57](https://dev.to/tomivan/coding-challenge-practice-question-57-40hk)
+- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-1b9g)
+- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-487k)
 <!-- BLOG-POST-LIST:END -->
 
 
