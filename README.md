@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A developer without a prompt library is like a coder without a framework. You can build everything from scratch, but why should you?](https://dev.to/jaideepparashar/a-developer-without-a-prompt-library-is-like-a-coder-without-a-framework-you-can-build-everything-5enc)
-- [How I Created My Own Prompt Library on GitHub &lpar;And Why Every Developer Should Too&rpar;](https://dev.to/jaideepparashar/how-i-created-my-own-prompt-library-on-github-and-why-every-developer-should-too-2koj)
-- [5.Delete Git Branch](https://dev.to/thukhakyawe_cloud/5delete-git-branch-2dpn)
-- [Predicting the Unpredictable: Visualizing the Future with Temporal Independence](https://dev.to/arvind_sundararajan/predicting-the-unpredictable-visualizing-the-future-with-temporal-independence-5egj)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ici)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-43ic)
+- [What is MongoDB? Why use it?](https://dev.to/jaylinjones0/what-is-mongodb-why-use-it-29a1)
+- [Template para mensagens de commit](https://dev.to/dwildt/template-para-mensagens-de-commit-4pdf)
 <!-- BLOG-POST-LIST:END -->
 
 
