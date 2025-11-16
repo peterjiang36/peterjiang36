@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real‑Time VWAP Dashboard with Bun, Binance WebSockets &amp; SQLite](https://dev.to/sivarampg/building-a-real-time-vwap-dashboard-with-bun-binance-websockets-sqlite-27c3)
-- [Amazon EC2: Scalable Compute at Your Command](https://dev.to/figueroaeandres/amazon-ec2-scalable-compute-at-your-command-305d)
-- [Group Project 3](https://dev.to/johnphan2408/group-project-3-3513)
-- [Managing Complex Form State in Vue3/Nuxt3: Composition API and State Separation](https://dev.to/taro000/managing-complex-form-state-in-vue3nuxt3-composition-api-and-state-separation-32g)
+- [A developer without a prompt library is like a coder without a framework. You can build everything from scratch, but why should you?](https://dev.to/jaideepparashar/a-developer-without-a-prompt-library-is-like-a-coder-without-a-framework-you-can-build-everything-5enc)
+- [How I Created My Own Prompt Library on GitHub &lpar;And Why Every Developer Should Too&rpar;](https://dev.to/jaideepparashar/how-i-created-my-own-prompt-library-on-github-and-why-every-developer-should-too-2koj)
+- [5.Delete Git Branch](https://dev.to/thukhakyawe_cloud/5delete-git-branch-2dpn)
+- [Predicting the Unpredictable: Visualizing the Future with Temporal Independence](https://dev.to/arvind_sundararajan/predicting-the-unpredictable-visualizing-the-future-with-temporal-independence-5egj)
 <!-- BLOG-POST-LIST:END -->
 
 
