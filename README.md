@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9)
-- [How Cryptocurrency Prices Work Across Different Blockchains](https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4)
-- [Connect django with tailwind css](https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86)
+- [Trinity Protocol™: How We Built a 2-of-3 Multi-Chain Consensus System with 90% Gas Savings](https://dev.to/chronosvault/trinity-protocol-how-we-built-a-2-of-3-multi-chain-consensus-system-with-90-gas-savings-44k1)
+- [October 2025: Review of learning records](https://dev.to/kazutora_hattori_66972c88/october-2025-review-of-learning-records-381b)
+- [How to Actually Lock Down Your Cloud Run Services &lpar;Not Just Pretend To&rpar;](https://dev.to/gamechanger1s/how-to-actually-lock-down-your-cloud-run-services-not-just-pretend-to-4ph8)
+- [What&#39;s the use of Intermediate models in Django &lpar;Many to Many Relationship&rpar;](https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li)
 <!-- BLOG-POST-LIST:END -->
 
 
