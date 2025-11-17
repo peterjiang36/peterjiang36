@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Weeks. The big 50% is here.](https://dev.to/mike_andreuzza/black-weeks-the-big-50-is-here-d6k)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4489)
-- [Low Latency Rust : Building a Cache-Friendly, Lock-Free SPSC Ring Buffer in Rust](https://dev.to/codeapprentice/low-latency-rust-building-a-cache-friendly-lock-free-spsc-ring-buffer-in-rust-ddm)
-- [Instagram &amp; WhatsApp Invisible Text Tricks: Creative Uses You Haven&#39;t Tried](https://dev.to/blankspacecopy/instagram-whatsapp-invisible-text-tricks-creative-uses-you-havent-tried-275b)
+- [Why Both Startup Code and Legacy Systems Need Code Context — And How LLMs + CodeDoc Make It Possible](https://dev.to/notadevbuthere/why-both-startup-code-and-legacy-systems-need-code-context-and-how-llms-codedoc-make-it-possible-19e1)
+- [How Machine Learning in Cars is Changing Driving Forever](https://dev.to/sohan_lal_241c2d80b2705e7/how-machine-learning-in-cars-is-changing-driving-forever-4fp3)
+- [From Frozen Funds to Freedom | PayRam’s Permissionless Commerce Stack Is Replacing Custodial Crypto Checkouts](https://dev.to/ibrahimpima/from-frozen-funds-to-freedom-payrams-permissionless-commerce-stack-is-replacing-custodial-crypto-36eh)
+- [Why is a secure PDF manipulation tool essential?](https://dev.to/mcagriaksoy/we-need-a-safe-pdf-manipulation-tool-1918)
 <!-- BLOG-POST-LIST:END -->
 
 
