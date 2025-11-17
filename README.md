@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Spark vs Apache Hadoop—10 Crucial Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/apache-spark-vs-apache-hadoop-10-crucial-differences-2025-27l)
-- [Terraform Basics – Week 4: Securing Your Azure VM&#39;s with NSGs and Dynamic Blocks](https://dev.to/ozanguner/terraform-basics-week-4-securing-your-azure-vms-with-nsgs-and-dynamic-blocks-3mh0)
-- [[Boost]](https://dev.to/velwyn_sam_bd8c14920e351a/-354p)
-- [Introducing GuardScan: 100% Free, Privacy-First AI Code Review &amp; Security Scanning CLI](https://dev.to/ntanwir10/introducing-guardscan-100-free-privacy-first-ai-code-review-security-scanning-cli-4dai)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3aa0)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-15fh)
+- [Migrating from Cloud WAF to Self-Hosted SafeLine: A Practical Guide](https://dev.to/carrie_luo1/migrating-from-cloud-waf-to-self-hosted-safeline-a-practical-guide-2f0d)
+- [I built &#39;EarthquakeToday,&#39; a 24/7 multi-platform bot in Python. In its first month, it&#39;s served 3k visitors.](https://dev.to/stepnalien/i-built-earthquaketoday-a-247-multi-platform-bot-in-python-in-its-first-month-its-served-3k-3ob7)
 <!-- BLOG-POST-LIST:END -->
 
 
