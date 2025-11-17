@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
-- [How to use Prisma with Bun](https://dev.to/aidankmcalister/how-to-use-prisma-with-bun-5624)
-- [What are your goals for the week? #153](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-153-1cgi)
-- [AI Guardrails: Beyond Prompt Engineering to Deliver Trustworthy LLM Answers](https://dev.to/zeroshotanu/ai-guardrails-beyond-prompt-engineering-to-deliver-trustworthy-llm-answers-kp1)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp)
+- [Event-Driven Updates with ThingsDB](https://dev.to/joente/event-driven-updates-with-thingsdb-3in5)
+- [**The Multimodal AI Blind Spot: Integrating Sensory Feedback](https://dev.to/drcarlosruizviquez/the-multimodal-ai-blind-spot-integrating-sensory-feedback-3e5g)
+- [Job roles are merging faster than ever before](https://dev.to/azim_shaik/job-roles-are-merging-faster-than-ever-before-1l20)
 <!-- BLOG-POST-LIST:END -->
 
 
