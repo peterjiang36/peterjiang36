@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
-- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
-- [Linux Data Science Stack: Jupyter, Pandas &amp; Tools](https://dev.to/rosgluk/linux-data-science-stack-jupyter-pandas-tools-3fof)
-- [Helm Charts: Kubernetes Package Management](https://dev.to/rosgluk/helm-charts-kubernetes-package-management-2oei)
+- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
+- [Compiling Window Maker in a Debian-based OS](https://dev.to/thiagomg/compiling-window-maker-in-a-debian-based-os-1n87)
+- [Fixing emoji support in the Linux terminal](https://dev.to/thiagomg/fixing-emoji-support-in-the-linux-terminal-34og)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ide)
 <!-- BLOG-POST-LIST:END -->
 
 
