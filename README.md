@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 21 is Here: Real Features That Actually Improve Your Daily Workflow](https://dev.to/mmourouh/angular-21-is-here-real-features-that-actually-improve-your-daily-workflow-ogk)
-- [How to Implement Customized Development Without Modifying the Base Product Source Code](https://dev.to/canonical/how-to-implement-customized-development-without-modifying-the-base-product-source-code-2pp5)
-- [DSL Design Essentials from the Perspective of Reversible Computation](https://dev.to/canonical/dsl-design-essentials-from-the-perspective-of-reversible-computation-374l)
-- [Created a Portfolio Website For my YouTube Channel](https://dev.to/freepirat/created-a-portfolio-website-for-my-youtube-channel-19h8)
+- [Apache Spark vs Apache Hadoop—10 Crucial Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/apache-spark-vs-apache-hadoop-10-crucial-differences-2025-27l)
+- [Terraform Basics – Week 4: Securing Your Azure VM&#39;s with NSGs and Dynamic Blocks](https://dev.to/ozanguner/terraform-basics-week-4-securing-your-azure-vms-with-nsgs-and-dynamic-blocks-3mh0)
+- [[Boost]](https://dev.to/velwyn_sam_bd8c14920e351a/-354p)
+- [Introducing GuardScan: 100% Free, Privacy-First AI Code Review &amp; Security Scanning CLI](https://dev.to/ntanwir10/introducing-guardscan-100-free-privacy-first-ai-code-review-security-scanning-cli-4dai)
 <!-- BLOG-POST-LIST:END -->
 
 
