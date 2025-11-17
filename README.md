@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Follow Me on X &lpar;Twitter&rpar; — Let’s Build Something Insane Together](https://dev.to/n3on/follow-me-on-x-twitter-lets-build-something-insane-together-nmn)
-- [Latest fashion trends.](https://dev.to/shah_princy/latest-fashion-trends-nnm)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2n5h)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-49d8)
+- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
+- [Babylon.js vs Three.js: The 360 Technical Comparison for Production Workloads](https://dev.to/devin-rosario/babylonjs-vs-threejs-the-360deg-technical-comparison-for-production-workloads-2fn6)
+- [Breaking Down API Defenses: UA - Cookies - Signatures Browser 🤖](https://dev.to/mrzaizai2k/breaking-down-api-defenses-ua-cookies-signatures-browser-5f58)
+- [Quantum Trackers: Unlocking the Secrets of Particle Paths with Quantum Algorithms by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-trackers-unlocking-the-secrets-of-particle-paths-with-quantum-algorithms-by-arvind-37ni)
 <!-- BLOG-POST-LIST:END -->
 
 
