@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
-- [Compiling Window Maker in a Debian-based OS](https://dev.to/thiagomg/compiling-window-maker-in-a-debian-based-os-1n87)
-- [Fixing emoji support in the Linux terminal](https://dev.to/thiagomg/fixing-emoji-support-in-the-linux-terminal-34og)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ide)
+- [Turning Your GitHub Repos into Gold: How to Sell Your Code Online](https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o)
+- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3)
+- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb)
+- [Quantum-Inspired Encoding: A Leap in Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-a-leap-in-offline-reinforcement-learning-1161)
 <!-- BLOG-POST-LIST:END -->
 
 
