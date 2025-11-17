@@ -74,10 +74,16 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
-- [Babylon.js vs Three.js: The 360 Technical Comparison for Production Workloads](https://dev.to/devin-rosario/babylonjs-vs-threejs-the-360deg-technical-comparison-for-production-workloads-2fn6)
-- [Breaking Down API Defenses: UA - Cookies - Signatures Browser 🤖](https://dev.to/mrzaizai2k/breaking-down-api-defenses-ua-cookies-signatures-browser-5f58)
-- [Quantum Trackers: Unlocking the Secrets of Particle Paths with Quantum Algorithms by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-trackers-unlocking-the-secrets-of-particle-paths-with-quantum-algorithms-by-arvind-37ni)
+- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
+- [I’ll be honest with you:
+I didn’t wake up one morning thinking “Let me reverse-engineer TikTok today.”
+
+It started with something much simpler:
+
+“I just want to upload videos to TikTok programmatically…
+why is this so damn hard?”](https://dev.to/mrzaizai2k/ill-be-honest-with-you-i-didnt-wake-up-one-morning-thinking-let-me-reverse-engineer-tiktok-1pbg)
+- [How to Pick the Right Database in AWS: Simple Steps for Every Project](https://dev.to/heyjoshlee/how-to-pick-the-right-database-in-aws-simple-steps-for-every-project-iec)
+- [Day F1: Drowning in Exams But At Least I&#39;m Coding Again](https://dev.to/casperday11/day-f1-drowning-in-exams-but-at-least-im-coding-again-1280)
 <!-- BLOG-POST-LIST:END -->
 
 
