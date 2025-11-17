@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart_Store Schema Guide: Future-Proofing Your Data with Versioning](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-schema-guide-future-proofing-your-data-with-versioning-3cp3)
-- [Going ahead with Clean Architecture in Android. Example with complex navigation.](https://dev.to/mardsoul/going-ahead-with-clean-architecture-in-android-example-with-complex-navigation-5116)
-- [Implementing the Inbox Pattern with Brighter V10 using Kafka and PostgreSQL](https://dev.to/actor-dev/brighter-v10-postgres-inbox-pattern-3b0l)
-- [Day 37: Python Image Search, Case-Insensitive Filter for Matching Terms in Lists](https://dev.to/shahrouzlogs/day-37-python-image-search-case-insensitive-filter-for-matching-terms-in-lists-3b4k)
+- [Black Weeks. The big 50% is here.](https://dev.to/mike_andreuzza/black-weeks-the-big-50-is-here-d6k)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4489)
+- [Low Latency Rust : Building a Cache-Friendly, Lock-Free SPSC Ring Buffer in Rust](https://dev.to/codeapprentice/low-latency-rust-building-a-cache-friendly-lock-free-spsc-ring-buffer-in-rust-ddm)
+- [Instagram &amp; WhatsApp Invisible Text Tricks: Creative Uses You Haven&#39;t Tried](https://dev.to/blankspacecopy/instagram-whatsapp-invisible-text-tricks-creative-uses-you-havent-tried-275b)
 <!-- BLOG-POST-LIST:END -->
 
 
