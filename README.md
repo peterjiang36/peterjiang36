@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom TypeScript Client for Your REST API](https://dev.to/__c75487cfa/building-a-custom-typescript-client-for-your-rest-api-ahb)
-- [Tired of Rails one-off scripts becoming a nightmare? I built something for that.](https://dev.to/a_abdellatif/tired-of-rails-one-off-scripts-becoming-a-nightmare-i-built-something-for-that-5fcb)
-- [The Hidden AI Tax on Tech Debt](https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10)
-- [How to scrape websites that Selenium or Playwright can&#39;t](https://dev.to/patfinder/how-to-scrape-website-that-selenium-or-playwright-cant-4cfa)
+- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
+- [Learning Rust: Custom Error types that actually work!](https://dev.to/darkosubotica/learning-rust-custom-error-types-that-actually-work-4n03)
+- [Django Deployment : Day 14](https://dev.to/stackbento/django-deployment-day-14-mbd)
+- [Building a Para MCP Server + Next.js Wallet Demo &lpar;with Kiro + MCP&rpar;](https://dev.to/kirodotdev/building-a-para-mcp-server-nextjs-wallet-demo-with-kiro-mcp-56j1)
 <!-- BLOG-POST-LIST:END -->
 
 
