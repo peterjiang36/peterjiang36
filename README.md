@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Your GitHub Repos into Gold: How to Sell Your Code Online](https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o)
-- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3)
-- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb)
-- [Quantum-Inspired Encoding: A Leap in Offline Reinforcement Learning](https://dev.to/arvind_sundararajan/quantum-inspired-encoding-a-leap-in-offline-reinforcement-learning-1161)
+- [Angular 21 is Here: Real Features That Actually Improve Your Daily Workflow](https://dev.to/mmourouh/angular-21-is-here-real-features-that-actually-improve-your-daily-workflow-ogk)
+- [How to Implement Customized Development Without Modifying the Base Product Source Code](https://dev.to/canonical/how-to-implement-customized-development-without-modifying-the-base-product-source-code-2pp5)
+- [DSL Design Essentials from the Perspective of Reversible Computation](https://dev.to/canonical/dsl-design-essentials-from-the-perspective-of-reversible-computation-374l)
+- [Created a Portfolio Website For my YouTube Channel](https://dev.to/freepirat/created-a-portfolio-website-for-my-youtube-channel-19h8)
 <!-- BLOG-POST-LIST:END -->
 
 
