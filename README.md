@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What If You Could Write AJAX Without JavaScript? Meet fetchtl.](https://dev.to/jahongir2007/what-if-you-could-write-ajax-without-javascript-meet-fetchtl-2pk2)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3m18)
-- [Native Apps with ClojureScript, React and Static Hermes](https://dev.to/romanliutikov/native-apps-with-clojurescript-react-and-static-hermes-1ebg)
-- [Breaking Down a 1,500-Line Firebase Service - Clean Architecture in Practice](https://dev.to/sangwoo_rhie/breaking-down-a-1500-line-firebase-service-clean-architecture-in-practice-3pa4)
+- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
+- [How to use Prisma with Bun](https://dev.to/aidankmcalister/how-to-use-prisma-with-bun-5624)
+- [What are your goals for the week? #153](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-153-1cgi)
+- [AI Guardrails: Beyond Prompt Engineering to Deliver Trustworthy LLM Answers](https://dev.to/zeroshotanu/ai-guardrails-beyond-prompt-engineering-to-deliver-trustworthy-llm-answers-kp1)
 <!-- BLOG-POST-LIST:END -->
 
 
