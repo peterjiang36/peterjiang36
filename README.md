@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Mesh vs Data Fabric, Lake &amp; Warehouse: A Comparison &lpar;2025&rpar;](https://dev.to/chaos-genius/data-mesh-vs-data-fabric-lake-warehouse-a-comparison-2025-28cd)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1ih7)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1pod)
-- [Bootstrap Agent Test Cases in Minutes: A Simple Hack for Copilot Studio](https://dev.to/balagmadhu/bootstrap-agent-test-cases-in-minutes-a-simple-hack-for-copilot-studio-ohk)
+- [Natural-Language SQL on Atlassian Forge: A Secure Pattern with Rovo &lpar;LLM&rpar; + Forge SQL &lpar;TiDB&rpar;](https://dev.to/vzakharchenko/atlassian-rovollm-forge-sql-a-secure-pattern-for-natural-language-analytics-in-forge-apps-2ap4)
+- [Why Azure Front Door Is My Favorite Global CDN + Load Balancing Service](https://dev.to/techwithhari/why-azure-front-door-is-my-favorite-global-cdn-load-balancing-service-1bel)
+- [Vibe Coding a Power App the Pro way with Code Apps](https://dev.to/wyattdave/vibe-coding-a-power-app-the-pro-way-with-code-apps-56dk)
+- [🔥 How to Generate a JKS Keystore Without Android Studio &lpar;Complete Guide&rpar;](https://dev.to/kkibet/how-to-generate-a-jks-keystore-without-android-studio-complete-guide-36do)
 <!-- BLOG-POST-LIST:END -->
 
 
