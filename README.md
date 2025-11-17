@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!](https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk)
-- [India’s Leading AI Development Companies: Top 20 List — Explore India’s top AI firms delivering smart, scalable solutions. InnovationM is listed among the top 5. Full post: https://www.innovationm.com/blog/top-10-ai-development-companies-in-india-2025/](https://dev.to/kritikasharma09/indias-leading-ai-development-companies-top-20-list-explore-indias-top-ai-firms-delivering-mj7)
-- [How to Enable Storyblok Visual Editor in Production?](https://dev.to/jacobandrewsky/how-to-enable-storyblok-visual-editor-in-production-34kf)
-- [Introduction to Swarm: an extensible Typescript code generation framework](https://dev.to/genyus/introduction-to-swarm-an-extensible-typescript-code-generation-framework-50p0)
+- [Smart_Store Schema Guide: Future-Proofing Your Data with Versioning](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-schema-guide-future-proofing-your-data-with-versioning-3cp3)
+- [Going ahead with Clean Architecture in Android. Example with complex navigation.](https://dev.to/mardsoul/going-ahead-with-clean-architecture-in-android-example-with-complex-navigation-5116)
+- [Implementing the Inbox Pattern with Brighter V10 using Kafka and PostgreSQL](https://dev.to/actor-dev/brighter-v10-postgres-inbox-pattern-3b0l)
+- [Day 37: Python Image Search, Case-Insensitive Filter for Matching Terms in Lists](https://dev.to/shahrouzlogs/day-37-python-image-search-case-insensitive-filter-for-matching-terms-in-lists-3b4k)
 <!-- BLOG-POST-LIST:END -->
 
 
