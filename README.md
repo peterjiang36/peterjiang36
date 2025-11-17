@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Natural-Language SQL on Atlassian Forge: A Secure Pattern with Rovo &lpar;LLM&rpar; + Forge SQL &lpar;TiDB&rpar;](https://dev.to/vzakharchenko/atlassian-rovollm-forge-sql-a-secure-pattern-for-natural-language-analytics-in-forge-apps-2ap4)
-- [Why Azure Front Door Is My Favorite Global CDN + Load Balancing Service](https://dev.to/techwithhari/why-azure-front-door-is-my-favorite-global-cdn-load-balancing-service-1bel)
-- [Vibe Coding a Power App the Pro way with Code Apps](https://dev.to/wyattdave/vibe-coding-a-power-app-the-pro-way-with-code-apps-56dk)
-- [🔥 How to Generate a JKS Keystore Without Android Studio &lpar;Complete Guide&rpar;](https://dev.to/kkibet/how-to-generate-a-jks-keystore-without-android-studio-complete-guide-36do)
+- [Transformers: The Magic Engine Behind ChatGPT, Gemini &amp; Every Modern AI Model!](https://dev.to/pavanbelagatti/transformers-the-magic-engine-behind-chatgpt-gemini-every-modern-ai-model-5abk)
+- [India’s Leading AI Development Companies: Top 20 List — Explore India’s top AI firms delivering smart, scalable solutions. InnovationM is listed among the top 5. Full post: https://www.innovationm.com/blog/top-10-ai-development-companies-in-india-2025/](https://dev.to/kritikasharma09/indias-leading-ai-development-companies-top-20-list-explore-indias-top-ai-firms-delivering-mj7)
+- [How to Enable Storyblok Visual Editor in Production?](https://dev.to/jacobandrewsky/how-to-enable-storyblok-visual-editor-in-production-34kf)
+- [Introduction to Swarm: an extensible Typescript code generation framework](https://dev.to/genyus/introduction-to-swarm-an-extensible-typescript-code-generation-framework-50p0)
 <!-- BLOG-POST-LIST:END -->
 
 
