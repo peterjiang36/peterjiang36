@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The CRO Test That Killed Our Best-Performing Page &lpar;And What We Learned&rpar;](https://dev.to/synergistdigitalmedia/the-cro-test-that-killed-our-best-performing-page-and-what-we-learned-lo8)
-- [That&#39;s what I was missing. Must-read for developers that want to build a solid software!](https://dev.to/pawel/-4e0b)
-- [Connecting Power BI to PostgreSQL &lpar;Localhost &amp; Aiven Cloud&rpar;](https://dev.to/kenyansa/connecting-power-bi-to-postgresql-localhost-aiven-cloud-4ci0)
-- [Build Confidence in n8n. Your Entry Point to AI Driven Automations](https://dev.to/rijultp/build-confidence-in-n8n-your-entry-point-to-ai-driven-automations-a3n)
+- [Linen Layout](https://dev.to/rmion/linen-layout-4e4d)
+- [A Practical Guide to Profiling &amp; Optimizing React Applications for Peak Performance 🚀](https://dev.to/alisamir/a-practical-guide-to-profiling-optimizing-react-applications-for-peak-performance-273i)
+- [Reading Between the Lines: How Leaders Build Emotional Intelligence One Page &lpar;or Episode&rpar; at a Time](https://dev.to/angela_ash_6da09e1fd957c1/reading-between-the-lines-how-leaders-build-emotional-intelligence-one-page-or-episode-at-a-time-16kn)
+- [API Reference](https://dev.to/endersaka/api-reference-42fg)
 <!-- BLOG-POST-LIST:END -->
 
 
