@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3aa0)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-15fh)
-- [Migrating from Cloud WAF to Self-Hosted SafeLine: A Practical Guide](https://dev.to/carrie_luo1/migrating-from-cloud-waf-to-self-hosted-safeline-a-practical-guide-2f0d)
-- [I built &#39;EarthquakeToday,&#39; a 24/7 multi-platform bot in Python. In its first month, it&#39;s served 3k visitors.](https://dev.to/stepnalien/i-built-earthquaketoday-a-247-multi-platform-bot-in-python-in-its-first-month-its-served-3k-3ob7)
+- [Music Monday &lpar;Anything goes!&rpar;](https://dev.to/musicforem/music-monday-anything-goes-371g)
+- [My Biggest Mistake as a New Coder &lpar;Nobody Warned Me&rpar;](https://dev.to/canro91/my-biggest-mistake-as-a-new-coder-nobody-warned-me-1g55)
+- [When Phoenix LiveView is the wrong choice](https://dev.to/devbrett-dot-com/choosing-phoenix-liveview-1o88)
+- [Create a Text Editor in Go - A Text Editor](https://dev.to/alcb1310/create-a-text-editor-in-go-a-text-editor-1m83)
 <!-- BLOG-POST-LIST:END -->
 
 
