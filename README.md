@@ -74,16 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
-- [I’ll be honest with you:
-I didn’t wake up one morning thinking “Let me reverse-engineer TikTok today.”
-
-It started with something much simpler:
-
-“I just want to upload videos to TikTok programmatically…
-why is this so damn hard?”](https://dev.to/mrzaizai2k/ill-be-honest-with-you-i-didnt-wake-up-one-morning-thinking-let-me-reverse-engineer-tiktok-1pbg)
-- [How to Pick the Right Database in AWS: Simple Steps for Every Project](https://dev.to/heyjoshlee/how-to-pick-the-right-database-in-aws-simple-steps-for-every-project-iec)
-- [Day F1: Drowning in Exams But At Least I&#39;m Coding Again](https://dev.to/casperday11/day-f1-drowning-in-exams-but-at-least-im-coding-again-1280)
+- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
+- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
+- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
+- [Embedded Systems &amp; Electronics in 2025: Key Trends and What Really Changed](https://dev.to/danie_brooks_dc7a891322b3/embedded-systems-electronics-in-2025-key-trends-and-what-really-changed-238j)
 <!-- BLOG-POST-LIST:END -->
 
 
