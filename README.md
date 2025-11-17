@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
-- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
-- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
-- [Embedded Systems &amp; Electronics in 2025: Key Trends and What Really Changed](https://dev.to/danie_brooks_dc7a891322b3/embedded-systems-electronics-in-2025-key-trends-and-what-really-changed-238j)
+- [What If You Could Write AJAX Without JavaScript? Meet fetchtl.](https://dev.to/jahongir2007/what-if-you-could-write-ajax-without-javascript-meet-fetchtl-2pk2)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3m18)
+- [Native Apps with ClojureScript, React and Static Hermes](https://dev.to/romanliutikov/native-apps-with-clojurescript-react-and-static-hermes-1ebg)
+- [Breaking Down a 1,500-Line Firebase Service - Clean Architecture in Practice](https://dev.to/sangwoo_rhie/breaking-down-a-1500-line-firebase-service-clean-architecture-in-practice-3pa4)
 <!-- BLOG-POST-LIST:END -->
 
 
