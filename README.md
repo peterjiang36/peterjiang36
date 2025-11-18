@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CIOs and CTOs Need to Own Corporate Recycling](https://dev.to/rylko_roman_965498de23cd8/why-cios-and-ctos-need-to-own-corporate-recycling-4mp9)
-- [The Secret Life of Python: GIL Secrets - Python&#39;s Threading Mystery](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-gil-secrets-pythons-threading-mystery-10bh)
-- [Creo 12: Expanded Ansys Simulation Results for Smarter, Faster Engineering](https://dev.to/marketing_a57251c54ff070e/creo-12-expanded-ansys-simulation-results-for-smarter-faster-engineering-2a25)
-- [How I turned my Netflix system design interview failures into frameworks that work](https://dev.to/dev_loops/how-i-turned-my-netflix-system-design-interview-failures-into-frameworks-that-work-13nj)
+- [Menggunakan Dua Akun GitHub di Satu Laptop &lpar;Office + Pribadi&rpar; dengan SSH Key Terpisah](https://dev.to/bluething/menggunakan-dua-akun-github-di-satu-laptop-office-pribadi-dengan-ssh-key-terpisah-mp4)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-25hf)
+- [The Role of Stakeholder Analysis in Project Success](https://dev.to/writegenic/the-role-of-stakeholder-analysis-in-project-success-4e55)
+- [transform](https://dev.to/nikimunger/transform-1g72)
 <!-- BLOG-POST-LIST:END -->
 
 
