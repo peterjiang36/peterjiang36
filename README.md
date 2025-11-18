@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudy With a Chance of Context: Navigating Change with Context Engineering](https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5)
-- [Using Advanced C Preprocessor Macros for a Pre-C23/C++20 __VA_OPT__ Substitute](https://dev.to/pauljlucas/using-advanced-c-preprocessor-macros-for-a-pre-c23c20-vaopt-substitute-43c1)
-- [Diagrama de classes](https://dev.to/joaopedrov0/diagrama-de-classes-od3)
-- [RoomSharp: Source-Generated Data Layer for Modern .NET](https://dev.to/safwa1_dev/roomsharp-source-generated-data-layer-for-modern-net-163c)
+- [Unlocking the Power of CSS Variables &lpar;Custom Properties&rpar;](https://dev.to/sharique_siddiqui_8242dad/unlocking-the-power-of-css-variables-custom-properties-12)
+- [Context API vs. Zustand: Why Your E-Commerce App Needs a Bear &lpar;Not a Provider&rpar;](https://dev.to/cathylai/context-api-vs-zustand-why-your-e-commerce-app-needs-a-bear-not-a-provider-dg2)
+- [The Best AI Articles Dev.to Won’t Show You](https://dev.to/isaachagoel/the-best-ai-articles-devto-wont-show-you-iph)
+- [Production-Ready MCP Servers: Security, Performance &amp; Deployment](https://dev.to/raghavajoijode/production-ready-mcp-servers-security-performance-deployment-5e48)
 <!-- BLOG-POST-LIST:END -->
 
 
