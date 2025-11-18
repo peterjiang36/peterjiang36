@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5h52)
-- [I&#39;m Getting Serious Déjà Vu... But This Time It&#39;s Different](https://dev.to/michaelsolati/im-getting-serious-deja-vu-but-this-time-its-different-17f4)
-- [Part 1: Snowflake&#39;s Autonomous Future](https://dev.to/taro_matsui_japan/part-1-snowflakes-autonomous-future-1p65)
-- [Exploring XRP Native Staking and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-native-staking-and-what-it-teaches-us-2njk)
+- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
+- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
+- [Zero to NoSQL: A Hands-On MongoDB Tutorial &lpar;No Installation Required!&rpar;](https://dev.to/raj_shriwastava_989889ad4/zero-to-nosql-a-hands-on-mongodb-tutorial-no-installation-required-39fi)
+- [2025 — Part 2](https://dev.to/temporalio/2025-part-2-2eoi)
 <!-- BLOG-POST-LIST:END -->
 
 
