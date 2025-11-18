@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
-- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
-- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
-- [Replacing Toasts with Accessible User Feedback Patterns](https://dev.to/miasalazar/replacing-toasts-with-accessible-user-feedback-patterns-1p8l)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1p5e)
+- [amazing!!](https://dev.to/elizabethfuentes12/amazing-2n1g)
+- [Create and configure a storage account for Azure Files.](https://dev.to/freddie_barron_0a192c3278/create-and-configure-a-storage-account-for-azure-files-2595)
+- [Understanding AWS Storage &amp; Recovery Services: A Complete Guide](https://dev.to/pooja_bhavani/understanding-aws-storage-recovery-services-a-complete-guide-89f)
 <!-- BLOG-POST-LIST:END -->
 
 
