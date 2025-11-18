@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Start building with Gemini 3](https://dev.to/googleai/start-building-with-gemini-3-268h)
-- [10 Developer Habits That Separate Good Programmers From Great Ones](https://dev.to/thebitforge/10-developer-habits-that-separate-good-programmers-from-great-ones-293n)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4j9b)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-22ep)
+- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
+- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
+- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
+- [Replacing Toasts with Accessible User Feedback Patterns](https://dev.to/miasalazar/replacing-toasts-with-accessible-user-feedback-patterns-1p8l)
 <!-- BLOG-POST-LIST:END -->
 
 
