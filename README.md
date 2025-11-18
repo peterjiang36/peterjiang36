@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Resource Group in Azure](https://dev.to/adebayo_ganiyatoladunjoy/how-to-create-a-resource-group-in-azure-46ma)
-- [Refactoring 036 - Replace String Concatenations with Text Blocks](https://dev.to/mcsee/refactoring-036-replace-string-concatenations-with-text-blocks-3nop)
-- [When sets are created, duplicates of elements are eliminated](https://dev.to/onaolapo11/when-sets-are-created-duplicates-of-elements-are-eliminated-2d6e)
-- [Free OTT Streaming Cheat Sheet &lpar;HLS, DASH, DRM, ABR &amp; More&rpar;](https://dev.to/braggio/free-ott-streaming-cheat-sheet-hls-dash-drm-abr-more-1ac7)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4mp7)
+- [Snowflake vs. Star schema in Power Bi](https://dev.to/lilian_awuor/snowflake-vs-star-schema-in-power-bi-55i8)
+- [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
+- [Workgroup vs Domain: Network Architecture Fundamentals for Developers](https://dev.to/borisgigovic/workgroup-vs-domain-network-architecture-fundamentals-for-developers-4pn1)
 <!-- BLOG-POST-LIST:END -->
 
 
