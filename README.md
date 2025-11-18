@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/v_b/-ikg)
-- [Daily Tech News Roundup - 2025-11-18](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-18-20n0)
-- [7 Best Pluralsight Alternatives for Developers](https://dev.to/stack_overflowed/7-best-pluralsight-alternatives-for-developers-32ab)
-- [How Data Security Fuels Innovation in AI and Analytics](https://dev.to/anshul_kichara/how-data-security-fuels-innovation-in-ai-and-analytics-2nm8)
+- [📻 I built an infinite 90s boombox with Gemini + Lyria &lpar;and it has an AI DJ!&rpar;](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1j33)
+- [Drowning in Photos? Let a VS Code AI Agent Organize Them for You &lpar;No Coding Needed&rpar;](https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8)
+- [Strategies to Analyze Any Size Dataset with LLMs Beyond its Context Limit](https://dev.to/exson_joseph/strategies-to-analyze-any-size-dataset-with-llms-beyond-its-context-limit-4i37)
 <!-- BLOG-POST-LIST:END -->
 
 
