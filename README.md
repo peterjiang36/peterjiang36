@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4mp7)
-- [Snowflake vs. Star schema in Power Bi](https://dev.to/lilian_awuor/snowflake-vs-star-schema-in-power-bi-55i8)
-- [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
-- [Workgroup vs Domain: Network Architecture Fundamentals for Developers](https://dev.to/borisgigovic/workgroup-vs-domain-network-architecture-fundamentals-for-developers-4pn1)
+- [How to Configure Magento Personalization Extensions for Maximum ROI](https://dev.to/sagar_panchal/how-to-configure-magento-personalization-extensions-for-maximum-roi-4k01)
+- [Slide decks with Markdown](https://dev.to/akaak/slide-decks-with-markdown-g5d)
+- [From Cancer Cures to Pornography: The Six-Month Descent of AI](https://dev.to/razoorka/from-cancer-cures-to-pornography-the-six-month-descent-of-ai-7db)
+- [I Made a Browser Extension That Tells You When a Site Uses Your Data to Train AI](https://dev.to/dwikbtn/is-your-data-training-someones-ai-i-built-a-browser-extension-to-find-out-42eh)
 <!-- BLOG-POST-LIST:END -->
 
 
