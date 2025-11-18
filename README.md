@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
-- [Learning Rust: Custom Error types that actually work!](https://dev.to/darkosubotica/learning-rust-custom-error-types-that-actually-work-4n03)
-- [Django Deployment : Day 14](https://dev.to/stackbento/django-deployment-day-14-mbd)
-- [Building a Para MCP Server + Next.js Wallet Demo &lpar;with Kiro + MCP&rpar;](https://dev.to/kirodotdev/building-a-para-mcp-server-nextjs-wallet-demo-with-kiro-mcp-56j1)
+- [Build Multi-Agent Systems Using the Agents as Tools Pattern](https://dev.to/aws/build-multi-agent-systems-using-the-agents-as-tools-pattern-jce)
+- [How to Build a Dev Portfolio That Converts Viewers into Clients](https://dev.to/softwaredeveloperhub01/how-to-build-a-dev-portfolio-that-converts-viewers-into-clients-2265)
+- [Shaped Kanban: Agility Without Artificial Constraints](https://dev.to/stevenstuartm/shaped-kanban-agility-without-artificial-constraints-1o2p)
+- [Ringer Movies: The Top 5 Ethan Hawke Movies and a Double Shot of Richard Linklater](https://dev.to/popcorn_movies/ringer-movies-the-top-5-ethan-hawke-movies-and-a-double-shot-of-richard-linklater-c8k)
 <!-- BLOG-POST-LIST:END -->
 
 
