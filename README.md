@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Multi-Agent Systems Using the Agents as Tools Pattern](https://dev.to/aws/build-multi-agent-systems-using-the-agents-as-tools-pattern-jce)
-- [How to Build a Dev Portfolio That Converts Viewers into Clients](https://dev.to/softwaredeveloperhub01/how-to-build-a-dev-portfolio-that-converts-viewers-into-clients-2265)
-- [Shaped Kanban: Agility Without Artificial Constraints](https://dev.to/stevenstuartm/shaped-kanban-agility-without-artificial-constraints-1o2p)
-- [Ringer Movies: The Top 5 Ethan Hawke Movies and a Double Shot of Richard Linklater](https://dev.to/popcorn_movies/ringer-movies-the-top-5-ethan-hawke-movies-and-a-double-shot-of-richard-linklater-c8k)
+- [Cloudy With a Chance of Context: Navigating Change with Context Engineering](https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5)
+- [Using Advanced C Preprocessor Macros for a Pre-C23/C++20 __VA_OPT__ Substitute](https://dev.to/pauljlucas/using-advanced-c-preprocessor-macros-for-a-pre-c23c20-vaopt-substitute-43c1)
+- [Diagrama de classes](https://dev.to/joaopedrov0/diagrama-de-classes-od3)
+- [RoomSharp: Source-Generated Data Layer for Modern .NET](https://dev.to/safwa1_dev/roomsharp-source-generated-data-layer-for-modern-net-163c)
 <!-- BLOG-POST-LIST:END -->
 
 
