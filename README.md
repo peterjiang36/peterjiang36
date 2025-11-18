@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Thoughts on Pricing](https://dev.to/restlessmike/some-thoughts-on-pricing-4c1m)
-- [Tiny But Mighty: Small AI&#39;s Potential &amp; What&#39;s Holding It Back](https://dev.to/iantepoot/tiny-but-mighty-small-ais-potential-whats-holding-it-back-26bb)
-- [Comparing OpenBLAS and Accelerate on Apple Silicon for BLAS Routines](https://dev.to/frosnerd/comparing-openblas-and-accelerate-on-apple-silicon-for-blas-routines-2pb9)
-- [How to Run Playwright in CI Pipeline](https://dev.to/emerickp/how-to-run-playwright-in-ci-pipeline-4bec)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5h52)
+- [I&#39;m Getting Serious Déjà Vu... But This Time It&#39;s Different](https://dev.to/michaelsolati/im-getting-serious-deja-vu-but-this-time-its-different-17f4)
+- [Part 1: Snowflake&#39;s Autonomous Future](https://dev.to/taro_matsui_japan/part-1-snowflakes-autonomous-future-1p65)
+- [Exploring XRP Native Staking and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-native-staking-and-what-it-teaches-us-2njk)
 <!-- BLOG-POST-LIST:END -->
 
 
