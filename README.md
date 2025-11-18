@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of CSS Variables &lpar;Custom Properties&rpar;](https://dev.to/sharique_siddiqui_8242dad/unlocking-the-power-of-css-variables-custom-properties-12)
-- [Context API vs. Zustand: Why Your E-Commerce App Needs a Bear &lpar;Not a Provider&rpar;](https://dev.to/cathylai/context-api-vs-zustand-why-your-e-commerce-app-needs-a-bear-not-a-provider-dg2)
-- [The Best AI Articles Dev.to Won’t Show You](https://dev.to/isaachagoel/the-best-ai-articles-devto-wont-show-you-iph)
-- [Production-Ready MCP Servers: Security, Performance &amp; Deployment](https://dev.to/raghavajoijode/production-ready-mcp-servers-security-performance-deployment-5e48)
+- [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
+- [Você está pronto para uma demissão hoje?](https://dev.to/andersoncontreira/voce-esta-pronto-para-uma-demissao-hoje-3aia)
+- [Add Pages to PDFs with Python: A Comprehensive Guide](https://dev.to/codingco/add-pages-to-pdfs-with-python-a-comprehensive-guide-38nm)
+- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
 <!-- BLOG-POST-LIST:END -->
 
 
