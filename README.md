@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Menggunakan Dua Akun GitHub di Satu Laptop &lpar;Office + Pribadi&rpar; dengan SSH Key Terpisah](https://dev.to/bluething/menggunakan-dua-akun-github-di-satu-laptop-office-pribadi-dengan-ssh-key-terpisah-mp4)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-25hf)
-- [The Role of Stakeholder Analysis in Project Success](https://dev.to/writegenic/the-role-of-stakeholder-analysis-in-project-success-4e55)
-- [transform](https://dev.to/nikimunger/transform-1g72)
+- [How I Built a 100% Offline “Second Brain” for Engineering Docs using Docker &amp; Llama 3 &lpar;No OpenAI&rpar;](https://dev.to/philyeh1212/how-i-built-a-100-offline-second-brain-for-engineering-docs-using-docker-llama-3-no-openai-4gcj)
+- [Inheritance in Java](https://dev.to/masteringbackend/inheritance-in-java-36dl)
+- [DeepSeek OCR in Automation Pipelines: Practical Engineering Insights and Integration Patterns](https://dev.to/alifar/deepseek-ocr-in-automation-pipelines-practical-engineering-insights-and-integration-patterns-3g4a)
+- [Realme UI 7.0 Breaks Cover With Smarter AI and a Cleaner, Faster Interface](https://dev.to/logicverse_2025/realme-ui-70-breaks-cover-with-smarter-ai-and-a-cleaner-faster-interface-4aa1)
 <!-- BLOG-POST-LIST:END -->
 
 
