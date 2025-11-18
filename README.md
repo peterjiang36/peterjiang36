@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Update: Why X, ChatGPT, and Cloudflare Are Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
-- [How to Mock Standalone Angular Services and RxJS Timers in Jest &lpar;Without Memory Leaks&rpar; With Best Practises Of Jest, Angular](https://dev.to/codewithrajat/how-to-mock-standalone-angular-services-and-rxjs-timers-in-jest-without-memory-leaks-with-best-12ij)
-- [Writing Maintainable Feature test&lpar;Real Laravel example&rpar;](https://dev.to/codecraft_diary_3d13677fb/writing-maintainable-feature-testreal-laravel-example-58eo)
-- [Israel Data Center: How MedOne Delivers 99.999 Percent Availability at Scale](https://dev.to/mrbee/israel-data-center-how-medone-delivers-99999-percent-availability-at-scale-614)
+- [Some Thoughts on Pricing](https://dev.to/restlessmike/some-thoughts-on-pricing-4c1m)
+- [Tiny But Mighty: Small AI&#39;s Potential &amp; What&#39;s Holding It Back](https://dev.to/iantepoot/tiny-but-mighty-small-ais-potential-whats-holding-it-back-26bb)
+- [Comparing OpenBLAS and Accelerate on Apple Silicon for BLAS Routines](https://dev.to/frosnerd/comparing-openblas-and-accelerate-on-apple-silicon-for-blas-routines-2pb9)
+- [How to Run Playwright in CI Pipeline](https://dev.to/emerickp/how-to-run-playwright-in-ci-pipeline-4bec)
 <!-- BLOG-POST-LIST:END -->
 
 
