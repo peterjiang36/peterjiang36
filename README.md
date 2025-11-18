@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine: The Open-Source WAF That Actually Protects Your Web Apps](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-actually-protects-your-web-apps-31hf)
-- [# 🛡️ Introduction to Security in the Cloud: Why It Matters &amp; How AWS IAM Protects Your World](https://dev.to/patdevops/-introduction-to-security-in-the-cloud-why-it-matters-how-aws-iam-protects-your-world-2g4)
-- [Empresas também evoluem](https://dev.to/andersoncontreira/empresas-tambem-evoluem-e8g)
-- [Packing Power: AI Cracks the Sphere Optimization Code](https://dev.to/arvind_sundararajan/packing-power-ai-cracks-the-sphere-optimization-code-h8m)
+- [[Boost]](https://dev.to/v_b/-ikg)
+- [Daily Tech News Roundup - 2025-11-18](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-18-20n0)
+- [7 Best Pluralsight Alternatives for Developers](https://dev.to/stack_overflowed/7-best-pluralsight-alternatives-for-developers-32ab)
+- [How Data Security Fuels Innovation in AI and Analytics](https://dev.to/anshul_kichara/how-data-security-fuels-innovation-in-ai-and-analytics-2nm8)
 <!-- BLOG-POST-LIST:END -->
 
 
