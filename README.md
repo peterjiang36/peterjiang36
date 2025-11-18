@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
-- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
-- [Zero to NoSQL: A Hands-On MongoDB Tutorial &lpar;No Installation Required!&rpar;](https://dev.to/raj_shriwastava_989889ad4/zero-to-nosql-a-hands-on-mongodb-tutorial-no-installation-required-39fi)
-- [2025 — Part 2](https://dev.to/temporalio/2025-part-2-2eoi)
+- [Start building with Gemini 3](https://dev.to/googleai/start-building-with-gemini-3-268h)
+- [10 Developer Habits That Separate Good Programmers From Great Ones](https://dev.to/thebitforge/10-developer-habits-that-separate-good-programmers-from-great-ones-293n)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4j9b)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-22ep)
 <!-- BLOG-POST-LIST:END -->
 
 
