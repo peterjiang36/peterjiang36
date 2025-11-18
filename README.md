@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure Magento Personalization Extensions for Maximum ROI](https://dev.to/sagar_panchal/how-to-configure-magento-personalization-extensions-for-maximum-roi-4k01)
-- [Slide decks with Markdown](https://dev.to/akaak/slide-decks-with-markdown-g5d)
-- [From Cancer Cures to Pornography: The Six-Month Descent of AI](https://dev.to/razoorka/from-cancer-cures-to-pornography-the-six-month-descent-of-ai-7db)
-- [I Made a Browser Extension That Tells You When a Site Uses Your Data to Train AI](https://dev.to/dwikbtn/is-your-data-training-someones-ai-i-built-a-browser-extension-to-find-out-42eh)
+- [Update: Why X, ChatGPT, and Cloudflare Are Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
+- [How to Mock Standalone Angular Services and RxJS Timers in Jest &lpar;Without Memory Leaks&rpar; With Best Practises Of Jest, Angular](https://dev.to/codewithrajat/how-to-mock-standalone-angular-services-and-rxjs-timers-in-jest-without-memory-leaks-with-best-12ij)
+- [Writing Maintainable Feature test&lpar;Real Laravel example&rpar;](https://dev.to/codecraft_diary_3d13677fb/writing-maintainable-feature-testreal-laravel-example-58eo)
+- [Israel Data Center: How MedOne Delivers 99.999 Percent Availability at Scale](https://dev.to/mrbee/israel-data-center-how-medone-delivers-99999-percent-availability-at-scale-614)
 <!-- BLOG-POST-LIST:END -->
 
 
