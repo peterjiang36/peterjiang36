@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Amnesia: Erasing Knowledge Without a Trace](https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb)
-- [Do Something While Someone Logs Into Your Linux System](https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4)
-- [[Boost]](https://dev.to/grayside/-9kb)
-- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5)
+- [Refining a Professional Portfolio with Google Antigravity: A Zero-Friction Workflow](https://dev.to/twop0intfive/refining-a-professional-portfolio-with-google-antigravity-a-zero-friction-workflow-j6d)
+- [How I Automated the Transcription of 91 Instagram &lpar;screenshots&rpar; Poems Using Python + LLM Vision &lpar;Real Case Study&rpar;](https://dev.to/wizsebastian/how-i-automated-the-transcription-of-91-instagram-screenshots-poems-using-python-llm-vision-2oh2)
+- [Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web](https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d)
+- [Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation](https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2)
 <!-- BLOG-POST-LIST:END -->
 
 
