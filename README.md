@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
-- [A Developer’s Guide to Getting Started With Cursor](https://dev.to/thecoollearner/a-developers-guide-to-getting-started-with-cursor-op6)
-- [A Senior Developer’s Guide to Python’s High-Performance Data Structures](https://dev.to/onlineproxy/a-senior-developers-guide-to-pythons-high-performance-data-structures-548m)
-- [Optimize Python Sorting with One Little Trick](https://dev.to/tilalis/optimize-python-sorting-with-one-little-trick-2gb)
+- [Nuxt Tutorial 5 - Middleware](https://dev.to/aloisseckar/nuxt-tutorial-5-middleware-3e5a)
+- [What Is Learn-to-Steer? NVIDIA’s 2025 Spatial Fix for Text-to-Image Diffusion](https://dev.to/davidevans/what-is-learn-to-steer-nvidias-2025-spatial-fix-for-text-to-image-diffusion-4eoe)
+- [Embedded Swift Gets Major Upgrades in Swift 6.3](https://dev.to/arshtechpro/embedded-swift-gets-major-upgrades-in-swift-63-190m)
+- [Quick Update on EcoFurball: New Guide Published + Behind the Scenes](https://dev.to/ecofurball/quick-update-on-ecofurball-new-guide-published-behind-the-scenes-50ke)
 <!-- BLOG-POST-LIST:END -->
 
 
