@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide Storage For A New Company App](https://dev.to/cmwokocha/provide-storage-for-a-new-company-app-33eg)
-- [Web Components in Angular: Integrating React Components Across Framework Boundaries](https://dev.to/ujjavala/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5)
-- [PWC 348 String Alike, Convert Time](https://dev.to/boblied/pwc-348-string-alike-convert-time-3nf9)
-- [AI for Devs: Build Fast, Write Less, Think More](https://dev.to/jaideepparashar/ai-for-devs-build-fast-write-less-think-more-47g0)
+- [Vibe Coding 🌟 With Google Antigravity](https://dev.to/ranshers_53/vibe-coding-with-google-antigravity-5ej4)
+- [🐘 PHP 8.5: 10 New Features, 4 Deprecations, and Why This Release Matters to Modern PHP Developers](https://dev.to/er_bhanu_pratap_95/php-85-10-new-features-4-deprecations-and-why-this-release-matters-to-modern-php-developers-3bfn)
+- [8 Developer-Friendly SEO Workflows That Make SaaS Products More Discoverable](https://dev.to/liamtakahiro/8-developer-friendly-seo-workflows-that-make-saas-products-more-discoverable-1cfc)
+- [7 Technical SEO Practices Every Developer-Led SaaS Should Implement in 2025](https://dev.to/liamtakahiro/7-technical-seo-practices-every-developer-led-saas-should-implement-in-2025-agk)
 <!-- BLOG-POST-LIST:END -->
 
 
