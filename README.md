@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding 🌟 With Google Antigravity](https://dev.to/ranshers_53/vibe-coding-with-google-antigravity-5ej4)
-- [🐘 PHP 8.5: 10 New Features, 4 Deprecations, and Why This Release Matters to Modern PHP Developers](https://dev.to/er_bhanu_pratap_95/php-85-10-new-features-4-deprecations-and-why-this-release-matters-to-modern-php-developers-3bfn)
-- [8 Developer-Friendly SEO Workflows That Make SaaS Products More Discoverable](https://dev.to/liamtakahiro/8-developer-friendly-seo-workflows-that-make-saas-products-more-discoverable-1cfc)
-- [7 Technical SEO Practices Every Developer-Led SaaS Should Implement in 2025](https://dev.to/liamtakahiro/7-technical-seo-practices-every-developer-led-saas-should-implement-in-2025-agk)
+- [Welcome Thread - v352](https://dev.to/devteam/welcome-thread-v352-41df)
+- [The Best Bad Example I&#39;m Using to Teach Clean Code Principles in My Latest Book](https://dev.to/canro91/the-best-bad-example-im-using-to-teach-clean-code-principles-in-my-latest-book-123o)
+- [React Concepts Explained: Part 1 - Core Fundamentals](https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd)
+- [mobile app](https://dev.to/preetha_vaishnavi_2b82358/mobile-app-nac)
 <!-- BLOG-POST-LIST:END -->
 
 
