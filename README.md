@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug a Node.js App on AWS ECS Fargate Using Port Forwarding &lpar;Step-by-Step Guide&rpar;](https://dev.to/u11d/how-to-port-forward-to-an-ecs-fargate-task-to-debug-your-nodejs-46pn)
-- [How to: Fix WebResources Layout in Dataverse Dashboards](https://dev.to/_neronotte/how-to-fix-webresources-layout-in-dataverse-dashboards-3646)
-- [Untitled](https://dev.to/gabriel_bogantesgomez_89/untitled-47o3)
-- [Criar Imagem com Inteligência Artificial Online: Guia Completo para Dominar a Arte Visual com IA](https://dev.to/no_codestartup/criar-imagem-com-inteligencia-artificial-online-guia-completo-para-dominar-a-arte-visual-com-ia-1gi)
+- [DSA Fundamentals: Greedy Algorithms - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-greedy-algorithms-from-theory-to-leetcode-practice-dg9)
+- [Turn your code into a visual, editable wiki. 100% open source](https://dev.to/rubendavia/turn-your-code-into-a-visual-editable-wiki-100-open-source-3m6)
+- [How Technical Leaders Handle Unrealistic Deadlines in SaaS &lpar;Without Burning Out the Team&rpar;](https://dev.to/jetthoughts/how-technical-leaders-handle-unrealistic-deadlines-in-saas-without-burning-out-the-team-4pkm)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3251)
 <!-- BLOG-POST-LIST:END -->
 
 
