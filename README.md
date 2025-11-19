@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1jpg)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5gjd)
-- [Sector HQ Weekly Digest - November 19, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-19-2025-22dg)
-- [Introducing Domenico Tenace Open Labs: A New Home for Open Source Innovation 🚀](https://dev.to/this-is-learning/introducing-domenico-tenace-open-labs-a-new-home-for-open-source-innovation-8dg)
+- [Migrating an ERP-Driven Storefront Using a Message-Broker Architecture &lpar;RabbitMQ&rpar;](https://dev.to/kasiaupside/migrating-an-erp-driven-storefront-using-a-message-broker-architecture-rabbitmq-4oa8)
+- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
+- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
+- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 
