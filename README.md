@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle HTML Form Submissions Without a Backend &lpar;2025 Guide&rpar;](https://dev.to/allenarduino/how-to-handle-html-form-submissions-without-a-backend-2025-guide-2i5g)
-- [🚀 New FREE Beginner Challenge: Build an Animated Equalizer in React](https://dev.to/duffmancc/new-free-beginner-challenge-build-an-animated-equalizer-in-react-k6e)
-- [Linux Kernel: Interrupt](https://dev.to/ripan030/linux-kernel-interrupt-1e7n)
-- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
+- [Angular Data Handling: When to use `| async` and when to `.subscribe&lpar;&rpar;` manually](https://dev.to/devhabib/angular-data-handling-when-to-use-async-and-when-to-subscribe-manually-2fed)
+- [How the AWS Community Builders Program Shaped My Life — A Journey From Curiosity to Community](https://dev.to/aws-builders/how-the-aws-community-builders-program-shaped-my-life-a-journey-from-curiosity-to-community-5b2c)
+- [Makefiles — add a make help command](https://dev.to/antonds/makefiles-add-a-make-help-command-1o7l)
+- [SQL Server 2025 is Here!](https://dev.to/thomas_rosquin_2ea358feb2/sql-server-2025-is-here-3n50)
 <!-- BLOG-POST-LIST:END -->
 
 
