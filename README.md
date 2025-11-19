@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating an ERP-Driven Storefront Using a Message-Broker Architecture &lpar;RabbitMQ&rpar;](https://dev.to/kasiaupside/migrating-an-erp-driven-storefront-using-a-message-broker-architecture-rabbitmq-4oa8)
-- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
-- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
-- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
+- [🎨 Tailwind 3.5 Tricks for Scalable Frontends in 2025](https://dev.to/tahamjp/tailwind-35-tricks-for-scalable-frontends-in-2025-1i4n)
+- [Задача с собеседования в Google: Sort Colors](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-google-sort-colors-4l93)
+- [The Art of Reading Code: A Skill for Every Developer](https://dev.to/thebitforge/the-art-of-reading-code-a-skill-for-every-developer-3b8g)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-5f12)
 <!-- BLOG-POST-LIST:END -->
 
 
