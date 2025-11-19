@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Data Handling: When to use `| async` and when to `.subscribe&lpar;&rpar;` manually](https://dev.to/devhabib/angular-data-handling-when-to-use-async-and-when-to-subscribe-manually-2fed)
-- [How the AWS Community Builders Program Shaped My Life — A Journey From Curiosity to Community](https://dev.to/aws-builders/how-the-aws-community-builders-program-shaped-my-life-a-journey-from-curiosity-to-community-5b2c)
-- [Makefiles — add a make help command](https://dev.to/antonds/makefiles-add-a-make-help-command-1o7l)
-- [SQL Server 2025 is Here!](https://dev.to/thomas_rosquin_2ea358feb2/sql-server-2025-is-here-3n50)
+- [Turbopack: A Better Way to Inline SVG in Next.js 16](https://dev.to/vitalets/turbopack-a-better-way-to-inline-svg-in-nextjs-16-36em)
+- [Your SQLite Queries Deserve Their Own Workers](https://dev.to/lovestaco/your-sqlite-queries-deserve-their-own-workers-jd7)
+- [The Most Popular AWS Services You Probably Should Use: Key Picks &amp; Why They Matter](https://dev.to/heyjoshlee/the-most-popular-aws-services-you-probably-should-use-key-picks-why-they-matter-515l)
+- [ServiceNow Test Management: Complete 2025 Guide](https://dev.to/jamescantor38/servicenow-test-management-complete-2025-guide-32aa)
 <!-- BLOG-POST-LIST:END -->
 
 
