@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
-- [Harnessing AI for Better Trading Performance: An Active Trader’s Guide](https://dev.to/traderesona/harnessing-ai-for-better-trading-performance-an-active-traders-guide-51pp)
-- [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
-- [It’s Time to End the Era of Signature-Based Malware Detection](https://dev.to/semantics-av/its-time-to-end-the-era-of-signature-based-malware-detection-4no9)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hpn)
+- [Is flat-rate CloudFront worth it?](https://dev.to/aws-builders/is-flat-rate-cloudfront-worth-it-2bgn)
+- [Easy way to Deploy Node.js MongoDb Backend App for free](https://dev.to/idurar/easy-way-to-deploy-nodejs-mongodb-backend-app-for-free-1o0g)
+- [How I Reached 84.35% on CIFAR-100 Using ResNet-50 &lpar;PyTorch Guide&rpar;](https://dev.to/amirali_soltanirad/8435-on-cifar-100-with-resnet-50-4j4b)
 <!-- BLOG-POST-LIST:END -->
 
 
