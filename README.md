@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA Fundamentals: Greedy Algorithms - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-greedy-algorithms-from-theory-to-leetcode-practice-dg9)
-- [Turn your code into a visual, editable wiki. 100% open source](https://dev.to/rubendavia/turn-your-code-into-a-visual-editable-wiki-100-open-source-3m6)
-- [How Technical Leaders Handle Unrealistic Deadlines in SaaS &lpar;Without Burning Out the Team&rpar;](https://dev.to/jetthoughts/how-technical-leaders-handle-unrealistic-deadlines-in-saas-without-burning-out-the-team-4pkm)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3251)
+- [AI Amnesia: Erasing Knowledge Without a Trace](https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb)
+- [Do Something While Someone Logs Into Your Linux System](https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4)
+- [[Boost]](https://dev.to/grayside/-9kb)
+- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5)
 <!-- BLOG-POST-LIST:END -->
 
 
