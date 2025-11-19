@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How not to disappear from the office one minute before closing time](https://dev.to/polyapolza108/how-not-to-disappear-from-the-office-one-minute-before-closing-time-51dg)
-- [TypeScript vs. JavaScript: Which One Should You Use in 2025?](https://dev.to/masteringbackend/typescript-vs-javascript-which-one-should-you-use-in-2025-3aaj)
-- [The Missing Layer Between Data and AI Agents](https://dev.to/hoshang_mehta/the-missing-layer-between-data-and-ai-agents-3316)
-- [Stop Wasting LLM Tokens: Introducing CTON &lpar;Compact Token-Oriented Notation&rpar;](https://dev.to/daviducolo/stop-wasting-llm-tokens-introducing-cton-compact-token-oriented-notation-2kj8)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1jpg)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5gjd)
+- [Sector HQ Weekly Digest - November 19, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-19-2025-22dg)
+- [Introducing Domenico Tenace Open Labs: A New Home for Open Source Innovation 🚀](https://dev.to/this-is-learning/introducing-domenico-tenace-open-labs-a-new-home-for-open-source-innovation-8dg)
 <!-- BLOG-POST-LIST:END -->
 
 
