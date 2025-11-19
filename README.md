@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refining a Professional Portfolio with Google Antigravity: A Zero-Friction Workflow](https://dev.to/twop0intfive/refining-a-professional-portfolio-with-google-antigravity-a-zero-friction-workflow-j6d)
-- [How I Automated the Transcription of 91 Instagram &lpar;screenshots&rpar; Poems Using Python + LLM Vision &lpar;Real Case Study&rpar;](https://dev.to/wizsebastian/how-i-automated-the-transcription-of-91-instagram-screenshots-poems-using-python-llm-vision-2oh2)
-- [Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web](https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d)
-- [Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation](https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2)
+- [Provide Storage For A New Company App](https://dev.to/cmwokocha/provide-storage-for-a-new-company-app-33eg)
+- [Web Components in Angular: Integrating React Components Across Framework Boundaries](https://dev.to/ujjavala/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5)
+- [PWC 348 String Alike, Convert Time](https://dev.to/boblied/pwc-348-string-alike-convert-time-3nf9)
+- [AI for Devs: Build Fast, Write Less, Think More](https://dev.to/jaideepparashar/ai-for-devs-build-fast-write-less-think-more-47g0)
 <!-- BLOG-POST-LIST:END -->
 
 
