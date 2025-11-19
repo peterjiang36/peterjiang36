@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I deployed 200+ AI projects in production. Here&#39;s what actually works &lpar;and the BS you should ignore&rpar;](https://dev.to/denisatlan/i-deployed-200-ai-projects-in-production-heres-what-actually-works-and-the-bs-you-should-ignore-58l7)
-- [The Future of Developer Education: Why AI Will Replace Half Your Textbooks](https://dev.to/jamespatterson25/the-future-of-developer-education-why-ai-will-replace-half-your-textbooks-6ai)
-- [Website savings: where to cut and where to stop](https://dev.to/polyapolza108/website-savings-where-to-cut-and-where-to-stop-56j1)
-- [Zoho για Developers: Αναλυτικός Οδηγός για Email, CRM και WordPress Integration](https://dev.to/__b63657/zoho-gia-developers-analutikos-odegos-gia-email-crm-kai-wordpress-integration-11kf)
+- [Embedding AI Inside PostgreSQL : Building a Native C++ Extension.](https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b)
+- [🔥 Account Abstraction &lpar;ERC-4337&rpar;](https://dev.to/omniradhanexus/account-abstraction-erc-4337-55f6)
+- [What is Anti-Harassment and Anti-Discrimination Policy](https://dev.to/writegenic/what-is-anti-harassment-and-anti-discrimination-policy-4o04)
+- [CSS has become too POWERFUL](https://dev.to/andreas_mller_ecc8e88f6f/css-has-become-too-powerful-34ke)
 <!-- BLOG-POST-LIST:END -->
 
 
