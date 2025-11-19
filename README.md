@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v352](https://dev.to/devteam/welcome-thread-v352-41df)
-- [The Best Bad Example I&#39;m Using to Teach Clean Code Principles in My Latest Book](https://dev.to/canro91/the-best-bad-example-im-using-to-teach-clean-code-principles-in-my-latest-book-123o)
-- [React Concepts Explained: Part 1 - Core Fundamentals](https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd)
-- [mobile app](https://dev.to/preetha_vaishnavi_2b82358/mobile-app-nac)
+- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7)
+- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11)
+- [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21)
+- [Python by Structure: Match Statements and Pattern Guards](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68)
 <!-- BLOG-POST-LIST:END -->
 
 
