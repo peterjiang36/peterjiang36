@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hpn)
-- [Is flat-rate CloudFront worth it?](https://dev.to/aws-builders/is-flat-rate-cloudfront-worth-it-2bgn)
-- [Easy way to Deploy Node.js MongoDb Backend App for free](https://dev.to/idurar/easy-way-to-deploy-nodejs-mongodb-backend-app-for-free-1o0g)
-- [How I Reached 84.35% on CIFAR-100 Using ResNet-50 &lpar;PyTorch Guide&rpar;](https://dev.to/amirali_soltanirad/8435-on-cifar-100-with-resnet-50-4j4b)
+- [How to Handle HTML Form Submissions Without a Backend &lpar;2025 Guide&rpar;](https://dev.to/allenarduino/how-to-handle-html-form-submissions-without-a-backend-2025-guide-2i5g)
+- [🚀 New FREE Beginner Challenge: Build an Animated Equalizer in React](https://dev.to/duffmancc/new-free-beginner-challenge-build-an-animated-equalizer-in-react-k6e)
+- [Linux Kernel: Interrupt](https://dev.to/ripan030/linux-kernel-interrupt-1e7n)
+- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
 <!-- BLOG-POST-LIST:END -->
 
 
