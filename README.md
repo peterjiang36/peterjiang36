@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Tailwind 3.5 Tricks for Scalable Frontends in 2025](https://dev.to/tahamjp/tailwind-35-tricks-for-scalable-frontends-in-2025-1i4n)
-- [Задача с собеседования в Google: Sort Colors](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-google-sort-colors-4l93)
-- [The Art of Reading Code: A Skill for Every Developer](https://dev.to/thebitforge/the-art-of-reading-code-a-skill-for-every-developer-3b8g)
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-5f12)
+- [I deployed 200+ AI projects in production. Here&#39;s what actually works &lpar;and the BS you should ignore&rpar;](https://dev.to/denisatlan/i-deployed-200-ai-projects-in-production-heres-what-actually-works-and-the-bs-you-should-ignore-58l7)
+- [The Future of Developer Education: Why AI Will Replace Half Your Textbooks](https://dev.to/jamespatterson25/the-future-of-developer-education-why-ai-will-replace-half-your-textbooks-6ai)
+- [Website savings: where to cut and where to stop](https://dev.to/polyapolza108/website-savings-where-to-cut-and-where-to-stop-56j1)
+- [Zoho για Developers: Αναλυτικός Οδηγός για Email, CRM και WordPress Integration](https://dev.to/__b63657/zoho-gia-developers-analutikos-odegos-gia-email-crm-kai-wordpress-integration-11kf)
 <!-- BLOG-POST-LIST:END -->
 
 
