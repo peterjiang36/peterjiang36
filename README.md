@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
-- [Help with Story Points Estimation](https://dev.to/eduluz1976/help-with-story-points-estimation-1k4a)
-- [Transforming Real-World Operations with Computer Vision Services: A Deep Dive by Oodles](https://dev.to/oodlesplatform/transforming-real-world-operations-with-computer-vision-services-a-deep-dive-by-oodles-4lid)
-- [openwrt: error while loading shared libraries: libgcc_s.so.1: wrong ELF class: ELFCLASS32](https://dev.to/ahaoboy/openwrt-error-while-loading-shared-libraries-libgccsso1-wrong-elf-class-elfclass32-4pnl)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-29ef)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4ii9)
+- [TUTORIAL: Implementasi Email Aman &amp; Anti-Blokir &lpar;Zero Bounce Policy&rpar;](https://dev.to/driannaird/tutorial-implementasi-email-aman-anti-blokir-zero-bounce-policy-2o0c)
 <!-- BLOG-POST-LIST:END -->
 
 
