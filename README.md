@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
-- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
-- [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
-- [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
+- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca)
+- [**Uncovering Hidden Patterns: The Enigmatic World of Generat](https://dev.to/drcarlosruizviquez/uncovering-hidden-patterns-the-enigmatic-world-of-generat-3h09)
+- [SC-SC UPC SM 1MT PATCH CORD - Review](https://dev.to/innocomltd/sc-sc-upc-sm-1mt-patch-cord-review-2fdh)
+- [Go tools](https://dev.to/aniket_purohit/go-tools-1jh)
 <!-- BLOG-POST-LIST:END -->
 
 
