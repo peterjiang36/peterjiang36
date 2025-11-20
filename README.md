@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m starting with Unity and want to create 2D games — What advice would you give me to stay motivated and learn properly?](https://dev.to/josue_chambilla_5994a4735/im-starting-with-unity-and-want-to-create-2d-games-what-advice-would-you-give-me-to-stay-eh)
-- [Mutex and Lock Guard in C++](https://dev.to/min38/mutex-and-lock-guard-in-c-17i9)
-- [My Open-Source Contribution - Working on TypeScript-ESLint](https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd)
-- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
+- [The Difference Between Unrestricted and Restricted Integer Partitions](https://dev.to/ganesh-kumar/the-difference-between-unrestricted-and-restricted-integer-partitions-548o)
+- [overflow](https://dev.to/nikimunger/overflow-2781)
+- [Generate MCP Tool Schemas Directly From Java Code](https://dev.to/sualeh/generate-mcp-tool-schemas-directly-from-java-code-3bif)
+- [Implementing BitDT: A Step-by-Step Guide to Date-Time Lossless Compression](https://dev.to/danexcodr/implementing-bitdt-a-step-by-step-guide-to-date-time-compression-30h7)
 <!-- BLOG-POST-LIST:END -->
 
 
