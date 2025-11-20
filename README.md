@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-57fp)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-5430)
-- [Black Box No More](https://dev.to/rawveg/black-box-no-more-4jmk)
-- [How I Shifted Into Software Engineering After Starting in a Completely Different Field](https://dev.to/mashraf_aiman_b9a968e5c1d/how-i-shifted-into-software-engineering-after-starting-in-a-completely-different-field-56c4)
+- [Installing &amp; Working with Python - in Ubuntu 24.04](https://dev.to/raman_butta/installing-working-with-python-in-ubuntu-2404-3dc5)
+- [10 Essential Figma Plugins Every Designer Should Know in 2025](https://dev.to/doong_yee_644f8aa5907ed17/10-essential-figma-plugins-every-designer-should-know-in-2025-30)
+- [Why I Built TaskDeck and How It Improves Your VS Code Workflow](https://dev.to/this-is-learning/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9)
+- [What Is A Codec? Everything You Need to Know As a Developer in 2025](https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl)
 <!-- BLOG-POST-LIST:END -->
 
 
