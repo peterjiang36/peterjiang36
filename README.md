@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Animation girl](https://dev.to/preetha_vaishnavi_2b82358/animation-girl-5e8a)
-- [Daily Tech News Roundup - 2025-11-20](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-20-5306)
-- [CSS Wine Bottle](https://dev.to/preetha_vaishnavi_2b82358/css-wine-bottle-1k0l)
-- [7 Best Resources I Found to Learn Java &lpar;And How I Used Them to Get My First Dev Job&rpar;](https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-java-and-how-i-used-them-to-get-my-first-dev-job-484)
+- [VitePress debug: &quot;frontmatter.title&quot; is appearing in search results](https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60)
+- [Deterministic RAG: A Drop-in Replacement for GraphRAG’s Unstable Planning](https://dev.to/yuer/deterministic-rag-a-drop-in-replacement-for-graphrags-unstable-planning-3pii)
+- [Delete Paragraphs in Word Documents using C#](https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7)
+- [المحامي الشاب الخلوق احمد الرضوان - اشهر محامين الكويت](https://dev.to/__f5bf0895f9bb7e/lmhmy-lshb-lkhlwq-hmd-lrdwn-shhr-mhmyn-lkwyt-17gn)
 <!-- BLOG-POST-LIST:END -->
 
 
