@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG - The Smart Way to Improve AI Answers](https://dev.to/khushi2488/rag-the-smart-way-to-improve-ai-answers-526a)
-- [How AI Agents in Cybersecurity Are Revolutionizing AppSec](https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m)
-- [Seamlessly Manage Synchronization Flow with Cancel Reconciliation API in ForgeRock IDM](https://dev.to/iamdevbox/seamlessly-manage-synchronization-flow-with-cancel-reconciliation-api-in-forgerock-idm-2aff)
-- [Day 6: If Statements - Teaching Python to Make Decisions - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-6-if-statements-teaching-python-to-make-decisions-30-days-of-python-challenge-4hl1)
+- [Playwright Quirks — waitForResponse](https://dev.to/rmarinsky/playwright-quirks-waitforresponse-21p6)
+- [shadcn/ui vs Ant Design vs MUI: A Modern React Design System Comparison](https://dev.to/codefalconx/design-system-comparison-matrix-562e)
+- [Let&#39;s learn Node.js](https://dev.to/brendon_oneill__/lets-learn-nodejs-50l2)
+- [Reducing Serialization Lag in Highload Go Systems — What Actually Works in Production](https://dev.to/devflex-pro/reducing-serialization-lag-in-highload-go-systems-what-actually-works-in-production-4kij)
 <!-- BLOG-POST-LIST:END -->
 
 
