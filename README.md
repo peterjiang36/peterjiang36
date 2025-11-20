@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
-- [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
+- [Cool Features in AWS CloudFormation](https://dev.to/shajam/cool-features-in-aws-cloudformation-2f0c)
+- [Real-time Metrics and Ring Balance: A Major TUI Upgrade for LimeDB](https://dev.to/namanvashistha/real-time-metrics-and-ring-balance-a-major-tui-upgrade-for-limedb-5cgh)
+- [The Stochastic Shift: When Your Creative Toolbox Becomes a Slot Machine](https://dev.to/ryo_suwito/the-stochastic-shift-when-your-creative-toolbox-becomes-a-slot-machine-16md)
+- [🌐 NAT Behind the Scenes: How Your Host and Virtual Machine Share the Internet](https://dev.to/natarajan_c_k/nat-behind-the-scenes-how-your-host-and-virtual-machine-share-the-internet-2ce7)
 <!-- BLOG-POST-LIST:END -->
 
 
