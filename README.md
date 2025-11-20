@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba API: Tutorial on Retrieving Product Details Page Data via Product Link](https://dev.to/vx_19970108018/alibaba-api-tutorial-on-retrieving-product-details-page-data-via-product-link-agc)
-- [How to build a responsive four‑step onboarding section with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-responsive-four-step-onboarding-section-with-tailwind-css-2k2g)
-- [Memory Leaks in SwiftUI&lpar;Real-World Examples&rpar;](https://dev.to/vnayak_hejib/memory-leaks-in-swiftui-where-they-hide-how-to-catch-them-real-world-examples-84i)
-- [File 02: Automation Bias](https://dev.to/cnastasi/file-02-automation-bias-4ili)
+- [Automating Code Quality: Stop Debating Style and Start Coding](https://dev.to/deftoexplore/automating-code-quality-stop-automating-code-quality-stop-debating-style-and-start-coding-1mo1)
+- [When the Internet Broke: What Really Happened During the Cloudflare Outage](https://dev.to/roan911/when-the-internet-broke-what-really-happened-during-the-cloudflare-outage-4lfo)
+- [How We Built The First Open-Source Rust Core Agentic AI Framework](https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc)
+- [Exploring Extension Blocks in .NET 10](https://dev.to/rasheedmozaffar/exploring-extension-blocks-in-net-10-ijo)
 <!-- BLOG-POST-LIST:END -->
 
 
