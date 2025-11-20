@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cool Features in AWS CloudFormation](https://dev.to/shajam/cool-features-in-aws-cloudformation-2f0c)
-- [Real-time Metrics and Ring Balance: A Major TUI Upgrade for LimeDB](https://dev.to/namanvashistha/real-time-metrics-and-ring-balance-a-major-tui-upgrade-for-limedb-5cgh)
-- [The Stochastic Shift: When Your Creative Toolbox Becomes a Slot Machine](https://dev.to/ryo_suwito/the-stochastic-shift-when-your-creative-toolbox-becomes-a-slot-machine-16md)
-- [🌐 NAT Behind the Scenes: How Your Host and Virtual Machine Share the Internet](https://dev.to/natarajan_c_k/nat-behind-the-scenes-how-your-host-and-virtual-machine-share-the-internet-2ce7)
+- [C# Async/Await in .NET 10: The Complete Technical Guide for 2025](https://dev.to/iron-software/c-asyncawait-in-net-10-the-complete-technical-guide-for-2025-1cii)
+- [Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource](https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p)
+- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i)
+- [Restoring files with git](https://dev.to/suzulabo/restoring-files-with-git-34n)
 <!-- BLOG-POST-LIST:END -->
 
 
