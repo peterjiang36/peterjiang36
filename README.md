@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VitePress debug: &quot;frontmatter.title&quot; is appearing in search results](https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60)
-- [Deterministic RAG: A Drop-in Replacement for GraphRAG’s Unstable Planning](https://dev.to/yuer/deterministic-rag-a-drop-in-replacement-for-graphrags-unstable-planning-3pii)
-- [Delete Paragraphs in Word Documents using C#](https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7)
-- [المحامي الشاب الخلوق احمد الرضوان - اشهر محامين الكويت](https://dev.to/__f5bf0895f9bb7e/lmhmy-lshb-lkhlwq-hmd-lrdwn-shhr-mhmyn-lkwyt-17gn)
+- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
+- [Help with Story Points Estimation](https://dev.to/eduluz1976/help-with-story-points-estimation-1k4a)
+- [Transforming Real-World Operations with Computer Vision Services: A Deep Dive by Oodles](https://dev.to/oodlesplatform/transforming-real-world-operations-with-computer-vision-services-a-deep-dive-by-oodles-4lid)
+- [openwrt: error while loading shared libraries: libgcc_s.so.1: wrong ELF class: ELFCLASS32](https://dev.to/ahaoboy/openwrt-error-while-loading-shared-libraries-libgccsso1-wrong-elf-class-elfclass32-4pnl)
 <!-- BLOG-POST-LIST:END -->
 
 
