@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Async/Await in .NET 10: The Complete Technical Guide for 2025](https://dev.to/iron-software/c-asyncawait-in-net-10-the-complete-technical-guide-for-2025-1cii)
-- [Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource](https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p)
-- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i)
-- [Restoring files with git](https://dev.to/suzulabo/restoring-files-with-git-34n)
+- [I’m starting with Unity and want to create 2D games — What advice would you give me to stay motivated and learn properly?](https://dev.to/josue_chambilla_5994a4735/im-starting-with-unity-and-want-to-create-2d-games-what-advice-would-you-give-me-to-stay-eh)
+- [Mutex and Lock Guard in C++](https://dev.to/min38/mutex-and-lock-guard-in-c-17i9)
+- [My Open-Source Contribution - Working on TypeScript-ESLint](https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd)
+- [API Gateway vs Service Mesh: Beyond the North–South/East–West Myth](https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg)
 <!-- BLOG-POST-LIST:END -->
 
 
