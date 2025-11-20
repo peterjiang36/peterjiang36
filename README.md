@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing &amp; Working with Python - in Ubuntu 24.04](https://dev.to/raman_butta/installing-working-with-python-in-ubuntu-2404-3dc5)
-- [10 Essential Figma Plugins Every Designer Should Know in 2025](https://dev.to/doong_yee_644f8aa5907ed17/10-essential-figma-plugins-every-designer-should-know-in-2025-30)
-- [Why I Built TaskDeck and How It Improves Your VS Code Workflow](https://dev.to/this-is-learning/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9)
-- [What Is A Codec? Everything You Need to Know As a Developer in 2025](https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl)
+- [Validate JSON Using PHP](https://dev.to/pineapple_26/validate-json-using-php-nfj)
+- [Salary Trends Reshaping Corporate India in 2026](https://dev.to/d_gaming_e5dc965d546058a7/salary-trends-reshaping-corporate-india-in-2026-51hm)
+- [JSON vs MessagePack vs Protobuf in Go — My Real Benchmarks and What They Mean in Production](https://dev.to/devflex-pro/json-vs-messagepack-vs-protobuf-in-go-my-real-benchmarks-and-what-they-mean-in-production-48fh)
+- [Zain Italic Font : AtoZ Font](https://dev.to/atoz_font_235689d478c4fdf/zain-italic-font-atoz-font-41gh)
 <!-- BLOG-POST-LIST:END -->
 
 
