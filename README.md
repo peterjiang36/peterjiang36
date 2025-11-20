@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2ge7)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-29ef)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4ii9)
-- [TUTORIAL: Implementasi Email Aman &amp; Anti-Blokir &lpar;Zero Bounce Policy&rpar;](https://dev.to/driannaird/tutorial-implementasi-email-aman-anti-blokir-zero-bounce-policy-2o0c)
+- [Are you really wasting your time in Java without these 10 libraries?](https://dev.to/nfrankel/are-you-really-wasting-your-time-in-java-without-these-10-libraries-jko)
+- [Cheat Sheet for Carbone](https://dev.to/carbone/cheat-sheet-for-carbone-2ikd)
+- [How Gemini 3 Is Changing the Way Developers Build, Document, and Automate](https://dev.to/therealmrmumba/how-gemini-3-is-changing-the-way-developers-build-document-and-automate-4f8j)
+- [WTF is Distributed Deno?](https://dev.to/dailybugle33/wtf-is-distributed-deno-3469)
 <!-- BLOG-POST-LIST:END -->
 
 
