@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you really wasting your time in Java without these 10 libraries?](https://dev.to/nfrankel/are-you-really-wasting-your-time-in-java-without-these-10-libraries-jko)
-- [Cheat Sheet for Carbone](https://dev.to/carbone/cheat-sheet-for-carbone-2ikd)
-- [How Gemini 3 Is Changing the Way Developers Build, Document, and Automate](https://dev.to/therealmrmumba/how-gemini-3-is-changing-the-way-developers-build-document-and-automate-4f8j)
-- [WTF is Distributed Deno?](https://dev.to/dailybugle33/wtf-is-distributed-deno-3469)
+- [Alibaba API: Tutorial on Retrieving Product Details Page Data via Product Link](https://dev.to/vx_19970108018/alibaba-api-tutorial-on-retrieving-product-details-page-data-via-product-link-agc)
+- [How to build a responsive four‑step onboarding section with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-build-a-responsive-four-step-onboarding-section-with-tailwind-css-2k2g)
+- [Memory Leaks in SwiftUI&lpar;Real-World Examples&rpar;](https://dev.to/vnayak_hejib/memory-leaks-in-swiftui-where-they-hide-how-to-catch-them-real-world-examples-84i)
+- [File 02: Automation Bias](https://dev.to/cnastasi/file-02-automation-bias-4ili)
 <!-- BLOG-POST-LIST:END -->
 
 
