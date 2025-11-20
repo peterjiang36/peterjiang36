@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Quirks — waitForResponse](https://dev.to/rmarinsky/playwright-quirks-waitforresponse-21p6)
-- [shadcn/ui vs Ant Design vs MUI: A Modern React Design System Comparison](https://dev.to/codefalconx/design-system-comparison-matrix-562e)
-- [Let&#39;s learn Node.js](https://dev.to/brendon_oneill__/lets-learn-nodejs-50l2)
-- [Reducing Serialization Lag in Highload Go Systems — What Actually Works in Production](https://dev.to/devflex-pro/reducing-serialization-lag-in-highload-go-systems-what-actually-works-in-production-4kij)
+- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
+- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
+- [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
+- [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
 <!-- BLOG-POST-LIST:END -->
 
 
