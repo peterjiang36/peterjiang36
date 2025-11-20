@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca)
-- [**Uncovering Hidden Patterns: The Enigmatic World of Generat](https://dev.to/drcarlosruizviquez/uncovering-hidden-patterns-the-enigmatic-world-of-generat-3h09)
-- [SC-SC UPC SM 1MT PATCH CORD - Review](https://dev.to/innocomltd/sc-sc-upc-sm-1mt-patch-cord-review-2fdh)
-- [Go tools](https://dev.to/aniket_purohit/go-tools-1jh)
+- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
+- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
+- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
+- [Agile Works When People Align, Agree, and Deliver](https://dev.to/stevenstuartm/agile-works-when-people-align-agree-and-deliver-2ppl)
 <!-- BLOG-POST-LIST:END -->
 
 
