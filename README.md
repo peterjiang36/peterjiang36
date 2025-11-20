@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2log)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55pa)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-12hn)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2n0c)
+- [COBOL - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/cobol-instalacion-y-configuracion-en-ubuntu-17h8)
+- [Build a Face Detection App with Python OOP — From Zero to Pro&lpar;part-5&rpar;](https://dev.to/mohammadreza_mahdian_3841/build-a-face-detection-app-with-python-oop-from-zero-to-propart-5-2hpb)
+- [REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact](https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj)
+- [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
 <!-- BLOG-POST-LIST:END -->
 
 
