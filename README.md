@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Validate JSON Using PHP](https://dev.to/pineapple_26/validate-json-using-php-nfj)
-- [Salary Trends Reshaping Corporate India in 2026](https://dev.to/d_gaming_e5dc965d546058a7/salary-trends-reshaping-corporate-india-in-2026-51hm)
-- [JSON vs MessagePack vs Protobuf in Go — My Real Benchmarks and What They Mean in Production](https://dev.to/devflex-pro/json-vs-messagepack-vs-protobuf-in-go-my-real-benchmarks-and-what-they-mean-in-production-48fh)
-- [Zain Italic Font : AtoZ Font](https://dev.to/atoz_font_235689d478c4fdf/zain-italic-font-atoz-font-41gh)
+- [RAG - The Smart Way to Improve AI Answers](https://dev.to/khushi2488/rag-the-smart-way-to-improve-ai-answers-526a)
+- [How AI Agents in Cybersecurity Are Revolutionizing AppSec](https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m)
+- [Seamlessly Manage Synchronization Flow with Cancel Reconciliation API in ForgeRock IDM](https://dev.to/iamdevbox/seamlessly-manage-synchronization-flow-with-cancel-reconciliation-api-in-forgerock-idm-2aff)
+- [Day 6: If Statements - Teaching Python to Make Decisions - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-6-if-statements-teaching-python-to-make-decisions-30-days-of-python-challenge-4hl1)
 <!-- BLOG-POST-LIST:END -->
 
 
