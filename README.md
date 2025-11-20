@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
-- [🚀 Experience Liftoff: Google Antigravity—The Agent-First IDE Redefining Development](https://dev.to/sauravkumar8178/experience-liftoff-google-antigravity-the-agent-first-ide-redefining-development-55oe)
-- [MVP Agent — AI-powered MVP Blueprints &lpar;Gradio + Gemini + MCP&rpar;](https://dev.to/furqanahmadrao/mvp-agent-ai-powered-mvp-blueprints-gradio-gemini-mcp-2mp5)
-- [How to Create Interactive UIs with Animation and Transition Effects in ArkUI](https://dev.to/harmonyos/how-to-create-interactive-uis-with-animation-and-transition-effects-in-arkui-10hh)
+- [Animation girl](https://dev.to/preetha_vaishnavi_2b82358/animation-girl-5e8a)
+- [Daily Tech News Roundup - 2025-11-20](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-20-5306)
+- [CSS Wine Bottle](https://dev.to/preetha_vaishnavi_2b82358/css-wine-bottle-1k0l)
+- [7 Best Resources I Found to Learn Java &lpar;And How I Used Them to Get My First Dev Job&rpar;](https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-java-and-how-i-used-them-to-get-my-first-dev-job-484)
 <!-- BLOG-POST-LIST:END -->
 
 
