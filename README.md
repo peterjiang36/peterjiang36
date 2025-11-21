@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the MITRE ATT&amp;CK Framework Actually Works](https://dev.to/johnjvester/why-the-mitre-attck-framework-actually-works-302i)
-- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
-- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
-- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
+- [My Open-Source Contribution: Adding a feature to typescript-language-server](https://dev.to/oleksandrakordonets/my-open-source-contribution-adding-watch-event-support-to-typescript-language-server-3ed5)
+- [How to add polylines to a map, change polyline color, and set polyline texture](https://dev.to/harmonyos/how-to-add-polylines-to-a-map-change-polyline-color-and-set-polyline-texture-51n)
+- [Why IDPs Are the Future of DevOps: A Platform Engineer’s Perspective](https://dev.to/srinivasamcjf/why-idps-are-the-future-of-devops-a-platform-engineers-perspective-59op)
+- [Transform Your LLM Apps: Monetize Conversations with Monetzly](https://dev.to/monetzly/transform-your-llm-apps-monetize-conversations-with-monetzly-46i4)
 <!-- BLOG-POST-LIST:END -->
 
 
