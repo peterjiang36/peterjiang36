@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JS Thread, Native UI Thread, The Bridge and the Shadow Layer in React Native - analogy](https://dev.to/cathylai/js-thread-native-ui-thread-the-bridge-and-the-shadow-layer-in-react-native-analogy-167c)
-- [Understanding Basic Networking Fundamentals as a Devops Engineer](https://dev.to/jic/understanding-basic-networking-fundamentals-as-a-devops-engineer-178o)
-- [Allow your team to share product analytics reports from Supabase without giving them database access](https://dev.to/kyleledbetter/allow-your-team-to-share-product-analytics-reports-from-supabase-without-giving-them-database-access-5ab)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4dm1)
+- [📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025](https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c)
+- [How useEffect Works Behind the Scenes in React](https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd)
+- [Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers](https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74)
+- [I put an Air-Gapped Neural Network in my pocket &lpar;Python on Android&rpar;](https://dev.to/sovarcneo/i-put-an-air-gapped-neural-network-in-my-pocket-python-on-android-1632)
 <!-- BLOG-POST-LIST:END -->
 
 
