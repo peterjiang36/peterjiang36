@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
-- [The Library Analogy That Makes APIs Finally Make Sense](https://dev.to/ajay_twice_dev/the-library-analogy-that-makes-apis-finally-make-sense-3b87)
-- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-3bij)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7lc)
+- [From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner](https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m)
+- [🚀 ATS CV &amp; Resume Optimization Track — CDSA Open Community](https://dev.to/cdsa/ats-cv-resume-optimization-track-cdsa-open-community-4k7d)
+- [Prepare for Granular OAuth Consent in Apps Script powered Add-ons and Chat Apps](https://dev.to/googleworkspace/prepare-for-granular-oauth-consent-in-apps-script-powered-add-ons-and-chat-apps-2lap)
+- [Demystifying Service Accounts When, Why, and How to Use Them](https://dev.to/googleworkspace/demystifying-service-accounts-when-why-and-how-to-use-them-pko)
 <!-- BLOG-POST-LIST:END -->
 
 
