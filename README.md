@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Will Be As Good As You Are](https://dev.to/lucasbrogni1/claude-code-will-be-as-good-as-you-are-1f16)
-- [React Context &amp; Routing Mastery — From Prop Drilling Pain to Auth‑Ready Architectures](https://dev.to/cristiansifuentes/react-context-routing-mastery-from-prop-drilling-pain-to-auth-ready-architectures-1nld)
-- [How I built a hybrid LAN/WAN file sync engine without VPN &lpar;and why on-demand sync still matters&rpar;](https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib)
-- [Mise-En-Place: a quick and easy tool for managing a dev environment](https://dev.to/pix303/mise-en-place-a-quick-and-easy-tool-for-managing-a-dev-environment-2i92)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5glp)
+- [Quick Recap: Design Patterns in Java &lpar;Real Examples&rpar;](https://dev.to/codeintention/quick-recap-design-patterns-in-java-real-examples-4p75)
+- [When a “Small” AI Model Pushes Your Hardware to Its Limits](https://dev.to/richa-parekh/-1lkn)
+- [Google Play Store Analysis: Data-Driven Insights for App Launch Strategy](https://dev.to/ziyad_elouahdi_e0d78d0b21/google-play-store-analysis-data-driven-insights-for-app-launch-strategy-1o0f)
 <!-- BLOG-POST-LIST:END -->
 
 
