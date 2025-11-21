@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI could transform team collaboration: opportunities, challenges, and the future](https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o)
-- [Finally xcode 26](https://dev.to/redbugmilk/finally-xcode-26-4i3l)
-- [Difference between .JAR and .WAR packaging in JAVA](https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph)
-- [Building a Technical Blog with Astro + Cloudflare](https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l)
+- [dashboard](https://dev.to/preetha_vaishnavi_2b82358/dashboard-501b)
+- [Real-World Asset Redemption Explained](https://dev.to/quillaudits/real-world-asset-redemption-explained-1f75)
+- [This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist](https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o)
+- [When a Trillion Dollars Moves: How Saudi Arabia&#39;s Mega-Investment Will Shake Global Currency Markets](https://dev.to/dhis_is_jj/when-a-trillion-dollars-moves-how-saudi-arabias-mega-investment-will-shake-global-currency-7ag)
 <!-- BLOG-POST-LIST:END -->
 
 
