@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-8df)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-22jl)
-- [The Great Skill Shift](https://dev.to/rawveg/the-great-skill-shift-2e7k)
+- [How AI could transform team collaboration: opportunities, challenges, and the future](https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o)
+- [Finally xcode 26](https://dev.to/redbugmilk/finally-xcode-26-4i3l)
+- [Difference between .JAR and .WAR packaging in JAVA](https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph)
+- [Building a Technical Blog with Astro + Cloudflare](https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l)
 <!-- BLOG-POST-LIST:END -->
 
 
