@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner](https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m)
-- [🚀 ATS CV &amp; Resume Optimization Track — CDSA Open Community](https://dev.to/cdsa/ats-cv-resume-optimization-track-cdsa-open-community-4k7d)
-- [Prepare for Granular OAuth Consent in Apps Script powered Add-ons and Chat Apps](https://dev.to/googleworkspace/prepare-for-granular-oauth-consent-in-apps-script-powered-add-ons-and-chat-apps-2lap)
-- [Demystifying Service Accounts When, Why, and How to Use Them](https://dev.to/googleworkspace/demystifying-service-accounts-when-why-and-how-to-use-them-pko)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-8df)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-22jl)
+- [The Great Skill Shift](https://dev.to/rawveg/the-great-skill-shift-2e7k)
 <!-- BLOG-POST-LIST:END -->
 
 
