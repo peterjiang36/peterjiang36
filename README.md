@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)
-- [ChaosKit - Code-level Chaos Engineering for Go Applications](https://dev.to/roman_chudov_aae89a53d641/chaoskit-code-level-chaos-engineering-for-go-applications-2k3p)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-h19)
-- [Fixing Hallucinations in Gemini 3 Pro by Overriding RLHF Instincts](https://dev.to/musculus/fixing-hallucinations-in-gemini-3-pro-by-overriding-rlhf-instincts-5e0i)
+- [Dear Developer: Your Database Isn&#39;t a File Cabinet!](https://dev.to/taurean04_14/dear-developer-your-database-isnt-a-file-cabinet-39ng)
+- [Building Real-Time Lakehouse with S3 Tables, AWS Glue, and Apache Doris](https://dev.to/apachedoris/building-real-time-lakehouse-with-s3-tables-aws-glue-and-apache-doris-5am0)
+- [ClausTk - A Tkinter library for creating New Year&#39;s and Christmas-themed interfaces](https://dev.to/limafresh/claustk-a-tkinter-library-for-creating-new-years-and-christmas-themed-interfaces-od9)
+- [Top 5 AI Tools Every Developer Should Try in 2025](https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm)
 <!-- BLOG-POST-LIST:END -->
 
 
