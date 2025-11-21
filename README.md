@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1o32)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5dn7)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1blk)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-1693)
+- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
+- [Um Primeiro Olhar sobre o Framework Phoenix](https://dev.to/actor-dev/um-primeiro-olhar-sobre-o-framework-phoenix-1f73)
+- [A First Look at the Phoenix Framework](https://dev.to/actor-dev/from-net-to-elixir-a-first-look-at-the-phoenix-framework-59jc)
+- [[Boost]](https://dev.to/anthonymax/-a2g)
 <!-- BLOG-POST-LIST:END -->
 
 
