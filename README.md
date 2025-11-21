@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Open-Source Contribution: Adding a feature to typescript-language-server](https://dev.to/oleksandrakordonets/my-open-source-contribution-adding-watch-event-support-to-typescript-language-server-3ed5)
-- [How to add polylines to a map, change polyline color, and set polyline texture](https://dev.to/harmonyos/how-to-add-polylines-to-a-map-change-polyline-color-and-set-polyline-texture-51n)
-- [Why IDPs Are the Future of DevOps: A Platform Engineer’s Perspective](https://dev.to/srinivasamcjf/why-idps-are-the-future-of-devops-a-platform-engineers-perspective-59op)
-- [Transform Your LLM Apps: Monetize Conversations with Monetzly](https://dev.to/monetzly/transform-your-llm-apps-monetize-conversations-with-monetzly-46i4)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
+- [Making DIY High-Performance Air Purifier for Delhi: Build Guide](https://dev.to/akaalforge/making-diy-high-performance-air-purifier-for-delhi-build-guide-3oi8)
+- [How I Built a Self-Feeding SEO Engine with GPT-4o Vision + Next.js 15](https://dev.to/paul_row226/how-i-built-a-self-feeding-seo-engine-with-gpt-4o-vision-nextjs-15-55n5)
+- [Awakening Inner Joy: The Vision, Challenges, and Future of Joy Potential](https://dev.to/carter_flynn_7e3f50b8c386/awakening-inner-joy-the-vision-challenges-and-future-of-joy-potential-4cl9)
 <!-- BLOG-POST-LIST:END -->
 
 
