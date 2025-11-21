@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2llf)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3k2a)
-- [Asking n People &lpar;n Generative AI Models&rpar; Simultaneously](https://dev.to/stakiran/asking-n-people-n-generative-ai-models-simultaneously-2ef7)
-- [Building a Process Injection Detector in Rust](https://dev.to/pandaadir05/building-a-process-injection-detector-in-rust-el2)
+- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
+- [Python by Structure - Class-Based Decorators That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-class-based-decorators-that-remember-3fgn)
+- [Payra WooCommerce Plugin Updated — New Branding and Improved Media](https://dev.to/payracash/payra-woocommerce-plugin-updated-new-branding-and-improved-media-h5)
+- [Vehicle Diagnostic Timeline and Dealership Communication Analysis - Volkswagen](https://dev.to/formantaudio/vehicle-diagnostic-timeline-and-dealership-communication-analysis-volkswagen-2i87)
 <!-- BLOG-POST-LIST:END -->
 
 
