@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
-- [Python by Structure - Class-Based Decorators That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-class-based-decorators-that-remember-3fgn)
-- [Payra WooCommerce Plugin Updated — New Branding and Improved Media](https://dev.to/payracash/payra-woocommerce-plugin-updated-new-branding-and-improved-media-h5)
-- [Vehicle Diagnostic Timeline and Dealership Communication Analysis - Volkswagen](https://dev.to/formantaudio/vehicle-diagnostic-timeline-and-dealership-communication-analysis-volkswagen-2i87)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4p9j)
+- [Inside ChatGPT: Deconstructing &quot;Attention Is All You Need&quot; &lpar;Part 1&rpar;](https://dev.to/tmwakalasya/inside-chatgpt-deconstructing-attention-is-all-you-need-part-1-34ap)
+- [AWS community day Workshop: Building Your First DevOps Blue/Green Pipeline with ECS](https://dev.to/ndzenyuy/aws-community-day-workshop-building-your-first-devops-bluegreen-pipeline-with-ecs-4o67)
+- [Untitled](https://dev.to/edson_macaneta_maeds/untitled-20ji)
 <!-- BLOG-POST-LIST:END -->
 
 
