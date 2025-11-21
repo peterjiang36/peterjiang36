@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [COBOL - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/cobol-instalacion-y-configuracion-en-ubuntu-17h8)
-- [Build a Face Detection App with Python OOP — From Zero to Pro&lpar;part-5&rpar;](https://dev.to/mohammadreza_mahdian_3841/build-a-face-detection-app-with-python-oop-from-zero-to-propart-5-2hpb)
-- [REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact](https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj)
-- [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
+- [JS Thread, Native UI Thread, The Bridge and the Shadow Layer in React Native - analogy](https://dev.to/cathylai/js-thread-native-ui-thread-the-bridge-and-the-shadow-layer-in-react-native-analogy-167c)
+- [Understanding Basic Networking Fundamentals as a Devops Engineer](https://dev.to/jic/understanding-basic-networking-fundamentals-as-a-devops-engineer-178o)
+- [Allow your team to share product analytics reports from Supabase without giving them database access](https://dev.to/kyleledbetter/allow-your-team-to-share-product-analytics-reports-from-supabase-without-giving-them-database-access-5ab)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4dm1)
 <!-- BLOG-POST-LIST:END -->
 
 
