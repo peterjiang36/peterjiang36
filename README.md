@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-390b)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-20hn)
+- [What Is Asset Health in IT Asset Management?](https://dev.to/jennifer_devsamurai/what-is-asset-health-in-it-asset-management-4kj3)
+- [In the AI Wind, Even Pigs Can Fly? — A Developer&#39;s Reality Check in 2025](https://dev.to/duke897/in-the-ai-wind-even-pigs-can-fly-a-developers-reality-check-in-2025-40mg)
+- [Agentic AI Frameworks Comparison 2025: mcp-agent, LangGraph, AG2, PydanticAI, CrewAI](https://dev.to/hani__8725b7a/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40)
+- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
 <!-- BLOG-POST-LIST:END -->
 
 
