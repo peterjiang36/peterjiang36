@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Context Window Stress Testing: Reliability Under Load](https://dev.to/vaticnz/llm-context-window-stress-testing-reliability-under-load-1gjj)
-- [The fastest way to start a Mithril + Ionic + Vite project in 2025](https://dev.to/dejy/the-fastest-way-to-start-a-mithril-ionic-vite-project-in-2025-2lon)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-10c0)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-lln)
+- [Why the MITRE ATT&amp;CK Framework Actually Works](https://dev.to/johnjvester/why-the-mitre-attck-framework-actually-works-302i)
+- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
+- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
+- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
 <!-- BLOG-POST-LIST:END -->
 
 
