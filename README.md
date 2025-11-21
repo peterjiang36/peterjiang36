@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
-- [Making DIY High-Performance Air Purifier for Delhi: Build Guide](https://dev.to/akaalforge/making-diy-high-performance-air-purifier-for-delhi-build-guide-3oi8)
-- [How I Built a Self-Feeding SEO Engine with GPT-4o Vision + Next.js 15](https://dev.to/paul_row226/how-i-built-a-self-feeding-seo-engine-with-gpt-4o-vision-nextjs-15-55n5)
-- [Awakening Inner Joy: The Vision, Challenges, and Future of Joy Potential](https://dev.to/carter_flynn_7e3f50b8c386/awakening-inner-joy-the-vision-challenges-and-future-of-joy-potential-4cl9)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-390b)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-20hn)
 <!-- BLOG-POST-LIST:END -->
 
 
