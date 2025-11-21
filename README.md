@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [dashboard](https://dev.to/preetha_vaishnavi_2b82358/dashboard-501b)
-- [Real-World Asset Redemption Explained](https://dev.to/quillaudits/real-world-asset-redemption-explained-1f75)
-- [This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist](https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o)
-- [When a Trillion Dollars Moves: How Saudi Arabia&#39;s Mega-Investment Will Shake Global Currency Markets](https://dev.to/dhis_is_jj/when-a-trillion-dollars-moves-how-saudi-arabias-mega-investment-will-shake-global-currency-7ag)
+- [Claude Code Will Be As Good As You Are](https://dev.to/lucasbrogni1/claude-code-will-be-as-good-as-you-are-1f16)
+- [React Context &amp; Routing Mastery — From Prop Drilling Pain to Auth‑Ready Architectures](https://dev.to/cristiansifuentes/react-context-routing-mastery-from-prop-drilling-pain-to-auth-ready-architectures-1nld)
+- [How I built a hybrid LAN/WAN file sync engine without VPN &lpar;and why on-demand sync still matters&rpar;](https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib)
+- [Mise-En-Place: a quick and easy tool for managing a dev environment](https://dev.to/pix303/mise-en-place-a-quick-and-easy-tool-for-managing-a-dev-environment-2i92)
 <!-- BLOG-POST-LIST:END -->
 
 
