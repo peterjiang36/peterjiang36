@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Time to Move Your System to an ORM](https://dev.to/_555c69ff310ebfa46b/its-time-to-move-your-system-to-an-orm-50i5)
-- [The Architecture of Browser Sandboxes: A Deep Dive into JavaScript Code Isolation](https://dev.to/alexgriss/the-architecture-of-browser-sandboxes-a-deep-dive-into-javascript-code-isolation-1dnj)
-- [The Role Confusion: SRE vs Cloud vs Platform Engineer &lpar;And Why &quot;DevOps Engineer&quot; Misses the Point&rpar;](https://dev.to/anderson_leite/the-role-confusion-sre-vs-cloud-vs-platform-engineer-and-why-devops-engineer-misses-the-point-2e4h)
-- [Mastering Flutter Debugging: Visual Tools Every Developer 👩🏻‍💻Must Know](https://dev.to/hiteshm_devapp/mastering-flutter-debugging-visual-tools-every-developer-must-know-5dlg)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-i19)
+- [ChaosKit - Code-level Chaos Engineering for Go Applications](https://dev.to/roman_chudov_aae89a53d641/chaoskit-code-level-chaos-engineering-for-go-applications-2k3p)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-h19)
+- [Fixing Hallucinations in Gemini 3 Pro by Overriding RLHF Instincts](https://dev.to/musculus/fixing-hallucinations-in-gemini-3-pro-by-overriding-rlhf-instincts-5e0i)
 <!-- BLOG-POST-LIST:END -->
 
 
