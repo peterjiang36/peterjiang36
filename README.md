@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7k8)
-- [How Machines Learned to Write Software in a Human Like Way](https://dev.to/guswoltmann84/how-machines-learned-to-write-software-in-a-human-like-way-1d9c)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-2dil)
-- [Why Financial Sentiment Analysis Failed Without Explainability &lpar;And How I Fixed It&rpar;](https://dev.to/ambalogun/why-financial-sentiment-analysis-failed-without-explainability-and-how-i-fixed-it-46n1)
+- [Connecting Power BI to PostgreSQL &lpar;Aiven &amp; Localhost&rpar;: A Simple Step-by-Step Guide](https://dev.to/cristopher_njuguna_6381b1/connecting-power-bi-to-postgresql-aiven-localhost-a-simple-step-by-step-guide-984)
+- [From Raw to Refined: Data Pipeline Architecture at Scale](https://dev.to/pradeep_kaalluri/from-raw-to-refined-data-pipeline-architecture-at-scale-119l)
+- [[Boost]](https://dev.to/zakariajyh/-3iea)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-glh)
 <!-- BLOG-POST-LIST:END -->
 
 
