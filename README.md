@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni)
-- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g)
-- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4)
-- [Connecting the World Through Open Source: Practical Journey of Technology, Community and Global Developer Relations](https://dev.to/awsugonair/connecting-the-world-through-open-source-practical-journey-of-technology-community-and-global-2g1c)
+- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
+- [How TV Ad Sales Work: A Complete Overview](https://dev.to/jeffkovacek/how-tv-ad-sales-work-a-complete-overview-1ij)
+- [First Release to My CLI Tool](https://dev.to/elsad_humbetli_0971c995ce/first-release-to-my-cli-tool-1ope)
+- [Why Data Analytics Has Become the Most Important Skill in Today’s Job Market](https://dev.to/remo_seo_e51af443c231fe18/why-data-analytics-has-become-the-most-important-skill-in-todays-job-market-1adf)
 <!-- BLOG-POST-LIST:END -->
 
 
