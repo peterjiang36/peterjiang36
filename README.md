@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
-- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
-- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
-- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-2f43)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
+- [Axelang - A Systems Programming Language with Concurrency as a First-Class feature](https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b)
+- [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
 <!-- BLOG-POST-LIST:END -->
 
 
