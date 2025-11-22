@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
-- [**Importante**: La prevención del lavado de dinero y la fina](https://dev.to/drcarlosruizviquez/importante-la-prevencion-del-lavado-de-dinero-y-la-fina-54ln)
-- [Myth: AI powers Netflix&#39;s ability to curate a perfect list o](https://dev.to/drcarlosruizviquez/myth-ai-powers-netflixs-ability-to-curate-a-perfect-list-o-47kc)
-- [API Basics: Learning the Fun Side of APIs!](https://dev.to/ip2world/api-basics-learning-the-fun-side-of-apis-4dd9)
+- [Release 0.3 — Normalizing Unicode for Event Text](https://dev.to/kkrishnan10/release-03-normalizing-unicode-for-event-text-5e9p)
+- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
+- [Publishing Your First NPM Package: A Real-World Guide That Actually Helps](https://dev.to/mir_mursalin_ankur/publishing-your-first-npm-package-a-real-world-guide-that-actually-helps-4l4)
+- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
 <!-- BLOG-POST-LIST:END -->
 
 
