@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-2f43)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
-- [Axelang - A Systems Programming Language with Concurrency as a First-Class feature](https://dev.to/navidm/axelang-a-systems-programming-language-with-concurrency-as-a-first-class-feature-4i3b)
-- [Nested query strings in depth — a complete technical guide](https://dev.to/silentwatcher_95/nested-query-strings-in-depth-a-complete-technical-guide-1io8)
+- [Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 &lpar;y el Famoso Error &#39;[retrieved information]&#39;](https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php)
+- [I Built a Bedrock Agent for Learning… And It Definitely Took That Mission Seriously](https://dev.to/sinariver/i-built-a-bedrock-agent-for-learning-and-it-definitely-took-that-mission-seriously-kf3)
+- [Build Claude Desktop Extensions in Minutes with QuickMCP.NET](https://dev.to/gunpal5/build-claude-desktop-extensions-in-minutes-with-quickmcpnet-3p48)
+- [Introducing GistPad.com – A Secure Pastebin for Developers](https://dev.to/gistpad/introducing-gistpadcom-a-secure-pastebin-for-developers-o4b)
 <!-- BLOG-POST-LIST:END -->
 
 
