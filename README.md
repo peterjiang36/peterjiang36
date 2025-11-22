@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Subdomain in Route53 and Attach it to Elastic Beanstalk Environment](https://dev.to/pearlicia/create-a-subdomain-in-route53-and-attach-it-to-elastic-beanstalk-environment-19l)
-- [Understanding SQLite PRAGMA &lpar;And How better-sqlite3 Makes It Nicer&rpar;](https://dev.to/lovestaco/understanding-sqlite-pragma-and-how-better-sqlite3-makes-it-nicer-1ap0)
-- [I built an animated Pokémon TCG Simulator with Next.js &amp; Tailwind](https://dev.to/bigbenqin/i-built-an-animated-pokemon-tcg-simulator-with-nextjs-tailwind-12j6)
-- [Thank you team for the great summary !!!](https://dev.to/aditmodi/thank-you-team-for-the-great-summary--4b15)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-43hn)
+- [OSI Layer 4 Security Vulnerabilities &amp; Resolutions](https://dev.to/narnaiezzsshaa/osi-layer-4-security-vulnerabilities-resolutions-1dk6)
+- [TCP Variable-Length Packet Handling](https://dev.to/min38/tcp-variable-length-packet-handling-pc)
+- [devto test 2](https://dev.to/takeokunn/devto-test-2-2pa3)
 <!-- BLOG-POST-LIST:END -->
 
 
