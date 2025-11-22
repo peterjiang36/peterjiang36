@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I favor the fundamentals over the &quot;Framework of the Month&quot; for Web Development](https://dev.to/benlue/why-i-favor-the-fundamentals-over-the-framework-of-the-month-for-web-development-1gka)
-- [Migrated my whole SaaS Typing](https://dev.to/omarambat/migrated-my-whole-saas-typing-3ein)
-- [Building a React Native Hiragana &amp; Katakana Learning App — My Approach &amp; Lessons Learned](https://dev.to/maheshkale/building-a-react-native-hiragana-katakana-learning-app-my-approach-lessons-learned-12dn)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
+- [Key Concepts Covered in a Java Training Course](https://dev.to/techpragna/key-concepts-covered-in-a-java-training-course-2e91)
+- [How to Leverage Real Estate Tokenization to Unlock Property Value](https://dev.to/suzie_iris_65ce8070067366/how-to-leverage-real-estate-tokenization-to-unlock-property-value-5hma)
+- [Designer Clothes Online: Redefining Luxury for the Digital Era](https://dev.to/houseofsiyaab/designer-clothes-online-redefining-luxury-for-the-digital-era-1476)
+- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-bnk)
 <!-- BLOG-POST-LIST:END -->
 
 
