@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Power BI to PostgreSQL &lpar;Aiven &amp; Localhost&rpar;: A Simple Step-by-Step Guide](https://dev.to/cristopher_njuguna_6381b1/connecting-power-bi-to-postgresql-aiven-localhost-a-simple-step-by-step-guide-984)
-- [From Raw to Refined: Data Pipeline Architecture at Scale](https://dev.to/pradeep_kaalluri/from-raw-to-refined-data-pipeline-architecture-at-scale-119l)
-- [[Boost]](https://dev.to/zakariajyh/-3iea)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-glh)
+- [How to Achieve 100/100 on PageSpeed Insights](https://dev.to/danieltofan/how-to-achieve-100100-on-pagespeed-insights-39e9)
+- [Building a Simple Ticket Tracker CLI in Go](https://dev.to/chris-amaechi/building-a-simple-ticket-tracker-cli-in-go-39fp)
+- [From Prototype to Production: How to Engineer Reliable LLM Systems](https://dev.to/aiden_up_b0673604178ec753/from-prototype-to-production-how-to-engineer-reliable-llm-systems-2eff)
+- [🚀 Integrating API Gateway with Private ALB: The New, Simpler, and More Scalable Way](https://dev.to/chainiz/integrating-api-gateway-with-private-alb-the-new-simpler-and-more-scalable-way-54ol)
 <!-- BLOG-POST-LIST:END -->
 
 
