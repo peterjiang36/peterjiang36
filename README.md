@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 &lpar;y el Famoso Error &#39;[retrieved information]&#39;](https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php)
-- [I Built a Bedrock Agent for Learning… And It Definitely Took That Mission Seriously](https://dev.to/sinariver/i-built-a-bedrock-agent-for-learning-and-it-definitely-took-that-mission-seriously-kf3)
-- [Build Claude Desktop Extensions in Minutes with QuickMCP.NET](https://dev.to/gunpal5/build-claude-desktop-extensions-in-minutes-with-quickmcpnet-3p48)
-- [Introducing GistPad.com – A Secure Pastebin for Developers](https://dev.to/gistpad/introducing-gistpadcom-a-secure-pastebin-for-developers-o4b)
+- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
+- [**Importante**: La prevención del lavado de dinero y la fina](https://dev.to/drcarlosruizviquez/importante-la-prevencion-del-lavado-de-dinero-y-la-fina-54ln)
+- [Myth: AI powers Netflix&#39;s ability to curate a perfect list o](https://dev.to/drcarlosruizviquez/myth-ai-powers-netflixs-ability-to-curate-a-perfect-list-o-47kc)
+- [API Basics: Learning the Fun Side of APIs!](https://dev.to/ip2world/api-basics-learning-the-fun-side-of-apis-4dd9)
 <!-- BLOG-POST-LIST:END -->
 
 
