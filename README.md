@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Release 0.3 — Normalizing Unicode for Event Text](https://dev.to/kkrishnan10/release-03-normalizing-unicode-for-event-text-5e9p)
-- [React Suite v6: A Steady Step Toward Modernization](https://dev.to/simonguo/react-suite-v6-a-steady-step-toward-modernization-22b3)
-- [Publishing Your First NPM Package: A Real-World Guide That Actually Helps](https://dev.to/mir_mursalin_ankur/publishing-your-first-npm-package-a-real-world-guide-that-actually-helps-4l4)
-- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-517o)
+- [I built AppInfo - see what apps are actually doing on your phone 📱](https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m)
+- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-4cgb)
+- [Python Registry Pattern: A Clean Alternative to Factory Classes](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
 <!-- BLOG-POST-LIST:END -->
 
 
