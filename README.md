@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
-- [A QA Engineer&#39;s Guide to Mobile App Testing vs. Web App Testing](https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj)
-- [Why Vitamin D health effects and supplementation matter now?](https://dev.to/parth_consul_cc1f7accb69c/why-vitamin-d-health-effects-and-supplementation-matter-now-2a38)
-- [Angular migration to AWS with Azure AD SSO](https://dev.to/vidya_netke_a9f0dc38b7886/angular-migration-to-aws-with-azure-ad-sso-28fc)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-360d)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4of8)
+- [Custom Hooks vs. Higher-Order Components &lpar;HOCs&rpar; in React: A Practical Guide for Developers](https://dev.to/gouranga-das-khulna/custom-hooks-vs-higher-order-components-hocs-in-react-a-practical-guide-for-developers-e2c)
+- [When Machines Make the Call](https://dev.to/rawveg/when-machines-make-the-call-48ip)
 <!-- BLOG-POST-LIST:END -->
 
 
