@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-360d)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4of8)
-- [Custom Hooks vs. Higher-Order Components &lpar;HOCs&rpar; in React: A Practical Guide for Developers](https://dev.to/gouranga-das-khulna/custom-hooks-vs-higher-order-components-hocs-in-react-a-practical-guide-for-developers-e2c)
-- [When Machines Make the Call](https://dev.to/rawveg/when-machines-make-the-call-48ip)
+- [Create a Subdomain in Route53 and Attach it to Elastic Beanstalk Environment](https://dev.to/pearlicia/create-a-subdomain-in-route53-and-attach-it-to-elastic-beanstalk-environment-19l)
+- [Understanding SQLite PRAGMA &lpar;And How better-sqlite3 Makes It Nicer&rpar;](https://dev.to/lovestaco/understanding-sqlite-pragma-and-how-better-sqlite3-makes-it-nicer-1ap0)
+- [I built an animated Pokémon TCG Simulator with Next.js &amp; Tailwind](https://dev.to/bigbenqin/i-built-an-animated-pokemon-tcg-simulator-with-nextjs-tailwind-12j6)
+- [Thank you team for the great summary !!!](https://dev.to/aditmodi/thank-you-team-for-the-great-summary--4b15)
 <!-- BLOG-POST-LIST:END -->
 
 
