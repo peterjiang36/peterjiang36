@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
-- [How TV Ad Sales Work: A Complete Overview](https://dev.to/jeffkovacek/how-tv-ad-sales-work-a-complete-overview-1ij)
-- [First Release to My CLI Tool](https://dev.to/elsad_humbetli_0971c995ce/first-release-to-my-cli-tool-1ope)
-- [Why Data Analytics Has Become the Most Important Skill in Today’s Job Market](https://dev.to/remo_seo_e51af443c231fe18/why-data-analytics-has-become-the-most-important-skill-in-todays-job-market-1adf)
+- [Selenium Architecture &amp; Python Virtual Environ](https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2)
+- [The Complete Toolkit for Instant Photo Editing — All in Your Browser](https://dev.to/ankit_bhardwaj_7059057a1d/the-complete-toolkit-for-instant-photo-editing-all-in-your-browser-14j4)
+- [Why does the PHP header redirect not work sometimes?](https://dev.to/vijaythapa/why-does-the-php-header-redirect-not-work-sometimes-2k6a)
+- [How to choose the right image format for web use &lpar;JPEG vs PNG vs WebP&rpar;](https://dev.to/ankit_bhardwaj_7059057a1d/how-to-choose-the-right-image-format-for-web-use-jpeg-vs-png-vs-webp-fa0)
 <!-- BLOG-POST-LIST:END -->
 
 
