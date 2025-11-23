@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-374d)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4f26)
-- [Scaling Your Database: Simple Solutions Anyone Can Use](https://dev.to/karthikkorrayi/scaling-your-database-simple-solutions-anyone-can-use-1i98)
-- [&quot;Project C.O.R.E.: Architecting a Scalable RAG System for Personalized Education at Low Latency&quot;](https://dev.to/shakti_8ebe4de3f7031e2521/project-core-architecting-a-scalable-rag-system-for-personalized-education-at-low-latency-3dle)
+- [🚀 Boost Chrome’s Speed by Giving It More Memory &lpar;Because It’s Always Hungry&rpar;](https://dev.to/fbrzlarosa/boost-chromes-speed-by-giving-it-more-memory-because-its-always-hungry-2e3b)
+- [How to Use Chatbot in Education](https://dev.to/chatboqai/how-to-use-chatbot-in-education-25oa)
+- [AI vs God: The Ultimate Guide to Discerning Divine Wisdom in the Age of Artificial Intelligence](https://dev.to/bobby_sanders_63117dbdf8a/ai-vs-god-the-ultimate-guide-to-discerning-divine-wisdom-in-the-age-of-artificial-intelligence-35bj)
+- [Very simple and useful cli](https://dev.to/chris-amaechi/very-simple-and-useful-cli-1p8o)
 <!-- BLOG-POST-LIST:END -->
 
 
