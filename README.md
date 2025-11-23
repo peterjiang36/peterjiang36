@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Location Picker in React Native Maps &lpar;with Draggable Marker &amp; Address Lookup&rpar;](https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00)
-- [Launching EC2 with Git Bash: Why SSH Is Preferable to PuTTY.](https://dev.to/elmaur1/launching-ec2-with-git-bash-why-ssh-is-preferable-to-putty-21aa)
-- [How to Build Your Own Claude Chat App on AWS Bedrock with AWS CDK &lpar;Beginner-Friendly Step-by-Step Guide&rpar;](https://dev.to/chainiz/how-to-build-your-own-claude-chat-app-on-aws-bedrock-with-aws-cdk-beginner-friendly-step-by-step-5cdm)
-- [Resolvendo o desafio 509. Fibonacci Number](https://dev.to/cancio/resolvendo-o-desafio-509-fibonacci-number-5def)
+- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
+- [Controlling Blender with Gemini 3](https://dev.to/unclepomedev/controlling-blender-with-gemini-3-3nj9)
+- [SFTP, FTPS, or Something Better? Choosing the Right File Transfer Approach for 2026](https://dev.to/lovestaco/sftp-ftps-or-something-better-choosing-the-right-file-transfer-approach-for-2026-d8i)
+- [Machine Learning Syllabus for MAKAUT](https://dev.to/onirestart/machine-learning-syllabus-for-makaut-a0k)
 <!-- BLOG-POST-LIST:END -->
 
 
