@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Boost Chrome’s Speed by Giving It More Memory &lpar;Because It’s Always Hungry&rpar;](https://dev.to/fbrzlarosa/boost-chromes-speed-by-giving-it-more-memory-because-its-always-hungry-2e3b)
-- [How to Use Chatbot in Education](https://dev.to/chatboqai/how-to-use-chatbot-in-education-25oa)
-- [AI vs God: The Ultimate Guide to Discerning Divine Wisdom in the Age of Artificial Intelligence](https://dev.to/bobby_sanders_63117dbdf8a/ai-vs-god-the-ultimate-guide-to-discerning-divine-wisdom-in-the-age-of-artificial-intelligence-35bj)
-- [Very simple and useful cli](https://dev.to/chris-amaechi/very-simple-and-useful-cli-1p8o)
+- [Maintenance release 2.09 for the Perl Distribution Workflow](https://dev.to/jonasbn/maintenance-release-209-for-the-perl-distribution-workflow-491a)
+- [Uniface State Management: Mastering the Stateless Beast 🦄💾](https://dev.to/petercode/uniface-state-management-mastering-the-stateless-beast-31on)
+- [AI Isn&#39;t &quot;Smart&quot;: The Myth of Sentience and the Energy of a Black Hole](https://dev.to/fbrzlarosa/ai-isnt-smart-the-myth-of-sentience-and-the-energy-of-a-black-hole-2j6i)
+- [I Tried to Teach AI to Click Buttons, and It Missed by 500 Pixels](https://dev.to/duc_luong_10d1d0d0f726c3a/i-tried-to-teach-ai-to-click-buttons-and-it-missed-by-500-pixels-33ln)
 <!-- BLOG-POST-LIST:END -->
 
 
