@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3ae2)
-- [The New Digital Empire](https://dev.to/rawveg/the-new-digital-empire-3lnm)
+- [I Made A Fish Schooling Sim And Honestly It Was Fun As Hell](https://dev.to/armaansucks/i-made-a-fish-schooling-sim-and-honestly-it-was-fun-as-hell-4f50)
+- [How I Built a Tech Event Discovery Platform with Real-Time Scraping](https://dev.to/danishaft/how-i-built-a-tech-event-discovery-platform-with-real-time-scraping-3o4f)
+- [Opencode for Agentic Development with Local LLMs](https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k)
+- [Intro to Pytest](https://dev.to/thatmlguy/intro-to-pytest-1m35)
 <!-- BLOG-POST-LIST:END -->
 
 
