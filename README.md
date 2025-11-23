@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Middle School GPA Calculator for Students](https://dev.to/timcrooks/the-importance-of-middle-school-gpa-calculator-for-students-2a44)
-- [From Cloud Audit Logs to Real-Time Threat Detection with BigQuery and Chronicle SIEM](https://dev.to/advait_patel_5476c0750b4e/from-cloud-audit-logs-to-real-time-threat-detection-with-bigquery-and-chronicle-siem-4kn5)
-- [##How to Connect Power BI to Aiven PostgreSQL](https://dev.to/teresa_kungu_a8d91b0b7e13/how-to-connect-power-bi-to-aiven-postgresql-2b0l)
-- [Build your own cursor](https://dev.to/niko2609/build-your-own-cursor-1gmg)
+- [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-35b0)
+- [Escaping the Marketing Treadmill: How to Build an Autonomous System That Actually Works](https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-treadmill-how-to-build-an-autonomous-system-that-actually-works-1g3e)
+- [The Ultimate Guide to Autonomous Marketing Systems: Integrating AI and Automation for Exponential Growth](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-autonomous-marketing-systems-integrating-ai-and-automation-for-exponential-lm)
 <!-- BLOG-POST-LIST:END -->
 
 
