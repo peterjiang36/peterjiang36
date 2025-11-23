@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Locality vs. Independence: Which Should Your Database Prioritize?](https://dev.to/franckpachot/data-locality-vs-independence-which-should-your-database-prioritize-1gjb)
-- [Real estate app built with Next.js 16, shadcn/ui, and Prisma. Browse, list, and manage properties](https://dev.to/saidmounaim/real-estate-app-built-with-nextjs-16-shadcnui-and-prisma-browse-list-and-manage-properties-32e)
-- [Building a Serverless Notes App with AWS Amplify, Cognito, Lambda, DynamoDB &amp; API Gateway](https://dev.to/siddhesmm303/building-a-serverless-notes-app-with-aws-amplify-cognito-lambda-dynamodb-api-gateway-23o1)
-- [Building a static AI friendly landing page as an experiment](https://dev.to/marcustas/building-a-static-ai-friendly-landing-page-as-an-experiment-2098)
+- [Don Quixote Of Orchestration: Building For Problems No One Sees Yet](https://dev.to/marcosomma/don-quixote-of-orchestration-building-for-problems-no-one-sees-yet-1je6)
+- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-4d8i)
+- [Search Online - Arama Motoru](https://dev.to/koray_korkmaz_d5cce758baa/search-online-arama-motoru-1674)
+- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-23c5)
 <!-- BLOG-POST-LIST:END -->
 
 
