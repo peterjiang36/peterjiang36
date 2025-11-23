@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH Access to Proxmox Without Exposing Your Lab](https://dev.to/sebos/ssh-access-to-proxmox-without-exposing-your-lab-19bk)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-56kk)
-- [AIDE - File Integrity Monitoring for System Security](https://dev.to/sebos/aide-file-integrity-monitoring-for-system-security-5hkd)
-- [Building Tenders SA: Part 1 - From Problem to Platform Architecture](https://dev.to/freelancingsolutions/building-tenders-sa-part-1-from-problem-to-platform-architecture-1ogg)
+- [How I Built a 140 FPS Real-Time Face Landmark App with Just YOLOv9 + MediaPipe &lpar;5-Part Series&rpar;](https://dev.to/mohammadreza_mahdian_3841/how-i-built-a-140-fps-real-time-face-landmark-app-with-just-yolov9-mediapipe-5-part-series-mnf)
+- [Value Objects in PHP 8: Let&#39;s introduce a functional approach](https://dev.to/cnastasi/value-objects-in-php-8-lets-introduce-a-functional-approach-3aan)
+- [Why Aider](https://dev.to/avkr/why-aider-1nle)
+- [Creating a personal assistant &lpar;girlfriend&rpar; for myself](https://dev.to/yusufpapurcu/creating-a-personal-assistant-girlfriend-for-myself-1i29)
 <!-- BLOG-POST-LIST:END -->
 
 
