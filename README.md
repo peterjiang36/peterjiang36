@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Local Kubernetes Cluster in Minutes with Terraform and Multipass](https://dev.to/todoroff/build-a-local-kubernetes-cluster-in-minutes-with-terraform-and-multipass-14e4)
-- [llm_models: keeping up with LLM frontier model versions](https://dev.to/ljbuturovic/llmmodels-keeping-up-with-llm-frontier-model-versions-1dh9)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-hl1)
-- [Seu SSD aparece na BIOS, mas não no instalador do Windows? Aqui está a solução](https://dev.to/carloswherbet/voltando-a-usar-o-windows-apos-15-anos-4p2p)
+- [The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design](https://dev.to/mashraf_aiman_b9a968e5c1d/the-future-of-ux-robotics-telepresence-and-the-rise-of-human-in-the-loop-design-3h87)
+- [Fiat Omnia](https://dev.to/sixto_mcready_1a384d9671b/fiat-omnia-3l9k)
+- [Maximize Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-conversation-tools-3j7d)
+- [2025: AI-Assisted Developers Are Shipping Faster Than Ever](https://dev.to/farhannasirdev/2025-ai-assisted-developers-are-shipping-faster-than-ever-41pc)
 <!-- BLOG-POST-LIST:END -->
 
 
