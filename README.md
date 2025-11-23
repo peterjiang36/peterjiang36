@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
-- [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
-- [The &#39;Slow Productivity&#39; Revolution: Why Doing Less is the Key to Achieving More in the Age of AI](https://dev.to/veltrex_labs/the-slow-productivity-revolution-why-doing-less-is-the-key-to-achieving-more-in-the-age-of-ai-php)
-- [Cloud FinOps in Action: How I Saved Thousands by Optimizing AWS Architectures](https://dev.to/alok_shankar/cloud-finops-in-action-how-i-saved-thousands-by-optimizing-aws-architectures-36bk)
+- [Building a Location Picker in React Native Maps &lpar;with Draggable Marker &amp; Address Lookup&rpar;](https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00)
+- [Launching EC2 with Git Bash: Why SSH Is Preferable to PuTTY.](https://dev.to/elmaur1/launching-ec2-with-git-bash-why-ssh-is-preferable-to-putty-21aa)
+- [How to Build Your Own Claude Chat App on AWS Bedrock with AWS CDK &lpar;Beginner-Friendly Step-by-Step Guide&rpar;](https://dev.to/chainiz/how-to-build-your-own-claude-chat-app-on-aws-bedrock-with-aws-cdk-beginner-friendly-step-by-step-5cdm)
+- [Resolvendo o desafio 509. Fibonacci Number](https://dev.to/cancio/resolvendo-o-desafio-509-fibonacci-number-5def)
 <!-- BLOG-POST-LIST:END -->
 
 
