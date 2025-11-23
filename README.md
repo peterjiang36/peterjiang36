@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Newbie in Tech Should Start With Python](https://dev.to/the_duchess_of_hackers/why-every-newbie-in-tech-should-start-with-python-4lh6)
-- [Dear developers, understand this: if you can build it in a weekend, someone can kill it in a weekend.](https://dev.to/jaideepparashar/dear-developers-understand-this-if-you-can-build-it-in-a-weekend-someone-can-kill-it-in-a-1db1)
-- [VCs Are Betting on AI Startups, But They&#39;re Missing This](https://dev.to/jaideepparashar/vcs-are-betting-on-ai-startups-but-theyre-missing-this-3jof)
-- [Artigo foda!](https://dev.to/emn-f/artigo-foda-mbb)
+- [Elasticsearch Shard Imbalance: The Hidden Limitation](https://dev.to/sivaramaj/elasticsearch-shard-imbalance-the-hidden-limitation-47b5)
+- [The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.](https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47)
+- [I Solo-Built a Gamer Social Network in 9 Months](https://dev.to/ajax_selectbuttongames_/i-solo-built-a-gamer-social-network-in-9-months-3e21)
+- [Understanding PL/SQL Collections: Associative Arrays, Nested Tables, and VARRAYs](https://dev.to/ayako_yk/understanding-plsql-collections-associative-arrays-nested-tables-and-varrays-3bmp)
 <!-- BLOG-POST-LIST:END -->
 
 
