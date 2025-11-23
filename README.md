@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch Shard Imbalance: The Hidden Limitation](https://dev.to/sivaramaj/elasticsearch-shard-imbalance-the-hidden-limitation-47b5)
-- [The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.](https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47)
-- [I Solo-Built a Gamer Social Network in 9 Months](https://dev.to/ajax_selectbuttongames_/i-solo-built-a-gamer-social-network-in-9-months-3e21)
-- [Understanding PL/SQL Collections: Associative Arrays, Nested Tables, and VARRAYs](https://dev.to/ayako_yk/understanding-plsql-collections-associative-arrays-nested-tables-and-varrays-3bmp)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-al7)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-47ni)
+- [Kubernetes Control Plane Explained in Simple Bullets - A K8s Architect’s Guide](https://dev.to/srinivasamcjf/kubernetes-control-plane-explained-in-simple-bullets-a-k8s-architects-guide-ia)
+- [Docker Quick Guide — From &#39;Works on My Machine&#39; to Cloud‑Ready Containers](https://dev.to/cristiansifuentes/docker-quick-guide-from-works-on-my-machine-to-cloud-ready-containers-3ggn)
 <!-- BLOG-POST-LIST:END -->
 
 
