@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design](https://dev.to/mashraf_aiman_b9a968e5c1d/the-future-of-ux-robotics-telepresence-and-the-rise-of-human-in-the-loop-design-3h87)
-- [Fiat Omnia](https://dev.to/sixto_mcready_1a384d9671b/fiat-omnia-3l9k)
-- [Maximize Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-conversation-tools-3j7d)
-- [2025: AI-Assisted Developers Are Shipping Faster Than Ever](https://dev.to/farhannasirdev/2025-ai-assisted-developers-are-shipping-faster-than-ever-41pc)
+- [Why Every Newbie in Tech Should Start With Python](https://dev.to/the_duchess_of_hackers/why-every-newbie-in-tech-should-start-with-python-4lh6)
+- [Dear developers, understand this: if you can build it in a weekend, someone can kill it in a weekend.](https://dev.to/jaideepparashar/dear-developers-understand-this-if-you-can-build-it-in-a-weekend-someone-can-kill-it-in-a-1db1)
+- [VCs Are Betting on AI Startups, But They&#39;re Missing This](https://dev.to/jaideepparashar/vcs-are-betting-on-ai-startups-but-theyre-missing-this-3jof)
+- [Artigo foda!](https://dev.to/emn-f/artigo-foda-mbb)
 <!-- BLOG-POST-LIST:END -->
 
 
