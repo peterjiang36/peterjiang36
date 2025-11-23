@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-al7)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-47ni)
-- [Kubernetes Control Plane Explained in Simple Bullets - A K8s Architect’s Guide](https://dev.to/srinivasamcjf/kubernetes-control-plane-explained-in-simple-bullets-a-k8s-architects-guide-ia)
-- [Docker Quick Guide — From &#39;Works on My Machine&#39; to Cloud‑Ready Containers](https://dev.to/cristiansifuentes/docker-quick-guide-from-works-on-my-machine-to-cloud-ready-containers-3ggn)
+- [Day 13 : Understanding Google Cloud Billing API &amp; BigQuery Exports](https://dev.to/ibbus/day-13-understanding-google-cloud-billing-api-bigquery-exports-4j2b)
+- [UPI Payment Architecture](https://dev.to/shreyans_padmani/upi-payment-architecture-5h51)
+- [Ce que je fais en tant que développeur web freelance à Verviers &lpar;Tismodev / Tismo&rpar;](https://dev.to/tismodev/ce-que-je-fais-en-tant-que-developpeur-web-freelance-a-verviers-tismodev-tismo-4f8a)
+- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
 <!-- BLOG-POST-LIST:END -->
 
 
