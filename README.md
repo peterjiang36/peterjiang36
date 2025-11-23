@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don Quixote Of Orchestration: Building For Problems No One Sees Yet](https://dev.to/marcosomma/don-quixote-of-orchestration-building-for-problems-no-one-sees-yet-1je6)
-- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-4d8i)
-- [Search Online - Arama Motoru](https://dev.to/koray_korkmaz_d5cce758baa/search-online-arama-motoru-1674)
-- [Pwnagotchi Generator: Understanding opwngrid Through Reverse Engineering](https://dev.to/angeldev0/pwnagotchi-generator-understanding-opwngrid-through-reverse-engineering-23c5)
+- [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
+- [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
+- [The &#39;Slow Productivity&#39; Revolution: Why Doing Less is the Key to Achieving More in the Age of AI](https://dev.to/veltrex_labs/the-slow-productivity-revolution-why-doing-less-is-the-key-to-achieving-more-in-the-age-of-ai-php)
+- [Cloud FinOps in Action: How I Saved Thousands by Optimizing AWS Architectures](https://dev.to/alok_shankar/cloud-finops-in-action-how-i-saved-thousands-by-optimizing-aws-architectures-36bk)
 <!-- BLOG-POST-LIST:END -->
 
 
