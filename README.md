@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made A Fish Schooling Sim And Honestly It Was Fun As Hell](https://dev.to/armaansucks/i-made-a-fish-schooling-sim-and-honestly-it-was-fun-as-hell-4f50)
-- [How I Built a Tech Event Discovery Platform with Real-Time Scraping](https://dev.to/danishaft/how-i-built-a-tech-event-discovery-platform-with-real-time-scraping-3o4f)
-- [Opencode for Agentic Development with Local LLMs](https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k)
-- [Intro to Pytest](https://dev.to/thatmlguy/intro-to-pytest-1m35)
+- [Building a Contest Alarm App for Codeforces &amp; AtCoder — Need Suggestions](https://dev.to/md_shahriaswapno_ea91d1e/building-a-contest-alarm-app-for-codeforces-atcoder-need-suggestions-4560)
+- [Logging at Scale: ELK Stack vs Loki vs CloudWatch](https://dev.to/instadevops/logging-at-scale-elk-stack-vs-loki-vs-cloudwatch-2gga)
+- [The 10 Levels of API Development &lpar;From Beginner to Production-Ready&rpar;](https://dev.to/itsugo/the-10-levels-of-api-development-from-beginner-to-production-ready-94c)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-50j1)
 <!-- BLOG-POST-LIST:END -->
 
 
