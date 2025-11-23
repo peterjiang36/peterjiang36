@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13 : Understanding Google Cloud Billing API &amp; BigQuery Exports](https://dev.to/ibbus/day-13-understanding-google-cloud-billing-api-bigquery-exports-4j2b)
-- [UPI Payment Architecture](https://dev.to/shreyans_padmani/upi-payment-architecture-5h51)
-- [Ce que je fais en tant que développeur web freelance à Verviers &lpar;Tismodev / Tismo&rpar;](https://dev.to/tismodev/ce-que-je-fais-en-tant-que-developpeur-web-freelance-a-verviers-tismodev-tismo-4f8a)
-- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
+- [The Importance of Middle School GPA Calculator for Students](https://dev.to/timcrooks/the-importance-of-middle-school-gpa-calculator-for-students-2a44)
+- [From Cloud Audit Logs to Real-Time Threat Detection with BigQuery and Chronicle SIEM](https://dev.to/advait_patel_5476c0750b4e/from-cloud-audit-logs-to-real-time-threat-detection-with-bigquery-and-chronicle-siem-4kn5)
+- [##How to Connect Power BI to Aiven PostgreSQL](https://dev.to/teresa_kungu_a8d91b0b7e13/how-to-connect-power-bi-to-aiven-postgresql-2b0l)
+- [Build your own cursor](https://dev.to/niko2609/build-your-own-cursor-1gmg)
 <!-- BLOG-POST-LIST:END -->
 
 
