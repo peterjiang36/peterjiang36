@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-35b0)
-- [Escaping the Marketing Treadmill: How to Build an Autonomous System That Actually Works](https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-treadmill-how-to-build-an-autonomous-system-that-actually-works-1g3e)
-- [The Ultimate Guide to Autonomous Marketing Systems: Integrating AI and Automation for Exponential Growth](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-autonomous-marketing-systems-integrating-ai-and-automation-for-exponential-lm)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-374d)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4f26)
+- [Scaling Your Database: Simple Solutions Anyone Can Use](https://dev.to/karthikkorrayi/scaling-your-database-simple-solutions-anyone-can-use-1i98)
+- [&quot;Project C.O.R.E.: Architecting a Scalable RAG System for Personalized Education at Low Latency&quot;](https://dev.to/shakti_8ebe4de3f7031e2521/project-core-architecting-a-scalable-rag-system-for-personalized-education-at-low-latency-3dle)
 <!-- BLOG-POST-LIST:END -->
 
 
