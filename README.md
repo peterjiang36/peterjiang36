@@ -74,10 +74,13 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-542a)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3eil)
-- [How We Built True Parallel Agents With Git Worktrees](https://dev.to/getpochi/how-we-built-true-parallel-agents-with-git-worktrees-2580)
-- [I do not agree with Ben Lesh on his Medium article &#39;Regret Rxjs&#39;](https://dev.to/hansschenker/i-do-not-agree-with-ben-lesh-on-his-medium-article-regret-rxjs-2ig2)
+- [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl)
+- [A 2009 IBM Patent That Solved Indoor Location Without GPS — And Got Cited 64 Times by Cisco, Microsoft, Avaya…](https://dev.to/sagar_joshi_31ac4ef39367a/a-2009-ibm-patent-that-solved-indoor-location-without-gps-and-got-cited-64-times-by-cisco-3pnn)
+- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-15nh)
+- [🚀 Hello everyone
+I’ve recently launched our new website moradabads.com, where we focus on DSA, JavaScript output-based questions, articles, an online code compiler, and much more.
+
+I would really appreciate it if you could visit the website and share](https://dev.to/sumit_kumar_9fbda517e6961/hello-everyone-ive-recently-launched-our-new-website-moradabadscom-where-we-focus-on-dsa-4kbb)
 <!-- BLOG-POST-LIST:END -->
 
 
