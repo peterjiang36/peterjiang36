@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐧 20 Most Used Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-most-used-linux-commands-every-developer-should-know-259g)
-- [loadmodal.js: Bootstrap 5 Modal Window with Fetch API](https://dev.to/jqueryscript/loadmodaljs-bootstrap-5-modal-window-with-fetch-api-olm)
-- [Deep Dive: Building Real-Time Facial Emotion Detection on Raspberry Pi with YOLOv11](https://dev.to/malarkondappan/deep-dive-building-real-time-facial-emotion-detection-on-raspberry-pi-with-yolov11-jp4)
-- [The Creative Dilemma: Sharing Ideas vs. Protecting Them](https://dev.to/gamepill/the-creative-dilemma-sharing-ideas-vs-protecting-them-2ed2)
+- [Building a Real-Time Data Lake on AWS: S3, Glue, and Athena in Production](https://dev.to/aws-builders/building-a-real-time-data-lake-on-aws-s3-glue-and-athena-in-production-4g0b)
+- [WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers](https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8)
+- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
+- [Echo: The Buddy in the Machine](https://dev.to/vaticnz/echo-the-buddy-in-the-machine-3of3)
 <!-- BLOG-POST-LIST:END -->
 
 
