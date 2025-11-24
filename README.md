@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4p8k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-25ae)
-- [AWS IAM Outbound OIDC with Google Cloud Identity Pool](https://dev.to/aws-builders/aws-iam-outbound-oidc-with-google-cloud-identity-pool-5ak7)
-- [Self Hosting n8n on AWS EC2 instance &lpar;Step-by-step Guide&rpar;](https://dev.to/sevimsoffice/self-hosting-n8n-on-aws-ec2-instance-step-by-step-guide-fh2)
+- [Transform Your OpenAPI Specs Into Living Documentation: The Complete Guide](https://dev.to/apilover/transform-your-openapi-specs-into-living-documentation-the-complete-guide-4mki)
+- [The Ultimate Guide to Automotive MOST Cables](https://dev.to/dspof2000/the-ultimate-guide-to-automotive-most-cables-a0k)
+- [Perl 🐪 Weekly #748 - Perl v5.43.5](https://dev.to/szabgab/perl-weekly-748-perl-v5435-30nl)
+- [Firebase Studio: Google&#39;s Game-Changer for AI App Development 🔥](https://dev.to/dvalin99/firebase-studio-googles-game-changer-for-ai-app-development-1388)
 <!-- BLOG-POST-LIST:END -->
 
 
