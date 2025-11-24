@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quack into Action! Building Brilliant Agents with Docling-Agent &amp; mellea](https://dev.to/aairom/quack-into-action-building-brilliant-agents-with-docling-agent-mellea-lp)
-- [Deploy a 2-Tier Web Application on AWS](https://dev.to/bismaakram28/deploy-a-2-tier-web-application-on-aws-2e8h)
-- [Talent as a Growth Lever: Scaling Life-Sciences Engineering in Weeks, Not Months](https://dev.to/newpagesolutions/talent-as-a-growth-lever-scaling-life-sciences-engineering-in-weeks-not-months-18i5)
-- [MCP in Software Testing: Automating Test Data Retrieval](https://dev.to/manonaga2188/mcp-in-software-testing-automating-test-data-retrieval-3k5b)
+- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-31j)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-4o8o)
+- [What are your goals for the week? #154](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-154-3651)
+- [Recipe Step Normalizer — turn steps into JSON](https://dev.to/felixships/recipe-step-normalizer-turn-steps-into-json-2bbp)
 <!-- BLOG-POST-LIST:END -->
 
 
