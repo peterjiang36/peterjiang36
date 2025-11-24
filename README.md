@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OSD600: Release 0.3](https://dev.to/david_rivera_8d845b35931e/osd600-release-03-4p46)
-- [The Hidden Cost of Abstraction - Making an Informed Decision](https://dev.to/solomonaboyeji/the-hidden-cost-of-abstraction-27kk)
-- [Knowledge Graphs + LLM Integration: Query Your Ontology with Natural Language](https://dev.to/vishalmysore/knowledge-graphs-llm-integration-query-your-ontology-with-natural-language-480d)
-- [The Story of Archi: an Archimate Tool; The Pedantic Defense: How &#39;Legal&#39; Gatekeeping Violates the Spirit of Open Source](https://dev.to/steve_7dd4f5ea142451b9787/the-pedantic-defense-how-legal-gatekeeping-violates-the-spirit-of-open-source-4276)
+- [When Heaven Comes at Midnight: A Deep Journey Through John Chapter 3](https://dev.to/douglasvandergraph/when-heaven-comes-at-midnight-a-deep-journey-through-john-chapter-3-1dib)
+- [Speed up your Laravel development using CRUD Templates](https://dev.to/jcsoriano/speed-up-your-laravel-development-using-crud-templates-2k0g)
+- [dev diary 20251123](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251123-38pd)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-44bg)
 <!-- BLOG-POST-LIST:END -->
 
 
