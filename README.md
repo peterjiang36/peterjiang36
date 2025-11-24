@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Coding, Start Managing: A First Look at Google&#39;s AntiGravity IDE 🚀](https://dev.to/ranand12/stop-coding-start-managing-a-first-look-at-googles-antigravity-ide-3j9h)
-- [🔍 Observability Practices: A Practical Guide With Real-World Examples](https://dev.to/cesar_nikolascamacmelen/observability-practices-a-practical-guide-with-real-world-examples-4eld)
-- [Mastering FizzBuzz in Python: A Step-by-Step Guide](https://dev.to/highcenburg/mastering-fizzbuzz-in-python-a-step-by-step-guide-2hmm)
-- [Occam’s Razor destroyed my polynomial model in 5 minutes](https://dev.to/mohammadreza_mahdian_3841/occams-razor-destroyed-my-polynomial-model-in-5-minutes-3779)
+- [Full Remote](https://dev.to/stakiran/full-remote-57k0)
+- [[Boost]](https://dev.to/brandonkylebailey/-18o0)
+- [Pixel Perfect Figma plugin for mobile developers](https://dev.to/1pixel/pixel-perfect-figma-plugin-for-mobile-developers-3gil)
+- [[Boost]](https://dev.to/zunzun/-bkc)
 <!-- BLOG-POST-LIST:END -->
 
 
