@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Remote](https://dev.to/stakiran/full-remote-57k0)
-- [[Boost]](https://dev.to/brandonkylebailey/-18o0)
-- [Pixel Perfect Figma plugin for mobile developers](https://dev.to/1pixel/pixel-perfect-figma-plugin-for-mobile-developers-3gil)
-- [[Boost]](https://dev.to/zunzun/-bkc)
+- [🐧 20 Most Used Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-most-used-linux-commands-every-developer-should-know-259g)
+- [loadmodal.js: Bootstrap 5 Modal Window with Fetch API](https://dev.to/jqueryscript/loadmodaljs-bootstrap-5-modal-window-with-fetch-api-olm)
+- [Deep Dive: Building Real-Time Facial Emotion Detection on Raspberry Pi with YOLOv11](https://dev.to/malarkondappan/deep-dive-building-real-time-facial-emotion-detection-on-raspberry-pi-with-yolov11-jp4)
+- [The Creative Dilemma: Sharing Ideas vs. Protecting Them](https://dev.to/gamepill/the-creative-dilemma-sharing-ideas-vs-protecting-them-2ed2)
 <!-- BLOG-POST-LIST:END -->
 
 
