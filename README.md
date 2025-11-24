@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Razor Pages vs MVC: Quando escolher e por quê](https://dev.to/gustavo_viegas/razor-pages-vs-mvc-quando-escolher-e-por-que-2nie)
-- [Use Fork Git Client to Remove Passwords from Git History](https://dev.to/jjrawlins/use-fork-git-client-to-remove-passwords-from-git-history-3in)
-- [The 5 Most Common Data Quality Issues &lpar;and How Analysts Can Fix Them&rpar;](https://dev.to/pauletart/the-5-most-common-data-quality-issues-and-how-analysts-can-fix-them-3c7p)
-- [How to Configure DNS When Using a VPN](https://dev.to/gges_grp_8f7aad204478d02a/how-to-configure-dns-when-using-a-vpn-4hh3)
+- [Coffee Haven - Uno Platform AI Challenge Entry](https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib)
+- [Better Agents CLI with Kilo Code and LangWatch](https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc)
+- [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
+- [Rubree: A Modern Ruby Regex Editor Running Fully in Your Browser](https://dev.to/aim2bpg/rubree-a-modern-ruby-regex-editor-running-fully-in-your-browser-5g2b)
 <!-- BLOG-POST-LIST:END -->
 
 
