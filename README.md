@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your OpenAPI Specs Into Living Documentation: The Complete Guide](https://dev.to/apilover/transform-your-openapi-specs-into-living-documentation-the-complete-guide-4mki)
-- [The Ultimate Guide to Automotive MOST Cables](https://dev.to/dspof2000/the-ultimate-guide-to-automotive-most-cables-a0k)
-- [Perl 🐪 Weekly #748 - Perl v5.43.5](https://dev.to/szabgab/perl-weekly-748-perl-v5435-30nl)
-- [Firebase Studio: Google&#39;s Game-Changer for AI App Development 🔥](https://dev.to/dvalin99/firebase-studio-googles-game-changer-for-ai-app-development-1388)
+- [Cursor’s Secret Rules &lpar;and the Folder You Need to Understand&rpar;](https://dev.to/maheshkale/cursors-secret-rules-and-the-folder-you-need-to-understand-ai4)
+- [How I Built a Pseudocode Runner &lpar;With Zero Coding Experience&rpar; Using Compyle’s Tools](https://dev.to/idrees_qazi_9a5251741d4fe/how-i-built-a-pseudocode-runner-with-zero-coding-experience-using-compyles-tools-4da3)
+- [How to Prevent Backup-related Throttling Without Losing Data &lpar;or Mind&rpar;](https://dev.to/gitprotect/how-to-prevent-backup-related-throttling-without-losing-data-or-mind-3k4k)
+- [Working with Hibernate in Java - Part 1: Using xml config](https://dev.to/mayyaannkk/working-with-hibernate-in-java-part-1-using-xml-config-44f9)
 <!-- BLOG-POST-LIST:END -->
 
 
