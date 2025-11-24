@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Heaven Comes at Midnight: A Deep Journey Through John Chapter 3](https://dev.to/douglasvandergraph/when-heaven-comes-at-midnight-a-deep-journey-through-john-chapter-3-1dib)
-- [Speed up your Laravel development using CRUD Templates](https://dev.to/jcsoriano/speed-up-your-laravel-development-using-crud-templates-2k0g)
-- [dev diary 20251123](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251123-38pd)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-44bg)
+- [What I Keep Finding When I Scan Small U.S. Municipal Websites &lpar;And How To Fix It In Under An Hour&rpar;](https://dev.to/civicmeshflow/what-i-keep-finding-when-i-scan-small-us-municipal-websites-and-how-to-fix-it-in-under-an-hour-2n12)
+- [How to add html file in arkts project](https://dev.to/harmonyos/how-to-add-html-file-in-arkts-project-1hcm)
+- [AI Girlfriend in 2025 vs. 2030: What Happens When She Finally Gets a Real Body?](https://dev.to/nolan_0714/ai-girlfriend-in-2025-vs-2030-what-happens-when-she-finally-gets-a-real-body-1fcf)
+- [Can we use Rust to Develop Extensions for PostgreSQL?](https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431)
 <!-- BLOG-POST-LIST:END -->
 
 
