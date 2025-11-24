@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing brew-coffee - One Command Dev Environment Setup](https://dev.to/n4en/introducing-brew-coffee-one-command-dev-environment-setup-3g3l)
-- [Comparing Open AI MCP and Anthropic MCP](https://dev.to/aun_aideveloper/comparing-openai-mcp-and-anthropic-mcp-safeguarding-llms-with-mitigation-and-co-2c36)
-- [The Art of Software Architecture: A Desi Developer&#39;s Guide to Building Systems That Actually Work](https://dev.to/datatechbridge/the-art-of-software-architecture-a-desi-developers-guide-to-building-systems-that-actually-work-39eh)
-- [why i built yet another todo app](https://dev.to/razberry/why-i-built-yet-another-todo-app-434b)
+- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
+- [On-Ramps Are Solved — Off-Ramps Aren’t. Here’s Why It Matters](https://dev.to/dan_keller/on-ramps-are-solved-off-ramps-arent-heres-why-it-matters-45nm)
+- [Як побудувати ядро онлайн-казино: архітектура, модулі та інтеграції](https://dev.to/4mars/iak-pobuduvati-iadro-onlain-kazino-arkhitiektura-moduli-ta-intieghratsiyi-cal)
+- [An Overview of Muathemewpgiare.com: What the Platform Offers and Why It Matters](https://dev.to/muathemewpgiare/an-overview-of-muathemewpgiarecom-what-the-platform-offers-and-why-it-matters-4hfb)
 <!-- BLOG-POST-LIST:END -->
 
 
