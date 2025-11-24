@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Keep Finding When I Scan Small U.S. Municipal Websites &lpar;And How To Fix It In Under An Hour&rpar;](https://dev.to/civicmeshflow/what-i-keep-finding-when-i-scan-small-us-municipal-websites-and-how-to-fix-it-in-under-an-hour-2n12)
-- [How to add html file in arkts project](https://dev.to/harmonyos/how-to-add-html-file-in-arkts-project-1hcm)
-- [AI Girlfriend in 2025 vs. 2030: What Happens When She Finally Gets a Real Body?](https://dev.to/nolan_0714/ai-girlfriend-in-2025-vs-2030-what-happens-when-she-finally-gets-a-real-body-1fcf)
-- [Can we use Rust to Develop Extensions for PostgreSQL?](https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431)
+- [Stop Coding, Start Managing: A First Look at Google&#39;s AntiGravity IDE 🚀](https://dev.to/ranand12/stop-coding-start-managing-a-first-look-at-googles-antigravity-ide-3j9h)
+- [🔍 Observability Practices: A Practical Guide With Real-World Examples](https://dev.to/cesar_nikolascamacmelen/observability-practices-a-practical-guide-with-real-world-examples-4eld)
+- [Mastering FizzBuzz in Python: A Step-by-Step Guide](https://dev.to/highcenburg/mastering-fizzbuzz-in-python-a-step-by-step-guide-2hmm)
+- [Occam’s Razor destroyed my polynomial model in 5 minutes](https://dev.to/mohammadreza_mahdian_3841/occams-razor-destroyed-my-polynomial-model-in-5-minutes-3779)
 <!-- BLOG-POST-LIST:END -->
 
 
