@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Angular Development: From Dumb Data to Smart Models with Cast-Response](https://dev.to/besara/revolutionize-your-angular-development-from-dumb-data-to-smart-models-with-cast-response-5a26)
-- [Automate UI Bug Fixing with Chrome MCP Server and Copilot](https://dev.to/balastrong/automate-ui-bug-fixing-with-chrome-mcp-server-and-copilot-2131)
-- [Day 13 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-13-of-improving-my-data-science-skills-2f98)
-- [Sharing Some Joy: My New MCP Image Server for Cursor](https://dev.to/_unbywyd/sharing-some-joy-my-new-mcp-image-server-for-cursor-249)
+- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
+- [How to build a good container platform](https://dev.to/kubeden/how-to-build-a-good-container-platform-gk7)
+- [“Best Automated Code Review Tools for Enterprise Software Teams”](https://dev.to/uss/best-automated-code-review-tools-for-enterprise-software-teams-549f)
 <!-- BLOG-POST-LIST:END -->
 
 
