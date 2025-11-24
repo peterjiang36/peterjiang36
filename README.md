@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
-- [How to build a good container platform](https://dev.to/kubeden/how-to-build-a-good-container-platform-gk7)
-- [“Best Automated Code Review Tools for Enterprise Software Teams”](https://dev.to/uss/best-automated-code-review-tools-for-enterprise-software-teams-549f)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
+- [New DynamoDB Key Feature &amp; Why It Matters](https://dev.to/aws-builders/new-dynamodb-key-feature-why-it-matters-38ln)
+- [I compared 17 Kotlin MVI libraries across 103 criteria - here are THE BEST 4](https://dev.to/nek12/i-compared-17-kotlin-mvi-libraries-across-103-criteria-here-are-the-best-4-5g89)
+- [Why everyone fails at the California Housing dataset the same way&lpar;6 brutal reasons&rpar;](https://dev.to/mohammadreza_mahdian_3841/why-everyone-fails-at-the-california-housing-dataset-the-same-way6-brutal-reasons-4c0g)
 <!-- BLOG-POST-LIST:END -->
 
 
