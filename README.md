@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
-- [On-Ramps Are Solved — Off-Ramps Aren’t. Here’s Why It Matters](https://dev.to/dan_keller/on-ramps-are-solved-off-ramps-arent-heres-why-it-matters-45nm)
-- [Як побудувати ядро онлайн-казино: архітектура, модулі та інтеграції](https://dev.to/4mars/iak-pobuduvati-iadro-onlain-kazino-arkhitiektura-moduli-ta-intieghratsiyi-cal)
-- [An Overview of Muathemewpgiare.com: What the Platform Offers and Why It Matters](https://dev.to/muathemewpgiare/an-overview-of-muathemewpgiarecom-what-the-platform-offers-and-why-it-matters-4hfb)
+- [Revolutionize Your Angular Development: From Dumb Data to Smart Models with Cast-Response](https://dev.to/besara/revolutionize-your-angular-development-from-dumb-data-to-smart-models-with-cast-response-5a26)
+- [Automate UI Bug Fixing with Chrome MCP Server and Copilot](https://dev.to/balastrong/automate-ui-bug-fixing-with-chrome-mcp-server-and-copilot-2131)
+- [Day 13 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-13-of-improving-my-data-science-skills-2f98)
+- [Sharing Some Joy: My New MCP Image Server for Cursor](https://dev.to/_unbywyd/sharing-some-joy-my-new-mcp-image-server-for-cursor-249)
 <!-- BLOG-POST-LIST:END -->
 
 
