@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coffee Haven - Uno Platform AI Challenge Entry](https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib)
-- [Better Agents CLI with Kilo Code and LangWatch](https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc)
-- [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
-- [Rubree: A Modern Ruby Regex Editor Running Fully in Your Browser](https://dev.to/aim2bpg/rubree-a-modern-ruby-regex-editor-running-fully-in-your-browser-5g2b)
+- [Quack into Action! Building Brilliant Agents with Docling-Agent &amp; mellea](https://dev.to/aairom/quack-into-action-building-brilliant-agents-with-docling-agent-mellea-lp)
+- [Deploy a 2-Tier Web Application on AWS](https://dev.to/bismaakram28/deploy-a-2-tier-web-application-on-aws-2e8h)
+- [Talent as a Growth Lever: Scaling Life-Sciences Engineering in Weeks, Not Months](https://dev.to/newpagesolutions/talent-as-a-growth-lever-scaling-life-sciences-engineering-in-weeks-not-months-18i5)
+- [MCP in Software Testing: Automating Test Data Retrieval](https://dev.to/manonaga2188/mcp-in-software-testing-automating-test-data-retrieval-3k5b)
 <!-- BLOG-POST-LIST:END -->
 
 
