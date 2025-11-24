@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-20bg)
-- [Optimizing Push Notification Logging at Scale - From Synchronous Bottleneck to Async Batching](https://dev.to/sangwoo_rhie/optimizing-push-notification-logging-at-scale-from-synchronous-bottleneck-to-async-batching-55ie)
-- [Teaching Feature Flags to a Junior Changed How I Think About Architecture](https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c)
-- [How to Embed a Wallet SDK in Your App &lpar;2025 Best Practices&rpar;](https://dev.to/estelleatthenook/how-to-embed-a-wallet-sdk-in-your-app-2025-best-practices-4f60)
+- [The saltiest and wrongest article about Big O ever](https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm)
+- [Por qué ETH sigue siendo el favorito de los desarrolladores en 2025 &lpar;y por qué integrarlo ahora es más fácil que nunca&rpar;](https://dev.to/paddy_e4d3d274ebc7/por-que-eth-sigue-siendo-el-favorito-de-los-desarrolladores-en-2025-y-por-que-integrarlo-ahora-es-1m59)
+- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-4-2pd8)
+- [Common LINQ Methods with Examples in .NET Core](https://dev.to/sapanapal6/common-linq-methods-with-examples-in-net-core-2m2p)
 <!-- BLOG-POST-LIST:END -->
 
 
