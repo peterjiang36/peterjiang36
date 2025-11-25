@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
-- [AWS CDK Introduces Mixins: A Major Feature for Flexible Construct Composition &lpar;Developer Preview&rpar;](https://dev.to/aws-heroes/aws-cdk-introduces-mixins-a-major-feature-for-flexible-construct-composition-developer-preview-583d)
-- [Github dockerfile service using AI - Part 1](https://dev.to/codecowboydotio/github-dockerfile-service-using-ai-part-1-1735)
-- [The Gen Z Privilege And The Blind Spot in AI Era](https://dev.to/dlzcods/the-gen-z-privilege-and-the-blind-spot-in-ai-era-58hm)
+- [How to Calculate Returns When Investing Using a SIP Calculator](https://dev.to/aisha_mehra_d0f134c62a79b/how-to-calculate-returns-when-investing-using-a-sip-calculator-2fco)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2dco)
+- [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
+- [From RAG to RAO Level 6: How I Evolved Tiramisu Framework into a Multi-Agent System](https://dev.to/tiramisuframework/from-rag-to-rao-level-6-how-i-evolved-tiramisu-framework-into-a-multi-agent-system-4ebh)
 <!-- BLOG-POST-LIST:END -->
 
 
