@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4gj8)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1m79)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1e3m)
-- [Why Spirituality is Your Secret Superpower in Modern Life](https://dev.to/sia_negi21/why-spirituality-is-your-secret-superpower-in-modern-life-d8g)
+- [PynamoDB Tutorial: Build Production-Ready DynamoDB CRUD APIs in AWS Lambda](https://dev.to/mate32/pynamodb-tutorial-build-production-ready-dynamodb-crud-apis-in-aws-lambda-i35)
+- [The Inevitable Cloud Cost Debt](https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82)
+- [Engineering and DEI](https://dev.to/stakiran/engineering-and-dei-2k51)
+- [✨ Daily Learning Update – Linux Fundamentals 🐧](https://dev.to/sudarshan_yadav/daily-learning-update-linux-fundamentals-2o14)
 <!-- BLOG-POST-LIST:END -->
 
 
