@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Array Chunking in Go: A Comprehensive Algorithm Approach](https://dev.to/rubenoalvarado/learn-array-chunking-in-go-a-comprehensive-algorithm-approach-1b24)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-1fol)
-- [What Fraud Taught Me About Teaching Children Digital Trust: A Retrospective](https://dev.to/narnaiezzsshaa/what-fraud-taught-me-about-teaching-children-digital-trust-a-retrospective-2150)
-- [MAWA - Un lenguaje tan simple como Python pero tan potente como Assembler, el ASM moderno pero mucho más sencillo](https://dev.to/samuel_leonardo_37aff38b4/mawa-un-lenguaje-tan-simple-como-python-pero-tan-potente-como-assembler-el-asm-moderno-pero-2i33)
+- [Unlocking Automation with Strands Agents and Bedrock](https://dev.to/elbanic/unlocking-automation-with-strands-agents-and-bedrock-3noa)
+- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250)
+- [Stop decoding Hex manually. I built a Python J1939 Sniffer with a GUI &lpar;No Hardware Needed&rpar;](https://dev.to/philyeh/stop-decoding-hex-manually-i-built-a-python-j1939-sniffer-with-a-gui-no-hardware-needed-1p8o)
+- [Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant](https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71)
 <!-- BLOG-POST-LIST:END -->
 
 
