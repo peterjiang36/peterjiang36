@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PynamoDB Tutorial: Build Production-Ready DynamoDB CRUD APIs in AWS Lambda](https://dev.to/mate32/pynamodb-tutorial-build-production-ready-dynamodb-crud-apis-in-aws-lambda-i35)
-- [The Inevitable Cloud Cost Debt](https://dev.to/sravanikaipa_c5bf5/the-inevitable-cloud-cost-debt-4j82)
-- [Engineering and DEI](https://dev.to/stakiran/engineering-and-dei-2k51)
-- [✨ Daily Learning Update – Linux Fundamentals 🐧](https://dev.to/sudarshan_yadav/daily-learning-update-linux-fundamentals-2o14)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-mcb)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 4 - Add Tools](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18)
+- [Ruby on Rails AI Development: Accelerating AI Adoption](https://dev.to/devang1810/ruby-on-rails-ai-development-accelerating-ai-adoption-4g97)
+- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
 <!-- BLOG-POST-LIST:END -->
 
 
