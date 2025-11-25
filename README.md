@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-mcb)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 4 - Add Tools](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18)
-- [Ruby on Rails AI Development: Accelerating AI Adoption](https://dev.to/devang1810/ruby-on-rails-ai-development-accelerating-ai-adoption-4g97)
-- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
+- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
+- [AWS CDK Introduces Mixins: A Major Feature for Flexible Construct Composition &lpar;Developer Preview&rpar;](https://dev.to/aws-heroes/aws-cdk-introduces-mixins-a-major-feature-for-flexible-construct-composition-developer-preview-583d)
+- [Github dockerfile service using AI - Part 1](https://dev.to/codecowboydotio/github-dockerfile-service-using-ai-part-1-1735)
+- [The Gen Z Privilege And The Blind Spot in AI Era](https://dev.to/dlzcods/the-gen-z-privilege-and-the-blind-spot-in-ai-era-58hm)
 <!-- BLOG-POST-LIST:END -->
 
 
