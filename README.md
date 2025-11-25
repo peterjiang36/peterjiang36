@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Automation with Strands Agents and Bedrock](https://dev.to/elbanic/unlocking-automation-with-strands-agents-and-bedrock-3noa)
-- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250)
-- [Stop decoding Hex manually. I built a Python J1939 Sniffer with a GUI &lpar;No Hardware Needed&rpar;](https://dev.to/philyeh/stop-decoding-hex-manually-i-built-a-python-j1939-sniffer-with-a-gui-no-hardware-needed-1p8o)
-- [Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant](https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71)
+- [Supercharging Your Styles with CSS Functions &lpar;calc&lpar;&rpar;, var&lpar;&rpar;, and More&rpar;](https://dev.to/sharique_siddiqui_8242dad/supercharging-your-styles-with-css-functions-calc-var-and-more-5bee)
+- [sam3d Under the Hood: How Meta’s Model Makes Single-Image 3D Reconstruction Accessible to Developers](https://dev.to/sophialuma/sam3d-under-the-hood-how-metas-model-makes-single-image-3d-reconstruction-accessible-to-developers-4li1)
+- [A Stranger In a New Town: CsvPath metadata fields](https://dev.to/david_kershaw_b6916404da6/a-stranger-in-a-new-town-csvpath-metadata-fields-1non)
+- [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
 <!-- BLOG-POST-LIST:END -->
 
 
