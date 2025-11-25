@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-18d8)
-- [NodeJS on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/nodejs-on-ubuntu-installation-setup-and-first-steps-hnl)
-- [Preparing Your Brand for the Next Wave of AI-Driven Content Discovery](https://dev.to/kapusto/preparing-your-brand-for-the-next-wave-of-ai-driven-content-discovery-37b8)
-- [I just built a Startup / SaaS / business idea generator &lpar; idea-rader.com &rpar;](https://dev.to/gouravsaha/i-just-built-a-startup-saas-business-idea-generator-httpsidea-radercom--1dce)
+- [🗺️ How-To: Create a Bug Report](https://dev.to/jmosley/how-to-create-a-bug-report-1f3l)
+- [Type hints in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-hints-in-python-3-4gg)
+- [Day 2/30: Understanding Terraform Providers](https://dev.to/anil_kumar_noolu/day-230-understanding-terraform-providers-3ema)
+- [From Hooks To Actions: What&#39;s New In React 19](https://dev.to/namingthingsishard/from-hooks-to-actions-whats-new-in-react-19-4gn4)
 <!-- BLOG-POST-LIST:END -->
 
 
