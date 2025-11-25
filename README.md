@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
-
-They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph)
-- [ESP32-S3 + TensorFlow Lite Micro: A Practical Guide to Local Wake Word &amp; Edge AI Inference](https://dev.to/zediot/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540)
-- [Why the Next Unicorns Will Be Built With 5 People and AI](https://dev.to/jaideepparashar/why-the-next-unicorns-will-be-built-with-5-people-and-ai-580b)
-- [How Can Native Mobile Banking Apps Reduce App Crashes?](https://dev.to/it-influencer/how-can-native-mobile-banking-apps-reduce-app-crashes-30pn)
+- [Cloud Fax Intelligence: The Hidden Engine Behind Modern Compliance](https://dev.to/allinsightsnews/cloud-fax-intelligence-the-hidden-engine-behind-modern-compliance-4f9h)
+- [From Prototype to Production: The State of Generative AI Development in 2025](https://dev.to/ioweb_961ddefd53bd65fce97/from-prototype-to-production-the-state-of-generative-ai-development-in-2025-4126)
+- [How AI is Reducing Hiring Bias and Promoting Equal Opportunity in Recruitment](https://dev.to/clarient/how-ai-is-reducing-hiring-bias-and-promoting-equal-opportunity-in-recruitment-377m)
+- [Day 01: Why You Can’t Afford to Provision Infrastructure Manually Anymore](https://dev.to/ketan_kanade_eddc807c2065/day-01-why-you-cant-afford-to-provision-infrastructure-manually-anymore-4c53)
 <!-- BLOG-POST-LIST:END -->
 
 
