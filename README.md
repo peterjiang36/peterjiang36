@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [kubectl-ai WebUI: A Visual Way to Use AI for Kubernetes Troubleshooting](https://dev.to/robert_r_7c237256b7614328/kubectl-ai-webui-a-visual-way-to-use-ai-for-kubernetes-troubleshooting-34g6)
-- [Moving Smarter, Not Faster: How Organization Shapes Great Teams](https://dev.to/reenanms/moving-smarter-not-faster-how-organization-shapes-great-teams-2eg6)
-- [Fast and Furious XXV the Missing Modem.](https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9)
-- [Managing Zebra Android Devices at Scale: A Practical Guide for Developers &amp; IT Engineers](https://dev.to/gauri_bhosale_f7398ef7373/managing-zebra-android-devices-at-scale-a-practical-guide-for-developers-it-engineers-4h66)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-18d8)
+- [NodeJS on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/nodejs-on-ubuntu-installation-setup-and-first-steps-hnl)
+- [Preparing Your Brand for the Next Wave of AI-Driven Content Discovery](https://dev.to/kapusto/preparing-your-brand-for-the-next-wave-of-ai-driven-content-discovery-37b8)
+- [I just built a Startup / SaaS / business idea generator &lpar; idea-rader.com &rpar;](https://dev.to/gouravsaha/i-just-built-a-startup-saas-business-idea-generator-httpsidea-radercom--1dce)
 <!-- BLOG-POST-LIST:END -->
 
 
