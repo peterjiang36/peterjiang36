@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharging Your Styles with CSS Functions &lpar;calc&lpar;&rpar;, var&lpar;&rpar;, and More&rpar;](https://dev.to/sharique_siddiqui_8242dad/supercharging-your-styles-with-css-functions-calc-var-and-more-5bee)
-- [sam3d Under the Hood: How Meta’s Model Makes Single-Image 3D Reconstruction Accessible to Developers](https://dev.to/sophialuma/sam3d-under-the-hood-how-metas-model-makes-single-image-3d-reconstruction-accessible-to-developers-4li1)
-- [A Stranger In a New Town: CsvPath metadata fields](https://dev.to/david_kershaw_b6916404da6/a-stranger-in-a-new-town-csvpath-metadata-fields-1non)
-- [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
+- [Amazon Q - Kiro-dev](https://dev.to/gara501/amazon-q-kiro-dev-faj)
+- [Decoding AI: Unveiling Intelligence Beyond the Black Box](https://dev.to/arvind_sundararajan/decoding-ai-unveiling-intelligence-beyond-the-black-box-10kl)
+- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
+- [I Used to Fear Webhooks. Now They’re the Most Predictable Part of My Apps.](https://dev.to/reliathedisco/i-used-to-fear-webhooks-now-theyre-the-most-predictable-part-of-my-apps-3nip)
 <!-- BLOG-POST-LIST:END -->
 
 
