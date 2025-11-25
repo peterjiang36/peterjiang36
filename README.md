@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover koalaz: a simple npm package to generate mock data about koalas!](https://dev.to/mattqdev/discover-koalaz-a-simple-npm-package-to-generate-mock-data-about-koalas-4pa3)
-- [21+ Best Free Tailwind v4 UI Kits and Component Libraries](https://dev.to/yucelfaruksahan/21-best-free-tailwind-v4-ui-kits-and-component-libraries-2blo)
-- [Deploying My First Task Automation App — Lessons Learned and Tips for Beginners](https://dev.to/dillionhuston/deploying-my-first-task-automation-app-lessons-learned-and-tips-for-beginners-4dpl)
-- [The Agent Factory podcast: 5 Episodes to Kickstart Your Journey to Production AI](https://dev.to/googleai/the-agent-factory-podcast-5-episodes-to-kickstart-your-journey-to-production-ai-35ml)
+- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
+- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
+- [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
+- [The Unix Philosophy Was Right All Along: A PIV Analysis of 17 Timeless Rules](https://dev.to/yannick555/the-unix-philosophy-was-right-all-along-a-piv-analysis-of-17-timeless-rules-2l4l)
 <!-- BLOG-POST-LIST:END -->
 
 
