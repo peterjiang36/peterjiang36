@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🗺️ How-To: Create a Bug Report](https://dev.to/jmosley/how-to-create-a-bug-report-1f3l)
-- [Type hints in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-hints-in-python-3-4gg)
-- [Day 2/30: Understanding Terraform Providers](https://dev.to/anil_kumar_noolu/day-230-understanding-terraform-providers-3ema)
-- [From Hooks To Actions: What&#39;s New In React 19](https://dev.to/namingthingsishard/from-hooks-to-actions-whats-new-in-react-19-4gn4)
+- [Linux-Compatible HTML Editors That Work](https://dev.to/ideradevtools/linux-compatible-html-editors-that-work-2boi)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3ngf)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-681)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2lgc)
 <!-- BLOG-POST-LIST:END -->
 
 
