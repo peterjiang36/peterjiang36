@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
-- [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
-- [A Developer’s Technical Decision Guide to No-Code and Low-Code &lpar;2026&rpar;](https://dev.to/nocobase/a-developers-technical-decision-guide-to-no-code-and-low-code-2026-2m7h)
-- [Must-Have AI Tools for Every UX Researcher&#39;s Toolkit](https://dev.to/lollypopdesign/must-have-ai-tools-for-every-ux-researchers-toolkit-o7e)
+- [JavaScript Clean Code Mastery: Part 7 - Real-World Refactoring and Tools &lpar;Series Finale!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-7-real-world-refactoring-and-tools-series-finale-3lf7)
+- [Santa Came Early: I Just Published a Rust Crate and CLI Tool to Take Care of AI Markdown Citations for Good](https://dev.to/opensite/santa-came-early-i-just-published-a-rust-crate-and-cli-tool-to-take-care-of-ai-markdown-citations-521h)
+- [Daily Tech News Roundup - 2025-11-25](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-25-5a9i)
+- [Can Chatbot Handle Multiple Languages?](https://dev.to/chatboq/can-chatbot-handle-multiple-languages-46d)
 <!-- BLOG-POST-LIST:END -->
 
 
