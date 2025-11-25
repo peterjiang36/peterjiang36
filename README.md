@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure All My Xcode Projects.](https://dev.to/sebastienlato/how-i-structure-all-my-xcode-projects-19ic)
-- [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
-- [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
-- [Sparse Active Fault-Tolerant Topology - Data and Functor via Dimensional Game Theory as Foundation for Consensus Boundary](https://dev.to/nnamdi_okpala_7cb668168e6/sparse-active-fault-tolerant-topology-data-and-functor-via-dimensional-game-theory-as-foundation-3pnb)
+- [Learn Array Chunking in Go: A Comprehensive Algorithm Approach](https://dev.to/rubenoalvarado/learn-array-chunking-in-go-a-comprehensive-algorithm-approach-1b24)
+- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-1fol)
+- [What Fraud Taught Me About Teaching Children Digital Trust: A Retrospective](https://dev.to/narnaiezzsshaa/what-fraud-taught-me-about-teaching-children-digital-trust-a-retrospective-2150)
+- [MAWA - Un lenguaje tan simple como Python pero tan potente como Assembler, el ASM moderno pero mucho más sencillo](https://dev.to/samuel_leonardo_37aff38b4/mawa-un-lenguaje-tan-simple-como-python-pero-tan-potente-como-assembler-el-asm-moderno-pero-2i33)
 <!-- BLOG-POST-LIST:END -->
 
 
