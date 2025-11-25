@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Calculate Returns When Investing Using a SIP Calculator](https://dev.to/aisha_mehra_d0f134c62a79b/how-to-calculate-returns-when-investing-using-a-sip-calculator-2fco)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2dco)
-- [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
-- [From RAG to RAO Level 6: How I Evolved Tiramisu Framework into a Multi-Agent System](https://dev.to/tiramisuframework/from-rag-to-rao-level-6-how-i-evolved-tiramisu-framework-into-a-multi-agent-system-4ebh)
+- [Non-functional Application Requirements: Compliance](https://dev.to/cloudsege/non-functional-application-requirements-compliance-1enk)
+- [Understanding How the Internet Works: A Beginner&#39;s Guide to the Client-Server Model and APIs](https://dev.to/thecurlyhairdev/understanding-how-the-internet-works-a-beginners-guide-to-the-client-server-model-and-apis-2f18)
+- [The Scale Trap: How Tech Teams Went from Solving Problems to Debugging Their Own Bloat](https://dev.to/j4s0nc/the-scale-trap-how-tech-teams-went-from-solving-problems-to-debugging-their-own-bloat-2072)
+- [How Sellers Prepare Agencies Websites for Sale](https://dev.to/suddhajit_links_4ee9b6582/how-sellers-prepare-agencies-websites-for-sale-5c3e)
 <!-- BLOG-POST-LIST:END -->
 
 
