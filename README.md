@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-functional Application Requirements: Compliance](https://dev.to/cloudsege/non-functional-application-requirements-compliance-1enk)
-- [Understanding How the Internet Works: A Beginner&#39;s Guide to the Client-Server Model and APIs](https://dev.to/thecurlyhairdev/understanding-how-the-internet-works-a-beginners-guide-to-the-client-server-model-and-apis-2f18)
-- [The Scale Trap: How Tech Teams Went from Solving Problems to Debugging Their Own Bloat](https://dev.to/j4s0nc/the-scale-trap-how-tech-teams-went-from-solving-problems-to-debugging-their-own-bloat-2072)
-- [How Sellers Prepare Agencies Websites for Sale](https://dev.to/suddhajit_links_4ee9b6582/how-sellers-prepare-agencies-websites-for-sale-5c3e)
+- [.](https://dev.to/denicmarko/-5g9p)
+- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
+- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4o5g)
 <!-- BLOG-POST-LIST:END -->
 
 
