@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Weight AI for High-Quality Image Generation &amp; Editing](https://dev.to/sophialuma/open-weight-ai-for-high-quality-image-generation-editing-4l85)
-- [Git, Beginner to Master!](https://dev.to/ry444nn/git-beginner-to-master-1i8n)
-- [Using Proxy &lpar;before Middleware&rpar; in Next.js: a modern layer](https://dev.to/u11d/using-proxy-before-middleware-in-nextjs-a-modern-layer-1iik)
-- [What is Benchmark Testing? Benefits, Types, and More](https://dev.to/grjoeay/what-is-benchmark-testing-benefits-types-and-more-3nd3)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-294a)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-599e)
+- [I Built a Free JARVIS AI Clone &lpar;and You Can Too&rpar; 🚀](https://dev.to/cammanhhoang/i-built-a-free-jarvis-ai-clone-and-you-can-too-5846)
+- [Point de bascule des robotaxi: comment cette révolution transforme la mobilité urbaine](https://dev.to/camille_vingere_f1a536f90/point-de-bascule-des-robotaxi-comment-cette-revolution-transforme-la-mobilite-urbaine-2n9d)
 <!-- BLOG-POST-LIST:END -->
 
 
