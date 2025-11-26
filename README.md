@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
-- [The Workforce of Tomorrow: How Monitoring Shapes Team Excellence](https://dev.to/timechamp01/the-workforce-of-tomorrow-how-monitoring-shapes-team-excellence-50h0)
-- [Demo](https://dev.to/jenil_sheth_3eb6f86dc4900/demo-fmb)
-- [Serverless vs Containers: What’s Winning in 2026?](https://dev.to/ripenapps-technologies/serverless-vs-containers-whats-winning-in-2026-556e)
+- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
+- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
+- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
+- [What makes .NET development solutions ideal for managing retail inventory?](https://dev.to/mindfiresolutions/what-makes-net-development-solutions-ideal-for-managing-retail-inventory-1d28)
 <!-- BLOG-POST-LIST:END -->
 
 
