@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 How to Install GNS3 on Fedora + Your First &quot;Hello, World!&quot; in GNS3 🖥️⚡](https://dev.to/notrobot200/how-to-install-gns3-on-fedora-your-first-hello-world-in-gns3-208n)
-- [Turbocharge Your LLMs: A Breakthrough in Neural Network Optimization](https://dev.to/arvind_sundararajan/turbocharge-your-llms-a-breakthrough-in-neural-network-optimization-2fdc)
-- [Ephemeral Vulnerability Scanner: Pure Client-Side JS for Windows/Linux/macOS Vuln Analysis](https://dev.to/secbyshresth/ephemeral-vulnerability-scanner-pure-client-side-js-for-windowslinuxmacos-vuln-analysis-2cdg)
-- [How I gave my AI Agent long-term memory &lpar;without the vector DB headache&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/how-i-gave-my-ai-agent-long-term-memory-without-the-vector-db-headache-4c00)
+- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
+- [The Workforce of Tomorrow: How Monitoring Shapes Team Excellence](https://dev.to/timechamp01/the-workforce-of-tomorrow-how-monitoring-shapes-team-excellence-50h0)
+- [Demo](https://dev.to/jenil_sheth_3eb6f86dc4900/demo-fmb)
+- [Serverless vs Containers: What’s Winning in 2026?](https://dev.to/ripenapps-technologies/serverless-vs-containers-whats-winning-in-2026-556e)
 <!-- BLOG-POST-LIST:END -->
 
 
