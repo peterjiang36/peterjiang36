@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Jesus Walks Into the Story You Stopped Hoping Would Change: A Deep Encounter with John Chapter 5](https://dev.to/douglasvandergraph/when-jesus-walks-into-the-story-you-stopped-hoping-would-change-an-8000-word-deep-encounter-with-2988)
-- [iOS Unit Testing Tutorial with Xcode &amp; Swift](https://dev.to/morrismoses149/ios-unit-testing-tutorial-with-xcode-swift-3jb7)
-- [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
-- [Why ARCH and GARCH? A Gap in Classical Modeling](https://dev.to/dipti_m_2e7ba36c478d1a48a/why-arch-and-garch-a-gap-in-classical-modeling-404o)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2in4)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 3 - &#39;25th Hour’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-3-25th-hour-f76)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4l44)
+- [LAW-N Series, Part 3 — Opening the Signal-Native Stack](https://dev.to/peacebinflow/law-n-series-part-3-opening-the-signal-native-stack-35p3)
 <!-- BLOG-POST-LIST:END -->
 
 
