@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)
-- [GraphBit&#39;s Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7)
-- [Why Indian Temples Need Digital Solutions: A Tech Perspective](https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5)
-- [10 Figma Shortcuts You Must Know &lpar;2025 Edition&rpar;](https://dev.to/pixel_mosaic/10-figma-shortcuts-you-must-know-2025-edition-23ag)
+- [Open-Weight AI for High-Quality Image Generation &amp; Editing](https://dev.to/sophialuma/open-weight-ai-for-high-quality-image-generation-editing-4l85)
+- [Git, Beginner to Master!](https://dev.to/ry444nn/git-beginner-to-master-1i8n)
+- [Using Proxy &lpar;before Middleware&rpar; in Next.js: a modern layer](https://dev.to/u11d/using-proxy-before-middleware-in-nextjs-a-modern-layer-1iik)
+- [What is Benchmark Testing? Benefits, Types, and More](https://dev.to/grjoeay/what-is-benchmark-testing-benefits-types-and-more-3nd3)
 <!-- BLOG-POST-LIST:END -->
 
 
