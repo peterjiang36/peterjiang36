@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Learned Why Dev Environments Exist 🤯](https://dev.to/notrobot200/the-day-i-learned-why-dev-environments-exist-3l00)
-- [Refactoring the Audio Pipeline: From Latent Space to Production](https://dev.to/thi_ngocnguyen_877eb37e4/refactoring-the-audio-pipeline-from-latent-space-to-production-e2m)
-- [9 Nano Banana Pro Use Cases That Will Blow Your Mind](https://dev.to/nitinfab/9-nano-banana-pro-use-cases-that-will-blow-your-mind-4l76)
-- [PWC 349 More complex than it has to be](https://dev.to/boblied/pwc-349-more-complex-than-it-has-to-be-2c7e)
+- [Decoding Movement: Emulating Biological Motion for Smarter Robots](https://dev.to/arvind_sundararajan/decoding-movement-emulating-biological-motion-for-smarter-robots-1kl3)
+- [Want To Write As A Coder? Start With TIL Posts](https://dev.to/canro91/want-to-write-as-a-coder-start-with-til-posts-1l3j)
+- [Welcome Thread - v353](https://dev.to/devteam/welcome-thread-v353-22mj)
+- [Make &amp; Makefiles: A Modern Developer&#39;s Guide to Classic Automation](https://dev.to/debajit13/make-makefiles-a-modern-developers-guide-to-classic-automation-14hl)
 <!-- BLOG-POST-LIST:END -->
 
 
