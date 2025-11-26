@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Build: Krome](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
-- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
-- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
-- [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
+- [I think e-mail reactions are a crime](https://dev.to/jess/i-think-e-mail-reactions-are-a-crime-42e0)
+- [From Figma to Frontend: Ship Features Faster with Kombai](https://dev.to/astrodevil/from-figma-to-frontend-ship-features-faster-with-kombai-58ma)
+- [How I Built a Private Finance Tool with Vanilla JS and Local Storage](https://dev.to/aiospark/how-i-built-a-private-finance-tool-with-vanilla-js-and-local-storage-1pel)
+- [What happens when you type a URL into your browser?](https://dev.to/giftintech/what-happens-when-you-type-a-url-into-your-browser-277l)
 <!-- BLOG-POST-LIST:END -->
 
 
