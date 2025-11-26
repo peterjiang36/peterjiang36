@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5ca5)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-6l2)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-4nm7)
-- [Rethinking Team Development in the Age of LLMs](https://dev.to/shinpr/rethinking-team-development-in-the-age-of-llms-5cml)
+- [Xbox Series S Black Friday $100 Deal Now!](https://dev.to/rahul_mrong_de75d349056b5/xbox-series-s-black-friday-100-deal-now-5h74)
+- [How to Handle Multiple Environments in React the Right Way](https://dev.to/eira-wexford/how-to-handle-multiple-environments-in-react-the-right-way-1id)
+- [Building an open source foundation for the EU Carbon Registry](https://dev.to/ogcr/building-an-open-source-foundation-for-the-eu-carbon-registry-56lb)
+- [Key Benefits of Custom SaaS Development](https://dev.to/artyom_mukhopad_a9444ed6d/key-benefits-of-custom-saas-development-1fi7)
 <!-- BLOG-POST-LIST:END -->
 
 
