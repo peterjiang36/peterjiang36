@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t get scammed on an interview.](https://dev.to/ackvf/dont-get-scammed-on-an-interview-4f92)
-- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
-- [Day 1274 : From Scratch](https://dev.to/dwane/day-1274-from-scratch-2a49)
-- [My new thesis - Go Linter in Rust](https://dev.to/pxtrik/my-new-thesis-go-linter-in-rust-1hp9)
+- [The 2025 Tech Layoff Cycle Isn’t the Real Threat, It’s What Comes After](https://dev.to/brandonkylebailey/the-2025-tech-layoff-cycle-isnt-the-real-threat-its-what-comes-after-4cf7)
+- [createElementNS、setAttribute&lpar;&rpar;、SVG 的 viewBox 属性、`&lt;svg&gt;`](https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg)
+- [DevConnect 2025](https://dev.to/kubo_sk/devconnect-2025-l5b)
+- [El conocimiento lingüístico en NLP: el puente entre la sintaxis y la semántica](https://dev.to/vicodev/el-conocimiento-linguistico-en-nlp-el-puente-entre-la-sintaxis-y-la-semantica-2m8a)
 <!-- BLOG-POST-LIST:END -->
 
 
