@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
-- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
-- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
-- [What makes .NET development solutions ideal for managing retail inventory?](https://dev.to/mindfiresolutions/what-makes-net-development-solutions-ideal-for-managing-retail-inventory-1d28)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5ca5)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-6l2)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-4nm7)
+- [Rethinking Team Development in the Age of LLMs](https://dev.to/shinpr/rethinking-team-development-in-the-age-of-llms-5cml)
 <!-- BLOG-POST-LIST:END -->
 
 
