@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
-- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
-- [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
-- [The Unix Philosophy Was Right All Along: A PIV Analysis of 17 Timeless Rules](https://dev.to/yannick555/the-unix-philosophy-was-right-all-along-a-piv-analysis-of-17-timeless-rules-2l4l)
+- [Don&#39;t get scammed on an interview.](https://dev.to/ackvf/dont-get-scammed-on-an-interview-4f92)
+- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
+- [Day 1274 : From Scratch](https://dev.to/dwane/day-1274-from-scratch-2a49)
+- [My new thesis - Go Linter in Rust](https://dev.to/pxtrik/my-new-thesis-go-linter-in-rust-1hp9)
 <!-- BLOG-POST-LIST:END -->
 
 
