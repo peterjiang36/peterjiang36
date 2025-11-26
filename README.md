@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-294a)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-599e)
-- [I Built a Free JARVIS AI Clone &lpar;and You Can Too&rpar; 🚀](https://dev.to/cammanhhoang/i-built-a-free-jarvis-ai-clone-and-you-can-too-5846)
-- [Point de bascule des robotaxi: comment cette révolution transforme la mobilité urbaine](https://dev.to/camille_vingere_f1a536f90/point-de-bascule-des-robotaxi-comment-cette-revolution-transforme-la-mobilite-urbaine-2n9d)
+- [🔥 How to Install GNS3 on Fedora + Your First &quot;Hello, World!&quot; in GNS3 🖥️⚡](https://dev.to/notrobot200/how-to-install-gns3-on-fedora-your-first-hello-world-in-gns3-208n)
+- [Turbocharge Your LLMs: A Breakthrough in Neural Network Optimization](https://dev.to/arvind_sundararajan/turbocharge-your-llms-a-breakthrough-in-neural-network-optimization-2fdc)
+- [Ephemeral Vulnerability Scanner: Pure Client-Side JS for Windows/Linux/macOS Vuln Analysis](https://dev.to/secbyshresth/ephemeral-vulnerability-scanner-pure-client-side-js-for-windowslinuxmacos-vuln-analysis-2cdg)
+- [How I gave my AI Agent long-term memory &lpar;without the vector DB headache&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/how-i-gave-my-ai-agent-long-term-memory-without-the-vector-db-headache-4c00)
 <!-- BLOG-POST-LIST:END -->
 
 
