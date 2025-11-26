@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2in4)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 3 - &#39;25th Hour’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-3-25th-hour-f76)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4l44)
-- [LAW-N Series, Part 3 — Opening the Signal-Native Stack](https://dev.to/peacebinflow/law-n-series-part-3-opening-the-signal-native-stack-35p3)
+- [Behind the Build: Krome](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
+- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
+- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
+- [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
 <!-- BLOG-POST-LIST:END -->
 
 
