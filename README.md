@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2025 Tech Layoff Cycle Isn’t the Real Threat, It’s What Comes After](https://dev.to/brandonkylebailey/the-2025-tech-layoff-cycle-isnt-the-real-threat-its-what-comes-after-4cf7)
-- [createElementNS、setAttribute&lpar;&rpar;、SVG 的 viewBox 属性、`&lt;svg&gt;`](https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg)
-- [DevConnect 2025](https://dev.to/kubo_sk/devconnect-2025-l5b)
-- [El conocimiento lingüístico en NLP: el puente entre la sintaxis y la semántica](https://dev.to/vicodev/el-conocimiento-linguistico-en-nlp-el-puente-entre-la-sintaxis-y-la-semantica-2m8a)
+- [What Modern Python Uses for Async API Calls: HTTPX &amp; TaskGroups](https://dev.to/dentedlogic/what-modern-python-uses-for-async-api-calls-httpx-taskgroups-3e4e)
+- [AI Specification Driven Development](https://dev.to/rillus/ai-specification-driven-development-4n93)
+- [Source Code Analysis of the Nonlinear Chinese-Style Reporting Engine NopReport](https://dev.to/canonical/source-code-analysis-of-the-nonlinear-chinese-style-reporting-engine-nopreport-2d21)
+- [Open-source Chinese-style reporting engine using Excel as the designer: NopReport](https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20)
 <!-- BLOG-POST-LIST:END -->
 
 
