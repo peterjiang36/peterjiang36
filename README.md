@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
-- [Python by Structure: How Decorators Transform Classes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-how-decorators-transform-classes-3pib)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-429d)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-49h3)
+- [AI Spots Trouble Before Traffic Does: Preventing Urban Gridlock with Smart Vision by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-spots-trouble-before-traffic-does-preventing-urban-gridlock-with-smart-vision-by-arvind-4d5h)
+- [Stop Using @import: How to Prepare for Dart Sass 3.0 &lpar;Full Migration Guide&rpar;](https://dev.to/quesby/stop-using-import-how-to-prepare-for-dart-sass-30-full-migration-guide-1agh)
+- [The Day Light Walked Into Darkness: A Deep Devotional Journey Through John 9](https://dev.to/douglasvandergraph/the-day-light-walked-into-darkness-a-deep-devotional-journey-through-john-9-11g4)
+- [Building a Useless Machine in Elixir](https://dev.to/markmark/building-a-useless-machine-in-elixir-42i1)
 <!-- BLOG-POST-LIST:END -->
 
 
