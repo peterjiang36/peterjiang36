@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
-- [We&#39;re living in a strange moment in tech history. 
-
-Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
-- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
-- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
+- [High-Level Kubernetes Architecture](https://dev.to/itsmecharan7/high-level-kubernetes-architecture-326)
+- [Problems with Docker](https://dev.to/itsmecharan7/problems-with-docker-4735)
+- [Why was Kubernetes created?](https://dev.to/itsmecharan7/why-was-kubernetes-created-2lmm)
+- [The Developer Extinction Line: Why 2026 Will Delete Half the Industry Without Warning](https://dev.to/brandonkylebailey/the-developer-extinction-line-why-2026-will-delete-half-the-industry-without-warning-1bdn)
 <!-- BLOG-POST-LIST:END -->
 
 
