@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Level Kubernetes Architecture](https://dev.to/itsmecharan7/high-level-kubernetes-architecture-326)
-- [Problems with Docker](https://dev.to/itsmecharan7/problems-with-docker-4735)
-- [Why was Kubernetes created?](https://dev.to/itsmecharan7/why-was-kubernetes-created-2lmm)
-- [The Developer Extinction Line: Why 2026 Will Delete Half the Industry Without Warning](https://dev.to/brandonkylebailey/the-developer-extinction-line-why-2026-will-delete-half-the-industry-without-warning-1bdn)
+- [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
+- [Python by Structure: How Decorators Transform Classes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-how-decorators-transform-classes-3pib)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-429d)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-49h3)
 <!-- BLOG-POST-LIST:END -->
 
 
