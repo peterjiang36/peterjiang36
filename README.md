@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a)
-- [Gemini 3.0: Stop Arguing Models—Start Rewiring Work](https://dev.to/aiwithapex/gemini-30-stop-arguing-models-start-rewiring-work-5c71)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5dk8)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-31ii)
+- [Understanding RAG Pipelines: Architecture, Evaluation Metrics, and Best Practices for Enterprise AI](https://dev.to/kuldeep_paul/understanding-rag-pipelines-architecture-evaluation-metrics-and-best-practices-for-enterprise-ai-4im2)
+- [How AI is Rewriting the Football Analyst&#39;s Job Description](https://dev.to/janafootball/how-ai-is-rewriting-the-football-analysts-job-description-4k8b)
+- [The Art of Cleaning Files Before They Reach Your Server](https://dev.to/ideradevtools/the-art-of-cleaning-files-before-they-reach-your-server-5h60)
+- [Social Engineering: Why Humans Are the Weakest Link in Cybersecurity](https://dev.to/zopdev/social-engineering-why-humans-are-the-weakest-link-in-cybersecurity-5e3j)
 <!-- BLOG-POST-LIST:END -->
 
 
