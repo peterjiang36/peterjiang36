@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-lle)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-97c)
-- [Event Opening - AWS Community Day Hong Kong 2025](https://dev.to/elianalamhost/event-opening-aws-community-day-hong-kong-2025-3eod)
+- [Best Practices Are Not As Important As You Think They Are](https://dev.to/web_dev-usman/best-practices-are-not-as-important-as-you-think-they-are-3jb0)
+- [How SafeLine WAF Transformed Our Web Security: A Real User Case Study](https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l)
+- [The New Digital-First Shift: AI Makes Development Easy, Marketing Becomes the Hard Part](https://dev.to/mzelensky/the-new-digital-first-shift-ai-makes-development-easy-marketing-becomes-the-hard-part-500d)
+- [What is Web Scraping and What is it Used For?](https://dev.to/scrapestorm/what-is-web-scraping-and-what-is-it-used-for-1dfl)
 <!-- BLOG-POST-LIST:END -->
 
 
