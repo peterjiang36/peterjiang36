@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Spots Trouble Before Traffic Does: Preventing Urban Gridlock with Smart Vision by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-spots-trouble-before-traffic-does-preventing-urban-gridlock-with-smart-vision-by-arvind-4d5h)
-- [Stop Using @import: How to Prepare for Dart Sass 3.0 &lpar;Full Migration Guide&rpar;](https://dev.to/quesby/stop-using-import-how-to-prepare-for-dart-sass-30-full-migration-guide-1agh)
-- [The Day Light Walked Into Darkness: A Deep Devotional Journey Through John 9](https://dev.to/douglasvandergraph/the-day-light-walked-into-darkness-a-deep-devotional-journey-through-john-9-11g4)
-- [Building a Useless Machine in Elixir](https://dev.to/markmark/building-a-useless-machine-in-elixir-42i1)
+- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a)
+- [Gemini 3.0: Stop Arguing Models—Start Rewiring Work](https://dev.to/aiwithapex/gemini-30-stop-arguing-models-start-rewiring-work-5c71)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5dk8)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-31ii)
 <!-- BLOG-POST-LIST:END -->
 
 
