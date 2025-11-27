@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-ep4)
-- [I Hired AWS SAs for 5 Years. Now That I&#39;ve Left, I Can Tell You the Truth](https://dev.to/djinn/i-hired-aws-sas-for-5-years-now-that-ive-left-i-can-tell-you-the-truth-138o)
-- [Getting Started With Nmap: A Beginner-Friendly Guide](https://dev.to/bshisia/getting-started-with-nmap-a-beginner-friendly-guide-from-someone-learning-it-too-5de9)
-- [What Is the Best AI Model in 2025? Grok 4 vs ChatGPT &lpar;GPT-5.1&rpar; vs Gemini 3.0 pro vs Claude Opus 4.5](https://dev.to/bencarter/what-is-the-best-ai-model-in-2025-grok-4-vs-chatgpt-gpt-51-vs-gemini-30-pro-vs-claude-opus-59k9)
+- [Timepicker-UI v4.0.0 - Five Years of Learning, One Major Rewrite](https://dev.to/pglejzer/timepicker-ui-v400-five-years-of-learning-one-major-rewrite-1j6a)
+- [What Is xAI Grok &lpar;1–4&rpar; — And How Could Grok 5 Reshape the AI Model Landscape?](https://dev.to/emilyfoster/what-is-xai-grok-1-4-and-how-could-grok-5-reshape-the-ai-model-landscape-1l2a)
+- [Testing PlagiatKontroll Against Modern LLM Texts: Hur bra står verktyget sig i AI-eran?](https://dev.to/alexandra_campbell_1d0518/testing-plagiatkontroll-against-modern-llm-texts-hur-bra-star-verktyget-sig-i-ai-eran-b5j)
+- [Configure continuous integration by using Azure Pipelines](https://dev.to/lotanna_obianefo/configure-continuous-integration-by-using-azure-pipelines-16i2)
 <!-- BLOG-POST-LIST:END -->
 
 
