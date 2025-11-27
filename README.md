@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
-- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
-- [KENYA CROP PERFORMANCE DASHBOARD](https://dev.to/faybeth_robina/kenya-crop-performance-dashboard-1mkf)
-- [CKS Notes - TLS](https://dev.to/cheedge_lee/cks-notes-tls-bll)
+- [[Boost]](https://dev.to/anthonymax/-ep4)
+- [I Hired AWS SAs for 5 Years. Now That I&#39;ve Left, I Can Tell You the Truth](https://dev.to/djinn/i-hired-aws-sas-for-5-years-now-that-ive-left-i-can-tell-you-the-truth-138o)
+- [Getting Started With Nmap: A Beginner-Friendly Guide](https://dev.to/bshisia/getting-started-with-nmap-a-beginner-friendly-guide-from-someone-learning-it-too-5de9)
+- [What Is the Best AI Model in 2025? Grok 4 vs ChatGPT &lpar;GPT-5.1&rpar; vs Gemini 3.0 pro vs Claude Opus 4.5](https://dev.to/bencarter/what-is-the-best-ai-model-in-2025-grok-4-vs-chatgpt-gpt-51-vs-gemini-30-pro-vs-claude-opus-59k9)
 <!-- BLOG-POST-LIST:END -->
 
 
