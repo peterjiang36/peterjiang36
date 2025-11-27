@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3h2f)
-- [Securing Enterprise AI Agents with Unique Identities in the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/om_shree_0709/securing-enterprise-ai-agents-with-unique-identities-in-the-model-context-protocol-mcp-288j)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-5dm8)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-2nnl)
+- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
+- [The Modern Web Stack Explained](https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd)
+- [The Dockerfile mistakes even senior devs make &lpar;and yes, I learned them the the hard way&rpar;](https://dev.to/dev_tips/the-dockerfile-mistakes-even-senior-devs-make-and-yes-i-learned-them-the-the-hard-way-25gn)
+- [Qeltrix V4: The AES256-GCM Evolution and Breaking Changes](https://dev.to/hejhdiss/qeltrix-v4-the-aes256-gcm-evolution-and-breaking-changes-5b19)
 <!-- BLOG-POST-LIST:END -->
 
 
