@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning](https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8)
-- [UT Registration Plus: An Overview](https://dev.to/derexxd/ut-registration-plus-an-overview-45hi)
-- [Introducing Remote MCP aka MCP Tool Triggers in Azure Functions: Building Intelligent AI Assistants in the Cloud](https://dev.to/swapnil_nagar_09cd69b8e11/introducing-remote-mcp-aka-mcp-tool-triggers-in-azure-functions-building-intelligent-ai-assistants-p47)
-- [The Future Belongs to System Thinkers](https://dev.to/farhannasirdev/the-future-belongs-to-system-thinkers-2pnl)
+- [Building Resilient Cloud Infrastructure with Terraform and Azure](https://dev.to/divinetheanalyst/building-resilient-cloud-infrastructure-with-terraform-and-azure-4637)
+- [Introduction](https://dev.to/palakhirave/introduction-448c)
+- [🚀 File Descriptors in Linux — The Underrated Heroes of I/O](https://dev.to/ayoub_lahmami/file-descriptors-in-linux-the-underrated-heroes-of-io-5e0m)
+- [MySQL Safe Update Mode](https://dev.to/seongbae/mysql-safe-update-mode-2eel)
 <!-- BLOG-POST-LIST:END -->
 
 
