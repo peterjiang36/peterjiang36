@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Suite 33: A business management platform for SMEs.](https://dev.to/rahmannugar/suite-33-a-business-management-platform-for-smes-1gdl)
-- [🚀 Hosting My Portfolio on KillerCoda Using Nginx](https://dev.to/josephosuorji/hosting-my-portfolio-on-killercoda-using-nginx-44k7)
-- [Unlocking Data Narratives: Visualizing Information Flow with Concept Graphs](https://dev.to/arvind_sundararajan/unlocking-data-narratives-visualizing-information-flow-with-concept-graphs-2l18)
-- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9)
+- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
+- [We&#39;re living in a strange moment in tech history. 
+
+Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
+- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
+- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
 <!-- BLOG-POST-LIST:END -->
 
 
