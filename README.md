@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient Cloud Infrastructure with Terraform and Azure](https://dev.to/divinetheanalyst/building-resilient-cloud-infrastructure-with-terraform-and-azure-4637)
-- [Introduction](https://dev.to/palakhirave/introduction-448c)
-- [🚀 File Descriptors in Linux — The Underrated Heroes of I/O](https://dev.to/ayoub_lahmami/file-descriptors-in-linux-the-underrated-heroes-of-io-5e0m)
-- [MySQL Safe Update Mode](https://dev.to/seongbae/mysql-safe-update-mode-2eel)
+- [Suite 33: A business management platform for SMEs.](https://dev.to/rahmannugar/suite-33-a-business-management-platform-for-smes-1gdl)
+- [🚀 Hosting My Portfolio on KillerCoda Using Nginx](https://dev.to/josephosuorji/hosting-my-portfolio-on-killercoda-using-nginx-44k7)
+- [Unlocking Data Narratives: Visualizing Information Flow with Concept Graphs](https://dev.to/arvind_sundararajan/unlocking-data-narratives-visualizing-information-flow-with-concept-graphs-2l18)
+- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9)
 <!-- BLOG-POST-LIST:END -->
 
 
