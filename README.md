@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Terraform State File Management with AWS S3](https://dev.to/amit_kumar_7db8e36a64dd45/terraform-state-file-management-with-aws-s3-22dj)
-- [Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization](https://dev.to/sunnysinh_a/why-the-directory-is-the-core-of-iam-the-digital-heartbeat-of-every-organization-57m1)
-- [How n8n Automates Contract Review and Approvals](https://dev.to/enna/how-n8n-automates-contract-review-and-approvals-2o96)
-- [Блогер нашёл способ воспроизводить на PS5 содержимое обычных компакт-дисков](https://dev.to/ad_layer_4acdca7d59ff763f/bloghier-nashiol-sposob-vosproizvodit-na-ps5-sodierzhimoie-obychnykh-kompakt-diskov-ib5)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3h2f)
+- [Securing Enterprise AI Agents with Unique Identities in the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/om_shree_0709/securing-enterprise-ai-agents-with-unique-identities-in-the-model-context-protocol-mcp-288j)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-5dm8)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-2nnl)
 <!-- BLOG-POST-LIST:END -->
 
 
