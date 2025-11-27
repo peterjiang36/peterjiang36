@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Has anyone built a tool to check FAB Bank balances programmatically?](https://dev.to/quinn-bailey/has-anyone-built-a-tool-to-check-fab-bank-balances-programmatically-5e8k)
-- [Encrypting Secrets in Production &lpar;Without Breaking Everything&rpar;](https://dev.to/aniefon_umanah_ac5f21311c/encrypting-secrets-in-production-without-breaking-everything-2m3f)
-- [LangChain and OpenRouter in Python](https://dev.to/vinodnextcoder1/langchain-and-openrouter-in-python-2b9f)
-- [Introducing ioc-arise: a zero-decorator DI container with AST-powered auto-registration.](https://dev.to/stormsidali2001/introducing-ioc-arise-a-zero-decorator-di-container-with-ast-powered-auto-registration-5bp0)
+- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
+- [x402: Pay-Per-Use Internet](https://dev.to/emperorsixpacks/x402-pay-per-use-internet-4p30)
+- [🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD](https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap)
+- [Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting](https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o)
 <!-- BLOG-POST-LIST:END -->
 
 
