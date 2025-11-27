@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Vite + Kemal](https://dev.to/galacthd/how-to-setup-vite-kemal-p6o)
-- [Adding WordPress to a Multi-Platform Publishing System](https://dev.to/aniefon_umanah_ac5f21311c/adding-wordpress-to-a-multi-platform-publishing-system-ifn)
-- [**Unlocking the Potential of Dynamic Adaptive Difficulty Adj](https://dev.to/drcarlosruizviquez/unlocking-the-potential-of-dynamic-adaptive-difficulty-adj-n4n)
-- [Stop Malware at the Door: Automated S3 File Scanning with AWS GuardDuty](https://dev.to/aws-builders/stop-malware-at-the-door-automated-s3-file-scanning-with-aws-guardduty-1c1g)
+- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
+- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
+- [KENYA CROP PERFORMANCE DASHBOARD](https://dev.to/faybeth_robina/kenya-crop-performance-dashboard-1mkf)
+- [CKS Notes - TLS](https://dev.to/cheedge_lee/cks-notes-tls-bll)
 <!-- BLOG-POST-LIST:END -->
 
 
