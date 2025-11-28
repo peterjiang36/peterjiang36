@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintenance Release 0.55.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-release-0550-of-the-github-action-for-checking-spelling-2j8j)
-- [Stop Writing Plugins Like It’s 2011: Modern Architecture Guide](https://dev.to/mohamed_elgharably_9f7168/stop-writing-plugins-like-its-2011-modern-architecture-guide-1j9g)
-- [The One MCP That Turns Antigravity Into a 500-Tool Powerhouse](https://dev.to/composiodev/the-one-mcp-that-turns-antigravity-into-a-500-tool-powerhouse-4ehe)
-- [Don&#39;t Just Guess, Measure: A Deep Dive into the Web Performance API](https://dev.to/lovestaco/dont-just-guess-measure-a-deep-dive-into-the-web-performance-api-4k2g)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-66i)
+- [Suppose there is a dataset having variables with missing values of more than 30%, how will you deal with such a dataset?](https://dev.to/shruti_nakum/suppose-there-is-a-dataset-having-variables-with-missing-values-of-more-than-30-how-will-you-deal-476j)
+- [📝How I Built a Fully Automated Telegram Moderation Bot — An Engineering Case Study](https://dev.to/niero/how-i-built-a-fully-automated-telegram-moderation-bot-an-engineering-case-study-l3)
 <!-- BLOG-POST-LIST:END -->
 
 
