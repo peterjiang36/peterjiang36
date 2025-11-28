@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is NopReport a Truly Unique Reporting Engine?](https://dev.to/canonical/why-is-nopreport-a-truly-unique-reporting-engine-4i2b)
-- [What You Will Learn in SAP HCM Classes as a Beginner in HR](https://dev.to/ddsszx/what-you-will-learn-in-sap-hcm-classes-as-a-beginner-in-hr-3ejh)
-- [Found a 75%-off lifetime Windows fix when half our machines started expiring at 2 AM](https://dev.to/om_prakash_70e7840a925350/found-a-75-off-lifetime-windows-fix-when-half-our-machines-started-expiring-at-2-am-5ccl)
-- [GRP Make Van Build For Beginners](https://dev.to/mtrhm6087/grp-make-van-build-for-beginners-3mli)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1ell)
+- [Contributing to roslibjs: From Defeat to Merged PR](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-roslibjs-from-defeat-to-merged-pr-4edo)
+- [I Added Cross-Field Validation with Signal Forms. This Is How I Did It](https://dev.to/brianmtreese/i-added-cross-field-validation-with-signal-forms-this-is-how-i-did-it-23nk)
+- [Nov28, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/nov28-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-kbb)
 <!-- BLOG-POST-LIST:END -->
 
 
