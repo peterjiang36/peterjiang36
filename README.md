@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build campervan for family](https://dev.to/motohome5900/build-campervan-for-family-3cb5)
-- [Lina: Adaptive Scroll Area for React with Native Touch Support](https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh)
-- [The Only Developer Skill That Scales in 2026](https://dev.to/brandonkylebailey/the-only-developer-skill-that-scales-in-2026-1km8)
-- [Seeing Through the Shine: AI That &#39;Sculpts&#39; 3D from Reflections](https://dev.to/arvind_sundararajan/seeing-through-the-shine-ai-that-sculpts-3d-from-reflections-3cci)
+- [Mastering Tariff Code Lookup for International Trade](https://dev.to/pnka_ntzv_87f464617e8d42b/mastering-tariff-code-lookup-for-international-trade-72g)
+- [Neovim x Unreal Engine: Visualizing Config Inheritance &amp; Jumping to Super Classes [Weekly Update]](https://dev.to/taku25/neovim-x-unreal-engine-visualizing-config-inheritance-jumping-to-super-classes-weekly-update-5cm2)
+- [What&#39;s left for me after AI](https://dev.to/amancalledq/whats-left-for-me-after-ai-8pa)
+- [[MyNextHome] Server Backend to add Supabase!](https://dev.to/cathylai/mynexthome-server-backend-to-add-supabase-2l5)
 <!-- BLOG-POST-LIST:END -->
 
 
