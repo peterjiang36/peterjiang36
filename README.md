@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-61k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1acc)
-- [Hacking B2B Trust: The Engineer&#39;s Playbook for High-Impact Video Testimonials](https://dev.to/michaelaiglobal/hacking-b2b-trust-the-engineers-playbook-for-high-impact-video-testimonials-23il)
-- [[Boost]](https://dev.to/copet80/-f0g)
+- [Maintenance Release 0.55.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-release-0550-of-the-github-action-for-checking-spelling-2j8j)
+- [Stop Writing Plugins Like It’s 2011: Modern Architecture Guide](https://dev.to/mohamed_elgharably_9f7168/stop-writing-plugins-like-its-2011-modern-architecture-guide-1j9g)
+- [The One MCP That Turns Antigravity Into a 500-Tool Powerhouse](https://dev.to/composiodev/the-one-mcp-that-turns-antigravity-into-a-500-tool-powerhouse-4ehe)
+- [Don&#39;t Just Guess, Measure: A Deep Dive into the Web Performance API](https://dev.to/lovestaco/dont-just-guess-measure-a-deep-dive-into-the-web-performance-api-4k2g)
 <!-- BLOG-POST-LIST:END -->
 
 
