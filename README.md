@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip)
-- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-4k88)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3c05)
-- [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3)
+- [📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators](https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b)
+- [Designer Wear for Women: A Celebration of Style and Craftsmanship](https://dev.to/houseofsiyaab/designer-wear-for-women-a-celebration-of-style-and-craftsmanship-2p3c)
+- [📌 Agda — The Language Where Programs and Proofs Become the Same Thing](https://dev.to/viz-x/agda-the-language-where-programs-and-proofs-become-the-same-thing-2lag)
+- [📌 Elixir &lpar;Script Mode&rpar; — The Lightweight Experimental Variant for Running Elixir Like a Scripting Language](https://dev.to/viz-x/elixir-script-mode-the-lightweight-experimental-variant-for-running-elixir-like-a-scripting-4idf)
 <!-- BLOG-POST-LIST:END -->
 
 
