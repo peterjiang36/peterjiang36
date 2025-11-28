@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-66i)
-- [Suppose there is a dataset having variables with missing values of more than 30%, how will you deal with such a dataset?](https://dev.to/shruti_nakum/suppose-there-is-a-dataset-having-variables-with-missing-values-of-more-than-30-how-will-you-deal-476j)
-- [📝How I Built a Fully Automated Telegram Moderation Bot — An Engineering Case Study](https://dev.to/niero/how-i-built-a-fully-automated-telegram-moderation-bot-an-engineering-case-study-l3)
+- [KEDA HTTP Add-on: Escalonamento Dinâmico por Volume de Requisições](https://dev.to/jonas-elias/keda-http-add-on-escalonamento-dinamico-por-volume-de-requisicoes-3d88)
+- [2025 - All Posts From Product With Attitude](https://dev.to/with_attitude/2025-all-posts-from-product-with-attitude-ka7)
+- [How to Write an Effective Prompt for Planning a Software Project](https://dev.to/netcore3/how-to-write-an-effective-prompt-for-planning-a-software-project-3e8)
+- [Day F9: Caffeine, Workout, and Arrogant Relationship Thoughts](https://dev.to/casperday11/day-f9-caffeine-workout-and-arrogant-relationship-thoughts-43b9)
 <!-- BLOG-POST-LIST:END -->
 
 
