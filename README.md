@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Timepicker-UI v4.0.0 - Five Years of Learning, One Major Rewrite](https://dev.to/pglejzer/timepicker-ui-v400-five-years-of-learning-one-major-rewrite-1j6a)
-- [What Is xAI Grok &lpar;1–4&rpar; — And How Could Grok 5 Reshape the AI Model Landscape?](https://dev.to/emilyfoster/what-is-xai-grok-1-4-and-how-could-grok-5-reshape-the-ai-model-landscape-1l2a)
-- [Testing PlagiatKontroll Against Modern LLM Texts: Hur bra står verktyget sig i AI-eran?](https://dev.to/alexandra_campbell_1d0518/testing-plagiatkontroll-against-modern-llm-texts-hur-bra-star-verktyget-sig-i-ai-eran-b5j)
-- [Configure continuous integration by using Azure Pipelines](https://dev.to/lotanna_obianefo/configure-continuous-integration-by-using-azure-pipelines-16i2)
+- [Does ZappySys Support Visual Studio 2026?](https://dev.to/zappysys/does-zappysys-support-visual-studio-2026-3chl)
+- [Поиск по вкладкам в Chrome](https://dev.to/vlad_vlad_5d5d04b906e2b08/poisk-po-vkladkam-v-chrome-51nk)
+- [How to Fix Error 429: Too Many Requests in ZappySys &lpar;Quick Guide&rpar;](https://dev.to/zappysys/how-to-fix-error-429-too-many-requests-in-zappysys-quick-guide-8jh)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4pk)
 <!-- BLOG-POST-LIST:END -->
 
 
