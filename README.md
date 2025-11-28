@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Tariff Code Lookup for International Trade](https://dev.to/pnka_ntzv_87f464617e8d42b/mastering-tariff-code-lookup-for-international-trade-72g)
-- [Neovim x Unreal Engine: Visualizing Config Inheritance &amp; Jumping to Super Classes [Weekly Update]](https://dev.to/taku25/neovim-x-unreal-engine-visualizing-config-inheritance-jumping-to-super-classes-weekly-update-5cm2)
-- [What&#39;s left for me after AI](https://dev.to/amancalledq/whats-left-for-me-after-ai-8pa)
-- [[MyNextHome] Server Backend to add Supabase!](https://dev.to/cathylai/mynexthome-server-backend-to-add-supabase-2l5)
+- [A Complete Guide to MongoDB for Developers &lpar;With Code Examples&rpar;](https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23)
+- [The Skill That Separates Average Developers From Great Ones — And It’s Not Coding](https://dev.to/thebigwealth89/the-skill-that-separates-average-developers-from-great-ones-and-its-not-coding-3h76)
+- [Quality Management Plan Errors That Risk Your Project &lpar;And How to Fix Them&rpar;](https://dev.to/taskford/quality-management-plan-errors-that-risk-your-project-and-how-to-fix-them-3bka)
+- [Billiard Fractals: The Infinite Patterns Hidden in a Rectangle](https://dev.to/xcontcom/billiard-fractals-the-infinite-patterns-hidden-in-a-rectangle-282l)
 <!-- BLOG-POST-LIST:END -->
 
 
