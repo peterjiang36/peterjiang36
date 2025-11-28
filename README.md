@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1cep)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3e5b)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-3kp8)
-- [Configure Veeam Backup for Microsoft 365: A Step-by-Step Guide](https://dev.to/itcs11/configure-veeam-backup-for-microsoft-365-a-step-by-step-guide-41d7)
+- [Unlocking AI&#39;s Inner Geometry: Scale-Agnostic Structures in Neural Networks](https://dev.to/arvind_sundararajan/unlocking-ais-inner-geometry-scale-agnostic-structures-in-neural-networks-44d0)
+- [portfolio](https://dev.to/__5eaba906143f27/portfolio-121)
+- [Microsoft Fixes 57 Vulnerabilities in Latest Patch Tuesday](https://dev.to/itcs11/microsoft-fixes-57-vulnerabilities-in-latest-patch-tuesday-1o0b)
+- [Efficiently Converting Word Documents to HTML in Java](https://dev.to/leondavis1991/efficiently-converting-word-documents-to-html-in-java-27l5)
 <!-- BLOG-POST-LIST:END -->
 
 
