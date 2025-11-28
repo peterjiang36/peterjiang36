@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LOT_002: First time using the new Zoom LiveTrak L6max](https://dev.to/mikeydorje/lot002-first-time-using-the-new-zoom-livetrak-l6max-2epb)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nbl)
-- [📌 Case Study: Building a Multi-Product Ecosystem for Illumora &amp; Boombooth](https://dev.to/manoj_sravan_ccfc9fa15b8d/case-study-building-a-multi-product-ecosystem-for-illumora-boombooth-ma)
-- [Daily Tech News Roundup - 2025-11-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-28-od7)
+- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster &lpar;CICD&rpar;](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2gl9)
+- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-47ia)
+- [How to Use Webflow as a Developer: A Complete Technical Workflow Guide](https://dev.to/pixel_mosaic/how-to-use-webflow-as-a-developer-a-complete-technical-workflow-guide-2o5m)
 <!-- BLOG-POST-LIST:END -->
 
 
