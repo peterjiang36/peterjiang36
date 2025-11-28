@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to MongoDB for Developers &lpar;With Code Examples&rpar;](https://dev.to/farhadrahimiklie/a-complete-guide-to-mongodb-for-developers-with-code-examples-k23)
-- [The Skill That Separates Average Developers From Great Ones — And It’s Not Coding](https://dev.to/thebigwealth89/the-skill-that-separates-average-developers-from-great-ones-and-its-not-coding-3h76)
-- [Quality Management Plan Errors That Risk Your Project &lpar;And How to Fix Them&rpar;](https://dev.to/taskford/quality-management-plan-errors-that-risk-your-project-and-how-to-fix-them-3bka)
-- [Billiard Fractals: The Infinite Patterns Hidden in a Rectangle](https://dev.to/xcontcom/billiard-fractals-the-infinite-patterns-hidden-in-a-rectangle-282l)
+- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5211)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-14mh)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-j9d)
 <!-- BLOG-POST-LIST:END -->
 
 
