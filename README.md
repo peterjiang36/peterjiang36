@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster &lpar;CICD&rpar;](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2gl9)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-47ia)
-- [How to Use Webflow as a Developer: A Complete Technical Workflow Guide](https://dev.to/pixel_mosaic/how-to-use-webflow-as-a-developer-a-complete-technical-workflow-guide-2o5m)
+- [Why Is NopReport a Truly Unique Reporting Engine?](https://dev.to/canonical/why-is-nopreport-a-truly-unique-reporting-engine-4i2b)
+- [What You Will Learn in SAP HCM Classes as a Beginner in HR](https://dev.to/ddsszx/what-you-will-learn-in-sap-hcm-classes-as-a-beginner-in-hr-3ejh)
+- [Found a 75%-off lifetime Windows fix when half our machines started expiring at 2 AM](https://dev.to/om_prakash_70e7840a925350/found-a-75-off-lifetime-windows-fix-when-half-our-machines-started-expiring-at-2-am-5ccl)
+- [GRP Make Van Build For Beginners](https://dev.to/mtrhm6087/grp-make-van-build-for-beginners-3mli)
 <!-- BLOG-POST-LIST:END -->
 
 
