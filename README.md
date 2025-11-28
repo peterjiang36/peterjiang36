@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI&#39;s Inner Geometry: Scale-Agnostic Structures in Neural Networks](https://dev.to/arvind_sundararajan/unlocking-ais-inner-geometry-scale-agnostic-structures-in-neural-networks-44d0)
-- [portfolio](https://dev.to/__5eaba906143f27/portfolio-121)
-- [Microsoft Fixes 57 Vulnerabilities in Latest Patch Tuesday](https://dev.to/itcs11/microsoft-fixes-57-vulnerabilities-in-latest-patch-tuesday-1o0b)
-- [Efficiently Converting Word Documents to HTML in Java](https://dev.to/leondavis1991/efficiently-converting-word-documents-to-html-in-java-27l5)
+- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-61k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1acc)
+- [Hacking B2B Trust: The Engineer&#39;s Playbook for High-Impact Video Testimonials](https://dev.to/michaelaiglobal/hacking-b2b-trust-the-engineers-playbook-for-high-impact-video-testimonials-23il)
+- [[Boost]](https://dev.to/copet80/-f0g)
 <!-- BLOG-POST-LIST:END -->
 
 
