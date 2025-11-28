@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1ell)
-- [Contributing to roslibjs: From Defeat to Merged PR](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-roslibjs-from-defeat-to-merged-pr-4edo)
-- [I Added Cross-Field Validation with Signal Forms. This Is How I Did It](https://dev.to/brianmtreese/i-added-cross-field-validation-with-signal-forms-this-is-how-i-did-it-23nk)
-- [Nov28, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/nov28-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-kbb)
+- [Understanding the Brighter Pipeline](https://dev.to/actor-dev/understanding-the-brighter-pipeline-4m4b)
+- [The Complete Guide to AWS Lambda Aliases, Versions, and Canary Deployments &lpar;With CDK Examples&rpar;](https://dev.to/mate32/the-complete-guide-to-aws-lambda-aliases-versions-and-canary-deployments-with-cdk-examples-31fg)
+- [ERC 8004 and Trustless AI Agents](https://dev.to/rollingindo/erc-8004-and-trustless-ai-agents-40hb)
+- [[JCAIGC]Get image entrance/exit animation list](https://dev.to/hommy/jcaigcget-image-entranceexit-animation-list-nmk)
 <!-- BLOG-POST-LIST:END -->
 
 
