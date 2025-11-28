@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does ZappySys Support Visual Studio 2026?](https://dev.to/zappysys/does-zappysys-support-visual-studio-2026-3chl)
-- [Поиск по вкладкам в Chrome](https://dev.to/vlad_vlad_5d5d04b906e2b08/poisk-po-vkladkam-v-chrome-51nk)
-- [How to Fix Error 429: Too Many Requests in ZappySys &lpar;Quick Guide&rpar;](https://dev.to/zappysys/how-to-fix-error-429-too-many-requests-in-zappysys-quick-guide-8jh)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4pk)
+- [Build campervan for family](https://dev.to/motohome5900/build-campervan-for-family-3cb5)
+- [Lina: Adaptive Scroll Area for React with Native Touch Support](https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh)
+- [The Only Developer Skill That Scales in 2026](https://dev.to/brandonkylebailey/the-only-developer-skill-that-scales-in-2026-1km8)
+- [Seeing Through the Shine: AI That &#39;Sculpts&#39; 3D from Reflections](https://dev.to/arvind_sundararajan/seeing-through-the-shine-ai-that-sculpts-3d-from-reflections-3cci)
 <!-- BLOG-POST-LIST:END -->
 
 
