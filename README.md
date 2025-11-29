@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] DevTools Evangelism: CodeCommit Edition](https://dev.to/aws-builders/aws-devtools-evangelism-codecommit-edition-43e)
-- [Winning Grant Proposals: AI Illustration Techniques That Convince](https://dev.to/localfaceswap/winning-grant-proposals-ai-illustration-techniques-that-convince-5607)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-57ih)
-- [How I Achieved 70% Autonomous Code Generation with Constitutional AI Governance](https://dev.to/dariusz_newecki_e35b0924c/how-i-achieved-70-autonomous-code-generation-with-constitutional-ai-governance-4gml)
+- [Java &gt; Python for AI Agents? I Built a Surf-Forecasting Agent to Find Out](https://dev.to/phouchens/java-python-for-ai-agents-i-built-a-surf-forecasting-agent-to-find-out-5aca)
+- [Async-Programming-New-Era](https://dev.to/member_34349a73/async-programming-new-era-401c)
+- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio &amp; More](https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl)
+- [Beyond the Pinch: Unlock New Robotic Dexterity with Hybrid Gripping](https://dev.to/arvind_sundararajan/beyond-the-pinch-unlock-new-robotic-dexterity-with-hybrid-gripping-pf1)
 <!-- BLOG-POST-LIST:END -->
 
 
