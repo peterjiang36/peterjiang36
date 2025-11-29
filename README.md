@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It](https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a)
-- [Getting Started with Nop: Minimalistic Data Access Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalistic-data-access-layer-development-51hc)
-- [Getting Started with Nop: Minimalist Service Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalist-service-layer-development-4937)
-- [Building a Game Review API with Strapi: A Step-by-Step Beginner’s Guide](https://dev.to/topeogunleye/building-a-game-review-api-with-strapi-a-step-by-step-beginners-guide-98m)
+- [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
+- [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
+- [🔥 A Complete, In-Depth Guide to Trusted Types in React and Modern Web Apps](https://dev.to/abhilashlr/a-complete-in-depth-guide-to-trusted-types-in-react-and-modern-web-apps-30id)
+- [Zombie Go Home - My Post-Halloween Game Jam Adventure](https://dev.to/smirnovw/zombie-go-home-my-post-halloween-game-jam-adventure-4faf)
 <!-- BLOG-POST-LIST:END -->
 
 
