@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
-- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk)
-- [Debugging LLM Failures: A Practical Guide](https://dev.to/kuldeep_paul/debugging-llm-failures-a-practical-guide-2o7m)
-- [A Developer’s Daily Toolkit: Simple Online Utilities That Save Hours of Work](https://dev.to/tehreem_hassan_e55dcad5fe/a-developers-daily-toolkit-simple-online-utilities-that-save-hours-of-work-90e)
+- [The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It](https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a)
+- [Getting Started with Nop: Minimalistic Data Access Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalistic-data-access-layer-development-51hc)
+- [Getting Started with Nop: Minimalist Service Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalist-service-layer-development-4937)
+- [Building a Game Review API with Strapi: A Step-by-Step Beginner’s Guide](https://dev.to/topeogunleye/building-a-game-review-api-with-strapi-a-step-by-step-beginners-guide-98m)
 <!-- BLOG-POST-LIST:END -->
 
 
