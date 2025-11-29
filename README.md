@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Discovered a Truly Accessible Image‑Generation Model &lpar;and Why You Should Try It Too&rpar;](https://dev.to/heiguo88/how-i-discovered-a-truly-accessible-image-generation-model-and-why-you-should-try-it-too-nok)
-- [Best Software Options for Running a Photobooth at an Event](https://dev.to/darkstar_fury_67a2981e7eb/best-software-options-for-running-a-photobooth-at-an-event-2574)
-- [🔥 A Complete, In-Depth Guide to Trusted Types in React and Modern Web Apps](https://dev.to/abhilashlr/a-complete-in-depth-guide-to-trusted-types-in-react-and-modern-web-apps-30id)
-- [Zombie Go Home - My Post-Halloween Game Jam Adventure](https://dev.to/smirnovw/zombie-go-home-my-post-halloween-game-jam-adventure-4faf)
+- [What are the Programming Languages?](https://dev.to/aj_arul/what-are-the-programming-languages-4kj8)
+- [Importance of a Feasibility Study in Project Management](https://dev.to/writegenic/importance-of-a-feasibility-study-in-project-management-34hb)
+- [Setting Up VS Code SSH Remote Development on OpenWrt](https://dev.to/ahaoboy/setting-up-vs-code-ssh-remote-development-on-openwrt-42mb)
+- [Optimizing SVGs for Web Performance &amp; Scalability in 2025](https://dev.to/frontendtoolstech/optimizing-svgs-for-web-performance-scalability-in-2025-3df2)
 <!-- BLOG-POST-LIST:END -->
 
 
