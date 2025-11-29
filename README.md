@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the Programming Languages?](https://dev.to/aj_arul/what-are-the-programming-languages-4kj8)
-- [Importance of a Feasibility Study in Project Management](https://dev.to/writegenic/importance-of-a-feasibility-study-in-project-management-34hb)
-- [Setting Up VS Code SSH Remote Development on OpenWrt](https://dev.to/ahaoboy/setting-up-vs-code-ssh-remote-development-on-openwrt-42mb)
-- [Optimizing SVGs for Web Performance &amp; Scalability in 2025](https://dev.to/frontendtoolstech/optimizing-svgs-for-web-performance-scalability-in-2025-3df2)
+- [Python Countdown Timer Tuorial: Step by Step Guide](https://dev.to/codingstreets/python-countdown-timer-tuorial-step-by-step-guide-43kp)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-34p5)
+- [Python on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/python-on-ubuntu-installation-setup-and-first-steps-27dk)
+- [The Vibe Tax: How Unvalidated AI Code Is Flooding the Market and Driving Up Technical Debt](https://dev.to/alikarbasicom/the-vibe-tax-how-unvalidated-ai-code-is-flooding-the-market-and-driving-up-technical-debt-4g9n)
 <!-- BLOG-POST-LIST:END -->
 
 
