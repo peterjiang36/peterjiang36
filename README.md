@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does Gemini 3 Process Our Queries?](https://dev.to/nube_colectiva_nc/how-does-gemini-3-process-our-queries-424)
-- [The new gold rush is not the next AI productivity app. It&#39;s building the critical infrastructure for the startups.](https://dev.to/jaideepparashar/the-new-gold-rush-is-not-the-next-ai-productivity-app-its-building-the-critical-infrastructure-dbd)
-- [Why AI Infrastructure Startups Are the Real Gold Rush](https://dev.to/jaideepparashar/why-ai-infrastructure-startups-are-the-real-gold-rush-45ck)
-- [Server Components aren&#39;t SSR!](https://dev.to/devops-make-it-run/server-components-arent-ssr-4c32)
+- [Why Mixup Works &lpar;Even When It Blends Everything Into Goo&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-mixup-works-even-when-it-blends-everything-into-goo-25g1)
+- [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
+- [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
+- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
 <!-- BLOG-POST-LIST:END -->
 
 
