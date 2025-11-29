@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-31p4)
-- [Semantic Algebra Spec.](https://dev.to/suign/semantic-algebra-spec-23n5)
-- [How to Create Your First Mitsuki REST API from Scratch](https://dev.to/david_landup/how-to-create-your-first-mitsuki-api-from-scratch-4g09)
+- [Part 1: Built an Agentforce Agent — Here’s What I Learned So You Don’t Repeat these Mistakes](https://dev.to/nidhi_sharma_d5c7d974d2df/part-1-built-an-agentforce-agent-heres-what-i-learned-so-you-dont-repeat-these-mistakes-38lf)
+- [Guide to Mitsuki Repositories: From Zero to Full CRUD](https://dev.to/david_landup/guide-to-mitsuki-repositories-from-zero-to-full-crud-59n6)
+- [Automating Daily Tasks with systemd Timers: A Practical Guide Using Python](https://dev.to/mahinshanazeer/automating-daily-tasks-with-systemd-timers-a-practical-guide-using-python-1bhm)
+- [A Single Dork to Understand Your Infrastructure: Asset Exposure &amp; Configuration Profiling](https://dev.to/rrrowan/a-single-dork-to-understand-your-infrastructure-asset-exposure-configuration-profiling-4j0k)
 <!-- BLOG-POST-LIST:END -->
 
 
