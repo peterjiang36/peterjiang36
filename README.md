@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1lam)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3pa7)
-- [Mastering Dart Enums: From Basic Lists to Supercharged Classes](https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e)
-- [A Decade of AI in K–12 Education: Evaluating Trends, Impact, and Classroom Integration](https://dev.to/svishwanathan01/a-decade-of-ai-in-k-12-education-evaluating-trends-impact-and-classroom-integration-1607)
+- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
+- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
+- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
+- [Daily Tech News Roundup - 2025-11-29](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-29-30ob)
 <!-- BLOG-POST-LIST:END -->
 
 
