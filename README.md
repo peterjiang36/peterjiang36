@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Cryptol — The Language Designed Specifically for Cryptography and Security Proofs](https://dev.to/viz-x/cryptol-the-language-designed-specifically-for-cryptography-and-security-proofs-2c0m)
-- [FOSS4G Auckland 2025](https://dev.to/mierune/foss4g-auckland-2025-4pck)
-- [Terraform Project Structure Best Practices](https://dev.to/anil_kumar_noolu/terraform-project-structure-best-practices-3cob)
-- [Beas Kund Trek: A Stunning Adventure Through Kullu-Manali Valley](https://dev.to/tasinnew22/beas-kund-trek-a-stunning-adventure-through-kullu-manali-valley-5973)
+- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
+- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk)
+- [Debugging LLM Failures: A Practical Guide](https://dev.to/kuldeep_paul/debugging-llm-failures-a-practical-guide-2o7m)
+- [A Developer’s Daily Toolkit: Simple Online Utilities That Save Hours of Work](https://dev.to/tehreem_hassan_e55dcad5fe/a-developers-daily-toolkit-simple-online-utilities-that-save-hours-of-work-90e)
 <!-- BLOG-POST-LIST:END -->
 
 
