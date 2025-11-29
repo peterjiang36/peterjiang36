@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java &gt; Python for AI Agents? I Built a Surf-Forecasting Agent to Find Out](https://dev.to/phouchens/java-python-for-ai-agents-i-built-a-surf-forecasting-agent-to-find-out-5aca)
-- [Async-Programming-New-Era](https://dev.to/member_34349a73/async-programming-new-era-401c)
-- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio &amp; More](https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl)
-- [Beyond the Pinch: Unlock New Robotic Dexterity with Hybrid Gripping](https://dev.to/arvind_sundararajan/beyond-the-pinch-unlock-new-robotic-dexterity-with-hybrid-gripping-pf1)
+- [How Does Gemini 3 Process Our Queries?](https://dev.to/nube_colectiva_nc/how-does-gemini-3-process-our-queries-424)
+- [The new gold rush is not the next AI productivity app. It&#39;s building the critical infrastructure for the startups.](https://dev.to/jaideepparashar/the-new-gold-rush-is-not-the-next-ai-productivity-app-its-building-the-critical-infrastructure-dbd)
+- [Why AI Infrastructure Startups Are the Real Gold Rush](https://dev.to/jaideepparashar/why-ai-infrastructure-startups-are-the-real-gold-rush-45ck)
+- [Server Components aren&#39;t SSR!](https://dev.to/devops-make-it-run/server-components-arent-ssr-4c32)
 <!-- BLOG-POST-LIST:END -->
 
 
