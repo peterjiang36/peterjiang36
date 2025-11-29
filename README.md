@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Free tool to remove watermarks from AI images, 100% private](https://dev.to/jawuilp/free-tool-to-remove-watermarks-from-ai-images-100-private-1pf4)
-- [My Journey to Becoming a Newly Promoted Senior Software Engineer](https://dev.to/serifcolakel/my-journey-to-becoming-a-newly-promoted-senior-software-engineer-45ie)
-- [How I Designed a Full-Stack Banking Microservices Architecture Using .NET 9 + Angular Nx](https://dev.to/gustavojofelix/how-i-designed-a-full-stack-banking-microservices-architecture-using-net-9-angular-nx-1jmc)
-- [Building Your Own Block Cipher: Part 1 — Block Cipher Theory &amp; Rebuilding DES &lpar;Foundations You Can See&rpar;](https://dev.to/dmytro_huz/building-your-own-block-cipher-part-1-block-cipher-theory-rebuilding-des-foundations-you-can-2nld)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
+- [Análisis y Reflexiones sobre GitHub Actions vs GitLab CI: Mi Perspectiva](https://dev.to/renzoflv/analisis-y-reflexiones-sobre-github-actions-vs-gitlab-ci-mi-perspectiva-59k4)
+- [GitHub Actions vs GitLab CI: Comparación Completa de Herramientas CI/CD](https://dev.to/renzoflv/github-actions-vs-gitlab-ci-comparacion-completa-de-herramientas-cicd-2dj1)
+- [Go&#39;s Regexp is Slow. So I Built My Own - up to 3000x Faster](https://dev.to/kolkov/gos-regexp-is-slow-so-i-built-my-own-3000x-faster-3i6h)
 <!-- BLOG-POST-LIST:END -->
 
 
