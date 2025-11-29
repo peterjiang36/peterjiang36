@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
-- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
-- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
-- [Daily Tech News Roundup - 2025-11-29](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-29-30ob)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-31p4)
+- [Semantic Algebra Spec.](https://dev.to/suign/semantic-algebra-spec-23n5)
+- [How to Create Your First Mitsuki REST API from Scratch](https://dev.to/david_landup/how-to-create-your-first-mitsuki-api-from-scratch-4g09)
 <!-- BLOG-POST-LIST:END -->
 
 
