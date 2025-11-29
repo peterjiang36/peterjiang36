@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
-- [The New Age of JSON Formatting — Faster, Cleaner, Smarter](https://dev.to/bugblitz98/the-new-age-of-json-formatting-faster-cleaner-smarter-2gnn)
-- [A Simple, Popular Game &quot;2048&quot;: Deployed on AWS EKS with Fargate](https://dev.to/sindhurteja/a-simple-popular-game-2048-deployed-on-aws-eks-with-fargate-2jj7)
-- [3512. Minimum Operations to Make Array Sum Divisible by K](https://dev.to/mdarifulhaque/3512-minimum-operations-to-make-array-sum-divisible-by-k-43e6)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3jbd)
+- [You&#39;re NOT doing everything wrong](https://dev.to/acoh3n/youre-not-doing-everything-wrong-4l5n)
+- [FileInsta — A Fast &amp; Free Online File Compressor Built for Developers and Creators](https://dev.to/abhiuday_maurya_083f33d4c/fileinsta-a-fast-free-online-file-compressor-built-for-developers-and-creators-31cn)
+- [🚨 PSA for Flutter Developers Using Rive Animations: Fixing Google Play’s New 16KB Page Size Error](https://dev.to/uianimation/psa-for-flutter-developers-using-rive-animations-fixing-google-plays-new-16kb-page-size-error-lnd)
 <!-- BLOG-POST-LIST:END -->
 
 
