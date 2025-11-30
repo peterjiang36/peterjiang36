@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Por qué me puse a explorar Cipherseek.com — y lo que pienso de la idea](https://dev.to/ernesto_malave_285068a60e/por-que-me-puse-a-explorar-cipherseekcom-y-lo-que-pienso-de-la-idea-4b4o)
-- [Week 1 of 40 – Static Idea of the Week](https://dev.to/florianhoeppner/week-1-of-40-static-idea-of-the-week-49hn)
-- [Building a Next.js Template Clone Generator: A Complete Guide to Streamlining Your Development Workflow with Kiro](https://dev.to/kirodotdev/building-a-nextjs-template-clone-generator-a-complete-guide-to-streamlining-your-development-489n)
-- [Don&#39;t Let Your Staging Server Die: Separate Task Scheduling in Laravel](https://dev.to/tegos/dont-let-your-staging-server-die-separate-task-scheduling-in-laravel-420o)
+- [The Future of Coding: Navigating the Shift Towards Vibe Coding](https://dev.to/ravidasari/untitled-blog-post-404f)
+- [**Achieving Financial Freedom from Home: 16 Proven Methods to Earn $1,000 a Month**](https://dev.to/yagyaraj_sharma_6cd410179/achieving-financial-freedom-from-home-16-proven-methods-to-earn-1000-a-month-40ma)
+- [OVN Kubernetes - What Makes It Different](https://dev.to/nurudeen_kamilu/ovn-kubernetes-what-makes-it-different-2dli)
+- [is the timeline still ai slop or no?](https://dev.to/hacksore/is-the-timeline-still-ai-slop-or-no-2215)
 <!-- BLOG-POST-LIST:END -->
 
 
