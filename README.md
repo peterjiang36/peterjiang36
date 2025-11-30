@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1)
-- [That One Weird Line of Go Code That Saved My Weekend &lpar;And My Sanity&rpar;](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h)
-- [🚀 How I Cut Deep Learning Training Time by 45% — Without Upgrading Hardware](https://dev.to/ashish_ghadigaonkar_/how-i-cut-deep-learning-training-time-by-45-without-upgrading-hardware-71f)
+- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
+- [Understanding Amazon VPC - Overview and Fundamentals](https://dev.to/jajera/understanding-amazon-vpc-overview-and-fundamentals-51ii)
+- [Building an AWS Content Delivery Stack with Terraform](https://dev.to/jajera/building-an-aws-content-delivery-stack-with-terraform-end)
+- [Comparing Great Expectations and CsvPath Framework](https://dev.to/david_kershaw_b6916404da6/comparing-great-expectations-and-csvpath-framework-3lfg)
 <!-- BLOG-POST-LIST:END -->
 
 
