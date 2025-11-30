@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCPs for Developers Who Think They Don&#39;t Need MCPs](https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736)
-- [My Model Cheated: How Grad-CAM Exposed a 95% Accuracy Lie](https://dev.to/tsadarsh/my-model-cheated-how-grad-cam-exposed-a-95-accuracy-lie-2n81)
-- [Used Mermaid.js to map out my DAWless live rig. Really great for documenting complex MIDI, Audio, and CV signal flow!](https://dev.to/mikeydorje/used-mermaidjs-to-map-out-my-dawless-live-rig-really-great-for-documenting-complex-midi-audio-4ca7)
-- [I built an Advanced Python &amp; JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
+- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
+- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
+- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
+- [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
 <!-- BLOG-POST-LIST:END -->
 
 
