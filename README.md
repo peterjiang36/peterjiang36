@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/python-instalacion-y-configuracion-en-ubuntu-18j)
-- [✨ Introducing data2ui | turn any JSON into a clear, navigable UI](https://dev.to/jarraga/introducing-data2ui-turn-any-json-into-a-clear-navigable-ui-4npl)
-- [Debug JSON Like a Pro: Essential Tools &amp; Tips for Developers &lpar;2025&rpar;](https://dev.to/frontendtoolstech/debug-json-like-a-pro-essential-tools-tips-for-developers-2025-1cja)
-- [Open Liberty: O Runtime Java Cloud-Native da IBM](https://dev.to/ikauedev/open-liberty-o-runtime-java-cloud-native-da-ibm-1ll9)
+- [🚀 ECS Express Mode: From an image to an HTTPS endpoint in a single step](https://dev.to/chainiz/ecs-express-mode-from-an-image-to-an-https-endpoint-in-a-single-step-2812)
+- [Top 12+ Android Emulators in 2026 Best Emulator for Android, PC, and Testing](https://dev.to/morrismoses149/top-12-android-emulators-in-2026-best-emulator-for-android-pc-and-testing-5bjh)
+- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
+- [2025&#39;s &#39;Advent of Code; Event Chooses Tradition Over AI](https://dev.to/davidcassel/2025s-advent-of-code-event-chooses-tradition-over-ai-m89)
 <!-- BLOG-POST-LIST:END -->
 
 
