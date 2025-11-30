@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Revenue: Integrate Monetzly for Seamless AI Conversation Monetization](https://dev.to/monetzly/boost-revenue-integrate-monetzly-for-seamless-ai-conversation-monetization-1i6a)
-- [Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation](https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1)
-- [Desafio Final e o Segredo do O&lpar;N&rpar; &lpar;Dois Ponteiros&rpar;](https://dev.to/gissandrogama/desafio-final-e-o-segredo-do-on-dois-ponteiros-3g4)
-- [O Padrão Ouro da Ordenação: O&lpar;N log N&rpar;](https://dev.to/gissandrogama/post-4-o-padrao-ouro-da-ordenacao-on-log-n-46jp)
+- [I Baked a Football Cake and It Taught Me About Building AI Agents](https://dev.to/sansbuilds/i-baked-a-football-cake-and-it-taught-me-about-building-ai-agents-3ih8)
+- [Crypto-derivation allows shared space, not shared files.](https://dev.to/suign/crypto-derivation-allows-shared-space-not-shared-files-2545)
+- [I Can&#39;t Afford Ads for My SaaS, So I&#39;m Trying This Instead.](https://dev.to/wwenioaguiar/i-cant-afford-ads-for-my-saas-so-im-trying-this-instead-2m8d)
+- [Developing real-time, humanlike AI video agents that enable natural customer interactions](https://dev.to/hardiquedasore/developing-real-time-humanlike-ai-video-agents-that-enable-natural-customer-interactions-4hj5)
 <!-- BLOG-POST-LIST:END -->
 
 
