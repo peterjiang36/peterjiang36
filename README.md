@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4pjc)
-- [The Case of the 40-Second Logins: Debugging an ALB Gone Wrong](https://dev.to/prateeks007/the-case-of-the-40-second-logins-debugging-an-alb-gone-wrong-2m4o)
-- [THE FREEDOM, YOU FORGOT YOU HAD: A LEGACY ARTICLE ON ROMANS 6](https://dev.to/douglasvandergraph/the-freedom-you-forgot-you-had-a-legacy-article-on-romans-6-5cho)
-- [Surface Tension](https://dev.to/interstelios/surface-tension-2h70)
+- [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
+- [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
+- [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
+- [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
 <!-- BLOG-POST-LIST:END -->
 
 
