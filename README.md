@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Official AWS Learning Programs — What They Are &amp; How to Get Started](https://dev.to/dulmika_semal_90fb5094b87/best-official-aws-learning-programs-what-they-are-how-to-get-started-1cap)
-- [Mastering the [SETTINGS] Section in Uniface Assignment Files](https://dev.to/petercode/mastering-the-settings-section-in-uniface-assignment-files-1nd7)
-- [Supabase and the Illusion of “Easy Caching”: Why PostgreSQL Reads Can’t Be Automatic](https://dev.to/ahammednibras8/supabase-and-the-illusion-of-easy-caching-why-postgresql-reads-cant-be-automatic-1ed2)
-- [Serverless FastAPI Deployment: Actions Speak Louder Than Words](https://dev.to/adrianm/serverless-fastapi-deployment-actions-speak-louder-than-words-1k8i)
+- [AI Vibe Coding Is A Lie](https://dev.to/nabir14/ai-vibe-coding-is-a-lie-23e4)
+- [I built a simple AI security scanner for websites — would love community feedback](https://dev.to/lakhvir_544b79345719d465c/i-built-a-simple-ai-security-scanner-for-websites-would-love-community-feedback-15cf)
+- [My MCP Server Polluted OAuth Scopes for Mobile Sign-in](https://dev.to/mukbang3d/my-mcp-server-polluted-oauth-scopes-for-mobile-sign-in-5ea5)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
 <!-- BLOG-POST-LIST:END -->
 
 
