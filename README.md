@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 ECS Express Mode: From an image to an HTTPS endpoint in a single step](https://dev.to/chainiz/ecs-express-mode-from-an-image-to-an-https-endpoint-in-a-single-step-2812)
-- [Top 12+ Android Emulators in 2026 Best Emulator for Android, PC, and Testing](https://dev.to/morrismoses149/top-12-android-emulators-in-2026-best-emulator-for-android-pc-and-testing-5bjh)
-- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
-- [2025&#39;s &#39;Advent of Code; Event Chooses Tradition Over AI](https://dev.to/davidcassel/2025s-advent-of-code-event-chooses-tradition-over-ai-m89)
+- [2025 Developer Advent Calendars](https://dev.to/jarvisscript/2025-developer-advent-calendars-22g6)
+- [Build Your Own AIDE Automation - Guide](https://dev.to/sebos/build-your-own-aide-automation-guide-1cki)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2aan)
+- [AIDE Daily Automation Build - Checklist Your Implementation Roadmap](https://dev.to/sebos/aide-daily-automation-build-checklist-your-implementation-roadmap-264j)
 <!-- BLOG-POST-LIST:END -->
 
 
