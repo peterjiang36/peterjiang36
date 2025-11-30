@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Terraform Type Constraints Explained](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-type-constraints-explained-5d2)
-- [Weekly #48-2025: AI, Enterprise Knowledge, and the Future of Engineering](https://dev.to/weekly/weekly-48-2025-ai-enterprise-knowledge-and-the-future-of-engineering-eg8)
-- [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
-- [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
+- [Python - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/python-instalacion-y-configuracion-en-ubuntu-18j)
+- [✨ Introducing data2ui | turn any JSON into a clear, navigable UI](https://dev.to/jarraga/introducing-data2ui-turn-any-json-into-a-clear-navigable-ui-4npl)
+- [Debug JSON Like a Pro: Essential Tools &amp; Tips for Developers &lpar;2025&rpar;](https://dev.to/frontendtoolstech/debug-json-like-a-pro-essential-tools-tips-for-developers-2025-1cja)
+- [Open Liberty: O Runtime Java Cloud-Native da IBM](https://dev.to/ikauedev/open-liberty-o-runtime-java-cloud-native-da-ibm-1ll9)
 <!-- BLOG-POST-LIST:END -->
 
 
