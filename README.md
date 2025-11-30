@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
-- [Understanding Amazon VPC - Overview and Fundamentals](https://dev.to/jajera/understanding-amazon-vpc-overview-and-fundamentals-51ii)
-- [Building an AWS Content Delivery Stack with Terraform](https://dev.to/jajera/building-an-aws-content-delivery-stack-with-terraform-end)
-- [Comparing Great Expectations and CsvPath Framework](https://dev.to/david_kershaw_b6916404da6/comparing-great-expectations-and-csvpath-framework-3lfg)
+- [Beyond the Context Window: Building a Stateful &#39;Memory&#39; MCP Server on Cloudflare Workers](https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k)
+- [Ryan Day, Ohio State dominate Michigan to snap losing streak](https://dev.to/asher_shafiq_cf44f5b4096e/ryan-day-ohio-state-dominate-michigan-to-snap-losing-streak-1ld9)
+- [Day-05 Terraform Variables in AWS - Input vs Output vs Local Variables](https://dev.to/amit_kumar_7db8e36a64dd45/day-05-terraform-variables-in-aws-input-vs-output-vs-local-variables-50cm)
+- [🛡️ How to Keep Your Application Updated on the Latest Security Threats &amp; Vulnerabilities](https://dev.to/anisubhra_sarkar/how-to-keep-your-application-updated-on-the-latest-security-threats-vulnerabilities-26i1)
 <!-- BLOG-POST-LIST:END -->
 
 
