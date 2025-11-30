@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Developer Advent Calendars](https://dev.to/jarvisscript/2025-developer-advent-calendars-22g6)
-- [Build Your Own AIDE Automation - Guide](https://dev.to/sebos/build-your-own-aide-automation-guide-1cki)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2aan)
-- [AIDE Daily Automation Build - Checklist Your Implementation Roadmap](https://dev.to/sebos/aide-daily-automation-build-checklist-your-implementation-roadmap-264j)
+- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
+- [Fighting the macOS File System: How I built a cross-platform organizer in Python](https://dev.to/a1k7/fighting-the-macos-file-system-how-i-built-a-cross-platform-organizer-in-python-3icf)
+- [Secure SSH Shell Applications - Planning Guide](https://dev.to/sebos/secure-ssh-shell-applications-planning-guide-57ci)
+- [The Role of Data Analytics in Fighting Fraud and Corruption](https://dev.to/codesphere_d4edea7ab0b1c0/the-role-of-data-analytics-in-fighting-fraud-and-corruption-2ef6)
 <!-- BLOG-POST-LIST:END -->
 
 
