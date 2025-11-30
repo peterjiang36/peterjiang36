@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2c94)
-- [The New Literacy Divide](https://dev.to/rawveg/the-new-literacy-divide-1m9o)
-- [The Ultimate Guide to React Query: Supercharge Your React Apps](https://dev.to/gouranga-das-khulna/the-ultimate-guide-to-react-query-supercharge-your-react-apps-2j8a)
+- [Best Official AWS Learning Programs — What They Are &amp; How to Get Started](https://dev.to/dulmika_semal_90fb5094b87/best-official-aws-learning-programs-what-they-are-how-to-get-started-1cap)
+- [Mastering the [SETTINGS] Section in Uniface Assignment Files](https://dev.to/petercode/mastering-the-settings-section-in-uniface-assignment-files-1nd7)
+- [Supabase and the Illusion of “Easy Caching”: Why PostgreSQL Reads Can’t Be Automatic](https://dev.to/ahammednibras8/supabase-and-the-illusion-of-easy-caching-why-postgresql-reads-cant-be-automatic-1ed2)
+- [Serverless FastAPI Deployment: Actions Speak Louder Than Words](https://dev.to/adrianm/serverless-fastapi-deployment-actions-speak-louder-than-words-1k8i)
 <!-- BLOG-POST-LIST:END -->
 
 
