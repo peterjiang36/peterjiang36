@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Baked a Football Cake and It Taught Me About Building AI Agents](https://dev.to/sansbuilds/i-baked-a-football-cake-and-it-taught-me-about-building-ai-agents-3ih8)
-- [Crypto-derivation allows shared space, not shared files.](https://dev.to/suign/crypto-derivation-allows-shared-space-not-shared-files-2545)
-- [I Can&#39;t Afford Ads for My SaaS, So I&#39;m Trying This Instead.](https://dev.to/wwenioaguiar/i-cant-afford-ads-for-my-saas-so-im-trying-this-instead-2m8d)
-- [Developing real-time, humanlike AI video agents that enable natural customer interactions](https://dev.to/hardiquedasore/developing-real-time-humanlike-ai-video-agents-that-enable-natural-customer-interactions-4hj5)
+- [Hoppscotch — The Open Source API Development Ecosystem](https://dev.to/codefalconx/hoppscotch-the-open-source-api-development-ecosystem-4m5b)
+- [The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations](https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i)
+- [251130: zsh: cd](https://dev.to/mlajkim/251130-zsh-cd-460i)
+- [What is a &quot;Retreat&quot; Suitable for Engineers](https://dev.to/stakiran/what-is-a-retreat-suitable-for-engineers-g12)
 <!-- BLOG-POST-LIST:END -->
 
 
