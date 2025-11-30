@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
-- [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
-- [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
-- [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
+- [MCPs for Developers Who Think They Don&#39;t Need MCPs](https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736)
+- [My Model Cheated: How Grad-CAM Exposed a 95% Accuracy Lie](https://dev.to/tsadarsh/my-model-cheated-how-grad-cam-exposed-a-95-accuracy-lie-2n81)
+- [Used Mermaid.js to map out my DAWless live rig. Really great for documenting complex MIDI, Audio, and CV signal flow!](https://dev.to/mikeydorje/used-mermaidjs-to-map-out-my-dawless-live-rig-really-great-for-documenting-complex-midi-audio-4ca7)
+- [I built an Advanced Python &amp; JS Obfuscator with AI Auto-Decryption 🛡️](https://dev.to/euromoscow/i-built-an-advanced-python-js-obfuscator-with-ai-auto-decryption-haa)
 <!-- BLOG-POST-LIST:END -->
 
 
