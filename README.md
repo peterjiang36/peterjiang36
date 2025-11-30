@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
-- [Fighting the macOS File System: How I built a cross-platform organizer in Python](https://dev.to/a1k7/fighting-the-macos-file-system-how-i-built-a-cross-platform-organizer-in-python-3icf)
-- [Secure SSH Shell Applications - Planning Guide](https://dev.to/sebos/secure-ssh-shell-applications-planning-guide-57ci)
-- [The Role of Data Analytics in Fighting Fraud and Corruption](https://dev.to/codesphere_d4edea7ab0b1c0/the-role-of-data-analytics-in-fighting-fraud-and-corruption-2ef6)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4pjc)
+- [The Case of the 40-Second Logins: Debugging an ALB Gone Wrong](https://dev.to/prateeks007/the-case-of-the-40-second-logins-debugging-an-alb-gone-wrong-2m4o)
+- [THE FREEDOM, YOU FORGOT YOU HAD: A LEGACY ARTICLE ON ROMANS 6](https://dev.to/douglasvandergraph/the-freedom-you-forgot-you-had-a-legacy-article-on-romans-6-5cho)
+- [Surface Tension](https://dev.to/interstelios/surface-tension-2h70)
 <!-- BLOG-POST-LIST:END -->
 
 
