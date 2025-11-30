@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge](https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8)
-- [Poems About Tech Burnout: When Senior Engineers Start Dreaming of a Simpler Life](https://dev.to/adamthedeveloper/when-senior-devs-dream-of-dirt-two-poems-from-the-tech-industry-524h)
-- [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
-- [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
+- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
+- [The Infrastructure Overhaul That Saved My Development Velocity — A Traefik &amp; Turborepo Migration Story](https://dev.to/wintrover/the-infrastructure-overhaul-that-saved-my-development-velocity-a-traefik-turborepo-migration-420l)
+- [Stop Doomscrolling: I Built an Autonomous AI Agent to Filter the Noise &lpar;Python + LangGraph&rpar;](https://dev.to/amrithesh_dev/stop-doomscrolling-i-built-an-autonomous-ai-agent-to-filter-the-noise-python-langgraph-31k)
+- [The 7 Best AI Powered Diagrams to Supercharge Your Workflow](https://dev.to/ishmam_jahan_4269b6f13ba5/the-7-best-ai-powered-diagrams-to-supercharge-your-workflow-3bda)
 <!-- BLOG-POST-LIST:END -->
 
 
