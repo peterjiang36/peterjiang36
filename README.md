@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
-- [The Infrastructure Overhaul That Saved My Development Velocity — A Traefik &amp; Turborepo Migration Story](https://dev.to/wintrover/the-infrastructure-overhaul-that-saved-my-development-velocity-a-traefik-turborepo-migration-420l)
-- [Stop Doomscrolling: I Built an Autonomous AI Agent to Filter the Noise &lpar;Python + LangGraph&rpar;](https://dev.to/amrithesh_dev/stop-doomscrolling-i-built-an-autonomous-ai-agent-to-filter-the-noise-python-langgraph-31k)
-- [The 7 Best AI Powered Diagrams to Supercharge Your Workflow](https://dev.to/ishmam_jahan_4269b6f13ba5/the-7-best-ai-powered-diagrams-to-supercharge-your-workflow-3bda)
+- [Fix Damaged PDF File Online Free - 7 Best Repair Tools That Actually Work](https://dev.to/bryan_collins_abcd0214d94/fix-damaged-pdf-file-online-free-7-best-repair-tools-that-actually-work-168a)
+- [Building a High-Performance Search System for a Car Mechanic CRM with MongoDB Change Data Capture](https://dev.to/nebula2003/building-a-high-performance-search-system-for-a-car-mechanic-crm-with-mongodb-change-data-capture-1jb)
+- [How AI Makes Waste Collection Smarter: Inside GreenGuardian’s Intelligent Features](https://dev.to/ukasha_hassan_4b3da494e51/how-ai-makes-waste-collection-smarter-inside-greenguardians-intelligent-features-22g1)
+- [echo3D Now Integrates with Autodesk 3ds Max](https://dev.to/echo3d/echo3d-now-integrates-with-autodesk-3ds-max-12hd)
 <!-- BLOG-POST-LIST:END -->
 
 
