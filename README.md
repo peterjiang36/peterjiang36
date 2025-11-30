@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Context Window: Building a Stateful &#39;Memory&#39; MCP Server on Cloudflare Workers](https://dev.to/ahmed_a_o/beyond-the-context-window-building-a-stateful-memory-mcp-server-on-cloudflare-workers-e2k)
-- [Ryan Day, Ohio State dominate Michigan to snap losing streak](https://dev.to/asher_shafiq_cf44f5b4096e/ryan-day-ohio-state-dominate-michigan-to-snap-losing-streak-1ld9)
-- [Day-05 Terraform Variables in AWS - Input vs Output vs Local Variables](https://dev.to/amit_kumar_7db8e36a64dd45/day-05-terraform-variables-in-aws-input-vs-output-vs-local-variables-50cm)
-- [🛡️ How to Keep Your Application Updated on the Latest Security Threats &amp; Vulnerabilities](https://dev.to/anisubhra_sarkar/how-to-keep-your-application-updated-on-the-latest-security-threats-vulnerabilities-26i1)
+- [🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge](https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8)
+- [Poems About Tech Burnout: When Senior Engineers Start Dreaming of a Simpler Life](https://dev.to/adamthedeveloper/when-senior-devs-dream-of-dirt-two-poems-from-the-tech-industry-524h)
+- [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
+- [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
 <!-- BLOG-POST-LIST:END -->
 
 
