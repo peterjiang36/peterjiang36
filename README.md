@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
-- [Why Your Users Cannot Perceive Zero Latency: A Scientific Guide for Developers](https://dev.to/maria-artamonova/why-your-users-cannot-perceive-zero-latency-a-scientific-guide-for-developers-58i3)
-- [Cypress 15.7.0: A Faster, Smarter, More Modern Testing Experience](https://dev.to/testrig/cypress-1570-a-faster-smarter-more-modern-testing-experience-1d80)
-- [Why I Don’t Trust AI With Crypto Predictions?](https://dev.to/endeo/why-i-dont-trust-ai-with-crypto-predictions-539)
+- [Fix Router Blinking Red Light In Minutes](https://dev.to/bryan_collins_abcd0214d94/fix-router-blinking-red-light-in-minutes-4598)
+- [How to Seed Data in Drizzle &lpar;The Right Way&rpar;](https://dev.to/teaganga/how-to-seed-data-in-drizzle-the-right-way-2m6d)
+- [🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#39;s RAM](https://dev.to/vital_access/memory-leak-why-i-felt-stupid-at-2-pm-debugging-my-brains-ram-4lah)
+- [How to Turn Meeting Notes into a PowerPoint Presentation Using AI in 2026- A Complete Guide.](https://dev.to/dhanusree_v_91cb434a13fdf/how-to-turn-meeting-notes-into-a-powerpoint-presentation-using-ai-in-2026-a-complete-guide-i2k)
 <!-- BLOG-POST-LIST:END -->
 
 
