@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [XRPL Programmability: WASM Runtime Revisit](https://dev.to/ripplexdev/xrpl-programmability-wasm-runtime-revisit-2ak0)
-- [How To Categorize Your Tests in Playwright using Tags to Make Your Testing Suite Less Terrible](https://dev.to/arvind_mehairjan/how-to-categorize-your-tests-in-playwright-using-tags-to-make-your-testing-suite-less-terrible-4b5p)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-301j)
-- [ConectaBairro: AI-Powered Cross-Platform Community App for Brazilian Social Impact](https://dev.to/paulo_abbcba03b4df70572fc/conectabairro-ai-powered-cross-platform-community-app-for-brazilian-social-impact-191c)
+- [Enabling IOMMU for Xeon E5 v4 on Proxmox v9](https://dev.to/allig4t0r/enabling-iommu-for-xeon-e5-v4-on-proxmox-v9-5bcf)
+- [Security-First WebSockets: Protecting Real-Time Communications from Attack](https://dev.to/vanessamadison/security-first-websockets-protecting-real-time-communications-from-attack-2j8d)
+- [Kubernetes Secrets Without the Pain: Meet kcpwd](https://dev.to/osmanuygar/kubernetes-secrets-without-the-pain-meet-kcpwd-4pfo)
+- [NDC Conferences: Optimize Your Internal OS and Minimize Compatibility Issues at Work - Alice Meredith](https://dev.to/scale_youtube/ndc-conferences-optimize-your-internal-os-and-minimize-compatibility-issues-at-work-alice-3nej)
 <!-- BLOG-POST-LIST:END -->
 
 
