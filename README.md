@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid the Temptation of Header-Only Libraries](https://dev.to/pauljlucas/avoid-the-temptation-of-header-only-libraries-33an)
-- [Adaptive Gripping: Bridging the Dexterity Gap in Robotics](https://dev.to/arvind_sundararajan/adaptive-gripping-bridging-the-dexterity-gap-in-robotics-2im1)
-- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
-- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
+- [Building a Transparent LAGG &lpar;LACP&rpar; Bridge with OPNsense, UDM, and UniFi — A Practical Guide](https://dev.to/andremmfaria/building-a-transparent-lagg-lacp-bridge-with-opnsense-udm-and-unifi-a-practical-guide-1d21)
+- [A Beginner’s Guide to Getting Started on Edges in LangGraph](https://dev.to/aiengineering/a-beginners-guide-to-getting-started-on-edges-in-langgraph-59be)
+- [AR in Banking Branches: Using Overlays to Explain Complex Financial Products](https://dev.to/prateekshaweb/ar-in-banking-branches-using-overlays-to-explain-complex-financial-products-4mpc)
+- [🚀 My First Dev Community Post: Growing as a Java &amp; Spring Boot Engineer](https://dev.to/dipak491/my-first-dev-community-post-growing-as-a-java-spring-boot-engineer-54dj)
 <!-- BLOG-POST-LIST:END -->
 
 
