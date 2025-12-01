@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
-- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
-- [Illuminating Bioprocesses: Dynamic Control with Light](https://dev.to/arvind_sundararajan/illuminating-bioprocesses-dynamic-control-with-light-jmo)
-- [Building Death Dealer: How AI-Assisted Development Transformed My Halloween Horror App](https://dev.to/ansari_gufran/building-death-dealer-how-ai-assisted-development-transformed-my-halloween-horror-app-5h7j)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-442l)
+- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
+- [Gateway Endpoints vs Interface Endpoints: What’s the Difference?](https://dev.to/irfansatrio/gateway-endpoints-vs-interface-endpoints-whats-the-difference-10kh)
+- [The Most Underrated Developer Tool Isn&#39;t GitHub Copilot, It&#39;s The Sun](https://dev.to/elevenapril/the-most-underrated-developer-tool-isnt-github-copilot-its-the-sun-ghk)
 <!-- BLOG-POST-LIST:END -->
 
 
