@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
-- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
-- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
-- [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
+- [How to Secure LangChain Agents with Cryptographic Signatures &lpar;Tutorial&rpar;](https://dev.to/faalantir/how-to-secure-langchain-agents-with-cryptographic-signatures-tutorial-44ee)
+- [[Boost]](https://dev.to/jaycodist/-2obi)
+- [**The Dark Side of Innovation: James Cameron&#39;s Concerns about Generative AI**](https://dev.to/yagyaraj_sharma_6cd410179/the-dark-side-of-innovation-james-camerons-concerns-about-generative-ai-b01)
+- [**Cyber Monday Deals: Last Chance to Save on Top Tech and Electronics**](https://dev.to/yagyaraj_sharma_6cd410179/cyber-monday-deals-last-chance-to-save-on-top-tech-and-electronics-3opd)
 <!-- BLOG-POST-LIST:END -->
 
 
