@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Deckbuilder Game Engine with Kiro: From Specs to &quot;Slay the Spire&quot;](https://dev.to/michaelinzo/i-built-a-deckbuilder-game-engine-with-kiro-from-specs-to-slay-the-spire-3e4l)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1d7)
-- [Medallion Architecture On AWS](https://dev.to/devoteng1/medallion-architecture-on-aws-2ngm)
-- [Stop That Notification! How I Built Graceful Cancellation for Mass Push Campaigns](https://dev.to/sangwoo_rhie/stop-that-notification-how-i-built-graceful-cancellation-for-mass-push-campaigns-3aij)
+- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
+- [How to Add Feature Flags to Your App in 5 Minutes](https://dev.to/indienow/how-to-add-feature-flags-to-your-app-in-5-minutes-13b5)
+- [3D-Agent and Blender-MCP: Both Amazing Blender AI Tools](https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n)
+- [Building a Robust Bonus Engine in Go: Mastering Accrual, Wager, and Compliance](https://dev.to/4mars/building-a-robust-bonus-engine-in-go-mastering-accrual-wager-and-compliance-3i9h)
 <!-- BLOG-POST-LIST:END -->
 
 
