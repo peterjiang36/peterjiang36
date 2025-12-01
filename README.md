@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Router Blinking Red Light In Minutes](https://dev.to/bryan_collins_abcd0214d94/fix-router-blinking-red-light-in-minutes-4598)
-- [How to Seed Data in Drizzle &lpar;The Right Way&rpar;](https://dev.to/teaganga/how-to-seed-data-in-drizzle-the-right-way-2m6d)
-- [🧠 [Memory Leak] Why I Felt Stupid at 2 PM: Debugging My Brain&#39;s RAM](https://dev.to/vital_access/memory-leak-why-i-felt-stupid-at-2-pm-debugging-my-brains-ram-4lah)
-- [How to Turn Meeting Notes into a PowerPoint Presentation Using AI in 2026- A Complete Guide.](https://dev.to/dhanusree_v_91cb434a13fdf/how-to-turn-meeting-notes-into-a-powerpoint-presentation-using-ai-in-2026-a-complete-guide-i2k)
+- [What are your goals for the week? #155](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki)
+- [Dupe File Finder](https://dev.to/true_linux/dupe-file-finder-4cf)
+- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
+- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
 <!-- BLOG-POST-LIST:END -->
 
 
