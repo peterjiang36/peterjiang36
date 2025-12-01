@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling IOMMU for Xeon E5 v4 on Proxmox v9](https://dev.to/allig4t0r/enabling-iommu-for-xeon-e5-v4-on-proxmox-v9-5bcf)
-- [Security-First WebSockets: Protecting Real-Time Communications from Attack](https://dev.to/vanessamadison/security-first-websockets-protecting-real-time-communications-from-attack-2j8d)
-- [Kubernetes Secrets Without the Pain: Meet kcpwd](https://dev.to/osmanuygar/kubernetes-secrets-without-the-pain-meet-kcpwd-4pfo)
-- [NDC Conferences: Optimize Your Internal OS and Minimize Compatibility Issues at Work - Alice Meredith](https://dev.to/scale_youtube/ndc-conferences-optimize-your-internal-os-and-minimize-compatibility-issues-at-work-alice-3nej)
+- [The Lazy Lurk: A Mental Model for Better Tests](https://dev.to/pscheit/the-lazy-lurk-a-mental-model-for-better-tests-n32)
+- [[Boost]](https://dev.to/zenithai/-4k0p)
+- [Notte Vault: The Solution for AI Agent Authentication](https://dev.to/nottelabs/notte-vault-the-solution-for-ai-agent-authentication-22a2)
+- [Why Your AI Coding Assistant Needs a Security Layer &lpar;And How to Add One in 2 Minutes&rpar;](https://dev.to/mike_hanol_e21eef42461b5e/why-your-ai-coding-assistant-needs-a-security-layer-and-how-to-add-one-in-2-minutes-92l)
 <!-- BLOG-POST-LIST:END -->
 
 
