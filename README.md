@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #155](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki)
-- [Dupe File Finder](https://dev.to/true_linux/dupe-file-finder-4cf)
-- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
-- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
+- [I Built a Deckbuilder Game Engine with Kiro: From Specs to &quot;Slay the Spire&quot;](https://dev.to/michaelinzo/i-built-a-deckbuilder-game-engine-with-kiro-from-specs-to-slay-the-spire-3e4l)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1d7)
+- [Medallion Architecture On AWS](https://dev.to/devoteng1/medallion-architecture-on-aws-2ngm)
+- [Stop That Notification! How I Built Graceful Cancellation for Mass Push Campaigns](https://dev.to/sangwoo_rhie/stop-that-notification-how-i-built-graceful-cancellation-for-mass-push-campaigns-3aij)
 <!-- BLOG-POST-LIST:END -->
 
 
