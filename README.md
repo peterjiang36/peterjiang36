@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lazy Lurk: A Mental Model for Better Tests](https://dev.to/pscheit/the-lazy-lurk-a-mental-model-for-better-tests-n32)
-- [[Boost]](https://dev.to/zenithai/-4k0p)
-- [Notte Vault: The Solution for AI Agent Authentication](https://dev.to/nottelabs/notte-vault-the-solution-for-ai-agent-authentication-22a2)
-- [Why Your AI Coding Assistant Needs a Security Layer &lpar;And How to Add One in 2 Minutes&rpar;](https://dev.to/mike_hanol_e21eef42461b5e/why-your-ai-coding-assistant-needs-a-security-layer-and-how-to-add-one-in-2-minutes-92l)
+- [Why I Built Shamba-MedCare &lpar;And What I Learned About Solving Real Problems&rpar;](https://dev.to/nicanor_korir/why-i-built-shamba-medcare-and-what-i-learned-about-solving-real-problems-425g)
+- [Issue #6: Blockchain Consensus Algorithms](https://dev.to/js_cipher/issue-6-blockchain-consensus-algorithms-545)
+- [Let&#39;s Stop Overprotecting Confidential Information](https://dev.to/stakiran/lets-stop-overprotecting-confidential-information-1m0l)
+- [Herança](https://dev.to/joaopedrov0/heranca-2pna)
 <!-- BLOG-POST-LIST:END -->
 
 
