@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stopping Bots in Action: SafeLine WAF Real-World Traffic Case Study](https://dev.to/arina_cholee/stopping-bots-in-action-safeline-waf-real-world-traffic-case-study-120c)
-- [The Engineering Challenge of &quot;Value&quot;: Building a Real-Time Fantasy Football Trade Engine](https://dev.to/ffteamnames/the-engineering-challenge-of-value-building-a-real-time-fantasy-football-trade-engine-2pp9)
-- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
-- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
+- [Build Your First Remote MCP Server on Cloudflare Workers](https://dev.to/augusto_joaquinriveramu/build-your-first-remote-mcp-server-on-cloudflare-workers-2nio)
+- [Monetzly: Boost Developer Revenue with AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-monetization-for-llm-apps-5b3i)
+- [How can business development be independent of frameworks](https://dev.to/canonical/how-can-business-development-be-independent-of-frameworks-225d)
+- [C Programming Language: The Foundation of Modern Software Development](https://dev.to/farhadrahimiklie/c-programming-language-the-foundation-of-modern-software-development-b18)
 <!-- BLOG-POST-LIST:END -->
 
 
