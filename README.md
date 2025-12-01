@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Needs CSP?](https://dev.to/micmath/who-needs-csp-1dmb)
-- [New version 3.2.1
-
-https://github.com/hmpl-language/hmpl/releases/tag/3.2.1](https://dev.to/anthonymax/new-version-321httpsgithubcomhmpl-languagehmplreleasestag321-2d4n)
-- [How I built a free AI Video Watermark Remover using React &amp; Firebase](https://dev.to/renming_wang_99a0c6efbd56/how-i-built-a-free-ai-video-watermark-remover-using-react-firebase-5efi)
-- [101 ana ucuz](https://dev.to/alsafari_tours_17a74bc8ab/101-ana-ucuz-emn)
+- [&quot;That&#39;s Just How It Is&quot; Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2)
+- [OpenTofu Cheat Sheet: 31 CLI Commands You Should Know](https://dev.to/spacelift/opentofu-cheat-sheet-31-cli-commands-you-should-know-3dhb)
+- [Cooked this Paperfolio template with V0 | Here’s the template you can use for free](https://dev.to/nikhilshukla/cooked-this-paperfolio-template-with-v0-heres-the-template-you-can-use-for-free-576e)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4c1i)
 <!-- BLOG-POST-LIST:END -->
 
 
