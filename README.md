@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best SQLite Solutions for React Native App Development in 2026](https://dev.to/eira-wexford/best-sqlite-solutions-for-react-native-app-development-in-2026-3b5l)
-- [Music Monday &lpar;Last song you listened to?&rpar;](https://dev.to/musicforem/music-monday-last-song-you-listened-to-3768)
-- [The Hardest Lesson I Learned Migrating Yet Another Legacy Codebase](https://dev.to/canro91/the-hardest-lesson-i-learned-migrating-yet-another-legacy-codebase-j3o)
-- [Hello, My name is YOEUNG YENG. I&#39;m from Cambodia.](https://dev.to/yoeungyeng/hello-my-name-is-yoeung-yeng-im-from-cambodia-1f0g)
+- [How to Really Measure AI Agent Performance &lpar;and ROI&rpar;](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo)
+- [Agentic AI in Software Development: Revolutionizing Coding](https://dev.to/champsoft/agentic-ai-in-software-development-revolutionizing-coding-1njn)
+- [70% of Vulnerabilities Are Memory Bugs. Here&#39;s How We Instrumented Everything.](https://dev.to/hofong428/70-of-vulnerabilities-are-memory-bugs-heres-how-we-instrumented-everything-28fk)
 <!-- BLOG-POST-LIST:END -->
 
 
