@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Transparent LAGG &lpar;LACP&rpar; Bridge with OPNsense, UDM, and UniFi — A Practical Guide](https://dev.to/andremmfaria/building-a-transparent-lagg-lacp-bridge-with-opnsense-udm-and-unifi-a-practical-guide-1d21)
-- [A Beginner’s Guide to Getting Started on Edges in LangGraph](https://dev.to/aiengineering/a-beginners-guide-to-getting-started-on-edges-in-langgraph-59be)
-- [AR in Banking Branches: Using Overlays to Explain Complex Financial Products](https://dev.to/prateekshaweb/ar-in-banking-branches-using-overlays-to-explain-complex-financial-products-4mpc)
-- [🚀 My First Dev Community Post: Growing as a Java &amp; Spring Boot Engineer](https://dev.to/dipak491/my-first-dev-community-post-growing-as-a-java-spring-boot-engineer-54dj)
+- [Stopping Bots in Action: SafeLine WAF Real-World Traffic Case Study](https://dev.to/arina_cholee/stopping-bots-in-action-safeline-waf-real-world-traffic-case-study-120c)
+- [The Engineering Challenge of &quot;Value&quot;: Building a Real-Time Fantasy Football Trade Engine](https://dev.to/ffteamnames/the-engineering-challenge-of-value-building-a-real-time-fantasy-football-trade-engine-2pp9)
+- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
+- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
 <!-- BLOG-POST-LIST:END -->
 
 
