@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure LangChain Agents with Cryptographic Signatures &lpar;Tutorial&rpar;](https://dev.to/faalantir/how-to-secure-langchain-agents-with-cryptographic-signatures-tutorial-44ee)
-- [[Boost]](https://dev.to/jaycodist/-2obi)
-- [**The Dark Side of Innovation: James Cameron&#39;s Concerns about Generative AI**](https://dev.to/yagyaraj_sharma_6cd410179/the-dark-side-of-innovation-james-camerons-concerns-about-generative-ai-b01)
-- [**Cyber Monday Deals: Last Chance to Save on Top Tech and Electronics**](https://dev.to/yagyaraj_sharma_6cd410179/cyber-monday-deals-last-chance-to-save-on-top-tech-and-electronics-3opd)
+- [Avoid the Temptation of Header-Only Libraries](https://dev.to/pauljlucas/avoid-the-temptation-of-header-only-libraries-33an)
+- [Adaptive Gripping: Bridging the Dexterity Gap in Robotics](https://dev.to/arvind_sundararajan/adaptive-gripping-bridging-the-dexterity-gap-in-robotics-2im1)
+- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
+- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
 <!-- BLOG-POST-LIST:END -->
 
 
