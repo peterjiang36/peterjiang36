@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EKS Capabilities: Quick Summary](https://dev.to/aws-builders/amazon-eks-capabilities-quick-summary-1po7)
-- [Diário Dev #6: Persistência, pausas e revisitar ideias no desenvolvimento](https://dev.to/andersonvnieves/diario-dev-6-persistencia-pausas-e-revisitar-ideias-no-desenvolvimento-3bmj)
-- [Building a Responsive Interface with Kiro: My first hackathon project](https://dev.to/meds/building-a-responsive-interface-with-kiro-my-first-hackathon-project-20l1)
-- [Why Angular ARIA in v21 is pretty neat](https://dev.to/lxt/why-angular-aria-in-v21-is-pretty-neat-1652)
+- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
+- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
+- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
+- [Google Antigravity: An Overview, Architecture, and Core Differentiators](https://dev.to/isaac29/google-antigravity-an-overview-architecture-and-core-differentiators-126e)
 <!-- BLOG-POST-LIST:END -->
 
 
