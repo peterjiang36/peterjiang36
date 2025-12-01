@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
-- [How to Add Feature Flags to Your App in 5 Minutes](https://dev.to/indienow/how-to-add-feature-flags-to-your-app-in-5-minutes-13b5)
-- [3D-Agent and Blender-MCP: Both Amazing Blender AI Tools](https://dev.to/glglgl/3d-agent-and-blender-mcp-both-amazing-blender-ai-tools-4o7n)
-- [Building a Robust Bonus Engine in Go: Mastering Accrual, Wager, and Compliance](https://dev.to/4mars/building-a-robust-bonus-engine-in-go-mastering-accrual-wager-and-compliance-3i9h)
+- [XRPL Programmability: WASM Runtime Revisit](https://dev.to/ripplexdev/xrpl-programmability-wasm-runtime-revisit-2ak0)
+- [How To Categorize Your Tests in Playwright using Tags to Make Your Testing Suite Less Terrible](https://dev.to/arvind_mehairjan/how-to-categorize-your-tests-in-playwright-using-tags-to-make-your-testing-suite-less-terrible-4b5p)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-301j)
+- [ConectaBairro: AI-Powered Cross-Platform Community App for Brazilian Social Impact](https://dev.to/paulo_abbcba03b4df70572fc/conectabairro-ai-powered-cross-platform-community-app-for-brazilian-social-impact-191c)
 <!-- BLOG-POST-LIST:END -->
 
 
