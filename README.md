@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First Remote MCP Server on Cloudflare Workers](https://dev.to/augusto_joaquinriveramu/build-your-first-remote-mcp-server-on-cloudflare-workers-2nio)
-- [Monetzly: Boost Developer Revenue with AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-boost-developer-revenue-with-ai-monetization-for-llm-apps-5b3i)
-- [How can business development be independent of frameworks](https://dev.to/canonical/how-can-business-development-be-independent-of-frameworks-225d)
-- [C Programming Language: The Foundation of Modern Software Development](https://dev.to/farhadrahimiklie/c-programming-language-the-foundation-of-modern-software-development-b18)
+- [Best SQLite Solutions for React Native App Development in 2026](https://dev.to/eira-wexford/best-sqlite-solutions-for-react-native-app-development-in-2026-3b5l)
+- [Music Monday &lpar;Last song you listened to?&rpar;](https://dev.to/musicforem/music-monday-last-song-you-listened-to-3768)
+- [The Hardest Lesson I Learned Migrating Yet Another Legacy Codebase](https://dev.to/canro91/the-hardest-lesson-i-learned-migrating-yet-another-legacy-codebase-j3o)
+- [Hello, My name is YOEUNG YENG. I&#39;m from Cambodia.](https://dev.to/yoeungyeng/hello-my-name-is-yoeung-yeng-im-from-cambodia-1f0g)
 <!-- BLOG-POST-LIST:END -->
 
 
