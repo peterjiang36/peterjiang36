@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-442l)
-- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
-- [Gateway Endpoints vs Interface Endpoints: What’s the Difference?](https://dev.to/irfansatrio/gateway-endpoints-vs-interface-endpoints-whats-the-difference-10kh)
-- [The Most Underrated Developer Tool Isn&#39;t GitHub Copilot, It&#39;s The Sun](https://dev.to/elevenapril/the-most-underrated-developer-tool-isnt-github-copilot-its-the-sun-ghk)
+- [Who Needs CSP?](https://dev.to/micmath/who-needs-csp-1dmb)
+- [New version 3.2.1
+
+https://github.com/hmpl-language/hmpl/releases/tag/3.2.1](https://dev.to/anthonymax/new-version-321httpsgithubcomhmpl-languagehmplreleasestag321-2d4n)
+- [How I built a free AI Video Watermark Remover using React &amp; Firebase](https://dev.to/renming_wang_99a0c6efbd56/how-i-built-a-free-ai-video-watermark-remover-using-react-firebase-5efi)
+- [101 ana ucuz](https://dev.to/alsafari_tours_17a74bc8ab/101-ana-ucuz-emn)
 <!-- BLOG-POST-LIST:END -->
 
 
