@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Shamba-MedCare &lpar;And What I Learned About Solving Real Problems&rpar;](https://dev.to/nicanor_korir/why-i-built-shamba-medcare-and-what-i-learned-about-solving-real-problems-425g)
-- [Issue #6: Blockchain Consensus Algorithms](https://dev.to/js_cipher/issue-6-blockchain-consensus-algorithms-545)
-- [Let&#39;s Stop Overprotecting Confidential Information](https://dev.to/stakiran/lets-stop-overprotecting-confidential-information-1m0l)
-- [Herança](https://dev.to/joaopedrov0/heranca-2pna)
+- [Amazon EKS Capabilities: Quick Summary](https://dev.to/aws-builders/amazon-eks-capabilities-quick-summary-1po7)
+- [Diário Dev #6: Persistência, pausas e revisitar ideias no desenvolvimento](https://dev.to/andersonvnieves/diario-dev-6-persistencia-pausas-e-revisitar-ideias-no-desenvolvimento-3bmj)
+- [Building a Responsive Interface with Kiro: My first hackathon project](https://dev.to/meds/building-a-responsive-interface-with-kiro-my-first-hackathon-project-20l1)
+- [Why Angular ARIA in v21 is pretty neat](https://dev.to/lxt/why-angular-aria-in-v21-is-pretty-neat-1652)
 <!-- BLOG-POST-LIST:END -->
 
 
