@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Really Measure AI Agent Performance &lpar;and ROI&rpar;](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo)
-- [Agentic AI in Software Development: Revolutionizing Coding](https://dev.to/champsoft/agentic-ai-in-software-development-revolutionizing-coding-1njn)
-- [70% of Vulnerabilities Are Memory Bugs. Here&#39;s How We Instrumented Everything.](https://dev.to/hofong428/70-of-vulnerabilities-are-memory-bugs-heres-how-we-instrumented-everything-28fk)
+- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
+- [Stop wrapping your RabbitMQ code in runBlocking](https://dev.to/nathanfallet/stop-wrapping-your-rabbitmq-code-in-runblocking-18c2)
+- [Hashicorp Vault: An Inquiry into the Nature of Tokens](https://dev.to/admantium/hashicorp-vault-an-inquiry-into-the-nature-of-tokens-ao5)
+- [Your Full-Stack Roadmap is a Trap. Here&#39;s The AI-First Path.](https://dev.to/thinkaddict/your-full-stack-roadmap-is-a-trap-heres-the-ai-first-path-4bcn)
 <!-- BLOG-POST-LIST:END -->
 
 
