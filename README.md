@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
-- [A step-by-step guide to fine-tuning MedGemma for breast tumor classification](https://dev.to/googleai/a-step-by-step-guide-to-fine-tuning-medgemma-for-breast-tumor-classification-35af)
-- [A Natural Language Interface for Datadog Log Search](https://dev.to/carolemlago/a-natural-language-interface-for-datadog-log-search-4occ)
-- [Introducing RE_VAULT: My Public Archive of Reverse Engineering Projects](https://dev.to/0x57origin/introducing-revault-my-public-archive-of-reverse-engineering-projects-3a8b)
+- [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
+- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-32e2)
+- [Oracle APEX &lpar;Rest Integration Code Snippets&rpar;](https://dev.to/rajesh_vohra_e75f579b7888/oracle-apex-rest-integration-code-snippets-20gi)
+- [AI NECROMANCER](https://dev.to/v_a_ed26d9e7261ee287182/ai-necromancer-1lbp)
 <!-- BLOG-POST-LIST:END -->
 
 
