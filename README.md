@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Ghostable &amp; Finding Ideas by Listening Well](https://dev.to/joerucci/building-ghostable-finding-ideas-by-listening-well-2h7j)
-- [Mocking, Stubbing, Spying, and Faking in PHP: A Practical Guide &lpar;with Sandbox Example&rpar;](https://dev.to/codecraft_diary_3d13677fb/mocking-stubbing-spying-and-faking-in-php-a-practical-guide-with-sandbox-example-d39)
-- [Use Local LLMs to Eliminate Little Annoying Tasks](https://dev.to/seenasabti/how-i-use-local-llms-to-eliminate-the-little-annoying-tasks-46f3)
-- [I&#39;m-poster](https://dev.to/subucodes/im-poster-12pi)
+- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
+- [A step-by-step guide to fine-tuning MedGemma for breast tumor classification](https://dev.to/googleai/a-step-by-step-guide-to-fine-tuning-medgemma-for-breast-tumor-classification-35af)
+- [A Natural Language Interface for Datadog Log Search](https://dev.to/carolemlago/a-natural-language-interface-for-datadog-log-search-4occ)
+- [Introducing RE_VAULT: My Public Archive of Reverse Engineering Projects](https://dev.to/0x57origin/introducing-revault-my-public-archive-of-reverse-engineering-projects-3a8b)
 <!-- BLOG-POST-LIST:END -->
 
 
