@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
-- [Meet Bumblebee: Agentic AI Flagging Risky Merchants in Under 90 Seconds](https://dev.to/razorpaytech/meet-bumblebee-agentic-ai-flagging-risky-merchants-in-under-90-seconds-2nlf)
-- [Businesses Are Winning with Gen AI: 13 Generative AI Use Cases That Actually Work](https://dev.to/infutrix/businesses-are-winning-with-gen-ai-13-generative-ai-use-cases-that-actually-work-4cb9)
-- [Copy and Paste on Proxmox VM](https://dev.to/woovi/copy-and-paste-on-proxmox-vm-15il)
+- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
+- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
+- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
+- [AI Regulation News Today: Global &amp; U.S. Policy Updates](https://dev.to/techdecodedly/ai-regulation-news-today-global-us-policy-updates-3dcf)
 <!-- BLOG-POST-LIST:END -->
 
 
