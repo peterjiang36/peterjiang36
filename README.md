@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
-- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-2al5)
-- [From Ruby OOP to Elixir Functional by Example](https://dev.to/hungle00/from-ruby-oop-to-elixir-functional-11mp)
-- [Think Like HATEOAS: How Agentic RAG Dynamically Navigates Knowledge](https://dev.to/sreeni5018/think-like-hateoas-how-agentic-rag-dynamically-navigates-knowledge-2n63)
+- [Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently](https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6)
+- [re:Invent2025ライブストリーミングを楽しもう](https://dev.to/aws-builders/reinvent2025raibusutorimingunole-simifang-2an8)
+- [🚀Building Your First MCP Server: A Complete Guide](https://dev.to/diegocastillo12/building-your-first-mcp-server-a-complete-guide-4m7d)
+- [Why JavaScript Is More Important Than Ever in Today’s Development World](https://dev.to/muhammadrameez/why-javascript-is-more-important-than-ever-in-todays-development-world-4i5h)
 <!-- BLOG-POST-LIST:END -->
 
 
