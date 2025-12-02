@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
-- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
-- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
-- [AI Regulation News Today: Global &amp; U.S. Policy Updates](https://dev.to/techdecodedly/ai-regulation-news-today-global-us-policy-updates-3dcf)
+- [Building Production RAG Systems in Days, Not Weeks: Introducing ShinRAG](https://dev.to/johnnykod/building-production-rag-systems-in-days-not-weeks-introducing-shinrag-2e9l)
+- [Enterprise DAL Final: Automated User Auditing and Architectural Retrospective](https://dev.to/gigaherz/enterprise-dal-final-automated-user-auditing-and-architectural-retrospective-3jpc)
+- [How Quesby Handles SEO &lpar;Without Plugins, Frameworks, or Runtime Code&rpar;](https://dev.to/quesby/how-quesby-handles-seo-without-plugins-frameworks-or-runtime-code-251)
+- [Building Intelligent AI Agents with MongoDB Atlas: A Bidirectional Data Flow Architecture](https://dev.to/pash10g/building-intelligent-ai-agents-with-mongodb-atlas-a-bidirectional-data-flow-architecture-2obl)
 <!-- BLOG-POST-LIST:END -->
 
 
