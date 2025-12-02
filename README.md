@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI](https://dev.to/nickytonline/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp)
-- [Building a Practical A2A Protocol for Multi-Agent Supply Chain Intelligence](https://dev.to/supplygraphai/building-a-practical-a2a-protocol-for-multi-agent-supply-chain-intelligence-1jlj)
-- [Knowledge base in AI: why Q&amp;A websites are a unique training asset](https://dev.to/answergrowth/knowledge-base-in-ai-why-qa-websites-are-a-unique-training-asset-ap0)
-- [SpaceX to Launch Mission on Falcon 9 Booster 1081](https://dev.to/theentrepreneurinsight/spacex-to-launch-mission-on-falcon-9-booster-1081-45ap)
+- [A high-performance, accessible, and SEO-optimized portfolio built with Next.js &amp; TypeScript](https://dev.to/saidmounaim/a-high-performance-accessible-and-seo-optimized-portfolio-built-with-nextjs-typescript-nm8)
+- [What is Chaos Engineering?](https://dev.to/techielass/what-is-chaos-engineering-254o)
+- [Terraform Meta-arguments](https://dev.to/nandan_007/terraform-meta-arguments-201i)
+- [One GitHub Copilot Agent Prompt for Safer Changes](https://dev.to/petermilovcik/one-github-copilot-agent-prompt-for-safer-changes-4f88)
 <!-- BLOG-POST-LIST:END -->
 
 
