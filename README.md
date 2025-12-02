@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
-- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
-- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
-- [Google Antigravity: An Overview, Architecture, and Core Differentiators](https://dev.to/isaac29/google-antigravity-an-overview-architecture-and-core-differentiators-126e)
+- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-1792)
+- [terraform advanced](https://dev.to/jumptotech/terraform-advanced-3kpe)
+- [The Passkey Revolution: Why 2025 Is the Year Passwords Finally Die](https://dev.to/deniss_semjonovs_43d2d2f3/the-passkey-revolution-why-2025-is-the-year-passwords-finally-die-1p36)
+- [AI-Powered Bot Detection Trends 2025: The Future of Web Security](https://dev.to/deniss_semjonovs_43d2d2f3/ai-powered-bot-detection-trends-2025-the-future-of-web-security-3201)
 <!-- BLOG-POST-LIST:END -->
 
 
