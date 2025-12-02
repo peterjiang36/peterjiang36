@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
-- [大模型微调：SFT](https://dev.to/aquareo/da-mo-xing-wei-diao-sft-1d54)
-- [Day-08: Meta Arguments in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-08-meta-arguments-in-terraform-4gc6)
-- [Ringer Movies: ‘Rocky II’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-rocky-ii-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-4k1a)
+- [Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI](https://dev.to/nickytonline/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp)
+- [Building a Practical A2A Protocol for Multi-Agent Supply Chain Intelligence](https://dev.to/supplygraphai/building-a-practical-a2a-protocol-for-multi-agent-supply-chain-intelligence-1jlj)
+- [Knowledge base in AI: why Q&amp;A websites are a unique training asset](https://dev.to/answergrowth/knowledge-base-in-ai-why-qa-websites-are-a-unique-training-asset-ap0)
+- [SpaceX to Launch Mission on Falcon 9 Booster 1081](https://dev.to/theentrepreneurinsight/spacex-to-launch-mission-on-falcon-9-booster-1081-45ap)
 <!-- BLOG-POST-LIST:END -->
 
 
