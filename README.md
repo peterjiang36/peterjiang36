@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Starting a Newsletter About Inclusive Android Apps](https://dev.to/eevajonnapanula/why-im-starting-a-newsletter-about-android-inclusion-1078)
-- [Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀](https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj)
-- [Inside the University Cloud: Solving Real-World Networking Challenges](https://dev.to/truenorth/inside-the-university-cloud-solving-real-world-networking-challenges-45j0)
-- [What is due diligence for IDP and why is it important?](https://dev.to/alexlipinskiwrites/what-is-due-diligence-for-idp-and-why-is-it-important-2aab)
+- [How to Deploy a Web App Using Ansible in 10 Minutes](https://dev.to/krisha_arya_55/how-to-deploy-a-web-app-using-ansible-in-10-minutes-4p1)
+- [Machine Learning Roadmap](https://dev.to/ndhanvina/machine-learning-roadmap-4d7o)
+- [Building a Full-Stack App Shouldn’t Feel Like Starting From Zero Every Time](https://dev.to/bearstudio/building-a-full-stack-app-shouldnt-feel-like-starting-from-zero-every-time-2fgn)
+- [Testing Management Tools: A Complete Comparative Guide with Real-World Examples](https://dev.to/augusto_joaquinriveramu/testing-management-tools-a-complete-comparative-guide-with-real-world-examples-24gn)
 <!-- BLOG-POST-LIST:END -->
 
 
