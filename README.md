@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production RAG Systems in Days, Not Weeks: Introducing ShinRAG](https://dev.to/johnnykod/building-production-rag-systems-in-days-not-weeks-introducing-shinrag-2e9l)
-- [Enterprise DAL Final: Automated User Auditing and Architectural Retrospective](https://dev.to/gigaherz/enterprise-dal-final-automated-user-auditing-and-architectural-retrospective-3jpc)
-- [How Quesby Handles SEO &lpar;Without Plugins, Frameworks, or Runtime Code&rpar;](https://dev.to/quesby/how-quesby-handles-seo-without-plugins-frameworks-or-runtime-code-251)
-- [Building Intelligent AI Agents with MongoDB Atlas: A Bidirectional Data Flow Architecture](https://dev.to/pash10g/building-intelligent-ai-agents-with-mongodb-atlas-a-bidirectional-data-flow-architecture-2obl)
+- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
+- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
+- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
+- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
 <!-- BLOG-POST-LIST:END -->
 
 
