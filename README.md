@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
-- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
-- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
-- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
+- [Day 2 — The Typed Letter](https://dev.to/aerabi/day-2-the-typed-letter-5clg)
+- [What will enter the public domain in 2026?](https://dev.to/technoblogger14o3/what-will-enter-the-public-domain-in-2026-3g1l)
+- [FULL REDUX INTERNAL](https://dev.to/zeeshanali0704/full-redux-internal-5a03)
+- [Barclays 26NG OA Ultimate Guide | Hard Mode Memory Manager Real Questions + Passing Tips](https://dev.to/net_programhelp_e160eef28/barclays-26ng-oa-ultimate-guide-hard-mode-memory-manager-real-questions-passing-tips-83h)
 <!-- BLOG-POST-LIST:END -->
 
 
