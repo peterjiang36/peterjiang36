@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-1792)
-- [terraform advanced](https://dev.to/jumptotech/terraform-advanced-3kpe)
-- [The Passkey Revolution: Why 2025 Is the Year Passwords Finally Die](https://dev.to/deniss_semjonovs_43d2d2f3/the-passkey-revolution-why-2025-is-the-year-passwords-finally-die-1p36)
-- [AI-Powered Bot Detection Trends 2025: The Future of Web Security](https://dev.to/deniss_semjonovs_43d2d2f3/ai-powered-bot-detection-trends-2025-the-future-of-web-security-3201)
+- [From a Single File to a Full Chrome Extension Using Kiro](https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld)
+- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p)
+- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp)
+- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
 <!-- BLOG-POST-LIST:END -->
 
 
