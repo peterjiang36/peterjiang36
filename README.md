@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Superman &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)
-- [Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)
-- [If It’s Hard to Read, It’s Hard to Build](https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg)
-- [New to Dev to community](https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g)
+- [Building Ghostable &amp; Finding Ideas by Listening Well](https://dev.to/joerucci/building-ghostable-finding-ideas-by-listening-well-2h7j)
+- [Mocking, Stubbing, Spying, and Faking in PHP: A Practical Guide &lpar;with Sandbox Example&rpar;](https://dev.to/codecraft_diary_3d13677fb/mocking-stubbing-spying-and-faking-in-php-a-practical-guide-with-sandbox-example-d39)
+- [Use Local LLMs to Eliminate Little Annoying Tasks](https://dev.to/seenasabti/how-i-use-local-llms-to-eliminate-the-little-annoying-tasks-46f3)
+- [I&#39;m-poster](https://dev.to/subucodes/im-poster-12pi)
 <!-- BLOG-POST-LIST:END -->
 
 
