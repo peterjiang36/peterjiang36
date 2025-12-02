@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a Web App Using Ansible in 10 Minutes](https://dev.to/krisha_arya_55/how-to-deploy-a-web-app-using-ansible-in-10-minutes-4p1)
-- [Machine Learning Roadmap](https://dev.to/ndhanvina/machine-learning-roadmap-4d7o)
-- [Building a Full-Stack App Shouldn’t Feel Like Starting From Zero Every Time](https://dev.to/bearstudio/building-a-full-stack-app-shouldnt-feel-like-starting-from-zero-every-time-2fgn)
-- [Testing Management Tools: A Complete Comparative Guide with Real-World Examples](https://dev.to/augusto_joaquinriveramu/testing-management-tools-a-complete-comparative-guide-with-real-world-examples-24gn)
+- [CinemaSins: Everything Wrong With Superman &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)
+- [Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)
+- [If It’s Hard to Read, It’s Hard to Build](https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg)
+- [New to Dev to community](https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g)
 <!-- BLOG-POST-LIST:END -->
 
 
