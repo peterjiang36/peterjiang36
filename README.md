@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Nano Banana Pro Workflows That Actually Save You Hours As a Developer and More](https://dev.to/nitinfab/7-nano-banana-pro-workflows-that-actually-save-you-hours-as-a-developer-and-more-17bj)
-- [The Hidden Dockerfile Mistakes That Waste Hours &lpar;Thinking of Building a Tool for This&rpar;](https://dev.to/waruni_manike_30f5e1b12d9/the-hidden-dockerfile-mistakes-that-waste-hours-thinking-of-building-a-tool-for-this-2h5f)
-- [I&#39;m 19 and building ZK identity for Nostr. Looking for co-founders.](https://dev.to/o3ryan/im-19-and-building-zk-identity-for-nostr-looking-for-co-founders-4k1e)
-- [The Code Review Killer: Ditch Manual Checks with this n8n &amp; GPT Automation Guide](https://dev.to/ashikvarma11/the-code-review-killer-ditch-manual-checks-with-this-n8n-gpt-automation-guide-5g1a)
+- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
+- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-2al5)
+- [From Ruby OOP to Elixir Functional by Example](https://dev.to/hungle00/from-ruby-oop-to-elixir-functional-11mp)
+- [Think Like HATEOAS: How Agentic RAG Dynamically Navigates Knowledge](https://dev.to/sreeni5018/think-like-hateoas-how-agentic-rag-dynamically-navigates-knowledge-2n63)
 <!-- BLOG-POST-LIST:END -->
 
 
