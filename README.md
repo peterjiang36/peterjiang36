@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From a Single File to a Full Chrome Extension Using Kiro](https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld)
-- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p)
-- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp)
-- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
+- [Mastering CSS Shadows and Filters: Adding Depth and Style to Your Designs](https://dev.to/sharique_siddiqui_8242dad/mastering-css-shadows-and-filters-adding-depth-and-style-to-your-designs-4n6p)
+- [We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
+
+In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.](https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c)
+- [Highlight Multiple Languages](https://dev.to/alcb1310/highlight-multiple-languages-lim)
+- [How Career Shapes a Person](https://dev.to/mikhail_dorokhovich_bd8d4/how-career-shapes-a-person-4ak4)
 <!-- BLOG-POST-LIST:END -->
 
 
