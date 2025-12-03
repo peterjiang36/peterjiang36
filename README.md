@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Start: Eleventy Shortcodes for Responsive Images &amp; Inline SVG](https://dev.to/quesby/quick-start-eleventy-shortcodes-for-responsive-images-inline-svg-2pad)
-- [From Default to Custom: Handling Errors in Django Like a Pro](https://dev.to/guzmanojero/from-default-to-custom-handling-errors-in-django-like-a-pro-3mbb)
-- [B-Trees, Pages, and the Hidden Problems Behind Traditional Indexin](https://dev.to/lovestaco/b-trees-pages-and-the-hidden-problems-behind-traditional-indexin-75p)
-- [WooCommerce Settings Explained](https://dev.to/arsalanmeee/woocommerce-settings-explained-1ai3)
+- [🎃 Nightmellow – Built a Halloween Game With Kiro](https://dev.to/sairenbhou_bf2ef2e36fe391/nightmellow-built-a-halloween-game-with-kiro-1pn1)
+- [Task Engineering](https://dev.to/stakiran/task-engineering-2l78)
+- [Enriching Vault OIDC Tokens with SPIFFE Identity Metadata using Terraform](https://dev.to/darkedges/enriching-vault-oidc-tokens-with-spiffe-identity-metadata-using-terraform-314g)
+- [How to Create Portfolios That Work Effortlessly](https://dev.to/imtaslim/how-to-create-portfolios-that-work-effortlessly-28ec)
 <!-- BLOG-POST-LIST:END -->
 
 
