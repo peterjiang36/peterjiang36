@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Escaped the Commit-Hook Loop in My Django Project](https://dev.to/ajitkumar/how-i-escaped-the-commit-hook-loop-in-my-django-project-4om6)
-- [HTTP vs HTTPS: Why That Little Padlock Matters 🛡️](https://dev.to/shamim_hasnain_bd/http-vs-https-why-that-little-padlock-matters-5b1c)
-- [Explicit is Better Than Implicit: Mastering Pytest Fixtures and Async Testing](https://dev.to/ctrix/explicit-is-better-than-implicit-mastering-pytest-fixtures-and-async-testing-k78)
-- [Understanding Angular Signals — The Future of Reactivity in Angular](https://dev.to/hrk_0fc6396abede8e916089c/understanding-angular-signals-the-future-of-reactivity-in-angular-20dj)
+- [What Are Patterns in JDP?](https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m)
+- [Why Writing About Your Failures Helps Others Ship Faster](https://dev.to/leena_malhotra/why-writing-about-your-failures-helps-others-ship-faster-3h8)
+- [Don&#39;t let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
+- [Task Sequence for Software Development: How To Keep Remote Teams in Sync](https://dev.to/taskford/task-sequence-for-software-development-how-to-keep-remote-teams-in-sync-4p0n)
 <!-- BLOG-POST-LIST:END -->
 
 
