@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Upgrade a Tech Leader Can Ship Isn’t a Tool — It’s Teaching](https://dev.to/yaseen_tech/the-fastest-upgrade-a-tech-leader-can-ship-isnt-a-tool-its-teaching-1pj2)
-- [Finding Smarter ReportPortal Alternatives](https://dev.to/pratik01/finding-smarter-reportportal-alternatives-2kpc)
-- [AI Model Nearly Aces the Putnam: Why the Real Disruption Is How We Reason](https://dev.to/aiwithapex/ai-model-nearly-aces-the-putnam-why-the-real-disruption-is-how-we-reason-l88)
-- [The Secret Life of Python: super&lpar;&rpar; and the Method Resolution Order](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-super-and-the-method-resolution-order-1jdg)
+- [30 HTML Form Attributes You’re Not Using &lpar;But Should&rpar;](https://dev.to/web_dev-usman/30-html-form-attributes-youre-not-using-but-should-380b)
+- [The Context-Switching Problem: Why I Built a Tracker That Lives in My Terminal.](https://dev.to/tejas1233/the-context-switching-problem-why-i-built-a-tracker-that-lives-in-my-terminal-4dpe)
+- [My Journey Creating Qeltrix: A 17-Year-Old&#39;s Approach to Cryptographic Innovation](https://dev.to/hejhdiss/my-journey-creating-qeltrix-a-17-year-olds-approach-to-cryptographic-innovation-2a52)
+- [Barefoot Shoes: Benefits, Design, and Why They Are Becoming Popular](https://dev.to/bisma_hassan_975343413bb2/barefoot-shoes-benefits-design-and-why-they-are-becoming-popular-4l13)
 <!-- BLOG-POST-LIST:END -->
 
 
