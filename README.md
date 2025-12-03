@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀](https://dev.to/supraja_tangella_b7f0738e/-4m1f)
-- [Top 3 Gifts for That One Friend Who Won’t Shut Up About Crypto 🎁🚀](https://dev.to/tanelith/top-3-gifts-for-that-one-friend-who-wont-shut-up-about-crypto-1jmo)
-- [Best Backend Frameworks for Building Fast, Scalable Web Apps](https://dev.to/quokka_labs/best-backend-frameworks-for-building-fast-scalable-web-apps-4n52)
-- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-47dm)
+- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
+- [Anthropic Just Bought Bun.js. Here&#39;s what it means.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
+- [Best SERP API Comparison 2025: SerpAPI vs Exa vs Tavily vs ScrapingDog vs ScrapingBee](https://dev.to/ritzaco/best-serp-api-comparison-2025-serpapi-vs-exa-vs-tavily-vs-scrapingdog-vs-scrapingbee-2jci)
+- [Before You Learn a Framework, Master the Web: HTML, CSS, and Accessibility Essentials](https://dev.to/princekukreja/before-you-learn-a-framework-master-the-web-html-css-and-accessibility-essentials-38ml)
 <!-- BLOG-POST-LIST:END -->
 
 
