@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Accuracy Lies — The Metrics That Actually Matter &lpar;Part 4&rpar;](https://dev.to/ashish_ghadigaonkar_/why-accuracy-lies-the-metrics-that-actually-matter-part-4-23pe)
-- [How We Build a Tier-10 Global Supply Graph](https://dev.to/supplygraphai/how-we-build-a-tier-10-global-supply-graph-3bgf)
-- [Lesson 30: Conclusion and Continuous Learning](https://dev.to/henry_lin_3ac6363747f45b4/lesson-30-conclusion-and-continuous-learning-3h8h)
-- [第 30 课：总结与持续学习](https://dev.to/henry_lin_3ac6363747f45b4/di-30-ke-zong-jie-yu-chi-xu-xue-xi-3j3i)
+- [Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation](https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27)
+- [Agents, Not Browsers: You Will be Living in the Post-Visual, Post-Matrix Future](https://dev.to/stonesgate/agents-not-browsers-you-will-be-living-in-the-post-visual-post-matrix-future-4gei)
+- [Why Top AI Apps Convert at 12% While Most Struggle at 2%](https://dev.to/paywallpro/why-top-ai-apps-convert-at-12-while-most-struggle-at-2-7j)
+- [AWS + Google Cloud: A Step Toward True Multicloud—or Just a Convenient Patch?](https://dev.to/vamartinez/aws-google-cloud-a-step-toward-true-multicloud-or-just-a-convenient-patch-578k)
 <!-- BLOG-POST-LIST:END -->
 
 
