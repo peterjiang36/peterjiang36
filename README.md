@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎃 Nightmellow – Built a Halloween Game With Kiro](https://dev.to/sairenbhou_bf2ef2e36fe391/nightmellow-built-a-halloween-game-with-kiro-1pn1)
-- [Task Engineering](https://dev.to/stakiran/task-engineering-2l78)
-- [Enriching Vault OIDC Tokens with SPIFFE Identity Metadata using Terraform](https://dev.to/darkedges/enriching-vault-oidc-tokens-with-spiffe-identity-metadata-using-terraform-314g)
-- [How to Create Portfolios That Work Effortlessly](https://dev.to/imtaslim/how-to-create-portfolios-that-work-effortlessly-28ec)
+- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
+- [From Continuous Inspection Back to Continuous Integration: Amplify Your Development Teams](https://dev.to/leonpennings/from-continuous-inspection-back-to-continuous-integration-amplify-your-development-teams-2j6d)
+- [Running on Code &amp; Coffee](https://dev.to/imsuku/running-on-code-coffee-145g)
+- [step2](https://dev.to/query_filter_591122b53770/step2-pa1)
 <!-- BLOG-POST-LIST:END -->
 
 
