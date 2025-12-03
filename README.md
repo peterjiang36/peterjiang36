@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Funmilola shoroye](https://dev.to/shoroye_funmilola_38e44ce/funmilola-shoroye-364i)
-- [Unlocking Time&#39;s Secrets: Temporal Pattern Recognition for System Anomaly Detection by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-times-secrets-temporal-pattern-recognition-for-system-anomaly-detection-by-arvind-4a5h)
-- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g)
-- [🚀 The Essential Patterns Behind Modern AI Agents](https://dev.to/joedev090/the-essential-patterns-behind-modern-ai-agents-43j2)
+- [SwiftUI Performance Optimization — Smooth UIs, Less Recomputing](https://dev.to/sebastienlato/swiftui-performance-optimization-smooth-uis-less-recomputing-422k)
+- [open-source non-caching web proxy - Privoxy](https://dev.to/kingyou/open-source-non-caching-web-proxy-privoxy-4bin)
+- [Product Market Fit in the Age of Instant Prototypes](https://dev.to/jaideepparashar/product-market-fit-in-the-age-of-instant-prototypes-3iac)
+- [Huge RAM Price Surge in 2025: 163-275% and more...](https://dev.to/rosgluk/huge-ram-price-surge-in-2025-163-275-and-more-55ne)
 <!-- BLOG-POST-LIST:END -->
 
 
