@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Smart Kitchen Organization Can Inspire Developer Productivity](https://dev.to/anthony_mark_2f0128c14bba/how-smart-kitchen-organization-can-inspire-developer-productivity-14an)
-- [How Developers Can Boost Productivity with the Right Tools](https://dev.to/ethan_chase_83bddbb637304/how-developers-can-boost-productivity-with-the-right-tools-1a17)
-- [Beyond Chatbots: My First Steps into the World of AI Agents](https://dev.to/md_shahariarsiam_c9380d/beyond-chatbots-my-first-steps-into-the-world-of-ai-agents-2i80)
-- [create12](https://dev.to/query_filter_591122b53770/create12-3dko)
+- [Logs de Aplicações Java: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-java-motivacoes-e-melhores-praticas-de-utilizacao-47ma)
+- [Custom Domain Emails for free](https://dev.to/evgenii_zinner/custom-domain-emails-for-free-6o5)
+- [Chunking and Segmentation: The Quiet Failure Point in Retrieval Quality](https://dev.to/dowhatmatters/chunking-and-segmentation-the-quiet-failure-point-in-retrieval-quality-o8a)
+- [Founders &amp; Indie Hackers: Stop Putting All Your MVP Content in a Database](https://dev.to/kouliavtsev/founders-indie-hackers-stop-putting-all-your-mvp-content-in-a-database-479e)
 <!-- BLOG-POST-LIST:END -->
 
 
