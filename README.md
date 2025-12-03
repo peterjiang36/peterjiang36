@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring What Matters: Objective Metrics for Image Generation Assessment](https://dev.to/pruna-ai/measuring-what-matters-objective-metrics-for-image-generation-assessment-4a69)
-- [A practical guide to observability TCO and cost reduction](https://dev.to/zenithai/a-practical-guide-to-observability-tco-and-cost-reduction-1hhj)
-- [DEV&#39;s Worldwide Show and Tell Challenge Presented by Mux: Pitch Your Projects! $3,000 in Prizes. 🎥](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7)
-- [I was in discussion with an old client last week for a new project, here&#39;s how we decide whether to build a mobile app or a web app!](https://dev.to/arximughal/i-was-in-discussion-with-an-old-client-last-week-for-a-new-project-heres-how-we-decide-whether-to-30ik)
+- [Quick Start: Eleventy Shortcodes for Responsive Images &amp; Inline SVG](https://dev.to/quesby/quick-start-eleventy-shortcodes-for-responsive-images-inline-svg-2pad)
+- [From Default to Custom: Handling Errors in Django Like a Pro](https://dev.to/guzmanojero/from-default-to-custom-handling-errors-in-django-like-a-pro-3mbb)
+- [B-Trees, Pages, and the Hidden Problems Behind Traditional Indexin](https://dev.to/lovestaco/b-trees-pages-and-the-hidden-problems-behind-traditional-indexin-75p)
+- [WooCommerce Settings Explained](https://dev.to/arsalanmeee/woocommerce-settings-explained-1ai3)
 <!-- BLOG-POST-LIST:END -->
 
 
