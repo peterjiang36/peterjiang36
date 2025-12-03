@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Replay Model: How AWS Lambda Durable Functions Actually Work](https://dev.to/edjgeek/the-replay-model-how-aws-lambda-durable-functions-actually-work-2a79)
-- [Automatically Merge Dependabot Patch Updates with GitHub Actions](https://dev.to/hidev1977/automatically-merge-dependabot-patch-updates-with-github-actions-316g)
-- [Extensible Design of Backend Service Functions from the Perspective of Reversible Computation](https://dev.to/canonical/extensible-design-of-backend-service-functions-from-the-perspective-of-reversible-computation-5ffe)
-- [Fixing &quot;Network Request Failed&quot; in React Native: The localhost Problem](https://dev.to/cathylai/fixing-network-request-failed-in-react-native-the-localhost-problem-7dg)
+- [Funmilola shoroye](https://dev.to/shoroye_funmilola_38e44ce/funmilola-shoroye-364i)
+- [Unlocking Time&#39;s Secrets: Temporal Pattern Recognition for System Anomaly Detection by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-times-secrets-temporal-pattern-recognition-for-system-anomaly-detection-by-arvind-4a5h)
+- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g)
+- [🚀 The Essential Patterns Behind Modern AI Agents](https://dev.to/joedev090/the-essential-patterns-behind-modern-ai-agents-43j2)
 <!-- BLOG-POST-LIST:END -->
 
 
