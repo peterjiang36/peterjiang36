@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v354](https://dev.to/devteam/welcome-thread-v354-ccj)
-- [Why AI Won&#39;t Take our Coding Job: A Future Where Engineers and AI Thrive Together!](https://dev.to/knitex/why-ai-wont-take-our-coding-job-a-future-where-engineers-and-ai-thrive-together-18ib)
-- [Don&#39;t Learn Prompt Engineering. Here&#39;s What Matters More](https://dev.to/canro91/dont-learn-prompt-engineering-heres-what-matters-more-52cd)
-- [Building a Horror Game in 8 Hours with Kiro AI - My Kiroween Hackathon Journey](https://dev.to/masihmoafi/building-a-horror-game-in-8-hours-with-kiro-ai-my-kiroween-hackathon-journey-5cjp)
+- [The Fastest Upgrade a Tech Leader Can Ship Isn’t a Tool — It’s Teaching](https://dev.to/yaseen_tech/the-fastest-upgrade-a-tech-leader-can-ship-isnt-a-tool-its-teaching-1pj2)
+- [Finding Smarter ReportPortal Alternatives](https://dev.to/pratik01/finding-smarter-reportportal-alternatives-2kpc)
+- [AI Model Nearly Aces the Putnam: Why the Real Disruption Is How We Reason](https://dev.to/aiwithapex/ai-model-nearly-aces-the-putnam-why-the-real-disruption-is-how-we-reason-l88)
+- [The Secret Life of Python: super&lpar;&rpar; and the Method Resolution Order](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-super-and-the-method-resolution-order-1jdg)
 <!-- BLOG-POST-LIST:END -->
 
 
