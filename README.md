@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
-- [Anthropic Just Bought Bun.js. Here&#39;s what it means.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
-- [Best SERP API Comparison 2025: SerpAPI vs Exa vs Tavily vs ScrapingDog vs ScrapingBee](https://dev.to/ritzaco/best-serp-api-comparison-2025-serpapi-vs-exa-vs-tavily-vs-scrapingdog-vs-scrapingbee-2jci)
-- [Before You Learn a Framework, Master the Web: HTML, CSS, and Accessibility Essentials](https://dev.to/princekukreja/before-you-learn-a-framework-master-the-web-html-css-and-accessibility-essentials-38ml)
+- [🕒 Contest Clocker – Never Miss a Coding Contest Again 🚀](https://dev.to/aakash_kumar_208c122ebbba/contest-clocker-never-miss-a-coding-contest-again-54ic)
+- [Stormkit v1.25.0 is out 🚀
+
+New feature: User sign-up management. Admins can now enable/disable new sign-ups or set approval mode to moderate registrations.
+
+Read more: https://www.stormkit.io/docs/self-hosting/managing-users](https://dev.to/svedova/stormkit-v1250-is-out-new-feature-user-sign-up-management-admins-can-now-enabledisable-186j)
+- [I created GoalHappy, the simplest task manager for developers](https://dev.to/rehmatworks/i-created-goalhappy-the-simplest-task-manager-for-developers-3ngj)
+- [Is SQL Injection dead in 2025? Finding Critical Bugs in Item Pagination](https://dev.to/icyyy/is-sql-injection-dead-in-2025-finding-critical-bugs-in-item-pagination-1f6a)
 <!-- BLOG-POST-LIST:END -->
 
 
