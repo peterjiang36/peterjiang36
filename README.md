@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the 10AS016E4F27E3SG: Powerhouse Arria 10 SoC FPGA for Edge AI and Industrial Automation](https://dev.to/xecor_company/decoding-the-10as016e4f27e3sg-powerhouse-arria-10-soc-fpga-for-edge-ai-and-industrial-automation-3o27)
-- [Agents, Not Browsers: You Will be Living in the Post-Visual, Post-Matrix Future](https://dev.to/stonesgate/agents-not-browsers-you-will-be-living-in-the-post-visual-post-matrix-future-4gei)
-- [Why Top AI Apps Convert at 12% While Most Struggle at 2%](https://dev.to/paywallpro/why-top-ai-apps-convert-at-12-while-most-struggle-at-2-7j)
-- [AWS + Google Cloud: A Step Toward True Multicloud—or Just a Convenient Patch?](https://dev.to/vamartinez/aws-google-cloud-a-step-toward-true-multicloud-or-just-a-convenient-patch-578k)
+- [Welcome Thread - v354](https://dev.to/devteam/welcome-thread-v354-ccj)
+- [Why AI Won&#39;t Take our Coding Job: A Future Where Engineers and AI Thrive Together!](https://dev.to/knitex/why-ai-wont-take-our-coding-job-a-future-where-engineers-and-ai-thrive-together-18ib)
+- [Don&#39;t Learn Prompt Engineering. Here&#39;s What Matters More](https://dev.to/canro91/dont-learn-prompt-engineering-heres-what-matters-more-52cd)
+- [Building a Horror Game in 8 Hours with Kiro AI - My Kiroween Hackathon Journey](https://dev.to/masihmoafi/building-a-horror-game-in-8-hours-with-kiro-ai-my-kiroween-hackathon-journey-5cjp)
 <!-- BLOG-POST-LIST:END -->
 
 
