@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [30 HTML Form Attributes You’re Not Using &lpar;But Should&rpar;](https://dev.to/web_dev-usman/30-html-form-attributes-youre-not-using-but-should-380b)
-- [The Context-Switching Problem: Why I Built a Tracker That Lives in My Terminal.](https://dev.to/tejas1233/the-context-switching-problem-why-i-built-a-tracker-that-lives-in-my-terminal-4dpe)
-- [My Journey Creating Qeltrix: A 17-Year-Old&#39;s Approach to Cryptographic Innovation](https://dev.to/hejhdiss/my-journey-creating-qeltrix-a-17-year-olds-approach-to-cryptographic-innovation-2a52)
-- [Barefoot Shoes: Benefits, Design, and Why They Are Becoming Popular](https://dev.to/bisma_hassan_975343413bb2/barefoot-shoes-benefits-design-and-why-they-are-becoming-popular-4l13)
+- [TCS CodeVita Experience](https://dev.to/harshku007/tcs-codevita-experience-40gi)
+- [How to create Microsoft OAuth2 API](https://dev.to/codebangkok/how-to-create-microsoft-oauth2-api-38g1)
+- [GlassiFy: Liquid Glass JavaScript Library with Dynamic Displacement](https://dev.to/jqueryscript/glassify-liquid-glass-javascript-library-with-dynamic-displacement-4oa5)
+- [I Asked Claude to Create a Memory Leak in a Task and It Failed](https://dev.to/artozf38bc119d5/i-asked-claude-to-create-a-memory-leak-in-a-task-and-it-failed-4gmg)
 <!-- BLOG-POST-LIST:END -->
 
 
