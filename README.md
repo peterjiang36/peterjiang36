@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [South Africa vs Nigeria vs Kenya: The Battle to Become Africa&#39;s Crypto Capital](https://dev.to/dhis_is_jj/south-africa-vs-nigeria-vs-kenya-the-battle-to-become-africas-crypto-capital-11cd)
-- [The Now Go Build Award: Celebrating Global Builders Who Inspire the AWS Community](https://dev.to/kakacomputer/the-now-go-build-award-celebrating-global-builders-who-inspire-the-aws-community-35m4)
-- [Evolution of Agentic AI C/O Amazon Quick suite](https://dev.to/sudoconsultants/evolution-of-agentic-ai-co-amazon-quick-suite-2c82)
-- [The Invisible Jury](https://dev.to/rawveg/the-invisible-jury-4bml)
+- [𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀](https://dev.to/supraja_tangella_b7f0738e/-4m1f)
+- [Top 3 Gifts for That One Friend Who Won’t Shut Up About Crypto 🎁🚀](https://dev.to/tanelith/top-3-gifts-for-that-one-friend-who-wont-shut-up-about-crypto-1jmo)
+- [Best Backend Frameworks for Building Fast, Scalable Web Apps](https://dev.to/quokka_labs/best-backend-frameworks-for-building-fast-scalable-web-apps-4n52)
+- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-47dm)
 <!-- BLOG-POST-LIST:END -->
 
 
