@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Respiration](https://dev.to/pascal_cescato_692b7a8a20/respiration-1l86)
-- [Day 10— Terraform Conditional Expressions, Dynamic Blocks and Splat Expressions](https://dev.to/anil_kumar_noolu/day-10-terraform-conditional-expressions-dynamic-blocks-and-splat-expressions-b20)
-- [Build a Vision AI Agent with Gemini 3 in &lt; 3 Minutes](https://dev.to/getstreamhq/build-a-vision-ai-agent-with-gemini-3-in-3-minutes-4omh)
-- [How Excel Improves Data Accuracy and Reduces Business Errors](https://dev.to/lydss/how-excel-improves-data-accuracy-and-reduces-business-errors-48fn)
+- [Measuring What Matters: Objective Metrics for Image Generation Assessment](https://dev.to/pruna-ai/measuring-what-matters-objective-metrics-for-image-generation-assessment-4a69)
+- [A practical guide to observability TCO and cost reduction](https://dev.to/zenithai/a-practical-guide-to-observability-tco-and-cost-reduction-1hhj)
+- [DEV&#39;s Worldwide Show and Tell Challenge Presented by Mux: Pitch Your Projects! $3,000 in Prizes. 🎥](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7)
+- [I was in discussion with an old client last week for a new project, here&#39;s how we decide whether to build a mobile app or a web app!](https://dev.to/arximughal/i-was-in-discussion-with-an-old-client-last-week-for-a-new-project-heres-how-we-decide-whether-to-30ik)
 <!-- BLOG-POST-LIST:END -->
 
 
