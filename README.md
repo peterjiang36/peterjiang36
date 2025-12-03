@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-10: Conditional expressions, Dynamic blocks, Splat expressions in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-10-conditional-expressions-dynamic-blocks-splat-expressions-in-terraform-4j0c)
-- [EZ Mother Devlog #5](https://dev.to/longchau/ez-mother-devlog-5-39m2)
-- [Building a &quot;Fortress&quot; Kubernetes Cluster: Talos Linux, Proxmox, and Network Isolation](https://dev.to/jorisvilardell/building-a-fortress-kubernetes-cluster-talos-linux-proxmox-and-network-isolation-1p4g)
-- [Hello DEV Community! I’m Amna 👋](https://dev.to/amnawrites/hello-dev-community-im-amna-3g2e)
+- [Respiration](https://dev.to/pascal_cescato_692b7a8a20/respiration-1l86)
+- [Day 10— Terraform Conditional Expressions, Dynamic Blocks and Splat Expressions](https://dev.to/anil_kumar_noolu/day-10-terraform-conditional-expressions-dynamic-blocks-and-splat-expressions-b20)
+- [Build a Vision AI Agent with Gemini 3 in &lt; 3 Minutes](https://dev.to/getstreamhq/build-a-vision-ai-agent-with-gemini-3-in-3-minutes-4omh)
+- [How Excel Improves Data Accuracy and Reduces Business Errors](https://dev.to/lydss/how-excel-improves-data-accuracy-and-reduces-business-errors-48fn)
 <!-- BLOG-POST-LIST:END -->
 
 
