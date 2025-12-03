@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🕒 Contest Clocker – Never Miss a Coding Contest Again 🚀](https://dev.to/aakash_kumar_208c122ebbba/contest-clocker-never-miss-a-coding-contest-again-54ic)
-- [Stormkit v1.25.0 is out 🚀
-
-New feature: User sign-up management. Admins can now enable/disable new sign-ups or set approval mode to moderate registrations.
-
-Read more: https://www.stormkit.io/docs/self-hosting/managing-users](https://dev.to/svedova/stormkit-v1250-is-out-new-feature-user-sign-up-management-admins-can-now-enabledisable-186j)
-- [I created GoalHappy, the simplest task manager for developers](https://dev.to/rehmatworks/i-created-goalhappy-the-simplest-task-manager-for-developers-3ngj)
-- [Is SQL Injection dead in 2025? Finding Critical Bugs in Item Pagination](https://dev.to/icyyy/is-sql-injection-dead-in-2025-finding-critical-bugs-in-item-pagination-1f6a)
+- [Day-10: Conditional expressions, Dynamic blocks, Splat expressions in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-10-conditional-expressions-dynamic-blocks-splat-expressions-in-terraform-4j0c)
+- [EZ Mother Devlog #5](https://dev.to/longchau/ez-mother-devlog-5-39m2)
+- [Building a &quot;Fortress&quot; Kubernetes Cluster: Talos Linux, Proxmox, and Network Isolation](https://dev.to/jorisvilardell/building-a-fortress-kubernetes-cluster-talos-linux-proxmox-and-network-isolation-1p4g)
+- [Hello DEV Community! I’m Amna 👋](https://dev.to/amnawrites/hello-dev-community-im-amna-3g2e)
 <!-- BLOG-POST-LIST:END -->
 
 
