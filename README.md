@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Microsoft&#39;s Phi-3 on CPU with Rust &amp; Candle](https://dev.to/hossein-mortazavi/running-microsofts-phi-3-on-cpu-with-rust-candle-md)
-- [Enterprise Interop Made Easy: WASM Compiled Libraries for Java Developers](https://dev.to/wordsdk/enterprise-interop-made-easy-wasm-compiled-libraries-for-java-developers-19k9)
-- [Understanding Dependency Injection Lifetimes: Singleton, Scoped, and Transient](https://dev.to/outdated-dev/understanding-dependency-injection-lifetimes-singleton-scoped-and-transient-1ilb)
-- [Frontend Is dead &lpar;For those who didn’t evolve&rpar;: The 2025 survival guide](https://dev.to/neilton_rocha_dev/frontend-is-dead-for-those-who-didnt-evolve-the-2025-survival-guide-4jnb)
+- [South Africa vs Nigeria vs Kenya: The Battle to Become Africa&#39;s Crypto Capital](https://dev.to/dhis_is_jj/south-africa-vs-nigeria-vs-kenya-the-battle-to-become-africas-crypto-capital-11cd)
+- [The Now Go Build Award: Celebrating Global Builders Who Inspire the AWS Community](https://dev.to/kakacomputer/the-now-go-build-award-celebrating-global-builders-who-inspire-the-aws-community-35m4)
+- [Evolution of Agentic AI C/O Amazon Quick suite](https://dev.to/sudoconsultants/evolution-of-agentic-ai-co-amazon-quick-suite-2c82)
+- [The Invisible Jury](https://dev.to/rawveg/the-invisible-jury-4bml)
 <!-- BLOG-POST-LIST:END -->
 
 
