@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI 2025 - Day 3: Building Data Visualizations with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-1-building-data-visualizations-with-goose-g7f)
-- [How to customise the way GitHub Copilot responds](https://dev.to/mishmanners/how-to-customise-the-way-github-copilot-responds-3bp7)
-- [How the 5-Day Intensive Felt](https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh)
-- [Classic photo](https://dev.to/dhanishlass_2007_792c8706/classic-photo-33i6)
+- [I Built a Zero-Downtime Database Migration Pipeline &lpar;PostgreSQL to Aurora&rpar;](https://dev.to/mateenali66/i-built-a-zero-downtime-database-migration-pipeline-postgresql-to-aurora-1ohe)
+- [AI Challenge for Cross-Platform Apps - WOW Factor Submission](https://dev.to/akash_sharma_5e53f53dc353/ai-challenge-for-cross-platform-apps-wow-factor-submission-kdb)
+- [🌩️ Building a Haunted Weather App: A Spooky Journey into 3D Web Development](https://dev.to/alicejapan/building-a-haunted-weather-app-a-spooky-journey-into-3d-web-development-47io)
+- [Learning Reflections: 5-Day AI Agents Intensive Course with Google and Kaggle](https://dev.to/akash_sharma_5e53f53dc353/learning-reflections-5-day-ai-agents-intensive-course-with-google-and-kaggle-ej0)
 <!-- BLOG-POST-LIST:END -->
 
 
