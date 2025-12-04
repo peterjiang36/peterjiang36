@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Resurrected Legacy Code with AI: Building CodePhoenix for Kiroween](https://dev.to/prajwal_sutar_f78ecf9438e/how-i-resurrected-legacy-code-with-ai-building-codephoenix-for-kiroween-16he)
-- [CinemaSins: Everything Wrong With How to Train Your Dragon In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-how-to-train-your-dragon-in-22-minutes-or-less-422h)
-- [It’s Time To Kill Staging: The Case for Testing in Production](https://dev.to/signadot/its-time-to-kill-staging-the-case-for-testing-in-production-521a)
-- [What aspect of your app are you most proud of? What makes people say &quot;Wow&quot;?](https://dev.to/ouseph_tinu_85ff3fcbb3da1/what-aspect-of-your-app-are-you-most-proud-of-what-makes-people-say-wow-2ji9)
+- [Advent of Code 2025 - December 4th](https://dev.to/robvanderleek/advent-of-code-2025-december-4th-7ik)
+- [How and Why to Integrate Salesforce with NetSuite — A Practical Approach](https://dev.to/vladam/how-and-why-to-integrate-salesforce-with-netsuite-a-practical-approach-326n)
+- [🤖 Aplikasi Machine Learning &lpar;ML&rpar; dalam Mendesain Tata Letak Ruangan Optimal](https://dev.to/ideinterior25/aplikasi-machine-learning-ml-dalam-mendesain-tata-letak-ruangan-optimal-47nd)
+- [What I learnt in the 5-Day Gen AI Intensive Course with Google](https://dev.to/ritampal26/what-i-learnt-in-the-5-day-gen-ai-intensive-course-with-google-2akn)
 <!-- BLOG-POST-LIST:END -->
 
 
