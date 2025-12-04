@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Struggle to Flow: A New Paradigm for Success](https://dev.to/d3one/from-struggle-to-flow-a-new-paradigm-for-success-3gk2)
-- [Designing for KaiOS - Leveraging Kiro to build an app for the next billion mobile users](https://dev.to/mrmemory/designing-for-kaios-leveraging-kiro-to-build-an-app-for-the-next-billion-mobile-users-3o69)
-- [Google just made n8n look expensive 💰](https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1)
-- [Set Up Your Mac Development Environment in Minutes with Hola](https://dev.to/ratazzi/set-up-your-mac-development-environment-in-minutes-with-hola-57ab)
+- [From Coder to Co-Creator: Why Product Thinking Changes Everything](https://dev.to/shamim_hasnain_bd/from-coder-to-co-creator-why-product-thinking-changes-everything-ban)
+- [Built a React component that encrypts copied text while keeping it readable on screen](https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp)
+- [Daily Tech News Roundup - 2025-12-04](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-04-3h9i)
+- [Understanding Agents, Tools, and Workflows: My Intensive Learning Experience](https://dev.to/anam_malik_d85ef97f437a7a/understanding-agents-tools-and-workflows-my-intensive-learning-experience-5696)
 <!-- BLOG-POST-LIST:END -->
 
 
