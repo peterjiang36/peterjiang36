@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Logs de Aplicações Java: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-java-motivacoes-e-melhores-praticas-de-utilizacao-47ma)
-- [Custom Domain Emails for free](https://dev.to/evgenii_zinner/custom-domain-emails-for-free-6o5)
-- [Chunking and Segmentation: The Quiet Failure Point in Retrieval Quality](https://dev.to/dowhatmatters/chunking-and-segmentation-the-quiet-failure-point-in-retrieval-quality-o8a)
-- [Founders &amp; Indie Hackers: Stop Putting All Your MVP Content in a Database](https://dev.to/kouliavtsev/founders-indie-hackers-stop-putting-all-your-mvp-content-in-a-database-479e)
+- [✨ A New Stack — Introducing Redis Nuxt Blog: A Sci-Fi Blog Boilerplate from a Galaxy Not So Far Away](https://dev.to/melasistema/a-new-stack-introducing-redis-nuxt-blog-a-sci-fi-blog-boilerplate-from-a-galaxy-not-so-far-away-1nh8)
+- [StudyMate AI – Your Personal AI Study Assistant for Smarter Learning](https://dev.to/studymate/studymate-ai-your-personal-ai-study-assistant-for-smarter-learning-1h6k)
+- [How Database-Driven Kubernetes Automation Actually Works](https://dev.to/selenehyun/how-database-driven-kubernetes-automation-actually-works-242i)
+- [Mastering AI Agents: Lessons from the Google x Kaggle Intensive &amp; My Capstone](https://dev.to/syafiqfirdaus/mastering-ai-agents-lessons-from-the-google-x-kaggle-intensive-my-capstone-537e)
 <!-- BLOG-POST-LIST:END -->
 
 
