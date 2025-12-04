@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: Doing GROUP BY in CsvPath](https://dev.to/david_kershaw_b6916404da6/sql-doing-group-by-in-csvpath-2ff1)
-- [Construyendo un Servidor MCP: Conectando Claude y VSCode a Herramientas Externas](https://dev.to/renzo_fernandoloyolavil/building-an-mcp-server-connecting-claude-and-vscode-to-external-tools-1g4c)
-- [Day 3: Multi-Agent Systems - The Supervisor Pattern](https://dev.to/ravidasari/day-3-multi-agent-systems-the-supervisor-pattern-20ba)
-- [Day 2: Introduction to LangGraph - From Chains to Agents](https://dev.to/ravidasari/day-2-introduction-to-langgraph-from-chains-to-agents-1ec5)
+- [Advent of AI 2025 - Day 3: Building Data Visualizations with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-1-building-data-visualizations-with-goose-g7f)
+- [How to customise the way GitHub Copilot responds](https://dev.to/mishmanners/how-to-customise-the-way-github-copilot-responds-3bp7)
+- [How the 5-Day Intensive Felt](https://dev.to/akash_santhnusundar_13c0/how-the-5-day-intensive-felt-jlh)
+- [Classic photo](https://dev.to/dhanishlass_2007_792c8706/classic-photo-33i6)
 <!-- BLOG-POST-LIST:END -->
 
 
