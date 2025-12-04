@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Exploring InterServer’s Customer Support: What to Expect as a Developer or Site Owner](https://dev.to/onalephile_molemane_e3e9b/exploring-interservers-customer-support-what-to-expect-as-a-developer-or-site-owner-15k0)
-- [Key Agentic AI Trends for Enterprise and Cybersecurity 2026](https://dev.to/sherry_walker_bba406fb339/key-agentic-ai-trends-for-enterprise-and-cybersecurity-2026-416k)
-- [AWS - Secure, High‑Throughput Ingestion Pipeline for Large Binary Objects](https://dev.to/codegreen/aws-secure-high-throughput-ingestion-pipeline-for-large-binary-objects-4hic)
-- [Cloud Native Engineer is back](https://dev.to/cloudnative_eng/cloud-native-engineer-is-back-4p2f)
+- [Updating data status with API Gateway WebSocket API](https://dev.to/aws-builders/updating-data-status-with-api-gateway-websocket-api-2al)
+- [Introduction to AI Agents: A Technical Overview for Developers](https://dev.to/dumebii/introduction-to-ai-agents-a-technical-overview-for-developers-4ih4)
+- [Liman MYS Eklentisi ile Elasticsearch API&#39;sine Bağlanma Rehberi](https://dev.to/aciklab/liman-mys-eklentisi-ile-elasticsearch-apisine-baglanma-rehberi-g9l)
+- [База Данных 5 Views](https://dev.to/erlan_akbar/baza-dannykh-5-views-3cc4)
 <!-- BLOG-POST-LIST:END -->
 
 
