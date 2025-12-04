@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] DevTools Evangelism Kiro&#39;s Edition](https://dev.to/aws-builders/aws-devtools-evangelism-kiros-edition-1jcp)
-- [Stop Wasting Time on Nitpicks: Automating PR Reviews](https://dev.to/allenz_1011/stop-wasting-time-on-nitpicks-automating-pr-reviews-4plp)
-- [The Mood Mirror App - My Antigravity first experience](https://dev.to/this-is-learning/the-mood-mirror-app-my-antigravity-first-experience-10a4)
-- [In this.me your “sentence” is not a linear string. It’s a sequence of entrances into spaces.](https://dev.to/suign/in-thisme-your-sentence-is-not-a-linear-string-its-a-sequence-of-entrances-into-spaces-2dgj)
+- [⭐ My AI Agents Intensive Learning Journey – Challenge Submission](https://dev.to/saniya_mohammad_837c427af/my-ai-agents-intensive-learning-journey-challenge-submission-4l1e)
+- [Base44 Explained: How It Works, Key Features, and Top Alternatives](https://dev.to/nithya_iyer/base44-explained-how-it-works-key-features-and-top-alternatives-84l)
+- [Dari Matematika Murni ke Enkripsi: Bagaimana G. H. Hardy Secara Tak Sengaja Menggerakkan Kriptografi Modern](https://dev.to/ardisaurus/dari-matematika-murni-ke-enkripsi-bagaimana-g-h-hardy-secara-tak-sengaja-menggerakkan-4go6)
+- [Java OOPS Concepts](https://dev.to/selvakumar_r_4bac08f5eaa6/java-oops-concepts-520c)
 <!-- BLOG-POST-LIST:END -->
 
 
