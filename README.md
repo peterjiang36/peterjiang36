@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Coder to Co-Creator: Why Product Thinking Changes Everything](https://dev.to/shamim_hasnain_bd/from-coder-to-co-creator-why-product-thinking-changes-everything-ban)
-- [Built a React component that encrypts copied text while keeping it readable on screen](https://dev.to/_kratos_18/built-a-react-component-that-encrypts-copied-text-while-keeping-it-readable-on-screen-1cgp)
-- [Daily Tech News Roundup - 2025-12-04](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-04-3h9i)
-- [Understanding Agents, Tools, and Workflows: My Intensive Learning Experience](https://dev.to/anam_malik_d85ef97f437a7a/understanding-agents-tools-and-workflows-my-intensive-learning-experience-5696)
+- [[AWS] DevTools Evangelism Kiro&#39;s Edition](https://dev.to/aws-builders/aws-devtools-evangelism-kiros-edition-1jcp)
+- [Stop Wasting Time on Nitpicks: Automating PR Reviews](https://dev.to/allenz_1011/stop-wasting-time-on-nitpicks-automating-pr-reviews-4plp)
+- [The Mood Mirror App - My Antigravity first experience](https://dev.to/this-is-learning/the-mood-mirror-app-my-antigravity-first-experience-10a4)
+- [In this.me your “sentence” is not a linear string. It’s a sequence of entrances into spaces.](https://dev.to/suign/in-thisme-your-sentence-is-not-a-linear-string-its-a-sequence-of-entrances-into-spaces-2dgj)
 <!-- BLOG-POST-LIST:END -->
 
 
