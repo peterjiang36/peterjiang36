@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain vs LangGraph: How to Choose the Right AI Framework!](https://dev.to/pavanbelagatti/langchain-vs-langgraph-how-to-choose-the-right-ai-framework-497h)
-- [FinAura -&gt; Your Financial Glow-up Assistant](https://dev.to/srishti_2870a7693a3c01b49/finaura-your-financial-glow-up-assistant-4cjj)
-- [Choosing the Right Programming Language for Healthcare App Development](https://dev.to/rank_alchemy_5ad282cec75d/choosing-the-right-programming-language-for-healthcare-app-development-660)
-- [Teaching an LLM to Write Assembly: GBNF-Constrained Generation for a Custom 8-Bit CPU](https://dev.to/jamesrandall/teaching-an-llm-to-write-assembly-gbnf-constrained-generation-for-a-custom-8-bit-cpu-42ii)
+- [From glitch to fix: what a real debugging session taught me about find the 😘 emoji in Italian](https://dev.to/tomjohnson3/from-glitch-to-fix-what-a-real-debugging-session-taught-me-about-find-the-emoji-in-italian-4n0f)
+- [Ethereum Gas Limit 60M, EF Details Full EIL Architecture, Arbitrum ARBOS, Soneium &amp; Sony IRC Fan Identity](https://dev.to/etherspot/ethereum-gas-limit-60m-ef-details-full-eil-architecture-arbitrum-arbos-soneium-sony-irc-fan-1p81)
+- [My second Cloudflare Tunnel](https://dev.to/nfrankel/my-second-cloudflare-tunnel-2plb)
+- [Numla: The Notepad That Thinks in Numbers](https://dev.to/daviducolo/numla-the-notepad-that-thinks-in-numbers-3239)
 <!-- BLOG-POST-LIST:END -->
 
 
