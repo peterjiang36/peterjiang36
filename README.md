@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use vCards to Land Brand Deals and Collaborations](https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4)
-- [A Cyberpunk notification library with glitch animations and typewriter effects.](https://dev.to/hsr88/a-cyberpunk-notification-library-with-glitch-animations-and-typewriter-effects-3mo7)
-- [Recent Breakthrough: &#39;Netflix Replay&#39; AI Technology](https://dev.to/drcarlosruizviquez/recent-breakthrough-netflix-replay-ai-technology-28j8)
-- [Kotlin vs. Scala in 2026: The JVM Battle That Can Make or Break Your Next App](https://dev.to/chillicode/kotlin-vs-scala-in-2026-the-jvm-battle-that-can-make-or-break-your-next-app-4pe6)
+- [Why I Chose Vite Over Webpack: 10x Faster Builds &amp; Instant HMR](https://dev.to/saswatapal/why-i-chose-vite-over-webpack-10x-faster-builds-instant-hmr-8fp)
+- [Storybook 10: Why I Chose It Over Ladle and Histoire for Component Documentation](https://dev.to/saswatapal/storybook-10-why-i-chose-it-over-ladle-and-histoire-for-component-documentation-2omn)
+- [Do You Need State Management in 2025? React Context vs Zustand vs Jotai vs Redux](https://dev.to/saswatapal/do-you-need-state-management-in-2025-react-context-vs-zustand-vs-jotai-vs-redux-1ho)
+- [How to Send Emails in Python: Complete Guide with SMTP and API Examples](https://dev.to/davecodes/how-to-send-an-email-in-python-35l1)
 <!-- BLOG-POST-LIST:END -->
 
 
