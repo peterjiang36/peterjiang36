@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Updating data status with API Gateway WebSocket API](https://dev.to/aws-builders/updating-data-status-with-api-gateway-websocket-api-2al)
-- [Introduction to AI Agents: A Technical Overview for Developers](https://dev.to/dumebii/introduction-to-ai-agents-a-technical-overview-for-developers-4ih4)
-- [Liman MYS Eklentisi ile Elasticsearch API&#39;sine Bağlanma Rehberi](https://dev.to/aciklab/liman-mys-eklentisi-ile-elasticsearch-apisine-baglanma-rehberi-g9l)
-- [База Данных 5 Views](https://dev.to/erlan_akbar/baza-dannykh-5-views-3cc4)
+- [How a 5-Day AI Agents Intensive Course Helped Me Build FoodMate, A Multi Agent Food Concierge](https://dev.to/shiyaz_amal_d1ec2eb5b580c/how-a-5-day-ai-agents-intensive-course-helped-me-build-foodmate-a-multi-agent-food-concierge-581i)
+- [Mr Sunday Movies: The Lone Ranger - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-lone-ranger-caravan-of-garbage-440b)
+- [The State&#39;s New Silicon Gambit](https://dev.to/rawveg/the-states-new-silicon-gambit-1jbe)
+- [My Journey Through the 5-Day AI Agents Intensive Course](https://dev.to/vemu_kamalkumar/my-journey-through-the-5-day-ai-agents-intensive-course-1550)
 <!-- BLOG-POST-LIST:END -->
 
 
