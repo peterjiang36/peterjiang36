@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How a 5-Day AI Agents Intensive Course Helped Me Build FoodMate, A Multi Agent Food Concierge](https://dev.to/shiyaz_amal_d1ec2eb5b580c/how-a-5-day-ai-agents-intensive-course-helped-me-build-foodmate-a-multi-agent-food-concierge-581i)
-- [Mr Sunday Movies: The Lone Ranger - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-lone-ranger-caravan-of-garbage-440b)
-- [The State&#39;s New Silicon Gambit](https://dev.to/rawveg/the-states-new-silicon-gambit-1jbe)
-- [My Journey Through the 5-Day AI Agents Intensive Course](https://dev.to/vemu_kamalkumar/my-journey-through-the-5-day-ai-agents-intensive-course-1550)
+- [How I Use AI Coding Assistants &lpar;and How You Can Use Them Better&rpar;](https://dev.to/biostate/how-i-use-ai-coding-assistants-and-how-you-can-use-them-better-40af)
+- [Java&#39;s getExponent&lpar;&rpar; Method: Your Ultimate Guide to Floating-Point Precision](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-getexponent-method-your-ultimate-guide-to-floating-point-precision-3311)
+- [From Sausage to Omelette](https://dev.to/linkbenjamin/from-sausage-to-omelette-o1e)
+- [A &lpar;very&rpar; Short Look at How MySQL Joins Work](https://dev.to/seenasabti/how-do-mysql-joins-work-2de4)
 <!-- BLOG-POST-LIST:END -->
 
 
