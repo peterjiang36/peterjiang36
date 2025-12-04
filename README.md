@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
-- [Introducing The Custom Elements Dev Server](https://dev.to/bennypowers/introducing-the-custom-elements-dev-server-5eog)
-- [Zero to shipped - a year in review](https://dev.to/aws/zero-to-shipped-a-year-in-review-3in9)
-- [🐳 I built a tool to find exactly which commit bloated your Docker image](https://dev.to/jtodic/i-built-a-tool-to-find-exactly-which-commit-bloated-your-docker-image-2h79)
+- [Google Workspace Studio Agents: A Simple Guide for Developers](https://dev.to/arsalanmeee/google-workspace-studio-agents-a-simple-guide-for-developers-105a)
+- [Microsoft AI Copilot News Today: Latest Updates and Features](https://dev.to/techdecodedly/microsoft-ai-copilot-news-today-latest-updates-and-features-2ph)
+- [From Code to Cognition: My AI Agents Intensive Journey](https://dev.to/aniket_ankushhumbe_e62dd/from-code-to-cognition-my-ai-agents-intensive-journey-4l70)
+- [The Courage to Disconnect: Why I Chose &quot;Privacy First&quot; in a Data-Hungry World](https://dev.to/elevenapril/the-courage-to-disconnect-why-i-chose-privacy-first-in-a-data-hungry-world-47b6)
 <!-- BLOG-POST-LIST:END -->
 
 
