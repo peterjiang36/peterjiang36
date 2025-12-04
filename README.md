@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Google-Kaggle AI agents Intensive Course](https://dev.to/sandeep_nani_af1b167889e9/my-experience-with-google-kaggle-ai-agents-intensive-course-1p0m)
-- [Why I’m Scrapping &quot;Genres&quot; &lpar;For Now&rpar; and Betting on AI Instead](https://dev.to/leodvincci89/why-im-scrapping-genres-for-now-and-betting-on-ai-instead-38bo)
-- [My Experience with the 5-Day AI Agents Course on Kaggle](https://dev.to/fardin_pasha_4a64f41400cd/my-experience-with-the-5-day-ai-agents-course-on-kaggle-n2l)
-- [A Practical Breakdown of Darkweb Vendor Shops and How They Operate](https://dev.to/tor_bbb/a-practical-breakdown-of-darkweb-vendor-shops-and-how-they-operate-30a2)
+- [🚀 Client-Side vs Server-Side CORS: Understanding the Real Difference](https://dev.to/shantih_palani/client-side-vs-server-side-cors-understanding-the-real-difference-52l9)
+- [3 Types of Authorization in TON Smart Contracts](https://dev.to/a08778/3-types-of-authorization-in-ton-smart-contracts-58k1)
+- [Building a Production-Ready Data Marketplace: Architecture, Security, and Lessons Learned](https://dev.to/cybersolo/building-a-production-ready-data-marketplace-architecture-security-and-lessons-learned-1l08)
+- [How to Monitor Cron Jobs in 2026: A Complete Guide](https://dev.to/lmadev/how-to-monitor-cron-jobs-in-2026-a-complete-guide-28g9)
 <!-- BLOG-POST-LIST:END -->
 
 
