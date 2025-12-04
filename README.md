@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ A New Stack — Introducing Redis Nuxt Blog: A Sci-Fi Blog Boilerplate from a Galaxy Not So Far Away](https://dev.to/melasistema/a-new-stack-introducing-redis-nuxt-blog-a-sci-fi-blog-boilerplate-from-a-galaxy-not-so-far-away-1nh8)
-- [StudyMate AI – Your Personal AI Study Assistant for Smarter Learning](https://dev.to/studymate/studymate-ai-your-personal-ai-study-assistant-for-smarter-learning-1h6k)
-- [How Database-Driven Kubernetes Automation Actually Works](https://dev.to/selenehyun/how-database-driven-kubernetes-automation-actually-works-242i)
-- [Mastering AI Agents: Lessons from the Google x Kaggle Intensive &amp; My Capstone](https://dev.to/syafiqfirdaus/mastering-ai-agents-lessons-from-the-google-x-kaggle-intensive-my-capstone-537e)
+- [SQL: Doing GROUP BY in CsvPath](https://dev.to/david_kershaw_b6916404da6/sql-doing-group-by-in-csvpath-2ff1)
+- [Construyendo un Servidor MCP: Conectando Claude y VSCode a Herramientas Externas](https://dev.to/renzo_fernandoloyolavil/building-an-mcp-server-connecting-claude-and-vscode-to-external-tools-1g4c)
+- [Day 3: Multi-Agent Systems - The Supervisor Pattern](https://dev.to/ravidasari/day-3-multi-agent-systems-the-supervisor-pattern-20ba)
+- [Day 2: Introduction to LangGraph - From Chains to Agents](https://dev.to/ravidasari/day-2-introduction-to-langgraph-from-chains-to-agents-1ec5)
 <!-- BLOG-POST-LIST:END -->
 
 
