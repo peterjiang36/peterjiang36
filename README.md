@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI Coding Assistants &lpar;and How You Can Use Them Better&rpar;](https://dev.to/biostate/how-i-use-ai-coding-assistants-and-how-you-can-use-them-better-40af)
-- [Java&#39;s getExponent&lpar;&rpar; Method: Your Ultimate Guide to Floating-Point Precision](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-getexponent-method-your-ultimate-guide-to-floating-point-precision-3311)
-- [From Sausage to Omelette](https://dev.to/linkbenjamin/from-sausage-to-omelette-o1e)
-- [A &lpar;very&rpar; Short Look at How MySQL Joins Work](https://dev.to/seenasabti/how-do-mysql-joins-work-2de4)
+- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
+- [Introducing The Custom Elements Dev Server](https://dev.to/bennypowers/introducing-the-custom-elements-dev-server-5eog)
+- [Zero to shipped - a year in review](https://dev.to/aws/zero-to-shipped-a-year-in-review-3in9)
+- [🐳 I built a tool to find exactly which commit bloated your Docker image](https://dev.to/jtodic/i-built-a-tool-to-find-exactly-which-commit-bloated-your-docker-image-2h79)
 <!-- BLOG-POST-LIST:END -->
 
 
