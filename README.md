@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2025 - December 4th](https://dev.to/robvanderleek/advent-of-code-2025-december-4th-7ik)
-- [How and Why to Integrate Salesforce with NetSuite — A Practical Approach](https://dev.to/vladam/how-and-why-to-integrate-salesforce-with-netsuite-a-practical-approach-326n)
-- [🤖 Aplikasi Machine Learning &lpar;ML&rpar; dalam Mendesain Tata Letak Ruangan Optimal](https://dev.to/ideinterior25/aplikasi-machine-learning-ml-dalam-mendesain-tata-letak-ruangan-optimal-47nd)
-- [What I learnt in the 5-Day Gen AI Intensive Course with Google](https://dev.to/ritampal26/what-i-learnt-in-the-5-day-gen-ai-intensive-course-with-google-2akn)
+- [How to Use vCards to Land Brand Deals and Collaborations](https://dev.to/imtaslim/how-to-use-vcards-to-land-brand-deals-and-collaborations-5em4)
+- [A Cyberpunk notification library with glitch animations and typewriter effects.](https://dev.to/hsr88/a-cyberpunk-notification-library-with-glitch-animations-and-typewriter-effects-3mo7)
+- [Recent Breakthrough: &#39;Netflix Replay&#39; AI Technology](https://dev.to/drcarlosruizviquez/recent-breakthrough-netflix-replay-ai-technology-28j8)
+- [Kotlin vs. Scala in 2026: The JVM Battle That Can Make or Break Your Next App](https://dev.to/chillicode/kotlin-vs-scala-in-2026-the-jvm-battle-that-can-make-or-break-your-next-app-4pe6)
 <!-- BLOG-POST-LIST:END -->
 
 
