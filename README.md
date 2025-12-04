@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Zero-Downtime Database Migration Pipeline &lpar;PostgreSQL to Aurora&rpar;](https://dev.to/mateenali66/i-built-a-zero-downtime-database-migration-pipeline-postgresql-to-aurora-1ohe)
-- [AI Challenge for Cross-Platform Apps - WOW Factor Submission](https://dev.to/akash_sharma_5e53f53dc353/ai-challenge-for-cross-platform-apps-wow-factor-submission-kdb)
-- [🌩️ Building a Haunted Weather App: A Spooky Journey into 3D Web Development](https://dev.to/alicejapan/building-a-haunted-weather-app-a-spooky-journey-into-3d-web-development-47io)
-- [Learning Reflections: 5-Day AI Agents Intensive Course with Google and Kaggle](https://dev.to/akash_sharma_5e53f53dc353/learning-reflections-5-day-ai-agents-intensive-course-with-google-and-kaggle-ej0)
+- [From Struggle to Flow: A New Paradigm for Success](https://dev.to/d3one/from-struggle-to-flow-a-new-paradigm-for-success-3gk2)
+- [Designing for KaiOS - Leveraging Kiro to build an app for the next billion mobile users](https://dev.to/mrmemory/designing-for-kaios-leveraging-kiro-to-build-an-app-for-the-next-billion-mobile-users-3o69)
+- [Google just made n8n look expensive 💰](https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1)
+- [Set Up Your Mac Development Environment in Minutes with Hola](https://dev.to/ratazzi/set-up-your-mac-development-environment-in-minutes-with-hola-57ab)
 <!-- BLOG-POST-LIST:END -->
 
 
