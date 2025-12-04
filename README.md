@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Workspace Studio Agents: A Simple Guide for Developers](https://dev.to/arsalanmeee/google-workspace-studio-agents-a-simple-guide-for-developers-105a)
-- [Microsoft AI Copilot News Today: Latest Updates and Features](https://dev.to/techdecodedly/microsoft-ai-copilot-news-today-latest-updates-and-features-2ph)
-- [From Code to Cognition: My AI Agents Intensive Journey](https://dev.to/aniket_ankushhumbe_e62dd/from-code-to-cognition-my-ai-agents-intensive-journey-4l70)
-- [The Courage to Disconnect: Why I Chose &quot;Privacy First&quot; in a Data-Hungry World](https://dev.to/elevenapril/the-courage-to-disconnect-why-i-chose-privacy-first-in-a-data-hungry-world-47b6)
+- [How I Resurrected Legacy Code with AI: Building CodePhoenix for Kiroween](https://dev.to/prajwal_sutar_f78ecf9438e/how-i-resurrected-legacy-code-with-ai-building-codephoenix-for-kiroween-16he)
+- [CinemaSins: Everything Wrong With How to Train Your Dragon In 22 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-how-to-train-your-dragon-in-22-minutes-or-less-422h)
+- [It’s Time To Kill Staging: The Case for Testing in Production](https://dev.to/signadot/its-time-to-kill-staging-the-case-for-testing-in-production-521a)
+- [What aspect of your app are you most proud of? What makes people say &quot;Wow&quot;?](https://dev.to/ouseph_tinu_85ff3fcbb3da1/what-aspect-of-your-app-are-you-most-proud-of-what-makes-people-say-wow-2ji9)
 <!-- BLOG-POST-LIST:END -->
 
 
