@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Theory to Practice: Demystifying the Key-Value Cache in Modern LLMs](https://dev.to/aairom/from-theory-to-practice-demystifying-the-key-value-cache-in-modern-llms-32p6)
-- [AWS re:Invent 2025 - Building Zero-CVE Container Images at Scale: Patterns and Pitfalls &lpar;MAM215&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-zero-cve-container-images-at-scale-patterns-and-pitfalls-mam215-149a)
-- [Yes, Windows 11 on Raspberry Pi ! - Try This Simple Step by Step Guide to Install](https://dev.to/david_thomas/yes-windows-11-on-raspberry-pi-try-this-simple-step-by-step-guide-to-install-3a2k)
-- [AWS re:Invent 2025 - Transform digital experience: Accelerate AWS Partner &amp; customer success&lpar;PEX208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-transform-digital-experience-accelerate-aws-partner-customer-successpex208-2ohg)
+- [core.async: Deep Dive — Online Meetup](https://dev.to/vladislav_chikishev_b47ef/coreasync-deep-dive-online-meetup-1kmm)
+- [Compare PDFs Online for Free with Diff Guru - Fast, Secure &amp; Accurate](https://dev.to/diffguru/compare-pdfs-online-for-free-with-diff-guru-fast-secure-accurate-3m9g)
+- [How I Built a Multi-Platform AI Bot with Langflow&#39;s Drag-and-Drop Workflows](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-bot-with-langflows-drag-and-drop-workflows-4287)
+- [The Modem&#39;s Revenge](https://dev.to/jacky_ma_9a26ad7b3e2013f9/the-modems-revenge-114g)
 <!-- BLOG-POST-LIST:END -->
 
 
