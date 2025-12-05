@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
-- [I Resurrected Encarta 1998](https://dev.to/omu/i-resurrected-encarta-1998-2f6g)
-- [AWS re:Invent 2025 - Powering Enterprise AI: Architecting and Governing Agents at Iberdrola on AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-enterprise-ai-architecting-and-governing-agents-at-iberdrola-on-aws-58ce)
-- [WordPress + Kiro](https://dev.to/jkoleman/wordpress-kiro-10oa)
+- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
+- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
+- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
+- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
 <!-- BLOG-POST-LIST:END -->
 
 
