@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Signal Forms Just Got Automatic State Classes &lpar;And More&rpar;](https://dev.to/brianmtreese/signal-forms-just-got-automatic-state-classes-and-more-50n0)
-- [I Found a Copy of My Blog Post Online — Here’s the Tool I Built to Track Every Plagiarized Version](https://dev.to/stokry/i-found-a-copy-of-my-blog-post-online-heres-the-tool-i-built-to-track-every-plagiarized-version-18je)
-- [Bf-Trees: Breaking the Page Barrier](https://dev.to/lovestaco/bf-trees-breaking-the-page-barrier-1jf)
-- [Tire Pressure Sensor Fault: Little Prince’s Guide 🌟 Fix Silent Wheel Whispers](https://dev.to/ersajay/tire-pressure-sensor-fault-little-princes-guide-fix-silent-wheel-whispers-n34)
+- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
+- [WTF is Remote Work Infrastructure Automation?](https://dev.to/dailybugle33/wtf-is-remote-work-infrastructure-automation-24p6)
+- [I Built 5 AI GPTs in 2 Weeks — Here&#39;s What I Learned About Niche AI Markets](https://dev.to/rahul_yadav_55c2848711585/i-built-5-ai-gpts-in-2-weeks-heres-what-i-learned-about-niche-ai-markets-4e1k)
+- [Building AI Protégé: A Month of Spec-Driven Development with Kiro](https://dev.to/alim_aa888/building-ai-protege-a-month-of-spec-driven-development-with-kiro-2dl1)
 <!-- BLOG-POST-LIST:END -->
 
 
