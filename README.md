@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WinUI 3: Bloquear doble clic en el Title Bar](https://dev.to/williamprogramer/winui-3-bloquear-doble-click-en-el-title-bar-82d)
-- [Burning the Midnight Oil to Bring Back VR from the 90s](https://dev.to/hellocaleb/burning-the-midnight-oil-to-bring-back-vr-from-the-90s-5496)
-- [The $40K Code Review Tax: Why Manual Reviews Are Bleeding Your Engineering Budget](https://dev.to/sociilabs/the-40k-code-review-tax-why-manual-reviews-are-bleeding-your-engineering-budget-3485)
-- [Comparative Analysis of Test Management Tools: Real Integration with CI/CD Pipelines](https://dev.to/royservillanueva2004/comparative-analysis-of-test-management-tools-real-integration-with-cicd-pipelines-1n41)
+- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
+- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
+- [AWS re:Invent 2025 - Powering your success through AWS Infrastructure innovations &lpar;NET402&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-success-through-aws-infrastructure-innovations-net402-241p)
 <!-- BLOG-POST-LIST:END -->
 
 
