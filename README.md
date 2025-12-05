@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hallucination-Proof Analytics Agent with Google’s ADK](https://dev.to/kshitij_dubey_380f7d1e26b/building-a-hallucination-proof-analytics-agent-with-googles-adk-19he)
-- [Building fullstack Amplify applications with the new AWS MCP](https://dev.to/aws/building-full-stack-amplify-applications-with-the-new-aws-mcp-1l85)
-- [🔥 Day 5: Introduction to DataFrames - The Most Importantce of Spark API](https://dev.to/sandeepk27/day-5-introduction-to-dataframes-the-most-importantce-of-spark-api-11gh)
-- [Series 2: My Next.js 16 + OpenLayers + TypeScript Starter Kit — A Modern Map Apps Setup](https://dev.to/wellywahyudi/series-2-my-nextjs-16-openlayers-typescript-starter-kit-a-modern-map-apps-setup-18am)
+- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
+- [Universal &amp; Deep Links: 2026 Complete Guide](https://dev.to/marko_boras_64fe51f7833a6/universal-deep-links-2026-complete-guide-36c4)
+- [AWS re:Invent 2025 - Unleashing Generative AI for Amazon Ads at Scale &lpar;AMZ303&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unleashing-generative-ai-for-amazon-ads-at-scale-amz303-2i0k)
+- [Taxis for Sale UK: Find Your Perfect New Taxi for Sale with Cabs4Less](https://dev.to/govar_dhan_8b40c42cd7ca26/taxis-for-sale-uk-find-your-perfect-new-taxi-for-sale-with-cabs4less-3hk7)
 <!-- BLOG-POST-LIST:END -->
 
 
