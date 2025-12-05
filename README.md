@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kiro Specs Made Me Ship a Full-Stack AI App in 48 Hours](https://dev.to/linfordlee14/how-kiro-specs-made-me-ship-a-full-stack-ai-app-in-48-hours-dc7)
-- [Unbounded](https://dev.to/wbf22/unbounded-4i2)
-- [Day 1279 : Blind](https://dev.to/dwane/day-1279-blind-11kb)
-- [The Use of Excel in Automating Repetitive Business Processes](https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-3693)
+- [The Impact of Excel on Decision‑Making in Financial Institutions](https://dev.to/oraka_esther_0a4875b337f6/the-impact-of-excel-on-decision-making-in-financial-institutions-2p95)
+- [The Use of Excel in Automating Repetitive Business Processes](https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57)
+- [Extend shadcn-svelte with more-shadcn-svelte Components](https://dev.to/jqueryscript/extend-shadcn-svelte-with-more-shadcn-svelte-components-3998)
+- [Agentic Development Principles - Part 1](https://dev.to/ttoss/agentic-development-principles-part-1-2olg)
 <!-- BLOG-POST-LIST:END -->
 
 
