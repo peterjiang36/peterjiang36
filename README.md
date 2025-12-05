@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
-- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
-- [AWS re:Invent 2025 - Powering your success through AWS Infrastructure innovations &lpar;NET402&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-success-through-aws-infrastructure-innovations-net402-241p)
+- [From Video to Voiceover in Seconds: Running MLX Swift on ARM-Based iOS Devices](https://dev.to/yooi/from-video-to-voiceover-in-seconds-running-mlx-swift-on-arm-based-ios-devices-1md9)
+- [Pushing Kiro to the Max: UX Schizophrenia &amp; MCP Integration](https://dev.to/tandivina/pushing-kiro-to-the-max-ux-schizophrenia-mcp-integration-3no5)
+- [Building AI-Enhanced Tuya IoT Products: Architecture, Patterns &amp; Real Use Cases](https://dev.to/zediot/building-ai-enhanced-tuya-iot-products-architecture-patterns-real-use-cases-ej9)
+- [Why Context Engineering Is Replacing Prompt Hacks](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-hacks-fm4)
 <!-- BLOG-POST-LIST:END -->
 
 
