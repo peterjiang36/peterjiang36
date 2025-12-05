@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)
-- [Master Server-Sent Events &lpar;SSE&rpar; in Symfony 7.4](https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co)
-- [Your DSA Toolkit: Hashmaps, Queues &amp; Stacks &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/your-dsa-toolkit-hashmaps-queues-stacks-javascript-4g6p)
-- [Building a Haunted To-Do App with Next.js 16](https://dev.to/learn_deco/building-a-haunted-to-do-app-with-nextjs-16-1lg8)
+- [From Theory to Practice: Demystifying the Key-Value Cache in Modern LLMs](https://dev.to/aairom/from-theory-to-practice-demystifying-the-key-value-cache-in-modern-llms-32p6)
+- [AWS re:Invent 2025 - Building Zero-CVE Container Images at Scale: Patterns and Pitfalls &lpar;MAM215&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-zero-cve-container-images-at-scale-patterns-and-pitfalls-mam215-149a)
+- [Yes, Windows 11 on Raspberry Pi ! - Try This Simple Step by Step Guide to Install](https://dev.to/david_thomas/yes-windows-11-on-raspberry-pi-try-this-simple-step-by-step-guide-to-install-3a2k)
+- [AWS re:Invent 2025 - Transform digital experience: Accelerate AWS Partner &amp; customer success&lpar;PEX208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-transform-digital-experience-accelerate-aws-partner-customer-successpex208-2ohg)
 <!-- BLOG-POST-LIST:END -->
 
 
