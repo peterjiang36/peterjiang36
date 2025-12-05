@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
-- [MCP Gets Tasks: A Game-Changer for Long-Running AI Operations](https://dev.to/gregory_dickson_6dd6e2b55/mcp-gets-tasks-a-game-changer-for-long-running-ai-operations-2kel)
-- [👻 Kiroweenscare: When Code Review Gets Spooky](https://dev.to/victoria_eloho_91dca25783/kiroweenscare-when-code-review-gets-spooky-1jk4)
-- [AWS re:Invent 2025 - Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB &lpar;NET311&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-global-resilient-apps-guide-to-multi-azregion-architecture-with-elb-net311-54oh)
+- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
+- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
+- [F1 Wow Dashboard - on Uno](https://dev.to/stegriff/f1-wow-dashboard-on-uno-4090)
+- [📊 AWS S3 + AWS Glue + Athena + Grafana — End-to-End Analytics Project](https://dev.to/abhishek_korde_31/aws-s3-aws-glue-athena-grafana-end-to-end-analytics-project-58cc)
 <!-- BLOG-POST-LIST:END -->
 
 
