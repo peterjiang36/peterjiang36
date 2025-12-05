@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [core.async: Deep Dive — Online Meetup](https://dev.to/vladislav_chikishev_b47ef/coreasync-deep-dive-online-meetup-1kmm)
-- [Compare PDFs Online for Free with Diff Guru - Fast, Secure &amp; Accurate](https://dev.to/diffguru/compare-pdfs-online-for-free-with-diff-guru-fast-secure-accurate-3m9g)
-- [How I Built a Multi-Platform AI Bot with Langflow&#39;s Drag-and-Drop Workflows](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-bot-with-langflows-drag-and-drop-workflows-4287)
-- [The Modem&#39;s Revenge](https://dev.to/jacky_ma_9a26ad7b3e2013f9/the-modems-revenge-114g)
+- [AWS re:Invent 2025 - What&#39;s new in Amazon Redshift and Amazon Athena &lpar;ANT206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-in-amazon-redshift-and-amazon-athena-ant206-33l8)
+- [AWSChallenge - Week 2](https://dev.to/andresguecha/awschallenge-week-2-5b25)
+- [Integration Testing Scaffolds: a centralized testing approach for microservice architectures](https://dev.to/angel_lopezbellmont_6910/integration-testing-scaffolds-a-centralized-testing-approach-for-microservice-architectures-176p)
+- [Open Source Email Warmup: A Complete Guide](https://dev.to/tusharsmtpmaster/open-source-email-warmup-a-complete-guide-5d5b)
 <!-- BLOG-POST-LIST:END -->
 
 
