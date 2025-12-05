@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - What&#39;s new in Amazon Redshift and Amazon Athena &lpar;ANT206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-in-amazon-redshift-and-amazon-athena-ant206-33l8)
-- [AWSChallenge - Week 2](https://dev.to/andresguecha/awschallenge-week-2-5b25)
-- [Integration Testing Scaffolds: a centralized testing approach for microservice architectures](https://dev.to/angel_lopezbellmont_6910/integration-testing-scaffolds-a-centralized-testing-approach-for-microservice-architectures-176p)
-- [Open Source Email Warmup: A Complete Guide](https://dev.to/tusharsmtpmaster/open-source-email-warmup-a-complete-guide-5d5b)
+- [Building a Hallucination-Proof Analytics Agent with Google’s ADK](https://dev.to/kshitij_dubey_380f7d1e26b/building-a-hallucination-proof-analytics-agent-with-googles-adk-19he)
+- [Building fullstack Amplify applications with the new AWS MCP](https://dev.to/aws/building-full-stack-amplify-applications-with-the-new-aws-mcp-1l85)
+- [🔥 Day 5: Introduction to DataFrames - The Most Importantce of Spark API](https://dev.to/sandeepk27/day-5-introduction-to-dataframes-the-most-importantce-of-spark-api-11gh)
+- [Series 2: My Next.js 16 + OpenLayers + TypeScript Starter Kit — A Modern Map Apps Setup](https://dev.to/wellywahyudi/series-2-my-nextjs-16-openlayers-typescript-starter-kit-a-modern-map-apps-setup-18am)
 <!-- BLOG-POST-LIST:END -->
 
 
