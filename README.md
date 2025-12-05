@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Known Knowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/known-knowns-bite-size-article-33pp)
-- [GoGPU: A Pure Go Graphics Library for GPU Programming](https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d)
-- [What IS i3rbly?](https://dev.to/darealone/i3rbly-building-an-arabic-first-ai-layer-for-search-nlp-and-zero-loss-text-understanding-29i0)
-- [FastAPI Performance: The Hidden Thread Pool Overhead You Might Be Missing](https://dev.to/bkhalifeh/fastapi-performance-the-hidden-thread-pool-overhead-you-might-be-missing-2ok6)
+- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
+- [MCP Gets Tasks: A Game-Changer for Long-Running AI Operations](https://dev.to/gregory_dickson_6dd6e2b55/mcp-gets-tasks-a-game-changer-for-long-running-ai-operations-2kel)
+- [👻 Kiroweenscare: When Code Review Gets Spooky](https://dev.to/victoria_eloho_91dca25783/kiroweenscare-when-code-review-gets-spooky-1jk4)
+- [AWS re:Invent 2025 - Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB &lpar;NET311&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-global-resilient-apps-guide-to-multi-azregion-architecture-with-elb-net311-54oh)
 <!-- BLOG-POST-LIST:END -->
 
 
