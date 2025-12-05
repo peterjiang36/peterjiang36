@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting the Web - Links, Images, Media and the Power of Attributes in HTML](https://dev.to/theosnyman-dev/connecting-the-web-links-images-media-and-the-power-of-attributes-in-html-4gec)
-- [Mantine BorderAnimate: Light up your UI with elegant, high‑performance animated borders](https://dev.to/undolog/mantine-borderanimate-light-up-your-ui-with-elegant-high-performance-animated-borders-4902)
-- [AWS re:Invent 2025 - Concept to campaign: Marketing agents on Amazon Bedrock AgentCore &lpar;AIM395&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-concept-to-campaign-marketing-agents-on-amazon-bedrock-agentcore-aim395-55cl)
-- [Kalshi Clone Script for Sports &amp; Entertainment Predictions](https://dev.to/maeve_garcia_53ca1b5d3091/kalshi-clone-script-for-sports-entertainment-predictions-1okb)
+- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
+- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
+- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
+- [TechWithSam just gained 300+ new community members](https://dev.to/techwithsam/techwithsam-just-gained-300-new-community-members-enk)
 <!-- BLOG-POST-LIST:END -->
 
 
