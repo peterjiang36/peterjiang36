@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Excel on Decision‑Making in Financial Institutions](https://dev.to/oraka_esther_0a4875b337f6/the-impact-of-excel-on-decision-making-in-financial-institutions-2p95)
-- [The Use of Excel in Automating Repetitive Business Processes](https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57)
-- [Extend shadcn-svelte with more-shadcn-svelte Components](https://dev.to/jqueryscript/extend-shadcn-svelte-with-more-shadcn-svelte-components-3998)
-- [Agentic Development Principles - Part 1](https://dev.to/ttoss/agentic-development-principles-part-1-2olg)
+- [Most AI tools don’t need subscribers. They need users who pay for value when value is delivered.
+
+If your AI tool is not making money then you should review your business model.](https://dev.to/jaideepparashar/most-ai-tools-dont-need-subscribers-they-need-users-who-pay-for-value-when-value-is-delivered-5blc)
+- [Best Practices for Hardening Enterprise Linux Servers and Enhancing Cloud Security](https://dev.to/balaramakrishna_althi_3fc/best-practices-for-hardening-enterprise-linux-servers-and-enhancing-cloud-security-8lh)
+- [AI Remedy Maker: Why Personalized Natural Medicine Needs Algorithms &lpar;Not Guesswork&rpar;](https://dev.to/amit_gupta/ai-remedy-maker-why-personalized-natural-medicine-needs-algorithms-not-guesswork-edn)
+- [How a Cache Invalidation Bug Nearly Took Down Our System - And What We Changed After](https://dev.to/jayesh_shinde/how-a-cache-invalidation-bug-nearly-took-down-our-system-and-what-we-changed-after-2dd2)
 <!-- BLOG-POST-LIST:END -->
 
 
