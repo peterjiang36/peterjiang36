@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
-- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
-- [F1 Wow Dashboard - on Uno](https://dev.to/stegriff/f1-wow-dashboard-on-uno-4090)
-- [📊 AWS S3 + AWS Glue + Athena + Grafana — End-to-End Analytics Project](https://dev.to/abhishek_korde_31/aws-s3-aws-glue-athena-grafana-end-to-end-analytics-project-58cc)
+- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
+- [I Resurrected Encarta 1998](https://dev.to/omu/i-resurrected-encarta-1998-2f6g)
+- [AWS re:Invent 2025 - Powering Enterprise AI: Architecting and Governing Agents at Iberdrola on AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-enterprise-ai-architecting-and-governing-agents-at-iberdrola-on-aws-58ce)
+- [WordPress + Kiro](https://dev.to/jkoleman/wordpress-kiro-10oa)
 <!-- BLOG-POST-LIST:END -->
 
 
