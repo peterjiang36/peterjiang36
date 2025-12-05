@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with a Gravel Road: Why MVPs Beat 12‑Lane Highways](https://dev.to/wraith/start-with-a-gravel-road-why-mvps-beat-12-lane-highways-2mdk)
-- [Python for Beginners and Intermediate Developers — A Complete Guide](https://dev.to/farhadrahimiklie/python-for-beginners-and-intermediate-developers-a-complete-guide-e66)
-- [Creating Laravel Artisan Command To Generate Model Repository Service Controller for each table automatically.](https://dev.to/macarthurgonde/creating-laravel-artisan-command-to-generate-model-repository-service-controller-for-each-3g55)
-- [From Code Red to Reality Check: The Three Forces Defining AI&#39;s Next Chapter](https://dev.to/ethan_zhang_e501fea89c25b/from-code-red-to-reality-check-the-three-forces-defining-ais-next-chapter-1342)
+- [WinUI 3: Bloquear doble clic en el Title Bar](https://dev.to/williamprogramer/winui-3-bloquear-doble-click-en-el-title-bar-82d)
+- [Burning the Midnight Oil to Bring Back VR from the 90s](https://dev.to/hellocaleb/burning-the-midnight-oil-to-bring-back-vr-from-the-90s-5496)
+- [The $40K Code Review Tax: Why Manual Reviews Are Bleeding Your Engineering Budget](https://dev.to/sociilabs/the-40k-code-review-tax-why-manual-reviews-are-bleeding-your-engineering-budget-3485)
+- [Comparative Analysis of Test Management Tools: Real Integration with CI/CD Pipelines](https://dev.to/royservillanueva2004/comparative-analysis-of-test-management-tools-real-integration-with-cicd-pipelines-1n41)
 <!-- BLOG-POST-LIST:END -->
 
 
