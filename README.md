@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between for...of and for...in loops in JavaScript](https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5)
-- [Coding Challenge Practice - Question 71](https://dev.to/tomivan/coding-challenge-practice-question-71-273n)
-- [From Burnout to Builder: How AI Tools Changed My Relationship with Code](https://dev.to/bdubs/from-burnout-to-builder-how-ai-tools-changed-my-relationship-with-code-3h7h)
-- [Seeking Technical Co-Founder - AI/ML Integration + Smart Contract Development &lpar;2 Revenue-Generating Projects&rpar;](https://dev.to/frederick_alonso_8e471d02/seeking-technical-co-founder-aiml-integration-smart-contract-development-2-revenue-generating-1hgk)
+- [How Kiro Specs Made Me Ship a Full-Stack AI App in 48 Hours](https://dev.to/linfordlee14/how-kiro-specs-made-me-ship-a-full-stack-ai-app-in-48-hours-dc7)
+- [Unbounded](https://dev.to/wbf22/unbounded-4i2)
+- [Day 1279 : Blind](https://dev.to/dwane/day-1279-blind-11kb)
+- [The Use of Excel in Automating Repetitive Business Processes](https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-3693)
 <!-- BLOG-POST-LIST:END -->
 
 
