@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
-- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
-- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
-- [TechWithSam just gained 300+ new community members](https://dev.to/techwithsam/techwithsam-just-gained-300-new-community-members-enk)
+- [Efecto copos de nieve para dar a nuestra web un toque navideño](https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01)
+- [Master Server-Sent Events &lpar;SSE&rpar; in Symfony 7.4](https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co)
+- [Your DSA Toolkit: Hashmaps, Queues &amp; Stacks &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/your-dsa-toolkit-hashmaps-queues-stacks-javascript-4g6p)
+- [Building a Haunted To-Do App with Next.js 16](https://dev.to/learn_deco/building-a-haunted-to-do-app-with-nextjs-16-1lg8)
 <!-- BLOG-POST-LIST:END -->
 
 
