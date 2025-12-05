@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
-- [Universal &amp; Deep Links: 2026 Complete Guide](https://dev.to/marko_boras_64fe51f7833a6/universal-deep-links-2026-complete-guide-36c4)
-- [AWS re:Invent 2025 - Unleashing Generative AI for Amazon Ads at Scale &lpar;AMZ303&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unleashing-generative-ai-for-amazon-ads-at-scale-amz303-2i0k)
-- [Taxis for Sale UK: Find Your Perfect New Taxi for Sale with Cabs4Less](https://dev.to/govar_dhan_8b40c42cd7ca26/taxis-for-sale-uk-find-your-perfect-new-taxi-for-sale-with-cabs4less-3hk7)
+- [I Built a Better Way to Discover Trending GitHub Repos 🚀](https://dev.to/behnam_azimi_9335d5b42517/i-built-a-better-way-to-discover-trending-github-repos-3oeg)
+- [Show HN: Visual Architecture Diagram Builder in Angular with 47+ Components](https://dev.to/samba425/show-hn-visual-architecture-diagram-builder-in-angular-with-47-components-5cmg)
+- [Resurrecting the Internet&#39;s Past: Building a Modern Gopher Browser with Kiro](https://dev.to/pooja_bhavani/resurrecting-the-internets-past-building-a-modern-gopher-browser-with-kiro-20if)
+- [Building a Multi-Agent Ghost Story: How Kiro’s Hybrid Development Changed Everything](https://dev.to/ayush_pathak_bc94618d99f0/building-a-multi-agent-ghost-story-how-kiroshybrid-development-changed-everything-12il)
 <!-- BLOG-POST-LIST:END -->
 
 
