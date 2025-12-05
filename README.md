@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Video to Voiceover in Seconds: Running MLX Swift on ARM-Based iOS Devices](https://dev.to/yooi/from-video-to-voiceover-in-seconds-running-mlx-swift-on-arm-based-ios-devices-1md9)
-- [Pushing Kiro to the Max: UX Schizophrenia &amp; MCP Integration](https://dev.to/tandivina/pushing-kiro-to-the-max-ux-schizophrenia-mcp-integration-3no5)
-- [Building AI-Enhanced Tuya IoT Products: Architecture, Patterns &amp; Real Use Cases](https://dev.to/zediot/building-ai-enhanced-tuya-iot-products-architecture-patterns-real-use-cases-ej9)
-- [Why Context Engineering Is Replacing Prompt Hacks](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-hacks-fm4)
+- [How FSSC 22000 Documents Reduce Non-Conformities](https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f)
+- [Custom Apps for Help Centers: When to Build vs Buy](https://dev.to/freepixel11/custom-apps-for-help-centers-when-to-build-vs-buy-ho6)
+- [Orchestrating AI Agents to create Memes](https://dev.to/mdmathewdc/orchestrating-ai-agents-to-create-memes-j38)
+- [AWS re:Invent 2025 - Troubleshooting database performance issues at scale &lpar;COP331&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-troubleshooting-database-performance-issues-at-scale-cop331-3kf9)
 <!-- BLOG-POST-LIST:END -->
 
 
