@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How FSSC 22000 Documents Reduce Non-Conformities](https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f)
-- [Custom Apps for Help Centers: When to Build vs Buy](https://dev.to/freepixel11/custom-apps-for-help-centers-when-to-build-vs-buy-ho6)
-- [Orchestrating AI Agents to create Memes](https://dev.to/mdmathewdc/orchestrating-ai-agents-to-create-memes-j38)
-- [AWS re:Invent 2025 - Troubleshooting database performance issues at scale &lpar;COP331&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-troubleshooting-database-performance-issues-at-scale-cop331-3kf9)
+- [Signal Forms Just Got Automatic State Classes &lpar;And More&rpar;](https://dev.to/brianmtreese/signal-forms-just-got-automatic-state-classes-and-more-50n0)
+- [I Found a Copy of My Blog Post Online — Here’s the Tool I Built to Track Every Plagiarized Version](https://dev.to/stokry/i-found-a-copy-of-my-blog-post-online-heres-the-tool-i-built-to-track-every-plagiarized-version-18je)
+- [Bf-Trees: Breaking the Page Barrier](https://dev.to/lovestaco/bf-trees-breaking-the-page-barrier-1jf)
+- [Tire Pressure Sensor Fault: Little Prince’s Guide 🌟 Fix Silent Wheel Whispers](https://dev.to/ersajay/tire-pressure-sensor-fault-little-princes-guide-fix-silent-wheel-whispers-n34)
 <!-- BLOG-POST-LIST:END -->
 
 
