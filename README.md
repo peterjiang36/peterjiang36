@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - [NEW LAUNCH] Deep dive into AWS Database Savings Plans &lpar;DAT326&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-launch-deep-dive-into-aws-database-savings-plans-dat326-5di3)
-- [AWS re:Invent 2025 - Advanced data modeling with Amazon DynamoDB &lpar;DAT414&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-with-amazon-dynamodb-dat414-3g47)
-- [COBOL in Big 25](https://dev.to/anbu_taco_8fcb10bbb30d7ed/cobol-in-big-25-33gl)
-- [AWS re:Invent 2025 - Advanced data modeling for Amazon ElastiCache &lpar;DAT438&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-for-amazon-elasticache-dat438-46bm)
+- [Secure Your Python App Using Bandit as a SAST Tool](https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm)
+- [Discordo: A Go Library for Streamlined Discord Bot Development](https://dev.to/stelixx-insider/discordo-a-go-library-for-streamlined-discord-bot-development-36e2)
+- [AWS re:Invent 2025 - Agents in the enterprise: Best practices with Amazon Bedrock AgentCore&lpar;AIM3310&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agents-in-the-enterprise-best-practices-with-amazon-bedrock-agentcoreaim3310-2m8a)
+- [AWS re:Invent 2025 - [NEW LAUNCH] Amazon Nova 2 Omni: A new frontier in multimodal AI &lpar;AIM3324&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-launch-amazon-nova-2-omni-a-new-frontier-in-multimodal-ai-aim3324-1bnp)
 <!-- BLOG-POST-LIST:END -->
 
 
