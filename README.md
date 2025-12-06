@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Privacy Revolution in Your Pocket](https://dev.to/rawveg/the-privacy-revolution-in-your-pocket-47go)
-- [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
-- [Complete Guide to Kubernetes Flavors, Their Categories &amp; How to Install Minikube on Linux &lpar;with Docker Driver&rpar;](https://dev.to/isaiah_izibili_7a39b7d627/complete-guide-to-kubernetes-flavors-their-categories-how-to-install-minikube-on-linux-with-4cfj)
-- [AWS re:Invent 2025 - Modernizing Legacy Systems: Boeing&#39;s PLM Cloud Transformation &lpar;IND321&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modernizing-legacy-systems-boeings-plm-cloud-transformation-ind321-5bde)
+- [AWS re:Invent 2025 - Code completion to agents: The evolution of development &lpar;DVT405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b)
+- [Why Central Banks Should Participate and Not Compete in Tokenized Markets.](https://dev.to/victory_adugbo_28d7c59ec0/why-central-banks-should-participate-and-not-compete-in-tokenized-markets-17hn)
+- [AWS re:Invent 2025 - Accelerate development with Kiro&#39;s new agentic AI capabilities &lpar;DVT228&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-with-kiros-new-agentic-ai-capabilities-dvt228-3069)
+- [WordPress Headless con Next.js o Astro: El futuro del desarrollo web](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-con-nextjs-o-astro-el-futuro-del-desarrollo-web-5ak9)
 <!-- BLOG-POST-LIST:END -->
 
 
