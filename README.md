@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your Python App Using Bandit as a SAST Tool](https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm)
-- [Discordo: A Go Library for Streamlined Discord Bot Development](https://dev.to/stelixx-insider/discordo-a-go-library-for-streamlined-discord-bot-development-36e2)
-- [AWS re:Invent 2025 - Agents in the enterprise: Best practices with Amazon Bedrock AgentCore&lpar;AIM3310&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agents-in-the-enterprise-best-practices-with-amazon-bedrock-agentcoreaim3310-2m8a)
-- [AWS re:Invent 2025 - [NEW LAUNCH] Amazon Nova 2 Omni: A new frontier in multimodal AI &lpar;AIM3324&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-launch-amazon-nova-2-omni-a-new-frontier-in-multimodal-ai-aim3324-1bnp)
+- [Migrating from Ingress NGINX to Pomerium Ingress Controller](https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6)
+- [How I Built an MCP Server in 50 Lines of Python &lpar;Auto-Generated from OpenAPI&rpar;](https://dev.to/durgaprasadbudhwani/how-i-built-an-mcp-server-in-50-lines-of-python-auto-generated-from-openapi-5apb)
+- [AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic &lpar;AIM374&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-create-hyper-personalized-voice-interactions-with-amazon-nova-sonic-aim374-3gdc)
+- [AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding &lpar;AIM375&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-scalable-applications-with-text-and-multimodal-understanding-aim375-5fl9)
 <!-- BLOG-POST-LIST:END -->
 
 
