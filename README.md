@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
-- [Day 6 — The Audit](https://dev.to/aerabi/day-6-the-audit-2ak2)
-- [AWS re:Invent 2025 - Reinvent your career: From developer to cloud leader &lpar;DEV101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinvent-your-career-from-developer-to-cloud-leader-dev101-4ff3)
-- [AWS re:Invent 2025 - Transforming Healthcare Payor Operations: AWS-TriZetto Success Story &lpar;IND210&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-transforming-healthcare-payor-operations-aws-trizetto-success-story-ind210-3jd9)
+- [Day 56: Python Fibonacci nth Term – Blazing Fast O&lpar;n&rpar; Iterative Solution with O&lpar;1&rpar; Space &lpar;No Recursion!&rpar;](https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02)
+- [Building AI Chatbots and Cloud Solutions: The Tech Journey of Somalpreet Singh](https://dev.to/somalpreet_singh_ff9d8e39/building-ai-chatbots-and-cloud-solutions-the-tech-journey-of-somalpreet-singh-kfk)
+- [AWS re:Invent 2025 - Reinventing software development with AI agents &lpar;INV205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-software-development-with-ai-agents-inv205-1oe3)
+- [Which ICO Marketing Services Deliver the Highest ROI in 2026?](https://dev.to/aliasceasar01/which-ico-marketing-services-deliver-the-highest-roi-in-2026-2m9d)
 <!-- BLOG-POST-LIST:END -->
 
 
