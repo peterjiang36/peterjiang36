@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [👋 Hello Dev Community — I’m New Here!](https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2)
-- [Writing a tiny PID 1 for containers in pure assembly &lpar;x86-64 + ARM64&rpar;](https://dev.to/bogdan_75c1dac33c215a1ba6/writing-a-tiny-pid-1-for-containers-in-pure-assembly-x86-64-arm64-2h2i)
-- [How Web Development and AI Are Transforming Local SEO for Businesses in 2025](https://dev.to/zclickagency/how-web-development-and-ai-are-transforming-local-seo-for-businesses-in-2025-3ddm)
-- [[2025 Guide] How to Create Your Own AI Avatar for E-com Ads](https://dev.to/getkoro_app/2025-guide-how-to-create-your-own-ai-avatar-for-e-com-ads-1k6b)
+- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
+- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
+- [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
+- [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
 <!-- BLOG-POST-LIST:END -->
 
 
