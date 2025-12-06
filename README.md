@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [模块模式](https://dev.to/nikimunger/mo-kuai-mo-shi-4ffi)
-- [AWS re:Invent 2025 - Amazon Nova Forge: Build your own frontier models using Amazon Nova &lpar;AIM3325&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-nova-forge-build-your-own-frontier-models-using-amazon-nova-aim3325-21ed)
-- [Schema Design with Supabase: Partitioning and Normalization](https://dev.to/pipipi-dev/schema-design-with-supabase-partitioning-and-normalization-4b7i)
-- [[Boost]](https://dev.to/tonydev_/-3l4n)
+- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
+- [Day 6 — The Audit](https://dev.to/aerabi/day-6-the-audit-2ak2)
+- [AWS re:Invent 2025 - Reinvent your career: From developer to cloud leader &lpar;DEV101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinvent-your-career-from-developer-to-cloud-leader-dev101-4ff3)
+- [AWS re:Invent 2025 - Transforming Healthcare Payor Operations: AWS-TriZetto Success Story &lpar;IND210&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-transforming-healthcare-payor-operations-aws-trizetto-success-story-ind210-3jd9)
 <!-- BLOG-POST-LIST:END -->
 
 
