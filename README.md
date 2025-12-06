@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps](https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc)
-- [AWS re:Invent 2025 - Empowering communities - create fun events on AWS services &lpar;DEV344&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-empowering-communities-create-fun-events-on-aws-services-dev344-2kfj)
-- [AWS re:Invent 2025 - AI, Cloud &amp; Public Sector Transformation: PwC &amp; AWS Driving Change Now &lpar;AIM115&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-ai-cloud-public-sector-transformation-pwc-aws-driving-change-now-aim115-bjk)
-- [Test](https://dev.to/justin_harr_c20841edac0bb/test-292a)
+- [🚀 Unleash the Power of the Monorepo: Frontend &amp; Backend, Living Together!](https://dev.to/yeasiin/unleash-the-power-of-the-monorepo-frontend-backend-living-together-o01)
+- [DARPA Secret Projects 2025: Beyond the Horizon of Reality](https://dev.to/alyvro/darpa-secret-projects-2025-beyond-the-horizon-of-reality-2924)
+- [Bridging Banking Systems and Blockchain: Technical Realities Behind the Integration Problem](https://dev.to/adcoinx/bridging-banking-systems-and-blockchain-technical-realities-behind-the-integration-problem-25oa)
+- [How I Built an MCP Server to Automate My BA Workflow](https://dev.to/james_murrell_c08207941cd/how-i-built-an-mcp-server-to-automate-my-ba-workflow-36o3)
 <!-- BLOG-POST-LIST:END -->
 
 
