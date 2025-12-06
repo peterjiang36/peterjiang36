@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: Metaclasses - Classes That Make Classes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-metaclasses-classes-that-make-classes-3lag)
-- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
-- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
-- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
+- [AWS re:Invent 2025 - Customer Story: AI Adoption with Salesforce &amp; Amazon Bedrock &lpar;AIM267&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customer-story-ai-adoption-with-salesforce-amazon-bedrock-aim267-38dg)
+- [Strands agent + Agent Core AWS](https://dev.to/kevinl/strands-agent-agent-core-aws-nho)
+- [AWS re:Invent 2025 - Agentic AI Meets Cybersecurity: eSentire’s Atlas AI Powered by Snowflake &amp; AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-ai-meets-cybersecurity-esentires-atlas-ai-powered-by-snowflake-aws-30b6)
+- [AWS re:Invent 2025 - Fixing AI’s Confidently Wrong Problem in the Enterprise &lpar;AIM269&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fixing-ais-confidently-wrong-problem-in-the-enterprise-aim269-gdi)
 <!-- BLOG-POST-LIST:END -->
 
 
