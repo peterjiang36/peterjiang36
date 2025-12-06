@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Arreglar pinchazos cerca de mi en Moralzarzal](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70)
-- [AWS re:Invent 2025 - Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles &lpar;AMZ304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zoox-building-machine-learning-infrastructure-for-autonomous-vehicles-amz304-32o8)
-- [Understanding the React Testing Pipeline &lpar;for Beginners&rpar;](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
-- [Tailwind CSS v4: Why I Chose CSS-First Config Over Styled Components](https://dev.to/saswatapal/tailwind-css-v4-why-i-chose-css-first-config-over-styled-components-270f)
+- [模块模式](https://dev.to/nikimunger/mo-kuai-mo-shi-4ffi)
+- [AWS re:Invent 2025 - Amazon Nova Forge: Build your own frontier models using Amazon Nova &lpar;AIM3325&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-nova-forge-build-your-own-frontier-models-using-amazon-nova-aim3325-21ed)
+- [Schema Design with Supabase: Partitioning and Normalization](https://dev.to/pipipi-dev/schema-design-with-supabase-partitioning-and-normalization-4b7i)
+- [[Boost]](https://dev.to/tonydev_/-3l4n)
 <!-- BLOG-POST-LIST:END -->
 
 
