@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
-- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
-- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
-- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
+- [AWS re:Invent 2025 - [NEW LAUNCH] Deep dive into AWS Database Savings Plans &lpar;DAT326&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-new-launch-deep-dive-into-aws-database-savings-plans-dat326-5di3)
+- [AWS re:Invent 2025 - Advanced data modeling with Amazon DynamoDB &lpar;DAT414&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-with-amazon-dynamodb-dat414-3g47)
+- [COBOL in Big 25](https://dev.to/anbu_taco_8fcb10bbb30d7ed/cobol-in-big-25-33gl)
+- [AWS re:Invent 2025 - Advanced data modeling for Amazon ElastiCache &lpar;DAT438&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-advanced-data-modeling-for-amazon-elasticache-dat438-46bm)
 <!-- BLOG-POST-LIST:END -->
 
 
