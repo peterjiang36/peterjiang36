@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Code completion to agents: The evolution of development &lpar;DVT405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b)
-- [Why Central Banks Should Participate and Not Compete in Tokenized Markets.](https://dev.to/victory_adugbo_28d7c59ec0/why-central-banks-should-participate-and-not-compete-in-tokenized-markets-17hn)
-- [AWS re:Invent 2025 - Accelerate development with Kiro&#39;s new agentic AI capabilities &lpar;DVT228&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-with-kiros-new-agentic-ai-capabilities-dvt228-3069)
-- [WordPress Headless con Next.js o Astro: El futuro del desarrollo web](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-con-nextjs-o-astro-el-futuro-del-desarrollo-web-5ak9)
+- [🚀 Gemini 3 Is Changing the AI Landscape — And OpenAI Can Feel It](https://dev.to/ailon_tech_29dfe73d5236e2/gemini-3-is-changing-the-ai-landscape-and-openai-can-feel-it-3ma2)
+- [Tenbyte: Powering the Next Generation of Cloud Innovation](https://dev.to/tenbyte9b60325/tenbyte-powering-the-next-generation-of-cloud-innovation-1m2d)
+- [Deep Dive: &quot;Vibe coding&quot;](https://dev.to/amrithesh_dev/deep-dive-vibe-coding-459f)
+- [AWS re:Invent 2025 - Revealing the northern lights: Amazon Aurora security deep dive &lpar;DAT456&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-revealing-the-northern-lights-amazon-aurora-security-deep-dive-dat456-38j9)
 <!-- BLOG-POST-LIST:END -->
 
 
