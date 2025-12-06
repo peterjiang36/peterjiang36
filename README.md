@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
-- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
-- [Tired of old, clunky GUI libraries? Try PyUIkit 1.0.0 🚀](https://dev.to/huzaifaatiq/tired-of-old-clunky-gui-libraries-try-pyuikit-100-h6j)
-- [Building a Unified API Response Architecture &lpar;ASP.NET Minimal API + Next.js&rpar;](https://dev.to/treelz/building-a-unified-api-response-architecture-aspnet-minimal-api-nextjs-38l7)
+- [The Privacy Revolution in Your Pocket](https://dev.to/rawveg/the-privacy-revolution-in-your-pocket-47go)
+- [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
+- [Complete Guide to Kubernetes Flavors, Their Categories &amp; How to Install Minikube on Linux &lpar;with Docker Driver&rpar;](https://dev.to/isaiah_izibili_7a39b7d627/complete-guide-to-kubernetes-flavors-their-categories-how-to-install-minikube-on-linux-with-4cfj)
+- [AWS re:Invent 2025 - Modernizing Legacy Systems: Boeing&#39;s PLM Cloud Transformation &lpar;IND321&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-modernizing-legacy-systems-boeings-plm-cloud-transformation-ind321-5bde)
 <!-- BLOG-POST-LIST:END -->
 
 
