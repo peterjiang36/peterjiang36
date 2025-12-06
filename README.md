@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 56: Python Fibonacci nth Term – Blazing Fast O&lpar;n&rpar; Iterative Solution with O&lpar;1&rpar; Space &lpar;No Recursion!&rpar;](https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02)
-- [Building AI Chatbots and Cloud Solutions: The Tech Journey of Somalpreet Singh](https://dev.to/somalpreet_singh_ff9d8e39/building-ai-chatbots-and-cloud-solutions-the-tech-journey-of-somalpreet-singh-kfk)
-- [AWS re:Invent 2025 - Reinventing software development with AI agents &lpar;INV205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-software-development-with-ai-agents-inv205-1oe3)
-- [Which ICO Marketing Services Deliver the Highest ROI in 2026?](https://dev.to/aliasceasar01/which-ico-marketing-services-deliver-the-highest-roi-in-2026-2m9d)
+- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
+- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
+- [Tired of old, clunky GUI libraries? Try PyUIkit 1.0.0 🚀](https://dev.to/huzaifaatiq/tired-of-old-clunky-gui-libraries-try-pyuikit-100-h6j)
+- [Building a Unified API Response Architecture &lpar;ASP.NET Minimal API + Next.js&rpar;](https://dev.to/treelz/building-a-unified-api-response-architecture-aspnet-minimal-api-nextjs-38l7)
 <!-- BLOG-POST-LIST:END -->
 
 
