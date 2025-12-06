@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Headless WordPress + Astro: El combo definitivo para sitios ultra-rápidos](https://dev.to/joaquin_sez_6de09e190ca1/headless-wordpress-astro-el-combo-definitivo-para-sitios-ultra-rapidos-3g19)
-- [The Secret Behind SAST: The Security Blind Spot Developers Can’t Ignore &lpar;Part 1&rpar;](https://dev.to/vardan_matevosian_tech/the-secret-behind-sast-the-security-blind-spot-developers-cant-ignore-part-1-3n7m)
-- [WARNING TO DEVELOPERS: A new wave of “technical test scams” is targeting devs](https://dev.to/andersoncontreira/warning-to-developers-a-new-wave-of-technical-test-scams-is-targeting-devs-4ifh)
-- [ALERTA IMPORTANTE PARA DEVS: golpe em testes técnicos está crescendo - fiquem espertos](https://dev.to/andersoncontreira/alerta-importante-para-devs-golpe-em-testes-tecnicos-esta-crescendo-fiquem-espertos-hj8)
+- [👋 Hello Dev Community — I’m New Here!](https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2)
+- [Writing a tiny PID 1 for containers in pure assembly &lpar;x86-64 + ARM64&rpar;](https://dev.to/bogdan_75c1dac33c215a1ba6/writing-a-tiny-pid-1-for-containers-in-pure-assembly-x86-64-arm64-2h2i)
+- [How Web Development and AI Are Transforming Local SEO for Businesses in 2025](https://dev.to/zclickagency/how-web-development-and-ai-are-transforming-local-seo-for-businesses-in-2025-3ddm)
+- [[2025 Guide] How to Create Your Own AI Avatar for E-com Ads](https://dev.to/getkoro_app/2025-guide-how-to-create-your-own-ai-avatar-for-e-com-ads-1k6b)
 <!-- BLOG-POST-LIST:END -->
 
 
