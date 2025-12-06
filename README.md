@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
-- [Order Tracking](https://dev.to/preetha_vaishnavi_2b82358/order-tracking-2lp4)
-- [Daily Tech News Roundup - 2025-12-06](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-06-51g3)
-- [The Smallest Tools Often Make the Biggest Impact](https://dev.to/knowadvance_c5092984a5b66/the-smallest-tools-often-make-the-biggest-impact-40hd)
+- [AWS re:Invent 2025 - A leader&#39;s guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1)
+- [AWS re:Invent 2025 - A leader&#39;s guide to achieving compliance through software excellence &lpar;SNR304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-achieving-compliance-through-software-excellence-snr304-4k5k)
+- [How to send WhatsApp alerts using python without paid or third-party tools?](https://dev.to/akira_83c76d918b30237d53f/how-to-send-whatsapp-alerts-using-python-without-paid-or-third-party-tools-kpd)
+- [How I Balance Aesthetics vs Performance in Web Design &lpar;and Secure Client Buy-In&rpar;](https://dev.to/prateekshaweb/how-i-balance-aesthetics-vs-performance-in-web-design-and-secure-client-buy-in-42fc)
 <!-- BLOG-POST-LIST:END -->
 
 
