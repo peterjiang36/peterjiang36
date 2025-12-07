@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Manual Testing with clear concepts](https://dev.to/cherma_latha_f853a868ccf9/simplifying-manual-testing-with-clear-concepts-1lj0)
-- [AI-Driven Cloud Agents: How AWS Is Redefining Cloud Development in 2025–26](https://dev.to/anytechie/ai-driven-cloud-agents-how-aws-is-redefining-cloud-development-in-2025-26-13lk)
-- [Binary weighted evaluations...how to](https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p)
-- [[Boost]](https://dev.to/anthonymax/-4gbp)
+- [Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation](https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci)
+- [Mastering Istio Canary Deployments: Full CI/CD Pipeline with Jenkins, GitHub Actions &amp; ArgoCD](https://dev.to/srinivasamcjf/mastering-istio-canary-deployments-full-cicd-pipeline-with-jenkins-github-actions-argocd-l1l)
+- [5 Powerful Web Platform Features You Probably Missed in 2025](https://dev.to/netsi1964/5-powerful-web-platform-features-you-probably-missed-in-2025-2pk5)
+- [Building a Modular Serverless ETL Pipeline on AWS with Terraform &amp; Lambda](https://dev.to/copubah/building-a-modular-serverless-etl-pipeline-on-aws-with-terraform-lambda-5hmf)
 <!-- BLOG-POST-LIST:END -->
 
 
