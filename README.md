@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/david_bussell14/-g8)
-- [[Boost]](https://dev.to/anthonymax/-4dh1)
-- [12 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-8cc)
-- [Share your experience](https://dev.to/vidakhoshpey22/share-your-experience-315d)
+- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4)
+- [Devpill #4 - Database migrations with Migrate](https://dev.to/raulsilva/devpill-4-database-migrations-with-migrate-1og5)
+- [Trinity AGA vs Traditional LLM Architectures](https://dev.to/ghostking314/trinity-aga-vs-traditional-llm-architectures-2pbk)
+- [Deploying a Vite + React app on Azure with Docker? I put together a complete step-by-step guide covering Dockerfiles, ACR, App Service, OIDC setup, and a GitHub Actions CI/CD pipeline. If you want to learn modern deployments, this will help a lot!](https://dev.to/dimuthu7/deploying-a-vite-react-app-on-azure-with-docker-i-put-together-a-complete-step-by-step-guide-2ofd)
 <!-- BLOG-POST-LIST:END -->
 
 
