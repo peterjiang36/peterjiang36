@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python by Structure: Context Managers and the &#39;with&#39; Statement](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-context-managers-and-the-with-statement-20ab)
-- [Humans or Monsters: The Moral Crisis of Our Species](https://dev.to/devamanali/humans-or-monsters-the-moral-crisis-of-our-species-le5)
-- [10 Calendar Tools That Can Instantly Improve Your Productivity in 2025](https://dev.to/bakhat_yar_016451bb6f3b86/10-calendar-tools-that-can-instantly-improve-your-productivity-in-2025-3d60)
-- [Top 10 Business Processes That Will Be Fully Automated by 2030 &lpar;Technical Breakdown&rpar;](https://dev.to/mdmamunkabir/top-10-business-processes-that-will-be-fully-automated-by-2030-technical-breakdown-4c92)
+- [Simplifying Manual Testing with clear concepts](https://dev.to/cherma_latha_f853a868ccf9/simplifying-manual-testing-with-clear-concepts-1lj0)
+- [AI-Driven Cloud Agents: How AWS Is Redefining Cloud Development in 2025–26](https://dev.to/anytechie/ai-driven-cloud-agents-how-aws-is-redefining-cloud-development-in-2025-26-13lk)
+- [Binary weighted evaluations...how to](https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p)
+- [[Boost]](https://dev.to/anthonymax/-4gbp)
 <!-- BLOG-POST-LIST:END -->
 
 
