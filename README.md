@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚩 Red flags series #2: God functions](https://dev.to/mhamadelitawi/red-flags-series-2-god-functions-5d5b)
-- [How to Debug LLM Failures: A Practical Guide for AI Engineers](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-guide-for-ai-engineers-5c0b)
-- [How I Built a Production-Grade Multi-Tier Application on AWS ECS Fargate &lpar;A Complete Case Study&rpar;](https://dev.to/adil_khan_dc8aaf5632c369b/how-i-built-a-production-grade-multi-tier-application-on-aws-ecs-fargate-a-complete-case-study-12on)
-- [Day 7 – Type Constraints in Terraform](https://dev.to/ankitgadling/day-7-type-constraints-in-terraform-2g2)
+- [Full Sail University: How Formal Training Shaped My Approach](https://dev.to/bradleymatera/full-sail-university-how-formal-training-shaped-my-approach-66k)
+- [Demystifying Scala 3 Macros: A Deep Dive with Quoting and Splicing](https://dev.to/depa_reddy_5e0e3025aa6eed/demystifying-scala-3-macros-a-deep-dive-with-quoting-and-splicing-4em7)
+- [I Spent 4 Months Trying To Build A Million Dollar AI Automation Platform. Here Is What Actually Happened.](https://dev.to/mzelensky/i-spent-4-months-trying-to-build-a-million-dollar-ai-automation-platform-here-is-what-actually-16n2)
+- [Day-13: Data sources in Terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-13-data-sources-in-terraform-3gha)
 <!-- BLOG-POST-LIST:END -->
 
 
