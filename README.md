@@ -74,16 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #49-2025: AI Breakthroughs, Critical React Flaw, and Shifting Tech Culture](https://dev.to/weekly/weekly-49-2025-ai-breakthroughs-critical-react-flaw-and-shifting-tech-culture-3o91)
-- [When MySQL InnoDB&#39;s Engine Redo Log Saved Your Startup](https://dev.to/igornosatov_15/when-mysql-innodbs-engine-redo-log-saved-your-startup-3636)
-- [Why Your Next AI Image Campaign Needs More Than One Model](https://dev.to/realmarkpel/why-your-next-ai-image-campaign-needs-more-than-one-model-mjo)
-- [People often ask me a simple question:
-
-“What AI tools do you actually use to run your company?”
-
-And my answer usually surprises them.
-
-I don’t run my company on “tools.” I run it on a stacked system of intelligence.](https://dev.to/jaideepparashar/people-often-ask-me-a-simple-question-what-ai-tools-do-you-actually-use-to-run-your-bi)
+- [Serverless Computing: From Basics to Advanced Concepts](https://dev.to/sameer_khanal_7a66fbe8002/serverless-computing-from-basics-to-advanced-concepts-3dgk)
+- [Maximize SDK Integration: How Monetzly Powers AI Conversation Revenue](https://dev.to/monetzly/maximize-sdk-integration-how-monetzly-powers-ai-conversation-revenue-12e8)
+- [Contributing to Larger Open Source Project - Scrapy](https://dev.to/denisc96/contributing-to-larger-open-source-project-scrapy-g84)
+- [Production AWS Deployment Simplified for everyone!](https://dev.to/aishwarygathe/production-aws-deployment-simplified-for-everyone-2nij)
 <!-- BLOG-POST-LIST:END -->
 
 
