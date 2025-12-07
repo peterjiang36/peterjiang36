@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
-- [The Invisible Bonds: Understanding Hatred’s Deep Roots](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-invisible-bonds-understanding-hatreds-deep-roots-bjg)
-- [CMMC Readiness Cost: What Defense Contractors Should Expect in 2025](https://dev.to/cyber_comply_3fd55a5f72a4/cmmc-readiness-cost-what-defense-contractors-should-expect-in-2025-5fmg)
-- [Unified Create and Edit Form With NextJS](https://dev.to/butch_imperial_dd21d71158/unified-create-and-edit-form-with-nextjs-1g6p)
+- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
+- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
+- [🤖AI for Everyone: How byLLM &amp; A11yShape Are Redefining Inclusive Coding](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
+- [SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries &amp; String Plumbing in C#](https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9)
 <!-- BLOG-POST-LIST:END -->
 
 
