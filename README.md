@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built vLitejs, a fast and flexible native video and audio player](https://dev.to/yoriiis/why-i-built-vlitejs-a-fast-and-flexible-native-video-and-audio-player-2c26)
-- [🎮 *brkrs*: A Brand New Take on Classic Brick-Breaking – Play It, Tweak It, Own It!](https://dev.to/ldrscke/brkrs-a-brand-new-take-on-classic-brick-breaking-play-it-tweak-it-own-it-3254)
-- [Building a Unified Benchmarking Pipeline for Computer Vision — Without Rewriting Code for Every Task](https://dev.to/michalsegal11/building-a-unified-benchmarking-pipeline-for-computer-vision-without-rewriting-code-for-every-task-3978)
-- [I have limited time and many interest :&#39;&rpar;](https://dev.to/abisarwan-go/i-have-limited-time-and-many-interest--35gm)
+- [What *Exactly* Is a Function in Python? &lpar;And Why Devs Love Them!&rpar;](https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6)
+- [PostgreSQL Log Viewing](https://dev.to/fazliakca/postgresql-log-viewing-3ok5)
+- [PostgreSQL Merge Into](https://dev.to/fazliakca/postgresql-merge-into-35o0)
+- [Oracle Merge Into](https://dev.to/fazliakca/oracle-merge-into-3gkc)
 <!-- BLOG-POST-LIST:END -->
 
 
