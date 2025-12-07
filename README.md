@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
-- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
-- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
-- [VSL Studio Reviews: Uncover Features, Pricing &amp; Bonuses](https://dev.to/nitin_kumar_17cc42ffd493d/vsl-studio-reviews-uncover-features-pricing-bonuses-kbd)
+- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
+- [The Invisible Bonds: Understanding Hatred’s Deep Roots](https://dev.to/drift_42_3e6b9ee4b81a41d3/the-invisible-bonds-understanding-hatreds-deep-roots-bjg)
+- [CMMC Readiness Cost: What Defense Contractors Should Expect in 2025](https://dev.to/cyber_comply_3fd55a5f72a4/cmmc-readiness-cost-what-defense-contractors-should-expect-in-2025-5fmg)
+- [Unified Create and Edit Form With NextJS](https://dev.to/butch_imperial_dd21d71158/unified-create-and-edit-form-with-nextjs-1g6p)
 <!-- BLOG-POST-LIST:END -->
 
 
