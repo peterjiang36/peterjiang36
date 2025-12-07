@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test
-
-https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
-- [SmartKNN v2 — Bigger, Faster, Smarter. Coming Soon.](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-bigger-faster-smarter-coming-soon-607)
-- [🌟 The Ultimate Memory Hooks for AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/aws-builders/the-ultimate-memory-hooks-for-aws-certified-ai-practitioner-aif-c01-3jme)
-- [10 ChatGPT Alternatives Developers Should Actually Try in 2025](https://dev.to/blogai/10-chatgpt-alternatives-developers-should-actually-try-in-2025-59cj)
+- [🚩 Red flags series #2: God functions](https://dev.to/mhamadelitawi/red-flags-series-2-god-functions-5d5b)
+- [How to Debug LLM Failures: A Practical Guide for AI Engineers](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-guide-for-ai-engineers-5c0b)
+- [How I Built a Production-Grade Multi-Tier Application on AWS ECS Fargate &lpar;A Complete Case Study&rpar;](https://dev.to/adil_khan_dc8aaf5632c369b/how-i-built-a-production-grade-multi-tier-application-on-aws-ecs-fargate-a-complete-case-study-12on)
+- [Day 7 – Type Constraints in Terraform](https://dev.to/ankitgadling/day-7-type-constraints-in-terraform-2g2)
 <!-- BLOG-POST-LIST:END -->
 
 
