@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4)
-- [Devpill #4 - Database migrations with Migrate](https://dev.to/raulsilva/devpill-4-database-migrations-with-migrate-1og5)
-- [Trinity AGA vs Traditional LLM Architectures](https://dev.to/ghostking314/trinity-aga-vs-traditional-llm-architectures-2pbk)
-- [Deploying a Vite + React app on Azure with Docker? I put together a complete step-by-step guide covering Dockerfiles, ACR, App Service, OIDC setup, and a GitHub Actions CI/CD pipeline. If you want to learn modern deployments, this will help a lot!](https://dev.to/dimuthu7/deploying-a-vite-react-app-on-azure-with-docker-i-put-together-a-complete-step-by-step-guide-2ofd)
+- [My First DEV.to Post: Sharing Something I’ve Been Building Solo](https://dev.to/resumly/my-first-devto-post-sharing-something-ive-been-building-solo-4mb1)
+- [AI Image Generator](https://dev.to/hctor_prez_606770454b73/ai-image-generator-5297)
+- [5 Tips to Keep Your Dev Platform Account Safe + A Wish for a Peaceful Tech Community](https://dev.to/gotodev/5-tips-to-keep-your-dev-platform-account-safe-a-wish-for-a-peaceful-tech-community-334l)
+- [The Tower of Hanoi and why AI won&#39;t make you a skilled developer](https://dev.to/amandamayfield/the-tower-of-hanoi-and-why-ai-wont-make-you-a-skilled-developer-188p)
 <!-- BLOG-POST-LIST:END -->
 
 
