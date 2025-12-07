@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026](https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o)
-- [How I built a Serverless, P2P Parental Control app using WebRTC and Kotlin](https://dev.to/francesco_costantino_5861/how-i-built-a-serverless-p2p-parental-control-app-using-webrtc-and-kotlin-fjj)
-- [The Great Centralisation: History of the internet is a tragedy in Four acts](https://dev.to/rengas/the-great-centralisation-history-of-the-internet-is-a-tragedy-in-four-acts-30k5)
-- [Top 10 Remote Network Engineering Jobs 2025: Companies Hiring Now + Salary Guide](https://dev.to/biswadeep_dutta_e8eba1c95/top-10-remote-network-engineering-jobs-2025-companies-hiring-now-salary-guide-3npn)
+- [[Boost]](https://dev.to/david_bussell14/-g8)
+- [[Boost]](https://dev.to/anthonymax/-4dh1)
+- [12 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-8cc)
+- [Share your experience](https://dev.to/vidakhoshpey22/share-your-experience-315d)
 <!-- BLOG-POST-LIST:END -->
 
 
