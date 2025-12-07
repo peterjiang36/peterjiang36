@@ -74,10 +74,16 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First DEV.to Post: Sharing Something I’ve Been Building Solo](https://dev.to/resumly/my-first-devto-post-sharing-something-ive-been-building-solo-4mb1)
-- [AI Image Generator](https://dev.to/hctor_prez_606770454b73/ai-image-generator-5297)
-- [5 Tips to Keep Your Dev Platform Account Safe + A Wish for a Peaceful Tech Community](https://dev.to/gotodev/5-tips-to-keep-your-dev-platform-account-safe-a-wish-for-a-peaceful-tech-community-334l)
-- [The Tower of Hanoi and why AI won&#39;t make you a skilled developer](https://dev.to/amandamayfield/the-tower-of-hanoi-and-why-ai-wont-make-you-a-skilled-developer-188p)
+- [Weekly #49-2025: AI Breakthroughs, Critical React Flaw, and Shifting Tech Culture](https://dev.to/weekly/weekly-49-2025-ai-breakthroughs-critical-react-flaw-and-shifting-tech-culture-3o91)
+- [When MySQL InnoDB&#39;s Engine Redo Log Saved Your Startup](https://dev.to/igornosatov_15/when-mysql-innodbs-engine-redo-log-saved-your-startup-3636)
+- [Why Your Next AI Image Campaign Needs More Than One Model](https://dev.to/realmarkpel/why-your-next-ai-image-campaign-needs-more-than-one-model-mjo)
+- [People often ask me a simple question:
+
+“What AI tools do you actually use to run your company?”
+
+And my answer usually surprises them.
+
+I don’t run my company on “tools.” I run it on a stacked system of intelligence.](https://dev.to/jaideepparashar/people-often-ask-me-a-simple-question-what-ai-tools-do-you-actually-use-to-run-your-bi)
 <!-- BLOG-POST-LIST:END -->
 
 
