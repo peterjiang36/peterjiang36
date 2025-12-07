@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
-- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
-- [🤖AI for Everyone: How byLLM &amp; A11yShape Are Redefining Inclusive Coding](https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9)
-- [SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries &amp; String Plumbing in C#](https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9)
+- [# Day 7 — Patch &amp; Tool Maintenance &lpar;Deeper into the Forest&rpar;](https://dev.to/aerabi/-day-7-patch-tool-maintenance-deeper-into-the-forest-501h)
+- [How to Use Google Scholar for Prior Art Discovery](https://dev.to/patentscanai/how-to-use-google-scholar-for-prior-art-discovery-170d)
+- [Cover Hero](https://dev.to/preetha_vaishnavi_2b82358/cover-hero-5264)
+- [Manhole Cover](https://dev.to/preetha_vaishnavi_2b82358/manhole-cover-5842)
 <!-- BLOG-POST-LIST:END -->
 
 
