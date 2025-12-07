@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gold Price Calculator](https://dev.to/calculatordekho/gold-price-calculator-31a0)
-- [AI Jobs Are Not Ending — They Are Shifting: क्यों 2026 में AI आपकी नौकरी ले सकता है &lpar;अगर आप तैयार नहीं हैं&rpar;](https://dev.to/abhinavkumarshandilya/ai-jobs-are-not-ending-they-are-shifting-kyon-2026-men-ai-aapkii-naukrii-le-sktaa-hai-agr-aap-taiyaar-9j9)
-- [How I Published My Rust Bun Version Manager &lpar;bum&rpar; CLI to NPM Package](https://dev.to/owenizedd/how-i-published-my-rust-bun-version-manager-bum-cli-to-npm-package-16kb)
-- [[Update] VAC: A Memory Layer That Makes LLMs Remember You](https://dev.to/vacarchitector/update-vac-a-memory-layer-that-makes-llms-remember-you-3jn3)
+- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d)
+- [GPUI Component: Because Desktop Apps Shouldn&#39;t Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp)
+- [Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-engineering-10nh)
+- [Building Agentic AI: Amazon Nova Act and Strands Agents in Practice](https://dev.to/elianalamhost/building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-27ec)
 <!-- BLOG-POST-LIST:END -->
 
 
