@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Computing: From Basics to Advanced Concepts](https://dev.to/sameer_khanal_7a66fbe8002/serverless-computing-from-basics-to-advanced-concepts-3dgk)
-- [Maximize SDK Integration: How Monetzly Powers AI Conversation Revenue](https://dev.to/monetzly/maximize-sdk-integration-how-monetzly-powers-ai-conversation-revenue-12e8)
-- [Contributing to Larger Open Source Project - Scrapy](https://dev.to/denisc96/contributing-to-larger-open-source-project-scrapy-g84)
-- [Production AWS Deployment Simplified for everyone!](https://dev.to/aishwarygathe/production-aws-deployment-simplified-for-everyone-2nij)
+- [Gold Price Calculator](https://dev.to/calculatordekho/gold-price-calculator-31a0)
+- [AI Jobs Are Not Ending — They Are Shifting: क्यों 2026 में AI आपकी नौकरी ले सकता है &lpar;अगर आप तैयार नहीं हैं&rpar;](https://dev.to/abhinavkumarshandilya/ai-jobs-are-not-ending-they-are-shifting-kyon-2026-men-ai-aapkii-naukrii-le-sktaa-hai-agr-aap-taiyaar-9j9)
+- [How I Published My Rust Bun Version Manager &lpar;bum&rpar; CLI to NPM Package](https://dev.to/owenizedd/how-i-published-my-rust-bun-version-manager-bum-cli-to-npm-package-16kb)
+- [[Update] VAC: A Memory Layer That Makes LLMs Remember You](https://dev.to/vacarchitector/update-vac-a-memory-layer-that-makes-llms-remember-you-3jn3)
 <!-- BLOG-POST-LIST:END -->
 
 
