@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Reactivity: How UI Updates Learned to Take Care of Themselves](https://dev.to/luciano0322/the-evolution-of-reactivity-how-ui-updates-learned-to-take-care-of-themselves-3ehm)
-- [VertiTab 3.4.0 Released: AI Browser Assistant - Browser sidebar uses natural language to manage browser tabs.](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-340-released-ai-browser-assistant-browser-sidebar-uses-natural-language-to-manage-1e7c)
-- [GitHub Actions: Automatizando seus Fluxos de Trabalho](https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe)
-- [The Brittleness Problem in Infrastructure Automation](https://dev.to/smiller/the-brittleness-problem-in-infrastructure-automation-47ma)
+- [Real-Time ALB Log Analysis for Proactive Integration Recovery via Datadog Monitors, Workflows and AWS Lambda](https://dev.to/aws-builders/real-time-alb-log-analysis-for-proactive-integration-recovery-via-datadog-monitors-workflows-and-115g)
+- [How to Know When Dynamic Programming Is Needed](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-know-when-dynamic-programming-is-needed-1f97)
+- [How to Explain LeetCode Solutions in Plain English for Interview Success](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-leetcode-solutions-in-plain-english-for-interview-success-423o)
+- [How to Explain Your LeetCode Solution Out Loud During Coding Interviews](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-explain-your-leetcode-solution-out-loud-during-coding-interviews-4e11)
 <!-- BLOG-POST-LIST:END -->
 
 
