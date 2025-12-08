@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
-- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
-- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
-- [Flatten a Nested List](https://dev.to/highcenburg/flatten-a-nested-list-165f)
+- [A Practical Guide to Color Contrast for Web Developers](https://dev.to/bridget_amana/a-practical-guide-to-color-contrast-for-web-developers-53oi)
+- [Brazil Killed Credit Cards in 4 Years. Wall Street Is Panicking.](https://dev.to/dhis_is_jj/brazil-killed-credit-cards-in-4-years-wall-street-is-panicking-moe)
+- [The Last Rung](https://dev.to/rawveg/the-last-rung-4jl4)
+- [Profitable Pair Correlation Divergence Scanner v6](https://dev.to/ranga_tech/profitable-pair-correlation-divergence-scanner-v6-4gnm)
 <!-- BLOG-POST-LIST:END -->
 
 
