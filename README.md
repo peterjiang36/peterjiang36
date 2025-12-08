@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
-- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
-- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
-- [The Narada Attack: Editorial Architecture for Chaos Injection and Adversarial Drift](https://dev.to/narnaiezzsshaa/the-narada-attack-editorial-architecture-for-chaos-injection-and-adversarial-drift-gio)
+- [Stop Creating Everything: The Art of Terraform Data Sources](https://dev.to/ekefan/stop-creating-everything-the-art-of-terraform-data-sources-5a4p)
+- [C# Variables, the CPU, and LLMs — From `int age = 25;` to Silicon](https://dev.to/cristiansifuentes/c-variables-the-cpu-and-llms-from-int-age-25-to-silicon-1ph2)
+- [Stop Writing System Logs For Your Mental Model - Write For Your User&#39;s Instead](https://dev.to/araldhafeeri/stop-writing-system-logs-for-your-mental-model-write-for-your-users-instead-4coj)
+- [LangChain 1.0 — A Massive Leap Forward for AI Application Development](https://dev.to/knitex/langchain-10-a-massive-leap-forward-for-ai-application-development-5jk)
 <!-- BLOG-POST-LIST:END -->
 
 
