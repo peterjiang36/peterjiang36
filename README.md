@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it](https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c)
-- [From 0 to 11 Bugs Fixed: How GoAWK Battle-Tested My 3000x Faster Regex Engine](https://dev.to/kolkov/from-0-to-11-bugs-fixed-how-goawk-battle-tested-my-3000x-faster-regex-engine-1l4b)
-- [Ship Code, Not Chaos: AI Docs Keep Your CI/CD From Becoming CI/See-Ya-Later](https://dev.to/notadevbuthere/ship-code-not-chaos-ai-docs-keep-your-cicd-from-becoming-cisee-ya-later-gjp)
-- [Cloud Velocity: Leveraging AWS DevOps Services for Zero-Downtime SaaS](https://dev.to/ioweb_961ddefd53bd65fce97/cloud-velocity-leveraging-aws-devops-services-for-zero-downtime-saas-5faj)
+- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
+- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
+- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
+- [Flatten a Nested List](https://dev.to/highcenburg/flatten-a-nested-list-165f)
 <!-- BLOG-POST-LIST:END -->
 
 
