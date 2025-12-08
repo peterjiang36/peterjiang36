@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
-- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
-- [Day 13.Create AMI from EC2 Instance](https://dev.to/thukhakyawe_cloud/day-13create-ami-from-ec2-instance-44e6)
-- [Why So Many People Say “Fuck LeetCode” — And What to Do About It](https://dev.to/alex_hunter_44f4c9ed6671e/why-so-many-people-say-fuck-leetcode-and-what-to-do-about-it-50lh)
+- [Music Monday &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-4gk1)
+- [Re: Programming Is Becoming Prompting](https://dev.to/canro91/re-programming-is-becoming-prompting-1l2n)
+- [What I learned in my first week of writing with ai](https://dev.to/dhara_chauhan_f72af80114d/what-i-learned-in-my-first-week-of-writing-with-ai-457f)
+- [Interesting read](https://dev.to/best_codes/interesting-read-16ci)
 <!-- BLOG-POST-LIST:END -->
 
 
