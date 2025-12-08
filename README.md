@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Color Contrast for Web Developers](https://dev.to/bridget_amana/a-practical-guide-to-color-contrast-for-web-developers-53oi)
-- [Brazil Killed Credit Cards in 4 Years. Wall Street Is Panicking.](https://dev.to/dhis_is_jj/brazil-killed-credit-cards-in-4-years-wall-street-is-panicking-moe)
-- [The Last Rung](https://dev.to/rawveg/the-last-rung-4jl4)
-- [Profitable Pair Correlation Divergence Scanner v6](https://dev.to/ranga_tech/profitable-pair-correlation-divergence-scanner-v6-4gnm)
+- [Designing a Type-Safe Plugin System for Next.js: Why Zod is Our Secret Weapon](https://dev.to/nextblockcms/designing-a-type-safe-plugin-system-for-nextjs-why-zod-is-our-secret-weapon-1il7)
+- [Day 06: Understanding a Clean Terraform Project Structure](https://dev.to/sreya_sharma_711168ec58fc/day-06-understanding-a-clean-terraform-project-structure-3hcn)
+- [Can CVE-2025-55182 &lpar;React Server Components Vulnerability&rpar; Create Files Like .sh, .gz, or XMRig Miners in Server Root?](https://dev.to/talha_malik_89b5ad30df33d/can-cve-2025-55182-react-server-components-vulnerability-create-files-like-sh-gz-or-xmrig-5a99)
+- [Reatom: State Management That Grows With You](https://dev.to/artalar/reatom-state-management-that-grows-with-you-1i4)
 <!-- BLOG-POST-LIST:END -->
 
 
