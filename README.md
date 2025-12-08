@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Hate Abstractions](https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8)
-- [When Systems Start Failing Quietly: How Narratives Normalize Structural Collapse](https://dev.to/deeppressanalysis/when-systems-start-failing-quietly-how-narratives-normalize-structural-collapse-31gl)
-- [Why the F*ck Is Anyone Still Using FTP⁉️](https://dev.to/sephyi/why-the-fck-is-anyone-still-using-ftp-4578)
-- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-16h5)
+- [The Evolution of Reactivity: How UI Updates Learned to Take Care of Themselves](https://dev.to/luciano0322/the-evolution-of-reactivity-how-ui-updates-learned-to-take-care-of-themselves-3ehm)
+- [VertiTab 3.4.0 Released: AI Browser Assistant - Browser sidebar uses natural language to manage browser tabs.](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-340-released-ai-browser-assistant-browser-sidebar-uses-natural-language-to-manage-1e7c)
+- [GitHub Actions: Automatizando seus Fluxos de Trabalho](https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe)
+- [The Brittleness Problem in Infrastructure Automation](https://dev.to/smiller/the-brittleness-problem-in-infrastructure-automation-47ma)
 <!-- BLOG-POST-LIST:END -->
 
 
