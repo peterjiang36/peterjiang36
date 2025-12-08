@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Multi-Language React Apps with Internationalization &lpar;i18n&rpar;](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
-- [How to Generate and Customize Word Charts Using C#](https://dev.to/allen_yang_f905170c5a197b/how-to-generate-and-customize-word-charts-using-c-5agi)
-- [☕Coffee Fantasy - Mythical Brews and Magic Potions](https://dev.to/sarahokolo/coffee-fantasy-mythical-brews-and-magic-potions-2elp)
-- [Asaaju Peter Unveils Insight on Why WordPress Is the Future of Simple, Scalable Website Creation](https://dev.to/phemight_technologies_281/asaaju-peter-unveils-insight-on-why-wordpress-is-the-future-of-simple-scalable-website-creation-3g75)
+- [Best SQL Clients for ERD Modeling in 2025](https://dev.to/dbvismarketing/best-sql-clients-for-erd-modeling-in-2025-1aj6)
+- [Roast Café by GranZant](https://dev.to/granzant/roast-cafe-by-granzant-18me)
+- [Modern Cloud Data Strategies for a Scalable and Resilient Future](https://dev.to/kapusto/modern-cloud-data-strategies-for-a-scalable-and-resilient-future-468j)
+- [Understanding Boundary Value Analysis: A Key Technique in Software Testing](https://dev.to/sri_ram_af45956066fca623f/understanding-boundary-value-analysis-a-key-technique-in-software-testing-4561)
 <!-- BLOG-POST-LIST:END -->
 
 
