@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best SQL Clients for ERD Modeling in 2025](https://dev.to/dbvismarketing/best-sql-clients-for-erd-modeling-in-2025-1aj6)
-- [Roast Café by GranZant](https://dev.to/granzant/roast-cafe-by-granzant-18me)
-- [Modern Cloud Data Strategies for a Scalable and Resilient Future](https://dev.to/kapusto/modern-cloud-data-strategies-for-a-scalable-and-resilient-future-468j)
-- [Understanding Boundary Value Analysis: A Key Technique in Software Testing](https://dev.to/sri_ram_af45956066fca623f/understanding-boundary-value-analysis-a-key-technique-in-software-testing-4561)
+- [Como Suportar Busca Não Estruturada em Banco de Dados Relacional Usando LLM](https://dev.to/asouza/como-suportar-busca-nao-estruturada-em-banco-de-dados-relacional-usando-llm-52hf)
+- [Simulation of Natural Convection + Radiative Coupling Heat Dissipation for High-Power LED Arrays using OpenFOAM](https://dev.to/emma-suntech/simulation-of-natural-convection-radiative-coupling-heat-dissipation-for-high-power-led-arrays-3dj)
+- [Ethereum Wallets and Gas &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/-day-7-ethereum-wallets-and-gas-for-non-technical-people-3bpb)
+- [Why Browser-Native Tools Are Replacing Traditional File Software &lpar;and What Comes Next&rpar;](https://dev.to/xfilez/why-browser-native-tools-are-replacing-traditional-file-software-and-what-comes-next-13m3)
 <!-- BLOG-POST-LIST:END -->
 
 
