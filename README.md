@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Suportar Busca Não Estruturada em Banco de Dados Relacional Usando LLM](https://dev.to/asouza/como-suportar-busca-nao-estruturada-em-banco-de-dados-relacional-usando-llm-52hf)
-- [Simulation of Natural Convection + Radiative Coupling Heat Dissipation for High-Power LED Arrays using OpenFOAM](https://dev.to/emma-suntech/simulation-of-natural-convection-radiative-coupling-heat-dissipation-for-high-power-led-arrays-3dj)
-- [Ethereum Wallets and Gas &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/-day-7-ethereum-wallets-and-gas-for-non-technical-people-3bpb)
-- [Why Browser-Native Tools Are Replacing Traditional File Software &lpar;and What Comes Next&rpar;](https://dev.to/xfilez/why-browser-native-tools-are-replacing-traditional-file-software-and-what-comes-next-13m3)
+- [My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it](https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c)
+- [From 0 to 11 Bugs Fixed: How GoAWK Battle-Tested My 3000x Faster Regex Engine](https://dev.to/kolkov/from-0-to-11-bugs-fixed-how-goawk-battle-tested-my-3000x-faster-regex-engine-1l4b)
+- [Ship Code, Not Chaos: AI Docs Keep Your CI/CD From Becoming CI/See-Ya-Later](https://dev.to/notadevbuthere/ship-code-not-chaos-ai-docs-keep-your-cicd-from-becoming-cisee-ya-later-gjp)
+- [Cloud Velocity: Leveraging AWS DevOps Services for Zero-Downtime SaaS](https://dev.to/ioweb_961ddefd53bd65fce97/cloud-velocity-leveraging-aws-devops-services-for-zero-downtime-saas-5faj)
 <!-- BLOG-POST-LIST:END -->
 
 
