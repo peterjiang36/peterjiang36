@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Creating Everything: The Art of Terraform Data Sources](https://dev.to/ekefan/stop-creating-everything-the-art-of-terraform-data-sources-5a4p)
-- [C# Variables, the CPU, and LLMs — From `int age = 25;` to Silicon](https://dev.to/cristiansifuentes/c-variables-the-cpu-and-llms-from-int-age-25-to-silicon-1ph2)
-- [Stop Writing System Logs For Your Mental Model - Write For Your User&#39;s Instead](https://dev.to/araldhafeeri/stop-writing-system-logs-for-your-mental-model-write-for-your-users-instead-4coj)
-- [LangChain 1.0 — A Massive Leap Forward for AI Application Development](https://dev.to/knitex/langchain-10-a-massive-leap-forward-for-ai-application-development-5jk)
+- [You Don&#39;t Hate Abstractions](https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8)
+- [When Systems Start Failing Quietly: How Narratives Normalize Structural Collapse](https://dev.to/deeppressanalysis/when-systems-start-failing-quietly-how-narratives-normalize-structural-collapse-31gl)
+- [Why the F*ck Is Anyone Still Using FTP⁉️](https://dev.to/sephyi/why-the-fck-is-anyone-still-using-ftp-4578)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-16h5)
 <!-- BLOG-POST-LIST:END -->
 
 
