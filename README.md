@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Type-Safe Plugin System for Next.js: Why Zod is Our Secret Weapon](https://dev.to/nextblockcms/designing-a-type-safe-plugin-system-for-nextjs-why-zod-is-our-secret-weapon-1il7)
-- [Day 06: Understanding a Clean Terraform Project Structure](https://dev.to/sreya_sharma_711168ec58fc/day-06-understanding-a-clean-terraform-project-structure-3hcn)
-- [Can CVE-2025-55182 &lpar;React Server Components Vulnerability&rpar; Create Files Like .sh, .gz, or XMRig Miners in Server Root?](https://dev.to/talha_malik_89b5ad30df33d/can-cve-2025-55182-react-server-components-vulnerability-create-files-like-sh-gz-or-xmrig-5a99)
-- [Reatom: State Management That Grows With You](https://dev.to/artalar/reatom-state-management-that-grows-with-you-1i4)
+- [High-Performance Web Animation: GSAP, WebGL, and the Secret to 60fps](https://dev.to/kolonatalie/high-performance-web-animation-gsap-webgl-and-the-secret-to-60fps-2l1g)
+- [Mandatory Profile in Oracle Database](https://dev.to/vahidusefzadeh/mandatory-profile-in-oracle-database-36hg)
+- [The AI Collaboration Paradox: Why Being Smart Isn&#39;t Enough Anymore](https://dev.to/ttoss/the-ai-collaboration-paradox-why-being-smart-isnt-enough-anymore-1aha)
+- [How To Audit Thousands Of H1 Tags In Minutes Using Free Tools &lpar;Step-by-Step Guide&rpar;](https://dev.to/prateekshaweb/how-to-audit-thousands-of-h1-tags-in-minutes-using-free-tools-step-by-step-guide-12ml)
 <!-- BLOG-POST-LIST:END -->
 
 
