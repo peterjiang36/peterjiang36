@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Immich on Proxmox With a Synology NAS: A Battle‑Tested Setup](https://dev.to/3zzy/running-immich-on-proxmox-with-a-synology-nas-a-battle-tested-setup-1e42)
-- [Sentence, Word &amp; Subword Tokenisation Explained](https://dev.to/chinmaynataraj/sentence-word-subword-tokenisation-explained-3nmo)
-- [AWS re:Invent 2025 - Building the future with AWS Serverless &lpar;CNS211&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-the-future-with-aws-serverless-cns211-1h0k)
-- [AWS re:Invent 2025 - Build AI-powered developer experiences with MCP on ECS and EKS &lpar;CNS358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-powered-developer-experiences-with-mcp-on-ecs-and-eks-cns358-1p44)
+- [Liella Chat](https://dev.to/john_cortez_b14920c7f3dd9/liella-chat-235m)
+- [L’IA Générative dans le DevSecOps](https://dev.to/nawres_zarouki_d68cbbfab5/lia-generative-dans-le-devsecops-565i)
+- [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI &lpar;MAM327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-intelligent-workflows-with-event-driven-ai-mam327-5adn)
+- [AWS re:Invent 2025 - Launch web applications in seconds with Amazon ECS [Butterfly] &lpar;CNS379&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-launch-web-applications-in-seconds-with-amazon-ecs-butterfly-cns379-35lb)
 <!-- BLOG-POST-LIST:END -->
 
 
