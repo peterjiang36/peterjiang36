@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-4gk1)
-- [Re: Programming Is Becoming Prompting](https://dev.to/canro91/re-programming-is-becoming-prompting-1l2n)
-- [What I learned in my first week of writing with ai](https://dev.to/dhara_chauhan_f72af80114d/what-i-learned-in-my-first-week-of-writing-with-ai-457f)
-- [Interesting read](https://dev.to/best_codes/interesting-read-16ci)
+- [The Future of Digital Agility: Why Application Modernisation Matters Now More Than Ever](https://dev.to/khushi_jitani_ca127abdedd/the-future-of-digital-agility-why-application-modernisation-matters-now-more-than-ever-1h1i)
+- [We Got Hacked: How CVE-2025-55182 Turned Our Next.js App Into a Crypto Mine](https://dev.to/starkprince/we-got-hacked-how-cve-2025-55182-turned-our-nextjs-app-into-a-crypto-mine-3oce)
+- [How Software Engineers Can Stay Relevant in the Age of AI](https://dev.to/taufiqul7756/how-software-engineers-can-stay-relevant-in-the-age-of-ai-37dj)
+- [Learning journey with google AI course which is agentic intensive capstone project was very amazing and informative..I feel great to had an opportunity to subscribe the course.
+Thanks and happy learning](https://dev.to/navin_99090c1cf9ead542371/learning-journey-with-google-ai-course-was-very-amazing-and-informativei-feel-great-to-had-an-3j0a)
 <!-- BLOG-POST-LIST:END -->
 
 
