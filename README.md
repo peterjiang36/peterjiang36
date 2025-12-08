@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Liella Chat](https://dev.to/john_cortez_b14920c7f3dd9/liella-chat-235m)
-- [L’IA Générative dans le DevSecOps](https://dev.to/nawres_zarouki_d68cbbfab5/lia-generative-dans-le-devsecops-565i)
-- [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI &lpar;MAM327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-intelligent-workflows-with-event-driven-ai-mam327-5adn)
-- [AWS re:Invent 2025 - Launch web applications in seconds with Amazon ECS [Butterfly] &lpar;CNS379&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-launch-web-applications-in-seconds-with-amazon-ecs-butterfly-cns379-35lb)
+- [The cloud lock-in trap and the loss of strategic control](https://dev.to/layerops/the-cloud-lock-in-trap-and-the-loss-of-strategic-control-50dd)
+- [Code Profiling 101: Tools and Techniques to Boost Performance – Part 1](https://dev.to/rijultp/code-profiling-101-tools-and-techniques-to-boost-performance-part-1-3o9i)
+- [How to Integrate n8n Workflow in ASP.NET Core](https://dev.to/flexyadmin/how-to-integrate-n8n-workflow-in-aspnet-core-mne)
+- [AWS re:Invent 2025 - Building software like never before with Agentic AI &lpar;DVT220&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-software-like-never-before-with-agentic-ai-dvt220-1g82)
 <!-- BLOG-POST-LIST:END -->
 
 
