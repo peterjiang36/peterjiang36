@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Block Click Copy](https://dev.to/mizouzie/code-block-click-copy-1bke)
-- [The Fragmentation Dilemma and the Unifying Protocol](https://dev.to/onlineproxyio/the-fragmentation-dilemma-and-the-unifying-protocol-5841)
-- [80. Remove Duplicates from Sorted Array II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/80-remove-duplicates-from-sorted-array-ii-leetcode-top-interview-150-coding-questions-3cci)
-- [Tum | Modo | Postea](https://dev.to/mizouzie/tum-modo-postea-5dlo)
+- [Swift #10: Bucles](https://dev.to/david_goyes_a488f58a17a53/swift-10-bucles-2d4a)
+- [Building an Automated Docker Deployment Script: A Complete Beginner&#39;s Guide](https://dev.to/primocrypt/building-an-automated-docker-deployment-script-a-complete-beginners-guide-2b0f)
+- [Fundamentos de Resiliência no Amazon EKS: Como projetar workloads tolerantes a falhas em produção](https://dev.to/aws-builders/fundamentos-de-resiliencia-no-amazon-eks-como-projetar-workloads-tolerantes-a-falhas-em-producao-2e53)
+- [What I See From The Blood Donation Intake Desk](https://dev.to/evelynbrooks/what-i-see-from-the-blood-donation-intake-desk-19gg)
 <!-- BLOG-POST-LIST:END -->
 
 
