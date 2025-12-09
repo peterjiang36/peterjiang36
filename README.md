@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
-- [From Frustration to Automation: My 3-Month Journey with i18n Translations](https://dev.to/kamilbuksakowski/from-frustration-to-automation-my-3-month-journey-with-i18n-translations-3i0)
-- [Building Professional](https://dev.to/sheri_samoon_2aec29a6e55c/building-professional-42e3)
-- [🚀 Migrating to Rive Flutter 0.14.0](https://dev.to/uianimation/migrating-to-rive-flutter-0140-5d74)
+- [Todos That Ship Themselves: MongoDB Atlas + Vercel + ChatGPT Apps SDK](https://dev.to/mongodb/todos-that-ship-themselves-mongodb-atlas-vercel-chatgpt-apps-sdk-43d6)
+- [My journey to Linux Kernel Mentorship Fall 2025](https://dev.to/ally_heev_a2677bbdadf870a/my-journey-to-linux-kernel-mentorship-fall-2025-lp9)
+- [Why Isn’t True Zero-Trust Encryption Used in Email Systems?](https://dev.to/mithun_gs/why-isnt-true-zero-trust-encryption-used-in-email-systems-3mae)
+- [How to Reclaim Memory from Docker WSL](https://dev.to/colin-williams-dev/how-to-reclaim-memory-from-docker-wsl-2lkf)
 <!-- BLOG-POST-LIST:END -->
 
 
