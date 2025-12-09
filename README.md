@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What if claude-code lived inside your browser?](https://dev.to/alentodorov/what-if-claude-code-lived-inside-your-browser-2e2h)
-- [Excel for Project Management: Tracking Timelines and Deliverables](https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n)
-- [Day 8 - Terraform Meta-Arguments](https://dev.to/ankitgadling/day-8-terraform-meta-arguments-16c4)
-- [Database Optimization: When and Why Your App Needs It](https://dev.to/flexyadmin/database-optimization-when-and-why-your-app-needs-it-54jb)
+- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
+- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
+- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
+- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
 <!-- BLOG-POST-LIST:END -->
 
 
