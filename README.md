@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Config is Technical Debt You Haven&#39;t Acknowledged Yet](https://dev.to/prashamtrivedi/your-ai-agent-config-is-technical-debt-you-havent-acknowledged-yet-520a)
-- [fullcircle • Mindful Dating App](https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab)
-- [Daily Tech News Roundup - 2025-12-09](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-09-3m1p)
-- [Building Stateful vs. Stateless AI Agents: A Deep Dive with Gaia Nodes and Supermemory](https://dev.to/gaiaai/building-stateful-vs-stateless-ai-agents-a-deep-dive-with-gaia-nodes-and-supermemory-37mh)
+- [[AWS] DevTools Evangelism CodeBuild Edition [CodeBuild]](https://dev.to/aws-builders/aws-devtools-evangelism-codebuild-edition-codebuild-hki)
+- [Ringer Movies: ‘Shampoo’ With Bill Simmons, Cameron Crowe, and Sean Fennessey | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-shampoo-with-bill-simmons-cameron-crowe-and-sean-fennessey-the-rewatchables-18b3)
+- [What is an Epic in Agile Development](https://dev.to/noahrhenriksen/what-is-an-epic-in-agile-development-2779)
+- [Install SSL Certificates on VPS](https://dev.to/emmtekdev/install-ssl-certificates-on-vps-16m3)
 <!-- BLOG-POST-LIST:END -->
 
 
