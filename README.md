@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of an Effective SaaS Navigation Menu Design](https://dev.to/lollypopdesign/anatomy-of-an-effective-saas-navigation-menu-design-47ep)
-- [WTF is Multimodal Learning?](https://dev.to/dailybugle33/wtf-is-multimodal-learning-5adi)
-- [How to Build Lightweight AI Models Directly Inside React Native](https://dev.to/sherry_walker_bba406fb339/how-to-build-lightweight-ai-models-directly-inside-react-native-2hkm)
-- [Why I Chose SafeLine WAF for My SME: A Practical Solution for Security, Performance, and Control](https://dev.to/arina_cholee/why-i-chose-safeline-waf-for-my-sme-a-practical-solution-for-security-performance-and-control-45ej)
+- [Books I Read in Last Few Years !](https://dev.to/mehedihasan1102/books-i-read-in-last-few-years--4p31)
+- [Day 9 — Runtime Threat Detection &lpar;The Shadow with Red Eyes&rpar;](https://dev.to/aerabi/day-9-runtime-threat-detection-the-shadow-with-red-eyes-5ca4)
+- [10 VS Code Extensions You Must Install](https://dev.to/respect17/10-vs-code-extensions-you-must-install-7nm)
+- [For those tinkering with AI agents in production](https://dev.to/nitin_shaji_815165423aa60/for-those-tinkering-with-ai-agents-in-production-gf2)
 <!-- BLOG-POST-LIST:END -->
 
 
