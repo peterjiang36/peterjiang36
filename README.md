@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Emotional Indicators of Compromise: A New Frontier in Security Awareness](https://dev.to/narnaiezzsshaa/emotional-indicators-of-compromise-a-new-frontier-in-security-awareness-1nkf)
-- [React2Shell: The Critical RCE Vulnerability Every Next.js Developer Must Address Now](https://dev.to/martinrojas/react2shell-the-critical-rce-vulnerability-every-nextjs-developer-must-address-now-2fke)
-- [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-a98)
+- [How to Build an AI vs Human Image Detector Using Streamlit &amp; Transformers](https://dev.to/themustaphatijani/how-to-build-an-ai-vs-human-image-detector-using-streamlit-transformers-2a61)
+- [Better Accessibility: My Path to the CPACC](https://dev.to/dianale/better-accessibility-my-path-to-the-cpacc-37d3)
+- [“I&#39;ve failed 17 consecutive times with the exact same error”](https://dev.to/tonkotsu/ive-failed-17-consecutive-times-with-the-exact-same-error-1efn)
+- [Preparing Students for Modern Software Development Toolchains](https://dev.to/chbrown13/preparing-students-for-modern-software-development-toolchains-594e)
 <!-- BLOG-POST-LIST:END -->
 
 
