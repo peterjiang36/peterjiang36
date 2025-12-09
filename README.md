@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Automation: Synchronizing Data Across Multiple Systems](https://dev.to/joe_joe/database-automation-synchronizing-data-across-multiple-systems-eek)
-- [Why Denver Businesses Are Upgrading to Smart Access Control](https://dev.to/shaian_birashk_131474f42c/why-denver-businesses-are-upgrading-to-smart-access-control-36oh)
-- [YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y](https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee)
-- [Complete Beginner&#39;s Guide to Blue-Green Deployment with Nginx and Real-Time Alerting](https://dev.to/cypher682/complete-beginners-guide-to-blue-green-deployment-with-nginx-and-real-time-alerting-268c)
+- [Emotional Indicators of Compromise: A New Frontier in Security Awareness](https://dev.to/narnaiezzsshaa/emotional-indicators-of-compromise-a-new-frontier-in-security-awareness-1nkf)
+- [React2Shell: The Critical RCE Vulnerability Every Next.js Developer Must Address Now](https://dev.to/martinrojas/react2shell-the-critical-rce-vulnerability-every-nextjs-developer-must-address-now-2fke)
+- [AWS CDK 100 Drill Exercises #002: IAM Basics —— Users, Roles, and Secure Password Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-002-iam-basics-users-roles-and-secure-password-management-1npa)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-a98)
 <!-- BLOG-POST-LIST:END -->
 
 
