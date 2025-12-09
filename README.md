@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Dynamic Web Apps with Angular](https://dev.to/srishti_4d0a3696c16b5/building-dynamic-web-apps-with-angular-1d57)
-- [Building a Scalable Plagiarism-Detection Pipeline &lpar;With Examples&rpar;](https://dev.to/bredy_lord_35283bc778b1fa/building-a-scalable-plagiarism-detection-pipeline-with-examples-1237)
-- [Catch vulnerabilities before they ship: local SonarQube setup &lpar;Part 2&rpar;](https://dev.to/vardan_matevosian_tech/catch-vulnerabilities-before-they-ship-local-sonarqube-setup-part-2-1ad3)
-- [Design System: Governance and Adoption](https://dev.to/denis_bratchikov/design-system-governance-and-adoption-30ai)
+- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
+- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+- [Scaling Ad Campaigns with Genra&#39;s AI Video Generation](https://dev.to/genra_ai/scaling-ad-campaigns-with-genras-ai-video-generation-5e3k)
+- [Markdown Style Guide: Best Practices for Content Creation](https://dev.to/quesby/markdown-style-guide-best-practices-for-content-creation-15nm)
 <!-- BLOG-POST-LIST:END -->
 
 
