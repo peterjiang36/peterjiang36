@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
-- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
-- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
-- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
+- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
+- [🎨 I Built My Developer Portfolio at 14 — Here’s What I Learned](https://dev.to/similol3/i-built-my-developer-portfolio-at-14-heres-what-i-learned-2791)
+- [I Built an AI-Powered AWS Waste Detector &lpar;and Found $4,200 in My Own Account&rpar;](https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4)
+- [MCP Wins, But the War Just Started: Why Standardization Won&#39;t Save Us from Lock-in](https://dev.to/fl4tlin3/mcp-wins-but-the-war-just-started-why-standardization-wont-save-us-from-lock-in-53a4)
 <!-- BLOG-POST-LIST:END -->
 
 
