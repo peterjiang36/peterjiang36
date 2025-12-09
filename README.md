@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Modern Layouts with CSS Logical Properties and Media Queries Level 4+](https://dev.to/sharique_siddiqui_8242dad/unlocking-modern-layouts-with-css-logical-properties-and-media-queries-level-4-3maj)
-- [𝐖𝐡𝐲 𝐓𝐢𝐜𝐤𝐞𝐭𝐦𝐚𝐬𝐭𝐞𝐫 𝐜𝐫𝐚𝐬𝐡𝐞𝐬 𝐛𝐮𝐭 𝐀𝐦𝐚𝐳𝐨𝐧 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐬 𝐁𝐥𝐚𝐜𝐤 𝐅𝐫𝐢𝐝𝐚𝐲 – 𝐭𝐡𝐞 𝐭𝐫𝐮𝐭𝐡 𝐚𝐛𝐨𝐮𝐭 𝐥𝐨𝐚𝐝 𝐛𝐚𝐥𝐚𝐧𝐜𝐢𝐧𝐠.](https://dev.to/innovated_dev/--4d1j)
-- [AWS re:Invent 2025 - Agentic data engineering with AWS Analytics MCP Servers &lpar;ANT335&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-agentic-data-engineering-with-aws-analytics-mcp-servers-ant335-36dn)
-- [AWS re:Invent 2025 - Building multi-Region data lakes with Replication for Amazon S3 Tables &lpar;STG358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-multi-region-data-lakes-with-replication-for-amazon-s3-tables-stg358-2kom)
+- [A Lightweight Way to Convert Text Files to PDF Without Breaking Developer Flow](https://dev.to/knowadvance_c5092984a5b66/a-lightweight-way-to-convert-text-files-to-pdf-without-breaking-developer-flow-3lee)
+- [A Simple Tool to Solve Real Problems for Shop Owners](https://dev.to/vjygour/a-simple-tool-to-solve-real-problems-for-shop-owners-1gp2)
+- [PostgreSQL MVCC vs MySQL Key-Next Locking: How Transaction Isolation Affects Concurrency](https://dev.to/deko39/postgresql-mvcc-vs-mysql-key-next-locking-how-transaction-isolation-affects-concurrency-3a37)
+- [Understanding Different Types of Databases in AWS: When to Use What?](https://dev.to/aishwarygathe/understanding-different-types-of-databases-in-aws-when-to-use-what-3nmo)
 <!-- BLOG-POST-LIST:END -->
 
 
