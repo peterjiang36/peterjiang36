@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting &quot;Agentic&quot; systems at the edge: an analysis of the Cloudflare platform](https://dev.to/onepoint/architecting-agentic-systems-at-the-edge-a-technical-strategic-analysis-of-the-cloudflare-3761)
-- [Tesla System Design Interview Lessons I Learned from Cracking Their Coding Challenge](https://dev.to/dev_loops/tesla-system-design-interview-lessons-i-learned-from-cracking-their-coding-challenge-1p8c)
-- [The Next Frontier: Scaling with Autonomous Agent AI Services](https://dev.to/ioweb_961ddefd53bd65fce97/the-next-frontier-scaling-with-autonomous-agent-ai-services-2pmm)
-- [Orchestrating Intelligence: The Power of Multi-Agent AI Development](https://dev.to/ioweb_961ddefd53bd65fce97/orchestrating-intelligence-the-power-of-multi-agent-ai-development-3ghe)
+- [Building Dynamic Web Apps with Angular](https://dev.to/srishti_4d0a3696c16b5/building-dynamic-web-apps-with-angular-1d57)
+- [Building a Scalable Plagiarism-Detection Pipeline &lpar;With Examples&rpar;](https://dev.to/bredy_lord_35283bc778b1fa/building-a-scalable-plagiarism-detection-pipeline-with-examples-1237)
+- [Catch vulnerabilities before they ship: local SonarQube setup &lpar;Part 2&rpar;](https://dev.to/vardan_matevosian_tech/catch-vulnerabilities-before-they-ship-local-sonarqube-setup-part-2-1ad3)
+- [Design System: Governance and Adoption](https://dev.to/denis_bratchikov/design-system-governance-and-adoption-30ai)
 <!-- BLOG-POST-LIST:END -->
 
 
