@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Lightweight Way to Convert Text Files to PDF Without Breaking Developer Flow](https://dev.to/knowadvance_c5092984a5b66/a-lightweight-way-to-convert-text-files-to-pdf-without-breaking-developer-flow-3lee)
-- [A Simple Tool to Solve Real Problems for Shop Owners](https://dev.to/vjygour/a-simple-tool-to-solve-real-problems-for-shop-owners-1gp2)
-- [PostgreSQL MVCC vs MySQL Key-Next Locking: How Transaction Isolation Affects Concurrency](https://dev.to/deko39/postgresql-mvcc-vs-mysql-key-next-locking-how-transaction-isolation-affects-concurrency-3a37)
-- [Understanding Different Types of Databases in AWS: When to Use What?](https://dev.to/aishwarygathe/understanding-different-types-of-databases-in-aws-when-to-use-what-3nmo)
+- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
+- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
+- [From NestJS to malloc: My Nightly Battle with Memory](https://dev.to/fauzanfebrian/from-nestjs-to-malloc-my-nightly-battle-with-memory-460n)
+- [Transform Your SDK Integration with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-conversation-tools-127a)
 <!-- BLOG-POST-LIST:END -->
 
 
