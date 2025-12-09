@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI vs Human Image Detector Using Streamlit &amp; Transformers](https://dev.to/themustaphatijani/how-to-build-an-ai-vs-human-image-detector-using-streamlit-transformers-2a61)
-- [Better Accessibility: My Path to the CPACC](https://dev.to/dianale/better-accessibility-my-path-to-the-cpacc-37d3)
-- [“I&#39;ve failed 17 consecutive times with the exact same error”](https://dev.to/tonkotsu/ive-failed-17-consecutive-times-with-the-exact-same-error-1efn)
-- [Preparing Students for Modern Software Development Toolchains](https://dev.to/chbrown13/preparing-students-for-modern-software-development-toolchains-594e)
+- [What if claude-code lived inside your browser?](https://dev.to/alentodorov/what-if-claude-code-lived-inside-your-browser-2e2h)
+- [Excel for Project Management: Tracking Timelines and Deliverables](https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n)
+- [Day 8 - Terraform Meta-Arguments](https://dev.to/ankitgadling/day-8-terraform-meta-arguments-16c4)
+- [Database Optimization: When and Why Your App Needs It](https://dev.to/flexyadmin/database-optimization-when-and-why-your-app-needs-it-54jb)
 <!-- BLOG-POST-LIST:END -->
 
 
