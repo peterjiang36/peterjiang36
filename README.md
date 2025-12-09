@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
-- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
-- [From NestJS to malloc: My Nightly Battle with Memory](https://dev.to/fauzanfebrian/from-nestjs-to-malloc-my-nightly-battle-with-memory-460n)
-- [Transform Your SDK Integration with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-conversation-tools-127a)
+- [Your AI Agent Config is Technical Debt You Haven&#39;t Acknowledged Yet](https://dev.to/prashamtrivedi/your-ai-agent-config-is-technical-debt-you-havent-acknowledged-yet-520a)
+- [fullcircle • Mindful Dating App](https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab)
+- [Daily Tech News Roundup - 2025-12-09](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-09-3m1p)
+- [Building Stateful vs. Stateless AI Agents: A Deep Dive with Gaia Nodes and Supermemory](https://dev.to/gaiaai/building-stateful-vs-stateless-ai-agents-a-deep-dive-with-gaia-nodes-and-supermemory-37mh)
 <!-- BLOG-POST-LIST:END -->
 
 
