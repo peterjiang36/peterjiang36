@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Books I Read in Last Few Years !](https://dev.to/mehedihasan1102/books-i-read-in-last-few-years--4p31)
-- [Day 9 — Runtime Threat Detection &lpar;The Shadow with Red Eyes&rpar;](https://dev.to/aerabi/day-9-runtime-threat-detection-the-shadow-with-red-eyes-5ca4)
-- [10 VS Code Extensions You Must Install](https://dev.to/respect17/10-vs-code-extensions-you-must-install-7nm)
-- [For those tinkering with AI agents in production](https://dev.to/nitin_shaji_815165423aa60/for-those-tinkering-with-ai-agents-in-production-gf2)
+- [Architecting &quot;Agentic&quot; systems at the edge: an analysis of the Cloudflare platform](https://dev.to/onepoint/architecting-agentic-systems-at-the-edge-a-technical-strategic-analysis-of-the-cloudflare-3761)
+- [Tesla System Design Interview Lessons I Learned from Cracking Their Coding Challenge](https://dev.to/dev_loops/tesla-system-design-interview-lessons-i-learned-from-cracking-their-coding-challenge-1p8c)
+- [The Next Frontier: Scaling with Autonomous Agent AI Services](https://dev.to/ioweb_961ddefd53bd65fce97/the-next-frontier-scaling-with-autonomous-agent-ai-services-2pmm)
+- [Orchestrating Intelligence: The Power of Multi-Agent AI Development](https://dev.to/ioweb_961ddefd53bd65fce97/orchestrating-intelligence-the-power-of-multi-agent-ai-development-3ghe)
 <!-- BLOG-POST-LIST:END -->
 
 
