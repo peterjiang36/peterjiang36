@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 Lab: Launching an Instance in a Private Subnet &lpar;Private Access&rpar;](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e)
-- [Ringer Movies: The Truth About Netflix Buying Warner Bros.](https://dev.to/popcorn_movies/ringer-movies-the-truth-about-netflix-buying-warner-bros-4l88)
-- [The Invisible Hand You&#39;re Ignoring: Macroeconomics Decoded](https://dev.to/thinkaddict/the-invisible-hand-youre-ignoring-macroeconomics-decoded-23ip)
-- [How do you vet a Lead Backend Engineer when AI makes everyone sound senior?](https://dev.to/delivery/how-do-you-vet-a-lead-backend-engineer-when-ai-makes-everyone-sound-senior-4k6j)
+- [容器内安装tailscale](https://dev.to/dragon72463399/rong-qi-nei-an-zhuang-tailscale-54ah)
+- [Acontext: Open-Source Context Layer for AI Agent Self-Learning](https://dev.to/stelixx-insider/acontext-open-source-context-layer-for-ai-agent-self-learning-4bbn)
+- [SvelteMark: Local-First Markdown Editor Built with Svelte 5](https://dev.to/jqueryscript/sveltemark-local-first-markdown-editor-built-with-svelte-5-27h5)
+- [AWS re:Invent 2025 - A leader&#39;s guide to data strategy in the era of agentic AI &lpar;SNR202&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-data-strategy-in-the-era-of-agentic-ai-snr202-cip)
 <!-- BLOG-POST-LIST:END -->
 
 
