@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Todos That Ship Themselves: MongoDB Atlas + Vercel + ChatGPT Apps SDK](https://dev.to/mongodb/todos-that-ship-themselves-mongodb-atlas-vercel-chatgpt-apps-sdk-43d6)
-- [My journey to Linux Kernel Mentorship Fall 2025](https://dev.to/ally_heev_a2677bbdadf870a/my-journey-to-linux-kernel-mentorship-fall-2025-lp9)
-- [Why Isn’t True Zero-Trust Encryption Used in Email Systems?](https://dev.to/mithun_gs/why-isnt-true-zero-trust-encryption-used-in-email-systems-3mae)
-- [How to Reclaim Memory from Docker WSL](https://dev.to/colin-williams-dev/how-to-reclaim-memory-from-docker-wsl-2lkf)
+- [Anatomy of an Effective SaaS Navigation Menu Design](https://dev.to/lollypopdesign/anatomy-of-an-effective-saas-navigation-menu-design-47ep)
+- [WTF is Multimodal Learning?](https://dev.to/dailybugle33/wtf-is-multimodal-learning-5adi)
+- [How to Build Lightweight AI Models Directly Inside React Native](https://dev.to/sherry_walker_bba406fb339/how-to-build-lightweight-ai-models-directly-inside-react-native-2hkm)
+- [Why I Chose SafeLine WAF for My SME: A Practical Solution for Security, Performance, and Control](https://dev.to/arina_cholee/why-i-chose-safeline-waf-for-my-sme-a-practical-solution-for-security-performance-and-control-45ej)
 <!-- BLOG-POST-LIST:END -->
 
 
