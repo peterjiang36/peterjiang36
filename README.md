@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift #10: Bucles](https://dev.to/david_goyes_a488f58a17a53/swift-10-bucles-2d4a)
-- [Building an Automated Docker Deployment Script: A Complete Beginner&#39;s Guide](https://dev.to/primocrypt/building-an-automated-docker-deployment-script-a-complete-beginners-guide-2b0f)
-- [Fundamentos de Resiliência no Amazon EKS: Como projetar workloads tolerantes a falhas em produção](https://dev.to/aws-builders/fundamentos-de-resiliencia-no-amazon-eks-como-projetar-workloads-tolerantes-a-falhas-em-producao-2e53)
-- [What I See From The Blood Donation Intake Desk](https://dev.to/evelynbrooks/what-i-see-from-the-blood-donation-intake-desk-19gg)
+- [JSON Eval Failures: Why Evaluations Blow Up and How to Fix Them](https://dev.to/dowhatmatters/json-eval-failures-why-evaluations-blow-up-and-how-to-fix-them-dj)
+- [Coding Challenge Practice - Question 74](https://dev.to/tomivan/coding-challenge-practice-question-74-1476)
+- [Alternativas Gratuitas a AntiGravity: Extensiones de IA para Programación](https://dev.to/joaquin_sez_6de09e190ca1/alternativas-gratuitas-a-antigravity-extensiones-de-ia-para-programacion-3lh0)
+- [I Built 10 Chrome Extensions in 2025 - Here&#39;s What I Learned](https://dev.to/eftekhar_amil_6a7afca02cc/i-built-10-chrome-extensions-in-2025-heres-what-i-learned-4fc1)
 <!-- BLOG-POST-LIST:END -->
 
 
