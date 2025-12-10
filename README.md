@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Notebook: 4 Architectural Patterns for Production-Ready AI Agents](https://dev.to/fmquaglia/beyond-the-notebook-4-architectural-patterns-for-production-ready-ai-agents-3a16)
-- [ChatGPT App Display Mode Reference](https://dev.to/abewheeler/chatgpt-app-display-mode-reference-49im)
-- [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
-- [اتوماسیون هوش مصنوعی: جادو نیست، مهندسیِ زمان است](https://dev.to/amirali_alamdar/twmsywn-hwsh-msnwy-jdw-nyst-mhndsyi-zmn-st-1k9a)
+- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
+- [Building a &quot;Bullshit Detector&quot; for LLMs using Node.js and pgvector](https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik)
+- [Why Verdex Uses CDP Directly](https://dev.to/johnonline35/why-verdex-uses-cdp-directly-36ao)
+- [I built an AI mood tracking app to help me with my anxiety](https://dev.to/room8_space_dev/i-built-an-ai-mood-tracking-app-to-help-me-with-my-anxiety-507d)
 <!-- BLOG-POST-LIST:END -->
 
 
