@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: Catching Up](https://dev.to/blink_c5eb0afe3975/day-5-catching-up-5c36)
-- [Day 5: Catching Up and Random Realizations](https://dev.to/casperday11/day-5-catching-up-and-random-realizations-3m1p)
-- [10 Cool CodePen Demos &lpar;November 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-november-2025-57fc)
-- [Create OpenAI API key](https://dev.to/codebangkok/create-openai-api-key-4ln9)
+- [How I Built and Published My First NPM Package in 3 Weeks](https://dev.to/itskarelleh/my-3-week-journey-to-publish-my-first-npm-package-2184)
+- [Why Every New Graduate Should Replace Their PDF CV with a Portfolio](https://dev.to/imtaslim/why-every-new-graduate-should-replace-their-pdf-cv-with-a-portfolio-4b6l)
+- [Networking for Cybersecurity &lpar;Part 4&rpar;: Packets, Sniffing &amp; Traffic Analysis](https://dev.to/alvinseyidov/networking-for-cybersecurity-part-4-packets-sniffing-traffic-analysis-31f9)
+- [How Jobs to Be Done Reveals True Customer Needs: Insights Inspired by John Neuhart](https://dev.to/johnneuhart/how-jobs-to-be-done-reveals-true-customer-needs-insights-inspired-by-john-neuhart-2gk4)
 <!-- BLOG-POST-LIST:END -->
 
 
