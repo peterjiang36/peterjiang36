@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing the Untestable: How to Simulate Pain Flares and Cognitive Fog in Automated Tests](https://dev.to/crisiscoresystems/testing-the-untestable-how-to-simulate-pain-flares-and-cognitive-fog-in-automated-tests-51n2)
-- [Simplificando Inversion of Control y Dependency Injection](https://dev.to/fdherrera/simplificando-inversion-of-control-y-dependency-injection-5hkh)
-- [How to Guarantee True Ordering in Complex Kafka Replays: Solving the Determinism Nightmare](https://dev.to/tsofnat_m/how-to-guarantee-true-ordering-in-complex-kafka-replays-solving-the-determinism-nightmare-5d03)
-- [KDE Plasma 6.3.6 Didn’t Add Features—It Removed Friction](https://dev.to/divsmart/kde-plasma-636-didnt-add-features-it-removed-friction-2p82)
+- [Day 5: Catching Up](https://dev.to/blink_c5eb0afe3975/day-5-catching-up-5c36)
+- [Day 5: Catching Up and Random Realizations](https://dev.to/casperday11/day-5-catching-up-and-random-realizations-3m1p)
+- [10 Cool CodePen Demos &lpar;November 2025&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-november-2025-57fc)
+- [Create OpenAI API key](https://dev.to/codebangkok/create-openai-api-key-4ln9)
 <!-- BLOG-POST-LIST:END -->
 
 
