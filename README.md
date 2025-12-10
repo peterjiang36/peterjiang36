@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Eval Failures: Why Evaluations Blow Up and How to Fix Them](https://dev.to/dowhatmatters/json-eval-failures-why-evaluations-blow-up-and-how-to-fix-them-dj)
-- [Coding Challenge Practice - Question 74](https://dev.to/tomivan/coding-challenge-practice-question-74-1476)
-- [Alternativas Gratuitas a AntiGravity: Extensiones de IA para Programación](https://dev.to/joaquin_sez_6de09e190ca1/alternativas-gratuitas-a-antigravity-extensiones-de-ia-para-programacion-3lh0)
-- [I Built 10 Chrome Extensions in 2025 - Here&#39;s What I Learned](https://dev.to/eftekhar_amil_6a7afca02cc/i-built-10-chrome-extensions-in-2025-heres-what-i-learned-4fc1)
+- [Day 1282 : In The End](https://dev.to/dwane/day-1282-in-the-end-3g3b)
+- [🌥️ Mi primer paso en AWS: una experiencia que realmente me movió algo por dentro](https://dev.to/dario_cortes_f59571846b1d/mi-primer-paso-en-aws-una-experiencia-que-realmente-me-movio-algo-por-dentro-4kh0)
+- [“𝐇𝐨𝐰 𝐆𝐨𝐨𝐠𝐥𝐞 𝐬𝐡𝐨𝐰𝐬 𝐲𝐨𝐮 𝐬𝐞𝐚𝐫𝐜𝐡 𝐫𝐞𝐬𝐮𝐥𝐭𝐬 𝐢𝐧 𝟎.𝟑 𝐬𝐞𝐜𝐨𝐧𝐝𝐬 &lpar;𝐭𝐡𝐞𝐲’𝐫𝐞 𝐜𝐡𝐞𝐚𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐭𝐨𝐨&rpar;”](https://dev.to/innovated_dev/--4gpo)
+- [No API? No Problem!](https://dev.to/dima_vremenko/no-api-no-problem-2j4i)
 <!-- BLOG-POST-LIST:END -->
 
 
