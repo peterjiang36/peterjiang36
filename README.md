@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built and Published My First NPM Package in 3 Weeks](https://dev.to/itskarelleh/my-3-week-journey-to-publish-my-first-npm-package-2184)
-- [Why Every New Graduate Should Replace Their PDF CV with a Portfolio](https://dev.to/imtaslim/why-every-new-graduate-should-replace-their-pdf-cv-with-a-portfolio-4b6l)
-- [Networking for Cybersecurity &lpar;Part 4&rpar;: Packets, Sniffing &amp; Traffic Analysis](https://dev.to/alvinseyidov/networking-for-cybersecurity-part-4-packets-sniffing-traffic-analysis-31f9)
-- [How Jobs to Be Done Reveals True Customer Needs: Insights Inspired by John Neuhart](https://dev.to/johnneuhart/how-jobs-to-be-done-reveals-true-customer-needs-insights-inspired-by-john-neuhart-2gk4)
+- [Uninformed Optimism and Tech Shiny Object Syndrome](https://dev.to/bobby_k_x/uninformed-optimism-and-tech-shiny-object-syndrome-5335)
+- [Stop Scripting, Start Architecting: The OOP Approach to Terraform](https://dev.to/dortort/stop-scripting-start-architecting-the-oop-approach-to-terraform-3hl0)
+- [Rethinking API Design for AI Agents: From Data Plumbing to Intelligent Interfaces](https://dev.to/akshaygupta1996/rethinking-api-design-for-ai-agents-from-data-plumbing-to-intelligent-interfaces-37jh)
+- [Tailwind CSS Best Practices &amp; Design System Patterns 🎨](https://dev.to/frontendtoolstech/tailwind-css-best-practices-design-system-patterns-54pi)
 <!-- BLOG-POST-LIST:END -->
 
 
