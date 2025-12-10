@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1282 : In The End](https://dev.to/dwane/day-1282-in-the-end-3g3b)
-- [🌥️ Mi primer paso en AWS: una experiencia que realmente me movió algo por dentro](https://dev.to/dario_cortes_f59571846b1d/mi-primer-paso-en-aws-una-experiencia-que-realmente-me-movio-algo-por-dentro-4kh0)
-- [“𝐇𝐨𝐰 𝐆𝐨𝐨𝐠𝐥𝐞 𝐬𝐡𝐨𝐰𝐬 𝐲𝐨𝐮 𝐬𝐞𝐚𝐫𝐜𝐡 𝐫𝐞𝐬𝐮𝐥𝐭𝐬 𝐢𝐧 𝟎.𝟑 𝐬𝐞𝐜𝐨𝐧𝐝𝐬 &lpar;𝐭𝐡𝐞𝐲’𝐫𝐞 𝐜𝐡𝐞𝐚𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐭𝐨𝐨&rpar;”](https://dev.to/innovated_dev/--4gpo)
-- [No API? No Problem!](https://dev.to/dima_vremenko/no-api-no-problem-2j4i)
+- [OptWin 1.1 release announcement - Optimize Windows](https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc)
+- [Setting up ALS &lpar;Ada Language Server&rpar; for Sublime Text](https://dev.to/sabedoesthings/setting-up-als-ada-language-server-for-sublime-text-10m8)
+- [Introducing Claude Code Documentation Standards: Automated Documentation with Built-in Linting](https://dev.to/nasrulhazim/introducing-claude-code-documentation-standards-automated-documentation-with-built-in-linting-51c)
+- [The difference between &quot;Hires&quot; and &quot;Hired&quot; on Upwork](https://dev.to/chocomastery/the-difference-between-hires-and-hired-on-upwork-2j1g)
 <!-- BLOG-POST-LIST:END -->
 
 
