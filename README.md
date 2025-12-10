@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Boletear desde Chile 🇨🇱 al extranjero o crear una PYME 🏦 y facturar?](https://dev.to/devschile/boletear-desde-chile-al-extranjero-o-crear-una-pyme-y-facturar-4f3g)
-- [How to use git-scope.](https://dev.to/iam_pbk/how-to-use-git-scope-3gb0)
-- [Mensageria com RabbitMQ e Golang - Conceitos e Primeiro Contato](https://dev.to/thiagoalvoravel/mensageria-com-rabbitmq-e-golang-conceitos-e-primeiro-contato-383b)
-- [Let&#39;s Deploy n8n on ec2 instances 🚀🚀🚀](https://dev.to/joshyfruit/lets-deploy-n8n-on-ec2-instances-4jdm)
+- [Testing the Untestable: How to Simulate Pain Flares and Cognitive Fog in Automated Tests](https://dev.to/crisiscoresystems/testing-the-untestable-how-to-simulate-pain-flares-and-cognitive-fog-in-automated-tests-51n2)
+- [Simplificando Inversion of Control y Dependency Injection](https://dev.to/fdherrera/simplificando-inversion-of-control-y-dependency-injection-5hkh)
+- [How to Guarantee True Ordering in Complex Kafka Replays: Solving the Determinism Nightmare](https://dev.to/tsofnat_m/how-to-guarantee-true-ordering-in-complex-kafka-replays-solving-the-determinism-nightmare-5d03)
+- [KDE Plasma 6.3.6 Didn’t Add Features—It Removed Friction](https://dev.to/divsmart/kde-plasma-636-didnt-add-features-it-removed-friction-2p82)
 <!-- BLOG-POST-LIST:END -->
 
 
