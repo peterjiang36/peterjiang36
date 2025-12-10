@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for the Future of Programming](https://dev.to/clara-is-coding/how-to-prepare-for-the-future-of-programming-1h9c)
-- [Day 60: Python Remove Nth Node From End of Linked List, Two-Pointer Magic to Delete in One Pass &lpar;LeetCode #19 Style&rpar;](https://dev.to/shahrouzlogs/day-60-python-remove-nth-node-from-end-of-linked-list-two-pointer-magic-to-delete-in-one-pass-4b1l)
-- [How Documentation Teams Improved Developer Experience in 2025](https://dev.to/therealmrmumba/how-documentation-teams-improved-developer-experience-in-2025-4ig6)
-- [When AI Learns to Hack](https://dev.to/rawveg/when-ai-learns-to-hack-14eg)
+- [¿Boletear desde Chile 🇨🇱 al extranjero o crear una PYME 🏦 y facturar?](https://dev.to/devschile/boletear-desde-chile-al-extranjero-o-crear-una-pyme-y-facturar-4f3g)
+- [How to use git-scope.](https://dev.to/iam_pbk/how-to-use-git-scope-3gb0)
+- [Mensageria com RabbitMQ e Golang - Conceitos e Primeiro Contato](https://dev.to/thiagoalvoravel/mensageria-com-rabbitmq-e-golang-conceitos-e-primeiro-contato-383b)
+- [Let&#39;s Deploy n8n on ec2 instances 🚀🚀🚀](https://dev.to/joshyfruit/lets-deploy-n8n-on-ec2-instances-4jdm)
 <!-- BLOG-POST-LIST:END -->
 
 
