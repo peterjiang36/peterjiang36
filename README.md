@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
-- [The Great Un-Skip: Reclaiming Depth and Discovery in a Fast-Forward World](https://dev.to/ammar_yousry_9ab5250bec40/the-great-un-skip-reclaiming-depth-and-discovery-in-a-fast-forward-world-3gj7)
-- [Como Economizar no Delivery de Comida: Dicas Práticas para o Dia a Dia](https://dev.to/weng_dingjun_0560e88e2b91/como-economizar-no-delivery-de-comida-dicas-praticas-para-o-dia-a-dia-32j6)
-- [How to launch a green/eco-friendly subscription box using WooCommerce](https://dev.to/vipul_yadav_c95fff0f6b791/how-to-launch-a-greeneco-friendly-subscription-box-using-woocommerce-1jj5)
+- [The Self-Checkout Trap: Why Retailers Keep Betting on Technology That Costs Them Billions](https://dev.to/icybergenome_34/the-self-checkout-trap-why-retailers-keep-betting-on-technology-that-costs-them-billions-2akj)
+- [Version Control With Commands &lpar;Complete Git Guide for Beginners &amp; Developers&rpar;](https://dev.to/jay_sarvaiya_reactjs/version-control-with-commands-complete-git-guide-for-beginners-developers-57k4)
+- [How I Built a Full-Stack Bookstore App in 10 Days &lpar;And What I Learned&rpar;](https://dev.to/minotaurg/how-i-built-a-full-stack-bookstore-app-in-10-days-and-what-i-learned-4do4)
+- [eSparkBiz Honored by IPLocation as a Top Software Development Company](https://dev.to/andrewsjoey17/esparkbiz-honored-by-iplocation-as-a-top-software-development-company-378p)
 <!-- BLOG-POST-LIST:END -->
 
 
