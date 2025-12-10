@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineering: Advent of AI with goose Day 1](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-1-1ic3)
-- [The Architecture of Agency: Building, Securing, and Scaling Your Own MCP Ecosystem](https://dev.to/onlineproxyio/the-architecture-of-agency-building-securing-and-scaling-your-own-mcp-ecosystem-1pog)
-- [test post](https://dev.to/testorg_breno/test-post-g7g)
-- [Why x402 Doesn&#39;t Support USDT &lpar;But USDT0 Changes Everything&rpar;](https://dev.to/justqueue/why-x402-doesnt-support-usdt-but-usdt0-changes-everything-1kh6)
+- [Beyond the Notebook: 4 Architectural Patterns for Production-Ready AI Agents](https://dev.to/fmquaglia/beyond-the-notebook-4-architectural-patterns-for-production-ready-ai-agents-3a16)
+- [ChatGPT App Display Mode Reference](https://dev.to/abewheeler/chatgpt-app-display-mode-reference-49im)
+- [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
+- [اتوماسیون هوش مصنوعی: جادو نیست، مهندسیِ زمان است](https://dev.to/amirali_alamdar/twmsywn-hwsh-msnwy-jdw-nyst-mhndsyi-zmn-st-1k9a)
 <!-- BLOG-POST-LIST:END -->
 
 
