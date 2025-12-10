@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Uninformed Optimism and Tech Shiny Object Syndrome](https://dev.to/bobby_k_x/uninformed-optimism-and-tech-shiny-object-syndrome-5335)
-- [Stop Scripting, Start Architecting: The OOP Approach to Terraform](https://dev.to/dortort/stop-scripting-start-architecting-the-oop-approach-to-terraform-3hl0)
-- [Rethinking API Design for AI Agents: From Data Plumbing to Intelligent Interfaces](https://dev.to/akshaygupta1996/rethinking-api-design-for-ai-agents-from-data-plumbing-to-intelligent-interfaces-37jh)
-- [Tailwind CSS Best Practices &amp; Design System Patterns 🎨](https://dev.to/frontendtoolstech/tailwind-css-best-practices-design-system-patterns-54pi)
+- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
+- [MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 &lpar;PART 1&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel)
+- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-34gm)
+- [O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend](https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb)
 <!-- BLOG-POST-LIST:END -->
 
 
