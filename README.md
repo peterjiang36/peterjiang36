@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
-- [MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 &lpar;PART 1&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-34gm)
-- [O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend](https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb)
+- [Maravel-Framework 10.55.0 lost ~10.8k rows of overhead, improving speed and security](https://dev.to/marius-ciclistu/maravel-framework-10550-lost-108k-rows-of-overhead-improving-speed-and-security-31fi)
+- [Reimagining Thai Lagoon&#39;s Website](https://dev.to/paaaarv/reimagining-thai-lagoons-website-2495)
+- [I built console.text&lpar;&rpar; - SMS alerts for your production code](https://dev.to/noel44/i-built-consoletext-sms-alerts-for-your-production-code-4082)
+- [I Built Selenium Self-Healing Tests with AI That Fix Themselves &lpar;Here&#39;s How&rpar;](https://dev.to/letsautomate/i-built-selenium-self-healing-tests-with-ai-that-fix-themselves-heres-how-421j)
 <!-- BLOG-POST-LIST:END -->
 
 
