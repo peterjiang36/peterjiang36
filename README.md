@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OptWin 1.1 release announcement - Optimize Windows](https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc)
-- [Setting up ALS &lpar;Ada Language Server&rpar; for Sublime Text](https://dev.to/sabedoesthings/setting-up-als-ada-language-server-for-sublime-text-10m8)
-- [Introducing Claude Code Documentation Standards: Automated Documentation with Built-in Linting](https://dev.to/nasrulhazim/introducing-claude-code-documentation-standards-automated-documentation-with-built-in-linting-51c)
-- [The difference between &quot;Hires&quot; and &quot;Hired&quot; on Upwork](https://dev.to/chocomastery/the-difference-between-hires-and-hired-on-upwork-2j1g)
+- [How to Get Paid in USDC: A Complete Guide](https://dev.to/justqueue/how-to-get-paid-in-usdc-a-complete-guide-4igp)
+- [Fine-Tuning LLMs on Consumer GPUs: A Practical Guide to QLoRA](https://dev.to/richard_sakaguchi_5809b6b/fine-tuning-llms-on-consumer-gpus-a-practical-guide-to-qlora-166k)
+- [WhatsApp AI Bot in Production: 3 Months, 50K Messages, Zero Downtime](https://dev.to/richard_sakaguchi_5809b6b/whatsapp-ai-bot-in-production-3-months-50k-messages-zero-downtime-3bn3)
+- [I Built a Brazilian Portuguese LLM from Scratch - Here&#39;s What I Learned](https://dev.to/richard_sakaguchi_5809b6b/i-built-a-brazilian-portuguese-llm-from-scratch-heres-what-i-learned-46om)
 <!-- BLOG-POST-LIST:END -->
 
 
