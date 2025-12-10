@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to find beta users for your SaaS?](https://dev.to/valentin_tya_327693/how-to-find-beta-users-for-your-saas-d7e)
-- [Building a Zero-Knowledge File Sharing Platform with Client-Side Encryption](https://dev.to/tamilselvi_k_31fa58602adb/building-a-zero-knowledge-file-sharing-platform-with-client-side-encryption-4g93)
-- [🔰How to Build a Real-Time Chat App in Flutter Using ZEGOCLOUD ZIMKit &lpar;No Backend Needed&rpar;](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-chat-app-in-flutter-using-zegocloud-zimkit-no-backend-needed-1cj4)
-- [building a web-based code runner for python &amp; c#](https://dev.to/vulcanwm/building-a-web-based-code-runner-for-python-c-4dkm)
+- [How to Prepare for the Future of Programming](https://dev.to/clara-is-coding/how-to-prepare-for-the-future-of-programming-1h9c)
+- [Day 60: Python Remove Nth Node From End of Linked List, Two-Pointer Magic to Delete in One Pass &lpar;LeetCode #19 Style&rpar;](https://dev.to/shahrouzlogs/day-60-python-remove-nth-node-from-end-of-linked-list-two-pointer-magic-to-delete-in-one-pass-4b1l)
+- [How Documentation Teams Improved Developer Experience in 2025](https://dev.to/therealmrmumba/how-documentation-teams-improved-developer-experience-in-2025-4ig6)
+- [When AI Learns to Hack](https://dev.to/rawveg/when-ai-learns-to-hack-14eg)
 <!-- BLOG-POST-LIST:END -->
 
 
