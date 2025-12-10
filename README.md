@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maravel-Framework 10.55.0 lost ~10.8k rows of overhead, improving speed and security](https://dev.to/marius-ciclistu/maravel-framework-10550-lost-108k-rows-of-overhead-improving-speed-and-security-31fi)
-- [Reimagining Thai Lagoon&#39;s Website](https://dev.to/paaaarv/reimagining-thai-lagoons-website-2495)
-- [I built console.text&lpar;&rpar; - SMS alerts for your production code](https://dev.to/noel44/i-built-consoletext-sms-alerts-for-your-production-code-4082)
-- [I Built Selenium Self-Healing Tests with AI That Fix Themselves &lpar;Here&#39;s How&rpar;](https://dev.to/letsautomate/i-built-selenium-self-healing-tests-with-ai-that-fix-themselves-heres-how-421j)
+- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
+- [How I’m Building an AI Try-On Tool for Clothing Brands &lpar;Behind the Scenes&rpar;](https://dev.to/nikola_mitrovic_922e2665f/how-im-building-an-ai-try-on-tool-for-clothing-brands-behind-the-scenes-3pmc)
+- [Built a side project in 3 weeks, got 40 users, can&#39;t flip the payment switch](https://dev.to/securityscore/built-a-side-project-in-3-weeks-got-40-users-cant-flip-the-payment-switch-14p9)
+- [40 Days AWS + DevOps Challenge &lpar;Beginner Job Ready&rpar;](https://dev.to/sakshi_more_20/40-days-aws-devops-challenge-beginner-job-ready-jmg)
 <!-- BLOG-POST-LIST:END -->
 
 
