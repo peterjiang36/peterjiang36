@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
-- [How I’m Building an AI Try-On Tool for Clothing Brands &lpar;Behind the Scenes&rpar;](https://dev.to/nikola_mitrovic_922e2665f/how-im-building-an-ai-try-on-tool-for-clothing-brands-behind-the-scenes-3pmc)
-- [Built a side project in 3 weeks, got 40 users, can&#39;t flip the payment switch](https://dev.to/securityscore/built-a-side-project-in-3-weeks-got-40-users-cant-flip-the-payment-switch-14p9)
-- [40 Days AWS + DevOps Challenge &lpar;Beginner Job Ready&rpar;](https://dev.to/sakshi_more_20/40-days-aws-devops-challenge-beginner-job-ready-jmg)
+- [AI Engineering: Advent of AI with goose Day 1](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-1-1ic3)
+- [The Architecture of Agency: Building, Securing, and Scaling Your Own MCP Ecosystem](https://dev.to/onlineproxyio/the-architecture-of-agency-building-securing-and-scaling-your-own-mcp-ecosystem-1pog)
+- [test post](https://dev.to/testorg_breno/test-post-g7g)
+- [Why x402 Doesn&#39;t Support USDT &lpar;But USDT0 Changes Everything&rpar;](https://dev.to/justqueue/why-x402-doesnt-support-usdt-but-usdt0-changes-everything-1kh6)
 <!-- BLOG-POST-LIST:END -->
 
 
