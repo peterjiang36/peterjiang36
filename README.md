@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Self-Checkout Trap: Why Retailers Keep Betting on Technology That Costs Them Billions](https://dev.to/icybergenome_34/the-self-checkout-trap-why-retailers-keep-betting-on-technology-that-costs-them-billions-2akj)
-- [Version Control With Commands &lpar;Complete Git Guide for Beginners &amp; Developers&rpar;](https://dev.to/jay_sarvaiya_reactjs/version-control-with-commands-complete-git-guide-for-beginners-developers-57k4)
-- [How I Built a Full-Stack Bookstore App in 10 Days &lpar;And What I Learned&rpar;](https://dev.to/minotaurg/how-i-built-a-full-stack-bookstore-app-in-10-days-and-what-i-learned-4do4)
-- [eSparkBiz Honored by IPLocation as a Top Software Development Company](https://dev.to/andrewsjoey17/esparkbiz-honored-by-iplocation-as-a-top-software-development-company-378p)
+- [How to find beta users for your SaaS?](https://dev.to/valentin_tya_327693/how-to-find-beta-users-for-your-saas-d7e)
+- [Building a Zero-Knowledge File Sharing Platform with Client-Side Encryption](https://dev.to/tamilselvi_k_31fa58602adb/building-a-zero-knowledge-file-sharing-platform-with-client-side-encryption-4g93)
+- [🔰How to Build a Real-Time Chat App in Flutter Using ZEGOCLOUD ZIMKit &lpar;No Backend Needed&rpar;](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-chat-app-in-flutter-using-zegocloud-zimkit-no-backend-needed-1cj4)
+- [building a web-based code runner for python &amp; c#](https://dev.to/vulcanwm/building-a-web-based-code-runner-for-python-c-4dkm)
 <!-- BLOG-POST-LIST:END -->
 
 
