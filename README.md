@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Paid in USDC: A Complete Guide](https://dev.to/justqueue/how-to-get-paid-in-usdc-a-complete-guide-4igp)
-- [Fine-Tuning LLMs on Consumer GPUs: A Practical Guide to QLoRA](https://dev.to/richard_sakaguchi_5809b6b/fine-tuning-llms-on-consumer-gpus-a-practical-guide-to-qlora-166k)
-- [WhatsApp AI Bot in Production: 3 Months, 50K Messages, Zero Downtime](https://dev.to/richard_sakaguchi_5809b6b/whatsapp-ai-bot-in-production-3-months-50k-messages-zero-downtime-3bn3)
-- [I Built a Brazilian Portuguese LLM from Scratch - Here&#39;s What I Learned](https://dev.to/richard_sakaguchi_5809b6b/i-built-a-brazilian-portuguese-llm-from-scratch-heres-what-i-learned-46om)
+- [React2Shell RCE Vulnerability: Critical Exploit in React Server Components and Next.js — Patch Immediately](https://dev.to/rohanrajgautam/react2shell-rce-vulnerability-critical-exploit-in-react-server-components-and-nextjs-patch-3jkb)
+- [Planning My Next Open-Source Contributions](https://dev.to/oleksandrakordonets/planning-my-next-open-source-contributions-17pn)
+- [What Happens If Spike Arrest Is Set to 10pm but Traffic Spikes to 100 Requests at Once?](https://dev.to/realnamehidden1_61/what-happens-if-spike-arrest-is-set-to-10pm-but-traffic-spikes-to-100-requests-at-once-3hi5)
+- [My Approach to Reliable, Privacy-First GA4 Analytics](https://dev.to/alfahad_hridoy_dc20cb80d/my-approach-to-reliable-privacy-first-ga4-analytics-39c)
 <!-- BLOG-POST-LIST:END -->
 
 
