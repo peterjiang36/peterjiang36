@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT : mon lutin numérique](https://dev.to/camille_parent_840128e584/chatgpt-mon-lutin-numerique-48p8)
-- [Build a Video Calling Application using React , Tailwind and Zegocloud](https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh)
-- [Let me tell you about a Tuesday that changed everything.
-.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#39;d restarted my local server six times.............. Read More](https://dev.to/thebitforge/let-me-tell-you-about-a-tuesday-that-changed-everything-i-was-three-hours-into-what-should-have-4385)
-- [How AI Is Transforming IVF Success Rates in 2025](https://dev.to/santanivf/how-ai-is-transforming-ivf-success-rates-in-2025-63)
+- [Yet another Rust ownership tutorial](https://dev.to/nfrankel/yet-another-rust-ownership-tutorial-4de1)
+- [Here’s Exactly How I Implemented @defer for Granular Code Splitting in Days — Step-by-Step](https://dev.to/karol_modelski/heres-exactly-how-i-implemented-defer-for-granular-code-splitting-in-days-step-by-step-319g)
+- [What to Do Immediately After a Car Accident in UAE &lpar;2025&rpar;: A Step-by-Step Guide](https://dev.to/shihab_shamoon_a06aaea9f1/what-to-do-immediately-after-a-car-accident-in-uae-2025-a-step-by-step-guide-26m)
+- [The Double-Edged Sword of &quot;Flow State&quot; in Game Dev ⚔️](https://dev.to/crow004/the-double-edged-sword-of-flow-state-in-game-dev-5gbj)
 <!-- BLOG-POST-LIST:END -->
 
 
