@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Will Netflix destroy Warner Brothers?](https://dev.to/popcorn_movies/mr-sunday-movies-will-netflix-destroy-warner-brothers-43ll)
-- [The Trust Hack That Bankrupts Reality](https://dev.to/rawveg/the-trust-hack-that-bankrupts-reality-nn)
-- [Starting Dusty — A Tiny DSL for ETL &amp; Research Data Cleaning](https://dev.to/avik12345678/starting-dusty-a-tiny-dsl-for-etl-research-data-cleaning-29g5)
-- [The Sleep-Deprived Senior Test: Why I Hate Your &quot;Magic Numbers&quot;](https://dev.to/doogal/the-sleep-deprived-senior-test-why-i-hate-your-magic-numbers-2gda)
+- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
+- [How I Added Glossary Tooltip Hover to Kgateway Docs &lpar;Using Hugo Shortcodes&rpar;](https://dev.to/uzukwu_michael_91a95b823b/how-i-added-glossary-tooltip-hover-to-kgateway-docs-using-hugo-shortcodes-1e6o)
+- [A Developer’s Guide to Creating Engaging Video Tutorials](https://dev.to/title-productions/a-developers-guide-to-creating-engaging-video-tutorials-52gf)
+- [The future of corporate mobile banking: Trends for 2026](https://dev.to/it-influencer/the-future-of-corporate-mobile-banking-trends-for-2026-5hk1)
 <!-- BLOG-POST-LIST:END -->
 
 
