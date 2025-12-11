@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JShell - Making my own shell](https://dev.to/jaydamani/jshell-making-my-own-shell-24db)
-- [Stop Testing Success. Kill the Database. 🧨](https://dev.to/aragossa/stop-testing-success-kill-the-database-27mg)
-- [On a 3 jours pour sauver la MEP: de 3.15s à 233ms](https://dev.to/jducraft/on-a-3-jours-pour-sauver-la-mep-de-315s-a-233ms-4fl4)
-- [Due Diligence Report: Operational Anomalies Found on Bittam](https://dev.to/traderknows/due-diligence-report-operational-anomalies-found-on-bittam-3eoh)
+- [Deploying NVIDIA Dynamo &amp; LMCache for LLMs: Installation, Containers, and Integration](https://dev.to/yocheved/deploying-nvidia-dynamo-lmcache-for-llms-installation-containers-and-integration-32of)
+- [🕵️‍♀️ Nmap &amp; Scapy on Kali: A Beginner-Friendly Packet Adventure](https://dev.to/ldwit/nmap-scapy-on-kali-a-beginner-friendly-packet-adventure-4dio)
+- [BuildKit for RISC-V64: When Your Package Works But Your Container Doesn&#39;t](https://dev.to/gounthar/buildkit-for-risc-v64-when-your-package-works-but-your-container-doesnt-i18)
+- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-4djc)
 <!-- BLOG-POST-LIST:END -->
 
 
