@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My project 2 : Currency Converter&lpar;with Python + Flask&rpar;](https://dev.to/sabin_sim/my-project-2-currency-converterwith-python-flask-4ipd)
-- [Give your AI Studio deployed app a custom URL](https://dev.to/dynamicwebpaige/give-your-ai-studio-deployed-app-a-custom-url-30f)
-- [Why 95% of AI Agent Projects Never Reach Production &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/swapnil_somal_8abcc39b315/why-95-of-ai-agent-projects-never-reach-production-and-how-were-fixing-it-3p44)
-- [How We Build AR Projects: Full Development Process Explained Step by Step](https://dev.to/zoolatech/how-we-build-ar-projects-full-development-process-explained-step-by-step-2ogm)
+- [Day 2 — Beginning My 40 Days AWS DevOps Journey](https://dev.to/sakshi_more_20/day-2-beginning-my-40-days-aws-devops-journey-2g9l)
+- [🚀 How Developers Can Stop Pretending to Understand AI Buzzwords](https://dev.to/devvarsha/how-developers-can-stop-pretending-to-understand-ai-buzzwords-40cn)
+- [Building and Updating Docker Containers: A Practical Hands-On Guide for Beginners](https://dev.to/sudaisib/building-and-updating-docker-containers-a-practical-hands-on-guide-for-beginners-3bd1)
+- [Como o software é executado no computador](https://dev.to/leonardo_peixoto/como-o-software-e-executado-no-computador-3fcn)
 <!-- BLOG-POST-LIST:END -->
 
 
