@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Auth: A Flexible TypeScript Authentication Framework](https://dev.to/stelixx-insider/better-auth-a-flexible-typescript-authentication-framework-2be8)
-- [Svelte Bash: A Lightweight Terminal Component for Svelte 5 &lpar;Autoplay, VFS, Themes, Custom Commands&rpar;](https://dev.to/yusufcengiz/svelte-bash-a-lightweight-terminal-component-for-svelte-5-autoplay-vfs-themes-custom-commands-412a)
-- [I Turned My Meeting Notes Into a Self-Updating Neo4j Knowledge Graph](https://dev.to/badmonster0/i-turned-my-meeting-notes-into-a-self-updating-neo4j-knowledge-graph-1637)
-- [How to Handle Media Queries in React Logic with a Custom Hook](https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2)
+- [How to Implement Voice AI with Twilio and VAPI: A Step-by-Step Guide](https://dev.to/callstacktech/how-to-implement-voice-ai-with-twilio-and-vapi-a-step-by-step-guide-32j4)
+- [Trees and Binary Trees — Kids&#39; Family Tree Fun!](https://dev.to/kingyou/trees-and-binary-trees-kids-family-tree-fun-2k14)
+- [How I Built a Self-Updating Neo4j Knowledge Graph from Meeting Notes &lpar;That Saves 99% on LLM Costs&rpar;](https://dev.to/badmonster0/how-i-built-a-self-updating-neo4j-knowledge-graph-from-meeting-notes-that-saves-99-on-llm-costs-18a9)
+- [How I Designed a Zero-Waste, Event-Driven Analytics Pipeline Using DynamoDB TTL and AWS Lambda](https://dev.to/pedrosoaresll/how-i-designed-a-zero-waste-event-driven-analytics-pipeline-using-dynamodb-ttl-and-aws-lambda-l29)
 <!-- BLOG-POST-LIST:END -->
 
 
