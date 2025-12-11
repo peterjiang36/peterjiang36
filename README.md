@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Yet another Rust ownership tutorial](https://dev.to/nfrankel/yet-another-rust-ownership-tutorial-4de1)
-- [Here’s Exactly How I Implemented @defer for Granular Code Splitting in Days — Step-by-Step](https://dev.to/karol_modelski/heres-exactly-how-i-implemented-defer-for-granular-code-splitting-in-days-step-by-step-319g)
-- [What to Do Immediately After a Car Accident in UAE &lpar;2025&rpar;: A Step-by-Step Guide](https://dev.to/shihab_shamoon_a06aaea9f1/what-to-do-immediately-after-a-car-accident-in-uae-2025-a-step-by-step-guide-26m)
-- [The Double-Edged Sword of &quot;Flow State&quot; in Game Dev ⚔️](https://dev.to/crow004/the-double-edged-sword-of-flow-state-in-game-dev-5gbj)
+- [JShell - Making my own shell](https://dev.to/jaydamani/jshell-making-my-own-shell-24db)
+- [Stop Testing Success. Kill the Database. 🧨](https://dev.to/aragossa/stop-testing-success-kill-the-database-27mg)
+- [On a 3 jours pour sauver la MEP: de 3.15s à 233ms](https://dev.to/jducraft/on-a-3-jours-pour-sauver-la-mep-de-315s-a-233ms-4fl4)
+- [Due Diligence Report: Operational Anomalies Found on Bittam](https://dev.to/traderknows/due-diligence-report-operational-anomalies-found-on-bittam-3eoh)
 <!-- BLOG-POST-LIST:END -->
 
 
