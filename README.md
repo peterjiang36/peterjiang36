@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeFi 101: Decentralized Finance](https://dev.to/ribhavmodi/defi-101-decentralized-finance-3h3)
-- [📅 Day 12 | AWS IAM — The Backbone of AWS Security 🔐☁️](https://dev.to/sudarshan_yadav/day-12-aws-iam-the-backbone-of-aws-security-3ib6)
-- [🔒 Inside MemCloud’s Secure Peer Authentication: How Devices Safely Share RAM Over LAN](https://dev.to/vibhanshu_garg_01741359bc/inside-memclouds-secure-peer-authentication-how-devices-safely-share-ram-over-lan-f1a)
-- [The EU AI Act: What It Means for Your Code, Your Models, and Your Users](https://dev.to/ramya_vellanki_e93288ad2f/the-eu-ai-act-what-it-means-for-your-code-your-models-and-your-users-ilm)
+- [My project 2 : Currency Converter&lpar;with Python + Flask&rpar;](https://dev.to/sabin_sim/my-project-2-currency-converterwith-python-flask-4ipd)
+- [Give your AI Studio deployed app a custom URL](https://dev.to/dynamicwebpaige/give-your-ai-studio-deployed-app-a-custom-url-30f)
+- [Why 95% of AI Agent Projects Never Reach Production &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/swapnil_somal_8abcc39b315/why-95-of-ai-agent-projects-never-reach-production-and-how-were-fixing-it-3p44)
+- [How We Build AR Projects: Full Development Process Explained Step by Step](https://dev.to/zoolatech/how-we-build-ar-projects-full-development-process-explained-step-by-step-2ogm)
 <!-- BLOG-POST-LIST:END -->
 
 
