@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock Cost Optimization: Techniques &amp; Best Practices](https://dev.to/brayanarrieta/amazon-bedrock-cost-optimization-techniques-best-practices-5om)
-- [CinemaSins: Everything Wrong With Elio In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-elio-in-20-minutes-or-less-180o)
-- [Introducing Virtual MCP Server: Unified Gateway for Multi-MCP Workflows](https://dev.to/stacklok/introducing-virtual-mcp-server-unified-gateway-for-multi-mcp-workflows-17ee)
-- [How I created a Cozy Workspace in VS Code](https://dev.to/kasuken/how-i-created-a-cozy-workspace-in-vs-code-4bf0)
+- [DeFi 101: Decentralized Finance](https://dev.to/ribhavmodi/defi-101-decentralized-finance-3h3)
+- [📅 Day 12 | AWS IAM — The Backbone of AWS Security 🔐☁️](https://dev.to/sudarshan_yadav/day-12-aws-iam-the-backbone-of-aws-security-3ib6)
+- [🔒 Inside MemCloud’s Secure Peer Authentication: How Devices Safely Share RAM Over LAN](https://dev.to/vibhanshu_garg_01741359bc/inside-memclouds-secure-peer-authentication-how-devices-safely-share-ram-over-lan-f1a)
+- [The EU AI Act: What It Means for Your Code, Your Models, and Your Users](https://dev.to/ramya_vellanki_e93288ad2f/the-eu-ai-act-what-it-means-for-your-code-your-models-and-your-users-ilm)
 <!-- BLOG-POST-LIST:END -->
 
 
