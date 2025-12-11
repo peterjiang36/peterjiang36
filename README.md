@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
-- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
-- [API Security : Understand in 3 Minutes](https://dev.to/hongster85/api-security-understand-in-3-minutes-3pjg)
-- [Angular - Standalone Component](https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh)
+- [My PC melted while making this game...](https://dev.to/shaq_attack/my-pc-melted-while-making-this-game-4b71)
+- [My First game - Comms Under Fire](https://dev.to/shaq_attack/my-first-game-comms-under-fire-2co)
+- [Supabase with PowerBI Dashboard](https://dev.to/nash9/supabase-with-powerbi-dashboard-p44)
+- [Update: Supabase is now in the Top 100 most-starred repositories on GitHub with 95,435 stars](https://dev.to/fmerian/update-supabase-is-now-in-the-top-100-most-starred-repositories-on-github-with-95435-stars-42fd)
 <!-- BLOG-POST-LIST:END -->
 
 
