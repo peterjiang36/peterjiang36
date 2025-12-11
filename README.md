@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
-- [Building a &quot;Bullshit Detector&quot; for LLMs using Node.js and pgvector](https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik)
-- [Why Verdex Uses CDP Directly](https://dev.to/johnonline35/why-verdex-uses-cdp-directly-36ao)
-- [I built an AI mood tracking app to help me with my anxiety](https://dev.to/room8_space_dev/i-built-an-ai-mood-tracking-app-to-help-me-with-my-anxiety-507d)
+- [From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools](https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop)
+- [**Title:** Carvana&#39;s Meteoric Rise: A Record-Breaking Winning Streak and the Road to S&amp;P 500 Inclusion](https://dev.to/yagyaraj_sharma_6cd410179/title-carvanas-meteoric-rise-a-record-breaking-winning-streak-and-the-road-to-sp-500-2d98)
+- [Day 1283 : Try and Try](https://dev.to/dwane/day-1283-try-and-try-3hin)
+- [Kalibr: Infra for Agent Self Optimization](https://dev.to/devon__kelley/kalibr-infra-for-agent-self-optimization-ehc)
 <!-- BLOG-POST-LIST:END -->
 
 
