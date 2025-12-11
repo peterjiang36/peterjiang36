@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mystery of a Missing Greeting](https://dev.to/markmark/the-mystery-of-a-missing-greeting-3ebf)
-- [AWS re:Invent 2025 - TDK SensEI built scalable IoT platform with AWS for sensor insights &lpar;NTA204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-tdk-sensei-built-scalable-iot-platform-with-aws-for-sensor-insights-nta204-2j04)
-- [AWS re:Invent 2025 - How Baker Hughes is Driving Energy Innovation with AWS AI &lpar;AIM347&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-how-baker-hughes-is-driving-energy-innovation-with-aws-ai-aim347-hn1)
-- [How I Automated My Workflow With GitHub Actions &lpar;A Setup Even Design Agencies Use&rpar;](https://dev.to/pixel_mosaic/how-i-automated-my-workflow-with-github-actions-a-setup-even-design-agencies-use-1i3l)
+- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf)
+- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l)
+- [[Threat Thinker] Trying LLM-Based Threat Modeling](https://dev.to/melonattacker/threat-thinker-trying-llm-based-threat-modeling-17o3)
+- [React Performance Anti-Patterns: 5 Mistakes That Kill Your App&#39;s Speed!](https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j)
 <!-- BLOG-POST-LIST:END -->
 
 
