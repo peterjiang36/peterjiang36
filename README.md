@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Voice AI with Twilio and VAPI: A Step-by-Step Guide](https://dev.to/callstacktech/how-to-implement-voice-ai-with-twilio-and-vapi-a-step-by-step-guide-32j4)
-- [Trees and Binary Trees — Kids&#39; Family Tree Fun!](https://dev.to/kingyou/trees-and-binary-trees-kids-family-tree-fun-2k14)
-- [How I Built a Self-Updating Neo4j Knowledge Graph from Meeting Notes &lpar;That Saves 99% on LLM Costs&rpar;](https://dev.to/badmonster0/how-i-built-a-self-updating-neo4j-knowledge-graph-from-meeting-notes-that-saves-99-on-llm-costs-18a9)
-- [How I Designed a Zero-Waste, Event-Driven Analytics Pipeline Using DynamoDB TTL and AWS Lambda](https://dev.to/pedrosoaresll/how-i-designed-a-zero-waste-event-driven-analytics-pipeline-using-dynamodb-ttl-and-aws-lambda-l29)
+- [🚀 Upgrading Your Legacy Java 8 + Spring Boot 2.1 Project to Java 17 &lpar;Without Breaking Everything&rpar;](https://dev.to/haraf/upgrading-your-legacy-java-8-spring-boot-21-project-to-java-17-without-breaking-everything-n85)
+- [Connector Fixes, Core API Enhancements, and Ecosystem Updates: Apache SeaTunnel’s Progress in November](https://dev.to/seatunnel/connector-fixes-core-api-enhancements-and-ecosystem-updates-apache-seatunnels-progress-in-4o7b)
+- [Why your AI assistant lies to you &lpar;and how to fix it&rpar;](https://dev.to/sandeep_salwan/why-your-ai-assistant-lies-to-you-and-how-to-fix-it-322a)
+- [Why const Doesn’t Freeze Your JavaScript Arrays](https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93)
 <!-- BLOG-POST-LIST:END -->
 
 
