@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools](https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop)
-- [**Title:** Carvana&#39;s Meteoric Rise: A Record-Breaking Winning Streak and the Road to S&amp;P 500 Inclusion](https://dev.to/yagyaraj_sharma_6cd410179/title-carvanas-meteoric-rise-a-record-breaking-winning-streak-and-the-road-to-sp-500-2d98)
-- [Day 1283 : Try and Try](https://dev.to/dwane/day-1283-try-and-try-3hin)
-- [Kalibr: Infra for Agent Self Optimization](https://dev.to/devon__kelley/kalibr-infra-for-agent-self-optimization-ehc)
+- [Better Auth: A Flexible TypeScript Authentication Framework](https://dev.to/stelixx-insider/better-auth-a-flexible-typescript-authentication-framework-2be8)
+- [Svelte Bash: A Lightweight Terminal Component for Svelte 5 &lpar;Autoplay, VFS, Themes, Custom Commands&rpar;](https://dev.to/yusufcengiz/svelte-bash-a-lightweight-terminal-component-for-svelte-5-autoplay-vfs-themes-custom-commands-412a)
+- [I Turned My Meeting Notes Into a Self-Updating Neo4j Knowledge Graph](https://dev.to/badmonster0/i-turned-my-meeting-notes-into-a-self-updating-neo4j-knowledge-graph-1637)
+- [How to Handle Media Queries in React Logic with a Custom Hook](https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2)
 <!-- BLOG-POST-LIST:END -->
 
 
