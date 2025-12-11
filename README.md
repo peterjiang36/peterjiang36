@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Image Gallery with Next.js 16, TypeScript &amp; Unsplash API](https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629)
-- [GPT 5.2 vs Gemini 3 Technical Breakdown](https://dev.to/alifar/gpt-52-vs-gemini-3-technical-breakdown-301k)
-- [# Moving from Terraform Monorepo to Multi-Repo Without Losing Your Mind &lpar;and Your Sleep&rpar;](https://dev.to/meena_nukala_1154d49b984d/-moving-from-terraform-monorepo-to-multi-repo-without-losing-your-mind-and-your-sleep-38ce)
-- [How to Convert OFX to PDF in a Few Simple Steps](https://dev.to/geoffhowto/how-to-convert-ofx-to-pdf-in-a-few-simple-steps-2gj8)
+- [The Pitfalls of Reading User Input in C: a Story About scanf and Stdin](https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8)
+- [En el ámbito del combate al lavado de dinero &lpar;PLD&rpar; en México](https://dev.to/drcarlosruizviquez/en-el-ambito-del-combate-al-lavado-de-dinero-pld-en-mexico-3fee)
+- [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-517i)
+- [Career advice after computer science ? Fluent in c/c++ but not sure what to do next. Local jobs demand c# but I want to go for a masters and learn python. Any advice ?](https://dev.to/slime_slime_d57f140985b82/career-advice-after-computer-science-fluent-in-cc-but-not-sure-what-to-do-next-local-jobs-479l)
 <!-- BLOG-POST-LIST:END -->
 
 
