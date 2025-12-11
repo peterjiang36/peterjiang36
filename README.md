@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pitfalls of Reading User Input in C: a Story About scanf and Stdin](https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8)
-- [En el ámbito del combate al lavado de dinero &lpar;PLD&rpar; en México](https://dev.to/drcarlosruizviquez/en-el-ambito-del-combate-al-lavado-de-dinero-pld-en-mexico-3fee)
-- [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-517i)
-- [Career advice after computer science ? Fluent in c/c++ but not sure what to do next. Local jobs demand c# but I want to go for a masters and learn python. Any advice ?](https://dev.to/slime_slime_d57f140985b82/career-advice-after-computer-science-fluent-in-cc-but-not-sure-what-to-do-next-local-jobs-479l)
+- [Why AI Slows Debugging 20%](https://dev.to/brian_bonet-vox/why-ai-slows-debugging-20-4792)
+- [Firecracker Virtualization Overview](https://dev.to/aws-builders/firecracker-virtualization-overview-1hif)
+- [these new messages from people just joining the community, well rest assured this time its different.](https://dev.to/john_griffin_e3df9b2ac694/these-new-messages-from-people-just-joining-the-community-well-rest-assured-this-time-its-1oo4)
+- [I Got Obsessed With 2-Byte Deltas and Built a Delta Compressor That Actually Hits Them](https://dev.to/imgajeed76/i-got-obsessed-with-2-byte-deltas-and-built-a-delta-compressor-that-actually-hits-them-4332)
 <!-- BLOG-POST-LIST:END -->
 
 
