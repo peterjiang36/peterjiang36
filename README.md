@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
-- [How I Added Glossary Tooltip Hover to Kgateway Docs &lpar;Using Hugo Shortcodes&rpar;](https://dev.to/uzukwu_michael_91a95b823b/how-i-added-glossary-tooltip-hover-to-kgateway-docs-using-hugo-shortcodes-1e6o)
-- [A Developer’s Guide to Creating Engaging Video Tutorials](https://dev.to/title-productions/a-developers-guide-to-creating-engaging-video-tutorials-52gf)
-- [The future of corporate mobile banking: Trends for 2026](https://dev.to/it-influencer/the-future-of-corporate-mobile-banking-trends-for-2026-5hk1)
+- [The Prompting Trick That Fixed My AI Image Generation](https://dev.to/nadinev/the-prompting-trick-that-fixed-my-ai-image-generation-3ge4)
+- [I built an open-source directory website template with Nuxt 4 🚀](https://dev.to/bing_pu_53451a26d911e5d2c/i-built-an-open-source-directory-website-template-with-nuxt-4-2eih)
+- [API Security : Understand in 3 Minutes](https://dev.to/hongster85/api-security-understand-in-3-minutes-3pjg)
+- [Angular - Standalone Component](https://dev.to/milan_karajovic_45443e6d6/angular-standalone-component-1lmh)
 <!-- BLOG-POST-LIST:END -->
 
 
