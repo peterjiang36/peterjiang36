@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying NVIDIA Dynamo &amp; LMCache for LLMs: Installation, Containers, and Integration](https://dev.to/yocheved/deploying-nvidia-dynamo-lmcache-for-llms-installation-containers-and-integration-32of)
-- [🕵️‍♀️ Nmap &amp; Scapy on Kali: A Beginner-Friendly Packet Adventure](https://dev.to/ldwit/nmap-scapy-on-kali-a-beginner-friendly-packet-adventure-4dio)
-- [BuildKit for RISC-V64: When Your Package Works But Your Container Doesn&#39;t](https://dev.to/gounthar/buildkit-for-risc-v64-when-your-package-works-but-your-container-doesnt-i18)
-- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-4djc)
+- [Mr Sunday Movies: Will Netflix destroy Warner Brothers?](https://dev.to/popcorn_movies/mr-sunday-movies-will-netflix-destroy-warner-brothers-43ll)
+- [The Trust Hack That Bankrupts Reality](https://dev.to/rawveg/the-trust-hack-that-bankrupts-reality-nn)
+- [Starting Dusty — A Tiny DSL for ETL &amp; Research Data Cleaning](https://dev.to/avik12345678/starting-dusty-a-tiny-dsl-for-etl-research-data-cleaning-29g5)
+- [The Sleep-Deprived Senior Test: Why I Hate Your &quot;Magic Numbers&quot;](https://dev.to/doogal/the-sleep-deprived-senior-test-why-i-hate-your-magic-numbers-2gda)
 <!-- BLOG-POST-LIST:END -->
 
 
