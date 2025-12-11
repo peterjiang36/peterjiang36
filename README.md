@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault: Token Management via CLI and API](https://dev.to/admantium/hashicorp-vault-token-management-via-cli-and-api-3j02)
-- [I refused to pay subscriptions just to delete an ending, so I &quot;Vibe Coded&quot; a CapCut Watermark Remover &lpar;No Login&rpar;](https://dev.to/renming_wang_99a0c6efbd56/i-refused-to-pay-subscriptions-just-to-delete-an-ending-so-i-vibe-coded-a-capcut-watermark-3onb)
-- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
-- [🌩️From Cyber Cafés to Cloud Computing](https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg)
+- [ChatGPT : mon lutin numérique](https://dev.to/camille_parent_840128e584/chatgpt-mon-lutin-numerique-48p8)
+- [Build a Video Calling Application using React , Tailwind and Zegocloud](https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh)
+- [Let me tell you about a Tuesday that changed everything.
+.I was three hours into what should have been a 30-minute bug fix. My terminal had 47 tabs open. I&#39;d restarted my local server six times.............. Read More](https://dev.to/thebitforge/let-me-tell-you-about-a-tuesday-that-changed-everything-i-was-three-hours-into-what-should-have-4385)
+- [How AI Is Transforming IVF Success Rates in 2025](https://dev.to/santanivf/how-ai-is-transforming-ivf-success-rates-in-2025-63)
 <!-- BLOG-POST-LIST:END -->
 
 
