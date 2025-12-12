@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform SDK Integration: Monetize Your AI Conversations Effectively](https://dev.to/monetzly/transform-sdk-integration-monetize-your-ai-conversations-effectively-33j5)
-- [From Catalog Chaos to Real-Time Recommendations: Building a Product Graph with LLMs and Neo4j](https://dev.to/badmonster0/from-catalog-chaos-to-real-time-recommendations-building-a-product-graph-with-llms-and-neo4j-22b9)
-- [CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure](https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c)
-- [Why Small Front-End Habits Matter: The Quiet Value of CSS &amp; JS Minification](https://dev.to/knowadvance_c5092984a5b66/why-small-front-end-habits-matter-the-quiet-value-of-css-js-minification-339h)
+- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
+- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
+- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
 <!-- BLOG-POST-LIST:END -->
 
 
