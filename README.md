@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://dev.to/highcenburg/brutal-efficiency-a-tech-breakdown-of-my-portfolio-1o2d)
-- [Fine-tuning For Domain-Customized Retriever Noise Mitigation in RAG Pipelines](https://dev.to/padmanabha_venkatagiri_09/fine-tuning-for-domain-customized-retriever-noise-mitigation-in-rag-pipelines-4l0d)
-- [Building a standard library HTTP Client in C, C++, Rust and Python idiomatically: The Rosetta Stone for Systems Programming](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-standard-library-http-client-in-c-c-rust-and-python-idiomatically-the-rosetta-stone-5dnc)
-- [AI search is rewriting how online visibility works, and most brands aren’t ready for what’s coming.](https://dev.to/fyjix_d08633eb48a0dde03d7/ai-search-is-rewriting-how-online-visibility-works-and-most-brands-arent-ready-for-whats-coming-1d1c)
+- [Z-Image GGUF Technical Whitepaper: Deep Analysis of S3-DiT Architecture and Quantized Deployment](https://dev.to/ryan_n_a9ec3d0a1a357a89/z-image-gguf-technical-whitepaper-deep-analysis-of-s3-dit-architecture-and-quantized-deployment-1i0o)
+- [Stop uploading your sensitive data: I built a privacy-first Developer Suite &lpar;JSON, PDF, Base64&rpar;](https://dev.to/muhammad_haris_7828c7aeda/stop-uploading-your-sensitive-data-i-built-a-privacy-first-developer-suite-json-pdf-base64-1oe4)
+- [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
+- [DEV Track Spotlight: AI Native Development - Strategies and Impact across Amazon and AWS &lpar;DEV323&rpar;](https://dev.to/aws/dev-track-spotlight-ai-native-development-strategies-and-impact-across-amazon-and-aws-dev323-593j)
 <!-- BLOG-POST-LIST:END -->
 
 
