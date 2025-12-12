@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part Two](https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-two-5cfo)
-- [Ringer Movies: ‘Hamnet’ and the 10 Best Performances of 2025](https://dev.to/popcorn_movies/ringer-movies-hamnet-and-the-10-best-performances-of-2025-32g7)
-- [Why I Built My Personal Developer Portfolio &lpar;and What You Can Learn From It&rpar;](https://dev.to/badhonai/why-i-built-my-personal-developer-portfolio-and-what-you-can-learn-from-it-2oib)
-- [An Analysis of Arbitrage Markets Across Ethereum, Solana, Optimism, and Starknet &lpar;2024-2025&rpar;](https://dev.to/extropy/an-analysis-of-arbitrage-markets-across-ethereum-solana-optimism-and-starknet-2024-2025-269i)
+- [Day 7: Trading Leetcode for ML](https://dev.to/casperday11/day-7-trading-leetcode-for-ml-2k7m)
+- [Day 7: Trading Leetcode for ML &lpar;Temporarily&rpar;](https://dev.to/blink_c5eb0afe3975/day-7-trading-leetcode-for-ml-temporarily-304m)
+- [Azure Tag Governance Reality - Why 247 Variations of &quot;Environment&quot; Collapse Your Cost Reports](https://dev.to/azurenoob/azure-tag-governance-reality-why-247-variations-of-environment-collapse-your-cost-reports-3408)
+- [50 Windows Commands Every Azure VM Admin Needs &lpar;PowerShell + Active Directory&rpar;](https://dev.to/azurenoob/50-windows-commands-every-azure-vm-admin-needs-powershell-active-directory-29a1)
 <!-- BLOG-POST-LIST:END -->
 
 
