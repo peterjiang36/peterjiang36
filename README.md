@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for a Tax File Number?](https://dev.to/fast_rabbit_9d94d696ee6b3/looking-for-a-tax-file-number-52no)
-- [🔥Java Spring Framework &amp; Spring Boot : A simple, no-nonsense guide that actually makes sense](https://dev.to/kaustubhyerkade/java-spring-framework-spring-boot-a-simple-no-nonsense-guide-that-actually-makes-sense-ed)
-- [🚀 Panduan Hosting Website di Raspberry Pi + Subdomain](https://dev.to/1amkaizen/panduan-hosting-website-di-raspberry-pi-subdomain-2pe)
-- [🚀 Terraform Day 5: Mastering Variables — The Key to Clean, Reusable Infrastructure Code](https://dev.to/jeeva_5c84a254e90842940dd/terraform-day-5-mastering-variables-the-key-to-clean-reusable-infrastructure-code-3m10)
+- [Transform SDK Integration: Monetize Your AI Conversations Effectively](https://dev.to/monetzly/transform-sdk-integration-monetize-your-ai-conversations-effectively-33j5)
+- [From Catalog Chaos to Real-Time Recommendations: Building a Product Graph with LLMs and Neo4j](https://dev.to/badmonster0/from-catalog-chaos-to-real-time-recommendations-building-a-product-graph-with-llms-and-neo4j-22b9)
+- [CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure](https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c)
+- [Why Small Front-End Habits Matter: The Quiet Value of CSS &amp; JS Minification](https://dev.to/knowadvance_c5092984a5b66/why-small-front-end-habits-matter-the-quiet-value-of-css-js-minification-339h)
 <!-- BLOG-POST-LIST:END -->
 
 
