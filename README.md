@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Virtualized Cybersecurity Lab: Active Directory and DNS Integration](https://dev.to/gnarlylasagna/building-a-virtualized-cybersecurity-lab-active-directory-and-dns-integration-cn6)
-- [AWS Módulo 0: Setup Seguro de Cuenta &lpar;Zero to Architect&rpar;](https://dev.to/emp_devcybsec/aws-modulo-0-setup-seguro-de-cuenta-zero-to-architect-eml)
-- [Building a Virtualized Cybersecurity Lab: Networking and pfSense Setup](https://dev.to/gnarlylasagna/building-a-virtualized-cybersecurity-lab-networking-and-pfsense-setup-4bml)
-- [DevPill 10 - Fault tolerance: adding retries to your Go code](https://dev.to/raulsilva/devpill-9-fault-tolerance-adding-retries-to-your-go-code-1371)
+- [How to Practice Graph Problems on LeetCode for Beginners: A Structured Roadmap](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-practice-graph-problems-on-leetcode-for-beginners-a-structured-roadmap-kk4)
+- [Handling HEIC Uploads in Web Apps — Real-World Solutions](https://dev.to/_7bdcbcaa99fbf1c9ea608c/handling-heic-uploads-in-web-apps-real-world-solutions-1gdp)
+- [The future of software is shifting from writing instructions for computers to orchestrating intelligence inside systems.](https://dev.to/jaideepparashar/the-future-of-software-is-shifting-from-writing-instructions-for-computers-to-orchestrating-52og)
+- [What Every Developer Should Know About Applied AI Thinking](https://dev.to/jaideepparashar/what-every-developer-should-know-about-applied-ai-thinking-3bff)
 <!-- BLOG-POST-LIST:END -->
 
 
