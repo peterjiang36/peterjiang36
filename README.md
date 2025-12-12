@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From SQL Server to SFTP — 5 Practical Options to Automate Secure File Deliveries](https://dev.to/vladam/from-sql-server-to-sftp-5-practical-options-to-automate-secure-file-deliveries-3630)
-- [Smart Task Management API: AI-Driven Productivity Backend with Xano](https://dev.to/aniruddhaadak/smart-task-management-api-ai-driven-productivity-backend-with-xano-4ioi)
-- [From Theory to Practice: My Journey Through the Google AI Agents Intensive Course](https://dev.to/aniruddhaadak/from-theory-to-practice-my-journey-through-the-google-ai-agents-intensive-course-3dc8)
-- [Introducing Rehab for Autism and ADHD: Transforming Lives in Patna Through Evidence-Based Therapy](https://dev.to/rehabautismadhd/introducing-rehab-for-autism-and-adhd-transforming-lives-in-patna-through-evidence-based-therapy-3cph)
+- [Embed HTML into Word Documents with docx.js the Easy Way](https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a)
+- [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g)
+- [⚠️ Critical RCE Vulnerability in React Server Components &lpar;CVSS 10.0&rpar;](https://dev.to/kreshby/critical-rce-vulnerability-in-react-server-components-cvss-100-2pak)
+- [How to Merge Cells in Excel in C#](https://dev.to/leondavis1991/how-to-merge-cells-in-excel-in-c-46l1)
 <!-- BLOG-POST-LIST:END -->
 
 
