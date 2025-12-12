@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Schema-First Approach with ThingsDB](https://dev.to/joente/schema-first-approach-with-thingsdb-407p)
-- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1pac)
-- [Explained: What is Web3.0 and Why Does it Matter?](https://dev.to/jamesdas/explained-what-is-web30-and-why-does-it-matter-4l60)
-- [Plato’s Republic — Savage Summary &lpar;Part 2&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-2-1adb)
+- [10 Best Interview Prep Tools for 2026 🔥](https://dev.to/finalroundai/10-best-interview-prep-tools-for-2026-4nfp)
+- [Neuroatypies : debug d&#39;un cerveau atypique en prod](https://dev.to/onepoint/neuroatypies-debug-dun-cerveau-atypique-en-prod-18e4)
+- [How to Use Zod with Angular Signal Forms &lpar;Step-by-Step Migration&rpar;](https://dev.to/brianmtreese/how-to-use-zod-with-angular-signal-forms-step-by-step-migration-4ae6)
+- [So I had a lazy week. Sue me.](https://dev.to/intina47/so-i-had-a-lazy-week-sue-me-1ii7)
 <!-- BLOG-POST-LIST:END -->
 
 
