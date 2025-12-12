@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Commitment Devices Can Do for Your Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/what-commitment-devices-can-do-for-your-productivity-bite-size-article-4dl6)
-- [Basic Linux commands every AI tinkerer should know](https://dev.to/crow/basic-linux-commands-every-ai-tinkerer-should-know-5gpn)
-- [Write Powerful System Prompts | Prompt Engineering - Build AI Platforms From Scratch #3](https://dev.to/goldsteinnick/write-powerful-system-prompts-prompt-engineering-build-ai-platforms-from-scratch-3-42h3)
-- [Setting Up Your Platform Prereqs - Build AI Platforms From Scratch #2](https://dev.to/goldsteinnick/setting-up-your-platform-prereqs-build-ai-platforms-from-scratch-2-59g4)
+- [The Vibe Coding Paradox](https://dev.to/junothreadborne/the-vibe-coding-paradox-i31)
+- [Building a Sub-Millisecond Vector Database in Rust/WASM](https://dev.to/matteo_panzeri_2c5930e196/building-a-sub-millisecond-vector-database-in-rustwasm-4h3l)
+- [Printable Flashcard Generator](https://dev.to/kougen/printable-flashcard-generator-3df2)
+- [Cursor + MCP&#39;s | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
 <!-- BLOG-POST-LIST:END -->
 
 
