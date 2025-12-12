@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Interview Prep Tools for 2026 🔥](https://dev.to/finalroundai/10-best-interview-prep-tools-for-2026-4nfp)
-- [Neuroatypies : debug d&#39;un cerveau atypique en prod](https://dev.to/onepoint/neuroatypies-debug-dun-cerveau-atypique-en-prod-18e4)
-- [How to Use Zod with Angular Signal Forms &lpar;Step-by-Step Migration&rpar;](https://dev.to/brianmtreese/how-to-use-zod-with-angular-signal-forms-step-by-step-migration-4ae6)
-- [So I had a lazy week. Sue me.](https://dev.to/intina47/so-i-had-a-lazy-week-sue-me-1ii7)
+- [From SQL Server to SFTP — 5 Practical Options to Automate Secure File Deliveries](https://dev.to/vladam/from-sql-server-to-sftp-5-practical-options-to-automate-secure-file-deliveries-3630)
+- [Smart Task Management API: AI-Driven Productivity Backend with Xano](https://dev.to/aniruddhaadak/smart-task-management-api-ai-driven-productivity-backend-with-xano-4ioi)
+- [From Theory to Practice: My Journey Through the Google AI Agents Intensive Course](https://dev.to/aniruddhaadak/from-theory-to-practice-my-journey-through-the-google-ai-agents-intensive-course-3dc8)
+- [Introducing Rehab for Autism and ADHD: Transforming Lives in Patna Through Evidence-Based Therapy](https://dev.to/rehabautismadhd/introducing-rehab-for-autism-and-adhd-transforming-lives-in-patna-through-evidence-based-therapy-3cph)
 <!-- BLOG-POST-LIST:END -->
 
 
