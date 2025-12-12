@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
-- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
+- [Dec 12, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-12-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-375c)
+- [Generating Legal Documents Automatically Using Python](https://dev.to/dinahaddad/generating-legal-documents-automatically-using-python-o21)
+- [My Google AI Agents Intensive Experience — Day-by-Day Reflections](https://dev.to/vivekmekala03/my-google-ai-agents-intensive-experience-day-by-day-reflections-1lb2)
+- [Day 71 of My Learning Journey !](https://dev.to/ramyacse/day-71-of-my-learning-journey--3bfk)
 <!-- BLOG-POST-LIST:END -->
 
 
