@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dec 12, 2025 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/dec-12-2025-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-375c)
-- [Generating Legal Documents Automatically Using Python](https://dev.to/dinahaddad/generating-legal-documents-automatically-using-python-o21)
-- [My Google AI Agents Intensive Experience — Day-by-Day Reflections](https://dev.to/vivekmekala03/my-google-ai-agents-intensive-experience-day-by-day-reflections-1lb2)
-- [Day 71 of My Learning Journey !](https://dev.to/ramyacse/day-71-of-my-learning-journey--3bfk)
+- [Schema-First Approach with ThingsDB](https://dev.to/joente/schema-first-approach-with-thingsdb-407p)
+- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1pac)
+- [Explained: What is Web3.0 and Why Does it Matter?](https://dev.to/jamesdas/explained-what-is-web30-and-why-does-it-matter-4l60)
+- [Plato’s Republic — Savage Summary &lpar;Part 2&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-2-1adb)
 <!-- BLOG-POST-LIST:END -->
 
 
