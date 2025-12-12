@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Z-Image GGUF Technical Whitepaper: Deep Analysis of S3-DiT Architecture and Quantized Deployment](https://dev.to/ryan_n_a9ec3d0a1a357a89/z-image-gguf-technical-whitepaper-deep-analysis-of-s3-dit-architecture-and-quantized-deployment-1i0o)
-- [Stop uploading your sensitive data: I built a privacy-first Developer Suite &lpar;JSON, PDF, Base64&rpar;](https://dev.to/muhammad_haris_7828c7aeda/stop-uploading-your-sensitive-data-i-built-a-privacy-first-developer-suite-json-pdf-base64-1oe4)
-- [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
-- [DEV Track Spotlight: AI Native Development - Strategies and Impact across Amazon and AWS &lpar;DEV323&rpar;](https://dev.to/aws/dev-track-spotlight-ai-native-development-strategies-and-impact-across-amazon-and-aws-dev323-593j)
+- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
+- [Building a Quantum-Enhanced API Gateway: MCP Secure Gateway](https://dev.to/soumia_g_9dc322fc4404cecd/building-a-quantum-enhanced-api-gateway-mcp-secure-gateway-bip)
+- [This Week In React #262: React2Shell, Fate | React Native 0.83, Reanimated 4.2, State of RN | CSS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-262-react2shell-fate-react-native-083-reanimated-42-state-of-rn-css-pp2)
+- [Start Hacking Now: What a €XXM API Migration Taught Me About AI in Production](https://dev.to/soumia_g_9dc322fc4404cecd/start-hacking-now-what-a-euxxm-api-migration-taught-me-about-ai-in-production-1310)
 <!-- BLOG-POST-LIST:END -->
 
 
