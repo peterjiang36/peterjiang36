@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
-- [Building a Quantum-Enhanced API Gateway: MCP Secure Gateway](https://dev.to/soumia_g_9dc322fc4404cecd/building-a-quantum-enhanced-api-gateway-mcp-secure-gateway-bip)
-- [This Week In React #262: React2Shell, Fate | React Native 0.83, Reanimated 4.2, State of RN | CSS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-262-react2shell-fate-react-native-083-reanimated-42-state-of-rn-css-pp2)
-- [Start Hacking Now: What a €XXM API Migration Taught Me About AI in Production](https://dev.to/soumia_g_9dc322fc4404cecd/start-hacking-now-what-a-euxxm-api-migration-taught-me-about-ai-in-production-1310)
+- [Las interioridades de Maven](https://dev.to/baltasarq/las-interioridades-de-maven-16d3)
+- [The Ethics of Simulation: How to Test Trauma-Informed Features Without Exploiting Real Pain](https://dev.to/crisiscoresystems/the-ethics-of-simulation-how-to-test-trauma-informed-features-without-exploiting-real-pain-1e11)
+- [Static Sites Without the Bloat: Quesby’s Approach to Modern Web Dev](https://dev.to/quesby/static-sites-without-the-bloat-quesbys-approach-to-modern-web-dev-51mn)
+- [File Sharing: Tired of slow transfers? Here&#39;s the easiest and fastest utility to share files between devices.](https://dev.to/embernoglow/file-sharing-tired-of-slow-transfers-heres-the-easiest-and-fastest-utility-to-share-files-1on2)
 <!-- BLOG-POST-LIST:END -->
 
 
