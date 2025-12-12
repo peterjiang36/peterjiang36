@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Searchable PowerShell Cmdlet Reference with CSV](https://dev.to/torchiachristian/building-a-searchable-powershell-cmdlet-reference-with-csv-23ac)
-- [Why I Ditched toString&lpar;&rpar; and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection](https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280)
-- [How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support](https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k)
-- [Why Your API&#39;s Error Messages Fail When Called by an LLM &lpar;And How to Fix Them&rpar;](https://dev.to/johnonline35/why-your-apis-error-messages-fail-when-called-by-an-llm-and-how-to-fix-them-5a5d)
+- [Building a Virtualized Cybersecurity Lab: Active Directory and DNS Integration](https://dev.to/gnarlylasagna/building-a-virtualized-cybersecurity-lab-active-directory-and-dns-integration-cn6)
+- [AWS Módulo 0: Setup Seguro de Cuenta &lpar;Zero to Architect&rpar;](https://dev.to/emp_devcybsec/aws-modulo-0-setup-seguro-de-cuenta-zero-to-architect-eml)
+- [Building a Virtualized Cybersecurity Lab: Networking and pfSense Setup](https://dev.to/gnarlylasagna/building-a-virtualized-cybersecurity-lab-networking-and-pfsense-setup-4bml)
+- [DevPill 10 - Fault tolerance: adding retries to your Go code](https://dev.to/raulsilva/devpill-9-fault-tolerance-adding-retries-to-your-go-code-1371)
 <!-- BLOG-POST-LIST:END -->
 
 
