@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Chrome Extension That Juggles Local and Cloud AI](https://dev.to/ialijr/how-i-built-a-chrome-extension-that-juggles-local-and-cloud-ai-100n)
-- [The Architect’s Guide: Integrating LLMs into Python Automation Frameworks](https://dev.to/godhirajcode/the-architects-guide-integrating-llms-into-python-automation-frameworks-23gl)
-- [What is GPT-5.2? An insight of 5 major updates in GPT-5.2!](https://dev.to/anna001/what-is-gpt-52-an-insight-of-5-major-updates-in-gpt-52-51mp)
-- [Laravel ReverseKit: Generate Your Entire Laravel Backend From a JSON Structure](https://dev.to/rajaishtiaq6/laravel-reversekit-generate-your-entire-laravel-backend-from-a-json-structure-50m7)
+- [The :has&lpar;&rpar; Selector: Bringing Real Logic to CSS](https://dev.to/smrpdl1991/the-has-selector-bringing-real-logic-to-css-1ej5)
+- [Integrating Realtime ZEGOCLOUD SDK in React.js](https://dev.to/abhishek61067/integrating-realtime-zegocloud-sdk-in-reactjs-19ml)
+- [🫡 Introducing Nikki: Your Offline, Uncensored AI Red Team Assistant in the Terminal](https://dev.to/toxy4ny/introducing-nikki-your-offline-uncensored-ai-red-team-assistant-in-the-terminal-oa9)
+- [Build an AI‑Ready Linux Workstation Under $800 in 2024 – Step‑by‑Step Guide](https://dev.to/crow/build-an-ai-ready-linux-workstation-under-800-in-2024-step-by-step-guide-28ph)
 <!-- BLOG-POST-LIST:END -->
 
 
