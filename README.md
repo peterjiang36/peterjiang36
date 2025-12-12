@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build and Deploy Your LLM Agents in 10 Minutes with TypeScript](https://dev.to/hatchet/how-to-build-and-deploy-your-llm-agents-in-10-minutes-with-typescript-47lh)
-- [Stop Using Text Diff for JSON: A Better Way to Compare Objects](https://dev.to/diffguru/stop-using-text-diff-for-json-a-better-way-to-compare-objects-4j75)
-- [Day 12 — React2Shell CVE &lpar;The Mines&rpar;](https://dev.to/aerabi/day-12-react2shell-cve-the-mines-4okb)
-- [From User to Builder: My Honest Review of Google&#39;s 5-Day AI Agents Intensive Course with Kaggle](https://dev.to/mahesh_jagtap_3f05ce6714f/from-user-to-builder-my-honest-review-of-googles-5-day-ai-agents-intensive-course-49hp)
+- [How I Built a Chrome Extension That Juggles Local and Cloud AI](https://dev.to/ialijr/how-i-built-a-chrome-extension-that-juggles-local-and-cloud-ai-100n)
+- [The Architect’s Guide: Integrating LLMs into Python Automation Frameworks](https://dev.to/godhirajcode/the-architects-guide-integrating-llms-into-python-automation-frameworks-23gl)
+- [What is GPT-5.2? An insight of 5 major updates in GPT-5.2!](https://dev.to/anna001/what-is-gpt-52-an-insight-of-5-major-updates-in-gpt-52-51mp)
+- [Laravel ReverseKit: Generate Your Entire Laravel Backend From a JSON Structure](https://dev.to/rajaishtiaq6/laravel-reversekit-generate-your-entire-laravel-backend-from-a-json-structure-50m7)
 <!-- BLOG-POST-LIST:END -->
 
 
