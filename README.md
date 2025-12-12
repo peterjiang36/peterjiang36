@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Las interioridades de Maven](https://dev.to/baltasarq/las-interioridades-de-maven-16d3)
-- [The Ethics of Simulation: How to Test Trauma-Informed Features Without Exploiting Real Pain](https://dev.to/crisiscoresystems/the-ethics-of-simulation-how-to-test-trauma-informed-features-without-exploiting-real-pain-1e11)
-- [Static Sites Without the Bloat: Quesby’s Approach to Modern Web Dev](https://dev.to/quesby/static-sites-without-the-bloat-quesbys-approach-to-modern-web-dev-51mn)
-- [File Sharing: Tired of slow transfers? Here&#39;s the easiest and fastest utility to share files between devices.](https://dev.to/embernoglow/file-sharing-tired-of-slow-transfers-heres-the-easiest-and-fastest-utility-to-share-files-1on2)
+- [How to Build and Deploy Your LLM Agents in 10 Minutes with TypeScript](https://dev.to/hatchet/how-to-build-and-deploy-your-llm-agents-in-10-minutes-with-typescript-47lh)
+- [Stop Using Text Diff for JSON: A Better Way to Compare Objects](https://dev.to/diffguru/stop-using-text-diff-for-json-a-better-way-to-compare-objects-4j75)
+- [Day 12 — React2Shell CVE &lpar;The Mines&rpar;](https://dev.to/aerabi/day-12-react2shell-cve-the-mines-4okb)
+- [From User to Builder: My Honest Review of Google&#39;s 5-Day AI Agents Intensive Course with Kaggle](https://dev.to/mahesh_jagtap_3f05ce6714f/from-user-to-builder-my-honest-review-of-googles-5-day-ai-agents-intensive-course-49hp)
 <!-- BLOG-POST-LIST:END -->
 
 
