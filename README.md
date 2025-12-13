@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for 10x: The Leverage You&#39;re Missing](https://dev.to/thinkaddict/ai-for-10x-the-leverage-youre-missing-j02)
-- [Give Your AI Superpowers: Managing Python Environments with uv-mcp](https://dev.to/saadmanrafat/give-your-ai-superpowers-managing-python-environments-with-uv-mcp-cn8)
-- [Ed25519 + Merkle Tree + UUIDv7 = Building Tamper-Proof Decision Logs](https://dev.to/veritaschain/ed25519-merkle-tree-uuidv7-building-tamper-proof-decision-logs-o1e)
-- [Day 63: Python Merge K Sorted Lists - O&lpar;n log k&rpar; Min-Heap Guide &lpar;LeetCode #23 Vibes&rpar;](https://dev.to/shahrouzlogs/day-63-python-merge-k-sorted-lists-on-log-k-min-heap-guide-leetcode-23-vibes-4d71)
+- [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
+- [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
+- [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
+- [Master Macro: Your Personal Economic Playbook](https://dev.to/thinkaddict/master-macro-your-personal-economic-playbook-4cbg)
 <!-- BLOG-POST-LIST:END -->
 
 
