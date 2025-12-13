@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Release my PR for the project Bifrost](https://dev.to/slyang08/release-my-pr-for-the-project-bifrost-3pj8)
-- [Designing Systems That Actually Ship](https://dev.to/bradleymatera/designing-systems-that-actually-ship-39ii)
-- [**Title:** Protect Your Credit Score This Holiday Season: A Simple yet Effective 30-Second Trick](https://dev.to/yagyaraj_sharma_6cd410179/title-protect-your-credit-score-this-holiday-season-a-simple-yet-effective-30-second-trick-1mob)
-- [Sustainable Engineering: Why Developers Should Care About Lifecycle Design](https://dev.to/ethan_chase_83bddbb637304/sustainable-engineering-why-developers-should-care-about-lifecycle-design-290h)
+- [Feature Gating: How We Built a Freemium SaaS Without Duplicating Components](https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6)
+- [Debounce vs Throttle in JavaScript &lpar;Explained Simply with Code&rpar;](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm)
+- [How I Detected and Stopped a Real-World RCE Attack on My Next.js App &lpar;CVE-2025-55182 / React2Shell&rpar;](https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd)
+- [Why Your UEBA Isn’t Working &lpar;and how to fix it&rpar;](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59)
 <!-- BLOG-POST-LIST:END -->
 
 
