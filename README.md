@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Problems with WiFi Connection: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-problems-with-wifi-connection-complete-troubleshooting-guide-3jhn)
-- [Build a TikTok Trend Tracker with Node.js &lpar;No Login Required&rpar;](https://dev.to/olams/build-a-tiktok-trend-tracker-with-nodejs-no-login-required-3nli)
-- [[Boost]](https://dev.to/randy_lambert_f42deeee25a/-2oi9)
-- [Step-by-Step Guide: Installing wrk &lpar;HTTP Benchmarking Tool&rpar; on Amazon Linux](https://dev.to/cloudgrains/step-by-step-guide-installing-wrk-http-benchmarking-tool-on-amazon-linux-4e9d)
+- [Basic CRUD using Java Spring Boot](https://dev.to/akash_vadakkeveetil/basic-crud-using-java-spring-boot-2l07)
+- [Quick Start: Build a Ready-to-Use AWS VPC in Minutes](https://dev.to/irfansatrio/quick-start-launch-a-ready-to-use-vpc-setup-in-minutes-1449)
+- [When Reality Dissolves](https://dev.to/rawveg/when-reality-dissolves-5b2m)
+- [How I Built a Multi-Tenant Static Site Engine with Next.js, Nginx, and Coolify](https://dev.to/bobysf12/how-i-built-a-multi-tenant-static-site-engine-with-nextjs-nginx-and-coolify-10mm)
 <!-- BLOG-POST-LIST:END -->
 
 
