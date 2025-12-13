@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vibe Coding Paradox](https://dev.to/junothreadborne/the-vibe-coding-paradox-i31)
-- [Building a Sub-Millisecond Vector Database in Rust/WASM](https://dev.to/matteo_panzeri_2c5930e196/building-a-sub-millisecond-vector-database-in-rustwasm-4h3l)
-- [Printable Flashcard Generator](https://dev.to/kougen/printable-flashcard-generator-3df2)
-- [Cursor + MCP&#39;s | Docker | Strapi v5 | Next JS | Render](https://dev.to/tijmen_de_jong/cursor-mcps-docker-strapi-next-js-45g1)
+- [Release my PR for the project Bifrost](https://dev.to/slyang08/release-my-pr-for-the-project-bifrost-3pj8)
+- [Designing Systems That Actually Ship](https://dev.to/bradleymatera/designing-systems-that-actually-ship-39ii)
+- [**Title:** Protect Your Credit Score This Holiday Season: A Simple yet Effective 30-Second Trick](https://dev.to/yagyaraj_sharma_6cd410179/title-protect-your-credit-score-this-holiday-season-a-simple-yet-effective-30-second-trick-1mob)
+- [Sustainable Engineering: Why Developers Should Care About Lifecycle Design](https://dev.to/ethan_chase_83bddbb637304/sustainable-engineering-why-developers-should-care-about-lifecycle-design-290h)
 <!-- BLOG-POST-LIST:END -->
 
 
