@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are AI Evals?](https://dev.to/nickytonline/what-are-ai-evals-1kk9)
-- [Visual Regression for Adaptive Interfaces: Testing That Crisis Mode Actually Looks Different](https://dev.to/crisiscoresystems/visual-regression-for-adaptive-interfaces-testing-that-crisis-mode-actually-looks-different-380b)
-- [Mahmoud Allam: Digital Product Leader in FinTech and Technology-Driven Innovation](https://dev.to/ahmed_mostafa_5130fbef919/mahmoud-allam-digital-product-leader-in-fintech-and-technology-driven-innovation-4kh)
-- [How Excel Improves Data Accuracy and Reduces Business Errors](https://dev.to/kamaldeen_lawal/how-excel-improves-data-accuracy-and-reduces-business-errors-4hd4)
+- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
+- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
+- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
+- [Vertrauensarbeitszeit war gestern: Wie TimeSpin® klare Grenzen und bessere Leistung schafft](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-war-gestern-wie-timespinr-klare-grenzen-und-bessere-leistung-schafft-1ebo)
 <!-- BLOG-POST-LIST:END -->
 
 
