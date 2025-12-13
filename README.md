@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Identity Agent for your Agent](https://dev.to/record_that_6fdfb31458324/personal-identity-agent-for-your-agent-5dbi)
-- [How 129KB of Whitespace &lpar;and a Recursive Loop&rpar; Broke the Web](https://dev.to/michaelsolati/how-129kb-of-whitespace-and-a-recursive-loop-broke-the-web-lf7)
-- [Custom auth in Payload](https://dev.to/rubixvi/custom-auth-in-payload-29ck)
-- [The better way to shorten Linux commands &lpar;it&#39;s not alias&rpar;](https://dev.to/svhl/the-better-way-to-shorten-linux-commands-its-not-alias-17f6)
+- [ASP.NET CORE - How to using IAuthorizationRequirementData](https://dev.to/victormai/aspnet-core-how-to-using-iauthorizationrequirementdata-16dh)
+- [Google Cloud Options for Storing Data](https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0)
+- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
+- [Vite + Antd App works on Windows but Single Page crashes on Linux Production &lpar;Minified React Error #130&rpar;](https://dev.to/prashant_vaghela_91c78686/vite-antd-app-works-on-windows-but-single-page-crashes-on-linux-production-minified-react-error-3l11)
 <!-- BLOG-POST-LIST:END -->
 
 
