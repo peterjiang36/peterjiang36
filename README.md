@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-4m32)
-- [Swift #11: Cláusula de guarda](https://dev.to/david_goyes_a488f58a17a53/swift-11-clausula-de-guarda-396p)
-- [Navigating Database Trends: NoSQL, PostgreSQL, &amp; Beyond for Modern Data](https://dev.to/dataformathub/navigating-database-trends-nosql-postgresql-beyond-for-modern-data-i4a)
-- [JavaScript performance optimization - Boosting Web Speed: Essential...](https://dev.to/ash_dubai/javascript-performance-optimization-boosting-web-speed-essential-302l)
+- [Day 8: Progress at Grandma&#39;s Place](https://dev.to/casperday11/day-8-progress-at-grandmas-place-4lkd)
+- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
+- [Stop Screenshotting PDFs: A Dev&#39;s Guide to Extracting High-Res Images](https://dev.to/pdfconverlabs/stop-screenshotting-pdfs-a-devs-guide-to-extracting-high-res-images-41b3)
+- [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
 <!-- BLOG-POST-LIST:END -->
 
 
