@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
-- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
-- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
-- [Vertrauensarbeitszeit war gestern: Wie TimeSpin® klare Grenzen und bessere Leistung schafft](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-war-gestern-wie-timespinr-klare-grenzen-und-bessere-leistung-schafft-1ebo)
+- [The right tool for the job](https://dev.to/luc4587/the-right-tool-for-the-job-4m32)
+- [Swift #11: Cláusula de guarda](https://dev.to/david_goyes_a488f58a17a53/swift-11-clausula-de-guarda-396p)
+- [Navigating Database Trends: NoSQL, PostgreSQL, &amp; Beyond for Modern Data](https://dev.to/dataformathub/navigating-database-trends-nosql-postgresql-beyond-for-modern-data-i4a)
+- [JavaScript performance optimization - Boosting Web Speed: Essential...](https://dev.to/ash_dubai/javascript-performance-optimization-boosting-web-speed-essential-302l)
 <!-- BLOG-POST-LIST:END -->
 
 
