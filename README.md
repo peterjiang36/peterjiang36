@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
-- [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
-- [From PyTorch to Shipping local AI on Android](https://dev.to/embedl-hub/from-pytorch-to-shipping-local-ai-on-android-6g9)
+- [Excited to Join the Community!](https://dev.to/godid1996/excited-to-join-the-community-1kgi)
+- [Contributing to streamplace](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-streamplace-4o86)
+- [RAG for Developers — Built for Code, Not Just Text &lpar;Review Requested&rpar;](https://dev.to/demon_slayer_3e2c6835f1b2/rag-for-developers-built-for-code-not-just-text-review-requested-10d)
+- [Easy Ledger CLI: a management tool for ledger-cli ledgers](https://dev.to/mikgross/easy-ledger-cli-a-management-tool-for-ledger-cli-ledgers-fd4)
 <!-- BLOG-POST-LIST:END -->
 
 
