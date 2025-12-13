@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Excited to Join the Community!](https://dev.to/godid1996/excited-to-join-the-community-1kgi)
-- [Contributing to streamplace](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-streamplace-4o86)
-- [RAG for Developers — Built for Code, Not Just Text &lpar;Review Requested&rpar;](https://dev.to/demon_slayer_3e2c6835f1b2/rag-for-developers-built-for-code-not-just-text-review-requested-10d)
-- [Easy Ledger CLI: a management tool for ledger-cli ledgers](https://dev.to/mikgross/easy-ledger-cli-a-management-tool-for-ledger-cli-ledgers-fd4)
+- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
+- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
+- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
+- [Why I Can&#39;t Use Java Records as JPA Entities](https://dev.to/linda_lindo_ba3fe9cd7db16/why-i-cant-use-java-records-as-jpa-entities-e9f)
 <!-- BLOG-POST-LIST:END -->
 
 
