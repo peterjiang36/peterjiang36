@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
-- [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
-- [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
-- [Master Macro: Your Personal Economic Playbook](https://dev.to/thinkaddict/master-macro-your-personal-economic-playbook-4cbg)
+- [Chaos Engineering: Breaking Production on Purpose &lpar;So It Never Breaks Again&rpar;](https://dev.to/kaustubhyerkade/chaos-engineering-breaking-production-on-purpose-so-it-never-breaks-again-401j)
+- [The Mysterious Case of the Query That Never Ran](https://dev.to/aloisseckar/the-mysterious-case-of-the-query-that-never-ran-1gd9)
+- [5 Must-Read Books for Backend Engineers in 20226](https://dev.to/somadevtoo/5-must-read-books-for-backend-engineers-in-20226-2nl6)
+- [The Clean Coder: Opinion](https://dev.to/francisco_susana/the-clean-coder-opinion-214d)
 <!-- BLOG-POST-LIST:END -->
 
 
