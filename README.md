@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8: Progress at Grandma&#39;s Place](https://dev.to/casperday11/day-8-progress-at-grandmas-place-4lkd)
-- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
-- [Stop Screenshotting PDFs: A Dev&#39;s Guide to Extracting High-Res Images](https://dev.to/pdfconverlabs/stop-screenshotting-pdfs-a-devs-guide-to-extracting-high-res-images-41b3)
-- [3606. Coupon Code Validator](https://dev.to/mdarifulhaque/3606-coupon-code-validator-56b0)
+- [What Happens When Curiosity Meets AI: My Learning Reflections From the Intensive](https://dev.to/tasneem_raza_a1b843fab310/what-happens-when-curiosity-meets-ai-my-learning-reflections-from-the-intensive-1aea)
+- [Advent of Code 2025: Waking Up With Puzzles](https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm)
+- [Why most financial apps fail before the code ever does](https://dev.to/nexa_operationfinancial/why-most-financial-apps-fail-before-the-code-ever-does-3951)
+- [Building a Security Scanner for MCP Servers](https://dev.to/teycir/building-a-security-scanner-for-mcp-servers-41am)
 <!-- BLOG-POST-LIST:END -->
 
 
