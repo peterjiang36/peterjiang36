@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Curiosity Meets AI: My Learning Reflections From the Intensive](https://dev.to/tasneem_raza_a1b843fab310/what-happens-when-curiosity-meets-ai-my-learning-reflections-from-the-intensive-1aea)
-- [Advent of Code 2025: Waking Up With Puzzles](https://dev.to/yordiverkroost/advent-of-code-2025-waking-up-with-puzzles-flm)
-- [Why most financial apps fail before the code ever does](https://dev.to/nexa_operationfinancial/why-most-financial-apps-fail-before-the-code-ever-does-3951)
-- [Building a Security Scanner for MCP Servers](https://dev.to/teycir/building-a-security-scanner-for-mcp-servers-41am)
+- [Hello DEV community!](https://dev.to/woulgethater83/hello-dev-community-1b8b)
+- [I’ve been exploring ways organisations can actively manage entropy rather than merely react to it. This led me to outline a small set of pragmatic techniques, more as starting points.
+
+https://brihatijain.com/blog/beyond_the_bus_factor](https://dev.to/brihati_jain_8dcc09c2959c/ive-been-exploring-ways-organisations-can-actively-manage-entropy-rather-than-merely-react-to-it-5el1)
+- [☁️ How to Host Your Side Projects for $0: The Ultimate GCP Free Tier Guide](https://dev.to/jeaniscoding/how-to-host-your-side-projects-for-0-the-ultimate-gcp-free-tier-guide-3p07)
+- [JexLang: Write Once, Validate Everywhere — A Platform-Agnostic Expression Language](https://dev.to/vinaykumar0339/jexlang-write-once-validate-everywhere-a-platform-agnostic-expression-language-23m)
 <!-- BLOG-POST-LIST:END -->
 
 
