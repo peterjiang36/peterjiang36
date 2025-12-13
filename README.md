@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET CORE - How to using IAuthorizationRequirementData](https://dev.to/victormai/aspnet-core-how-to-using-iauthorizationrequirementdata-16dh)
-- [Google Cloud Options for Storing Data](https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0)
-- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
-- [Vite + Antd App works on Windows but Single Page crashes on Linux Production &lpar;Minified React Error #130&rpar;](https://dev.to/prashant_vaghela_91c78686/vite-antd-app-works-on-windows-but-single-page-crashes-on-linux-production-minified-react-error-3l11)
+- [Safeguarding Your React Native App: Protecting Screens for Unauthorized Users](https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb)
+- [Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type](https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh)
+- [Mastering Table Beautification: A Guide to Clearer Data Presentation](https://dev.to/dataformathub/mastering-table-beautification-a-guide-to-clearer-data-presentation-42al)
+- [Global Variables in Python Are Not That Global](https://dev.to/veer66/global-variables-in-python-are-not-that-global-280j)
 <!-- BLOG-POST-LIST:END -->
 
 
