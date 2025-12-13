@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Safeguarding Your React Native App: Protecting Screens for Unauthorized Users](https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb)
-- [Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type](https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh)
-- [Mastering Table Beautification: A Guide to Clearer Data Presentation](https://dev.to/dataformathub/mastering-table-beautification-a-guide-to-clearer-data-presentation-42al)
-- [Global Variables in Python Are Not That Global](https://dev.to/veer66/global-variables-in-python-are-not-that-global-280j)
+- [Ship a &quot;Nano Banana&quot; Image Generator in 3 Minutes &lpar;No AWS S3 Required&rpar;](https://dev.to/jim_jenkins_df443b5101eed/ship-a-nano-banana-image-generator-in-3-minutes-no-aws-s3-required-2b1c)
+- [I Just Shipped a Major Update to My Python GUI Library &lpar;PyUIkit&rpar;](https://dev.to/programminggreen/i-just-shipped-a-major-update-to-my-python-gui-library-pyuikit-3fmg)
+- [Meet parallelHTTP — A Simple Tool to Stress-Test Your APIs](https://dev.to/nicumicle/meet-parallelhttp-a-simple-tool-to-stress-test-your-apis-45ph)
+- [Simply Learn - An AI-First LMS with Next.js 16 &amp; Xano](https://dev.to/aryprogrammer/simply-learn-an-ai-first-lms-with-nextjs-16-xano-2i9h)
 <!-- BLOG-POST-LIST:END -->
 
 
