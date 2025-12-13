@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic CRUD using Java Spring Boot](https://dev.to/akash_vadakkeveetil/basic-crud-using-java-spring-boot-2l07)
-- [Quick Start: Build a Ready-to-Use AWS VPC in Minutes](https://dev.to/irfansatrio/quick-start-launch-a-ready-to-use-vpc-setup-in-minutes-1449)
-- [When Reality Dissolves](https://dev.to/rawveg/when-reality-dissolves-5b2m)
-- [How I Built a Multi-Tenant Static Site Engine with Next.js, Nginx, and Coolify](https://dev.to/bobysf12/how-i-built-a-multi-tenant-static-site-engine-with-nextjs-nginx-and-coolify-10mm)
+- [[Boost]](https://dev.to/mukuldev21/-1004)
+- [React Native REST API Integration with Axios and Context API](https://dev.to/djamware_tutorial_eba1a61/react-native-rest-api-integration-with-axios-and-context-api-4o10)
+- [Building a Production-Ready Webhook Delivery System in 5 Minutes](https://dev.to/restdbjones/building-a-production-ready-webhook-delivery-system-in-5-minutes-5bhe)
+- [Android SaaS App with Subscriptions: Complete 2025 Guide](https://dev.to/krlz/android-saas-app-with-subscriptions-complete-2025-guide-52ak)
 <!-- BLOG-POST-LIST:END -->
 
 
