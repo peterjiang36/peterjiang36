@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship a &quot;Nano Banana&quot; Image Generator in 3 Minutes &lpar;No AWS S3 Required&rpar;](https://dev.to/jim_jenkins_df443b5101eed/ship-a-nano-banana-image-generator-in-3-minutes-no-aws-s3-required-2b1c)
-- [I Just Shipped a Major Update to My Python GUI Library &lpar;PyUIkit&rpar;](https://dev.to/programminggreen/i-just-shipped-a-major-update-to-my-python-gui-library-pyuikit-3fmg)
-- [Meet parallelHTTP — A Simple Tool to Stress-Test Your APIs](https://dev.to/nicumicle/meet-parallelhttp-a-simple-tool-to-stress-test-your-apis-45ph)
-- [Simply Learn - An AI-First LMS with Next.js 16 &amp; Xano](https://dev.to/aryprogrammer/simply-learn-an-ai-first-lms-with-nextjs-16-xano-2i9h)
+- [AI for 10x: The Leverage You&#39;re Missing](https://dev.to/thinkaddict/ai-for-10x-the-leverage-youre-missing-j02)
+- [Give Your AI Superpowers: Managing Python Environments with uv-mcp](https://dev.to/saadmanrafat/give-your-ai-superpowers-managing-python-environments-with-uv-mcp-cn8)
+- [Ed25519 + Merkle Tree + UUIDv7 = Building Tamper-Proof Decision Logs](https://dev.to/veritaschain/ed25519-merkle-tree-uuidv7-building-tamper-proof-decision-logs-o1e)
+- [Day 63: Python Merge K Sorted Lists - O&lpar;n log k&rpar; Min-Heap Guide &lpar;LeetCode #23 Vibes&rpar;](https://dev.to/shahrouzlogs/day-63-python-merge-k-sorted-lists-on-log-k-min-heap-guide-leetcode-23-vibes-4d71)
 <!-- BLOG-POST-LIST:END -->
 
 
