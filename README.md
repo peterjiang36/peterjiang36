@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [45. Jump Game II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/45-jump-game-ii-leetcode-top-interview-150-coding-questions-2pa5)
-- [What Developers Can Learn From Exchange Security Models](https://dev.to/dan_keller/what-developers-can-learn-from-exchange-security-models-1ale)
-- [What the AWS us-east-1 Outage Taught Me About Building Resilient Systems](https://dev.to/ajithmanmu/what-the-aws-us-east-1-outage-taught-me-about-building-resilient-systems-4k59)
-- [I built a SaaS for $0 in one weekend &lpar;LAMP Stack + Free Hosting&rpar;. Here is what happened.](https://dev.to/nizarhelius/i-built-a-saas-for-0-in-one-weekend-lamp-stack-free-hosting-here-is-what-happened-4kdf)
+- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
+- [Kubernetes Cost Monitoring: Turning Resource Usage into Financial Insight](https://dev.to/kapusto/kubernetes-cost-monitoring-turning-resource-usage-into-financial-insight-8hj)
+- [Components of Soft Skills: The 6Ts](https://dev.to/stakiran/components-of-soft-skills-the-6ts-173d)
+- [SleepSync - FullStack App made with Xano and Bubble](https://dev.to/julsr_mx/sleepsync-fullstack-app-made-with-xano-and-bubble-cjh)
 <!-- BLOG-POST-LIST:END -->
 
 
