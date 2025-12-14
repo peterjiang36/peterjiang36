@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Secure Multi-User CRM SaaS with Supabase &amp; Retool &lpar;for UK SMEs&rpar;](https://dev.to/munawerali_syed/building-a-secure-multi-user-crm-saas-with-supabase-retool-for-uk-smes-ik1)
-- [Meet X-AnyLabeling: The Python-native, AI-powered Annotation Tool for Modern CV 🚀](https://dev.to/jack_wang_d47b1f7f781c64f/meet-x-anylabeling-the-python-native-ai-powered-annotation-tool-for-modern-cv-507b)
-- [🎤 The Mic Drop Architect: Why a Rapper Entered the AI Agent Cypher](https://dev.to/sasha_ivey_49988a0f57c5a0/the-mic-drop-architect-why-a-rapper-entered-the-ai-agent-cypher-1ne5)
-- [Building an Interactive Algorithm Visualizer for Interview Prep &lpar;Open Source&rpar;](https://dev.to/nesimtunc/building-an-interactive-algorithm-visualizer-for-interview-prep-open-source-33go)
+- [Text Editor Based Reminder](https://dev.to/stakiran/text-editor-based-reminder-8j2)
+- [Top 5 Trình Duyệt Đa Hồ Sơ Tốt Nhất Cho Affiliate Marketing Việt Nam](https://dev.to/vietnam/top-5-trinh-duyet-da-ho-so-tot-nhat-cho-affiliate-marketing-viet-nam-1i6e)
+- [Getting started with GoLand — how do you use it for Go?](https://dev.to/kshitij_jain_bbc56d59a866/getting-started-with-goland-how-do-you-use-it-for-go-6hn)
+- [Multi-Step Reasoning and Agentic Workflows: Building AI That Plans and Executes](https://dev.to/qvfagundes/multi-step-reasoning-and-agentic-workflows-building-ai-that-plans-and-executes-6pb)
 <!-- BLOG-POST-LIST:END -->
 
 
