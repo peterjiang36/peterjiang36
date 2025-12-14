@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Crazy Dog &lpar;Animated&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crazy-dog-animated-56g1)
-- [My Fingers Don’t Wait for My Brain — do yours?](https://dev.to/bug-free-dev/my-fingers-dont-wait-for-my-brain-do-yours-3i1g)
-- [Distributed task queue system](https://dev.to/haechan_oh_eab474cc8979e2/distributed-task-queue-system-1lka)
-- [Roadmap for the Adoption of Generative AI in Software Testing](https://dev.to/qa-leaders/roadmap-for-the-adoption-of-generative-ai-in-software-testing-4em4)
+- [Java Arrays clone&lpar;&rpar; Explained: Deep Dive with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arrays-clone-explained-deep-dive-with-examples-best-practices-252d)
+- [.NET 10: The Performance Beast That&#39;s Redefining Modern Application Development](https://dev.to/georgekobaidze/net-10-the-performance-beast-thats-redefining-modern-application-development-35jn)
+- [Java Arrays.clear&lpar;&rpar;? Let&#39;s Get Real: Clearing Arrays The Right Way](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraysclear-lets-get-real-clearing-arrays-the-right-way-1a07)
+- [Master Java&#39;s addAll&lpar;&rpar; Method: Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-javas-addall-method-complete-guide-with-examples-best-practices-3kof)
 <!-- BLOG-POST-LIST:END -->
 
 
