@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Teaching AI to Teach: My 5-Day Journey Building an AI Literacy Agent&quot;](https://dev.to/l_t_629313b57b6eddc0fbc57/teaching-ai-to-teach-my-5-day-journey-building-an-ai-literacy-agent-2ge1)
-- [The Undeniable Benefits of Python: Why It’s the Go-To Language for Developers](https://dev.to/__446a6ebfeabd5fb903ae/the-undeniable-benefits-of-python-why-its-the-go-to-language-for-developers-373h)
-- [My Love for Python: A Language That Feels Like Home](https://dev.to/__446a6ebfeabd5fb903ae/my-love-for-python-a-language-that-feels-like-home-1ime)
-- [Python: The Versatile Language Shaping the Digital Age](https://dev.to/__446a6ebfeabd5fb903ae/python-the-versatile-language-shaping-the-digital-age-3plc)
+- [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
+- [Weekly Challenge: Average Progression](https://dev.to/simongreennet/weekly-challenge-average-progression-2dd6)
+- [Md Ismail Portfolio – My Journey as a Web &amp; AI Developer](https://dev.to/md_ismaildev/md-ismail-portfolio-my-journey-as-a-web-ai-developer-3bd5)
+- [How to Use a Public GitHub Repository as a Maven Dependency](https://dev.to/udara_dananjaya/how-to-use-a-public-github-repository-as-a-maven-dependency-5248)
 <!-- BLOG-POST-LIST:END -->
 
 
