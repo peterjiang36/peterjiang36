@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents and Tool Calling Explained: Architecture, Context Engineering, and Implementation Strategies](https://dev.to/kapusto/ai-agents-and-tool-calling-explained-architecture-context-engineering-and-implementation-332p)
-- [Static Analysis of Program Quality: Implementasi Standar Kualitas Kode pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/static-analysis-of-program-quality-implementasi-standar-kualitas-kode-pada-modul-reply-4nc6)
-- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
-- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
+- [Building a Secure Multi-User CRM SaaS with Supabase &amp; Retool &lpar;for UK SMEs&rpar;](https://dev.to/munawerali_syed/building-a-secure-multi-user-crm-saas-with-supabase-retool-for-uk-smes-ik1)
+- [Meet X-AnyLabeling: The Python-native, AI-powered Annotation Tool for Modern CV 🚀](https://dev.to/jack_wang_d47b1f7f781c64f/meet-x-anylabeling-the-python-native-ai-powered-annotation-tool-for-modern-cv-507b)
+- [🎤 The Mic Drop Architect: Why a Rapper Entered the AI Agent Cypher](https://dev.to/sasha_ivey_49988a0f57c5a0/the-mic-drop-architect-why-a-rapper-entered-the-ai-agent-cypher-1ne5)
+- [Building an Interactive Algorithm Visualizer for Interview Prep &lpar;Open Source&rpar;](https://dev.to/nesimtunc/building-an-interactive-algorithm-visualizer-for-interview-prep-open-source-33go)
 <!-- BLOG-POST-LIST:END -->
 
 
