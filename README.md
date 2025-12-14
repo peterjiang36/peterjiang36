@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DEVLOG – How to Move Straight in a Line?](https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0)
-- [I built a habit tracker app with Xano](https://dev.to/emmanuelthecoder/i-built-a-habit-tracker-app-with-xano-4bnc)
-- [**Title:** Elevating Productivity: The Benefits of Portable Mechanical Keyboards for Writers and Tech Enthusiasts](https://dev.to/yagyaraj_sharma_6cd410179/title-elevating-productivity-the-benefits-of-portable-mechanical-keyboards-for-writers-and-52ci)
-- [Why Idempotency Is So Important in Data Engineering](https://dev.to/chaets/why-idempotency-is-so-important-in-data-engineering-24mj)
+- [AI Agents and Tool Calling Explained: Architecture, Context Engineering, and Implementation Strategies](https://dev.to/kapusto/ai-agents-and-tool-calling-explained-architecture-context-engineering-and-implementation-332p)
+- [Static Analysis of Program Quality: Implementasi Standar Kualitas Kode pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/static-analysis-of-program-quality-implementasi-standar-kualitas-kode-pada-modul-reply-4nc6)
+- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
+- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
 <!-- BLOG-POST-LIST:END -->
 
 
