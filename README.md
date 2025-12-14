@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/massud1994/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-1okk)
-- [WTF is Geo-Replication?](https://dev.to/dailybugle33/wtf-is-geo-replication-1n98)
-- [STOPSIGNAL is now available on Amazon ECS Fargate](https://dev.to/nid/stopsignal-is-now-available-on-amazon-ecs-fargate-45fa)
-- [Introducing shadcn-glass-ui: A Glassmorphism Component Library for React 🎨](https://dev.to/yhooi2/introducing-shadcn-glass-ui-a-glassmorphism-component-library-for-react-4cpl)
+- [Last January I had 847 supporters on Tpylo. Made around $4,800/month. Felt great until I calculated the fees.](https://dev.to/mrjozaz/last-january-i-had-847-supporters-on-tpylo-made-around-4800month-felt-great-until-i-calculated-1i66)
+- [What Kind of Customer Data Do Companies Capture?](https://dev.to/dipti_m_2e7ba36c478d1a48a/what-kind-of-customer-data-do-companies-capture-36li)
+- [Build a Slack Bot with This Webhook Template](https://dev.to/restdbjones/build-a-slack-bot-with-this-webhook-template-17io)
+- [We want to achieve this configuration using only an Egress-only internet gateway with IPv6](https://dev.to/shiruta/we-want-to-achieve-this-configuration-using-only-an-egress-only-internet-gateway-with-ipv6-3f87)
 <!-- BLOG-POST-LIST:END -->
 
 
