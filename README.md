@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
-- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
-- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
-- [Why I Can&#39;t Use Java Records as JPA Entities](https://dev.to/linda_lindo_ba3fe9cd7db16/why-i-cant-use-java-records-as-jpa-entities-e9f)
+- [DEVLOG – How to Move Straight in a Line?](https://dev.to/somespi/devlog-how-to-move-straight-in-a-line-3dc0)
+- [I built a habit tracker app with Xano](https://dev.to/emmanuelthecoder/i-built-a-habit-tracker-app-with-xano-4bnc)
+- [**Title:** Elevating Productivity: The Benefits of Portable Mechanical Keyboards for Writers and Tech Enthusiasts](https://dev.to/yagyaraj_sharma_6cd410179/title-elevating-productivity-the-benefits-of-portable-mechanical-keyboards-for-writers-and-52ci)
+- [Why Idempotency Is So Important in Data Engineering](https://dev.to/chaets/why-idempotency-is-so-important-in-data-engineering-24mj)
 <!-- BLOG-POST-LIST:END -->
 
 
