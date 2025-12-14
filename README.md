@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Développer pour le déploiement distribué](https://dev.to/onepoint/developper-pour-le-deploiement-distribue-4m64)
-- [Start Here: PainTracker + CrisisCore Build Log &lpar;Privacy-First, Offline-First, No Surveillance&rpar;](https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k)
-- [I built a comprehensive open-source learning repository with 100+ guides covering everything from AI fundamentals to production LLM systems. Here&#39;s what&#39;s inside and how to use it.](https://dev.to/satinathnit/i-built-a-comprehensive-open-source-learning-repository-with-100-guides-covering-everything-from-50p0)
-- [Update on Deno Watch Mode Signal Issue.](https://dev.to/whyang9701/progress-update-of-deno-watch-mode-issue-464e)
+- [I Tried Reading React&#39;s Source Code and Flow Beat Me Up. So Let&#39;s Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
+- [Advent of AI - Day 10: Understanding Arguments in Goose Recipes](https://dev.to/nickytonline/advent-of-ai-day-10-understanding-arguments-in-goose-recipes-2obg)
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;2&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-2-57m3)
+- [Mastering Data Migration Strategies for Seamless Transfers](https://dev.to/dataformathub/mastering-data-migration-strategies-for-seamless-transfers-1228)
 <!-- BLOG-POST-LIST:END -->
 
 
