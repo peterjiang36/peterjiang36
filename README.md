@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python Isn’t Enough: What Enterprises Miss When They Think of AI Only as a Data Science Problem](https://dev.to/vigneshjd/why-python-isnt-enough-what-enterprises-miss-when-they-think-of-ai-only-as-a-data-science-problem-hlb)
-- [PromptShield AI – An AI Cost &amp; Risk Firewall Built with Xano](https://dev.to/manikant92/promptshield-ai-an-ai-cost-risk-firewall-built-with-xano-346e)
-- [Blazor SaaS Starter Kits Compared: When to Choose Brick Starter for Full‑Stack C#](https://dev.to/brickstarter/blazor-saas-starter-kits-compared-when-to-choose-brick-starter-for-full-stack-c-f2o)
-- [Dev tools Hub API](https://dev.to/shashank_y/dev-tools-hub-api-d3l)
+- [Best Cursor Editor Themes 2024: Boost Focus &amp; Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11)
+- [A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27)
+- [How to Build Long-Living Software Systems](https://dev.to/leonpennings/how-to-build-long-living-software-systems-535n)
+- [Các điểm cần lưu ý về Business Rule](https://dev.to/longtth/cac-diem-can-luu-y-ve-business-rule-4342)
 <!-- BLOG-POST-LIST:END -->
 
 
