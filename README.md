@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
-- [Weekly Challenge: Average Progression](https://dev.to/simongreennet/weekly-challenge-average-progression-2dd6)
-- [Md Ismail Portfolio – My Journey as a Web &amp; AI Developer](https://dev.to/md_ismaildev/md-ismail-portfolio-my-journey-as-a-web-ai-developer-3bd5)
-- [How to Use a Public GitHub Repository as a Maven Dependency](https://dev.to/udara_dananjaya/how-to-use-a-public-github-repository-as-a-maven-dependency-5248)
+- [Crazy Dog &lpar;Animated&rpar;](https://dev.to/preetha_vaishnavi_2b82358/crazy-dog-animated-56g1)
+- [My Fingers Don’t Wait for My Brain — do yours?](https://dev.to/bug-free-dev/my-fingers-dont-wait-for-my-brain-do-yours-3i1g)
+- [Distributed task queue system](https://dev.to/haechan_oh_eab474cc8979e2/distributed-task-queue-system-1lka)
+- [Roadmap for the Adoption of Generative AI in Software Testing](https://dev.to/qa-leaders/roadmap-for-the-adoption-of-generative-ai-in-software-testing-4em4)
 <!-- BLOG-POST-LIST:END -->
 
 
