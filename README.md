@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Cursor Editor Themes 2024: Boost Focus &amp; Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11)
-- [A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27)
-- [How to Build Long-Living Software Systems](https://dev.to/leonpennings/how-to-build-long-living-software-systems-535n)
-- [Các điểm cần lưu ý về Business Rule](https://dev.to/longtth/cac-diem-can-luu-y-ve-business-rule-4342)
+- [Adafruit: Arduino&#39;s Rules are &#39;Incompatible with Open Source&#39;](https://dev.to/davidcassel/adafruit-arduinos-rules-are-incompatible-with-open-source-3n7m)
+- [Monetize Voice AI Solutions for eCommerce Using VAPI Effectively](https://dev.to/callstacktech/monetize-voice-ai-solutions-for-ecommerce-using-vapi-effectively-3nm7)
+- [Meet TOON: A Token-First Data Format Built for AI](https://dev.to/kiran_ravi_092a2cfcf60389/meet-toon-a-token-first-data-format-built-for-ai-8l6)
+- [We Evaluated 13 LLM Gateways for Production. Here&#39;s What We Found](https://dev.to/debmckinney/we-evaluated-13-llm-gateways-for-production-heres-what-we-found-2dkm)
 <!-- BLOG-POST-LIST:END -->
 
 
