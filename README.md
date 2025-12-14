@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Reading React&#39;s Source Code and Flow Beat Me Up. So Let&#39;s Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
-- [Advent of AI - Day 10: Understanding Arguments in Goose Recipes](https://dev.to/nickytonline/advent-of-ai-day-10-understanding-arguments-in-goose-recipes-2obg)
-- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;2&rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-2-57m3)
-- [Mastering Data Migration Strategies for Seamless Transfers](https://dev.to/dataformathub/mastering-data-migration-strategies-for-seamless-transfers-1228)
+- [Why I Prefer Simple Code Over &quot;Smart&quot; Code](https://dev.to/sareena_rahim/why-i-prefer-simple-code-over-smart-code-4je4)
+- [AI‑Assisted Writing as Search &lpar;Not Draft Generation&rpar;](https://dev.to/arthurbiensur/ai-assisted-writing-as-search-not-draft-generation-4io8)
+- [Why CAPTCHAs today are so bad &lpar;and what we should be building instead&rpar;](https://dev.to/tentari/why-captchas-today-are-so-bad-and-what-we-should-be-building-instead-3dm2)
+- [Android Security for Devs: Nocturne VPN Technical Guide](https://dev.to/mitul_chovatiya_e568824a5/android-security-for-devs-nocturne-vpn-technical-guide-4h7)
 <!-- BLOG-POST-LIST:END -->
 
 
