@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Text Editor Based Reminder](https://dev.to/stakiran/text-editor-based-reminder-8j2)
-- [Top 5 Trình Duyệt Đa Hồ Sơ Tốt Nhất Cho Affiliate Marketing Việt Nam](https://dev.to/vietnam/top-5-trinh-duyet-da-ho-so-tot-nhat-cho-affiliate-marketing-viet-nam-1i6e)
-- [Getting started with GoLand — how do you use it for Go?](https://dev.to/kshitij_jain_bbc56d59a866/getting-started-with-goland-how-do-you-use-it-for-go-6hn)
-- [Multi-Step Reasoning and Agentic Workflows: Building AI That Plans and Executes](https://dev.to/qvfagundes/multi-step-reasoning-and-agentic-workflows-building-ai-that-plans-and-executes-6pb)
+- [Python by Structure: List Comprehensions and Their Hidden Complexity](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-their-hidden-complexity-1h5c)
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1/ &rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
+- [Image Pixel RGBA Extractor v2.0.0 - Professional Tool for Precise Color Data Extraction](https://dev.to/wtsolutions/image-pixel-rgba-extractor-v200-professional-tool-for-precise-color-data-extraction-3ohd)
+- [图像像素RGBA提取器 v2.0.0 - 精确提取图像颜色数据的专业工具](https://dev.to/wtsolutions/tu-xiang-xiang-su-rgbati-qu-qi-v200-jing-que-ti-qu-tu-xiang-yan-se-shu-ju-de-zhuan-ye-gong-ju-3gk6)
 <!-- BLOG-POST-LIST:END -->
 
 
