@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
-- [Coding Challenge Practice - Question 78](https://dev.to/tomivan/coding-challenge-practice-question-78-43k0)
-- [Cassandra-Like Distributed Database](https://dev.to/dili_/cassandra-like-distributed-database-4b57)
-- [Redis Nuxt Blog: The Admin Panel Awakens ⚔️](https://dev.to/melasistema/redis-nuxt-blog-the-admin-panel-awakens-4mdk)
+- [Weaviate for RAG: When It Shines &lpar;and When It Doesn’t&rpar;](https://dev.to/eber_cruz_2f4a4aba25399b2/weaviate-for-rag-when-it-shines-and-when-it-doesnt-4ge4)
+- [Decisões demais, estratégia de menos](https://dev.to/bruno_fernando_59a2cd7feb/decisoes-demais-estrategia-de-menos-1dn0)
+- [Beyond Coding: Your Accountability Buddy with Claude Code Skill](https://dev.to/yooi/beyond-coding-your-accountability-buddy-with-claude-code-skill-4omh)
+- [Another E2E Solution delivered. This time with CI/CD, AWS EventBridge and ECS Fargate](https://dev.to/marcelomagario/another-e2e-solution-delivered-this-time-with-cicd-aws-eventbridge-and-ecs-fargate-3ca0)
 <!-- BLOG-POST-LIST:END -->
 
 
