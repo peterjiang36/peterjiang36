@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Subtle Sign You&#39;re Growing as a Coder](https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl)
-- [Best Practices to Improve Mobile Futures Trading App Speed During High‑Volatility Sessions](https://dev.to/misterankit/best-practices-to-improve-mobile-futures-trading-app-speed-during-high-volatility-sessions-2gd8)
-- [Deploy Buttons Generator Beautiful Deployment Badges for Your GitHub Repos](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
-- [Android Performance &amp; Security: A Dev&#39;s Guide to Nocturne VPN](https://dev.to/mitul_chovatiya_e568824a5/android-performance-security-a-devs-guide-to-nocturne-vpn-3poj)
+- [Unveiling Generative AI: The Future of Creativity](https://dev.to/hkj13/unveiling-generative-ai-the-future-of-creativity-35o3)
+- [Unlocking 2025: The Golden Era of Product Management](https://dev.to/hkj13/unlocking-2025-the-golden-era-of-product-management-54me)
+- [Multiple Enumerations in LINQ Expressions](https://dev.to/dsikorska/multiple-enumerations-in-linq-expressions-1fdl)
+- [As teams build AI-powered apps, one issue shows up fast 👉 runaway LLM costs with no guardrails.
+
+Thats where PromptShield AI comes into picture](https://dev.to/manikant92/as-teams-build-ai-powered-apps-one-issue-shows-up-fast-runaway-llm-costs-with-no-guardrails-5gmo)
 <!-- BLOG-POST-LIST:END -->
 
 
