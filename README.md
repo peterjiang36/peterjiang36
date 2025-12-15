@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Personal AI Assistant with n8n on Bult.ai](https://dev.to/bult/build-a-personal-ai-assistant-with-n8n-on-bultai-2ho)
-- [How to improve banking efficiency with custom software?](https://dev.to/it-influencer/how-to-improve-banking-efficiency-with-custom-software-lca)
-- [g](https://dev.to/anurag_sati_5b77a6578f780/g-1g89)
-- [Coderive v0.3.0: The Language Design Leap - A Realized Vision](https://dev.to/danexcodr/coderive-v030-the-language-design-leap-a-realized-vision-24ap)
+- [Consensus Mechanisms Explained: How Blockchain Networks Agree Without a Boss](https://dev.to/ribhavmodi/consensus-mechanisms-explained-how-blockchain-networks-agree-without-a-boss-868)
+- [The 12 Developer Mindsets I’ve Seen in My Career &lpar;And What They Teach Us About Building Software&rpar;](https://dev.to/notadevbuthere/the-12-developer-mindsets-ive-seen-in-my-career-and-what-they-teach-us-about-building-software-42de)
+- [RepoSense API : Repository Intelligence That Actually Works](https://dev.to/divyasinghdev/reposense-api-repository-intelligence-that-actually-works-3c3l)
+- [Best Oracle Database Clients for 2025](https://dev.to/dbvismarketing/best-oracle-database-clients-for-2025-2geh)
 <!-- BLOG-POST-LIST:END -->
 
 
