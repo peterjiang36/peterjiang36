@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling Generative AI: The Future of Creativity](https://dev.to/hkj13/unveiling-generative-ai-the-future-of-creativity-35o3)
-- [Unlocking 2025: The Golden Era of Product Management](https://dev.to/hkj13/unlocking-2025-the-golden-era-of-product-management-54me)
-- [Multiple Enumerations in LINQ Expressions](https://dev.to/dsikorska/multiple-enumerations-in-linq-expressions-1fdl)
-- [As teams build AI-powered apps, one issue shows up fast 👉 runaway LLM costs with no guardrails.
-
-Thats where PromptShield AI comes into picture](https://dev.to/manikant92/as-teams-build-ai-powered-apps-one-issue-shows-up-fast-runaway-llm-costs-with-no-guardrails-5gmo)
+- [Build a Personal AI Assistant with n8n on Bult.ai](https://dev.to/bult/build-a-personal-ai-assistant-with-n8n-on-bultai-2ho)
+- [How to improve banking efficiency with custom software?](https://dev.to/it-influencer/how-to-improve-banking-efficiency-with-custom-software-lca)
+- [g](https://dev.to/anurag_sati_5b77a6578f780/g-1g89)
+- [Coderive v0.3.0: The Language Design Leap - A Realized Vision](https://dev.to/danexcodr/coderive-v030-the-language-design-leap-a-realized-vision-24ap)
 <!-- BLOG-POST-LIST:END -->
 
 
