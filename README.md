@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weaviate for RAG: When It Shines &lpar;and When It Doesn’t&rpar;](https://dev.to/eber_cruz_2f4a4aba25399b2/weaviate-for-rag-when-it-shines-and-when-it-doesnt-4ge4)
-- [Decisões demais, estratégia de menos](https://dev.to/bruno_fernando_59a2cd7feb/decisoes-demais-estrategia-de-menos-1dn0)
-- [Beyond Coding: Your Accountability Buddy with Claude Code Skill](https://dev.to/yooi/beyond-coding-your-accountability-buddy-with-claude-code-skill-4omh)
-- [Another E2E Solution delivered. This time with CI/CD, AWS EventBridge and ECS Fargate](https://dev.to/marcelomagario/another-e2e-solution-delivered-this-time-with-cicd-aws-eventbridge-and-ecs-fargate-3ca0)
+- [AWS AMI cross-region replication and sharing](https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811)
+- [Hono + Preact - The Ultimate Starter for Web Apps I Can Think Of](https://dev.to/keplerjst/hono-preact-the-ultimate-starter-for-web-apps-i-can-think-of-12kc)
+- [Data Privacy Practices for Canadian Websites](https://dev.to/techcontributors/data-privacy-practices-for-canadian-websites-42i2)
+- [Ventoy: Boot Over 1300 OS Images from a Single USB](https://dev.to/stelixx-insider/ventoy-boot-over-1300-os-images-from-a-single-usb-5h7p)
 <!-- BLOG-POST-LIST:END -->
 
 
