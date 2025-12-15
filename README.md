@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Tested a Text to Video Tool in a Real Workflow](https://dev.to/josephdillon/how-i-tested-a-text-to-video-tool-in-a-real-workflow-3c2p)
-- [From “I should check the reviews” to a SaaS](https://dev.to/quentin23soleil/from-i-should-check-the-reviews-to-a-saas-5bmn)
-- [I Made a Habit Tracker Because the Free Ones Were… Not Free 😅](https://dev.to/saamiabbaskhan/i-made-a-habit-tracker-because-the-free-ones-were-not-free-225f)
-- [Hello World! 2nd Year Software Engineering Student from Morocco](https://dev.to/sugar_genius_4659224a2fa2/hello-world-2nd-year-software-engineering-student-from-morocco-3b3o)
+- [Next.js vs TanStack in 2025: A Practical Comparison](https://dev.to/tahmidbintaslim/nextjs-vs-tanstack-in-2025-a-practical-comparison-1991)
+- [The $100 Billion Gamble](https://dev.to/rawveg/the-100-billion-gamble-50k2)
+- [Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?](https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k)
+- [Combine #3: Operadores de Transformación](https://dev.to/david_goyes_a488f58a17a53/combine-3-operadores-de-transformacion-4g2m)
 <!-- BLOG-POST-LIST:END -->
 
 
