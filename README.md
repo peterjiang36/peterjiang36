@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Psychology Behind WBS: Why Our Brains Fail at Large Task Estimation](https://dev.to/_jeongyuhyeon_03de1/the-psychology-behind-wbs-why-our-brains-fail-at-large-task-estimation-ka2)
-- [How WBS Transforms Development Teams: From Chaos to Clarity](https://dev.to/_jeongyuhyeon_03de1/how-wbs-transforms-development-teams-from-chaos-to-clarity-4g1p)
-- [JVM, Java Memory Model e CPU: por que funciona em x86 e quebra em ARM](https://dev.to/antjjoao/jvm-java-memory-model-e-cpu-por-que-funciona-em-x86-e-quebra-em-arm-280g)
-- [Amazon EC2 Instance Installation.](https://dev.to/freddie_barron_df6bb01255/amazon-ec2-instance-installation-1pgi)
+- [JuiceFS+MinIO: Ariste AI Achieved 3x Faster I/O and Cut Storage Costs by 40%+](https://dev.to/daswu/juicefsminio-ariste-ai-achieved-3x-faster-io-and-cut-storage-costs-by-40-1016)
+- [My Road to AI Agents: A Google &amp; Kaggle Intensive Course Writing Challenge](https://dev.to/ghazala_arfeen_0d4aff15ee/my-road-to-ai-agents-a-google-kaggle-intensive-course-writing-challenge-207n)
+- [Prompts and coding are the doorway into AI. But they are not the destination.
+
+If you stay at the prompt level, you remain an experimenter. If you move to products, you become a builder.](https://dev.to/jaideepparashar/prompts-and-coding-are-the-doorway-into-ai-but-they-are-not-the-destination-if-you-stay-at-the-273)
+- [The Mindset Shift That Took Me From Prompts to Products](https://dev.to/jaideepparashar/the-mindset-shift-that-took-me-from-prompts-to-products-13gj)
 <!-- BLOG-POST-LIST:END -->
 
 
