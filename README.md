@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consensus Mechanisms Explained: How Blockchain Networks Agree Without a Boss](https://dev.to/ribhavmodi/consensus-mechanisms-explained-how-blockchain-networks-agree-without-a-boss-868)
-- [The 12 Developer Mindsets I’ve Seen in My Career &lpar;And What They Teach Us About Building Software&rpar;](https://dev.to/notadevbuthere/the-12-developer-mindsets-ive-seen-in-my-career-and-what-they-teach-us-about-building-software-42de)
-- [RepoSense API : Repository Intelligence That Actually Works](https://dev.to/divyasinghdev/reposense-api-repository-intelligence-that-actually-works-3c3l)
-- [Best Oracle Database Clients for 2025](https://dev.to/dbvismarketing/best-oracle-database-clients-for-2025-2geh)
+- [How to Build Applications That Survive the Real World](https://dev.to/ojsholly/how-to-build-applications-that-survive-the-real-world-omg)
+- [Enable Zephyr RTOS on STM32](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/enable-zephyr-rtos-on-stm32-26ba)
+- [How a Logistics Company Used SafeLine WAF to Stop Bots from Abusing Tracking APIs](https://dev.to/arina_cholee/how-a-logistics-company-used-safeline-waf-to-stop-bots-from-abusing-tracking-apis-5eg0)
+- [What is a LoRa Gateway and Its Applications](https://dev.to/wideiot/what-is-a-lora-gateway-and-its-applications-2082)
 <!-- BLOG-POST-LIST:END -->
 
 
