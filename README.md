@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent $12 on 4 AI Questions. Then Linux Foundation Made MCP Official.](https://dev.to/dannwaneri/i-spent-12-on-4-ai-questions-then-linux-foundation-made-mcp-official-2d46)
-- [Bad Documentation Examples: Why Developers Drop Off | Fixes](https://dev.to/parv_mittal_4127fbf643d56/bad-documentation-examples-why-developers-drop-off-fixes-3f5l)
-- [Why Your Selenium Tests Are Flaky &lpar;And How to Fix Them Forever&rpar;](https://dev.to/godhirajcode/why-your-selenium-tests-are-flaky-and-how-to-fix-them-forever-55ad)
-- [How to Create Killer Content: The Right Equipment for the Job](https://dev.to/title-productions/how-to-create-killer-content-the-right-equipment-for-the-job-4c3i)
+- [Why El Salvador&#39;s Bitcoin Experiment Looks Brilliant Through a Forex Trader&#39;s Lens](https://dev.to/dhis_is_jj/why-el-salvadors-bitcoin-experiment-looks-brilliant-through-a-forex-traders-lens-373e)
+- [Want to be a tech lead, but don’t know how to get started?](https://dev.to/gabor-till/want-to-be-a-tech-lead-but-dont-know-how-to-get-started-5fbf)
+- [Centralized vs Decentralized Exchange Listings: What Every Web3 Developer Should Know](https://dev.to/tanelith/centralized-vs-decentralized-exchange-listings-what-every-web3-developer-should-know-3djn)
+- [Optimizing Performance in Ionic Apps &lpar;Lazy Loading, AOT &amp; Bundle Size Tips&rpar;](https://dev.to/djamware_tutorial_eba1a61/optimizing-performance-in-ionic-apps-lazy-loading-aot-bundle-size-tips-1mca)
 <!-- BLOG-POST-LIST:END -->
 
 
