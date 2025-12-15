@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs TanStack in 2025: A Practical Comparison](https://dev.to/tahmidbintaslim/nextjs-vs-tanstack-in-2025-a-practical-comparison-1991)
-- [The $100 Billion Gamble](https://dev.to/rawveg/the-100-billion-gamble-50k2)
-- [Framework Battle: Symfony vs. Laravel — Which One Should You Use for Your Enterprise System?](https://dev.to/jeandevbr/framework-battle-symfony-vs-laravel-which-one-should-you-use-for-your-enterprise-system-350k)
-- [Combine #3: Operadores de Transformación](https://dev.to/david_goyes_a488f58a17a53/combine-3-operadores-de-transformacion-4g2m)
+- [I Spent $12 on 4 AI Questions. Then Linux Foundation Made MCP Official.](https://dev.to/dannwaneri/i-spent-12-on-4-ai-questions-then-linux-foundation-made-mcp-official-2d46)
+- [Bad Documentation Examples: Why Developers Drop Off | Fixes](https://dev.to/parv_mittal_4127fbf643d56/bad-documentation-examples-why-developers-drop-off-fixes-3f5l)
+- [Why Your Selenium Tests Are Flaky &lpar;And How to Fix Them Forever&rpar;](https://dev.to/godhirajcode/why-your-selenium-tests-are-flaky-and-how-to-fix-them-forever-55ad)
+- [How to Create Killer Content: The Right Equipment for the Job](https://dev.to/title-productions/how-to-create-killer-content-the-right-equipment-for-the-job-4c3i)
 <!-- BLOG-POST-LIST:END -->
 
 
