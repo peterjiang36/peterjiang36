@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
-- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
-- [Mastering Heaps: A Deep Dive into Data Structures and Algorithms](https://dev.to/vjnvisakh/mastering-heaps-a-deep-dive-into-data-structures-and-algorithms-4f8c)
-- [What Is Production Automation Software? A Complete Guide for Manufacturers](https://dev.to/itsybizz/what-is-production-automation-software-a-complete-guide-for-manufacturers-1j6c)
+- [How I Tested a Text to Video Tool in a Real Workflow](https://dev.to/josephdillon/how-i-tested-a-text-to-video-tool-in-a-real-workflow-3c2p)
+- [From “I should check the reviews” to a SaaS](https://dev.to/quentin23soleil/from-i-should-check-the-reviews-to-a-saas-5bmn)
+- [I Made a Habit Tracker Because the Free Ones Were… Not Free 😅](https://dev.to/saamiabbaskhan/i-made-a-habit-tracker-because-the-free-ones-were-not-free-225f)
+- [Hello World! 2nd Year Software Engineering Student from Morocco](https://dev.to/sugar_genius_4659224a2fa2/hello-world-2nd-year-software-engineering-student-from-morocco-3b3o)
 <!-- BLOG-POST-LIST:END -->
 
 
