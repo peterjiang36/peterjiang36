@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS AMI cross-region replication and sharing](https://dev.to/kingyou/aws-ami-cross-region-replication-and-sharing-2811)
-- [Hono + Preact - The Ultimate Starter for Web Apps I Can Think Of](https://dev.to/keplerjst/hono-preact-the-ultimate-starter-for-web-apps-i-can-think-of-12kc)
-- [Data Privacy Practices for Canadian Websites](https://dev.to/techcontributors/data-privacy-practices-for-canadian-websites-42i2)
-- [Ventoy: Boot Over 1300 OS Images from a Single USB](https://dev.to/stelixx-insider/ventoy-boot-over-1300-os-images-from-a-single-usb-5h7p)
+- [The Psychology Behind WBS: Why Our Brains Fail at Large Task Estimation](https://dev.to/_jeongyuhyeon_03de1/the-psychology-behind-wbs-why-our-brains-fail-at-large-task-estimation-ka2)
+- [How WBS Transforms Development Teams: From Chaos to Clarity](https://dev.to/_jeongyuhyeon_03de1/how-wbs-transforms-development-teams-from-chaos-to-clarity-4g1p)
+- [JVM, Java Memory Model e CPU: por que funciona em x86 e quebra em ARM](https://dev.to/antjjoao/jvm-java-memory-model-e-cpu-por-que-funciona-em-x86-e-quebra-em-arm-280g)
+- [Amazon EC2 Instance Installation.](https://dev.to/freddie_barron_df6bb01255/amazon-ec2-instance-installation-1pgi)
 <!-- BLOG-POST-LIST:END -->
 
 
