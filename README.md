@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JuiceFS+MinIO: Ariste AI Achieved 3x Faster I/O and Cut Storage Costs by 40%+](https://dev.to/daswu/juicefsminio-ariste-ai-achieved-3x-faster-io-and-cut-storage-costs-by-40-1016)
-- [My Road to AI Agents: A Google &amp; Kaggle Intensive Course Writing Challenge](https://dev.to/ghazala_arfeen_0d4aff15ee/my-road-to-ai-agents-a-google-kaggle-intensive-course-writing-challenge-207n)
-- [Prompts and coding are the doorway into AI. But they are not the destination.
-
-If you stay at the prompt level, you remain an experimenter. If you move to products, you become a builder.](https://dev.to/jaideepparashar/prompts-and-coding-are-the-doorway-into-ai-but-they-are-not-the-destination-if-you-stay-at-the-273)
-- [The Mindset Shift That Took Me From Prompts to Products](https://dev.to/jaideepparashar/the-mindset-shift-that-took-me-from-prompts-to-products-13gj)
+- [celery-plus 🥬 — Modern Celery for Node.js](https://dev.to/member_ae0cde60/celery-plus-modern-celery-for-nodejs-6c7)
+- [The Secret Life of JavaScript: Currying vs. Partial Application](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c)
+- [Infinite Scroll with Zustand and React 19: Async Pitfalls](https://dev.to/pipipi-dev/infinite-scroll-with-zustand-and-react-19-async-pitfalls-57c)
+- [Revolutionize AI Monetization: A Deep Dive into Monetzly&#39;s Platform](https://dev.to/monetzly/revolutionize-ai-monetization-a-deep-dive-into-monetzlys-platform-1437)
 <!-- BLOG-POST-LIST:END -->
 
 
