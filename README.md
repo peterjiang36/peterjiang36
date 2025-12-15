@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Guardrail your LLMs](https://dev.to/manikant92/guardrail-your-llms-1d9a)
-- [Building a Production-Ready Scheduled Push Notification System with NestJS Cron and Firebase](https://dev.to/sangwoo_rhie/building-a-production-ready-scheduled-push-notification-system-with-nestjs-cron-and-firebase-4fai)
-- [Why Identity Is Mission-Critical in AI-to-AI Systems](https://dev.to/helios_techcomm_552ce9239/why-identity-is-mission-critical-in-ai-to-ai-systems-70i)
-- [Chasing 240 FPS in LLM Chat UIs](https://dev.to/gokhan_koc_88338a026508b3/chasing-240-fps-on-llm-chats-4gde)
+- [Building PolyScan: Free CC0 PBR Textures &amp; 3D Models for Real Projects](https://dev.to/polyscan/building-polyscan-free-cc0-pbr-textures-3d-models-for-real-projects-3jhm)
+- [Async by Default](https://dev.to/rnikolaev/async-by-default-3f9)
+- [Zero-to-Scale ML: Deploying ONNX Models on Kubernetes with FastAPI and HPA](https://dev.to/austin_deyan_6c9b2445aed6/zero-to-scale-ml-deploying-onnx-models-on-kubernetes-with-fastapi-and-hpa-l78)
+- [How to write a talk proposal that actually gets accepted](https://dev.to/soumayaerradi/how-to-write-a-talk-proposal-that-actually-gets-accepted-4nje)
 <!-- BLOG-POST-LIST:END -->
 
 
