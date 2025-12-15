@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
-- [Day 15 — How to Respond to an Ongoing Compromise &lpar;Hawk&#39;s Path&rpar;](https://dev.to/aerabi/day-15-how-to-respond-to-an-ongoing-compromise-hawks-path-me8)
-- [🔥Finally, I was able to build the model from scratch🔥](https://dev.to/lakhera2015/finally-i-was-able-to-build-the-model-from-scratch-1knm)
-- [**&quot;The Hidden Pitfall of Over-Smoothing: How To Prevent Over](https://dev.to/drcarlosruizviquez/the-hidden-pitfall-of-over-smoothing-how-to-prevent-over-4igd)
+- [Guardrail your LLMs](https://dev.to/manikant92/guardrail-your-llms-1d9a)
+- [Building a Production-Ready Scheduled Push Notification System with NestJS Cron and Firebase](https://dev.to/sangwoo_rhie/building-a-production-ready-scheduled-push-notification-system-with-nestjs-cron-and-firebase-4fai)
+- [Why Identity Is Mission-Critical in AI-to-AI Systems](https://dev.to/helios_techcomm_552ce9239/why-identity-is-mission-critical-in-ai-to-ai-systems-70i)
+- [Chasing 240 FPS in LLM Chat UIs](https://dev.to/gokhan_koc_88338a026508b3/chasing-240-fps-on-llm-chats-4gde)
 <!-- BLOG-POST-LIST:END -->
 
 
