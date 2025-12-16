@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Python Library That Lets You Join MySQL, PostgreSQL, MongoDB, REST APIs, and Files in a Single SQL Query](https://dev.to/theodore_p_9749548f7dd03/how-i-built-a-python-library-that-lets-you-join-mysql-postgresql-mongodb-rest-apis-and-files-in-h5d)
-- [Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático](https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53)
-- [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
-- [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
+- [Novel Contributions of the Independent Variation Principle](https://dev.to/yannick555/novel-contributions-of-the-independent-variation-principle-lmd)
+- [Sveltekit Custom Remote Form Factory](https://dev.to/sillvva/sveltekit-custom-remote-form-factory-nmo)
+- [Canonical JSON Model](https://dev.to/rokoss21/canonical-json-model-2p8o)
+- [**Essential Docker Patterns for Modern Web Development: Multi-Stage, Compose, and Production-Ready Containers**](https://dev.to/nithinbharathwaj/essential-docker-patterns-for-modern-web-development-multi-stage-compose-and-production-ready-poe)
 <!-- BLOG-POST-LIST:END -->
 
 
