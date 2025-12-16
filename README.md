@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PWAs are underrated. I skipped the $99 Apple fee and the $25 Google fee by adding two files to my vanilla JS game. Now it works offline and installs like a native app. Here&#39;s the code 👇](https://dev.to/yosolita1978/pwas-are-underrated-i-skipped-the-99-apple-fee-and-the-25-google-fee-by-adding-two-files-to-my-2923)
-- [Did you know that AI can help reduce the carbon footprint of](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-can-help-reduce-the-carbon-footprint-of-lli)
-- [PDK 3.6.0 is out with security patches and more!](https://dev.to/jasonstcyr/pdk-360-is-out-with-security-patches-and-more-j8a)
-- [How to Detect Browser-as-a-Service Scrapers in 2025](https://dev.to/cport1/how-to-detect-browser-as-a-service-scrapers-in-2025-mmk)
+- [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
+- [Renderizando la cámara con Metal en iOS &lpar;AVFoundation + MetalKit&rpar;](https://dev.to/david_goyes_a488f58a17a53/renderizando-la-camara-con-metal-en-ios-avfoundation-metalkit-mnl)
+- [The AI Tsunami: How VS Code Extensions in 2024-2025 Are Redefining Developer Productivity](https://dev.to/dataformathub/the-ai-tsunami-how-vs-code-extensions-in-2024-2025-are-redefining-developer-productivity-3p8c)
+- [Production Deployment: Nginx, uWSGI, and Gunicorn for WebSockets](https://dev.to/deepak_mishra_35863517037/production-deployment-nginx-uwsgi-and-gunicorn-for-websockets-1i9g)
 <!-- BLOG-POST-LIST:END -->
 
 
