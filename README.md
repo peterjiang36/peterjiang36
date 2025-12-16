@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a tfvars file in Terraform and how do you use it?](https://dev.to/techielass/what-is-a-tfvars-file-in-terraform-and-how-do-you-use-it-3l7o)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 5 - Add MCP](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-5-add-mcp-4h2o)
-- [How AI Learns: Gradient Descent Explained Through a Midnight Smoky Jollof Adventure](https://dev.to/fawole_joshua_c92c794ea50/how-ai-learns-gradient-descent-explained-through-a-midnight-smoky-jollof-adventure-3ggh)
-- [Why CSS Classes Don’t Work with dangerouslySetInnerHTML in Next.js &lpar;and How to Fix It&rpar;](https://dev.to/zainmuhammad/why-css-classes-dont-work-with-dangerouslysetinnerhtml-in-nextjs-and-how-to-fix-it-53c9)
+- [Antigravity for Developers: Lifting the Burden with Gemini 3 Agents](https://dev.to/gioboa/antigravity-for-developers-lifting-the-burden-with-gemini-3-agents-3o9c)
+- [Proxy market forecast 2026: How regulation &lpar;GDPR, CCPA&rpar; is reshaping the landscape](https://dev.to/astro-official/proxy-market-forecast-2026-how-regulation-gdpr-ccpa-is-reshaping-the-landscape-3mbc)
+- [Some SaaS Products Are Bigger Than They Look](https://dev.to/sonu_goswami/some-saas-products-are-bigger-than-they-look-ke)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-3cf2)
 <!-- BLOG-POST-LIST:END -->
 
 
