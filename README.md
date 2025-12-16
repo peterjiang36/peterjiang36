@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
-- [Chirps AI - Build smart AI chatbots](https://dev.to/medjul06/chirps-ai-build-smart-ai-chatbots-2h8h)
-- [Rebuilding a web text editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
-- [Our SEO Journey: From SPA to Next.js &lpar;The Complete Playbook&rpar;](https://dev.to/bishoy_semsem/our-seo-journey-from-spa-to-nextjs-the-complete-playbook-3mna)
+- [Why Annual Reviews Don&#39;t Have to Be Bullshit](https://dev.to/razoorka/why-annual-reviews-dont-have-to-be-bullshit-3ej5)
+- [The Perfect Grammar That Defeats Us: Why AI Doesn&#39;t Need to Be Smart to Win](https://dev.to/razoorka/the-perfect-grammar-that-defeats-us-why-ai-doesnt-need-to-be-smart-to-win-4mbd)
+- [The Great Cloud Escape](https://dev.to/rawveg/the-great-cloud-escape-p41)
+- [How SCORM compliance works inside modern learning platforms](https://dev.to/easygenerator/how-scorm-compliance-works-inside-modern-learning-platforms-3i42)
 <!-- BLOG-POST-LIST:END -->
 
 
