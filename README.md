@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0)
-- [CinemaSins: Everything Wrong With Happy Gilmore 2 In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-happy-gilmore-2-in-23-minutes-or-less-e23)
-- [Building Portfolio Insights: Lessons from an Event‑Driven .NET Microservices Dashboard](https://dev.to/josemariairiarte/building-portfolio-insights-lessons-from-an-event-driven-net-microservices-dashboard-4m53)
-- [PyTorch Models Are Executables: Why I Built a Scanner to Stop &quot;Pickle Bombs&quot;](https://dev.to/labdev_c81554ba3d4ae28317/pytorch-models-are-executables-why-i-built-a-scanner-to-stop-pickle-bombs-92i)
+- [How to Create a Perfect AWS Security Group &lpar;Without Breaking Your App&rpar;](https://dev.to/msbala007/how-to-create-a-perfect-aws-security-group-without-breaking-your-app-50bm)
+- [Automate Your API Documentation with sveltekit-api-gen](https://dev.to/dev_michael/automate-your-api-documentation-with-sveltekit-api-gen-2lgb)
+- [Scale AI Innovation: How AWS Well-Architected Lenses Drive Efficient Development](https://dev.to/devactivity/scale-ai-innovation-how-aws-well-architected-lenses-drive-efficient-development-12ke)
+- [Svelte-MiniApps: A Collection of Single-Purpose Svelte 5 Applications](https://dev.to/dev_michael/svelte-miniapps-a-collection-of-single-purpose-svelte-5-applications-13ne)
 <!-- BLOG-POST-LIST:END -->
 
 
