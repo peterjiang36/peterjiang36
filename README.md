@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
-- [JavaScript 101: Getting Started with Control Flow](https://dev.to/joorch/javascript-101-getting-started-with-control-flow-16pk)
-- [From FP16 to Q4: Understanding Quantization in Ollama](https://dev.to/rijultp/from-fp16-to-q4-understanding-quantization-in-ollama-1j1e)
-- [Nginx Log Analytics with GoAccess: Local Logs, S3 Backups, and Beyond](https://dev.to/ajitkumar/nginx-log-analytics-with-goaccess-local-logs-s3-backups-and-beyond-181e)
+- [Lotería mexicana de FinOps en AWS Community Day Bolivia 2025](https://dev.to/barbara_gaspar/loteria-mexicana-de-finops-en-aws-community-day-bolivia-2025-n08)
+- [WebGPU Engine from Scratch Part 11 - 2: True Scene Graph](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-11-2-true-scene-graph-1kd7)
+- [Stop Googling AWS/GCP Console URLs – Use Go-Links Instead](https://dev.to/lucetre/stop-googling-awsgcp-console-urls-use-go-links-instead-30fo)
+- [7 Best Resources I Used to Master DevOps](https://dev.to/stack_overflowed/7-best-resources-i-used-to-master-devops-4a00)
 <!-- BLOG-POST-LIST:END -->
 
 
