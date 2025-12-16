@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Advanced CSS Grid and Flexbox Techniques for Responsive Layouts](https://dev.to/sharique_siddiqui_8242dad/mastering-advanced-css-grid-and-flexbox-techniques-for-responsive-layouts-5fa8)
-- [Introduction to CSS Preprocessors: Unlocking the Power of SASS and LESS](https://dev.to/sharique_siddiqui_8242dad/introduction-to-css-preprocessors-unlocking-the-power-of-sass-and-less-gco)
-- [How I built a local-first Reddit tool without cloud infrastructure](https://dev.to/short_playskits_ab152535/how-i-built-a-local-first-reddit-tool-without-cloud-infrastructure-ndd)
-- [Building a Digital Menu System for Restaurants – Personal Project](https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h)
+- [Backing Up Nginx Logs the Right Way: From Basics to Automation](https://dev.to/ajitkumar/backing-up-nginx-logs-the-right-way-from-basics-to-automation-5045)
+- [Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute](https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog)
+- [Docker Internals Deep Dive: What Really Happens When You Run docker run &lpar;2025 Edition&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/docker-internals-deep-dive-what-really-happens-when-you-run-docker-run-2025-edition-2k97)
+- [About the issue of keyboard crash when popping up](https://dev.to/harmonyos/about-the-issue-of-keyboard-crash-when-popping-up-37pg)
 <!-- BLOG-POST-LIST:END -->
 
 
