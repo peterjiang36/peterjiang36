@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My DevOps Skills in Public: A Structured, Agile-Inspired Blog](https://dev.to/chetan_tekam_3500/building-my-devops-skills-in-public-a-structured-agile-inspired-blog-20k)
-- [TypeScript in 15 Minutes for JavaScript Developers Who Hate TypeScript](https://dev.to/ramkashyap2050/typescript-in-15-minutes-what-javascript-devs-actually-need-1282)
-- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
-- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
+- [Mastering Advanced CSS Grid and Flexbox Techniques for Responsive Layouts](https://dev.to/sharique_siddiqui_8242dad/mastering-advanced-css-grid-and-flexbox-techniques-for-responsive-layouts-5fa8)
+- [Introduction to CSS Preprocessors: Unlocking the Power of SASS and LESS](https://dev.to/sharique_siddiqui_8242dad/introduction-to-css-preprocessors-unlocking-the-power-of-sass-and-less-gco)
+- [How I built a local-first Reddit tool without cloud infrastructure](https://dev.to/short_playskits_ab152535/how-i-built-a-local-first-reddit-tool-without-cloud-infrastructure-ndd)
+- [Building a Digital Menu System for Restaurants – Personal Project](https://dev.to/josefilipe_dev/building-a-digital-menu-system-for-restaurants-personal-project-2n9h)
 <!-- BLOG-POST-LIST:END -->
 
 
