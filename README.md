@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
-- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
-- [What Developers Can Learn from the LastPass Data Breach &lpar;2022–2025&rpar;](https://dev.to/world_cyclopedia_3ee2df42/what-developers-can-learn-from-the-lastpass-data-breach-2022-2025-2d0i)
-- [About the author: This blog was written by a Python enthusiast who started their coding journey just like you. Connect w…](https://dev.to/kavikr543/about-the-author-this-blog-was-written-by-a-python-enthusiast-who-started-their-coding-journey-5d3o)
+- [Exploring MonoGame with F#: The Evolution of Kipo](https://dev.to/tunaxor/exploring-monogame-with-f-the-evolution-of-kipo-2ok0)
+- [From Chaos to Clarity: How We Built Jira-Assist &lpar;SmartBoard AI&rpar; to Transform Ticket Management](https://dev.to/debapriya_dey_aada54b7766/from-chaos-to-clarity-how-we-built-jira-assist-smartboard-ai-to-transform-ticket-management-3k4h)
+- [My 2025 Year in Review - Conferences, Community, and Growth as an AWS Community Builder and Leader](https://dev.to/aws-builders/my-2025-year-in-review-conferences-community-and-growth-as-an-aws-community-builder-and-leader-4kjn)
+- [Build a Miro Like Collaborative Features using Velt MCP and Zed IDE🔥](https://dev.to/astrodevil/build-a-miro-like-collaborative-features-using-velt-mcp-and-zed-ide-2476)
 <!-- BLOG-POST-LIST:END -->
 
 
