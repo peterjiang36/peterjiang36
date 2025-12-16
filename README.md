@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World! Engineering, Code, and Problem Solving](https://dev.to/mohamed_infas_2c00bd274a1/hello-world-engineering-code-and-problem-solving-3o9j)
-- [Understanding Errors in Machine Learning: Accuracy, Precision, Recall &amp; F1 Score](https://dev.to/zeroshotanu/understanding-errors-in-machine-learning-accuracy-precision-recall-f1-score-4cc0)
-- [Mini-Pages: Rethinking the Leaf Page Boundary](https://dev.to/lovestaco/mini-pages-rethinking-the-leaf-page-boundary-2i8i)
-- [The Modern Scrapy Developer&#39;s Guide &lpar;Part 3&rpar;: Auto-Generating Page Objects with Web Scraping Co-pilot](https://dev.to/zyte/the-modern-scrapy-developers-guide-part-3-auto-generating-page-objects-with-web-scraping-59fj)
+- [PWAs are underrated. I skipped the $99 Apple fee and the $25 Google fee by adding two files to my vanilla JS game. Now it works offline and installs like a native app. Here&#39;s the code 👇](https://dev.to/yosolita1978/pwas-are-underrated-i-skipped-the-99-apple-fee-and-the-25-google-fee-by-adding-two-files-to-my-2923)
+- [Did you know that AI can help reduce the carbon footprint of](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-can-help-reduce-the-carbon-footprint-of-lli)
+- [PDK 3.6.0 is out with security patches and more!](https://dev.to/jasonstcyr/pdk-360-is-out-with-security-patches-and-more-j8a)
+- [How to Detect Browser-as-a-Service Scrapers in 2025](https://dev.to/cport1/how-to-detect-browser-as-a-service-scrapers-in-2025-mmk)
 <!-- BLOG-POST-LIST:END -->
 
 
