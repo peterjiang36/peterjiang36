@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My OSS Stalled for 3 Months Because of Misguided Vibe Coding—This Is the Full Reboot Story](https://dev.to/kako-jun/my-oss-stalled-for-3-months-because-of-misguided-vibe-coding-this-is-the-full-reboot-story-2da5)
-- [Ringer Movies: ‘High Fidelity’ With Bill Simmons, Chris Ryan, Joanna Robinson, and Rob Mahoney | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-high-fidelity-with-bill-simmons-chris-ryan-joanna-robinson-and-rob-mahoney--5foc)
-- [Google December 2025 Core Update – Information and Analysis](https://dev.to/avery_griffin_334d4a1229e/google-december-2025-core-update-information-and-analysis-4kep)
-- [Seamless Contact Format Migration: Mastering CSV and vCard Conversions](https://dev.to/dataformathub/seamless-contact-format-migration-mastering-csv-and-vcard-conversions-4fkj)
+- [16 Performance Boost and 98% Cost Reduction: A Dive into the Upgraded SLS Vector Indexing Architecture](https://dev.to/observabilityguy/16x-performance-boost-and-98-cost-reduction-a-dive-into-the-upgraded-sls-vector-indexing-1hlh)
+- [The Long Tail Problem: Handling Obscure Queries in Data-Driven Apps](https://dev.to/ffteamnames/the-long-tail-problem-handling-obscure-queries-in-data-driven-apps-1apm)
+- [CSS Z-Index Explained: Stop the Stacking Chaos &amp; Manage Layers Like a Pro](https://dev.to/satyam_gupta_0d1ff2152dcc/css-z-index-explained-stop-the-stacking-chaos-manage-layers-like-a-pro-1fcj)
+- [CSS Max-Width Explained: Stop Breaking Your Layout](https://dev.to/satyam_gupta_0d1ff2152dcc/css-max-width-explained-stop-breaking-your-layout-58ej)
 <!-- BLOG-POST-LIST:END -->
 
 
