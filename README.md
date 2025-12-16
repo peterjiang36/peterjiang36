@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring MonoGame with F#: The Evolution of Kipo](https://dev.to/tunaxor/exploring-monogame-with-f-the-evolution-of-kipo-2ok0)
-- [From Chaos to Clarity: How We Built Jira-Assist &lpar;SmartBoard AI&rpar; to Transform Ticket Management](https://dev.to/debapriya_dey_aada54b7766/from-chaos-to-clarity-how-we-built-jira-assist-smartboard-ai-to-transform-ticket-management-3k4h)
-- [My 2025 Year in Review - Conferences, Community, and Growth as an AWS Community Builder and Leader](https://dev.to/aws-builders/my-2025-year-in-review-conferences-community-and-growth-as-an-aws-community-builder-and-leader-4kjn)
-- [Build a Miro Like Collaborative Features using Velt MCP and Zed IDE🔥](https://dev.to/astrodevil/build-a-miro-like-collaborative-features-using-velt-mcp-and-zed-ide-2476)
+- [I&#39;ve FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
+- [GraphQL vs. REST: Why Your Next API Might Prefer GraphQL](https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn)
+- [Designer Maxi Dresses: The Perfect Blend of Style and Comfort](https://dev.to/houseofsiyaab/designer-maxi-dresses-the-perfect-blend-of-style-and-comfort-29ko)
+- [Build an RF Test Bench on a Limited Budget &lpar;Starter / Growth / Advanced&rpar;](https://dev.to/maronlabs/build-an-rf-test-bench-on-a-limited-budget-starter-growth-advanced-hin)
 <!-- BLOG-POST-LIST:END -->
 
 
