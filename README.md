@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mechanische Arbeit des Herzens – Herzfrequenz: messbar? normal?](https://dev.to/redtel/mechanische-arbeit-des-herzens-herzfrequenz-messbar-normal-4f7l)
-- [A Cleaner Way to Do i18n in Angular: i18next + Type Safety + Dynamic JSON Imports](https://dev.to/anton_antonov/a-cleaner-way-to-do-i18n-in-angular-i18next-type-safety-dynamic-json-imports-3p67)
-- [Journey with Apache Flink on AWS EKS](https://dev.to/afnan_amin_67fbd716f146a6/journey-with-apache-flink-on-aws-eks-39n6)
-- [10+ Best Analytics Dashboard Templates for 2025](https://dev.to/suniljoshi19/10-best-analytics-dashboard-templates-for-2025-3o8j)
+- [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
+- [Chirps AI - Build smart AI chatbots](https://dev.to/medjul06/chirps-ai-build-smart-ai-chatbots-2h8h)
+- [Rebuilding a web text editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
+- [Our SEO Journey: From SPA to Next.js &lpar;The Complete Playbook&rpar;](https://dev.to/bishoy_semsem/our-seo-journey-from-spa-to-nextjs-the-complete-playbook-3mna)
 <!-- BLOG-POST-LIST:END -->
 
 
