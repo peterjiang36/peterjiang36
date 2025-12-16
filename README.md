@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [16 Performance Boost and 98% Cost Reduction: A Dive into the Upgraded SLS Vector Indexing Architecture](https://dev.to/observabilityguy/16x-performance-boost-and-98-cost-reduction-a-dive-into-the-upgraded-sls-vector-indexing-1hlh)
-- [The Long Tail Problem: Handling Obscure Queries in Data-Driven Apps](https://dev.to/ffteamnames/the-long-tail-problem-handling-obscure-queries-in-data-driven-apps-1apm)
-- [CSS Z-Index Explained: Stop the Stacking Chaos &amp; Manage Layers Like a Pro](https://dev.to/satyam_gupta_0d1ff2152dcc/css-z-index-explained-stop-the-stacking-chaos-manage-layers-like-a-pro-1fcj)
-- [CSS Max-Width Explained: Stop Breaking Your Layout](https://dev.to/satyam_gupta_0d1ff2152dcc/css-max-width-explained-stop-breaking-your-layout-58ej)
+- [What is a tfvars file in Terraform and how do you use it?](https://dev.to/techielass/what-is-a-tfvars-file-in-terraform-and-how-do-you-use-it-3l7o)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 5 - Add MCP](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-5-add-mcp-4h2o)
+- [How AI Learns: Gradient Descent Explained Through a Midnight Smoky Jollof Adventure](https://dev.to/fawole_joshua_c92c794ea50/how-ai-learns-gradient-descent-explained-through-a-midnight-smoky-jollof-adventure-3ggh)
+- [Why CSS Classes Don’t Work with dangerouslySetInnerHTML in Next.js &lpar;and How to Fix It&rpar;](https://dev.to/zainmuhammad/why-css-classes-dont-work-with-dangerouslysetinnerhtml-in-nextjs-and-how-to-fix-it-53c9)
 <!-- BLOG-POST-LIST:END -->
 
 
