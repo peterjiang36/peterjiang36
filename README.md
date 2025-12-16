@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Backing Up Nginx Logs the Right Way: From Basics to Automation](https://dev.to/ajitkumar/backing-up-nginx-logs-the-right-way-from-basics-to-automation-5045)
-- [Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute](https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog)
-- [Docker Internals Deep Dive: What Really Happens When You Run docker run &lpar;2025 Edition&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/docker-internals-deep-dive-what-really-happens-when-you-run-docker-run-2025-edition-2k97)
-- [About the issue of keyboard crash when popping up](https://dev.to/harmonyos/about-the-issue-of-keyboard-crash-when-popping-up-37pg)
+- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
+- [JavaScript 101: Getting Started with Control Flow](https://dev.to/joorch/javascript-101-getting-started-with-control-flow-16pk)
+- [From FP16 to Q4: Understanding Quantization in Ollama](https://dev.to/rijultp/from-fp16-to-q4-understanding-quantization-in-ollama-1j1e)
+- [Nginx Log Analytics with GoAccess: Local Logs, S3 Backups, and Beyond](https://dev.to/ajitkumar/nginx-log-analytics-with-goaccess-local-logs-s3-backups-and-beyond-181e)
 <!-- BLOG-POST-LIST:END -->
 
 
