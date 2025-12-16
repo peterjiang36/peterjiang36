@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lotería mexicana de FinOps en AWS Community Day Bolivia 2025](https://dev.to/barbara_gaspar/loteria-mexicana-de-finops-en-aws-community-day-bolivia-2025-n08)
-- [WebGPU Engine from Scratch Part 11 - 2: True Scene Graph](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-11-2-true-scene-graph-1kd7)
-- [Stop Googling AWS/GCP Console URLs – Use Go-Links Instead](https://dev.to/lucetre/stop-googling-awsgcp-console-urls-use-go-links-instead-30fo)
-- [7 Best Resources I Used to Master DevOps](https://dev.to/stack_overflowed/7-best-resources-i-used-to-master-devops-4a00)
+- [My OSS Stalled for 3 Months Because of Misguided Vibe Coding—This Is the Full Reboot Story](https://dev.to/kako-jun/my-oss-stalled-for-3-months-because-of-misguided-vibe-coding-this-is-the-full-reboot-story-2da5)
+- [Ringer Movies: ‘High Fidelity’ With Bill Simmons, Chris Ryan, Joanna Robinson, and Rob Mahoney | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-high-fidelity-with-bill-simmons-chris-ryan-joanna-robinson-and-rob-mahoney--5foc)
+- [Google December 2025 Core Update – Information and Analysis](https://dev.to/avery_griffin_334d4a1229e/google-december-2025-core-update-information-and-analysis-4kep)
+- [Seamless Contact Format Migration: Mastering CSV and vCard Conversions](https://dev.to/dataformathub/seamless-contact-format-migration-mastering-csv-and-vcard-conversions-4fkj)
 <!-- BLOG-POST-LIST:END -->
 
 
