@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Perfect AWS Security Group &lpar;Without Breaking Your App&rpar;](https://dev.to/msbala007/how-to-create-a-perfect-aws-security-group-without-breaking-your-app-50bm)
-- [Automate Your API Documentation with sveltekit-api-gen](https://dev.to/dev_michael/automate-your-api-documentation-with-sveltekit-api-gen-2lgb)
-- [Scale AI Innovation: How AWS Well-Architected Lenses Drive Efficient Development](https://dev.to/devactivity/scale-ai-innovation-how-aws-well-architected-lenses-drive-efficient-development-12ke)
-- [Svelte-MiniApps: A Collection of Single-Purpose Svelte 5 Applications](https://dev.to/dev_michael/svelte-miniapps-a-collection-of-single-purpose-svelte-5-applications-13ne)
+- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9)
+- [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 &amp; Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf)
+- [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
+- [Full Guide on Selecting Salesforce Implementation Partners in Australia](https://dev.to/mykhailoradchenko/full-guide-on-selecting-salesforce-implementation-partners-in-australia-402n)
 <!-- BLOG-POST-LIST:END -->
 
 
