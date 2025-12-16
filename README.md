@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
-- [Renderizando la cámara con Metal en iOS &lpar;AVFoundation + MetalKit&rpar;](https://dev.to/david_goyes_a488f58a17a53/renderizando-la-camara-con-metal-en-ios-avfoundation-metalkit-mnl)
-- [The AI Tsunami: How VS Code Extensions in 2024-2025 Are Redefining Developer Productivity](https://dev.to/dataformathub/the-ai-tsunami-how-vs-code-extensions-in-2024-2025-are-redefining-developer-productivity-3p8c)
-- [Production Deployment: Nginx, uWSGI, and Gunicorn for WebSockets](https://dev.to/deepak_mishra_35863517037/production-deployment-nginx-uwsgi-and-gunicorn-for-websockets-1i9g)
+- [How I Built a Python Library That Lets You Join MySQL, PostgreSQL, MongoDB, REST APIs, and Files in a Single SQL Query](https://dev.to/theodore_p_9749548f7dd03/how-i-built-a-python-library-that-lets-you-join-mysql-postgresql-mongodb-rest-apis-and-files-in-h5d)
+- [Como provisionar um cluster PostgreSQL no DBaaS da Magalu Cloud com failover automático](https://dev.to/magalucloud/como-provisionar-um-cluster-postgresql-no-dbaas-da-magalu-cloud-com-failover-automatico-2n53)
+- [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
+- [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
 <!-- BLOG-POST-LIST:END -->
 
 
