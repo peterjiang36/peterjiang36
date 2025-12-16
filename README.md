@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Annual Reviews Don&#39;t Have to Be Bullshit](https://dev.to/razoorka/why-annual-reviews-dont-have-to-be-bullshit-3ej5)
-- [The Perfect Grammar That Defeats Us: Why AI Doesn&#39;t Need to Be Smart to Win](https://dev.to/razoorka/the-perfect-grammar-that-defeats-us-why-ai-doesnt-need-to-be-smart-to-win-4mbd)
-- [The Great Cloud Escape](https://dev.to/rawveg/the-great-cloud-escape-p41)
-- [How SCORM compliance works inside modern learning platforms](https://dev.to/easygenerator/how-scorm-compliance-works-inside-modern-learning-platforms-3i42)
+- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
+- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
+- [What Developers Can Learn from the LastPass Data Breach &lpar;2022–2025&rpar;](https://dev.to/world_cyclopedia_3ee2df42/what-developers-can-learn-from-the-lastpass-data-breach-2022-2025-2d0i)
+- [About the author: This blog was written by a Python enthusiast who started their coding journey just like you. Connect w…](https://dev.to/kavikr543/about-the-author-this-blog-was-written-by-a-python-enthusiast-who-started-their-coding-journey-5d3o)
 <!-- BLOG-POST-LIST:END -->
 
 
