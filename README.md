@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity for Developers: Lifting the Burden with Gemini 3 Agents](https://dev.to/gioboa/antigravity-for-developers-lifting-the-burden-with-gemini-3-agents-3o9c)
-- [Proxy market forecast 2026: How regulation &lpar;GDPR, CCPA&rpar; is reshaping the landscape](https://dev.to/astro-official/proxy-market-forecast-2026-how-regulation-gdpr-ccpa-is-reshaping-the-landscape-3mbc)
-- [Some SaaS Products Are Bigger Than They Look](https://dev.to/sonu_goswami/some-saas-products-are-bigger-than-they-look-ke)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-3cf2)
+- [Mechanische Arbeit des Herzens – Herzfrequenz: messbar? normal?](https://dev.to/redtel/mechanische-arbeit-des-herzens-herzfrequenz-messbar-normal-4f7l)
+- [A Cleaner Way to Do i18n in Angular: i18next + Type Safety + Dynamic JSON Imports](https://dev.to/anton_antonov/a-cleaner-way-to-do-i18n-in-angular-i18next-type-safety-dynamic-json-imports-3p67)
+- [Journey with Apache Flink on AWS EKS](https://dev.to/afnan_amin_67fbd716f146a6/journey-with-apache-flink-on-aws-eks-39n6)
+- [10+ Best Analytics Dashboard Templates for 2025](https://dev.to/suniljoshi19/10-best-analytics-dashboard-templates-for-2025-3o8j)
 <!-- BLOG-POST-LIST:END -->
 
 
