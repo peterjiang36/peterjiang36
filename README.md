@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
-- [GraphQL vs. REST: Why Your Next API Might Prefer GraphQL](https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn)
-- [Designer Maxi Dresses: The Perfect Blend of Style and Comfort](https://dev.to/houseofsiyaab/designer-maxi-dresses-the-perfect-blend-of-style-and-comfort-29ko)
-- [Build an RF Test Bench on a Limited Budget &lpar;Starter / Growth / Advanced&rpar;](https://dev.to/maronlabs/build-an-rf-test-bench-on-a-limited-budget-starter-growth-advanced-hin)
+- [8 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0)
+- [CinemaSins: Everything Wrong With Happy Gilmore 2 In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-happy-gilmore-2-in-23-minutes-or-less-e23)
+- [Building Portfolio Insights: Lessons from an Event‑Driven .NET Microservices Dashboard](https://dev.to/josemariairiarte/building-portfolio-insights-lessons-from-an-event-driven-net-microservices-dashboard-4m53)
+- [PyTorch Models Are Executables: Why I Built a Scanner to Stop &quot;Pickle Bombs&quot;](https://dev.to/labdev_c81554ba3d4ae28317/pytorch-models-are-executables-why-i-built-a-scanner-to-stop-pickle-bombs-92i)
 <!-- BLOG-POST-LIST:END -->
 
 
