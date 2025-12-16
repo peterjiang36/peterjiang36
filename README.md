@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f)
-- [Why Tiny Daily Tasks Are Killing Your Productivity — And One Hub Solves It](https://dev.to/muhammad_haris_7828c7aeda/why-tiny-daily-tasks-are-killing-your-productivity-and-one-hub-solves-it-5od)
-- [Text Processing in Linux: grep, awk, and Pipes That Actually Get Work Done](https://dev.to/agentic-jj/text-processing-in-linux-grep-awk-and-pipes-that-actually-get-work-done-1c10)
-- [Coding Challenge Practice - Question 79](https://dev.to/tomivan/coding-challenge-practice-question-79-24dd)
+- [Readable, Leakproof API with zero cost abstraction.](https://dev.to/akhileshzmishra/readable-leakproof-api-with-zero-cost-abstraction-46fc)
+- [What I’m trying to understand](https://dev.to/babilonczyk/what-im-trying-to-understand-2lgp)
+- [Many-to-One: Stronger Relationship Design with MongoDB](https://dev.to/franckpachot/many-to-one-in-mongodb-embed-or-reference-lookup-or-find-i58)
+- [The Laziness Lie: How to Hack Your Brain&#39;s Default Settings](https://dev.to/thinkaddict/the-laziness-lie-how-to-hack-your-brains-default-settings-194o)
 <!-- BLOG-POST-LIST:END -->
 
 
