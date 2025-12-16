@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Readable, Leakproof API with zero cost abstraction.](https://dev.to/akhileshzmishra/readable-leakproof-api-with-zero-cost-abstraction-46fc)
-- [What I’m trying to understand](https://dev.to/babilonczyk/what-im-trying-to-understand-2lgp)
-- [Many-to-One: Stronger Relationship Design with MongoDB](https://dev.to/franckpachot/many-to-one-in-mongodb-embed-or-reference-lookup-or-find-i58)
-- [The Laziness Lie: How to Hack Your Brain&#39;s Default Settings](https://dev.to/thinkaddict/the-laziness-lie-how-to-hack-your-brains-default-settings-194o)
+- [Building My DevOps Skills in Public: A Structured, Agile-Inspired Blog](https://dev.to/chetan_tekam_3500/building-my-devops-skills-in-public-a-structured-agile-inspired-blog-20k)
+- [TypeScript in 15 Minutes for JavaScript Developers Who Hate TypeScript](https://dev.to/ramkashyap2050/typescript-in-15-minutes-what-javascript-devs-actually-need-1282)
+- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
+- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
 <!-- BLOG-POST-LIST:END -->
 
 
