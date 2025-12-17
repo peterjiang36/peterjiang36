@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Crier: Cross-Post Your Content Everywhere](https://dev.to/queelius/crier-cross-post-your-content-everywhere-3i0)
-- [7 GitHub Actions That Automate the Boring Parts of Agency Work](https://dev.to/devmakasana/7-github-actions-that-automate-the-boring-parts-of-dev-shops-work-2k4k)
-- [Spring vs Spring Boot: What Are the Main Differences Every Java Developer Should Know?](https://dev.to/realnamehidden1_61/spring-vs-spring-boot-what-are-the-main-differences-every-java-developer-should-know-14h6)
-- [gRPC Transmission Optimization: An Efficient Solution Based on Flattening and Bitset](https://dev.to/mesak/grpc-transmission-optimization-an-efficient-solution-based-on-flattening-and-bitset-en-44eg)
+- [I made a calculator for Roblox Fisch because the wiki was driving me crazy](https://dev.to/_cf61e28288c83ce5ba5f82/i-made-a-calculator-for-roblox-fisch-because-the-wiki-was-driving-me-crazy-33k8)
+- [Automatic Speech Recognition in a Noisy world!](https://dev.to/awesomeaudioai/automatic-speech-recognition-in-a-noisy-world-14g4)
+- [RAG-Augmented Agile Story Generation: An Architectural Framework for LLM-Powered Backlog Automation](https://dev.to/manasa_nandelli_707b6d6f2/rag-augmented-agile-story-generation-an-architectural-framework-for-llm-powered-backlog-automation-2md0)
+- [Amazon Kiro](https://dev.to/dmevanct/amazon-kiro-1ej9)
 <!-- BLOG-POST-LIST:END -->
 
 
