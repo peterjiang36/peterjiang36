@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hot-Reload Magic - Tweak Pipelines Live &lpar;No Restarts!&rpar;](https://dev.to/elliot_silver/the-hot-reload-magic-tweak-pipelines-live-no-restarts-1noe)
-- [Prompt Engineering for Students: A Simple 5‑Part Formula That Actually Works](https://dev.to/keerthana_696356/prompt-engineering-for-students-a-simple-5-part-formula-that-actually-works-2e5f)
-- [Day 17: Building a Real ETL Pipeline in Spark Using Bronze–Silver–Gold Architecture](https://dev.to/sandeepk27/day-17-building-a-real-etl-pipeline-in-spark-using-bronze-silver-gold-architecture-n6o)
-- [Loading TXT, CSV, and Other Delimited Files](https://dev.to/dipti_moryani_08e62702314/loading-txt-csv-and-other-delimited-files-10g)
+- [[Boost]](https://dev.to/anthonymax/-1m5e)
+- [SVG Optimizer: Clean &amp; Compress SVG Files Without Breaking Them](https://dev.to/frontendtoolstech/svg-optimizer-clean-compress-svg-files-without-breaking-them-1bc4)
+- [Shaping the Future with Agentic AI — Reflections from the UC Berkeley Agentic AI MOOC &lpar;Fall 2025&rpar;](https://dev.to/ajay_kumarkv_ad4e59dc31/shaping-the-future-with-agentic-ai-reflections-from-the-uc-berkeley-agentic-ai-mooc-fall-2025-3cp2)
+- [Building a Polymarket-Style Prediction Engine with RisingWave](https://dev.to/__354f265b41dafa0d901b/building-a-polymarket-style-prediction-engine-with-risingwave-3672)
 <!-- BLOG-POST-LIST:END -->
 
 
