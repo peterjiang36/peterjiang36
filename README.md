@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The $sql aggregation stage in Oracle Database to replace explain&lpar;&quot;executionStats&quot;&rpar;](https://dev.to/franckpachot/the-sql-aggregation-stage-in-oracle-database-to-replace-explainexecutionstats-3clj)
-- [The Unofficial Guide to Contributing to OpenTelemetry — where to look and who to talk to!](https://dev.to/didiviking/the-unofficial-guide-to-contributing-to-opentelemetry-where-to-look-and-who-to-talk-to-2nno)
-- [DAO Corporation Launches W+ 3D: A Global Social Platform in 3D](https://dev.to/kamilla_ergalieva_06781b3/dao-corporation-launches-w-3d-a-global-social-platform-in-3d-5hll)
-- [Control Windows Volume With Mouse Side Buttons](https://dev.to/yehuda_v/control-windows-volume-with-mouse-side-buttons-21cm)
+- [Legacy Code Got You Crying? Batch Docs Can Help](https://dev.to/notadevbuthere/legacy-code-got-you-crying-batch-docs-can-help-3khl)
+- [Build Production-Ready Go APIs 10x Faster in 2026: The AI-First Developer’s Guide](https://dev.to/vahiiiid/build-production-ready-go-apis-10x-faster-in-2026-the-ai-first-developers-guide-51io)
+- [How IPv6 Solves the NAT Problem and Why It Matters for the Modern Internet](https://dev.to/lightningdev123/how-ipv6-solves-the-nat-problem-and-why-it-matters-for-the-modern-internet-2job)
+- [Why I Built the Most Complete Nutrition API &lpar;With 25+ Nutrients in the Free Tier&rpar;](https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco)
 <!-- BLOG-POST-LIST:END -->
 
 
