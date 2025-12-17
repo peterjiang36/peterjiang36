@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-1m5e)
-- [SVG Optimizer: Clean &amp; Compress SVG Files Without Breaking Them](https://dev.to/frontendtoolstech/svg-optimizer-clean-compress-svg-files-without-breaking-them-1bc4)
-- [Shaping the Future with Agentic AI — Reflections from the UC Berkeley Agentic AI MOOC &lpar;Fall 2025&rpar;](https://dev.to/ajay_kumarkv_ad4e59dc31/shaping-the-future-with-agentic-ai-reflections-from-the-uc-berkeley-agentic-ai-mooc-fall-2025-3cp2)
-- [Building a Polymarket-Style Prediction Engine with RisingWave](https://dev.to/__354f265b41dafa0d901b/building-a-polymarket-style-prediction-engine-with-risingwave-3672)
+- [Port Numbers Quiz -- Ports Every Security Engineer Should Know](https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784)
+- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-2iof)
+- [Try My game Tower Tim](https://dev.to/keaton_ee30ab1d5668fd76bb/try-my-game-tower-tim-a9c)
+- [Exploring Logging in Caddy](https://dev.to/danielcristho/exploring-logging-in-caddy-adb)
 <!-- BLOG-POST-LIST:END -->
 
 
