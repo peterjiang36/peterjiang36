@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
-- [I Completed 45 Lambda Function Exercises &lpar;And I&#39;m Still a Beginner!&rpar;](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40)
-- [🚀Node.js Microservices: Zero to Cloud &lpar;Complete Hands-on Series&rpar;](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh)
-- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9)
+- [Sheet-to-Doc: Automate Document Generation with Excel Data and Word Templates](https://dev.to/wtsolutions/sheet-to-doc-automate-document-generation-with-excel-data-and-word-templates-4dk5)
+- [Stone Coated Metal Roofing: The Ultimate Guide to Strength, Style &amp; Long-Term Value](https://dev.to/technonicol_india_56f2d0c/stone-coated-metal-roofing-the-ultimate-guide-to-strength-style-long-term-value-17p6)
+- [🤖 Amazon expands Alexa with Alexa Plus, introducing a browser-accessible AI assistant via Alexa.com.](https://dev.to/techbyte360/amazon-expands-alexa-with-alexa-plus-introducing-a-browser-accessible-ai-assistant-via-h9a)
+- [I got tired of Reddit&#39;s API pricing, so I built a local scraper &lpar;and it&#39;s free&rpar;](https://dev.to/short_playskits_ab152535/i-got-tired-of-reddits-api-pricing-so-i-built-a-local-scraper-and-its-free-1ooa)
 <!-- BLOG-POST-LIST:END -->
 
 
