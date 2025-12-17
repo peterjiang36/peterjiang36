@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sheet-to-Doc: Automate Document Generation with Excel Data and Word Templates](https://dev.to/wtsolutions/sheet-to-doc-automate-document-generation-with-excel-data-and-word-templates-4dk5)
-- [Stone Coated Metal Roofing: The Ultimate Guide to Strength, Style &amp; Long-Term Value](https://dev.to/technonicol_india_56f2d0c/stone-coated-metal-roofing-the-ultimate-guide-to-strength-style-long-term-value-17p6)
-- [🤖 Amazon expands Alexa with Alexa Plus, introducing a browser-accessible AI assistant via Alexa.com.](https://dev.to/techbyte360/amazon-expands-alexa-with-alexa-plus-introducing-a-browser-accessible-ai-assistant-via-h9a)
-- [I got tired of Reddit&#39;s API pricing, so I built a local scraper &lpar;and it&#39;s free&rpar;](https://dev.to/short_playskits_ab152535/i-got-tired-of-reddits-api-pricing-so-i-built-a-local-scraper-and-its-free-1ooa)
+- [Hidden Journey Behind virtual-react-json-diff](https://dev.to/utku_akyuz/hidden-journey-behind-virtual-react-json-diff-5fd)
+- [How We Made Our Canvas Application 30x Faster: A Deep Dive into Performance Engineering](https://dev.to/shivuser/how-we-made-our-canvas-application-30x-faster-a-deep-dive-into-performance-engineering-2f8p)
+- [What Version Is Running in Production Right Now?](https://dev.to/muhammad-huzaifa/what-version-is-running-in-production-right-now-1ce)
+- [How a Growing Web Platform Defeated CC Attacks with Semantic Analysis WAF](https://dev.to/arina_cholee/how-a-growing-web-platform-defeated-cc-attacks-with-semantic-analysis-waf-f9l)
 <!-- BLOG-POST-LIST:END -->
 
 
