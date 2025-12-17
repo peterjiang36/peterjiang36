@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Too Polite](https://dev.to/evanmorris/ai-is-too-polite-248)
-- [Notes from Building My Second AI Video Site](https://dev.to/lynn123456/notes-from-building-my-second-ai-video-site-44nl)
-- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
-- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go&#39;s GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2)
+- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
+- [Seeking Feedback on Custom Blogger Templates - What Do You Need?](https://dev.to/yzg/seeking-feedback-on-custom-blogger-templates-what-do-you-need-40em)
+- [dreamlog](https://dev.to/queelius/dreamlog-1m0n)
+- [maph](https://dev.to/queelius/maph-1hc6)
 <!-- BLOG-POST-LIST:END -->
 
 
