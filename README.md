@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 1.35 Security: 7 Game-Changing Features Released Today &lpar;DevSecOps Must-Know&rpar;](https://dev.to/inboryn_99399f96579fcd705/kubernetes-135-security-7-game-changing-features-released-today-devsecops-must-know-29a2)
-- [Why 87% of Security Findings Never Get Fixed &lpar;And How We Solved It&rpar;](https://dev.to/auraquantech/why-87-of-security-findings-never-get-fixed-and-how-we-solved-it-1ff6)
-- [Building Game of Islands with Elixir and Liveview](https://dev.to/hungle00/building-game-of-islands-with-elixir-and-liveview-4109)
-- [UI Patterns Frontend Developers Must Know &lpar;That Most Devs Ignore&rpar;](https://dev.to/homayounmmdy/ui-patterns-frontend-developers-must-know-that-most-devs-ignore-26md)
+- [A Formal Verification of the XRP Ledger](https://dev.to/ripplexdev/a-formal-verification-of-the-xrp-ledger-51e4)
+- [Beyond Simple Prompts: Architecting an AI Agent](https://dev.to/pyalwin/beyond-simple-prompts-architecting-an-ai-agent-1i8c)
+- [Building a Daily Productivity App with Pieces - Part 2: Adding AI Intelligence with Gemini](https://dev.to/get_pieces/building-a-daily-productivity-app-with-pieces-part-2-adding-ai-intelligence-with-gemini-2nc4)
+- [Building a Midnight App with ViteJS](https://dev.to/giovanni_c7781d55fcf2362c/building-a-private-split-app-1bna)
 <!-- BLOG-POST-LIST:END -->
 
 
