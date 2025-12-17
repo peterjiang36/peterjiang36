@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Novel Contributions of the Independent Variation Principle](https://dev.to/yannick555/novel-contributions-of-the-independent-variation-principle-lmd)
-- [Sveltekit Custom Remote Form Factory](https://dev.to/sillvva/sveltekit-custom-remote-form-factory-nmo)
-- [Canonical JSON Model](https://dev.to/rokoss21/canonical-json-model-2p8o)
-- [**Essential Docker Patterns for Modern Web Development: Multi-Stage, Compose, and Production-Ready Containers**](https://dev.to/nithinbharathwaj/essential-docker-patterns-for-modern-web-development-multi-stage-compose-and-production-ready-poe)
+- [Building 10 Python Packages for Enterprise FastAPI Apps: What I Learned](https://dev.to/daniel_garza_c6aaf66fd87c/building-10-python-packages-for-enterprise-fastapi-apps-what-i-learned-4hbb)
+- [Agent Factory Recap: Deep Dive into Gemini CLI with Taylor Mullen](https://dev.to/googleai/agent-factory-recap-deep-dive-into-gemini-cli-with-taylor-mullen-51nf)
+- [A new PHP8+ Unit Testing Framework called MicroUnit](https://dev.to/micro_unit_php/a-new-php8-unit-testing-framework-called-microunit-1416)
+- [What Is My IP Address?](https://dev.to/toboreeee/what-is-my-ip-address-1apk)
 <!-- BLOG-POST-LIST:END -->
 
 
