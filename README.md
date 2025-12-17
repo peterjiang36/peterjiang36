@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
-- [Seeking Feedback on Custom Blogger Templates - What Do You Need?](https://dev.to/yzg/seeking-feedback-on-custom-blogger-templates-what-do-you-need-40em)
-- [dreamlog](https://dev.to/queelius/dreamlog-1m0n)
-- [maph](https://dev.to/queelius/maph-1hc6)
+- [Crier: Cross-Post Your Content Everywhere](https://dev.to/queelius/crier-cross-post-your-content-everywhere-3i0)
+- [7 GitHub Actions That Automate the Boring Parts of Agency Work](https://dev.to/devmakasana/7-github-actions-that-automate-the-boring-parts-of-dev-shops-work-2k4k)
+- [Spring vs Spring Boot: What Are the Main Differences Every Java Developer Should Know?](https://dev.to/realnamehidden1_61/spring-vs-spring-boot-what-are-the-main-differences-every-java-developer-should-know-14h6)
+- [gRPC Transmission Optimization: An Efficient Solution Based on Flattening and Bitset](https://dev.to/mesak/grpc-transmission-optimization-an-efficient-solution-based-on-flattening-and-bitset-en-44eg)
 <!-- BLOG-POST-LIST:END -->
 
 
