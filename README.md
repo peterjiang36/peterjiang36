@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Small Python Scripts into Real, Usable Tools](https://dev.to/silent_f76b5c97a44c15a4d1/turning-small-python-scripts-into-real-usable-tools-2cob)
-- [From Chaos to Perfect Flow: My Experience Automating a Massive Real GitLab Migration &lpar;4,000 Repos&rpar;](https://dev.to/claudiodevops/from-chaos-to-perfect-flow-my-experience-automating-a-massive-real-gitlab-migration-4000-repos-2p2f)
-- [🛡️ Building a CASB‑Like Threat Monitoring Lab in AWS &lpar;Beginner Friendly&rpar;](https://dev.to/ldwit/building-a-casb-like-threat-monitoring-lab-in-aws-beginner-friendly-4m80)
-- [Best Developer Documentation Tools in 2025: Mintlify, GitBook, ReadMe, Docusaurus](https://dev.to/infrasity-learning/best-developer-documentation-tools-in-2025-mintlify-gitbook-readme-docusaurus-10fc)
+- [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
+- [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
+- [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
+- [Productionizing Model Context Protocol Servers](https://dev.to/onlineproxyio/productionizing-model-context-protocol-servers-o7g)
 <!-- BLOG-POST-LIST:END -->
 
 
