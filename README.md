@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Journey Behind virtual-react-json-diff](https://dev.to/utku_akyuz/hidden-journey-behind-virtual-react-json-diff-5fd)
-- [How We Made Our Canvas Application 30x Faster: A Deep Dive into Performance Engineering](https://dev.to/shivuser/how-we-made-our-canvas-application-30x-faster-a-deep-dive-into-performance-engineering-2f8p)
-- [What Version Is Running in Production Right Now?](https://dev.to/muhammad-huzaifa/what-version-is-running-in-production-right-now-1ce)
-- [How a Growing Web Platform Defeated CC Attacks with Semantic Analysis WAF](https://dev.to/arina_cholee/how-a-growing-web-platform-defeated-cc-attacks-with-semantic-analysis-waf-f9l)
+- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-4epo)
+- [Learn Cloud Security Fundamentals in AWS](https://dev.to/ijay/learn-cloud-security-fundamentals-in-aws-3gem)
+- [Bad CSS-Dad Jokes &lpar;V&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-v-358l)
+- [Building a SOC2-Compliant Azure Multi-Subscription Architecture with Terraform](https://dev.to/lpossamai/building-a-soc2-compliant-azure-multi-subscription-architecture-with-terraform-4g38)
 <!-- BLOG-POST-LIST:END -->
 
 
