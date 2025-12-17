@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building 10 Python Packages for Enterprise FastAPI Apps: What I Learned](https://dev.to/daniel_garza_c6aaf66fd87c/building-10-python-packages-for-enterprise-fastapi-apps-what-i-learned-4hbb)
-- [Agent Factory Recap: Deep Dive into Gemini CLI with Taylor Mullen](https://dev.to/googleai/agent-factory-recap-deep-dive-into-gemini-cli-with-taylor-mullen-51nf)
-- [A new PHP8+ Unit Testing Framework called MicroUnit](https://dev.to/micro_unit_php/a-new-php8-unit-testing-framework-called-microunit-1416)
-- [What Is My IP Address?](https://dev.to/toboreeee/what-is-my-ip-address-1apk)
+- [AI Is Too Polite](https://dev.to/evanmorris/ai-is-too-polite-248)
+- [Notes from Building My Second AI Video Site](https://dev.to/lynn123456/notes-from-building-my-second-ai-video-site-44nl)
+- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
+- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go&#39;s GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2)
 <!-- BLOG-POST-LIST:END -->
 
 
