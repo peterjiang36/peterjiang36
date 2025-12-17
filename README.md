@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
-- [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
-- [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
-- [Productionizing Model Context Protocol Servers](https://dev.to/onlineproxyio/productionizing-model-context-protocol-servers-o7g)
+- [Why Bf-Tree Pins Inner Nodes and What That Unlocks](https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k)
+- [Artificial Intelligence as a Source of Competitive Advantage](https://dev.to/martin1988lisa/artificial-intelligence-as-a-source-of-competitive-advantage-4gp7)
+- [238. Product of Array Except Self | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/238-product-of-array-except-self-leetcode-top-interview-150-coding-questions-2kja)
+- [Telnet: A Foundational Protocol in the History of Remote Access](https://dev.to/srijan-xi/telnet-a-foundational-protocol-in-the-history-of-remote-access-30cd)
 <!-- BLOG-POST-LIST:END -->
 
 
