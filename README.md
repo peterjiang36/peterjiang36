@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Formal Verification of the XRP Ledger](https://dev.to/ripplexdev/a-formal-verification-of-the-xrp-ledger-51e4)
-- [Beyond Simple Prompts: Architecting an AI Agent](https://dev.to/pyalwin/beyond-simple-prompts-architecting-an-ai-agent-1i8c)
-- [Building a Daily Productivity App with Pieces - Part 2: Adding AI Intelligence with Gemini](https://dev.to/get_pieces/building-a-daily-productivity-app-with-pieces-part-2-adding-ai-intelligence-with-gemini-2nc4)
-- [Building a Midnight App with ViteJS](https://dev.to/giovanni_c7781d55fcf2362c/building-a-private-split-app-1bna)
+- [The Hot-Reload Magic - Tweak Pipelines Live &lpar;No Restarts!&rpar;](https://dev.to/elliot_silver/the-hot-reload-magic-tweak-pipelines-live-no-restarts-1noe)
+- [Prompt Engineering for Students: A Simple 5‑Part Formula That Actually Works](https://dev.to/keerthana_696356/prompt-engineering-for-students-a-simple-5-part-formula-that-actually-works-2e5f)
+- [Day 17: Building a Real ETL Pipeline in Spark Using Bronze–Silver–Gold Architecture](https://dev.to/sandeepk27/day-17-building-a-real-etl-pipeline-in-spark-using-bronze-silver-gold-architecture-n6o)
+- [Loading TXT, CSV, and Other Delimited Files](https://dev.to/dipti_moryani_08e62702314/loading-txt-csv-and-other-delimited-files-10g)
 <!-- BLOG-POST-LIST:END -->
 
 
