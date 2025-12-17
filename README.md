@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-4epo)
-- [Learn Cloud Security Fundamentals in AWS](https://dev.to/ijay/learn-cloud-security-fundamentals-in-aws-3gem)
-- [Bad CSS-Dad Jokes &lpar;V&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-v-358l)
-- [Building a SOC2-Compliant Azure Multi-Subscription Architecture with Terraform](https://dev.to/lpossamai/building-a-soc2-compliant-azure-multi-subscription-architecture-with-terraform-4g38)
+- [The $sql aggregation stage in Oracle Database to replace explain&lpar;&quot;executionStats&quot;&rpar;](https://dev.to/franckpachot/the-sql-aggregation-stage-in-oracle-database-to-replace-explainexecutionstats-3clj)
+- [The Unofficial Guide to Contributing to OpenTelemetry — where to look and who to talk to!](https://dev.to/didiviking/the-unofficial-guide-to-contributing-to-opentelemetry-where-to-look-and-who-to-talk-to-2nno)
+- [DAO Corporation Launches W+ 3D: A Global Social Platform in 3D](https://dev.to/kamilla_ergalieva_06781b3/dao-corporation-launches-w-3d-a-global-social-platform-in-3d-5hll)
+- [Control Windows Volume With Mouse Side Buttons](https://dev.to/yehuda_v/control-windows-volume-with-mouse-side-buttons-21cm)
 <!-- BLOG-POST-LIST:END -->
 
 
