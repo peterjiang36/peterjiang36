@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
-- [Thinking, Planning, Executing: Gemini 3&#39;s Agentic Core in the Antigravity Sandbox](https://dev.to/gioboa/thinking-planning-executing-gemini-3s-agentic-core-in-the-antigravity-sandbox-1g9p)
-- [FINTECH 101 — HOW TRANSACTIONS REALLY WORK](https://dev.to/hexstories/fintech-101-how-transactions-really-work-lj4)
-- [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
+- [How to Become an AWS Community Builder](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-3955)
+- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
+- [AWS Service: Amazon DynamoDB](https://dev.to/divya__sundarasekaran_459/aws-service-amazon-dynamodb-3kpe)
+- [Words and Letters: Take your side](https://dev.to/obrutus/words-and-letters-take-your-side-2lfk)
 <!-- BLOG-POST-LIST:END -->
 
 
