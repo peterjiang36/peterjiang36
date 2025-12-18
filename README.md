@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #217](https://dev.to/aws/aws-open-source-newsletter-217-o44)
-- [Secure Linux Server Setup &amp; Application Deployment](https://dev.to/yousufbasir/secure-linux-server-setup-application-deployment-i91)
-- [Beyond AI Why Data Center Stability Is the Competitive Advantage of 2026](https://dev.to/medone_israel_f84a80ed12e/beyond-ai-why-data-center-stability-is-the-competitive-advantage-of-2026-36a1)
-- [Mastering Prompt Engineering Patterns for Production Apps | Ash](https://dev.to/ash_dubai/mastering-prompt-engineering-patterns-for-production-apps-ash-43i9)
+- [AWS SERVICES SPOTLIGHT : CLOUDHSM &lpar;HARDWARD SECURITY MODULE&rpar;](https://dev.to/hari_saravanan_7ddd3f0bbf/aws-services-spotlight-cloudhsm-hardward-security-module-mbm)
+- [Linux Part 3: AI-Powered Learning, Post-Ubuntu Distros, Actually existing DE&#39;s, App Packaging&amp;Delivery Approaches](https://dev.to/hopsayer/linux-part-3-ai-powered-learning-post-ubuntu-distros-actually-existing-des-app-4goc)
+- [Creating apps like Signal could be &#39;hostile activity&#39; claims UK watchdog](https://dev.to/technoblogger14o3/creating-apps-like-signal-could-be-hostile-activity-claims-uk-watchdog-5h61)
+- [Adps_ai](https://dev.to/dhruvit_99ff9f5018b3fb527/adpsai-3d1f)
 <!-- BLOG-POST-LIST:END -->
 
 
