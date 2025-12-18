@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/diempi/-547e)
-- [React Wrapper for Google Drive Picker](https://dev.to/googleworkspace/react-wrapper-for-google-drive-picker-1api)
-- [Introducing Marlin](https://dev.to/tobyink/introducing-marlin-4d4n)
-- [I Stopped Writing Code. Here&#39;s What I Do Instead &lpar;Vibe Coding in 2025&rpar;](https://dev.to/pinky057/i-stopped-writing-code-heres-what-i-do-instead-vibe-coding-in-2025-5661)
+- [Obter dados de monitoramento e configuração MongoDB ReplicaSet](https://dev.to/magno_rodolfodossantos_/obter-dados-de-monitoramento-e-configuracao-mongodb-replicaset-53mj)
+- [Deploying a Machine Learning Model to AWS SageMaker Complete Guide - PART 01](https://dev.to/techwithdilan/deploying-a-machine-learning-model-to-aws-sagemaker-complete-guide-part-01-3kh7)
+- [Async Task Integration: Connecting Celery with Flask-SocketIO](https://dev.to/deepak_mishra_35863517037/async-task-integration-connecting-celery-with-flask-socketio-4ia6)
+- [ASR &lpar;Automatic Speech Recognition&rpar;](https://dev.to/wanjohichristopher/asr-automatic-speech-recognition-nab)
 <!-- BLOG-POST-LIST:END -->
 
 
