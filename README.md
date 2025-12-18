@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Become an AWS Community Builder](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-3955)
-- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
-- [AWS Service: Amazon DynamoDB](https://dev.to/divya__sundarasekaran_459/aws-service-amazon-dynamodb-3kpe)
-- [Words and Letters: Take your side](https://dev.to/obrutus/words-and-letters-take-your-side-2lfk)
+- [From Prompt to Production: Auto-Generating .NET Web APIs with AKS CodeNavAI](https://dev.to/anup_kumar_51d4c4360384d4/from-prompt-to-production-auto-generating-net-web-apis-with-aks-codenavai-14ko)
+- [How to Implement Zero Trust Authentication in Your Node.js Applications?](https://dev.to/mehul_budasana/how-to-implement-zero-trust-authentication-in-your-nodejs-applications-3c4a)
+- [Day 1/30 back to DSA challenge](https://dev.to/smolmin_/day-130-back-to-dsa-challenge-3n78)
+- [First Look Nomad 1.11.x - Client Node Introduction and Identity](https://dev.to/lykins/first-look-nomad-111x-client-node-introduction-and-identity-32je)
 <!-- BLOG-POST-LIST:END -->
 
 
