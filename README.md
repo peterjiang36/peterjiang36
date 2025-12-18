@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building my first Kiro Power: PostHog Observability](https://dev.to/kirodotdev/building-my-first-kiro-power-posthog-observability-fik)
-- [Build Once, Reuse Forever: Why Developers Need Customizable Tools &amp; Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)
-- [Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29)
-- [Seven Core Activities of Great Digital Teams &lpar;RAADDDR&rpar;](https://dev.to/olliejc/seven-core-activities-of-great-digital-teams-raadddr-4bl0)
+- [Effectively Managing AI Agents for Testing](https://dev.to/johnjvester/effectively-managing-ai-agents-for-testing-iie)
+- [Use AI to help people think better, work smarter, and move forward with confidence, without fear, without dependency, and without losing judgment.](https://dev.to/jaideepparashar/use-ai-to-help-people-think-better-work-smarter-and-move-forward-with-confidence-without-fear-3ion)
+- [My North Star as an AI Founder &lpar;And Why I’m Not Changing It&rpar;](https://dev.to/jaideepparashar/my-north-star-as-an-ai-founder-and-why-im-not-changing-it-16jp)
+- [How to add a live star history chart to your github readme](https://dev.to/xuanhun/how-to-add-a-live-star-history-chart-to-your-github-readme-15hk)
 <!-- BLOG-POST-LIST:END -->
 
 
