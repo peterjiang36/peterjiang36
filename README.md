@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SERVICES SPOTLIGHT : CLOUDHSM &lpar;HARDWARD SECURITY MODULE&rpar;](https://dev.to/hari_saravanan_7ddd3f0bbf/aws-services-spotlight-cloudhsm-hardward-security-module-mbm)
-- [Linux Part 3: AI-Powered Learning, Post-Ubuntu Distros, Actually existing DE&#39;s, App Packaging&amp;Delivery Approaches](https://dev.to/hopsayer/linux-part-3-ai-powered-learning-post-ubuntu-distros-actually-existing-des-app-4goc)
-- [Creating apps like Signal could be &#39;hostile activity&#39; claims UK watchdog](https://dev.to/technoblogger14o3/creating-apps-like-signal-could-be-hostile-activity-claims-uk-watchdog-5h61)
-- [Adps_ai](https://dev.to/dhruvit_99ff9f5018b3fb527/adpsai-3d1f)
+- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
+- [Thinking, Planning, Executing: Gemini 3&#39;s Agentic Core in the Antigravity Sandbox](https://dev.to/gioboa/thinking-planning-executing-gemini-3s-agentic-core-in-the-antigravity-sandbox-1g9p)
+- [FINTECH 101 — HOW TRANSACTIONS REALLY WORK](https://dev.to/hexstories/fintech-101-how-transactions-really-work-lj4)
+- [Self-Hosted N8N on AWS ECS with AWS CDK Typescript](https://dev.to/aws-builders/self-hosted-n8n-on-aws-ecs-with-aws-cdk-typescript-l6d)
 <!-- BLOG-POST-LIST:END -->
 
 
