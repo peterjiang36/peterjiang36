@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Visitfolio vs Vercel: Which One Should You Actually Use?](https://dev.to/imtaslim/visitfolio-vs-vercel-which-one-should-you-actually-use-n4e)
-- [I built an open-source Chrome Extension to stop my YouTube Shorts addiction &lpar;Manifest V3&rpar;](https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp)
-- [16 hands-on exercises to prepare for the AWS Certified CloudOps Engineer - Associate certification exam](https://dev.to/aws-builders/16-hands-on-exercises-to-prepare-for-the-aws-certified-cloudops-engineer-associate-certification-4c7)
-- [npm audit Won&#39;t Save You: Why We moved to TEEs &lpar;Trusted Execution Environments&rpar;](https://dev.to/gideoncohen/npm-audit-wont-save-you-why-we-moved-to-tees-trusted-execution-environments-3mim)
+- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
+- [Beyond Sharper Images: How LLM-Guided Super-Resolution Transforms Geo-Spatial Analysis](https://dev.to/capestart/beyond-sharper-images-how-llm-guided-super-resolution-transforms-geo-spatial-analysis-59a9)
+- [Level Up Your AI Projects: 12 Frontend UI Kits That Actually Work ⚡](https://dev.to/ananiket/level-up-your-ai-projects-12-frontend-ui-kits-that-actually-work-5bjb)
+- [AWS Governance with a Terragrunt Live Environment](https://dev.to/lucasdecamargo/aws-governance-with-a-terragrunt-live-environment-3lgi)
 <!-- BLOG-POST-LIST:END -->
 
 
