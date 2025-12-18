@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the NORVI M12-B: 5+ Years of Maintenance-Free Utility Telemetry](https://dev.to/norvi_controllers/introducing-the-norvi-m12-b-5-years-of-maintenance-free-utility-telemetry-5g88)
-- [How a $200 Receiver Led Me Down a Bluetooth Protocol Reverse Engineering Rabbit Hole](https://dev.to/malgana/how-a-200-receiver-led-me-down-a-bluetooth-protocol-reverse-engineering-rabbit-hole-kd2)
-- [Python for Data Science - Real-World Workflow](https://dev.to/roshankumar-datascience/python-for-data-science-real-world-workflow-lap)
-- [How I Became an AI Engineer — Roshan Kumar](https://dev.to/roshankumar-datascience/how-i-became-an-ai-engineer-roshan-kumar-111b)
+- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
+- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
+- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
+- [Designing a Real-Time Billing System That Survives Peak Hours](https://dev.to/billboox/designing-a-real-time-billing-system-that-survives-peak-hours-18k)
 <!-- BLOG-POST-LIST:END -->
 
 
