@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
-- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
-- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
-- [Designing a Real-Time Billing System That Survives Peak Hours](https://dev.to/billboox/designing-a-real-time-billing-system-that-survives-peak-hours-18k)
+- [The Secret Life of Python: The Infinite Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-infinite-copy-16b4)
+- [Have you seen your DEV Wrapped 2025 yet? 🎁](https://dev.to/dev_kiran/have-you-seen-your-dev-wrapped-2025-yet-embed-ljk)
+- [You&#39;re Not Bad at Side Projects. You&#39;re Just Building the Wrong Thing.](https://dev.to/lewisnewman24/youre-not-bad-at-side-projects-youre-just-building-the-wrong-thing-2h58)
+- [7 Best Resources to Learn Flutter: My Way to Confident Developer](https://dev.to/stack_overflowed/7-best-resources-to-learn-flutter-my-way-to-confident-developer-1c49)
 <!-- BLOG-POST-LIST:END -->
 
 
