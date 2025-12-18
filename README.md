@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompt to Production: Auto-Generating .NET Web APIs with AKS CodeNavAI](https://dev.to/anup_kumar_51d4c4360384d4/from-prompt-to-production-auto-generating-net-web-apis-with-aks-codenavai-14ko)
-- [How to Implement Zero Trust Authentication in Your Node.js Applications?](https://dev.to/mehul_budasana/how-to-implement-zero-trust-authentication-in-your-nodejs-applications-3c4a)
-- [Day 1/30 back to DSA challenge](https://dev.to/smolmin_/day-130-back-to-dsa-challenge-3n78)
-- [First Look Nomad 1.11.x - Client Node Introduction and Identity](https://dev.to/lykins/first-look-nomad-111x-client-node-introduction-and-identity-32je)
+- [Hyprland 0.52.2+ for Fedora — Clean COPR Build](https://dev.to/ashbuk/hyprland-0522-for-fedora-clean-copr-build-24hm)
+- [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
+- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
+- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-426f)
 <!-- BLOG-POST-LIST:END -->
 
 
