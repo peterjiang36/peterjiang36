@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyprland 0.52.2+ for Fedora — Clean COPR Build](https://dev.to/ashbuk/hyprland-0522-for-fedora-clean-copr-build-24hm)
-- [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
-- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
-- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-426f)
+- [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
+- [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
+- [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
+- [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
 <!-- BLOG-POST-LIST:END -->
 
 
