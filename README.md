@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
-- [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
-- [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
-- [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
+- [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
+- [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
+- [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
+- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
 <!-- BLOG-POST-LIST:END -->
 
 
