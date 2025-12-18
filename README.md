@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Liskov Substitution Principle, A Model for Parenting](https://dev.to/camiloederson/the-liskov-substitution-principle-explained-through-parenting-4ime)
-- [Explorando el paralelismo real: Python 3.14 &lpar;No-GIL&rpar; y Rust](https://dev.to/djhuertasg/explorando-el-paralelismo-real-python-314-no-gil-y-rust-51o0)
-- [Day 1288 : Lake](https://dev.to/dwane/day-1288-lake-1gi5)
-- [Rate limiters with node:http and redis](https://dev.to/danimydev/rate-limiters-with-nodehttp-and-redis-2330)
+- [Building my first Kiro Power: PostHog Observability](https://dev.to/kirodotdev/building-my-first-kiro-power-posthog-observability-fik)
+- [Build Once, Reuse Forever: Why Developers Need Customizable Tools &amp; Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)
+- [Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29)
+- [Seven Core Activities of Great Digital Teams &lpar;RAADDDR&rpar;](https://dev.to/olliejc/seven-core-activities-of-great-digital-teams-raadddr-4bl0)
 <!-- BLOG-POST-LIST:END -->
 
 
