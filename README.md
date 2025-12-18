@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Essential Libraries for Modern Node.js Backend Development](https://dev.to/james_miller_8dc58a89cb9e/7-essential-libraries-for-modern-nodejs-backend-development-1l22)
-- [Memory Game – LiveHTML | Okan Kaplan](https://dev.to/okan_kaplan_livehtml/memory-game-livehtml-okan-kaplan-24pa)
-- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v4.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v40-48kd)
+- [The Liskov Substitution Principle, A Model for Parenting](https://dev.to/camiloederson/the-liskov-substitution-principle-explained-through-parenting-4ime)
+- [Explorando el paralelismo real: Python 3.14 &lpar;No-GIL&rpar; y Rust](https://dev.to/djhuertasg/explorando-el-paralelismo-real-python-314-no-gil-y-rust-51o0)
+- [Day 1288 : Lake](https://dev.to/dwane/day-1288-lake-1gi5)
+- [Rate limiters with node:http and redis](https://dev.to/danimydev/rate-limiters-with-nodehttp-and-redis-2330)
 <!-- BLOG-POST-LIST:END -->
 
 
