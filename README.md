@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
-- [Beyond Sharper Images: How LLM-Guided Super-Resolution Transforms Geo-Spatial Analysis](https://dev.to/capestart/beyond-sharper-images-how-llm-guided-super-resolution-transforms-geo-spatial-analysis-59a9)
-- [Level Up Your AI Projects: 12 Frontend UI Kits That Actually Work ⚡](https://dev.to/ananiket/level-up-your-ai-projects-12-frontend-ui-kits-that-actually-work-5bjb)
-- [AWS Governance with a Terragrunt Live Environment](https://dev.to/lucasdecamargo/aws-governance-with-a-terragrunt-live-environment-3lgi)
+- [AWS open source newsletter, #217](https://dev.to/aws/aws-open-source-newsletter-217-o44)
+- [Secure Linux Server Setup &amp; Application Deployment](https://dev.to/yousufbasir/secure-linux-server-setup-application-deployment-i91)
+- [Beyond AI Why Data Center Stability Is the Competitive Advantage of 2026](https://dev.to/medone_israel_f84a80ed12e/beyond-ai-why-data-center-stability-is-the-competitive-advantage-of-2026-36a1)
+- [Mastering Prompt Engineering Patterns for Production Apps | Ash](https://dev.to/ash_dubai/mastering-prompt-engineering-patterns-for-production-apps-ash-43i9)
 <!-- BLOG-POST-LIST:END -->
 
 
