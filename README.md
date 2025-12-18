@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
-- [Running TeamCity with a Docker-Capable Agent Using Docker Compose](https://dev.to/giveitatry/running-teamcity-with-a-docker-capable-agent-using-docker-compose-1g76)
-- [Do You Make These 10 Angular Performance Mistakes That Keep Your App Slow?](https://dev.to/karol_modelski/do-you-make-these-10-angular-performance-mistakes-that-keep-your-app-slow-35j8)
-- [How We Actually Ship Complex Systems with AI Agents](https://dev.to/alibaqbani/how-we-actually-ship-complex-systems-with-ai-agents-3i2a)
+- [Building Crash-Tolerant Node.js Apps with Clusters.](https://dev.to/sfundomhlungu/building-crash-tolerant-nodejs-apps-with-clusters-35kk)
+- [Contributing to Open Source: Why It Matters and How to Start](https://dev.to/alikhil/contributing-to-open-source-why-it-matters-and-how-to-start-4m4i)
+- [WhatsApp Messaging Service Provider - Smart Communication for Modern Businesses.](https://dev.to/digitalmarke792/whatsapp-messaging-service-provider-smart-communication-for-modern-businesses-28de)
+- [The Gap Between Figma and Production: Why Handoff Fails and How Design Systems Fix It](https://dev.to/lewisnewman24/the-gap-between-figma-and-production-why-handoff-fails-and-how-design-systems-fix-it-4ma9)
 <!-- BLOG-POST-LIST:END -->
 
 
