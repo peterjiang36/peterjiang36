@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
-- [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
-- [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
-- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
+- [[Boost]](https://dev.to/diempi/-547e)
+- [React Wrapper for Google Drive Picker](https://dev.to/googleworkspace/react-wrapper-for-google-drive-picker-1api)
+- [Introducing Marlin](https://dev.to/tobyink/introducing-marlin-4d4n)
+- [I Stopped Writing Code. Here&#39;s What I Do Instead &lpar;Vibe Coding in 2025&rpar;](https://dev.to/pinky057/i-stopped-writing-code-heres-what-i-do-instead-vibe-coding-in-2025-5661)
 <!-- BLOG-POST-LIST:END -->
 
 
