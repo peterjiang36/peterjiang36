@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Effectively Managing AI Agents for Testing](https://dev.to/johnjvester/effectively-managing-ai-agents-for-testing-iie)
-- [Use AI to help people think better, work smarter, and move forward with confidence, without fear, without dependency, and without losing judgment.](https://dev.to/jaideepparashar/use-ai-to-help-people-think-better-work-smarter-and-move-forward-with-confidence-without-fear-3ion)
-- [My North Star as an AI Founder &lpar;And Why I’m Not Changing It&rpar;](https://dev.to/jaideepparashar/my-north-star-as-an-ai-founder-and-why-im-not-changing-it-16jp)
-- [How to add a live star history chart to your github readme](https://dev.to/xuanhun/how-to-add-a-live-star-history-chart-to-your-github-readme-15hk)
+- [Introducing the NORVI M12-B: 5+ Years of Maintenance-Free Utility Telemetry](https://dev.to/norvi_controllers/introducing-the-norvi-m12-b-5-years-of-maintenance-free-utility-telemetry-5g88)
+- [How a $200 Receiver Led Me Down a Bluetooth Protocol Reverse Engineering Rabbit Hole](https://dev.to/malgana/how-a-200-receiver-led-me-down-a-bluetooth-protocol-reverse-engineering-rabbit-hole-kd2)
+- [Python for Data Science - Real-World Workflow](https://dev.to/roshankumar-datascience/python-for-data-science-real-world-workflow-lap)
+- [How I Became an AI Engineer — Roshan Kumar](https://dev.to/roshankumar-datascience/how-i-became-an-ai-engineer-roshan-kumar-111b)
 <!-- BLOG-POST-LIST:END -->
 
 
