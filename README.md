@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IAP-FIN: Building AI Audit Trails That Actually Satisfy Financial Regulators](https://dev.to/veritaschain/iap-fin-building-ai-audit-trails-that-actually-satisfy-financial-regulators-3il0)
-- [Taiwan’s Stablecoin Dilemma: The Geopolitical and Technological Strategy Behind Currency Peg Choice](https://dev.to/apnews/taiwans-stablecoin-dilemma-the-geopolitical-and-technological-strategy-behind-currency-peg-choice-1nof)
-- [Mentorship vs. Micromanagement in Engineering](https://dev.to/aartijangid23/mentorship-vs-micromanagement-in-engineering-92k)
-- [DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits](https://dev.to/ahmedshendy/dns-failures-in-eks-the-real-bottleneck-was-aws-network-limits-fi)
+- [Alors, ça prompte ?](https://dev.to/onepoint/alors-ca-prompte--3e4l)
+- [A Simple Project That Turned Into Something Much More!](https://dev.to/techgeniuskaran/a-simple-project-that-turned-into-something-much-more-59mp)
+- [Understanding Amazon EC2: The Foundation of Compute on AWS](https://dev.to/jeyy/understanding-amazon-ec2-the-foundation-of-compute-on-aws-22lp)
+- [The Printed Circuit Board &lpar;PCB&rpar;: Engineering the Foundation of Modern Electronics](https://dev.to/qlhv_wwno_87da67d24608ea9/the-printed-circuit-board-pcb-engineering-the-foundation-of-modern-electronics-20p8)
 <!-- BLOG-POST-LIST:END -->
 
 
