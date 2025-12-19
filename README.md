@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right EC2 Instance: Types, Pricing Models, and Workload Fit](https://dev.to/jeyy/choosing-the-right-ec2-instance-types-pricing-models-and-workload-fit-5bk8)
-- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
-- [AI content generation with readability scoring - Write Better...](https://dev.to/ash_dubai/ai-content-generation-with-readability-scoring-write-better-34l6)
-- [Finding the Best Time to Develop for Engineers: My Insights | My Site](https://dev.to/ash_dubai/finding-the-best-time-to-develop-for-engineers-my-insights-my-site-9o3)
+- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
+- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
+- [How to Add Extended Fields to Entities Without Modifying Tables](https://dev.to/canonical/how-to-add-extended-fields-to-entities-without-modifying-tables-5k)
+- [Collecting Real Tourism Listings and Prices at Scale: A Developer’s Guide to Geo-Accurate Data Aggregation](https://dev.to/anna_6c67c00f5c3f53660978/collecting-real-tourism-listings-and-prices-at-scale-a-developers-guide-to-geo-accurate-data-1icl)
 <!-- BLOG-POST-LIST:END -->
 
 
