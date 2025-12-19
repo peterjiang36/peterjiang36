@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Virtual Machine Scale Set: A practical Guide](https://dev.to/akintoye_gbenga/getting-started-with-virtual-machine-scale-set-a-practical-guide-46pb)
-- [How to Send Email in PHP: Complete SMTP and API Guide](https://dev.to/davecodes/how-to-send-email-in-php-complete-smtp-and-api-guide-16l9)
-- [2025 Review 👀](https://dev.to/jphi_baconnais/2025-review-3c2d)
-- [Drupal Service Decorators : L&#39;art de modifier l&#39;existant sans tout casser](https://dev.to/dgtech/drupal-service-decorators-lart-de-modifier-lexistant-sans-tout-casser-28jp)
+- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
+- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
+- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
+- [How to convert PDF to SVG in C# &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-convert-pdf-to-svg-in-c-tutorial-1o5b)
 <!-- BLOG-POST-LIST:END -->
 
 
