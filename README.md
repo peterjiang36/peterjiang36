@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Gym](https://dev.to/paperium/openai-gym-4o3b)
-- [The Right Way to Copy to Clipboard in React &lpar;2024&rpar;](https://dev.to/samhansaka/the-right-way-to-copy-to-clipboard-in-react-2024-2m7i)
-- [Understanding Threads in Computing: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/understanding-threads-in-computing-a-practical-guide-for-developers-20c2)
-- [Systemd Explained: Units, Targets, and Why systemctl Is More Than Start and Stop](https://dev.to/rijultp/systemd-explained-units-targets-and-why-systemctl-is-more-than-start-and-stop-3l75)
+- [5 Common Mistakes Teams Make When Setting a Project Schedule Baseline](https://dev.to/taskford/5-common-mistakes-teams-make-when-setting-a-project-schedule-baseline-hbn)
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-1d6c)
+- [Migrating your FastAPI app step by step to serverless](https://dev.to/yokwejuste/migrating-your-fastapi-app-step-by-step-to-serverless-4he0)
+- [Neon lil synth](https://dev.to/jaclyncodes/neon-lil-synth-295b)
 <!-- BLOG-POST-LIST:END -->
 
 
