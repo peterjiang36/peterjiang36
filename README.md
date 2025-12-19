@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Bitcoin Infrastructure Under Adversarial Assumptions](https://dev.to/nonsoamadi10/designing-bitcoin-infrastructure-under-adversarial-assumptions-5820)
-- [Securing Solace Metrics: How to Use OAuth with solace-prometheus-exporter](https://dev.to/pascalre/securing-solace-metrics-how-to-use-oauth-with-solace-prometheus-exporter-2i6l)
-- [It shows how to use Nano Banan Pro to create images that use Google Search for fact-checking, and shows AI thinks after understanding the user prompt and to deliver an image that meets the requirement.](https://dev.to/railsstudent/it-shows-how-to-use-nano-banan-pro-to-create-images-that-use-google-search-for-fact-checking-and-4cff)
-- [Advanced Lists &amp; Pagination in SwiftUI](https://dev.to/sebastienlato/advanced-lists-pagination-in-swiftui-5c0k)
+- [We found our site was slow in Singapore but perfect in Europe — here&#39;s why](https://dev.to/benharris_io/we-found-our-site-was-slow-in-singapore-but-perfect-in-europe-heres-why-1eoi)
+- [I put a Game Boy inside ChatGPT &lpar;ChatGPT Apps&rpar;](https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75)
+- [# Defending the Cloud-Native Frontier: Security as Code with Terraform &amp; OPA](https://dev.to/alam-cloud-engineer/-defending-the-cloud-native-frontier-security-as-code-with-terraform-opa-3500)
+- [Stop Asking for Data! Master the &quot;Tell, Don&#39;t Ask&quot; Principle](https://dev.to/jonghwayoo03_dev/stop-asking-for-data-master-the-tell-dont-ask-principle-373g)
 <!-- BLOG-POST-LIST:END -->
 
 
