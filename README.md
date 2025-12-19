@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
-- [How to Create a Contact Form in React.js with Email Notifications](https://dev.to/davecodes/how-to-create-a-contact-form-in-reactjs-with-email-notifications-4ao7)
-- [How to Design a Rate Limiter in a System Design Interview?](https://dev.to/somadevtoo/how-to-design-a-rate-limiter-in-a-system-design-interview-1ec1)
-- [Angular Accessibility Just Got Easier: Introducing Angular ARIA](https://dev.to/brianmtreese/angular-accessibility-just-got-easier-introducing-angular-aria-3k71)
+- [Getting Started With Virtual Machine Scale Set: A practical Guide](https://dev.to/akintoye_gbenga/getting-started-with-virtual-machine-scale-set-a-practical-guide-46pb)
+- [How to Send Email in PHP: Complete SMTP and API Guide](https://dev.to/davecodes/how-to-send-email-in-php-complete-smtp-and-api-guide-16l9)
+- [2025 Review 👀](https://dev.to/jphi_baconnais/2025-review-3c2d)
+- [Drupal Service Decorators : L&#39;art de modifier l&#39;existant sans tout casser](https://dev.to/dgtech/drupal-service-decorators-lart-de-modifier-lexistant-sans-tout-casser-28jp)
 <!-- BLOG-POST-LIST:END -->
 
 
