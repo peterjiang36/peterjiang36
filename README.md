@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
-- [🧰 I Built LLMKit: A Complete Toolkit for Testing LLM APIs](https://dev.to/chieund/i-built-llmkit-a-complete-toolkit-for-testing-llm-apis-50eb)
-- [When Announcements Replace Innovation: OpenAI’s Code Red 🚨](https://dev.to/razoorka/when-announcements-replace-innovation-openais-code-red-3ak9)
-- [Buy More Ramen, Devs! Because for Years Ahead, AI Slop ATS Will Kick Our Godly Resumes Hard in the Pants](https://dev.to/ryo_suwito/buy-more-ramen-devs-because-for-years-ahead-ai-slop-ats-will-kick-our-godly-resumes-hard-in-the-575i)
+- [Hacktoberfest as a First-Time Maintainer](https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn)
+- [Engineering a Multi-Capability MCP Server in Python](https://dev.to/onlineproxyio/engineering-a-multi-capability-mcp-server-in-python-4gfk)
+- [Key Breakthroughs in AI Engineering that Every AI Engineer Must Know](https://dev.to/imaginex/key-breakthroughs-in-ai-engineering-that-every-ai-engineer-must-know-3ibh)
+- [Cybersecurity Weekly#12: What Developers Should Care About This Week](https://dev.to/cyber8080/cybersecurity-weekly-what-developers-should-care-about-this-week-2che)
 <!-- BLOG-POST-LIST:END -->
 
 
