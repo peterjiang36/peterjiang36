@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We found our site was slow in Singapore but perfect in Europe — here&#39;s why](https://dev.to/benharris_io/we-found-our-site-was-slow-in-singapore-but-perfect-in-europe-heres-why-1eoi)
-- [I put a Game Boy inside ChatGPT &lpar;ChatGPT Apps&rpar;](https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75)
-- [# Defending the Cloud-Native Frontier: Security as Code with Terraform &amp; OPA](https://dev.to/alam-cloud-engineer/-defending-the-cloud-native-frontier-security-as-code-with-terraform-opa-3500)
-- [Stop Asking for Data! Master the &quot;Tell, Don&#39;t Ask&quot; Principle](https://dev.to/jonghwayoo03_dev/stop-asking-for-data-master-the-tell-dont-ask-principle-373g)
+- [bool in C23](https://dev.to/pauljlucas/bool-in-c23-4kj4)
+- [How Guillermo Rauch &lpar;the Creator of Next.JS&rpar; Evolves in the Age of AI](https://dev.to/cathylai/how-guillermo-rauch-the-creator-of-nextjs-evolves-in-the-age-of-ai-4245)
+- [Microsoft Teams: A Simple Collaboration Tool for DevOps Teams](https://dev.to/madhumitha_ganesan_/microsoft-teams-a-simple-collaboration-tool-for-devops-teams-44go)
+- [How I Convert HEIC Photos to PNG Without Installing Anything](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-convert-heic-photos-to-png-without-installing-anything-3ed5)
 <!-- BLOG-POST-LIST:END -->
 
 
