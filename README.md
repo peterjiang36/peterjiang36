@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Scale Trap: How AI&#39;s Biggest Win Became Its Biggest Problem](https://dev.to/get_pieces/the-scale-trap-how-ais-biggest-win-became-its-biggest-problem-4jp5)
-- [Choosing an ETL Tool for Salesforce: The Practical Options](https://dev.to/vladam/choosing-an-etl-tool-for-salesforce-the-practical-options-1mb3)
-- [Game Dev Digest — Issue #311 - Better Performance, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-311-better-performance-and-more-3jch)
-- [Excel Migration Strategy: A Practical Tool Selection and Transition Guide](https://dev.to/_jeongyuhyeon_03de1/excel-migration-strategy-a-practical-tool-selection-and-transition-guide-3m9o)
+- [GitHub Copilot just crushed every AI review startup &lpar;40.3M PR analysis&rpar;](https://dev.to/zak_mandhro/github-copilot-crushed-every-code-review-startup-40m-pr-analysis-2no6)
+- [Your Ego Is The Real AI Bottleneck](https://dev.to/ejb503/your-ego-is-the-real-ai-bottleneck-2eb8)
+- [Using Custom Timestamp Columns in Laravel Eloquent](https://dev.to/mmramadan496/using-custom-timestamp-columns-in-laravel-eloquent-2b26)
+- [The Duck That Talks Back](https://dev.to/junothreadborne/the-duck-that-talks-back-3c4d)
 <!-- BLOG-POST-LIST:END -->
 
 
