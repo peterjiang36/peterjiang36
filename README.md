@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter: Armazenamento de dados](https://dev.to/wps13/flutter-armazenamento-de-dados-a91)
-- [NAT Gateways Killing Your Container Costs? Amazon ECR VPC endpoints to the Rescue](https://dev.to/hstiwana/nat-gateways-killing-your-container-costs-amazon-ecr-vpc-endpoints-to-the-rescue-21k5)
-- [A Simple Overview of Passwords, 2FA, and Passkeys &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-simple-overview-of-passwords-2fa-and-passkeys-bite-size-article-1nhf)
-- [Kicking Off 2026: Expert Analysis &amp; World Cup Predictions](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-world-cup-predictions-1e0h)
+- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero](https://dev.to/aws-builders/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-2990)
+- [Brevity](https://dev.to/bagelbomb/brevity-1g4)
+- [Difficult Choices: Angular, React or Vue?](https://dev.to/cheetah100/difficult-choices-angular-react-or-vue-2443)
+- [On Facing Extinction &lpar;Again&rpar;](https://dev.to/annaspies/on-facing-extinction-again-23o5)
 <!-- BLOG-POST-LIST:END -->
 
 
