@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6)
-- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch)
-- [AI-Driven SPFx 1.22 Upgrade: A Reproducible Process Flow](https://dev.to/stfbauer/ai-driven-spfx-122-upgrade-a-reproducible-process-flow-4m7)
-- [C# Minimal API: Output Caching](https://dev.to/gramli/c-minimal-api-output-caching-2iij)
+- [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
+- [🧰 I Built LLMKit: A Complete Toolkit for Testing LLM APIs](https://dev.to/chieund/i-built-llmkit-a-complete-toolkit-for-testing-llm-apis-50eb)
+- [When Announcements Replace Innovation: OpenAI’s Code Red 🚨](https://dev.to/razoorka/when-announcements-replace-innovation-openais-code-red-3ak9)
+- [Buy More Ramen, Devs! Because for Years Ahead, AI Slop ATS Will Kick Our Godly Resumes Hard in the Pants](https://dev.to/ryo_suwito/buy-more-ramen-devs-because-for-years-ahead-ai-slop-ats-will-kick-our-godly-resumes-hard-in-the-575i)
 <!-- BLOG-POST-LIST:END -->
 
 
