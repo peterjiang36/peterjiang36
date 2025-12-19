@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
-- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
-- [How to Add Extended Fields to Entities Without Modifying Tables](https://dev.to/canonical/how-to-add-extended-fields-to-entities-without-modifying-tables-5k)
-- [Collecting Real Tourism Listings and Prices at Scale: A Developer’s Guide to Geo-Accurate Data Aggregation](https://dev.to/anna_6c67c00f5c3f53660978/collecting-real-tourism-listings-and-prices-at-scale-a-developers-guide-to-geo-accurate-data-1icl)
+- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
+- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
+- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
+- [Full-Time Degree vs Short-Term Certification Courses](https://dev.to/tech_space/degree-vs-certification-courses-o2)
 <!-- BLOG-POST-LIST:END -->
 
 
