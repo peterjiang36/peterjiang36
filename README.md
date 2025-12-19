@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Common Mistakes Teams Make When Setting a Project Schedule Baseline](https://dev.to/taskford/5-common-mistakes-teams-make-when-setting-a-project-schedule-baseline-hbn)
-- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-1d6c)
-- [Migrating your FastAPI app step by step to serverless](https://dev.to/yokwejuste/migrating-your-fastapi-app-step-by-step-to-serverless-4he0)
-- [Neon lil synth](https://dev.to/jaclyncodes/neon-lil-synth-295b)
+- [Diagram as Code en 2025 : Le repas de famille des outils](https://dev.to/onepoint/diagram-as-code-en-2025-le-repas-de-famille-des-outils-1gdp)
+- [Build a World Time Display in Rust with egui: Complete Tutorial](https://dev.to/dev-tngsh/build-a-world-time-display-in-rust-with-egui-complete-tutorial-3bin)
+- [AI Reviews Slow Us, Agentic Code Saves 90%](https://dev.to/urbanisierung/ai-reviews-slow-us-agentic-code-saves-90-1le9)
+- [The Big 2025 AI Lesson: Stop Bolting Chatbots Onto Broken Workflows](https://dev.to/aiwithapex/the-big-2025-ai-lesson-stop-bolting-chatbots-onto-broken-workflows-2cd3)
 <!-- BLOG-POST-LIST:END -->
 
 
