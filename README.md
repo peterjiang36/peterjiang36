@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Obter dados de monitoramento e configuração MongoDB ReplicaSet](https://dev.to/magno_rodolfodossantos_/obter-dados-de-monitoramento-e-configuracao-mongodb-replicaset-53mj)
-- [Deploying a Machine Learning Model to AWS SageMaker Complete Guide - PART 01](https://dev.to/techwithdilan/deploying-a-machine-learning-model-to-aws-sagemaker-complete-guide-part-01-3kh7)
-- [Async Task Integration: Connecting Celery with Flask-SocketIO](https://dev.to/deepak_mishra_35863517037/async-task-integration-connecting-celery-with-flask-socketio-4ia6)
-- [ASR &lpar;Automatic Speech Recognition&rpar;](https://dev.to/wanjohichristopher/asr-automatic-speech-recognition-nab)
+- [Designing Bitcoin Infrastructure Under Adversarial Assumptions](https://dev.to/nonsoamadi10/designing-bitcoin-infrastructure-under-adversarial-assumptions-5820)
+- [Securing Solace Metrics: How to Use OAuth with solace-prometheus-exporter](https://dev.to/pascalre/securing-solace-metrics-how-to-use-oauth-with-solace-prometheus-exporter-2i6l)
+- [It shows how to use Nano Banan Pro to create images that use Google Search for fact-checking, and shows AI thinks after understanding the user prompt and to deliver an image that meets the requirement.](https://dev.to/railsstudent/it-shows-how-to-use-nano-banan-pro-to-create-images-that-use-google-search-for-fact-checking-and-4cff)
+- [Advanced Lists &amp; Pagination in SwiftUI](https://dev.to/sebastienlato/advanced-lists-pagination-in-swiftui-5c0k)
 <!-- BLOG-POST-LIST:END -->
 
 
