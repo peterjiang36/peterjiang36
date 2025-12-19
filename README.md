@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [bool in C23](https://dev.to/pauljlucas/bool-in-c23-4kj4)
-- [How Guillermo Rauch &lpar;the Creator of Next.JS&rpar; Evolves in the Age of AI](https://dev.to/cathylai/how-guillermo-rauch-the-creator-of-nextjs-evolves-in-the-age-of-ai-4245)
-- [Microsoft Teams: A Simple Collaboration Tool for DevOps Teams](https://dev.to/madhumitha_ganesan_/microsoft-teams-a-simple-collaboration-tool-for-devops-teams-44go)
-- [How I Convert HEIC Photos to PNG Without Installing Anything](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-convert-heic-photos-to-png-without-installing-anything-3ed5)
+- [Vibecoding in Between Meetings: Learning MCP Servers and Building a PoC &lpar; with AWS Kiro&rpar;](https://dev.to/aws-builders/vibecoding-in-between-meetings-learning-mcp-servers-and-building-a-poc-with-aws-kiro-dkm)
+- [Commercn: A UI Component library that speeds up eCommerce Development](https://dev.to/jqueryscript/commercn-a-ui-component-library-that-speeds-up-ecommerce-development-26h5)
+- [My first day with Antigravity](https://dev.to/tomokat/my-first-day-with-antigravity-4jai)
+- [What Is Dependency Injection and How Is It Implemented in Spring?](https://dev.to/realnamehidden1_61/what-is-dependency-injection-and-how-is-it-implemented-in-spring-503g)
 <!-- BLOG-POST-LIST:END -->
 
 
