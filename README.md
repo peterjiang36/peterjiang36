@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Agent for my Portfolio &lpar;Yabasha.dev&rpar; using Laravel &amp; Next.js](https://dev.to/bayyash/how-i-built-an-ai-agent-for-my-portfolio-yabashadev-using-laravel-nextjs-52a9)
-- [Join the Chimoney Agent Wallet Challenge and Earn Rewards!](https://dev.to/phyleria/join-the-chimoney-agent-wallet-challenge-and-earn-rewards-1l6e)
-- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-1ece)
-- [How to Monitor and Mitigate Bias in Large Language Model Deployments: A Step‑by‑Step Guide](https://dev.to/kuldeep_paul/how-to-monitor-and-mitigate-bias-in-large-language-model-deployments-a-step-by-step-guide-591)
+- [The Scale Trap: How AI&#39;s Biggest Win Became Its Biggest Problem](https://dev.to/get_pieces/the-scale-trap-how-ais-biggest-win-became-its-biggest-problem-4jp5)
+- [Choosing an ETL Tool for Salesforce: The Practical Options](https://dev.to/vladam/choosing-an-etl-tool-for-salesforce-the-practical-options-1mb3)
+- [Game Dev Digest — Issue #311 - Better Performance, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-311-better-performance-and-more-3jch)
+- [Excel Migration Strategy: A Practical Tool Selection and Transition Guide](https://dev.to/_jeongyuhyeon_03de1/excel-migration-strategy-a-practical-tool-selection-and-transition-guide-3m9o)
 <!-- BLOG-POST-LIST:END -->
 
 
