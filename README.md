@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
-- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
-- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
-- [Full-Time Degree vs Short-Term Certification Courses](https://dev.to/tech_space/degree-vs-certification-courses-o2)
+- [How I Built an AI Agent for my Portfolio &lpar;Yabasha.dev&rpar; using Laravel &amp; Next.js](https://dev.to/bayyash/how-i-built-an-ai-agent-for-my-portfolio-yabashadev-using-laravel-nextjs-52a9)
+- [Join the Chimoney Agent Wallet Challenge and Earn Rewards!](https://dev.to/phyleria/join-the-chimoney-agent-wallet-challenge-and-earn-rewards-1l6e)
+- [Monitoring Environmental Quality Standards with Power BI](https://dev.to/phenixzain/monitoring-environmental-quality-standards-with-power-bi-1ece)
+- [How to Monitor and Mitigate Bias in Large Language Model Deployments: A Step‑by‑Step Guide](https://dev.to/kuldeep_paul/how-to-monitor-and-mitigate-bias-in-large-language-model-deployments-a-step-by-step-guide-591)
 <!-- BLOG-POST-LIST:END -->
 
 
