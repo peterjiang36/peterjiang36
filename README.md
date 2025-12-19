@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diagram as Code en 2025 : Le repas de famille des outils](https://dev.to/onepoint/diagram-as-code-en-2025-le-repas-de-famille-des-outils-1gdp)
-- [Build a World Time Display in Rust with egui: Complete Tutorial](https://dev.to/dev-tngsh/build-a-world-time-display-in-rust-with-egui-complete-tutorial-3bin)
-- [AI Reviews Slow Us, Agentic Code Saves 90%](https://dev.to/urbanisierung/ai-reviews-slow-us-agentic-code-saves-90-1le9)
-- [The Big 2025 AI Lesson: Stop Bolting Chatbots Onto Broken Workflows](https://dev.to/aiwithapex/the-big-2025-ai-lesson-stop-bolting-chatbots-onto-broken-workflows-2cd3)
+- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
+- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
+- [Mastering HTTP Clients in Go: Your Guide to the `net/http` Package](https://dev.to/jones_charles_ad50858dbc0/mastering-http-clients-in-go-your-guide-to-the-nethttp-package-2d8b)
+- [AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda](https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8)
 <!-- BLOG-POST-LIST:END -->
 
 
