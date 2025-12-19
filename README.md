@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GXD: Rethinking File Compression for Modern Computing](https://dev.to/hejhdiss/gxd-rethinking-file-compression-for-modern-computing-51ig)
-- [Automated AWS Receipt Processing System using Textract, Lambda &amp; MySQL](https://dev.to/akashabish/automated-aws-receipt-processing-system-using-textract-lambda-mysql-idg)
-- [DEV Track Spotlight: Building .NET AI Applications with Semantic Kernel and Amazon Bedrock &lpar;DEV302&rpar;](https://dev.to/aws/dev-track-spotlight-building-net-ai-applications-with-semantic-kernel-and-amazon-bedrock-dev302-dj2)
-- [How to convert PDF to SVG in C# &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-convert-pdf-to-svg-in-c-tutorial-1o5b)
+- [Choosing the Right EC2 Instance: Types, Pricing Models, and Workload Fit](https://dev.to/jeyy/choosing-the-right-ec2-instance-types-pricing-models-and-workload-fit-5bk8)
+- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
+- [AI content generation with readability scoring - Write Better...](https://dev.to/ash_dubai/ai-content-generation-with-readability-scoring-write-better-34l6)
+- [Finding the Best Time to Develop for Engineers: My Insights | My Site](https://dev.to/ash_dubai/finding-the-best-time-to-develop-for-engineers-my-insights-my-site-9o3)
 <!-- BLOG-POST-LIST:END -->
 
 
