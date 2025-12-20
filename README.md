@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero](https://dev.to/aws-builders/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-2990)
-- [Brevity](https://dev.to/bagelbomb/brevity-1g4)
-- [Difficult Choices: Angular, React or Vue?](https://dev.to/cheetah100/difficult-choices-angular-react-or-vue-2443)
-- [On Facing Extinction &lpar;Again&rpar;](https://dev.to/annaspies/on-facing-extinction-again-23o5)
+- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
+- [The Object⏩to⏩Stream mindset shift](https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao)
+- [Automated Cloud Migrations with Kiro and the Arm MCP Server](https://dev.to/aws-builders/automated-cloud-migrations-with-kiro-and-the-arm-mcp-server-m72)
+- [Institutional Linkages Between Government Institutions and Traditional Leadership in Maroodi Jeex Region, Somaliland](https://dev.to/mft_journal_553c27e287583/institutional-linkages-between-government-institutions-and-traditional-leadership-in-maroodi-jeex-p4m)
 <!-- BLOG-POST-LIST:END -->
 
 
