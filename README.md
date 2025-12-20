@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
-- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
-- [How I Currently Understand Rendering in React &lpar;My Improved Mental Model&rpar;](https://dev.to/usama_dev/how-i-currently-understand-rendering-in-react-my-improved-mental-model-51bk)
-- [🌐💡 Understanding Websites vs Web Applications: From Brochures to Interactive Tools](https://dev.to/natarajan_c_k/understanding-websites-vs-web-applications-from-brochures-to-interactive-tools-29e2)
+- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
+- [What I Learned at the CNCF Montreal KubeCon NA 2025 Recap](https://dev.to/soniv/what-i-learned-at-the-cncf-montreal-kubecon-na-2025-recap-13l9)
+- [The Hidden Threat in Every Image: Why Your Upload Validation is Broken](https://dev.to/ra_vi_51d9667e07aa0984631/the-hidden-threat-in-every-image-why-your-upload-validation-is-broken-36d1)
+- [Fractal Monsters Evolution](https://dev.to/xcontcom/fractal-monsters-evolution-4ee8)
 <!-- BLOG-POST-LIST:END -->
 
 
