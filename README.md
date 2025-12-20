@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [UI UX for Developers: A Practical Guide](https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl)
-- [Antiquora](https://dev.to/aditya_rajsingh_53f8ceca/antiquora-1mpc)
-- [🔐 Allow Website Access Only From Specific Countries Using AWS Route 53 &lpar;The Right Way&rpar;](https://dev.to/jayakrishnayadav24/allow-website-access-only-from-specific-countries-using-aws-route-53-the-right-way-2k63)
-- [Beginner’s guide to CompTIA Security+](https://dev.to/dinesh_chakra_8937c40b1ec/beginners-guide-to-comptia-security-4917)
+- [Why I refuse to ship Google Analytics in open-source projects](https://dev.to/benjy33000/why-i-refuse-to-ship-google-analytics-in-open-source-projects-47dp)
+- [The lost logos of code](https://dev.to/anavalo/the-lost-logos-of-code-28eg)
+- [The lost logos of code](https://dev.to/anavalo_/the-lost-logos-of-code-2445)
+- [Browser Extensions - Native Messaging](https://dev.to/programador51/browser-extensions-native-messaging-21am)
 <!-- BLOG-POST-LIST:END -->
 
 
