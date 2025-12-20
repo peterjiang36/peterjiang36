@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Buenísimo!](https://dev.to/elizabethfuentes12/buenisimo-1df9)
-- [Day 3 of 30 Days of AWS Terraform — Creating Your First S3 Bucket with Terraform](https://dev.to/amitsinghs98/day-3-of-30-days-of-aws-terraform-creating-your-first-s3-bucket-with-terraform-3k1g)
-- [Wait, You Mean They&#39;re Different?](https://dev.to/evan-lausier/wait-you-mean-theyre-different-25l8)
-- [Getting Started with Modern Web Development in 2026: A Practical Guide for Beginners](https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9)
+- [Shallow Agents vs Deep Agents: How Deep Research Actually Works Inside GPT-Like Systems](https://dev.to/naresh_007/shallow-agents-vs-deep-agents-how-deep-research-actually-works-inside-gpt-like-systems-4n73)
+- [**Garantiza un cumplimiento normativo sostenible con la plat](https://dev.to/drcarlosruizviquez/garantiza-un-cumplimiento-normativo-sostenible-con-la-plat-2f62)
+- [Day 36 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-36-of-documenting-my-learning-journey-54ac)
+- [Exploring AWS Generative AI &amp; AI Services: A Practical Guide for Builders](https://dev.to/shubhamkcloud/exploring-aws-generative-ai-ai-services-a-practical-guide-for-builders-1mfm)
 <!-- BLOG-POST-LIST:END -->
 
 
