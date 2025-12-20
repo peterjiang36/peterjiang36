@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance HTTP Servers with Go’s `net/http`](https://dev.to/jones_charles_ad50858dbc0/building-high-performance-http-servers-with-gos-nethttp-4413)
-- [🤖 Top 10 .NET Development Tools You Need to Know in 2026 💡](https://dev.to/elsie-rainee/top-10-net-development-tools-you-need-to-know-in-2026-2c8h)
-- [A Practical Windows Terminal Setup with Git Bash and Automatic Pane Layout](https://dev.to/tuner9696_len/a-practical-windows-terminal-setup-with-git-bash-and-automatic-pane-layout-3oii)
-- [AI-Native GUI SDK: Designed for AI Control, Not Manual Restrictions](https://dev.to/hejhdiss/ai-native-gui-sdk-designed-for-ai-control-not-manual-restrictions-461n)
+- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
+- [Why Most Organizations Fail at Cybersecurity — Even After Heavy Investment](https://dev.to/ankitraiinfosec/why-most-organizations-fail-at-cybersecurity-even-after-heavy-investment-2pla)
+- [The Code is Open: How Free &amp; Open Source Software Became the Backbone of Modern Business and the Internet](https://dev.to/gandolfslayer/the-code-is-open-how-free-open-source-software-became-the-backbone-of-modern-business-and-the-5122)
+- [Cinematic ANSI Banners for Rust](https://dev.to/zhang_lei_d5d577e6d0b5421/cinematic-ansi-banners-for-rust-1ceo)
 <!-- BLOG-POST-LIST:END -->
 
 
