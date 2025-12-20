@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zeros of Polynomial Equations in the Complex Plane](https://dev.to/prinewgirl/zeros-of-polynomial-equations-in-the-complex-plane-22co)
-- [Building a Premium New Year 2026 Celebration Site 🎉](https://dev.to/srijan-xi/building-a-premium-new-year-2026-celebration-site-1bpj)
-- [What Exactly Is the “Bazel Ecosystem”?](https://dev.to/sushilbaligar/what-exactly-is-the-bazel-ecosystem-5g79)
-- [I Think I Just Built the Perfect Landing Page &lpar;for my Software Studio&rpar;](https://dev.to/tejasbaid/i-think-i-just-built-the-perfect-landing-page-for-my-software-studio-48hn)
+- [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
+- [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
+- [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
+- [SpecMD — What if Your Documentation Was Your Code?](https://dev.to/glauber_portella/specmd-what-if-your-documentation-was-your-code-oed)
 <!-- BLOG-POST-LIST:END -->
 
 
