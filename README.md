@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I refuse to ship Google Analytics in open-source projects](https://dev.to/benjy33000/why-i-refuse-to-ship-google-analytics-in-open-source-projects-47dp)
-- [The lost logos of code](https://dev.to/anavalo/the-lost-logos-of-code-28eg)
-- [The lost logos of code](https://dev.to/anavalo_/the-lost-logos-of-code-2445)
-- [Browser Extensions - Native Messaging](https://dev.to/programador51/browser-extensions-native-messaging-21am)
+- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
+- [Bayan Flow 0.2.0: finishing the foundations &lpar;i18n, RTL, tests, and small UX wins&rpar;](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7)
+- [Day 34 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-34-of-documenting-my-learning-journey-2o79)
+- [Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program](https://dev.to/thebitcoiner/marshall-islands-launches-the-worlds-first-cryptocurrency-based-universal-basic-income-program-52df)
 <!-- BLOG-POST-LIST:END -->
 
 
