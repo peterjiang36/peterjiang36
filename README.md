@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A quick human interruption to your usual dev content](https://dev.to/philipjohnbasile/a-quick-human-interruption-to-your-usual-dev-content-2mna)
-- [Preparing for GCP Security Certification? Here&#39;s What Actually Worked for Me](https://dev.to/ankurlibra/preparing-for-gcp-security-certification-heres-what-actually-worked-for-me-2pmc)
-- [Day 1 of building ScrapeForge in public](https://dev.to/vishwas-batra/day-1-of-building-scrapeforge-in-public-3bf2)
-- [AWS Bedrock AgentCore Hands-On Workshop: A Recap](https://dev.to/soniv/aws-bedrock-agentcore-hands-on-workshop-a-recap-3pap)
+- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
+- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
+- [2025 Complete Guide: Qwen-Image-Layered - Revolutionary AI Image Layer Decomposition Technology](https://dev.to/czmilo/2025-complete-guide-qwen-image-layered-revolutionary-ai-image-layer-decomposition-technology-4mm7)
+- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
 <!-- BLOG-POST-LIST:END -->
 
 
