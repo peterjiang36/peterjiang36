@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Agentic Video Analysis with TwelveLabs Pegasus and Strands Agents SDK](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
-- [The Secret Life of JavaScript: The Power of Function Composition](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb)
-- [Desarrollo de Agentes con Amazon Strands Agents 🚀](https://dev.to/juan_irrazabal_c4df8f6338/desarrollo-de-agentes-con-amazon-strands-agents-3o5f)
-- [Rockchip Update News: Latest Developments in Rockchip SoCs](https://dev.to/dongpei_liao_8092a14d7c50/rockchip-update-news-latest-developments-in-rockchip-socs-c24)
+- [My Writeup &lpar;0day in Zsh &lpar;RCE&rpar;&rpar;](https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245)
+- [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
+- [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
+- [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
 <!-- BLOG-POST-LIST:END -->
 
 
