@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
-- [What I Learned at the CNCF Montreal KubeCon NA 2025 Recap](https://dev.to/soniv/what-i-learned-at-the-cncf-montreal-kubecon-na-2025-recap-13l9)
-- [The Hidden Threat in Every Image: Why Your Upload Validation is Broken](https://dev.to/ra_vi_51d9667e07aa0984631/the-hidden-threat-in-every-image-why-your-upload-validation-is-broken-36d1)
-- [Fractal Monsters Evolution](https://dev.to/xcontcom/fractal-monsters-evolution-4ee8)
+- [Dave - Debt Tracking CLI](https://dev.to/tryonlinux/dave-debt-tracking-cli-1i74)
+- [Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript](https://dev.to/btravers/introducing-amqp-contract-type-safe-rabbitmqamqp-messaging-for-typescript-48bh)
+- [Logistic Regression, But Make It Tea: ML Basics Served Hot](https://dev.to/codeneuron/logistic-regression-but-make-it-tea-ml-basics-served-hot-13h)
+- [“Just an MVP” Wasn’t Enough: Why I Built Waitle](https://dev.to/aykutonen/just-an-mvp-wasnt-enough-why-i-built-waitle-5a7)
 <!-- BLOG-POST-LIST:END -->
 
 
