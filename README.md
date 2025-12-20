@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI without the hype: using LLMs to reduce noise, not replace thinking](https://dev.to/quentin23soleil/ai-without-the-hype-using-llms-to-reduce-noise-not-replace-thinking-2pko)
-- [Automating Go App Deployment to Google Cloud Run with GitHub Actions&lpar;Free Tier&rpar;](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995)
-- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9)
-- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113)
+- [A quick human interruption to your usual dev content](https://dev.to/philipjohnbasile/a-quick-human-interruption-to-your-usual-dev-content-2mna)
+- [Preparing for GCP Security Certification? Here&#39;s What Actually Worked for Me](https://dev.to/ankurlibra/preparing-for-gcp-security-certification-heres-what-actually-worked-for-me-2pmc)
+- [Day 1 of building ScrapeForge in public](https://dev.to/vishwas-batra/day-1-of-building-scrapeforge-in-public-3bf2)
+- [AWS Bedrock AgentCore Hands-On Workshop: A Recap](https://dev.to/soniv/aws-bedrock-agentcore-hands-on-workshop-a-recap-3pap)
 <!-- BLOG-POST-LIST:END -->
 
 
