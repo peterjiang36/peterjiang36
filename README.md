@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI Agent Management: Governance, Security &amp; Control Guide &lpar;2026&rpar;](https://dev.to/composiodev/enterprise-ai-agent-management-governance-security-control-guide-2026-3f60)
-- [My Very First Blog Post](https://dev.to/leo_codes07/my-very-first-blog-post-d8n)
-- [Modern C# Development: Custom Exceptions Made Simple](https://dev.to/lovelacecoding/modern-c-development-custom-exceptions-made-simple-1ln8)
-- [SpecMD — What if Your Documentation Was Your Code?](https://dev.to/glauber_portella/specmd-what-if-your-documentation-was-your-code-oed)
+- [LynkBin: AI-Powered Bookmark Manager](https://dev.to/yash007_95/lynkbin-ai-powered-bookmark-manager-blc)
+- [Lo viejo funciona, Juan! A monolithic is enough, almost ever.](https://dev.to/cocodelacueva/lo-viejo-funciona-juan-a-monolithic-is-enough-almost-ever-4hl0)
+- [testagram](https://dev.to/nahashonnyaga23_87c0cd73e/testagram-432p)
+- [Performance Tuning: Linux Kernel Optimizations for 10k+ Connections](https://dev.to/deepak_mishra_35863517037/performance-tuning-linux-kernel-optimizations-for-10k-connections-lnj)
 <!-- BLOG-POST-LIST:END -->
 
 
