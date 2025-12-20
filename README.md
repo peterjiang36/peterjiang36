@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: When Login Fails and Isolation Stays](https://dev.to/casperday11/day-13-when-login-fails-and-isolation-stays-1l5m)
-- [Accroche philosophique dans le monde informatique.](https://dev.to/onepoint/accroche-philosophique-dans-le-monde-informatique-52c8)
-- [PSX: The Project Structure Checker](https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j)
-- [Anthropic Unveils ‘Agent Skills,’ Raising the Stakes in Enterprise AI](https://dev.to/logicverse_2025/anthropic-unveils-agent-skills-raising-the-stakes-in-enterprise-ai-30m9)
+- [Why I Still Build Things No One Will Ever Use](https://dev.to/zerotrustzeroenergy/why-i-still-build-things-no-one-will-ever-use-4pgd)
+- [I built svg4.ru — a high-performance SVG icons platform on Laravel 12](https://dev.to/bau_59/i-built-svg4ru-a-high-performance-svg-icons-platform-on-laravel-12-1h32)
+- [How to Deploy a Voice AI Agent Using Railway for eCommerce Success](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-using-railway-for-ecommerce-success-3bkl)
+- [AI Coding Assistants in 2025: Why They Still Fail at Complex Tasks](https://dev.to/dataformathub/ai-coding-assistants-in-2025-why-they-still-fail-at-complex-tasks-ke)
 <!-- BLOG-POST-LIST:END -->
 
 
