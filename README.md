@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
-- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
-- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
-- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
+- [Buenísimo!](https://dev.to/elizabethfuentes12/buenisimo-1df9)
+- [Day 3 of 30 Days of AWS Terraform — Creating Your First S3 Bucket with Terraform](https://dev.to/amitsinghs98/day-3-of-30-days-of-aws-terraform-creating-your-first-s3-bucket-with-terraform-3k1g)
+- [Wait, You Mean They&#39;re Different?](https://dev.to/evan-lausier/wait-you-mean-theyre-different-25l8)
+- [Getting Started with Modern Web Development in 2026: A Practical Guide for Beginners](https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9)
 <!-- BLOG-POST-LIST:END -->
 
 
