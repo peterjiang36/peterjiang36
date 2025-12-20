@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
-- [Bayan Flow 0.2.0: finishing the foundations &lpar;i18n, RTL, tests, and small UX wins&rpar;](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7)
-- [Day 34 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-34-of-documenting-my-learning-journey-2o79)
-- [Marshall Islands Launches the World’s First Cryptocurrency-Based Universal Basic Income Program](https://dev.to/thebitcoiner/marshall-islands-launches-the-worlds-first-cryptocurrency-based-universal-basic-income-program-52df)
+- [Using CuCollections Nvidia Data Structures Library](https://dev.to/murage_kibicho_b1d9cc21/using-cucollections-nvidia-data-structures-library-44mn)
+- [What could be the best Micro Achievement at the beginning of a Micro Business??](https://dev.to/johnnysturat/what-could-be-the-best-micro-achievement-at-the-beginning-of-a-micro-business-3431)
+- [The Future of Android: Productivity and Privacy Enhancements to Expect in 2026](https://dev.to/workalizer/the-future-of-android-productivity-and-privacy-enhancements-to-expect-in-2026-m20)
+- [Linux Foundations for DevOps – Epic](https://dev.to/chetan_tekam_3500/linux-foundations-for-devops-epic-45gk)
 <!-- BLOG-POST-LIST:END -->
 
 
