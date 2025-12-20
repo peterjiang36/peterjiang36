@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
-- [The Object⏩to⏩Stream mindset shift](https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao)
-- [Automated Cloud Migrations with Kiro and the Arm MCP Server](https://dev.to/aws-builders/automated-cloud-migrations-with-kiro-and-the-arm-mcp-server-m72)
-- [Institutional Linkages Between Government Institutions and Traditional Leadership in Maroodi Jeex Region, Somaliland](https://dev.to/mft_journal_553c27e287583/institutional-linkages-between-government-institutions-and-traditional-leadership-in-maroodi-jeex-p4m)
+- [AI without the hype: using LLMs to reduce noise, not replace thinking](https://dev.to/quentin23soleil/ai-without-the-hype-using-llms-to-reduce-noise-not-replace-thinking-2pko)
+- [Automating Go App Deployment to Google Cloud Run with GitHub Actions&lpar;Free Tier&rpar;](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995)
+- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9)
+- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113)
 <!-- BLOG-POST-LIST:END -->
 
 
