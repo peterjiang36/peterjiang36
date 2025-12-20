@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Writeup &lpar;0day in Zsh &lpar;RCE&rpar;&rpar;](https://dev.to/pwn/my-writeup-0day-in-zsh-rce-2245)
-- [PDF Merger: Combine Multiple PDFs Instantly in Your Browser](https://dev.to/frontendtoolstech/pdf-merger-combine-multiple-pdfs-instantly-in-your-browser-4dn3)
-- [How a Single Client Request Turned Into My New Monetized WordPress Plugin](https://dev.to/affectionate_code/how-a-single-client-request-turned-into-my-new-monetized-wordpress-plugin-1eje)
-- [Improved Baselines with Momentum Contrastive Learning](https://dev.to/paperium/improved-baselines-with-momentum-contrastive-learning-4hk6)
+- [Building High-Performance HTTP Servers with Go’s `net/http`](https://dev.to/jones_charles_ad50858dbc0/building-high-performance-http-servers-with-gos-nethttp-4413)
+- [🤖 Top 10 .NET Development Tools You Need to Know in 2026 💡](https://dev.to/elsie-rainee/top-10-net-development-tools-you-need-to-know-in-2026-2c8h)
+- [A Practical Windows Terminal Setup with Git Bash and Automatic Pane Layout](https://dev.to/tuner9696_len/a-practical-windows-terminal-setup-with-git-bash-and-automatic-pane-layout-3oii)
+- [AI-Native GUI SDK: Designed for AI Control, Not Manual Restrictions](https://dev.to/hejhdiss/ai-native-gui-sdk-designed-for-ai-control-not-manual-restrictions-461n)
 <!-- BLOG-POST-LIST:END -->
 
 
