@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dave - Debt Tracking CLI](https://dev.to/tryonlinux/dave-debt-tracking-cli-1i74)
-- [Introducing amqp-contract - Type-Safe RabbitMQ/AMQP Messaging for TypeScript](https://dev.to/btravers/introducing-amqp-contract-type-safe-rabbitmqamqp-messaging-for-typescript-48bh)
-- [Logistic Regression, But Make It Tea: ML Basics Served Hot](https://dev.to/codeneuron/logistic-regression-but-make-it-tea-ml-basics-served-hot-13h)
-- [“Just an MVP” Wasn’t Enough: Why I Built Waitle](https://dev.to/aykutonen/just-an-mvp-wasnt-enough-why-i-built-waitle-5a7)
+- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
+- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
+- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
+- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
 <!-- BLOG-POST-LIST:END -->
 
 
