@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using CuCollections Nvidia Data Structures Library](https://dev.to/murage_kibicho_b1d9cc21/using-cucollections-nvidia-data-structures-library-44mn)
-- [What could be the best Micro Achievement at the beginning of a Micro Business??](https://dev.to/johnnysturat/what-could-be-the-best-micro-achievement-at-the-beginning-of-a-micro-business-3431)
-- [The Future of Android: Productivity and Privacy Enhancements to Expect in 2026](https://dev.to/workalizer/the-future-of-android-productivity-and-privacy-enhancements-to-expect-in-2026-m20)
-- [Linux Foundations for DevOps – Epic](https://dev.to/chetan_tekam_3500/linux-foundations-for-devops-epic-45gk)
+- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
+- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
+- [How I Currently Understand Rendering in React &lpar;My Improved Mental Model&rpar;](https://dev.to/usama_dev/how-i-currently-understand-rendering-in-react-my-improved-mental-model-51bk)
+- [🌐💡 Understanding Websites vs Web Applications: From Brochures to Interactive Tools](https://dev.to/natarajan_c_k/understanding-websites-vs-web-applications-from-brochures-to-interactive-tools-29e2)
 <!-- BLOG-POST-LIST:END -->
 
 
