@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
-- [AgentCore Explained: AWS’s Serverless Runtime for Production-Grade AI Agents](https://dev.to/kishore_karumanchi_acbc18/agentcore-explained-awss-serverless-runtime-for-production-grade-ai-agents-4e04)
-- [2025 Complete Guide: Qwen-Image-Layered - Revolutionary AI Image Layer Decomposition Technology](https://dev.to/czmilo/2025-complete-guide-qwen-image-layered-revolutionary-ai-image-layer-decomposition-technology-4mm7)
-- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
+- [Build Agentic Video Analysis with TwelveLabs Pegasus and Strands Agents SDK](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
+- [The Secret Life of JavaScript: The Power of Function Composition](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb)
+- [Desarrollo de Agentes con Amazon Strands Agents 🚀](https://dev.to/juan_irrazabal_c4df8f6338/desarrollo-de-agentes-con-amazon-strands-agents-3o5f)
+- [Rockchip Update News: Latest Developments in Rockchip SoCs](https://dev.to/dongpei_liao_8092a14d7c50/rockchip-update-news-latest-developments-in-rockchip-socs-c24)
 <!-- BLOG-POST-LIST:END -->
 
 
