@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Still Build Things No One Will Ever Use](https://dev.to/zerotrustzeroenergy/why-i-still-build-things-no-one-will-ever-use-4pgd)
-- [I built svg4.ru — a high-performance SVG icons platform on Laravel 12](https://dev.to/bau_59/i-built-svg4ru-a-high-performance-svg-icons-platform-on-laravel-12-1h32)
-- [How to Deploy a Voice AI Agent Using Railway for eCommerce Success](https://dev.to/callstacktech/how-to-deploy-a-voice-ai-agent-using-railway-for-ecommerce-success-3bkl)
-- [AI Coding Assistants in 2025: Why They Still Fail at Complex Tasks](https://dev.to/dataformathub/ai-coding-assistants-in-2025-why-they-still-fail-at-complex-tasks-ke)
+- [UI UX for Developers: A Practical Guide](https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl)
+- [Antiquora](https://dev.to/aditya_rajsingh_53f8ceca/antiquora-1mpc)
+- [🔐 Allow Website Access Only From Specific Countries Using AWS Route 53 &lpar;The Right Way&rpar;](https://dev.to/jayakrishnayadav24/allow-website-access-only-from-specific-countries-using-aws-route-53-the-right-way-2k63)
+- [Beginner’s guide to CompTIA Security+](https://dev.to/dinesh_chakra_8937c40b1ec/beginners-guide-to-comptia-security-4917)
 <!-- BLOG-POST-LIST:END -->
 
 
