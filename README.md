@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
-- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
-- [The Interview Question That Made Me Rethink My Architecture: Understanding Domain‑Driven Design](https://dev.to/timleunghk/the-interview-question-that-made-me-rethink-my-architecture-understanding-domain-driven-design-3ajh)
-- [Stop Shipping &quot;Zombie Tests&quot;: Introducing Project Vandal v0.2.0](https://dev.to/godhirajcode/stop-shipping-zombie-tests-introducing-project-vandal-v020-5fg2)
+- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
+- [Day 78 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6)
+- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99)
+- [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h)
 <!-- BLOG-POST-LIST:END -->
 
 
