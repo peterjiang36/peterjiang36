@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: Asynchrony](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-asynchrony-2o5f)
-- [I built an iOS app that turns Mandalart &lpar;9x9&rpar; into GTD Actions &lpar;v1.0&rpar;](https://dev.to/marcus_jh/i-built-an-ios-app-that-turns-mandalart-9x9-into-gtd-actions-v10-1586)
-- [Exploring the Concept of &#39;The Ghost in the Machine&#39;](https://dev.to/gandolfslayer/exploring-the-concept-of-the-ghost-in-the-machine-35h6)
-- [Why AI Startups Need to Focus on Distribution Before Disruption](https://dev.to/jaideepparashar/why-ai-startups-need-to-focus-on-distribution-before-disruption-569a)
+- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
+- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
+- [The Interview Question That Made Me Rethink My Architecture: Understanding Domain‑Driven Design](https://dev.to/timleunghk/the-interview-question-that-made-me-rethink-my-architecture-understanding-domain-driven-design-3ajh)
+- [Stop Shipping &quot;Zombie Tests&quot;: Introducing Project Vandal v0.2.0](https://dev.to/godhirajcode/stop-shipping-zombie-tests-introducing-project-vandal-v020-5fg2)
 <!-- BLOG-POST-LIST:END -->
 
 
