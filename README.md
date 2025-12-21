@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Openinary: The Self-Hosted Cloudinary Alternative Nobody Built Before](https://dev.to/florianheysen/openinary-the-self-hosted-cloudinary-alternative-nobody-built-before-25po)
-- [Building my first Claude Code Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/building-my-first-claude-code-plugin-26ka)
-- [How to build a firmware using Makefile?](https://dev.to/cangulmez/how-to-build-a-firmware-using-makefile-3flm)
-- [#1 Cloud &amp; Coffee - AWS UG Medan](https://dev.to/aws-builders/1-cloud-coffee-aws-ug-medan-on3)
+- [I Thought My AWS EC2 Was Secure — Until I Checked My Security Groups](https://dev.to/nirmal7030/i-thought-my-aws-ec2-was-secure-until-i-checked-my-security-groups-3183)
+- [Ever Wondered Why So Many ML Algorithms Exist - Even When Big Names Dominate?](https://dev.to/jashwanth_thatipamula_8ee/ever-wondered-why-so-many-ml-algorithms-exist-even-when-big-names-dominate-ok)
+- [content locker,html/css counter](https://dev.to/preetha_vaishnavi_2b82358/content-lockerhtmlcss-counter-4e9d)
+- [Vanilla JS Pattern Locker](https://dev.to/preetha_vaishnavi_2b82358/vanilla-js-pattern-locker-5b19)
 <!-- BLOG-POST-LIST:END -->
 
 
