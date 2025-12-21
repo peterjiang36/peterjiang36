@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: 5 AI-Powered Plays to Supercharge Your B2B Sales Engine](https://dev.to/michaelaiglobal/beyond-the-hype-5-ai-powered-plays-to-supercharge-your-b2b-sales-engine-51oo)
-- [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://dev.to/paperium/bloom-a-176b-parameter-open-access-multilingual-language-model-1hoa)
-- [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
-- [Running EC2 in Production: Storage, Reliability, Scaling, and Operational Best Practices](https://dev.to/jeyy/running-ec2-in-production-storage-reliability-scaling-and-operational-best-practices-2jgj)
+- [Openinary: The Self-Hosted Cloudinary Alternative Nobody Built Before](https://dev.to/florianheysen/openinary-the-self-hosted-cloudinary-alternative-nobody-built-before-25po)
+- [Building my first Claude Code Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/building-my-first-claude-code-plugin-26ka)
+- [How to build a firmware using Makefile?](https://dev.to/cangulmez/how-to-build-a-firmware-using-makefile-3flm)
+- [#1 Cloud &amp; Coffee - AWS UG Medan](https://dev.to/aws-builders/1-cloud-coffee-aws-ug-medan-on3)
 <!-- BLOG-POST-LIST:END -->
 
 
