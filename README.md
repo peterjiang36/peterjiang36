@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a Professional Blog with One Line of Java](https://dev.to/tomerbendavid/shipping-a-professional-blog-with-one-line-of-java-2f5g)
-- [Weekly #51-2025: AI Coding Agents and Engineering Culture, 0.1x Engineers](https://dev.to/weekly/weekly-51-2025-ai-coding-agents-and-engineering-culture-01x-engineers-5bnj)
-- [Bringing True SQLite to the Browser with OPFS 🚀](https://dev.to/wuchuheng/bringing-true-sqlite-to-the-browser-with-opfs-19j9)
-- [If you are creating any Multi Agent or AI apps you need to check this out!!!](https://dev.to/varshithvhegde/if-you-are-creating-any-multi-agent-or-ai-apps-you-need-to-check-this-out-gd6)
+- [DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data](https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0)
+- [The Power of Gemini inside Trello: Building an LLM Assistant with Firebase Genkit](https://dev.to/denisvalasek/the-power-of-gemini-inside-trello-building-an-llm-assistant-with-firebase-genkit-3dh2)
+- [17 y/o developer. Building weird but useful tools. Hand Mouse — control your PC with just your hand.](https://dev.to/fl4ie/17-yo-developerbuilding-weird-but-useful-toolshand-mouse-control-your-pc-with-just-your-hand-3hpa)
+- [Managing multiple Playwright projects?](https://dev.to/js_js/managing-multiple-playwright-projects-3ole)
 <!-- BLOG-POST-LIST:END -->
 
 
