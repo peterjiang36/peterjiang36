@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
-- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
-- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
-- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
+- [Shipping a Professional Blog with One Line of Java](https://dev.to/tomerbendavid/shipping-a-professional-blog-with-one-line-of-java-2f5g)
+- [Weekly #51-2025: AI Coding Agents and Engineering Culture, 0.1x Engineers](https://dev.to/weekly/weekly-51-2025-ai-coding-agents-and-engineering-culture-01x-engineers-5bnj)
+- [Bringing True SQLite to the Browser with OPFS 🚀](https://dev.to/wuchuheng/bringing-true-sqlite-to-the-browser-with-opfs-19j9)
+- [If you are creating any Multi Agent or AI apps you need to check this out!!!](https://dev.to/varshithvhegde/if-you-are-creating-any-multi-agent-or-ai-apps-you-need-to-check-this-out-gd6)
 <!-- BLOG-POST-LIST:END -->
 
 
