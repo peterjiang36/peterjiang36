@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with AWS Lambda Durable Functions &amp; Callback ⚡⏳🚀 - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/hands-on-with-aws-lambda-durable-functions-callback-lets-build-series-4agd)
-- [Database Modeling Course: Design Efficient and Scalable Databases](https://dev.to/vasantha_keshaveni_6c6d87/database-modeling-course-design-efficient-and-scalable-databases-49k4)
-- [[2025 Guide] AI-Driven Advertising: The Predictive Targeting Strategy](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-the-predictive-targeting-strategy-4mbh)
-- [How to keep your OSX awake after closing screen](https://dev.to/jimquote/how-to-keep-your-osx-awake-after-closing-screen-551k)
+- [Beyond the Hype: 5 AI-Powered Plays to Supercharge Your B2B Sales Engine](https://dev.to/michaelaiglobal/beyond-the-hype-5-ai-powered-plays-to-supercharge-your-b2b-sales-engine-51oo)
+- [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://dev.to/paperium/bloom-a-176b-parameter-open-access-multilingual-language-model-1hoa)
+- [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
+- [Running EC2 in Production: Storage, Reliability, Scaling, and Operational Best Practices](https://dev.to/jeyy/running-ec2-in-production-storage-reliability-scaling-and-operational-best-practices-2jgj)
 <!-- BLOG-POST-LIST:END -->
 
 
