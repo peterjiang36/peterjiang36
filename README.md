@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Autocomplete / Type-ahead System for a Search Box - Part 2](https://dev.to/zeeshanali0704/autocomplete-type-ahead-system-for-a-search-box-part-2-2gkj)
-- [Moving from GitHub Actions? Software binary management for any CI/CD pipeline](https://dev.to/buildstash/moving-from-github-actions-software-binary-management-for-any-cicd-4gg8)
-- [The void](https://dev.to/lexnwimue/the-void-40i2)
-- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj)
+- [I Built a TOON Playground: Save 40% on LLM Tokens](https://dev.to/shahdeep/i-built-a-toon-playground-save-40-on-llm-tokens-2807)
+- [Frontend System Design: Redux Toolkit vs Zustand vs Jotai](https://dev.to/zeeshanali0704/frontend-system-design-redux-toolkit-vs-zustand-vs-jotai-1npn)
+- [UACME supported in Windows 11 25H2](https://dev.to/ijacko_noodon_8da65e404e7/uacme-supported-in-windows-11-25h2-4mgd)
+- [Planner Perfeito](https://dev.to/isabelcoutinho/planner-perfeito-3f08)
 <!-- BLOG-POST-LIST:END -->
 
 
