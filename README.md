@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought My AWS EC2 Was Secure — Until I Checked My Security Groups](https://dev.to/nirmal7030/i-thought-my-aws-ec2-was-secure-until-i-checked-my-security-groups-3183)
-- [Ever Wondered Why So Many ML Algorithms Exist - Even When Big Names Dominate?](https://dev.to/jashwanth_thatipamula_8ee/ever-wondered-why-so-many-ml-algorithms-exist-even-when-big-names-dominate-ok)
-- [content locker,html/css counter](https://dev.to/preetha_vaishnavi_2b82358/content-lockerhtmlcss-counter-4e9d)
-- [Vanilla JS Pattern Locker](https://dev.to/preetha_vaishnavi_2b82358/vanilla-js-pattern-locker-5b19)
+- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
+- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
+- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
+- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
 <!-- BLOG-POST-LIST:END -->
 
 
