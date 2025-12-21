@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data](https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0)
-- [The Power of Gemini inside Trello: Building an LLM Assistant with Firebase Genkit](https://dev.to/denisvalasek/the-power-of-gemini-inside-trello-building-an-llm-assistant-with-firebase-genkit-3dh2)
-- [17 y/o developer. Building weird but useful tools. Hand Mouse — control your PC with just your hand.](https://dev.to/fl4ie/17-yo-developerbuilding-weird-but-useful-toolshand-mouse-control-your-pc-with-just-your-hand-3hpa)
-- [Managing multiple Playwright projects?](https://dev.to/js_js/managing-multiple-playwright-projects-3ole)
+- [Control centralizado de S3 Block Public Access a nivel organizacional &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/control-centralizado-de-s3-block-public-access-a-nivel-organizacional-en-espanol-sencillo-4n2j)
+- [How We Solved Western Consulting Firm’s Phone Number Nightmare](https://dev.to/faraz_farhan_83ed23a154a2/01670-309-328-vs-8801670309328-how-we-solved-western-consulting-firms-phone-number-nightmare-3d33)
+- [Code Chronicle](https://dev.to/rmion/code-chronicle-3e2l)
+- [💥 Break your API before your users do. Automated Network Chaos for CI/CD.](https://dev.to/aragossa/chaos-network-proxy-3cbf)
 <!-- BLOG-POST-LIST:END -->
 
 
