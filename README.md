@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
-- [Branch Protection Rules vs Rulesets: The Right Way to Protect Your Git Repos](https://dev.to/piyush_gaikwad_2fadecf5f4/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
-- [Why Quiet Days Can Feel More Draining Than Busy Ones](https://dev.to/jamesmiller25/why-quiet-days-can-feel-more-draining-than-busy-ones-1a7c)
-- [How I Used Codex with ChatGPT 5.1 to Smash a Major Migration in 2 Days](https://dev.to/khurram_alikhan_716deca7/how-i-used-codex-with-chatgpt-51-to-smash-a-major-migration-in-2-days-45i4)
+- [Strapi v4 v5 Overview: What Changed and Why It Matters](https://dev.to/tuner9696_len/strapi-v4-v5-overview-what-changed-and-why-it-matters-58k1)
+- [Custom Claude Code Skill: Auto-Generating / Updating Architecture Diagrams with Excalidraw](https://dev.to/yooi/custom-claude-code-skill-auto-generating-updating-architecture-diagrams-with-excalidraw-227k)
+- [A Low code web development platform](https://dev.to/giuseppesaponaro/a-low-code-web-development-platform-4l4n)
+- [Link Prediction in Complex Networks: A Survey](https://dev.to/paperium/link-prediction-in-complex-networks-a-survey-2lmc)
 <!-- BLOG-POST-LIST:END -->
 
 
