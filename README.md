@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord community engagement for thriving Web3 communities](https://dev.to/wevolv3_c2aea5159adf3b85f/discord-community-engagement-for-thriving-web3-communities-3ljo)
-- [The Open Source Myth: Why &quot;Free&quot; Doesn&#39;t Always Mean Free](https://dev.to/clifford_otieno/the-open-source-myth-why-free-doesnt-always-mean-free-g8m)
-- [Agent Flows At Scale with Google’s ADK for TypeScript](https://dev.to/gioboa/agent-flows-at-scale-with-googles-adk-for-typescript-b8k)
-- [Building Your First Marketing Attribution Model Without Breaking Your Budget &lpar;Or Your Brain&rpar;](https://dev.to/synergistdigitalmedia/building-your-first-marketing-attribution-model-without-breaking-your-budget-or-your-brain-19lb)
+- [Agentforce Actions Guide &lpar;2026&rpar;: Native Flows vs. MuleSoft vs. External Services](https://dev.to/composiodev/agentforce-actions-guide-2026-native-flows-vs-mulesoft-vs-external-services-3e6p)
+- [Outgrowing Zapier, Make, and n8n for AI Agents: The Production Migration Blueprint](https://dev.to/composiodev/outgrowing-zapier-make-and-n8n-for-ai-agents-the-production-migration-blueprint-5g4j)
+- [The Art of Small Images: Practical Techniques for Shaving Hundreds of MB Off AI and Java Containers](https://dev.to/vigneshjd/the-art-of-small-images-practical-techniques-for-shaving-hundreds-of-mb-off-ai-and-java-containers-4m2n)
+- [Day 00 - Prelude](https://dev.to/pillin/day-00-prelude-1n29)
 <!-- BLOG-POST-LIST:END -->
 
 
