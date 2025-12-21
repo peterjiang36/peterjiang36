@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Control centralizado de S3 Block Public Access a nivel organizacional &lpar;en español sencillo&rpar;](https://dev.to/pangoro24/control-centralizado-de-s3-block-public-access-a-nivel-organizacional-en-espanol-sencillo-4n2j)
-- [How We Solved Western Consulting Firm’s Phone Number Nightmare](https://dev.to/faraz_farhan_83ed23a154a2/01670-309-328-vs-8801670309328-how-we-solved-western-consulting-firms-phone-number-nightmare-3d33)
-- [Code Chronicle](https://dev.to/rmion/code-chronicle-3e2l)
-- [💥 Break your API before your users do. Automated Network Chaos for CI/CD.](https://dev.to/aragossa/chaos-network-proxy-3cbf)
+- [Zoom world Map](https://dev.to/preetha_vaishnavi_2b82358/zoom-world-map-1nl5)
+- [the world.simplified](https://dev.to/preetha_vaishnavi_2b82358/the-worldsimplified-257f)
+- [How to Build India&#39;s Cheapest &lpar;Yet Most Effective&rpar; Penetration Testing Tool 🔥](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
+- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-31p6)
 <!-- BLOG-POST-LIST:END -->
 
 
