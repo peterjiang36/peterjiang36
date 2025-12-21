@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn as a Software Engineer: Lessons from The Pragmatic Programmer](https://dev.to/sherwinwater/reading-notesthe-pragmatic-programmer-2gm5)
-- [Learning as a Software Engineer Is Not About Reading — It’s About Applying](https://dev.to/sherwinwater/learning-as-a-software-engineer-is-not-about-reading-its-about-applying-2i9)
-- [Introducing temporal-contract: Type-Safe Temporal. io Workflows for TypeScript](https://dev.to/btravers/introducing-temporal-contract-type-safe-temporal-io-workflows-for-typescript-29f3)
-- [State machines as business logic engines](https://dev.to/takueg/state-machines-as-business-logic-engines-1i0e)
+- [EKS Disaster Recovery, Simplified: Native Backups with AWS Backup](https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4)
+- [ECR can create automaticaly when image pushed](https://dev.to/shiruta/ecr-can-create-automaticaly-when-image-pushed-38f)
+- [Functional testing: the boring basics that catch real bugs](https://dev.to/kelina_cowell_qa/functional-testing-the-boring-basics-that-catch-real-bugs-1ion)
+- [Integrating Zapier MCP into a Chat System](https://dev.to/thisisharsh7/integrating-zapier-mcp-into-a-chat-system-41lf)
 <!-- BLOG-POST-LIST:END -->
 
 
