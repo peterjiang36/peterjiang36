@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
-- [Day 78 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6)
-- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99)
-- [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h)
+- [Install Steam in a Distrobox Container With x86-64-v3 Power Boost!](https://dev.to/archerallstars/install-steam-in-a-distrobox-container-with-x86-64-v3-power-boost-2am0)
+- [How Do You Handle Exceptions Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3)
+- [Git Stash Made Simple: Save Your Work Without Committing](https://dev.to/thecodeliner/git-stash-made-simple-save-your-work-without-committing-3bbb)
+- [Uniface 10.4 and Informix: Simple Guide to Transaction Control 💾](https://dev.to/f345345dfg/uniface-104-and-informix-simple-guide-to-transaction-control-4gf2)
 <!-- BLOG-POST-LIST:END -->
 
 
