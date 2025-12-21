@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EKS Disaster Recovery, Simplified: Native Backups with AWS Backup](https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4)
-- [ECR can create automaticaly when image pushed](https://dev.to/shiruta/ecr-can-create-automaticaly-when-image-pushed-38f)
-- [Functional testing: the boring basics that catch real bugs](https://dev.to/kelina_cowell_qa/functional-testing-the-boring-basics-that-catch-real-bugs-1ion)
-- [Integrating Zapier MCP into a Chat System](https://dev.to/thisisharsh7/integrating-zapier-mcp-into-a-chat-system-41lf)
+- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
+- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
+- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
+- [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
 <!-- BLOG-POST-LIST:END -->
 
 
