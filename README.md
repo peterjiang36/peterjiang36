@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentforce Actions Guide &lpar;2026&rpar;: Native Flows vs. MuleSoft vs. External Services](https://dev.to/composiodev/agentforce-actions-guide-2026-native-flows-vs-mulesoft-vs-external-services-3e6p)
-- [Outgrowing Zapier, Make, and n8n for AI Agents: The Production Migration Blueprint](https://dev.to/composiodev/outgrowing-zapier-make-and-n8n-for-ai-agents-the-production-migration-blueprint-5g4j)
-- [The Art of Small Images: Practical Techniques for Shaving Hundreds of MB Off AI and Java Containers](https://dev.to/vigneshjd/the-art-of-small-images-practical-techniques-for-shaving-hundreds-of-mb-off-ai-and-java-containers-4m2n)
-- [Day 00 - Prelude](https://dev.to/pillin/day-00-prelude-1n29)
+- [Autocomplete / Type-ahead System for a Search Box - Part 2](https://dev.to/zeeshanali0704/autocomplete-type-ahead-system-for-a-search-box-part-2-2gkj)
+- [Moving from GitHub Actions? Software binary management for any CI/CD pipeline](https://dev.to/buildstash/moving-from-github-actions-software-binary-management-for-any-cicd-4gg8)
+- [The void](https://dev.to/lexnwimue/the-void-40i2)
+- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj)
 <!-- BLOG-POST-LIST:END -->
 
 
