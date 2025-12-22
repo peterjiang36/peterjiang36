@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday &lpar;Seed the playlist!&rpar;](https://dev.to/musicforem/music-monday-seed-the-playlist-2alc)
-- [A Quick Lesson After A Long Debugging Session &lpar;And Almost Pulling My Hair Off&rpar;](https://dev.to/canro91/a-quick-lesson-after-a-long-debugging-session-and-almost-pulling-my-hair-off-3jfh)
-- [Mastering Real-Time Communication with Socket.IO Rooms](https://dev.to/ctrix/mastering-real-time-communication-with-socketio-rooms-4bom)
-- [Daily Tech News Roundup - 2025-12-22](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-22-2ea9)
+- [Telegram Bots Are Useful — But at What Cost to Privacy?](https://dev.to/syed_iqbal_ahammad/telegram-bots-are-useful-but-at-what-cost-to-privacy-3o38)
+- [Arc-Fault Protection in PV: Practical Notes for 1000V/1500V Strings](https://dev.to/wxc5937beep/arc-fault-protection-in-pv-practical-notes-for-1000v1500v-strings-9k9)
+- [LINQ Performance Optimization: 5 Patterns Every C# Developer Should Know](https://dev.to/dsikorska/linq-performance-optimization-5-patterns-every-c-developer-should-know-4p6k)
+- [I made a free list of 100+ Product Hunt alternatives](https://dev.to/prompt_tester_a468156e6c1/i-made-a-free-list-of-100-product-hunt-alternatives-emh)
 <!-- BLOG-POST-LIST:END -->
 
 
