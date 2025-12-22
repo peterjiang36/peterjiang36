@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
-- [Running Laravel Sail with Podman on macOS: A Step-by-Step Guide](https://dev.to/bhaidar/running-laravel-sail-with-podman-on-macos-a-step-by-step-guide-69e)
-- [String3D: Forcing 3D to Obey CSS](https://dev.to/penev-tech/string3d-forcing-3d-to-obey-css-583h)
-- [Bringing Server Side Engineering Rigor to Swift Desktop Apps](https://dev.to/tomerbendavid/modern-swift-architecture-and-the-patterns-behind-quikey-59eh)
+- [7 Lies Developers Keep Telling Themselves &lpar;And Somehow Still Believe&rpar;](https://dev.to/sylwia-lask/7-lies-developers-keep-telling-themselves-and-somehow-still-believe-46nh)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-53fg)
+- [“I Am New on DEV.to – My Learning Journey Starts Here”](https://dev.to/olivia_smith_3c4bdf7b5bf2/i-am-new-on-devto-my-learning-journey-starts-here-18f3)
+- [UUID’s in Rails + SQLite shouldn’t be this hard &lpar;so I built a gem&rpar;](https://dev.to/bart-oz/uuids-in-rails-sqlite-shouldnt-be-this-hard-so-i-built-a-gem-210c)
 <!-- BLOG-POST-LIST:END -->
 
 
