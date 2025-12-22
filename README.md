@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
-- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
-- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
-- [https://hmpl-lang.dev - new website](https://dev.to/anthonymax/httpshmpl-langdev-new-website-1gib)
+- [Signals vs Proxy vs Virtual DOM — What Actually Makes Them Different?](https://dev.to/luciano0322/signals-vs-proxy-vs-virtual-dom-what-actually-makes-them-different-4b1o)
+- [I Built &#39;firex&#39; - A CLI Tool for Firestore Operations with AI Agent Integration](https://dev.to/yamamoto_yuji_c3064a0e502/i-built-firex-a-cli-tool-for-firestore-operations-with-ai-agent-integration-2cfm)
+- [Simulating the Siglo Game in Python](https://dev.to/juan_bello_004fc5c7445625/simulating-the-siglo-game-in-python-mo1)
+- [**Title:** The Future of Work: How AI and Automation are Redefining the Job Market](https://dev.to/yagyaraj_sharma_6cd410179/title-the-future-of-work-how-ai-and-automation-are-redefining-the-job-market-2f70)
 <!-- BLOG-POST-LIST:END -->
 
 
