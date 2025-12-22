@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Ramp Up Fast on a New Team and a New System](https://dev.to/chanmoro/how-to-ramp-up-fast-on-a-new-team-and-a-new-system-39jg)
-- [Organizing Source Code for Scientific Programmers: Let&#39;s Start a Conversation](https://dev.to/robjohnston/organizing-source-code-for-scientific-programmers-lets-start-a-conversation-3hph)
-- [Rethinking Unit Tests for AI Development: From Correctness to Contract Protection](https://dev.to/synthaicode_commander/rethinking-unit-tests-for-ai-development-from-correctness-to-contract-protection-5041)
-- [YAML Formatter](https://dev.to/pineapple_26/yaml-formatter-35dk)
+- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
+- [We Replaced Message Buses with Telemetry for AI Agent Coordination](https://dev.to/fubumaki/we-replaced-message-buses-with-telemetry-for-ai-agent-coordination-39e8)
+- [Linked Lists Joins the Fray! &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/linked-lists-joins-the-fray-javascript-3e9d)
+- [WBS + AI: How to Cut Development Time by 6x](https://dev.to/_jeongyuhyeon_03de1/wbs-ai-how-to-cut-development-time-by-6x-n1p)
 <!-- BLOG-POST-LIST:END -->
 
 
