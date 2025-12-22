@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Mode Doesn&#39;t Replace MCP &lpar;Here&#39;s What It Actually Does&rpar;](https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga)
-- [Install ELK Stack &amp; Setup Spring Boot Logging with Filebeat](https://dev.to/mfirmanakbar/install-elk-stack-setup-spring-boot-logging-with-filebeat-114i)
-- [Pydantic-DeepAgents: A Lightweight, Production-Ready Framework for Building Autonomous AI Agents](https://dev.to/deenuu1/pydantic-deepagents-a-lightweight-production-ready-framework-for-building-autonomous-ai-agents-2l3i)
-- [I Found an Interesting Library with 4,000+ n8n Workflows](https://dev.to/thevenice/i-found-an-interesting-library-with-4000-n8n-workflows-58ko)
+- [The US Tech Force just launched. It&#39;s title font is Canadian. And it gets worse.](https://dev.to/techieshark/the-us-tech-force-just-launched-its-title-font-is-canadian-and-it-gets-worse-3d9k)
+- [For added data security, you can use IAM authentication for RDS for any aws services or for any IAM users!
+This is a bit overhead to configure at first, but I find it very secure instead of sharing the master password.](https://dev.to/ashraf-minhaj/for-added-data-security-you-can-use-iam-authentication-for-rds-for-any-aws-services-or-for-any-iam-3fml)
+- [How Long Does It Take to Build a Design System Button? Before/After Comparison](https://dev.to/odada-o/how-long-does-it-take-to-build-a-design-system-button-beforeafter-comparison-1664)
+- [New CFTC and FDIC Leadership: How the U.S. Crypto Regulatory Technology Stack Will Be Restructured in 2026](https://dev.to/apnews/new-cftc-and-fdic-leadership-how-the-us-crypto-regulatory-technology-stack-will-be-restructured-8jo)
 <!-- BLOG-POST-LIST:END -->
 
 
