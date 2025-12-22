@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Kubernetes HomeLab - The Hard Way - DNS first, or everything else lies to you 🔥🌐](https://dev.to/hkhelil/building-a-kubernetes-homelab-the-hard-way-dns-first-or-everything-else-lies-to-you-3ng1)
-- [Day 01 - One Key, One Coordinator](https://dev.to/pillin/day-01-one-key-one-coordinator-3e69)
-- [Nuxt Scripts for improved Performance and Security](https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i)
-- [Protecting a Personal Tech Blog in Practice: SafeLine Deployed in 10 Minutes](https://dev.to/arina_cholee/protecting-a-personal-tech-blog-in-practice-safeline-deployed-in-10-minutes-pem)
+- [Exploratory testing on mobile: the messy checks that find real bugs](https://dev.to/kelina_cowell_qa/exploratory-testing-on-mobile-the-messy-checks-that-find-real-bugs-2ldg)
+- [Announcing NgRx 21: Celebrating a 10 Year Journey with a fresh new look and @ngrx/signals/events](https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp)
+- [Top 5 best AI tools for WordPress in 2026](https://dev.to/dmetrovich/top-5-best-ai-tools-for-wordpress-in-2026-1c4m)
+- [How AI Knows a Cat Is Like a Dog: An Intuitive Guide to Word Embeddings](https://dev.to/nastaranai/how-ai-knows-a-cat-is-like-a-dog-an-intuitive-guide-to-word-embeddings-4ong)
 <!-- BLOG-POST-LIST:END -->
 
 
