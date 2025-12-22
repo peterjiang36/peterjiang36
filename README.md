@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Never Use Git Pull - The Beauty Of Rebase](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)
-- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
-- [Hashicorp Vault: Authentication Provider Almanac](https://dev.to/admantium/hashicorp-vault-authentication-provider-almanac-47g9)
-- [A Clean WordPress Website Checklist &lpar;What We Fix Before We Touch Design&rpar;](https://dev.to/digillexsols/a-clean-wordpress-website-checklist-what-we-fix-before-we-touch-design-56j2)
+- [Building a Kubernetes HomeLab - The Hard Way - DNS first, or everything else lies to you 🔥🌐](https://dev.to/hkhelil/building-a-kubernetes-homelab-the-hard-way-dns-first-or-everything-else-lies-to-you-3ng1)
+- [Day 01 - One Key, One Coordinator](https://dev.to/pillin/day-01-one-key-one-coordinator-3e69)
+- [Nuxt Scripts for improved Performance and Security](https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i)
+- [Protecting a Personal Tech Blog in Practice: SafeLine Deployed in 10 Minutes](https://dev.to/arina_cholee/protecting-a-personal-tech-blog-in-practice-safeline-deployed-in-10-minutes-pem)
 <!-- BLOG-POST-LIST:END -->
 
 
