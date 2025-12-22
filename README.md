@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Bots Are Useful — But at What Cost to Privacy?](https://dev.to/syed_iqbal_ahammad/telegram-bots-are-useful-but-at-what-cost-to-privacy-3o38)
-- [Arc-Fault Protection in PV: Practical Notes for 1000V/1500V Strings](https://dev.to/wxc5937beep/arc-fault-protection-in-pv-practical-notes-for-1000v1500v-strings-9k9)
-- [LINQ Performance Optimization: 5 Patterns Every C# Developer Should Know](https://dev.to/dsikorska/linq-performance-optimization-5-patterns-every-c-developer-should-know-4p6k)
-- [I made a free list of 100+ Product Hunt alternatives](https://dev.to/prompt_tester_a468156e6c1/i-made-a-free-list-of-100-product-hunt-alternatives-emh)
+- [Never Use Git Pull - The Beauty Of Rebase](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)
+- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
+- [Hashicorp Vault: Authentication Provider Almanac](https://dev.to/admantium/hashicorp-vault-authentication-provider-almanac-47g9)
+- [A Clean WordPress Website Checklist &lpar;What We Fix Before We Touch Design&rpar;](https://dev.to/digillexsols/a-clean-wordpress-website-checklist-what-we-fix-before-we-touch-design-56j2)
 <!-- BLOG-POST-LIST:END -->
 
 
