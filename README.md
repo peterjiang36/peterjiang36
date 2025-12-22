@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Payment Gateway vs Payment Processor: What&#39;s the Difference?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-whats-the-difference-5h6d)
-- [Glitch v1: An LLM with a personality, anxiety and a bit of attitude](https://dev.to/buzzpy/glitch-v1-an-llm-with-a-personality-anxiety-and-a-bit-of-attitude-4d34)
-- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything - Part 2](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-part-2-db5)
-- [❄️ frost-react: instant snowfall for React](https://dev.to/gimnathperera/frost-react-instant-snowfall-for-react-i9e)
+- [How to Increase and Optimize Performance in a React Application](https://dev.to/wandanamaddumage/how-to-increase-and-optimize-performance-in-a-react-application-1d59)
+- [Most developers use generative AI as a faster Google. Developers are applying AI where they&#39;re comfortable, now where it&#39;s powerful.](https://dev.to/jaideepparashar/most-developers-use-generative-ai-as-a-faster-google-developers-are-applying-ai-where-theyre-57lh)
+- [The Real Reason Most Developers Are Misusing Generative AI](https://dev.to/jaideepparashar/the-real-reason-most-developers-are-misusing-generative-ai-2cd7)
+- [Coderive Language - 50ms for 1 Quintillion Array Elements inside a Loop](https://dev.to/danexcodr/coderive-language-50ms-for-1-quintillion-array-elements-inside-a-loop-4eb8)
 <!-- BLOG-POST-LIST:END -->
 
 
