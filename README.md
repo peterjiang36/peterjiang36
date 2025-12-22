@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an MCP Server to Create My Own AI Writing Style Guide Expert](https://dev.to/siddhartha_mani_03/how-i-built-an-mcp-server-to-create-my-own-ai-writing-style-guide-expert-297m)
-- [What Publishing an Mobile App Involves: Time, Cost, and Equipments](https://dev.to/cathylai/what-publishing-an-mobile-app-involves-time-cost-and-equipments-1923)
-- [Revamping Supply Chain: A Blockchain Web3 Case Study](https://dev.to/hkj13/revamping-supply-chain-a-blockchain-web3-case-study-3p2p)
-- [SOLID Revisited — A Post-Pattern Perspective](https://dev.to/cristiansifuentes/classes-in-c-from-first-principles-to-architectural-mastery-2c94)
+- [Gonzo: An Open-Source Terminal UI That&#39;s Changing How I Analyze Logs](https://dev.to/discoposse/gonzo-an-open-source-terminal-ui-thats-changing-how-i-analyze-logs-3h40)
+- [CVE-2021-26084: Atlassian Confluence Server and Data Center Object-Graph Navigation Language &lpar;OGNL&rpar; Injection Vulnerability](https://dev.to/freedom-coder/cve-2021-26084-atlassian-confluence-server-and-data-center-object-graph-navigation-language-ognl-42fp)
+- [MCP server for Style Guide](https://dev.to/siddhartha_mani_03/-1iio)
+- [CVE-2022-26318: WatchGuard Firebox and XTM Appliances Arbitrary Code Execution](https://dev.to/freedom-coder/cve-2022-26318-watchguard-firebox-and-xtm-appliances-arbitrary-code-execution-46jk)
 <!-- BLOG-POST-LIST:END -->
 
 
