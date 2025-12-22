@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [About Me - An Outreachy Blog](https://dev.to/giftcup/about-me-an-outreachy-blog-1k75)
-- [A Practical Guide to Prompt Engineering: 6 Essential Patterns Every Beginner Should Master](https://dev.to/zetao_qin_906c7471abc999c/a-practical-guide-to-prompt-engineering-6-essential-patterns-every-beginner-should-master-1g0h)
-- [Leadership Reinvented: How Joshua Moll’s Framework Shapes Mindset, Growth, and Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-reinvented-how-joshua-molls-framework-shapes-mindset-growth-and-self-mastery-45e3)
-- [Best AI Video Generators: Sora, Kling AI, and Google Veo](https://dev.to/digicarrom/best-ai-video-generators-sora-kling-ai-and-google-veo-477p)
+- [How to Ramp Up Fast on a New Team and a New System](https://dev.to/chanmoro/how-to-ramp-up-fast-on-a-new-team-and-a-new-system-39jg)
+- [Organizing Source Code for Scientific Programmers: Let&#39;s Start a Conversation](https://dev.to/robjohnston/organizing-source-code-for-scientific-programmers-lets-start-a-conversation-3hph)
+- [Rethinking Unit Tests for AI Development: From Correctness to Contract Protection](https://dev.to/synthaicode_commander/rethinking-unit-tests-for-ai-development-from-correctness-to-contract-protection-5041)
+- [YAML Formatter](https://dev.to/pineapple_26/yaml-formatter-35dk)
 <!-- BLOG-POST-LIST:END -->
 
 
