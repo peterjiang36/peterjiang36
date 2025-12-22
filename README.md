@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
-- [We Replaced Message Buses with Telemetry for AI Agent Coordination](https://dev.to/fubumaki/we-replaced-message-buses-with-telemetry-for-ai-agent-coordination-39e8)
-- [Linked Lists Joins the Fray! &lpar;JavaScript&rpar;](https://dev.to/brendon_oneill__/linked-lists-joins-the-fray-javascript-3e9d)
-- [WBS + AI: How to Cut Development Time by 6x](https://dev.to/_jeongyuhyeon_03de1/wbs-ai-how-to-cut-development-time-by-6x-n1p)
+- [Commit Signing - GnuPG](https://dev.to/kuwv/commit-signing-gnupg-1pl4)
+- [Why I built ElysianDB](https://dev.to/taymour/why-i-built-elysiandb-2f5i)
+- [Configuring RapidAPI MCP Servers in VS Code Copilot](https://dev.to/0apocalypse0/configuring-rapidapi-mcp-servers-in-vs-code-copilot-3hoa)
+- [npm Security 2025: Why Provenance and Sigstore Change Everything](https://dev.to/dataformathub/npm-security-2025-why-provenance-and-sigstore-change-everything-2m7j)
 <!-- BLOG-POST-LIST:END -->
 
 
