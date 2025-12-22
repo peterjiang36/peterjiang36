@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Signals vs Proxy vs Virtual DOM — What Actually Makes Them Different?](https://dev.to/luciano0322/signals-vs-proxy-vs-virtual-dom-what-actually-makes-them-different-4b1o)
-- [I Built &#39;firex&#39; - A CLI Tool for Firestore Operations with AI Agent Integration](https://dev.to/yamamoto_yuji_c3064a0e502/i-built-firex-a-cli-tool-for-firestore-operations-with-ai-agent-integration-2cfm)
-- [Simulating the Siglo Game in Python](https://dev.to/juan_bello_004fc5c7445625/simulating-the-siglo-game-in-python-mo1)
-- [**Title:** The Future of Work: How AI and Automation are Redefining the Job Market](https://dev.to/yagyaraj_sharma_6cd410179/title-the-future-of-work-how-ai-and-automation-are-redefining-the-job-market-2f70)
+- [Code Mode Doesn&#39;t Replace MCP &lpar;Here&#39;s What It Actually Does&rpar;](https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga)
+- [Install ELK Stack &amp; Setup Spring Boot Logging with Filebeat](https://dev.to/mfirmanakbar/install-elk-stack-setup-spring-boot-logging-with-filebeat-114i)
+- [Pydantic-DeepAgents: A Lightweight, Production-Ready Framework for Building Autonomous AI Agents](https://dev.to/deenuu1/pydantic-deepagents-a-lightweight-production-ready-framework-for-building-autonomous-ai-agents-2l3i)
+- [I Found an Interesting Library with 4,000+ n8n Workflows](https://dev.to/thevenice/i-found-an-interesting-library-with-4000-n8n-workflows-58ko)
 <!-- BLOG-POST-LIST:END -->
 
 
