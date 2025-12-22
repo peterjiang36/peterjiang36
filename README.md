@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory testing on mobile: the messy checks that find real bugs](https://dev.to/kelina_cowell_qa/exploratory-testing-on-mobile-the-messy-checks-that-find-real-bugs-2ldg)
-- [Announcing NgRx 21: Celebrating a 10 Year Journey with a fresh new look and @ngrx/signals/events](https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp)
-- [Top 5 best AI tools for WordPress in 2026](https://dev.to/dmetrovich/top-5-best-ai-tools-for-wordpress-in-2026-1c4m)
-- [How AI Knows a Cat Is Like a Dog: An Intuitive Guide to Word Embeddings](https://dev.to/nastaranai/how-ai-knows-a-cat-is-like-a-dog-an-intuitive-guide-to-word-embeddings-4ong)
+- [現役エンジニアが選ぶ2025年必須開発ツール&lpar;IDEからAIまで&rpar;](https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d)
+- [Adding Cryptographic Audit Trails to FIX Without Touching Your Trading Engine](https://dev.to/veritaschain/adding-cryptographic-audit-trails-to-fix-without-touching-your-trading-engine-551p)
+- [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
+- [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
 <!-- BLOG-POST-LIST:END -->
 
 
