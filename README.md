@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [現役エンジニアが選ぶ2025年必須開発ツール&lpar;IDEからAIまで&rpar;](https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d)
-- [Adding Cryptographic Audit Trails to FIX Without Touching Your Trading Engine](https://dev.to/veritaschain/adding-cryptographic-audit-trails-to-fix-without-touching-your-trading-engine-551p)
-- [How to Send Emails in Ruby - Complete Guide with Code Examples](https://dev.to/sendlayer/how-to-send-emails-in-ruby-complete-guide-with-code-examples-24f7)
-- [I build things because silence is suspicious.](https://dev.to/trojanmocx/i-build-things-because-silence-is-suspicious-1852)
+- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
+- [Running Laravel Sail with Podman on macOS: A Step-by-Step Guide](https://dev.to/bhaidar/running-laravel-sail-with-podman-on-macos-a-step-by-step-guide-69e)
+- [String3D: Forcing 3D to Obey CSS](https://dev.to/penev-tech/string3d-forcing-3d-to-obey-css-583h)
+- [Bringing Server Side Engineering Rigor to Swift Desktop Apps](https://dev.to/tomerbendavid/modern-swift-architecture-and-the-patterns-behind-quikey-59eh)
 <!-- BLOG-POST-LIST:END -->
 
 
