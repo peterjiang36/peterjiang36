@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Commit Signing - GnuPG](https://dev.to/kuwv/commit-signing-gnupg-1pl4)
-- [Why I built ElysianDB](https://dev.to/taymour/why-i-built-elysiandb-2f5i)
-- [Configuring RapidAPI MCP Servers in VS Code Copilot](https://dev.to/0apocalypse0/configuring-rapidapi-mcp-servers-in-vs-code-copilot-3hoa)
-- [npm Security 2025: Why Provenance and Sigstore Change Everything](https://dev.to/dataformathub/npm-security-2025-why-provenance-and-sigstore-change-everything-2m7j)
+- [Introducing ProXPL: A Modern Programming Language Built from Scratch](https://dev.to/programmerkr/introducing-proxpl-a-modern-programming-language-built-from-scratch-81n)
+- [Day-13 Refactoring Ansible Playbooks into Roles 🚀](https://dev.to/jayanth_dasari_7/day-13-refactoring-ansible-playbooks-into-roles-5bcn)
+- [The Cost of Stopping When We Hit the Wall](https://dev.to/yoditdevn8n/the-cost-of-stopping-when-we-hit-the-wall-33le)
+- [Platform for Reporting Scams: Cyber Alerts🛡️](https://dev.to/r9n/platform-for-reporting-scams-cyber-alerts-49hl)
 <!-- BLOG-POST-LIST:END -->
 
 
