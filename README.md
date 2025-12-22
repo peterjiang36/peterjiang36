@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The US Tech Force just launched. It&#39;s title font is Canadian. And it gets worse.](https://dev.to/techieshark/the-us-tech-force-just-launched-its-title-font-is-canadian-and-it-gets-worse-3d9k)
-- [For added data security, you can use IAM authentication for RDS for any aws services or for any IAM users!
-This is a bit overhead to configure at first, but I find it very secure instead of sharing the master password.](https://dev.to/ashraf-minhaj/for-added-data-security-you-can-use-iam-authentication-for-rds-for-any-aws-services-or-for-any-iam-3fml)
-- [How Long Does It Take to Build a Design System Button? Before/After Comparison](https://dev.to/odada-o/how-long-does-it-take-to-build-a-design-system-button-beforeafter-comparison-1664)
-- [New CFTC and FDIC Leadership: How the U.S. Crypto Regulatory Technology Stack Will Be Restructured in 2026](https://dev.to/apnews/new-cftc-and-fdic-leadership-how-the-us-crypto-regulatory-technology-stack-will-be-restructured-8jo)
+- [Payment Gateway vs Payment Processor: What&#39;s the Difference?](https://dev.to/jimquote/payment-gateway-vs-payment-processor-whats-the-difference-5h6d)
+- [Glitch v1: An LLM with a personality, anxiety and a bit of attitude](https://dev.to/buzzpy/glitch-v1-an-llm-with-a-personality-anxiety-and-a-bit-of-attitude-4d34)
+- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything - Part 2](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-part-2-db5)
+- [❄️ frost-react: instant snowfall for React](https://dev.to/gimnathperera/frost-react-instant-snowfall-for-react-i9e)
 <!-- BLOG-POST-LIST:END -->
 
 
