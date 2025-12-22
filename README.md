@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Lies Developers Keep Telling Themselves &lpar;And Somehow Still Believe&rpar;](https://dev.to/sylwia-lask/7-lies-developers-keep-telling-themselves-and-somehow-still-believe-46nh)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-53fg)
-- [“I Am New on DEV.to – My Learning Journey Starts Here”](https://dev.to/olivia_smith_3c4bdf7b5bf2/i-am-new-on-devto-my-learning-journey-starts-here-18f3)
-- [UUID’s in Rails + SQLite shouldn’t be this hard &lpar;so I built a gem&rpar;](https://dev.to/bart-oz/uuids-in-rails-sqlite-shouldnt-be-this-hard-so-i-built-a-gem-210c)
+- [About Me - An Outreachy Blog](https://dev.to/giftcup/about-me-an-outreachy-blog-1k75)
+- [A Practical Guide to Prompt Engineering: 6 Essential Patterns Every Beginner Should Master](https://dev.to/zetao_qin_906c7471abc999c/a-practical-guide-to-prompt-engineering-6-essential-patterns-every-beginner-should-master-1g0h)
+- [Leadership Reinvented: How Joshua Moll’s Framework Shapes Mindset, Growth, and Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-reinvented-how-joshua-molls-framework-shapes-mindset-growth-and-self-mastery-45e3)
+- [Best AI Video Generators: Sora, Kling AI, and Google Veo](https://dev.to/digicarrom/best-ai-video-generators-sora-kling-ai-and-google-veo-477p)
 <!-- BLOG-POST-LIST:END -->
 
 
