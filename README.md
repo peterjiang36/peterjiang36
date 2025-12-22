@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
-- [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
-- [The &quot;Cache Handshake&quot;: How Laravel Events Control Next.js 16 ISR](https://dev.to/yabasha/the-cache-handshake-how-laravel-events-control-nextjs-16-isr-3n6b)
-- [AI Engineering: Advent of AI with goose Day 12](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-12-25cf)
+- [Why NestJS Hot Reload Does Not Work in Docker and How to Fix It Properly](https://dev.to/osalumense/why-nestjs-hot-reload-does-not-work-in-docker-and-how-to-fix-it-properly-4de4)
+- [Building a Serverless PDF Merger &amp; Editor using React and pdf-lib &lpar;No Backend!&rpar;](https://dev.to/opzozi/building-a-serverless-pdf-merger-editor-using-react-and-pdf-lib-no-backend-1f1l)
+- [&lpar;2&rpar;Creating the Pinnacle of Niche Software: The devcontainer](https://dev.to/sukkergris/2creating-the-pinnacle-of-niche-software-the-devcontainer-305l)
+- [How I Built a Stroke Capture System for an AI Drawing Game](https://dev.to/adzhydra/how-i-built-a-stroke-capture-system-for-an-ai-drawing-game-g44)
 <!-- BLOG-POST-LIST:END -->
 
 
