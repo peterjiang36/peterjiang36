@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Integration Work Becomes Dental Organizational Drag](https://dev.to/lake22traillady/when-integration-work-becomes-dental-organizational-drag-44kd)
-- [Hands-On TLS: Inspect Certificates, Verify PFS, and Build a Local HTTPS Server](https://dev.to/sehgalspandan/hands-on-tls-inspect-certificates-verify-pfs-and-build-a-local-https-server-55jd)
-- [Boost Developer Revenue: Exploring API Monetization with Monetzly](https://dev.to/monetzly/boost-developer-revenue-exploring-api-monetization-with-monetzly-2e3f)
-- [How to use Python&#39;s request library to retrieve data from API&#39;s](https://dev.to/robotwizard/how-to-use-pythons-request-library-to-retrieve-data-from-apis-2c6)
+- [What “Enough” Means in a Stable Money System](https://dev.to/luketaylor25/what-enough-means-in-a-stable-money-system-5676)
+- [7 Best Resources to Learn Mobile App Development](https://dev.to/stack_overflowed/7-best-resources-to-learn-mobile-app-development-4ai6)
+- [Why Money Stress Is a Lagging Indicator](https://dev.to/luketaylor25/why-money-stress-is-a-lagging-indicator-55ij)
+- [How Financial Systems Absorb Shocks Over Time](https://dev.to/luketaylor25/how-financial-systems-absorb-shocks-over-time-478i)
 <!-- BLOG-POST-LIST:END -->
 
 
