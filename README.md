@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Uniface 10.4 &amp; Informix: Decoding Error Messages 🔍](https://dev.to/f345345dfg/uniface-104-informix-decoding-error-messages-24e2)
-- [Can you recover a deleted Microsoft Entra Tenant?](https://dev.to/techielass/can-you-recover-a-deleted-microsoft-entra-tenant-1gin)
-- [From 3 Hours to 10 Minutes: How I Built DevFlow AI to Automate Technical Writing](https://dev.to/fracabu/from-3-hours-to-10-minutes-how-i-built-devflow-ai-to-automate-technical-writing-f01)
-- [Top 5 Reddit Marketing Agencies for B2B SaaS Companies](https://dev.to/parv_mittal_4127fbf643d56/top-5-reddit-marketing-agencies-for-b2b-saas-companies-4j8g)
+- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
+- [Using AI as beginner in Dev.](https://dev.to/precious_francismsongole/using-ai-as-beginner-in-dev-16nh)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-5ccp)
+- [Powerful LLMs Are Not the Problem — Using Them “Raw” Is A systems-engineering view for builders](https://dev.to/yuer/powerful-llms-are-not-the-problem-using-them-raw-is-a-systems-engineering-view-for-builders-3i2l)
 <!-- BLOG-POST-LIST:END -->
 
 
