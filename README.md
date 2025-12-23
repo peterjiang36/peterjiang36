@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring My Carry: Applying YAGNI to Physical Objects](https://dev.to/bestiprocom/refactoring-my-carry-applying-yagni-to-physical-objects-4585)
-- [MCP Isn&#39;t Hard, Here&#39;s the Easiest Beginner-Friendly MCP MASTERCLASS EVER 🤗 &lpar;PART 2&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-2-172n)
-- [Knip: The Ultimate Dead Code Detector for JavaScript &amp; TypeScript Projects](https://dev.to/ajmal_hasan/knip-the-ultimate-dead-code-detector-for-javascript-typescript-projects-3463)
-- [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
+- [C# Architecture Mastery — Testing Strategies in Clean Architecture &lpar;.NET&rpar; &lpar;Part 7&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-testing-strategies-in-clean-architecture-net-part-7-46oi)
+- [Can tools automate ingestion and chunking steps reliably?](https://dev.to/dowhatmatters/can-tools-automate-ingestion-and-chunking-steps-reliably-311n)
+- [C# Architecture Mastery — Clean Architecture vs Vertical Slice Architecture &lpar;Part 6&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-clean-architecture-vs-vertical-slice-architecture-part-6-48oi)
+- [A React Snowfall Effect with Physics](https://dev.to/hdcodedev/a-react-snowfall-effect-with-physics-1ia7)
 <!-- BLOG-POST-LIST:END -->
 
 
