@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)
-- [CinemaSins: Everything Wrong With Silent Night, Deadly Night In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-silent-night-deadly-night-in-16-minutes-or-less-hbk)
-- [How Independent Vendor Shops Operate on the Dark Web](https://dev.to/tor_bbb/how-independent-vendor-shops-operate-on-the-dark-web-12aj)
-- [Deploying Your AI/ML Models: A Practical Guide from Training to Production](https://dev.to/ajor-saha/deploying-your-aiml-models-a-practical-guide-from-training-to-production-2fg3)
+- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
+- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
+- [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
+- [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
 <!-- BLOG-POST-LIST:END -->
 
 
