@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
-- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
-- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
-- [Top 10 Web Development Companies in Indore](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-indore-1n5c)
+- [Uniface 10.4 &amp; Informix: Decoding Error Messages 🔍](https://dev.to/f345345dfg/uniface-104-informix-decoding-error-messages-24e2)
+- [Can you recover a deleted Microsoft Entra Tenant?](https://dev.to/techielass/can-you-recover-a-deleted-microsoft-entra-tenant-1gin)
+- [From 3 Hours to 10 Minutes: How I Built DevFlow AI to Automate Technical Writing](https://dev.to/fracabu/from-3-hours-to-10-minutes-how-i-built-devflow-ai-to-automate-technical-writing-f01)
+- [Top 5 Reddit Marketing Agencies for B2B SaaS Companies](https://dev.to/parv_mittal_4127fbf643d56/top-5-reddit-marketing-agencies-for-b2b-saas-companies-4j8g)
 <!-- BLOG-POST-LIST:END -->
 
 
