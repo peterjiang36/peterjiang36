@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What “Enough” Means in a Stable Money System](https://dev.to/luketaylor25/what-enough-means-in-a-stable-money-system-5676)
-- [7 Best Resources to Learn Mobile App Development](https://dev.to/stack_overflowed/7-best-resources-to-learn-mobile-app-development-4ai6)
-- [Why Money Stress Is a Lagging Indicator](https://dev.to/luketaylor25/why-money-stress-is-a-lagging-indicator-55ij)
-- [How Financial Systems Absorb Shocks Over Time](https://dev.to/luketaylor25/how-financial-systems-absorb-shocks-over-time-478i)
+- [Ringer Movies: ‘F1’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-f1-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-52o0)
+- [AI Category Recommendation System for Drupal 11 Using PHP and OpenAI](https://dev.to/albert_andrew_24878d43267/ai-category-recommendation-system-for-drupal-11-using-php-and-openai-57fm)
+- [From Hours of Editing to One Prompt: How SAM Audio Is Rewriting Creative Work](https://dev.to/aiwithapex/from-hours-of-editing-to-one-prompt-how-sam-audio-is-rewriting-creative-work-10ia)
+- [Routing, Load Balancing, and Failover in LLM Systems](https://dev.to/debmckinney/routing-load-balancing-and-failover-in-llm-systems-pn3)
 <!-- BLOG-POST-LIST:END -->
 
 
