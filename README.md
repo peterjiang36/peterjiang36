@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 12 Days of Christmas - Programmed vs. Compressed](https://dev.to/jberesford94/the-12-days-of-christmas-programmed-vs-compressed-cfd)
-- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
-- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
-- [I stopped using Excel: How I built an Enterprise-Grade Job Tracker with Spring Boot 3 &amp; Angular 17](https://dev.to/thughari/i-stopped-using-excel-how-i-built-an-enterprise-grade-job-tracker-with-spring-boot-3-angular-17-2085)
+- [AI Shot The Analyst &lpar;But He Did Not Shoot The Plumber&rpar;](https://dev.to/rawveg/ai-shot-the-analyst-but-he-did-not-shoot-the-plumber-24cm)
+- [A Practical Guide to Organizing an AWS Community Day &lpar;From Scratch&rpar;](https://dev.to/rufilboss/a-practical-guide-to-organizing-an-aws-community-day-from-scratch-1ao4)
+- [Vectoragent.io vs Traditional SEO Tools: The Future of Automated SEO Operations](https://dev.to/pay_perreel_ed6ea36719f4/vectoragentio-vs-traditional-seo-tools-the-future-of-automated-seo-operations-4i70)
+- [Getting Started with Python &lpar;Part 7&rpar;: Conditional Statements](https://dev.to/sdkfz181tiger/getting-started-with-python-part-7-conditional-statements-4e2i)
 <!-- BLOG-POST-LIST:END -->
 
 
