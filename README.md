@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
-- [Getting Started with Python &lpar;Part 10&rpar;: Using Functions](https://dev.to/sdkfz181tiger/getting-started-with-python-part-10-using-functions-5091)
-- [How to Change a Column Datatype Without Affecting Existing Users Postgresql](https://dev.to/israelojiefoh/how-to-change-a-column-datatype-without-affecting-existing-users-postgresql-4k15)
-- [Monoliths for Discovery, Microservices for Optimization](https://dev.to/stevenstuartm/monoliths-for-discovery-microservices-for-optimization-5d9k)
+- [Llegó MFA con Spring Security 7](https://dev.to/fdherrera/llego-mfa-con-spring-security-7-m6e)
+- [When Documentation Fails: Brute-Force Specification Discovery with AI](https://dev.to/synthaicode_commander/when-documentation-fails-brute-force-specification-discovery-with-ai-4gmo)
+- [Securing PII in Data Lakes: AWS Lake Formation Access Control](https://dev.to/aws-builders/securing-pii-in-data-lakes-aws-lake-formation-access-control-18ef)
+- [Ethereum Slips as DeFi Narrative Returns with a New Token Stealing the Spotlight](https://dev.to/ecryptograph/ethereum-slips-as-defi-narrative-returns-with-a-new-token-stealing-the-spotlight-56nf)
 <!-- BLOG-POST-LIST:END -->
 
 
