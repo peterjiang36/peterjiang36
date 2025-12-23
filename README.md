@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
-- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
-- [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
-- [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
+- [Refactoring My Carry: Applying YAGNI to Physical Objects](https://dev.to/bestiprocom/refactoring-my-carry-applying-yagni-to-physical-objects-4585)
+- [MCP Isn&#39;t Hard, Here&#39;s the Easiest Beginner-Friendly MCP MASTERCLASS EVER 🤗 &lpar;PART 2&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-2-172n)
+- [Knip: The Ultimate Dead Code Detector for JavaScript &amp; TypeScript Projects](https://dev.to/ajmal_hasan/knip-the-ultimate-dead-code-detector-for-javascript-typescript-projects-3463)
+- [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
 <!-- BLOG-POST-LIST:END -->
 
 
