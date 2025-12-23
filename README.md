@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Ship Regulated SaaS Monthly Without Burning Out QA](https://dev.to/karthik_bodducherla_bc1b9/how-we-ship-regulated-saas-monthly-without-burning-out-qa-3lbi)
-- [Failing an Interview Is Not the End](https://dev.to/amoreno/failing-an-interview-is-not-the-end-193o)
-- [What Is the Difference Between @ControllerAdvice and @RestControllerAdvice?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-controlleradvice-and-restcontrolleradvice-3jf3)
-- [GXD v0.0.0a2: Major Updates and New Features](https://dev.to/hejhdiss/gxd-v000a2-major-updates-and-new-features-4gk9)
+- [When Integration Work Becomes Dental Organizational Drag](https://dev.to/lake22traillady/when-integration-work-becomes-dental-organizational-drag-44kd)
+- [Hands-On TLS: Inspect Certificates, Verify PFS, and Build a Local HTTPS Server](https://dev.to/sehgalspandan/hands-on-tls-inspect-certificates-verify-pfs-and-build-a-local-https-server-55jd)
+- [Boost Developer Revenue: Exploring API Monetization with Monetzly](https://dev.to/monetzly/boost-developer-revenue-exploring-api-monetization-with-monetzly-2e3f)
+- [How to use Python&#39;s request library to retrieve data from API&#39;s](https://dev.to/robotwizard/how-to-use-pythons-request-library-to-retrieve-data-from-apis-2c6)
 <!-- BLOG-POST-LIST:END -->
 
 
