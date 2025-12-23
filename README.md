@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Shot The Analyst &lpar;But He Did Not Shoot The Plumber&rpar;](https://dev.to/rawveg/ai-shot-the-analyst-but-he-did-not-shoot-the-plumber-24cm)
-- [A Practical Guide to Organizing an AWS Community Day &lpar;From Scratch&rpar;](https://dev.to/rufilboss/a-practical-guide-to-organizing-an-aws-community-day-from-scratch-1ao4)
-- [Vectoragent.io vs Traditional SEO Tools: The Future of Automated SEO Operations](https://dev.to/pay_perreel_ed6ea36719f4/vectoragentio-vs-traditional-seo-tools-the-future-of-automated-seo-operations-4i70)
-- [Getting Started with Python &lpar;Part 7&rpar;: Conditional Statements](https://dev.to/sdkfz181tiger/getting-started-with-python-part-7-conditional-statements-4e2i)
+- [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
+- [Getting Started with Python &lpar;Part 10&rpar;: Using Functions](https://dev.to/sdkfz181tiger/getting-started-with-python-part-10-using-functions-5091)
+- [How to Change a Column Datatype Without Affecting Existing Users Postgresql](https://dev.to/israelojiefoh/how-to-change-a-column-datatype-without-affecting-existing-users-postgresql-4k15)
+- [Monoliths for Discovery, Microservices for Optimization](https://dev.to/stevenstuartm/monoliths-for-discovery-microservices-for-optimization-5d9k)
 <!-- BLOG-POST-LIST:END -->
 
 
