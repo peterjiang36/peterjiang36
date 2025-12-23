@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
-- [Using AI as beginner in Dev.](https://dev.to/precious_francismsongole/using-ai-as-beginner-in-dev-16nh)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-5ccp)
-- [Powerful LLMs Are Not the Problem — Using Them “Raw” Is A systems-engineering view for builders](https://dev.to/yuer/powerful-llms-are-not-the-problem-using-them-raw-is-a-systems-engineering-view-for-builders-3i2l)
+- [Pseudo-localization for Automated i18n Testing](https://dev.to/anton_antonov/pseudo-localization-for-automated-i18n-testing-31)
+- [Install KVM on Ubuntu 24.04](https://dev.to/rosgluk/install-kvm-on-ubuntu-2404-n06)
+- [Mr Sunday Movies: Red One &lpar;a bad movie&rpar; Christmas Commentary](https://dev.to/popcorn_movies/mr-sunday-movies-red-one-a-bad-movie-christmas-commentary-506g)
+- [How Designers and Developers Integrate Z-Image.ai into Creative Workflows](https://dev.to/aivideotool/how-designers-and-developers-integrate-z-imageai-into-creative-workflows-5hfe)
 <!-- BLOG-POST-LIST:END -->
 
 
