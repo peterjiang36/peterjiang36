@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Prevent Ads from Interrupting Critical User Workflows](https://dev.to/pradeep_kumar_fc55a4d876b/how-we-prevent-ads-from-interrupting-critical-user-workflows-30d7)
-- [CI/CD Is Not Only for the Cloud: Building a CI/CD Pipeline for Shared Hosting Using GitHub Actions](https://dev.to/snnajieze/cicd-is-not-only-for-the-cloud-building-a-cicd-pipeline-for-shared-hosting-using-github-actions-4c4h)
-- [Creating EC2 Instance](https://dev.to/daniel_shaibu/creating-ec2-instance-10g1)
-- [What I Learned Building with GitHub Copilot as a Java Developer](https://dev.to/eddybenchek/what-i-learned-building-with-github-copilot-as-a-java-developer-9bk)
+- [SwiftUI Transactions &amp; Update Propagation](https://dev.to/sebastienlato/swiftui-transactions-update-propagation-31kg)
+- [Building an Apache Iceberg Log Analytics Platform with S3 Tables and Amazon Data Firehose](https://dev.to/aws-builders/building-an-apache-iceberg-log-analytics-platform-with-s3-tables-and-amazon-data-firehose-2i6)
+- [AI: The Real 10x Productivity Hack](https://dev.to/thinkaddict/ai-the-real-10x-productivity-hack-cnl)
+- [AI Engineering: Advent of AI with goose Day 15 - AI Multi Platform Recipe System](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-15-ai-multi-platform-recipe-system-564d)
 <!-- BLOG-POST-LIST:END -->
 
 
