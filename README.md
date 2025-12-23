@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor — My Year in Code 2025](https://dev.to/behindthedev/cursor-my-year-in-code-2025-9o4)
-- [Singapore vibes together at the new Google DeepMind office](https://dev.to/googleai/singapore-vibes-together-at-the-new-google-deepmind-office-28ea)
-- [From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”](https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do)
-- [Designing Parts That Actually Print on Cheap Hardware](https://dev.to/numbpill3d/designing-parts-that-actually-print-on-cheap-hardware-2ik2)
+- [NVIDIA Drops GTX 900/1000 Support in 590 Driver - How to Fix on Arch Linux?](https://dev.to/hopsayer/nvidia-drops-gtx-9001000-support-in-590-driver-how-to-fix-on-arch-linux-1175)
+- [Rust Slices](https://dev.to/lexnwimue/rust-slices-1p7f)
+- [Where we&#39;re going, we don&#39;t need chatbots: introducing the Antigravity IDE 🚀](https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k)
+- [Fitness is a complex numbers game](https://dev.to/bibimbop123/fitness-is-a-complex-numbers-game-2ijj)
 <!-- BLOG-POST-LIST:END -->
 
 
