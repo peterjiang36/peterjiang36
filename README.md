@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Transactions &amp; Update Propagation](https://dev.to/sebastienlato/swiftui-transactions-update-propagation-31kg)
-- [Building an Apache Iceberg Log Analytics Platform with S3 Tables and Amazon Data Firehose](https://dev.to/aws-builders/building-an-apache-iceberg-log-analytics-platform-with-s3-tables-and-amazon-data-firehose-2i6)
-- [AI: The Real 10x Productivity Hack](https://dev.to/thinkaddict/ai-the-real-10x-productivity-hack-cnl)
-- [AI Engineering: Advent of AI with goose Day 15 - AI Multi Platform Recipe System](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-15-ai-multi-platform-recipe-system-564d)
+- [Cursor — My Year in Code 2025](https://dev.to/behindthedev/cursor-my-year-in-code-2025-9o4)
+- [Singapore vibes together at the new Google DeepMind office](https://dev.to/googleai/singapore-vibes-together-at-the-new-google-deepmind-office-28ea)
+- [From the Musk Compensation Case to DAO Governance — An Audit Report of a Traditional World “Off-Chain Smart Contract”](https://dev.to/apnews/from-the-musk-compensation-case-to-dao-governance-an-audit-report-of-a-traditional-world-13do)
+- [Designing Parts That Actually Print on Cheap Hardware](https://dev.to/numbpill3d/designing-parts-that-actually-print-on-cheap-hardware-2ik2)
 <!-- BLOG-POST-LIST:END -->
 
 
