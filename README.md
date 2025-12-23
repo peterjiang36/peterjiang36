@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘F1’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-f1-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-52o0)
-- [AI Category Recommendation System for Drupal 11 Using PHP and OpenAI](https://dev.to/albert_andrew_24878d43267/ai-category-recommendation-system-for-drupal-11-using-php-and-openai-57fm)
-- [From Hours of Editing to One Prompt: How SAM Audio Is Rewriting Creative Work](https://dev.to/aiwithapex/from-hours-of-editing-to-one-prompt-how-sam-audio-is-rewriting-creative-work-10ia)
-- [Routing, Load Balancing, and Failover in LLM Systems](https://dev.to/debmckinney/routing-load-balancing-and-failover-in-llm-systems-pn3)
+- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
+- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
+- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
+- [Top 10 Web Development Companies in Indore](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-indore-1n5c)
 <!-- BLOG-POST-LIST:END -->
 
 
