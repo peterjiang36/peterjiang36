@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA Drops GTX 900/1000 Support in 590 Driver - How to Fix on Arch Linux?](https://dev.to/hopsayer/nvidia-drops-gtx-9001000-support-in-590-driver-how-to-fix-on-arch-linux-1175)
-- [Rust Slices](https://dev.to/lexnwimue/rust-slices-1p7f)
-- [Where we&#39;re going, we don&#39;t need chatbots: introducing the Antigravity IDE 🚀](https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k)
-- [Fitness is a complex numbers game](https://dev.to/bibimbop123/fitness-is-a-complex-numbers-game-2ijj)
+- [How We Ship Regulated SaaS Monthly Without Burning Out QA](https://dev.to/karthik_bodducherla_bc1b9/how-we-ship-regulated-saas-monthly-without-burning-out-qa-3lbi)
+- [Failing an Interview Is Not the End](https://dev.to/amoreno/failing-an-interview-is-not-the-end-193o)
+- [What Is the Difference Between @ControllerAdvice and @RestControllerAdvice?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-controlleradvice-and-restcontrolleradvice-3jf3)
+- [GXD v0.0.0a2: Major Updates and New Features](https://dev.to/hejhdiss/gxd-v000a2-major-updates-and-new-features-4gk9)
 <!-- BLOG-POST-LIST:END -->
 
 
