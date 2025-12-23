@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Architecture Mastery — Testing Strategies in Clean Architecture &lpar;.NET&rpar; &lpar;Part 7&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-testing-strategies-in-clean-architecture-net-part-7-46oi)
-- [Can tools automate ingestion and chunking steps reliably?](https://dev.to/dowhatmatters/can-tools-automate-ingestion-and-chunking-steps-reliably-311n)
-- [C# Architecture Mastery — Clean Architecture vs Vertical Slice Architecture &lpar;Part 6&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-clean-architecture-vs-vertical-slice-architecture-part-6-48oi)
-- [A React Snowfall Effect with Physics](https://dev.to/hdcodedev/a-react-snowfall-effect-with-physics-1ia7)
+- [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://dev.to/gounthar/adding-risc-v-support-to-armbian-imager-a-tale-of-qemu-tauri-and-deja-vu-18nl)
+- [Ethereum-Solidity Quiz Q2: What is a proxy in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q2-what-is-a-proxy-in-solidity-4cg6)
+- [Testing shadcn/ui components with TWD](https://dev.to/kevinccbsg/testing-shadcnui-components-with-twd-259a)
+- [Day 24.Setting Up an Application Load Balancer for an EC2 Instance](https://dev.to/thukhakyawe_cloud/day-24setting-up-an-application-load-balancer-for-an-ec2-instance-1n2f)
 <!-- BLOG-POST-LIST:END -->
 
 
