@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Llegó MFA con Spring Security 7](https://dev.to/fdherrera/llego-mfa-con-spring-security-7-m6e)
-- [When Documentation Fails: Brute-Force Specification Discovery with AI](https://dev.to/synthaicode_commander/when-documentation-fails-brute-force-specification-discovery-with-ai-4gmo)
-- [Securing PII in Data Lakes: AWS Lake Formation Access Control](https://dev.to/aws-builders/securing-pii-in-data-lakes-aws-lake-formation-access-control-18ef)
-- [Ethereum Slips as DeFi Narrative Returns with a New Token Stealing the Spotlight](https://dev.to/ecryptograph/ethereum-slips-as-defi-narrative-returns-with-a-new-token-stealing-the-spotlight-56nf)
+- [Turn Claude Code into a Fullstack web app expert 🔌](https://dev.to/wasp/turn-claude-code-into-a-fullstack-web-app-expert-1hbk)
+- [Title: Building a &quot;Smart&quot; Markdown Note-Taker with Next.js 15 and OpenAI](https://dev.to/abhishek_mishra_39244395e/title-building-a-smart-markdown-note-taker-with-nextjs-15-and-openai-8d2)
+- [From Chaos to Order in the Frontend](https://dev.to/iagrekhovfronted/from-chaos-to-order-in-the-frontend-31np)
+- [January 26: MSCI May Drop MicroStrategy — What It Reveals About Investor Mindsets in Crypto](https://dev.to/bitnet4ever/january-26-msci-may-drop-microstrategy-what-it-reveals-about-investor-mindsets-in-crypto-2bmm)
 <!-- BLOG-POST-LIST:END -->
 
 
