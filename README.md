@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agent is Living in the Past &lpar;And How to Fix It&rpar; 🚀](https://dev.to/badmonster0/why-your-ai-agent-is-living-in-the-past-and-how-to-fix-it-563p)
-- [Prompt Injection: The Breach We Can&#39;t Patch](https://dev.to/aiservices/prompt-injection-the-breach-we-cant-patch-57mm)
-- [Augmentation ...](https://dev.to/tvatdci/augmentation--9f1)
-- [What is the Laplace Transform?](https://dev.to/obinexusofficial/what-is-the-laplace-transform-3nf1)
+- [Developer Communities &lpar;JavaScript, TypeScript&rpar;](https://dev.to/lucaspereiradesouzat/developer-communities-javascript-typescript-2fk7)
+- [Comunidades de desenvolvedores &lpar;JavaScript,TypeScript&rpar;](https://dev.to/lucaspereiradesouzat/comunidades-de-desenvolvedores-javascripttypescript-43l6)
+- [SwiftUI View Diffing &amp; Reconciliation](https://dev.to/sebastienlato/swiftui-view-diffing-reconciliation-4hh4)
+- [# The Counter-Intuitive Reddit Marketing Hack That Changed My Approach](https://dev.to/short_playskits_ab152535/-the-counter-intuitive-reddit-marketing-hack-that-changed-my-approach-25il)
 <!-- BLOG-POST-LIST:END -->
 
 
