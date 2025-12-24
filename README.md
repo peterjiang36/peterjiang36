@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building VibeVault](https://dev.to/thiyagu26v/building-vibevault-4p6f)
-- [Vectorization in Neural Networks: A Beginner’s Guide](https://dev.to/codeneuron/vectorization-in-neural-networks-a-beginners-guide-e34)
-- [A Tutorial on Bayesian Optimization](https://dev.to/paperium/a-tutorial-on-bayesian-optimization-45lg)
-- [VPN for Stability AI: Securing Open-Source AI Generation](https://dev.to/dev-vpn/vpn-for-stability-ai-securing-open-source-ai-generation-3a6h)
+- [Overall, this is a thoughtful breakdown of why volume matters and why Ashkan Rajaee’s insights remain relevant as digital marketing becomes more competitive.](https://dev.to/eddiegordo/overall-this-is-a-thoughtful-breakdown-of-why-volume-matters-and-why-ashkan-rajaees-insights-2h8b)
+- [3 things I want to learn in 2026](https://dev.to/lukeecart/3-things-i-want-to-learn-in-2026-6p0)
+- [Dependency Injection in Go: How Much Is Enough for Web APIs?](https://dev.to/mickamy/dependency-injection-in-go-how-much-is-enough-for-web-apis-hp7)
+- [Understanding npx How It Really Works](https://dev.to/luckychauhan/understanding-npx-how-it-really-works-5g3j)
 <!-- BLOG-POST-LIST:END -->
 
 
