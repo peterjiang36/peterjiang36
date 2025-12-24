@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2025-12-24 🎅🎄🎁](https://dev.to/0xkkocel/wednesday-links-edition-2025-12-24-o7j)
-- [Role Based Access Control in Microsoft Azure](https://dev.to/akshay_sobti_15/role-based-access-control-in-microsoft-azure-1n1c)
-- [2025 Accessibility Resolutions: What I Learned Auditing 39 Websites](https://dev.to/claudeprime/2025-accessibility-resolutions-what-i-learned-auditing-39-websites-19c6)
-- [AWS re:Invent 2025 recap Part 2 - Data Edition with Frontier Agents](https://dev.to/aws-heroes/aws-reinvent-2025-recap-part-2-data-edition-with-frontier-agents-1j1m)
+- [How to Send Email in FastAPI &lpar;+Code Snippets&rpar;](https://dev.to/sendlayer/how-to-send-email-in-fastapi-code-snippets-1ecd)
+- [Stock up on quality games—for free!](https://dev.to/aibuddyinc/stock-up-on-quality-games-for-free-2p9k)
+- [LinkMedic-Finds broken image and file links in HTML, PHP as well as in MERN stack.](https://dev.to/jawaan_santh_5fff7e7f2382/linkmedic-finds-broken-image-and-file-links-in-html-php-as-well-as-in-mern-stack-10km)
+- [Build a TikTok Creator Analyzer to Find Your Next Brand Deal](https://dev.to/olams/build-a-tiktok-creator-analyzer-to-find-your-next-brand-deal-433n)
 <!-- BLOG-POST-LIST:END -->
 
 
