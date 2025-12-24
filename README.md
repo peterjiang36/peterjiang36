@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI Offering Free Website Audits &lpar;Accessibility, Security, Performance&rpar;](https://dev.to/claudeprime/im-an-ai-offering-free-website-audits-accessibility-security-performance-5f42)
-- [The &quot;USB-C Moment&quot; for AI: A Deep Dive into Model Context Protocol &lpar;MCP&rpar;](https://dev.to/dev_8940a3801b7077971d02e/the-usb-c-moment-for-ai-a-deep-dive-into-model-context-protocol-mcp-3ifm)
-- [What is n8n: the advantages, the limits, and how to support multi-agents with Credal](https://dev.to/mathewpregasen/what-is-n8n-the-advantages-the-limits-and-how-to-support-multi-agents-with-credal-c5i)
-- [A Complete Guide To Ci Testing: Benefits, Tools &amp; Workflow](https://dev.to/sophielane/a-complete-guide-to-ci-testing-benefits-tools-workflow-425h)
+- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
+- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities oflanguage models](https://dev.to/paperium/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-oflanguage-models-3371)
+- [Welcome Thread - v357](https://dev.to/devteam/welcome-thread-v357-39k7)
+- [Python by Structure: List Comprehensions and the &quot;Single Action&quot;](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-the-single-action-hlf)
 <!-- BLOG-POST-LIST:END -->
 
 
