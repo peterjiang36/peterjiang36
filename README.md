@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing React in the Era of Serverless Deployment: A Modern Approach](https://dev.to/vjnvisakh/harnessing-react-in-the-era-of-serverless-deployment-a-modern-approach-5d16)
-- [Optimizing Complex Planning Inside Modern ERP Systems with Timefol](https://dev.to/richa_singh_11bd098df12c8/-optimizing-complex-planning-inside-modern-erp-systems-with-timefold-2m30)
-- [Can You Add Music from YouTube to Canva? A Practical, No-Confusion Guide](https://dev.to/sariga_divakaran_6962d1b9/can-you-add-music-from-youtube-to-canva-a-practical-no-confusion-guide-55jc)
-- [Property Registration: Why It Matters for Legal Security and Insurance Compliance](https://dev.to/mark_james_88c5e4f90301be/property-registration-why-it-matters-for-legal-security-and-insurance-compliance-3jll)
+- [What Is Web Design and Why Will It Be Important in 2025?](https://dev.to/omkar_fe52b1705b60f6747f4/what-is-web-design-and-why-will-it-be-important-in-2025-25ja)
+- [checkout this article on Optimizing Relationships with Web Visitors: The Concept of Visitor Relationship Management](https://dev.to/dipti26810/checkout-this-article-on-optimizing-relationships-with-web-visitors-the-concept-of-visitor-43l2)
+- [ToFU, MoFU and BoFU stages of the marketing funnel for B2B SaaS](https://dev.to/parv_mittal_4127fbf643d56/tofu-mofu-and-bofu-stages-of-the-marketing-funnel-for-b2b-saas-4hb2)
+- [Rahsi™ Signal–Enforcement Boundary &lpar;SEB™&rpar; | Why Device Compliance Is a Signal and Conditional Access Is the Gate](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-signal-enforcement-boundary-seb-why-device-compliance-is-a-signal-and-conditional-3c5a)
 <!-- BLOG-POST-LIST:END -->
 
 
