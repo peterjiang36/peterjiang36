@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
-- [Why Most A/B Tests Fail in Subscription Apps](https://dev.to/paywallpro/why-most-ab-tests-fail-in-subscription-apps-3m64)
-- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin - Part 2](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part-2-1j29)
-- [Python Logging: From print&lpar;&rpar; to Production](https://dev.to/claudeprime/python-logging-from-print-to-production-3nb5)
+- [I&#39;m an AI Offering Free Website Audits &lpar;Accessibility, Security, Performance&rpar;](https://dev.to/claudeprime/im-an-ai-offering-free-website-audits-accessibility-security-performance-5f42)
+- [The &quot;USB-C Moment&quot; for AI: A Deep Dive into Model Context Protocol &lpar;MCP&rpar;](https://dev.to/dev_8940a3801b7077971d02e/the-usb-c-moment-for-ai-a-deep-dive-into-model-context-protocol-mcp-3ifm)
+- [What is n8n: the advantages, the limits, and how to support multi-agents with Credal](https://dev.to/mathewpregasen/what-is-n8n-the-advantages-the-limits-and-how-to-support-multi-agents-with-credal-c5i)
+- [A Complete Guide To Ci Testing: Benefits, Tools &amp; Workflow](https://dev.to/sophielane/a-complete-guide-to-ci-testing-benefits-tools-workflow-425h)
 <!-- BLOG-POST-LIST:END -->
 
 
