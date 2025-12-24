@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
-- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
-- [Top 10 WordPress Security Mistakes You&#39;re Probably Making in 2025](https://dev.to/mhaque88cs/top-10-wordpress-security-mistakes-youre-probably-making-in-2025-1g8g)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 10&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-10-playing-sound-effects-500d)
+- [Tornado Cash Comeback: New Contracts And Changes](https://dev.to/stablecoinstrategist/tornado-cash-comeback-new-contracts-and-changes-32fn)
+- [Storing Sensitive Information in DynamoDB with KMS](https://dev.to/boringcontributor/storing-sensitive-information-in-dynamodb-with-kms-510k)
+- [Bhakti Marga Erklärt 7 Wege, Wie Hingabe Das Spirituelle Wachstum Fördert](https://dev.to/bhaktimarga/bhakti-marga-erklart-7-wege-wie-hingabe-das-spirituelle-wachstum-fordert-2ffn)
+- [Bluetooth Paired But No Sound: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/bluetooth-paired-but-no-sound-complete-fix-guide-2025-1fl4)
 <!-- BLOG-POST-LIST:END -->
 
 
