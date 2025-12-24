@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
-- [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
-- [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
-- [The Future of AI in Software Development: 2026 and Beyond](https://dev.to/mahdi_benrhouma_fe1c6005/the-future-of-ai-in-software-development-2026-and-beyond-5018)
+- [Why Your AI Agent is Living in the Past &lpar;And How to Fix It&rpar; 🚀](https://dev.to/badmonster0/why-your-ai-agent-is-living-in-the-past-and-how-to-fix-it-563p)
+- [Prompt Injection: The Breach We Can&#39;t Patch](https://dev.to/aiservices/prompt-injection-the-breach-we-cant-patch-57mm)
+- [Augmentation ...](https://dev.to/tvatdci/augmentation--9f1)
+- [What is the Laplace Transform?](https://dev.to/obinexusofficial/what-is-the-laplace-transform-3nf1)
 <!-- BLOG-POST-LIST:END -->
 
 
