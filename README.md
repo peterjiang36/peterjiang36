@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Gradient Generator](https://dev.to/arsalanmeee/css-gradient-generator-n7p)
-- [Why you should always check licenses in your PHP project](https://dev.to/robertobutti/why-you-should-always-check-licenses-in-your-php-project-3kon)
-- [Contextual Code Review](https://dev.to/synthaicode_commander/contextual-code-review-2k8b)
-- [Why AI Governance Must Live in IT, Not Just Legal](https://dev.to/rushikesh_langale_42ac365/why-ai-governance-must-live-in-it-not-just-legal-1cjk)
+- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
+- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
+- [FinOps 101: What It Is and Why Cloud Teams Can’t Ignore It](https://dev.to/rushikesh_langale_42ac365/finops-101-what-it-is-and-why-cloud-teams-cant-ignore-it-1h3g)
+- [[Boost]](https://dev.to/muhamadsyafii/-1124)
 <!-- BLOG-POST-LIST:END -->
 
 
