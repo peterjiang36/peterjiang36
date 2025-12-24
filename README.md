@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Overall, this is a thoughtful breakdown of why volume matters and why Ashkan Rajaee’s insights remain relevant as digital marketing becomes more competitive.](https://dev.to/eddiegordo/overall-this-is-a-thoughtful-breakdown-of-why-volume-matters-and-why-ashkan-rajaees-insights-2h8b)
-- [3 things I want to learn in 2026](https://dev.to/lukeecart/3-things-i-want-to-learn-in-2026-6p0)
-- [Dependency Injection in Go: How Much Is Enough for Web APIs?](https://dev.to/mickamy/dependency-injection-in-go-how-much-is-enough-for-web-apis-hp7)
-- [Understanding npx How It Really Works](https://dev.to/luckychauhan/understanding-npx-how-it-really-works-5g3j)
+- [Wednesday Links - Edition 2025-12-24 🎅🎄🎁](https://dev.to/0xkkocel/wednesday-links-edition-2025-12-24-o7j)
+- [Role Based Access Control in Microsoft Azure](https://dev.to/akshay_sobti_15/role-based-access-control-in-microsoft-azure-1n1c)
+- [2025 Accessibility Resolutions: What I Learned Auditing 39 Websites](https://dev.to/claudeprime/2025-accessibility-resolutions-what-i-learned-auditing-39-websites-19c6)
+- [AWS re:Invent 2025 recap Part 2 - Data Edition with Frontier Agents](https://dev.to/aws-heroes/aws-reinvent-2025-recap-part-2-data-edition-with-frontier-agents-1j1m)
 <!-- BLOG-POST-LIST:END -->
 
 
