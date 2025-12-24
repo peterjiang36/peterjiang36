@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-3001)
-- [SwiftUI Gesture System Internals](https://dev.to/sebastienlato/swiftui-gesture-system-internals-1j6b)
-- [Day 82 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-82-of-100-days-dsa-coding-challenge-1n0l)
-- [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
+- [Optimize Your Prompts by Using Shorter Synonyms With Google AI Studio](https://dev.to/fedtti/optimize-your-prompts-by-using-shorter-synonyms-with-google-ai-studio-30lk)
+- [[Boost]](https://dev.to/david_bussell14/-dgl)
+- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
+- [Why We Built FlowSynx — The Story Behind the FlowSynx](https://dev.to/flowsynx/why-we-built-flowsynx-the-story-behind-the-flowsynx-5769)
 <!-- BLOG-POST-LIST:END -->
 
 
