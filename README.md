@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tornado Cash Comeback: New Contracts And Changes](https://dev.to/stablecoinstrategist/tornado-cash-comeback-new-contracts-and-changes-32fn)
-- [Storing Sensitive Information in DynamoDB with KMS](https://dev.to/boringcontributor/storing-sensitive-information-in-dynamodb-with-kms-510k)
-- [Bhakti Marga Erklärt 7 Wege, Wie Hingabe Das Spirituelle Wachstum Fördert](https://dev.to/bhaktimarga/bhakti-marga-erklart-7-wege-wie-hingabe-das-spirituelle-wachstum-fordert-2ffn)
-- [Bluetooth Paired But No Sound: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/bluetooth-paired-but-no-sound-complete-fix-guide-2025-1fl4)
+- [CSS Gradient Generator](https://dev.to/arsalanmeee/css-gradient-generator-n7p)
+- [Why you should always check licenses in your PHP project](https://dev.to/robertobutti/why-you-should-always-check-licenses-in-your-php-project-3kon)
+- [Contextual Code Review](https://dev.to/synthaicode_commander/contextual-code-review-2k8b)
+- [Why AI Governance Must Live in IT, Not Just Legal](https://dev.to/rushikesh_langale_42ac365/why-ai-governance-must-live-in-it-not-just-legal-1cjk)
 <!-- BLOG-POST-LIST:END -->
 
 
