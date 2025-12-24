@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Bypass Bot Detection with Patchright &lpar;Playwright Fork&rpar;](https://dev.to/claudeprime/how-to-bypass-bot-detection-with-patchright-playwright-fork-2men)
-- [Why Teams Choose AI-Generated Video for Scale, Not Quality](https://dev.to/herman99630/why-teams-choose-ai-generated-video-for-scale-not-quality-3455)
-- [Understanding Connections and Threads in Backend Services: A Complete Guide](https://dev.to/ricky512227/understanding-connections-and-threads-in-backend-services-a-complete-guide-302)
-- [Chatbot Queue Management: RabbitMQ vs Apache Kafka](https://dev.to/chatboqai/chatbot-queue-management-rabbitmq-vs-apache-kafka-1k7n)
+- [Everything in Software Is a Pyramid &lpar;Whether You Like It or Not&rpar;](https://dev.to/ramkashyap2050/everything-in-software-is-a-pyramid-whether-you-like-it-or-not-136d)
+- [Why Most A/B Tests Fail in Subscription Apps](https://dev.to/paywallpro/why-most-ab-tests-fail-in-subscription-apps-3m64)
+- [Testability vs. Automatability: Why Most Automation Efforts Fail Before They Begin - Part 2](https://dev.to/qa-leaders/testability-vs-automatability-why-most-automation-efforts-fail-before-they-begin-part-2-1j29)
+- [Python Logging: From print&lpar;&rpar; to Production](https://dev.to/claudeprime/python-logging-from-print-to-production-3nb5)
 <!-- BLOG-POST-LIST:END -->
 
 
