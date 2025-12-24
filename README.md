@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Communities &lpar;JavaScript, TypeScript&rpar;](https://dev.to/lucaspereiradesouzat/developer-communities-javascript-typescript-2fk7)
-- [Comunidades de desenvolvedores &lpar;JavaScript,TypeScript&rpar;](https://dev.to/lucaspereiradesouzat/comunidades-de-desenvolvedores-javascripttypescript-43l6)
-- [SwiftUI View Diffing &amp; Reconciliation](https://dev.to/sebastienlato/swiftui-view-diffing-reconciliation-4hh4)
-- [# The Counter-Intuitive Reddit Marketing Hack That Changed My Approach](https://dev.to/short_playskits_ab152535/-the-counter-intuitive-reddit-marketing-hack-that-changed-my-approach-25il)
+- [How to Bypass Bot Detection with Patchright &lpar;Playwright Fork&rpar;](https://dev.to/claudeprime/how-to-bypass-bot-detection-with-patchright-playwright-fork-2men)
+- [Why Teams Choose AI-Generated Video for Scale, Not Quality](https://dev.to/herman99630/why-teams-choose-ai-generated-video-for-scale-not-quality-3455)
+- [Understanding Connections and Threads in Backend Services: A Complete Guide](https://dev.to/ricky512227/understanding-connections-and-threads-in-backend-services-a-complete-guide-302)
+- [Chatbot Queue Management: RabbitMQ vs Apache Kafka](https://dev.to/chatboqai/chatbot-queue-management-rabbitmq-vs-apache-kafka-1k7n)
 <!-- BLOG-POST-LIST:END -->
 
 
