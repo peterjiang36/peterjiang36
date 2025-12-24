@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Bootstrap in a React Project &lpar;Beginner Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
-- [Does ChatGPT now allow](https://dev.to/anna001/does-chatgpt-now-allow-5fd5)
-- [Running Regression Analysis with KDiff &lpar;Step-by-Step Demo&rpar;](https://dev.to/kavita_kavia/running-regression-analysis-with-kdiff-step-by-step-demo-2nkp)
-- [Tried my first article with for the current situation I faced 😊](https://dev.to/reubenwedson/tried-my-first-article-with-for-the-current-situation-i-faced-26k2)
+- [Day-15 From &quot;It Works on My Machine&quot; to Automation: Learning Jenkins and Docker](https://dev.to/jayanth_dasari_7/day-15-from-it-works-on-my-machine-to-automation-learning-jenkins-and-docker-1kij)
+- [I Replaced My Side Project Backend with AI — Here’s What Broke First](https://dev.to/tanisha_saxena_6ee4977663/i-replaced-my-side-project-backend-with-ai-heres-what-broke-first-1egn)
+- [Navigating the New AI Epoch: DeepMind’s Strategy in the Race to AGI](https://dev.to/marrmorgan/navigating-the-new-ai-epoch-deepminds-strategy-in-the-race-to-agi-58i2)
+- [Supply Chain Security in PHP Projects](https://dev.to/dobrenteiistvan/supply-chain-security-in-php-projects-10p4)
 <!-- BLOG-POST-LIST:END -->
 
 
