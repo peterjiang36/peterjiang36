@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Hidden Fields: Modern CSRF Protection Without Tokens](https://dev.to/jsgurujobs/goodbye-hidden-fields-modern-csrf-protection-without-tokens-4pam)
-- [CinemaSins: Everything Wrong With Red One In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-red-one-in-18-minutes-or-less-3229)
-- [Ingesting 100M Heartbeats: Scaling Wearable Tech Without Going Broke](https://dev.to/beck_moulton/ingesting-100m-heartbeats-scaling-wearable-tech-without-going-broke-2jf9)
-- [AI Writes Code — But It Couldn&#39;t Have Invented Expo Router](https://dev.to/cathylai/ai-writes-code-but-it-couldnt-have-invented-expo-router-hpb)
+- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
+- [Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀](https://dev.to/rajat128/java-core-mastery-part-2-advanced-concepts-question-prep-3oh0)
+- [How to Add Tailwind CSS to a React App &lpar;Step-by-Step Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-add-tailwind-css-to-a-react-app-step-by-step-guide-48a6)
+- [Replacing Phone Addiction with Building a Real Project](https://dev.to/vigneshwaralingam/replacing-phone-addiction-with-building-a-real-project-3m12)
 <!-- BLOG-POST-LIST:END -->
 
 
