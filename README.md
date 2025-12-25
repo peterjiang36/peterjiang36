@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Lessons From Building an IQ Test Website](https://dev.to/whats_youriq_e1c071d8262/seo-lessons-from-building-an-iq-test-website-1mab)
-- [In the era of AI, how do you debug? Here&#39;s a Practical Video Guide With Tips From The Founder&rpar;](https://dev.to/eleftheriabatsou/in-the-era-of-ai-how-do-you-debug-heres-a-practical-video-guide-with-tips-from-the-founder-2d9p)
-- [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
-- [🎄 My Hackathon Journey: Building a “Useless” Project That Taught Me Real Lessons](https://dev.to/lavender_77/my-hackathon-journey-building-a-useless-project-that-taught-me-real-lessons-3pp9)
+- [Power Automate Trigger Condition Formulas Cheat Sheet: Ready-to-Use Examples for Business Hours &amp; Email Filtering](https://dev.to/ippu_ito_870812/power-automate-trigger-condition-formulas-cheat-sheet-ready-to-use-examples-for-business-hours--28nc)
+- [Production Deployment: Django, Docker Compose, &amp; Nginx on AWS](https://dev.to/ajitkumar/production-deployment-django-docker-compose-nginx-on-aws-1gig)
+- [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-53de)
+- [Solving the &quot;Infinite Refresh&quot; Problem: Enterprise-Grade API Pagination in Power Query](https://dev.to/madhur_aggarwal_ac09e575f/solving-the-infinite-refresh-problem-enterprise-grade-api-pagination-in-power-query-23ap)
 <!-- BLOG-POST-LIST:END -->
 
 
