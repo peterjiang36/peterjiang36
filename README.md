@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Programming as a Skill](https://dev.to/qurioskill/software-programming-as-a-skill-4dn2)
-- [Master Rust Parallelism: Write Safe, Fast Concurrent Code with Rayon and Zero Race Conditions](https://dev.to/nithinbharathwaj/master-rust-parallelism-write-safe-fast-concurrent-code-with-rayon-and-zero-race-conditions-4ghi)
-- [When Time Became a Variable — Notes From My Journey With Numba ⚡](https://dev.to/zenoguy/when-time-became-a-variable-notes-from-my-journey-with-numba-57oj)
-- [We Killed the Monster: WebForms Core 2.0 Released and the End of the Front-end Era of Terror](https://dev.to/elanatframework/we-killed-the-monster-webforms-core-20-released-and-the-end-of-the-front-end-era-of-terror-c0)
+- [The EU AI Act Doesn&#39;t Mandate Cryptographic Logs—But You&#39;ll Want Them Anyway](https://dev.to/veritaschain/the-eu-ai-act-doesnt-mandate-cryptographic-logs-but-youll-want-them-anyway-97f)
+- [Arch Linux AUR Dependency Hell: Debugging the ICU 76 78 Migration](https://dev.to/hopsayer/arch-linux-aur-dependency-hell-debugging-the-icu-76-78-migration-4c7a)
+- [Asaaju Peter Calls for Peace and Unity as Christians Celebrate Christmas](https://dev.to/phemight_technologies_281/asaaju-peter-calls-for-peace-and-unity-as-christians-celebrate-christmas-29p3)
+- [Code Once, Earn Forever: 5 AI-Driven Passive Income Streams for Devs in 2026](https://dev.to/khurram_alikhan_716deca7/code-once-earn-forever-5-ai-driven-passive-income-streams-for-devs-in-2026-36mg)
 <!-- BLOG-POST-LIST:END -->
 
 
