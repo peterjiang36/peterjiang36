@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Architecture Mistakes That Quietly Kill Large Angular Codebases &lpar;And How DDD Fixes Them&rpar;](https://dev.to/karol_modelski/9-architecture-mistakes-that-quietly-kill-large-angular-codebases-and-how-ddd-fixes-them-1j4b)
-- [WTF is Remote Browser Isolation?](https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l)
-- [🔐 Digital Privacy and Ethics: Why Trust Is the New Currency of the Internet](https://dev.to/okoye_ndidiamaka_5e3b7d30/digital-privacy-and-ethics-why-trust-is-the-new-currency-of-the-internet-ddd)
-- [Support is the weakest link in authentication &lpar;unless you design it not to be&rpar;](https://dev.to/antonmb/support-is-the-weakest-link-in-authentication-unless-you-design-it-not-to-be-58md)
+- [Stop Containerizing Your 50-Line Scripts](https://dev.to/levskiy/stop-containerizing-your-50-line-scripts-ak2)
+- [Unleashing the Power of DOM Manipulation in Frontend Development](https://dev.to/vjnvisakh/unleashing-the-power-of-dom-manipulation-in-frontend-development-243p)
+- [Integrating Japanese Stock APIs: Accessing Tokyo Stock Exchange &lpar;TSE&rpar; Data for K-Line and MACD Analysis](https://dev.to/san_siwu_f08e7c406830469/integrating-japanese-stock-apis-accessing-tokyo-stock-exchange-tse-data-for-k-line-and-macd-37na)
+- [Help Center Governance Models for Content Quality at Scale](https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh)
 <!-- BLOG-POST-LIST:END -->
 
 
