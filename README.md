@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate Trigger Condition Formulas Cheat Sheet: Ready-to-Use Examples for Business Hours &amp; Email Filtering](https://dev.to/ippu_ito_870812/power-automate-trigger-condition-formulas-cheat-sheet-ready-to-use-examples-for-business-hours--28nc)
-- [Production Deployment: Django, Docker Compose, &amp; Nginx on AWS](https://dev.to/ajitkumar/production-deployment-django-docker-compose-nginx-on-aws-1gig)
-- [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-53de)
-- [Solving the &quot;Infinite Refresh&quot; Problem: Enterprise-Grade API Pagination in Power Query](https://dev.to/madhur_aggarwal_ac09e575f/solving-the-infinite-refresh-problem-enterprise-grade-api-pagination-in-power-query-23ap)
+- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
+- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
+- [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
+- [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
 <!-- BLOG-POST-LIST:END -->
 
 
