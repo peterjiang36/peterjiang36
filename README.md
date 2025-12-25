@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securely Triggering a Private Jenkins Using GitHub Webhooks, API Gateway &lpar;Public&rpar;, and Lambda &lpar;Private&rpar;](https://dev.to/jayakrishnayadav24/securely-triggering-a-private-jenkins-using-github-webhooks-api-gateway-public-and-lambda-1g8p)
-- [Launched: Pain Tracker v1.0.0 &lpar;Open Source, Local-First, Trauma-Informed&rpar;](https://dev.to/crisiscoresystems/launched-pain-tracker-v100-open-source-local-first-trauma-informed-bao)
-- [Overcoming Critical Gear Challenges: A Guide to High-Performance Custom Design for EVs and Robotics](https://dev.to/muhammad_abdullah_ab80e15/overcoming-critical-gear-challenges-a-guide-to-high-performance-custom-design-for-evs-and-523a)
-- [Cross-Chain Bridges: How Assets Travel Between Blockchains &lpar;Without Getting Robbed&rpar;](https://dev.to/ribhavmodi/cross-chain-bridges-how-assets-travel-between-blockchains-without-getting-robbed-g6m)
+- [9 Architecture Mistakes That Quietly Kill Large Angular Codebases &lpar;And How DDD Fixes Them&rpar;](https://dev.to/karol_modelski/9-architecture-mistakes-that-quietly-kill-large-angular-codebases-and-how-ddd-fixes-them-1j4b)
+- [WTF is Remote Browser Isolation?](https://dev.to/dailybugle33/wtf-is-remote-browser-isolation-5c6l)
+- [🔐 Digital Privacy and Ethics: Why Trust Is the New Currency of the Internet](https://dev.to/okoye_ndidiamaka_5e3b7d30/digital-privacy-and-ethics-why-trust-is-the-new-currency-of-the-internet-ddd)
+- [Support is the weakest link in authentication &lpar;unless you design it not to be&rpar;](https://dev.to/antonmb/support-is-the-weakest-link-in-authentication-unless-you-design-it-not-to-be-58md)
 <!-- BLOG-POST-LIST:END -->
 
 
