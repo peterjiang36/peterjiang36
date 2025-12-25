@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU AI Act Doesn&#39;t Mandate Cryptographic Logs—But You&#39;ll Want Them Anyway](https://dev.to/veritaschain/the-eu-ai-act-doesnt-mandate-cryptographic-logs-but-youll-want-them-anyway-97f)
-- [Arch Linux AUR Dependency Hell: Debugging the ICU 76 78 Migration](https://dev.to/hopsayer/arch-linux-aur-dependency-hell-debugging-the-icu-76-78-migration-4c7a)
-- [Asaaju Peter Calls for Peace and Unity as Christians Celebrate Christmas](https://dev.to/phemight_technologies_281/asaaju-peter-calls-for-peace-and-unity-as-christians-celebrate-christmas-29p3)
-- [Code Once, Earn Forever: 5 AI-Driven Passive Income Streams for Devs in 2026](https://dev.to/khurram_alikhan_716deca7/code-once-earn-forever-5-ai-driven-passive-income-streams-for-devs-in-2026-36mg)
+- [Level 0 3 Physics: From Serial Prototypes to Parallel Manifolds and GPU Constraint Solvers](https://dev.to/p3ngu1nzz/level-0-3-physics-from-serial-prototypes-to-parallel-manifolds-and-gpu-constraint-solvers-25ii)
+- [I Wasted $3,200 on Reddit Ads. Here&#39;s What Actually Works.](https://dev.to/short_playskits_ab152535/i-wasted-3200-on-reddit-ads-heres-what-actually-works-246f)
+- [I finally stopped writing try-catch in every Express controller &lpar;and you should too&rpar;](https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2)
+- [NOAA::Aurora for Space Weather Forecasts](https://dev.to/dkechag/noaaaurora-for-space-weather-forecasts-793)
 <!-- BLOG-POST-LIST:END -->
 
 
