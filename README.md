@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaflet Address Autocomplete with Geoapify &lpar;Companion to MapLibre Example&rpar;](https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2)
-- [I’m building a deterministic policy firewall for AI systems — looking for technical feedback](https://dev.to/lola0786/im-building-a-deterministic-policy-firewall-for-ai-systems-looking-for-technical-feedback-2n71)
-- [Startup App Development Costs in Minnesota: What Founders Pay in 2026](https://dev.to/devin-rosario/startup-app-development-costs-in-minnesota-what-founders-pay-in-2026-hn7)
-- [Tiny Local AI: The Pocket Superpower Hiding in Plain Sight](https://dev.to/aiwithapex/tiny-local-ai-the-pocket-superpower-hiding-in-plain-sight-3hnk)
+- [Function, Objects and Array In JS.](https://dev.to/mohamed_ajmal_222/function-objects-and-array-in-js-3bcp)
+- [Migrate BrowserStack to DeviceLab: Maestro](https://dev.to/omnarayan/migrate-browserstack-to-devicelab-maestro-45i2)
+- [Taming the Interactions API in the @google/genai SDK](https://dev.to/asross311/taming-the-interactions-api-in-the-googlegenai-sdk-561b)
+- [You Probably Don&#39;t Need Redis for Distributed Locking](https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k)
 <!-- BLOG-POST-LIST:END -->
 
 
