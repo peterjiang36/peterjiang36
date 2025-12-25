@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Function, Objects and Array In JS.](https://dev.to/mohamed_ajmal_222/function-objects-and-array-in-js-3bcp)
-- [Migrate BrowserStack to DeviceLab: Maestro](https://dev.to/omnarayan/migrate-browserstack-to-devicelab-maestro-45i2)
-- [Taming the Interactions API in the @google/genai SDK](https://dev.to/asross311/taming-the-interactions-api-in-the-googlegenai-sdk-561b)
-- [You Probably Don&#39;t Need Redis for Distributed Locking](https://dev.to/vibhanshu909/you-probably-dont-need-redis-for-distributed-locking-155k)
+- [Securely Triggering a Private Jenkins Using GitHub Webhooks, API Gateway &lpar;Public&rpar;, and Lambda &lpar;Private&rpar;](https://dev.to/jayakrishnayadav24/securely-triggering-a-private-jenkins-using-github-webhooks-api-gateway-public-and-lambda-1g8p)
+- [Launched: Pain Tracker v1.0.0 &lpar;Open Source, Local-First, Trauma-Informed&rpar;](https://dev.to/crisiscoresystems/launched-pain-tracker-v100-open-source-local-first-trauma-informed-bao)
+- [Overcoming Critical Gear Challenges: A Guide to High-Performance Custom Design for EVs and Robotics](https://dev.to/muhammad_abdullah_ab80e15/overcoming-critical-gear-challenges-a-guide-to-high-performance-custom-design-for-evs-and-523a)
+- [Cross-Chain Bridges: How Assets Travel Between Blockchains &lpar;Without Getting Robbed&rpar;](https://dev.to/ribhavmodi/cross-chain-bridges-how-assets-travel-between-blockchains-without-getting-robbed-g6m)
 <!-- BLOG-POST-LIST:END -->
 
 
