@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
-- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)
-- [Implementing Real-Time Emotion AI in Your App &lpar;JavaScript + Python Examples&rpar;](https://dev.to/msmyaqoob25/implementing-real-time-emotion-ai-in-your-app-javascript-python-examples-1hli)
-- [8 Essential Tools You Need to Build Your First SaaS 🧙‍♂️🪄](https://dev.to/dev_resources/8-essential-tools-you-need-to-build-your-first-saas-3c5g)
+- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
+- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
+- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
+- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
 <!-- BLOG-POST-LIST:END -->
 
 
