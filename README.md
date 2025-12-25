@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
-- [Oracle AI Database 26ai — Dictionary Protection](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-dictionary-protection-3m91)
-- [Quarkus e Spring Boot: Qual Framework Escolher para Sua Aplicação Java?](https://dev.to/ikauedev/quarkus-e-spring-boot-qual-framework-escolher-para-sua-aplicacao-java-5g4o)
-- [The Architecture of Trust: Securing the Model Context Protocol](https://dev.to/onlineproxyio/the-architecture-of-trust-securing-the-model-context-protocol-2o7m)
+- [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
+- [Starting my journey here](https://dev.to/treebird/starting-my-journey-here-188o)
+- [Why I Built a Pure Python Library for Legacy Office Files &lpar;And Why RAG Pipelines Need One&rpar;](https://dev.to/tobias_horsmann_dcbbacec3/why-i-built-a-pure-python-library-for-legacy-office-files-and-why-rag-pipelines-need-one-4c37)
+- [AI Interview Copilot is a tool that helps you prepare, structure, and improve your interview answers. Think of it as a coach that focuses on how you respond, not just what questions you get.](https://dev.to/jeenifer_beezer/ai-interview-copilot-is-a-tool-that-helps-you-prepare-structure-and-improve-your-interview-20m3)
 <!-- BLOG-POST-LIST:END -->
 
 
