@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Throughput IoT Log Aggregator](https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg)
-- [Do anyone know about any tool which can help me cross post between few tech platforms like dev.to, medium, hashnode etc without distorting the formatting?
-
-maybe from google docs to medium/hashnode/dev.to? or is anyone creating one?](https://dev.to/waqartabish/do-anyone-know-about-any-tool-which-can-help-me-cross-post-between-few-tech-platforms-like-devto-n0c)
-- [Build a Twitter-Style Microblog with Feeds &lpar;React Native&rpar;](https://dev.to/waqartabish/build-a-twitter-style-microblog-with-feeds-react-native-3dnc)
-- [AI Look-Alike Search for OF Creators — Need Advice on Better Face Models](https://dev.to/__678da4d0/ai-look-alike-search-for-of-creators-need-advice-on-better-face-models-58dc)
+- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
+- [Oracle AI Database 26ai — Dictionary Protection](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-dictionary-protection-3m91)
+- [Quarkus e Spring Boot: Qual Framework Escolher para Sua Aplicação Java?](https://dev.to/ikauedev/quarkus-e-spring-boot-qual-framework-escolher-para-sua-aplicacao-java-5g4o)
+- [The Architecture of Trust: Securing the Model Context Protocol](https://dev.to/onlineproxyio/the-architecture-of-trust-securing-the-model-context-protocol-2o7m)
 <!-- BLOG-POST-LIST:END -->
 
 
