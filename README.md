@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Level 0 3 Physics: From Serial Prototypes to Parallel Manifolds and GPU Constraint Solvers](https://dev.to/p3ngu1nzz/level-0-3-physics-from-serial-prototypes-to-parallel-manifolds-and-gpu-constraint-solvers-25ii)
-- [I Wasted $3,200 on Reddit Ads. Here&#39;s What Actually Works.](https://dev.to/short_playskits_ab152535/i-wasted-3200-on-reddit-ads-heres-what-actually-works-246f)
-- [I finally stopped writing try-catch in every Express controller &lpar;and you should too&rpar;](https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2)
-- [NOAA::Aurora for Space Weather Forecasts](https://dev.to/dkechag/noaaaurora-for-space-weather-forecasts-793)
+- [I built the platform I wish existed! [ jadeStage ]](https://dev.to/diallodojo/i-built-the-platform-i-wish-existed-jadestage--4boa)
+- [What’s New in CoinGlass API V4 &lpar;Crypto API&rpar;](https://dev.to/apollobox/whats-new-in-coinglass-api-v4-crypto-api-1hle)
+- [Por Qué el 45% de Developers Están Abandonando LangChain en Producción](https://dev.to/abdessamad_ammi_202ac2bad/por-que-el-45-de-developers-estan-abandonando-langchain-en-produccion-ebb)
+- [Is 1000Hz possible in Chrome? Bypassing the Event Loop to test Mouse Polling Rate](https://dev.to/jackwind/is-1000hz-possible-in-chrome-bypassing-the-event-loop-to-test-mouse-polling-rate-3b9k)
 <!-- BLOG-POST-LIST:END -->
 
 
