@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-59k)
-- [Why 92% of Content Creators Fail at SEO &lpar;And How Mangools Is the Only Tool That Fixes It&rpar;](https://dev.to/alan_luu/why-92-of-content-creators-fail-at-seo-and-how-mangools-is-the-only-tool-that-fixes-it-2o3a)
-- [Deploying Scalable LLM Tools via Remote MCP on Kubernetes](https://dev.to/pratik_12b3f8bf3b50e48bae/deploying-scalable-llm-tools-via-remote-mcp-on-kubernetes-23h6)
-- [AutoAugment: Learning Augmentation Policies from Data](https://dev.to/paperium/autoaugment-learning-augmentation-policies-from-data-5go8)
+- [How to build dynamic forms in React using SurveyJS, Node.js &amp; MongoDB Backend](https://dev.to/mir_raashid_js/how-to-build-dynamic-forms-in-react-using-surveyjs-nodejs-mongodb-backend-1pa4)
+- [Getting Started with Go &lpar;Golang&rpar;: A Practical Guide for Developers](https://dev.to/yash_sonawane25/getting-started-with-go-golang-a-practical-guide-for-developers-78l)
+- [Building Production-Grade AI Agents with MCP &amp; A2A: A Guide from the Trenches](https://dev.to/exploredataaiml/building-production-grade-ai-agents-with-mcp-a2a-a-guide-from-the-trenches-1man)
+- [Mastering Network Interception in Cypress: A Detailed Guide](https://dev.to/jignect-technologies/mastering-network-interception-in-cypress-a-detailed-guide-3gpf)
 <!-- BLOG-POST-LIST:END -->
 
 
