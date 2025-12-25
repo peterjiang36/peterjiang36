@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
-- [[2025 Guide] AI-Driven Advertising Solutions for Marketing Automation](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-solutions-for-marketing-automation-4cb0)
-- [How I built my first AI Uptime Tracker as a &quot;coding newbie&quot;](https://dev.to/vicky_tsin_4aa76206a36899/how-i-built-my-first-ai-uptime-tracker-as-a-coding-newbie-2phc)
-- [Fast-track your tech career vs a traditional degree](https://dev.to/ajia_ali_fb5a7b00f0318020/fast-track-your-tech-career-vs-a-traditional-degree-4aan)
+- [SEO Lessons From Building an IQ Test Website](https://dev.to/whats_youriq_e1c071d8262/seo-lessons-from-building-an-iq-test-website-1mab)
+- [In the era of AI, how do you debug? Here&#39;s a Practical Video Guide With Tips From The Founder&rpar;](https://dev.to/eleftheriabatsou/in-the-era-of-ai-how-do-you-debug-heres-a-practical-video-guide-with-tips-from-the-founder-2d9p)
+- [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
+- [🎄 My Hackathon Journey: Building a “Useless” Project That Taught Me Real Lessons](https://dev.to/lavender_77/my-hackathon-journey-building-a-useless-project-that-taught-me-real-lessons-3pp9)
 <!-- BLOG-POST-LIST:END -->
 
 
