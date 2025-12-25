@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
-- [Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀](https://dev.to/rajat128/java-core-mastery-part-2-advanced-concepts-question-prep-3oh0)
-- [How to Add Tailwind CSS to a React App &lpar;Step-by-Step Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-add-tailwind-css-to-a-react-app-step-by-step-guide-48a6)
-- [Replacing Phone Addiction with Building a Real Project](https://dev.to/vigneshwaralingam/replacing-phone-addiction-with-building-a-real-project-3m12)
+- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
+- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)
+- [Implementing Real-Time Emotion AI in Your App &lpar;JavaScript + Python Examples&rpar;](https://dev.to/msmyaqoob25/implementing-real-time-emotion-ai-in-your-app-javascript-python-examples-1hli)
+- [8 Essential Tools You Need to Build Your First SaaS 🧙‍♂️🪄](https://dev.to/dev_resources/8-essential-tools-you-need-to-build-your-first-saas-3c5g)
 <!-- BLOG-POST-LIST:END -->
 
 
