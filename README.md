@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built the platform I wish existed! [ jadeStage ]](https://dev.to/diallodojo/i-built-the-platform-i-wish-existed-jadestage--4boa)
-- [What’s New in CoinGlass API V4 &lpar;Crypto API&rpar;](https://dev.to/apollobox/whats-new-in-coinglass-api-v4-crypto-api-1hle)
-- [Por Qué el 45% de Developers Están Abandonando LangChain en Producción](https://dev.to/abdessamad_ammi_202ac2bad/por-que-el-45-de-developers-estan-abandonando-langchain-en-produccion-ebb)
-- [Is 1000Hz possible in Chrome? Bypassing the Event Loop to test Mouse Polling Rate](https://dev.to/jackwind/is-1000hz-possible-in-chrome-bypassing-the-event-loop-to-test-mouse-polling-rate-3b9k)
+- [What I Learned in My First Week of Linux &lpar;DevOps Journey&rpar;](https://dev.to/sneha_tomar_23/what-i-learned-in-my-first-week-of-linux-devops-journey-3fhb)
+- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
+- [My Takeaways from AWS re:Invent 2025: Bringing the Vegas Energy Home to Hong Kong 🇭🇰✨](https://dev.to/karen_tam_3e10b93a14f058a/my-takeaways-from-aws-reinvent-2025-bringing-the-vegas-energy-home-to-hong-kong-5egp)
+- [Chatbot Token Management: Optimize OpenAI API Costs](https://dev.to/chatboqai/chatbot-token-management-optimize-openai-api-costs-1ik1)
 <!-- BLOG-POST-LIST:END -->
 
 
