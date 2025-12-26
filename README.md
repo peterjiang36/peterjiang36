@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Move Vital Records from the Filing Cabinet to a Secure Digital Vault](https://dev.to/insureyouknow_79344b896cd/how-to-move-vital-records-from-the-filing-cabinet-to-a-secure-digital-vault-opd)
-- [Making Sense of Land Area Measurements in India](https://dev.to/kyler_smith_01e3a0366b45a/making-sense-of-land-area-measurements-in-india-5cg8)
-- [Day 34 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-34-of-improving-my-data-science-skills-24hg)
-- [Building a Simple Crypto Trading Bot in Python &amp; Node.js](https://dev.to/riley_quinn_8e58a0a96d107/building-a-simple-crypto-trading-bot-in-python-nodejs-3jl9)
+- [Why Your AI Needs the Right to Say &quot;I Don&#39;t Know&quot;](https://dev.to/synthaicode_commander/why-your-ai-needs-the-right-to-say-i-dont-know-4nmc)
+- [WINDOWS HOOKS ARE WEIRD](https://dev.to/mirrai/windows-hooks-are-weird-3cld)
+- [MemoryGraph vs Graphiti: Choosing the Right Memory for Your AI Agent](https://dev.to/gregory_dickson_6dd6e2b55/memorygraph-vs-graphiti-choosing-the-right-memory-for-your-ai-agent-526k)
+- [Clone Your CTO: The Architecture of an &#39;AI Twin&#39; &lpar;DSPy + Unsloth&rpar;](https://dev.to/_aparna_pradhan_/clone-your-cto-the-architecture-of-an-ai-twin-dspy-unsloth-5gei)
 <!-- BLOG-POST-LIST:END -->
 
 
