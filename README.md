@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skip the 4-year wait: build a DevOps career faster
-Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
-#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
-- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
-- [[Boost]](https://dev.to/nitinnair89/-17fj)
-- [When long chats drift: hidden errors in AI-assisted coding](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-drift-hidden-errors-in-ai-assisted-coding-4g7f)
+- [Follow-Up: Simplifying Zod Validation in Angular Signal Forms with validateStandardSchema](https://dev.to/brianmtreese/follow-up-simplifying-zod-validation-in-angular-signal-forms-with-validatestandardschema-1bo6)
+- [JWT vs PASETO: A Comprehensive Comparison](https://dev.to/codefalconx/jwt-vs-paseto-a-comprehensive-comparison-4l9c)
+- [I built a better search engine for n8n workflows &lpar;with tutorials &amp; verified templates&rpar;](https://dev.to/iloven8n/i-built-a-better-search-engine-for-n8n-workflows-with-tutorials-verified-templates-47h7)
+- [Guide to Integrate AWS Strands Agent with AgentCore Runtime using SDK Integration](https://dev.to/vimal_venugopal_70b861503/guide-to-integrate-aws-strands-agent-with-agentcore-runtime-using-sdk-integration-40dk)
 <!-- BLOG-POST-LIST:END -->
 
 
