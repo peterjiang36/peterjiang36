@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Stop Killing Your Bundle Size](https://dev.to/chintan121/stop-killing-your-bundle-size-nnd)
-- [Mastering HTTP/2 in Go: A Practical Guide for Building Faster Web Servers](https://dev.to/jones_charles_ad50858dbc0/mastering-http2-in-go-a-practical-guide-for-building-faster-web-servers-4hbo)
-- [Pinning GitHub Actions for Reproducibility and Security](https://dev.to/cloudnative_eng/pinning-github-actions-for-reproducibility-and-security-2ihh)
-- [Retain API in Jetpack Compose](https://dev.to/saidurtech/retain-api-in-jetpack-compose-1923)
+- [GPU Compute Shaders in Pure Go: gogpu/gg v0.15.0](https://dev.to/kolkov/gpu-compute-shaders-in-pure-go-gogpugg-v0150-1cjk)
+- [React and Angular: Common Patterns Comparison](https://dev.to/totoledao/react-and-angular-common-patterns-comparison-b15)
+- [Beyond the Basics: Advanced Prompt Engineering Techniques](https://dev.to/joao_victorsouza_ef8ff8a/beyond-the-basics-advanced-prompt-engineering-techniques-3oh)
+- [PPanel 完整安装指南：从零开始部署代理面板](https://dev.to/jimquote/ppanel-122-wan-zheng-an-zhuang-zhi-nan-cong-ling-kai-shi-bu-shu-dai-li-mian-ban-ip6)
 <!-- BLOG-POST-LIST:END -->
 
 
