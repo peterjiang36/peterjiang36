@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 SEO &amp; Community Update - Kiksi Discord Bot](https://dev.to/dev_lenchen/seo-community-update-kiksi-discord-bot-1d8c)
-- [The EKS 1.32 1.33 Upgrade That Broke Everything &lpar;And How I Fixed It&rpar;](https://dev.to/damola12345/the-eks-132-133-upgrade-that-broke-everything-and-how-i-fixed-it-5fe9)
-- [Stop Tutorial Hell: I Built the Ultimate Free DevOps Learning Path &lpar;Zero to Production&rpar; 🚀](https://dev.to/yatharth_sanghavi/stop-tutorial-hell-i-built-the-ultimate-free-devops-learning-path-zero-to-production-4nk4)
-- [Do Anti-Vibecoding ao Caos: A Saga do &quot;Ficha Monstra&quot;](https://dev.to/guilhermeloyola/do-anti-vibecoding-ao-caos-a-saga-do-ficha-monstra-2p3j)
+- [Making DB Changes Predictable with Transactions](https://dev.to/lovestaco/transactions-making-database-changes-safe-and-predictable-26oh)
+- [Deploy Django on a VPS with Docker: Step-by-Step Guide](https://dev.to/wimadev/deploy-django-on-a-vps-with-docker-step-by-step-guide-21e2)
+- [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
+- [CODIMAP - Fantasy map tool](https://dev.to/codify/codimap-fantasy-map-tool-3mpc)
 <!-- BLOG-POST-LIST:END -->
 
 
