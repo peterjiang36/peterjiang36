@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
-- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
-- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
-- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
+- [AWS AI Agent Core Implementation](https://dev.to/vimal_venugopal_70b861503/aws-ai-agent-core-implementation-4d75)
+- [Is Your AI Agent a Compliance Risk? How to Find Violations Hidden in Traces](https://dev.to/imshashank/is-your-ai-agent-a-compliance-risk-how-to-find-violations-hidden-in-traces-3g0e)
+- [**The Right to Repair: A Battle for Control in the Tech Industry**](https://dev.to/yagyaraj_sharma_6cd410179/the-right-to-repair-a-battle-for-control-in-the-tech-industry-57gd)
+- [Christmas Gift: Open-Sourcing 97 AI Security Detection Engines](https://dev.to/dmitry_labintcev_9e611e04/christmas-gift-open-sourcing-97-ai-security-detection-engines-ego)
 <!-- BLOG-POST-LIST:END -->
 
 
