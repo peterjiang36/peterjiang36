@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making DB Changes Predictable with Transactions](https://dev.to/lovestaco/transactions-making-database-changes-safe-and-predictable-26oh)
-- [Deploy Django on a VPS with Docker: Step-by-Step Guide](https://dev.to/wimadev/deploy-django-on-a-vps-with-docker-step-by-step-guide-21e2)
-- [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
-- [CODIMAP - Fantasy map tool](https://dev.to/codify/codimap-fantasy-map-tool-3mpc)
+- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa)
+- [OSI Layer 5—Session Layer Security](https://dev.to/narnaiezzsshaa/osi-layer-5-session-layer-security-16i9)
+- [Get started with me &amp; Kestra.io](https://dev.to/missamarakay/get-started-with-me-kestraio-b94)
+- [How Developers Can Simplify Complex Projects for Non-Tech Clients](https://dev.to/imtaslim/how-developers-can-simplify-complex-projects-for-non-tech-clients-1ogp)
 <!-- BLOG-POST-LIST:END -->
 
 
