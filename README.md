@@ -74,10 +74,13 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a quiz game to tell Pokémon from prescription drugs](https://dev.to/favstats/i-built-a-quiz-game-to-tell-pokemon-from-prescription-drugs-5gj6)
-- [How ADHD Adult Coach Methods Address Everyday Challenges](https://dev.to/coaching_withbrooke_1a5e/how-adhd-adult-coach-methods-address-everyday-challenges-4977)
-- [Keywords are not enough: Why Your Next.js App Needs Vector Search](https://dev.to/ubcodes/keywords-are-not-enough-why-your-nextjs-app-needs-vector-search-3p5h)
-- [Why Coding Agents Fail After Multiple Debugging Attempts](https://dev.to/morethananai/why-coding-agents-fail-after-multiple-debugging-attempts-6e4)
+- [Today, GitHub is no longer just a code repository.
+It’s becoming the coordination layer for AI-driven work.
+
+And many teams are still not using it that way without fully realising the shift.](https://dev.to/jaideepparashar/today-github-is-no-longer-just-a-code-repository-its-becoming-the-coordination-layer-for-1oj5)
+- [GitHub Isn’t Just for Code Anymore: It’s the Backbone of AI Workflows](https://dev.to/jaideepparashar/github-isnt-just-for-code-anymore-its-the-backbone-of-ai-workflows-30cg)
+- [Building an on-premise friendly video review tool for game teams](https://dev.to/kirisamemarisa/building-an-on-premise-friendly-video-review-tool-for-game-teams-1907)
+- [Kubernetes Ingress Explained — Routing, TLS, and Real Examples](https://dev.to/sharonkynu/kubernetes-ingress-explained-routing-tls-and-real-examples-32kb)
 <!-- BLOG-POST-LIST:END -->
 
 
