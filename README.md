@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Multiplier Is the Job Now: Why Agentic AI Changes Everything](https://dev.to/mikelane/the-multiplier-is-the-job-now-why-agentic-ai-changes-everything-4n3c)
-- [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
-- [Im creating new app that will help to new DevOps developers better understand concepts of DevOps and how it works](https://dev.to/monokkai/im-creating-new-app-that-will-help-to-new-devops-developers-better-understand-concepts-of-devops-5bn9)
-- [We’re Vibe Coding in 2026. Why Are We Still Deploying Like It’s 2018?](https://dev.to/vamsi_0fe326ce8584827fca5/were-vibe-coding-in-2026-why-are-we-still-deploying-like-its-2018-248f)
+- [SwiftUI Accessibility Internals](https://dev.to/sebastienlato/swiftui-accessibility-internals-2kl2)
+- [CodeIgniter vs Laravel: A Human-Centric Comparison](https://dev.to/gustavowoltmann18/codeigniter-vs-laravel-a-human-centric-comparison-3le0)
+- [Solved: I analyzed 10k+ WordPress plugins for security issues, errors, and warnings.](https://dev.to/techresolve/solved-i-analyzed-10k-wordpress-plugins-for-security-issues-errors-and-warnings-202h)
+- [Building an SPA, Real-Time Trading Platform with Vanilla PHP &amp; JavaScript](https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik)
 <!-- BLOG-POST-LIST:END -->
 
 
