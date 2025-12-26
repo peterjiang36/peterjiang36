@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🦉 From Broken Models to Living Systems: My Journey Building AI Without a GPU](https://dev.to/puneetkumar2010/from-broken-models-to-living-systems-my-journey-building-ai-without-a-gpu-2kik)
-- [Confuse About how to start OS](https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f)
-- [Confuse About how to start OS](https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-503j)
-- [Scalable Wellness Data: Use the CQRS Pattern to Build Faster Health Dashboards](https://dev.to/wellallytech/scalable-wellness-data-use-the-cqrs-pattern-to-build-faster-health-dashboards-2j8p)
+- [Why Prompt-Level Controls Are the New Frontier of AI Risk Management](https://dev.to/sangram_6c566d62b3944d2b9/why-prompt-level-controls-are-the-new-frontier-of-ai-risk-management-1gfn)
+- [How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh)
+- [I Built an Email Validation Library and Published It on npm. Here&#39;s Everything I Learned](https://dev.to/kazmiali/i-built-an-email-validation-library-and-published-it-on-npm-heres-everything-i-learned-1em5)
+- [When long AI threads drift and small errors snowball](https://dev.to/himanshu_jetani_0a4817c3f/when-long-ai-threads-drift-and-small-errors-snowball-25mg)
 <!-- BLOG-POST-LIST:END -->
 
 
