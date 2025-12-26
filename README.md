@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Prompt-Level Controls Are the New Frontier of AI Risk Management](https://dev.to/sangram_6c566d62b3944d2b9/why-prompt-level-controls-are-the-new-frontier-of-ai-risk-management-1gfn)
-- [How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh)
-- [I Built an Email Validation Library and Published It on npm. Here&#39;s Everything I Learned](https://dev.to/kazmiali/i-built-an-email-validation-library-and-published-it-on-npm-heres-everything-i-learned-1em5)
-- [When long AI threads drift and small errors snowball](https://dev.to/himanshu_jetani_0a4817c3f/when-long-ai-threads-drift-and-small-errors-snowball-25mg)
+- [Skip the 4-year wait: build a DevOps career faster
+Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
+#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
+- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
+- [[Boost]](https://dev.to/nitinnair89/-17fj)
+- [When long chats drift: hidden errors in AI-assisted coding](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-drift-hidden-errors-in-ai-assisted-coding-4g7f)
 <!-- BLOG-POST-LIST:END -->
 
 
