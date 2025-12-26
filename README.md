@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
-- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
-- [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
-- [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
+- [Stop Alt-Tabbing to Check Metrics: Meet Vitals for VS Code 🚀](https://dev.to/theaniketraj/stop-alt-tabbing-to-check-metrics-meet-vitals-for-vs-code-16d7)
+- [Sector HQ Weekly Digest - December 26, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-26-2025-2cbe)
+- [Bridging Worlds: When 51% Meets Blockchain](https://dev.to/apnews/bridging-worlds-when-51-meets-blockchain-1do7)
+- [Introduction to Longcat AI Video](https://dev.to/guang_gavin_36c5be55cebe7/introduction-to-longcat-ai-video-1lj8)
 <!-- BLOG-POST-LIST:END -->
 
 
