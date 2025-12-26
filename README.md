@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Accessibility Internals](https://dev.to/sebastienlato/swiftui-accessibility-internals-2kl2)
-- [CodeIgniter vs Laravel: A Human-Centric Comparison](https://dev.to/gustavowoltmann18/codeigniter-vs-laravel-a-human-centric-comparison-3le0)
-- [Solved: I analyzed 10k+ WordPress plugins for security issues, errors, and warnings.](https://dev.to/techresolve/solved-i-analyzed-10k-wordpress-plugins-for-security-issues-errors-and-warnings-202h)
-- [Building an SPA, Real-Time Trading Platform with Vanilla PHP &amp; JavaScript](https://dev.to/devikenna/building-an-spa-real-time-trading-platform-with-vanilla-php-javascript-6ik)
+- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
+- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
+- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
+- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
 <!-- BLOG-POST-LIST:END -->
 
 
