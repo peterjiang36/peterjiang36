@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS AI Agent Core Implementation](https://dev.to/vimal_venugopal_70b861503/aws-ai-agent-core-implementation-4d75)
-- [Is Your AI Agent a Compliance Risk? How to Find Violations Hidden in Traces](https://dev.to/imshashank/is-your-ai-agent-a-compliance-risk-how-to-find-violations-hidden-in-traces-3g0e)
-- [**The Right to Repair: A Battle for Control in the Tech Industry**](https://dev.to/yagyaraj_sharma_6cd410179/the-right-to-repair-a-battle-for-control-in-the-tech-industry-57gd)
-- [Christmas Gift: Open-Sourcing 97 AI Security Detection Engines](https://dev.to/dmitry_labintcev_9e611e04/christmas-gift-open-sourcing-97-ai-security-detection-engines-ego)
+- [🚀 Stop Killing Your Bundle Size](https://dev.to/chintan121/stop-killing-your-bundle-size-nnd)
+- [Mastering HTTP/2 in Go: A Practical Guide for Building Faster Web Servers](https://dev.to/jones_charles_ad50858dbc0/mastering-http2-in-go-a-practical-guide-for-building-faster-web-servers-4hbo)
+- [Pinning GitHub Actions for Reproducibility and Security](https://dev.to/cloudnative_eng/pinning-github-actions-for-reproducibility-and-security-2ihh)
+- [Retain API in Jetpack Compose](https://dev.to/saidurtech/retain-api-in-jetpack-compose-1923)
 <!-- BLOG-POST-LIST:END -->
 
 
