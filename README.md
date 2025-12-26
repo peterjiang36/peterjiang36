@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa)
-- [OSI Layer 5—Session Layer Security](https://dev.to/narnaiezzsshaa/osi-layer-5-session-layer-security-16i9)
-- [Get started with me &amp; Kestra.io](https://dev.to/missamarakay/get-started-with-me-kestraio-b94)
-- [How Developers Can Simplify Complex Projects for Non-Tech Clients](https://dev.to/imtaslim/how-developers-can-simplify-complex-projects-for-non-tech-clients-1ogp)
+- [How Faulty Sensors Quietly Break Smart Heating Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2)
+- [What hampers IT Project executions](https://dev.to/sambathwins/what-hampers-it-project-executions-5dc7)
+- [Lazy vs. Eager Loading &amp; JPA Relationships](https://dev.to/vigneshwaralingam/lazy-vs-eager-loading-jpa-relationships-4f22)
+- [Stop Using IOptions Wrong in .NET!](https://dev.to/carbonfin7/stop-using-ioptions-wrong-in-net-3kfj)
 <!-- BLOG-POST-LIST:END -->
 
 
