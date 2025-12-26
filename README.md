@@ -74,13 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Today, GitHub is no longer just a code repository.
-It’s becoming the coordination layer for AI-driven work.
-
-And many teams are still not using it that way without fully realising the shift.](https://dev.to/jaideepparashar/today-github-is-no-longer-just-a-code-repository-its-becoming-the-coordination-layer-for-1oj5)
-- [GitHub Isn’t Just for Code Anymore: It’s the Backbone of AI Workflows](https://dev.to/jaideepparashar/github-isnt-just-for-code-anymore-its-the-backbone-of-ai-workflows-30cg)
-- [Building an on-premise friendly video review tool for game teams](https://dev.to/kirisamemarisa/building-an-on-premise-friendly-video-review-tool-for-game-teams-1907)
-- [Kubernetes Ingress Explained — Routing, TLS, and Real Examples](https://dev.to/sharonkynu/kubernetes-ingress-explained-routing-tls-and-real-examples-32kb)
+- [🦉 From Broken Models to Living Systems: My Journey Building AI Without a GPU](https://dev.to/puneetkumar2010/from-broken-models-to-living-systems-my-journey-building-ai-without-a-gpu-2kik)
+- [Confuse About how to start OS](https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-5e9f)
+- [Confuse About how to start OS](https://dev.to/sangharsh_more_50994ab1ac/confuse-about-how-to-start-os-503j)
+- [Scalable Wellness Data: Use the CQRS Pattern to Build Faster Health Dashboards](https://dev.to/wellallytech/scalable-wellness-data-use-the-cqrs-pattern-to-build-faster-health-dashboards-2j8p)
 <!-- BLOG-POST-LIST:END -->
 
 
