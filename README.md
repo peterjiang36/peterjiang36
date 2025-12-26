@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Follow-Up: Simplifying Zod Validation in Angular Signal Forms with validateStandardSchema](https://dev.to/brianmtreese/follow-up-simplifying-zod-validation-in-angular-signal-forms-with-validatestandardschema-1bo6)
-- [JWT vs PASETO: A Comprehensive Comparison](https://dev.to/codefalconx/jwt-vs-paseto-a-comprehensive-comparison-4l9c)
-- [I built a better search engine for n8n workflows &lpar;with tutorials &amp; verified templates&rpar;](https://dev.to/iloven8n/i-built-a-better-search-engine-for-n8n-workflows-with-tutorials-verified-templates-47h7)
-- [Guide to Integrate AWS Strands Agent with AgentCore Runtime using SDK Integration](https://dev.to/vimal_venugopal_70b861503/guide-to-integrate-aws-strands-agent-with-agentcore-runtime-using-sdk-integration-40dk)
+- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
+- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
+- [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
+- [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
 <!-- BLOG-POST-LIST:END -->
 
 
