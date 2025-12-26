@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Alt-Tabbing to Check Metrics: Meet Vitals for VS Code 🚀](https://dev.to/theaniketraj/stop-alt-tabbing-to-check-metrics-meet-vitals-for-vs-code-16d7)
-- [Sector HQ Weekly Digest - December 26, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-26-2025-2cbe)
-- [Bridging Worlds: When 51% Meets Blockchain](https://dev.to/apnews/bridging-worlds-when-51-meets-blockchain-1do7)
-- [Introduction to Longcat AI Video](https://dev.to/guang_gavin_36c5be55cebe7/introduction-to-longcat-ai-video-1lj8)
+- [I Tried Replacing Human Review With AI. Here&#39;s Where It Quietly Failed](https://dev.to/leena_malhotra/i-tried-replacing-human-review-with-ai-heres-where-it-quietly-failed-4jh3)
+- [JavaScript Scope &amp; Closure: Stop Memorizing, Start Understanding](https://dev.to/saiful__bashar/javascript-scope-closure-stop-memorizing-start-understanding-2ok7)
+- [I Built &lpar;Yet Another&rpar; AI-Powered Chrome Extension to Organize My Tabs - This One Actually Works](https://dev.to/__ed54c20bf54812eb/i-built-yet-another-ai-powered-chrome-extension-to-organize-my-tabs-this-one-actually-works-2i82)
+- [Zero Trust in 2025 Is Less About Vision, More About Friction](https://dev.to/technology-radius/zero-trust-in-2025-is-less-about-vision-more-about-friction-52mj)
 <!-- BLOG-POST-LIST:END -->
 
 
