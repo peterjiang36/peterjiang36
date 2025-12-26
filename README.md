@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Have WordPress Plugins for Developers in 2026 🚀](https://dev.to/thebitforge/12-must-have-wordpress-plugins-for-developers-in-2026-3kof)
-- [How Does CompletableFuture Simplify Asynchronous Programming in Java?](https://dev.to/realnamehidden1_61/how-does-completablefuture-simplify-asynchronous-programming-in-java-2ejg)
-- [Mr Sunday Movies: Wrath of the Titans - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-wrath-of-the-titans-caravan-of-garbage-4nnd)
-- [The Clickless Future](https://dev.to/rawveg/the-clickless-future-29o2)
+- [How to Move Vital Records from the Filing Cabinet to a Secure Digital Vault](https://dev.to/insureyouknow_79344b896cd/how-to-move-vital-records-from-the-filing-cabinet-to-a-secure-digital-vault-opd)
+- [Making Sense of Land Area Measurements in India](https://dev.to/kyler_smith_01e3a0366b45a/making-sense-of-land-area-measurements-in-india-5cg8)
+- [Day 34 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-34-of-improving-my-data-science-skills-24hg)
+- [Building a Simple Crypto Trading Bot in Python &amp; Node.js](https://dev.to/riley_quinn_8e58a0a96d107/building-a-simple-crypto-trading-bot-in-python-nodejs-3jl9)
 <!-- BLOG-POST-LIST:END -->
 
 
