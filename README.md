@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency, Christmas, and the Ultimate Programmer](https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi)
-- [Level Up Your Code: Why Object-Oriented Programming &lpar;OOP&rpar; is the Backbone of Game Dev](https://dev.to/oscarolg/level-up-your-code-why-object-oriented-programming-oop-is-the-backbone-of-game-dev-2434)
-- [JSON vs YAML vs TOML: Which Configuration Format Should You Use in 2026?](https://dev.to/jsontoall_tools/json-vs-yaml-vs-toml-which-configuration-format-should-you-use-in-2026-1hlb)
-- [The 5GB &quot;Sudo Access&quot; for Global Internet: My Review of eSIMFree.org](https://dev.to/esimfree/the-5gb-sudo-access-for-global-internet-my-review-of-esimfreeorg-5a3n)
+- [The Multiplier Is the Job Now: Why Agentic AI Changes Everything](https://dev.to/mikelane/the-multiplier-is-the-job-now-why-agentic-ai-changes-everything-4n3c)
+- [Week 4 of 40 – First Full-Stack App with React, TypeScript, and Python](https://dev.to/digeratis/week-4-of-40-first-full-stack-app-with-react-typescript-and-python-bpp)
+- [Im creating new app that will help to new DevOps developers better understand concepts of DevOps and how it works](https://dev.to/monokkai/im-creating-new-app-that-will-help-to-new-devops-developers-better-understand-concepts-of-devops-5bn9)
+- [We’re Vibe Coding in 2026. Why Are We Still Deploying Like It’s 2018?](https://dev.to/vamsi_0fe326ce8584827fca5/were-vibe-coding-in-2026-why-are-we-still-deploying-like-its-2018-248f)
 <!-- BLOG-POST-LIST:END -->
 
 
