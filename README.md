@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno 2 vs Node.js vs Bun in 2026: The Complete JavaScript Runtime Comparison](https://dev.to/hobbada/deno-2-vs-nodejs-vs-bun-in-2026-the-complete-javascript-runtime-comparison-1elm)
-- [Model Context Protocol &lpar;MCP&rpar;: The Complete Guide to Building AI Agents That Actually Work](https://dev.to/hobbada/model-context-protocol-mcp-the-complete-guide-to-building-ai-agents-that-actually-work-2e6h)
-- [Vite vs. Webpack in 2026: A Complete Migration Guide and Deep Performance Analysis](https://dev.to/hobbada/vite-vs-webpack-in-2026-a-complete-migration-guide-and-deep-performance-analysis-5ej5)
-- [Why Your Docker Build is So Slow: A Deep Dive into Multistage Dockerfile Optimization](https://dev.to/hobbada/why-your-docker-build-is-so-slow-a-deep-dive-into-multistage-dockerfile-optimization-54lo)
+- [I analyzed 1,000+ deals. Here is why Engineers fail at fundraising &lpar;and how I fixed it&rpar;.](https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3)
+- [The Future of n8n Hosting for AI-Driven Business Automation in 2026](https://dev.to/nikita_heroxhost_932ba998/the-future-of-n8n-hosting-for-ai-driven-business-automation-in-2026-1fd5)
+- [System Design 0-to-1: Why the World&#39;s Biggest Apps Scale Horizontally](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-why-the-worlds-biggest-apps-scale-horizontally-4623)
+- [I Thought I Needed Better Habits. What I Actually Needed Was Fewer Expectations](https://dev.to/jamesmiller25/i-thought-i-needed-better-habits-what-i-actually-needed-was-fewer-expectations-27kh)
 <!-- BLOG-POST-LIST:END -->
 
 
