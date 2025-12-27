@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum-Solidity Quiz Q6: What is the max bytecode size for smart contract deployment on Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q6-what-is-the-max-bytecode-size-for-smart-contract-deployment-on-4h3o)
-- [9 Mobile App Features Built Entirely with APIs](https://dev.to/dev_resources/9-mobile-app-features-built-entirely-with-apis-4hfi)
-- [The debate around AI coding agents misses the point. One side says &quot;AI sucks,” the other says &quot;skill issue.&quot; After months of building with Claude Code and Cursor, I’ve learned this: the real skill isn’t prompt engineering,it’s understanding the context win](https://dev.to/sachinchaurasiya/the-debate-around-ai-coding-agents-misses-the-point-one-side-says-ai-sucks-the-other-says-50f7)
-- [The #1 Skill Most Developers Miss When Using AI Coding Agents](https://dev.to/sachinchaurasiya/the-1-skill-most-developers-miss-when-using-ai-coding-agents-37h0)
+- [Chat With Your Database for Free: Build a Private AI Agent in Python](https://dev.to/fabiothiroki/chat-with-your-database-for-free-build-a-private-ai-agent-in-python-j80)
+- [Open Source: A Friendly Guide for New Developers](https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5)
+- [You Do NOT need augmentations to train your Classifiers!!](https://dev.to/aniket_kuyate_15acc4e6587/you-do-not-need-augmentations-to-train-your-classifiers-59d0)
+- [Private Image Converter: Your Complete Guide to Secure Format Conversion](https://dev.to/cismic/private-image-converter-your-complete-guide-to-secure-format-conversion-34lp)
 <!-- BLOG-POST-LIST:END -->
 
 
