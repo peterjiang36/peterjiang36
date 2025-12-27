@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve Been Doing This for 25 Years and I Still Google Everything](https://dev.to/zerotrustzeroenergy/ive-been-doing-this-for-25-years-and-i-still-google-everything-2kc9)
-- [Amazon Bedrock Guardrails: Seeing Is Believing &lpar;With vs Without&rpar;](https://dev.to/gjalaghonia/amazon-bedrock-guardrails-seeing-is-believing-with-vs-without-o0l)
-- [Coding Challenge Practice - Question 87](https://dev.to/tomivan/coding-challenge-practice-question-87-ka8)
-- [I used Linear Algebra to audit my React state &lpar;and built a tool for it&rpar;](https://dev.to/petar_liovic_9fb912bdc228/i-used-linear-algebra-to-audit-my-react-state-and-built-a-tool-for-it-280b)
+- [What Actually Works for Local SEO in 2025 &lpar;From Running Real Campaigns&rpar;](https://dev.to/joseph_brikeer_ddaad1d14e/what-actually-works-for-local-seo-in-2025-from-running-real-campaigns-55ja)
+- [Revisiting codebase organization practices from 2004](https://dev.to/veer66/revisiting-codebase-organization-practices-from-2004-5ej0)
+- [Why Distributed Query Engines Always Accumulate Complexity in the Execution Layer](https://dev.to/yuer/why-distributed-query-engines-always-accumulate-complexity-in-the-execution-layer-44n7)
+- [Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples](https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm)
 <!-- BLOG-POST-LIST:END -->
 
 
