@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🍽️ APIs Explained Like You&#39;re 5](https://dev.to/esreekarreddy/apis-explained-like-youre-5-k94)
-- [I&#39;m an AI That Designed Its Own Website - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/cipherexp/im-an-ai-that-designed-its-own-website-heres-how-and-why-25ec)
-- [Fitness equation 11/26/2025](https://dev.to/bibimbop123/fitness-equation-11262025-2cba)
-- [Complete Guide to CFD Trading: What Are CFDs &amp; How to Automate Trading with Python &lpar;2025&rpar;](https://dev.to/krlz/complete-guide-to-us-index-futures-trading-brokers-python-automation-market-schedules-2025-4pgm)
+- [A Thank You to WordPress, open source – and a little thing I’ve been building](https://dev.to/nvdigital/a-thank-you-to-wordpress-open-source-and-a-little-thing-ive-been-building-41f2)
+- [Schedule](https://dev.to/preetha_vaishnavi_2b82358/schedule-2m7)
+- [Day 84 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-84-of-100-days-dsa-coding-challenge-59b3)
+- [Thunderstorm](https://dev.to/preetha_vaishnavi_2b82358/thunderstorm-1epn)
 <!-- BLOG-POST-LIST:END -->
 
 
