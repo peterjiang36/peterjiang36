@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Thank You to WordPress, open source – and a little thing I’ve been building](https://dev.to/nvdigital/a-thank-you-to-wordpress-open-source-and-a-little-thing-ive-been-building-41f2)
-- [Schedule](https://dev.to/preetha_vaishnavi_2b82358/schedule-2m7)
-- [Day 84 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-84-of-100-days-dsa-coding-challenge-59b3)
-- [Thunderstorm](https://dev.to/preetha_vaishnavi_2b82358/thunderstorm-1epn)
+- [Utilizing OS-recommended caching in go to store files on disk](https://dev.to/lucassha/utilizing-os-recommended-caching-in-go-to-store-files-on-disk-45g4)
+- [What Makes a Good Document Scanner App?](https://dev.to/editflowsuite_e387af89d5a/what-makes-a-good-document-scanner-app-3lk5)
+- [Python by Structure: Precise Error Scoping with Try/Except/Else](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-precise-error-scoping-with-tryexceptelse-2o4j)
+- [Creating my own minecraft launcher &amp; minecraft.](https://dev.to/nonameguyverse/creating-my-own-minecraft-launcher-minecraft-3emc)
 <!-- BLOG-POST-LIST:END -->
 
 
