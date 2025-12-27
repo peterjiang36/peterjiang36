@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Works for Local SEO in 2025 &lpar;From Running Real Campaigns&rpar;](https://dev.to/joseph_brikeer_ddaad1d14e/what-actually-works-for-local-seo-in-2025-from-running-real-campaigns-55ja)
-- [Revisiting codebase organization practices from 2004](https://dev.to/veer66/revisiting-codebase-organization-practices-from-2004-5ej0)
-- [Why Distributed Query Engines Always Accumulate Complexity in the Execution Layer](https://dev.to/yuer/why-distributed-query-engines-always-accumulate-complexity-in-the-execution-layer-44n7)
-- [Debugging Node.js Memory Leaks: A Complete Troubleshooting Guide with Real-World Examples](https://dev.to/hobbada/debugging-nodejs-memory-leaks-a-complete-troubleshooting-guide-with-real-world-examples-ohm)
+- [Content Delivery Patterns on AWS: CloudFront, ALB, and S3](https://dev.to/irfansatrio/content-delivery-patterns-on-aws-cloudfront-alb-and-s3-23i7)
+- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
+- [How I Built an AI Password Automation Tool with browser-use](https://dev.to/sourabh_katti_f87f3875e01/how-i-built-an-ai-password-automation-tool-with-browser-use-4ib1)
+- [How a Solo Developer Shipped a Production-Ready AI Dental Receptionist in 2 Months](https://dev.to/lake22traillady/how-a-solo-developer-shipped-a-production-ready-ai-dental-receptionist-in-2-months-444l)
 <!-- BLOG-POST-LIST:END -->
 
 
