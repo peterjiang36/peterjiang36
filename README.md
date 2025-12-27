@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompts are becoming Code, but we still treat them like Strings](https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j)
-- [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
-- [Neon Postgres Deep Dive: Why the 2025 Updates Change Serverless SQL](https://dev.to/dataformathub/neon-postgres-deep-dive-why-the-2025-updates-change-serverless-sql-5o0)
-- [Is This the Most Private Way to Track Your Life? Dashboard of Life.](https://dev.to/techno_kraft_in/is-this-the-most-private-way-to-track-your-life-dashboard-of-life-170b)
+- [How I Built a Dynamic Admin Panel for My MERN Stack Portfolio](https://dev.to/adithyan_g_6f3e606905eed7/how-i-built-a-dynamic-admin-panel-for-my-mern-stack-portfolio-2jac)
+- [TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis](https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec)
+- [Retell AI Twilio Integration Tutorial: Build AI Voice Calls Step-by-Step](https://dev.to/callstacktech/retell-ai-twilio-integration-tutorial-build-ai-voice-calls-step-by-step-4fek)
+- [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
 <!-- BLOG-POST-LIST:END -->
 
 
