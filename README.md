@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built my Portfolio as a Computer Engineer. Roast my design! 🚀](https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36)
-- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
-- [The &quot;All-In-One&quot; Tool is a Lie. &lpar;Here’s why your team is still frustrated.&rpar; 🛑](https://dev.to/chuka_okoye_82d28e6f05db0/the-all-in-one-tool-is-a-lie-heres-why-your-team-is-still-frustrated-acj)
-- [Coderive Language Feature Proposal - Broadcasting main&lpar;&rpar; as Package Executable Main](https://dev.to/danexcodr/coderive-language-feature-proposal-broadcasting-main-as-package-executable-main-4edg)
+- [Ethereum-Solidity Quiz Q6: What is the max bytecode size for smart contract deployment on Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q6-what-is-the-max-bytecode-size-for-smart-contract-deployment-on-4h3o)
+- [9 Mobile App Features Built Entirely with APIs](https://dev.to/dev_resources/9-mobile-app-features-built-entirely-with-apis-4hfi)
+- [The debate around AI coding agents misses the point. One side says &quot;AI sucks,” the other says &quot;skill issue.&quot; After months of building with Claude Code and Cursor, I’ve learned this: the real skill isn’t prompt engineering,it’s understanding the context win](https://dev.to/sachinchaurasiya/the-debate-around-ai-coding-agents-misses-the-point-one-side-says-ai-sucks-the-other-says-50f7)
+- [The #1 Skill Most Developers Miss When Using AI Coding Agents](https://dev.to/sachinchaurasiya/the-1-skill-most-developers-miss-when-using-ai-coding-agents-37h0)
 <!-- BLOG-POST-LIST:END -->
 
 
