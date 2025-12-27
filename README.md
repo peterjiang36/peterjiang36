@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat With Your Database for Free: Build a Private AI Agent in Python](https://dev.to/fabiothiroki/chat-with-your-database-for-free-build-a-private-ai-agent-in-python-j80)
-- [Open Source: A Friendly Guide for New Developers](https://dev.to/prakashm88/open-source-a-friendly-guide-for-new-developers-4mn5)
-- [You Do NOT need augmentations to train your Classifiers!!](https://dev.to/aniket_kuyate_15acc4e6587/you-do-not-need-augmentations-to-train-your-classifiers-59d0)
-- [Private Image Converter: Your Complete Guide to Secure Format Conversion](https://dev.to/cismic/private-image-converter-your-complete-guide-to-secure-format-conversion-34lp)
+- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
+- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
+- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
+- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
 <!-- BLOG-POST-LIST:END -->
 
 
