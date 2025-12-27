@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing OS-recommended caching in go to store files on disk](https://dev.to/lucassha/utilizing-os-recommended-caching-in-go-to-store-files-on-disk-45g4)
-- [What Makes a Good Document Scanner App?](https://dev.to/editflowsuite_e387af89d5a/what-makes-a-good-document-scanner-app-3lk5)
-- [Python by Structure: Precise Error Scoping with Try/Except/Else](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-precise-error-scoping-with-tryexceptelse-2o4j)
-- [Creating my own minecraft launcher &amp; minecraft.](https://dev.to/nonameguyverse/creating-my-own-minecraft-launcher-minecraft-3emc)
+- [PippaQuiz: Building the First Step Toward Smarter Education](https://dev.to/shaidozzaman_araf_42d0c98/pippaquiz-building-the-first-step-toward-smarter-education-3bn0)
+- [What is CI/CD? Continuous Integration &amp; Delivery Explained](https://dev.to/serveravatar/what-is-cicd-continuous-integration-delivery-explained-2kgg)
+- [Fiberglass Pickleball Paddles offer a softer feel, better touch, and reliable spin for outdoor play. Players who value control and comfort during long matches often choose them. Pickleball NVZ offers quality options suited for hard courts.](https://dev.to/jeenifer_beezer/fiberglass-pickleball-paddles-offer-a-softer-feel-better-touch-and-reliable-spin-for-outdoor-54hh)
+- [How Automated Cycles Can Misfire: Lessons from HVAC Control Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-automated-cycles-can-misfire-lessons-from-hvac-control-systems-4a49)
 <!-- BLOG-POST-LIST:END -->
 
 
