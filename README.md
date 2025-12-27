@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
-- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
-- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
-- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
+- [End-to-End Microservices Deployment on AWS EKS: CI/CD with Jenkins, Docker, Kubernetes &amp; Argo CD](https://dev.to/srinivasamcjf/end-to-end-microservices-deployment-on-aws-eks-cicd-with-jenkins-docker-kubernetes-argo-cd-35pp)
+- [STEP 3: SETTING UP AKS STEP-BY-STEP](https://dev.to/shakol/step-3-setting-up-aks-step-by-step-pk1)
+- [Modern Stoicism for the Digital Age: Master Your Digital World](https://dev.to/thinkaddict/modern-stoicism-for-the-digital-age-master-your-digital-world-4b8f)
+- [Vulnerabilities and its implications](https://dev.to/vishthakkar/vulnerabilities-and-its-implications-445k)
 <!-- BLOG-POST-LIST:END -->
 
 
