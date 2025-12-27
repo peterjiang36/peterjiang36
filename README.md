@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Dynamic Admin Panel for My MERN Stack Portfolio](https://dev.to/adithyan_g_6f3e606905eed7/how-i-built-a-dynamic-admin-panel-for-my-mern-stack-portfolio-2jac)
-- [TrafficLLM: Why LLMs Are Becoming Essential for Encrypted Network Traffic Analysis](https://dev.to/ritwick_mondal_553e0d0ceb/trafficllm-why-llms-are-becoming-essential-for-encrypted-network-traffic-analysis-dec)
-- [Retell AI Twilio Integration Tutorial: Build AI Voice Calls Step-by-Step](https://dev.to/callstacktech/retell-ai-twilio-integration-tutorial-build-ai-voice-calls-step-by-step-4fek)
-- [8 Places Where Flutter / React Native Save You Weeks](https://dev.to/dev_resources/8-places-where-flutter-react-native-save-you-weeks-64m)
+- [Deno 2 vs Node.js vs Bun in 2026: The Complete JavaScript Runtime Comparison](https://dev.to/hobbada/deno-2-vs-nodejs-vs-bun-in-2026-the-complete-javascript-runtime-comparison-1elm)
+- [Model Context Protocol &lpar;MCP&rpar;: The Complete Guide to Building AI Agents That Actually Work](https://dev.to/hobbada/model-context-protocol-mcp-the-complete-guide-to-building-ai-agents-that-actually-work-2e6h)
+- [Vite vs. Webpack in 2026: A Complete Migration Guide and Deep Performance Analysis](https://dev.to/hobbada/vite-vs-webpack-in-2026-a-complete-migration-guide-and-deep-performance-analysis-5ej5)
+- [Why Your Docker Build is So Slow: A Deep Dive into Multistage Dockerfile Optimization](https://dev.to/hobbada/why-your-docker-build-is-so-slow-a-deep-dive-into-multistage-dockerfile-optimization-54lo)
 <!-- BLOG-POST-LIST:END -->
 
 
