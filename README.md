@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to fix problem: Can&#39;t extend partition C:?](https://dev.to/justplegend/how-to-fix-problem-cant-extend-partition-c-4n9c)
-- [Chaos Proxy: JavaScript Shenanigans](https://dev.to/oculus42/chaos-proxy-javascript-shenanigans-4e5e)
-- [How a Solo Dev at a Dealership Runs the Entire IT Department with Claude Code](https://dev.to/aj3/how-a-solo-dev-at-a-dealership-runs-the-entire-it-department-with-claude-code-2nn6)
-- [[Boost]](https://dev.to/barbara_gaspar/-588k)
+- [Solved: The engineering problem, or what to do if you don’t know how to talk to people?](https://dev.to/techresolve/solved-the-engineering-problem-or-what-to-do-if-you-dont-know-how-to-talk-to-people-23ai)
+- [Fixing Android Emulator Lag on Windows &lpar;AVD Config Tweaks That Actually Work&rpar;](https://dev.to/zain_mhesn/fixing-android-emulator-lag-on-windows-avd-config-tweaks-that-actually-work-2bl1)
+- [AI আপনাকে কোড বানিয়ে দেবে।](https://dev.to/mehedidevops/ai-aapnaake-kodd-baaniyye-debe--54p6)
+- [SwiftUI Focus System &amp; Keyboard Internals](https://dev.to/sebastienlato/swiftui-focus-system-keyboard-internals-25i5)
 <!-- BLOG-POST-LIST:END -->
 
 
