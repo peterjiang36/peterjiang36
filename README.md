@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
-- [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
-- [The Standup Tax: Why Your Daily Meeting Is a Hidden Financial Liability](https://dev.to/ghostinit0x/the-standup-tax-why-your-daily-meeting-is-a-hidden-financial-liability-252g)
-- [RAID-AI: A Multi-Language Stress Test for Autonomous Agents](https://dev.to/nathaniel_tomas_73f60504a/raid-ai-a-multi-language-stress-test-for-autonomous-agents-pe3)
+- [Comparing API Architecture Choices: A Technical Evaluation of Six Setups Tested in Personal Development](https://dev.to/bysontech_8dd1313811a8895/comparing-api-architecture-choices-a-technical-evaluation-of-six-setups-tested-in-personal-4o63)
+- [AI Models Research Survey](https://dev.to/hemanth_kumarreddymalle/ai-models-research-survey-2ond)
+- [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
+- [125. Valid Palindrome | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/125-valid-palindrome-leetcode-top-interview-150-coding-questions-1li7)
 <!-- BLOG-POST-LIST:END -->
 
 
