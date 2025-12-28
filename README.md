@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Just Coding&quot; Won&#39;t Save You in 2026 &lpar;My Take on Akshay Saini&#39;s Advice&rpar;](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)
-- [Ethereum-Solidity Quiz Q7: What is the &quot;solc optimizer&quot; in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)
-- [Lessons Learned Building a Microservices Expense Tracker](https://dev.to/abdullah_softeng/lessons-learned-building-a-microservices-expense-tracker-4aji)
-- [How We Use goose to Maintain goose](https://dev.to/blockopensource/how-we-use-goose-to-maintain-goose-3j2h)
+- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
+- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
+- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
+- [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
 <!-- BLOG-POST-LIST:END -->
 
 
