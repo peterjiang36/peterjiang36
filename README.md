@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod)
-- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)
-- [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm)
-- [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd)
+- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
+- [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
+- [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
+- [Redis Caching in RAG: Normalized Queries, Semantic Traps &amp; What Actually Worked](https://dev.to/mahakfaheem/redis-caching-in-rag-normalized-queries-semantic-traps-what-actually-worked-59nn)
 <!-- BLOG-POST-LIST:END -->
 
 
