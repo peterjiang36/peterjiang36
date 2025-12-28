@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
-- [Unauthenticated APIs Report](https://dev.to/prashantgupta123/unauthenticated-apis-report-177f)
-- [Solved: Understanding PPC Management — What Are the Most Important Factors Today?](https://dev.to/techresolve/solved-understanding-ppc-management-what-are-the-most-important-factors-today-1hpo)
-- [Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power](https://dev.to/member_8659c28a/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-3dng)
+- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
+- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
+- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
+- [[Boost]](https://dev.to/lee_rodgers_05/-1k96)
 <!-- BLOG-POST-LIST:END -->
 
 
