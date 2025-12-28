@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refined Types in Rust: Parse, Don&#39;t Validate](https://dev.to/entropicdrift/refined-types-in-rust-parse-dont-validate-1jm8)
-- [Macroeconomics Simplified: Why Printing Money Isn&#39;t What You Think](https://dev.to/thinkaddict/macroeconomics-simplified-why-printing-money-isnt-what-you-think-53ia)
-- [Day 4 = file paths](https://dev.to/sleepy_ahmed_dbad3fbe96bc/day-4-file-paths-1iek)
-- [Correcting a Mismatch Between Code and Text](https://dev.to/marycynthia_ihemebiwo_1c4/correcting-a-mismatch-between-code-and-text-4hid)
+- [Supercharge Your Web Dev game with Chrome MCP - Part 1](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-devgame-with-chrome-mcp-part-1-9gg)
+- [Deploying a Serverless AI Agent with AWS Bedrock, Lambda, and API Gateway](https://dev.to/swat_24/deploying-a-serverless-ai-agent-with-aws-bedrock-lambda-and-api-gateway-2123)
+- [How to configure unattended-upgrades on openSUSE Leap](https://dev.to/jdrch/how-to-configure-unattended-upgrades-on-opensuse-leap-5hb7)
+- [Comparing Cloud AI Platforms in 2025: Bedrock, Azure OpenAI, and Gemini](https://dev.to/swat_24/comparing-cloud-ai-platforms-in-2025-bedrock-azure-openai-and-gemini-4ij2)
 <!-- BLOG-POST-LIST:END -->
 
 
