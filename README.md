@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-10cd)
-- [Build an Arduino Automated Toll Gate System &lpar;RFID + IR&rpar;](https://dev.to/messin_tom/build-an-arduino-automated-toll-gate-system-rfid-ir-2e75)
-- [Bulletproof Your Node.js Applications with Resilia: A Lightweight Resilience Stack](https://dev.to/silentwatcher_95/bulletproof-your-nodejs-applications-with-resilia-a-lightweight-resilience-stack-191d)
-- [How I Built a Stable 24/7 YouTube Livestream on a VPS Using FFmpeg &lpar;No SaaS Required&rpar;](https://dev.to/devlobb/how-i-built-a-stable-247-youtube-livestream-on-a-vps-using-ffmpeg-no-saas-required-1bid)
+- [Stop Paying for OpenAI: Build Your Own Local RAG Pipeline in Python- a PDF Chatbot](https://dev.to/niyati_gupta_e8b4735838d0/stop-paying-for-openai-build-your-own-local-rag-pipeline-in-python-a-pdf-chatbot-1g84)
+- [How to Monitor Any URL for Dead Links &lpar;Including Tricky Soft 404s&rpar;](https://dev.to/jsmanifest/how-to-monitor-any-url-for-dead-links-including-tricky-soft-404s-58m2)
+- [Understanding Browser Cookie Behavior &lpar;Part 2&rpar;](https://dev.to/bysontech_8dd1313811a8895/understanding-browser-cookie-behavior-part-2-24dn)
+- [🎉 WhatsApp Message Automation for New Year Greetings with Node.js🎉](https://dev.to/deepak_padliya_72bbc2219d/whatsapp-message-automation-for-new-year-greetings-with-nodejs-4hbj)
 <!-- BLOG-POST-LIST:END -->
 
 
