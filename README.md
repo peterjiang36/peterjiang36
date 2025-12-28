@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
-- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
-- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
-- [[Boost]](https://dev.to/lee_rodgers_05/-1k96)
+- [Hi everyone, checkout my first article.](https://dev.to/danny_odii/hi-everyone-checkout-my-first-article-hlb)
+- [Building a Real-Time Conversational AI Agent with LiveKit, Gemini &amp; Express](https://dev.to/danny_odii/building-a-real-time-conversational-ai-agent-with-livekit-gemini-express-3ho4)
+- [Remember Micro-Soft?](https://dev.to/johnnyallen/remember-micro-soft-1ih3)
+- [That Dreaded Alembic NotNullViolation Error &lpar;and How to Survive It&rpar;](https://dev.to/cuddi/that-dreaded-alembic-notnullviolation-error-and-how-to-survive-it-33a1)
 <!-- BLOG-POST-LIST:END -->
 
 
