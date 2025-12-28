@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi everyone, checkout my first article.](https://dev.to/danny_odii/hi-everyone-checkout-my-first-article-hlb)
-- [Building a Real-Time Conversational AI Agent with LiveKit, Gemini &amp; Express](https://dev.to/danny_odii/building-a-real-time-conversational-ai-agent-with-livekit-gemini-express-3ho4)
-- [Remember Micro-Soft?](https://dev.to/johnnyallen/remember-micro-soft-1ih3)
-- [That Dreaded Alembic NotNullViolation Error &lpar;and How to Survive It&rpar;](https://dev.to/cuddi/that-dreaded-alembic-notnullviolation-error-and-how-to-survive-it-33a1)
+- [Why &quot;Just Coding&quot; Won&#39;t Save You in 2026 &lpar;My Take on Akshay Saini&#39;s Advice&rpar;](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)
+- [Ethereum-Solidity Quiz Q7: What is the &quot;solc optimizer&quot; in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)
+- [Lessons Learned Building a Microservices Expense Tracker](https://dev.to/abdullah_softeng/lessons-learned-building-a-microservices-expense-tracker-4aji)
+- [How We Use goose to Maintain goose](https://dev.to/blockopensource/how-we-use-goose-to-maintain-goose-3j2h)
 <!-- BLOG-POST-LIST:END -->
 
 
