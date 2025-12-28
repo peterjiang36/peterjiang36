@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Exposing Persistence Entities in APIs Is a Dangerous Shortcut](https://dev.to/krishna-nayak/why-exposing-persistence-entities-in-apis-is-a-dangerous-shortcut-3oim)
-- [Serving a deep learning model with Django](https://dev.to/oncs21/serving-a-deep-learning-model-with-django-5ff8)
-- [If you are building a developer tool, Let&#39;s Connect!!!](https://dev.to/codeatoms/if-you-are-building-a-developer-tool-lets-connect-3dod)
-- [Laravel FAQs &lpar;Beginner to Advanced&rpar;](https://dev.to/prateekshaweb/laravel-faqs-beginner-to-advanced-2ojh)
+- [OpenTofu ORAS Backend: Store State in GitHub Container Registry &lpar;GHCR&rpar;](https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f)
+- [Prompt Engineering From First Principles: The Mechanics They Don&#39;t Teach You part-1](https://dev.to/programmerraja/prompt-engineering-from-first-principles-the-mechanics-they-dont-teach-you-part-1-12nb)
+- [Why Wazuh Missed React2Shell](https://dev.to/0xdolan/why-wazuh-missed-react2shell-59jm)
+- [I Built an AI Image Upscaler SaaS &lpar;4K / 16K&rpar; — What I Learned Shipping It](https://dev.to/yifeng_jiang_6391a61fd8ff/i-built-an-ai-image-upscaler-saas-4k-16k-what-i-learned-shipping-it-36j9)
 <!-- BLOG-POST-LIST:END -->
 
 
