@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
-- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
-- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
-- [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
+- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-10cd)
+- [Build an Arduino Automated Toll Gate System &lpar;RFID + IR&rpar;](https://dev.to/messin_tom/build-an-arduino-automated-toll-gate-system-rfid-ir-2e75)
+- [Bulletproof Your Node.js Applications with Resilia: A Lightweight Resilience Stack](https://dev.to/silentwatcher_95/bulletproof-your-nodejs-applications-with-resilia-a-lightweight-resilience-stack-191d)
+- [How I Built a Stable 24/7 YouTube Livestream on a VPS Using FFmpeg &lpar;No SaaS Required&rpar;](https://dev.to/devlobb/how-i-built-a-stable-247-youtube-livestream-on-a-vps-using-ffmpeg-no-saas-required-1bid)
 <!-- BLOG-POST-LIST:END -->
 
 
