@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 결산](https://dev.to/algoorgoal/2025-gyeolsan-16gp)
-- [waves](https://dev.to/preetha_vaishnavi_2b82358/waves-1mka)
-- [Kinetic Wave](https://dev.to/preetha_vaishnavi_2b82358/kinetic-wave-16do)
-- [Launch an AWS EC2 Instance](https://dev.to/mayank_tamrkar/launch-an-aws-ec2-instance-1m76)
+- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
+- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
+- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
+- [Skills They Don&#39;t Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
 <!-- BLOG-POST-LIST:END -->
 
 
