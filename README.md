@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Web Dev game with Chrome MCP - Part 1](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-devgame-with-chrome-mcp-part-1-9gg)
-- [Deploying a Serverless AI Agent with AWS Bedrock, Lambda, and API Gateway](https://dev.to/swat_24/deploying-a-serverless-ai-agent-with-aws-bedrock-lambda-and-api-gateway-2123)
-- [How to configure unattended-upgrades on openSUSE Leap](https://dev.to/jdrch/how-to-configure-unattended-upgrades-on-opensuse-leap-5hb7)
-- [Comparing Cloud AI Platforms in 2025: Bedrock, Azure OpenAI, and Gemini](https://dev.to/swat_24/comparing-cloud-ai-platforms-in-2025-bedrock-azure-openai-and-gemini-4ij2)
+- [easy-query: The Most Powerful ORM Subquery for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-subquery-for-java-id9)
+- [Building a Retro CRT Terminal Website with WebGL and GitHub Copilot &lpar;Claude Opus 4.5&rpar;](https://dev.to/remojansen/building-a-retro-crt-terminal-website-with-webgl-and-github-copilot-claude-opus-35-3jfd)
+- [Modelos de ML: Por Qué Tu Predicción Es Buena... Hasta Que No Lo Es](https://dev.to/python_baires/modelos-de-ml-por-que-tu-prediccion-es-buena-hasta-que-no-lo-es-3daa)
+- [Stop Fighting Context Limits: How Multi-Agent Systems Solved My Development Chaos&lpar;Part 1&rpar;](https://dev.to/zeflq/stop-fighting-context-limits-how-multi-agent-systems-solved-my-development-chaospart-1-2a4a)
 <!-- BLOG-POST-LIST:END -->
 
 
