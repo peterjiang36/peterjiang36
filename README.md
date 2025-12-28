@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 O que é o eslint-plugin-jsx-a11y?](https://dev.to/nathdev/o-que-e-o-eslint-plugin-jsx-a11y-31le)
-- [🔑 O que é useId no React?](https://dev.to/nathdev/o-que-e-useid-no-react-26p0)
-- [🚀 O Poder da Teoria dos Conjuntos na Programação: Lodash como Aliado na União e Diferença de Dados](https://dev.to/nathdev/o-poder-da-teoria-dos-conjuntos-na-programacao-lodash-como-aliado-na-uniao-e-diferenca-de-dados-3cie)
-- [🚀 Maximizando a Performance de Tabelas: 4 Estratégias Essenciais no Frontend!](https://dev.to/nathdev/maximizando-a-performance-de-tabelas-4-estrategias-essenciais-no-frontend-4lf9)
+- [Refined Types in Rust: Parse, Don&#39;t Validate](https://dev.to/entropicdrift/refined-types-in-rust-parse-dont-validate-1jm8)
+- [Macroeconomics Simplified: Why Printing Money Isn&#39;t What You Think](https://dev.to/thinkaddict/macroeconomics-simplified-why-printing-money-isnt-what-you-think-53ia)
+- [Day 4 = file paths](https://dev.to/sleepy_ahmed_dbad3fbe96bc/day-4-file-paths-1iek)
+- [Correcting a Mismatch Between Code and Text](https://dev.to/marycynthia_ihemebiwo_1c4/correcting-a-mismatch-between-code-and-text-4hid)
 <!-- BLOG-POST-LIST:END -->
 
 
