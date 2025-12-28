@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
-- [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
-- [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
-- [Redis Caching in RAG: Normalized Queries, Semantic Traps &amp; What Actually Worked](https://dev.to/mahakfaheem/redis-caching-in-rag-normalized-queries-semantic-traps-what-actually-worked-59nn)
+- [Why Exposing Persistence Entities in APIs Is a Dangerous Shortcut](https://dev.to/krishna-nayak/why-exposing-persistence-entities-in-apis-is-a-dangerous-shortcut-3oim)
+- [Serving a deep learning model with Django](https://dev.to/oncs21/serving-a-deep-learning-model-with-django-5ff8)
+- [If you are building a developer tool, Let&#39;s Connect!!!](https://dev.to/codeatoms/if-you-are-building-a-developer-tool-lets-connect-3dod)
+- [Laravel FAQs &lpar;Beginner to Advanced&rpar;](https://dev.to/prateekshaweb/laravel-faqs-beginner-to-advanced-2ojh)
 <!-- BLOG-POST-LIST:END -->
 
 
