@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)
-- [Repository Pattern in Laravel: Clean Up Your Messy Code](https://dev.to/laravel_mastery_ffd9d10ec/repository-pattern-in-laravel-clean-up-your-messy-code-10ed)
-- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Deep Dive into Hash Chains and Merkle Trees](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6)
-- [Happy Birthday Linus Torvalds: The Father Of Modern Computers](https://dev.to/agunechemba/happy-birthday-linus-torvalds-the-father-of-modern-computers-41be)
+- [2025 결산](https://dev.to/algoorgoal/2025-gyeolsan-16gp)
+- [waves](https://dev.to/preetha_vaishnavi_2b82358/waves-1mka)
+- [Kinetic Wave](https://dev.to/preetha_vaishnavi_2b82358/kinetic-wave-16do)
+- [Launch an AWS EC2 Instance](https://dev.to/mayank_tamrkar/launch-an-aws-ec2-instance-1m76)
 <!-- BLOG-POST-LIST:END -->
 
 
