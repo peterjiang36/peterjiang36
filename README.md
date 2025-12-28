@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu ORAS Backend: Store State in GitHub Container Registry &lpar;GHCR&rpar;](https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f)
-- [Prompt Engineering From First Principles: The Mechanics They Don&#39;t Teach You part-1](https://dev.to/programmerraja/prompt-engineering-from-first-principles-the-mechanics-they-dont-teach-you-part-1-12nb)
-- [Why Wazuh Missed React2Shell](https://dev.to/0xdolan/why-wazuh-missed-react2shell-59jm)
-- [I Built an AI Image Upscaler SaaS &lpar;4K / 16K&rpar; — What I Learned Shipping It](https://dev.to/yifeng_jiang_6391a61fd8ff/i-built-an-ai-image-upscaler-saas-4k-16k-what-i-learned-shipping-it-36j9)
+- [How AI + GCP Work Together to Build Scalable, Real-World Intelligent Applications](https://dev.to/realnamehidden1_61/how-ai-gcp-work-together-to-build-scalable-real-world-intelligent-applications-264)
+- [Mr Sunday Movies: Biggest Box Office Hits Of 2025](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-box-office-hits-of-2025-4nk)
+- [AlloyDB for PostgreSQL: The Ultimate Guide to Google’s Hyper-Scale Database](https://dev.to/tech_croc_f32fbb6ea8ed4/alloydb-for-postgresql-the-ultimate-guide-to-googles-hyper-scale-database-aia)
+- [From Clicking Icons to Building an OS: A Developer’s Journey Through Operating System](https://dev.to/ethernmyth/from-clicking-icons-to-building-an-os-a-developers-journey-through-operating-system-2o2f)
 <!-- BLOG-POST-LIST:END -->
 
 
