@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [easy-query: The Most Powerful ORM Subquery for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-subquery-for-java-id9)
-- [Building a Retro CRT Terminal Website with WebGL and GitHub Copilot &lpar;Claude Opus 4.5&rpar;](https://dev.to/remojansen/building-a-retro-crt-terminal-website-with-webgl-and-github-copilot-claude-opus-35-3jfd)
-- [Modelos de ML: Por Qué Tu Predicción Es Buena... Hasta Que No Lo Es](https://dev.to/python_baires/modelos-de-ml-por-que-tu-prediccion-es-buena-hasta-que-no-lo-es-3daa)
-- [Stop Fighting Context Limits: How Multi-Agent Systems Solved My Development Chaos&lpar;Part 1&rpar;](https://dev.to/zeflq/stop-fighting-context-limits-how-multi-agent-systems-solved-my-development-chaospart-1-2a4a)
+- [Fitness Equation 11/27/2025](https://dev.to/bibimbop123/fitness-equation-11272025-4dd4)
+- [Building an Intelligent Customer Support System with Multi-Agent Architecture](https://dev.to/exploredataaiml/building-an-intelligent-customer-support-system-with-multi-agent-architecture-236h)
+- [Dario Amodei - resigns from openai &amp; built AI safety](https://dev.to/tashfia_a8008e6a542/dario-amodei-resigns-from-openai-built-ai-safety-52cf)
+- [A Complete Guide to i18n in Next.js 15 App Router with next-intl &lpar;Supporting 8 Languages&rpar;](https://dev.to/mukitaro/a-complete-guide-to-i18n-in-nextjs-15-app-router-with-next-intl-supporting-8-languages-1lgj)
 <!-- BLOG-POST-LIST:END -->
 
 
