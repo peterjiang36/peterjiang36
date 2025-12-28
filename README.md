@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
-- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
-- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
-- [Skills They Don&#39;t Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
+- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
+- [Unauthenticated APIs Report](https://dev.to/prashantgupta123/unauthenticated-apis-report-177f)
+- [Solved: Understanding PPC Management — What Are the Most Important Factors Today?](https://dev.to/techresolve/solved-understanding-ppc-management-what-are-the-most-important-factors-today-1hpo)
+- [Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power](https://dev.to/member_8659c28a/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-3dng)
 <!-- BLOG-POST-LIST:END -->
 
 
