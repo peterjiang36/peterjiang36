@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying for OpenAI: Build Your Own Local RAG Pipeline in Python- a PDF Chatbot](https://dev.to/niyati_gupta_e8b4735838d0/stop-paying-for-openai-build-your-own-local-rag-pipeline-in-python-a-pdf-chatbot-1g84)
-- [How to Monitor Any URL for Dead Links &lpar;Including Tricky Soft 404s&rpar;](https://dev.to/jsmanifest/how-to-monitor-any-url-for-dead-links-including-tricky-soft-404s-58m2)
-- [Understanding Browser Cookie Behavior &lpar;Part 2&rpar;](https://dev.to/bysontech_8dd1313811a8895/understanding-browser-cookie-behavior-part-2-24dn)
-- [🎉 WhatsApp Message Automation for New Year Greetings with Node.js🎉](https://dev.to/deepak_padliya_72bbc2219d/whatsapp-message-automation-for-new-year-greetings-with-nodejs-4hbj)
+- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
+- [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
+- [The Standup Tax: Why Your Daily Meeting Is a Hidden Financial Liability](https://dev.to/ghostinit0x/the-standup-tax-why-your-daily-meeting-is-a-hidden-financial-liability-252g)
+- [RAID-AI: A Multi-Language Stress Test for Autonomous Agents](https://dev.to/nathaniel_tomas_73f60504a/raid-ai-a-multi-language-stress-test-for-autonomous-agents-pe3)
 <!-- BLOG-POST-LIST:END -->
 
 
