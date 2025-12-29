@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
-- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
-- [Building an AI-Powered &lpar;SaaS, App, etc&rpar; Idea Validation System](https://dev.to/kzeitar/building-an-ai-powered-saas-app-etc-idea-validation-system-bpg)
-- [LLM Deep Dive 2025: Why Claude 4 and GPT-5.1 Change Everything](https://dev.to/dataformathub/llm-deep-dive-2025-why-claude-4-and-gpt-51-change-everything-4c26)
+- [Terraform: using Ephemeral Resources and Write-Only Attributes](https://dev.to/setevoy/terraform-using-ephemeral-resources-and-write-only-attributes-56lg)
+- [Setting Up and Testing PayPal Webhooks Locally Without Guesswork](https://dev.to/lightningdev123/setting-up-and-testing-paypal-webhooks-locally-without-guesswork-56c6)
+- [Web Accessibility Reference Guide](https://dev.to/paras594/web-accessibility-reference-guide-j08)
+- [WebRTC Softphone Security Explained: Encryption, Browser Risks, Best Practices](https://dev.to/sheerbittech/webrtc-softphone-security-explained-encryption-browser-risks-best-practices-n91)
 <!-- BLOG-POST-LIST:END -->
 
 
