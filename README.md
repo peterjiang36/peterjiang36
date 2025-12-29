@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Organizations: The Easy Way](https://dev.to/adehorizon/aws-organizations-the-easy-way-54pd)
-- [MindsDB Supercharges Google&#39;s MCP Toolbox with Unstructured Data Support](https://dev.to/mindsdb/mindsdb-supercharges-googles-mcp-toolbox-with-unstructured-data-support-4cch)
-- [Next.js 16 Yayınlandı: Yenilikler, Değişiklikler ve Geliştiriciler İçin Derinlemesine İnceleme](https://dev.to/erhanaky/nextjs-16-yayinlandi-yenilikler-degisiklikler-ve-gelistiriciler-icin-derinlemesine-inceleme-30la)
-- [Heavstal Auth — NextAuth Provider for Heavstal Tech](https://dev.to/heavstal_tech/heavstal-auth-nextauth-provider-for-heavstal-tech-5bpn)
+- [Bga Buses &lpar;MUX Challenge&rpar;](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
+- [BProtector: Post-Quantum Steganography dApp on Solana – Hide Files Undetectably &lpar;Devnet Live&rpar;](https://dev.to/bobz_aa792a56ec14e9464370/bprotector-post-quantum-steganography-dapp-on-solana-hide-files-undetectably-devnet-live-10k3)
+- [Building My Own Automated Budget Tracker Using Notion](https://dev.to/cjoy/building-my-own-automated-budget-tracker-using-notion-3b03)
+- [Turning Complexity into Smart Simplicity in Learning Design](https://dev.to/pinedpidned3456/turning-complexity-into-smart-simplicity-in-learning-design-23jn)
 <!-- BLOG-POST-LIST:END -->
 
 
