@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
-- [How Monetzly Turns AI Conversations into Profitable Developer Revenue Streams](https://dev.to/monetzly/how-monetzly-turns-ai-conversations-into-profitable-developer-revenue-streams-2neh)
-- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
-- [What is Technical Writing For B2B SaaS Companies?](https://dev.to/infrasity-learning/what-is-technical-writing-for-b2b-saas-companies-kkn)
+- [EP 10: Git Hooks - The &quot;Pre-Flight&quot; Check for Your Code](https://dev.to/hrishikesh_dalal_ced8f95e/ep-10-git-hooks-the-pre-flight-check-for-your-code-5d)
+- [Un pequeño script para el códec, un gran paso para el Dev Learning Branch](https://dev.to/lostcodec/un-pequeno-script-para-el-codec-un-gran-paso-para-el-dev-learning-branch-4bhn)
+- [Music Monday &lpar;Community Playlist!&rpar;](https://dev.to/musicforem/music-monday-community-playlist-3fc9)
+- [🐧 Comandos de procesamiento de texto en Linux: guía práctica](https://dev.to/chainiz/comandos-de-procesamiento-de-texto-en-linux-guia-practica-f7f)
 <!-- BLOG-POST-LIST:END -->
 
 
