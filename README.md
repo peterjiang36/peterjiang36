@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shared a short post on CI/CD feeling heavy even when it works.
-Moved from GitHub Actions Ansible + Jenkins
-Curious how others here navigated this phase.](https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off)
-- [Understanding Proxy Patterns: The Why and How of Static and Dynamic Proxies in Java](https://dev.to/rajatarora/understanding-proxy-patterns-the-why-and-how-of-static-and-dynamic-proxies-in-java-h1g)
-- [The Role of AI in Crypto Exchanges: Benefits and Challenges for Developers](https://dev.to/riley_quinn_8e58a0a96d107/the-role-of-ai-in-crypto-exchanges-benefits-and-challenges-for-developers-311f)
-- [Net Fabric Dresses: Effortless Grace in Layered Design](https://dev.to/houseofsiyaab/net-fabric-dresses-effortless-grace-in-layered-design-1kpe)
+- [What Actually Happens When Developers Treat AI Like a Black Box](https://dev.to/leena_malhotra/what-actually-happens-when-developers-treat-ai-like-a-black-box-30k2)
+- [Ringer Movies: F---, Marry, Kill at the Movies: ‘The Housemaid,’ ‘Song Sung Blue,’ and ‘Anaconda’](https://dev.to/popcorn_movies/ringer-movies-f-marry-kill-at-the-movies-the-housemaid-song-sung-blue-and-anaconda-3hed)
+- [The Great Contradiction](https://dev.to/rawveg/the-great-contradiction-4ba8)
+- [AI Prototyping That Actually Ships](https://dev.to/lcssgml/ai-prototyping-that-actually-ships-29ij)
 <!-- BLOG-POST-LIST:END -->
 
 
