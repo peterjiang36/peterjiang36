@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [“Harvest Now, Decrypt Later” Is Already in Production](https://dev.to/yuji_marutani/harvest-now-decrypt-later-is-already-in-production-1l30)
-- [Version Control for Beginners: The Pendrive Analogy](https://dev.to/satyasootar/version-control-for-beginners-the-pendrive-analogy-1629)
-- [SmartKNN Regression Benchmarks High-Dimensional Datasets](https://dev.to/jashwanth_thatipamula_8ee/smartknn-regression-benchmarks-high-dimensional-datasets-56ch)
-- [I Built an Offline-First Semantic Search Engine in JavaScript](https://dev.to/iaavas/i-built-an-offline-first-semantic-search-engine-in-javascript-345b)
+- [The Best WordPress Caching Plugins in 2026 &lpar;What Actually Works&rpar;](https://dev.to/biancarus/the-best-wordpress-caching-plugins-in-2026-what-actually-works-4dja)
+- [SQL Server Clients Compared in 2025](https://dev.to/dbvismarketing/sql-server-clients-compared-in-2025-31gh)
+- [How AI Is Reshaping Diagnostics in Healthcare](https://dev.to/emmawilson01/how-ai-is-reshaping-diagnostics-in-healthcare-2pbp)
+- [🎅🎄 Happy Data-Pocalypse, Users! &lpar;Bad Advice from the IT-Grinch&rpar; 🎄🎅](https://dev.to/lag_lagendary/happy-data-pocalypse-users-bad-advice-from-the-it-grinch-33c4)
 <!-- BLOG-POST-LIST:END -->
 
 
