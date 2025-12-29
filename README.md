@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2 — GenAI Is Not Magic: Understanding LLMs Like a Systems Engineer](https://dev.to/muzammiltalha/genai-is-not-magic-understanding-llms-like-a-systems-engineer-b7n)
-- [Tech leaders should understand that AI can manage the end to end process. Once we have complete integration of tools, the entire responsibility of tech leaders will change completely.](https://dev.to/jaideepparashar/tech-leaders-should-understand-that-ai-can-manage-the-end-to-end-process-once-we-have-complete-4egg)
-- [What Most Tech Leaders Get Wrong About AI Strategy](https://dev.to/jaideepparashar/what-most-tech-leaders-get-wrong-about-ai-strategy-36ih)
-- [How computers stumble over Japanese readings](https://dev.to/epitrochoid/how-computers-stumble-over-japanese-readings-2p72)
+- [Minimalism isn&#39;t a style. It&#39;s a growth strategy](https://dev.to/paywallpro/minimalism-isnt-a-style-its-a-growth-strategy-5f3i)
+- [Read Excel in C# with Simple Code](https://dev.to/codingco/read-excel-in-c-with-simple-code-3ek)
+- [When Your API Documentation Lies: Building an AI-Powered Validator to Catch the Drift](https://dev.to/exploredataaiml/when-your-api-documentation-lies-building-an-ai-powered-validator-to-catch-the-drift-2ajh)
+- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
 <!-- BLOG-POST-LIST:END -->
 
 
