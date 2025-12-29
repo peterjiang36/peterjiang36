@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TradingView Signal Live Trading: New Version Solution](https://dev.to/chronosquant/tradingview-signal-live-trading-new-version-solution-2jio)
-- [Why the Best Errors Are ORA Errors: A Love Letter to Loud Failures](https://dev.to/smyekh/why-the-best-errors-are-ora-errors-a-love-letter-to-loud-failures-6gk)
-- [Demystifying YAML: Your Essential Guide to Configuration Mastery](https://dev.to/ajitkumar/demystifying-yaml-your-essential-guide-to-configuration-mastery-3je0)
-- [Why ‘Agentic AI’ Wows in Demos but Breaks in Real Life](https://dev.to/aiwithapex/why-agentic-ai-wows-in-demos-but-breaks-in-real-life-46ek)
+- [“Harvest Now, Decrypt Later” Is Already in Production](https://dev.to/yuji_marutani/harvest-now-decrypt-later-is-already-in-production-1l30)
+- [Version Control for Beginners: The Pendrive Analogy](https://dev.to/satyasootar/version-control-for-beginners-the-pendrive-analogy-1629)
+- [SmartKNN Regression Benchmarks High-Dimensional Datasets](https://dev.to/jashwanth_thatipamula_8ee/smartknn-regression-benchmarks-high-dimensional-datasets-56ch)
+- [I Built an Offline-First Semantic Search Engine in JavaScript](https://dev.to/iaavas/i-built-an-offline-first-semantic-search-engine-in-javascript-345b)
 <!-- BLOG-POST-LIST:END -->
 
 
