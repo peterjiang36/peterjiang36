@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251229165950]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20251229165950-3lal)
-- [30 Core Algorithm Ep:04- Two Pointers Technique](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep04-two-pointers-technique-2nao)
-- [Building a Premium Bento-Style Portfolio with React, GSAP &amp; Tailwind v4](https://dev.to/kiran_balaji_197/building-a-premium-bento-style-portfolio-with-react-gsap-tailwind-v4-2ig8)
-- [DB Interactions: How Applications Talk to DB](https://dev.to/lovestaco/db-interactions-how-applications-talk-to-db-453f)
+- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability &lpar;DEV304&rpar;](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3)
+- [Consistently deploying Lambda functions and layers using Terraform](https://dev.to/aws-builders/consistently-deploying-lambda-functions-and-layers-using-terraform-379b)
+- [Creating a Compelling User Interface for Online Web Games: Best Practices and Design Tips](https://dev.to/joseph-davies/creating-a-compelling-user-interface-for-online-web-games-best-practices-and-design-tips-24b0)
+- [Building Secure Session-Based Authentication in NestJS - Part 2](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-part-2-b54)
 <!-- BLOG-POST-LIST:END -->
 
 
