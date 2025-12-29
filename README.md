@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EP 10: Git Hooks - The &quot;Pre-Flight&quot; Check for Your Code](https://dev.to/hrishikesh_dalal_ced8f95e/ep-10-git-hooks-the-pre-flight-check-for-your-code-5d)
-- [Un pequeño script para el códec, un gran paso para el Dev Learning Branch](https://dev.to/lostcodec/un-pequeno-script-para-el-codec-un-gran-paso-para-el-dev-learning-branch-4bhn)
-- [Music Monday &lpar;Community Playlist!&rpar;](https://dev.to/musicforem/music-monday-community-playlist-3fc9)
-- [🐧 Comandos de procesamiento de texto en Linux: guía práctica](https://dev.to/chainiz/comandos-de-procesamiento-de-texto-en-linux-guia-practica-f7f)
+- [TradingView Signal Live Trading: New Version Solution](https://dev.to/chronosquant/tradingview-signal-live-trading-new-version-solution-2jio)
+- [Why the Best Errors Are ORA Errors: A Love Letter to Loud Failures](https://dev.to/smyekh/why-the-best-errors-are-ora-errors-a-love-letter-to-loud-failures-6gk)
+- [Demystifying YAML: Your Essential Guide to Configuration Mastery](https://dev.to/ajitkumar/demystifying-yaml-your-essential-guide-to-configuration-mastery-3je0)
+- [Why ‘Agentic AI’ Wows in Demos but Breaks in Real Life](https://dev.to/aiwithapex/why-agentic-ai-wows-in-demos-but-breaks-in-real-life-46ek)
 <!-- BLOG-POST-LIST:END -->
 
 
