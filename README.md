@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bga Buses &lpar;MUX Challenge&rpar;](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
-- [BProtector: Post-Quantum Steganography dApp on Solana – Hide Files Undetectably &lpar;Devnet Live&rpar;](https://dev.to/bobz_aa792a56ec14e9464370/bprotector-post-quantum-steganography-dapp-on-solana-hide-files-undetectably-devnet-live-10k3)
-- [Building My Own Automated Budget Tracker Using Notion](https://dev.to/cjoy/building-my-own-automated-budget-tracker-using-notion-3b03)
-- [Turning Complexity into Smart Simplicity in Learning Design](https://dev.to/pinedpidned3456/turning-complexity-into-smart-simplicity-in-learning-design-23jn)
+- [The $0 Localization Stack for Solo .NET Developers](https://dev.to/nikolaos_protopapas_d3bd6/the-0-localization-stack-for-solo-net-developers-3i62)
+- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
+- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
+- [Coding Challenge Practice - Question 90](https://dev.to/tomivan/coding-challenge-practice-question-90-5dgd)
 <!-- BLOG-POST-LIST:END -->
 
 
