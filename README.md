@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Idle Consciousness: A Hegelian Reading of Human Servitude in the Age of AI](https://dev.to/bdovenbird/the-idle-consciousness-a-hegelian-reading-of-human-servitude-in-the-age-of-ai-1if8)
-- [Azure - Managed Identities - Complete Tutorial](https://dev.to/hkj13/azure-managed-identities-complete-tutorial-3i84)
-- [Introduce Parameter Object: A Refactoring Pattern That Scales](https://dev.to/codecraft_diary_3d13677fb/introduce-parameter-object-a-refactoring-pattern-that-scales-4981)
-- [From Plan-Perfectly to Try-and-Improve](https://dev.to/synthaicode_commander/from-plan-perfectly-to-try-and-improve-3f2c)
+- [GitHub for Beginners: Master Pull Requests, Git Workflow &amp; YOLO Achievements](https://dev.to/al_faiz_code/github-for-beginners-master-pull-requests-git-workflow-yolo-achievements-4l5n)
+- [Lazy Heap: Lazy Deletion](https://dev.to/_a_m_a_n_pandey/lazy-heap-lazy-deletion-47hi)
+- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Intro](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-intro-5hlm)
+- [Offline Geospatial Maps: Building a No-Internet Tile Server](https://dev.to/ben_var_551c679bfe4787c4f/offline-geospatial-maps-building-a-no-internet-tile-server-10gh)
 <!-- BLOG-POST-LIST:END -->
 
 
