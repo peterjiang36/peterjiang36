@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: using Ephemeral Resources and Write-Only Attributes](https://dev.to/setevoy/terraform-using-ephemeral-resources-and-write-only-attributes-56lg)
-- [Setting Up and Testing PayPal Webhooks Locally Without Guesswork](https://dev.to/lightningdev123/setting-up-and-testing-paypal-webhooks-locally-without-guesswork-56c6)
-- [Web Accessibility Reference Guide](https://dev.to/paras594/web-accessibility-reference-guide-j08)
-- [WebRTC Softphone Security Explained: Encryption, Browser Risks, Best Practices](https://dev.to/sheerbittech/webrtc-softphone-security-explained-encryption-browser-risks-best-practices-n91)
+- [Shared a short post on CI/CD feeling heavy even when it works.
+Moved from GitHub Actions Ansible + Jenkins
+Curious how others here navigated this phase.](https://dev.to/nightwalker28/shared-a-short-post-on-cicd-feeling-heavy-even-when-it-works-moved-from-github-actions-ansible-1off)
+- [Understanding Proxy Patterns: The Why and How of Static and Dynamic Proxies in Java](https://dev.to/rajatarora/understanding-proxy-patterns-the-why-and-how-of-static-and-dynamic-proxies-in-java-h1g)
+- [The Role of AI in Crypto Exchanges: Benefits and Challenges for Developers](https://dev.to/riley_quinn_8e58a0a96d107/the-role-of-ai-in-crypto-exchanges-benefits-and-challenges-for-developers-311f)
+- [Net Fabric Dresses: Effortless Grace in Layered Design](https://dev.to/houseofsiyaab/net-fabric-dresses-effortless-grace-in-layered-design-1kpe)
 <!-- BLOG-POST-LIST:END -->
 
 
