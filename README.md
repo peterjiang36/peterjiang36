@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Engenharia de Requisitos na Era dos Algoritmos: Colaboração, Não Substituição](https://dev.to/vinicius3w/a-engenharia-de-requisitos-na-era-dos-algoritmos-colaboracao-nao-substituicao-4knj)
-- [Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
-
-¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!](https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j)
-- [How I built 300+ backlinks for my SaaS without outreach](https://dev.to/hansplg953/how-i-built-300-backlinks-for-my-saas-without-outreach-44e)
-- [Building Centralized Documentation Across Microservices with Docusaurus, GitLab CI, and TypeDoc](https://dev.to/piotr_pomierski/building-centralized-documentation-across-microservices-with-docusaurus-gitlab-ci-and-typedoc-5a7d)
+- [AWS Organizations: The Easy Way](https://dev.to/adehorizon/aws-organizations-the-easy-way-54pd)
+- [MindsDB Supercharges Google&#39;s MCP Toolbox with Unstructured Data Support](https://dev.to/mindsdb/mindsdb-supercharges-googles-mcp-toolbox-with-unstructured-data-support-4cch)
+- [Next.js 16 Yayınlandı: Yenilikler, Değişiklikler ve Geliştiriciler İçin Derinlemesine İnceleme](https://dev.to/erhanaky/nextjs-16-yayinlandi-yenilikler-degisiklikler-ve-gelistiriciler-icin-derinlemesine-inceleme-30la)
+- [Heavstal Auth — NextAuth Provider for Heavstal Tech](https://dev.to/heavstal_tech/heavstal-auth-nextauth-provider-for-heavstal-tech-5bpn)
 <!-- BLOG-POST-LIST:END -->
 
 
