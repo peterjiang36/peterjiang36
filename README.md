@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best WordPress Caching Plugins in 2026 &lpar;What Actually Works&rpar;](https://dev.to/biancarus/the-best-wordpress-caching-plugins-in-2026-what-actually-works-4dja)
-- [SQL Server Clients Compared in 2025](https://dev.to/dbvismarketing/sql-server-clients-compared-in-2025-31gh)
-- [How AI Is Reshaping Diagnostics in Healthcare](https://dev.to/emmawilson01/how-ai-is-reshaping-diagnostics-in-healthcare-2pbp)
-- [🎅🎄 Happy Data-Pocalypse, Users! &lpar;Bad Advice from the IT-Grinch&rpar; 🎄🎅](https://dev.to/lag_lagendary/happy-data-pocalypse-users-bad-advice-from-the-it-grinch-33c4)
+- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
+- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
+- [Building an AI-Powered &lpar;SaaS, App, etc&rpar; Idea Validation System](https://dev.to/kzeitar/building-an-ai-powered-saas-app-etc-idea-validation-system-bpg)
+- [LLM Deep Dive 2025: Why Claude 4 and GPT-5.1 Change Everything](https://dev.to/dataformathub/llm-deep-dive-2025-why-claude-4-and-gpt-51-change-everything-4c26)
 <!-- BLOG-POST-LIST:END -->
 
 
