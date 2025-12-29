@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Control Your Space or You Lose Your Mind Working Remote](https://dev.to/colesilverstone/control-your-space-or-you-lose-your-mind-working-remote-1h12)
-- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk)
-- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
-- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57)
+- [Part 2 — GenAI Is Not Magic: Understanding LLMs Like a Systems Engineer](https://dev.to/muzammiltalha/genai-is-not-magic-understanding-llms-like-a-systems-engineer-b7n)
+- [Tech leaders should understand that AI can manage the end to end process. Once we have complete integration of tools, the entire responsibility of tech leaders will change completely.](https://dev.to/jaideepparashar/tech-leaders-should-understand-that-ai-can-manage-the-end-to-end-process-once-we-have-complete-4egg)
+- [What Most Tech Leaders Get Wrong About AI Strategy](https://dev.to/jaideepparashar/what-most-tech-leaders-get-wrong-about-ai-strategy-36ih)
+- [How computers stumble over Japanese readings](https://dev.to/epitrochoid/how-computers-stumble-over-japanese-readings-2p72)
 <!-- BLOG-POST-LIST:END -->
 
 
