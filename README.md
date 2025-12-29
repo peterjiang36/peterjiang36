@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing API Architecture Choices: A Technical Evaluation of Six Setups Tested in Personal Development](https://dev.to/bysontech_8dd1313811a8895/comparing-api-architecture-choices-a-technical-evaluation-of-six-setups-tested-in-personal-4o63)
-- [AI Models Research Survey](https://dev.to/hemanth_kumarreddymalle/ai-models-research-survey-2ond)
-- [FormCN: Generate React Forms in Seconds](https://dev.to/f-47/formcn-generate-react-forms-in-seconds-1nfc)
-- [125. Valid Palindrome | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/125-valid-palindrome-leetcode-top-interview-150-coding-questions-1li7)
+- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero – Otro camino para llegar a Roma](https://dev.to/dcastrocordero22/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-otro-camino-para-llegar-2iek)
+- [392. Is Subsequence | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/392-is-subsequence-leetcode-top-interview-150-coding-questions-2ddb)
+- [Stop Query Lemot! Cara Cepat Bikin JOIN Table Pakai Teknik Rahasia Ini](https://dev.to/insight105/stop-query-lemot-cara-cepat-bikin-join-table-pakai-teknik-rahasia-ini-2pg4)
+- [**Distracted Driving Epidemic: Driver Charged for Livestreaming on TikTok While Causing Fatal Accident**](https://dev.to/yagyaraj_sharma_6cd410179/distracted-driving-epidemic-driver-charged-for-livestreaming-on-tiktok-while-causing-fatal-1knf)
 <!-- BLOG-POST-LIST:END -->
 
 
