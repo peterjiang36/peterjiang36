@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability &lpar;DEV304&rpar;](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3)
-- [Consistently deploying Lambda functions and layers using Terraform](https://dev.to/aws-builders/consistently-deploying-lambda-functions-and-layers-using-terraform-379b)
-- [Creating a Compelling User Interface for Online Web Games: Best Practices and Design Tips](https://dev.to/joseph-davies/creating-a-compelling-user-interface-for-online-web-games-best-practices-and-design-tips-24b0)
-- [Building Secure Session-Based Authentication in NestJS - Part 2](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-part-2-b54)
+- [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
+- [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
+- [Automad 2.0 Beta, the Next-Level CMS](https://dev.to/marcantondahmen/automad-20-beta-the-next-level-cms-1n39)
+- [Storage for Kata Containers - 9pfs vs virtio-blk](https://dev.to/gansvv/storage-for-kata-containers-9pfs-vs-virtio-blk-f6n)
 <!-- BLOG-POST-LIST:END -->
 
 
