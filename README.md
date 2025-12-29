@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
-- [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
-- [Automad 2.0 Beta, the Next-Level CMS](https://dev.to/marcantondahmen/automad-20-beta-the-next-level-cms-1n39)
-- [Storage for Kata Containers - 9pfs vs virtio-blk](https://dev.to/gansvv/storage-for-kata-containers-9pfs-vs-virtio-blk-f6n)
+- [A Engenharia de Requisitos na Era dos Algoritmos: Colaboração, Não Substituição](https://dev.to/vinicius3w/a-engenharia-de-requisitos-na-era-dos-algoritmos-colaboracao-nao-substituicao-4knj)
+- [Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
+
+¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!](https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j)
+- [How I built 300+ backlinks for my SaaS without outreach](https://dev.to/hansplg953/how-i-built-300-backlinks-for-my-saas-without-outreach-44e)
+- [Building Centralized Documentation Across Microservices with Docusaurus, GitLab CI, and TypeDoc](https://dev.to/piotr_pomierski/building-centralized-documentation-across-microservices-with-docusaurus-gitlab-ci-and-typedoc-5a7d)
 <!-- BLOG-POST-LIST:END -->
 
 
