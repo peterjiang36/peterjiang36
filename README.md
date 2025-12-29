@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diario de una builder: Preparándonos para AWS Machine Learning desde cero – Otro camino para llegar a Roma](https://dev.to/dcastrocordero22/diario-de-una-builder-preparandonos-para-aws-machine-learning-desde-cero-otro-camino-para-llegar-2iek)
-- [392. Is Subsequence | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/392-is-subsequence-leetcode-top-interview-150-coding-questions-2ddb)
-- [Stop Query Lemot! Cara Cepat Bikin JOIN Table Pakai Teknik Rahasia Ini](https://dev.to/insight105/stop-query-lemot-cara-cepat-bikin-join-table-pakai-teknik-rahasia-ini-2pg4)
-- [**Distracted Driving Epidemic: Driver Charged for Livestreaming on TikTok While Causing Fatal Accident**](https://dev.to/yagyaraj_sharma_6cd410179/distracted-driving-epidemic-driver-charged-for-livestreaming-on-tiktok-while-causing-fatal-1knf)
+- [Control Your Space or You Lose Your Mind Working Remote](https://dev.to/colesilverstone/control-your-space-or-you-lose-your-mind-working-remote-1h12)
+- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk)
+- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
+- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57)
 <!-- BLOG-POST-LIST:END -->
 
 
