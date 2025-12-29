@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities](https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm)
-- [Symfony AI 1.0: PHP’s Native AI Era Begins](https://dev.to/james_miller_8dc58a89cb9e/symfony-ai-10-phps-native-ai-era-begins-6n2)
-- [Terminal commands that actually save time ⏱️](https://dev.to/naseemkhandev/terminal-commands-that-actually-save-time-1a7c)
-- [I’ve been searching for Pickleball Shirts For Women that stay comfortable during long games and still look good on court. Breathable fabric and proper fit really matter. I noticed some good options at Pickle Ball NVZ and wanted to know what others prefer.](https://dev.to/jeenifer_beezer/ive-been-searching-for-pickleball-shirts-for-women-that-stay-comfortable-during-long-games-and-2g2i)
+- [The Idle Consciousness: A Hegelian Reading of Human Servitude in the Age of AI](https://dev.to/bdovenbird/the-idle-consciousness-a-hegelian-reading-of-human-servitude-in-the-age-of-ai-1if8)
+- [Azure - Managed Identities - Complete Tutorial](https://dev.to/hkj13/azure-managed-identities-complete-tutorial-3i84)
+- [Introduce Parameter Object: A Refactoring Pattern That Scales](https://dev.to/codecraft_diary_3d13677fb/introduce-parameter-object-a-refactoring-pattern-that-scales-4981)
+- [From Plan-Perfectly to Try-and-Improve](https://dev.to/synthaicode_commander/from-plan-perfectly-to-try-and-improve-3f2c)
 <!-- BLOG-POST-LIST:END -->
 
 
