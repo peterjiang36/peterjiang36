@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimalism isn&#39;t a style. It&#39;s a growth strategy](https://dev.to/paywallpro/minimalism-isnt-a-style-its-a-growth-strategy-5f3i)
-- [Read Excel in C# with Simple Code](https://dev.to/codingco/read-excel-in-c-with-simple-code-3ek)
-- [When Your API Documentation Lies: Building an AI-Powered Validator to Catch the Drift](https://dev.to/exploredataaiml/when-your-api-documentation-lies-building-an-ai-powered-validator-to-catch-the-drift-2ajh)
-- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
+- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
+- [How Monetzly Turns AI Conversations into Profitable Developer Revenue Streams](https://dev.to/monetzly/how-monetzly-turns-ai-conversations-into-profitable-developer-revenue-streams-2neh)
+- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
+- [What is Technical Writing For B2B SaaS Companies?](https://dev.to/infrasity-learning/what-is-technical-writing-for-b2b-saas-companies-kkn)
 <!-- BLOG-POST-LIST:END -->
 
 
