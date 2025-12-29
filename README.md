@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impossible Normalization: Why Your Database Hates Biology 🧬](https://dev.to/beck_moulton/the-impossible-normalization-why-your-database-hates-biology-4249)
-- [Text analysis detector tool](https://dev.to/ruturaj04/text-analysis-detector-tool-2bii)
-- [Solved: RESULTS of What Ingress Controller are you using TODAY?](https://dev.to/techresolve/solved-results-of-what-ingress-controller-are-you-using-today-4lfj)
-- [Why Incident Response Breaks Down in Containerized Environments](https://dev.to/kapusto/why-incident-response-breaks-down-in-containerized-environments-8gn)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251229165950]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20251229165950-3lal)
+- [30 Core Algorithm Ep:04- Two Pointers Technique](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep04-two-pointers-technique-2nao)
+- [Building a Premium Bento-Style Portfolio with React, GSAP &amp; Tailwind v4](https://dev.to/kiran_balaji_197/building-a-premium-bento-style-portfolio-with-react-gsap-tailwind-v4-2ig8)
+- [DB Interactions: How Applications Talk to DB](https://dev.to/lovestaco/db-interactions-how-applications-talk-to-db-453f)
 <!-- BLOG-POST-LIST:END -->
 
 
