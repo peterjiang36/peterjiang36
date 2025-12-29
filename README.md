@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Happens When Developers Treat AI Like a Black Box](https://dev.to/leena_malhotra/what-actually-happens-when-developers-treat-ai-like-a-black-box-30k2)
-- [Ringer Movies: F---, Marry, Kill at the Movies: ‘The Housemaid,’ ‘Song Sung Blue,’ and ‘Anaconda’](https://dev.to/popcorn_movies/ringer-movies-f-marry-kill-at-the-movies-the-housemaid-song-sung-blue-and-anaconda-3hed)
-- [The Great Contradiction](https://dev.to/rawveg/the-great-contradiction-4ba8)
-- [AI Prototyping That Actually Ships](https://dev.to/lcssgml/ai-prototyping-that-actually-ships-29ij)
+- [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, LongContext, and Next Generation Agentic Capabilities](https://dev.to/paperium/gemini-25-pushing-the-frontier-with-advanced-reasoning-multimodality-longcontext-and-next-ncm)
+- [Symfony AI 1.0: PHP’s Native AI Era Begins](https://dev.to/james_miller_8dc58a89cb9e/symfony-ai-10-phps-native-ai-era-begins-6n2)
+- [Terminal commands that actually save time ⏱️](https://dev.to/naseemkhandev/terminal-commands-that-actually-save-time-1a7c)
+- [I’ve been searching for Pickleball Shirts For Women that stay comfortable during long games and still look good on court. Breathable fabric and proper fit really matter. I noticed some good options at Pickle Ball NVZ and wanted to know what others prefer.](https://dev.to/jeenifer_beezer/ive-been-searching-for-pickleball-shirts-for-women-that-stay-comfortable-during-long-games-and-2g2i)
 <!-- BLOG-POST-LIST:END -->
 
 
