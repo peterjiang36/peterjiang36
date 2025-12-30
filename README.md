@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RDBMS: Where Relations Meet Files](https://dev.to/lovestaco/rdbms-where-relations-meet-files-4ej9)
-- [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
-- [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
-- [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
+- [Are Feature Flags Bullsh*t? Why Your &quot;IF&quot; is Killing Performance &lpar;and the Planet&rpar;](https://dev.to/matheuscamarques/are-feature-flags-bullsht-why-your-if-is-killing-performance-and-the-planet-26bi)
+- [MIPS architecture: simple, clean, and quietly everywhere &lpar;once&rpar;](https://dev.to/viz-x/mips-architecture-simple-clean-and-quietly-everywhere-once-5bm6)
+- [Pipes](https://dev.to/kostya_malinovskiy_7f732b/pipes-5bbi)
+- [How to Choose the Right Vector Database for Enterprise AI](https://dev.to/riospablo/how-to-choose-the-right-vector-database-for-enterprise-ai-544c)
 <!-- BLOG-POST-LIST:END -->
 
 
