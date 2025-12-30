@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Terminal Shell Integration &lpar;Windows&rpar;](https://dev.to/jankoweb/vs-code-terminal-shell-integration-windows-4phf)
-- [⚡_Real_Time_System_Performance_Optimization[20251230001416]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20251230001416-ooe)
-- [Debugging Node.js Out-of-Memory Crashes: A Practical, Step-by-Step Story](https://dev.to/abhivyaktii/debugging-nodejs-out-of-memory-crashes-a-practical-step-by-step-story-58po)
-- [MySQL &amp; MindsDB Unlocks Intelligent Content Discovery For Web CMS with Knowledge Bases and Cursor](https://dev.to/mindsdb/mysql-mindsdb-unlocks-intelligent-content-discovery-for-web-cms-with-knowledge-bases-and-cursor-13ob)
+- [Wearable Data Security: Protect User Privacy by Building a Secure Health Data Pipeline](https://dev.to/wellallytech/wearable-data-security-protect-user-privacy-by-building-a-secure-health-data-pipeline-m2k)
+- [Understanding the CPU: Your Computer&#39;s Brain](https://dev.to/marlostrydom/understanding-the-cpu-your-computers-brain-61h)
+- [How To Create A PaaS Application In Azure.](https://dev.to/cmwokocha/how-to-create-a-paas-application-in-azure-1dca)
+- [World-Centric Agent Architecture: Why Your AI Agent Keeps Failing &lpar;And It&#39;s Not the Model&#39;s Fault&rpar;](https://dev.to/eggp/world-centric-agent-architecture-why-your-ai-agent-keeps-failing-and-its-not-the-models-fault-2e5n)
 <!-- BLOG-POST-LIST:END -->
 
 
