@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
-- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
-- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
-- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
+- [Code Smell 318 - Refactoring Dirty Code](https://dev.to/mcsee/code-smell-318-refactoring-dirty-code-437)
+- [2026 GOAL PLANNING GUIDE](https://dev.to/msnmongare/2026-goal-planning-guide-lk0)
+- [How We Migrated an AWS Amplify GraphQL Backend to CDK &lpar;Without a Rewrite&rpar;](https://dev.to/stackops_ai_b57b69edea711/how-we-migrated-an-aws-amplify-graphql-backend-to-cdk-without-a-rewrite-2888)
+- [Ensure Manufacturing Compliance with Odoo ERP Software Development](https://dev.to/aspire-softserv/ensure-manufacturing-compliance-with-odoo-erp-software-development-42oh)
 <!-- BLOG-POST-LIST:END -->
 
 
