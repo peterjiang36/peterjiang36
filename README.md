@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The $0 Localization Stack for Solo .NET Developers](https://dev.to/nikolaos_protopapas_d3bd6/the-0-localization-stack-for-solo-net-developers-3i62)
-- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
-- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
-- [Coding Challenge Practice - Question 90](https://dev.to/tomivan/coding-challenge-practice-question-90-5dgd)
+- [VS Code Terminal Shell Integration &lpar;Windows&rpar;](https://dev.to/jankoweb/vs-code-terminal-shell-integration-windows-4phf)
+- [⚡_Real_Time_System_Performance_Optimization[20251230001416]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20251230001416-ooe)
+- [Debugging Node.js Out-of-Memory Crashes: A Practical, Step-by-Step Story](https://dev.to/abhivyaktii/debugging-nodejs-out-of-memory-crashes-a-practical-step-by-step-story-58po)
+- [MySQL &amp; MindsDB Unlocks Intelligent Content Discovery For Web CMS with Knowledge Bases and Cursor](https://dev.to/mindsdb/mysql-mindsdb-unlocks-intelligent-content-discovery-for-web-cms-with-knowledge-bases-and-cursor-13ob)
 <!-- BLOG-POST-LIST:END -->
 
 
