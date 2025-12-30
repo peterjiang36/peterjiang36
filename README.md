@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Machine Learning Project from Scratch](https://dev.to/abhishekjaiswal_4896/how-to-build-your-first-machine-learning-project-from-scratch-1lbc)
-- [Building a Real-Time Couples Quiz Without an App](https://dev.to/sync_withlove_473b98892d/building-a-real-time-couples-quiz-without-an-app-49lo)
-- [Daily Tech News Roundup - 2025-12-30](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-30-3koi)
-- [7 Best Resources to Learn Node.js: A Developer’s Personal Guide](https://dev.to/stack_overflowed/7-best-resources-to-learn-nodejs-a-developers-personal-guide-4oec)
+- [Generating PDFs in Laravel: Comparing Two Popular Packages](https://dev.to/thecodeliner/generating-pdfs-in-laravel-comparing-two-popular-packages-13g8)
+- [Ringer Movies: Bill’s 50 Most Rewatchable Movies of the 21st Century | With Sean Fennessey and Chris Ryan](https://dev.to/popcorn_movies/ringer-movies-bills-50-most-rewatchable-movies-of-the-21st-century-with-sean-fennessey-and-3ied)
+- [6 Common Mistakes Teams Make in Negative Testing](https://dev.to/arjunsh54473598/6-common-mistakes-teams-make-in-negative-testing-149h)
+- [Top 10 Software Development Companies in Kolkata](https://dev.to/prerna_raikwar_eb2904992a/top-10-software-development-companies-in-kolkata-4bom)
 <!-- BLOG-POST-LIST:END -->
 
 
