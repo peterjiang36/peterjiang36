@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Free Websites to Deploy Your Web Applications](https://dev.to/basecampxd/top-free-websites-to-deploy-your-web-applications-ahp)
-- [MarteoCLI: Democratizing the C++ Journey for Beginners](https://dev.to/jhonesyure/marteocli-democratizing-the-c-journey-for-beginners-2i8m)
-- [Firebase + Svelte 5: The Definitive Guide](https://dev.to/ebeloded/firebase-svelte-5-the-definitive-guide-4638)
-- [Go Hackers Cloud for Real-World Security Skills](https://dev.to/gohackers12/go-hackers-cloud-for-real-world-security-skills-4adc)
+- [Offline-First App Architecture with Firestore and Local Caching](https://dev.to/sherry_walker_bba406fb339/offline-first-app-architecture-with-firestore-and-local-caching-3f3f)
+- [I Hunted for n8n&#39;s Security Flaws. The Truth Was Far More Disturbing Than Any Exploit.](https://dev.to/amrithesh_dev/i-hunted-for-n8ns-security-flaws-the-truth-was-far-more-disturbing-than-any-exploit-40p7)
+- [Java EE / Enterprise Java Technologies – Practical Guide](https://dev.to/sunny7899/java-ee-enterprise-java-technologies-practical-guide-121b)
+- [Version Your Cache Keys or Your Rolling Deployments Will Break](https://dev.to/orr_benyamini_3946b4089a4/version-your-cache-keys-or-your-rolling-deployments-will-break-3m75)
 <!-- BLOG-POST-LIST:END -->
 
 
