@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
-- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
-- [Designing for Sub-Microsecond Latency &lpar;link&rpar;](https://dev.to/krishna_bajpai_2501c97dcb/designing-for-sub-microsecond-latency-link-1876)
-- [Fake Patients, Real Testing: Generating HIPAA-Compliant Data Like a Pro](https://dev.to/beck_moulton/fake-patients-real-testing-generating-hipaa-compliant-data-like-a-pro-3a3n)
+- [When Crises Stack: Testing Co-Occurrence Without Cascading Failures](https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4)
+- [Building an IntelliSense-style Shell History Tool in C++20](https://dev.to/karthikeyjoshi/building-an-intellisense-style-shell-history-tool-in-c20-4i4o)
+- [Building an Adaptive Learning Agent Using Kiro IDE- agentic-ai-edtech](https://dev.to/asim_shaikh_02599ff124bea/building-an-adaptive-learning-agent-using-kiro-ide-agentic-ai-edtech-2c16)
+- [Dependency Injection in Spring Boot: How Spring Wires Everything for You](https://dev.to/shashwathsh/dependency-injection-in-spring-boot-how-spring-wires-everything-for-you-4h3j)
 <!-- BLOG-POST-LIST:END -->
 
 
