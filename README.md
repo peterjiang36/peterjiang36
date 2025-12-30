@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Offline-First App Architecture with Firestore and Local Caching](https://dev.to/sherry_walker_bba406fb339/offline-first-app-architecture-with-firestore-and-local-caching-3f3f)
-- [I Hunted for n8n&#39;s Security Flaws. The Truth Was Far More Disturbing Than Any Exploit.](https://dev.to/amrithesh_dev/i-hunted-for-n8ns-security-flaws-the-truth-was-far-more-disturbing-than-any-exploit-40p7)
-- [Java EE / Enterprise Java Technologies – Practical Guide](https://dev.to/sunny7899/java-ee-enterprise-java-technologies-practical-guide-121b)
-- [Version Your Cache Keys or Your Rolling Deployments Will Break](https://dev.to/orr_benyamini_3946b4089a4/version-your-cache-keys-or-your-rolling-deployments-will-break-3m75)
+- [PlatformIO on GitHub Actions with cache accelerate](https://dev.to/akuad/platformio-on-github-actions-with-cache-accelerate-4cm9)
+- [Python Is Overrated? The REAL Best Language for Web Scraping](https://dev.to/sardanios/python-is-overrated-the-real-best-language-for-web-scraping-o5a)
+- [GoldSilver.ai](https://dev.to/goldsilverai/goldsilverai-1p2)
+- [Moving VMware to AWS Just Got a Whole Lot Easier](https://dev.to/william_obiana_57252364b4/moving-vmware-to-aws-just-got-a-whole-lot-easier-2edd)
 <!-- BLOG-POST-LIST:END -->
 
 
