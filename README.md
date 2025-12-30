@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Trying to Write Better GitHub Issues for Open-Source Contributors](https://dev.to/georgetoloraia/what-i-learned-trying-to-write-better-github-issues-for-open-source-contributors-47d8)
-- [MiniScript Road Map for 2026](https://dev.to/joestrout/miniscript-road-map-for-2026-17mh)
-- [I launched an automated App &amp; API security platform. What would make you rely on it continuously?](https://dev.to/jigar_online/i-launched-an-automated-app-api-security-platform-what-would-make-you-rely-on-it-continuously-49g)
-- [From &quot;Permission Denied&quot; to Production: My AWS &amp; Terraform Journey](https://dev.to/alafiz/from-permission-denied-to-production-my-aws-terraform-journey-34p8)
+- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
+- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
+- [Designing for Sub-Microsecond Latency &lpar;link&rpar;](https://dev.to/krishna_bajpai_2501c97dcb/designing-for-sub-microsecond-latency-link-1876)
+- [Fake Patients, Real Testing: Generating HIPAA-Compliant Data Like a Pro](https://dev.to/beck_moulton/fake-patients-real-testing-generating-hipaa-compliant-data-like-a-pro-3a3n)
 <!-- BLOG-POST-LIST:END -->
 
 
