@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting Netbird: A Privacy-First Alternative to Managed Overlay Networks](https://dev.to/patrickbloemit/self-hosting-netbird-a-privacy-first-alternative-to-managed-overlay-networks-3b3k)
-- [I built a read-only AWS/Azure hygiene scanner &lpar;because auto-delete is too risky&rpar;](https://dev.to/suresh_564529bdc18d6e32f4/i-built-a-read-only-awsazure-hygiene-scanner-because-auto-delete-is-too-risky-34go)
-- [[Paid Research | $15 | Jan 4 Deadline] How Developers Prompt LLMs for Coding &lpar;No Skill Evaluation&rpar;](https://dev.to/_19586fa8d50b6948b7962/paid-research-15-jan-4-deadline-how-developers-prompt-llms-for-coding-no-skill-evaluation-5fii)
-- [🎮 Learning Game Development – Day 4](https://dev.to/dinesh_04/learning-game-development-day-4-4hc)
+- [OpenAI Sora vs Other AI Video Tools: Which One Fits Your Needs?](https://dev.to/engagecoders/openai-sora-vs-other-ai-video-tools-which-one-fits-your-needs-52hf)
+- [WTF is Synthetic Data Generation?](https://dev.to/dailybugle33/wtf-is-synthetic-data-generation-3cd1)
+- [Right-Sized Microservices: Balancing Agility and Manageability](https://dev.to/eknath_shinde_758b45829e2/right-sized-microservices-balancing-agility-and-manageability-1ol2)
+- [Why Traditional Bookmark Managers Are Dead &lpar;And What&#39;s Replacing Them&rpar;](https://dev.to/cheng_yong_1479d26621a894/why-traditional-bookmark-managers-are-dead-and-whats-replacing-them-49f7)
 <!-- BLOG-POST-LIST:END -->
 
 
