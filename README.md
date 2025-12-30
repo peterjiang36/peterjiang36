@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent Deep Research Tool with Google ADK, A2A, &amp; Cloud Run](https://dev.to/agenticamit/building-a-multi-agent-deep-research-tool-with-google-adk-a2a-cloud-run-2ldj)
-- [Onboarding First-Screen Trends: Emotional Hooks Are Back &lpar;Because They Never Left&rpar;](https://dev.to/paywallpro/onboarding-first-screen-trends-emotional-hooks-are-back-because-they-never-left-74d)
-- [Why Do Rotating Proxies for Web Scraping Work Locally but Fail When Deployed on Hosted Servers?](https://dev.to/miller_proxy/why-do-rotating-proxies-for-web-scraping-work-locally-but-fail-when-deployed-on-hosted-servers-48ck)
-- [AI Agent for Every Website](https://dev.to/shreyvijayvargiya/ai-agent-for-every-website-1mfg)
+- [Gemini, Local and Free with Chrome and Angular](https://dev.to/marianocodes/gemini-locally-and-free-with-chrome-and-angular-474l)
+- [Maximize Profits: Monetize Your LLM Apps with Monetzly&#39;s Tools](https://dev.to/monetzly/maximize-profits-monetize-your-llm-apps-with-monetzlys-tools-4dd5)
+- [Long Tail vs. Short Tail Keywords &lpar;2025&rpar; | Infrasity](https://dev.to/infrasity-learning/long-tail-vs-short-tail-keywords-2025-infrasity-ldj)
+- [Top Go To Market Agency for SaaS | Infrasity](https://dev.to/infrasity-learning/top-go-to-market-agency-for-saas-infrasity-57an)
 <!-- BLOG-POST-LIST:END -->
 
 
