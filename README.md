@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Feature Flags Bullsh*t? Why Your &quot;IF&quot; is Killing Performance &lpar;and the Planet&rpar;](https://dev.to/matheuscamarques/are-feature-flags-bullsht-why-your-if-is-killing-performance-and-the-planet-26bi)
-- [MIPS architecture: simple, clean, and quietly everywhere &lpar;once&rpar;](https://dev.to/viz-x/mips-architecture-simple-clean-and-quietly-everywhere-once-5bm6)
-- [Pipes](https://dev.to/kostya_malinovskiy_7f732b/pipes-5bbi)
-- [How to Choose the Right Vector Database for Enterprise AI](https://dev.to/riospablo/how-to-choose-the-right-vector-database-for-enterprise-ai-544c)
+- [JavaScript 101: A Beginner’s Guide to JavaScript Operators](https://dev.to/joorch/javascript-101-a-beginners-guide-to-javascript-operators-20i7)
+- [Battle for Context: How We Implemented AI Coding in an Enterprise Project](https://dev.to/apolenkov/battle-for-context-how-we-implemented-ai-coding-in-an-enterprise-project-11hd)
+- [&quot;Mastering the Cloud: From Virtualization to Global Reach&quot;](https://dev.to/rahimah_dev/mastering-the-cloud-from-virtualization-to-global-reach-5fkc)
+- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-28aa)
 <!-- BLOG-POST-LIST:END -->
 
 
