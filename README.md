@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating PDFs in Laravel: Comparing Two Popular Packages](https://dev.to/thecodeliner/generating-pdfs-in-laravel-comparing-two-popular-packages-13g8)
-- [Ringer Movies: Bill’s 50 Most Rewatchable Movies of the 21st Century | With Sean Fennessey and Chris Ryan](https://dev.to/popcorn_movies/ringer-movies-bills-50-most-rewatchable-movies-of-the-21st-century-with-sean-fennessey-and-3ied)
-- [6 Common Mistakes Teams Make in Negative Testing](https://dev.to/arjunsh54473598/6-common-mistakes-teams-make-in-negative-testing-149h)
-- [Top 10 Software Development Companies in Kolkata](https://dev.to/prerna_raikwar_eb2904992a/top-10-software-development-companies-in-kolkata-4bom)
+- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
+- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
+- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
+- [The End of GPU Monarchy? Why Specialized Accelerators Are the Future of AI Compute](https://dev.to/igor_a_voronin/the-end-of-gpu-monarchy-why-specialized-accelerators-are-the-future-of-ai-compute-5fd2)
 <!-- BLOG-POST-LIST:END -->
 
 
