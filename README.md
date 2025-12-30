@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm)
-- [CinemaSins: Everything Wrong With Anaconda In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-anaconda-in-15-minutes-or-less-4lhk)
-- [Mr Sunday Movies: Biggest Box Office Bombs Of 2025](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-box-office-bombs-of-2025-gf)
-- [Tech Horror Codex: Data Gravity](https://dev.to/narnaiezzsshaa/tech-horror-codex-data-gravity-2hnh)
+- [RDBMS: Where Relations Meet Files](https://dev.to/lovestaco/rdbms-where-relations-meet-files-4ej9)
+- [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
+- [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
+- [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
 <!-- BLOG-POST-LIST:END -->
 
 
