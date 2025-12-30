@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
-- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
-- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
-- [The End of GPU Monarchy? Why Specialized Accelerators Are the Future of AI Compute](https://dev.to/igor_a_voronin/the-end-of-gpu-monarchy-why-specialized-accelerators-are-the-future-of-ai-compute-5fd2)
+- [Self-Hosting Netbird: A Privacy-First Alternative to Managed Overlay Networks](https://dev.to/patrickbloemit/self-hosting-netbird-a-privacy-first-alternative-to-managed-overlay-networks-3b3k)
+- [I built a read-only AWS/Azure hygiene scanner &lpar;because auto-delete is too risky&rpar;](https://dev.to/suresh_564529bdc18d6e32f4/i-built-a-read-only-awsazure-hygiene-scanner-because-auto-delete-is-too-risky-34go)
+- [[Paid Research | $15 | Jan 4 Deadline] How Developers Prompt LLMs for Coding &lpar;No Skill Evaluation&rpar;](https://dev.to/_19586fa8d50b6948b7962/paid-research-15-jan-4-deadline-how-developers-prompt-llms-for-coding-no-skill-evaluation-5fii)
+- [🎮 Learning Game Development – Day 4](https://dev.to/dinesh_04/learning-game-development-day-4-4hc)
 <!-- BLOG-POST-LIST:END -->
 
 
