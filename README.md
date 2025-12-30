@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PlatformIO on GitHub Actions with cache accelerate](https://dev.to/akuad/platformio-on-github-actions-with-cache-accelerate-4cm9)
-- [Python Is Overrated? The REAL Best Language for Web Scraping](https://dev.to/sardanios/python-is-overrated-the-real-best-language-for-web-scraping-o5a)
-- [GoldSilver.ai](https://dev.to/goldsilverai/goldsilverai-1p2)
-- [Moving VMware to AWS Just Got a Whole Lot Easier](https://dev.to/william_obiana_57252364b4/moving-vmware-to-aws-just-got-a-whole-lot-easier-2edd)
+- [What I Learned Trying to Write Better GitHub Issues for Open-Source Contributors](https://dev.to/georgetoloraia/what-i-learned-trying-to-write-better-github-issues-for-open-source-contributors-47d8)
+- [MiniScript Road Map for 2026](https://dev.to/joestrout/miniscript-road-map-for-2026-17mh)
+- [I launched an automated App &amp; API security platform. What would make you rely on it continuously?](https://dev.to/jigar_online/i-launched-an-automated-app-api-security-platform-what-would-make-you-rely-on-it-continuously-49g)
+- [From &quot;Permission Denied&quot; to Production: My AWS &amp; Terraform Journey](https://dev.to/alafiz/from-permission-denied-to-production-my-aws-terraform-journey-34p8)
 <!-- BLOG-POST-LIST:END -->
 
 
