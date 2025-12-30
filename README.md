@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript 101: A Beginner’s Guide to JavaScript Operators](https://dev.to/joorch/javascript-101-a-beginners-guide-to-javascript-operators-20i7)
-- [Battle for Context: How We Implemented AI Coding in an Enterprise Project](https://dev.to/apolenkov/battle-for-context-how-we-implemented-ai-coding-in-an-enterprise-project-11hd)
-- [&quot;Mastering the Cloud: From Virtualization to Global Reach&quot;](https://dev.to/rahimah_dev/mastering-the-cloud-from-virtualization-to-global-reach-5fkc)
-- [My Experience Using the BMAD Framework on a Personal Project &lpar;Patience Required&rpar;](https://dev.to/arch4g/my-experience-using-the-bmad-framework-on-a-personal-project-patience-required-28aa)
+- [The OWASP Top 10 for AI Agents: Your 2026 Security Checklist &lpar;ASI Top 10&rpar;](https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck)
+- [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
+- [Solved: Is there a Zap trigger that can recognize when a new Google Worksheet tab has been added?](https://dev.to/techresolve/solved-is-there-a-zap-trigger-that-can-recognize-when-a-new-google-worksheet-tab-has-been-added-5dlp)
+- [Solved: Anyone using newer SEO tools worth switching to from Ahrefs/SEMrush?](https://dev.to/techresolve/solved-anyone-using-newer-seo-tools-worth-switching-to-from-ahrefssemrush-25p3)
 <!-- BLOG-POST-LIST:END -->
 
 
