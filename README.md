@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The OWASP Top 10 for AI Agents: Your 2026 Security Checklist &lpar;ASI Top 10&rpar;](https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck)
-- [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
-- [Solved: Is there a Zap trigger that can recognize when a new Google Worksheet tab has been added?](https://dev.to/techresolve/solved-is-there-a-zap-trigger-that-can-recognize-when-a-new-google-worksheet-tab-has-been-added-5dlp)
-- [Solved: Anyone using newer SEO tools worth switching to from Ahrefs/SEMrush?](https://dev.to/techresolve/solved-anyone-using-newer-seo-tools-worth-switching-to-from-ahrefssemrush-25p3)
+- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
+- [Free Tool for Creating Shorts Videos](https://dev.to/levskiy/free-tool-for-creating-shorts-videos-44na)
+- [React Server and Client Components in Next.js: Understanding the Difference](https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml)
+- [My Portfolio](https://dev.to/raylledev/my-portfolio-72o)
 <!-- BLOG-POST-LIST:END -->
 
 
