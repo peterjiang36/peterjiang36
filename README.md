@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Crises Stack: Testing Co-Occurrence Without Cascading Failures](https://dev.to/crisiscoresystems/testing-for-co-occurrence-when-multiple-crises-happen-simultaneously-4dj4)
-- [Building an IntelliSense-style Shell History Tool in C++20](https://dev.to/karthikeyjoshi/building-an-intellisense-style-shell-history-tool-in-c20-4i4o)
-- [Building an Adaptive Learning Agent Using Kiro IDE- agentic-ai-edtech](https://dev.to/asim_shaikh_02599ff124bea/building-an-adaptive-learning-agent-using-kiro-ide-agentic-ai-edtech-2c16)
-- [Dependency Injection in Spring Boot: How Spring Wires Everything for You](https://dev.to/shashwathsh/dependency-injection-in-spring-boot-how-spring-wires-everything-for-you-4h3j)
+- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm)
+- [CinemaSins: Everything Wrong With Anaconda In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-anaconda-in-15-minutes-or-less-4lhk)
+- [Mr Sunday Movies: Biggest Box Office Bombs Of 2025](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-box-office-bombs-of-2025-gf)
+- [Tech Horror Codex: Data Gravity](https://dev.to/narnaiezzsshaa/tech-horror-codex-data-gravity-2hnh)
 <!-- BLOG-POST-LIST:END -->
 
 
