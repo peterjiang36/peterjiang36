@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 318 - Refactoring Dirty Code](https://dev.to/mcsee/code-smell-318-refactoring-dirty-code-437)
-- [2026 GOAL PLANNING GUIDE](https://dev.to/msnmongare/2026-goal-planning-guide-lk0)
-- [How We Migrated an AWS Amplify GraphQL Backend to CDK &lpar;Without a Rewrite&rpar;](https://dev.to/stackops_ai_b57b69edea711/how-we-migrated-an-aws-amplify-graphql-backend-to-cdk-without-a-rewrite-2888)
-- [Ensure Manufacturing Compliance with Odoo ERP Software Development](https://dev.to/aspire-softserv/ensure-manufacturing-compliance-with-odoo-erp-software-development-42oh)
+- [Top Free Websites to Deploy Your Web Applications](https://dev.to/basecampxd/top-free-websites-to-deploy-your-web-applications-ahp)
+- [MarteoCLI: Democratizing the C++ Journey for Beginners](https://dev.to/jhonesyure/marteocli-democratizing-the-c-journey-for-beginners-2i8m)
+- [Firebase + Svelte 5: The Definitive Guide](https://dev.to/ebeloded/firebase-svelte-5-the-definitive-guide-4638)
+- [Go Hackers Cloud for Real-World Security Skills](https://dev.to/gohackers12/go-hackers-cloud-for-real-world-security-skills-4adc)
 <!-- BLOG-POST-LIST:END -->
 
 
