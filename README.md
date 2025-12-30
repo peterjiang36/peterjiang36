@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini, Local and Free with Chrome and Angular](https://dev.to/marianocodes/gemini-locally-and-free-with-chrome-and-angular-474l)
-- [Maximize Profits: Monetize Your LLM Apps with Monetzly&#39;s Tools](https://dev.to/monetzly/maximize-profits-monetize-your-llm-apps-with-monetzlys-tools-4dd5)
-- [Long Tail vs. Short Tail Keywords &lpar;2025&rpar; | Infrasity](https://dev.to/infrasity-learning/long-tail-vs-short-tail-keywords-2025-infrasity-ldj)
-- [Top Go To Market Agency for SaaS | Infrasity](https://dev.to/infrasity-learning/top-go-to-market-agency-for-saas-infrasity-57an)
+- [How to Build Your First Machine Learning Project from Scratch](https://dev.to/abhishekjaiswal_4896/how-to-build-your-first-machine-learning-project-from-scratch-1lbc)
+- [Building a Real-Time Couples Quiz Without an App](https://dev.to/sync_withlove_473b98892d/building-a-real-time-couples-quiz-without-an-app-49lo)
+- [Daily Tech News Roundup - 2025-12-30](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-30-3koi)
+- [7 Best Resources to Learn Node.js: A Developer’s Personal Guide](https://dev.to/stack_overflowed/7-best-resources-to-learn-nodejs-a-developers-personal-guide-4oec)
 <!-- BLOG-POST-LIST:END -->
 
 
