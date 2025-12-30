@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wearable Data Security: Protect User Privacy by Building a Secure Health Data Pipeline](https://dev.to/wellallytech/wearable-data-security-protect-user-privacy-by-building-a-secure-health-data-pipeline-m2k)
-- [Understanding the CPU: Your Computer&#39;s Brain](https://dev.to/marlostrydom/understanding-the-cpu-your-computers-brain-61h)
-- [How To Create A PaaS Application In Azure.](https://dev.to/cmwokocha/how-to-create-a-paas-application-in-azure-1dca)
-- [World-Centric Agent Architecture: Why Your AI Agent Keeps Failing &lpar;And It&#39;s Not the Model&#39;s Fault&rpar;](https://dev.to/eggp/world-centric-agent-architecture-why-your-ai-agent-keeps-failing-and-its-not-the-models-fault-2e5n)
+- [Why Your Next.js Cache Isn&#39;t Working &lpar;And How to Fix It in 2026&rpar;](https://dev.to/pockit_tools/why-your-nextjs-cache-isnt-working-and-how-to-fix-it-in-2026-10pp)
+- [The Secret Life of JavaScript: Inheritance](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-inheritance-2k09)
+- [Supercharge Your Web Dev Game with MCP - Part 2: Chrome DevTools MCP + AI-Driven Web Performance](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-2-chrome-devtools-mcp-ai-driven-web-performance-1ili)
+- [🧮 Build a Desktop Word Counter App in Python &lpar;Tkinter&rpar;](https://dev.to/matetechnologie/build-a-desktop-word-counter-app-in-python-tkinter-2o39)
 <!-- BLOG-POST-LIST:END -->
 
 
