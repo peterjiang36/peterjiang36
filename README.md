@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Next.js Cache Isn&#39;t Working &lpar;And How to Fix It in 2026&rpar;](https://dev.to/pockit_tools/why-your-nextjs-cache-isnt-working-and-how-to-fix-it-in-2026-10pp)
-- [The Secret Life of JavaScript: Inheritance](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-inheritance-2k09)
-- [Supercharge Your Web Dev Game with MCP - Part 2: Chrome DevTools MCP + AI-Driven Web Performance](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-2-chrome-devtools-mcp-ai-driven-web-performance-1ili)
-- [🧮 Build a Desktop Word Counter App in Python &lpar;Tkinter&rpar;](https://dev.to/matetechnologie/build-a-desktop-word-counter-app-in-python-tkinter-2o39)
+- [Building a Multi-Agent Deep Research Tool with Google ADK, A2A, &amp; Cloud Run](https://dev.to/agenticamit/building-a-multi-agent-deep-research-tool-with-google-adk-a2a-cloud-run-2ldj)
+- [Onboarding First-Screen Trends: Emotional Hooks Are Back &lpar;Because They Never Left&rpar;](https://dev.to/paywallpro/onboarding-first-screen-trends-emotional-hooks-are-back-because-they-never-left-74d)
+- [Why Do Rotating Proxies for Web Scraping Work Locally but Fail When Deployed on Hosted Servers?](https://dev.to/miller_proxy/why-do-rotating-proxies-for-web-scraping-work-locally-but-fail-when-deployed-on-hosted-servers-48ck)
+- [AI Agent for Every Website](https://dev.to/shreyvijayvargiya/ai-agent-for-every-website-1mfg)
 <!-- BLOG-POST-LIST:END -->
 
 
