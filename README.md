@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cultural Intelligence into Database Processing: A Pattern Recognition Challenge](https://dev.to/faraz_farhan_83ed23a154a2/building-cultural-intelligence-into-database-processing-a-pattern-recognition-challenge-353e)
-- [Vector-Database: Qdrant-cluster - Dockerfile](https://dev.to/seetamraju/vector-database-qdrant-cluster-dockerfile-4lal)
-- [Snapshots &amp; Data-RESTORE: Vector-Database: Qdrant-Cluster](https://dev.to/seetamraju/snapshots-data-restore-vector-database-qdrant-cluster-33gj)
-- [Blocking Is a Spectrum, Not an Error Code](https://dev.to/anna_6c67c00f5c3f53660978/blocking-is-a-spectrum-not-an-error-code-4a1h)
+- [Jsoup으로 HTML 파싱하기 - 웹 스크래핑 가이드](https://dev.to/dss99911/jsoupeuro-html-pasinghagi-web-seukeuraeping-gaideu-3ff)
+- [Charles Proxy 완벽 가이드 - HTTPS 트래픽 디버깅](https://dev.to/dss99911/charles-proxy-wanbyeog-gaideu-https-teuraepig-dibeoging-1dce)
+- [정규표현식 완벽 가이드: 그룹, 반복, Lookahead/Lookbehind](https://dev.to/dss99911/jeonggyupyohyeonsig-wanbyeog-gaideu-geurub-banbog-lookaheadlookbehind-5e4g)
+- [Lombok 완벽 가이드 - 모든 어노테이션 총정리](https://dev.to/dss99911/lombok-wanbyeog-gaideu-modeun-eonoteisyeon-congjeongri-5eag)
 <!-- BLOG-POST-LIST:END -->
 
 
