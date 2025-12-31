@@ -74,10 +74,19 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
-- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
-- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
-- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
+- [Simple Guides to Stop Hacks, Bots, and Spam on WordPress &lpar;Beginner Friendly&rpar;](https://dev.to/cifi/simple-guides-to-stop-hacks-bots-and-spam-on-wordpress-beginner-friendly-3ed0)
+- [Built an API that answers life’s toughest questions.
+It only knows Yes or No.
+Sometimes random.
+Sometimes brutally honest.
+
+Because decision-making is overrated 🤷‍♂️
+
+👉 https://github.com/RuturajS/YesOrNo
+
+#NodeJS #ExpressJS #APIs #SideProject](https://dev.to/ruturaj04/built-an-api-that-answers-lifes-toughest-questions-it-only-knows-yes-or-no-sometimes-random-4mkg)
+- [Ruby 4 Has Landed 💎 — And It’s Bringing Gifts](https://dev.to/a_deepan_kumar/ruby-4-has-landed-and-its-bringing-gifts-18dk)
+- [Deep Maze Solver](https://dev.to/dineshgdk/deep-maze-solver-556e)
 <!-- BLOG-POST-LIST:END -->
 
 
