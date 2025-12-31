@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployment Types in Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/deployment-types-in-amazon-ecs-elastic-container-service-4c1c)
-- [🌐_Network_IO_Performance_Optimization[20251231145813]](https://dev.to/member_8659c28a/networkioperformanceoptimization20251231145813-5825)
-- [End-to-End Email Tracking Simplified](https://dev.to/ibbus/end-to-end-email-tracking-simplified-313i)
-- [A temporary demo that implements a multi-building LOD mechanism.](https://dev.to/openworldzone/a-temporary-demo-that-implements-a-multi-building-lod-mechanism-30kc)
+- [Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG](https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o)
+- [Automated Reporting System](https://dev.to/adeelabbas/automated-reporting-system-47ob)
+- [10 Proven Techniques to Master Documentation Quickly for Any Framework or Library](https://dev.to/abuhorairatarif/10-proven-techniques-to-master-documentation-quickly-for-any-framework-or-library-2j78)
+- [Why Cloud Skills Matter in 2025 and Beyond](https://dev.to/abdullateef/why-cloud-skills-matter-in-2025-and-beyond-35ak)
 <!-- BLOG-POST-LIST:END -->
 
 
