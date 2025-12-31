@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Glob Imports in Node.js](https://dev.to/jiyingzhi/implementing-glob-imports-in-nodejs-3004)
-- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
-- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
-- [Welcome to 2025 Wrapped 🚀](https://dev.to/pjdeveloper896/welcome-to-2025-wrapped-35f)
+- [Deployment Types in Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/deployment-types-in-amazon-ecs-elastic-container-service-4c1c)
+- [🌐_Network_IO_Performance_Optimization[20251231145813]](https://dev.to/member_8659c28a/networkioperformanceoptimization20251231145813-5825)
+- [End-to-End Email Tracking Simplified](https://dev.to/ibbus/end-to-end-email-tracking-simplified-313i)
+- [A temporary demo that implements a multi-building LOD mechanism.](https://dev.to/openworldzone/a-temporary-demo-that-implements-a-multi-building-lod-mechanism-30kc)
 <!-- BLOG-POST-LIST:END -->
 
 
