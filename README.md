@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG](https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o)
-- [Automated Reporting System](https://dev.to/adeelabbas/automated-reporting-system-47ob)
-- [10 Proven Techniques to Master Documentation Quickly for Any Framework or Library](https://dev.to/abuhorairatarif/10-proven-techniques-to-master-documentation-quickly-for-any-framework-or-library-2j78)
-- [Why Cloud Skills Matter in 2025 and Beyond](https://dev.to/abdullateef/why-cloud-skills-matter-in-2025-and-beyond-35ak)
+- [Structure Padding Isn’t Wastage of Memory — It’s a Hardware Requirement](https://dev.to/amanprasad/structure-padding-isnt-wastage-of-memory-its-a-hardware-requirement-2gk3)
+- [Your First Real Project – Live Edge Detection with Recording](https://dev.to/elliot_silver/your-first-real-project-live-edge-detection-with-recording-2fm8)
+- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eadebd67a29/bring-stories-to-life-with-animation-3ccm)
+- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eb795ee7eaf/bring-stories-to-life-with-animation-4fm2)
 <!-- BLOG-POST-LIST:END -->
 
 
