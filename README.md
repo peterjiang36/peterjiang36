@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jsoup으로 HTML 파싱하기 - 웹 스크래핑 가이드](https://dev.to/dss99911/jsoupeuro-html-pasinghagi-web-seukeuraeping-gaideu-3ff)
-- [Charles Proxy 완벽 가이드 - HTTPS 트래픽 디버깅](https://dev.to/dss99911/charles-proxy-wanbyeog-gaideu-https-teuraepig-dibeoging-1dce)
-- [정규표현식 완벽 가이드: 그룹, 반복, Lookahead/Lookbehind](https://dev.to/dss99911/jeonggyupyohyeonsig-wanbyeog-gaideu-geurub-banbog-lookaheadlookbehind-5e4g)
-- [Lombok 완벽 가이드 - 모든 어노테이션 총정리](https://dev.to/dss99911/lombok-wanbyeog-gaideu-modeun-eonoteisyeon-congjeongri-5eag)
+- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
+- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
+- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
+- [Ruby 기초 - 문법과 기본 개념](https://dev.to/dss99911/ruby-gico-munbeobgwa-gibon-gaenyeom-2pl5)
 <!-- BLOG-POST-LIST:END -->
 
 
