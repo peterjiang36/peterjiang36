@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 10: Scaling, Failure &amp; Operating Like a Real Company](https://dev.to/daviesbrown/part-10-scaling-failure-operating-like-a-real-company-2h3e)
-- [Part 9: GitOps with Argo CD - When Git Deploys Your App](https://dev.to/daviesbrown/part-9-gitops-with-argo-cd-when-git-deploys-your-app-1pcn)
-- [Part 8: Helm - Packaging Kubernetes Applications](https://dev.to/daviesbrown/part-8-helm-packaging-kubernetes-applications-15jf)
-- [How a simple Google Sheets system slowly turned into my own app](https://dev.to/dovydas_d136754ea9838f9d/how-a-simple-google-sheets-system-slowly-turned-into-my-own-app-47g8)
+- [HTDP Study Blog](https://dev.to/zephyr_teresa_a4d7f3db9f7/htdp-study-blog-1nh5)
+- [Building a Marketplace for the Balkans Is Not a Template Problem](https://dev.to/cengiz_zaylan_baf3ecdfb/building-a-marketplace-for-the-balkans-is-not-a-template-problem-5506)
+- [TPU vs GPU: Real-World Performance Testing for LLM Training on Google Cloud](https://dev.to/jubinsoni/tpu-vs-gpu-real-world-performance-testing-for-llm-training-on-google-cloud-27n0)
+- [The Great Table Format Debate: A Deep Dive into Apache Iceberg, Delta Lake, and Apache Hudi](https://dev.to/datatechbridge/the-great-table-format-debate-a-deep-dive-into-apache-iceberg-delta-lake-and-apache-hudi-3a2h)
 <!-- BLOG-POST-LIST:END -->
 
 
