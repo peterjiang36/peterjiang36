@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Greedy Can Feel Unintuitive &lpar;and How I’m Making Sense of It&rpar;](https://dev.to/sky_0e6bde5d5/why-greedy-can-feel-unintuitive-and-how-im-making-sense-of-it-4415)
-- [How Technical SEO Improves Developer Workflows &lpar;and Why You Should Care&rpar;](https://dev.to/zicoding/how-technical-seo-improves-developer-workflows-and-why-you-should-care-2dp8)
-- [Why isn&#39;t &quot;majority&quot; the default read concern in MongoDB?](https://dev.to/franckpachot/why-isnt-majority-the-default-read-concern-in-mongodb-2782)
-- [Getting Started with Tambo — Tambo Series P2](https://dev.to/tahamjp/getting-started-with-tambo-tambo-series-p2-3g3g)
+- [Laravel Prompts: Interactive CLI Made Simple](https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6)
+- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
+- [[Boost]](https://dev.to/anthonymax/-3cae)
+- [On-Chain Identity — ENS, Soulbound Tokens &amp; Your Web3 Resume](https://dev.to/ribhavmodi/on-chain-identity-ens-soulbound-tokens-your-web3-resume-4f2h)
 <!-- BLOG-POST-LIST:END -->
 
 
