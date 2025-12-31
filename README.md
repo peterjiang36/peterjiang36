@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Structure Padding Isn’t Wastage of Memory — It’s a Hardware Requirement](https://dev.to/amanprasad/structure-padding-isnt-wastage-of-memory-its-a-hardware-requirement-2gk3)
-- [Your First Real Project – Live Edge Detection with Recording](https://dev.to/elliot_silver/your-first-real-project-live-edge-detection-with-recording-2fm8)
-- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eadebd67a29/bring-stories-to-life-with-animation-3ccm)
-- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eb795ee7eaf/bring-stories-to-life-with-animation-4fm2)
+- [EIOC as a Detection Model: From Framework to Code](https://dev.to/narnaiezzsshaa/eioc-as-a-detection-model-from-framework-to-code-51ag)
+- [Stop Paying for QR Codes in 2026: I Built a Free, &quot;Branded&quot; Generator](https://dev.to/legend_gamerr6_70b22e605a/stop-paying-for-qr-codes-in-2026-i-built-a-free-branded-generator-4j4b)
+- [Day 8: Recipe Conversions Without the Panic &lpar;Unit Converter&rpar;](https://dev.to/dev_michael/day-8-recipe-conversions-without-the-panic-unit-converter-2hb6)
+- [Reclaim Your Focus: Stoicism for the Digital Age](https://dev.to/thinkaddict/reclaim-your-focus-stoicism-for-the-digital-age-1gm0)
 <!-- BLOG-POST-LIST:END -->
 
 
