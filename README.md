@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Splunk Investigator Agent with Strands Agents and Amazon Bedrock AgentCore](https://dev.to/aws-builders/building-a-splunk-investigator-agent-with-strands-agents-and-amazon-bedrock-agentcore-53dc)
-- [MCP Security 101: Protecting Your AI Agents from &quot;God-Mode&quot; Risks](https://dev.to/alessandro_pignati/mcp-security-101-protecting-your-ai-agents-from-god-mode-risks-h0b)
-- [Entre o Backlog Caótico e o Algoritmo: Priorização e Cenários com IA](https://dev.to/vinicius3w/entre-o-backlog-caotico-e-o-algoritmo-priorizacao-e-cenarios-com-ia-27be)
-- [A solid explanation to SOLID Principle](https://dev.to/_a_m_a_n_pandey/a-solid-explanation-to-solid-principle-42j8)
+- [I Built My Own Mailchimp Alternative in 200 Lines of Code](https://dev.to/restdbjones/i-built-my-own-mailchimp-alternative-in-200-lines-of-code-56k0)
+- [I Told the AI to “Continue and Redeploy” — Then It Got Stuck Waiting for Itself](https://dev.to/doozieakshay/i-told-the-ai-to-continue-and-redeploy-then-it-got-stuck-waiting-for-itself-3kaj)
+- [[Boost]](https://dev.to/hadi_mirza/-nhc)
+- [Simplifying Cloud Messaging with StackVerify](https://dev.to/morgan_miller_1/simplifying-cloud-messaging-with-stackverify-go0)
 <!-- BLOG-POST-LIST:END -->
 
 
