@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch Real-Time News in Python &lpar;3 Practical Examples&rpar;](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)
-- [Why Single-Threaded Servers &lpar;Like Node.js&rpar; Even Work](https://dev.to/now_raj/why-single-threaded-servers-like-nodejs-even-work-22ce)
-- [FitnessEquation 12/30/2025](https://dev.to/bibimbop123/fitnessequation-12302025-1281)
-- [Software Defects Prediction using Machine Learning](https://dev.to/naimulkarim/software-defects-prediction-using-machine-learning-5d1d)
+- [Part 10: Scaling, Failure &amp; Operating Like a Real Company](https://dev.to/daviesbrown/part-10-scaling-failure-operating-like-a-real-company-2h3e)
+- [Part 9: GitOps with Argo CD - When Git Deploys Your App](https://dev.to/daviesbrown/part-9-gitops-with-argo-cd-when-git-deploys-your-app-1pcn)
+- [Part 8: Helm - Packaging Kubernetes Applications](https://dev.to/daviesbrown/part-8-helm-packaging-kubernetes-applications-15jf)
+- [How a simple Google Sheets system slowly turned into my own app](https://dev.to/dovydas_d136754ea9838f9d/how-a-simple-google-sheets-system-slowly-turned-into-my-own-app-47g8)
 <!-- BLOG-POST-LIST:END -->
 
 
