@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
-- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
-- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
-- [Ruby 기초 - 문법과 기본 개념](https://dev.to/dss99911/ruby-gico-munbeobgwa-gibon-gaenyeom-2pl5)
+- [Part 3 — When Prompt Engineering Becomes Configuration](https://dev.to/muzammiltalha/part-3-when-prompt-engineering-becomes-configuration-1p75)
+- [The JWT Algorithm &quot;none&quot; Attack: The Vulnerability in 1 Line of Code](https://dev.to/ofri-peretz/the-jwt-algorithm-none-attack-the-vulnerability-in-1-line-of-code-d9g)
+- [3 Lines of Code to Hack Your Vercel AI App &lpar;And 1 Line to Fix It&rpar;](https://dev.to/ofri-peretz/3-lines-of-code-to-hack-your-vercel-ai-app-and-1-line-to-fix-it-jo)
+- [SQL Injection in node-postgres: The Pattern Everyone Gets Wrong](https://dev.to/ofri-peretz/sql-injection-in-node-postgres-the-pattern-everyone-gets-wrong-54mn)
 <!-- BLOG-POST-LIST:END -->
 
 
