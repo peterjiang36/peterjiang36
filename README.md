@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dopamine Loop - stuck in the couch](https://dev.to/vrajparikh/dopamine-loop-2m87)
-- [When code suggestions suggest the past: deprecated Pandas APIs and silent drift](https://dev.to/sofiabennett84/when-code-suggestions-suggest-the-past-deprecated-pandas-apis-and-silent-drift-8mg)
-- [I&#39;m 15 and I built a self-healing AI terminal that controls computers via Natural Language](https://dev.to/omer_efe_86d7187975030b45/im-15-and-i-built-a-self-healing-ai-terminal-that-controls-computers-via-natural-language-ohp)
-- [When an AI refactor renames things wrong across files](https://dev.to/jamesdev4123/when-an-ai-refactor-renames-things-wrong-across-files-1kka)
+- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
+- [I Just Deleted 3 Months of Work Here&#39;s Why..](https://dev.to/yakhilesh/i-just-deleted-3-months-of-work-heres-why-4ncd)
+- [Deepfake &amp; Mobile Identity Fraud - Securing AI Models with Docker](https://dev.to/swap11/deepfake-mobile-identity-fraud-securing-ai-models-with-docker-9g9)
+- [Build Robust, Maintainable APIs in C# - Real Production Systems](https://dev.to/saber-amani/build-robust-maintainable-apis-in-c-real-production-systems-2pa7)
 <!-- BLOG-POST-LIST:END -->
 
 
