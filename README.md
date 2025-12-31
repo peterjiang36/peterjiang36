@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide](https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c)
-- [AI-Powered Testing: Writing Smarter, Faster Unit Tests with GitHub Copilot](https://dev.to/jessica_patel_472897dd43c/ai-powered-testing-writing-smarter-faster-unit-tests-with-github-copilot-2fkk)
-- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251231184608]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20251231184608-5hfk)
+- [Dopamine Loop - stuck in the couch](https://dev.to/vrajparikh/dopamine-loop-2m87)
+- [When code suggestions suggest the past: deprecated Pandas APIs and silent drift](https://dev.to/sofiabennett84/when-code-suggestions-suggest-the-past-deprecated-pandas-apis-and-silent-drift-8mg)
+- [I&#39;m 15 and I built a self-healing AI terminal that controls computers via Natural Language](https://dev.to/omer_efe_86d7187975030b45/im-15-and-i-built-a-self-healing-ai-terminal-that-controls-computers-via-natural-language-ohp)
+- [When an AI refactor renames things wrong across files](https://dev.to/jamesdev4123/when-an-ai-refactor-renames-things-wrong-across-files-1kka)
 <!-- BLOG-POST-LIST:END -->
 
 
