@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3 — When Prompt Engineering Becomes Configuration](https://dev.to/muzammiltalha/part-3-when-prompt-engineering-becomes-configuration-1p75)
-- [The JWT Algorithm &quot;none&quot; Attack: The Vulnerability in 1 Line of Code](https://dev.to/ofri-peretz/the-jwt-algorithm-none-attack-the-vulnerability-in-1-line-of-code-d9g)
-- [3 Lines of Code to Hack Your Vercel AI App &lpar;And 1 Line to Fix It&rpar;](https://dev.to/ofri-peretz/3-lines-of-code-to-hack-your-vercel-ai-app-and-1-line-to-fix-it-jo)
-- [SQL Injection in node-postgres: The Pattern Everyone Gets Wrong](https://dev.to/ofri-peretz/sql-injection-in-node-postgres-the-pattern-everyone-gets-wrong-54mn)
+- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
+- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
+- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
+- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
 <!-- BLOG-POST-LIST:END -->
 
 
