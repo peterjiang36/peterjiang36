@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Prompts: Interactive CLI Made Simple](https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6)
-- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
-- [[Boost]](https://dev.to/anthonymax/-3cae)
-- [On-Chain Identity — ENS, Soulbound Tokens &amp; Your Web3 Resume](https://dev.to/ribhavmodi/on-chain-identity-ens-soulbound-tokens-your-web3-resume-4f2h)
+- [Customer Self-Service Experience Best Practices for Support Teams](https://dev.to/freepixel11/customer-self-service-experience-best-practices-for-support-teams-1998)
+- [The Zero-Rent Architecture: Designing for the Swartland Farmer](https://dev.to/paulallies/the-zero-rent-architecture-designing-for-the-swartland-farmer-1e5)
+- [Generative AI Development Services: Build Intelligent AI Solutions with Oodles](https://dev.to/oodlesplatform/generative-ai-development-services-build-intelligent-ai-solutions-with-oodles-4n3n)
+- [# Finding the Best Health Clinic in Trivandrum: Your Complete Guide to Quality Healthcare in Kerala&#39;s Capital](https://dev.to/abdu_gk_e6f4376f6dff8e138/-finding-the-best-health-clinic-in-trivandrum-your-complete-guide-to-quality-healthcare-in-3m7g)
 <!-- BLOG-POST-LIST:END -->
 
 
