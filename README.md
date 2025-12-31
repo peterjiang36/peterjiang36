@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Third-Party Webhook Delays with AWS Durable Functions](https://dev.to/aws-builders/monitoring-third-party-webhook-delays-with-aws-durable-functions-1800)
-- [I Just Deleted 3 Months of Work Here&#39;s Why..](https://dev.to/yakhilesh/i-just-deleted-3-months-of-work-heres-why-4ncd)
-- [Deepfake &amp; Mobile Identity Fraud - Securing AI Models with Docker](https://dev.to/swap11/deepfake-mobile-identity-fraud-securing-ai-models-with-docker-9g9)
-- [Build Robust, Maintainable APIs in C# - Real Production Systems](https://dev.to/saber-amani/build-robust-maintainable-apis-in-c-real-production-systems-2pa7)
+- [The Context Graph Manifesto](https://dev.to/jackcolquitt/the-context-graph-manifesto-2a8m)
+- [FitnessEquation](https://dev.to/bibimbop123/fitnessequation-28cg)
+- [Transaction Race Conditions: Why BEGIN on Pool Breaks Everything](https://dev.to/ofri-peretz/transaction-race-conditions-why-begin-on-pool-breaks-everything-117h)
+- [A Token-Efficient Way to Send Time-Series Data into LLMs](https://dev.to/manasmudbari/a-token-efficient-way-to-send-time-series-data-into-llms-2h80)
 <!-- BLOG-POST-LIST:END -->
 
 
