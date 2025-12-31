@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTDP Study Blog](https://dev.to/zephyr_teresa_a4d7f3db9f7/htdp-study-blog-1nh5)
-- [Building a Marketplace for the Balkans Is Not a Template Problem](https://dev.to/cengiz_zaylan_baf3ecdfb/building-a-marketplace-for-the-balkans-is-not-a-template-problem-5506)
-- [TPU vs GPU: Real-World Performance Testing for LLM Training on Google Cloud](https://dev.to/jubinsoni/tpu-vs-gpu-real-world-performance-testing-for-llm-training-on-google-cloud-27n0)
-- [The Great Table Format Debate: A Deep Dive into Apache Iceberg, Delta Lake, and Apache Hudi](https://dev.to/datatechbridge/the-great-table-format-debate-a-deep-dive-into-apache-iceberg-delta-lake-and-apache-hudi-3a2h)
+- [Building Cultural Intelligence into Database Processing: A Pattern Recognition Challenge](https://dev.to/faraz_farhan_83ed23a154a2/building-cultural-intelligence-into-database-processing-a-pattern-recognition-challenge-353e)
+- [Vector-Database: Qdrant-cluster - Dockerfile](https://dev.to/seetamraju/vector-database-qdrant-cluster-dockerfile-4lal)
+- [Snapshots &amp; Data-RESTORE: Vector-Database: Qdrant-Cluster](https://dev.to/seetamraju/snapshots-data-restore-vector-database-qdrant-cluster-33gj)
+- [Blocking Is a Spectrum, Not an Error Code](https://dev.to/anna_6c67c00f5c3f53660978/blocking-is-a-spectrum-not-an-error-code-4a1h)
 <!-- BLOG-POST-LIST:END -->
 
 
