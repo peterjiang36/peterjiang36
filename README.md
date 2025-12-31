@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Context Graph Manifesto](https://dev.to/jackcolquitt/the-context-graph-manifesto-2a8m)
-- [FitnessEquation](https://dev.to/bibimbop123/fitnessequation-28cg)
-- [Transaction Race Conditions: Why BEGIN on Pool Breaks Everything](https://dev.to/ofri-peretz/transaction-race-conditions-why-begin-on-pool-breaks-everything-117h)
-- [A Token-Efficient Way to Send Time-Series Data into LLMs](https://dev.to/manasmudbari/a-token-efficient-way-to-send-time-series-data-into-llms-2h80)
+- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
+- [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
+- [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
+- [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
 <!-- BLOG-POST-LIST:END -->
 
 
