@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
-- [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
-- [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
-- [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
+- [Debugging “Where to spend my time?” in the job search 🌲](https://dev.to/miffens/debugging-where-to-spend-my-time-in-the-job-search-3b8a)
+- [Why Learning C Is My First Step Toward Becoming a Game Engine Programmer](https://dev.to/victor1890/why-learning-c-is-my-first-step-toward-becoming-a-game-engine-programmer-3704)
+- [My summary of 2025 as an IAM consultant and non-web developer](https://dev.to/thomasbnt/my-summary-of-2025-as-an-iam-consultant-and-non-web-developer-58kc)
+- [A New Kind of Parser Method](https://dev.to/ryan_bae_5bd7d40241e52c14/a-new-kind-of-parser-method-1mdb)
 <!-- BLOG-POST-LIST:END -->
 
 
