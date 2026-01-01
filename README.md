@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Digital Waiver Tools for Fitness Pros in 2025](https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-5dn6)
-- [Building an AI-Powered Customer Churn Prediction Pipeline on AWS &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/building-an-ai-powered-customer-churn-prediction-pipeline-on-aws-step-by-step-2l1f)
-- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4)
+- [Bitcoin, Quantum Computing, and the Real Security Threat: A Complete Technical Breakdown](https://dev.to/codebyankita/bitcoin-quantum-computing-and-the-real-security-threat-a-complete-technical-breakdown-1fin)
+- [Day 1 of DSA: Arrays Fundamentals](https://dev.to/kabileshwarankabil/day-1-of-dsa-arrays-fundamentals-1l4j)
+- [The Federal Government Needs a Technical Bankruptcy, Not Another Security Patch](https://dev.to/zeroblind25/the-federal-government-needs-a-technical-bankruptcy-not-another-security-patch-oa4)
+- [Community Market Price Logger &lpar;Day 1 of 30 Days of Python&rpar;](https://dev.to/kinspirecyber/community-market-price-logger-day-1-of-30-days-of-python-10k3)
 <!-- BLOG-POST-LIST:END -->
 
 
