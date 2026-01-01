@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging “Where to spend my time?” in the job search 🌲](https://dev.to/miffens/debugging-where-to-spend-my-time-in-the-job-search-3b8a)
-- [Why Learning C Is My First Step Toward Becoming a Game Engine Programmer](https://dev.to/victor1890/why-learning-c-is-my-first-step-toward-becoming-a-game-engine-programmer-3704)
-- [My summary of 2025 as an IAM consultant and non-web developer](https://dev.to/thomasbnt/my-summary-of-2025-as-an-iam-consultant-and-non-web-developer-58kc)
-- [A New Kind of Parser Method](https://dev.to/ryan_bae_5bd7d40241e52c14/a-new-kind-of-parser-method-1mdb)
+- [Top 5 Digital Waiver Tools for Fitness Pros in 2025](https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-5dn6)
+- [Building an AI-Powered Customer Churn Prediction Pipeline on AWS &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/building-an-ai-powered-customer-churn-prediction-pipeline-on-aws-step-by-step-2l1f)
+- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4)
 <!-- BLOG-POST-LIST:END -->
 
 
