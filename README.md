@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
-- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
-- [Day 1 of 100](https://dev.to/palakhirave/day-1-of-100-1po1)
-- [[Boost]](https://dev.to/techno_kraft_in/-ol5)
+- [EP 6.3: Master-Slave Architecture](https://dev.to/hrishikesh_dalal_ced8f95e/ep-63-master-slave-architecture-15pf)
+- [Securing Secrets in Android: What Actually Works in Production](https://dev.to/vaibhav_shakya_e6b352bfc4/securing-secrets-in-android-what-actually-works-in-production-1mfc)
+- [2026 portfolio launched https://vicentereyes.org](https://dev.to/highcenburg/2026-portfolio-launched-httpsvicentereyesorg-595o)
+- [Why a Kids’ Tablet Is One of the Most Useful Investments for Families](https://dev.to/gabriella_browne_d047850e/why-a-kids-tablet-is-one-of-the-most-useful-investments-for-families-a55)
 <!-- BLOG-POST-LIST:END -->
 
 
