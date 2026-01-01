@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EP 6.3: Master-Slave Architecture](https://dev.to/hrishikesh_dalal_ced8f95e/ep-63-master-slave-architecture-15pf)
-- [Securing Secrets in Android: What Actually Works in Production](https://dev.to/vaibhav_shakya_e6b352bfc4/securing-secrets-in-android-what-actually-works-in-production-1mfc)
-- [2026 portfolio launched https://vicentereyes.org](https://dev.to/highcenburg/2026-portfolio-launched-httpsvicentereyesorg-595o)
-- [Why a Kids’ Tablet Is One of the Most Useful Investments for Families](https://dev.to/gabriella_browne_d047850e/why-a-kids-tablet-is-one-of-the-most-useful-investments-for-families-a55)
+- [Hashicorp Vault: Fine-Grained Access Control with Policies](https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-53h2)
+- [🚀 Multi-Application CI/CD on AWS &lpar;Production-Style&rpar;](https://dev.to/mubeen780/devops-project-multi-application-cicd-on-aws-production-style-2924)
+- [Why Modern Websites feel Faster than Old Ones](https://dev.to/coding_dev_/why-modern-websites-feel-faster-than-old-ones-36om)
+- [How to Win Clients Online with Trust and Clarity - a Practical Guide](https://dev.to/per-starke-642/how-to-win-clients-online-with-trust-and-clarity-a-practical-guide-35a4)
 <!-- BLOG-POST-LIST:END -->
 
 
