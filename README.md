@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Ne Zha In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-ne-zha-in-23-minutes-or-less-dk8)
-- [Sort by File Extension - Bash Script](https://dev.to/ben-santora/sort-by-file-extension-bash-script-10i4)
-- [What Senior Leaders Must Know About Recent AI Developments](https://dev.to/dipti_m_2e7ba36c478d1a48a/what-senior-leaders-must-know-about-recent-ai-developments-3f32)
-- [🔒 Deep Dive: Production-Grade Environment Variable Automation – Engineering Secrets at Scale](https://dev.to/kiran_ravi_092a2cfcf60389/deep-dive-production-grade-environment-variable-automation-engineering-secrets-at-scale-3jf3)
+- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
+- [Git for Beginners: Basics and Essential Commands 🚀](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
+- [How to Make Any CSS Element Resizable 🔧 &lpar;Without JavaScript&rpar;:](https://dev.to/walidchahmi/how-to-make-any-css-element-resizable-without-javascript-2fn1)
+- [SwiftUI Design Tokens &amp; Theming System &lpar;Production-Scale&rpar;](https://dev.to/sebastienlato/swiftui-design-tokens-theming-system-production-scale-b16)
 <!-- BLOG-POST-LIST:END -->
 
 
