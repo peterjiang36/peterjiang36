@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Pip: Why I Switched to “uv” for Python Projects &lpar;10x Faster&rpar;](https://dev.to/naved_shaikh/stop-using-pip-why-i-switched-to-uv-for-python-projects-10x-faster-4ml6)
-- [🎯_Microservices_Performance_Tuning_Practical[20260101104851]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260101104851-126)
-- [➡️ Rust Dev&#39;s Pallas Journey: Cardano in Rust Intro](https://dev.to/_56d7718cea8fe00ec1610/rust-devs-pallas-journey-cardano-in-rust-intro-2dfi)
-- [In Present or Feature AI Replace the Frontend Developers......?](https://dev.to/ummidisetti_saikumar_0be5/in-present-or-feature-ai-replace-the-frontend-developers-35a9)
+- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka)
+- [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
+- [Apertre 3.0: An Open-Source Program Empowering the Next Generation of Developers](https://dev.to/sunny7899/apertre-30-an-open-source-program-empowering-the-next-generation-of-developers-3gnk)
+- [Game Engines Explained Like You’re Choosing a Pokémon](https://dev.to/javadinteger/game-engines-explained-like-youre-choosing-a-pokemon-542b)
 <!-- BLOG-POST-LIST:END -->
 
 
