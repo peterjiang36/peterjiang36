@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your funnel does not need to be impressive. It needs to be easy. Insights inspired by Ashkan Rajaee.](https://dev.to/oscar_fernandez_3885899c7/your-funnel-does-not-need-to-be-impressive-it-needs-to-be-easy-insights-inspired-by-ashkan-rajaee-3n9c)
-- [Hacking the Trades: Why I Chose Python for HVAC Field Automation](https://dev.to/dyami_connell/hacking-the-trades-why-i-chose-python-for-hvac-field-automation-1il4)
-- [Semantic3D.net: A new Large-scale Point Cloud Classification Benchmark](https://dev.to/paperium/semantic3dnet-a-new-large-scale-point-cloud-classification-benchmark-4pd)
-- [How I Fixed Sunshine Screen Sharing on macOS Tahoe &lpar;The Native Wrapper Method&rpar;](https://dev.to/sanjayajoseph/how-i-fixed-sunshine-screen-sharing-on-macos-tahoe-the-native-wrapper-method-558g)
+- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
+- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
+- [Day 1 of 100](https://dev.to/palakhirave/day-1-of-100-1po1)
+- [[Boost]](https://dev.to/techno_kraft_in/-ol5)
 <!-- BLOG-POST-LIST:END -->
 
 
