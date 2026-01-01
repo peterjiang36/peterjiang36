@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/drazenbebic/-1fjg)
-- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
-- [Magic in the Wild: How Java Giants like Spring, Hibernate, and Mockito use Dynamic Proxies](https://dev.to/rajatarora/magic-in-the-wild-how-java-giants-like-spring-hibernate-and-mockito-use-dynamic-proxies-3khc)
-- [Logging in Node.js &lpar;or Deno or Bun or edge functions&rpar; in 2026](https://dev.to/hongminhee/logging-in-nodejs-or-deno-or-bun-or-edge-functions-in-2026-36l2)
+- [Understand the AWS Shared Responsibility Model](https://dev.to/aws-builders/understand-the-aws-shared-responsibility-model-4o9c)
+- [Immutable by Design: Building Tamper-Proof Audit Logs for Health SaaS](https://dev.to/beck_moulton/immutable-by-design-building-tamper-proof-audit-logs-for-health-saas-22dc)
+- [How to Make Product Mockups That Don&#39;t Look Like Templates](https://dev.to/not_varunkv/how-to-make-product-mockups-that-dont-look-like-templates-f78)
+- [U-Groovy](https://dev.to/grzegorzgrzegorz/u-groovy-1he0)
 <!-- BLOG-POST-LIST:END -->
 
 
