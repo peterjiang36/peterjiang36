@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin, Quantum Computing, and the Real Security Threat: A Complete Technical Breakdown](https://dev.to/codebyankita/bitcoin-quantum-computing-and-the-real-security-threat-a-complete-technical-breakdown-1fin)
-- [Day 1 of DSA: Arrays Fundamentals](https://dev.to/kabileshwarankabil/day-1-of-dsa-arrays-fundamentals-1l4j)
-- [The Federal Government Needs a Technical Bankruptcy, Not Another Security Patch](https://dev.to/zeroblind25/the-federal-government-needs-a-technical-bankruptcy-not-another-security-patch-oa4)
-- [Community Market Price Logger &lpar;Day 1 of 30 Days of Python&rpar;](https://dev.to/kinspirecyber/community-market-price-logger-day-1-of-30-days-of-python-10k3)
+- [🚀 AI Interactive Quiz Generator | Engaging Browser-Based Quiz App](https://dev.to/reactjsguru/ai-interactive-quiz-generator-engaging-browser-based-quiz-app-o3l)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101032811]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101032811-27j6)
+- [Vue vs Svelte: Top Differences](https://dev.to/kevinwalker/vue-vs-svelte-top-differences-400a)
+- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-58fg)
 <!-- BLOG-POST-LIST:END -->
 
 
