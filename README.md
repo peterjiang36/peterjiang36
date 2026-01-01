@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 AI Interactive Quiz Generator | Engaging Browser-Based Quiz App](https://dev.to/reactjsguru/ai-interactive-quiz-generator-engaging-browser-based-quiz-app-o3l)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101032811]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101032811-27j6)
-- [Vue vs Svelte: Top Differences](https://dev.to/kevinwalker/vue-vs-svelte-top-differences-400a)
-- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-58fg)
+- [Your funnel does not need to be impressive. It needs to be easy. Insights inspired by Ashkan Rajaee.](https://dev.to/oscar_fernandez_3885899c7/your-funnel-does-not-need-to-be-impressive-it-needs-to-be-easy-insights-inspired-by-ashkan-rajaee-3n9c)
+- [Hacking the Trades: Why I Chose Python for HVAC Field Automation](https://dev.to/dyami_connell/hacking-the-trades-why-i-chose-python-for-hvac-field-automation-1il4)
+- [Semantic3D.net: A new Large-scale Point Cloud Classification Benchmark](https://dev.to/paperium/semantic3dnet-a-new-large-scale-point-cloud-classification-benchmark-4pd)
+- [How I Fixed Sunshine Screen Sharing on macOS Tahoe &lpar;The Native Wrapper Method&rpar;](https://dev.to/sanjayajoseph/how-i-fixed-sunshine-screen-sharing-on-macos-tahoe-the-native-wrapper-method-558g)
 <!-- BLOG-POST-LIST:END -->
 
 
