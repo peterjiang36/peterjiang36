@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
-- [Today’s React Coding Challenge: Building a Currency Converter Tool](https://dev.to/usama_dev/todays-react-coding-challenge-building-a-currency-converter-tool-47fi)
-- [How We Measure HTTP Timing: DNS, TCP, TLS, TTFB Breakdown](https://dev.to/p12se/how-we-measure-http-timing-dns-tcp-tls-ttfb-breakdown-4oa2)
-- [Building a Cyberpunk Glitch UI with CSS &amp; JS &lpar;Source Code&rpar;](https://dev.to/ahmod_musa_bd1b2536d20e0e/building-a-cyberpunk-glitch-ui-with-css-js-source-code-4lo6)
+- [CinemaSins: Everything Wrong With Ne Zha In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-ne-zha-in-23-minutes-or-less-dk8)
+- [Sort by File Extension - Bash Script](https://dev.to/ben-santora/sort-by-file-extension-bash-script-10i4)
+- [What Senior Leaders Must Know About Recent AI Developments](https://dev.to/dipti_m_2e7ba36c478d1a48a/what-senior-leaders-must-know-about-recent-ai-developments-3f32)
+- [🔒 Deep Dive: Production-Grade Environment Variable Automation – Engineering Secrets at Scale](https://dev.to/kiran_ravi_092a2cfcf60389/deep-dive-production-grade-environment-variable-automation-engineering-secrets-at-scale-3jf3)
 <!-- BLOG-POST-LIST:END -->
 
 
