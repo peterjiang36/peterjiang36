@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Real-Time Sensor Data in Wearable Apps](https://dev.to/lucas_wade_0596/handling-real-time-sensor-data-in-wearable-apps-4896)
-- [How a Crypto-Miner Infiltrated My Umami Analytics &lpar;and How I Defeated It&rpar;](https://dev.to/crow004/how-a-crypto-miner-infiltrated-my-umami-analytics-and-how-i-defeated-it-5adh)
-- [The Thinking Game: How DeepMind Turned Video Games into History&#39;s Greatest Scientific Tool](https://dev.to/datalaria/the-thinking-game-how-deepmind-turned-video-games-into-historys-greatest-scientific-tool-1iep)
-- [chatfaster, building ai chat saas, multi-llm chat app development -...](https://dev.to/ash_dubai/chatfaster-building-ai-chat-saas-multi-llm-chat-app-development--3eeh)
+- [Stop Using Pip: Why I Switched to “uv” for Python Projects &lpar;10x Faster&rpar;](https://dev.to/naved_shaikh/stop-using-pip-why-i-switched-to-uv-for-python-projects-10x-faster-4ml6)
+- [🎯_Microservices_Performance_Tuning_Practical[20260101104851]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260101104851-126)
+- [➡️ Rust Dev&#39;s Pallas Journey: Cardano in Rust Intro](https://dev.to/_56d7718cea8fe00ec1610/rust-devs-pallas-journey-cardano-in-rust-intro-2dfi)
+- [In Present or Feature AI Replace the Frontend Developers......?](https://dev.to/ummidisetti_saikumar_0be5/in-present-or-feature-ai-replace-the-frontend-developers-35a9)
 <!-- BLOG-POST-LIST:END -->
 
 
