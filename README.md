@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka)
-- [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
-- [Apertre 3.0: An Open-Source Program Empowering the Next Generation of Developers](https://dev.to/sunny7899/apertre-30-an-open-source-program-empowering-the-next-generation-of-developers-3gnk)
-- [Game Engines Explained Like You’re Choosing a Pokémon](https://dev.to/javadinteger/game-engines-explained-like-youre-choosing-a-pokemon-542b)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101130723]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101130723-3fpi)
+- [Why Bash Syntax Feels So Arcane](https://dev.to/bensantora_74/why-bash-syntax-feels-so-arcane-4j93)
+- [SQL makes me uncomfortable.](https://dev.to/kay_singla/sql-makes-me-uncomfortable-420d)
+- [🧑‍🍳Maven in Spring Boot: The Chef Behind Your Application](https://dev.to/shashwathsh/maven-in-spring-boot-the-chef-behind-your-application-2kf)
 <!-- BLOG-POST-LIST:END -->
 
 
