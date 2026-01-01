@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand the AWS Shared Responsibility Model](https://dev.to/aws-builders/understand-the-aws-shared-responsibility-model-4o9c)
-- [Immutable by Design: Building Tamper-Proof Audit Logs for Health SaaS](https://dev.to/beck_moulton/immutable-by-design-building-tamper-proof-audit-logs-for-health-saas-22dc)
-- [How to Make Product Mockups That Don&#39;t Look Like Templates](https://dev.to/not_varunkv/how-to-make-product-mockups-that-dont-look-like-templates-f78)
-- [U-Groovy](https://dev.to/grzegorzgrzegorz/u-groovy-1he0)
+- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
+- [Today’s React Coding Challenge: Building a Currency Converter Tool](https://dev.to/usama_dev/todays-react-coding-challenge-building-a-currency-converter-tool-47fi)
+- [How We Measure HTTP Timing: DNS, TCP, TLS, TTFB Breakdown](https://dev.to/p12se/how-we-measure-http-timing-dns-tcp-tls-ttfb-breakdown-4oa2)
+- [Building a Cyberpunk Glitch UI with CSS &amp; JS &lpar;Source Code&rpar;](https://dev.to/ahmod_musa_bd1b2536d20e0e/building-a-cyberpunk-glitch-ui-with-css-js-source-code-4lo6)
 <!-- BLOG-POST-LIST:END -->
 
 
