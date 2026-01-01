@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101130723]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101130723-3fpi)
-- [Why Bash Syntax Feels So Arcane](https://dev.to/bensantora_74/why-bash-syntax-feels-so-arcane-4j93)
-- [SQL makes me uncomfortable.](https://dev.to/kay_singla/sql-makes-me-uncomfortable-420d)
-- [🧑‍🍳Maven in Spring Boot: The Chef Behind Your Application](https://dev.to/shashwathsh/maven-in-spring-boot-the-chef-behind-your-application-2kf)
+- [Micromanaging AI Doesn&#39;t Scale](https://dev.to/synthaicode_commander/micromanaging-ai-doesnt-scale-4dli)
+- [Raku 2025 Review](https://dev.to/lizmat/raku-2025-review-4m0l)
+- [Docker Fundamentals on Amazon EC2: A Practical Introduction](https://dev.to/aws-builders/docker-fundamentals-on-amazon-ec2-a-practical-introduction-2l60)
+- [HUNT0 is live — Ship Early, Hunt Early](https://dev.to/justin3go/hunt0-is-live-ship-early-hunt-early-1h4f)
 <!-- BLOG-POST-LIST:END -->
 
 
