@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 0 to 500 Free Pages Scraped with Firecrawl MCP Server and Claude Code](https://dev.to/fracabu/from-0-to-500-free-pages-scraped-with-firecrawl-mcp-server-and-claude-code-29in)
-- [Part 8: Databricks Pipeline &amp; Dashboard](https://dev.to/ktnl/part-8-databricks-pipeline-dashboard-b3h)
-- [Session Tokens vs JWTs: The False Dichotomy](https://dev.to/digitaldrreamer/session-tokens-vs-jwts-the-false-dichotomy-4ba5)
-- [Part 7: Gold Layer – Metrics, Watermarks, and Aggregations](https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm)
+- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk)
+- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f)
+- [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
+- [Small But Mighty Homelab: DeskPi 12U Running 20+ Services](https://dev.to/tsukiyo/small-but-mighty-homelab-deskpi-12u-running-20-services-4l7f)
 <!-- BLOG-POST-LIST:END -->
 
 
