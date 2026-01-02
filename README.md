@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Nike Website Clone | React + TypeScript + Tailwind CSS](https://dev.to/reactjsguru/nike-website-clone-react-typescript-tailwind-css-1015)
-- [From LangChain Demos to a Production-Ready FastAPI Backend](https://dev.to/hamluk/from-langchain-demos-to-a-production-ready-fastapi-backend-1c0a)
-- [C# Smart Enums: advanced](https://dev.to/helder_sousa_d5a9854fcde0/c-smart-enums-advanced-hg4)
-- [Building a Knowledge Graph from Text with LLMs_ Complete Pipeline](https://dev.to/yodev_grego/building-a-knowledge-graph-from-text-with-llms-complete-pipeline-9md)
+- [Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success](https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2)
+- [Why I’m Betting on React Native in 2026 After 13 Years of Mobile Development](https://dev.to/kazutoyo/why-im-betting-on-react-native-in-2026-after-13-years-of-mobile-development-1l87)
+- [CVE-2025-64500: Incorrect parsing of PATH_INFO can lead to limited authorization bypass - Laravel 11.47.0](https://dev.to/aspsptyd/cve-2025-64500-incorrect-parsing-of-pathinfo-can-lead-to-limited-authorization-bypass-laravel-287c)
+- [Time as the material of social life in Giddens&#39;s theory](https://dev.to/fundacjadobrepanstwo/time-as-the-material-of-social-life-in-giddenss-theory-28jn)
 <!-- BLOG-POST-LIST:END -->
 
 
