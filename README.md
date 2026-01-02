@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Predictive Analytics, Demand Forecasting &amp; AI Inventory Transform Supply Chain Success](https://dev.to/softwarerbm/where-predictive-analytics-demand-forecasting-ai-inventory-transform-supply-chain-success-1oa2)
-- [Why I’m Betting on React Native in 2026 After 13 Years of Mobile Development](https://dev.to/kazutoyo/why-im-betting-on-react-native-in-2026-after-13-years-of-mobile-development-1l87)
-- [CVE-2025-64500: Incorrect parsing of PATH_INFO can lead to limited authorization bypass - Laravel 11.47.0](https://dev.to/aspsptyd/cve-2025-64500-incorrect-parsing-of-pathinfo-can-lead-to-limited-authorization-bypass-laravel-287c)
-- [Time as the material of social life in Giddens&#39;s theory](https://dev.to/fundacjadobrepanstwo/time-as-the-material-of-social-life-in-giddenss-theory-28jn)
+- [🎯 Beginner-Friendly Guide &#39;N-Repeated Element in Size 2N Array&#39; – LeetCode 961 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-n-repeated-element-in-size-2n-array-leetcode-961-c-python--2h0e)
+- [Proteus: The AI-native editor for multimodal creation](https://dev.to/gezilinll/proteus-the-ai-native-editor-for-multimodal-creation-29h3)
+- [Coding Practice Roadmap for College Students: Learn Programming](https://dev.to/codepractice/coding-practice-roadmap-for-college-students-learn-programming-1ic4)
+- [🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀](https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21)
 <!-- BLOG-POST-LIST:END -->
 
 
