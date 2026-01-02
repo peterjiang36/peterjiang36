@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
-- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
-- [EP 7: The &quot;Join&quot; Tax vs. The &quot;Storage&quot; Tax](https://dev.to/hrishikesh_dalal_ced8f95e/ep-7-the-join-tax-vs-the-storage-tax-1jna)
-- [The Anthology of a Creative Developer: A 2026 Portfolio](https://dev.to/nk2552003/the-anthology-of-a-creative-developer-a-2026-portfolio-56jp)
+- [Why You Need a Custom URL Shortener for Your SaaS: Complete Guide](https://dev.to/buildingsaasly/why-you-need-a-custom-url-shortener-for-your-saas-complete-guide-4n35)
+- [🎬 ProducerAI: The Real-Time Generative Video Studio](https://dev.to/deeksha_mahara/producerai-the-real-time-generative-video-studio-2139)
+- [2025 Was for Playing. 2026 Is for Paying. 📉📈](https://dev.to/naved_shaikh/2025-was-for-playing-2026-is-for-paying-13fl)
+- [Your Next Browser Won’t Open Tabs, It Will Execute Goals](https://dev.to/aiwithapex/your-next-browser-wont-open-tabs-it-will-execute-goals-2gfc)
 <!-- BLOG-POST-LIST:END -->
 
 
