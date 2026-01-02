@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Logging for Amazon Bedrock: From Invocation to Insight](https://dev.to/sujitha_rasamsetty/serverless-logging-for-amazon-bedrock-from-invocation-to-insight-12pe)
-- [How to Develop and Publish a VS Code Extension](https://dev.to/k2-gc/how-to-develop-and-publish-a-vs-code-extension-k8i)
-- [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
-- [Nobody Knows What&#39;s Happening Anymore](https://dev.to/gnaneswar_815de7ed8391e3c/nobody-knows-whats-happening-anymore-5db2)
+- [JSON is Not Enough: The Engineering Headache of Flattening FHIR for Analytics](https://dev.to/beck_moulton/json-is-not-enough-the-engineering-headache-of-flattening-fhir-for-analytics-2717)
+- [Combine #13: Manejo de Recursos](https://dev.to/david_goyes_a488f58a17a53/combine-13-manejo-de-recursos-edg)
+- [Introduction :&rpar;](https://dev.to/m4ir0n/introduction--42em)
+- [The False Promise of Agile Over Waterfall](https://dev.to/ghostinit0x/the-false-promise-of-agile-over-waterfall-3do8)
 <!-- BLOG-POST-LIST:END -->
 
 
