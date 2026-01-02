@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical privilege escalation flaw in Apache StreamPipes allows admin takeover](https://dev.to/beyondmachines/critical-privilege-escalation-flaw-in-apache-streampipes-allows-admin-takeover-40ke)
-- [[BOJ/C, C++] 단계별로 풀어보기 문자열 ~ 2차원 배열](https://dev.to/dbsans11/bojc-c-dangyebyeolro-puleobogi-munjayeol-2caweon-baeyeol-1pl9)
-- [Submit Forms the Modern Way in Angular Signal Forms](https://dev.to/brianmtreese/submit-forms-the-modern-way-in-angular-signal-forms-25dj)
-- [Best HRMS for Distributed Teams](https://dev.to/davidmercer/best-hrms-for-distributed-teams-5fpi)
+- [Threat Intelligence Automation with AI/ML](https://dev.to/cyberpath/threat-intelligence-automation-with-aiml-1i81)
+- [Building an MCP Server: How We Connected DiskCleanKit to AI Assistants](https://dev.to/diskcleankit/building-an-mcp-server-how-we-connected-diskcleankit-to-ai-assistants-222e)
+- [What Every Programmer Should Know About Memory Part 3](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-3-2i6k)
+- [I Built a Free EMI Calculator Focused on Clarity &lpar;Not Ads&rpar;](https://dev.to/roman_singh_a88e2bb48696a/i-built-a-free-emi-calculator-focused-on-clarity-not-ads-4dei)
 <!-- BLOG-POST-LIST:END -->
 
 
