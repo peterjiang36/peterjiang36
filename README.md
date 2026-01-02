@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Practices for Securing Amazon Bedrock Agents from Prompt Injections.](https://dev.to/aws-builders/5-best-practices-for-securing-amazon-bedrock-agents-from-prompt-injections-30eg)
-- [Green Software Engineering: Measuring Energy, Not Just Performance](https://dev.to/fadydesokysaeedabdelaziz/green-software-engineering-measuring-energy-not-just-performance-3i00)
-- [The Era of Mechanical Horses](https://dev.to/justgeek/the-era-of-mechanical-horses-3dlm)
-- [REFRAG y la dependencia crítica a los pesos del modelo](https://dev.to/jjdelcerro/refrag-y-la-dependencia-critica-a-los-pesos-del-modelo-370h)
+- [CYPRESS-FLAKY-TESTAUDIT: thriving in the Cypress &#39;Dual-Verse&#39; for once!](https://dev.to/sebastianclavijo/cypress-flaky-testaudit-thriving-in-the-cypress-dual-verse-for-once-l4o)
+- [Ashkan Rajaee highlights where most teams lose momentum without realizing it. Marketing funnels fail silently.](https://dev.to/thisisantoinelucas/ashkan-rajaee-highlights-where-most-teams-lose-momentum-without-realizing-it-marketing-funnels-28lk)
+- [Remote work needs boundaries, not vibes. Ashkan Rajaee breaks the myth.](https://dev.to/thisisantoinelucas/remote-work-needs-boundaries-not-vibes-ashkan-rajaee-breaks-the-myth-5e8d)
+- [Why Converting PDFs to Markdown Is Harder Than It Looks](https://dev.to/edward_4bd0f3553fd5ac06c5/why-converting-pdfs-to-markdown-is-harder-than-it-looks-274d)
 <!-- BLOG-POST-LIST:END -->
 
 
