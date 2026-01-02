@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sustainable AI Benchmarks Developers Will Be Asked About In 2026](https://dev.to/arbisoftcompany/sustainable-ai-benchmarks-developers-will-be-asked-about-in-2026-3a29)
-- [Scope Management Is Not Micromanagement](https://dev.to/synthaicode_commander/scope-management-is-not-micromanagement-2kd5)
-- [🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
-- [Instructions Are Not Control](https://dev.to/saisrinivas/instructions-are-not-control-15l8)
+- [Serverless Logging for Amazon Bedrock: From Invocation to Insight](https://dev.to/sujitha_rasamsetty/serverless-logging-for-amazon-bedrock-from-invocation-to-insight-12pe)
+- [How to Develop and Publish a VS Code Extension](https://dev.to/k2-gc/how-to-develop-and-publish-a-vs-code-extension-k8i)
+- [Tips Membuat Website Modern dengan Nextjs](https://dev.to/muhammad_indrawan_33e0f0d/tips-membuat-website-modern-dengan-nextjs-47ga)
+- [Nobody Knows What&#39;s Happening Anymore](https://dev.to/gnaneswar_815de7ed8391e3c/nobody-knows-whats-happening-anymore-5db2)
 <!-- BLOG-POST-LIST:END -->
 
 
