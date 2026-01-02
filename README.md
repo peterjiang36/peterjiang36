@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Need a Custom URL Shortener for Your SaaS: Complete Guide](https://dev.to/buildingsaasly/why-you-need-a-custom-url-shortener-for-your-saas-complete-guide-4n35)
-- [🎬 ProducerAI: The Real-Time Generative Video Studio](https://dev.to/deeksha_mahara/producerai-the-real-time-generative-video-studio-2139)
-- [2025 Was for Playing. 2026 Is for Paying. 📉📈](https://dev.to/naved_shaikh/2025-was-for-playing-2026-is-for-paying-13fl)
-- [Your Next Browser Won’t Open Tabs, It Will Execute Goals](https://dev.to/aiwithapex/your-next-browser-wont-open-tabs-it-will-execute-goals-2gfc)
+- [🎯_Microservices_Performance_Tuning_Practical[20260102070004]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102070004-5f3d)
+- [The Loop Changes Everything: Why Embodied AI Breaks Current Alignment Approaches](https://dev.to/evoleinik/the-loop-changes-everything-why-embodied-ai-breaks-current-alignment-approaches-4c96)
+- [Agentic AI: Schema-Validated Tool Execution and Deterministic Caching](https://dev.to/sudarshangouda/agentic-ai-schema-validated-tool-execution-and-deterministic-caching-2d14)
+- [Disabling Interrupts on ARM Bare Metal](https://dev.to/ripan030/bare-metal-arm-bootstrapping-disabling-interrupts-and-reading-cpsr-2ojd)
 <!-- BLOG-POST-LIST:END -->
 
 
