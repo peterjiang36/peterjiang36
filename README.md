@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CYPRESS-FLAKY-TESTAUDIT: thriving in the Cypress &#39;Dual-Verse&#39; for once!](https://dev.to/sebastianclavijo/cypress-flaky-testaudit-thriving-in-the-cypress-dual-verse-for-once-l4o)
-- [Ashkan Rajaee highlights where most teams lose momentum without realizing it. Marketing funnels fail silently.](https://dev.to/thisisantoinelucas/ashkan-rajaee-highlights-where-most-teams-lose-momentum-without-realizing-it-marketing-funnels-28lk)
-- [Remote work needs boundaries, not vibes. Ashkan Rajaee breaks the myth.](https://dev.to/thisisantoinelucas/remote-work-needs-boundaries-not-vibes-ashkan-rajaee-breaks-the-myth-5e8d)
-- [Why Converting PDFs to Markdown Is Harder Than It Looks](https://dev.to/edward_4bd0f3553fd5ac06c5/why-converting-pdfs-to-markdown-is-harder-than-it-looks-274d)
+- [🚀 Nike Website Clone | React + TypeScript + Tailwind CSS](https://dev.to/reactjsguru/nike-website-clone-react-typescript-tailwind-css-1015)
+- [From LangChain Demos to a Production-Ready FastAPI Backend](https://dev.to/hamluk/from-langchain-demos-to-a-production-ready-fastapi-backend-1c0a)
+- [C# Smart Enums: advanced](https://dev.to/helder_sousa_d5a9854fcde0/c-smart-enums-advanced-hg4)
+- [Building a Knowledge Graph from Text with LLMs_ Complete Pipeline](https://dev.to/yodev_grego/building-a-knowledge-graph-from-text-with-llms-complete-pipeline-9md)
 <!-- BLOG-POST-LIST:END -->
 
 
