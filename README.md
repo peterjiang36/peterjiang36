@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Computers Store Data — From Memory to Meaning](https://dev.to/cristiansifuentes/how-computers-store-data-from-memory-to-meaning-4kdk)
-- [The Death of Cookie Theft: Understanding Device Bound Session Credentials &lpar;DBSC&rpar;](https://dev.to/deepak_mishra_35863517037/the-death-of-cookie-theft-understanding-device-bound-session-credentials-dbsc-188h)
-- [🎯_Microservices_Performance_Tuning_Practical[20260102215752]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102215752-2kck)
-- [Versioning Redis Cache Keys to Prevent Stale Data During Spring Boot Deployments](https://dev.to/ibrahimgunduz34/versioning-redis-cache-keys-to-prevent-stale-data-during-spring-boot-deployments-1d8e)
+- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
+- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
+- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
+- [Micro language model](https://dev.to/folco_grimaldi_d6e649ff24/micro-language-model-4cng)
 <!-- BLOG-POST-LIST:END -->
 
 
