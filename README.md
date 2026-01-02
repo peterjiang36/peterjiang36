@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯_Microservices_Performance_Tuning_Practical[20260102070004]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102070004-5f3d)
-- [The Loop Changes Everything: Why Embodied AI Breaks Current Alignment Approaches](https://dev.to/evoleinik/the-loop-changes-everything-why-embodied-ai-breaks-current-alignment-approaches-4c96)
-- [Agentic AI: Schema-Validated Tool Execution and Deterministic Caching](https://dev.to/sudarshangouda/agentic-ai-schema-validated-tool-execution-and-deterministic-caching-2d14)
-- [Disabling Interrupts on ARM Bare Metal](https://dev.to/ripan030/bare-metal-arm-bootstrapping-disabling-interrupts-and-reading-cpsr-2ojd)
+- [Critical privilege escalation flaw in Apache StreamPipes allows admin takeover](https://dev.to/beyondmachines/critical-privilege-escalation-flaw-in-apache-streampipes-allows-admin-takeover-40ke)
+- [[BOJ/C, C++] 단계별로 풀어보기 문자열 ~ 2차원 배열](https://dev.to/dbsans11/bojc-c-dangyebyeolro-puleobogi-munjayeol-2caweon-baeyeol-1pl9)
+- [Submit Forms the Modern Way in Angular Signal Forms](https://dev.to/brianmtreese/submit-forms-the-modern-way-in-angular-signal-forms-25dj)
+- [Best HRMS for Distributed Teams](https://dev.to/davidmercer/best-hrms-for-distributed-teams-5fpi)
 <!-- BLOG-POST-LIST:END -->
 
 
