@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Deployment of a Two-Tier Application Using Docker, Kubernetes, Helm, and AWS](https://dev.to/safi-ullah/end-to-end-deployment-of-a-two-tier-application-using-docker-kubernetes-helm-and-aws-3gma)
-- [Event-Driven Architecture: Why Your App Should Stop Talking to Itself &lpar;And Start Listening&rpar;](https://dev.to/ftwoli/event-driven-architecture-why-your-app-should-stop-talking-to-itself-and-start-listening-4mp1)
-- [Why AI Governance Cannot Be Treated as Compliance](https://dev.to/antonio_socorro_95e3ff086/why-ai-governance-cannot-be-treated-as-compliance-1dep)
-- [StyleX + ESLint: When Best Practices Fight Each Other](https://dev.to/sal_lancaster/stylex-eslint-when-best-practices-fight-each-other-4o17)
+- [5 Best Practices for Securing Amazon Bedrock Agents from Prompt Injections.](https://dev.to/aws-builders/5-best-practices-for-securing-amazon-bedrock-agents-from-prompt-injections-30eg)
+- [Green Software Engineering: Measuring Energy, Not Just Performance](https://dev.to/fadydesokysaeedabdelaziz/green-software-engineering-measuring-energy-not-just-performance-3i00)
+- [The Era of Mechanical Horses](https://dev.to/justgeek/the-era-of-mechanical-horses-3dlm)
+- [REFRAG y la dependencia crítica a los pesos del modelo](https://dev.to/jjdelcerro/refrag-y-la-dependencia-critica-a-los-pesos-del-modelo-370h)
 <!-- BLOG-POST-LIST:END -->
 
 
