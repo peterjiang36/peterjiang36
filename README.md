@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
-- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
-- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
-- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
+- [CPUs &amp; RAM Explained — How Computers Actually Think and Remember](https://dev.to/cristiansifuentes/cpus-ram-explained-how-computers-actually-think-and-remember-a5g)
+- [Por qué estoy aprendiendo espanol?](https://dev.to/davidscanu/por-que-estoy-aprendiendo-espanol-50gd)
+- [Boolean Field Becomes null in Spring Boot DTO? Here’s Why &lpar;And How to Fix It&rpar;](https://dev.to/abhishek_shahi_9d131e426d/boolean-field-becomes-null-in-spring-boot-dto-heres-why-and-how-to-fix-it-4i39)
+- [The seed corn](https://dev.to/justcatdev/the-seed-corn-4pn4)
 <!-- BLOG-POST-LIST:END -->
 
 
