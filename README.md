@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk)
-- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f)
-- [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
-- [Small But Mighty Homelab: DeskPi 12U Running 20+ Services](https://dev.to/tsukiyo/small-but-mighty-homelab-deskpi-12u-running-20-services-4l7f)
+- [Choosing the Right Walker for Improved Mobility and Safety at Home](https://dev.to/amir_redone_9191ea41279d1/choosing-the-right-walker-for-improved-mobility-and-safety-at-home-4d4m)
+- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
+- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
+- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
 <!-- BLOG-POST-LIST:END -->
 
 
