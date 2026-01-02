@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON is Not Enough: The Engineering Headache of Flattening FHIR for Analytics](https://dev.to/beck_moulton/json-is-not-enough-the-engineering-headache-of-flattening-fhir-for-analytics-2717)
-- [Combine #13: Manejo de Recursos](https://dev.to/david_goyes_a488f58a17a53/combine-13-manejo-de-recursos-edg)
-- [Introduction :&rpar;](https://dev.to/m4ir0n/introduction--42em)
-- [The False Promise of Agile Over Waterfall](https://dev.to/ghostinit0x/the-false-promise-of-agile-over-waterfall-3do8)
+- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
+- [Advanced Threat Hunting Techniques: Part 2](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-2-3eil)
+- [APTs: Defense Strategies and Mitigation Techniques](https://dev.to/cyberpath/apts-defense-strategies-and-mitigation-techniques-1ega)
+- [Building a Secure Home Lab: A Complete Guide](https://dev.to/cyberpath/building-a-secure-home-lab-a-complete-guide-3jfn)
 <!-- BLOG-POST-LIST:END -->
 
 
