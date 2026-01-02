@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CPUs &amp; RAM Explained — How Computers Actually Think and Remember](https://dev.to/cristiansifuentes/cpus-ram-explained-how-computers-actually-think-and-remember-a5g)
-- [Por qué estoy aprendiendo espanol?](https://dev.to/davidscanu/por-que-estoy-aprendiendo-espanol-50gd)
-- [Boolean Field Becomes null in Spring Boot DTO? Here’s Why &lpar;And How to Fix It&rpar;](https://dev.to/abhishek_shahi_9d131e426d/boolean-field-becomes-null-in-spring-boot-dto-heres-why-and-how-to-fix-it-4i39)
-- [The seed corn](https://dev.to/justcatdev/the-seed-corn-4pn4)
+- [3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4)
+- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
+- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
+- [How do I become a admin on steal a brain rot](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-j88)
 <!-- BLOG-POST-LIST:END -->
 
 
