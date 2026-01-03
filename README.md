@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
-- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
-- [I Built a Color Wheel for React published](https://dev.to/usapopopooon/i-built-a-color-wheel-for-react-published-141)
-- [🎯 My Spring Boot Controllers Looked Fine… Until I Understood the Presentation Layer](https://dev.to/shashwathsh/my-spring-boot-controllers-looked-fine-until-i-understood-the-presentation-layer-59m2)
+- [Most Security Teams Can’t Scale Access Management Beyond 50 Employees - Here’s how to fix it](https://dev.to/mfakbar127/most-security-teams-cant-scale-access-management-beyond-50-employees-heres-how-to-fix-it-132d)
+- [The Invisible Hand](https://dev.to/rawveg/the-invisible-hand-4pdc)
+- [I built an open-source Android app that switches dark mode based on ambient light – Adaptive Theme](https://dev.to/xlexip/i-built-an-open-source-android-app-that-switches-dark-mode-based-on-ambient-light-adaptive-theme-2fd3)
+- [🎯_Microservices_Performance_Tuning_Practical[20260103114946]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260103114946-dd9)
 <!-- BLOG-POST-LIST:END -->
 
 
