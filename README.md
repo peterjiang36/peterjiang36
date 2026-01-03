@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Malicious Chrome Extensions Steal AI Chats: How to Protect Your Conversations in 2026](https://dev.to/manupranay_adupa_c1dd6247/malicious-chrome-extensions-steal-ai-chats-how-to-protect-your-conversations-in-2026-2f6p)
-- [FHIR Integration: Build Modern Healthcare Apps Using Python and FastAPI](https://dev.to/wellallytech/fhir-integration-build-modern-healthcare-apps-using-python-and-fastapi-5cdf)
-- [Transform Your SDK Integration with Monetzly&#39;s Monetization Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-monetization-tools-1lgc)
-- [Instruction Tuning with GPT-4](https://dev.to/paperium/instruction-tuning-with-gpt-4-104e)
+- [The Cybersecurity Industry&#39;s Insider Threat Problem Isn&#39;t About Background Checks](https://dev.to/zeroblind25/the-cybersecurity-industrys-insider-threat-problem-isnt-about-background-checks-14i4)
+- [From $47 to $1200/Month: What I Learned Starting Businesses in My Dorm](https://dev.to/short_playskits_ab152535/from-47-to-1200month-what-i-learned-starting-businesses-in-my-dorm-5cg4)
+- [Systems, Leadership, and the Power of &#39;We&#39;](https://dev.to/sigje/systems-leadership-and-the-power-of-we-11pm)
+- [The Ultimate Claude Code Tips Collection &lpar;Advent of Claude 2025&rpar;](https://dev.to/damogallagher/the-ultimate-claude-code-tips-collection-advent-of-claude-2025-5b73)
 <!-- BLOG-POST-LIST:END -->
 
 
