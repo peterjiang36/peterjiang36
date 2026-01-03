@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Uploaded a 120-page PDF instant AI chat. 
-If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
-- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
-- [Daily Tech News Roundup - 2026-01-03](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-03-316m)
-- [How GraphRAG Works](https://dev.to/nitheesh_gaddam_e36ec4aa4/how-graphrag-works-2d33)
+- [IMMUNE: Building an EDR/XDR/MDR Security Platform in Pure C — Solo Dev Progress](https://dev.to/dmitry_labintcev_9e611e04/immune-building-an-edrxdrmdr-security-platform-in-pure-c-solo-dev-progress-49o4)
+- [How to Review AI-Written Code Like a Engineer](https://dev.to/speaklouder/how-to-review-ai-written-code-like-a-engineer-1f4g)
+- [I Built a Cybersecurity-Only Programming Language &lpar;So You Don’t Need 200 Lines of Python&rpar;](https://dev.to/czax225/i-built-a-cybersecurity-only-programming-language-so-you-dont-need-200-lines-of-python-1ime)
+- [🎓 DeepCode: The Open Source Agent That Writes Code Better Than PhDs](https://dev.to/siddhesh_surve/deepcode-the-open-source-agent-that-writes-code-better-than-phds-1nlg)
 <!-- BLOG-POST-LIST:END -->
 
 
