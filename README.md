@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
-- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
-- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
-- [Micro language model](https://dev.to/folco_grimaldi_d6e649ff24/micro-language-model-4cng)
+- [AWS Kiro: Agentic Coding and the Rise of Spec-Driven AI Development](https://dev.to/aws-builders/aws-kiro-agentic-coding-and-the-rise-of-spec-driven-ai-development-41h)
+- [I have open-sourced a WebGL front-end for your terminal that emulates a CRT monitor](https://dev.to/remojansen/i-have-open-sourced-a-webgl-front-end-for-your-terminal-that-emulates-a-crt-monitor-2icd)
+- [Why Chatbots Are Dead in 2026 &lpar;And What&#39;s Replacing Them&rpar;](https://dev.to/steve_oak/why-chatbots-are-dead-in-2026-and-whats-replacing-them-4k5k)
+- [Building AI Agents on AWS in 2025: A Practitioner&#39;s Guide to Bedrock, AgentCore, and Beyond](https://dev.to/damogallagher/building-ai-agents-on-aws-in-2025-a-practitioners-guide-to-bedrock-agentcore-and-beyond-4efn)
 <!-- BLOG-POST-LIST:END -->
 
 
