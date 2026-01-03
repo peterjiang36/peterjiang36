@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
-- [How to Make AI Consolidate Code—Without Micromanagement](https://dev.to/synthaicode_commander/dry-first-refactoring-protocol-23k2)
-- [DevOps From Scratch: Entry #02](https://dev.to/maame-codes/devops-from-scratch-entry-02-525d)
-- [Self-hosting SvelteKit app - the easy way](https://dev.to/kvetoslavnovak/self-hosting-sveltekit-app-the-easy-way-2g1d)
+- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
+- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
+- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
+- [How to Install Umami Analytics on AlmaLinux 10](https://dev.to/ramankumar/how-to-install-umami-analytics-on-almalinux-10-1hn9)
 <!-- BLOG-POST-LIST:END -->
 
 
