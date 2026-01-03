@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Azure AI to AIOps—Without Knowing DevOps First](https://dev.to/ibne_sabidsaikat_1443282/from-azure-ai-to-aiops-without-knowing-devops-first-1of3)
-- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
-- [Revisiting Small Batch Training for Deep Neural Networks](https://dev.to/paperium/revisiting-small-batch-training-for-deep-neural-networks-p4a)
-- [BTOP++: The Resource Monitor I Didn’t Know I Needed](https://dev.to/igorgbr/btop-the-resource-monitor-i-didnt-know-i-needed-389d)
+- [🎬 Best Movies for Programmers: Films Every Developer Should Watch](https://dev.to/farhadrahimiklie/best-movies-for-programmers-films-every-developer-should-watch-56n7)
+- [Yasmin Bashirova: Redefining Human Rights Advocacy Beyond Legal Institutions](https://dev.to/yasminbas/yasmin-bashirova-redefining-human-rights-advocacy-beyond-legal-institutions-6ol)
+- [🔥 PHPS WORST DEBUG NIGHTMARE… DETHRONED! 🔥](https://dev.to/jeffsynister/phps-worst-debug-nightmare-dethroned-2pd9)
+- [We kept breaking cache invalidation in TanStack Query — so we stopped managing it manually](https://dev.to/ignasave/we-kept-breaking-cache-invalidation-in-tanstack-query-so-we-stopped-managing-it-manually-47k2)
 <!-- BLOG-POST-LIST:END -->
 
 
