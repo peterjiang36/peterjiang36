@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IMMUNE: Building an EDR/XDR/MDR Security Platform in Pure C — Solo Dev Progress](https://dev.to/dmitry_labintcev_9e611e04/immune-building-an-edrxdrmdr-security-platform-in-pure-c-solo-dev-progress-49o4)
-- [How to Review AI-Written Code Like a Engineer](https://dev.to/speaklouder/how-to-review-ai-written-code-like-a-engineer-1f4g)
-- [I Built a Cybersecurity-Only Programming Language &lpar;So You Don’t Need 200 Lines of Python&rpar;](https://dev.to/czax225/i-built-a-cybersecurity-only-programming-language-so-you-dont-need-200-lines-of-python-1ime)
-- [🎓 DeepCode: The Open Source Agent That Writes Code Better Than PhDs](https://dev.to/siddhesh_surve/deepcode-the-open-source-agent-that-writes-code-better-than-phds-1nlg)
+- [Shipping AI-Generated Code: What Happens After &quot;It Works&quot;](https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625)
+- [How to Scan QR Codes Safely Using Your Phone](https://dev.to/editflowsuite_e387af89d5a/how-to-scan-qr-codes-safely-using-your-phone-324k)
+- [Semi-Supervised Learning with Generative Adversarial Networks](https://dev.to/paperium/semi-supervised-learning-with-generative-adversarial-networks-1fj0)
+- [Identify Components and Resources for Security](https://dev.to/aws-builders/identify-components-and-resources-for-security-49pn)
 <!-- BLOG-POST-LIST:END -->
 
 
