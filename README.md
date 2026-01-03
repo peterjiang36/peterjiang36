@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping AI-Generated Code: What Happens After &quot;It Works&quot;](https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625)
-- [How to Scan QR Codes Safely Using Your Phone](https://dev.to/editflowsuite_e387af89d5a/how-to-scan-qr-codes-safely-using-your-phone-324k)
-- [Semi-Supervised Learning with Generative Adversarial Networks](https://dev.to/paperium/semi-supervised-learning-with-generative-adversarial-networks-1fj0)
-- [Identify Components and Resources for Security](https://dev.to/aws-builders/identify-components-and-resources-for-security-49pn)
+- [How I stopped fighting AI and started shipping features 10x faster with Claude Code and Codex](https://dev.to/tigranbs/how-i-stopped-fighting-ai-and-started-shipping-features-10x-faster-with-claude-code-and-codex-218)
+- [Terminal setup for speed &amp; ease](https://dev.to/anisharaz/terminal-setup-for-speed-ease-4nd2)
+- [Why Auth0 email_verified Was Missing from My Access Token &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-and-how-to-fix-it-e94)
+- [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2mjg)
 <!-- BLOG-POST-LIST:END -->
 
 
