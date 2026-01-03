@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Docker vulnerability scanner - Beta testers wanted!!!](https://dev.to/jake_e115018d1995da2050f6/i-built-a-docker-vulnerability-scanner-beta-testers-wanted-1lm0)
-- [Why setTimeout Returns an Object in Node.js &lpar;and Why setInterval Can Break Your App&rpar;](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
-- [Why I Built a Marketplace for Vibe-Coded Apps](https://dev.to/imran_hassan_df9c98d874de/why-i-built-a-marketplace-for-vibe-coded-apps-3gho)
-- [New Year, New You Portfolio Challenge - Samarth Shendre](https://dev.to/samarth28/new-year-new-you-portfolio-challenge-samarth-shendre-a30)
+- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
+- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
+- [BinaryNet: Training Deep Neural Networks with Weights and ActivationsConstrained to +1 or -1](https://dev.to/paperium/binarynet-training-deep-neural-networks-with-weights-and-activationsconstrained-to-1-or-1-1d03)
+- [The Fe Experiment](https://dev.to/frank_vega_987689489099bf/the-fe-experiment-41i9)
 <!-- BLOG-POST-LIST:END -->
 
 
