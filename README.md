@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlit desde cero: cómo crear una app para explorar y visualizar datos desde un CSV](https://dev.to/mirinagonzales/streamlit-desde-cero-como-crear-una-app-para-explorar-y-visualizar-datos-desde-un-csv-5642)
-- [Top Open Source Projects That Will Dominate 2026](https://dev.to/jaysaadana/top-open-source-projects-that-will-dominate-2026-2moa)
-- [Using Claude Code to solve Advent of Code 2025](https://dev.to/dineshgdk/using-claude-code-to-solve-advent-of-code-2025-2o16)
-- [Ai Artshop Discount Code : &lpar;ARCH30&rpar; Unlock 10% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/ai-artshop-discount-code-arch30-unlock-10-discount-on-purchase-4ihj)
+- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
+- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
+- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
+- [How To Install Kimai on Debian 13](https://dev.to/ramankumar/how-to-install-kimai-on-debian-13-5bl3)
 <!-- BLOG-POST-LIST:END -->
 
 
