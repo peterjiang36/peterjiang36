@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cybersecurity Industry&#39;s Insider Threat Problem Isn&#39;t About Background Checks](https://dev.to/zeroblind25/the-cybersecurity-industrys-insider-threat-problem-isnt-about-background-checks-14i4)
-- [From $47 to $1200/Month: What I Learned Starting Businesses in My Dorm](https://dev.to/short_playskits_ab152535/from-47-to-1200month-what-i-learned-starting-businesses-in-my-dorm-5cg4)
-- [Systems, Leadership, and the Power of &#39;We&#39;](https://dev.to/sigje/systems-leadership-and-the-power-of-we-11pm)
-- [The Ultimate Claude Code Tips Collection &lpar;Advent of Claude 2025&rpar;](https://dev.to/damogallagher/the-ultimate-claude-code-tips-collection-advent-of-claude-2025-5b73)
+- [From Azure AI to AIOps—Without Knowing DevOps First](https://dev.to/ibne_sabidsaikat_1443282/from-azure-ai-to-aiops-without-knowing-devops-first-1of3)
+- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
+- [Revisiting Small Batch Training for Deep Neural Networks](https://dev.to/paperium/revisiting-small-batch-training-for-deep-neural-networks-p4a)
+- [BTOP++: The Resource Monitor I Didn’t Know I Needed](https://dev.to/igorgbr/btop-the-resource-monitor-i-didnt-know-i-needed-389d)
 <!-- BLOG-POST-LIST:END -->
 
 
