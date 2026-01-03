@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I stopped fighting AI and started shipping features 10x faster with Claude Code and Codex](https://dev.to/tigranbs/how-i-stopped-fighting-ai-and-started-shipping-features-10x-faster-with-claude-code-and-codex-218)
-- [Terminal setup for speed &amp; ease](https://dev.to/anisharaz/terminal-setup-for-speed-ease-4nd2)
-- [Why Auth0 email_verified Was Missing from My Access Token &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-and-how-to-fix-it-e94)
-- [Terraform Guardrail MCP](https://dev.to/huzefaaa2/terraform-guardrail-mcp-2mjg)
+- [Streamlit desde cero: cómo crear una app para explorar y visualizar datos desde un CSV](https://dev.to/mirinagonzales/streamlit-desde-cero-como-crear-una-app-para-explorar-y-visualizar-datos-desde-un-csv-5642)
+- [Top Open Source Projects That Will Dominate 2026](https://dev.to/jaysaadana/top-open-source-projects-that-will-dominate-2026-2moa)
+- [Using Claude Code to solve Advent of Code 2025](https://dev.to/dineshgdk/using-claude-code-to-solve-advent-of-code-2025-2o16)
+- [Ai Artshop Discount Code : &lpar;ARCH30&rpar; Unlock 10% Discount On Purchase](https://dev.to/referral_code_ee61ef9548a/ai-artshop-discount-code-arch30-unlock-10-discount-on-purchase-4ihj)
 <!-- BLOG-POST-LIST:END -->
 
 
