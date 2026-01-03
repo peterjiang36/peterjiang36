@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
-- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
-- [itertools Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/itertools-workbook-added-to-standard-library-learning-path-257h)
-- [Understanding YAML](https://dev.to/aniket_kuyate_15acc4e6587/understanding-yaml-45ck)
+- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
+- [How to Make AI Consolidate Code—Without Micromanagement](https://dev.to/synthaicode_commander/dry-first-refactoring-protocol-23k2)
+- [DevOps From Scratch: Entry #02](https://dev.to/maame-codes/devops-from-scratch-entry-02-525d)
+- [Self-hosting SvelteKit app - the easy way](https://dev.to/kvetoslavnovak/self-hosting-sveltekit-app-the-easy-way-2g1d)
 <!-- BLOG-POST-LIST:END -->
 
 
