@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Security Teams Can’t Scale Access Management Beyond 50 Employees - Here’s how to fix it](https://dev.to/mfakbar127/most-security-teams-cant-scale-access-management-beyond-50-employees-heres-how-to-fix-it-132d)
-- [The Invisible Hand](https://dev.to/rawveg/the-invisible-hand-4pdc)
-- [I built an open-source Android app that switches dark mode based on ambient light – Adaptive Theme](https://dev.to/xlexip/i-built-an-open-source-android-app-that-switches-dark-mode-based-on-ambient-light-adaptive-theme-2fd3)
-- [🎯_Microservices_Performance_Tuning_Practical[20260103114946]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260103114946-dd9)
+- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
+- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
+- [itertools Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/itertools-workbook-added-to-standard-library-learning-path-257h)
+- [Understanding YAML](https://dev.to/aniket_kuyate_15acc4e6587/understanding-yaml-45ck)
 <!-- BLOG-POST-LIST:END -->
 
 
