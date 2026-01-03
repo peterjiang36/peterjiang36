@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fulcrum 02 January, 2026](https://dev.to/reubenwalker64/the-fulcrum-02-january-2026-4flc)
-- [How I Built a Flutter + Gemini AI App to &quot;Hack&quot; My University Attendance &lpar;Open Source&rpar;](https://dev.to/inushathathsara/how-i-built-a-flutter-gemini-ai-app-to-hack-my-university-attendance-open-source-292i)
-- [Kth Largest Element in C++](https://dev.to/nithya_dharshiniofficial/kth-largest-element-in-c-2boa)
-- [I built an AI bestie for my Dad’s morning routine ⚡️☀️](https://dev.to/maryam_saba_792cdbcdb46fd/i-built-an-ai-bestie-for-my-dads-morning-routine-1d86)
+- [CoordConversions Demo](https://dev.to/smatthew/coordconversions-demo-2pl7)
+- [Introducing Tagnovate: Link-in-Bio with AI, Bookings &amp; NFC](https://dev.to/mayu2008/introducing-tagnovate-link-in-bio-with-ai-bookings-nfc-3l40)
+- [Kube-Proxy and CNI: The Backbone of Kubernetes Networking](https://dev.to/bharadwajshivam/kube-proxy-and-cni-the-backbone-of-kubernetes-networking-1pbk)
+- [I’ve systematized the Big Tech interview process into 4 phases and a single-page scorecard](https://dev.to/dmitrevnik/ive-systematized-the-big-tech-interview-process-into-4-phases-and-a-single-page-scorecard-1g0e)
 <!-- BLOG-POST-LIST:END -->
 
 
