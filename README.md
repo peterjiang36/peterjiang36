@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating AI into ABP.IO Applications: The Complete Guide to Volo.Abp.AI and AI Management Module](https://dev.to/adnanaldaim/integrating-ai-into-abpio-applications-the-complete-guide-to-voloabpai-and-ai-management-module-3o0k)
-- [NFT Community Hub - A Read-Only Safe Space for NFT Communities](https://dev.to/vishal590/nft-community-hub-a-read-only-safe-space-for-nft-communities-4m0c)
-- [Laravel + Vue &lpar;Inertia&rpar; + gRPC: building a simple BFF that talks to a gRPC User service](https://dev.to/blamsa0mine/laravel-vue-inertia-grpc-building-a-simple-bff-that-talks-to-a-grpc-user-service-3b21)
-- [Memento: Give Claude Code Persistent Memory So You Stop Repeating Yourself](https://dev.to/sean8/memento-give-claude-code-persistent-memory-so-you-stop-repeating-yourself-22je)
+- [I built a Docker vulnerability scanner - Beta testers wanted!!!](https://dev.to/jake_e115018d1995da2050f6/i-built-a-docker-vulnerability-scanner-beta-testers-wanted-1lm0)
+- [Why setTimeout Returns an Object in Node.js &lpar;and Why setInterval Can Break Your App&rpar;](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
+- [Why I Built a Marketplace for Vibe-Coded Apps](https://dev.to/imran_hassan_df9c98d874de/why-i-built-a-marketplace-for-vibe-coded-apps-3gho)
+- [New Year, New You Portfolio Challenge - Samarth Shendre](https://dev.to/samarth28/new-year-new-you-portfolio-challenge-samarth-shendre-a30)
 <!-- BLOG-POST-LIST:END -->
 
 
