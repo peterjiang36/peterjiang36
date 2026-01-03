@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
-- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/kunal__35bd2a194c4e65840/inside-git-how-it-works-and-the-role-of-the-git-folder-1ki1)
-- [The 5 DevOps Skills That Actually Matter in 2026](https://dev.to/inboryn_99399f96579fcd705/the-5-devops-skills-that-actually-matter-in-2026-5415)
+- [The Fulcrum 02 January, 2026](https://dev.to/reubenwalker64/the-fulcrum-02-january-2026-4flc)
+- [How I Built a Flutter + Gemini AI App to &quot;Hack&quot; My University Attendance &lpar;Open Source&rpar;](https://dev.to/inushathathsara/how-i-built-a-flutter-gemini-ai-app-to-hack-my-university-attendance-open-source-292i)
+- [Kth Largest Element in C++](https://dev.to/nithya_dharshiniofficial/kth-largest-element-in-c-2boa)
+- [I built an AI bestie for my Dad’s morning routine ⚡️☀️](https://dev.to/maryam_saba_792cdbcdb46fd/i-built-an-ai-bestie-for-my-dads-morning-routine-1d86)
 <!-- BLOG-POST-LIST:END -->
 
 
