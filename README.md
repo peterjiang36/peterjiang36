@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎬 Best Movies for Programmers: Films Every Developer Should Watch](https://dev.to/farhadrahimiklie/best-movies-for-programmers-films-every-developer-should-watch-56n7)
-- [Yasmin Bashirova: Redefining Human Rights Advocacy Beyond Legal Institutions](https://dev.to/yasminbas/yasmin-bashirova-redefining-human-rights-advocacy-beyond-legal-institutions-6ol)
-- [🔥 PHPS WORST DEBUG NIGHTMARE… DETHRONED! 🔥](https://dev.to/jeffsynister/phps-worst-debug-nightmare-dethroned-2pd9)
-- [We kept breaking cache invalidation in TanStack Query — so we stopped managing it manually](https://dev.to/ignasave/we-kept-breaking-cache-invalidation-in-tanstack-query-so-we-stopped-managing-it-manually-47k2)
+- [Uploaded a 120-page PDF instant AI chat. 
+If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
+- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
+- [Daily Tech News Roundup - 2026-01-03](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-03-316m)
+- [How GraphRAG Works](https://dev.to/nitheesh_gaddam_e36ec4aa4/how-graphrag-works-2d33)
 <!-- BLOG-POST-LIST:END -->
 
 
