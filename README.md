@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Kiro: Agentic Coding and the Rise of Spec-Driven AI Development](https://dev.to/aws-builders/aws-kiro-agentic-coding-and-the-rise-of-spec-driven-ai-development-41h)
-- [I have open-sourced a WebGL front-end for your terminal that emulates a CRT monitor](https://dev.to/remojansen/i-have-open-sourced-a-webgl-front-end-for-your-terminal-that-emulates-a-crt-monitor-2icd)
-- [Why Chatbots Are Dead in 2026 &lpar;And What&#39;s Replacing Them&rpar;](https://dev.to/steve_oak/why-chatbots-are-dead-in-2026-and-whats-replacing-them-4k5k)
-- [Building AI Agents on AWS in 2025: A Practitioner&#39;s Guide to Bedrock, AgentCore, and Beyond](https://dev.to/damogallagher/building-ai-agents-on-aws-in-2025-a-practitioners-guide-to-bedrock-agentcore-and-beyond-4efn)
+- [Malicious Chrome Extensions Steal AI Chats: How to Protect Your Conversations in 2026](https://dev.to/manupranay_adupa_c1dd6247/malicious-chrome-extensions-steal-ai-chats-how-to-protect-your-conversations-in-2026-2f6p)
+- [FHIR Integration: Build Modern Healthcare Apps Using Python and FastAPI](https://dev.to/wellallytech/fhir-integration-build-modern-healthcare-apps-using-python-and-fastapi-5cdf)
+- [Transform Your SDK Integration with Monetzly&#39;s Monetization Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-monetization-tools-1lgc)
+- [Instruction Tuning with GPT-4](https://dev.to/paperium/instruction-tuning-with-gpt-4-104e)
 <!-- BLOG-POST-LIST:END -->
 
 
