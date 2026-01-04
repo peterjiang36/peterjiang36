@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Secure Forgot Password Flow with OTP in Better Auth](https://dev.to/rogasper/how-to-build-a-secure-forgot-password-flow-with-otp-in-better-auth-4lek)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-4305)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260104074225]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260104074225-35l3)
-- [On-chain Shopping: Bridging Generative AI and XRPL for a Frictionless Retail Future](https://dev.to/yuhung/on-chain-shopping-bridging-generative-ai-and-xrpl-for-a-frictionless-retail-future-1ohd)
+- [🚧 nextjs and strapi CI/CD, Docker, and the Mystery of the Failing API: A Real-World Debugging Story](https://dev.to/robiulman/nextjs-and-strapi-cicd-docker-and-the-mystery-of-the-failing-api-a-real-world-debugging-story-59jp)
+- [Embedded Systems Programming &amp; IoT: Your Winning Card of System Development... Flip-Flop! 🃏🎭](https://dev.to/javadinteger/embedded-systems-programming-iot-your-winning-card-of-system-development-flip-flop-4dic)
+- [WTF is Relational Databases as a Service?](https://dev.to/dailybugle33/wtf-is-relational-databases-as-a-service-1jmj)
+- [🧠_Deep_Dive_Memory_Management_Performance[20260104084429]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104084429-49bi)
 <!-- BLOG-POST-LIST:END -->
 
 
