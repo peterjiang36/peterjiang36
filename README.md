@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/stevenwleung/the-myth-of-just-connect-lambda-to-rds-4n82)
-- [The Right To Vanish](https://dev.to/rawveg/the-right-to-vanish-5d62)
-- [♊Source Persona: AI Twin](https://dev.to/vero-code/source-persona-ai-twin-md9)
-- [When does std::shared_mutex beat std::mutex? Google Benchmark shows a crossover: mutex wins at low threads, shared_mutex scales under reader contention https://techfortalk.co.uk/2026/01/03/when-stdshared_mutex-outperforms-stdmutex-a-google-benchmark-study/](https://dev.to/vivekbhadra/when-does-stdsharedmutex-beat-stdmutex-google-benchmark-shows-a-crossover-mutex-wins-at-low-37b4)
+- [1390. Four Divisors](https://dev.to/mdarifulhaque/1390-four-divisors-525l)
+- [AI-Powered DevOps: 7 Tools Transforming Pipelines in 2026](https://dev.to/meena_nukala/ai-powered-devops-7-tools-transforming-pipelines-in-2026-32cb)
+- [The basics of managing the database schema changes](https://dev.to/tanin47/managing-the-database-schema-changes-for-your-app-14dn)
+- [Lightsaber Dueling Safety: My Ultimate Guide for Fans and Fighters](https://dev.to/lucasvaren/lightsaber-dueling-safety-my-ultimate-guide-for-fans-and-fighters-143k)
 <!-- BLOG-POST-LIST:END -->
 
 
