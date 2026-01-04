@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [$20 Billion Christmas Present: Why NVIDIA Acquired Groq to Crush the &quot;Inference&quot; Rebellion](https://dev.to/karentam_1225/20-billion-christmas-present-why-nvidia-acquired-groq-to-crush-the-inference-rebellion-24pj)
-- [From 3+ Days to 3.8 Hours: Scaling a .NET CSV Importer for SQL Server](https://dev.to/__2131e9e/from-3-days-to-38-hours-scaling-a-net-csv-importer-for-sql-server-ge1)
-- [**5 Advanced Java IDE Techniques That Will Transform Your Development Productivity and Workflow**](https://dev.to/nithinbharathwaj/5-advanced-java-ide-techniques-that-will-transform-your-development-productivity-and-workflow-16p5)
-- [Building a Secure, Serverless Multi-Tenant RAG Chatbot with Amazon Bedrock and Lambda](https://dev.to/aws-builders/building-a-secure-serverless-multi-tenant-rag-chatbot-with-amazon-bedrock-and-lambda-3ip1)
+- [How I Use AI to Solve OAuth &lpar;Without Losing My Mind&rpar;](https://dev.to/cathylai/how-i-use-ai-to-solve-oauth-without-losing-my-mind-3aj7)
+- [What Should You Learn First: Web Development, DevOps, or Web3?](https://dev.to/aryancode27/what-should-you-learn-first-web-development-devops-or-web3-12o7)
+- [AWS Compute Optimizer](https://dev.to/barbara_gaspar/aws-compute-optimizer-1e6l)
+- [Jucie - Stop Mocking, Start Making](https://dev.to/adrianjonmiller/jucie-stop-mocking-start-making-3o4o)
 <!-- BLOG-POST-LIST:END -->
 
 
