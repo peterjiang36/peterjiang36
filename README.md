@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing the AWS Machine Learning Engineer – Associate Exam &lpar;My Experience &amp; Tips&rpar;](https://dev.to/thukhakyawe_cloud/passing-the-aws-machine-learning-engineer-associate-exam-my-experience-tips-410l)
-- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
-- [Designing a Secure AWS Landing Zone with Control Tower &lpar;What Most Blogs Don’t Tell You&rpar;](https://dev.to/amaan-igs/designing-a-secure-aws-landing-zone-with-control-tower-what-most-blogs-dont-tell-you-20oh)
-- [Beyond the Linear CV](https://dev.to/pascal_cescato_692b7a8a20/beyond-the-linear-cv-3fik)
+- [The Myth of ‘Just Connect Lambda to RDS’](https://dev.to/stevenwleung/the-myth-of-just-connect-lambda-to-rds-4n82)
+- [The Right To Vanish](https://dev.to/rawveg/the-right-to-vanish-5d62)
+- [♊Source Persona: AI Twin](https://dev.to/vero-code/source-persona-ai-twin-md9)
+- [When does std::shared_mutex beat std::mutex? Google Benchmark shows a crossover: mutex wins at low threads, shared_mutex scales under reader contention https://techfortalk.co.uk/2026/01/03/when-stdshared_mutex-outperforms-stdmutex-a-google-benchmark-study/](https://dev.to/vivekbhadra/when-does-stdsharedmutex-beat-stdmutex-google-benchmark-shows-a-crossover-mutex-wins-at-low-37b4)
 <!-- BLOG-POST-LIST:END -->
 
 
