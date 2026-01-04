@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company](https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1)
-- [I built a passwordless access system for cases where identity is unnecessary](https://dev.to/antonmb/i-built-a-passwordless-access-system-for-cases-where-identity-is-unnecessary-1kk3)
-- [🧠_Deep_Dive_Memory_Management_Performance[20260104043812]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104043812-1oeg)
-- [Why Edge AI Research Needs Field Validation: Lessons from Replicating MIT CSAIL](https://dev.to/shalinibhavi525sudo/why-edge-ai-research-needs-field-validation-lessons-from-replicating-mit-csail-2d4d)
+- [ReliefLine](https://dev.to/ctrlvee/reliefline-4fch)
+- [Is the World Ready for Another Programming Language in 2026, Now That AI Writes Code?](https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260104060344]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260104060344-3l4d)
+- [Fine-tuning &amp; Model Optimization: Key Trends &amp; Insights](https://dev.to/hkj13/fine-tuning-model-optimization-key-trends-insights-kh)
 <!-- BLOG-POST-LIST:END -->
 
 
