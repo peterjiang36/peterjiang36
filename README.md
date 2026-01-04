@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling API Access with Azure API Management: From Manual to Self-Service](https://dev.to/anoushnet/scaling-api-access-with-azure-api-management-from-manual-to-self-service-3299)
-- [AI Agents: Mastering 3 Essential Patterns &lpar;ReAct&rpar;. Part 2 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-react-part-2-of-3-1b1d)
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;ReAct&rpar;. Parte 2 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-react-parte-2-de-3-1mdb)
-- [📈_Scalability_Architecture_Design[20260104212955]](https://dev.to/member_8659c28a/scalabilityarchitecturedesign20260104212955-2e7e)
+- [An Honest Review of Google Antigravity](https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f)
+- [pg-status - a lightweight microservice for checking PostgreSQL host status](https://dev.to/krylosov-aa/pg-status-a-lightweight-microservice-for-checking-postgresql-host-status-32jd)
+- [kubernetes project #1](https://dev.to/jumptotech/kubernetes-project-1-1hg7)
+- [🔒_Security_Performance_Balance[20260104223626]](https://dev.to/member_8659c28a/securityperformancebalance20260104223626-6ne)
 <!-- BLOG-POST-LIST:END -->
 
 
