@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a File Tree for Vim](https://dev.to/m__mdy__m/i-built-a-file-tree-for-vim-f21)
-- [Bringing PostgreSQL Triggers&lpar;pg_sql_triggers&rpar; into the Rails Era](https://dev.to/sam_aswin_e9f19b034b1e145/bringing-postgresql-triggerspgsqltriggers-into-the-rails-era-41aa)
-- [Linux Security Habit #14: I Snapshot Network State Before I Even Look at Logs](https://dev.to/cyberwebpen/linux-security-habit-14-i-snapshot-network-state-before-i-even-look-at-logs-3nce)
-- [Calculadora de precios de AWS](https://dev.to/barbara_gaspar/calculadora-de-precios-de-aws-5d79)
+- [36. Valid Sudoku | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/36-valid-sudoku-leetcode-top-interview-150-coding-questions-4bj9)
+- [We Built an Open Source Alternative to Laravel Forge - Here&#39;s Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2)
+- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
+- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
 <!-- BLOG-POST-LIST:END -->
 
 
