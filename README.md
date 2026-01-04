@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudWatch Investigations: Your AI-Powered Troubleshooting Sidekick](https://dev.to/aws-builders/cloudwatch-investigations-your-ai-powered-troubleshooting-sidekick-1p8j)
-- [SnapFrame: Transform Text Into Stunning Visual Content in &lt; 30s](https://dev.to/divyasinghdev/snapframe-transform-text-into-stunning-visual-content-in-30s-55k2)
-- [The Zero-Touch CRM: How to Automate Your Pipeline with Google Drive.](https://dev.to/scannyai/the-zero-touch-crm-how-to-automate-your-pipeline-with-google-drive-202o)
-- [Writing Docs in a World Where LLMs Are the Readers](https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a)
+- [Ben Webb - Sydney - project Management](https://dev.to/ben_webb_projectmanager/ben-webb-sydney-project-management-1061)
+- [DevOps Unleashed: Your Thrilling Journey from Code Chaos to Deployment Nirvana](https://dev.to/meena_nukala/devops-unleashed-your-thrilling-journey-from-code-chaos-to-deployment-nirvana-144h)
+- [Mastering Text Manipulation: A Developer&#39;s Guide to Regex, Grep, Sed, and Awk](https://dev.to/kurdistan_linux_lab/mastering-text-manipulation-a-developers-guide-to-regex-grep-sed-and-awk-135g)
+- [Communication-Efficient On-Device Machine Learning: Federated Distillation andAugmentation under Non-IID Private Data](https://dev.to/paperium/communication-efficient-on-device-machine-learning-federated-distillation-andaugmentation-under-1h6k)
 <!-- BLOG-POST-LIST:END -->
 
 
