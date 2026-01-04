@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
-- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
-- [BinaryNet: Training Deep Neural Networks with Weights and ActivationsConstrained to +1 or -1](https://dev.to/paperium/binarynet-training-deep-neural-networks-with-weights-and-activationsconstrained-to-1-or-1-1d03)
-- [The Fe Experiment](https://dev.to/frank_vega_987689489099bf/the-fe-experiment-41i9)
+- [I Built a File Tree for Vim](https://dev.to/m__mdy__m/i-built-a-file-tree-for-vim-f21)
+- [Bringing PostgreSQL Triggers&lpar;pg_sql_triggers&rpar; into the Rails Era](https://dev.to/sam_aswin_e9f19b034b1e145/bringing-postgresql-triggerspgsqltriggers-into-the-rails-era-41aa)
+- [Linux Security Habit #14: I Snapshot Network State Before I Even Look at Logs](https://dev.to/cyberwebpen/linux-security-habit-14-i-snapshot-network-state-before-i-even-look-at-logs-3nce)
+- [Calculadora de precios de AWS](https://dev.to/barbara_gaspar/calculadora-de-precios-de-aws-5d79)
 <!-- BLOG-POST-LIST:END -->
 
 
