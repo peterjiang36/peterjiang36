@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Arrays Start at Index 0: A Memory-Level Explanation](https://dev.to/amanprasad/why-arrays-start-at-index-0-a-memory-level-explanation-393p)
-- [Human-in-the-Loop: When AI Agents Should Stop and Ask](https://dev.to/gantz/human-in-the-loop-when-ai-agents-should-stop-and-ask-30gc)
-- [[Boost]](https://dev.to/maryam_ayesha8800_3fa2cad/exploring-how-technology-and-strategic-thinking-come-together-in-real-world-projects-can-be-bik)
-- [Neural Networks: Zero to Hero](https://dev.to/technoblogger14o3/neural-networks-zero-to-hero-4edi)
+- [$20 Billion Christmas Present: Why NVIDIA Acquired Groq to Crush the &quot;Inference&quot; Rebellion](https://dev.to/karentam_1225/20-billion-christmas-present-why-nvidia-acquired-groq-to-crush-the-inference-rebellion-24pj)
+- [From 3+ Days to 3.8 Hours: Scaling a .NET CSV Importer for SQL Server](https://dev.to/__2131e9e/from-3-days-to-38-hours-scaling-a-net-csv-importer-for-sql-server-ge1)
+- [**5 Advanced Java IDE Techniques That Will Transform Your Development Productivity and Workflow**](https://dev.to/nithinbharathwaj/5-advanced-java-ide-techniques-that-will-transform-your-development-productivity-and-workflow-16p5)
+- [Building a Secure, Serverless Multi-Tenant RAG Chatbot with Amazon Bedrock and Lambda](https://dev.to/aws-builders/building-a-secure-serverless-multi-tenant-rag-chatbot-with-amazon-bedrock-and-lambda-3ip1)
 <!-- BLOG-POST-LIST:END -->
 
 
