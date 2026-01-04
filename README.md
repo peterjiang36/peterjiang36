@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [36. Valid Sudoku | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/36-valid-sudoku-leetcode-top-interview-150-coding-questions-4bj9)
-- [We Built an Open Source Alternative to Laravel Forge - Here&#39;s Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2)
-- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
-- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
+- [I made a python package to store AI generated images along with their context &lpar;prompt, model info, etc&rpar;](https://dev.to/anuroopvj/i-made-a-python-package-to-store-ai-generated-images-along-with-their-context-prompt-model-info-16p6)
+- [LLMs Don’t Have a Security Layer — So I Built One](https://dev.to/matheusdelgado/llms-dont-have-a-security-layer-so-i-built-one-2gf1)
+- [Cloud and you](https://dev.to/vishthakkar/cloud-and-you-5df9)
+- [I Built a Tiny State Management Library in TypeScript atostate](https://dev.to/mahmoudshahin1111/i-built-a-tiny-state-management-library-in-typescript-atostate-hip)
 <!-- BLOG-POST-LIST:END -->
 
 
