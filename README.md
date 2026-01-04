@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-First Data Exploration Tool with DuckDB](https://dev.to/whtsht/building-a-local-first-data-exploration-tool-with-duckdb-3jh0)
-- [Develop a LLM Chatbot Using Streamlit+Bedrock+Langchain](https://dev.to/aws-builders/develop-a-llm-chatbot-using-streamlitbedrocklangchain-1hlc)
-- [No More Messy Code: How to Master HTML, CSS, and JS Linting in VS Code Like a Pro](https://dev.to/gerryleonugroho/no-more-messy-code-how-to-master-html-css-and-js-linting-in-vs-code-like-a-pro-1nim)
-- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
+- [How to Build a Secure Forgot Password Flow with OTP in Better Auth](https://dev.to/rogasper/how-to-build-a-secure-forgot-password-flow-with-otp-in-better-auth-4lek)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-4305)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260104074225]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260104074225-35l3)
+- [On-chain Shopping: Bridging Generative AI and XRPL for a Frictionless Retail Future](https://dev.to/yuhung/on-chain-shopping-bridging-generative-ai-and-xrpl-for-a-frictionless-retail-future-1ohd)
 <!-- BLOG-POST-LIST:END -->
 
 
