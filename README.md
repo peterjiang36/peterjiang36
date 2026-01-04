@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use AI to Solve OAuth &lpar;Without Losing My Mind&rpar;](https://dev.to/cathylai/how-i-use-ai-to-solve-oauth-without-losing-my-mind-3aj7)
-- [What Should You Learn First: Web Development, DevOps, or Web3?](https://dev.to/aryancode27/what-should-you-learn-first-web-development-devops-or-web3-12o7)
-- [AWS Compute Optimizer](https://dev.to/barbara_gaspar/aws-compute-optimizer-1e6l)
-- [Jucie - Stop Mocking, Start Making](https://dev.to/adrianjonmiller/jucie-stop-mocking-start-making-3o4o)
+- [Handling Nested PHP Arrays Using DataBlock](https://dev.to/robertobutti/handling-nested-php-arrays-using-datablock-26d7)
+- [Healthcare analytics brief summary.](https://dev.to/wangare_/healthcare-analytics-brief-summary-2ji7)
+- [Kiro: Instant Finance &amp; Expense Tracking](https://dev.to/shreya111111/kiro-instant-finance-expense-tracking-1ldf)
+- [Create Natural Voiceovers &amp; Audiobooks in Minutes: AI Text-to-Speech Made Easy, No Setup Needed](https://dev.to/satendra_kaushik_74304936/convert-text-to-speech-instantly-free-ai-text-to-audio-converter-tool-5c85)
 <!-- BLOG-POST-LIST:END -->
 
 
