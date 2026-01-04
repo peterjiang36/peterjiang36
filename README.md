@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a python package to store AI generated images along with their context &lpar;prompt, model info, etc&rpar;](https://dev.to/anuroopvj/i-made-a-python-package-to-store-ai-generated-images-along-with-their-context-prompt-model-info-16p6)
-- [LLMs Don’t Have a Security Layer — So I Built One](https://dev.to/matheusdelgado/llms-dont-have-a-security-layer-so-i-built-one-2gf1)
-- [Cloud and you](https://dev.to/vishthakkar/cloud-and-you-5df9)
-- [I Built a Tiny State Management Library in TypeScript atostate](https://dev.to/mahmoudshahin1111/i-built-a-tiny-state-management-library-in-typescript-atostate-hip)
+- [GitHub SEO: 5 lessons learned to promote your project](https://dev.to/nakora/github-seo-5-lessons-learned-to-promote-your-project-5g5d)
+- [I analyzed 6,000+ n8n Workflows. Here are the top 3 mistakes that break automations.](https://dev.to/iloven8n/i-analyzed-6000-n8n-workflows-here-are-the-top-3-mistakes-that-break-automations-1leo)
+- [🍀 Beginner-Friendly Guide &#39;Four Divisors&#39; – LeetCode 1390 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-four-divisors-leetcode-1390-c-python-javascript-56cf)
+- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-c9c)
 <!-- BLOG-POST-LIST:END -->
 
 
