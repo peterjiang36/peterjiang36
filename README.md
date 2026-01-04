@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Digital Life Actually Secure? Test Your Safety IQ in 60 Seconds](https://dev.to/techno_kraft_in/is-your-digital-life-actually-secure-test-your-safety-iq-in-60-seconds-153a)
-- [types Module Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0)
-- [The Magic Behind “Login with Google”: How OAuth 2.0 Actually Works](https://dev.to/toklas495/the-magic-behind-login-with-google-how-oauth-20-actually-works-3kll)
-- [Build a Flutter Live Streaming App Using ZEGOCLOUD &lpar;Like Chat &amp; Video Call Apps&rpar;](https://dev.to/hazem_hamdy_9fb/build-a-flutter-live-streaming-app-using-zegocloud-like-chat-video-call-apps-4iek)
+- [Anthropic: From Pandemic-Era Safety Concerns to a $350B AI Company](https://dev.to/thevenice/anthropic-from-pandemic-era-safety-concerns-to-a-350b-ai-company-5be1)
+- [I built a passwordless access system for cases where identity is unnecessary](https://dev.to/antonmb/i-built-a-passwordless-access-system-for-cases-where-identity-is-unnecessary-1kk3)
+- [🧠_Deep_Dive_Memory_Management_Performance[20260104043812]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20260104043812-1oeg)
+- [Why Edge AI Research Needs Field Validation: Lessons from Replicating MIT CSAIL](https://dev.to/shalinibhavi525sudo/why-edge-ai-research-needs-field-validation-lessons-from-replicating-mit-csail-2d4d)
 <!-- BLOG-POST-LIST:END -->
 
 
