@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub SEO: 5 lessons learned to promote your project](https://dev.to/nakora/github-seo-5-lessons-learned-to-promote-your-project-5g5d)
-- [I analyzed 6,000+ n8n Workflows. Here are the top 3 mistakes that break automations.](https://dev.to/iloven8n/i-analyzed-6000-n8n-workflows-here-are-the-top-3-mistakes-that-break-automations-1leo)
-- [🍀 Beginner-Friendly Guide &#39;Four Divisors&#39; – LeetCode 1390 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-four-divisors-leetcode-1390-c-python-javascript-56cf)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-c9c)
+- [Is Your Digital Life Actually Secure? Test Your Safety IQ in 60 Seconds](https://dev.to/techno_kraft_in/is-your-digital-life-actually-secure-test-your-safety-iq-in-60-seconds-153a)
+- [types Module Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0)
+- [The Magic Behind “Login with Google”: How OAuth 2.0 Actually Works](https://dev.to/toklas495/the-magic-behind-login-with-google-how-oauth-20-actually-works-3kll)
+- [Build a Flutter Live Streaming App Using ZEGOCLOUD &lpar;Like Chat &amp; Video Call Apps&rpar;](https://dev.to/hazem_hamdy_9fb/build-a-flutter-live-streaming-app-using-zegocloud-like-chat-video-call-apps-4iek)
 <!-- BLOG-POST-LIST:END -->
 
 
