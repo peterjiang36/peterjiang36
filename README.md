@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Four Sketches and a Rewire: The Path to Droid Brains](https://dev.to/sigje/four-sketches-and-a-rewire-the-path-to-droid-brains-5e7e)
-- [Why Familiarity Isn’t Understanding](https://dev.to/memory_rush_5bb9305e1ab6d/why-familiarity-isnt-understanding-4dmf)
-- [How to Use JWT Authentication in Spring Boot &lpar;Java 21&rpar; — An End-to-End Beginner Guide](https://dev.to/realnamehidden1_61/how-to-use-jwt-authentication-in-spring-boot-java-21-an-end-to-end-beginner-guide-3pc4)
-- [Why Your Salesforce Triggers Are Slower Than They Should Be: A Performance Debugging Guide](https://dev.to/sathishvk/why-your-salesforce-triggers-are-slower-than-they-should-be-a-performance-debugging-guide-117m)
+- [Mobile App Dev Costs: The Top 10 Market Movers in 2026](https://dev.to/mabualzait/mobile-app-dev-costs-the-top-10-market-movers-in-2026-14jc)
+- [Music Monday &lpar;Happy New Year!!! 🥳&rpar;](https://dev.to/musicforem/music-monday-happy-new-year--1mmh)
+- [My 2025 in Review—And My Most Read Posts](https://dev.to/canro91/my-2025-in-review-and-my-most-read-posts-4j9o)
+- [Kubernetes &amp; EKS Deep Dive: From Zero to Production](https://dev.to/datatechbridge/kubernetes-eks-deep-dive-from-zero-to-production-33km)
 <!-- BLOG-POST-LIST:END -->
 
 
