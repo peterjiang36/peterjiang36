@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Dev Costs: The Top 10 Market Movers in 2026](https://dev.to/mabualzait/mobile-app-dev-costs-the-top-10-market-movers-in-2026-14jc)
-- [Music Monday &lpar;Happy New Year!!! 🥳&rpar;](https://dev.to/musicforem/music-monday-happy-new-year--1mmh)
-- [My 2025 in Review—And My Most Read Posts](https://dev.to/canro91/my-2025-in-review-and-my-most-read-posts-4j9o)
-- [Kubernetes &amp; EKS Deep Dive: From Zero to Production](https://dev.to/datatechbridge/kubernetes-eks-deep-dive-from-zero-to-production-33km)
+- [Why Complex Visualizations Need Algorithms: Analyzing Grafana Forks&#39; Dependencies](https://dev.to/ruiwen_zeng_ea2f69399242a/why-complex-visualizations-need-algorithms-analyzing-grafana-forks-dependencies-67f)
+- [Unlocking Uniswap V4: Hooks as the Foundation for Next-Level DeFi](https://dev.to/codebyankita/unlocking-uniswap-v4-hooks-as-the-foundation-for-next-level-defi-61o)
+- [myUpchar Coupon Code “ARCHANA5” — Get 10% OFF on All Health &amp; Wellness Products!](https://dev.to/referralcode90/myupchar-coupon-code-archana5-get-10-off-on-all-health-wellness-products-1mad)
+- [Building an Autonomous ClinicalOps Watchdog: My Experiment in Automating Clinical Trial Monitoring](https://dev.to/exploredataaiml/building-an-autonomous-clinicalops-watchdog-my-experiment-in-automating-clinical-trial-monitoring-3kj6)
 <!-- BLOG-POST-LIST:END -->
 
 
