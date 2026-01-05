@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How 2025 took AI from party tricks to production tools](https://dev.to/teamquesma/how-2025-took-ai-from-party-tricks-to-production-tools-4l7b)
-- [Bad CSS-Dad Jokes &lpar;VI&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-vi-9gl)
-- [From Python to Physics: How I Built a Chrome Dino Clone in 24 Hours &lpar;Scaler YIIC Task 5&rpar;](https://dev.to/aditya_mishra/from-python-to-physics-how-i-built-a-chrome-dino-clone-in-24-hours-scaler-yiic-task-5-47c5)
-- [Why E-commerce Website Design Is Essential for Modern Business Growth](https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38)
+- [Opus 4.5 may have faked there interview to get hired?](https://dev.to/simbo1905/opus-45-may-have-faked-there-interview-to-get-hired-18mf)
+- [Why is SpringBatch a poor design?](https://dev.to/canonical/why-is-springbatch-a-poor-design-2bc)
+- [The Rise of AI-Powered Development Integrations: A 2026 Outlook](https://dev.to/devactivity/the-rise-of-ai-powered-development-integrations-a-2026-outlook-5603)
+- [📊 2026-01-05 - Daily Intelligence Recap - Top 9 Signals](https://dev.to/jose_marquez_alberti/2026-01-05-daily-intelligence-recap-top-9-signals-1an4)
 <!-- BLOG-POST-LIST:END -->
 
 
