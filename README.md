@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Opus 4.5 may have faked there interview to get hired?](https://dev.to/simbo1905/opus-45-may-have-faked-there-interview-to-get-hired-18mf)
-- [Why is SpringBatch a poor design?](https://dev.to/canonical/why-is-springbatch-a-poor-design-2bc)
-- [The Rise of AI-Powered Development Integrations: A 2026 Outlook](https://dev.to/devactivity/the-rise-of-ai-powered-development-integrations-a-2026-outlook-5603)
-- [📊 2026-01-05 - Daily Intelligence Recap - Top 9 Signals](https://dev.to/jose_marquez_alberti/2026-01-05-daily-intelligence-recap-top-9-signals-1an4)
+- [Beyond Basic Prompts: Elevating Your LLM Game](https://dev.to/ben-santora/beyond-basic-prompts-elevating-your-llm-game-1kli)
+- [Sanity Checks](https://dev.to/lardcanoe/sanity-checks-ci0)
+- [Supercharge Your Node.js Application with Hedge-Fetch: Eliminating Tail Latency with Speculative Execution](https://dev.to/silentwatcher_95/supercharge-your-nodejs-application-with-hedge-fetch-eliminating-tail-latency-with-speculative-37d5)
+- [Translating a Complex Object Detection Model for Sales Teams: An AI Documentation Case Study](https://dev.to/spiff/translating-a-complex-object-detection-model-for-sales-teams-an-ai-documentation-case-study-46ao)
 <!-- BLOG-POST-LIST:END -->
 
 
