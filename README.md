@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time Chatroom with WebSocket and Go 🚀](https://dev.to/jones_charles_ad50858dbc0/build-a-real-time-chatroom-with-websocket-and-go-1g2i)
-- [Desvendando os Micro-frontends: Escalando o Desenvolvimento Web com Agilidade](https://dev.to/iamthiago/desvendando-os-micro-frontends-escalando-o-desenvolvimento-web-com-agilidade-19b0)
-- [Running Form Tech: Improve Your Gait With This DIY AI Analysis](https://dev.to/wellallytech/running-form-tech-improve-your-gait-with-this-diy-ai-analysis-1epa)
-- [Blog Cover Generator - AI-Powered Cover Images in Seconds](https://dev.to/ifihan/blog-cover-generator-ai-powered-cover-images-in-seconds-519p)
+- [A beginner&#39;s guide to the Omnigen2 model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-omnigen2-model-by-lucataco-on-replicate-5c5o)
+- [A beginner&#39;s guide to the Qwen-Image model by Qwen on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-model-by-qwen-on-replicate-4236)
+- [A beginner&#39;s guide to the Dreamtalk model by Cjwbw on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-dreamtalk-model-by-cjwbw-on-replicate-16)
+- [A beginner&#39;s guide to the Parakeet-Rnnt-1.1b model by Nvidia on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-parakeet-rnnt-11b-model-by-nvidia-on-replicate-31i0)
 <!-- BLOG-POST-LIST:END -->
 
 
