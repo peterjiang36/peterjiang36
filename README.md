@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Starter Content and Selection Mode in Unreal Engine &lpar;Day 10&rpar;](https://dev.to/dinesh_04/understanding-starter-content-and-selection-mode-in-unreal-engine-day-10-44n2)
-- [Tools of the Trade](https://dev.to/richardpascoe/tools-of-the-trade-373p)
-- [How I built a Serverless Stack Overflow alternative with AI &lpar;SvelteKit + Cloudflare&rpar;](https://dev.to/mobin_poursalami_f30352a2/how-i-built-a-serverless-stack-overflow-alternative-with-ai-sveltekit-cloudflare-3i9p)
-- [Building Production-Ready RAG in FastAPI with Vector Databases](https://dev.to/hamluk/building-production-ready-rag-in-fastapi-with-vector-databases-39gf)
+- [How I Built My Own Python Full Stack Interview Prep Resources &lpar;And You Can Use Them FREE!&rpar;](https://dev.to/thiyagu26v/how-i-built-my-own-python-full-stack-interview-prep-resources-and-you-can-use-them-free-412a)
+- [Kun-Kay Discount Code : &lpar;AKV&rpar; Get 10% Off On Your Purchase](https://dev.to/referralcode90/kun-kay-discount-code-akv-get-10-off-on-your-purchase-31mb)
+- [Pilate Studio for Modern Strength: Where Precision Meets Mindful Movement](https://dev.to/eternal_wellness_4cb60539/pilate-studio-for-modern-strength-where-precision-meets-mindful-movement-59bc)
+- [Chrome DevTools MCP](https://dev.to/ismailpe/chrome-devtools-mcp-3a5c)
 <!-- BLOG-POST-LIST:END -->
 
 
