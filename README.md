@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Flux-Dev-Controlnet model by Xlabs-Ai on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-dev-controlnet-model-by-xlabs-ai-on-replicate-3528)
-- [A beginner&#39;s guide to the Llama-3-Vision-Alpha model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-llama-3-vision-alpha-model-by-lucataco-on-replicate-4fj1)
-- [A beginner&#39;s guide to the Lip-Reading-Ai-Vsr model by Basord on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-lip-reading-ai-vsr-model-by-basord-on-replicate-1ihe)
-- [A beginner&#39;s guide to the Rembg-Video model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-rembg-video-model-by-lucataco-on-replicate-3f3g)
+- [Four Sketches and a Rewire: The Path to Droid Brains](https://dev.to/sigje/four-sketches-and-a-rewire-the-path-to-droid-brains-5e7e)
+- [Why Familiarity Isn’t Understanding](https://dev.to/memory_rush_5bb9305e1ab6d/why-familiarity-isnt-understanding-4dmf)
+- [How to Use JWT Authentication in Spring Boot &lpar;Java 21&rpar; — An End-to-End Beginner Guide](https://dev.to/realnamehidden1_61/how-to-use-jwt-authentication-in-spring-boot-java-21-an-end-to-end-beginner-guide-3pc4)
+- [Why Your Salesforce Triggers Are Slower Than They Should Be: A Performance Debugging Guide](https://dev.to/sathishvk/why-your-salesforce-triggers-are-slower-than-they-should-be-a-performance-debugging-guide-117m)
 <!-- BLOG-POST-LIST:END -->
 
 
