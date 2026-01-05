@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building an AI-Powered Jest Test Case Generator for TypeScript](https://dev.to/srinidhianand/building-an-ai-powered-jest-test-case-generator-for-typescript-251m)
-- [Semantic Cache: Como Otimizar Aplicações RAG com Cache Semântico](https://dev.to/asouza/semantic-cache-como-otimizar-aplicacoes-rag-com-cache-semantico-4k84)
-- [Sector HQ Weekly Digest - January 5, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-5-2026-3pk1)
-- [Unleashing the Power of Arrow Functions in JavaScript](https://dev.to/vjnvisakh/unleashing-the-power-of-arrow-functions-in-javascript-1o2b)
+- [Vibe Factory: Insanity, Scaled](https://dev.to/niclasolofsson/vibe-factory-insanity-scaled-2ljj)
+- [Zigbee Netzwerk instabil? 4 Profi-Tipps gegen &quot;Offline&quot;-Geräte &amp; Interferenzen](https://dev.to/tim_alex_ba4bc28e6bdfc168/zigbee-netzwerk-instabil-4-profi-tipps-gegen-offline-gerate-interferenzen-57fn)
+- [I Built My First WooCommerce Website — Here’s Everything I Did Wrong](https://dev.to/sarahwilliams/i-built-my-first-woocommerce-website-heres-everything-i-did-wrong-9pn)
+- [What S&amp;P Indices Mean for Crypto Traders: Beyond Price Charts](https://dev.to/tanelith/what-sp-indices-mean-for-crypto-traders-beyond-price-charts-10b)
 <!-- BLOG-POST-LIST:END -->
 
 
