@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Machine Will Feed You Now](https://dev.to/rawveg/the-machine-will-feed-you-now-2dfp)
-- [Building a Simple Digital Marketing Strategy for 2026 &lpar;That You Can Actually Execute&rpar;](https://dev.to/panchalmukundak/building-a-simple-digital-marketing-strategy-for-2026-that-you-can-actually-execute-44mh)
-- [Home Assistant langsam? So rettest du deine SD-Karte &amp; machst das Dashboard wieder schnell](https://dev.to/tim_alex_ba4bc28e6bdfc168/home-assistant-langsam-so-rettest-du-deine-sd-karte-machst-das-dashboard-wieder-schnell-2hfn)
-- [Architecture in IT: It’s a Verb, Not a Job Title](https://dev.to/leonpennings/architecture-in-it-its-a-verb-not-a-job-title-43fa)
+- [How 2025 took AI from party tricks to production tools](https://dev.to/teamquesma/how-2025-took-ai-from-party-tricks-to-production-tools-4l7b)
+- [Bad CSS-Dad Jokes &lpar;VI&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-vi-9gl)
+- [From Python to Physics: How I Built a Chrome Dino Clone in 24 Hours &lpar;Scaler YIIC Task 5&rpar;](https://dev.to/aditya_mishra/from-python-to-physics-how-i-built-a-chrome-dino-clone-in-24-hours-scaler-yiic-task-5-47c5)
+- [Why E-commerce Website Design Is Essential for Modern Business Growth](https://dev.to/priya_dharshini_b30d11c20/why-e-commerce-website-design-is-essential-for-modern-business-growth-3k38)
 <!-- BLOG-POST-LIST:END -->
 
 
