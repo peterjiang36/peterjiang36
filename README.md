@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Total Cost of Running Agentic AI on AWS: A Financial Breakdown](https://dev.to/dineshelumalai/the-total-cost-of-running-agentic-ai-on-aws-a-financial-breakdown-1ofc)
-- [FSMS and HACCP: Systems, Principles, and Performance](https://dev.to/joy1/fsms-and-haccp-systems-principles-and-performance-27pc)
-- [Lightning-Fast In-App Debugging with React Native BugBubble](https://dev.to/ajmal_hasan/lightning-fast-in-app-debugging-with-react-native-bugbubble-5bao)
-- [Build the tool. We’ll run the business.](https://dev.to/codeatoms/build-the-tool-well-run-the-business-pl2)
+- [Understanding Starter Content and Selection Mode in Unreal Engine &lpar;Day 10&rpar;](https://dev.to/dinesh_04/understanding-starter-content-and-selection-mode-in-unreal-engine-day-10-44n2)
+- [Tools of the Trade](https://dev.to/richardpascoe/tools-of-the-trade-373p)
+- [How I built a Serverless Stack Overflow alternative with AI &lpar;SvelteKit + Cloudflare&rpar;](https://dev.to/mobin_poursalami_f30352a2/how-i-built-a-serverless-stack-overflow-alternative-with-ai-sveltekit-cloudflare-3i9p)
+- [Building Production-Ready RAG in FastAPI with Vector Databases](https://dev.to/hamluk/building-production-ready-rag-in-fastapi-with-vector-databases-39gf)
 <!-- BLOG-POST-LIST:END -->
 
 
