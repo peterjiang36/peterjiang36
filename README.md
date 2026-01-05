@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Production AI Systems Through Karpathy&#39;s &#39;Magnitude 9 Earthquake.&#39; Here&#39;s What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3)
-- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o)
-- [WebP in 2026: Why Frontend Devs Should Care Again](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2026-why-frontend-devs-should-care-again-1l44)
-- [Asynchronous in JavaScript](https://dev.to/silambarasan_a_bd1d4d0a29/asynchronous-in-javascript-gkj)
+- [SwiftUI Memory Management &amp; Retain Cycle Pitfalls &lpar;Production Guide&rpar;](https://dev.to/sebastienlato/swiftui-memory-management-retain-cycle-pitfalls-production-guide-2kii)
+- [Linux Kernel Basics: User Space vs. Kernel Space, System Calls, strace &lpar;debugging processes&rpar;.](https://dev.to/sbkumbar024/linux-kernel-basics-user-space-vs-kernel-space-system-calls-strace-debugging-processes-39f1)
+- [I Built an AI Boardroom App in 8 Hours with Flutter &amp; AI 🚀 &lpar;Open Source&rpar;](https://dev.to/sayed_ali_alkamel/i-built-an-ai-boardroom-app-in-8-hours-with-flutter-ai-open-source-1fjm)
+- [What do you think, LinkedIn?](https://dev.to/im_bhandari_2f6612fe6118/what-do-you-think-linkedin-7cm)
 <!-- BLOG-POST-LIST:END -->
 
 
