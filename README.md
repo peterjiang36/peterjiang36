@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Own Python Full Stack Interview Prep Resources &lpar;And You Can Use Them FREE!&rpar;](https://dev.to/thiyagu26v/how-i-built-my-own-python-full-stack-interview-prep-resources-and-you-can-use-them-free-412a)
-- [Kun-Kay Discount Code : &lpar;AKV&rpar; Get 10% Off On Your Purchase](https://dev.to/referralcode90/kun-kay-discount-code-akv-get-10-off-on-your-purchase-31mb)
-- [Pilate Studio for Modern Strength: Where Precision Meets Mindful Movement](https://dev.to/eternal_wellness_4cb60539/pilate-studio-for-modern-strength-where-precision-meets-mindful-movement-59bc)
-- [Chrome DevTools MCP](https://dev.to/ismailpe/chrome-devtools-mcp-3a5c)
+- [🚀 Building an AI-Powered Jest Test Case Generator for TypeScript](https://dev.to/srinidhianand/building-an-ai-powered-jest-test-case-generator-for-typescript-251m)
+- [Semantic Cache: Como Otimizar Aplicações RAG com Cache Semântico](https://dev.to/asouza/semantic-cache-como-otimizar-aplicacoes-rag-com-cache-semantico-4k84)
+- [Sector HQ Weekly Digest - January 5, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-5-2026-3pk1)
+- [Unleashing the Power of Arrow Functions in JavaScript](https://dev.to/vjnvisakh/unleashing-the-power-of-arrow-functions-in-javascript-1o2b)
 <!-- BLOG-POST-LIST:END -->
 
 
