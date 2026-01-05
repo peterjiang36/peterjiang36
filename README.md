@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Complex Visualizations Need Algorithms: Analyzing Grafana Forks&#39; Dependencies](https://dev.to/ruiwen_zeng_ea2f69399242a/why-complex-visualizations-need-algorithms-analyzing-grafana-forks-dependencies-67f)
-- [Unlocking Uniswap V4: Hooks as the Foundation for Next-Level DeFi](https://dev.to/codebyankita/unlocking-uniswap-v4-hooks-as-the-foundation-for-next-level-defi-61o)
-- [myUpchar Coupon Code “ARCHANA5” — Get 10% OFF on All Health &amp; Wellness Products!](https://dev.to/referralcode90/myupchar-coupon-code-archana5-get-10-off-on-all-health-wellness-products-1mad)
-- [Building an Autonomous ClinicalOps Watchdog: My Experiment in Automating Clinical Trial Monitoring](https://dev.to/exploredataaiml/building-an-autonomous-clinicalops-watchdog-my-experiment-in-automating-clinical-trial-monitoring-3kj6)
+- [The Total Cost of Running Agentic AI on AWS: A Financial Breakdown](https://dev.to/dineshelumalai/the-total-cost-of-running-agentic-ai-on-aws-a-financial-breakdown-1ofc)
+- [FSMS and HACCP: Systems, Principles, and Performance](https://dev.to/joy1/fsms-and-haccp-systems-principles-and-performance-27pc)
+- [Lightning-Fast In-App Debugging with React Native BugBubble](https://dev.to/ajmal_hasan/lightning-fast-in-app-debugging-with-react-native-bugbubble-5bao)
+- [Build the tool. We’ll run the business.](https://dev.to/codeatoms/build-the-tool-well-run-the-business-pl2)
 <!-- BLOG-POST-LIST:END -->
 
 
