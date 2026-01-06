@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
-- [Building a Secure Demo Banking App [Part 1]](https://dev.to/blad90/building-a-secure-demo-banking-app-part-1-1amj)
-- [Bifrost: The fastest way to build AI applications that never go down](https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9)
-- [The Vercel &quot;Silent 500&quot;: How to Actually See Your Production Errors &lpar;In Under 2 Minutes&rpar;](https://dev.to/mark_kaave/the-vercel-silent-500-how-to-actually-see-your-production-errors-in-under-2-minutes-dp3)
+- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
+- [Formal Semantics as the Missing Control Layer for AI-Assisted Software Engineering](https://dev.to/sven-a-schaefer/formal-semantics-as-the-missing-control-layer-for-ai-assisted-software-engineering-2ked)
+- [MAWA - El lenguaje simple en sintaxis como Python de bajo nivel. Parte 3, Condicionales.](https://dev.to/samuel_leonardo_37aff38b4/mawa-el-lenguaje-simple-en-sintaxis-como-python-de-bajo-nivel-parte-3-condicionales-8m4)
+- [Distributed Systems &amp; Networking: Advanced Networking for Cloud and Advanced Modern Datacenters](https://dev.to/javadinteger/distributed-systems-networking-advanced-networking-for-cloud-and-advanced-modern-datacenters-3nk7)
 <!-- BLOG-POST-LIST:END -->
 
 
