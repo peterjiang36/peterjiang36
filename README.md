@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [-&gt;&gt; Day-15 AWS VPC Peering Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-15-aws-vpc-peering-4ocn)
-- [Building a safer way to manage .env in Laravel — and I’ve just released the public roadmap](https://dev.to/vanni7544/building-a-safer-way-to-manage-env-in-laravel-and-ive-just-released-the-public-roadmap-2hha)
-- [AI Coding Tip 001 - Commit Before Prompt](https://dev.to/mcsee/ai-coding-tip-001-commit-before-prompt-5bd9)
-- [Credit Card Payment Form](https://dev.to/emon_hosen_376f3bcb3a8a54/credit-card-payment-form-2f8g)
+- [Building a Local RAG for Agentic Coding: From Fixed Chunks to Semantic Search with Keyword Boost](https://dev.to/shinpr/building-a-local-rag-for-agentic-coding-from-fixed-chunks-to-semantic-search-with-keyword-boost-15m8)
+- [Tutorial: Rethinking dApp Onboarding with Account Abstraction](https://dev.to/freepierce/tutorial-rethinking-dapp-onboarding-with-account-abstraction-5d3)
+- [Building A Binary Compiler For Node.js.](https://dev.to/sfundomhlungu/building-a-binary-compiler-for-nodejs-5dac)
+- [Building an Animated Portfolio with GSAP, Next.js, and pnpm](https://dev.to/s_shabeh/building-an-animated-portfolio-with-gsap-nextjs-and-pnpm-cpo)
 <!-- BLOG-POST-LIST:END -->
 
 
