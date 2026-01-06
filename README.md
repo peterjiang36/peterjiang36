@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a One-Command Observability Stack for Dokploy](https://dev.to/quochuydev/how-i-built-a-one-command-observability-stack-for-dokploy-4ak0)
-- [Why Image Hallucination Is More Dangerous Than Text Hallucination](https://dev.to/musu_priyam/why-image-hallucination-is-more-dangerous-than-text-hallucination-3kjp)
-- [Calibrating My Turtle](https://dev.to/chrismo/calibrating-my-turtle-l5k)
-- [🌲 Beginner-Friendly Guide &#39;Maximum Level Sum of a Binary Tree&#39; – LeetCode 1161 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-level-sum-of-a-binary-tree-leetcode-1161-c-python-1383)
+- [Animegearguru Discount Code &quot;AVA10&quot; Get 10% Off on All Products!](https://dev.to/referralcode23/animegearguru-discount-code-ava10-get-10-off-on-all-products-11nn)
+- [From Web Discovery to Agent Tethering: Scaling a Global Network of Agents](https://dev.to/pseudyx/from-web-discovery-to-agent-tethering-scaling-a-global-network-of-agents-581d)
+- [Blockstream Discount Code &quot;AVA10&quot; Get 10% Off on All Products!](https://dev.to/referralcode23/blockstream-discount-code-ava10-get-10-off-on-all-products-7h)
+- [Building a Todo API with HonoJS, Drizzle ORM &amp; Neon — A Beginner-Friendly Guide](https://dev.to/mayu2008/building-a-todo-api-with-honojs-drizzle-orm-neon-a-beginner-friendly-guide-438)
 <!-- BLOG-POST-LIST:END -->
 
 
