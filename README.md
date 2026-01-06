@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
-- [Formal Semantics as the Missing Control Layer for AI-Assisted Software Engineering](https://dev.to/sven-a-schaefer/formal-semantics-as-the-missing-control-layer-for-ai-assisted-software-engineering-2ked)
-- [MAWA - El lenguaje simple en sintaxis como Python de bajo nivel. Parte 3, Condicionales.](https://dev.to/samuel_leonardo_37aff38b4/mawa-el-lenguaje-simple-en-sintaxis-como-python-de-bajo-nivel-parte-3-condicionales-8m4)
-- [Distributed Systems &amp; Networking: Advanced Networking for Cloud and Advanced Modern Datacenters](https://dev.to/javadinteger/distributed-systems-networking-advanced-networking-for-cloud-and-advanced-modern-datacenters-3nk7)
+- [My Experience with Google Antigravity: How I Refactored Easy Kit Utils with AI Agents 🚀](https://dev.to/dvalin99/my-experience-with-google-antigravity-how-i-refactored-easy-kit-utils-with-ai-agents-2e54)
+- [DevLog: Detrás del código #0 - Así empezó todo 🥸](https://dev.to/cba-apredut/devlog-detras-del-codigo-0-asi-empezo-todo-1b0p)
+- [building Drosk - your smart desktop file organizer](https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p)
+- [Day 7 of 100](https://dev.to/palakhirave/day-7-of-100-4hn2)
 <!-- BLOG-POST-LIST:END -->
 
 
