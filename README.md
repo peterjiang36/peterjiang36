@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Animegearguru Discount Code &quot;AVA10&quot; Get 10% Off on All Products!](https://dev.to/referralcode23/animegearguru-discount-code-ava10-get-10-off-on-all-products-11nn)
-- [From Web Discovery to Agent Tethering: Scaling a Global Network of Agents](https://dev.to/pseudyx/from-web-discovery-to-agent-tethering-scaling-a-global-network-of-agents-581d)
-- [Blockstream Discount Code &quot;AVA10&quot; Get 10% Off on All Products!](https://dev.to/referralcode23/blockstream-discount-code-ava10-get-10-off-on-all-products-7h)
-- [Building a Todo API with HonoJS, Drizzle ORM &amp; Neon — A Beginner-Friendly Guide](https://dev.to/mayu2008/building-a-todo-api-with-honojs-drizzle-orm-neon-a-beginner-friendly-guide-438)
+- [Introducing Dagor : a High-Performance DAG Execution Engine in Go](https://dev.to/will_zhang_598824ef87a46c/introducing-dagor-a-high-performance-dag-execution-engine-in-go-2m5e)
+- [Amazon Bedrock AgentCore : Runtime with Langgraph, CrewAI and Google Gemini](https://dev.to/budionosan/amazon-bedrock-agentcore-runtime-with-langgraph-crewai-and-google-gemini-57l5)
+- [Bitvavo Referral Code “10CFEBC8EA” Get 20% Off On Trading Fee](https://dev.to/referralcode23/bitvavo-referral-code-10cfebc8ea-get-20-off-on-trading-fee-1h1e)
+- [I Asked My Dog How Trees Talk. Now I&#39;m Rethinking LLM Orchestration.](https://dev.to/copyleftdev/i-asked-my-dog-how-trees-talk-now-im-rethinking-llm-orchestration-1akk)
 <!-- BLOG-POST-LIST:END -->
 
 
