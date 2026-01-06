@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving XOR without Backpropagation: A Genetic Algorithm Approach 🧬](https://dev.to/ibrahimsezer/solving-xor-without-backpropagation-a-genetic-algorithm-approach-163c)
-- [From Parquet to Snowflake: Query Smart, Load Fast](https://dev.to/naveena_davay/from-parquet-to-snowflake-query-smart-load-fast-1gm6)
-- [🔄I Thought PUT and PATCH Were the Same… I Was Wrong](https://dev.to/shashwathsh/i-thought-put-and-patch-were-the-same-i-was-wrong-5gf6)
-- [Customizing LLMs with Your Data: A Progressive Strategy from Prompting to Fine-Tuning](https://dev.to/derrickryangiggs/customizing-llms-with-your-data-a-progressive-strategy-from-prompting-to-fine-tuning-4pdi)
+- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
+- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
+- [canary vs rolling update](https://dev.to/jumptotech/canary-vs-rolling-update-2dea)
+- [⚡️ Supercharge Your Document Workflows: Docling Now Unleashes the Power of NVIDIA RTX!](https://dev.to/aairom/supercharge-your-document-workflows-docling-now-unleashes-the-power-of-nvidia-rtx-14n4)
 <!-- BLOG-POST-LIST:END -->
 
 
