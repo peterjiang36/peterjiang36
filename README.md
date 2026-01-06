@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineering and Building Systems: Reflections on a Month of AI Engineering with goose by Block](https://dev.to/eriperspective/ai-engineering-and-building-systems-reflections-on-a-month-of-ai-engineering-with-goose-by-block-45jj)
-- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
-- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
-- [Deployment strategies](https://dev.to/jumptotech/deployment-strategies-2oep)
+- [I Didn’t Become a Better Developer by Coding More](https://dev.to/colesilverstone/i-didnt-become-a-better-developer-by-coding-more-27p6)
+- [DRY is Not Enough: When to Evolve Code from Reusable to Decoupled](https://dev.to/actocodes/dry-is-not-enough-when-to-evolve-code-from-reusable-to-decoupled-3874)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 2&rpar;: Creating the Game Screen](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-2-creating-the-game-screen-3c00)
+- [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-55l9)
 <!-- BLOG-POST-LIST:END -->
 
 
