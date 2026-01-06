@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
-- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
-- [canary vs rolling update](https://dev.to/jumptotech/canary-vs-rolling-update-2dea)
-- [⚡️ Supercharge Your Document Workflows: Docling Now Unleashes the Power of NVIDIA RTX!](https://dev.to/aairom/supercharge-your-document-workflows-docling-now-unleashes-the-power-of-nvidia-rtx-14n4)
+- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
+- [What is Redis and Why to Use Redis?](https://dev.to/joypalumbo/what-is-redis-and-why-to-use-redis-4193)
+- [Why .dev, .app, .page &lpar;and 40+ Other TLDs&rpar; Don&#39;t Respond to WHOIS](https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8)
+- [Why AI-Generated Code Feels Weird](https://dev.to/unknown_destroyer_f353870/why-ai-generated-code-feels-weird-1bd2)
 <!-- BLOG-POST-LIST:END -->
 
 
