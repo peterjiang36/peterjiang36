@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Real-Time Magic: Dive Deep into WebSockets and Socket.IO for Instant Web Wonders](https://dev.to/vasughanta09/unlocking-real-time-magic-dive-deep-into-websockets-and-socketio-for-instant-web-wonders-4pj)
-- [How to Make AI Reconstruct Context Without Memory](https://dev.to/synthaicode_commander/how-to-make-ai-reconstruct-context-without-memory-5d8e)
-- [My Thoughts on Frontend Architecture &amp; Framework Choices for 2026](https://dev.to/samurai-techlead/my-thoughts-on-frontend-architecture-framework-choices-for-2026-3k0f)
-- [Why I Built a Dedicated Benchmarking System](https://dev.to/jashwanth_thatipamula_8ee/why-i-built-a-dedicated-benchmarking-system-394d)
+- [Cost Explorer de AWS](https://dev.to/barbara_gaspar/cost-explorer-de-aws-e0c)
+- [Imagem Docker. Para rodar projetos PHP em menos de 30 segundos.](https://dev.to/convenia/imagem-docker-para-rodar-projetos-php-em-menos-de-30-segundos-dee)
+- [Testing Database Logic: What to Test, What to Skip, and Why It Matters](https://dev.to/codecraft_diary_3d13677fb/testing-database-logic-what-to-test-what-to-skip-and-why-it-matters-2ff8)
+- [Refactoring for AI: When Your Code Reviewer is a Machine](https://dev.to/y-takashi/refactoring-for-ai-when-your-code-reviewer-is-a-machine-28ko)
 <!-- BLOG-POST-LIST:END -->
 
 
