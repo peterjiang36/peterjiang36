@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why BIM Failures Happen On-Site](https://dev.to/bim365/why-bim-failures-happen-on-site-58ne)
-- [DeepSeek AI Models 2025: Open-Source GPT-5 Alternative](https://dev.to/dr_hernani_costa/deepseek-ai-models-2025-open-source-gpt-5-alternative-35hg)
-- [The Frontend Fortress: Building a Bulletproof Code Quality Pipeline](https://dev.to/rafaelogic/the-frontend-fortress-building-a-bulletproof-code-quality-pipeline-3edm)
-- [What Is the DOM? How JavaScript Interacts with Web Pages &lpar;Beginner Guide&rpar;](https://dev.to/vamsi_krishna_budati/what-is-the-dom-how-javascript-interacts-with-web-pages-beginner-guide-4aj)
+- [How I Built a One-Command Observability Stack for Dokploy](https://dev.to/quochuydev/how-i-built-a-one-command-observability-stack-for-dokploy-4ak0)
+- [Why Image Hallucination Is More Dangerous Than Text Hallucination](https://dev.to/musu_priyam/why-image-hallucination-is-more-dangerous-than-text-hallucination-3kjp)
+- [Calibrating My Turtle](https://dev.to/chrismo/calibrating-my-turtle-l5k)
+- [🌲 Beginner-Friendly Guide &#39;Maximum Level Sum of a Binary Tree&#39; – LeetCode 1161 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-level-sum-of-a-binary-tree-leetcode-1161-c-python-1383)
 <!-- BLOG-POST-LIST:END -->
 
 
