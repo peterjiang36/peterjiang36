@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Dagor : a High-Performance DAG Execution Engine in Go](https://dev.to/will_zhang_598824ef87a46c/introducing-dagor-a-high-performance-dag-execution-engine-in-go-2m5e)
-- [Amazon Bedrock AgentCore : Runtime with Langgraph, CrewAI and Google Gemini](https://dev.to/budionosan/amazon-bedrock-agentcore-runtime-with-langgraph-crewai-and-google-gemini-57l5)
-- [Bitvavo Referral Code “10CFEBC8EA” Get 20% Off On Trading Fee](https://dev.to/referralcode23/bitvavo-referral-code-10cfebc8ea-get-20-off-on-trading-fee-1h1e)
-- [I Asked My Dog How Trees Talk. Now I&#39;m Rethinking LLM Orchestration.](https://dev.to/copyleftdev/i-asked-my-dog-how-trees-talk-now-im-rethinking-llm-orchestration-1akk)
+- [Why Traditional DevOps Stops Scaling](https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im)
+- [Problem 8: Count Vowels](https://dev.to/highcenburg/problem-8-count-vowels-p7l)
+- [Ringer Movies: A 2026 Rewatchables Mailbag | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-a-2026-rewatchables-mailbag-the-rewatchables-14kb)
+- [Building a Fail-Closed Investment Risk Gate with Yuer DSL](https://dev.to/yuer/building-a-fail-closed-investment-risk-gate-with-yuer-dsl-3abc)
 <!-- BLOG-POST-LIST:END -->
 
 
