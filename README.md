@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cherryramatis/-1h6a)
-- [Continuous Integration &lpar;CI&rpar;: The Missing Engineering Discipline Behind Most Pipelines](https://dev.to/srinivasamcjf/continuous-integration-ci-the-missing-engineering-discipline-behind-most-pipelines-4eka)
-- [Python Comprehensions Are Declarative &lpar;And Why That Matters&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba)
-- [Kubernetes Rolling Update &amp; Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e)
+- [Why BIM Failures Happen On-Site](https://dev.to/bim365/why-bim-failures-happen-on-site-58ne)
+- [DeepSeek AI Models 2025: Open-Source GPT-5 Alternative](https://dev.to/dr_hernani_costa/deepseek-ai-models-2025-open-source-gpt-5-alternative-35hg)
+- [The Frontend Fortress: Building a Bulletproof Code Quality Pipeline](https://dev.to/rafaelogic/the-frontend-fortress-building-a-bulletproof-code-quality-pipeline-3edm)
+- [What Is the DOM? How JavaScript Interacts with Web Pages &lpar;Beginner Guide&rpar;](https://dev.to/vamsi_krishna_budati/what-is-the-dom-how-javascript-interacts-with-web-pages-beginner-guide-4aj)
 <!-- BLOG-POST-LIST:END -->
 
 
