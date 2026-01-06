@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Didn’t Become a Better Developer by Coding More](https://dev.to/colesilverstone/i-didnt-become-a-better-developer-by-coding-more-27p6)
-- [DRY is Not Enough: When to Evolve Code from Reusable to Decoupled](https://dev.to/actocodes/dry-is-not-enough-when-to-evolve-code-from-reusable-to-decoupled-3874)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 2&rpar;: Creating the Game Screen](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-2-creating-the-game-screen-3c00)
-- [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-55l9)
+- [[Boost]](https://dev.to/cherryramatis/-1h6a)
+- [Continuous Integration &lpar;CI&rpar;: The Missing Engineering Discipline Behind Most Pipelines](https://dev.to/srinivasamcjf/continuous-integration-ci-the-missing-engineering-discipline-behind-most-pipelines-4eka)
+- [Python Comprehensions Are Declarative &lpar;And Why That Matters&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba)
+- [Kubernetes Rolling Update &amp; Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e)
 <!-- BLOG-POST-LIST:END -->
 
 
