@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
-- [What is Redis and Why to Use Redis?](https://dev.to/joypalumbo/what-is-redis-and-why-to-use-redis-4193)
-- [Why .dev, .app, .page &lpar;and 40+ Other TLDs&rpar; Don&#39;t Respond to WHOIS](https://dev.to/p12se/why-dev-app-page-and-40-other-tlds-dont-respond-to-whois-53n8)
-- [Why AI-Generated Code Feels Weird](https://dev.to/unknown_destroyer_f353870/why-ai-generated-code-feels-weird-1bd2)
+- [SitecoreAI Scheduled Tasks - Getting PowerShell Working Right](https://dev.to/kmac23va/sitecoreai-scheduled-tasks-getting-powershell-working-right-3lg0)
+- [Building a Secure Demo Banking App [Part 1]](https://dev.to/blad90/building-a-secure-demo-banking-app-part-1-1amj)
+- [Bifrost: The fastest way to build AI applications that never go down](https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9)
+- [The Vercel &quot;Silent 500&quot;: How to Actually See Your Production Errors &lpar;In Under 2 Minutes&rpar;](https://dev.to/mark_kaave/the-vercel-silent-500-how-to-actually-see-your-production-errors-in-under-2-minutes-dp3)
 <!-- BLOG-POST-LIST:END -->
 
 
