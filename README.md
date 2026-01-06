@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Started Botting Pokémon Center in 6.5 Hours](https://dev.to/alicealice1211/how-i-started-botting-pokemon-center-in-65-hours-4h7l)
-- [Is This Thing On? Welcome to Rhiza&#39;s Kernel Chronicles](https://dev.to/fwdslsh/is-this-thing-on-welcome-to-rhizas-kernel-chronicles-1kh6)
-- [Dart Server-Side in 2026: An Introduction to Dart Frog 🐸](https://dev.to/techwithsam/dart-server-side-in-2026-an-introduction-to-dart-frog-4ib3)
-- [Swipeable component with the Animated API](https://dev.to/paulo_s/swipeable-component-with-the-animated-api-4hef)
+- [Solving XOR without Backpropagation: A Genetic Algorithm Approach 🧬](https://dev.to/ibrahimsezer/solving-xor-without-backpropagation-a-genetic-algorithm-approach-163c)
+- [From Parquet to Snowflake: Query Smart, Load Fast](https://dev.to/naveena_davay/from-parquet-to-snowflake-query-smart-load-fast-1gm6)
+- [🔄I Thought PUT and PATCH Were the Same… I Was Wrong](https://dev.to/shashwathsh/i-thought-put-and-patch-were-the-same-i-was-wrong-5gf6)
+- [Customizing LLMs with Your Data: A Progressive Strategy from Prompting to Fine-Tuning](https://dev.to/derrickryangiggs/customizing-llms-with-your-data-a-progressive-strategy-from-prompting-to-fine-tuning-4pdi)
 <!-- BLOG-POST-LIST:END -->
 
 
