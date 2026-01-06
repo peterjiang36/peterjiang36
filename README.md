@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Videos: Containers, Codecs, and Protocols](https://dev.to/cristiansifuentes/videos-containers-codecs-and-protocols-3aeg)
-- [How the .JPG Format Works *Understanding Image Compression Through Human Perception*](https://dev.to/cristiansifuentes/how-the-jpg-format-works-understanding-image-compression-through-human-perception-3032)
-- [Secure and Convenient Keychain Access with Touch ID](https://dev.to/dss99911/secure-and-convenient-keychain-access-with-touch-id-3ffk)
-- [HealthTech API Security: Protecting Patient Data with mTLS and OAuth 2.0](https://dev.to/wellallytech/healthtech-api-security-protecting-patient-data-with-mtls-and-oauth-20-4k7k)
+- [Unlocking Real-Time Magic: Dive Deep into WebSockets and Socket.IO for Instant Web Wonders](https://dev.to/vasughanta09/unlocking-real-time-magic-dive-deep-into-websockets-and-socketio-for-instant-web-wonders-4pj)
+- [How to Make AI Reconstruct Context Without Memory](https://dev.to/synthaicode_commander/how-to-make-ai-reconstruct-context-without-memory-5d8e)
+- [My Thoughts on Frontend Architecture &amp; Framework Choices for 2026](https://dev.to/samurai-techlead/my-thoughts-on-frontend-architecture-framework-choices-for-2026-3k0f)
+- [Why I Built a Dedicated Benchmarking System](https://dev.to/jashwanth_thatipamula_8ee/why-i-built-a-dedicated-benchmarking-system-394d)
 <!-- BLOG-POST-LIST:END -->
 
 
