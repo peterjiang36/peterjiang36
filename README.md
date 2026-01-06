@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local RAG for Agentic Coding: From Fixed Chunks to Semantic Search with Keyword Boost](https://dev.to/shinpr/building-a-local-rag-for-agentic-coding-from-fixed-chunks-to-semantic-search-with-keyword-boost-15m8)
-- [Tutorial: Rethinking dApp Onboarding with Account Abstraction](https://dev.to/freepierce/tutorial-rethinking-dapp-onboarding-with-account-abstraction-5d3)
-- [Building A Binary Compiler For Node.js.](https://dev.to/sfundomhlungu/building-a-binary-compiler-for-nodejs-5dac)
-- [Building an Animated Portfolio with GSAP, Next.js, and pnpm](https://dev.to/s_shabeh/building-an-animated-portfolio-with-gsap-nextjs-and-pnpm-cpo)
+- [Videos: Containers, Codecs, and Protocols](https://dev.to/cristiansifuentes/videos-containers-codecs-and-protocols-3aeg)
+- [How the .JPG Format Works *Understanding Image Compression Through Human Perception*](https://dev.to/cristiansifuentes/how-the-jpg-format-works-understanding-image-compression-through-human-perception-3032)
+- [Secure and Convenient Keychain Access with Touch ID](https://dev.to/dss99911/secure-and-convenient-keychain-access-with-touch-id-3ffk)
+- [HealthTech API Security: Protecting Patient Data with mTLS and OAuth 2.0](https://dev.to/wellallytech/healthtech-api-security-protecting-patient-data-with-mtls-and-oauth-20-4k7k)
 <!-- BLOG-POST-LIST:END -->
 
 
