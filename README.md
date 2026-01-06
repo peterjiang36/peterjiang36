@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Recognizing and Diagnosing Complications in Early Pregnancy with Ultrasound](https://dev.to/anjali_kashyap_2838415e05/recognizing-and-diagnosing-complications-in-early-pregnancy-with-ultrasound-1ik9)
-- [11+ Best Open Source Shadcn Dashboard Templates for 2026](https://dev.to/tailwindadmin/best-open-source-shadcn-dashboard-templates-29fb)
-- [Why You Need a WAF with an Intelligent Semantic Analysis Engine](https://dev.to/arina_cholee/why-you-need-a-waf-with-an-intelligent-semantic-analysis-engine-47mk)
-- [Transform Your Ideas into Stunning Visuals with Grok Image Generator](https://dev.to/yifeng_jiang_6391a61fd8ff/transform-your-ideas-into-stunning-visuals-with-grok-image-generator-4fe)
+- [-&gt;&gt; Day-15 AWS VPC Peering Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-15-aws-vpc-peering-4ocn)
+- [Building a safer way to manage .env in Laravel — and I’ve just released the public roadmap](https://dev.to/vanni7544/building-a-safer-way-to-manage-env-in-laravel-and-ive-just-released-the-public-roadmap-2hha)
+- [AI Coding Tip 001 - Commit Before Prompt](https://dev.to/mcsee/ai-coding-tip-001-commit-before-prompt-5bd9)
+- [Credit Card Payment Form](https://dev.to/emon_hosen_376f3bcb3a8a54/credit-card-payment-form-2f8g)
 <!-- BLOG-POST-LIST:END -->
 
 
