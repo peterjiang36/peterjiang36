@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform State Management with Amazon S3](https://dev.to/bansikah/terraform-state-management-with-amazon-s3-1478)
-- [Why Your 99% Accurate Model is Useless in Production &lpar;And How to Fix It&rpar;](https://dev.to/best_techcompany_200e9f2/why-your-99-accurate-model-is-useless-in-production-and-how-to-fix-it-9fi)
-- [Why Your AI Is Suddenly Making You Wait. ⏳](https://dev.to/naved_shaikh/why-your-ai-is-suddenly-making-you-wait-39a2)
-- [Why “AI tools” fail: no workflow, no outcome](https://dev.to/jaideepparashar/why-ai-tools-fail-no-workflow-no-outcome-d7m)
+- [Exploring Ktor: A Modern Networking Framework for Kotlin](https://dev.to/supriya_shah_1e9c3df6158c/exploring-ktor-a-modern-networking-framework-for-kotlin-2cfi)
+- [Building a Government Tender Intelligence System with Python: Lessons from the Real World](https://dev.to/saurav_kumar_fd52db212f32/building-a-government-tender-intelligence-system-with-python-lessons-from-the-real-world-3d0n)
+- [Reflexes, Cognition, and Thought](https://dev.to/sigje/reflexes-cognition-and-thought-5o)
+- [Learning Landscape Heightmaps and Sculpting Tools in Unreal Engine &lpar;Day 12&rpar;](https://dev.to/dinesh_04/learning-landscape-heightmaps-and-sculpting-tools-in-unreal-engine-day-12-14oh)
 <!-- BLOG-POST-LIST:END -->
 
 
