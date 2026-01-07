@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)
-- [Day 1: The Array Lie &lpar;Arrays vs Pointers in C&rpar;](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89)
-- [The Senior QA’s Manifesto: How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc)
-- [Tmux - less windows, more ⚒](https://dev.to/sushantkulkarni/tmux-less-windows-more-5bhf)
+- [Terraform State Management with Amazon S3](https://dev.to/bansikah/terraform-state-management-with-amazon-s3-1478)
+- [Why Your 99% Accurate Model is Useless in Production &lpar;And How to Fix It&rpar;](https://dev.to/best_techcompany_200e9f2/why-your-99-accurate-model-is-useless-in-production-and-how-to-fix-it-9fi)
+- [Why Your AI Is Suddenly Making You Wait. ⏳](https://dev.to/naved_shaikh/why-your-ai-is-suddenly-making-you-wait-39a2)
+- [Why “AI tools” fail: no workflow, no outcome](https://dev.to/jaideepparashar/why-ai-tools-fail-no-workflow-no-outcome-d7m)
 <!-- BLOG-POST-LIST:END -->
 
 
