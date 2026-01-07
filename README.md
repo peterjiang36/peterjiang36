@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Autopsy: How 1 Legacy Portal Cost $1.6B &lpar;Change Healthcare Analysis&rpar;](https://dev.to/systemdesignautopsy/system-design-autopsy-how-1-legacy-portal-cost-16b-change-healthcare-analysis-1pj2)
-- [**Zen Browser: AI-Driven Firefox Fork or Chrome Killer? A DevOps Engineer&#39;s No-BS Take**](https://dev.to/karol_81a50ed396508bcffd7/zen-browser-ai-driven-firefox-fork-or-chrome-killer-a-devops-engineers-no-bs-take-1b6m)
-- [From Idea to Launch: How I Built an Instant Messaging App on a Weekend](https://dev.to/asdryankuo/from-idea-to-launch-how-i-built-an-instant-messaging-app-on-a-weekend-2fn4)
-- [When Governance Depends on the System, It Is No Longer Governance](https://dev.to/antonio_socorro_95e3ff086/when-governance-depends-on-the-system-it-is-no-longer-governance-2om5)
+- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
+- [The Complete Guide to A2UI Protocol: Building Agent-Driven UIs with Google&#39;s A2UI in 2026](https://dev.to/czmilo/the-complete-guide-to-a2ui-protocol-building-agent-driven-uis-with-googles-a2ui-in-2026-146p)
+- [GxPDF v0.1.0: 100% Table Extraction Accuracy in Pure Go](https://dev.to/kolkov/gxpdf-v010-100-table-extraction-accuracy-in-pure-go-32h)
+- [A Practical Guide to Browser Caching for Web Apps](https://dev.to/zeeshanali0704/a-practical-guide-to-browser-caching-for-web-apps-2n5c)
 <!-- BLOG-POST-LIST:END -->
 
 
