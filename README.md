@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v359](https://dev.to/devteam/welcome-thread-v359-2ala)
-- [Open-Sourcing Your Business Logic: Risk or Opportunity? Lovable&#39;s Case](https://dev.to/y-takashi/open-sourcing-your-business-logic-risk-or-opportunity-lovables-case-3lf5)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 4&rpar;: Displaying Text](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-4-displaying-text-23i5)
-- [Secure your AWS credentials on GitHub Actions with OIDC](https://dev.to/vris_jaijongrak_e051f8cf/secure-your-aws-credentials-on-github-actions-with-oidc-43kd)
+- [Building a Minimalist Browser OS to Fight E-Waste: Gnokestation](https://dev.to/edmundsparrow/building-a-minimalist-browser-os-to-fight-e-waste-gnokestation-542o)
+- [Why Developers Love Kingdom Building Novels: A Logic-Based Review](https://dev.to/trustuser/why-developers-love-kingdom-building-novels-a-logic-based-review-1ljn)
+- [Building a WhatsApp Web Automation Chrome Extension &lpar;Bulk, Schedule, Filters, Logs&rpar;](https://dev.to/mebularts/building-a-whatsapp-web-automation-chrome-extension-bulk-schedule-filters-logs-53pb)
+- [Stop Manual Deploys: A 5-Minute Guide to GitHub Actions in 2026](https://dev.to/meena_nukala/stop-manual-deploys-a-5-minute-guide-to-github-actions-in-2026-395)
 <!-- BLOG-POST-LIST:END -->
 
 
