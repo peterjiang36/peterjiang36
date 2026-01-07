@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb)
-- [SRDD pitches](https://dev.to/bbos/srdd-pitches-44pa)
-- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-4pkk)
-- [The journey of scaling a personal project into a community resource for 3D Pokémon assets.](https://dev.to/sudhanshuambastha/the-journey-of-scaling-a-personal-project-into-a-community-resource-for-3d-pokemon-assets-2mjg)
+- [Why Autonomous AI Agents are the Future of DevOps in 2026](https://dev.to/karol_81a50ed396508bcffd7/why-autonomous-ai-agents-are-the-future-of-devops-in-2026-2dha)
+- [Your Codebase Needs OSHA](https://dev.to/junothreadborne/your-codebase-needs-osha-2oa0)
+- [About This Documentation Infrastructure](https://dev.to/bbos/about-this-documentation-infrastructure-3o2n)
+- [Get Notified When Long-Running Commands Finish in PowerShell 7](https://dev.to/jackscott7/command-exec-notification-in-powershell-7-4gbn)
 <!-- BLOG-POST-LIST:END -->
 
 
