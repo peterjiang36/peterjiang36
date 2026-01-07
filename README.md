@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
-- [I Was Tired of Overwhelming To-Do Lists, So I Built My Own with Next.js 16 + Supabase](https://dev.to/whyawww/i-was-tired-of-overwhelming-to-do-lists-so-i-built-my-own-with-nextjs-16-supabase-4m82)
-- [Anomaly Detection in Seasonal Data: Why Z-Score Still Wins &lpar;But You Need to Use It Right&rpar;](https://dev.to/qvfagundes/anomaly-detection-in-seasonal-data-why-z-score-still-wins-but-you-need-to-use-it-right-4ec1)
-- [The Rise of MicroSlop](https://dev.to/goatedguy2002/the-rise-of-microslop-20d2)
+- [https://jawramblog.blogspot.com/2024/08/chatgpt.html?m=1&amp;zx=9c2bddc08300f85c](https://dev.to/jawad_artisteikisse_7385/httpsjawramblogblogspotcom202408chatgpthtmlm1zx9c2bddc08300f85c-53nm)
+- [Partner con aws a founder de mí propia startup: Vorhealth&lpar;reflexión de vacaciones&rpar;](https://dev.to/paola_ponce_5d383cba02593/partner-con-aws-a-founder-de-mi-propia-startup-vorhealthreflexion-de-vacaciones-2mm9)
+- [Day 8 of 100](https://dev.to/palakhirave/day-8-of-100-4go3)
+- [Develop Kubernetes Services Locally &lpar;Yes, Really&rpar; with Telepresence](https://dev.to/chainiz/develop-kubernetes-services-locally-yes-really-with-telepresence-16pg)
 <!-- BLOG-POST-LIST:END -->
 
 
