@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond K-Means: Modern Hierarchical Clustering in R](https://dev.to/dipti_moryani_9137d0a2e44/beyond-k-means-modern-hierarchical-clustering-in-r-mm9)
-- [What I Learned Trying &lpar;and Mostly Failing&rpar; to Understand Attention Heads](https://dev.to/shravani_86c94d4b283541f3/what-i-learned-trying-and-mostly-failing-to-understand-attention-heads-m90)
-- [Common Git Mistakes &lpar;And How to Fix Them&rpar;](https://dev.to/wmdn9116/common-git-mistakes-and-how-to-fix-them-2ldm)
-- [How to Use UFW &lpar;Uncomplicated Firewall&rpar;](https://dev.to/seno21/how-to-use-ufw-uncomplicated-firewall-358f)
+- [How I Think About Backend Engineering as a Student](https://dev.to/kushalsai/how-i-think-about-backend-engineering-as-a-student-al8)
+- [🌳 Beginner-Friendly Guide &#39;Maximum Product of Splitted Binary Tree&#39; – LeetCode 1339 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-product-of-splitted-binary-tree-leetcode-1339-c-python-2mo1)
+- [The Skill That Took My Coding Career Further Than Anything Else](https://dev.to/canro91/the-skill-that-took-my-coding-career-further-than-anything-else-2c3n)
+- [From MVP to Production: Lessons Learned Building Systems That Scale](https://dev.to/wmdn9116/from-mvp-to-production-lessons-learned-building-systems-that-scale-3895)
 <!-- BLOG-POST-LIST:END -->
 
 
