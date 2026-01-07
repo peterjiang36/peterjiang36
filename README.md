@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [https://jawramblog.blogspot.com/2024/08/chatgpt.html?m=1&amp;zx=9c2bddc08300f85c](https://dev.to/jawad_artisteikisse_7385/httpsjawramblogblogspotcom202408chatgpthtmlm1zx9c2bddc08300f85c-53nm)
-- [Partner con aws a founder de mí propia startup: Vorhealth&lpar;reflexión de vacaciones&rpar;](https://dev.to/paola_ponce_5d383cba02593/partner-con-aws-a-founder-de-mi-propia-startup-vorhealthreflexion-de-vacaciones-2mm9)
-- [Day 8 of 100](https://dev.to/palakhirave/day-8-of-100-4go3)
-- [Develop Kubernetes Services Locally &lpar;Yes, Really&rpar; with Telepresence](https://dev.to/chainiz/develop-kubernetes-services-locally-yes-really-with-telepresence-16pg)
+- [Provider-Agnostic Chat in React: WebLLM Local Mode + Remote Fallback](https://dev.to/thelogicwarlock/provider-agnostic-chat-in-react-webllm-local-mode-remote-fallback-25dd)
+- [Researching with AI: How I Created a Detailed Report on the Global Impact of AI in Education with Gemini&#39;s Deep Research](https://dev.to/datalaria/researching-with-ai-how-i-created-a-detailed-report-on-the-global-impact-of-ai-in-education-with-29jg)
+- [Why I rescheduled my AWS exam today](https://dev.to/alifunk/why-i-rescheduled-my-aws-exam-today-2j66)
+- [Kickstart 2026: Deploy Your First Open-Source App on PikaPods](https://dev.to/pikapods/kickstart-2026-deploy-your-first-open-source-app-on-pikapods-38cm)
 <!-- BLOG-POST-LIST:END -->
 
 
