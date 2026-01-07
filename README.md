@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Minimalist Browser OS to Fight E-Waste: Gnokestation](https://dev.to/edmundsparrow/building-a-minimalist-browser-os-to-fight-e-waste-gnokestation-542o)
-- [Why Developers Love Kingdom Building Novels: A Logic-Based Review](https://dev.to/trustuser/why-developers-love-kingdom-building-novels-a-logic-based-review-1ljn)
-- [Building a WhatsApp Web Automation Chrome Extension &lpar;Bulk, Schedule, Filters, Logs&rpar;](https://dev.to/mebularts/building-a-whatsapp-web-automation-chrome-extension-bulk-schedule-filters-logs-53pb)
-- [Stop Manual Deploys: A 5-Minute Guide to GitHub Actions in 2026](https://dev.to/meena_nukala/stop-manual-deploys-a-5-minute-guide-to-github-actions-in-2026-395)
+- [Testing 500K Push Notifications Before Sending: Firebase Dry-Run for Token Validation](https://dev.to/sangwoo_rhie/testing-500k-push-notifications-before-sending-firebase-dry-run-for-token-validation-3j7o)
+- [Test Your Tests: Does Your Crisis Simulation Match Reality?](https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df)
+- [I Didn’t “Become” a Senior Developer. I Accumulated Damage.](https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd)
+- [How to Support Light and Dark Themes in PWA Using Only CSS](https://dev.to/fedtti/how-to-support-light-and-dark-themes-in-pwa-using-only-css-6ca)
 <!-- BLOG-POST-LIST:END -->
 
 
