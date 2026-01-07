@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodkod: Production Backends in Seconds](https://dev.to/sibilsoren/kodkod-production-backends-in-seconds-5eda)
-- [How to Set Up a UPS on macOS 26 Tahoe](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-macos-26-tahoe-a9f)
-- [SASSA Status Check Guide 2025: How to Track Your SRD Grant Step by Step](https://dev.to/maddy_alex_fd59e8de30cde5/sassa-status-check-guide-2025-how-to-track-your-srd-grant-step-by-step-1d89)
-- [JavaScript Snippets: Split &amp; Map](https://dev.to/travisfont/javascript-snippets-split-map-4736)
+- [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
+- [I Was Tired of Overwhelming To-Do Lists, So I Built My Own with Next.js 16 + Supabase](https://dev.to/whyawww/i-was-tired-of-overwhelming-to-do-lists-so-i-built-my-own-with-nextjs-16-supabase-4m82)
+- [Anomaly Detection in Seasonal Data: Why Z-Score Still Wins &lpar;But You Need to Use It Right&rpar;](https://dev.to/qvfagundes/anomaly-detection-in-seasonal-data-why-z-score-still-wins-but-you-need-to-use-it-right-4ec1)
+- [The Rise of MicroSlop](https://dev.to/goatedguy2002/the-rise-of-microslop-20d2)
 <!-- BLOG-POST-LIST:END -->
 
 
