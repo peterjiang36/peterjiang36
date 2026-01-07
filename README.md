@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore Setup Confusion: Which IAM Role Do I Need?](https://dev.to/aws-builders/amazon-bedrock-agentcore-setup-confusion-which-iam-role-do-i-need-1pk1)
-- [🚀 Introducing Vyoma G-Dork: A Simple Google Dorking Terminal for Learning &amp; OSINT](https://dev.to/pjdeveloper896/introducing-vyoma-g-dork-a-simple-google-dorking-terminal-for-learning-osint-1k84)
-- [Workout Plateaus: Predicting Strength Stalls for Smarter Training](https://dev.to/wellallytech/workout-plateaus-predicting-strength-stalls-for-smarter-training-c04)
-- [Puppetlabs Modules Roundup – December 2025](https://dev.to/puppet/puppetlabs-modules-roundup-december-2025-4e5h)
+- [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3)
+- [DevRel na prática: meu artigo acadêmico ainda faz sentido em 2026?](https://dev.to/awdren/devrel-na-pratica-meu-artigo-academico-ainda-faz-sentido-em-2026-1j13)
+- [The Service Object Graveyard: Why Your POROs Failed and Handlers Won](https://dev.to/andriybaran/the-service-object-graveyard-why-your-poros-failed-and-handlers-won-2a8j)
+- [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](https://dev.to/pockit_tools/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6)
 <!-- BLOG-POST-LIST:END -->
 
 
