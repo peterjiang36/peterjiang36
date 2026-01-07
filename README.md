@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
-- [Accelerating Large Language Model Decoding with Speculative Sampling](https://dev.to/paperium/accelerating-large-language-model-decoding-with-speculative-sampling-1p)
-- [🎮 Why Simple Web Games Still Work &lpar;and What I Learned Building One&rpar;](https://dev.to/chiragx309/why-simple-web-games-still-work-and-what-i-learned-building-one-64f)
-- [Windows 11 Lite 2025 Free Download](https://dev.to/galenburpee59/windows-11-lite-2025-free-download-3e1m)
+- [Part 3 - Production-Ready C#: Resource Management, Testing &amp; Telemetry, Security &amp; Reliability](https://dev.to/k5tar/part-3-production-ready-c-resource-management-testing-telemetry-security-reliability-4oma)
+- [Part 2 - Performance &amp; Concurrency Essentials in C#: Memory, Async, and High-Performance Primitives](https://dev.to/k5tar/part-2-performance-concurrency-essentials-in-c-memory-async-and-high-performance-primitives-5afe)
+- [Part 1 - Core Foundations for Enterprise C#: OOP &amp; SOLID, Clean Architecture, and Type Semantics](https://dev.to/k5tar/part-1-core-foundations-for-enterprise-c-oop-solid-clean-architecture-and-type-semantics-1aka)
+- [How to Build Your First AI Agent Deploy it to Sevalla](https://dev.to/manishmshiva/how-to-build-your-first-ai-agent-deploy-it-to-sevalla-2hm6)
 <!-- BLOG-POST-LIST:END -->
 
 
