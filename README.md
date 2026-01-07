@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
-- [2026 New Year Challenge - 5 Projects United Hackathon](https://dev.to/yijun_xu_b7fe5eb3f0427f0a/2026-new-year-challenge-5-projects-united-hackathon-2c97)
-- [Review Coursera Course - Programming with Google Go](https://dev.to/akkaraponph/review-coursera-course-programming-with-google-go-2k37)
-- [Okay, so AI is getting weirdly good now.](https://dev.to/mibrahimwali/okay-so-ai-is-getting-weirdly-good-now-kpg)
+- [Beyond RAG: Building an Autonomous &quot;Epistemic Engine&quot; to Fight AI Hallucination](https://dev.to/dinhkhoiminh/beyond-rag-building-an-autonomous-epistemic-engine-to-fight-ai-hallucination-4o2g)
+- [Accelerating Large Language Model Decoding with Speculative Sampling](https://dev.to/paperium/accelerating-large-language-model-decoding-with-speculative-sampling-1p)
+- [🎮 Why Simple Web Games Still Work &lpar;and What I Learned Building One&rpar;](https://dev.to/chiragx309/why-simple-web-games-still-work-and-what-i-learned-building-one-64f)
+- [Windows 11 Lite 2025 Free Download](https://dev.to/galenburpee59/windows-11-lite-2025-free-download-3e1m)
 <!-- BLOG-POST-LIST:END -->
 
 
