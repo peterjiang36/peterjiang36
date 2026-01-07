@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing 500K Push Notifications Before Sending: Firebase Dry-Run for Token Validation](https://dev.to/sangwoo_rhie/testing-500k-push-notifications-before-sending-firebase-dry-run-for-token-validation-3j7o)
-- [Test Your Tests: Does Your Crisis Simulation Match Reality?](https://dev.to/crisiscoresystems/testing-the-testing-validating-that-your-crisis-simulation-actually-matches-reality-6df)
-- [I Didn’t “Become” a Senior Developer. I Accumulated Damage.](https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd)
-- [How to Support Light and Dark Themes in PWA Using Only CSS](https://dev.to/fedtti/how-to-support-light-and-dark-themes-in-pwa-using-only-css-6ca)
+- [Kodkod: Production Backends in Seconds](https://dev.to/sibilsoren/kodkod-production-backends-in-seconds-5eda)
+- [How to Set Up a UPS on macOS 26 Tahoe](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-macos-26-tahoe-a9f)
+- [SASSA Status Check Guide 2025: How to Track Your SRD Grant Step by Step](https://dev.to/maddy_alex_fd59e8de30cde5/sassa-status-check-guide-2025-how-to-track-your-srd-grant-step-by-step-1d89)
+- [JavaScript Snippets: Split &amp; Map](https://dev.to/travisfont/javascript-snippets-split-map-4736)
 <!-- BLOG-POST-LIST:END -->
 
 
