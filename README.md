@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3)
-- [DevRel na prática: meu artigo acadêmico ainda faz sentido em 2026?](https://dev.to/awdren/devrel-na-pratica-meu-artigo-academico-ainda-faz-sentido-em-2026-1j13)
-- [The Service Object Graveyard: Why Your POROs Failed and Handlers Won](https://dev.to/andriybaran/the-service-object-graveyard-why-your-poros-failed-and-handlers-won-2a8j)
-- [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](https://dev.to/pockit_tools/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6)
+- [Welcome Thread - v359](https://dev.to/devteam/welcome-thread-v359-2ala)
+- [Open-Sourcing Your Business Logic: Risk or Opportunity? Lovable&#39;s Case](https://dev.to/y-takashi/open-sourcing-your-business-logic-risk-or-opportunity-lovables-case-3lf5)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 4&rpar;: Displaying Text](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-4-displaying-text-23i5)
+- [Secure your AWS credentials on GitHub Actions with OIDC](https://dev.to/vris_jaijongrak_e051f8cf/secure-your-aws-credentials-on-github-actions-with-oidc-43kd)
 <!-- BLOG-POST-LIST:END -->
 
 
