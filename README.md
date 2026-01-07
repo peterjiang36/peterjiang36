@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Craft and Control Resource Pools on MSSQL](https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci)
-- [SwiftUI #20: Prioridades](https://dev.to/david_goyes_a488f58a17a53/swiftui-20-prioridades-1lka)
-- [Kicking Off 2026: Expert Analysis from the World Cup Stage](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-from-the-world-cup-stage-12ab)
-- [Building a Fast File Transfer Tool, Part 2: Beating rsync by 58% with kTLS](https://dev.to/vincentdu2021/building-a-fast-file-transfer-tool-part-2-beating-rsync-by-58-with-ktls-1hob)
+- [Everyone&#39;s Generating Videos; I Calculated What AI Video Actually Costs in 2026](https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag)
+- [SwiftUI #21: Groups](https://dev.to/david_goyes_a488f58a17a53/swiftui-21-groups-3cma)
+- [Rive Character Animation for Mobile Apps: A Production-Ready Design and State Machine Breakdown](https://dev.to/uianimation/rive-character-animation-for-mobile-apps-a-production-ready-design-and-state-machine-breakdown-5e3m)
+- [AI Trading: Lesson Learned #111: Paper Trading Capital Must Be Realistic](https://dev.to/igorganapolsky/ai-trading-lesson-learned-111-paper-trading-capital-must-be-realistic-l8k)
 <!-- BLOG-POST-LIST:END -->
 
 
