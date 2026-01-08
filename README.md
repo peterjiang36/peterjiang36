@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 5&rpar;: Creating Characters with Classes](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-5-creating-characters-with-classes-4921)
-- [What makes a good tech Meet-up?](https://dev.to/josefine/what-makes-a-good-tech-meet-up-16k9)
-- [Ethereum in 2025 Becomes Global Infrastructure, Vitalik on Decentralization vs UX, L2BEAT on Trustless EIL, EIP-7702 Adoption](https://dev.to/etherspot/ethereum-in-2025-becomes-global-infrastructure-vitalik-on-decentralization-vs-ux-l2beat-on-3ko2)
-- [A Deep Dive into React&#39;s New &lt;Activity&gt; Component](https://dev.to/dikson_samuel_796bcf3d34f/a-deep-dive-into-reacts-new-component-hja)
+- [CinemaSins: Everything Wrong With Austin Powers in Goldmember in 19 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-austin-powers-in-goldmember-in-19-minutes-or-less-15ci)
+- [Why We Ditched Node for Bun in 2026 &lpar;And Why You Should Too&rpar;](https://dev.to/rayenmabrouk/why-we-ditched-node-for-bun-in-2026-and-why-you-should-too-48kg)
+- [Agent Factory Recap: A Deep Dive into Agent Evaluation, Practical Tooling, and Multi-Agent Systems](https://dev.to/googleai/agent-factory-recap-a-deep-dive-into-agent-evaluation-practical-tooling-and-multi-agent-systems-4pbj)
+- [Day 12: Understanding Constructors in Java](https://dev.to/karthick_narayanan/day-12-understanding-constructors-in-java-a3p)
 <!-- BLOG-POST-LIST:END -->
 
 
