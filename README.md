@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
-- [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
-- [Reducing Sentry APM Costs in FastAPI by Sending Only What Matters](https://dev.to/jayakrishnayadav24/reducing-sentry-apm-costs-in-fastapi-by-sending-only-what-matters-2lmm)
-- [Boot Process &amp; Init Systems](https://dev.to/sbkumbar024/boot-process-init-systems-5gd3)
+- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-3747)
+- [title: How I Optimized My AI Image App from 3s to 300ms with Next.js &amp; Supabase](https://dev.to/_1b0775853bf0b80636466b/title-how-i-optimized-my-ai-image-app-from-3s-to-300ms-with-nextjs-supabase-5gj8)
+- [Learning the Foliage Tool in Unreal Engine &lpar;Day 13&rpar;](https://dev.to/dinesh_04/learning-the-foliage-tool-in-unreal-engine-day-13-28p2)
+- [First few days with Codex CLI](https://dev.to/amanhimself/first-few-days-with-codex-cli-3570)
 <!-- BLOG-POST-LIST:END -->
 
 
