@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
-- [Designing for Failure: Building Reliable Crypto-to-Utility Payments with Provider Failover](https://dev.to/easyclick/designing-for-failure-building-reliable-crypto-to-utility-payments-with-provider-failover-3jck)
-- [Ringer Movies: Five Burning Questions About Awards Season &amp; Our Golden Globes Predictions](https://dev.to/popcorn_movies/ringer-movies-five-burning-questions-about-awards-season-our-golden-globes-predictions-566a)
-- [Mr Sunday Movies: The Judge Dredd Duology - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-judge-dredd-duology-caravan-of-garbage-3kdk)
+- [Raku Resolutions](https://dev.to/lizmat/raku-resolutions-17g7)
+- [Why WebAuthn Feels Easy — Until You Try to Ship It](https://dev.to/dqj1998/why-webauthn-feels-easy-until-you-try-to-ship-it-5bi3)
+- [I&#39;m Building a Game Engine in Node.js &lpar;Yes, Really&rpar;](https://dev.to/sfundomhlungu/im-building-a-game-engine-in-nodejs-yes-really-53ka)
+- [Metaclass Polymorphic Crypto: Enhanced Proof of Concept](https://dev.to/hejhdiss/metaclass-polymorphic-crypto-enhanced-proof-of-concept-272p)
 <!-- BLOG-POST-LIST:END -->
 
 
