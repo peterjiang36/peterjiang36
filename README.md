@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
-- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
-- [REST vs GraphQL: Two Philosophies, Two Eras, One Endless Debate](https://dev.to/dbc2201/rest-vs-graphql-two-philosophies-two-eras-one-endless-debate-1i1a)
-- [Day 9 of 100](https://dev.to/palakhirave/day-9-of-100-27aa)
+- [Can AI See Inside Its Own Mind? Anthropic&#39;s Breakthrough in Machine Introspection](https://dev.to/claudiuspapirus/can-ai-see-inside-its-own-mind-anthropics-breakthrough-in-machine-introspection-n66)
+- [Solving CAPTCHAs in 2026: From APIs to AI Vision](https://dev.to/deepak_mishra_35863517037/solving-captchas-in-2026-from-apis-to-ai-vision-5agb)
+- [Valkey vs Redis – Explicación simple y practica](https://dev.to/chainiz/valkey-vs-redis-explicacion-simple-y-practica-lai)
+- [Angular Version 21 Upgrade Example](https://dev.to/lstanikmas/angular-version-21-upgraded-example-3mkb)
 <!-- BLOG-POST-LIST:END -->
 
 
