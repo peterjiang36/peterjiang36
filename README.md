@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What an Early Bus Ride Gave Me Each Morning](https://dev.to/markellisonblogging/what-an-early-bus-ride-gave-me-each-morning-47oi)
-- [Day 11: Understanding `break` and `continue` Statements in Java](https://dev.to/karthick_narayanan/day-11-understanding-break-and-continue-statements-in-java-49in)
-- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 3](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-3-3ili)
-- [I spent my weekends building a no-nonsense hub for browser games and AI tools. no login, just fun.](https://dev.to/_74b45fc44e30bb943d729/i-spent-my-weekends-building-a-no-nonsense-hub-for-browser-games-and-ai-tools-no-login-just-fun-5bm9)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 5&rpar;: Creating Characters with Classes](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-5-creating-characters-with-classes-4921)
+- [What makes a good tech Meet-up?](https://dev.to/josefine/what-makes-a-good-tech-meet-up-16k9)
+- [Ethereum in 2025 Becomes Global Infrastructure, Vitalik on Decentralization vs UX, L2BEAT on Trustless EIL, EIP-7702 Adoption](https://dev.to/etherspot/ethereum-in-2025-becomes-global-infrastructure-vitalik-on-decentralization-vs-ux-l2beat-on-3ko2)
+- [A Deep Dive into React&#39;s New &lt;Activity&gt; Component](https://dev.to/dikson_samuel_796bcf3d34f/a-deep-dive-into-reacts-new-component-hja)
 <!-- BLOG-POST-LIST:END -->
 
 
