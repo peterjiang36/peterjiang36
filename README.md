@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3)
-- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j)
-- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts &lpar;Safely&rpar;](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i)
-- [Atomic Transaction Patterns C#](https://dev.to/akkaraponph/atomic-transaction-patternsc-1a32)
+- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
+- [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
+- [Reducing Sentry APM Costs in FastAPI by Sending Only What Matters](https://dev.to/jayakrishnayadav24/reducing-sentry-apm-costs-in-fastapi-by-sending-only-what-matters-2lmm)
+- [Boot Process &amp; Init Systems](https://dev.to/sbkumbar024/boot-process-init-systems-5gd3)
 <!-- BLOG-POST-LIST:END -->
 
 
