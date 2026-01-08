@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Coding Sessions Fail &lpar;And How to Fix It&rpar;](https://dev.to/steve_harlow_0dbc0e910b6d/why-most-ai-coding-sessions-fail-and-how-to-fix-it-4dn1)
-- [How Claude Code Helped Me Migrate from AWS to DigitalOcean in 4 Hours &lpar;With Live Traffic&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-claude-code-helped-me-migrate-from-aws-to-digitalocean-in-4-hours-with-live-traffic-hmg)
-- [Remote Money Resources &amp; Income Methods 2025 - Complete Guide](https://dev.to/krlz/remote-money-resources-income-methods-2025-complete-guide-3oo4)
-- [A simple and cool CSS animation, new year and good to be back!](https://dev.to/renancferro/a-simple-and-cool-css-animation-new-year-and-good-to-be-back-4mbl)
+- [Best Practices for Training LoRA Models with Z-Image: Complete 2026 Guide](https://dev.to/gary_yan_86eb77d35e0070f5/best-practices-for-training-lora-models-with-z-image-complete-2026-guide-4p7h)
+- [How to Validate Product Ideas Using Reddit and ChatGPT Before Building](https://dev.to/johnbrawner/how-to-validate-product-ideas-using-reddit-and-chatgpt-before-building-4fmp)
+- [Why Your Humble Start is Your Greatest Asset.](https://dev.to/theonly1ty/why-your-humble-start-is-your-greatest-2bng)
+- [If Swagger Works but Your SDK Fails, Your SDK Is Lying](https://dev.to/cuddi/if-swagger-works-but-your-sdk-fails-your-sdk-is-lying-4pjo)
 <!-- BLOG-POST-LIST:END -->
 
 
