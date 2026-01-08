@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone&#39;s Generating Videos; I Calculated What AI Video Actually Costs in 2026](https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag)
-- [SwiftUI #21: Groups](https://dev.to/david_goyes_a488f58a17a53/swiftui-21-groups-3cma)
-- [Rive Character Animation for Mobile Apps: A Production-Ready Design and State Machine Breakdown](https://dev.to/uianimation/rive-character-animation-for-mobile-apps-a-production-ready-design-and-state-machine-breakdown-5e3m)
-- [AI Trading: Lesson Learned #111: Paper Trading Capital Must Be Realistic](https://dev.to/igorganapolsky/ai-trading-lesson-learned-111-paper-trading-capital-must-be-realistic-l8k)
+- [The Ultimate Guide to Terraform Drift Detection: How to Detect, Prevent, and Remediate Infrastructure Drift](https://dev.to/env0/the-ultimate-guide-to-terraform-drift-detection-how-to-detect-prevent-and-remediate-5hji)
+- [From Pixels to Calories: Building a Multimodal Meal Analysis Engine with GPT-4o](https://dev.to/beck_moulton/from-pixels-to-calories-building-a-multimodal-meal-analysis-engine-with-gpt-4o-107)
+- [Protecting an EC2 hosted web application with AWS WAF in practice](https://dev.to/geovane_oliveira/protecting-an-ec2-hosted-web-application-with-aws-waf-in-practice-3mb)
+- [Fast Transformer Decoding: One Write-Head is All You Need](https://dev.to/paperium/fast-transformer-decoding-one-write-head-is-all-you-need-596b)
 <!-- BLOG-POST-LIST:END -->
 
 
