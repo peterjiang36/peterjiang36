@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Training LoRA Models with Z-Image: Complete 2026 Guide](https://dev.to/gary_yan_86eb77d35e0070f5/best-practices-for-training-lora-models-with-z-image-complete-2026-guide-4p7h)
-- [How to Validate Product Ideas Using Reddit and ChatGPT Before Building](https://dev.to/johnbrawner/how-to-validate-product-ideas-using-reddit-and-chatgpt-before-building-4fmp)
-- [Why Your Humble Start is Your Greatest Asset.](https://dev.to/theonly1ty/why-your-humble-start-is-your-greatest-2bng)
-- [If Swagger Works but Your SDK Fails, Your SDK Is Lying](https://dev.to/cuddi/if-swagger-works-but-your-sdk-fails-your-sdk-is-lying-4pjo)
+- [From O&lpar;n &rpar; to O&lpar;n&rpar;: Building a Streaming Markdown Renderer for the AI Era](https://dev.to/kingshuaishuai/from-on2-to-on-building-a-streaming-markdown-renderer-for-the-ai-era-3k0f)
+- [Apache Airflow: Complete Guide for Intermediate to Advanced Developers](https://dev.to/datatechbridge/apache-airflow-complete-guide-for-intermediate-to-advanced-developers-263p)
+- [A file-based agent memory framework](https://dev.to/memu_ai/a-file-based-agent-memory-framework-40fm)
+- [The Secret Life of Python: The Dangerous Reflection](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-dangerous-reflection-2oom)
 <!-- BLOG-POST-LIST:END -->
 
 
