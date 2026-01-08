@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Terraform Drift Detection: How to Detect, Prevent, and Remediate Infrastructure Drift](https://dev.to/env0/the-ultimate-guide-to-terraform-drift-detection-how-to-detect-prevent-and-remediate-5hji)
-- [From Pixels to Calories: Building a Multimodal Meal Analysis Engine with GPT-4o](https://dev.to/beck_moulton/from-pixels-to-calories-building-a-multimodal-meal-analysis-engine-with-gpt-4o-107)
-- [Protecting an EC2 hosted web application with AWS WAF in practice](https://dev.to/geovane_oliveira/protecting-an-ec2-hosted-web-application-with-aws-waf-in-practice-3mb)
-- [Fast Transformer Decoding: One Write-Head is All You Need](https://dev.to/paperium/fast-transformer-decoding-one-write-head-is-all-you-need-596b)
+- [Why Most AI Coding Sessions Fail &lpar;And How to Fix It&rpar;](https://dev.to/steve_harlow_0dbc0e910b6d/why-most-ai-coding-sessions-fail-and-how-to-fix-it-4dn1)
+- [How Claude Code Helped Me Migrate from AWS to DigitalOcean in 4 Hours &lpar;With Live Traffic&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-claude-code-helped-me-migrate-from-aws-to-digitalocean-in-4-hours-with-live-traffic-hmg)
+- [Remote Money Resources &amp; Income Methods 2025 - Complete Guide](https://dev.to/krlz/remote-money-resources-income-methods-2025-complete-guide-3oo4)
+- [A simple and cool CSS animation, new year and good to be back!](https://dev.to/renancferro/a-simple-and-cool-css-animation-new-year-and-good-to-be-back-4mbl)
 <!-- BLOG-POST-LIST:END -->
 
 
