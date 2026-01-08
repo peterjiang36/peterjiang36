@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memoization in React: Or How I Thought I Optimized My App &lpar;But Mostly Just Felt Productive&rpar;](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72)
-- [Building domharvest-playwright: Why I Chose Simplicity Over Complexity](https://dev.to/domharvest/building-domharvest-playwright-why-i-chose-simplicity-over-complexity-5f3g)
-- [Congrats to the AI Agents Intensive Course Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969)
-- [Building a performative React Native app](https://dev.to/ponikar/building-a-performative-react-native-app-3klh)
+- [I Built an AI-Powered Trend Analysis Tool Using the Virlo API &lpar;Here&#39;s How It Works&rpar;](https://dev.to/arjuncodess/i-built-an-ai-powered-trend-analysis-tool-using-the-virlo-api-heres-how-it-works-3d4b)
+- [GTK4 DropDown with .NET](https://dev.to/kashifsoofi/gtk4-dropdown-with-net-1pca)
+- [Tailwind CSS Lays Off 75% of Engineering Team as AI Tools Disrupt Revenue Model](https://dev.to/kniraj/tailwind-css-lays-off-75-of-engineering-team-as-ai-tools-disrupt-revenue-model-1l3d)
+- [How to Add Comments to a Flutter App Without a Backend](https://dev.to/gvl_cloud/how-to-add-comments-to-a-flutter-app-without-a-backend-3gmk)
 <!-- BLOG-POST-LIST:END -->
 
 
