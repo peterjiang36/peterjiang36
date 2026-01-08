@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 in retrospective](https://dev.to/nfrankel/2025-in-retrospective-af9)
-- [Head and Footer](https://dev.to/richardpascoe/head-and-footer-3740)
-- [How To Replace Over-Complicated NgRx Stores With Angular Signals — Without Losing Control](https://dev.to/karol_modelski/how-to-replace-over-complicated-ngrx-stores-with-angular-signals-without-losing-control-1ia1)
-- [Optimizing Core Web Vitals for Large E-Commerce Catalogs Without Rewriting the Stack](https://dev.to/ar_abid_641aa302d5c68b2ae/optimizing-core-web-vitals-for-large-e-commerce-catalogs-without-rewriting-the-stack-1fg9)
+- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
+- [How to Monitor Amazon EKS Using Prometheus and Grafana &lpar;Without Helm&rpar;](https://dev.to/dinesh_kumar_302/how-to-monitor-amazon-eks-using-prometheus-and-grafana-without-helm-10fb)
+- [QuantDinger: An open-source local quantitative trading platform.](https://dev.to/yuhang_chen_969a8b10adae9/quantdinger-an-open-source-local-quantitative-trading-platform-25fa)
+- [Top 10 Emerging Developer Tools to Watch in 2026](https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b)
 <!-- BLOG-POST-LIST:END -->
 
 
