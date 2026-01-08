@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can AI See Inside Its Own Mind? Anthropic&#39;s Breakthrough in Machine Introspection](https://dev.to/claudiuspapirus/can-ai-see-inside-its-own-mind-anthropics-breakthrough-in-machine-introspection-n66)
-- [Solving CAPTCHAs in 2026: From APIs to AI Vision](https://dev.to/deepak_mishra_35863517037/solving-captchas-in-2026-from-apis-to-ai-vision-5agb)
-- [Valkey vs Redis – Explicación simple y practica](https://dev.to/chainiz/valkey-vs-redis-explicacion-simple-y-practica-lai)
-- [Angular Version 21 Upgrade Example](https://dev.to/lstanikmas/angular-version-21-upgraded-example-3mkb)
+- [Deploy: Cenário: Azure App Service + Github + SQL Server](https://dev.to/yuripeixinho/deploy-cenario-azure-app-service-github-sql-server-2b0d)
+- [Introdução ao deploy](https://dev.to/yuripeixinho/introducao-ao-deploy-2a07)
+- [Construyendo un extractor de audio &lpar;YouTube MP3&rpar; con FastAPI, yt-dlp y ffmpeg](https://dev.to/whario/construyendo-un-extractor-de-audio-youtube-mp3-con-fastapi-yt-dlp-y-ffmpeg-47n4)
+- [2026-01-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-08-daily-ai-news-jaf)
 <!-- BLOG-POST-LIST:END -->
 
 
