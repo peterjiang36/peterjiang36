@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
-- [Open Sourcing FortyOne: Agentic Project Management With an AI Teammate](https://dev.to/josemukorivo/open-sourcing-fortyone-agentic-project-management-with-an-ai-teammate-3ioi)
-- [Building Auth Validation: 5 Lessons on Making Error Messages Actually Helpful](https://dev.to/y-takashi/building-auth-validation-5-lessons-on-making-error-messages-actually-helpful-32e2)
-- [AI Can Write Code. But &quot;Trying Things Out&quot; Still Feels Scary](https://dev.to/y-takashi/ai-can-write-code-but-trying-things-out-still-feels-scary-543f)
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
+- [Designing for Failure: Building Reliable Crypto-to-Utility Payments with Provider Failover](https://dev.to/easyclick/designing-for-failure-building-reliable-crypto-to-utility-payments-with-provider-failover-3jck)
+- [Ringer Movies: Five Burning Questions About Awards Season &amp; Our Golden Globes Predictions](https://dev.to/popcorn_movies/ringer-movies-five-burning-questions-about-awards-season-our-golden-globes-predictions-566a)
+- [Mr Sunday Movies: The Judge Dredd Duology - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-judge-dredd-duology-caravan-of-garbage-3kdk)
 <!-- BLOG-POST-LIST:END -->
 
 
