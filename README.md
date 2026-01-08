@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raku Resolutions](https://dev.to/lizmat/raku-resolutions-17g7)
-- [Why WebAuthn Feels Easy — Until You Try to Ship It](https://dev.to/dqj1998/why-webauthn-feels-easy-until-you-try-to-ship-it-5bi3)
-- [I&#39;m Building a Game Engine in Node.js &lpar;Yes, Really&rpar;](https://dev.to/sfundomhlungu/im-building-a-game-engine-in-nodejs-yes-really-53ka)
-- [Metaclass Polymorphic Crypto: Enhanced Proof of Concept](https://dev.to/hejhdiss/metaclass-polymorphic-crypto-enhanced-proof-of-concept-272p)
+- [What an Early Bus Ride Gave Me Each Morning](https://dev.to/markellisonblogging/what-an-early-bus-ride-gave-me-each-morning-47oi)
+- [Day 11: Understanding `break` and `continue` Statements in Java](https://dev.to/karthick_narayanan/day-11-understanding-break-and-continue-statements-in-java-49in)
+- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 3](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-3-3ili)
+- [I spent my weekends building a no-nonsense hub for browser games and AI tools. no login, just fun.](https://dev.to/_74b45fc44e30bb943d729/i-spent-my-weekends-building-a-no-nonsense-hub-for-browser-games-and-ai-tools-no-login-just-fun-5bm9)
 <!-- BLOG-POST-LIST:END -->
 
 
