@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From O&lpar;n &rpar; to O&lpar;n&rpar;: Building a Streaming Markdown Renderer for the AI Era](https://dev.to/kingshuaishuai/from-on2-to-on-building-a-streaming-markdown-renderer-for-the-ai-era-3k0f)
-- [Apache Airflow: Complete Guide for Intermediate to Advanced Developers](https://dev.to/datatechbridge/apache-airflow-complete-guide-for-intermediate-to-advanced-developers-263p)
-- [A file-based agent memory framework](https://dev.to/memu_ai/a-file-based-agent-memory-framework-40fm)
-- [The Secret Life of Python: The Dangerous Reflection](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-dangerous-reflection-2oom)
+- [NodeJS 101 —  Part 4 🔐 Authorization with JWT](https://dev.to/akkaraponph/nodejs-101-part-4-authorization-with-jwt-oen)
+- [NodeJS 101 — Part 3 MySQL + Sequelize](https://dev.to/akkaraponph/nodejs-101-part-3-mysql-sequelize-2llj)
+- [Procedural Programming vs Object-Oriented Programming &lpar;OOP&rpar;: Which One Is Better for Programmers?](https://dev.to/farhadrahimiklie/procedural-programming-vs-object-oriented-programming-oop-which-one-is-better-for-programmers-4c9e)
+- [NodeJS 101 —  Part 2 MySQL](https://dev.to/akkaraponph/basic-nodejs-part-2-mysql-lfd)
 <!-- BLOG-POST-LIST:END -->
 
 
