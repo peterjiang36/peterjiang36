@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
-- [How to Monitor Amazon EKS Using Prometheus and Grafana &lpar;Without Helm&rpar;](https://dev.to/dinesh_kumar_302/how-to-monitor-amazon-eks-using-prometheus-and-grafana-without-helm-10fb)
-- [QuantDinger: An open-source local quantitative trading platform.](https://dev.to/yuhang_chen_969a8b10adae9/quantdinger-an-open-source-local-quantitative-trading-platform-25fa)
-- [Top 10 Emerging Developer Tools to Watch in 2026](https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b)
+- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
+- [Open Sourcing FortyOne: Agentic Project Management With an AI Teammate](https://dev.to/josemukorivo/open-sourcing-fortyone-agentic-project-management-with-an-ai-teammate-3ioi)
+- [Building Auth Validation: 5 Lessons on Making Error Messages Actually Helpful](https://dev.to/y-takashi/building-auth-validation-5-lessons-on-making-error-messages-actually-helpful-32e2)
+- [AI Can Write Code. But &quot;Trying Things Out&quot; Still Feels Scary](https://dev.to/y-takashi/ai-can-write-code-but-trying-things-out-still-feels-scary-543f)
 <!-- BLOG-POST-LIST:END -->
 
 
