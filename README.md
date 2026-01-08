@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
-- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
-- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
-- [How I Built My Own Linux Command Using Python &lpar;Beginner-Friendly, Real-World&rpar;](https://dev.to/jayakrishnayadav24/how-i-built-my-own-linux-command-using-python-beginner-friendly-real-world-p1n)
+- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3)
+- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j)
+- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts &lpar;Safely&rpar;](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i)
+- [Atomic Transaction Patterns C#](https://dev.to/akkaraponph/atomic-transaction-patternsc-1a32)
 <!-- BLOG-POST-LIST:END -->
 
 
