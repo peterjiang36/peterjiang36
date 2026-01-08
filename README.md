@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure OpenAI&#39;s Content Filter: When Safety Theater Blocks Real Work](https://dev.to/javimaligno/azure-openais-content-filter-when-safety-theater-blocks-real-work-4kf6)
-- [LLMs are like Humans - They make mistakes. Here is how we limit them with Guardrails](https://dev.to/alifunk/llms-are-like-humans-they-make-mistakes-here-is-how-we-limit-them-with-guardrails-24dj)
-- [Scaling Development with Parallel AI Agents](https://dev.to/javimaligno/scaling-development-with-parallel-ai-agents-3lp)
-- [TypeScript for AI Agents: From Friction to Flow with Sub-Agents](https://dev.to/javimaligno/typescript-for-ai-agents-from-friction-to-flow-with-sub-agents-3gi0)
+- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
+- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
+- [REST vs GraphQL: Two Philosophies, Two Eras, One Endless Debate](https://dev.to/dbc2201/rest-vs-graphql-two-philosophies-two-eras-one-endless-debate-1i1a)
+- [Day 9 of 100](https://dev.to/palakhirave/day-9-of-100-27aa)
 <!-- BLOG-POST-LIST:END -->
 
 
