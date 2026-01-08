@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-3747)
-- [title: How I Optimized My AI Image App from 3s to 300ms with Next.js &amp; Supabase](https://dev.to/_1b0775853bf0b80636466b/title-how-i-optimized-my-ai-image-app-from-3s-to-300ms-with-nextjs-supabase-5gj8)
-- [Learning the Foliage Tool in Unreal Engine &lpar;Day 13&rpar;](https://dev.to/dinesh_04/learning-the-foliage-tool-in-unreal-engine-day-13-28p2)
-- [First few days with Codex CLI](https://dev.to/amanhimself/first-few-days-with-codex-cli-3570)
+- [2025 in retrospective](https://dev.to/nfrankel/2025-in-retrospective-af9)
+- [Head and Footer](https://dev.to/richardpascoe/head-and-footer-3740)
+- [How To Replace Over-Complicated NgRx Stores With Angular Signals — Without Losing Control](https://dev.to/karol_modelski/how-to-replace-over-complicated-ngrx-stores-with-angular-signals-without-losing-control-1ia1)
+- [Optimizing Core Web Vitals for Large E-Commerce Catalogs Without Rewriting the Stack](https://dev.to/ar_abid_641aa302d5c68b2ae/optimizing-core-web-vitals-for-large-e-commerce-catalogs-without-rewriting-the-stack-1fg9)
 <!-- BLOG-POST-LIST:END -->
 
 
