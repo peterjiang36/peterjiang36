@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate AI Diet Agent: Syncing Real-Time Health Data with Local Supermarket Inventory using CrewAI](https://dev.to/beck_moulton/the-ultimate-ai-diet-agent-syncing-real-time-health-data-with-local-supermarket-inventory-using-4400)
-- [CompTIA Security+ SY0-701 1.2 Study Guide: Core Security Concepts](https://dev.to/andrew_despres/comptia-security-sy0-701-12-study-guide-core-security-concepts-19bg)
-- [Learning SQL Subqueries as a Beginner: What Made Sense and What Didn’t](https://dev.to/mazinocodes/learning-sql-subqueries-as-a-beginner-what-made-sense-and-what-didnt-5a0p)
-- [The Ralf Wiggum Breakdown](https://dev.to/ibrahimpima/the-ralf-wiggum-breakdown-3mko)
+- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-27ko)
+- [The Secret Life of Python: The Matryoshka Trap](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-matryoshka-trap-4p14)
+- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-3hnm)
+- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-594i)
 <!-- BLOG-POST-LIST:END -->
 
 
