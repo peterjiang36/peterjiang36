@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
-- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
-- [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
-- [Mitigating Human-Driven AI Misuse in Generative Systems](https://dev.to/shravani_86c94d4b283541f3/mitigating-human-driven-ai-misuse-in-generative-systems-2j1o)
+- [If you could recommend only one book, what would it be and why? 📚](https://dev.to/imasystemengineer/if-you-could-recommend-only-one-book-what-would-it-be-and-why-37i7)
+- [How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc)
+- [Mastering the Art of Analyzing and Visualizing Data in Looker](https://dev.to/tech_croc_f32fbb6ea8ed4/mastering-the-art-of-analyzing-and-visualizing-data-in-looker-2n5k)
+- [Build a ChatGPT App with Mapbox](https://dev.to/mapbox/build-a-chatgpt-app-with-mapbox-dca)
 <!-- BLOG-POST-LIST:END -->
 
 
