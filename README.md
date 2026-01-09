@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
-- [🚀 My Journey into Data Science as a Student](https://dev.to/rc18/my-journey-into-data-science-as-a-student-6e)
-- [digital marketing](https://dev.to/junaid_rana_8d7c910ac89b7/digital-marketing-260j)
-- [Two Pointers &lpar;Opposite Ends&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-opposite-ends-40na)
+- [Stop Writing Srcset Manually: The Ultimate Image Solution for Symfony](https://dev.to/jozef_mstka_2e5c025a9378/stop-writing-srcset-manually-the-ultimate-image-solution-for-symfony-59cn)
+- [🚀 Build, Push, and Deploy a Python App image to Cloud Run Using Google Cloud Build Triggers](https://dev.to/latchudevops/build-push-and-deploy-a-python-app-image-to-cloud-run-using-google-cloud-build-triggers-2hk6)
+- [Shader: AI-Powered Tailwind Palette Generator](https://dev.to/micobarac/shader-ai-powered-tailwind-palette-generator-5c05)
+- [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
 <!-- BLOG-POST-LIST:END -->
 
 
