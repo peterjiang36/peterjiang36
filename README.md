@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vertical AI over generic tools: a quick observation from real estate tech](https://dev.to/roy_kim_16d74f851dcb4f676/vertical-ai-over-generic-tools-a-quick-observation-from-real-estate-tech-5agk)
-- [CandleView-An AI-driven financial time-series data visualization and rendering engine.](https://dev.to/boy_happy_672ac2dd9c29118/candleview-an-ai-driven-financial-time-series-data-visualization-and-rendering-engine-2cj0)
-- [Chatbot Sentiment Tracking: Analyze Customer Emotions](https://dev.to/chatboqai/chatbot-sentiment-tracking-analyze-customer-emotions-eji)
-- [Lessons Learned Building a Social Product in India](https://dev.to/lukoon_lukoon_688130dadc5/lessons-learned-building-a-social-product-in-india-3396)
+- [Silent Spend Tracker – A Non-Conversational Agent for Automatic Daily Expense Totals](https://dev.to/venkatesh_prasanna_d/silent-spend-tracker-a-non-conversational-agent-for-automatic-daily-expense-totals-5h43)
+- [How to Create Memory-Efficient Software: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/how-to-create-memory-efficient-software-a-practical-guide-for-developers-e5e)
+- [Prompt Engineering Won’t Fix Your Architecture](https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h)
+- [Day 6 – Build a Fixed Transport Route &amp; Fare Reference System in Python](https://dev.to/kinspirecyber/day-6-build-a-fixed-transport-route-fare-reference-system-in-python-19p5)
 <!-- BLOG-POST-LIST:END -->
 
 
