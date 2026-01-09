@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you could recommend only one book, what would it be and why? 📚](https://dev.to/imasystemengineer/if-you-could-recommend-only-one-book-what-would-it-be-and-why-37i7)
-- [How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc)
-- [Mastering the Art of Analyzing and Visualizing Data in Looker](https://dev.to/tech_croc_f32fbb6ea8ed4/mastering-the-art-of-analyzing-and-visualizing-data-in-looker-2n5k)
-- [Build a ChatGPT App with Mapbox](https://dev.to/mapbox/build-a-chatgpt-app-with-mapbox-dca)
+- [I&#39;m challenging myself to build 1 tool / mini startup a week this year. 52 tools](https://dev.to/ido_cohen_ba84f26f76772ca/im-challenging-myself-to-build-1-tool-mini-startup-a-week-this-year-52-tools-5d1f)
+- [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
+- [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
+- [Cool Article on API Tools!!
+
+https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
 <!-- BLOG-POST-LIST:END -->
 
 
