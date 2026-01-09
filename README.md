@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “Busywork” Kills Creativity When I’m Just Trying to Experiment](https://dev.to/tancannon2003/why-busywork-kills-creativity-when-im-just-trying-to-experiment-bkn)
-- [pnpm vs npm vs yarn vs Bun: The 2026 Package Manager Showdown](https://dev.to/pockit_tools/pnpm-vs-npm-vs-yarn-vs-bun-the-2026-package-manager-showdown-51dc)
-- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
-- [📊 2026-01-09 - Daily Intelligence Recap - Top 9 Signals](https://dev.to/jose_marquez_alberti/2026-01-09-daily-intelligence-recap-top-9-signals-d7h)
+- [I build a small website to challenge people&#39;s CSS skill!](https://dev.to/anson_sun_9ffc869bd8e3c53/i-build-a-small-website-to-challenge-peoples-css-skill-13o5)
+- [We’ve been shipping &quot;slop&quot; for 20 years. We just used to call it an MVP.](https://dev.to/getpochi/weve-been-shipping-slop-for-20-years-we-just-used-to-call-it-an-mvp-hn6)
+- [Why most businesses don’t actually need a “unique” backend](https://dev.to/oneentry/why-most-businesses-dont-actually-need-a-unique-backend-4j4m)
+- [y509: A terminal user interface &lpar;TUI&rpar; tool for viewing and analyzing X.509 certificate chains](https://dev.to/kanywst/y509-a-terminal-user-interface-tui-tool-for-viewing-and-analyzing-x509-certificate-chains-5fn6)
 <!-- BLOG-POST-LIST:END -->
 
 
