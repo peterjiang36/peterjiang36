@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-27ko)
-- [The Secret Life of Python: The Matryoshka Trap](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-matryoshka-trap-4p14)
-- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-3hnm)
-- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-594i)
+- [VS Code&#39;s Unhinged Malware Problem: What Microsoft’s Own Logs Reveal](https://dev.to/ishaan_agrawal/vs-codes-unhinged-malware-problem-what-microsofts-own-logs-reveal-5e1p)
+- [Mastering AWS Well Architecture Framework](https://dev.to/dagolovach/mastering-aws-well-architecture-framework-3581)
+- [Beat Block Is Dead: How I’m Using an AI MIDI Generator to Unlock New Ideas](https://dev.to/nano_a01924c85131687207c2/beat-block-is-dead-how-im-using-an-ai-midi-generator-to-unlock-new-ideas-4m25)
+- [When Upfront Paywalls Work—and When They Hurt Conversion](https://dev.to/paywallpro/when-upfront-paywalls-work-and-when-they-hurt-conversion-54k1)
 <!-- BLOG-POST-LIST:END -->
 
 
