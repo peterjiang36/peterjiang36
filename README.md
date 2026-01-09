@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Srcset Manually: The Ultimate Image Solution for Symfony](https://dev.to/jozef_mstka_2e5c025a9378/stop-writing-srcset-manually-the-ultimate-image-solution-for-symfony-59cn)
-- [🚀 Build, Push, and Deploy a Python App image to Cloud Run Using Google Cloud Build Triggers](https://dev.to/latchudevops/build-push-and-deploy-a-python-app-image-to-cloud-run-using-google-cloud-build-triggers-2hk6)
-- [Shader: AI-Powered Tailwind Palette Generator](https://dev.to/micobarac/shader-ai-powered-tailwind-palette-generator-5c05)
-- [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
+- [I Reviewed 50 Junior Developer Resumes — Here’s What Actually Works](https://dev.to/resumemind/i-reviewed-50-junior-developer-resumes-heres-what-actually-works-4njf)
+- [JAVA INTERNALS: JDK, JRE, JVM, and JIT!](https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp)
+- [Italian Pasta in Brampton](https://dev.to/fanzorellis/italian-pasta-in-brampton-4olp)
+- [Free Resume Bullet Rewriter &lpar;Impact-Focused&rpar;](https://dev.to/creatoros/free-resume-bullet-rewriter-impact-focused-3b35)
 <!-- BLOG-POST-LIST:END -->
 
 
