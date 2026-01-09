@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Silent Spend Tracker – A Non-Conversational Agent for Automatic Daily Expense Totals](https://dev.to/venkatesh_prasanna_d/silent-spend-tracker-a-non-conversational-agent-for-automatic-daily-expense-totals-5h43)
-- [How to Create Memory-Efficient Software: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/how-to-create-memory-efficient-software-a-practical-guide-for-developers-e5e)
-- [Prompt Engineering Won’t Fix Your Architecture](https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h)
-- [Day 6 – Build a Fixed Transport Route &amp; Fare Reference System in Python](https://dev.to/kinspirecyber/day-6-build-a-fixed-transport-route-fare-reference-system-in-python-19p5)
+- [Computed Fields Causing Infinite Recomputations&lpar;Odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputationsodoo-4ck5)
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
+- [From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026](https://dev.to/apnews/from-morgan-stanley-to-mica-the-technical-reconstruction-of-institutional-crypto-infrastructure-in-3bjj)
+- [The Missing Piece in AI Agents: Continual Learning](https://dev.to/a_shokn/the-missing-piece-in-ai-agents-continual-learning-4i9j)
 <!-- BLOG-POST-LIST:END -->
 
 
