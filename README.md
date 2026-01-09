@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy: Cenário: Azure App Service + Github + SQL Server](https://dev.to/yuripeixinho/deploy-cenario-azure-app-service-github-sql-server-2b0d)
-- [Introdução ao deploy](https://dev.to/yuripeixinho/introducao-ao-deploy-2a07)
-- [Construyendo un extractor de audio &lpar;YouTube MP3&rpar; con FastAPI, yt-dlp y ffmpeg](https://dev.to/whario/construyendo-un-extractor-de-audio-youtube-mp3-con-fastapi-yt-dlp-y-ffmpeg-47n4)
-- [2026-01-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-08-daily-ai-news-jaf)
+- [The Ultimate AI Diet Agent: Syncing Real-Time Health Data with Local Supermarket Inventory using CrewAI](https://dev.to/beck_moulton/the-ultimate-ai-diet-agent-syncing-real-time-health-data-with-local-supermarket-inventory-using-4400)
+- [CompTIA Security+ SY0-701 1.2 Study Guide: Core Security Concepts](https://dev.to/andrew_despres/comptia-security-sy0-701-12-study-guide-core-security-concepts-19bg)
+- [Learning SQL Subqueries as a Beginner: What Made Sense and What Didn’t](https://dev.to/mazinocodes/learning-sql-subqueries-as-a-beginner-what-made-sense-and-what-didnt-5a0p)
+- [The Ralf Wiggum Breakdown](https://dev.to/ibrahimpima/the-ralf-wiggum-breakdown-3mko)
 <!-- BLOG-POST-LIST:END -->
 
 
