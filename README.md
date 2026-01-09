@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Reviewed 50 Junior Developer Resumes — Here’s What Actually Works](https://dev.to/resumemind/i-reviewed-50-junior-developer-resumes-heres-what-actually-works-4njf)
-- [JAVA INTERNALS: JDK, JRE, JVM, and JIT!](https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp)
-- [Italian Pasta in Brampton](https://dev.to/fanzorellis/italian-pasta-in-brampton-4olp)
-- [Free Resume Bullet Rewriter &lpar;Impact-Focused&rpar;](https://dev.to/creatoros/free-resume-bullet-rewriter-impact-focused-3b35)
+- [Why “Busywork” Kills Creativity When I’m Just Trying to Experiment](https://dev.to/tancannon2003/why-busywork-kills-creativity-when-im-just-trying-to-experiment-bkn)
+- [pnpm vs npm vs yarn vs Bun: The 2026 Package Manager Showdown](https://dev.to/pockit_tools/pnpm-vs-npm-vs-yarn-vs-bun-the-2026-package-manager-showdown-51dc)
+- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
+- [📊 2026-01-09 - Daily Intelligence Recap - Top 9 Signals](https://dev.to/jose_marquez_alberti/2026-01-09-daily-intelligence-recap-top-9-signals-d7h)
 <!-- BLOG-POST-LIST:END -->
 
 
