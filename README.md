@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I build a small website to challenge people&#39;s CSS skill!](https://dev.to/anson_sun_9ffc869bd8e3c53/i-build-a-small-website-to-challenge-peoples-css-skill-13o5)
-- [We’ve been shipping &quot;slop&quot; for 20 years. We just used to call it an MVP.](https://dev.to/getpochi/weve-been-shipping-slop-for-20-years-we-just-used-to-call-it-an-mvp-hn6)
-- [Why most businesses don’t actually need a “unique” backend](https://dev.to/oneentry/why-most-businesses-dont-actually-need-a-unique-backend-4j4m)
-- [y509: A terminal user interface &lpar;TUI&rpar; tool for viewing and analyzing X.509 certificate chains](https://dev.to/kanywst/y509-a-terminal-user-interface-tui-tool-for-viewing-and-analyzing-x509-certificate-chains-5fn6)
+- [How to Deploy Alpaca’s MCP Server Remotely On Claude Mobile App](https://dev.to/alpaca/how-to-deploy-alpacas-mcp-server-remotely-on-claude-mobile-app-4im0)
+- [Built a Netflix Clone](https://dev.to/bibashmanjusubedi/built-a-netflix-clone-4k3o)
+- [🧠 I No Longer See Software as “Just Software”](https://dev.to/fadydesokysaeedabdelaziz/i-no-longer-see-software-as-just-software-2765)
+- [Your Model Choice Doesn&#39;t Matter Nearly as Much as You Think...And That&#39;s Actually Good News](https://dev.to/andreagriffiths11/your-model-choice-doesnt-matter-nearly-as-much-as-you-thinkand-thats-actually-good-news-20l8)
 <!-- BLOG-POST-LIST:END -->
 
 
