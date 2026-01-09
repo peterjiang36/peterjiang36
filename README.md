@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code&#39;s Unhinged Malware Problem: What Microsoft’s Own Logs Reveal](https://dev.to/ishaan_agrawal/vs-codes-unhinged-malware-problem-what-microsofts-own-logs-reveal-5e1p)
-- [Mastering AWS Well Architecture Framework](https://dev.to/dagolovach/mastering-aws-well-architecture-framework-3581)
-- [Beat Block Is Dead: How I’m Using an AI MIDI Generator to Unlock New Ideas](https://dev.to/nano_a01924c85131687207c2/beat-block-is-dead-how-im-using-an-ai-midi-generator-to-unlock-new-ideas-4m25)
-- [When Upfront Paywalls Work—and When They Hurt Conversion](https://dev.to/paywallpro/when-upfront-paywalls-work-and-when-they-hurt-conversion-54k1)
+- [Vertical AI over generic tools: a quick observation from real estate tech](https://dev.to/roy_kim_16d74f851dcb4f676/vertical-ai-over-generic-tools-a-quick-observation-from-real-estate-tech-5agk)
+- [CandleView-An AI-driven financial time-series data visualization and rendering engine.](https://dev.to/boy_happy_672ac2dd9c29118/candleview-an-ai-driven-financial-time-series-data-visualization-and-rendering-engine-2cj0)
+- [Chatbot Sentiment Tracking: Analyze Customer Emotions](https://dev.to/chatboqai/chatbot-sentiment-tracking-analyze-customer-emotions-eji)
+- [Lessons Learned Building a Social Product in India](https://dev.to/lukoon_lukoon_688130dadc5/lessons-learned-building-a-social-product-in-india-3396)
 <!-- BLOG-POST-LIST:END -->
 
 
