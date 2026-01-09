@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
-- [Angular Signal Forms: How to Structure Large Forms Without Losing Your Mind](https://dev.to/brianmtreese/angular-signal-forms-how-to-structure-large-forms-without-losing-your-mind-5af)
-- [Creating Materials in Unreal Engine 5 and Understanding ORM Textures &lpar;Day 14&rpar;](https://dev.to/dinesh_04/creating-materials-in-unreal-engine-5-and-understanding-orm-textures-day-14-11mb)
-- [EventBus](https://dev.to/zawhtutwin/eventbus-2n81)
+- [How to Prepare for a Certification in any Tech Career](https://dev.to/kwan/how-to-prepare-for-a-certification-in-any-tech-career-21lh)
+- [How LED Display Control Software Works: A Developer’s Guide](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/how-led-display-control-software-works-a-developers-guide-lii)
+- [🚀 Migrating a Large-Scale Monorepo from Next.js 14 to 16: A Real-World Journey](https://dev.to/abhilashlr/migrating-a-large-scale-monorepo-from-nextjs-14-to-16-a-real-world-journey-5383)
+- [Laid Off on the First Workday of the Year—and What Came Next](https://dev.to/miracool/laid-off-on-the-first-workday-of-the-year-and-what-came-next-gii)
 <!-- BLOG-POST-LIST:END -->
 
 
