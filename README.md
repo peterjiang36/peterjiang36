@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Properly Deprecate API Endpoints in Laravel](https://dev.to/bhaidar/how-to-properly-deprecate-api-endpoints-in-laravel-2dp6)
-- [تحويل الأفكار إلى حقيقة: كيف تبني وحدات ذكاء اصطناعي مع LangChain و FastAPI و Sevalla](https://dev.to/mohamedshabanai/thwyl-lfkr-l-hqyq-kyf-tbny-whdt-dhk-stny-m-langchain-w-fastapi-w-sevalla-g1l)
-- [Kubernetes and it&#39;s Architecture](https://dev.to/anushree_gm/kubernetes-and-its-architecture-46jo)
-- [Building a Kiro Power for AWS Amplify Gen 2](https://dev.to/aws-builders/building-a-kiro-power-for-aws-amplify-gen-2-54gk)
+- [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
+- [🚀 My Journey into Data Science as a Student](https://dev.to/rc18/my-journey-into-data-science-as-a-student-6e)
+- [digital marketing](https://dev.to/junaid_rana_8d7c910ac89b7/digital-marketing-260j)
+- [Two Pointers &lpar;Opposite Ends&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-opposite-ends-40na)
 <!-- BLOG-POST-LIST:END -->
 
 
