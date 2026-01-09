@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for a Certification in any Tech Career](https://dev.to/kwan/how-to-prepare-for-a-certification-in-any-tech-career-21lh)
-- [How LED Display Control Software Works: A Developer’s Guide](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/how-led-display-control-software-works-a-developers-guide-lii)
-- [🚀 Migrating a Large-Scale Monorepo from Next.js 14 to 16: A Real-World Journey](https://dev.to/abhilashlr/migrating-a-large-scale-monorepo-from-nextjs-14-to-16-a-real-world-journey-5383)
-- [Laid Off on the First Workday of the Year—and What Came Next](https://dev.to/miracool/laid-off-on-the-first-workday-of-the-year-and-what-came-next-gii)
+- [How to Properly Deprecate API Endpoints in Laravel](https://dev.to/bhaidar/how-to-properly-deprecate-api-endpoints-in-laravel-2dp6)
+- [تحويل الأفكار إلى حقيقة: كيف تبني وحدات ذكاء اصطناعي مع LangChain و FastAPI و Sevalla](https://dev.to/mohamedshabanai/thwyl-lfkr-l-hqyq-kyf-tbny-whdt-dhk-stny-m-langchain-w-fastapi-w-sevalla-g1l)
+- [Kubernetes and it&#39;s Architecture](https://dev.to/anushree_gm/kubernetes-and-its-architecture-46jo)
+- [Building a Kiro Power for AWS Amplify Gen 2](https://dev.to/aws-builders/building-a-kiro-power-for-aws-amplify-gen-2-54gk)
 <!-- BLOG-POST-LIST:END -->
 
 
