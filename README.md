@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
-- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
-- [13 Languages Are Challenging C. Most Fail. Only Five Stack Up.](https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5)
-- [Mother CLAUDE: How We Built a Documentation System That Makes LLMs Productive Immediately](https://dev.to/dorothyjb/how-we-built-a-documentation-system-that-makes-llms-productive-immediately-59hc)
+- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
+- [The Burnout Industrial Complex: How Companies Profit From Your Exhaustion](https://dev.to/ghostinit0x/the-burnout-industrial-complex-how-companies-profit-from-your-exhaustion-15kh)
+- [Buildsaas.dev](https://dev.to/shreyvijayvargiya/buildsaasdev-cc4)
+- [System Design in Real Life: Why Ancient Museums are actually Microservices?](https://dev.to/tyrell_wellicq_767cb57340/system-design-in-real-life-why-ancient-museums-are-actually-microservices-3a43)
 <!-- BLOG-POST-LIST:END -->
 
 
