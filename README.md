@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Wish I Knew Before Deploying My First Backend Application.](https://dev.to/juweria_/what-i-wish-i-knew-before-deploying-my-first-backend-application-e07)
-- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
-- [Storage for Developers](https://dev.to/dipalikulshrestha/storage-for-developers-58h5)
-- [Web3 store](https://dev.to/yaalfred/web3-store-4c15)
+- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
+- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
+- [13 Languages Are Challenging C. Most Fail. Only Five Stack Up.](https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5)
+- [Mother CLAUDE: How We Built a Documentation System That Makes LLMs Productive Immediately](https://dev.to/dorothyjb/how-we-built-a-documentation-system-that-makes-llms-productive-immediately-59hc)
 <!-- BLOG-POST-LIST:END -->
 
 
