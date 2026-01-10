@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
-- [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
-- [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
-- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
+- [Stop Manually Booking Doctors: Build an Autonomous Health Agent with LangGraph &amp; Playwright](https://dev.to/beck_moulton/stop-manually-booking-doctors-build-an-autonomous-health-agent-with-langgraph-playwright-jgb)
+- [**The Rise of AI-Generated Content in Netflix: A New Era of](https://dev.to/drcarlosruizviquez/the-rise-of-ai-generated-content-in-netflix-a-new-era-of-4bn6)
+- [Federated Learning with PySyft: Enabling Private and Efficie](https://dev.to/drcarlosruizviquez/federated-learning-with-pysyft-enabling-private-and-efficie-2eh)
+- [CKA HANDS-ON LABS](https://dev.to/jumptotech/cka-hands-on-labs-152m)
 <!-- BLOG-POST-LIST:END -->
 
 
