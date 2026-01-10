@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Story of T-Apex: Zero Ideas, 24 Hours, and One Crazy Pivot to the Top 10.](https://dev.to/ankit_rattan/story-of-t-apex-zero-ideas-24-hours-and-one-crazy-pivot-to-the-top-10-25bo)
-- [🚀 **Minimalist &amp; Fast: My Developer Portfolio on Google Cloud Run**](https://dev.to/donghun_leedavidlee_0/minimalist-fast-my-developer-portfolio-on-google-cloud-run-1k63)
-- [Hello DEV! I’m Shubhankar Basak: Web Developer &amp; BCS Student](https://dev.to/shubhankar-basak/hello-dev-im-shubhankar-basak-web-developer-bcs-student-2cc3)
-- [How to Set Up an AI Voice Agent for Customer Support in SaaS Applications](https://dev.to/callstacktech/how-to-set-up-an-ai-voice-agent-for-customer-support-in-saas-applications-9g3)
+- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
+- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
+- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
+- [AWS Cheat Sheet](https://dev.to/varalakshmi/aws-cheat-sheet-l81)
 <!-- BLOG-POST-LIST:END -->
 
 
