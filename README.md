@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/itsugo/-2n2g)
-- [Kubernetes Gateway API on AKS Exposed via Azure Application Gateway](https://dev.to/shanaka_jayasundera_b4071/kubernetes-gateway-api-on-aks-exposed-via-azure-application-gateway-50bo)
-- [5 Ways a Standup Bot with Task Tracker Integration Crushes Traditional Standups](https://dev.to/standupify/5-ways-a-standup-bot-with-task-tracker-integration-crushes-traditional-standups-2dpk)
-- [The Quiet Shift: From Chrome&#39;s Noise to Thorium&#39;s Silence](https://dev.to/linfinitydev/the-quiet-shift-from-chromes-noise-to-thoriums-silence-31cl)
+- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
+- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
+- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
+- [TIL about Starcloud, a company that builds data centers....in space..](https://dev.to/highcenburg/til-about-starcloud-a-company-that-builds-data-centersin-space-i6f)
 <!-- BLOG-POST-LIST:END -->
 
 
