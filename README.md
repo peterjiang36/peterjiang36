@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
-- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
-- [The Tailwind Labs&#39; Problem](https://dev.to/pnpancholi/the-tailwind-labs-problem-1ne3)
-- [Checklist for Promoting Your App: A Step-by-Step Guide That Works](https://dev.to/isa_akharume_f9c88db247c7/checklist-for-promoting-your-app-a-step-by-step-guide-that-works-nd1)
+- [What I Wish I Knew Before Deploying My First Backend Application.](https://dev.to/juweria_/what-i-wish-i-knew-before-deploying-my-first-backend-application-e07)
+- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
+- [Storage for Developers](https://dev.to/dipalikulshrestha/storage-for-developers-58h5)
+- [Web3 store](https://dev.to/yaalfred/web3-store-4c15)
 <!-- BLOG-POST-LIST:END -->
 
 
