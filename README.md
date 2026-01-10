@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an autonomous Robot Diary with &quot;Boredom Scores&quot; and a sense of time 🤖📖](https://dev.to/joehenzi/i-built-an-autonomous-robot-diary-with-boredom-scores-and-a-sense-of-time-2nnd)
-- [Choosing an i18n Strategy for Angular Admin/Dashboard Apps](https://dev.to/_88ff91434a047ab09a604/choosing-an-i18n-strategy-for-angular-admindashboard-apps-3e3)
-- [TypeScript --erasableSyntaxOnly 플래그, 왜 생겼고 언제 쓰나](https://dev.to/wes5510/typescript-erasablesyntaxonly-peulraegeu-wae-saenggyeossgo-eonje-sseuna-24gm)
-- [Building an IPL Cricket Stats Assistant with Algolia Agent Studio](https://dev.to/sreenu_sasubilli_f9289c4e/building-an-ipl-cricket-stats-assistant-with-algolia-agent-studio-44mg)
+- [A beginner&#39;s guide to the Animagine-Xl-V4-Opt model by Aisha-Ai-Official on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-animagine-xl-v4-opt-model-by-aisha-ai-official-on-replicate-1077)
+- [I thought Vercel&#39;s backend was just like another backend...](https://dev.to/softwarejutsu/i-thought-vercels-backend-was-just-like-another-backend-328f)
+- [VMware&#39;s Market Dominance Has Created a Catastrophic Single Point of Failure](https://dev.to/zeroblind25/vmwares-market-dominance-has-created-a-catastrophic-single-point-of-failure-86o)
+- [stangri&#39;s OpenWrt packages updates](https://dev.to/stangri/stangris-openwrt-packages-updates-4icf)
 <!-- BLOG-POST-LIST:END -->
 
 
