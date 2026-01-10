@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML-101 #3. Comments &amp; Naming Convention](https://dev.to/himanshu_bhatt/html-101-3-comments-naming-convention-585i)
-- [I&#39;d like to celebrate building my new portfolio, I have never made anything like this before.](https://dev.to/arnostorg/id-like-to-celebrate-building-my-new-portfolio-i-have-never-made-anything-like-this-before-bfn)
-- [Type alias in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-alias-in-python-2-4hc1)
-- [Why Port 8000 Suddenly Stopped Working on My Local Machine &lpar;and How I Fixed It&rpar;](https://dev.to/tahsin000/why-port-8000-suddenly-stopped-working-on-my-local-machine-and-how-i-fixed-it-4a12)
+- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
+- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
+- [The Tailwind Labs&#39; Problem](https://dev.to/pnpancholi/the-tailwind-labs-problem-1ne3)
+- [Checklist for Promoting Your App: A Step-by-Step Guide That Works](https://dev.to/isa_akharume_f9c88db247c7/checklist-for-promoting-your-app-a-step-by-step-guide-that-works-nd1)
 <!-- BLOG-POST-LIST:END -->
 
 
