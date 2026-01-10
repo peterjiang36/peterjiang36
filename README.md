@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
-- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
-- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
-- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
+- [Story of T-Apex: Zero Ideas, 24 Hours, and One Crazy Pivot to the Top 10.](https://dev.to/ankit_rattan/story-of-t-apex-zero-ideas-24-hours-and-one-crazy-pivot-to-the-top-10-25bo)
+- [🚀 **Minimalist &amp; Fast: My Developer Portfolio on Google Cloud Run**](https://dev.to/donghun_leedavidlee_0/minimalist-fast-my-developer-portfolio-on-google-cloud-run-1k63)
+- [Hello DEV! I’m Shubhankar Basak: Web Developer &amp; BCS Student](https://dev.to/shubhankar-basak/hello-dev-im-shubhankar-basak-web-developer-bcs-student-2cc3)
+- [How to Set Up an AI Voice Agent for Customer Support in SaaS Applications](https://dev.to/callstacktech/how-to-set-up-an-ai-voice-agent-for-customer-support-in-saas-applications-9g3)
 <!-- BLOG-POST-LIST:END -->
 
 
