@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
-- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
-- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
-- [TIL about Starcloud, a company that builds data centers....in space..](https://dev.to/highcenburg/til-about-starcloud-a-company-that-builds-data-centersin-space-i6f)
+- [Serverless Picture Gallery on Google Cloud - Part 1](https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-1-5c0n)
+- [Build an Offline ESP32 Text-to-Speech System - No Internet Needed!](https://dev.to/david_thomas/build-an-offline-esp32-text-to-speech-system-no-internet-needed-aj5)
+- [AI should not be in Code Editors](https://dev.to/badrchanaa/ai-should-not-be-in-code-editors-1p02)
+- [Breaking the Runtime Wall: Universal Frameworks in BEnder 🌍](https://dev.to/adamgolan/breaking-the-runtime-wall-universal-frameworks-in-bender-3cpn)
 <!-- BLOG-POST-LIST:END -->
 
 
