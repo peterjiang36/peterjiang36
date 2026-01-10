@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Animagine-Xl-V4-Opt model by Aisha-Ai-Official on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-animagine-xl-v4-opt-model-by-aisha-ai-official-on-replicate-1077)
-- [I thought Vercel&#39;s backend was just like another backend...](https://dev.to/softwarejutsu/i-thought-vercels-backend-was-just-like-another-backend-328f)
-- [VMware&#39;s Market Dominance Has Created a Catastrophic Single Point of Failure](https://dev.to/zeroblind25/vmwares-market-dominance-has-created-a-catastrophic-single-point-of-failure-86o)
-- [stangri&#39;s OpenWrt packages updates](https://dev.to/stangri/stangris-openwrt-packages-updates-4icf)
+- [Linux File System Architecture: A Deep Dive into VFS, Inodes, and Storage](https://dev.to/kanywst/linux-file-system-architecture-a-deep-dive-into-vfs-inodes-and-storage-1n9)
+- [The “AI operator” mindset for small teams](https://dev.to/jaideepparashar/the-ai-operator-mindset-for-small-teams-oo7)
+- [The Axiology of War and Peace: A Modern Lesson from Sun Wu](https://dev.to/fundacjadobrepanstwo/the-axiology-of-war-and-peace-a-modern-lesson-from-sun-wu-4db9)
+- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
 <!-- BLOG-POST-LIST:END -->
 
 
