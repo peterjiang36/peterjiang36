@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to: NuGet local feeds](https://dev.to/karenpayneoregon/how-to-nuget-local-feeds-2nci)
-- [Why I dumped LAMP for Next.js + Groq to build an AI SaaS in 48 hours](https://dev.to/nizarhelius/why-i-dumped-lamp-for-nextjs-groq-to-build-an-ai-saas-in-48-hours-3p4h)
-- [Stop Rewriting Auth Logic: My Production-Ready Node.js + MySQL Boilerplate 🚀](https://dev.to/dark_353/stop-rewriting-auth-logic-my-production-ready-nodejs-mysql-boilerplate-42nl)
-- [How I added experimental MCP Apps support to Apollo MCP Server with Goose](https://dev.to/amandamartindev/how-i-added-experimental-mcp-apps-support-to-apollo-mcp-server-with-goose-2hjl)
+- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
+- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
+- [Coding Challenge Practice - Question 99](https://dev.to/tomivan/coding-challenge-practice-question-99-2il6)
+- [Das Coder Labor Ihre zentrale Anlaufstelle für PHP Entwicklung und Community](https://dev.to/phppower/das-coder-labor-ihre-zentrale-anlaufstelle-fur-php-entwicklung-und-community-21l2)
 <!-- BLOG-POST-LIST:END -->
 
 
