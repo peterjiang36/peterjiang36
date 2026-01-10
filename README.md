@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux File System Architecture: A Deep Dive into VFS, Inodes, and Storage](https://dev.to/kanywst/linux-file-system-architecture-a-deep-dive-into-vfs-inodes-and-storage-1n9)
-- [The “AI operator” mindset for small teams](https://dev.to/jaideepparashar/the-ai-operator-mindset-for-small-teams-oo7)
-- [The Axiology of War and Peace: A Modern Lesson from Sun Wu](https://dev.to/fundacjadobrepanstwo/the-axiology-of-war-and-peace-a-modern-lesson-from-sun-wu-4db9)
-- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
+- [What Business Owners Thought AI Would Be, Why It Didn’t Work, And Why the Canonical Intelligence Layer &lpar;CIL&rpar; Changes Everything](https://dev.to/michal_harcej/what-business-owners-thought-ai-would-be-why-it-didnt-work-and-why-the-canonical-intelligence-2lfn)
+- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
+- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
+- [Build Your Own Voice Stack with Deepgram and PlayHT: A Practical Guide](https://dev.to/callstacktech/build-your-own-voice-stack-with-deepgram-and-playht-a-practical-guide-2kl9)
 <!-- BLOG-POST-LIST:END -->
 
 
