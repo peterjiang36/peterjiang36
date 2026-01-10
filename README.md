@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Business Owners Thought AI Would Be, Why It Didn’t Work, And Why the Canonical Intelligence Layer &lpar;CIL&rpar; Changes Everything](https://dev.to/michal_harcej/what-business-owners-thought-ai-would-be-why-it-didnt-work-and-why-the-canonical-intelligence-2lfn)
-- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
-- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
-- [Build Your Own Voice Stack with Deepgram and PlayHT: A Practical Guide](https://dev.to/callstacktech/build-your-own-voice-stack-with-deepgram-and-playht-a-practical-guide-2kl9)
+- [Running on our backup wifi. Sky Fiber sucks](https://dev.to/highcenburg/running-on-our-backup-wifi-sky-fiber-sucks-4d1d)
+- [🌈 Looking for Guidance: I’m Building an HRT Journey Tracker Suite, but I’m Stuck](https://dev.to/codebunny20/looking-for-guidance-im-building-an-hrt-journey-tracker-suite-but-im-stuck-3em1)
+- [🧶 Beginner-Friendly Guide &#39;Minimum ASCII Delete Sum for Two Strings&#39; – LeetCode 712 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-ascii-delete-sum-for-two-strings-leetcode-712-c-python-4eeh)
+- [🚨 AWS 130: Routing the Private Way - Implementing a NAT Instance](https://dev.to/hritikraj8804/aws-130-routing-the-private-way-implementing-a-nat-instance-1c9j)
 <!-- BLOG-POST-LIST:END -->
 
 
