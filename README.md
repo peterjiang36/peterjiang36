@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Manually Booking Doctors: Build an Autonomous Health Agent with LangGraph &amp; Playwright](https://dev.to/beck_moulton/stop-manually-booking-doctors-build-an-autonomous-health-agent-with-langgraph-playwright-jgb)
-- [**The Rise of AI-Generated Content in Netflix: A New Era of](https://dev.to/drcarlosruizviquez/the-rise-of-ai-generated-content-in-netflix-a-new-era-of-4bn6)
-- [Federated Learning with PySyft: Enabling Private and Efficie](https://dev.to/drcarlosruizviquez/federated-learning-with-pysyft-enabling-private-and-efficie-2eh)
-- [CKA HANDS-ON LABS](https://dev.to/jumptotech/cka-hands-on-labs-152m)
+- [I built an autonomous Robot Diary with &quot;Boredom Scores&quot; and a sense of time 🤖📖](https://dev.to/joehenzi/i-built-an-autonomous-robot-diary-with-boredom-scores-and-a-sense-of-time-2nnd)
+- [Choosing an i18n Strategy for Angular Admin/Dashboard Apps](https://dev.to/_88ff91434a047ab09a604/choosing-an-i18n-strategy-for-angular-admindashboard-apps-3e3)
+- [TypeScript --erasableSyntaxOnly 플래그, 왜 생겼고 언제 쓰나](https://dev.to/wes5510/typescript-erasablesyntaxonly-peulraegeu-wae-saenggyeossgo-eonje-sseuna-24gm)
+- [Building an IPL Cricket Stats Assistant with Algolia Agent Studio](https://dev.to/sreenu_sasubilli_f9289c4e/building-an-ipl-cricket-stats-assistant-with-algolia-agent-studio-44mg)
 <!-- BLOG-POST-LIST:END -->
 
 
