@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Orchestrator-Worker System for Claude Code](https://dev.to/mohamed9974/how-i-built-an-orchestrator-worker-system-for-claude-code-2i37)
-- [VitaGuard: My First Real-Time Linux System Health Monitor in Bash](https://dev.to/navickas/vitaguard-my-first-real-time-linux-system-health-monitor-in-bash-plm)
-- [The Death of Architectural Design in Agile](https://dev.to/ghostinit0x/the-death-of-architectural-design-in-agile-150f)
-- [AWS Cheat Sheet](https://dev.to/varalakshmi/aws-cheat-sheet-l81)
+- [AWS IAM Security: A Practical Guide That Actually Works in Production](https://dev.to/muhammad_yawar_malik/aws-iam-security-a-practical-guide-that-actually-works-in-production-5gmn)
+- [10 Proven Ways to Cut Your AWS Bill](https://dev.to/rogo032/10-proven-ways-to-cut-your-aws-bill-5157)
+- [What Are Recursive Language Models?](https://dev.to/alexmercedcoder/what-are-recursive-language-models-3kno)
+- [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b)
 <!-- BLOG-POST-LIST:END -->
 
 
