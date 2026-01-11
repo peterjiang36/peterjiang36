@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agents Need a Shell &lpar;And How to Give Them One Safely&rpar;](https://dev.to/salahpichen/why-your-ai-agents-need-a-shell-and-how-to-give-them-one-safely-3jj8)
-- [50+ Common Web Application Vulnerabilities Explained](https://dev.to/morrismoses149/50-common-web-application-vulnerabilities-explained-2mmn)
-- [The Invisible Hand That Fed Us](https://dev.to/adamthedeveloper/the-invisible-hand-that-fed-us-2pd2)
-- [Level 1 - Foundations #1. Client-Server Model](https://dev.to/himanshu_bhatt/level-1-foundations-1-client-server-model-f19)
+- [JSON vs. XML for APIs: Key Differences Explained for Beginners](https://dev.to/codeitbro/json-vs-xml-for-apis-key-differences-explained-for-beginners-4mhj)
+- [Why Fast Page Loads Don’t Always Mean Fast User Experience](https://dev.to/ar_abid_641aa302d5c68b2ae/why-fast-page-loads-dont-always-mean-fast-user-experience-55eb)
+- [[iOS] Debugging SSL Handshake Failures](https://dev.to/raykim2414/ios-debugging-ssl-handshake-failures-3jf0)
+- [AWS Pricing Models Explained: &lpar;A Beginner&#39;s Guide&rpar;](https://dev.to/chandrapenugonda/aws-pricing-models-explained-a-beginners-guide-3o0a)
 <!-- BLOG-POST-LIST:END -->
 
 
