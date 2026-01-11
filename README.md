@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
-- [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
-- [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
-- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
+- [Building a &quot;Remembering&quot; AI Trading Agent with Python, LangGraph, and Obsidian](https://dev.to/jiwoomap/building-a-remembering-ai-trading-agent-with-python-langgraph-and-obsidian-30hn)
+- [Building Scalable AI Agent Systems: Three Evolutions](https://dev.to/web3nomad/building-scalable-ai-agent-systems-three-evolutions-3ahe)
+- [ReactJS Design Pattern ~Context Selector~](https://dev.to/kkr0423/reactjs-design-pattern-context-selector-1730)
+- [Elara WynterBrook](https://dev.to/valery_havranek_37b3812ec/elara-wynterbrook-9a1)
 <!-- BLOG-POST-LIST:END -->
 
 
