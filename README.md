@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5)
-- [AI Agents: Automate 80% of Support &lpar;Case Study&rpar;](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793)
-- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/__2131e9e/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
-- [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0)
+- [I Built a Study Timer Competitor That Converted My Procrastination into a Game](https://dev.to/helloimabid/i-built-a-study-timer-competitor-that-converted-my-procrastination-into-a-game-420i)
+- [AI Agents Are Becoming New Audience](https://dev.to/dipti_m_2e7ba36c478d1a48a/ai-agents-are-becoming-new-audience-2923)
+- [Introduction: Analyzing randomness with AI](https://dev.to/nichebrai/introduction-analyzing-randomness-with-ai-kf)
+- [Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
 <!-- BLOG-POST-LIST:END -->
 
 
