@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Database Schemas into Diagrams &amp; Docs — Open for Early Feedback](https://dev.to/rushikesh_bodakhe_db28644/turning-database-schemas-into-diagrams-docs-open-for-early-feedback-5159)
-- [Why print&lpar;&rpar; Can Cause a TLE Even with an Efficient Algorithm](https://dev.to/yumyum116/why-print-can-cause-a-tle-even-with-an-efficient-algorithm-4f7e)
-- [Chaterm Announced at the AWS Summit Keynote](https://dev.to/chaterm-ai/chaterm-announced-at-the-aws-summit-keynote-i03)
-- [Building Reliable RAG Systems](https://dev.to/sivarampg/building-reliable-rag-systems-6jb)
+- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
+- [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
+- [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
+- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
 <!-- BLOG-POST-LIST:END -->
 
 
