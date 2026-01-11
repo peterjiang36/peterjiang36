@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Play: UI Layouts in PureScript](https://dev.to/shamansir/play-ui-layouts-in-purescript-1cb5)
-- [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
-- [How do you keep engineering context alive when requirements change? Post:](https://dev.to/whykislay/how-do-you-keep-engineering-context-alive-when-requirements-changepost-89o)
-- [Bytekit: A Turbocharged TypeScript Toolkit for Modern Development](https://dev.to/sebamar88/bytekit-a-turbocharged-typescript-toolkit-for-modern-development-1m1l)
+- [HTML-101 #5. Text Formatting, Quotes &amp; Code Formatting](https://dev.to/himanshu_bhatt/html-101-5-text-formatting-quotes-code-formatting-4221)
+- [The Irreplaceable Human in the Age of Smart Systems](https://dev.to/newriderslabs/the-irreplaceable-human-in-the-age-of-smart-systems-5ej3)
+- [🎬 Build a Relax Video Generator &lpar;Images + MP3 MP4&rpar; with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-relax-video-generator-images-mp3-mp4-with-python-tkinter-b3g)
+- [Being Strong Is a Choice.](https://dev.to/bibimbop123/being-strong-is-a-choice-4jh7)
 <!-- BLOG-POST-LIST:END -->
 
 
