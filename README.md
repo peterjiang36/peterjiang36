@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the All-Nighter: 5 Surprising Truths About the Modern Hackathon](https://dev.to/dev_d5dad042c015d3612cbbc/beyond-the-all-nighter-5-surprising-truths-about-the-modern-hackathon-40me)
-- [Building Interview prep ai](https://dev.to/shashank0701byte/building-interview-prep-ai-1bje)
-- [Cheapest Solana Token Creator: 0.05 SOL vs 0.3 SOL &lpar;Full Breakdown&rpar;](https://dev.to/jumpbit/cheapest-solana-token-creator-005-sol-vs-03-sol-full-breakdown-55pc)
-- [Tech Pulse – Weekly Tech Digest January 11, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digestjanuary-11-2026-3bac)
+- [Turning Database Schemas into Diagrams &amp; Docs — Open for Early Feedback](https://dev.to/rushikesh_bodakhe_db28644/turning-database-schemas-into-diagrams-docs-open-for-early-feedback-5159)
+- [Why print&lpar;&rpar; Can Cause a TLE Even with an Efficient Algorithm](https://dev.to/yumyum116/why-print-can-cause-a-tle-even-with-an-efficient-algorithm-4f7e)
+- [Chaterm Announced at the AWS Summit Keynote](https://dev.to/chaterm-ai/chaterm-announced-at-the-aws-summit-keynote-i03)
+- [Building Reliable RAG Systems](https://dev.to/sivarampg/building-reliable-rag-systems-6jb)
 <!-- BLOG-POST-LIST:END -->
 
 
