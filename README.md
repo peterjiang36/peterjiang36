@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON vs. XML for APIs: Key Differences Explained for Beginners](https://dev.to/codeitbro/json-vs-xml-for-apis-key-differences-explained-for-beginners-4mhj)
-- [Why Fast Page Loads Don’t Always Mean Fast User Experience](https://dev.to/ar_abid_641aa302d5c68b2ae/why-fast-page-loads-dont-always-mean-fast-user-experience-55eb)
-- [[iOS] Debugging SSL Handshake Failures](https://dev.to/raykim2414/ios-debugging-ssl-handshake-failures-3jf0)
-- [AWS Pricing Models Explained: &lpar;A Beginner&#39;s Guide&rpar;](https://dev.to/chandrapenugonda/aws-pricing-models-explained-a-beginners-guide-3o0a)
+- [From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience](https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58)
+- [The 5 Crypto Portfolio Secrets Nobody Tells You About](https://dev.to/anas_kayssi/the-5-crypto-portfolio-secrets-nobody-tells-you-about-33cj)
+- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
+- [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
 <!-- BLOG-POST-LIST:END -->
 
 
