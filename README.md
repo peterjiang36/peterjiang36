@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML-101 #5. Text Formatting, Quotes &amp; Code Formatting](https://dev.to/himanshu_bhatt/html-101-5-text-formatting-quotes-code-formatting-4221)
-- [The Irreplaceable Human in the Age of Smart Systems](https://dev.to/newriderslabs/the-irreplaceable-human-in-the-age-of-smart-systems-5ej3)
-- [🎬 Build a Relax Video Generator &lpar;Images + MP3 MP4&rpar; with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-relax-video-generator-images-mp3-mp4-with-python-tkinter-b3g)
-- [Being Strong Is a Choice.](https://dev.to/bibimbop123/being-strong-is-a-choice-4jh7)
+- [I can finally use MCPs without fear](https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl)
+- [16+ Free HTML Admin Dashboard Templates for SaaS](https://dev.to/suniljoshi19/free-html-admin-dashboard-templates-for-saas-54i8)
+- [Supercharge Telegram with Python: Meet CipherElite, The AI-Powered Userbot](https://dev.to/rishabhops/supercharge-telegram-with-python-meet-cipherelite-the-ai-powered-userbot-4lfe)
+- [🧱 Beginner-Friendly Guide &#39;Maximal Rectangle&#39; – LeetCode 85 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe)
 <!-- BLOG-POST-LIST:END -->
 
 
