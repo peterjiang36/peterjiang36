@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PTSD as an adaptive program](https://dev.to/conniebaugher_fl/ptsd-as-an-adaptive-program-1n4o)
-- [How I Automated Database Seeding in CI/CD with One API Call](https://dev.to/ddltodata/postgresql-test-data-api-seed-your-database-in-cicd-207f)
-- [Generate PostgreSQL Test Data Without Code &lpar;Step-by-Step&rpar;](https://dev.to/ddltodata/generate-postgresql-test-data-without-code-step-by-step-459d)
-- [How to Generate Test Data for PostgreSQL &lpar;2 Methods&rpar;](https://dev.to/ddltodata/how-to-generate-test-data-for-postgresql-2-methods-557i)
+- [Devs &amp; Small businesses don’t lose trust because they lack AI. They lose trust when they use AI carelessly.](https://dev.to/jaideepparashar/devs-small-businesses-dont-lose-trust-because-they-lack-ai-they-lose-trust-when-they-use-ai-1nfn)
+- [The minimum ethics checklist for Devs &amp; Small Businesses](https://dev.to/jaideepparashar/the-minimum-ethics-checklist-for-small-businesses-12gm)
+- [Qué es CAI-EXPERT-LAB — y qué no es](https://dev.to/antonio_socorro_95e3ff086/que-es-cai-expert-lab-y-que-no-es-ba0)
+- [All you need to know and to get started building your first MCP 🤖](https://dev.to/wildanzr/all-you-need-to-know-and-to-get-started-building-your-first-mcp-5766)
 <!-- BLOG-POST-LIST:END -->
 
 
