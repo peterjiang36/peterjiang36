@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Jobs: The Biography &lpar;Updated Edition&rpar;](https://dev.to/evanlin/steve-jobs-the-biography-updated-edition-4jpm)
-- [2020: Review and Outlook](https://dev.to/evanlin/2020-review-and-outlook-3kme)
-- [TIL: Byzantine Generals Problem in Real-World Distributed Systems](https://dev.to/evanlin/til-byzantine-generals-problem-in-real-world-distributed-systems-2oni)
-- [[TIL] Golang community discussion about PTT BBS](https://dev.to/evanlin/til-golang-community-discussion-about-ptt-bbs-4nl3)
+- [Built a Free Online PDF Tool - Here&#39;s Why I Didn&#39;t Use Python](https://dev.to/rajender_kumar_eb48ec3e13/built-a-free-pdf-tool-with-javaspdf-javascript-webdev-opensourcecript-heres-whfellow-developers-1di8)
+- [REST API and Common HTTP Methods](https://dev.to/manikanta_yarramsetti_7bc/rest-api-and-common-http-methods-1h1b)
+- [5 Dockerfile Misconfigurations You Should Avoid](https://dev.to/techwithhari/5-dockerfile-misconfigurations-you-should-avoid-17pl)
+- [AI](https://dev.to/hoffmann/ai-55gp)
 <!-- BLOG-POST-LIST:END -->
 
 
