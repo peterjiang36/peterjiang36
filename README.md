@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience](https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58)
-- [The 5 Crypto Portfolio Secrets Nobody Tells You About](https://dev.to/anas_kayssi/the-5-crypto-portfolio-secrets-nobody-tells-you-about-33cj)
-- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
-- [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
+- [From Manual Mayhem to AI Magic: Building an Automated Alt Text Solution for WordPress](https://dev.to/proga100/from-manual-mayhem-to-ai-magic-building-an-automated-alt-text-solution-for-wordpress-44km)
+- [Why Portugal Can Be Your Next Career Step](https://dev.to/walteralleyz/why-portugal-can-be-your-next-career-step-4h38)
+- [🎯Arrow Functions vs. Regular Functions in JavaScript](https://dev.to/gouranga-das-khulna/arrow-functions-vs-regular-functions-in-javascript-fcj)
+- [What AI Actually Replaces in Software Development &lpar;Part 2: The Reality&rpar;](https://dev.to/synthaicode_commander/what-ai-actually-replaces-in-software-development-part-2-the-reality-7nf)
 <!-- BLOG-POST-LIST:END -->
 
 
