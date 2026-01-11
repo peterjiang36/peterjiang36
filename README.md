@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Persistence Series Part 1: When Our Ingress Vanished After a Node Upgrade](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-1-when-our-ingress-vanished-after-a-node-upgrade-17li)
-- [Building a Content-First Web Runtime &lpar;UI as a Lens, Not a Template&rpar;](https://dev.to/suign/building-a-content-first-web-runtime-ui-as-a-lens-not-a-template-2g0a)
-- [EIOC: A Detection Framework for Human‑Layer Security](https://dev.to/narnaiezzsshaa/eioc-a-detection-framework-for-human-layer-security-2ne9)
-- [Why Most Node.js APIs Fail Under Load &lpar;And How to Avoid It&rpar;](https://dev.to/wmdn9116/why-most-nodejs-apis-fail-under-load-and-how-to-avoid-it-25lh)
+- [The Brain of the Future Agent: Why VL-JEPA Matters for Real-World AI](https://dev.to/himanjan/the-brain-of-the-future-agent-why-vl-jepa-matters-for-real-world-ai-21no)
+- [I Exposed My $70 Kubernetes Cluster to the Internet &lpar;Without Opening a Single Port&rpar;](https://dev.to/bhargavmantha/i-exposed-my-70-kubernetes-cluster-to-the-internet-without-opening-a-single-port-nkk)
+- [Vibe coding: Time Zone Clock](https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc)
+- [Bug Bounty Hunting Guide 2026: From Zero to Paid Security Researcher](https://dev.to/krlz/bug-bounty-hunting-guide-2026-from-zero-to-paid-security-researcher-5c82)
 <!-- BLOG-POST-LIST:END -->
 
 
