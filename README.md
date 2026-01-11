@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs &amp; Small businesses don’t lose trust because they lack AI. They lose trust when they use AI carelessly.](https://dev.to/jaideepparashar/devs-small-businesses-dont-lose-trust-because-they-lack-ai-they-lose-trust-when-they-use-ai-1nfn)
-- [The minimum ethics checklist for Devs &amp; Small Businesses](https://dev.to/jaideepparashar/the-minimum-ethics-checklist-for-small-businesses-12gm)
-- [Qué es CAI-EXPERT-LAB — y qué no es](https://dev.to/antonio_socorro_95e3ff086/que-es-cai-expert-lab-y-que-no-es-ba0)
-- [All you need to know and to get started building your first MCP 🤖](https://dev.to/wildanzr/all-you-need-to-know-and-to-get-started-building-your-first-mcp-5766)
+- [Play: UI Layouts in PureScript](https://dev.to/shamansir/play-ui-layouts-in-purescript-1cb5)
+- [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
+- [How do you keep engineering context alive when requirements change? Post:](https://dev.to/whykislay/how-do-you-keep-engineering-context-alive-when-requirements-changepost-89o)
+- [Bytekit: A Turbocharged TypeScript Toolkit for Modern Development](https://dev.to/sebamar88/bytekit-a-turbocharged-typescript-toolkit-for-modern-development-1m1l)
 <!-- BLOG-POST-LIST:END -->
 
 
