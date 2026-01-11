@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
-- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
-- [Coding Challenge Practice - Question 99](https://dev.to/tomivan/coding-challenge-practice-question-99-2il6)
-- [Das Coder Labor Ihre zentrale Anlaufstelle für PHP Entwicklung und Community](https://dev.to/phppower/das-coder-labor-ihre-zentrale-anlaufstelle-fur-php-entwicklung-und-community-21l2)
+- [Kubernetes Persistence Series Part 1: When Our Ingress Vanished After a Node Upgrade](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-1-when-our-ingress-vanished-after-a-node-upgrade-17li)
+- [Building a Content-First Web Runtime &lpar;UI as a Lens, Not a Template&rpar;](https://dev.to/suign/building-a-content-first-web-runtime-ui-as-a-lens-not-a-template-2g0a)
+- [EIOC: A Detection Framework for Human‑Layer Security](https://dev.to/narnaiezzsshaa/eioc-a-detection-framework-for-human-layer-security-2ne9)
+- [Why Most Node.js APIs Fail Under Load &lpar;And How to Avoid It&rpar;](https://dev.to/wmdn9116/why-most-nodejs-apis-fail-under-load-and-how-to-avoid-it-25lh)
 <!-- BLOG-POST-LIST:END -->
 
 
