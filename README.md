@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #755 - Does TIOBE help Perl?](https://dev.to/szabgab/perl-weekly-755-does-tiobe-help-perl-a4b)
-- [A Simple Guide to a Faster Site](https://dev.to/roman_musin_1914fd4e7636f/a-simple-guide-to-a-faster-site-a6p)
-- [Fast Infrastructure: Understanding Crossplane like a Fast Food Restaurant](https://dev.to/the-software-s-journey/fast-infrastructure-understanding-crossplane-like-a-fast-food-restaurant-1ikk)
-- [Why Streaming AI Responses Feels Faster Than It Is &lpar;Android + SSE&rpar;](https://dev.to/shubham_verma_8f24ba13c9b/why-streaming-ai-responses-feels-faster-than-it-is-android-sse-2o6f)
+- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
+- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
+- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
+- [Building AI Agents in 2025: From ChatGPT to Multi-Agent Systems](https://dev.to/muhammad_zulqarnainakram/building-ai-agents-in-2025-from-chatgpt-to-multi-agent-systems-1o5o)
 <!-- BLOG-POST-LIST:END -->
 
 
