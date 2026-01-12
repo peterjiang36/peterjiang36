@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Rebuild My Portfolio: Here’s How Antigravity + Gemini Did It](https://dev.to/nhi_ng/i-let-an-ai-agent-rebuild-my-portfolio-heres-how-antigravity-gemini-did-it-4fep)
-- [From Writing Code to Teaching AI: The Rise of the AI-Assisted Developer](https://dev.to/amitshri05/from-writing-code-to-teaching-ai-the-rise-of-the-ai-assisted-developer-4llg)
-- [Claude-Gemini Integration Tool &quot;CGMB&quot; v1.1.0: Implementing Windows Support](https://dev.to/ryoto_miyake/claude-gemini-integration-tool-cgmb-v110-implementing-windows-support-kcj)
-- [Network Support Chatbot](https://dev.to/enmedina/network-support-chatbot-m1l)
+- [AI in Assistive Technologies for People with Visual Impairments](https://dev.to/tatyanabayramova/ai-in-assistive-technologies-for-people-with-visual-impairments-3peh)
+- [User flows are the new apps](https://dev.to/bd_perez/user-flows-are-the-new-apps-2cpj)
+- [Quiverstone: The Single Pane of Glass for AWS Multi-Account Chaos](https://dev.to/aws-builders/quiverstone-the-single-pane-of-glass-for-aws-multi-account-chaos-343d)
+- [🩺 How I Troubleshoot an EC2 Instance in the Real World &lpar;Using Instance Diagnostics&rpar;](https://dev.to/aws-builders/how-i-troubleshoot-an-ec2-instance-in-the-real-world-using-instance-diagnostics-3dk8)
 <!-- BLOG-POST-LIST:END -->
 
 
