@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i)
-- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8)
-- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm)
-- [No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja)
+- [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
+- [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
+- [The Linux Power User Handbook: From Daily Driver to Productivity Machine](https://dev.to/md8_habibullah/the-linux-power-user-handbook-from-daily-driver-to-productivity-machine-gh3)
+- [The Vibe Coding Paradox: 5 Surprising Truths About the AI Revolution in Software](https://dev.to/gde/the-vibe-coding-paradox-5-surprising-truths-about-the-ai-revolution-in-software-3f5k)
 <!-- BLOG-POST-LIST:END -->
 
 
