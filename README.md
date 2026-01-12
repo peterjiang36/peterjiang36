@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI from Zero: Writing Your First API Route](https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde)
+- [Amazon Bedrock AgentCore : MCP Server on AgentCore Runtime and AgentCore Gateway](https://dev.to/budionosan/amazon-bedrock-agentcore-mcp-server-on-agentcore-runtime-and-agentcore-gateway-el9)
 - [A Tier List for Company AI Strategies.](https://dev.to/milandry/a-tier-list-for-company-ai-strategies-3fmo)
-- [🌈 Looking for help if possible: I’m Stuck on My TrackMyHRT App &lpar;Medication + Symptom Tracker&rpar;](https://dev.to/codebunny20/looking-for-help-if-possible-im-stuck-on-my-trackmyhrt-app-medication-symptom-tracker-38fa)
-- [Beyond Linear Regression: Building Proactive Risk Models with Python](https://dev.to/rohan_shahane_180c213094d/beyond-linear-regression-building-proactive-risk-models-with-python-522k)
-- [From Managed Threads to Independent Tasks &lpar;Part 3: Coordination, Worker Pools, Backpressure, and Graceful Shutdown&rpar;](https://dev.to/_akajuthi_/from-managed-threads-to-independent-tasks-part-3-coordination-worker-pools-backpressure-and-2l7d)
+- [Making data conversational: Building MCP Servers as API bridges](https://dev.to/writerviber/making-data-conversational-building-mcp-servers-as-api-bridges-2onb)
 <!-- BLOG-POST-LIST:END -->
 
 
