@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend](https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5)
-- [The Underlying Process of Request Processing](https://dev.to/siy/the-underlying-process-of-request-processing-1od4)
-- [Observing Behavioral Anomalies in Web Applications Beyond Signature Scanners](https://dev.to/x0x7b/observing-behavioral-anomalies-in-web-applications-beyond-signature-scanners-g6p)
-- [Shift-Left Reliability](https://dev.to/rsionnach/shift-left-reliability-4poo)
+- [A Real-World Serverless Appointment Booking Backend on AWS](https://dev.to/donhadley22/a-real-world-serverless-appointment-booking-backend-on-aws-dc4)
+- [TWD Tip: Stub Auth0 Hooks and Mock React Modules](https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1)
+- [Smart Coding vs Vibe Coding: Engineering Discipline in the Age of AI](https://dev.to/kolkov/smart-coding-vs-vibe-coding-engineering-discipline-in-the-age-of-ai-5b20)
+- [PART 1 — StatefulSet + Headless Service + Persistent Storage](https://dev.to/jumptotech/part-1-statefulset-headless-service-persistent-storage-2hfh)
 <!-- BLOG-POST-LIST:END -->
 
 
