@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps- Moving Away From Inline Code](https://dev.to/wyattdave/power-apps-moving-away-from-inline-code-11ma)
-- [The Hidden Cost of Global Stores in Vue &lpar;and When They’re Still Worth It&rpar;](https://dev.to/jacobandrewsky/the-hidden-cost-of-global-stores-in-vue-and-when-theyre-still-worth-it-4c2p)
-- [An array is a row of boxes.
-Each box holds a value.
-Each box has a number.](https://dev.to/highcenburg/an-array-is-a-row-of-boxeseach-box-holds-a-valueeach-box-has-a-number-53n0)
-- [Proyecto Weather Service &lpar;Parte 1&rpar;: Construyendo el Recolector de Datos con Python y GitHub Actions o Netlify](https://dev.to/datalaria/proyecto-weather-service-parte-1-construyendo-el-recolector-de-datos-con-python-y-github-actions-5ekm)
+- [Perl 🐪 Weekly #755 - Does TIOBE help Perl?](https://dev.to/szabgab/perl-weekly-755-does-tiobe-help-perl-a4b)
+- [A Simple Guide to a Faster Site](https://dev.to/roman_musin_1914fd4e7636f/a-simple-guide-to-a-faster-site-a6p)
+- [Fast Infrastructure: Understanding Crossplane like a Fast Food Restaurant](https://dev.to/the-software-s-journey/fast-infrastructure-understanding-crossplane-like-a-fast-food-restaurant-1ikk)
+- [Why Streaming AI Responses Feels Faster Than It Is &lpar;Android + SSE&rpar;](https://dev.to/shubham_verma_8f24ba13c9b/why-streaming-ai-responses-feels-faster-than-it-is-android-sse-2o6f)
 <!-- BLOG-POST-LIST:END -->
 
 
