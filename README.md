@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Reasons Why I&#39;ll Keep Writing—Even If AI Writes Faster and Better](https://dev.to/canro91/7-reasons-why-ill-keep-writing-even-if-ai-writes-faster-and-better-148e)
-- [Shared vs VPS Hosting: Which One is Better in 2026?](https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m)
-- [Things I Wish I Knew as a Junior Developer](https://dev.to/arauly_tech_pvt_ltd/things-i-wish-i-knew-as-a-junior-developer-5b11)
-- [Building a Free, Private Audio Transcriber with Next.js](https://dev.to/niroshan_dh/building-a-free-private-audio-transcriber-with-nextjs-2df6)
+- [Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive](https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e)
+- [Stop telling me Python is &quot;too slow&quot; for the 2026 backend.](https://dev.to/naved_shaikh/stop-telling-me-python-is-too-slow-for-the-2026-backend-5am4)
+- [Backend Security for Express.js &lpar;With Nginx + VPS&rpar;](https://dev.to/kmsaifullah/backend-security-for-expressjs-with-nginx-vps-4afm)
+- [Why do some songs only make sense after you’ve lived more?](https://dev.to/luca_dark_rnb/why-do-some-songs-only-make-sense-after-youve-lived-more-4h7l)
 <!-- BLOG-POST-LIST:END -->
 
 
