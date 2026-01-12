@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI from Zero: Writing Your First API Route](https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde)
-- [Amazon Bedrock AgentCore : MCP Server on AgentCore Runtime and AgentCore Gateway](https://dev.to/budionosan/amazon-bedrock-agentcore-mcp-server-on-agentcore-runtime-and-agentcore-gateway-el9)
-- [A Tier List for Company AI Strategies.](https://dev.to/milandry/a-tier-list-for-company-ai-strategies-3fmo)
-- [Making data conversational: Building MCP Servers as API bridges](https://dev.to/writerviber/making-data-conversational-building-mcp-servers-as-api-bridges-2onb)
+- [How to resolve crashes when reading the width of video files in the gallery](https://dev.to/harmonyos/how-to-resolve-crashes-when-reading-the-width-of-video-files-in-the-gallery-4259)
+- [The Silent Registration Killer: When Auto-Formatters and Linters Collide](https://dev.to/ajitkumar/the-silent-registration-killer-when-auto-formatters-and-linters-collide-26j5)
+- [Music Monday - Winter Music ❄️](https://dev.to/musicforem/music-monday-winter-music-27n)
+- [I Built “Personal Store” Because I Was Tired of Texting Myself](https://dev.to/mangesh_dalvi_7bcb2337614/i-built-personal-store-because-i-was-tired-of-texting-myself-2a3p)
 <!-- BLOG-POST-LIST:END -->
 
 
