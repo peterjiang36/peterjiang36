@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1)
-- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84)
-- [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
-- [Human–AI Collaboration in Project Teams — Redefining Leadership and Decision-Making](https://dev.to/aaryan_gupta/human-ai-collaboration-in-project-teams-redefining-leadership-and-decision-making-1iho)
+- [Mental Health Website](https://dev.to/preetha_vaishnavi_2b82358/mental-health-website-29hf)
+- [How I built a &quot;Magic Move&quot; animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
+- [Real-World Error Handling in Distributed Systems](https://dev.to/saber-amani/real-world-error-handling-in-distributed-systems-3pm3)
+- [Meta-DAG: Why AI Ethics Failed as Engineering — and What I Built Instead](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-why-ai-ethics-failed-as-engineering-and-what-i-built-instead-55po)
 <!-- BLOG-POST-LIST:END -->
 
 
