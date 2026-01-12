@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mental Health Website](https://dev.to/preetha_vaishnavi_2b82358/mental-health-website-29hf)
-- [How I built a &quot;Magic Move&quot; animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
-- [Real-World Error Handling in Distributed Systems](https://dev.to/saber-amani/real-world-error-handling-in-distributed-systems-3pm3)
-- [Meta-DAG: Why AI Ethics Failed as Engineering — and What I Built Instead](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-why-ai-ethics-failed-as-engineering-and-what-i-built-instead-55po)
+- [Securing Your Environment Variables: A Proof-of-Concept Approach](https://dev.to/hejhdiss/securing-your-environment-variables-a-proof-of-concept-approach-1bh9)
+- [Building GeoAI Models: From Spatial Data to Actionable Insights](https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2)
+- [Why Your Job Isn’t Disappearing—But Your Tasks Are &lpar;Part 3: The Career&rpar;](https://dev.to/synthaicode_commander/why-your-job-isnt-disappearing-but-your-tasks-are-part-3-the-career-1p0b)
+- [Extending Without Breaking: Adding New Analysis Methods Safely](https://dev.to/robjohnston/extending-without-breaking-adding-new-analysis-methods-safely-2n22)
 <!-- BLOG-POST-LIST:END -->
 
 
