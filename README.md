@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
-- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
-- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
-- [Building AI Agents in 2025: From ChatGPT to Multi-Agent Systems](https://dev.to/muhammad_zulqarnainakram/building-ai-agents-in-2025-from-chatgpt-to-multi-agent-systems-1o5o)
+- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
+- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
+- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
+- [Ringer Movies: The 2026 Golden Globes: ‘One Battle After Another’ vs. ‘Hamnet’ Begins](https://dev.to/popcorn_movies/ringer-movies-the-2026-golden-globes-one-battle-after-another-vs-hamnet-begins-55l0)
 <!-- BLOG-POST-LIST:END -->
 
 
