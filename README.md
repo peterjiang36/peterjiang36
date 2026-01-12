@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Is Becoming the Industrial UI Standard](https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4)
-- [Queue System](https://dev.to/preetha_vaishnavi_2b82358/queue-system-37eo)
-- [Guide to get started with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/sunny7899/guide-to-get-started-with-retrieval-augmented-generation-rag-16m8)
-- [Contextual Inference with Generative AI: Turning Messy Notes into Professional Meeting Minutes](https://dev.to/faraz_farhan_83ed23a154a2/contextual-inference-with-generative-ai-turning-messy-notes-into-professional-meeting-minutes-599o)
+- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1)
+- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84)
+- [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
+- [Human–AI Collaboration in Project Teams — Redefining Leadership and Decision-Making](https://dev.to/aaryan_gupta/human-ai-collaboration-in-project-teams-redefining-leadership-and-decision-making-1iho)
 <!-- BLOG-POST-LIST:END -->
 
 
