@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Environment Variables: A Proof-of-Concept Approach](https://dev.to/hejhdiss/securing-your-environment-variables-a-proof-of-concept-approach-1bh9)
-- [Building GeoAI Models: From Spatial Data to Actionable Insights](https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2)
-- [Why Your Job Isn’t Disappearing—But Your Tasks Are &lpar;Part 3: The Career&rpar;](https://dev.to/synthaicode_commander/why-your-job-isnt-disappearing-but-your-tasks-are-part-3-the-career-1p0b)
-- [Extending Without Breaking: Adding New Analysis Methods Safely](https://dev.to/robjohnston/extending-without-breaking-adding-new-analysis-methods-safely-2n22)
+- [Custom Language Architecture for Low-End NeuroShellOS: A Design Proposal](https://dev.to/hejhdiss/custom-language-architecture-for-low-end-neuroshellos-a-design-proposal-2op)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 9&rpar;: Shooting Bullets](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-9-shooting-bullets-1eof)
+- [What are your goals for the week? #161](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-161-3jfn)
+- [Java Variables](https://dev.to/kesavarthini/java-variables-2iod)
 <!-- BLOG-POST-LIST:END -->
 
 
