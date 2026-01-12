@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to DevOps #4. What Problems DevOps Solves](https://dev.to/himanshu_bhatt/introduction-to-devops-4-what-problems-devops-solves-177g)
-- [VScode 的自動執行機制--Tasks](https://dev.to/codemee/vscode-de-zi-dong-zhi-xing-ji-zhi-tasks-387j)
-- [How to Add Adjacency-Aware Contextual Targeting to Prebid in 15 Minutes](https://dev.to/mixpeek/how-to-add-adjacency-aware-contextual-targeting-to-prebid-in-15-minutes-3342)
-- [Week 4 Firewall Labs: 4 Production-Ready Firewall Scenarios with iptables](https://dev.to/fosres/master-iptables-security-4-production-ready-firewall-scenarios-860)
+- [7 Reasons Why I&#39;ll Keep Writing—Even If AI Writes Faster and Better](https://dev.to/canro91/7-reasons-why-ill-keep-writing-even-if-ai-writes-faster-and-better-148e)
+- [Shared vs VPS Hosting: Which One is Better in 2026?](https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m)
+- [Things I Wish I Knew as a Junior Developer](https://dev.to/arauly_tech_pvt_ltd/things-i-wish-i-knew-as-a-junior-developer-5b11)
+- [Building a Free, Private Audio Transcriber with Next.js](https://dev.to/niroshan_dh/building-a-free-private-audio-transcriber-with-nextjs-2df6)
 <!-- BLOG-POST-LIST:END -->
 
 
