@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Assistive Technologies for People with Visual Impairments](https://dev.to/tatyanabayramova/ai-in-assistive-technologies-for-people-with-visual-impairments-3peh)
-- [User flows are the new apps](https://dev.to/bd_perez/user-flows-are-the-new-apps-2cpj)
-- [Quiverstone: The Single Pane of Glass for AWS Multi-Account Chaos](https://dev.to/aws-builders/quiverstone-the-single-pane-of-glass-for-aws-multi-account-chaos-343d)
-- [🩺 How I Troubleshoot an EC2 Instance in the Real World &lpar;Using Instance Diagnostics&rpar;](https://dev.to/aws-builders/how-i-troubleshoot-an-ec2-instance-in-the-real-world-using-instance-diagnostics-3dk8)
+- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i)
+- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8)
+- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm)
+- [No Kotlin? No Problem. How I shipped Android Apps using React &amp; Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja)
 <!-- BLOG-POST-LIST:END -->
 
 
