@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to resolve crashes when reading the width of video files in the gallery](https://dev.to/harmonyos/how-to-resolve-crashes-when-reading-the-width-of-video-files-in-the-gallery-4259)
-- [The Silent Registration Killer: When Auto-Formatters and Linters Collide](https://dev.to/ajitkumar/the-silent-registration-killer-when-auto-formatters-and-linters-collide-26j5)
-- [Music Monday - Winter Music ❄️](https://dev.to/musicforem/music-monday-winter-music-27n)
-- [I Built “Personal Store” Because I Was Tired of Texting Myself](https://dev.to/mangesh_dalvi_7bcb2337614/i-built-personal-store-because-i-was-tired-of-texting-myself-2a3p)
+- [Chatbot Internationalization: i18n Implementation Guide](https://dev.to/chatboqai/chatbot-internationalization-i18n-implementation-guide-58h6)
+- [What Really Happens When an LLM Chooses the Next Token🤯](https://dev.to/louis7/what-really-happens-when-an-llm-chooses-the-next-token-19n7)
+- [Bank of America’s 4% Recommendation: When Wall Street’s Conservatives Raise the Crypto White Flag](https://dev.to/apnews/bank-of-americas-4-recommendation-when-wall-streets-conservatives-raise-the-crypto-white-flag-302h)
+- [Requirement to software Delivery in midsize comp CHEATSHEET](https://dev.to/softwarejutsu/requirement-to-software-delivery-in-midsize-comp-cheatsheet-2ci1)
 <!-- BLOG-POST-LIST:END -->
 
 
