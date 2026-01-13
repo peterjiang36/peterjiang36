@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a $5,000/Month AI System with ChatGPT + Gumroad](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-build-a-5000month-ai-system-with-chatgpt-gumroad-4fde)
+- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
 - [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
 - [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
-- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
-- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
 <!-- BLOG-POST-LIST:END -->
 
 
