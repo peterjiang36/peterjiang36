@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [domharvest-playwright 1.3.0: Declarative DSL and Authentication Support](https://dev.to/domharvest/domharvest-playwright-130-declarative-dsl-and-authentication-support-20d5)
-- [Padrões de Arquitetura vs Padrões de Projeto](https://dev.to/filosofiadobug/padroes-de-arquitetura-vs-padroes-de-projeto-49ik)
-- [SwiftUI Background Work &amp; Task Scheduling &lpar;Production Architecture&rpar;](https://dev.to/sebastienlato/swiftui-background-work-task-scheduling-production-architecture-3f1p)
-- [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
+- [Ditch Matplotlib: Create an Interactive Python Chart in 3 Lines of Code](https://dev.to/edgarmilvus/ditch-matplotlib-create-an-interactive-python-chart-in-3-lines-of-code-1204)
+- [1 year of using AI tools in enterprise apps — here’s what I learned](https://dev.to/atokarev_9/1-year-of-using-ai-tools-in-enterprise-apps-heres-what-i-learned-2dod)
+- [Serverless MCP: Stateless Execution for Enterprise AI Tools](https://dev.to/zaynelt/serverless-mcp-stateless-execution-for-enterprise-ai-tools-45cf)
+- [I Built a VSCode Extension to Learn How VSCode Extensions Work](https://dev.to/aimatey/i-built-a-vscode-extension-to-learn-how-vscode-extensions-work-3197)
 <!-- BLOG-POST-LIST:END -->
 
 
