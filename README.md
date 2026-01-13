@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 VSCode Extensions That Will Make You Actually Enjoy Coding Again](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-4lp1)
-- [Angular Addicts #45: Signal Form guides, AI integrations &amp; more](https://dev.to/this-is-angular/angular-addicts-45-signal-form-guides-ai-integrations-more-2ka9)
-- [A Small pip Flag That Keeps Your Terminal Clean](https://dev.to/micheal_angelo_41cea4e81a/a-small-pip-flag-that-keeps-your-terminal-clean-1hpk)
-- [Auto-Update “Last Updated” Date in README on Every GitHub Push](https://dev.to/micheal_angelo_41cea4e81a/auto-update-last-updated-date-in-readme-on-every-github-push-4i7)
+- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
+- [Vibe coding method that actually works](https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb)
+- [How Python Developers Help Build Secure and High-Performance Applications](https://dev.to/william_smith/how-python-developers-help-build-secure-and-high-performance-applications-g0a)
+- [A Eulogy for Dark Sky: Celebrating a Data Visualization Masterpiece](https://dev.to/dd8888/a-eulogy-for-dark-sky-celebrating-a-data-visualization-masterpiece-4nk9)
 <!-- BLOG-POST-LIST:END -->
 
 
