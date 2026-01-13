@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Architecture Patterns Aren’t Magic — They Just Fix Constraints](https://dev.to/optyxstack/scalable-architecture-patterns-arent-magic-they-just-fix-constraints-2cmk)
-- [SmoothUI: 40+ Animated React Components with Motion](https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5)
-- [NodeJS &amp; MongoDB API revisited — Following the MVC Pattern](https://dev.to/benjamin_janis_4a28dbe27f/nodejs-mongodb-api-revisited-following-the-mvc-pattern-4735)
-- [SQL vs MongoDB&lpar;noSQL&rpar;! How to decide between databases](https://dev.to/benjamin_janis_4a28dbe27f/sql-vs-mongodbnosql-how-to-decide-between-databases-ml2)
+- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
+- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
+- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
+- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
 <!-- BLOG-POST-LIST:END -->
 
 
