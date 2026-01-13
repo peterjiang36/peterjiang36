@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: Identity](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-identity-3m27)
-- [Refactor an Existing Codebase using Prompt Driven Development](https://dev.to/azure/refactor-an-existing-codebase-using-prompt-driven-development-1gem)
-- [From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026](https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no)
-- [Mouse Events in JavaScript: Why Your UI Flickers &lpar;and How to Fix It Properly&rpar;](https://dev.to/farhad_hossain_500d9cf52a/mouse-events-in-javascript-why-your-ui-flickers-and-how-to-fix-it-properly-hbf)
+- [5 VSCode Extensions That Will Make You Actually Enjoy Coding Again](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-4lp1)
+- [Angular Addicts #45: Signal Form guides, AI integrations &amp; more](https://dev.to/this-is-angular/angular-addicts-45-signal-form-guides-ai-integrations-more-2ka9)
+- [A Small pip Flag That Keeps Your Terminal Clean](https://dev.to/micheal_angelo_41cea4e81a/a-small-pip-flag-that-keeps-your-terminal-clean-1hpk)
+- [Auto-Update “Last Updated” Date in README on Every GitHub Push](https://dev.to/micheal_angelo_41cea4e81a/auto-update-last-updated-date-in-readme-on-every-github-push-4i7)
 <!-- BLOG-POST-LIST:END -->
 
 
