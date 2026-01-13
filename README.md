@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp)
-- [You don&#39;t have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b)
-- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095)
-- [Second-Half Routing: From Traffic Control to Collective Intelligence](https://dev.to/narnaiezzsshaa/second-half-routing-from-traffic-control-to-collective-intelligence-2ib4)
+- [AI Slop Detector v2.6.1 Self-Audit: I planted 3 bad files — did it catch them?](https://dev.to/flamehaven01/ai-slop-detector-v261-self-audit-i-planted-3-bad-files-did-it-catch-them-52h8)
+- [CCNP Enterprise Certification: Your Complete Guide to Advancing Network Expertise](https://dev.to/rohan_jee_085655230/ccnp-enterprise-certification-your-complete-guide-to-advancing-network-expertise-16m8)
+- [I Built a LeetCode CLI That Tracks Your Solve Time and Saves Solution Versions](https://dev.to/night_slayer/i-built-a-leetcode-cli-that-tracks-your-solve-time-and-saves-solution-versions-1fok)
+- [CCIE Data Center Certification: Expert Path to Modern Data Center Mastery](https://dev.to/rohan_jee_085655230/ccie-data-center-certification-expert-path-to-modern-data-center-mastery-3ojb)
 <!-- BLOG-POST-LIST:END -->
 
 
