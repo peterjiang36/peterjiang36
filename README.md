@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
-- [Vibe coding method that actually works](https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb)
-- [How Python Developers Help Build Secure and High-Performance Applications](https://dev.to/william_smith/how-python-developers-help-build-secure-and-high-performance-applications-g0a)
-- [A Eulogy for Dark Sky: Celebrating a Data Visualization Masterpiece](https://dev.to/dd8888/a-eulogy-for-dark-sky-celebrating-a-data-visualization-masterpiece-4nk9)
+- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
+- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
+- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
+- [How not to use Static classes in C#](https://dev.to/rahul1994jh/how-not-to-use-static-classes-in-c--53p2)
 <!-- BLOG-POST-LIST:END -->
 
 
