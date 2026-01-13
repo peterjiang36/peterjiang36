@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ditch Matplotlib: Create an Interactive Python Chart in 3 Lines of Code](https://dev.to/edgarmilvus/ditch-matplotlib-create-an-interactive-python-chart-in-3-lines-of-code-1204)
-- [1 year of using AI tools in enterprise apps — here’s what I learned](https://dev.to/atokarev_9/1-year-of-using-ai-tools-in-enterprise-apps-heres-what-i-learned-2dod)
-- [Serverless MCP: Stateless Execution for Enterprise AI Tools](https://dev.to/zaynelt/serverless-mcp-stateless-execution-for-enterprise-ai-tools-45cf)
-- [I Built a VSCode Extension to Learn How VSCode Extensions Work](https://dev.to/aimatey/i-built-a-vscode-extension-to-learn-how-vscode-extensions-work-3197)
+- [Why I Built a Local-First SVG Editor &lpar;Privacy-focused &amp; Zero-Burn&rpar; 🛠️](https://dev.to/hypertools/why-i-built-a-local-first-svg-editor-privacy-focused-zero-burn-41me)
+- [How to Extract Tables from PDFs Using Python &lpar;Without Losing Your Mind&rpar;](https://dev.to/uppnrise/how-to-extract-tables-from-pdfs-using-python-without-losing-your-mind-1beb)
+- [Why Ralph Wiggum Needs Lisa](https://dev.to/tonycasey/why-ralph-wiggum-needs-lisa-23nm)
+- [Stop Fighting TypeScript in React: Common Frustrations and How to Fix Them](https://dev.to/tarunmj6/stop-fighting-typescript-in-react-common-frustrations-and-how-to-fix-them-19a8)
 <!-- BLOG-POST-LIST:END -->
 
 
