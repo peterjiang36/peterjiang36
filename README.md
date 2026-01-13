@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Tab-Switching: Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)
-- [Zig vs Go: init and run](https://dev.to/pix303/zig-vs-go-init-and-run-pd9)
-- [From Zero to SQS Lambda in 15 Minutes](https://dev.to/konfydev/i-just-learnt-how-to-use-sqs-trigger-a-lambda-in-15-minutes-13oc)
-- [AWS Graviton migration with Kiro CLI and the Arm MCP server](https://dev.to/aws-builders/aws-graviton-migration-with-kiro-cli-and-the-arm-mcp-server-38fd)
+- [Scalable Architecture Patterns Aren’t Magic — They Just Fix Constraints](https://dev.to/optyxstack/scalable-architecture-patterns-arent-magic-they-just-fix-constraints-2cmk)
+- [SmoothUI: 40+ Animated React Components with Motion](https://dev.to/jqueryscript/smoothui-40-animated-react-components-with-motion-8e5)
+- [NodeJS &amp; MongoDB API revisited — Following the MVC Pattern](https://dev.to/benjamin_janis_4a28dbe27f/nodejs-mongodb-api-revisited-following-the-mvc-pattern-4735)
+- [SQL vs MongoDB&lpar;noSQL&rpar;! How to decide between databases](https://dev.to/benjamin_janis_4a28dbe27f/sql-vs-mongodbnosql-how-to-decide-between-databases-ml2)
 <!-- BLOG-POST-LIST:END -->
 
 
