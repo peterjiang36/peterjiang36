@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2)
-- [Quantum Doomsday Delayed &lpar;Again&rpar;: Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/anoop-rajoriya/git-for-beginners-basics-and-essential-commands-4ah2)
-- [Building a Production-Ready Portfolio: Phase-2 — Frontend Bootstrapping &amp; Architecture Setup](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-2-frontend-bootstrapping-architecture-setup-2hc0)
+- [The Secret Life of JavaScript: Identity](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-identity-3m27)
+- [Refactor an Existing Codebase using Prompt Driven Development](https://dev.to/azure/refactor-an-existing-codebase-using-prompt-driven-development-1gem)
+- [From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026](https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no)
+- [Mouse Events in JavaScript: Why Your UI Flickers &lpar;and How to Fix It Properly&rpar;](https://dev.to/farhad_hossain_500d9cf52a/mouse-events-in-javascript-why-your-ui-flickers-and-how-to-fix-it-properly-hbf)
 <!-- BLOG-POST-LIST:END -->
 
 
