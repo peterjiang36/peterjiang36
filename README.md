@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Local-First SVG Editor &lpar;Privacy-focused &amp; Zero-Burn&rpar; 🛠️](https://dev.to/hypertools/why-i-built-a-local-first-svg-editor-privacy-focused-zero-burn-41me)
-- [How to Extract Tables from PDFs Using Python &lpar;Without Losing Your Mind&rpar;](https://dev.to/uppnrise/how-to-extract-tables-from-pdfs-using-python-without-losing-your-mind-1beb)
-- [Why Ralph Wiggum Needs Lisa](https://dev.to/tonycasey/why-ralph-wiggum-needs-lisa-23nm)
-- [Stop Fighting TypeScript in React: Common Frustrations and How to Fix Them](https://dev.to/tarunmj6/stop-fighting-typescript-in-react-common-frustrations-and-how-to-fix-them-19a8)
+- [Did I Make Money with AI?](https://dev.to/gudong/did-i-make-money-with-ai-1039)
+- [Beyond Discord: How I would Architect Community Infrastructure on AWS](https://dev.to/alifunk/beyond-discord-how-i-would-architect-community-infrastructure-on-aws-4dg5)
+- [Power Apps - Canvas - Onstart How to avoid ruining your application](https://dev.to/_follone/power-apps-canvas-onstart-how-to-avoid-ruining-your-application-d5)
+- [How to Run Jest Integration Tests in Parallel Using Isolated SQL Schemas](https://dev.to/cseby92/how-to-run-jest-integration-tests-in-parallel-using-isolated-sql-schemas-1bm7)
 <!-- BLOG-POST-LIST:END -->
 
 
