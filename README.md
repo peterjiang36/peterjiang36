@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a $5,000/Month AI System with ChatGPT + Gumroad](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-build-a-5000month-ai-system-with-chatgpt-gumroad-4fde)
-- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
-- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
-- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
+- [Send Transactional Emails in Node.js with Convex and AutoSend API](https://dev.to/ddebajyati/send-transactional-emails-in-nodejs-with-convex-and-autosend-api-lc4)
+- [OpenCode: tools, commands, agents y workflows](https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29)
+- [Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git &lpar;But Not From Yourself&rpar;](https://dev.to/deadlock/git-selective-ignore-because-sometimes-you-need-to-keep-secrets-from-git-but-not-from-yourself-37a7)
+- [Thinking in First Principles: How to Question an Async Queue–Based Design](https://dev.to/mohammadidrees/thinking-in-first-principles-how-to-question-an-async-queue-based-design-5cf1)
 <!-- BLOG-POST-LIST:END -->
 
 
