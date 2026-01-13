@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
-- [First Repeating Element in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/first-repeating-element-in-an-array-c-4ljp)
-- [Linux Is Not User-Friendly — And That’s Exactly Why I Use It](https://dev.to/azrael654/linux-is-not-user-friendly-and-thats-exactly-why-i-use-it-f64)
-- [Why Building Small Projects Matters More Than Certifications &lpar;At First&rpar;](https://dev.to/pwnjoshi/why-building-small-projects-matters-more-than-certifications-at-first-40i7)
+- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp)
+- [You don&#39;t have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b)
+- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095)
+- [Second-Half Routing: From Traffic Control to Collective Intelligence](https://dev.to/narnaiezzsshaa/second-half-routing-from-traffic-control-to-collective-intelligence-2ib4)
 <!-- BLOG-POST-LIST:END -->
 
 
