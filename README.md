@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Update &lpar;2026/01/13&rpar;: Added CRAZY Roller Coaster Builder Rainbow Version🌈](https://dev.to/webdeveloperhyper/update-20260113-added-crazy-roller-coaster-builder-rainbow-version-30fm)
-- [CanxJS: Framework Backend Super Cepat Berbasis Bun untuk Aplikasi Produksi](https://dev.to/chandafa/canxjs-framework-backend-super-cepat-berbasis-bun-untuk-aplikasi-produksi-4999)
-- [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
-- [Most Micromanagement Is Invited](https://dev.to/dexluce/most-micromanagement-is-invited-330k)
+- [Serverless Picture Gallery on Google Cloud - Part 3](https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-3-24k1)
+- [&quot;Just a small change,&quot; they said. It will be &quot;easy,&quot; they said. 🫠](https://dev.to/naved_shaikh/just-a-small-change-they-said-it-will-be-easy-they-said-fbj)
+- [Testing WebAuthn in CI: E2E Automation with Virtual Authenticators and Mailpit [Part 2]](https://dev.to/kochan/testing-webauthn-in-ci-e2e-automation-with-virtual-authenticators-and-mailpit-part-2-4j4i)
+- [Logtide 0.4.0: We Rebranded &lpar;And Shipped Our Best Features Yet&rpar;](https://dev.to/polliog/logtide-040-we-rebranded-and-shipped-our-best-features-yet-527i)
 <!-- BLOG-POST-LIST:END -->
 
 
