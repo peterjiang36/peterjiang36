@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Slop Detector v2.6.1 Self-Audit: I planted 3 bad files — did it catch them?](https://dev.to/flamehaven01/ai-slop-detector-v261-self-audit-i-planted-3-bad-files-did-it-catch-them-52h8)
-- [CCNP Enterprise Certification: Your Complete Guide to Advancing Network Expertise](https://dev.to/rohan_jee_085655230/ccnp-enterprise-certification-your-complete-guide-to-advancing-network-expertise-16m8)
-- [I Built a LeetCode CLI That Tracks Your Solve Time and Saves Solution Versions](https://dev.to/night_slayer/i-built-a-leetcode-cli-that-tracks-your-solve-time-and-saves-solution-versions-1fok)
-- [CCIE Data Center Certification: Expert Path to Modern Data Center Mastery](https://dev.to/rohan_jee_085655230/ccie-data-center-certification-expert-path-to-modern-data-center-mastery-3ojb)
+- [domharvest-playwright 1.3.0: Declarative DSL and Authentication Support](https://dev.to/domharvest/domharvest-playwright-130-declarative-dsl-and-authentication-support-20d5)
+- [Padrões de Arquitetura vs Padrões de Projeto](https://dev.to/filosofiadobug/padroes-de-arquitetura-vs-padroes-de-projeto-49ik)
+- [SwiftUI Background Work &amp; Task Scheduling &lpar;Production Architecture&rpar;](https://dev.to/sebastienlato/swiftui-background-work-task-scheduling-production-architecture-3f1p)
+- [Building High-Performance Interactive Mascots in Flutter with Rive &lpar;Production Guide for 2026&rpar;](https://dev.to/uianimation/building-high-performance-interactive-mascots-in-flutter-with-rive-production-guide-for-2026-17c6)
 <!-- BLOG-POST-LIST:END -->
 
 
