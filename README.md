@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
-- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
-- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
-- [How not to use Static classes in C#](https://dev.to/rahul1994jh/how-not-to-use-static-classes-in-c--53p2)
+- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
+- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
+- [[Boost]](https://dev.to/anthonymax/-22j8)
+- [Hybrid Async-Native Engine for Python: A Design Concept for Review](https://dev.to/hejhdiss/hybrid-async-native-engine-for-python-a-design-concept-for-review-1446)
 <!-- BLOG-POST-LIST:END -->
 
 
