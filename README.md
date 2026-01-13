@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
-- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
-- [[Boost]](https://dev.to/anthonymax/-22j8)
-- [Hybrid Async-Native Engine for Python: A Design Concept for Review](https://dev.to/hejhdiss/hybrid-async-native-engine-for-python-a-design-concept-for-review-1446)
+- [Update &lpar;2026/01/13&rpar;: Added CRAZY Roller Coaster Builder Rainbow Version🌈](https://dev.to/webdeveloperhyper/update-20260113-added-crazy-roller-coaster-builder-rainbow-version-30fm)
+- [CanxJS: Framework Backend Super Cepat Berbasis Bun untuk Aplikasi Produksi](https://dev.to/chandafa/canxjs-framework-backend-super-cepat-berbasis-bun-untuk-aplikasi-produksi-4999)
+- [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
+- [Most Micromanagement Is Invited](https://dev.to/dexluce/most-micromanagement-is-invited-330k)
 <!-- BLOG-POST-LIST:END -->
 
 
