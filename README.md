@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Backing Up GitHub Repositories to Amazon S3 &lpar;What Nobody Warns You About&rpar;](https://dev.to/karaniph/backing-up-github-repositories-to-amazon-s3-what-nobody-warns-you-about-5bmh)
-- [KEXP: Sextile - Soggy Newports &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-sextile-soggy-newports-live-on-kexp-4f21)
-- [Building Enterprise Vector Search in Rails &lpar;Part 2/3&rpar;: Production Resilience &amp; Monitoring](https://dev.to/stokry/building-enterprise-vector-search-in-rails-part-23-production-resilience-monitoring-3fpj)
-- [Loss Functions: The Brutally Honest Friend Your Model Desperately Needs](https://dev.to/sachin_krrajput/loss-functions-the-brutally-honest-friend-your-model-desperately-needs-3b6k)
+- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
+- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 10&rpar;: Implement Collision Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-10-implement-collision-detection-3d2o)
+- [Why AI backend code breaks when specs are vague &lpar;and what I’m building to fix it&rpar;](https://dev.to/hasnaat-iftikhar/why-ai-backend-code-breaks-when-specs-are-vague-and-what-im-building-to-fix-it-gp7)
 <!-- BLOG-POST-LIST:END -->
 
 
