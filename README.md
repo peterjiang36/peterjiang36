@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Years of Remote Work Taught Me to Stop Watching the Clock](https://dev.to/y-takashi/5-years-of-remote-work-taught-me-to-stop-watching-the-clock-mgn)
-- [AI Automation in 2026: What Actually Survives Production](https://dev.to/zestminds_technologies_c1/ai-automation-in-2026-what-actually-survives-production-8l6)
-- [Puck 0.21: AI beta, rich text editing &amp; new plugin rail](https://dev.to/fede_bonel_tozzi/puck-021-ai-beta-rich-text-editing-new-plugin-rail-36jl)
-- [Fundamentos de AppSec: Protegiendo el Corazón de tus Aplicaciones](https://dev.to/xnoruz/fundamentos-de-appsec-protegiendo-el-corazon-de-tus-aplicaciones-529e)
+- [🧭 Dominando el OWASP Top 10 &lpar;Edición 2025&rpar;: El Plano de Seguridad para la Próxima Generación](https://dev.to/xnoruz/dominando-el-owasp-top-10-edicion-2025-el-plano-de-seguridad-para-la-proxima-generacion-15jm)
+- [My Coding Attention Span Is Gone. Is AI to Blame?](https://dev.to/isah_alamin_93d4e4d2ab01f/my-coding-attention-span-is-gone-is-ai-to-blame-1pm7)
+- [The Hidden Trust Problem in AI-Generated Documentation](https://dev.to/synthaicode_commander/source-attribution-tags-how-ai-should-mark-its-own-uncertainty-4k9g)
+- [Understanding Industrial IoT Protocols for AI Documentation](https://dev.to/ronny_elsner_7g/understanding-industrial-iot-protocols-for-ai-documentation-42jg)
 <!-- BLOG-POST-LIST:END -->
 
 
