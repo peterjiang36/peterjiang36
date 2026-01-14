@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Architected Context: The Connect-Link-Query Pattern](https://dev.to/whykislay/how-we-architected-context-the-connect-link-query-pattern-124d)
-- [Can You Spot the Bugs? 35 C Security Code Review Challenges](https://dev.to/fosres/can-you-spot-the-bugs-35-c-security-code-review-challenges-2ahe)
-- [Building in Public: CV Analyzer — The Prologue](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-the-prologue-1l48)
-- [Robotics Salary Guide 2025: Data from 907 Jobs](https://dev.to/james_dam/robotics-salary-guide-2025-data-from-907-jobs-376d)
+- [React App Re-Renders Too Much The Hidden Performance Bug and the Correct Fix](https://dev.to/ar_abid_641aa302d5c68b2ae/react-app-re-renders-too-much-the-hidden-performance-bug-and-the-correct-fix-3a3e)
+- [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
+- [CPU–RAM–OS Synergy: Why Balanced Systems Matter More Than High Specs](https://dev.to/micheal_angelo_41cea4e81a/cpu-ram-os-synergy-why-balanced-systems-matter-more-than-high-specs-526d)
+- [When Indicators Are Not Functions: Defining Quant Operators in Rust](https://dev.to/yuer/when-indicators-are-not-functions-defining-quant-operators-in-rust-73h)
 <!-- BLOG-POST-LIST:END -->
 
 
