@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
-- [Deep Dive into SQLite Storage](https://dev.to/lovestaco/deep-dive-into-sqlite-storage-2lia)
-- [Relational databases via ODBC](https://dev.to/dipti_moryani_08e62702314/relational-databases-via-odbc-3hnp)
-- [Introducción a Cloudflare Workers](https://dev.to/adini/introduccion-a-cloudflare-workers-2888)
+- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
+- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
+- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
+- [From Maker to Systems Architect: Designing Software That Ships, Scales, and Survives](https://dev.to/kawano_aiyuki/from-maker-to-systems-architect-designing-software-that-ships-scales-and-survives-46h8)
 <!-- BLOG-POST-LIST:END -->
 
 
