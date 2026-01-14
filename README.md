@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
-- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
-- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 11&rpar;: Implement Game Over Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-11-implement-game-over-detection-2nb)
+- [Exploring Azure ADO MCP Server: A Smart Assistant for Smarter Development](https://dev.to/tmcd054/exploring-azure-ado-mcp-server-a-smart-assistant-for-smarter-development-3p2e)
+- [First Look Nomad 1.11.x - System Job Deployments](https://dev.to/lykins/first-look-nomad-111x-system-job-deployments-2131)
+- [Skip Repetitive Stack Setup &lpar;Database, Auth, UI&rpar; and Start Coding Immediately](https://dev.to/plvo/skip-repetitive-stack-setup-database-auth-ui-and-start-coding-immediately-4lc2)
+- [Migrating to MAUI 10: What Architects Need to Know](https://dev.to/tmcd054/migrating-to-maui-10-what-architects-need-to-know-5f4k)
 <!-- BLOG-POST-LIST:END -->
 
 
