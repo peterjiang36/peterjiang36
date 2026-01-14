@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React App Re-Renders Too Much The Hidden Performance Bug and the Correct Fix](https://dev.to/ar_abid_641aa302d5c68b2ae/react-app-re-renders-too-much-the-hidden-performance-bug-and-the-correct-fix-3a3e)
-- [Building an AI Blog Generator with FastAPI, React, and Hugging Face](https://dev.to/lymah/building-an-ai-blog-generator-with-fastapi-react-and-hugging-face-49m5)
-- [CPU–RAM–OS Synergy: Why Balanced Systems Matter More Than High Specs](https://dev.to/micheal_angelo_41cea4e81a/cpu-ram-os-synergy-why-balanced-systems-matter-more-than-high-specs-526d)
-- [When Indicators Are Not Functions: Defining Quant Operators in Rust](https://dev.to/yuer/when-indicators-are-not-functions-defining-quant-operators-in-rust-73h)
+- [Lab: Finding a hidden GraphQL endpoint](https://dev.to/travondatrack/lab-finding-a-hidden-graphql-endpoint-44j6)
+- [Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop](https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8)
+- [The Truth About Coding That Changes Everything](https://dev.to/canro91/the-truth-about-coding-that-changes-everything-31eh)
+- [🚀 Startup Engineering Isn’t About Code — It’s About Tradeoffs](https://dev.to/shahnoor_mujawar/startup-engineering-isnt-about-code-its-about-tradeoffs-pao)
 <!-- BLOG-POST-LIST:END -->
 
 
