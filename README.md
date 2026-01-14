@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Did I Make Money with AI?](https://dev.to/gudong/did-i-make-money-with-ai-1039)
-- [Beyond Discord: How I would Architect Community Infrastructure on AWS](https://dev.to/alifunk/beyond-discord-how-i-would-architect-community-infrastructure-on-aws-4dg5)
-- [Power Apps - Canvas - Onstart How to avoid ruining your application](https://dev.to/_follone/power-apps-canvas-onstart-how-to-avoid-ruining-your-application-d5)
-- [How to Run Jest Integration Tests in Parallel Using Isolated SQL Schemas](https://dev.to/cseby92/how-to-run-jest-integration-tests-in-parallel-using-isolated-sql-schemas-1bm7)
+- [Simple Leave Management with AWS Lambda Durable Functions](https://dev.to/aws-builders/simple-leave-management-with-aws-lambda-durable-functions-if2)
+- [Scetion 4 completeted!! 🥳](https://dev.to/sleepy_ahmed_dbad3fbe96bc/scetion-4-completeted-573j)
+- [I Built an AI Research Agent to Cure My &quot;Doomscrolling&quot; Addiction](https://dev.to/practicalaiguy_ba30448492/i-built-an-ai-research-agent-to-cure-my-doomscrolling-addiction-42mi)
+- [Building a Biometric Crypto Wallet &lpar;That Actually Works!&rpar;](https://dev.to/ola-zoll/building-a-biometric-crypto-wallet-that-actually-works-2ble)
 <!-- BLOG-POST-LIST:END -->
 
 
