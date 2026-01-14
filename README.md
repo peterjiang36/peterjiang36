@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
-- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
-- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
-- [SQL on Kafka Data Does Not Require a Streaming Engine](https://dev.to/novatechflow/sql-on-kafka-data-does-not-require-a-streaming-engine-3kfe)
+- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
+- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
+- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
+- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
 <!-- BLOG-POST-LIST:END -->
 
 
