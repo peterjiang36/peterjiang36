@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
-- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
-- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
-- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
+- [Why PDFs Are Hard to Work With &lpar;From a Technical Perspective&rpar;](https://dev.to/axel007/why-pdfs-are-hard-to-work-with-from-a-technical-perspective-4fe2)
+- [Best AI Tools for Coding in 2026: A Practical Guide for Modern Developers](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2026-a-practical-guide-for-modern-developers-22hk)
+- [The Lead Scoring System That Ignored Million-Dollar Deals &lpar;Because The CEO Had a Gmail Account&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-lead-scoring-system-that-ignored-million-dollar-deals-because-the-ceo-had-a-gmail-account-2b87)
+- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-4d6o)
 <!-- BLOG-POST-LIST:END -->
 
 
