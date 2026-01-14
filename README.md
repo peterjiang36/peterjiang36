@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Field Risk Memo — On an Unmodeled High-Dimensional Risk in LLM-based Systems](https://dev.to/yuer/semantic-field-risk-memo-on-an-unmodeled-high-dimensional-risk-in-llm-based-systems-4l3k)
-- [How to Build Multi-Agent Systems: Complete 2026 Guide](https://dev.to/eira-wexford/how-to-build-multi-agent-systems-complete-2026-guide-1io6)
-- [Describe the ML Development Cycle](https://dev.to/aws-builders/describe-the-ml-development-cycle-43dl)
-- [Weather Service Project &lpar;Part 3&rpar;: Predicting the Future with AI and OpenWeatherMap](https://dev.to/datalaria/weather-service-project-part-3-predicting-the-future-with-ai-and-openweathermap-2436)
+- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
+- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
+- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
+- [SQL on Kafka Data Does Not Require a Streaming Engine](https://dev.to/novatechflow/sql-on-kafka-data-does-not-require-a-streaming-engine-3kfe)
 <!-- BLOG-POST-LIST:END -->
 
 
