@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Azure ADO MCP Server: A Smart Assistant for Smarter Development](https://dev.to/tmcd054/exploring-azure-ado-mcp-server-a-smart-assistant-for-smarter-development-3p2e)
-- [First Look Nomad 1.11.x - System Job Deployments](https://dev.to/lykins/first-look-nomad-111x-system-job-deployments-2131)
-- [Skip Repetitive Stack Setup &lpar;Database, Auth, UI&rpar; and Start Coding Immediately](https://dev.to/plvo/skip-repetitive-stack-setup-database-auth-ui-and-start-coding-immediately-4lc2)
-- [Migrating to MAUI 10: What Architects Need to Know](https://dev.to/tmcd054/migrating-to-maui-10-what-architects-need-to-know-5f4k)
+- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
+- [WEEK 1 ASSIGNMENT.](https://dev.to/murimikelvin/week-1-assignment-2lid)
+- [8 Hidden Linux CLI Gems](https://dev.to/benji377/8-hidden-linux-cli-gems-4g1e)
+- [Azure DevOps as a Lightweight Ticketing System for SMEs](https://dev.to/devced/azure-devops-as-a-lightweight-ticketing-system-for-smes-105h)
 <!-- BLOG-POST-LIST:END -->
 
 
