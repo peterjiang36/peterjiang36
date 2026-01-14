@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning block/goose into an AI SRE Agent](https://dev.to/nietzscheson/turning-blockgoose-into-an-ai-sre-agent-1465)
-- [Offline-First Health Apps: Ensuring Reliability When Connectivity Fails](https://dev.to/wellallytech/offline-first-health-apps-ensuring-reliability-when-connectivity-fails-1pmc)
-- [We Built Avery Using Avery: What Dogfooding Taught Us About AI Coding&#39;s Broken Incentives](https://dev.to/rbnphkn_avry/we-built-avery-using-avery-what-dogfooding-taught-us-about-ai-codings-broken-incentives-41h8)
-- [We Deleted 5,600 Lines of Code with Claude &lpar;and Found 1 Bug&rpar;](https://dev.to/traviticus/we-deleted-5600-lines-of-code-with-claude-and-found-1-bug-on9)
+- [🚀 &quot;Load Shedding&quot;: How to Be the Fire Marshal of Your Infrastructure 🚒🚫](https://dev.to/charanpool/load-shedding-how-to-be-the-fire-marshal-of-your-infrastructure-lld)
+- [Github Space Shooter 🚀](https://dev.to/zeling_chen_73840b4951f53/github-space-shooter-51ho)
+- [TranslatePlus Zapier Integration &lpar;10K Free Credits&rpar;](https://dev.to/translateplus/translateplus-zapier-integration-10k-free-credits-222m)
+- [AI governance for Devs: simple rules that work](https://dev.to/jaideepparashar/ai-governance-for-devs-simple-rules-that-work-3690)
 <!-- BLOG-POST-LIST:END -->
 
 
