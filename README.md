@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lab: Finding a hidden GraphQL endpoint](https://dev.to/travondatrack/lab-finding-a-hidden-graphql-endpoint-44j6)
-- [Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop](https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8)
-- [The Truth About Coding That Changes Everything](https://dev.to/canro91/the-truth-about-coding-that-changes-everything-31eh)
-- [🚀 Startup Engineering Isn’t About Code — It’s About Tradeoffs](https://dev.to/shahnoor_mujawar/startup-engineering-isnt-about-code-its-about-tradeoffs-pao)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b)
+- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4)
+- [The iOS Safari Full-Height Video Fix That Actually Works &lpar;After 4 Hours of Everything That Doesn&#39;t&rpar;](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim)
+- [Inside Dark Web Monitoring: How Data Leaks Are Identified Responsibly](https://dev.to/kumaraditya7/inside-dark-web-monitoring-how-data-leaks-are-identified-responsibly-4l57)
 <!-- BLOG-POST-LIST:END -->
 
 
