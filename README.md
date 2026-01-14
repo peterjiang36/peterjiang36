@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b)
-- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4)
-- [The iOS Safari Full-Height Video Fix That Actually Works &lpar;After 4 Hours of Everything That Doesn&#39;t&rpar;](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim)
-- [Inside Dark Web Monitoring: How Data Leaks Are Identified Responsibly](https://dev.to/kumaraditya7/inside-dark-web-monitoring-how-data-leaks-are-identified-responsibly-4l57)
+- [Semantic Field Risk Memo — On an Unmodeled High-Dimensional Risk in LLM-based Systems](https://dev.to/yuer/semantic-field-risk-memo-on-an-unmodeled-high-dimensional-risk-in-llm-based-systems-4l3k)
+- [How to Build Multi-Agent Systems: Complete 2026 Guide](https://dev.to/eira-wexford/how-to-build-multi-agent-systems-complete-2026-guide-1io6)
+- [Describe the ML Development Cycle](https://dev.to/aws-builders/describe-the-ml-development-cycle-43dl)
+- [Weather Service Project &lpar;Part 3&rpar;: Predicting the Future with AI and OpenWeatherMap](https://dev.to/datalaria/weather-service-project-part-3-predicting-the-future-with-ai-and-openweathermap-2436)
 <!-- BLOG-POST-LIST:END -->
 
 
