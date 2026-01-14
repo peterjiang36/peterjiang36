@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a VS Code extension that reads your project&#39;s mind](https://dev.to/freerave/i-built-a-vs-code-extension-that-reads-your-projects-mind-5gmi)
-- [Image Optimization with Next.js and Sanity.io](https://dev.to/drazenbebic/image-optimization-with-nextjs-and-sanityio-22ia)
-- [C# dynamic is a trap door: stop the leaks before they spread &lpar;Must read for Dapper users&rpar;](https://dev.to/dimonsmart/c-dynamic-is-a-trap-door-stop-the-leaks-before-they-spread-must-read-for-dapper-users-1b0l)
-- [I Built a Search Engine That Understands Meaning, Not Just Keywords](https://dev.to/mayankrsagar/i-built-a-search-engine-that-understands-meaning-not-just-keywords-1jfb)
+- [DevSecOps Explained for Beginners &lpar;What It Really Means in Practice&rpar;](https://dev.to/techgirli/devsecops-explained-for-beginners-what-it-really-means-in-practice-4p5a)
+- [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
+- [Getting Started with FinOps on Google Cloud: From Cost Cutting to Value Creation](https://dev.to/tech_croc_f32fbb6ea8ed4/getting-started-with-finops-on-google-cloud-from-cost-cutting-to-value-creation-605)
+- [I was struggling to deploy my web apps on base-tier servers&lpar;AWS t2 micro with 1gb ram&rpar; servers, which made me build Graft](https://dev.to/shahariyar_dipto_c7e116e0/i-was-struggling-to-deploy-my-web-apps-on-base-tier-serversaws-t2-micro-with-1gb-ram-servers-1ld0)
 <!-- BLOG-POST-LIST:END -->
 
 
