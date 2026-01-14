@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Leave Management with AWS Lambda Durable Functions](https://dev.to/aws-builders/simple-leave-management-with-aws-lambda-durable-functions-if2)
-- [Scetion 4 completeted!! 🥳](https://dev.to/sleepy_ahmed_dbad3fbe96bc/scetion-4-completeted-573j)
-- [I Built an AI Research Agent to Cure My &quot;Doomscrolling&quot; Addiction](https://dev.to/practicalaiguy_ba30448492/i-built-an-ai-research-agent-to-cure-my-doomscrolling-addiction-42mi)
-- [Building a Biometric Crypto Wallet &lpar;That Actually Works!&rpar;](https://dev.to/ola-zoll/building-a-biometric-crypto-wallet-that-actually-works-2ble)
+- [Turning block/goose into an AI SRE Agent](https://dev.to/nietzscheson/turning-blockgoose-into-an-ai-sre-agent-1465)
+- [Offline-First Health Apps: Ensuring Reliability When Connectivity Fails](https://dev.to/wellallytech/offline-first-health-apps-ensuring-reliability-when-connectivity-fails-1pmc)
+- [We Built Avery Using Avery: What Dogfooding Taught Us About AI Coding&#39;s Broken Incentives](https://dev.to/rbnphkn_avry/we-built-avery-using-avery-what-dogfooding-taught-us-about-ai-codings-broken-incentives-41h8)
+- [We Deleted 5,600 Lines of Code with Claude &lpar;and Found 1 Bug&rpar;](https://dev.to/traviticus/we-deleted-5600-lines-of-code-with-claude-and-found-1-bug-on9)
 <!-- BLOG-POST-LIST:END -->
 
 
