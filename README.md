@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why PDFs Are Hard to Work With &lpar;From a Technical Perspective&rpar;](https://dev.to/axel007/why-pdfs-are-hard-to-work-with-from-a-technical-perspective-4fe2)
-- [Best AI Tools for Coding in 2026: A Practical Guide for Modern Developers](https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2026-a-practical-guide-for-modern-developers-22hk)
-- [The Lead Scoring System That Ignored Million-Dollar Deals &lpar;Because The CEO Had a Gmail Account&rpar;](https://dev.to/faraz_farhan_83ed23a154a2/the-lead-scoring-system-that-ignored-million-dollar-deals-because-the-ceo-had-a-gmail-account-2b87)
-- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-4d6o)
+- [I built a VS Code extension that reads your project&#39;s mind](https://dev.to/freerave/i-built-a-vs-code-extension-that-reads-your-projects-mind-5gmi)
+- [Image Optimization with Next.js and Sanity.io](https://dev.to/drazenbebic/image-optimization-with-nextjs-and-sanityio-22ia)
+- [C# dynamic is a trap door: stop the leaks before they spread &lpar;Must read for Dapper users&rpar;](https://dev.to/dimonsmart/c-dynamic-is-a-trap-door-stop-the-leaks-before-they-spread-must-read-for-dapper-users-1b0l)
+- [I Built a Search Engine That Understands Meaning, Not Just Keywords](https://dev.to/mayankrsagar/i-built-a-search-engine-that-understands-meaning-not-just-keywords-1jfb)
 <!-- BLOG-POST-LIST:END -->
 
 
