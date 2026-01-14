@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧭 Dominando el OWASP Top 10 &lpar;Edición 2025&rpar;: El Plano de Seguridad para la Próxima Generación](https://dev.to/xnoruz/dominando-el-owasp-top-10-edicion-2025-el-plano-de-seguridad-para-la-proxima-generacion-15jm)
-- [My Coding Attention Span Is Gone. Is AI to Blame?](https://dev.to/isah_alamin_93d4e4d2ab01f/my-coding-attention-span-is-gone-is-ai-to-blame-1pm7)
-- [The Hidden Trust Problem in AI-Generated Documentation](https://dev.to/synthaicode_commander/source-attribution-tags-how-ai-should-mark-its-own-uncertainty-4k9g)
-- [Understanding Industrial IoT Protocols for AI Documentation](https://dev.to/ronny_elsner_7g/understanding-industrial-iot-protocols-for-ai-documentation-42jg)
+- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
+- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
+- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 11&rpar;: Implement Game Over Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-11-implement-game-over-detection-2nb)
 <!-- BLOG-POST-LIST:END -->
 
 
