@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 &quot;Load Shedding&quot;: How to Be the Fire Marshal of Your Infrastructure 🚒🚫](https://dev.to/charanpool/load-shedding-how-to-be-the-fire-marshal-of-your-infrastructure-lld)
-- [Github Space Shooter 🚀](https://dev.to/zeling_chen_73840b4951f53/github-space-shooter-51ho)
-- [TranslatePlus Zapier Integration &lpar;10K Free Credits&rpar;](https://dev.to/translateplus/translateplus-zapier-integration-10k-free-credits-222m)
-- [AI governance for Devs: simple rules that work](https://dev.to/jaideepparashar/ai-governance-for-devs-simple-rules-that-work-3690)
+- [How We Architected Context: The Connect-Link-Query Pattern](https://dev.to/whykislay/how-we-architected-context-the-connect-link-query-pattern-124d)
+- [Can You Spot the Bugs? 35 C Security Code Review Challenges](https://dev.to/fosres/can-you-spot-the-bugs-35-c-security-code-review-challenges-2ahe)
+- [Building in Public: CV Analyzer — The Prologue](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-the-prologue-1l48)
+- [Robotics Salary Guide 2025: Data from 907 Jobs](https://dev.to/james_dam/robotics-salary-guide-2025-data-from-907-jobs-376d)
 <!-- BLOG-POST-LIST:END -->
 
 
