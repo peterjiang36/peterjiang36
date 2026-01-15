@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
-- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
-- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
-- [Building a digital badge system with the help of Kiro &lpar;and Amazon ECS Express Mode](https://dev.to/aws/building-a-digital-badge-system-with-the-help-of-kiro-and-amazon-ecs-express-mode-2i0o)
+- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc)
+- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7)
+- [Sprint Retrospectives: The 30-Minute Habit That Makes Teams 10x Better &lpar;Without Working Harder&rpar;](https://dev.to/clear_retro/sprint-retrospectives-the-30-minute-habit-that-makes-teams-10x-better-without-working-harder-332i)
+- [El MVP que funciona &lpar;1-100 usuarios&rpar;](https://dev.to/norman404/el-mvp-que-funciona-1-100-usuarios-3pi3)
 <!-- BLOG-POST-LIST:END -->
 
 
