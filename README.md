@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation](https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp)
-- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
-- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
-- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
+- [Hice mi primer script en rust-script para hacer backups de solr/lucene con barra de progreso usando gemini. 
+Es realmente increíble 
+https://gist.github.com/horaciod/858fdeb5632abe806ef2707c03bbf5cd](https://dev.to/horaciodegiorgi/hice-mi-primer-script-en-rust-script-para-hacer-backups-de-solrlucene-con-barra-de-progreso-39j7)
+- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
+- [[Boost]](https://dev.to/thebitforge/-9kb)
+- [I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code](https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj)
 <!-- BLOG-POST-LIST:END -->
 
 
