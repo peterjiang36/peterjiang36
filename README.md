@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Todo App](https://dev.to/abhishek_arankal_4ac78c11/todo-app-4m0a)
-- [Solved: Cloudflare is down again](https://dev.to/techresolve/solved-cloudflare-is-down-again-1io3)
-- [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
-- [Solved: What’s up with insurance companies doing lame security asseessments and selling MDR?](https://dev.to/techresolve/solved-whats-up-with-insurance-companies-doing-lame-security-asseessments-and-selling-mdr-2fi5)
+- [Why “AI Engineer” Sounded Like a Dead End to Me &lpar;Until It Didn’t&rpar;](https://dev.to/dev-in-progress/why-ai-engineer-sounded-like-a-dead-end-to-me-until-it-didnt-20k5)
+- [xAI Software Engineer Interview &lpar;2026&rpar; — Full Recap, Pitfalls &amp; Real Prep Tips](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
+- [Logtide: 2 Months After Launch &lpar;The Real Numbers&rpar;](https://dev.to/polliog/logtide-2-months-after-launch-the-real-numbers-fp0)
+- [The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation](https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np)
 <!-- BLOG-POST-LIST:END -->
 
 
