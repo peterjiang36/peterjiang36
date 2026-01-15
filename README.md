@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
-- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
-- [¿Por qué hacer scraping hoy es más complejo de lo que parece?](https://dev.to/criszcova/por-que-hacer-scraping-hoy-es-mas-complejo-de-lo-que-parece-265g)
-- [Gemini Just Got Hostile At Me 🙁](https://dev.to/laughlete/gemini-just-got-hostile-at-me-2pb7)
+- [From Terraform to GitOps: Building an End-to-End DevOps Platform with 11 Microservices](https://dev.to/sarath_v_/from-terraform-to-gitops-building-an-end-to-end-devops-platform-with-11-microservices-4gea)
+- [Zig vs Go: constants, variables and basic types](https://dev.to/pix303/zig-vs-go-constants-variables-and-basic-types-2466)
+- [No, la IA no programa. Y los que te dicen lo contrario te están vendiendo humo](https://dev.to/jjdelcerro/no-la-ia-no-programa-y-los-que-te-dicen-lo-contrario-te-estan-vendiendo-humo-4506)
+- [Checksums: What They Are, Why They Matter, and Where They Belong in Your Release Pipeline](https://dev.to/luke_mueller_ff55e09823a5/checksums-what-they-are-why-they-matter-and-where-they-belong-in-your-release-pipeline-393)
 <!-- BLOG-POST-LIST:END -->
 
 
