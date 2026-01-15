@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Magic of .sock: Why Modern Infrastructure Relies on Unix Domain Sockets](https://dev.to/kanywst/the-magic-of-sock-why-modern-infrastructure-relies-on-unix-domain-sockets-4ohl)
-- [How Small Pull Requests Improve Team Flow](https://dev.to/kodus/how-small-pull-requests-improve-team-flow-3gml)
-- [Ringer Movies: ‘Avengers: Doomsday’ Teaser Reactions](https://dev.to/popcorn_movies/ringer-movies-avengers-doomsday-teaser-reactions-3341)
-- [Designing an AI-Operable Release Workflow](https://dev.to/synthaicode_commander/designing-an-ai-operable-release-workflow-1ja5)
+- [I Built an AI Tool to Generate SEO Blogs &amp; Pages - Here’s What I Learned](https://dev.to/sanjaynegi94/i-built-an-ai-tool-to-generate-seo-blogs-pages-heres-what-i-learned-412g)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 12&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-12-playing-sound-effects-34j2)
+- [The Best and Worst of IT in 2025: Highlights, Scandals, Innovations](https://dev.to/nevpetda/the-best-and-worst-of-it-in-2025-highlights-scandals-innovations-1fek)
+- [Would you take a bag of cash from a VC or stay bootstrapped?](https://dev.to/marcin_codes/would-you-take-a-bag-of-cash-from-a-vc-or-stay-bootstrapped-34ec)
 <!-- BLOG-POST-LIST:END -->
 
 
