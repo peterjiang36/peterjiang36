@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Square Image Editor with Next.js: Lessons from SquareImage](https://dev.to/sam_lee_880a38a45a170858b/building-a-production-ready-square-image-editor-with-nextjs-lessons-from-squareimage-2cjc)
-- [The Status Field That Grew Three Heads &lpar;And How We Fixed It&rpar;](https://dev.to/traviticus/the-status-field-that-grew-three-heads-and-how-we-fixed-it-27i3)
-- [The Goldman-JPMorgan Breaches Prove Enterprise Security Is Built on a Lie](https://dev.to/zeroblind25/the-goldman-jpmorgan-breaches-prove-enterprise-security-is-built-on-a-lie-3900)
-- [ServiceNow&#39;s Virtual Agent Vulnerability Shows Why AI Security Needs Traditional AppSec Foundations](https://dev.to/snyk/servicenows-virtual-agent-vulnerability-shows-why-ai-security-needs-traditional-appsec-foundations-4j9h)
+- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
+- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
+- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
+- [[AWS] 6. AWS Fundamentals: RDS &lpar;Relational Database Service&rpar; + Amazon Aurora + ElastiCache](https://dev.to/sangwoo_rhie/aws-6-aws-fundamentals-rds-relational-database-service-amazon-aurora-elasticache-4bg3)
 <!-- BLOG-POST-LIST:END -->
 
 
