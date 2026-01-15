@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc)
-- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7)
-- [Sprint Retrospectives: The 30-Minute Habit That Makes Teams 10x Better &lpar;Without Working Harder&rpar;](https://dev.to/clear_retro/sprint-retrospectives-the-30-minute-habit-that-makes-teams-10x-better-without-working-harder-332i)
-- [El MVP que funciona &lpar;1-100 usuarios&rpar;](https://dev.to/norman404/el-mvp-que-funciona-1-100-usuarios-3pi3)
+- [Cut AWS Bills by 50–75% with EC2 and RDS Parking](https://dev.to/mauhftw/cut-aws-bills-by-50-75-with-ec2-and-rds-parking-5c0e)
+- [Getting to grips with PKCE Spotify authentication in a React js app](https://dev.to/giles_webberley_2c4cc9f84/getting-to-grips-with-pkce-spotify-authentication-in-a-react-js-app-5g8n)
+- [AI Is Not Your Product. It’s Just a Feature.](https://dev.to/christoph_codes/ai-is-not-your-product-its-just-a-feature-23p9)
+- [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://dev.to/tarekcheikh/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-lpm)
 <!-- BLOG-POST-LIST:END -->
 
 
