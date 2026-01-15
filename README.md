@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Downloading Large Files from Google Drive with Python.](https://dev.to/raafe_asad/-a-beginners-guide-to-downloading-large-files-from-google-drive-with-python-4m09)
-- [v2: When GSAP Stopped Being the Problem](https://dev.to/itsugo/v2-when-gsap-stopped-being-the-problem-2emp)
-- [Durable Functions in Lambda](https://dev.to/manumaan/durable-functions-in-lambda-4bna)
-- [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
+- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
+- [Code Standards and Best Practices for Growing Teams](https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g)
+- [A Practical Performance Comparison of Top Internal Tool Builders](https://dev.to/nigel_t/a-practical-performance-comparison-of-top-internal-tool-builders-4b4j)
+- [Humanoid Compute: Price vs. Performance](https://dev.to/ankk98/humanoid-compute-price-vs-performance-842)
 <!-- BLOG-POST-LIST:END -->
 
 
