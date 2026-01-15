@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
-- [Code Standards and Best Practices for Growing Teams](https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g)
-- [A Practical Performance Comparison of Top Internal Tool Builders](https://dev.to/nigel_t/a-practical-performance-comparison-of-top-internal-tool-builders-4b4j)
-- [Humanoid Compute: Price vs. Performance](https://dev.to/ankk98/humanoid-compute-price-vs-performance-842)
+- [Todo App](https://dev.to/abhishek_arankal_4ac78c11/todo-app-4m0a)
+- [Solved: Cloudflare is down again](https://dev.to/techresolve/solved-cloudflare-is-down-again-1io3)
+- [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
+- [Solved: What’s up with insurance companies doing lame security asseessments and selling MDR?](https://dev.to/techresolve/solved-whats-up-with-insurance-companies-doing-lame-security-asseessments-and-selling-mdr-2fi5)
 <!-- BLOG-POST-LIST:END -->
 
 
