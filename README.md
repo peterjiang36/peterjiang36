@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
-- [&quot;Air Gap&quot; for the Cloud: Why the AWS European Sovereign Cloud Changes Everything](https://dev.to/alifunk/air-gap-for-the-cloud-why-the-aws-european-sovereign-cloud-changes-everything-3gfp)
-- [How To Solve LeetCode 1193](https://dev.to/cmalaga/how-to-solve-leetcode-1193-3ekp)
-- [How I Made My First $1,300 from a SaaS While Finishing High School](https://dev.to/arjun_8ce91bf21cd035a5a00/how-i-made-my-first-1300-from-a-saas-while-finishing-high-school-37p9)
+- [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
+- [Where cloud security policies break down](https://dev.to/ncksecuritydude/where-cloud-security-policies-break-down-2n1n)
+- [Please, Stop Redirecting to Login on 401 Errors 🛑](https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l)
+- [Using Ruby Model Classes, Service Objects and Interactors](https://dev.to/zilton7/using-ruby-model-classes-service-objects-and-interactors-4d4p)
 <!-- BLOG-POST-LIST:END -->
 
 
