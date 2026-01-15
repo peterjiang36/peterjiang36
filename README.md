@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rack-style middleware for vector databases in Ruby: vectra-client 1.1.0](https://dev.to/stokry/rack-style-middleware-for-vector-databases-in-ruby-vectra-client-110-2jh3)
-- [From Cloudflare Zero-trust to Tailscale](https://dev.to/nfrankel/from-cloudflare-zero-trust-to-tailscale-450i)
-- [Importing a Custom EC2 Key Pair in AWS: A Step-by-Step Guide](https://dev.to/mayurbhatti/importing-a-custom-ec2-key-pair-in-aws-a-step-by-step-guide-5h3n)
-- [Build a Video Compilation Page](https://dev.to/richardpascoe/build-a-video-compilation-page-2oi9)
+- [A Beginner&#39;s Guide to Downloading Large Files from Google Drive with Python.](https://dev.to/raafe_asad/-a-beginners-guide-to-downloading-large-files-from-google-drive-with-python-4m09)
+- [v2: When GSAP Stopped Being the Problem](https://dev.to/itsugo/v2-when-gsap-stopped-being-the-problem-2emp)
+- [Durable Functions in Lambda](https://dev.to/manumaan/durable-functions-in-lambda-4bna)
+- [Django Security: 10 Essential Steps to Secure Your Project Before Production](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-security-10-essential-steps-to-secure-your-project-before-production-4lfn)
 <!-- BLOG-POST-LIST:END -->
 
 
