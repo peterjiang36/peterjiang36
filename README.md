@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Terraform to GitOps: Building an End-to-End DevOps Platform with 11 Microservices](https://dev.to/sarath_v_/from-terraform-to-gitops-building-an-end-to-end-devops-platform-with-11-microservices-4gea)
-- [Zig vs Go: constants, variables and basic types](https://dev.to/pix303/zig-vs-go-constants-variables-and-basic-types-2466)
-- [No, la IA no programa. Y los que te dicen lo contrario te están vendiendo humo](https://dev.to/jjdelcerro/no-la-ia-no-programa-y-los-que-te-dicen-lo-contrario-te-estan-vendiendo-humo-4506)
-- [Checksums: What They Are, Why They Matter, and Where They Belong in Your Release Pipeline](https://dev.to/luke_mueller_ff55e09823a5/checksums-what-they-are-why-they-matter-and-where-they-belong-in-your-release-pipeline-393)
+- [Smart Alarms Explained: How Sensor Technology Can Help You Wake Up Refreshed](https://dev.to/wellallytech/smart-alarms-explained-how-sensor-technology-can-help-you-wake-up-refreshed-43ng)
+- [All the Different Types of AI Layers](https://dev.to/goldsteinnick/all-the-different-types-of-ai-layers-m39)
+- [How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings](https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a)
+- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff)
 <!-- BLOG-POST-LIST:END -->
 
 
