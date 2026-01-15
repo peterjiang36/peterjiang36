@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hice mi primer script en rust-script para hacer backups de solr/lucene con barra de progreso usando gemini. 
-Es realmente increíble 
-https://gist.github.com/horaciod/858fdeb5632abe806ef2707c03bbf5cd](https://dev.to/horaciodegiorgi/hice-mi-primer-script-en-rust-script-para-hacer-backups-de-solrlucene-con-barra-de-progreso-39j7)
-- [The Secret Life of JavaScript: The Promise](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68)
-- [[Boost]](https://dev.to/thebitforge/-9kb)
-- [I built a bread baking schedule app in 3 hours with Claude Code — without writing a single line of code](https://dev.to/yaninatrekhleb/i-built-a-bread-baking-schedule-app-in-3-hours-with-claude-code-without-writing-a-single-line-of-39kj)
+- [Your Cloud Database is a Security Theater](https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5)
+- [🚀 BlazorWJb: Integrating Worker Jobs with Blazor Server App](https://dev.to/ukrguru/blazorwjb-integrating-worker-jobs-with-blazor-server-app-4ebj)
+- [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44)
+- [Seamless Integration of Google Workspace and Gemini API via External URLs](https://dev.to/gde/seamless-integration-of-google-workspace-and-gemini-api-via-external-urls-4he)
 <!-- BLOG-POST-LIST:END -->
 
 
