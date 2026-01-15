@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Alarms Explained: How Sensor Technology Can Help You Wake Up Refreshed](https://dev.to/wellallytech/smart-alarms-explained-how-sensor-technology-can-help-you-wake-up-refreshed-43ng)
-- [All the Different Types of AI Layers](https://dev.to/goldsteinnick/all-the-different-types-of-ai-layers-m39)
-- [How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings](https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a)
-- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff)
+- [Building a Production-Ready Square Image Editor with Next.js: Lessons from SquareImage](https://dev.to/sam_lee_880a38a45a170858b/building-a-production-ready-square-image-editor-with-nextjs-lessons-from-squareimage-2cjc)
+- [The Status Field That Grew Three Heads &lpar;And How We Fixed It&rpar;](https://dev.to/traviticus/the-status-field-that-grew-three-heads-and-how-we-fixed-it-27i3)
+- [The Goldman-JPMorgan Breaches Prove Enterprise Security Is Built on a Lie](https://dev.to/zeroblind25/the-goldman-jpmorgan-breaches-prove-enterprise-security-is-built-on-a-lie-3900)
+- [ServiceNow&#39;s Virtual Agent Vulnerability Shows Why AI Security Needs Traditional AppSec Foundations](https://dev.to/snyk/servicenows-virtual-agent-vulnerability-shows-why-ai-security-needs-traditional-appsec-foundations-4j9h)
 <!-- BLOG-POST-LIST:END -->
 
 
