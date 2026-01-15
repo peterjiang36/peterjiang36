@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Cloud Database is a Security Theater](https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5)
-- [🚀 BlazorWJb: Integrating Worker Jobs with Blazor Server App](https://dev.to/ukrguru/blazorwjb-integrating-worker-jobs-with-blazor-server-app-4ebj)
-- [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44)
-- [Seamless Integration of Google Workspace and Gemini API via External URLs](https://dev.to/gde/seamless-integration-of-google-workspace-and-gemini-api-via-external-urls-4he)
+- [Demystifying the Work Breakdown Structure &lpar;WBS&rpar;: A Practical Guide for Technical Projects](https://dev.to/simplewbs/demystifying-the-work-breakdown-structure-wbs-a-practical-guide-for-technical-projects-4m1l)
+- [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-is-game-engine-27hh)
+- [Search Confluence or Jira with Raycast](https://dev.to/frankie/search-confluence-or-jira-with-raycast-3eep)
+- [9 Browser DevTools Features You&#39;re Probably Ignoring &lpar;and Why They Matter&rpar;](https://dev.to/parth_g/9-browser-devtools-features-youre-probably-ignoring-and-why-they-matter-4g04)
 <!-- BLOG-POST-LIST:END -->
 
 
