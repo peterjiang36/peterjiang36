@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 1 Introduction and sample application](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-1-introduction-and-sample-application-1eb7)
-- [Puppet with Foreman - Infrastructure](https://dev.to/12ww1160/puppet-with-foreman-infrastructure-532h)
-- [Event-Driven Architecture 101: Building a Simple App with Kafka - By Gopi Gugan](https://dev.to/gopigugan/event-driven-architecture-101-building-a-simple-app-with-kafka-by-gopi-gugan-2ekc)
-- [I Built a Small Open-Source Extension to Stop Infinite Scrolling on X](https://dev.to/freaktofen/i-built-a-small-open-source-extension-to-stop-infinite-scrolling-on-x-29on)
+- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
+- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
+- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
+- [Building a digital badge system with the help of Kiro &lpar;and Amazon ECS Express Mode](https://dev.to/aws/building-a-digital-badge-system-with-the-help-of-kiro-and-amazon-ecs-express-mode-2i0o)
 <!-- BLOG-POST-LIST:END -->
 
 
