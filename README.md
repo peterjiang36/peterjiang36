@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Wrote the Code, But Your RAM is Screaming](https://dev.to/mikiasyonas/your-ai-wrote-the-code-but-your-ram-is-screaming-15bn)
-- [Advanced Accessible Modal Implementation with React Aria Modal](https://dev.to/devcrafting/advanced-accessible-modal-implementation-with-react-aria-modal-242m)
-- [Create Modal Dialogs in React 🍭](https://dev.to/receter/create-modal-dialogs-in-react-2ioj)
-- [Why I Still Prefer Sora to Nano Banana for Image Generation](https://dev.to/fedtti/why-i-still-prefer-sora-to-nano-banana-for-image-generation-4a04)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 13&rpar;: Creating a Scrolling Star Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-13-creating-a-scrolling-star-background-516b)
+- [Building Production-Ready Nmap Integrations: A Complete Guide to nmap-exec-api](https://dev.to/hejhdiss/building-production-ready-nmap-integrations-a-complete-guide-to-nmap-exec-api-48cn)
+- [What I Did This Week](https://dev.to/gudong/what-i-did-this-week-5d6h)
+- [How Large Systems Rethink Communication](https://dev.to/indeterminate0/how-large-systems-rethink-communication-lho)
 <!-- BLOG-POST-LIST:END -->
 
 
