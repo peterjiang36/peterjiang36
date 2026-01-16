@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Biologically Inspired Programming Language](https://dev.to/david_lamar_d40d58ec2c7bc/a-biologically-inspired-programming-language-beh)
-- [React Is Not Slow — Your Architecture Is](https://dev.to/hanzla/react-is-not-slow-your-architecture-is-5d5d)
-- [Stop Fighting Stripe&#39;s Usage API: Build Simple Metering That Just Works](https://dev.to/restdbjones/stop-fighting-stripes-usage-api-build-simple-metering-that-just-works-19je)
-- [Mastering LangChain Expression Language &lpar;LCEL&rpar;: Branching, Parallelism, and Streaming](https://dev.to/harishkotra/mastering-langchain-expression-language-lcel-branching-parallelism-and-streaming-1md5)
+- [Your AI Wrote the Code, But Your RAM is Screaming](https://dev.to/mikiasyonas/your-ai-wrote-the-code-but-your-ram-is-screaming-15bn)
+- [Advanced Accessible Modal Implementation with React Aria Modal](https://dev.to/devcrafting/advanced-accessible-modal-implementation-with-react-aria-modal-242m)
+- [Create Modal Dialogs in React 🍭](https://dev.to/receter/create-modal-dialogs-in-react-2ioj)
+- [Why I Still Prefer Sora to Nano Banana for Image Generation](https://dev.to/fedtti/why-i-still-prefer-sora-to-nano-banana-for-image-generation-4a04)
 <!-- BLOG-POST-LIST:END -->
 
 
