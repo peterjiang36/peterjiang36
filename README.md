@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes IAM &amp; RBAC for DevOps &amp; SRE](https://dev.to/srinivasamcjf/kubernetes-iam-rbac-for-devops-sre-2eh7)
-- [JSON vs. Protocol Buffers in Go: Which Should You Use for Network Communication?](https://dev.to/jones_charles_ad50858dbc0/json-vs-protocol-buffers-in-go-which-should-you-use-for-network-communication-4gio)
-- [My portfolio using Google Ai -gemini pro engine](https://dev.to/david_opara_572a8732cceb7/my-portfolio-using-google-ai-gemini-pro-engine-50ea)
-- [How a Small Engineering Team Secured Their Self-Hosted Stack with SafeLine WAF](https://dev.to/arina_cholee/how-a-small-engineering-team-secured-their-self-hosted-stack-with-safeline-waf-59cc)
+- [Why I Built an AI Assistant Just to Manage My Dev.to Drafts](https://dev.to/mrakdon/why-i-built-an-ai-assistant-just-to-manage-my-devto-drafts-4lm8)
+- [I built a directory for Agent Skills &lpar;5k+ indexed&rpar; using Vibe Coding](https://dev.to/superhuang2/i-built-a-directory-for-agent-skills-5k-indexed-using-vibe-coding-3kn0)
+- [Planning a Transition to Rust After 6+ Years with C#](https://dev.to/birajmainali/planning-a-transition-to-rust-after-6-years-with-c-4ke8)
+- [Why Your Compliance Team Secretly Wants Sentinel: The Database That Audits Itself](https://dev.to/cyberpath/why-your-compliance-team-secretly-wants-sentinel-the-database-that-audits-itself-2ofp)
 <!-- BLOG-POST-LIST:END -->
 
 
