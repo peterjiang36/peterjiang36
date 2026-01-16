@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 13&rpar;: Creating a Scrolling Star Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-13-creating-a-scrolling-star-background-516b)
-- [Building Production-Ready Nmap Integrations: A Complete Guide to nmap-exec-api](https://dev.to/hejhdiss/building-production-ready-nmap-integrations-a-complete-guide-to-nmap-exec-api-48cn)
-- [What I Did This Week](https://dev.to/gudong/what-i-did-this-week-5d6h)
-- [How Large Systems Rethink Communication](https://dev.to/indeterminate0/how-large-systems-rethink-communication-lho)
+- [Beyond the Vercel Tax: A Software Engineer&#39;s Guide to Managed Cloud Costs](https://dev.to/kenansafi/beyond-the-vercel-tax-a-software-engineers-guide-to-managed-cloud-costs-po8)
+- [Hot Restart for iOS is not included in Visual Studio 2026: What .NET MAUI Developers Need to Know](https://dev.to/biozal/hot-restart-for-ios-is-not-included-in-visual-studio-2026-what-net-maui-developers-need-to-know-28n8)
+- [Day 20: Sending HTML Emails from AWS Lambda using Python &amp; SES.](https://dev.to/ericrodriguez10/day-20-sending-html-emails-from-aws-lambda-using-python-ses-2i2)
+- [Things I Wish I Knew When I Started My Business](https://dev.to/andrewhoule/things-i-wish-i-knew-when-i-started-my-business-3c9e)
 <!-- BLOG-POST-LIST:END -->
 
 
