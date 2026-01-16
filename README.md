@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local RAG AI Agent for Airline Reviews with Ollama](https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5)
-- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
-- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
-- [System Design - EP 13: Content Delivery Networks &lpar;CDNs&rpar;](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-ep-13-content-delivery-networks-cdns-14ke)
+- [Sharing my hands-on Enterprise Cloud Platform project](https://dev.to/bernymack90/sharing-my-hands-on-enterprise-cloud-platform-project-45i1)
+- [Flutter Firebase Tutorial 2026: Complete Auth + Firestore Integration &lpar;Simple Notes App&rpar; 🔥](https://dev.to/techwithsam/flutter-firebase-tutorial-2026-complete-auth-firestore-integration-simple-notes-app-1ane)
+- [Why Memory Architecture Matters More Than Your Model](https://dev.to/narnaiezzsshaa/why-memory-architecture-matters-more-than-your-model-1556)
+- [How I Plan to Invest ₹1 Lakh as a CS Student &lpar;The &quot;3-Bucket&quot; Strategy&rpar;](https://dev.to/legend_gamerr6_70b22e605a/how-i-plan-to-invest-1-lakh-as-a-cs-student-the-3-bucket-strategy-2a4e)
 <!-- BLOG-POST-LIST:END -->
 
 
