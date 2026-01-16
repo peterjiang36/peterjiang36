@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
-- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
-- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
-- [Discovering Connections: How Claude Code Analyzed 100 Books](https://dev.to/dd8888/discovering-connections-how-claude-code-analyzed-100-books-41li)
+- [How I Built a Daily Streak Keeper with Python &amp; GitHub Actions](https://dev.to/fytroy/how-i-built-a-daily-streak-keeper-with-python-github-actions-3bge)
+- [SwiftUI #32: ProgressView](https://dev.to/david_goyes_a488f58a17a53/swiftui-32-progressview-41d9)
+- [Apache Gravitino Introduction](https://dev.to/datastrato-yue/apache-gravitino-introduction-ce7)
+- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
 <!-- BLOG-POST-LIST:END -->
 
 
