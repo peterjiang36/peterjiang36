@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to structure technical planning for engineering](https://dev.to/kodus/how-to-structure-technical-planning-for-engineering-1h1n)
-- [YAML to JSON in CI Pipelines: Why It Breaks More Often Than You Expect](https://dev.to/jsonviewertool/yaml-to-json-in-ci-pipelines-why-it-breaks-more-often-than-you-expect-3in2)
-- [Docker &amp; Containers Explained: A Beginner-Friendly Guide to How Docker Works](https://dev.to/nikhilmhatre4757/docker-containers-explained-a-beginner-friendly-guide-to-how-docker-works-5041)
-- [Git Made Simple](https://dev.to/makwaka/git-made-simple-548a)
+- [“Adeus ‘funciona na minha máquina’: Spring Boot com PostgreSQL usando Docker”](https://dev.to/franolv/adeus-funciona-na-minha-maquina-spring-boot-com-postgresql-usando-docker-4koj)
+- [NPR Music: John Fogerty: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-john-fogerty-tiny-desk-concert-4ohf)
+- [What happened to ambition in QA?](https://dev.to/liudasjan/what-happened-to-ambition-in-qa-4l4m)
+- [How I Built a SaaS UI Kit in Pure HTML/CSS/JS](https://dev.to/hermess55/how-i-built-a-saas-ui-kit-in-pure-htmlcssjs-2idi)
 <!-- BLOG-POST-LIST:END -->
 
 
