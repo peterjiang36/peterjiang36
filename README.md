@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Context Now Works Everywhere: faf-cli Google Gemini Edition](https://dev.to/wolfejam/your-ai-context-now-works-everywhere-faf-cli-google-gemini-edition-19bc)
-- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
-- [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
-- [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
+- [Part 1 : Building a Game in 30 Hours Using AI — Here&#39;s the Actual Timeline](https://dev.to/sweetpapa/part-1-building-a-game-in-30-hours-using-ai-heres-the-actual-timeline-1dj5)
+- [Significance of Python Virtual Environment &lpar;venv&rpar;](https://dev.to/venkata_kishore_a4052109b/significance-of-python-virtual-environment-venv-2o1m)
+- [Gin vs Spring Boot: A Detailed Comparison](https://dev.to/codefalconx/gin-vs-spring-boot-a-detailed-comparison-34md)
+- [Mr Sunday Movies: Every RoboCop Movie - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-every-robocop-movie-caravan-of-garbage-ae4)
 <!-- BLOG-POST-LIST:END -->
 
 
