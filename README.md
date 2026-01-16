@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Agile Development: Why Smart Teams Are Looking Backward to Move Forward](https://dev.to/ghostinit0x/post-agile-development-why-smart-teams-are-looking-backward-to-move-forward-2o5m)
-- [The 5 Levels of Humanoid Autonomy](https://dev.to/ankk98/the-5-levels-of-humanoid-autonomy-1n54)
-- [Configure Local LLM with OpenCode](https://dev.to/tobrun_vannuland_70632c7/configure-local-llm-with-opencode-1gdb)
-- [Self-hosting Flowise on a Hetzner Ubuntu Server](https://dev.to/yulei-chen/self-hosting-flowise-on-a-hetzner-ubuntu-server-4hg2)
+- [CodeCoach — A new way of practicing codeforces](https://dev.to/kushal_rathod_8ebfe05e5b2/codecoach-a-new-way-of-practicing-codeforces-4a9)
+- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
+- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
+- [I Built a TypeScript SDK for John Deere Because Nobody Else Did](https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6)
 <!-- BLOG-POST-LIST:END -->
 
 
