@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧱 Building QRForge PRO with PySide6 &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb)
-- [I built a lightning-fast statistics platform for Poland](https://dev.to/mattrybin/i-built-a-lightning-fast-statistics-platform-for-poland-1ldm)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-9ha)
-- [Implement Enter/Exit Animations with Angular CDK Overlay](https://dev.to/ngmaterialdev/implement-enterexit-animations-with-angular-cdk-overlay-pd3)
+- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
+- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
+- [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
+- [Cloud-Based CAD Tools for Education: Empowering Students and Instructors](https://dev.to/julia970/cloud-based-cad-tools-for-education-empowering-students-and-instructors-n0i)
 <!-- BLOG-POST-LIST:END -->
 
 
