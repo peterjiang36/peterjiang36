@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an AI Assistant Just to Manage My Dev.to Drafts](https://dev.to/mrakdon/why-i-built-an-ai-assistant-just-to-manage-my-devto-drafts-4lm8)
-- [I built a directory for Agent Skills &lpar;5k+ indexed&rpar; using Vibe Coding](https://dev.to/superhuang2/i-built-a-directory-for-agent-skills-5k-indexed-using-vibe-coding-3kn0)
-- [Planning a Transition to Rust After 6+ Years with C#](https://dev.to/birajmainali/planning-a-transition-to-rust-after-6-years-with-c-4ke8)
-- [Why Your Compliance Team Secretly Wants Sentinel: The Database That Audits Itself](https://dev.to/cyberpath/why-your-compliance-team-secretly-wants-sentinel-the-database-that-audits-itself-2ofp)
+- [Looking for collaborators to build a developer tool &lpar;Vizora&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-collaborators-to-build-a-developer-tool-vizora-2pd8)
+- [SwiftUI Performance Profiling with Instruments &lpar;Practical Guide&rpar;](https://dev.to/sebastienlato/swiftui-performance-profiling-with-instruments-practical-guide-389b)
+- [T-Shaped Developer: Why Modern Software Engineers Need Both Depth and Breadth?](https://dev.to/npayyappilly/t-shaped-developer-why-modern-software-engineers-need-both-depth-and-breadth-1991)
+- [d-engine: A Lightweight Distributed Coordination Engine for Rust](https://dev.to/joshua_c/d-engine-a-lightweight-distributed-coordination-engine-for-rust-210j)
 <!-- BLOG-POST-LIST:END -->
 
 
