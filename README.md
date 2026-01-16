@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1 : Building a Game in 30 Hours Using AI — Here&#39;s the Actual Timeline](https://dev.to/sweetpapa/part-1-building-a-game-in-30-hours-using-ai-heres-the-actual-timeline-1dj5)
-- [Significance of Python Virtual Environment &lpar;venv&rpar;](https://dev.to/venkata_kishore_a4052109b/significance-of-python-virtual-environment-venv-2o1m)
-- [Gin vs Spring Boot: A Detailed Comparison](https://dev.to/codefalconx/gin-vs-spring-boot-a-detailed-comparison-34md)
-- [Mr Sunday Movies: Every RoboCop Movie - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-every-robocop-movie-caravan-of-garbage-ae4)
+- [Neurop Forge: Your AI Can&#39;t Lie About What It Did Anymore](https://dev.to/lbwasserman/neurop-forge-your-ai-cant-lie-about-what-it-did-anymore-5ceh)
+- [New Year, New Portfolio Challenge Presented by Google AI](https://dev.to/shingcaofek/new-year-new-portfolio-challenge-presented-by-google-ai-4gp)
+- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8)
+- [How To Make Roblox UI](https://dev.to/totallyprogrammingpro1/how-to-make-roblox-ui-3e5)
 <!-- BLOG-POST-LIST:END -->
 
 
