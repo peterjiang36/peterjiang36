@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
-- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
-- [Why hiding IDs wasn’t enough for secure share links](https://dev.to/siddhesh_shirdhankar_902f/why-hiding-ids-wasnt-enough-for-secure-share-links-5egj)
-- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3 &lpar;storing &amp; searching&rpar;](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
+- [🧱 Building QRForge PRO with PySide6 &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/matetechnologie/building-qrforge-pro-with-pyside6-beginner-friendly-guide-53kb)
+- [I built a lightning-fast statistics platform for Poland](https://dev.to/mattrybin/i-built-a-lightning-fast-statistics-platform-for-poland-1ldm)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-9ha)
+- [Implement Enter/Exit Animations with Angular CDK Overlay](https://dev.to/ngmaterialdev/implement-enterexit-animations-with-angular-cdk-overlay-pd3)
 <!-- BLOG-POST-LIST:END -->
 
 
