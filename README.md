@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for collaborators to build a developer tool &lpar;Vizora&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-collaborators-to-build-a-developer-tool-vizora-2pd8)
-- [SwiftUI Performance Profiling with Instruments &lpar;Practical Guide&rpar;](https://dev.to/sebastienlato/swiftui-performance-profiling-with-instruments-practical-guide-389b)
-- [T-Shaped Developer: Why Modern Software Engineers Need Both Depth and Breadth?](https://dev.to/npayyappilly/t-shaped-developer-why-modern-software-engineers-need-both-depth-and-breadth-1991)
-- [d-engine: A Lightweight Distributed Coordination Engine for Rust](https://dev.to/joshua_c/d-engine-a-lightweight-distributed-coordination-engine-for-rust-210j)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
+- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
+- [Why hiding IDs wasn’t enough for secure share links](https://dev.to/siddhesh_shirdhankar_902f/why-hiding-ids-wasnt-enough-for-secure-share-links-5egj)
+- [Vector Embeddings &lpar;with OpenAI and Supabase&rpar; - Part 3 &lpar;storing &amp; searching&rpar;](https://dev.to/shlokaguptaa/vector-embeddings-with-openai-and-supabase-part-3-1171)
 <!-- BLOG-POST-LIST:END -->
 
 
