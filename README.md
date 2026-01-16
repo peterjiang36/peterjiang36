@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurop Forge: Your AI Can&#39;t Lie About What It Did Anymore](https://dev.to/lbwasserman/neurop-forge-your-ai-cant-lie-about-what-it-did-anymore-5ceh)
-- [New Year, New Portfolio Challenge Presented by Google AI](https://dev.to/shingcaofek/new-year-new-portfolio-challenge-presented-by-google-ai-4gp)
-- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8)
-- [How To Make Roblox UI](https://dev.to/totallyprogrammingpro1/how-to-make-roblox-ui-3e5)
+- [Kubernetes IAM &amp; RBAC for DevOps &amp; SRE](https://dev.to/srinivasamcjf/kubernetes-iam-rbac-for-devops-sre-2eh7)
+- [JSON vs. Protocol Buffers in Go: Which Should You Use for Network Communication?](https://dev.to/jones_charles_ad50858dbc0/json-vs-protocol-buffers-in-go-which-should-you-use-for-network-communication-4gio)
+- [My portfolio using Google Ai -gemini pro engine](https://dev.to/david_opara_572a8732cceb7/my-portfolio-using-google-ai-gemini-pro-engine-50ea)
+- [How a Small Engineering Team Secured Their Self-Hosted Stack with SafeLine WAF](https://dev.to/arina_cholee/how-a-small-engineering-team-secured-their-self-hosted-stack-with-safeline-waf-59cc)
 <!-- BLOG-POST-LIST:END -->
 
 
