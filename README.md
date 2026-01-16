@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
-- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
-- [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
-- [Cloud-Based CAD Tools for Education: Empowering Students and Instructors](https://dev.to/julia970/cloud-based-cad-tools-for-education-empowering-students-and-instructors-n0i)
+- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
+- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
+- [Lambda Durable Functions: Finally, Stateful Serverless Without Step Functions](https://dev.to/dineshelumalai/lambda-durable-functions-finally-stateful-serverless-without-step-functions-49m2)
+- [How I Built an AI Suggestion Textbox with Angular Signal Forms](https://dev.to/brianmtreese/how-i-built-an-ai-suggestion-textbox-with-angular-signal-forms-5637)
 <!-- BLOG-POST-LIST:END -->
 
 
