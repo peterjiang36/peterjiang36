@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Godot Game Only Crashed on Expensive PCs &lpar;Here&#39;s Why&rpar;](https://dev.to/david_dev_sec/our-godot-game-only-crashed-on-expensive-pcs-heres-why-40jl)
-- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
-- [Accelerating AI Innovation with the AWS Cloud Adoption Framework](https://dev.to/aws-builders/accelerating-ai-innovation-with-the-aws-cloud-adoption-framework-28hk)
-- [What Happens When You Give an AI Agent Root Access?](https://dev.to/yaron_torjeman_5288cbab83/what-happens-when-you-give-an-ai-agent-root-access-1nda)
+- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
+- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
+- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
+- [Discovering Connections: How Claude Code Analyzed 100 Books](https://dev.to/dd8888/discovering-connections-how-claude-code-analyzed-100-books-41li)
 <!-- BLOG-POST-LIST:END -->
 
 
