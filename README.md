@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/heytechomaima/-2e74)
-- [how we built the most advanced ai product planner](https://dev.to/singhdevhub/how-we-built-the-most-advanced-ai-product-planner-31lc)
-- [10 Things I Learned from Vibe Coding &lpar;or: How I Let an AI Agent Write My Audio Library&rpar;](https://dev.to/ik5/10-things-i-learned-from-vibe-coding-or-how-i-let-an-ai-agent-write-my-audio-library-2940)
-- [Building Better Routines with Daily Habit Tracking 🚀](https://dev.to/wenbin_zhang_800871dc9625/building-pulsedaily-a-no-login-habit-tracker-focused-on-simplicity-and-privacy-4b98)
+- [How to structure technical planning for engineering](https://dev.to/kodus/how-to-structure-technical-planning-for-engineering-1h1n)
+- [YAML to JSON in CI Pipelines: Why It Breaks More Often Than You Expect](https://dev.to/jsonviewertool/yaml-to-json-in-ci-pipelines-why-it-breaks-more-often-than-you-expect-3in2)
+- [Docker &amp; Containers Explained: A Beginner-Friendly Guide to How Docker Works](https://dev.to/nikhilmhatre4757/docker-containers-explained-a-beginner-friendly-guide-to-how-docker-works-5041)
+- [Git Made Simple](https://dev.to/makwaka/git-made-simple-548a)
 <!-- BLOG-POST-LIST:END -->
 
 
