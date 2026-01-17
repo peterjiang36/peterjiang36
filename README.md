@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BrainRunner &lpar;1m&rpar;](https://dev.to/celia_gonzlez_ad37da4de5/brainrunner-1m-5hj8)
-- [Race to the Bottom: Weaponizing Concurrency , PART 1 . #THREADING](https://dev.to/7mo_sec/race-to-the-bottom-weaponizing-concurrency-part-1-threading-2h7m)
-- [End-to-End MLOps Project: Customer Churn Prediction](https://dev.to/koteswararao_j_262f1ca27f/end-to-end-mlops-project-customer-churn-prediction-nbi)
-- [Datadog: Observability Lessons from 50+ AWS Apps](https://dev.to/aws-builders/datadog-observability-lessons-from-50-aws-apps-37h4)
+- [JSON to Excel Add-in - Seamless Integration Within Excel](https://dev.to/wtsolutions/json-to-excel-add-in-seamless-integration-within-excel-5ccn)
+- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
+- [Getting Started with JSON to Excel Web App - Convert in Seconds](https://dev.to/wtsolutions/getting-started-with-json-to-excel-web-app-convert-in-seconds-5g47)
+- [GHSA-GW32-9RMW-QWWW: Svelte SSR XSS: The Textarea Trap](https://dev.to/cverports/ghsa-gw32-9rmw-qwww-svelte-ssr-xss-the-textarea-trap-44ld)
 <!-- BLOG-POST-LIST:END -->
 
 
