@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Interfacing Reyax RYLR999 LoRa Module with Arduino](https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0)
-- [Early Preview: krnr - A CLI Tool for Saving and Re-Running Shell Workflows](https://dev.to/voxdroid/early-preview-krnr-a-cli-tool-for-saving-and-re-running-shell-workflows-14bj)
-- [Git for Data Scientists &amp; Data Engineers — my very first beginner guide &lpar;Git Bash + GitHub&rpar;](https://dev.to/charles_ndungu/git-for-data-scientists-data-engineers-my-very-first-beginner-guide-git-bash-github-3952)
-- [Today I Started Understanding useReducer &lpar;Not Fully, But Enough to Continue&rpar;](https://dev.to/usama_dev/today-i-started-understanding-usereducer-not-fully-but-enough-to-continue-3731)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 14&rpar;: Tunnel Dodge Game 1 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-14-tunnel-dodge-game-sample-c0)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-30ke)
+- [How I Built an ATS-Optimized AI Portfolio with Antigravity: From Nginx Hell to Cloud Run](https://dev.to/vec21/how-i-built-an-ats-optimized-ai-portfolio-with-antigravity-from-nginx-hell-to-cloud-run-4idk)
+- [Verschlüsselte E-Mails mit Outlook senden &amp; öffnen](https://dev.to/timespinwriterjames/verschlusselte-e-mails-mit-outlook-senden-offnen-1pkb)
 <!-- BLOG-POST-LIST:END -->
 
 
