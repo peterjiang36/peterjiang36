@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Daily Streak Keeper with Python &amp; GitHub Actions](https://dev.to/fytroy/how-i-built-a-daily-streak-keeper-with-python-github-actions-3bge)
-- [SwiftUI #32: ProgressView](https://dev.to/david_goyes_a488f58a17a53/swiftui-32-progressview-41d9)
-- [Apache Gravitino Introduction](https://dev.to/datastrato-yue/apache-gravitino-introduction-ce7)
-- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
+- [Alexandra](https://dev.to/anghelu_paul_5f169d31cb/alexandra-fp8)
+- [CVE-2026-23735: Singleton Roulette: Racing for Context in GraphQL Modules](https://dev.to/cverports/cve-2026-23735-singleton-roulette-racing-for-context-in-graphql-modules-4k6o)
+- [How I Finally Understood Wi-Fi &lpar;Hint: It&#39;s Like a Rhythm Game&rpar;](https://dev.to/tielec-takashi/how-i-finally-understood-wi-fi-hint-its-like-a-rhythm-game-hii)
+- [Proper file names](https://dev.to/sleepy_ahmed_dbad3fbe96bc/proper-file-names-5cn2)
 <!-- BLOG-POST-LIST:END -->
 
 
