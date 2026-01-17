@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Express Setup: Simple &amp; Scalable](https://dev.to/link2twenty/express-setup-simple-scalable-3hin)
-- [Git and GitHub for Beginners: A Friendly Guide](https://dev.to/jedidah_ondiso_887753d76e/git-and-github-for-beginners-a-friendly-guide-4hoj)
-- [I Needed an APP to Track My Learning Journey, AI built it in less than half an hour with a single prompt](https://dev.to/debs_obrien/i-needed-an-app-to-track-my-learning-journey-ai-built-it-in-less-than-half-an-hour-with-a-single-31c4)
-- [🌽 *orn &lpar;Porn Quitter Conversational AI Agent &rpar;— A Private Recovery Companion in a Week](https://dev.to/abbas7120/corn-a-private-recovery-companion-in-a-week-9bc)
+- [Automating Threat Intel: How I Built a Fast, Containerised IP Triage Tool](https://dev.to/shynsec/automating-threat-intel-how-i-built-a-fast-containerised-ip-triage-tool-dfk)
+- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
+- [My plan for 2026.](https://dev.to/naviny0/my-plan-for-2026-2klh)
+- [Coding Challenge Practice - Question 105](https://dev.to/tomivan/coding-challenge-practice-question-105-423m)
 <!-- BLOG-POST-LIST:END -->
 
 
