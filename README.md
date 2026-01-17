@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Threat Intel: How I Built a Fast, Containerised IP Triage Tool](https://dev.to/shynsec/automating-threat-intel-how-i-built-a-fast-containerised-ip-triage-tool-dfk)
-- [From Python to OpenGL: A Modern, Cross-Platform Survival Guide for OSU CS-450](https://dev.to/thejuanguerrero/from-python-to-opengl-a-modern-cross-platform-survival-guide-for-osu-cs-450-50pk)
-- [My plan for 2026.](https://dev.to/naviny0/my-plan-for-2026-2klh)
-- [Coding Challenge Practice - Question 105](https://dev.to/tomivan/coding-challenge-practice-question-105-423m)
+- [MCP Inspector is Now Stable: A Browser-Based Tool for Testing MCP Servers](https://dev.to/punkpeye/mcp-inspector-is-now-stable-a-browser-based-tool-for-testing-mcp-servers-4dim)
+- [What Happens When a Gold Mining Professional Tries Vibe Coding?](https://dev.to/marcus_briggs/what-happens-when-a-gold-mining-professional-tries-vibe-coding-1o6o)
+- [How to Create a Striking Grayscale Effect](https://dev.to/anthony_dito_8fad7bcb4ad3/how-to-create-a-striking-grayscale-effect-1gd1)
+- [The Most Dangerous Bug Is the One That Doesn’t Crash](https://dev.to/vortex_shadow_8bce7f9fe36/the-most-dangerous-bug-is-the-one-that-doesnt-crash-1250)
 <!-- BLOG-POST-LIST:END -->
 
 
