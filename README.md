@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built My Own Open-Source PDF Tool](https://dev.to/manojkumar_achanta/built-my-own-open-source-pdf-tool-450m)
-- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
-- [I May Be Wrong](https://dev.to/chenhunghan/i-may-be-wrong-2oal)
-- [Material vs Material Instance: My Beginner Realization](https://dev.to/dinesh_04/material-vs-material-instance-my-beginner-realization-18fn)
+- [A Guide to Git and GitHub for Data Analysts](https://dev.to/cyrus_ndungu_79376c09c059/a-guide-to-git-and-github-for-data-analysts-2n1a)
+- [📦 What is Software Packaging?](https://dev.to/itsmecharan7/what-is-software-packaging-4cij)
+- [Create a Telegram bot quote bot in Ruby](https://dev.to/slick_phantom/create-a-telegram-bot-quote-bot-in-ruby-2j85)
+- [⚙️ What is Software Compilation?](https://dev.to/itsmecharan7/what-is-software-compilation-56e)
 <!-- BLOG-POST-LIST:END -->
 
 
