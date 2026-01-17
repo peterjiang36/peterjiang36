@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 14&rpar;: Tunnel Dodge Game 1 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-14-tunnel-dodge-game-sample-c0)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-30ke)
-- [How I Built an ATS-Optimized AI Portfolio with Antigravity: From Nginx Hell to Cloud Run](https://dev.to/vec21/how-i-built-an-ats-optimized-ai-portfolio-with-antigravity-from-nginx-hell-to-cloud-run-4idk)
-- [Verschlüsselte E-Mails mit Outlook senden &amp; öffnen](https://dev.to/timespinwriterjames/verschlusselte-e-mails-mit-outlook-senden-offnen-1pkb)
+- [The Inevitable Cost of &quot;Free&quot;: Why OpenAI&#39;s Ads Are Just the Beginning](https://dev.to/sivarampg/the-inevitable-cost-of-free-why-openais-ads-are-just-the-beginning-4dl)
+- [Defending the Skies: Anti-Jamming and GPS Spoofing in UAVs](https://dev.to/asikarastallion/defending-the-skies-anti-jamming-and-gps-spoofing-in-uavs-4968)
+- [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
+- [Most Unique UI Libraries Built On ShadCN!](https://dev.to/ariflogs/most-unique-ui-libraries-built-on-shadcn-3bgf)
 <!-- BLOG-POST-LIST:END -->
 
 
