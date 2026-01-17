@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2)
-- [How To Detect Memory Drift In Production Agents](https://dev.to/narnaiezzsshaa/how-to-detect-memory-drift-in-production-agents-51cf)
-- [Why “Equal Split” Is Often the Most Unfair Way to Share Expenses](https://dev.to/pratyus92592602/why-equal-split-is-often-the-most-unfair-way-to-share-expenses-4kpj)
-- [Prompt Engineering Is a Symptom &lpar;And That’s Okay&rpar;](https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l)
+- [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
+- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
+- [Leafwiki Devlog #7: v0.6.1 - Introducing Backlinks + Better Search &lpar;SQLite FTS5&rpar; 🌿](https://dev.to/perber/leafwiki-devlog-7-v061-introducing-backlinks-better-search-sqlite-fts5-1llo)
+- [I Let AI Write Most of My Code for a Month. Here’s What Happened.](https://dev.to/kzeitar/i-let-ai-write-most-of-my-code-for-a-month-heres-what-happened-3b30)
 <!-- BLOG-POST-LIST:END -->
 
 
