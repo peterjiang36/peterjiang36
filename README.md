@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Inevitable Cost of &quot;Free&quot;: Why OpenAI&#39;s Ads Are Just the Beginning](https://dev.to/sivarampg/the-inevitable-cost-of-free-why-openais-ads-are-just-the-beginning-4dl)
-- [Defending the Skies: Anti-Jamming and GPS Spoofing in UAVs](https://dev.to/asikarastallion/defending-the-skies-anti-jamming-and-gps-spoofing-in-uavs-4968)
-- [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
-- [Most Unique UI Libraries Built On ShadCN!](https://dev.to/ariflogs/most-unique-ui-libraries-built-on-shadcn-3bgf)
+- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
+- [How to Make Your Portfolio Speak to HR, Not Just Hiring Managers](https://dev.to/imtaslim/how-to-make-your-portfolio-speak-to-hr-not-just-hiring-managers-372k)
+- [I Built a VS Code–Inspired Developer Portfolio](https://dev.to/arnononono_nonoonno_30377/i-built-a-vs-code-inspired-developer-portfolio-550d)
+- [Caching Strategies for LLM Systems: Exact-Match &amp; Semantic Caching](https://dev.to/vaibhav_ahluwalia_b39a1b3/caching-strategies-for-llm-systems-exact-match-semantic-caching-4a1j)
 <!-- BLOG-POST-LIST:END -->
 
 
