@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Delving into data science](https://dev.to/mathew_leshan_0f6642142b2/my-first-week-at-lux-c33)
-- [How to Write a Cover Letter that Lands an Interview in European Tech](https://dev.to/piotr-get-talent/how-to-write-a-cover-letter-that-lands-an-interview-in-european-tech-1aei)
-- [How we built Afina and why WebRTC + QUIC actually matter](https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh)
-- [Claude Code Keeps Forgetting Your Project? Here&#39;s the Fix &lpar;2026&rpar;](https://dev.to/kiwibreaksme/claude-code-keeps-forgetting-your-project-heres-the-fix-2026-3flm)
+- [Why Array Index Starts from 0: The Real Reason Behind the Scenes](https://dev.to/jps27cse/why-array-index-starts-from-0-the-real-reason-behind-the-scenes-fmj)
+- [Universal Agent + Skills Tutorial: Build Your 10-Person Team from Scratch](https://dev.to/web3nomad/build-your-10-person-engineering-team-with-universal-agent-1anc)
+- [Laravel API Inspector - Auto Generate API Documentation](https://dev.to/fazle_rabbi/laravel-api-inspector-auto-generate-api-documentation-56fd)
+- [&#39;Chainguard&#39; image for secure service](https://dev.to/kination/chainguard-image-for-secure-service-2jio)
 <!-- BLOG-POST-LIST:END -->
 
 
