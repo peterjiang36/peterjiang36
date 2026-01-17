@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
-- [How to Make Your Portfolio Speak to HR, Not Just Hiring Managers](https://dev.to/imtaslim/how-to-make-your-portfolio-speak-to-hr-not-just-hiring-managers-372k)
-- [I Built a VS Code–Inspired Developer Portfolio](https://dev.to/arnononono_nonoonno_30377/i-built-a-vs-code-inspired-developer-portfolio-550d)
-- [Caching Strategies for LLM Systems: Exact-Match &amp; Semantic Caching](https://dev.to/vaibhav_ahluwalia_b39a1b3/caching-strategies-for-llm-systems-exact-match-semantic-caching-4a1j)
+- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2)
+- [How To Detect Memory Drift In Production Agents](https://dev.to/narnaiezzsshaa/how-to-detect-memory-drift-in-production-agents-51cf)
+- [Why “Equal Split” Is Often the Most Unfair Way to Share Expenses](https://dev.to/pratyus92592602/why-equal-split-is-often-the-most-unfair-way-to-share-expenses-4kpj)
+- [Prompt Engineering Is a Symptom &lpar;And That’s Okay&rpar;](https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l)
 <!-- BLOG-POST-LIST:END -->
 
 
