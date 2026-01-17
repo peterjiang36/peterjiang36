@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Array Index Starts from 0: The Real Reason Behind the Scenes](https://dev.to/jps27cse/why-array-index-starts-from-0-the-real-reason-behind-the-scenes-fmj)
-- [Universal Agent + Skills Tutorial: Build Your 10-Person Team from Scratch](https://dev.to/web3nomad/build-your-10-person-engineering-team-with-universal-agent-1anc)
-- [Laravel API Inspector - Auto Generate API Documentation](https://dev.to/fazle_rabbi/laravel-api-inspector-auto-generate-api-documentation-56fd)
-- [&#39;Chainguard&#39; image for secure service](https://dev.to/kination/chainguard-image-for-secure-service-2jio)
+- [Secure Static Website Hosting on AWS: CloudFront + Private S3 Bucket with Origin Access Control](https://dev.to/alok38/secure-static-website-hosting-on-aws-cloudfront-private-s3-bucket-with-origin-access-control-29na)
+- [GDPR as a Blueprint for Risk-Aware Architecture](https://dev.to/antonmb/gdpr-as-a-blueprint-for-risk-aware-architecture-51oo)
+- [Use of Git to push/pull code, track changes and version control](https://dev.to/ajani_lukekariuki_79255c/use-of-git-to-pushpull-code-track-changes-and-version-control-1e1b)
+- [A Beginner&#39;s Guide to Git and GitHub](https://dev.to/austin3560/a-beginners-guide-to-git-and-github-2p5n)
 <!-- BLOG-POST-LIST:END -->
 
 
