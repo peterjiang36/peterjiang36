@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do we need Junior developers?](https://dev.to/shitij_bhatnagar_b6d1be72/do-we-need-junior-developers-2k2l)
-- [Greenfield vs Legacy Software: The Hidden Career Benefits of Legacy Code](https://dev.to/arturk/greenfield-vs-legacy-software-the-hidden-career-benefits-of-legacy-code-o2k)
-- [# Full Stack Development Roadmap: My Journey to MERN Stack Mastery](https://dev.to/borifan_dabasa/full-stack-development-roadmap-my-journey-to-mern-stack-mastery-2dg8)
-- [Automatic Language Support: Add a Modern TR/EN Toggle to Any PHP/HTML Site &lpar;Fast&rpar;](https://dev.to/mebularts/automatic-language-support-add-a-modern-tren-toggle-to-any-phphtml-site-fast-4gme)
+- [Interfacing Reyax RYLR999 LoRa Module with Arduino](https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0)
+- [Early Preview: krnr - A CLI Tool for Saving and Re-Running Shell Workflows](https://dev.to/voxdroid/early-preview-krnr-a-cli-tool-for-saving-and-re-running-shell-workflows-14bj)
+- [Git for Data Scientists &amp; Data Engineers — my very first beginner guide &lpar;Git Bash + GitHub&rpar;](https://dev.to/charles_ndungu/git-for-data-scientists-data-engineers-my-very-first-beginner-guide-git-bash-github-3952)
+- [Today I Started Understanding useReducer &lpar;Not Fully, But Enough to Continue&rpar;](https://dev.to/usama_dev/today-i-started-understanding-usereducer-not-fully-but-enough-to-continue-3731)
 <!-- BLOG-POST-LIST:END -->
 
 
