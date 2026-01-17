@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alexandra](https://dev.to/anghelu_paul_5f169d31cb/alexandra-fp8)
-- [CVE-2026-23735: Singleton Roulette: Racing for Context in GraphQL Modules](https://dev.to/cverports/cve-2026-23735-singleton-roulette-racing-for-context-in-graphql-modules-4k6o)
-- [How I Finally Understood Wi-Fi &lpar;Hint: It&#39;s Like a Rhythm Game&rpar;](https://dev.to/tielec-takashi/how-i-finally-understood-wi-fi-hint-its-like-a-rhythm-game-hii)
-- [Proper file names](https://dev.to/sleepy_ahmed_dbad3fbe96bc/proper-file-names-5cn2)
+- [Imitation Learning: A Stanford Walkthrough](https://dev.to/samdude/imitation-learning-a-stanford-walkthrough-22cc)
+- [Running Podman on Windows with WSL: A Practical Guide](https://dev.to/octasoft-ltd/running-podman-on-windows-with-wsl-a-practical-guide-4jl8)
+- [GHSA-5882-5RX9-XGXP: Crawl4AI RCE: Hook, Line, and Sinker into Your Docker Container](https://dev.to/cverports/ghsa-5882-5rx9-xgxp-crawl4ai-rce-hook-line-and-sinker-into-your-docker-container-3l1l)
+- [How to make LLMs work on large amounts of data](https://dev.to/abhijithneilabraham/how-to-make-llms-work-on-large-amounts-of-data-1ol0)
 <!-- BLOG-POST-LIST:END -->
 
 
