@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Imitation Learning: A Stanford Walkthrough](https://dev.to/samdude/imitation-learning-a-stanford-walkthrough-22cc)
-- [Running Podman on Windows with WSL: A Practical Guide](https://dev.to/octasoft-ltd/running-podman-on-windows-with-wsl-a-practical-guide-4jl8)
-- [GHSA-5882-5RX9-XGXP: Crawl4AI RCE: Hook, Line, and Sinker into Your Docker Container](https://dev.to/cverports/ghsa-5882-5rx9-xgxp-crawl4ai-rce-hook-line-and-sinker-into-your-docker-container-3l1l)
-- [How to make LLMs work on large amounts of data](https://dev.to/abhijithneilabraham/how-to-make-llms-work-on-large-amounts-of-data-1ol0)
+- [BrainRunner &lpar;1m&rpar;](https://dev.to/celia_gonzlez_ad37da4de5/brainrunner-1m-5hj8)
+- [Race to the Bottom: Weaponizing Concurrency , PART 1 . #THREADING](https://dev.to/7mo_sec/race-to-the-bottom-weaponizing-concurrency-part-1-threading-2h7m)
+- [End-to-End MLOps Project: Customer Churn Prediction](https://dev.to/koteswararao_j_262f1ca27f/end-to-end-mlops-project-customer-churn-prediction-nbi)
+- [Datadog: Observability Lessons from 50+ AWS Apps](https://dev.to/aws-builders/datadog-observability-lessons-from-50-aws-apps-37h4)
 <!-- BLOG-POST-LIST:END -->
 
 
