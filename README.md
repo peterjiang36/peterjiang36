@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy Any Player’s Free Fire Name](https://dev.to/freefirenation/copy-any-players-free-fire-name-2k80)
-- [Copy Free Fire Name By UID](https://dev.to/freefirenation/copy-free-fire-name-by-uid-3fmi)
-- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458)
-- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
+- [Do we need Junior developers?](https://dev.to/shitij_bhatnagar_b6d1be72/do-we-need-junior-developers-2k2l)
+- [Greenfield vs Legacy Software: The Hidden Career Benefits of Legacy Code](https://dev.to/arturk/greenfield-vs-legacy-software-the-hidden-career-benefits-of-legacy-code-o2k)
+- [# Full Stack Development Roadmap: My Journey to MERN Stack Mastery](https://dev.to/borifan_dabasa/full-stack-development-roadmap-my-journey-to-mern-stack-mastery-2dg8)
+- [Automatic Language Support: Add a Modern TR/EN Toggle to Any PHP/HTML Site &lpar;Fast&rpar;](https://dev.to/mebularts/automatic-language-support-add-a-modern-tren-toggle-to-any-phphtml-site-fast-4gme)
 <!-- BLOG-POST-LIST:END -->
 
 
