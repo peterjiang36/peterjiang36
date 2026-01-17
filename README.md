@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Static Website Hosting on AWS: CloudFront + Private S3 Bucket with Origin Access Control](https://dev.to/alok38/secure-static-website-hosting-on-aws-cloudfront-private-s3-bucket-with-origin-access-control-29na)
-- [GDPR as a Blueprint for Risk-Aware Architecture](https://dev.to/antonmb/gdpr-as-a-blueprint-for-risk-aware-architecture-51oo)
-- [Use of Git to push/pull code, track changes and version control](https://dev.to/ajani_lukekariuki_79255c/use-of-git-to-pushpull-code-track-changes-and-version-control-1e1b)
-- [A Beginner&#39;s Guide to Git and GitHub](https://dev.to/austin3560/a-beginners-guide-to-git-and-github-2p5n)
+- [Built My Own Open-Source PDF Tool](https://dev.to/manojkumar_achanta/built-my-own-open-source-pdf-tool-450m)
+- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
+- [I May Be Wrong](https://dev.to/chenhunghan/i-may-be-wrong-2oal)
+- [Material vs Material Instance: My Beginner Realization](https://dev.to/dinesh_04/material-vs-material-instance-my-beginner-realization-18fn)
 <!-- BLOG-POST-LIST:END -->
 
 
