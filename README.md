@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Eliminated Duplicate Orders at Scale: A Python Post-Mortem from EyecareWell](https://dev.to/darkbranchcore/how-we-eliminated-duplicate-orders-at-scale-a-python-post-mortem-from-eyecarewell-3fo2)
-- [How to copy Free Fire Name Copy by UID](https://dev.to/freefirenation_edito/how-to-copy-free-fire-name-copy-by-uid-3oeo)
-- [I Have Bipolar II and I&#39;m a Software Engineering Manager. Here&#39;s What Actually Works.](https://dev.to/sweetpapa/i-have-bipolar-ii-and-im-a-software-engineering-manager-heres-what-actually-works-c14)
-- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-4f7j)
+- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3)
+- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad)
+- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m)
+- [Stop Reading Raw Stacktraces: AI-Powered Java Thread Dump Analysis with MCP](https://dev.to/irockel/stop-reading-raw-stacktraces-ai-powered-java-thread-dump-analysis-with-mcp-4673)
 <!-- BLOG-POST-LIST:END -->
 
 
