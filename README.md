@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Inspector is Now Stable: A Browser-Based Tool for Testing MCP Servers](https://dev.to/punkpeye/mcp-inspector-is-now-stable-a-browser-based-tool-for-testing-mcp-servers-4dim)
-- [What Happens When a Gold Mining Professional Tries Vibe Coding?](https://dev.to/marcus_briggs/what-happens-when-a-gold-mining-professional-tries-vibe-coding-1o6o)
-- [How to Create a Striking Grayscale Effect](https://dev.to/anthony_dito_8fad7bcb4ad3/how-to-create-a-striking-grayscale-effect-1gd1)
-- [The Most Dangerous Bug Is the One That Doesn’t Crash](https://dev.to/vortex_shadow_8bce7f9fe36/the-most-dangerous-bug-is-the-one-that-doesnt-crash-1250)
+- [当 AI 变成我的&quot;超强员工](https://dev.to/gudong/dang-ai-bian-cheng-wo-de-chao-qiang-yuan-gong-9of)
+- [Redacting Sensitive Data in Go&#39;s slog: A Practical Guide with masq](https://dev.to/mizutani/redacting-sensitive-data-in-gos-slog-a-practical-guide-with-masq-158o)
+- [The Simple Trick That Makes a List of 50,000 Render Smoothly](https://dev.to/muradhaneya/the-simple-trick-that-makes-a-list-of-50000-render-smoothly-38ch)
+- [Stop Feeding &quot;Junk&quot; Tokens to Your LLM. &lpar;I Built a Proxy to Fix It&rpar;](https://dev.to/tejas_chopra/stop-feeding-junk-tokens-to-your-llm-i-built-a-proxy-to-fix-it-1hg9)
 <!-- BLOG-POST-LIST:END -->
 
 
