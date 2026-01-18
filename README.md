@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Willard’s First Flight &lpar;and Unplanned Disassembly&rpar;](https://dev.to/sigje/willards-first-flight-and-unplanned-disassembly-1ohd)
-- [Api Doc Portfolio](https://dev.to/geraq/api-doc-portfolio-3lk2)
-- [Taking a Break from Dev.to &lpar;This is Why&rpar;](https://dev.to/pierre/taking-a-break-from-devto-37ep)
-- [Building WSL-UI: Mock Mode and Fake Distros](https://dev.to/octasoft-ltd/building-wsl-ui-mock-mode-and-fake-distros-2hbl)
+- [give it a try guys:
+https://depapp-726779073670.asia-southeast2.run.app](https://dev.to/depapp/give-it-a-try-guyshttpsdepapp-726779073670asia-southeast2runapp-2e8j)
+- [Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality](https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1)
+- [Hello &lpar;again&rpar; and Thank You](https://dev.to/mcondon/hello-again-and-thank-you-3dd6)
+- [El Sesgo Tech del &#39;NewDev&#39;: Cuando la Novedad Nubla la Eficiencia](https://dev.to/tremolgraterol/el-sesgo-tech-del-newdev-cuando-la-novedad-nubla-la-eficiencia-19fh)
 <!-- BLOG-POST-LIST:END -->
 
 
