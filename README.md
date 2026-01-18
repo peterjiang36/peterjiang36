@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built the missing UI for Gemini&#39;s File Search &lpar;managed RAG&rpar; API](https://dev.to/prashant_rohilla_60997096/i-built-the-missing-ui-for-geminis-file-search-managed-rag-api-ge7)
-- [Smart Hydration Made Simple: How to Build Your Own BLE Water Bottle Tracker](https://dev.to/wellallytech/smart-hydration-made-simple-how-to-build-your-own-ble-water-bottle-tracker-1oen)
-- [🤫 The Secret `.md` File That Doubles Your AI Coding Speed](https://dev.to/siddhesh_surve/the-secret-md-file-that-doubles-your-ai-coding-speed-cfl)
-- [📱 The End of Xcode? Replit Just Dropped &quot;Text-to-App Store&quot; for iOS &amp; Android](https://dev.to/siddhesh_surve/the-end-of-xcode-replit-just-dropped-text-to-app-store-for-ios-android-2m4j)
+- [Willard’s First Flight &lpar;and Unplanned Disassembly&rpar;](https://dev.to/sigje/willards-first-flight-and-unplanned-disassembly-1ohd)
+- [Api Doc Portfolio](https://dev.to/geraq/api-doc-portfolio-3lk2)
+- [Taking a Break from Dev.to &lpar;This is Why&rpar;](https://dev.to/pierre/taking-a-break-from-devto-37ep)
+- [Building WSL-UI: Mock Mode and Fake Distros](https://dev.to/octasoft-ltd/building-wsl-ui-mock-mode-and-fake-distros-2hbl)
 <!-- BLOG-POST-LIST:END -->
 
 
