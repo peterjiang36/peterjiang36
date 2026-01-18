@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [L&#39;IA nella Programmazione: Strumento o Stampella?](https://dev.to/marco_bollero_ba3c38ddd27/lia-nella-programmazione-strumento-o-stampella-ho2)
-- [🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique](https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63)
-- [Getting started with Git and GitHub.](https://dev.to/victor_ochieng_e9/getting-started-with-git-and-github-98o)
-- [From Documents to Relations: A Complete Guide to Migrating MongoDB to Supabase at Scale](https://dev.to/starkprince/from-documents-to-relations-a-complete-guide-to-migrating-mongodb-to-supabase-at-scale-46mb)
+- [GIT &amp; GITHUB AS A BEGINNER](https://dev.to/kiarieamos/git-github-as-a-beginner-3k1k)
+- [My Journey at LuxDevHQ: Version Control &lpar;The Basics&rpar;](https://dev.to/victormungai97/my-journey-at-luxdevhq-version-control-the-basics-19aj)
+- [Bash As Agent: Testing SLMs on Linux](https://dev.to/ben-santora/bash-as-agent-testing-slms-on-linux-4mg0)
+- [Beginner friendly article on Git bash and Git hub.](https://dev.to/steve_andrew_089e2bdcbc14/beginner-friendly-article-on-git-bash-and-git-hub-40k4)
 <!-- BLOG-POST-LIST:END -->
 
 
