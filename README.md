@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey world, I made a programming language &lpar;and it’s alive!&rpar;](https://dev.to/swifteexstudio/hey-world-i-made-a-programming-language-and-its-alive-1154)
-- [Result Pattern in C#](https://dev.to/adrianbailador/result-pattern-in-c-fal)
-- [🤖 AI SEO for Modern Web Applications &lpar;Next.js, TS &amp; JS&rpar;](https://dev.to/hbkabir004/ai-seo-for-modern-web-applications-nextjs-ts-js-4fo8)
-- [ElevenLabs: $99/mo vs. Kokoro + VoxCPM: $0 &lpar;Better Quality&rpar; 🎙️](https://dev.to/_aparna_pradhan_/elevenlabs-99mo-vs-kokoro-voxcpm-0-better-quality-1p47)
+- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
+- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
+- [Vibe coding as a love language](https://dev.to/amandamartindev/vibe-coding-as-a-love-language-4321)
+- [Restarting My DSA Journey in Java — Solving Kunal Kushwaha’s Assignments + LeetCode Daily!](https://dev.to/herclarity_space/restarting-my-dsa-journey-in-java-solving-kunal-kushwahas-assignments-leetcode-daily-gbo)
 <!-- BLOG-POST-LIST:END -->
 
 
