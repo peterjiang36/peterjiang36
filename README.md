@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [当 AI 变成我的&quot;超强员工](https://dev.to/gudong/dang-ai-bian-cheng-wo-de-chao-qiang-yuan-gong-9of)
-- [Redacting Sensitive Data in Go&#39;s slog: A Practical Guide with masq](https://dev.to/mizutani/redacting-sensitive-data-in-gos-slog-a-practical-guide-with-masq-158o)
-- [The Simple Trick That Makes a List of 50,000 Render Smoothly](https://dev.to/muradhaneya/the-simple-trick-that-makes-a-list-of-50000-render-smoothly-38ch)
-- [Stop Feeding &quot;Junk&quot; Tokens to Your LLM. &lpar;I Built a Proxy to Fix It&rpar;](https://dev.to/tejas_chopra/stop-feeding-junk-tokens-to-your-llm-i-built-a-proxy-to-fix-it-1hg9)
+- [I built the missing UI for Gemini&#39;s File Search &lpar;managed RAG&rpar; API](https://dev.to/prashant_rohilla_60997096/i-built-the-missing-ui-for-geminis-file-search-managed-rag-api-ge7)
+- [Smart Hydration Made Simple: How to Build Your Own BLE Water Bottle Tracker](https://dev.to/wellallytech/smart-hydration-made-simple-how-to-build-your-own-ble-water-bottle-tracker-1oen)
+- [🤫 The Secret `.md` File That Doubles Your AI Coding Speed](https://dev.to/siddhesh_surve/the-secret-md-file-that-doubles-your-ai-coding-speed-cfl)
+- [📱 The End of Xcode? Replit Just Dropped &quot;Text-to-App Store&quot; for iOS &amp; Android](https://dev.to/siddhesh_surve/the-end-of-xcode-replit-just-dropped-text-to-app-store-for-ios-android-2m4j)
 <!-- BLOG-POST-LIST:END -->
 
 
