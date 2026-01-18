@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
-- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
-- [Deploying the AWS re:Invent Map with AWS Amplify Hosting](https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em)
-- [Why My Video Screen Was Black in Unreal Engine](https://dev.to/dinesh_04/why-my-video-screen-was-black-in-unreal-engine-30p4)
+- [L&#39;IA nella Programmazione: Strumento o Stampella?](https://dev.to/marco_bollero_ba3c38ddd27/lia-nella-programmazione-strumento-o-stampella-ho2)
+- [🥙🥗 Guide Nutritionnel : Aliments classés par valeur calorique](https://dev.to/davidscanu/guide-nutritionnel-aliments-classes-par-valeur-calorique-3h63)
+- [Getting started with Git and GitHub.](https://dev.to/victor_ochieng_e9/getting-started-with-git-and-github-98o)
+- [From Documents to Relations: A Complete Guide to Migrating MongoDB to Supabase at Scale](https://dev.to/starkprince/from-documents-to-relations-a-complete-guide-to-migrating-mongodb-to-supabase-at-scale-46mb)
 <!-- BLOG-POST-LIST:END -->
 
 
