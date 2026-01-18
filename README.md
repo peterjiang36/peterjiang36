@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [give it a try guys:
-https://depapp-726779073670.asia-southeast2.run.app](https://dev.to/depapp/give-it-a-try-guyshttpsdepapp-726779073670asia-southeast2runapp-2e8j)
-- [Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality](https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1)
-- [Hello &lpar;again&rpar; and Thank You](https://dev.to/mcondon/hello-again-and-thank-you-3dd6)
-- [El Sesgo Tech del &#39;NewDev&#39;: Cuando la Novedad Nubla la Eficiencia](https://dev.to/tremolgraterol/el-sesgo-tech-del-newdev-cuando-la-novedad-nubla-la-eficiencia-19fh)
+- [Supply Chain Attacks on AI Models: How Attackers Inject Backdoors Through Poisoned LoRA Adapters and Compromised Model Weights](https://dev.to/cyberpath/supply-chain-attacks-on-ai-models-how-attackers-inject-backdoors-through-poisoned-lora-adapters-1eb)
+- [The Secret Life of Python: The Lazy Baker](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-lazy-baker-mh)
+- [Prompt Injection Attacks: The Top AI Threat in 2026 and How to Defend Against It](https://dev.to/cyberpath/prompt-injection-attacks-the-top-ai-threat-in-2026-and-how-to-defend-against-it-an0)
+- [LLM Red Teaming: The New Penetration Testing Discipline and How to Build Your Internal Red Team](https://dev.to/cyberpath/llm-red-teaming-the-new-penetration-testing-discipline-and-how-to-build-your-internal-red-team-99l)
 <!-- BLOG-POST-LIST:END -->
 
 
