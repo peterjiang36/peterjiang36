@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git BEGINNER’S MANUAL](https://dev.to/cynthia_jelimo_3f427f1110/git-beginners-manual-1f78)
-- [The “Too Smart” Knowledge Base Problem: When Your AI Knows Too Much for Its Own Good](https://dev.to/faraz_farhan_83ed23a154a2/the-too-smart-knowledge-base-problem-when-your-ai-knows-too-much-for-its-own-good-44gm)
-- [Tech Pulse – Weekly Tech Digest January 11-17, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digest-january-11-17-2026-2l4d)
-- [Describe AWS Infrastructure And Technologies For Building Generative AI Applications](https://dev.to/aws-builders/describe-aws-infrastructure-and-technologies-for-building-generative-ai-applications-26mp)
+- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
+- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
+- [Deploying the AWS re:Invent Map with AWS Amplify Hosting](https://dev.to/aws-heroes/deploying-the-aws-reinvent-map-with-aws-amplify-hosting-3em)
+- [Why My Video Screen Was Black in Unreal Engine](https://dev.to/dinesh_04/why-my-video-screen-was-black-in-unreal-engine-30p4)
 <!-- BLOG-POST-LIST:END -->
 
 
