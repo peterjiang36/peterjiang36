@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
-- [The Core Architectural Components of Azure](https://dev.to/awokay/the-core-architectural-components-of-azure-3bc4)
-- [Mastering the Fetch API with Real‑Life JavaScript Examples](https://dev.to/mdfahim18/mastering-the-fetch-api-with-real-life-javascript-examples-eke)
-- [Emojis: From Japanese Mobile Phones to a Global Visual Language](https://dev.to/kulikboxx/emojis-from-japanese-mobile-phones-to-a-global-visual-language-hpn)
+- [Network Engineer](https://dev.to/desinetworker/network-engineer-3e7o)
+- [Reinventing a Solved Problem: An Architectural Review of Odoo OWL Frontend Framework](https://dev.to/bogaboga1/reinventing-a-solved-problem-an-architectural-review-of-odoo-owl-frontend-framework-2113)
+- [Building a Real-Time &quot;Watchtower&quot;: Implementing GPS Activity Monitoring in 2026](https://dev.to/securitytips/building-a-real-time-watchtower-implementing-gps-activity-monitoring-in-2026-jh2)
+- [Linux Internals Everyone *Must* Understand](https://dev.to/kaustubhyerkade/linux-internals-everyone-must-understand-526l)
 <!-- BLOG-POST-LIST:END -->
 
 
