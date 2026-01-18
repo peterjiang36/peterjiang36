@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Session-Based Authentication VS Token-Based Authentication](https://dev.to/tamjid_ahmed_e9bea176abee/session-based-authentication-vs-token-based-authentication-10e7)
-- [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
-- [Hexagonal architecture - Another way to the hexagone](https://dev.to/marabesi/hexagonal-architecture-another-way-to-the-hexagone-25g0)
-- [The Shocking Truth About ‘Dumb’ Mean Imputation](https://dev.to/aiwithapex/the-shocking-truth-about-dumb-mean-imputation-4onk)
+- [Hey world, I made a programming language &lpar;and it’s alive!&rpar;](https://dev.to/swifteexstudio/hey-world-i-made-a-programming-language-and-its-alive-1154)
+- [Result Pattern in C#](https://dev.to/adrianbailador/result-pattern-in-c-fal)
+- [🤖 AI SEO for Modern Web Applications &lpar;Next.js, TS &amp; JS&rpar;](https://dev.to/hbkabir004/ai-seo-for-modern-web-applications-nextjs-ts-js-4fo8)
+- [ElevenLabs: $99/mo vs. Kokoro + VoxCPM: $0 &lpar;Better Quality&rpar; 🎙️](https://dev.to/_aparna_pradhan_/elevenlabs-99mo-vs-kokoro-voxcpm-0-better-quality-1p47)
 <!-- BLOG-POST-LIST:END -->
 
 
