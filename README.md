@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
-- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
-- [Razer AIKit: Open-Source, Local-First AI Workflows for Developers](https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig)
-- [If ChatGPT Writes Your Code, What Are You Getting Paid For?](https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5)
+- [Learn How to Build Reliable RAG Applications in 2026!](https://dev.to/pavanbelagatti/learn-how-to-build-reliable-rag-applications-in-2026-1b7p)
+- [How to Authenticate Users with Solana Wallets in NestJS](https://dev.to/david_essien/how-to-authenticate-users-with-solana-wallets-in-nestjs-46gd)
+- [ReactJS Hook Pattern ~useEffectEvent Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-useeffectevent-pattern-29d)
+- [Is Omarchy Any Good...?](https://dev.to/fstrube/is-omarchy-any-good-3069)
 <!-- BLOG-POST-LIST:END -->
 
 
