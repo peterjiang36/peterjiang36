@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕](https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k)
-- [10 Ways to Stand Out at Work—Other than Work Hard](https://dev.to/canro91/10-ways-to-stand-out-at-work-other-than-work-hard-1gpa)
-- [Day 14: When Restarting Feels Heavy](https://dev.to/casperday11/day-14-when-restarting-feels-heavy-2bk2)
-- [Model Context Protocol &lpar;MCP&rpar; Explained for Developers: Why AI Agents Need It](https://dev.to/prabhav_jain_a0be90b5a905/model-context-protocol-mcp-explained-for-developers-why-ai-agents-need-it-e5j)
+- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
+- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
+- [Razer AIKit: Open-Source, Local-First AI Workflows for Developers](https://dev.to/mishmanners/razer-aikit-open-source-local-first-ai-workflows-for-developers-4nig)
+- [If ChatGPT Writes Your Code, What Are You Getting Paid For?](https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5)
 <!-- BLOG-POST-LIST:END -->
 
 
