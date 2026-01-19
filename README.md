@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Zomato&#39;s MCP Server with ChatGPT &lpar;Complete Guide - No Whitelisting Issues&rpar;](https://dev.to/apoorvaventra/how-to-set-up-zomatos-mcp-server-with-chatgpt-complete-guide-no-whitelisting-issues-4iij)
-- [Ringer Movies: The Matt Damon and Ben Affleck Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-matt-damon-and-ben-affleck-movie-draft-4eec)
-- [Understanding the RegexEntityExtractor in RASA](https://dev.to/aniket_kuyate_15acc4e6587/understanding-the-regexentityextractor-in-rasa-4903)
-- [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
+- [Understanding Application Performance from a User Perspective](https://dev.to/alice_weber_3110/understanding-application-performance-from-a-user-perspective-m01)
+- [How to better your Claude CoWork experience with MCPs](https://dev.to/composiodev/how-to-better-your-claude-cowork-experience-with-mcps-3hfp)
+- [Multi-Model AI Resource Allocation for Humanoid Robots: A Survey on Jetson Orin Nano Super](https://dev.to/ankk98/multi-model-ai-resource-allocation-for-humanoid-robots-a-survey-on-jetson-orin-nano-super-310i)
+- [I Reverse-Engineered a Horror Game&#39;s Logic to Build an Open Source Ending Calculator &lpar;Astro + Tailwind&rpar;](https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-reverse-engineered-a-horror-games-logic-to-build-an-open-source-ending-calculator-astro--7kn)
 <!-- BLOG-POST-LIST:END -->
 
 
