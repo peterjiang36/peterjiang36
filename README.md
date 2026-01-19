@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn How to Build Reliable RAG Applications in 2026!](https://dev.to/pavanbelagatti/learn-how-to-build-reliable-rag-applications-in-2026-1b7p)
-- [How to Authenticate Users with Solana Wallets in NestJS](https://dev.to/david_essien/how-to-authenticate-users-with-solana-wallets-in-nestjs-46gd)
-- [ReactJS Hook Pattern ~useEffectEvent Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-useeffectevent-pattern-29d)
-- [Is Omarchy Any Good...?](https://dev.to/fstrube/is-omarchy-any-good-3069)
+- [Why Most AI Systems Fail at Context, Not Generation](https://dev.to/leigh_k_valentine/why-most-ai-systems-fail-at-context-not-generation-274j)
+- [Running a RAG Pipeline in a Production Full-Stack Application &lpar;Without a Vector Database&rpar;](https://dev.to/mate32/running-a-rag-pipeline-in-a-production-full-stack-application-without-a-vector-database-42fj)
+- [Django Static Files: The Complete Guide - From Local Dev to S3 Production with Tailwind CSS](https://dev.to/ajitkumar/django-static-files-the-complete-guide-from-local-dev-to-s3-production-with-tailwind-css-ab4)
+- [Accelerating AI Inference Workflows with the Atomic Inference Boilerplate](https://dev.to/chnghia/accelerating-ai-inference-workflows-with-the-atomic-inference-boilerplate-75b)
 <!-- BLOG-POST-LIST:END -->
 
 
