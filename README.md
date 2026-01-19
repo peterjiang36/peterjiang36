@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Git Log Diff Workflow Plugin for Neovim](https://dev.to/salanoid/how-i-built-a-git-log-diff-workflow-plugin-for-neovim-278m)
-- [Build a List of Major Web Browsers](https://dev.to/richardpascoe/build-a-list-of-major-web-browsers-m7h)
-- [n8n vs Zapier: Which Automation Tool Should You Use in 2026?](https://dev.to/guidetodo/n8n-vs-zapier-which-automation-tool-should-you-use-in-2026-43i9)
-- [Vibe Coding Will Replace Traditional Debugging by 2027](https://dev.to/numbpill3d/vibe-coding-will-replace-traditional-debugging-by-2027-2e1h)
+- [Introducing PodcastAIStudio: AI-Powered Podcast Creation Made Simple](https://dev.to/hannesegi_65f6f1d62f5faea/introducing-podcastaistudio-ai-powered-podcast-creation-made-simple-khh)
+- [API vs MCP: Understanding the Shift From Developer Tools to AI Agents](https://dev.to/haseeb1009/api-vs-mcp-understanding-the-shift-from-developer-tools-to-ai-agents-5dcn)
+- [Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts](https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3)
+- [My Coding Rules for Bash Scripts](https://dev.to/mcgivrer/my-coding-rules-for-bash-scripts-4n3j)
 <!-- BLOG-POST-LIST:END -->
 
 
