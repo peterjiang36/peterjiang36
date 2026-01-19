@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Lorem Ipsum Generator for Developers &amp; Designers 🚀](https://dev.to/biplob_barman_93c5009f323/i-built-a-free-lorem-ipsum-generator-for-developers-designers-26j9)
-- [Mastering tRPC with React Server Components: The Definitive 2026 Guide](https://dev.to/christadrian/mastering-trpc-with-react-server-components-the-definitive-2026-guide-1i2e)
-- [WTH is JDBC, Spring JDBC, JPA, Hibernate, ORM, Spring Boot JPA](https://dev.to/gadoma/wth-is-jdbc-spring-jdbc-jpa-hibernate-orm-spring-boot-jpa-30m9)
-- [A Simple Python Tool for Controlled PDF Text Extraction &lpar;PyPDF&rpar;](https://dev.to/vast-cow/a-simple-python-tool-for-controlled-pdf-text-extraction-pypdf-3gi7)
+- [How I Built a Git Log Diff Workflow Plugin for Neovim](https://dev.to/salanoid/how-i-built-a-git-log-diff-workflow-plugin-for-neovim-278m)
+- [Build a List of Major Web Browsers](https://dev.to/richardpascoe/build-a-list-of-major-web-browsers-m7h)
+- [n8n vs Zapier: Which Automation Tool Should You Use in 2026?](https://dev.to/guidetodo/n8n-vs-zapier-which-automation-tool-should-you-use-in-2026-43i9)
+- [Vibe Coding Will Replace Traditional Debugging by 2027](https://dev.to/numbpill3d/vibe-coding-will-replace-traditional-debugging-by-2027-2e1h)
 <!-- BLOG-POST-LIST:END -->
 
 
