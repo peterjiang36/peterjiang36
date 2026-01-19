@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Validating Native Python: A Practical Approach with baredtype](https://dev.to/veer66/validating-native-python-a-practical-approach-with-baredtype-44g1)
-- [Fix OBS Studio Microphone Permission Issues on macOS Hackintosh](https://dev.to/jervi/fix-obs-studio-microphone-permission-issues-on-macos-hackintosh-2mn)
-- [Mi primera migración a la nube: Cómo moví mi portafolio de GitHub Pages a AWS Amplify](https://dev.to/anyelodev/mi-primera-migracion-a-la-nube-como-movi-mi-portafolio-de-github-pages-a-aws-amplify-2na5)
-- [PVM - PHP Version Manager for Windows](https://dev.to/drissboumlik/pvm-php-version-manager-for-windows-4gnk)
+- [Building a High-Concurrency Web Crawler in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-high-concurrency-web-crawler-in-go-a-practical-guide-i3a)
+- [Build a UGC Content Finder to Discover Brand Mentions Across Platforms](https://dev.to/olams/build-a-ugc-content-finder-to-discover-brand-mentions-across-platforms-22am)
+- [LangChain vs LangGraph: Why One&#39;s a Drive-Through and the Other&#39;s a Buffet](https://dev.to/sreeni5018/langchain-vs-langgraph-why-ones-a-drive-through-and-the-others-a-buffet-2oj0)
+- [Testing MFA without constantly reaching for your phone](https://dev.to/meharhay/testing-mfa-without-constantly-reaching-for-your-phone-11ij)
 <!-- BLOG-POST-LIST:END -->
 
 
