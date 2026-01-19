@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs Ruby - I built the same github analyzer with both](https://dev.to/fabianfrankwerner/python-vs-ruby-i-built-the-same-github-analyzer-with-both-51gj)
-- [All About Git &amp; Git-Hub: Beginner&#39;s guide on relationship between git&amp; git-hub, installation, linking both tools to launching.](https://dev.to/seme_clive_4242bd50f332cb/all-about-git-git-hub-beginners-guide-on-relationship-between-git-git-hub-installation-5h42)
-- [Production Is Not a Joke: A Lesson I Learned the Hard Way](https://dev.to/victor1890/production-is-not-a-joke-a-lesson-i-learned-the-hard-way-5blo)
-- [Introducing a Rate Limiter Library for Go](https://dev.to/yasserelgammal/introducing-a-rate-limiter-library-for-go-42nf)
+- [Validating Native Python: A Practical Approach with baredtype](https://dev.to/veer66/validating-native-python-a-practical-approach-with-baredtype-44g1)
+- [Fix OBS Studio Microphone Permission Issues on macOS Hackintosh](https://dev.to/jervi/fix-obs-studio-microphone-permission-issues-on-macos-hackintosh-2mn)
+- [Mi primera migración a la nube: Cómo moví mi portafolio de GitHub Pages a AWS Amplify](https://dev.to/anyelodev/mi-primera-migracion-a-la-nube-como-movi-mi-portafolio-de-github-pages-a-aws-amplify-2na5)
+- [PVM - PHP Version Manager for Windows](https://dev.to/drissboumlik/pvm-php-version-manager-for-windows-4gnk)
 <!-- BLOG-POST-LIST:END -->
 
 
