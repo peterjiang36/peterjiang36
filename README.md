@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Systems Fail at Context, Not Generation](https://dev.to/leigh_k_valentine/why-most-ai-systems-fail-at-context-not-generation-274j)
-- [Running a RAG Pipeline in a Production Full-Stack Application &lpar;Without a Vector Database&rpar;](https://dev.to/mate32/running-a-rag-pipeline-in-a-production-full-stack-application-without-a-vector-database-42fj)
-- [Django Static Files: The Complete Guide - From Local Dev to S3 Production with Tailwind CSS](https://dev.to/ajitkumar/django-static-files-the-complete-guide-from-local-dev-to-s3-production-with-tailwind-css-ab4)
-- [Accelerating AI Inference Workflows with the Atomic Inference Boilerplate](https://dev.to/chnghia/accelerating-ai-inference-workflows-with-the-atomic-inference-boilerplate-75b)
+- [I Built a Free Lorem Ipsum Generator for Developers &amp; Designers 🚀](https://dev.to/biplob_barman_93c5009f323/i-built-a-free-lorem-ipsum-generator-for-developers-designers-26j9)
+- [Mastering tRPC with React Server Components: The Definitive 2026 Guide](https://dev.to/christadrian/mastering-trpc-with-react-server-components-the-definitive-2026-guide-1i2e)
+- [WTH is JDBC, Spring JDBC, JPA, Hibernate, ORM, Spring Boot JPA](https://dev.to/gadoma/wth-is-jdbc-spring-jdbc-jpa-hibernate-orm-spring-boot-jpa-30m9)
+- [A Simple Python Tool for Controlled PDF Text Extraction &lpar;PyPDF&rpar;](https://dev.to/vast-cow/a-simple-python-tool-for-controlled-pdf-text-extraction-pypdf-3gi7)
 <!-- BLOG-POST-LIST:END -->
 
 
