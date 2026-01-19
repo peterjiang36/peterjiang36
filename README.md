@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Concurrency Web Crawler in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-high-concurrency-web-crawler-in-go-a-practical-guide-i3a)
-- [Build a UGC Content Finder to Discover Brand Mentions Across Platforms](https://dev.to/olams/build-a-ugc-content-finder-to-discover-brand-mentions-across-platforms-22am)
-- [LangChain vs LangGraph: Why One&#39;s a Drive-Through and the Other&#39;s a Buffet](https://dev.to/sreeni5018/langchain-vs-langgraph-why-ones-a-drive-through-and-the-others-a-buffet-2oj0)
-- [Testing MFA without constantly reaching for your phone](https://dev.to/meharhay/testing-mfa-without-constantly-reaching-for-your-phone-11ij)
+- [TGL2209-SM High-Performance Microwave Power Amplifier: Overview and Applications](https://dev.to/xecor_company/tgl2209-sm-high-performance-microwave-power-amplifier-overview-and-applications-59n0)
+- [What is the critical task for developers?
+
+Now, developers should control every part of the process, including user engagement and experience, not just the core job only.](https://dev.to/jaideepparashar/what-is-the-critical-task-for-developers-now-developers-should-control-every-part-of-the-5ddh)
+- [The Rise of Private AI Models: What It Means for Developers](https://dev.to/jaideepparashar/the-rise-of-private-ai-models-what-it-means-for-developers-3afa)
+- [The silent layout bug in AI-generated slides](https://dev.to/rivi_mizuiro_147c9219f6d5/the-silent-layout-bug-in-ai-generated-slides-2oml)
 <!-- BLOG-POST-LIST:END -->
 
 
