@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How React works?](https://dev.to/vijayaragavan_nandhagopal/how-react-works-lhk)
-- [I&#39;m Building My Own Coding Agent Harness &lpar;And It&#39;s Pretty Cool&rpar;](https://dev.to/composiodev/im-building-my-own-coding-agent-harness-and-its-pretty-cool-1lpf)
-- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 2 Create and store text and image embeddings](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-2-create-and-27d8)
-- [I Deployed My AI Portfolio on Google Cloud Run with Gemini API dev-tutorial: devnewyear2026](https://dev.to/mohamed_coulibaly/i-deployed-my-ai-portfolio-on-google-cloud-run-with-gemini-api-dev-tutorial-devnewyear2026-1116)
+- [Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry](https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p)
+- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
+- [Designing Better Compiler Diagnostics — Lessons from building Klar](https://dev.to/lucaasd3v/designing-better-compiler-diagnostics-lessons-from-building-klar-bhb)
+- [Stop reinventing the wheel. Meet Core-X: A Secure Node.js &amp; Supabase Boilerplate](https://dev.to/ym_zerotwo_8bbff6a4570ace/stop-reinventing-the-wheel-meet-core-x-a-secure-nodejs-supabase-boilerplate-55op)
 <!-- BLOG-POST-LIST:END -->
 
 
