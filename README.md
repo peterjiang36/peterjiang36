@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TGL2209-SM High-Performance Microwave Power Amplifier: Overview and Applications](https://dev.to/xecor_company/tgl2209-sm-high-performance-microwave-power-amplifier-overview-and-applications-59n0)
-- [What is the critical task for developers?
-
-Now, developers should control every part of the process, including user engagement and experience, not just the core job only.](https://dev.to/jaideepparashar/what-is-the-critical-task-for-developers-now-developers-should-control-every-part-of-the-5ddh)
-- [The Rise of Private AI Models: What It Means for Developers](https://dev.to/jaideepparashar/the-rise-of-private-ai-models-what-it-means-for-developers-3afa)
-- [The silent layout bug in AI-generated slides](https://dev.to/rivi_mizuiro_147c9219f6d5/the-silent-layout-bug-in-ai-generated-slides-2oml)
+- [Kalibr: If You&#39;re Debugging Agents Manually, You&#39;re Behind](https://dev.to/devon__kelley/kalibr-if-youre-debugging-agents-manually-youre-behind-551i)
+- [Hello World, PardoX: Why I Built a Data Engine in Rust &lpar;and Why I Need You to Break It&rpar;](https://dev.to/betoalien/hello-world-pardox-why-i-built-a-data-engine-in-rust-and-why-i-need-you-to-break-it-1pik)
+- [Benchmark Report: Analyzing the Time-Space Trade-off in Memory Allocators &lpar;hakozuna vs tcmalloc&rpar;](https://dev.to/charmpic/benchmark-report-analyzing-the-time-space-trade-off-in-memory-allocators-hakozuna-vs-tcmalloc-5om)
+- [Event Driven Design &amp; Message Driven Design](https://dev.to/rachelsarchive/event-driven-design-message-driven-design-1afe)
 <!-- BLOG-POST-LIST:END -->
 
 
