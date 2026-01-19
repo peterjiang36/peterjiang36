@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained](https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp)
-- [Top Strategies to Optimize High-Traffic Node.js APIs](https://dev.to/jefersoneiji/top-strategies-to-optimize-high-traffic-nodejs-apis-a16)
-- [When Your Cheap Sensor Breaks Everything: Understanding LSP](https://dev.to/robjohnston/interchangeable-components-when-inheritance-works-and-when-it-doesnt-2g48)
-- [Graceful degradation in practice: how FeatureOps builds real resilience](https://dev.to/alexcasalboni/graceful-degradation-in-practice-how-featureops-builds-real-resilience-1p4i)
+- [I RAN A STATIC LINTER ON 3.2 BILLION LINES OF LEGACY CODE &lpar;THE HUMAN GENOME&rpar;](https://dev.to/sirfederick/i-ran-a-static-linter-on-32-billion-lines-of-legacy-code-the-human-genome-2oeh)
+- [From Spreadsheets to Insights The Data Mart Journey for Associations](https://dev.to/ravi_shivdas/from-spreadsheets-to-insights-the-data-mart-journey-for-associations-53n0)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 16&rpar;: Vampire Shooting Game &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-16-vampire-shooting-game-sample-42h7)
+- [How to Work Remotely: Simple Tips for Productivity and Success](https://dev.to/edriso/how-to-work-remotely-simple-tips-for-productivity-and-success-m8h)
 <!-- BLOG-POST-LIST:END -->
 
 
