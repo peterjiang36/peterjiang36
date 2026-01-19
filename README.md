@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Application Performance from a User Perspective](https://dev.to/alice_weber_3110/understanding-application-performance-from-a-user-perspective-m01)
-- [How to better your Claude CoWork experience with MCPs](https://dev.to/composiodev/how-to-better-your-claude-cowork-experience-with-mcps-3hfp)
-- [Multi-Model AI Resource Allocation for Humanoid Robots: A Survey on Jetson Orin Nano Super](https://dev.to/ankk98/multi-model-ai-resource-allocation-for-humanoid-robots-a-survey-on-jetson-orin-nano-super-310i)
-- [I Reverse-Engineered a Horror Game&#39;s Logic to Build an Open Source Ending Calculator &lpar;Astro + Tailwind&rpar;](https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-reverse-engineered-a-horror-games-logic-to-build-an-open-source-ending-calculator-astro--7kn)
+- [Demystifying AI Serving for Java Developers: Apache Camel + TensorFlow Explained](https://dev.to/vigneshjd/demystifying-ai-serving-for-java-developers-apache-camel-tensorflow-explained-46dp)
+- [Top Strategies to Optimize High-Traffic Node.js APIs](https://dev.to/jefersoneiji/top-strategies-to-optimize-high-traffic-nodejs-apis-a16)
+- [When Your Cheap Sensor Breaks Everything: Understanding LSP](https://dev.to/robjohnston/interchangeable-components-when-inheritance-works-and-when-it-doesnt-2g48)
+- [Graceful degradation in practice: how FeatureOps builds real resilience](https://dev.to/alexcasalboni/graceful-degradation-in-practice-how-featureops-builds-real-resilience-1p4i)
 <!-- BLOG-POST-LIST:END -->
 
 
