@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Tool for Downloading Files from Hugging Face](https://dev.to/vast-cow/a-simple-tool-for-downloading-files-from-hugging-face-akk)
-- [The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing](https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h)
-- [Make a CLI command from your Python package &lpar;quick guide&rpar;](https://dev.to/vast-cow/make-a-cli-command-from-your-python-package-quick-guide-21o5)
-- [Using AI in Personal Projects vs Enterprise Codebases](https://dev.to/jtvanwage/using-ai-in-personal-projects-vs-enterprise-codebases-40eo)
+- [Async and Await in JavaScript &lpar;Easy Explanation for Freshers&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/async-and-await-in-javascript-easy-explanation-for-freshers-1m1e)
+- [Sliding Windows Explained: Sunglasses Analogy with Ruby Code](https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg)
+- [Debounce in Swift: Ditch Combine for This One Simple Loop](https://dev.to/arshtechpro/debounce-in-swift-ditch-combine-for-this-one-simple-loop-2h6p)
+- [Migrating from Community Ingress NGINX to F5 NGINX Open Source: The Complete Guide](https://dev.to/mechcloud_academy/migrating-from-community-ingress-nginx-to-f5-nginx-open-source-the-complete-guide-2dfc)
 <!-- BLOG-POST-LIST:END -->
 
 
