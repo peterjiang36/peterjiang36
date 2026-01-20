@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Quincy&#39;s Job Tips Page](https://dev.to/richardpascoe/build-quincys-job-tips-page-241g)
-- [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
-- [JPEG vs PNG vs HEIC for Government Uploads](https://dev.to/photogov/jpeg-vs-png-vs-heic-for-government-uploads-207c)
-- [What if you are to build for a 1,000,000 daily active users?](https://dev.to/samowolabi/what-if-you-are-to-build-for-a-1000000-daily-active-users-jm)
+- [## The &quot;I wish I knew this before I started&quot; thread](https://dev.to/animiso_ce2f2f2e181032b7b/-the-i-wish-i-knew-this-before-i-started-thread-40ea)
+- [Make Your Technical Tutorials Interactive with SQLize Embed](https://dev.to/rozhnev/make-your-technical-tutorials-interactive-with-sqlize-embed-1eo3)
+- [Hands-On Practice: Amazon Personalize](https://dev.to/khaibq/hands-on-practice-amazon-personalize-3kol)
+- [Beyond Just Code: Crafting a Portfolio That Stands Out in 2026](https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0)
 <!-- BLOG-POST-LIST:END -->
 
 
