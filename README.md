@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Secure WordPress on AWS: A Multi-Tier Architecture Approach](https://dev.to/escanut/deploying-secure-wordpress-on-aws-a-multi-tier-architecture-approach-1igf)
-- [CVE-2026-23829: Mailpit Stop: SMTP Header Injection via Regex Failure](https://dev.to/cverports/cve-2026-23829-mailpit-stop-smtp-header-injection-via-regex-failure-d6h)
-- [Advanced SharePoint Permission Actions with Power Automate](https://dev.to/jakemannion/managing-sharepoint-permissions-with-power-automate-41b3)
-- [The Bouncer and the Connector: AWS Guardrails vs. MCP Explained](https://dev.to/alifunk/the-bouncer-and-the-connector-aws-guardrails-vs-mcp-explained-5eo6)
+- [Hello 🖖](https://dev.to/ro_goul_dc26a7db868ace408/hello-5cce)
+- [I Open-Sourced My Solutions Architect Portfolio &lpar;Real-World Case Studies&rpar;](https://dev.to/aws-builders/i-open-sourced-my-solutions-architect-portfolio-real-world-case-studies-1i0c)
+- [1GB Per Minute: Challenging Blockchain Scalability with Proof of Sorting Race &lpar;PoSSR&rpar;](https://dev.to/licodx/1gb-per-minute-challenging-blockchain-scalability-with-proof-of-sorting-race-possr-26oi)
+- [JAVA SCRIPT BASICS](https://dev.to/ikankeabasi_akpaso/java-script-basics-lka)
 <!-- BLOG-POST-LIST:END -->
 
 
