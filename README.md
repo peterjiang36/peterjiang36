@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello 🖖](https://dev.to/ro_goul_dc26a7db868ace408/hello-5cce)
-- [I Open-Sourced My Solutions Architect Portfolio &lpar;Real-World Case Studies&rpar;](https://dev.to/aws-builders/i-open-sourced-my-solutions-architect-portfolio-real-world-case-studies-1i0c)
-- [1GB Per Minute: Challenging Blockchain Scalability with Proof of Sorting Race &lpar;PoSSR&rpar;](https://dev.to/licodx/1gb-per-minute-challenging-blockchain-scalability-with-proof-of-sorting-race-possr-26oi)
-- [JAVA SCRIPT BASICS](https://dev.to/ikankeabasi_akpaso/java-script-basics-lka)
+- [SaaS developer, DevOps engineer, or startup founder Are Bleeding Money on Subscriptions &lpar;Here’s How to Fix It&rpar;](https://dev.to/rahul_singhshekhawat_943/saas-developer-devops-engineer-or-startup-founder-are-bleeding-money-on-subscriptions-heres-how-4hej)
+- [From &quot;What Happened?&quot; to &quot;What Should We Do?&quot; Understanding the Four Types of Data Analytics](https://dev.to/makwaka/from-what-happened-to-what-should-we-do-understanding-the-four-types-of-data-analytics-pb1)
+- [SQL - PostgreSQL: Execution Order](https://dev.to/yurilbrok/sql-postgresql-execution-order-30pk)
+- [Before Your Agent Books a Vacation, It Has to Learn to Scroll](https://dev.to/aws/before-your-agent-books-a-vacation-it-has-to-learn-to-scroll-4236)
 <!-- BLOG-POST-LIST:END -->
 
 
