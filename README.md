@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mirror &amp; Its Twin: AI, Apprenticeship, and the Hollowing of Cyber Ops](https://dev.to/narnaiezzsshaa/the-mirror-its-twin-ai-apprenticeship-and-the-hollowing-of-cyber-ops-5a59)
-- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj)
-- [My First Finance Project: When Diversification Doesn&#39;t Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp)
-- [The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26)
+- [A Simple Tool for Downloading Files from Hugging Face](https://dev.to/vast-cow/a-simple-tool-for-downloading-files-from-hugging-face-akk)
+- [The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing](https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h)
+- [Make a CLI command from your Python package &lpar;quick guide&rpar;](https://dev.to/vast-cow/make-a-cli-command-from-your-python-package-quick-guide-21o5)
+- [Using AI in Personal Projects vs Enterprise Codebases](https://dev.to/jtvanwage/using-ai-in-personal-projects-vs-enterprise-codebases-40eo)
 <!-- BLOG-POST-LIST:END -->
 
 
