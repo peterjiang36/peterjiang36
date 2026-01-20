@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
-- [From Learning in Silence to Leading a Community](https://dev.to/mohanapriya_s_1808/from-learning-in-silence-to-leading-a-community-4cc1)
-- [Exception Handling in Java](https://dev.to/vidya_varshini/exception-handling-in-java-4kpi)
-- [AI Productivity Gains?](https://dev.to/richardpascoe/ai-productivity-gains-3m3)
+- [Deploying Secure WordPress on AWS: A Multi-Tier Architecture Approach](https://dev.to/escanut/deploying-secure-wordpress-on-aws-a-multi-tier-architecture-approach-1igf)
+- [CVE-2026-23829: Mailpit Stop: SMTP Header Injection via Regex Failure](https://dev.to/cverports/cve-2026-23829-mailpit-stop-smtp-header-injection-via-regex-failure-d6h)
+- [Advanced SharePoint Permission Actions with Power Automate](https://dev.to/jakemannion/managing-sharepoint-permissions-with-power-automate-41b3)
+- [The Bouncer and the Connector: AWS Guardrails vs. MCP Explained](https://dev.to/alifunk/the-bouncer-and-the-connector-aws-guardrails-vs-mcp-explained-5eo6)
 <!-- BLOG-POST-LIST:END -->
 
 
