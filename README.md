@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS developer, DevOps engineer, or startup founder Are Bleeding Money on Subscriptions &lpar;Here’s How to Fix It&rpar;](https://dev.to/rahul_singhshekhawat_943/saas-developer-devops-engineer-or-startup-founder-are-bleeding-money-on-subscriptions-heres-how-4hej)
-- [From &quot;What Happened?&quot; to &quot;What Should We Do?&quot; Understanding the Four Types of Data Analytics](https://dev.to/makwaka/from-what-happened-to-what-should-we-do-understanding-the-four-types-of-data-analytics-pb1)
-- [SQL - PostgreSQL: Execution Order](https://dev.to/yurilbrok/sql-postgresql-execution-order-30pk)
-- [Before Your Agent Books a Vacation, It Has to Learn to Scroll](https://dev.to/aws/before-your-agent-books-a-vacation-it-has-to-learn-to-scroll-4236)
+- [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
+- [A Linux Desktop in Jupyter Lab](https://dev.to/spara_50/a-linux-desktop-in-jupyter-lab-4khg)
+- [Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside](https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee)
+- [Building LinkedIn Lead Enrichment with n8n, Dropcontact, and Apify](https://dev.to/hackceleration/building-linkedin-lead-enrichment-with-n8n-dropcontact-and-apify-15a3)
 <!-- BLOG-POST-LIST:END -->
 
 
