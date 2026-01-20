@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained: Building Secure Software by Design](https://dev.to/mohamedshabanai/secure-development-lifecycle-sdl-explained-building-secure-software-by-design-4e69)
-- [Introducing Managed Instances in the Cloud](https://dev.to/aws-builders/introducing-managed-instances-in-the-cloud-2d4h)
-- [Ring 0 Deployment Safety Protocol &lpar;Post-CrowdStrike&rpar;](https://dev.to/systemdesignautopsy/ring-0-deployment-safety-protocol-post-crowdstrike-5c00)
-- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained](https://dev.to/itsmecharan7/secure-development-lifecycle-sdl-explained-4511)
+- [Vibe Coding Trap: Why AI Shortcuts Sabotage Junior Dev Careers](https://dev.to/dr_hernani_costa/vibe-coding-trap-why-ai-shortcuts-sabotage-junior-dev-careers-3hk4)
+- [Factory Method in PHP: When Refactoring Leads to a Pattern](https://dev.to/codecraft_diary_3d13677fb/factory-method-in-php-when-refactoring-leads-to-a-pattern-3hho)
+- [8 Modern AI Coding Tools You Need to Bookmark for 2026 🔥👨‍💻](https://dev.to/madza/8-modern-ai-coding-tools-you-need-to-bookmark-for-2026-3ai2)
+- [Passive Income for Automation Developers in 2026](https://dev.to/bishal_paul_ai/passive-income-for-automation-developers-in-2026-1a48)
 <!-- BLOG-POST-LIST:END -->
 
 
