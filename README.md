@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Real React App on an Ubuntu VM with AWS and Serving It with Nginx](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-real-react-app-on-an-ubuntu-vm-with-aws-and-serving-it-with-nginx-13o)
-- [🐛 QA is Dead &lpar;Long Live the Agent&rpar;: How Cursor&#39;s &quot;Bug Bot&quot; Fixes Code While You Sleep](https://dev.to/siddhesh_surve/qa-is-dead-long-live-the-agent-how-cursors-bug-bot-fixes-code-while-you-sleep-35la)
-- [Framework Yorgunluğu ve RustAPI&#39;nin Doğuşu: Geliştirici Deneyimini &lpar;DX&rpar; Geri Kazanmak](https://dev.to/tuntii/framework-yorgunlugu-ve-rustapinin-dogusu-gelistirici-deneyimini-dx-geri-kazanmak-499l)
-- [🚀 Deploying a Highly Available Web Application on AWS using ALB &amp; Auto Scaling &lpar;Beginner-Friendly&rpar;](https://dev.to/irfanpasha/deploying-a-highly-available-web-application-on-aws-using-alb-auto-scaling-beginner-friendly-mp9)
+- [The Mirror &amp; Its Twin: AI, Apprenticeship, and the Hollowing of Cyber Ops](https://dev.to/narnaiezzsshaa/the-mirror-its-twin-ai-apprenticeship-and-the-hollowing-of-cyber-ops-5a59)
+- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj)
+- [My First Finance Project: When Diversification Doesn&#39;t Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp)
+- [The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26)
 <!-- BLOG-POST-LIST:END -->
 
 
