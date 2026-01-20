@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
-- [EIP-7934: The RLP Block Size Limit That Makes Ethereum Safer and More Predictable](https://dev.to/codebyankita/eip-7934-the-rlp-block-size-limit-that-makes-ethereum-safer-and-more-predictable-2482)
-- [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
-- [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
+- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
+- [Bloom update: new HRT tools, emotional support features, and a full medication database](https://dev.to/codebunny20/bloom-update-new-hrt-tools-emotional-support-features-and-a-full-medication-database-67l)
+- [Adding Attachments to PDF Documents Using C#](https://dev.to/allen_yang_f905170c5a197b/adding-attachments-to-pdf-documents-using-c-4hb)
+- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
 <!-- BLOG-POST-LIST:END -->
 
 
