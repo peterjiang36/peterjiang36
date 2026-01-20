@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
-- [A Linux Desktop in Jupyter Lab](https://dev.to/spara_50/a-linux-desktop-in-jupyter-lab-4khg)
-- [Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside](https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee)
-- [Building LinkedIn Lead Enrichment with n8n, Dropcontact, and Apify](https://dev.to/hackceleration/building-linkedin-lead-enrichment-with-n8n-dropcontact-and-apify-15a3)
+- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
+- [From branches to trunk &lpar;a journey&rpar;](https://dev.to/mrksdck/from-branches-to-trunk-a-journey-2kc8)
+- [🚀 Angular y el laberinto tech: con IA todo es mejor!](https://dev.to/laumontironi/angular-y-el-laberinto-tech-con-ia-todo-es-mejor-1foi)
+- [Turbocharging Flask: High-Performance Serialization with orjson](https://dev.to/deepak_mishra_35863517037/turbocharging-flask-high-performance-serialization-with-orjson-4an3)
 <!-- BLOG-POST-LIST:END -->
 
 
