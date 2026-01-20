@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering vs Data Science: What’s the Difference? &lpar;And Which Career Should You Choose?&rpar;](https://dev.to/maina_murage/data-engineering-vs-data-science-whats-the-difference-and-which-career-should-you-choose-4c1e)
-- [4 causes of table bloat in PostgreSQL and how to address them](https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9)
-- [I Analyzed 3,000 Developer Job Postings Overnight &lpar;Here&#39;s What I Found&rpar;](https://dev.to/katsura/i-analyzed-3000-developer-job-postings-overnight-heres-what-i-found-572l)
-- [Top 5 CLI Coding Agents in 2026](https://dev.to/lightningdev123/top-5-cli-coding-agents-in-2026-3pia)
+- [Compiling JavaScript](https://dev.to/selvaraj_ganesan_03/compiling-javascript-43nm)
+- [Industry Survey: Faster Coding, Slower Debugging](https://dev.to/morethananai/industry-survey-faster-coding-slower-debugging-5cma)
+- [unior Devs Write Code. Senior Devs Delete It.](https://dev.to/freerave/unior-devs-write-code-senior-devs-delete-it-5d)
+- [Building WSL-UI: The Microsoft Store Journey](https://dev.to/octasoft-ltd/building-wsl-ui-the-microsoft-store-journey-2428)
 <!-- BLOG-POST-LIST:END -->
 
 
