@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [## The &quot;I wish I knew this before I started&quot; thread](https://dev.to/animiso_ce2f2f2e181032b7b/-the-i-wish-i-knew-this-before-i-started-thread-40ea)
-- [Make Your Technical Tutorials Interactive with SQLize Embed](https://dev.to/rozhnev/make-your-technical-tutorials-interactive-with-sqlize-embed-1eo3)
-- [Hands-On Practice: Amazon Personalize](https://dev.to/khaibq/hands-on-practice-amazon-personalize-3kol)
-- [Beyond Just Code: Crafting a Portfolio That Stands Out in 2026](https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0)
+- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained: Building Secure Software by Design](https://dev.to/mohamedshabanai/secure-development-lifecycle-sdl-explained-building-secure-software-by-design-4e69)
+- [Introducing Managed Instances in the Cloud](https://dev.to/aws-builders/introducing-managed-instances-in-the-cloud-2d4h)
+- [Ring 0 Deployment Safety Protocol &lpar;Post-CrowdStrike&rpar;](https://dev.to/systemdesignautopsy/ring-0-deployment-safety-protocol-post-crowdstrike-5c00)
+- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained](https://dev.to/itsmecharan7/secure-development-lifecycle-sdl-explained-4511)
 <!-- BLOG-POST-LIST:END -->
 
 
