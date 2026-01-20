@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Trap: Why AI Shortcuts Sabotage Junior Dev Careers](https://dev.to/dr_hernani_costa/vibe-coding-trap-why-ai-shortcuts-sabotage-junior-dev-careers-3hk4)
-- [Factory Method in PHP: When Refactoring Leads to a Pattern](https://dev.to/codecraft_diary_3d13677fb/factory-method-in-php-when-refactoring-leads-to-a-pattern-3hho)
-- [8 Modern AI Coding Tools You Need to Bookmark for 2026 🔥👨‍💻](https://dev.to/madza/8-modern-ai-coding-tools-you-need-to-bookmark-for-2026-3ai2)
-- [Passive Income for Automation Developers in 2026](https://dev.to/bishal_paul_ai/passive-income-for-automation-developers-in-2026-1a48)
+- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
+- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
+- [🎯 SLI, SLO, SLA Explained 🎯](https://dev.to/itsmecharan7/sli-slo-sla-explained-53g1)
+- [I Fixed a Terraform State Lock Issue in GitHub Actions Here’s What I Learned](https://dev.to/techwithhari/i-fixed-a-terraform-state-lock-issue-in-github-actions-heres-what-i-learned-ml8)
 <!-- BLOG-POST-LIST:END -->
 
 
