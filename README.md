@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Hook Pattern ~Deriving State~](https://dev.to/kkr0423/reactjs-hook-pattern-deriving-state-3og6)
-- [3 Mistakes Most Beginner Developers Make](https://dev.to/pritish_academy/3-mistakes-most-beginner-developers-make-48l7)
-- [5 Obvious Signs Everyone Knows You’re Using ChatGPT](https://dev.to/rajeshroyal/5-obvious-signs-everyone-knows-youre-using-chatgpt-5b9p)
-- [The Secret Life of Go: The Context Package](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-context-package-h1d)
+- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
+- [EIP-7934: The RLP Block Size Limit That Makes Ethereum Safer and More Predictable](https://dev.to/codebyankita/eip-7934-the-rlp-block-size-limit-that-makes-ethereum-safer-and-more-predictable-2482)
+- [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
+- [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
 <!-- BLOG-POST-LIST:END -->
 
 
