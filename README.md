@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
-- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
-- [🎯 SLI, SLO, SLA Explained 🎯](https://dev.to/itsmecharan7/sli-slo-sla-explained-53g1)
-- [I Fixed a Terraform State Lock Issue in GitHub Actions Here’s What I Learned](https://dev.to/techwithhari/i-fixed-a-terraform-state-lock-issue-in-github-actions-heres-what-i-learned-ml8)
+- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
+- [From Learning in Silence to Leading a Community](https://dev.to/mohanapriya_s_1808/from-learning-in-silence-to-leading-a-community-4cc1)
+- [Exception Handling in Java](https://dev.to/vidya_varshini/exception-handling-in-java-4kpi)
+- [AI Productivity Gains?](https://dev.to/richardpascoe/ai-productivity-gains-3m3)
 <!-- BLOG-POST-LIST:END -->
 
 
