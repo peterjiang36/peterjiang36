@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs. MySQL: Which is the King of 2026?](https://dev.to/sandipyadav/postgresql-vs-mysql-which-is-the-king-of-2026-4m83)
-- [🔥 5 Best React UI Libraries for 2026 &lpar;And When to Use Each&rpar; 🚀](https://dev.to/ansonch/5-best-react-ui-libraries-for-2026-and-when-to-use-each-1p4j)
-- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
-- [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
+- [Build Quincy&#39;s Job Tips Page](https://dev.to/richardpascoe/build-quincys-job-tips-page-241g)
+- [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
+- [JPEG vs PNG vs HEIC for Government Uploads](https://dev.to/photogov/jpeg-vs-png-vs-heic-for-government-uploads-207c)
+- [What if you are to build for a 1,000,000 daily active users?](https://dev.to/samowolabi/what-if-you-are-to-build-for-a-1000000-daily-active-users-jm)
 <!-- BLOG-POST-LIST:END -->
 
 
