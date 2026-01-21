@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Migrate WordPress Posts to Ghost CMS: A Content Export Script](https://dev.to/techresolve/solved-migrate-wordpress-posts-to-ghost-cms-a-content-export-script-mgj)
-- [From Splicing Fibers to Scaling Clouds: My Journey to the AWS Community](https://dev.to/maureen_chepkirui_03c48a2/from-splicing-fibers-to-scaling-clouds-my-journey-to-the-aws-community-799)
-- [The Day I Let AI Write the Code — and the Day I Took the Keyboard Back](https://dev.to/isocyanideisgood/the-day-i-let-ai-write-the-code-and-the-day-i-took-the-keyboard-back-5l0)
-- [Why 80% of AI Code Reviews Are Just Noise](https://dev.to/synthaicode_commander/why-80-of-ai-code-reviews-are-just-noise-4i0o)
+- [Data Analyst &lpar;ML track&rpar; - Portfolio.](https://dev.to/subdragon34/data-analyst-ml-track-portfolio-pg0)
+- [Git Hub Workflow - part 1](https://dev.to/asanka_rajanayaka_f39c8df/git-hub-workflow-part-1-206o)
+- [Why Google, Bing, DuckDuckGo &amp; Yandex Show Different Results For the Same Query &lpar;2026&rpar;](https://dev.to/prithwish_nath/why-google-bing-duckduckgo-yandex-show-different-results-for-the-same-query-2026-1c06)
+- [Allianza: The Bridge-Free Architecture and Quantum Redundancy &lpar;QRS-3&rpar;](https://dev.to/allianza_a994fd3051e94236/allianza-the-bridge-free-architecture-and-quantum-redundancy-qrs-3-3m8a)
 <!-- BLOG-POST-LIST:END -->
 
 
