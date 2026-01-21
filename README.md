@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
-- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
-- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
-- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
+- [project: StatefulSet with replica&#39;s](https://dev.to/jumptotech/project-statefulset-with-replicas-4hhd)
+- [Two JavaScript Fundamentals You Need Before Implementing Signals](https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn)
+- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 7/7: Logout](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-77-logout-2p8)
+- [Why Feature Stores Didn&#39;t Fix Training–Serving Skew](https://dev.to/synapcores/why-feature-stores-didnt-fix-training-serving-skew-fad)
 <!-- BLOG-POST-LIST:END -->
 
 
