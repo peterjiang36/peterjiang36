@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
-- [AI Generated Technical Analysis [201007]](https://dev.to/ronel_solomon_87b739ca165/ai-generated-technical-analysis-201007-47g)
-- [Building in Public: CV Analyzer - Act 3 · Scene 1 : Before The AuthPage](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-3-scene-1-before-the-authpage-2g18)
-- [Are We All Just Copying Code and Pretending We Know What We&#39;re Doing?](https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk)
+- [How DNS Resolution Works](https://dev.to/abhimanyu_kumar_b94e042e9/how-dns-resolution-works-4m0n)
+- [Two Small Fixes That Could Transform Your Dev Team&#39;s Communication](https://dev.to/canro91/two-small-fixes-that-could-transform-your-dev-teams-communication-4c3o)
+- [The Only Real Fix for Agents Running Wild Is Control by Design](https://dev.to/yuer/the-only-real-fix-for-agents-running-wild-is-control-by-design-4dlc)
+- [Why Agents Feel Smarter Today &lpar;But Actually Aren’t&rpar;](https://dev.to/yuer/why-agents-feel-smarter-today-but-actually-arent-2mi2)
 <!-- BLOG-POST-LIST:END -->
 
 
