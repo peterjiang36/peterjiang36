@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from GitHub to Codeberg&lpar;Forgejo&rpar;](https://dev.to/janderssonse/moving-from-github-to-codebergforgejo-b3)
-- [Optimizing Crystal Build time in Woodpecker CI: 415s to 196s with Caching](https://dev.to/miry/optimizing-crystal-build-time-in-woodpecker-ci-415s-to-196s-with-caching-1o5k)
-- [Angular Standalone Migration: A Deep Dive into Dependency Injection Pitfalls &amp; Best Practices](https://dev.to/arya_saurabha_0501/angular-standalone-migration-a-deep-dive-into-dependency-injection-pitfalls-best-practices-17l1)
-- [Building a GitHub Copilot CLI Extension - Implementing WakaTime Integration](https://dev.to/geeknees/building-a-github-copilot-cli-extension-implementing-wakatime-integration-5c0a)
+- [AI-assisted coding: what worked for me and what didn’t &lpar;after 6 months&rpar;](https://dev.to/aws-builders/ai-assisted-coding-what-worked-for-me-and-what-didnt-after-6-months-ilk)
+- [Building Interview OS: A Privacy-First Job Search Tracker with Next.js](https://dev.to/iammhador/building-interview-os-a-privacy-first-job-search-tracker-with-nextjs-6c9)
+- [Designing Compliant Cloud Analytics on AWS: Why Enterprises Must Rethink Data Governance](https://dev.to/sudoconsultants/designing-compliant-cloud-analytics-on-aws-why-enterprises-must-rethink-data-governance-1k66)
+- [Understanding Network Devices: What Every IT Student Should Know 👨‍🎓](https://dev.to/kunal_dev/understanding-network-devices-what-every-it-student-should-know-31nj)
 <!-- BLOG-POST-LIST:END -->
 
 
