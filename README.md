@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A sua inversão de dependência está alinhada ao negócio?](https://dev.to/fabiodeandrade/a-sua-inversao-de-dependencia-esta-alinhada-ao-negocio-5702)
-- [I Trained a Tiny AI to Judge My Hacker News Feed &lpar;And You Can Too&rpar;](https://dev.to/bebechien/i-trained-a-tiny-ai-to-judge-my-hacker-news-feed-and-you-can-too-6og)
-- [Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura](https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44)
-- [🚀 Don&#39;t Let Your AI Get &quot;Hypnotized&quot;: A Guide to Stopping Adversarial Prompt Attacks 🧠🚫](https://dev.to/charanpool/dont-let-your-ai-get-hypnotized-a-guide-to-stopping-adversarial-prompt-attacks-dmi)
+- [Cielos, y un jam con Gleam](https://dev.to/agj/cielos-y-un-jam-con-gleam-4cpk)
+- [Translating in Microsoft Office 365 Apps vs. Pairaphrase](https://dev.to/gerry_criner/translating-in-microsoft-office-365-apps-vs-pairaphrase-2pn8)
+- [The Hidden Skill Every Good Developer Has &lpar;That No One Taught Me&rpar;](https://dev.to/mr_elvis/the-hidden-skill-every-good-developer-has-that-no-one-taught-me-148l)
+- [[C++] Get Unique serial ID](https://dev.to/minwook/c-get-unique-serial-id-227m)
 <!-- BLOG-POST-LIST:END -->
 
 
