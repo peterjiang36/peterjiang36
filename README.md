@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9.Create EBS Volume Using Terraform](https://dev.to/thukhakyawe_cloud/9create-ebs-volume-using-terraform-35jf)
-- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
-- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
-- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
+- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
+- [AI Generated Technical Analysis [201007]](https://dev.to/ronel_solomon_87b739ca165/ai-generated-technical-analysis-201007-47g)
+- [Building in Public: CV Analyzer - Act 3 · Scene 1 : Before The AuthPage](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-3-scene-1-before-the-authpage-2g18)
+- [Are We All Just Copying Code and Pretending We Know What We&#39;re Doing?](https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk)
 <!-- BLOG-POST-LIST:END -->
 
 
