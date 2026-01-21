@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analyst &lpar;ML track&rpar; - Portfolio.](https://dev.to/subdragon34/data-analyst-ml-track-portfolio-pg0)
-- [Git Hub Workflow - part 1](https://dev.to/asanka_rajanayaka_f39c8df/git-hub-workflow-part-1-206o)
-- [Why Google, Bing, DuckDuckGo &amp; Yandex Show Different Results For the Same Query &lpar;2026&rpar;](https://dev.to/prithwish_nath/why-google-bing-duckduckgo-yandex-show-different-results-for-the-same-query-2026-1c06)
-- [Allianza: The Bridge-Free Architecture and Quantum Redundancy &lpar;QRS-3&rpar;](https://dev.to/allianza_a994fd3051e94236/allianza-the-bridge-free-architecture-and-quantum-redundancy-qrs-3-3m8a)
+- [AWS SFTP con AWS Transfer Family y Amazon Cognito](https://dev.to/juan_gonzalez_6bc63085f7a/aws-sftp-con-aws-transfer-family-y-amazon-cognito-31o6)
+- [MongoDB Data Sync for Offline-First Apps: Keep Data in Sync With ObjectBox and MongoDB Atlas](https://dev.to/mongodb/mongodb-data-sync-for-offline-first-apps-keep-data-in-sync-with-objectbox-and-mongodb-atlas-34k8)
+- [[CoreData] Manipular los datos de una base de datos](https://dev.to/david_goyes_a488f58a17a53/coredata-como-manipular-los-datos-de-la-base-de-datos-27c0)
+- [The evolution of realtime AI: The transport layer needed for stateful, steerable AI UX](https://dev.to/ablyblog/the-evolution-of-realtime-ai-the-transport-layer-needed-for-stateful-steerable-ai-ux-2kl4)
 <!-- BLOG-POST-LIST:END -->
 
 
