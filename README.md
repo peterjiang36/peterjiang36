@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Garbage Collection Works in Node.js Using the V8 Engine](https://dev.to/jefersoneiji/how-garbage-collection-works-in-nodejs-using-the-v8-engine-2g8c)
-- [Solved: Syncing Shopify Orders to Airtable for Better Order Management](https://dev.to/techresolve/solved-syncing-shopify-orders-to-airtable-for-better-order-management-1g4p)
-- [Your Connection is Not Private: What Your Browser Is Warning You About?](https://dev.to/medunes/your-connection-is-not-private-what-your-browser-is-exactly-warning-you-about-59n3)
-- [Solved: Syncing WooCommere Inventory with Google Sheets Real-time](https://dev.to/techresolve/solved-syncing-woocommere-inventory-with-google-sheets-real-time-34ee)
+- [Solved: Migrate WordPress Posts to Ghost CMS: A Content Export Script](https://dev.to/techresolve/solved-migrate-wordpress-posts-to-ghost-cms-a-content-export-script-mgj)
+- [From Splicing Fibers to Scaling Clouds: My Journey to the AWS Community](https://dev.to/maureen_chepkirui_03c48a2/from-splicing-fibers-to-scaling-clouds-my-journey-to-the-aws-community-799)
+- [The Day I Let AI Write the Code — and the Day I Took the Keyboard Back](https://dev.to/isocyanideisgood/the-day-i-let-ai-write-the-code-and-the-day-i-took-the-keyboard-back-5l0)
+- [Why 80% of AI Code Reviews Are Just Noise](https://dev.to/synthaicode_commander/why-80-of-ai-code-reviews-are-just-noise-4i0o)
 <!-- BLOG-POST-LIST:END -->
 
 
