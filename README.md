@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Personal OS Portfolio Built with Gemini and Cloud Run](https://dev.to/numbpill3d/a-personal-os-portfolio-built-with-gemini-and-cloud-run-40gb)
-- [Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review](https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8)
-- [Learning to Code in 2025: What&#39;s Changed, What Hasn&#39;t](https://dev.to/logicleap/learning-to-code-in-2025-whats-changed-what-hasnt-388l)
-- [Warum Handwerker-Websites 2026 für uns Entwickler interessant sind &lpar;und was wir daraus lernen können&rpar;](https://dev.to/ivo_sa/warum-handwerker-websites-2026-fur-uns-entwickler-interessant-sind-und-was-wir-daraus-lernen-1i2e)
+- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
+- [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
+- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
+- [Time-Decoupled Law &lpar;TDSM&rpar;](https://dev.to/abstract36/time-decoupled-law-tdsm-4f4j)
 <!-- BLOG-POST-LIST:END -->
 
 
