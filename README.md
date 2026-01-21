@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-assisted coding: what worked for me and what didn’t &lpar;after 6 months&rpar;](https://dev.to/aws-builders/ai-assisted-coding-what-worked-for-me-and-what-didnt-after-6-months-ilk)
-- [Building Interview OS: A Privacy-First Job Search Tracker with Next.js](https://dev.to/iammhador/building-interview-os-a-privacy-first-job-search-tracker-with-nextjs-6c9)
-- [Designing Compliant Cloud Analytics on AWS: Why Enterprises Must Rethink Data Governance](https://dev.to/sudoconsultants/designing-compliant-cloud-analytics-on-aws-why-enterprises-must-rethink-data-governance-1k66)
-- [Understanding Network Devices: What Every IT Student Should Know 👨‍🎓](https://dev.to/kunal_dev/understanding-network-devices-what-every-it-student-should-know-31nj)
+- [Handling “Pending Review” Tokens &amp; Notifications in a Digital Membership Card System](https://dev.to/rixcy_shah_227751370e6891/handling-pending-review-tokens-notifications-in-a-digital-membership-card-system-10oh)
+- [Understanding Cloud Service Models Using a Simple Analogy](https://dev.to/ijay/understanding-cloud-service-models-using-a-simple-analogy-1276)
+- [Thanks Captain Obvious - Just Don&#39;t Be An A**hole](https://dev.to/cadienvan/thanks-captain-obvious-just-dont-be-an-ahole-fgk)
+- [Virus While You’re Coding: How AI Can Compromise Your Project](https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc)
 <!-- BLOG-POST-LIST:END -->
 
 
