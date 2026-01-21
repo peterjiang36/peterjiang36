@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agregando reactividad ⚡ a nuestras arquitecturas con AWS CloudWatch Subscription Filter](https://dev.to/aws-espanol/agregando-reactividad-a-nuestras-arquitecturas-con-aws-cloudwatch-subscription-filter-27da)
-- [The Translation Bot That Turned Professional Emails Into Insults](https://dev.to/faraz_farhan_83ed23a154a2/the-translation-bot-that-turned-professional-emails-into-insults-3e02)
-- [🍱 How to build a Responsive Bento Grid with Tailwind CSS &lpar;No Masonry.js&rpar;](https://dev.to/velox-web/how-to-build-a-responsive-bento-grid-with-tailwind-css-no-masonryjs-3f2c)
-- [AWS CloudFront Explained: How Cache, Origin, and Response Policies Supercharge Your CDN](https://dev.to/u11d/aws-cloudfront-explained-how-cache-origin-and-response-policies-supercharge-your-cdn-3l11)
+- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
+- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
+- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
+- [Solved: Migrating Confluence Pages to Markdown for Hugo/Jekyll Blog](https://dev.to/techresolve/solved-migrating-confluence-pages-to-markdown-for-hugojekyll-blog-3mcm)
 <!-- BLOG-POST-LIST:END -->
 
 
