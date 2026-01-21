@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [El acertijo de Monty Hall](https://dev.to/baltasarq/el-acertijo-de-monty-hall-2c45)
-- [K-Fold Cross-Validation: The Comedian Who Tested Jokes at Only One Comedy Club and Bombed Everywhere Else](https://dev.to/sachin_krrajput/k-fold-cross-validation-the-comedian-who-tested-jokes-at-only-one-comedy-club-and-bombed-3j05)
-- [Building a Type Chart Calculator with Next.js 14: From Idea to Production](https://dev.to/yang_linc_13e26eff2853884/building-a-type-chart-calculator-with-nextjs-14-from-idea-to-production-4471)
-- [Building a mini PyTorch in C++ from scratch as a high school student...](https://dev.to/raju735/building-a-mini-pytorch-in-c-from-scratch-as-a-high-school-student-35c7)
+- [How Garbage Collection Works in Node.js Using the V8 Engine](https://dev.to/jefersoneiji/how-garbage-collection-works-in-nodejs-using-the-v8-engine-2g8c)
+- [Solved: Syncing Shopify Orders to Airtable for Better Order Management](https://dev.to/techresolve/solved-syncing-shopify-orders-to-airtable-for-better-order-management-1g4p)
+- [Your Connection is Not Private: What Your Browser Is Warning You About?](https://dev.to/medunes/your-connection-is-not-private-what-your-browser-is-exactly-warning-you-about-59n3)
+- [Solved: Syncing WooCommere Inventory with Google Sheets Real-time](https://dev.to/techresolve/solved-syncing-woocommere-inventory-with-google-sheets-real-time-34ee)
 <!-- BLOG-POST-LIST:END -->
 
 
