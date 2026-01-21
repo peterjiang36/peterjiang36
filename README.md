@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
-- [Simplified: AI Engineer Vs. ML Engineer](https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch)
-- [What a top ~5% Crunchbase visibility signal means for an early access-focused product?](https://dev.to/antonmb/what-a-top-5-crunchbase-visibility-signal-means-for-an-early-access-focused-product-1ock)
-- [Install Golang On Ubuntu](https://dev.to/iamzahid/install-golang-on-ubuntu-4ddf)
+- [A Personal OS Portfolio Built with Gemini and Cloud Run](https://dev.to/numbpill3d/a-personal-os-portfolio-built-with-gemini-and-cloud-run-40gb)
+- [Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review](https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8)
+- [Learning to Code in 2025: What&#39;s Changed, What Hasn&#39;t](https://dev.to/logicleap/learning-to-code-in-2025-whats-changed-what-hasnt-388l)
+- [Warum Handwerker-Websites 2026 für uns Entwickler interessant sind &lpar;und was wir daraus lernen können&rpar;](https://dev.to/ivo_sa/warum-handwerker-websites-2026-fur-uns-entwickler-interessant-sind-und-was-wir-daraus-lernen-1i2e)
 <!-- BLOG-POST-LIST:END -->
 
 
