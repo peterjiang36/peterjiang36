@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
-- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
-- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
-- [Solved: Migrating Confluence Pages to Markdown for Hugo/Jekyll Blog](https://dev.to/techresolve/solved-migrating-confluence-pages-to-markdown-for-hugojekyll-blog-3mcm)
+- [From logical reasoning to code in C and PHP](https://dev.to/wizardigor/from-logical-reasoning-to-code-in-c-and-php-4no0)
+- [CVE-2026-21852: Premature Exfiltration: How Claude Code Leaked Your Keys Before Asking for Permission](https://dev.to/cverports/cve-2026-21852-premature-exfiltration-how-claude-code-leaked-your-keys-before-asking-for-12o8)
+- [Describe The Training And Fine-Tuning Process For Foundation Models](https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12)
+- [SwiftUI #33: Stepper](https://dev.to/david_goyes_a488f58a17a53/swiftui-33-stepper-24bc)
 <!-- BLOG-POST-LIST:END -->
 
 
