@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SFTP con AWS Transfer Family y Amazon Cognito](https://dev.to/juan_gonzalez_6bc63085f7a/aws-sftp-con-aws-transfer-family-y-amazon-cognito-31o6)
-- [MongoDB Data Sync for Offline-First Apps: Keep Data in Sync With ObjectBox and MongoDB Atlas](https://dev.to/mongodb/mongodb-data-sync-for-offline-first-apps-keep-data-in-sync-with-objectbox-and-mongodb-atlas-34k8)
-- [[CoreData] Manipular los datos de una base de datos](https://dev.to/david_goyes_a488f58a17a53/coredata-como-manipular-los-datos-de-la-base-de-datos-27c0)
-- [The evolution of realtime AI: The transport layer needed for stateful, steerable AI UX](https://dev.to/ablyblog/the-evolution-of-realtime-ai-the-transport-layer-needed-for-stateful-steerable-ai-ux-2kl4)
+- [What is CodeMash?](https://dev.to/rfornal/what-is-codemash-1g0f)
+- [AdminJS v7 in classic NestJS without tears](https://dev.to/arab0v/adminjs-v7-in-classic-nestjs-without-tears-23en)
+- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
+- [Local MCP Development with Fortran and Gemini CLI](https://dev.to/gde/local-mcp-development-with-fortran-and-gemini-cli-3251)
 <!-- BLOG-POST-LIST:END -->
 
 
