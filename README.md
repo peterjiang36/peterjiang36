@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From logical reasoning to code in C and PHP](https://dev.to/wizardigor/from-logical-reasoning-to-code-in-c-and-php-4no0)
-- [CVE-2026-21852: Premature Exfiltration: How Claude Code Leaked Your Keys Before Asking for Permission](https://dev.to/cverports/cve-2026-21852-premature-exfiltration-how-claude-code-leaked-your-keys-before-asking-for-12o8)
-- [Describe The Training And Fine-Tuning Process For Foundation Models](https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12)
-- [SwiftUI #33: Stepper](https://dev.to/david_goyes_a488f58a17a53/swiftui-33-stepper-24bc)
+- [PCA Explained: Finding the Perfect Angle to Photograph a Sculpture So You Capture Everything in One Shot](https://dev.to/sachin_krrajput/pca-explained-finding-the-perfect-angle-to-photograph-a-sculpture-so-you-capture-everything-in-one-22bg)
+- [Are you embracing AI?](https://dev.to/anooname/are-you-embracing-ai-gk4)
+- [KEXP: Martin Dupont - I Met The Beast &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-martin-dupont-i-met-the-beast-live-on-kexp-4imj)
+- [What We Learned Building Agent Orchestration Systems &lpar;The Hard Way&rpar;](https://dev.to/theskillsteam/what-we-learned-building-agent-orchestration-systems-the-hard-way-36p8)
 <!-- BLOG-POST-LIST:END -->
 
 
