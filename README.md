@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
-- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
-- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
-- [Hova: a small DSL for describing worlds &lpar;early projects&rpar;](https://dev.to/dotxavket/hova-a-small-dsl-for-describing-worlds-early-projects-4oa)
+- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
+- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
+- [How to Set Up a Robust E-commerce Platform with Nginx, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/how-to-set-up-a-robust-e-commerce-platform-with-nginx-grafana-and-prometheus-59om)
+- [From Learner to Architect: My Journey Building a Resilient E-commerce Platform with Load Balancing, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/from-learner-to-architect-my-journey-building-a-resilient-e-commerce-platform-with-load-balancing-1na)
 <!-- BLOG-POST-LIST:END -->
 
 
