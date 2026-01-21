@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PCA Explained: Finding the Perfect Angle to Photograph a Sculpture So You Capture Everything in One Shot](https://dev.to/sachin_krrajput/pca-explained-finding-the-perfect-angle-to-photograph-a-sculpture-so-you-capture-everything-in-one-22bg)
-- [Are you embracing AI?](https://dev.to/anooname/are-you-embracing-ai-gk4)
-- [KEXP: Martin Dupont - I Met The Beast &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-martin-dupont-i-met-the-beast-live-on-kexp-4imj)
-- [What We Learned Building Agent Orchestration Systems &lpar;The Hard Way&rpar;](https://dev.to/theskillsteam/what-we-learned-building-agent-orchestration-systems-the-hard-way-36p8)
+- [El acertijo de Monty Hall](https://dev.to/baltasarq/el-acertijo-de-monty-hall-2c45)
+- [K-Fold Cross-Validation: The Comedian Who Tested Jokes at Only One Comedy Club and Bombed Everywhere Else](https://dev.to/sachin_krrajput/k-fold-cross-validation-the-comedian-who-tested-jokes-at-only-one-comedy-club-and-bombed-3j05)
+- [Building a Type Chart Calculator with Next.js 14: From Idea to Production](https://dev.to/yang_linc_13e26eff2853884/building-a-type-chart-calculator-with-nextjs-14-from-idea-to-production-4471)
+- [Building a mini PyTorch in C++ from scratch as a high school student...](https://dev.to/raju735/building-a-mini-pytorch-in-c-from-scratch-as-a-high-school-student-35c7)
 <!-- BLOG-POST-LIST:END -->
 
 
