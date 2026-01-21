@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is CodeMash?](https://dev.to/rfornal/what-is-codemash-1g0f)
-- [AdminJS v7 in classic NestJS without tears](https://dev.to/arab0v/adminjs-v7-in-classic-nestjs-without-tears-23en)
-- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
-- [Local MCP Development with Fortran and Gemini CLI](https://dev.to/gde/local-mcp-development-with-fortran-and-gemini-cli-3251)
+- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
+- [Simplified: AI Engineer Vs. ML Engineer](https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch)
+- [What a top ~5% Crunchbase visibility signal means for an early access-focused product?](https://dev.to/antonmb/what-a-top-5-crunchbase-visibility-signal-means-for-an-early-access-focused-product-1ock)
+- [Install Golang On Ubuntu](https://dev.to/iamzahid/install-golang-on-ubuntu-4ddf)
 <!-- BLOG-POST-LIST:END -->
 
 
