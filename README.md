@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [project: StatefulSet with replica&#39;s](https://dev.to/jumptotech/project-statefulset-with-replicas-4hhd)
-- [Two JavaScript Fundamentals You Need Before Implementing Signals](https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn)
-- [Login with Google on an iPhone &lpar;Local Metro server + Dev Build&rpar; - Part 7/7: Logout](https://dev.to/cathylai/login-with-google-on-an-iphone-local-metro-server-dev-build-part-77-logout-2p8)
-- [Why Feature Stores Didn&#39;t Fix Training–Serving Skew](https://dev.to/synapcores/why-feature-stores-didnt-fix-training-serving-skew-fad)
+- [A sua inversão de dependência está alinhada ao negócio?](https://dev.to/fabiodeandrade/a-sua-inversao-de-dependencia-esta-alinhada-ao-negocio-5702)
+- [I Trained a Tiny AI to Judge My Hacker News Feed &lpar;And You Can Too&rpar;](https://dev.to/bebechien/i-trained-a-tiny-ai-to-judge-my-hacker-news-feed-and-you-can-too-6og)
+- [Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura](https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44)
+- [🚀 Don&#39;t Let Your AI Get &quot;Hypnotized&quot;: A Guide to Stopping Adversarial Prompt Attacks 🧠🚫](https://dev.to/charanpool/dont-let-your-ai-get-hypnotized-a-guide-to-stopping-adversarial-prompt-attacks-dmi)
 <!-- BLOG-POST-LIST:END -->
 
 
