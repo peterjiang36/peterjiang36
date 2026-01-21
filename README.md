@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cielos, y un jam con Gleam](https://dev.to/agj/cielos-y-un-jam-con-gleam-4cpk)
-- [Translating in Microsoft Office 365 Apps vs. Pairaphrase](https://dev.to/gerry_criner/translating-in-microsoft-office-365-apps-vs-pairaphrase-2pn8)
-- [The Hidden Skill Every Good Developer Has &lpar;That No One Taught Me&rpar;](https://dev.to/mr_elvis/the-hidden-skill-every-good-developer-has-that-no-one-taught-me-148l)
-- [[C++] Get Unique serial ID](https://dev.to/minwook/c-get-unique-serial-id-227m)
+- [9.Create EBS Volume Using Terraform](https://dev.to/thukhakyawe_cloud/9create-ebs-volume-using-terraform-35jf)
+- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
+- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
+- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
 <!-- BLOG-POST-LIST:END -->
 
 
