@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling “Pending Review” Tokens &amp; Notifications in a Digital Membership Card System](https://dev.to/rixcy_shah_227751370e6891/handling-pending-review-tokens-notifications-in-a-digital-membership-card-system-10oh)
-- [Understanding Cloud Service Models Using a Simple Analogy](https://dev.to/ijay/understanding-cloud-service-models-using-a-simple-analogy-1276)
-- [Thanks Captain Obvious - Just Don&#39;t Be An A**hole](https://dev.to/cadienvan/thanks-captain-obvious-just-dont-be-an-ahole-fgk)
-- [Virus While You’re Coding: How AI Can Compromise Your Project](https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc)
+- [Agregando reactividad ⚡ a nuestras arquitecturas con AWS CloudWatch Subscription Filter](https://dev.to/aws-espanol/agregando-reactividad-a-nuestras-arquitecturas-con-aws-cloudwatch-subscription-filter-27da)
+- [The Translation Bot That Turned Professional Emails Into Insults](https://dev.to/faraz_farhan_83ed23a154a2/the-translation-bot-that-turned-professional-emails-into-insults-3e02)
+- [🍱 How to build a Responsive Bento Grid with Tailwind CSS &lpar;No Masonry.js&rpar;](https://dev.to/velox-web/how-to-build-a-responsive-bento-grid-with-tailwind-css-no-masonryjs-3f2c)
+- [AWS CloudFront Explained: How Cache, Origin, and Response Policies Supercharge Your CDN](https://dev.to/u11d/aws-cloudfront-explained-how-cache-origin-and-response-policies-supercharge-your-cdn-3l11)
 <!-- BLOG-POST-LIST:END -->
 
 
