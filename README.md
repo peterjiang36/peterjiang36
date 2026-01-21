@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How DNS Resolution Works](https://dev.to/abhimanyu_kumar_b94e042e9/how-dns-resolution-works-4m0n)
-- [Two Small Fixes That Could Transform Your Dev Team&#39;s Communication](https://dev.to/canro91/two-small-fixes-that-could-transform-your-dev-teams-communication-4c3o)
-- [The Only Real Fix for Agents Running Wild Is Control by Design](https://dev.to/yuer/the-only-real-fix-for-agents-running-wild-is-control-by-design-4dlc)
-- [Why Agents Feel Smarter Today &lpar;But Actually Aren’t&rpar;](https://dev.to/yuer/why-agents-feel-smarter-today-but-actually-arent-2mi2)
+- [Moving from GitHub to Codeberg&lpar;Forgejo&rpar;](https://dev.to/janderssonse/moving-from-github-to-codebergforgejo-b3)
+- [Optimizing Crystal Build time in Woodpecker CI: 415s to 196s with Caching](https://dev.to/miry/optimizing-crystal-build-time-in-woodpecker-ci-415s-to-196s-with-caching-1o5k)
+- [Angular Standalone Migration: A Deep Dive into Dependency Injection Pitfalls &amp; Best Practices](https://dev.to/arya_saurabha_0501/angular-standalone-migration-a-deep-dive-into-dependency-injection-pitfalls-best-practices-17l1)
+- [Building a GitHub Copilot CLI Extension - Implementing WakaTime Integration](https://dev.to/geeknees/building-a-github-copilot-cli-extension-implementing-wakatime-integration-5c0a)
 <!-- BLOG-POST-LIST:END -->
 
 
