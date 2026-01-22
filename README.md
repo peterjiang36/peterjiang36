@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Scraping: The Flask + Celery + Redis Stack](https://dev.to/deepak_mishra_35863517037/distributed-scraping-the-flask-celery-redis-stack-17d3)
-- [go-infrastructure-with-crossview](https://dev.to/wvanheemstra/go-infrastructure-with-crossview-23ce)
-- [Deadlines Are Hard – Why &quot;Submit by June 5th&quot; Is Broken](https://dev.to/bwi/deadlines-are-hard-why-submit-by-june-5th-is-broken-1gl4)
-- [The 7 Types of Time Every Developer Must Know](https://dev.to/bwi/the-7-types-of-time-every-developer-must-know-1lo7)
+- [Hacking Agents Bay Area Meetup - Feb 10, 2026](https://dev.to/techbec/hacking-agents-bay-area-meetup-feb-10-2026-5gj6)
+- [Agent Factory Recap: AI Agents for Data Engineering and Data Science](https://dev.to/googleai/agent-factory-recap-ai-agents-for-data-engineering-and-data-science-1b9m)
+- [Stop Using Math.random&lpar;&rpar;: The Art of Deterministic Chaos](https://dev.to/ev17/stop-using-mathrandom-the-art-of-deterministic-chaos-4bcm)
+- [dilemma!](https://dev.to/giftintech/dilemma-4fp6)
 <!-- BLOG-POST-LIST:END -->
 
 
