@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview in an Hour? Read This Fullstack Pocket Guide.](https://dev.to/st0ik/interview-in-an-hour-read-this-fullstack-pocket-guide-45j6)
-- [AI-Assisted Coding Requires Constraints](https://dev.to/ben-santora/ai-code-requires-constraints-2jlb)
-- [Undo a Git Merge Without Breaking Your Branch](https://dev.to/yeahiasarker/undo-a-git-merge-without-breaking-your-branch-32kj)
-- [NPR Music: yeule: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-yeule-tiny-desk-concert-1aia)
+- [Resolvendo Erros de Encoding e Texto Ilegível no PDF.js: Quando o OCR salva](https://dev.to/metalefs/resolvendo-erros-de-encoding-e-texto-ilegivel-no-pdfjs-quando-o-ocr-salva-33f3)
+- [Building in Public - Day 0](https://dev.to/linediconsine/building-in-public-day-0-48d4)
+- [The Power Saving Paradox: Architectural Constraints and the Engineering of Power Saving &lpar;Part 1&rpar;](https://dev.to/daviekim13/the-power-saving-paradox-architectural-constraints-and-the-engineering-of-power-saving-part-1-2nm)
+- [[Boost]](https://dev.to/cicirello/-ade)
 <!-- BLOG-POST-LIST:END -->
 
 
