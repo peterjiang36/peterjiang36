@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python](https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci)
+- [🎡Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array I&#39; - Problem 3507 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-i-problem-3507-c-python-47g)
 - [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
 - [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
-- [Shipping a Portfolio That Actually Represents Me](https://dev.to/denyherianto/shipping-a-portfolio-that-actually-represents-me-clh)
-- [The AI Bubble Is About To Burst, But The Next Bubble Is Already Growing](https://dev.to/bibek_pandey_cc6c6a84d74c/the-ai-bubble-is-about-to-burst-but-the-next-bubble-is-already-growing-5cg3)
 <!-- BLOG-POST-LIST:END -->
 
 
