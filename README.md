@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Identifier - வைக்கும் &quot;பெயர்&quot;](https://dev.to/thiraisuvadu_dev/identifier-vaikkum-peyr-5aag)
-- [Lakehouse? More Like a Lake + Warehouse Parking Lot](https://dev.to/esproc_spl/lakehouse-more-like-a-lake-warehouse-parking-lot-4hfg)
-- [Stopping Hidden Threats: AI Safety in PDF Processing](https://dev.to/katash/stopping-hidden-threats-ai-safety-in-pdf-processing-4l8c)
-- [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
+- [What will the future look like with AI?](https://dev.to/ms_74/what-will-the-future-look-like-with-ai-16ne)
+- [What I learned while implementing a colorblind mode for my Belgian Wage Calculator site](https://dev.to/illarious/what-i-learned-while-implementing-a-colorblind-mode-for-my-belgian-wage-calculator-site-51f0)
+- [Coderive Programming Language: Designed to be Used for 2026 Onwards](https://dev.to/danexcodr/coderive-programming-language-designed-to-be-used-for-2026-onwards-1gd3)
+- [The Great JavaScript Hook Naming Crisis: An Appeal for Sanity](https://dev.to/murz/the-great-javascript-hook-naming-crisis-an-appeal-for-sanity-38fp)
 <!-- BLOG-POST-LIST:END -->
 
 
