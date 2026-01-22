@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DOM IN JAVASCRIPT](https://dev.to/keerthigap/dom-in-javascript-3nll)
-- [Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb)
-- [DOM in JS](https://dev.to/sasirekaarumugam/dom-in-js-8gh)
-- [Solved: Migrate Evernote Notes to Obsidian: Converting HTML to Markdown](https://dev.to/techresolve/solved-migrate-evernote-notes-to-obsidian-converting-html-to-markdown-pbm)
+- [Identifier - வைக்கும் &quot;பெயர்&quot;](https://dev.to/thiraisuvadu_dev/identifier-vaikkum-peyr-5aag)
+- [Lakehouse? More Like a Lake + Warehouse Parking Lot](https://dev.to/esproc_spl/lakehouse-more-like-a-lake-warehouse-parking-lot-4hfg)
+- [Stopping Hidden Threats: AI Safety in PDF Processing](https://dev.to/katash/stopping-hidden-threats-ai-safety-in-pdf-processing-4l8c)
+- [My attempt on Cloud Resume Challenge in 2026 &lpar;Part 2&rpar;](https://dev.to/urmajesty516/my-attempt-on-cloud-resume-challenge-in-2026-part-2-5ek9)
 <!-- BLOG-POST-LIST:END -->
 
 
