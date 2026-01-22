@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolvendo Erros de Encoding e Texto Ilegível no PDF.js: Quando o OCR salva](https://dev.to/metalefs/resolvendo-erros-de-encoding-e-texto-ilegivel-no-pdfjs-quando-o-ocr-salva-33f3)
-- [Building in Public - Day 0](https://dev.to/linediconsine/building-in-public-day-0-48d4)
-- [The Power Saving Paradox: Architectural Constraints and the Engineering of Power Saving &lpar;Part 1&rpar;](https://dev.to/daviekim13/the-power-saving-paradox-architectural-constraints-and-the-engineering-of-power-saving-part-1-2nm)
-- [[Boost]](https://dev.to/cicirello/-ade)
+- [Surprise challenge!!](https://dev.to/jess/surprise-challenge-5d85)
+- [Micronaut vs Quarkus: Why I Switched After Two Years](https://dev.to/anand_jaisy_2f7644a12001b/micronaut-vs-quarkus-why-i-switched-after-two-years-5e94)
+- [What End-to-End Web App Development Really Means &lpar;And Why It Reduces Risk&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/what-end-to-end-web-app-development-really-means-and-why-it-reduces-risk-36ga)
+- [Inside Kilo Speed: How One Engineer Shipped an AI Adoption Dashboard in Two Days](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-ai-adoption-dashboard-in-two-days-3odn)
 <!-- BLOG-POST-LIST:END -->
 
 
