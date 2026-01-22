@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [production-style, fully working MySQL StatefulSet &lpar;primary + replicas&rpar; with headless + ClusterIP](https://dev.to/jumptotech/production-style-fully-working-mysql-statefulset-primary-replicas-with-headless-clusterip-1a8o)
-- [Privacy-First Mental Health AI: Building a Zero-Backend Sentiment Tracker with WebLLM and Transformers.js](https://dev.to/beck_moulton/privacy-first-mental-health-ai-building-a-zero-backend-sentiment-tracker-with-webllm-and-32lm)
-- [How procrastinating helped me ship a new AI assisted writing platform](https://dev.to/devakone/how-procrastinating-helped-me-ship-a-new-ai-assisted-writing-platform-3f4g)
-- [Visualizing the Machinery: Building a Terminal Plotter from First Principles](https://dev.to/palash90/visualizing-the-machinery-building-a-terminal-plotter-from-first-principles-jj5)
+- [Cloudflare Deep dive into 2025 Internet trends session highlights](https://dev.to/nhisyamj/cloudflare-deep-dive-into-2025-internet-trends-session-highlights-nm1)
+- [Designing Software for Non-Technical Users Under Time Pressure](https://dev.to/billboox/designing-software-for-non-technical-users-under-time-pressure-220p)
+- [Arquitectura Inmortal en AWS: Escala, Autocura y Domina el SAA-C03](https://dev.to/franciscojeg78/arquitectura-inmortal-en-aws-escala-autocura-y-domina-el-saa-c03-4hi8)
+- [Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k)
 <!-- BLOG-POST-LIST:END -->
 
 
