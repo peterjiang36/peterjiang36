@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
-- [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
-- [Go touch grass!](https://dev.to/builditn0w/go-touch-grass-38f6)
-- [A “Junior Engineer” AI Agent for Deterministic Engineering Workflows](https://dev.to/ajiferuke_tomiwa_6d18f131/a-junior-engineer-ai-agent-for-deterministic-engineering-workflows-3l2e)
+- [Distributed Scraping: The Flask + Celery + Redis Stack](https://dev.to/deepak_mishra_35863517037/distributed-scraping-the-flask-celery-redis-stack-17d3)
+- [go-infrastructure-with-crossview](https://dev.to/wvanheemstra/go-infrastructure-with-crossview-23ce)
+- [Deadlines Are Hard – Why &quot;Submit by June 5th&quot; Is Broken](https://dev.to/bwi/deadlines-are-hard-why-submit-by-june-5th-is-broken-1gl4)
+- [The 7 Types of Time Every Developer Must Know](https://dev.to/bwi/the-7-types-of-time-every-developer-must-know-1lo7)
 <!-- BLOG-POST-LIST:END -->
 
 
