@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python](https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci)
-- [🎡Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array I&#39; - Problem 3507 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-i-problem-3507-c-python-47g)
-- [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
-- [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
+- [Add Daily Horoscopes to Your App in 5 Minutes](https://dev.to/apiverve/add-daily-horoscopes-to-your-app-in-5-minutes-1a09)
+- [Why I Stopped Writing CSS from Scratch &lpar;And Started Using Webflow + JavaScript&rpar;](https://dev.to/journeyhorizon/why-i-stopped-writing-css-from-scratch-and-started-using-webflow-javascript-3aai)
+- [Install Claude Code on Windows with scoop](https://dev.to/0xkoji/install-claude-code-on-windows-with-scoop-2452)
+- [Your Interview Process is a Museum, and Linus Torvalds Just Left the Building](https://dev.to/ryo_suwito/your-interview-process-is-a-museum-and-linus-torvalds-just-left-the-building-5bm9)
 <!-- BLOG-POST-LIST:END -->
 
 
