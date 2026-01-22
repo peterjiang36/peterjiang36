@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Daily Horoscopes to Your App in 5 Minutes](https://dev.to/apiverve/add-daily-horoscopes-to-your-app-in-5-minutes-1a09)
-- [Why I Stopped Writing CSS from Scratch &lpar;And Started Using Webflow + JavaScript&rpar;](https://dev.to/journeyhorizon/why-i-stopped-writing-css-from-scratch-and-started-using-webflow-javascript-3aai)
-- [Install Claude Code on Windows with scoop](https://dev.to/0xkoji/install-claude-code-on-windows-with-scoop-2452)
-- [Your Interview Process is a Museum, and Linus Torvalds Just Left the Building](https://dev.to/ryo_suwito/your-interview-process-is-a-museum-and-linus-torvalds-just-left-the-building-5bm9)
+- [What Actually Happens When You Run ping](https://dev.to/thompka/what-actually-happens-when-you-run-ping-5h7c)
+- [Laptop Sleeves vs. Laptop Tote Bags: When to Use Which](https://dev.to/the_blackboxco_bb8b12d/laptop-sleeves-vs-laptop-tote-bags-when-to-use-which-da5)
+- [How to Use React Native Best Practices Agent Skills](https://dev.to/ajmal_hasan/how-to-use-react-native-best-practices-agent-skills-121k)
+- [Threading the Beads: Coding in the Era of AI](https://dev.to/bebechien/threading-the-beads-coding-in-the-era-of-ai-211h)
 <!-- BLOG-POST-LIST:END -->
 
 
