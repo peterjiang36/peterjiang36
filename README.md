@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed a 14-Hour Timezone Bug in My VS Code Extension 🕒🐛](https://dev.to/freerave/how-i-fixed-a-14-hour-timezone-bug-in-my-vs-code-extension-23j0)
-- [Vlog-OSS-Finder-01: Git Push Origin Comeback](https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23)
-- [The cost of AI in your career](https://dev.to/raffaeleloi/the-cost-of-ai-in-your-career-dfe)
-- [Use These Python Patterns for Price Scraping](https://dev.to/hasdata_com/use-these-python-patterns-for-price-scraping-a2d)
+- [94% of CEOs Are All-In on AI — What That Really Signals](https://dev.to/aiwithapex/94-of-ceos-are-all-in-on-ai-what-that-really-signals-4bic)
+- [🚀 I built a Free, Open World Time API &lpar;No API Keys, CORS Enabled&rpar;](https://dev.to/time-now-api/i-built-a-free-open-world-time-api-no-api-keys-cors-enabled-5en)
+- [Do AI assistants reduce cognitive load — or accumulate cognitive debt?](https://dev.to/deltax/do-ai-assistants-reduce-cognitive-load-or-accumulate-cognitive-debt-1odg)
+- [Ollama + FastAPI API, Building My Own AI API Using Ollama and FastAPI on a Linux VM](https://dev.to/shailendra_khade_df763b45/ollama-fastapi-api-building-my-own-ai-api-using-ollama-and-fastapi-on-a-linux-vm-5a40)
 <!-- BLOG-POST-LIST:END -->
 
 
