@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
-- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
-- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
-- [PyLadies Dublin x Go Ireland - Cat from Scratch](https://dev.to/pyladiesdub/pyladies-dublin-x-go-ireland-cat-from-scratch-2n6j)
+- [A Deep Dive into Deep Agent Architecture for AI Coding Assistants](https://dev.to/apssouza22/a-deep-dive-into-deep-agent-architecture-for-ai-coding-assistants-3c8b)
+- [The Senior Partner: Why I built a software factory to manage my AI, rather than letting it manage me](https://dev.to/mlinside/the-senior-partner-why-i-built-a-software-factory-to-manage-my-ai-rather-than-letting-it-manage-me-7hd)
+- [COLORS: Jordan Ward - Stranger | A COLORS SHOW](https://dev.to/music_youtube/colors-jordan-ward-stranger-a-colors-show-237i)
+- [Marketing Tips and Tricks to Be Successful in 2026](https://dev.to/billahdotdev/marketing-tips-and-tricks-to-be-successful-in-2026-29m8)
 <!-- BLOG-POST-LIST:END -->
 
 
