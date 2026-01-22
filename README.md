@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, tech and society: educated fool’s predictions](https://dev.to/viksaaskool/ai-tech-and-society-educated-fools-predictions-5f6n)
-- [Is your TextMate 2 folding corrupt?](https://dev.to/fleetfootmike/is-your-textmate-2-folding-corrupt-ha4)
-- [How to Set Up a Robust E-commerce Platform with Nginx, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/how-to-set-up-a-robust-e-commerce-platform-with-nginx-grafana-and-prometheus-59om)
-- [From Learner to Architect: My Journey Building a Resilient E-commerce Platform with Load Balancing, Grafana, and Prometheus](https://dev.to/alanvarghese-dev/from-learner-to-architect-my-journey-building-a-resilient-e-commerce-platform-with-load-balancing-1na)
+- [production-style, fully working MySQL StatefulSet &lpar;primary + replicas&rpar; with headless + ClusterIP](https://dev.to/jumptotech/production-style-fully-working-mysql-statefulset-primary-replicas-with-headless-clusterip-1a8o)
+- [Privacy-First Mental Health AI: Building a Zero-Backend Sentiment Tracker with WebLLM and Transformers.js](https://dev.to/beck_moulton/privacy-first-mental-health-ai-building-a-zero-backend-sentiment-tracker-with-webllm-and-32lm)
+- [How procrastinating helped me ship a new AI assisted writing platform](https://dev.to/devakone/how-procrastinating-helped-me-ship-a-new-ai-assisted-writing-platform-3f4g)
+- [Visualizing the Machinery: Building a Terminal Plotter from First Principles](https://dev.to/palash90/visualizing-the-machinery-building-a-terminal-plotter-from-first-principles-jj5)
 <!-- BLOG-POST-LIST:END -->
 
 
