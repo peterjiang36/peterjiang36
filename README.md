@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What will the future look like with AI?](https://dev.to/ms_74/what-will-the-future-look-like-with-ai-16ne)
-- [What I learned while implementing a colorblind mode for my Belgian Wage Calculator site](https://dev.to/illarious/what-i-learned-while-implementing-a-colorblind-mode-for-my-belgian-wage-calculator-site-51f0)
-- [Coderive Programming Language: Designed to be Used for 2026 Onwards](https://dev.to/danexcodr/coderive-programming-language-designed-to-be-used-for-2026-onwards-1gd3)
-- [The Great JavaScript Hook Naming Crisis: An Appeal for Sanity](https://dev.to/murz/the-great-javascript-hook-naming-crisis-an-appeal-for-sanity-38fp)
+- [Understanding Prompt Injection Attacks](https://dev.to/harish_c6b90abc1e7001fac2/understanding-prompt-injection-attacks-3ihm)
+- [Designing Idempotent Payment Processing in Worldpay Integrations &lpar;.NET Lessons&rpar;](https://dev.to/ramapratheeba/designing-idempotent-payment-processing-in-worldpay-integrations-net-lessons-3408)
+- [Introduction To DOTS!](https://dev.to/pratyush_soni_853633e1553/introduction-to-dots-4j2c)
+- [Checked exceptions and lambdas](https://dev.to/nfrankel/checked-exceptions-and-lambdas-3an9)
 <!-- BLOG-POST-LIST:END -->
 
 
