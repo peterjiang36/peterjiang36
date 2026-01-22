@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Prompt Injection Attacks](https://dev.to/harish_c6b90abc1e7001fac2/understanding-prompt-injection-attacks-3ihm)
-- [Designing Idempotent Payment Processing in Worldpay Integrations &lpar;.NET Lessons&rpar;](https://dev.to/ramapratheeba/designing-idempotent-payment-processing-in-worldpay-integrations-net-lessons-3408)
-- [Introduction To DOTS!](https://dev.to/pratyush_soni_853633e1553/introduction-to-dots-4j2c)
-- [Checked exceptions and lambdas](https://dev.to/nfrankel/checked-exceptions-and-lambdas-3an9)
+- [How I Fixed a 14-Hour Timezone Bug in My VS Code Extension 🕒🐛](https://dev.to/freerave/how-i-fixed-a-14-hour-timezone-bug-in-my-vs-code-extension-23j0)
+- [Vlog-OSS-Finder-01: Git Push Origin Comeback](https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23)
+- [The cost of AI in your career](https://dev.to/raffaeleloi/the-cost-of-ai-in-your-career-dfe)
+- [Use These Python Patterns for Price Scraping](https://dev.to/hasdata_com/use-these-python-patterns-for-price-scraping-a2d)
 <!-- BLOG-POST-LIST:END -->
 
 
