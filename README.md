@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Deep dive into 2025 Internet trends session highlights](https://dev.to/nhisyamj/cloudflare-deep-dive-into-2025-internet-trends-session-highlights-nm1)
-- [Designing Software for Non-Technical Users Under Time Pressure](https://dev.to/billboox/designing-software-for-non-technical-users-under-time-pressure-220p)
-- [Arquitectura Inmortal en AWS: Escala, Autocura y Domina el SAA-C03](https://dev.to/franciscojeg78/arquitectura-inmortal-en-aws-escala-autocura-y-domina-el-saa-c03-4hi8)
-- [Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k)
+- [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
+- [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
+- [Shipping a Portfolio That Actually Represents Me](https://dev.to/denyherianto/shipping-a-portfolio-that-actually-represents-me-clh)
+- [The AI Bubble Is About To Burst, But The Next Bubble Is Already Growing](https://dev.to/bibek_pandey_cc6c6a84d74c/the-ai-bubble-is-about-to-burst-but-the-next-bubble-is-already-growing-5cg3)
 <!-- BLOG-POST-LIST:END -->
 
 
