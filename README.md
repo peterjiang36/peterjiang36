@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Happens When You Run ping](https://dev.to/thompka/what-actually-happens-when-you-run-ping-5h7c)
-- [Laptop Sleeves vs. Laptop Tote Bags: When to Use Which](https://dev.to/the_blackboxco_bb8b12d/laptop-sleeves-vs-laptop-tote-bags-when-to-use-which-da5)
-- [How to Use React Native Best Practices Agent Skills](https://dev.to/ajmal_hasan/how-to-use-react-native-best-practices-agent-skills-121k)
-- [Threading the Beads: Coding in the Era of AI](https://dev.to/bebechien/threading-the-beads-coding-in-the-era-of-ai-211h)
+- [DOM IN JAVASCRIPT](https://dev.to/keerthigap/dom-in-javascript-3nll)
+- [Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb)
+- [DOM in JS](https://dev.to/sasirekaarumugam/dom-in-js-8gh)
+- [Solved: Migrate Evernote Notes to Obsidian: Converting HTML to Markdown](https://dev.to/techresolve/solved-migrate-evernote-notes-to-obsidian-converting-html-to-markdown-pbm)
 <!-- BLOG-POST-LIST:END -->
 
 
