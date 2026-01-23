@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using closures to measure call stack depth in Go](https://dev.to/lucassha/using-closures-to-measure-call-stack-depth-in-go-22c3)
-- [CVE-2026-23954: Incus Escape: From Templates to Host Root](https://dev.to/cverports/cve-2026-23954-incus-escape-from-templates-to-host-root-2f9f)
-- [How Streamers Accidentally Built the World&#39;s Largest Gaming AI Dataset](https://dev.to/claudiuspapirus/how-streamers-accidentally-built-the-worlds-largest-gaming-ai-dataset-4pin)
-- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
+- [Why I Built a Privacy-First Text Encoding Tool &lpar;and What I Learned&rpar;](https://dev.to/jason_buckley_a35ddee4cb8/why-i-built-a-privacy-first-text-encoding-tool-and-what-i-learned-5c6m)
+- [Apache DolphinScheduler 3.4.0 Major Release: OIDC Login, gRPC Task Support, and Comprehensive Reliability Enhancements](https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-340-major-release-oidc-login-grpc-task-support-and-comprehensive-12af)
+- [AWS CloudWatch.](https://dev.to/cmwokocha/aws-cloudwatch-54f7)
+- [How much 2FA annoys me](https://dev.to/antonmb/how-much-2fa-annoys-me-2o9e)
 <!-- BLOG-POST-LIST:END -->
 
 
