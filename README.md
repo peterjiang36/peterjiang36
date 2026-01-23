@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Trap of Parallel Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-trap-of-parallel-lists-4270)
-- [Time-Travel Debugging for Python: A Complete Tutorial](https://dev.to/ujwal240/-time-travel-debugging-for-python-a-complete-tutorial-1dip)
-- [Simplify GIF Handling in iOS with SwiftyGIF](https://dev.to/hazel-daniel/simplify-gif-handling-in-ios-with-swiftygif-58n3)
-- [GoReplay vs. Softprobe: Why Regression Testing Needs Service Virtualization](https://dev.to/dev0ps_love/goreplay-vs-softprobe-why-regression-testing-needs-service-virtualization-3gdo)
+- [Winning Online as a Developer-Marketer](https://dev.to/billahdotdev/winning-online-as-a-developer-marketer-4k57)
+- [Developer Myths That Need to Die](https://dev.to/wingsdesignstudio/developer-myths-that-need-to-die-2k1b)
+- [Jan 23, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-23-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ogf)
+- [Database Transactions Made Simple in Doppar](https://dev.to/mahedi1501/database-transactions-made-simple-in-doppar-34b1)
 <!-- BLOG-POST-LIST:END -->
 
 
