@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Multiple AWS EventBridge Rules Using CDKTF and a Config File from S3](https://dev.to/lokesh_vangari_a671430724/creating-multiple-aws-eventbridge-rules-using-cdktf-and-a-config-file-from-s3-2gl4)
-- [Spring CRUD Generator &lpar;v1.0.0&rpar;: Generate Spring Boot CRUD, Flyway, tests &amp; more from YAML/JSON](https://dev.to/mzivkovicdev/spring-crud-generator-v100-generate-spring-boot-crud-flyway-tests-more-from-yamljson-28ag)
-- [Launching &quot;Guide todo&quot;: A Hub for Tech Fixes and Practical Solutions](https://dev.to/guidetodo/launching-guide-todo-a-hub-for-tech-fixes-and-practical-solutions-2cap)
-- [MCP SERVER GENERATED BLOG](https://dev.to/hari_r_19ea857d1b0cbe454c/mcp-server-generated-blog-2la3)
+- [Is Your RAG System Leaking Data? 5 Minute Security Check](https://dev.to/jgracie52/is-your-rag-system-leaking-data-5-minute-security-check-3f7k)
+- [Testing Your Cloud Infrastructure Like IKEA Furniture: A Guide to Crossplane v2 End-to-End Testing](https://dev.to/the-software-s-journey/testing-your-cloud-infrastructure-like-ikea-furniture-a-guide-to-crossplane-v2-end-to-end-testing-1i4)
+- [Quick Tips and Tricks for Article Publishing](https://dev.to/gde/tips-and-tricks-for-article-publishing-23b8)
+- [Go vs Rust vs C++: Deep Dive into Reverse Proxy Performance on Mac &lpar;Pingora/Envoy/Traefik/Nginx&rpar;](https://dev.to/kanywst/go-vs-rust-vs-c-deep-dive-into-reverse-proxy-performance-on-mac-pingoraenvoytraefiknginx-g40)
 <!-- BLOG-POST-LIST:END -->
 
 
