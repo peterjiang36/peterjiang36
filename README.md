@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
-- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
-- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
-- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
+- [The $5 VPS SaaS Playbook: A Practical Next.js 15 Setup &lpar;No Vercel, No Supabase, No Clerk&rpar;](https://dev.to/the_nortern_dev/the-5-vps-saas-playbook-a-practical-nextjs-15-setup-no-vercel-no-supabase-no-clerk-1kg8)
+- [The Finalizer Problem: A Deeper Look into OutOfMemoryError Due to Unclosed Resources](https://dev.to/jillthornhill/the-finalizer-problem-a-deeper-look-into-outofmemoryerror-due-to-unclosed-resources-3dn1)
+- [Angular 21.1: Compose Arrays and Objects Directly in Templates](https://dev.to/brianmtreese/angular-211-compose-arrays-and-objects-directly-in-templates-91)
+- [I Was Tired of Basic Habit Apps, So I Built My Own](https://dev.to/jatinder_choudhary_5bceec/i-was-tired-of-basic-habit-apps-so-i-built-my-own-3aie)
 <!-- BLOG-POST-LIST:END -->
 
 
