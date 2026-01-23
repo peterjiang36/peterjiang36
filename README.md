@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The $5 VPS SaaS Playbook: A Practical Next.js 15 Setup &lpar;No Vercel, No Supabase, No Clerk&rpar;](https://dev.to/the_nortern_dev/the-5-vps-saas-playbook-a-practical-nextjs-15-setup-no-vercel-no-supabase-no-clerk-1kg8)
-- [The Finalizer Problem: A Deeper Look into OutOfMemoryError Due to Unclosed Resources](https://dev.to/jillthornhill/the-finalizer-problem-a-deeper-look-into-outofmemoryerror-due-to-unclosed-resources-3dn1)
-- [Angular 21.1: Compose Arrays and Objects Directly in Templates](https://dev.to/brianmtreese/angular-211-compose-arrays-and-objects-directly-in-templates-91)
-- [I Was Tired of Basic Habit Apps, So I Built My Own](https://dev.to/jatinder_choudhary_5bceec/i-was-tired-of-basic-habit-apps-so-i-built-my-own-3aie)
+- [Linux Learning Journey – Day 10: User &amp; Group Management in Linux 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-10-user-group-management-in-linux-pn1)
+- [A Lightning-Fast ngrok Alternative in Go](https://dev.to/devshark/a-lightning-fast-ngrok-alternative-in-go-35mc)
+- [I Used Claude Code to Write a Legal Appeal for My Mother&#39;s Disability Benefits](https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4)
+- [Implementing Tell and Ask in Trupe — Actor Model library in .NET](https://dev.to/actor-dev/implementing-tell-and-ask-in-trupe-actor-model-library-in-net-1e4e)
 <!-- BLOG-POST-LIST:END -->
 
 
