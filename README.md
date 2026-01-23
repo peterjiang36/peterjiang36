@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
-- [I’m finally doing it. AI-KIT goes live in 5 days. 🚀](https://dev.to/jithun_methusahan/im-finally-doing-it-ai-kit-goes-live-in-5-days-7f9)
-- [🗓️ Simp1os Dev Log – Day 1: The Installer Lives, But So Do My Trust Issues](https://dev.to/arush179/simp1os-dev-logs-day-1-the-installer-lives-but-so-do-my-trust-issues-5d67)
-- [Building a P2P LAN Chat &amp; File Sharing System with FastAPI](https://dev.to/hejhdiss/building-a-p2p-lan-chat-file-sharing-system-with-fastapi-4i8h)
+- [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
+- [Escape The Roads](https://dev.to/preetha_vaishnavi_2b82358/escape-the-roads-2ml2)
+- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
+- [Your node_modules Folder Is a Security Nightmare](https://dev.to/polliog/your-nodemodules-folder-is-a-security-nightmare-2okb)
 <!-- BLOG-POST-LIST:END -->
 
 
