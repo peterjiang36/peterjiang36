@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of making API Calls in JavaScript](https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m)
-- [How I Stopped Being a Code Snob and Started Being a Developer](https://dev.to/billahdotdev/how-i-stopped-being-a-code-snob-and-started-being-a-developer-1525)
-- [How to send emails in Flask: Complete developer guide](https://dev.to/sendlayer/how-to-send-emails-in-flask-26mj)
-- [Preparing a Raspberry Pi Like a Real Server &lpar;Before Installing Anything&rpar;](https://dev.to/sidbathi/preparing-a-raspberry-pi-like-a-real-server-before-installing-anything-2fl8)
+- [AI &amp; Automation 2025 Yearly Wrap-Up](https://dev.to/playtomic/ai-automation-2025-yearly-wrap-up-4ckl)
+- [The Best of Both Worlds: Merging IBM’s Project Bob with Ollama’s Image Ecosystem](https://dev.to/aairom/the-best-of-both-worlds-merging-ibms-project-bob-with-ollamas-image-ecosystem-5hkm)
+- [My New Year Portfolio Challenge!](https://dev.to/louis7/my-new-year-portfolio-challenge-g18)
+- [Why Not One-Time-Use Banks &lpar;in Terraform&rpar;? Gen-AI Says: Maybe.](https://dev.to/ionionascu/why-not-one-time-use-banks-in-terraform-gen-ai-says-maybe-1ai3)
 <!-- BLOG-POST-LIST:END -->
 
 
