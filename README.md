@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766)
-- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
-- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
-- [The ACCURACY- INFERENCE - MEMORY Triangle in ML Systems](https://dev.to/jashwanth_thatipamula_8ee/the-accuracy-inference-memory-triangle-in-ml-systems-a12)
+- [🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence](https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n)
+- [Why I Stopped Using html-to-docx &lpar;And Why You Should Too&rpar;](https://dev.to/resumemind/why-i-stopped-using-html-to-docx-and-why-you-should-too-5h4f)
+- [CVE-2026-0994: Recursive Hell: Breaking Python Protobuf with Nested &#39;Any&#39; Messages](https://dev.to/cverports/cve-2026-0994-recursive-hell-breaking-python-protobuf-with-nested-any-messages-36fj)
+- [57. Insert Interval | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/57-insert-interval-leetcode-top-interview-150-coding-questions-34of)
 <!-- BLOG-POST-LIST:END -->
 
 
