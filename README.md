@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Privacy-First Text Encoding Tool &lpar;and What I Learned&rpar;](https://dev.to/jason_buckley_a35ddee4cb8/why-i-built-a-privacy-first-text-encoding-tool-and-what-i-learned-5c6m)
-- [Apache DolphinScheduler 3.4.0 Major Release: OIDC Login, gRPC Task Support, and Comprehensive Reliability Enhancements](https://dev.to/chen_debra_3060b21d12b1b0/apache-dolphinscheduler-340-major-release-oidc-login-grpc-task-support-and-comprehensive-12af)
-- [AWS CloudWatch.](https://dev.to/cmwokocha/aws-cloudwatch-54f7)
-- [How much 2FA annoys me](https://dev.to/antonmb/how-much-2fa-annoys-me-2o9e)
+- [Building Remote Companies the Hard Way](https://dev.to/techstratos/building-remote-companies-the-hard-way-14ln)
+- [Apache Data Lakehouse Weekly: January 15–22, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-15-22-2026-4a02)
+- [Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026](https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466)
+- [Calculating A Percent vs. A Goal With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/calculating-a-percent-vs-a-goal-with-sfmcs-ampscript-3j4n)
 <!-- BLOG-POST-LIST:END -->
 
 
