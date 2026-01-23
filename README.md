@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
-- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
-- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
-- [Building a Lightweight Kubernetes Desktop Client GUI with Tauri and Rust](https://dev.to/atilladeniz/building-a-lightweight-kubernetes-desktop-client-with-tauri-and-rust-3bbj)
+- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
+- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
+- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
+- [This Open-Source Pipeline Transforms Any Podcast into AI-Ready Transcripts with Speaker Diarization &lpar;MIT License&rpar;](https://dev.to/badmonster0/this-open-source-pipeline-transforms-any-podcast-into-ai-ready-transcripts-with-speaker-diarization-3n1n)
 <!-- BLOG-POST-LIST:END -->
 
 
