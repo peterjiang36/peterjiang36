@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your RAG System Leaking Data? 5 Minute Security Check](https://dev.to/jgracie52/is-your-rag-system-leaking-data-5-minute-security-check-3f7k)
-- [Testing Your Cloud Infrastructure Like IKEA Furniture: A Guide to Crossplane v2 End-to-End Testing](https://dev.to/the-software-s-journey/testing-your-cloud-infrastructure-like-ikea-furniture-a-guide-to-crossplane-v2-end-to-end-testing-1i4)
-- [Quick Tips and Tricks for Article Publishing](https://dev.to/gde/tips-and-tricks-for-article-publishing-23b8)
-- [Go vs Rust vs C++: Deep Dive into Reverse Proxy Performance on Mac &lpar;Pingora/Envoy/Traefik/Nginx&rpar;](https://dev.to/kanywst/go-vs-rust-vs-c-deep-dive-into-reverse-proxy-performance-on-mac-pingoraenvoytraefiknginx-g40)
+- [Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766)
+- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
+- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
+- [The ACCURACY- INFERENCE - MEMORY Triangle in ML Systems](https://dev.to/jashwanth_thatipamula_8ee/the-accuracy-inference-memory-triangle-in-ml-systems-a12)
 <!-- BLOG-POST-LIST:END -->
 
 
