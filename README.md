@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI &amp; Automation 2025 Yearly Wrap-Up](https://dev.to/playtomic/ai-automation-2025-yearly-wrap-up-4ckl)
-- [The Best of Both Worlds: Merging IBM’s Project Bob with Ollama’s Image Ecosystem](https://dev.to/aairom/the-best-of-both-worlds-merging-ibms-project-bob-with-ollamas-image-ecosystem-5hkm)
-- [My New Year Portfolio Challenge!](https://dev.to/louis7/my-new-year-portfolio-challenge-g18)
-- [Why Not One-Time-Use Banks &lpar;in Terraform&rpar;? Gen-AI Says: Maybe.](https://dev.to/ionionascu/why-not-one-time-use-banks-in-terraform-gen-ai-says-maybe-1ai3)
+- [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
+- [I’m finally doing it. AI-KIT goes live in 5 days. 🚀](https://dev.to/jithun_methusahan/im-finally-doing-it-ai-kit-goes-live-in-5-days-7f9)
+- [🗓️ Simp1os Dev Log – Day 1: The Installer Lives, But So Do My Trust Issues](https://dev.to/arush179/simp1os-dev-logs-day-1-the-installer-lives-but-so-do-my-trust-issues-5d67)
+- [Building a P2P LAN Chat &amp; File Sharing System with FastAPI](https://dev.to/hejhdiss/building-a-p2p-lan-chat-file-sharing-system-with-fastapi-4i8h)
 <!-- BLOG-POST-LIST:END -->
 
 
