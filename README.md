@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Agents Bay Area Meetup - Feb 10, 2026](https://dev.to/techbec/hacking-agents-bay-area-meetup-feb-10-2026-5gj6)
-- [Agent Factory Recap: AI Agents for Data Engineering and Data Science](https://dev.to/googleai/agent-factory-recap-ai-agents-for-data-engineering-and-data-science-1b9m)
-- [Stop Using Math.random&lpar;&rpar;: The Art of Deterministic Chaos](https://dev.to/ev17/stop-using-mathrandom-the-art-of-deterministic-chaos-4bcm)
-- [dilemma!](https://dev.to/giftintech/dilemma-4fp6)
+- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6)
+- [GitHub Skills: Your Complete Learning Path to AI-Powered Development](https://dev.to/pwd9000/github-skills-your-complete-learning-path-to-ai-powered-development-ieo)
+- [5 Ways to Find High-Impact Ruby and Rails Projects to Contribute to Today](https://dev.to/zilton7/5-ways-to-find-high-impact-ruby-and-rails-projects-to-contribute-to-today-fg0)
+- [CVE-2025-22234: The 73rd Byte: How a Spring Security Fix Created a Timing Leak](https://dev.to/cverports/cve-2025-22234-the-73rd-byte-how-a-spring-security-fix-created-a-timing-leak-2ioa)
 <!-- BLOG-POST-LIST:END -->
 
 
