@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Winning Online as a Developer-Marketer](https://dev.to/billahdotdev/winning-online-as-a-developer-marketer-4k57)
-- [Developer Myths That Need to Die](https://dev.to/wingsdesignstudio/developer-myths-that-need-to-die-2k1b)
-- [Jan 23, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-23-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ogf)
-- [Database Transactions Made Simple in Doppar](https://dev.to/mahedi1501/database-transactions-made-simple-in-doppar-34b1)
+- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
+- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
+- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
+- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
 <!-- BLOG-POST-LIST:END -->
 
 
