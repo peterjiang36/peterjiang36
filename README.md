@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Learning Journey – Day 10: User &amp; Group Management in Linux 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-10-user-group-management-in-linux-pn1)
-- [A Lightning-Fast ngrok Alternative in Go](https://dev.to/devshark/a-lightning-fast-ngrok-alternative-in-go-35mc)
-- [I Used Claude Code to Write a Legal Appeal for My Mother&#39;s Disability Benefits](https://dev.to/nunc/i-used-claude-code-to-write-a-legal-appeal-for-my-mothers-disability-benefits-40f4)
-- [Implementing Tell and Ask in Trupe — Actor Model library in .NET](https://dev.to/actor-dev/implementing-tell-and-ask-in-trupe-actor-model-library-in-net-1e4e)
+- [Evolution of making API Calls in JavaScript](https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m)
+- [How I Stopped Being a Code Snob and Started Being a Developer](https://dev.to/billahdotdev/how-i-stopped-being-a-code-snob-and-started-being-a-developer-1525)
+- [How to send emails in Flask: Complete developer guide](https://dev.to/sendlayer/how-to-send-emails-in-flask-26mj)
+- [Preparing a Raspberry Pi Like a Real Server &lpar;Before Installing Anything&rpar;](https://dev.to/sidbathi/preparing-a-raspberry-pi-like-a-real-server-before-installing-anything-2fl8)
 <!-- BLOG-POST-LIST:END -->
 
 
