@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
-- [The Definitive Guide to JS Spreadsheets with Jspreadsheet Pro](https://dev.to/hodeware/the-definitive-guide-to-js-spreadsheets-with-jspreadsheet-pro-26c1)
-- [Fixing HDMI Audio Stuck at 100% on Hackintosh](https://dev.to/jervi/fixing-hdmi-audio-stuck-at-100-on-hackintosh-4na2)
-- [Building a $12/Month AI Chatbot That Rivals $500/Month Solutions](https://dev.to/dineshelumalai/building-a-12month-ai-chatbot-that-rivals-500month-solutions-5fbl)
+- [The AI Development Workflow I Actually Use](https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i)
+- [[SUI] Inyectando objeto observable al ambiente](https://dev.to/david_goyes_a488f58a17a53/sui-17ke)
+- [So, You Want to Get into AI? &lpar;Without the Robot Uprising&rpar;](https://dev.to/shubham030/so-you-want-to-get-into-ai-without-the-robot-uprising-lgm)
+- [Vibe Coding One Pixel at a Time](https://dev.to/worldlinetech/vibe-coding-one-pixel-at-a-time-22pc)
 <!-- BLOG-POST-LIST:END -->
 
 
