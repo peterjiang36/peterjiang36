@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6)
-- [GitHub Skills: Your Complete Learning Path to AI-Powered Development](https://dev.to/pwd9000/github-skills-your-complete-learning-path-to-ai-powered-development-ieo)
-- [5 Ways to Find High-Impact Ruby and Rails Projects to Contribute to Today](https://dev.to/zilton7/5-ways-to-find-high-impact-ruby-and-rails-projects-to-contribute-to-today-fg0)
-- [CVE-2025-22234: The 73rd Byte: How a Spring Security Fix Created a Timing Leak](https://dev.to/cverports/cve-2025-22234-the-73rd-byte-how-a-spring-security-fix-created-a-timing-leak-2ioa)
+- [Using closures to measure call stack depth in Go](https://dev.to/lucassha/using-closures-to-measure-call-stack-depth-in-go-22c3)
+- [CVE-2026-23954: Incus Escape: From Templates to Host Root](https://dev.to/cverports/cve-2026-23954-incus-escape-from-templates-to-host-root-2f9f)
+- [How Streamers Accidentally Built the World&#39;s Largest Gaming AI Dataset](https://dev.to/claudiuspapirus/how-streamers-accidentally-built-the-worlds-largest-gaming-ai-dataset-4pin)
+- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
 <!-- BLOG-POST-LIST:END -->
 
 
