@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Web3 Verifier Agent - Fight Rug Pulls with AI-Powered Due Diligence](https://dev.to/datadr1ven/web3-verifier-agent-fight-rug-pulls-with-ai-powered-due-diligence-2c0n)
-- [Why I Stopped Using html-to-docx &lpar;And Why You Should Too&rpar;](https://dev.to/resumemind/why-i-stopped-using-html-to-docx-and-why-you-should-too-5h4f)
-- [CVE-2026-0994: Recursive Hell: Breaking Python Protobuf with Nested &#39;Any&#39; Messages](https://dev.to/cverports/cve-2026-0994-recursive-hell-breaking-python-protobuf-with-nested-any-messages-36fj)
-- [57. Insert Interval | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/57-insert-interval-leetcode-top-interview-150-coding-questions-34of)
+- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
+- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
+- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
+- [Building a Lightweight Kubernetes Desktop Client GUI with Tauri and Rust](https://dev.to/atilladeniz/building-a-lightweight-kubernetes-desktop-client-with-tauri-and-rust-3bbj)
 <!-- BLOG-POST-LIST:END -->
 
 
