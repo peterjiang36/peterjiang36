@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Remote Companies the Hard Way](https://dev.to/techstratos/building-remote-companies-the-hard-way-14ln)
-- [Apache Data Lakehouse Weekly: January 15–22, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-15-22-2026-4a02)
-- [Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026](https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466)
-- [Calculating A Percent vs. A Goal With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/calculating-a-percent-vs-a-goal-with-sfmcs-ampscript-3j4n)
+- [Local Text-to-Speech is finally practical on CPU-only machines](https://dev.to/laustke/local-text-to-speech-is-finally-practical-on-cpu-only-machines-gal)
+- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved.](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
+- [Upgrading to Serverless Framework v4: The Why and the How](https://dev.to/saltyshiomix/upgrading-to-serverless-framework-v4-the-why-and-the-how-17lm)
+- [Building in Public: CV Analyzer -Act 4 · Scene 1: The Analysis Component](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-4-scene-1-the-analysis-component-4e4d)
 <!-- BLOG-POST-LIST:END -->
 
 
