@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
+- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
 - [Most developers don&#39;t understand that end users want a better experience and not AI layers everywhere. AI integration is good, but the final priority should be the user&#39;s experience.](https://dev.to/jaideepparashar/most-developers-dont-understand-that-end-users-want-a-better-experience-and-not-ai-layers-2409)
 - [Building Products with Invisible AI: A UX Blueprint](https://dev.to/jaideepparashar/building-products-with-invisible-ai-a-ux-blueprint-4aic)
-- [I Built a iOS App for Java beginners and AP CSA Students that just need practice&lpar;Not another tutorial&rpar;](https://dev.to/lcai000/i-built-a-ios-app-for-java-beginners-and-ap-csa-students-that-just-need-practicenot-another-52jl)
-- [Updating My Portfolio with Antigravity &amp; Gemini 3: A Google AI Challenge Submission](https://dev.to/mar1shell/updating-my-portfolio-with-antigravity-gemini-3-a-google-ai-challenge-submission-1cnn)
 <!-- BLOG-POST-LIST:END -->
 
 
