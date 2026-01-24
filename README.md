@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[SUI] ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-scrollview-4mba)
-- [Why your hourly rate is killing your business 💸](https://dev.to/hypertools/why-your-hourly-rate-is-killing-your-business-477m)
-- [The 4 Best Features of Ruby 4.0](https://dev.to/zilton7/the-4-best-features-of-ruby-40-nlc)
-- [Vibrancy vs Saturation](https://dev.to/anthony_dito_8fad7bcb4ad3/vibrancy-vs-saturation-1pd6)
+- [Hybrid Dagster OSS: Scalable Compute on a Hybrid Azure Setup](https://dev.to/chryztoph/hybrid-dagster-oss-scalable-compute-on-a-hybrid-azure-setup-554n)
+- [AI-Powered Resume Generator: Architecture &amp; Implementation](https://dev.to/pbaletkeman/ai-powered-resume-generator-architecture-implementation-2748)
+- [My Portfolio Doesn’t Live on the Page 🚫📃](https://dev.to/anchildress1/my-portfolio-doesnt-live-on-the-page-218e)
+- [Spud; Week 3 Update.](https://dev.to/bruhtato/spud-week-3-update-4d4n)
 <!-- BLOG-POST-LIST:END -->
 
 
