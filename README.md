@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
-- [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
-- [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
+- [From Cluster UI to Operational Plane: Lessons from the Kubernetes Dashboard Deprecation](https://dev.to/abhinavd26/from-cluster-ui-to-operational-plane-lessons-from-the-kubernetes-dashboard-deprecation-48k0)
+- [vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)
+- [What I’d do if I were starting my career today](https://dev.to/martin_call/what-id-do-if-i-were-starting-my-career-today-16hc)
+- [📝 Guía de Escritura en Markdown para dev.to](https://dev.to/franciscojeg78/guia-de-escritura-en-markdown-para-devto-4g22)
 <!-- BLOG-POST-LIST:END -->
 
 
