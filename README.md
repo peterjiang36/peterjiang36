@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WOOO](https://dev.to/kiransethu46/wooo-2nnk)
-- [Personal Portfolio](https://dev.to/preethign_b6279c2f10f2e/personal-portfolio-5ffe)
-- [I created OAT to help maintaining consistency of coding-agent rule across projects , orgs, and personal preferences](https://dev.to/alain_pra/i-created-oat-to-help-maintaining-consistency-of-coding-agent-rule-across-projects-orgs-and-2kj0)
-- [How to View JSON Schema Online Instantly &lpar;No Login, No Install&rpar;](https://dev.to/sam_th/how-to-view-json-schema-online-instantly-no-login-no-install-k39)
+- [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
+- [Sharing a Good Book: How I Learned to Invest at 45 and Earned $2 Million in Dividends Annually](https://dev.to/evanlin/sharing-a-good-book-how-i-learned-to-invest-at-45-and-earned-2-million-in-dividends-annually-29gh)
+- [Caching, Consistency, and Trade-offs: Designing Scalable Distributed Systems](https://dev.to/ahsanfarooq210/caching-consistency-and-trade-offs-designing-scalable-distributed-systems-3nlf)
+- [Learning Python: Building a Simple Customer Service LINE Bot with Embedchain](https://dev.to/evanlin/learning-python-building-a-simple-customer-service-line-bot-with-embedchain-1hfj)
 <!-- BLOG-POST-LIST:END -->
 
 
