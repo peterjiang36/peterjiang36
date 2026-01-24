@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Dagster OSS: Scalable Compute on a Hybrid Azure Setup](https://dev.to/chryztoph/hybrid-dagster-oss-scalable-compute-on-a-hybrid-azure-setup-554n)
-- [AI-Powered Resume Generator: Architecture &amp; Implementation](https://dev.to/pbaletkeman/ai-powered-resume-generator-architecture-implementation-2748)
-- [My Portfolio Doesn’t Live on the Page 🚫📃](https://dev.to/anchildress1/my-portfolio-doesnt-live-on-the-page-218e)
-- [Spud; Week 3 Update.](https://dev.to/bruhtato/spud-week-3-update-4d4n)
+- [Most developers don&#39;t understand that end users want a better experience and not AI layers everywhere. AI integration is good, but the final priority should be the user&#39;s experience.](https://dev.to/jaideepparashar/most-developers-dont-understand-that-end-users-want-a-better-experience-and-not-ai-layers-2409)
+- [Building Products with Invisible AI: A UX Blueprint](https://dev.to/jaideepparashar/building-products-with-invisible-ai-a-ux-blueprint-4aic)
+- [I Built a iOS App for Java beginners and AP CSA Students that just need practice&lpar;Not another tutorial&rpar;](https://dev.to/lcai000/i-built-a-ios-app-for-java-beginners-and-ap-csa-students-that-just-need-practicenot-another-52jl)
+- [Updating My Portfolio with Antigravity &amp; Gemini 3: A Google AI Challenge Submission](https://dev.to/mar1shell/updating-my-portfolio-with-antigravity-gemini-3-a-google-ai-challenge-submission-1cnn)
 <!-- BLOG-POST-LIST:END -->
 
 
