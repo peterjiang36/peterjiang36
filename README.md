@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Drag-and-Drop Is Dead: Why Vibecoding Is the Future of MVPs](https://dev.to/avolaapp/drag-and-drop-is-dead-why-vibecoding-is-the-future-of-mvps-20pj)
-- [Llama Guard: What It Actually Does &lpar;And Doesn&#39;t Do&rpar;](https://dev.to/jgracie52/llama-guard-what-it-actually-does-and-doesnt-do-24p9)
-- [How to Convert HTML to PDF in 3 Easy Ways](https://dev.to/liam_turner/how-to-convert-html-to-pdf-in-3-easy-ways-4152)
-- [Linux - Quick RAM Usage Check in Bash](https://dev.to/ben-santora/linux-quick-ram-usage-check-3lda)
+- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
+- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
+- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
+- [I Tried Vibe Coding for the First Time Using Warp — Here’s What I Learned](https://dev.to/muhammad_rabbi_dev/i-tried-vibe-coding-for-the-first-time-using-warp-heres-what-i-learned-4o72)
 <!-- BLOG-POST-LIST:END -->
 
 
