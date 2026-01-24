@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-21227 | Azure Logic Apps Elevation of Privilege Vulnerability](https://dev.to/aakash_rahsi/cve-2026-21227-azure-logic-apps-elevation-of-privilege-vulnerability-8jb)
-- [pytest-html-plus VS Code — A Must-Have Extension If You Run Pytests](https://dev.to/kevi019/pytest-html-plus-vs-code-a-must-have-extension-if-you-run-pytests-e3h)
-- [Solved: Syncing Zoom Recordings to DropBox for Long-term Storage](https://dev.to/techresolve/solved-syncing-zoom-recordings-to-dropbox-for-long-term-storage-28h3)
-- [I Rewrote Google&#39;s Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
+- [Sector HQ Weekly Digest - January 24, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-24-2026-3pdg)
+- [🌲 Finding the Longest Aligned Chain in a Binary Tree](https://dev.to/josephakayesi/finding-the-longest-aligned-chain-in-a-binary-tree-h28)
+- [What Broke During Our AWS DMS Migration &lpar;And How We Fixed It&rpar;](https://dev.to/amaan-igs/what-broke-during-our-aws-dms-migration-and-how-we-fixed-it-198p)
+- [Our CI Doesn&#39;t Do Weekends](https://dev.to/kaeruct/our-ci-doesnt-do-weekends-4og1)
 <!-- BLOG-POST-LIST:END -->
 
 
