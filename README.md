@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
-- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
-- [Most developers don&#39;t understand that end users want a better experience and not AI layers everywhere. AI integration is good, but the final priority should be the user&#39;s experience.](https://dev.to/jaideepparashar/most-developers-dont-understand-that-end-users-want-a-better-experience-and-not-ai-layers-2409)
-- [Building Products with Invisible AI: A UX Blueprint](https://dev.to/jaideepparashar/building-products-with-invisible-ai-a-ux-blueprint-4aic)
+- [Building Stateful AI Agents at Scale with Microsoft Orleans](https://dev.to/sreeni5018/building-stateful-ai-agents-at-scale-with-microsoft-orleans-4n14)
+- [🗓️ Simp1OS Dev Logs – Day 2: Framebuffer Still Missing, Sanity Also Missing](https://dev.to/arush179/simp1os-dev-logs-day-2-framebuffer-still-missing-sanity-also-missing-5de3)
+- [The Anti-Resume: Why I Hid My Portfolio in the Dark](https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee)
+- [Essential AWS Services Every Full-Stack Developer Must Know](https://dev.to/suruliraajan/essential-aws-services-every-full-stack-developer-must-know-15gc)
 <!-- BLOG-POST-LIST:END -->
 
 
