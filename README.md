@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
-- [Sharing a Good Book: How I Learned to Invest at 45 and Earned $2 Million in Dividends Annually](https://dev.to/evanlin/sharing-a-good-book-how-i-learned-to-invest-at-45-and-earned-2-million-in-dividends-annually-29gh)
-- [Caching, Consistency, and Trade-offs: Designing Scalable Distributed Systems](https://dev.to/ahsanfarooq210/caching-consistency-and-trade-offs-designing-scalable-distributed-systems-3nlf)
-- [Learning Python: Building a Simple Customer Service LINE Bot with Embedchain](https://dev.to/evanlin/learning-python-building-a-simple-customer-service-line-bot-with-embedchain-1hfj)
+- [How Stripe Billing Failures Quietly Drain SaaS Revenue](https://dev.to/abhishek_sanoria_8aa6f6a4/how-stripe-billing-failures-quietly-drain-saas-revenue-2196)
+- [From WAL to WASM - High-Performance Local-First Sync with Postgres &amp; SQLite](https://dev.to/rafacalderon/from-wal-to-wasm-high-performance-local-first-sync-with-postgres-sqlite-50h0)
+- [FPGA_Part_08](https://dev.to/cevval/fpgapart08-1gak)
+- [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb)
 <!-- BLOG-POST-LIST:END -->
 
 
