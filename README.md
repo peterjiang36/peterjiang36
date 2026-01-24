@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2)
-- [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
-- [GitHub Copilot CLI + MCP: Talk to Your Database in Plain English](https://dev.to/abhirockzz/github-copilot-cli-mcp-talk-to-your-database-in-plain-english-3go4)
-- [OpenAI&#39;s testament to Postgresql reliability](https://dev.to/alexis_gilgonzales_c5d9a/openais-testament-to-postgresql-reliability-12o2)
+- [Drag-and-Drop Is Dead: Why Vibecoding Is the Future of MVPs](https://dev.to/avolaapp/drag-and-drop-is-dead-why-vibecoding-is-the-future-of-mvps-20pj)
+- [Llama Guard: What It Actually Does &lpar;And Doesn&#39;t Do&rpar;](https://dev.to/jgracie52/llama-guard-what-it-actually-does-and-doesnt-do-24p9)
+- [How to Convert HTML to PDF in 3 Easy Ways](https://dev.to/liam_turner/how-to-convert-html-to-pdf-in-3-easy-ways-4152)
+- [Linux - Quick RAM Usage Check in Bash](https://dev.to/ben-santora/linux-quick-ram-usage-check-3lda)
 <!-- BLOG-POST-LIST:END -->
 
 
