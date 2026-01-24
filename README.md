@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Development Workflow I Actually Use](https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i)
-- [[SUI] Inyectando objeto observable al ambiente](https://dev.to/david_goyes_a488f58a17a53/sui-17ke)
-- [So, You Want to Get into AI? &lpar;Without the Robot Uprising&rpar;](https://dev.to/shubham030/so-you-want-to-get-into-ai-without-the-robot-uprising-lgm)
-- [Vibe Coding One Pixel at a Time](https://dev.to/worldlinetech/vibe-coding-one-pixel-at-a-time-22pc)
+- [[SUI] ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-scrollview-4mba)
+- [Why your hourly rate is killing your business 💸](https://dev.to/hypertools/why-your-hourly-rate-is-killing-your-business-477m)
+- [The 4 Best Features of Ruby 4.0](https://dev.to/zilton7/the-4-best-features-of-ruby-40-nlc)
+- [Vibrancy vs Saturation](https://dev.to/anthony_dito_8fad7bcb4ad3/vibrancy-vs-saturation-1pd6)
 <!-- BLOG-POST-LIST:END -->
 
 
