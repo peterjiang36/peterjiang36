@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WiFi Not Working On The Train? Docker Might Be To Blame](https://dev.to/schaerfo/wifi-not-working-on-the-train-docker-might-be-to-blame-2k8l)
-- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-5e7k)
-- [[Boost]](https://dev.to/marabesi/-edh)
-- [Clean Architecture vs Vertical Slice: Pragmatism Over Dogma in Modern Software Design](https://dev.to/harrykhlo/clean-architecture-vs-vertical-slice-pragmatism-over-dogma-in-modern-software-design-2co5)
+- [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
+- [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
+- [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
 <!-- BLOG-POST-LIST:END -->
 
 
