@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sector HQ Weekly Digest - January 24, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-24-2026-3pdg)
-- [🌲 Finding the Longest Aligned Chain in a Binary Tree](https://dev.to/josephakayesi/finding-the-longest-aligned-chain-in-a-binary-tree-h28)
-- [What Broke During Our AWS DMS Migration &lpar;And How We Fixed It&rpar;](https://dev.to/amaan-igs/what-broke-during-our-aws-dms-migration-and-how-we-fixed-it-198p)
-- [Our CI Doesn&#39;t Do Weekends](https://dev.to/kaeruct/our-ci-doesnt-do-weekends-4og1)
+- [Navigating Proton Spam and the AI Consent Dilemma](https://dev.to/dd8888/navigating-proton-spam-and-the-ai-consent-dilemma-3i68)
+- [Protecting Your Prize-Winning Cyber-Carrots: A Defense-in-Depth Guide to Azure AKS with Crossplane v2](https://dev.to/the-software-s-journey/protecting-your-prize-winning-cyber-carrots-a-defense-in-depth-guide-to-azure-aks-with-crossplane-43f0)
+- [FastAPI Architecture: Clean, Scalable &amp; Self-Documenting](https://dev.to/naved_shaikh/fastapi-architecture-clean-scalable-self-documenting-22n8)
+- [Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)
 <!-- BLOG-POST-LIST:END -->
 
 
