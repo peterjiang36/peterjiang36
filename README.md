@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
-- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
-- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
-- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
+- [Jeff Su: The 10% of AI Tools that Drive 90% of Results](https://dev.to/future_ai/jeff-su-the-10-of-ai-tools-that-drive-90-of-results-2c2b)
+- [High-Accuracy Data Labeling: Elevating AI with Precision and Quality](https://dev.to/ai_personic2025_012c32722/high-accuracy-data-labeling-elevating-ai-with-precision-and-quality-91d)
+- [Stop Deleting Virtual Environments](https://dev.to/ddebajyati/stop-deleting-virtual-environments-4e04)
+- [cURL: A beginner&#39;s guide](https://dev.to/satyasootar/you-need-to-know-what-curl-can-do-2k6k)
 <!-- BLOG-POST-LIST:END -->
 
 
