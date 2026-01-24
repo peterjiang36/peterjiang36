@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: The 10% of AI Tools that Drive 90% of Results](https://dev.to/future_ai/jeff-su-the-10-of-ai-tools-that-drive-90-of-results-2c2b)
-- [High-Accuracy Data Labeling: Elevating AI with Precision and Quality](https://dev.to/ai_personic2025_012c32722/high-accuracy-data-labeling-elevating-ai-with-precision-and-quality-91d)
-- [Stop Deleting Virtual Environments](https://dev.to/ddebajyati/stop-deleting-virtual-environments-4e04)
-- [cURL: A beginner&#39;s guide](https://dev.to/satyasootar/you-need-to-know-what-curl-can-do-2k6k)
+- [GPU and RAM Prices Surge in Australia: RTX 5090 Up 15%, RAM Up 38% - January 2026](https://dev.to/rosgluk/gpu-and-ram-prices-surge-in-australia-rtx-5090-up-15-ram-up-38-january-2026-kkb)
+- [CSA XCON 2026: India’s Premier Cybersecurity Conference Bringing Global Experts to Dehradun](https://dev.to/sagar_sajwan_a91beb41c861/csa-xcon-2026-indias-premier-cybersecurity-conference-bringing-global-experts-to-dehradun-3011)
+- [CVE-2026-20805 | Desktop Window Manager Information Disclosure Vulnerability](https://dev.to/aakash_rahsi/cve-2026-20805-desktop-window-manager-information-disclosure-vulnerability-1aj7)
+- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
 <!-- BLOG-POST-LIST:END -->
 
 
