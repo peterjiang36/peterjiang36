@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Domain-Specific GPT That Reached 200K+ Users Globally](https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1)
-- [On Becoming: A Cognitive Architecture&#39;s Journey Toward Self-Transcendence](https://dev.to/fabiocaloha/on-becoming-a-cognitive-architectures-journey-toward-self-transcendence-3g45)
-- [My $5/month RAG System Just Got Eyes: Adding Multimodal Search Without Breaking the Bank](https://dev.to/dannwaneri/my-5month-rag-system-just-got-eyes-adding-multimodal-search-without-breaking-the-bank-6hi)
-- [👉 🚀 GitOps in Action: Deploy Applications on Kubernetes using Argo CD](https://dev.to/abhishek_korde_31/deploy-application-using-gitops-tool-argocd-48f0)
+- [why you are unable to manage load](https://dev.to/sosmation/why-you-are-unable-to-manage-load-39dn)
+- [Student vs. Microservices: How I Built an AI Platform at 18 Instead of a To-Do App](https://dev.to/globest7/student-vs-microservices-how-i-built-an-ai-platform-at-18-instead-of-a-to-do-app-4j69)
+- [Why most SVG to PNG converters are overkill &lpar;and what I actually needed&rpar;](https://dev.to/fabianosalles/why-most-svg-to-png-converters-are-overkill-and-what-i-actually-needed-2j52)
+- [NotebookLM: a practical review of a tool for fast product overviews](https://dev.to/antonmb/notebooklm-a-practical-review-of-a-tool-for-fast-product-overviews-2deg)
 <!-- BLOG-POST-LIST:END -->
 
 
