@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck)
-- [Ever Wondered How Amazon Shopping Works on AWS?](https://dev.to/btanisha11/ever-wondered-how-amazon-shopping-works-on-aws-2l89)
-- [Building a Zero-Trust VPN: How I Wrapped OpenVPN and WireGuard with Modern Authentication](https://dev.to/jessedye/building-a-zero-trust-vpn-how-i-wrapped-openvpn-and-wireguard-with-modern-authentication-4cjn)
-- [Journal app with no edit button.](https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc)
+- [Setting up data pipelines from S3 to Kafka with Flink as an ETL layer](https://dev.to/aws-builders/setting-up-data-pipelines-from-s3-to-kafka-with-flink-as-an-etl-layer-2cdk)
+- [Spring Boot 4 入門教學 - Part 4 &lpar;@Bean 與 IoC 容器&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-4-mi2)
+- [Spring Boot 4 入門教學 - Part 3 &lpar;@SpringBootApplication 深度解析&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-3-509h)
+- [Spring Boot 4 入門教學 - Part 2 &lpar;建立第一個 Spring Boot 專案&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-2-45k9)
 <!-- BLOG-POST-LIST:END -->
 
 
