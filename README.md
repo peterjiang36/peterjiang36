@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Datadog vs OneUptime vs OptyxStack – Understanding the Differences in Observability and Operations](https://dev.to/optyxstack/datadog-vs-oneuptime-vs-optyxstack-understanding-the-differences-in-observability-and-operations-1blh)
-- [Decision AI is the Engine. GenAI is the Interface. Agents are the Operators.](https://dev.to/eagleeyethinker/decision-ai-is-the-engine-genai-is-the-interface-agents-are-the-operators-4275)
-- [Stop Guessing Your Diet: Building a Bio-Hacker Agent with LangGraph and CGM Data 🩸🤖](https://dev.to/wellallytech/stop-guessing-your-diet-building-a-bio-hacker-agent-with-langgraph-and-cgm-data-1a2b)
-- [The Future of Verifiable Compute in Trading: How ROFL Eliminates Trust in Order Execution](https://dev.to/savvysid/the-future-of-verifiable-compute-in-trading-how-rofl-eliminates-trust-in-order-execution-21jd)
+- [Building tools that save developers hours, not minutes.](https://dev.to/dailycodetools/building-tools-that-save-developers-hours-not-minutes-2de6)
+- [☯Beginner-Friendly Guide &#39;Minimum Difference Between Highest and Lowest of K Scores&#39; - Problem 1984 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-difference-between-highest-and-lowest-of-k-scores-problem-1984-198b)
+- [Permanent uninstall android annoying bloatware](https://dev.to/agussudarmanto/permanent-uninstall-android-annoying-bloatware-4a5o)
+- [i accidentally built AGI for $30/month and nobody&#39;s ready for this conversation](https://dev.to/kenzo_codes/i-accidentally-built-agi-for-30month-and-nobodys-ready-for-this-conversation-oh4)
 <!-- BLOG-POST-LIST:END -->
 
 
