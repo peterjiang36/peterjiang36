@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MS Excel for Data Analytics](https://dev.to/tildah/ms-excel-for-data-analytics-10ho)
-- [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
-- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
-- [How to send emails in Next.js via SMTP with email API](https://dev.to/sendlayer/how-to-send-emails-in-nextjs-via-smtp-with-email-api-4480)
+- [I built a lightweight framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar;](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
+- [Mon aventure avec le projet Vivino : transformer des données en recommandations 🍷](https://dev.to/el_houssine_elmalki/mon-aventure-avec-le-projet-vivino-transformer-des-donnees-en-recommandations-202d)
+- [The Skill of Reading Code](https://dev.to/infinull/the-skill-of-reading-code-3ah6)
+- [What Makes a Website Convert &lpar;and Why Most Don’t&rpar;](https://dev.to/cmxchat/what-makes-a-website-convert-and-why-most-dont-4hm1)
 <!-- BLOG-POST-LIST:END -->
 
 
