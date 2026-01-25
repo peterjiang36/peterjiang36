@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up data pipelines from S3 to Kafka with Flink as an ETL layer](https://dev.to/aws-builders/setting-up-data-pipelines-from-s3-to-kafka-with-flink-as-an-etl-layer-2cdk)
-- [Spring Boot 4 入門教學 - Part 4 &lpar;@Bean 與 IoC 容器&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-4-mi2)
-- [Spring Boot 4 入門教學 - Part 3 &lpar;@SpringBootApplication 深度解析&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-3-509h)
-- [Spring Boot 4 入門教學 - Part 2 &lpar;建立第一個 Spring Boot 專案&rpar;](https://dev.to/cyrustse/spring-boot-4-ru-men-jiao-xue-part-2-45k9)
+- [Why Can You Right-Click Save a WebGL Canvas? A 20-Year History of Browser Graphics](https://dev.to/usapopopooon/why-can-you-right-click-save-a-webgl-canvas-a-20-year-history-of-browser-graphics-4kb3)
+- [Metaprogramming and the Limits of Static Analysis](https://dev.to/aghastygd/metaprogramming-and-the-limits-of-static-analysis-4dbk)
+- [Task Management UI](https://dev.to/preetha_vaishnavi_2b82358/task-management-ui-o64)
+- [Home Task Manager with angular js and firebase](https://dev.to/preetha_vaishnavi_2b82358/home-task-manager-with-angular-js-and-firebase-2db0)
 <!-- BLOG-POST-LIST:END -->
 
 
