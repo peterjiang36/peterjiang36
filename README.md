@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Cluster UI to Operational Plane: Lessons from the Kubernetes Dashboard Deprecation](https://dev.to/abhinavd26/from-cluster-ui-to-operational-plane-lessons-from-the-kubernetes-dashboard-deprecation-48k0)
-- [vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)
-- [What I’d do if I were starting my career today](https://dev.to/martin_call/what-id-do-if-i-were-starting-my-career-today-16hc)
-- [📝 Guía de Escritura en Markdown para dev.to](https://dev.to/franciscojeg78/guia-de-escritura-en-markdown-para-devto-4g22)
+- [The #1 sentence I add to prompts that makes them better](https://dev.to/jjn1056/the-1-sentence-i-add-to-prompts-that-makes-them-better-514n)
+- [Mock It ’Til You Make It: Testing External APIs Without Losing Your Mind](https://dev.to/zilton7/mock-it-til-you-make-it-testing-external-apis-without-losing-your-mind-2b5n)
+- [From Shaky Farm Videos to Sharp Diagnoses - Building a Client-Side Media Pipeline](https://dev.to/nicanor_korir/from-shaky-farm-videos-to-sharp-diagnoses-building-a-client-side-media-pipeline-2iok)
+- [Google Apps Scripts Tricks: Beyond UrlFetchApp](https://dev.to/missinqlink/google-apps-scripts-tricks-beyond-urlfetchapp-488n)
 <!-- BLOG-POST-LIST:END -->
 
 
