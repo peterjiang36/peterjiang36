@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The #1 sentence I add to prompts that makes them better](https://dev.to/jjn1056/the-1-sentence-i-add-to-prompts-that-makes-them-better-514n)
-- [Mock It ’Til You Make It: Testing External APIs Without Losing Your Mind](https://dev.to/zilton7/mock-it-til-you-make-it-testing-external-apis-without-losing-your-mind-2b5n)
-- [From Shaky Farm Videos to Sharp Diagnoses - Building a Client-Side Media Pipeline](https://dev.to/nicanor_korir/from-shaky-farm-videos-to-sharp-diagnoses-building-a-client-side-media-pipeline-2iok)
-- [Google Apps Scripts Tricks: Beyond UrlFetchApp](https://dev.to/missinqlink/google-apps-scripts-tricks-beyond-urlfetchapp-488n)
+- [Datadog vs OneUptime vs OptyxStack – Understanding the Differences in Observability and Operations](https://dev.to/optyxstack/datadog-vs-oneuptime-vs-optyxstack-understanding-the-differences-in-observability-and-operations-1blh)
+- [Decision AI is the Engine. GenAI is the Interface. Agents are the Operators.](https://dev.to/eagleeyethinker/decision-ai-is-the-engine-genai-is-the-interface-agents-are-the-operators-4275)
+- [Stop Guessing Your Diet: Building a Bio-Hacker Agent with LangGraph and CGM Data 🩸🤖](https://dev.to/wellallytech/stop-guessing-your-diet-building-a-bio-hacker-agent-with-langgraph-and-cgm-data-1a2b)
+- [The Future of Verifiable Compute in Trading: How ROFL Eliminates Trust in Order Execution](https://dev.to/savvysid/the-future-of-verifiable-compute-in-trading-how-rofl-eliminates-trust-in-order-execution-21jd)
 <!-- BLOG-POST-LIST:END -->
 
 
