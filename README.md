@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Physics-Enforced Oracle: How KAILEdge Brings Deterministic Cargo Monitoring to Layer 2s](https://dev.to/zentoshi/building-a-physics-enforced-oracle-how-kailedge-brings-deterministic-cargo-monitoring-to-layer-2s-4a3a)
-- [DSA Pattern Recognition](https://dev.to/bibimbop123/dsa-pattern-recognition-545m)
-- [Intersection observer](https://dev.to/chhavikohli/intersection-observer-5807)
-- [修改 SSH 默认端口导致密钥登录失败的排查与解决](https://dev.to/amoorzheyu/xiu-gai-ssh-mo-ren-duan-kou-dao-zhi-mi-yao-deng-lu-shi-bai-de-pai-cha-yu-jie-jue-1aac)
+- [MS Excel for Data Analytics](https://dev.to/tildah/ms-excel-for-data-analytics-10ho)
+- [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
+- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
+- [How to send emails in Next.js via SMTP with email API](https://dev.to/sendlayer/how-to-send-emails-in-nextjs-via-smtp-with-email-api-4480)
 <!-- BLOG-POST-LIST:END -->
 
 
