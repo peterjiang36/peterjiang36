@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a lightweight framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar;](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
-- [Mon aventure avec le projet Vivino : transformer des données en recommandations 🍷](https://dev.to/el_houssine_elmalki/mon-aventure-avec-le-projet-vivino-transformer-des-donnees-en-recommandations-202d)
-- [The Skill of Reading Code](https://dev.to/infinull/the-skill-of-reading-code-3ah6)
-- [What Makes a Website Convert &lpar;and Why Most Don’t&rpar;](https://dev.to/cmxchat/what-makes-a-website-convert-and-why-most-dont-4hm1)
+- [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
+- [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
+- [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
+- [I Built Minesweeper So an AI Can Slack Off and Play: The API Edition](https://dev.to/geeknees/i-built-minesweeper-so-an-ai-can-slack-off-and-play-the-api-edition-jfn)
 <!-- BLOG-POST-LIST:END -->
 
 
