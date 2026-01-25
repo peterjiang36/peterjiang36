@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
-- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
-- [Understanding Intelligent Agents Starting with Claude Agent SDK](https://dev.to/_8d31359a797ee088ecde8/understanding-intelligent-agents-starting-with-claude-agent-sdk-2omb)
-- [What Is Agentic Analytics?](https://dev.to/alexmercedcoder/what-is-agentic-analytics-5g35)
+- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck)
+- [Ever Wondered How Amazon Shopping Works on AWS?](https://dev.to/btanisha11/ever-wondered-how-amazon-shopping-works-on-aws-2l89)
+- [Building a Zero-Trust VPN: How I Wrapped OpenVPN and WireGuard with Modern Authentication](https://dev.to/jessedye/building-a-zero-trust-vpn-how-i-wrapped-openvpn-and-wireguard-with-modern-authentication-4cjn)
+- [Journal app with no edit button.](https://dev.to/peakker_panther_7fb64408b/journal-app-with-no-edit-button-13lc)
 <!-- BLOG-POST-LIST:END -->
 
 
