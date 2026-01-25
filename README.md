@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CuteWallpaper.site: Making Wallpapers That Actually Fit Real Screens](https://dev.to/shawnhacks/building-cutewallpapersite-making-wallpapers-that-actually-fit-real-screens-2aad)
-- [Why Technical Correctness Is Not Enough For Developers Anymore. 
-
-Because an AI system can be statistically accurate and still fail emotionally.](https://dev.to/jaideepparashar/why-technical-correctness-is-not-enough-for-developers-anymore-because-an-ai-system-can-be-1l8l)
-- [The Emotional UX of AI: What Developers Miss](https://dev.to/jaideepparashar/the-emotional-ux-of-ai-what-developers-miss-377j)
-- [Claude Code Hidden Feature Revealed: Multi-Agent Team Collaboration Mode](https://dev.to/stklen/claude-code-hidden-feature-revealed-multi-agent-team-collaboration-mode-25pf)
+- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
+- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
+- [My production server almost went down because of one library](https://dev.to/frederickpeal/my-production-server-almost-went-down-because-of-one-library-186e)
+- [What is Databricks? A Simple Guide for Beginners](https://dev.to/krunalkanojiya/what-is-databricks-a-simple-guide-for-beginners-48io)
 <!-- BLOG-POST-LIST:END -->
 
 
