@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building tools that save developers hours, not minutes.](https://dev.to/dailycodetools/building-tools-that-save-developers-hours-not-minutes-2de6)
-- [☯Beginner-Friendly Guide &#39;Minimum Difference Between Highest and Lowest of K Scores&#39; - Problem 1984 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-difference-between-highest-and-lowest-of-k-scores-problem-1984-198b)
-- [Permanent uninstall android annoying bloatware](https://dev.to/agussudarmanto/permanent-uninstall-android-annoying-bloatware-4a5o)
-- [i accidentally built AGI for $30/month and nobody&#39;s ready for this conversation](https://dev.to/kenzo_codes/i-accidentally-built-agi-for-30month-and-nobodys-ready-for-this-conversation-oh4)
+- [Building CuteWallpaper.site: Making Wallpapers That Actually Fit Real Screens](https://dev.to/shawnhacks/building-cutewallpapersite-making-wallpapers-that-actually-fit-real-screens-2aad)
+- [Why Technical Correctness Is Not Enough For Developers Anymore. 
+
+Because an AI system can be statistically accurate and still fail emotionally.](https://dev.to/jaideepparashar/why-technical-correctness-is-not-enough-for-developers-anymore-because-an-ai-system-can-be-1l8l)
+- [The Emotional UX of AI: What Developers Miss](https://dev.to/jaideepparashar/the-emotional-ux-of-ai-what-developers-miss-377j)
+- [Claude Code Hidden Feature Revealed: Multi-Agent Team Collaboration Mode](https://dev.to/stklen/claude-code-hidden-feature-revealed-multi-agent-team-collaboration-mode-25pf)
 <!-- BLOG-POST-LIST:END -->
 
 
