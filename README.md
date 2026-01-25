@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
-- [The Excel Evolution: Navigating from Data Entry to Data Artistry without stress](https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh)
-- [The Beginner’s Guide to React Native for Mobile Devlopment](https://dev.to/swyom_sanjog_4908464907cc/the-beginners-guide-to-react-native-for-mobile-development-58kl)
-- [My Journey at LuxDevHQ: MS Excel For Analytics](https://dev.to/victormungai97/my-journey-at-luxdevhq-ms-excel-for-analytics-5067)
+- [AI-generated code lacks common sense](https://dev.to/maxpatiiuk/ai-generated-code-lacks-common-sense-29bo)
+- [code is a &quot;translation&quot; | after 1.5 years of &quot;vibe-coding&quot; adventures thoughts](https://dev.to/arenukvern/code-is-a-translation-after-15-years-of-vibe-coding-adventures-thoughts-2hbn)
+- [Understanding Promises in JavaScript](https://dev.to/pckalyan/understanding-promises-in-javascript-253m)
+- [I stopped analysing matches and started building a tool to decide whether to go](https://dev.to/ezeeyeyo/i-stopped-analysing-matches-and-started-building-a-tool-to-decide-whether-to-go-46oj)
 <!-- BLOG-POST-LIST:END -->
 
 
