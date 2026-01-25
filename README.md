@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Portable AI Memory Needs Confidential Compute?](https://dev.to/caerlower/why-portable-ai-memory-needs-confidential-compute-3b73)
-- [How to Automate ADR Reviews and Keep Your Architectural Decisions in Sync with Your Codebase](https://dev.to/tosin2013/how-to-automate-adr-reviews-and-keep-your-architectural-decisions-in-sync-with-your-codebase-kdn)
-- [Have you ever faced the LazyInitializationException-JPA Architecture](https://dev.to/vigneshwaralingam/have-you-ever-faced-the-lazyinitializationexception-jpa-architecture-f9d)
-- [Bluetooth SDP: Quick Overview](https://dev.to/duracellrabbid/bluetooth-sdp-quick-overview-464c)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
+- [The Excel Evolution: Navigating from Data Entry to Data Artistry without stress](https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh)
+- [The Beginner’s Guide to React Native for Mobile Devlopment](https://dev.to/swyom_sanjog_4908464907cc/the-beginners-guide-to-react-native-for-mobile-development-58kl)
+- [My Journey at LuxDevHQ: MS Excel For Analytics](https://dev.to/victormungai97/my-journey-at-luxdevhq-ms-excel-for-analytics-5067)
 <!-- BLOG-POST-LIST:END -->
 
 
