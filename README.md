@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
-- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
-- [My production server almost went down because of one library](https://dev.to/frederickpeal/my-production-server-almost-went-down-because-of-one-library-186e)
-- [What is Databricks? A Simple Guide for Beginners](https://dev.to/krunalkanojiya/what-is-databricks-a-simple-guide-for-beginners-48io)
+- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
+- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
+- [Understanding Intelligent Agents Starting with Claude Agent SDK](https://dev.to/_8d31359a797ee088ecde8/understanding-intelligent-agents-starting-with-claude-agent-sdk-2omb)
+- [What Is Agentic Analytics?](https://dev.to/alexmercedcoder/what-is-agentic-analytics-5g35)
 <!-- BLOG-POST-LIST:END -->
 
 
