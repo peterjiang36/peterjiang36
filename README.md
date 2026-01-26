@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Client-Side Background Removal with WebAssembly and JavaScript](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-background-removal-with-webassembly-and-javascript-555e)
-- [Build a Book Catalog Table](https://dev.to/richardpascoe/build-a-book-catalog-table-1g7i)
-- [FiQueLa — SQL-like Queries for Structured Files in PHP](https://dev.to/1biot/fiquela-sql-like-queries-for-structured-files-in-php-15p)
-- [How GitHub Copilot Helped Me Roast Its Own Users](https://dev.to/vignesh-j/how-github-copilot-helped-me-roast-its-own-users-4540)
+- [Building a Content-Heavy Website for Long-Form Articles: Lessons Learned](https://dev.to/zile_lukic_0dfc1555abd33a/building-a-content-heavy-website-for-long-form-articles-lessons-learned-5bcj)
+- [SQL-Speak: AI-Powered Natural Language Interface for Databases](https://dev.to/certifiedsurvey/sql-speak-ai-powered-natural-language-interface-for-databases-1gci)
+- [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
+- [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 <!-- BLOG-POST-LIST:END -->
 
 
