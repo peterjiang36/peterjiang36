@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dokumentasi Database MariaDB &lpar;Updated&rpar;](https://dev.to/mrkoala1001/dokumentasi-database-mariadb-updated-5c60)
-- [The Pager: Where SQLite Transactions Touch Disk Reality](https://dev.to/lovestaco/the-pager-where-sqlite-transactions-touch-disk-reality-44cg)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)
-- [Making AI Agent Configurations Stable with an LLM Gateway](https://dev.to/palapalapala/making-ai-agent-configurations-stable-with-an-llm-gateway-2jf1)
+- [Amazon Q x GitHub Actions: Enhancing Your CI/CD Pipeline with Generative AI](https://dev.to/aws-builders/amazon-q-x-github-actions-enhancing-your-cicd-pipeline-with-generative-ai-555f)
+- [FlashFX Export System Documentation](https://dev.to/therealgabry/flashfx-export-system-documentation-32ac)
+- [Build a Collaborative Airtable-Style Data Grid in Next.js using AG Grid and Velt SDK](https://dev.to/astrodevil/build-a-collaborative-airtable-style-data-grid-in-nextjs-using-ag-grid-and-velt-sdk-6om)
+- [Normalization and Denormalization in Databases: Why They Matter](https://dev.to/suruliraajan/normalization-and-denormalization-in-databases-why-they-matter-2gnf)
 <!-- BLOG-POST-LIST:END -->
 
 
