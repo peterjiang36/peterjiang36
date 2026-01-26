@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
-- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
-- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
-- [Building an E-Scooter Comparison Platform: Technical Deep Dive](https://dev.to/akkualle/building-an-e-scooter-comparison-platform-technical-deep-dive-16do)
+- [Inside TCP: Establishment, Transfer, Reliability, and Connection Teardown](https://dev.to/ritam369/inside-tcp-establishment-transfer-reliability-and-connection-teardown-2enf)
+- [How to Optimize a Collection Page in Shopify for 2026](https://dev.to/supremerumham/how-to-optimize-a-collection-page-in-shopify-for-2026-4ch3)
+- [Zero downtime, lossless migration of records to ElasticSearch indexes](https://dev.to/sagartrimukhe/zero-downtime-lossless-migration-of-records-to-elasticsearch-indexes-1end)
+- [Redesigning a Protocol for AI Agents That Interact With the Real World](https://dev.to/ericgrill/redesigning-a-protocol-for-ai-agents-that-interact-with-the-real-world-4hk8)
 <!-- BLOG-POST-LIST:END -->
 
 
