@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
-- [Enhanced Event Logs and Deployment Monitoring for Kudu in Umbraco Cloud](https://dev.to/skttl/enhanced-event-logs-and-deployment-monitoring-for-kudu-in-umbraco-cloud-i66)
-- [Detective: A Digital Forensics CLI Built with GitHub Copilot CLI](https://dev.to/geoffkats/detective-a-digital-forensics-cli-built-with-github-copilot-cli-32bm)
-- [What a Failed Concert Ticket Purchase Taught Me as a Full-Stack Developer](https://dev.to/htuohz/what-a-failed-concert-ticket-purchase-taught-me-as-a-full-stack-developer-50g6)
+- [TCP VS UDP : Reliability vs Speed and HTTP must pick a side .](https://dev.to/kunal_dev/tcp-vs-udp-reliability-vs-speed-and-http-must-pick-a-side--4152)
+- [Stop Fighting YAML: I Built a Visual Docker Compose Architect to Fix It](https://dev.to/adavesik/stop-fighting-yaml-i-built-a-visual-docker-compose-architect-to-fix-it-m00)
+- [Devlog-OSS-Finder-03: Good First Issues and Testing](https://dev.to/barbora_klusackova/devlog-oss-finder-03-good-first-issues-and-testing-3k34)
+- [How to prove your code quality is better than just &quot;fixing bugs&quot; &lpar;and stop LoC-based performance reviews&rpar;](https://dev.to/dimitrisk_cyclopt/how-to-prove-your-code-quality-is-better-than-just-fixing-bugs-and-stop-loc-based-performance-46ba)
 <!-- BLOG-POST-LIST:END -->
 
 
