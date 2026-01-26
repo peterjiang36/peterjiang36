@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside TCP: Establishment, Transfer, Reliability, and Connection Teardown](https://dev.to/ritam369/inside-tcp-establishment-transfer-reliability-and-connection-teardown-2enf)
-- [How to Optimize a Collection Page in Shopify for 2026](https://dev.to/supremerumham/how-to-optimize-a-collection-page-in-shopify-for-2026-4ch3)
-- [Zero downtime, lossless migration of records to ElasticSearch indexes](https://dev.to/sagartrimukhe/zero-downtime-lossless-migration-of-records-to-elasticsearch-indexes-1end)
-- [Redesigning a Protocol for AI Agents That Interact With the Real World](https://dev.to/ericgrill/redesigning-a-protocol-for-ai-agents-that-interact-with-the-real-world-4hk8)
+- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
+- [Enhanced Event Logs and Deployment Monitoring for Kudu in Umbraco Cloud](https://dev.to/skttl/enhanced-event-logs-and-deployment-monitoring-for-kudu-in-umbraco-cloud-i66)
+- [Detective: A Digital Forensics CLI Built with GitHub Copilot CLI](https://dev.to/geoffkats/detective-a-digital-forensics-cli-built-with-github-copilot-cli-32bm)
+- [What a Failed Concert Ticket Purchase Taught Me as a Full-Stack Developer](https://dev.to/htuohz/what-a-failed-concert-ticket-purchase-taught-me-as-a-full-stack-developer-50g6)
 <!-- BLOG-POST-LIST:END -->
 
 
