@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a schema-aware RAG agent with DuckDB and LangChain Go](https://dev.to/davidmontoyago/building-a-schema-aware-rag-agent-with-duckdb-and-langchain-go-574a)
-- [AI Governance is Just Good DevOps: A Developer&#39;s Perspective](https://dev.to/rpsan/ai-governance-is-just-good-devops-a-developers-perspective-2do8)
-- [Testing Telegram Bots in CI/CD: Zero Tokens Required](https://dev.to/stepan_romankov/testing-telegram-bots-in-cicd-zero-tokens-required-4io3)
-- [Understanding Memory Graph Debugger in Xcode](https://dev.to/arshtechpro/understanding-memory-graph-debugger-in-xcode-your-guide-to-catching-memory-leaks-274)
+- [Dokumentasi Database MariaDB &lpar;Updated&rpar;](https://dev.to/mrkoala1001/dokumentasi-database-mariadb-updated-5c60)
+- [The Pager: Where SQLite Transactions Touch Disk Reality](https://dev.to/lovestaco/the-pager-where-sqlite-transactions-touch-disk-reality-44cg)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)
+- [Making AI Agent Configurations Stable with an LLM Gateway](https://dev.to/palapalapala/making-ai-agent-configurations-stable-with-an-llm-gateway-2jf1)
 <!-- BLOG-POST-LIST:END -->
 
 
