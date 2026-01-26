@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Learning Basic SEO Helps Developers Build Better Websites](https://dev.to/kevin_joseph_/why-learning-basic-seo-helps-developers-build-better-websites-4kjp)
-- [Building a Modern POS Platform: Offline-First Operations with AI-Driven Marketing](https://dev.to/raj_bagchi/building-a-modern-pos-platform-offline-first-operations-with-ai-driven-marketing-122h)
-- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka)
-- [Beyond the Hoodie: What “Thinking Like an Attacker” Actually Means](https://dev.to/tauseef_imam_a06c68bb304a/beyond-the-hoodie-what-thinking-like-an-attacker-actually-means-506p)
+- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
+- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
+- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
+- [Building an E-Scooter Comparison Platform: Technical Deep Dive](https://dev.to/akkualle/building-an-e-scooter-comparison-platform-technical-deep-dive-16do)
 <!-- BLOG-POST-LIST:END -->
 
 
