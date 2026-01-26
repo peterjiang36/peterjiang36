@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Really Changing Real-Time Audio Systems](https://dev.to/awesomeaudioai/how-ai-is-really-changing-real-time-audio-systems-35d6)
-- [End-to-End Azure Artifacts + CI/CD Pipeline &lpar;Real-World Walkthrough&rpar;](https://dev.to/devopsdynamicshub/end-to-end-azure-artifacts-cicd-pipeline-real-world-walkthrough-1deg)
-- [CPU&#39;s : Inside the brain of your computer](https://dev.to/techwithazaria/cpus-inside-the-brain-of-your-computer-4lhm)
-- [Risk Management Theater: The Performance That&#39;s Killing Your Team](https://dev.to/ghostinit0x/risk-management-theater-the-performance-thats-killing-your-team-2433)
+- [I Built a Faster PWA Icon Generator in a Weekend](https://dev.to/sivarampg/i-built-a-faster-pwa-icon-generator-in-a-weekend-li8)
+- [Teaching Clawdbot About Docker](https://dev.to/ajeetraina/teaching-clawdbot-about-docker-165g)
+- [How I use Claude Code to accelerate my software engineering job and improve my life](https://dev.to/juandj/how-i-use-claude-code-to-accelerate-my-software-engineering-job-and-improve-my-life-8o7)
+- [I saw Antigravity, I prompted, I conquered!](https://dev.to/usersam7/i-saw-antigravity-i-prompted-i-conquered-4102)
 <!-- BLOG-POST-LIST:END -->
 
 
