@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o)
-- [Build Your Own AI Story Generator with RAG - Part 3: Generating Stories](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-3-generating-stories-4b1)
-- [Build Your Own AI Story Generator with RAG - Part 2: Building the RAG Pipeline](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-2-building-the-rag-pipeline-3jf)
-- [Stop Coding Before You Crash: Predicting &quot;Geek Burnout&quot; with Real-time HRV and PyTorch 🧠💤](https://dev.to/wellallytech/stop-coding-before-you-crash-predicting-geek-burnout-with-real-time-hrv-and-pytorch-2jog)
+- [How AI Is Really Changing Real-Time Audio Systems](https://dev.to/awesomeaudioai/how-ai-is-really-changing-real-time-audio-systems-35d6)
+- [End-to-End Azure Artifacts + CI/CD Pipeline &lpar;Real-World Walkthrough&rpar;](https://dev.to/devopsdynamicshub/end-to-end-azure-artifacts-cicd-pipeline-real-world-walkthrough-1deg)
+- [CPU&#39;s : Inside the brain of your computer](https://dev.to/techwithazaria/cpus-inside-the-brain-of-your-computer-4lhm)
+- [Risk Management Theater: The Performance That&#39;s Killing Your Team](https://dev.to/ghostinit0x/risk-management-theater-the-performance-thats-killing-your-team-2433)
 <!-- BLOG-POST-LIST:END -->
 
 
