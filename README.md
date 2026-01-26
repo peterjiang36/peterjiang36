@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
-- [New Year, New Portfolio: How Google AI &amp; Cloud Run Powered ucupio.com](https://dev.to/maulana_yusufazmi_ddcea4/new-year-new-portfolio-how-google-ai-cloud-run-powered-ucupiocom-3jl6)
-- [Checkout Authentication and Conversion Rate](https://dev.to/corbado/checkout-authentication-and-conversion-rate-4j2h)
-- [Building Hallucination-Resistant AI Systems](https://dev.to/dextralabs/building-hallucination-resistant-ai-systems-5ak8)
+- [Building a schema-aware RAG agent with DuckDB and LangChain Go](https://dev.to/davidmontoyago/building-a-schema-aware-rag-agent-with-duckdb-and-langchain-go-574a)
+- [AI Governance is Just Good DevOps: A Developer&#39;s Perspective](https://dev.to/rpsan/ai-governance-is-just-good-devops-a-developers-perspective-2do8)
+- [Testing Telegram Bots in CI/CD: Zero Tokens Required](https://dev.to/stepan_romankov/testing-telegram-bots-in-cicd-zero-tokens-required-4io3)
+- [Understanding Memory Graph Debugger in Xcode](https://dev.to/arshtechpro/understanding-memory-graph-debugger-in-xcode-your-guide-to-catching-memory-leaks-274)
 <!-- BLOG-POST-LIST:END -->
 
 
