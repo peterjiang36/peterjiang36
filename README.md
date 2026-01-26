@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AutoGen to automate wiki content](https://dev.to/dmo2000/using-autogen-to-automate-wiki-content-g8l)
-- [Architecting an AI-Powered Deal Sourcing Pipeline for Malaysian Real Estate](https://dev.to/navinder/architecting-an-ai-powered-deal-sourcing-pipeline-for-malaysian-real-estate-1ki6)
-- [Fix: Microphone Permissions Not Showing Up on Hackintosh &lpar;macOS Tahoe/Sonoma&rpar;](https://dev.to/jervi/fix-microphone-permissions-not-showing-up-on-hackintosh-macos-tahoesonoma-27an)
-- [npm vs npx: qual a diferença?](https://dev.to/juansev/npm-vs-npx-qual-a-diferenca-31e5)
+- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o)
+- [Build Your Own AI Story Generator with RAG - Part 3: Generating Stories](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-3-generating-stories-4b1)
+- [Build Your Own AI Story Generator with RAG - Part 2: Building the RAG Pipeline](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-2-building-the-rag-pipeline-3jf)
+- [Stop Coding Before You Crash: Predicting &quot;Geek Burnout&quot; with Real-time HRV and PyTorch 🧠💤](https://dev.to/wellallytech/stop-coding-before-you-crash-predicting-geek-burnout-with-real-time-hrv-and-pytorch-2jog)
 <!-- BLOG-POST-LIST:END -->
 
 
