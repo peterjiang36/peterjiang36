@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Faster PWA Icon Generator in a Weekend](https://dev.to/sivarampg/i-built-a-faster-pwa-icon-generator-in-a-weekend-li8)
-- [Teaching Clawdbot About Docker](https://dev.to/ajeetraina/teaching-clawdbot-about-docker-165g)
-- [How I use Claude Code to accelerate my software engineering job and improve my life](https://dev.to/juandj/how-i-use-claude-code-to-accelerate-my-software-engineering-job-and-improve-my-life-8o7)
-- [I saw Antigravity, I prompted, I conquered!](https://dev.to/usersam7/i-saw-antigravity-i-prompted-i-conquered-4102)
+- [How I Built an LLM Chat UI Better Than ChatGPT &lpar;As a Backend Engineer&rpar;](https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5)
+- [InfraForge v1.0.0 Launch On Republic Day](https://dev.to/infraforgelabs/infraforge-v100-launch-on-republic-day-32k7)
+- [Day 3: Basics of EMD](https://dev.to/libialany/day-3-basics-of-emd-29c8)
+- [Beyond the Exam: What It Really Takes to Win the Golden Jacket Everyone Dreams About!](https://dev.to/deadki001/beyond-the-exam-what-it-really-takes-to-win-the-golden-jacket-everyone-dreams-about-48)
 <!-- BLOG-POST-LIST:END -->
 
 
