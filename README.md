@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is this my last meet.js Summit?](https://dev.to/naugtur/is-this-my-last-meetjs-summit-1o5k)
-- [From Crashes to Acquisition: How Technical Decisions Stabilized Dividend.watch’s Product](https://dev.to/michalsimon/from-crashes-to-acquisition-how-technical-decisions-stabilized-dividendwatchs-product-iad)
-- [An Adventure in WebGL](https://dev.to/eachampagne/an-adventure-in-webgl-1a44)
-- [Lean Interfaces: Why Would a pH Meter Need `set_wavelength&lpar;&rpar;`?](https://dev.to/robjohnston/lean-interfaces-why-would-a-ph-meter-need-setwavelength-49d9)
+- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
+- [New Year, New Portfolio: How Google AI &amp; Cloud Run Powered ucupio.com](https://dev.to/maulana_yusufazmi_ddcea4/new-year-new-portfolio-how-google-ai-cloud-run-powered-ucupiocom-3jl6)
+- [Checkout Authentication and Conversion Rate](https://dev.to/corbado/checkout-authentication-and-conversion-rate-4j2h)
+- [Building Hallucination-Resistant AI Systems](https://dev.to/dextralabs/building-hallucination-resistant-ai-systems-5ak8)
 <!-- BLOG-POST-LIST:END -->
 
 
