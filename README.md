@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Emoji Search to Google Messages for Web](https://dev.to/js_bits_bill/adding-emoji-search-to-google-messages-for-web-7f5)
-- [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
-- [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/adewaleomosanya/understanding-cross-origin-resource-sharing-cors-55mc)
-- [Optimizing Elementor INP: Taming DOM Bloat for Pediatric Portals](https://dev.to/designtocodes/optimizing-elementor-inp-taming-dom-bloat-for-pediatric-portals-1850)
+- [Using AutoGen to automate wiki content](https://dev.to/dmo2000/using-autogen-to-automate-wiki-content-g8l)
+- [Architecting an AI-Powered Deal Sourcing Pipeline for Malaysian Real Estate](https://dev.to/navinder/architecting-an-ai-powered-deal-sourcing-pipeline-for-malaysian-real-estate-1ki6)
+- [Fix: Microphone Permissions Not Showing Up on Hackintosh &lpar;macOS Tahoe/Sonoma&rpar;](https://dev.to/jervi/fix-microphone-permissions-not-showing-up-on-hackintosh-macos-tahoesonoma-27an)
+- [npm vs npx: qual a diferença?](https://dev.to/juansev/npm-vs-npx-qual-a-diferenca-31e5)
 <!-- BLOG-POST-LIST:END -->
 
 
