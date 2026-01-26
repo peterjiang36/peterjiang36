@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
-- [Day 12 of 100](https://dev.to/palakhirave/day-12-of-100-2cj4)
-- [The Architect, Not the Mason: Elevating AI from Tool to Strategic Partner](https://dev.to/onlineproxy_io/the-architect-not-the-mason-elevating-ai-from-tool-to-strategic-partner-gm2)
-- [Why “just list all sports events” is much harder than it sounds](https://dev.to/ezeeyeyo/why-just-list-all-sports-events-is-much-harder-than-it-sounds-5625)
+- [Practical AI: Building Internal Tools That Actually Get Used](https://dev.to/vrej_sanati/practical-ai-building-internal-tools-that-actually-get-used-5fg8)
+- [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
+This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
+- [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
+- [Low-Noise EC2 Benchmarking: A Practical Guide](https://dev.to/kienmarkdo/low-noise-ec2-benchmarking-a-practical-guide-19f0)
 <!-- BLOG-POST-LIST:END -->
 
 
