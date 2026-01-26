@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical AI: Building Internal Tools That Actually Get Used](https://dev.to/vrej_sanati/practical-ai-building-internal-tools-that-actually-get-used-5fg8)
-- [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
-This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
-- [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
-- [Low-Noise EC2 Benchmarking: A Practical Guide](https://dev.to/kienmarkdo/low-noise-ec2-benchmarking-a-practical-guide-19f0)
+- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
+- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
+- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
+- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
 <!-- BLOG-POST-LIST:END -->
 
 
