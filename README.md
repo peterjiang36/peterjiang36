@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TCP VS UDP : Reliability vs Speed and HTTP must pick a side .](https://dev.to/kunal_dev/tcp-vs-udp-reliability-vs-speed-and-http-must-pick-a-side--4152)
-- [Stop Fighting YAML: I Built a Visual Docker Compose Architect to Fix It](https://dev.to/adavesik/stop-fighting-yaml-i-built-a-visual-docker-compose-architect-to-fix-it-m00)
-- [Devlog-OSS-Finder-03: Good First Issues and Testing](https://dev.to/barbora_klusackova/devlog-oss-finder-03-good-first-issues-and-testing-3k34)
-- [How to prove your code quality is better than just &quot;fixing bugs&quot; &lpar;and stop LoC-based performance reviews&rpar;](https://dev.to/dimitrisk_cyclopt/how-to-prove-your-code-quality-is-better-than-just-fixing-bugs-and-stop-loc-based-performance-46ba)
+- [Efficient Client-Side Background Removal with WebAssembly and JavaScript](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-background-removal-with-webassembly-and-javascript-555e)
+- [Build a Book Catalog Table](https://dev.to/richardpascoe/build-a-book-catalog-table-1g7i)
+- [FiQueLa — SQL-like Queries for Structured Files in PHP](https://dev.to/1biot/fiquela-sql-like-queries-for-structured-files-in-php-15p)
+- [How GitHub Copilot Helped Me Roast Its Own Users](https://dev.to/vignesh-j/how-github-copilot-helped-me-roast-its-own-users-4540)
 <!-- BLOG-POST-LIST:END -->
 
 
