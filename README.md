@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Content-Heavy Website for Long-Form Articles: Lessons Learned](https://dev.to/zile_lukic_0dfc1555abd33a/building-a-content-heavy-website-for-long-form-articles-lessons-learned-5bcj)
-- [SQL-Speak: AI-Powered Natural Language Interface for Databases](https://dev.to/certifiedsurvey/sql-speak-ai-powered-natural-language-interface-for-databases-1gci)
-- [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
-- [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
+- [Just completed the 2nd module](https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9)
+- [Understanding Virtual Machines: A Docker Journey Begins](https://dev.to/turjoc120/understanding-virtual-machines-a-docker-journey-begins-3ck2)
+- [WebSocket Implementation with Next.js &lpar;Node.js + React in One App&rpar;](https://dev.to/addwebsolutionpvtltd/websocket-implementation-with-nextjs-nodejs-react-in-one-app-gb6)
+- [Why I spent my weekend building a high-fidelity Skill Tree for Arc Raiders](https://dev.to/vaewick/why-i-spent-my-weekend-building-a-high-fidelity-skill-tree-for-arc-raiders-14ig)
 <!-- BLOG-POST-LIST:END -->
 
 
