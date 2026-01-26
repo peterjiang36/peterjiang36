@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking on a Budget: Running massive evals for 50% less with the Gemini Batch API ⚡️](https://dev.to/googleai/benchmarking-on-a-budget-running-massive-evals-for-50-less-with-the-gemini-batch-api-5d1j)
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/gathurum/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-2ck0)
-- [A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to.](https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j)
-- [Create Simple API using Express, Swagger UI](https://dev.to/shelner/create-simple-api-using-express-swagger-ui-18e3)
+- [Why Learning Basic SEO Helps Developers Build Better Websites](https://dev.to/kevin_joseph_/why-learning-basic-seo-helps-developers-build-better-websites-4kjp)
+- [Building a Modern POS Platform: Offline-First Operations with AI-Driven Marketing](https://dev.to/raj_bagchi/building-a-modern-pos-platform-offline-first-operations-with-ai-driven-marketing-122h)
+- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka)
+- [Beyond the Hoodie: What “Thinking Like an Attacker” Actually Means](https://dev.to/tauseef_imam_a06c68bb304a/beyond-the-hoodie-what-thinking-like-an-attacker-actually-means-506p)
 <!-- BLOG-POST-LIST:END -->
 
 
