@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q x GitHub Actions: Enhancing Your CI/CD Pipeline with Generative AI](https://dev.to/aws-builders/amazon-q-x-github-actions-enhancing-your-cicd-pipeline-with-generative-ai-555f)
-- [FlashFX Export System Documentation](https://dev.to/therealgabry/flashfx-export-system-documentation-32ac)
-- [Build a Collaborative Airtable-Style Data Grid in Next.js using AG Grid and Velt SDK](https://dev.to/astrodevil/build-a-collaborative-airtable-style-data-grid-in-nextjs-using-ag-grid-and-velt-sdk-6om)
-- [Normalization and Denormalization in Databases: Why They Matter](https://dev.to/suruliraajan/normalization-and-denormalization-in-databases-why-they-matter-2gnf)
+- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
+- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
+- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
+- [Debugging Dynamic Cookie Validation in Express.js](https://dev.to/jsdevrobin/debugging-dynamic-cookie-validation-in-expressjs-14dl)
 <!-- BLOG-POST-LIST:END -->
 
 
