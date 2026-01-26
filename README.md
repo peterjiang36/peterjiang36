@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Branding for Introverted Developers &lpar;Yes, It&#39;s Possible&rpar; 🚀](https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp)
-- [How to pass the CKA Exam on the first try [GUARANTEED]](https://dev.to/monarene/how-to-pass-the-cka-exam-on-the-first-try-guaranteed-44jf)
-- [Ridge vs. Lasso Regression: A Clear Guide to Regularization Techniques](https://dev.to/kenyansa/ridge-vs-lasso-regression-a-clear-guide-to-regularization-techniques-14nn)
-- [Debugging Dynamic Cookie Validation in Express.js](https://dev.to/jsdevrobin/debugging-dynamic-cookie-validation-in-expressjs-14dl)
+- [Rewriting My First NUnit API Tests: Cleaner, Faster, Better](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
+- [How To Fix Race Condition in Go: Part 2](https://dev.to/ganesh-kumar/how-to-fix-race-condition-in-go-part-2-4k44)
+- [The Fourth Industrial Revolution &quot;4IR&quot;: The Birth of Synthia the 11th Art By Adel Abdel-Dayem](https://dev.to/adel_dayem/the-fourth-industrial-revolution-4ir-the-birth-of-synthia-the-11th-art-by-adel-abdel-dayem-8fm)
+- [How I passed AWS DevOps Professional in under 3 months while working full-time](https://dev.to/jzmt/how-i-passed-aws-devops-professional-in-under-3-months-while-working-full-time-1fcd)
 <!-- BLOG-POST-LIST:END -->
 
 
