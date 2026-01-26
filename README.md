@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an LLM Chat UI Better Than ChatGPT &lpar;As a Backend Engineer&rpar;](https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5)
-- [InfraForge v1.0.0 Launch On Republic Day](https://dev.to/infraforgelabs/infraforge-v100-launch-on-republic-day-32k7)
-- [Day 3: Basics of EMD](https://dev.to/libialany/day-3-basics-of-emd-29c8)
-- [Beyond the Exam: What It Really Takes to Win the Golden Jacket Everyone Dreams About!](https://dev.to/deadki001/beyond-the-exam-what-it-really-takes-to-win-the-golden-jacket-everyone-dreams-about-48)
+- [Benchmarking on a Budget: Running massive evals for 50% less with the Gemini Batch API ⚡️](https://dev.to/googleai/benchmarking-on-a-budget-running-massive-evals-for-50-less-with-the-gemini-batch-api-5d1j)
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/gathurum/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-2ck0)
+- [A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to.](https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j)
+- [Create Simple API using Express, Swagger UI](https://dev.to/shelner/create-simple-api-using-express-swagger-ui-18e3)
 <!-- BLOG-POST-LIST:END -->
 
 
