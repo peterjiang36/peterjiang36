@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Just completed the 2nd module](https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9)
-- [Understanding Virtual Machines: A Docker Journey Begins](https://dev.to/turjoc120/understanding-virtual-machines-a-docker-journey-begins-3ck2)
-- [WebSocket Implementation with Next.js &lpar;Node.js + React in One App&rpar;](https://dev.to/addwebsolutionpvtltd/websocket-implementation-with-nextjs-nodejs-react-in-one-app-gb6)
-- [Why I spent my weekend building a high-fidelity Skill Tree for Arc Raiders](https://dev.to/vaewick/why-i-spent-my-weekend-building-a-high-fidelity-skill-tree-for-arc-raiders-14ig)
+- [Is this my last meet.js Summit?](https://dev.to/naugtur/is-this-my-last-meetjs-summit-1o5k)
+- [From Crashes to Acquisition: How Technical Decisions Stabilized Dividend.watch’s Product](https://dev.to/michalsimon/from-crashes-to-acquisition-how-technical-decisions-stabilized-dividendwatchs-product-iad)
+- [An Adventure in WebGL](https://dev.to/eachampagne/an-adventure-in-webgl-1a44)
+- [Lean Interfaces: Why Would a pH Meter Need `set_wavelength&lpar;&rpar;`?](https://dev.to/robjohnston/lean-interfaces-why-would-a-ph-meter-need-setwavelength-49d9)
 <!-- BLOG-POST-LIST:END -->
 
 
