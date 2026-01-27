@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? 3163 Delayed due to weather.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3163-delayed-due-to-weather-42ag)
-- [Offline-first without a backend: a local-first PWA architecture you can trust](https://dev.to/crisiscoresystems/offline-first-without-a-backend-a-local-first-pwa-architecture-you-can-trust-3j15)
-- [Introduction to Excel For DATA Analysis](https://dev.to/robert_njuguna/introduction-to-excel-for-data-analysis-2f04)
-- [Introducing Postman Code - Making Agents Better At Integrating APIs](https://dev.to/joshed/introducing-postman-code-making-agents-better-at-integrating-apis-4efo)
+- [How to Build Production AI Agents with an MCP Gateway](https://dev.to/debmckinney/how-to-build-production-ai-agents-with-an-mcp-gateway-2b82)
+- [[SUI] Table](https://dev.to/david_goyes_a488f58a17a53/sui-244m)
+- [The Features I Refused to Build in SkillFade](https://dev.to/ruhidibadli/the-features-i-refused-to-build-in-skillfade-3c2f)
+- [Building an MCP Gateway: Lessons from Production](https://dev.to/pranay_batta/building-an-mcp-gateway-lessons-from-production-3f6i)
 <!-- BLOG-POST-LIST:END -->
 
 
