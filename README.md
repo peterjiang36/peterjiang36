@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a RAG as a second brain](https://dev.to/maptonik/i-built-a-rag-as-a-second-brain-407a)
-- [The MCP Server Stack: 10 Open Source Essentials for 2026](https://dev.to/techlatest-ai/the-mcp-server-stack-10-open-source-essentials-for-2026-44k8)
-- [Bubble Mobile Crash Course: Build a Real App from Scratch](https://dev.to/ebereplenty/bubble-mobile-crash-course-build-a-real-app-from-scratch-299f)
-- [Build a Full Cart, Ordering &amp; Stripe Payment System in Bubble &lpar;Canvas Framework&rpar;](https://dev.to/ebereplenty/build-a-full-cart-ordering-stripe-payment-system-in-bubble-canvas-framework-558)
+- [Solved: Please stop recommending ChatGPT for logo design.](https://dev.to/techresolve/solved-please-stop-recommending-chatgpt-for-logo-design-5beg)
+- [MCP Server: Talk to Your Architecture from Your Favorite AI Tools](https://dev.to/eko/mcp-server-talk-to-your-architecture-from-your-favorite-ai-tools-4o86)
+- [Building a Nim library: Monika](https://dev.to/aranadedoros/building-a-nim-library-monika-5hmb)
+- [Crumbling Promises of a Safer Humanity](https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo)
 <!-- BLOG-POST-LIST:END -->
 
 
