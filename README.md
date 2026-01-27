@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
-- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
-- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
-- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
+- [Detección de Intención: El fin de los ataques Evil Twin y el Ransomware mediante Blindaje Híbrido](https://dev.to/abel_rosmel_ca056b/deteccion-de-intencion-el-fin-de-los-ataques-evil-twin-y-el-ransomware-mediante-blindaje-hibrido-1hih)
+- [🇰🇷 The 6-step struggle to donate crypto in South Korea](https://dev.to/crypto_melania/the-6-step-struggle-to-donate-crypto-in-south-korea-6e1)
+- [INTRODUCTION TO MS EXCEL](https://dev.to/victor_ds/introduction-to-ms-excel-1fg2)
+- [OCP — Open/Closed Principle &lpar;Princípio Aberto/Fechado&rpar;](https://dev.to/yuripeixinho/ocp-openclosed-principle-principio-abertofechado-1n31)
 <!-- BLOG-POST-LIST:END -->
 
 
