@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Will Replace Your Design](https://dev.to/focused_dot_io/context-will-replace-your-design-l94)
-- [🛤️ Beginner-Friendly Guide &#39;Minimum Cost Path with Edge Reversals&#39; - LeetCode 3650 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-edge-reversals-leetcode-3650-c-python-3ebl)
-- [RAG desde cero con Ruby](https://dev.to/danielpenaloza/rag-desde-cero-con-ruby-42jb)
-- [I built a rate limiter that&#39;s 9x faster than rate-limiter-flexible - benchmarks included](https://dev.to/shayanhussainsb/i-built-a-rate-limiter-thats-9x-faster-than-rate-limiter-flexible-benchmarks-included-3409)
+- [Problem 11: Count Character Frequency](https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9)
+- [Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!](https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9)
+- [BSON to JSON: The Python Way](https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9)
+- [How I Actually Use AI as a Developer &lpar;And Where It Still Breaks&rpar;](https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih)
 <!-- BLOG-POST-LIST:END -->
 
 
