@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem 11: Count Character Frequency](https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9)
-- [Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!](https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9)
-- [BSON to JSON: The Python Way](https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9)
-- [How I Actually Use AI as a Developer &lpar;And Where It Still Breaks&rpar;](https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih)
+- [I Built a Solana Waitlist for a Fake $10k Bounty - Here&#39;s the Open Source Code](https://dev.to/sivarampg/i-built-a-solana-waitlist-for-a-fake-10k-bounty-heres-the-open-source-code-e78)
+- [Why QA Fails Without Fragmentation &lpar;and How Fragmentation Protects Systems&rpar;](https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0)
+- [My tech blogs got deleted. So I engineered an unbannable &quot;Dual-Core&quot; Reader with Next.js &amp; Nostr.](https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8)
+- [Can a Countertop Wine Fridge Fit Your Lifestyle and Budget?](https://dev.to/hemant546/can-a-countertop-wine-fridge-fit-your-lifestyle-and-budget-37he)
 <!-- BLOG-POST-LIST:END -->
 
 
