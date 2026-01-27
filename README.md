@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[PostGIS/PgRouting] With french routable data](https://dev.to/julsbreakdown/postgispgrouting-with-french-routable-data-5dpb)
-- [I was tired of database tools — so I started building my own](https://dev.to/debba/i-was-tired-of-database-tools-so-i-started-building-my-own-3kia)
-- [JDK, JRE, JVM, JIT](https://dev.to/nanthini_ammu_ac02ad32802/jdk-jre-jvm-jit-3kbe)
-- [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
+- [How I Kept My AI News Platform Under $3/Day With Two Simple Patterns](https://dev.to/globalperspectives/how-i-kept-my-ai-news-platform-under-3day-with-two-simple-patterns-4og9)
+- [# How I Built a Full-Stack Auth System with JWT, Email Verification &amp; Admin Panel &lpar;MERN + TypeScript&rpar;](https://dev.to/favour_omotosho_9c40b73ac/-how-i-built-a-full-stack-auth-system-with-jwt-email-verification-admin-panel-mern--f70)
+- [🦆 Stop Copy-Pasting Between AI Tabs — Use MCP Rubber Duck Instead](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
+- [Laravel Event Sourcing: From Aggregates to Projectors](https://dev.to/addwebsolutionpvtltd/laravel-event-sourcing-from-aggregates-to-projectors-3lj8)
 <!-- BLOG-POST-LIST:END -->
 
 
