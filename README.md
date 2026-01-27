@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Serverless i18n API with AWS Nova Lite &lpar;Bedrock&rpar;: Why Cheap Tokens Matter &lpar;A Lot&rpar;](https://dev.to/aws-builders/building-a-serverless-i18n-api-with-aws-nova-lite-bedrock-why-cheap-tokens-matter-a-lot-1lp6)
-- [Designing a Scalable Wallet System for Modern Fintech Applications](https://dev.to/priyanka_5ea7b93552aa7dd0/designing-a-scalable-wallet-system-for-modern-fintech-applications-4893)
-- [Hash Tables Demystified: A Complete Guide with PHP Implementation](https://dev.to/ali_algmass/hash-tables-demystified-a-complete-guide-with-php-implementation-4fc9)
-- [The “No-Flicker” Addressable LED Strip Build &lpar;ESP32/WLED&rpar;: Power, Signal, and Safety in One Checklist](https://dev.to/emma-suntech/the-no-flicker-addressable-led-strip-build-esp32wled-power-signal-and-safety-in-one-1agl)
+- [Understanding Routing and Single Page Applications in React &lpar;A Beginner’s Perspective&rpar;](https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68)
+- [Build Your AI-Powered Second Brain](https://dev.to/lin_liang_7f755b0dc2fe65b/build-your-ai-powered-second-brain-4n59)
+- [I Made an AI Template That Clones Any Website to Next.js &lpar;Works with Cheaper Models Too&rpar;](https://dev.to/aleadr/i-made-an-ai-template-that-clones-any-website-to-nextjs-works-with-cheaper-models-too-l7h)
+- [What would I do without AI?](https://dev.to/mayashavin/what-would-i-do-without-ai-51ik)
 <!-- BLOG-POST-LIST:END -->
 
 
