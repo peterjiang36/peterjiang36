@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Running Metronome App to Solve My Pacing Problem](https://dev.to/pipeabellos/i-built-a-running-metronome-app-to-f5p)
-- [Data Engineering ZoomCamp Module 1 Notes Part 2](https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871)
-- [Stop Guessing Your Macros: Building a High-Precision Calorie Tracker with SAM &amp; GPT-4o 🥗🚀](https://dev.to/wellallytech/stop-guessing-your-macros-building-a-high-precision-calorie-tracker-with-sam-gpt-4o-32gm)
-- [Ruby Deserves Better Documentation Tools](https://dev.to/sanifhimani/ruby-deserves-better-documentation-tools-5j)
+- [Contact Forms Were Overkill, So I Built a Simple Floating Contact Button](https://dev.to/lewisushindi/contact-forms-were-overkill-so-i-built-a-simple-floating-contact-button-317d)
+- [EVENT-DRIVEN ARCHITECTURE &lpar;EDA&rpar;](https://dev.to/aman04/event-driven-architecture-eda-1d98)
+- [Context-Driven Development Experiment 4: Normalizing CLI Commands with Claude Code and TDD](https://dev.to/imdone/context-driven-development-experiment-4-normalizing-cli-commands-with-claude-code-and-tdd-5247)
+- [JAVA REALITY !!](https://dev.to/aman04/java-reality--40nf)
 <!-- BLOG-POST-LIST:END -->
 
 
