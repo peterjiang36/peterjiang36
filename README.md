@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brainstorming time fellow devs!!!](https://dev.to/itsugo/brainstorming-time-fellow-devs-2fe0)
-- [CinemaSins: Everything Wrong With Sisu In 13 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sisu-in-13-minutes-or-less-5b8f)
-- [🔴 Live: Kilo Code on Product Hunt](https://dev.to/fmerian/live-kilo-code-on-product-hunt-ee8)
-- [The Agentic AI Maturity Gap: Orchestration + Observability + Auditability = Governance](https://dev.to/talweezy/the-agentic-ai-maturity-gap-orchestration-observability-auditability-governance-19op)
+- [What are your goals for the week? 3163 Delayed due to weather.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3163-delayed-due-to-weather-42ag)
+- [Offline-first without a backend: a local-first PWA architecture you can trust](https://dev.to/crisiscoresystems/offline-first-without-a-backend-a-local-first-pwa-architecture-you-can-trust-3j15)
+- [Introduction to Excel For DATA Analysis](https://dev.to/robert_njuguna/introduction-to-excel-for-data-analysis-2f04)
+- [Introducing Postman Code - Making Agents Better At Integrating APIs](https://dev.to/joshed/introducing-postman-code-making-agents-better-at-integrating-apis-4efo)
 <!-- BLOG-POST-LIST:END -->
 
 
