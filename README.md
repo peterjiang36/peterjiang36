@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Solana Waitlist for a Fake $10k Bounty - Here&#39;s the Open Source Code](https://dev.to/sivarampg/i-built-a-solana-waitlist-for-a-fake-10k-bounty-heres-the-open-source-code-e78)
-- [Why QA Fails Without Fragmentation &lpar;and How Fragmentation Protects Systems&rpar;](https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0)
-- [My tech blogs got deleted. So I engineered an unbannable &quot;Dual-Core&quot; Reader with Next.js &amp; Nostr.](https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8)
-- [Can a Countertop Wine Fridge Fit Your Lifestyle and Budget?](https://dev.to/hemant546/can-a-countertop-wine-fridge-fit-your-lifestyle-and-budget-37he)
+- [Karpathy&#39;s Claude Code Field Notes: Real Experience and Deep Reflections on the AI Programming Era](https://dev.to/jasonguo/karpathys-claude-code-field-notes-real-experience-and-deep-reflections-on-the-ai-programming-era-4e2f)
+- [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
+- [I built a free online Mermaid diagram editor with storage/sharing](https://dev.to/platformlab/i-built-a-free-online-mermaid-diagram-editor-with-storagesharing-3g1o)
+- [The Secret Life of Go: JSON and Tags](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-json-and-tags-4h9m)
 <!-- BLOG-POST-LIST:END -->
 
 
