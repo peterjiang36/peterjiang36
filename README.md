@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Contact Forms Were Overkill, So I Built a Simple Floating Contact Button](https://dev.to/lewisushindi/contact-forms-were-overkill-so-i-built-a-simple-floating-contact-button-317d)
-- [EVENT-DRIVEN ARCHITECTURE &lpar;EDA&rpar;](https://dev.to/aman04/event-driven-architecture-eda-1d98)
-- [Context-Driven Development Experiment 4: Normalizing CLI Commands with Claude Code and TDD](https://dev.to/imdone/context-driven-development-experiment-4-normalizing-cli-commands-with-claude-code-and-tdd-5247)
-- [JAVA REALITY !!](https://dev.to/aman04/java-reality--40nf)
+- [Context Will Replace Your Design](https://dev.to/focused_dot_io/context-will-replace-your-design-l94)
+- [🛤️ Beginner-Friendly Guide &#39;Minimum Cost Path with Edge Reversals&#39; - LeetCode 3650 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-edge-reversals-leetcode-3650-c-python-3ebl)
+- [RAG desde cero con Ruby](https://dev.to/danielpenaloza/rag-desde-cero-con-ruby-42jb)
+- [I built a rate limiter that&#39;s 9x faster than rate-limiter-flexible - benchmarks included](https://dev.to/shayanhussainsb/i-built-a-rate-limiter-thats-9x-faster-than-rate-limiter-flexible-benchmarks-included-3409)
 <!-- BLOG-POST-LIST:END -->
 
 
