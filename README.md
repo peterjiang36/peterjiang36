@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Script - Find Largest File](https://dev.to/ben-santora/bash-script-find-largest-file-5f98)
-- [WEB3, CRIPTOCURRENCIES and NFT resources for OSINT investigations](https://dev.to/darkbranchcore/web3-criptocurrencies-and-nft-resources-for-osint-investigations-2n2b)
-- [AI Coding Tip 004 - Use Modular Skills](https://dev.to/mcsee/ai-coding-tip-004-use-modular-skills-g97)
-- [Digitising Vinyls Using Audacity &amp; a Raspberry Pi](https://dev.to/charlottetowell/digitising-vinyls-using-audacity-a-raspberry-pi-54o7)
+- [[PostGIS/PgRouting] With french routable data](https://dev.to/julsbreakdown/postgispgrouting-with-french-routable-data-5dpb)
+- [I was tired of database tools — so I started building my own](https://dev.to/debba/i-was-tired-of-database-tools-so-i-started-building-my-own-3kia)
+- [JDK, JRE, JVM, JIT](https://dev.to/nanthini_ammu_ac02ad32802/jdk-jre-jvm-jit-3kbe)
+- [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
 <!-- BLOG-POST-LIST:END -->
 
 
