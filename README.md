@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
-- [Building an AI Meeting Scheduler with n8n, Gmail, and Google Calendar](https://dev.to/hackceleration/building-an-ai-meeting-scheduler-with-n8n-gmail-and-google-calendar-2480)
-- [How Docker Compose works](https://dev.to/meghasharmaaaa/how-compose-works-3fjn)
-- [Handling Multiple Data Sources in DeFi Frontend Architecture](https://dev.to/92srdjan/handling-multiple-data-sources-in-defi-frontend-architecture-27kk)
+- [Bash Script - Find Largest File](https://dev.to/ben-santora/bash-script-find-largest-file-5f98)
+- [WEB3, CRIPTOCURRENCIES and NFT resources for OSINT investigations](https://dev.to/darkbranchcore/web3-criptocurrencies-and-nft-resources-for-osint-investigations-2n2b)
+- [AI Coding Tip 004 - Use Modular Skills](https://dev.to/mcsee/ai-coding-tip-004-use-modular-skills-g97)
+- [Digitising Vinyls Using Audacity &amp; a Raspberry Pi](https://dev.to/charlottetowell/digitising-vinyls-using-audacity-a-raspberry-pi-54o7)
 <!-- BLOG-POST-LIST:END -->
 
 
