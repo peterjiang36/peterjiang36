@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Detección de Intención: El fin de los ataques Evil Twin y el Ransomware mediante Blindaje Híbrido](https://dev.to/abel_rosmel_ca056b/deteccion-de-intencion-el-fin-de-los-ataques-evil-twin-y-el-ransomware-mediante-blindaje-hibrido-1hih)
-- [🇰🇷 The 6-step struggle to donate crypto in South Korea](https://dev.to/crypto_melania/the-6-step-struggle-to-donate-crypto-in-south-korea-6e1)
-- [INTRODUCTION TO MS EXCEL](https://dev.to/victor_ds/introduction-to-ms-excel-1fg2)
-- [OCP — Open/Closed Principle &lpar;Princípio Aberto/Fechado&rpar;](https://dev.to/yuripeixinho/ocp-openclosed-principle-principio-abertofechado-1n31)
+- [I Built a Running Metronome App to Solve My Pacing Problem](https://dev.to/pipeabellos/i-built-a-running-metronome-app-to-f5p)
+- [Data Engineering ZoomCamp Module 1 Notes Part 2](https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871)
+- [Stop Guessing Your Macros: Building a High-Precision Calorie Tracker with SAM &amp; GPT-4o 🥗🚀](https://dev.to/wellallytech/stop-guessing-your-macros-building-a-high-precision-calorie-tracker-with-sam-gpt-4o-32gm)
+- [Ruby Deserves Better Documentation Tools](https://dev.to/sanifhimani/ruby-deserves-better-documentation-tools-5j)
 <!-- BLOG-POST-LIST:END -->
 
 
