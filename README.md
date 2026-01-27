@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Kept My AI News Platform Under $3/Day With Two Simple Patterns](https://dev.to/globalperspectives/how-i-kept-my-ai-news-platform-under-3day-with-two-simple-patterns-4og9)
-- [# How I Built a Full-Stack Auth System with JWT, Email Verification &amp; Admin Panel &lpar;MERN + TypeScript&rpar;](https://dev.to/favour_omotosho_9c40b73ac/-how-i-built-a-full-stack-auth-system-with-jwt-email-verification-admin-panel-mern--f70)
-- [🦆 Stop Copy-Pasting Between AI Tabs — Use MCP Rubber Duck Instead](https://dev.to/nesquikm/stop-copy-pasting-between-ai-tabs-use-mcp-rubber-duck-instead-3j8e)
-- [Laravel Event Sourcing: From Aggregates to Projectors](https://dev.to/addwebsolutionpvtltd/laravel-event-sourcing-from-aggregates-to-projectors-3lj8)
+- [I built a RAG as a second brain](https://dev.to/maptonik/i-built-a-rag-as-a-second-brain-407a)
+- [The MCP Server Stack: 10 Open Source Essentials for 2026](https://dev.to/techlatest-ai/the-mcp-server-stack-10-open-source-essentials-for-2026-44k8)
+- [Bubble Mobile Crash Course: Build a Real App from Scratch](https://dev.to/ebereplenty/bubble-mobile-crash-course-build-a-real-app-from-scratch-299f)
+- [Build a Full Cart, Ordering &amp; Stripe Payment System in Bubble &lpar;Canvas Framework&rpar;](https://dev.to/ebereplenty/build-a-full-cart-ordering-stripe-payment-system-in-bubble-canvas-framework-558)
 <!-- BLOG-POST-LIST:END -->
 
 
