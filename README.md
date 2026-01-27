@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great AI Shift: Why Building Models is Out, and Real-Time AI Integration is In](https://dev.to/vatsal_a8867b73c89f9f2127/the-great-ai-shift-why-building-models-is-out-and-real-time-ai-integration-is-in-9d)
-- [What’s New in Oracle AI Database 26ai? Exploring 50+ Major New Features](https://dev.to/vahidusefzadeh/whats-new-in-oracle-ai-database-26ai-exploring-50-major-new-features-5cph)
-- [Challenge: Build a TLS Certificate Security Validator](https://dev.to/fosres/challenge-build-a-tls-certificate-security-validator-3acn)
-- [MANic&#39;s portfolio](https://dev.to/manojsingh00963/manics-portfolio-18ol)
+- [Clean Architecture in .NET 10: Why Your Code Turns Into Spaghetti &lpar;And How to Prevent It&rpar;](https://dev.to/spanntechwizard/clean-architecture-in-net-10-why-your-code-turns-into-spaghetti-and-how-to-prevent-it-3cam)
+- [What a 60-second war-room scan reveals](https://dev.to/shamsher_khan/what-a-60-second-war-room-scan-reveals-352i)
+- [burnout in learning](https://dev.to/fern_d3v/burnout-in-learning-4fb6)
+- [I Reviewed Full-Stack Job Postings for 2026. Here is what they are looking for!💼](https://dev.to/francistrdev/i-reviewed-full-stack-job-postings-for-2026-here-is-what-they-are-looking-for-49ie)
 <!-- BLOG-POST-LIST:END -->
 
 
