@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Please stop recommending ChatGPT for logo design.](https://dev.to/techresolve/solved-please-stop-recommending-chatgpt-for-logo-design-5beg)
-- [MCP Server: Talk to Your Architecture from Your Favorite AI Tools](https://dev.to/eko/mcp-server-talk-to-your-architecture-from-your-favorite-ai-tools-4o86)
-- [Building a Nim library: Monika](https://dev.to/aranadedoros/building-a-nim-library-monika-5hmb)
-- [Crumbling Promises of a Safer Humanity](https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo)
+- [Brainstorming time fellow devs!!!](https://dev.to/itsugo/brainstorming-time-fellow-devs-2fe0)
+- [CinemaSins: Everything Wrong With Sisu In 13 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sisu-in-13-minutes-or-less-5b8f)
+- [🔴 Live: Kilo Code on Product Hunt](https://dev.to/fmerian/live-kilo-code-on-product-hunt-ee8)
+- [The Agentic AI Maturity Gap: Orchestration + Observability + Auditability = Governance](https://dev.to/talweezy/the-agentic-ai-maturity-gap-orchestration-observability-auditability-governance-19op)
 <!-- BLOG-POST-LIST:END -->
 
 
