@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in .NET 10: Why Your Code Turns Into Spaghetti &lpar;And How to Prevent It&rpar;](https://dev.to/spanntechwizard/clean-architecture-in-net-10-why-your-code-turns-into-spaghetti-and-how-to-prevent-it-3cam)
-- [What a 60-second war-room scan reveals](https://dev.to/shamsher_khan/what-a-60-second-war-room-scan-reveals-352i)
-- [burnout in learning](https://dev.to/fern_d3v/burnout-in-learning-4fb6)
-- [I Reviewed Full-Stack Job Postings for 2026. Here is what they are looking for!💼](https://dev.to/francistrdev/i-reviewed-full-stack-job-postings-for-2026-here-is-what-they-are-looking-for-49ie)
+- [Apache Data Lakehouse Weekly: January 20–27, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-20-27-2026-4gc7)
+- [AI Coding Dominates 2026: Week of January 20-27](https://dev.to/alexmercedcoder/ai-coding-dominates-2026-week-of-january-20-27-7lc)
+- [Lessons from Shipping a Multi-Vendor Marketplace to Production](https://dev.to/arbythecoder/lessons-from-shipping-a-multi-vendor-marketplace-to-production-5fl6)
+- [Stop wasting hours on Claude Code Pro&#39;s session cooldown](https://dev.to/sleeyax/stop-wasting-hours-on-claude-code-pros-session-cooldown-4mak)
 <!-- BLOG-POST-LIST:END -->
 
 
