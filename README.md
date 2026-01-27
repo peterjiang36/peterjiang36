@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Routing and Single Page Applications in React &lpar;A Beginner’s Perspective&rpar;](https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68)
-- [Build Your AI-Powered Second Brain](https://dev.to/lin_liang_7f755b0dc2fe65b/build-your-ai-powered-second-brain-4n59)
-- [I Made an AI Template That Clones Any Website to Next.js &lpar;Works with Cheaper Models Too&rpar;](https://dev.to/aleadr/i-made-an-ai-template-that-clones-any-website-to-nextjs-works-with-cheaper-models-too-l7h)
-- [What would I do without AI?](https://dev.to/mayashavin/what-would-i-do-without-ai-51ik)
+- [Inheritance vs Abstraction in Java: Why Abstract Classes Exist?](https://dev.to/mumbocoder/inheritance-vs-abstraction-in-java-why-abstract-classes-exist-1ob3)
+- [The First Thing I Installed on My Raspberry Pi &lpar;and how it quietly broke my entire home internet&rpar;](https://dev.to/sidbathi/the-first-thing-i-installed-on-my-raspberry-pi-and-how-it-quietly-broke-my-entire-home-internet-59mn)
+- [Encoding an Encoder for my own Encoding with the Encoder](https://dev.to/hideaki_shimizu_75b25756f/encoding-an-encoder-for-my-own-encoding-with-the-encoder-2c1c)
+- [Extension I use daily](https://dev.to/dshaw0004/extension-i-use-daily-25oh)
 <!-- BLOG-POST-LIST:END -->
 
 
