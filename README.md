@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Karpathy&#39;s Claude Code Field Notes: Real Experience and Deep Reflections on the AI Programming Era](https://dev.to/jasonguo/karpathys-claude-code-field-notes-real-experience-and-deep-reflections-on-the-ai-programming-era-4e2f)
-- [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
-- [I built a free online Mermaid diagram editor with storage/sharing](https://dev.to/platformlab/i-built-a-free-online-mermaid-diagram-editor-with-storagesharing-3g1o)
-- [The Secret Life of Go: JSON and Tags](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-json-and-tags-4h9m)
+- [Building a Serverless i18n API with AWS Nova Lite &lpar;Bedrock&rpar;: Why Cheap Tokens Matter &lpar;A Lot&rpar;](https://dev.to/aws-builders/building-a-serverless-i18n-api-with-aws-nova-lite-bedrock-why-cheap-tokens-matter-a-lot-1lp6)
+- [Designing a Scalable Wallet System for Modern Fintech Applications](https://dev.to/priyanka_5ea7b93552aa7dd0/designing-a-scalable-wallet-system-for-modern-fintech-applications-4893)
+- [Hash Tables Demystified: A Complete Guide with PHP Implementation](https://dev.to/ali_algmass/hash-tables-demystified-a-complete-guide-with-php-implementation-4fc9)
+- [The “No-Flicker” Addressable LED Strip Build &lpar;ESP32/WLED&rpar;: Power, Signal, and Safety in One Checklist](https://dev.to/emma-suntech/the-no-flicker-addressable-led-strip-build-esp32wled-power-signal-and-safety-in-one-1agl)
 <!-- BLOG-POST-LIST:END -->
 
 
