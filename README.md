@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Production AI Agents with an MCP Gateway](https://dev.to/debmckinney/how-to-build-production-ai-agents-with-an-mcp-gateway-2b82)
-- [[SUI] Table](https://dev.to/david_goyes_a488f58a17a53/sui-244m)
-- [The Features I Refused to Build in SkillFade](https://dev.to/ruhidibadli/the-features-i-refused-to-build-in-skillfade-3c2f)
-- [Building an MCP Gateway: Lessons from Production](https://dev.to/pranay_batta/building-an-mcp-gateway-lessons-from-production-3f6i)
+- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
+- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
+- [I Built a PDF Tool Because I Didn’t Trust PDF Tools](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-tool-because-i-didnt-trust-pdf-tools-43gm)
+- [Pourquoi j&#39;ai créé un projet pour apprendre GitLab CI/CD &lpar;et pourquoi la doc ne suffit pas&rpar;](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)
 <!-- BLOG-POST-LIST:END -->
 
 
