@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Machine Learning Systems: The Only ML Book That Doesn&#39;t Waste Your Damn Time](https://dev.to/ii-x/designing-machine-learning-systems-the-only-ml-book-that-doesnt-waste-your-damn-time-4pg3)
-- [State Pension vs. Private Pension: The Basics for New Tech Employees in Europe](https://dev.to/piotr-get-talent/state-pension-vs-private-pension-the-basics-for-new-tech-employees-in-europe-5aaf)
-- [Who Am I &amp; What Do I Do? A Journey into Serverless Architecture &amp; Full-Stack Engineering 🚀](https://dev.to/abhay_prajapati/who-am-i-what-do-i-do-a-journey-into-serverless-architecture-full-stack-engineering-53i5)
-- [I’m building a small tool to help people understand relationship misunderstandings](https://dev.to/cherry_yan_871261020c032a/im-building-a-small-tool-to-help-people-understand-relationship-misunderstandings-4kfn)
+- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f)
+- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97)
+- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
+- [Jinja2TT2: Jinja2 to Template Toolkit Transpiler](https://dev.to/lucianofedericopereira/jinja2tt2-jinja2-to-template-toolkit-transpiler-4ge8)
 <!-- BLOG-POST-LIST:END -->
 
 
