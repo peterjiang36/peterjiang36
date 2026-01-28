@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda: Deactivate Inactive IAM Keys](https://dev.to/anil_kumar_noolu/aws-lambda-deactivate-inactive-iam-keys-26gh)
-- [CVE-2024-4990: Magic Methods, Tragic Endings: RCE in Yii2 via Unsafe Reflection](https://dev.to/cverports/cve-2024-4990-magic-methods-tragic-endings-rce-in-yii2-via-unsafe-reflection-40d2)
-- [HTML Tables and Forms Review](https://dev.to/richardpascoe/html-tables-and-forms-review-5146)
-- [GA4 101: ทำไม Developer ถึงต้องเข้าใจ Google Analytics 4 &lpar;Data Model ที่เปลี่ยนไป?&rpar;](https://dev.to/sonnavigator/ga4-101-thamaim-developer-thuengtngekhaaaicch-google-analytics-4-data-model-thiiepliiynaip-3kn3)
+- [ReactJS Hook Pattern ~ImperativeHandle with useImperativeHandle~](https://dev.to/kkr0423/reactjs-hook-pattern-imperativehandle-with-useimperativehandle-42ac)
+- [From Animation to Game Feel: My RPG Battle System Development Log](https://dev.to/kenjidev9662/from-animation-to-game-feel-my-rpg-battle-system-development-log-1n7h)
+- [XML Tag Counter: A PowerShell Script That Saved Me Hours &lpar;And Can Save You Too!&rpar;](https://dev.to/spirosendgr/xml-tag-counter-a-powershell-script-that-saved-me-hours-and-can-save-you-too-119k)
+- [In-Memory Caching with Caffeine: Why You Don’t Always Need Redis &lpar;Right Away&rpar;](https://dev.to/anish-anantharaman/in-memory-caching-with-caffeine-why-you-dont-always-need-redis-right-away-3992)
 <!-- BLOG-POST-LIST:END -->
 
 
