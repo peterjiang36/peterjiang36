@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Baddest MF in the Valley: A Statement of Posture](https://dev.to/flavioespinoza/the-baddest-mf-in-the-valley-a-statement-of-posture-2eed)
-- [MCP Weekly: Signals of Enterprise-Grade Agentic AI &lpar;Jan 2026&rpar;](https://dev.to/om_shree_0709/mcp-weekly-signals-of-enterprise-grade-agentic-ai-jan-2026-kp0)
-- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
-- [🌀 Beginner-Friendly Guide &#39;Minimum Cost Path with Teleportations&#39; - LeetCode 3651 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
+- [The End of the Terminal Search Journey: An Ideal Environment Found with Ghostty and Yazi](https://dev.to/takashi_abe_c6e5ce4004697/the-end-of-the-terminal-search-journey-an-ideal-environment-found-with-ghostty-and-yazi-4ibp)
+- [5 AI Prompting Mistakes Developers Make](https://dev.to/manukumar07/5-ai-prompting-mistakes-developers-make-25fa)
+- [Comparing Validatar to CsvPath Validation](https://dev.to/david_kershaw_b6916404da6/comparing-validatar-to-csvpath-validation-1m4o)
+- [Graphic Design Trends In 2026](https://dev.to/souptikdn/graphic-design-trends-in-2026-m74)
 <!-- BLOG-POST-LIST:END -->
 
 
