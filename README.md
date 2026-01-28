@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f)
-- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97)
-- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
-- [Jinja2TT2: Jinja2 to Template Toolkit Transpiler](https://dev.to/lucianofedericopereira/jinja2tt2-jinja2-to-template-toolkit-transpiler-4ge8)
+- [The AI Data Trap: Why You Can&#39;t Opt Out](https://dev.to/evoleinik/the-ai-data-trap-why-you-cant-opt-out-4oo1)
+- [How to Enable Duo MFA on GCP Windows VMs for Compliance in 10 Minutes](https://dev.to/0x2633/how-to-enable-duo-mfa-on-gcp-windows-vms-for-compliance-in-10-minutes-3d7k)
+- [RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow](https://dev.to/quant001/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4imo)
+- [Voice First Navigation Accessibility Standards in 2026](https://dev.to/devin-rosario/voice-first-navigation-accessibility-standards-in-2026-1njk)
 <!-- BLOG-POST-LIST:END -->
 
 
