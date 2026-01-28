@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
-- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
-- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
-- [Kafka Guarantees Delivery, Not Uniqueness: How to Build Idempotent Systems](https://dev.to/naresh_007/kafka-guarantees-delivery-not-uniqueness-how-to-build-idempotent-systems-1j6d)
+- [Building Connected Agents with MCP and A2A](https://dev.to/googleai/building-connected-agents-with-mcp-and-a2a-47b6)
+- [Stop Parsing JSON: The Vercel AI SDK’s &quot;AI Protocol&quot; is Revolutionizing Generative UI](https://dev.to/programmingcentral/stop-parsing-json-the-vercel-ai-sdks-ai-protocol-is-revolutionizing-generative-ui-40k1)
+- [Understanding HTML Tags and Elements](https://dev.to/priyanshu_verma/understanding-html-tags-and-elements-4dip)
+- [Claude Code Tutorial for Beginners 2026: From Installation to Building Your First Project](https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma)
 <!-- BLOG-POST-LIST:END -->
 
 
