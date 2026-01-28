@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your React App Feels Slow: Fixing Performance with Web Workers](https://dev.to/pockit_tools/why-your-react-app-feels-slow-fixing-performance-with-web-workers-439h)
-- [Understanding Recursion using the Fibonacci Sequence with Ruby](https://dev.to/ben1010/understanding-recursion-using-the-fibonacci-sequence-with-ruby-56m3)
-- [Computer Structure](https://dev.to/jonghwayoo03_dev/computer-structure-f4f)
-- [Linux CLI for extracting archives inside a bubblewrap sandbox &lpar;alpha&rpar;](https://dev.to/chechelpo/linux-cli-for-extracting-archives-inside-a-bubblewrap-sandbox-alpha-20gp)
+- [Deploy and Invoke AI Agent to AgentCore Runtime with Github Actions](https://dev.to/budionosan/deploy-and-invoke-ai-agent-to-agentcore-runtime-with-github-actions-j6f)
+- [We Shipped 79 PRs in a Few Weeks. Claude Code Did Most of the Work.](https://dev.to/david_dev_sec/we-shipped-79-prs-in-a-few-weeks-claude-code-did-most-of-the-work-35j0)
+- [My AI-Powered Portfolio: Meet My Digital Twin Built with Google Gemini](https://dev.to/emeryntumba/my-ai-powered-portfolio-meet-my-digital-twin-built-with-google-gemini-3e2h)
+- [I Accidentally Turned My ClawdBot Into a Data Leak &lpar;Don&#39;t Make My Mistake&rpar;](https://dev.to/er_li_92a27f8612f9f070e18/i-accidentally-turned-my-clawdbot-into-a-data-leak-dont-make-my-mistake-3dkp)
 <!-- BLOG-POST-LIST:END -->
 
 
