@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The humans.txt file: showing there&#39;s real people behind your website](https://dev.to/elyvora_us/the-humanstxt-file-showing-theres-real-people-behind-your-website-p35)
-- [svg-sdf-art](https://dev.to/spacesnottabs/svg-sdf-art-56in)
-- [What would you add to the list in this post? Let me know in the comments.](https://dev.to/canro91/what-would-you-add-to-the-list-in-this-post-let-me-know-in-the-comments-34d4)
-- [Inside Acontext: How AI Agents Learn from Experience](https://dev.to/acontext_4dc5ced58dc515fd/inside-acontext-how-ai-agents-learn-from-experience-488j)
+- [🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization &amp; Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)
+- [Beyond Chatbots: Why 2026 is the Year of Agentic AI for Enterprise](https://dev.to/esoft_cloudtechsoltuion/beyond-chatbots-why-2026-is-the-year-of-agentic-ai-for-enterprise-2hjd)
+- [pam - a minimal SQL client for the CLI &lpar;dbeaver terminalized!&rpar;](https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib)
+- [Why I refused to learn React for my first project &lpar;And used Vanilla JS instead&rpar;](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
 <!-- BLOG-POST-LIST:END -->
 
 
