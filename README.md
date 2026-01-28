@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The End of the Terminal Search Journey: An Ideal Environment Found with Ghostty and Yazi](https://dev.to/takashi_abe_c6e5ce4004697/the-end-of-the-terminal-search-journey-an-ideal-environment-found-with-ghostty-and-yazi-4ibp)
-- [5 AI Prompting Mistakes Developers Make](https://dev.to/manukumar07/5-ai-prompting-mistakes-developers-make-25fa)
-- [Comparing Validatar to CsvPath Validation](https://dev.to/david_kershaw_b6916404da6/comparing-validatar-to-csvpath-validation-1m4o)
-- [Graphic Design Trends In 2026](https://dev.to/souptikdn/graphic-design-trends-in-2026-m74)
+- [Why Creating a Workflow Directory Is Essential for Claude Cowork](https://dev.to/soanai/why-creating-a-workflow-directory-is-essential-for-claude-cowork-31ko)
+- [Free Chess Analysis with Stockfish 17 in Your Browser — No Sign-up, Runs Locally](https://dev.to/zhenhuamo/free-chess-analysis-with-stockfish-17-in-your-browser-no-sign-up-runs-locally-490l)
+- [Tu Nube como una Base de Datos: Guía Práctica de Steampipe para AWS](https://dev.to/kevinl/tu-nube-como-una-base-de-datos-guia-practica-de-steampipe-para-aws-52j0)
+- [Cellular Automata](https://dev.to/no_arms_studio/cellular-automata-366b)
 <!-- BLOG-POST-LIST:END -->
 
 
