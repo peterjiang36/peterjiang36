@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-22708: Trust Issues: Bypassing Cursor AI&#39;s &#39;Safe Mode&#39; via Shell Built-ins](https://dev.to/cverports/cve-2026-22708-trust-issues-bypassing-cursor-ais-safe-mode-via-shell-built-ins-55ao)
-- [I Got Quoted $497/mo for Translation Management So I Built My Own](https://dev.to/sidsaxena0/i-got-quoted-497mo-for-translation-management-so-i-built-my-own-4a2m)
-- [The Pager Interface: How Higher Layers Touch Storage](https://dev.to/lovestaco/the-pager-interface-how-higher-layers-touch-storage-32cm)
-- [A New Cop in Town: rubocop-rspec_parity](https://dev.to/povilasjurcys/a-new-cop-in-town-rubocop-rspecparity-e20)
+- [AWS Lambda: Deactivate Inactive IAM Keys](https://dev.to/anil_kumar_noolu/aws-lambda-deactivate-inactive-iam-keys-26gh)
+- [CVE-2024-4990: Magic Methods, Tragic Endings: RCE in Yii2 via Unsafe Reflection](https://dev.to/cverports/cve-2024-4990-magic-methods-tragic-endings-rce-in-yii2-via-unsafe-reflection-40d2)
+- [HTML Tables and Forms Review](https://dev.to/richardpascoe/html-tables-and-forms-review-5146)
+- [GA4 101: ทำไม Developer ถึงต้องเข้าใจ Google Analytics 4 &lpar;Data Model ที่เปลี่ยนไป?&rpar;](https://dev.to/sonnavigator/ga4-101-thamaim-developer-thuengtngekhaaaicch-google-analytics-4-data-model-thiiepliiynaip-3kn3)
 <!-- BLOG-POST-LIST:END -->
 
 
