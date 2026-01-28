@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Margaret Tchatcheuse - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-margaret-tchatcheuse-full-performance-live-on-kexp-5ac5)
-- [🚀 Deploying a React App with NGINX on AWS &lpar;Amazon Linux&rpar; — Beginner Walkthrough](https://dev.to/ldwit/deploying-a-react-app-with-nginx-on-aws-amazon-linux-beginner-walkthrough-3h76)
-- [DAY1 -Basic VPC Configuration](https://dev.to/maso_eb42159b65f6592/day1-basic-vpc-configuration-j7o)
-- [Stop Hardcoding Your API Integrations: The Agnostic Way with Megamorph](https://dev.to/ianstudios_ac9bc/title-stop-hardcoding-your-api-integrations-the-agnostic-way-with-megamorph-g89)
+- [The humans.txt file: showing there&#39;s real people behind your website](https://dev.to/elyvora_us/the-humanstxt-file-showing-theres-real-people-behind-your-website-p35)
+- [svg-sdf-art](https://dev.to/spacesnottabs/svg-sdf-art-56in)
+- [What would you add to the list in this post? Let me know in the comments.](https://dev.to/canro91/what-would-you-add-to-the-list-in-this-post-let-me-know-in-the-comments-34d4)
+- [Inside Acontext: How AI Agents Learn from Experience](https://dev.to/acontext_4dc5ced58dc515fd/inside-acontext-how-ai-agents-learn-from-experience-488j)
 <!-- BLOG-POST-LIST:END -->
 
 
