@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Hook Pattern ~ImperativeHandle with useImperativeHandle~](https://dev.to/kkr0423/reactjs-hook-pattern-imperativehandle-with-useimperativehandle-42ac)
-- [From Animation to Game Feel: My RPG Battle System Development Log](https://dev.to/kenjidev9662/from-animation-to-game-feel-my-rpg-battle-system-development-log-1n7h)
-- [XML Tag Counter: A PowerShell Script That Saved Me Hours &lpar;And Can Save You Too!&rpar;](https://dev.to/spirosendgr/xml-tag-counter-a-powershell-script-that-saved-me-hours-and-can-save-you-too-119k)
-- [In-Memory Caching with Caffeine: Why You Don’t Always Need Redis &lpar;Right Away&rpar;](https://dev.to/anish-anantharaman/in-memory-caching-with-caffeine-why-you-dont-always-need-redis-right-away-3992)
+- [The Four Modalities for Coding with Agents](https://dev.to/eabait/the-four-modalities-for-coding-with-agents-4cdf)
+- [Linux Fundamentals - Part 2: Understanding Directory Hierarchy](https://dev.to/kervie_sazon/linux-fundamentals-part-2-understanding-directory-hierarchy-1hg1)
+- [I Built a CLI Task Manager That Learns When to Use Machine Learning &lpar;and When Not To&rpar;](https://dev.to/usero0/i-built-a-cli-task-manager-that-learns-when-to-use-machine-learning-and-when-not-to-5c83)
+- [Why I Built a GitHub Roaster That &quot;Melts&quot; Your Browser &lpar;And How I Did It&rpar;](https://dev.to/anarcise1225/why-i-built-a-github-roaster-that-melts-your-browser-and-how-i-did-it-2a7p)
 <!-- BLOG-POST-LIST:END -->
 
 
