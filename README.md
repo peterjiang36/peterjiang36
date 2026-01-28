@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Four Modalities for Coding with Agents](https://dev.to/eabait/the-four-modalities-for-coding-with-agents-4cdf)
-- [Linux Fundamentals - Part 2: Understanding Directory Hierarchy](https://dev.to/kervie_sazon/linux-fundamentals-part-2-understanding-directory-hierarchy-1hg1)
-- [I Built a CLI Task Manager That Learns When to Use Machine Learning &lpar;and When Not To&rpar;](https://dev.to/usero0/i-built-a-cli-task-manager-that-learns-when-to-use-machine-learning-and-when-not-to-5c83)
-- [Why I Built a GitHub Roaster That &quot;Melts&quot; Your Browser &lpar;And How I Did It&rpar;](https://dev.to/anarcise1225/why-i-built-a-github-roaster-that-melts-your-browser-and-how-i-did-it-2a7p)
+- [Why Your React App Feels Slow: Fixing Performance with Web Workers](https://dev.to/pockit_tools/why-your-react-app-feels-slow-fixing-performance-with-web-workers-439h)
+- [Understanding Recursion using the Fibonacci Sequence with Ruby](https://dev.to/ben1010/understanding-recursion-using-the-fibonacci-sequence-with-ruby-56m3)
+- [Computer Structure](https://dev.to/jonghwayoo03_dev/computer-structure-f4f)
+- [Linux CLI for extracting archives inside a bubblewrap sandbox &lpar;alpha&rpar;](https://dev.to/chechelpo/linux-cli-for-extracting-archives-inside-a-bubblewrap-sandbox-alpha-20gp)
 <!-- BLOG-POST-LIST:END -->
 
 
