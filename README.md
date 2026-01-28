@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside My AI/ML Engineer Portfolio](https://dev.to/kareemblessed/inside-my-aiml-engineer-portfolio-315o)
-- [Runtime Environment Variables in Frontend Applications](https://dev.to/bo/runtime-environment-variables-in-frontend-applications-4gf9)
-- [VPWC Attribute Display Settings: управление выводом атрибутов WooCommerce из админки](https://dev.to/_vproger_/vpwc-attribute-display-settings-upravlieniie-vyvodom-atributov-woocommerce-iz-adminki-27k1)
-- [Migrations Plugin: управление миграциями базы данных WordPress](https://dev.to/_vproger_/migrations-plugin-upravlieniie-mighratsiiami-bazy-dannykh-wordpress-14np)
+- [CVE-2026-22708: Trust Issues: Bypassing Cursor AI&#39;s &#39;Safe Mode&#39; via Shell Built-ins](https://dev.to/cverports/cve-2026-22708-trust-issues-bypassing-cursor-ais-safe-mode-via-shell-built-ins-55ao)
+- [I Got Quoted $497/mo for Translation Management So I Built My Own](https://dev.to/sidsaxena0/i-got-quoted-497mo-for-translation-management-so-i-built-my-own-4a2m)
+- [The Pager Interface: How Higher Layers Touch Storage](https://dev.to/lovestaco/the-pager-interface-how-higher-layers-touch-storage-32cm)
+- [A New Cop in Town: rubocop-rspec_parity](https://dev.to/povilasjurcys/a-new-cop-in-town-rubocop-rspecparity-e20)
 <!-- BLOG-POST-LIST:END -->
 
 
