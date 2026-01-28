@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization &amp; Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)
-- [Beyond Chatbots: Why 2026 is the Year of Agentic AI for Enterprise](https://dev.to/esoft_cloudtechsoltuion/beyond-chatbots-why-2026-is-the-year-of-agentic-ai-for-enterprise-2hjd)
-- [pam - a minimal SQL client for the CLI &lpar;dbeaver terminalized!&rpar;](https://dev.to/eduardofuncao/pam-a-minimal-sql-client-for-the-cli-dbeaver-terminalized-1fib)
-- [Why I refused to learn React for my first project &lpar;And used Vanilla JS instead&rpar;](https://dev.to/legend_gamerr6_70b22e605a/why-i-refused-to-learn-react-for-my-first-project-and-used-vanilla-js-instead-32k0)
+- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
+- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
+- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
+- [Kafka Guarantees Delivery, Not Uniqueness: How to Build Idempotent Systems](https://dev.to/naresh_007/kafka-guarantees-delivery-not-uniqueness-how-to-build-idempotent-systems-1j6d)
 <!-- BLOG-POST-LIST:END -->
 
 
