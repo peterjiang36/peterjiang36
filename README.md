@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI and Human-in-the-Loop: A Practical Implementation with Java](https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de)
-- [CVE-2026-24765: The CI/CD Trojan Horse: Inside PHPUnit&#39;s Unsafe Deserialization](https://dev.to/cverports/cve-2026-24765-the-cicd-trojan-horse-inside-phpunits-unsafe-deserialization-pl0)
-- [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
-- [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
+- [Moltbot: The Ultimate Personal AI Assistant Guide for 2026](https://dev.to/czmilo/moltbot-the-ultimate-personal-ai-assistant-guide-for-2026-d4e)
+- [Github Copilot Best Practices: From Good to Great](https://dev.to/anjith/github-copilot-best-practices-from-good-to-great-5gnf)
+- [DeepSeek OCR 2: Complete Guide to Running &amp; Fine-tuning in 2026](https://dev.to/czmilo/deepseek-ocr-2-complete-guide-to-running-fine-tuning-in-2026-3odb)
+- [Learning Rust by Building nginx-discovery: A Beginner&#39;s Journey with AI](https://dev.to/ajitkumar/learning-rust-by-building-nginx-discovery-a-beginners-journey-with-ai-j35)
 <!-- BLOG-POST-LIST:END -->
 
 
