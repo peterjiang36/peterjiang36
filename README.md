@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Moltbot: The Ultimate Personal AI Assistant Guide for 2026](https://dev.to/czmilo/moltbot-the-ultimate-personal-ai-assistant-guide-for-2026-d4e)
-- [Github Copilot Best Practices: From Good to Great](https://dev.to/anjith/github-copilot-best-practices-from-good-to-great-5gnf)
-- [DeepSeek OCR 2: Complete Guide to Running &amp; Fine-tuning in 2026](https://dev.to/czmilo/deepseek-ocr-2-complete-guide-to-running-fine-tuning-in-2026-3odb)
-- [Learning Rust by Building nginx-discovery: A Beginner&#39;s Journey with AI](https://dev.to/ajitkumar/learning-rust-by-building-nginx-discovery-a-beginners-journey-with-ai-j35)
+- [The Baddest MF in the Valley: A Statement of Posture](https://dev.to/flavioespinoza/the-baddest-mf-in-the-valley-a-statement-of-posture-2eed)
+- [MCP Weekly: Signals of Enterprise-Grade Agentic AI &lpar;Jan 2026&rpar;](https://dev.to/om_shree_0709/mcp-weekly-signals-of-enterprise-grade-agentic-ai-jan-2026-kp0)
+- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
+- [🌀 Beginner-Friendly Guide &#39;Minimum Cost Path with Teleportations&#39; - LeetCode 3651 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
 <!-- BLOG-POST-LIST:END -->
 
 
