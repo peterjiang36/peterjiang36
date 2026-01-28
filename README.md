@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Data Trap: Why You Can&#39;t Opt Out](https://dev.to/evoleinik/the-ai-data-trap-why-you-cant-opt-out-4oo1)
-- [How to Enable Duo MFA on GCP Windows VMs for Compliance in 10 Minutes](https://dev.to/0x2633/how-to-enable-duo-mfa-on-gcp-windows-vms-for-compliance-in-10-minutes-3d7k)
-- [RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow](https://dev.to/quant001/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4imo)
-- [Voice First Navigation Accessibility Standards in 2026](https://dev.to/devin-rosario/voice-first-navigation-accessibility-standards-in-2026-1njk)
+- [10 Real-World Side Projects That Actually Impress Recruiters](https://dev.to/codingpanel/10-real-world-side-projects-that-actually-impress-recruiters-1cin)
+- [Why My Blender Scene Looked Flat Until Lighting Clicked](https://dev.to/dinesh_04/why-my-blender-scene-looked-flat-until-lighting-clicked-412l)
+- [Getting to know Git and Github](https://dev.to/shacherock/getting-to-know-git-and-github-3jbh)
+- [A Proactive Strategy for Building Reliable Software Systems](https://dev.to/subham_jha_7b468f2de09618/a-proactive-strategy-for-building-reliable-software-systems-23bj)
 <!-- BLOG-POST-LIST:END -->
 
 
