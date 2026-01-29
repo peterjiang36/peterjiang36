@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
-- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
-- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
-- [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
+- [Designing an Extensible Query API Using a DSL](https://dev.to/inno0317/designing-an-extensible-query-api-using-a-dsl-3gfb)
+- [Building Sprint Tracker #01](https://dev.to/barbora_klusackova/building-sprint-tracker-01-37f2)
+- [Clawdbot/Moltbot security issues.](https://dev.to/mikgross/clawdbotmoltbot-security-issues-2l9p)
+- [Vapor Chamber — A Tiny Command Bus for Vue Vapor &lpar;~1KB&rpar;](https://dev.to/lucianofedericopereira/vapor-chamber-a-tiny-command-bus-for-vue-vapor-1kb-5eeo)
 <!-- BLOG-POST-LIST:END -->
 
 
