@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding HTML Tags and Elements](https://dev.to/hiral/understanding-html-tags-and-elements-3oo0)
-- [Exploring Cross Entropy: The Essential Component for Softmax Backpropagation](https://dev.to/rijultp/exploring-cross-entropy-the-essential-component-for-softmax-backpropagation-465i)
-- [RTK Query: Complete Guide for React Data Fetching and Caching](https://dev.to/marufrahmanlive/rtk-query-complete-guide-for-react-data-fetching-and-caching-1eaf)
-- [Why I’m building an &quot;Intent-Aware&quot; engine for API Governance &lpar;Technical Preview&rpar;](https://dev.to/ayoub_hadef_bb5f0716342a8/why-im-building-an-intent-aware-engine-for-api-governance-technical-preview-2npl)
+- [Building a Rich Text Editor in React](https://dev.to/puckeditor/building-a-rich-text-editor-in-react-43h2)
+- [From Kenya to Germany - Building an interactive robotics portfolio](https://dev.to/nicanor_korir/from-kenya-to-germany-building-an-interactive-robotics-portfolio-4gdn)
+- [CinemaSins: Everything Wrong With Tommy Boy In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-tommy-boy-in-20-minutes-or-less-39k7)
+- [JWT Authentication in Express.js and Node.js: Complete Guide](https://dev.to/marufrahmanlive/jwt-authentication-in-expressjs-and-nodejs-complete-guide-2261)
 <!-- BLOG-POST-LIST:END -->
 
 
