@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Foal version 5.2 is here 🎉](https://dev.to/loicpoullain/foal-version-52-is-here-7de)
-- [Ethereum Blockchain Development: Powering the Future of Decentralized Apps](https://dev.to/jenny_gupta_e7411d536a07a/ethereum-blockchain-development-powering-the-future-of-decentralized-apps-362b)
-- [I thought I knew JavaScript.](https://dev.to/amirhossein_ln/i-thought-i-knew-javascript-4kpb)
-- [🚀 Building Space: a calm Angular UI for an LLM &lpar;with stars&rpar;](https://dev.to/geez_burger/building-space-a-calm-angular-ui-for-an-llm-with-stars-39g6)
+- [Learning to Execute](https://dev.to/paperium/learning-to-execute-38fd)
+- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
+- [Merge Strings Alternately](https://dev.to/tanujav/merge-strings-alternately-3oi8)
+- [Linux Fundamentals - Part 3: Editing Files using Vim](https://dev.to/kervie_sazon/linux-fundamentals-part-3-editing-files-using-vim-3p7n)
 <!-- BLOG-POST-LIST:END -->
 
 
