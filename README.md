@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Beans, Context, Spring IoC container](https://dev.to/phoenix_238501d86d417e/spring-beans-context-2ijm)
-- [Single-Channel Noise Cancellation in 2025: What’s Actually Working &lpar;and Why&rpar;](https://dev.to/namanigandhi/single-channel-noise-cancellation-in-2025-whats-actually-working-and-why-5enb)
-- [When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead](https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l)
-- [Do hackathons help anyone anymore?](https://dev.to/bengreenberg/do-hackathons-help-anyone-anymore-1klc)
+- [You Think Being Replaced by AI is Scary? I Think Developer Irrelevance is the Real Horror](https://dev.to/ryo_suwito/you-think-being-replaced-by-ai-is-scary-i-think-developer-irrelevance-is-the-real-horror-1513)
+- [Why Real-Time Communications and Web Applications Need Different Boundaries — A Comparison of SBC and WAF](https://dev.to/arina_cholee/why-real-time-communications-and-web-applications-need-different-boundaries-a-comparison-of-sbc-331b)
+- [I Turned My Resume into a Spotify Playlist](https://dev.to/fatiyaey/i-turned-my-resume-into-a-spotify-playlist-281k)
+- [Brave Search MCP Server Token Optimization](https://dev.to/hasmcp/brave-search-mcp-server-token-optimization-2mnk)
 <!-- BLOG-POST-LIST:END -->
 
 
