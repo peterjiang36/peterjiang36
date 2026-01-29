@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Long-Term and Short-Term Memory for Agents Using RedisVL](https://dev.to/qtalen/build-long-term-and-short-term-memory-for-agents-using-redisvl-4h8m)
-- [The Ethical Imperative of Character Encoding](https://dev.to/xfq/the-ethical-imperative-of-character-encoding-50on)
-- [Demystifying AI Audio Separation: From FFTs to Production Workflows](https://dev.to/thi_ngocnguyen_877eb37e4/demystifying-ai-audio-separation-from-ffts-to-production-workflows-198a)
-- [Fixing Animated WebP Jitter on Android with Jetpack Compose](https://dev.to/brian_stark_09127/fixing-animated-webp-jitter-on-android-with-jetpack-compose-1ah)
+- [What makes you trust a free tool without reading user feedback?](https://dev.to/bhavin-allinonetools/what-makes-you-trust-a-free-tool-without-reading-user-feedback-2n7n)
+- [Authentication System Fix - Implementation Summary](https://dev.to/therealgabry/authentication-system-fix-implementation-summary-320k)
+- [Why B2C Payouts Are Becoming a Strategic Priority for Global Platforms](https://dev.to/rosieschuck/why-b2c-payouts-are-becoming-a-strategic-priority-for-global-platforms-5epo)
+- [Using Profiles with Docker Compose](https://dev.to/pradumnasaraf/using-profiles-with-docker-compose-238l)
 <!-- BLOG-POST-LIST:END -->
 
 
