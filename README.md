@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Meteroid OSS v1 RC and Cloud 🦀](https://dev.to/gaspardb/announcing-meteroid-oss-v1-rc-and-cloud-1gmo)
-- [SanjayOS: I Built an AI-Powered Operating System for My Portfolio 🚀](https://dev.to/sanjaysah/sanjayos-i-built-an-ai-powered-operating-system-for-my-portfolio-3bih)
-- [Linkedsignal in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/linkedsignal-in-angularv21-3pd4)
-- [The Valley of Code: A Learning Resource](https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o)
+- [ApiDeck: A Faster Way to Explore ASP.NET Core APIs](https://dev.to/muammarsiddiqui/apideck-a-faster-way-to-explore-aspnet-core-apis-2o03)
+- [Infrasheet Automation](https://dev.to/shree_abhijeet/infrasheet-automation-4edc)
+- [Is Learning CSS a Waste of Time in 2026?](https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3)
+- [I made a browser tool to tweak UI visually and export AI prompts — feedback?](https://dev.to/jeevan_r_a2c8d639d805e1a9/i-made-a-browser-tool-to-tweak-ui-visually-and-export-ai-prompts-feedback-18gj)
 <!-- BLOG-POST-LIST:END -->
 
 
