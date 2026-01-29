@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Voice Input to Web Forms with Whisper](https://dev.to/ryancwynar/adding-voice-input-to-web-forms-with-whisper-360j)
-- [Roblox DevEx Explained &lpar;and Why I Built a Simple DevEx Calculator&rpar;](https://dev.to/nabeel_saleem_c2b8bc60839/roblox-devex-explained-and-why-i-built-a-simple-devex-calculator-1c24)
-- [Reverse engineering River Raid with Claude, Ghidra, and MCP](https://dev.to/teamquesma/reverse-engineering-river-raid-with-claude-ghidra-and-mcp-3oio)
-- [How to Draw a Route Preview on a Static Map Image with Geoapify](https://dev.to/geoapify-maps-api/how-to-draw-a-route-preview-on-a-static-map-image-with-geoapify-26pj)
+- [Announcing Meteroid OSS v1 RC and Cloud 🦀](https://dev.to/gaspardb/announcing-meteroid-oss-v1-rc-and-cloud-1gmo)
+- [SanjayOS: I Built an AI-Powered Operating System for My Portfolio 🚀](https://dev.to/sanjaysah/sanjayos-i-built-an-ai-powered-operating-system-for-my-portfolio-3bih)
+- [Linkedsignal in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/linkedsignal-in-angularv21-3pd4)
+- [The Valley of Code: A Learning Resource](https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o)
 <!-- BLOG-POST-LIST:END -->
 
 
