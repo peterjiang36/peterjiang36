@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning to Execute](https://dev.to/paperium/learning-to-execute-38fd)
-- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
-- [Merge Strings Alternately](https://dev.to/tanujav/merge-strings-alternately-3oi8)
-- [Linux Fundamentals - Part 3: Editing Files using Vim](https://dev.to/kervie_sazon/linux-fundamentals-part-3-editing-files-using-vim-3p7n)
+- [Datadog + AWS: Observability Maturity Model 2026](https://dev.to/aws-builders/datadog-aws-observability-maturity-model-2026-210m)
+- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/kunal_dev/css-selectors-101-targeting-elements-with-precision-4oj8)
+- [Let&#39;s deploy kgateway using vCluster](https://dev.to/mediocredevops/lets-deploy-kgateway-using-vcluster-1e1n)
+- [DevFlow Navigator: A Tech-Lead-In-Your-Terminal Powered by GitHub Copilot CLI](https://dev.to/keerthana_696356/devflow-navigator-a-tech-lead-in-your-terminal-powered-by-github-copilot-cli-1d8g)
 <!-- BLOG-POST-LIST:END -->
 
 
