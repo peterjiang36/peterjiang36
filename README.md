@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Rich Text Editor in React](https://dev.to/puckeditor/building-a-rich-text-editor-in-react-43h2)
-- [From Kenya to Germany - Building an interactive robotics portfolio](https://dev.to/nicanor_korir/from-kenya-to-germany-building-an-interactive-robotics-portfolio-4gdn)
-- [CinemaSins: Everything Wrong With Tommy Boy In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-tommy-boy-in-20-minutes-or-less-39k7)
-- [JWT Authentication in Express.js and Node.js: Complete Guide](https://dev.to/marufrahmanlive/jwt-authentication-in-expressjs-and-nodejs-complete-guide-2261)
+- [Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations](https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44)
+- [Angular Component Communication: Complete Guide | @Input @Output EventEmitter &amp; ViewChild](https://dev.to/marufrahmanlive/angular-component-communication-complete-guide-input-output-eventemitter-viewchild-1395)
+- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
+- [Structured Matching, Patching, and Diffing Done Right](https://dev.to/scott_cotton_dc9ce3e7e632/structured-matching-patching-and-diffing-done-right-22ci)
 <!-- BLOG-POST-LIST:END -->
 
 
