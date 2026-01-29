@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSONPath Is In! The AI Assistant Will See You Now](https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge)
-- [Parallel Region-Based Routing on OpenROAD: Scaling Beyond Multithreading](https://dev.to/wiowiztech/parallel-region-based-routing-on-openroad-scaling-beyond-multithreading-3jf6)
-- [Building AI&#39;s Flight Recorder: A Developer&#39;s Response to the Doomsday Clock](https://dev.to/veritaschain/building-ais-flight-recorder-a-developers-response-to-the-doomsday-clock-43pi)
-- [[CS series] Understanding Logic Gates: The Language of Computers](https://dev.to/jonghwayoo03_dev/cs-series-understanding-logic-gates-the-language-of-computers-73d)
+- [Build Long-Term and Short-Term Memory for Agents Using RedisVL](https://dev.to/qtalen/build-long-term-and-short-term-memory-for-agents-using-redisvl-4h8m)
+- [The Ethical Imperative of Character Encoding](https://dev.to/xfq/the-ethical-imperative-of-character-encoding-50on)
+- [Demystifying AI Audio Separation: From FFTs to Production Workflows](https://dev.to/thi_ngocnguyen_877eb37e4/demystifying-ai-audio-separation-from-ffts-to-production-workflows-198a)
+- [Fixing Animated WebP Jitter on Android with Jetpack Compose](https://dev.to/brian_stark_09127/fixing-animated-webp-jitter-on-android-with-jetpack-compose-1ah)
 <!-- BLOG-POST-LIST:END -->
 
 
