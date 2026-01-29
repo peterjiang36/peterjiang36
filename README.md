@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Extensible Query API Using a DSL](https://dev.to/inno0317/designing-an-extensible-query-api-using-a-dsl-3gfb)
-- [Building Sprint Tracker #01](https://dev.to/barbora_klusackova/building-sprint-tracker-01-37f2)
-- [Clawdbot/Moltbot security issues.](https://dev.to/mikgross/clawdbotmoltbot-security-issues-2l9p)
-- [Vapor Chamber — A Tiny Command Bus for Vue Vapor &lpar;~1KB&rpar;](https://dev.to/lucianofedericopereira/vapor-chamber-a-tiny-command-bus-for-vue-vapor-1kb-5eeo)
+- [JSONPath Is In! The AI Assistant Will See You Now](https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge)
+- [Parallel Region-Based Routing on OpenROAD: Scaling Beyond Multithreading](https://dev.to/wiowiztech/parallel-region-based-routing-on-openroad-scaling-beyond-multithreading-3jf6)
+- [Building AI&#39;s Flight Recorder: A Developer&#39;s Response to the Doomsday Clock](https://dev.to/veritaschain/building-ais-flight-recorder-a-developers-response-to-the-doomsday-clock-43pi)
+- [[CS series] Understanding Logic Gates: The Language of Computers](https://dev.to/jonghwayoo03_dev/cs-series-understanding-logic-gates-the-language-of-computers-73d)
 <!-- BLOG-POST-LIST:END -->
 
 
