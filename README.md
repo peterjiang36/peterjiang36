@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a link-icon custom element](https://dev.to/railsdesigner/creating-a-link-icon-custom-element-10ab)
-- [I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #003 - JSON-Only Communication](https://dev.to/sugaiketadao/i-built-a-lightweight-java-framework-for-japans-si-projects-third-attempt-in-10-years-003--5fg)
-- [Career ladder with help of developers support](https://dev.to/hafiz_hussain_b626bdb06e5/career-ladder-with-help-of-developers-support-19b4)
-- [The Internet’s Addiction to Being Contrary](https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni)
+- [Part 3: Final Architecture &amp; Lessons Learned](https://dev.to/jonghwayoo03_dev/part-4-final-architecture-lessons-learned-on4)
+- [KEXP: Obongjayar - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-obongjayar-full-performance-live-on-kexp-54po)
+- [Supabase vs Appwrite A Student &amp; Freelancer Perspective &lpar;2026&rpar;](https://dev.to/girma35/supabase-vs-appwrite-a-student-freelancer-perspective-2026-iaj)
+- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo03_dev/part-1-reliable-payment-transaction-1njd)
 <!-- BLOG-POST-LIST:END -->
 
 
