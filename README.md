@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations](https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44)
-- [Angular Component Communication: Complete Guide | @Input @Output EventEmitter &amp; ViewChild](https://dev.to/marufrahmanlive/angular-component-communication-complete-guide-input-output-eventemitter-viewchild-1395)
-- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
-- [Structured Matching, Patching, and Diffing Done Right](https://dev.to/scott_cotton_dc9ce3e7e632/structured-matching-patching-and-diffing-done-right-22ci)
+- [Astro 2025–2026 &lpar;часть 3&rpar;: Actions, API Routes, SSR/SSG и деплой — от разработки до production](https://dev.to/_vproger_/astro-2025-2026-chast-3-actions-api-routes-ssrssg-i-dieploi-ot-razrabotki-do-production-4e60)
+- [Captain Hook: When Your AI Copilot Gets Promoted to Captain!](https://dev.to/thec0dewriter/captain-hook-when-your-ai-copilot-gets-promoted-to-captain-3amc)
+- [The Engineer’s Legal Handbook: 2026 Update](https://dev.to/deepak_mishra_35863517037/the-engineers-legal-handbook-2026-update-3inb)
+- [Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify](https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk)
 <!-- BLOG-POST-LIST:END -->
 
 
