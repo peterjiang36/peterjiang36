@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
-- [The Real Shift: Dev Tools vs Dev Workflows](https://dev.to/jaideepparashar/the-real-shift-dev-tools-vs-dev-workflows-4pib)
-- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
-- [try: Can You Find Your 2 AM Epiphany the Next Morning? — An Experimental Directory Management Tool by an ADHD Developer](https://dev.to/tumf/try-can-you-find-your-2-am-epiphany-the-next-morning-an-experimental-directory-management-tool-d83)
+- [Passkeys vs. Access-First: The Shift from Login to Lifecycle](https://dev.to/antonmb/passkeys-vs-access-first-the-shift-from-login-to-lifecycle-42e1)
+- [The Human-centric AI-Native Distributed Systems Manifesto](https://dev.to/m8a-io/the-human-centric-ai-native-distributed-systems-manifesto-1jlh)
+- [How to Build a Custom SERP Scraper for Share-of-Voice Analysis using Playwright](https://dev.to/sommic/how-to-build-a-custom-serp-scraper-for-share-of-voice-analysis-using-playwright-jl0)
+- [QR Codes Were Just the Entry Point: A Technical Breakdown of Post-Viral Social Engineering Vectors](https://dev.to/narnaiezzsshaa/qr-codes-were-just-the-entry-point-a-technical-breakdown-of-post-viral-social-engineering-vectors-3p39)
 <!-- BLOG-POST-LIST:END -->
 
 
