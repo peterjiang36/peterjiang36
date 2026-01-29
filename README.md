@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Boost: Making AI Actually Useful for Laravel Developers](https://dev.to/vertex_invo_0005b24675db4/laravel-boost-making-ai-actually-useful-for-laravel-developers-3kmh)
-- [Understanding HTML Tags and Elements](https://dev.to/anoop-rajoriya/understanding-html-tags-and-elements-1p)
-- [Announcing SuperQode and SuperQE: Redefining Quality Engineering for Agentic Software](https://dev.to/shashikant86/announcing-superqode-and-superqe-redefining-quality-engineering-for-agentic-software-4ek9)
-- [Building in Public: How I Pivoted from Features to Validation 🚀](https://dev.to/lujandev/building-in-public-how-i-pivoted-from-features-to-validation-2150)
+- [Foal version 5.2 is here 🎉](https://dev.to/loicpoullain/foal-version-52-is-here-7de)
+- [Ethereum Blockchain Development: Powering the Future of Decentralized Apps](https://dev.to/jenny_gupta_e7411d536a07a/ethereum-blockchain-development-powering-the-future-of-decentralized-apps-362b)
+- [I thought I knew JavaScript.](https://dev.to/amirhossein_ln/i-thought-i-knew-javascript-4kpb)
+- [🚀 Building Space: a calm Angular UI for an LLM &lpar;with stars&rpar;](https://dev.to/geez_burger/building-space-a-calm-angular-ui-for-an-llm-with-stars-39g6)
 <!-- BLOG-POST-LIST:END -->
 
 
