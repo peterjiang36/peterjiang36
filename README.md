@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Passkeys vs. Access-First: The Shift from Login to Lifecycle](https://dev.to/antonmb/passkeys-vs-access-first-the-shift-from-login-to-lifecycle-42e1)
-- [The Human-centric AI-Native Distributed Systems Manifesto](https://dev.to/m8a-io/the-human-centric-ai-native-distributed-systems-manifesto-1jlh)
-- [How to Build a Custom SERP Scraper for Share-of-Voice Analysis using Playwright](https://dev.to/sommic/how-to-build-a-custom-serp-scraper-for-share-of-voice-analysis-using-playwright-jl0)
-- [QR Codes Were Just the Entry Point: A Technical Breakdown of Post-Viral Social Engineering Vectors](https://dev.to/narnaiezzsshaa/qr-codes-were-just-the-entry-point-a-technical-breakdown-of-post-viral-social-engineering-vectors-3p39)
+- [Spring Beans, Context, Spring IoC container](https://dev.to/phoenix_238501d86d417e/spring-beans-context-2ijm)
+- [Single-Channel Noise Cancellation in 2025: What’s Actually Working &lpar;and Why&rpar;](https://dev.to/namanigandhi/single-channel-noise-cancellation-in-2025-whats-actually-working-and-why-5enb)
+- [When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead](https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l)
+- [Do hackathons help anyone anymore?](https://dev.to/bengreenberg/do-hackathons-help-anyone-anymore-1klc)
 <!-- BLOG-POST-LIST:END -->
 
 
