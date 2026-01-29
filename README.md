@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot CLI Challenge Badges Are Here + 28 Chances to Win a Prize!](https://dev.to/devteam/github-copilot-cli-challenge-badges-are-here-28-chances-to-win-a-prize-3c42)
-- [Clean Architecture in .NET 10: The Domain Layer — Entities That Actually Have Behavior](https://dev.to/bspann/clean-architecture-in-net-10-the-domain-layer-entities-that-actually-have-behavior-5gna)
-- [Clean Architecture in .NET 10: The Setup &lpar;And When It&#39;s Overkill&rpar;](https://dev.to/bspann/clean-architecture-in-net-10-the-setup-and-when-its-overkill-3e2i)
-- [nas-sync-script-builder generates a bash script for one-way, no-deletion NAS sync using rsync and lsyncd](https://dev.to/jinjinov/nas-sync-script-builder-generates-a-bash-script-for-one-way-no-deletion-nas-sync-using-rsync-and-3npm)
+- [Creating a link-icon custom element](https://dev.to/railsdesigner/creating-a-link-icon-custom-element-10ab)
+- [I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #003 - JSON-Only Communication](https://dev.to/sugaiketadao/i-built-a-lightweight-java-framework-for-japans-si-projects-third-attempt-in-10-years-003--5fg)
+- [Career ladder with help of developers support](https://dev.to/hafiz_hussain_b626bdb06e5/career-ladder-with-help-of-developers-support-19b4)
+- [The Internet’s Addiction to Being Contrary](https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni)
 <!-- BLOG-POST-LIST:END -->
 
 
