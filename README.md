@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: Final Architecture &amp; Lessons Learned](https://dev.to/jonghwayoo03_dev/part-4-final-architecture-lessons-learned-on4)
-- [KEXP: Obongjayar - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-obongjayar-full-performance-live-on-kexp-54po)
-- [Supabase vs Appwrite A Student &amp; Freelancer Perspective &lpar;2026&rpar;](https://dev.to/girma35/supabase-vs-appwrite-a-student-freelancer-perspective-2026-iaj)
-- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo03_dev/part-1-reliable-payment-transaction-1njd)
+- [Understanding HTML Tags and Elements](https://dev.to/hiral/understanding-html-tags-and-elements-3oo0)
+- [Exploring Cross Entropy: The Essential Component for Softmax Backpropagation](https://dev.to/rijultp/exploring-cross-entropy-the-essential-component-for-softmax-backpropagation-465i)
+- [RTK Query: Complete Guide for React Data Fetching and Caching](https://dev.to/marufrahmanlive/rtk-query-complete-guide-for-react-data-fetching-and-caching-1eaf)
+- [Why I’m building an &quot;Intent-Aware&quot; engine for API Governance &lpar;Technical Preview&rpar;](https://dev.to/ayoub_hadef_bb5f0716342a8/why-im-building-an-intent-aware-engine-for-api-governance-technical-preview-2npl)
 <!-- BLOG-POST-LIST:END -->
 
 
