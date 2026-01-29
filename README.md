@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro 2025–2026 &lpar;часть 3&rpar;: Actions, API Routes, SSR/SSG и деплой — от разработки до production](https://dev.to/_vproger_/astro-2025-2026-chast-3-actions-api-routes-ssrssg-i-dieploi-ot-razrabotki-do-production-4e60)
-- [Captain Hook: When Your AI Copilot Gets Promoted to Captain!](https://dev.to/thec0dewriter/captain-hook-when-your-ai-copilot-gets-promoted-to-captain-3amc)
-- [The Engineer’s Legal Handbook: 2026 Update](https://dev.to/deepak_mishra_35863517037/the-engineers-legal-handbook-2026-update-3inb)
-- [Your Team Deserves Better Than a Shared Dev Environment - Ephemeral Environments with Coolify](https://dev.to/amirraouf/your-team-deserves-better-than-a-shared-dev-environment-ephemeral-environments-with-coolify-54gk)
+- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
+- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
+- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
+- [A Practical JSON “Fix-It” Workflow &lpar;and the browser tools I keep open all day&rpar;](https://dev.to/wesley_zhang_22e9a53ad025/a-practical-json-fix-it-workflow-and-the-browser-tools-i-keep-open-all-day-58fe)
 <!-- BLOG-POST-LIST:END -->
 
 
