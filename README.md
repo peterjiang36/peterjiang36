@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Datadog + AWS: Observability Maturity Model 2026](https://dev.to/aws-builders/datadog-aws-observability-maturity-model-2026-210m)
-- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/kunal_dev/css-selectors-101-targeting-elements-with-precision-4oj8)
-- [Let&#39;s deploy kgateway using vCluster](https://dev.to/mediocredevops/lets-deploy-kgateway-using-vcluster-1e1n)
-- [DevFlow Navigator: A Tech-Lead-In-Your-Terminal Powered by GitHub Copilot CLI](https://dev.to/keerthana_696356/devflow-navigator-a-tech-lead-in-your-terminal-powered-by-github-copilot-cli-1d8g)
+- [GitHub Copilot CLI Challenge Badges Are Here + 28 Chances to Win a Prize!](https://dev.to/devteam/github-copilot-cli-challenge-badges-are-here-28-chances-to-win-a-prize-3c42)
+- [Clean Architecture in .NET 10: The Domain Layer — Entities That Actually Have Behavior](https://dev.to/bspann/clean-architecture-in-net-10-the-domain-layer-entities-that-actually-have-behavior-5gna)
+- [Clean Architecture in .NET 10: The Setup &lpar;And When It&#39;s Overkill&rpar;](https://dev.to/bspann/clean-architecture-in-net-10-the-setup-and-when-its-overkill-3e2i)
+- [nas-sync-script-builder generates a bash script for one-way, no-deletion NAS sync using rsync and lsyncd](https://dev.to/jinjinov/nas-sync-script-builder-generates-a-bash-script-for-one-way-no-deletion-nas-sync-using-rsync-and-3npm)
 <!-- BLOG-POST-LIST:END -->
 
 
