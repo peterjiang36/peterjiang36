@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Quietly Changing Software Development in 2026 &lpar;Real Examples&rpar;](https://dev.to/shreekansha97/how-ai-is-quietly-changing-software-development-in-2026-real-examples-1kej)
-- [Dinesh Somaraju | Portfolio](https://dev.to/dinesh_somaraju/dinesh-somaraju-portfolio-4g2k)
-- [Autopilot - Extra: Coding a Zero-Maintenance, AI-Native Newsletter System](https://dev.to/datalaria/autopilot-extra-coding-a-zero-maintenance-ai-native-newsletter-system-5cf5)
-- [Master Your Workflow: Top Gemini CLI Commands You Should Know | Gemini CLI CheatSheet](https://dev.to/sampathm/master-your-workflow-top-gemini-cli-commands-you-should-know-gemini-cli-cheatsheet-3l9o)
+- [I Built a Job Queue That&#39;s 32x Faster Than BullMQ &lpar;No Redis Required&rpar;](https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g)
+- [Focus Controls the Signal Forms Way](https://dev.to/brianmtreese/focus-controls-the-signal-forms-way-579d)
+- [The Engineering Behind 40kW GPU Racks: A Technical Deep Dive](https://dev.to/sujay_namburi_7b1df3eb386/the-engineering-behind-40kw-gpu-racks-a-technical-deep-dive-1afo)
+- [This is a solid reminder that remote hiring has matured and the risks have matured with it, something Ashkan Rajaee has been consistently warning founders about.](https://dev.to/edensaur/this-is-a-solid-reminder-that-remote-hiring-has-matured-and-the-risks-have-matured-with-it-m7p)
 <!-- BLOG-POST-LIST:END -->
 
 
