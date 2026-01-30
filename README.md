@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Ollella: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ollella-tiny-desk-concert-13m9)
-- [Building Your Personal Brand as a Data Analyst](https://dev.to/adnan_arif_14ae4bc014267f/building-your-personal-brand-as-a-data-analyst-i1a)
-- [FLUX.2 [flex] Challenge](https://dev.to/pruna-ai/flux2-flex-challenge-4b63)
-- [The Paradox of Progress](https://dev.to/rawveg/the-paradox-of-progress-2ad4)
+- [MCP Promised to Fix Agentic AI&#39;s Data Problem. Here&#39;s What&#39;s Still Missing.](https://dev.to/waynemarler/mcp-promised-to-fix-agentic-ais-data-problem-heres-whats-still-missing-1a50)
+- [Inside Kilo Speed: How One Engineer Shipped an MVP in His First Week](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-mvp-in-his-first-week-52j0)
+- [AI News Roundup: OpenAI&#39;s Model Purge, Anthropic&#39;s Deskilling Study, and the Rise of Moltbot](https://dev.to/damogallagher/ai-news-roundup-openais-model-purge-anthropics-deskilling-study-and-the-rise-of-moltbot-4h05)
+- [Puppet CD 5.14.0 and 4.39.0 now available!](https://dev.to/puppet/puppet-cd-5140-and-4390-now-available-1g4j)
 <!-- BLOG-POST-LIST:END -->
 
 
