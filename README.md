@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Promised to Fix Agentic AI&#39;s Data Problem. Here&#39;s What&#39;s Still Missing.](https://dev.to/waynemarler/mcp-promised-to-fix-agentic-ais-data-problem-heres-whats-still-missing-1a50)
-- [Inside Kilo Speed: How One Engineer Shipped an MVP in His First Week](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-mvp-in-his-first-week-52j0)
-- [AI News Roundup: OpenAI&#39;s Model Purge, Anthropic&#39;s Deskilling Study, and the Rise of Moltbot](https://dev.to/damogallagher/ai-news-roundup-openais-model-purge-anthropics-deskilling-study-and-the-rise-of-moltbot-4h05)
-- [Puppet CD 5.14.0 and 4.39.0 now available!](https://dev.to/puppet/puppet-cd-5140-and-4390-now-available-1g4j)
+- [Why we removed caching from a critical API](https://dev.to/shitij_bhatnagar_b6d1be72/why-we-removed-caching-from-a-critical-api-312p)
+- [When and How to Use LRU Cache in Node.js Backend Projects](https://dev.to/darkmavis1980/when-and-how-to-use-lru-cache-in-nodejs-backend-projects-42c8)
+- [Practical Git &amp; GitHub Setup for Real-World Projects](https://dev.to/itxshakil/practical-git-github-setup-for-real-world-projects-38if)
+- [Day-3 details of Class and Object](https://dev.to/karthick_m22/details-of-class-and-object-31o7)
 <!-- BLOG-POST-LIST:END -->
 
 
