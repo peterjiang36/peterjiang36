@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Moltbot to OpenClaw: When the Dust Settles, the Project Survived](https://dev.to/sivarampg/from-moltbot-to-openclaw-when-the-dust-settles-the-project-survived-5h6o)
-- [Master Method Overloading and Overriding in Android &lpar;Kotlin&rpar; Development](https://dev.to/supriya_shah_1e9c3df6158c/master-method-overloading-and-overriding-in-android-kotlin-development-jid)
-- [Measuring ROI of Forward-Looking Design Decisions with ADR](https://dev.to/tielec-takashi/measuring-roi-of-forward-looking-design-decisions-with-adr-jjd)
-- [How AI-Native Engineering Changes Architecture Decisions](https://dev.to/dhruvjoshi9/how-ai-native-engineering-changes-architecture-decisions-274e)
+- [How AI Is Quietly Changing Software Development in 2026 &lpar;Real Examples&rpar;](https://dev.to/shreekansha97/how-ai-is-quietly-changing-software-development-in-2026-real-examples-1kej)
+- [Dinesh Somaraju | Portfolio](https://dev.to/dinesh_somaraju/dinesh-somaraju-portfolio-4g2k)
+- [Autopilot - Extra: Coding a Zero-Maintenance, AI-Native Newsletter System](https://dev.to/datalaria/autopilot-extra-coding-a-zero-maintenance-ai-native-newsletter-system-5cf5)
+- [Master Your Workflow: Top Gemini CLI Commands You Should Know | Gemini CLI CheatSheet](https://dev.to/sampathm/master-your-workflow-top-gemini-cli-commands-you-should-know-gemini-cli-cheatsheet-3l9o)
 <!-- BLOG-POST-LIST:END -->
 
 
