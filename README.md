@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trading CV- A different and interactive way to share your skills.](https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o)
-- [🧠 Mastering VS Code Debugger for Node.js: A Real-World Guide to Fixing Production Bugs Faster 🚀](https://dev.to/darshanraval/mastering-vs-code-debugger-for-nodejs-a-real-world-guide-to-fixing-production-bugs-faster-ae3)
-- [I built a text-first browser idle game — and it unexpectedly found players in 33+ countries](https://dev.to/marcosme/i-built-a-text-first-browser-idle-game-and-it-unexpectedly-found-players-in-33-countries-1bnb)
-- [Irreparable Reputational Damage, Courtesy of Lazy Algorithms](https://dev.to/pithycyborg/irreparable-reputational-damage-courtesy-of-lazy-algorithms-368b)
+- [Understanding the exploding gradient problem](https://dev.to/paperium/understanding-the-exploding-gradient-problem-4dl0)
+- [What I learned from being an editor/reviewer for the 2025 Perl Advent Calendar](https://dev.to/marc_perry_be3c8ed5989a1b/what-i-learned-from-being-an-editorreviewer-for-the-2025-perl-advent-calendar-2bk9)
+- [🔬 Copilot Autopsy: AI-Powered Repository Forensics](https://dev.to/xdarwin13/copilot-autopsy-ai-powered-repository-forensics-4ehf)
+- [The Definitive Blueprint for Constructing a Fortified Cloud Infrastructure: A Focus on AWS](https://dev.to/aws-builders/the-definitive-blueprint-for-constructing-a-fortified-cloud-infrastructure-a-focus-on-aws-28gp)
 <!-- BLOG-POST-LIST:END -->
 
 
