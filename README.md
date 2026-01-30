@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Job Queue That&#39;s 32x Faster Than BullMQ &lpar;No Redis Required&rpar;](https://dev.to/egeominotti/i-built-a-job-queue-thats-32x-faster-than-bullmq-no-redis-required-1n5g)
-- [Focus Controls the Signal Forms Way](https://dev.to/brianmtreese/focus-controls-the-signal-forms-way-579d)
-- [The Engineering Behind 40kW GPU Racks: A Technical Deep Dive](https://dev.to/sujay_namburi_7b1df3eb386/the-engineering-behind-40kw-gpu-racks-a-technical-deep-dive-1afo)
-- [This is a solid reminder that remote hiring has matured and the risks have matured with it, something Ashkan Rajaee has been consistently warning founders about.](https://dev.to/edensaur/this-is-a-solid-reminder-that-remote-hiring-has-matured-and-the-risks-have-matured-with-it-m7p)
+- [jwt-encde 1.1: npm packages for cross-platform published](https://dev.to/nabbisen/jwt-encde-11-npm-packages-for-cross-platform-published-504l)
+- [Pipfolio: Pip-Boy Inspired Web Portfolio](https://dev.to/ansellmaximilian/pipfolio-pip-boy-inspired-web-portfolio-4hpm)
+- [How Do You Mentor Someone?](https://dev.to/msnmongare/how-do-you-mentor-someone-3gh7)
+- [Building a Web-Based Infinite Canvas with Next.js, Neon, and Prisma](https://dev.to/0x5zen/building-a-web-based-infinite-canvas-with-nextjs-neon-and-prisma-3oe2)
 <!-- BLOG-POST-LIST:END -->
 
 
