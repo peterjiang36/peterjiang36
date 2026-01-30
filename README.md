@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React.js Forms The Coffee Shop Principle: Why Your Are Losing Users &lpar;And How to Fix Them&rpar;](https://dev.to/igornosatov_15/the-coffee-shop-principle-why-your-react-forms-are-losing-users-and-how-to-fix-them-23de)
-- [Building Scalable Data Pipelines with Airflow, Docker, and Python: A SightSearch Case Study](https://dev.to/oliver_samuel_028c6f65ad6/building-scalable-data-pipelines-with-airflow-docker-and-python-a-sightsearch-case-study-e9)
-- [Reversing a String with Constant Space Complexity in C++](https://dev.to/cmalaga/reversing-a-string-with-constant-space-complexity-in-c-49gf)
-- [🧬 Beginner-Friendly Guide &#39;Minimum Cost to Convert String II&#39; - Problem 2977 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-ii-problem-2977-c-python-2f4p)
+- [Analytics vs Raw Data](https://dev.to/khaled_01/analytics-vs-raw-data-2b6e)
+- [Your MacBook is Now a Pharmacist: Building a Private, Offline AI Assistant with Llama 3 and DuckDB](https://dev.to/wellallytech/your-macbook-is-now-a-pharmacist-building-a-private-offline-ai-assistant-with-llama-3-and-duckdb-3mdi)
+- [Why Are Western Brands Everywhere?](https://dev.to/devunionx/why-are-western-brands-everywhere-48hf)
+- [resticprofile: Consolidating Exclusion Patterns, Generation Management, and Scheduling in a Single YAML File](https://dev.to/tumf/resticprofile-consolidating-exclusion-patterns-generation-management-and-scheduling-in-a-single-1d2k)
 <!-- BLOG-POST-LIST:END -->
 
 
