@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Somalia is the Next Frontier for Tech Innovation](https://dev.to/abbas_moho/why-somalia-is-the-next-frontier-for-tech-innovation-3ngl)
-- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
-- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-7fg)
-- [React vs Next.js: When I Stopped Building SPAs and Started Shipping Faster](https://dev.to/pdflinx_9ba03e6a7/react-vs-nextjs-when-i-stopped-building-spas-and-started-shipping-faster-3j1h)
+- [NPR Music: Ollella: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ollella-tiny-desk-concert-13m9)
+- [Building Your Personal Brand as a Data Analyst](https://dev.to/adnan_arif_14ae4bc014267f/building-your-personal-brand-as-a-data-analyst-i1a)
+- [FLUX.2 [flex] Challenge](https://dev.to/pruna-ai/flux2-flex-challenge-4b63)
+- [The Paradox of Progress](https://dev.to/rawveg/the-paradox-of-progress-2ad4)
 <!-- BLOG-POST-LIST:END -->
 
 
