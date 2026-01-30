@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EVOLUSI ALUR KERJA: IMPLEMENTASI HUMAN-IN-THE-LOOP DAN TATA KELOLA AGENIK DALAM PENGEMBANGAN PERANGKAT LUNAK](https://dev.to/radityadiedraalghifari/evolusi-alur-kerja-implementasi-human-in-the-loop-dan-tata-kelola-agenik-dalam-pengembangan-2olb)
-- [When AI “Safety” Breaks Trust: How Guardrails Override Truth in ChatGPT](https://dev.to/formantaudio/when-ai-safety-breaks-trust-how-guardrails-override-truth-in-chatgpt-5d0l)
-- [Understanding LED Display Mapping: From Resolution to Physical Screens](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/understanding-led-display-mapping-from-resolution-to-physical-screens-1c56)
-- [How to Organize a &quot;Vibe Coding&quot; Hackathon](https://dev.to/dorahacks/how-to-organize-a-vibe-coding-hackathon-3mh5)
+- [My Hardships with ray marching](https://dev.to/no_arms_studio/my-studies-of-ray-marching-20cp)
+- [How a “Neutral” Supabase vs Convex Comparison Broke Trust in DevTools](https://dev.to/sivarampg/how-a-neutral-supabase-vs-convex-comparison-broke-trust-in-devtools-4108)
+- [Filtering 13M Records at 2ms: Where to Draw the Line Between UX and Performance?](https://dev.to/fabrice_grenouillet_c10f1/filtering-13m-records-at-2ms-where-to-draw-the-line-between-ux-and-performance-pg3)
+- [connect.timeout.millis vs io.timeout.millis ,What’s the Difference in API Proxies in Apigee X?](https://dev.to/realnamehidden1_61/connecttimeoutmillis-vs-iotimeoutmillis-whats-the-difference-in-api-proxies-in-apigee-x-1i58)
 <!-- BLOG-POST-LIST:END -->
 
 
