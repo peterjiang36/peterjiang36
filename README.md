@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hardships with ray marching](https://dev.to/no_arms_studio/my-studies-of-ray-marching-20cp)
-- [How a “Neutral” Supabase vs Convex Comparison Broke Trust in DevTools](https://dev.to/sivarampg/how-a-neutral-supabase-vs-convex-comparison-broke-trust-in-devtools-4108)
-- [Filtering 13M Records at 2ms: Where to Draw the Line Between UX and Performance?](https://dev.to/fabrice_grenouillet_c10f1/filtering-13m-records-at-2ms-where-to-draw-the-line-between-ux-and-performance-pg3)
-- [connect.timeout.millis vs io.timeout.millis ,What’s the Difference in API Proxies in Apigee X?](https://dev.to/realnamehidden1_61/connecttimeoutmillis-vs-iotimeoutmillis-whats-the-difference-in-api-proxies-in-apigee-x-1i58)
+- [How To Rizz: A Consent-Aware Playbook For Real Charisma](https://dev.to/_1b1e383fa31c867fbf0bc/how-to-rizz-a-consent-aware-playbook-for-real-charisma-16f0)
+- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
+- [How to Choose Best Cloud Hosting and Best Practices](https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon)
+- [Devlog #2 — how to connect TailwindCSS to Electron Forge?](https://dev.to/cebastion/devlog-2-how-to-connect-tailwindcss-to-electron-forge-46ea)
 <!-- BLOG-POST-LIST:END -->
 
 
