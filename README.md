@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Analytics vs Raw Data](https://dev.to/khaled_01/analytics-vs-raw-data-2b6e)
-- [Your MacBook is Now a Pharmacist: Building a Private, Offline AI Assistant with Llama 3 and DuckDB](https://dev.to/wellallytech/your-macbook-is-now-a-pharmacist-building-a-private-offline-ai-assistant-with-llama-3-and-duckdb-3mdi)
-- [Why Are Western Brands Everywhere?](https://dev.to/devunionx/why-are-western-brands-everywhere-48hf)
-- [resticprofile: Consolidating Exclusion Patterns, Generation Management, and Scheduling in a Single YAML File](https://dev.to/tumf/resticprofile-consolidating-exclusion-patterns-generation-management-and-scheduling-in-a-single-1d2k)
+- [EVOLUSI ALUR KERJA: IMPLEMENTASI HUMAN-IN-THE-LOOP DAN TATA KELOLA AGENIK DALAM PENGEMBANGAN PERANGKAT LUNAK](https://dev.to/radityadiedraalghifari/evolusi-alur-kerja-implementasi-human-in-the-loop-dan-tata-kelola-agenik-dalam-pengembangan-2olb)
+- [When AI “Safety” Breaks Trust: How Guardrails Override Truth in ChatGPT](https://dev.to/formantaudio/when-ai-safety-breaks-trust-how-guardrails-override-truth-in-chatgpt-5d0l)
+- [Understanding LED Display Mapping: From Resolution to Physical Screens](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/understanding-led-display-mapping-from-resolution-to-physical-screens-1c56)
+- [How to Organize a &quot;Vibe Coding&quot; Hackathon](https://dev.to/dorahacks/how-to-organize-a-vibe-coding-hackathon-3mh5)
 <!-- BLOG-POST-LIST:END -->
 
 
