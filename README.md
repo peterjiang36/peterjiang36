@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LMAD MCP FOR LARAVEL](https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6)
-- [Solved: Syncing GitLab Merge Requests to a Notion Database](https://dev.to/techresolve/solved-syncing-gitlab-merge-requests-to-a-notion-database-4abp)
-- [Automação GitOps com Terraform e Proxmox](https://dev.to/luiscruzcwb/automacao-gitops-com-terraform-e-proxmox-12m7)
-- [Building a Simple DNS Forwarder for VMs in Go](https://dev.to/krjakbrjak/building-a-simple-dns-forwarder-for-vms-in-go-1gm4)
+- [Why do keys matter in React, and how do they improve performance?](https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m)
+- [Openclaw: Why This Flawed AI Assistant is the Blueprint for Your Digital Future](https://dev.to/dflow/openclaw-why-this-flawed-ai-assistant-is-the-blueprint-for-your-digital-future-4faf)
+- [🤖 I Taught My Terminal to Predict the Weather: AI-Powered Development Environment Optimization](https://dev.to/respect17/i-taught-my-terminal-to-predict-the-weather-ai-powered-development-environment-optimization-13a)
+- [Build a Survey Form](https://dev.to/richardpascoe/build-a-survey-form-2li9)
 <!-- BLOG-POST-LIST:END -->
 
 
