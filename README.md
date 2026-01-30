@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Rizz: A Consent-Aware Playbook For Real Charisma](https://dev.to/_1b1e383fa31c867fbf0bc/how-to-rizz-a-consent-aware-playbook-for-real-charisma-16f0)
-- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
-- [How to Choose Best Cloud Hosting and Best Practices](https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon)
-- [Devlog #2 — how to connect TailwindCSS to Electron Forge?](https://dev.to/cebastion/devlog-2-how-to-connect-tailwindcss-to-electron-forge-46ea)
+- [From Moltbot to OpenClaw: When the Dust Settles, the Project Survived](https://dev.to/sivarampg/from-moltbot-to-openclaw-when-the-dust-settles-the-project-survived-5h6o)
+- [Master Method Overloading and Overriding in Android &lpar;Kotlin&rpar; Development](https://dev.to/supriya_shah_1e9c3df6158c/master-method-overloading-and-overriding-in-android-kotlin-development-jid)
+- [Measuring ROI of Forward-Looking Design Decisions with ADR](https://dev.to/tielec-takashi/measuring-roi-of-forward-looking-design-decisions-with-adr-jjd)
+- [How AI-Native Engineering Changes Architecture Decisions](https://dev.to/dhruvjoshi9/how-ai-native-engineering-changes-architecture-decisions-274e)
 <!-- BLOG-POST-LIST:END -->
 
 
