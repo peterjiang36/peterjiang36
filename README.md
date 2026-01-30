@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
-- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
-- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
-- [A Practical JSON “Fix-It” Workflow &lpar;and the browser tools I keep open all day&rpar;](https://dev.to/wesley_zhang_22e9a53ad025/a-practical-json-fix-it-workflow-and-the-browser-tools-i-keep-open-all-day-58fe)
+- [React.js Forms The Coffee Shop Principle: Why Your Are Losing Users &lpar;And How to Fix Them&rpar;](https://dev.to/igornosatov_15/the-coffee-shop-principle-why-your-react-forms-are-losing-users-and-how-to-fix-them-23de)
+- [Building Scalable Data Pipelines with Airflow, Docker, and Python: A SightSearch Case Study](https://dev.to/oliver_samuel_028c6f65ad6/building-scalable-data-pipelines-with-airflow-docker-and-python-a-sightsearch-case-study-e9)
+- [Reversing a String with Constant Space Complexity in C++](https://dev.to/cmalaga/reversing-a-string-with-constant-space-complexity-in-c-49gf)
+- [🧬 Beginner-Friendly Guide &#39;Minimum Cost to Convert String II&#39; - Problem 2977 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-ii-problem-2977-c-python-2f4p)
 <!-- BLOG-POST-LIST:END -->
 
 
