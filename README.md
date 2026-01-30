@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Ways Businesses Can Stay Competitive With Remote Talent](https://dev.to/jugal_joshi_b0c2c253e5374/8-ways-businesses-can-stay-competitive-with-remote-talent-n79)
-- [Lessons Learned While Exploring AI-Assisted Resume Optimization](https://dev.to/airesumebuilder/lessons-learned-while-exploring-ai-assisted-resume-optimization-3029)
-- [I Found One Interesting Open Source GitHub Gem 🔥](https://dev.to/anthonymax/i-found-one-interesting-open-source-github-gem-baa)
-- [Building C-Pad: A ZX Spectrum–style C Playground for Instant Graphics](https://dev.to/yossi_kadosh_82954d709237/building-c-pad-a-zx-spectrum-style-c-playground-for-instant-graphics-1b69)
+- [Why Somalia is the Next Frontier for Tech Innovation](https://dev.to/abbas_moho/why-somalia-is-the-next-frontier-for-tech-innovation-3ngl)
+- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
+- [An Antarctic Station, Silence, and Something Beneath the Ice](https://dev.to/antelusgames/an-antarctic-station-silence-and-something-beneath-the-ice-7fg)
+- [React vs Next.js: When I Stopped Building SPAs and Started Shipping Faster](https://dev.to/pdflinx_9ba03e6a7/react-vs-nextjs-when-i-stopped-building-spas-and-started-shipping-faster-3j1h)
 <!-- BLOG-POST-LIST:END -->
 
 
