@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [jwt-encde 1.1: npm packages for cross-platform published](https://dev.to/nabbisen/jwt-encde-11-npm-packages-for-cross-platform-published-504l)
-- [Pipfolio: Pip-Boy Inspired Web Portfolio](https://dev.to/ansellmaximilian/pipfolio-pip-boy-inspired-web-portfolio-4hpm)
-- [How Do You Mentor Someone?](https://dev.to/msnmongare/how-do-you-mentor-someone-3gh7)
-- [Building a Web-Based Infinite Canvas with Next.js, Neon, and Prisma](https://dev.to/0x5zen/building-a-web-based-infinite-canvas-with-nextjs-neon-and-prisma-3oe2)
+- [8 Ways Businesses Can Stay Competitive With Remote Talent](https://dev.to/jugal_joshi_b0c2c253e5374/8-ways-businesses-can-stay-competitive-with-remote-talent-n79)
+- [Lessons Learned While Exploring AI-Assisted Resume Optimization](https://dev.to/airesumebuilder/lessons-learned-while-exploring-ai-assisted-resume-optimization-3029)
+- [I Found One Interesting Open Source GitHub Gem 🔥](https://dev.to/anthonymax/i-found-one-interesting-open-source-github-gem-baa)
+- [Building C-Pad: A ZX Spectrum–style C Playground for Instant Graphics](https://dev.to/yossi_kadosh_82954d709237/building-c-pad-a-zx-spectrum-style-c-playground-for-instant-graphics-1b69)
 <!-- BLOG-POST-LIST:END -->
 
 
