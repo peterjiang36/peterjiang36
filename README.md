@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do keys matter in React, and how do they improve performance?](https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m)
-- [Openclaw: Why This Flawed AI Assistant is the Blueprint for Your Digital Future](https://dev.to/dflow/openclaw-why-this-flawed-ai-assistant-is-the-blueprint-for-your-digital-future-4faf)
-- [🤖 I Taught My Terminal to Predict the Weather: AI-Powered Development Environment Optimization](https://dev.to/respect17/i-taught-my-terminal-to-predict-the-weather-ai-powered-development-environment-optimization-13a)
-- [Build a Survey Form](https://dev.to/richardpascoe/build-a-survey-form-2li9)
+- [Trading CV- A different and interactive way to share your skills.](https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o)
+- [🧠 Mastering VS Code Debugger for Node.js: A Real-World Guide to Fixing Production Bugs Faster 🚀](https://dev.to/darshanraval/mastering-vs-code-debugger-for-nodejs-a-real-world-guide-to-fixing-production-bugs-faster-ae3)
+- [I built a text-first browser idle game — and it unexpectedly found players in 33+ countries](https://dev.to/marcosme/i-built-a-text-first-browser-idle-game-and-it-unexpectedly-found-players-in-33-countries-1bnb)
+- [Irreparable Reputational Damage, Courtesy of Lazy Algorithms](https://dev.to/pithycyborg/irreparable-reputational-damage-courtesy-of-lazy-algorithms-368b)
 <!-- BLOG-POST-LIST:END -->
 
 
