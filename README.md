@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we removed caching from a critical API](https://dev.to/shitij_bhatnagar_b6d1be72/why-we-removed-caching-from-a-critical-api-312p)
-- [When and How to Use LRU Cache in Node.js Backend Projects](https://dev.to/darkmavis1980/when-and-how-to-use-lru-cache-in-nodejs-backend-projects-42c8)
-- [Practical Git &amp; GitHub Setup for Real-World Projects](https://dev.to/itxshakil/practical-git-github-setup-for-real-world-projects-38if)
-- [Day-3 details of Class and Object](https://dev.to/karthick_m22/details-of-class-and-object-31o7)
+- [LMAD MCP FOR LARAVEL](https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6)
+- [Solved: Syncing GitLab Merge Requests to a Notion Database](https://dev.to/techresolve/solved-syncing-gitlab-merge-requests-to-a-notion-database-4abp)
+- [Automação GitOps com Terraform e Proxmox](https://dev.to/luiscruzcwb/automacao-gitops-com-terraform-e-proxmox-12m7)
+- [Building a Simple DNS Forwarder for VMs in Go](https://dev.to/krjakbrjak/building-a-simple-dns-forwarder-for-vms-in-go-1gm4)
 <!-- BLOG-POST-LIST:END -->
 
 
