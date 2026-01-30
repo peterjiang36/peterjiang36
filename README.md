@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the exploding gradient problem](https://dev.to/paperium/understanding-the-exploding-gradient-problem-4dl0)
-- [What I learned from being an editor/reviewer for the 2025 Perl Advent Calendar](https://dev.to/marc_perry_be3c8ed5989a1b/what-i-learned-from-being-an-editorreviewer-for-the-2025-perl-advent-calendar-2bk9)
-- [🔬 Copilot Autopsy: AI-Powered Repository Forensics](https://dev.to/xdarwin13/copilot-autopsy-ai-powered-repository-forensics-4ehf)
-- [The Definitive Blueprint for Constructing a Fortified Cloud Infrastructure: A Focus on AWS](https://dev.to/aws-builders/the-definitive-blueprint-for-constructing-a-fortified-cloud-infrastructure-a-focus-on-aws-28gp)
+- [Uma Introdução Simples a Séries Temporais](https://dev.to/lusgaoliveira/uma-introducao-simples-a-series-temporais-1im6)
+- [Making games is fun, but... What makes a game fun?](https://dev.to/1ribeirolucas/making-games-is-fun-but-what-makes-a-game-fun-44fp)
+- [When Scaling Process Kills Working Teams](https://dev.to/ghostinit0x/when-scaling-process-kills-working-teams-19hm)
+- [I Vibe Coded a 3D Portfolio with Gemini](https://dev.to/the_buggeddev_6c7955c6ff/i-vibe-coded-a-3d-portfolio-with-gemini-2m32)
 <!-- BLOG-POST-LIST:END -->
 
 
