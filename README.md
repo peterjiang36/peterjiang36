@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock Guardrails - Step-by-step implementation with Serverless](https://dev.to/wfernandezs/amazon-bedrock-guardrails-step-by-step-implementation-with-serverless-3ji2)
-- [DAY3 -Monitoring &amp; Scaling](https://dev.to/maso_eb42159b65f6592/day3-monitoring-scaling-3jn6)
-- [Serving SSE-KMS Encrypted Content from S3 Using CloudFront](https://dev.to/abdulrasheed_abdulazeez_7/serving-sse-kms-encrypted-content-from-s3-using-cloudfront-5c2b)
-- [VM CLI](https://dev.to/jaidevbot/vm-cli-13ab)
+- [Dev Portfolio](https://dev.to/lukepongadev/dev-portfolio-539a)
+- [Objective-Reinforced Generative Adversarial Networks &lpar;ORGAN&rpar; for SequenceGeneration Models](https://dev.to/paperium/objective-reinforced-generative-adversarial-networks-organ-for-sequencegeneration-models-1cg3)
+- [Google&#39;s Gemini Gradient Design Draws Parallels with 1984 Macintosh](https://dev.to/alan_maulanaibrahim_e18c_8/googles-gemini-gradient-design-draws-parallels-with-1984-macintosh-cn4)
+- [Pose as Data: Building a Real-Time AI Physical Therapist with MediaPipe and GPT-4o](https://dev.to/beck_moulton/pose-as-data-building-a-real-time-ai-physical-therapist-with-mediapipe-and-gpt-4o-5ag5)
 <!-- BLOG-POST-LIST:END -->
 
 
