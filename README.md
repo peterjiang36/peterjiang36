@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
-- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
-- [To Make My Workflow More Effective, I Tried a Lot](https://dev.to/vilo-time/to-make-my-workflow-more-effective-i-tried-a-lot-3hgd)
-- [How to Turn Raw Product Photos Into Studio-Quality Images with AI](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-turn-raw-product-photos-into-studio-quality-images-with-ai-4l2l)
+- [The Secret Life of JavaScript: The Proxy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-proxy-1en)
+- [How I Cut API Latency by 95% by Fixing One Hidden Loop ❤️‍🔥](https://dev.to/naveenc83002940/how-i-cut-api-latency-by-95-by-fixing-one-hidden-loop-4i7j)
+- [Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI](https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a)
+- [20+ Git Commands Every Software Engineer Should Actually Know](https://dev.to/speaklouder/20-git-commands-every-software-engineer-should-actually-know-1gnf)
 <!-- BLOG-POST-LIST:END -->
 
 
