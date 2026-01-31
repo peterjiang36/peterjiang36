@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of JavaScript: The Proxy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-proxy-1en)
-- [How I Cut API Latency by 95% by Fixing One Hidden Loop ❤️‍🔥](https://dev.to/naveenc83002940/how-i-cut-api-latency-by-95-by-fixing-one-hidden-loop-4i7j)
-- [Debugging a Failing Test Entirely from the Terminal with GitHub Copilot CLI](https://dev.to/manoj_kiran_4ff6ecaa902bd/debugging-a-failing-test-entirely-from-the-terminal-with-github-copilot-cli-447a)
-- [20+ Git Commands Every Software Engineer Should Actually Know](https://dev.to/speaklouder/20-git-commands-every-software-engineer-should-actually-know-1gnf)
+- [Coding in Peace - The Story Behind Harmonia Zen](https://dev.to/agusrdz/coding-in-peace-the-story-behind-harmonia-zen-3370)
+- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
+- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
+- [Coding is not disappearing. It’s being demoted from the core value to a supporting skill.
+
+And that’s not the end of the developer profession. It’s the moment it grows up.](https://dev.to/jaideepparashar/coding-is-not-disappearing-its-being-demoted-from-the-core-value-to-a-supporting-skill-and-4jdl)
 <!-- BLOG-POST-LIST:END -->
 
 
