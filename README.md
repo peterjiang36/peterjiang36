@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding in Peace - The Story Behind Harmonia Zen](https://dev.to/agusrdz/coding-in-peace-the-story-behind-harmonia-zen-3370)
-- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
-- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
-- [Coding is not disappearing. It’s being demoted from the core value to a supporting skill.
-
-And that’s not the end of the developer profession. It’s the moment it grows up.](https://dev.to/jaideepparashar/coding-is-not-disappearing-its-being-demoted-from-the-core-value-to-a-supporting-skill-and-4jdl)
+- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec)
+- [Prompt Engineering: The Complete Guide to Better AI Outputs](https://dev.to/mem0/prompt-engineering-the-complete-guide-to-better-ai-outputs-1e94)
+- [Docker](https://dev.to/elayaraj31/docker-2294)
+- [Why Kubernetes Docs Prefer Headlamp Over the Kubernetes Dashboard](https://dev.to/sharonkynu/why-kubernetes-docs-prefer-headlamp-over-the-kubernetes-dashboard-29p5)
 <!-- BLOG-POST-LIST:END -->
 
 
