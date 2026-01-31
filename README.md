@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
-- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
-- [Google Prepares Smart Reply &#39;Tap to Edit&#39; Feature for Android Users](https://dev.to/alan_maulanaibrahim_e18c_8/google-prepares-smart-reply-tap-to-edit-feature-for-android-users-3oeb)
-- [editMode environment variable](https://dev.to/muhdmirzamz/editmode-environment-variable-3999)
+- [CSS Selectors 101](https://dev.to/m-asif-ansari/css-selectors-101-40kg)
+- [Beyond External Storage: What if AI Could Remember Like We Do?](https://dev.to/hejhdiss/beyond-external-storage-what-if-ai-could-remember-like-we-do-458j)
+- [Aegis-OS: Industrial Intelligence HUD by Gemini 2.5-Flash](https://dev.to/tahiryamin/aegis-os-industrial-intelligence-hud-by-gemini-25-flash-f3a)
+- [A Portfolio You Query, Not Scroll](https://dev.to/shiv669/a-portfolio-you-query-not-scroll-12p7)
 <!-- BLOG-POST-LIST:END -->
 
 
