@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go &lpar;With Simulation&rpar;](https://dev.to/rafael_panisset/retry-strategies-compared-constant-vs-exponential-backoff-vs-jitter-in-go-with-simulation-1mce)
-- [SwiftUI Dark Mode: The Complete Implementation Guide](https://dev.to/__be2942592/swiftui-dark-mode-the-complete-implementation-guide-3f8i)
-- [5 SwiftUI Tips That Will Make Your Code 10x Cleaner](https://dev.to/__be2942592/5-swiftui-tips-that-will-make-your-code-10x-cleaner-39d8)
-- [You&#39;re Consuming Too Much and Creating Too Little](https://dev.to/ruhidibadli/youre-consuming-too-much-and-creating-too-little-1dfm)
+- [I Built a Timestamp Converter That Doesn&#39;t Suck &lpar;And It&#39;s Free&rpar;](https://dev.to/ravi_kumar_524ae0f5457b12/i-built-a-timestamp-converter-that-doesnt-suck-and-its-free-318l)
+- [Effects and InjectionContext in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/effects-and-injectioncontext-in-angularv21-20ib)
+- [I Built Bruno Simon&#39;s Portfolio in 20 Days — Here&#39;s My Jakarta Street 3D Experience](https://dev.to/asynchronope/i-built-bruno-simons-portfolio-in-20-days-heres-my-jakarta-street-3d-experience-2ghp)
+- [Advanced Prompting Techniques — Automating Reasoning &amp; Persona-Based AI&lpar;Part 3&rpar;](https://dev.to/prabhasg56/advanced-prompting-techniques-automating-reasoning-persona-based-aipart-3-1mh6)
 <!-- BLOG-POST-LIST:END -->
 
 
