@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Incident to Stability: My Interactive DevOps Portfolio on Cloud Run](https://dev.to/noor_halabi_652daedd5d9ac/from-incident-to-stability-my-interactive-devops-portfolio-on-cloud-run-13g6)
-- [High Code vs Vibe Coding: O Desenvolvedor do Futuro Não Escolhe um Lado — Ele Domina os Dois](https://dev.to/rodrigorahman/high-code-vs-vibe-coding-o-desenvolvedor-do-futuro-nao-escolhe-um-lado-ele-domina-os-dois-2cb4)
-- [Building a Portfolio with Gemini - New Year, New You Portfolio Challenge](https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m)
-- [From Dream to Reality: My First Resizable Sidebar UI](https://dev.to/usama_dev/from-dream-to-reality-my-first-resizable-sidebar-ui-21p)
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
+- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
+- [Google Prepares Smart Reply &#39;Tap to Edit&#39; Feature for Android Users](https://dev.to/alan_maulanaibrahim_e18c_8/google-prepares-smart-reply-tap-to-edit-feature-for-android-users-3oeb)
+- [editMode environment variable](https://dev.to/muhdmirzamz/editmode-environment-variable-3999)
 <!-- BLOG-POST-LIST:END -->
 
 
