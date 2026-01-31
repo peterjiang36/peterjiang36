@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Timestamp Converter That Doesn&#39;t Suck &lpar;And It&#39;s Free&rpar;](https://dev.to/ravi_kumar_524ae0f5457b12/i-built-a-timestamp-converter-that-doesnt-suck-and-its-free-318l)
-- [Effects and InjectionContext in Angular&lpar;v21&rpar;](https://dev.to/pckalyan/effects-and-injectioncontext-in-angularv21-20ib)
-- [I Built Bruno Simon&#39;s Portfolio in 20 Days — Here&#39;s My Jakarta Street 3D Experience](https://dev.to/asynchronope/i-built-bruno-simons-portfolio-in-20-days-heres-my-jakarta-street-3d-experience-2ghp)
-- [Advanced Prompting Techniques — Automating Reasoning &amp; Persona-Based AI&lpar;Part 3&rpar;](https://dev.to/prabhasg56/advanced-prompting-techniques-automating-reasoning-persona-based-aipart-3-1mh6)
+- [Cloud Computing and DevOps: The Twin Engines of Modern Tech.](https://dev.to/adeniyi_odukoya_afe87425e/cloud-computing-and-devops-the-twin-engines-of-modern-tech-575n)
+- [Dicas avançadas do firefox](https://dev.to/voyeg3r/dicas-avancadas-do-firefox-3cg9)
+- [How I Competed and Won the First Module at NERC — Pakistan’s Premier Robotics Contest](https://dev.to/muhammad-ali-mustafa/how-i-competed-and-won-the-first-module-at-nerc-pakistans-premier-robotics-contest-4m6f)
+- [New Site For The Old Minimalist](https://dev.to/dsimp/new-site-for-the-old-minimalist-4ib9)
 <!-- BLOG-POST-LIST:END -->
 
 
