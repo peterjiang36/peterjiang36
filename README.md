@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec)
-- [Prompt Engineering: The Complete Guide to Better AI Outputs](https://dev.to/mem0/prompt-engineering-the-complete-guide-to-better-ai-outputs-1e94)
-- [Docker](https://dev.to/elayaraj31/docker-2294)
-- [Why Kubernetes Docs Prefer Headlamp Over the Kubernetes Dashboard](https://dev.to/sharonkynu/why-kubernetes-docs-prefer-headlamp-over-the-kubernetes-dashboard-29p5)
+- [Why have a flat Resume when you can have an OS? 🚀 Dive into BDK-OS](https://dev.to/bdhamithkumara/why-have-a-flat-resume-when-you-can-have-an-os-dive-into-bdk-os-2dm2)
+- [Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-email-flow-validation-how-a-security-researcher-leveraged-docker-for-efficient-testing-4fab)
+- [Leveraging Linux for Bypassing Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-bypassing-gated-content-during-high-traffic-events-9im)
+- [Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard](https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae)
 <!-- BLOG-POST-LIST:END -->
 
 
