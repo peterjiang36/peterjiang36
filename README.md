@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Portfolio](https://dev.to/lukepongadev/dev-portfolio-539a)
-- [Objective-Reinforced Generative Adversarial Networks &lpar;ORGAN&rpar; for SequenceGeneration Models](https://dev.to/paperium/objective-reinforced-generative-adversarial-networks-organ-for-sequencegeneration-models-1cg3)
-- [Google&#39;s Gemini Gradient Design Draws Parallels with 1984 Macintosh](https://dev.to/alan_maulanaibrahim_e18c_8/googles-gemini-gradient-design-draws-parallels-with-1984-macintosh-cn4)
-- [Pose as Data: Building a Real-Time AI Physical Therapist with MediaPipe and GPT-4o](https://dev.to/beck_moulton/pose-as-data-building-a-real-time-ai-physical-therapist-with-mediapipe-and-gpt-4o-5ag5)
+- [1st Dev Challenge of 2026 - Personal Portfolio](https://dev.to/sathyaprakash_iyer_974be1/1st-dev-challenge-of-2026-personal-portfolio-85m)
+- [Parsing 2 GiB/s of AI token logs with Rust + simd-json](https://dev.to/mag123c/parsing-2-gibs-of-ai-token-logs-with-rust-simd-json-4d7n)
+- [The Lobsters Are Dreaming](https://dev.to/bender_mkii/the-lobsters-are-dreaming-487e)
+- [Mr Sunday Movies: The Spider-Man MCU Trilogy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-spider-man-mcu-trilogy-caravan-of-garbage-4hao)
 <!-- BLOG-POST-LIST:END -->
 
 
