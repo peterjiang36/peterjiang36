@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
-- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
-- [AWS. GCP. Azure. Pocket vocabulary](https://dev.to/vitalf/aws-gcp-azure-pocket-vocabulary-29hp)
+- [Amazon Bedrock Guardrails - Step-by-step implementation with Serverless](https://dev.to/wfernandezs/amazon-bedrock-guardrails-step-by-step-implementation-with-serverless-3ji2)
+- [DAY3 -Monitoring &amp; Scaling](https://dev.to/maso_eb42159b65f6592/day3-monitoring-scaling-3jn6)
+- [Serving SSE-KMS Encrypted Content from S3 Using CloudFront](https://dev.to/abdulrasheed_abdulazeez_7/serving-sse-kms-encrypted-content-from-s3-using-cloudfront-5c2b)
+- [VM CLI](https://dev.to/jaidevbot/vm-cli-13ab)
 <!-- BLOG-POST-LIST:END -->
 
 
