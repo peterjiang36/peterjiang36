@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1st Dev Challenge of 2026 - Personal Portfolio](https://dev.to/sathyaprakash_iyer_974be1/1st-dev-challenge-of-2026-personal-portfolio-85m)
-- [Parsing 2 GiB/s of AI token logs with Rust + simd-json](https://dev.to/mag123c/parsing-2-gibs-of-ai-token-logs-with-rust-simd-json-4d7n)
-- [The Lobsters Are Dreaming](https://dev.to/bender_mkii/the-lobsters-are-dreaming-487e)
-- [Mr Sunday Movies: The Spider-Man MCU Trilogy - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-spider-man-mcu-trilogy-caravan-of-garbage-4hao)
+- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
+- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
+- [To Make My Workflow More Effective, I Tried a Lot](https://dev.to/vilo-time/to-make-my-workflow-more-effective-i-tried-a-lot-3hgd)
+- [How to Turn Raw Product Photos Into Studio-Quality Images with AI](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-turn-raw-product-photos-into-studio-quality-images-with-ai-4l2l)
 <!-- BLOG-POST-LIST:END -->
 
 
