@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Reviews, your opinion](https://dev.to/rapidreviewer_io/performance-reviews-your-opinion-428p)
-- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-1h3f)
-- [🤯 Parte 2: Del caos al click mental: conectar Angular con el mundo real &lpar;y sobrevivir&rpar;](https://dev.to/laumontironi/parte-2-del-caos-al-click-mental-conectar-angular-con-el-mundo-real-y-sobrevivir-55fc)
-- [Nullish Coalescing &lpar;??&rpar; - Handle Defaults the Right Way](https://dev.to/chhavikohli/nullish-coalescing-handle-defaults-the-right-way-3jcc)
+- [Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go &lpar;With Simulation&rpar;](https://dev.to/rafael_panisset/retry-strategies-compared-constant-vs-exponential-backoff-vs-jitter-in-go-with-simulation-1mce)
+- [SwiftUI Dark Mode: The Complete Implementation Guide](https://dev.to/__be2942592/swiftui-dark-mode-the-complete-implementation-guide-3f8i)
+- [5 SwiftUI Tips That Will Make Your Code 10x Cleaner](https://dev.to/__be2942592/5-swiftui-tips-that-will-make-your-code-10x-cleaner-39d8)
+- [You&#39;re Consuming Too Much and Creating Too Little](https://dev.to/ruhidibadli/youre-consuming-too-much-and-creating-too-little-1dfm)
 <!-- BLOG-POST-LIST:END -->
 
 
