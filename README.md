@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why My Portfolio Has Superpowers and Villain Galleries](https://dev.to/lewisawe/why-my-portfolio-has-superpowers-and-villain-galleries-1hci)
-- [Most DSA Problems Are Repetitions](https://dev.to/rasoolk16/most-dsa-problems-are-repetitions-3m1p)
-- [How big is the EU tech dependence on the US?](https://dev.to/techbyadam/how-big-is-the-eu-tech-dependence-on-the-us-3667)
-- [From Senior Developer to Architect: A Complete Guide](https://dev.to/grigor_borisov_49590b5aa7/from-senior-developer-to-architect-a-complete-guide-168g)
+- [Performance Reviews, your opinion](https://dev.to/rapidreviewer_io/performance-reviews-your-opinion-428p)
+- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-1h3f)
+- [🤯 Parte 2: Del caos al click mental: conectar Angular con el mundo real &lpar;y sobrevivir&rpar;](https://dev.to/laumontironi/parte-2-del-caos-al-click-mental-conectar-angular-con-el-mundo-real-y-sobrevivir-55fc)
+- [Nullish Coalescing &lpar;??&rpar; - Handle Defaults the Right Way](https://dev.to/chhavikohli/nullish-coalescing-handle-defaults-the-right-way-3jcc)
 <!-- BLOG-POST-LIST:END -->
 
 
