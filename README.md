@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Portfolio, Infinite Versions: The Power of Agentic Personalization](https://dev.to/vishwajeet_singh_be18eefb/one-portfolio-infinite-versions-the-power-of-agentic-personalization-5gg0)
-- [From Local SQLite Scripts to a Cloud Platform with GitHub Copilot CLI](https://dev.to/pascal_cescato_692b7a8a20/from-local-sqlite-scripts-to-a-cloud-platform-with-github-copilot-cli-5a5h)
-- [Devise to Custom Auth: It’s Not Just `has_secure_password](https://dev.to/zilton7/devise-to-custom-auth-its-not-just-hassecurepassword-3pjm)
-- [How I Built a Privacy-First vCard QR Code Generator &lpar;No Backend Required&rpar;](https://dev.to/abhikb2005/how-i-built-a-privacy-first-vcard-qr-code-generator-no-backend-required-5c79)
+- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg)
+- [Deep dive into how Bifrost’s MCP Gateway and Code Mode enable scalable, production-grade LLM systems 🔥, reducing token costs, improving determinism, and making MCP-based AI workflows predictable, debuggable, and ready for real-world infrastructure.](https://dev.to/hadil/deep-dive-into-how-bifrosts-mcp-gateway-and-code-mode-enable-scalable-production-grade-llm-4jp2)
+- [Data Modelling and Schemas in Power BI](https://dev.to/faith_neno_ab7523752f338a/data-modelling-and-schemas-in-power-bi-4hgk)
+- [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
 <!-- BLOG-POST-LIST:END -->
 
 
