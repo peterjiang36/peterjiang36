@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to AI: How I Built an Interactive Portfolio with Google Antigravity &amp; Gemini &lpar;Zero Investment Challenge&rpar;](https://dev.to/keerthana_696356/from-zero-to-ai-how-i-built-an-interactive-portfolio-with-google-antigravity-gemini-zero-1l2)
-- [Scaling Legacy Systems: Strategies for Massive Load Testing on Linux](https://dev.to/mohammad_waseem_c31f3a26f/scaling-legacy-systems-strategies-for-massive-load-testing-on-linux-19m1)
-- [Help Wanted: Kernel Developers Needed to Build AI-Native Boot Infrastructure](https://dev.to/hejhdiss/help-wanted-kernel-developers-needed-to-build-ai-native-boot-infrastructure-297o)
-- [CDK - Using Central Register Pattern for Resource Sharing](https://dev.to/tyckofranklin/cdk-using-central-register-pattern-for-resource-sharing-27k2)
+- [ReactJS ~React Server Components~](https://dev.to/kkr0423/reactjs-react-server-components-29oo)
+- [How to Clone a GitLab Repository with a Self-Signed Certificate](https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9)
+- [Devlog #3 --- exchange data between Electron and React](https://dev.to/cebastion/devlog-3-exchange-data-between-electron-and-react-2639)
+- [How to Build Long-Term Memory for LLMs &lpar;RAG + FAISS Tutorial&rpar;](https://dev.to/devparihar5/how-to-build-long-term-memory-for-llms-rag-faiss-tutorial-13md)
 <!-- BLOG-POST-LIST:END -->
 
 
