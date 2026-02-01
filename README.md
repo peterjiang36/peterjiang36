@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The “Open Do Close” Rule That Changed How I Build Tools](https://dev.to/bhavin-allinonetools/the-open-do-close-rule-that-changed-how-i-build-tools-3p40)
-- [Engineering Management Nugget #6: From Firefighting to Architecting](https://dev.to/lek890/engineering-management-nugget-6-from-firefighting-to-architecting-2pme)
-- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
-- [Fix CORS, SQL Injection &amp; MySQL Pooling in React + Node.js](https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo)
+- [Why Developers Must Learn AI Ops to Stay Relevant in 2030](https://dev.to/jaideepparashar/why-developers-must-learn-ai-ops-to-stay-relevant-in-2030-867)
+- [The Moltbook Phenomenon: When AI Agents Build Their Own Society—And Why Security Experts Are Terrified](https://dev.to/om_shree_0709/the-moltbook-phenomenon-when-ai-agents-build-their-own-society-and-why-security-experts-are-38in)
+- [Catch N+1 Queries in Rails Request Specs with 11 Lines of Ruby](https://dev.to/sebasjimenezvel/catch-n1-queries-in-rails-request-specs-with-11-lines-of-ruby-3708)
+- [Android Developer and Student Portfolio using Gemini and Antigravity](https://dev.to/binarybhaskar/android-developer-and-student-portfolio-using-gemini-and-antigravity-2f1h)
 <!-- BLOG-POST-LIST:END -->
 
 
