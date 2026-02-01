@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS ~React Server Components~](https://dev.to/kkr0423/reactjs-react-server-components-29oo)
-- [How to Clone a GitLab Repository with a Self-Signed Certificate](https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9)
-- [Devlog #3 --- exchange data between Electron and React](https://dev.to/cebastion/devlog-3-exchange-data-between-electron-and-react-2639)
-- [How to Build Long-Term Memory for LLMs &lpar;RAG + FAISS Tutorial&rpar;](https://dev.to/devparihar5/how-to-build-long-term-memory-for-llms-rag-faiss-tutorial-13md)
+- [Implementing Login in a Next.js App with Passport, JWT, and DDD](https://dev.to/digitalrisedorset/implementing-login-in-a-nextjs-app-with-passport-jwt-and-ddd-2loe)
+- [Sector HQ Weekly Digest - February 1, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-1-2026-53og)
+- [FluxRPC Quickstart: Query Solana in 5 Minutes](https://dev.to/shivamsspirit/fluxrpc-quickstart-query-solana-in-5-minutes-mgk)
+- [Stop using JWT libraries: How to build your own Lightweight Tokens with node:crypto](https://dev.to/itsmefminsaf/stop-using-jwt-libraries-how-to-build-your-own-lightweight-tokens-with-nodecrypto-1dk3)
 <!-- BLOG-POST-LIST:END -->
 
 
