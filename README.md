@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Signatures: It’s Not Just About Performance, It’s About Ownership](https://dev.to/granza/c-signatures-its-not-just-about-performance-its-about-ownership-2hi7)
-- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p)
-- [What Really Happens When You Press the Power Button on Your Computer? The Boot Process Explained for Beginners](https://dev.to/amadu9933/what-really-happens-when-you-press-the-power-button-on-your-computer-the-boot-process-explained-57i8)
-- [The Missing Piece in Angular i18n](https://dev.to/atheodosiou/the-missing-piece-in-angular-i18n-57m0)
+- [Claude Code Custom Agent 설계 여정: Agent 중심에서 Task 중심으로](https://dev.to/wes5510/claude-code-custom-agent-seolgye-yeojeong-agent-jungsimeseo-task-jungsimeuro-4954)
+- [We&#39;re Two Years Away From Mass Unemployment And The Race to Superintelligence Won&#39;t Stop](https://dev.to/roshansharma17/were-two-years-away-from-mass-unemployment-and-the-race-to-superintelligence-wont-stop-4ja8)
+- [How to Get Started and Build with Gemini CLI &lpar;Powered by Gemini 3 Flash&rpar;](https://dev.to/leslysandra/how-to-get-started-and-build-with-gemini-cli-powered-by-gemini-3-flash-2mcc)
+- [New Year, New You: Architecting a High-Performance AI Portfolio using Python and Gemini](https://dev.to/arunshinde/new-year-new-you-architecting-a-high-performance-ai-portfolio-using-python-and-gemini-4amm)
 <!-- BLOG-POST-LIST:END -->
 
 
