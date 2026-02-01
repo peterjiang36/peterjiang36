@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Must Learn AI Ops to Stay Relevant in 2030](https://dev.to/jaideepparashar/why-developers-must-learn-ai-ops-to-stay-relevant-in-2030-867)
-- [The Moltbook Phenomenon: When AI Agents Build Their Own Society—And Why Security Experts Are Terrified](https://dev.to/om_shree_0709/the-moltbook-phenomenon-when-ai-agents-build-their-own-society-and-why-security-experts-are-38in)
-- [Catch N+1 Queries in Rails Request Specs with 11 Lines of Ruby](https://dev.to/sebasjimenezvel/catch-n1-queries-in-rails-request-specs-with-11-lines-of-ruby-3708)
-- [Android Developer and Student Portfolio using Gemini and Antigravity](https://dev.to/binarybhaskar/android-developer-and-student-portfolio-using-gemini-and-antigravity-2f1h)
+- [Zero-Budget Strategies for Optimizing Slow Queries in React Apps](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-strategies-for-optimizing-slow-queries-in-react-apps-23l)
+- [Overcoming Geo-Blocking in Enterprise React Applications: A Senior Architect’s Approach to Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocking-in-enterprise-react-applications-a-senior-architects-approach-to-testing-45eg)
+- [5 Mistakes That 99% Developers Make While Writing HTML or JSX 🚫💻](https://dev.to/hamidrazadev/5-mistakes-that-99-developers-make-while-writing-html-or-jsx-2b58)
+- [Solving Geo-Blocked Feature Testing with SQL on a Zero Budget](https://dev.to/mohammad_waseem_c31f3a26f/solving-geo-blocked-feature-testing-with-sql-on-a-zero-budget-4pno)
 <!-- BLOG-POST-LIST:END -->
 
 
